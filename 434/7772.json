@@ -1,0 +1,8 @@
+{
+  "vid": "434",
+  "vname": "DELL EMC (旧 EMC Corporation)",
+  "vcpe": "cpe:/:emc",
+  "pid": "7772",
+  "pname": "rsa key manager client",
+  "pcpe": "cpe:/a:emc:rsa_key_manager_client"
+}

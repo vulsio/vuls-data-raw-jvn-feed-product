@@ -1,0 +1,8 @@
+{
+  "vid": "216",
+  "vname": "Debian",
+  "vcpe": "cpe:/:debian",
+  "pid": "1911",
+  "pname": "MailScanner",
+  "pcpe": "cpe:/a:debian:mailscanner"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "485",
+  "vname": "Openswan",
+  "vcpe": "cpe:/:openswan",
+  "pid": "12314",
+  "pname": "linux-patch-openswan",
+  "pcpe": "cpe:/a:openswan:linux-patch-openswan"
+}

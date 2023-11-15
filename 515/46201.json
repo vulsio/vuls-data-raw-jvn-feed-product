@@ -1,0 +1,8 @@
+{
+  "vid": "515",
+  "vname": "VMware",
+  "vcpe": "cpe:/:vmware",
+  "pid": "46201",
+  "pname": "VMware Identity Manager Connector",
+  "pcpe": "cpe:/a:vmware:identity_manager_connector"
+}

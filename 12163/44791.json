@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "44791",
+  "pname": "Jenkins Copy Artifact",
+  "pcpe": "cpe:/a:jenkins:copy_artifact"
+}

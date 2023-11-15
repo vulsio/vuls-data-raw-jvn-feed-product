@@ -1,0 +1,8 @@
+{
+  "vid": "496",
+  "vname": "F5 Networks",
+  "vcpe": "cpe:/:f5",
+  "pid": "20085",
+  "pname": "BIG-IP Application Acceleration Manager (AAM)",
+  "pcpe": "cpe:/a:f5:big-ip_application_acceleration_manager"
+}

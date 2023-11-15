@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "2333",
+  "pname": "RHEL Cluster-Storage",
+  "pcpe": "cpe:/a:redhat:rhel_cluster_storage"
+}

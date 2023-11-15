@@ -1,0 +1,8 @@
+{
+  "vid": "2198",
+  "vname": "Advanced Micro Devices (AMD)",
+  "vcpe": "cpe:/:amd",
+  "pid": "54281",
+  "pname": "EPYC 7003 ファームウェア",
+  "pcpe": "cpe:/o:amd:epyc_7003_firmware"
+}

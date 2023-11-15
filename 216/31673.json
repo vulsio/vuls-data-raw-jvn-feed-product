@@ -1,0 +1,8 @@
+{
+  "vid": "216",
+  "vname": "Debian",
+  "vcpe": "cpe:/:debian",
+  "pid": "31673",
+  "pname": "postgresql-common",
+  "pcpe": "cpe:/a:debian:postgresql-common"
+}

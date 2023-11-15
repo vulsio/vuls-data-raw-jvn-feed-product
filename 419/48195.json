@@ -1,0 +1,8 @@
+{
+  "vid": "419",
+  "vname": "NetApp",
+  "vcpe": "cpe:/:netapp",
+  "pid": "48195",
+  "pname": "NetApp VASA Provider for Clustered Data ONTAP",
+  "pcpe": "cpe:/a:netapp:vasa_provider_for_clustered_data_ontap"
+}

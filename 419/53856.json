@@ -1,0 +1,8 @@
+{
+  "vid": "419",
+  "vname": "NetApp",
+  "vcpe": "cpe:/:netapp",
+  "pid": "53856",
+  "pname": "ONTAP System Manager",
+  "pcpe": "cpe:/a:netapp:ontap_system_manager"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "10316",
+  "vname": "Greenplum",
+  "vcpe": "cpe:/:greenplum",
+  "pid": "40935",
+  "pname": "Pivotal Application Manager",
+  "pcpe": "cpe:/a:greenplum:apps_manager"
+}

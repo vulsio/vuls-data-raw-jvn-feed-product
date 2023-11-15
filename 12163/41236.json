@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "41236",
+  "pname": "Deploy WebLogic",
+  "pcpe": "cpe:/a:jenkins:deploy_weblogic"
+}

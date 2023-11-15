@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "42915",
+  "pname": "Fortify",
+  "pcpe": "cpe:/a:jenkins:fortify"
+}

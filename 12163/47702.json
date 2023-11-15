@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "47702",
+  "pname": "Artifact Repository Parameter",
+  "pcpe": "cpe:/a:jenkins:artifact_repository_parameter"
+}

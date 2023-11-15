@@ -1,0 +1,8 @@
+{
+  "vid": "9898",
+  "vname": "Elasticsearch",
+  "vcpe": "cpe:/:elasticsearch",
+  "pid": "40207",
+  "pname": "Elastic APM agent",
+  "pcpe": "cpe:/a:elasticsearch:apm_agent"
+}

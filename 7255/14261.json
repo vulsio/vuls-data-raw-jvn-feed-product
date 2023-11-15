@@ -1,0 +1,8 @@
+{
+  "vid": "7255",
+  "vname": "Realtek Semiconductor Corp",
+  "vcpe": "cpe:/:realtek",
+  "pid": "14261",
+  "pname": "hd audio codec drivers",
+  "pcpe": "cpe:/a:realtek:hd_audio_codec_drivers"
+}

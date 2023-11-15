@@ -1,0 +1,8 @@
+{
+  "vid": "434",
+  "vname": "DELL EMC (旧 EMC Corporation)",
+  "vcpe": "cpe:/:emc",
+  "pid": "3081",
+  "pname": "EMC RSA Key Manager Appliance",
+  "pcpe": "cpe:/h:emc:rsa_key_manager_appliance"
+}

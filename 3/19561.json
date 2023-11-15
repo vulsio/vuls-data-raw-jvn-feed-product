@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "19561",
+  "pname": "WildFly (旧 JBoss Application Server)",
+  "pcpe": "cpe:/a:redhat:jboss_wildfly_application_server"
+}

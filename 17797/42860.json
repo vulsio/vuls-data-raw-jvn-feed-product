@@ -1,0 +1,8 @@
+{
+  "vid": "17797",
+  "vname": "AWS DMS",
+  "vcpe": "cpe:/:aws-dms",
+  "pid": "42860",
+  "pname": "AWS XMS",
+  "pcpe": "cpe:/a:aws-dms:aws_xms"
+}

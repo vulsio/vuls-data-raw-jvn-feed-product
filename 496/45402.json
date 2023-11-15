@@ -1,0 +1,8 @@
+{
+  "vid": "496",
+  "vname": "F5 Networks",
+  "vcpe": "cpe:/:f5",
+  "pid": "45402",
+  "pname": "BIG-IP Advanced Web Application Firewall (WAF)",
+  "pcpe": "cpe:/a:f5:big-ip_advanced_web_application_firewall"
+}

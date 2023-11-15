@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "58144",
+  "pname": "coverage/complexity scatter plot",
+  "pcpe": "cpe:/a:jenkins:coverage%2Fcomplexity_scatter_plot"
+}

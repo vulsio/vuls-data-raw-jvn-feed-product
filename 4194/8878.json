@@ -1,0 +1,8 @@
+{
+  "vid": "4194",
+  "vname": "Grandstream Networks",
+  "vcpe": "cpe:/:grandstream",
+  "pid": "8878",
+  "pname": "sip phone",
+  "pcpe": "cpe:/h:grandstream:sip_phone"
+}

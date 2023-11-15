@@ -1,0 +1,8 @@
+{
+  "vid": "11723",
+  "vname": "Ceph project",
+  "vcpe": "cpe:/:ceph_project",
+  "pid": "48215",
+  "pname": "Ceph-ansible",
+  "pcpe": "cpe:/a:ceph_project:ceph-ansible"
+}

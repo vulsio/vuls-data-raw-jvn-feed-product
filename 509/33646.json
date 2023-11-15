@@ -1,0 +1,8 @@
+{
+  "vid": "509",
+  "vname": "SAP",
+  "vcpe": "cpe:/:sap",
+  "pid": "33646",
+  "pname": "SAP NetWeaver Application Server Java Web Container and HTTP Service",
+  "pcpe": "cpe:/a:sap:netweaver_java_web_container_and_http_service_engine"
+}

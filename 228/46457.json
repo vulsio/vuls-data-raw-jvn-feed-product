@@ -1,0 +1,8 @@
+{
+  "vid": "228",
+  "vname": "Fedora Project",
+  "vcpe": "cpe:/:fedoraproject",
+  "pid": "46457",
+  "pname": "selinux-policy",
+  "pcpe": "cpe:/a:fedoraproject:selinux-policy"
+}

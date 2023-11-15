@@ -1,0 +1,8 @@
+{
+  "vid": "434",
+  "vname": "DELL EMC (旧 EMC Corporation)",
+  "vcpe": "cpe:/:emc",
+  "pid": "16827",
+  "pname": "EMC Avamar Plugin",
+  "pcpe": "cpe:/a:emc:avamar_plugin"
+}

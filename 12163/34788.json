@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "34788",
+  "pname": "Fortify CloudScan",
+  "pcpe": "cpe:/a:jenkins:fortify_cloudscan"
+}

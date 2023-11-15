@@ -1,0 +1,8 @@
+{
+  "vid": "1567",
+  "vname": "Lawrence Livermore National Laboratory (LLNL)",
+  "vcpe": "cpe:/:llnl",
+  "pid": "39571",
+  "pname": "msr-safe",
+  "pcpe": "cpe:/a:llnl:model_specific_registers-safe"
+}

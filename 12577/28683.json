@@ -1,0 +1,8 @@
+{
+  "vid": "12577",
+  "vname": "VirusTotal",
+  "vcpe": "cpe:/:virustotal",
+  "pid": "28683",
+  "pname": "YARA",
+  "pcpe": "cpe:/a:virustotal:yara"
+}

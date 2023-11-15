@@ -1,0 +1,8 @@
+{
+  "vid": "9880",
+  "vname": "Docker",
+  "vcpe": "cpe:/:docker",
+  "pid": "53251",
+  "pname": "Docker CLI",
+  "pcpe": "cpe:/a:docker:command_line_interface"
+}

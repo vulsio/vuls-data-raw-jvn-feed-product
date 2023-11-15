@@ -1,0 +1,8 @@
+{
+  "vid": "1725",
+  "vname": "Spree Commerce",
+  "vcpe": "cpe:/:spreecommerce",
+  "pid": "54509",
+  "pname": "Spree Auth (Devise)",
+  "pcpe": "cpe:/a:spreecommerce:spree_auth_devise"
+}

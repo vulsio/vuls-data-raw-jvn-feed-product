@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "58554",
+  "pname": "job generator",
+  "pcpe": "cpe:/a:jenkins:job_generator"
+}

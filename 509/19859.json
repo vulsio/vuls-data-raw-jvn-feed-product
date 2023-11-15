@@ -1,0 +1,8 @@
+{
+  "vid": "509",
+  "vname": "SAP",
+  "vcpe": "cpe:/:sap",
+  "pid": "19859",
+  "pname": "SAP 変更管理サービス",
+  "pcpe": "cpe:/a:sap:cms_services"
+}

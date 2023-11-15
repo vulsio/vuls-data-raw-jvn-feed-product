@@ -1,0 +1,8 @@
+{
+  "vid": "21",
+  "vname": "ジュニパーネットワークス",
+  "vcpe": "cpe:/:juniper",
+  "pid": "35186",
+  "pname": "Contrail Service Orchestration",
+  "pcpe": "cpe:/a:juniper:contrail_service_orchestration"
+}

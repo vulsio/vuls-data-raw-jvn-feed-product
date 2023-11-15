@@ -1,0 +1,8 @@
+{
+  "vid": "2",
+  "vname": "マイクロソフト",
+  "vcpe": "cpe:/:microsoft",
+  "pid": "50024",
+  "pname": "Azure Site Recovery",
+  "pcpe": "cpe:/a:microsoft:azure_site_recovery"
+}

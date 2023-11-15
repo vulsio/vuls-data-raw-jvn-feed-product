@@ -1,0 +1,8 @@
+{
+  "vid": "4301",
+  "vname": "Amazon.com, Inc.",
+  "vcpe": "cpe:/:amazon",
+  "pid": "54806",
+  "pname": "Amazon AWS OpenSearch",
+  "pcpe": "cpe:/a:amazon:opensearch"
+}

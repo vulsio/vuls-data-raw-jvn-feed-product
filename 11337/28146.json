@@ -1,0 +1,8 @@
+{
+  "vid": "11337",
+  "vname": "Ping Identity",
+  "vcpe": "cpe:/:pingidentity",
+  "pid": "28146",
+  "pname": "mod_auth_openidc",
+  "pcpe": "cpe:/a:pingidentity:mod_auth_openidc"
+}

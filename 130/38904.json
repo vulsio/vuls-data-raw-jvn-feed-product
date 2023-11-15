@@ -1,0 +1,8 @@
+{
+  "vid": "130",
+  "vname": "インテル",
+  "vcpe": "cpe:/:intel",
+  "pid": "38904",
+  "pname": "Intel SGX DCAP Linux driver",
+  "pcpe": "cpe:/o:intel:sgx_dcap_linux_driver"
+}

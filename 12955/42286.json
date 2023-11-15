@@ -1,0 +1,8 @@
+{
+  "vid": "12955",
+  "vname": "Kubernetes",
+  "vcpe": "cpe:/:kubernetes",
+  "pid": "42286",
+  "pname": "external-provisioner",
+  "pcpe": "cpe:/a:kubernetes:external-provisioner"
+}

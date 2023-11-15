@@ -1,0 +1,8 @@
+{
+  "vid": "19362",
+  "vname": "Kong",
+  "vcpe": "cpe:/:kong",
+  "pid": "48759",
+  "pname": "kong docker image",
+  "pcpe": "cpe:/a:kong:kong_alpine_docker_image"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "12288",
+  "vname": "Cloud Foundry Foundation",
+  "vcpe": "cpe:/:cloud_foundry",
+  "pid": "34444",
+  "pname": "Cloud Foundry Loggregator",
+  "pcpe": "cpe:/a:cloud_foundry:cloud_foundry_loggregator"
+}

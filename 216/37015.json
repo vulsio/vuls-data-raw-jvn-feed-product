@@ -1,0 +1,8 @@
+{
+  "vid": "216",
+  "vname": "Debian",
+  "vcpe": "cpe:/:debian",
+  "pid": "37015",
+  "pname": "Advanced Package Tool",
+  "pcpe": "cpe:/a:debian:advanced_package_tool"
+}

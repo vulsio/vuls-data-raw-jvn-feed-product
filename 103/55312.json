@@ -1,0 +1,8 @@
+{
+  "vid": "103",
+  "vname": "NVIDIA",
+  "vcpe": "cpe:/:nvidia",
+  "pid": "55312",
+  "pname": "NeMo",
+  "pcpe": "cpe:/a:nvidia:nemo"
+}

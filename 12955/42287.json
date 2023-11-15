@@ -1,0 +1,8 @@
+{
+  "vid": "12955",
+  "vname": "Kubernetes",
+  "vcpe": "cpe:/:kubernetes",
+  "pid": "42287",
+  "pname": "external-resizer",
+  "pcpe": "cpe:/a:kubernetes:external-resizer"
+}

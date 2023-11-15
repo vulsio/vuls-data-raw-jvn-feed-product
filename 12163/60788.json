@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "60788",
+  "pname": "maven metadata",
+  "pcpe": "cpe:/a:jenkins:maven_metadata"
+}

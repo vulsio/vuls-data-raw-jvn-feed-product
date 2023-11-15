@@ -1,0 +1,8 @@
+{
+  "vid": "15537",
+  "vname": "webpack project",
+  "vcpe": "cpe:/:webpack_project",
+  "pid": "36069",
+  "pname": "webpack-dev-server",
+  "pcpe": "cpe:/a:webpack_project:webpack-dev-server"
+}

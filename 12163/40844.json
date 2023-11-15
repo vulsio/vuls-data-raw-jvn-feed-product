@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "40844",
+  "pname": "Log Parser",
+  "pcpe": "cpe:/a:jenkins:log_parser"
+}

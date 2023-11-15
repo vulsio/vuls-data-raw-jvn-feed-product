@@ -1,0 +1,8 @@
+{
+  "vid": "10316",
+  "vname": "Greenplum",
+  "vcpe": "cpe:/:greenplum",
+  "pid": "33539",
+  "pname": "Spring Cloud SSO Connector",
+  "pcpe": "cpe:/a:greenplum:spring_cloud_sso_connector"
+}

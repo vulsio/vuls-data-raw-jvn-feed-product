@@ -1,0 +1,8 @@
+{
+  "vid": "1021",
+  "vname": "OpenStack",
+  "vcpe": "cpe:/:openstack",
+  "pid": "28850",
+  "pname": "Manila",
+  "pcpe": "cpe:/a:openstack:manila"
+}

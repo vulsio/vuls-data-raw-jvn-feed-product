@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "49883",
+  "pname": "CloudBees AWS Credentials",
+  "pcpe": "cpe:/a:jenkins:cloudbees_aws_credentials"
+}

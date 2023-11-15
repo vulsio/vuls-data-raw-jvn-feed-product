@@ -1,0 +1,8 @@
+{
+  "vid": "2198",
+  "vname": "Advanced Micro Devices (AMD)",
+  "vcpe": "cpe:/:amd",
+  "pid": "59191",
+  "pname": "epyc 7452 ファームウェア",
+  "pcpe": "cpe:/o:amd:epyc_7452_firmware"
+}

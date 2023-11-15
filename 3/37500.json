@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "37500",
+  "pname": "ceph-isci-cli",
+  "pcpe": "cpe:/a:redhat:ceph-iscsi-cli"
+}

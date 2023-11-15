@@ -1,0 +1,8 @@
+{
+  "vid": "42",
+  "vname": "OpenBSD",
+  "vcpe": "cpe:/:openbsd",
+  "pid": "23139",
+  "pname": "LibreSSL",
+  "pcpe": "cpe:/a:openbsd:libressl"
+}

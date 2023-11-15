@@ -1,0 +1,8 @@
+{
+  "vid": "754",
+  "vname": "Puppet",
+  "vcpe": "cpe:/:puppetlabs",
+  "pid": "26276",
+  "pname": "Puppet Agent",
+  "pcpe": "cpe:/a:puppetlabs:puppet_agent"
+}

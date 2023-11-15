@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "35585",
+  "pname": "Inedo BuildMaster",
+  "pcpe": "cpe:/a:jenkins:inedo_buildmaster"
+}

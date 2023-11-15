@@ -1,0 +1,8 @@
+{
+  "vid": "1021",
+  "vname": "OpenStack",
+  "vcpe": "cpe:/:openstack",
+  "pid": "30711",
+  "pname": "instack-undercloud",
+  "pcpe": "cpe:/a:openstack:instack-undercloud"
+}

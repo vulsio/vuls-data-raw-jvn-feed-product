@@ -1,0 +1,8 @@
+{
+  "vid": "12288",
+  "vname": "Cloud Foundry Foundation",
+  "vcpe": "cpe:/:cloud_foundry",
+  "pid": "39835",
+  "pname": "Deployment Concourse Tasks",
+  "pcpe": "cpe:/a:cloud_foundry:deployment_concourse_tasks"
+}

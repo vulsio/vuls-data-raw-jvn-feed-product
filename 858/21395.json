@@ -1,0 +1,8 @@
+{
+  "vid": "858",
+  "vname": "CloudBees",
+  "vcpe": "cpe:/:cloudbees",
+  "pid": "21395",
+  "pname": "Subversion",
+  "pcpe": "cpe:/a:cloudbees:subversion-plugin"
+}

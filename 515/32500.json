@@ -1,0 +1,8 @@
+{
+  "vid": "515",
+  "vname": "VMware",
+  "vcpe": "cpe:/:vmware",
+  "pid": "32500",
+  "pname": "VMWare vSphere Integrated Containers",
+  "pcpe": "cpe:/a:vmware:vsphere_integrated_containers"
+}

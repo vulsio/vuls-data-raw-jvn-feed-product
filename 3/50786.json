@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "50786",
+  "pname": "JBoss EJB client",
+  "pcpe": "cpe:/a:redhat:jboss-ejb-client"
+}

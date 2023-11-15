@@ -1,0 +1,8 @@
+{
+  "vid": "103",
+  "vname": "NVIDIA",
+  "vcpe": "cpe:/:nvidia",
+  "pid": "52295",
+  "pname": "NVIDIA Data Center GPU Manager",
+  "pcpe": "cpe:/a:nvidia:data_center_gpu_manager"
+}

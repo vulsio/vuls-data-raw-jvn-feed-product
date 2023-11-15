@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "40894",
+  "pname": "LDAP Email",
+  "pcpe": "cpe:/a:jenkins:ldap_email"
+}

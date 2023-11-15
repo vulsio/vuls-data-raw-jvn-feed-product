@@ -1,0 +1,8 @@
+{
+  "vid": "15327",
+  "vname": "Anchore, Inc.",
+  "vcpe": "cpe:/:anchore",
+  "pid": "35586",
+  "pname": "Container Image Scanner",
+  "pcpe": "cpe:/a:anchore:container_image_scanner"
+}

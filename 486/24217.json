@@ -1,0 +1,8 @@
+{
+  "vid": "486",
+  "vname": "strongSwan",
+  "vcpe": "cpe:/:strongswan",
+  "pid": "24217",
+  "pname": "strongSwan VPN Client",
+  "pcpe": "cpe:/a:strongswan:strongswan_vpn_client"
+}

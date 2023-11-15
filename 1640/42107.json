@@ -1,0 +1,8 @@
+{
+  "vid": "1640",
+  "vname": "OpenVAS",
+  "vcpe": "cpe:/:openvas",
+  "pid": "42107",
+  "pname": "OpenVAS Scanner",
+  "pcpe": "cpe:/a:openvas:openvas-scanner"
+}

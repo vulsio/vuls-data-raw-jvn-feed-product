@@ -1,0 +1,8 @@
+{
+  "vid": "12",
+  "vname": "トレンドマイクロ",
+  "vcpe": "cpe:/:trendmicro",
+  "pid": "316",
+  "pname": "ウイルス検索エンジンVSAPI",
+  "pcpe": "cpe:/a:trendmicro:virus_search_engine_vs_api"
+}

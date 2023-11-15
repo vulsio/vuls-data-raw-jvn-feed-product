@@ -1,0 +1,8 @@
+{
+  "vid": "653",
+  "vname": "libguestfs",
+  "vcpe": "cpe:/:libguestfs",
+  "pid": "42247",
+  "pname": "libnbd",
+  "pcpe": "cpe:/a:libguestfs:libnbd"
+}

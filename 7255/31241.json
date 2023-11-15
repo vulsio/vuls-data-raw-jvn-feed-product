@@ -1,0 +1,8 @@
+{
+  "vid": "7255",
+  "vname": "Realtek Semiconductor Corp",
+  "vcpe": "cpe:/:realtek",
+  "pid": "31241",
+  "pname": "Realtek オーディオドライバ",
+  "pcpe": "cpe:/o:realtek:audio_driver_firmware"
+}

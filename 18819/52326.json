@@ -1,0 +1,8 @@
+{
+  "vid": "18819",
+  "vname": "日立エナジー (旧 日立ABBパワーグリッド)",
+  "vcpe": "cpe:/:hitachi_abb_power_grids",
+  "pid": "52326",
+  "pname": "Counterparty Settlement Billing (CSB)",
+  "pcpe": "cpe:/a:hitachi_abb_power_grids:counterparty_settlement_and_billing"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "509",
+  "vname": "SAP",
+  "vcpe": "cpe:/:sap",
+  "pid": "26694",
+  "pname": "SAPCAR",
+  "pcpe": "cpe:/a:sap:sapcar_archive_tool"
+}

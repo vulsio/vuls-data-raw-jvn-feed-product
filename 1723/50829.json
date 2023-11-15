@@ -1,0 +1,8 @@
+{
+  "vid": "1723",
+  "vname": "SonicWALL",
+  "vcpe": "cpe:/:sonicwall",
+  "pid": "50829",
+  "pname": "Network Security Manager",
+  "pcpe": "cpe:/a:sonicwall:network_security_manager"
+}

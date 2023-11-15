@@ -1,0 +1,8 @@
+{
+  "vid": "434",
+  "vname": "DELL EMC (旧 EMC Corporation)",
+  "vcpe": "cpe:/:emc",
+  "pid": "18470",
+  "pname": "VPLEX Local",
+  "pcpe": "cpe:/h:emc:vplex_local"
+}

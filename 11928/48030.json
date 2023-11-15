@@ -1,0 +1,8 @@
+{
+  "vid": "11928",
+  "vname": "Project Jupyter",
+  "vcpe": "cpe:/:jupyter",
+  "pid": "48030",
+  "pname": "Jupyter Server",
+  "pcpe": "cpe:/a:jupyter:jupyter_server"
+}

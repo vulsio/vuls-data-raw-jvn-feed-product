@@ -1,0 +1,8 @@
+{
+  "vid": "1021",
+  "vname": "OpenStack",
+  "vcpe": "cpe:/:openstack",
+  "pid": "18508",
+  "pname": "python-keystoneclient",
+  "pcpe": "cpe:/a:openstack:python-keystoneclient"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "8",
+  "vname": "Apache Software Foundation",
+  "vcpe": "cpe:/:apache",
+  "pid": "18649",
+  "pname": "Apache Sling Auth Core",
+  "pcpe": "cpe:/a:apache:sling_auth_core_component"
+}

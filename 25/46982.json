@@ -1,0 +1,8 @@
+{
+  "vid": "25",
+  "vname": "SSH コミュニケーションズ・セキュリティ",
+  "vcpe": "cpe:/:ssh",
+  "pid": "46982",
+  "pname": "SSH Secure Shell",
+  "pcpe": "cpe:/a:ssh:secure_shell"
+}

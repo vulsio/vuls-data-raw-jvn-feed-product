@@ -1,0 +1,8 @@
+{
+  "vid": "10316",
+  "vname": "Greenplum",
+  "vcpe": "cpe:/:greenplum",
+  "pid": "24212",
+  "pname": "Redis",
+  "pcpe": "cpe:/a:greenplum:redis"
+}

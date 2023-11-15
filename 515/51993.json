@@ -1,0 +1,8 @@
+{
+  "vid": "515",
+  "vname": "VMware",
+  "vcpe": "cpe:/:vmware",
+  "pid": "51993",
+  "pname": "Spring Security OAuth (spring-security-oauth2)",
+  "pcpe": "cpe:/a:vmware:spring_security_oauth"
+}

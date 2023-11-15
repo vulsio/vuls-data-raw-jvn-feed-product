@@ -1,0 +1,8 @@
+{
+  "vid": "12831",
+  "vname": "Flatpak",
+  "vcpe": "cpe:/:flatpak",
+  "pid": "55541",
+  "pname": "flatpak-builder",
+  "pcpe": "cpe:/a:flatpak:flatpak-builder"
+}

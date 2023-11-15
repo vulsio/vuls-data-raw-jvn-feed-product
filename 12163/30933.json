@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "30933",
+  "pname": "Static Analysis Utilities",
+  "pcpe": "cpe:/a:jenkins:static_analysis_utilities"
+}

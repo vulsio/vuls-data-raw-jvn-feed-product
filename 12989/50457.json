@@ -1,0 +1,8 @@
+{
+  "vid": "12989",
+  "vname": "HashiCorp",
+  "vcpe": "cpe:/:hashicorp",
+  "pid": "50457",
+  "pname": "vault-action",
+  "pcpe": "cpe:/a:hashicorp:vault-action"
+}

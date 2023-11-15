@@ -1,0 +1,8 @@
+{
+  "vid": "313",
+  "vname": "Atheros",
+  "vcpe": "cpe:/:atheros",
+  "pid": "1102",
+  "pname": "Atheros driver",
+  "pcpe": "cpe:/h:atheros:wireless_adapter_drivers"
+}

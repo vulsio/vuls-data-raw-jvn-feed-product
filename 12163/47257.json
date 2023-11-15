@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "47257",
+  "pname": "Azure Key Vault",
+  "pcpe": "cpe:/a:jenkins:azure_key_vault"
+}

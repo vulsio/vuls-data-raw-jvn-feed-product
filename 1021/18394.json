@@ -1,0 +1,8 @@
+{
+  "vid": "1021",
+  "vname": "OpenStack",
+  "vcpe": "cpe:/:openstack",
+  "pid": "18394",
+  "pname": "OpenStack Cinder",
+  "pcpe": "cpe:/a:openstack:cinder"
+}

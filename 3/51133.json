@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "51133",
+  "pname": "machine-config-operator",
+  "pcpe": "cpe:/a:redhat:machine-config-operator"
+}

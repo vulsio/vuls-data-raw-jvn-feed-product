@@ -1,0 +1,8 @@
+{
+  "vid": "658",
+  "vname": "バラクーダネットワークス",
+  "vcpe": "cpe:/:barracuda_networks",
+  "pid": "30412",
+  "pname": "Barracuda Load Balancer ADC",
+  "pcpe": "cpe:/a:barracuda_networks:load_balancer"
+}

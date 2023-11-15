@@ -1,0 +1,8 @@
+{
+  "vid": "130",
+  "vname": "インテル",
+  "vcpe": "cpe:/:intel",
+  "pid": "54263",
+  "pname": "Intel Thunderbolt(TM) non-DCH driver",
+  "pcpe": "cpe:/a:intel:thunderbolt_non-dch_driver"
+}

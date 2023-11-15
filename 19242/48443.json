@@ -1,0 +1,8 @@
+{
+  "vid": "19242",
+  "vname": "Express Gateway",
+  "vcpe": "cpe:/:express-gateway",
+  "pid": "48443",
+  "pname": "Express Gateway Docker image",
+  "pcpe": "cpe:/a:express-gateway:express-gateway_docker_image"
+}

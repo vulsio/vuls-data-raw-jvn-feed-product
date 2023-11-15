@@ -1,0 +1,8 @@
+{
+  "vid": "14",
+  "vname": "Samba Project",
+  "vcpe": "cpe:/:samba",
+  "pid": "46462",
+  "pname": "cifs-utils",
+  "pcpe": "cpe:/a:samba:cifs-utils"
+}

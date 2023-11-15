@@ -1,0 +1,8 @@
+{
+  "vid": "1406",
+  "vname": "Cyrus",
+  "vcpe": "cpe:/:cyrus",
+  "pid": "4270",
+  "pname": "IMAP Server",
+  "pcpe": "cpe:/a:cyrus:imap_server"
+}

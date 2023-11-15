@@ -1,0 +1,8 @@
+{
+  "vid": "91",
+  "vname": "Kerberos Module For Apache",
+  "vcpe": "cpe:/:mod_auth_kerb",
+  "pid": "214",
+  "pname": "mod_auth_kerb",
+  "pcpe": "cpe:/a:mod_auth_kerb:mod_auth_kerb"
+}

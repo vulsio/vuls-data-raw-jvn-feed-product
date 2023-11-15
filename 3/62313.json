@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "62313",
+  "pname": "openshift api management",
+  "pcpe": "cpe:/a:redhat:openshift_api_management"
+}

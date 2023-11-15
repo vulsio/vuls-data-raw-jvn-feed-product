@@ -1,0 +1,8 @@
+{
+  "vid": "979",
+  "vname": "Atlassian",
+  "vcpe": "cpe:/:atlassian",
+  "pid": "31678",
+  "pname": "bitbucket auto-unapprove",
+  "pcpe": "cpe:/a:atlassian:bitbucket_auto_unapprove_plugin"
+}

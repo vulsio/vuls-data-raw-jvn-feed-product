@@ -1,0 +1,8 @@
+{
+  "vid": "12288",
+  "vname": "Cloud Foundry Foundation",
+  "vcpe": "cpe:/:cloud_foundry",
+  "pid": "41335",
+  "pname": "Cloud Foundry SMB volume",
+  "pcpe": "cpe:/a:cloud_foundry:cloud_foundry_smb_volume"
+}

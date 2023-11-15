@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "47258",
+  "pname": "AWS Global Configuration",
+  "pcpe": "cpe:/a:jenkins:aws_global_configuration"
+}

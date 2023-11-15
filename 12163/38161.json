@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "38161",
+  "pname": "Audit to Database",
+  "pcpe": "cpe:/a:jenkins:audit_to_database"
+}

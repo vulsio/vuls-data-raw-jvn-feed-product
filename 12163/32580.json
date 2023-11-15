@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "32580",
+  "pname": "Android Lint",
+  "pcpe": "cpe:/a:jenkins:android_lint"
+}

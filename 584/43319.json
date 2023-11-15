@@ -1,0 +1,8 @@
+{
+  "vid": "584",
+  "vname": "シーメンス",
+  "vcpe": "cpe:/:siemens",
+  "pid": "43319",
+  "pname": "PROFINET Driver",
+  "pcpe": "cpe:/a:siemens:profinet_driver"
+}

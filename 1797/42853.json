@@ -1,0 +1,8 @@
+{
+  "vid": "1797",
+  "vname": "Trustwave",
+  "vcpe": "cpe:/:trustwave",
+  "pid": "42853",
+  "pname": "ModSecurity",
+  "pcpe": "cpe:/a:trustwave:modsecurity"
+}

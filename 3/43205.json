@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "43205",
+  "pname": "Red Hat OpenShift Container Storage",
+  "pcpe": "cpe:/a:redhat:openshift_container_storage"
+}

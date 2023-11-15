@@ -1,0 +1,8 @@
+{
+  "vid": "19296",
+  "vname": "RStudio",
+  "vcpe": "cpe:/:rstudio",
+  "pid": "48562",
+  "pname": "Shiny Server",
+  "pcpe": "cpe:/a:rstudio:shiny_server"
+}

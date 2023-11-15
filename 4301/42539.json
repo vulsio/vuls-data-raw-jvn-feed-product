@@ -1,0 +1,8 @@
+{
+  "vid": "4301",
+  "vname": "Amazon.com, Inc.",
+  "vcpe": "cpe:/:amazon",
+  "pid": "42539",
+  "pname": "aws-lambda",
+  "pcpe": "cpe:/a:amazon:aws-lambda"
+}

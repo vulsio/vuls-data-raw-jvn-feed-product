@@ -1,0 +1,8 @@
+{
+  "vid": "16210",
+  "vname": "Prometheus",
+  "vcpe": "cpe:/:prometheus",
+  "pid": "57192",
+  "pname": "client_golang",
+  "pcpe": "cpe:/a:prometheus:client_golang"
+}

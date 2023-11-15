@@ -1,0 +1,8 @@
+{
+  "vid": "22850",
+  "vname": "HAPI FHIR",
+  "vcpe": "cpe:/:hapifhir",
+  "pid": "58815",
+  "pname": "HL7 FHIR Core",
+  "pcpe": "cpe:/a:hapifhir:hl7_fhir_core"
+}

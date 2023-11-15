@@ -1,0 +1,8 @@
+{
+  "vid": "496",
+  "vname": "F5 Networks",
+  "vcpe": "cpe:/:f5",
+  "pid": "9011",
+  "pname": "BIG-IP Link Controller",
+  "pcpe": "cpe:/a:f5:big-ip_link_controller"
+}

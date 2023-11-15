@@ -1,0 +1,8 @@
+{
+  "vid": "2",
+  "vname": "マイクロソフト",
+  "vcpe": "cpe:/:microsoft",
+  "pid": "46397",
+  "pname": "C SDK for Azure IoT",
+  "pcpe": "cpe:/a:microsoft:c_sdk_for_azure_iot"
+}

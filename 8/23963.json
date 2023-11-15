@@ -1,0 +1,8 @@
+{
+  "vid": "8",
+  "vname": "Apache Software Foundation",
+  "vcpe": "cpe:/:apache",
+  "pid": "23963",
+  "pname": "Apache Tomcat Connectors",
+  "pcpe": "cpe:/a:apache:tomcat_connectors"
+}

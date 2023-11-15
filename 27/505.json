@@ -1,0 +1,8 @@
+{
+  "vid": "27",
+  "vname": "Mozilla Foundation",
+  "vcpe": "cpe:/:mozilla",
+  "pid": "505",
+  "pname": "Mozilla Network Security Services (NSS)",
+  "pcpe": "cpe:/a:mozilla:network_security_services"
+}

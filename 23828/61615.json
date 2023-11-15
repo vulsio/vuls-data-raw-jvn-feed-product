@@ -1,0 +1,8 @@
+{
+  "vid": "23828",
+  "vname": "Switcher API",
+  "vcpe": "cpe:/:switcherapi",
+  "pid": "61615",
+  "pname": "Switcher Client",
+  "pcpe": "cpe:/a:switcherapi:switcher_client"
+}

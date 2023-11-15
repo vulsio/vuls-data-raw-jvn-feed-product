@@ -1,0 +1,8 @@
+{
+  "vid": "9880",
+  "vname": "Docker",
+  "vcpe": "cpe:/:docker",
+  "pid": "48767",
+  "pname": "memcached docker image",
+  "pcpe": "cpe:/a:docker:memcached_docker_image"
+}

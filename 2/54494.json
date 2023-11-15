@@ -1,0 +1,8 @@
+{
+  "vid": "2",
+  "vname": "マイクロソフト",
+  "vcpe": "cpe:/:microsoft",
+  "pid": "54494",
+  "pname": "Azure EFLOW",
+  "pcpe": "cpe:/a:microsoft:azure_iot_edge_for_linux"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "19",
+  "vname": "シスコシステムズ",
+  "vcpe": "cpe:/:cisco",
+  "pid": "782",
+  "pname": "Channel Port Adapter (CPA)",
+  "pcpe": "cpe:/h:cisco:channel_port_adapter"
+}

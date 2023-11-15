@@ -1,0 +1,8 @@
+{
+  "vid": "1057",
+  "vname": "ConfigServer",
+  "vcpe": "cpe:/:configserver",
+  "pid": "3636",
+  "pname": "ConfigServer Security & Firewall",
+  "pcpe": "cpe:/a:configserver:configserver_security_firewall"
+}

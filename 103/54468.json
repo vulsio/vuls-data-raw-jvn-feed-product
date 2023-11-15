@@ -1,0 +1,8 @@
+{
+  "vid": "103",
+  "vname": "NVIDIA",
+  "vcpe": "cpe:/:nvidia",
+  "pid": "54468",
+  "pname": "NVIDIA DGX-2",
+  "pcpe": "cpe:/o:nvidia:dgx-2"
+}

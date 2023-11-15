@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "38156",
+  "pname": "Gearman",
+  "pcpe": "cpe:/a:jenkins:gearman"
+}

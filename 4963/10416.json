@@ -1,0 +1,8 @@
+{
+  "vid": "4963",
+  "vname": "jetty",
+  "vcpe": "cpe:/:jetty",
+  "pid": "10416",
+  "pname": "jetty http server",
+  "pcpe": "cpe:/a:jetty:jetty_http_server"
+}

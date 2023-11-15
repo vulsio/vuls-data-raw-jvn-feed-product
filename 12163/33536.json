@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "33536",
+  "pname": "HTML Publisher Plugin",
+  "pcpe": "cpe:/a:jenkins:html_publisher"
+}

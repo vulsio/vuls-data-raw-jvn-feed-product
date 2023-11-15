@@ -1,0 +1,8 @@
+{
+  "vid": "772",
+  "vname": "OWASP",
+  "vcpe": "cpe:/:owasp",
+  "pid": "45066",
+  "pname": "OWASP Json Sanitizer",
+  "pcpe": "cpe:/a:owasp:json-sanitizer"
+}

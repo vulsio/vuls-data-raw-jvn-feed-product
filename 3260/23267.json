@@ -1,0 +1,8 @@
+{
+  "vid": "3260",
+  "vname": "DivX",
+  "vcpe": "cpe:/:divx",
+  "pid": "23267",
+  "pname": "DirectShowDemuxFilter",
+  "pcpe": "cpe:/a:divx:directshowdemuxfilter"
+}

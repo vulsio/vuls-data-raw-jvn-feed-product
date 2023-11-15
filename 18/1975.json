@@ -1,0 +1,8 @@
+{
+  "vid": "18",
+  "vname": "IBM",
+  "vcpe": "cpe:/:ibm",
+  "pid": "1975",
+  "pname": "IBM Spectrum Protect (旧 Tivoli Storage Manager)",
+  "pcpe": "cpe:/a:ibm:tivoli_storage_manager"
+}

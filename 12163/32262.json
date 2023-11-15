@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "32262",
+  "pname": "FindBugs",
+  "pcpe": "cpe:/a:jenkins:findbugs"
+}

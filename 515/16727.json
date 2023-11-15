@@ -1,0 +1,8 @@
+{
+  "vid": "515",
+  "vname": "VMware",
+  "vcpe": "cpe:/:vmware",
+  "pid": "16727",
+  "pname": "VMware vCenter Server Appliance",
+  "pcpe": "cpe:/a:vmware:vcenter_server_appliance"
+}

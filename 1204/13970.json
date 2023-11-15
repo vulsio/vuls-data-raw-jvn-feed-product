@@ -1,0 +1,8 @@
+{
+  "vid": "1204",
+  "vname": "PowerDNS",
+  "vcpe": "cpe:/:powerdns",
+  "pid": "13970",
+  "pname": "PowerDNS Recursor",
+  "pcpe": "cpe:/a:powerdns:recursor"
+}

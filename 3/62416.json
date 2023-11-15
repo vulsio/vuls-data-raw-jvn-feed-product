@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "62416",
+  "pname": "ansible automation platform text-only advisories",
+  "pcpe": "cpe:/a:redhat:ansible_automation_platform_text-only_advisories"
+}

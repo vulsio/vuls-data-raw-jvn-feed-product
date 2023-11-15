@@ -1,0 +1,8 @@
+{
+  "vid": "515",
+  "vname": "VMware",
+  "vcpe": "cpe:/:vmware",
+  "pid": "45012",
+  "pname": "Remote Console",
+  "pcpe": "cpe:/a:vmware:remote_console"
+}

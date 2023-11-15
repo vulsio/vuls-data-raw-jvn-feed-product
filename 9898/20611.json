@@ -1,0 +1,8 @@
+{
+  "vid": "9898",
+  "vname": "Elasticsearch",
+  "vcpe": "cpe:/:elasticsearch",
+  "pid": "20611",
+  "pname": "Logstash",
+  "pcpe": "cpe:/a:elasticsearch:logstash"
+}

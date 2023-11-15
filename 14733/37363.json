@@ -1,0 +1,8 @@
+{
+  "vid": "14733",
+  "vname": "Grafana Labs",
+  "vcpe": "cpe:/:grafana",
+  "pid": "37363",
+  "pname": "Pie Chart プラグイン",
+  "pcpe": "cpe:/a:grafana:piechart-panel"
+}

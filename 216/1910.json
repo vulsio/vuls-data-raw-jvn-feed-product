@@ -1,0 +1,8 @@
+{
+  "vid": "216",
+  "vname": "Debian",
+  "vcpe": "cpe:/:debian",
+  "pid": "1910",
+  "pname": "ltp",
+  "pcpe": "cpe:/a:debian:ltp"
+}

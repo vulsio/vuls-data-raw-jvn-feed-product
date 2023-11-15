@@ -1,0 +1,8 @@
+{
+  "vid": "419",
+  "vname": "NetApp",
+  "vcpe": "cpe:/:netapp",
+  "pid": "60134",
+  "pname": "hci compute node",
+  "pcpe": "cpe:/h:netapp:hci_compute_node"
+}

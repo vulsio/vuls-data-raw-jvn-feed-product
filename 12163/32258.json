@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "32258",
+  "pname": "Release",
+  "pcpe": "cpe:/a:jenkins:release"
+}

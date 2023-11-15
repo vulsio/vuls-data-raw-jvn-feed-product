@@ -1,0 +1,8 @@
+{
+  "vid": "18",
+  "vname": "IBM",
+  "vcpe": "cpe:/:ibm",
+  "pid": "52535",
+  "pname": "PowerVM Hypervisor",
+  "pcpe": "cpe:/o:ibm:powervm_hypervisor"
+}

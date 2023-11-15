@@ -1,0 +1,8 @@
+{
+  "vid": "15923",
+  "vname": "WebAssembly",
+  "vcpe": "cpe:/:webassembly",
+  "pid": "64116",
+  "pname": "wabt",
+  "pcpe": "cpe:/a:webassembly:wabt"
+}

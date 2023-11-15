@@ -1,0 +1,8 @@
+{
+  "vid": "15181",
+  "vname": "podman project (旧 libpod project)",
+  "vcpe": "cpe:/:libpod_project",
+  "pid": "35141",
+  "pname": "podman (旧 libpod)",
+  "pcpe": "cpe:/a:libpod_project:libpod"
+}

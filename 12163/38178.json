@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "38178",
+  "pname": "Amazon SNS Build Notifier",
+  "pcpe": "cpe:/a:jenkins:amazon_sns_build_notifier"
+}

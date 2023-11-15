@@ -1,0 +1,8 @@
+{
+  "vid": "515",
+  "vname": "VMware",
+  "vcpe": "cpe:/:vmware",
+  "pid": "44335",
+  "pname": "Tanzu Application Service for VMs",
+  "pcpe": "cpe:/a:vmware:tanzu_application_service_for_vms"
+}

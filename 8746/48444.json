@@ -1,0 +1,8 @@
+{
+  "vid": "8746",
+  "vname": "ZNC",
+  "vcpe": "cpe:/:znc",
+  "pid": "48444",
+  "pname": "znc docker image",
+  "pcpe": "cpe:/a:znc:znc_docker_image"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "2",
+  "vname": "マイクロソフト",
+  "vcpe": "cpe:/:microsoft",
+  "pid": "63324",
+  "pname": "azure network watcher",
+  "pcpe": "cpe:/a:microsoft:azure_network_watcher"
+}

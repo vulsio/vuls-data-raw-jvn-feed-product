@@ -1,0 +1,8 @@
+{
+  "vid": "4301",
+  "vname": "Amazon.com, Inc.",
+  "vcpe": "cpe:/:amazon",
+  "pid": "49239",
+  "pname": "AWS Shared Configuration File Loader",
+  "pcpe": "cpe:/a:amazon:aws_shared_configuration_file_loader"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "10208",
+  "vname": "The Go Project",
+  "vcpe": "cpe:/:golang",
+  "pid": "43643",
+  "pname": "SSH",
+  "pcpe": "cpe:/a:golang:package_ssh"
+}

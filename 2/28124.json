@@ -1,0 +1,8 @@
+{
+  "vid": "2",
+  "vname": "マイクロソフト",
+  "vcpe": "cpe:/:microsoft",
+  "pid": "28124",
+  "pname": "Microsoft Server Message Block (SMB)",
+  "pcpe": "cpe:/a:microsoft:server_message_block"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "64119",
+  "pname": "ansible collection",
+  "pcpe": "cpe:/a:redhat:ansible_collection"
+}

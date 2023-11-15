@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "47348",
+  "pname": "SQLPlus Script Runner",
+  "pcpe": "cpe:/a:jenkins:sqlplus_script_runner"
+}

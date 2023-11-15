@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "58039",
+  "pname": "Kubernetes Credentials Provider",
+  "pcpe": "cpe:/a:jenkins:kubernetes_credentials_provider"
+}

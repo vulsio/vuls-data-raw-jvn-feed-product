@@ -1,0 +1,8 @@
+{
+  "vid": "515",
+  "vname": "VMware",
+  "vcpe": "cpe:/:vmware",
+  "pid": "2359",
+  "pname": "VMware VIX API",
+  "pcpe": "cpe:/a:vmware:vix_api"
+}

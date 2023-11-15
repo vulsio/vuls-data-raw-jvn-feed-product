@@ -1,0 +1,8 @@
+{
+  "vid": "2198",
+  "vname": "Advanced Micro Devices (AMD)",
+  "vcpe": "cpe:/:amd",
+  "pid": "50711",
+  "pname": "EPYC 7252",
+  "pcpe": "cpe:/h:amd:epyc_7252"
+}

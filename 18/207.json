@@ -1,0 +1,8 @@
+{
+  "vid": "18",
+  "vname": "IBM",
+  "vcpe": "cpe:/:ibm",
+  "pid": "207",
+  "pname": "IBM JCE",
+  "pcpe": "cpe:/a:ibm:java_jce"
+}

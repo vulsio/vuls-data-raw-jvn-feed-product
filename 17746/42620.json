@@ -1,0 +1,8 @@
+{
+  "vid": "17746",
+  "vname": "AWS Pilot",
+  "vcpe": "cpe:/:misc",
+  "pid": "42620",
+  "pname": "cli-lambda-deploy",
+  "pcpe": "cpe:/a:misc:awspilot_cli-lambda-deploy"
+}

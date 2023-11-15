@@ -1,0 +1,8 @@
+{
+  "vid": "8",
+  "vname": "Apache Software Foundation",
+  "vcpe": "cpe:/:apache",
+  "pid": "53528",
+  "pname": "NiFi MiNiFi C++",
+  "pcpe": "cpe:/a:apache:nifi_minifi_c"
+}

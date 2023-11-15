@@ -1,0 +1,8 @@
+{
+  "vid": "12955",
+  "vname": "Kubernetes",
+  "vcpe": "cpe:/:kubernetes",
+  "pid": "37246",
+  "pname": "Kubernetes Dashboard",
+  "pcpe": "cpe:/a:kubernetes:dashboard"
+}

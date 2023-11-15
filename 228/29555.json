@@ -1,0 +1,8 @@
+{
+  "vid": "228",
+  "vname": "Fedora Project",
+  "vcpe": "cpe:/:fedoraproject",
+  "pid": "29555",
+  "pname": "fedora-arm-installer",
+  "pcpe": "cpe:/a:fedoraproject:arm_installer"
+}

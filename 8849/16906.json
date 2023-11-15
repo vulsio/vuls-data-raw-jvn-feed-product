@@ -1,0 +1,8 @@
+{
+  "vid": "8849",
+  "vname": "QXL Virtual GPU",
+  "vcpe": "cpe:/:qxl_graphics_driver_project",
+  "pid": "16906",
+  "pname": "QXL Virtual GPU",
+  "pcpe": "cpe:/o:qxl_graphics_driver_project:xf86-video-qxl"
+}

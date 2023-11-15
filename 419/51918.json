@@ -1,0 +1,8 @@
+{
+  "vid": "419",
+  "vname": "NetApp",
+  "vcpe": "cpe:/:netapp",
+  "pid": "51918",
+  "pname": "Bootstrap OS",
+  "pcpe": "cpe:/o:netapp:bootstrap_os"
+}

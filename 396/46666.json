@@ -1,0 +1,8 @@
+{
+  "vid": "396",
+  "vname": "SUSE",
+  "vcpe": "cpe:/:suse",
+  "pid": "46666",
+  "pname": "salt-netapi-client",
+  "pcpe": "cpe:/a:suse:salt-netapi-client"
+}

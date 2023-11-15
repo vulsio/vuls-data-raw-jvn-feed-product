@@ -1,0 +1,8 @@
+{
+  "vid": "2",
+  "vname": "マイクロソフト",
+  "vcpe": "cpe:/:microsoft",
+  "pid": "1168",
+  "pname": "Windows Services for UNIX",
+  "pcpe": "cpe:/a:microsoft:windows_services_for_unix"
+}

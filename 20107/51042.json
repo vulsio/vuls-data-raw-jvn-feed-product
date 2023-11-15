@@ -1,0 +1,8 @@
+{
+  "vid": "20107",
+  "vname": "EMQX",
+  "vcpe": "cpe:/:emqx",
+  "pid": "51042",
+  "pname": "EMQ X Broker",
+  "pcpe": "cpe:/a:emqx:emq_x_broker"
+}

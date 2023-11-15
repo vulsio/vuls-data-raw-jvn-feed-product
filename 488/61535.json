@@ -1,0 +1,8 @@
+{
+  "vid": "488",
+  "vname": "openSUSE project",
+  "vcpe": "cpe:/:opensuse_project",
+  "pid": "61535",
+  "pname": "libzypp-plugin-appdata",
+  "pcpe": "cpe:/a:opensuse_project:libzypp-plugin-appdata"
+}

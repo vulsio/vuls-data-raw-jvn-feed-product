@@ -1,0 +1,8 @@
+{
+  "vid": "17969",
+  "vname": "InfluxData Inc.",
+  "vcpe": "cpe:/:influxdata",
+  "pid": "48741",
+  "pname": "telegraf docker image",
+  "pcpe": "cpe:/a:influxdata:telegraf"
+}

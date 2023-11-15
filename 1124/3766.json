@@ -1,0 +1,8 @@
+{
+  "vid": "1124",
+  "vname": "Hardened-PHP Project",
+  "vcpe": "cpe:/:hardened-php",
+  "pid": "3766",
+  "pname": "Suhosin",
+  "pcpe": "cpe:/a:hardened-php:suhosin"
+}

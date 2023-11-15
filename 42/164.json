@@ -1,0 +1,8 @@
+{
+  "vid": "42",
+  "vname": "OpenBSD",
+  "vcpe": "cpe:/:openbsd",
+  "pid": "164",
+  "pname": "OpenSSH",
+  "pcpe": "cpe:/a:openbsd:openssh"
+}

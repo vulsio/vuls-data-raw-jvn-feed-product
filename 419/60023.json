@@ -1,0 +1,8 @@
+{
+  "vid": "419",
+  "vname": "NetApp",
+  "vcpe": "cpe:/:netapp",
+  "pid": "60023",
+  "pname": "NetApp SMI-S Provider",
+  "pcpe": "cpe:/a:netapp:smi-s_provider"
+}

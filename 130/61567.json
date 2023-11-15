@@ -1,0 +1,8 @@
+{
+  "vid": "130",
+  "vname": "インテル",
+  "vcpe": "cpe:/:intel",
+  "pid": "61567",
+  "pname": "Intel oneAPI DPC++/C++ Compiler",
+  "pcpe": "cpe:/a:intel:oneapi_dpc%2b%2b%2fc%2b%2b_compiler"
+}

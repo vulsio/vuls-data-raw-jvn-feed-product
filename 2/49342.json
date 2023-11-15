@@ -1,0 +1,8 @@
+{
+  "vid": "2",
+  "vname": "マイクロソフト",
+  "vcpe": "cpe:/:microsoft",
+  "pid": "49342",
+  "pname": "Log Analytics Agent",
+  "pcpe": "cpe:/a:microsoft:log_analytics_agent"
+}

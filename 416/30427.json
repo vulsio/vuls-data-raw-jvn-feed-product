@@ -1,0 +1,8 @@
+{
+  "vid": "416",
+  "vname": "High Availability Linux Project",
+  "vcpe": "cpe:/:linux-ha",
+  "pid": "30427",
+  "pname": "ha",
+  "pcpe": "cpe:/a:linux-ha:ha"
+}

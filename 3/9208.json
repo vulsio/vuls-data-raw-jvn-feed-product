@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "9208",
+  "pname": "JBoss Application Server",
+  "pcpe": "cpe:/a:redhat:jboss_community_application_server"
+}

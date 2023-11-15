@@ -1,0 +1,8 @@
+{
+  "vid": "12",
+  "vname": "トレンドマイクロ",
+  "vcpe": "cpe:/:trendmicro",
+  "pid": "327",
+  "pname": "ルートキット対策モジュール (TmComm.sys)",
+  "pcpe": "cpe:/a:trendmicro:rootkit_provision_module_tmcomm.sys"
+}

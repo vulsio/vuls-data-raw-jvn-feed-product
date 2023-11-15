@@ -1,0 +1,8 @@
+{
+  "vid": "130",
+  "vname": "インテル",
+  "vcpe": "cpe:/:intel",
+  "pid": "28120",
+  "pname": "Intel Ethernet Controller XL710-AM1",
+  "pcpe": "cpe:/h:intel:xl710-am1_controller"
+}

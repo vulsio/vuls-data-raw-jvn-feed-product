@@ -1,0 +1,8 @@
+{
+  "vid": "17095",
+  "vname": "trusteddomain",
+  "vcpe": "cpe:/:trusteddomain",
+  "pid": "40625",
+  "pname": "OpenDMARC",
+  "pcpe": "cpe:/a:trusteddomain:opendmarc"
+}

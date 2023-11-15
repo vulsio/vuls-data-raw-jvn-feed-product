@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "57952",
+  "pname": "Keycloak Authentication",
+  "pcpe": "cpe:/a:jenkins:keycloak_authentication"
+}

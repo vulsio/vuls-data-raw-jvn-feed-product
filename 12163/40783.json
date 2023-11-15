@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "40783",
+  "pname": "NeuVector Vulnerability Scanner",
+  "pcpe": "cpe:/a:jenkins:neuvector_vulnerability_scanner"
+}

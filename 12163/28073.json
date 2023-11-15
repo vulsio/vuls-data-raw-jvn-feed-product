@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "28073",
+  "pname": "Script Security",
+  "pcpe": "cpe:/a:jenkins:script_security"
+}

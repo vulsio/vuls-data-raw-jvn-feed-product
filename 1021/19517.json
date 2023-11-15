@@ -1,0 +1,8 @@
+{
+  "vid": "1021",
+  "vname": "OpenStack",
+  "vcpe": "cpe:/:openstack",
+  "pid": "19517",
+  "pname": "OpenStack Icehouse",
+  "pcpe": "cpe:/a:openstack:icehouse"
+}

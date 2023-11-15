@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "62401",
+  "pname": "fabric8-kubernetes",
+  "pcpe": "cpe:/a:redhat:fabric8-kubernetes"
+}

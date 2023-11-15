@@ -1,0 +1,8 @@
+{
+  "vid": "9898",
+  "vname": "Elasticsearch",
+  "vcpe": "cpe:/:elasticsearch",
+  "pid": "42457",
+  "pname": "Winlogbeat",
+  "pcpe": "cpe:/a:elasticsearch:winlogbeat"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "43674",
+  "pname": "Quality Gates",
+  "pcpe": "cpe:/a:jenkins:quality_gates"
+}

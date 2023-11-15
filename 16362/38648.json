@@ -1,0 +1,8 @@
+{
+  "vid": "16362",
+  "vname": "Espressif Systems",
+  "vcpe": "cpe:/:espressif",
+  "pid": "38648",
+  "pname": "ESP-IDF",
+  "pcpe": "cpe:/a:espressif:esp-idf"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "269",
+  "vname": "RSAセキュリティ",
+  "vcpe": "cpe:/:rsa",
+  "pid": "45913",
+  "pname": "RSA MFA Agent",
+  "pcpe": "cpe:/a:rsa:multifactor_authentication_agent"
+}

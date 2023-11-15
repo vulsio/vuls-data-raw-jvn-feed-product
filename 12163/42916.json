@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "42916",
+  "pname": "Code Coverage API",
+  "pcpe": "cpe:/a:jenkins:code_coverage_api"
+}

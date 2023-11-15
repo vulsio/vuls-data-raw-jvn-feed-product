@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "43678",
+  "pname": "Audit Trail",
+  "pcpe": "cpe:/a:jenkins:audit_trail"
+}

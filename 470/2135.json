@@ -1,0 +1,8 @@
+{
+  "vid": "470",
+  "vname": "GStreamer",
+  "vcpe": "cpe:/:gstreamer_project",
+  "pid": "2135",
+  "pname": "gst-plugins-base",
+  "pcpe": "cpe:/a:gstreamer_project:gst-plugins-base"
+}

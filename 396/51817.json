@@ -1,0 +1,8 @@
+{
+  "vid": "396",
+  "vname": "SUSE",
+  "vcpe": "cpe:/:suse",
+  "pid": "51817",
+  "pname": "Rancher RKE2",
+  "pcpe": "cpe:/a:suse:rancher_rke2"
+}

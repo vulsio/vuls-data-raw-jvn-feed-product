@@ -1,0 +1,8 @@
+{
+  "vid": "12989",
+  "vname": "HashiCorp",
+  "vcpe": "cpe:/:hashicorp",
+  "pid": "48207",
+  "pname": "Consul Docker image",
+  "pcpe": "cpe:/a:hashicorp:consul_docker_image"
+}

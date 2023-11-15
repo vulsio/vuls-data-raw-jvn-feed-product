@@ -1,0 +1,8 @@
+{
+  "vid": "655",
+  "vname": "Eclipse Foundation",
+  "vcpe": "cpe:/:eclipse",
+  "pid": "53937",
+  "pname": "Paho MQTT C/C++ client",
+  "pcpe": "cpe:/a:eclipse:paho_mqtt_c%2fc%2b%2b_client"
+}

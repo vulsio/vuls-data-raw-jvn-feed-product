@@ -1,0 +1,8 @@
+{
+  "vid": "269",
+  "vname": "RSAセキュリティ",
+  "vcpe": "cpe:/:rsa",
+  "pid": "17336",
+  "pname": "RSA SecurID Authentication Agent for Web",
+  "pcpe": "cpe:/a:rsa:securid_web_agent"
+}

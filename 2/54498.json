@@ -1,0 +1,8 @@
+{
+  "vid": "2",
+  "vname": "マイクロソフト",
+  "vcpe": "cpe:/:microsoft",
+  "pid": "54498",
+  "pname": "Visual Studio Code WSL Extension",
+  "pcpe": "cpe:/a:microsoft:visual_studio_code_wsl_extension"
+}

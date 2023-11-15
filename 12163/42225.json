@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "42225",
+  "pname": "buildgraph-view",
+  "pcpe": "cpe:/a:jenkins:build_graph_view"
+}

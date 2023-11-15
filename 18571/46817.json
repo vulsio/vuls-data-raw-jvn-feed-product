@@ -1,0 +1,8 @@
+{
+  "vid": "18571",
+  "vname": "Encode",
+  "vcpe": "cpe:/:encode",
+  "pid": "46817",
+  "pname": "Django REST Framework",
+  "pcpe": "cpe:/a:encode:django_rest_framework"
+}

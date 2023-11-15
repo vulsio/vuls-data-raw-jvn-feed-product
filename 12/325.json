@@ -1,0 +1,8 @@
+{
+  "vid": "12",
+  "vname": "トレンドマイクロ",
+  "vcpe": "cpe:/:trendmicro",
+  "pid": "325",
+  "pname": "Client / Server / Messaging Security for SMB",
+  "pcpe": "cpe:/a:trendmicro:client_server_messaging_security_for_smb"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "1721",
+  "vname": "SolarWinds",
+  "vcpe": "cpe:/:solarwinds",
+  "pid": "44853",
+  "pname": "MSP PME (Patch Management Engine)",
+  "pcpe": "cpe:/a:solarwinds:managed_service_provider_patch_management_engine"
+}

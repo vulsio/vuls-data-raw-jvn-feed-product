@@ -1,0 +1,8 @@
+{
+  "vid": "93",
+  "vname": "Drupal",
+  "vcpe": "cpe:/:drupal",
+  "pid": "1737",
+  "pname": "Secure Site",
+  "pcpe": "cpe:/a:drupal:secure_site_module"
+}

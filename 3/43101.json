@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "43101",
+  "pname": "Red Hat OpenShift Service Mesh",
+  "pcpe": "cpe:/a:redhat:openshift_service_mesh"
+}

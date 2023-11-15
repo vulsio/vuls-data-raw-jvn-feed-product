@@ -1,0 +1,8 @@
+{
+  "vid": "20116",
+  "vname": "nmstate",
+  "vcpe": "cpe:/:nmstate",
+  "pid": "51076",
+  "pname": "kubernetes-nmstate",
+  "pcpe": "cpe:/a:nmstate:kubernetes-nmstate"
+}

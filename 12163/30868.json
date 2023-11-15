@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "30868",
+  "pname": "Pipeline: Build Step",
+  "pcpe": "cpe:/a:jenkins:pipeline%3a_build_step"
+}

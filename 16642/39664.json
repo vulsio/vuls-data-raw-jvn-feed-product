@@ -1,0 +1,8 @@
+{
+  "vid": "16642",
+  "vname": "NATS",
+  "vcpe": "cpe:/:nats",
+  "pid": "39664",
+  "pname": "NATS Server",
+  "pcpe": "cpe:/a:nats:nats_server"
+}

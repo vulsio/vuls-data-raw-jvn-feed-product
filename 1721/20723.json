@@ -1,0 +1,8 @@
+{
+  "vid": "1721",
+  "vname": "SolarWinds",
+  "vcpe": "cpe:/:solarwinds",
+  "pid": "20723",
+  "pname": "Network Configuration Manager",
+  "pcpe": "cpe:/a:solarwinds:network_configuration_manager"
+}

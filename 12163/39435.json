@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "39435",
+  "pname": "Port Allocator",
+  "pcpe": "cpe:/a:jenkins:port_allocator"
+}

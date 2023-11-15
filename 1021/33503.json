@@ -1,0 +1,8 @@
+{
+  "vid": "1021",
+  "vname": "OpenStack",
+  "vcpe": "cpe:/:openstack",
+  "pid": "33503",
+  "pname": "OpenStack Oslo ミドルウェア",
+  "pcpe": "cpe:/a:openstack:oslo.middleware"
+}

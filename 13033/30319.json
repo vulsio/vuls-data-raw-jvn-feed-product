@@ -1,0 +1,8 @@
+{
+  "vid": "13033",
+  "vname": "musl libc",
+  "vcpe": "cpe:/:musl-libc",
+  "pid": "30319",
+  "pname": "musl",
+  "pcpe": "cpe:/a:musl-libc:musl"
+}

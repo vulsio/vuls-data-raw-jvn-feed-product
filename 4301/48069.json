@@ -1,0 +1,8 @@
+{
+  "vid": "4301",
+  "vname": "Amazon.com, Inc.",
+  "vcpe": "cpe:/:amazon",
+  "pid": "48069",
+  "pname": "AWS Encryption SDK",
+  "pcpe": "cpe:/a:amazon:aws_encryption_sdk"
+}

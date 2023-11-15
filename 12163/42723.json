@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "42723",
+  "pname": "Robot Framework",
+  "pcpe": "cpe:/a:jenkins:robot_framework"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "103",
+  "vname": "NVIDIA",
+  "vcpe": "cpe:/:nvidia",
+  "pid": "38282",
+  "pname": "Jetson TX2",
+  "pcpe": "cpe:/a:nvidia:jetson_tx2"
+}

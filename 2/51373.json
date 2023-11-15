@@ -1,0 +1,8 @@
+{
+  "vid": "2",
+  "vname": "マイクロソフト",
+  "vcpe": "cpe:/:microsoft",
+  "pid": "51373",
+  "pname": "Microsoft Defender for Endpoint EDR sensor",
+  "pcpe": "cpe:/a:microsoft:defender_for_endpoint_edr_sensor"
+}

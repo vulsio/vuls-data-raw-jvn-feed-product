@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "33270",
+  "pname": "Copy To Slave",
+  "pcpe": "cpe:/a:jenkins:copy_to_slave"
+}

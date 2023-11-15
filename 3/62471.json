@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "62471",
+  "pname": "openshift serverless",
+  "pcpe": "cpe:/a:redhat:openshift_serverless"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "103",
+  "vname": "NVIDIA",
+  "vcpe": "cpe:/:nvidia",
+  "pid": "4654",
+  "pname": "GeForce 9400M ドライバ",
+  "pcpe": "cpe:/a:nvidia:9400m_driver"
+}

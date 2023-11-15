@@ -1,0 +1,8 @@
+{
+  "vid": "12288",
+  "vname": "Cloud Foundry Foundation",
+  "vcpe": "cpe:/:cloud_foundry",
+  "pid": "29335",
+  "pname": "UAA-Release",
+  "pcpe": "cpe:/a:cloud_foundry:cloud_foundry_uaa_release"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "1709",
+  "vname": "Shibboleth",
+  "vcpe": "cpe:/:shibboleth",
+  "pid": "24425",
+  "pname": "Identity Provider",
+  "pcpe": "cpe:/a:shibboleth:identity_provider"
+}

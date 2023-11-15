@@ -1,0 +1,8 @@
+{
+  "vid": "10181",
+  "vname": "Hibernate",
+  "vcpe": "cpe:/:hibernate",
+  "pid": "21322",
+  "pname": "Hibernate Validator",
+  "pcpe": "cpe:/a:hibernate:hibernate_validator"
+}

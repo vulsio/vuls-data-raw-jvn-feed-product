@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "46485",
+  "pname": "ClearCase Release Plugin",
+  "pcpe": "cpe:/a:jenkins:clearcase_release"
+}

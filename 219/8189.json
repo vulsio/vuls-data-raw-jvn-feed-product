@@ -1,0 +1,8 @@
+{
+  "vid": "219",
+  "vname": "FreeBSD",
+  "vcpe": "cpe:/:freebsd",
+  "pid": "8189",
+  "pname": "freebsd-sendpr",
+  "pcpe": "cpe:/a:freebsd:freebsd-sendpr"
+}

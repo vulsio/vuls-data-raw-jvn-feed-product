@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "38846",
+  "pname": "Pipeline Maven Integration",
+  "pcpe": "cpe:/a:jenkins:pipeline_maven_integration"
+}

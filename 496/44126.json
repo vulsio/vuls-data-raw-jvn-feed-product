@@ -1,0 +1,8 @@
+{
+  "vid": "496",
+  "vname": "F5 Networks",
+  "vcpe": "cpe:/:f5",
+  "pid": "44126",
+  "pname": "NGINX Controller",
+  "pcpe": "cpe:/a:f5:nginx_controller"
+}

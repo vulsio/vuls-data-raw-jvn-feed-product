@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "39445",
+  "pname": "Embeddable Build Status",
+  "pcpe": "cpe:/a:jenkins:embeddable_build_status"
+}

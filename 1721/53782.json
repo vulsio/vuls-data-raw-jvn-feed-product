@@ -1,0 +1,8 @@
+{
+  "vid": "1721",
+  "vname": "SolarWinds",
+  "vcpe": "cpe:/:solarwinds",
+  "pid": "53782",
+  "pname": "Kiwi Syslog Server",
+  "pcpe": "cpe:/a:solarwinds:kiwi_syslog_server"
+}

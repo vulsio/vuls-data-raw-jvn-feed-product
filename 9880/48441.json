@@ -1,0 +1,8 @@
+{
+  "vid": "9880",
+  "vname": "Docker",
+  "vcpe": "cpe:/:docker",
+  "pid": "48441",
+  "pname": "spiped docker image",
+  "pcpe": "cpe:/a:docker:spiped_alpine_docker_image"
+}

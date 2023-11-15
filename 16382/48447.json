@@ -1,0 +1,8 @@
+{
+  "vid": "16382",
+  "vname": "matomo",
+  "vcpe": "cpe:/:matomo",
+  "pid": "48447",
+  "pname": "piwik Docker image",
+  "pcpe": "cpe:/a:matomo:piwik_fpm-alpine_docker_image"
+}

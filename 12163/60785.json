@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "60785",
+  "pname": "readonly parameter",
+  "pcpe": "cpe:/a:jenkins:readonly_parameter"
+}

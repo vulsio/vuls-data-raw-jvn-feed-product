@@ -1,0 +1,8 @@
+{
+  "vid": "2",
+  "vname": "マイクロソフト",
+  "vcpe": "cpe:/:microsoft",
+  "pid": "50963",
+  "pname": "Azure Data Explorer",
+  "pcpe": "cpe:/a:microsoft:azure_data_explorer"
+}

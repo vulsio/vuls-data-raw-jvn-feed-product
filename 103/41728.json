@@ -1,0 +1,8 @@
+{
+  "vid": "103",
+  "vname": "NVIDIA",
+  "vcpe": "cpe:/:nvidia",
+  "pid": "41728",
+  "pname": "GPUModeSwitch",
+  "pcpe": "cpe:/a:nvidia:gpumodeswitch"
+}

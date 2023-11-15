@@ -1,0 +1,8 @@
+{
+  "vid": "16362",
+  "vname": "Espressif Systems",
+  "vcpe": "cpe:/:espressif",
+  "pid": "51959",
+  "pname": "ESP32 ファームウェア",
+  "pcpe": "cpe:/o:espressif:esp32_firmware"
+}

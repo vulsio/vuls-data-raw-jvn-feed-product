@@ -1,0 +1,8 @@
+{
+  "vid": "6591",
+  "vname": "PayPal",
+  "vcpe": "cpe:/:paypal",
+  "pid": "13229",
+  "pname": "PayPal Transactional Information SOAP",
+  "pcpe": "cpe:/a:paypal:transactional_information_soap"
+}

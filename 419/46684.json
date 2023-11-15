@@ -1,0 +1,8 @@
+{
+  "vid": "419",
+  "vname": "NetApp",
+  "vcpe": "cpe:/:netapp",
+  "pid": "46684",
+  "pname": "HCI Baseboard Management Controller (BMC) - H410C",
+  "pcpe": "cpe:/o:netapp:hci_h410c_firmware"
+}

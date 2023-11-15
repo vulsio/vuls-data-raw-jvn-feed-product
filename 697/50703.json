@@ -1,0 +1,8 @@
+{
+  "vid": "697",
+  "vname": "Beckhoff Automation",
+  "vcpe": "cpe:/:beckhoff",
+  "pid": "50703",
+  "pname": "TwinCAT OPC UA Server",
+  "pcpe": "cpe:/a:beckhoff:twincat_opc_ua_server"
+}

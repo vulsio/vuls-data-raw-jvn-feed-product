@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "40822",
+  "pname": "Call Remote Job",
+  "pcpe": "cpe:/a:jenkins:call_remote_job"
+}

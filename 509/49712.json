@@ -1,0 +1,8 @@
+{
+  "vid": "509",
+  "vname": "SAP",
+  "vcpe": "cpe:/:sap",
+  "pid": "49712",
+  "pname": "SAP Payment Engine",
+  "pcpe": "cpe:/a:sap:payment_engine"
+}

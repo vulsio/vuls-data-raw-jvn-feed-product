@@ -1,0 +1,8 @@
+{
+  "vid": "697",
+  "vname": "Beckhoff Automation",
+  "vcpe": "cpe:/:beckhoff",
+  "pid": "50701",
+  "pname": "IPC Diagnostics UA Server",
+  "pcpe": "cpe:/a:beckhoff:ipc_diagnostics_ua_server"
+}

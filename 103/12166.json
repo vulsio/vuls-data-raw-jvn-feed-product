@@ -1,0 +1,8 @@
+{
+  "vid": "103",
+  "vname": "NVIDIA",
+  "vcpe": "cpe:/:nvidia",
+  "pid": "12166",
+  "pname": "video driver",
+  "pcpe": "cpe:/a:nvidia:video_driver"
+}

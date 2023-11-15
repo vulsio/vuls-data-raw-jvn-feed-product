@@ -1,0 +1,8 @@
+{
+  "vid": "9496",
+  "vname": "Linux Containers",
+  "vcpe": "cpe:/:linuxcontainers",
+  "pid": "23224",
+  "pname": "CGManager",
+  "pcpe": "cpe:/a:linuxcontainers:cgmanager"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "21635",
+  "vname": "QIWI Open API",
+  "vcpe": "cpe:/:qiwi",
+  "pid": "55570",
+  "pname": "woocommerce-payment-qiwi",
+  "pcpe": "cpe:/a:qiwi:woo-qiwi-payment-gateway"
+}

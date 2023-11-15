@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "57452",
+  "pname": "OpenShift GitOps",
+  "pcpe": "cpe:/a:redhat:openshift_gitops"
+}

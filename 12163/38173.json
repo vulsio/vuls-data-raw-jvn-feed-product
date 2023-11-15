@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "38173",
+  "pname": "WildFly Deployer",
+  "pcpe": "cpe:/a:jenkins:wildfly_deployer"
+}

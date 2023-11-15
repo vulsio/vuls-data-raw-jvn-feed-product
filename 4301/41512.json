@@ -1,0 +1,8 @@
+{
+  "vid": "4301",
+  "vname": "Amazon.com, Inc.",
+  "vcpe": "cpe:/:amazon",
+  "pid": "41512",
+  "pname": "FreeRTOS+FAT",
+  "pcpe": "cpe:/o:amazon:freertos%2bfat"
+}

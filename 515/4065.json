@@ -1,0 +1,8 @@
+{
+  "vid": "515",
+  "vname": "VMware",
+  "vcpe": "cpe:/:vmware",
+  "pid": "4065",
+  "pname": "VMware vSphere",
+  "pcpe": "cpe:/a:vmware:vsphere"
+}

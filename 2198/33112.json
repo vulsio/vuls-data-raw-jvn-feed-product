@@ -1,0 +1,8 @@
+{
+  "vid": "2198",
+  "vname": "Advanced Micro Devices (AMD)",
+  "vcpe": "cpe:/:amd",
+  "pid": "33112",
+  "pname": "EPYC Server ファームウェア",
+  "pcpe": "cpe:/o:amd:epyc_server_firmware"
+}

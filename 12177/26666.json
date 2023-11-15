@@ -1,0 +1,8 @@
+{
+  "vid": "12177",
+  "vname": "OpenShift",
+  "vcpe": "cpe:/:openshift",
+  "pid": "26666",
+  "pname": "OpenShift Origin",
+  "pcpe": "cpe:/a:openshift:origin"
+}

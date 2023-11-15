@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "50759",
+  "pname": "Google Cloud Platform Ansible Collection",
+  "pcpe": "cpe:/a:redhat:google_cloud_platform_ansible_collection"
+}

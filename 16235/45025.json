@@ -1,0 +1,8 @@
+{
+  "vid": "16235",
+  "vname": "Cloud Native Computing Foundation",
+  "vcpe": "cpe:/:cncf",
+  "pid": "45025",
+  "pname": "CNI network plugins",
+  "pcpe": "cpe:/a:cncf:cni_network_plugins"
+}

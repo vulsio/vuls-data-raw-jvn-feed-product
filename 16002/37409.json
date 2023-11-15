@@ -1,0 +1,8 @@
+{
+  "vid": "16002",
+  "vname": "PostGIS",
+  "vcpe": "cpe:/:postgis_project",
+  "pid": "37409",
+  "pname": "PostGIS",
+  "pcpe": "cpe:/a:postgis_project:postgis"
+}

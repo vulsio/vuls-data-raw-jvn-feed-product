@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "25099",
+  "pname": "Red Hat Gluster Storage Server",
+  "pcpe": "cpe:/a:redhat:gluster_storage"
+}

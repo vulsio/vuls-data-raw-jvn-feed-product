@@ -1,0 +1,8 @@
+{
+  "vid": "4301",
+  "vname": "Amazon.com, Inc.",
+  "vcpe": "cpe:/:amazon",
+  "pid": "55608",
+  "pname": "AWS SDK",
+  "pcpe": "cpe:/a:amazon:aws_software_development_kit"
+}

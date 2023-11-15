@@ -1,0 +1,8 @@
+{
+  "vid": "7964",
+  "vname": "tftp-server",
+  "vcpe": "cpe:/:tftp-server",
+  "pid": "15357",
+  "pname": "winagents tftp server",
+  "pcpe": "cpe:/a:tftp-server:winagents_tftp_server"
+}

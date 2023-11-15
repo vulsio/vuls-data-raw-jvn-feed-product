@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "44092",
+  "pname": "Pipeline: AWS Steps",
+  "pcpe": "cpe:/a:jenkins:pipeline%3a_aws_steps"
+}

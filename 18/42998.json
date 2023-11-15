@@ -1,0 +1,8 @@
+{
+  "vid": "18",
+  "vname": "IBM",
+  "vcpe": "cpe:/:ibm",
+  "pid": "42998",
+  "pname": "WIoTP MessageGateway",
+  "pcpe": "cpe:/a:ibm:watson_iot_platform_-_message_gateway"
+}

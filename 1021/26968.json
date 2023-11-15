@@ -1,0 +1,8 @@
+{
+  "vid": "1021",
+  "vname": "OpenStack",
+  "vcpe": "cpe:/:openstack",
+  "pid": "26968",
+  "pname": "Murano Dashboard",
+  "pcpe": "cpe:/a:openstack:murano-dashboard"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "509",
+  "vname": "SAP",
+  "vcpe": "cpe:/:sap",
+  "pid": "20306",
+  "pname": "SAP Transaction Data Pool",
+  "pcpe": "cpe:/a:sap:transaction_data_pool"
+}

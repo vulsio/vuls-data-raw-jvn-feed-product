@@ -1,0 +1,8 @@
+{
+  "vid": "497",
+  "vname": "FFmpeg",
+  "vcpe": "cpe:/:ffmpeg",
+  "pid": "27838",
+  "pname": "libavformat",
+  "pcpe": "cpe:/a:ffmpeg:libavformat"
+}

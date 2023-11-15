@@ -1,0 +1,8 @@
+{
+  "vid": "16362",
+  "vname": "Espressif Systems",
+  "vcpe": "cpe:/:espressif",
+  "pid": "40440",
+  "pname": "ESP32 Arduino",
+  "pcpe": "cpe:/a:espressif:arduino-esp32"
+}

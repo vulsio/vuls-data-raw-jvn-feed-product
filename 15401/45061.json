@@ -1,0 +1,8 @@
+{
+  "vid": "15401",
+  "vname": "Couchbase, Inc.",
+  "vcpe": "cpe:/:couchbase",
+  "pid": "45061",
+  "pname": "Couchbase Server Java SDK",
+  "pcpe": "cpe:/a:couchbase:couchbase_server_java_sdk"
+}

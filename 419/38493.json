@@ -1,0 +1,8 @@
+{
+  "vid": "419",
+  "vname": "NetApp",
+  "vcpe": "cpe:/:netapp",
+  "pid": "38493",
+  "pname": "NetApp HCI Compute Nodes",
+  "pcpe": "cpe:/a:netapp:hyper_converged_infrastructure_compute_node"
+}

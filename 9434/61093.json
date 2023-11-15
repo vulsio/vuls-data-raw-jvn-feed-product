@@ -1,0 +1,8 @@
+{
+  "vid": "9434",
+  "vname": "GitLab.org",
+  "vcpe": "cpe:/:gitlab",
+  "pid": "61093",
+  "pname": "DAST API scanner",
+  "pcpe": "cpe:/a:gitlab:dast_api_scanner"
+}

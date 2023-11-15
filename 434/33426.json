@@ -1,0 +1,8 @@
+{
+  "vid": "434",
+  "vname": "DELL EMC (旧 EMC Corporation)",
+  "vcpe": "cpe:/:emc",
+  "pid": "33426",
+  "pname": "ViPR Controller",
+  "pcpe": "cpe:/a:emc:vipr_controller"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "12955",
+  "vname": "Kubernetes",
+  "vcpe": "cpe:/:kubernetes",
+  "pid": "40985",
+  "pname": "kube-state-metrics",
+  "pcpe": "cpe:/a:kubernetes:kube-state-metrics"
+}

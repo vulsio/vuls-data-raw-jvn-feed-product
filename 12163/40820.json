@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "40820",
+  "pname": "CodeScan",
+  "pcpe": "cpe:/a:jenkins:codescan"
+}

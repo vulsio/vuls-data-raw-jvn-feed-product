@@ -1,0 +1,8 @@
+{
+  "vid": "18",
+  "vname": "IBM",
+  "vcpe": "cpe:/:ibm",
+  "pid": "26310",
+  "pname": "GPFS Storage Server",
+  "pcpe": "cpe:/a:ibm:general_parallel_file_system_storage_server"
+}

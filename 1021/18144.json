@@ -1,0 +1,8 @@
+{
+  "vid": "1021",
+  "vname": "OpenStack",
+  "vcpe": "cpe:/:openstack",
+  "pid": "18144",
+  "pname": "python-glanceclient",
+  "pcpe": "cpe:/a:openstack:python_glanceclient"
+}

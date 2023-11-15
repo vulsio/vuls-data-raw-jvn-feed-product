@@ -1,0 +1,8 @@
+{
+  "vid": "103",
+  "vname": "NVIDIA",
+  "vcpe": "cpe:/:nvidia",
+  "pid": "57728",
+  "pname": "federated learning application runtime environment",
+  "pcpe": "cpe:/a:nvidia:federated_learning_application_runtime_environment"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "509",
+  "vname": "SAP",
+  "vcpe": "cpe:/:sap",
+  "pid": "30929",
+  "pname": "SAP Point of Sale (POS)",
+  "pcpe": "cpe:/a:sap:point_of_sale_xpress_server"
+}

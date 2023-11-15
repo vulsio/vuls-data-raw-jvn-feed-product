@@ -1,0 +1,8 @@
+{
+  "vid": "19",
+  "vname": "シスコシステムズ",
+  "vcpe": "cpe:/:cisco",
+  "pid": "781",
+  "pname": "Channel Interface Processor (CIP)",
+  "pcpe": "cpe:/h:cisco:channel_interface_processor"
+}

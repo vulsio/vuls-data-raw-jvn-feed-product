@@ -1,0 +1,8 @@
+{
+  "vid": "15828",
+  "vname": "Modbus Tools",
+  "vcpe": "cpe:/:modbustools",
+  "pid": "56061",
+  "pname": "Modbus Poll",
+  "pcpe": "cpe:/a:modbustools:modbus_poll"
+}

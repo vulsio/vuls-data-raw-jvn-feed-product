@@ -1,0 +1,8 @@
+{
+  "vid": "1709",
+  "vname": "Shibboleth",
+  "vcpe": "cpe:/:shibboleth",
+  "pid": "56524",
+  "pname": "OpenID Connect OP",
+  "pcpe": "cpe:/a:shibboleth:oidc_op"
+}

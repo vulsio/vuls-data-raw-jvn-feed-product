@@ -1,0 +1,8 @@
+{
+  "vid": "110",
+  "vname": "Broadcom",
+  "vcpe": "cpe:/:broadcom",
+  "pid": "56076",
+  "pname": "brcmfmac ドライバ",
+  "pcpe": "cpe:/a:broadcom:brcmfmac_driver"
+}

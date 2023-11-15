@@ -1,0 +1,8 @@
+{
+  "vid": "515",
+  "vname": "VMware",
+  "vcpe": "cpe:/:vmware",
+  "pid": "53883",
+  "pname": "Spring AMQP",
+  "pcpe": "cpe:/a:vmware:spring_advanced_message_queuing_protocol"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "12989",
+  "vname": "HashiCorp",
+  "vcpe": "cpe:/:hashicorp",
+  "pid": "63540",
+  "pname": "vagrant",
+  "pcpe": "cpe:/a:hashicorp:vagrant"
+}

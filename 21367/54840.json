@@ -1,0 +1,8 @@
+{
+  "vid": "21367",
+  "vname": "App::cpanminus project",
+  "vcpe": "cpe:/:app%3a%3acpanminus_project",
+  "pid": "54840",
+  "pname": "App::cpanminus",
+  "pcpe": "cpe:/a:app%3a%3acpanminus_project:app%3a%3acpanminus"
+}

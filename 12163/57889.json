@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "57889",
+  "pname": "JIRA Pipeline Steps",
+  "pcpe": "cpe:/a:jenkins:jira_pipeline_steps"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "39672",
+  "pname": "Maven Release (M2 Release)",
+  "pcpe": "cpe:/a:jenkins:m2release"
+}

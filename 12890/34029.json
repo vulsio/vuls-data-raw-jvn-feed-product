@@ -1,0 +1,8 @@
+{
+  "vid": "12890",
+  "vname": "Mapbox",
+  "vcpe": "cpe:/:mapbox_project",
+  "pid": "34029",
+  "pname": "npm-test-sqlite3-trunk",
+  "pcpe": "cpe:/a:mapbox_project:npm-test-sqlite3-trunk"
+}

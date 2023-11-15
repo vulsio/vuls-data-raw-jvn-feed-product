@@ -1,0 +1,8 @@
+{
+  "vid": "8",
+  "vname": "Apache Software Foundation",
+  "vcpe": "cpe:/:apache",
+  "pid": "61671",
+  "pname": "Apache Kafka Connect",
+  "pcpe": "cpe:/a:apache:kafka_connect"
+}

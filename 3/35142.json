@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "35142",
+  "pname": "Red Hat Ansible Engine",
+  "pcpe": "cpe:/a:redhat:ansible_engine"
+}

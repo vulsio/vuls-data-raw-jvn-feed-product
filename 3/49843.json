@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "49843",
+  "pname": "kubernetes-client",
+  "pcpe": "cpe:/a:redhat:kubernetes-client"
+}

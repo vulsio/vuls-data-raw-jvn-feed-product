@@ -1,0 +1,8 @@
+{
+  "vid": "515",
+  "vname": "VMware",
+  "vcpe": "cpe:/:vmware",
+  "pid": "50656",
+  "pname": "RabbitMQ",
+  "pcpe": "cpe:/a:vmware:rabbitmq"
+}

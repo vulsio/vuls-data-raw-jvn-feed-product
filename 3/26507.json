@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "26507",
+  "pname": "Red Hat Ceph Storage OSD",
+  "pcpe": "cpe:/a:redhat:ceph_storage_osd"
+}

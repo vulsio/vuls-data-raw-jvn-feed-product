@@ -1,0 +1,8 @@
+{
+  "vid": "18571",
+  "vname": "Encode",
+  "vcpe": "cpe:/:encode",
+  "pid": "45776",
+  "pname": "Uvicorn",
+  "pcpe": "cpe:/a:encode:uvicorn"
+}

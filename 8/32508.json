@@ -1,0 +1,8 @@
+{
+  "vid": "8",
+  "vname": "Apache Software Foundation",
+  "vcpe": "cpe:/:apache",
+  "pid": "32508",
+  "pname": "Apache Tomcat JK ISAPI Connector",
+  "pcpe": "cpe:/a:apache:tomcat_jk_isapi_connector"
+}

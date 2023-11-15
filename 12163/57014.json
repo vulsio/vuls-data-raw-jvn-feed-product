@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "57014",
+  "pname": "Promoted Builds (Simple)",
+  "pcpe": "cpe:/a:jenkins:promoted_builds_%28simple%29"
+}

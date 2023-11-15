@@ -1,0 +1,8 @@
+{
+  "vid": "356",
+  "vname": "Google",
+  "vcpe": "cpe:/:google",
+  "pid": "37522",
+  "pname": "Kubernetes Engine",
+  "pcpe": "cpe:/a:google:kubernetes_engine"
+}

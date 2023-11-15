@@ -1,0 +1,8 @@
+{
+  "vid": "1021",
+  "vname": "OpenStack",
+  "vcpe": "cpe:/:openstack",
+  "pid": "9139",
+  "pname": "Openstack Keystone",
+  "pcpe": "cpe:/a:openstack:keystone"
+}

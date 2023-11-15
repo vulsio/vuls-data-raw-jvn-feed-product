@@ -1,0 +1,8 @@
+{
+  "vid": "470",
+  "vname": "GStreamer",
+  "vcpe": "cpe:/:gstreamer_project",
+  "pid": "44103",
+  "pname": "gst-rtsp-server",
+  "pcpe": "cpe:/a:gstreamer_project:gst-rtsp-server"
+}

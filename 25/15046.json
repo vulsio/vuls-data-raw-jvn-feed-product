@@ -1,0 +1,8 @@
+{
+  "vid": "25",
+  "vname": "SSH コミュニケーションズ・セキュリティ",
+  "vcpe": "cpe:/:ssh",
+  "pid": "15046",
+  "pname": "tectia manager",
+  "pcpe": "cpe:/a:ssh:tectia_manager"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "21708",
+  "vname": "DigitalOcean",
+  "vcpe": "cpe:/:digitalocean",
+  "pid": "55817",
+  "pname": "golang-nanoauth",
+  "pcpe": "cpe:/a:digitalocean:golang-nanoauth"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "8",
+  "vname": "Apache Software Foundation",
+  "vcpe": "cpe:/:apache",
+  "pid": "31110",
+  "pname": "cordova-plugin-inappbrowser",
+  "pcpe": "cpe:/a:apache:cordova_in-app-browser"
+}

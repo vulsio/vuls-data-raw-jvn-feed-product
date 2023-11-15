@@ -1,0 +1,8 @@
+{
+  "vid": "892",
+  "vname": "Celery",
+  "vcpe": "cpe:/:celeryproject",
+  "pid": "3643",
+  "pname": "virtualenv",
+  "pcpe": "cpe:/a:celeryproject:virtualenv"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "263",
+  "vname": "FreeRADIUS",
+  "vcpe": "cpe:/:freeradius",
+  "pid": "43375",
+  "pname": "pam_radius",
+  "pcpe": "cpe:/a:freeradius:pam_radius"
+}

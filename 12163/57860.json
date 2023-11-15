@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "57860",
+  "pname": "list git branches parameter",
+  "pcpe": "cpe:/a:jenkins:list_git_branches_parameter"
+}

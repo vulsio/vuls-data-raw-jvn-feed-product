@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "35599",
+  "pname": "Maven Artifact ChoiceListProvider (Nexus)",
+  "pcpe": "cpe:/a:jenkins:maven_artifact_choicelistprovider_%28nexus%29"
+}

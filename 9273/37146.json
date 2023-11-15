@@ -1,0 +1,8 @@
+{
+  "vid": "9273",
+  "vname": "SonarSource S.A",
+  "vcpe": "cpe:/:sonarsource",
+  "pid": "37146",
+  "pname": "SonarQube Scanner",
+  "pcpe": "cpe:/a:sonarsource:sonarqube_scanner"
+}

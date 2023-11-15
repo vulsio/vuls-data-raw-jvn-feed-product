@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "38175",
+  "pname": "Jira Issue Updater",
+  "pcpe": "cpe:/a:jenkins:jira_issue_updater"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "36",
+  "vname": "PostgreSQL.org",
+  "vcpe": "cpe:/:postgresql",
+  "pid": "13096",
+  "pname": "PostgreSQL JDBC ドライバ",
+  "pcpe": "cpe:/a:postgresql:postgresql_jdbc_driver"
+}

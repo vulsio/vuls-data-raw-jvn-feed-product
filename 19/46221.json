@@ -1,0 +1,8 @@
+{
+  "vid": "19",
+  "vname": "シスコシステムズ",
+  "vcpe": "cpe:/:cisco",
+  "pid": "46221",
+  "pname": "Duo Authentication for Windows Logon and RDP",
+  "pcpe": "cpe:/a:cisco:duo_authentication_for_windows_logon_and_rdp"
+}

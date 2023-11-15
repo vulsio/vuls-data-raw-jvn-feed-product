@@ -1,0 +1,8 @@
+{
+  "vid": "9545",
+  "vname": "Linux Foundation",
+  "vcpe": "cpe:/:linuxfoundation",
+  "pid": "61660",
+  "pname": "OpenTelemetry-Go contrib",
+  "pcpe": "cpe:/a:linuxfoundation:opentelemetry-go_contrib"
+}

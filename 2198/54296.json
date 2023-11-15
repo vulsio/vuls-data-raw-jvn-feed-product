@@ -1,0 +1,8 @@
+{
+  "vid": "2198",
+  "vname": "Advanced Micro Devices (AMD)",
+  "vcpe": "cpe:/:amd",
+  "pid": "54296",
+  "pname": "EPYC 7h12 ファームウェア",
+  "pcpe": "cpe:/o:amd:epyc_7h12_firmware"
+}

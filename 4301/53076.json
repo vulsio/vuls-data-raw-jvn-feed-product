@@ -1,0 +1,8 @@
+{
+  "vid": "4301",
+  "vname": "Amazon.com, Inc.",
+  "vcpe": "cpe:/:amazon",
+  "pid": "53076",
+  "pname": "Amazon AWS WorkSpaces",
+  "pcpe": "cpe:/a:amazon:aws_workspaces"
+}

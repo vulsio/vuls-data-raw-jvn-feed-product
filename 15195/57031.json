@@ -1,0 +1,8 @@
+{
+  "vid": "15195",
+  "vname": "sylabs",
+  "vcpe": "cpe:/:sylabs",
+  "pid": "57031",
+  "pname": "SCS Library Client",
+  "pcpe": "cpe:/a:sylabs:singularity_container_services_library"
+}

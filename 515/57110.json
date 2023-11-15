@@ -1,0 +1,8 @@
+{
+  "vid": "515",
+  "vname": "VMware",
+  "vcpe": "cpe:/:vmware",
+  "pid": "57110",
+  "pname": "VMware NSX Data Center",
+  "pcpe": "cpe:/a:vmware:nsx_data_center"
+}

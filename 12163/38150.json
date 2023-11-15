@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "38150",
+  "pname": "Upload to pgyer",
+  "pcpe": "cpe:/a:jenkins:upload_to_pgyer"
+}

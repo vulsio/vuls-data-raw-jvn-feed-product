@@ -1,0 +1,8 @@
+{
+  "vid": "496",
+  "vname": "F5 Networks",
+  "vcpe": "cpe:/:f5",
+  "pid": "40436",
+  "pname": "F5 Container Ingress Services",
+  "pcpe": "cpe:/a:f5:container_ingress_service"
+}

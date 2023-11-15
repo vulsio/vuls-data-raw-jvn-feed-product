@@ -1,0 +1,8 @@
+{
+  "vid": "17693",
+  "vname": "MAILSTORE",
+  "vcpe": "cpe:/:mailstore",
+  "pid": "42503",
+  "pname": "MailStore Server",
+  "pcpe": "cpe:/a:mailstore:mailstore_server"
+}

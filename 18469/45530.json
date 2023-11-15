@@ -1,0 +1,8 @@
+{
+  "vid": "18469",
+  "vname": "libp2p",
+  "vcpe": "cpe:/:protocol",
+  "pid": "45530",
+  "pname": "Gossipsub",
+  "pcpe": "cpe:/a:protocol:gossipsub"
+}

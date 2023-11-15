@@ -1,0 +1,8 @@
+{
+  "vid": "12725",
+  "vname": "mailcow",
+  "vcpe": "cpe:/:mailcow",
+  "pid": "29186",
+  "pname": "mailcow",
+  "pcpe": "cpe:/a:mailcow:mailcow-dockerized"
+}

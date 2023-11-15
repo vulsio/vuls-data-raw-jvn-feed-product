@@ -1,0 +1,8 @@
+{
+  "vid": "496",
+  "vname": "F5 Networks",
+  "vcpe": "cpe:/:f5",
+  "pid": "9014",
+  "pname": "BIG-IP WAN Optimization Manager (WOM)",
+  "pcpe": "cpe:/a:f5:big-ip_wan_optimization_manager"
+}

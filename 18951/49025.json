@@ -1,0 +1,8 @@
+{
+  "vid": "18951",
+  "vname": "Protocol Labs",
+  "vcpe": "cpe:/:protocol",
+  "pid": "49025",
+  "pname": "rust-multihash",
+  "pcpe": "cpe:/a:protocol:multihash"
+}

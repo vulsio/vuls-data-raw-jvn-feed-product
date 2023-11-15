@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "57016",
+  "pname": "Pipeline: Multibranch",
+  "pcpe": "cpe:/a:jenkins:pipeline%3a_multibranch"
+}

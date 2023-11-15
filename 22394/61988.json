@@ -1,0 +1,8 @@
+{
+  "vid": "22394",
+  "vname": "sigstore",
+  "vcpe": "cpe:/:sigstore",
+  "pid": "61988",
+  "pname": "policy controller",
+  "pcpe": "cpe:/a:sigstore:policy_controller"
+}

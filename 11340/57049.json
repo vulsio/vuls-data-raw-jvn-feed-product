@@ -1,0 +1,8 @@
+{
+  "vid": "11340",
+  "vname": "Malwarebytes",
+  "vcpe": "cpe:/:malwarebytes",
+  "pid": "57049",
+  "pname": "Binisoft Windows Firewall Control",
+  "pcpe": "cpe:/a:malwarebytes:binisoft_windows_firewall_control"
+}

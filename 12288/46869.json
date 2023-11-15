@@ -1,0 +1,8 @@
+{
+  "vid": "12288",
+  "vname": "Cloud Foundry Foundation",
+  "vcpe": "cpe:/:cloud_foundry",
+  "pid": "46869",
+  "pname": "BOSH System Metrics Server",
+  "pcpe": "cpe:/a:cloud_foundry:bosh_system_metrics_server"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "12203",
+  "vname": "Nextcloud",
+  "vcpe": "cpe:/:nextcloud",
+  "pid": "62652",
+  "pname": "password policy",
+  "pcpe": "cpe:/a:nextcloud:password_policy"
+}

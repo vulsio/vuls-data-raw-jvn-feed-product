@@ -1,0 +1,8 @@
+{
+  "vid": "1021",
+  "vname": "OpenStack",
+  "vcpe": "cpe:/:openstack",
+  "pid": "3697",
+  "pname": "OpenStack Compute Nova",
+  "pcpe": "cpe:/a:openstack:nova"
+}

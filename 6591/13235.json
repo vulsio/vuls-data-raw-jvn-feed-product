@@ -1,0 +1,8 @@
+{
+  "vid": "6591",
+  "vname": "PayPal",
+  "vcpe": "cpe:/:paypal",
+  "pid": "13235",
+  "pname": "merchant SDK",
+  "pcpe": "cpe:/a:paypal:merchant_sdk"
+}

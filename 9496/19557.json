@@ -1,0 +1,8 @@
+{
+  "vid": "9496",
+  "vname": "Linux Containers",
+  "vcpe": "cpe:/:linuxcontainers",
+  "pid": "19557",
+  "pname": "LXC",
+  "pcpe": "cpe:/a:linuxcontainers:lxc"
+}

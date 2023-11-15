@@ -1,0 +1,8 @@
+{
+  "vid": "216",
+  "vname": "Debian",
+  "vcpe": "cpe:/:debian",
+  "pid": "35147",
+  "pname": "devscripts",
+  "pcpe": "cpe:/a:debian:devscript"
+}

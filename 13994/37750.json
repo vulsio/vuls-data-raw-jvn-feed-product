@@ -1,0 +1,8 @@
+{
+  "vid": "13994",
+  "vname": "Yubico",
+  "vcpe": "cpe:/:yubico",
+  "pid": "37750",
+  "pname": "libu2f-host",
+  "pcpe": "cpe:/a:yubico:libu2f-host"
+}

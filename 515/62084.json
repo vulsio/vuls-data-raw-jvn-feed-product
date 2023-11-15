@@ -1,0 +1,8 @@
+{
+  "vid": "515",
+  "vname": "VMware",
+  "vcpe": "cpe:/:vmware",
+  "pid": "62084",
+  "pname": "Spring Data MongoDB",
+  "pcpe": "cpe:/a:vmware:spring_data_mongodb"
+}

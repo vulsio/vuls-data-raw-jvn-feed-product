@@ -1,0 +1,8 @@
+{
+  "vid": "8",
+  "vname": "Apache Software Foundation",
+  "vcpe": "cpe:/:apache",
+  "pid": "64378",
+  "pname": "apache-airflow-providers-amazon",
+  "pcpe": "cpe:/a:apache:apache-airflow-providers-amazon"
+}

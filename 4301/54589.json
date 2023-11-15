@@ -1,0 +1,8 @@
+{
+  "vid": "4301",
+  "vname": "Amazon.com, Inc.",
+  "vcpe": "cpe:/:amazon",
+  "pid": "54589",
+  "pname": "AWS IoT Device SDK v2",
+  "pcpe": "cpe:/a:amazon:amazon_web_services_internet_of_things_device_software_development_kit_v2"
+}

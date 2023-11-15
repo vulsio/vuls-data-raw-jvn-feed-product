@@ -1,0 +1,8 @@
+{
+  "vid": "103",
+  "vname": "NVIDIA",
+  "vcpe": "cpe:/:nvidia",
+  "pid": "27155",
+  "pname": "GeForce Experience",
+  "pcpe": "cpe:/a:nvidia:geforce_experience"
+}

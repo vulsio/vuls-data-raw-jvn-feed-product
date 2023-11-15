@@ -1,0 +1,8 @@
+{
+  "vid": "19185",
+  "vname": "AppImage",
+  "vcpe": "cpe:/:appimage",
+  "pid": "48414",
+  "pname": "libappimage",
+  "pcpe": "cpe:/a:appimage:libappimage"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "2",
+  "vname": "マイクロソフト",
+  "vcpe": "cpe:/:microsoft",
+  "pid": "35809",
+  "pname": "System.IO.Pipelines",
+  "pcpe": "cpe:/a:microsoft:system.io.pipelines"
+}

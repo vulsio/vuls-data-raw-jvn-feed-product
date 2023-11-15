@@ -1,0 +1,8 @@
+{
+  "vid": "1080",
+  "vname": "Adaptive Computing",
+  "vcpe": "cpe:/:adaptivecomputing",
+  "pid": "3688",
+  "pname": "TORQUE Resource Manager",
+  "pcpe": "cpe:/a:adaptivecomputing:torque_resource_manager"
+}

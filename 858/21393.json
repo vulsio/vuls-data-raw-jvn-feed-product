@@ -1,0 +1,8 @@
+{
+  "vid": "858",
+  "vname": "CloudBees",
+  "vcpe": "cpe:/:cloudbees",
+  "pid": "21393",
+  "pname": "Build Failure Analyzer",
+  "pcpe": "cpe:/a:cloudbees:build_failure_analyzer"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "2193",
+  "vname": "amavis",
+  "vcpe": "cpe:/:amavis",
+  "pid": "5761",
+  "pname": "virus scanner",
+  "pcpe": "cpe:/a:amavis:virus_scanner"
+}

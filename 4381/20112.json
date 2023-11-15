@@ -1,0 +1,8 @@
+{
+  "vid": "4381",
+  "vname": "Katello Project",
+  "vcpe": "cpe:/:katello",
+  "pid": "20112",
+  "pname": "Katello Installer",
+  "pcpe": "cpe:/a:katello:katello_installer"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "43214",
+  "pname": "BMC Release Package and Deployment",
+  "pcpe": "cpe:/a:jenkins:bmc_release_package_and_deployment"
+}

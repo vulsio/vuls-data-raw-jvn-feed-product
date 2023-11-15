@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "44645",
+  "pname": "AWS SAM",
+  "pcpe": "cpe:/a:jenkins:amazon_web_services_serverless_application_model"
+}

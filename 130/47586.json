@@ -1,0 +1,8 @@
+{
+  "vid": "130",
+  "vname": "インテル",
+  "vcpe": "cpe:/:intel",
+  "pid": "47586",
+  "pname": "Intel Trusted Execution Engine",
+  "pcpe": "cpe:/o:intel:trusted_execution_engine"
+}

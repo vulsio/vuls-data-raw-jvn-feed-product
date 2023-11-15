@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "55371",
+  "pname": "Bitbucket Branch Source",
+  "pcpe": "cpe:/a:jenkins:bitbucket_branch_source"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "138",
+  "vname": "D-Bus",
+  "vcpe": "cpe:/:d-bus_project",
+  "pid": "9636",
+  "pname": "libdbus",
+  "pcpe": "cpe:/a:d-bus_project:libdbus"
+}

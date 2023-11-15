@@ -1,0 +1,8 @@
+{
+  "vid": "1567",
+  "vname": "Lawrence Livermore National Laboratory (LLNL)",
+  "vcpe": "cpe:/:llnl",
+  "pid": "4566",
+  "pname": "Simple Linux Utility for Resource Management (SLURM)",
+  "pcpe": "cpe:/a:llnl:slurm"
+}

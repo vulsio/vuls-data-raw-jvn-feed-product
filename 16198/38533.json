@@ -1,0 +1,8 @@
+{
+  "vid": "16198",
+  "vname": "libseccomp project",
+  "vcpe": "cpe:/:libseccomp_project",
+  "pid": "38533",
+  "pname": "libseccomp-golang",
+  "pcpe": "cpe:/a:libseccomp_project:libseccomp-golang"
+}

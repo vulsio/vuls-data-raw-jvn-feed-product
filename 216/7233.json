@@ -1,0 +1,8 @@
+{
+  "vid": "216",
+  "vname": "Debian",
+  "vcpe": "cpe:/:debian",
+  "pid": "7233",
+  "pname": "honeyd common",
+  "pcpe": "cpe:/a:debian:honeyd_common"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "15969",
+  "vname": "Losant",
+  "vcpe": "cpe:/:losant",
+  "pid": "37301",
+  "pname": "Arduino MQTT Client",
+  "pcpe": "cpe:/a:losant:arduino_mqtt_client"
+}

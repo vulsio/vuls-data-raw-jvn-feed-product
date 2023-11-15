@@ -1,0 +1,8 @@
+{
+  "vid": "9273",
+  "vname": "SonarSource S.A",
+  "vcpe": "cpe:/:sonarsource",
+  "pid": "48793",
+  "pname": "SonarQube docker images",
+  "pcpe": "cpe:/a:sonarsource:sonarqube_docker_image"
+}

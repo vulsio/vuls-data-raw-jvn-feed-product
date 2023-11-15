@@ -1,0 +1,8 @@
+{
+  "vid": "697",
+  "vname": "Beckhoff Automation",
+  "vcpe": "cpe:/:beckhoff",
+  "pid": "48107",
+  "pname": "TwinCAT XAR",
+  "pcpe": "cpe:/a:beckhoff:twincat_extended_automation_runtime"
+}

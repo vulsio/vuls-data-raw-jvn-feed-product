@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "50158",
+  "pname": "Ansible Automation Platform",
+  "pcpe": "cpe:/a:redhat:ansible_automation_platform"
+}

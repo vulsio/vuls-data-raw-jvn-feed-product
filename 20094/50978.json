@@ -1,0 +1,8 @@
+{
+  "vid": "20094",
+  "vname": "Netlify",
+  "vcpe": "cpe:/:netlify",
+  "pid": "50978",
+  "pname": "kiali-operator",
+  "pcpe": "cpe:/a:netlify:kiali-operator"
+}

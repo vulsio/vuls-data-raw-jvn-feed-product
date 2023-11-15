@@ -1,0 +1,8 @@
+{
+  "vid": "10345",
+  "vname": "OSSEC",
+  "vcpe": "cpe:/:ossec",
+  "pid": "28874",
+  "pname": "OSSEC Web UI",
+  "pcpe": "cpe:/a:ossec:web_ui"
+}

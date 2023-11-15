@@ -1,0 +1,8 @@
+{
+  "vid": "18",
+  "vname": "IBM",
+  "vcpe": "cpe:/:ibm",
+  "pid": "44222",
+  "pname": "StrongLoop Nginx Controller",
+  "pcpe": "cpe:/a:ibm:strongloop_nginx_controller"
+}

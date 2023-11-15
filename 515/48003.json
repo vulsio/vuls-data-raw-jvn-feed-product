@@ -1,0 +1,8 @@
+{
+  "vid": "515",
+  "vname": "VMware",
+  "vcpe": "cpe:/:vmware",
+  "pid": "48003",
+  "pname": "Pivotal Scheduler",
+  "pcpe": "cpe:/a:vmware:pivotal_scheduler"
+}

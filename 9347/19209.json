@@ -1,0 +1,8 @@
+{
+  "vid": "9347",
+  "vname": "Linux NFS",
+  "vcpe": "cpe:/:linux-nfs",
+  "pid": "19209",
+  "pname": "nfs-utils",
+  "pcpe": "cpe:/a:linux-nfs:nfs-utils"
+}

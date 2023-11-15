@@ -1,0 +1,8 @@
+{
+  "vid": "4301",
+  "vname": "Amazon.com, Inc.",
+  "vcpe": "cpe:/:amazon",
+  "pid": "61440",
+  "pname": "aws-sdk-java",
+  "pcpe": "cpe:/a:amazon:aws-sdk-java"
+}

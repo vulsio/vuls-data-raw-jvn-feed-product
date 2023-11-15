@@ -1,0 +1,8 @@
+{
+  "vid": "10316",
+  "vname": "Greenplum",
+  "vcpe": "cpe:/:greenplum",
+  "pid": "32105",
+  "pname": "Spring Data REST",
+  "pcpe": "cpe:/a:greenplum:spring_data_rest"
+}

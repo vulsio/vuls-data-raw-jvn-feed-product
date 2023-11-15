@@ -1,0 +1,8 @@
+{
+  "vid": "9898",
+  "vname": "Elasticsearch",
+  "vcpe": "cpe:/:elasticsearch",
+  "pid": "35983",
+  "pname": "Kibana X-Pack",
+  "pcpe": "cpe:/a:elasticsearch:kibana_x-pack"
+}

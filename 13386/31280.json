@@ -1,0 +1,8 @@
+{
+  "vid": "13386",
+  "vname": "Redis Store",
+  "vcpe": "cpe:/:redis-store",
+  "pid": "31280",
+  "pname": "redis-store",
+  "pcpe": "cpe:/a:redis-store:redis-store"
+}

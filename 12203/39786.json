@@ -1,0 +1,8 @@
+{
+  "vid": "12203",
+  "vname": "Nextcloud",
+  "vcpe": "cpe:/:nextcloud",
+  "pid": "39786",
+  "pname": "Lookup-Server",
+  "pcpe": "cpe:/a:nextcloud:lookup-server"
+}

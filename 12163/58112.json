@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "58112",
+  "pname": "tests selector",
+  "pcpe": "cpe:/a:jenkins:tests_selector"
+}

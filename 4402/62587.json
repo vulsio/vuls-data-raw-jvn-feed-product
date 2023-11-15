@@ -1,0 +1,8 @@
+{
+  "vid": "4402",
+  "vname": "oVirt",
+  "vcpe": "cpe:/:ovirt",
+  "pid": "62587",
+  "pname": "log collector",
+  "pcpe": "cpe:/a:ovirt:log_collector"
+}

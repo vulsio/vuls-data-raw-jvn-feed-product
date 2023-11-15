@@ -1,0 +1,8 @@
+{
+  "vid": "22844",
+  "vname": "Open edX",
+  "vcpe": "cpe:/:openedx",
+  "pid": "58802",
+  "pname": "LTI Consumer Xblock",
+  "pcpe": "cpe:/a:openedx:xblock-lti-consumer"
+}

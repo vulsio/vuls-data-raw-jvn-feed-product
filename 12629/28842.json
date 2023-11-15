@@ -1,0 +1,8 @@
+{
+  "vid": "12629",
+  "vname": "Mock project",
+  "vcpe": "cpe:/:mock_project",
+  "pid": "28842",
+  "pname": "Scm",
+  "pcpe": "cpe:/a:mock_project:scm_plugin"
+}

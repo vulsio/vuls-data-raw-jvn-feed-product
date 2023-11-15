@@ -1,0 +1,8 @@
+{
+  "vid": "1134",
+  "vname": "KVM Group",
+  "vcpe": "cpe:/:kvm_group",
+  "pid": "3778",
+  "pname": "qemu-kvm",
+  "pcpe": "cpe:/a:kvm_group:qemu-kvm"
+}

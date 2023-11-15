@@ -1,0 +1,8 @@
+{
+  "vid": "130",
+  "vname": "インテル",
+  "vcpe": "cpe:/:intel",
+  "pid": "9604",
+  "pname": "SINIT ACM",
+  "pcpe": "cpe:/o:intel:sinit_authenticated_code_module"
+}

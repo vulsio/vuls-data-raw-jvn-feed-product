@@ -1,0 +1,8 @@
+{
+  "vid": "16646",
+  "vname": "Discourse",
+  "vcpe": "cpe:/:discourse",
+  "pid": "54896",
+  "pname": "MessageBus",
+  "pcpe": "cpe:/a:discourse:message_bus"
+}

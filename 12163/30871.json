@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "30871",
+  "pname": "Git Plugin",
+  "pcpe": "cpe:/a:jenkins:git"
+}

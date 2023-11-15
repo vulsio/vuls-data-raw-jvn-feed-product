@@ -1,0 +1,8 @@
+{
+  "vid": "17306",
+  "vname": "Open Source Geospatial Foundation",
+  "vcpe": "cpe:/:osgeo",
+  "pid": "52282",
+  "pname": "OWSLib",
+  "pcpe": "cpe:/a:osgeo:owslib"
+}

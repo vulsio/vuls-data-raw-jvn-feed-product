@@ -1,0 +1,8 @@
+{
+  "vid": "1021",
+  "vname": "OpenStack",
+  "vcpe": "cpe:/:openstack",
+  "pid": "13155",
+  "pname": "OpenStack Swift",
+  "pcpe": "cpe:/a:openstack:swift"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "12288",
+  "vname": "Cloud Foundry Foundation",
+  "vcpe": "cpe:/:cloud_foundry",
+  "pid": "28720",
+  "pname": "BOSH Azure CPI",
+  "pcpe": "cpe:/a:cloud_foundry:bosh_azure_cpi"
+}

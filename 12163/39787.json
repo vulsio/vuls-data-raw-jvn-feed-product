@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "39787",
+  "pname": "Gitlab Authentication",
+  "pcpe": "cpe:/a:jenkins:gitlab_oauth"
+}

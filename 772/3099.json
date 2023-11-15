@@ -1,0 +1,8 @@
+{
+  "vid": "772",
+  "vname": "OWASP",
+  "vcpe": "cpe:/:owasp",
+  "pid": "3099",
+  "pname": "OWASP HTML Sanitizer",
+  "pcpe": "cpe:/a:owasp:owasp-java-html-sanitizer"
+}

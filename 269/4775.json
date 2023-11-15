@@ -1,0 +1,8 @@
+{
+  "vid": "269",
+  "vname": "RSAセキュリティ",
+  "vcpe": "cpe:/:rsa",
+  "pid": "4775",
+  "pname": "authentication client",
+  "pcpe": "cpe:/a:rsa:authentication_client"
+}

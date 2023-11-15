@@ -1,0 +1,8 @@
+{
+  "vid": "12889",
+  "vname": "Alpine Linux Development Team",
+  "vcpe": "cpe:/:alpinelinux",
+  "pid": "39096",
+  "pname": "abuild",
+  "pcpe": "cpe:/a:alpinelinux:abuild"
+}

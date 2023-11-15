@@ -1,0 +1,8 @@
+{
+  "vid": "19668",
+  "vname": "Delete Account project",
+  "vcpe": "cpe:/:delete_account_project",
+  "pid": "49570",
+  "pname": "Delete Account",
+  "pcpe": "cpe:/a:delete_account_project:delete_account"
+}

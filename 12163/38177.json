@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "38177",
+  "pname": "AWS Elastic Beanstalk Publisher",
+  "pcpe": "cpe:/a:jenkins:aws_elastic_beanstalk_publisher"
+}

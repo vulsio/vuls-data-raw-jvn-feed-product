@@ -1,0 +1,8 @@
+{
+  "vid": "6591",
+  "vname": "PayPal",
+  "vcpe": "cpe:/:paypal",
+  "pid": "39413",
+  "pname": "Adaptive Payment Sdk",
+  "pcpe": "cpe:/a:paypal:adaptive_payments_sdk"
+}

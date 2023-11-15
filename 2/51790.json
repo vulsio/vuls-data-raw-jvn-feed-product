@@ -1,0 +1,8 @@
+{
+  "vid": "2",
+  "vname": "マイクロソフト",
+  "vcpe": "cpe:/:microsoft",
+  "pid": "51790",
+  "pname": "YARP",
+  "pcpe": "cpe:/a:microsoft:yet_another_reverse_proxy"
+}

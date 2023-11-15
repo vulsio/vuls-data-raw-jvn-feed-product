@@ -1,0 +1,8 @@
+{
+  "vid": "371",
+  "vname": "KAME プロジェクト",
+  "vcpe": "cpe:/:kame",
+  "pid": "1334",
+  "pname": "IPv6 スタック",
+  "pcpe": "cpe:/a:kame:ipcomp"
+}

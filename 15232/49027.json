@@ -1,0 +1,8 @@
+{
+  "vid": "15232",
+  "vname": "The Rust Programming Language",
+  "vcpe": "cpe:/:rust-lang",
+  "pid": "49027",
+  "pname": "futures-util",
+  "pcpe": "cpe:/a:rust-lang:future-utils"
+}

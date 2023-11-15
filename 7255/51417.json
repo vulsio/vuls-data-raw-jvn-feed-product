@@ -1,0 +1,8 @@
+{
+  "vid": "7255",
+  "vname": "Realtek Semiconductor Corp",
+  "vcpe": "cpe:/:realtek",
+  "pid": "51417",
+  "pname": "HDA Driver",
+  "pcpe": "cpe:/a:realtek:hda_driver"
+}

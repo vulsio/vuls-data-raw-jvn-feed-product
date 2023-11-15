@@ -1,0 +1,8 @@
+{
+  "vid": "8805",
+  "vname": "LemonLDAP::NG",
+  "vcpe": "cpe:/:lemonldap-ng",
+  "pid": "58460",
+  "pname": "Apache::Session::LDAP",
+  "pcpe": "cpe:/a:lemonldap-ng:apache%3a%3asession%3a%3aldap"
+}

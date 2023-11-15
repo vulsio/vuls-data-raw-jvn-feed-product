@@ -1,0 +1,8 @@
+{
+  "vid": "2",
+  "vname": "マイクロソフト",
+  "vcpe": "cpe:/:microsoft",
+  "pid": "53700",
+  "pname": "Azure ARC",
+  "pcpe": "cpe:/a:microsoft:azure_arc"
+}

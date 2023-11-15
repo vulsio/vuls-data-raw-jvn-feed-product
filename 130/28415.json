@@ -1,0 +1,8 @@
+{
+  "vid": "130",
+  "vname": "インテル",
+  "vcpe": "cpe:/:intel",
+  "pid": "28415",
+  "pname": "Intel MPI Library",
+  "pcpe": "cpe:/a:intel:mpi_library"
+}

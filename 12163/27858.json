@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "27858",
+  "pname": "Build Failure Analyzer",
+  "pcpe": "cpe:/a:jenkins:build_failure_analyzer"
+}

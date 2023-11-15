@@ -1,0 +1,8 @@
+{
+  "vid": "18",
+  "vname": "IBM",
+  "vcpe": "cpe:/:ibm",
+  "pid": "50768",
+  "pname": "IBM Power9 Self Boot Engine ファームウェア",
+  "pcpe": "cpe:/o:ibm:power9_system_firmware"
+}

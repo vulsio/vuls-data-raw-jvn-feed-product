@@ -1,0 +1,8 @@
+{
+  "vid": "8",
+  "vname": "Apache Software Foundation",
+  "vcpe": "cpe:/:apache",
+  "pid": "62162",
+  "pname": "apache-airflow-providers-docker",
+  "pcpe": "cpe:/a:apache:apache-airflow-providers-docker"
+}

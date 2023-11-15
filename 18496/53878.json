@@ -1,0 +1,8 @@
+{
+  "vid": "18496",
+  "vname": "JupyterHub",
+  "vcpe": "cpe:/:jupyterhub",
+  "pid": "53878",
+  "pname": "FirstUseAuthenticator",
+  "pcpe": "cpe:/a:jupyterhub:first_use_authenticator"
+}

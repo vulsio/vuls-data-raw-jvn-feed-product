@@ -1,0 +1,8 @@
+{
+  "vid": "8",
+  "vname": "Apache Software Foundation",
+  "vcpe": "cpe:/:apache",
+  "pid": "23724",
+  "pname": "mod_gnutls",
+  "pcpe": "cpe:/a:apache:mod-gnutls"
+}

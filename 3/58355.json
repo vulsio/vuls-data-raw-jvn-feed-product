@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "58355",
+  "pname": "openshift machine-config-operator",
+  "pcpe": "cpe:/a:redhat:openshift_machine-config-operator"
+}

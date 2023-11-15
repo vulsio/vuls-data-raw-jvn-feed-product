@@ -1,0 +1,8 @@
+{
+  "vid": "12365",
+  "vname": "Gradle Inc.",
+  "vcpe": "cpe:/:gradle",
+  "pid": "48439",
+  "pname": "Test distribution agent",
+  "pcpe": "cpe:/a:gradle:enterprise_test_distribution_agent"
+}

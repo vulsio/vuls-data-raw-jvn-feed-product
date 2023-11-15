@@ -1,0 +1,8 @@
+{
+  "vid": "8941",
+  "vname": "MatrikonOPC",
+  "vcpe": "cpe:/:matrikonopc",
+  "pid": "52049",
+  "pname": "OPCサーバ",
+  "pcpe": "cpe:/a:matrikonopc:opc_server"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "630",
+  "vname": "SCADA Engine",
+  "vcpe": "cpe:/:scadaengine",
+  "pid": "2686",
+  "pname": "BACnet OPC Client",
+  "pcpe": "cpe:/a:scadaengine:bacnet_opc_client"
+}

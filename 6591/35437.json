@@ -1,0 +1,8 @@
+{
+  "vid": "6591",
+  "vname": "PayPal",
+  "vcpe": "cpe:/:paypal",
+  "pid": "35437",
+  "pname": "PHP Permissions SDK",
+  "pcpe": "cpe:/a:paypal:php_permissions_sdk"
+}

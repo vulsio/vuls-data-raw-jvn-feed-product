@@ -1,0 +1,8 @@
+{
+  "vid": "12288",
+  "vname": "Cloud Foundry Foundation",
+  "vcpe": "cpe:/:cloud_foundry",
+  "pid": "29464",
+  "pname": "cf-mysql-release",
+  "pcpe": "cpe:/a:cloud_foundry:cf-mysql-release"
+}

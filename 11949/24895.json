@@ -1,0 +1,8 @@
+{
+  "vid": "11949",
+  "vname": "OpenVZ",
+  "vcpe": "cpe:/:openvz",
+  "pid": "24895",
+  "pname": "vzctl",
+  "pcpe": "cpe:/a:openvz:vzctl"
+}

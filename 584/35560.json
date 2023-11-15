@@ -1,0 +1,8 @@
+{
+  "vid": "584",
+  "vname": "シーメンス",
+  "vcpe": "cpe:/:siemens",
+  "pid": "35560",
+  "pname": "Modbus TCP ファームウェア",
+  "pcpe": "cpe:/o:siemens:modbus_tcp_firmware"
+}

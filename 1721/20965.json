@@ -1,0 +1,8 @@
+{
+  "vid": "1721",
+  "vname": "SolarWinds",
+  "vcpe": "cpe:/:solarwinds",
+  "pid": "20965",
+  "pname": "Log & Event Manager",
+  "pcpe": "cpe:/a:solarwinds:log_and_event_manager"
+}

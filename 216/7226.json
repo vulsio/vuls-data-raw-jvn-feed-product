@@ -1,0 +1,8 @@
+{
+  "vid": "216",
+  "vname": "Debian",
+  "vcpe": "cpe:/:debian",
+  "pid": "7226",
+  "pname": "apt-listchanges",
+  "pcpe": "cpe:/a:debian:apt-listchanges"
+}

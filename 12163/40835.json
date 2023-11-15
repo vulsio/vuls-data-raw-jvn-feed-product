@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "40835",
+  "pname": "Kubernetes Pipeline",
+  "pcpe": "cpe:/a:jenkins:kubernetes_pipeline"
+}

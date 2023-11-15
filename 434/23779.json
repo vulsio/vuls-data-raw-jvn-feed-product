@@ -1,0 +1,8 @@
+{
+  "vid": "434",
+  "vname": "DELL EMC (旧 EMC Corporation)",
+  "vcpe": "cpe:/:emc",
+  "pid": "23779",
+  "pname": "EMC Isilon OneFS",
+  "pcpe": "cpe:/o:emc:isilon_onefs"
+}

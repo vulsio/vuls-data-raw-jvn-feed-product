@@ -1,0 +1,8 @@
+{
+  "vid": "25",
+  "vname": "SSH コミュニケーションズ・セキュリティ",
+  "vcpe": "cpe:/:ssh",
+  "pid": "1738",
+  "pname": "SSH Tectia ConnectSecure",
+  "pcpe": "cpe:/a:ssh:tectia_connectsecure"
+}

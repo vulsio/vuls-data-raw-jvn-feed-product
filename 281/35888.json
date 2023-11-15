@@ -1,0 +1,8 @@
+{
+  "vid": "281",
+  "vname": "Canonical",
+  "vcpe": "cpe:/:canonical",
+  "pid": "35888",
+  "pname": "cloud-init",
+  "pcpe": "cpe:/a:canonical:cloud-init"
+}

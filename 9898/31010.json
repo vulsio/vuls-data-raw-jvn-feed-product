@@ -1,0 +1,8 @@
+{
+  "vid": "9898",
+  "vname": "Elasticsearch",
+  "vcpe": "cpe:/:elasticsearch",
+  "pid": "31010",
+  "pname": "Packetbeat",
+  "pcpe": "cpe:/a:elasticsearch:packetbeat"
+}

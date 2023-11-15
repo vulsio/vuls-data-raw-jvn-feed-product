@@ -1,0 +1,8 @@
+{
+  "vid": "12288",
+  "vname": "Cloud Foundry Foundation",
+  "vcpe": "cpe:/:cloud_foundry",
+  "pid": "29336",
+  "pname": "Login-server",
+  "pcpe": "cpe:/a:cloud_foundry:login-server"
+}

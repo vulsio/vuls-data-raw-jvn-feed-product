@@ -1,0 +1,8 @@
+{
+  "vid": "2198",
+  "vname": "Advanced Micro Devices (AMD)",
+  "vcpe": "cpe:/:amd",
+  "pid": "54830",
+  "pname": "AMD Generic Encapsulated Software Architecture (AGESA)",
+  "pcpe": "cpe:/o:amd:amd_generic_encapsulated_software_architecture"
+}

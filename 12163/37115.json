@@ -1,0 +1,8 @@
+{
+  "vid": "12163",
+  "vname": "Jenkins プロジェクト",
+  "vcpe": "cpe:/:jenkins",
+  "pid": "37115",
+  "pname": "Git Changelog",
+  "pcpe": "cpe:/a:jenkins:git_changelog"
+}

@@ -1,0 +1,8 @@
+{
+  "vid": "12288",
+  "vname": "Cloud Foundry Foundation",
+  "vcpe": "cpe:/:cloud_foundry",
+  "pid": "38499",
+  "pname": "CredHub",
+  "pcpe": "cpe:/a:cloud_foundry:credhub"
+}

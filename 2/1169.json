@@ -1,0 +1,8 @@
+{
+  "vid": "2",
+  "vname": "マイクロソフト",
+  "vcpe": "cpe:/:microsoft",
+  "pid": "1169",
+  "pname": "UNIX ベースアプリケーション用サブシステム",
+  "pcpe": "cpe:/a:microsoft:subsystem_for_unix-based_applications"
+}

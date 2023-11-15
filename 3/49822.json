@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "49822",
+  "pname": "libnbd",
+  "pcpe": "cpe:/a:redhat:libnbd"
+}

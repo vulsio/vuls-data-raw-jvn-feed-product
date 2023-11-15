@@ -1,0 +1,8 @@
+{
+  "vid": "3",
+  "vname": "レッドハット",
+  "vcpe": "cpe:/:redhat",
+  "pid": "29549",
+  "pname": "KVM Windows virtio ドライバ",
+  "pcpe": "cpe:/a:redhat:virtio-win"
+}

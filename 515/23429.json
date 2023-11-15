@@ -1,0 +1,8 @@
+{
+  "vid": "515",
+  "vname": "VMware",
+  "vcpe": "cpe:/:vmware",
+  "pid": "23429",
+  "pname": "VMware vSphere Data Protection",
+  "pcpe": "cpe:/a:vmware:vsphere_data_protection"
+}

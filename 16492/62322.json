@@ -1,0 +1,8 @@
+{
+  "vid": "16492",
+  "vname": "miniOrange",
+  "vcpe": "cpe:/:miniorange",
+  "pid": "62322",
+  "pname": "Limit Login Attempts",
+  "pcpe": "cpe:/a:miniorange:limit_login_attempts"
+}

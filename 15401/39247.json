@@ -1,0 +1,8 @@
+{
+  "vid": "15401",
+  "vname": "Couchbase, Inc.",
+  "vcpe": "cpe:/:couchbase",
+  "pid": "39247",
+  "pname": "Sync Gateway",
+  "pcpe": "cpe:/a:couchbase:sync_gateway"
+}

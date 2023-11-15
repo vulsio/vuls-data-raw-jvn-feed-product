@@ -1,0 +1,8 @@
+{
+  "vid": "24094",
+  "vname": "crowdstrike",
+  "vcpe": "cpe:/:crowdstrike",
+  "pid": "62315",
+  "pname": "falcon",
+  "pcpe": "cpe:/a:crowdstrike:falcon"
+}
