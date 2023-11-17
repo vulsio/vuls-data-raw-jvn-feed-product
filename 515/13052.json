@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "13052",
-  "pname": "SpringSource Grails",
-  "pcpe": "cpe:/a:vmware:springsource_grails"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "13052",
+	"pname": "SpringSource Grails",
+	"pcpe": "cpe:/a:vmware:springsource_grails"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22805",
-  "vname": "carrier",
-  "vcpe": "cpe:/:carrier",
-  "pid": "60392",
-  "pname": "lenels2 s2-lp-4502 ファームウェア",
-  "pcpe": "cpe:/o:carrier:lenels2_s2-lp-4502_firmware"
+	"vid": "22805",
+	"vname": "carrier",
+	"vcpe": "cpe:/:carrier",
+	"pid": "60392",
+	"pname": "lenels2 s2-lp-4502 ファームウェア",
+	"pcpe": "cpe:/o:carrier:lenels2_s2-lp-4502_firmware"
 }

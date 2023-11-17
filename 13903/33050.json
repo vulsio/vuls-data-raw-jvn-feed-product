@@ -1,8 +1,8 @@
 {
-  "vid": "13903",
-  "vname": "Creditwest Bank",
-  "vcpe": "cpe:/:creditwestbank",
-  "pid": "33050",
-  "pname": "CWCMS",
-  "pcpe": "cpe:/a:creditwestbank:cwcms"
+	"vid": "13903",
+	"vname": "Creditwest Bank",
+	"vcpe": "cpe:/:creditwestbank",
+	"pid": "33050",
+	"pname": "CWCMS",
+	"pcpe": "cpe:/a:creditwestbank:cwcms"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "33514",
-  "pname": "IntelliVue MX40 ファームウェア",
-  "pcpe": "cpe:/o:philips:intellivue_mx40_firmware"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "33514",
+	"pname": "IntelliVue MX40 ファームウェア",
+	"pcpe": "cpe:/o:philips:intellivue_mx40_firmware"
 }

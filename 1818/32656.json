@@ -1,8 +1,8 @@
 {
-  "vid": "1818",
-  "vname": "Cloudera, Inc.",
-  "vcpe": "cpe:/:cloudera",
-  "pid": "32656",
-  "pname": "Cloudera Data Science Workbench",
-  "pcpe": "cpe:/a:cloudera:data_science_workbench"
+	"vid": "1818",
+	"vname": "Cloudera, Inc.",
+	"vcpe": "cpe:/:cloudera",
+	"pid": "32656",
+	"pname": "Cloudera Data Science Workbench",
+	"pcpe": "cpe:/a:cloudera:data_science_workbench"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17821",
-  "vname": "ZAVIO Inc.",
-  "vcpe": "cpe:/:zavio",
-  "pid": "42947",
-  "pname": "F3105 ファームウェア",
-  "pcpe": "cpe:/o:zavio:f3105_firmware"
+	"vid": "17821",
+	"vname": "ZAVIO Inc.",
+	"vcpe": "cpe:/:zavio",
+	"pid": "42947",
+	"pname": "F3105 ファームウェア",
+	"pcpe": "cpe:/o:zavio:f3105_firmware"
 }

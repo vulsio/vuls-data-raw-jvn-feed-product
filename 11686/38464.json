@@ -1,8 +1,8 @@
 {
-  "vid": "11686",
-  "vname": "InFocus Corporation",
-  "vcpe": "cpe:/:infocus",
-  "pid": "38464",
-  "pname": "LiteShow3 ファームウェア",
-  "pcpe": "cpe:/o:infocus:liteshow3_firmware"
+	"vid": "11686",
+	"vname": "InFocus Corporation",
+	"vcpe": "cpe:/:infocus",
+	"pid": "38464",
+	"pname": "LiteShow3 ファームウェア",
+	"pcpe": "cpe:/o:infocus:liteshow3_firmware"
 }

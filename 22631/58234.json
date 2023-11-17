@@ -1,8 +1,8 @@
 {
-  "vid": "22631",
-  "vname": "Sync QCloud COS project",
-  "vcpe": "cpe:/:sync_qcloud_cos_project",
-  "pid": "58234",
-  "pname": "Sync QCloud COS",
-  "pcpe": "cpe:/a:sync_qcloud_cos_project:sync_qcloud_cos"
+	"vid": "22631",
+	"vname": "Sync QCloud COS project",
+	"vcpe": "cpe:/:sync_qcloud_cos_project",
+	"pid": "58234",
+	"pname": "Sync QCloud COS",
+	"pcpe": "cpe:/a:sync_qcloud_cos_project:sync_qcloud_cos"
 }

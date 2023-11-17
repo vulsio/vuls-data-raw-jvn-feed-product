@@ -1,8 +1,8 @@
 {
-  "vid": "23634",
-  "vname": "scorelab",
-  "vcpe": "cpe:/:scorelab",
-  "pid": "61247",
-  "pname": "openmf",
-  "pcpe": "cpe:/a:scorelab:openmf"
+	"vid": "23634",
+	"vname": "scorelab",
+	"vcpe": "cpe:/:scorelab",
+	"pid": "61247",
+	"pname": "openmf",
+	"pcpe": "cpe:/a:scorelab:openmf"
 }

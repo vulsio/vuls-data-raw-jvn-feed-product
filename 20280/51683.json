@@ -1,8 +1,8 @@
 {
-  "vid": "20280",
-  "vname": "Comelit",
-  "vcpe": "cpe:/:comelitgroup",
-  "pid": "51683",
-  "pname": "App lejos de casa",
-  "pcpe": "cpe:/a:comelitgroup:away_from_home"
+	"vid": "20280",
+	"vname": "Comelit",
+	"vcpe": "cpe:/:comelitgroup",
+	"pid": "51683",
+	"pname": "App lejos de casa",
+	"pcpe": "cpe:/a:comelitgroup:away_from_home"
 }

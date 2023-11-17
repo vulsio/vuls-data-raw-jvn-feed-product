@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "44378",
-  "pname": "PeopleSoft Enterprise HCM Absence Management",
-  "pcpe": "cpe:/a:oracle:peoplesoft_enterprise_human_capital_management_absence_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "44378",
+	"pname": "PeopleSoft Enterprise HCM Absence Management",
+	"pcpe": "cpe:/a:oracle:peoplesoft_enterprise_human_capital_management_absence_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20060",
-  "vname": "VoIPmonitor",
-  "vcpe": "cpe:/:voipmonitor",
-  "pid": "50888",
-  "pname": "VoIPmonitor",
-  "pcpe": "cpe:/a:voipmonitor:voipmonitor"
+	"vid": "20060",
+	"vname": "VoIPmonitor",
+	"vcpe": "cpe:/:voipmonitor",
+	"pid": "50888",
+	"pname": "VoIPmonitor",
+	"pcpe": "cpe:/a:voipmonitor:voipmonitor"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "681",
-  "vname": "ASUSTeK Computer Inc.",
-  "vcpe": "cpe:/:asus",
-  "pid": "33419",
-  "pname": "RT-AC58U ファームウェア",
-  "pcpe": "cpe:/o:asus:rt-ac58u_firmware"
+	"vid": "681",
+	"vname": "ASUSTeK Computer Inc.",
+	"vcpe": "cpe:/:asus",
+	"pid": "33419",
+	"pname": "RT-AC58U ファームウェア",
+	"pcpe": "cpe:/o:asus:rt-ac58u_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "62177",
-  "pname": "scalance xb205-3ld ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_xb205-3ld_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "62177",
+	"pname": "scalance xb205-3ld ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_xb205-3ld_firmware"
 }

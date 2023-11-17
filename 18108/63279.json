@@ -1,8 +1,8 @@
 {
-  "vid": "18108",
-  "vname": "PyUp",
-  "vcpe": "cpe:/:pyup",
-  "pid": "63279",
-  "pname": "dependency parser",
-  "pcpe": "cpe:/a:pyup:dependency_parser"
+	"vid": "18108",
+	"vname": "PyUp",
+	"vcpe": "cpe:/:pyup",
+	"pid": "63279",
+	"pname": "dependency parser",
+	"pcpe": "cpe:/a:pyup:dependency_parser"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13893",
-  "vname": "KeepSolid Inc.",
-  "vcpe": "cpe:/:keepsolid",
-  "pid": "33014",
-  "pname": "VPN Unlimited",
-  "pcpe": "cpe:/a:keepsolid:vpn_unlimited"
+	"vid": "13893",
+	"vname": "KeepSolid Inc.",
+	"vcpe": "cpe:/:keepsolid",
+	"pid": "33014",
+	"pname": "VPN Unlimited",
+	"pcpe": "cpe:/a:keepsolid:vpn_unlimited"
 }

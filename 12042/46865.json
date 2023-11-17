@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "46865",
-  "pname": "Universal API Framework",
-  "pcpe": "cpe:/a:hp:universal_api_framework"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "46865",
+	"pname": "Universal API Framework",
+	"pcpe": "cpe:/a:hp:universal_api_framework"
 }

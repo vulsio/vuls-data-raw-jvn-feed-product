@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "50726",
-  "pname": "IBM 8335-GTA ファームウェア",
-  "pcpe": "cpe:/o:ibm:8335-gta_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "50726",
+	"pname": "IBM 8335-GTA ファームウェア",
+	"pcpe": "cpe:/o:ibm:8335-gta_firmware"
 }

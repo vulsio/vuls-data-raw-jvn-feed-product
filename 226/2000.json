@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "2000",
-  "pname": "Identity Manager Roles Based Provisioning Module",
-  "pcpe": "cpe:/a:novell:identity_manager_roles_based_provisioning_module"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "2000",
+	"pname": "Identity Manager Roles Based Provisioning Module",
+	"pcpe": "cpe:/a:novell:identity_manager_roles_based_provisioning_module"
 }

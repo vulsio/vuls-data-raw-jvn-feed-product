@@ -1,8 +1,8 @@
 {
-  "vid": "22794",
-  "vname": "http-swagger project",
-  "vcpe": "cpe:/:http-swagger_project",
-  "pid": "58671",
-  "pname": "http-swagger",
-  "pcpe": "cpe:/a:http-swagger_project:http-swagger"
+	"vid": "22794",
+	"vname": "http-swagger project",
+	"vcpe": "cpe:/:http-swagger_project",
+	"pid": "58671",
+	"pname": "http-swagger",
+	"pcpe": "cpe:/a:http-swagger_project:http-swagger"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "43959",
-  "pname": "FortiBalancer 2000 ファームウェア",
-  "pcpe": "cpe:/o:fortinet:fortibalancer_2000_firmware"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "43959",
+	"pname": "FortiBalancer 2000 ファームウェア",
+	"pcpe": "cpe:/o:fortinet:fortibalancer_2000_firmware"
 }

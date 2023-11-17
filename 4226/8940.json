@@ -1,8 +1,8 @@
 {
-  "vid": "4226",
-  "vname": "AlexisWilke",
-  "vcpe": "cpe:/:alexis_wilke",
-  "pid": "8940",
-  "pname": "Protected node",
-  "pcpe": "cpe:/a:alexis_wilke:protected_node"
+	"vid": "4226",
+	"vname": "AlexisWilke",
+	"vcpe": "cpe:/:alexis_wilke",
+	"pid": "8940",
+	"pname": "Protected node",
+	"pcpe": "cpe:/a:alexis_wilke:protected_node"
 }

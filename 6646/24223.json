@@ -1,8 +1,8 @@
 {
-  "vid": "6646",
-  "vname": "Sinapsi",
-  "vcpe": "cpe:/:sinapsi",
-  "pid": "24223",
-  "pname": "eSolar Light ファームウェア",
-  "pcpe": "cpe:/o:sinapsi:esolar_light_firmware"
+	"vid": "6646",
+	"vname": "Sinapsi",
+	"vcpe": "cpe:/:sinapsi",
+	"pid": "24223",
+	"pname": "eSolar Light ファームウェア",
+	"pcpe": "cpe:/o:sinapsi:esolar_light_firmware"
 }

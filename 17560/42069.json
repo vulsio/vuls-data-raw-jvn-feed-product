@@ -1,8 +1,8 @@
 {
-  "vid": "17560",
-  "vname": "SCEditor",
-  "vcpe": "cpe:/:sceditor",
-  "pid": "42069",
-  "pname": "SCEditor",
-  "pcpe": "cpe:/a:sceditor:sceditor"
+	"vid": "17560",
+	"vname": "SCEditor",
+	"vcpe": "cpe:/:sceditor",
+	"pid": "42069",
+	"pname": "SCEditor",
+	"pcpe": "cpe:/a:sceditor:sceditor"
 }

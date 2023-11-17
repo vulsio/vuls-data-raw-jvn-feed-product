@@ -1,8 +1,8 @@
 {
-  "vid": "18504",
-  "vname": "MITメディアラボ",
-  "vcpe": "cpe:/:mit_media_lab",
-  "pid": "45657",
-  "pname": "scratch-vm",
-  "pcpe": "cpe:/a:mit_media_lab:scratch-vm"
+	"vid": "18504",
+	"vname": "MITメディアラボ",
+	"vcpe": "cpe:/:mit_media_lab",
+	"pid": "45657",
+	"pname": "scratch-vm",
+	"pcpe": "cpe:/a:mit_media_lab:scratch-vm"
 }

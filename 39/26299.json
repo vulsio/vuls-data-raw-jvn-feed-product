@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "26299",
-  "pname": "Adobe DNG Software Development Kit (SDK)",
-  "pcpe": "cpe:/a:adobe:dng_software_development_kit"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "26299",
+	"pname": "Adobe DNG Software Development Kit (SDK)",
+	"pcpe": "cpe:/a:adobe:dng_software_development_kit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "30854",
-  "pname": "Oracle Web Applications Desktop Integrator",
-  "pcpe": "cpe:/a:oracle:web_applications_desktop_integrator"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "30854",
+	"pname": "Oracle Web Applications Desktop Integrator",
+	"pcpe": "cpe:/a:oracle:web_applications_desktop_integrator"
 }

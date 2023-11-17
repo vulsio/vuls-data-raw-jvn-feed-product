@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "45469",
-  "pname": "GX Works3",
-  "pcpe": "cpe:/a:mitsubishielectric:gx_works3"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "45469",
+	"pname": "GX Works3",
+	"pcpe": "cpe:/a:mitsubishielectric:gx_works3"
 }

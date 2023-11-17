@@ -1,8 +1,8 @@
 {
-  "vid": "822",
-  "vname": "Vtiger",
-  "vcpe": "cpe:/:vtiger",
-  "pid": "3244",
-  "pname": "Vtiger CRM",
-  "pcpe": "cpe:/a:vtiger:vtiger_crm"
+	"vid": "822",
+	"vname": "Vtiger",
+	"vcpe": "cpe:/:vtiger",
+	"pid": "3244",
+	"pname": "Vtiger CRM",
+	"pcpe": "cpe:/a:vtiger:vtiger_crm"
 }

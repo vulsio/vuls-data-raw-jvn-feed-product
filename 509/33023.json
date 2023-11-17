@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "33023",
-  "pname": "SAP Business Client",
-  "pcpe": "cpe:/a:sap:business_client"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "33023",
+	"pname": "SAP Business Client",
+	"pcpe": "cpe:/a:sap:business_client"
 }

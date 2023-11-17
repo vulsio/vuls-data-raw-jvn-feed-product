@@ -1,8 +1,8 @@
 {
-  "vid": "22050",
-  "vname": "Illumina, Inc.",
-  "vcpe": "cpe:/:illumina",
-  "pid": "56590",
-  "pname": "MiSeq ファームウェア",
-  "pcpe": "cpe:/o:illumina:miseq_firmware"
+	"vid": "22050",
+	"vname": "Illumina, Inc.",
+	"vcpe": "cpe:/:illumina",
+	"pid": "56590",
+	"pname": "MiSeq ファームウェア",
+	"pcpe": "cpe:/o:illumina:miseq_firmware"
 }

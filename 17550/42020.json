@@ -1,8 +1,8 @@
 {
-  "vid": "17550",
-  "vname": "Eracent",
-  "vcpe": "cpe:/:eracent",
-  "pid": "42020",
-  "pname": "EUA Agent",
-  "pcpe": "cpe:/a:eracent:eua_agent"
+	"vid": "17550",
+	"vname": "Eracent",
+	"vcpe": "cpe:/:eracent",
+	"pid": "42020",
+	"pname": "EUA Agent",
+	"pcpe": "cpe:/a:eracent:eua_agent"
 }

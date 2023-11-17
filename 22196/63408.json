@@ -1,8 +1,8 @@
 {
-  "vid": "22196",
-  "vname": "Acnam Infotech",
-  "vcpe": "cpe:/:acnam",
-  "pid": "63408",
-  "pname": "wp server health stats",
-  "pcpe": "cpe:/a:acnam:wp_server_health_stats"
+	"vid": "22196",
+	"vname": "Acnam Infotech",
+	"vcpe": "cpe:/:acnam",
+	"pid": "63408",
+	"pname": "wp server health stats",
+	"pcpe": "cpe:/a:acnam:wp_server_health_stats"
 }

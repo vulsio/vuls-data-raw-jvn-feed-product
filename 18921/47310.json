@@ -1,8 +1,8 @@
 {
-  "vid": "18921",
-  "vname": "BTCPay Server",
-  "vcpe": "cpe:/:btcpayserver",
-  "pid": "47310",
-  "pname": "BTCPay Server",
-  "pcpe": "cpe:/a:btcpayserver:btcpay_server"
+	"vid": "18921",
+	"vname": "BTCPay Server",
+	"vcpe": "cpe:/:btcpayserver",
+	"pid": "47310",
+	"pname": "BTCPay Server",
+	"pcpe": "cpe:/a:btcpayserver:btcpay_server"
 }

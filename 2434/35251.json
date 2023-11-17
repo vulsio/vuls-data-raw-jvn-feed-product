@@ -1,8 +1,8 @@
 {
-  "vid": "2434",
-  "vname": "Baidu, Inc.",
-  "vcpe": "cpe:/:baidu",
-  "pid": "35251",
-  "pname": "Baidu Browser",
-  "pcpe": "cpe:/a:baidu:baidu_browser"
+	"vid": "2434",
+	"vname": "Baidu, Inc.",
+	"vcpe": "cpe:/:baidu",
+	"pid": "35251",
+	"pname": "Baidu Browser",
+	"pcpe": "cpe:/a:baidu:baidu_browser"
 }

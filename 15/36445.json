@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "36445",
-  "pname": "Oracle Web Cache",
-  "pcpe": "cpe:/a:oracle:web_cache"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "36445",
+	"pname": "Oracle Web Cache",
+	"pcpe": "cpe:/a:oracle:web_cache"
 }

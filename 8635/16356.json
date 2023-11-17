@@ -1,8 +1,8 @@
 {
-  "vid": "8635",
-  "vname": "XMB Forum Software",
-  "vcpe": "cpe:/:xmb_forum",
-  "pid": "16356",
-  "pname": "XMB",
-  "pcpe": "cpe:/a:xmb_forum:xmb"
+	"vid": "8635",
+	"vname": "XMB Forum Software",
+	"vcpe": "cpe:/:xmb_forum",
+	"pid": "16356",
+	"pname": "XMB",
+	"pcpe": "cpe:/a:xmb_forum:xmb"
 }

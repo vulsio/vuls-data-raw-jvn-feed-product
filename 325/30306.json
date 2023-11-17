@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30306",
-  "pname": "YANGTIAN Mc H81 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:yangtian_mc_h81_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30306",
+	"pname": "YANGTIAN Mc H81 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:yangtian_mc_h81_firmware"
 }

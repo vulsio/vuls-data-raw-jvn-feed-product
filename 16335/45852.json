@@ -1,8 +1,8 @@
 {
-  "vid": "16335",
-  "vname": "HiSilicon Technology Co., Ltd",
-  "vcpe": "cpe:/:hisilicon",
-  "pid": "45852",
-  "pname": "(複数の製品)",
-  "pcpe": "cpe:/a:hisilicon:multiple_product"
+	"vid": "16335",
+	"vname": "HiSilicon Technology Co., Ltd",
+	"vcpe": "cpe:/:hisilicon",
+	"pid": "45852",
+	"pname": "(複数の製品)",
+	"pcpe": "cpe:/a:hisilicon:multiple_product"
 }

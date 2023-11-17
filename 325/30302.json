@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30302",
-  "pname": "YANGTIAN AfQ150 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:yangtian_afq150_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30302",
+	"pname": "YANGTIAN AfQ150 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:yangtian_afq150_firmware"
 }

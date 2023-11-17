@@ -1,8 +1,8 @@
 {
-  "vid": "19725",
-  "vname": "spnego-http-auth-nginx-module project",
-  "vcpe": "cpe:/:spnego_http_authentication_module_project",
-  "pid": "49731",
-  "pname": "spnego-http-auth-nginx-module",
-  "pcpe": "cpe:/a:spnego_http_authentication_module_project:spnego_http_authentication_module"
+	"vid": "19725",
+	"vname": "spnego-http-auth-nginx-module project",
+	"vcpe": "cpe:/:spnego_http_authentication_module_project",
+	"pid": "49731",
+	"pname": "spnego-http-auth-nginx-module",
+	"pcpe": "cpe:/a:spnego_http_authentication_module_project:spnego_http_authentication_module"
 }

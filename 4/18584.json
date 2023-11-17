@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18584",
-  "pname": "HP Intelligent Management Center Branch Intelligent Management System ソフトウェア",
-  "pcpe": "cpe:/a:hp:imc_branch_intelligent_management_system_software_module"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18584",
+	"pname": "HP Intelligent Management Center Branch Intelligent Management System ソフトウェア",
+	"pcpe": "cpe:/a:hp:imc_branch_intelligent_management_system_software_module"
 }

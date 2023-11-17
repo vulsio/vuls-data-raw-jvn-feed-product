@@ -1,8 +1,8 @@
 {
-  "vid": "10574",
-  "vname": "game-insight",
-  "vcpe": "cpe:/:game-insight",
-  "pid": "22076",
-  "pname": "my railway",
-  "pcpe": "cpe:/a:game-insight:my_railway"
+	"vid": "10574",
+	"vname": "game-insight",
+	"vcpe": "cpe:/:game-insight",
+	"pid": "22076",
+	"pname": "my railway",
+	"pcpe": "cpe:/a:game-insight:my_railway"
 }

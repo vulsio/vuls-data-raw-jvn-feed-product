@@ -1,8 +1,8 @@
 {
-  "vid": "12845",
-  "vname": "The LineageOS Project",
-  "vcpe": "cpe:/:lineageos",
-  "pid": "29601",
-  "pname": "LineageOS",
-  "pcpe": "cpe:/o:lineageos:lineageos"
+	"vid": "12845",
+	"vname": "The LineageOS Project",
+	"vcpe": "cpe:/:lineageos",
+	"pid": "29601",
+	"pname": "LineageOS",
+	"pcpe": "cpe:/o:lineageos:lineageos"
 }

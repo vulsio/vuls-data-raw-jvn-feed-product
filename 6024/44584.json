@@ -1,8 +1,8 @@
 {
-  "vid": "6024",
-  "vname": "ntop",
-  "vcpe": "cpe:/:ntop",
-  "pid": "44584",
-  "pname": "nDPI",
-  "pcpe": "cpe:/a:ntop:ndpi"
+	"vid": "6024",
+	"vname": "ntop",
+	"vcpe": "cpe:/:ntop",
+	"pid": "44584",
+	"pname": "nDPI",
+	"pcpe": "cpe:/a:ntop:ndpi"
 }

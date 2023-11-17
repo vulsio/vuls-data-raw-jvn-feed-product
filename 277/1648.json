@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "1648",
-  "pname": "SonicStage Mastering Studio",
-  "pcpe": "cpe:/a:sony:sonicstage_mastering_studio"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "1648",
+	"pname": "SonicStage Mastering Studio",
+	"pcpe": "cpe:/a:sony:sonicstage_mastering_studio"
 }

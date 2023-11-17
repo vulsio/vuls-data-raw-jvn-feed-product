@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "1366",
-  "pname": "Ridoc Document System",
-  "pcpe": "cpe:/a:ricoh:ridoc_document_system"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "1366",
+	"pname": "Ridoc Document System",
+	"pcpe": "cpe:/a:ricoh:ridoc_document_system"
 }

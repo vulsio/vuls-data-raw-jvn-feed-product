@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "36866",
-  "pname": "DCM-604 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dcm-604_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "36866",
+	"pname": "DCM-604 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dcm-604_firmware"
 }

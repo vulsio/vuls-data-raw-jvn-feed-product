@@ -1,8 +1,8 @@
 {
-  "vid": "23366",
-  "vname": "powertekpdus",
-  "vcpe": "cpe:/:powertekpdus",
-  "pid": "60592",
-  "pname": "pm pdu ファームウェア",
-  "pcpe": "cpe:/o:powertekpdus:pm_pdu_firmware"
+	"vid": "23366",
+	"vname": "powertekpdus",
+	"vcpe": "cpe:/:powertekpdus",
+	"pid": "60592",
+	"pname": "pm pdu ファームウェア",
+	"pcpe": "cpe:/o:powertekpdus:pm_pdu_firmware"
 }

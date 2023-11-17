@@ -1,8 +1,8 @@
 {
-  "vid": "19497",
-  "vname": "ts-process-promise project",
-  "vcpe": "cpe:/:ts-process-promises_project",
-  "pid": "49105",
-  "pname": "ts-process-promise",
-  "pcpe": "cpe:/a:ts-process-promises_project:ts-process-promises"
+	"vid": "19497",
+	"vname": "ts-process-promise project",
+	"vcpe": "cpe:/:ts-process-promises_project",
+	"pid": "49105",
+	"pname": "ts-process-promise",
+	"pcpe": "cpe:/a:ts-process-promises_project:ts-process-promises"
 }

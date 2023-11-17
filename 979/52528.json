@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "52528",
-  "pname": "Atlasboard",
-  "pcpe": "cpe:/a:atlassian:atlasboard"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "52528",
+	"pname": "Atlasboard",
+	"pcpe": "cpe:/a:atlassian:atlasboard"
 }

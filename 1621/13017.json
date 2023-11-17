@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "13017",
-  "pname": "symbian",
-  "pcpe": "cpe:/o:nokia:symbian"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "13017",
+	"pname": "symbian",
+	"pcpe": "cpe:/o:nokia:symbian"
 }

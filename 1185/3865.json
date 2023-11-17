@@ -1,8 +1,8 @@
 {
-  "vid": "1185",
-  "vname": "Claus Due",
-  "vcpe": "cpe:/:claus_due",
-  "pid": "3865",
-  "pname": "System Utilities",
-  "pcpe": "cpe:/a:claus_due:sysutils"
+	"vid": "1185",
+	"vname": "Claus Due",
+	"vcpe": "cpe:/:claus_due",
+	"pid": "3865",
+	"pname": "System Utilities",
+	"pcpe": "cpe:/a:claus_due:sysutils"
 }

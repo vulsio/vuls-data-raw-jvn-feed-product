@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "19759",
-  "pname": "HP StoreOnce 4210 iSCSI Backup System",
-  "pcpe": "cpe:/a:hp:storeonce_4210_iscsi_backup_system"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "19759",
+	"pname": "HP StoreOnce 4210 iSCSI Backup System",
+	"pcpe": "cpe:/a:hp:storeonce_4210_iscsi_backup_system"
 }

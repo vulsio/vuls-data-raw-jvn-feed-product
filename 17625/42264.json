@@ -1,8 +1,8 @@
 {
-  "vid": "17625",
-  "vname": "requests-Kerberos project",
-  "vcpe": "cpe:/:requests-kerberos_project",
-  "pid": "42264",
-  "pname": "python-requests-Kerberos",
-  "pcpe": "cpe:/a:requests-kerberos_project:requests-kerberos"
+	"vid": "17625",
+	"vname": "requests-Kerberos project",
+	"vcpe": "cpe:/:requests-kerberos_project",
+	"pid": "42264",
+	"pname": "python-requests-Kerberos",
+	"pcpe": "cpe:/a:requests-kerberos_project:requests-kerberos"
 }

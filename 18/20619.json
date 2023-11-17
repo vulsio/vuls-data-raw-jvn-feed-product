@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20619",
-  "pname": "Rational Connector for SAP Solution Manager",
-  "pcpe": "cpe:/a:ibm:rational_connector_for_sap_solution_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20619",
+	"pname": "Rational Connector for SAP Solution Manager",
+	"pcpe": "cpe:/a:ibm:rational_connector_for_sap_solution_manager"
 }

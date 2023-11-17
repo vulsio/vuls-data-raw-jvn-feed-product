@@ -1,8 +1,8 @@
 {
-  "vid": "69",
-  "vname": "kernel.org",
-  "vcpe": "cpe:/:kernel",
-  "pid": "10793",
-  "pname": "direct connect",
-  "pcpe": "cpe:/a:kernel:direct_connect"
+	"vid": "69",
+	"vname": "kernel.org",
+	"vcpe": "cpe:/:kernel",
+	"pid": "10793",
+	"pname": "direct connect",
+	"pcpe": "cpe:/a:kernel:direct_connect"
 }

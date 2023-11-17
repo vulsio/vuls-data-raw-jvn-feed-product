@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "39891",
-  "pname": "Cisco SF220-24P ファームウェア",
-  "pcpe": "cpe:/o:cisco:sf220-24p_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "39891",
+	"pname": "Cisco SF220-24P ファームウェア",
+	"pcpe": "cpe:/o:cisco:sf220-24p_firmware"
 }

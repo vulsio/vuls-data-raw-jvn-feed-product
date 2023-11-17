@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "36279",
-  "pname": "WebSafe Alert Server",
-  "pcpe": "cpe:/a:f5:websafe_alert_server"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "36279",
+	"pname": "WebSafe Alert Server",
+	"pcpe": "cpe:/a:f5:websafe_alert_server"
 }

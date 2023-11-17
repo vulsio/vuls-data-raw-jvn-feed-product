@@ -1,8 +1,8 @@
 {
-  "vid": "15033",
-  "vname": "CorelliCoin project",
-  "vcpe": "cpe:/:corellicoin_project",
-  "pid": "34962",
-  "pname": "CorelliCoin",
-  "pcpe": "cpe:/a:corellicoin_project:corellicoin"
+	"vid": "15033",
+	"vname": "CorelliCoin project",
+	"vcpe": "cpe:/:corellicoin_project",
+	"pid": "34962",
+	"pname": "CorelliCoin",
+	"pcpe": "cpe:/a:corellicoin_project:corellicoin"
 }

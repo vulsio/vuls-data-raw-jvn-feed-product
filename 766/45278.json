@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "45278",
-  "pname": "MTN6260-0410 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:mtn6260-0410_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "45278",
+	"pname": "MTN6260-0410 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:mtn6260-0410_firmware"
 }

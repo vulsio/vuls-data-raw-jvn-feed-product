@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "39488",
-  "pname": "px12-350r ファームウェア",
-  "pcpe": "cpe:/o:lenovo:px12-350r_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "39488",
+	"pname": "px12-350r ファームウェア",
+	"pcpe": "cpe:/o:lenovo:px12-350r_firmware"
 }

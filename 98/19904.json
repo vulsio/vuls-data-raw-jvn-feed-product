@@ -1,8 +1,8 @@
 {
-  "vid": "98",
-  "vname": "サイボウズ",
-  "vcpe": "cpe:/:cybozu",
-  "pid": "19904",
-  "pname": "リモートサービスマネージャー",
-  "pcpe": "cpe:/a:cybozu:remote_service_manager"
+	"vid": "98",
+	"vname": "サイボウズ",
+	"vcpe": "cpe:/:cybozu",
+	"pid": "19904",
+	"pname": "リモートサービスマネージャー",
+	"pcpe": "cpe:/a:cybozu:remote_service_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "7706",
-  "vname": "snom",
-  "vcpe": "cpe:/:snom",
-  "pid": "16625",
-  "pname": "snom 360",
-  "pcpe": "cpe:/h:snom:snom_360"
+	"vid": "7706",
+	"vname": "snom",
+	"vcpe": "cpe:/:snom",
+	"pid": "16625",
+	"pname": "snom 360",
+	"pcpe": "cpe:/h:snom:snom_360"
 }

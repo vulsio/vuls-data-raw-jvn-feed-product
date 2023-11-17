@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "42961",
-  "pname": "SG250X-24P ファームウェア",
-  "pcpe": "cpe:/o:cisco:sg250x-24p_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "42961",
+	"pname": "SG250X-24P ファームウェア",
+	"pcpe": "cpe:/o:cisco:sg250x-24p_firmware"
 }

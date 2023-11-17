@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23692",
-  "pname": "HP Integrated Single Head MSR SRED (J1A34AA)",
-  "pcpe": "cpe:/h:hp:integrated_single_head_w%2Fo_msr_sred_j1a34aa"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23692",
+	"pname": "HP Integrated Single Head MSR SRED (J1A34AA)",
+	"pcpe": "cpe:/h:hp:integrated_single_head_w%2Fo_msr_sred_j1a34aa"
 }

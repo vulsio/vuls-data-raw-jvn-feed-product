@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "60089",
-  "pname": "core i5-12600t ファームウェア",
-  "pcpe": "cpe:/o:intel:core_i5-12600t_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "60089",
+	"pname": "core i5-12600t ファームウェア",
+	"pcpe": "cpe:/o:intel:core_i5-12600t_firmware"
 }

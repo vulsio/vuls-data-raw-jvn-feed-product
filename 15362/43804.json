@@ -1,8 +1,8 @@
 {
-  "vid": "15362",
-  "vname": "Micron Technology, Inc.",
-  "vcpe": "cpe:/:micron",
-  "pid": "43804",
-  "pname": "Micron DDR4 SDRAM",
-  "pcpe": "cpe:/h:micron:ddr4_sdram"
+	"vid": "15362",
+	"vname": "Micron Technology, Inc.",
+	"vcpe": "cpe:/:micron",
+	"pid": "43804",
+	"pname": "Micron DDR4 SDRAM",
+	"pcpe": "cpe:/h:micron:ddr4_sdram"
 }

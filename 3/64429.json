@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "64429",
-  "pname": "dtach",
-  "pcpe": "cpe:/a:redhat:dtach"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "64429",
+	"pname": "dtach",
+	"pcpe": "cpe:/a:redhat:dtach"
 }

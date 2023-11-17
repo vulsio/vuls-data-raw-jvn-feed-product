@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29257",
-  "pname": "SIRIUS Soft starter 3RW44 PN ファームウェア",
-  "pcpe": "cpe:/o:siemens:sirius_soft_starter_3rw44_pn_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29257",
+	"pname": "SIRIUS Soft starter 3RW44 PN ファームウェア",
+	"pcpe": "cpe:/o:siemens:sirius_soft_starter_3rw44_pn_firmware"
 }

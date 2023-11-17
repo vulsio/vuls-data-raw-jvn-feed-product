@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "31818",
-  "pname": "VASA Provider",
-  "pcpe": "cpe:/a:netapp:vasa_provider"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "31818",
+	"pname": "VASA Provider",
+	"pcpe": "cpe:/a:netapp:vasa_provider"
 }

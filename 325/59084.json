@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "59084",
-  "pname": "ideapad 5 pro-16ihu6 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideapad_5_pro-16ihu6_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "59084",
+	"pname": "ideapad 5 pro-16ihu6 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideapad_5_pro-16ihu6_firmware"
 }

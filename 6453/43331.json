@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "43331",
-  "pname": "CX31x_ファームウェア",
-  "pcpe": "cpe:/o:lexmark:cx31x_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "43331",
+	"pname": "CX31x_ファームウェア",
+	"pcpe": "cpe:/o:lexmark:cx31x_firmware"
 }

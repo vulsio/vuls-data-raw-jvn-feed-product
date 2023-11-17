@@ -1,8 +1,8 @@
 {
-  "vid": "16071",
-  "vname": "RDFLib project",
-  "vcpe": "cpe:/:rdflib_project",
-  "pid": "37639",
-  "pname": "RDFLib",
-  "pcpe": "cpe:/a:rdflib_project:rdflib"
+	"vid": "16071",
+	"vname": "RDFLib project",
+	"vcpe": "cpe:/:rdflib_project",
+	"pid": "37639",
+	"pname": "RDFLib",
+	"pcpe": "cpe:/a:rdflib_project:rdflib"
 }

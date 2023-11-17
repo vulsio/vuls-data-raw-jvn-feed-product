@@ -1,8 +1,8 @@
 {
-  "vid": "13567",
-  "vname": "Red Lion Controls, Inc.",
-  "vcpe": "cpe:/:redlion",
-  "pid": "33673",
-  "pname": "Sixnet-Managed Industrial Switches ファームウェア",
-  "pcpe": "cpe:/o:redlion:sixnet-managed_industrial_switches_firmware"
+	"vid": "13567",
+	"vname": "Red Lion Controls, Inc.",
+	"vcpe": "cpe:/:redlion",
+	"pid": "33673",
+	"pname": "Sixnet-Managed Industrial Switches ファームウェア",
+	"pcpe": "cpe:/o:redlion:sixnet-managed_industrial_switches_firmware"
 }

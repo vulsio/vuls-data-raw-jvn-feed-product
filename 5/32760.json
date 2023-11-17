@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "32760",
-  "pname": "SD 617 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd_617_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "32760",
+	"pname": "SD 617 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd_617_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22777",
-  "vname": "ardupilot",
-  "vcpe": "cpe:/:ardupilot",
-  "pid": "58616",
-  "pname": "apweb",
-  "pcpe": "cpe:/a:ardupilot:apweb"
+	"vid": "22777",
+	"vname": "ardupilot",
+	"vcpe": "cpe:/:ardupilot",
+	"pid": "58616",
+	"pname": "apweb",
+	"pcpe": "cpe:/a:ardupilot:apweb"
 }

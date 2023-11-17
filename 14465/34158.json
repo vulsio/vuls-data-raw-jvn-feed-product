@@ -1,8 +1,8 @@
 {
-  "vid": "14465",
-  "vname": "calmquist.static-server project",
-  "vcpe": "cpe:/:calmquist.static-server_project",
-  "pid": "34158",
-  "pname": "calmquist.static-server",
-  "pcpe": "cpe:/a:calmquist.static-server_project:calmquist.static-server"
+	"vid": "14465",
+	"vname": "calmquist.static-server project",
+	"vcpe": "cpe:/:calmquist.static-server_project",
+	"pid": "34158",
+	"pname": "calmquist.static-server",
+	"pcpe": "cpe:/a:calmquist.static-server_project:calmquist.static-server"
 }

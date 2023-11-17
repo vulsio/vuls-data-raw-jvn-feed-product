@@ -1,8 +1,8 @@
 {
-  "vid": "17524",
-  "vname": "Loftek",
-  "vcpe": "cpe:/:loftek",
-  "pid": "41948",
-  "pname": "Loftek Nexus 543 ファームウェア",
-  "pcpe": "cpe:/o:loftek:nexus_543_firmware"
+	"vid": "17524",
+	"vname": "Loftek",
+	"vcpe": "cpe:/:loftek",
+	"pid": "41948",
+	"pname": "Loftek Nexus 543 ファームウェア",
+	"pcpe": "cpe:/o:loftek:nexus_543_firmware"
 }

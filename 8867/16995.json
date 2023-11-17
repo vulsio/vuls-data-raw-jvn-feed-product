@@ -1,8 +1,8 @@
 {
-  "vid": "8867",
-  "vname": "Privoxy Developers",
-  "vcpe": "cpe:/:privoxy",
-  "pid": "16995",
-  "pname": "Privoxy",
-  "pcpe": "cpe:/a:privoxy:privoxy"
+	"vid": "8867",
+	"vname": "Privoxy Developers",
+	"vcpe": "cpe:/:privoxy",
+	"pid": "16995",
+	"pname": "Privoxy",
+	"pcpe": "cpe:/a:privoxy:privoxy"
 }

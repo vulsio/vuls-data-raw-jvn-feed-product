@@ -1,8 +1,8 @@
 {
-  "vid": "1125",
-  "vname": "OpenNMS",
-  "vcpe": "cpe:/:opennms",
-  "pid": "49641",
-  "pname": "Newts",
-  "pcpe": "cpe:/a:opennms:newts"
+	"vid": "1125",
+	"vname": "OpenNMS",
+	"vcpe": "cpe:/:opennms",
+	"pid": "49641",
+	"pname": "Newts",
+	"pcpe": "cpe:/a:opennms:newts"
 }

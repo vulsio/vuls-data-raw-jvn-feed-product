@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "55350",
-  "pname": "QcalAgent",
-  "pcpe": "cpe:/a:qnap:qcalagent"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "55350",
+	"pname": "QcalAgent",
+	"pcpe": "cpe:/a:qnap:qcalagent"
 }

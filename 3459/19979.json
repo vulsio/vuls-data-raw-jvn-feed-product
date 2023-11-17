@@ -1,8 +1,8 @@
 {
-  "vid": "3459",
-  "vname": "Episerver",
-  "vcpe": "cpe:/:ektron",
-  "pid": "19979",
-  "pname": "Ektron CMS",
-  "pcpe": "cpe:/a:ektron:ektron_content_management_system"
+	"vid": "3459",
+	"vname": "Episerver",
+	"vcpe": "cpe:/:ektron",
+	"pid": "19979",
+	"pname": "Ektron CMS",
+	"pcpe": "cpe:/a:ektron:ektron_content_management_system"
 }

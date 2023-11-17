@@ -1,8 +1,8 @@
 {
-  "vid": "9298",
-  "vname": "ADTRAN",
-  "vcpe": "cpe:/:adtran",
-  "pid": "62921",
-  "pname": "sr506n ファームウェア",
-  "pcpe": "cpe:/o:adtran:sr506n_firmware"
+	"vid": "9298",
+	"vname": "ADTRAN",
+	"vcpe": "cpe:/:adtran",
+	"pid": "62921",
+	"pname": "sr506n ファームウェア",
+	"pcpe": "cpe:/o:adtran:sr506n_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63372",
-  "pname": "HP OfficeJet 6950 All-in-One Printer P4C78A ファームウェア",
-  "pcpe": "cpe:/o:hp:p4c78a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63372",
+	"pname": "HP OfficeJet 6950 All-in-One Printer P4C78A ファームウェア",
+	"pcpe": "cpe:/o:hp:p4c78a_firmware"
 }

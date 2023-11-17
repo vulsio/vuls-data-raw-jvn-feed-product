@@ -1,8 +1,8 @@
 {
-  "vid": "23780",
-  "vname": "h96tvbox",
-  "vcpe": "cpe:/:h96tvbox",
-  "pid": "61503",
-  "pname": "h96 pro plus ファームウェア",
-  "pcpe": "cpe:/o:h96tvbox:h96_pro_plus_firmware"
+	"vid": "23780",
+	"vname": "h96tvbox",
+	"vcpe": "cpe:/:h96tvbox",
+	"pid": "61503",
+	"pname": "h96 pro plus ファームウェア",
+	"pcpe": "cpe:/o:h96tvbox:h96_pro_plus_firmware"
 }

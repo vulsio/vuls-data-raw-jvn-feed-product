@@ -1,8 +1,8 @@
 {
-  "vid": "17784",
-  "vname": "PyInstaller",
-  "vcpe": "cpe:/:pyinstaller",
-  "pid": "42802",
-  "pname": "PyInstaller",
-  "pcpe": "cpe:/a:pyinstaller:pyinstaller"
+	"vid": "17784",
+	"vname": "PyInstaller",
+	"vcpe": "cpe:/:pyinstaller",
+	"pid": "42802",
+	"pname": "PyInstaller",
+	"pcpe": "cpe:/a:pyinstaller:pyinstaller"
 }

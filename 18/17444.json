@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17444",
-  "pname": "IBM Smart Analytics System 7600",
-  "pcpe": "cpe:/h:ibm:smart_analytics_system_7600"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17444",
+	"pname": "IBM Smart Analytics System 7600",
+	"pcpe": "cpe:/h:ibm:smart_analytics_system_7600"
 }

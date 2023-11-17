@@ -1,8 +1,8 @@
 {
-  "vid": "11841",
-  "vname": "phpLiteAdmin project",
-  "vcpe": "cpe:/:phpliteadmin_project",
-  "pid": "24637",
-  "pname": "phpLiteAdmin",
-  "pcpe": "cpe:/a:phpliteadmin_project:phpliteadmin"
+	"vid": "11841",
+	"vname": "phpLiteAdmin project",
+	"vcpe": "cpe:/:phpliteadmin_project",
+	"pid": "24637",
+	"pname": "phpLiteAdmin",
+	"pcpe": "cpe:/a:phpliteadmin_project:phpliteadmin"
 }

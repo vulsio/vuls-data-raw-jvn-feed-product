@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "32215",
-  "pname": "Apache Sling XSS Protection API Compat",
-  "pcpe": "cpe:/a:apache:sling_xss_protection_api_compat"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "32215",
+	"pname": "Apache Sling XSS Protection API Compat",
+	"pcpe": "cpe:/a:apache:sling_xss_protection_api_compat"
 }

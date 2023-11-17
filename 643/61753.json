@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "61753",
-  "pname": "emc powerstore 3200t ファームウェア",
-  "pcpe": "cpe:/o:dell:emc_powerstore_3200t_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "61753",
+	"pname": "emc powerstore 3200t ファームウェア",
+	"pcpe": "cpe:/o:dell:emc_powerstore_3200t_firmware"
 }

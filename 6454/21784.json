@@ -1,8 +1,8 @@
 {
-  "vid": "6454",
-  "vname": "LG Electronics",
-  "vcpe": "cpe:/:lg_electronics",
-  "pid": "21784",
-  "pname": "PRADA phone by LG L-02D",
-  "pcpe": "cpe:/h:lg_electronics:prada_phone_l-02d"
+	"vid": "6454",
+	"vname": "LG Electronics",
+	"vcpe": "cpe:/:lg_electronics",
+	"pid": "21784",
+	"pname": "PRADA phone by LG L-02D",
+	"pcpe": "cpe:/h:lg_electronics:prada_phone_l-02d"
 }

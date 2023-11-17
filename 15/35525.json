@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "35525",
-  "pname": "Oracle iProcurement",
-  "pcpe": "cpe:/a:oracle:iprocurement"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "35525",
+	"pname": "Oracle iProcurement",
+	"pcpe": "cpe:/a:oracle:iprocurement"
 }

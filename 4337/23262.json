@@ -1,8 +1,8 @@
 {
-  "vid": "4337",
-  "vname": "PHPJabbers",
-  "vcpe": "cpe:/:phpjabbers",
-  "pid": "23262",
-  "pname": "Event Booking Calendar",
-  "pcpe": "cpe:/a:phpjabbers:event_booking_calendar"
+	"vid": "4337",
+	"vname": "PHPJabbers",
+	"vcpe": "cpe:/:phpjabbers",
+	"pid": "23262",
+	"pname": "Event Booking Calendar",
+	"pcpe": "cpe:/a:phpjabbers:event_booking_calendar"
 }

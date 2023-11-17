@@ -1,8 +1,8 @@
 {
-  "vid": "15000",
-  "vname": "GemstoneToken project",
-  "vcpe": "cpe:/:gemstone_token_project",
-  "pid": "34929",
-  "pname": "GemstoneToken",
-  "pcpe": "cpe:/a:gemstone_token_project:gemstone_token"
+	"vid": "15000",
+	"vname": "GemstoneToken project",
+	"vcpe": "cpe:/:gemstone_token_project",
+	"pid": "34929",
+	"pname": "GemstoneToken",
+	"pcpe": "cpe:/a:gemstone_token_project:gemstone_token"
 }

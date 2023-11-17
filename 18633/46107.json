@@ -1,8 +1,8 @@
 {
-  "vid": "18633",
-  "vname": "ReadyTalk",
-  "vcpe": "cpe:/:readytalk",
-  "pid": "46107",
-  "pname": "Avian",
-  "pcpe": "cpe:/a:readytalk:avian"
+	"vid": "18633",
+	"vname": "ReadyTalk",
+	"vcpe": "cpe:/:readytalk",
+	"pid": "46107",
+	"pname": "Avian",
+	"pcpe": "cpe:/a:readytalk:avian"
 }

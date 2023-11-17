@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "42850",
-  "pname": "Cisco Collaboration Meeting Rooms",
-  "pcpe": "cpe:/a:cisco:collaboration_meeting_rooms"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "42850",
+	"pname": "Cisco Collaboration Meeting Rooms",
+	"pcpe": "cpe:/a:cisco:collaboration_meeting_rooms"
 }

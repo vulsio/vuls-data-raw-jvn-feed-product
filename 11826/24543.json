@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "24543",
-  "pname": "Centricity Cardiology Data Management System",
-  "pcpe": "cpe:/a:gehealthcare:centricity_dms"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "24543",
+	"pname": "Centricity Cardiology Data Management System",
+	"pcpe": "cpe:/a:gehealthcare:centricity_dms"
 }

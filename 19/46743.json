@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "46743",
-  "pname": "Cisco Business Access Point",
-  "pcpe": "cpe:/a:cisco:business_access_points"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "46743",
+	"pname": "Cisco Business Access Point",
+	"pcpe": "cpe:/a:cisco:business_access_points"
 }

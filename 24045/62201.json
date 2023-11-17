@@ -1,8 +1,8 @@
 {
-  "vid": "24045",
-  "vname": "cert",
-  "vcpe": "cpe:/:cert",
-  "pid": "62201",
-  "pname": "vince",
-  "pcpe": "cpe:/a:cert:vince"
+	"vid": "24045",
+	"vname": "cert",
+	"vcpe": "cpe:/:cert",
+	"pid": "62201",
+	"pname": "vince",
+	"pcpe": "cpe:/a:cert:vince"
 }

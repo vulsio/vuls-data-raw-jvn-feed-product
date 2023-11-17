@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "11244",
-  "pname": "NetFlow Analyzer",
-  "pcpe": "cpe:/a:zohocorp:netflow_analyzer"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "11244",
+	"pname": "NetFlow Analyzer",
+	"pcpe": "cpe:/a:zohocorp:netflow_analyzer"
 }

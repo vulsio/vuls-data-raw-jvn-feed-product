@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "52309",
-  "pname": "RUGGEDCOM ROS RMC20",
-  "pcpe": "cpe:/o:siemens:ruggedcom_ros_rmc20"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "52309",
+	"pname": "RUGGEDCOM ROS RMC20",
+	"pcpe": "cpe:/o:siemens:ruggedcom_ros_rmc20"
 }

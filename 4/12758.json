@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12758",
-  "pname": "HP LaserJet 5200n",
-  "pcpe": "cpe:/h:hp:laserjet_5200n"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12758",
+	"pname": "HP LaserJet 5200n",
+	"pcpe": "cpe:/h:hp:laserjet_5200n"
 }

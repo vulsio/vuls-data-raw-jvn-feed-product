@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "13226",
-  "pname": "Commons HttpClient",
-  "pcpe": "cpe:/a:apache:commons-httpclient"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "13226",
+	"pname": "Commons HttpClient",
+	"pcpe": "cpe:/a:apache:commons-httpclient"
 }

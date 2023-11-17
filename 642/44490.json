@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "44490",
-  "pname": "EX7300 ファームウェア",
-  "pcpe": "cpe:/o:netgear:ex7300_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "44490",
+	"pname": "EX7300 ファームウェア",
+	"pcpe": "cpe:/o:netgear:ex7300_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "5040",
-  "pname": "IBM Tivoli Event Pump",
-  "pcpe": "cpe:/a:ibm:tivoli_event_pump"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "5040",
+	"pname": "IBM Tivoli Event Pump",
+	"pcpe": "cpe:/a:ibm:tivoli_event_pump"
 }

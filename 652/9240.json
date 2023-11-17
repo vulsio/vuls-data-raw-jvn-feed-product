@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "9240",
-  "pname": "Samsung D6000 TV",
-  "pcpe": "cpe:/h:samsung:d6000"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "9240",
+	"pname": "Samsung D6000 TV",
+	"pcpe": "cpe:/h:samsung:d6000"
 }

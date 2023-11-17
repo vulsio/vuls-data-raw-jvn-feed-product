@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "37488",
-  "pname": "SIMATIC WinCC Open Architecture",
-  "pcpe": "cpe:/o:siemens:simatic_wincc_open_architecture"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "37488",
+	"pname": "SIMATIC WinCC Open Architecture",
+	"pcpe": "cpe:/o:siemens:simatic_wincc_open_architecture"
 }

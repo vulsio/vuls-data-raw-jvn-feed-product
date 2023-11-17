@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26146",
-  "pname": "NGFW Module",
-  "pcpe": "cpe:/h:huawei:ngfw_module"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26146",
+	"pname": "NGFW Module",
+	"pcpe": "cpe:/h:huawei:ngfw_module"
 }

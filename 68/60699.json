@@ -1,8 +1,8 @@
 {
-  "vid": "68",
-  "vname": "ジャストシステム",
-  "vcpe": "cpe:/:justsystems",
-  "pid": "60699",
-  "pname": "HPB Dashboard",
-  "pcpe": "cpe:/a:justsystems:hpb_dashboard"
+	"vid": "68",
+	"vname": "ジャストシステム",
+	"vcpe": "cpe:/:justsystems",
+	"pid": "60699",
+	"pname": "HPB Dashboard",
+	"pcpe": "cpe:/a:justsystems:hpb_dashboard"
 }

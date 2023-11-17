@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "35642",
-  "pname": "HPE Moonshot Component Pack ファームウェア",
-  "pcpe": "cpe:/o:hp:moonshot_component_pack_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "35642",
+	"pname": "HPE Moonshot Component Pack ファームウェア",
+	"pcpe": "cpe:/o:hp:moonshot_component_pack_firmware"
 }

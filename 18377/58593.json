@@ -1,8 +1,8 @@
 {
-  "vid": "18377",
-  "vname": "Mattermost, Inc.",
-  "vcpe": "cpe:/:mattermost",
-  "pid": "58593",
-  "pname": "playbooks",
-  "pcpe": "cpe:/a:mattermost:playbooks"
+	"vid": "18377",
+	"vname": "Mattermost, Inc.",
+	"vcpe": "cpe:/:mattermost",
+	"pid": "58593",
+	"pname": "playbooks",
+	"pcpe": "cpe:/a:mattermost:playbooks"
 }

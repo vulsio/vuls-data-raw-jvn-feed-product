@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "57278",
-  "pname": "Oracle Talent Acquisition Cloud",
-  "pcpe": "cpe:/a:oracle:talent_acquisition_cloud"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "57278",
+	"pname": "Oracle Talent Acquisition Cloud",
+	"pcpe": "cpe:/a:oracle:talent_acquisition_cloud"
 }

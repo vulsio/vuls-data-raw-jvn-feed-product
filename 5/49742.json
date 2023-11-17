@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "49742",
-  "pname": "PM7350C ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:pm7350c_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "49742",
+	"pname": "PM7350C ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:pm7350c_firmware"
 }

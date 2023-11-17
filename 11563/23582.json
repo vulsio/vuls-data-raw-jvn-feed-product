@@ -1,8 +1,8 @@
 {
-  "vid": "11563",
-  "vname": "eTouch Systems",
-  "vcpe": "cpe:/:etouch",
-  "pid": "23582",
-  "pname": "SamePage",
-  "pcpe": "cpe:/a:etouch:samepage"
+	"vid": "11563",
+	"vname": "eTouch Systems",
+	"vcpe": "cpe:/:etouch",
+	"pid": "23582",
+	"pname": "SamePage",
+	"pcpe": "cpe:/a:etouch:samepage"
 }

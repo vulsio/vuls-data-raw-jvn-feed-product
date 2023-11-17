@@ -1,8 +1,8 @@
 {
-  "vid": "1237",
-  "vname": "NetEase",
-  "vcpe": "cpe:/:netease",
-  "pid": "41645",
-  "pname": "Pomelo",
-  "pcpe": "cpe:/a:netease:pomelo"
+	"vid": "1237",
+	"vname": "NetEase",
+	"vcpe": "cpe:/:netease",
+	"pid": "41645",
+	"pname": "Pomelo",
+	"pcpe": "cpe:/a:netease:pomelo"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19772",
-  "vname": "nbdkit project",
-  "vcpe": "cpe:/:nbdkit_project",
-  "pid": "49875",
-  "pname": "nbdkit",
-  "pcpe": "cpe:/a:nbdkit_project:nbdkit"
+	"vid": "19772",
+	"vname": "nbdkit project",
+	"vcpe": "cpe:/:nbdkit_project",
+	"pid": "49875",
+	"pname": "nbdkit",
+	"pcpe": "cpe:/a:nbdkit_project:nbdkit"
 }

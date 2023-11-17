@@ -1,8 +1,8 @@
 {
-  "vid": "504",
-  "vname": "Motorola Solutions, Inc",
-  "vcpe": "cpe:/:motorola",
-  "pid": "52070",
-  "pname": "MM1000 ファームウェア",
-  "pcpe": "cpe:/o:motorola:mm1000_firmware"
+	"vid": "504",
+	"vname": "Motorola Solutions, Inc",
+	"vcpe": "cpe:/:motorola",
+	"pid": "52070",
+	"pname": "MM1000 ファームウェア",
+	"pcpe": "cpe:/o:motorola:mm1000_firmware"
 }

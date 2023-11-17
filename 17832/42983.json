@@ -1,8 +1,8 @@
 {
-  "vid": "17832",
-  "vname": "Lightning Network Developers",
-  "vcpe": "cpe:/:lightning",
-  "pid": "42983",
-  "pname": "Lightning Network Daemon",
-  "pcpe": "cpe:/a:lightning:network_daemon"
+	"vid": "17832",
+	"vname": "Lightning Network Developers",
+	"vcpe": "cpe:/:lightning",
+	"pid": "42983",
+	"pname": "Lightning Network Daemon",
+	"pcpe": "cpe:/a:lightning:network_daemon"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13089",
-  "vname": "ATM Mobilis",
-  "vcpe": "cpe:/:mobilis",
-  "pid": "30498",
-  "pname": "MobiConnect",
-  "pcpe": "cpe:/a:mobilis:mobiconnect"
+	"vid": "13089",
+	"vname": "ATM Mobilis",
+	"vcpe": "cpe:/:mobilis",
+	"pid": "30498",
+	"pname": "MobiConnect",
+	"pcpe": "cpe:/a:mobilis:mobiconnect"
 }

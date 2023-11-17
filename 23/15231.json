@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15231",
-  "pname": "symantec mail security exchange",
-  "pcpe": "cpe:/a:symantec:symantec_mail_security_exchange"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15231",
+	"pname": "symantec mail security exchange",
+	"pcpe": "cpe:/a:symantec:symantec_mail_security_exchange"
 }

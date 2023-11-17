@@ -1,8 +1,8 @@
 {
-  "vid": "19013",
-  "vname": "Joint Photographic Experts Group",
-  "vcpe": "cpe:/:jpeg",
-  "pid": "47609",
-  "pname": "jpeg-xl",
-  "pcpe": "cpe:/a:jpeg:jpeg_xl"
+	"vid": "19013",
+	"vname": "Joint Photographic Experts Group",
+	"vcpe": "cpe:/:jpeg",
+	"pid": "47609",
+	"pname": "jpeg-xl",
+	"pcpe": "cpe:/a:jpeg:jpeg_xl"
 }

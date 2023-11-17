@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17802",
-  "pname": "IBM API Management",
-  "pcpe": "cpe:/a:ibm:api_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17802",
+	"pname": "IBM API Management",
+	"pcpe": "cpe:/a:ibm:api_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12519",
-  "vname": "SLiMS",
-  "vcpe": "cpe:/:slims",
-  "pid": "57884",
-  "pname": "senayan library management system",
-  "pcpe": "cpe:/a:slims:senayan_library_management_system"
+	"vid": "12519",
+	"vname": "SLiMS",
+	"vcpe": "cpe:/:slims",
+	"pid": "57884",
+	"pname": "senayan library management system",
+	"pcpe": "cpe:/a:slims:senayan_library_management_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "37328",
-  "pname": "Intel Accelerated Storage Manager",
-  "pcpe": "cpe:/a:intel:accelerated_storage_manager"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "37328",
+	"pname": "Intel Accelerated Storage Manager",
+	"pcpe": "cpe:/a:intel:accelerated_storage_manager"
 }

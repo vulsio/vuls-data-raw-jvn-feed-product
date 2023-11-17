@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "5867",
-  "pname": "imageio",
-  "pcpe": "cpe:/a:apple:imageio"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "5867",
+	"pname": "imageio",
+	"pcpe": "cpe:/a:apple:imageio"
 }

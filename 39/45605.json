@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "45605",
-  "pname": "Adobe Reader Mobile",
-  "pcpe": "cpe:/a:adobe:adobe_reader"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "45605",
+	"pname": "Adobe Reader Mobile",
+	"pcpe": "cpe:/a:adobe:adobe_reader"
 }

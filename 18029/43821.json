@@ -1,8 +1,8 @@
 {
-  "vid": "18029",
-  "vname": "Sapplica",
-  "vcpe": "cpe:/:sapplica",
-  "pid": "43821",
-  "pname": "Sentrifugo",
-  "pcpe": "cpe:/a:sapplica:sentrifugo"
+	"vid": "18029",
+	"vname": "Sapplica",
+	"vcpe": "cpe:/:sapplica",
+	"pid": "43821",
+	"pname": "Sentrifugo",
+	"pcpe": "cpe:/a:sapplica:sentrifugo"
 }

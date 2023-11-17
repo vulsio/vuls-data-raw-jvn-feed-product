@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "30824",
-  "pname": "SBG3500-N000 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:sbg3500-n000_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "30824",
+	"pname": "SBG3500-N000 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:sbg3500-n000_firmware"
 }

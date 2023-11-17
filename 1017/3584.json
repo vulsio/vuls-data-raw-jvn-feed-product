@@ -1,8 +1,8 @@
 {
-  "vid": "1017",
-  "vname": "DevPress",
-  "vcpe": "cpe:/:devpress",
-  "pid": "3584",
-  "pname": "News theme",
-  "pcpe": "cpe:/a:devpress:news"
+	"vid": "1017",
+	"vname": "DevPress",
+	"vcpe": "cpe:/:devpress",
+	"pid": "3584",
+	"pname": "News theme",
+	"pcpe": "cpe:/a:devpress:news"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23294",
-  "vname": "sicunet",
-  "vcpe": "cpe:/:sicunet",
-  "pid": "60314",
-  "pname": "access control",
-  "pcpe": "cpe:/a:sicunet:access_control"
+	"vid": "23294",
+	"vname": "sicunet",
+	"vcpe": "cpe:/:sicunet",
+	"pid": "60314",
+	"pname": "access control",
+	"pcpe": "cpe:/a:sicunet:access_control"
 }

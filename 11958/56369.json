@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "56369",
-  "pname": "SYSMAC NX102 シリーズ CPU ユニット",
-  "pcpe": "cpe:/o:omron:sysmac_nx102_series_cpu_unit"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "56369",
+	"pname": "SYSMAC NX102 シリーズ CPU ユニット",
+	"pcpe": "cpe:/o:omron:sysmac_nx102_series_cpu_unit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11667",
-  "vname": "OSInet",
-  "vcpe": "cpe:/:osinet",
-  "pid": "23948",
-  "pname": "Classified Ads",
-  "pcpe": "cpe:/a:osinet:classified_ads"
+	"vid": "11667",
+	"vname": "OSInet",
+	"vcpe": "cpe:/:osinet",
+	"pid": "23948",
+	"pname": "Classified Ads",
+	"pcpe": "cpe:/a:osinet:classified_ads"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3213",
-  "vname": "dicas",
-  "vcpe": "cpe:/:dicas",
-  "pid": "7314",
-  "pname": "mpegable player",
-  "pcpe": "cpe:/a:dicas:mpegable_player"
+	"vid": "3213",
+	"vname": "dicas",
+	"vcpe": "cpe:/:dicas",
+	"pid": "7314",
+	"pname": "mpegable player",
+	"pcpe": "cpe:/a:dicas:mpegable_player"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "37867",
-  "pname": "Azure DevOps Server",
-  "pcpe": "cpe:/o:microsoft:azure_devops_server"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "37867",
+	"pname": "Azure DevOps Server",
+	"pcpe": "cpe:/o:microsoft:azure_devops_server"
 }

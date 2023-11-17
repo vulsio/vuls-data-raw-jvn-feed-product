@@ -1,8 +1,8 @@
 {
-  "vid": "22545",
-  "vname": "create-choo-electron project",
-  "vcpe": "cpe:/:create-choo-electron_project",
-  "pid": "58024",
-  "pname": "create-choo-electron",
-  "pcpe": "cpe:/a:create-choo-electron_project:create-choo-electron"
+	"vid": "22545",
+	"vname": "create-choo-electron project",
+	"vcpe": "cpe:/:create-choo-electron_project",
+	"pid": "58024",
+	"pname": "create-choo-electron",
+	"pcpe": "cpe:/a:create-choo-electron_project:create-choo-electron"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "35687",
-  "pname": "Cisco WAP351 ファームウェア",
-  "pcpe": "cpe:/o:cisco:wap351_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "35687",
+	"pname": "Cisco WAP351 ファームウェア",
+	"pcpe": "cpe:/o:cisco:wap351_firmware"
 }

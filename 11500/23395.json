@@ -1,8 +1,8 @@
 {
-  "vid": "11500",
-  "vname": "CatBot project",
-  "vcpe": "cpe:/:catbot_project",
-  "pid": "23395",
-  "pname": "CatBot",
-  "pcpe": "cpe:/a:catbot_project:catbot"
+	"vid": "11500",
+	"vname": "CatBot project",
+	"vcpe": "cpe:/:catbot_project",
+	"pid": "23395",
+	"pname": "CatBot",
+	"pcpe": "cpe:/a:catbot_project:catbot"
 }

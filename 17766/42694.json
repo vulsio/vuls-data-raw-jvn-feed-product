@@ -1,8 +1,8 @@
 {
-  "vid": "17766",
-  "vname": "CAYIN Technology",
-  "vcpe": "cpe:/:cayintech",
-  "pid": "42694",
-  "pname": "SMP-PRO4 ファームウェア",
-  "pcpe": "cpe:/o:cayintech:smp-pro4_firmware"
+	"vid": "17766",
+	"vname": "CAYIN Technology",
+	"vcpe": "cpe:/:cayintech",
+	"pid": "42694",
+	"pname": "SMP-PRO4 ファームウェア",
+	"pcpe": "cpe:/o:cayintech:smp-pro4_firmware"
 }

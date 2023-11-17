@@ -1,8 +1,8 @@
 {
-  "vid": "14237",
-  "vname": "bitty project",
-  "vcpe": "cpe:/:bitty_project",
-  "pid": "33895",
-  "pname": "bitty",
-  "pcpe": "cpe:/a:bitty_project:bitty"
+	"vid": "14237",
+	"vname": "bitty project",
+	"vcpe": "cpe:/:bitty_project",
+	"pid": "33895",
+	"pname": "bitty",
+	"pcpe": "cpe:/a:bitty_project:bitty"
 }

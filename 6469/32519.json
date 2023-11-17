@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "32519",
-  "pname": "MGUARD CORE TX VPN ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:mguard_core_tx_vpn_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "32519",
+	"pname": "MGUARD CORE TX VPN ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:mguard_core_tx_vpn_firmware"
 }

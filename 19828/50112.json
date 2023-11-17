@@ -1,8 +1,8 @@
 {
-  "vid": "19828",
-  "vname": "Hitachi Energy",
-  "vcpe": "cpe:/:hitachienergy",
-  "pid": "50112",
-  "pname": "XMC20 ファームウェア",
-  "pcpe": "cpe:/o:hitachienergy:xmc20_firmware"
+	"vid": "19828",
+	"vname": "Hitachi Energy",
+	"vcpe": "cpe:/:hitachienergy",
+	"pid": "50112",
+	"pname": "XMC20 ファームウェア",
+	"pcpe": "cpe:/o:hitachienergy:xmc20_firmware"
 }

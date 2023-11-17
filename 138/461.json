@@ -1,8 +1,8 @@
 {
-  "vid": "138",
-  "vname": "D-Bus",
-  "vcpe": "cpe:/:d-bus_project",
-  "pid": "461",
-  "pname": "D-Bus",
-  "pcpe": "cpe:/a:d-bus_project:d-bus"
+	"vid": "138",
+	"vname": "D-Bus",
+	"vcpe": "cpe:/:d-bus_project",
+	"pid": "461",
+	"pname": "D-Bus",
+	"pcpe": "cpe:/a:d-bus_project:d-bus"
 }

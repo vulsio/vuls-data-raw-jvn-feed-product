@@ -1,8 +1,8 @@
 {
-  "vid": "4852",
-  "vname": "Irssi",
-  "vcpe": "cpe:/:irssi",
-  "pid": "28313",
-  "pname": "buf.pl",
-  "pcpe": "cpe:/a:irssi:buf.pl"
+	"vid": "4852",
+	"vname": "Irssi",
+	"vcpe": "cpe:/:irssi",
+	"pid": "28313",
+	"pname": "buf.pl",
+	"pcpe": "cpe:/a:irssi:buf.pl"
 }

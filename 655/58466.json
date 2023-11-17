@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "58466",
-  "pname": "GlassFish",
-  "pcpe": "cpe:/a:eclipse:glassfish"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "58466",
+	"pname": "GlassFish",
+	"pcpe": "cpe:/a:eclipse:glassfish"
 }

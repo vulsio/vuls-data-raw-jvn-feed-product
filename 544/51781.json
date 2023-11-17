@@ -1,8 +1,8 @@
 {
-  "vid": "544",
-  "vname": "Zope Foundation",
-  "vcpe": "cpe:/:zope",
-  "pid": "51781",
-  "pname": "AccessControl",
-  "pcpe": "cpe:/a:zope:accesscontrol"
+	"vid": "544",
+	"vname": "Zope Foundation",
+	"vcpe": "cpe:/:zope",
+	"pid": "51781",
+	"pname": "AccessControl",
+	"pcpe": "cpe:/a:zope:accesscontrol"
 }

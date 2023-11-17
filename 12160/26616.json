@@ -1,8 +1,8 @@
 {
-  "vid": "12160",
-  "vname": "東日本電信電話株式会社",
-  "vcpe": "cpe:/:ntt_east",
-  "pid": "26616",
-  "pname": "ひかり電話ルータ RT-400MI",
-  "pcpe": "cpe:/h:ntt_east:rt-400mi"
+	"vid": "12160",
+	"vname": "東日本電信電話株式会社",
+	"vcpe": "cpe:/:ntt_east",
+	"pid": "26616",
+	"pname": "ひかり電話ルータ RT-400MI",
+	"pcpe": "cpe:/h:ntt_east:rt-400mi"
 }

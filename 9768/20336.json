@@ -1,8 +1,8 @@
 {
-  "vid": "9768",
-  "vname": "JogAmp.org",
-  "vcpe": "cpe:/:jogamp",
-  "pid": "20336",
-  "pname": "JogAmp",
-  "pcpe": "cpe:/a:jogamp:jogamp"
+	"vid": "9768",
+	"vname": "JogAmp.org",
+	"vcpe": "cpe:/:jogamp",
+	"pid": "20336",
+	"pname": "JogAmp",
+	"pcpe": "cpe:/a:jogamp:jogamp"
 }

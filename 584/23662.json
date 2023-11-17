@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "23662",
-  "pname": "SIMATIC CFC",
-  "pcpe": "cpe:/a:siemens:simatic_cfc"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "23662",
+	"pname": "SIMATIC CFC",
+	"pcpe": "cpe:/a:siemens:simatic_cfc"
 }

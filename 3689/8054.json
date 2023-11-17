@@ -1,8 +1,8 @@
 {
-  "vid": "3689",
-  "vname": "filestream",
-  "vcpe": "cpe:/:filestream",
-  "pid": "8054",
-  "pname": "turbozip",
-  "pcpe": "cpe:/a:filestream:turbozip"
+	"vid": "3689",
+	"vname": "filestream",
+	"vcpe": "cpe:/:filestream",
+	"pid": "8054",
+	"pname": "turbozip",
+	"pcpe": "cpe:/a:filestream:turbozip"
 }

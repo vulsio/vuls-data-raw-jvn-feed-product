@@ -1,8 +1,8 @@
 {
-  "vid": "23579",
-  "vname": "Mura Software",
-  "vcpe": "cpe:/:murasoftware",
-  "pid": "61054",
-  "pname": "Mura CMS",
-  "pcpe": "cpe:/a:murasoftware:mura_cms"
+	"vid": "23579",
+	"vname": "Mura Software",
+	"vcpe": "cpe:/:murasoftware",
+	"pid": "61054",
+	"pname": "Mura CMS",
+	"pcpe": "cpe:/a:murasoftware:mura_cms"
 }

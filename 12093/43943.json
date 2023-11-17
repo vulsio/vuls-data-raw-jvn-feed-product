@@ -1,8 +1,8 @@
 {
-  "vid": "12093",
-  "vname": "Belden Inc.",
-  "vcpe": "cpe:/:belden",
-  "pid": "43943",
-  "pname": "Hirschmann OS",
-  "pcpe": "cpe:/h:belden:hirschmann_OS"
+	"vid": "12093",
+	"vname": "Belden Inc.",
+	"vcpe": "cpe:/:belden",
+	"pid": "43943",
+	"pname": "Hirschmann OS",
+	"pcpe": "cpe:/h:belden:hirschmann_OS"
 }

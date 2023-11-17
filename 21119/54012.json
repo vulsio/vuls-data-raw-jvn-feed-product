@@ -1,8 +1,8 @@
 {
-  "vid": "21119",
-  "vname": "playtuber project",
-  "vcpe": "cpe:/:playtuber_project",
-  "pid": "54012",
-  "pname": "playtuber",
-  "pcpe": "cpe:/a:playtuber_project:playtuber"
+	"vid": "21119",
+	"vname": "playtuber project",
+	"vcpe": "cpe:/:playtuber_project",
+	"pid": "54012",
+	"pname": "playtuber",
+	"pcpe": "cpe:/a:playtuber_project:playtuber"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "9324",
-  "pname": "Alert Before Your Post",
-  "pcpe": "cpe:/a:wordpress:alert_before_you_post"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "9324",
+	"pname": "Alert Before Your Post",
+	"pcpe": "cpe:/a:wordpress:alert_before_you_post"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47186",
-  "pname": "APQ8009W ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:apq8009w_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47186",
+	"pname": "APQ8009W ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:apq8009w_firmware"
 }

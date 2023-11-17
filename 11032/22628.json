@@ -1,8 +1,8 @@
 {
-  "vid": "11032",
-  "vname": "utsa",
-  "vcpe": "cpe:/:utsa",
-  "pid": "22628",
-  "pname": "utsa mobile",
-  "pcpe": "cpe:/a:utsa:utsa_mobile"
+	"vid": "11032",
+	"vname": "utsa",
+	"vcpe": "cpe:/:utsa",
+	"pid": "22628",
+	"pname": "utsa mobile",
+	"pcpe": "cpe:/a:utsa:utsa_mobile"
 }

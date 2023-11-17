@@ -1,8 +1,8 @@
 {
-  "vid": "554",
-  "vname": "ブルーコートシステムズ",
-  "vcpe": "cpe:/:bluecoat",
-  "pid": "2280",
-  "pname": "SGOS",
-  "pcpe": "cpe:/o:bluecoat:sgos"
+	"vid": "554",
+	"vname": "ブルーコートシステムズ",
+	"vcpe": "cpe:/:bluecoat",
+	"pid": "2280",
+	"pname": "SGOS",
+	"pcpe": "cpe:/o:bluecoat:sgos"
 }

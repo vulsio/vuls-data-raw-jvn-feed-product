@@ -1,8 +1,8 @@
 {
-  "vid": "13654",
-  "vname": "Netis Systems Co., Ltd.",
-  "vcpe": "cpe:/:netis-systems",
-  "pid": "37613",
-  "pname": "WF2880 ファームウェア",
-  "pcpe": "cpe:/o:netis-systems:wf2880_firmware"
+	"vid": "13654",
+	"vname": "Netis Systems Co., Ltd.",
+	"vcpe": "cpe:/:netis-systems",
+	"pid": "37613",
+	"pname": "WF2880 ファームウェア",
+	"pcpe": "cpe:/o:netis-systems:wf2880_firmware"
 }

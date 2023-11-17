@@ -1,8 +1,8 @@
 {
-  "vid": "7583",
-  "vname": "signkorea",
-  "vcpe": "cpe:/:signkorea",
-  "pid": "37006",
-  "pname": "SKCertService",
-  "pcpe": "cpe:/a:signkorea:skcertservice"
+	"vid": "7583",
+	"vname": "signkorea",
+	"vcpe": "cpe:/:signkorea",
+	"pid": "37006",
+	"pname": "SKCertService",
+	"pcpe": "cpe:/a:signkorea:skcertservice"
 }

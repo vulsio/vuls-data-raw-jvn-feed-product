@@ -1,8 +1,8 @@
 {
-  "vid": "17330",
-  "vname": "CloudCTI",
-  "vcpe": "cpe:/:cloudcti",
-  "pid": "41214",
-  "pname": "HIP Integrator Recognition Configuration Tool",
-  "pcpe": "cpe:/a:cloudcti:hip_integrator_recognition_configuration_tool"
+	"vid": "17330",
+	"vname": "CloudCTI",
+	"vcpe": "cpe:/:cloudcti",
+	"pid": "41214",
+	"pname": "HIP Integrator Recognition Configuration Tool",
+	"pcpe": "cpe:/a:cloudcti:hip_integrator_recognition_configuration_tool"
 }

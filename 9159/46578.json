@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "46578",
-  "pname": "Interventional Workspot",
-  "pcpe": "cpe:/o:philips:interventional_workspot"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "46578",
+	"pname": "Interventional Workspot",
+	"pcpe": "cpe:/o:philips:interventional_workspot"
 }

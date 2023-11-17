@@ -1,8 +1,8 @@
 {
-  "vid": "11825",
-  "vname": "CHIYU Technology Co Ltd.",
-  "vcpe": "cpe:/:chiyutw",
-  "pid": "50884",
-  "pname": "SEMAC S2 ファームウェア",
-  "pcpe": "cpe:/o:chiyutw:semac_s2_firmware"
+	"vid": "11825",
+	"vname": "CHIYU Technology Co Ltd.",
+	"vcpe": "cpe:/:chiyutw",
+	"pid": "50884",
+	"pname": "SEMAC S2 ファームウェア",
+	"pcpe": "cpe:/o:chiyutw:semac_s2_firmware"
 }

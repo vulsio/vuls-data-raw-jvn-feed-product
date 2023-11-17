@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29193",
-  "pname": "DK Standard Ethernet Controller ファームウェア",
-  "pcpe": "cpe:/o:siemens:dk_standard_ethernet_controller_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29193",
+	"pname": "DK Standard Ethernet Controller ファームウェア",
+	"pcpe": "cpe:/o:siemens:dk_standard_ethernet_controller_firmware"
 }

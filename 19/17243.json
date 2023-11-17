@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17243",
-  "pname": "Cisco WebEx Node for MCS",
-  "pcpe": "cpe:/a:cisco:webex_node_for_mcs"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17243",
+	"pname": "Cisco WebEx Node for MCS",
+	"pcpe": "cpe:/a:cisco:webex_node_for_mcs"
 }

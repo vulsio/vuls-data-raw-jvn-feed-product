@@ -1,8 +1,8 @@
 {
-  "vid": "13541",
-  "vname": "QuickApps CMS",
-  "vcpe": "cpe:/:quickappscms",
-  "pid": "32040",
-  "pname": "QuickApps CMS",
-  "pcpe": "cpe:/a:quickappscms:quickapps_cms"
+	"vid": "13541",
+	"vname": "QuickApps CMS",
+	"vcpe": "cpe:/:quickappscms",
+	"pid": "32040",
+	"pname": "QuickApps CMS",
+	"pcpe": "cpe:/a:quickappscms:quickapps_cms"
 }

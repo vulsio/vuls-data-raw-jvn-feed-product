@@ -1,8 +1,8 @@
 {
-  "vid": "7230",
-  "vname": "RARLAB",
-  "vcpe": "cpe:/:rarlab",
-  "pid": "14229",
-  "pname": "WinRAR",
-  "pcpe": "cpe:/a:rarlab:winrar"
+	"vid": "7230",
+	"vname": "RARLAB",
+	"vcpe": "cpe:/:rarlab",
+	"pid": "14229",
+	"pname": "WinRAR",
+	"pcpe": "cpe:/a:rarlab:winrar"
 }

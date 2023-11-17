@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28656",
-  "pname": "P9 ファームウェア",
-  "pcpe": "cpe:/o:huawei:p9_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28656",
+	"pname": "P9 ファームウェア",
+	"pcpe": "cpe:/o:huawei:p9_firmware"
 }

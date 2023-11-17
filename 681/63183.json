@@ -1,8 +1,8 @@
 {
-  "vid": "681",
-  "vname": "ASUSTeK Computer Inc.",
-  "vcpe": "cpe:/:asus",
-  "pid": "63183",
-  "pname": "armoury crate service",
-  "pcpe": "cpe:/a:asus:armoury_crate_service"
+	"vid": "681",
+	"vname": "ASUSTeK Computer Inc.",
+	"vcpe": "cpe:/:asus",
+	"pid": "63183",
+	"pname": "armoury crate service",
+	"pcpe": "cpe:/a:asus:armoury_crate_service"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18226",
-  "vname": "B&R Industrial Automation",
-  "vcpe": "cpe:/:br-automation",
-  "pid": "44602",
-  "pname": "Automation Studio",
-  "pcpe": "cpe:/a:br-automation:automation_studio"
+	"vid": "18226",
+	"vname": "B&R Industrial Automation",
+	"vcpe": "cpe:/:br-automation",
+	"pid": "44602",
+	"pname": "Automation Studio",
+	"pcpe": "cpe:/a:br-automation:automation_studio"
 }

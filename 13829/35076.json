@@ -1,8 +1,8 @@
 {
-  "vid": "13829",
-  "vname": "Insteon",
-  "vcpe": "cpe:/:insteon",
-  "pid": "35076",
-  "pname": "Insteon HD IP Camera White ファームウェア",
-  "pcpe": "cpe:/o:insteon:hd_ip_camera_white_firmware"
+	"vid": "13829",
+	"vname": "Insteon",
+	"vcpe": "cpe:/:insteon",
+	"pid": "35076",
+	"pname": "Insteon HD IP Camera White ファームウェア",
+	"pcpe": "cpe:/o:insteon:hd_ip_camera_white_firmware"
 }

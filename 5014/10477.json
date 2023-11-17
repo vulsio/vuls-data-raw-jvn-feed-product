@@ -1,8 +1,8 @@
 {
-  "vid": "5014",
-  "vname": "john hanna",
-  "vcpe": "cpe:/:john_hanna",
-  "pid": "10477",
-  "pname": "anti-spam smtp proxy server",
-  "pcpe": "cpe:/a:john_hanna:anti-spam_smtp_proxy_server"
+	"vid": "5014",
+	"vname": "john hanna",
+	"vcpe": "cpe:/:john_hanna",
+	"pid": "10477",
+	"pname": "anti-spam smtp proxy server",
+	"pcpe": "cpe:/a:john_hanna:anti-spam_smtp_proxy_server"
 }

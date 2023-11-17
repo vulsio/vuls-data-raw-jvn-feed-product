@@ -1,8 +1,8 @@
 {
-  "vid": "6341",
-  "vname": "phd",
-  "vcpe": "cpe:/:phd",
-  "pid": "12420",
-  "pname": "phd help desk",
-  "pcpe": "cpe:/a:phd:phd_help_desk"
+	"vid": "6341",
+	"vname": "phd",
+	"vcpe": "cpe:/:phd",
+	"pid": "12420",
+	"pname": "phd help desk",
+	"pcpe": "cpe:/a:phd:phd_help_desk"
 }

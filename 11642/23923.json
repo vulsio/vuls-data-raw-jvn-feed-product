@@ -1,8 +1,8 @@
 {
-  "vid": "11642",
-  "vname": "Todo Filter project",
-  "vcpe": "cpe:/:todo_filter_project",
-  "pid": "23923",
-  "pname": "Todo Filter",
-  "pcpe": "cpe:/a:todo_filter_project:todo_filter"
+	"vid": "11642",
+	"vname": "Todo Filter project",
+	"vcpe": "cpe:/:todo_filter_project",
+	"pid": "23923",
+	"pname": "Todo Filter",
+	"pcpe": "cpe:/a:todo_filter_project:todo_filter"
 }

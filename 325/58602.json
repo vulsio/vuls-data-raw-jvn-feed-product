@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58602",
-  "pname": "IdeaPad Slim 7 14ITL05 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideapad_slim_7-14itl05_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58602",
+	"pname": "IdeaPad Slim 7 14ITL05 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideapad_slim_7-14itl05_firmware"
 }

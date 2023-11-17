@@ -1,8 +1,8 @@
 {
-  "vid": "9078",
-  "vname": "Spice Project",
-  "vcpe": "cpe:/:spice_project",
-  "pid": "18104",
-  "pname": "SPICE",
-  "pcpe": "cpe:/a:spice_project:spice"
+	"vid": "9078",
+	"vname": "Spice Project",
+	"vcpe": "cpe:/:spice_project",
+	"pid": "18104",
+	"pname": "SPICE",
+	"pcpe": "cpe:/a:spice_project:spice"
 }

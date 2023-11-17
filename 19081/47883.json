@@ -1,8 +1,8 @@
 {
-  "vid": "19081",
-  "vname": "Hillrom",
-  "vcpe": "cpe:/:hillrom",
-  "pid": "47883",
-  "pname": "Welch Allyn Connex Vital Signs Monitor (CVSM)",
-  "pcpe": "cpe:/a:hillrom:connex_vital_signs_monitor"
+	"vid": "19081",
+	"vname": "Hillrom",
+	"vcpe": "cpe:/:hillrom",
+	"pid": "47883",
+	"pname": "Welch Allyn Connex Vital Signs Monitor (CVSM)",
+	"pcpe": "cpe:/a:hillrom:connex_vital_signs_monitor"
 }

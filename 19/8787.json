@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "8787",
-  "pname": "2700 wireless location appliance",
-  "pcpe": "cpe:/h:cisco:2700_wireless_location_appliance"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "8787",
+	"pname": "2700 wireless location appliance",
+	"pcpe": "cpe:/h:cisco:2700_wireless_location_appliance"
 }

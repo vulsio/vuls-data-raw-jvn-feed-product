@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "63757",
-  "pname": "compuware strobe measurement",
-  "pcpe": "cpe:/a:jenkins:compuware_strobe_measurement"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "63757",
+	"pname": "compuware strobe measurement",
+	"pcpe": "cpe:/a:jenkins:compuware_strobe_measurement"
 }

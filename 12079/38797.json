@@ -1,8 +1,8 @@
 {
-  "vid": "12079",
-  "vname": "Westermo",
-  "vcpe": "cpe:/:westermo",
-  "pid": "38797",
-  "pname": "DR-260 ファームウェア",
-  "pcpe": "cpe:/o:westermo:dr-260_firmware"
+	"vid": "12079",
+	"vname": "Westermo",
+	"vcpe": "cpe:/:westermo",
+	"pid": "38797",
+	"pname": "DR-260 ファームウェア",
+	"pcpe": "cpe:/o:westermo:dr-260_firmware"
 }

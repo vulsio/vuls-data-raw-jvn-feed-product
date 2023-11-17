@@ -1,8 +1,8 @@
 {
-  "vid": "1298",
-  "vname": "Comodo",
-  "vcpe": "cpe:/:comodo",
-  "pid": "6937",
-  "pname": "comodo firewall pro",
-  "pcpe": "cpe:/a:comodo:comodo_firewall_pro"
+	"vid": "1298",
+	"vname": "Comodo",
+	"vcpe": "cpe:/:comodo",
+	"pid": "6937",
+	"pname": "comodo firewall pro",
+	"pcpe": "cpe:/a:comodo:comodo_firewall_pro"
 }

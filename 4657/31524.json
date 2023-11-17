@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31524",
-  "pname": "HwParentControl",
-  "pcpe": "cpe:/o:huawei:hwparentcontrol"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31524",
+	"pname": "HwParentControl",
+	"pcpe": "cpe:/o:huawei:hwparentcontrol"
 }

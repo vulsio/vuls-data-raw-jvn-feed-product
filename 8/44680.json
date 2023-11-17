@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "44680",
-  "pname": "IoTDB",
-  "pcpe": "cpe:/a:apache:iotdb"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "44680",
+	"pname": "IoTDB",
+	"pcpe": "cpe:/a:apache:iotdb"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "63345",
-  "pname": "SwiftNIO Extras",
-  "pcpe": "cpe:/a:apple:swift-nio-extras"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "63345",
+	"pname": "SwiftNIO Extras",
+	"pcpe": "cpe:/a:apple:swift-nio-extras"
 }

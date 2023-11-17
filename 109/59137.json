@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "59137",
-  "pname": "FUJITSU Software Infrastructure Manager",
-  "pcpe": "cpe:/a:fujitsu:software_infrastructure_manager"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "59137",
+	"pname": "FUJITSU Software Infrastructure Manager",
+	"pcpe": "cpe:/a:fujitsu:software_infrastructure_manager"
 }

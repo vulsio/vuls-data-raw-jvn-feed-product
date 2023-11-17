@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "26054",
-  "pname": "McAfee Device Control",
-  "pcpe": "cpe:/a:mcafee:device_control"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "26054",
+	"pname": "McAfee Device Control",
+	"pcpe": "cpe:/a:mcafee:device_control"
 }

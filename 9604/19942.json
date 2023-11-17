@@ -1,8 +1,8 @@
 {
-  "vid": "9604",
-  "vname": "pimcore",
-  "vcpe": "cpe:/:pimcore",
-  "pid": "19942",
-  "pname": "pimcore",
-  "pcpe": "cpe:/a:pimcore:pimcore"
+	"vid": "9604",
+	"vname": "pimcore",
+	"vcpe": "cpe:/:pimcore",
+	"pid": "19942",
+	"pname": "pimcore",
+	"pcpe": "cpe:/a:pimcore:pimcore"
 }

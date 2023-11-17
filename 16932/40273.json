@@ -1,8 +1,8 @@
 {
-  "vid": "16932",
-  "vname": "CarSpot project",
-  "vcpe": "cpe:/:carspot_project",
-  "pid": "40273",
-  "pname": "CarSpot",
-  "pcpe": "cpe:/a:carspot_project:carspot"
+	"vid": "16932",
+	"vname": "CarSpot project",
+	"vcpe": "cpe:/:carspot_project",
+	"pid": "40273",
+	"pname": "CarSpot",
+	"pcpe": "cpe:/a:carspot_project:carspot"
 }

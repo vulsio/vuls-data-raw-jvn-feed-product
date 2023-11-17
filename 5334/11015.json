@@ -1,8 +1,8 @@
 {
-  "vid": "5334",
-  "vname": "linux kiss server",
-  "vcpe": "cpe:/:linux_kiss_server",
-  "pid": "11015",
-  "pname": "linux kiss server",
-  "pcpe": "cpe:/a:linux_kiss_server:linux_kiss_server"
+	"vid": "5334",
+	"vname": "linux kiss server",
+	"vcpe": "cpe:/:linux_kiss_server",
+	"pid": "11015",
+	"pname": "linux kiss server",
+	"pcpe": "cpe:/a:linux_kiss_server:linux_kiss_server"
 }

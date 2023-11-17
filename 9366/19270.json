@@ -1,8 +1,8 @@
 {
-  "vid": "9366",
-  "vname": "sipfoundry",
-  "vcpe": "cpe:/:sipfoundry",
-  "pid": "19270",
-  "pname": "sipxtapi",
-  "pcpe": "cpe:/a:sipfoundry:sipxtapi"
+	"vid": "9366",
+	"vname": "sipfoundry",
+	"vcpe": "cpe:/:sipfoundry",
+	"pid": "19270",
+	"pname": "sipxtapi",
+	"pcpe": "cpe:/a:sipfoundry:sipxtapi"
 }

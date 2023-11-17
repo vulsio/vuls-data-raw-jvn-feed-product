@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47909",
-  "pname": "Oracle Enterprise Data Quality",
-  "pcpe": "cpe:/a:oracle:enterprise_data_quality"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47909",
+	"pname": "Oracle Enterprise Data Quality",
+	"pcpe": "cpe:/a:oracle:enterprise_data_quality"
 }

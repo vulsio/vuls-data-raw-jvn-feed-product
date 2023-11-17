@@ -1,8 +1,8 @@
 {
-  "vid": "24371",
-  "vname": "d8s-ip-addresses project",
-  "vcpe": "cpe:/:d8s-ip-addresses_project",
-  "pid": "62982",
-  "pname": "d8s-ip-addresses",
-  "pcpe": "cpe:/a:d8s-ip-addresses_project:d8s-ip-addresses"
+	"vid": "24371",
+	"vname": "d8s-ip-addresses project",
+	"vcpe": "cpe:/:d8s-ip-addresses_project",
+	"pid": "62982",
+	"pname": "d8s-ip-addresses",
+	"pcpe": "cpe:/a:d8s-ip-addresses_project:d8s-ip-addresses"
 }

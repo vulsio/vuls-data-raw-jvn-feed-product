@@ -1,8 +1,8 @@
 {
-  "vid": "9919",
-  "vname": "XBMC Foundation",
-  "vcpe": "cpe:/:xbmc",
-  "pid": "20714",
-  "pname": "XBMC",
-  "pcpe": "cpe:/a:xbmc:xbmc"
+	"vid": "9919",
+	"vname": "XBMC Foundation",
+	"vcpe": "cpe:/:xbmc",
+	"pid": "20714",
+	"pname": "XBMC",
+	"pcpe": "cpe:/a:xbmc:xbmc"
 }

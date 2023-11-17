@@ -1,8 +1,8 @@
 {
-  "vid": "18239",
-  "vname": "WAVLINK",
-  "vcpe": "cpe:/:wavlink",
-  "pid": "57366",
-  "pname": "WL-WN531AX2",
-  "pcpe": "cpe:/o:wavlink:wl-wn531ax2_firmware"
+	"vid": "18239",
+	"vname": "WAVLINK",
+	"vcpe": "cpe:/:wavlink",
+	"pid": "57366",
+	"pname": "WL-WN531AX2",
+	"pcpe": "cpe:/o:wavlink:wl-wn531ax2_firmware"
 }

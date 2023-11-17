@@ -1,8 +1,8 @@
 {
-  "vid": "755",
-  "vname": "Opengear",
-  "vcpe": "cpe:/:opengear",
-  "pid": "3040",
-  "pname": "Opengear コンソールサーバ用ファームウェア",
-  "pcpe": "cpe:/a:opengear:opengear_console_server_firmware"
+	"vid": "755",
+	"vname": "Opengear",
+	"vcpe": "cpe:/:opengear",
+	"pid": "3040",
+	"pname": "Opengear コンソールサーバ用ファームウェア",
+	"pcpe": "cpe:/a:opengear:opengear_console_server_firmware"
 }

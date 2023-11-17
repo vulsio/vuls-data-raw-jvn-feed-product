@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "38296",
-  "pname": "Intel NUC Kit NUC8i7HVK",
-  "pcpe": "cpe:/o:intel:nuc8i7hvk"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "38296",
+	"pname": "Intel NUC Kit NUC8i7HVK",
+	"pcpe": "cpe:/o:intel:nuc8i7hvk"
 }

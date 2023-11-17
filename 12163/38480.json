@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38480",
-  "pname": "Self-Organizing Swarm Plug-in Modules",
-  "pcpe": "cpe:/a:jenkins:self-organizing_swarm_modules"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38480",
+	"pname": "Self-Organizing Swarm Plug-in Modules",
+	"pcpe": "cpe:/a:jenkins:self-organizing_swarm_modules"
 }

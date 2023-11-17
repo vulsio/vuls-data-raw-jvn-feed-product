@@ -1,8 +1,8 @@
 {
-  "vid": "9329",
-  "vname": "Sierra Wireless",
-  "vcpe": "cpe:/:sierra_wireless",
-  "pid": "19152",
-  "pname": "Raven X EV-DO",
-  "pcpe": "cpe:/h:sierra_wireless:raven_x_ev-do"
+	"vid": "9329",
+	"vname": "Sierra Wireless",
+	"vcpe": "cpe:/:sierra_wireless",
+	"pid": "19152",
+	"pname": "Raven X EV-DO",
+	"pcpe": "cpe:/h:sierra_wireless:raven_x_ev-do"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "21320",
-  "pname": "Teiid",
-  "pcpe": "cpe:/a:redhat:teiid"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "21320",
+	"pname": "Teiid",
+	"pcpe": "cpe:/a:redhat:teiid"
 }

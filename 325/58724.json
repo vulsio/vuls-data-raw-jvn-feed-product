@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58724",
-  "pname": "thinkpad t560 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_t560_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58724",
+	"pname": "thinkpad t560 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_t560_firmware"
 }

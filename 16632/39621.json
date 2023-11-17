@@ -1,8 +1,8 @@
 {
-  "vid": "16632",
-  "vname": "DGLogik, Inc",
-  "vcpe": "cpe:/:dglogik",
-  "pid": "39621",
-  "pname": "DGLux Server",
-  "pcpe": "cpe:/a:dglogik:dglux_server"
+	"vid": "16632",
+	"vname": "DGLogik, Inc",
+	"vcpe": "cpe:/:dglogik",
+	"pid": "39621",
+	"pname": "DGLux Server",
+	"pcpe": "cpe:/a:dglogik:dglux_server"
 }

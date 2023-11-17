@@ -1,8 +1,8 @@
 {
-  "vid": "10112",
-  "vname": "Huntington National Bank",
-  "vcpe": "cpe:/:huntington",
-  "pid": "21215",
-  "pname": "Huntington Mobile",
-  "pcpe": "cpe:/a:huntington:huntington_mobile"
+	"vid": "10112",
+	"vname": "Huntington National Bank",
+	"vcpe": "cpe:/:huntington",
+	"pid": "21215",
+	"pname": "Huntington Mobile",
+	"pcpe": "cpe:/a:huntington:huntington_mobile"
 }

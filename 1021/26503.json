@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "26503",
-  "pname": "OpenStack Ironic",
-  "pcpe": "cpe:/a:openstack:ironic"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "26503",
+	"pname": "OpenStack Ironic",
+	"pcpe": "cpe:/a:openstack:ironic"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "24467",
-  "pname": "QFX3600",
-  "pcpe": "cpe:/h:juniper:qfx3600"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "24467",
+	"pname": "QFX3600",
+	"pcpe": "cpe:/h:juniper:qfx3600"
 }

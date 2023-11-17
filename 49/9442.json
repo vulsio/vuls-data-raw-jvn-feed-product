@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "9442",
-  "pname": "GNU libiberty",
-  "pcpe": "cpe:/a:gnu:libiberty"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "9442",
+	"pname": "GNU libiberty",
+	"pcpe": "cpe:/a:gnu:libiberty"
 }

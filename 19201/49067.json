@@ -1,8 +1,8 @@
 {
-  "vid": "19201",
-  "vname": "株式会社ジェイテクト",
-  "vcpe": "cpe:/:jtekt",
-  "pid": "49067",
-  "pname": "Nano Safety TUC-1085 ファームウェア",
-  "pcpe": "cpe:/o:jtekt:nano_safety_tuc-1085_firmware"
+	"vid": "19201",
+	"vname": "株式会社ジェイテクト",
+	"vcpe": "cpe:/:jtekt",
+	"pid": "49067",
+	"pname": "Nano Safety TUC-1085 ファームウェア",
+	"pcpe": "cpe:/o:jtekt:nano_safety_tuc-1085_firmware"
 }

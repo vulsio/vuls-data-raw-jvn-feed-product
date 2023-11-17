@@ -1,8 +1,8 @@
 {
-  "vid": "15900",
-  "vname": "Guardzilla",
-  "vcpe": "cpe:/:guardzilla",
-  "pid": "37555",
-  "pname": "GZ621W ファームウェア",
-  "pcpe": "cpe:/o:guardzilla:gz621w_firmware"
+	"vid": "15900",
+	"vname": "Guardzilla",
+	"vcpe": "cpe:/:guardzilla",
+	"pid": "37555",
+	"pname": "GZ621W ファームウェア",
+	"pcpe": "cpe:/o:guardzilla:gz621w_firmware"
 }

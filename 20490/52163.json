@@ -1,8 +1,8 @@
 {
-  "vid": "20490",
-  "vname": "uBlock Origin",
-  "vcpe": "cpe:/:ublockorigin",
-  "pid": "52163",
-  "pname": "uBlock Origin",
-  "pcpe": "cpe:/a:ublockorigin:ublock_origin"
+	"vid": "20490",
+	"vname": "uBlock Origin",
+	"vcpe": "cpe:/:ublockorigin",
+	"pid": "52163",
+	"pname": "uBlock Origin",
+	"pcpe": "cpe:/a:ublockorigin:ublock_origin"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "56448",
-  "pname": "PNI800 ファームウェア",
-  "pcpe": "cpe:/o:abb:pni800_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "56448",
+	"pname": "PNI800 ファームウェア",
+	"pcpe": "cpe:/o:abb:pni800_firmware"
 }

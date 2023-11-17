@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "11388",
-  "pname": "McAfee SecurityShield for Microsoft ISA Server",
-  "pcpe": "cpe:/a:mcafee:securityshield_for_microsoft_isa_server"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "11388",
+	"pname": "McAfee SecurityShield for Microsoft ISA Server",
+	"pcpe": "cpe:/a:mcafee:securityshield_for_microsoft_isa_server"
 }

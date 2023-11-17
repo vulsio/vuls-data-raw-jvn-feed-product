@@ -1,8 +1,8 @@
 {
-  "vid": "13309",
-  "vname": "MitraStar Technology Corp.",
-  "vcpe": "cpe:/:mitrastar",
-  "pid": "31103",
-  "pname": "GPT-2541GNAC ファームウェア",
-  "pcpe": "cpe:/o:mitrastar:dsl-100hn-t1_firmware"
+	"vid": "13309",
+	"vname": "MitraStar Technology Corp.",
+	"vcpe": "cpe:/:mitrastar",
+	"pid": "31103",
+	"pname": "GPT-2541GNAC ファームウェア",
+	"pcpe": "cpe:/o:mitrastar:dsl-100hn-t1_firmware"
 }

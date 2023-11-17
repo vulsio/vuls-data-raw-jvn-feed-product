@@ -1,8 +1,8 @@
 {
-  "vid": "23483",
-  "vname": "nestjs-proxy project",
-  "vcpe": "cpe:/:nestjs-proxy_project",
-  "pid": "60871",
-  "pname": "nestjs-proxy",
-  "pcpe": "cpe:/a:nestjs-proxy_project:nestjs-proxy"
+	"vid": "23483",
+	"vname": "nestjs-proxy project",
+	"vcpe": "cpe:/:nestjs-proxy_project",
+	"pid": "60871",
+	"pname": "nestjs-proxy",
+	"pcpe": "cpe:/a:nestjs-proxy_project:nestjs-proxy"
 }

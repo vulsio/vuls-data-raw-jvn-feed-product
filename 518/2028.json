@@ -1,8 +1,8 @@
 {
-  "vid": "518",
-  "vname": "Xine",
-  "vcpe": "cpe:/:xine",
-  "pid": "2028",
-  "pname": "xine-lib",
-  "pcpe": "cpe:/a:xine:xine-lib"
+	"vid": "518",
+	"vname": "Xine",
+	"vcpe": "cpe:/:xine",
+	"pid": "2028",
+	"pname": "xine-lib",
+	"pcpe": "cpe:/a:xine:xine-lib"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "4932",
-  "pname": "pix security appliance",
-  "pcpe": "cpe:/h:cisco:pix_security_appliance"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "4932",
+	"pname": "pix security appliance",
+	"pcpe": "cpe:/h:cisco:pix_security_appliance"
 }

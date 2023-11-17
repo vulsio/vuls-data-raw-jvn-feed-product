@@ -1,8 +1,8 @@
 {
-  "vid": "20311",
-  "vname": "NIMBLE project",
-  "vcpe": "cpe:/:nimble-project",
-  "pid": "51811",
-  "pname": "Common",
-  "pcpe": "cpe:/a:nimble-project:common"
+	"vid": "20311",
+	"vname": "NIMBLE project",
+	"vcpe": "cpe:/:nimble-project",
+	"pid": "51811",
+	"pname": "Common",
+	"pcpe": "cpe:/a:nimble-project:common"
 }

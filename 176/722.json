@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "722",
-  "pname": "ルーター",
-  "pcpe": "cpe:/h:allied_telesis_k.k.:router"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "722",
+	"pname": "ルーター",
+	"pcpe": "cpe:/h:allied_telesis_k.k.:router"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "43119",
-  "pname": "Eagle Tester",
-  "pcpe": "cpe:/a:jenkins:eagle_tester"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "43119",
+	"pname": "Eagle Tester",
+	"pcpe": "cpe:/a:jenkins:eagle_tester"
 }

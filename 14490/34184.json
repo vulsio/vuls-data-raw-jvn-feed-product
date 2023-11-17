@@ -1,8 +1,8 @@
 {
-  "vid": "14490",
-  "vname": "Riot.js",
-  "vcpe": "cpe:/:riot.js",
-  "pid": "34184",
-  "pname": "riot-compiler",
-  "pcpe": "cpe:/a:riot.js:riot-compiler"
+	"vid": "14490",
+	"vname": "Riot.js",
+	"vcpe": "cpe:/:riot.js",
+	"pid": "34184",
+	"pname": "riot-compiler",
+	"pcpe": "cpe:/a:riot.js:riot-compiler"
 }

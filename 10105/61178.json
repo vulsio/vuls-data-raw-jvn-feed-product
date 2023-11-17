@@ -1,8 +1,8 @@
 {
-  "vid": "10105",
-  "vname": "IObit",
-  "vcpe": "cpe:/:iobit",
-  "pid": "61178",
-  "pname": "advanced system care",
-  "pcpe": "cpe:/a:iobit:advanced_system_care"
+	"vid": "10105",
+	"vname": "IObit",
+	"vcpe": "cpe:/:iobit",
+	"pid": "61178",
+	"pname": "advanced system care",
+	"pcpe": "cpe:/a:iobit:advanced_system_care"
 }

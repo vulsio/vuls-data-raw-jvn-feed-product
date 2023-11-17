@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "42114",
-  "pname": "SQL Server 2019 Reporting Services",
-  "pcpe": "cpe:/a:microsoft:sql_server_2019_reporting_services"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "42114",
+	"pname": "SQL Server 2019 Reporting Services",
+	"pcpe": "cpe:/a:microsoft:sql_server_2019_reporting_services"
 }

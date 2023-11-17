@@ -1,8 +1,8 @@
 {
-  "vid": "1806",
-  "vname": "東芝テック",
-  "vcpe": "cpe:/:toshibatec",
-  "pid": "17394",
-  "pname": "e-STUDIO 850",
-  "pcpe": "cpe:/h:toshibatec:e-studio-850"
+	"vid": "1806",
+	"vname": "東芝テック",
+	"vcpe": "cpe:/:toshibatec",
+	"pid": "17394",
+	"pname": "e-STUDIO 850",
+	"pcpe": "cpe:/h:toshibatec:e-studio-850"
 }

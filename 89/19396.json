@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "19396",
-  "pname": "IP38X/1000",
-  "pcpe": "cpe:/h:nec:ip38x_1000"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "19396",
+	"pname": "IP38X/1000",
+	"pcpe": "cpe:/h:nec:ip38x_1000"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21628",
-  "vname": "WP Swings",
-  "vcpe": "cpe:/:wpswings",
-  "pid": "58217",
-  "pname": "Membership For WooCommerce",
-  "pcpe": "cpe:/a:wpswings:membership_for_woocommerce"
+	"vid": "21628",
+	"vname": "WP Swings",
+	"vcpe": "cpe:/:wpswings",
+	"pid": "58217",
+	"pname": "Membership For WooCommerce",
+	"pcpe": "cpe:/a:wpswings:membership_for_woocommerce"
 }

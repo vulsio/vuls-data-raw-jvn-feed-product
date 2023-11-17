@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "29995",
-  "pname": "OnCommand API Services",
-  "pcpe": "cpe:/a:netapp:oncommand_api"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "29995",
+	"pname": "OnCommand API Services",
+	"pcpe": "cpe:/a:netapp:oncommand_api"
 }

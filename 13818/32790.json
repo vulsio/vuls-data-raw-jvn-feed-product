@@ -1,8 +1,8 @@
 {
-  "vid": "13818",
-  "vname": "ルートロン",
-  "vcpe": "cpe:/:lutron",
-  "pid": "32790",
-  "pname": "Quantum BACnet Integration ファームウェア",
-  "pcpe": "cpe:/o:lutron:quantum_bacnet_integration_firmware"
+	"vid": "13818",
+	"vname": "ルートロン",
+	"vcpe": "cpe:/:lutron",
+	"pid": "32790",
+	"pname": "Quantum BACnet Integration ファームウェア",
+	"pcpe": "cpe:/o:lutron:quantum_bacnet_integration_firmware"
 }

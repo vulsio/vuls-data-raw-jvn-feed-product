@@ -1,8 +1,8 @@
 {
-  "vid": "13471",
-  "vname": "Ivanti",
-  "vcpe": "cpe:/:ivanti",
-  "pid": "56286",
-  "pname": "Service Manager",
-  "pcpe": "cpe:/a:ivanti:service_manager"
+	"vid": "13471",
+	"vname": "Ivanti",
+	"vcpe": "cpe:/:ivanti",
+	"pid": "56286",
+	"pname": "Service Manager",
+	"pcpe": "cpe:/a:ivanti:service_manager"
 }

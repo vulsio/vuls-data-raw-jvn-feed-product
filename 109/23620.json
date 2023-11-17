@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "23620",
-  "pname": "Systemwalker Desktop Keeper",
-  "pcpe": "cpe:/a:fujitsu:systemwalker_desktop_keeper"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "23620",
+	"pname": "Systemwalker Desktop Keeper",
+	"pcpe": "cpe:/a:fujitsu:systemwalker_desktop_keeper"
 }

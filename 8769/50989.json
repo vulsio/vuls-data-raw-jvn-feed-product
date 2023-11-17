@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "50989",
-  "pname": "Roon Server",
-  "pcpe": "cpe:/a:qnap:roon_server"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "50989",
+	"pname": "Roon Server",
+	"pcpe": "cpe:/a:qnap:roon_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30234",
-  "pname": "ThinkCentre E74 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_e74_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30234",
+	"pname": "ThinkCentre E74 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_e74_firmware"
 }

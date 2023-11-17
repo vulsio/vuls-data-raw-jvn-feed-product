@@ -1,8 +1,8 @@
 {
-  "vid": "17905",
-  "vname": "Gluu, Inc.",
-  "vcpe": "cpe:/:gluu",
-  "pid": "43246",
-  "pname": "Gluu Server",
-  "pcpe": "cpe:/a:gluu:gluu_server"
+	"vid": "17905",
+	"vname": "Gluu, Inc.",
+	"vcpe": "cpe:/:gluu",
+	"pid": "43246",
+	"pname": "Gluu Server",
+	"pcpe": "cpe:/a:gluu:gluu_server"
 }

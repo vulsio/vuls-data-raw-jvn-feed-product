@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "54993",
-  "pname": "RBS350 ファームウェア",
-  "pcpe": "cpe:/o:netgear:rbs350_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "54993",
+	"pname": "RBS350 ファームウェア",
+	"pcpe": "cpe:/o:netgear:rbs350_firmware"
 }

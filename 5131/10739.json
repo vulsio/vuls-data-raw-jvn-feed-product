@@ -1,8 +1,8 @@
 {
-  "vid": "5131",
-  "vname": "karjasoft",
-  "vcpe": "cpe:/:karjasoft",
-  "pid": "10739",
-  "pname": "sami ftp server",
-  "pcpe": "cpe:/a:karjasoft:sami_ftp_server"
+	"vid": "5131",
+	"vname": "karjasoft",
+	"vcpe": "cpe:/:karjasoft",
+	"pid": "10739",
+	"pname": "sami ftp server",
+	"pcpe": "cpe:/a:karjasoft:sami_ftp_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "31315",
-  "pname": "Cisco HyperFlex",
-  "pcpe": "cpe:/o:cisco:hyperflex_hx_data_platform"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "31315",
+	"pname": "Cisco HyperFlex",
+	"pcpe": "cpe:/o:cisco:hyperflex_hx_data_platform"
 }

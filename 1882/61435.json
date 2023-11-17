@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "61435",
-  "pname": "zxen cg200 ファームウェア",
-  "pcpe": "cpe:/o:zte:zxen_cg200_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "61435",
+	"pname": "zxen cg200 ファームウェア",
+	"pcpe": "cpe:/o:zte:zxen_cg200_firmware"
 }

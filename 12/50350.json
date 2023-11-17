@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "50350",
-  "pname": "Trend Micro Home Network Security",
-  "pcpe": "cpe:/a:trendmicro:home_network_security"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "50350",
+	"pname": "Trend Micro Home Network Security",
+	"pcpe": "cpe:/a:trendmicro:home_network_security"
 }

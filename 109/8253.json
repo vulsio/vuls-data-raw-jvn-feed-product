@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "8253",
-  "pname": "interstage smart repository",
-  "pcpe": "cpe:/a:fujitsu:interstage_smart_repository"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "8253",
+	"pname": "interstage smart repository",
+	"pcpe": "cpe:/a:fujitsu:interstage_smart_repository"
 }

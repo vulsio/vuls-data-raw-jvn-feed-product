@@ -1,8 +1,8 @@
 {
-  "vid": "5330",
-  "vname": "linksnet",
-  "vcpe": "cpe:/:linksnet",
-  "pid": "11010",
-  "pname": "newsfeed",
-  "pcpe": "cpe:/a:linksnet:newsfeed"
+	"vid": "5330",
+	"vname": "linksnet",
+	"vcpe": "cpe:/:linksnet",
+	"pid": "11010",
+	"pname": "newsfeed",
+	"pcpe": "cpe:/a:linksnet:newsfeed"
 }

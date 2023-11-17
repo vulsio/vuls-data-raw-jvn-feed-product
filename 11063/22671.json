@@ -1,8 +1,8 @@
 {
-  "vid": "11063",
-  "vname": "pdc",
-  "vcpe": "cpe:/:pdc",
-  "pid": "22671",
-  "pname": "disaster alert",
-  "pcpe": "cpe:/a:pdc:disaster_alert"
+	"vid": "11063",
+	"vname": "pdc",
+	"vcpe": "cpe:/:pdc",
+	"pid": "22671",
+	"pname": "disaster alert",
+	"pcpe": "cpe:/a:pdc:disaster_alert"
 }

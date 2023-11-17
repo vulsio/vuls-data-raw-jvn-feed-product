@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "21176",
-  "pname": "IBM Flex System Fabric SI4093 System Interconnect Module",
-  "pcpe": "cpe:/h:ibm:system_networking_rackswitch__si4093"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "21176",
+	"pname": "IBM Flex System Fabric SI4093 System Interconnect Module",
+	"pcpe": "cpe:/h:ibm:system_networking_rackswitch__si4093"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6578",
-  "vname": "inclind",
-  "vcpe": "cpe:/:inclind",
-  "pid": "13204",
-  "pname": "Custom Publishing Options",
-  "pcpe": "cpe:/a:inclind:custom_pub"
+	"vid": "6578",
+	"vname": "inclind",
+	"vcpe": "cpe:/:inclind",
+	"pid": "13204",
+	"pname": "Custom Publishing Options",
+	"pcpe": "cpe:/a:inclind:custom_pub"
 }

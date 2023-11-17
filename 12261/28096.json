@@ -1,8 +1,8 @@
 {
-  "vid": "12261",
-  "vname": "地方公共団体情報システム機構",
-  "vcpe": "cpe:/:j-lis",
-  "pid": "28096",
-  "pname": "個人番号カード対応版券面事項表示ソフトウェア",
-  "pcpe": "cpe:/a:j-lis:j-lis_individual_number_card_information_display_software"
+	"vid": "12261",
+	"vname": "地方公共団体情報システム機構",
+	"vcpe": "cpe:/:j-lis",
+	"pid": "28096",
+	"pname": "個人番号カード対応版券面事項表示ソフトウェア",
+	"pcpe": "cpe:/a:j-lis:j-lis_individual_number_card_information_display_software"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "1613",
-  "pname": "x900-12XT/S",
-  "pcpe": "cpe:/h:allied_telesis_k.k.:x900-12xts"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "1613",
+	"pname": "x900-12XT/S",
+	"pcpe": "cpe:/h:allied_telesis_k.k.:x900-12xts"
 }

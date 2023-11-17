@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "26127",
-  "pname": "ubuntu-core-launcher",
-  "pcpe": "cpe:/a:canonical:ubuntu-core-launcher"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "26127",
+	"pname": "ubuntu-core-launcher",
+	"pcpe": "cpe:/a:canonical:ubuntu-core-launcher"
 }

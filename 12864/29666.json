@@ -1,8 +1,8 @@
 {
-  "vid": "12864",
-  "vname": "xar project",
-  "vcpe": "cpe:/:xar_project",
-  "pid": "29666",
-  "pname": "xar",
-  "pcpe": "cpe:/a:xar_project:xar"
+	"vid": "12864",
+	"vname": "xar project",
+	"vcpe": "cpe:/:xar_project",
+	"pid": "29666",
+	"pname": "xar",
+	"pcpe": "cpe:/a:xar_project:xar"
 }

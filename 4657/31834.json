@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31834",
-  "pname": "RP200 ファームウェア",
-  "pcpe": "cpe:/o:huawei:rp200_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31834",
+	"pname": "RP200 ファームウェア",
+	"pcpe": "cpe:/o:huawei:rp200_firmware"
 }

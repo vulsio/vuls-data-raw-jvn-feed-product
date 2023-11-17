@@ -1,8 +1,8 @@
 {
-  "vid": "9699",
-  "vname": "isync-devel",
-  "vcpe": "cpe:/:isync-devel",
-  "pid": "20188",
-  "pname": "Isync",
-  "pcpe": "cpe:/a:isync-devel:isync"
+	"vid": "9699",
+	"vname": "isync-devel",
+	"vcpe": "cpe:/:isync-devel",
+	"pid": "20188",
+	"pname": "Isync",
+	"pcpe": "cpe:/a:isync-devel:isync"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10180",
-  "vname": "macdonaldgeek",
-  "vcpe": "cpe:/:restaurantmis",
-  "pid": "21321",
-  "pname": "Restaurant Script",
-  "pcpe": "cpe:/a:restaurantmis:restaurant_script"
+	"vid": "10180",
+	"vname": "macdonaldgeek",
+	"vcpe": "cpe:/:restaurantmis",
+	"pid": "21321",
+	"pname": "Restaurant Script",
+	"pcpe": "cpe:/a:restaurantmis:restaurant_script"
 }

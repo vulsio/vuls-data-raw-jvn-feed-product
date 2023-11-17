@@ -1,8 +1,8 @@
 {
-  "vid": "4926",
-  "vname": "jax scripts",
-  "vcpe": "cpe:/:jax_scripts",
-  "pid": "10365",
-  "pname": "jax linklists",
-  "pcpe": "cpe:/a:jax_scripts:jax_linklists"
+	"vid": "4926",
+	"vname": "jax scripts",
+	"vcpe": "cpe:/:jax_scripts",
+	"pid": "10365",
+	"pname": "jax linklists",
+	"pcpe": "cpe:/a:jax_scripts:jax_linklists"
 }

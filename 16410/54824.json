@@ -1,8 +1,8 @@
 {
-  "vid": "16410",
-  "vname": "Auerswald",
-  "vcpe": "cpe:/:auerswald",
-  "pid": "54824",
-  "pname": "COMmander 6000RX IP ファームウェア",
-  "pcpe": "cpe:/o:auerswald:commander_6000rx_ip_firmware"
+	"vid": "16410",
+	"vname": "Auerswald",
+	"vcpe": "cpe:/:auerswald",
+	"pid": "54824",
+	"pname": "COMmander 6000RX IP ファームウェア",
+	"pcpe": "cpe:/o:auerswald:commander_6000rx_ip_firmware"
 }

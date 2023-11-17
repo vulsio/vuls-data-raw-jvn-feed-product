@@ -1,8 +1,8 @@
 {
-  "vid": "20527",
-  "vname": "NetModule",
-  "vcpe": "cpe:/:netmodule",
-  "pid": "52246",
-  "pname": "NB2710 ファームウェア",
-  "pcpe": "cpe:/o:netmodule:nb2710_firmware"
+	"vid": "20527",
+	"vname": "NetModule",
+	"vcpe": "cpe:/:netmodule",
+	"pid": "52246",
+	"pname": "NB2710 ファームウェア",
+	"pcpe": "cpe:/o:netmodule:nb2710_firmware"
 }

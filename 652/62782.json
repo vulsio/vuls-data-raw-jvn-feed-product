@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "62782",
-  "pname": "tizenrt",
-  "pcpe": "cpe:/o:samsung:tizenrt"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "62782",
+	"pname": "tizenrt",
+	"pcpe": "cpe:/o:samsung:tizenrt"
 }

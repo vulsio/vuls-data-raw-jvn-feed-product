@@ -1,8 +1,8 @@
 {
-  "vid": "5637",
-  "vname": "マイクロフォーカス株式会社",
-  "vcpe": "cpe:/:microfocus",
-  "pid": "45174",
-  "pname": "ArcSight Enterprise Security Manager",
-  "pcpe": "cpe:/a:microfocus:arcsight_enterprise_security_manager_express"
+	"vid": "5637",
+	"vname": "マイクロフォーカス株式会社",
+	"vcpe": "cpe:/:microfocus",
+	"pid": "45174",
+	"pname": "ArcSight Enterprise Security Manager",
+	"pcpe": "cpe:/a:microfocus:arcsight_enterprise_security_manager_express"
 }

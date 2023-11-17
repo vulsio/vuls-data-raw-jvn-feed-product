@@ -1,8 +1,8 @@
 {
-  "vid": "12190",
-  "vname": "NUUO INC.",
-  "vcpe": "cpe:/:nuuo",
-  "pid": "26777",
-  "pname": "NUUO NVRsolo ファームウェア",
-  "pcpe": "cpe:/o:nuuo:nvrsolo"
+	"vid": "12190",
+	"vname": "NUUO INC.",
+	"vcpe": "cpe:/:nuuo",
+	"pid": "26777",
+	"pname": "NUUO NVRsolo ファームウェア",
+	"pcpe": "cpe:/o:nuuo:nvrsolo"
 }

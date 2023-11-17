@@ -1,8 +1,8 @@
 {
-  "vid": "4172",
-  "vname": "aten",
-  "vcpe": "cpe:/:aten",
-  "pid": "8744",
-  "pname": "kn9116 ip kvm switch",
-  "pcpe": "cpe:/h:aten:kn9116_ip_kvm_switch"
+	"vid": "4172",
+	"vname": "aten",
+	"vcpe": "cpe:/:aten",
+	"pid": "8744",
+	"pname": "kn9116 ip kvm switch",
+	"pcpe": "cpe:/h:aten:kn9116_ip_kvm_switch"
 }

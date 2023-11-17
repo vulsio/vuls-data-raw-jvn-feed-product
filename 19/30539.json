@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "30539",
-  "pname": "YesQuattro ファームウェア",
-  "pcpe": "cpe:/o:cisco:yesquattro_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "30539",
+	"pname": "YesQuattro ファームウェア",
+	"pcpe": "cpe:/o:cisco:yesquattro_firmware"
 }

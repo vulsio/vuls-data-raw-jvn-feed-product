@@ -1,8 +1,8 @@
 {
-  "vid": "983",
-  "vname": "SafeNet, Inc",
-  "vcpe": "cpe:/:safenet-inc",
-  "pid": "21853",
-  "pname": "safenetmobile pass",
-  "pcpe": "cpe:/a:safenet-inc:safenetmobile_pass"
+	"vid": "983",
+	"vname": "SafeNet, Inc",
+	"vcpe": "cpe:/:safenet-inc",
+	"pid": "21853",
+	"pname": "safenetmobile pass",
+	"pcpe": "cpe:/a:safenet-inc:safenetmobile_pass"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "710",
-  "vname": "NetSaro",
-  "vcpe": "cpe:/:netsaro",
-  "pid": "2945",
-  "pname": "NetSaro Enterprise Messenger",
-  "pcpe": "cpe:/a:netsaro:enterprise_messenger_server"
+	"vid": "710",
+	"vname": "NetSaro",
+	"vcpe": "cpe:/:netsaro",
+	"pid": "2945",
+	"pname": "NetSaro Enterprise Messenger",
+	"pcpe": "cpe:/a:netsaro:enterprise_messenger_server"
 }

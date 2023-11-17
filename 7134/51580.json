@@ -1,8 +1,8 @@
 {
-  "vid": "7134",
-  "vname": "PTC Inc.",
-  "vcpe": "cpe:/:ptc",
-  "pid": "51580",
-  "pname": "Axeda Desktop Server",
-  "pcpe": "cpe:/a:ptc:axeda_desktop_server"
+	"vid": "7134",
+	"vname": "PTC Inc.",
+	"vcpe": "cpe:/:ptc",
+	"pid": "51580",
+	"pname": "Axeda Desktop Server",
+	"pcpe": "cpe:/a:ptc:axeda_desktop_server"
 }

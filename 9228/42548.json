@@ -1,8 +1,8 @@
 {
-  "vid": "9228",
-  "vname": "Thomson Reuters",
-  "vcpe": "cpe:/:thomsonreuters",
-  "pid": "42548",
-  "pname": "FATCA",
-  "pcpe": "cpe:/a:thomsonreuters:fatca"
+	"vid": "9228",
+	"vname": "Thomson Reuters",
+	"vcpe": "cpe:/:thomsonreuters",
+	"pid": "42548",
+	"pname": "FATCA",
+	"pcpe": "cpe:/a:thomsonreuters:fatca"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18235",
-  "vname": "Http-Client project",
-  "vcpe": "cpe:/:http-client_project",
-  "pid": "44667",
-  "pname": "Http-Client",
-  "pcpe": "cpe:/a:http-client_project:http-client"
+	"vid": "18235",
+	"vname": "Http-Client project",
+	"vcpe": "cpe:/:http-client_project",
+	"pid": "44667",
+	"pname": "Http-Client",
+	"pcpe": "cpe:/a:http-client_project:http-client"
 }

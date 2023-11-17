@@ -1,8 +1,8 @@
 {
-  "vid": "13725",
-  "vname": "boot2docker",
-  "vcpe": "cpe:/:boot2docker",
-  "pid": "32526",
-  "pname": "boot2docker",
-  "pcpe": "cpe:/o:boot2docker:boot2docker"
+	"vid": "13725",
+	"vname": "boot2docker",
+	"vcpe": "cpe:/:boot2docker",
+	"pid": "32526",
+	"pname": "boot2docker",
+	"pcpe": "cpe:/o:boot2docker:boot2docker"
 }

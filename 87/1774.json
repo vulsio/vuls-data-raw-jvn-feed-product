@@ -1,8 +1,8 @@
 {
-  "vid": "87",
-  "vname": "futomi",
-  "vcpe": "cpe:/:futomis_cgi_cafe",
-  "pid": "1774",
-  "pname": "高機能アクセス解析CGI Professional版",
-  "pcpe": "cpe:/a:futomis_cgi_cafe:access_analyzer_cgi_professional"
+	"vid": "87",
+	"vname": "futomi",
+	"vcpe": "cpe:/:futomis_cgi_cafe",
+	"pid": "1774",
+	"pname": "高機能アクセス解析CGI Professional版",
+	"pcpe": "cpe:/a:futomis_cgi_cafe:access_analyzer_cgi_professional"
 }

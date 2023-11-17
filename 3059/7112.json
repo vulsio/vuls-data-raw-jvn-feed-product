@@ -1,8 +1,8 @@
 {
-  "vid": "3059",
-  "vname": "dadamailproject",
-  "vcpe": "cpe:/:dadamailproject",
-  "pid": "7112",
-  "pname": "dada mail manager",
-  "pcpe": "cpe:/a:dadamailproject:dada_mail_manager"
+	"vid": "3059",
+	"vname": "dadamailproject",
+	"vcpe": "cpe:/:dadamailproject",
+	"pid": "7112",
+	"pname": "dada mail manager",
+	"pcpe": "cpe:/a:dadamailproject:dada_mail_manager"
 }

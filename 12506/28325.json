@@ -1,8 +1,8 @@
 {
-  "vid": "12506",
-  "vname": "VeronaLabs",
-  "vcpe": "cpe:/:veronalabs",
-  "pid": "28325",
-  "pname": "WP Statistics",
-  "pcpe": "cpe:/a:veronalabs:wp_statistics"
+	"vid": "12506",
+	"vname": "VeronaLabs",
+	"vcpe": "cpe:/:veronalabs",
+	"pid": "28325",
+	"pname": "WP Statistics",
+	"pcpe": "cpe:/a:veronalabs:wp_statistics"
 }

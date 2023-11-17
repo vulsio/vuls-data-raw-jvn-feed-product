@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "53193",
-  "pname": "Multipass",
-  "pcpe": "cpe:/a:canonical:multipass"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "53193",
+	"pname": "Multipass",
+	"pcpe": "cpe:/a:canonical:multipass"
 }

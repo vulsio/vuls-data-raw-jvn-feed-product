@@ -1,8 +1,8 @@
 {
-  "vid": "23516",
-  "vname": "album lock project",
-  "vcpe": "cpe:/:album_lock_project",
-  "pid": "60922",
-  "pname": "album lock",
-  "pcpe": "cpe:/a:album_lock_project:album_lock"
+	"vid": "23516",
+	"vname": "album lock project",
+	"vcpe": "cpe:/:album_lock_project",
+	"pid": "60922",
+	"pname": "album lock",
+	"pcpe": "cpe:/a:album_lock_project:album_lock"
 }

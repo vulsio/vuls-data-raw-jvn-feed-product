@@ -1,8 +1,8 @@
 {
-  "vid": "13078",
-  "vname": "PyJWT project",
-  "vcpe": "cpe:/:pyjwt_project",
-  "pid": "30452",
-  "pname": "PyJWT",
-  "pcpe": "cpe:/a:pyjwt_project:pyjwt"
+	"vid": "13078",
+	"vname": "PyJWT project",
+	"vcpe": "cpe:/:pyjwt_project",
+	"pid": "30452",
+	"pname": "PyJWT",
+	"pcpe": "cpe:/a:pyjwt_project:pyjwt"
 }

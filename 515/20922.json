@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "20922",
-  "pname": "VMware Tools",
-  "pcpe": "cpe:/a:vmware:tools"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "20922",
+	"pname": "VMware Tools",
+	"pcpe": "cpe:/a:vmware:tools"
 }

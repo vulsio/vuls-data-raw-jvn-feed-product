@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "53838",
-  "pname": "WLAE-AG300N ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wlae-ag300n_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "53838",
+	"pname": "WLAE-AG300N ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wlae-ag300n_firmware"
 }

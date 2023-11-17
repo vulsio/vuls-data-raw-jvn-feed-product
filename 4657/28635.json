@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28635",
-  "pname": "Tecal RH5885 V2 ファームウェア",
-  "pcpe": "cpe:/o:huawei:tecal_rh5885_v2_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28635",
+	"pname": "Tecal RH5885 V2 ファームウェア",
+	"pcpe": "cpe:/o:huawei:tecal_rh5885_v2_firmware"
 }

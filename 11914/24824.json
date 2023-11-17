@@ -1,8 +1,8 @@
 {
-  "vid": "11914",
-  "vname": "Checkmarx",
-  "vcpe": "cpe:/:checkmarx",
-  "pid": "24824",
-  "pname": "Checkmarx CxSAST",
-  "pcpe": "cpe:/a:checkmarx:cxsast"
+	"vid": "11914",
+	"vname": "Checkmarx",
+	"vcpe": "cpe:/:checkmarx",
+	"pid": "24824",
+	"pname": "Checkmarx CxSAST",
+	"pcpe": "cpe:/a:checkmarx:cxsast"
 }

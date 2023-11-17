@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "21758",
-  "pname": "Huawei WS860S Honor Cube Wireless Router firewall",
-  "pcpe": "cpe:/o:huawei:honor_cube_wireless_router_ws860s_firewall"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "21758",
+	"pname": "Huawei WS860S Honor Cube Wireless Router firewall",
+	"pcpe": "cpe:/o:huawei:honor_cube_wireless_router_ws860s_firewall"
 }

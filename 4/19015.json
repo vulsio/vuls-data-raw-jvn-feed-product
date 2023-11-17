@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "19015",
-  "pname": "HP LaserJet Pro 300 color Printer M351",
-  "pcpe": "cpe:/h:hp:laserjet_pro_300_color_printer_m351"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "19015",
+	"pname": "HP LaserJet Pro 300 color Printer M351",
+	"pcpe": "cpe:/h:hp:laserjet_pro_300_color_printer_m351"
 }

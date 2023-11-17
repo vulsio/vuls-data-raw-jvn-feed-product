@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "59939",
-  "pname": "broadcast message center",
-  "pcpe": "cpe:/a:nokia:broadcast_message_center"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "59939",
+	"pname": "broadcast message center",
+	"pcpe": "cpe:/a:nokia:broadcast_message_center"
 }

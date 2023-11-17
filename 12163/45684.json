@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "45684",
-  "pname": "Jenkins Deployer Framework",
-  "pcpe": "cpe:/a:jenkins:deployer_framework"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "45684",
+	"pname": "Jenkins Deployer Framework",
+	"pcpe": "cpe:/a:jenkins:deployer_framework"
 }

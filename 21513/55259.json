@@ -1,8 +1,8 @@
 {
-  "vid": "21513",
-  "vname": "Phoronix Media",
-  "vcpe": "cpe:/:phoronix-media",
-  "pid": "55259",
-  "pname": "Phoronix Test Suite",
-  "pcpe": "cpe:/a:phoronix-media:phoronix_test_suite"
+	"vid": "21513",
+	"vname": "Phoronix Media",
+	"vcpe": "cpe:/:phoronix-media",
+	"pid": "55259",
+	"pname": "Phoronix Test Suite",
+	"pcpe": "cpe:/a:phoronix-media:phoronix_test_suite"
 }

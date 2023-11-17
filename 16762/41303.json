@@ -1,8 +1,8 @@
 {
-  "vid": "16762",
-  "vname": "Easy Digital Downloads",
-  "vcpe": "cpe:/:easydigitaldownloads",
-  "pid": "41303",
-  "pname": "Amazon S3",
-  "pcpe": "cpe:/a:easydigitaldownloads:amazon_s3"
+	"vid": "16762",
+	"vname": "Easy Digital Downloads",
+	"vcpe": "cpe:/:easydigitaldownloads",
+	"pid": "41303",
+	"pname": "Amazon S3",
+	"pcpe": "cpe:/a:easydigitaldownloads:amazon_s3"
 }

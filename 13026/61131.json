@@ -1,8 +1,8 @@
 {
-  "vid": "13026",
-  "vname": "Infineon Technologies AG",
-  "vcpe": "cpe:/:infineon",
-  "pid": "61131",
-  "pname": "Cypress Bluetooth Mesh SDK",
-  "pcpe": "cpe:/a:infineon:cypress_bluetooth_mesh_software_development_kit"
+	"vid": "13026",
+	"vname": "Infineon Technologies AG",
+	"vcpe": "cpe:/:infineon",
+	"pid": "61131",
+	"pname": "Cypress Bluetooth Mesh SDK",
+	"pcpe": "cpe:/a:infineon:cypress_bluetooth_mesh_software_development_kit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6966",
-  "vname": "picoflat",
-  "vcpe": "cpe:/:picoflat",
-  "pid": "13853",
-  "pname": "picoflat cms",
-  "pcpe": "cpe:/a:picoflat:picoflat_cms"
+	"vid": "6966",
+	"vname": "picoflat",
+	"vcpe": "cpe:/:picoflat",
+	"pid": "13853",
+	"pname": "picoflat cms",
+	"pcpe": "cpe:/a:picoflat:picoflat_cms"
 }

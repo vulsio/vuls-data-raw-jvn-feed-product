@@ -1,8 +1,8 @@
 {
-  "vid": "16301",
-  "vname": "Optoma",
-  "vcpe": "cpe:/:optoma",
-  "pid": "38462",
-  "pname": "WPS-Pro ファームウェア",
-  "pcpe": "cpe:/o:optoma:wps-pro_firmware"
+	"vid": "16301",
+	"vname": "Optoma",
+	"vcpe": "cpe:/:optoma",
+	"pid": "38462",
+	"pname": "WPS-Pro ファームウェア",
+	"pcpe": "cpe:/o:optoma:wps-pro_firmware"
 }

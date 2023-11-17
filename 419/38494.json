@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "38494",
-  "pname": "Element plug-in for vCenter Server",
-  "pcpe": "cpe:/a:netapp:element_plug-in_for_vcenter_server"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "38494",
+	"pname": "Element plug-in for vCenter Server",
+	"pcpe": "cpe:/a:netapp:element_plug-in_for_vcenter_server"
 }

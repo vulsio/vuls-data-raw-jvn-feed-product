@@ -1,8 +1,8 @@
 {
-  "vid": "1337",
-  "vname": "Alcatel-Lucent",
-  "vcpe": "cpe:/:alcatel-lucent",
-  "pid": "27301",
-  "pname": "OmniVista 8770 Network Management System",
-  "pcpe": "cpe:/a:alcatel-lucent:omnivista_8770_network_management_system"
+	"vid": "1337",
+	"vname": "Alcatel-Lucent",
+	"vcpe": "cpe:/:alcatel-lucent",
+	"pid": "27301",
+	"pname": "OmniVista 8770 Network Management System",
+	"pcpe": "cpe:/a:alcatel-lucent:omnivista_8770_network_management_system"
 }

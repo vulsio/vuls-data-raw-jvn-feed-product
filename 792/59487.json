@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "59487",
-  "pname": "USG FLEX 700 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:usg_flex_700_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "59487",
+	"pname": "USG FLEX 700 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:usg_flex_700_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15900",
-  "vname": "Guardzilla",
-  "vcpe": "cpe:/:guardzilla",
-  "pid": "37597",
-  "pname": "Outdoor HD Camera ファームウェア",
-  "pcpe": "cpe:/o:guardzilla:outdoor_hd_camera_firmware"
+	"vid": "15900",
+	"vname": "Guardzilla",
+	"vcpe": "cpe:/:guardzilla",
+	"pid": "37597",
+	"pname": "Outdoor HD Camera ファームウェア",
+	"pcpe": "cpe:/o:guardzilla:outdoor_hd_camera_firmware"
 }

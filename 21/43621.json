@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "43621",
-  "pname": "SRX5800 ファームウェア",
-  "pcpe": "cpe:/o:juniper:srx5800_firmware"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "43621",
+	"pname": "SRX5800 ファームウェア",
+	"pcpe": "cpe:/o:juniper:srx5800_firmware"
 }

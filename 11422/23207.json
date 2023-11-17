@@ -1,8 +1,8 @@
 {
-  "vid": "11422",
-  "vname": "Tobias Oetiker",
-  "vcpe": "cpe:/:oetiker%2Bpartner_ag",
-  "pid": "23207",
-  "pname": "rrdtool",
-  "pcpe": "cpe:/a:oetiker%2Bpartner_ag:rrdtool"
+	"vid": "11422",
+	"vname": "Tobias Oetiker",
+	"vcpe": "cpe:/:oetiker%2Bpartner_ag",
+	"pid": "23207",
+	"pname": "rrdtool",
+	"pcpe": "cpe:/a:oetiker%2Bpartner_ag:rrdtool"
 }

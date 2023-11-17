@@ -1,8 +1,8 @@
 {
-  "vid": "11677",
-  "vname": "本田技研工業株式会社",
-  "vcpe": "cpe:/:honda",
-  "pid": "24008",
-  "pname": "Android 版アプリ「Honda Moto LINC」",
-  "pcpe": "cpe:/a:honda:moto_linc"
+	"vid": "11677",
+	"vname": "本田技研工業株式会社",
+	"vcpe": "cpe:/:honda",
+	"pid": "24008",
+	"pname": "Android 版アプリ「Honda Moto LINC」",
+	"pcpe": "cpe:/a:honda:moto_linc"
 }

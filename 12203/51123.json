@@ -1,8 +1,8 @@
 {
-  "vid": "12203",
-  "vname": "Nextcloud",
-  "vcpe": "cpe:/:nextcloud",
-  "pid": "51123",
-  "pname": "Nextcloud End-to-End Encryption",
-  "pcpe": "cpe:/a:nextcloud:end-to-end_encryption"
+	"vid": "12203",
+	"vname": "Nextcloud",
+	"vcpe": "cpe:/:nextcloud",
+	"pid": "51123",
+	"pname": "Nextcloud End-to-End Encryption",
+	"pcpe": "cpe:/a:nextcloud:end-to-end_encryption"
 }

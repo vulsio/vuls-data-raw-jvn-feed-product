@@ -1,8 +1,8 @@
 {
-  "vid": "13209",
-  "vname": "Salesforce.com, inc.",
-  "vcpe": "cpe:/:salesforce",
-  "pid": "48358",
-  "pname": "Mule",
-  "pcpe": "cpe:/a:salesforce:mule"
+	"vid": "13209",
+	"vname": "Salesforce.com, inc.",
+	"vcpe": "cpe:/:salesforce",
+	"pid": "48358",
+	"pname": "Mule",
+	"pcpe": "cpe:/a:salesforce:mule"
 }

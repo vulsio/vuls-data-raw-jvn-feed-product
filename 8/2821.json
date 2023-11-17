@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "2821",
-  "pname": "Apache Shiro",
-  "pcpe": "cpe:/a:apache:shiro"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "2821",
+	"pname": "Apache Shiro",
+	"pcpe": "cpe:/a:apache:shiro"
 }

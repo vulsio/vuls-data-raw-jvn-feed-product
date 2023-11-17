@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "36276",
-  "pname": "Toronto-AL00 ファームウェア",
-  "pcpe": "cpe:/o:huawei:toronto-al00_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "36276",
+	"pname": "Toronto-AL00 ファームウェア",
+	"pcpe": "cpe:/o:huawei:toronto-al00_firmware"
 }

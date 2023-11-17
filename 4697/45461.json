@@ -1,8 +1,8 @@
 {
-  "vid": "4697",
-  "vname": "id software",
-  "vcpe": "cpe:/:id_software",
-  "pid": "45461",
-  "pname": "Tech 1",
-  "pcpe": "cpe:/a:id_software:tech_1"
+	"vid": "4697",
+	"vname": "id software",
+	"vcpe": "cpe:/:id_software",
+	"pid": "45461",
+	"pname": "Tech 1",
+	"pcpe": "cpe:/a:id_software:tech_1"
 }

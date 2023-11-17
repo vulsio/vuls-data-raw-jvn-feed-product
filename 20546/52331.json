@@ -1,8 +1,8 @@
 {
-  "vid": "20546",
-  "vname": "XeroSecurity",
-  "vcpe": "cpe:/:xerosecurity",
-  "pid": "52331",
-  "pname": "Sn1per",
-  "pcpe": "cpe:/a:xerosecurity:sn1per"
+	"vid": "20546",
+	"vname": "XeroSecurity",
+	"vcpe": "cpe:/:xerosecurity",
+	"pid": "52331",
+	"pname": "Sn1per",
+	"pcpe": "cpe:/a:xerosecurity:sn1per"
 }

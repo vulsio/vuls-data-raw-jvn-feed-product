@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "43655",
-  "pname": "GTK",
-  "pcpe": "cpe:/a:gnome:gtk"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "43655",
+	"pname": "GTK",
+	"pcpe": "cpe:/a:gnome:gtk"
 }

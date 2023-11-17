@@ -1,8 +1,8 @@
 {
-  "vid": "1439",
-  "vname": "Dropbox",
-  "vcpe": "cpe:/:dropbox",
-  "pid": "30774",
-  "pname": "Dropbox SDK",
-  "pcpe": "cpe:/a:dropbox:dropbox_sdk"
+	"vid": "1439",
+	"vname": "Dropbox",
+	"vcpe": "cpe:/:dropbox",
+	"pid": "30774",
+	"pname": "Dropbox SDK",
+	"pcpe": "cpe:/a:dropbox:dropbox_sdk"
 }

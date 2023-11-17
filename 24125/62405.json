@@ -1,8 +1,8 @@
 {
-  "vid": "24125",
-  "vname": "bund",
-  "vcpe": "cpe:/:bund",
-  "pid": "62405",
-  "pname": "de.fac2",
-  "pcpe": "cpe:/a:bund:de.fac2"
+	"vid": "24125",
+	"vname": "bund",
+	"vcpe": "cpe:/:bund",
+	"pid": "62405",
+	"pname": "de.fac2",
+	"pcpe": "cpe:/a:bund:de.fac2"
 }

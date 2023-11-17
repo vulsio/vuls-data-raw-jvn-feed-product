@@ -1,8 +1,8 @@
 {
-  "vid": "2155",
-  "vname": "AlienVault",
-  "vcpe": "cpe:/:alienvault",
-  "pid": "5697",
-  "pname": "Open Source Security Information Management",
-  "pcpe": "cpe:/a:alienvault:open_source_security_information_management"
+	"vid": "2155",
+	"vname": "AlienVault",
+	"vcpe": "cpe:/:alienvault",
+	"pid": "5697",
+	"pname": "Open Source Security Information Management",
+	"pcpe": "cpe:/a:alienvault:open_source_security_information_management"
 }

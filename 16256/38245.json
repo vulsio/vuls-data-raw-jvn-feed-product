@@ -1,8 +1,8 @@
 {
-  "vid": "16256",
-  "vname": "Uniqkey",
-  "vcpe": "cpe:/:uniqkey",
-  "pid": "38245",
-  "pname": "Uniqkey Password Manager",
-  "pcpe": "cpe:/a:uniqkey:password_manager"
+	"vid": "16256",
+	"vname": "Uniqkey",
+	"vcpe": "cpe:/:uniqkey",
+	"pid": "38245",
+	"pname": "Uniqkey Password Manager",
+	"pcpe": "cpe:/a:uniqkey:password_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "48466",
-  "pname": "Versalink B615 ファームウェア",
-  "pcpe": "cpe:/o:xerox:versalink_b615_firmware"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "48466",
+	"pname": "Versalink B615 ファームウェア",
+	"pcpe": "cpe:/o:xerox:versalink_b615_firmware"
 }

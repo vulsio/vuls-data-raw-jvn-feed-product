@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "59636",
-  "pname": "t2 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:t2_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "59636",
+	"pname": "t2 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:t2_firmware"
 }

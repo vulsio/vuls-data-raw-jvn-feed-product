@@ -1,8 +1,8 @@
 {
-  "vid": "12005",
-  "vname": "Arista Networks, Inc.",
-  "vcpe": "cpe:/:arista",
-  "pid": "50617",
-  "pname": "O-105 ファームウェア",
-  "pcpe": "cpe:/o:arista:o-105_firmware"
+	"vid": "12005",
+	"vname": "Arista Networks, Inc.",
+	"vcpe": "cpe:/:arista",
+	"pid": "50617",
+	"pname": "O-105 ファームウェア",
+	"pcpe": "cpe:/o:arista:o-105_firmware"
 }

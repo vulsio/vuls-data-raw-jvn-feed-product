@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53657",
-  "pname": "Oracle Argus Insight",
-  "pcpe": "cpe:/a:oracle:argus_insight"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53657",
+	"pname": "Oracle Argus Insight",
+	"pcpe": "cpe:/a:oracle:argus_insight"
 }

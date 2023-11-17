@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "61557",
-  "pname": "WebSAM IT Process Management",
-  "pcpe": "cpe:/a:nec:websam_it_process_management"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "61557",
+	"pname": "WebSAM IT Process Management",
+	"pcpe": "cpe:/a:nec:websam_it_process_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "728",
-  "vname": "TYPO3 Association",
-  "vcpe": "cpe:/:typo3",
-  "pid": "15686",
-  "pname": "rlmp eventdb",
-  "pcpe": "cpe:/a:typo3:rlmp_eventdb"
+	"vid": "728",
+	"vname": "TYPO3 Association",
+	"vcpe": "cpe:/:typo3",
+	"pid": "15686",
+	"pname": "rlmp eventdb",
+	"pcpe": "cpe:/a:typo3:rlmp_eventdb"
 }

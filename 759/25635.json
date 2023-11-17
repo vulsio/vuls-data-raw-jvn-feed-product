@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "25635",
-  "pname": "UPS SNMP/Web Interface アダプタ ファームウェア",
-  "pcpe": "cpe:/o:ge:ups_snmp_web_adapter_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "25635",
+	"pname": "UPS SNMP/Web Interface アダプタ ファームウェア",
+	"pcpe": "cpe:/o:ge:ups_snmp_web_adapter_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "1307",
-  "pname": "Citrix MetaFrame",
-  "pcpe": "cpe:/a:citrix:metaframe"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "1307",
+	"pname": "Citrix MetaFrame",
+	"pcpe": "cpe:/a:citrix:metaframe"
 }

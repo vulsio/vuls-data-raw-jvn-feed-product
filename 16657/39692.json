@@ -1,8 +1,8 @@
 {
-  "vid": "16657",
-  "vname": "serde_yaml project",
-  "vcpe": "cpe:/:serde-yaml_project",
-  "pid": "39692",
-  "pname": "serde_yaml",
-  "pcpe": "cpe:/a:serde-yaml_project:serde-yaml"
+	"vid": "16657",
+	"vname": "serde_yaml project",
+	"vcpe": "cpe:/:serde-yaml_project",
+	"pid": "39692",
+	"pname": "serde_yaml",
+	"pcpe": "cpe:/a:serde-yaml_project:serde-yaml"
 }

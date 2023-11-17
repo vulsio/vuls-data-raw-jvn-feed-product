@@ -1,8 +1,8 @@
 {
-  "vid": "16631",
-  "vname": "OpenModelica",
-  "vcpe": "cpe:/:openmodelica",
-  "pid": "39620",
-  "pname": "OMCompiler",
-  "pcpe": "cpe:/a:openmodelica:omcompiler"
+	"vid": "16631",
+	"vname": "OpenModelica",
+	"vcpe": "cpe:/:openmodelica",
+	"pid": "39620",
+	"pname": "OMCompiler",
+	"pcpe": "cpe:/a:openmodelica:omcompiler"
 }

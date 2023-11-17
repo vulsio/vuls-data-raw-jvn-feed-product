@@ -1,8 +1,8 @@
 {
-  "vid": "15315",
-  "vname": "Agiletestware",
-  "vcpe": "cpe:/:agiletestware",
-  "pid": "35530",
-  "pname": "Pangolin Connector for TestRail",
-  "pcpe": "cpe:/a:agiletestware:pangolin_connector_for_testrail"
+	"vid": "15315",
+	"vname": "Agiletestware",
+	"vcpe": "cpe:/:agiletestware",
+	"pid": "35530",
+	"pname": "Pangolin Connector for TestRail",
+	"pcpe": "cpe:/a:agiletestware:pangolin_connector_for_testrail"
 }

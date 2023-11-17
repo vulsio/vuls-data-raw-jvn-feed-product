@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "15551",
-  "pname": "client server messaging suite",
-  "pcpe": "cpe:/a:trendmicro:client_server_messaging_suite"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "15551",
+	"pname": "client server messaging suite",
+	"pcpe": "cpe:/a:trendmicro:client_server_messaging_suite"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2415",
-  "vname": "アクシスコミュニケーションズ",
-  "vcpe": "cpe:/:axis",
-  "pid": "8759",
-  "pname": "207w network camera",
-  "pcpe": "cpe:/h:axis:207w_network_camera"
+	"vid": "2415",
+	"vname": "アクシスコミュニケーションズ",
+	"vcpe": "cpe:/:axis",
+	"pid": "8759",
+	"pname": "207w network camera",
+	"pcpe": "cpe:/h:axis:207w_network_camera"
 }

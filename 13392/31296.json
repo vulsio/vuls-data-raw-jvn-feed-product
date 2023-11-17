@@ -1,8 +1,8 @@
 {
-  "vid": "13392",
-  "vname": "Teluu Ltd.",
-  "vcpe": "cpe:/:teluu",
-  "pid": "31296",
-  "pname": "PJSIP",
-  "pcpe": "cpe:/a:teluu:pjsip"
+	"vid": "13392",
+	"vname": "Teluu Ltd.",
+	"vcpe": "cpe:/:teluu",
+	"pid": "31296",
+	"pname": "PJSIP",
+	"pcpe": "cpe:/a:teluu:pjsip"
 }

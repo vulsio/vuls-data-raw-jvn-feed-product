@@ -1,8 +1,8 @@
 {
-  "vid": "1723",
-  "vname": "SonicWALL",
-  "vcpe": "cpe:/:sonicwall",
-  "pid": "61922",
-  "pname": "sws12-10fpoe ファームウェア",
-  "pcpe": "cpe:/o:sonicwall:sws12-10fpoe_firmware"
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "61922",
+	"pname": "sws12-10fpoe ファームウェア",
+	"pcpe": "cpe:/o:sonicwall:sws12-10fpoe_firmware"
 }

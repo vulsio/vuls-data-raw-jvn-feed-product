@@ -1,8 +1,8 @@
 {
-  "vid": "218",
-  "vname": "ヤマハ",
-  "vcpe": "cpe:/:yamaha",
-  "pid": "1293",
-  "pname": "RTV シリーズ",
-  "pcpe": "cpe:/h:yamaha:rtv"
+	"vid": "218",
+	"vname": "ヤマハ",
+	"vcpe": "cpe:/:yamaha",
+	"pid": "1293",
+	"pname": "RTV シリーズ",
+	"pcpe": "cpe:/h:yamaha:rtv"
 }

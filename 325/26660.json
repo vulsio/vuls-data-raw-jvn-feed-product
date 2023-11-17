@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "26660",
-  "pname": "Ultraslim ドングル ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ultraslim_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "26660",
+	"pname": "Ultraslim ドングル ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ultraslim_firmware"
 }

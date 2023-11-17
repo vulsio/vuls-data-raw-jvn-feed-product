@@ -1,8 +1,8 @@
 {
-  "vid": "18317",
-  "vname": "Splashtop",
-  "vcpe": "cpe:/:splashtop",
-  "pid": "44927",
-  "pname": "Splashtop Software Updater",
-  "pcpe": "cpe:/a:splashtop:software_updater"
+	"vid": "18317",
+	"vname": "Splashtop",
+	"vcpe": "cpe:/:splashtop",
+	"pid": "44927",
+	"pname": "Splashtop Software Updater",
+	"pcpe": "cpe:/a:splashtop:software_updater"
 }

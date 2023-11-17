@@ -1,8 +1,8 @@
 {
-  "vid": "3554",
-  "vname": "eSyndiCat",
-  "vcpe": "cpe:/:esyndicat",
-  "pid": "7879",
-  "pname": "eSyndiCat Link Exchange",
-  "pcpe": "cpe:/a:esyndicat:esyndicat_link_exchange"
+	"vid": "3554",
+	"vname": "eSyndiCat",
+	"vcpe": "cpe:/:esyndicat",
+	"pid": "7879",
+	"pname": "eSyndiCat Link Exchange",
+	"pcpe": "cpe:/a:esyndicat:esyndicat_link_exchange"
 }

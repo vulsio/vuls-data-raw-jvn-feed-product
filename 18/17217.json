@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17217",
-  "pname": "IBM Connections",
-  "pcpe": "cpe:/a:ibm:connections"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17217",
+	"pname": "IBM Connections",
+	"pcpe": "cpe:/a:ibm:connections"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6276",
-  "vname": "paul marquess",
-  "vcpe": "cpe:/:paul_marquess",
-  "pid": "12502",
-  "pname": "compress-raw-zlib perl module",
-  "pcpe": "cpe:/a:paul_marquess:compress-raw-zlib_perl_module"
+	"vid": "6276",
+	"vname": "paul marquess",
+	"vcpe": "cpe:/:paul_marquess",
+	"pid": "12502",
+	"pname": "compress-raw-zlib perl module",
+	"pcpe": "cpe:/a:paul_marquess:compress-raw-zlib_perl_module"
 }

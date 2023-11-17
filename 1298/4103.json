@@ -1,8 +1,8 @@
 {
-  "vid": "1298",
-  "vname": "Comodo",
-  "vcpe": "cpe:/:comodo",
-  "pid": "4103",
-  "pname": "Comodo Antivirus",
-  "pcpe": "cpe:/a:comodo:comodo_antivirus"
+	"vid": "1298",
+	"vname": "Comodo",
+	"vcpe": "cpe:/:comodo",
+	"pid": "4103",
+	"pname": "Comodo Antivirus",
+	"pcpe": "cpe:/a:comodo:comodo_antivirus"
 }

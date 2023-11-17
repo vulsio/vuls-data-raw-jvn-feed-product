@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "44178",
-  "pname": "Smartax Ma5800 ファームウェア",
-  "pcpe": "cpe:/o:huawei:smartax_ma5800_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "44178",
+	"pname": "Smartax Ma5800 ファームウェア",
+	"pcpe": "cpe:/o:huawei:smartax_ma5800_firmware"
 }

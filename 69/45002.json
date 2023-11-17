@@ -1,8 +1,8 @@
 {
-  "vid": "69",
-  "vname": "kernel.org",
-  "vcpe": "cpe:/:kernel",
-  "pid": "45002",
-  "pname": "SELinux",
-  "pcpe": "cpe:/a:kernel:selinux"
+	"vid": "69",
+	"vname": "kernel.org",
+	"vcpe": "cpe:/:kernel",
+	"pid": "45002",
+	"pname": "SELinux",
+	"pcpe": "cpe:/a:kernel:selinux"
 }

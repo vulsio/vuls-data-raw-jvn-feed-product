@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "64345",
-  "pname": "integration camel for spring boot",
-  "pcpe": "cpe:/a:redhat:integration_camel_for_spring_boot"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "64345",
+	"pname": "integration camel for spring boot",
+	"pcpe": "cpe:/a:redhat:integration_camel_for_spring_boot"
 }

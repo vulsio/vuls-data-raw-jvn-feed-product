@@ -1,8 +1,8 @@
 {
-  "vid": "544",
-  "vname": "Zope Foundation",
-  "vcpe": "cpe:/:zope",
-  "pid": "30762",
-  "pname": "Zope Management Interface",
-  "pcpe": "cpe:/a:zope:zope_management_interface"
+	"vid": "544",
+	"vname": "Zope Foundation",
+	"vcpe": "cpe:/:zope",
+	"pid": "30762",
+	"pname": "Zope Management Interface",
+	"pcpe": "cpe:/a:zope:zope_management_interface"
 }

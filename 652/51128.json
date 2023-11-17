@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "51128",
-  "pname": "Smart Manager",
-  "pcpe": "cpe:/a:samsung:smart_manager"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "51128",
+	"pname": "Smart Manager",
+	"pcpe": "cpe:/a:samsung:smart_manager"
 }

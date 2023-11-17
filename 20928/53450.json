@@ -1,8 +1,8 @@
 {
-  "vid": "20928",
-  "vname": "Steam Group Viewer project",
-  "vcpe": "cpe:/:steam_group_viewer_project",
-  "pid": "53450",
-  "pname": "Steam Group Viewer",
-  "pcpe": "cpe:/a:steam_group_viewer_project:steam_group_viewer"
+	"vid": "20928",
+	"vname": "Steam Group Viewer project",
+	"vcpe": "cpe:/:steam_group_viewer_project",
+	"pid": "53450",
+	"pname": "Steam Group Viewer",
+	"pcpe": "cpe:/a:steam_group_viewer_project:steam_group_viewer"
 }

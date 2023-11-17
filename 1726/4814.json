@@ -1,8 +1,8 @@
 {
-  "vid": "1726",
-  "vname": "Status",
-  "vcpe": "cpe:/:status",
-  "pid": "4814",
-  "pname": "StatusNet",
-  "pcpe": "cpe:/a:status:statusnet"
+	"vid": "1726",
+	"vname": "Status",
+	"vcpe": "cpe:/:status",
+	"pid": "4814",
+	"pname": "StatusNet",
+	"pcpe": "cpe:/a:status:statusnet"
 }

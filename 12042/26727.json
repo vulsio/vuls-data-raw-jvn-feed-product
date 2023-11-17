@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26727",
-  "pname": "HPE Power Advisor",
-  "pcpe": "cpe:/a:hp:power_advisor"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26727",
+	"pname": "HPE Power Advisor",
+	"pcpe": "cpe:/a:hp:power_advisor"
 }

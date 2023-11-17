@@ -1,8 +1,8 @@
 {
-  "vid": "19300",
-  "vname": "deltaflow project",
-  "vcpe": "cpe:/:deltaflow_project",
-  "pid": "48568",
-  "pname": "deltaFlow",
-  "pcpe": "cpe:/a:deltaflow_project:deltaflow"
+	"vid": "19300",
+	"vname": "deltaflow project",
+	"vcpe": "cpe:/:deltaflow_project",
+	"pid": "48568",
+	"pname": "deltaFlow",
+	"pcpe": "cpe:/a:deltaflow_project:deltaflow"
 }

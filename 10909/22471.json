@@ -1,8 +1,8 @@
 {
-  "vid": "10909",
-  "vname": "mobilesoft",
-  "vcpe": "cpe:/:mobilesoft",
-  "pid": "22471",
-  "pname": "meteo belgique",
-  "pcpe": "cpe:/a:mobilesoft:meteo_belgique"
+	"vid": "10909",
+	"vname": "mobilesoft",
+	"vcpe": "cpe:/:mobilesoft",
+	"pid": "22471",
+	"pname": "meteo belgique",
+	"pcpe": "cpe:/a:mobilesoft:meteo_belgique"
 }

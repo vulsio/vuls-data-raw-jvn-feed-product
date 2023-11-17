@@ -1,8 +1,8 @@
 {
-  "vid": "18765",
-  "vname": "FlexSolution, Inc.",
-  "vcpe": "cpe:/:flexsolution",
-  "pid": "46660",
-  "pname": "AlfrescoResetPassword",
-  "pcpe": "cpe:/a:flexsolution:reset_password"
+	"vid": "18765",
+	"vname": "FlexSolution, Inc.",
+	"vcpe": "cpe:/:flexsolution",
+	"pid": "46660",
+	"pname": "AlfrescoResetPassword",
+	"pcpe": "cpe:/a:flexsolution:reset_password"
 }

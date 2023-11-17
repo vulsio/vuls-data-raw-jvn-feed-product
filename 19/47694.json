@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "47694",
-  "pname": "IP DECT 210 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ip_dect_210_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "47694",
+	"pname": "IP DECT 210 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ip_dect_210_firmware"
 }

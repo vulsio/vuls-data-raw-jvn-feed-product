@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18695",
-  "pname": "Cisco Prime Central for Hosted Collaboration Solution",
-  "pcpe": "cpe:/a:cisco:prime_central_for_hosted_collaboration_solution"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18695",
+	"pname": "Cisco Prime Central for Hosted Collaboration Solution",
+	"pcpe": "cpe:/a:cisco:prime_central_for_hosted_collaboration_solution"
 }

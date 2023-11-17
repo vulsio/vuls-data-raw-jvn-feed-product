@@ -1,8 +1,8 @@
 {
-  "vid": "13155",
-  "vname": "ZKTECO CO., LTD.",
-  "vcpe": "cpe:/:zkteco",
-  "pid": "56179",
-  "pname": "ZMM210 ファームウェア",
-  "pcpe": "cpe:/o:zkteco:zmm210_firmware"
+	"vid": "13155",
+	"vname": "ZKTECO CO., LTD.",
+	"vcpe": "cpe:/:zkteco",
+	"pid": "56179",
+	"pname": "ZMM210 ファームウェア",
+	"pcpe": "cpe:/o:zkteco:zmm210_firmware"
 }

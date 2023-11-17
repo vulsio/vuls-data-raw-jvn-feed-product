@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "42746",
-  "pname": "Symantec Endpoint Virtualization",
-  "pcpe": "cpe:/a:symantec:endpoint_virtualization"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "42746",
+	"pname": "Symantec Endpoint Virtualization",
+	"pcpe": "cpe:/a:symantec:endpoint_virtualization"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "46670",
-  "pname": "Apache Cocoon",
-  "pcpe": "cpe:/a:apache:cocoon"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "46670",
+	"pname": "Apache Cocoon",
+	"pcpe": "cpe:/a:apache:cocoon"
 }

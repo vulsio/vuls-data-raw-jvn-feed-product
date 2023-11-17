@@ -1,8 +1,8 @@
 {
-  "vid": "9780",
-  "vname": "NICE Systems",
-  "vcpe": "cpe:/:nice",
-  "pid": "38401",
-  "pname": "Engage",
-  "pcpe": "cpe:/a:nice:engage"
+	"vid": "9780",
+	"vname": "NICE Systems",
+	"vcpe": "cpe:/:nice",
+	"pid": "38401",
+	"pname": "Engage",
+	"pcpe": "cpe:/a:nice:engage"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "545",
-  "vname": "phpspot",
-  "vcpe": "cpe:/:phpspot",
-  "pid": "2191",
-  "pname": "webshot",
-  "pcpe": "cpe:/a:phpspot:webshot"
+	"vid": "545",
+	"vname": "phpspot",
+	"vcpe": "cpe:/:phpspot",
+	"pid": "2191",
+	"pname": "webshot",
+	"pcpe": "cpe:/a:phpspot:webshot"
 }

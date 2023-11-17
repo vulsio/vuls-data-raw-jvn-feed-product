@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "47449",
-  "pname": "Jira Comment",
-  "pcpe": "cpe:/a:atlassian:jira_comment"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "47449",
+	"pname": "Jira Comment",
+	"pcpe": "cpe:/a:atlassian:jira_comment"
 }

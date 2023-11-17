@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "60970",
-  "pname": "opc da server",
-  "pcpe": "cpe:/a:codesys:opc_da_server"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "60970",
+	"pname": "opc da server",
+	"pcpe": "cpe:/a:codesys:opc_da_server"
 }

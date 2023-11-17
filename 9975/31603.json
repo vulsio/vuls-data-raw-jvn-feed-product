@@ -1,8 +1,8 @@
 {
-  "vid": "9975",
-  "vname": "OpenDaylight Project",
-  "vcpe": "cpe:/:opendaylight",
-  "pid": "31603",
-  "pname": "Karaf",
-  "pcpe": "cpe:/a:opendaylight:karaf"
+	"vid": "9975",
+	"vname": "OpenDaylight Project",
+	"vcpe": "cpe:/:opendaylight",
+	"pid": "31603",
+	"pname": "Karaf",
+	"pcpe": "cpe:/a:opendaylight:karaf"
 }

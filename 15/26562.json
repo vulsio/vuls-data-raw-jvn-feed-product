@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26562",
-  "pname": "Primavera P6 Enterprise Project Portfolio Management",
-  "pcpe": "cpe:/a:oracle:primavera_p6_enterprise_project_portfolio_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26562",
+	"pname": "Primavera P6 Enterprise Project Portfolio Management",
+	"pcpe": "cpe:/a:oracle:primavera_p6_enterprise_project_portfolio_management"
 }

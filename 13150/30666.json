@@ -1,8 +1,8 @@
 {
-  "vid": "13150",
-  "vname": "hbgk.net",
-  "vcpe": "cpe:/:hbgk",
-  "pid": "30666",
-  "pname": "HB9220X3 ファームウェア",
-  "pcpe": "cpe:/o:hbgk:hb9220x3_firmware"
+	"vid": "13150",
+	"vname": "hbgk.net",
+	"vcpe": "cpe:/:hbgk",
+	"pid": "30666",
+	"pname": "HB9220X3 ファームウェア",
+	"pcpe": "cpe:/o:hbgk:hb9220x3_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "21327",
-  "pname": "keystonemiddleware",
-  "pcpe": "cpe:/a:openstack:keystonemiddleware"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "21327",
+	"pname": "keystonemiddleware",
+	"pcpe": "cpe:/a:openstack:keystonemiddleware"
 }

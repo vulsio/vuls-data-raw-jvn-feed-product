@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "29280",
-  "pname": "CODESYS WebServer",
-  "pcpe": "cpe:/a:codesys:codesys_web_server"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "29280",
+	"pname": "CODESYS WebServer",
+	"pcpe": "cpe:/a:codesys:codesys_web_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18665",
-  "vname": "Moog Inc.",
-  "vcpe": "cpe:/:moog",
-  "pid": "46191",
-  "pname": "EXO Series EXVF5C-2 ファームウェア",
-  "pcpe": "cpe:/o:moog:exvf5c-2_firmware"
+	"vid": "18665",
+	"vname": "Moog Inc.",
+	"vcpe": "cpe:/:moog",
+	"pid": "46191",
+	"pname": "EXO Series EXVF5C-2 ファームウェア",
+	"pcpe": "cpe:/o:moog:exvf5c-2_firmware"
 }

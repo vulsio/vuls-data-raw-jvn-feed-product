@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "44361",
-  "pname": "SAP OrientDB",
-  "pcpe": "cpe:/a:sap:orientdb"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "44361",
+	"pname": "SAP OrientDB",
+	"pcpe": "cpe:/a:sap:orientdb"
 }

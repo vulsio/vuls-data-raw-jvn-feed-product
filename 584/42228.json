@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "42228",
-  "pname": "SiNVR 3 Video Server",
-  "pcpe": "cpe:/a:siemens:sinvr_3_video_server"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "42228",
+	"pname": "SiNVR 3 Video Server",
+	"pcpe": "cpe:/a:siemens:sinvr_3_video_server"
 }

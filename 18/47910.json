@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "47910",
-  "pname": "Maximo for Civil Infrastructure",
-  "pcpe": "cpe:/a:ibm:maximo_for_civil_infrastructure"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "47910",
+	"pname": "Maximo for Civil Infrastructure",
+	"pcpe": "cpe:/a:ibm:maximo_for_civil_infrastructure"
 }

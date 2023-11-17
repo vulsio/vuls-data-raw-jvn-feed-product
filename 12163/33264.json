@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "33264",
-  "pname": "GitHub pull request builder",
-  "pcpe": "cpe:/a:jenkins:github_pull_request_builder"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "33264",
+	"pname": "GitHub pull request builder",
+	"pcpe": "cpe:/a:jenkins:github_pull_request_builder"
 }

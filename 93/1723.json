@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1723",
-  "pname": "TrailScout",
-  "pcpe": "cpe:/a:drupal:trailscout_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1723",
+	"pname": "TrailScout",
+	"pcpe": "cpe:/a:drupal:trailscout_module"
 }

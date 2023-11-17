@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "48451",
-  "pname": "SAP NetWeaver AS ABAP",
-  "pcpe": "cpe:/a:sap:netweaver_as_abap"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "48451",
+	"pname": "SAP NetWeaver AS ABAP",
+	"pcpe": "cpe:/a:sap:netweaver_as_abap"
 }

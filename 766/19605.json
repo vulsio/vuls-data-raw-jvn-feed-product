@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "19605",
-  "pname": "TLXCDLTOFS33",
-  "pcpe": "cpe:/a:schneider_electric:ofs_test_client_tlxcdltofs33"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "19605",
+	"pname": "TLXCDLTOFS33",
+	"pcpe": "cpe:/a:schneider_electric:ofs_test_client_tlxcdltofs33"
 }

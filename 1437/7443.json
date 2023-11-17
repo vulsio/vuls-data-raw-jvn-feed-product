@@ -1,8 +1,8 @@
 {
-  "vid": "1437",
-  "vname": "DNN",
-  "vcpe": "cpe:/:dotnetnuke",
-  "pid": "7443",
-  "pname": "DotNetNuke IFrame",
-  "pcpe": "cpe:/a:dotnetnuke:dotnetnuke_iframe"
+	"vid": "1437",
+	"vname": "DNN",
+	"vcpe": "cpe:/:dotnetnuke",
+	"pid": "7443",
+	"pname": "DotNetNuke IFrame",
+	"pcpe": "cpe:/a:dotnetnuke:dotnetnuke_iframe"
 }

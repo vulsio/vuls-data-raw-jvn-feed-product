@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "45990",
-  "pname": "EliteBook Revolve 810 G2 ファームウェア",
-  "pcpe": "cpe:/o:hp:elitebook_revolve_810_g2_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "45990",
+	"pname": "EliteBook Revolve 810 G2 ファームウェア",
+	"pcpe": "cpe:/o:hp:elitebook_revolve_810_g2_firmware"
 }

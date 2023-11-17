@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "57886",
-  "pname": "Lenovo Leyun",
-  "pcpe": "cpe:/a:lenovo:leyun"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "57886",
+	"pname": "Lenovo Leyun",
+	"pcpe": "cpe:/a:lenovo:leyun"
 }

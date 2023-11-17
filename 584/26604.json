@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "26604",
-  "pname": "SIMATIC NET PC ソフトウェア",
-  "pcpe": "cpe:/a:siemens:simatic_net_pc-software"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "26604",
+	"pname": "SIMATIC NET PC ソフトウェア",
+	"pcpe": "cpe:/a:siemens:simatic_net_pc-software"
 }

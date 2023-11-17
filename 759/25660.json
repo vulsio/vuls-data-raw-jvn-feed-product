@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "25660",
-  "pname": "UPS SNMP/Web Interface アダプタ 1024748",
-  "pcpe": "cpe:/h:ge:snmp%2Fweb_plug-in_adapter_1024748"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "25660",
+	"pname": "UPS SNMP/Web Interface アダプタ 1024748",
+	"pcpe": "cpe:/h:ge:snmp%2Fweb_plug-in_adapter_1024748"
 }

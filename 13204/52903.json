@@ -1,8 +1,8 @@
 {
-  "vid": "13204",
-  "vname": "Cozmoslabs",
-  "vcpe": "cpe:/:cozmoslabs",
-  "pid": "52903",
-  "pname": "Membership & Content Restriction - Paid Member Subscriptions",
-  "pcpe": "cpe:/a:cozmoslabs:membership_%26_content_restriction_-_paid_member_subscriptions"
+	"vid": "13204",
+	"vname": "Cozmoslabs",
+	"vcpe": "cpe:/:cozmoslabs",
+	"pid": "52903",
+	"pname": "Membership & Content Restriction - Paid Member Subscriptions",
+	"pcpe": "cpe:/a:cozmoslabs:membership_%26_content_restriction_-_paid_member_subscriptions"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1237",
-  "vname": "NetEase",
-  "vcpe": "cpe:/:netease",
-  "pid": "3988",
-  "pname": "Youdao Dictionary",
-  "pcpe": "cpe:/a:netease:youdao_dictionary"
+	"vid": "1237",
+	"vname": "NetEase",
+	"vcpe": "cpe:/:netease",
+	"pid": "3988",
+	"pname": "Youdao Dictionary",
+	"pcpe": "cpe:/a:netease:youdao_dictionary"
 }

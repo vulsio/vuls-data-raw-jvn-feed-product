@@ -1,8 +1,8 @@
 {
-  "vid": "9939",
-  "vname": "Cobham plc",
-  "vcpe": "cpe:/:cobham",
-  "pid": "40691",
-  "pname": "Sea Tel 4009 Vast broadband-at-sea ファームウェア",
-  "pcpe": "cpe:/o:cobham:sea_tel_4009_vsat_broadband-at-sea_firmware"
+	"vid": "9939",
+	"vname": "Cobham plc",
+	"vcpe": "cpe:/:cobham",
+	"pid": "40691",
+	"pname": "Sea Tel 4009 Vast broadband-at-sea ファームウェア",
+	"pcpe": "cpe:/o:cobham:sea_tel_4009_vsat_broadband-at-sea_firmware"
 }

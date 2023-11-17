@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "18648",
-  "pname": "Apache Sling",
-  "pcpe": "cpe:/a:apache:sling"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "18648",
+	"pname": "Apache Sling",
+	"pcpe": "cpe:/a:apache:sling"
 }

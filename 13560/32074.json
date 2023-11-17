@@ -1,8 +1,8 @@
 {
-  "vid": "13560",
-  "vname": "Weblizar",
-  "vcpe": "cpe:/:weblizar",
-  "pid": "32074",
-  "pname": "Pinterest Feed",
-  "pcpe": "cpe:/a:weblizar:pinterest-feeds"
+	"vid": "13560",
+	"vname": "Weblizar",
+	"vcpe": "cpe:/:weblizar",
+	"pid": "32074",
+	"pname": "Pinterest Feed",
+	"pcpe": "cpe:/a:weblizar:pinterest-feeds"
 }

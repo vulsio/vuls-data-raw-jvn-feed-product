@@ -1,8 +1,8 @@
 {
-  "vid": "14790",
-  "vname": "Safe’N’Sec Corporation",
-  "vcpe": "cpe:/:safensoft",
-  "pid": "34645",
-  "pname": "SoftControl/SafenSoft TPSecure",
-  "pcpe": "cpe:/a:safensoft:softcontrol_tpsecure"
+	"vid": "14790",
+	"vname": "Safe’N’Sec Corporation",
+	"vcpe": "cpe:/:safensoft",
+	"pid": "34645",
+	"pname": "SoftControl/SafenSoft TPSecure",
+	"pcpe": "cpe:/a:safensoft:softcontrol_tpsecure"
 }

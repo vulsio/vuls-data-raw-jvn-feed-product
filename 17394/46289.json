@@ -1,8 +1,8 @@
 {
-  "vid": "17394",
-  "vname": "Thales Group",
-  "vcpe": "cpe:/:thalesgroup",
-  "pid": "46289",
-  "pname": "PLS62 ファームウェア",
-  "pcpe": "cpe:/o:thalesgroup:pls62_firmware"
+	"vid": "17394",
+	"vname": "Thales Group",
+	"vcpe": "cpe:/:thalesgroup",
+	"pid": "46289",
+	"pname": "PLS62 ファームウェア",
+	"pcpe": "cpe:/o:thalesgroup:pls62_firmware"
 }

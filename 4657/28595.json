@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28595",
-  "pname": "FusionStorage",
-  "pcpe": "cpe:/a:huawei:fusionstorage"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28595",
+	"pname": "FusionStorage",
+	"pcpe": "cpe:/a:huawei:fusionstorage"
 }

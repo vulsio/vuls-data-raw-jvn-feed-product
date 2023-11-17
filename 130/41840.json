@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "41840",
-  "pname": "InTel Core i5-9600T ファームウェア",
-  "pcpe": "cpe:/o:intel:core_i5-9600t_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "41840",
+	"pname": "InTel Core i5-9600T ファームウェア",
+	"pcpe": "cpe:/o:intel:core_i5-9600t_firmware"
 }

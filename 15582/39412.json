@@ -1,8 +1,8 @@
 {
-  "vid": "15582",
-  "vname": "Amcrest",
-  "vcpe": "cpe:/:amcrest",
-  "pid": "39412",
-  "pname": "IPM-721S ファームウェア",
-  "pcpe": "cpe:/o:amcrest:ipm-721s_firmware"
+	"vid": "15582",
+	"vname": "Amcrest",
+	"vcpe": "cpe:/:amcrest",
+	"pid": "39412",
+	"pname": "IPM-721S ファームウェア",
+	"pcpe": "cpe:/o:amcrest:ipm-721s_firmware"
 }

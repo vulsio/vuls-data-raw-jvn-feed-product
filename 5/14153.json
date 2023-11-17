@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "14153",
-  "pname": "Eudora WorldMail",
-  "pcpe": "cpe:/a:qualcomm:eudora_worldmail"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "14153",
+	"pname": "Eudora WorldMail",
+	"pcpe": "cpe:/a:qualcomm:eudora_worldmail"
 }

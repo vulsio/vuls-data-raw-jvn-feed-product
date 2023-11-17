@@ -1,8 +1,8 @@
 {
-  "vid": "12010",
-  "vname": "CSL DualCom",
-  "vcpe": "cpe:/:csl_dualcom",
-  "pid": "25087",
-  "pname": "GPRS CS2300-R ファームウェア",
-  "pcpe": "cpe:/o:csl_dualcom:gprs_cs2300-r_firmware"
+	"vid": "12010",
+	"vname": "CSL DualCom",
+	"vcpe": "cpe:/:csl_dualcom",
+	"pid": "25087",
+	"pname": "GPRS CS2300-R ファームウェア",
+	"pcpe": "cpe:/o:csl_dualcom:gprs_cs2300-r_firmware"
 }

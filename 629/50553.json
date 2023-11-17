@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "50553",
-  "pname": "NPort IA5250A シリーズファームウェア",
-  "pcpe": "cpe:/o:moxa:nport_ia5250a_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "50553",
+	"pname": "NPort IA5250A シリーズファームウェア",
+	"pcpe": "cpe:/o:moxa:nport_ia5250a_firmware"
 }

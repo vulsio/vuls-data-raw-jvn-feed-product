@@ -1,8 +1,8 @@
 {
-  "vid": "12892",
-  "vname": "富士電機",
-  "vcpe": "cpe:/:fujielectric",
-  "pid": "39319",
-  "pname": "Alpha7 PC Loader ファームウェア",
-  "pcpe": "cpe:/o:fujielectric:alpha7_pc_loader_firmware"
+	"vid": "12892",
+	"vname": "富士電機",
+	"vcpe": "cpe:/:fujielectric",
+	"pid": "39319",
+	"pname": "Alpha7 PC Loader ファームウェア",
+	"pcpe": "cpe:/o:fujielectric:alpha7_pc_loader_firmware"
 }

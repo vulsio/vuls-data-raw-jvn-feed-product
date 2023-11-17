@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "2263",
-  "pname": "Safeauthor",
-  "pcpe": "cpe:/a:fujitsu:safeauthor"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "2263",
+	"pname": "Safeauthor",
+	"pcpe": "cpe:/a:fujitsu:safeauthor"
 }

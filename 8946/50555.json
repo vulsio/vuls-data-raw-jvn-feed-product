@@ -1,8 +1,8 @@
 {
-  "vid": "8946",
-  "vname": "Hexagon",
-  "vcpe": "cpe:/:hexagon",
-  "pid": "50555",
-  "pname": "Intergraph G!NIUS",
-  "pcpe": "cpe:/a:hexagon:intergraph_g%21nius"
+	"vid": "8946",
+	"vname": "Hexagon",
+	"vcpe": "cpe:/:hexagon",
+	"pid": "50555",
+	"pname": "Intergraph G!NIUS",
+	"pcpe": "cpe:/a:hexagon:intergraph_g%21nius"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9018",
-  "vname": "シャープ株式会社",
-  "vcpe": "cpe:/:sharp",
-  "pid": "28939",
-  "pname": "RW-4040 ドライバソフトインストーラ Windows 7 用",
-  "pcpe": "cpe:/a:sharp:rw-4040_driver_installer_for_windows_7"
+	"vid": "9018",
+	"vname": "シャープ株式会社",
+	"vcpe": "cpe:/:sharp",
+	"pid": "28939",
+	"pname": "RW-4040 ドライバソフトインストーラ Windows 7 用",
+	"pcpe": "cpe:/a:sharp:rw-4040_driver_installer_for_windows_7"
 }

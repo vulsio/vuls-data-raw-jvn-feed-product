@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "51772",
-  "pname": "SMTL シリーズ 1026 ups ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:smtl_series_1026_ups_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "51772",
+	"pname": "SMTL シリーズ 1026 ups ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:smtl_series_1026_ups_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1385",
-  "vname": "BMC Software",
-  "vcpe": "cpe:/:bmc",
-  "pid": "26290",
-  "pname": "BMC BladeLogic Server Automation",
-  "pcpe": "cpe:/a:bmc:bladelogic_server_automation_console"
+	"vid": "1385",
+	"vname": "BMC Software",
+	"vcpe": "cpe:/:bmc",
+	"pid": "26290",
+	"pname": "BMC BladeLogic Server Automation",
+	"pcpe": "cpe:/a:bmc:bladelogic_server_automation_console"
 }

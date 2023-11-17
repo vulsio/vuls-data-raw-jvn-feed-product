@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "13287",
-  "pname": "Microsoft FTP Service",
-  "pcpe": "cpe:/a:microsoft:ftp_service"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "13287",
+	"pname": "Microsoft FTP Service",
+	"pcpe": "cpe:/a:microsoft:ftp_service"
 }

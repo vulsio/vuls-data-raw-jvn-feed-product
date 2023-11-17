@@ -1,8 +1,8 @@
 {
-  "vid": "10162",
-  "vname": "GameInfo",
-  "vcpe": "cpe:/:gameinfo",
-  "pid": "21285",
-  "pname": "最高のレースゲームランキング",
-  "pcpe": "cpe:/a:gameinfo:best_racing%2fmoto_games_ranking"
+	"vid": "10162",
+	"vname": "GameInfo",
+	"vcpe": "cpe:/:gameinfo",
+	"pid": "21285",
+	"pname": "最高のレースゲームランキング",
+	"pcpe": "cpe:/a:gameinfo:best_racing%2fmoto_games_ranking"
 }

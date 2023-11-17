@@ -1,8 +1,8 @@
 {
-  "vid": "5359",
-  "vname": "LMS Developers",
-  "vcpe": "cpe:/:lms",
-  "pid": "11046",
-  "pname": "Lan Management System (LMS)",
-  "pcpe": "cpe:/a:lms:lan_management_system"
+	"vid": "5359",
+	"vname": "LMS Developers",
+	"vcpe": "cpe:/:lms",
+	"pid": "11046",
+	"pname": "Lan Management System (LMS)",
+	"pcpe": "cpe:/a:lms:lan_management_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "59841",
-  "pname": "NGINX Ingress Controller",
-  "pcpe": "cpe:/a:f5:nginx_ingress_controller"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "59841",
+	"pname": "NGINX Ingress Controller",
+	"pcpe": "cpe:/a:f5:nginx_ingress_controller"
 }

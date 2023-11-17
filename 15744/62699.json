@@ -1,8 +1,8 @@
 {
-  "vid": "15744",
-  "vname": "SS Protect Limited.",
-  "vcpe": "cpe:/:pcprotect",
-  "pid": "62699",
-  "pname": "endpoint",
-  "pcpe": "cpe:/a:pcprotect:endpoint"
+	"vid": "15744",
+	"vname": "SS Protect Limited.",
+	"vcpe": "cpe:/:pcprotect",
+	"pid": "62699",
+	"pname": "endpoint",
+	"pcpe": "cpe:/a:pcprotect:endpoint"
 }

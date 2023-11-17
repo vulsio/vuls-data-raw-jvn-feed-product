@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "44215",
-  "pname": "Latitude 7202 ファームウェア",
-  "pcpe": "cpe:/o:dell:latitude_7202_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "44215",
+	"pname": "Latitude 7202 ファームウェア",
+	"pcpe": "cpe:/o:dell:latitude_7202_firmware"
 }

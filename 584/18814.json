@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "18814",
-  "pname": "SINAMICS S150",
-  "pcpe": "cpe:/h:siemens:sinamics_s150"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "18814",
+	"pname": "SINAMICS S150",
+	"pcpe": "cpe:/h:siemens:sinamics_s150"
 }

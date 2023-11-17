@@ -1,8 +1,8 @@
 {
-  "vid": "20176",
-  "vname": "Vector 35",
-  "vcpe": "cpe:/:vector35",
-  "pid": "51320",
-  "pname": "Binary Ninja",
-  "pcpe": "cpe:/a:vector35:binary_ninja"
+	"vid": "20176",
+	"vname": "Vector 35",
+	"vcpe": "cpe:/:vector35",
+	"pid": "51320",
+	"pname": "Binary Ninja",
+	"pcpe": "cpe:/a:vector35:binary_ninja"
 }

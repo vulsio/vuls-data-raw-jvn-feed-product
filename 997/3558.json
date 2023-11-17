@@ -1,8 +1,8 @@
 {
-  "vid": "997",
-  "vname": "DeltaScripts",
-  "vcpe": "cpe:/:deltascripts",
-  "pid": "3558",
-  "pname": "PHP Classifieds",
-  "pcpe": "cpe:/a:deltascripts:php_classifieds"
+	"vid": "997",
+	"vname": "DeltaScripts",
+	"vcpe": "cpe:/:deltascripts",
+	"pid": "3558",
+	"pname": "PHP Classifieds",
+	"pcpe": "cpe:/a:deltascripts:php_classifieds"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "3484",
-  "pname": "Microsoft Office Pinyin SimpleFast Style",
-  "pcpe": "cpe:/a:microsoft:pinyin_simple_fast_style"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "3484",
+	"pname": "Microsoft Office Pinyin SimpleFast Style",
+	"pcpe": "cpe:/a:microsoft:pinyin_simple_fast_style"
 }

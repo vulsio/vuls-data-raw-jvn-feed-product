@@ -1,8 +1,8 @@
 {
-  "vid": "22567",
-  "vname": "libsndfile project",
-  "vcpe": "cpe:/:libsndfile_project",
-  "pid": "58087",
-  "pname": "libsndfile",
-  "pcpe": "cpe:/a:libsndfile_project:libsndfile"
+	"vid": "22567",
+	"vname": "libsndfile project",
+	"vcpe": "cpe:/:libsndfile_project",
+	"pid": "58087",
+	"pname": "libsndfile",
+	"pcpe": "cpe:/a:libsndfile_project:libsndfile"
 }

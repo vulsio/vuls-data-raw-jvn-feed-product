@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9984",
-  "pname": "informix storage manager",
-  "pcpe": "cpe:/a:ibm:informix_storage_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9984",
+	"pname": "informix storage manager",
+	"pcpe": "cpe:/a:ibm:informix_storage_manager"
 }

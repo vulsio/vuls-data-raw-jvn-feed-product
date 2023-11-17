@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "62851",
-  "pname": "optiplex 7000 oem ファームウェア",
-  "pcpe": "cpe:/o:dell:optiplex_7000_oem_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "62851",
+	"pname": "optiplex 7000 oem ファームウェア",
+	"pcpe": "cpe:/o:dell:optiplex_7000_oem_firmware"
 }

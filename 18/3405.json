@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "3405",
-  "pname": "Lotus Notes connector",
-  "pcpe": "cpe:/a:ibm:lotus_notes_connector"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "3405",
+	"pname": "Lotus Notes connector",
+	"pcpe": "cpe:/a:ibm:lotus_notes_connector"
 }

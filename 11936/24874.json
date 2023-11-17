@@ -1,8 +1,8 @@
 {
-  "vid": "11936",
-  "vname": "Commerce Commonwealth project",
-  "vcpe": "cpe:/:drupalcommerce",
-  "pid": "24874",
-  "pname": "Commerce Commonwealth (CBA)",
-  "pcpe": "cpe:/a:drupalcommerce:commerce_commonwealth"
+	"vid": "11936",
+	"vname": "Commerce Commonwealth project",
+	"vcpe": "cpe:/:drupalcommerce",
+	"pid": "24874",
+	"pname": "Commerce Commonwealth (CBA)",
+	"pcpe": "cpe:/a:drupalcommerce:commerce_commonwealth"
 }

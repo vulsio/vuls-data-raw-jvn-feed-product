@@ -1,8 +1,8 @@
 {
-  "vid": "17382",
-  "vname": "ISL",
-  "vcpe": "cpe:/:isl",
-  "pid": "41366",
-  "pname": "ARP-GUARD",
-  "pcpe": "cpe:/a:isl:arp-guard"
+	"vid": "17382",
+	"vname": "ISL",
+	"vcpe": "cpe:/:isl",
+	"pid": "41366",
+	"pname": "ARP-GUARD",
+	"pcpe": "cpe:/a:isl:arp-guard"
 }

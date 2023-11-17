@@ -1,8 +1,8 @@
 {
-  "vid": "24500",
-  "vname": "stop spam comments project",
-  "vcpe": "cpe:/:stop_spam_comments_project",
-  "pid": "63264",
-  "pname": "stop spam comments",
-  "pcpe": "cpe:/a:stop_spam_comments_project:stop_spam_comments"
+	"vid": "24500",
+	"vname": "stop spam comments project",
+	"vcpe": "cpe:/:stop_spam_comments_project",
+	"pid": "63264",
+	"pname": "stop spam comments",
+	"pcpe": "cpe:/a:stop_spam_comments_project:stop_spam_comments"
 }

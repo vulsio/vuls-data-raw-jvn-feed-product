@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27273",
-  "pname": "110-14IBR",
-  "pcpe": "cpe:/h:lenovo:notebook_110_14ibr"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27273",
+	"pname": "110-14IBR",
+	"pcpe": "cpe:/h:lenovo:notebook_110_14ibr"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20046",
-  "vname": "Deno Land Inc.",
-  "vcpe": "cpe:/:deno",
-  "pid": "53603",
-  "pname": "Deno Standard Modules",
-  "pcpe": "cpe:/a:deno:deno_standard_modules"
+	"vid": "20046",
+	"vname": "Deno Land Inc.",
+	"vcpe": "cpe:/:deno",
+	"pid": "53603",
+	"pname": "Deno Standard Modules",
+	"pcpe": "cpe:/a:deno:deno_standard_modules"
 }

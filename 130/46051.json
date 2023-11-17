@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "46051",
-  "pname": "Intel LED Manager for NUC",
-  "pcpe": "cpe:/a:intel:led_manager_for_nuc"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "46051",
+	"pname": "Intel LED Manager for NUC",
+	"pcpe": "cpe:/a:intel:led_manager_for_nuc"
 }

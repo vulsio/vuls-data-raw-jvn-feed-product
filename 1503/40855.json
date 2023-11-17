@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "40855",
-  "pname": "H2W2PC1M ファームウェア",
-  "pcpe": "cpe:/o:honeywell:h2w2pc1m_firmware"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "40855",
+	"pname": "H2W2PC1M ファームウェア",
+	"pcpe": "cpe:/o:honeywell:h2w2pc1m_firmware"
 }

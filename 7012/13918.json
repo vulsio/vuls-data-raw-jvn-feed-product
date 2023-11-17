@@ -1,8 +1,8 @@
 {
-  "vid": "7012",
-  "vname": "Pegasus Mail",
-  "vcpe": "cpe:/:pmail",
-  "pid": "13918",
-  "pname": "Pegasus Mail",
-  "pcpe": "cpe:/a:pmail:pegasus_mail"
+	"vid": "7012",
+	"vname": "Pegasus Mail",
+	"vcpe": "cpe:/:pmail",
+	"pid": "13918",
+	"pname": "Pegasus Mail",
+	"pcpe": "cpe:/a:pmail:pegasus_mail"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21247",
-  "vname": "ipUpTime",
-  "vcpe": "cpe:/:ipuptime",
-  "pid": "54550",
-  "pname": "Pinkie",
-  "pcpe": "cpe:/a:ipuptime:pinkie"
+	"vid": "21247",
+	"vname": "ipUpTime",
+	"vcpe": "cpe:/:ipuptime",
+	"pid": "54550",
+	"pname": "Pinkie",
+	"pcpe": "cpe:/a:ipuptime:pinkie"
 }

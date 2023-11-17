@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "63502",
-  "pname": "Cisco MDS 9506 ファームウェア",
-  "pcpe": "cpe:/o:cisco:mds_9506_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "63502",
+	"pname": "Cisco MDS 9506 ファームウェア",
+	"pcpe": "cpe:/o:cisco:mds_9506_firmware"
 }

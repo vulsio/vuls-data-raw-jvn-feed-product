@@ -1,8 +1,8 @@
 {
-  "vid": "10313",
-  "vname": "MuleSoft Inc.",
-  "vcpe": "cpe:/:mulesoft",
-  "pid": "21670",
-  "pname": "Mule Enterprise Management Console",
-  "pcpe": "cpe:/a:mulesoft:mule_enterprise_management_console"
+	"vid": "10313",
+	"vname": "MuleSoft Inc.",
+	"vcpe": "cpe:/:mulesoft",
+	"pid": "21670",
+	"pname": "Mule Enterprise Management Console",
+	"pcpe": "cpe:/a:mulesoft:mule_enterprise_management_console"
 }

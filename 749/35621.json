@@ -1,8 +1,8 @@
 {
-  "vid": "749",
-  "vname": "OCS Inventory Team",
-  "vcpe": "cpe:/:ocsinventory-ng",
-  "pid": "35621",
-  "pname": "OCS Inventory Server",
-  "pcpe": "cpe:/a:ocsinventory-ng:ocs_inventory_server"
+	"vid": "749",
+	"vname": "OCS Inventory Team",
+	"vcpe": "cpe:/:ocsinventory-ng",
+	"pid": "35621",
+	"pname": "OCS Inventory Server",
+	"pcpe": "cpe:/a:ocsinventory-ng:ocs_inventory_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11901",
-  "vname": "SpryMedia Ltd",
-  "vcpe": "cpe:/:sprymedia",
-  "pid": "24804",
-  "pname": "DataTables",
-  "pcpe": "cpe:/a:sprymedia:datatables"
+	"vid": "11901",
+	"vname": "SpryMedia Ltd",
+	"vcpe": "cpe:/:sprymedia",
+	"pid": "24804",
+	"pname": "DataTables",
+	"pcpe": "cpe:/a:sprymedia:datatables"
 }

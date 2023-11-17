@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17790",
-  "pname": "Cisco Intrusion Prevention System Network Module Enhanced",
-  "pcpe": "cpe:/h:cisco:ips_nme"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17790",
+	"pname": "Cisco Intrusion Prevention System Network Module Enhanced",
+	"pcpe": "cpe:/h:cisco:ips_nme"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4418",
-  "pname": "HP Insight Control Power Management",
-  "pcpe": "cpe:/a:hp:insight_control_power_management"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4418",
+	"pname": "HP Insight Control Power Management",
+	"pcpe": "cpe:/a:hp:insight_control_power_management"
 }

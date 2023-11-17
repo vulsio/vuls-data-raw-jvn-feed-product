@@ -1,8 +1,8 @@
 {
-  "vid": "6226",
-  "vname": "Paessler AG",
-  "vcpe": "cpe:/:paessler",
-  "pid": "27781",
-  "pname": "PRTG Network Monitor",
-  "pcpe": "cpe:/a:paessler:prtg_network_monitor"
+	"vid": "6226",
+	"vname": "Paessler AG",
+	"vcpe": "cpe:/:paessler",
+	"pid": "27781",
+	"pname": "PRTG Network Monitor",
+	"pcpe": "cpe:/a:paessler:prtg_network_monitor"
 }

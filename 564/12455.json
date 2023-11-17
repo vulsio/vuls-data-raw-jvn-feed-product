@@ -1,8 +1,8 @@
 {
-  "vid": "564",
-  "vname": "Panda Security",
-  "vcpe": "cpe:/:pandasecurity",
-  "pid": "12455",
-  "pname": "adminsecure",
-  "pcpe": "cpe:/a:pandasecurity:adminsecure"
+	"vid": "564",
+	"vname": "Panda Security",
+	"vcpe": "cpe:/:pandasecurity",
+	"pid": "12455",
+	"pname": "adminsecure",
+	"pcpe": "cpe:/a:pandasecurity:adminsecure"
 }

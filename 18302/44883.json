@@ -1,8 +1,8 @@
 {
-  "vid": "18302",
-  "vname": "NaviServer project",
-  "vcpe": "cpe:/:naviserver_project",
-  "pid": "44883",
-  "pname": "NaviServer",
-  "pcpe": "cpe:/a:naviserver_project:naviserver"
+	"vid": "18302",
+	"vname": "NaviServer project",
+	"vcpe": "cpe:/:naviserver_project",
+	"pid": "44883",
+	"pname": "NaviServer",
+	"pcpe": "cpe:/a:naviserver_project:naviserver"
 }

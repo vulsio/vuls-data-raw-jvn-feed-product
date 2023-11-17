@@ -1,8 +1,8 @@
 {
-  "vid": "14383",
-  "vname": "minimatch project",
-  "vcpe": "cpe:/:minimatch_project",
-  "pid": "34074",
-  "pname": "minimatch",
-  "pcpe": "cpe:/a:minimatch_project:minimatch"
+	"vid": "14383",
+	"vname": "minimatch project",
+	"vcpe": "cpe:/:minimatch_project",
+	"pid": "34074",
+	"pname": "minimatch",
+	"pcpe": "cpe:/a:minimatch_project:minimatch"
 }

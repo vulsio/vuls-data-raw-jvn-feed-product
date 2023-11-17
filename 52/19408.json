@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "19408",
-  "pname": "Pages",
-  "pcpe": "cpe:/a:apple:pages"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "19408",
+	"pname": "Pages",
+	"pcpe": "cpe:/a:apple:pages"
 }

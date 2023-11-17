@@ -1,8 +1,8 @@
 {
-  "vid": "573",
-  "vname": "Foxit Software Inc",
-  "vcpe": "cpe:/:foxitsoftware",
-  "pid": "4356",
-  "pname": "phantom",
-  "pcpe": "cpe:/a:foxitsoftware:phantom"
+	"vid": "573",
+	"vname": "Foxit Software Inc",
+	"vcpe": "cpe:/:foxitsoftware",
+	"pid": "4356",
+	"pname": "phantom",
+	"pcpe": "cpe:/a:foxitsoftware:phantom"
 }

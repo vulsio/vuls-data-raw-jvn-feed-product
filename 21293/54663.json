@@ -1,8 +1,8 @@
 {
-  "vid": "21293",
-  "vname": "KNIME",
-  "vcpe": "cpe:/:knime",
-  "pid": "54663",
-  "pname": "KNIME Server",
-  "pcpe": "cpe:/a:knime:knime_server"
+	"vid": "21293",
+	"vname": "KNIME",
+	"vcpe": "cpe:/:knime",
+	"pid": "54663",
+	"pname": "KNIME Server",
+	"pcpe": "cpe:/a:knime:knime_server"
 }

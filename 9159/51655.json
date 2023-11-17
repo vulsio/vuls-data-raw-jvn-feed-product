@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "51655",
-  "pname": "Vue Speech",
-  "pcpe": "cpe:/a:philips:speech"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "51655",
+	"pname": "Vue Speech",
+	"pcpe": "cpe:/a:philips:speech"
 }

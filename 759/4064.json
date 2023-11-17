@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "4064",
-  "pname": "Proficy Real-Time Information Portal",
-  "pcpe": "cpe:/a:ge:intelligent_platforms_proficy_real-time_information_portal"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "4064",
+	"pname": "Proficy Real-Time Information Portal",
+	"pcpe": "cpe:/a:ge:intelligent_platforms_proficy_real-time_information_portal"
 }

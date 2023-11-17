@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "27080",
-  "pname": "Disk Station DS107 firmware",
-  "pcpe": "cpe:/o:synology:ds107_firmware"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "27080",
+	"pname": "Disk Station DS107 firmware",
+	"pcpe": "cpe:/o:synology:ds107_firmware"
 }

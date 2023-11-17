@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "37270",
-  "pname": "TIBCO ActiveSpaces",
-  "pcpe": "cpe:/a:tibco:activespaces"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "37270",
+	"pname": "TIBCO ActiveSpaces",
+	"pcpe": "cpe:/a:tibco:activespaces"
 }

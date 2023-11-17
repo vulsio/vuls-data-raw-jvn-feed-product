@@ -1,8 +1,8 @@
 {
-  "vid": "499",
-  "vname": "Ipswitch, Inc.",
-  "vcpe": "cpe:/:ipswitch",
-  "pid": "25607",
-  "pname": "MOVEit DMZ",
-  "pcpe": "cpe:/a:ipswitch:moveit_dmz"
+	"vid": "499",
+	"vname": "Ipswitch, Inc.",
+	"vcpe": "cpe:/:ipswitch",
+	"pid": "25607",
+	"pname": "MOVEit DMZ",
+	"pcpe": "cpe:/a:ipswitch:moveit_dmz"
 }

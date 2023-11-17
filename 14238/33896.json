@@ -1,8 +1,8 @@
 {
-  "vid": "14238",
-  "vname": "mongodb-instance project",
-  "vcpe": "cpe:/:mongodb-instance_project",
-  "pid": "33896",
-  "pname": "mongodb-instance",
-  "pcpe": "cpe:/a:mongodb-instance_project:mongodb-instance"
+	"vid": "14238",
+	"vname": "mongodb-instance project",
+	"vcpe": "cpe:/:mongodb-instance_project",
+	"pid": "33896",
+	"pname": "mongodb-instance",
+	"pcpe": "cpe:/a:mongodb-instance_project:mongodb-instance"
 }

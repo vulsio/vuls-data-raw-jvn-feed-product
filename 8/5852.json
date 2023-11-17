@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "5852",
-  "pname": "tiles",
-  "pcpe": "cpe:/a:apache:tiles"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "5852",
+	"pname": "tiles",
+	"pcpe": "cpe:/a:apache:tiles"
 }

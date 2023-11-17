@@ -1,8 +1,8 @@
 {
-  "vid": "23781",
-  "vname": "micodus",
-  "vcpe": "cpe:/:micodus",
-  "pid": "61506",
-  "pname": "mv720 ファームウェア",
-  "pcpe": "cpe:/o:micodus:mv720_firmware"
+	"vid": "23781",
+	"vname": "micodus",
+	"vcpe": "cpe:/:micodus",
+	"pid": "61506",
+	"pname": "mv720 ファームウェア",
+	"pcpe": "cpe:/o:micodus:mv720_firmware"
 }

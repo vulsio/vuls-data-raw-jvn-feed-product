@@ -1,8 +1,8 @@
 {
-  "vid": "23112",
-  "vname": "Flothemes",
-  "vcpe": "cpe:/:flothemes",
-  "pid": "59836",
-  "pname": "FloLaunch",
-  "pcpe": "cpe:/a:flothemes:flo-launch"
+	"vid": "23112",
+	"vname": "Flothemes",
+	"vcpe": "cpe:/:flothemes",
+	"pid": "59836",
+	"pname": "FloLaunch",
+	"pcpe": "cpe:/a:flothemes:flo-launch"
 }

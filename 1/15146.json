@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "15146",
-  "pname": "opensso enterprise",
-  "pcpe": "cpe:/a:sun:opensso_enterprise"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "15146",
+	"pname": "opensso enterprise",
+	"pcpe": "cpe:/a:sun:opensso_enterprise"
 }

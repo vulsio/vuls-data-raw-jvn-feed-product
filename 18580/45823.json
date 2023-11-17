@@ -1,8 +1,8 @@
 {
-  "vid": "18580",
-  "vname": "Plesk",
-  "vcpe": "cpe:/:plesk",
-  "pid": "45823",
-  "pname": "Onyx",
-  "pcpe": "cpe:/a:plesk:onyx"
+	"vid": "18580",
+	"vname": "Plesk",
+	"vcpe": "cpe:/:plesk",
+	"pid": "45823",
+	"pname": "Onyx",
+	"pcpe": "cpe:/a:plesk:onyx"
 }

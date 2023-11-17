@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "8896",
-  "pname": "unified ip conference station 7936",
-  "pcpe": "cpe:/o:cisco:unified_ip_conference_station_7936"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "8896",
+	"pname": "unified ip conference station 7936",
+	"pcpe": "cpe:/o:cisco:unified_ip_conference_station_7936"
 }

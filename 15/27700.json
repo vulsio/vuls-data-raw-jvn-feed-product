@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27700",
-  "pname": "Oracle One-to-One Fulfillment",
-  "pcpe": "cpe:/a:oracle:one-to-one_fulfillment"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27700",
+	"pname": "Oracle One-to-One Fulfillment",
+	"pcpe": "cpe:/a:oracle:one-to-one_fulfillment"
 }

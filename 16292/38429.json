@@ -1,8 +1,8 @@
 {
-  "vid": "16292",
-  "vname": "NEMA",
-  "vcpe": "cpe:/:nema",
-  "pid": "38429",
-  "pname": "DICOM Standard",
-  "pcpe": "cpe:/a:nema:dicom_standard"
+	"vid": "16292",
+	"vname": "NEMA",
+	"vcpe": "cpe:/:nema",
+	"pid": "38429",
+	"pname": "DICOM Standard",
+	"pcpe": "cpe:/a:nema:dicom_standard"
 }

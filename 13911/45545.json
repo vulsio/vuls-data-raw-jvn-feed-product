@@ -1,8 +1,8 @@
 {
-  "vid": "13911",
-  "vname": "NCR",
-  "vcpe": "cpe:/:ncr",
-  "pid": "45545",
-  "pname": "APTRA XFS",
-  "pcpe": "cpe:/o:ncr:aptra_xfs"
+	"vid": "13911",
+	"vname": "NCR",
+	"vcpe": "cpe:/:ncr",
+	"pid": "45545",
+	"pname": "APTRA XFS",
+	"pcpe": "cpe:/o:ncr:aptra_xfs"
 }

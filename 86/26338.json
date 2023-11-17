@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "26338",
-  "pname": "WZR-1166DHP2",
-  "pcpe": "cpe:/h:buffalo_inc:wzr-1166dhp2"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "26338",
+	"pname": "WZR-1166DHP2",
+	"pcpe": "cpe:/h:buffalo_inc:wzr-1166dhp2"
 }

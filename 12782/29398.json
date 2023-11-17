@@ -1,8 +1,8 @@
 {
-  "vid": "12782",
-  "vname": "Document Liberation Project",
-  "vcpe": "cpe:/:misc",
-  "pid": "29398",
-  "pname": "libstaroffice",
-  "pcpe": "cpe:/a:misc:document_liberation_project_libstaroffice"
+	"vid": "12782",
+	"vname": "Document Liberation Project",
+	"vcpe": "cpe:/:misc",
+	"pid": "29398",
+	"pname": "libstaroffice",
+	"pcpe": "cpe:/a:misc:document_liberation_project_libstaroffice"
 }

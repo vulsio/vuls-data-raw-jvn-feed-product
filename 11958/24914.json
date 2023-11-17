@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "24914",
-  "pname": "CX-Programmer",
-  "pcpe": "cpe:/a:omron:cx-programmer"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "24914",
+	"pname": "CX-Programmer",
+	"pcpe": "cpe:/a:omron:cx-programmer"
 }

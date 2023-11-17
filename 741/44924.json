@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "44924",
-  "pname": "DAP-1360 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dap-1360_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "44924",
+	"pname": "DAP-1360 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dap-1360_firmware"
 }

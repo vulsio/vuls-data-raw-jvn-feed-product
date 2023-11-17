@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12744",
-  "pname": "color laserjet cp3525 printer",
-  "pcpe": "cpe:/h:hp:color_laserjet_cp3525_printer"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12744",
+	"pname": "color laserjet cp3525 printer",
+	"pcpe": "cpe:/h:hp:color_laserjet_cp3525_printer"
 }

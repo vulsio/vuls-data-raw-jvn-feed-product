@@ -1,8 +1,8 @@
 {
-  "vid": "18641",
-  "vname": "linux-cmdline_project",
-  "vcpe": "cpe:/:linux-cmdline_project",
-  "pid": "46126",
-  "pname": "linux-cmdline",
-  "pcpe": "cpe:/a:linux-cmdline_project:linux-cmdline"
+	"vid": "18641",
+	"vname": "linux-cmdline_project",
+	"vcpe": "cpe:/:linux-cmdline_project",
+	"pid": "46126",
+	"pname": "linux-cmdline",
+	"pcpe": "cpe:/a:linux-cmdline_project:linux-cmdline"
 }

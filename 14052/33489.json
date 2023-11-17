@@ -1,8 +1,8 @@
 {
-  "vid": "14052",
-  "vname": "Matrix",
-  "vcpe": "cpe:/:matrix",
-  "pid": "33489",
-  "pname": "Synapse",
-  "pcpe": "cpe:/a:matrix:synapse"
+	"vid": "14052",
+	"vname": "Matrix",
+	"vcpe": "cpe:/:matrix",
+	"pid": "33489",
+	"pname": "Synapse",
+	"pcpe": "cpe:/a:matrix:synapse"
 }

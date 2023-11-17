@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63363",
-  "pname": "HP DeskJet Plus Ink Advantage 6000 All-in-One Printer 5SE522A ファームウェア",
-  "pcpe": "cpe:/o:hp:5se522a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63363",
+	"pname": "HP DeskJet Plus Ink Advantage 6000 All-in-One Printer 5SE522A ファームウェア",
+	"pcpe": "cpe:/o:hp:5se522a_firmware"
 }

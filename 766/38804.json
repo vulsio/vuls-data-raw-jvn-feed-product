@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "38804",
-  "pname": "Modicon LMC078 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:modicon_lmc078_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "38804",
+	"pname": "Modicon LMC078 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:modicon_lmc078_firmware"
 }

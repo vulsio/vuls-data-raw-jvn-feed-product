@@ -1,8 +1,8 @@
 {
-  "vid": "2605",
-  "vname": "bookmarkx",
-  "vcpe": "cpe:/:bookmarkx",
-  "pid": "6387",
-  "pname": "script",
-  "pcpe": "cpe:/a:bookmarkx:script"
+	"vid": "2605",
+	"vname": "bookmarkx",
+	"vcpe": "cpe:/:bookmarkx",
+	"pid": "6387",
+	"pname": "script",
+	"pcpe": "cpe:/a:bookmarkx:script"
 }

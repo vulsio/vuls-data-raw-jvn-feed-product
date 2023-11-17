@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "59492",
-  "pname": "ATP100W ファームウェア",
-  "pcpe": "cpe:/o:zyxel:atp100w_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "59492",
+	"pname": "ATP100W ファームウェア",
+	"pcpe": "cpe:/o:zyxel:atp100w_firmware"
 }

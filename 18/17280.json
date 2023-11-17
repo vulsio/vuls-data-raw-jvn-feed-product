@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17280",
-  "pname": "IBM WebSphere DataPower XC10 アプライアンス ファームウェア",
-  "pcpe": "cpe:/o:ibm:websphere_datapower_xc10_appliance_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17280",
+	"pname": "IBM WebSphere DataPower XC10 アプライアンス ファームウェア",
+	"pcpe": "cpe:/o:ibm:websphere_datapower_xc10_appliance_firmware"
 }

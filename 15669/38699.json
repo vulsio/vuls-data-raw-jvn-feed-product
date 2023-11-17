@@ -1,8 +1,8 @@
 {
-  "vid": "15669",
-  "vname": "マイクロストラテジー・ジャパン株式会社",
-  "vcpe": "cpe:/:microstrategy",
-  "pid": "38699",
-  "pname": "MicroStrategy Web Services",
-  "pcpe": "cpe:/a:microstrategy:web_services"
+	"vid": "15669",
+	"vname": "マイクロストラテジー・ジャパン株式会社",
+	"vcpe": "cpe:/:microstrategy",
+	"pid": "38699",
+	"pname": "MicroStrategy Web Services",
+	"pcpe": "cpe:/a:microstrategy:web_services"
 }

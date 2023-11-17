@@ -1,8 +1,8 @@
 {
-  "vid": "17007",
-  "vname": "Xilinx Inc.",
-  "vcpe": "cpe:/:xilinx",
-  "pid": "40449",
-  "pname": "UltraScale+ RFSoC ファームウェア",
-  "pcpe": "cpe:/o:xilinx:zynq_ultrascale%2b_rfsoc_firmware"
+	"vid": "17007",
+	"vname": "Xilinx Inc.",
+	"vcpe": "cpe:/:xilinx",
+	"pid": "40449",
+	"pname": "UltraScale+ RFSoC ファームウェア",
+	"pcpe": "cpe:/o:xilinx:zynq_ultrascale%2b_rfsoc_firmware"
 }

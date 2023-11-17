@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "1802",
-  "pname": "SNC-DF85N",
-  "pcpe": "cpe:/h:sony:sony_network_camera_snc-df85n"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "1802",
+	"pname": "SNC-DF85N",
+	"pcpe": "cpe:/h:sony:sony_network_camera_snc-df85n"
 }

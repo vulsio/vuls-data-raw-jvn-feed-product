@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "49716",
-  "pname": "Lenovo XClarity Orchestrator",
-  "pcpe": "cpe:/a:lenovo:xclarity_orchestrator"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "49716",
+	"pname": "Lenovo XClarity Orchestrator",
+	"pcpe": "cpe:/a:lenovo:xclarity_orchestrator"
 }

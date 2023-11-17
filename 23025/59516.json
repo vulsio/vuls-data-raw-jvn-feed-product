@@ -1,8 +1,8 @@
 {
-  "vid": "23025",
-  "vname": "openmoney api project",
-  "vcpe": "cpe:/:openmoney_api_project",
-  "pid": "59516",
-  "pname": "openmoney api",
-  "pcpe": "cpe:/a:openmoney_api_project:openmoney_api"
+	"vid": "23025",
+	"vname": "openmoney api project",
+	"vcpe": "cpe:/:openmoney_api_project",
+	"pid": "59516",
+	"pname": "openmoney api",
+	"pcpe": "cpe:/a:openmoney_api_project:openmoney_api"
 }

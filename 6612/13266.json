@@ -1,8 +1,8 @@
 {
-  "vid": "6612",
-  "vname": "akunamachata",
-  "vcpe": "cpe:/:akunamachata",
-  "pid": "13266",
-  "pname": "PayPal Express Checkout Module",
-  "pcpe": "cpe:/a:akunamachata:paypal_express_module"
+	"vid": "6612",
+	"vname": "akunamachata",
+	"vcpe": "cpe:/:akunamachata",
+	"pid": "13266",
+	"pname": "PayPal Express Checkout Module",
+	"pcpe": "cpe:/a:akunamachata:paypal_express_module"
 }

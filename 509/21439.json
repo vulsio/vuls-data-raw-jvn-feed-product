@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "21439",
-  "pname": "SAP Adaptive Server Enterprise",
-  "pcpe": "cpe:/a:sap:adaptive_server_enterprise"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "21439",
+	"pname": "SAP Adaptive Server Enterprise",
+	"pcpe": "cpe:/a:sap:adaptive_server_enterprise"
 }

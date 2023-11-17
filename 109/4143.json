@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "4143",
-  "pname": "SUCCESS SERVER",
-  "pcpe": "cpe:/a:fujitsu:success_server"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "4143",
+	"pname": "SUCCESS SERVER",
+	"pcpe": "cpe:/a:fujitsu:success_server"
 }

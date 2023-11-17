@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "39109",
-  "pname": "6ED1052-1CC08-0BA0 ファームウェア",
-  "pcpe": "cpe:/o:siemens:6ed1052-1cc08-0ba0_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "39109",
+	"pname": "6ED1052-1CC08-0BA0 ファームウェア",
+	"pcpe": "cpe:/o:siemens:6ed1052-1cc08-0ba0_firmware"
 }

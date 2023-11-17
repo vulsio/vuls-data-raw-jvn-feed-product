@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "58022",
-  "pname": "Swift Foundation",
-  "pcpe": "cpe:/a:apple:swift_foundation"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "58022",
+	"pname": "Swift Foundation",
+	"pcpe": "cpe:/a:apple:swift_foundation"
 }

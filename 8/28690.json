@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "28690",
-  "pname": "Apache Geode",
-  "pcpe": "cpe:/a:apache:geode"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "28690",
+	"pname": "Apache Geode",
+	"pcpe": "cpe:/a:apache:geode"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9873",
-  "vname": "Buffercode",
-  "vcpe": "cpe:/:buffercode",
-  "pid": "20559",
-  "pname": "Random Banner",
-  "pcpe": "cpe:/a:buffercode:random_banner"
+	"vid": "9873",
+	"vname": "Buffercode",
+	"vcpe": "cpe:/:buffercode",
+	"pid": "20559",
+	"pname": "Random Banner",
+	"pcpe": "cpe:/a:buffercode:random_banner"
 }

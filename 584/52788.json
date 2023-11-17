@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "52788",
-  "pname": "CPU 1214FC ファームウェア",
-  "pcpe": "cpe:/o:siemens:cpu_1214fc_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "52788",
+	"pname": "CPU 1214FC ファームウェア",
+	"pcpe": "cpe:/o:siemens:cpu_1214fc_firmware"
 }

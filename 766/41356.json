@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "41356",
-  "pname": "Modicon 140CRA ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:modicon_140cra_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "41356",
+	"pname": "Modicon 140CRA ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:modicon_140cra_firmware"
 }

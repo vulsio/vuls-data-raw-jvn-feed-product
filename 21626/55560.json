@@ -1,8 +1,8 @@
 {
-  "vid": "21626",
-  "vname": "Email Tracker project",
-  "vcpe": "cpe:/:email_tracker_project",
-  "pid": "55560",
-  "pname": "Email Tracker",
-  "pcpe": "cpe:/a:email_tracker_project:email_tracker"
+	"vid": "21626",
+	"vname": "Email Tracker project",
+	"vcpe": "cpe:/:email_tracker_project",
+	"pid": "55560",
+	"pname": "Email Tracker",
+	"pcpe": "cpe:/a:email_tracker_project:email_tracker"
 }

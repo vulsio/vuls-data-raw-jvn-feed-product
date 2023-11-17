@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "38051",
-  "pname": "Web Station",
-  "pcpe": "cpe:/a:synology:web_station"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "38051",
+	"pname": "Web Station",
+	"pcpe": "cpe:/a:synology:web_station"
 }

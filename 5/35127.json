@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "35127",
-  "pname": "SDM710 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sdm_710_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "35127",
+	"pname": "SDM710 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sdm_710_firmware"
 }

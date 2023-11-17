@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "18125",
-  "pname": "McAfee Web Gateway",
-  "pcpe": "cpe:/h:mcafee:web_gateway"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "18125",
+	"pname": "McAfee Web Gateway",
+	"pcpe": "cpe:/h:mcafee:web_gateway"
 }

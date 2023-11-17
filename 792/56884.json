@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56884",
-  "pname": "XGS1930-52 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:xgs1930-52_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56884",
+	"pname": "XGS1930-52 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:xgs1930-52_firmware"
 }

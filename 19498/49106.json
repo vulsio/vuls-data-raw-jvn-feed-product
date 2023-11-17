@@ -1,8 +1,8 @@
 {
-  "vid": "19498",
-  "vname": "ozone project",
-  "vcpe": "cpe:/:ozone_project",
-  "pid": "49106",
-  "pname": "ozone",
-  "pcpe": "cpe:/a:ozone_project:ozone"
+	"vid": "19498",
+	"vname": "ozone project",
+	"vcpe": "cpe:/:ozone_project",
+	"pid": "49106",
+	"pname": "ozone",
+	"pcpe": "cpe:/a:ozone_project:ozone"
 }

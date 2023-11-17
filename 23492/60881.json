@@ -1,8 +1,8 @@
 {
-  "vid": "23492",
-  "vname": "WireGuard",
-  "vcpe": "cpe:/:wireguard",
-  "pid": "60881",
-  "pname": "WireGuard",
-  "pcpe": "cpe:/a:wireguard:wireguard"
+	"vid": "23492",
+	"vname": "WireGuard",
+	"vcpe": "cpe:/:wireguard",
+	"pid": "60881",
+	"pname": "WireGuard",
+	"pcpe": "cpe:/a:wireguard:wireguard"
 }

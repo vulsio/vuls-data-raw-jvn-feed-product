@@ -1,8 +1,8 @@
 {
-  "vid": "19322",
-  "vname": "Wikimedia",
-  "vcpe": "cpe:/:wikimedia",
-  "pid": "50031",
-  "pname": "analytics-quarry-web",
-  "pcpe": "cpe:/a:wikimedia:analytics-quarry-web"
+	"vid": "19322",
+	"vname": "Wikimedia",
+	"vcpe": "cpe:/:wikimedia",
+	"pid": "50031",
+	"pname": "analytics-quarry-web",
+	"pcpe": "cpe:/a:wikimedia:analytics-quarry-web"
 }

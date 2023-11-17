@@ -1,8 +1,8 @@
 {
-  "vid": "508",
-  "vname": "PHPNUKE",
-  "vcpe": "cpe:/:phpnuke",
-  "pid": "13547",
-  "pname": "current issue module",
-  "pcpe": "cpe:/a:phpnuke:current_issue_module"
+	"vid": "508",
+	"vname": "PHPNUKE",
+	"vcpe": "cpe:/:phpnuke",
+	"pid": "13547",
+	"pname": "current issue module",
+	"pcpe": "cpe:/a:phpnuke:current_issue_module"
 }

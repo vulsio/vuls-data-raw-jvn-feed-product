@@ -1,8 +1,8 @@
 {
-  "vid": "9467",
-  "vname": "Hughes Network Systems",
-  "vcpe": "cpe:/:hughes",
-  "pid": "28804",
-  "pname": "HN7740S",
-  "pcpe": "cpe:/o:hughes:hn7740s_firmware"
+	"vid": "9467",
+	"vname": "Hughes Network Systems",
+	"vcpe": "cpe:/:hughes",
+	"pid": "28804",
+	"pname": "HN7740S",
+	"pcpe": "cpe:/o:hughes:hn7740s_firmware"
 }

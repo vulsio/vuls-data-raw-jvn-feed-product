@@ -1,8 +1,8 @@
 {
-  "vid": "18477",
-  "vname": "RosarioSIS",
-  "vcpe": "cpe:/:rosariosis",
-  "pid": "45966",
-  "pname": "Student Information System",
-  "pcpe": "cpe:/a:rosariosis:student_information_system"
+	"vid": "18477",
+	"vname": "RosarioSIS",
+	"vcpe": "cpe:/:rosariosis",
+	"pid": "45966",
+	"pname": "Student Information System",
+	"pcpe": "cpe:/a:rosariosis:student_information_system"
 }

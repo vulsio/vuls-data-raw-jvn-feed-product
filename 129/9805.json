@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "9805",
-  "pname": "uCosminexus Application Server Standard",
-  "pcpe": "cpe:/a:hitachi:ucosminexus_application_server_standard"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "9805",
+	"pname": "uCosminexus Application Server Standard",
+	"pcpe": "cpe:/a:hitachi:ucosminexus_application_server_standard"
 }

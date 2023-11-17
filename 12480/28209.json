@@ -1,8 +1,8 @@
 {
-  "vid": "12480",
-  "vname": "virglrenderer project",
-  "vcpe": "cpe:/:virglrenderer_project",
-  "pid": "28209",
-  "pname": "virglrenderer",
-  "pcpe": "cpe:/a:virglrenderer_project:virglrenderer_virglrenderer"
+	"vid": "12480",
+	"vname": "virglrenderer project",
+	"vcpe": "cpe:/:virglrenderer_project",
+	"pid": "28209",
+	"pname": "virglrenderer",
+	"pcpe": "cpe:/a:virglrenderer_project:virglrenderer_virglrenderer"
 }

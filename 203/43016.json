@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "43016",
-  "pname": "RPCS Raster Driver",
-  "pcpe": "cpe:/a:ricoh:rpcs_raster_driver"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "43016",
+	"pname": "RPCS Raster Driver",
+	"pcpe": "cpe:/a:ricoh:rpcs_raster_driver"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15927",
-  "vname": "cross reference project",
-  "vcpe": "cpe:/:cross_reference_project",
-  "pid": "37177",
-  "pname": "cross reference",
-  "pcpe": "cpe:/a:cross_reference_project:cross_reference"
+	"vid": "15927",
+	"vname": "cross reference project",
+	"vcpe": "cpe:/:cross_reference_project",
+	"pid": "37177",
+	"pname": "cross reference",
+	"pcpe": "cpe:/a:cross_reference_project:cross_reference"
 }

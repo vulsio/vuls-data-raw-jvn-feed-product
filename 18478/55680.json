@@ -1,8 +1,8 @@
 {
-  "vid": "18478",
-  "vname": "Rittal",
-  "vcpe": "cpe:/:rittal",
-  "pid": "55680",
-  "pname": "CMC III",
-  "pcpe": "cpe:/o:rittal:cmc_iii"
+	"vid": "18478",
+	"vname": "Rittal",
+	"vcpe": "cpe:/:rittal",
+	"pid": "55680",
+	"pname": "CMC III",
+	"pcpe": "cpe:/o:rittal:cmc_iii"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "58573",
-  "pname": "aws client vpn",
-  "pcpe": "cpe:/a:amazon:aws_client_vpn"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "58573",
+	"pname": "aws client vpn",
+	"pcpe": "cpe:/a:amazon:aws_client_vpn"
 }

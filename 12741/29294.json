@@ -1,8 +1,8 @@
 {
-  "vid": "12741",
-  "vname": "WhatsApp Inc",
-  "vcpe": "cpe:/:whatsapp_inc",
-  "pid": "29294",
-  "pname": "WhatsApp Messenger",
-  "pcpe": "cpe:/a:whatsapp_inc:whatsapp_messenger"
+	"vid": "12741",
+	"vname": "WhatsApp Inc",
+	"vcpe": "cpe:/:whatsapp_inc",
+	"pid": "29294",
+	"pname": "WhatsApp Messenger",
+	"pcpe": "cpe:/a:whatsapp_inc:whatsapp_messenger"
 }

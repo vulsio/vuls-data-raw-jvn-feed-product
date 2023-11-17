@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "16229",
-  "pname": "unamed theme",
-  "pcpe": "cpe:/a:wordpress:unamed_theme"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "16229",
+	"pname": "unamed theme",
+	"pcpe": "cpe:/a:wordpress:unamed_theme"
 }

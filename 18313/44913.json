@@ -1,8 +1,8 @@
 {
-  "vid": "18313",
-  "vname": "em-imap project",
-  "vcpe": "cpe:/:em-imap_project",
-  "pid": "44913",
-  "pname": "em-imap",
-  "pcpe": "cpe:/a:em-imap_project:em-imap"
+	"vid": "18313",
+	"vname": "em-imap project",
+	"vcpe": "cpe:/:em-imap_project",
+	"pid": "44913",
+	"pname": "em-imap",
+	"pcpe": "cpe:/a:em-imap_project:em-imap"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "67",
-  "vname": "SquirrelMail Project",
-  "vcpe": "cpe:/:squirrelmail",
-  "pid": "538",
-  "pname": "SquirrelMail",
-  "pcpe": "cpe:/a:squirrelmail:squirrelmail"
+	"vid": "67",
+	"vname": "SquirrelMail Project",
+	"vcpe": "cpe:/:squirrelmail",
+	"pid": "538",
+	"pname": "SquirrelMail",
+	"pcpe": "cpe:/a:squirrelmail:squirrelmail"
 }

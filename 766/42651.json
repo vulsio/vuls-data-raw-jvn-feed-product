@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "42651",
-  "pname": "EcoStruxure Control Expert",
-  "pcpe": "cpe:/a:schneider_electric:ecostruxure_control_expert"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "42651",
+	"pname": "EcoStruxure Control Expert",
+	"pcpe": "cpe:/a:schneider_electric:ecostruxure_control_expert"
 }

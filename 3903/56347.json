@@ -1,8 +1,8 @@
 {
-  "vid": "3903",
-  "vname": "garmin",
-  "vcpe": "cpe:/:garmin",
-  "pid": "56347",
-  "pname": "Garmin Connect",
-  "pcpe": "cpe:/a:garmin:connect"
+	"vid": "3903",
+	"vname": "garmin",
+	"vcpe": "cpe:/:garmin",
+	"pid": "56347",
+	"pname": "Garmin Connect",
+	"pcpe": "cpe:/a:garmin:connect"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "30100",
-  "pname": "XHQ",
-  "pcpe": "cpe:/a:siemens:xhq_server"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "30100",
+	"pname": "XHQ",
+	"pcpe": "cpe:/a:siemens:xhq_server"
 }

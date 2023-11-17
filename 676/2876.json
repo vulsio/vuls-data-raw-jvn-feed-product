@@ -1,8 +1,8 @@
 {
-  "vid": "676",
-  "vname": "Plone Foundation",
-  "vcpe": "cpe:/:plone",
-  "pid": "2876",
-  "pname": "Plone",
-  "pcpe": "cpe:/a:plone:plone"
+	"vid": "676",
+	"vname": "Plone Foundation",
+	"vcpe": "cpe:/:plone",
+	"pid": "2876",
+	"pname": "Plone",
+	"pcpe": "cpe:/a:plone:plone"
 }

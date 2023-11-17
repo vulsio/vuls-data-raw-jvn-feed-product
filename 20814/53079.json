@@ -1,8 +1,8 @@
 {
-  "vid": "20814",
-  "vname": "Device42",
-  "vcpe": "cpe:/:device42",
-  "pid": "53079",
-  "pname": "Device42",
-  "pcpe": "cpe:/a:device42:device42"
+	"vid": "20814",
+	"vname": "Device42",
+	"vcpe": "cpe:/:device42",
+	"pid": "53079",
+	"pname": "Device42",
+	"pcpe": "cpe:/a:device42:device42"
 }

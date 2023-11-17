@@ -1,8 +1,8 @@
 {
-  "vid": "1837",
-  "vname": "Quest Software Inc.",
-  "vcpe": "cpe:/:quest",
-  "pid": "28843",
-  "pname": "Quest Privilege Manager",
-  "pcpe": "cpe:/a:quest:privilege_manager"
+	"vid": "1837",
+	"vname": "Quest Software Inc.",
+	"vcpe": "cpe:/:quest",
+	"pid": "28843",
+	"pname": "Quest Privilege Manager",
+	"pcpe": "cpe:/a:quest:privilege_manager"
 }

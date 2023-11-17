@@ -1,8 +1,8 @@
 {
-  "vid": "4431",
-  "vname": "Nuance Communications",
-  "vcpe": "cpe:/:nuance",
-  "pid": "16900",
-  "pname": "PDF Viewer Plus",
-  "pcpe": "cpe:/a:nuance:pdf_viewer_plus"
+	"vid": "4431",
+	"vname": "Nuance Communications",
+	"vcpe": "cpe:/:nuance",
+	"pid": "16900",
+	"pname": "PDF Viewer Plus",
+	"pcpe": "cpe:/a:nuance:pdf_viewer_plus"
 }

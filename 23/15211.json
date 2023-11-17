@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15211",
-  "pname": "norton save and recovery",
-  "pcpe": "cpe:/a:symantec:norton_save_and_recovery"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15211",
+	"pname": "norton save and recovery",
+	"pcpe": "cpe:/a:symantec:norton_save_and_recovery"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "26538",
-  "pname": "MGate MB3180",
-  "pcpe": "cpe:/h:moxa:mgate_mb3180_router"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "26538",
+	"pname": "MGate MB3180",
+	"pcpe": "cpe:/h:moxa:mgate_mb3180_router"
 }

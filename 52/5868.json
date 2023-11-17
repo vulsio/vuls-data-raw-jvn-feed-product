@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "5868",
-  "pname": "instant message framework",
-  "pcpe": "cpe:/a:apple:instant_message_framework"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "5868",
+	"pname": "instant message framework",
+	"pcpe": "cpe:/a:apple:instant_message_framework"
 }

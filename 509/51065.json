@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "51065",
-  "pname": "InfraBox",
-  "pcpe": "cpe:/a:sap:infrabox"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "51065",
+	"pname": "InfraBox",
+	"pcpe": "cpe:/a:sap:infrabox"
 }

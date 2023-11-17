@@ -1,8 +1,8 @@
 {
-  "vid": "9015",
-  "vname": "MongoDB Inc.",
-  "vcpe": "cpe:/:mongodb",
-  "pid": "44266",
-  "pname": "MongoDB Enterprise Kubernetes Operator",
-  "pcpe": "cpe:/a:mongodb:mongodb_enterprise_kubernetes_operator"
+	"vid": "9015",
+	"vname": "MongoDB Inc.",
+	"vcpe": "cpe:/:mongodb",
+	"pid": "44266",
+	"pname": "MongoDB Enterprise Kubernetes Operator",
+	"pcpe": "cpe:/a:mongodb:mongodb_enterprise_kubernetes_operator"
 }

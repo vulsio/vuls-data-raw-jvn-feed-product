@@ -1,8 +1,8 @@
 {
-  "vid": "23747",
-  "vname": "logostore project",
-  "vcpe": "cpe:/:logostore_project",
-  "pid": "61431",
-  "pname": "logostore",
-  "pcpe": "cpe:/a:logostore_project:logostore"
+	"vid": "23747",
+	"vname": "logostore project",
+	"vcpe": "cpe:/:logostore_project",
+	"pid": "61431",
+	"pname": "logostore",
+	"pcpe": "cpe:/a:logostore_project:logostore"
 }

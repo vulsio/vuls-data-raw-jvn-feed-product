@@ -1,8 +1,8 @@
 {
-  "vid": "4706",
-  "vname": "iea software",
-  "vcpe": "cpe:/:iea_software",
-  "pid": "10067",
-  "pname": "emerald",
-  "pcpe": "cpe:/a:iea_software:emerald"
+	"vid": "4706",
+	"vname": "iea software",
+	"vcpe": "cpe:/:iea_software",
+	"pid": "10067",
+	"pname": "emerald",
+	"pcpe": "cpe:/a:iea_software:emerald"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1510",
-  "vname": "hypermail-project",
-  "vcpe": "cpe:/:hypermail-project",
-  "pid": "4455",
-  "pname": "hypermail",
-  "pcpe": "cpe:/a:hypermail-project:hypermail"
+	"vid": "1510",
+	"vname": "hypermail-project",
+	"vcpe": "cpe:/:hypermail-project",
+	"pid": "4455",
+	"pname": "hypermail",
+	"pcpe": "cpe:/a:hypermail-project:hypermail"
 }

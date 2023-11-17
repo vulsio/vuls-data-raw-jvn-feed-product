@@ -1,8 +1,8 @@
 {
-  "vid": "19735",
-  "vname": "SigmaPlugin",
-  "vcpe": "cpe:/:sigmaplugin",
-  "pid": "62600",
-  "pname": "Advanced WordPress Reset",
-  "pcpe": "cpe:/a:sigmaplugin:advanced_wordpress_reset"
+	"vid": "19735",
+	"vname": "SigmaPlugin",
+	"vcpe": "cpe:/:sigmaplugin",
+	"pid": "62600",
+	"pname": "Advanced WordPress Reset",
+	"pcpe": "cpe:/a:sigmaplugin:advanced_wordpress_reset"
 }

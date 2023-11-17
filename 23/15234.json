@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15234",
-  "pname": "veritas netbackup client",
-  "pcpe": "cpe:/a:symantec:veritas_netbackup_client"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15234",
+	"pname": "veritas netbackup client",
+	"pcpe": "cpe:/a:symantec:veritas_netbackup_client"
 }

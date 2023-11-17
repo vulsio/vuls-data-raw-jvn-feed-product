@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29201",
-  "pname": "SCALANCE X300 ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_x300_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29201",
+	"pname": "SCALANCE X300 ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_x300_firmware"
 }

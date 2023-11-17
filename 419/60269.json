@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "60269",
-  "pname": "8700 ファームウェア",
-  "pcpe": "cpe:/o:netapp:8700_firmware"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "60269",
+	"pname": "8700 ファームウェア",
+	"pcpe": "cpe:/o:netapp:8700_firmware"
 }

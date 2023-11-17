@@ -1,8 +1,8 @@
 {
-  "vid": "14655",
-  "vname": "sync-exec project",
-  "vcpe": "cpe:/:sync-exec_project",
-  "pid": "34371",
-  "pname": "sync-exec",
-  "pcpe": "cpe:/a:sync-exec_project:sync-exec"
+	"vid": "14655",
+	"vname": "sync-exec project",
+	"vcpe": "cpe:/:sync-exec_project",
+	"pid": "34371",
+	"pname": "sync-exec",
+	"pcpe": "cpe:/a:sync-exec_project:sync-exec"
 }

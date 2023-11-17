@@ -1,8 +1,8 @@
 {
-  "vid": "22798",
-  "vname": "link-admin project",
-  "vcpe": "cpe:/:link-admin_project",
-  "pid": "58680",
-  "pname": "link-admin",
-  "pcpe": "cpe:/a:link-admin_project:link-admin"
+	"vid": "22798",
+	"vname": "link-admin project",
+	"vcpe": "cpe:/:link-admin_project",
+	"pid": "58680",
+	"pname": "link-admin",
+	"pcpe": "cpe:/a:link-admin_project:link-admin"
 }

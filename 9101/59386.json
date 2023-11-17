@@ -1,8 +1,8 @@
 {
-  "vid": "9101",
-  "vname": "ShareThis",
-  "vcpe": "cpe:/:sharethis",
-  "pid": "59386",
-  "pname": "Social Media Feather",
-  "pcpe": "cpe:/a:sharethis:social_media_feather"
+	"vid": "9101",
+	"vname": "ShareThis",
+	"vcpe": "cpe:/:sharethis",
+	"pid": "59386",
+	"pname": "Social Media Feather",
+	"pcpe": "cpe:/a:sharethis:social_media_feather"
 }

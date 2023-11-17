@@ -1,8 +1,8 @@
 {
-  "vid": "7660",
-  "vname": "skrypty",
-  "vcpe": "cpe:/:skrypty",
-  "pid": "14846",
-  "pname": "ppa gallery",
-  "pcpe": "cpe:/a:skrypty:ppa_gallery"
+	"vid": "7660",
+	"vname": "skrypty",
+	"vcpe": "cpe:/:skrypty",
+	"pid": "14846",
+	"pname": "ppa gallery",
+	"pcpe": "cpe:/a:skrypty:ppa_gallery"
 }

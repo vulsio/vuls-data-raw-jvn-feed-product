@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "21500",
-  "pname": "Tivoli Composite Application Manager for Transactions",
-  "pcpe": "cpe:/a:ibm:tivoli_composite_application_manager_for_transactions"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "21500",
+	"pname": "Tivoli Composite Application Manager for Transactions",
+	"pcpe": "cpe:/a:ibm:tivoli_composite_application_manager_for_transactions"
 }

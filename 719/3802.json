@@ -1,8 +1,8 @@
 {
-  "vid": "719",
-  "vname": "HTC Corporation",
-  "vcpe": "cpe:/:htc",
-  "pid": "3802",
-  "pname": "HTC Droid Incredible",
-  "pcpe": "cpe:/h:htc:droid_incredible"
+	"vid": "719",
+	"vname": "HTC Corporation",
+	"vcpe": "cpe:/:htc",
+	"pid": "3802",
+	"pname": "HTC Droid Incredible",
+	"pcpe": "cpe:/h:htc:droid_incredible"
 }

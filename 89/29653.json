@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "29653",
-  "pname": "NEC Cyber Security Platform",
-  "pcpe": "cpe:/o:nec:nec_cyber_security_platform"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "29653",
+	"pname": "NEC Cyber Security Platform",
+	"pcpe": "cpe:/o:nec:nec_cyber_security_platform"
 }

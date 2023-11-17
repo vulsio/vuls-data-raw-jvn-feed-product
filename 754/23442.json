@@ -1,8 +1,8 @@
 {
-  "vid": "754",
-  "vname": "Puppet",
-  "vcpe": "cpe:/:puppetlabs",
-  "pid": "23442",
-  "pname": "puppetlabs-rabbitmq",
-  "pcpe": "cpe:/a:puppetlabs:rabbitmq"
+	"vid": "754",
+	"vname": "Puppet",
+	"vcpe": "cpe:/:puppetlabs",
+	"pid": "23442",
+	"pname": "puppetlabs-rabbitmq",
+	"pcpe": "cpe:/a:puppetlabs:rabbitmq"
 }

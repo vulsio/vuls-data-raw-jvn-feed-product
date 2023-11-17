@@ -1,8 +1,8 @@
 {
-  "vid": "13234",
-  "vname": "Tiandy Technologies CO.,LTD",
-  "vcpe": "cpe:/:tiandy",
-  "pid": "30949",
-  "pname": "Tiandy IP カメラファームウェア",
-  "pcpe": "cpe:/o:tiandy:tiandy_ip_camera_firmware"
+	"vid": "13234",
+	"vname": "Tiandy Technologies CO.,LTD",
+	"vcpe": "cpe:/:tiandy",
+	"pid": "30949",
+	"pname": "Tiandy IP カメラファームウェア",
+	"pcpe": "cpe:/o:tiandy:tiandy_ip_camera_firmware"
 }

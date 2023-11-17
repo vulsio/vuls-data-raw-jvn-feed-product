@@ -1,8 +1,8 @@
 {
-  "vid": "14064",
-  "vname": "Vecna Technologies, Inc.",
-  "vcpe": "cpe:/:vecna",
-  "pid": "33519",
-  "pname": "VGo ファームウェア",
-  "pcpe": "cpe:/o:vecna:vgo_firmware"
+	"vid": "14064",
+	"vname": "Vecna Technologies, Inc.",
+	"vcpe": "cpe:/:vecna",
+	"pid": "33519",
+	"pname": "VGo ファームウェア",
+	"pcpe": "cpe:/o:vecna:vgo_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "4136",
-  "pname": "PowerVault ML6020",
-  "pcpe": "cpe:/h:dell:powervault_ml6020"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "4136",
+	"pname": "PowerVault ML6020",
+	"pcpe": "cpe:/h:dell:powervault_ml6020"
 }

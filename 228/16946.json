@@ -1,8 +1,8 @@
 {
-  "vid": "228",
-  "vname": "Fedora Project",
-  "vcpe": "cpe:/:fedoraproject",
-  "pid": "16946",
-  "pname": "Fedora Rawhide",
-  "pcpe": "cpe:/o:fedoraproject:fedora_release_rawhide"
+	"vid": "228",
+	"vname": "Fedora Project",
+	"vcpe": "cpe:/:fedoraproject",
+	"pid": "16946",
+	"pname": "Fedora Rawhide",
+	"pcpe": "cpe:/o:fedoraproject:fedora_release_rawhide"
 }

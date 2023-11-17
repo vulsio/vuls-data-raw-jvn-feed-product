@@ -1,8 +1,8 @@
 {
-  "vid": "18077",
-  "vname": "QuantumCloud",
-  "vcpe": "cpe:/:quantumcloud",
-  "pid": "58801",
-  "pname": "Infographic Maker",
-  "pcpe": "cpe:/a:quantumcloud:infographic_maker"
+	"vid": "18077",
+	"vname": "QuantumCloud",
+	"vcpe": "cpe:/:quantumcloud",
+	"pid": "58801",
+	"pname": "Infographic Maker",
+	"pcpe": "cpe:/a:quantumcloud:infographic_maker"
 }

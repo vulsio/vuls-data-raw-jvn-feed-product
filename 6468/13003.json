@@ -1,8 +1,8 @@
 {
-  "vid": "6468",
-  "vname": "Koninklijke Philips N.V.",
-  "vcpe": "cpe:/:philips_electronics",
-  "pid": "13003",
-  "pname": "voip841 dect phone",
-  "pcpe": "cpe:/h:philips_electronics:voip841_dect_phone"
+	"vid": "6468",
+	"vname": "Koninklijke Philips N.V.",
+	"vcpe": "cpe:/:philips_electronics",
+	"pid": "13003",
+	"pname": "voip841 dect phone",
+	"pcpe": "cpe:/h:philips_electronics:voip841_dect_phone"
 }

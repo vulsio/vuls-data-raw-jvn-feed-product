@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "25843",
-  "pname": "Panel Builder 800",
-  "pcpe": "cpe:/a:abb:panel_builder_800"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "25843",
+	"pname": "Panel Builder 800",
+	"pcpe": "cpe:/a:abb:panel_builder_800"
 }

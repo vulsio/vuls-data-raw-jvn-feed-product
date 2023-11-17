@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "45264",
-  "pname": "Cisco Unified IP Phone 7841 ファームウェア",
-  "pcpe": "cpe:/o:cisco:unified_ip_phone_7841_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "45264",
+	"pname": "Cisco Unified IP Phone 7841 ファームウェア",
+	"pcpe": "cpe:/o:cisco:unified_ip_phone_7841_firmware"
 }

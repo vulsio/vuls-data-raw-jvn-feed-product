@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25538",
-  "pname": "JG361B HP HSR6802 Router Chassis",
-  "pcpe": "cpe:/h:hp:jg361b_hp_hsr6802_router_chassis"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25538",
+	"pname": "JG361B HP HSR6802 Router Chassis",
+	"pcpe": "cpe:/h:hp:jg361b_hp_hsr6802_router_chassis"
 }

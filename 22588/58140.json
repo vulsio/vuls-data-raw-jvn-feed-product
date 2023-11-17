@@ -1,8 +1,8 @@
 {
-  "vid": "22588",
-  "vname": "opengroup",
-  "vcpe": "cpe:/:opengroup",
-  "pid": "58140",
-  "pname": "Common Desktop Environment",
-  "pcpe": "cpe:/a:opengroup:common_desktop_environment"
+	"vid": "22588",
+	"vname": "opengroup",
+	"vcpe": "cpe:/:opengroup",
+	"pid": "58140",
+	"pname": "Common Desktop Environment",
+	"pcpe": "cpe:/a:opengroup:common_desktop_environment"
 }

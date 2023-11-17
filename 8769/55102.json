@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "55102",
-  "pname": "Kazoo Server",
-  "pcpe": "cpe:/a:qnap:kazoo_server"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "55102",
+	"pname": "Kazoo Server",
+	"pcpe": "cpe:/a:qnap:kazoo_server"
 }

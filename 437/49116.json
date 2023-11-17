@@ -1,8 +1,8 @@
 {
-  "vid": "437",
-  "vname": "ベリタス",
-  "vcpe": "cpe:/:veritas",
-  "pid": "49116",
-  "pname": "Desktop and Laptop Option",
-  "pcpe": "cpe:/a:veritas:desktop_and_laptop_option"
+	"vid": "437",
+	"vname": "ベリタス",
+	"vcpe": "cpe:/:veritas",
+	"pid": "49116",
+	"pname": "Desktop and Laptop Option",
+	"pcpe": "cpe:/a:veritas:desktop_and_laptop_option"
 }

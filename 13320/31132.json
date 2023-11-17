@@ -1,8 +1,8 @@
 {
-  "vid": "13320",
-  "vname": "reseed project",
-  "vcpe": "cpe:/:reseed_project",
-  "pid": "31132",
-  "pname": "reseed",
-  "pcpe": "cpe:/a:reseed_project:reseed"
+	"vid": "13320",
+	"vname": "reseed project",
+	"vcpe": "cpe:/:reseed_project",
+	"pid": "31132",
+	"pname": "reseed",
+	"pcpe": "cpe:/a:reseed_project:reseed"
 }

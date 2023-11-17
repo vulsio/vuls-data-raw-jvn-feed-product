@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "33636",
-  "pname": "CH242 V5 ファームウェア",
-  "pcpe": "cpe:/o:huawei:ch242_v5_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "33636",
+	"pname": "CH242 V5 ファームウェア",
+	"pcpe": "cpe:/o:huawei:ch242_v5_firmware"
 }

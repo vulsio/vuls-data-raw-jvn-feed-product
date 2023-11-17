@@ -1,8 +1,8 @@
 {
-  "vid": "5637",
-  "vname": "マイクロフォーカス株式会社",
-  "vcpe": "cpe:/:microfocus",
-  "pid": "40533",
-  "pname": "Service Manager Chat Service",
-  "pcpe": "cpe:/a:microfocus:service_manager_chat_service"
+	"vid": "5637",
+	"vname": "マイクロフォーカス株式会社",
+	"vcpe": "cpe:/:microfocus",
+	"pid": "40533",
+	"pname": "Service Manager Chat Service",
+	"pcpe": "cpe:/a:microfocus:service_manager_chat_service"
 }

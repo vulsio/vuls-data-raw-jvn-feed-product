@@ -1,8 +1,8 @@
 {
-  "vid": "19698",
-  "vname": "pugjs",
-  "vcpe": "cpe:/:pugjs",
-  "pid": "49661",
-  "pname": "pug",
-  "pcpe": "cpe:/a:pugjs:pug"
+	"vid": "19698",
+	"vname": "pugjs",
+	"vcpe": "cpe:/:pugjs",
+	"pid": "49661",
+	"pname": "pug",
+	"pcpe": "cpe:/a:pugjs:pug"
 }

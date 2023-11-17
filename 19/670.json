@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "670",
-  "pname": "Cisco IGX 8400 シリーズ",
-  "pcpe": "cpe:/h:cisco:igx_8400"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "670",
+	"pname": "Cisco IGX 8400 シリーズ",
+	"pcpe": "cpe:/h:cisco:igx_8400"
 }

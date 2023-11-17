@@ -1,8 +1,8 @@
 {
-  "vid": "632",
-  "vname": "OTRS プロジェクト",
-  "vcpe": "cpe:/:otrs",
-  "pid": "57987",
-  "pname": "otrs storm",
-  "pcpe": "cpe:/a:otrs:otrs_storm"
+	"vid": "632",
+	"vname": "OTRS プロジェクト",
+	"vcpe": "cpe:/:otrs",
+	"pid": "57987",
+	"pname": "otrs storm",
+	"pcpe": "cpe:/a:otrs:otrs_storm"
 }

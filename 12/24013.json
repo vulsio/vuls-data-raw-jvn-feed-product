@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "24013",
-  "pname": "ScanMail",
-  "pcpe": "cpe:/a:trendmicro:scanmail"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "24013",
+	"pname": "ScanMail",
+	"pcpe": "cpe:/a:trendmicro:scanmail"
 }

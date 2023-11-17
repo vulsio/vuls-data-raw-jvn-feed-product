@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "24082",
-  "pname": "Tivoli Asset Discovery for Distributed",
-  "pcpe": "cpe:/a:ibm:tivoli_asset_discovery_for_distributed"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "24082",
+	"pname": "Tivoli Asset Discovery for Distributed",
+	"pcpe": "cpe:/a:ibm:tivoli_asset_discovery_for_distributed"
 }

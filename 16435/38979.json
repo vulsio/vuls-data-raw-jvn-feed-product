@@ -1,8 +1,8 @@
 {
-  "vid": "16435",
-  "vname": "ThinStation project",
-  "vcpe": "cpe:/:thinstation_project",
-  "pid": "38979",
-  "pname": "ThinStation",
-  "pcpe": "cpe:/a:thinstation_project:thinstation"
+	"vid": "16435",
+	"vname": "ThinStation project",
+	"vcpe": "cpe:/:thinstation_project",
+	"pid": "38979",
+	"pname": "ThinStation",
+	"pcpe": "cpe:/a:thinstation_project:thinstation"
 }

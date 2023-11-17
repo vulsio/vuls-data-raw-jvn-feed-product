@@ -1,8 +1,8 @@
 {
-  "vid": "3840",
-  "vname": "ftpgetter",
-  "vcpe": "cpe:/:ftpgetter",
-  "pid": "8246",
-  "pname": "FTPGetter",
-  "pcpe": "cpe:/a:ftpgetter:ftpgetter"
+	"vid": "3840",
+	"vname": "ftpgetter",
+	"vcpe": "cpe:/:ftpgetter",
+	"pid": "8246",
+	"pname": "FTPGetter",
+	"pcpe": "cpe:/a:ftpgetter:ftpgetter"
 }

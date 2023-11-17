@@ -1,8 +1,8 @@
 {
-  "vid": "10110",
-  "vname": "Cheetah Mobile",
-  "vcpe": "cpe:/:cmcm",
-  "pid": "21213",
-  "pname": "CM Backup -Restore,Cloud,Photo",
-  "pcpe": "cpe:/a:cmcm:cm_backup_-restore%2ccloud%2cphoto"
+	"vid": "10110",
+	"vname": "Cheetah Mobile",
+	"vcpe": "cpe:/:cmcm",
+	"pid": "21213",
+	"pname": "CM Backup -Restore,Cloud,Photo",
+	"pcpe": "cpe:/a:cmcm:cm_backup_-restore%2ccloud%2cphoto"
 }

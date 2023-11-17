@@ -1,8 +1,8 @@
 {
-  "vid": "20745",
-  "vname": "Twitter Friends Widget project",
-  "vcpe": "cpe:/:twitter_friends_widget_project",
-  "pid": "52920",
-  "pname": "Twitter Friends Widget",
-  "pcpe": "cpe:/a:twitter_friends_widget_project:twitter_friends_widget"
+	"vid": "20745",
+	"vname": "Twitter Friends Widget project",
+	"vcpe": "cpe:/:twitter_friends_widget_project",
+	"pid": "52920",
+	"pname": "Twitter Friends Widget",
+	"pcpe": "cpe:/a:twitter_friends_widget_project:twitter_friends_widget"
 }

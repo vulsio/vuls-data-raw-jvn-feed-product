@@ -1,8 +1,8 @@
 {
-  "vid": "22761",
-  "vname": "blueplanet-works",
-  "vcpe": "cpe:/:blueplanet-works",
-  "pid": "58566",
-  "pname": "appguard",
-  "pcpe": "cpe:/a:blueplanet-works:appguard"
+	"vid": "22761",
+	"vname": "blueplanet-works",
+	"vcpe": "cpe:/:blueplanet-works",
+	"pid": "58566",
+	"pname": "appguard",
+	"pcpe": "cpe:/a:blueplanet-works:appguard"
 }

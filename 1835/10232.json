@@ -1,8 +1,8 @@
 {
-  "vid": "1835",
-  "vname": "Intuit",
-  "vcpe": "cpe:/:intuit",
-  "pid": "10232",
-  "pname": "quicktax",
-  "pcpe": "cpe:/a:intuit:quicktax"
+	"vid": "1835",
+	"vname": "Intuit",
+	"vcpe": "cpe:/:intuit",
+	"pid": "10232",
+	"pname": "quicktax",
+	"pcpe": "cpe:/a:intuit:quicktax"
 }

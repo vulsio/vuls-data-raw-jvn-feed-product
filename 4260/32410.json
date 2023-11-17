@@ -1,8 +1,8 @@
 {
-  "vid": "4260",
-  "vname": "Linux",
-  "vcpe": "cpe:/:linux",
-  "pid": "32410",
-  "pname": "ixgbe",
-  "pcpe": "cpe:/o:linux:linux_kernel_ixgbe"
+	"vid": "4260",
+	"vname": "Linux",
+	"vcpe": "cpe:/:linux",
+	"pid": "32410",
+	"pname": "ixgbe",
+	"pcpe": "cpe:/o:linux:linux_kernel_ixgbe"
 }

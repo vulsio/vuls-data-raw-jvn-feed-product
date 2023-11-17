@@ -1,8 +1,8 @@
 {
-  "vid": "13999",
-  "vname": "デジタルガーディアン",
-  "vcpe": "cpe:/:digitalguardian",
-  "pid": "33320",
-  "pname": "Digital Guardian Management Console",
-  "pcpe": "cpe:/a:digitalguardian:management_console"
+	"vid": "13999",
+	"vname": "デジタルガーディアン",
+	"vcpe": "cpe:/:digitalguardian",
+	"pid": "33320",
+	"pname": "Digital Guardian Management Console",
+	"pcpe": "cpe:/a:digitalguardian:management_console"
 }

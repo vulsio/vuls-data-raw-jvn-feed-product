@@ -1,8 +1,8 @@
 {
-  "vid": "16014",
-  "vname": "HGiga",
-  "vcpe": "cpe:/:hgiga",
-  "pid": "49034",
-  "pname": "MSR45 iSherlock-antispam",
-  "pcpe": "cpe:/a:hgiga:msr45_isherlock-antispam"
+	"vid": "16014",
+	"vname": "HGiga",
+	"vcpe": "cpe:/:hgiga",
+	"pid": "49034",
+	"pname": "MSR45 iSherlock-antispam",
+	"pcpe": "cpe:/a:hgiga:msr45_isherlock-antispam"
 }

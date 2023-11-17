@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "6765",
-  "pname": "webns",
-  "pcpe": "cpe:/a:cisco:webns"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "6765",
+	"pname": "webns",
+	"pcpe": "cpe:/a:cisco:webns"
 }

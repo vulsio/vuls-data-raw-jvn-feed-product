@@ -1,8 +1,8 @@
 {
-  "vid": "19101",
-  "vname": "Hilscher",
-  "vcpe": "cpe:/:hilscher",
-  "pid": "50578",
-  "pname": "rcX RTOS",
-  "pcpe": "cpe:/a:hilscher:rcx_rtos"
+	"vid": "19101",
+	"vname": "Hilscher",
+	"vcpe": "cpe:/:hilscher",
+	"pid": "50578",
+	"pname": "rcX RTOS",
+	"pcpe": "cpe:/a:hilscher:rcx_rtos"
 }

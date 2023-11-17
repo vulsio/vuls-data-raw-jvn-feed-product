@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "10013",
-  "pname": "IBM Tivoli Provisioning Manager for OS Deployment",
-  "pcpe": "cpe:/a:ibm:tivoli_provisioning_manager_os_deployment"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "10013",
+	"pname": "IBM Tivoli Provisioning Manager for OS Deployment",
+	"pcpe": "cpe:/a:ibm:tivoli_provisioning_manager_os_deployment"
 }

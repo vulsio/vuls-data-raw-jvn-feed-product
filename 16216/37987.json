@@ -1,8 +1,8 @@
 {
-  "vid": "16216",
-  "vname": "CUJO AI",
-  "vcpe": "cpe:/:getcujo",
-  "pid": "37987",
-  "pname": "Smart Firewall",
-  "pcpe": "cpe:/a:getcujo:smart_firewall"
+	"vid": "16216",
+	"vname": "CUJO AI",
+	"vcpe": "cpe:/:getcujo",
+	"pid": "37987",
+	"pname": "Smart Firewall",
+	"pcpe": "cpe:/a:getcujo:smart_firewall"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "23905",
-  "pname": "ThinkServer System Manager Baseboard Management Controller ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkserver_system_manager_baseboard_management_controller_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "23905",
+	"pname": "ThinkServer System Manager Baseboard Management Controller ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkserver_system_manager_baseboard_management_controller_firmware"
 }

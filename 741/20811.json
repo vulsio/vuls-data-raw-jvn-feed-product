@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "20811",
-  "pname": "DSL-2640R",
-  "pcpe": "cpe:/h:dlink:dsl-2640r"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "20811",
+	"pname": "DSL-2640R",
+	"pcpe": "cpe:/h:dlink:dsl-2640r"
 }

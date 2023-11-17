@@ -1,8 +1,8 @@
 {
-  "vid": "21019",
-  "vname": "Mycodo project",
-  "vcpe": "cpe:/:mycodo_project",
-  "pid": "53758",
-  "pname": "Mycodo",
-  "pcpe": "cpe:/a:mycodo_project:mycodo"
+	"vid": "21019",
+	"vname": "Mycodo project",
+	"vcpe": "cpe:/:mycodo_project",
+	"pid": "53758",
+	"pname": "Mycodo",
+	"pcpe": "cpe:/a:mycodo_project:mycodo"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "57009",
-  "pname": "dbCharts",
-  "pcpe": "cpe:/a:jenkins:dbcharts"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "57009",
+	"pname": "dbCharts",
+	"pcpe": "cpe:/a:jenkins:dbcharts"
 }

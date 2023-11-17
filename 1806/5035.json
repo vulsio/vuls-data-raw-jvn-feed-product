@@ -1,8 +1,8 @@
 {
-  "vid": "1806",
-  "vname": "東芝テック",
-  "vcpe": "cpe:/:toshibatec",
-  "pid": "5035",
-  "pname": "TF-182",
-  "pcpe": "cpe:/h:toshibatec:tf-182"
+	"vid": "1806",
+	"vname": "東芝テック",
+	"vcpe": "cpe:/:toshibatec",
+	"pid": "5035",
+	"pname": "TF-182",
+	"pcpe": "cpe:/h:toshibatec:tf-182"
 }

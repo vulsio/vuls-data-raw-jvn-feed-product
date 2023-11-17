@@ -1,8 +1,8 @@
 {
-  "vid": "16978",
-  "vname": "Rustls project",
-  "vcpe": "cpe:/:rustls_project",
-  "pid": "40385",
-  "pname": "Rustls",
-  "pcpe": "cpe:/a:rustls_project:rustls"
+	"vid": "16978",
+	"vname": "Rustls project",
+	"vcpe": "cpe:/:rustls_project",
+	"pid": "40385",
+	"pname": "Rustls",
+	"pcpe": "cpe:/a:rustls_project:rustls"
 }

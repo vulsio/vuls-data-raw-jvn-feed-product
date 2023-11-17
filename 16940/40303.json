@@ -1,8 +1,8 @@
 {
-  "vid": "16940",
-  "vname": "WPServeur",
-  "vcpe": "cpe:/:wpserveur",
-  "pid": "40303",
-  "pname": "WPS Hide Login",
-  "pcpe": "cpe:/a:wpserveur:wps_hide_login"
+	"vid": "16940",
+	"vname": "WPServeur",
+	"vcpe": "cpe:/:wpserveur",
+	"pid": "40303",
+	"pname": "WPS Hide Login",
+	"pcpe": "cpe:/a:wpserveur:wps_hide_login"
 }

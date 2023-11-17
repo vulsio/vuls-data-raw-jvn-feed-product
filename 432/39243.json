@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "39243",
-  "pname": "PB610 Panel Builder 600 ファームウェア",
-  "pcpe": "cpe:/o:abb:pb610_panel_builder_600_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "39243",
+	"pname": "PB610 Panel Builder 600 ファームウェア",
+	"pcpe": "cpe:/o:abb:pb610_panel_builder_600_firmware"
 }

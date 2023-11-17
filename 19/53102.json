@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "53102",
-  "pname": "Cisco Aironet 1850e シリーズファームウェア",
-  "pcpe": "cpe:/o:cisco:aironet_1850e_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "53102",
+	"pname": "Cisco Aironet 1850e シリーズファームウェア",
+	"pcpe": "cpe:/o:cisco:aironet_1850e_firmware"
 }

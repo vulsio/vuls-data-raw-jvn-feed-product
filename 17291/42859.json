@@ -1,8 +1,8 @@
 {
-  "vid": "17291",
-  "vname": "Node-RED",
-  "vcpe": "cpe:/:nodered",
-  "pid": "42859",
-  "pname": "Node-RED",
-  "pcpe": "cpe:/a:nodered:node-red"
+	"vid": "17291",
+	"vname": "Node-RED",
+	"vcpe": "cpe:/:nodered",
+	"pid": "42859",
+	"pname": "Node-RED",
+	"pcpe": "cpe:/a:nodered:node-red"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20954",
-  "vname": "Limit Login Attempts project (miniOrange)",
-  "vcpe": "cpe:/:limit_login_attempts_project",
-  "pid": "53516",
-  "pname": "Limit Login Attempts",
-  "pcpe": "cpe:/a:limit_login_attempts_project:limit_login_attempts"
+	"vid": "20954",
+	"vname": "Limit Login Attempts project (miniOrange)",
+	"vcpe": "cpe:/:limit_login_attempts_project",
+	"pid": "53516",
+	"pname": "Limit Login Attempts",
+	"pcpe": "cpe:/a:limit_login_attempts_project:limit_login_attempts"
 }

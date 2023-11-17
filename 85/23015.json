@@ -1,8 +1,8 @@
 {
-  "vid": "85",
-  "vname": "Carnegie Mellon University (Project Cyrus)",
-  "vcpe": "cpe:/:cmu",
-  "pid": "23015",
-  "pname": "carnegie mellon silicon valley",
-  "pcpe": "cpe:/a:cmu:carnegie_mellon_silicon_valley"
+	"vid": "85",
+	"vname": "Carnegie Mellon University (Project Cyrus)",
+	"vcpe": "cpe:/:cmu",
+	"pid": "23015",
+	"pname": "carnegie mellon silicon valley",
+	"pcpe": "cpe:/a:cmu:carnegie_mellon_silicon_valley"
 }

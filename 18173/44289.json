@@ -1,8 +1,8 @@
 {
-  "vid": "18173",
-  "vname": "OpsRamp",
-  "vcpe": "cpe:/:opsramp",
-  "pid": "44289",
-  "pname": "Gateway",
-  "pcpe": "cpe:/a:opsramp:gateway"
+	"vid": "18173",
+	"vname": "OpsRamp",
+	"vcpe": "cpe:/:opsramp",
+	"pid": "44289",
+	"pname": "Gateway",
+	"pcpe": "cpe:/a:opsramp:gateway"
 }

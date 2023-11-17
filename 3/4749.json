@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "4749",
-  "pname": "IcedTea-Web",
-  "pcpe": "cpe:/a:redhat:icedtea-web"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "4749",
+	"pname": "IcedTea-Web",
+	"pcpe": "cpe:/a:redhat:icedtea-web"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11963",
-  "vname": "nTelos Inc",
-  "vcpe": "cpe:/:nteloswireless",
-  "pid": "24928",
-  "pname": "My nTelos",
-  "pcpe": "cpe:/a:nteloswireless:my_ntelos"
+	"vid": "11963",
+	"vname": "nTelos Inc",
+	"vcpe": "cpe:/:nteloswireless",
+	"pid": "24928",
+	"pname": "My nTelos",
+	"pcpe": "cpe:/a:nteloswireless:my_ntelos"
 }

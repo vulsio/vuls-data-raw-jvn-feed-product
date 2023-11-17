@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "28478",
-  "pname": "IBM Call Center for Commerce",
-  "pcpe": "cpe:/a:ibm:call_center_for_commerce"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "28478",
+	"pname": "IBM Call Center for Commerce",
+	"pcpe": "cpe:/a:ibm:call_center_for_commerce"
 }

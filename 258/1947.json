@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "1947",
-  "pname": "Eye of GNOME",
-  "pcpe": "cpe:/a:gnome:eog"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "1947",
+	"pname": "Eye of GNOME",
+	"pcpe": "cpe:/a:gnome:eog"
 }

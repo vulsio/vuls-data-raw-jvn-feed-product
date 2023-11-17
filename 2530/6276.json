@@ -1,8 +1,8 @@
 {
-  "vid": "2530",
-  "vname": "bioscripts",
-  "vcpe": "cpe:/:bioscripts",
-  "pid": "6276",
-  "pname": "minitwitter",
-  "pcpe": "cpe:/a:bioscripts:minitwitter"
+	"vid": "2530",
+	"vname": "bioscripts",
+	"vcpe": "cpe:/:bioscripts",
+	"pid": "6276",
+	"pname": "minitwitter",
+	"pcpe": "cpe:/a:bioscripts:minitwitter"
 }

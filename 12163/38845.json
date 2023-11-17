@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38845",
-  "pname": "Pipeline Remote Loader",
-  "pcpe": "cpe:/a:jenkins:pipeline_remote_loader"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38845",
+	"pname": "Pipeline Remote Loader",
+	"pcpe": "cpe:/a:jenkins:pipeline_remote_loader"
 }

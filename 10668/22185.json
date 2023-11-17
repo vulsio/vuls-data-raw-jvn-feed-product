@@ -1,8 +1,8 @@
 {
-  "vid": "10668",
-  "vname": "translation widget project",
-  "vcpe": "cpe:/:translation_widget_project",
-  "pid": "22185",
-  "pname": "translation widget",
-  "pcpe": "cpe:/a:translation_widget_project:translation_widget"
+	"vid": "10668",
+	"vname": "translation widget project",
+	"vcpe": "cpe:/:translation_widget_project",
+	"pid": "22185",
+	"pname": "translation widget",
+	"pcpe": "cpe:/a:translation_widget_project:translation_widget"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "1636",
-  "pname": "Intel PRO/Wireless 2100",
-  "pcpe": "cpe:/a:intel:2100_proset_wireless"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "1636",
+	"pname": "Intel PRO/Wireless 2100",
+	"pcpe": "cpe:/a:intel:2100_proset_wireless"
 }

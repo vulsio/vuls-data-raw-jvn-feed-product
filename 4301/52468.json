@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "52468",
-  "pname": "Kindle firmware",
-  "pcpe": "cpe:/o:amazon:kindle_firmware"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "52468",
+	"pname": "Kindle firmware",
+	"pcpe": "cpe:/o:amazon:kindle_firmware"
 }

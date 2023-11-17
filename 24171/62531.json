@@ -1,8 +1,8 @@
 {
-  "vid": "24171",
-  "vname": "Digiprove",
-  "vcpe": "cpe:/:digiprove",
-  "pid": "62531",
-  "pname": "Copyright Proof",
-  "pcpe": "cpe:/a:digiprove:copyright_proof"
+	"vid": "24171",
+	"vname": "Digiprove",
+	"vcpe": "cpe:/:digiprove",
+	"pid": "62531",
+	"pname": "Copyright Proof",
+	"pcpe": "cpe:/a:digiprove:copyright_proof"
 }

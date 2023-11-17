@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "12109",
-  "pname": "challenge response client",
-  "pcpe": "cpe:/a:novell:challenge_response_client"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "12109",
+	"pname": "challenge response client",
+	"pcpe": "cpe:/a:novell:challenge_response_client"
 }

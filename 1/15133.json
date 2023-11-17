@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "15133",
-  "pname": "java system delegated administrator",
-  "pcpe": "cpe:/a:sun:java_system_delegated_administrator"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "15133",
+	"pname": "java system delegated administrator",
+	"pcpe": "cpe:/a:sun:java_system_delegated_administrator"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14077",
-  "vname": "NECプラットフォームズ株式会社",
-  "vcpe": "cpe:/:necplatforms",
-  "pid": "46969",
-  "pname": "SL2100",
-  "pcpe": "cpe:/a:necplatforms:sl2100"
+	"vid": "14077",
+	"vname": "NECプラットフォームズ株式会社",
+	"vcpe": "cpe:/:necplatforms",
+	"pid": "46969",
+	"pname": "SL2100",
+	"pcpe": "cpe:/a:necplatforms:sl2100"
 }

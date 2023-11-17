@@ -1,8 +1,8 @@
 {
-  "vid": "13943",
-  "vname": "Seafile Ltd.",
-  "vcpe": "cpe:/:seafile",
-  "pid": "45846",
-  "pname": "Seafile Client",
-  "pcpe": "cpe:/a:seafile:seafile-client"
+	"vid": "13943",
+	"vname": "Seafile Ltd.",
+	"vcpe": "cpe:/:seafile",
+	"pid": "45846",
+	"pname": "Seafile Client",
+	"pcpe": "cpe:/a:seafile:seafile-client"
 }

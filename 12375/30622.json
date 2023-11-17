@@ -1,8 +1,8 @@
 {
-  "vid": "12375",
-  "vname": "WSO2",
-  "vcpe": "cpe:/:wso2",
-  "pid": "30622",
-  "pname": "WSO2 IoT Server",
-  "pcpe": "cpe:/a:wso2:iot_server"
+	"vid": "12375",
+	"vname": "WSO2",
+	"vcpe": "cpe:/:wso2",
+	"pid": "30622",
+	"pname": "WSO2 IoT Server",
+	"pcpe": "cpe:/a:wso2:iot_server"
 }

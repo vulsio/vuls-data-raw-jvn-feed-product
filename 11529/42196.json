@@ -1,8 +1,8 @@
 {
-  "vid": "11529",
-  "vname": "Apereo",
-  "vcpe": "cpe:/:apereo",
-  "pid": "42196",
-  "pname": "phpCAS",
-  "pcpe": "cpe:/a:apereo:phpcas"
+	"vid": "11529",
+	"vname": "Apereo",
+	"vcpe": "cpe:/:apereo",
+	"pid": "42196",
+	"pname": "phpCAS",
+	"pcpe": "cpe:/a:apereo:phpcas"
 }

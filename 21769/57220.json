@@ -1,8 +1,8 @@
 {
-  "vid": "21769",
-  "vname": "CRM Perks",
-  "vcpe": "cpe:/:crmperks",
-  "pid": "57220",
-  "pname": "CRM Perks Forms",
-  "pcpe": "cpe:/a:crmperks:crm_perks_forms"
+	"vid": "21769",
+	"vname": "CRM Perks",
+	"vcpe": "cpe:/:crmperks",
+	"pid": "57220",
+	"pname": "CRM Perks Forms",
+	"pcpe": "cpe:/a:crmperks:crm_perks_forms"
 }

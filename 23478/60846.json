@@ -1,8 +1,8 @@
 {
-  "vid": "23478",
-  "vname": "melag",
-  "vcpe": "cpe:/:melag",
-  "pid": "60846",
-  "pname": "ftp server",
-  "pcpe": "cpe:/a:melag:ftp_server"
+	"vid": "23478",
+	"vname": "melag",
+	"vcpe": "cpe:/:melag",
+	"pid": "60846",
+	"pname": "ftp server",
+	"pcpe": "cpe:/a:melag:ftp_server"
 }

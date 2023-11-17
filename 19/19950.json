@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19950",
-  "pname": "Cisco Catalyst 2900 シリーズ VLAN",
-  "pcpe": "cpe:/h:cisco:catalyst_2900_vlan"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19950",
+	"pname": "Cisco Catalyst 2900 シリーズ VLAN",
+	"pcpe": "cpe:/h:cisco:catalyst_2900_vlan"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17990",
-  "vname": "Tonnet",
-  "vcpe": "cpe:/:tonnet",
-  "pid": "43585",
-  "pname": "tat-70432n ファームウェア",
-  "pcpe": "cpe:/o:tonnet:tat-70432n_firmware"
+	"vid": "17990",
+	"vname": "Tonnet",
+	"vcpe": "cpe:/:tonnet",
+	"pid": "43585",
+	"pname": "tat-70432n ファームウェア",
+	"pcpe": "cpe:/o:tonnet:tat-70432n_firmware"
 }

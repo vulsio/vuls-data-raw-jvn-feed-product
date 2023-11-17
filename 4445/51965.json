@@ -1,8 +1,8 @@
 {
-  "vid": "4445",
-  "vname": "NCH Software",
-  "vcpe": "cpe:/:nchsoftware",
-  "pid": "51965",
-  "pname": "IVM Attendant",
-  "pcpe": "cpe:/a:nchsoftware:ivm_attendant"
+	"vid": "4445",
+	"vname": "NCH Software",
+	"vcpe": "cpe:/:nchsoftware",
+	"pid": "51965",
+	"pname": "IVM Attendant",
+	"pcpe": "cpe:/a:nchsoftware:ivm_attendant"
 }

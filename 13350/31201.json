@@ -1,8 +1,8 @@
 {
-  "vid": "13350",
-  "vname": "vde project",
-  "vcpe": "cpe:/:vde_project",
-  "pid": "31201",
-  "pname": "vde",
-  "pcpe": "cpe:/a:vde_project:vde"
+	"vid": "13350",
+	"vname": "vde project",
+	"vcpe": "cpe:/:vde_project",
+	"pid": "31201",
+	"pname": "vde",
+	"pcpe": "cpe:/a:vde_project:vde"
 }

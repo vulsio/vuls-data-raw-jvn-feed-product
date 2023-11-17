@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "26301",
-  "pname": "Citrix iOS Receiver",
-  "pcpe": "cpe:/a:citrix:ios_receiver"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "26301",
+	"pname": "Citrix iOS Receiver",
+	"pcpe": "cpe:/a:citrix:ios_receiver"
 }

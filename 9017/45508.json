@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "45508",
-  "pname": "X10DRH-iT BIOS",
-  "pcpe": "cpe:/o:supermicro:x10drh-it_bios"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "45508",
+	"pname": "X10DRH-iT BIOS",
+	"pcpe": "cpe:/o:supermicro:x10drh-it_bios"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15015",
-  "vname": "EXGROUP project",
-  "vcpe": "cpe:/:exgroup_project",
-  "pid": "34944",
-  "pname": "EXGROUP",
-  "pcpe": "cpe:/a:exgroup_project:exgroup"
+	"vid": "15015",
+	"vname": "EXGROUP project",
+	"vcpe": "cpe:/:exgroup_project",
+	"pid": "34944",
+	"pname": "EXGROUP",
+	"pcpe": "cpe:/a:exgroup_project:exgroup"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "682",
-  "vname": "Scadatec Limited",
-  "vcpe": "cpe:/:scadatec",
-  "pid": "5023",
-  "pname": "ScadaTEC ScadaPhone",
-  "pcpe": "cpe:/a:scadatec:scadaphone"
+	"vid": "682",
+	"vname": "Scadatec Limited",
+	"vcpe": "cpe:/:scadatec",
+	"pid": "5023",
+	"pname": "ScadaTEC ScadaPhone",
+	"pcpe": "cpe:/a:scadatec:scadaphone"
 }

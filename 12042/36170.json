@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "36170",
-  "pname": "HPE Device Entitlement Gateway",
-  "pcpe": "cpe:/a:hp:device_entitlement_gateway"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "36170",
+	"pname": "HPE Device Entitlement Gateway",
+	"pcpe": "cpe:/a:hp:device_entitlement_gateway"
 }

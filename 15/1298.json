@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "1298",
-  "pname": "Oracle PeopleSoft Products",
-  "pcpe": "cpe:/a:oracle:peoplesoft_products"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "1298",
+	"pname": "Oracle PeopleSoft Products",
+	"pcpe": "cpe:/a:oracle:peoplesoft_products"
 }

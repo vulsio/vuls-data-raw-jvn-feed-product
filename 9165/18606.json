@@ -1,8 +1,8 @@
 {
-  "vid": "9165",
-  "vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
-  "vcpe": "cpe:/:ruckuswireless",
-  "pid": "18606",
-  "pname": "ZoneFlex 2942 Firmware",
-  "pcpe": "cpe:/o:ruckuswireless:zoneflex_2942__firmware"
+	"vid": "9165",
+	"vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
+	"vcpe": "cpe:/:ruckuswireless",
+	"pid": "18606",
+	"pname": "ZoneFlex 2942 Firmware",
+	"pcpe": "cpe:/o:ruckuswireless:zoneflex_2942__firmware"
 }

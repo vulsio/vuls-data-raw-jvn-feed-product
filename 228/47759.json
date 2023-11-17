@@ -1,8 +1,8 @@
 {
-  "vid": "228",
-  "vname": "Fedora Project",
-  "vcpe": "cpe:/:fedoraproject",
-  "pid": "47759",
-  "pname": "Extra Packages For Enterprise Linux",
-  "pcpe": "cpe:/a:fedoraproject:extra_packages_for_enterprise_linux"
+	"vid": "228",
+	"vname": "Fedora Project",
+	"vcpe": "cpe:/:fedoraproject",
+	"pid": "47759",
+	"pname": "Extra Packages For Enterprise Linux",
+	"pcpe": "cpe:/a:fedoraproject:extra_packages_for_enterprise_linux"
 }

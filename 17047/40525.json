@@ -1,8 +1,8 @@
 {
-  "vid": "17047",
-  "vname": "spin-rs project",
-  "vcpe": "cpe:/:spin-rs_project",
-  "pid": "40525",
-  "pname": "spin-rs",
-  "pcpe": "cpe:/a:spin-rs_project:spin-rs"
+	"vid": "17047",
+	"vname": "spin-rs project",
+	"vcpe": "cpe:/:spin-rs_project",
+	"pid": "40525",
+	"pname": "spin-rs",
+	"pcpe": "cpe:/a:spin-rs_project:spin-rs"
 }

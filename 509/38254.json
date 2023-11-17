@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "38254",
-  "pname": "SAP NetWeaver Process Integration",
-  "pcpe": "cpe:/a:sap:netweaver_process_integration"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "38254",
+	"pname": "SAP NetWeaver Process Integration",
+	"pcpe": "cpe:/a:sap:netweaver_process_integration"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "27210",
-  "pname": "CFMS2025 ファームウェア",
-  "pcpe": "cpe:/o:siemens:cfms2025_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "27210",
+	"pname": "CFMS2025 ファームウェア",
+	"pcpe": "cpe:/o:siemens:cfms2025_firmware"
 }

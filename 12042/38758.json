@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "38758",
-  "pname": "NonStop Standard Security J-シリーズ",
-  "pcpe": "cpe:/a:hp:nonstop_standard_security_j_series"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "38758",
+	"pname": "NonStop Standard Security J-シリーズ",
+	"pcpe": "cpe:/a:hp:nonstop_standard_security_j_series"
 }

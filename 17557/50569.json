@@ -1,8 +1,8 @@
 {
-  "vid": "17557",
-  "vname": "Weidmueller",
-  "vcpe": "cpe:/:weidmueller",
-  "pid": "50569",
-  "pname": "IOT-GW30-4G-EU ファームウェア",
-  "pcpe": "cpe:/o:weidmueller:iot-gw30-4g-eu_firmware"
+	"vid": "17557",
+	"vname": "Weidmueller",
+	"vcpe": "cpe:/:weidmueller",
+	"pid": "50569",
+	"pname": "IOT-GW30-4G-EU ファームウェア",
+	"pcpe": "cpe:/o:weidmueller:iot-gw30-4g-eu_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "33055",
-  "pname": "Coverity",
-  "pcpe": "cpe:/a:jenkins:coverity"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "33055",
+	"pname": "Coverity",
+	"pcpe": "cpe:/a:jenkins:coverity"
 }

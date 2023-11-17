@@ -1,8 +1,8 @@
 {
-  "vid": "4074",
-  "vname": "grsecurity",
-  "vcpe": "cpe:/:grsecurity",
-  "pid": "8563",
-  "pname": "grsecurity kernel patch",
-  "pcpe": "cpe:/a:grsecurity:grsecurity_kernel_patch"
+	"vid": "4074",
+	"vname": "grsecurity",
+	"vcpe": "cpe:/:grsecurity",
+	"pid": "8563",
+	"pname": "grsecurity kernel patch",
+	"pcpe": "cpe:/a:grsecurity:grsecurity_kernel_patch"
 }

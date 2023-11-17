@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "45206",
-  "pname": "Indy Node",
-  "pcpe": "cpe:/a:linuxfoundation:indy-node"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "45206",
+	"pname": "Indy Node",
+	"pcpe": "cpe:/a:linuxfoundation:indy-node"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20840",
-  "vname": "Faveo Helpdesk",
-  "vcpe": "cpe:/:faveohelpdesk",
-  "pid": "53190",
-  "pname": "Faveo",
-  "pcpe": "cpe:/a:faveohelpdesk:faveo"
+	"vid": "20840",
+	"vname": "Faveo Helpdesk",
+	"vcpe": "cpe:/:faveohelpdesk",
+	"pid": "53190",
+	"pname": "Faveo",
+	"pcpe": "cpe:/a:faveohelpdesk:faveo"
 }

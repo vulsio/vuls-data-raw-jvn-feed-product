@@ -1,8 +1,8 @@
 {
-  "vid": "24075",
-  "vname": "Pagebar project",
-  "vcpe": "cpe:/:pagebar_project",
-  "pid": "62245",
-  "pname": "Pagebar",
-  "pcpe": "cpe:/a:pagebar_project:pagebar"
+	"vid": "24075",
+	"vname": "Pagebar project",
+	"vcpe": "cpe:/:pagebar_project",
+	"pid": "62245",
+	"pname": "Pagebar",
+	"pcpe": "cpe:/a:pagebar_project:pagebar"
 }

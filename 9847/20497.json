@@ -1,8 +1,8 @@
 {
-  "vid": "9847",
-  "vname": "swicks",
-  "vcpe": "cpe:/:woocommerce_sagepay_direct_payment_gateway_project",
-  "pid": "20497",
-  "pname": "WooCommerce SagePay Direct Payment Gateway",
-  "pcpe": "cpe:/a:woocommerce_sagepay_direct_payment_gateway_project:woocommerce_sagepay_direct_payment_gateway"
+	"vid": "9847",
+	"vname": "swicks",
+	"vcpe": "cpe:/:woocommerce_sagepay_direct_payment_gateway_project",
+	"pid": "20497",
+	"pname": "WooCommerce SagePay Direct Payment Gateway",
+	"pcpe": "cpe:/a:woocommerce_sagepay_direct_payment_gateway_project:woocommerce_sagepay_direct_payment_gateway"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13908",
-  "vname": "10-Strike Software",
-  "vcpe": "cpe:/:10-strike",
-  "pid": "33057",
-  "pname": "10-Strike Network Monitor",
-  "pcpe": "cpe:/a:10-strike:network_monitor"
+	"vid": "13908",
+	"vname": "10-Strike Software",
+	"vcpe": "cpe:/:10-strike",
+	"pid": "33057",
+	"pname": "10-Strike Network Monitor",
+	"pcpe": "cpe:/a:10-strike:network_monitor"
 }

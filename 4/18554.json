@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18554",
-  "pname": "HP LaserJet MFP M725z+",
-  "pcpe": "cpe:/h:hp:laserjet_m725zxx"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18554",
+	"pname": "HP LaserJet MFP M725z+",
+	"pcpe": "cpe:/h:hp:laserjet_m725zxx"
 }

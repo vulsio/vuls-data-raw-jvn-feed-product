@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "58866",
-  "pname": "FAS 8300 ファームウェア",
-  "pcpe": "cpe:/o:netapp:fas_8300_firmware"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "58866",
+	"pname": "FAS 8300 ファームウェア",
+	"pcpe": "cpe:/o:netapp:fas_8300_firmware"
 }

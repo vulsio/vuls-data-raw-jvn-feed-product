@@ -1,8 +1,8 @@
 {
-  "vid": "4129",
-  "vname": "PHP-Fusion",
-  "vcpe": "cpe:/:php-fusion",
-  "pid": "13537",
-  "pname": "forum rank system",
-  "pcpe": "cpe:/a:php-fusion:forum_rank_system"
+	"vid": "4129",
+	"vname": "PHP-Fusion",
+	"vcpe": "cpe:/:php-fusion",
+	"pid": "13537",
+	"pname": "forum rank system",
+	"pcpe": "cpe:/a:php-fusion:forum_rank_system"
 }

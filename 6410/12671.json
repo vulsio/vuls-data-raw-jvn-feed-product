@@ -1,8 +1,8 @@
 {
-  "vid": "6410",
-  "vname": "php upload tool",
-  "vcpe": "cpe:/:php_upload_tool",
-  "pid": "12671",
-  "pname": "php upload tool",
-  "pcpe": "cpe:/a:php_upload_tool:php_upload_tool"
+	"vid": "6410",
+	"vname": "php upload tool",
+	"vcpe": "cpe:/:php_upload_tool",
+	"pid": "12671",
+	"pname": "php upload tool",
+	"pcpe": "cpe:/a:php_upload_tool:php_upload_tool"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "52367",
-  "pname": "ideapad 1-11ADA05 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideapad_1-11ada05_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "52367",
+	"pname": "ideapad 1-11ADA05 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideapad_1-11ada05_firmware"
 }

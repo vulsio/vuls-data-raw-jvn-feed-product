@@ -1,8 +1,8 @@
 {
-  "vid": "1721",
-  "vname": "SolarWinds",
-  "vcpe": "cpe:/:solarwinds",
-  "pid": "57331",
-  "pname": "Dynamips",
-  "pcpe": "cpe:/a:solarwinds:dynamips"
+	"vid": "1721",
+	"vname": "SolarWinds",
+	"vcpe": "cpe:/:solarwinds",
+	"pid": "57331",
+	"pname": "Dynamips",
+	"pcpe": "cpe:/a:solarwinds:dynamips"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "16694",
-  "pname": "zywall 100",
-  "pcpe": "cpe:/h:zyxel:zywall_100"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "16694",
+	"pname": "zywall 100",
+	"pcpe": "cpe:/h:zyxel:zywall_100"
 }

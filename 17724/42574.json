@@ -1,8 +1,8 @@
 {
-  "vid": "17724",
-  "vname": "FooPlugins",
-  "vcpe": "cpe:/:fooplugins",
-  "pid": "42574",
-  "pname": "FooGallery",
-  "pcpe": "cpe:/a:fooplugins:foogallery"
+	"vid": "17724",
+	"vname": "FooPlugins",
+	"vcpe": "cpe:/:fooplugins",
+	"pid": "42574",
+	"pname": "FooGallery",
+	"pcpe": "cpe:/a:fooplugins:foogallery"
 }

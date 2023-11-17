@@ -1,8 +1,8 @@
 {
-  "vid": "14304",
-  "vname": "PouchDB",
-  "vcpe": "cpe:/:pouchdb",
-  "pid": "33985",
-  "pname": "PouchDB",
-  "pcpe": "cpe:/a:pouchdb:pouchdb"
+	"vid": "14304",
+	"vname": "PouchDB",
+	"vcpe": "cpe:/:pouchdb",
+	"pid": "33985",
+	"pname": "PouchDB",
+	"pcpe": "cpe:/a:pouchdb:pouchdb"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "49833",
-  "pname": "Sophos Connect",
-  "pcpe": "cpe:/a:sophos:connect"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "49833",
+	"pname": "Sophos Connect",
+	"pcpe": "cpe:/a:sophos:connect"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "47042",
-  "pname": "Cisco SourceFire Defense Center",
-  "pcpe": "cpe:/a:cisco:sourcefire_defense_center"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "47042",
+	"pname": "Cisco SourceFire Defense Center",
+	"pcpe": "cpe:/a:cisco:sourcefire_defense_center"
 }

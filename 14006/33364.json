@@ -1,8 +1,8 @@
 {
-  "vid": "14006",
-  "vname": "Spotify",
-  "vcpe": "cpe:/:spotify",
-  "pid": "33364",
-  "pname": "Spotify",
-  "pcpe": "cpe:/a:spotify:spotify"
+	"vid": "14006",
+	"vname": "Spotify",
+	"vcpe": "cpe:/:spotify",
+	"pid": "33364",
+	"pname": "Spotify",
+	"pcpe": "cpe:/a:spotify:spotify"
 }

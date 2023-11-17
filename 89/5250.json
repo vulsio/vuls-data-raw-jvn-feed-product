@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "5250",
-  "pname": "WARPSTER",
-  "pcpe": "cpe:/h:nec:warpster"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "5250",
+	"pname": "WARPSTER",
+	"pcpe": "cpe:/h:nec:warpster"
 }

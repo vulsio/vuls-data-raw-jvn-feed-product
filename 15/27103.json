@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27103",
-  "pname": "Oracle Advanced Supply Chain Planning",
-  "pcpe": "cpe:/a:oracle:advanced_supply_chain_planning"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27103",
+	"pname": "Oracle Advanced Supply Chain Planning",
+	"pcpe": "cpe:/a:oracle:advanced_supply_chain_planning"
 }

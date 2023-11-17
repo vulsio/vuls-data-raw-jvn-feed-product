@@ -1,8 +1,8 @@
 {
-  "vid": "6312",
-  "vname": "pegasus",
-  "vcpe": "cpe:/:pegasus",
-  "pid": "12543",
-  "pname": "mercury mail transport system",
-  "pcpe": "cpe:/a:pegasus:mercury_mail_transport_system"
+	"vid": "6312",
+	"vname": "pegasus",
+	"vcpe": "cpe:/:pegasus",
+	"pid": "12543",
+	"pname": "mercury mail transport system",
+	"pcpe": "cpe:/a:pegasus:mercury_mail_transport_system"
 }

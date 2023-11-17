@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "57385",
-  "pname": "Easergy P343 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:easergy_p343_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "57385",
+	"pname": "Easergy P343 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:easergy_p343_firmware"
 }

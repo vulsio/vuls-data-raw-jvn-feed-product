@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "59708",
-  "pname": "scalance sc626-2c ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_sc626-2c_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "59708",
+	"pname": "scalance sc626-2c ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_sc626-2c_firmware"
 }

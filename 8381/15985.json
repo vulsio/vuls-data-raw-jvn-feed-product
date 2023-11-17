@@ -1,8 +1,8 @@
 {
-  "vid": "8381",
-  "vname": "wabbit",
-  "vcpe": "cpe:/:wabbit",
-  "pid": "15985",
-  "pname": "wabbit php gallery",
-  "pcpe": "cpe:/a:wabbit:wabbit_php_gallery"
+	"vid": "8381",
+	"vname": "wabbit",
+	"vcpe": "cpe:/:wabbit",
+	"pid": "15985",
+	"pname": "wabbit php gallery",
+	"pcpe": "cpe:/a:wabbit:wabbit_php_gallery"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18956",
-  "pname": "HP Officejet Pro 8500 All-in-One Printer",
-  "pcpe": "cpe:/h:hp:officejet_pro_8500"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18956",
+	"pname": "HP Officejet Pro 8500 All-in-One Printer",
+	"pcpe": "cpe:/h:hp:officejet_pro_8500"
 }

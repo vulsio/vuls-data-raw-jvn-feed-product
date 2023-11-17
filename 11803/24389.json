@@ -1,8 +1,8 @@
 {
-  "vid": "11803",
-  "vname": "Zurmo Inc.",
-  "vcpe": "cpe:/:zurmo",
-  "pid": "24389",
-  "pname": "Zurmo CRM",
-  "pcpe": "cpe:/a:zurmo:zurmo_crm"
+	"vid": "11803",
+	"vname": "Zurmo Inc.",
+	"vcpe": "cpe:/:zurmo",
+	"pid": "24389",
+	"pname": "Zurmo CRM",
+	"pcpe": "cpe:/a:zurmo:zurmo_crm"
 }

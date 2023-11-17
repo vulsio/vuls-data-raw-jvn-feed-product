@@ -1,8 +1,8 @@
 {
-  "vid": "15185",
-  "vname": "Bootstrap",
-  "vcpe": "cpe:/:getbootstrap",
-  "pid": "35146",
-  "pname": "Bootstrap",
-  "pcpe": "cpe:/a:getbootstrap:bootstrap"
+	"vid": "15185",
+	"vname": "Bootstrap",
+	"vcpe": "cpe:/:getbootstrap",
+	"pid": "35146",
+	"pname": "Bootstrap",
+	"pcpe": "cpe:/a:getbootstrap:bootstrap"
 }

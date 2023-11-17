@@ -1,8 +1,8 @@
 {
-  "vid": "23910",
-  "vname": "reqmon project",
-  "vcpe": "cpe:/:reqmon_project",
-  "pid": "61844",
-  "pname": "reqmon",
-  "pcpe": "cpe:/a:reqmon_project:reqmon"
+	"vid": "23910",
+	"vname": "reqmon project",
+	"vcpe": "cpe:/:reqmon_project",
+	"pid": "61844",
+	"pname": "reqmon",
+	"pcpe": "cpe:/a:reqmon_project:reqmon"
 }

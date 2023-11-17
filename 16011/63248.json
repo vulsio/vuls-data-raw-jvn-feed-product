@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "63248",
-  "pname": "bosch video management system",
-  "pcpe": "cpe:/a:bosch:bosch_video_management_system"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "63248",
+	"pname": "bosch video management system",
+	"pcpe": "cpe:/a:bosch:bosch_video_management_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "764",
-  "pname": "Cisco VG248",
-  "pcpe": "cpe:/h:cisco:vg248"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "764",
+	"pname": "Cisco VG248",
+	"pcpe": "cpe:/h:cisco:vg248"
 }

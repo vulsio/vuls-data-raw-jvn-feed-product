@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "5186",
-  "pname": "Crowd",
-  "pcpe": "cpe:/a:atlassian:crowd"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "5186",
+	"pname": "Crowd",
+	"pcpe": "cpe:/a:atlassian:crowd"
 }

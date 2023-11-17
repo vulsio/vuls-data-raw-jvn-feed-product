@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27297",
-  "pname": "YOGA 900-13ISK",
-  "pcpe": "cpe:/h:lenovo:notebook_yoga_900_13isk"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27297",
+	"pname": "YOGA 900-13ISK",
+	"pcpe": "cpe:/h:lenovo:notebook_yoga_900_13isk"
 }

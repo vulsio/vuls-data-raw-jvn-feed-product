@@ -1,8 +1,8 @@
 {
-  "vid": "22524",
-  "vname": "simple-plist project",
-  "vcpe": "cpe:/:simple-plist_project",
-  "pid": "57971",
-  "pname": "simple-plist",
-  "pcpe": "cpe:/a:simple-plist_project:simple-plist"
+	"vid": "22524",
+	"vname": "simple-plist project",
+	"vcpe": "cpe:/:simple-plist_project",
+	"pid": "57971",
+	"pname": "simple-plist",
+	"pcpe": "cpe:/a:simple-plist_project:simple-plist"
 }

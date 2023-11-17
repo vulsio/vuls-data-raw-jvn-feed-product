@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "46243",
-  "pname": "Database Filesystem",
-  "pcpe": "cpe:/a:oracle:database_filesystem"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "46243",
+	"pname": "Database Filesystem",
+	"pcpe": "cpe:/a:oracle:database_filesystem"
 }

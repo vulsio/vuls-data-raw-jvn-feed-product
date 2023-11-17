@@ -1,8 +1,8 @@
 {
-  "vid": "13025",
-  "vname": "NXP Semiconductors",
-  "vcpe": "cpe:/:nxp",
-  "pid": "51084",
-  "pname": "NTAG 213 ファームウェア",
-  "pcpe": "cpe:/o:nxp:ntag_213_firmware"
+	"vid": "13025",
+	"vname": "NXP Semiconductors",
+	"vcpe": "cpe:/:nxp",
+	"pid": "51084",
+	"pname": "NTAG 213 ファームウェア",
+	"pcpe": "cpe:/o:nxp:ntag_213_firmware"
 }

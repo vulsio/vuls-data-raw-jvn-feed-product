@@ -1,8 +1,8 @@
 {
-  "vid": "22",
-  "vname": "The PHP Group",
-  "vcpe": "cpe:/:php",
-  "pid": "40523",
-  "pname": "ext-http",
-  "pcpe": "cpe:/a:php:ext-http"
+	"vid": "22",
+	"vname": "The PHP Group",
+	"vcpe": "cpe:/:php",
+	"pid": "40523",
+	"pname": "ext-http",
+	"pcpe": "cpe:/a:php:ext-http"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6603",
-  "vname": "Authorize.Net",
-  "vcpe": "cpe:/:lincolnloop",
-  "pid": "13253",
-  "pname": "eCheck.Net",
-  "pcpe": "cpe:/a:lincolnloop:authorize.net_echeck_module"
+	"vid": "6603",
+	"vname": "Authorize.Net",
+	"vcpe": "cpe:/:lincolnloop",
+	"pid": "13253",
+	"pname": "eCheck.Net",
+	"pcpe": "cpe:/a:lincolnloop:authorize.net_echeck_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "38088",
-  "pname": "IBM Power System S924 (9009-42A) ファームウェア",
-  "pcpe": "cpe:/o:ibm:power_system_s924_%289009-42a%29_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "38088",
+	"pname": "IBM Power System S924 (9009-42A) ファームウェア",
+	"pcpe": "cpe:/o:ibm:power_system_s924_%289009-42a%29_firmware"
 }

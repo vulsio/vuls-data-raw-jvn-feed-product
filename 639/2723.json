@@ -1,8 +1,8 @@
 {
-  "vid": "639",
-  "vname": "富士フイルムビジネスイノベーション株式会社 (旧 富士ゼロックス株式会社)",
-  "vcpe": "cpe:/:fuji_xerox",
-  "pid": "2723",
-  "pname": "DocuPrint",
-  "pcpe": "cpe:/h:fuji_xerox:docuprint"
+	"vid": "639",
+	"vname": "富士フイルムビジネスイノベーション株式会社 (旧 富士ゼロックス株式会社)",
+	"vcpe": "cpe:/:fuji_xerox",
+	"pid": "2723",
+	"pname": "DocuPrint",
+	"pcpe": "cpe:/h:fuji_xerox:docuprint"
 }

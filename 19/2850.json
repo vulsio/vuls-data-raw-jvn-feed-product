@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2850",
-  "pname": "Cisco Internet Streamer",
-  "pcpe": "cpe:/a:cisco:internet_streamer"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2850",
+	"pname": "Cisco Internet Streamer",
+	"pcpe": "cpe:/a:cisco:internet_streamer"
 }

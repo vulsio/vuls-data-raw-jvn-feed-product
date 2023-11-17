@@ -1,8 +1,8 @@
 {
-  "vid": "20306",
-  "vname": "WageCMS project",
-  "vcpe": "cpe:/:wagecms_project",
-  "pid": "51805",
-  "pname": "Wage-CMS",
-  "pcpe": "cpe:/a:wagecms_project:wage-cms"
+	"vid": "20306",
+	"vname": "WageCMS project",
+	"vcpe": "cpe:/:wagecms_project",
+	"pid": "51805",
+	"pname": "Wage-CMS",
+	"pcpe": "cpe:/a:wagecms_project:wage-cms"
 }

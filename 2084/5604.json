@@ -1,8 +1,8 @@
 {
-  "vid": "2084",
-  "vname": "agileco",
-  "vcpe": "cpe:/:agileco",
-  "pid": "5604",
-  "pname": "agilevoice",
-  "pcpe": "cpe:/a:agileco:agilevoice"
+	"vid": "2084",
+	"vname": "agileco",
+	"vcpe": "cpe:/:agileco",
+	"pid": "5604",
+	"pname": "agilevoice",
+	"pcpe": "cpe:/a:agileco:agilevoice"
 }

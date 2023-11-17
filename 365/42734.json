@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "42734",
-  "pname": "Citrix XenApp Online",
-  "pcpe": "cpe:/a:citrix:xenapp_online"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "42734",
+	"pname": "Citrix XenApp Online",
+	"pcpe": "cpe:/a:citrix:xenapp_online"
 }

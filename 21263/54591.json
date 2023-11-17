@@ -1,8 +1,8 @@
 {
-  "vid": "21263",
-  "vname": "ClickBank Ads",
-  "vcpe": "cpe:/:cbads",
-  "pid": "54591",
-  "pname": "Affiliate Ads for ClickBank",
-  "pcpe": "cpe:/a:cbads:clickbank_affiliate_ads"
+	"vid": "21263",
+	"vname": "ClickBank Ads",
+	"vcpe": "cpe:/:cbads",
+	"pid": "54591",
+	"pname": "Affiliate Ads for ClickBank",
+	"pcpe": "cpe:/a:cbads:clickbank_affiliate_ads"
 }

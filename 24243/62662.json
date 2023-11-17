@@ -1,8 +1,8 @@
 {
-  "vid": "24243",
-  "vname": "wpdownloadmanager",
-  "vcpe": "cpe:/:wpdownloadmanager",
-  "pid": "62662",
-  "pname": "wordpress download manager",
-  "pcpe": "cpe:/a:wpdownloadmanager:wordpress_download_manager"
+	"vid": "24243",
+	"vname": "wpdownloadmanager",
+	"vcpe": "cpe:/:wpdownloadmanager",
+	"pid": "62662",
+	"pname": "wordpress download manager",
+	"pcpe": "cpe:/a:wpdownloadmanager:wordpress_download_manager"
 }

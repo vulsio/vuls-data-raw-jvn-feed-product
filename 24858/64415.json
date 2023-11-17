@@ -1,8 +1,8 @@
 {
-  "vid": "24858",
-  "vname": "Centralite",
-  "vcpe": "cpe:/:misc",
-  "pid": "64415",
-  "pname": "Pearl Thermostat",
-  "pcpe": "cpe:/a:misc:centralite_pearl_thermostat"
+	"vid": "24858",
+	"vname": "Centralite",
+	"vcpe": "cpe:/:misc",
+	"pid": "64415",
+	"pname": "Pearl Thermostat",
+	"pcpe": "cpe:/a:misc:centralite_pearl_thermostat"
 }

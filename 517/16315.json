@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "16315",
-  "pname": "workcentre 6400 system software",
-  "pcpe": "cpe:/a:xerox:workcentre_6400_system_software"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "16315",
+	"pname": "workcentre 6400 system software",
+	"pcpe": "cpe:/a:xerox:workcentre_6400_system_software"
 }

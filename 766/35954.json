@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "35954",
-  "pname": "PowerLogic PM5560 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:powerlogic_pm5560_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "35954",
+	"pname": "PowerLogic PM5560 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:powerlogic_pm5560_firmware"
 }

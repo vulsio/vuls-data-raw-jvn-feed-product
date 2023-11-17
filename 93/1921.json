@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1921",
-  "pname": "Localization server",
-  "pcpe": "cpe:/a:drupal:localization_server"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1921",
+	"pname": "Localization server",
+	"pcpe": "cpe:/a:drupal:localization_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "24549",
-  "pname": "Optima CT640 ファームウェア",
-  "pcpe": "cpe:/o:gehealthcare:optima_ct640_firmware"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "24549",
+	"pname": "Optima CT640 ファームウェア",
+	"pcpe": "cpe:/o:gehealthcare:optima_ct640_firmware"
 }

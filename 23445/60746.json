@@ -1,8 +1,8 @@
 {
-  "vid": "23445",
-  "vname": "PdfBook project",
-  "vcpe": "cpe:/:pdfbook_project",
-  "pid": "60746",
-  "pname": "PdfBook",
-  "pcpe": "cpe:/a:pdfbook_project:pdfbook"
+	"vid": "23445",
+	"vname": "PdfBook project",
+	"vcpe": "cpe:/:pdfbook_project",
+	"pid": "60746",
+	"pname": "PdfBook",
+	"pcpe": "cpe:/a:pdfbook_project:pdfbook"
 }

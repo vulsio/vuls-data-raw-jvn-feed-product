@@ -1,8 +1,8 @@
 {
-  "vid": "410",
-  "vname": "ModSecurity",
-  "vcpe": "cpe:/:modsecurity",
-  "pid": "1562",
-  "pname": "ModSecurity",
-  "pcpe": "cpe:/a:modsecurity:modsecurity"
+	"vid": "410",
+	"vname": "ModSecurity",
+	"vcpe": "cpe:/:modsecurity",
+	"pid": "1562",
+	"pname": "ModSecurity",
+	"pcpe": "cpe:/a:modsecurity:modsecurity"
 }

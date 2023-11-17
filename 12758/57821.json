@@ -1,8 +1,8 @@
 {
-  "vid": "12758",
-  "vname": "Taylor Otwell",
-  "vcpe": "cpe:/:laravel",
-  "pid": "57821",
-  "pname": "Laravel Fortify",
-  "pcpe": "cpe:/a:laravel:fortify"
+	"vid": "12758",
+	"vname": "Taylor Otwell",
+	"vcpe": "cpe:/:laravel",
+	"pid": "57821",
+	"pname": "Laravel Fortify",
+	"pcpe": "cpe:/a:laravel:fortify"
 }

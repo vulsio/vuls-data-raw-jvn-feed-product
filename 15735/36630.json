@@ -1,8 +1,8 @@
 {
-  "vid": "15735",
-  "vname": "YunoHost",
-  "vcpe": "cpe:/:yunohost",
-  "pid": "36630",
-  "pname": "YunoHost",
-  "pcpe": "cpe:/o:yunohost:yunohost"
+	"vid": "15735",
+	"vname": "YunoHost",
+	"vcpe": "cpe:/:yunohost",
+	"pid": "36630",
+	"pname": "YunoHost",
+	"pcpe": "cpe:/o:yunohost:yunohost"
 }

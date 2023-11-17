@@ -1,8 +1,8 @@
 {
-  "vid": "15990",
-  "vname": "OpenKMIP",
-  "vcpe": "cpe:/:pykmip_project",
-  "pid": "37374",
-  "pname": "PyKMIP",
-  "pcpe": "cpe:/a:pykmip_project:pykmip"
+	"vid": "15990",
+	"vname": "OpenKMIP",
+	"vcpe": "cpe:/:pykmip_project",
+	"pid": "37374",
+	"pname": "PyKMIP",
+	"pcpe": "cpe:/a:pykmip_project:pykmip"
 }

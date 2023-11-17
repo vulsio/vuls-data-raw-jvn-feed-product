@@ -1,8 +1,8 @@
 {
-  "vid": "9215",
-  "vname": "Cluster Labs",
-  "vcpe": "cpe:/:clusterlabs",
-  "pid": "28855",
-  "pname": "pcs",
-  "pcpe": "cpe:/a:clusterlabs:pcs"
+	"vid": "9215",
+	"vname": "Cluster Labs",
+	"vcpe": "cpe:/:clusterlabs",
+	"pid": "28855",
+	"pname": "pcs",
+	"pcpe": "cpe:/a:clusterlabs:pcs"
 }

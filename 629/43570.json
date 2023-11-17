@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "43570",
-  "pname": "ioLogik 2542 HSPA ファームウェア",
-  "pcpe": "cpe:/o:moxa:iologik_2542-hspa_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "43570",
+	"pname": "ioLogik 2542 HSPA ファームウェア",
+	"pcpe": "cpe:/o:moxa:iologik_2542-hspa_firmware"
 }

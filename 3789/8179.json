@@ -1,8 +1,8 @@
 {
-  "vid": "3789",
-  "vname": "TOTALCMD.NET",
-  "vcpe": "cpe:/:fransois_gannier",
-  "pid": "8179",
-  "pname": "FileInfo",
-  "pcpe": "cpe:/a:fransois_gannier:fileinfo_plugin"
+	"vid": "3789",
+	"vname": "TOTALCMD.NET",
+	"vcpe": "cpe:/:fransois_gannier",
+	"pid": "8179",
+	"pname": "FileInfo",
+	"pcpe": "cpe:/a:fransois_gannier:fileinfo_plugin"
 }

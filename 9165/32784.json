@@ -1,8 +1,8 @@
 {
-  "vid": "9165",
-  "vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
-  "vcpe": "cpe:/:ruckuswireless",
-  "pid": "32784",
-  "pname": "Solo AP ファームウェア",
-  "pcpe": "cpe:/o:ruckuswireless:solo_access_point_firmware"
+	"vid": "9165",
+	"vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
+	"vcpe": "cpe:/:ruckuswireless",
+	"pid": "32784",
+	"pname": "Solo AP ファームウェア",
+	"pcpe": "cpe:/o:ruckuswireless:solo_access_point_firmware"
 }

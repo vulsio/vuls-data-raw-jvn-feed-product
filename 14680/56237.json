@@ -1,8 +1,8 @@
 {
-  "vid": "14680",
-  "vname": "メディアテック",
-  "vcpe": "cpe:/:mediatek",
-  "pid": "56237",
-  "pname": "MT7603 ファームウェア",
-  "pcpe": "cpe:/o:mediatek:mt7603_firmware"
+	"vid": "14680",
+	"vname": "メディアテック",
+	"vcpe": "cpe:/:mediatek",
+	"pid": "56237",
+	"pname": "MT7603 ファームウェア",
+	"pcpe": "cpe:/o:mediatek:mt7603_firmware"
 }

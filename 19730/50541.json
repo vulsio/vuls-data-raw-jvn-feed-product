@@ -1,8 +1,8 @@
 {
-  "vid": "19730",
-  "vname": "Tyk Technologies",
-  "vcpe": "cpe:/:tyk",
-  "pid": "50541",
-  "pname": "tyk-identity-broker",
-  "pcpe": "cpe:/a:tyk:tyk-identity-broker"
+	"vid": "19730",
+	"vname": "Tyk Technologies",
+	"vcpe": "cpe:/:tyk",
+	"pid": "50541",
+	"pname": "tyk-identity-broker",
+	"pcpe": "cpe:/a:tyk:tyk-identity-broker"
 }

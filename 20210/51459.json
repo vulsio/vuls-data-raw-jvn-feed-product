@@ -1,8 +1,8 @@
 {
-  "vid": "20210",
-  "vname": "Flask-User project",
-  "vcpe": "cpe:/:flask-user_project",
-  "pid": "51459",
-  "pname": "Flask-User",
-  "pcpe": "cpe:/a:flask-user_project:flask-user"
+	"vid": "20210",
+	"vname": "Flask-User project",
+	"vcpe": "cpe:/:flask-user_project",
+	"pid": "51459",
+	"pname": "Flask-User",
+	"pcpe": "cpe:/a:flask-user_project:flask-user"
 }

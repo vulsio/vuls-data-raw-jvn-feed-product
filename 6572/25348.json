@@ -1,8 +1,8 @@
 {
-  "vid": "6572",
-  "vname": "Acquia Inc.",
-  "vcpe": "cpe:/:acquia",
-  "pid": "25348",
-  "pname": "Mollom",
-  "pcpe": "cpe:/a:acquia:mollom"
+	"vid": "6572",
+	"vname": "Acquia Inc.",
+	"vcpe": "cpe:/:acquia",
+	"pid": "25348",
+	"pname": "Mollom",
+	"pcpe": "cpe:/a:acquia:mollom"
 }

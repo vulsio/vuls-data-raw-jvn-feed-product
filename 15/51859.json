@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "51859",
-  "pname": "Oracle Banking Treasury Management",
-  "pcpe": "cpe:/a:oracle:banking_treasury_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "51859",
+	"pname": "Oracle Banking Treasury Management",
+	"pcpe": "cpe:/a:oracle:banking_treasury_management"
 }

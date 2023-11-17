@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "379",
-  "pname": "Microsoft Visual Studio",
-  "pcpe": "cpe:/a:microsoft:visual_studio"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "379",
+	"pname": "Microsoft Visual Studio",
+	"pcpe": "cpe:/a:microsoft:visual_studio"
 }

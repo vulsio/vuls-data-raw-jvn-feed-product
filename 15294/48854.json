@@ -1,8 +1,8 @@
 {
-  "vid": "15294",
-  "vname": "AVEVA",
-  "vcpe": "cpe:/:aveva",
-  "pid": "48854",
-  "pname": "AVEVA Operations Integration",
-  "pcpe": "cpe:/a:aveva:aveva_operations_integration"
+	"vid": "15294",
+	"vname": "AVEVA",
+	"vcpe": "cpe:/:aveva",
+	"pid": "48854",
+	"pname": "AVEVA Operations Integration",
+	"pcpe": "cpe:/a:aveva:aveva_operations_integration"
 }

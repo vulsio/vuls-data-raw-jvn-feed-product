@@ -1,8 +1,8 @@
 {
-  "vid": "18597",
-  "vname": "EasyCorp",
-  "vcpe": "cpe:/:easycorp",
-  "pid": "52009",
-  "pname": "ZenTao",
-  "pcpe": "cpe:/a:easycorp:zentao"
+	"vid": "18597",
+	"vname": "EasyCorp",
+	"vcpe": "cpe:/:easycorp",
+	"pid": "52009",
+	"pname": "ZenTao",
+	"pcpe": "cpe:/a:easycorp:zentao"
 }

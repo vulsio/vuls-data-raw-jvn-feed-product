@@ -1,8 +1,8 @@
 {
-  "vid": "23490",
-  "vname": "repo-git-downloader project",
-  "vcpe": "cpe:/:repo-git-downloader_project",
-  "pid": "60879",
-  "pname": "repo-git-downloader",
-  "pcpe": "cpe:/a:repo-git-downloader_project:repo-git-downloader"
+	"vid": "23490",
+	"vname": "repo-git-downloader project",
+	"vcpe": "cpe:/:repo-git-downloader_project",
+	"pid": "60879",
+	"pname": "repo-git-downloader",
+	"pcpe": "cpe:/a:repo-git-downloader_project:repo-git-downloader"
 }

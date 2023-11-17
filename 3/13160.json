@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "13160",
-  "pname": "mod_cluster",
-  "pcpe": "cpe:/a:redhat:mod_cluster"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "13160",
+	"pname": "mod_cluster",
+	"pcpe": "cpe:/a:redhat:mod_cluster"
 }

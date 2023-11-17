@@ -1,8 +1,8 @@
 {
-  "vid": "12027",
-  "vname": "株式会社コレガ",
-  "vcpe": "cpe:/:corega",
-  "pid": "33317",
-  "pname": "CG-WGR1200 ファームウエア",
-  "pcpe": "cpe:/o:corega:cg-wgr_1200_firmware"
+	"vid": "12027",
+	"vname": "株式会社コレガ",
+	"vcpe": "cpe:/:corega",
+	"pid": "33317",
+	"pname": "CG-WGR1200 ファームウエア",
+	"pcpe": "cpe:/o:corega:cg-wgr_1200_firmware"
 }

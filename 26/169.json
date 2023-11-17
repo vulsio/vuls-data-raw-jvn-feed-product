@@ -1,8 +1,8 @@
 {
-  "vid": "26",
-  "vname": "サイベース",
-  "vcpe": "cpe:/:sybase",
-  "pid": "169",
-  "pname": "SAP Sybase Adaptive Server Enterprise",
-  "pcpe": "cpe:/a:sybase:adaptive_server_enterprise"
+	"vid": "26",
+	"vname": "サイベース",
+	"vcpe": "cpe:/:sybase",
+	"pid": "169",
+	"pname": "SAP Sybase Adaptive Server Enterprise",
+	"pcpe": "cpe:/a:sybase:adaptive_server_enterprise"
 }

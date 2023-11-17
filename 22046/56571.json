@@ -1,8 +1,8 @@
 {
-  "vid": "22046",
-  "vname": "Servisnet",
-  "vcpe": "cpe:/:servisnet",
-  "pid": "56571",
-  "pname": "Tessa",
-  "pcpe": "cpe:/a:servisnet:tessa"
+	"vid": "22046",
+	"vname": "Servisnet",
+	"vcpe": "cpe:/:servisnet",
+	"pid": "56571",
+	"pname": "Tessa",
+	"pcpe": "cpe:/a:servisnet:tessa"
 }

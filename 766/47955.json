@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "47955",
-  "pname": "Modicon X80 BMXNOR0200H RTU",
-  "pcpe": "cpe:/a:schneider_electric:modicon_x80_bmxnor0200h_rtu"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "47955",
+	"pname": "Modicon X80 BMXNOR0200H RTU",
+	"pcpe": "cpe:/a:schneider_electric:modicon_x80_bmxnor0200h_rtu"
 }

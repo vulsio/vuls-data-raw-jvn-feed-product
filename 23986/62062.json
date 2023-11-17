@@ -1,8 +1,8 @@
 {
-  "vid": "23986",
-  "vname": "Lasso Analytics,Inc.",
-  "vcpe": "cpe:/:getlasso",
-  "pid": "62062",
-  "pname": "Simple URLs",
-  "pcpe": "cpe:/a:getlasso:simple_urls"
+	"vid": "23986",
+	"vname": "Lasso Analytics,Inc.",
+	"vcpe": "cpe:/:getlasso",
+	"pid": "62062",
+	"pname": "Simple URLs",
+	"pcpe": "cpe:/a:getlasso:simple_urls"
 }

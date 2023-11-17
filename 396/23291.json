@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "23291",
-  "pname": "gcab",
-  "pcpe": "cpe:/a:suse:gcab"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "23291",
+	"pname": "gcab",
+	"pcpe": "cpe:/a:suse:gcab"
 }

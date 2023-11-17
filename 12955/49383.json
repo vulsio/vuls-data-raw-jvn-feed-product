@@ -1,8 +1,8 @@
 {
-  "vid": "12955",
-  "vname": "Kubernetes",
-  "vcpe": "cpe:/:kubernetes",
-  "pid": "49383",
-  "pname": "Container Storage Interface external-snapshotter",
-  "pcpe": "cpe:/a:kubernetes:container_storage_interface_snapshotter"
+	"vid": "12955",
+	"vname": "Kubernetes",
+	"vcpe": "cpe:/:kubernetes",
+	"pid": "49383",
+	"pname": "Container Storage Interface external-snapshotter",
+	"pcpe": "cpe:/a:kubernetes:container_storage_interface_snapshotter"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9210",
-  "vname": "Catapult Software",
-  "vcpe": "cpe:/:catapultsoftware",
-  "pid": "18743",
-  "pname": "Catapult DNP3 Driver",
-  "pcpe": "cpe:/a:catapultsoftware:catapult_dnp3_i%2Fo_driver"
+	"vid": "9210",
+	"vname": "Catapult Software",
+	"vcpe": "cpe:/:catapultsoftware",
+	"pid": "18743",
+	"pname": "Catapult DNP3 Driver",
+	"pcpe": "cpe:/a:catapultsoftware:catapult_dnp3_i%2Fo_driver"
 }

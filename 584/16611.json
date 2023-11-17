@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "16611",
-  "pname": "gigaset se361 wlan router",
-  "pcpe": "cpe:/h:siemens:gigaset_se361_wlan_router"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "16611",
+	"pname": "gigaset se361 wlan router",
+	"pcpe": "cpe:/h:siemens:gigaset_se361_wlan_router"
 }

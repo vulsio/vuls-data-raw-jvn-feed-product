@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "32883",
-  "pname": "IMP1110-1 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:imp1110-1_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "32883",
+	"pname": "IMP1110-1 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:imp1110-1_firmware"
 }

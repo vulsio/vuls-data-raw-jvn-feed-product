@@ -1,8 +1,8 @@
 {
-  "vid": "13783",
-  "vname": "West Wind Technologies",
-  "vcpe": "cpe:/:west-wind",
-  "pid": "32664",
-  "pname": "West Wind Web Server",
-  "pcpe": "cpe:/a:west-wind:web_connection"
+	"vid": "13783",
+	"vname": "West Wind Technologies",
+	"vcpe": "cpe:/:west-wind",
+	"pid": "32664",
+	"pname": "West Wind Web Server",
+	"pcpe": "cpe:/a:west-wind:web_connection"
 }

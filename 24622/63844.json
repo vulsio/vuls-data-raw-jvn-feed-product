@@ -1,8 +1,8 @@
 {
-  "vid": "24622",
-  "vname": "opensvc",
-  "vcpe": "cpe:/:opensvc",
-  "pid": "63844",
-  "pname": "multipath-tools",
-  "pcpe": "cpe:/a:opensvc:multipath-tools"
+	"vid": "24622",
+	"vname": "opensvc",
+	"vcpe": "cpe:/:opensvc",
+	"pid": "63844",
+	"pname": "multipath-tools",
+	"pcpe": "cpe:/a:opensvc:multipath-tools"
 }

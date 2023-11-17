@@ -1,8 +1,8 @@
 {
-  "vid": "18496",
-  "vname": "JupyterHub",
-  "vcpe": "cpe:/:jupyterhub",
-  "pid": "48469",
-  "pname": "systemdspawner",
-  "pcpe": "cpe:/a:jupyterhub:systemdspawner"
+	"vid": "18496",
+	"vname": "JupyterHub",
+	"vcpe": "cpe:/:jupyterhub",
+	"pid": "48469",
+	"pname": "systemdspawner",
+	"pcpe": "cpe:/a:jupyterhub:systemdspawner"
 }

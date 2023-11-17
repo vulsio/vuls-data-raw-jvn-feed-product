@@ -1,8 +1,8 @@
 {
-  "vid": "11670",
-  "vname": "レッドハット (KIE Group)",
-  "vcpe": "cpe:/:kiegroup",
-  "pid": "38698",
-  "pname": "KIE server",
-  "pcpe": "cpe:/a:kiegroup:kie-server"
+	"vid": "11670",
+	"vname": "レッドハット (KIE Group)",
+	"vcpe": "cpe:/:kiegroup",
+	"pid": "38698",
+	"pname": "KIE server",
+	"pcpe": "cpe:/a:kiegroup:kie-server"
 }

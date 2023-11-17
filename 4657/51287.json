@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "51287",
-  "pname": "E8372 ファームウェア",
-  "pcpe": "cpe:/o:huawei:e8372_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "51287",
+	"pname": "E8372 ファームウェア",
+	"pcpe": "cpe:/o:huawei:e8372_firmware"
 }

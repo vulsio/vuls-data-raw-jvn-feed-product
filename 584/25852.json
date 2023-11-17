@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "25852",
-  "pname": "APOGEE Insight",
-  "pcpe": "cpe:/o:siemens:apogee_insight"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "25852",
+	"pname": "APOGEE Insight",
+	"pcpe": "cpe:/o:siemens:apogee_insight"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4432",
-  "vname": "Sorax Software",
-  "vcpe": "cpe:/:soraxsoft",
-  "pid": "9465",
-  "pname": "Sorax Reader",
-  "pcpe": "cpe:/a:soraxsoft:sorax_reader"
+	"vid": "4432",
+	"vname": "Sorax Software",
+	"vcpe": "cpe:/:soraxsoft",
+	"pid": "9465",
+	"pname": "Sorax Reader",
+	"pcpe": "cpe:/a:soraxsoft:sorax_reader"
 }

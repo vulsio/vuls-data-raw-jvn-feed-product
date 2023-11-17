@@ -1,8 +1,8 @@
 {
-  "vid": "23193",
-  "vname": "usr",
-  "vcpe": "cpe:/:usr",
-  "pid": "60052",
-  "pname": "usr-g806 ファームウェア",
-  "pcpe": "cpe:/o:usr:usr-g806_firmware"
+	"vid": "23193",
+	"vname": "usr",
+	"vcpe": "cpe:/:usr",
+	"pid": "60052",
+	"pname": "usr-g806 ファームウェア",
+	"pcpe": "cpe:/o:usr:usr-g806_firmware"
 }

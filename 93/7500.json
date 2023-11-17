@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7500",
-  "pname": "forward module",
-  "pcpe": "cpe:/a:drupal:forward_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7500",
+	"pname": "forward module",
+	"pcpe": "cpe:/a:drupal:forward_module"
 }

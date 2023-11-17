@@ -1,8 +1,8 @@
 {
-  "vid": "8873",
-  "vname": "Verizon",
-  "vcpe": "cpe:/:verizon",
-  "pid": "38252",
-  "pname": "Fios Quantum Gateway G1100 ファームウェア",
-  "pcpe": "cpe:/o:verizon:fios_quantum_gateway_g1100_firmware"
+	"vid": "8873",
+	"vname": "Verizon",
+	"vcpe": "cpe:/:verizon",
+	"pid": "38252",
+	"pname": "Fios Quantum Gateway G1100 ファームウェア",
+	"pcpe": "cpe:/o:verizon:fios_quantum_gateway_g1100_firmware"
 }

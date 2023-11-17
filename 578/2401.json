@@ -1,8 +1,8 @@
 {
-  "vid": "578",
-  "vname": "Accoria Networks",
-  "vcpe": "cpe:/:accoria",
-  "pid": "2401",
-  "pname": "Accoria Rock Web Server",
-  "pcpe": "cpe:/a:accoria:rock_web_server"
+	"vid": "578",
+	"vname": "Accoria Networks",
+	"vcpe": "cpe:/:accoria",
+	"pid": "2401",
+	"pname": "Accoria Rock Web Server",
+	"pcpe": "cpe:/a:accoria:rock_web_server"
 }

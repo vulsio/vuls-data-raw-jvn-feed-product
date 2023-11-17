@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26590",
-  "pname": "Oracle Retail Store Inventory Management",
-  "pcpe": "cpe:/a:oracle:retail_store_inventory_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26590",
+	"pname": "Oracle Retail Store Inventory Management",
+	"pcpe": "cpe:/a:oracle:retail_store_inventory_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20975",
-  "vname": "MainWP",
-  "vcpe": "cpe:/:mainwp",
-  "pid": "53605",
-  "pname": "MainWP Child Reports",
-  "pcpe": "cpe:/a:mainwp:mainwp_child_reports"
+	"vid": "20975",
+	"vname": "MainWP",
+	"vcpe": "cpe:/:mainwp",
+	"pid": "53605",
+	"pname": "MainWP Child Reports",
+	"pcpe": "cpe:/a:mainwp:mainwp_child_reports"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9298",
-  "vname": "ADTRAN",
-  "vcpe": "cpe:/:adtran",
-  "pid": "19073",
-  "pname": "ADTRAN Operating System",
-  "pcpe": "cpe:/o:adtran:aos"
+	"vid": "9298",
+	"vname": "ADTRAN",
+	"vcpe": "cpe:/:adtran",
+	"pid": "19073",
+	"pname": "ADTRAN Operating System",
+	"pcpe": "cpe:/o:adtran:aos"
 }

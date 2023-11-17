@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "41057",
-  "pname": "Intel NUC Kit DE3815TYKHE ファームウェア",
-  "pcpe": "cpe:/o:intel:nuc_kit_de3815tykhe_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "41057",
+	"pname": "Intel NUC Kit DE3815TYKHE ファームウェア",
+	"pcpe": "cpe:/o:intel:nuc_kit_de3815tykhe_firmware"
 }

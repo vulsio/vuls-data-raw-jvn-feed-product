@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "49632",
-  "pname": "Microsoft Windows 11",
-  "pcpe": "cpe:/o:microsoft:windows_11"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "49632",
+	"pname": "Microsoft Windows 11",
+	"pcpe": "cpe:/o:microsoft:windows_11"
 }

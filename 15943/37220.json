@@ -1,8 +1,8 @@
 {
-  "vid": "15943",
-  "vname": "August",
-  "vcpe": "cpe:/:august",
-  "pid": "37220",
-  "pname": "August Connect ファームウェア",
-  "pcpe": "cpe:/o:august:august_connect_firmware"
+	"vid": "15943",
+	"vname": "August",
+	"vcpe": "cpe:/:august",
+	"pid": "37220",
+	"pname": "August Connect ファームウェア",
+	"pcpe": "cpe:/o:august:august_connect_firmware"
 }

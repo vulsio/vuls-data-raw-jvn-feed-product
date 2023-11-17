@@ -1,8 +1,8 @@
 {
-  "vid": "19610",
-  "vname": "ORAS",
-  "vcpe": "cpe:/:deislabs",
-  "pid": "49452",
-  "pname": "ORAS",
-  "pcpe": "cpe:/a:deislabs:oras"
+	"vid": "19610",
+	"vname": "ORAS",
+	"vcpe": "cpe:/:deislabs",
+	"pid": "49452",
+	"pname": "ORAS",
+	"pcpe": "cpe:/a:deislabs:oras"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "554",
-  "vname": "ブルーコートシステムズ",
-  "vcpe": "cpe:/:bluecoat",
-  "pid": "6339",
-  "pname": "k9 web protection",
-  "pcpe": "cpe:/a:bluecoat:k9_web_protection"
+	"vid": "554",
+	"vname": "ブルーコートシステムズ",
+	"vcpe": "cpe:/:bluecoat",
+	"pid": "6339",
+	"pname": "k9 web protection",
+	"pcpe": "cpe:/a:bluecoat:k9_web_protection"
 }

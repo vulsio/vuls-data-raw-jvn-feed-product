@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53693",
-  "pname": "Oracle Retail Order Management System",
-  "pcpe": "cpe:/a:oracle:retail_order_management_system"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53693",
+	"pname": "Oracle Retail Order Management System",
+	"pcpe": "cpe:/a:oracle:retail_order_management_system"
 }

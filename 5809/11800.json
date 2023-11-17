@@ -1,8 +1,8 @@
 {
-  "vid": "5809",
-  "vname": "my little homepage",
-  "vcpe": "cpe:/:my_little_homepage",
-  "pid": "11800",
-  "pname": "my little weblog",
-  "pcpe": "cpe:/a:my_little_homepage:my_little_weblog"
+	"vid": "5809",
+	"vname": "my little homepage",
+	"vcpe": "cpe:/:my_little_homepage",
+	"pid": "11800",
+	"pname": "my little weblog",
+	"pcpe": "cpe:/a:my_little_homepage:my_little_weblog"
 }

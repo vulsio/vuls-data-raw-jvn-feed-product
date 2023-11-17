@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "23884",
-  "pname": "Oracle SQL Trace Analyzer",
-  "pcpe": "cpe:/a:oracle:sql_trace_analyzer"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "23884",
+	"pname": "Oracle SQL Trace Analyzer",
+	"pcpe": "cpe:/a:oracle:sql_trace_analyzer"
 }

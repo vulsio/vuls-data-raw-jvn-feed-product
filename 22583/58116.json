@@ -1,8 +1,8 @@
 {
-  "vid": "22583",
-  "vname": "金融庁",
-  "vcpe": "cpe:/:misc",
-  "pid": "58116",
-  "pname": "報告書（XBRL）作成ツール",
-  "pcpe": "cpe:/a:misc:financial_services_agency_xbrl_data_create_application"
+	"vid": "22583",
+	"vname": "金融庁",
+	"vcpe": "cpe:/:misc",
+	"pid": "58116",
+	"pname": "報告書（XBRL）作成ツール",
+	"pcpe": "cpe:/a:misc:financial_services_agency_xbrl_data_create_application"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "41609",
-  "pname": "vdsClient",
-  "pcpe": "cpe:/a:redhat:vdsclient"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "41609",
+	"pname": "vdsClient",
+	"pcpe": "cpe:/a:redhat:vdsclient"
 }

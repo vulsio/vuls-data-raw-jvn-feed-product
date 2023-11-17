@@ -1,8 +1,8 @@
 {
-  "vid": "10590",
-  "vname": "live tv browser project",
-  "vcpe": "cpe:/:live_tv_browser_project",
-  "pid": "22094",
-  "pname": "live tv browser",
-  "pcpe": "cpe:/a:live_tv_browser_project:live_tv_browser"
+	"vid": "10590",
+	"vname": "live tv browser project",
+	"vcpe": "cpe:/:live_tv_browser_project",
+	"pid": "22094",
+	"pname": "live tv browser",
+	"pcpe": "cpe:/a:live_tv_browser_project:live_tv_browser"
 }

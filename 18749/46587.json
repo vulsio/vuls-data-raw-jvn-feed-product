@@ -1,8 +1,8 @@
 {
-  "vid": "18749",
-  "vname": "VR CAM",
-  "vcpe": "cpe:/:vr_cam",
-  "pid": "46587",
-  "pname": "P1 ファームウェア",
-  "pcpe": "cpe:/o:vr_cam:p1_firmware"
+	"vid": "18749",
+	"vname": "VR CAM",
+	"vcpe": "cpe:/:vr_cam",
+	"pid": "46587",
+	"pname": "P1 ファームウェア",
+	"pcpe": "cpe:/o:vr_cam:p1_firmware"
 }

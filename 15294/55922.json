@@ -1,8 +1,8 @@
 {
-  "vid": "15294",
-  "vname": "AVEVA",
-  "vcpe": "cpe:/:aveva",
-  "pid": "55922",
-  "pname": "AVEVA Plant SCADA",
-  "pcpe": "cpe:/a:aveva:plant_scada"
+	"vid": "15294",
+	"vname": "AVEVA",
+	"vcpe": "cpe:/:aveva",
+	"pid": "55922",
+	"pname": "AVEVA Plant SCADA",
+	"pcpe": "cpe:/a:aveva:plant_scada"
 }

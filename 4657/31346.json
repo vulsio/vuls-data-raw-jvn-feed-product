@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31346",
-  "pname": "SRG3300 ファームウェア",
-  "pcpe": "cpe:/o:huawei:srg3300_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31346",
+	"pname": "SRG3300 ファームウェア",
+	"pcpe": "cpe:/o:huawei:srg3300_firmware"
 }

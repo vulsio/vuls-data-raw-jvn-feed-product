@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "47772",
-  "pname": "Red Hat Enterprise Linux TUS",
-  "pcpe": "cpe:/o:redhat:enterprise_linux_tus"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "47772",
+	"pname": "Red Hat Enterprise Linux TUS",
+	"pcpe": "cpe:/o:redhat:enterprise_linux_tus"
 }

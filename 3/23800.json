@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "23800",
-  "pname": "slapi-nis",
-  "pcpe": "cpe:/a:redhat:slapi-nis"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "23800",
+	"pname": "slapi-nis",
+	"pcpe": "cpe:/a:redhat:slapi-nis"
 }

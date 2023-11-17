@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27707",
-  "pname": "Oracle Interaction Blending",
-  "pcpe": "cpe:/a:oracle:interaction_blending"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27707",
+	"pname": "Oracle Interaction Blending",
+	"pcpe": "cpe:/a:oracle:interaction_blending"
 }

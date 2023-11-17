@@ -1,8 +1,8 @@
 {
-  "vid": "12403",
-  "vname": "Fidelix Ltd",
-  "vcpe": "cpe:/:fidelex",
-  "pid": "28003",
-  "pname": "FX-2030A Basic controller",
-  "pcpe": "cpe:/h:fidelex:fx-2030a-basic_controller"
+	"vid": "12403",
+	"vname": "Fidelix Ltd",
+	"vcpe": "cpe:/:fidelex",
+	"pid": "28003",
+	"pname": "FX-2030A Basic controller",
+	"pcpe": "cpe:/h:fidelex:fx-2030a-basic_controller"
 }

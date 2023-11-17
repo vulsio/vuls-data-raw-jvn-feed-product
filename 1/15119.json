@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "15119",
-  "pname": "embedded lights out manager",
-  "pcpe": "cpe:/a:sun:embedded_lights_out_manager"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "15119",
+	"pname": "embedded lights out manager",
+	"pcpe": "cpe:/a:sun:embedded_lights_out_manager"
 }

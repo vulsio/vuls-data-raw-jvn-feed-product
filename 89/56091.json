@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "56091",
-  "pname": "P33W・P28X シリーズ用 Intel(R) Management Engine ファームウェア",
-  "pcpe": "cpe:/o:nec:intel_management_engine_firmware_for_p33w_p28x_series"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "56091",
+	"pname": "P33W・P28X シリーズ用 Intel(R) Management Engine ファームウェア",
+	"pcpe": "cpe:/o:nec:intel_management_engine_firmware_for_p33w_p28x_series"
 }

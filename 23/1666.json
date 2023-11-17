@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "1666",
-  "pname": "Symantec Veritas NetBackup Enterprise Server",
-  "pcpe": "cpe:/a:symantec:veritas_netbackup_enterprise_server"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "1666",
+	"pname": "Symantec Veritas NetBackup Enterprise Server",
+	"pcpe": "cpe:/a:symantec:veritas_netbackup_enterprise_server"
 }

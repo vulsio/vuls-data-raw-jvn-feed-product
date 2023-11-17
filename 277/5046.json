@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "5046",
-  "pname": "Bravia TV",
-  "pcpe": "cpe:/h:sony:bravia_tv"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "5046",
+	"pname": "Bravia TV",
+	"pcpe": "cpe:/h:sony:bravia_tv"
 }

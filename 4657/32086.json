@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "32086",
-  "pname": "HES-319M",
-  "pcpe": "cpe:/o:huawei:hes-319m_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "32086",
+	"pname": "HES-319M",
+	"pcpe": "cpe:/o:huawei:hes-319m_firmware"
 }

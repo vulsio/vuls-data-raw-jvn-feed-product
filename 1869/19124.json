@@ -1,8 +1,8 @@
 {
-  "vid": "1869",
-  "vname": "Seagate Technology LLC",
-  "vcpe": "cpe:/:seagate",
-  "pid": "19124",
-  "pname": "BlackArmor NAS 220 ファームウェア",
-  "pcpe": "cpe:/o:seagate:blackarmor_nas_220_firmware"
+	"vid": "1869",
+	"vname": "Seagate Technology LLC",
+	"vcpe": "cpe:/:seagate",
+	"pid": "19124",
+	"pname": "BlackArmor NAS 220 ファームウェア",
+	"pcpe": "cpe:/o:seagate:blackarmor_nas_220_firmware"
 }

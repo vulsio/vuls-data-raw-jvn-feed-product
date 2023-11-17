@@ -1,8 +1,8 @@
 {
-  "vid": "11691",
-  "vname": "オープンCADフォーマット評議会",
-  "vcpe": "cpe:/:ocf",
-  "pid": "24080",
-  "pname": "SXF 共通ライブラリ",
-  "pcpe": "cpe:/a:ocf:sxf_common_library"
+	"vid": "11691",
+	"vname": "オープンCADフォーマット評議会",
+	"vcpe": "cpe:/:ocf",
+	"pid": "24080",
+	"pname": "SXF 共通ライブラリ",
+	"pcpe": "cpe:/a:ocf:sxf_common_library"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3148",
-  "vname": "dd-wrt",
-  "vcpe": "cpe:/:dd-wrt",
-  "pid": "7220",
-  "pname": "DD-WRT",
-  "pcpe": "cpe:/a:dd-wrt:dd-wrt"
+	"vid": "3148",
+	"vname": "dd-wrt",
+	"vcpe": "cpe:/:dd-wrt",
+	"pid": "7220",
+	"pname": "DD-WRT",
+	"pcpe": "cpe:/a:dd-wrt:dd-wrt"
 }

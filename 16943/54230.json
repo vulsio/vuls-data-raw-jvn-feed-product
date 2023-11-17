@@ -1,8 +1,8 @@
 {
-  "vid": "16943",
-  "vname": "wp-buy",
-  "vcpe": "cpe:/:wp-buy",
-  "pid": "54230",
-  "pname": "SEO Redirection Plugin - 301 Redirect Manager",
-  "pcpe": "cpe:/a:wp-buy:seo_redirection-301_redirect_manager"
+	"vid": "16943",
+	"vname": "wp-buy",
+	"vcpe": "cpe:/:wp-buy",
+	"pid": "54230",
+	"pname": "SEO Redirection Plugin - 301 Redirect Manager",
+	"pcpe": "cpe:/a:wp-buy:seo_redirection-301_redirect_manager"
 }

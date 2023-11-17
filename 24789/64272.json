@@ -1,8 +1,8 @@
 {
-  "vid": "24789",
-  "vname": "mono-project",
-  "vcpe": "cpe:/:mono-project",
-  "pid": "64272",
-  "pname": "mono",
-  "pcpe": "cpe:/a:mono-project:mono"
+	"vid": "24789",
+	"vname": "mono-project",
+	"vcpe": "cpe:/:mono-project",
+	"pid": "64272",
+	"pname": "mono",
+	"pcpe": "cpe:/a:mono-project:mono"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1189",
-  "pname": "Cosminexus Studio",
-  "pcpe": "cpe:/a:hitachi:cosminexus_studio"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1189",
+	"pname": "Cosminexus Studio",
+	"pcpe": "cpe:/a:hitachi:cosminexus_studio"
 }

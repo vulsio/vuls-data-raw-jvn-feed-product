@@ -1,8 +1,8 @@
 {
-  "vid": "24134",
-  "vname": "colord project",
-  "vcpe": "cpe:/:colord_project",
-  "pid": "62422",
-  "pname": "colord",
-  "pcpe": "cpe:/a:colord_project:colord"
+	"vid": "24134",
+	"vname": "colord project",
+	"vcpe": "cpe:/:colord_project",
+	"pid": "62422",
+	"pname": "colord",
+	"pcpe": "cpe:/a:colord_project:colord"
 }

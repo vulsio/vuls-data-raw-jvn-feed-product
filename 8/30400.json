@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "30400",
-  "pname": "Apache Atlas",
-  "pcpe": "cpe:/a:apache:atlas"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "30400",
+	"pname": "Apache Atlas",
+	"pcpe": "cpe:/a:apache:atlas"
 }

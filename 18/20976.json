@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20976",
-  "pname": "IBM Content Integrator",
-  "pcpe": "cpe:/a:ibm:content_integrator"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20976",
+	"pname": "IBM Content Integrator",
+	"pcpe": "cpe:/a:ibm:content_integrator"
 }

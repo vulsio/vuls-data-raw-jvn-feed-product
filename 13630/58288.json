@@ -1,8 +1,8 @@
 {
-  "vid": "13630",
-  "vname": "Hitron Technologies Inc.",
-  "vcpe": "cpe:/:hitrontech",
-  "pid": "58288",
-  "pname": "chita ファームウェア",
-  "pcpe": "cpe:/o:hitrontech:chita_firmware"
+	"vid": "13630",
+	"vname": "Hitron Technologies Inc.",
+	"vcpe": "cpe:/:hitrontech",
+	"pid": "58288",
+	"pname": "chita ファームウェア",
+	"pcpe": "cpe:/o:hitrontech:chita_firmware"
 }

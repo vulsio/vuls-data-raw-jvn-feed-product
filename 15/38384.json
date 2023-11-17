@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "38384",
-  "pname": "Oracle Retail Convenience Store Back Office",
-  "pcpe": "cpe:/a:oracle:retail_convenience_store_back_office"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "38384",
+	"pname": "Oracle Retail Convenience Store Back Office",
+	"pcpe": "cpe:/a:oracle:retail_convenience_store_back_office"
 }

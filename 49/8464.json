@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "8464",
-  "pname": "nano",
-  "pcpe": "cpe:/a:gnu:nano"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "8464",
+	"pname": "nano",
+	"pcpe": "cpe:/a:gnu:nano"
 }

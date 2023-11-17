@@ -1,8 +1,8 @@
 {
-  "vid": "10292",
-  "vname": "ForgeRock",
-  "vcpe": "cpe:/:forgerock",
-  "pid": "28739",
-  "pname": "OpenIDM",
-  "pcpe": "cpe:/a:forgerock:openidm"
+	"vid": "10292",
+	"vname": "ForgeRock",
+	"vcpe": "cpe:/:forgerock",
+	"pid": "28739",
+	"pname": "OpenIDM",
+	"pcpe": "cpe:/a:forgerock:openidm"
 }

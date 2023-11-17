@@ -1,8 +1,8 @@
 {
-  "vid": "17759",
-  "vname": "Teradici",
-  "vcpe": "cpe:/:teradici",
-  "pid": "49623",
-  "pname": "PCoIP Soft Client",
-  "pcpe": "cpe:/a:teradici:pcoip_soft_client"
+	"vid": "17759",
+	"vname": "Teradici",
+	"vcpe": "cpe:/:teradici",
+	"pid": "49623",
+	"pname": "PCoIP Soft Client",
+	"pcpe": "cpe:/a:teradici:pcoip_soft_client"
 }

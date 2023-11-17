@@ -1,8 +1,8 @@
 {
-  "vid": "17932",
-  "vname": "NetworkManager-ssh project",
-  "vcpe": "cpe:/:networkmanager-ssh_project",
-  "pid": "43378",
-  "pname": "NetworkManager-ssh",
-  "pcpe": "cpe:/a:networkmanager-ssh_project:networkmanager-ssh"
+	"vid": "17932",
+	"vname": "NetworkManager-ssh project",
+	"vcpe": "cpe:/:networkmanager-ssh_project",
+	"pid": "43378",
+	"pname": "NetworkManager-ssh",
+	"pcpe": "cpe:/a:networkmanager-ssh_project:networkmanager-ssh"
 }

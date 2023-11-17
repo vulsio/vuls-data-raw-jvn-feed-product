@@ -1,8 +1,8 @@
 {
-  "vid": "4788",
-  "vname": "insight-tech",
-  "vcpe": "cpe:/:insight-tech",
-  "pid": "10170",
-  "pname": "yosemite backup",
-  "pcpe": "cpe:/a:insight-tech:yosemite_backup"
+	"vid": "4788",
+	"vname": "insight-tech",
+	"vcpe": "cpe:/:insight-tech",
+	"pid": "10170",
+	"pname": "yosemite backup",
+	"pcpe": "cpe:/a:insight-tech:yosemite_backup"
 }

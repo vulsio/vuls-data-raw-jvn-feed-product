@@ -1,8 +1,8 @@
 {
-  "vid": "5868",
-  "vname": "mywebland",
-  "vcpe": "cpe:/:mywebland",
-  "pid": "11875",
-  "pname": "myevent",
-  "pcpe": "cpe:/a:mywebland:myevent"
+	"vid": "5868",
+	"vname": "mywebland",
+	"vcpe": "cpe:/:mywebland",
+	"pid": "11875",
+	"pname": "myevent",
+	"pcpe": "cpe:/a:mywebland:myevent"
 }

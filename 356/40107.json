@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "40107",
-  "pname": "Nest Cam IQ Indoor ファームウェア",
-  "pcpe": "cpe:/o:google:nest_cam_iq_indoor_firmware"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "40107",
+	"pname": "Nest Cam IQ Indoor ファームウェア",
+	"pcpe": "cpe:/o:google:nest_cam_iq_indoor_firmware"
 }

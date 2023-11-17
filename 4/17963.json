@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17963",
-  "pname": "HP LaserJet Pro P1102w Printer",
-  "pcpe": "cpe:/h:hp:laserjet_pro_p1102w"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17963",
+	"pname": "HP LaserJet Pro P1102w Printer",
+	"pcpe": "cpe:/h:hp:laserjet_pro_p1102w"
 }

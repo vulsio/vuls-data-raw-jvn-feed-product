@@ -1,8 +1,8 @@
 {
-  "vid": "12419",
-  "vname": "pacman project",
-  "vcpe": "cpe:/:pacman_project",
-  "pid": "28056",
-  "pname": "pacman",
-  "pcpe": "cpe:/a:pacman_project:pacman"
+	"vid": "12419",
+	"vname": "pacman project",
+	"vcpe": "cpe:/:pacman_project",
+	"pid": "28056",
+	"pname": "pacman",
+	"pcpe": "cpe:/a:pacman_project:pacman"
 }

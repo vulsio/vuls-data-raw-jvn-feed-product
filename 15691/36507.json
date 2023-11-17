@@ -1,8 +1,8 @@
 {
-  "vid": "15691",
-  "vname": "PointOfSales project",
-  "vcpe": "cpe:/:pointofsales_project",
-  "pid": "36507",
-  "pname": "Point Of Sale",
-  "pcpe": "cpe:/a:pointofsales_project:pointofsales"
+	"vid": "15691",
+	"vname": "PointOfSales project",
+	"vcpe": "cpe:/:pointofsales_project",
+	"pid": "36507",
+	"pname": "Point Of Sale",
+	"pcpe": "cpe:/a:pointofsales_project:pointofsales"
 }

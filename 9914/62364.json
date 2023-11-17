@@ -1,8 +1,8 @@
 {
-  "vid": "9914",
-  "vname": "H3C",
-  "vcpe": "cpe:/:h3c",
-  "pid": "62364",
-  "pname": "b5 mini ファームウェア",
-  "pcpe": "cpe:/o:h3c:b5_mini_firmware"
+	"vid": "9914",
+	"vname": "H3C",
+	"vcpe": "cpe:/:h3c",
+	"pid": "62364",
+	"pname": "b5 mini ファームウェア",
+	"pcpe": "cpe:/o:h3c:b5_mini_firmware"
 }

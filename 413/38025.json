@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "38025",
-  "pname": "BlackBerry AtHoc",
-  "pcpe": "cpe:/a:blackberry:athoc"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "38025",
+	"pname": "BlackBerry AtHoc",
+	"pcpe": "cpe:/a:blackberry:athoc"
 }

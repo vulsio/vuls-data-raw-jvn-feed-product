@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "49753",
-  "pname": "SIMATIC MV420 SR-P Body ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_mv420_sr-p_body_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "49753",
+	"pname": "SIMATIC MV420 SR-P Body ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_mv420_sr-p_body_firmware"
 }

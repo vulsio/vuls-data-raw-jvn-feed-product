@@ -1,8 +1,8 @@
 {
-  "vid": "13771",
-  "vname": "JGraph Ltd",
-  "vcpe": "cpe:/:jgraph",
-  "pid": "32620",
-  "pname": "mxGraph",
-  "pcpe": "cpe:/a:jgraph:mxgraph"
+	"vid": "13771",
+	"vname": "JGraph Ltd",
+	"vcpe": "cpe:/:jgraph",
+	"pid": "32620",
+	"pname": "mxGraph",
+	"pcpe": "cpe:/a:jgraph:mxgraph"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "5341",
-  "pname": "IBM System Storage DS3950 Express",
-  "pcpe": "cpe:/h:ibm:system_storage_ds3950_express"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "5341",
+	"pname": "IBM System Storage DS3950 Express",
+	"pcpe": "cpe:/h:ibm:system_storage_ds3950_express"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "217",
-  "pname": "NVIDIA Binary Graphics Driver",
-  "pcpe": "cpe:/a:nvidia:binary_graphics_driver"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "217",
+	"pname": "NVIDIA Binary Graphics Driver",
+	"pcpe": "cpe:/a:nvidia:binary_graphics_driver"
 }

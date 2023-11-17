@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "43555",
-  "pname": "Secure Web Gateway",
-  "pcpe": "cpe:/a:sophos:secure_web_gateway"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "43555",
+	"pname": "Secure Web Gateway",
+	"pcpe": "cpe:/a:sophos:secure_web_gateway"
 }

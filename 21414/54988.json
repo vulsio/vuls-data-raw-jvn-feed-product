@@ -1,8 +1,8 @@
 {
-  "vid": "21414",
-  "vname": "http-server-node project",
-  "vcpe": "cpe:/:http-server-node_project",
-  "pid": "54988",
-  "pname": "http-server-node",
-  "pcpe": "cpe:/a:http-server-node_project:http-server-node"
+	"vid": "21414",
+	"vname": "http-server-node project",
+	"vcpe": "cpe:/:http-server-node_project",
+	"pid": "54988",
+	"pname": "http-server-node",
+	"pcpe": "cpe:/a:http-server-node_project:http-server-node"
 }

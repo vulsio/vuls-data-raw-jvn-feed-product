@@ -1,8 +1,8 @@
 {
-  "vid": "20207",
-  "vname": "eRam",
-  "vcpe": "cpe:/:eram",
-  "pid": "51446",
-  "pname": "myFax250 ファームウェア",
-  "pcpe": "cpe:/o:eram:myfax250_firmware"
+	"vid": "20207",
+	"vname": "eRam",
+	"vcpe": "cpe:/:eram",
+	"pid": "51446",
+	"pname": "myFax250 ファームウェア",
+	"pcpe": "cpe:/o:eram:myfax250_firmware"
 }

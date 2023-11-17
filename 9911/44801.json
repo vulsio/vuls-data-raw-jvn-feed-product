@@ -1,8 +1,8 @@
 {
-  "vid": "9911",
-  "vname": "Silver Peak",
-  "vcpe": "cpe:/:silver-peak",
-  "pid": "44801",
-  "pname": "VX-2000 ファームウェア",
-  "pcpe": "cpe:/o:silver-peak:vx-2000_firmware"
+	"vid": "9911",
+	"vname": "Silver Peak",
+	"vcpe": "cpe:/:silver-peak",
+	"pid": "44801",
+	"pname": "VX-2000 ファームウェア",
+	"pcpe": "cpe:/o:silver-peak:vx-2000_firmware"
 }

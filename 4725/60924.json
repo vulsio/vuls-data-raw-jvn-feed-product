@@ -1,8 +1,8 @@
 {
-  "vid": "4725",
-  "vname": "SysAid Technologies Ltd.",
-  "vcpe": "cpe:/:sysaid",
-  "pid": "60924",
-  "pname": "okta sso",
-  "pcpe": "cpe:/a:sysaid:okta_sso"
+	"vid": "4725",
+	"vname": "SysAid Technologies Ltd.",
+	"vcpe": "cpe:/:sysaid",
+	"pid": "60924",
+	"pname": "okta sso",
+	"pcpe": "cpe:/a:sysaid:okta_sso"
 }

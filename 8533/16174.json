@@ -1,8 +1,8 @@
 {
-  "vid": "8533",
-  "vname": "windows",
-  "vcpe": "cpe:/:windows",
-  "pid": "16174",
-  "pname": "media player",
-  "pcpe": "cpe:/a:windows:media_player"
+	"vid": "8533",
+	"vname": "windows",
+	"vcpe": "cpe:/:windows",
+	"pid": "16174",
+	"pname": "media player",
+	"pcpe": "cpe:/a:windows:media_player"
 }

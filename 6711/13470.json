@@ -1,8 +1,8 @@
 {
-  "vid": "6711",
-  "vname": "deerfield",
-  "vcpe": "cpe:/:deerfield",
-  "pid": "13470",
-  "pname": "visnetic mail server",
-  "pcpe": "cpe:/a:deerfield:visnetic_mail_server"
+	"vid": "6711",
+	"vname": "deerfield",
+	"vcpe": "cpe:/:deerfield",
+	"pid": "13470",
+	"pname": "visnetic mail server",
+	"pcpe": "cpe:/a:deerfield:visnetic_mail_server"
 }

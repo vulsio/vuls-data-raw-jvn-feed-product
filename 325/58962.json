@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58962",
-  "pname": "l340-17iwl ファームウェア",
-  "pcpe": "cpe:/o:lenovo:l340-17iwl_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58962",
+	"pname": "l340-17iwl ファームウェア",
+	"pcpe": "cpe:/o:lenovo:l340-17iwl_firmware"
 }

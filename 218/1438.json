@@ -1,8 +1,8 @@
 {
-  "vid": "218",
-  "vname": "ヤマハ",
-  "vcpe": "cpe:/:yamaha",
-  "pid": "1438",
-  "pname": "SRT100",
-  "pcpe": "cpe:/h:yamaha:srt100"
+	"vid": "218",
+	"vname": "ヤマハ",
+	"vcpe": "cpe:/:yamaha",
+	"pid": "1438",
+	"pname": "SRT100",
+	"pcpe": "cpe:/h:yamaha:srt100"
 }

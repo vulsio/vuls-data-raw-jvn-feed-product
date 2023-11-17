@@ -1,8 +1,8 @@
 {
-  "vid": "6970",
-  "vname": "PicturesPro",
-  "vcpe": "cpe:/:picturespro",
-  "pid": "13857",
-  "pname": "Photo Cart",
-  "pcpe": "cpe:/a:picturespro:picturespro_photo_cart"
+	"vid": "6970",
+	"vname": "PicturesPro",
+	"vcpe": "cpe:/:picturespro",
+	"pid": "13857",
+	"pname": "Photo Cart",
+	"pcpe": "cpe:/a:picturespro:picturespro_photo_cart"
 }

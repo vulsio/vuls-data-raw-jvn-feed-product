@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "44637",
-  "pname": "HPE MSA 1050 Storage ファームウェア",
-  "pcpe": "cpe:/o:hp:msa_1050_san_storage_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "44637",
+	"pname": "HPE MSA 1050 Storage ファームウェア",
+	"pcpe": "cpe:/o:hp:msa_1050_san_storage_firmware"
 }

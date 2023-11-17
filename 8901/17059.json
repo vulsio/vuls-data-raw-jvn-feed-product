@@ -1,8 +1,8 @@
 {
-  "vid": "8901",
-  "vname": "Boxes project",
-  "vcpe": "cpe:/:boxes_project",
-  "pid": "17059",
-  "pname": "Boxes",
-  "pcpe": "cpe:/a:boxes_project:boxes"
+	"vid": "8901",
+	"vname": "Boxes project",
+	"vcpe": "cpe:/:boxes_project",
+	"pid": "17059",
+	"pname": "Boxes",
+	"pcpe": "cpe:/a:boxes_project:boxes"
 }

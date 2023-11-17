@@ -1,8 +1,8 @@
 {
-  "vid": "13759",
-  "vname": "fmtlib",
-  "vcpe": "cpe:/:fmtlib",
-  "pid": "32597",
-  "pname": "fmtlib",
-  "pcpe": "cpe:/a:fmtlib:fmt"
+	"vid": "13759",
+	"vname": "fmtlib",
+	"vcpe": "cpe:/:fmtlib",
+	"pid": "32597",
+	"pname": "fmtlib",
+	"pcpe": "cpe:/a:fmtlib:fmt"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4314",
-  "vname": "Jan Kara",
-  "vcpe": "cpe:/:jan_kara",
-  "pid": "9218",
-  "pname": "Linux DiskQuota",
-  "pcpe": "cpe:/a:jan_kara:linux_diskquota"
+	"vid": "4314",
+	"vname": "Jan Kara",
+	"vcpe": "cpe:/:jan_kara",
+	"pid": "9218",
+	"pname": "Linux DiskQuota",
+	"pcpe": "cpe:/a:jan_kara:linux_diskquota"
 }

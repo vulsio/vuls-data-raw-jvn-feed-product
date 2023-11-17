@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "286",
-  "pname": "CiscoWorks Host Solution Engine (HSE)",
-  "pcpe": "cpe:/h:cisco:hosting_solution_engine"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "286",
+	"pname": "CiscoWorks Host Solution Engine (HSE)",
+	"pcpe": "cpe:/h:cisco:hosting_solution_engine"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22059",
-  "vname": "コニカミノルタ株式会社",
-  "vcpe": "cpe:/:konicaminolta",
-  "pid": "59649",
-  "pname": "bizhub 226i ファームウェア",
-  "pcpe": "cpe:/o:konicaminolta:bizhub_226i_firmware"
+	"vid": "22059",
+	"vname": "コニカミノルタ株式会社",
+	"vcpe": "cpe:/:konicaminolta",
+	"pid": "59649",
+	"pname": "bizhub 226i ファームウェア",
+	"pcpe": "cpe:/o:konicaminolta:bizhub_226i_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "398",
-  "vname": "Foresight Linux Project",
-  "vcpe": "cpe:/:foresight_linux",
-  "pid": "1501",
-  "pname": "Foresight Linux",
-  "pcpe": "cpe:/o:foresight_linux:foresight_linux"
+	"vid": "398",
+	"vname": "Foresight Linux Project",
+	"vcpe": "cpe:/:foresight_linux",
+	"pid": "1501",
+	"pname": "Foresight Linux",
+	"pcpe": "cpe:/o:foresight_linux:foresight_linux"
 }

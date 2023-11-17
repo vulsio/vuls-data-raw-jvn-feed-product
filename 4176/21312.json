@@ -1,8 +1,8 @@
 {
-  "vid": "4176",
-  "vname": "Belkin International",
-  "vcpe": "cpe:/:belkin",
-  "pid": "21312",
-  "pname": "N300 firmware",
-  "pcpe": "cpe:/o:belkin:n300_firmware"
+	"vid": "4176",
+	"vname": "Belkin International",
+	"vcpe": "cpe:/:belkin",
+	"pid": "21312",
+	"pname": "N300 firmware",
+	"pcpe": "cpe:/o:belkin:n300_firmware"
 }

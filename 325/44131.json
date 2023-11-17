@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "44131",
-  "pname": "FLEX 3-1120 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:flex_3-1120_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "44131",
+	"pname": "FLEX 3-1120 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:flex_3-1120_firmware"
 }

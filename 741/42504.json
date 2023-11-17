@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "42504",
-  "pname": "DIR-890R ファームウェア",
-  "pcpe": "cpe:/o:dlink:dir-890r_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "42504",
+	"pname": "DIR-890R ファームウェア",
+	"pcpe": "cpe:/o:dlink:dir-890r_firmware"
 }

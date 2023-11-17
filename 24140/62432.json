@@ -1,8 +1,8 @@
 {
-  "vid": "24140",
-  "vname": "picuploader project",
-  "vcpe": "cpe:/:picuploader_project",
-  "pid": "62432",
-  "pname": "picuploader",
-  "pcpe": "cpe:/a:picuploader_project:picuploader"
+	"vid": "24140",
+	"vname": "picuploader project",
+	"vcpe": "cpe:/:picuploader_project",
+	"pid": "62432",
+	"pname": "picuploader",
+	"pcpe": "cpe:/a:picuploader_project:picuploader"
 }

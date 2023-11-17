@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "35672",
-  "pname": "Rational Doors Next Generationincluding",
-  "pcpe": "cpe:/a:ibm:rational_doors_next_generationincluding"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "35672",
+	"pname": "Rational Doors Next Generationincluding",
+	"pcpe": "cpe:/a:ibm:rational_doors_next_generationincluding"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18157",
-  "pname": "Cisco Mobility Services Engine",
-  "pcpe": "cpe:/h:cisco:mobility_services_engine"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18157",
+	"pname": "Cisco Mobility Services Engine",
+	"pcpe": "cpe:/h:cisco:mobility_services_engine"
 }

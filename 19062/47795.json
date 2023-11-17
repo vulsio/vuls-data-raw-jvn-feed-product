@@ -1,8 +1,8 @@
 {
-  "vid": "19062",
-  "vname": "ansi_up",
-  "vcpe": "cpe:/:ansi_up_project",
-  "pid": "47795",
-  "pname": "ansi_up",
-  "pcpe": "cpe:/a:ansi_up_project:ansi_up"
+	"vid": "19062",
+	"vname": "ansi_up",
+	"vcpe": "cpe:/:ansi_up_project",
+	"pid": "47795",
+	"pname": "ansi_up",
+	"pcpe": "cpe:/a:ansi_up_project:ansi_up"
 }

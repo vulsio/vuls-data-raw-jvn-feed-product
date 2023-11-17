@@ -1,8 +1,8 @@
 {
-  "vid": "3904",
-  "vname": "gate comm software",
-  "vcpe": "cpe:/:gate_comm_software",
-  "pid": "8323",
-  "pname": "postcast server pro",
-  "pcpe": "cpe:/a:gate_comm_software:postcast_server_pro"
+	"vid": "3904",
+	"vname": "gate comm software",
+	"vcpe": "cpe:/:gate_comm_software",
+	"pid": "8323",
+	"pname": "postcast server pro",
+	"pcpe": "cpe:/a:gate_comm_software:postcast_server_pro"
 }

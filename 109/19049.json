@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "19049",
-  "pname": "FMV-CELSIUS",
-  "pcpe": "cpe:/h:fujitsu:fmv-celsius"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "19049",
+	"pname": "FMV-CELSIUS",
+	"pcpe": "cpe:/h:fujitsu:fmv-celsius"
 }

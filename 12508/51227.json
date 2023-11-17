@@ -1,8 +1,8 @@
 {
-  "vid": "12508",
-  "vname": "Becton, Dickinson and Company (BD)",
-  "vcpe": "cpe:/:bd",
-  "pid": "51227",
-  "pname": "BD Pyxis Anesthesia Station 4000 ファームウェア",
-  "pcpe": "cpe:/o:bd:pyxis_anesthesia_station_4000_firmware"
+	"vid": "12508",
+	"vname": "Becton, Dickinson and Company (BD)",
+	"vcpe": "cpe:/:bd",
+	"pid": "51227",
+	"pname": "BD Pyxis Anesthesia Station 4000 ファームウェア",
+	"pcpe": "cpe:/o:bd:pyxis_anesthesia_station_4000_firmware"
 }

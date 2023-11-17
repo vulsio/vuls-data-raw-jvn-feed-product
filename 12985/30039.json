@@ -1,8 +1,8 @@
 {
-  "vid": "12985",
-  "vname": "SMA Solar Technology AG",
-  "vcpe": "cpe:/:sma_solar_technology_ag",
-  "pid": "30039",
-  "pname": "Sunny Tripower 60 ファームウェア",
-  "pcpe": "cpe:/o:sma_solar_technology_ag:sunny_tripower_60_firmware"
+	"vid": "12985",
+	"vname": "SMA Solar Technology AG",
+	"vcpe": "cpe:/:sma_solar_technology_ag",
+	"pid": "30039",
+	"pname": "Sunny Tripower 60 ファームウェア",
+	"pcpe": "cpe:/o:sma_solar_technology_ag:sunny_tripower_60_firmware"
 }

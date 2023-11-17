@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "803",
-  "pname": "IP-PBX IP Pathfinderシリーズ",
-  "pcpe": "cpe:/h:fujitsu:ip_pathfinder"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "803",
+	"pname": "IP-PBX IP Pathfinderシリーズ",
+	"pcpe": "cpe:/h:fujitsu:ip_pathfinder"
 }

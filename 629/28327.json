@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "28327",
-  "pname": "AWK-1121 ファームウェア",
-  "pcpe": "cpe:/o:moxa:awk-1121_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "28327",
+	"pname": "AWK-1121 ファームウェア",
+	"pcpe": "cpe:/o:moxa:awk-1121_firmware"
 }

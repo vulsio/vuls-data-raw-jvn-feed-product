@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "42265",
-  "pname": "DiagAnywhere Server ファームウェア",
-  "pcpe": "cpe:/o:advantech:diaganywhere_server_firmware"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "42265",
+	"pname": "DiagAnywhere Server ファームウェア",
+	"pcpe": "cpe:/o:advantech:diaganywhere_server_firmware"
 }

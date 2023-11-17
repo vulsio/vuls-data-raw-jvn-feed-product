@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1926",
-  "pname": "Semantically-Interconnected Online Communities",
-  "pcpe": "cpe:/a:drupal:semantically_interconnected_online_communities"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1926",
+	"pname": "Semantically-Interconnected Online Communities",
+	"pcpe": "cpe:/a:drupal:semantically_interconnected_online_communities"
 }

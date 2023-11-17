@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "41127",
-  "pname": "Delphix",
-  "pcpe": "cpe:/a:jenkins:delphix"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "41127",
+	"pname": "Delphix",
+	"pcpe": "cpe:/a:jenkins:delphix"
 }

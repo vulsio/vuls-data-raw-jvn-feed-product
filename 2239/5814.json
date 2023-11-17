@@ -1,8 +1,8 @@
 {
-  "vid": "2239",
-  "vname": "anon proxy server",
-  "vcpe": "cpe:/:anon_proxy_server",
-  "pid": "5814",
-  "pname": "anon proxy server",
-  "pcpe": "cpe:/a:anon_proxy_server:anon_proxy_server"
+	"vid": "2239",
+	"vname": "anon proxy server",
+	"vcpe": "cpe:/:anon_proxy_server",
+	"pid": "5814",
+	"pname": "anon proxy server",
+	"pcpe": "cpe:/a:anon_proxy_server:anon_proxy_server"
 }

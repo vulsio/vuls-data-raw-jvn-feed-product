@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "16825",
-  "pname": "Schneider Electric Software Update",
-  "pcpe": "cpe:/a:schneider_electric:software_update_utility"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "16825",
+	"pname": "Schneider Electric Software Update",
+	"pcpe": "cpe:/a:schneider_electric:software_update_utility"
 }

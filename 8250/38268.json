@@ -1,8 +1,8 @@
 {
-  "vid": "8250",
-  "vname": "utimaco safeware",
-  "vcpe": "cpe:/:utimaco_safeware",
-  "pid": "38268",
-  "pname": "securityserver cse ファームウェア",
-  "pcpe": "cpe:/a:utimaco_safeware:securityserver_cse_firmware"
+	"vid": "8250",
+	"vname": "utimaco safeware",
+	"vcpe": "cpe:/:utimaco_safeware",
+	"pid": "38268",
+	"pname": "securityserver cse ファームウェア",
+	"pcpe": "cpe:/a:utimaco_safeware:securityserver_cse_firmware"
 }

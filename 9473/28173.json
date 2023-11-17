@@ -1,8 +1,8 @@
 {
-  "vid": "9473",
-  "vname": "Rapid7",
-  "vcpe": "cpe:/:rapid7",
-  "pid": "28173",
-  "pname": "Metasploit",
-  "pcpe": "cpe:/a:rapid7:metasploit"
+	"vid": "9473",
+	"vname": "Rapid7",
+	"vcpe": "cpe:/:rapid7",
+	"pid": "28173",
+	"pname": "Metasploit",
+	"pcpe": "cpe:/a:rapid7:metasploit"
 }

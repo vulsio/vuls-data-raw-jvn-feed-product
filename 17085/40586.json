@@ -1,8 +1,8 @@
 {
-  "vid": "17085",
-  "vname": "Post Indexer project",
-  "vcpe": "cpe:/:post_indexer_project",
-  "pid": "40586",
-  "pname": "Post Indexer",
-  "pcpe": "cpe:/a:post_indexer_project:post_indexer"
+	"vid": "17085",
+	"vname": "Post Indexer project",
+	"vcpe": "cpe:/:post_indexer_project",
+	"pid": "40586",
+	"pname": "Post Indexer",
+	"pcpe": "cpe:/a:post_indexer_project:post_indexer"
 }

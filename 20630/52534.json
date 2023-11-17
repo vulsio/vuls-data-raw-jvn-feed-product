@@ -1,8 +1,8 @@
 {
-  "vid": "20630",
-  "vname": "openEuler",
-  "vcpe": "cpe:/:openeuler",
-  "pid": "52534",
-  "pname": "isula-build",
-  "pcpe": "cpe:/a:openeuler:isula-build"
+	"vid": "20630",
+	"vname": "openEuler",
+	"vcpe": "cpe:/:openeuler",
+	"pid": "52534",
+	"pname": "isula-build",
+	"pcpe": "cpe:/a:openeuler:isula-build"
 }

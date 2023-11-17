@@ -1,8 +1,8 @@
 {
-  "vid": "17320",
-  "vname": "zollsoft GmbH",
-  "vcpe": "cpe:/:tomedo",
-  "pid": "41176",
-  "pname": "tomedo server",
-  "pcpe": "cpe:/a:tomedo:server"
+	"vid": "17320",
+	"vname": "zollsoft GmbH",
+	"vcpe": "cpe:/:tomedo",
+	"pid": "41176",
+	"pname": "tomedo server",
+	"pcpe": "cpe:/a:tomedo:server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "285",
-  "vname": "MailTools",
-  "vcpe": "cpe:/:perl-mailtools",
-  "pid": "1051",
-  "pname": "MailTools",
-  "pcpe": "cpe:/a:perl-mailtools:perl-mailtools"
+	"vid": "285",
+	"vname": "MailTools",
+	"vcpe": "cpe:/:perl-mailtools",
+	"pid": "1051",
+	"pname": "MailTools",
+	"pcpe": "cpe:/a:perl-mailtools:perl-mailtools"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17592",
-  "vname": "Fronius International GmbH",
-  "vcpe": "cpe:/:fronius",
-  "pid": "42166",
-  "pname": "Datamanager Box 2.0 ファームウェア",
-  "pcpe": "cpe:/o:fronius:datamanager_box_2.0_firmware"
+	"vid": "17592",
+	"vname": "Fronius International GmbH",
+	"vcpe": "cpe:/:fronius",
+	"pid": "42166",
+	"pname": "Datamanager Box 2.0 ファームウェア",
+	"pcpe": "cpe:/o:fronius:datamanager_box_2.0_firmware"
 }

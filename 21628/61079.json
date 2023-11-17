@@ -1,8 +1,8 @@
 {
-  "vid": "21628",
-  "vname": "WP Swings",
-  "vcpe": "cpe:/:wpswings",
-  "pid": "61079",
-  "pname": "PDF Generator for WordPress",
-  "pcpe": "cpe:/a:wpswings:pdf_generator_for_wordpress"
+	"vid": "21628",
+	"vname": "WP Swings",
+	"vcpe": "cpe:/:wpswings",
+	"pid": "61079",
+	"pname": "PDF Generator for WordPress",
+	"pcpe": "cpe:/a:wpswings:pdf_generator_for_wordpress"
 }

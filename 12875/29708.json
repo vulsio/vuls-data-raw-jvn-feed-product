@@ -1,8 +1,8 @@
 {
-  "vid": "12875",
-  "vname": "Sublime Text",
-  "vcpe": "cpe:/:sublimetext",
-  "pid": "29708",
-  "pname": "Sublime Text 3",
-  "pcpe": "cpe:/a:sublimetext:sublime_text_3"
+	"vid": "12875",
+	"vname": "Sublime Text",
+	"vcpe": "cpe:/:sublimetext",
+	"pid": "29708",
+	"pname": "Sublime Text 3",
+	"pcpe": "cpe:/a:sublimetext:sublime_text_3"
 }

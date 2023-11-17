@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "44527",
-  "pname": "RBW30 ファームウェア",
-  "pcpe": "cpe:/o:netgear:rbw30_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "44527",
+	"pname": "RBW30 ファームウェア",
+	"pcpe": "cpe:/o:netgear:rbw30_firmware"
 }

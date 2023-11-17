@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "6533",
-  "pname": "etrust threat management console",
-  "pcpe": "cpe:/a:ca:etrust_threat_management_console"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "6533",
+	"pname": "etrust threat management console",
+	"pcpe": "cpe:/a:ca:etrust_threat_management_console"
 }

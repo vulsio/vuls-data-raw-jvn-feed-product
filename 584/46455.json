@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "46455",
-  "pname": "SIMATIC HMI Basic Panels 2nd Generation ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_hmi_basic_panels_2nd_generation_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "46455",
+	"pname": "SIMATIC HMI Basic Panels 2nd Generation ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_hmi_basic_panels_2nd_generation_firmware"
 }

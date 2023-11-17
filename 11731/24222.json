@@ -1,8 +1,8 @@
 {
-  "vid": "11731",
-  "vname": "Actian Corporation",
-  "vcpe": "cpe:/:actian",
-  "pid": "24222",
-  "pname": "Actian Matrix",
-  "pcpe": "cpe:/a:actian:matrix"
+	"vid": "11731",
+	"vname": "Actian Corporation",
+	"vcpe": "cpe:/:actian",
+	"pid": "24222",
+	"pname": "Actian Matrix",
+	"pcpe": "cpe:/a:actian:matrix"
 }

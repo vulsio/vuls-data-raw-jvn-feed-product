@@ -1,8 +1,8 @@
 {
-  "vid": "16387",
-  "vname": "yarnpkg project",
-  "vcpe": "cpe:/:yarnpkg",
-  "pid": "39735",
-  "pname": "Yarn",
-  "pcpe": "cpe:/a:yarnpkg:yarn"
+	"vid": "16387",
+	"vname": "yarnpkg project",
+	"vcpe": "cpe:/:yarnpkg",
+	"pid": "39735",
+	"pname": "Yarn",
+	"pcpe": "cpe:/a:yarnpkg:yarn"
 }

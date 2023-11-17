@@ -1,8 +1,8 @@
 {
-  "vid": "17521",
-  "vname": "Advan Digital",
-  "vcpe": "cpe:/:advandigital",
-  "pid": "41926",
-  "pname": "i6A ファームウェア",
-  "pcpe": "cpe:/o:advandigital:i6a_firmware"
+	"vid": "17521",
+	"vname": "Advan Digital",
+	"vcpe": "cpe:/:advandigital",
+	"pid": "41926",
+	"pname": "i6A ファームウェア",
+	"pcpe": "cpe:/o:advandigital:i6a_firmware"
 }

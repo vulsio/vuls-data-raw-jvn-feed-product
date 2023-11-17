@@ -1,8 +1,8 @@
 {
-  "vid": "7932",
-  "vname": "tekbase",
-  "vcpe": "cpe:/:tekbase",
-  "pid": "15318",
-  "pname": "tekbase all-in-one",
-  "pcpe": "cpe:/a:tekbase:tekbase_all-in-one"
+	"vid": "7932",
+	"vname": "tekbase",
+	"vcpe": "cpe:/:tekbase",
+	"pid": "15318",
+	"pname": "tekbase all-in-one",
+	"pcpe": "cpe:/a:tekbase:tekbase_all-in-one"
 }

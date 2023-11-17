@@ -1,8 +1,8 @@
 {
-  "vid": "19176",
-  "vname": "Radar COVID",
-  "vcpe": "cpe:/:radarcovid",
-  "pid": "48193",
-  "pname": "Radar COVID",
-  "pcpe": "cpe:/a:radarcovid:radarcovid"
+	"vid": "19176",
+	"vname": "Radar COVID",
+	"vcpe": "cpe:/:radarcovid",
+	"pid": "48193",
+	"pname": "Radar COVID",
+	"pcpe": "cpe:/a:radarcovid:radarcovid"
 }

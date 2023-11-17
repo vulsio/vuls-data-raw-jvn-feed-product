@@ -1,8 +1,8 @@
 {
-  "vid": "24494",
-  "vname": "comment guestbook project",
-  "vcpe": "cpe:/:comment_guestbook_project",
-  "pid": "63252",
-  "pname": "comment guestbook",
-  "pcpe": "cpe:/a:comment_guestbook_project:comment_guestbook"
+	"vid": "24494",
+	"vname": "comment guestbook project",
+	"vcpe": "cpe:/:comment_guestbook_project",
+	"pid": "63252",
+	"pname": "comment guestbook",
+	"pcpe": "cpe:/a:comment_guestbook_project:comment_guestbook"
 }

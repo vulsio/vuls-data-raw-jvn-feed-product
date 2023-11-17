@@ -1,8 +1,8 @@
 {
-  "vid": "280",
-  "vname": "Gentoo Linux",
-  "vcpe": "cpe:/:gentoo",
-  "pid": "20191",
-  "pname": "nullmailer",
-  "pcpe": "cpe:/a:gentoo:nullmailer"
+	"vid": "280",
+	"vname": "Gentoo Linux",
+	"vcpe": "cpe:/:gentoo",
+	"pid": "20191",
+	"pname": "nullmailer",
+	"pcpe": "cpe:/a:gentoo:nullmailer"
 }

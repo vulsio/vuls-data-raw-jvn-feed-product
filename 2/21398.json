@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "21398",
-  "pname": "ASP.NET MVC",
-  "pcpe": "cpe:/a:microsoft:asp.net_model_view_controller"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "21398",
+	"pname": "ASP.NET MVC",
+	"pcpe": "cpe:/a:microsoft:asp.net_model_view_controller"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23121",
-  "pname": "Cisco-Meraki MR",
-  "pcpe": "cpe:/h:cisco:meraki_mr"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23121",
+	"pname": "Cisco-Meraki MR",
+	"pcpe": "cpe:/h:cisco:meraki_mr"
 }

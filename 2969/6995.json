@@ -1,8 +1,8 @@
 {
-  "vid": "2969",
-  "vname": "Core FTP",
-  "vcpe": "cpe:/:coreftp",
-  "pid": "6995",
-  "pname": "Core FTP",
-  "pcpe": "cpe:/a:coreftp:core_ftp"
+	"vid": "2969",
+	"vname": "Core FTP",
+	"vcpe": "cpe:/:coreftp",
+	"pid": "6995",
+	"pname": "Core FTP",
+	"pcpe": "cpe:/a:coreftp:core_ftp"
 }

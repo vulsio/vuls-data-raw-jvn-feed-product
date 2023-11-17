@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "8460",
-  "pname": "iceweasel",
-  "pcpe": "cpe:/a:gnu:iceweasel"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "8460",
+	"pname": "iceweasel",
+	"pcpe": "cpe:/a:gnu:iceweasel"
 }

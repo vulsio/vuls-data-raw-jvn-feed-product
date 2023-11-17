@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18040",
-  "pname": "HP 5500-24G-4SFP HI Switch with 2 Interface Slots",
-  "pcpe": "cpe:/h:hp:5500-24g-4sfp_hi_switch_with_2_interface_slots"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18040",
+	"pname": "HP 5500-24G-4SFP HI Switch with 2 Interface Slots",
+	"pcpe": "cpe:/h:hp:5500-24g-4sfp_hi_switch_with_2_interface_slots"
 }

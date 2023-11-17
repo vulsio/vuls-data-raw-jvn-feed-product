@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26583",
-  "pname": "Oracle Healthcare Analytics Data Integration",
-  "pcpe": "cpe:/a:oracle:healthcare_analytics_data_integration"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26583",
+	"pname": "Oracle Healthcare Analytics Data Integration",
+	"pcpe": "cpe:/a:oracle:healthcare_analytics_data_integration"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6168",
-  "vname": "orbitals",
-  "vcpe": "cpe:/:orbitals",
-  "pid": "12355",
-  "pname": "orbital viewer",
-  "pcpe": "cpe:/a:orbitals:orbital_viewer"
+	"vid": "6168",
+	"vname": "orbitals",
+	"vcpe": "cpe:/:orbitals",
+	"pid": "12355",
+	"pname": "orbital viewer",
+	"pcpe": "cpe:/a:orbitals:orbital_viewer"
 }

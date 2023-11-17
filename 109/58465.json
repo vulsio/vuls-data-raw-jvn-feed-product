@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "58465",
-  "pname": "IP-HE950E",
-  "pcpe": "cpe:/o:fujitsu:ip-he950e_firmware"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "58465",
+	"pname": "IP-HE950E",
+	"pcpe": "cpe:/o:fujitsu:ip-he950e_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13436",
-  "vname": "Nanopool",
-  "vcpe": "cpe:/:nanopool",
-  "pid": "31672",
-  "pname": "Claymore Dual Miner",
-  "pcpe": "cpe:/a:nanopool:claymore_dual_miner"
+	"vid": "13436",
+	"vname": "Nanopool",
+	"vcpe": "cpe:/:nanopool",
+	"pid": "31672",
+	"pname": "Claymore Dual Miner",
+	"pcpe": "cpe:/a:nanopool:claymore_dual_miner"
 }

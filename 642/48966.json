@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "48966",
-  "pname": "EX6200v2 ファームウェア",
-  "pcpe": "cpe:/o:netgear:ex6200v2_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "48966",
+	"pname": "EX6200v2 ファームウェア",
+	"pcpe": "cpe:/o:netgear:ex6200v2_firmware"
 }

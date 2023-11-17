@@ -1,8 +1,8 @@
 {
-  "vid": "983",
-  "vname": "SafeNet, Inc",
-  "vcpe": "cpe:/:safenet-inc",
-  "pid": "8654",
-  "pname": "highassurance remote",
-  "pcpe": "cpe:/a:safenet-inc:highassurance_remote"
+	"vid": "983",
+	"vname": "SafeNet, Inc",
+	"vcpe": "cpe:/:safenet-inc",
+	"pid": "8654",
+	"pname": "highassurance remote",
+	"pcpe": "cpe:/a:safenet-inc:highassurance_remote"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20261",
-  "vname": "VATES",
-  "vcpe": "cpe:/:vates",
-  "pid": "51623",
-  "pname": "Xen Orchestra",
-  "pcpe": "cpe:/a:vates:xen-orchestra"
+	"vid": "20261",
+	"vname": "VATES",
+	"vcpe": "cpe:/:vates",
+	"pid": "51623",
+	"pname": "Xen Orchestra",
+	"pcpe": "cpe:/a:vates:xen-orchestra"
 }

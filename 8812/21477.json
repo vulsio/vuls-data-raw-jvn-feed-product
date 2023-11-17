@@ -1,8 +1,8 @@
 {
-  "vid": "8812",
-  "vname": "Centrify",
-  "vcpe": "cpe:/:centrify",
-  "pid": "21477",
-  "pname": "Centrify DirectControl",
-  "pcpe": "cpe:/a:centrify:directcontrol"
+	"vid": "8812",
+	"vname": "Centrify",
+	"vcpe": "cpe:/:centrify",
+	"pid": "21477",
+	"pname": "Centrify DirectControl",
+	"pcpe": "cpe:/a:centrify:directcontrol"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8985",
-  "vname": "Openchrome",
-  "vcpe": "cpe:/:openchrome",
-  "pid": "17480",
-  "pname": "Openchrome",
-  "pcpe": "cpe:/a:openchrome:openchrome"
+	"vid": "8985",
+	"vname": "Openchrome",
+	"vcpe": "cpe:/:openchrome",
+	"pid": "17480",
+	"pname": "Openchrome",
+	"pcpe": "cpe:/a:openchrome:openchrome"
 }

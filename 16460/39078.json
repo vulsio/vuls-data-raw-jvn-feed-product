@@ -1,8 +1,8 @@
 {
-  "vid": "16460",
-  "vname": "FusionPBX",
-  "vcpe": "cpe:/:fusionpbx",
-  "pid": "39078",
-  "pname": "FusionPBX",
-  "pcpe": "cpe:/a:fusionpbx:fusionpbx"
+	"vid": "16460",
+	"vname": "FusionPBX",
+	"vcpe": "cpe:/:fusionpbx",
+	"pid": "39078",
+	"pname": "FusionPBX",
+	"pcpe": "cpe:/a:fusionpbx:fusionpbx"
 }

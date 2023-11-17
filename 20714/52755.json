@@ -1,8 +1,8 @@
 {
-  "vid": "20714",
-  "vname": "AdaptiveScale",
-  "vcpe": "cpe:/:adaptivescale",
-  "pid": "52755",
-  "pname": "LXDUI",
-  "pcpe": "cpe:/a:adaptivescale:lxdui"
+	"vid": "20714",
+	"vname": "AdaptiveScale",
+	"vcpe": "cpe:/:adaptivescale",
+	"pid": "52755",
+	"pname": "LXDUI",
+	"pcpe": "cpe:/a:adaptivescale:lxdui"
 }

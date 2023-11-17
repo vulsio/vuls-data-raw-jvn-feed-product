@@ -1,8 +1,8 @@
 {
-  "vid": "11961",
-  "vname": "株式会社ネットワーク応用通信研究所",
-  "vcpe": "cpe:/:network_applied_communication_laboratory",
-  "pid": "24924",
-  "pname": "島根県CMS",
-  "pcpe": "cpe:/a:network_applied_communication_laboratory:shimane_prefecture_cms"
+	"vid": "11961",
+	"vname": "株式会社ネットワーク応用通信研究所",
+	"vcpe": "cpe:/:network_applied_communication_laboratory",
+	"pid": "24924",
+	"pname": "島根県CMS",
+	"pcpe": "cpe:/a:network_applied_communication_laboratory:shimane_prefecture_cms"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "25808",
-  "pname": "HP ZBook 15u G3",
-  "pcpe": "cpe:/h:hp:zbook_15u_g3"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "25808",
+	"pname": "HP ZBook 15u G3",
+	"pcpe": "cpe:/h:hp:zbook_15u_g3"
 }

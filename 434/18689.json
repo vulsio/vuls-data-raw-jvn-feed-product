@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "18689",
-  "pname": "EMC Documentum Capital Projects",
-  "pcpe": "cpe:/a:emc:documentum_capital_projects"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "18689",
+	"pname": "EMC Documentum Capital Projects",
+	"pcpe": "cpe:/a:emc:documentum_capital_projects"
 }

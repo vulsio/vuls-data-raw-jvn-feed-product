@@ -1,8 +1,8 @@
 {
-  "vid": "15039",
-  "vname": "COBToken project",
-  "vcpe": "cpe:/:cobtoken_project",
-  "pid": "34968",
-  "pname": "COBToken",
-  "pcpe": "cpe:/a:cobtoken_project:cobtoken"
+	"vid": "15039",
+	"vname": "COBToken project",
+	"vcpe": "cpe:/:cobtoken_project",
+	"pid": "34968",
+	"pname": "COBToken",
+	"pcpe": "cpe:/a:cobtoken_project:cobtoken"
 }

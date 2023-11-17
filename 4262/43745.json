@@ -1,8 +1,8 @@
 {
-  "vid": "4262",
-  "vname": "ジョンソンコントロールズ",
-  "vcpe": "cpe:/:johnsoncontrols",
-  "pid": "43745",
-  "pname": "Metasys System Configuration Tool",
-  "pcpe": "cpe:/a:johnsoncontrols:metasys_system_configuration_tool"
+	"vid": "4262",
+	"vname": "ジョンソンコントロールズ",
+	"vcpe": "cpe:/:johnsoncontrols",
+	"pid": "43745",
+	"pname": "Metasys System Configuration Tool",
+	"pcpe": "cpe:/a:johnsoncontrols:metasys_system_configuration_tool"
 }

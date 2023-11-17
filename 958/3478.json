@@ -1,8 +1,8 @@
 {
-  "vid": "958",
-  "vname": "Joostina CMS",
-  "vcpe": "cpe:/:joostina-cms",
-  "pid": "3478",
-  "pname": "Joostina コンポーネント",
-  "pcpe": "cpe:/a:joostina-cms:com_ezautos"
+	"vid": "958",
+	"vname": "Joostina CMS",
+	"vcpe": "cpe:/:joostina-cms",
+	"pid": "3478",
+	"pname": "Joostina コンポーネント",
+	"pcpe": "cpe:/a:joostina-cms:com_ezautos"
 }

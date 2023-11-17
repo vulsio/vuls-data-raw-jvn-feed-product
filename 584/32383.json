@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "32383",
-  "pname": "PXC12/22/36-E.D ファームウェア",
-  "pcpe": "cpe:/o:siemens:pxc12%2f22%2f36-e.d_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "32383",
+	"pname": "PXC12/22/36-E.D ファームウェア",
+	"pcpe": "cpe:/o:siemens:pxc12%2f22%2f36-e.d_firmware"
 }

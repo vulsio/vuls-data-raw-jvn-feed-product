@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "25851",
-  "pname": "Schneider Electric SAGE 2300",
-  "pcpe": "cpe:/h:schneider_electric:sage_2300"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "25851",
+	"pname": "Schneider Electric SAGE 2300",
+	"pcpe": "cpe:/h:schneider_electric:sage_2300"
 }

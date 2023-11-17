@@ -1,8 +1,8 @@
 {
-  "vid": "19729",
-  "vname": "XML-Sitemaps",
-  "vcpe": "cpe:/:xmlsitemapgenerator",
-  "pid": "49743",
-  "pname": "XML Sitemap Generator for Google",
-  "pcpe": "cpe:/a:xmlsitemapgenerator:xml_sitemap_generator"
+	"vid": "19729",
+	"vname": "XML-Sitemaps",
+	"vcpe": "cpe:/:xmlsitemapgenerator",
+	"pid": "49743",
+	"pname": "XML Sitemap Generator for Google",
+	"pcpe": "cpe:/a:xmlsitemapgenerator:xml_sitemap_generator"
 }

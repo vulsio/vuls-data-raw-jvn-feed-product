@@ -1,8 +1,8 @@
 {
-  "vid": "21233",
-  "vname": "BackupBliss",
-  "vcpe": "cpe:/:backupbliss",
-  "pid": "54503",
-  "pname": "Backup Migration",
-  "pcpe": "cpe:/a:backupbliss:backup_migration"
+	"vid": "21233",
+	"vname": "BackupBliss",
+	"vcpe": "cpe:/:backupbliss",
+	"pid": "54503",
+	"pname": "Backup Migration",
+	"pcpe": "cpe:/a:backupbliss:backup_migration"
 }

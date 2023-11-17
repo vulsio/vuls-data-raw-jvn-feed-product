@@ -1,8 +1,8 @@
 {
-  "vid": "520",
-  "vname": "MT312",
-  "vcpe": "cpe:/:mt312",
-  "pid": "2117",
-  "pname": "携帯対応掲示板 REP-BBS",
-  "pcpe": "cpe:/a:mt312:rep-bbs"
+	"vid": "520",
+	"vname": "MT312",
+	"vcpe": "cpe:/:mt312",
+	"pid": "2117",
+	"pname": "携帯対応掲示板 REP-BBS",
+	"pcpe": "cpe:/a:mt312:rep-bbs"
 }

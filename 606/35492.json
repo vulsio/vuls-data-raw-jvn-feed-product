@@ -1,8 +1,8 @@
 {
-  "vid": "606",
-  "vname": "セイコーエプソン株式会社",
-  "vcpe": "cpe:/:epson",
-  "pid": "35492",
-  "pname": "PX-M680F",
-  "pcpe": "cpe:/a:epson:px-m680f"
+	"vid": "606",
+	"vname": "セイコーエプソン株式会社",
+	"vcpe": "cpe:/:epson",
+	"pid": "35492",
+	"pname": "PX-M680F",
+	"pcpe": "cpe:/a:epson:px-m680f"
 }

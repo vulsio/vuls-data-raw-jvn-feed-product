@@ -1,8 +1,8 @@
 {
-  "vid": "14077",
-  "vname": "NECプラットフォームズ株式会社",
-  "vcpe": "cpe:/:necplatforms",
-  "pid": "46968",
-  "pname": "UNIVERGE SV9100",
-  "pcpe": "cpe:/a:necplatforms:univerge_sv9100"
+	"vid": "14077",
+	"vname": "NECプラットフォームズ株式会社",
+	"vcpe": "cpe:/:necplatforms",
+	"pid": "46968",
+	"pname": "UNIVERGE SV9100",
+	"pcpe": "cpe:/a:necplatforms:univerge_sv9100"
 }

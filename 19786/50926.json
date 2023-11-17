@@ -1,8 +1,8 @@
 {
-  "vid": "19786",
-  "vname": "GALERA CLUSTER",
-  "vcpe": "cpe:/:galeracluster",
-  "pid": "50926",
-  "pname": "Galera Cluster for My SQL",
-  "pcpe": "cpe:/a:galeracluster:galera_cluster_for_mysql"
+	"vid": "19786",
+	"vname": "GALERA CLUSTER",
+	"vcpe": "cpe:/:galeracluster",
+	"pid": "50926",
+	"pname": "Galera Cluster for My SQL",
+	"pcpe": "cpe:/a:galeracluster:galera_cluster_for_mysql"
 }

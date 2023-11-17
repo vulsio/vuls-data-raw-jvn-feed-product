@@ -1,8 +1,8 @@
 {
-  "vid": "17357",
-  "vname": "INEA d.o.o.",
-  "vcpe": "cpe:/:inea",
-  "pid": "41312",
-  "pname": "ME-RTU ファームウェア",
-  "pcpe": "cpe:/o:inea:me-rtu_firmware"
+	"vid": "17357",
+	"vname": "INEA d.o.o.",
+	"vcpe": "cpe:/:inea",
+	"pid": "41312",
+	"pname": "ME-RTU ファームウェア",
+	"pcpe": "cpe:/o:inea:me-rtu_firmware"
 }

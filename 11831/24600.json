@@ -1,8 +1,8 @@
 {
-  "vid": "11831",
-  "vname": "HTACG",
-  "vcpe": "cpe:/:htacg",
-  "pid": "24600",
-  "pname": "Tidy",
-  "pcpe": "cpe:/a:htacg:tidy"
+	"vid": "11831",
+	"vname": "HTACG",
+	"vcpe": "cpe:/:htacg",
+	"pid": "24600",
+	"pname": "Tidy",
+	"pcpe": "cpe:/a:htacg:tidy"
 }

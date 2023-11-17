@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "18070",
-  "pname": "Latitude E6500",
-  "pcpe": "cpe:/h:dell:latitude_e6500"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "18070",
+	"pname": "Latitude E6500",
+	"pcpe": "cpe:/h:dell:latitude_e6500"
 }

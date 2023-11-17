@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "44167",
-  "pname": "TIM 3V-IE DNP3 ファームウェア",
-  "pcpe": "cpe:/o:siemens:tim_3v-ie_dnp3_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "44167",
+	"pname": "TIM 3V-IE DNP3 ファームウェア",
+	"pcpe": "cpe:/o:siemens:tim_3v-ie_dnp3_firmware"
 }

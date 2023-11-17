@@ -1,8 +1,8 @@
 {
-  "vid": "10313",
-  "vname": "MuleSoft Inc.",
-  "vcpe": "cpe:/:mulesoft",
-  "pid": "44120",
-  "pname": "Mule APIkit",
-  "pcpe": "cpe:/a:mulesoft:aplkit"
+	"vid": "10313",
+	"vname": "MuleSoft Inc.",
+	"vcpe": "cpe:/:mulesoft",
+	"pid": "44120",
+	"pname": "Mule APIkit",
+	"pcpe": "cpe:/a:mulesoft:aplkit"
 }

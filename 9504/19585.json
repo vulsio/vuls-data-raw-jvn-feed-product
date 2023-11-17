@@ -1,8 +1,8 @@
 {
-  "vid": "9504",
-  "vname": "理化学研究所 脳神経科学研究センター 神経情報基盤開発ユニット",
-  "vcpe": "cpe:/:riken",
-  "pid": "19585",
-  "pname": "XooNIps",
-  "pcpe": "cpe:/a:riken:xoonips"
+	"vid": "9504",
+	"vname": "理化学研究所 脳神経科学研究センター 神経情報基盤開発ユニット",
+	"vcpe": "cpe:/:riken",
+	"pid": "19585",
+	"pname": "XooNIps",
+	"pcpe": "cpe:/a:riken:xoonips"
 }

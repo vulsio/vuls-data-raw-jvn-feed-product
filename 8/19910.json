@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "19910",
-  "pname": "Xalan-Java",
-  "pcpe": "cpe:/a:apache:xalan-java"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "19910",
+	"pname": "Xalan-Java",
+	"pcpe": "cpe:/a:apache:xalan-java"
 }

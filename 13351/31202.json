@@ -1,8 +1,8 @@
 {
-  "vid": "13351",
-  "vname": "Perfect Privacy",
-  "vcpe": "cpe:/:perfect-privacy",
-  "pid": "31202",
-  "pname": "VPN Manager",
-  "pcpe": "cpe:/a:perfect-privacy:vpn_manager"
+	"vid": "13351",
+	"vname": "Perfect Privacy",
+	"vcpe": "cpe:/:perfect-privacy",
+	"pid": "31202",
+	"pname": "VPN Manager",
+	"pcpe": "cpe:/a:perfect-privacy:vpn_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "35237",
-  "pname": "AWS CodePipeline",
-  "pcpe": "cpe:/a:jenkins:aws_codepipeline"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "35237",
+	"pname": "AWS CodePipeline",
+	"pcpe": "cpe:/a:jenkins:aws_codepipeline"
 }

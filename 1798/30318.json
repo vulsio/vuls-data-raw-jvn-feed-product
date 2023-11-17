@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "30318",
-  "pname": "Photo Station Uploader",
-  "pcpe": "cpe:/a:synology:photo_station_uploader"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "30318",
+	"pname": "Photo Station Uploader",
+	"pcpe": "cpe:/a:synology:photo_station_uploader"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9188",
-  "vname": "Openbravo",
-  "vcpe": "cpe:/:openbravo",
-  "pid": "18668",
-  "pname": "Openbravo ERP",
-  "pcpe": "cpe:/a:openbravo:openbravo_erp"
+	"vid": "9188",
+	"vname": "Openbravo",
+	"vcpe": "cpe:/:openbravo",
+	"pid": "18668",
+	"pname": "Openbravo ERP",
+	"pcpe": "cpe:/a:openbravo:openbravo_erp"
 }

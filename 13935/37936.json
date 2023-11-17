@@ -1,8 +1,8 @@
 {
-  "vid": "13935",
-  "vname": "HEIMDAL SECURITY",
-  "vcpe": "cpe:/:heimdalsecurity",
-  "pid": "37936",
-  "pname": "Thor",
-  "pcpe": "cpe:/a:heimdalsecurity:thor"
+	"vid": "13935",
+	"vname": "HEIMDAL SECURITY",
+	"vcpe": "cpe:/:heimdalsecurity",
+	"pid": "37936",
+	"pname": "Thor",
+	"pcpe": "cpe:/a:heimdalsecurity:thor"
 }

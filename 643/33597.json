@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "33597",
-  "pname": "Dell EMC VNXe1600 Operating Environment",
-  "pcpe": "cpe:/a:dell:emc_vnxe1600_operating_environment"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "33597",
+	"pname": "Dell EMC VNXe1600 Operating Environment",
+	"pcpe": "cpe:/a:dell:emc_vnxe1600_operating_environment"
 }

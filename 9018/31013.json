@@ -1,8 +1,8 @@
 {
-  "vid": "9018",
-  "vname": "シャープ株式会社",
-  "vcpe": "cpe:/:sharp",
-  "pid": "31013",
-  "pname": "RX-V100 ファームウェア",
-  "pcpe": "cpe:/o:sharp:rx-v100_firmware"
+	"vid": "9018",
+	"vname": "シャープ株式会社",
+	"vcpe": "cpe:/:sharp",
+	"pid": "31013",
+	"pname": "RX-V100 ファームウェア",
+	"pcpe": "cpe:/o:sharp:rx-v100_firmware"
 }

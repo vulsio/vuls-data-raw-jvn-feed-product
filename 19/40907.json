@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "40907",
-  "pname": "Cisco Nexus 3048 ファームウェア",
-  "pcpe": "cpe:/o:cisco:nexus_3048_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "40907",
+	"pname": "Cisco Nexus 3048 ファームウェア",
+	"pcpe": "cpe:/o:cisco:nexus_3048_firmware"
 }

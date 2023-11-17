@@ -1,8 +1,8 @@
 {
-  "vid": "1198",
-  "vname": "Euro Calculator",
-  "vcpe": "cpe:/:typo3",
-  "pid": "3881",
-  "pname": "Euro Calculator",
-  "pcpe": "cpe:/a:typo3:skt_eurocalc"
+	"vid": "1198",
+	"vname": "Euro Calculator",
+	"vcpe": "cpe:/:typo3",
+	"pid": "3881",
+	"pname": "Euro Calculator",
+	"pcpe": "cpe:/a:typo3:skt_eurocalc"
 }

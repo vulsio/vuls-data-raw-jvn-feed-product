@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "45108",
-  "pname": "Logix Designer Studio 5000",
-  "pcpe": "cpe:/a:rockwellautomation:logix_designer_studio5000"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "45108",
+	"pname": "Logix Designer Studio 5000",
+	"pcpe": "cpe:/a:rockwellautomation:logix_designer_studio5000"
 }

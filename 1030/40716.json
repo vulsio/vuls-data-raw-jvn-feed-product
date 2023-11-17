@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "40716",
-  "pname": "CODESYS Gateway",
-  "pcpe": "cpe:/a:codesys:gateway"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "40716",
+	"pname": "CODESYS Gateway",
+	"pcpe": "cpe:/a:codesys:gateway"
 }

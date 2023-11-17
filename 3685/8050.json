@@ -1,8 +1,8 @@
 {
-  "vid": "3685",
-  "vname": "file-transfer",
-  "vcpe": "cpe:/:file-transfer",
-  "pid": "8050",
-  "pname": "file transfer",
-  "pcpe": "cpe:/a:file-transfer:file_transfer"
+	"vid": "3685",
+	"vname": "file-transfer",
+	"vcpe": "cpe:/:file-transfer",
+	"pid": "8050",
+	"pname": "file transfer",
+	"pcpe": "cpe:/a:file-transfer:file_transfer"
 }

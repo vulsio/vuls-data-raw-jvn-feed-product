@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "39567",
-  "pname": "Oracle Payments",
-  "pcpe": "cpe:/a:oracle:payments"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "39567",
+	"pname": "Oracle Payments",
+	"pcpe": "cpe:/a:oracle:payments"
 }

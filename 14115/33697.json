@@ -1,8 +1,8 @@
 {
-  "vid": "14115",
-  "vname": "PdfParser",
-  "vcpe": "cpe:/:pdfparser",
-  "pid": "33697",
-  "pname": "PdfParser",
-  "pcpe": "cpe:/a:pdfparser:pdfparser"
+	"vid": "14115",
+	"vname": "PdfParser",
+	"vcpe": "cpe:/:pdfparser",
+	"pid": "33697",
+	"pname": "PdfParser",
+	"pcpe": "cpe:/a:pdfparser:pdfparser"
 }

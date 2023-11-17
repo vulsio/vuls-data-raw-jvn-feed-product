@@ -1,8 +1,8 @@
 {
-  "vid": "20055",
-  "vname": "trim-newlines project",
-  "vcpe": "cpe:/:trim-newlines_project",
-  "pid": "50876",
-  "pname": "trim-newlines",
-  "pcpe": "cpe:/a:trim-newlines_project:trim-newlines"
+	"vid": "20055",
+	"vname": "trim-newlines project",
+	"vcpe": "cpe:/:trim-newlines_project",
+	"pid": "50876",
+	"pname": "trim-newlines",
+	"pcpe": "cpe:/a:trim-newlines_project:trim-newlines"
 }

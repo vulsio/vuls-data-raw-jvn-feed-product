@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "29856",
-  "pname": "Oracle General Ledger",
-  "pcpe": "cpe:/a:oracle:general_ledger"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "29856",
+	"pname": "Oracle General Ledger",
+	"pcpe": "cpe:/a:oracle:general_ledger"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10000",
-  "vname": "Jonathan Heilmann",
-  "vcpe": "cpe:/:open_graph_protocol_project",
-  "pid": "20995",
-  "pname": "Open Graph protocol",
-  "pcpe": "cpe:/a:open_graph_protocol_project:open_graph_protocol"
+	"vid": "10000",
+	"vname": "Jonathan Heilmann",
+	"vcpe": "cpe:/:open_graph_protocol_project",
+	"pid": "20995",
+	"pname": "Open Graph protocol",
+	"pcpe": "cpe:/a:open_graph_protocol_project:open_graph_protocol"
 }

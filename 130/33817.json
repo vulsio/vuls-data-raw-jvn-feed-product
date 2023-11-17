@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "33817",
-  "pname": "Intel Xeon E3",
-  "pcpe": "cpe:/h:intel:xeon_e3"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "33817",
+	"pname": "Intel Xeon E3",
+	"pcpe": "cpe:/h:intel:xeon_e3"
 }

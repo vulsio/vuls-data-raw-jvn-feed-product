@@ -1,8 +1,8 @@
 {
-  "vid": "9880",
-  "vname": "Docker",
-  "vcpe": "cpe:/:docker",
-  "pid": "48446",
-  "pname": "elixir Docker image",
-  "pcpe": "cpe:/a:docker:elixir_alpine_docker_image"
+	"vid": "9880",
+	"vname": "Docker",
+	"vcpe": "cpe:/:docker",
+	"pid": "48446",
+	"pname": "elixir Docker image",
+	"pcpe": "cpe:/a:docker:elixir_alpine_docker_image"
 }

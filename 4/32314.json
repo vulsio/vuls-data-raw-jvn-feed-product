@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "32314",
-  "pname": "J3P68A ファームウェア",
-  "pcpe": "cpe:/o:hp:j3p68a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "32314",
+	"pname": "J3P68A ファームウェア",
+	"pcpe": "cpe:/o:hp:j3p68a_firmware"
 }

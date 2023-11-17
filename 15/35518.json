@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "35518",
-  "pname": "Oracle Endeca Information Discovery Integrator",
-  "pcpe": "cpe:/a:oracle:endeca_information_discovery_integrator"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "35518",
+	"pname": "Oracle Endeca Information Discovery Integrator",
+	"pcpe": "cpe:/a:oracle:endeca_information_discovery_integrator"
 }

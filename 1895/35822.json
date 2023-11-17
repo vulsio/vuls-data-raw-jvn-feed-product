@@ -1,8 +1,8 @@
 {
-  "vid": "1895",
-  "vname": "エマソン",
-  "vcpe": "cpe:/:emerson",
-  "pid": "35822",
-  "pname": "DeltaV Distributed Control System",
-  "pcpe": "cpe:/a:emerson:deltav_distributed_control_system"
+	"vid": "1895",
+	"vname": "エマソン",
+	"vcpe": "cpe:/:emerson",
+	"pid": "35822",
+	"pname": "DeltaV Distributed Control System",
+	"pcpe": "cpe:/a:emerson:deltav_distributed_control_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16295",
-  "vname": "Anomali",
-  "vcpe": "cpe:/:anomali",
-  "pid": "38452",
-  "pname": "Agave",
-  "pcpe": "cpe:/a:anomali:agave"
+	"vid": "16295",
+	"vname": "Anomali",
+	"vcpe": "cpe:/:anomali",
+	"pid": "38452",
+	"pname": "Agave",
+	"pcpe": "cpe:/a:anomali:agave"
 }

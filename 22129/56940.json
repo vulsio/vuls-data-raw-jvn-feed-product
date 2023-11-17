@@ -1,8 +1,8 @@
 {
-  "vid": "22129",
-  "vname": "EXFO Inc.",
-  "vcpe": "cpe:/:exfo",
-  "pid": "56940",
-  "pname": "BV-10 ファームウェア",
-  "pcpe": "cpe:/o:exfo:bv-10_firmware"
+	"vid": "22129",
+	"vname": "EXFO Inc.",
+	"vcpe": "cpe:/:exfo",
+	"pid": "56940",
+	"pname": "BV-10 ファームウェア",
+	"pcpe": "cpe:/o:exfo:bv-10_firmware"
 }

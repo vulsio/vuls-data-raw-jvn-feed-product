@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "38849",
-  "pname": "Microarchitectural Fill Buffer Data Sampling (MFBDS) ファームウェア",
-  "pcpe": "cpe:/o:intel:microarchitectural_fill_buffer_data_sampling_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "38849",
+	"pname": "Microarchitectural Fill Buffer Data Sampling (MFBDS) ファームウェア",
+	"pcpe": "cpe:/o:intel:microarchitectural_fill_buffer_data_sampling_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17252",
-  "vname": "Pi-hole",
-  "vcpe": "cpe:/:pi-hole",
-  "pid": "50017",
-  "pname": "FTLDNS",
-  "pcpe": "cpe:/a:pi-hole:ftldns"
+	"vid": "17252",
+	"vname": "Pi-hole",
+	"vcpe": "cpe:/:pi-hole",
+	"pid": "50017",
+	"pname": "FTLDNS",
+	"pcpe": "cpe:/a:pi-hole:ftldns"
 }

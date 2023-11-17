@@ -1,8 +1,8 @@
 {
-  "vid": "831",
-  "vname": "VideoWhisper.com",
-  "vcpe": "cpe:/:videowhisper",
-  "pid": "19988",
-  "pname": "VideoWhisper Webcam",
-  "pcpe": "cpe:/a:videowhisper:videowhisper"
+	"vid": "831",
+	"vname": "VideoWhisper.com",
+	"vcpe": "cpe:/:videowhisper",
+	"pid": "19988",
+	"pname": "VideoWhisper Webcam",
+	"pcpe": "cpe:/a:videowhisper:videowhisper"
 }

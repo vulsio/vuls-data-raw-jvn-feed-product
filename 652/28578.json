@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "28578",
-  "pname": "Smart TV NT14U ファームウェア",
-  "pcpe": "cpe:/o:samsung:nt14u_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "28578",
+	"pname": "Smart TV NT14U ファームウェア",
+	"pcpe": "cpe:/o:samsung:nt14u_firmware"
 }

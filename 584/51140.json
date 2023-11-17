@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "51140",
-  "pname": "SIMATIC RF166C ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_rf166c_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "51140",
+	"pname": "SIMATIC RF166C ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_rf166c_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16121",
-  "vname": "Chuango Security Technology Corp",
-  "vcpe": "cpe:/:chuango",
-  "pid": "38591",
-  "pname": "Chuango CG-105S ファームウェア",
-  "pcpe": "cpe:/o:chuango:cg-105s_firmware"
+	"vid": "16121",
+	"vname": "Chuango Security Technology Corp",
+	"vcpe": "cpe:/:chuango",
+	"pid": "38591",
+	"pname": "Chuango CG-105S ファームウェア",
+	"pcpe": "cpe:/o:chuango:cg-105s_firmware"
 }

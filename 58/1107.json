@@ -1,8 +1,8 @@
 {
-  "vid": "58",
-  "vname": "KDE project",
-  "vcpe": "cpe:/:kde",
-  "pid": "1107",
-  "pname": "kword",
-  "pcpe": "cpe:/a:kde:kword"
+	"vid": "58",
+	"vname": "KDE project",
+	"vcpe": "cpe:/:kde",
+	"pid": "1107",
+	"pname": "kword",
+	"pcpe": "cpe:/a:kde:kword"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12774",
-  "vname": "FlipBuilder",
-  "vcpe": "cpe:/:flipbuilder",
-  "pid": "29377",
-  "pname": "Flip PDF",
-  "pcpe": "cpe:/a:flipbuilder:flip_pdf"
+	"vid": "12774",
+	"vname": "FlipBuilder",
+	"vcpe": "cpe:/:flipbuilder",
+	"pid": "29377",
+	"pname": "Flip PDF",
+	"pcpe": "cpe:/a:flipbuilder:flip_pdf"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "17939",
-  "pname": "Juniper Secure Access 4000",
-  "pcpe": "cpe:/h:juniper:secure_access_4000"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "17939",
+	"pname": "Juniper Secure Access 4000",
+	"pcpe": "cpe:/h:juniper:secure_access_4000"
 }

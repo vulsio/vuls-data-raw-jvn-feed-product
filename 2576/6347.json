@@ -1,8 +1,8 @@
 {
-  "vid": "2576",
-  "vname": "bluesky",
-  "vcpe": "cpe:/:bluesky",
-  "pid": "6347",
-  "pname": "blueskychat",
-  "pcpe": "cpe:/a:bluesky:blueskychat"
+	"vid": "2576",
+	"vname": "bluesky",
+	"vcpe": "cpe:/:bluesky",
+	"pid": "6347",
+	"pname": "blueskychat",
+	"pcpe": "cpe:/a:bluesky:blueskychat"
 }

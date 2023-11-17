@@ -1,8 +1,8 @@
 {
-  "vid": "6175",
-  "vname": "orion",
-  "vcpe": "cpe:/:orion",
-  "pid": "12366",
-  "pname": "orion application server",
-  "pcpe": "cpe:/a:orion:orion_application_server"
+	"vid": "6175",
+	"vname": "orion",
+	"vcpe": "cpe:/:orion",
+	"pid": "12366",
+	"pname": "orion application server",
+	"pcpe": "cpe:/a:orion:orion_application_server"
 }

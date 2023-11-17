@@ -1,8 +1,8 @@
 {
-  "vid": "2691",
-  "vname": "cabron connector",
-  "vcpe": "cpe:/:cabron_connector",
-  "pid": "6550",
-  "pname": "cabron connector",
-  "pcpe": "cpe:/a:cabron_connector:cabron_connector"
+	"vid": "2691",
+	"vname": "cabron connector",
+	"vcpe": "cpe:/:cabron_connector",
+	"pid": "6550",
+	"pname": "cabron connector",
+	"pcpe": "cpe:/a:cabron_connector:cabron_connector"
 }

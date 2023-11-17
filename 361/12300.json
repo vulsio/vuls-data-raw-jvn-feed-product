@@ -1,8 +1,8 @@
 {
-  "vid": "361",
-  "vname": "OpenPegasus.org",
-  "vcpe": "cpe:/:openpegasus",
-  "pid": "12300",
-  "pname": "management server",
-  "pcpe": "cpe:/a:openpegasus:management_server"
+	"vid": "361",
+	"vname": "OpenPegasus.org",
+	"vcpe": "cpe:/:openpegasus",
+	"pid": "12300",
+	"pname": "management server",
+	"pcpe": "cpe:/a:openpegasus:management_server"
 }

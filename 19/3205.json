@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3205",
-  "pname": "Cisco Intercompany Media Engine",
-  "pcpe": "cpe:/a:cisco:intercompany_media_engine"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3205",
+	"pname": "Cisco Intercompany Media Engine",
+	"pcpe": "cpe:/a:cisco:intercompany_media_engine"
 }

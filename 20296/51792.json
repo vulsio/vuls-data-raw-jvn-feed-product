@@ -1,8 +1,8 @@
 {
-  "vid": "20296",
-  "vname": "signal-simple project",
-  "vcpe": "cpe:/:signal-simple_project",
-  "pid": "51792",
-  "pname": "signal-simple",
-  "pcpe": "cpe:/a:signal-simple_project:signal-simple"
+	"vid": "20296",
+	"vname": "signal-simple project",
+	"vcpe": "cpe:/:signal-simple_project",
+	"pid": "51792",
+	"pname": "signal-simple",
+	"pcpe": "cpe:/a:signal-simple_project:signal-simple"
 }

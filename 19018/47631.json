@@ -1,8 +1,8 @@
 {
-  "vid": "19018",
-  "vname": "V-secure Technology",
-  "vcpe": "cpe:/:v-secure",
-  "pid": "47631",
-  "pname": "Jingyun Antivirus",
-  "pcpe": "cpe:/a:v-secure:jingyun_antivirus"
+	"vid": "19018",
+	"vname": "V-secure Technology",
+	"vcpe": "cpe:/:v-secure",
+	"pid": "47631",
+	"pname": "Jingyun Antivirus",
+	"pcpe": "cpe:/a:v-secure:jingyun_antivirus"
 }

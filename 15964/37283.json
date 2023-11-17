@@ -1,8 +1,8 @@
 {
-  "vid": "15964",
-  "vname": "ZEVENET",
-  "vcpe": "cpe:/:zevenet",
-  "pid": "37283",
-  "pname": "Zen Load Balancer",
-  "pcpe": "cpe:/a:zevenet:zen_load_balancer"
+	"vid": "15964",
+	"vname": "ZEVENET",
+	"vcpe": "cpe:/:zevenet",
+	"pid": "37283",
+	"pname": "Zen Load Balancer",
+	"pcpe": "cpe:/a:zevenet:zen_load_balancer"
 }

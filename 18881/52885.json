@@ -1,8 +1,8 @@
 {
-  "vid": "18881",
-  "vname": "1Password",
-  "vcpe": "cpe:/:1password",
-  "pid": "52885",
-  "pname": "1Password Connect",
-  "pcpe": "cpe:/a:1password:connect"
+	"vid": "18881",
+	"vname": "1Password",
+	"vcpe": "cpe:/:1password",
+	"pid": "52885",
+	"pname": "1Password Connect",
+	"pcpe": "cpe:/a:1password:connect"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "49257",
-  "pname": "SCALANCE XR324WG ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_xr324wg_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "49257",
+	"pname": "SCALANCE XR324WG ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_xr324wg_firmware"
 }

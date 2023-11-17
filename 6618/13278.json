@@ -1,8 +1,8 @@
 {
-  "vid": "6618",
-  "vname": "Advanced Productivity Software",
-  "vcpe": "cpe:/:advance_productivity_software",
-  "pid": "13278",
-  "pname": "DTE Axiom",
-  "pcpe": "cpe:/a:advance_productivity_software:dte_axiom"
+	"vid": "6618",
+	"vname": "Advanced Productivity Software",
+	"vcpe": "cpe:/:advance_productivity_software",
+	"pid": "13278",
+	"pname": "DTE Axiom",
+	"pcpe": "cpe:/a:advance_productivity_software:dte_axiom"
 }

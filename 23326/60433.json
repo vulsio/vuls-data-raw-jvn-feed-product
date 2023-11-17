@@ -1,8 +1,8 @@
 {
-  "vid": "23326",
-  "vname": "boom",
-  "vcpe": "cpe:/:boom",
-  "pid": "60433",
-  "pname": "boomtv streamer portal",
-  "pcpe": "cpe:/a:boom:boomtv_streamer_portal"
+	"vid": "23326",
+	"vname": "boom",
+	"vcpe": "cpe:/:boom",
+	"pid": "60433",
+	"pname": "boomtv streamer portal",
+	"pcpe": "cpe:/a:boom:boomtv_streamer_portal"
 }

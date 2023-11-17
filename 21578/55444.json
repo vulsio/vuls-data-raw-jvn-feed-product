@@ -1,8 +1,8 @@
 {
-  "vid": "21578",
-  "vname": "Tatoeba",
-  "vcpe": "cpe:/:tatoeba",
-  "pid": "55444",
-  "pname": "tatoeba2",
-  "pcpe": "cpe:/a:tatoeba:tatoeba2"
+	"vid": "21578",
+	"vname": "Tatoeba",
+	"vcpe": "cpe:/:tatoeba",
+	"pid": "55444",
+	"pname": "tatoeba2",
+	"pcpe": "cpe:/a:tatoeba:tatoeba2"
 }

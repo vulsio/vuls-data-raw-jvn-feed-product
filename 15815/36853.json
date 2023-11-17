@@ -1,8 +1,8 @@
 {
-  "vid": "15815",
-  "vname": "ExifTool project",
-  "vcpe": "cpe:/:exiftool_project",
-  "pid": "36853",
-  "pname": "ExifTool",
-  "pcpe": "cpe:/a:exiftool_project:exiftool"
+	"vid": "15815",
+	"vname": "ExifTool project",
+	"vcpe": "cpe:/:exiftool_project",
+	"pid": "36853",
+	"pname": "ExifTool",
+	"pcpe": "cpe:/a:exiftool_project:exiftool"
 }

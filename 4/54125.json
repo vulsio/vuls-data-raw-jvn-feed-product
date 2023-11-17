@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "54125",
-  "pname": "HP PageWide Pro 577dw D3Q21D ファームウェア",
-  "pcpe": "cpe:/o:hp:pagewide_pro_577dw_d3q21d_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "54125",
+	"pname": "HP PageWide Pro 577dw D3Q21D ファームウェア",
+	"pcpe": "cpe:/o:hp:pagewide_pro_577dw_d3q21d_firmware"
 }

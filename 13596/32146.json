@@ -1,8 +1,8 @@
 {
-  "vid": "13596",
-  "vname": "PatSaTECH",
-  "vcpe": "cpe:/:patsatech",
-  "pid": "32146",
-  "pname": "SagePay Server Gateway for WooCommerce",
-  "pcpe": "cpe:/a:patsatech:sagepay_server_gateway_for_woocommerce"
+	"vid": "13596",
+	"vname": "PatSaTECH",
+	"vcpe": "cpe:/:patsatech",
+	"pid": "32146",
+	"pname": "SagePay Server Gateway for WooCommerce",
+	"pcpe": "cpe:/a:patsatech:sagepay_server_gateway_for_woocommerce"
 }

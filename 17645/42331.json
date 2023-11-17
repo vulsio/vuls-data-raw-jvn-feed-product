@@ -1,8 +1,8 @@
 {
-  "vid": "17645",
-  "vname": "Livefyre",
-  "vcpe": "cpe:/:livefyre",
-  "pid": "42331",
-  "pname": "LiveComments",
-  "pcpe": "cpe:/a:livefyre:livecomments"
+	"vid": "17645",
+	"vname": "Livefyre",
+	"vcpe": "cpe:/:livefyre",
+	"pid": "42331",
+	"pname": "LiveComments",
+	"pcpe": "cpe:/a:livefyre:livecomments"
 }

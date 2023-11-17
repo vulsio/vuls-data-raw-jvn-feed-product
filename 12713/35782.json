@@ -1,8 +1,8 @@
 {
-  "vid": "12713",
-  "vname": "Gemalto N.V.",
-  "vcpe": "cpe:/:gemalto",
-  "pid": "35782",
-  "pname": "Sentinel License Manager",
-  "pcpe": "cpe:/a:gemalto:sentinel_license_manager"
+	"vid": "12713",
+	"vname": "Gemalto N.V.",
+	"vcpe": "cpe:/:gemalto",
+	"pid": "35782",
+	"pname": "Sentinel License Manager",
+	"pcpe": "cpe:/a:gemalto:sentinel_license_manager"
 }

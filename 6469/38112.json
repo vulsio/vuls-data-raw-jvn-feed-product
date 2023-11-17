@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "38112",
-  "pname": "FL NAT SMCS 8TX ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:fl_nat_smcs_8tx_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "38112",
+	"pname": "FL NAT SMCS 8TX ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:fl_nat_smcs_8tx_firmware"
 }

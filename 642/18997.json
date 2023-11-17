@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "18997",
-  "pname": "GS728TS",
-  "pcpe": "cpe:/h:netgear:prosafe_gs728ts"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "18997",
+	"pname": "GS728TS",
+	"pcpe": "cpe:/h:netgear:prosafe_gs728ts"
 }

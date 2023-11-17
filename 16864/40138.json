@@ -1,8 +1,8 @@
 {
-  "vid": "16864",
-  "vname": "memoffset project",
-  "vcpe": "cpe:/:memoffset_project",
-  "pid": "40138",
-  "pname": "memoffset",
-  "pcpe": "cpe:/a:memoffset_project:memoffset"
+	"vid": "16864",
+	"vname": "memoffset project",
+	"vcpe": "cpe:/:memoffset_project",
+	"pid": "40138",
+	"pname": "memoffset",
+	"pcpe": "cpe:/a:memoffset_project:memoffset"
 }

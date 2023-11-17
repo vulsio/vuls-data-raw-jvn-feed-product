@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "52324",
-  "pname": "Eclipse Cyclone DDS",
-  "pcpe": "cpe:/a:eclipse:cyclone_data_distribution_service"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "52324",
+	"pname": "Eclipse Cyclone DDS",
+	"pcpe": "cpe:/a:eclipse:cyclone_data_distribution_service"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "821",
-  "vname": "Activedev",
-  "vcpe": "cpe:/:activedev",
-  "pid": "3243",
-  "pname": "Active CMS",
-  "pcpe": "cpe:/a:activedev:active_cms"
+	"vid": "821",
+	"vname": "Activedev",
+	"vcpe": "cpe:/:activedev",
+	"pid": "3243",
+	"pname": "Active CMS",
+	"pcpe": "cpe:/a:activedev:active_cms"
 }

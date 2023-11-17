@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "16222",
-  "pname": "photo album plugin",
-  "pcpe": "cpe:/a:wordpress:photo_album_plugin"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "16222",
+	"pname": "photo album plugin",
+	"pcpe": "cpe:/a:wordpress:photo_album_plugin"
 }

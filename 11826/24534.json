@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "24534",
-  "pname": "Millennium NC ファームウェア",
-  "pcpe": "cpe:/o:gehealthcare:millennium_nc_firmware"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "24534",
+	"pname": "Millennium NC ファームウェア",
+	"pcpe": "cpe:/o:gehealthcare:millennium_nc_firmware"
 }

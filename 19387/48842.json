@@ -1,8 +1,8 @@
 {
-  "vid": "19387",
-  "vname": "Kyland Technology Co., Ltd.",
-  "vcpe": "cpe:/:kyland",
-  "pid": "48842",
-  "pname": "KPS2204 6 Port Managed Din-Rail Programmable Serial Device ファームウェア",
-  "pcpe": "cpe:/o:kyland:kps2204_6_port_managed_din-rail_programmable_serial_device_firmware"
+	"vid": "19387",
+	"vname": "Kyland Technology Co., Ltd.",
+	"vcpe": "cpe:/:kyland",
+	"pid": "48842",
+	"pname": "KPS2204 6 Port Managed Din-Rail Programmable Serial Device ファームウェア",
+	"pcpe": "cpe:/o:kyland:kps2204_6_port_managed_din-rail_programmable_serial_device_firmware"
 }

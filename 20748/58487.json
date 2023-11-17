@@ -1,8 +1,8 @@
 {
-  "vid": "20748",
-  "vname": "ARI Soft",
-  "vcpe": "cpe:/:ari-soft",
-  "pid": "58487",
-  "pname": "ARI Fancy Lightbox",
-  "pcpe": "cpe:/a:ari-soft:ari_fancy_lightbox"
+	"vid": "20748",
+	"vname": "ARI Soft",
+	"vcpe": "cpe:/:ari-soft",
+	"pid": "58487",
+	"pname": "ARI Fancy Lightbox",
+	"pcpe": "cpe:/a:ari-soft:ari_fancy_lightbox"
 }

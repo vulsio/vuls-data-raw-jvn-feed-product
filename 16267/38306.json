@@ -1,8 +1,8 @@
 {
-  "vid": "16267",
-  "vname": "Shimo VPN",
-  "vcpe": "cpe:/:shimovpn",
-  "pid": "38306",
-  "pname": "Shimo VPN",
-  "pcpe": "cpe:/a:shimovpn:shimo_vpn"
+	"vid": "16267",
+	"vname": "Shimo VPN",
+	"vcpe": "cpe:/:shimovpn",
+	"pid": "38306",
+	"pname": "Shimo VPN",
+	"pcpe": "cpe:/a:shimovpn:shimo_vpn"
 }

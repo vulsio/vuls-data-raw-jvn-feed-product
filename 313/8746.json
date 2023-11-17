@@ -1,8 +1,8 @@
 {
-  "vid": "313",
-  "vname": "Atheros",
-  "vcpe": "cpe:/:atheros",
-  "pid": "8746",
-  "pname": "ar5416-ac1e chipset",
-  "pcpe": "cpe:/h:atheros:ar5416-ac1e_chipset"
+	"vid": "313",
+	"vname": "Atheros",
+	"vcpe": "cpe:/:atheros",
+	"pid": "8746",
+	"pname": "ar5416-ac1e chipset",
+	"pcpe": "cpe:/h:atheros:ar5416-ac1e_chipset"
 }

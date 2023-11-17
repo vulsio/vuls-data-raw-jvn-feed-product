@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "51062",
-  "pname": "openstack-selinux",
-  "pcpe": "cpe:/a:redhat:openstack-selinux"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "51062",
+	"pname": "openstack-selinux",
+	"pcpe": "cpe:/a:redhat:openstack-selinux"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16732",
-  "vname": "Simple Fields project",
-  "vcpe": "cpe:/:simple_fields_project",
-  "pid": "39876",
-  "pname": "Simple Fields",
-  "pcpe": "cpe:/a:simple_fields_project:simple_fields"
+	"vid": "16732",
+	"vname": "Simple Fields project",
+	"vcpe": "cpe:/:simple_fields_project",
+	"pid": "39876",
+	"pname": "Simple Fields",
+	"pcpe": "cpe:/a:simple_fields_project:simple_fields"
 }

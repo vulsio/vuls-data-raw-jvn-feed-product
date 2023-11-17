@@ -1,8 +1,8 @@
 {
-  "vid": "18567",
-  "vname": "pypi",
-  "vcpe": "cpe:/:pypi",
-  "pid": "60859",
-  "pname": "cryptoasset-data-downloader",
-  "pcpe": "cpe:/a:pypi:cryptoasset-data-downloader"
+	"vid": "18567",
+	"vname": "pypi",
+	"vcpe": "cpe:/:pypi",
+	"pid": "60859",
+	"pname": "cryptoasset-data-downloader",
+	"pcpe": "cpe:/a:pypi:cryptoasset-data-downloader"
 }

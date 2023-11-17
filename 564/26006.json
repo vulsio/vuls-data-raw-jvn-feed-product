@@ -1,8 +1,8 @@
 {
-  "vid": "564",
-  "vname": "Panda Security",
-  "vcpe": "cpe:/:pandasecurity",
-  "pid": "26006",
-  "pname": "Panda Security URL Filtering",
-  "pcpe": "cpe:/a:pandasecurity:panda_security_url_filtering"
+	"vid": "564",
+	"vname": "Panda Security",
+	"vcpe": "cpe:/:pandasecurity",
+	"pid": "26006",
+	"pname": "Panda Security URL Filtering",
+	"pcpe": "cpe:/a:pandasecurity:panda_security_url_filtering"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "26942",
-  "pname": "ThinkCentre M73p",
-  "pcpe": "cpe:/h:lenovo:thinkcentre_m73p"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "26942",
+	"pname": "ThinkCentre M73p",
+	"pcpe": "cpe:/h:lenovo:thinkcentre_m73p"
 }

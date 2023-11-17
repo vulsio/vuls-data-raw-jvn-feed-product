@@ -1,8 +1,8 @@
 {
-  "vid": "16642",
-  "vname": "NATS",
-  "vcpe": "cpe:/:nats",
-  "pid": "56555",
-  "pname": "NATS Streaming Server",
-  "pcpe": "cpe:/a:nats:nats_streaming_server"
+	"vid": "16642",
+	"vname": "NATS",
+	"vcpe": "cpe:/:nats",
+	"pid": "56555",
+	"pname": "NATS Streaming Server",
+	"pcpe": "cpe:/a:nats:nats_streaming_server"
 }

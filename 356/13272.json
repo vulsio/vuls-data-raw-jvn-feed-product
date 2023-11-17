@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "13272",
-  "pname": "Google Checkout Sample Code for PHP",
-  "pcpe": "cpe:/a:google:checkout-php"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "13272",
+	"pname": "Google Checkout Sample Code for PHP",
+	"pcpe": "cpe:/a:google:checkout-php"
 }

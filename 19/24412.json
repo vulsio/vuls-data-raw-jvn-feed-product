@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24412",
-  "pname": "Cisco Nexus 5696Q スイッチ",
-  "pcpe": "cpe:/h:cisco:nexus_5696q"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24412",
+	"pname": "Cisco Nexus 5696Q スイッチ",
+	"pcpe": "cpe:/h:cisco:nexus_5696q"
 }

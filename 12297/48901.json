@@ -1,8 +1,8 @@
 {
-  "vid": "12297",
-  "vname": "WooCommerce project",
-  "vcpe": "cpe:/:woocommerce",
-  "pid": "48901",
-  "pname": "Gift Cards",
-  "pcpe": "cpe:/a:woocommerce:gift_cards"
+	"vid": "12297",
+	"vname": "WooCommerce project",
+	"vcpe": "cpe:/:woocommerce",
+	"pid": "48901",
+	"pname": "Gift Cards",
+	"pcpe": "cpe:/a:woocommerce:gift_cards"
 }

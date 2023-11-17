@@ -1,8 +1,8 @@
 {
-  "vid": "9122",
-  "vname": "Simon McVittie",
-  "vcpe": "cpe:/:simonmcvittie",
-  "pid": "18427",
-  "pname": "Telepathy Gabble",
-  "pcpe": "cpe:/a:simonmcvittie:telepathy_gabble"
+	"vid": "9122",
+	"vname": "Simon McVittie",
+	"vcpe": "cpe:/:simonmcvittie",
+	"pid": "18427",
+	"pname": "Telepathy Gabble",
+	"pcpe": "cpe:/a:simonmcvittie:telepathy_gabble"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12566",
-  "vname": "ArtistScope",
-  "vcpe": "cpe:/:artistscope",
-  "pid": "28574",
-  "pname": "CopySafe Web Protection",
-  "pcpe": "cpe:/a:artistscope:copysafe_web_protection"
+	"vid": "12566",
+	"vname": "ArtistScope",
+	"vcpe": "cpe:/:artistscope",
+	"pid": "28574",
+	"pname": "CopySafe Web Protection",
+	"pcpe": "cpe:/a:artistscope:copysafe_web_protection"
 }

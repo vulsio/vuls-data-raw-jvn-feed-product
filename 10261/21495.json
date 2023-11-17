@@ -1,8 +1,8 @@
 {
-  "vid": "10261",
-  "vname": "Oliver Eglseder",
-  "vcpe": "cpe:/:fal_sftp_project",
-  "pid": "21495",
-  "pname": "fal_sftp",
-  "pcpe": "cpe:/a:fal_sftp_project:fal_sftp"
+	"vid": "10261",
+	"vname": "Oliver Eglseder",
+	"vcpe": "cpe:/:fal_sftp_project",
+	"pid": "21495",
+	"pname": "fal_sftp",
+	"pcpe": "cpe:/a:fal_sftp_project:fal_sftp"
 }

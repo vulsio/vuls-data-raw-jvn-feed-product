@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "38441",
-  "pname": "Armor Compact Guardlogix 5370 ファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:armor_compact_guardlogix_5370_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "38441",
+	"pname": "Armor Compact Guardlogix 5370 ファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:armor_compact_guardlogix_5370_firmware"
 }

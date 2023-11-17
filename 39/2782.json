@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "2782",
-  "pname": "Adobe Audition",
-  "pcpe": "cpe:/a:adobe:audition"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "2782",
+	"pname": "Adobe Audition",
+	"pcpe": "cpe:/a:adobe:audition"
 }

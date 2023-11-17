@@ -1,8 +1,8 @@
 {
-  "vid": "20828",
-  "vname": "semver-regex project",
-  "vcpe": "cpe:/:semver-regex_project",
-  "pid": "53158",
-  "pname": "semver-regex",
-  "pcpe": "cpe:/a:semver-regex_project:semver-regex"
+	"vid": "20828",
+	"vname": "semver-regex project",
+	"vcpe": "cpe:/:semver-regex_project",
+	"pid": "53158",
+	"pname": "semver-regex",
+	"pcpe": "cpe:/a:semver-regex_project:semver-regex"
 }

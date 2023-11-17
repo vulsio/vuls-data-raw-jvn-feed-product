@@ -1,8 +1,8 @@
 {
-  "vid": "18852",
-  "vname": "ピーアンドエフ",
-  "vcpe": "cpe:/:pepperl-fuchs",
-  "pid": "47976",
-  "pname": "PXV100-F200-B17-V1D-3636 ファームウェア",
-  "pcpe": "cpe:/o:pepperl-fuchs:pxv100-f200-b17-v1d-3636_firmware"
+	"vid": "18852",
+	"vname": "ピーアンドエフ",
+	"vcpe": "cpe:/:pepperl-fuchs",
+	"pid": "47976",
+	"pname": "PXV100-F200-B17-V1D-3636 ファームウェア",
+	"pcpe": "cpe:/o:pepperl-fuchs:pxv100-f200-b17-v1d-3636_firmware"
 }

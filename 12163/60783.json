@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "60783",
-  "pname": "easyqa",
-  "pcpe": "cpe:/a:jenkins:easyqa"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "60783",
+	"pname": "easyqa",
+	"pcpe": "cpe:/a:jenkins:easyqa"
 }

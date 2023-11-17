@@ -1,8 +1,8 @@
 {
-  "vid": "21792",
-  "vname": "Authenticator project",
-  "vcpe": "cpe:/:authenticator_project",
-  "pid": "55955",
-  "pname": "Authenticator",
-  "pcpe": "cpe:/a:authenticator_project:authenticator"
+	"vid": "21792",
+	"vname": "Authenticator project",
+	"vcpe": "cpe:/:authenticator_project",
+	"pid": "55955",
+	"pname": "Authenticator",
+	"pcpe": "cpe:/a:authenticator_project:authenticator"
 }

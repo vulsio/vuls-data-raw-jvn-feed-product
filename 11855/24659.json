@@ -1,8 +1,8 @@
 {
-  "vid": "11855",
-  "vname": "Shipwire API project",
-  "vcpe": "cpe:/:shipwire_api_project",
-  "pid": "24659",
-  "pname": "Shipwire API",
-  "pcpe": "cpe:/a:shipwire_api_project:shipwire_api"
+	"vid": "11855",
+	"vname": "Shipwire API project",
+	"vcpe": "cpe:/:shipwire_api_project",
+	"pid": "24659",
+	"pname": "Shipwire API",
+	"pcpe": "cpe:/a:shipwire_api_project:shipwire_api"
 }

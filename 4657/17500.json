@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "17500",
-  "pname": "NE40E/80E",
-  "pcpe": "cpe:/h:huawei:ne40e%2F80e"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "17500",
+	"pname": "NE40E/80E",
+	"pcpe": "cpe:/h:huawei:ne40e%2F80e"
 }

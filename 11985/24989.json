@@ -1,8 +1,8 @@
 {
-  "vid": "11985",
-  "vname": "ARM Ltd.",
-  "vcpe": "cpe:/:arm",
-  "pid": "24989",
-  "pname": "ARM mbed TLS",
-  "pcpe": "cpe:/a:arm:mbed_tls"
+	"vid": "11985",
+	"vname": "ARM Ltd.",
+	"vcpe": "cpe:/:arm",
+	"pid": "24989",
+	"pname": "ARM mbed TLS",
+	"pcpe": "cpe:/a:arm:mbed_tls"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1893",
-  "vname": "Sensio Labs",
-  "vcpe": "cpe:/:sensiolabs",
-  "pid": "27535",
-  "pname": "Swift Mailer",
-  "pcpe": "cpe:/a:sensiolabs:swiftmailer"
+	"vid": "1893",
+	"vname": "Sensio Labs",
+	"vcpe": "cpe:/:sensiolabs",
+	"pid": "27535",
+	"pname": "Swift Mailer",
+	"pcpe": "cpe:/a:sensiolabs:swiftmailer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "500",
-  "vname": "Mambo Foundation",
-  "vcpe": "cpe:/:mambo-foundation",
-  "pid": "11207",
-  "pname": "extcalthai module",
-  "pcpe": "cpe:/a:mambo-foundation:extcalthai_module"
+	"vid": "500",
+	"vname": "Mambo Foundation",
+	"vcpe": "cpe:/:mambo-foundation",
+	"pid": "11207",
+	"pname": "extcalthai module",
+	"pcpe": "cpe:/a:mambo-foundation:extcalthai_module"
 }

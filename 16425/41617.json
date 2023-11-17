@@ -1,8 +1,8 @@
 {
-  "vid": "16425",
-  "vname": "AU Optronics Corp",
-  "vcpe": "cpe:/:auo",
-  "pid": "41617",
-  "pname": "SunVeillance Monitoring System",
-  "pcpe": "cpe:/a:auo:sunveillance_monitoring_system_%26_data_recorder"
+	"vid": "16425",
+	"vname": "AU Optronics Corp",
+	"vcpe": "cpe:/:auo",
+	"pid": "41617",
+	"pname": "SunVeillance Monitoring System",
+	"pcpe": "cpe:/a:auo:sunveillance_monitoring_system_%26_data_recorder"
 }

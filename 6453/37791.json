@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "37791",
-  "pname": "CX825_ファームウェア",
-  "pcpe": "cpe:/o:lexmark:cx825_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "37791",
+	"pname": "CX825_ファームウェア",
+	"pcpe": "cpe:/o:lexmark:cx825_firmware"
 }

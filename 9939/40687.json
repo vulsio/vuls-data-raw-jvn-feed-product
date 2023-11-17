@@ -1,8 +1,8 @@
 {
-  "vid": "9939",
-  "vname": "Cobham plc",
-  "vcpe": "cpe:/:cobham",
-  "pid": "40687",
-  "pname": "Sailor 600 Vsat Ku ファームウェア",
-  "pcpe": "cpe:/o:cobham:sailor_600_vsat_ku_firmware"
+	"vid": "9939",
+	"vname": "Cobham plc",
+	"vcpe": "cpe:/:cobham",
+	"pid": "40687",
+	"pname": "Sailor 600 Vsat Ku ファームウェア",
+	"pcpe": "cpe:/o:cobham:sailor_600_vsat_ku_firmware"
 }

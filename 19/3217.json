@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3217",
-  "pname": "Cisco TelePresence Codec C90",
-  "pcpe": "cpe:/h:cisco:telepresence_codec_c90"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3217",
+	"pname": "Cisco TelePresence Codec C90",
+	"pcpe": "cpe:/h:cisco:telepresence_codec_c90"
 }

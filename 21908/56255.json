@@ -1,8 +1,8 @@
 {
-  "vid": "21908",
-  "vname": "Open Glider Network",
-  "vcpe": "cpe:/:glidernet",
-  "pid": "56255",
-  "pname": "ogn-live",
-  "pcpe": "cpe:/a:glidernet:ogn-live"
+	"vid": "21908",
+	"vname": "Open Glider Network",
+	"vcpe": "cpe:/:glidernet",
+	"pid": "56255",
+	"pname": "ogn-live",
+	"pcpe": "cpe:/a:glidernet:ogn-live"
 }

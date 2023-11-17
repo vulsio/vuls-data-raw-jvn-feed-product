@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1722",
-  "pname": "Aggregation",
-  "pcpe": "cpe:/a:drupal:aggregation_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1722",
+	"pname": "Aggregation",
+	"pcpe": "cpe:/a:drupal:aggregation_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "60973",
-  "pname": "jigomerge",
-  "pcpe": "cpe:/a:jenkins:jigomerge"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "60973",
+	"pname": "jigomerge",
+	"pcpe": "cpe:/a:jenkins:jigomerge"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11928",
-  "vname": "Project Jupyter",
-  "vcpe": "cpe:/:jupyter",
-  "pid": "63839",
-  "pname": "jupyter core",
-  "pcpe": "cpe:/a:jupyter:jupyter_core"
+	"vid": "11928",
+	"vname": "Project Jupyter",
+	"vcpe": "cpe:/:jupyter",
+	"pid": "63839",
+	"pname": "jupyter core",
+	"pcpe": "cpe:/a:jupyter:jupyter_core"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19171",
-  "vname": "Bitrix24",
-  "vcpe": "cpe:/:bitrix24",
-  "pid": "57973",
-  "pname": "bitrix24",
-  "pcpe": "cpe:/a:bitrix24:bitrix24"
+	"vid": "19171",
+	"vname": "Bitrix24",
+	"vcpe": "cpe:/:bitrix24",
+	"pid": "57973",
+	"pname": "bitrix24",
+	"pcpe": "cpe:/a:bitrix24:bitrix24"
 }

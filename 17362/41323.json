@@ -1,8 +1,8 @@
 {
-  "vid": "17362",
-  "vname": "XNAT",
-  "vcpe": "cpe:/:xnat",
-  "pid": "41323",
-  "pname": "XNAT",
-  "pcpe": "cpe:/a:xnat:xnat"
+	"vid": "17362",
+	"vname": "XNAT",
+	"vcpe": "cpe:/:xnat",
+	"pid": "41323",
+	"pname": "XNAT",
+	"pcpe": "cpe:/a:xnat:xnat"
 }

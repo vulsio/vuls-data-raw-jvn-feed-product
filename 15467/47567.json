@@ -1,8 +1,8 @@
 {
-  "vid": "15467",
-  "vname": "Zephyr Project",
-  "vcpe": "cpe:/:zephyrproject",
-  "pid": "47567",
-  "pname": "RTOS",
-  "pcpe": "cpe:/o:zephyrproject:zephyr_rtos"
+	"vid": "15467",
+	"vname": "Zephyr Project",
+	"vcpe": "cpe:/:zephyrproject",
+	"pid": "47567",
+	"pname": "RTOS",
+	"pcpe": "cpe:/o:zephyrproject:zephyr_rtos"
 }

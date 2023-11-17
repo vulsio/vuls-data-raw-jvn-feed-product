@@ -1,8 +1,8 @@
 {
-  "vid": "10927",
-  "vname": "zipcar",
-  "vcpe": "cpe:/:zipcar",
-  "pid": "22493",
-  "pname": "zipcar",
-  "pcpe": "cpe:/a:zipcar:zipcar"
+	"vid": "10927",
+	"vname": "zipcar",
+	"vcpe": "cpe:/:zipcar",
+	"pid": "22493",
+	"pname": "zipcar",
+	"pcpe": "cpe:/a:zipcar:zipcar"
 }

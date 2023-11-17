@@ -1,8 +1,8 @@
 {
-  "vid": "24767",
-  "vname": "java-xmlbuilder project",
-  "vcpe": "cpe:/:java-xmlbuilder_project",
-  "pid": "64197",
-  "pname": "java-xmlbuilder",
-  "pcpe": "cpe:/a:java-xmlbuilder_project:java-xmlbuilder"
+	"vid": "24767",
+	"vname": "java-xmlbuilder project",
+	"vcpe": "cpe:/:java-xmlbuilder_project",
+	"pid": "64197",
+	"pname": "java-xmlbuilder",
+	"pcpe": "cpe:/a:java-xmlbuilder_project:java-xmlbuilder"
 }

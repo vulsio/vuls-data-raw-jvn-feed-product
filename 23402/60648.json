@@ -1,8 +1,8 @@
 {
-  "vid": "23402",
-  "vname": "One Click Plugin Updater project",
-  "vcpe": "cpe:/:one_click_plugin_updater_project",
-  "pid": "60648",
-  "pname": "One Click Plugin Updater",
-  "pcpe": "cpe:/a:one_click_plugin_updater_project:one_click_plugin_updater"
+	"vid": "23402",
+	"vname": "One Click Plugin Updater project",
+	"vcpe": "cpe:/:one_click_plugin_updater_project",
+	"pid": "60648",
+	"pname": "One Click Plugin Updater",
+	"pcpe": "cpe:/a:one_click_plugin_updater_project:one_click_plugin_updater"
 }

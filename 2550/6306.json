@@ -1,8 +1,8 @@
 {
-  "vid": "2550",
-  "vname": "black ice",
-  "vcpe": "cpe:/:black_ice",
-  "pid": "6306",
-  "pname": "barcode sdk",
-  "pcpe": "cpe:/a:black_ice:barcode_sdk"
+	"vid": "2550",
+	"vname": "black ice",
+	"vcpe": "cpe:/:black_ice",
+	"pid": "6306",
+	"pname": "barcode sdk",
+	"pcpe": "cpe:/a:black_ice:barcode_sdk"
 }

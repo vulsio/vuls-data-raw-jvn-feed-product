@@ -1,8 +1,8 @@
 {
-  "vid": "15553",
-  "vname": "MRCMS project",
-  "vcpe": "cpe:/:mushroom_content_management_system_project",
-  "pid": "36164",
-  "pname": "MRCMS",
-  "pcpe": "cpe:/a:mushroom_content_management_system_project:mushroom_content_management_system"
+	"vid": "15553",
+	"vname": "MRCMS project",
+	"vcpe": "cpe:/:mushroom_content_management_system_project",
+	"pid": "36164",
+	"pname": "MRCMS",
+	"pcpe": "cpe:/a:mushroom_content_management_system_project:mushroom_content_management_system"
 }

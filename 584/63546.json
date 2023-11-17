@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63546",
-  "pname": "simatic hmi comfort panels ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_hmi_comfort_panels_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63546",
+	"pname": "simatic hmi comfort panels ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_hmi_comfort_panels_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "45578",
-  "pname": "Opcenter Execution Discrete",
-  "pcpe": "cpe:/a:siemens:opcenter_execution_discrete"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "45578",
+	"pname": "Opcenter Execution Discrete",
+	"pcpe": "cpe:/a:siemens:opcenter_execution_discrete"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24462",
-  "vname": "nuprocess project",
-  "vcpe": "cpe:/:nuprocess_project",
-  "pid": "63190",
-  "pname": "nuprocess",
-  "pcpe": "cpe:/a:nuprocess_project:nuprocess"
+	"vid": "24462",
+	"vname": "nuprocess project",
+	"vcpe": "cpe:/:nuprocess_project",
+	"pid": "63190",
+	"pname": "nuprocess",
+	"pcpe": "cpe:/a:nuprocess_project:nuprocess"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "34791",
-  "pname": "OpenStack Cloud",
-  "pcpe": "cpe:/a:jenkins:openstack_cloud"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "34791",
+	"pname": "OpenStack Cloud",
+	"pcpe": "cpe:/a:jenkins:openstack_cloud"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "16238",
-  "pname": "wp forum",
-  "pcpe": "cpe:/a:wordpress:wp_forum"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "16238",
+	"pname": "wp forum",
+	"pcpe": "cpe:/a:wordpress:wp_forum"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11662",
-  "vname": "Node Access Product project",
-  "vcpe": "cpe:/:node_access_product_project",
-  "pid": "23943",
-  "pname": "Node Access Product",
-  "pcpe": "cpe:/a:node_access_product_project:node_access_product"
+	"vid": "11662",
+	"vname": "Node Access Product project",
+	"vcpe": "cpe:/:node_access_product_project",
+	"pid": "23943",
+	"pname": "Node Access Product",
+	"pcpe": "cpe:/a:node_access_product_project:node_access_product"
 }

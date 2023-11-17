@@ -1,8 +1,8 @@
 {
-  "vid": "17922",
-  "vname": "Isomorphic Software",
-  "vcpe": "cpe:/:smartclient",
-  "pid": "43335",
-  "pname": "SmartClient",
-  "pcpe": "cpe:/a:smartclient:smartclient"
+	"vid": "17922",
+	"vname": "Isomorphic Software",
+	"vcpe": "cpe:/:smartclient",
+	"pid": "43335",
+	"pname": "SmartClient",
+	"pcpe": "cpe:/a:smartclient:smartclient"
 }

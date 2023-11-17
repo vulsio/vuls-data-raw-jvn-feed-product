@@ -1,8 +1,8 @@
 {
-  "vid": "14781",
-  "vname": "WebToffee",
-  "vcpe": "cpe:/:webtoffee",
-  "pid": "40195",
-  "pname": "Import Export WordPress Users",
-  "pcpe": "cpe:/a:webtoffee:import_export_wordpress_users"
+	"vid": "14781",
+	"vname": "WebToffee",
+	"vcpe": "cpe:/:webtoffee",
+	"pid": "40195",
+	"pname": "Import Export WordPress Users",
+	"pcpe": "cpe:/a:webtoffee:import_export_wordpress_users"
 }

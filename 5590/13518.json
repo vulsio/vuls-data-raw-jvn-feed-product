@@ -1,8 +1,8 @@
 {
-  "vid": "5590",
-  "vname": "merak",
-  "vcpe": "cpe:/:merak",
-  "pid": "13518",
-  "pname": "mail server",
-  "pcpe": "cpe:/a:merak:mail_server"
+	"vid": "5590",
+	"vname": "merak",
+	"vcpe": "cpe:/:merak",
+	"pid": "13518",
+	"pname": "mail server",
+	"pcpe": "cpe:/a:merak:mail_server"
 }

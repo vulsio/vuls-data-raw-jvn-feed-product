@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17158",
-  "pname": "Cisco TelePresence Server ソフトウェア",
-  "pcpe": "cpe:/a:cisco:telepresence_server_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17158",
+	"pname": "Cisco TelePresence Server ソフトウェア",
+	"pcpe": "cpe:/a:cisco:telepresence_server_software"
 }

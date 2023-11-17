@@ -1,8 +1,8 @@
 {
-  "vid": "7825",
-  "vname": "storefront for gallery",
-  "vcpe": "cpe:/:storefront_for_gallery",
-  "pid": "15093",
-  "pname": "storefront gallery",
-  "pcpe": "cpe:/a:storefront_for_gallery:storefront_gallery"
+	"vid": "7825",
+	"vname": "storefront for gallery",
+	"vcpe": "cpe:/:storefront_for_gallery",
+	"pid": "15093",
+	"pname": "storefront gallery",
+	"pcpe": "cpe:/a:storefront_for_gallery:storefront_gallery"
 }

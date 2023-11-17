@@ -1,8 +1,8 @@
 {
-  "vid": "12312",
-  "vname": "Barco",
-  "vcpe": "cpe:/:barco",
-  "pid": "49142",
-  "pname": "TransForm N",
-  "pcpe": "cpe:/o:barco:transform_n"
+	"vid": "12312",
+	"vname": "Barco",
+	"vcpe": "cpe:/:barco",
+	"pid": "49142",
+	"pname": "TransForm N",
+	"pcpe": "cpe:/o:barco:transform_n"
 }

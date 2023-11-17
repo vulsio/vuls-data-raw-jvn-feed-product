@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "52336",
-  "pname": "QNX OS for Medical",
-  "pcpe": "cpe:/o:blackberry:qnx_os_for_medical"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "52336",
+	"pname": "QNX OS for Medical",
+	"pcpe": "cpe:/o:blackberry:qnx_os_for_medical"
 }

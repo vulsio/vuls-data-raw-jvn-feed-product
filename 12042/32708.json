@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "32708",
-  "pname": "HPE OfficeConnect 1820 48G PoE+ (370Ｗ)スイッチJ9984A ファームウェア",
-  "pcpe": "cpe:/o:hp:officeconnect_1820_48g_poe%2b_%28370w%29_switch_j9984a_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "32708",
+	"pname": "HPE OfficeConnect 1820 48G PoE+ (370Ｗ)スイッチJ9984A ファームウェア",
+	"pcpe": "cpe:/o:hp:officeconnect_1820_48g_poe%2b_%28370w%29_switch_j9984a_firmware"
 }

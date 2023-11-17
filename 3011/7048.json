@@ -1,8 +1,8 @@
 {
-  "vid": "3011",
-  "vname": "cruxsoftware",
-  "vcpe": "cpe:/:cruxsoftware",
-  "pid": "7048",
-  "pname": "cruxcms",
-  "pcpe": "cpe:/a:cruxsoftware:cruxcms"
+	"vid": "3011",
+	"vname": "cruxsoftware",
+	"vcpe": "cpe:/:cruxsoftware",
+	"pid": "7048",
+	"pname": "cruxcms",
+	"pcpe": "cpe:/a:cruxsoftware:cruxcms"
 }

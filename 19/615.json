@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "615",
-  "pname": "Cisco Conference Connection (CCC)",
-  "pcpe": "cpe:/h:cisco:conference_connection"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "615",
+	"pname": "Cisco Conference Connection (CCC)",
+	"pcpe": "cpe:/h:cisco:conference_connection"
 }

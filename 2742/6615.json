@@ -1,8 +1,8 @@
 {
-  "vid": "2742",
-  "vname": "cce-interact",
-  "vcpe": "cpe:/:cce-interact",
-  "pid": "6615",
-  "pname": "interact",
-  "pcpe": "cpe:/a:cce-interact:interact"
+	"vid": "2742",
+	"vname": "cce-interact",
+	"vcpe": "cpe:/:cce-interact",
+	"pid": "6615",
+	"pname": "interact",
+	"pcpe": "cpe:/a:cce-interact:interact"
 }

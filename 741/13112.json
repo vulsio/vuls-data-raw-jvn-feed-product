@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "13112",
-  "pname": "DCS-5300",
-  "pcpe": "cpe:/h:dlink:dcs-5300"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "13112",
+	"pname": "DCS-5300",
+	"pcpe": "cpe:/h:dlink:dcs-5300"
 }

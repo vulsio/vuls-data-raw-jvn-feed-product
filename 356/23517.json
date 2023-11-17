@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "23517",
-  "pname": "Google Email",
-  "pcpe": "cpe:/a:google:email"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "23517",
+	"pname": "Google Email",
+	"pcpe": "cpe:/a:google:email"
 }

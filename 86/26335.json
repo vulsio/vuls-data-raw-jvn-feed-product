@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "26335",
-  "pname": "WXR-1750DHP",
-  "pcpe": "cpe:/h:buffalo_inc:wxr-1750dhp"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "26335",
+	"pname": "WXR-1750DHP",
+	"pcpe": "cpe:/h:buffalo_inc:wxr-1750dhp"
 }

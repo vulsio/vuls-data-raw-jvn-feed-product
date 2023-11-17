@@ -1,8 +1,8 @@
 {
-  "vid": "9090",
-  "vname": "Login Security",
-  "vcpe": "cpe:/:login_security_project",
-  "pid": "18140",
-  "pname": "login_security",
-  "pcpe": "cpe:/a:login_security_project:login_security"
+	"vid": "9090",
+	"vname": "Login Security",
+	"vcpe": "cpe:/:login_security_project",
+	"pid": "18140",
+	"pname": "login_security",
+	"pcpe": "cpe:/a:login_security_project:login_security"
 }

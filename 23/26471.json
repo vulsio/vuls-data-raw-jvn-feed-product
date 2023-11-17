@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "26471",
-  "pname": "Norton Power Eraser",
-  "pcpe": "cpe:/a:symantec:norton_power_eraser"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "26471",
+	"pname": "Norton Power Eraser",
+	"pcpe": "cpe:/a:symantec:norton_power_eraser"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "28906",
-  "pname": "DAP-1353 H/W vers. B1 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dap-1353_h%2Fw_b1_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "28906",
+	"pname": "DAP-1353 H/W vers. B1 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dap-1353_h%2Fw_b1_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10143",
-  "vname": "MobilityWare",
-  "vcpe": "cpe:/:mobilityware",
-  "pid": "21260",
-  "pname": "Spider Solitaire",
-  "pcpe": "cpe:/a:mobilityware:spider_solitaire"
+	"vid": "10143",
+	"vname": "MobilityWare",
+	"vcpe": "cpe:/:mobilityware",
+	"pid": "21260",
+	"pname": "Spider Solitaire",
+	"pcpe": "cpe:/a:mobilityware:spider_solitaire"
 }

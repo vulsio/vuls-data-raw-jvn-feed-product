@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "53836",
-  "pname": "WEM-1266 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wem-1266_firmwpware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "53836",
+	"pname": "WEM-1266 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wem-1266_firmwpware"
 }

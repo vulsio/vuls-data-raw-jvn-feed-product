@@ -1,8 +1,8 @@
 {
-  "vid": "4456",
-  "vname": "WAGO",
-  "vcpe": "cpe:/:wago",
-  "pid": "48878",
-  "pname": "Touch Panel 600 Marine ファームウェア",
-  "pcpe": "cpe:/o:wago:touch_panel_600_marine_firmware"
+	"vid": "4456",
+	"vname": "WAGO",
+	"vcpe": "cpe:/:wago",
+	"pid": "48878",
+	"pname": "Touch Panel 600 Marine ファームウェア",
+	"pcpe": "cpe:/o:wago:touch_panel_600_marine_firmware"
 }

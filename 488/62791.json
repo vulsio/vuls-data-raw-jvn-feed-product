@@ -1,8 +1,8 @@
 {
-  "vid": "488",
-  "vname": "openSUSE project",
-  "vcpe": "cpe:/:opensuse_project",
-  "pid": "62791",
-  "pname": "canna",
-  "pcpe": "cpe:/a:opensuse_project:canna"
+	"vid": "488",
+	"vname": "openSUSE project",
+	"vcpe": "cpe:/:opensuse_project",
+	"pid": "62791",
+	"pname": "canna",
+	"pcpe": "cpe:/a:opensuse_project:canna"
 }

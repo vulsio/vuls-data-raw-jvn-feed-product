@@ -1,8 +1,8 @@
 {
-  "vid": "980",
-  "vname": "Parallels",
-  "vcpe": "cpe:/:parallels",
-  "pid": "9674",
-  "pname": "Parallels H-Sphere",
-  "pcpe": "cpe:/a:parallels:h-sphere"
+	"vid": "980",
+	"vname": "Parallels",
+	"vcpe": "cpe:/:parallels",
+	"pid": "9674",
+	"pname": "Parallels H-Sphere",
+	"pcpe": "cpe:/a:parallels:h-sphere"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23426",
-  "vname": "99webtools",
-  "vcpe": "cpe:/:99webtools",
-  "pid": "60703",
-  "pname": "IMDB info box",
-  "pcpe": "cpe:/a:99webtools:imdb_info_box"
+	"vid": "23426",
+	"vname": "99webtools",
+	"vcpe": "cpe:/:99webtools",
+	"pid": "60703",
+	"pname": "IMDB info box",
+	"pcpe": "cpe:/a:99webtools:imdb_info_box"
 }

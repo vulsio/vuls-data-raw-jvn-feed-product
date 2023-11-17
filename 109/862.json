@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "862",
-  "pname": "Interstage Application Framework Suite",
-  "pcpe": "cpe:/a:fujitsu:interstage_application_framework_suite"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "862",
+	"pname": "Interstage Application Framework Suite",
+	"pcpe": "cpe:/a:fujitsu:interstage_application_framework_suite"
 }

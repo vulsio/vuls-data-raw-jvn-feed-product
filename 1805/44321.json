@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "44321",
-  "pname": "NC210ファームウェア",
-  "pcpe": "cpe:/o:tp-link:nc210_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "44321",
+	"pname": "NC210ファームウェア",
+	"pcpe": "cpe:/o:tp-link:nc210_firmware"
 }

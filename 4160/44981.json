@@ -1,8 +1,8 @@
 {
-  "vid": "4160",
-  "vname": "VIVOTEK Inc.",
-  "vcpe": "cpe:/:vivotek",
-  "pid": "44981",
-  "pname": "CC9381-HV ファームウェア",
-  "pcpe": "cpe:/o:vivotek:cc9381-hv_firmware"
+	"vid": "4160",
+	"vname": "VIVOTEK Inc.",
+	"vcpe": "cpe:/:vivotek",
+	"pid": "44981",
+	"pname": "CC9381-HV ファームウェア",
+	"pcpe": "cpe:/o:vivotek:cc9381-hv_firmware"
 }

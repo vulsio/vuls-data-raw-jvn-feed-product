@@ -1,8 +1,8 @@
 {
-  "vid": "1576",
-  "vname": "mark pilgrim",
-  "vcpe": "cpe:/:mark_pilgrim",
-  "pid": "4576",
-  "pname": "feedparser",
-  "pcpe": "cpe:/a:mark_pilgrim:feedparser"
+	"vid": "1576",
+	"vname": "mark pilgrim",
+	"vcpe": "cpe:/:mark_pilgrim",
+	"pid": "4576",
+	"pname": "feedparser",
+	"pcpe": "cpe:/a:mark_pilgrim:feedparser"
 }

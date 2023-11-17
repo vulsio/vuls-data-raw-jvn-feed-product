@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "57479",
-  "pname": "vasa provider",
-  "pcpe": "cpe:/a:dell:vasa_provider"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "57479",
+	"pname": "vasa provider",
+	"pcpe": "cpe:/a:dell:vasa_provider"
 }

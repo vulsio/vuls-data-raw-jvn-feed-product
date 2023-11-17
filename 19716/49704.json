@@ -1,8 +1,8 @@
 {
-  "vid": "19716",
-  "vname": "Square Box Systems",
-  "vcpe": "cpe:/:squarebox",
-  "pid": "49704",
-  "pname": "CatDV",
-  "pcpe": "cpe:/a:squarebox:catdv"
+	"vid": "19716",
+	"vname": "Square Box Systems",
+	"vcpe": "cpe:/:squarebox",
+	"pid": "49704",
+	"pname": "CatDV",
+	"pcpe": "cpe:/a:squarebox:catdv"
 }

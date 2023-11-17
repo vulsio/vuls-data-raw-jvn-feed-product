@@ -1,8 +1,8 @@
 {
-  "vid": "20380",
-  "vname": "IDrive Inc.",
-  "vcpe": "cpe:/:idrive",
-  "pid": "51956",
-  "pname": "RemotePC",
-  "pcpe": "cpe:/a:idrive:remotepc"
+	"vid": "20380",
+	"vname": "IDrive Inc.",
+	"vcpe": "cpe:/:idrive",
+	"pid": "51956",
+	"pname": "RemotePC",
+	"pcpe": "cpe:/a:idrive:remotepc"
 }

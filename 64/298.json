@@ -1,8 +1,8 @@
 {
-  "vid": "64",
-  "vname": "ソースネクスト",
-  "vcpe": "cpe:/:sourcenext",
-  "pid": "298",
-  "pname": "ウイルスセキュリティ",
-  "pcpe": "cpe:/a:sourcenext:virus_security"
+	"vid": "64",
+	"vname": "ソースネクスト",
+	"vcpe": "cpe:/:sourcenext",
+	"pid": "298",
+	"pname": "ウイルスセキュリティ",
+	"pcpe": "cpe:/a:sourcenext:virus_security"
 }

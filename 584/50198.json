@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "50198",
-  "pname": "Siveillance Video Open Network Bridge",
-  "pcpe": "cpe:/a:siemens:siveillance_video_open_network_bridge"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "50198",
+	"pname": "Siveillance Video Open Network Bridge",
+	"pcpe": "cpe:/a:siemens:siveillance_video_open_network_bridge"
 }

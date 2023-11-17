@@ -1,8 +1,8 @@
 {
-  "vid": "21600",
-  "vname": "p4 project",
-  "vcpe": "cpe:/:p4_project",
-  "pid": "55473",
-  "pname": "p4",
-  "pcpe": "cpe:/a:p4_project:p4"
+	"vid": "21600",
+	"vname": "p4 project",
+	"vcpe": "cpe:/:p4_project",
+	"pid": "55473",
+	"pname": "p4",
+	"pcpe": "cpe:/a:p4_project:p4"
 }

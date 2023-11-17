@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "45497",
-  "pname": "EMC PowerStore 9000 ファームウェア",
-  "pcpe": "cpe:/o:dell:emc_powerstore_9000_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "45497",
+	"pname": "EMC PowerStore 9000 ファームウェア",
+	"pcpe": "cpe:/o:dell:emc_powerstore_9000_firmware"
 }

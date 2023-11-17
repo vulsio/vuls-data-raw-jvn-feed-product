@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "19912",
-  "pname": "libpam-modules",
-  "pcpe": "cpe:/a:canonical:libpam-modules"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "19912",
+	"pname": "libpam-modules",
+	"pcpe": "cpe:/a:canonical:libpam-modules"
 }

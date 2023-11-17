@@ -1,8 +1,8 @@
 {
-  "vid": "10205",
-  "vname": "GoPro, Inc.",
-  "vcpe": "cpe:/:gopro",
-  "pid": "21365",
-  "pname": "GoPro HERO ファームウェア",
-  "pcpe": "cpe:/o:gopro:gopro_hero_firmware"
+	"vid": "10205",
+	"vname": "GoPro, Inc.",
+	"vcpe": "cpe:/:gopro",
+	"pid": "21365",
+	"pname": "GoPro HERO ファームウェア",
+	"pcpe": "cpe:/o:gopro:gopro_hero_firmware"
 }

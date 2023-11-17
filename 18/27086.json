@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27086",
-  "pname": "IBM Security Guardium Database Activity Monitor",
-  "pcpe": "cpe:/a:ibm:security_guardium_database_activity_monitor"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27086",
+	"pname": "IBM Security Guardium Database Activity Monitor",
+	"pcpe": "cpe:/a:ibm:security_guardium_database_activity_monitor"
 }

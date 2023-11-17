@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "53315",
-  "pname": "AMD PSP driver",
-  "pcpe": "cpe:/a:amd:psp_driver"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "53315",
+	"pname": "AMD PSP driver",
+	"pcpe": "cpe:/a:amd:psp_driver"
 }

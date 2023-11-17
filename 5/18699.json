@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "18699",
-  "pname": "QuIC Mobile Station Modem",
-  "pcpe": "cpe:/o:qualcomm:quic_mobile_station_modem_kernel"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "18699",
+	"pname": "QuIC Mobile Station Modem",
+	"pcpe": "cpe:/o:qualcomm:quic_mobile_station_modem_kernel"
 }

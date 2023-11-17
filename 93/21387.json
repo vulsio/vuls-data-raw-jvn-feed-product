@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "21387",
-  "pname": "NewsFlash",
-  "pcpe": "cpe:/a:drupal:newsflash"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "21387",
+	"pname": "NewsFlash",
+	"pcpe": "cpe:/a:drupal:newsflash"
 }

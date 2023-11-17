@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5263",
-  "pname": "Cisco SPA3102 Voice Gateway with Router ファームウェア",
-  "pcpe": "cpe:/o:cisco:spa3102_voice_gateway_with_router_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5263",
+	"pname": "Cisco SPA3102 Voice Gateway with Router ファームウェア",
+	"pcpe": "cpe:/o:cisco:spa3102_voice_gateway_with_router_firmware"
 }

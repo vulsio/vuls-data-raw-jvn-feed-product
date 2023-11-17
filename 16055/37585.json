@@ -1,8 +1,8 @@
 {
-  "vid": "16055",
-  "vname": "pizzashack",
-  "vcpe": "cpe:/:pizzashack",
-  "pid": "37585",
-  "pname": "rssh",
-  "pcpe": "cpe:/a:pizzashack:rssh"
+	"vid": "16055",
+	"vname": "pizzashack",
+	"vcpe": "cpe:/:pizzashack",
+	"pid": "37585",
+	"pname": "rssh",
+	"pcpe": "cpe:/a:pizzashack:rssh"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8049",
-  "vname": "TITAN",
-  "vcpe": "cpe:/:titan",
-  "pid": "44705",
-  "pname": "SF Rush Smart ファームウェア",
-  "pcpe": "cpe:/o:titan:sf_rush_smart_band_firmware"
+	"vid": "8049",
+	"vname": "TITAN",
+	"vcpe": "cpe:/:titan",
+	"pid": "44705",
+	"pname": "SF Rush Smart ファームウェア",
+	"pcpe": "cpe:/o:titan:sf_rush_smart_band_firmware"
 }

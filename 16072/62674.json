@@ -1,8 +1,8 @@
 {
-  "vid": "16072",
-  "vname": "Rubicon Communications, LLC (Netgate).",
-  "vcpe": "cpe:/:netgate",
-  "pid": "62674",
-  "pname": "pfblockerng",
-  "pcpe": "cpe:/a:netgate:pfblockerng"
+	"vid": "16072",
+	"vname": "Rubicon Communications, LLC (Netgate).",
+	"vcpe": "cpe:/:netgate",
+	"pid": "62674",
+	"pname": "pfblockerng",
+	"pcpe": "cpe:/a:netgate:pfblockerng"
 }

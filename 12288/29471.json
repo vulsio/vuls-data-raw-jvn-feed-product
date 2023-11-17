@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "29471",
-  "pname": "Staticfile buildpack",
-  "pcpe": "cpe:/a:cloud_foundry:staticfile_buildpack"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "29471",
+	"pname": "Staticfile buildpack",
+	"pcpe": "cpe:/a:cloud_foundry:staticfile_buildpack"
 }

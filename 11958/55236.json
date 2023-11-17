@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "55236",
-  "pname": "CX-Motion Pro",
-  "pcpe": "cpe:/o:omron:cx-motion_pro"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "55236",
+	"pname": "CX-Motion Pro",
+	"pcpe": "cpe:/o:omron:cx-motion_pro"
 }

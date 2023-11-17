@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "30457",
-  "pname": "D-Link DNS-320L ファームウェア",
-  "pcpe": "cpe:/o:dlink:dns-320l_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "30457",
+	"pname": "D-Link DNS-320L ファームウェア",
+	"pcpe": "cpe:/o:dlink:dns-320l_firmware"
 }

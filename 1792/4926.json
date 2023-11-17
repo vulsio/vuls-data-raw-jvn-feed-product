@@ -1,8 +1,8 @@
 {
-  "vid": "1792",
-  "vname": "Zend Technologies Ltd.",
-  "vcpe": "cpe:/:zend",
-  "pid": "4926",
-  "pname": "Zend Server",
-  "pcpe": "cpe:/a:zend:zend_server"
+	"vid": "1792",
+	"vname": "Zend Technologies Ltd.",
+	"vcpe": "cpe:/:zend",
+	"pid": "4926",
+	"pname": "Zend Server",
+	"pcpe": "cpe:/a:zend:zend_server"
 }

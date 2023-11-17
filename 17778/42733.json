@@ -1,8 +1,8 @@
 {
-  "vid": "17778",
-  "vname": "Video Downloader project",
-  "vcpe": "cpe:/:video_downloader_project",
-  "pid": "42733",
-  "pname": "Video Downloader",
-  "pcpe": "cpe:/a:video_downloader_project:video_downloader"
+	"vid": "17778",
+	"vname": "Video Downloader project",
+	"vcpe": "cpe:/:video_downloader_project",
+	"pid": "42733",
+	"pname": "Video Downloader",
+	"pcpe": "cpe:/a:video_downloader_project:video_downloader"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "36998",
-  "pname": "EX2100e ファームウェア",
-  "pcpe": "cpe:/o:ge:ex2100e_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "36998",
+	"pname": "EX2100e ファームウェア",
+	"pcpe": "cpe:/o:ge:ex2100e_firmware"
 }

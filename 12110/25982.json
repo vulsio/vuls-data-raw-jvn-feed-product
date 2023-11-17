@@ -1,8 +1,8 @@
 {
-  "vid": "12110",
-  "vname": "Kamailio",
-  "vcpe": "cpe:/:kamailio",
-  "pid": "25982",
-  "pname": "Kamailio",
-  "pcpe": "cpe:/a:kamailio:kamailio"
+	"vid": "12110",
+	"vname": "Kamailio",
+	"vcpe": "cpe:/:kamailio",
+	"pid": "25982",
+	"pname": "Kamailio",
+	"pcpe": "cpe:/a:kamailio:kamailio"
 }

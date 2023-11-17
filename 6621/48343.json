@@ -1,8 +1,8 @@
 {
-  "vid": "6621",
-  "vname": "ソフトバンク株式会社",
-  "vcpe": "cpe:/:softbank",
-  "pid": "48343",
-  "pname": "光BBユニット E-WMTA2.3",
-  "pcpe": "cpe:/h:softbank:e-wmta2.3"
+	"vid": "6621",
+	"vname": "ソフトバンク株式会社",
+	"vcpe": "cpe:/:softbank",
+	"pid": "48343",
+	"pname": "光BBユニット E-WMTA2.3",
+	"pcpe": "cpe:/h:softbank:e-wmta2.3"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8725",
-  "vname": "Zenoss, Inc.",
-  "vcpe": "cpe:/:zenoss",
-  "pid": "55952",
-  "pname": "Dashboard",
-  "pcpe": "cpe:/a:zenoss:dashboard"
+	"vid": "8725",
+	"vname": "Zenoss, Inc.",
+	"vcpe": "cpe:/:zenoss",
+	"pid": "55952",
+	"pname": "Dashboard",
+	"pcpe": "cpe:/a:zenoss:dashboard"
 }

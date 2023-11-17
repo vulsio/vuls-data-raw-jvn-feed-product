@@ -1,8 +1,8 @@
 {
-  "vid": "17336",
-  "vname": "syndication links project",
-  "vcpe": "cpe:/:syndication_links_project",
-  "pid": "41239",
-  "pname": "Syndication Links",
-  "pcpe": "cpe:/a:syndication_links_project:syndication_links"
+	"vid": "17336",
+	"vname": "syndication links project",
+	"vcpe": "cpe:/:syndication_links_project",
+	"pid": "41239",
+	"pname": "Syndication Links",
+	"pcpe": "cpe:/a:syndication_links_project:syndication_links"
 }

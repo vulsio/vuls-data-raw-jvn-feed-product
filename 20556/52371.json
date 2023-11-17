@@ -1,8 +1,8 @@
 {
-  "vid": "20556",
-  "vname": "MooTools project",
-  "vcpe": "cpe:/:mootools_project",
-  "pid": "52371",
-  "pname": "MooTools",
-  "pcpe": "cpe:/a:mootools_project:mootools"
+	"vid": "20556",
+	"vname": "MooTools project",
+	"vcpe": "cpe:/:mootools_project",
+	"pid": "52371",
+	"pname": "MooTools",
+	"pcpe": "cpe:/a:mootools_project:mootools"
 }

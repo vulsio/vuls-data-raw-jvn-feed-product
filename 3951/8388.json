@@ -1,8 +1,8 @@
 {
-  "vid": "3951",
-  "vname": "geoserver",
-  "vcpe": "cpe:/:geoserver",
-  "pid": "8388",
-  "pname": "geoserver",
-  "pcpe": "cpe:/a:geoserver:geoserver"
+	"vid": "3951",
+	"vname": "geoserver",
+	"vcpe": "cpe:/:geoserver",
+	"pid": "8388",
+	"pname": "geoserver",
+	"pcpe": "cpe:/a:geoserver:geoserver"
 }

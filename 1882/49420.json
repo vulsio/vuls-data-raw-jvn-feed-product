@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "49420",
-  "pname": "ZXR10 9908-S ファームウェア",
-  "pcpe": "cpe:/o:zte:zxr10_9908-s_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "49420",
+	"pname": "ZXR10 9908-S ファームウェア",
+	"pcpe": "cpe:/o:zte:zxr10_9908-s_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18796",
-  "vname": "simpl-schema project",
-  "vcpe": "cpe:/:simpl-schema_project",
-  "pid": "46748",
-  "pname": "simpl-schema",
-  "pcpe": "cpe:/a:simpl-schema_project:simpl-schema"
+	"vid": "18796",
+	"vname": "simpl-schema project",
+	"vcpe": "cpe:/:simpl-schema_project",
+	"pid": "46748",
+	"pname": "simpl-schema",
+	"pcpe": "cpe:/a:simpl-schema_project:simpl-schema"
 }

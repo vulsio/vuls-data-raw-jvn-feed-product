@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "25158",
-  "pname": "UPS管理ソフトウエア",
-  "pcpe": "cpe:/a:hitachi:ups_management_software"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "25158",
+	"pname": "UPS管理ソフトウエア",
+	"pcpe": "cpe:/a:hitachi:ups_management_software"
 }

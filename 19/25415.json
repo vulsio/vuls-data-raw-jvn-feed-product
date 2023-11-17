@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "25415",
-  "pname": "Cisco Application Policy Infrastructure Controller エンタープライズ モジュール",
-  "pcpe": "cpe:/a:cisco:application_policy_infrastructure_controller_enterprise_module"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "25415",
+	"pname": "Cisco Application Policy Infrastructure Controller エンタープライズ モジュール",
+	"pcpe": "cpe:/a:cisco:application_policy_infrastructure_controller_enterprise_module"
 }

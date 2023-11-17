@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "27114",
-  "pname": "JP1/NETM/DM/W",
-  "pcpe": "cpe:/a:hitachi:jp1%2Fnetm%2Fdm%2Fw"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "27114",
+	"pname": "JP1/NETM/DM/W",
+	"pcpe": "cpe:/a:hitachi:jp1%2Fnetm%2Fdm%2Fw"
 }

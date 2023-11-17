@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33221",
-  "pname": "MSM8939 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:msm8939_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33221",
+	"pname": "MSM8939 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:msm8939_firmware"
 }

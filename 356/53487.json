@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "53487",
-  "pname": "SLO Generator",
-  "pcpe": "cpe:/a:google:slo_generator"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "53487",
+	"pname": "SLO Generator",
+	"pcpe": "cpe:/a:google:slo_generator"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13383",
-  "vname": "Vercel, Inc. (旧 Zeit, Inc.)",
-  "vcpe": "cpe:/:vercel",
-  "pid": "31277",
-  "pname": "Next.js",
-  "pcpe": "cpe:/a:vercel:next.js"
+	"vid": "13383",
+	"vname": "Vercel, Inc. (旧 Zeit, Inc.)",
+	"vcpe": "cpe:/:vercel",
+	"pid": "31277",
+	"pname": "Next.js",
+	"pcpe": "cpe:/a:vercel:next.js"
 }

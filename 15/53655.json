@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53655",
-  "pname": "Oracle Airlines Data Model",
-  "pcpe": "cpe:/a:oracle:airlines_data_model"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53655",
+	"pname": "Oracle Airlines Data Model",
+	"pcpe": "cpe:/a:oracle:airlines_data_model"
 }

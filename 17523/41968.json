@@ -1,8 +1,8 @@
 {
-  "vid": "17523",
-  "vname": "Hisense",
-  "vcpe": "cpe:/:hisense",
-  "pid": "41968",
-  "pname": "INFINITY F17 ファームウェア",
-  "pcpe": "cpe:/o:hisense:infinity_f17_firmware"
+	"vid": "17523",
+	"vname": "Hisense",
+	"vcpe": "cpe:/:hisense",
+	"pid": "41968",
+	"pname": "INFINITY F17 ファームウェア",
+	"pcpe": "cpe:/o:hisense:infinity_f17_firmware"
 }

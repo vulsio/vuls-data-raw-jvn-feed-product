@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "23956",
-  "pname": "TL-WR741ND",
-  "pcpe": "cpe:/h:tp-link:tl-wrd741nd"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "23956",
+	"pname": "TL-WR741ND",
+	"pcpe": "cpe:/h:tp-link:tl-wrd741nd"
 }

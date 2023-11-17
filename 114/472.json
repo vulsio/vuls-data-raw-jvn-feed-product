@@ -1,8 +1,8 @@
 {
-  "vid": "114",
-  "vname": "eyeOS Project",
-  "vcpe": "cpe:/:eyeos",
-  "pid": "472",
-  "pname": "eyeOS",
-  "pcpe": "cpe:/o:eyeos:eyeos"
+	"vid": "114",
+	"vname": "eyeOS Project",
+	"vcpe": "cpe:/:eyeos",
+	"pid": "472",
+	"pname": "eyeOS",
+	"pcpe": "cpe:/o:eyeos:eyeos"
 }

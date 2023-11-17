@@ -1,8 +1,8 @@
 {
-  "vid": "17184",
-  "vname": "libgcrypt20 project",
-  "vcpe": "cpe:/:libgcrypt20_project",
-  "pid": "40819",
-  "pname": "libgcrypt20",
-  "pcpe": "cpe:/a:libgcrypt20_project:libgcrypt20"
+	"vid": "17184",
+	"vname": "libgcrypt20 project",
+	"vcpe": "cpe:/:libgcrypt20_project",
+	"pid": "40819",
+	"pname": "libgcrypt20",
+	"pcpe": "cpe:/a:libgcrypt20_project:libgcrypt20"
 }

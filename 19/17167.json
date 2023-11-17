@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17167",
-  "pname": "Cisco TelePresence MCU MSE 8510",
-  "pcpe": "cpe:/h:cisco:telepresence_mcu_mse_8510"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17167",
+	"pname": "Cisco TelePresence MCU MSE 8510",
+	"pcpe": "cpe:/h:cisco:telepresence_mcu_mse_8510"
 }

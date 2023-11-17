@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "47768",
-  "pname": "libapreq2",
-  "pcpe": "cpe:/a:apache:libapreq2"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "47768",
+	"pname": "libapreq2",
+	"pcpe": "cpe:/a:apache:libapreq2"
 }

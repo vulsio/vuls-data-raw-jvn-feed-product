@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "43672",
-  "pname": "Subversion Release Manager",
-  "pcpe": "cpe:/a:jenkins:subversion_release_manager"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "43672",
+	"pname": "Subversion Release Manager",
+	"pcpe": "cpe:/a:jenkins:subversion_release_manager"
 }

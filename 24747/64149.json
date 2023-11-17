@@ -1,8 +1,8 @@
 {
-  "vid": "24747",
-  "vname": "facetwp",
-  "vcpe": "cpe:/:facetwp",
-  "pid": "64149",
-  "pname": "log http requests",
-  "pcpe": "cpe:/a:facetwp:log_http_requests"
+	"vid": "24747",
+	"vname": "facetwp",
+	"vcpe": "cpe:/:facetwp",
+	"pid": "64149",
+	"pname": "log http requests",
+	"pcpe": "cpe:/a:facetwp:log_http_requests"
 }

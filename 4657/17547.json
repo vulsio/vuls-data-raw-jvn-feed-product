@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "17547",
-  "pname": "E200E/USG5100",
-  "pcpe": "cpe:/h:huawei:e200_usg5100"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "17547",
+	"pname": "E200E/USG5100",
+	"pcpe": "cpe:/h:huawei:e200_usg5100"
 }

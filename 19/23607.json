@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23607",
-  "pname": "Cisco C200-M1",
-  "pcpe": "cpe:/h:cisco:c200_m1"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23607",
+	"pname": "Cisco C200-M1",
+	"pcpe": "cpe:/h:cisco:c200_m1"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11726",
-  "vname": "Kankun",
-  "vcpe": "cpe:/:kankun",
-  "pid": "24214",
-  "pname": "Smart Socket",
-  "pcpe": "cpe:/h:kankun:smartsocket"
+	"vid": "11726",
+	"vname": "Kankun",
+	"vcpe": "cpe:/:kankun",
+	"pid": "24214",
+	"pname": "Smart Socket",
+	"pcpe": "cpe:/h:kankun:smartsocket"
 }

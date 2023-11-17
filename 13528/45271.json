@@ -1,8 +1,8 @@
 {
-  "vid": "13528",
-  "vname": "Open Microscopy Environment",
-  "vcpe": "cpe:/:openmicroscopy",
-  "pid": "45271",
-  "pname": "OMERO.web",
-  "pcpe": "cpe:/a:openmicroscopy:omero.web"
+	"vid": "13528",
+	"vname": "Open Microscopy Environment",
+	"vcpe": "cpe:/:openmicroscopy",
+	"pid": "45271",
+	"pname": "OMERO.web",
+	"pcpe": "cpe:/a:openmicroscopy:omero.web"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "495",
-  "vname": "Eyrie",
-  "vcpe": "cpe:/:eyrie",
-  "pid": "1942",
-  "pname": "pam-krb5",
-  "pcpe": "cpe:/a:eyrie:pam-krb5"
+	"vid": "495",
+	"vname": "Eyrie",
+	"vcpe": "cpe:/:eyrie",
+	"pid": "1942",
+	"pname": "pam-krb5",
+	"pcpe": "cpe:/a:eyrie:pam-krb5"
 }

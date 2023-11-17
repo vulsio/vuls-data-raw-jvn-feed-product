@@ -1,8 +1,8 @@
 {
-  "vid": "16773",
-  "vname": "REAL security d.o.o.",
-  "vcpe": "cpe:/:real-sec",
-  "pid": "39988",
-  "pname": "BC Vault firmware",
-  "pcpe": "cpe:/o:real-sec:bc_vault_firmware"
+	"vid": "16773",
+	"vname": "REAL security d.o.o.",
+	"vcpe": "cpe:/:real-sec",
+	"pid": "39988",
+	"pname": "BC Vault firmware",
+	"pcpe": "cpe:/o:real-sec:bc_vault_firmware"
 }

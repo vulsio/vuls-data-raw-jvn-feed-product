@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "6505",
-  "pname": "anti-spyware",
-  "pcpe": "cpe:/a:ca:anti-spyware"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "6505",
+	"pname": "anti-spyware",
+	"pcpe": "cpe:/a:ca:anti-spyware"
 }

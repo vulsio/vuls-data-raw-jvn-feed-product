@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "2747",
-  "pname": "Interstage Service Integrator",
-  "pcpe": "cpe:/a:fujitsu:interstage_service_integrator"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "2747",
+	"pname": "Interstage Service Integrator",
+	"pcpe": "cpe:/a:fujitsu:interstage_service_integrator"
 }

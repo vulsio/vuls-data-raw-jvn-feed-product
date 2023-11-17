@@ -1,8 +1,8 @@
 {
-  "vid": "9176",
-  "vname": "DrayTek Corporation",
-  "vcpe": "cpe:/:draytek",
-  "pid": "62444",
-  "pname": "vigor2962p ファームウェア",
-  "pcpe": "cpe:/o:draytek:vigor2962p_firmware"
+	"vid": "9176",
+	"vname": "DrayTek Corporation",
+	"vcpe": "cpe:/:draytek",
+	"pid": "62444",
+	"pname": "vigor2962p ファームウェア",
+	"pcpe": "cpe:/o:draytek:vigor2962p_firmware"
 }

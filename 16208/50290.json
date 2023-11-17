@@ -1,8 +1,8 @@
 {
-  "vid": "16208",
-  "vname": "Domoticz",
-  "vcpe": "cpe:/:domoticz",
-  "pid": "50290",
-  "pname": "MyDomoAtHome",
-  "pcpe": "cpe:/a:domoticz:mydomoathome"
+	"vid": "16208",
+	"vname": "Domoticz",
+	"vcpe": "cpe:/:domoticz",
+	"pid": "50290",
+	"pname": "MyDomoAtHome",
+	"pcpe": "cpe:/a:domoticz:mydomoathome"
 }

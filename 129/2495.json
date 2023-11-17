@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2495",
-  "pname": "JP1/Remote Control Set",
-  "pcpe": "cpe:/a:hitachi:jp1_remote_control_set"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2495",
+	"pname": "JP1/Remote Control Set",
+	"pcpe": "cpe:/a:hitachi:jp1_remote_control_set"
 }

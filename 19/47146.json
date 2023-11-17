@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "47146",
-  "pname": "FMC1000 K9 ファームウェア",
-  "pcpe": "cpe:/o:cisco:fmc1000-k9_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "47146",
+	"pname": "FMC1000 K9 ファームウェア",
+	"pcpe": "cpe:/o:cisco:fmc1000-k9_firmware"
 }

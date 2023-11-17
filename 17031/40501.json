@@ -1,8 +1,8 @@
 {
-  "vid": "17031",
-  "vname": "iF.SVNAdmin project",
-  "vcpe": "cpe:/:if.svnadmin_project",
-  "pid": "40501",
-  "pname": "iF.SVNAdmin",
-  "pcpe": "cpe:/a:if.svnadmin_project:if.svnadmin"
+	"vid": "17031",
+	"vname": "iF.SVNAdmin project",
+	"vcpe": "cpe:/:if.svnadmin_project",
+	"pid": "40501",
+	"pname": "iF.SVNAdmin",
+	"pcpe": "cpe:/a:if.svnadmin_project:if.svnadmin"
 }

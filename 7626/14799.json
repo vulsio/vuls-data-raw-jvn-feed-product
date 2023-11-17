@@ -1,8 +1,8 @@
 {
-  "vid": "7626",
-  "vname": "sirium",
-  "vcpe": "cpe:/:sirium",
-  "pid": "14799",
-  "pname": "am events module",
-  "pcpe": "cpe:/a:sirium:am_events_module"
+	"vid": "7626",
+	"vname": "sirium",
+	"vcpe": "cpe:/:sirium",
+	"pid": "14799",
+	"pname": "am events module",
+	"pcpe": "cpe:/a:sirium:am_events_module"
 }

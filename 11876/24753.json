@@ -1,8 +1,8 @@
 {
-  "vid": "11876",
-  "vname": "Fabien Menager",
-  "vcpe": "cpe:/:php_font_lib_project",
-  "pid": "24753",
-  "pname": "php-font-lib",
-  "pcpe": "cpe:/a:php_font_lib_project:php_font_lib"
+	"vid": "11876",
+	"vname": "Fabien Menager",
+	"vcpe": "cpe:/:php_font_lib_project",
+	"pid": "24753",
+	"pname": "php-font-lib",
+	"pcpe": "cpe:/a:php_font_lib_project:php_font_lib"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "7255",
-  "vname": "Realtek Semiconductor Corp",
-  "vcpe": "cpe:/:realtek",
-  "pid": "46836",
-  "pname": "RTL8881AN ファームウェア",
-  "pcpe": "cpe:/o:realtek:rtl8881an_firmware"
+	"vid": "7255",
+	"vname": "Realtek Semiconductor Corp",
+	"vcpe": "cpe:/:realtek",
+	"pid": "46836",
+	"pname": "RTL8881AN ファームウェア",
+	"pcpe": "cpe:/o:realtek:rtl8881an_firmware"
 }

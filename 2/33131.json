@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "33131",
-  "pname": "Microsoft System Center Endpoint Protection",
-  "pcpe": "cpe:/a:microsoft:system_center_endpoint_protection"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "33131",
+	"pname": "Microsoft System Center Endpoint Protection",
+	"pcpe": "cpe:/a:microsoft:system_center_endpoint_protection"
 }

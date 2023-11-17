@@ -1,8 +1,8 @@
 {
-  "vid": "16492",
-  "vname": "miniOrange",
-  "vcpe": "cpe:/:miniorange",
-  "pid": "62323",
-  "pname": "WordPress Security Firewall, Malware Scanner, Secure Login and Backup",
-  "pcpe": "cpe:/a:miniorange:wordpress_security"
+	"vid": "16492",
+	"vname": "miniOrange",
+	"vcpe": "cpe:/:miniorange",
+	"pid": "62323",
+	"pname": "WordPress Security Firewall, Malware Scanner, Secure Login and Backup",
+	"pcpe": "cpe:/a:miniorange:wordpress_security"
 }

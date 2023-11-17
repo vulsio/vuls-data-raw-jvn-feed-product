@@ -1,8 +1,8 @@
 {
-  "vid": "8043",
-  "vname": "tinyirc",
-  "vcpe": "cpe:/:tinyirc",
-  "pid": "15460",
-  "pname": "tinyidentd",
-  "pcpe": "cpe:/a:tinyirc:tinyidentd"
+	"vid": "8043",
+	"vname": "tinyirc",
+	"vcpe": "cpe:/:tinyirc",
+	"pid": "15460",
+	"pname": "tinyidentd",
+	"pcpe": "cpe:/a:tinyirc:tinyidentd"
 }

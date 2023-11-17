@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "33661",
-  "pname": "WebAccess",
-  "pcpe": "cpe:/a:advantech:webaccess"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "33661",
+	"pname": "WebAccess",
+	"pcpe": "cpe:/a:advantech:webaccess"
 }

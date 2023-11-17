@@ -1,8 +1,8 @@
 {
-  "vid": "23307",
-  "vname": "mitsubishi",
-  "vcpe": "cpe:/:mitsubishi",
-  "pid": "60354",
-  "pname": "ew-50j ファームウェア",
-  "pcpe": "cpe:/o:mitsubishi:ew-50j_firmware"
+	"vid": "23307",
+	"vname": "mitsubishi",
+	"vcpe": "cpe:/:mitsubishi",
+	"pid": "60354",
+	"pname": "ew-50j ファームウェア",
+	"pcpe": "cpe:/o:mitsubishi:ew-50j_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4466",
-  "vname": "GFI",
-  "vcpe": "cpe:/:gfi",
-  "pid": "61331",
-  "pname": "archiver",
-  "pcpe": "cpe:/a:gfi:archiver"
+	"vid": "4466",
+	"vname": "GFI",
+	"vcpe": "cpe:/:gfi",
+	"pid": "61331",
+	"pname": "archiver",
+	"pcpe": "cpe:/a:gfi:archiver"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10197",
-  "vname": "Jolokia",
-  "vcpe": "cpe:/:jolokia",
-  "pid": "32887",
-  "pname": "Webarchive Agent",
-  "pcpe": "cpe:/a:jolokia:webarchive_agent"
+	"vid": "10197",
+	"vname": "Jolokia",
+	"vcpe": "cpe:/:jolokia",
+	"pid": "32887",
+	"pname": "Webarchive Agent",
+	"pcpe": "cpe:/a:jolokia:webarchive_agent"
 }

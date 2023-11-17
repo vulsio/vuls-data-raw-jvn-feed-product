@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3188",
-  "pname": "Cisco Unified IP Phone 7971G-GE",
-  "pcpe": "cpe:/h:cisco:unified_ip_phone_7971g-ge"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3188",
+	"pname": "Cisco Unified IP Phone 7971G-GE",
+	"pcpe": "cpe:/h:cisco:unified_ip_phone_7971g-ge"
 }

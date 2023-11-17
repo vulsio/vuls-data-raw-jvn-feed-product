@@ -1,8 +1,8 @@
 {
-  "vid": "1303",
-  "vname": "Avira",
-  "vcpe": "cpe:/:avira",
-  "pid": "43426",
-  "pname": "Avira Antivirus for Endpoint",
-  "pcpe": "cpe:/a:avira:avira_antivirus_for_endpoint"
+	"vid": "1303",
+	"vname": "Avira",
+	"vcpe": "cpe:/:avira",
+	"pid": "43426",
+	"pname": "Avira Antivirus for Endpoint",
+	"pcpe": "cpe:/a:avira:avira_antivirus_for_endpoint"
 }

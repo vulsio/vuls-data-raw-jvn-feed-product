@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "50823",
-  "pname": "Engineering Lifecycle Optimization - Publishing",
-  "pcpe": "cpe:/a:ibm:engineering_lifecycle_optimization_-_publishing"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "50823",
+	"pname": "Engineering Lifecycle Optimization - Publishing",
+	"pcpe": "cpe:/a:ibm:engineering_lifecycle_optimization_-_publishing"
 }

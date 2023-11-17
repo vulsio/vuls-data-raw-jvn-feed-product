@@ -1,8 +1,8 @@
 {
-  "vid": "491",
-  "vname": "BitDefender",
-  "vcpe": "cpe:/:bitdefender",
-  "pid": "31883",
-  "pname": "Bitdefender Internet Security 2018",
-  "pcpe": "cpe:/a:bitdefender:internet_security_2018"
+	"vid": "491",
+	"vname": "BitDefender",
+	"vcpe": "cpe:/:bitdefender",
+	"pid": "31883",
+	"pname": "Bitdefender Internet Security 2018",
+	"pcpe": "cpe:/a:bitdefender:internet_security_2018"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10344",
-  "vname": "FedUp project",
-  "vcpe": "cpe:/:fedup_project",
-  "pid": "21738",
-  "pname": "FedUp",
-  "pcpe": "cpe:/a:fedup_project:fedup"
+	"vid": "10344",
+	"vname": "FedUp project",
+	"vcpe": "cpe:/:fedup_project",
+	"pid": "21738",
+	"pname": "FedUp",
+	"pcpe": "cpe:/a:fedup_project:fedup"
 }

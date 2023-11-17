@@ -1,8 +1,8 @@
 {
-  "vid": "20061",
-  "vname": "1CDN project",
-  "vcpe": "cpe:/:1cdn_project",
-  "pid": "50889",
-  "pname": "1CDN",
-  "pcpe": "cpe:/a:1cdn_project:1cdn"
+	"vid": "20061",
+	"vname": "1CDN project",
+	"vcpe": "cpe:/:1cdn_project",
+	"pid": "50889",
+	"pname": "1CDN",
+	"pcpe": "cpe:/a:1cdn_project:1cdn"
 }

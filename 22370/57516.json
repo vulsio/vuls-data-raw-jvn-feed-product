@@ -1,8 +1,8 @@
 {
-  "vid": "22370",
-  "vname": "max-3000",
-  "vcpe": "cpe:/:max-3000",
-  "pid": "57516",
-  "pname": "maxsite cms",
-  "pcpe": "cpe:/a:max-3000:maxsite_cms"
+	"vid": "22370",
+	"vname": "max-3000",
+	"vcpe": "cpe:/:max-3000",
+	"pid": "57516",
+	"pname": "maxsite cms",
+	"pcpe": "cpe:/a:max-3000:maxsite_cms"
 }

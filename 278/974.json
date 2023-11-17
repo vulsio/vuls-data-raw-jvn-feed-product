@@ -1,8 +1,8 @@
 {
-  "vid": "278",
-  "vname": "SCO",
-  "vcpe": "cpe:/:sco",
-  "pid": "974",
-  "pname": "UnixWare",
-  "pcpe": "cpe:/o:sco:unixware"
+	"vid": "278",
+	"vname": "SCO",
+	"vcpe": "cpe:/:sco",
+	"pid": "974",
+	"pname": "UnixWare",
+	"pcpe": "cpe:/o:sco:unixware"
 }

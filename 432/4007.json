@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "4007",
-  "pname": "RobView 5",
-  "pcpe": "cpe:/a:abb:robview_5"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "4007",
+	"pname": "RobView 5",
+	"pcpe": "cpe:/a:abb:robview_5"
 }

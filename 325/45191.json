@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45191",
-  "pname": "ThinkPad S3 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_s3_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45191",
+	"pname": "ThinkPad S3 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_s3_firmware"
 }

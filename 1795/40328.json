@@ -1,8 +1,8 @@
 {
-  "vid": "1795",
-  "vname": "GeoVision",
-  "vcpe": "cpe:/:geovision",
-  "pid": "40328",
-  "pname": "GV-VR360 ファームウェア",
-  "pcpe": "cpe:/o:geovision:gv-vr360_firmware"
+	"vid": "1795",
+	"vname": "GeoVision",
+	"vcpe": "cpe:/:geovision",
+	"pid": "40328",
+	"pname": "GV-VR360 ファームウェア",
+	"pcpe": "cpe:/o:geovision:gv-vr360_firmware"
 }

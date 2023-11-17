@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "45891",
-  "pname": "trust-store (Ubuntu RTM)",
-  "pcpe": "cpe:/a:canonical:trust-store_%28ubuntu_rtm%29"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "45891",
+	"pname": "trust-store (Ubuntu RTM)",
+	"pcpe": "cpe:/a:canonical:trust-store_%28ubuntu_rtm%29"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15731",
-  "vname": "Zenitel",
-  "vcpe": "cpe:/:zenitel",
-  "pid": "36603",
-  "pname": "IP-StationWeb ファームウェア",
-  "pcpe": "cpe:/o:zenitel:ip-stationweb_firmware"
+	"vid": "15731",
+	"vname": "Zenitel",
+	"vcpe": "cpe:/:zenitel",
+	"pid": "36603",
+	"pname": "IP-StationWeb ファームウェア",
+	"pcpe": "cpe:/o:zenitel:ip-stationweb_firmware"
 }

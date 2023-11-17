@@ -1,8 +1,8 @@
 {
-  "vid": "784",
-  "vname": "Technicolor",
-  "vcpe": "cpe:/:technicolor",
-  "pid": "36976",
-  "pname": "TC7110.AR ファームウェア",
-  "pcpe": "cpe:/o:technicolor:tc7110.ar_firmware"
+	"vid": "784",
+	"vname": "Technicolor",
+	"vcpe": "cpe:/:technicolor",
+	"pid": "36976",
+	"pname": "TC7110.AR ファームウェア",
+	"pcpe": "cpe:/o:technicolor:tc7110.ar_firmware"
 }

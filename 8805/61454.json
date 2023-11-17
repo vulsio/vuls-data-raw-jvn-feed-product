@@ -1,8 +1,8 @@
 {
-  "vid": "8805",
-  "vname": "LemonLDAP::NG",
-  "vcpe": "cpe:/:lemonldap-ng",
-  "pid": "61454",
-  "pname": "lemonldap",
-  "pcpe": "cpe:/a:lemonldap-ng:lemonldap"
+	"vid": "8805",
+	"vname": "LemonLDAP::NG",
+	"vcpe": "cpe:/:lemonldap-ng",
+	"pid": "61454",
+	"pname": "lemonldap",
+	"pcpe": "cpe:/a:lemonldap-ng:lemonldap"
 }

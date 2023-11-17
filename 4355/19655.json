@@ -1,8 +1,8 @@
 {
-  "vid": "4355",
-  "vname": "Sprint",
-  "vcpe": "cpe:/:sprint",
-  "pid": "19655",
-  "pname": "Sprint AIRAVE ソフトウェア",
-  "pcpe": "cpe:/a:sprint:airave_software"
+	"vid": "4355",
+	"vname": "Sprint",
+	"vcpe": "cpe:/:sprint",
+	"pid": "19655",
+	"pname": "Sprint AIRAVE ソフトウェア",
+	"pcpe": "cpe:/a:sprint:airave_software"
 }

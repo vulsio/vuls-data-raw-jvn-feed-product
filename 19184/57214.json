@@ -1,8 +1,8 @@
 {
-  "vid": "19184",
-  "vname": "getkirby",
-  "vcpe": "cpe:/:getkirby",
-  "pid": "57214",
-  "pname": "Webmentions",
-  "pcpe": "cpe:/a:getkirby:webmentions"
+	"vid": "19184",
+	"vname": "getkirby",
+	"vcpe": "cpe:/:getkirby",
+	"pid": "57214",
+	"pname": "Webmentions",
+	"pcpe": "cpe:/a:getkirby:webmentions"
 }

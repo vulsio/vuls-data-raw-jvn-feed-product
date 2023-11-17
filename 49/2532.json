@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "2532",
-  "pname": "GNU C Library",
-  "pcpe": "cpe:/a:gnu:glibc"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "2532",
+	"pname": "GNU C Library",
+	"pcpe": "cpe:/a:gnu:glibc"
 }

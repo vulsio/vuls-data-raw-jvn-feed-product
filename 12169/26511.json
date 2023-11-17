@@ -1,8 +1,8 @@
 {
-  "vid": "12169",
-  "vname": "Accela, Inc.",
-  "vcpe": "cpe:/:accela",
-  "pid": "26511",
-  "pname": "Civic Platform Citizen Access portal",
-  "pcpe": "cpe:/a:accela:civic_platform_citizen_access_portal"
+	"vid": "12169",
+	"vname": "Accela, Inc.",
+	"vcpe": "cpe:/:accela",
+	"pid": "26511",
+	"pname": "Civic Platform Citizen Access portal",
+	"pcpe": "cpe:/a:accela:civic_platform_citizen_access_portal"
 }

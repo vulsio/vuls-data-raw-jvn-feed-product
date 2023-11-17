@@ -1,8 +1,8 @@
 {
-  "vid": "21175",
-  "vname": "Binatone Global",
-  "vcpe": "cpe:/:binatoneglobal",
-  "pid": "54173",
-  "pname": "Connect 20 ファームウェア",
-  "pcpe": "cpe:/o:binatoneglobal:connect_20_firmware"
+	"vid": "21175",
+	"vname": "Binatone Global",
+	"vcpe": "cpe:/:binatoneglobal",
+	"pid": "54173",
+	"pname": "Connect 20 ファームウェア",
+	"pcpe": "cpe:/o:binatoneglobal:connect_20_firmware"
 }

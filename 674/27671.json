@@ -1,8 +1,8 @@
 {
-  "vid": "674",
-  "vname": "ブロケード コミュニケーションズ システムズ株式会社",
-  "vcpe": "cpe:/:brocade",
-  "pid": "27671",
-  "pname": "Brocade Virtual Traffic Manager",
-  "pcpe": "cpe:/a:brocade:virtual_traffic_manager"
+	"vid": "674",
+	"vname": "ブロケード コミュニケーションズ システムズ株式会社",
+	"vcpe": "cpe:/:brocade",
+	"pid": "27671",
+	"pname": "Brocade Virtual Traffic Manager",
+	"pcpe": "cpe:/a:brocade:virtual_traffic_manager"
 }

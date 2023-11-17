@@ -1,8 +1,8 @@
 {
-  "vid": "21170",
-  "vname": "FORT Validator project",
-  "vcpe": "cpe:/:fort_validator_project",
-  "pid": "54136",
-  "pname": "FORT Validator",
-  "pcpe": "cpe:/a:fort_validator_project:fort_validator"
+	"vid": "21170",
+	"vname": "FORT Validator project",
+	"vcpe": "cpe:/:fort_validator_project",
+	"pid": "54136",
+	"pname": "FORT Validator",
+	"pcpe": "cpe:/a:fort_validator_project:fort_validator"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "52900",
-  "pname": "Simcenter STAR-CCM+ Viewer",
-  "pcpe": "cpe:/a:siemens:simcenter_star-ccm%2b"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "52900",
+	"pname": "Simcenter STAR-CCM+ Viewer",
+	"pcpe": "cpe:/a:siemens:simcenter_star-ccm%2b"
 }

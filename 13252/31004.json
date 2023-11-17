@@ -1,8 +1,8 @@
 {
-  "vid": "13252",
-  "vname": "LABjs project",
-  "vcpe": "cpe:/:labjs_project",
-  "pid": "31004",
-  "pname": "LABjs",
-  "pcpe": "cpe:/a:labjs_project:labjs"
+	"vid": "13252",
+	"vname": "LABjs project",
+	"vcpe": "cpe:/:labjs_project",
+	"pid": "31004",
+	"pname": "LABjs",
+	"pcpe": "cpe:/a:labjs_project:labjs"
 }

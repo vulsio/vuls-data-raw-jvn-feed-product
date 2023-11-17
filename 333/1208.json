@@ -1,8 +1,8 @@
 {
-  "vid": "333",
-  "vname": "エイムラック",
-  "vcpe": "cpe:/:aimluck",
-  "pid": "1208",
-  "pname": "Aipo ASP版",
-  "pcpe": "cpe:/a:aimluck:aipo_asp"
+	"vid": "333",
+	"vname": "エイムラック",
+	"vcpe": "cpe:/:aimluck",
+	"pid": "1208",
+	"pname": "Aipo ASP版",
+	"pcpe": "cpe:/a:aimluck:aipo_asp"
 }

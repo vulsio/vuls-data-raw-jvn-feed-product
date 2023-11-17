@@ -1,8 +1,8 @@
 {
-  "vid": "11874",
-  "vname": "SIM Card Editor project",
-  "vcpe": "cpe:/:gsm",
-  "pid": "24749",
-  "pname": "SIM Card Editor",
-  "pcpe": "cpe:/a:gsm:sim_card_editor"
+	"vid": "11874",
+	"vname": "SIM Card Editor project",
+	"vcpe": "cpe:/:gsm",
+	"pid": "24749",
+	"pname": "SIM Card Editor",
+	"pcpe": "cpe:/a:gsm:sim_card_editor"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "20013",
-  "pname": "RSA Access Manager",
-  "pcpe": "cpe:/a:emc:rsa_access_manager"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "20013",
+	"pname": "RSA Access Manager",
+	"pcpe": "cpe:/a:emc:rsa_access_manager"
 }

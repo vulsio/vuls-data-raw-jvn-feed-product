@@ -1,8 +1,8 @@
 {
-  "vid": "9880",
-  "vname": "Docker",
-  "vcpe": "cpe:/:docker",
-  "pid": "48169",
-  "pname": "Crux Linux Docker images",
-  "pcpe": "cpe:/a:docker:crux_linux_docker_image"
+	"vid": "9880",
+	"vname": "Docker",
+	"vcpe": "cpe:/:docker",
+	"pid": "48169",
+	"pname": "Crux Linux Docker images",
+	"pcpe": "cpe:/a:docker:crux_linux_docker_image"
 }

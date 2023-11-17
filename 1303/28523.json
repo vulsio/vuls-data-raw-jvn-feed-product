@@ -1,8 +1,8 @@
 {
-  "vid": "1303",
-  "vname": "Avira",
-  "vcpe": "cpe:/:avira",
-  "pid": "28523",
-  "pname": "Avira Free Security Suite",
-  "pcpe": "cpe:/a:avira:free_security_suite"
+	"vid": "1303",
+	"vname": "Avira",
+	"vcpe": "cpe:/:avira",
+	"pid": "28523",
+	"pname": "Avira Free Security Suite",
+	"pcpe": "cpe:/a:avira:free_security_suite"
 }

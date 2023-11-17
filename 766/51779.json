@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "51779",
-  "pname": "SMT シリーズ 1040 ups ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:smt_series_1040_ups_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "51779",
+	"pname": "SMT シリーズ 1040 ups ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:smt_series_1040_ups_firmware"
 }

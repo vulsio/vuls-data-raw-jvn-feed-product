@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "24517",
-  "pname": "eNTEGRA P&R ファームウェア",
-  "pcpe": "cpe:/o:gehealthcare:entegra_p%26r_firmware"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "24517",
+	"pname": "eNTEGRA P&R ファームウェア",
+	"pcpe": "cpe:/o:gehealthcare:entegra_p%26r_firmware"
 }

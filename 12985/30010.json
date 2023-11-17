@@ -1,8 +1,8 @@
 {
-  "vid": "12985",
-  "vname": "SMA Solar Technology AG",
-  "vcpe": "cpe:/:sma_solar_technology_ag",
-  "pid": "30010",
-  "pname": "Sunny Boy 4000TL ファームウェア",
-  "pcpe": "cpe:/o:sma_solar_technology_ag:sunny_boy_4000tl_firmware"
+	"vid": "12985",
+	"vname": "SMA Solar Technology AG",
+	"vcpe": "cpe:/:sma_solar_technology_ag",
+	"pid": "30010",
+	"pname": "Sunny Boy 4000TL ファームウェア",
+	"pcpe": "cpe:/o:sma_solar_technology_ag:sunny_boy_4000tl_firmware"
 }

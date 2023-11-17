@@ -1,8 +1,8 @@
 {
-  "vid": "18052",
-  "vname": "CloudMagic",
-  "vcpe": "cpe:/:cloudmagic",
-  "pid": "43885",
-  "pname": "Newton",
-  "pcpe": "cpe:/a:cloudmagic:newton"
+	"vid": "18052",
+	"vname": "CloudMagic",
+	"vcpe": "cpe:/:cloudmagic",
+	"pid": "43885",
+	"pname": "Newton",
+	"pcpe": "cpe:/a:cloudmagic:newton"
 }

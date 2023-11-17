@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "44412",
-  "pname": "JR6150 ファームウェア",
-  "pcpe": "cpe:/o:netgear:jr6150_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "44412",
+	"pname": "JR6150 ファームウェア",
+	"pcpe": "cpe:/o:netgear:jr6150_firmware"
 }

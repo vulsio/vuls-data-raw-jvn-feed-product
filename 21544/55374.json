@@ -1,8 +1,8 @@
 {
-  "vid": "21544",
-  "vname": "OpenImageIO project",
-  "vcpe": "cpe:/:openimageio_project",
-  "pid": "55374",
-  "pname": "OpenImageIO",
-  "pcpe": "cpe:/a:openimageio_project:openimageio"
+	"vid": "21544",
+	"vname": "OpenImageIO project",
+	"vcpe": "cpe:/:openimageio_project",
+	"pid": "55374",
+	"pname": "OpenImageIO",
+	"pcpe": "cpe:/a:openimageio_project:openimageio"
 }

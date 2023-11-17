@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "27195",
-  "pname": "CFMS2025",
-  "pcpe": "cpe:/h:siemens:cfms2025"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "27195",
+	"pname": "CFMS2025",
+	"pcpe": "cpe:/h:siemens:cfms2025"
 }

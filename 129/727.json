@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "727",
-  "pname": "GR4000",
-  "pcpe": "cpe:/h:hitachi:gr4000"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "727",
+	"pname": "GR4000",
+	"pcpe": "cpe:/h:hitachi:gr4000"
 }

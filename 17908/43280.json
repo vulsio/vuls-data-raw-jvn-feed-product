@@ -1,8 +1,8 @@
 {
-  "vid": "17908",
-  "vname": "matestack",
-  "vcpe": "cpe:/:matestack",
-  "pid": "43280",
-  "pname": "matestack-ui-core",
-  "pcpe": "cpe:/a:matestack:ui-core"
+	"vid": "17908",
+	"vname": "matestack",
+	"vcpe": "cpe:/:matestack",
+	"pid": "43280",
+	"pname": "matestack-ui-core",
+	"pcpe": "cpe:/a:matestack:ui-core"
 }

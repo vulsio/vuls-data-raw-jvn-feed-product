@@ -1,8 +1,8 @@
 {
-  "vid": "10080",
-  "vname": "CIBC",
-  "vcpe": "cpe:/:cibc",
-  "pid": "21119",
-  "pname": "CIBC Mobile Banking",
-  "pcpe": "cpe:/a:cibc:cibc_mobile_banking"
+	"vid": "10080",
+	"vname": "CIBC",
+	"vcpe": "cpe:/:cibc",
+	"pid": "21119",
+	"pname": "CIBC Mobile Banking",
+	"pcpe": "cpe:/a:cibc:cibc_mobile_banking"
 }

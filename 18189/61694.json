@@ -1,8 +1,8 @@
 {
-  "vid": "18189",
-  "vname": "UI",
-  "vcpe": "cpe:/:ui",
-  "pid": "61694",
-  "pname": "ER-8-XG ファームウェア",
-  "pcpe": "cpe:/o:ui:er-8-xg_firmware"
+	"vid": "18189",
+	"vname": "UI",
+	"vcpe": "cpe:/:ui",
+	"pid": "61694",
+	"pname": "ER-8-XG ファームウェア",
+	"pcpe": "cpe:/o:ui:er-8-xg_firmware"
 }

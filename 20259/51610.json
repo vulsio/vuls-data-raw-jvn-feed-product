@@ -1,8 +1,8 @@
 {
-  "vid": "20259",
-  "vname": "QuickJS project",
-  "vcpe": "cpe:/:quickjs_project",
-  "pid": "51610",
-  "pname": "QuickJS",
-  "pcpe": "cpe:/a:quickjs_project:quickjs"
+	"vid": "20259",
+	"vname": "QuickJS project",
+	"vcpe": "cpe:/:quickjs_project",
+	"pid": "51610",
+	"pname": "QuickJS",
+	"pcpe": "cpe:/a:quickjs_project:quickjs"
 }

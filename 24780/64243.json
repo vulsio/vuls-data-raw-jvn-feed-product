@@ -1,8 +1,8 @@
 {
-  "vid": "24780",
-  "vname": "wut",
-  "vcpe": "cpe:/:wut",
-  "pid": "64243",
-  "pname": "com-server highspeed 19 1port ファームウェア\"",
-  "pcpe": "cpe:/o:wut:com-server_highspeed_19%22_1port_firmware"
+	"vid": "24780",
+	"vname": "wut",
+	"vcpe": "cpe:/:wut",
+	"pid": "64243",
+	"pname": "com-server highspeed 19 1port ファームウェア\"",
+	"pcpe": "cpe:/o:wut:com-server_highspeed_19%22_1port_firmware"
 }

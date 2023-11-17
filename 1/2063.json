@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "2063",
-  "pname": "Sun Solstice X.25",
-  "pcpe": "cpe:/a:sun:solstice_x.25"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "2063",
+	"pname": "Sun Solstice X.25",
+	"pcpe": "cpe:/a:sun:solstice_x.25"
 }

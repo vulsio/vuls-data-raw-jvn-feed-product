@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1742",
-  "pname": "OpenID",
-  "pcpe": "cpe:/a:drupal:openid"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1742",
+	"pname": "OpenID",
+	"pcpe": "cpe:/a:drupal:openid"
 }

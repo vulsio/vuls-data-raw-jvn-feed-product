@@ -1,8 +1,8 @@
 {
-  "vid": "9338",
-  "vname": "Sonatype Inc.",
-  "vcpe": "cpe:/:sonatype",
-  "pid": "19188",
-  "pname": "Nexus",
-  "pcpe": "cpe:/a:sonatype:nexus"
+	"vid": "9338",
+	"vname": "Sonatype Inc.",
+	"vcpe": "cpe:/:sonatype",
+	"pid": "19188",
+	"pname": "Nexus",
+	"pcpe": "cpe:/a:sonatype:nexus"
 }

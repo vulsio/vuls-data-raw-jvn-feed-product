@@ -1,8 +1,8 @@
 {
-  "vid": "23396",
-  "vname": "Google Places Reviews project",
-  "vcpe": "cpe:/:google_places_reviews_project",
-  "pid": "60641",
-  "pname": "Google Places Reviews",
-  "pcpe": "cpe:/a:google_places_reviews_project:google_places_reviews"
+	"vid": "23396",
+	"vname": "Google Places Reviews project",
+	"vcpe": "cpe:/:google_places_reviews_project",
+	"pid": "60641",
+	"pname": "Google Places Reviews",
+	"pcpe": "cpe:/a:google_places_reviews_project:google_places_reviews"
 }

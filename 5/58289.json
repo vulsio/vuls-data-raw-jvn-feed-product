@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "58289",
-  "pname": "mdm9310 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:mdm9310_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "58289",
+	"pname": "mdm9310 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:mdm9310_firmware"
 }

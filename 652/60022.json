@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "60022",
-  "pname": "account",
-  "pcpe": "cpe:/a:samsung:account"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "60022",
+	"pname": "account",
+	"pcpe": "cpe:/a:samsung:account"
 }

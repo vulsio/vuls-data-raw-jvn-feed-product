@@ -1,8 +1,8 @@
 {
-  "vid": "2670",
-  "vname": "bullguard",
-  "vcpe": "cpe:/:bullguard",
-  "pid": "23470",
-  "pname": "Online Backup",
-  "pcpe": "cpe:/a:bullguard:online_backup"
+	"vid": "2670",
+	"vname": "bullguard",
+	"vcpe": "cpe:/:bullguard",
+	"pid": "23470",
+	"pname": "Online Backup",
+	"pcpe": "cpe:/a:bullguard:online_backup"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13332",
-  "vname": "Datto, Inc.",
-  "vcpe": "cpe:/:datto",
-  "pid": "32769",
-  "pname": "ALTO Imaged ファームウェア",
-  "pcpe": "cpe:/o:datto:alto_imaged_firmware"
+	"vid": "13332",
+	"vname": "Datto, Inc.",
+	"vcpe": "cpe:/:datto",
+	"pid": "32769",
+	"pname": "ALTO Imaged ファームウェア",
+	"pcpe": "cpe:/o:datto:alto_imaged_firmware"
 }

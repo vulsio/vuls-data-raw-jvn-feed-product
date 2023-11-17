@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4440",
-  "pname": "HP SiteScope",
-  "pcpe": "cpe:/a:hp:sitescope"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4440",
+	"pname": "HP SiteScope",
+	"pcpe": "cpe:/a:hp:sitescope"
 }

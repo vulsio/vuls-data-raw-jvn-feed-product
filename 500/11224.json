@@ -1,8 +1,8 @@
 {
-  "vid": "500",
-  "vname": "Mambo Foundation",
-  "vcpe": "cpe:/:mambo-foundation",
-  "pid": "11224",
-  "pname": "taskhopper component",
-  "pcpe": "cpe:/a:mambo-foundation:taskhopper_component"
+	"vid": "500",
+	"vname": "Mambo Foundation",
+	"vcpe": "cpe:/:mambo-foundation",
+	"pid": "11224",
+	"pname": "taskhopper component",
+	"pcpe": "cpe:/a:mambo-foundation:taskhopper_component"
 }

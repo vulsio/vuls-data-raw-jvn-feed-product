@@ -1,8 +1,8 @@
 {
-  "vid": "9151",
-  "vname": "Ubuntu Developers",
-  "vcpe": "cpe:/:ubuntu_developers",
-  "pid": "18523",
-  "pname": "apt-xapian-index",
-  "pcpe": "cpe:/a:ubuntu_developers:apt-xapian-index"
+	"vid": "9151",
+	"vname": "Ubuntu Developers",
+	"vcpe": "cpe:/:ubuntu_developers",
+	"pid": "18523",
+	"pname": "apt-xapian-index",
+	"pcpe": "cpe:/a:ubuntu_developers:apt-xapian-index"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4432",
-  "pname": "HP Operations Orchestration",
-  "pcpe": "cpe:/a:hp:operations_orchestration"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4432",
+	"pname": "HP Operations Orchestration",
+	"pcpe": "cpe:/a:hp:operations_orchestration"
 }

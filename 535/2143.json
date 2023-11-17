@@ -1,8 +1,8 @@
 {
-  "vid": "535",
-  "vname": "ActiveState Software",
-  "vcpe": "cpe:/:activestate",
-  "pid": "2143",
-  "pname": "ActivePerl",
-  "pcpe": "cpe:/a:activestate:activeperl"
+	"vid": "535",
+	"vname": "ActiveState Software",
+	"vcpe": "cpe:/:activestate",
+	"pid": "2143",
+	"pname": "ActivePerl",
+	"pcpe": "cpe:/a:activestate:activeperl"
 }

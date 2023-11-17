@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "62732",
-  "pname": "JP1/Performance Management - Agent Option for Oracle",
-  "pcpe": "cpe:/a:hitachi:jp1%2Fperformance_management_-_agent_option_for_oracle"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "62732",
+	"pname": "JP1/Performance Management - Agent Option for Oracle",
+	"pcpe": "cpe:/a:hitachi:jp1%2Fperformance_management_-_agent_option_for_oracle"
 }

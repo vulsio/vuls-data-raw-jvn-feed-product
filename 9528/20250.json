@@ -1,8 +1,8 @@
 {
-  "vid": "9528",
-  "vname": "Zemanta",
-  "vcpe": "cpe:/:zemanta",
-  "pid": "20250",
-  "pname": "WordPress Related Posts",
-  "pcpe": "cpe:/a:zemanta:wordpress_related_posts"
+	"vid": "9528",
+	"vname": "Zemanta",
+	"vcpe": "cpe:/:zemanta",
+	"pid": "20250",
+	"pname": "WordPress Related Posts",
+	"pcpe": "cpe:/a:zemanta:wordpress_related_posts"
 }

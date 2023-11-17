@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "32647",
-  "pname": "LeftHand OS",
-  "pcpe": "cpe:/o:hp:lefthand"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "32647",
+	"pname": "LeftHand OS",
+	"pcpe": "cpe:/o:hp:lefthand"
 }

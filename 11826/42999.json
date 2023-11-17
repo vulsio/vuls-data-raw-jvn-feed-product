@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "42999",
-  "pname": "ApexPro Telemetry Server ファームウェア",
-  "pcpe": "cpe:/o:gehealthcare:apexpro_telemetry_server_firmware"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "42999",
+	"pname": "ApexPro Telemetry Server ファームウェア",
+	"pcpe": "cpe:/o:gehealthcare:apexpro_telemetry_server_firmware"
 }

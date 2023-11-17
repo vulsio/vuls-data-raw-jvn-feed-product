@@ -1,8 +1,8 @@
 {
-  "vid": "3863",
-  "vname": "futuresoft",
-  "vcpe": "cpe:/:futuresoft",
-  "pid": "8278",
-  "pname": "tftp server 2000",
-  "pcpe": "cpe:/a:futuresoft:tftp_server_2000"
+	"vid": "3863",
+	"vname": "futuresoft",
+	"vcpe": "cpe:/:futuresoft",
+	"pid": "8278",
+	"pname": "tftp server 2000",
+	"pcpe": "cpe:/a:futuresoft:tftp_server_2000"
 }

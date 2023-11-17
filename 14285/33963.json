@@ -1,8 +1,8 @@
 {
-  "vid": "14285",
-  "vname": "cue-sdk-node project",
-  "vcpe": "cpe:/:cue-sdk-node_project",
-  "pid": "33963",
-  "pname": "cue-sdk-node",
-  "pcpe": "cpe:/a:cue-sdk-node_project:cue-sdk-node"
+	"vid": "14285",
+	"vname": "cue-sdk-node project",
+	"vcpe": "cpe:/:cue-sdk-node_project",
+	"pid": "33963",
+	"pname": "cue-sdk-node",
+	"pcpe": "cpe:/a:cue-sdk-node_project:cue-sdk-node"
 }

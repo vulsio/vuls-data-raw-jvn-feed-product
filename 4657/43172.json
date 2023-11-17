@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "43172",
-  "pname": "Osca-550 ファームウェア",
-  "pcpe": "cpe:/o:huawei:osca-550_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "43172",
+	"pname": "Osca-550 ファームウェア",
+	"pcpe": "cpe:/o:huawei:osca-550_firmware"
 }

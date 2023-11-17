@@ -1,8 +1,8 @@
 {
-  "vid": "9570",
-  "vname": "Crowbar",
-  "vcpe": "cpe:/:crowbar_project",
-  "pid": "27488",
-  "pname": "barclamp-trove",
-  "pcpe": "cpe:/a:crowbar_project:barclamp-trove"
+	"vid": "9570",
+	"vname": "Crowbar",
+	"vcpe": "cpe:/:crowbar_project",
+	"pid": "27488",
+	"pname": "barclamp-trove",
+	"pcpe": "cpe:/a:crowbar_project:barclamp-trove"
 }

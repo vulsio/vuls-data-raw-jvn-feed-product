@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "41726",
-  "pname": "HPE ProLiant DL560 ファームウェア",
-  "pcpe": "cpe:/o:hp:proliant_dl560_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "41726",
+	"pname": "HPE ProLiant DL560 ファームウェア",
+	"pcpe": "cpe:/o:hp:proliant_dl560_firmware"
 }

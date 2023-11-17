@@ -1,8 +1,8 @@
 {
-  "vid": "16425",
-  "vname": "AU Optronics Corp",
-  "vcpe": "cpe:/:auo",
-  "pid": "38949",
-  "pname": "Solar Data Recorder",
-  "pcpe": "cpe:/a:auo:solar_data_recorder"
+	"vid": "16425",
+	"vname": "AU Optronics Corp",
+	"vcpe": "cpe:/:auo",
+	"pid": "38949",
+	"pname": "Solar Data Recorder",
+	"pcpe": "cpe:/a:auo:solar_data_recorder"
 }

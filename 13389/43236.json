@@ -1,8 +1,8 @@
 {
-  "vid": "13389",
-  "vname": "AutomationDirect",
-  "vcpe": "cpe:/:automationdirect",
-  "pid": "43236",
-  "pname": "C-More EA9-RHI ファームウェア",
-  "pcpe": "cpe:/o:automationdirect:c-more_ea9-rhi_firmware"
+	"vid": "13389",
+	"vname": "AutomationDirect",
+	"vcpe": "cpe:/:automationdirect",
+	"pid": "43236",
+	"pname": "C-More EA9-RHI ファームウェア",
+	"pcpe": "cpe:/o:automationdirect:c-more_ea9-rhi_firmware"
 }

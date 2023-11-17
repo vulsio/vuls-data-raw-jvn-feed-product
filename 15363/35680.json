@@ -1,8 +1,8 @@
 {
-  "vid": "15363",
-  "vname": "Samsung Electronics Co., Ltd.",
-  "vcpe": "cpe:/:misc",
-  "pid": "35680",
-  "pname": "Samsung 840 EVO ドライブ",
-  "pcpe": "cpe:/a:misc:samsung_electronics_samsung_840_evo_drive"
+	"vid": "15363",
+	"vname": "Samsung Electronics Co., Ltd.",
+	"vcpe": "cpe:/:misc",
+	"pid": "35680",
+	"pname": "Samsung 840 EVO ドライブ",
+	"pcpe": "cpe:/a:misc:samsung_electronics_samsung_840_evo_drive"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "888",
-  "vname": "Automattic Inc.",
-  "vcpe": "cpe:/:automattic",
-  "pid": "41068",
-  "pname": "Mongoose",
-  "pcpe": "cpe:/a:automattic:mongoose"
+	"vid": "888",
+	"vname": "Automattic Inc.",
+	"vcpe": "cpe:/:automattic",
+	"pid": "41068",
+	"pname": "Mongoose",
+	"pcpe": "cpe:/a:automattic:mongoose"
 }

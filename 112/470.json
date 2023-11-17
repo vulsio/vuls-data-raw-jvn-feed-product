@@ -1,8 +1,8 @@
 {
-  "vid": "112",
-  "vname": "ELinks",
-  "vcpe": "cpe:/:elinks",
-  "pid": "470",
-  "pname": "Elinks",
-  "pcpe": "cpe:/a:elinks:elinks"
+	"vid": "112",
+	"vname": "ELinks",
+	"vcpe": "cpe:/:elinks",
+	"pid": "470",
+	"pname": "Elinks",
+	"pcpe": "cpe:/a:elinks:elinks"
 }

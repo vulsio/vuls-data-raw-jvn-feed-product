@@ -1,8 +1,8 @@
 {
-  "vid": "24017",
-  "vname": "megatech",
-  "vcpe": "cpe:/:megatech",
-  "pid": "62123",
-  "pname": "msnswitch ファームウェア",
-  "pcpe": "cpe:/o:megatech:msnswitch_firmware"
+	"vid": "24017",
+	"vname": "megatech",
+	"vcpe": "cpe:/:megatech",
+	"pid": "62123",
+	"pname": "msnswitch ファームウェア",
+	"pcpe": "cpe:/o:megatech:msnswitch_firmware"
 }

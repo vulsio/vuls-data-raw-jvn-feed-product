@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "33082",
-  "pname": "PlayMemories Home",
-  "pcpe": "cpe:/a:sony:playmemories_home"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "33082",
+	"pname": "PlayMemories Home",
+	"pcpe": "cpe:/a:sony:playmemories_home"
 }

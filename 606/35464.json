@@ -1,8 +1,8 @@
 {
-  "vid": "606",
-  "vname": "セイコーエプソン株式会社",
-  "vcpe": "cpe:/:epson",
-  "pid": "35464",
-  "pname": "PF-81",
-  "pcpe": "cpe:/a:epson:pf-81"
+	"vid": "606",
+	"vname": "セイコーエプソン株式会社",
+	"vcpe": "cpe:/:epson",
+	"pid": "35464",
+	"pname": "PF-81",
+	"pcpe": "cpe:/a:epson:pf-81"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "50115",
-  "pname": "Oracle Banking Credit Facilities Process Management",
-  "pcpe": "cpe:/a:oracle:banking_credit_facilities_process_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "50115",
+	"pname": "Oracle Banking Credit Facilities Process Management",
+	"pcpe": "cpe:/a:oracle:banking_credit_facilities_process_management"
 }

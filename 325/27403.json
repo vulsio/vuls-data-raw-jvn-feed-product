@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27403",
-  "pname": "ThinkPad L560",
-  "pcpe": "cpe:/h:lenovo:thinkpad_l560"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27403",
+	"pname": "ThinkPad L560",
+	"pcpe": "cpe:/h:lenovo:thinkpad_l560"
 }

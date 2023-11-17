@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9985",
-  "pname": "IBM Installation Manager",
-  "pcpe": "cpe:/a:ibm:installation_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9985",
+	"pname": "IBM Installation Manager",
+	"pcpe": "cpe:/a:ibm:installation_manager"
 }

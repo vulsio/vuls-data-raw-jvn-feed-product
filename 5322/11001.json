@@ -1,8 +1,8 @@
 {
-  "vid": "5322",
-  "vname": "link",
-  "vcpe": "cpe:/:link",
-  "pid": "11001",
-  "pname": "content management server",
-  "pcpe": "cpe:/a:link:content_management_server"
+	"vid": "5322",
+	"vname": "link",
+	"vcpe": "cpe:/:link",
+	"pid": "11001",
+	"pname": "content management server",
+	"pcpe": "cpe:/a:link:content_management_server"
 }

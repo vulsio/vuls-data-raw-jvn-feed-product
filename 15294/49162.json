@@ -1,8 +1,8 @@
 {
-  "vid": "15294",
-  "vname": "AVEVA",
-  "vcpe": "cpe:/:aveva",
-  "pid": "49162",
-  "pname": "AVEVA Enterprise Data Management",
-  "pcpe": "cpe:/a:aveva:aveva_enterprise_data_management"
+	"vid": "15294",
+	"vname": "AVEVA",
+	"vcpe": "cpe:/:aveva",
+	"pid": "49162",
+	"pname": "AVEVA Enterprise Data Management",
+	"pcpe": "cpe:/a:aveva:aveva_enterprise_data_management"
 }

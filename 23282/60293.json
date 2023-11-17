@@ -1,8 +1,8 @@
 {
-  "vid": "23282",
-  "vname": "Room 34 Creative Services",
-  "vcpe": "cpe:/:room_34_creative_services",
-  "pid": "60293",
-  "pname": "Enable SVG",
-  "pcpe": "cpe:/a:room_34_creative_services:enable_svg"
+	"vid": "23282",
+	"vname": "Room 34 Creative Services",
+	"vcpe": "cpe:/:room_34_creative_services",
+	"pid": "60293",
+	"pname": "Enable SVG",
+	"pcpe": "cpe:/a:room_34_creative_services:enable_svg"
 }

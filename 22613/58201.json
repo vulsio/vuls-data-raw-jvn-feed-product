@@ -1,8 +1,8 @@
 {
-  "vid": "22613",
-  "vname": "wyze",
-  "vcpe": "cpe:/:wyze",
-  "pid": "58201",
-  "pname": "cam pan v2 ファームウェア",
-  "pcpe": "cpe:/o:wyze:cam_pan_v2_firmware"
+	"vid": "22613",
+	"vname": "wyze",
+	"vcpe": "cpe:/:wyze",
+	"pid": "58201",
+	"pname": "cam pan v2 ファームウェア",
+	"pcpe": "cpe:/o:wyze:cam_pan_v2_firmware"
 }

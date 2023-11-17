@@ -1,8 +1,8 @@
 {
-  "vid": "15715",
-  "vname": "TOTOLINK",
-  "vcpe": "cpe:/:totolink",
-  "pid": "57424",
-  "pname": "a860r ファームウェア",
-  "pcpe": "cpe:/o:totolink:a860r_firmware"
+	"vid": "15715",
+	"vname": "TOTOLINK",
+	"vcpe": "cpe:/:totolink",
+	"pid": "57424",
+	"pname": "a860r ファームウェア",
+	"pcpe": "cpe:/o:totolink:a860r_firmware"
 }

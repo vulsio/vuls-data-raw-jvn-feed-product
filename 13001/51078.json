@@ -1,8 +1,8 @@
 {
-  "vid": "13001",
-  "vname": "デジタルアーツ株式会社",
-  "vcpe": "cpe:/:daj",
-  "pid": "51078",
-  "pname": "i-FILTER ブラウザー&クラウド MultiAgent for Windows",
-  "pcpe": "cpe:/a:daj:i-filter_browser%26cloud_multiagent_for_windows"
+	"vid": "13001",
+	"vname": "デジタルアーツ株式会社",
+	"vcpe": "cpe:/:daj",
+	"pid": "51078",
+	"pname": "i-FILTER ブラウザー&クラウド MultiAgent for Windows",
+	"pcpe": "cpe:/a:daj:i-filter_browser%26cloud_multiagent_for_windows"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20882",
-  "pname": "IBM Power 730",
-  "pcpe": "cpe:/h:ibm:power_730"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20882",
+	"pname": "IBM Power 730",
+	"pcpe": "cpe:/h:ibm:power_730"
 }

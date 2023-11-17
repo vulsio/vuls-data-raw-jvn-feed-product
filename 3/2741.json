@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "2741",
-  "pname": "RHEL Clustering Long Life",
-  "pcpe": "cpe:/a:redhat:rhel_clustering_long_life"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "2741",
+	"pname": "RHEL Clustering Long Life",
+	"pcpe": "cpe:/a:redhat:rhel_clustering_long_life"
 }

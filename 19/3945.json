@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3945",
-  "pname": "Cisco Small Business SRP521W-U",
-  "pcpe": "cpe:/h:cisco:small_business_srp521w-u"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3945",
+	"pname": "Cisco Small Business SRP521W-U",
+	"pcpe": "cpe:/h:cisco:small_business_srp521w-u"
 }

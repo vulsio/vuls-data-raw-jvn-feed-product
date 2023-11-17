@@ -1,8 +1,8 @@
 {
-  "vid": "5090",
-  "vname": "jtmreseller",
-  "vcpe": "cpe:/:jtmreseller",
-  "pid": "10683",
-  "pname": "com jtm",
-  "pcpe": "cpe:/a:jtmreseller:com_jtm"
+	"vid": "5090",
+	"vname": "jtmreseller",
+	"vcpe": "cpe:/:jtmreseller",
+	"pid": "10683",
+	"pname": "com jtm",
+	"pcpe": "cpe:/a:jtmreseller:com_jtm"
 }

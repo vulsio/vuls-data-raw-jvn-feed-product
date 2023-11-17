@@ -1,8 +1,8 @@
 {
-  "vid": "18377",
-  "vname": "Mattermost, Inc.",
-  "vcpe": "cpe:/:mattermost",
-  "pid": "45359",
-  "pname": "Mattermost Packages",
-  "pcpe": "cpe:/a:mattermost:mattermost_packages"
+	"vid": "18377",
+	"vname": "Mattermost, Inc.",
+	"vcpe": "cpe:/:mattermost",
+	"pid": "45359",
+	"pname": "Mattermost Packages",
+	"pcpe": "cpe:/a:mattermost:mattermost_packages"
 }

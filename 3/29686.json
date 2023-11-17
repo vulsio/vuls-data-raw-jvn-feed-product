@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "29686",
-  "pname": "Red Hat 3scale API Management Platform",
-  "pcpe": "cpe:/a:redhat:3scale_api_management_platform"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "29686",
+	"pname": "Red Hat 3scale API Management Platform",
+	"pcpe": "cpe:/a:redhat:3scale_api_management_platform"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19086",
-  "vname": "Canary Mail",
-  "vcpe": "cpe:/:canarymail",
-  "pid": "47899",
-  "pname": "Canary Mail",
-  "pcpe": "cpe:/a:canarymail:canary_mail"
+	"vid": "19086",
+	"vname": "Canary Mail",
+	"vcpe": "cpe:/:canarymail",
+	"pid": "47899",
+	"pname": "Canary Mail",
+	"pcpe": "cpe:/a:canarymail:canary_mail"
 }

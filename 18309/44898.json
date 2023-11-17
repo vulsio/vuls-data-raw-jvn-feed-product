@@ -1,8 +1,8 @@
 {
-  "vid": "18309",
-  "vname": "SETA Corporation",
-  "vcpe": "cpe:/:seta",
-  "pid": "44898",
-  "pname": "Morita Shogi 64",
-  "pcpe": "cpe:/a:seta:morita_shogi_64"
+	"vid": "18309",
+	"vname": "SETA Corporation",
+	"vcpe": "cpe:/:seta",
+	"pid": "44898",
+	"pname": "Morita Shogi 64",
+	"pcpe": "cpe:/a:seta:morita_shogi_64"
 }

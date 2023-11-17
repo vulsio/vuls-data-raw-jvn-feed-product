@@ -1,8 +1,8 @@
 {
-  "vid": "8731",
-  "vname": "zeus",
-  "vcpe": "cpe:/:zeus",
-  "pid": "16538",
-  "pname": "zeus web server",
-  "pcpe": "cpe:/a:zeus:zeus_web_server"
+	"vid": "8731",
+	"vname": "zeus",
+	"vcpe": "cpe:/:zeus",
+	"pid": "16538",
+	"pname": "zeus web server",
+	"pcpe": "cpe:/a:zeus:zeus_web_server"
 }

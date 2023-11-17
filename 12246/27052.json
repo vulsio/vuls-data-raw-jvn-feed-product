@@ -1,8 +1,8 @@
 {
-  "vid": "12246",
-  "vname": "Patrick Uiterwijk",
-  "vcpe": "cpe:/:flask-oidc_project",
-  "pid": "27052",
-  "pname": "flask-oidc",
-  "pcpe": "cpe:/a:flask-oidc_project:flask-oidc"
+	"vid": "12246",
+	"vname": "Patrick Uiterwijk",
+	"vcpe": "cpe:/:flask-oidc_project",
+	"pid": "27052",
+	"pname": "flask-oidc",
+	"pcpe": "cpe:/a:flask-oidc_project:flask-oidc"
 }

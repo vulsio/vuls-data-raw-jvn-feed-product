@@ -1,8 +1,8 @@
 {
-  "vid": "8643",
-  "vname": "xorp",
-  "vcpe": "cpe:/:xorp",
-  "pid": "16394",
-  "pname": "extensible open router platform",
-  "pcpe": "cpe:/a:xorp:extensible_open_router_platform"
+	"vid": "8643",
+	"vname": "xorp",
+	"vcpe": "cpe:/:xorp",
+	"pid": "16394",
+	"pname": "extensible open router platform",
+	"pcpe": "cpe:/a:xorp:extensible_open_router_platform"
 }

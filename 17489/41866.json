@@ -1,8 +1,8 @@
 {
-  "vid": "17489",
-  "vname": "Lava International Limited",
-  "vcpe": "cpe:/:lavamobiles",
-  "pid": "41866",
-  "pname": "Z61 ファームウェア",
-  "pcpe": "cpe:/o:lavamobiles:z61_firmware"
+	"vid": "17489",
+	"vname": "Lava International Limited",
+	"vcpe": "cpe:/:lavamobiles",
+	"pid": "41866",
+	"pname": "Z61 ファームウェア",
+	"pcpe": "cpe:/o:lavamobiles:z61_firmware"
 }

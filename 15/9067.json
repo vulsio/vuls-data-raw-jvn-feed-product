@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "9067",
-  "pname": "SPARC T4-1B",
-  "pcpe": "cpe:/h:oracle:sparc_t4-1b"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "9067",
+	"pname": "SPARC T4-1B",
+	"pcpe": "cpe:/h:oracle:sparc_t4-1b"
 }

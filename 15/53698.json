@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53698",
-  "pname": "Oracle ZFS Storage Application Integration Engineering Software",
-  "pcpe": "cpe:/a:oracle:zfs_storage_application_integration_engineering_software"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53698",
+	"pname": "Oracle ZFS Storage Application Integration Engineering Software",
+	"pcpe": "cpe:/a:oracle:zfs_storage_application_integration_engineering_software"
 }

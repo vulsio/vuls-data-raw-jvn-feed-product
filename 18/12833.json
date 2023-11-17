@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "12833",
-  "pname": "proventia network ips gx5008",
-  "pcpe": "cpe:/h:ibm:proventia_network_ips_gx5008"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "12833",
+	"pname": "proventia network ips gx5008",
+	"pcpe": "cpe:/h:ibm:proventia_network_ips_gx5008"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "490",
-  "vname": "Digium",
-  "vcpe": "cpe:/:digium",
-  "pid": "29978",
-  "pname": "Digium Addons",
-  "pcpe": "cpe:/a:digium:addons_module"
+	"vid": "490",
+	"vname": "Digium",
+	"vcpe": "cpe:/:digium",
+	"pid": "29978",
+	"pname": "Digium Addons",
+	"pcpe": "cpe:/a:digium:addons_module"
 }

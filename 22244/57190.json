@@ -1,8 +1,8 @@
 {
-  "vid": "22244",
-  "vname": "Appwrite",
-  "vcpe": "cpe:/:appwrite",
-  "pid": "57190",
-  "pname": "Appwrite",
-  "pcpe": "cpe:/a:appwrite:appwrite"
+	"vid": "22244",
+	"vname": "Appwrite",
+	"vcpe": "cpe:/:appwrite",
+	"pid": "57190",
+	"pname": "Appwrite",
+	"pcpe": "cpe:/a:appwrite:appwrite"
 }

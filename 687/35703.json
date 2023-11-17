@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "35703",
-  "pname": "TIBCO ActiveMatrix BusinessWorks Distribution for TIBCO Silver Fabric",
-  "pcpe": "cpe:/a:tibco:activematrix_businessworks_distribution_for_tibco_silver_fabric"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "35703",
+	"pname": "TIBCO ActiveMatrix BusinessWorks Distribution for TIBCO Silver Fabric",
+	"pcpe": "cpe:/a:tibco:activematrix_businessworks_distribution_for_tibco_silver_fabric"
 }

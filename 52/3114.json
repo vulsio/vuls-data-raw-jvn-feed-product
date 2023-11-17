@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "3114",
-  "pname": "AirMac (AirPort) ベースステーションファームウェア",
-  "pcpe": "cpe:/o:apple:airport_base_station_firmware"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "3114",
+	"pname": "AirMac (AirPort) ベースステーションファームウェア",
+	"pcpe": "cpe:/o:apple:airport_base_station_firmware"
 }

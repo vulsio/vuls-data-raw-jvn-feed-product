@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "20680",
-  "pname": "HP 8800 Firewall Processing Module",
-  "pcpe": "cpe:/h:hp:8800_firewall_processing_module"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "20680",
+	"pname": "HP 8800 Firewall Processing Module",
+	"pcpe": "cpe:/h:hp:8800_firewall_processing_module"
 }

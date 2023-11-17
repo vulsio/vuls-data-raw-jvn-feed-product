@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "2982",
-  "pname": "Identity Manager User Application",
-  "pcpe": "cpe:/a:novell:identity_manager_user_application"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "2982",
+	"pname": "Identity Manager User Application",
+	"pcpe": "cpe:/a:novell:identity_manager_user_application"
 }

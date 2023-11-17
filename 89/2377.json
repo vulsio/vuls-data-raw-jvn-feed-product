@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "2377",
-  "pname": "CapsSuite Small Edition PatchMeister",
-  "pcpe": "cpe:/a:nec:capssuite_small_edition_patchmeister"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "2377",
+	"pname": "CapsSuite Small Edition PatchMeister",
+	"pcpe": "cpe:/a:nec:capssuite_small_edition_patchmeister"
 }

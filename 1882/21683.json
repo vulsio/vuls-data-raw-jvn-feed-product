@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "21683",
-  "pname": "ZXHN H108L ファームウェア",
-  "pcpe": "cpe:/o:zte:zxhn_h108l_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "21683",
+	"pname": "ZXHN H108L ファームウェア",
+	"pcpe": "cpe:/o:zte:zxhn_h108l_firmware"
 }

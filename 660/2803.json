@@ -1,8 +1,8 @@
 {
-  "vid": "660",
-  "vname": "Imperva Inc.",
-  "vcpe": "cpe:/:imperva",
-  "pid": "2803",
-  "pname": "Imperva SecureSphere Database Firewall",
-  "pcpe": "cpe:/a:imperva:securesphere_database_firewall"
+	"vid": "660",
+	"vname": "Imperva Inc.",
+	"vcpe": "cpe:/:imperva",
+	"pid": "2803",
+	"pname": "Imperva SecureSphere Database Firewall",
+	"pcpe": "cpe:/a:imperva:securesphere_database_firewall"
 }

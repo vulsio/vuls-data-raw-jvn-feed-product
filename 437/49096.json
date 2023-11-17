@@ -1,8 +1,8 @@
 {
-  "vid": "437",
-  "vname": "ベリタス",
-  "vcpe": "cpe:/:veritas",
-  "pid": "49096",
-  "pname": "CloudPoint",
-  "pcpe": "cpe:/a:veritas:cloudpoint"
+	"vid": "437",
+	"vname": "ベリタス",
+	"vcpe": "cpe:/:veritas",
+	"pid": "49096",
+	"pname": "CloudPoint",
+	"pcpe": "cpe:/a:veritas:cloudpoint"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1808",
-  "vname": "GitHub",
-  "vcpe": "cpe:/:github",
-  "pid": "53258",
-  "pname": "Enterprise Server",
-  "pcpe": "cpe:/a:github:enterprise_server"
+	"vid": "1808",
+	"vname": "GitHub",
+	"vcpe": "cpe:/:github",
+	"pid": "53258",
+	"pname": "Enterprise Server",
+	"pcpe": "cpe:/a:github:enterprise_server"
 }

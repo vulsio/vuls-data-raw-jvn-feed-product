@@ -1,8 +1,8 @@
 {
-  "vid": "10136",
-  "vname": "PicsArt",
-  "vcpe": "cpe:/:picsart",
-  "pid": "21251",
-  "pname": "PicsArt - Photo Studio",
-  "pcpe": "cpe:/a:picsart:picsart_-_photo_studio"
+	"vid": "10136",
+	"vname": "PicsArt",
+	"vcpe": "cpe:/:picsart",
+	"pid": "21251",
+	"pname": "PicsArt - Photo Studio",
+	"pcpe": "cpe:/a:picsart:picsart_-_photo_studio"
 }

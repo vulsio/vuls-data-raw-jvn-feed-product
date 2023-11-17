@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7492",
-  "pname": "drupal project issue tracking",
-  "pcpe": "cpe:/a:drupal:drupal_project_issue_tracking"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7492",
+	"pname": "drupal project issue tracking",
+	"pcpe": "cpe:/a:drupal:drupal_project_issue_tracking"
 }

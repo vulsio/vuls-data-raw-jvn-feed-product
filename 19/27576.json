@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "27576",
-  "pname": "Cisco CloudCenter Orchestrator",
-  "pcpe": "cpe:/a:cisco:cloudcenter_orchestrator"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "27576",
+	"pname": "Cisco CloudCenter Orchestrator",
+	"pcpe": "cpe:/a:cisco:cloudcenter_orchestrator"
 }

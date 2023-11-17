@@ -1,8 +1,8 @@
 {
-  "vid": "11825",
-  "vname": "CHIYU Technology Co Ltd.",
-  "vcpe": "cpe:/:chiyutw",
-  "pid": "50808",
-  "pname": "BF-630 ファームウェア",
-  "pcpe": "cpe:/o:chiyutw:bf-630_firmware"
+	"vid": "11825",
+	"vname": "CHIYU Technology Co Ltd.",
+	"vcpe": "cpe:/:chiyutw",
+	"pid": "50808",
+	"pname": "BF-630 ファームウェア",
+	"pcpe": "cpe:/o:chiyutw:bf-630_firmware"
 }

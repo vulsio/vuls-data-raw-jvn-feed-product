@@ -1,8 +1,8 @@
 {
-  "vid": "24589",
-  "vname": "oringnet",
-  "vcpe": "cpe:/:oringnet",
-  "pid": "63743",
-  "pname": "iap-420+ ファームウェア",
-  "pcpe": "cpe:/o:oringnet:iap-420%2B_firmware"
+	"vid": "24589",
+	"vname": "oringnet",
+	"vcpe": "cpe:/:oringnet",
+	"pid": "63743",
+	"pname": "iap-420+ ファームウェア",
+	"pcpe": "cpe:/o:oringnet:iap-420%2B_firmware"
 }

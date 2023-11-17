@@ -1,8 +1,8 @@
 {
-  "vid": "728",
-  "vname": "TYPO3 Association",
-  "vcpe": "cpe:/:typo3",
-  "pid": "15676",
-  "pname": "mjseventpro",
-  "pcpe": "cpe:/a:typo3:mjseventpro"
+	"vid": "728",
+	"vname": "TYPO3 Association",
+	"vcpe": "cpe:/:typo3",
+	"pid": "15676",
+	"pname": "mjseventpro",
+	"pcpe": "cpe:/a:typo3:mjseventpro"
 }

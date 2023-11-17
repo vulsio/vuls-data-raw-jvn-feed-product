@@ -1,8 +1,8 @@
 {
-  "vid": "9111",
-  "vname": "Dahua Technology Co., Ltd",
-  "vcpe": "cpe:/:dahuasecurity",
-  "pid": "31225",
-  "pname": "NVR5464-4KS2 ファームウェア",
-  "pcpe": "cpe:/o:dahuasecurity:nvr5464-4ks2_firmware"
+	"vid": "9111",
+	"vname": "Dahua Technology Co., Ltd",
+	"vcpe": "cpe:/:dahuasecurity",
+	"pid": "31225",
+	"pname": "NVR5464-4KS2 ファームウェア",
+	"pcpe": "cpe:/o:dahuasecurity:nvr5464-4ks2_firmware"
 }

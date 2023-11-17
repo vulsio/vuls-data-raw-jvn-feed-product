@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "43719",
-  "pname": "X862 ファームウェア",
-  "pcpe": "cpe:/o:lexmark:x862_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "43719",
+	"pname": "X862 ファームウェア",
+	"pcpe": "cpe:/o:lexmark:x862_firmware"
 }

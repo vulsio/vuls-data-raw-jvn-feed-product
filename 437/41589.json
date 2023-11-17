@@ -1,8 +1,8 @@
 {
-  "vid": "437",
-  "vname": "ベリタス",
-  "vcpe": "cpe:/:veritas",
-  "pid": "41589",
-  "pname": "Veritas InfoScale",
-  "pcpe": "cpe:/a:veritas:infoscale"
+	"vid": "437",
+	"vname": "ベリタス",
+	"vcpe": "cpe:/:veritas",
+	"pid": "41589",
+	"pname": "Veritas InfoScale",
+	"pcpe": "cpe:/a:veritas:infoscale"
 }

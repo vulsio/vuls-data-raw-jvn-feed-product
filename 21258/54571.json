@@ -1,8 +1,8 @@
 {
-  "vid": "21258",
-  "vname": "Quobject",
-  "vcpe": "cpe:/:quobject",
-  "pid": "54571",
-  "pname": "docker-cli-js",
-  "pcpe": "cpe:/a:quobject:docker-cli-js"
+	"vid": "21258",
+	"vname": "Quobject",
+	"vcpe": "cpe:/:quobject",
+	"pid": "54571",
+	"pname": "docker-cli-js",
+	"pcpe": "cpe:/a:quobject:docker-cli-js"
 }

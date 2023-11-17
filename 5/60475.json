@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "60475",
-  "pname": "wcn7850 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:wcn7850_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "60475",
+	"pname": "wcn7850 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:wcn7850_firmware"
 }

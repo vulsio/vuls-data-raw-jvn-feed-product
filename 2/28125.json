@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "28125",
-  "pname": "Microsoft Lync for Mac",
-  "pcpe": "cpe:/a:microsoft:lync_for_mac"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "28125",
+	"pname": "Microsoft Lync for Mac",
+	"pcpe": "cpe:/a:microsoft:lync_for_mac"
 }

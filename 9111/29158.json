@@ -1,8 +1,8 @@
 {
-  "vid": "9111",
-  "vname": "Dahua Technology Co., Ltd",
-  "vcpe": "cpe:/:dahuasecurity",
-  "pid": "29158",
-  "pname": "DHI-HCVR58A32S-S2 ファームウェア",
-  "pcpe": "cpe:/o:dahuasecurity:dhi-hcvr58a32s-s2_firmware"
+	"vid": "9111",
+	"vname": "Dahua Technology Co., Ltd",
+	"vcpe": "cpe:/:dahuasecurity",
+	"pid": "29158",
+	"pname": "DHI-HCVR58A32S-S2 ファームウェア",
+	"pcpe": "cpe:/o:dahuasecurity:dhi-hcvr58a32s-s2_firmware"
 }

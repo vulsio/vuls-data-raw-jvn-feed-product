@@ -1,8 +1,8 @@
 {
-  "vid": "372",
-  "vname": "Nagios Enterprises, LLC",
-  "vcpe": "cpe:/:nagios",
-  "pid": "52125",
-  "pname": "Nagios XI WatchGuard Wizard",
-  "pcpe": "cpe:/a:nagios:nagios_xi_watchguard_wizard"
+	"vid": "372",
+	"vname": "Nagios Enterprises, LLC",
+	"vcpe": "cpe:/:nagios",
+	"pid": "52125",
+	"pname": "Nagios XI WatchGuard Wizard",
+	"pcpe": "cpe:/a:nagios:nagios_xi_watchguard_wizard"
 }

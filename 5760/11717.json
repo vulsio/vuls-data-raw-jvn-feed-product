@@ -1,8 +1,8 @@
 {
-  "vid": "5760",
-  "vname": "move networks inc",
-  "vcpe": "cpe:/:move_networks_inc",
-  "pid": "11717",
-  "pname": "qunatum streaming player",
-  "pcpe": "cpe:/a:move_networks_inc:qunatum_streaming_player"
+	"vid": "5760",
+	"vname": "move networks inc",
+	"vcpe": "cpe:/:move_networks_inc",
+	"pid": "11717",
+	"pname": "qunatum streaming player",
+	"pcpe": "cpe:/a:move_networks_inc:qunatum_streaming_player"
 }

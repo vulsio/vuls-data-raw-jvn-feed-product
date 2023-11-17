@@ -1,8 +1,8 @@
 {
-  "vid": "15983",
-  "vname": "HTTP Live Simulator project",
-  "vcpe": "cpe:/:http-live-simulator_project",
-  "pid": "37360",
-  "pname": "HTTP Live Simulator",
-  "pcpe": "cpe:/a:http-live-simulator_project:http-live-simulator"
+	"vid": "15983",
+	"vname": "HTTP Live Simulator project",
+	"vcpe": "cpe:/:http-live-simulator_project",
+	"pid": "37360",
+	"pname": "HTTP Live Simulator",
+	"pcpe": "cpe:/a:http-live-simulator_project:http-live-simulator"
 }

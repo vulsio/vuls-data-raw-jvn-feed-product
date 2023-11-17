@@ -1,8 +1,8 @@
 {
-  "vid": "10723",
-  "vname": "safari browser project",
-  "vcpe": "cpe:/:safari_browser_project",
-  "pid": "22248",
-  "pname": "safari browser",
-  "pcpe": "cpe:/a:safari_browser_project:safari_browser"
+	"vid": "10723",
+	"vname": "safari browser project",
+	"vcpe": "cpe:/:safari_browser_project",
+	"pid": "22248",
+	"pname": "safari browser",
+	"pcpe": "cpe:/a:safari_browser_project:safari_browser"
 }

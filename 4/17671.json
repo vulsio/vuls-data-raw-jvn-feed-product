@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17671",
-  "pname": "3COM Router",
-  "pcpe": "cpe:/h:hp:3com_router"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17671",
+	"pname": "3COM Router",
+	"pcpe": "cpe:/h:hp:3com_router"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12895",
-  "vname": "Koozali Foundation",
-  "vcpe": "cpe:/:koozali",
-  "pid": "29740",
-  "pname": "SME Server",
-  "pcpe": "cpe:/a:koozali:sme_server"
+	"vid": "12895",
+	"vname": "Koozali Foundation",
+	"vcpe": "cpe:/:koozali",
+	"pid": "29740",
+	"pname": "SME Server",
+	"pcpe": "cpe:/a:koozali:sme_server"
 }

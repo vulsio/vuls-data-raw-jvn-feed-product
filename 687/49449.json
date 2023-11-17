@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "49449",
-  "pname": "TIBCO BPM Enterprise Distribution for TIBCO Silver Fabric",
-  "pcpe": "cpe:/a:tibco:bpm_enterprise_distribution_for_silver_fabric"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "49449",
+	"pname": "TIBCO BPM Enterprise Distribution for TIBCO Silver Fabric",
+	"pcpe": "cpe:/a:tibco:bpm_enterprise_distribution_for_silver_fabric"
 }

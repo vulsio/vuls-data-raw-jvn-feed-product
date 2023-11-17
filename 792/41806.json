@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "41806",
-  "pname": "GS1900-24E ファームウェア",
-  "pcpe": "cpe:/o:zyxel:gs1900-24e_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "41806",
+	"pname": "GS1900-24E ファームウェア",
+	"pcpe": "cpe:/o:zyxel:gs1900-24e_firmware"
 }

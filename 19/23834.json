@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23834",
-  "pname": "Cisco Nexus 9372px スイッチ",
-  "pcpe": "cpe:/h:cisco:nexus_9372px"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23834",
+	"pname": "Cisco Nexus 9372px スイッチ",
+	"pcpe": "cpe:/h:cisco:nexus_9372px"
 }

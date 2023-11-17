@@ -1,8 +1,8 @@
 {
-  "vid": "13824",
-  "vname": "vncterm project",
-  "vcpe": "cpe:/:vncterm_project",
-  "pid": "32812",
-  "pname": "vncterm",
-  "pcpe": "cpe:/a:vncterm_project:vncterm"
+	"vid": "13824",
+	"vname": "vncterm project",
+	"vcpe": "cpe:/:vncterm_project",
+	"pid": "32812",
+	"pname": "vncterm",
+	"pcpe": "cpe:/a:vncterm_project:vncterm"
 }

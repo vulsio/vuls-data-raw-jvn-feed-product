@@ -1,8 +1,8 @@
 {
-  "vid": "660",
-  "vname": "Imperva Inc.",
-  "vcpe": "cpe:/:imperva",
-  "pid": "17642",
-  "pname": "Imperva SecureSphere",
-  "pcpe": "cpe:/a:imperva:securesphere"
+	"vid": "660",
+	"vname": "Imperva Inc.",
+	"vcpe": "cpe:/:imperva",
+	"pid": "17642",
+	"pname": "Imperva SecureSphere",
+	"pcpe": "cpe:/a:imperva:securesphere"
 }

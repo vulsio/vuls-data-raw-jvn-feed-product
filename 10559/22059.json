@@ -1,8 +1,8 @@
 {
-  "vid": "10559",
-  "vname": "ssfcu",
-  "vcpe": "cpe:/:ssfcu",
-  "pid": "22059",
-  "pname": "security service mybranch app",
-  "pcpe": "cpe:/a:ssfcu:security_service_mybranch_app"
+	"vid": "10559",
+	"vname": "ssfcu",
+	"vcpe": "cpe:/:ssfcu",
+	"pid": "22059",
+	"pname": "security service mybranch app",
+	"pcpe": "cpe:/a:ssfcu:security_service_mybranch_app"
 }

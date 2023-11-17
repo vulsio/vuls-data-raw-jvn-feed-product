@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2397",
-  "pname": "Richards-Zeta Mediator 2500",
-  "pcpe": "cpe:/h:cisco:richards-zeta_mediator_2500"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2397",
+	"pname": "Richards-Zeta Mediator 2500",
+	"pcpe": "cpe:/h:cisco:richards-zeta_mediator_2500"
 }

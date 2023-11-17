@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "39468",
-  "pname": "Cisco SF200-24 ファームウェア",
-  "pcpe": "cpe:/o:cisco:sf200-24_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "39468",
+	"pname": "Cisco SF200-24 ファームウェア",
+	"pcpe": "cpe:/o:cisco:sf200-24_firmware"
 }

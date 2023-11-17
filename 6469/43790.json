@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "43790",
-  "pname": "TC ROUTER 3002T-4G ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:tc_router_3002t-4g_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "43790",
+	"pname": "TC ROUTER 3002T-4G ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:tc_router_3002t-4g_firmware"
 }

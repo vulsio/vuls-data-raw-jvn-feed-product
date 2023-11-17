@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "25689",
-  "pname": "1769-L23E-QBFC1B",
-  "pcpe": "cpe:/h:rockwellautomation:compactlogix_1769-l23e-qbfc1b"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "25689",
+	"pname": "1769-L23E-QBFC1B",
+	"pcpe": "cpe:/h:rockwellautomation:compactlogix_1769-l23e-qbfc1b"
 }

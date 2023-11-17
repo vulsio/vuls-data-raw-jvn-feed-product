@@ -1,8 +1,8 @@
 {
-  "vid": "2393",
-  "vname": "AVAST Software s.r.o.",
-  "vcpe": "cpe:/:avast",
-  "pid": "27133",
-  "pname": "Avast Internet Security",
-  "pcpe": "cpe:/a:avast:internet_security"
+	"vid": "2393",
+	"vname": "AVAST Software s.r.o.",
+	"vcpe": "cpe:/:avast",
+	"pid": "27133",
+	"pname": "Avast Internet Security",
+	"pcpe": "cpe:/a:avast:internet_security"
 }

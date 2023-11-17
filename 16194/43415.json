@@ -1,8 +1,8 @@
 {
-  "vid": "16194",
-  "vname": "Digi International Inc.",
-  "vcpe": "cpe:/:digi",
-  "pid": "43415",
-  "pname": "ConnectPort LTS 32 MEI ファームウェア",
-  "pcpe": "cpe:/o:digi:connectport_lts_32_mei_firmware"
+	"vid": "16194",
+	"vname": "Digi International Inc.",
+	"vcpe": "cpe:/:digi",
+	"pid": "43415",
+	"pname": "ConnectPort LTS 32 MEI ファームウェア",
+	"pcpe": "cpe:/o:digi:connectport_lts_32_mei_firmware"
 }

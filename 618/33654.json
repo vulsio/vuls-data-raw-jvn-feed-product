@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "33654",
-  "pname": "WebAccess Scada Node",
-  "pcpe": "cpe:/a:advantech:webaccess_scada"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "33654",
+	"pname": "WebAccess Scada Node",
+	"pcpe": "cpe:/a:advantech:webaccess_scada"
 }

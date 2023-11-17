@@ -1,8 +1,8 @@
 {
-  "vid": "16620",
-  "vname": "Perl Crypt::JWT project",
-  "vcpe": "cpe:/:perl_crypt%3a%3ajwt_project",
-  "pid": "39598",
-  "pname": "Perl Crypt::JWT",
-  "pcpe": "cpe:/a:perl_crypt%3a%3ajwt_project:perl_crypt%3a%3ajwt"
+	"vid": "16620",
+	"vname": "Perl Crypt::JWT project",
+	"vcpe": "cpe:/:perl_crypt%3a%3ajwt_project",
+	"pid": "39598",
+	"pname": "Perl Crypt::JWT",
+	"pcpe": "cpe:/a:perl_crypt%3a%3ajwt_project:perl_crypt%3a%3ajwt"
 }

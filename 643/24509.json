@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "24509",
-  "pname": "Precision Mobile Workstation M4600",
-  "pcpe": "cpe:/h:dell:precision_mobile_workstation_m4600"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "24509",
+	"pname": "Precision Mobile Workstation M4600",
+	"pcpe": "cpe:/h:dell:precision_mobile_workstation_m4600"
 }

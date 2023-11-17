@@ -1,8 +1,8 @@
 {
-  "vid": "11752",
-  "vname": "inLinks Integration project",
-  "vcpe": "cpe:/:inlinks_project",
-  "pid": "24264",
-  "pname": "inLinks Integration",
-  "pcpe": "cpe:/a:inlinks_project:inlinks"
+	"vid": "11752",
+	"vname": "inLinks Integration project",
+	"vcpe": "cpe:/:inlinks_project",
+	"pid": "24264",
+	"pname": "inLinks Integration",
+	"pcpe": "cpe:/a:inlinks_project:inlinks"
 }

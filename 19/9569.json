@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "9569",
-  "pname": "Cisco IPS 4260",
-  "pcpe": "cpe:/h:cisco:ips_4260"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "9569",
+	"pname": "Cisco IPS 4260",
+	"pcpe": "cpe:/h:cisco:ips_4260"
 }

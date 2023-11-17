@@ -1,8 +1,8 @@
 {
-  "vid": "13167",
-  "vname": "dasinfomedia",
-  "vcpe": "cpe:/:dasinfomedia",
-  "pid": "30724",
-  "pname": "WPAMS - Apartment Management System",
-  "pcpe": "cpe:/a:dasinfomedia:wpams_apartment_management_system"
+	"vid": "13167",
+	"vname": "dasinfomedia",
+	"vcpe": "cpe:/:dasinfomedia",
+	"pid": "30724",
+	"pname": "WPAMS - Apartment Management System",
+	"pcpe": "cpe:/a:dasinfomedia:wpams_apartment_management_system"
 }

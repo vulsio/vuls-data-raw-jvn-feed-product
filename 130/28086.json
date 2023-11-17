@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "28086",
-  "pname": "Intel Core i7-2620QM",
-  "pcpe": "cpe:/h:intel:core_i7-2620qm"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "28086",
+	"pname": "Intel Core i7-2620QM",
+	"pcpe": "cpe:/h:intel:core_i7-2620qm"
 }

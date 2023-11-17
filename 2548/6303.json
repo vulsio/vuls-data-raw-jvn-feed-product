@@ -1,8 +1,8 @@
 {
-  "vid": "2548",
-  "vname": "bkleineidam",
-  "vcpe": "cpe:/:bkleineidam",
-  "pid": "6303",
-  "pname": "libpam mount",
-  "pcpe": "cpe:/a:bkleineidam:libpam_mount"
+	"vid": "2548",
+	"vname": "bkleineidam",
+	"vcpe": "cpe:/:bkleineidam",
+	"pid": "6303",
+	"pname": "libpam mount",
+	"pcpe": "cpe:/a:bkleineidam:libpam_mount"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30227",
-  "pname": "Lenovo M4550 ID ファームウェア",
-  "pcpe": "cpe:/o:lenovo:m4550_id_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30227",
+	"pname": "Lenovo M4550 ID ファームウェア",
+	"pcpe": "cpe:/o:lenovo:m4550_id_firmware"
 }

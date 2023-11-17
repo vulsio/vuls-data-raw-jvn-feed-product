@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "63125",
-  "pname": "zxa10 b836ct-a15 ファームウェア",
-  "pcpe": "cpe:/o:zte:zxa10_b836ct-a15_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "63125",
+	"pname": "zxa10 b836ct-a15 ファームウェア",
+	"pcpe": "cpe:/o:zte:zxa10_b836ct-a15_firmware"
 }

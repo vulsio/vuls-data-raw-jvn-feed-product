@@ -1,8 +1,8 @@
 {
-  "vid": "13107",
-  "vname": "Intelbras",
-  "vcpe": "cpe:/:intelbras",
-  "pid": "44712",
-  "pname": "Action RF 1200 ファームウェア",
-  "pcpe": "cpe:/o:intelbras:action_rf_1200_firmware"
+	"vid": "13107",
+	"vname": "Intelbras",
+	"vcpe": "cpe:/:intelbras",
+	"pid": "44712",
+	"pname": "Action RF 1200 ファームウェア",
+	"pcpe": "cpe:/o:intelbras:action_rf_1200_firmware"
 }

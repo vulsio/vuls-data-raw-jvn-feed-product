@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "53554",
-  "pname": "DS-2CD2326G2-ISU/SL ファームウェア",
-  "pcpe": "cpe:/o:hikvision:ds-2cd2326g2-isu%2fsl_firmware"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "53554",
+	"pname": "DS-2CD2326G2-ISU/SL ファームウェア",
+	"pcpe": "cpe:/o:hikvision:ds-2cd2326g2-isu%2fsl_firmware"
 }

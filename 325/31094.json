@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "31094",
-  "pname": "Lenovo AIO E95 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:aio_e95_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "31094",
+	"pname": "Lenovo AIO E95 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:aio_e95_firmware"
 }

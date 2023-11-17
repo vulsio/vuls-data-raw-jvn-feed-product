@@ -1,8 +1,8 @@
 {
-  "vid": "7255",
-  "vname": "Realtek Semiconductor Corp",
-  "vcpe": "cpe:/:realtek",
-  "pid": "45512",
-  "pname": "RTL8195AM ファームウェア",
-  "pcpe": "cpe:/o:realtek:rtl8195am_firmware"
+	"vid": "7255",
+	"vname": "Realtek Semiconductor Corp",
+	"vcpe": "cpe:/:realtek",
+	"pid": "45512",
+	"pname": "RTL8195AM ファームウェア",
+	"pcpe": "cpe:/o:realtek:rtl8195am_firmware"
 }

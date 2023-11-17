@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "26957",
-  "pname": "Apache ActiveMQ Artemis",
-  "pcpe": "cpe:/a:apache:activemq_artemis"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "26957",
+	"pname": "Apache ActiveMQ Artemis",
+	"pcpe": "cpe:/a:apache:activemq_artemis"
 }

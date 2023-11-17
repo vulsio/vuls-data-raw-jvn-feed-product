@@ -1,8 +1,8 @@
 {
-  "vid": "23782",
-  "vname": "goldshell",
-  "vcpe": "cpe:/:goldshell",
-  "pid": "61509",
-  "pname": "goldshell miner ファームウェア",
-  "pcpe": "cpe:/o:goldshell:goldshell_miner_firmware"
+	"vid": "23782",
+	"vname": "goldshell",
+	"vcpe": "cpe:/:goldshell",
+	"pid": "61509",
+	"pname": "goldshell miner ファームウェア",
+	"pcpe": "cpe:/o:goldshell:goldshell_miner_firmware"
 }

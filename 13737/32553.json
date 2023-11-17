@@ -1,8 +1,8 @@
 {
-  "vid": "13737",
-  "vname": "CW Joomla",
-  "vcpe": "cpe:/:cwjoomla",
-  "pid": "32553",
-  "pname": "CW Tags",
-  "pcpe": "cpe:/a:cwjoomla:cw_tags"
+	"vid": "13737",
+	"vname": "CW Joomla",
+	"vcpe": "cpe:/:cwjoomla",
+	"pid": "32553",
+	"pname": "CW Tags",
+	"pcpe": "cpe:/a:cwjoomla:cw_tags"
 }

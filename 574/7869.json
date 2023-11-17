@@ -1,8 +1,8 @@
 {
-  "vid": "574",
-  "vname": "ESET",
-  "vcpe": "cpe:/:eset",
-  "pid": "7869",
-  "pname": "system analyzer tool",
-  "pcpe": "cpe:/a:eset:system_analyzer_tool"
+	"vid": "574",
+	"vname": "ESET",
+	"vcpe": "cpe:/:eset",
+	"pid": "7869",
+	"pname": "system analyzer tool",
+	"pcpe": "cpe:/a:eset:system_analyzer_tool"
 }

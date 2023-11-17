@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "40040",
-  "pname": "SCALANCE SC-600 ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_sc-600_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "40040",
+	"pname": "SCALANCE SC-600 ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_sc-600_firmware"
 }

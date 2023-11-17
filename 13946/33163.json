@@ -1,8 +1,8 @@
 {
-  "vid": "13946",
-  "vname": "libevt project",
-  "vcpe": "cpe:/:libevt_project",
-  "pid": "33163",
-  "pname": "libevt",
-  "pcpe": "cpe:/a:libevt_project:libevt"
+	"vid": "13946",
+	"vname": "libevt project",
+	"vcpe": "cpe:/:libevt_project",
+	"pid": "33163",
+	"pname": "libevt",
+	"pcpe": "cpe:/a:libevt_project:libevt"
 }

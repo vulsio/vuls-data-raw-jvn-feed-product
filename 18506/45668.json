@@ -1,8 +1,8 @@
 {
-  "vid": "18506",
-  "vname": "UFACTORY",
-  "vcpe": "cpe:/:ufactory",
-  "pid": "45668",
-  "pname": "XARM 6 ファームウェア",
-  "pcpe": "cpe:/o:ufactory:xarm_6_firmware"
+	"vid": "18506",
+	"vname": "UFACTORY",
+	"vcpe": "cpe:/:ufactory",
+	"pid": "45668",
+	"pname": "XARM 6 ファームウェア",
+	"pcpe": "cpe:/o:ufactory:xarm_6_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19613",
-  "vname": "raw-cpuid project",
-  "vcpe": "cpe:/:raw-cpuid_project",
-  "pid": "49460",
-  "pname": "raw-cpuid",
-  "pcpe": "cpe:/a:raw-cpuid_project:raw-cpuid"
+	"vid": "19613",
+	"vname": "raw-cpuid project",
+	"vcpe": "cpe:/:raw-cpuid_project",
+	"pid": "49460",
+	"pname": "raw-cpuid",
+	"pcpe": "cpe:/a:raw-cpuid_project:raw-cpuid"
 }

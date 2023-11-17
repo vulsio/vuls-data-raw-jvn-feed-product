@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "19891",
-  "pname": "Wireless N300 NetUSB Router NBG-419N ファームウェア",
-  "pcpe": "cpe:/o:zyxel:n300_netusb_nbg-419n_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "19891",
+	"pname": "Wireless N300 NetUSB Router NBG-419N ファームウェア",
+	"pcpe": "cpe:/o:zyxel:n300_netusb_nbg-419n_firmware"
 }

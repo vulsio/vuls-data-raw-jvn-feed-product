@@ -1,8 +1,8 @@
 {
-  "vid": "16066",
-  "vname": "IRIS Network",
-  "vcpe": "cpe:/:irisnet",
-  "pid": "37617",
-  "pname": "irisnet-crypto",
-  "pcpe": "cpe:/a:irisnet:irisnet-crypto"
+	"vid": "16066",
+	"vname": "IRIS Network",
+	"vcpe": "cpe:/:irisnet",
+	"pid": "37617",
+	"pname": "irisnet-crypto",
+	"pcpe": "cpe:/a:irisnet:irisnet-crypto"
 }

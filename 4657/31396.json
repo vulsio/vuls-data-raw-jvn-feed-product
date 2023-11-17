@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31396",
-  "pname": "ViewPoint 9030 ファームウェア",
-  "pcpe": "cpe:/o:huawei:viewpoint_9030_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31396",
+	"pname": "ViewPoint 9030 ファームウェア",
+	"pcpe": "cpe:/o:huawei:viewpoint_9030_firmware"
 }

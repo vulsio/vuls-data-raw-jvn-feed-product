@@ -1,8 +1,8 @@
 {
-  "vid": "23382",
-  "vname": "JivoChat",
-  "vcpe": "cpe:/:jivochat",
-  "pid": "60626",
-  "pname": "JivoChat",
-  "pcpe": "cpe:/a:jivochat:jivochat"
+	"vid": "23382",
+	"vname": "JivoChat",
+	"vcpe": "cpe:/:jivochat",
+	"pid": "60626",
+	"pname": "JivoChat",
+	"pcpe": "cpe:/a:jivochat:jivochat"
 }

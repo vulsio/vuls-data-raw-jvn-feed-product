@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47903",
-  "pname": "PeopleSoft Enterprise FIN Payables",
-  "pcpe": "cpe:/a:oracle:peoplesoft_enterprise_fin_payables"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47903",
+	"pname": "PeopleSoft Enterprise FIN Payables",
+	"pcpe": "cpe:/a:oracle:peoplesoft_enterprise_fin_payables"
 }

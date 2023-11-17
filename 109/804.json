@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "804",
-  "pname": "IP-PBX IP MEDIASERVE",
-  "pcpe": "cpe:/h:fujitsu:ip-pbx_ip_mediaserve"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "804",
+	"pname": "IP-PBX IP MEDIASERVE",
+	"pcpe": "cpe:/h:fujitsu:ip-pbx_ip_mediaserve"
 }

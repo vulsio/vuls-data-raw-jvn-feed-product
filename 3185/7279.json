@@ -1,8 +1,8 @@
 {
-  "vid": "3185",
-  "vname": "deskshare",
-  "vcpe": "cpe:/:deskshare",
-  "pid": "7279",
-  "pname": "auto ftp manager",
-  "pcpe": "cpe:/a:deskshare:auto_ftp_manager"
+	"vid": "3185",
+	"vname": "deskshare",
+	"vcpe": "cpe:/:deskshare",
+	"pid": "7279",
+	"pname": "auto ftp manager",
+	"pcpe": "cpe:/a:deskshare:auto_ftp_manager"
 }

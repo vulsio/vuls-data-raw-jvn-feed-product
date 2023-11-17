@@ -1,8 +1,8 @@
 {
-  "vid": "891",
-  "vname": "osCommerce",
-  "vcpe": "cpe:/:oscommerce",
-  "pid": "12375",
-  "pname": "poll booth",
-  "pcpe": "cpe:/a:oscommerce:poll_booth"
+	"vid": "891",
+	"vname": "osCommerce",
+	"vcpe": "cpe:/:oscommerce",
+	"pid": "12375",
+	"pname": "poll booth",
+	"pcpe": "cpe:/a:oscommerce:poll_booth"
 }

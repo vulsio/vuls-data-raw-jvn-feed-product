@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "49771",
-  "pname": "courier-authlib",
-  "pcpe": "cpe:/a:debian:courier-authlib"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "49771",
+	"pname": "courier-authlib",
+	"pcpe": "cpe:/a:debian:courier-authlib"
 }

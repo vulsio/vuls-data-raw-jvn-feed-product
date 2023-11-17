@@ -1,8 +1,8 @@
 {
-  "vid": "16578",
-  "vname": "Zipios project",
-  "vcpe": "cpe:/:zipios_project",
-  "pid": "39483",
-  "pname": "Zipios",
-  "pcpe": "cpe:/a:zipios_project:zipios"
+	"vid": "16578",
+	"vname": "Zipios project",
+	"vcpe": "cpe:/:zipios_project",
+	"pid": "39483",
+	"pname": "Zipios",
+	"pcpe": "cpe:/a:zipios_project:zipios"
 }

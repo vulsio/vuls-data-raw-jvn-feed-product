@@ -1,8 +1,8 @@
 {
-  "vid": "1304",
-  "vname": "カスペルスキー",
-  "vcpe": "cpe:/:kaspersky",
-  "pid": "10746",
-  "pname": "kaspersky anti-spam",
-  "pcpe": "cpe:/a:kaspersky:kaspersky_anti-spam"
+	"vid": "1304",
+	"vname": "カスペルスキー",
+	"vcpe": "cpe:/:kaspersky",
+	"pid": "10746",
+	"pname": "kaspersky anti-spam",
+	"pcpe": "cpe:/a:kaspersky:kaspersky_anti-spam"
 }

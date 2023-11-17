@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "26782",
-  "pname": "OnCommand System Manager",
-  "pcpe": "cpe:/a:netapp:oncommand_system_manager"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "26782",
+	"pname": "OnCommand System Manager",
+	"pcpe": "cpe:/a:netapp:oncommand_system_manager"
 }

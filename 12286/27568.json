@@ -1,8 +1,8 @@
 {
-  "vid": "12286",
-  "vname": "python-openxml",
-  "vcpe": "cpe:/:python-openxml",
-  "pid": "27568",
-  "pname": "python-docx",
-  "pcpe": "cpe:/a:python-openxml:python-docx"
+	"vid": "12286",
+	"vname": "python-openxml",
+	"vcpe": "cpe:/:python-openxml",
+	"pid": "27568",
+	"pname": "python-docx",
+	"pcpe": "cpe:/a:python-openxml:python-docx"
 }

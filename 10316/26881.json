@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "26881",
-  "pname": "Pivotal Cloud Foundry Elastic Runtime",
-  "pcpe": "cpe:/a:greenplum:cloud_foundry_elastic_runtime"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "26881",
+	"pname": "Pivotal Cloud Foundry Elastic Runtime",
+	"pcpe": "cpe:/a:greenplum:cloud_foundry_elastic_runtime"
 }

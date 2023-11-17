@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63640",
-  "pname": "6gk5632-2gs00-2ac2 ファームウェア",
-  "pcpe": "cpe:/o:siemens:6gk5632-2gs00-2ac2_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63640",
+	"pname": "6gk5632-2gs00-2ac2 ファームウェア",
+	"pcpe": "cpe:/o:siemens:6gk5632-2gs00-2ac2_firmware"
 }

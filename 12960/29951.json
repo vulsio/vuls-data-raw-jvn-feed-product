@@ -1,8 +1,8 @@
 {
-  "vid": "12960",
-  "vname": "Papendorf Software Engineering GmbH",
-  "vcpe": "cpe:/:sol-connect",
-  "pid": "29951",
-  "pname": "SOL.Connect ISET-mpp meter ファームウェア",
-  "pcpe": "cpe:/o:sol-connect:sol.connect_iset-mpp_meter_firmware"
+	"vid": "12960",
+	"vname": "Papendorf Software Engineering GmbH",
+	"vcpe": "cpe:/:sol-connect",
+	"pid": "29951",
+	"pname": "SOL.Connect ISET-mpp meter ファームウェア",
+	"pcpe": "cpe:/o:sol-connect:sol.connect_iset-mpp_meter_firmware"
 }

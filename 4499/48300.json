@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "48300",
-  "pname": "G-50-W",
-  "pcpe": "cpe:/o:mitsubishielectric:g-50-w"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "48300",
+	"pname": "G-50-W",
+	"pcpe": "cpe:/o:mitsubishielectric:g-50-w"
 }

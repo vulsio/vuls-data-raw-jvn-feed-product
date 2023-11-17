@@ -1,8 +1,8 @@
 {
-  "vid": "6646",
-  "vname": "Sinapsi",
-  "vcpe": "cpe:/:sinapsi",
-  "pid": "13327",
-  "pname": "eSolar",
-  "pcpe": "cpe:/h:sinapsi:esolar_photovoltaic_system_monitor"
+	"vid": "6646",
+	"vname": "Sinapsi",
+	"vcpe": "cpe:/:sinapsi",
+	"pid": "13327",
+	"pname": "eSolar",
+	"pcpe": "cpe:/h:sinapsi:esolar_photovoltaic_system_monitor"
 }

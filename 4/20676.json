@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "20676",
-  "pname": "HP 10500/7500 Advanced VPN Firewall Module",
-  "pcpe": "cpe:/h:hp:10500%2F7500_advanced_vpn_firewall_module"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "20676",
+	"pname": "HP 10500/7500 Advanced VPN Firewall Module",
+	"pcpe": "cpe:/h:hp:10500%2F7500_advanced_vpn_firewall_module"
 }

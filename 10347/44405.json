@@ -1,8 +1,8 @@
 {
-  "vid": "10347",
-  "vname": "Subex Limited",
-  "vcpe": "cpe:/:subex",
-  "pid": "44405",
-  "pname": "ROC Partner Settlement",
-  "pcpe": "cpe:/a:subex:roc_partner_settlement"
+	"vid": "10347",
+	"vname": "Subex Limited",
+	"vcpe": "cpe:/:subex",
+	"pid": "44405",
+	"pname": "ROC Partner Settlement",
+	"pcpe": "cpe:/a:subex:roc_partner_settlement"
 }

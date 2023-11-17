@@ -1,8 +1,8 @@
 {
-  "vid": "4354",
-  "vname": "T-Mobile",
-  "vcpe": "cpe:/:t-mobile",
-  "pid": "15264",
-  "pname": "voice mail systems",
-  "pcpe": "cpe:/a:t-mobile:voice_mail_systems"
+	"vid": "4354",
+	"vname": "T-Mobile",
+	"vcpe": "cpe:/:t-mobile",
+	"pid": "15264",
+	"pname": "voice mail systems",
+	"pcpe": "cpe:/a:t-mobile:voice_mail_systems"
 }

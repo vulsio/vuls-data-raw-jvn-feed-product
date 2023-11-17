@@ -1,8 +1,8 @@
 {
-  "vid": "22837",
-  "vname": "ViitorCloud",
-  "vcpe": "cpe:/:viitorcloud",
-  "pid": "58789",
-  "pname": "Add Subtitle",
-  "pcpe": "cpe:/a:viitorcloud:add_subtitle"
+	"vid": "22837",
+	"vname": "ViitorCloud",
+	"vcpe": "cpe:/:viitorcloud",
+	"pid": "58789",
+	"pname": "Add Subtitle",
+	"pcpe": "cpe:/a:viitorcloud:add_subtitle"
 }

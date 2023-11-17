@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "18075",
-  "pname": "Precision M4300",
-  "pcpe": "cpe:/h:dell:precision_m4300"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "18075",
+	"pname": "Precision M4300",
+	"pcpe": "cpe:/h:dell:precision_m4300"
 }

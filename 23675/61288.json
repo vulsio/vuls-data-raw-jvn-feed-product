@@ -1,8 +1,8 @@
 {
-  "vid": "23675",
-  "vname": "ytdl-sync project",
-  "vcpe": "cpe:/:ytdl-sync_project",
-  "pid": "61288",
-  "pname": "ytdl-sync",
-  "pcpe": "cpe:/a:ytdl-sync_project:ytdl-sync"
+	"vid": "23675",
+	"vname": "ytdl-sync project",
+	"vcpe": "cpe:/:ytdl-sync_project",
+	"pid": "61288",
+	"pname": "ytdl-sync",
+	"pcpe": "cpe:/a:ytdl-sync_project:ytdl-sync"
 }

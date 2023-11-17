@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "31398",
-  "pname": "Spring AMQP",
-  "pcpe": "cpe:/a:greenplum:spring_advanced_message_queuing_protocol"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "31398",
+	"pname": "Spring AMQP",
+	"pcpe": "cpe:/a:greenplum:spring_advanced_message_queuing_protocol"
 }

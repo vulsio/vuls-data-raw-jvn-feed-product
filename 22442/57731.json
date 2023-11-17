@@ -1,8 +1,8 @@
 {
-  "vid": "22442",
-  "vname": "softinventive",
-  "vcpe": "cpe:/:softinventive",
-  "pid": "57731",
-  "pname": "network olympus",
-  "pcpe": "cpe:/a:softinventive:network_olympus"
+	"vid": "22442",
+	"vname": "softinventive",
+	"vcpe": "cpe:/:softinventive",
+	"pid": "57731",
+	"pname": "network olympus",
+	"pcpe": "cpe:/a:softinventive:network_olympus"
 }

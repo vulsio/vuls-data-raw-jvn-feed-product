@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "45470",
-  "pname": "M_CommDTM-HART",
-  "pcpe": "cpe:/a:mitsubishielectric:m_commdtm-hart"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "45470",
+	"pname": "M_CommDTM-HART",
+	"pcpe": "cpe:/a:mitsubishielectric:m_commdtm-hart"
 }

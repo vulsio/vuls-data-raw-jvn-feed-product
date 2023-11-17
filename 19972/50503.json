@@ -1,8 +1,8 @@
 {
-  "vid": "19972",
-  "vname": "AVE S.p.A.",
-  "vcpe": "cpe:/:ave",
-  "pid": "50503",
-  "pname": "TS01 ファームウェア",
-  "pcpe": "cpe:/o:ave:ts01_firmware"
+	"vid": "19972",
+	"vname": "AVE S.p.A.",
+	"vcpe": "cpe:/:ave",
+	"pid": "50503",
+	"pname": "TS01 ファームウェア",
+	"pcpe": "cpe:/o:ave:ts01_firmware"
 }

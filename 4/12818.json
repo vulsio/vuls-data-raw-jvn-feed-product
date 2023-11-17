@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12818",
-  "pname": "storageworks msl4048 tape library",
-  "pcpe": "cpe:/h:hp:storageworks_msl4048_tape_library"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12818",
+	"pname": "storageworks msl4048 tape library",
+	"pcpe": "cpe:/h:hp:storageworks_msl4048_tape_library"
 }

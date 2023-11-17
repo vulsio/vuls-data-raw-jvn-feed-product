@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "62030",
-  "pname": "IBM Watson Knowledge Catalog on Cloud Pak for Data",
-  "pcpe": "cpe:/a:ibm:watson_knowledge_catalog_on_cloud_pak_for_data"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "62030",
+	"pname": "IBM Watson Knowledge Catalog on Cloud Pak for Data",
+	"pcpe": "cpe:/a:ibm:watson_knowledge_catalog_on_cloud_pak_for_data"
 }

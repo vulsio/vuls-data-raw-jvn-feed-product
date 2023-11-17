@@ -1,8 +1,8 @@
 {
-  "vid": "10581",
-  "vname": "dcu",
-  "vcpe": "cpe:/:dcu",
-  "pid": "22083",
-  "pname": "dcu mobile banking",
-  "pcpe": "cpe:/a:dcu:dcu_mobile_banking"
+	"vid": "10581",
+	"vname": "dcu",
+	"vcpe": "cpe:/:dcu",
+	"pid": "22083",
+	"pname": "dcu mobile banking",
+	"pcpe": "cpe:/a:dcu:dcu_mobile_banking"
 }

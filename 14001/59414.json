@@ -1,8 +1,8 @@
 {
-  "vid": "14001",
-  "vname": "Caldera Labs",
-  "vcpe": "cpe:/:calderaforms",
-  "pid": "59414",
-  "pname": "CalderaWP License Manager",
-  "pcpe": "cpe:/a:calderaforms:calderawp_license_manager"
+	"vid": "14001",
+	"vname": "Caldera Labs",
+	"vcpe": "cpe:/:calderaforms",
+	"pid": "59414",
+	"pname": "CalderaWP License Manager",
+	"pcpe": "cpe:/a:calderaforms:calderawp_license_manager"
 }

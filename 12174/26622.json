@@ -1,8 +1,8 @@
 {
-  "vid": "12174",
-  "vname": "Cavium",
-  "vcpe": "cpe:/:cavium",
-  "pid": "26622",
-  "pname": "OCTEON II CN6870",
-  "pcpe": "cpe:/h:cavium:octeon_ii_cn6870"
+	"vid": "12174",
+	"vname": "Cavium",
+	"vcpe": "cpe:/:cavium",
+	"pid": "26622",
+	"pname": "OCTEON II CN6870",
+	"pcpe": "cpe:/h:cavium:octeon_ii_cn6870"
 }

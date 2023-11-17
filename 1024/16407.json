@@ -1,8 +1,8 @@
 {
-  "vid": "1024",
-  "vname": "xt:Commerce",
-  "vcpe": "cpe:/:xt-commerce",
-  "pid": "16407",
-  "pname": "xt-commerce community made shopping",
-  "pcpe": "cpe:/a:xt-commerce:xt-commerce_community_made_shopping"
+	"vid": "1024",
+	"vname": "xt:Commerce",
+	"vcpe": "cpe:/:xt-commerce",
+	"pid": "16407",
+	"pname": "xt-commerce community made shopping",
+	"pcpe": "cpe:/a:xt-commerce:xt-commerce_community_made_shopping"
 }

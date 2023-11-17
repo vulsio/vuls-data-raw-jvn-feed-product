@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "63457",
-  "pname": "alienware m17 r2 ファームウェア",
-  "pcpe": "cpe:/o:dell:alienware_m17_r2_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "63457",
+	"pname": "alienware m17 r2 ファームウェア",
+	"pcpe": "cpe:/o:dell:alienware_m17_r2_firmware"
 }

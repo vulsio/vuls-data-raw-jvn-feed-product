@@ -1,8 +1,8 @@
 {
-  "vid": "7480",
-  "vname": "scriptmate",
-  "vcpe": "cpe:/:scriptmate",
-  "pid": "14581",
-  "pname": "user manager",
-  "pcpe": "cpe:/a:scriptmate:user_manager"
+	"vid": "7480",
+	"vname": "scriptmate",
+	"vcpe": "cpe:/:scriptmate",
+	"pid": "14581",
+	"pname": "user manager",
+	"pcpe": "cpe:/a:scriptmate:user_manager"
 }

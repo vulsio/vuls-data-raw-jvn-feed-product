@@ -1,8 +1,8 @@
 {
-  "vid": "3753",
-  "vname": "focusdev",
-  "vcpe": "cpe:/:focusdev",
-  "pid": "8124",
-  "pname": "com mv restaurantmenumanager",
-  "pcpe": "cpe:/a:focusdev:com_mv_restaurantmenumanager"
+	"vid": "3753",
+	"vname": "focusdev",
+	"vcpe": "cpe:/:focusdev",
+	"pid": "8124",
+	"pname": "com mv restaurantmenumanager",
+	"pcpe": "cpe:/a:focusdev:com_mv_restaurantmenumanager"
 }

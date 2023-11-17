@@ -1,8 +1,8 @@
 {
-  "vid": "16194",
-  "vname": "Digi International Inc.",
-  "vcpe": "cpe:/:digi",
-  "pid": "54693",
-  "pname": "TransPort SR44 ファームウェア",
-  "pcpe": "cpe:/o:digi:transport_sr44_firmware"
+	"vid": "16194",
+	"vname": "Digi International Inc.",
+	"vcpe": "cpe:/:digi",
+	"pid": "54693",
+	"pname": "TransPort SR44 ファームウェア",
+	"pcpe": "cpe:/o:digi:transport_sr44_firmware"
 }

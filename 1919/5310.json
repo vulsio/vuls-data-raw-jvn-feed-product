@@ -1,8 +1,8 @@
 {
-  "vid": "1919",
-  "vname": "ARM Ltd. (旧 Offspark)",
-  "vcpe": "cpe:/:polarssl",
-  "pid": "5310",
-  "pname": "PolarSSL",
-  "pcpe": "cpe:/a:polarssl:polarssl"
+	"vid": "1919",
+	"vname": "ARM Ltd. (旧 Offspark)",
+	"vcpe": "cpe:/:polarssl",
+	"pid": "5310",
+	"pname": "PolarSSL",
+	"pcpe": "cpe:/a:polarssl:polarssl"
 }

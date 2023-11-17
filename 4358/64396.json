@@ -1,8 +1,8 @@
 {
-  "vid": "4358",
-  "vname": "Korenix Technology",
-  "vcpe": "cpe:/:korenix",
-  "pid": "64396",
-  "pname": "jetwave 3220 v3  ファームウェア",
-  "pcpe": "cpe:/o:korenix:jetwave_3220_v3__firmware"
+	"vid": "4358",
+	"vname": "Korenix Technology",
+	"vcpe": "cpe:/:korenix",
+	"pid": "64396",
+	"pname": "jetwave 3220 v3  ファームウェア",
+	"pcpe": "cpe:/o:korenix:jetwave_3220_v3__firmware"
 }

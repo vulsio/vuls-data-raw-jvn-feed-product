@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26578",
-  "pname": "Oracle Access Manager",
-  "pcpe": "cpe:/a:oracle:access_manager"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26578",
+	"pname": "Oracle Access Manager",
+	"pcpe": "cpe:/a:oracle:access_manager"
 }

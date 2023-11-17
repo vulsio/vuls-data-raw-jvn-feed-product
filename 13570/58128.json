@@ -1,8 +1,8 @@
 {
-  "vid": "13570",
-  "vname": "Sensormatic Electronics",
-  "vcpe": "cpe:/:swhouse",
-  "pid": "58128",
-  "pname": "iSTAR Ultra G2 ファームウェア",
-  "pcpe": "cpe:/o:swhouse:istar_ultra_g2_firmware"
+	"vid": "13570",
+	"vname": "Sensormatic Electronics",
+	"vcpe": "cpe:/:swhouse",
+	"pid": "58128",
+	"pname": "iSTAR Ultra G2 ファームウェア",
+	"pcpe": "cpe:/o:swhouse:istar_ultra_g2_firmware"
 }

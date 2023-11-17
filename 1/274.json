@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "274",
-  "pname": "StarOffice",
-  "pcpe": "cpe:/a:sun:staroffice"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "274",
+	"pname": "StarOffice",
+	"pcpe": "cpe:/a:sun:staroffice"
 }

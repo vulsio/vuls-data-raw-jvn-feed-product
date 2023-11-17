@@ -1,8 +1,8 @@
 {
-  "vid": "7338",
-  "vname": "rkd software",
-  "vcpe": "cpe:/:rkd_software",
-  "pid": "14370",
-  "pname": "barcode activex",
-  "pcpe": "cpe:/a:rkd_software:barcode_activex"
+	"vid": "7338",
+	"vname": "rkd software",
+	"vcpe": "cpe:/:rkd_software",
+	"pid": "14370",
+	"pname": "barcode activex",
+	"pcpe": "cpe:/a:rkd_software:barcode_activex"
 }

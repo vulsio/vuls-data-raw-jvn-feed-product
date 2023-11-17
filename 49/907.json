@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "907",
-  "pname": "GNU cpio",
-  "pcpe": "cpe:/a:gnu:cpio"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "907",
+	"pname": "GNU cpio",
+	"pcpe": "cpe:/a:gnu:cpio"
 }

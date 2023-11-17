@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "47075",
-  "pname": "NetApp HCI Management Node",
-  "pcpe": "cpe:/a:netapp:hci_management_node"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "47075",
+	"pname": "NetApp HCI Management Node",
+	"pcpe": "cpe:/a:netapp:hci_management_node"
 }

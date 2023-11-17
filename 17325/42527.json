@@ -1,8 +1,8 @@
 {
-  "vid": "17325",
-  "vname": "Comtech EF Data Corporation",
-  "vcpe": "cpe:/:comtechefdata",
-  "pid": "42527",
-  "pname": "Stampede FX-1010 ファームウェア",
-  "pcpe": "cpe:/o:comtechefdata:stampede_fx-1010_firmware"
+	"vid": "17325",
+	"vname": "Comtech EF Data Corporation",
+	"vcpe": "cpe:/:comtechefdata",
+	"pid": "42527",
+	"pname": "Stampede FX-1010 ファームウェア",
+	"pcpe": "cpe:/o:comtechefdata:stampede_fx-1010_firmware"
 }

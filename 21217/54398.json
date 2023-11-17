@@ -1,8 +1,8 @@
 {
-  "vid": "21217",
-  "vname": "日立国際電気",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "54398",
-  "pname": "HC-IP9050HD ファームウェア",
-  "pcpe": "cpe:/o:hitachi:hc-ip9050hd_firmware"
+	"vid": "21217",
+	"vname": "日立国際電気",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "54398",
+	"pname": "HC-IP9050HD ファームウェア",
+	"pcpe": "cpe:/o:hitachi:hc-ip9050hd_firmware"
 }

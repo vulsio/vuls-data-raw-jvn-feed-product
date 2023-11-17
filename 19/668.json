@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "668",
-  "pname": "Cisco CSS Secure Content Accelerator",
-  "pcpe": "cpe:/a:cisco:secure_content_accelerator"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "668",
+	"pname": "Cisco CSS Secure Content Accelerator",
+	"pcpe": "cpe:/a:cisco:secure_content_accelerator"
 }

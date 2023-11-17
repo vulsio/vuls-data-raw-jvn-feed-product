@@ -1,8 +1,8 @@
 {
-  "vid": "16269",
-  "vname": "BeyondTrust Corporation",
-  "vcpe": "cpe:/:beyondtrust",
-  "pid": "43981",
-  "pname": "Privilege Management for Windows and Mac",
-  "pcpe": "cpe:/a:beyondtrust:privilege_management_for_windows_and_mac"
+	"vid": "16269",
+	"vname": "BeyondTrust Corporation",
+	"vcpe": "cpe:/:beyondtrust",
+	"pid": "43981",
+	"pname": "Privilege Management for Windows and Mac",
+	"pcpe": "cpe:/a:beyondtrust:privilege_management_for_windows_and_mac"
 }

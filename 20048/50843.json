@@ -1,8 +1,8 @@
 {
-  "vid": "20048",
-  "vname": "Ab Initio Software LLC.",
-  "vcpe": "cpe:/:abinitio",
-  "pid": "50843",
-  "pname": "Control>Center",
-  "pcpe": "cpe:/a:abinitio:control%3ecenter"
+	"vid": "20048",
+	"vname": "Ab Initio Software LLC.",
+	"vcpe": "cpe:/:abinitio",
+	"pid": "50843",
+	"pname": "Control>Center",
+	"pcpe": "cpe:/a:abinitio:control%3ecenter"
 }

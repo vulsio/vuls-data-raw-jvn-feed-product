@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "24170",
-  "pname": "HP Helion OpenStack",
-  "pcpe": "cpe:/a:hp:helion_openstack"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "24170",
+	"pname": "HP Helion OpenStack",
+	"pcpe": "cpe:/a:hp:helion_openstack"
 }

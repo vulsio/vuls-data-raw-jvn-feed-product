@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "46099",
-  "pname": "IBM FlashSystem V7200 ファームウェア",
-  "pcpe": "cpe:/o:ibm:flashsystem_v7200_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "46099",
+	"pname": "IBM FlashSystem V7200 ファームウェア",
+	"pcpe": "cpe:/o:ibm:flashsystem_v7200_firmware"
 }

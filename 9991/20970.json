@@ -1,8 +1,8 @@
 {
-  "vid": "9991",
-  "vname": "Sensys Networks, Inc.",
-  "vcpe": "cpe:/:sensysnetworks",
-  "pid": "20970",
-  "pname": "VSN240-T",
-  "pcpe": "cpe:/h:sensysnetworks:vsn240-t"
+	"vid": "9991",
+	"vname": "Sensys Networks, Inc.",
+	"vcpe": "cpe:/:sensysnetworks",
+	"pid": "20970",
+	"pname": "VSN240-T",
+	"pcpe": "cpe:/h:sensysnetworks:vsn240-t"
 }

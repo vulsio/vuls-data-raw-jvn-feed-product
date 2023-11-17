@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "29087",
-  "pname": "DS-2CD2232-I5 ファームウェア",
-  "pcpe": "cpe:/o:hikvision:ds-2cd2232-i5_firmware"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "29087",
+	"pname": "DS-2CD2232-I5 ファームウェア",
+	"pcpe": "cpe:/o:hikvision:ds-2cd2232-i5_firmware"
 }

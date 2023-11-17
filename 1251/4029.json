@@ -1,8 +1,8 @@
 {
-  "vid": "1251",
-  "vname": "yaSSL",
-  "vcpe": "cpe:/:yassl",
-  "pid": "4029",
-  "pname": "CyaSSL",
-  "pcpe": "cpe:/a:yassl:cyassl"
+	"vid": "1251",
+	"vname": "yaSSL",
+	"vcpe": "cpe:/:yassl",
+	"pid": "4029",
+	"pname": "CyaSSL",
+	"pcpe": "cpe:/a:yassl:cyassl"
 }

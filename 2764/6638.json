@@ -1,8 +1,8 @@
 {
-  "vid": "2764",
-  "vname": "Centreon",
-  "vcpe": "cpe:/:centreon",
-  "pid": "6638",
-  "pname": "Centreon",
-  "pcpe": "cpe:/a:centreon:centreon"
+	"vid": "2764",
+	"vname": "Centreon",
+	"vcpe": "cpe:/:centreon",
+	"pid": "6638",
+	"pname": "Centreon",
+	"pcpe": "cpe:/a:centreon:centreon"
 }

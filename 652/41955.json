@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "41955",
-  "pname": "Galaxy J3 Pop ファームウェア",
-  "pcpe": "cpe:/o:samsung:galaxy_j3_pop_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "41955",
+	"pname": "Galaxy J3 Pop ファームウェア",
+	"pcpe": "cpe:/o:samsung:galaxy_j3_pop_firmware"
 }

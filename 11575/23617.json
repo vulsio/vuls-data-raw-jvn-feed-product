@@ -1,8 +1,8 @@
 {
-  "vid": "11575",
-  "vname": "Skoranga",
-  "vcpe": "cpe:/:dns-sync_project",
-  "pid": "23617",
-  "pname": "node-dns-sync",
-  "pcpe": "cpe:/a:dns-sync_project:dns-sync"
+	"vid": "11575",
+	"vname": "Skoranga",
+	"vcpe": "cpe:/:dns-sync_project",
+	"pid": "23617",
+	"pname": "node-dns-sync",
+	"pcpe": "cpe:/a:dns-sync_project:dns-sync"
 }

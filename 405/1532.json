@@ -1,8 +1,8 @@
 {
-  "vid": "405",
-  "vname": "Icon Labs",
-  "vcpe": "cpe:/:icon-labs",
-  "pid": "1532",
-  "pname": "Iconfidant SSH",
-  "pcpe": "cpe:/a:icon-labs:iconfidant_ssh"
+	"vid": "405",
+	"vname": "Icon Labs",
+	"vcpe": "cpe:/:icon-labs",
+	"pid": "1532",
+	"pname": "Iconfidant SSH",
+	"pcpe": "cpe:/a:icon-labs:iconfidant_ssh"
 }

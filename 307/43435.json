@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "43435",
-  "pname": "5400R ファームウェア",
-  "pcpe": "cpe:/o:arubanetworks:5400r_firmware"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "43435",
+	"pname": "5400R ファームウェア",
+	"pcpe": "cpe:/o:arubanetworks:5400r_firmware"
 }

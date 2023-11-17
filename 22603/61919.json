@@ -1,8 +1,8 @@
 {
-  "vid": "22603",
-  "vname": "hiby",
-  "vcpe": "cpe:/:hiby",
-  "pid": "61919",
-  "pname": "hiby r3 pro ファームウェア",
-  "pcpe": "cpe:/o:hiby:hiby_r3_pro_firmware"
+	"vid": "22603",
+	"vname": "hiby",
+	"vcpe": "cpe:/:hiby",
+	"pid": "61919",
+	"pname": "hiby r3 pro ファームウェア",
+	"pcpe": "cpe:/o:hiby:hiby_r3_pro_firmware"
 }

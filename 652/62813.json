@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "62813",
-  "pname": "samsung pay kr",
-  "pcpe": "cpe:/a:samsung:samsung_pay_kr"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "62813",
+	"pname": "samsung pay kr",
+	"pcpe": "cpe:/a:samsung:samsung_pay_kr"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "56638",
-  "pname": "Linksys WRT54GL ファームウェア",
-  "pcpe": "cpe:/o:linksys:wrt54gl_firmware"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "56638",
+	"pname": "Linksys WRT54GL ファームウェア",
+	"pcpe": "cpe:/o:linksys:wrt54gl_firmware"
 }

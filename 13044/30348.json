@@ -1,8 +1,8 @@
 {
-  "vid": "13044",
-  "vname": "Tech Reumer",
-  "vcpe": "cpe:/:mapsplugin",
-  "pid": "30348",
-  "pname": "Googlemaps",
-  "pcpe": "cpe:/a:mapsplugin:googlemaps"
+	"vid": "13044",
+	"vname": "Tech Reumer",
+	"vcpe": "cpe:/:mapsplugin",
+	"pid": "30348",
+	"pname": "Googlemaps",
+	"pcpe": "cpe:/a:mapsplugin:googlemaps"
 }

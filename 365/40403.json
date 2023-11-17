@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "40403",
-  "pname": "Citrix StoreFront Server",
-  "pcpe": "cpe:/a:citrix:storefront_server"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "40403",
+	"pname": "Citrix StoreFront Server",
+	"pcpe": "cpe:/a:citrix:storefront_server"
 }

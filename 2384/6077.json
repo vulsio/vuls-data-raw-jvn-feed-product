@@ -1,8 +1,8 @@
 {
-  "vid": "2384",
-  "vname": "オートデスク株式会社",
-  "vcpe": "cpe:/:autodesk",
-  "pid": "6077",
-  "pname": "revit architecture",
-  "pcpe": "cpe:/a:autodesk:revit_architecture"
+	"vid": "2384",
+	"vname": "オートデスク株式会社",
+	"vcpe": "cpe:/:autodesk",
+	"pid": "6077",
+	"pname": "revit architecture",
+	"pcpe": "cpe:/a:autodesk:revit_architecture"
 }

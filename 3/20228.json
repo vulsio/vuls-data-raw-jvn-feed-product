@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "20228",
-  "pname": "rhevm-reports",
-  "pcpe": "cpe:/a:redhat:rhevm-reports"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "20228",
+	"pname": "rhevm-reports",
+	"pcpe": "cpe:/a:redhat:rhevm-reports"
 }

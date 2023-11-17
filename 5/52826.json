@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52826",
-  "pname": "SD480 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd480_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52826",
+	"pname": "SD480 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd480_firmware"
 }

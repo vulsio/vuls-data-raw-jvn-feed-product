@@ -1,8 +1,8 @@
 {
-  "vid": "20394",
-  "vname": "Kyma project",
-  "vcpe": "cpe:/:kyma-project",
-  "pid": "52005",
-  "pname": "Kyma",
-  "pcpe": "cpe:/a:kyma-project:kyma"
+	"vid": "20394",
+	"vname": "Kyma project",
+	"vcpe": "cpe:/:kyma-project",
+	"pid": "52005",
+	"pname": "Kyma",
+	"pcpe": "cpe:/a:kyma-project:kyma"
 }

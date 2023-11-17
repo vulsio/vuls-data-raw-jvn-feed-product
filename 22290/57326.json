@@ -1,8 +1,8 @@
 {
-  "vid": "22290",
-  "vname": "Trellix",
-  "vcpe": "cpe:/:trellix",
-  "pid": "57326",
-  "pname": "Skyhigh Secure Web Gateway",
-  "pcpe": "cpe:/a:trellix:skyhigh_secure_web_gateway"
+	"vid": "22290",
+	"vname": "Trellix",
+	"vcpe": "cpe:/:trellix",
+	"pid": "57326",
+	"pname": "Skyhigh Secure Web Gateway",
+	"pcpe": "cpe:/a:trellix:skyhigh_secure_web_gateway"
 }

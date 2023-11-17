@@ -1,8 +1,8 @@
 {
-  "vid": "16801",
-  "vname": "Kama",
-  "vcpe": "cpe:/:wp-kama",
-  "pid": "40025",
-  "pname": "Democracy Poll",
-  "pcpe": "cpe:/a:wp-kama:democracy_poll"
+	"vid": "16801",
+	"vname": "Kama",
+	"vcpe": "cpe:/:wp-kama",
+	"pid": "40025",
+	"pname": "Democracy Poll",
+	"pcpe": "cpe:/a:wp-kama:democracy_poll"
 }

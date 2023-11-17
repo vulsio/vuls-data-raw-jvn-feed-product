@@ -1,8 +1,8 @@
 {
-  "vid": "9684",
-  "vname": "Pocoo",
-  "vcpe": "cpe:/:pocoo",
-  "pid": "20154",
-  "pname": "Jinja2",
-  "pcpe": "cpe:/a:pocoo:jinja2"
+	"vid": "9684",
+	"vname": "Pocoo",
+	"vcpe": "cpe:/:pocoo",
+	"pid": "20154",
+	"pname": "Jinja2",
+	"pcpe": "cpe:/a:pocoo:jinja2"
 }

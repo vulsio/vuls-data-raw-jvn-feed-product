@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "29628",
-  "pname": "SpoolServer/Winspoolシリーズ",
-  "pcpe": "cpe:/h:nec:spoolserver_winspool"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "29628",
+	"pname": "SpoolServer/Winspoolシリーズ",
+	"pcpe": "cpe:/h:nec:spoolserver_winspool"
 }

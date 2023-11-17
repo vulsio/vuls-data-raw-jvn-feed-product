@@ -1,8 +1,8 @@
 {
-  "vid": "2353",
-  "vname": "assistanttools",
-  "vcpe": "cpe:/:assistanttools",
-  "pid": "6020",
-  "pname": "music tag editor",
-  "pcpe": "cpe:/a:assistanttools:music_tag_editor"
+	"vid": "2353",
+	"vname": "assistanttools",
+	"vcpe": "cpe:/:assistanttools",
+	"pid": "6020",
+	"pname": "music tag editor",
+	"pcpe": "cpe:/a:assistanttools:music_tag_editor"
 }

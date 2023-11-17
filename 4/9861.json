@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "9861",
-  "pname": "ftp print server",
-  "pcpe": "cpe:/a:hp:ftp_print_server"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "9861",
+	"pname": "ftp print server",
+	"pcpe": "cpe:/a:hp:ftp_print_server"
 }

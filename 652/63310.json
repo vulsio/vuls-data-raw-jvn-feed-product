@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "63310",
-  "pname": "sharelive",
-  "pcpe": "cpe:/a:samsung:sharelive"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "63310",
+	"pname": "sharelive",
+	"pcpe": "cpe:/a:samsung:sharelive"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24232",
-  "pname": "Cisco Nexus 3172 スイッチ",
-  "pcpe": "cpe:/h:cisco:nexus_3172"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24232",
+	"pname": "Cisco Nexus 3172 スイッチ",
+	"pcpe": "cpe:/h:cisco:nexus_3172"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "12345",
-  "pname": "report manager component",
-  "pcpe": "cpe:/a:oracle:report_manager_component"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "12345",
+	"pname": "report manager component",
+	"pcpe": "cpe:/a:oracle:report_manager_component"
 }

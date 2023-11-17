@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "20369",
-  "pname": "Campus S2750",
-  "pcpe": "cpe:/h:huawei:campus_s2750"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "20369",
+	"pname": "Campus S2750",
+	"pcpe": "cpe:/h:huawei:campus_s2750"
 }

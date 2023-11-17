@@ -1,8 +1,8 @@
 {
-  "vid": "13316",
-  "vname": "node-printer project",
-  "vcpe": "cpe:/:node-printer_project",
-  "pid": "31123",
-  "pname": "node-printer",
-  "pcpe": "cpe:/a:node-printer_project:node-printer"
+	"vid": "13316",
+	"vname": "node-printer project",
+	"vcpe": "cpe:/:node-printer_project",
+	"pid": "31123",
+	"pname": "node-printer",
+	"pcpe": "cpe:/a:node-printer_project:node-printer"
 }

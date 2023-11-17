@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "43820",
-  "pname": "FortiIsolator",
-  "pcpe": "cpe:/a:fortinet:fortiisolator"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "43820",
+	"pname": "FortiIsolator",
+	"pcpe": "cpe:/a:fortinet:fortiisolator"
 }

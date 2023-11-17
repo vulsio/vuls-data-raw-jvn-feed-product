@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19274",
-  "pname": "vpn 3060 concentrator",
-  "pcpe": "cpe:/o:cisco:vpn_3060_concentrator"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19274",
+	"pname": "vpn 3060 concentrator",
+	"pcpe": "cpe:/o:cisco:vpn_3060_concentrator"
 }

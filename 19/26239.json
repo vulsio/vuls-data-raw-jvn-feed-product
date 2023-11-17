@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "26239",
-  "pname": "Cisco Unified IP Phone 8800 シリーズ",
-  "pcpe": "cpe:/h:cisco:ip_phone_8800"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "26239",
+	"pname": "Cisco Unified IP Phone 8800 シリーズ",
+	"pcpe": "cpe:/h:cisco:ip_phone_8800"
 }

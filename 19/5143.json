@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5143",
-  "pname": "Cisco Nexus 2248TP FEX スイッチ",
-  "pcpe": "cpe:/h:cisco:nexus_2248tp_fex_switch"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5143",
+	"pname": "Cisco Nexus 2248TP FEX スイッチ",
+	"pcpe": "cpe:/h:cisco:nexus_2248tp_fex_switch"
 }

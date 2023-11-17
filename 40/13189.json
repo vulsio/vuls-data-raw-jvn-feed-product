@@ -1,8 +1,8 @@
 {
-  "vid": "40",
-  "vname": "リアルネットワークス",
-  "vcpe": "cpe:/:realnetworks",
-  "pid": "13189",
-  "pname": "RealNetworks Helix Enterprise Player",
-  "pcpe": "cpe:/a:realnetworks:helix_enterprise_player"
+	"vid": "40",
+	"vname": "リアルネットワークス",
+	"vcpe": "cpe:/:realnetworks",
+	"pid": "13189",
+	"pname": "RealNetworks Helix Enterprise Player",
+	"pcpe": "cpe:/a:realnetworks:helix_enterprise_player"
 }

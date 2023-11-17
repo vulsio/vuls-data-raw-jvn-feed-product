@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "436",
-  "pname": "Prius Air",
-  "pcpe": "cpe:/h:hitachi:prius_air"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "436",
+	"pname": "Prius Air",
+	"pcpe": "cpe:/h:hitachi:prius_air"
 }

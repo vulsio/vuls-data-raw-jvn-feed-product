@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "13048",
-  "pname": "ubiquity-slideshow-ubuntu",
-  "pcpe": "cpe:/a:canonical:ubiquity-slideshow-ubuntu"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "13048",
+	"pname": "ubiquity-slideshow-ubuntu",
+	"pcpe": "cpe:/a:canonical:ubiquity-slideshow-ubuntu"
 }

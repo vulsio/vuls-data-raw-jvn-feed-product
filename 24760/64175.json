@@ -1,8 +1,8 @@
 {
-  "vid": "24760",
-  "vname": "common desktop environment project",
-  "vcpe": "cpe:/:common_desktop_environment_project",
-  "pid": "64175",
-  "pname": "common desktop environment",
-  "pcpe": "cpe:/a:common_desktop_environment_project:_common_desktop_environment"
+	"vid": "24760",
+	"vname": "common desktop environment project",
+	"vcpe": "cpe:/:common_desktop_environment_project",
+	"pid": "64175",
+	"pname": "common desktop environment",
+	"pcpe": "cpe:/a:common_desktop_environment_project:_common_desktop_environment"
 }

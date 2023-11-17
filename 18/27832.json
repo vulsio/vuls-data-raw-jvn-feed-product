@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27832",
-  "pname": "IBM Commerce on Cloud",
-  "pcpe": "cpe:/a:ibm:commerce_on_cloud"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27832",
+	"pname": "IBM Commerce on Cloud",
+	"pcpe": "cpe:/a:ibm:commerce_on_cloud"
 }

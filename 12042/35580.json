@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "35580",
-  "pname": "HPE Intelligent Management Center (iMC) Wireless Service Manager (WSM)",
-  "pcpe": "cpe:/a:hp:imc_wireless_service_manager"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "35580",
+	"pname": "HPE Intelligent Management Center (iMC) Wireless Service Manager (WSM)",
+	"pcpe": "cpe:/a:hp:imc_wireless_service_manager"
 }

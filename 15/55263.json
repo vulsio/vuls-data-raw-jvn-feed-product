@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "55263",
-  "pname": "Oracle Communications Converged Application Server",
-  "pcpe": "cpe:/a:oracle:communications_converged_application_server"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "55263",
+	"pname": "Oracle Communications Converged Application Server",
+	"pcpe": "cpe:/a:oracle:communications_converged_application_server"
 }

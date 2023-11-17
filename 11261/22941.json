@@ -1,8 +1,8 @@
 {
-  "vid": "11261",
-  "vname": "tiket",
-  "vcpe": "cpe:/:tiket",
-  "pid": "22941",
-  "pname": "tiket.com hotel & flight",
-  "pcpe": "cpe:/a:tiket:tiket.com_hotel_%26_flight"
+	"vid": "11261",
+	"vname": "tiket",
+	"vcpe": "cpe:/:tiket",
+	"pid": "22941",
+	"pname": "tiket.com hotel & flight",
+	"pcpe": "cpe:/a:tiket:tiket.com_hotel_%26_flight"
 }

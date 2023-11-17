@@ -1,8 +1,8 @@
 {
-  "vid": "17586",
-  "vname": "Aviatrix",
-  "vcpe": "cpe:/:aviatrix",
-  "pid": "44926",
-  "pname": "Gateway",
-  "pcpe": "cpe:/a:aviatrix:gateway"
+	"vid": "17586",
+	"vname": "Aviatrix",
+	"vcpe": "cpe:/:aviatrix",
+	"pid": "44926",
+	"pname": "Gateway",
+	"pcpe": "cpe:/a:aviatrix:gateway"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "47131",
-  "pname": "882438 TruFlight Select PET/CT",
-  "pcpe": "cpe:/a:philips:882438_truflight_select_pet_ct"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "47131",
+	"pname": "882438 TruFlight Select PET/CT",
+	"pcpe": "cpe:/a:philips:882438_truflight_select_pet_ct"
 }

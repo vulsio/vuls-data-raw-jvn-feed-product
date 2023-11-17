@@ -1,8 +1,8 @@
 {
-  "vid": "9044",
-  "vname": "The Foreman",
-  "vcpe": "cpe:/:theforeman",
-  "pid": "48686",
-  "pname": "Azure Resource Manager",
-  "pcpe": "cpe:/a:theforeman:foreman_azurerm"
+	"vid": "9044",
+	"vname": "The Foreman",
+	"vcpe": "cpe:/:theforeman",
+	"pid": "48686",
+	"pname": "Azure Resource Manager",
+	"pcpe": "cpe:/a:theforeman:foreman_azurerm"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18838",
-  "vname": "Yeastar",
-  "vcpe": "cpe:/:yeastar",
-  "pid": "61048",
-  "pname": "Yeastar N824 ファームウェア",
-  "pcpe": "cpe:/o:yeastar:n824_firmware"
+	"vid": "18838",
+	"vname": "Yeastar",
+	"vcpe": "cpe:/:yeastar",
+	"pid": "61048",
+	"pname": "Yeastar N824 ファームウェア",
+	"pcpe": "cpe:/o:yeastar:n824_firmware"
 }

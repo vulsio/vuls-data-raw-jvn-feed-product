@@ -1,8 +1,8 @@
 {
-  "vid": "6591",
-  "vname": "PayPal",
-  "vcpe": "cpe:/:paypal",
-  "pid": "58009",
-  "pname": "braintree/sanitize-url",
-  "pcpe": "cpe:/a:paypal:braintree%2Fsanitize-url"
+	"vid": "6591",
+	"vname": "PayPal",
+	"vcpe": "cpe:/:paypal",
+	"pid": "58009",
+	"pname": "braintree/sanitize-url",
+	"pcpe": "cpe:/a:paypal:braintree%2Fsanitize-url"
 }

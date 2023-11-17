@@ -1,8 +1,8 @@
 {
-  "vid": "11552",
-  "vname": "danlester",
-  "vcpe": "cpe:/:danlester",
-  "pid": "23544",
-  "pname": "Google Doc Embedder",
-  "pcpe": "cpe:/a:danlester:google_doc_embedder"
+	"vid": "11552",
+	"vname": "danlester",
+	"vcpe": "cpe:/:danlester",
+	"pid": "23544",
+	"pname": "Google Doc Embedder",
+	"pcpe": "cpe:/a:danlester:google_doc_embedder"
 }

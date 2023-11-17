@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "47066",
-  "pname": "RUGGEDCOM ROX RX1400 ファームウェア",
-  "pcpe": "cpe:/o:siemens:ruggedcom_rox_rx1400_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "47066",
+	"pname": "RUGGEDCOM ROX RX1400 ファームウェア",
+	"pcpe": "cpe:/o:siemens:ruggedcom_rox_rx1400_firmware"
 }

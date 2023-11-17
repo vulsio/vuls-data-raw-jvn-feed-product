@@ -1,8 +1,8 @@
 {
-  "vid": "24129",
-  "vname": "deluge-torrent",
-  "vcpe": "cpe:/:deluge-torrent",
-  "pid": "62411",
-  "pname": "deluge",
-  "pcpe": "cpe:/a:deluge-torrent:deluge"
+	"vid": "24129",
+	"vname": "deluge-torrent",
+	"vcpe": "cpe:/:deluge-torrent",
+	"pid": "62411",
+	"pname": "deluge",
+	"pcpe": "cpe:/a:deluge-torrent:deluge"
 }

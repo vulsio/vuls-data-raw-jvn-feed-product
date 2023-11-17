@@ -1,8 +1,8 @@
 {
-  "vid": "22090",
-  "vname": "Domino project",
-  "vcpe": "cpe:/:domino_project",
-  "pid": "56739",
-  "pname": "Domino",
-  "pcpe": "cpe:/a:domino_project:domino"
+	"vid": "22090",
+	"vname": "Domino project",
+	"vcpe": "cpe:/:domino_project",
+	"pid": "56739",
+	"pname": "Domino",
+	"pcpe": "cpe:/a:domino_project:domino"
 }

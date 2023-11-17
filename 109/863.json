@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "863",
-  "pname": "Interstage Apworks",
-  "pcpe": "cpe:/a:fujitsu:interstage_apworks"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "863",
+	"pname": "Interstage Apworks",
+	"pcpe": "cpe:/a:fujitsu:interstage_apworks"
 }

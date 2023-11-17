@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58953",
-  "pname": "ideapad 3-17iil05 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideapad_3-17iil05_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58953",
+	"pname": "ideapad 3-17iil05 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideapad_3-17iil05_firmware"
 }

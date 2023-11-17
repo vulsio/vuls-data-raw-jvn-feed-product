@@ -1,8 +1,8 @@
 {
-  "vid": "16823",
-  "vname": "WP SVG Icons project",
-  "vcpe": "cpe:/:wp_svg_icons_project",
-  "pid": "40064",
-  "pname": "WP SVG Icons",
-  "pcpe": "cpe:/a:wp_svg_icons_project:wp_svg_icons"
+	"vid": "16823",
+	"vname": "WP SVG Icons project",
+	"vcpe": "cpe:/:wp_svg_icons_project",
+	"pid": "40064",
+	"pname": "WP SVG Icons",
+	"pcpe": "cpe:/a:wp_svg_icons_project:wp_svg_icons"
 }

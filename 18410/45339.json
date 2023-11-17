@@ -1,8 +1,8 @@
 {
-  "vid": "18410",
-  "vname": "ファナック株式会社",
-  "vcpe": "cpe:/:fanuc",
-  "pid": "45339",
-  "pname": "FANUC Series 30i/31i/32i/35i-B",
-  "pcpe": "cpe:/o:fanuc:fanuc_series_30i%2f31i%2f32i%2f35i-b"
+	"vid": "18410",
+	"vname": "ファナック株式会社",
+	"vcpe": "cpe:/:fanuc",
+	"pid": "45339",
+	"pname": "FANUC Series 30i/31i/32i/35i-B",
+	"pcpe": "cpe:/o:fanuc:fanuc_series_30i%2f31i%2f32i%2f35i-b"
 }

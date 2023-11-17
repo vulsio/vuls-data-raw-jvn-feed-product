@@ -1,8 +1,8 @@
 {
-  "vid": "18031",
-  "vname": "gulp-tape project",
-  "vcpe": "cpe:/:gulp-tape_project",
-  "pid": "43823",
-  "pname": "gulp-tape",
-  "pcpe": "cpe:/a:gulp-tape_project:gulp-tape"
+	"vid": "18031",
+	"vname": "gulp-tape project",
+	"vcpe": "cpe:/:gulp-tape_project",
+	"pid": "43823",
+	"pname": "gulp-tape",
+	"pcpe": "cpe:/a:gulp-tape_project:gulp-tape"
 }

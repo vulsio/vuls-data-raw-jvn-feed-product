@@ -1,8 +1,8 @@
 {
-  "vid": "573",
-  "vname": "Foxit Software Inc",
-  "vcpe": "cpe:/:foxitsoftware",
-  "pid": "27668",
-  "pname": "Foxit PDF Toolkit",
-  "pcpe": "cpe:/a:foxitsoftware:foxit_pdf_toolkit"
+	"vid": "573",
+	"vname": "Foxit Software Inc",
+	"vcpe": "cpe:/:foxitsoftware",
+	"pid": "27668",
+	"pname": "Foxit PDF Toolkit",
+	"pcpe": "cpe:/a:foxitsoftware:foxit_pdf_toolkit"
 }

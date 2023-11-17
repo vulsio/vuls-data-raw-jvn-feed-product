@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "12828",
-  "pname": "BladeCenter 管理モジュール",
-  "pcpe": "cpe:/h:ibm:advanced_management_module"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "12828",
+	"pname": "BladeCenter 管理モジュール",
+	"pcpe": "cpe:/h:ibm:advanced_management_module"
 }

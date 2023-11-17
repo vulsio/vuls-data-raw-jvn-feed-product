@@ -1,8 +1,8 @@
 {
-  "vid": "2265",
-  "vname": "appstate",
-  "vcpe": "cpe:/:appstate",
-  "pid": "5882",
-  "pname": "phpwebsite",
-  "pcpe": "cpe:/a:appstate:phpwebsite"
+	"vid": "2265",
+	"vname": "appstate",
+	"vcpe": "cpe:/:appstate",
+	"pid": "5882",
+	"pname": "phpwebsite",
+	"pcpe": "cpe:/a:appstate:phpwebsite"
 }

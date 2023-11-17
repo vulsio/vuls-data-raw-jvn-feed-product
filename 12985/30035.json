@@ -1,8 +1,8 @@
 {
-  "vid": "12985",
-  "vname": "SMA Solar Technology AG",
-  "vcpe": "cpe:/:sma_solar_technology_ag",
-  "pid": "30035",
-  "pname": "Sunny Tripower 15000TL ファームウェア",
-  "pcpe": "cpe:/o:sma_solar_technology_ag:sunny_tripower_15000tl_firmware"
+	"vid": "12985",
+	"vname": "SMA Solar Technology AG",
+	"vcpe": "cpe:/:sma_solar_technology_ag",
+	"pid": "30035",
+	"pname": "Sunny Tripower 15000TL ファームウェア",
+	"pcpe": "cpe:/o:sma_solar_technology_ag:sunny_tripower_15000tl_firmware"
 }

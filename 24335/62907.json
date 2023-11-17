@@ -1,8 +1,8 @@
 {
-  "vid": "24335",
-  "vname": "stealjs",
-  "vcpe": "cpe:/:stealjs",
-  "pid": "62907",
-  "pname": "steal",
-  "pcpe": "cpe:/a:stealjs:steal"
+	"vid": "24335",
+	"vname": "stealjs",
+	"vcpe": "cpe:/:stealjs",
+	"pid": "62907",
+	"pname": "steal",
+	"pcpe": "cpe:/a:stealjs:steal"
 }

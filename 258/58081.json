@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "58081",
-  "pname": "ocrfeeder",
-  "pcpe": "cpe:/a:gnome:ocrfeeder"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "58081",
+	"pname": "ocrfeeder",
+	"pcpe": "cpe:/a:gnome:ocrfeeder"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "499",
-  "vname": "Ipswitch, Inc.",
-  "vcpe": "cpe:/:ipswitch",
-  "pid": "23141",
-  "pname": "TFTP サーバ",
-  "pcpe": "cpe:/a:ipswitch:tftp_server"
+	"vid": "499",
+	"vname": "Ipswitch, Inc.",
+	"vcpe": "cpe:/:ipswitch",
+	"pid": "23141",
+	"pname": "TFTP サーバ",
+	"pcpe": "cpe:/a:ipswitch:tftp_server"
 }

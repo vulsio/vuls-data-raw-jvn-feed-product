@@ -1,8 +1,8 @@
 {
-  "vid": "15948",
-  "vname": "ASRock",
-  "vcpe": "cpe:/:asrock",
-  "pid": "37233",
-  "pname": "RGBLED",
-  "pcpe": "cpe:/a:asrock:rgbled"
+	"vid": "15948",
+	"vname": "ASRock",
+	"vcpe": "cpe:/:asrock",
+	"pid": "37233",
+	"pname": "RGBLED",
+	"pcpe": "cpe:/a:asrock:rgbled"
 }

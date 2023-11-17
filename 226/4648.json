@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "4648",
-  "pname": "vibe onprem",
-  "pcpe": "cpe:/a:novell:vibe_onprem"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "4648",
+	"pname": "vibe onprem",
+	"pcpe": "cpe:/a:novell:vibe_onprem"
 }

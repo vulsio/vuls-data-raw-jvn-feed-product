@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "33011",
-  "pname": "Pivotal Application Service",
-  "pcpe": "cpe:/a:greenplum:pivotal_application_service"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "33011",
+	"pname": "Pivotal Application Service",
+	"pcpe": "cpe:/a:greenplum:pivotal_application_service"
 }

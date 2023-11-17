@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12792",
-  "pname": "procurve threat management services zl module",
-  "pcpe": "cpe:/h:hp:procurve_threat_management_services_zl_module"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12792",
+	"pname": "procurve threat management services zl module",
+	"pcpe": "cpe:/h:hp:procurve_threat_management_services_zl_module"
 }

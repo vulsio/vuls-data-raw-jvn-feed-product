@@ -1,8 +1,8 @@
 {
-  "vid": "7942",
-  "vname": "telestream",
-  "vcpe": "cpe:/:telestream",
-  "pid": "46697",
-  "pname": "Medius",
-  "pcpe": "cpe:/a:telestream:medius"
+	"vid": "7942",
+	"vname": "telestream",
+	"vcpe": "cpe:/:telestream",
+	"pid": "46697",
+	"pname": "Medius",
+	"pcpe": "cpe:/a:telestream:medius"
 }

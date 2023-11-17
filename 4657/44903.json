@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "44903",
-  "pname": "Columbia-tl00b ファームウェア",
-  "pcpe": "cpe:/o:huawei:columbia-tl00b_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "44903",
+	"pname": "Columbia-tl00b ファームウェア",
+	"pcpe": "cpe:/o:huawei:columbia-tl00b_firmware"
 }

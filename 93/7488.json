@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7488",
-  "pname": "drupal easylinks module",
-  "pcpe": "cpe:/a:drupal:drupal_easylinks_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7488",
+	"pname": "drupal easylinks module",
+	"pcpe": "cpe:/a:drupal:drupal_easylinks_module"
 }

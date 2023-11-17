@@ -1,8 +1,8 @@
 {
-  "vid": "9741",
-  "vname": "Radio Thermostat Company of America",
-  "vcpe": "cpe:/:radiothermostat",
-  "pid": "20280",
-  "pname": "CT50 ファームウェア",
-  "pcpe": "cpe:/o:radiothermostat:ct50_firmware"
+	"vid": "9741",
+	"vname": "Radio Thermostat Company of America",
+	"vcpe": "cpe:/:radiothermostat",
+	"pid": "20280",
+	"pname": "CT50 ファームウェア",
+	"pcpe": "cpe:/o:radiothermostat:ct50_firmware"
 }

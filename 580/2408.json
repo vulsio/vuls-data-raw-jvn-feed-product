@@ -1,8 +1,8 @@
 {
-  "vid": "580",
-  "vname": "S2 Security",
-  "vcpe": "cpe:/:s2sys",
-  "pid": "2408",
-  "pname": "S2 Netbox",
-  "pcpe": "cpe:/h:s2sys:netbox"
+	"vid": "580",
+	"vname": "S2 Security",
+	"vcpe": "cpe:/:s2sys",
+	"pid": "2408",
+	"pname": "S2 Netbox",
+	"pcpe": "cpe:/h:s2sys:netbox"
 }

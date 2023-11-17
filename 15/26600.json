@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26600",
-  "pname": "Oracle Communications EAGLE Application Processor",
-  "pcpe": "cpe:/a:oracle:communications_eagle_application_processor"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26600",
+	"pname": "Oracle Communications EAGLE Application Processor",
+	"pcpe": "cpe:/a:oracle:communications_eagle_application_processor"
 }

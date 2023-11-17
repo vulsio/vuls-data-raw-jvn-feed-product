@@ -1,8 +1,8 @@
 {
-  "vid": "13046",
-  "vname": "Orion Soft",
-  "vcpe": "cpe:/:orion-soft",
-  "pid": "30350",
-  "pname": "orion.extfeedbackform",
-  "pcpe": "cpe:/a:orion-soft:bitrix"
+	"vid": "13046",
+	"vname": "Orion Soft",
+	"vcpe": "cpe:/:orion-soft",
+	"pid": "30350",
+	"pname": "orion.extfeedbackform",
+	"pcpe": "cpe:/a:orion-soft:bitrix"
 }

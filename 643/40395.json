@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "40395",
-  "pname": "Dell EMC VNXe3200 ファームウェア",
-  "pcpe": "cpe:/o:dell:emc_vnxe3200_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "40395",
+	"pname": "Dell EMC VNXe3200 ファームウェア",
+	"pcpe": "cpe:/o:dell:emc_vnxe3200_firmware"
 }

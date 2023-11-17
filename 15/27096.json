@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27096",
-  "pname": "Oracle Retail Xstore Payment",
-  "pcpe": "cpe:/a:oracle:micros_xstore_payment"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27096",
+	"pname": "Oracle Retail Xstore Payment",
+	"pcpe": "cpe:/a:oracle:micros_xstore_payment"
 }

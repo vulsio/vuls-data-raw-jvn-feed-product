@@ -1,8 +1,8 @@
 {
-  "vid": "619",
-  "vname": "PolyVision",
-  "vcpe": "cpe:/:polyvision",
-  "pid": "2647",
-  "pname": "RoomWizard firmware",
-  "pcpe": "cpe:/a:polyvision:roomwizard_firmware"
+	"vid": "619",
+	"vname": "PolyVision",
+	"vcpe": "cpe:/:polyvision",
+	"pid": "2647",
+	"pname": "RoomWizard firmware",
+	"pcpe": "cpe:/a:polyvision:roomwizard_firmware"
 }

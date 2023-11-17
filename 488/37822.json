@@ -1,8 +1,8 @@
 {
-  "vid": "488",
-  "vname": "openSUSE project",
-  "vcpe": "cpe:/:opensuse_project",
-  "pid": "37822",
-  "pname": "yast2-printer",
-  "pcpe": "cpe:/a:opensuse_project:yast2-printer"
+	"vid": "488",
+	"vname": "openSUSE project",
+	"vcpe": "cpe:/:opensuse_project",
+	"pid": "37822",
+	"pname": "yast2-printer",
+	"pcpe": "cpe:/a:opensuse_project:yast2-printer"
 }

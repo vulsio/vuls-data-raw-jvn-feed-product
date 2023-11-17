@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "49626",
-  "pname": "Intel XMM 7360 ファームウェア",
-  "pcpe": "cpe:/o:intel:xmm_7360_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "49626",
+	"pname": "Intel XMM 7360 ファームウェア",
+	"pcpe": "cpe:/o:intel:xmm_7360_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18520",
-  "vname": "Admin Menu プロジェクト",
-  "vcpe": "cpe:/:admin_menu_project",
-  "pid": "45698",
-  "pname": "Admin Menu",
-  "pcpe": "cpe:/a:admin_menu_project:admin_menu"
+	"vid": "18520",
+	"vname": "Admin Menu プロジェクト",
+	"vcpe": "cpe:/:admin_menu_project",
+	"pid": "45698",
+	"pname": "Admin Menu",
+	"pcpe": "cpe:/a:admin_menu_project:admin_menu"
 }

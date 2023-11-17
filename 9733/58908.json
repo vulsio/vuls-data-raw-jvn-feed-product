@@ -1,8 +1,8 @@
 {
-  "vid": "9733",
-  "vname": "Ericom Software",
-  "vcpe": "cpe:/:ericom",
-  "pid": "58908",
-  "pname": "powerterm webconnect",
-  "pcpe": "cpe:/a:ericom:powerterm_webconnect"
+	"vid": "9733",
+	"vname": "Ericom Software",
+	"vcpe": "cpe:/:ericom",
+	"pid": "58908",
+	"pname": "powerterm webconnect",
+	"pcpe": "cpe:/a:ericom:powerterm_webconnect"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "39649",
-  "pname": "BMEP581020 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:bmep581020_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "39649",
+	"pname": "BMEP581020 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:bmep581020_firmware"
 }

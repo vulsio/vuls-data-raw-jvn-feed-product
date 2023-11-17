@@ -1,8 +1,8 @@
 {
-  "vid": "9141",
-  "vname": "Werner Baumann",
-  "vcpe": "cpe:/:werner_baumann",
-  "pid": "18466",
-  "pname": "WEB-DAV Linux File System",
-  "pcpe": "cpe:/a:werner_baumann:davfs2"
+	"vid": "9141",
+	"vname": "Werner Baumann",
+	"vcpe": "cpe:/:werner_baumann",
+	"pid": "18466",
+	"pname": "WEB-DAV Linux File System",
+	"pcpe": "cpe:/a:werner_baumann:davfs2"
 }

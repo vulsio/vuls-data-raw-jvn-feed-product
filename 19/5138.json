@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5138",
-  "pname": "Cisco Small Business IP Phone",
-  "pcpe": "cpe:/h:cisco:small_business_ip_phone"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5138",
+	"pname": "Cisco Small Business IP Phone",
+	"pcpe": "cpe:/h:cisco:small_business_ip_phone"
 }

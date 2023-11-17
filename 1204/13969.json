@@ -1,8 +1,8 @@
 {
-  "vid": "1204",
-  "vname": "PowerDNS",
-  "vcpe": "cpe:/:powerdns",
-  "pid": "13969",
-  "pname": "PowerDNS Authoritative Server",
-  "pcpe": "cpe:/a:powerdns:authoritative_server"
+	"vid": "1204",
+	"vname": "PowerDNS",
+	"vcpe": "cpe:/:powerdns",
+	"pid": "13969",
+	"pname": "PowerDNS Authoritative Server",
+	"pcpe": "cpe:/a:powerdns:authoritative_server"
 }

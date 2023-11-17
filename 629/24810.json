@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "24810",
-  "pname": "EDS-405A シリーズ ファームウェア",
-  "pcpe": "cpe:/o:moxa:eds-405a_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "24810",
+	"pname": "EDS-405A シリーズ ファームウェア",
+	"pcpe": "cpe:/o:moxa:eds-405a_firmware"
 }

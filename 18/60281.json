@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "60281",
-  "pname": "IBM Aspera Faspex",
-  "pcpe": "cpe:/a:ibm:aspera_faspex"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "60281",
+	"pname": "IBM Aspera Faspex",
+	"pcpe": "cpe:/a:ibm:aspera_faspex"
 }

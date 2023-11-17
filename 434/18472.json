@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "18472",
-  "pname": "VPLEX Geo",
-  "pcpe": "cpe:/h:emc:vplex_geo"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "18472",
+	"pname": "VPLEX Geo",
+	"pcpe": "cpe:/h:emc:vplex_geo"
 }

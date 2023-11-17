@@ -1,8 +1,8 @@
 {
-  "vid": "18572",
-  "vname": "Kitodo",
-  "vcpe": "cpe:/:kitodo",
-  "pid": "45782",
-  "pname": "Kitodo.Presentation",
-  "pcpe": "cpe:/a:kitodo:kitodo.presentation"
+	"vid": "18572",
+	"vname": "Kitodo",
+	"vcpe": "cpe:/:kitodo",
+	"pid": "45782",
+	"pname": "Kitodo.Presentation",
+	"pcpe": "cpe:/a:kitodo:kitodo.presentation"
 }

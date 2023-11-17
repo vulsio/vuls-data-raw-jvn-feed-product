@@ -1,8 +1,8 @@
 {
-  "vid": "15419",
-  "vname": "MicroPyramid",
-  "vcpe": "cpe:/:micropyramid",
-  "pid": "35789",
-  "pname": "Django-CRM",
-  "pcpe": "cpe:/a:micropyramid:django-crm"
+	"vid": "15419",
+	"vname": "MicroPyramid",
+	"vcpe": "cpe:/:micropyramid",
+	"pid": "35789",
+	"pname": "Django-CRM",
+	"pcpe": "cpe:/a:micropyramid:django-crm"
 }

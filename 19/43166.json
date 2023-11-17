@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "43166",
-  "pname": "Cisco UCS Manager",
-  "pcpe": "cpe:/a:cisco:ucs_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "43166",
+	"pname": "Cisco UCS Manager",
+	"pcpe": "cpe:/a:cisco:ucs_manager"
 }

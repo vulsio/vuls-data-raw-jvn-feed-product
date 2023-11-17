@@ -1,8 +1,8 @@
 {
-  "vid": "11673",
-  "vname": "REST-Client Team",
-  "vcpe": "cpe:/:rest-client_project",
-  "pid": "23985",
-  "pname": "REST client",
-  "pcpe": "cpe:/a:rest-client_project:rest-client"
+	"vid": "11673",
+	"vname": "REST-Client Team",
+	"vcpe": "cpe:/:rest-client_project",
+	"pid": "23985",
+	"pname": "REST client",
+	"pcpe": "cpe:/a:rest-client_project:rest-client"
 }

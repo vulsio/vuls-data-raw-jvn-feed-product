@@ -1,8 +1,8 @@
 {
-  "vid": "17317",
-  "vname": "dbell Inc.",
-  "vcpe": "cpe:/:dbell",
-  "pid": "41170",
-  "pname": "DB01-S ファームウェア",
-  "pcpe": "cpe:/o:dbell:db01-s_firmware"
+	"vid": "17317",
+	"vname": "dbell Inc.",
+	"vcpe": "cpe:/:dbell",
+	"pid": "41170",
+	"pname": "DB01-S ファームウェア",
+	"pcpe": "cpe:/o:dbell:db01-s_firmware"
 }

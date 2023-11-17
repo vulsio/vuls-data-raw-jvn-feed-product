@@ -1,8 +1,8 @@
 {
-  "vid": "1152",
-  "vname": "Overseas",
-  "vcpe": "cpe:/:overseaswtc",
-  "pid": "3821",
-  "pname": "NexorONE Online Banking",
-  "pcpe": "cpe:/a:overseaswtc:nexorone_online_banking_system"
+	"vid": "1152",
+	"vname": "Overseas",
+	"vcpe": "cpe:/:overseaswtc",
+	"pid": "3821",
+	"pname": "NexorONE Online Banking",
+	"pcpe": "cpe:/a:overseaswtc:nexorone_online_banking_system"
 }

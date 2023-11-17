@@ -1,8 +1,8 @@
 {
-  "vid": "14474",
-  "vname": "fastify",
-  "vcpe": "cpe:/:fastify",
-  "pid": "47680",
-  "pname": "fastify-http-proxy",
-  "pcpe": "cpe:/a:fastify:fastify-http-proxy"
+	"vid": "14474",
+	"vname": "fastify",
+	"vcpe": "cpe:/:fastify",
+	"pid": "47680",
+	"pname": "fastify-http-proxy",
+	"pcpe": "cpe:/a:fastify:fastify-http-proxy"
 }

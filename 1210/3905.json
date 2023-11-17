@@ -1,8 +1,8 @@
 {
-  "vid": "1210",
-  "vname": "ACD Systems International",
-  "vcpe": "cpe:/:acd_systems",
-  "pid": "3905",
-  "pname": "ACDSee",
-  "pcpe": "cpe:/a:acd_systems:acdsee"
+	"vid": "1210",
+	"vname": "ACD Systems International",
+	"vcpe": "cpe:/:acd_systems",
+	"pid": "3905",
+	"pname": "ACDSee",
+	"pcpe": "cpe:/a:acd_systems:acdsee"
 }

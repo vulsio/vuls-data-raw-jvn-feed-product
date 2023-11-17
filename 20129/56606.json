@@ -1,8 +1,8 @@
 {
-  "vid": "20129",
-  "vname": "NortonLifeLock Inc.",
-  "vcpe": "cpe:/:norton",
-  "pid": "56606",
-  "pname": "Norton Power Eraser",
-  "pcpe": "cpe:/a:norton:power_eraser"
+	"vid": "20129",
+	"vname": "NortonLifeLock Inc.",
+	"vcpe": "cpe:/:norton",
+	"pid": "56606",
+	"pname": "Norton Power Eraser",
+	"pcpe": "cpe:/a:norton:power_eraser"
 }

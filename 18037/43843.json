@@ -1,8 +1,8 @@
 {
-  "vid": "18037",
-  "vname": "DEVOME",
-  "vcpe": "cpe:/:devome",
-  "pid": "43843",
-  "pname": "GRR",
-  "pcpe": "cpe:/a:devome:grr"
+	"vid": "18037",
+	"vname": "DEVOME",
+	"vcpe": "cpe:/:devome",
+	"pid": "43843",
+	"pname": "GRR",
+	"pcpe": "cpe:/a:devome:grr"
 }

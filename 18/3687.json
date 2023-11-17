@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "3687",
-  "pname": "IBM Cognos Executive Viewer",
-  "pcpe": "cpe:/a:ibm:cognos_executive_viewer"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "3687",
+	"pname": "IBM Cognos Executive Viewer",
+	"pcpe": "cpe:/a:ibm:cognos_executive_viewer"
 }

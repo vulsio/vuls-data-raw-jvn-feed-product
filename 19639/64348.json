@@ -1,8 +1,8 @@
 {
-  "vid": "19639",
-  "vname": "SquaredUp",
-  "vcpe": "cpe:/:squaredup",
-  "pid": "64348",
-  "pname": "dashboard server",
-  "pcpe": "cpe:/a:squaredup:dashboard_server"
+	"vid": "19639",
+	"vname": "SquaredUp",
+	"vcpe": "cpe:/:squaredup",
+	"pid": "64348",
+	"pname": "dashboard server",
+	"pcpe": "cpe:/a:squaredup:dashboard_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20535",
-  "vname": "BenQ",
-  "vcpe": "cpe:/:benq",
-  "pid": "52293",
-  "pname": "EH600 ファームウェア",
-  "pcpe": "cpe:/o:benq:eh600_firmware"
+	"vid": "20535",
+	"vname": "BenQ",
+	"vcpe": "cpe:/:benq",
+	"pid": "52293",
+	"pname": "EH600 ファームウェア",
+	"pcpe": "cpe:/o:benq:eh600_firmware"
 }

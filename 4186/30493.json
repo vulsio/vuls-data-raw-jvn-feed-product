@@ -1,8 +1,8 @@
 {
-  "vid": "4186",
-  "vname": "DreamBox",
-  "vcpe": "cpe:/:dreambox",
-  "pid": "30493",
-  "pname": "opendreambox",
-  "pcpe": "cpe:/a:dreambox:opendreambox"
+	"vid": "4186",
+	"vname": "DreamBox",
+	"vcpe": "cpe:/:dreambox",
+	"pid": "30493",
+	"pname": "opendreambox",
+	"pcpe": "cpe:/a:dreambox:opendreambox"
 }

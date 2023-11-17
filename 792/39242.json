@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "39242",
-  "pname": "ZyWall VPN100 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:zywall_vpn100_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "39242",
+	"pname": "ZyWall VPN100 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:zywall_vpn100_firmware"
 }

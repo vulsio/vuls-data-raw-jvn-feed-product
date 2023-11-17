@@ -1,8 +1,8 @@
 {
-  "vid": "13134",
-  "vname": "Fastly, Inc.",
-  "vcpe": "cpe:/:fastly",
-  "pid": "62969",
-  "pname": "js-compute",
-  "pcpe": "cpe:/a:fastly:js-compute"
+	"vid": "13134",
+	"vname": "Fastly, Inc.",
+	"vcpe": "cpe:/:fastly",
+	"pid": "62969",
+	"pname": "js-compute",
+	"pcpe": "cpe:/a:fastly:js-compute"
 }

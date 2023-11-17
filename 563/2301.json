@@ -1,8 +1,8 @@
 {
-  "vid": "563",
-  "vname": "OpenPNEプロジェクト",
-  "vcpe": "cpe:/:tejimaya",
-  "pid": "2301",
-  "pname": "OpenPNE",
-  "pcpe": "cpe:/a:tejimaya:openpne"
+	"vid": "563",
+	"vname": "OpenPNEプロジェクト",
+	"vcpe": "cpe:/:tejimaya",
+	"pid": "2301",
+	"pname": "OpenPNE",
+	"pcpe": "cpe:/a:tejimaya:openpne"
 }

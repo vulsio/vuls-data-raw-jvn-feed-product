@@ -1,8 +1,8 @@
 {
-  "vid": "18410",
-  "vname": "ファナック株式会社",
-  "vcpe": "cpe:/:fanuc",
-  "pid": "55221",
-  "pname": "R-30iA ファームウェア",
-  "pcpe": "cpe:/o:fanuc:r-30ia_firmware"
+	"vid": "18410",
+	"vname": "ファナック株式会社",
+	"vcpe": "cpe:/:fanuc",
+	"pid": "55221",
+	"pname": "R-30iA ファームウェア",
+	"pcpe": "cpe:/o:fanuc:r-30ia_firmware"
 }

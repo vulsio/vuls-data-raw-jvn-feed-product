@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "16776",
-  "pname": "Polycom HDX 9002",
-  "pcpe": "cpe:/h:polycom:hdx_9002"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "16776",
+	"pname": "Polycom HDX 9002",
+	"pcpe": "cpe:/h:polycom:hdx_9002"
 }

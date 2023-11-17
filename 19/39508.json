@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "39508",
-  "pname": "ASA 5506-X ファームウェア",
-  "pcpe": "cpe:/o:cisco:asa_5506-x_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "39508",
+	"pname": "ASA 5506-X ファームウェア",
+	"pcpe": "cpe:/o:cisco:asa_5506-x_firmware"
 }

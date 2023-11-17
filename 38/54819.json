@@ -1,8 +1,8 @@
 {
-  "vid": "38",
-  "vname": "The Perl Foundation",
-  "vcpe": "cpe:/:perl",
-  "pid": "54819",
-  "pname": "Comprehensive Perl Archive Network (CPAN)",
-  "pcpe": "cpe:/a:perl:comprehensive_perl_archive_network"
+	"vid": "38",
+	"vname": "The Perl Foundation",
+	"vcpe": "cpe:/:perl",
+	"pid": "54819",
+	"pname": "Comprehensive Perl Archive Network (CPAN)",
+	"pcpe": "cpe:/a:perl:comprehensive_perl_archive_network"
 }

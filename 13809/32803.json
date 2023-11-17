@@ -1,8 +1,8 @@
 {
-  "vid": "13809",
-  "vname": "Apexis",
-  "vcpe": "cpe:/:apexis",
-  "pid": "32803",
-  "pname": "APM-H803-MPC ファームウェア",
-  "pcpe": "cpe:/o:apexis:apm-h803-mpc_firmware"
+	"vid": "13809",
+	"vname": "Apexis",
+	"vcpe": "cpe:/:apexis",
+	"pid": "32803",
+	"pname": "APM-H803-MPC ファームウェア",
+	"pcpe": "cpe:/o:apexis:apm-h803-mpc_firmware"
 }

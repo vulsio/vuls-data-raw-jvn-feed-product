@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "38310",
-  "pname": "BigFix WebUI Software Distribution",
-  "pcpe": "cpe:/a:ibm:bigfix_webui_software_distribution"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "38310",
+	"pname": "BigFix WebUI Software Distribution",
+	"pcpe": "cpe:/a:ibm:bigfix_webui_software_distribution"
 }

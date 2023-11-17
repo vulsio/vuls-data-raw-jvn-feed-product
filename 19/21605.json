@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "21605",
-  "pname": "Cisco UCS E140D",
-  "pcpe": "cpe:/h:cisco:unified_computing_system_e140d"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "21605",
+	"pname": "Cisco UCS E140D",
+	"pcpe": "cpe:/h:cisco:unified_computing_system_e140d"
 }

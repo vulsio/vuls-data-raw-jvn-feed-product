@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "56424",
-  "pname": "工場付加価値時間計測ソリューション",
-  "pcpe": "cpe:/a:nec:factory_valueadded_solution"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "56424",
+	"pname": "工場付加価値時間計測ソリューション",
+	"pcpe": "cpe:/a:nec:factory_valueadded_solution"
 }

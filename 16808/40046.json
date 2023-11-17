@@ -1,8 +1,8 @@
 {
-  "vid": "16808",
-  "vname": "Time Sheets project",
-  "vcpe": "cpe:/:time_sheets_project",
-  "pid": "40046",
-  "pname": "Time Sheets",
-  "pcpe": "cpe:/a:time_sheets_project:time_sheets"
+	"vid": "16808",
+	"vname": "Time Sheets project",
+	"vcpe": "cpe:/:time_sheets_project",
+	"pid": "40046",
+	"pname": "Time Sheets",
+	"pcpe": "cpe:/a:time_sheets_project:time_sheets"
 }

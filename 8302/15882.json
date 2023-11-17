@@ -1,8 +1,8 @@
 {
-  "vid": "8302",
-  "vname": "vignette",
-  "vcpe": "cpe:/:vignette",
-  "pid": "15882",
-  "pname": "Vignette Content Management",
-  "pcpe": "cpe:/a:vignette:vignette_content_management"
+	"vid": "8302",
+	"vname": "vignette",
+	"vcpe": "cpe:/:vignette",
+	"pid": "15882",
+	"pname": "Vignette Content Management",
+	"pcpe": "cpe:/a:vignette:vignette_content_management"
 }

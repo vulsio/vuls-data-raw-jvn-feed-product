@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "141",
-  "pname": "Apache HTTP Server",
-  "pcpe": "cpe:/a:apache:http_server"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "141",
+	"pname": "Apache HTTP Server",
+	"pcpe": "cpe:/a:apache:http_server"
 }

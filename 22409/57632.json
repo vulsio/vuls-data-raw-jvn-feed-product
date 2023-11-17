@@ -1,8 +1,8 @@
 {
-  "vid": "22409",
-  "vname": "mi",
-  "vcpe": "cpe:/:mi",
-  "pid": "57632",
-  "pname": "ax6000 ファームウェア",
-  "pcpe": "cpe:/o:mi:ax6000_firmware"
+	"vid": "22409",
+	"vname": "mi",
+	"vcpe": "cpe:/:mi",
+	"pid": "57632",
+	"pname": "ax6000 ファームウェア",
+	"pcpe": "cpe:/o:mi:ax6000_firmware"
 }

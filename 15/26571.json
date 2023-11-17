@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26571",
-  "pname": "Oracle Secure Global Desktop",
-  "pcpe": "cpe:/a:oracle:secure_global_desktop"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26571",
+	"pname": "Oracle Secure Global Desktop",
+	"pcpe": "cpe:/a:oracle:secure_global_desktop"
 }

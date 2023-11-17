@@ -1,8 +1,8 @@
 {
-  "vid": "12757",
-  "vname": "Odoo",
-  "vcpe": "cpe:/:odoo",
-  "pid": "29334",
-  "pname": "Odoo",
-  "pcpe": "cpe:/a:odoo:odoo"
+	"vid": "12757",
+	"vname": "Odoo",
+	"vcpe": "cpe:/:odoo",
+	"pid": "29334",
+	"pname": "Odoo",
+	"pcpe": "cpe:/a:odoo:odoo"
 }

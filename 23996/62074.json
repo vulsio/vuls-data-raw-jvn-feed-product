@@ -1,8 +1,8 @@
 {
-  "vid": "23996",
-  "vname": "WP-Filebase Download Manager project",
-  "vcpe": "cpe:/:wp-filebase_download_manager_project",
-  "pid": "62074",
-  "pname": "WP-Filebase Download Manager",
-  "pcpe": "cpe:/a:wp-filebase_download_manager_project:wp-filebase_download_manager"
+	"vid": "23996",
+	"vname": "WP-Filebase Download Manager project",
+	"vcpe": "cpe:/:wp-filebase_download_manager_project",
+	"pid": "62074",
+	"pname": "WP-Filebase Download Manager",
+	"pcpe": "cpe:/a:wp-filebase_download_manager_project:wp-filebase_download_manager"
 }

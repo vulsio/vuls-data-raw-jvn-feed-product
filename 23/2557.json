@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "2557",
-  "pname": "Symantec PGP Desktop",
-  "pcpe": "cpe:/a:symantec:pgp_desktop"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "2557",
+	"pname": "Symantec PGP Desktop",
+	"pcpe": "cpe:/a:symantec:pgp_desktop"
 }

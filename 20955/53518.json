@@ -1,8 +1,8 @@
 {
-  "vid": "20955",
-  "vname": "Varnish Software",
-  "vcpe": "cpe:/:varnish-software",
-  "pid": "53518",
-  "pname": "Varnish Cache",
-  "pcpe": "cpe:/a:varnish-software:varnish_cache"
+	"vid": "20955",
+	"vname": "Varnish Software",
+	"vcpe": "cpe:/:varnish-software",
+	"pid": "53518",
+	"pname": "Varnish Cache",
+	"pcpe": "cpe:/a:varnish-software:varnish_cache"
 }

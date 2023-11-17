@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "30958",
-  "pname": "Intel NUC Kit NUC7i3BNK ファームウェア",
-  "pcpe": "cpe:/o:intel:nuc7i3bnk_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "30958",
+	"pname": "Intel NUC Kit NUC7i3BNK ファームウェア",
+	"pcpe": "cpe:/o:intel:nuc7i3bnk_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22394",
-  "vname": "sigstore",
-  "vcpe": "cpe:/:sigstore",
-  "pid": "57602",
-  "pname": "cosign",
-  "pcpe": "cpe:/a:sigstore:cosign"
+	"vid": "22394",
+	"vname": "sigstore",
+	"vcpe": "cpe:/:sigstore",
+	"pid": "57602",
+	"pname": "cosign",
+	"pcpe": "cpe:/a:sigstore:cosign"
 }

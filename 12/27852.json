@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "27852",
-  "pname": "Trend Micro Smart Protection Server",
-  "pcpe": "cpe:/a:trendmicro:smart_protection_server"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "27852",
+	"pname": "Trend Micro Smart Protection Server",
+	"pcpe": "cpe:/a:trendmicro:smart_protection_server"
 }

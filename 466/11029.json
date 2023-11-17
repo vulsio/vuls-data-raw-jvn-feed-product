@@ -1,8 +1,8 @@
 {
-  "vid": "466",
-  "vname": "Little CMS",
-  "vcpe": "cpe:/:littlecms",
-  "pid": "11029",
-  "pname": "lcms",
-  "pcpe": "cpe:/a:littlecms:lcms"
+	"vid": "466",
+	"vname": "Little CMS",
+	"vcpe": "cpe:/:littlecms",
+	"pid": "11029",
+	"pname": "lcms",
+	"pcpe": "cpe:/a:littlecms:lcms"
 }

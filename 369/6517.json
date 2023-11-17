@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "6517",
-  "pname": "cleverpath portal",
-  "pcpe": "cpe:/a:ca:cleverpath_portal"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "6517",
+	"pname": "cleverpath portal",
+	"pcpe": "cpe:/a:ca:cleverpath_portal"
 }

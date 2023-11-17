@@ -1,8 +1,8 @@
 {
-  "vid": "5405",
-  "vname": "lycos",
-  "vcpe": "cpe:/:lycos",
-  "pid": "11095",
-  "pname": "fileuploader.dll",
-  "pcpe": "cpe:/a:lycos:fileuploader.dll"
+	"vid": "5405",
+	"vname": "lycos",
+	"vcpe": "cpe:/:lycos",
+	"pid": "11095",
+	"pname": "fileuploader.dll",
+	"pcpe": "cpe:/a:lycos:fileuploader.dll"
 }

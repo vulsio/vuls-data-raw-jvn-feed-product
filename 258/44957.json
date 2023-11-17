@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "44957",
-  "pname": "glib-networking",
-  "pcpe": "cpe:/a:gnome:glib-networking"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "44957",
+	"pname": "glib-networking",
+	"pcpe": "cpe:/a:gnome:glib-networking"
 }

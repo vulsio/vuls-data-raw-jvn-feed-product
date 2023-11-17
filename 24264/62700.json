@@ -1,8 +1,8 @@
 {
-  "vid": "24264",
-  "vname": "Thinkific",
-  "vcpe": "cpe:/:thinkific",
-  "pid": "62700",
-  "pname": "Thinkific Uploader",
-  "pcpe": "cpe:/a:thinkific:thinkific_uploader"
+	"vid": "24264",
+	"vname": "Thinkific",
+	"vcpe": "cpe:/:thinkific",
+	"pid": "62700",
+	"pname": "Thinkific Uploader",
+	"pcpe": "cpe:/a:thinkific:thinkific_uploader"
 }

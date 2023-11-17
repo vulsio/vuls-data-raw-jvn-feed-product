@@ -1,8 +1,8 @@
 {
-  "vid": "3957",
-  "vname": "gesytec easylon",
-  "vcpe": "cpe:/:gesytec_easylon",
-  "pid": "8396",
-  "pname": "opc server",
-  "pcpe": "cpe:/a:gesytec_easylon:opc_server"
+	"vid": "3957",
+	"vname": "gesytec easylon",
+	"vcpe": "cpe:/:gesytec_easylon",
+	"pid": "8396",
+	"pname": "opc server",
+	"pcpe": "cpe:/a:gesytec_easylon:opc_server"
 }

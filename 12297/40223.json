@@ -1,8 +1,8 @@
 {
-  "vid": "12297",
-  "vname": "WooCommerce project",
-  "vcpe": "cpe:/:woocommerce",
-  "pid": "40223",
-  "pname": "WooCommerce PayU India Payment Gateway",
-  "pcpe": "cpe:/a:woocommerce:payu_india_payment_gateway"
+	"vid": "12297",
+	"vname": "WooCommerce project",
+	"vcpe": "cpe:/:woocommerce",
+	"pid": "40223",
+	"pname": "WooCommerce PayU India Payment Gateway",
+	"pcpe": "cpe:/a:woocommerce:payu_india_payment_gateway"
 }

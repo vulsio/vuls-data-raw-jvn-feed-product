@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "35878",
-  "pname": "ZyWALL 310 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:usg_310_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "35878",
+	"pname": "ZyWALL 310 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:usg_310_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19234",
-  "vname": "private-ip project",
-  "vcpe": "cpe:/:private-ip_project",
-  "pid": "48410",
-  "pname": "private-ip",
-  "pcpe": "cpe:/a:private-ip_project:private-ip"
+	"vid": "19234",
+	"vname": "private-ip project",
+	"vcpe": "cpe:/:private-ip_project",
+	"pid": "48410",
+	"pname": "private-ip",
+	"pcpe": "cpe:/a:private-ip_project:private-ip"
 }

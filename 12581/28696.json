@@ -1,8 +1,8 @@
 {
-  "vid": "12581",
-  "vname": "NixOS",
-  "vcpe": "cpe:/:nixos_project",
-  "pid": "28696",
-  "pname": "NixOS",
-  "pcpe": "cpe:/o:nixos_project:nixos"
+	"vid": "12581",
+	"vname": "NixOS",
+	"vcpe": "cpe:/:nixos_project",
+	"pid": "28696",
+	"pname": "NixOS",
+	"pcpe": "cpe:/o:nixos_project:nixos"
 }

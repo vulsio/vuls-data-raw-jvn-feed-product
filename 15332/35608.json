@@ -1,8 +1,8 @@
 {
-  "vid": "15332",
-  "vname": "rpm-ostree",
-  "vcpe": "cpe:/:rpm-ostree",
-  "pid": "35608",
-  "pname": "rpm-ostree",
-  "pcpe": "cpe:/a:rpm-ostree:rpm-ostree"
+	"vid": "15332",
+	"vname": "rpm-ostree",
+	"vcpe": "cpe:/:rpm-ostree",
+	"pid": "35608",
+	"pname": "rpm-ostree",
+	"pcpe": "cpe:/a:rpm-ostree:rpm-ostree"
 }

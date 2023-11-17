@@ -1,8 +1,8 @@
 {
-  "vid": "23337",
-  "vname": "jki",
-  "vcpe": "cpe:/:jki",
-  "pid": "60445",
-  "pname": "vi package manager",
-  "pcpe": "cpe:/a:jki:vi_package_manager"
+	"vid": "23337",
+	"vname": "jki",
+	"vcpe": "cpe:/:jki",
+	"pid": "60445",
+	"pname": "vi package manager",
+	"pcpe": "cpe:/a:jki:vi_package_manager"
 }

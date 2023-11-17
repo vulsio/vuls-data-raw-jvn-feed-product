@@ -1,8 +1,8 @@
 {
-  "vid": "5921",
-  "vname": "netimage media",
-  "vcpe": "cpe:/:netimage_media",
-  "pid": "11954",
-  "pname": "element cms",
-  "pcpe": "cpe:/a:netimage_media:element_cms"
+	"vid": "5921",
+	"vname": "netimage media",
+	"vcpe": "cpe:/:netimage_media",
+	"pid": "11954",
+	"pname": "element cms",
+	"pcpe": "cpe:/a:netimage_media:element_cms"
 }

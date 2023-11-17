@@ -1,8 +1,8 @@
 {
-  "vid": "16497",
-  "vname": "RDK Management, LLC",
-  "vcpe": "cpe:/:rdkcentral",
-  "pid": "39244",
-  "pname": "RDKB CcspPandM",
-  "pcpe": "cpe:/a:rdkcentral:rdkb_ccsppandm"
+	"vid": "16497",
+	"vname": "RDK Management, LLC",
+	"vcpe": "cpe:/:rdkcentral",
+	"pid": "39244",
+	"pname": "RDKB CcspPandM",
+	"pcpe": "cpe:/a:rdkcentral:rdkb_ccsppandm"
 }

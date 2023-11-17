@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "47456",
-  "pname": "Intel Optane SSD 900P",
-  "pcpe": "cpe:/o:intel:optane_ssd_900p_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "47456",
+	"pname": "Intel Optane SSD 900P",
+	"pcpe": "cpe:/o:intel:optane_ssd_900p_firmware"
 }

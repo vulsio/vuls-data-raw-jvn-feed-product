@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9992",
-  "pname": "lotus symphany",
-  "pcpe": "cpe:/a:ibm:lotus_symphany"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9992",
+	"pname": "lotus symphany",
+	"pcpe": "cpe:/a:ibm:lotus_symphany"
 }

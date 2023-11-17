@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "50211",
-  "pname": "APOGEE Modular Building Controller ファームウェア",
-  "pcpe": "cpe:/o:siemens:apogee_modular_building_controller_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "50211",
+	"pname": "APOGEE Modular Building Controller ファームウェア",
+	"pcpe": "cpe:/o:siemens:apogee_modular_building_controller_firmware"
 }

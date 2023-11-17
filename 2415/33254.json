@@ -1,8 +1,8 @@
 {
-  "vid": "2415",
-  "vname": "アクシスコミュニケーションズ",
-  "vcpe": "cpe:/:axis",
-  "pid": "33254",
-  "pname": "P1354 ファームウェア",
-  "pcpe": "cpe:/o:axis:p1354_firmware"
+	"vid": "2415",
+	"vname": "アクシスコミュニケーションズ",
+	"vcpe": "cpe:/:axis",
+	"pid": "33254",
+	"pname": "P1354 ファームウェア",
+	"pcpe": "cpe:/o:axis:p1354_firmware"
 }

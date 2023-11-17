@@ -1,8 +1,8 @@
 {
-  "vid": "574",
-  "vname": "ESET",
-  "vcpe": "cpe:/:eset",
-  "pid": "41083",
-  "pname": "ESET Cyber Security",
-  "pcpe": "cpe:/a:eset:cyber_security"
+	"vid": "574",
+	"vname": "ESET",
+	"vcpe": "cpe:/:eset",
+	"pid": "41083",
+	"pname": "ESET Cyber Security",
+	"pcpe": "cpe:/a:eset:cyber_security"
 }

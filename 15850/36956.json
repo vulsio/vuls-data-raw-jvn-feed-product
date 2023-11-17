@@ -1,8 +1,8 @@
 {
-  "vid": "15850",
-  "vname": "iNovo Broadband",
-  "vcpe": "cpe:/:inovobb",
-  "pid": "36956",
-  "pname": "IB-8120-W21E1 ファームウェア",
-  "pcpe": "cpe:/o:inovobb:ib-8120-w21e1_firmware"
+	"vid": "15850",
+	"vname": "iNovo Broadband",
+	"vcpe": "cpe:/:inovobb",
+	"pid": "36956",
+	"pname": "IB-8120-W21E1 ファームウェア",
+	"pcpe": "cpe:/o:inovobb:ib-8120-w21e1_firmware"
 }

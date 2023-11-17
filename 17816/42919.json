@@ -1,8 +1,8 @@
 {
-  "vid": "17816",
-  "vname": "Podpress.org",
-  "vcpe": "cpe:/:podpress_project",
-  "pid": "42919",
-  "pname": "Podpress",
-  "pcpe": "cpe:/a:podpress_project:podpress"
+	"vid": "17816",
+	"vname": "Podpress.org",
+	"vcpe": "cpe:/:podpress_project",
+	"pid": "42919",
+	"pname": "Podpress",
+	"pcpe": "cpe:/a:podpress_project:podpress"
 }

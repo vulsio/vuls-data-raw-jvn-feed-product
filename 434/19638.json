@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "19638",
-  "pname": "RSA Data Loss Prevention",
-  "pcpe": "cpe:/a:emc:rsa_data_loss_prevention"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "19638",
+	"pname": "RSA Data Loss Prevention",
+	"pcpe": "cpe:/a:emc:rsa_data_loss_prevention"
 }

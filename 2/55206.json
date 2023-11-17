@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "55206",
-  "pname": "Windows Malicious Software Removal Tool",
-  "pcpe": "cpe:/a:microsoft:windows_malicious_software_removal_tool"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "55206",
+	"pname": "Windows Malicious Software Removal Tool",
+	"pcpe": "cpe:/a:microsoft:windows_malicious_software_removal_tool"
 }

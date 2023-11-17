@@ -1,8 +1,8 @@
 {
-  "vid": "18342",
-  "vname": "websocket-extensions project",
-  "vcpe": "cpe:/:websocket-extensions_project",
-  "pid": "45010",
-  "pname": "websocket-extensions",
-  "pcpe": "cpe:/a:websocket-extensions_project:websocket-extensions"
+	"vid": "18342",
+	"vname": "websocket-extensions project",
+	"vcpe": "cpe:/:websocket-extensions_project",
+	"pid": "45010",
+	"pname": "websocket-extensions",
+	"pcpe": "cpe:/a:websocket-extensions_project:websocket-extensions"
 }

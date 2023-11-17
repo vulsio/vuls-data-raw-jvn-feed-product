@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "54989",
-  "pname": "SAP Access Control",
-  "pcpe": "cpe:/a:sap:access_control"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "54989",
+	"pname": "SAP Access Control",
+	"pcpe": "cpe:/a:sap:access_control"
 }

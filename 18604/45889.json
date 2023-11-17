@@ -1,8 +1,8 @@
 {
-  "vid": "18604",
-  "vname": "save-server project",
-  "vcpe": "cpe:/:save-server_project",
-  "pid": "45889",
-  "pname": "save-server",
-  "pcpe": "cpe:/a:save-server_project:save-server"
+	"vid": "18604",
+	"vname": "save-server project",
+	"vcpe": "cpe:/:save-server_project",
+	"pid": "45889",
+	"pname": "save-server",
+	"pcpe": "cpe:/a:save-server_project:save-server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16915",
-  "vname": "slice-deque project",
-  "vcpe": "cpe:/:slice-deque_project",
-  "pid": "40239",
-  "pname": "slice-deque",
-  "pcpe": "cpe:/a:slice-deque_project:slice-deque"
+	"vid": "16915",
+	"vname": "slice-deque project",
+	"vcpe": "cpe:/:slice-deque_project",
+	"pid": "40239",
+	"pname": "slice-deque",
+	"pcpe": "cpe:/a:slice-deque_project:slice-deque"
 }

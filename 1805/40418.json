@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "40418",
-  "pname": "Archer C2 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:archer_c2_v1_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "40418",
+	"pname": "Archer C2 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:archer_c2_v1_firmware"
 }

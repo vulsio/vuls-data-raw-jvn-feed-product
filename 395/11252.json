@@ -1,8 +1,8 @@
 {
-  "vid": "395",
-  "vname": "Mandriva, Inc.",
-  "vcpe": "cpe:/:mandriva",
-  "pid": "11252",
-  "pname": "multi network firewall",
-  "pcpe": "cpe:/a:mandriva:multi_network_firewall"
+	"vid": "395",
+	"vname": "Mandriva, Inc.",
+	"vcpe": "cpe:/:mandriva",
+	"pid": "11252",
+	"pname": "multi network firewall",
+	"pcpe": "cpe:/a:mandriva:multi_network_firewall"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3897",
-  "vname": "gameservers",
-  "vcpe": "cpe:/:gameservers",
-  "pid": "8316",
-  "pname": "gsc",
-  "pcpe": "cpe:/a:gameservers:gsc"
+	"vid": "3897",
+	"vname": "gameservers",
+	"vcpe": "cpe:/:gameservers",
+	"pid": "8316",
+	"pname": "gsc",
+	"pcpe": "cpe:/a:gameservers:gsc"
 }

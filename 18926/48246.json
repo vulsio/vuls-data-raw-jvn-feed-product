@@ -1,8 +1,8 @@
 {
-  "vid": "18926",
-  "vname": "Inspur",
-  "vcpe": "cpe:/:inspur",
-  "pid": "48246",
-  "pname": "NS5482M5 ファームウェア",
-  "pcpe": "cpe:/o:inspur:ns5482m5_firmware"
+	"vid": "18926",
+	"vname": "Inspur",
+	"vcpe": "cpe:/:inspur",
+	"pid": "48246",
+	"pname": "NS5482M5 ファームウェア",
+	"pcpe": "cpe:/o:inspur:ns5482m5_firmware"
 }

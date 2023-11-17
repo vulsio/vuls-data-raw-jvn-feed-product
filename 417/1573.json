@@ -1,8 +1,8 @@
 {
-  "vid": "417",
-  "vname": "Rdesktop",
-  "vcpe": "cpe:/:rdesktop",
-  "pid": "1573",
-  "pname": "Rdesktop",
-  "pcpe": "cpe:/a:rdesktop:rdesktop"
+	"vid": "417",
+	"vname": "Rdesktop",
+	"vcpe": "cpe:/:rdesktop",
+	"pid": "1573",
+	"pname": "Rdesktop",
+	"pcpe": "cpe:/a:rdesktop:rdesktop"
 }

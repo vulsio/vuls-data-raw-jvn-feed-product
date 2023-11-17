@@ -1,8 +1,8 @@
 {
-  "vid": "12306",
-  "vname": "Netop",
-  "vcpe": "cpe:/:netop",
-  "pid": "47341",
-  "pname": "Netop Vision Pro",
-  "pcpe": "cpe:/a:netop:vision_pro"
+	"vid": "12306",
+	"vname": "Netop",
+	"vcpe": "cpe:/:netop",
+	"pid": "47341",
+	"pname": "Netop Vision Pro",
+	"pcpe": "cpe:/a:netop:vision_pro"
 }

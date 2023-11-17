@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "57595",
-  "pname": "HP Z4 G4 Workstation Xeon W ファームウェア",
-  "pcpe": "cpe:/o:hp:z4_g4_workstation_%28xeon_w%29_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "57595",
+	"pname": "HP Z4 G4 Workstation Xeon W ファームウェア",
+	"pcpe": "cpe:/o:hp:z4_g4_workstation_%28xeon_w%29_firmware"
 }

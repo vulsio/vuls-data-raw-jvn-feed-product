@@ -1,8 +1,8 @@
 {
-  "vid": "1313",
-  "vname": "G Data Software",
-  "vcpe": "cpe:/:gdata-software",
-  "pid": "8338",
-  "pname": "antivirus",
-  "pcpe": "cpe:/a:gdata-software:antivirus"
+	"vid": "1313",
+	"vname": "G Data Software",
+	"vcpe": "cpe:/:gdata-software",
+	"pid": "8338",
+	"pname": "antivirus",
+	"pcpe": "cpe:/a:gdata-software:antivirus"
 }

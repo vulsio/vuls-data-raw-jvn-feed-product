@@ -1,8 +1,8 @@
 {
-  "vid": "1113",
-  "vname": "Qihoo 360 Technology",
-  "vcpe": "cpe:/:360",
-  "pid": "43664",
-  "pname": "P0 router ファームウェア",
-  "pcpe": "cpe:/o:360:p0_router_firmware"
+	"vid": "1113",
+	"vname": "Qihoo 360 Technology",
+	"vcpe": "cpe:/:360",
+	"pid": "43664",
+	"pname": "P0 router ファームウェア",
+	"pcpe": "cpe:/o:360:p0_router_firmware"
 }

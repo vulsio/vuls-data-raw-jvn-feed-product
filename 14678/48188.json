@@ -1,8 +1,8 @@
 {
-  "vid": "14678",
-  "vname": "HCL Technologies Limited",
-  "vcpe": "cpe:/:hcltech",
-  "pid": "48188",
-  "pname": "HCL iNotes",
-  "pcpe": "cpe:/a:hcltech:hcl_inotes"
+	"vid": "14678",
+	"vname": "HCL Technologies Limited",
+	"vcpe": "cpe:/:hcltech",
+	"pid": "48188",
+	"pname": "HCL iNotes",
+	"pcpe": "cpe:/a:hcltech:hcl_inotes"
 }

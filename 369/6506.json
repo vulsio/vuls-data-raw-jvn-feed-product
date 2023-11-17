@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "6506",
-  "pname": "brightstor arcserve backup laptops desktops",
-  "pcpe": "cpe:/a:ca:brightstor_arcserve_backup_laptops_desktops"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "6506",
+	"pname": "brightstor arcserve backup laptops desktops",
+	"pcpe": "cpe:/a:ca:brightstor_arcserve_backup_laptops_desktops"
 }

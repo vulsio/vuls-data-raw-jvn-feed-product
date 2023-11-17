@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "31806",
-  "pname": "FL COMSERVER BAS 422 ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:fl_comserver_bas_422_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "31806",
+	"pname": "FL COMSERVER BAS 422 ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:fl_comserver_bas_422_firmware"
 }

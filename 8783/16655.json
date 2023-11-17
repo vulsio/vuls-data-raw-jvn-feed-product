@@ -1,8 +1,8 @@
 {
-  "vid": "8783",
-  "vname": "swannsecurity",
-  "vcpe": "cpe:/:swannsecurity",
-  "pid": "16655",
-  "pname": "dvr4-securanet",
-  "pcpe": "cpe:/h:swannsecurity:dvr4-securanet"
+	"vid": "8783",
+	"vname": "swannsecurity",
+	"vcpe": "cpe:/:swannsecurity",
+	"pid": "16655",
+	"pname": "dvr4-securanet",
+	"pcpe": "cpe:/h:swannsecurity:dvr4-securanet"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5413",
-  "vname": "Maarch",
-  "vcpe": "cpe:/:maarch",
-  "pid": "21672",
-  "pname": "Maarch LetterBox",
-  "pcpe": "cpe:/a:maarch:letterbox"
+	"vid": "5413",
+	"vname": "Maarch",
+	"vcpe": "cpe:/:maarch",
+	"pid": "21672",
+	"pname": "Maarch LetterBox",
+	"pcpe": "cpe:/a:maarch:letterbox"
 }

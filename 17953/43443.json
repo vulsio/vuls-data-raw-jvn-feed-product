@@ -1,8 +1,8 @@
 {
-  "vid": "17953",
-  "vname": "Goverlan, Inc.",
-  "vcpe": "cpe:/:goverlan",
-  "pid": "43443",
-  "pname": "Client Agent",
-  "pcpe": "cpe:/a:goverlan:client_agent"
+	"vid": "17953",
+	"vname": "Goverlan, Inc.",
+	"vcpe": "cpe:/:goverlan",
+	"pid": "43443",
+	"pname": "Client Agent",
+	"pcpe": "cpe:/a:goverlan:client_agent"
 }

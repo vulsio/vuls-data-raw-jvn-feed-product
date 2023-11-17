@@ -1,8 +1,8 @@
 {
-  "vid": "9758",
-  "vname": "株式会社エヌ・ティ・ティ・データ",
-  "vcpe": "cpe:/:nttdata",
-  "pid": "20325",
-  "pname": "TERASOLUNA Server Framework for Java(Web)",
-  "pcpe": "cpe:/a:nttdata:terasoluna_server_framework_for_java_web"
+	"vid": "9758",
+	"vname": "株式会社エヌ・ティ・ティ・データ",
+	"vcpe": "cpe:/:nttdata",
+	"pid": "20325",
+	"pname": "TERASOLUNA Server Framework for Java(Web)",
+	"pcpe": "cpe:/a:nttdata:terasoluna_server_framework_for_java_web"
 }

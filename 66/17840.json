@@ -1,8 +1,8 @@
 {
-  "vid": "66",
-  "vname": "XOOPS",
-  "vcpe": "cpe:/:xoops",
-  "pid": "17840",
-  "pname": "Kshop",
-  "pcpe": "cpe:/a:xoops:kshop_module"
+	"vid": "66",
+	"vname": "XOOPS",
+	"vcpe": "cpe:/:xoops",
+	"pid": "17840",
+	"pname": "Kshop",
+	"pcpe": "cpe:/a:xoops:kshop_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11012",
-  "vname": "mobiscope",
-  "vcpe": "cpe:/:mobiscope",
-  "pid": "22599",
-  "pname": "mobiscope local",
-  "pcpe": "cpe:/a:mobiscope:mobiscope_local"
+	"vid": "11012",
+	"vname": "mobiscope",
+	"vcpe": "cpe:/:mobiscope",
+	"pid": "22599",
+	"pname": "mobiscope local",
+	"pcpe": "cpe:/a:mobiscope:mobiscope_local"
 }

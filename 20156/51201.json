@@ -1,8 +1,8 @@
 {
-  "vid": "20156",
-  "vname": "Seceon Inc.",
-  "vcpe": "cpe:/:seceon",
-  "pid": "51201",
-  "pname": "aiSIEM",
-  "pcpe": "cpe:/a:seceon:aisiem"
+	"vid": "20156",
+	"vname": "Seceon Inc.",
+	"vcpe": "cpe:/:seceon",
+	"pid": "51201",
+	"pname": "aiSIEM",
+	"pcpe": "cpe:/a:seceon:aisiem"
 }

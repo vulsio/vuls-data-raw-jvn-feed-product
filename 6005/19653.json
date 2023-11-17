@@ -1,8 +1,8 @@
 {
-  "vid": "6005",
-  "vname": "nongnu",
-  "vcpe": "cpe:/:nongnu",
-  "pid": "19653",
-  "pname": "OATH Toolkit",
-  "pcpe": "cpe:/a:nongnu:oath_toolkit"
+	"vid": "6005",
+	"vname": "nongnu",
+	"vcpe": "cpe:/:nongnu",
+	"pid": "19653",
+	"pname": "OATH Toolkit",
+	"pcpe": "cpe:/a:nongnu:oath_toolkit"
 }

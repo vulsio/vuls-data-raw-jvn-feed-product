@@ -1,8 +1,8 @@
 {
-  "vid": "4457",
-  "vname": "TRENDnet",
-  "vcpe": "cpe:/:trendnet",
-  "pid": "36907",
-  "pname": "TV-IP110WN ファームウェア",
-  "pcpe": "cpe:/o:trendnet:tv-ip110wn_firmware"
+	"vid": "4457",
+	"vname": "TRENDnet",
+	"vcpe": "cpe:/:trendnet",
+	"pid": "36907",
+	"pname": "TV-IP110WN ファームウェア",
+	"pcpe": "cpe:/o:trendnet:tv-ip110wn_firmware"
 }

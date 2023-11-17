@@ -1,8 +1,8 @@
 {
-  "vid": "18371",
-  "vname": "access-policy project",
-  "vcpe": "cpe:/:access-policy_project",
-  "pid": "45101",
-  "pname": "access-policy",
-  "pcpe": "cpe:/a:access-policy_project:access-policy"
+	"vid": "18371",
+	"vname": "access-policy project",
+	"vcpe": "cpe:/:access-policy_project",
+	"pid": "45101",
+	"pname": "access-policy",
+	"pcpe": "cpe:/a:access-policy_project:access-policy"
 }

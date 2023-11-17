@@ -1,8 +1,8 @@
 {
-  "vid": "20702",
-  "vname": "GDPR Info",
-  "vcpe": "cpe:/:gdprinfo",
-  "pid": "52708",
-  "pname": "Cookie Notice & Consent Banner for GDPR & CCPA Compliance",
-  "pcpe": "cpe:/a:gdprinfo:cookie_notice_%26_consent_banner_for_gdpr_%26_ccpa_compliance"
+	"vid": "20702",
+	"vname": "GDPR Info",
+	"vcpe": "cpe:/:gdprinfo",
+	"pid": "52708",
+	"pname": "Cookie Notice & Consent Banner for GDPR & CCPA Compliance",
+	"pcpe": "cpe:/a:gdprinfo:cookie_notice_%26_consent_banner_for_gdpr_%26_ccpa_compliance"
 }

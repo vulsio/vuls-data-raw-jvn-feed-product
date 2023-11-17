@@ -1,8 +1,8 @@
 {
-  "vid": "17101",
-  "vname": "Nerd Cow Ltd.",
-  "vcpe": "cpe:/:nerdcow",
-  "pid": "40632",
-  "pname": "Tweet Wheel",
-  "pcpe": "cpe:/a:nerdcow:tweet_wheel"
+	"vid": "17101",
+	"vname": "Nerd Cow Ltd.",
+	"vcpe": "cpe:/:nerdcow",
+	"pid": "40632",
+	"pname": "Tweet Wheel",
+	"pcpe": "cpe:/a:nerdcow:tweet_wheel"
 }

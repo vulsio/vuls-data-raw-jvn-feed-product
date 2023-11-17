@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "44136",
-  "pname": "G50-80 TOUCH ファームウェア",
-  "pcpe": "cpe:/o:lenovo:g50-80_touch_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "44136",
+	"pname": "G50-80 TOUCH ファームウェア",
+	"pcpe": "cpe:/o:lenovo:g50-80_touch_firmware"
 }

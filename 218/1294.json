@@ -1,8 +1,8 @@
 {
-  "vid": "218",
-  "vname": "ヤマハ",
-  "vcpe": "cpe:/:yamaha",
-  "pid": "1294",
-  "pname": "NetVolante シリーズ",
-  "pcpe": "cpe:/h:yamaha:netvolante"
+	"vid": "218",
+	"vname": "ヤマハ",
+	"vcpe": "cpe:/:yamaha",
+	"pid": "1294",
+	"pname": "NetVolante シリーズ",
+	"pcpe": "cpe:/h:yamaha:netvolante"
 }

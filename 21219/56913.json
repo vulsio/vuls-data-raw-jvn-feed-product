@@ -1,8 +1,8 @@
 {
-  "vid": "21219",
-  "vname": "Open Policy Agent",
-  "vcpe": "cpe:/:openpolicyagent",
-  "pid": "56913",
-  "pname": "Open Policy Agent",
-  "pcpe": "cpe:/a:openpolicyagent:open_policy_agent"
+	"vid": "21219",
+	"vname": "Open Policy Agent",
+	"vcpe": "cpe:/:openpolicyagent",
+	"pid": "56913",
+	"pname": "Open Policy Agent",
+	"pcpe": "cpe:/a:openpolicyagent:open_policy_agent"
 }

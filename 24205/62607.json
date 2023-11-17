@@ -1,8 +1,8 @@
 {
-  "vid": "24205",
-  "vname": "innosilicon",
-  "vcpe": "cpe:/:innosilicon",
-  "pid": "62607",
-  "pname": "t3t+ ファームウェア",
-  "pcpe": "cpe:/o:innosilicon:t3t%2B_firmware"
+	"vid": "24205",
+	"vname": "innosilicon",
+	"vcpe": "cpe:/:innosilicon",
+	"pid": "62607",
+	"pname": "t3t+ ファームウェア",
+	"pcpe": "cpe:/o:innosilicon:t3t%2B_firmware"
 }

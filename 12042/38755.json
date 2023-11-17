@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "38755",
-  "pname": "NonStop Safeguard H-シリーズ",
-  "pcpe": "cpe:/a:hp:nonstop_safeguard_h_series"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "38755",
+	"pname": "NonStop Safeguard H-シリーズ",
+	"pcpe": "cpe:/a:hp:nonstop_safeguard_h_series"
 }

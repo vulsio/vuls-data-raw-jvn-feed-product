@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "26687",
-  "pname": "VMware Workstation Pro",
-  "pcpe": "cpe:/a:vmware:workstation_pro"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "26687",
+	"pname": "VMware Workstation Pro",
+	"pcpe": "cpe:/a:vmware:workstation_pro"
 }

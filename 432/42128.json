@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "42128",
-  "pname": "Power Generation Information Manager",
-  "pcpe": "cpe:/a:abb:power_generation_information_manager"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "42128",
+	"pname": "Power Generation Information Manager",
+	"pcpe": "cpe:/a:abb:power_generation_information_manager"
 }

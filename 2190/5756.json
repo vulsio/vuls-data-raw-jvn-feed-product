@@ -1,8 +1,8 @@
 {
-  "vid": "2190",
-  "vname": "altools",
-  "vcpe": "cpe:/:altools",
-  "pid": "5756",
-  "pname": "alftp ftp server",
-  "pcpe": "cpe:/a:altools:alftp_ftp_server"
+	"vid": "2190",
+	"vname": "altools",
+	"vcpe": "cpe:/:altools",
+	"pid": "5756",
+	"pname": "alftp ftp server",
+	"pcpe": "cpe:/a:altools:alftp_ftp_server"
 }

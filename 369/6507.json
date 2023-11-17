@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "6507",
-  "pname": "brightstor arcserve backup server",
-  "pcpe": "cpe:/a:ca:brightstor_arcserve_backup_server"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "6507",
+	"pname": "brightstor arcserve backup server",
+	"pcpe": "cpe:/a:ca:brightstor_arcserve_backup_server"
 }

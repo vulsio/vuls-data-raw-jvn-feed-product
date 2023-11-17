@@ -1,8 +1,8 @@
 {
-  "vid": "24635",
-  "vname": "onekey",
-  "vcpe": "cpe:/:onekey",
-  "pid": "63912",
-  "pname": "onekey touch ファームウェア",
-  "pcpe": "cpe:/o:onekey:onekey_touch_firmware"
+	"vid": "24635",
+	"vname": "onekey",
+	"vcpe": "cpe:/:onekey",
+	"pid": "63912",
+	"pname": "onekey touch ファームウェア",
+	"pcpe": "cpe:/o:onekey:onekey_touch_firmware"
 }

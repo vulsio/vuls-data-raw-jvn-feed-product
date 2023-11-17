@@ -1,8 +1,8 @@
 {
-  "vid": "18753",
-  "vname": "エレコム株式会社",
-  "vcpe": "cpe:/:elecom",
-  "pid": "51337",
-  "pname": "WMC-C2533GST-W ファームウェア",
-  "pcpe": "cpe:/o:elecom:wmc-c2533gst-w_firmware"
+	"vid": "18753",
+	"vname": "エレコム株式会社",
+	"vcpe": "cpe:/:elecom",
+	"pid": "51337",
+	"pname": "WMC-C2533GST-W ファームウェア",
+	"pcpe": "cpe:/o:elecom:wmc-c2533gst-w_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29248",
-  "pname": "SINAMICS G130 ファームウェア",
-  "pcpe": "cpe:/o:siemens:sinamics_g130_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29248",
+	"pname": "SINAMICS G130 ファームウェア",
+	"pcpe": "cpe:/o:siemens:sinamics_g130_firmware"
 }

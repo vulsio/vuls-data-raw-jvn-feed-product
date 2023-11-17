@@ -1,8 +1,8 @@
 {
-  "vid": "11493",
-  "vname": "ADB SA",
-  "vcpe": "cpe:/:adb",
-  "pid": "23373",
-  "pname": "P.DGA4001N ファームウェア",
-  "pcpe": "cpe:/o:adb:p.dga4001n_firmware"
+	"vid": "11493",
+	"vname": "ADB SA",
+	"vcpe": "cpe:/:adb",
+	"pid": "23373",
+	"pname": "P.DGA4001N ファームウェア",
+	"pcpe": "cpe:/o:adb:p.dga4001n_firmware"
 }

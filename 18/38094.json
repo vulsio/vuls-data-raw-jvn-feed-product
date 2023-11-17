@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "38094",
-  "pname": "IBM Power System LC921 (9006-12P) ファームウェア",
-  "pcpe": "cpe:/o:ibm:power_system_lc921_%289006-12p%29_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "38094",
+	"pname": "IBM Power System LC921 (9006-12P) ファームウェア",
+	"pcpe": "cpe:/o:ibm:power_system_lc921_%289006-12p%29_firmware"
 }

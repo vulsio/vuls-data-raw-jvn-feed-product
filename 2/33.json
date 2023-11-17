@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "33",
-  "pname": "Microsoft Word",
-  "pcpe": "cpe:/a:microsoft:word"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "33",
+	"pname": "Microsoft Word",
+	"pcpe": "cpe:/a:microsoft:word"
 }

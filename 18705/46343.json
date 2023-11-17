@@ -1,8 +1,8 @@
 {
-  "vid": "18705",
-  "vname": "THOMSON",
-  "vcpe": "cpe:/:thomsonstb",
-  "pid": "46343",
-  "pname": "THT741FTA ファームウェア",
-  "pcpe": "cpe:/o:thomsonstb:tht741fta_firmware"
+	"vid": "18705",
+	"vname": "THOMSON",
+	"vcpe": "cpe:/:thomsonstb",
+	"pid": "46343",
+	"pname": "THT741FTA ファームウェア",
+	"pcpe": "cpe:/o:thomsonstb:tht741fta_firmware"
 }

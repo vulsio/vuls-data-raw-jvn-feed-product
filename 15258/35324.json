@@ -1,8 +1,8 @@
 {
-  "vid": "15258",
-  "vname": "Auto-Maskin",
-  "vcpe": "cpe:/:auto-maskin",
-  "pid": "35324",
-  "pname": "RP 210E ファームウェア",
-  "pcpe": "cpe:/o:auto-maskin:rp_210e_firmware"
+	"vid": "15258",
+	"vname": "Auto-Maskin",
+	"vcpe": "cpe:/:auto-maskin",
+	"pid": "35324",
+	"pname": "RP 210E ファームウェア",
+	"pcpe": "cpe:/o:auto-maskin:rp_210e_firmware"
 }

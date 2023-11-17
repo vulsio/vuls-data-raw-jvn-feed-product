@@ -1,8 +1,8 @@
 {
-  "vid": "24846",
-  "vname": "litedb",
-  "vcpe": "cpe:/:litedb",
-  "pid": "64376",
-  "pname": "litedb",
-  "pcpe": "cpe:/a:litedb:litedb"
+	"vid": "24846",
+	"vname": "litedb",
+	"vcpe": "cpe:/:litedb",
+	"pid": "64376",
+	"pname": "litedb",
+	"pcpe": "cpe:/a:litedb:litedb"
 }

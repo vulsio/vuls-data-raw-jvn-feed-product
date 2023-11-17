@@ -1,8 +1,8 @@
 {
-  "vid": "19520",
-  "vname": "Amino Communications",
-  "vcpe": "cpe:/:amino",
-  "pid": "49176",
-  "pname": "Aria6xx ファームウェア",
-  "pcpe": "cpe:/o:amino:aria6xx_firmware"
+	"vid": "19520",
+	"vname": "Amino Communications",
+	"vcpe": "cpe:/:amino",
+	"pid": "49176",
+	"pname": "Aria6xx ファームウェア",
+	"pcpe": "cpe:/o:amino:aria6xx_firmware"
 }

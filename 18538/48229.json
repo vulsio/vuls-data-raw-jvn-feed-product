@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "48229",
-  "pname": "BMXP342000 ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:bmxp342000_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "48229",
+	"pname": "BMXP342000 ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:bmxp342000_firmware"
 }

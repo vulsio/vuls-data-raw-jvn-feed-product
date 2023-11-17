@@ -1,8 +1,8 @@
 {
-  "vid": "13471",
-  "vname": "Ivanti",
-  "vcpe": "cpe:/:ivanti",
-  "pid": "52392",
-  "pname": "MobileIron",
-  "pcpe": "cpe:/a:ivanti:mobileiron"
+	"vid": "13471",
+	"vname": "Ivanti",
+	"vcpe": "cpe:/:ivanti",
+	"pid": "52392",
+	"pname": "MobileIron",
+	"pcpe": "cpe:/a:ivanti:mobileiron"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9329",
-  "vname": "Sierra Wireless",
-  "vcpe": "cpe:/:sierra_wireless",
-  "pid": "19139",
-  "pname": "Raven X EV-DO Firmware",
-  "pcpe": "cpe:/o:sierra_wireless:raven_x_ev-do_firmware"
+	"vid": "9329",
+	"vname": "Sierra Wireless",
+	"vcpe": "cpe:/:sierra_wireless",
+	"pid": "19139",
+	"pname": "Raven X EV-DO Firmware",
+	"pcpe": "cpe:/o:sierra_wireless:raven_x_ev-do_firmware"
 }

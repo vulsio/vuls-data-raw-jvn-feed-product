@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "23130",
-  "pname": "eSpace Desktop",
-  "pcpe": "cpe:/a:huawei:espace_desktop"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "23130",
+	"pname": "eSpace Desktop",
+	"pcpe": "cpe:/a:huawei:espace_desktop"
 }

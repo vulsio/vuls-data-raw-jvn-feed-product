@@ -1,8 +1,8 @@
 {
-  "vid": "12375",
-  "vname": "WSO2",
-  "vcpe": "cpe:/:wso2",
-  "pid": "30621",
-  "pname": "WSO2 Governance Registry",
-  "pcpe": "cpe:/a:wso2:governance_registry"
+	"vid": "12375",
+	"vname": "WSO2",
+	"vcpe": "cpe:/:wso2",
+	"pid": "30621",
+	"pname": "WSO2 Governance Registry",
+	"pcpe": "cpe:/a:wso2:governance_registry"
 }

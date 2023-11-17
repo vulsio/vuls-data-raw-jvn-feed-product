@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "59463",
-  "pname": "nuc 11 pro kit nuc11tnhi50z ファームウェア",
-  "pcpe": "cpe:/o:intel:nuc_11_pro_kit_nuc11tnhi50z_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "59463",
+	"pname": "nuc 11 pro kit nuc11tnhi50z ファームウェア",
+	"pcpe": "cpe:/o:intel:nuc_11_pro_kit_nuc11tnhi50z_firmware"
 }

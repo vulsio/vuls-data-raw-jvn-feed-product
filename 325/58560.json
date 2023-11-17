@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58560",
-  "pname": "Yoga C640-13IML ファームウェア",
-  "pcpe": "cpe:/o:lenovo:yoga_c640-13iml_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58560",
+	"pname": "Yoga C640-13IML ファームウェア",
+	"pcpe": "cpe:/o:lenovo:yoga_c640-13iml_firmware"
 }

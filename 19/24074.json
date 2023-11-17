@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24074",
-  "pname": "Cisco Sourcefire 3D9900 センサー",
-  "pcpe": "cpe:/h:cisco:sourcefire_3d9900_sensor"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24074",
+	"pname": "Cisco Sourcefire 3D9900 センサー",
+	"pcpe": "cpe:/h:cisco:sourcefire_3d9900_sensor"
 }

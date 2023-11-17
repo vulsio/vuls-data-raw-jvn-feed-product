@@ -1,8 +1,8 @@
 {
-  "vid": "15952",
-  "vname": "Definitions project",
-  "vcpe": "cpe:/:definitions_project",
-  "pid": "37250",
-  "pname": "Definitions",
-  "pcpe": "cpe:/a:definitions_project:definitions"
+	"vid": "15952",
+	"vname": "Definitions project",
+	"vcpe": "cpe:/:definitions_project",
+	"pid": "37250",
+	"pname": "Definitions",
+	"pcpe": "cpe:/a:definitions_project:definitions"
 }

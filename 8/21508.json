@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "21508",
-  "pname": "Apache WSS4J",
-  "pcpe": "cpe:/a:apache:wss4j"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "21508",
+	"pname": "Apache WSS4J",
+	"pcpe": "cpe:/a:apache:wss4j"
 }

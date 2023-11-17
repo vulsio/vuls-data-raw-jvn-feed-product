@@ -1,8 +1,8 @@
 {
-  "vid": "24345",
-  "vname": "osuosl",
-  "vcpe": "cpe:/:osuosl",
-  "pid": "62924",
-  "pname": "twisted vnc authentication proxy",
-  "pcpe": "cpe:/a:osuosl:twisted_vnc_authentication_proxy"
+	"vid": "24345",
+	"vname": "osuosl",
+	"vcpe": "cpe:/:osuosl",
+	"pid": "62924",
+	"pname": "twisted vnc authentication proxy",
+	"pcpe": "cpe:/a:osuosl:twisted_vnc_authentication_proxy"
 }

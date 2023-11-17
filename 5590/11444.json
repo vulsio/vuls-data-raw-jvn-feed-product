@@ -1,8 +1,8 @@
 {
-  "vid": "5590",
-  "vname": "merak",
-  "vcpe": "cpe:/:merak",
-  "pid": "11444",
-  "pname": "icewarp mail server",
-  "pcpe": "cpe:/a:merak:icewarp_mail_server"
+	"vid": "5590",
+	"vname": "merak",
+	"vcpe": "cpe:/:merak",
+	"pid": "11444",
+	"pname": "icewarp mail server",
+	"pcpe": "cpe:/a:merak:icewarp_mail_server"
 }

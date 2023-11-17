@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "42878",
-  "pname": "IP Phone 7832 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ip_phone_7832_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "42878",
+	"pname": "IP Phone 7832 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ip_phone_7832_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "28930",
-  "pname": "PeopleSoft Enterprise CS Campus Community",
-  "pcpe": "cpe:/a:oracle:peoplesoft_enterprise_cs_campus_community"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "28930",
+	"pname": "PeopleSoft Enterprise CS Campus Community",
+	"pcpe": "cpe:/a:oracle:peoplesoft_enterprise_cs_campus_community"
 }

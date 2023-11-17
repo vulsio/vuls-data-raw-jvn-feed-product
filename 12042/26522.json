@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26522",
-  "pname": "HPE IMC EAD",
-  "pcpe": "cpe:/a:hp:intelligent_management_center_endpoint_admission_defense"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26522",
+	"pname": "HPE IMC EAD",
+	"pcpe": "cpe:/a:hp:intelligent_management_center_endpoint_admission_defense"
 }

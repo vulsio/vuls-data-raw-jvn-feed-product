@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "2678",
-  "pname": "Google Android SDK",
-  "pcpe": "cpe:/a:google:android_sdk"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "2678",
+	"pname": "Google Android SDK",
+	"pcpe": "cpe:/a:google:android_sdk"
 }

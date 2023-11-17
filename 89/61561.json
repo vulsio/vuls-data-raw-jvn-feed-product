@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "61561",
-  "pname": "NEC Enhanced Video Analytics",
-  "pcpe": "cpe:/a:nec:nec_enhanced_video_analytics"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "61561",
+	"pname": "NEC Enhanced Video Analytics",
+	"pcpe": "cpe:/a:nec:nec_enhanced_video_analytics"
 }

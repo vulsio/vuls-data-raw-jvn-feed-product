@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "36875",
-  "pname": "TD-W8961ND ファームウェア",
-  "pcpe": "cpe:/o:tp-link:td-w8961nd_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "36875",
+	"pname": "TD-W8961ND ファームウェア",
+	"pcpe": "cpe:/o:tp-link:td-w8961nd_firmware"
 }

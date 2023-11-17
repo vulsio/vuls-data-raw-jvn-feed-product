@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "20064",
-  "pname": "GNU GRUB",
-  "pcpe": "cpe:/a:gnu:grub"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "20064",
+	"pname": "GNU GRUB",
+	"pcpe": "cpe:/a:gnu:grub"
 }

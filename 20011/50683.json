@@ -1,8 +1,8 @@
 {
-  "vid": "20011",
-  "vname": "MediatekNet",
-  "vcpe": "cpe:/:mediateknet",
-  "pid": "50683",
-  "pname": "NetWave System",
-  "pcpe": "cpe:/a:mediateknet:netwave_system"
+	"vid": "20011",
+	"vname": "MediatekNet",
+	"vcpe": "cpe:/:mediateknet",
+	"pid": "50683",
+	"pname": "NetWave System",
+	"pcpe": "cpe:/a:mediateknet:netwave_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52803",
-  "pname": "QCA6694 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qca6694_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52803",
+	"pname": "QCA6694 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qca6694_firmware"
 }

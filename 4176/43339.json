@@ -1,8 +1,8 @@
 {
-  "vid": "4176",
-  "vname": "Belkin International",
-  "vcpe": "cpe:/:belkin",
-  "pid": "43339",
-  "pname": "n750 ファームウェア",
-  "pcpe": "cpe:/o:belkin:n750_firmware"
+	"vid": "4176",
+	"vname": "Belkin International",
+	"vcpe": "cpe:/:belkin",
+	"pid": "43339",
+	"pname": "n750 ファームウェア",
+	"pcpe": "cpe:/o:belkin:n750_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "46354",
-  "pname": "Princeton-AL10D ファームウェア",
-  "pcpe": "cpe:/o:huawei:princeton-al10d_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "46354",
+	"pname": "Princeton-AL10D ファームウェア",
+	"pcpe": "cpe:/o:huawei:princeton-al10d_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20204",
-  "vname": "PowerMux project",
-  "vcpe": "cpe:/:powermux_project",
-  "pid": "51440",
-  "pname": "PowerMux",
-  "pcpe": "cpe:/a:powermux_project:powermux"
+	"vid": "20204",
+	"vname": "PowerMux project",
+	"vcpe": "cpe:/:powermux_project",
+	"pid": "51440",
+	"pname": "PowerMux",
+	"pcpe": "cpe:/a:powermux_project:powermux"
 }

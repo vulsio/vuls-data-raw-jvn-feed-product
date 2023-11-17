@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26591",
-  "pname": "Oracle Utilities Framework",
-  "pcpe": "cpe:/a:oracle:utilities_framework"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26591",
+	"pname": "Oracle Utilities Framework",
+	"pcpe": "cpe:/a:oracle:utilities_framework"
 }

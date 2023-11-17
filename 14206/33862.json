@@ -1,8 +1,8 @@
 {
-  "vid": "14206",
-  "vname": "sqlserver project",
-  "vcpe": "cpe:/:sqlserver_project",
-  "pid": "33862",
-  "pname": "sqlserver",
-  "pcpe": "cpe:/a:sqlserver_project:sqlserver"
+	"vid": "14206",
+	"vname": "sqlserver project",
+	"vcpe": "cpe:/:sqlserver_project",
+	"pid": "33862",
+	"pname": "sqlserver",
+	"pcpe": "cpe:/a:sqlserver_project:sqlserver"
 }

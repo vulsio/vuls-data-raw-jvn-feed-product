@@ -1,8 +1,8 @@
 {
-  "vid": "20319",
-  "vname": "anymap project",
-  "vcpe": "cpe:/:anymap_project",
-  "pid": "51835",
-  "pname": "anymap",
-  "pcpe": "cpe:/a:anymap_project:anymap"
+	"vid": "20319",
+	"vname": "anymap project",
+	"vcpe": "cpe:/:anymap_project",
+	"pid": "51835",
+	"pname": "anymap",
+	"pcpe": "cpe:/a:anymap_project:anymap"
 }

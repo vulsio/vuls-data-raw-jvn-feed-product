@@ -1,8 +1,8 @@
 {
-  "vid": "23366",
-  "vname": "powertekpdus",
-  "vcpe": "cpe:/:powertekpdus",
-  "pid": "60597",
-  "pname": "smart poms ファームウェア",
-  "pcpe": "cpe:/o:powertekpdus:smart_poms_firmware"
+	"vid": "23366",
+	"vname": "powertekpdus",
+	"vcpe": "cpe:/:powertekpdus",
+	"pid": "60597",
+	"pname": "smart poms ファームウェア",
+	"pcpe": "cpe:/o:powertekpdus:smart_poms_firmware"
 }

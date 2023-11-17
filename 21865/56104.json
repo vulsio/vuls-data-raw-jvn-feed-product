@@ -1,8 +1,8 @@
 {
-  "vid": "21865",
-  "vname": "Gotify",
-  "vcpe": "cpe:/:gotify",
-  "pid": "56104",
-  "pname": "server",
-  "pcpe": "cpe:/a:gotify:server"
+	"vid": "21865",
+	"vname": "Gotify",
+	"vcpe": "cpe:/:gotify",
+	"pid": "56104",
+	"pname": "server",
+	"pcpe": "cpe:/a:gotify:server"
 }

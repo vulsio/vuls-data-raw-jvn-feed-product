@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "44307",
-  "pname": "SUSE OpenStack Cloud Crowbar",
-  "pcpe": "cpe:/a:suse:openstack_cloud_crowbar"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "44307",
+	"pname": "SUSE OpenStack Cloud Crowbar",
+	"pcpe": "cpe:/a:suse:openstack_cloud_crowbar"
 }

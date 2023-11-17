@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33065",
-  "pname": "MSM8909W ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:msm8909w_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33065",
+	"pname": "MSM8909W ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:msm8909w_firmware"
 }

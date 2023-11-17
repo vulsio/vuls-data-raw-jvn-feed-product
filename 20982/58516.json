@@ -1,8 +1,8 @@
 {
-  "vid": "20982",
-  "vname": "InHand Networks",
-  "vcpe": "cpe:/:inhandnetworks",
-  "pid": "58516",
-  "pname": "inrouter 900 ファームウェア",
-  "pcpe": "cpe:/o:inhandnetworks:inrouter_900_firmware"
+	"vid": "20982",
+	"vname": "InHand Networks",
+	"vcpe": "cpe:/:inhandnetworks",
+	"pid": "58516",
+	"pname": "inrouter 900 ファームウェア",
+	"pcpe": "cpe:/o:inhandnetworks:inrouter_900_firmware"
 }

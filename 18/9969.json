@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9969",
-  "pname": "afp viewer plug-in",
-  "pcpe": "cpe:/a:ibm:afp_viewer_plug-in"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9969",
+	"pname": "afp viewer plug-in",
+	"pcpe": "cpe:/a:ibm:afp_viewer_plug-in"
 }

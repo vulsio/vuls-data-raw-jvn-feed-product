@@ -1,8 +1,8 @@
 {
-  "vid": "1895",
-  "vname": "エマソン",
-  "vcpe": "cpe:/:emerson",
-  "pid": "63075",
-  "pname": "ve4103 modbus tcp interface for ethernet connected i/o (eioc) ファームウェア",
-  "pcpe": "cpe:/o:emerson:ve4103_modbus_tcp_interface_for_ethernet_connected_i%2fo_%28eioc%29"
+	"vid": "1895",
+	"vname": "エマソン",
+	"vcpe": "cpe:/:emerson",
+	"pid": "63075",
+	"pname": "ve4103 modbus tcp interface for ethernet connected i/o (eioc) ファームウェア",
+	"pcpe": "cpe:/o:emerson:ve4103_modbus_tcp_interface_for_ethernet_connected_i%2fo_%28eioc%29"
 }

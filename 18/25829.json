@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "25829",
-  "pname": "IBM FlashSystem V9000 9848-AE2",
-  "pcpe": "cpe:/h:ibm:flashsystem_9848-ae2"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "25829",
+	"pname": "IBM FlashSystem V9000 9848-AE2",
+	"pcpe": "cpe:/h:ibm:flashsystem_9848-ae2"
 }

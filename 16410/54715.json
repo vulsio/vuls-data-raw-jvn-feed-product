@@ -1,8 +1,8 @@
 {
-  "vid": "16410",
-  "vname": "Auerswald",
-  "vcpe": "cpe:/:auerswald",
-  "pid": "54715",
-  "pname": "COMfortel 3600 IP ファームウェア",
-  "pcpe": "cpe:/o:auerswald:comfortel_3600_ip_firmware"
+	"vid": "16410",
+	"vname": "Auerswald",
+	"vcpe": "cpe:/:auerswald",
+	"pid": "54715",
+	"pname": "COMfortel 3600 IP ファームウェア",
+	"pcpe": "cpe:/o:auerswald:comfortel_3600_ip_firmware"
 }

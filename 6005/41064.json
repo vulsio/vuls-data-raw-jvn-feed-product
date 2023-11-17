@@ -1,8 +1,8 @@
 {
-  "vid": "6005",
-  "vname": "nongnu",
-  "vcpe": "cpe:/:nongnu",
-  "pid": "41064",
-  "pname": "Libntlm",
-  "pcpe": "cpe:/a:nongnu:libntlm"
+	"vid": "6005",
+	"vname": "nongnu",
+	"vcpe": "cpe:/:nongnu",
+	"pid": "41064",
+	"pname": "Libntlm",
+	"pcpe": "cpe:/a:nongnu:libntlm"
 }

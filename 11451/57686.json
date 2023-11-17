@@ -1,8 +1,8 @@
 {
-  "vid": "11451",
-  "vname": "JetBrains",
-  "vcpe": "cpe:/:jetbrains",
-  "pid": "57686",
-  "pname": "CLion",
-  "pcpe": "cpe:/a:jetbrains:clion"
+	"vid": "11451",
+	"vname": "JetBrains",
+	"vcpe": "cpe:/:jetbrains",
+	"pid": "57686",
+	"pname": "CLion",
+	"pcpe": "cpe:/a:jetbrains:clion"
 }

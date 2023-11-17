@@ -1,8 +1,8 @@
 {
-  "vid": "14240",
-  "vname": "galenframework-cli project",
-  "vcpe": "cpe:/:galenframework-cli_project",
-  "pid": "33898",
-  "pname": "galenframework-cli",
-  "pcpe": "cpe:/a:galenframework-cli_project:galenframework-cli"
+	"vid": "14240",
+	"vname": "galenframework-cli project",
+	"vcpe": "cpe:/:galenframework-cli_project",
+	"pid": "33898",
+	"pname": "galenframework-cli",
+	"pcpe": "cpe:/a:galenframework-cli_project:galenframework-cli"
 }

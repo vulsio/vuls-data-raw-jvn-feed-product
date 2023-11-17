@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "35397",
-  "pname": "ZXIPTV-UCM ファームウェア",
-  "pcpe": "cpe:/o:zte:zxiptv-ucm_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "35397",
+	"pname": "ZXIPTV-UCM ファームウェア",
+	"pcpe": "cpe:/o:zte:zxiptv-ucm_firmware"
 }

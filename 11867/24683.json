@@ -1,8 +1,8 @@
 {
-  "vid": "11867",
-  "vname": "Actiontec Electronics, Inc.",
-  "vcpe": "cpe:/:actiontec",
-  "pid": "24683",
-  "pname": "GT784WN Wireless N DSL モデムルータ",
-  "pcpe": "cpe:/h:actiontec:gt784wn_wireless_n_dsl_modem"
+	"vid": "11867",
+	"vname": "Actiontec Electronics, Inc.",
+	"vcpe": "cpe:/:actiontec",
+	"pid": "24683",
+	"pname": "GT784WN Wireless N DSL モデムルータ",
+	"pcpe": "cpe:/h:actiontec:gt784wn_wireless_n_dsl_modem"
 }

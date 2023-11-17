@@ -1,8 +1,8 @@
 {
-  "vid": "15215",
-  "vname": "libsixel project",
-  "vcpe": "cpe:/:libsixel_project",
-  "pid": "35215",
-  "pname": "libsixel",
-  "pcpe": "cpe:/a:libsixel_project:libsixel"
+	"vid": "15215",
+	"vname": "libsixel project",
+	"vcpe": "cpe:/:libsixel_project",
+	"pid": "35215",
+	"pname": "libsixel",
+	"pcpe": "cpe:/a:libsixel_project:libsixel"
 }

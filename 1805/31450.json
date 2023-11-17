@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31450",
-  "pname": "TL-R4299G",
-  "pcpe": "cpe:/h:tp-link:tl-r4299g"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31450",
+	"pname": "TL-R4299G",
+	"pcpe": "cpe:/h:tp-link:tl-r4299g"
 }

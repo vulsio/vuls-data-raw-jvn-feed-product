@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "1255",
-  "pname": "FMV シンクライアント",
-  "pcpe": "cpe:/h:fujitsu:fmv_thin_client"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "1255",
+	"pname": "FMV シンクライアント",
+	"pcpe": "cpe:/h:fujitsu:fmv_thin_client"
 }

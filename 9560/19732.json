@@ -1,8 +1,8 @@
 {
-  "vid": "9560",
-  "vname": "MayGion",
-  "vcpe": "cpe:/:maygion",
-  "pid": "19732",
-  "pname": "IP Camera ファームウェア",
-  "pcpe": "cpe:/o:maygion:ip_camera_firmware"
+	"vid": "9560",
+	"vname": "MayGion",
+	"vcpe": "cpe:/:maygion",
+	"pid": "19732",
+	"pname": "IP Camera ファームウェア",
+	"pcpe": "cpe:/o:maygion:ip_camera_firmware"
 }

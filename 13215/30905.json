@@ -1,8 +1,8 @@
 {
-  "vid": "13215",
-  "vname": "Store Locator project",
-  "vcpe": "cpe:/:store_locator_project",
-  "pid": "30905",
-  "pname": "Store Locator",
-  "pcpe": "cpe:/a:store_locator_project:store_locator"
+	"vid": "13215",
+	"vname": "Store Locator project",
+	"vcpe": "cpe:/:store_locator_project",
+	"pid": "30905",
+	"pname": "Store Locator",
+	"pcpe": "cpe:/a:store_locator_project:store_locator"
 }

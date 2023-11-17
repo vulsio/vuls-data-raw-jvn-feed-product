@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "54456",
-  "pname": "iMaster NCE-Fabric ファームウェア",
-  "pcpe": "cpe:/o:huawei:imaster_nce-fabric_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "54456",
+	"pname": "iMaster NCE-Fabric ファームウェア",
+	"pcpe": "cpe:/o:huawei:imaster_nce-fabric_firmware"
 }

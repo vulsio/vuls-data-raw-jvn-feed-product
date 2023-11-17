@@ -1,8 +1,8 @@
 {
-  "vid": "13165",
-  "vname": "Mirion Technologies",
-  "vcpe": "cpe:/:mirion_technologies",
-  "pid": "30718",
-  "pname": "RDS-31 iTX ファームウェア",
-  "pcpe": "cpe:/o:mirion_technologies:rds-31_itx_firmware"
+	"vid": "13165",
+	"vname": "Mirion Technologies",
+	"vcpe": "cpe:/:mirion_technologies",
+	"pid": "30718",
+	"pname": "RDS-31 iTX ファームウェア",
+	"pcpe": "cpe:/o:mirion_technologies:rds-31_itx_firmware"
 }

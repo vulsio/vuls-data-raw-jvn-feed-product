@@ -1,8 +1,8 @@
 {
-  "vid": "11479",
-  "vname": "Linux Mint",
-  "vcpe": "cpe:/:linuxmint",
-  "pid": "40929",
-  "pname": "mintinstall",
-  "pcpe": "cpe:/a:linuxmint:mintinstall"
+	"vid": "11479",
+	"vname": "Linux Mint",
+	"vcpe": "cpe:/:linuxmint",
+	"pid": "40929",
+	"pname": "mintinstall",
+	"pcpe": "cpe:/a:linuxmint:mintinstall"
 }

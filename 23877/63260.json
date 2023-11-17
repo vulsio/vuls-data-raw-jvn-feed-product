@@ -1,8 +1,8 @@
 {
-  "vid": "23877",
-  "vname": "snyk",
-  "vcpe": "cpe:/:snyk",
-  "pid": "63260",
-  "pname": "cli",
-  "pcpe": "cpe:/a:snyk:cli"
+	"vid": "23877",
+	"vname": "snyk",
+	"vcpe": "cpe:/:snyk",
+	"pid": "63260",
+	"pname": "cli",
+	"pcpe": "cpe:/a:snyk:cli"
 }

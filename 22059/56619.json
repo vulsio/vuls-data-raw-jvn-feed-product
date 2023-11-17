@@ -1,8 +1,8 @@
 {
-  "vid": "22059",
-  "vname": "コニカミノルタ株式会社",
-  "vcpe": "cpe:/:konicaminolta",
-  "pid": "56619",
-  "pname": "(複数の製品)",
-  "pcpe": "cpe:/o:konicaminolta:multiple_product"
+	"vid": "22059",
+	"vname": "コニカミノルタ株式会社",
+	"vcpe": "cpe:/:konicaminolta",
+	"pid": "56619",
+	"pname": "(複数の製品)",
+	"pcpe": "cpe:/o:konicaminolta:multiple_product"
 }

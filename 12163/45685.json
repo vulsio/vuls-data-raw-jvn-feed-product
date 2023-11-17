@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "45685",
-  "pname": "Matrix Authorization Strategy",
-  "pcpe": "cpe:/a:jenkins:matrix_authorization_strategy"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "45685",
+	"pname": "Matrix Authorization Strategy",
+	"pcpe": "cpe:/a:jenkins:matrix_authorization_strategy"
 }

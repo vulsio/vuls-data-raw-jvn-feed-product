@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "41865",
-  "pname": "Avaya CS1000E/CS1000M Signaling Server ファームウェア",
-  "pcpe": "cpe:/o:avaya:cs1000e%2fcs1000m_signaling_server_firmware"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "41865",
+	"pname": "Avaya CS1000E/CS1000M Signaling Server ファームウェア",
+	"pcpe": "cpe:/o:avaya:cs1000e%2fcs1000m_signaling_server_firmware"
 }

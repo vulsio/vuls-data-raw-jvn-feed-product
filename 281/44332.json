@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "44332",
-  "pname": "python-apt",
-  "pcpe": "cpe:/a:canonical:python-apt"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "44332",
+	"pname": "python-apt",
+	"pcpe": "cpe:/a:canonical:python-apt"
 }

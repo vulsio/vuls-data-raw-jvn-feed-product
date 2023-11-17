@@ -1,8 +1,8 @@
 {
-  "vid": "15426",
-  "vname": "株式会社みずほ銀行",
-  "vcpe": "cpe:/:mizuhobank",
-  "pid": "35797",
-  "pname": "みずほダイレクトアプリ",
-  "pcpe": "cpe:/a:mizuhobank:mizuho_direct_application"
+	"vid": "15426",
+	"vname": "株式会社みずほ銀行",
+	"vcpe": "cpe:/:mizuhobank",
+	"pid": "35797",
+	"pname": "みずほダイレクトアプリ",
+	"pcpe": "cpe:/a:mizuhobank:mizuho_direct_application"
 }

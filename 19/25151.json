@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "25151",
-  "pname": "Cisco SA520W Security Appliance (OS)",
-  "pcpe": "cpe:/o:cisco:sa520w"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "25151",
+	"pname": "Cisco SA520W Security Appliance (OS)",
+	"pcpe": "cpe:/o:cisco:sa520w"
 }

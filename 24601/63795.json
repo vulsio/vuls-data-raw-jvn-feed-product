@@ -1,8 +1,8 @@
 {
-  "vid": "24601",
-  "vname": "sha3 project",
-  "vcpe": "cpe:/:sha3_project",
-  "pid": "63795",
-  "pname": "sha3",
-  "pcpe": "cpe:/a:sha3_project:sha3"
+	"vid": "24601",
+	"vname": "sha3 project",
+	"vcpe": "cpe:/:sha3_project",
+	"pid": "63795",
+	"pname": "sha3",
+	"pcpe": "cpe:/a:sha3_project:sha3"
 }

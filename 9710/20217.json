@@ -1,8 +1,8 @@
 {
-  "vid": "9710",
-  "vname": "日本情報化農業研究所",
-  "vcpe": "cpe:/:n-i-agroinformatics",
-  "pid": "20217",
-  "pname": "SOY CMS",
-  "pcpe": "cpe:/a:n-i-agroinformatics:soy_cms"
+	"vid": "9710",
+	"vname": "日本情報化農業研究所",
+	"vcpe": "cpe:/:n-i-agroinformatics",
+	"pid": "20217",
+	"pname": "SOY CMS",
+	"pcpe": "cpe:/a:n-i-agroinformatics:soy_cms"
 }

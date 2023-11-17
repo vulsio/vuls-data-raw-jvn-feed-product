@@ -1,8 +1,8 @@
 {
-  "vid": "208",
-  "vname": "Dokeos",
-  "vcpe": "cpe:/:dokeos",
-  "pid": "1693",
-  "pname": "E-Learning System",
-  "pcpe": "cpe:/a:dokeos:e-learning_system"
+	"vid": "208",
+	"vname": "Dokeos",
+	"vcpe": "cpe:/:dokeos",
+	"pid": "1693",
+	"pname": "E-Learning System",
+	"pcpe": "cpe:/a:dokeos:e-learning_system"
 }

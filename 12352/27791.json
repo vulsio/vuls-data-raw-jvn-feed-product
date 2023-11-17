@@ -1,8 +1,8 @@
 {
-  "vid": "12352",
-  "vname": "cryptsetup project",
-  "vcpe": "cpe:/:cryptsetup_project",
-  "pid": "27791",
-  "pname": "cryptsetup",
-  "pcpe": "cpe:/a:cryptsetup_project:cryptsetup"
+	"vid": "12352",
+	"vname": "cryptsetup project",
+	"vcpe": "cpe:/:cryptsetup_project",
+	"pid": "27791",
+	"pname": "cryptsetup",
+	"pcpe": "cpe:/a:cryptsetup_project:cryptsetup"
 }

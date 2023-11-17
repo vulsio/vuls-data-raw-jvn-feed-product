@@ -1,8 +1,8 @@
 {
-  "vid": "12326",
-  "vname": "SHDesigns",
-  "vcpe": "cpe:/:shdesigns",
-  "pid": "27717",
-  "pname": "Ethernet Download Manager",
-  "pcpe": "cpe:/a:shdesigns:ethernet_download_manager"
+	"vid": "12326",
+	"vname": "SHDesigns",
+	"vcpe": "cpe:/:shdesigns",
+	"pid": "27717",
+	"pname": "Ethernet Download Manager",
+	"pcpe": "cpe:/a:shdesigns:ethernet_download_manager"
 }

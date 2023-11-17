@@ -1,8 +1,8 @@
 {
-  "vid": "19801",
-  "vname": "Multilaser",
-  "vcpe": "cpe:/:multilaser",
-  "pid": "49961",
-  "pname": "AC1200 Multilaser - RE018 ファームウェア",
-  "pcpe": "cpe:/o:multilaser:ac1200_re018_firmware"
+	"vid": "19801",
+	"vname": "Multilaser",
+	"vcpe": "cpe:/:multilaser",
+	"pid": "49961",
+	"pname": "AC1200 Multilaser - RE018 ファームウェア",
+	"pcpe": "cpe:/o:multilaser:ac1200_re018_firmware"
 }

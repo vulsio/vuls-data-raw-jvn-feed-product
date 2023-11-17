@@ -1,8 +1,8 @@
 {
-  "vid": "5098",
-  "vname": "jumpbox",
-  "vcpe": "cpe:/:jumpbox",
-  "pid": "10692",
-  "pname": "jumpbox",
-  "pcpe": "cpe:/a:jumpbox:jumpbox"
+	"vid": "5098",
+	"vname": "jumpbox",
+	"vcpe": "cpe:/:jumpbox",
+	"pid": "10692",
+	"pname": "jumpbox",
+	"pcpe": "cpe:/a:jumpbox:jumpbox"
 }

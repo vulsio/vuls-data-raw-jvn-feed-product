@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "63517",
-  "pname": "catalyst 6503-e ファームウェア",
-  "pcpe": "cpe:/o:cisco:catalyst_6503-e_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "63517",
+	"pname": "catalyst 6503-e ファームウェア",
+	"pcpe": "cpe:/o:cisco:catalyst_6503-e_firmware"
 }

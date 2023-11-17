@@ -1,8 +1,8 @@
 {
-  "vid": "18338",
-  "vname": "Python-RSA project",
-  "vcpe": "cpe:/:python-rsa_project",
-  "pid": "45000",
-  "pname": "Python-RSA",
-  "pcpe": "cpe:/a:python-rsa_project:python-rsa"
+	"vid": "18338",
+	"vname": "Python-RSA project",
+	"vcpe": "cpe:/:python-rsa_project",
+	"pid": "45000",
+	"pname": "Python-RSA",
+	"pcpe": "cpe:/a:python-rsa_project:python-rsa"
 }

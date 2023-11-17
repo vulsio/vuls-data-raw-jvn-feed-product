@@ -1,8 +1,8 @@
 {
-  "vid": "22686",
-  "vname": "libsdl",
-  "vcpe": "cpe:/:libsdl",
-  "pid": "59033",
-  "pname": "sdl ttf",
-  "pcpe": "cpe:/a:libsdl:sdl_ttf"
+	"vid": "22686",
+	"vname": "libsdl",
+	"vcpe": "cpe:/:libsdl",
+	"pid": "59033",
+	"pname": "sdl ttf",
+	"pcpe": "cpe:/a:libsdl:sdl_ttf"
 }

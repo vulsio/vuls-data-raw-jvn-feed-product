@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "52350",
-  "pname": "300e 2nd Gen ファームウェア",
-  "pcpe": "cpe:/o:lenovo:300e_2nd_gen_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "52350",
+	"pname": "300e 2nd Gen ファームウェア",
+	"pcpe": "cpe:/o:lenovo:300e_2nd_gen_firmware"
 }

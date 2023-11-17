@@ -1,8 +1,8 @@
 {
-  "vid": "8806",
-  "vname": "Tizen",
-  "vcpe": "cpe:/:tizen",
-  "pid": "16764",
-  "pname": "Tizen",
-  "pcpe": "cpe:/a:tizen:tizen"
+	"vid": "8806",
+	"vname": "Tizen",
+	"vcpe": "cpe:/:tizen",
+	"pid": "16764",
+	"pname": "Tizen",
+	"pcpe": "cpe:/a:tizen:tizen"
 }

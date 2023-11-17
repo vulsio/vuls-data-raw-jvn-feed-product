@@ -1,8 +1,8 @@
 {
-  "vid": "11214",
-  "vname": "okacloud",
-  "vcpe": "cpe:/:okacloud",
-  "pid": "22875",
-  "pname": "domain name search & web host",
-  "pcpe": "cpe:/a:okacloud:domain_name_search_%26_web_host"
+	"vid": "11214",
+	"vname": "okacloud",
+	"vcpe": "cpe:/:okacloud",
+	"pid": "22875",
+	"pname": "domain name search & web host",
+	"pcpe": "cpe:/a:okacloud:domain_name_search_%26_web_host"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13654",
-  "vname": "Netis Systems Co., Ltd.",
-  "vcpe": "cpe:/:netis-systems",
-  "pid": "42334",
-  "pname": "DL4323 ファームウェア",
-  "pcpe": "cpe:/o:netis-systems:dl4323_firmware"
+	"vid": "13654",
+	"vname": "Netis Systems Co., Ltd.",
+	"vcpe": "cpe:/:netis-systems",
+	"pid": "42334",
+	"pname": "DL4323 ファームウェア",
+	"pcpe": "cpe:/o:netis-systems:dl4323_firmware"
 }

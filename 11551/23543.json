@@ -1,8 +1,8 @@
 {
-  "vid": "11551",
-  "vname": "peterhudec",
-  "vcpe": "cpe:/:peterhudec",
-  "pid": "23543",
-  "pname": "Image Metadata Cruncher",
-  "pcpe": "cpe:/a:peterhudec:image_metadata_cruncher"
+	"vid": "11551",
+	"vname": "peterhudec",
+	"vcpe": "cpe:/:peterhudec",
+	"pid": "23543",
+	"pname": "Image Metadata Cruncher",
+	"pcpe": "cpe:/a:peterhudec:image_metadata_cruncher"
 }

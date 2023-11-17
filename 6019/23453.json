@@ -1,8 +1,8 @@
 {
-  "vid": "6019",
-  "vname": "NPDS",
-  "vcpe": "cpe:/:npds",
-  "pid": "23453",
-  "pname": "NPDS Revolution",
-  "pcpe": "cpe:/a:npds:revolution"
+	"vid": "6019",
+	"vname": "NPDS",
+	"vcpe": "cpe:/:npds",
+	"pid": "23453",
+	"pname": "NPDS Revolution",
+	"pcpe": "cpe:/a:npds:revolution"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17915",
-  "pname": "Cisco Videoscape Distribution Suite for Internet Streaming",
-  "pcpe": "cpe:/a:cisco:videoscape_distribution_suite_for_internet_streaming"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17915",
+	"pname": "Cisco Videoscape Distribution Suite for Internet Streaming",
+	"pcpe": "cpe:/a:cisco:videoscape_distribution_suite_for_internet_streaming"
 }

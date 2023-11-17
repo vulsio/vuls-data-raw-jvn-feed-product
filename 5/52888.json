@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52888",
-  "pname": "WCN3615 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:wcn3615_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52888",
+	"pname": "WCN3615 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:wcn3615_firmware"
 }

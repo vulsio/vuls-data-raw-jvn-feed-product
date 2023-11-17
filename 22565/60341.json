@@ -1,8 +1,8 @@
 {
-  "vid": "22565",
-  "vname": "Razer Inc.　",
-  "vcpe": "cpe:/:razerzone",
-  "pid": "60341",
-  "pname": "sila ファームウェア",
-  "pcpe": "cpe:/o:razerzone:sila_firmware"
+	"vid": "22565",
+	"vname": "Razer Inc.　",
+	"vcpe": "cpe:/:razerzone",
+	"pid": "60341",
+	"pname": "sila ファームウェア",
+	"pcpe": "cpe:/o:razerzone:sila_firmware"
 }

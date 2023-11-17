@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "51730",
-  "pname": "AVIOTEC ファームウェア",
-  "pcpe": "cpe:/o:bosch:aviotec_firmware"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "51730",
+	"pname": "AVIOTEC ファームウェア",
+	"pcpe": "cpe:/o:bosch:aviotec_firmware"
 }

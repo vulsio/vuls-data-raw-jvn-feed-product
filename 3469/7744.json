@@ -1,8 +1,8 @@
 {
-  "vid": "3469",
-  "vname": "elinestudio",
-  "vcpe": "cpe:/:elinestudio",
-  "pid": "7744",
-  "pname": "site composer",
-  "pcpe": "cpe:/a:elinestudio:site_composer"
+	"vid": "3469",
+	"vname": "elinestudio",
+	"vcpe": "cpe:/:elinestudio",
+	"pid": "7744",
+	"pname": "site composer",
+	"pcpe": "cpe:/a:elinestudio:site_composer"
 }

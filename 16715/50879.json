@@ -1,8 +1,8 @@
 {
-  "vid": "16715",
-  "vname": "Bluetooth SIG, Inc.",
-  "vcpe": "cpe:/:bluetooth",
-  "pid": "50879",
-  "pname": "Bluetooth Mesh Profile",
-  "pcpe": "cpe:/a:bluetooth:bluetooth_mesh_profile"
+	"vid": "16715",
+	"vname": "Bluetooth SIG, Inc.",
+	"vcpe": "cpe:/:bluetooth",
+	"pid": "50879",
+	"pname": "Bluetooth Mesh Profile",
+	"pcpe": "cpe:/a:bluetooth:bluetooth_mesh_profile"
 }

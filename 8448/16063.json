@@ -1,8 +1,8 @@
 {
-  "vid": "8448",
-  "vname": "webex communications",
-  "vcpe": "cpe:/:webex_communications",
-  "pid": "16063",
-  "pname": "webex gpccontainer activex control",
-  "pcpe": "cpe:/a:webex_communications:webex_gpccontainer_activex_control"
+	"vid": "8448",
+	"vname": "webex communications",
+	"vcpe": "cpe:/:webex_communications",
+	"pid": "16063",
+	"pname": "webex gpccontainer activex control",
+	"pcpe": "cpe:/a:webex_communications:webex_gpccontainer_activex_control"
 }

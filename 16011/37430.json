@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "37430",
-  "pname": "Eyes Outdoor Camera ファームウェア",
-  "pcpe": "cpe:/o:bosch:eyes-indoor_camera_firmware"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "37430",
+	"pname": "Eyes Outdoor Camera ファームウェア",
+	"pcpe": "cpe:/o:bosch:eyes-indoor_camera_firmware"
 }

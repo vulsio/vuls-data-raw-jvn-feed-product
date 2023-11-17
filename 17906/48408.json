@@ -1,8 +1,8 @@
 {
-  "vid": "17906",
-  "vname": "Askey Computer Corporation",
-  "vcpe": "cpe:/:askey",
-  "pid": "48408",
-  "pname": "RTF3505VW-N1 BR_SV_g000_R3505VWN1001_s32_7 ファームウェア",
-  "pcpe": "cpe:/o:askey:rtf3505vw-n1_br_sv_g000_r3505vwn1001_s32_7_firmware"
+	"vid": "17906",
+	"vname": "Askey Computer Corporation",
+	"vcpe": "cpe:/:askey",
+	"pid": "48408",
+	"pname": "RTF3505VW-N1 BR_SV_g000_R3505VWN1001_s32_7 ファームウェア",
+	"pcpe": "cpe:/o:askey:rtf3505vw-n1_br_sv_g000_r3505vwn1001_s32_7_firmware"
 }

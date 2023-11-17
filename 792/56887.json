@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56887",
-  "pname": "XS1930-12HP ファームウェア",
-  "pcpe": "cpe:/o:zyxel:xs1930-12hp_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56887",
+	"pname": "XS1930-12HP ファームウェア",
+	"pcpe": "cpe:/o:zyxel:xs1930-12hp_firmware"
 }

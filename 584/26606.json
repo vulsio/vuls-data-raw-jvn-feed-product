@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "26606",
-  "pname": "SIMATIC WinCC Runtime Professional",
-  "pcpe": "cpe:/a:siemens:simatic_wincc_runtime_professional"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "26606",
+	"pname": "SIMATIC WinCC Runtime Professional",
+	"pcpe": "cpe:/a:siemens:simatic_wincc_runtime_professional"
 }

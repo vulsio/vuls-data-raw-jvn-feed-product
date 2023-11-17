@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18705",
-  "pname": "Content Services Gateway",
-  "pcpe": "cpe:/h:cisco:content_services_gateway"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18705",
+	"pname": "Content Services Gateway",
+	"pcpe": "cpe:/h:cisco:content_services_gateway"
 }

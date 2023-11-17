@@ -1,8 +1,8 @@
 {
-  "vid": "1926",
-  "vname": "w1.fi",
-  "vcpe": "cpe:/:w1.fi",
-  "pid": "21463",
-  "pname": "wpa_supplicant",
-  "pcpe": "cpe:/a:w1.fi:wpa_supplicant"
+	"vid": "1926",
+	"vname": "w1.fi",
+	"vcpe": "cpe:/:w1.fi",
+	"pid": "21463",
+	"pname": "wpa_supplicant",
+	"pcpe": "cpe:/a:w1.fi:wpa_supplicant"
 }

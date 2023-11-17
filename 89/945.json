@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "945",
-  "pname": "SecureWare/PKIアプリケーション開発キット",
-  "pcpe": "cpe:/a:nec:secureware_pki_application_development_kit"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "945",
+	"pname": "SecureWare/PKIアプリケーション開発キット",
+	"pcpe": "cpe:/a:nec:secureware_pki_application_development_kit"
 }

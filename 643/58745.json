@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "58745",
-  "pname": "r730 ファームウェア",
-  "pcpe": "cpe:/o:dell:r730_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "58745",
+	"pname": "r730 ファームウェア",
+	"pcpe": "cpe:/o:dell:r730_firmware"
 }

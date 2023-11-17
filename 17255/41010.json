@@ -1,8 +1,8 @@
 {
-  "vid": "17255",
-  "vname": "DoorDash",
-  "vcpe": "cpe:/:doordash",
-  "pid": "41010",
-  "pname": "DoorDash",
-  "pcpe": "cpe:/a:doordash:doordash"
+	"vid": "17255",
+	"vname": "DoorDash",
+	"vcpe": "cpe:/:doordash",
+	"pid": "41010",
+	"pname": "DoorDash",
+	"pcpe": "cpe:/a:doordash:doordash"
 }

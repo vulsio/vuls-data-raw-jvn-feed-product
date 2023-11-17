@@ -1,8 +1,8 @@
 {
-  "vid": "20230",
-  "vname": "8cms",
-  "vcpe": "cpe:/:8cms",
-  "pid": "51511",
-  "pname": "LJCMS",
-  "pcpe": "cpe:/a:8cms:ljcms"
+	"vid": "20230",
+	"vname": "8cms",
+	"vcpe": "cpe:/:8cms",
+	"pid": "51511",
+	"pname": "LJCMS",
+	"pcpe": "cpe:/a:8cms:ljcms"
 }

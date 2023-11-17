@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "8821",
-  "pname": "NetScaler Gateway",
-  "pcpe": "cpe:/h:citrix:netscaler_access_gateway"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "8821",
+	"pname": "NetScaler Gateway",
+	"pcpe": "cpe:/h:citrix:netscaler_access_gateway"
 }

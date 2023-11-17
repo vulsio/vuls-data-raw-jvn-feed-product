@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "32141",
-  "pname": "Ciborg",
-  "pcpe": "cpe:/a:greenplum:ciborg"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "32141",
+	"pname": "Ciborg",
+	"pcpe": "cpe:/a:greenplum:ciborg"
 }

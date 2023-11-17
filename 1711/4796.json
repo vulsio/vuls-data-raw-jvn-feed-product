@@ -1,8 +1,8 @@
 {
-  "vid": "1711",
-  "vname": "shttpd",
-  "vcpe": "cpe:/:shttpd",
-  "pid": "4796",
-  "pname": "shttpd",
-  "pcpe": "cpe:/a:shttpd:shttpd"
+	"vid": "1711",
+	"vname": "shttpd",
+	"vcpe": "cpe:/:shttpd",
+	"pid": "4796",
+	"pname": "shttpd",
+	"pcpe": "cpe:/a:shttpd:shttpd"
 }

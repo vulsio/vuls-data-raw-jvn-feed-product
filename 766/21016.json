@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "21016",
-  "pname": "VAMPSET",
-  "pcpe": "cpe:/a:schneider_electric:vampset"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "21016",
+	"pname": "VAMPSET",
+	"pcpe": "cpe:/a:schneider_electric:vampset"
 }

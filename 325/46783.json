@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "46783",
-  "pname": "Lenovo QITIAN M4550 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:qitian_m4550_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "46783",
+	"pname": "Lenovo QITIAN M4550 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:qitian_m4550_firmware"
 }

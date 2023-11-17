@@ -1,8 +1,8 @@
 {
-  "vid": "12887",
-  "vname": "Live Helper Chat",
-  "vcpe": "cpe:/:livehelperchat",
-  "pid": "29730",
-  "pname": "Live Helper Chat",
-  "pcpe": "cpe:/a:livehelperchat:live_helper_chat"
+	"vid": "12887",
+	"vname": "Live Helper Chat",
+	"vcpe": "cpe:/:livehelperchat",
+	"pid": "29730",
+	"pname": "Live Helper Chat",
+	"pcpe": "cpe:/a:livehelperchat:live_helper_chat"
 }

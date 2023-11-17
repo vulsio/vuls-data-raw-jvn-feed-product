@@ -1,8 +1,8 @@
 {
-  "vid": "20260",
-  "vname": "京セラドキュメントソリューションズ",
-  "vcpe": "cpe:/:misc",
-  "pid": "51617",
-  "pname": "(複数の製品)",
-  "pcpe": "cpe:/a:misc:kyocera_document_solutions_multiple_product"
+	"vid": "20260",
+	"vname": "京セラドキュメントソリューションズ",
+	"vcpe": "cpe:/:misc",
+	"pid": "51617",
+	"pname": "(複数の製品)",
+	"pcpe": "cpe:/a:misc:kyocera_document_solutions_multiple_product"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29271",
-  "pname": "SINAUT ST7CC",
-  "pcpe": "cpe:/a:siemens:sinaut_st7cc"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29271",
+	"pname": "SINAUT ST7CC",
+	"pcpe": "cpe:/a:siemens:sinaut_st7cc"
 }

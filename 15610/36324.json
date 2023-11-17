@@ -1,8 +1,8 @@
 {
-  "vid": "15610",
-  "vname": "InformAction",
-  "vcpe": "cpe:/:noscript",
-  "pid": "36324",
-  "pname": "NoScript",
-  "pcpe": "cpe:/a:noscript:noscript"
+	"vid": "15610",
+	"vname": "InformAction",
+	"vcpe": "cpe:/:noscript",
+	"pid": "36324",
+	"pname": "NoScript",
+	"pcpe": "cpe:/a:noscript:noscript"
 }

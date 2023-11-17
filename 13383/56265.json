@@ -1,8 +1,8 @@
 {
-  "vid": "13383",
-  "vname": "Vercel, Inc. (旧 Zeit, Inc.)",
-  "vcpe": "cpe:/:vercel",
-  "pid": "56265",
-  "pname": "ms",
-  "pcpe": "cpe:/a:vercel:ms"
+	"vid": "13383",
+	"vname": "Vercel, Inc. (旧 Zeit, Inc.)",
+	"vcpe": "cpe:/:vercel",
+	"pid": "56265",
+	"pname": "ms",
+	"pcpe": "cpe:/a:vercel:ms"
 }

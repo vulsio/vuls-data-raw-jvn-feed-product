@@ -1,8 +1,8 @@
 {
-  "vid": "18567",
-  "vname": "pypi",
-  "vcpe": "cpe:/:pypi",
-  "pid": "60854",
-  "pname": "watools",
-  "pcpe": "cpe:/a:pypi:watools"
+	"vid": "18567",
+	"vname": "pypi",
+	"vcpe": "cpe:/:pypi",
+	"pid": "60854",
+	"pname": "watools",
+	"pcpe": "cpe:/a:pypi:watools"
 }

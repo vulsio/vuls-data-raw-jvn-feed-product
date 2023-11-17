@@ -1,8 +1,8 @@
 {
-  "vid": "16999",
-  "vname": "Digital Mapping Solutions",
-  "vcpe": "cpe:/:mapsolutions",
-  "pid": "40432",
-  "pname": "IntraMaps",
-  "pcpe": "cpe:/a:mapsolutions:intramaps"
+	"vid": "16999",
+	"vname": "Digital Mapping Solutions",
+	"vcpe": "cpe:/:mapsolutions",
+	"pid": "40432",
+	"pname": "IntraMaps",
+	"pcpe": "cpe:/a:mapsolutions:intramaps"
 }

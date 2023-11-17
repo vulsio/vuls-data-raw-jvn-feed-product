@@ -1,8 +1,8 @@
 {
-  "vid": "13410",
-  "vname": "日立ヴァンタラ",
-  "vcpe": "cpe:/:hitachivantara",
-  "pid": "31560",
-  "pname": "Pentaho Business Analytics",
-  "pcpe": "cpe:/a:hitachivantara:pentaho_business_analytics"
+	"vid": "13410",
+	"vname": "日立ヴァンタラ",
+	"vcpe": "cpe:/:hitachivantara",
+	"pid": "31560",
+	"pname": "Pentaho Business Analytics",
+	"pcpe": "cpe:/a:hitachivantara:pentaho_business_analytics"
 }

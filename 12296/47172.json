@@ -1,8 +1,8 @@
 {
-  "vid": "12296",
-  "vname": "Sprecher Automation GmbH",
-  "vcpe": "cpe:/:sprecher-automation",
-  "pid": "47172",
-  "pname": "SPRECON-E",
-  "pcpe": "cpe:/o:sprecher-automation:sprecon-e"
+	"vid": "12296",
+	"vname": "Sprecher Automation GmbH",
+	"vcpe": "cpe:/:sprecher-automation",
+	"pid": "47172",
+	"pname": "SPRECON-E",
+	"pcpe": "cpe:/o:sprecher-automation:sprecon-e"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15711",
-  "vname": "Anker Innovations Limited",
-  "vcpe": "cpe:/:anker",
-  "pid": "53573",
-  "pname": "Anker Eufy Homebase 2 ファームウェア",
-  "pcpe": "cpe:/o:anker:eufy_homebase_2_firmware"
+	"vid": "15711",
+	"vname": "Anker Innovations Limited",
+	"vcpe": "cpe:/:anker",
+	"pid": "53573",
+	"pname": "Anker Eufy Homebase 2 ファームウェア",
+	"pcpe": "cpe:/o:anker:eufy_homebase_2_firmware"
 }

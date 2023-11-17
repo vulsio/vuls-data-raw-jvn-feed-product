@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "16936",
-  "pname": "Cisco Unified Provisioning Manager",
-  "pcpe": "cpe:/a:cisco:unified_provisioning_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "16936",
+	"pname": "Cisco Unified Provisioning Manager",
+	"pcpe": "cpe:/a:cisco:unified_provisioning_manager"
 }

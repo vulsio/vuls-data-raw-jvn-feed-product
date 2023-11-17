@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "24090",
-  "pname": "SonicWALL E-Class Universal Management Appliance EM5000 ファームウェア",
-  "pcpe": "cpe:/o:dell:sonicwall_uma_em5000_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "24090",
+	"pname": "SonicWALL E-Class Universal Management Appliance EM5000 ファームウェア",
+	"pcpe": "cpe:/o:dell:sonicwall_uma_em5000_firmware"
 }

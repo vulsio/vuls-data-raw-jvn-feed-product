@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "61812",
-  "pname": "compuware ispw operations",
-  "pcpe": "cpe:/a:jenkins:compuware_ispw_operations"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "61812",
+	"pname": "compuware ispw operations",
+	"pcpe": "cpe:/a:jenkins:compuware_ispw_operations"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "41638",
-  "pname": "Intel Core i3-9300T ファームウェア",
-  "pcpe": "cpe:/o:intel:core_i3-9300t_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "41638",
+	"pname": "Intel Core i3-9300T ファームウェア",
+	"pcpe": "cpe:/o:intel:core_i3-9300t_firmware"
 }

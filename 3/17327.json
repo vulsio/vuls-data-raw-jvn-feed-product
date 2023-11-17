@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "17327",
-  "pname": "Red Hat Enterprise Linux HPC Node",
-  "pcpe": "cpe:/o:redhat:enterprise_linux_hpc_node"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "17327",
+	"pname": "Red Hat Enterprise Linux HPC Node",
+	"pcpe": "cpe:/o:redhat:enterprise_linux_hpc_node"
 }

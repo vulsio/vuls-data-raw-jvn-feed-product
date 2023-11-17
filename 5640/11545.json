@@ -1,8 +1,8 @@
 {
-  "vid": "5640",
-  "vname": "MicroWorld Technologies Inc.",
-  "vcpe": "cpe:/:microworld_technologies",
-  "pid": "11545",
-  "pname": "eScan Antivirus",
-  "pcpe": "cpe:/a:microworld_technologies:escan_anti-virus"
+	"vid": "5640",
+	"vname": "MicroWorld Technologies Inc.",
+	"vcpe": "cpe:/:microworld_technologies",
+	"pid": "11545",
+	"pname": "eScan Antivirus",
+	"pcpe": "cpe:/a:microworld_technologies:escan_anti-virus"
 }

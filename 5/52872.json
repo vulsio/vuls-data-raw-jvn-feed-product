@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52872",
-  "pname": "WCN3991 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:wcn3991_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52872",
+	"pname": "WCN3991 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:wcn3991_firmware"
 }

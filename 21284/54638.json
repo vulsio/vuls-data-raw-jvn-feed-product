@@ -1,8 +1,8 @@
 {
-  "vid": "21284",
-  "vname": "Bookly",
-  "vcpe": "cpe:/:booking-wp-plugin",
-  "pid": "54638",
-  "pname": "Bookly",
-  "pcpe": "cpe:/a:booking-wp-plugin:bookly"
+	"vid": "21284",
+	"vname": "Bookly",
+	"vcpe": "cpe:/:booking-wp-plugin",
+	"pid": "54638",
+	"pname": "Bookly",
+	"pcpe": "cpe:/a:booking-wp-plugin:bookly"
 }

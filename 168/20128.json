@@ -1,8 +1,8 @@
 {
-  "vid": "168",
-  "vname": "横河電機株式会社",
-  "vcpe": "cpe:/:yokogawa",
-  "pid": "20128",
-  "pname": "B/M9000 VP ソフトウェア",
-  "pcpe": "cpe:/a:yokogawa:b%2fm9000_vp_software"
+	"vid": "168",
+	"vname": "横河電機株式会社",
+	"vcpe": "cpe:/:yokogawa",
+	"pid": "20128",
+	"pname": "B/M9000 VP ソフトウェア",
+	"pcpe": "cpe:/a:yokogawa:b%2fm9000_vp_software"
 }

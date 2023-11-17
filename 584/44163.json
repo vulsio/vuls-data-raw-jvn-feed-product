@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "44163",
-  "pname": "SIMATIC ET200SP IM155-6 PN HF ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_et200sp_im155-6_pn_hf_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "44163",
+	"pname": "SIMATIC ET200SP IM155-6 PN HF ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_et200sp_im155-6_pn_hf_firmware"
 }

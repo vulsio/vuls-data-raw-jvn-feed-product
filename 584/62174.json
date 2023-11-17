@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "62174",
-  "pname": "scalance w700 ieee 802.11ax ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_w700_ieee_802.11ax_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "62174",
+	"pname": "scalance w700 ieee 802.11ax ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_w700_ieee_802.11ax_firmware"
 }

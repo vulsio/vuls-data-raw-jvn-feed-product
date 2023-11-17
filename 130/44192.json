@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "44192",
-  "pname": "Intel Core i7-8560U ファームウェア",
-  "pcpe": "cpe:/o:intel:core_i7_8560u_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "44192",
+	"pname": "Intel Core i7-8560U ファームウェア",
+	"pcpe": "cpe:/o:intel:core_i7_8560u_firmware"
 }

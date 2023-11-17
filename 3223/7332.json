@@ -1,8 +1,8 @@
 {
-  "vid": "3223",
-  "vname": "digital data communications",
-  "vcpe": "cpe:/:digital_data_communications",
-  "pid": "7332",
-  "pname": "rtspvapgdecoder.dll",
-  "pcpe": "cpe:/a:digital_data_communications:rtspvapgdecoder.dll"
+	"vid": "3223",
+	"vname": "digital data communications",
+	"vcpe": "cpe:/:digital_data_communications",
+	"pid": "7332",
+	"pname": "rtspvapgdecoder.dll",
+	"pcpe": "cpe:/a:digital_data_communications:rtspvapgdecoder.dll"
 }

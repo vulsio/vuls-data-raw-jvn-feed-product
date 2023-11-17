@@ -1,8 +1,8 @@
 {
-  "vid": "18483",
-  "vname": "Froala",
-  "vcpe": "cpe:/:froala",
-  "pid": "52076",
-  "pname": "WYSIWYG Editor",
-  "pcpe": "cpe:/a:froala:what_you_see_is_what_you_get_editor"
+	"vid": "18483",
+	"vname": "Froala",
+	"vcpe": "cpe:/:froala",
+	"pid": "52076",
+	"pname": "WYSIWYG Editor",
+	"pcpe": "cpe:/a:froala:what_you_see_is_what_you_get_editor"
 }

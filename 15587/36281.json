@@ -1,8 +1,8 @@
 {
-  "vid": "15587",
-  "vname": "Kakao Corp",
-  "vcpe": "cpe:/:kakaocorp",
-  "pid": "36281",
-  "pname": "PotPlayer",
-  "pcpe": "cpe:/a:kakaocorp:potplayer"
+	"vid": "15587",
+	"vname": "Kakao Corp",
+	"vcpe": "cpe:/:kakaocorp",
+	"pid": "36281",
+	"pname": "PotPlayer",
+	"pcpe": "cpe:/a:kakaocorp:potplayer"
 }

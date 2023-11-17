@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "53271",
-  "pname": "CONNEXIVE Edge Device Management",
-  "pcpe": "cpe:/a:nec:connexive_edge_device_management"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "53271",
+	"pname": "CONNEXIVE Edge Device Management",
+	"pcpe": "cpe:/a:nec:connexive_edge_device_management"
 }

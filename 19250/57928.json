@@ -1,8 +1,8 @@
 {
-  "vid": "19250",
-  "vname": "Spatie",
-  "vcpe": "cpe:/:spatie",
-  "pid": "57928",
-  "pname": "laravel media library",
-  "pcpe": "cpe:/a:spatie:laravel_media_library"
+	"vid": "19250",
+	"vname": "Spatie",
+	"vcpe": "cpe:/:spatie",
+	"pid": "57928",
+	"pname": "laravel media library",
+	"pcpe": "cpe:/a:spatie:laravel_media_library"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "45929",
-  "pname": "HCM Travel Management",
-  "pcpe": "cpe:/a:sap:hcm_travel_management"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "45929",
+	"pname": "HCM Travel Management",
+	"pcpe": "cpe:/a:sap:hcm_travel_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4160",
-  "vname": "VIVOTEK Inc.",
-  "vcpe": "cpe:/:vivotek",
-  "pid": "44987",
-  "pname": "IB9368-HT ファームウェア",
-  "pcpe": "cpe:/o:vivotek:ib9368-ht_firmware"
+	"vid": "4160",
+	"vname": "VIVOTEK Inc.",
+	"vcpe": "cpe:/:vivotek",
+	"pid": "44987",
+	"pname": "IB9368-HT ファームウェア",
+	"pcpe": "cpe:/o:vivotek:ib9368-ht_firmware"
 }

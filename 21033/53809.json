@@ -1,8 +1,8 @@
 {
-  "vid": "21033",
-  "vname": "Gridpro",
-  "vcpe": "cpe:/:gridprosoftware",
-  "pid": "53809",
-  "pname": "Request Management",
-  "pcpe": "cpe:/a:gridprosoftware:request_management"
+	"vid": "21033",
+	"vname": "Gridpro",
+	"vcpe": "cpe:/:gridprosoftware",
+	"pid": "53809",
+	"pname": "Request Management",
+	"pcpe": "cpe:/a:gridprosoftware:request_management"
 }

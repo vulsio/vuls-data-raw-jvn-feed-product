@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "53311",
-  "pname": "SINUMERIK Analyze MyPerformance ファームウェア",
-  "pcpe": "cpe:/o:siemens:sinumerik_analyze_myperformance_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "53311",
+	"pname": "SINUMERIK Analyze MyPerformance ファームウェア",
+	"pcpe": "cpe:/o:siemens:sinumerik_analyze_myperformance_firmware"
 }

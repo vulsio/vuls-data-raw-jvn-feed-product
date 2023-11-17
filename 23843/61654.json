@@ -1,8 +1,8 @@
 {
-  "vid": "23843",
-  "vname": "decode-uri-component project",
-  "vcpe": "cpe:/:decode-uri-component_project",
-  "pid": "61654",
-  "pname": "decode-uri-component",
-  "pcpe": "cpe:/a:decode-uri-component_project:decode-uri-component"
+	"vid": "23843",
+	"vname": "decode-uri-component project",
+	"vcpe": "cpe:/:decode-uri-component_project",
+	"pid": "61654",
+	"pname": "decode-uri-component",
+	"pcpe": "cpe:/a:decode-uri-component_project:decode-uri-component"
 }

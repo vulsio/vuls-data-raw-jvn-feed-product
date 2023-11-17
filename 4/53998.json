@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "53998",
-  "pname": "HP Print and Scan Doctor",
-  "pcpe": "cpe:/a:hp:print_and_scan_doctor"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "53998",
+	"pname": "HP Print and Scan Doctor",
+	"pcpe": "cpe:/a:hp:print_and_scan_doctor"
 }

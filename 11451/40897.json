@@ -1,8 +1,8 @@
 {
-  "vid": "11451",
-  "vname": "JetBrains",
-  "vcpe": "cpe:/:jetbrains",
-  "pid": "40897",
-  "pname": "Toolbox",
-  "pcpe": "cpe:/a:jetbrains:toolbox"
+	"vid": "11451",
+	"vname": "JetBrains",
+	"vcpe": "cpe:/:jetbrains",
+	"pid": "40897",
+	"pname": "Toolbox",
+	"pcpe": "cpe:/a:jetbrains:toolbox"
 }

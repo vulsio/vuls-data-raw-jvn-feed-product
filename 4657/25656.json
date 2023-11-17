@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "25656",
-  "pname": "Huawei Agile Controller-Campus ファームウェア",
-  "pcpe": "cpe:/o:huawei:agile_controller-campus"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "25656",
+	"pname": "Huawei Agile Controller-Campus ファームウェア",
+	"pcpe": "cpe:/o:huawei:agile_controller-campus"
 }

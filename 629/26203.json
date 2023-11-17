@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "26203",
-  "pname": "EDR-G903",
-  "pcpe": "cpe:/h:moxa:edr-g903"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "26203",
+	"pname": "EDR-G903",
+	"pcpe": "cpe:/h:moxa:edr-g903"
 }

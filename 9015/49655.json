@@ -1,8 +1,8 @@
 {
-  "vid": "9015",
-  "vname": "MongoDB Inc.",
-  "vcpe": "cpe:/:mongodb",
-  "pid": "49655",
-  "pname": "Libmongocrypt",
-  "pcpe": "cpe:/a:mongodb:libmongocrypt"
+	"vid": "9015",
+	"vname": "MongoDB Inc.",
+	"vcpe": "cpe:/:mongodb",
+	"pid": "49655",
+	"pname": "Libmongocrypt",
+	"pcpe": "cpe:/a:mongodb:libmongocrypt"
 }

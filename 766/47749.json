@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "47749",
-  "pname": "EcoStruxure Building Operation Enterprise Server installer",
-  "pcpe": "cpe:/a:schneider_electric:enterprise_server_installer"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "47749",
+	"pname": "EcoStruxure Building Operation Enterprise Server installer",
+	"pcpe": "cpe:/a:schneider_electric:enterprise_server_installer"
 }

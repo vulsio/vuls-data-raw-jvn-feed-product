@@ -1,8 +1,8 @@
 {
-  "vid": "8348",
-  "vname": "Vocera",
-  "vcpe": "cpe:/:vocera",
-  "pid": "17492",
-  "pname": "Wireless Handset",
-  "pcpe": "cpe:/h:vocera:wireless_handset"
+	"vid": "8348",
+	"vname": "Vocera",
+	"vcpe": "cpe:/:vocera",
+	"pid": "17492",
+	"pname": "Wireless Handset",
+	"pcpe": "cpe:/h:vocera:wireless_handset"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11985",
-  "vname": "ARM Ltd.",
-  "vcpe": "cpe:/:arm",
-  "pid": "45050",
-  "pname": "Cortex-A32 ファームウェア",
-  "pcpe": "cpe:/o:arm:cortex-a32_firmware"
+	"vid": "11985",
+	"vname": "ARM Ltd.",
+	"vcpe": "cpe:/:arm",
+	"pid": "45050",
+	"pname": "Cortex-A32 ファームウェア",
+	"pcpe": "cpe:/o:arm:cortex-a32_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5315",
-  "pname": "Cisco Application Control Engine",
-  "pcpe": "cpe:/a:cisco:application_control_engine_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5315",
+	"pname": "Cisco Application Control Engine",
+	"pcpe": "cpe:/a:cisco:application_control_engine_software"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "715",
-  "pname": "Symantec VelociRaptor",
-  "pcpe": "cpe:/a:symantec:symantec_velociraptor"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "715",
+	"pname": "Symantec VelociRaptor",
+	"pcpe": "cpe:/a:symantec:symantec_velociraptor"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45128",
-  "pname": "ThinkPad 13 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_13_2nd_gen_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45128",
+	"pname": "ThinkPad 13 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_13_2nd_gen_firmware"
 }

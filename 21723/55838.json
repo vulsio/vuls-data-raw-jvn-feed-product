@@ -1,8 +1,8 @@
 {
-  "vid": "21723",
-  "vname": "PHP CRUD without Refresh/Reload using Ajax and DataTables Tutorial project",
-  "vcpe": "cpe:/:php_crud_without_refresh%2freload_using_ajax_and",
-  "pid": "55838",
-  "pname": "PHP CRUD without Refresh/Reload using Ajax and DataTables Tutorial",
-  "pcpe": "cpe:/a:php_crud_without_refresh%2freload_using_ajax_and:php_crud_without_refresh%2freload_using_ajax_and_datatables_tutorial"
+	"vid": "21723",
+	"vname": "PHP CRUD without Refresh/Reload using Ajax and DataTables Tutorial project",
+	"vcpe": "cpe:/:php_crud_without_refresh%2freload_using_ajax_and",
+	"pid": "55838",
+	"pname": "PHP CRUD without Refresh/Reload using Ajax and DataTables Tutorial",
+	"pcpe": "cpe:/a:php_crud_without_refresh%2freload_using_ajax_and:php_crud_without_refresh%2freload_using_ajax_and_datatables_tutorial"
 }

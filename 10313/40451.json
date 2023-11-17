@@ -1,8 +1,8 @@
 {
-  "vid": "10313",
-  "vname": "MuleSoft Inc.",
-  "vcpe": "cpe:/:mulesoft",
-  "pid": "40451",
-  "pname": "Mule runtime",
-  "pcpe": "cpe:/a:mulesoft:mule_runtime"
+	"vid": "10313",
+	"vname": "MuleSoft Inc.",
+	"vcpe": "cpe:/:mulesoft",
+	"pid": "40451",
+	"pname": "Mule runtime",
+	"pcpe": "cpe:/a:mulesoft:mule_runtime"
 }

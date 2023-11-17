@@ -1,8 +1,8 @@
 {
-  "vid": "9959",
-  "vname": "Serf Development",
-  "vcpe": "cpe:/:serf_project",
-  "pid": "20850",
-  "pname": "Serf",
-  "pcpe": "cpe:/a:serf_project:serf"
+	"vid": "9959",
+	"vname": "Serf Development",
+	"vcpe": "cpe:/:serf_project",
+	"pid": "20850",
+	"pname": "Serf",
+	"pcpe": "cpe:/a:serf_project:serf"
 }

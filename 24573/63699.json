@@ -1,8 +1,8 @@
 {
-  "vid": "24573",
-  "vname": "devhubapp",
-  "vcpe": "cpe:/:devhubapp",
-  "pid": "63699",
-  "pname": "devhub",
-  "pcpe": "cpe:/a:devhubapp:devhub"
+	"vid": "24573",
+	"vname": "devhubapp",
+	"vcpe": "cpe:/:devhubapp",
+	"pid": "63699",
+	"pname": "devhub",
+	"pcpe": "cpe:/a:devhubapp:devhub"
 }

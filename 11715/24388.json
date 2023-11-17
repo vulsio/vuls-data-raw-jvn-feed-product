@@ -1,8 +1,8 @@
 {
-  "vid": "11715",
-  "vname": "Thycotic",
-  "vcpe": "cpe:/:thycotic",
-  "pid": "24388",
-  "pname": "Thycotic Secret Server",
-  "pcpe": "cpe:/a:thycotic:secret_server"
+	"vid": "11715",
+	"vname": "Thycotic",
+	"vcpe": "cpe:/:thycotic",
+	"pid": "24388",
+	"pname": "Thycotic Secret Server",
+	"pcpe": "cpe:/a:thycotic:secret_server"
 }

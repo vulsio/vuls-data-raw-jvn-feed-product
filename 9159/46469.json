@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "46469",
-  "pname": "IntelliVue MP2-MP90 ファームウェア",
-  "pcpe": "cpe:/o:philips:intellivue_mp2-mp90_firmware"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "46469",
+	"pname": "IntelliVue MP2-MP90 ファームウェア",
+	"pcpe": "cpe:/o:philips:intellivue_mp2-mp90_firmware"
 }

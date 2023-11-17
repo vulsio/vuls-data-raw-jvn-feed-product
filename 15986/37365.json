@@ -1,8 +1,8 @@
 {
-  "vid": "15986",
-  "vname": "Sky",
-  "vcpe": "cpe:/:sky",
-  "pid": "37365",
-  "pname": "Sky Go",
-  "pcpe": "cpe:/a:sky:sky_go"
+	"vid": "15986",
+	"vname": "Sky",
+	"vcpe": "cpe:/:sky",
+	"pid": "37365",
+	"pname": "Sky Go",
+	"pcpe": "cpe:/a:sky:sky_go"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12535",
-  "vname": "NETFLIX, INC.",
-  "vcpe": "cpe:/:netflix",
-  "pid": "47704",
-  "pname": "Priam",
-  "pcpe": "cpe:/a:netflix:priam"
+	"vid": "12535",
+	"vname": "NETFLIX, INC.",
+	"vcpe": "cpe:/:netflix",
+	"pid": "47704",
+	"pname": "Priam",
+	"pcpe": "cpe:/a:netflix:priam"
 }

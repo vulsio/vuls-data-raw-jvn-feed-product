@@ -1,8 +1,8 @@
 {
-  "vid": "591",
-  "vname": "Zabbix",
-  "vcpe": "cpe:/:zabbix",
-  "pid": "16497",
-  "pname": "zabbix agentd",
-  "pcpe": "cpe:/a:zabbix:zabbix_agentd"
+	"vid": "591",
+	"vname": "Zabbix",
+	"vcpe": "cpe:/:zabbix",
+	"pid": "16497",
+	"pname": "zabbix agentd",
+	"pcpe": "cpe:/a:zabbix:zabbix_agentd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "25454",
-  "pname": "E5186 ファームウェア",
-  "pcpe": "cpe:/o:huawei:e5186_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "25454",
+	"pname": "E5186 ファームウェア",
+	"pcpe": "cpe:/o:huawei:e5186_firmware"
 }

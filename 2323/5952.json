@@ -1,8 +1,8 @@
 {
-  "vid": "2323",
-  "vname": "asg-sentry",
-  "vcpe": "cpe:/:asg-sentry",
-  "pid": "5952",
-  "pname": "asg-sentry",
-  "pcpe": "cpe:/a:asg-sentry:asg-sentry"
+	"vid": "2323",
+	"vname": "asg-sentry",
+	"vcpe": "cpe:/:asg-sentry",
+	"pid": "5952",
+	"pname": "asg-sentry",
+	"pcpe": "cpe:/a:asg-sentry:asg-sentry"
 }

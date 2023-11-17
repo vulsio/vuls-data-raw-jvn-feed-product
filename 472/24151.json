@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "24151",
-  "pname": "RSView32",
-  "pcpe": "cpe:/a:rockwellautomation:rsview32"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "24151",
+	"pname": "RSView32",
+	"pcpe": "cpe:/a:rockwellautomation:rsview32"
 }

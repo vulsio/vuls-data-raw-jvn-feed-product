@@ -1,8 +1,8 @@
 {
-  "vid": "784",
-  "vname": "Technicolor",
-  "vcpe": "cpe:/:technicolor",
-  "pid": "36996",
-  "pname": "DPC2320 ファームウェア",
-  "pcpe": "cpe:/o:technicolor:dpc2320_firmware"
+	"vid": "784",
+	"vname": "Technicolor",
+	"vcpe": "cpe:/:technicolor",
+	"pid": "36996",
+	"pname": "DPC2320 ファームウェア",
+	"pcpe": "cpe:/o:technicolor:dpc2320_firmware"
 }

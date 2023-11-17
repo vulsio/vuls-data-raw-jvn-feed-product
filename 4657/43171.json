@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "43171",
-  "pname": "Hege-560 ファームウェア",
-  "pcpe": "cpe:/o:huawei:hege-560_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "43171",
+	"pname": "Hege-560 ファームウェア",
+	"pcpe": "cpe:/o:huawei:hege-560_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21147",
-  "vname": "FluxCD",
-  "vcpe": "cpe:/:fluxcd",
-  "pid": "59121",
-  "pname": "flux2",
-  "pcpe": "cpe:/a:fluxcd:flux2"
+	"vid": "21147",
+	"vname": "FluxCD",
+	"vcpe": "cpe:/:fluxcd",
+	"pid": "59121",
+	"pname": "flux2",
+	"pcpe": "cpe:/a:fluxcd:flux2"
 }

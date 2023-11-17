@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "37195",
-  "pname": "AltaLink C8035 ファームウェア",
-  "pcpe": "cpe:/o:xerox:altalink_c8035_firmware"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "37195",
+	"pname": "AltaLink C8035 ファームウェア",
+	"pcpe": "cpe:/o:xerox:altalink_c8035_firmware"
 }

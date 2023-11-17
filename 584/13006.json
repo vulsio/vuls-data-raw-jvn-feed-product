@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "13006",
-  "pname": "speedstream 5200",
-  "pcpe": "cpe:/h:siemens:speedstream_5200"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "13006",
+	"pname": "speedstream 5200",
+	"pcpe": "cpe:/h:siemens:speedstream_5200"
 }

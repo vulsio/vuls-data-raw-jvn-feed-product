@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "18516",
-  "pname": "SCALANCE X-200IRT",
-  "pcpe": "cpe:/h:siemens:scalance_x-200irt"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "18516",
+	"pname": "SCALANCE X-200IRT",
+	"pcpe": "cpe:/h:siemens:scalance_x-200irt"
 }

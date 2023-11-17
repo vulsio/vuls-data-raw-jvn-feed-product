@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "2091",
-  "pname": "HP LaserJet",
-  "pcpe": "cpe:/h:hp:laserjet"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "2091",
+	"pname": "HP LaserJet",
+	"pcpe": "cpe:/h:hp:laserjet"
 }

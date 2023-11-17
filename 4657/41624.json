@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "41624",
-  "pname": "Hima-L29C ファームウェア",
-  "pcpe": "cpe:/o:huawei:hima-l29c_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "41624",
+	"pname": "Hima-L29C ファームウェア",
+	"pcpe": "cpe:/o:huawei:hima-l29c_firmware"
 }

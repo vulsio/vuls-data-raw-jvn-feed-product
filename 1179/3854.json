@@ -1,8 +1,8 @@
 {
-  "vid": "1179",
-  "vname": "GForge Group",
-  "vcpe": "cpe:/:gforgegroup",
-  "pid": "3854",
-  "pname": "GForge Advanced Server",
-  "pcpe": "cpe:/a:gforgegroup:gforge"
+	"vid": "1179",
+	"vname": "GForge Group",
+	"vcpe": "cpe:/:gforgegroup",
+	"pid": "3854",
+	"pname": "GForge Advanced Server",
+	"pcpe": "cpe:/a:gforgegroup:gforge"
 }

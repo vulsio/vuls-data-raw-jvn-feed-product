@@ -1,8 +1,8 @@
 {
-  "vid": "13030",
-  "vname": "Aptus",
-  "vcpe": "cpe:/:aptus",
-  "pid": "44821",
-  "pname": "Yale WIPC-301W ファームウェア",
-  "pcpe": "cpe:/o:aptus:yale_wipc-301w_firmware"
+	"vid": "13030",
+	"vname": "Aptus",
+	"vcpe": "cpe:/:aptus",
+	"pid": "44821",
+	"pname": "Yale WIPC-301W ファームウェア",
+	"pcpe": "cpe:/o:aptus:yale_wipc-301w_firmware"
 }

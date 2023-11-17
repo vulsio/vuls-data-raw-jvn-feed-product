@@ -1,8 +1,8 @@
 {
-  "vid": "21131",
-  "vname": "Barrier project",
-  "vcpe": "cpe:/:barrier_project",
-  "pid": "54037",
-  "pname": "Barrier",
-  "pcpe": "cpe:/a:barrier_project:barrier"
+	"vid": "21131",
+	"vname": "Barrier project",
+	"vcpe": "cpe:/:barrier_project",
+	"pid": "54037",
+	"pname": "Barrier",
+	"pcpe": "cpe:/a:barrier_project:barrier"
 }

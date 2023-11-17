@@ -1,8 +1,8 @@
 {
-  "vid": "4671",
-  "vname": "hypervm",
-  "vcpe": "cpe:/:hypervm",
-  "pid": "9955",
-  "pname": "hypervm",
-  "pcpe": "cpe:/a:hypervm:hypervm"
+	"vid": "4671",
+	"vname": "hypervm",
+	"vcpe": "cpe:/:hypervm",
+	"pid": "9955",
+	"pname": "hypervm",
+	"pcpe": "cpe:/a:hypervm:hypervm"
 }

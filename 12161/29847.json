@@ -1,8 +1,8 @@
 {
-  "vid": "12161",
-  "vname": "西日本電信電話株式会社",
-  "vcpe": "cpe:/:ntt_west",
-  "pid": "29847",
-  "pname": "セキュリティ機能見張り番",
-  "pcpe": "cpe:/a:ntt_west:security_kinou_mihariban"
+	"vid": "12161",
+	"vname": "西日本電信電話株式会社",
+	"vcpe": "cpe:/:ntt_west",
+	"pid": "29847",
+	"pname": "セキュリティ機能見張り番",
+	"pcpe": "cpe:/a:ntt_west:security_kinou_mihariban"
 }

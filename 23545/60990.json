@@ -1,8 +1,8 @@
 {
-  "vid": "23545",
-  "vname": "scss-tokenizer project",
-  "vcpe": "cpe:/:scss-tokenizer_project",
-  "pid": "60990",
-  "pname": "scss-tokenizer",
-  "pcpe": "cpe:/a:scss-tokenizer_project:scss-tokenizer"
+	"vid": "23545",
+	"vname": "scss-tokenizer project",
+	"vcpe": "cpe:/:scss-tokenizer_project",
+	"pid": "60990",
+	"pname": "scss-tokenizer",
+	"pcpe": "cpe:/a:scss-tokenizer_project:scss-tokenizer"
 }

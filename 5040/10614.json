@@ -1,8 +1,8 @@
 {
-  "vid": "5040",
-  "vname": "joomlacode",
-  "vcpe": "cpe:/:joomlacode",
-  "pid": "10614",
-  "pname": "joomlaexplorer",
-  "pcpe": "cpe:/a:joomlacode:joomlaexplorer"
+	"vid": "5040",
+	"vname": "joomlacode",
+	"vcpe": "cpe:/:joomlacode",
+	"pid": "10614",
+	"pname": "joomlaexplorer",
+	"pcpe": "cpe:/a:joomlacode:joomlaexplorer"
 }

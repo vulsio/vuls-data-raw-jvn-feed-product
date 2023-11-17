@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "3909",
-  "pname": "IBM solidDB",
-  "pcpe": "cpe:/a:ibm:soliddb"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "3909",
+	"pname": "IBM solidDB",
+	"pcpe": "cpe:/a:ibm:soliddb"
 }

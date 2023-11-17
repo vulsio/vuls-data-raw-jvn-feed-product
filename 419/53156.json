@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "53156",
-  "pname": "Management Services for NetApp HCI",
-  "pcpe": "cpe:/a:netapp:management_services_for_netapp_hci"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "53156",
+	"pname": "Management Services for NetApp HCI",
+	"pcpe": "cpe:/a:netapp:management_services_for_netapp_hci"
 }

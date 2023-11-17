@@ -1,8 +1,8 @@
 {
-  "vid": "9888",
-  "vname": "Kaseya",
-  "vcpe": "cpe:/:kaseya",
-  "pid": "20578",
-  "pname": "Kaseya Virtual System Administrator",
-  "pcpe": "cpe:/a:kaseya:virtual_system_administrator"
+	"vid": "9888",
+	"vname": "Kaseya",
+	"vcpe": "cpe:/:kaseya",
+	"pid": "20578",
+	"pname": "Kaseya Virtual System Administrator",
+	"pcpe": "cpe:/a:kaseya:virtual_system_administrator"
 }

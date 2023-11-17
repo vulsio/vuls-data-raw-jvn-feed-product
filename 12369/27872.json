@@ -1,8 +1,8 @@
 {
-  "vid": "12369",
-  "vname": "SpiQeソフトウェア",
-  "vcpe": "cpe:/:spiqe",
-  "pid": "27872",
-  "pname": "OneThird CMS",
-  "pcpe": "cpe:/a:spiqe:onethird_cms"
+	"vid": "12369",
+	"vname": "SpiQeソフトウェア",
+	"vcpe": "cpe:/:spiqe",
+	"pid": "27872",
+	"pname": "OneThird CMS",
+	"pcpe": "cpe:/a:spiqe:onethird_cms"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9044",
-  "vname": "The Foreman",
-  "vcpe": "cpe:/:theforeman",
-  "pid": "58253",
-  "pname": "smart proxy salt",
-  "pcpe": "cpe:/a:theforeman:smart_proxy_salt"
+	"vid": "9044",
+	"vname": "The Foreman",
+	"vcpe": "cpe:/:theforeman",
+	"pid": "58253",
+	"pname": "smart proxy salt",
+	"pcpe": "cpe:/a:theforeman:smart_proxy_salt"
 }

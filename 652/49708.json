@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "49708",
-  "pname": "ONEUI",
-  "pcpe": "cpe:/a:samsung:one_ui"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "49708",
+	"pname": "ONEUI",
+	"pcpe": "cpe:/a:samsung:one_ui"
 }

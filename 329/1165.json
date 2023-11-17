@@ -1,8 +1,8 @@
 {
-  "vid": "329",
-  "vname": "ビジネスオブジェクツ",
-  "vcpe": "cpe:/:businessobjects",
-  "pid": "1165",
-  "pname": "BusinessObjects",
-  "pcpe": "cpe:/a:businessobjects:businessobjects"
+	"vid": "329",
+	"vname": "ビジネスオブジェクツ",
+	"vcpe": "cpe:/:businessobjects",
+	"pid": "1165",
+	"pname": "BusinessObjects",
+	"pcpe": "cpe:/a:businessobjects:businessobjects"
 }

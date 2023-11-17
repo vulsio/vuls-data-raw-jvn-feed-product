@@ -1,8 +1,8 @@
 {
-  "vid": "16326",
-  "vname": "Cerner Corporation.",
-  "vcpe": "cpe:/:cerner",
-  "pid": "38518",
-  "pname": "Cerner Connectivity Engine 4 ファームウェア",
-  "pcpe": "cpe:/o:cerner:connectivity_engine_4_firmware"
+	"vid": "16326",
+	"vname": "Cerner Corporation.",
+	"vcpe": "cpe:/:cerner",
+	"pid": "38518",
+	"pname": "Cerner Connectivity Engine 4 ファームウェア",
+	"pcpe": "cpe:/o:cerner:connectivity_engine_4_firmware"
 }

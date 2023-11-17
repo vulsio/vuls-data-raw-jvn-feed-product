@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27719",
-  "pname": "Oracle FLEXCUBE Investor Servicing",
-  "pcpe": "cpe:/a:oracle:flexcube_investor_servicing"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27719",
+	"pname": "Oracle FLEXCUBE Investor Servicing",
+	"pcpe": "cpe:/a:oracle:flexcube_investor_servicing"
 }

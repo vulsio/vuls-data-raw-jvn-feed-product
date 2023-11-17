@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "46544",
-  "pname": "HPE ProLiant XL270d Gen10 Server ファームウェア",
-  "pcpe": "cpe:/o:hp:proliant_xl270d_gen10_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "46544",
+	"pname": "HPE ProLiant XL270d Gen10 Server ファームウェア",
+	"pcpe": "cpe:/o:hp:proliant_xl270d_gen10_firmware"
 }

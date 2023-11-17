@@ -1,8 +1,8 @@
 {
-  "vid": "18363",
-  "vname": "Prisma",
-  "vcpe": "cpe:/:prisma",
-  "pid": "45068",
-  "pname": "GraphQL playground-middleware-express",
-  "pcpe": "cpe:/a:prisma:graphql-playground-middleware-express"
+	"vid": "18363",
+	"vname": "Prisma",
+	"vcpe": "cpe:/:prisma",
+	"pid": "45068",
+	"pname": "GraphQL playground-middleware-express",
+	"pcpe": "cpe:/a:prisma:graphql-playground-middleware-express"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14446",
-  "vname": "quickserver project",
-  "vcpe": "cpe:/:quickserver_project",
-  "pid": "34139",
-  "pname": "quickserver",
-  "pcpe": "cpe:/a:quickserver_project:quickserver"
+	"vid": "14446",
+	"vname": "quickserver project",
+	"vcpe": "cpe:/:quickserver_project",
+	"pid": "34139",
+	"pname": "quickserver",
+	"pcpe": "cpe:/a:quickserver_project:quickserver"
 }

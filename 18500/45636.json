@@ -1,8 +1,8 @@
 {
-  "vid": "18500",
-  "vname": "rollup-plugin-serve project",
-  "vcpe": "cpe:/:rollup-plugin-serve_project",
-  "pid": "45636",
-  "pname": "rollup-plugin-serve",
-  "pcpe": "cpe:/a:rollup-plugin-serve_project:rollup-plugin-serve"
+	"vid": "18500",
+	"vname": "rollup-plugin-serve project",
+	"vcpe": "cpe:/:rollup-plugin-serve_project",
+	"pid": "45636",
+	"pname": "rollup-plugin-serve",
+	"pcpe": "cpe:/a:rollup-plugin-serve_project:rollup-plugin-serve"
 }

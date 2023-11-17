@@ -1,8 +1,8 @@
 {
-  "vid": "1875",
-  "vname": "Yandex",
-  "vcpe": "cpe:/:yandex",
-  "pid": "40117",
-  "pname": "ClickHouse",
-  "pcpe": "cpe:/a:yandex:clickhouse"
+	"vid": "1875",
+	"vname": "Yandex",
+	"vcpe": "cpe:/:yandex",
+	"pid": "40117",
+	"pname": "ClickHouse",
+	"pcpe": "cpe:/a:yandex:clickhouse"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6945",
-  "vname": "phpsysinfo",
-  "vcpe": "cpe:/:phpsysinfo",
-  "pid": "13830",
-  "pname": "phpsysinfo",
-  "pcpe": "cpe:/a:phpsysinfo:phpsysinfo"
+	"vid": "6945",
+	"vname": "phpsysinfo",
+	"vcpe": "cpe:/:phpsysinfo",
+	"pid": "13830",
+	"pname": "phpsysinfo",
+	"pcpe": "cpe:/a:phpsysinfo:phpsysinfo"
 }

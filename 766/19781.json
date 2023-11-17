@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "19781",
-  "pname": "ModbusCommDTM sl",
-  "pcpe": "cpe:/a:schneider_electric:modbuscommdtm_sl"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "19781",
+	"pname": "ModbusCommDTM sl",
+	"pcpe": "cpe:/a:schneider_electric:modbuscommdtm_sl"
 }

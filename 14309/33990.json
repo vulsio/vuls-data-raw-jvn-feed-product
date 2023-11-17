@@ -1,8 +1,8 @@
 {
-  "vid": "14309",
-  "vname": "httpsync project",
-  "vcpe": "cpe:/:httpsync_project",
-  "pid": "33990",
-  "pname": "httpsync",
-  "pcpe": "cpe:/a:httpsync_project:httpsync"
+	"vid": "14309",
+	"vname": "httpsync project",
+	"vcpe": "cpe:/:httpsync_project",
+	"pid": "33990",
+	"pname": "httpsync",
+	"pcpe": "cpe:/a:httpsync_project:httpsync"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12863",
-  "vname": "ヒューマックス",
-  "vcpe": "cpe:/:humaxdigital",
-  "pid": "43590",
-  "pname": "HGA12R-02 ファームウェア",
-  "pcpe": "cpe:/o:humaxdigital:hga12r-02_firmware"
+	"vid": "12863",
+	"vname": "ヒューマックス",
+	"vcpe": "cpe:/:humaxdigital",
+	"pid": "43590",
+	"pname": "HGA12R-02 ファームウェア",
+	"pcpe": "cpe:/o:humaxdigital:hga12r-02_firmware"
 }

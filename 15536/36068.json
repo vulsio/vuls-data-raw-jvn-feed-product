@@ -1,8 +1,8 @@
 {
-  "vid": "15536",
-  "vname": "octoprint.org",
-  "vcpe": "cpe:/:octoprint",
-  "pid": "36068",
-  "pname": "OctoPrint",
-  "pcpe": "cpe:/a:octoprint:octoprint"
+	"vid": "15536",
+	"vname": "octoprint.org",
+	"vcpe": "cpe:/:octoprint",
+	"pid": "36068",
+	"pname": "OctoPrint",
+	"pcpe": "cpe:/a:octoprint:octoprint"
 }

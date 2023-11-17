@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "22649",
-  "pname": "zoho books - accounting app",
-  "pcpe": "cpe:/a:zohocorp:zoho_books_-_accounting_app"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "22649",
+	"pname": "zoho books - accounting app",
+	"pcpe": "cpe:/a:zohocorp:zoho_books_-_accounting_app"
 }

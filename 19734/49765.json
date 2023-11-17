@@ -1,8 +1,8 @@
 {
-  "vid": "19734",
-  "vname": "Bitnami",
-  "vcpe": "cpe:/:bitnami",
-  "pid": "49765",
-  "pname": "bitnami-docker-laravel",
-  "pcpe": "cpe:/a:bitnami:containers"
+	"vid": "19734",
+	"vname": "Bitnami",
+	"vcpe": "cpe:/:bitnami",
+	"pid": "49765",
+	"pname": "bitnami-docker-laravel",
+	"pcpe": "cpe:/a:bitnami:containers"
 }

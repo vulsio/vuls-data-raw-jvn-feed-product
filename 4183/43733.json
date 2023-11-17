@@ -1,8 +1,8 @@
 {
-  "vid": "4183",
-  "vname": "Comtrend",
-  "vcpe": "cpe:/:comtrend",
-  "pid": "43733",
-  "pname": "VR-3033 ファームウェア",
-  "pcpe": "cpe:/o:comtrend:vr-3033_firmware"
+	"vid": "4183",
+	"vname": "Comtrend",
+	"vcpe": "cpe:/:comtrend",
+	"pid": "43733",
+	"pname": "VR-3033 ファームウェア",
+	"pcpe": "cpe:/o:comtrend:vr-3033_firmware"
 }

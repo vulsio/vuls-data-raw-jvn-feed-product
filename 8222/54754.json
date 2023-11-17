@@ -1,8 +1,8 @@
 {
-  "vid": "8222",
-  "vname": "Unisys",
-  "vcpe": "cpe:/:unisys",
-  "pid": "54754",
-  "pname": "Cargo Mobile",
-  "pcpe": "cpe:/a:unisys:cargo_mobile"
+	"vid": "8222",
+	"vname": "Unisys",
+	"vcpe": "cpe:/:unisys",
+	"pid": "54754",
+	"pname": "Cargo Mobile",
+	"pcpe": "cpe:/a:unisys:cargo_mobile"
 }

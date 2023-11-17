@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "24724",
-  "pname": "HP ProBook 430 G2",
-  "pcpe": "cpe:/h:hp:probook_430_g2"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "24724",
+	"pname": "HP ProBook 430 G2",
+	"pcpe": "cpe:/h:hp:probook_430_g2"
 }

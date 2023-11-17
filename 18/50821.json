@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "50821",
-  "pname": "Collaborative Lifecycle Management",
-  "pcpe": "cpe:/a:ibm:collaborative_lifecycle_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "50821",
+	"pname": "Collaborative Lifecycle Management",
+	"pcpe": "cpe:/a:ibm:collaborative_lifecycle_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "24587",
-  "pname": "Schneider Electric SAGE 2400 RTU",
-  "pcpe": "cpe:/h:schneider_electric:sage_2400_rtu"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "24587",
+	"pname": "Schneider Electric SAGE 2400 RTU",
+	"pcpe": "cpe:/h:schneider_electric:sage_2400_rtu"
 }

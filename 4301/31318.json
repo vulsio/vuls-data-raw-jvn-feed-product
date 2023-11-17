@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "31318",
-  "pname": "Amazon Key",
-  "pcpe": "cpe:/o:amazon:amazon_key_firmware"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "31318",
+	"pname": "Amazon Key",
+	"pcpe": "cpe:/o:amazon:amazon_key_firmware"
 }

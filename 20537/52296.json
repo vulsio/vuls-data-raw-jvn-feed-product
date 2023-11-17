@@ -1,8 +1,8 @@
 {
-  "vid": "20537",
-  "vname": "GeyserMC",
-  "vcpe": "cpe:/:geysermc",
-  "pid": "52296",
-  "pname": "Geyser",
-  "pcpe": "cpe:/a:geysermc:geyser"
+	"vid": "20537",
+	"vname": "GeyserMC",
+	"vcpe": "cpe:/:geysermc",
+	"pid": "52296",
+	"pname": "Geyser",
+	"pcpe": "cpe:/a:geysermc:geyser"
 }

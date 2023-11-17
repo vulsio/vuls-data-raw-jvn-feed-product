@@ -1,8 +1,8 @@
 {
-  "vid": "219",
-  "vname": "FreeBSD",
-  "vcpe": "cpe:/:freebsd",
-  "pid": "41469",
-  "pname": "NSD server",
-  "pcpe": "cpe:/a:freebsd:name_server_daemon"
+	"vid": "219",
+	"vname": "FreeBSD",
+	"vcpe": "cpe:/:freebsd",
+	"pid": "41469",
+	"pname": "NSD server",
+	"pcpe": "cpe:/a:freebsd:name_server_daemon"
 }

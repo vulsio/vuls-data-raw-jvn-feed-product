@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "41079",
-  "pname": "Dell ImageAssist",
-  "pcpe": "cpe:/a:dell:imageassist"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "41079",
+	"pname": "Dell ImageAssist",
+	"pcpe": "cpe:/a:dell:imageassist"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "50201",
-  "pname": "JT Open Toolkit",
-  "pcpe": "cpe:/a:siemens:jt_open_toolkit"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "50201",
+	"pname": "JT Open Toolkit",
+	"pcpe": "cpe:/a:siemens:jt_open_toolkit"
 }

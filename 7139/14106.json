@@ -1,8 +1,8 @@
 {
-  "vid": "7139",
-  "vname": "PulseAudio",
-  "vcpe": "cpe:/:pulseaudio",
-  "pid": "14106",
-  "pname": "PulseAudio",
-  "pcpe": "cpe:/a:pulseaudio:pulseaudio"
+	"vid": "7139",
+	"vname": "PulseAudio",
+	"vcpe": "cpe:/:pulseaudio",
+	"pid": "14106",
+	"pname": "PulseAudio",
+	"pcpe": "cpe:/a:pulseaudio:pulseaudio"
 }

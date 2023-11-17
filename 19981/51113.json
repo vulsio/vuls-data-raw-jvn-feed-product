@@ -1,8 +1,8 @@
 {
-  "vid": "19981",
-  "vname": "NightOwl",
-  "vcpe": "cpe:/:nightowlsp",
-  "pid": "51113",
-  "pname": "Smart Doorbell ファームウェア",
-  "pcpe": "cpe:/o:nightowlsp:smart_doorbell_firmware"
+	"vid": "19981",
+	"vname": "NightOwl",
+	"vcpe": "cpe:/:nightowlsp",
+	"pid": "51113",
+	"pname": "Smart Doorbell ファームウェア",
+	"pcpe": "cpe:/o:nightowlsp:smart_doorbell_firmware"
 }

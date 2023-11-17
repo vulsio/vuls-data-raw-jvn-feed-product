@@ -1,8 +1,8 @@
 {
-  "vid": "20578",
-  "vname": "TideSec",
-  "vcpe": "cpe:/:tidesec",
-  "pid": "52416",
-  "pname": "WDScanner",
-  "pcpe": "cpe:/a:tidesec:wdscanner"
+	"vid": "20578",
+	"vname": "TideSec",
+	"vcpe": "cpe:/:tidesec",
+	"pid": "52416",
+	"pname": "WDScanner",
+	"pcpe": "cpe:/a:tidesec:wdscanner"
 }

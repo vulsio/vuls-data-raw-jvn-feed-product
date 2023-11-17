@@ -1,8 +1,8 @@
 {
-  "vid": "1299",
-  "vname": "FRISK Software International",
-  "vcpe": "cpe:/:f-prot",
-  "pid": "7980",
-  "pname": "f-prot milter",
-  "pcpe": "cpe:/a:f-prot:f-prot_milter"
+	"vid": "1299",
+	"vname": "FRISK Software International",
+	"vcpe": "cpe:/:f-prot",
+	"pid": "7980",
+	"pname": "f-prot milter",
+	"pcpe": "cpe:/a:f-prot:f-prot_milter"
 }

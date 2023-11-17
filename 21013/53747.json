@@ -1,8 +1,8 @@
 {
-  "vid": "21013",
-  "vname": "Swift File Transfer",
-  "vcpe": "cpe:/:swiftfiletransfer",
-  "pid": "53747",
-  "pname": "Swift File Transfer",
-  "pcpe": "cpe:/a:swiftfiletransfer:swift_file_transfer"
+	"vid": "21013",
+	"vname": "Swift File Transfer",
+	"vcpe": "cpe:/:swiftfiletransfer",
+	"pid": "53747",
+	"pname": "Swift File Transfer",
+	"pcpe": "cpe:/a:swiftfiletransfer:swift_file_transfer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10283",
-  "vname": "Meinberg Funkuhren GmbH & Co KG",
-  "vcpe": "cpe:/:meinberg",
-  "pid": "21560",
-  "pname": "Meinberg NTP Server ファームウェア",
-  "pcpe": "cpe:/o:meinberg:ntp_server_firmware"
+	"vid": "10283",
+	"vname": "Meinberg Funkuhren GmbH & Co KG",
+	"vcpe": "cpe:/:meinberg",
+	"pid": "21560",
+	"pname": "Meinberg NTP Server ファームウェア",
+	"pcpe": "cpe:/o:meinberg:ntp_server_firmware"
 }

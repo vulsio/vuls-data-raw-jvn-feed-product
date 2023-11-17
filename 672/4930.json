@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "4930",
-  "pname": "ManageEngine ADSelfService Plus",
-  "pcpe": "cpe:/a:zohocorp:manageengine_adselfservice_plus"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "4930",
+	"pname": "ManageEngine ADSelfService Plus",
+	"pcpe": "cpe:/a:zohocorp:manageengine_adselfservice_plus"
 }

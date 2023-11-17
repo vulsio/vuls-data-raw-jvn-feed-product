@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "15129",
-  "pname": "java platform micro edition",
-  "pcpe": "cpe:/a:sun:java_platform_micro_edition"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "15129",
+	"pname": "java platform micro edition",
+	"pcpe": "cpe:/a:sun:java_platform_micro_edition"
 }

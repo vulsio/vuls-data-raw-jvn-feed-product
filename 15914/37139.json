@@ -1,8 +1,8 @@
 {
-  "vid": "15914",
-  "vname": "Hetronic International",
-  "vcpe": "cpe:/:hetronic",
-  "pid": "37139",
-  "pname": "DC_MOBILE ファームウェア",
-  "pcpe": "cpe:/o:hetronic:dc_mobile_firmware"
+	"vid": "15914",
+	"vname": "Hetronic International",
+	"vcpe": "cpe:/:hetronic",
+	"pid": "37139",
+	"pname": "DC_MOBILE ファームウェア",
+	"pcpe": "cpe:/o:hetronic:dc_mobile_firmware"
 }

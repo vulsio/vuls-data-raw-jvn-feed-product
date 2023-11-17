@@ -1,8 +1,8 @@
 {
-  "vid": "20785",
-  "vname": "Payara Services Ltd",
-  "vcpe": "cpe:/:payara",
-  "pid": "62287",
-  "pname": "payara",
-  "pcpe": "cpe:/a:payara:payara"
+	"vid": "20785",
+	"vname": "Payara Services Ltd",
+	"vcpe": "cpe:/:payara",
+	"pid": "62287",
+	"pname": "payara",
+	"pcpe": "cpe:/a:payara:payara"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "491",
-  "vname": "BitDefender",
-  "vcpe": "cpe:/:bitdefender",
-  "pid": "6286",
-  "pname": "BitDefender Update Server",
-  "pcpe": "cpe:/a:bitdefender:update_server"
+	"vid": "491",
+	"vname": "BitDefender",
+	"vcpe": "cpe:/:bitdefender",
+	"pid": "6286",
+	"pname": "BitDefender Update Server",
+	"pcpe": "cpe:/a:bitdefender:update_server"
 }

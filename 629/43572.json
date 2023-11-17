@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "43572",
-  "pname": "ioLogik 2542 WL1-EU ファームウェア",
-  "pcpe": "cpe:/o:moxa:iologik_2542-wl1-eu_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "43572",
+	"pname": "ioLogik 2542 WL1-EU ファームウェア",
+	"pcpe": "cpe:/o:moxa:iologik_2542-wl1-eu_firmware"
 }

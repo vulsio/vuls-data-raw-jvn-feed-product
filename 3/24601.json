@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "24601",
-  "pname": "libuser",
-  "pcpe": "cpe:/a:redhat:libuser"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "24601",
+	"pname": "libuser",
+	"pcpe": "cpe:/a:redhat:libuser"
 }

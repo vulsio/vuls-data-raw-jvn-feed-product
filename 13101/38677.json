@@ -1,8 +1,8 @@
 {
-  "vid": "13101",
-  "vname": "Ellucian",
-  "vcpe": "cpe:/:ellucian",
-  "pid": "38677",
-  "pname": "Banner Enterprise Identity Services",
-  "pcpe": "cpe:/a:ellucian:banner_enterprise_identity_services"
+	"vid": "13101",
+	"vname": "Ellucian",
+	"vcpe": "cpe:/:ellucian",
+	"pid": "38677",
+	"pname": "Banner Enterprise Identity Services",
+	"pcpe": "cpe:/a:ellucian:banner_enterprise_identity_services"
 }

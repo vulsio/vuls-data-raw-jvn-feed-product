@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "56125",
-  "pname": "EVC1S7P4 ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:evc1s7p4_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "56125",
+	"pname": "EVC1S7P4 ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:evc1s7p4_firmware"
 }

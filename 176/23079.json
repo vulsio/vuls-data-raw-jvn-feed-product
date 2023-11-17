@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "23079",
-  "pname": "AR440S ファームウェア",
-  "pcpe": "cpe:/o:allied_telesis_k.k.:ar440s_firmware"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "23079",
+	"pname": "AR440S ファームウェア",
+	"pcpe": "cpe:/o:allied_telesis_k.k.:ar440s_firmware"
 }

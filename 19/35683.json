@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "35683",
-  "pname": "Cisco WAP121 ファームウェア",
-  "pcpe": "cpe:/o:cisco:wap121_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "35683",
+	"pname": "Cisco WAP121 ファームウェア",
+	"pcpe": "cpe:/o:cisco:wap121_firmware"
 }

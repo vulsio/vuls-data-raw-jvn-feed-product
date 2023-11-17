@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "23655",
-  "pname": "SPC4000ファームウェア",
-  "pcpe": "cpe:/o:siemens:spc4000_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "23655",
+	"pname": "SPC4000ファームウェア",
+	"pcpe": "cpe:/o:siemens:spc4000_firmware"
 }

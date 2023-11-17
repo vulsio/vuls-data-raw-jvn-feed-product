@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "45707",
-  "pname": "Simocode ES",
-  "pcpe": "cpe:/a:siemens:simocode_es"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "45707",
+	"pname": "Simocode ES",
+	"pcpe": "cpe:/a:siemens:simocode_es"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20800",
-  "vname": "任天堂株式会社",
-  "vcpe": "cpe:/:nintendo",
-  "pid": "56197",
-  "pname": "Nintendo Switch Sports",
-  "pcpe": "cpe:/a:nintendo:switch_sports"
+	"vid": "20800",
+	"vname": "任天堂株式会社",
+	"vcpe": "cpe:/:nintendo",
+	"pid": "56197",
+	"pname": "Nintendo Switch Sports",
+	"pcpe": "cpe:/a:nintendo:switch_sports"
 }

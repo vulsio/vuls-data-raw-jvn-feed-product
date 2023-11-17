@@ -1,8 +1,8 @@
 {
-  "vid": "21541",
-  "vname": "Baicells Technologies",
-  "vcpe": "cpe:/:misc",
-  "pid": "55676",
-  "pname": "Neutrino 430 ファームウェア",
-  "pcpe": "cpe:/o:misc:baicells-tchnologies_neutrino430_firmware"
+	"vid": "21541",
+	"vname": "Baicells Technologies",
+	"vcpe": "cpe:/:misc",
+	"pid": "55676",
+	"pname": "Neutrino 430 ファームウェア",
+	"pcpe": "cpe:/o:misc:baicells-tchnologies_neutrino430_firmware"
 }

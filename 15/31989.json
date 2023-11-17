@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "31989",
-  "pname": "Oracle Financial Services Balance Sheet Planning",
-  "pcpe": "cpe:/a:oracle:financial_services_balance_sheet_planning"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "31989",
+	"pname": "Oracle Financial Services Balance Sheet Planning",
+	"pcpe": "cpe:/a:oracle:financial_services_balance_sheet_planning"
 }

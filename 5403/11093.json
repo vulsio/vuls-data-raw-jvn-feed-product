@@ -1,8 +1,8 @@
 {
-  "vid": "5403",
-  "vname": "lxde",
-  "vcpe": "cpe:/:lxde",
-  "pid": "11093",
-  "pname": "lightweight x11 desktop environment",
-  "pcpe": "cpe:/a:lxde:lightweight_x11_desktop_environment"
+	"vid": "5403",
+	"vname": "lxde",
+	"vcpe": "cpe:/:lxde",
+	"pid": "11093",
+	"pname": "lightweight x11 desktop environment",
+	"pcpe": "cpe:/a:lxde:lightweight_x11_desktop_environment"
 }

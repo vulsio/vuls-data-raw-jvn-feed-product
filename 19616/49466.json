@@ -1,8 +1,8 @@
 {
-  "vid": "19616",
-  "vname": "Mofi Network Inc.",
-  "vcpe": "cpe:/:mofinetwork",
-  "pid": "49466",
-  "pname": "MOFI4500-4GXeLTE ファームウェア",
-  "pcpe": "cpe:/o:mofinetwork:mofi4500-4gxelte_firmware"
+	"vid": "19616",
+	"vname": "Mofi Network Inc.",
+	"vcpe": "cpe:/:mofinetwork",
+	"pid": "49466",
+	"pname": "MOFI4500-4GXeLTE ファームウェア",
+	"pcpe": "cpe:/o:mofinetwork:mofi4500-4gxelte_firmware"
 }

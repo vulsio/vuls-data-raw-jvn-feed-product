@@ -1,8 +1,8 @@
 {
-  "vid": "15280",
-  "vname": "Clementine",
-  "vcpe": "cpe:/:clementine-player",
-  "pid": "35364",
-  "pname": "Clementine",
-  "pcpe": "cpe:/a:clementine-player:clementine"
+	"vid": "15280",
+	"vname": "Clementine",
+	"vcpe": "cpe:/:clementine-player",
+	"pid": "35364",
+	"pname": "Clementine",
+	"pcpe": "cpe:/a:clementine-player:clementine"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16176",
-  "vname": "GL.iNet",
-  "vcpe": "cpe:/:gl-inet",
-  "pid": "37901",
-  "pname": "GL-AR300M-Lite ファームウェア",
-  "pcpe": "cpe:/o:gl-inet:gl-ar300m-lite_firmware"
+	"vid": "16176",
+	"vname": "GL.iNet",
+	"vcpe": "cpe:/:gl-inet",
+	"pid": "37901",
+	"pname": "GL-AR300M-Lite ファームウェア",
+	"pcpe": "cpe:/o:gl-inet:gl-ar300m-lite_firmware"
 }

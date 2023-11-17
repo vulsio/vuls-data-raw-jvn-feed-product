@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33174",
-  "pname": "SDX20 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sdx20_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33174",
+	"pname": "SDX20 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sdx20_firmware"
 }

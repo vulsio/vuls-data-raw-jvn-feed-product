@@ -1,8 +1,8 @@
 {
-  "vid": "18515",
-  "vname": "NISCOMED",
-  "vcpe": "cpe:/:niscomed",
-  "pid": "55795",
-  "pname": "m1000 multipara patient monitor firmware",
-  "pcpe": "cpe:/o:niscomed:m1000_multipara_patient_monitor_firmware"
+	"vid": "18515",
+	"vname": "NISCOMED",
+	"vcpe": "cpe:/:niscomed",
+	"pid": "55795",
+	"pname": "m1000 multipara patient monitor firmware",
+	"pcpe": "cpe:/o:niscomed:m1000_multipara_patient_monitor_firmware"
 }

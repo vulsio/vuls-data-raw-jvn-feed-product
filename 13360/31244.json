@@ -1,8 +1,8 @@
 {
-  "vid": "13360",
-  "vname": "Snap7 project",
-  "vcpe": "cpe:/:snap7_project",
-  "pid": "31244",
-  "pname": "Snap7",
-  "pcpe": "cpe:/a:snap7_project:snap7_server"
+	"vid": "13360",
+	"vname": "Snap7 project",
+	"vcpe": "cpe:/:snap7_project",
+	"pid": "31244",
+	"pname": "Snap7",
+	"pcpe": "cpe:/a:snap7_project:snap7_server"
 }

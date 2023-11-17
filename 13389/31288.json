@@ -1,8 +1,8 @@
 {
-  "vid": "13389",
-  "vname": "AutomationDirect",
-  "vcpe": "cpe:/:automationdirect",
-  "pid": "31288",
-  "pname": "C-More Programming Software",
-  "pcpe": "cpe:/o:automationdirect:c-more_plc_firmware"
+	"vid": "13389",
+	"vname": "AutomationDirect",
+	"vcpe": "cpe:/:automationdirect",
+	"pid": "31288",
+	"pname": "C-More Programming Software",
+	"pcpe": "cpe:/o:automationdirect:c-more_plc_firmware"
 }

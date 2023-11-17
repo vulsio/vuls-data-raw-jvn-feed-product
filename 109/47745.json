@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "47745",
-  "pname": "ScanSnap Manager",
-  "pcpe": "cpe:/a:fujitsu:scansnap_manager"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "47745",
+	"pname": "ScanSnap Manager",
+	"pcpe": "cpe:/a:fujitsu:scansnap_manager"
 }

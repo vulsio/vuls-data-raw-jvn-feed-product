@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "9166",
-  "pname": "Aironet 600 シリーズ OfficeExtend",
-  "pcpe": "cpe:/h:cisco:aironet_600_office_extend"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "9166",
+	"pname": "Aironet 600 シリーズ OfficeExtend",
+	"pcpe": "cpe:/h:cisco:aironet_600_office_extend"
 }

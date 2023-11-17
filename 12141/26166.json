@@ -1,8 +1,8 @@
 {
-  "vid": "12141",
-  "vname": "株式会社DMM.com証券",
-  "vcpe": "cpe:/:dmm",
-  "pid": "26166",
-  "pname": "DMMFX Trade",
-  "pcpe": "cpe:/a:dmm:dmmfx_trade"
+	"vid": "12141",
+	"vname": "株式会社DMM.com証券",
+	"vcpe": "cpe:/:dmm",
+	"pid": "26166",
+	"pname": "DMMFX Trade",
+	"pcpe": "cpe:/a:dmm:dmmfx_trade"
 }

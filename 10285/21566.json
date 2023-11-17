@@ -1,8 +1,8 @@
 {
-  "vid": "10285",
-  "vname": "Compal Broadband Networks",
-  "vcpe": "cpe:/:compal_broadband_networks",
-  "pid": "21566",
-  "pname": "Compal Broadband Networks firmware",
-  "pcpe": "cpe:/a:compal_broadband_networks:firmware"
+	"vid": "10285",
+	"vname": "Compal Broadband Networks",
+	"vcpe": "cpe:/:compal_broadband_networks",
+	"pid": "21566",
+	"pname": "Compal Broadband Networks firmware",
+	"pcpe": "cpe:/a:compal_broadband_networks:firmware"
 }

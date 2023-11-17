@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "60646",
-  "pname": "Oracle Weblogic Server Proxy Plug-in",
-  "pcpe": "cpe:/a:oracle:weblogic_server_proxy_plug-in"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "60646",
+	"pname": "Oracle Weblogic Server Proxy Plug-in",
+	"pcpe": "cpe:/a:oracle:weblogic_server_proxy_plug-in"
 }

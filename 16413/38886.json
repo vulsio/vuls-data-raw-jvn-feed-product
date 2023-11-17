@@ -1,8 +1,8 @@
 {
-  "vid": "16413",
-  "vname": "MLM Softwarez",
-  "vcpe": "cpe:/:mlmsoftwarez",
-  "pid": "38886",
-  "pname": "Singleleg MLM Software",
-  "pcpe": "cpe:/a:mlmsoftwarez:singleleg_mlm_software"
+	"vid": "16413",
+	"vname": "MLM Softwarez",
+	"vcpe": "cpe:/:mlmsoftwarez",
+	"pid": "38886",
+	"pname": "Singleleg MLM Software",
+	"pcpe": "cpe:/a:mlmsoftwarez:singleleg_mlm_software"
 }

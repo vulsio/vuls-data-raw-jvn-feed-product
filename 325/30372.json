@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30372",
-  "pname": "YANGTIAN Me/We H110 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:yangtian_me%2Fwe_h110_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30372",
+	"pname": "YANGTIAN Me/We H110 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:yangtian_me%2Fwe_h110_firmware"
 }

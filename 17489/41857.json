@@ -1,8 +1,8 @@
 {
-  "vid": "17489",
-  "vname": "Lava International Limited",
-  "vcpe": "cpe:/:lavamobiles",
-  "pid": "41857",
-  "pname": "Flair Z1 ファームウェア",
-  "pcpe": "cpe:/o:lavamobiles:flair_z1_firmware"
+	"vid": "17489",
+	"vname": "Lava International Limited",
+	"vcpe": "cpe:/:lavamobiles",
+	"pid": "41857",
+	"pname": "Flair Z1 ファームウェア",
+	"pcpe": "cpe:/o:lavamobiles:flair_z1_firmware"
 }

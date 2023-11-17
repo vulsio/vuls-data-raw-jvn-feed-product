@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "17526",
-  "pname": "H3C AR(OEM IN)",
-  "pcpe": "cpe:/h:huawei:h3c_ar%28oem_in%29"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "17526",
+	"pname": "H3C AR(OEM IN)",
+	"pcpe": "cpe:/h:huawei:h3c_ar%28oem_in%29"
 }

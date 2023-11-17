@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "20819",
-  "pname": "DSR-150N",
-  "pcpe": "cpe:/h:dlink:dsr-150n"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "20819",
+	"pname": "DSR-150N",
+	"pcpe": "cpe:/h:dlink:dsr-150n"
 }

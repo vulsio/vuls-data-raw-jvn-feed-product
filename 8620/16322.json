@@ -1,8 +1,8 @@
 {
-  "vid": "8620",
-  "vname": "xfs",
-  "vcpe": "cpe:/:xfs",
-  "pid": "16322",
-  "pname": "acl",
-  "pcpe": "cpe:/a:xfs:acl"
+	"vid": "8620",
+	"vname": "xfs",
+	"vcpe": "cpe:/:xfs",
+	"pid": "16322",
+	"pname": "acl",
+	"pcpe": "cpe:/a:xfs:acl"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4446",
-  "pname": "HP Version Control Repository Manager",
-  "pcpe": "cpe:/a:hp:version_control_repository_manager"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4446",
+	"pname": "HP Version Control Repository Manager",
+	"pcpe": "cpe:/a:hp:version_control_repository_manager"
 }

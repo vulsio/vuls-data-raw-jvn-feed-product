@@ -1,8 +1,8 @@
 {
-  "vid": "12556",
-  "vname": "exFAT project",
-  "vcpe": "cpe:/:exfat_project",
-  "pid": "28536",
-  "pname": "exFAT",
-  "pcpe": "cpe:/a:exfat_project:exfat"
+	"vid": "12556",
+	"vname": "exFAT project",
+	"vcpe": "cpe:/:exfat_project",
+	"pid": "28536",
+	"pname": "exFAT",
+	"pcpe": "cpe:/a:exfat_project:exfat"
 }

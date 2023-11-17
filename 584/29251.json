@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29251",
-  "pname": "SINAMICS S150 ファームウェア",
-  "pcpe": "cpe:/o:siemens:sinamics_s150_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29251",
+	"pname": "SINAMICS S150 ファームウェア",
+	"pcpe": "cpe:/o:siemens:sinamics_s150_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "784",
-  "vname": "Technicolor",
-  "vcpe": "cpe:/:technicolor",
-  "pid": "36933",
-  "pname": "DWG850-4 ファームウェア",
-  "pcpe": "cpe:/o:technicolor:dwg850-4_firmware"
+	"vid": "784",
+	"vname": "Technicolor",
+	"vcpe": "cpe:/:technicolor",
+	"pid": "36933",
+	"pname": "DWG850-4 ファームウェア",
+	"pcpe": "cpe:/o:technicolor:dwg850-4_firmware"
 }

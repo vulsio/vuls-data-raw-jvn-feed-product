@@ -1,8 +1,8 @@
 {
-  "vid": "20786",
-  "vname": "XSS Hunter Express project",
-  "vcpe": "cpe:/:xss_hunter_express_project",
-  "pid": "53034",
-  "pname": "XSS Hunter Express",
-  "pcpe": "cpe:/a:xss_hunter_express_project:xss_hunter_express"
+	"vid": "20786",
+	"vname": "XSS Hunter Express project",
+	"vcpe": "cpe:/:xss_hunter_express_project",
+	"pid": "53034",
+	"pname": "XSS Hunter Express",
+	"pcpe": "cpe:/a:xss_hunter_express_project:xss_hunter_express"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7517",
-  "pname": "project",
-  "pcpe": "cpe:/a:drupal:project"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7517",
+	"pname": "project",
+	"pcpe": "cpe:/a:drupal:project"
 }

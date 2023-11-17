@@ -1,8 +1,8 @@
 {
-  "vid": "9227",
-  "vname": "Satechi",
-  "vcpe": "cpe:/:satechi",
-  "pid": "18774",
-  "pname": "Satechi Smart Travel Router",
-  "pcpe": "cpe:/h:satechi:smart_travel_router"
+	"vid": "9227",
+	"vname": "Satechi",
+	"vcpe": "cpe:/:satechi",
+	"pid": "18774",
+	"pname": "Satechi Smart Travel Router",
+	"pcpe": "cpe:/h:satechi:smart_travel_router"
 }

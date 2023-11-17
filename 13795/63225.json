@@ -1,8 +1,8 @@
 {
-  "vid": "13795",
-  "vname": "株式会社ソニー・インタラクティブエンタテインメント",
-  "vcpe": "cpe:/:sony",
-  "pid": "63225",
-  "pname": "playstation 5 ファームウェア",
-  "pcpe": "cpe:/o:sony:playstation_5_firmware"
+	"vid": "13795",
+	"vname": "株式会社ソニー・インタラクティブエンタテインメント",
+	"vcpe": "cpe:/:sony",
+	"pid": "63225",
+	"pname": "playstation 5 ファームウェア",
+	"pcpe": "cpe:/o:sony:playstation_5_firmware"
 }

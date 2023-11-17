@@ -1,8 +1,8 @@
 {
-  "vid": "23529",
-  "vname": "marvalglobal",
-  "vcpe": "cpe:/:marvalglobal",
-  "pid": "60958",
-  "pname": "marval msm",
-  "pcpe": "cpe:/a:marvalglobal:marval_msm"
+	"vid": "23529",
+	"vname": "marvalglobal",
+	"vcpe": "cpe:/:marvalglobal",
+	"pid": "60958",
+	"pname": "marval msm",
+	"pcpe": "cpe:/a:marvalglobal:marval_msm"
 }

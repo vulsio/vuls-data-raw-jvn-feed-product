@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "57720",
-  "pname": "business objects business intelligence platform",
-  "pcpe": "cpe:/a:sap:business_objects_business_intelligence_platform"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "57720",
+	"pname": "business objects business intelligence platform",
+	"pcpe": "cpe:/a:sap:business_objects_business_intelligence_platform"
 }

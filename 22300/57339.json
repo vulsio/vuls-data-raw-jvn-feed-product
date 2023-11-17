@@ -1,8 +1,8 @@
 {
-  "vid": "22300",
-  "vname": "port389",
-  "vcpe": "cpe:/:port389",
-  "pid": "57339",
-  "pname": "389-ds-base",
-  "pcpe": "cpe:/a:port389:389-ds-base"
+	"vid": "22300",
+	"vname": "port389",
+	"vcpe": "cpe:/:port389",
+	"pid": "57339",
+	"pname": "389-ds-base",
+	"pcpe": "cpe:/a:port389:389-ds-base"
 }

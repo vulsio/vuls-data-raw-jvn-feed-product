@@ -1,8 +1,8 @@
 {
-  "vid": "2252",
-  "vname": "AOL",
-  "vcpe": "cpe:/:aol",
-  "pid": "5830",
-  "pname": "AIM Pro",
-  "pcpe": "cpe:/a:aol:aim_pro"
+	"vid": "2252",
+	"vname": "AOL",
+	"vcpe": "cpe:/:aol",
+	"pid": "5830",
+	"pname": "AIM Pro",
+	"pcpe": "cpe:/a:aol:aim_pro"
 }

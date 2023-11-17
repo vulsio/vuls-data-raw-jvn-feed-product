@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "44749",
-  "pname": "RT430 ファームウエア",
-  "pcpe": "cpe:/o:ge:rt430_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "44749",
+	"pname": "RT430 ファームウエア",
+	"pcpe": "cpe:/o:ge:rt430_firmware"
 }

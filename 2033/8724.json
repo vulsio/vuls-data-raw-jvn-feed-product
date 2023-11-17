@@ -1,8 +1,8 @@
 {
-  "vid": "2033",
-  "vname": "adaptivedisplays",
-  "vcpe": "cpe:/:adaptivedisplays",
-  "pid": "8724",
-  "pname": "alpha ethernet adapter ii",
-  "pcpe": "cpe:/h:adaptivedisplays:alpha_ethernet_adapter_ii"
+	"vid": "2033",
+	"vname": "adaptivedisplays",
+	"vcpe": "cpe:/:adaptivedisplays",
+	"pid": "8724",
+	"pname": "alpha ethernet adapter ii",
+	"pcpe": "cpe:/h:adaptivedisplays:alpha_ethernet_adapter_ii"
 }

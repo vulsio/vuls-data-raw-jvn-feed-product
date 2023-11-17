@@ -1,8 +1,8 @@
 {
-  "vid": "7706",
-  "vname": "snom",
-  "vcpe": "cpe:/:snom",
-  "pid": "16622",
-  "pname": "320 sip phone",
-  "pcpe": "cpe:/h:snom:320_sip_phone"
+	"vid": "7706",
+	"vname": "snom",
+	"vcpe": "cpe:/:snom",
+	"pid": "16622",
+	"pname": "320 sip phone",
+	"pcpe": "cpe:/h:snom:320_sip_phone"
 }

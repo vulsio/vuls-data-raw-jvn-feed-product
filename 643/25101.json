@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "25101",
-  "pname": "Dell Foundation Services",
-  "pcpe": "cpe:/a:dell:dell_foundation_services"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "25101",
+	"pname": "Dell Foundation Services",
+	"pcpe": "cpe:/a:dell:dell_foundation_services"
 }

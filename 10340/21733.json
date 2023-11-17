@@ -1,8 +1,8 @@
 {
-  "vid": "10340",
-  "vname": "filefield project",
-  "vcpe": "cpe:/:filefield_project",
-  "pid": "21733",
-  "pname": "FileField",
-  "pcpe": "cpe:/a:filefield_project:filefield"
+	"vid": "10340",
+	"vname": "filefield project",
+	"vcpe": "cpe:/:filefield_project",
+	"pid": "21733",
+	"pname": "FileField",
+	"pcpe": "cpe:/a:filefield_project:filefield"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58594",
-  "pname": "D330-10IGL ファームウェア",
-  "pcpe": "cpe:/o:lenovo:d330-10igl_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58594",
+	"pname": "D330-10IGL ファームウェア",
+	"pcpe": "cpe:/o:lenovo:d330-10igl_firmware"
 }

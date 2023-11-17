@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7497",
-  "pname": "extended tracker",
-  "pcpe": "cpe:/a:drupal:extended_tracker"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7497",
+	"pname": "extended tracker",
+	"pcpe": "cpe:/a:drupal:extended_tracker"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "2030",
-  "pname": "Avaya Broadcast Server",
-  "pcpe": "cpe:/a:avaya:broadcast_server"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "2030",
+	"pname": "Avaya Broadcast Server",
+	"pcpe": "cpe:/a:avaya:broadcast_server"
 }

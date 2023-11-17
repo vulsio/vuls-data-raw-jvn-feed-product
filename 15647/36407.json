@@ -1,8 +1,8 @@
 {
-  "vid": "15647",
-  "vname": "No-CMS project",
-  "vcpe": "cpe:/:no-cms_project",
-  "pid": "36407",
-  "pname": "No-CMS",
-  "pcpe": "cpe:/a:no-cms_project:no-cms"
+	"vid": "15647",
+	"vname": "No-CMS project",
+	"vcpe": "cpe:/:no-cms_project",
+	"pid": "36407",
+	"pname": "No-CMS",
+	"pcpe": "cpe:/a:no-cms_project:no-cms"
 }

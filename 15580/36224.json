@@ -1,8 +1,8 @@
 {
-  "vid": "15580",
-  "vname": "DESHANG",
-  "vcpe": "cpe:/:dscms_project",
-  "pid": "36224",
-  "pname": "DSCMS",
-  "pcpe": "cpe:/a:dscms_project:dscms"
+	"vid": "15580",
+	"vname": "DESHANG",
+	"vcpe": "cpe:/:dscms_project",
+	"pid": "36224",
+	"pname": "DSCMS",
+	"pcpe": "cpe:/a:dscms_project:dscms"
 }

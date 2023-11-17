@@ -1,8 +1,8 @@
 {
-  "vid": "554",
-  "vname": "ブルーコートシステムズ",
-  "vcpe": "cpe:/:bluecoat",
-  "pid": "23888",
-  "pname": "Blue Coat Malware Analysis Appliance",
-  "pcpe": "cpe:/a:bluecoat:malware_analysis_appliance"
+	"vid": "554",
+	"vname": "ブルーコートシステムズ",
+	"vcpe": "cpe:/:bluecoat",
+	"pid": "23888",
+	"pname": "Blue Coat Malware Analysis Appliance",
+	"pcpe": "cpe:/a:bluecoat:malware_analysis_appliance"
 }

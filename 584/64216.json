@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "64216",
-  "pname": "6es7154-8fx00-0ab0 ファームウェア",
-  "pcpe": "cpe:/o:siemens:6es7154-8fx00-0ab0_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "64216",
+	"pname": "6es7154-8fx00-0ab0 ファームウェア",
+	"pcpe": "cpe:/o:siemens:6es7154-8fx00-0ab0_firmware"
 }

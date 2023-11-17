@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2555",
-  "pname": "Job Management Partner 1/Asset Information Manager",
-  "pcpe": "cpe:/a:hitachi:job_management_partner_1_asset_information_manager"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2555",
+	"pname": "Job Management Partner 1/Asset Information Manager",
+	"pcpe": "cpe:/a:hitachi:job_management_partner_1_asset_information_manager"
 }

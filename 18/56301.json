@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "56301",
-  "pname": "IBM Robotic Process Automation as a Service",
-  "pcpe": "cpe:/a:ibm:robotic_process_automation_as_a_service"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "56301",
+	"pname": "IBM Robotic Process Automation as a Service",
+	"pcpe": "cpe:/a:ibm:robotic_process_automation_as_a_service"
 }

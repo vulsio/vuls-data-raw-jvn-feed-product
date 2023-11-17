@@ -1,8 +1,8 @@
 {
-  "vid": "8902",
-  "vname": "Elliot Pahl",
-  "vcpe": "cpe:/:elliot_pahl",
-  "pid": "17060",
-  "pname": "Drush Debian Packaging",
-  "pcpe": "cpe:/a:elliot_pahl:drush_debian_packaging"
+	"vid": "8902",
+	"vname": "Elliot Pahl",
+	"vcpe": "cpe:/:elliot_pahl",
+	"pid": "17060",
+	"pname": "Drush Debian Packaging",
+	"pcpe": "cpe:/a:elliot_pahl:drush_debian_packaging"
 }

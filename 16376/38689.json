@@ -1,8 +1,8 @@
 {
-  "vid": "16376",
-  "vname": "Applaud Solutions",
-  "vcpe": "cpe:/:applaudsolutions",
-  "pid": "38689",
-  "pname": "Applaud HCM",
-  "pcpe": "cpe:/a:applaudsolutions:applaud_hcm"
+	"vid": "16376",
+	"vname": "Applaud Solutions",
+	"vcpe": "cpe:/:applaudsolutions",
+	"pid": "38689",
+	"pname": "Applaud HCM",
+	"pcpe": "cpe:/a:applaudsolutions:applaud_hcm"
 }

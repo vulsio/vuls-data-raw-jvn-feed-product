@@ -1,8 +1,8 @@
 {
-  "vid": "16296",
-  "vname": "Groonga Project",
-  "vcpe": "cpe:/:groonga",
-  "pid": "38453",
-  "pname": "groonga-httpd",
-  "pcpe": "cpe:/a:groonga:groonga-httpd"
+	"vid": "16296",
+	"vname": "Groonga Project",
+	"vcpe": "cpe:/:groonga",
+	"pid": "38453",
+	"pname": "groonga-httpd",
+	"pcpe": "cpe:/a:groonga:groonga-httpd"
 }

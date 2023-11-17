@@ -1,8 +1,8 @@
 {
-  "vid": "12327",
-  "vname": "OnePlus",
-  "vcpe": "cpe:/:oneplus",
-  "pid": "30055",
-  "pname": "OnePlus 2 Primary Bootloader",
-  "pcpe": "cpe:/o:oneplus:primary_bootloader"
+	"vid": "12327",
+	"vname": "OnePlus",
+	"vcpe": "cpe:/:oneplus",
+	"pid": "30055",
+	"pname": "OnePlus 2 Primary Bootloader",
+	"pcpe": "cpe:/o:oneplus:primary_bootloader"
 }

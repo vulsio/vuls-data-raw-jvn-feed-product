@@ -1,8 +1,8 @@
 {
-  "vid": "17717",
-  "vname": "Knockout.js",
-  "vcpe": "cpe:/:knockoutjs",
-  "pid": "42557",
-  "pname": "knockout",
-  "pcpe": "cpe:/a:knockoutjs:knockout"
+	"vid": "17717",
+	"vname": "Knockout.js",
+	"vcpe": "cpe:/:knockoutjs",
+	"pid": "42557",
+	"pname": "knockout",
+	"pcpe": "cpe:/a:knockoutjs:knockout"
 }

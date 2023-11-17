@@ -1,8 +1,8 @@
 {
-  "vid": "20088",
-  "vname": "Open Virtual Network",
-  "vcpe": "cpe:/:ovn",
-  "pid": "50971",
-  "pname": "OVN-Kubernetes",
-  "pcpe": "cpe:/a:ovn:ovn-kubernetes"
+	"vid": "20088",
+	"vname": "Open Virtual Network",
+	"vcpe": "cpe:/:ovn",
+	"pid": "50971",
+	"pname": "OVN-Kubernetes",
+	"pcpe": "cpe:/a:ovn:ovn-kubernetes"
 }

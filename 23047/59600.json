@@ -1,8 +1,8 @@
 {
-  "vid": "23047",
-  "vname": "chatbot application with a suggestion feature",
-  "vcpe": "cpe:/:chatbot_application_with_a_suggestion_feature",
-  "pid": "59600",
-  "pname": "chatbot application with a suggestion feature",
-  "pcpe": "cpe:/a:chatbot_application_with_a_suggestion_feature:chatbot_application_with_a_suggestion_feature"
+	"vid": "23047",
+	"vname": "chatbot application with a suggestion feature",
+	"vcpe": "cpe:/:chatbot_application_with_a_suggestion_feature",
+	"pid": "59600",
+	"pname": "chatbot application with a suggestion feature",
+	"pcpe": "cpe:/a:chatbot_application_with_a_suggestion_feature:chatbot_application_with_a_suggestion_feature"
 }

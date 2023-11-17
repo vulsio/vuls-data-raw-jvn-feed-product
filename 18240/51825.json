@@ -1,8 +1,8 @@
 {
-  "vid": "18240",
-  "vname": "GENEREX",
-  "vcpe": "cpe:/:generex",
-  "pid": "51825",
-  "pname": "RCCMD",
-  "pcpe": "cpe:/a:generex:rccmd"
+	"vid": "18240",
+	"vname": "GENEREX",
+	"vcpe": "cpe:/:generex",
+	"pid": "51825",
+	"pname": "RCCMD",
+	"pcpe": "cpe:/a:generex:rccmd"
 }

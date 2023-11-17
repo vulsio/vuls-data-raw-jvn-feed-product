@@ -1,8 +1,8 @@
 {
-  "vid": "11227",
-  "vname": "State Bank of India",
-  "vcpe": "cpe:/:state_bank_of_india",
-  "pid": "22896",
-  "pname": "State Bank Anywhere",
-  "pcpe": "cpe:/a:state_bank_of_india:state_bank_anywhere"
+	"vid": "11227",
+	"vname": "State Bank of India",
+	"vcpe": "cpe:/:state_bank_of_india",
+	"pid": "22896",
+	"pname": "State Bank Anywhere",
+	"pcpe": "cpe:/a:state_bank_of_india:state_bank_anywhere"
 }

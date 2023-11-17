@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "23667",
-  "pname": "SIMATIC S7-300 CPU",
-  "pcpe": "cpe:/h:siemens:simatic_s7-300_cpu"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "23667",
+	"pname": "SIMATIC S7-300 CPU",
+	"pcpe": "cpe:/h:siemens:simatic_s7-300_cpu"
 }

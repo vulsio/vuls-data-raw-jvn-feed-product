@@ -1,8 +1,8 @@
 {
-  "vid": "17557",
-  "vname": "Weidmueller",
-  "vcpe": "cpe:/:weidmueller",
-  "pid": "50568",
-  "pname": "IOT-GW30 ファームウェア",
-  "pcpe": "cpe:/o:weidmueller:iot-gw30_firmware"
+	"vid": "17557",
+	"vname": "Weidmueller",
+	"vcpe": "cpe:/:weidmueller",
+	"pid": "50568",
+	"pname": "IOT-GW30 ファームウェア",
+	"pcpe": "cpe:/o:weidmueller:iot-gw30_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "283",
-  "pname": "Cisco IOS XR",
-  "pcpe": "cpe:/o:cisco:ios_xr"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "283",
+	"pname": "Cisco IOS XR",
+	"pcpe": "cpe:/o:cisco:ios_xr"
 }

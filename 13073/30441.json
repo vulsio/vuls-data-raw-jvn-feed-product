@@ -1,8 +1,8 @@
 {
-  "vid": "13073",
-  "vname": "Beaker Project",
-  "vcpe": "cpe:/:beaker-project",
-  "pid": "30441",
-  "pname": "Beaker",
-  "pcpe": "cpe:/a:beaker-project:beaker"
+	"vid": "13073",
+	"vname": "Beaker Project",
+	"vcpe": "cpe:/:beaker-project",
+	"pid": "30441",
+	"pname": "Beaker",
+	"pcpe": "cpe:/a:beaker-project:beaker"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47823",
-  "pname": "Oracle Advanced Pricing",
-  "pcpe": "cpe:/a:oracle:advanced_pricing"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47823",
+	"pname": "Oracle Advanced Pricing",
+	"pcpe": "cpe:/a:oracle:advanced_pricing"
 }

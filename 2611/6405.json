@@ -1,8 +1,8 @@
 {
-  "vid": "2611",
-  "vname": "Bouncy Castle",
-  "vcpe": "cpe:/:bouncycastle",
-  "pid": "6405",
-  "pname": "Bouncy Castle Crypto Package",
-  "pcpe": "cpe:/a:bouncycastle:bouncy-castle-crypto-package"
+	"vid": "2611",
+	"vname": "Bouncy Castle",
+	"vcpe": "cpe:/:bouncycastle",
+	"pid": "6405",
+	"pname": "Bouncy Castle Crypto Package",
+	"pcpe": "cpe:/a:bouncycastle:bouncy-castle-crypto-package"
 }

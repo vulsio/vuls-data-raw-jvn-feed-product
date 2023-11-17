@@ -1,8 +1,8 @@
 {
-  "vid": "9630",
-  "vname": "Unitrends",
-  "vcpe": "cpe:/:unitrends",
-  "pid": "19995",
-  "pname": "Unitrends Enterprise Backup",
-  "pcpe": "cpe:/a:unitrends:enterprise_backup"
+	"vid": "9630",
+	"vname": "Unitrends",
+	"vcpe": "cpe:/:unitrends",
+	"pid": "19995",
+	"pname": "Unitrends Enterprise Backup",
+	"pcpe": "cpe:/a:unitrends:enterprise_backup"
 }

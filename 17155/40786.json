@@ -1,8 +1,8 @@
 {
-  "vid": "17155",
-  "vname": "Devise Token Auth project",
-  "vcpe": "cpe:/:devise_token_auth_project",
-  "pid": "40786",
-  "pname": "Devise Token Auth",
-  "pcpe": "cpe:/a:devise_token_auth_project:devise_token_auth"
+	"vid": "17155",
+	"vname": "Devise Token Auth project",
+	"vcpe": "cpe:/:devise_token_auth_project",
+	"pid": "40786",
+	"pname": "Devise Token Auth",
+	"pcpe": "cpe:/a:devise_token_auth_project:devise_token_auth"
 }

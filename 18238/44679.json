@@ -1,8 +1,8 @@
 {
-  "vid": "18238",
-  "vname": "Sourcegraph",
-  "vcpe": "cpe:/:sourcegraph",
-  "pid": "44679",
-  "pname": "Sourcegraph",
-  "pcpe": "cpe:/a:sourcegraph:sourcegraph"
+	"vid": "18238",
+	"vname": "Sourcegraph",
+	"vcpe": "cpe:/:sourcegraph",
+	"pid": "44679",
+	"pname": "Sourcegraph",
+	"pcpe": "cpe:/a:sourcegraph:sourcegraph"
 }

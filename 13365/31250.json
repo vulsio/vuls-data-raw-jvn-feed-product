@@ -1,8 +1,8 @@
 {
-  "vid": "13365",
-  "vname": "Simple project",
-  "vcpe": "cpe:/:simplexml_project",
-  "pid": "31250",
-  "pname": "Simple",
-  "pcpe": "cpe:/a:simplexml_project:simplexml"
+	"vid": "13365",
+	"vname": "Simple project",
+	"vcpe": "cpe:/:simplexml_project",
+	"pid": "31250",
+	"pname": "Simple",
+	"pcpe": "cpe:/a:simplexml_project:simplexml"
 }

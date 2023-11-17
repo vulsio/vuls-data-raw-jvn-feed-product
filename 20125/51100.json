@@ -1,8 +1,8 @@
 {
-  "vid": "20125",
-  "vname": "Bently Nevada",
-  "vcpe": "cpe:/:misc",
-  "pid": "51100",
-  "pname": "System 1",
-  "pcpe": "cpe:/a:misc:bently_nevada_system_1"
+	"vid": "20125",
+	"vname": "Bently Nevada",
+	"vcpe": "cpe:/:misc",
+	"pid": "51100",
+	"pname": "System 1",
+	"pcpe": "cpe:/a:misc:bently_nevada_system_1"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "565",
-  "vname": "KVM",
-  "vcpe": "cpe:/:kvm_qumranet",
-  "pid": "2312",
-  "pname": "KVM",
-  "pcpe": "cpe:/a:kvm_qumranet:kvm"
+	"vid": "565",
+	"vname": "KVM",
+	"vcpe": "cpe:/:kvm_qumranet",
+	"pid": "2312",
+	"pname": "KVM",
+	"pcpe": "cpe:/a:kvm_qumranet:kvm"
 }

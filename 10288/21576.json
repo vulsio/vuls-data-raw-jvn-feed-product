@@ -1,8 +1,8 @@
 {
-  "vid": "10288",
-  "vname": "LaboCNIL",
-  "vcpe": "cpe:/:labocnil",
-  "pid": "21576",
-  "pname": "CookieViz",
-  "pcpe": "cpe:/a:labocnil:cookieviz"
+	"vid": "10288",
+	"vname": "LaboCNIL",
+	"vcpe": "cpe:/:labocnil",
+	"pid": "21576",
+	"pname": "CookieViz",
+	"pcpe": "cpe:/a:labocnil:cookieviz"
 }

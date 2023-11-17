@@ -1,8 +1,8 @@
 {
-  "vid": "9043",
-  "vname": "Western Digital Corporation",
-  "vcpe": "cpe:/:wdc",
-  "pid": "36546",
-  "pname": "My Cloud EX2 Ultra ファームウェア",
-  "pcpe": "cpe:/o:wdc:my_cloud_ex2_ultra_firmware"
+	"vid": "9043",
+	"vname": "Western Digital Corporation",
+	"vcpe": "cpe:/:wdc",
+	"pid": "36546",
+	"pname": "My Cloud EX2 Ultra ファームウェア",
+	"pcpe": "cpe:/o:wdc:my_cloud_ex2_ultra_firmware"
 }

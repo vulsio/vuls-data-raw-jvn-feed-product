@@ -1,8 +1,8 @@
 {
-  "vid": "674",
-  "vname": "ブロケード コミュニケーションズ システムズ株式会社",
-  "vcpe": "cpe:/:brocade",
-  "pid": "29168",
-  "pname": "Brocade CES シリーズファームウェア",
-  "pcpe": "cpe:/o:brocade:netiron_ces_series_firmware"
+	"vid": "674",
+	"vname": "ブロケード コミュニケーションズ システムズ株式会社",
+	"vcpe": "cpe:/:brocade",
+	"pid": "29168",
+	"pname": "Brocade CES シリーズファームウェア",
+	"pcpe": "cpe:/o:brocade:netiron_ces_series_firmware"
 }

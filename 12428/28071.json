@@ -1,8 +1,8 @@
 {
-  "vid": "12428",
-  "vname": "Smiths Medical",
-  "vcpe": "cpe:/:smiths-medical",
-  "pid": "28071",
-  "pname": "CADD-Solis Medication Safety Software",
-  "pcpe": "cpe:/a:smiths-medical:cadd-solis_medication_safety_software"
+	"vid": "12428",
+	"vname": "Smiths Medical",
+	"vcpe": "cpe:/:smiths-medical",
+	"pid": "28071",
+	"pname": "CADD-Solis Medication Safety Software",
+	"pcpe": "cpe:/a:smiths-medical:cadd-solis_medication_safety_software"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13801",
-  "vname": "Wowza Media Systems, LLC.",
-  "vcpe": "cpe:/:wowza",
-  "pid": "32732",
-  "pname": "Wowza Streaming Engine",
-  "pcpe": "cpe:/a:wowza:streaming_engine"
+	"vid": "13801",
+	"vname": "Wowza Media Systems, LLC.",
+	"vcpe": "cpe:/:wowza",
+	"pid": "32732",
+	"pname": "Wowza Streaming Engine",
+	"pcpe": "cpe:/a:wowza:streaming_engine"
 }

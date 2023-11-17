@@ -1,8 +1,8 @@
 {
-  "vid": "24282",
-  "vname": "searchwp",
-  "vcpe": "cpe:/:searchwp",
-  "pid": "62772",
-  "pname": "searchwp live ajax search",
-  "pcpe": "cpe:/a:searchwp:searchwp_live_ajax_search"
+	"vid": "24282",
+	"vname": "searchwp",
+	"vcpe": "cpe:/:searchwp",
+	"pid": "62772",
+	"pname": "searchwp live ajax search",
+	"pcpe": "cpe:/a:searchwp:searchwp_live_ajax_search"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "37761",
-  "pname": "AppDynamics",
-  "pcpe": "cpe:/a:jenkins:appdynamics"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "37761",
+	"pname": "AppDynamics",
+	"pcpe": "cpe:/a:jenkins:appdynamics"
 }

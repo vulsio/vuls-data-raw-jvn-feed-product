@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "42995",
-  "pname": "DCS-1100 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dcs-1100_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "42995",
+	"pname": "DCS-1100 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dcs-1100_firmware"
 }

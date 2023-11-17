@@ -1,8 +1,8 @@
 {
-  "vid": "4613",
-  "vname": "Rejetto",
-  "vcpe": "cpe:/:rejetto",
-  "pid": "9762",
-  "pname": "Http File Server",
-  "pcpe": "cpe:/a:rejetto:http_file_server"
+	"vid": "4613",
+	"vname": "Rejetto",
+	"vcpe": "cpe:/:rejetto",
+	"pid": "9762",
+	"pname": "Http File Server",
+	"pcpe": "cpe:/a:rejetto:http_file_server"
 }

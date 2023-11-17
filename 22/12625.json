@@ -1,8 +1,8 @@
 {
-  "vid": "22",
-  "vname": "The PHP Group",
-  "vcpe": "cpe:/:php",
-  "pid": "12625",
-  "pname": "com extensions",
-  "pcpe": "cpe:/a:php:com_extensions"
+	"vid": "22",
+	"vname": "The PHP Group",
+	"vcpe": "cpe:/:php",
+	"pid": "12625",
+	"pname": "com extensions",
+	"pcpe": "cpe:/a:php:com_extensions"
 }

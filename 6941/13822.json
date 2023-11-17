@@ -1,8 +1,8 @@
 {
-  "vid": "6941",
-  "vname": "phpstore",
-  "vcpe": "cpe:/:phpstore",
-  "pid": "13822",
-  "pname": "phpcareers",
-  "pcpe": "cpe:/a:phpstore:phpcareers"
+	"vid": "6941",
+	"vname": "phpstore",
+	"vcpe": "cpe:/:phpstore",
+	"pid": "13822",
+	"pname": "phpcareers",
+	"pcpe": "cpe:/a:phpstore:phpcareers"
 }

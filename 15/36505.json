@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "36505",
-  "pname": "Connector/Python",
-  "pcpe": "cpe:/a:oracle:connector%2fpython"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "36505",
+	"pname": "Connector/Python",
+	"pcpe": "cpe:/a:oracle:connector%2fpython"
 }

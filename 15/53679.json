@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53679",
-  "pname": "Oracle Healthcare Foundation",
-  "pcpe": "cpe:/a:oracle:healthcare_foundation"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53679",
+	"pname": "Oracle Healthcare Foundation",
+	"pcpe": "cpe:/a:oracle:healthcare_foundation"
 }

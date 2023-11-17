@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "1797",
-  "pname": "SNC-P1",
-  "pcpe": "cpe:/h:sony:sony_network_camera_snc-p1"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "1797",
+	"pname": "SNC-P1",
+	"pcpe": "cpe:/h:sony:sony_network_camera_snc-p1"
 }

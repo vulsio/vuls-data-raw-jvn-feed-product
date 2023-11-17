@@ -1,8 +1,8 @@
 {
-  "vid": "16472",
-  "vname": "Genie Access",
-  "vcpe": "cpe:/:genieaccess",
-  "pid": "39140",
-  "pname": "WIP3BVAF ファームウェア",
-  "pcpe": "cpe:/o:genieaccess:wip3bvaf_firmware"
+	"vid": "16472",
+	"vname": "Genie Access",
+	"vcpe": "cpe:/:genieaccess",
+	"pid": "39140",
+	"pname": "WIP3BVAF ファームウェア",
+	"pcpe": "cpe:/o:genieaccess:wip3bvaf_firmware"
 }

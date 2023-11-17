@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2246",
-  "pname": "Hitachi Tuning Manager",
-  "pcpe": "cpe:/a:hitachi:tuning_manager"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2246",
+	"pname": "Hitachi Tuning Manager",
+	"pcpe": "cpe:/a:hitachi:tuning_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24528",
-  "vname": "grunt-karma project",
-  "vcpe": "cpe:/:grunt-karma_project",
-  "pid": "63440",
-  "pname": "grunt-karma",
-  "pcpe": "cpe:/a:grunt-karma_project:grunt-karma"
+	"vid": "24528",
+	"vname": "grunt-karma project",
+	"vcpe": "cpe:/:grunt-karma_project",
+	"pid": "63440",
+	"pname": "grunt-karma",
+	"pcpe": "cpe:/a:grunt-karma_project:grunt-karma"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17077",
-  "pname": "ProCurve Switch 1700-24",
-  "pcpe": "cpe:/h:hp:procurve_switch_1700-24"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17077",
+	"pname": "ProCurve Switch 1700-24",
+	"pcpe": "cpe:/h:hp:procurve_switch_1700-24"
 }

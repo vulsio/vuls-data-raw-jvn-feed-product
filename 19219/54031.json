@@ -1,8 +1,8 @@
 {
-  "vid": "19219",
-  "vname": "Palo Alto Networks",
-  "vcpe": "cpe:/:paloaltonetworks",
-  "pid": "54031",
-  "pname": "PAN-OS",
-  "pcpe": "cpe:/o:paloaltonetworks:pan-os"
+	"vid": "19219",
+	"vname": "Palo Alto Networks",
+	"vcpe": "cpe:/:paloaltonetworks",
+	"pid": "54031",
+	"pname": "PAN-OS",
+	"pcpe": "cpe:/o:paloaltonetworks:pan-os"
 }

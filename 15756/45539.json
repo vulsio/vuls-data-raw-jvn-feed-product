@@ -1,8 +1,8 @@
 {
-  "vid": "15756",
-  "vname": "Traccar Ltd",
-  "vcpe": "cpe:/:traccar",
-  "pid": "45539",
-  "pname": "Traccar",
-  "pcpe": "cpe:/a:traccar:traccar"
+	"vid": "15756",
+	"vname": "Traccar Ltd",
+	"vcpe": "cpe:/:traccar",
+	"pid": "45539",
+	"pname": "Traccar",
+	"pcpe": "cpe:/a:traccar:traccar"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12004",
-  "vname": "Exemys",
-  "vcpe": "cpe:/:exemys",
-  "pid": "25054",
-  "pname": "Telemetry Web Server",
-  "pcpe": "cpe:/a:exemys:telemetry_web_server"
+	"vid": "12004",
+	"vname": "Exemys",
+	"vcpe": "cpe:/:exemys",
+	"pid": "25054",
+	"pname": "Telemetry Web Server",
+	"pcpe": "cpe:/a:exemys:telemetry_web_server"
 }

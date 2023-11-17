@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "9333",
-  "pname": "SafeGuard Enterprise Device Encryption",
-  "pcpe": "cpe:/a:sophos:safeguard_enterprise_device_encryption"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "9333",
+	"pname": "SafeGuard Enterprise Device Encryption",
+	"pcpe": "cpe:/a:sophos:safeguard_enterprise_device_encryption"
 }

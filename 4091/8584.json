@@ -1,8 +1,8 @@
 {
-  "vid": "4091",
-  "vname": "infoprocess",
-  "vcpe": "cpe:/:infoprocess",
-  "pid": "8584",
-  "pname": "antihook",
-  "pcpe": "cpe:/a:infoprocess:antihook"
+	"vid": "4091",
+	"vname": "infoprocess",
+	"vcpe": "cpe:/:infoprocess",
+	"pid": "8584",
+	"pname": "antihook",
+	"pcpe": "cpe:/a:infoprocess:antihook"
 }

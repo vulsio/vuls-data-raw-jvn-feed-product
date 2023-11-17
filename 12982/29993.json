@@ -1,8 +1,8 @@
 {
-  "vid": "12982",
-  "vname": "Statamic",
-  "vcpe": "cpe:/:statamic",
-  "pid": "29993",
-  "pname": "Statamic Framework CMS",
-  "pcpe": "cpe:/a:statamic:framework_cms"
+	"vid": "12982",
+	"vname": "Statamic",
+	"vcpe": "cpe:/:statamic",
+	"pid": "29993",
+	"pname": "Statamic Framework CMS",
+	"pcpe": "cpe:/a:statamic:framework_cms"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23108",
-  "vname": "vsftpd project",
-  "vcpe": "cpe:/:vsftpd_project",
-  "pid": "59828",
-  "pname": "vsftpd",
-  "pcpe": "cpe:/a:vsftpd_project:vsftpd"
+	"vid": "23108",
+	"vname": "vsftpd project",
+	"vcpe": "cpe:/:vsftpd_project",
+	"pid": "59828",
+	"pname": "vsftpd",
+	"pcpe": "cpe:/a:vsftpd_project:vsftpd"
 }

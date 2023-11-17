@@ -1,8 +1,8 @@
 {
-  "vid": "1763",
-  "vname": "VastHTML",
-  "vcpe": "cpe:/:vasthtml",
-  "pid": "4886",
-  "pname": "WP Forum Server",
-  "pcpe": "cpe:/a:vasthtml:forumpress"
+	"vid": "1763",
+	"vname": "VastHTML",
+	"vcpe": "cpe:/:vasthtml",
+	"pid": "4886",
+	"pname": "WP Forum Server",
+	"pcpe": "cpe:/a:vasthtml:forumpress"
 }

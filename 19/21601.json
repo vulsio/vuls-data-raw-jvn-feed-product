@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "21601",
-  "pname": "Cisco UCS B260 M4 ブレード サーバ",
-  "pcpe": "cpe:/h:cisco:b260_m4"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "21601",
+	"pname": "Cisco UCS B260 M4 ブレード サーバ",
+	"pcpe": "cpe:/h:cisco:b260_m4"
 }

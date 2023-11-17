@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "43005",
-  "pname": "CARESCAPE B450 Monitor ファームウェア",
-  "pcpe": "cpe:/o:gehealthcare:carescape_b450_monitor_firmware"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "43005",
+	"pname": "CARESCAPE B450 Monitor ファームウェア",
+	"pcpe": "cpe:/o:gehealthcare:carescape_b450_monitor_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "17540",
-  "pname": "Eudemon8000E-X",
-  "pcpe": "cpe:/h:huawei:eudemon8000e-x"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "17540",
+	"pname": "Eudemon8000E-X",
+	"pcpe": "cpe:/h:huawei:eudemon8000e-x"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "23361",
-  "pname": "ViPR SRM",
-  "pcpe": "cpe:/a:emc:vipr_srm"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "23361",
+	"pname": "ViPR SRM",
+	"pcpe": "cpe:/a:emc:vipr_srm"
 }

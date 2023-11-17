@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "29460",
-  "pname": "S6700EI ファームウェア",
-  "pcpe": "cpe:/o:huawei:s6700ei_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "29460",
+	"pname": "S6700EI ファームウェア",
+	"pcpe": "cpe:/o:huawei:s6700ei_firmware"
 }

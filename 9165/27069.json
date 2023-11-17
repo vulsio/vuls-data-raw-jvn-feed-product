@@ -1,8 +1,8 @@
 {
-  "vid": "9165",
-  "vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
-  "vcpe": "cpe:/:ruckuswireless",
-  "pid": "27069",
-  "pname": "ZoneFlex H500",
-  "pcpe": "cpe:/h:ruckuswireless:wireless_h500"
+	"vid": "9165",
+	"vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
+	"vcpe": "cpe:/:ruckuswireless",
+	"pid": "27069",
+	"pname": "ZoneFlex H500",
+	"pcpe": "cpe:/h:ruckuswireless:wireless_h500"
 }

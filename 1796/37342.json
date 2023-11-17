@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "37342",
-  "pname": "29901 CareLink Encore programmer ファームウェア",
-  "pcpe": "cpe:/o:medtronic:29901_encore_programmer_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "37342",
+	"pname": "29901 CareLink Encore programmer ファームウェア",
+	"pcpe": "cpe:/o:medtronic:29901_encore_programmer_firmware"
 }

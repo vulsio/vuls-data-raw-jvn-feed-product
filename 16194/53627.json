@@ -1,8 +1,8 @@
 {
-  "vid": "16194",
-  "vname": "Digi International Inc.",
-  "vcpe": "cpe:/:digi",
-  "pid": "53627",
-  "pname": "ConnectPort TS 8/16 ファームウェア",
-  "pcpe": "cpe:/o:digi:connectport_ts_8%2f16_firmware"
+	"vid": "16194",
+	"vname": "Digi International Inc.",
+	"vcpe": "cpe:/:digi",
+	"pid": "53627",
+	"pname": "ConnectPort TS 8/16 ファームウェア",
+	"pcpe": "cpe:/o:digi:connectport_ts_8%2f16_firmware"
 }

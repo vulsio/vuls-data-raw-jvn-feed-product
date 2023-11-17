@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "33853",
-  "pname": "SREA-01 ファームウェア",
-  "pcpe": "cpe:/o:abb:srea-01_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "33853",
+	"pname": "SREA-01 ファームウェア",
+	"pcpe": "cpe:/o:abb:srea-01_firmware"
 }

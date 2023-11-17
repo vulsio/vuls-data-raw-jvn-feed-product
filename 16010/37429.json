@@ -1,8 +1,8 @@
 {
-  "vid": "16010",
-  "vname": "Infraware Global",
-  "vcpe": "cpe:/:infraware-global",
-  "pid": "37429",
-  "pname": "ML Report",
-  "pcpe": "cpe:/a:infraware-global:ml_report"
+	"vid": "16010",
+	"vname": "Infraware Global",
+	"vcpe": "cpe:/:infraware-global",
+	"pid": "37429",
+	"pname": "ML Report",
+	"pcpe": "cpe:/a:infraware-global:ml_report"
 }

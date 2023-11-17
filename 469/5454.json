@@ -1,8 +1,8 @@
 {
-  "vid": "469",
-  "vname": "ACME Laboratories",
-  "vcpe": "cpe:/:acme_labs",
-  "pid": "5454",
-  "pname": "mini_httpd",
-  "pcpe": "cpe:/a:acme_labs:mini_httpd"
+	"vid": "469",
+	"vname": "ACME Laboratories",
+	"vcpe": "cpe:/:acme_labs",
+	"pid": "5454",
+	"pname": "mini_httpd",
+	"pcpe": "cpe:/a:acme_labs:mini_httpd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "2691",
-  "pname": "IBM Mashup Center",
-  "pcpe": "cpe:/a:ibm:ibm_mashup_center"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "2691",
+	"pname": "IBM Mashup Center",
+	"pcpe": "cpe:/a:ibm:ibm_mashup_center"
 }

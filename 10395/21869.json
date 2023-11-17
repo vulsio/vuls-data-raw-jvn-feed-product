@@ -1,8 +1,8 @@
 {
-  "vid": "10395",
-  "vname": "tbb",
-  "vcpe": "cpe:/:tbb",
-  "pid": "21869",
-  "pname": "taiwan business bank",
-  "pcpe": "cpe:/a:tbb:taiwan_business_bank"
+	"vid": "10395",
+	"vname": "tbb",
+	"vcpe": "cpe:/:tbb",
+	"pid": "21869",
+	"pname": "taiwan business bank",
+	"pcpe": "cpe:/a:tbb:taiwan_business_bank"
 }

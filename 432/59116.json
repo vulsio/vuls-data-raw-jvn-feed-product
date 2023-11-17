@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "59116",
-  "pname": "rtu500 ファームウェア",
-  "pcpe": "cpe:/o:abb:rtu500_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "59116",
+	"pname": "rtu500 ファームウェア",
+	"pcpe": "cpe:/o:abb:rtu500_firmware"
 }

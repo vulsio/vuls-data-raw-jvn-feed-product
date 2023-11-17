@@ -1,8 +1,8 @@
 {
-  "vid": "21831",
-  "vname": "Challenge website project",
-  "vcpe": "cpe:/:challenge_website_project",
-  "pid": "56032",
-  "pname": "Challenge website",
-  "pcpe": "cpe:/a:challenge_website_project:challenge_website"
+	"vid": "21831",
+	"vname": "Challenge website project",
+	"vcpe": "cpe:/:challenge_website_project",
+	"pid": "56032",
+	"pname": "Challenge website",
+	"pcpe": "cpe:/a:challenge_website_project:challenge_website"
 }

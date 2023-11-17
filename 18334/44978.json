@@ -1,8 +1,8 @@
 {
-  "vid": "18334",
-  "vname": "synk",
-  "vcpe": "cpe:/:synk",
-  "pid": "44978",
-  "pname": "snyk-broker",
-  "pcpe": "cpe:/a:synk:broker"
+	"vid": "18334",
+	"vname": "synk",
+	"vcpe": "cpe:/:synk",
+	"pid": "44978",
+	"pname": "snyk-broker",
+	"pcpe": "cpe:/a:synk:broker"
 }

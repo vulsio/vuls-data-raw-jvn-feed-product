@@ -1,8 +1,8 @@
 {
-  "vid": "15214",
-  "vname": "Ribbon Communications",
-  "vcpe": "cpe:/:ribboncommunications",
-  "pid": "35211",
-  "pname": "Sonus SBC SWe Lite web",
-  "pcpe": "cpe:/a:ribboncommunications:sbc_swe_lite_web"
+	"vid": "15214",
+	"vname": "Ribbon Communications",
+	"vcpe": "cpe:/:ribboncommunications",
+	"pid": "35211",
+	"pname": "Sonus SBC SWe Lite web",
+	"pcpe": "cpe:/a:ribboncommunications:sbc_swe_lite_web"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14096",
-  "vname": "Independent JPEG Group",
-  "vcpe": "cpe:/:ijg",
-  "pid": "33645",
-  "pname": "libjpeg",
-  "pcpe": "cpe:/a:ijg:libjpeg"
+	"vid": "14096",
+	"vname": "Independent JPEG Group",
+	"vcpe": "cpe:/:ijg",
+	"pid": "33645",
+	"pname": "libjpeg",
+	"pcpe": "cpe:/a:ijg:libjpeg"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9091",
-  "vname": "Fast Permissions Administration",
-  "vcpe": "cpe:/:fast_permissions_administration_project",
-  "pid": "18141",
-  "pname": "Fast Permissions Administration",
-  "pcpe": "cpe:/a:fast_permissions_administration_project:fast_permission_administration"
+	"vid": "9091",
+	"vname": "Fast Permissions Administration",
+	"vcpe": "cpe:/:fast_permissions_administration_project",
+	"pid": "18141",
+	"pname": "Fast Permissions Administration",
+	"pcpe": "cpe:/a:fast_permissions_administration_project:fast_permission_administration"
 }

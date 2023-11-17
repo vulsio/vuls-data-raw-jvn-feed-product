@@ -1,8 +1,8 @@
 {
-  "vid": "18819",
-  "vname": "日立エナジー (旧 日立ABBパワーグリッド)",
-  "vcpe": "cpe:/:hitachi_abb_power_grids",
-  "pid": "47260",
-  "pname": "Relion 670/650 series",
-  "pcpe": "cpe:/a:hitachi_abb_power_grids:relion_670_650_series"
+	"vid": "18819",
+	"vname": "日立エナジー (旧 日立ABBパワーグリッド)",
+	"vcpe": "cpe:/:hitachi_abb_power_grids",
+	"pid": "47260",
+	"pname": "Relion 670/650 series",
+	"pcpe": "cpe:/a:hitachi_abb_power_grids:relion_670_650_series"
 }

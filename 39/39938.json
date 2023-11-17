@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "39938",
-  "pname": "Adobe Premiere Pro CC",
-  "pcpe": "cpe:/a:adobe:premiere_pro_cc"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "39938",
+	"pname": "Adobe Premiere Pro CC",
+	"pcpe": "cpe:/a:adobe:premiere_pro_cc"
 }

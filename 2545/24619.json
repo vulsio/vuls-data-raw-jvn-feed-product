@@ -1,8 +1,8 @@
 {
-  "vid": "2545",
-  "vname": "BitTorrent, Inc.",
-  "vcpe": "cpe:/:bittorrent",
-  "pid": "24619",
-  "pname": "uTorrent WebUI",
-  "pcpe": "cpe:/a:bittorrent:utorrent_webui"
+	"vid": "2545",
+	"vname": "BitTorrent, Inc.",
+	"vcpe": "cpe:/:bittorrent",
+	"pid": "24619",
+	"pname": "uTorrent WebUI",
+	"pcpe": "cpe:/a:bittorrent:utorrent_webui"
 }

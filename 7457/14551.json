@@ -1,8 +1,8 @@
 {
-  "vid": "7457",
-  "vname": "scivox",
-  "vcpe": "cpe:/:scivox",
-  "pid": "14551",
-  "pname": "vsp stats processor",
-  "pcpe": "cpe:/a:scivox:vsp_stats_processor"
+	"vid": "7457",
+	"vname": "scivox",
+	"vcpe": "cpe:/:scivox",
+	"pid": "14551",
+	"pname": "vsp stats processor",
+	"pcpe": "cpe:/a:scivox:vsp_stats_processor"
 }

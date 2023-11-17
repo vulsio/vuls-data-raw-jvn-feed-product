@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "1027",
-  "pname": "GNU gzip",
-  "pcpe": "cpe:/a:gnu:gzip"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "1027",
+	"pname": "GNU gzip",
+	"pcpe": "cpe:/a:gnu:gzip"
 }

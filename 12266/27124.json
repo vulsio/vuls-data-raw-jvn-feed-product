@@ -1,8 +1,8 @@
 {
-  "vid": "12266",
-  "vname": "Square, Inc.",
-  "vcpe": "cpe:/:square",
-  "pid": "27124",
-  "pname": "git-fastclone",
-  "pcpe": "cpe:/a:square:git-fastclone"
+	"vid": "12266",
+	"vname": "Square, Inc.",
+	"vcpe": "cpe:/:square",
+	"pid": "27124",
+	"pname": "git-fastclone",
+	"pcpe": "cpe:/a:square:git-fastclone"
 }

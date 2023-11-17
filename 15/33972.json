@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "33972",
-  "pname": "MICROS Retail-J",
-  "pcpe": "cpe:/a:oracle:micros_retail-j"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "33972",
+	"pname": "MICROS Retail-J",
+	"pcpe": "cpe:/a:oracle:micros_retail-j"
 }

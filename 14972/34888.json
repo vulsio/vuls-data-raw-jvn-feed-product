@@ -1,8 +1,8 @@
 {
-  "vid": "14972",
-  "vname": "MoonToken project",
-  "vcpe": "cpe:/:moontoken_project",
-  "pid": "34888",
-  "pname": "MoonToken",
-  "pcpe": "cpe:/a:moontoken_project:moontoken"
+	"vid": "14972",
+	"vname": "MoonToken project",
+	"vcpe": "cpe:/:moontoken_project",
+	"pid": "34888",
+	"pname": "MoonToken",
+	"pcpe": "cpe:/a:moontoken_project:moontoken"
 }

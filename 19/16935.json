@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "16935",
-  "pname": "Cisco Network Services Manager",
-  "pcpe": "cpe:/a:cisco:network_services_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "16935",
+	"pname": "Cisco Network Services Manager",
+	"pcpe": "cpe:/a:cisco:network_services_manager"
 }

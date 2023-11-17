@@ -1,8 +1,8 @@
 {
-  "vid": "15985",
-  "vname": "Boolector project",
-  "vcpe": "cpe:/:boolector_project",
-  "pid": "37401",
-  "pname": "Btor2Tools",
-  "pcpe": "cpe:/a:boolector_project:btor2tools"
+	"vid": "15985",
+	"vname": "Boolector project",
+	"vcpe": "cpe:/:boolector_project",
+	"pid": "37401",
+	"pname": "Btor2Tools",
+	"pcpe": "cpe:/a:boolector_project:btor2tools"
 }

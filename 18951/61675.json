@@ -1,8 +1,8 @@
 {
-  "vid": "18951",
-  "vname": "Protocol Labs",
-  "vcpe": "cpe:/:protocol",
-  "pid": "61675",
-  "pname": "go-bitfield",
-  "pcpe": "cpe:/a:protocol:go-bitfield"
+	"vid": "18951",
+	"vname": "Protocol Labs",
+	"vcpe": "cpe:/:protocol",
+	"pid": "61675",
+	"pname": "go-bitfield",
+	"pcpe": "cpe:/a:protocol:go-bitfield"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19052",
-  "vname": "SoftMaker",
-  "vcpe": "cpe:/:softmaker",
-  "pid": "47761",
-  "pname": "PlanMaker 2021",
-  "pcpe": "cpe:/a:softmaker:planmaker_2021"
+	"vid": "19052",
+	"vname": "SoftMaker",
+	"vcpe": "cpe:/:softmaker",
+	"pid": "47761",
+	"pname": "PlanMaker 2021",
+	"pcpe": "cpe:/a:softmaker:planmaker_2021"
 }

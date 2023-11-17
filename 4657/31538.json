@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31538",
-  "pname": "FRD-L14 ファームウェア",
-  "pcpe": "cpe:/o:huawei:frd-l14_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31538",
+	"pname": "FRD-L14 ファームウェア",
+	"pcpe": "cpe:/o:huawei:frd-l14_firmware"
 }

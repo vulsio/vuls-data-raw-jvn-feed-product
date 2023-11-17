@@ -1,8 +1,8 @@
 {
-  "vid": "7824",
-  "vname": "stonetrip",
-  "vcpe": "cpe:/:stonetrip",
-  "pid": "15092",
-  "pname": "s3dplayer web",
-  "pcpe": "cpe:/a:stonetrip:s3dplayer_web"
+	"vid": "7824",
+	"vname": "stonetrip",
+	"vcpe": "cpe:/:stonetrip",
+	"pid": "15092",
+	"pname": "s3dplayer web",
+	"pcpe": "cpe:/a:stonetrip:s3dplayer_web"
 }

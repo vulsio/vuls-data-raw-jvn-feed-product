@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "33304",
-  "pname": "atlassian-renderer",
-  "pcpe": "cpe:/a:atlassian:atlassian-renderer"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "33304",
+	"pname": "atlassian-renderer",
+	"pcpe": "cpe:/a:atlassian:atlassian-renderer"
 }

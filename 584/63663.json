@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63663",
-  "pname": "scalance m804pb ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_m804pb_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63663",
+	"pname": "scalance m804pb ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_m804pb_firmware"
 }

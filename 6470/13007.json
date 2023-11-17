@@ -1,8 +1,8 @@
 {
-  "vid": "6470",
-  "vname": "sonitrol",
-  "vcpe": "cpe:/:sonitrol",
-  "pid": "13007",
-  "pname": "eaccess",
-  "pcpe": "cpe:/h:sonitrol:eaccess"
+	"vid": "6470",
+	"vname": "sonitrol",
+	"vcpe": "cpe:/:sonitrol",
+	"pid": "13007",
+	"pname": "eaccess",
+	"pcpe": "cpe:/h:sonitrol:eaccess"
 }

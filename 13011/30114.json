@@ -1,8 +1,8 @@
 {
-  "vid": "13011",
-  "vname": "PDQ Manufacturing, Inc.",
-  "vcpe": "cpe:/:pdqinc",
-  "pid": "30114",
-  "pname": "ProTouch AutoGloss ファームウェア",
-  "pcpe": "cpe:/o:pdqinc:protouch_autogloss_firmware"
+	"vid": "13011",
+	"vname": "PDQ Manufacturing, Inc.",
+	"vcpe": "cpe:/:pdqinc",
+	"pid": "30114",
+	"pname": "ProTouch AutoGloss ファームウェア",
+	"pcpe": "cpe:/o:pdqinc:protouch_autogloss_firmware"
 }

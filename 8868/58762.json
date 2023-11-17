@@ -1,8 +1,8 @@
 {
-  "vid": "8868",
-  "vname": "Foscam",
-  "vcpe": "cpe:/:foscam",
-  "pid": "58762",
-  "pname": "r2c application ファームウェア",
-  "pcpe": "cpe:/o:foscam:r2c_application_firmware"
+	"vid": "8868",
+	"vname": "Foscam",
+	"vcpe": "cpe:/:foscam",
+	"pid": "58762",
+	"pname": "r2c application ファームウェア",
+	"pcpe": "cpe:/o:foscam:r2c_application_firmware"
 }

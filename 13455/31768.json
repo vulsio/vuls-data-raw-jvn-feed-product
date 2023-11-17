@@ -1,8 +1,8 @@
 {
-  "vid": "13455",
-  "vname": "nip2 project",
-  "vcpe": "cpe:/:nip2_project",
-  "pid": "31768",
-  "pname": "nip2",
-  "pcpe": "cpe:/a:nip2_project:nip2"
+	"vid": "13455",
+	"vname": "nip2 project",
+	"vcpe": "cpe:/:nip2_project",
+	"pid": "31768",
+	"pname": "nip2",
+	"pcpe": "cpe:/a:nip2_project:nip2"
 }

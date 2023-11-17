@@ -1,8 +1,8 @@
 {
-  "vid": "23224",
-  "vname": "opennetadmin",
-  "vcpe": "cpe:/:opennetadmin",
-  "pid": "60163",
-  "pname": "opennetadmin",
-  "pcpe": "cpe:/a:opennetadmin:opennetadmin"
+	"vid": "23224",
+	"vname": "opennetadmin",
+	"vcpe": "cpe:/:opennetadmin",
+	"pid": "60163",
+	"pname": "opennetadmin",
+	"pcpe": "cpe:/a:opennetadmin:opennetadmin"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "2061",
-  "pname": "Sun ONE Calendar Server",
-  "pcpe": "cpe:/a:sun:one_calendar_server"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "2061",
+	"pname": "Sun ONE Calendar Server",
+	"pcpe": "cpe:/a:sun:one_calendar_server"
 }

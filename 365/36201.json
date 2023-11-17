@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "36201",
-  "pname": "ShareFile StorageZones Controller",
-  "pcpe": "cpe:/a:citrix:sharefile_storagezones_controller"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "36201",
+	"pname": "ShareFile StorageZones Controller",
+	"pcpe": "cpe:/a:citrix:sharefile_storagezones_controller"
 }

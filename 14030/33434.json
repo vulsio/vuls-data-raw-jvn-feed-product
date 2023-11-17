@@ -1,8 +1,8 @@
 {
-  "vid": "14030",
-  "vname": "ChemCMS project",
-  "vcpe": "cpe:/:chemcms_project",
-  "pid": "33434",
-  "pname": "ChemCMS",
-  "pcpe": "cpe:/a:chemcms_project:chemcms"
+	"vid": "14030",
+	"vname": "ChemCMS project",
+	"vcpe": "cpe:/:chemcms_project",
+	"pid": "33434",
+	"pname": "ChemCMS",
+	"pcpe": "cpe:/a:chemcms_project:chemcms"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "491",
-  "vname": "BitDefender",
-  "vcpe": "cpe:/:bitdefender",
-  "pid": "45826",
-  "pname": "Endpoint Security",
-  "pcpe": "cpe:/a:bitdefender:endpoint_security"
+	"vid": "491",
+	"vname": "BitDefender",
+	"vcpe": "cpe:/:bitdefender",
+	"pid": "45826",
+	"pname": "Endpoint Security",
+	"pcpe": "cpe:/a:bitdefender:endpoint_security"
 }

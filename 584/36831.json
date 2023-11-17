@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "36831",
-  "pname": "SINUMERIK 808D ファームウェア",
-  "pcpe": "cpe:/o:siemens:sinumerik_808d_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "36831",
+	"pname": "SINUMERIK 808D ファームウェア",
+	"pcpe": "cpe:/o:siemens:sinumerik_808d_firmware"
 }

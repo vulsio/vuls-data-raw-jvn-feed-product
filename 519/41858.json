@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "41858",
-  "pname": "Avaya Aura Application Enablement Services",
-  "pcpe": "cpe:/a:avaya:aura_application_enablement_services"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "41858",
+	"pname": "Avaya Aura Application Enablement Services",
+	"pcpe": "cpe:/a:avaya:aura_application_enablement_services"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22087",
-  "vname": "blitz-js",
-  "vcpe": "cpe:/:blitzjs",
-  "pid": "56709",
-  "pname": "superjson",
-  "pcpe": "cpe:/a:blitzjs:superjson"
+	"vid": "22087",
+	"vname": "blitz-js",
+	"vcpe": "cpe:/:blitzjs",
+	"pid": "56709",
+	"pname": "superjson",
+	"pcpe": "cpe:/a:blitzjs:superjson"
 }

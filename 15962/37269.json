@@ -1,8 +1,8 @@
 {
-  "vid": "15962",
-  "vname": "SENNHEISER",
-  "vcpe": "cpe:/:sennheiser",
-  "pid": "37269",
-  "pname": "Sennheiser HeadSetup",
-  "pcpe": "cpe:/a:sennheiser:headsetup"
+	"vid": "15962",
+	"vname": "SENNHEISER",
+	"vcpe": "cpe:/:sennheiser",
+	"pid": "37269",
+	"pname": "Sennheiser HeadSetup",
+	"pcpe": "cpe:/a:sennheiser:headsetup"
 }

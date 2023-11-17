@@ -1,8 +1,8 @@
 {
-  "vid": "16198",
-  "vname": "libseccomp project",
-  "vcpe": "cpe:/:libseccomp_project",
-  "pid": "37945",
-  "pname": "libseccomp",
-  "pcpe": "cpe:/a:libseccomp_project:libseccomp"
+	"vid": "16198",
+	"vname": "libseccomp project",
+	"vcpe": "cpe:/:libseccomp_project",
+	"pid": "37945",
+	"pname": "libseccomp",
+	"pcpe": "cpe:/a:libseccomp_project:libseccomp"
 }

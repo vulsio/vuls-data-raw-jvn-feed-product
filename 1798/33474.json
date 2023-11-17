@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "33474",
-  "pname": "Drive",
-  "pcpe": "cpe:/a:synology:drive"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "33474",
+	"pname": "Drive",
+	"pcpe": "cpe:/a:synology:drive"
 }

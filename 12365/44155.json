@@ -1,8 +1,8 @@
 {
-  "vid": "12365",
-  "vname": "Gradle Inc.",
-  "vcpe": "cpe:/:gradle",
-  "pid": "44155",
-  "pname": "plugin_publishing",
-  "pcpe": "cpe:/a:gradle:plugin_publishing"
+	"vid": "12365",
+	"vname": "Gradle Inc.",
+	"vcpe": "cpe:/:gradle",
+	"pid": "44155",
+	"pname": "plugin_publishing",
+	"pcpe": "cpe:/a:gradle:plugin_publishing"
 }

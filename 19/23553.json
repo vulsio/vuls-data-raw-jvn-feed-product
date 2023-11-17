@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23553",
-  "pname": "Cisco IDS 4250 XL",
-  "pcpe": "cpe:/h:cisco:ids_4250_xl"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23553",
+	"pname": "Cisco IDS 4250 XL",
+	"pcpe": "cpe:/h:cisco:ids_4250_xl"
 }

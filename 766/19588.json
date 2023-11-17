@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "19588",
-  "pname": "StruxureWare SCADA Expert Vijeo Citect",
-  "pcpe": "cpe:/a:schneider_electric:struxureware_scada_expert_vijeo_citect"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "19588",
+	"pname": "StruxureWare SCADA Expert Vijeo Citect",
+	"pcpe": "cpe:/a:schneider_electric:struxureware_scada_expert_vijeo_citect"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "37225",
-  "pname": "Nport W2x50A ファームウェア",
-  "pcpe": "cpe:/o:moxa:nport_w2x50a_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "37225",
+	"pname": "Nport W2x50A ファームウェア",
+	"pcpe": "cpe:/o:moxa:nport_w2x50a_firmware"
 }

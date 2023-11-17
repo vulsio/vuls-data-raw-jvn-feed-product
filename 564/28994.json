@@ -1,8 +1,8 @@
 {
-  "vid": "564",
-  "vname": "Panda Security",
-  "vcpe": "cpe:/:pandasecurity",
-  "pid": "28994",
-  "pname": "Panda Free Antivirus",
-  "pcpe": "cpe:/a:pandasecurity:panda_free_antivirus"
+	"vid": "564",
+	"vname": "Panda Security",
+	"vcpe": "cpe:/:pandasecurity",
+	"pid": "28994",
+	"pname": "Panda Free Antivirus",
+	"pcpe": "cpe:/a:pandasecurity:panda_free_antivirus"
 }

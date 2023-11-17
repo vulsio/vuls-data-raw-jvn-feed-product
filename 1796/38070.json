@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "38070",
-  "pname": "Maximo II CRT-D and LCD ファームウェア",
-  "pcpe": "cpe:/o:medtronic:maximo_ii_crt-d_and_lcd_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "38070",
+	"pname": "Maximo II CRT-D and LCD ファームウェア",
+	"pcpe": "cpe:/o:medtronic:maximo_ii_crt-d_and_lcd_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "502",
-  "vname": "MediaWiki",
-  "vcpe": "cpe:/:mediawiki",
-  "pid": "1991",
-  "pname": "MediaWiki",
-  "pcpe": "cpe:/a:mediawiki:mediawiki"
+	"vid": "502",
+	"vname": "MediaWiki",
+	"vcpe": "cpe:/:mediawiki",
+	"pid": "1991",
+	"pname": "MediaWiki",
+	"pcpe": "cpe:/a:mediawiki:mediawiki"
 }

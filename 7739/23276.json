@@ -1,8 +1,8 @@
 {
-  "vid": "7739",
-  "vname": "solidworks",
-  "vcpe": "cpe:/:solidworks",
-  "pid": "23276",
-  "pname": "Product Data Management",
-  "pcpe": "cpe:/a:solidworks:product_data_management"
+	"vid": "7739",
+	"vname": "solidworks",
+	"vcpe": "cpe:/:solidworks",
+	"pid": "23276",
+	"pname": "Product Data Management",
+	"pcpe": "cpe:/a:solidworks:product_data_management"
 }

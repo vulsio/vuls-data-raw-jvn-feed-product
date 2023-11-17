@@ -1,8 +1,8 @@
 {
-  "vid": "16501",
-  "vname": "有限会社アングラーズネット",
-  "vcpe": "cpe:/:anglers-net",
-  "pid": "39249",
-  "pname": "アクセス解析CGI An-Analyzer",
-  "pcpe": "cpe:/a:anglers-net:cgi_an-anlyzer"
+	"vid": "16501",
+	"vname": "有限会社アングラーズネット",
+	"vcpe": "cpe:/:anglers-net",
+	"pid": "39249",
+	"pname": "アクセス解析CGI An-Analyzer",
+	"pcpe": "cpe:/a:anglers-net:cgi_an-anlyzer"
 }

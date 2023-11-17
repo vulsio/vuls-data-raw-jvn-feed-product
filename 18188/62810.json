@@ -1,8 +1,8 @@
 {
-  "vid": "18188",
-  "vname": "total-soft",
-  "vcpe": "cpe:/:total-soft",
-  "pid": "62810",
-  "pname": "event calendar",
-  "pcpe": "cpe:/a:total-soft:event_calendar"
+	"vid": "18188",
+	"vname": "total-soft",
+	"vcpe": "cpe:/:total-soft",
+	"pid": "62810",
+	"pname": "event calendar",
+	"pcpe": "cpe:/a:total-soft:event_calendar"
 }

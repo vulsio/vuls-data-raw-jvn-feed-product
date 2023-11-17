@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "45092",
-  "pname": "GT23 モデル",
-  "pcpe": "cpe:/o:mitsubishielectric:gt23_model"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "45092",
+	"pname": "GT23 モデル",
+	"pcpe": "cpe:/o:mitsubishielectric:gt23_model"
 }

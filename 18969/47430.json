@@ -1,8 +1,8 @@
 {
-  "vid": "18969",
-  "vname": "MAXMIND",
-  "vcpe": "cpe:/:maxmind",
-  "pid": "47430",
-  "pname": "libmaxminddb",
-  "pcpe": "cpe:/a:maxmind:libmaxminddb"
+	"vid": "18969",
+	"vname": "MAXMIND",
+	"vcpe": "cpe:/:maxmind",
+	"pid": "47430",
+	"pname": "libmaxminddb",
+	"pcpe": "cpe:/a:maxmind:libmaxminddb"
 }

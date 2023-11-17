@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "21171",
-  "pname": "IBM System Networking RackSwitch G8264T ファームウェア",
-  "pcpe": "cpe:/o:ibm:system_networking_rackswitch__g8264t_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "21171",
+	"pname": "IBM System Networking RackSwitch G8264T ファームウェア",
+	"pcpe": "cpe:/o:ibm:system_networking_rackswitch__g8264t_firmware"
 }

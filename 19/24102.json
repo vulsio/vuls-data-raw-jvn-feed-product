@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24102",
-  "pname": "Cisco TelePresence Advanced Media Gateway シリーズ ソフトウェア",
-  "pcpe": "cpe:/a:cisco:telepresence_advanced_media_gateway"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24102",
+	"pname": "Cisco TelePresence Advanced Media Gateway シリーズ ソフトウェア",
+	"pcpe": "cpe:/a:cisco:telepresence_advanced_media_gateway"
 }

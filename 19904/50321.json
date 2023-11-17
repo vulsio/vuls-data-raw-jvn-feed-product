@@ -1,8 +1,8 @@
 {
-  "vid": "19904",
-  "vname": "Sentry Software",
-  "vcpe": "cpe:/:sentrysoftware",
-  "pid": "50321",
-  "pname": "Hardware Sentry KM for BMC PATROL",
-  "pcpe": "cpe:/a:sentrysoftware:hardware_sentry_km_for_bmc_patrol"
+	"vid": "19904",
+	"vname": "Sentry Software",
+	"vcpe": "cpe:/:sentrysoftware",
+	"pid": "50321",
+	"pname": "Hardware Sentry KM for BMC PATROL",
+	"pcpe": "cpe:/a:sentrysoftware:hardware_sentry_km_for_bmc_patrol"
 }

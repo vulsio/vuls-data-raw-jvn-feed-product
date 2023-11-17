@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "39515",
-  "pname": "Aestiva  7900 ファームウェア",
-  "pcpe": "cpe:/o:ge:aestiva_7900_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "39515",
+	"pname": "Aestiva  7900 ファームウェア",
+	"pcpe": "cpe:/o:ge:aestiva_7900_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16703",
-  "vname": "Webcraftic",
-  "vcpe": "cpe:/:webcraftic",
-  "pid": "40405",
-  "pname": "Simple 301 Redirects - Addon - Bulk Uploader",
-  "pcpe": "cpe:/a:webcraftic:simple_301_redirects-addon-bulk_uploader"
+	"vid": "16703",
+	"vname": "Webcraftic",
+	"vcpe": "cpe:/:webcraftic",
+	"pid": "40405",
+	"pname": "Simple 301 Redirects - Addon - Bulk Uploader",
+	"pcpe": "cpe:/a:webcraftic:simple_301_redirects-addon-bulk_uploader"
 }

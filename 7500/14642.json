@@ -1,8 +1,8 @@
 {
-  "vid": "7500",
-  "vname": "Simple DirectMedia Layer",
-  "vcpe": "cpe:/:sdl",
-  "pid": "14642",
-  "pname": "sdl image",
-  "pcpe": "cpe:/a:sdl:sdl_image"
+	"vid": "7500",
+	"vname": "Simple DirectMedia Layer",
+	"vcpe": "cpe:/:sdl",
+	"pid": "14642",
+	"pname": "sdl image",
+	"pcpe": "cpe:/a:sdl:sdl_image"
 }

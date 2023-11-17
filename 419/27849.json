@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "27849",
-  "pname": "OnCommand Insight",
-  "pcpe": "cpe:/a:netapp:oncommand_insight"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "27849",
+	"pname": "OnCommand Insight",
+	"pcpe": "cpe:/a:netapp:oncommand_insight"
 }

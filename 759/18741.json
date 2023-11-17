@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "18741",
-  "pname": "Proficy HMI/SCADA DNP3 I/O ドライバ",
-  "pcpe": "cpe:/a:ge:intelligent_platforms_proficy_dnp3_i%2Fo_driver"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "18741",
+	"pname": "Proficy HMI/SCADA DNP3 I/O ドライバ",
+	"pcpe": "cpe:/a:ge:intelligent_platforms_proficy_dnp3_i%2Fo_driver"
 }

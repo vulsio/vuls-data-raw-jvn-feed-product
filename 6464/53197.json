@@ -1,8 +1,8 @@
 {
-  "vid": "6464",
-  "vname": "netscout",
-  "vcpe": "cpe:/:netscout",
-  "pid": "53197",
-  "pname": "nGeniusONE",
-  "pcpe": "cpe:/a:netscout:ngeniusone"
+	"vid": "6464",
+	"vname": "netscout",
+	"vcpe": "cpe:/:netscout",
+	"pid": "53197",
+	"pname": "nGeniusONE",
+	"pcpe": "cpe:/a:netscout:ngeniusone"
 }

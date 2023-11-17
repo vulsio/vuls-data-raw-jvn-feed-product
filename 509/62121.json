@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "62121",
-  "pname": "enable now manager",
-  "pcpe": "cpe:/a:sap:enable_now_manager"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "62121",
+	"pname": "enable now manager",
+	"pcpe": "cpe:/a:sap:enable_now_manager"
 }

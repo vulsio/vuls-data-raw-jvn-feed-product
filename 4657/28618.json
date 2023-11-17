@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28618",
-  "pname": "Tecal CH222 ファームウェア",
-  "pcpe": "cpe:/o:huawei:tecal_ch222_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28618",
+	"pname": "Tecal CH222 ファームウェア",
+	"pcpe": "cpe:/o:huawei:tecal_ch222_firmware"
 }

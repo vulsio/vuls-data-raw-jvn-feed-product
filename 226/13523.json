@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "13523",
-  "pname": "client firewall",
-  "pcpe": "cpe:/a:novell:client_firewall"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "13523",
+	"pname": "client firewall",
+	"pcpe": "cpe:/a:novell:client_firewall"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14111",
-  "vname": "Liulishuo",
-  "vcpe": "cpe:/:liulishuo",
-  "pid": "33687",
-  "pname": "FileDownloader",
-  "pcpe": "cpe:/a:liulishuo:filedownloader"
+	"vid": "14111",
+	"vname": "Liulishuo",
+	"vcpe": "cpe:/:liulishuo",
+	"pid": "33687",
+	"pname": "FileDownloader",
+	"pcpe": "cpe:/a:liulishuo:filedownloader"
 }

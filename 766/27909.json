@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "27909",
-  "pname": "Schneider Electric homeLYnk Controller LSS100100 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:homelynk_controller_lss100100_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "27909",
+	"pname": "Schneider Electric homeLYnk Controller LSS100100 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:homelynk_controller_lss100100_firmware"
 }

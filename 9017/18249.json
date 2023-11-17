@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "18249",
-  "pname": "X9DRFF-iTG+",
-  "pcpe": "cpe:/h:supermicro:x9drff-itg%2b"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "18249",
+	"pname": "X9DRFF-iTG+",
+	"pcpe": "cpe:/h:supermicro:x9drff-itg%2b"
 }

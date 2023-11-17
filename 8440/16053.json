@@ -1,8 +1,8 @@
 {
-  "vid": "8440",
-  "vname": "webdesproxy",
-  "vcpe": "cpe:/:webdesproxy",
-  "pid": "16053",
-  "pname": "webdesproxy",
-  "pcpe": "cpe:/a:webdesproxy:webdesproxy"
+	"vid": "8440",
+	"vname": "webdesproxy",
+	"vcpe": "cpe:/:webdesproxy",
+	"pid": "16053",
+	"pname": "webdesproxy",
+	"pcpe": "cpe:/a:webdesproxy:webdesproxy"
 }

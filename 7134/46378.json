@@ -1,8 +1,8 @@
 {
-  "vid": "7134",
-  "vname": "PTC Inc.",
-  "vcpe": "cpe:/:ptc",
-  "pid": "46378",
-  "pname": "OPC-Aggregator",
-  "pcpe": "cpe:/a:ptc:opc-aggregator"
+	"vid": "7134",
+	"vname": "PTC Inc.",
+	"vcpe": "cpe:/:ptc",
+	"pid": "46378",
+	"pname": "OPC-Aggregator",
+	"pcpe": "cpe:/a:ptc:opc-aggregator"
 }

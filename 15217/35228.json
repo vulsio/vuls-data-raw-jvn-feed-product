@@ -1,8 +1,8 @@
 {
-  "vid": "15217",
-  "vname": "SS Protect Limited",
-  "vcpe": "cpe:/:totalav",
-  "pid": "35228",
-  "pname": "Total AV",
-  "pcpe": "cpe:/a:totalav:totalav"
+	"vid": "15217",
+	"vname": "SS Protect Limited",
+	"vcpe": "cpe:/:totalav",
+	"pid": "35228",
+	"pname": "Total AV",
+	"pcpe": "cpe:/a:totalav:totalav"
 }

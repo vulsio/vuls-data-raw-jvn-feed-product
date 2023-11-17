@@ -1,8 +1,8 @@
 {
-  "vid": "1825",
-  "vname": "AdAstrA Research Group",
-  "vcpe": "cpe:/:adastra",
-  "pid": "5076",
-  "pname": "TRACE MODE Data Center",
-  "pcpe": "cpe:/a:adastra:trace_mode_data_center"
+	"vid": "1825",
+	"vname": "AdAstrA Research Group",
+	"vcpe": "cpe:/:adastra",
+	"pid": "5076",
+	"pname": "TRACE MODE Data Center",
+	"pcpe": "cpe:/a:adastra:trace_mode_data_center"
 }

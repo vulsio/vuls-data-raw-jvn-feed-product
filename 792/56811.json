@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56811",
-  "pname": "NR7101 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:nr7101_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56811",
+	"pname": "NR7101 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:nr7101_firmware"
 }

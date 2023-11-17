@@ -1,8 +1,8 @@
 {
-  "vid": "6155",
-  "vname": "OpenText",
-  "vcpe": "cpe:/:opentext",
-  "pid": "24670",
-  "pname": "OpenText Secure MFT 2014",
-  "pcpe": "cpe:/a:opentext:secure_mft_2014"
+	"vid": "6155",
+	"vname": "OpenText",
+	"vcpe": "cpe:/:opentext",
+	"pid": "24670",
+	"pname": "OpenText Secure MFT 2014",
+	"pcpe": "cpe:/a:opentext:secure_mft_2014"
 }

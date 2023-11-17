@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31824",
-  "pname": "HG8245H ファームウェア",
-  "pcpe": "cpe:/o:huawei:hg8245h_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31824",
+	"pname": "HG8245H ファームウェア",
+	"pcpe": "cpe:/o:huawei:hg8245h_firmware"
 }

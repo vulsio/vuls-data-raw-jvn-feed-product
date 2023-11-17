@@ -1,8 +1,8 @@
 {
-  "vid": "6687",
-  "vname": "Post Oak Traffic Systems",
-  "vcpe": "cpe:/:postoaktraffic",
-  "pid": "13410",
-  "pname": "AWAM Bluetooth Reader Traffic System",
-  "pcpe": "cpe:/h:postoaktraffic:awam_bluetooth_reader"
+	"vid": "6687",
+	"vname": "Post Oak Traffic Systems",
+	"vcpe": "cpe:/:postoaktraffic",
+	"pid": "13410",
+	"pname": "AWAM Bluetooth Reader Traffic System",
+	"pcpe": "cpe:/h:postoaktraffic:awam_bluetooth_reader"
 }

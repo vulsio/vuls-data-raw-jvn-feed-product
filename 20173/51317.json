@@ -1,8 +1,8 @@
 {
-  "vid": "20173",
-  "vname": "Apollos Apps",
-  "vcpe": "cpe:/:apollosapp",
-  "pid": "51317",
-  "pname": "data-connector-rock",
-  "pcpe": "cpe:/a:apollosapp:data-connector-rock"
+	"vid": "20173",
+	"vname": "Apollos Apps",
+	"vcpe": "cpe:/:apollosapp",
+	"pid": "51317",
+	"pname": "data-connector-rock",
+	"pcpe": "cpe:/a:apollosapp:data-connector-rock"
 }

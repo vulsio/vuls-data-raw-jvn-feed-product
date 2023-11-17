@@ -1,8 +1,8 @@
 {
-  "vid": "17149",
-  "vname": "FireGiant",
-  "vcpe": "cpe:/:firegiant",
-  "pid": "40769",
-  "pname": "WiX Toolset",
-  "pcpe": "cpe:/a:firegiant:wix_toolset"
+	"vid": "17149",
+	"vname": "FireGiant",
+	"vcpe": "cpe:/:firegiant",
+	"pid": "40769",
+	"pname": "WiX Toolset",
+	"pcpe": "cpe:/a:firegiant:wix_toolset"
 }

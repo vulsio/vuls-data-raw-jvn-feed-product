@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "1859",
-  "pname": "Time Capsule",
-  "pcpe": "cpe:/a:apple:time_capsule"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "1859",
+	"pname": "Time Capsule",
+	"pcpe": "cpe:/a:apple:time_capsule"
 }

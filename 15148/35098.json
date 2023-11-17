@@ -1,8 +1,8 @@
 {
-  "vid": "15148",
-  "vname": "qutebrowser",
-  "vcpe": "cpe:/:qutebrowser",
-  "pid": "35098",
-  "pname": "qutebrowser",
-  "pcpe": "cpe:/a:qutebrowser:qutebrowser"
+	"vid": "15148",
+	"vname": "qutebrowser",
+	"vcpe": "cpe:/:qutebrowser",
+	"pid": "35098",
+	"pname": "qutebrowser",
+	"pcpe": "cpe:/a:qutebrowser:qutebrowser"
 }

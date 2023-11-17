@@ -1,8 +1,8 @@
 {
-  "vid": "4129",
-  "vname": "PHP-Fusion",
-  "vcpe": "cpe:/:php-fusion",
-  "pid": "64077",
-  "pname": "php-fusion",
-  "pcpe": "cpe:/a:php-fusion:php-fusion"
+	"vid": "4129",
+	"vname": "PHP-Fusion",
+	"vcpe": "cpe:/:php-fusion",
+	"pid": "64077",
+	"pname": "php-fusion",
+	"pcpe": "cpe:/a:php-fusion:php-fusion"
 }

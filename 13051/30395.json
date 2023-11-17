@@ -1,8 +1,8 @@
 {
-  "vid": "13051",
-  "vname": "Supervisor",
-  "vcpe": "cpe:/:supervisord",
-  "pid": "30395",
-  "pname": "Supervisor",
-  "pcpe": "cpe:/a:supervisord:supervisor"
+	"vid": "13051",
+	"vname": "Supervisor",
+	"vcpe": "cpe:/:supervisord",
+	"pid": "30395",
+	"pname": "Supervisor",
+	"pcpe": "cpe:/a:supervisord:supervisor"
 }

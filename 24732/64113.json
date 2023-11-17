@@ -1,8 +1,8 @@
 {
-  "vid": "24732",
-  "vname": "html-minifier project",
-  "vcpe": "cpe:/:html-minifier_project",
-  "pid": "64113",
-  "pname": "html-minifier",
-  "pcpe": "cpe:/a:html-minifier_project:html-minifier"
+	"vid": "24732",
+	"vname": "html-minifier project",
+	"vcpe": "cpe:/:html-minifier_project",
+	"pid": "64113",
+	"pname": "html-minifier",
+	"pcpe": "cpe:/a:html-minifier_project:html-minifier"
 }

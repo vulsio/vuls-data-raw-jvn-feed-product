@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "25996",
-  "pname": "Red Hat Software Collections",
-  "pcpe": "cpe:/a:redhat:software_collections"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "25996",
+	"pname": "Red Hat Software Collections",
+	"pcpe": "cpe:/a:redhat:software_collections"
 }

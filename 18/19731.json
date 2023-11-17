@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19731",
-  "pname": "IBM Tivoli Storage Manager for Mail",
-  "pcpe": "cpe:/a:ibm:tivoli_storage_manager_for_mail"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19731",
+	"pname": "IBM Tivoli Storage Manager for Mail",
+	"pcpe": "cpe:/a:ibm:tivoli_storage_manager_for_mail"
 }

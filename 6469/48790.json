@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "48790",
-  "pname": "PLCnext ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:plcnext_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "48790",
+	"pname": "PLCnext ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:plcnext_firmware"
 }

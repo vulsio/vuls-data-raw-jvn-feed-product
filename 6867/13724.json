@@ -1,8 +1,8 @@
 {
-  "vid": "6867",
-  "vname": "PHPMailer project",
-  "vcpe": "cpe:/:phpmailer_project",
-  "pid": "13724",
-  "pname": "PHPMailer",
-  "pcpe": "cpe:/a:phpmailer_project:phpmailer"
+	"vid": "6867",
+	"vname": "PHPMailer project",
+	"vcpe": "cpe:/:phpmailer_project",
+	"pid": "13724",
+	"pname": "PHPMailer",
+	"pcpe": "cpe:/a:phpmailer_project:phpmailer"
 }

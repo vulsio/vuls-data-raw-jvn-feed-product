@@ -1,8 +1,8 @@
 {
-  "vid": "18789",
-  "vname": "node-pdf-generator project",
-  "vcpe": "cpe:/:node-pdf-generator_project",
-  "pid": "46738",
-  "pname": "node-pdf-generator",
-  "pcpe": "cpe:/a:node-pdf-generator_project:node-pdf-generator"
+	"vid": "18789",
+	"vname": "node-pdf-generator project",
+	"vcpe": "cpe:/:node-pdf-generator_project",
+	"pid": "46738",
+	"pname": "node-pdf-generator",
+	"pcpe": "cpe:/a:node-pdf-generator_project:node-pdf-generator"
 }

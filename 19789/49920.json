@@ -1,8 +1,8 @@
 {
-  "vid": "19789",
-  "vname": "WfilterICF",
-  "vcpe": "cpe:/:wfiltericf",
-  "pid": "49920",
-  "pname": "WFilter Internet Content Filter",
-  "pcpe": "cpe:/a:wfiltericf:wfilter_internet_content_filter"
+	"vid": "19789",
+	"vname": "WfilterICF",
+	"vcpe": "cpe:/:wfiltericf",
+	"pid": "49920",
+	"pname": "WFilter Internet Content Filter",
+	"pcpe": "cpe:/a:wfiltericf:wfilter_internet_content_filter"
 }

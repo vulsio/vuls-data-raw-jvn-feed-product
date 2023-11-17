@@ -1,8 +1,8 @@
 {
-  "vid": "18405",
-  "vname": "bdtask",
-  "vcpe": "cpe:/:bdtask",
-  "pid": "59692",
-  "pname": "multi store inventory management system",
-  "pcpe": "cpe:/a:bdtask:multi_store_inventory_management_system"
+	"vid": "18405",
+	"vname": "bdtask",
+	"vcpe": "cpe:/:bdtask",
+	"pid": "59692",
+	"pname": "multi store inventory management system",
+	"pcpe": "cpe:/a:bdtask:multi_store_inventory_management_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "9057",
-  "pname": "EMC Celerra Network Server",
-  "pcpe": "cpe:/a:emc:celerra_network_server"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "9057",
+	"pname": "EMC Celerra Network Server",
+	"pcpe": "cpe:/a:emc:celerra_network_server"
 }

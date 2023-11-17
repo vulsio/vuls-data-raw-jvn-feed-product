@@ -1,8 +1,8 @@
 {
-  "vid": "16188",
-  "vname": "HMS Industrial Networks AB",
-  "vcpe": "cpe:/:hms-networks",
-  "pid": "37917",
-  "pname": "Netbiter WS200 ファームウェア",
-  "pcpe": "cpe:/o:hms-networks:netbiter_ws200_firmware"
+	"vid": "16188",
+	"vname": "HMS Industrial Networks AB",
+	"vcpe": "cpe:/:hms-networks",
+	"pid": "37917",
+	"pname": "Netbiter WS200 ファームウェア",
+	"pcpe": "cpe:/o:hms-networks:netbiter_ws200_firmware"
 }

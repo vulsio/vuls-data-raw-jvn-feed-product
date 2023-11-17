@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "54422",
-  "pname": "IPSiO SP 4210",
-  "pcpe": "cpe:/o:ricoh:ipsio_sp_4210_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "54422",
+	"pname": "IPSiO SP 4210",
+	"pcpe": "cpe:/o:ricoh:ipsio_sp_4210_firmware"
 }

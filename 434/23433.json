@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "23433",
-  "pname": "Unisphere Central",
-  "pcpe": "cpe:/a:emc:unisphere_central"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "23433",
+	"pname": "Unisphere Central",
+	"pcpe": "cpe:/a:emc:unisphere_central"
 }

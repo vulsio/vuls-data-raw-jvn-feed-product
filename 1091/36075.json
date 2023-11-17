@@ -1,8 +1,8 @@
 {
-  "vid": "1091",
-  "vname": "AirTies",
-  "vcpe": "cpe:/:airties",
-  "pid": "36075",
-  "pname": "Air 5021 ファームウェア",
-  "pcpe": "cpe:/o:airties:air_5021_firmware"
+	"vid": "1091",
+	"vname": "AirTies",
+	"vcpe": "cpe:/:airties",
+	"pid": "36075",
+	"pname": "Air 5021 ファームウェア",
+	"pcpe": "cpe:/o:airties:air_5021_firmware"
 }

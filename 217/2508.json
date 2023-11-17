@@ -1,8 +1,8 @@
 {
-  "vid": "217",
-  "vname": "インターネットイニシアティブ",
-  "vcpe": "cpe:/:iij",
-  "pid": "2508",
-  "pname": "IDゲートウェイ",
-  "pcpe": "cpe:/h:iij:id_gateway"
+	"vid": "217",
+	"vname": "インターネットイニシアティブ",
+	"vcpe": "cpe:/:iij",
+	"pid": "2508",
+	"pname": "IDゲートウェイ",
+	"pcpe": "cpe:/h:iij:id_gateway"
 }

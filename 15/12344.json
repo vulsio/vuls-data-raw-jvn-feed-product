@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "12344",
-  "pname": "rapid install web server",
-  "pcpe": "cpe:/a:oracle:rapid_install_web_server"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "12344",
+	"pname": "rapid install web server",
+	"pcpe": "cpe:/a:oracle:rapid_install_web_server"
 }

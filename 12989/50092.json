@@ -1,8 +1,8 @@
 {
-  "vid": "12989",
-  "vname": "HashiCorp",
-  "vcpe": "cpe:/:hashicorp",
-  "pid": "50092",
-  "pname": "Terraform Provider",
-  "pcpe": "cpe:/a:hashicorp:terraform_provider"
+	"vid": "12989",
+	"vname": "HashiCorp",
+	"vcpe": "cpe:/:hashicorp",
+	"pid": "50092",
+	"pname": "Terraform Provider",
+	"pcpe": "cpe:/a:hashicorp:terraform_provider"
 }

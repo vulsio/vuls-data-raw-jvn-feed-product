@@ -1,8 +1,8 @@
 {
-  "vid": "3265",
-  "vname": "dji",
-  "vcpe": "cpe:/:dji",
-  "pid": "59152",
-  "pname": "fhantom 4 pro ファームウェア",
-  "pcpe": "cpe:/o:dji:fhantom_4_pro_firmware"
+	"vid": "3265",
+	"vname": "dji",
+	"vcpe": "cpe:/:dji",
+	"pid": "59152",
+	"pname": "fhantom 4 pro ファームウェア",
+	"pcpe": "cpe:/o:dji:fhantom_4_pro_firmware"
 }

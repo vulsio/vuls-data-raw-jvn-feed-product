@@ -1,8 +1,8 @@
 {
-  "vid": "4262",
-  "vname": "ジョンソンコントロールズ",
-  "vcpe": "cpe:/:johnsoncontrols",
-  "pid": "58851",
-  "pname": "IQ Wifi 6 ファームウェア",
-  "pcpe": "cpe:/o:johnsoncontrols:iq_wifi_6_firmware"
+	"vid": "4262",
+	"vname": "ジョンソンコントロールズ",
+	"vcpe": "cpe:/:johnsoncontrols",
+	"pid": "58851",
+	"pname": "IQ Wifi 6 ファームウェア",
+	"pcpe": "cpe:/o:johnsoncontrols:iq_wifi_6_firmware"
 }

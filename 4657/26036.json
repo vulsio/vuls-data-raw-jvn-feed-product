@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26036",
-  "pname": "S5300SI",
-  "pcpe": "cpe:/h:huawei:s5300si"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26036",
+	"pname": "S5300SI",
+	"pcpe": "cpe:/h:huawei:s5300si"
 }

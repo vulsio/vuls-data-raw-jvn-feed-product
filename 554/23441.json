@@ -1,8 +1,8 @@
 {
-  "vid": "554",
-  "vname": "ブルーコートシステムズ",
-  "vcpe": "cpe:/:bluecoat",
-  "pid": "23441",
-  "pname": "Unified Agent",
-  "pcpe": "cpe:/a:bluecoat:unified_agent"
+	"vid": "554",
+	"vname": "ブルーコートシステムズ",
+	"vcpe": "cpe:/:bluecoat",
+	"pid": "23441",
+	"pname": "Unified Agent",
+	"pcpe": "cpe:/a:bluecoat:unified_agent"
 }

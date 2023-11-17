@@ -1,8 +1,8 @@
 {
-  "vid": "6822",
-  "vname": "phpeasynews",
-  "vcpe": "cpe:/:phpeasynews",
-  "pid": "13664",
-  "pname": "phpeasyblog",
-  "pcpe": "cpe:/a:phpeasynews:phpeasyblog"
+	"vid": "6822",
+	"vname": "phpeasynews",
+	"vcpe": "cpe:/:phpeasynews",
+	"pid": "13664",
+	"pname": "phpeasyblog",
+	"pcpe": "cpe:/a:phpeasynews:phpeasyblog"
 }

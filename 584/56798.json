@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "56798",
-  "pname": "SICAM TOOLBOX II",
-  "pcpe": "cpe:/a:siemens:sicam_toolbox_ii"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "56798",
+	"pname": "SICAM TOOLBOX II",
+	"pcpe": "cpe:/a:siemens:sicam_toolbox_ii"
 }

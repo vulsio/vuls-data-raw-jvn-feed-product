@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "5153",
-  "pname": "SPARC Enterprise M9000 サーバ",
-  "pcpe": "cpe:/h:oracle:sparc_enterprise_m9000_server"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "5153",
+	"pname": "SPARC Enterprise M9000 サーバ",
+	"pcpe": "cpe:/h:oracle:sparc_enterprise_m9000_server"
 }

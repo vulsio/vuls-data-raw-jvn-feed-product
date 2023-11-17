@@ -1,8 +1,8 @@
 {
-  "vid": "12359",
-  "vname": "Erik Andersen",
-  "vcpe": "cpe:/:uclibc",
-  "pid": "27824",
-  "pname": "uClibc",
-  "pcpe": "cpe:/a:uclibc:uclibc"
+	"vid": "12359",
+	"vname": "Erik Andersen",
+	"vcpe": "cpe:/:uclibc",
+	"pid": "27824",
+	"pname": "uClibc",
+	"pcpe": "cpe:/a:uclibc:uclibc"
 }

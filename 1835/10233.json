@@ -1,8 +1,8 @@
 {
-  "vid": "1835",
-  "vname": "Intuit",
-  "vcpe": "cpe:/:intuit",
-  "pid": "10233",
-  "pname": "turbo tax",
-  "pcpe": "cpe:/a:intuit:turbo_tax"
+	"vid": "1835",
+	"vname": "Intuit",
+	"vcpe": "cpe:/:intuit",
+	"pid": "10233",
+	"pname": "turbo tax",
+	"pcpe": "cpe:/a:intuit:turbo_tax"
 }

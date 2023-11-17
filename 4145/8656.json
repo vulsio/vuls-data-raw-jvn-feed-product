@@ -1,8 +1,8 @@
 {
-  "vid": "4145",
-  "vname": "sapid",
-  "vcpe": "cpe:/:sapid",
-  "pid": "8656",
-  "pname": "sapid cmf",
-  "pcpe": "cpe:/a:sapid:sapid_cmf"
+	"vid": "4145",
+	"vname": "sapid",
+	"vcpe": "cpe:/:sapid",
+	"pid": "8656",
+	"pname": "sapid cmf",
+	"pcpe": "cpe:/a:sapid:sapid_cmf"
 }

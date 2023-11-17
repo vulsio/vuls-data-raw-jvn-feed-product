@@ -1,8 +1,8 @@
 {
-  "vid": "23479",
-  "vname": "aiohttp project",
-  "vcpe": "cpe:/:aiohttp_project",
-  "pid": "60847",
-  "pname": "aiohttp",
-  "pcpe": "cpe:/a:aiohttp_project:aiohttp"
+	"vid": "23479",
+	"vname": "aiohttp project",
+	"vcpe": "cpe:/:aiohttp_project",
+	"pid": "60847",
+	"pname": "aiohttp",
+	"pcpe": "cpe:/a:aiohttp_project:aiohttp"
 }

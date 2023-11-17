@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20292",
-  "pname": "IBM Security Identity Manager",
-  "pcpe": "cpe:/a:ibm:security_identity_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20292",
+	"pname": "IBM Security Identity Manager",
+	"pcpe": "cpe:/a:ibm:security_identity_manager"
 }

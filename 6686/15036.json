@@ -1,8 +1,8 @@
 {
-  "vid": "6686",
-  "vname": "SpringSource",
-  "vcpe": "cpe:/:springsource",
-  "pid": "15036",
-  "pname": "application management suite",
-  "pcpe": "cpe:/a:springsource:application_management_suite"
+	"vid": "6686",
+	"vname": "SpringSource",
+	"vcpe": "cpe:/:springsource",
+	"pid": "15036",
+	"pname": "application management suite",
+	"pcpe": "cpe:/a:springsource:application_management_suite"
 }

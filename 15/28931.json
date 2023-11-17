@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "28931",
-  "pname": "Oracle Communications Security Gateway",
-  "pcpe": "cpe:/a:oracle:communications_security_gateway"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "28931",
+	"pname": "Oracle Communications Security Gateway",
+	"pcpe": "cpe:/a:oracle:communications_security_gateway"
 }

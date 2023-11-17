@@ -1,8 +1,8 @@
 {
-  "vid": "2616",
-  "vname": "bpg-infotech",
-  "vcpe": "cpe:/:bpg-infotech",
-  "pid": "6412",
-  "pname": "content management system",
-  "pcpe": "cpe:/a:bpg-infotech:content_management_system"
+	"vid": "2616",
+	"vname": "bpg-infotech",
+	"vcpe": "cpe:/:bpg-infotech",
+	"pid": "6412",
+	"pname": "content management system",
+	"pcpe": "cpe:/a:bpg-infotech:content_management_system"
 }

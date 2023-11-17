@@ -1,8 +1,8 @@
 {
-  "vid": "8256",
-  "vname": "v3chat",
-  "vcpe": "cpe:/:v3chat",
-  "pid": "15806",
-  "pname": "v3 chat live support",
-  "pcpe": "cpe:/a:v3chat:v3_chat_live_support"
+	"vid": "8256",
+	"vname": "v3chat",
+	"vcpe": "cpe:/:v3chat",
+	"pid": "15806",
+	"pname": "v3 chat live support",
+	"pcpe": "cpe:/a:v3chat:v3_chat_live_support"
 }

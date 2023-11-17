@@ -1,8 +1,8 @@
 {
-  "vid": "228",
-  "vname": "Fedora Project",
-  "vcpe": "cpe:/:fedoraproject",
-  "pid": "824",
-  "pname": "Fedora Core",
-  "pcpe": "cpe:/o:fedoraproject:fedora_core"
+	"vid": "228",
+	"vname": "Fedora Project",
+	"vcpe": "cpe:/:fedoraproject",
+	"pid": "824",
+	"pname": "Fedora Core",
+	"pcpe": "cpe:/o:fedoraproject:fedora_core"
 }

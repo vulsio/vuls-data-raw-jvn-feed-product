@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "39895",
-  "pname": "Cisco SG220-26P ファームウェア",
-  "pcpe": "cpe:/o:cisco:sg220-26p_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "39895",
+	"pname": "Cisco SG220-26P ファームウェア",
+	"pcpe": "cpe:/o:cisco:sg220-26p_firmware"
 }

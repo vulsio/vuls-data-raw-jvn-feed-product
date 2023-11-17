@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "29276",
-  "pname": "eir D1000 モデム ファームウェア",
-  "pcpe": "cpe:/o:zyxel:eir_d1000_modem_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "29276",
+	"pname": "eir D1000 モデム ファームウェア",
+	"pcpe": "cpe:/o:zyxel:eir_d1000_modem_firmware"
 }

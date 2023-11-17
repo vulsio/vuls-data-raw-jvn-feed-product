@@ -1,8 +1,8 @@
 {
-  "vid": "644",
-  "vname": "Erik de Castro Lopo",
-  "vcpe": "cpe:/:mega-nerd",
-  "pid": "2757",
-  "pname": "libsndfile",
-  "pcpe": "cpe:/a:mega-nerd:libsndfile"
+	"vid": "644",
+	"vname": "Erik de Castro Lopo",
+	"vcpe": "cpe:/:mega-nerd",
+	"pid": "2757",
+	"pname": "libsndfile",
+	"pcpe": "cpe:/a:mega-nerd:libsndfile"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22193",
-  "vname": "株式会社ケービデバイス",
-  "vcpe": "cpe:/:misc",
-  "pid": "57100",
-  "pname": "KB-IRIP16A",
-  "pcpe": "cpe:/o:misc:kbdevice_kb-irip16a"
+	"vid": "22193",
+	"vname": "株式会社ケービデバイス",
+	"vcpe": "cpe:/:misc",
+	"pid": "57100",
+	"pname": "KB-IRIP16A",
+	"pcpe": "cpe:/o:misc:kbdevice_kb-irip16a"
 }

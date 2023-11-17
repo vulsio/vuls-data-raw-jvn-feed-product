@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "28405",
-  "pname": "SINUMERIK Integrate Access MyMachine/Ethernet",
-  "pcpe": "cpe:/a:siemens:sinumerik_integrate_access_mymachine%2Fethernet"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "28405",
+	"pname": "SINUMERIK Integrate Access MyMachine/Ethernet",
+	"pcpe": "cpe:/a:siemens:sinumerik_integrate_access_mymachine%2Fethernet"
 }

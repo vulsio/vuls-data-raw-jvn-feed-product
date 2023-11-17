@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "49928",
-  "pname": "TL-WR2041+ ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-wr2041%2b_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "49928",
+	"pname": "TL-WR2041+ ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-wr2041%2b_firmware"
 }

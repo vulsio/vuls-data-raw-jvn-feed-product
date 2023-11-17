@@ -1,8 +1,8 @@
 {
-  "vid": "24266",
-  "vname": "Google Maps Anywhere project",
-  "vcpe": "cpe:/:google_maps_anywhere_project",
-  "pid": "62702",
-  "pname": "Google Maps Anywhere",
-  "pcpe": "cpe:/a:google_maps_anywhere_project:google_maps_anywhere"
+	"vid": "24266",
+	"vname": "Google Maps Anywhere project",
+	"vcpe": "cpe:/:google_maps_anywhere_project",
+	"pid": "62702",
+	"pname": "Google Maps Anywhere",
+	"pcpe": "cpe:/a:google_maps_anywhere_project:google_maps_anywhere"
 }

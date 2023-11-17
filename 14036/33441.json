@@ -1,8 +1,8 @@
 {
-  "vid": "14036",
-  "vname": "Kakadu Software",
-  "vcpe": "cpe:/:kakadusoftware",
-  "pid": "33441",
-  "pname": "Kakadu SDK",
-  "pcpe": "cpe:/a:kakadusoftware:kakadu_sdk"
+	"vid": "14036",
+	"vname": "Kakadu Software",
+	"vcpe": "cpe:/:kakadusoftware",
+	"pid": "33441",
+	"pname": "Kakadu SDK",
+	"pcpe": "cpe:/a:kakadusoftware:kakadu_sdk"
 }

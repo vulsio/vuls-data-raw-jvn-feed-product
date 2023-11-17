@@ -1,8 +1,8 @@
 {
-  "vid": "1792",
-  "vname": "Zend Technologies Ltd.",
-  "vcpe": "cpe:/:zend",
-  "pid": "30209",
-  "pname": "zend-diactoros",
-  "pcpe": "cpe:/a:zend:diactoros"
+	"vid": "1792",
+	"vname": "Zend Technologies Ltd.",
+	"vcpe": "cpe:/:zend",
+	"pid": "30209",
+	"pname": "zend-diactoros",
+	"pcpe": "cpe:/a:zend:diactoros"
 }

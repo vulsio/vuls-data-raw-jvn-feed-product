@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "28138",
-  "pname": "ioLogik E1242",
-  "pcpe": "cpe:/h:moxa:iologik_e1242"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "28138",
+	"pname": "ioLogik E1242",
+	"pcpe": "cpe:/h:moxa:iologik_e1242"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1244",
-  "vname": "MoboTap",
-  "vcpe": "cpe:/:dolphin-browser",
-  "pid": "3996",
-  "pname": "Dolphin Browser CN",
-  "pcpe": "cpe:/a:dolphin-browser:dolphin_browser_cn"
+	"vid": "1244",
+	"vname": "MoboTap",
+	"vcpe": "cpe:/:dolphin-browser",
+	"pid": "3996",
+	"pname": "Dolphin Browser CN",
+	"pcpe": "cpe:/a:dolphin-browser:dolphin_browser_cn"
 }

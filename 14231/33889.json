@@ -1,8 +1,8 @@
 {
-  "vid": "14231",
-  "vname": "apk-parser project",
-  "vcpe": "cpe:/:apk-parser_project",
-  "pid": "33889",
-  "pname": "apk-parser",
-  "pcpe": "cpe:/a:apk-parser_project:apk-parser"
+	"vid": "14231",
+	"vname": "apk-parser project",
+	"vcpe": "cpe:/:apk-parser_project",
+	"pid": "33889",
+	"pname": "apk-parser",
+	"pcpe": "cpe:/a:apk-parser_project:apk-parser"
 }

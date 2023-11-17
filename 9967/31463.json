@@ -1,8 +1,8 @@
 {
-  "vid": "9967",
-  "vname": "Shenzhen Tenda Technology Co.,Ltd.",
-  "vcpe": "cpe:/:tenda",
-  "pid": "31463",
-  "pname": "AC18 ファームウェア",
-  "pcpe": "cpe:/o:tenda:ac18_firmware"
+	"vid": "9967",
+	"vname": "Shenzhen Tenda Technology Co.,Ltd.",
+	"vcpe": "cpe:/:tenda",
+	"pid": "31463",
+	"pname": "AC18 ファームウェア",
+	"pcpe": "cpe:/o:tenda:ac18_firmware"
 }

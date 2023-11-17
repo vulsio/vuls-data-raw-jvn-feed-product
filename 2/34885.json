@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "34885",
-  "pname": "Microsoft Research JavaScript Cryptography Library",
-  "pcpe": "cpe:/a:microsoft:research_javascript_cryptography_library"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "34885",
+	"pname": "Microsoft Research JavaScript Cryptography Library",
+	"pcpe": "cpe:/a:microsoft:research_javascript_cryptography_library"
 }

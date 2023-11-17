@@ -1,8 +1,8 @@
 {
-  "vid": "7517",
-  "vname": "securecomputing",
-  "vcpe": "cpe:/:securecomputing",
-  "pid": "14663",
-  "pname": "safeword remoteaccess",
-  "pcpe": "cpe:/a:securecomputing:safeword_remoteaccess"
+	"vid": "7517",
+	"vname": "securecomputing",
+	"vcpe": "cpe:/:securecomputing",
+	"pid": "14663",
+	"pname": "safeword remoteaccess",
+	"pcpe": "cpe:/a:securecomputing:safeword_remoteaccess"
 }

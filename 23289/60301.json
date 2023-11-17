@@ -1,8 +1,8 @@
 {
-  "vid": "23289",
-  "vname": "api-res-py project",
-  "vcpe": "cpe:/:api-res-py_project",
-  "pid": "60301",
-  "pname": "api-res-py",
-  "pcpe": "cpe:/a:api-res-py_project:api-res-py"
+	"vid": "23289",
+	"vname": "api-res-py project",
+	"vcpe": "cpe:/:api-res-py_project",
+	"pid": "60301",
+	"pname": "api-res-py",
+	"pcpe": "cpe:/a:api-res-py_project:api-res-py"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19081",
-  "vname": "Hillrom",
-  "vcpe": "cpe:/:hillrom",
-  "pid": "50162",
-  "pname": "Welch Allyn Vision Express",
-  "pcpe": "cpe:/a:hillrom:hillrom_welch_allyn_vision_express"
+	"vid": "19081",
+	"vname": "Hillrom",
+	"vcpe": "cpe:/:hillrom",
+	"pid": "50162",
+	"pname": "Welch Allyn Vision Express",
+	"pcpe": "cpe:/a:hillrom:hillrom_welch_allyn_vision_express"
 }

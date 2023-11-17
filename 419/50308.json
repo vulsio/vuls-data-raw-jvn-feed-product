@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "50308",
-  "pname": "500F ファームウェア",
-  "pcpe": "cpe:/o:netapp:500f_firmware"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "50308",
+	"pname": "500F ファームウェア",
+	"pcpe": "cpe:/o:netapp:500f_firmware"
 }

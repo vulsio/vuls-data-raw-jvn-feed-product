@@ -1,8 +1,8 @@
 {
-  "vid": "13669",
-  "vname": "DASAN Networks, Inc.",
-  "vcpe": "cpe:/:dasannetworks",
-  "pid": "37559",
-  "pname": "H665 ファームウェア",
-  "pcpe": "cpe:/o:dasannetworks:h665_firmware"
+	"vid": "13669",
+	"vname": "DASAN Networks, Inc.",
+	"vcpe": "cpe:/:dasannetworks",
+	"pid": "37559",
+	"pname": "H665 ファームウェア",
+	"pcpe": "cpe:/o:dasannetworks:h665_firmware"
 }

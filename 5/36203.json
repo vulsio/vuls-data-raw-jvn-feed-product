@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "36203",
-  "pname": "SDM 439 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sdm_439_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "36203",
+	"pname": "SDM 439 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sdm_439_firmware"
 }

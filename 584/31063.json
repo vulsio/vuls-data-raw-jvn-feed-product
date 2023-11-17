@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "31063",
-  "pname": "APOGEE PXC BACnet Automation コントローラファームウェア",
-  "pcpe": "cpe:/o:siemens:apogee_pxc_bacnet_automation_controller_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "31063",
+	"pname": "APOGEE PXC BACnet Automation コントローラファームウェア",
+	"pcpe": "cpe:/o:siemens:apogee_pxc_bacnet_automation_controller_firmware"
 }

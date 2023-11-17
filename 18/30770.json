@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "30770",
-  "pname": "IBM Security Identity Governance and Intelligence",
-  "pcpe": "cpe:/a:ibm:security_identity_governance_and_intelligence"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "30770",
+	"pname": "IBM Security Identity Governance and Intelligence",
+	"pcpe": "cpe:/a:ibm:security_identity_governance_and_intelligence"
 }

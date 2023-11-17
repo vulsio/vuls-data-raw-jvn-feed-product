@@ -1,8 +1,8 @@
 {
-  "vid": "23655",
-  "vname": "shiva-server project",
-  "vcpe": "cpe:/:shiva-server_project",
-  "pid": "61268",
-  "pname": "shiva-server",
-  "pcpe": "cpe:/a:shiva-server_project:shiva-server"
+	"vid": "23655",
+	"vname": "shiva-server project",
+	"vcpe": "cpe:/:shiva-server_project",
+	"pid": "61268",
+	"pname": "shiva-server",
+	"pcpe": "cpe:/a:shiva-server_project:shiva-server"
 }

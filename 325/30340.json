@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30340",
-  "pname": "Lenovo RackSwitch G8264CS ファームウェア",
-  "pcpe": "cpe:/o:lenovo:g8264cs_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30340",
+	"pname": "Lenovo RackSwitch G8264CS ファームウェア",
+	"pcpe": "cpe:/o:lenovo:g8264cs_firmware"
 }

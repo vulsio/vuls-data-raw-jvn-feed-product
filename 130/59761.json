@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "59761",
-  "pname": "celeron n3050 ファームウェア",
-  "pcpe": "cpe:/o:intel:celeron_n3050_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "59761",
+	"pname": "celeron n3050 ファームウェア",
+	"pcpe": "cpe:/o:intel:celeron_n3050_firmware"
 }

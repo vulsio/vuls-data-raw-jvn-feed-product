@@ -1,8 +1,8 @@
 {
-  "vid": "19801",
-  "vname": "Multilaser",
-  "vcpe": "cpe:/:multilaser",
-  "pid": "61141",
-  "pname": "RE057 ファームウェア",
-  "pcpe": "cpe:/o:multilaser:re057_firmware"
+	"vid": "19801",
+	"vname": "Multilaser",
+	"vcpe": "cpe:/:multilaser",
+	"pid": "61141",
+	"pname": "RE057 ファームウェア",
+	"pcpe": "cpe:/o:multilaser:re057_firmware"
 }

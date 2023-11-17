@@ -1,8 +1,8 @@
 {
-  "vid": "24033",
-  "vname": "automationbroker",
-  "vcpe": "cpe:/:automationbroker",
-  "pid": "62159",
-  "pname": "apb",
-  "pcpe": "cpe:/a:automationbroker:apb"
+	"vid": "24033",
+	"vname": "automationbroker",
+	"vcpe": "cpe:/:automationbroker",
+	"pid": "62159",
+	"pname": "apb",
+	"pcpe": "cpe:/a:automationbroker:apb"
 }

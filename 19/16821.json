@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "16821",
-  "pname": "Cisco ASA 1000V クラウド ファイアウォール",
-  "pcpe": "cpe:/h:cisco:asa_1000v_cloud_firewall"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "16821",
+	"pname": "Cisco ASA 1000V クラウド ファイアウォール",
+	"pcpe": "cpe:/h:cisco:asa_1000v_cloud_firewall"
 }

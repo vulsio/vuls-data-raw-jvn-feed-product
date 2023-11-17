@@ -1,8 +1,8 @@
 {
-  "vid": "14",
-  "vname": "Samba Project",
-  "vcpe": "cpe:/:samba",
-  "pid": "14482",
-  "pname": "samba server",
-  "pcpe": "cpe:/a:samba:samba_server"
+	"vid": "14",
+	"vname": "Samba Project",
+	"vcpe": "cpe:/:samba",
+	"pid": "14482",
+	"pname": "samba server",
+	"pcpe": "cpe:/a:samba:samba_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6785",
-  "vname": "phpbb wordsearch",
-  "vcpe": "cpe:/:phpbb_wordsearch",
-  "pid": "13625",
-  "pname": "phpbb wordsearch",
-  "pcpe": "cpe:/a:phpbb_wordsearch:phpbb_wordsearch"
+	"vid": "6785",
+	"vname": "phpbb wordsearch",
+	"vcpe": "cpe:/:phpbb_wordsearch",
+	"pid": "13625",
+	"pname": "phpbb wordsearch",
+	"pcpe": "cpe:/a:phpbb_wordsearch:phpbb_wordsearch"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "23565",
-  "pname": "DCS-931L ファームウェア",
-  "pcpe": "cpe:/o:dlink:dcs-931l_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "23565",
+	"pname": "DCS-931L ファームウェア",
+	"pcpe": "cpe:/o:dlink:dcs-931l_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63623",
-  "pname": "6gk6108-4am00-2da2 ファームウェア",
-  "pcpe": "cpe:/o:siemens:6gk6108-4am00-2da2_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63623",
+	"pname": "6gk6108-4am00-2da2 ファームウェア",
+	"pcpe": "cpe:/o:siemens:6gk6108-4am00-2da2_firmware"
 }

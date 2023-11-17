@@ -1,8 +1,8 @@
 {
-  "vid": "9121",
-  "vname": "CGI",
-  "vcpe": "cpe:/:cgi",
-  "pid": "18426",
-  "pname": "Logica HotScan",
-  "pcpe": "cpe:/a:cgi:hotscan"
+	"vid": "9121",
+	"vname": "CGI",
+	"vcpe": "cpe:/:cgi",
+	"pid": "18426",
+	"pname": "Logica HotScan",
+	"pcpe": "cpe:/a:cgi:hotscan"
 }

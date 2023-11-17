@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2424",
-  "pname": "OpenSolaris",
-  "pcpe": "cpe:/o:oracle:opensolaris"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2424",
+	"pname": "OpenSolaris",
+	"pcpe": "cpe:/o:oracle:opensolaris"
 }

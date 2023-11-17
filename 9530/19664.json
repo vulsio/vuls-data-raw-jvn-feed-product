@@ -1,8 +1,8 @@
 {
-  "vid": "9530",
-  "vname": "ImageCMS",
-  "vcpe": "cpe:/:imagecms",
-  "pid": "19664",
-  "pname": "ImageCMS",
-  "pcpe": "cpe:/a:imagecms:imagecms"
+	"vid": "9530",
+	"vname": "ImageCMS",
+	"vcpe": "cpe:/:imagecms",
+	"pid": "19664",
+	"pname": "ImageCMS",
+	"pcpe": "cpe:/a:imagecms:imagecms"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15700",
-  "vname": "LiquidVPN",
-  "vcpe": "cpe:/:liquidvpn",
-  "pid": "36523",
-  "pname": "LiquidVPN",
-  "pcpe": "cpe:/a:liquidvpn:liquidvpn"
+	"vid": "15700",
+	"vname": "LiquidVPN",
+	"vcpe": "cpe:/:liquidvpn",
+	"pid": "36523",
+	"pname": "LiquidVPN",
+	"pcpe": "cpe:/a:liquidvpn:liquidvpn"
 }

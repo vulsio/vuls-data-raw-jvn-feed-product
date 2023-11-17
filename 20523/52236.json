@@ -1,8 +1,8 @@
 {
-  "vid": "20523",
-  "vname": "MockServer",
-  "vcpe": "cpe:/:mock-server",
-  "pid": "52236",
-  "pname": "MockServer",
-  "pcpe": "cpe:/a:mock-server:mockserver"
+	"vid": "20523",
+	"vname": "MockServer",
+	"vcpe": "cpe:/:mock-server",
+	"pid": "52236",
+	"pname": "MockServer",
+	"pcpe": "cpe:/a:mock-server:mockserver"
 }

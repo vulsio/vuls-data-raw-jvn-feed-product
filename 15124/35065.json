@@ -1,8 +1,8 @@
 {
-  "vid": "15124",
-  "vname": "Pharos Architectural Controls",
-  "vcpe": "cpe:/:pharoscontrols",
-  "pid": "35065",
-  "pname": "Pharos ファームウェア",
-  "pcpe": "cpe:/o:pharoscontrols:pharos_firmware"
+	"vid": "15124",
+	"vname": "Pharos Architectural Controls",
+	"vcpe": "cpe:/:pharoscontrols",
+	"pid": "35065",
+	"pname": "Pharos ファームウェア",
+	"pcpe": "cpe:/o:pharoscontrols:pharos_firmware"
 }

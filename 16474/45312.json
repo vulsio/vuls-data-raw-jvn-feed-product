@@ -1,8 +1,8 @@
 {
-  "vid": "16474",
-  "vname": "Openfind",
-  "vcpe": "cpe:/:openfind",
-  "pid": "45312",
-  "pname": "MailGates",
-  "pcpe": "cpe:/a:openfind:mailgates"
+	"vid": "16474",
+	"vname": "Openfind",
+	"vcpe": "cpe:/:openfind",
+	"pid": "45312",
+	"pname": "MailGates",
+	"pcpe": "cpe:/a:openfind:mailgates"
 }

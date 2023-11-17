@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "62268",
-  "pname": "wireless-ac 9461 ファームウェア",
-  "pcpe": "cpe:/o:intel:wireless-ac_9461_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "62268",
+	"pname": "wireless-ac 9461 ファームウェア",
+	"pcpe": "cpe:/o:intel:wireless-ac_9461_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "55999",
-  "pname": "NGINX Controller API Management",
-  "pcpe": "cpe:/a:f5:nginx_controller_api_management"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "55999",
+	"pname": "NGINX Controller API Management",
+	"pcpe": "cpe:/a:f5:nginx_controller_api_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "57583",
-  "pname": "HP Elite Dragonfly G2 Notebook PC ファームウェア",
-  "pcpe": "cpe:/o:hp:elite_dragonfly_g2_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "57583",
+	"pname": "HP Elite Dragonfly G2 Notebook PC ファームウェア",
+	"pcpe": "cpe:/o:hp:elite_dragonfly_g2_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "41599",
-  "pname": "DIR-842 C1 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dir-842_c1_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "41599",
+	"pname": "DIR-842 C1 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dir-842_c1_firmware"
 }

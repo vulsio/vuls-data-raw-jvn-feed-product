@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "25204",
-  "pname": "Midas Black ファームウェア",
-  "pcpe": "cpe:/o:honeywell:midas_black_firmware"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "25204",
+	"pname": "Midas Black ファームウェア",
+	"pcpe": "cpe:/o:honeywell:midas_black_firmware"
 }

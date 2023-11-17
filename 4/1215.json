@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "1215",
-  "pname": "HP Linux Imaging and Printing",
-  "pcpe": "cpe:/a:hp:linux_imaging_and_printing_project"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "1215",
+	"pname": "HP Linux Imaging and Printing",
+	"pcpe": "cpe:/a:hp:linux_imaging_and_printing_project"
 }

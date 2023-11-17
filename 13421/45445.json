@@ -1,8 +1,8 @@
 {
-  "vid": "13421",
-  "vname": "Auth0 Inc.",
-  "vcpe": "cpe:/:auth0",
-  "pid": "45445",
-  "pname": "express-jwt",
-  "pcpe": "cpe:/a:auth0:express-jwt"
+	"vid": "13421",
+	"vname": "Auth0 Inc.",
+	"vcpe": "cpe:/:auth0",
+	"pid": "45445",
+	"pname": "express-jwt",
+	"pcpe": "cpe:/a:auth0:express-jwt"
 }

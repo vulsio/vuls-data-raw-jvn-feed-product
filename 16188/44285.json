@@ -1,8 +1,8 @@
 {
-  "vid": "16188",
-  "vname": "HMS Industrial Networks AB",
-  "vcpe": "cpe:/:hms-networks",
-  "pid": "44285",
-  "pname": "eWON Cosy ファームウェア",
-  "pcpe": "cpe:/o:hms-networks:ewon_cosy_firmware"
+	"vid": "16188",
+	"vname": "HMS Industrial Networks AB",
+	"vcpe": "cpe:/:hms-networks",
+	"pid": "44285",
+	"pname": "eWON Cosy ファームウェア",
+	"pcpe": "cpe:/o:hms-networks:ewon_cosy_firmware"
 }

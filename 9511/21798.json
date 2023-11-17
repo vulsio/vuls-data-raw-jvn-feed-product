@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "21798",
-  "pname": "DVR DS-7204",
-  "pcpe": "cpe:/h:hikvision:dvr_ds-7204"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "21798",
+	"pname": "DVR DS-7204",
+	"pcpe": "cpe:/h:hikvision:dvr_ds-7204"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15557",
-  "vname": "PgPool Global Development Group",
-  "vcpe": "cpe:/:pgpool",
-  "pid": "36169",
-  "pname": "PgpoolAdmin",
-  "pcpe": "cpe:/a:pgpool:pgpooladmin"
+	"vid": "15557",
+	"vname": "PgPool Global Development Group",
+	"vcpe": "cpe:/:pgpool",
+	"pid": "36169",
+	"pname": "PgpoolAdmin",
+	"pcpe": "cpe:/a:pgpool:pgpooladmin"
 }

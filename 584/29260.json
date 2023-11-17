@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29260",
-  "pname": "SITOP UPS1600 PROFINET ファームウェア",
-  "pcpe": "cpe:/o:siemens:ups1600_profinet_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29260",
+	"pname": "SITOP UPS1600 PROFINET ファームウェア",
+	"pcpe": "cpe:/o:siemens:ups1600_profinet_firmware"
 }

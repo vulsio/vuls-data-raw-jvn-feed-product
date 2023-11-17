@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "19681",
-  "pname": "HP Insight Control Server Deployment",
-  "pcpe": "cpe:/a:hp:insight_control_server_deployment"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "19681",
+	"pname": "HP Insight Control Server Deployment",
+	"pcpe": "cpe:/a:hp:insight_control_server_deployment"
 }

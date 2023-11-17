@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "26685",
-  "pname": "Sophos Mobile Control EAS プロキシ",
-  "pcpe": "cpe:/a:sophos:mobile_control_eas_proxy"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "26685",
+	"pname": "Sophos Mobile Control EAS プロキシ",
+	"pcpe": "cpe:/a:sophos:mobile_control_eas_proxy"
 }

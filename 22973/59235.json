@@ -1,8 +1,8 @@
 {
-  "vid": "22973",
-  "vname": "insightsoftware",
-  "vcpe": "cpe:/:insightsoftware",
-  "pid": "59235",
-  "pname": "magnitude simba amazon athena jdbc driver",
-  "pcpe": "cpe:/a:insightsoftware:magnitude_simba_amazon_athena_jdbc_driver"
+	"vid": "22973",
+	"vname": "insightsoftware",
+	"vcpe": "cpe:/:insightsoftware",
+	"pid": "59235",
+	"pname": "magnitude simba amazon athena jdbc driver",
+	"pcpe": "cpe:/a:insightsoftware:magnitude_simba_amazon_athena_jdbc_driver"
 }

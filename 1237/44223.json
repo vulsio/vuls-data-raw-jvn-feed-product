@@ -1,8 +1,8 @@
 {
-  "vid": "1237",
-  "vname": "NetEase",
-  "vcpe": "cpe:/:netease",
-  "pid": "44223",
-  "pname": "pomelo-monitor",
-  "pcpe": "cpe:/a:netease:pomelo-monitor"
+	"vid": "1237",
+	"vname": "NetEase",
+	"vcpe": "cpe:/:netease",
+	"pid": "44223",
+	"pname": "pomelo-monitor",
+	"pcpe": "cpe:/a:netease:pomelo-monitor"
 }

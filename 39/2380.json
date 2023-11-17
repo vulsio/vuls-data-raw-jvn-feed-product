@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "2380",
-  "pname": "Adobe Director",
-  "pcpe": "cpe:/a:adobe:director"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "2380",
+	"pname": "Adobe Director",
+	"pcpe": "cpe:/a:adobe:director"
 }

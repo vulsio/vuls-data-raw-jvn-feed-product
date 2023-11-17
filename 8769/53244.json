@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "53244",
-  "pname": "TL-R400S ファームウェア",
-  "pcpe": "cpe:/o:qnap:tl-r400s_firmware"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "53244",
+	"pname": "TL-R400S ファームウェア",
+	"pcpe": "cpe:/o:qnap:tl-r400s_firmware"
 }

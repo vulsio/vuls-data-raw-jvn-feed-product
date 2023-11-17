@@ -1,8 +1,8 @@
 {
-  "vid": "18819",
-  "vname": "日立エナジー (旧 日立ABBパワーグリッド)",
-  "vcpe": "cpe:/:hitachi_abb_power_grids",
-  "pid": "46986",
-  "pname": "AFS660",
-  "pcpe": "cpe:/a:hitachi_abb_power_grids:afs660"
+	"vid": "18819",
+	"vname": "日立エナジー (旧 日立ABBパワーグリッド)",
+	"vcpe": "cpe:/:hitachi_abb_power_grids",
+	"pid": "46986",
+	"pname": "AFS660",
+	"pcpe": "cpe:/a:hitachi_abb_power_grids:afs660"
 }

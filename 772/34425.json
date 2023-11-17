@@ -1,8 +1,8 @@
 {
-  "vid": "772",
-  "vname": "OWASP",
-  "vcpe": "cpe:/:owasp",
-  "pid": "34425",
-  "pname": "Dependency-Check",
-  "pcpe": "cpe:/a:owasp:dependency-check"
+	"vid": "772",
+	"vname": "OWASP",
+	"vcpe": "cpe:/:owasp",
+	"pid": "34425",
+	"pname": "Dependency-Check",
+	"pcpe": "cpe:/a:owasp:dependency-check"
 }

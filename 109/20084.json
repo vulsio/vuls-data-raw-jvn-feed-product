@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "20084",
-  "pname": "FUJITSU Integrated System HA Database Ready",
-  "pcpe": "cpe:/a:fujitsu:integrated_system_ha_database_ready"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "20084",
+	"pname": "FUJITSU Integrated System HA Database Ready",
+	"pcpe": "cpe:/a:fujitsu:integrated_system_ha_database_ready"
 }

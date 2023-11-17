@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1356",
-  "pname": "JP1/Cm2/Operations Assist",
-  "pcpe": "cpe:/a:hitachi:jp1_cm2_operations_assist"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1356",
+	"pname": "JP1/Cm2/Operations Assist",
+	"pcpe": "cpe:/a:hitachi:jp1_cm2_operations_assist"
 }

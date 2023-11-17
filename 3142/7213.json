@@ -1,8 +1,8 @@
 {
-  "vid": "3142",
-  "vname": "dbscripts",
-  "vcpe": "cpe:/:dbscripts",
-  "pid": "7213",
-  "pname": "dbguestbook",
-  "pcpe": "cpe:/a:dbscripts:dbguestbook"
+	"vid": "3142",
+	"vname": "dbscripts",
+	"vcpe": "cpe:/:dbscripts",
+	"pid": "7213",
+	"pname": "dbguestbook",
+	"pcpe": "cpe:/a:dbscripts:dbguestbook"
 }

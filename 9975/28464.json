@@ -1,8 +1,8 @@
 {
-  "vid": "9975",
-  "vname": "OpenDaylight Project",
-  "vcpe": "cpe:/:opendaylight",
-  "pid": "28464",
-  "pname": "l2switch",
-  "pcpe": "cpe:/a:opendaylight:l2switch"
+	"vid": "9975",
+	"vname": "OpenDaylight Project",
+	"vcpe": "cpe:/:opendaylight",
+	"pid": "28464",
+	"pname": "l2switch",
+	"pcpe": "cpe:/a:opendaylight:l2switch"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5417",
-  "vname": "macrovision",
-  "vcpe": "cpe:/:macrovision",
-  "pid": "11111",
-  "pname": "installfromtheweb",
-  "pcpe": "cpe:/a:macrovision:installfromtheweb"
+	"vid": "5417",
+	"vname": "macrovision",
+	"vcpe": "cpe:/:macrovision",
+	"pid": "11111",
+	"pname": "installfromtheweb",
+	"pcpe": "cpe:/a:macrovision:installfromtheweb"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "44666",
-  "pname": "WNR618 ファームウェア",
-  "pcpe": "cpe:/o:netgear:wnr618_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "44666",
+	"pname": "WNR618 ファームウェア",
+	"pcpe": "cpe:/o:netgear:wnr618_firmware"
 }

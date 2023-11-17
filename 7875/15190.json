@@ -1,8 +1,8 @@
 {
-  "vid": "7875",
-  "vname": "swsoft",
-  "vcpe": "cpe:/:swsoft",
-  "pid": "15190",
-  "pname": "plesk control panel",
-  "pcpe": "cpe:/a:swsoft:plesk_control_panel"
+	"vid": "7875",
+	"vname": "swsoft",
+	"vcpe": "cpe:/:swsoft",
+	"pid": "15190",
+	"pname": "plesk control panel",
+	"pcpe": "cpe:/a:swsoft:plesk_control_panel"
 }

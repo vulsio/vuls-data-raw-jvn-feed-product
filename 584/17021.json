@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "17021",
-  "pname": "SIMATIC WinCC (TIAポータル)",
-  "pcpe": "cpe:/a:siemens:simatic_wincc_%28tia_portal%29"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "17021",
+	"pname": "SIMATIC WinCC (TIAポータル)",
+	"pcpe": "cpe:/a:siemens:simatic_wincc_%28tia_portal%29"
 }

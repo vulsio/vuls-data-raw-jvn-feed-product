@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "1056",
-  "pname": "GnuTLS",
-  "pcpe": "cpe:/a:gnu:gnutls"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "1056",
+	"pname": "GnuTLS",
+	"pcpe": "cpe:/a:gnu:gnutls"
 }

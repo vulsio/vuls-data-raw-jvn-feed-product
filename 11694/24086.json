@@ -1,8 +1,8 @@
 {
-  "vid": "11694",
-  "vname": "Swisscom AG",
-  "vcpe": "cpe:/:swisscom",
-  "pid": "24086",
-  "pname": "Centro Grande (ADB) DSL ファームウェア",
-  "pcpe": "cpe:/o:swisscom:centro_grande_%28adb%29_dsl_firmware"
+	"vid": "11694",
+	"vname": "Swisscom AG",
+	"vcpe": "cpe:/:swisscom",
+	"pid": "24086",
+	"pname": "Centro Grande (ADB) DSL ファームウェア",
+	"pcpe": "cpe:/o:swisscom:centro_grande_%28adb%29_dsl_firmware"
 }

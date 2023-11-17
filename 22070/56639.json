@@ -1,8 +1,8 @@
 {
-  "vid": "22070",
-  "vname": "Karma project",
-  "vcpe": "cpe:/:karma_project",
-  "pid": "56639",
-  "pname": "Karma",
-  "pcpe": "cpe:/a:karma_project:karma"
+	"vid": "22070",
+	"vname": "Karma project",
+	"vcpe": "cpe:/:karma_project",
+	"pid": "56639",
+	"pname": "Karma",
+	"pcpe": "cpe:/a:karma_project:karma"
 }

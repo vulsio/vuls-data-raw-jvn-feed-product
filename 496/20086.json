@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "20086",
-  "pname": "BIG-IP Advanced Firewall Manager (AFM)",
-  "pcpe": "cpe:/a:f5:big-ip_advanced_firewall_manager"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "20086",
+	"pname": "BIG-IP Advanced Firewall Manager (AFM)",
+	"pcpe": "cpe:/a:f5:big-ip_advanced_firewall_manager"
 }

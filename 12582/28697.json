@@ -1,8 +1,8 @@
 {
-  "vid": "12582",
-  "vname": "yaml-cpp project",
-  "vcpe": "cpe:/:yaml-cpp_project",
-  "pid": "28697",
-  "pname": "yaml-cpp",
-  "pcpe": "cpe:/a:yaml-cpp_project:yaml-cpp"
+	"vid": "12582",
+	"vname": "yaml-cpp project",
+	"vcpe": "cpe:/:yaml-cpp_project",
+	"pid": "28697",
+	"pname": "yaml-cpp",
+	"pcpe": "cpe:/a:yaml-cpp_project:yaml-cpp"
 }

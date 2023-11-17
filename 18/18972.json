@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "18972",
-  "pname": "IBM Maximo for Nuclear Power",
-  "pcpe": "cpe:/a:ibm:maximo_for_nuclear_power"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "18972",
+	"pname": "IBM Maximo for Nuclear Power",
+	"pcpe": "cpe:/a:ibm:maximo_for_nuclear_power"
 }

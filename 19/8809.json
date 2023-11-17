@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "8809",
-  "pname": "ip phone 7940",
-  "pcpe": "cpe:/h:cisco:ip_phone_7940"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "8809",
+	"pname": "ip phone 7940",
+	"pcpe": "cpe:/h:cisco:ip_phone_7940"
 }

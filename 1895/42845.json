@@ -1,8 +1,8 @@
 {
-  "vid": "1895",
-  "vname": "エマソン",
-  "vcpe": "cpe:/:emerson",
-  "pid": "42845",
-  "pname": "RX3I CPL410 ファームウェア",
-  "pcpe": "cpe:/o:emerson:rx3i_cpl410_firmware"
+	"vid": "1895",
+	"vname": "エマソン",
+	"vcpe": "cpe:/:emerson",
+	"pid": "42845",
+	"pname": "RX3I CPL410 ファームウェア",
+	"pcpe": "cpe:/o:emerson:rx3i_cpl410_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19132",
-  "vname": "ThroughTek Co., Ltd.",
-  "vcpe": "cpe:/:misc",
-  "pid": "48055",
-  "pname": "P2P Software Development Kit",
-  "pcpe": "cpe:/a:misc:throughtek_p2p_software_development_kit"
+	"vid": "19132",
+	"vname": "ThroughTek Co., Ltd.",
+	"vcpe": "cpe:/:misc",
+	"pid": "48055",
+	"pname": "P2P Software Development Kit",
+	"pcpe": "cpe:/a:misc:throughtek_p2p_software_development_kit"
 }

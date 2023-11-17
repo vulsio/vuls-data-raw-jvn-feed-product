@@ -1,8 +1,8 @@
 {
-  "vid": "17626",
-  "vname": "Jersey project",
-  "vcpe": "cpe:/:jersey_project",
-  "pid": "42266",
-  "pname": "Jersey",
-  "pcpe": "cpe:/a:jersey_project:jersey"
+	"vid": "17626",
+	"vname": "Jersey project",
+	"vcpe": "cpe:/:jersey_project",
+	"pid": "42266",
+	"pname": "Jersey",
+	"pcpe": "cpe:/a:jersey_project:jersey"
 }

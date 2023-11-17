@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "35986",
-  "pname": "Oracle WebCenter Interaction Portal",
-  "pcpe": "cpe:/a:oracle:webcenter_interaction"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "35986",
+	"pname": "Oracle WebCenter Interaction Portal",
+	"pcpe": "cpe:/a:oracle:webcenter_interaction"
 }

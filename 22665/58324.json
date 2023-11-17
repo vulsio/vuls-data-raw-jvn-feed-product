@@ -1,8 +1,8 @@
 {
-  "vid": "22665",
-  "vname": "nginxproxymanager",
-  "vcpe": "cpe:/:nginxproxymanager",
-  "pid": "58324",
-  "pname": "nginx proxy manager",
-  "pcpe": "cpe:/a:nginxproxymanager:nginx_proxy_manager"
+	"vid": "22665",
+	"vname": "nginxproxymanager",
+	"vcpe": "cpe:/:nginxproxymanager",
+	"pid": "58324",
+	"pname": "nginx proxy manager",
+	"pcpe": "cpe:/a:nginxproxymanager:nginx_proxy_manager"
 }

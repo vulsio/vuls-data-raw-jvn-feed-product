@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "4934",
-  "pname": "unified videoconferencing system 3522 basic rate interface gateway",
-  "pcpe": "cpe:/h:cisco:unified_videoconferencing_system_3522_basic_rate_interface_gateway"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "4934",
+	"pname": "unified videoconferencing system 3522 basic rate interface gateway",
+	"pcpe": "cpe:/h:cisco:unified_videoconferencing_system_3522_basic_rate_interface_gateway"
 }

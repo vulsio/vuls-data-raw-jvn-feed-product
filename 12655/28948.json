@@ -1,8 +1,8 @@
 {
-  "vid": "12655",
-  "vname": "WIFICAM",
-  "vcpe": "cpe:/:wificam",
-  "pid": "28948",
-  "pname": "Wireless IP Camera (P2P) WIFICAM ファームウェア",
-  "pcpe": "cpe:/o:wificam:wireless_ip_camera_%28p2p%29_firmware"
+	"vid": "12655",
+	"vname": "WIFICAM",
+	"vcpe": "cpe:/:wificam",
+	"pid": "28948",
+	"pname": "Wireless IP Camera (P2P) WIFICAM ファームウェア",
+	"pcpe": "cpe:/o:wificam:wireless_ip_camera_%28p2p%29_firmware"
 }

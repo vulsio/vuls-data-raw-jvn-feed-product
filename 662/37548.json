@@ -1,8 +1,8 @@
 {
-  "vid": "662",
-  "vname": "ERLANG",
-  "vcpe": "cpe:/:erlang",
-  "pid": "37548",
-  "pname": "Rebar3",
-  "pcpe": "cpe:/a:erlang:rebar3"
+	"vid": "662",
+	"vname": "ERLANG",
+	"vcpe": "cpe:/:erlang",
+	"pid": "37548",
+	"pname": "Rebar3",
+	"pcpe": "cpe:/a:erlang:rebar3"
 }

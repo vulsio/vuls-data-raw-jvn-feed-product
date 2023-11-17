@@ -1,8 +1,8 @@
 {
-  "vid": "17537",
-  "vname": "Walton",
-  "vcpe": "cpe:/:waltonbd",
-  "pid": "41977",
-  "pname": "Primo G3 ファームウェア",
-  "pcpe": "cpe:/o:waltonbd:primo_g3_firmware"
+	"vid": "17537",
+	"vname": "Walton",
+	"vcpe": "cpe:/:waltonbd",
+	"pid": "41977",
+	"pname": "Primo G3 ファームウェア",
+	"pcpe": "cpe:/o:waltonbd:primo_g3_firmware"
 }

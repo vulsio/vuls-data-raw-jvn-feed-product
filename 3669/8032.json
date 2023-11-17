@@ -1,8 +1,8 @@
 {
-  "vid": "3669",
-  "vname": "feindt computerservice",
-  "vcpe": "cpe:/:feindt_computerservice",
-  "pid": "8032",
-  "pname": "news-script",
-  "pcpe": "cpe:/a:feindt_computerservice:news-script"
+	"vid": "3669",
+	"vname": "feindt computerservice",
+	"vcpe": "cpe:/:feindt_computerservice",
+	"pid": "8032",
+	"pname": "news-script",
+	"pcpe": "cpe:/a:feindt_computerservice:news-script"
 }

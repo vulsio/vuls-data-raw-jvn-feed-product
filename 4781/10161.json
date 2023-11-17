@@ -1,8 +1,8 @@
 {
-  "vid": "4781",
-  "vname": "inotify",
-  "vcpe": "cpe:/:inotify",
-  "pid": "10161",
-  "pname": "inotify-tools",
-  "pcpe": "cpe:/a:inotify:inotify-tools"
+	"vid": "4781",
+	"vname": "inotify",
+	"vcpe": "cpe:/:inotify",
+	"pid": "10161",
+	"pname": "inotify-tools",
+	"pcpe": "cpe:/a:inotify:inotify-tools"
 }

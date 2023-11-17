@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "34478",
-  "pname": "IntelliVue Patient Monitors MX800 ファームウェア",
-  "pcpe": "cpe:/o:philips:intellivue_patient_monitors_mx800_firmware"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "34478",
+	"pname": "IntelliVue Patient Monitors MX800 ファームウェア",
+	"pcpe": "cpe:/o:philips:intellivue_patient_monitors_mx800_firmware"
 }

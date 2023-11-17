@@ -1,8 +1,8 @@
 {
-  "vid": "15673",
-  "vname": "OpenRefine",
-  "vcpe": "cpe:/:openrefine",
-  "pid": "36458",
-  "pname": "OpenRefine",
-  "pcpe": "cpe:/a:openrefine:openrefine"
+	"vid": "15673",
+	"vname": "OpenRefine",
+	"vcpe": "cpe:/:openrefine",
+	"pid": "36458",
+	"pname": "OpenRefine",
+	"pcpe": "cpe:/a:openrefine:openrefine"
 }

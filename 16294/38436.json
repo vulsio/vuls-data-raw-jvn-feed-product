@@ -1,8 +1,8 @@
 {
-  "vid": "16294",
-  "vname": "Billion",
-  "vcpe": "cpe:/:billion",
-  "pid": "38436",
-  "pname": "5200W-T ファームウェア",
-  "pcpe": "cpe:/o:billion:5200w-t_firmware"
+	"vid": "16294",
+	"vname": "Billion",
+	"vcpe": "cpe:/:billion",
+	"pid": "38436",
+	"pname": "5200W-T ファームウェア",
+	"pcpe": "cpe:/o:billion:5200w-t_firmware"
 }

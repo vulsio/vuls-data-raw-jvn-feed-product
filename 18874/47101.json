@@ -1,8 +1,8 @@
 {
-  "vid": "18874",
-  "vname": "IP room",
-  "vcpe": "cpe:/:iproom",
-  "pid": "47101",
-  "pname": "MMC+ Server",
-  "pcpe": "cpe:/a:iproom:mmc%2b"
+	"vid": "18874",
+	"vname": "IP room",
+	"vcpe": "cpe:/:iproom",
+	"pid": "47101",
+	"pname": "MMC+ Server",
+	"pcpe": "cpe:/a:iproom:mmc%2b"
 }

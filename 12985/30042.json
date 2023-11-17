@@ -1,8 +1,8 @@
 {
-  "vid": "12985",
-  "vname": "SMA Solar Technology AG",
-  "vcpe": "cpe:/:sma_solar_technology_ag",
-  "pid": "30042",
-  "pname": "Sunny Explorer",
-  "pcpe": "cpe:/a:sma_solar_technology_ag:sunny_explorer"
+	"vid": "12985",
+	"vname": "SMA Solar Technology AG",
+	"vcpe": "cpe:/:sma_solar_technology_ag",
+	"pid": "30042",
+	"pname": "Sunny Explorer",
+	"pcpe": "cpe:/a:sma_solar_technology_ag:sunny_explorer"
 }

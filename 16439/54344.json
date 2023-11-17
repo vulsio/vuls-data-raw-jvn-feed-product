@@ -1,8 +1,8 @@
 {
-  "vid": "16439",
-  "vname": "Gallagher Group Limited",
-  "vcpe": "cpe:/:gallagher",
-  "pid": "54344",
-  "pname": "Command Centre Mobile Connect",
-  "pcpe": "cpe:/a:gallagher:command_centre_mobile_connect"
+	"vid": "16439",
+	"vname": "Gallagher Group Limited",
+	"vcpe": "cpe:/:gallagher",
+	"pid": "54344",
+	"pname": "Command Centre Mobile Connect",
+	"pcpe": "cpe:/a:gallagher:command_centre_mobile_connect"
 }

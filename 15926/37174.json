@@ -1,8 +1,8 @@
 {
-  "vid": "15926",
-  "vname": "IP History Logs project",
-  "vcpe": "cpe:/:ip_history_logs_project",
-  "pid": "37174",
-  "pname": "IP History Logs プラグイン",
-  "pcpe": "cpe:/a:ip_history_logs_project:ip_history_logs"
+	"vid": "15926",
+	"vname": "IP History Logs project",
+	"vcpe": "cpe:/:ip_history_logs_project",
+	"pid": "37174",
+	"pname": "IP History Logs プラグイン",
+	"pcpe": "cpe:/a:ip_history_logs_project:ip_history_logs"
 }

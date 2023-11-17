@@ -1,8 +1,8 @@
 {
-  "vid": "94",
-  "vname": "Joomla!",
-  "vcpe": "cpe:/:joomla",
-  "pid": "10563",
-  "pname": "com scheduling component",
-  "pcpe": "cpe:/a:joomla:com_scheduling_component"
+	"vid": "94",
+	"vname": "Joomla!",
+	"vcpe": "cpe:/:joomla",
+	"pid": "10563",
+	"pname": "com scheduling component",
+	"pcpe": "cpe:/a:joomla:com_scheduling_component"
 }

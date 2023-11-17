@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "55911",
-  "pname": "Solutions Enabler Virtual Appliance",
-  "pcpe": "cpe:/a:dell:solutions_enabler_virtual_appliance"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "55911",
+	"pname": "Solutions Enabler Virtual Appliance",
+	"pcpe": "cpe:/a:dell:solutions_enabler_virtual_appliance"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "12118",
-  "pname": "netware ftp server",
-  "pcpe": "cpe:/a:novell:netware_ftp_server"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "12118",
+	"pname": "netware ftp server",
+	"pcpe": "cpe:/a:novell:netware_ftp_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6457",
-  "vname": "Marvell",
-  "vcpe": "cpe:/:marvell",
-  "pid": "46199",
-  "pname": "QConvergeConsole",
-  "pcpe": "cpe:/a:marvell:qconvergeconsole"
+	"vid": "6457",
+	"vname": "Marvell",
+	"vcpe": "cpe:/:marvell",
+	"pid": "46199",
+	"pname": "QConvergeConsole",
+	"pcpe": "cpe:/a:marvell:qconvergeconsole"
 }

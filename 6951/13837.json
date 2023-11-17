@@ -1,8 +1,8 @@
 {
-  "vid": "6951",
-  "vname": "phpwares",
-  "vcpe": "cpe:/:phpwares",
-  "pid": "13837",
-  "pname": "php inventory",
-  "pcpe": "cpe:/a:phpwares:php_inventory"
+	"vid": "6951",
+	"vname": "phpwares",
+	"vcpe": "cpe:/:phpwares",
+	"pid": "13837",
+	"pname": "php inventory",
+	"pcpe": "cpe:/a:phpwares:php_inventory"
 }

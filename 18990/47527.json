@@ -1,8 +1,8 @@
 {
-  "vid": "18990",
-  "vname": "TriConsole",
-  "vcpe": "cpe:/:triconsole",
-  "pid": "47527",
-  "pname": "Datepicker Calendar",
-  "pcpe": "cpe:/a:triconsole:datepicker_calendar"
+	"vid": "18990",
+	"vname": "TriConsole",
+	"vcpe": "cpe:/:triconsole",
+	"pid": "47527",
+	"pname": "Datepicker Calendar",
+	"pcpe": "cpe:/a:triconsole:datepicker_calendar"
 }

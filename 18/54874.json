@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "54874",
-  "pname": "IBM POWER SYSTEM CS821LC (8005-12N) ファームウェア",
-  "pcpe": "cpe:/o:ibm:power_system_cs821lc_%288005-12n%29_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "54874",
+	"pname": "IBM POWER SYSTEM CS821LC (8005-12N) ファームウェア",
+	"pcpe": "cpe:/o:ibm:power_system_cs821lc_%288005-12n%29_firmware"
 }

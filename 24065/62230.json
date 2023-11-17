@@ -1,8 +1,8 @@
 {
-  "vid": "24065",
-  "vname": "ZATZLabs",
-  "vcpe": "cpe:/:zatzlabs",
-  "pid": "62230",
-  "pname": "My Private Site",
-  "pcpe": "cpe:/a:zatzlabs:my_private_site"
+	"vid": "24065",
+	"vname": "ZATZLabs",
+	"vcpe": "cpe:/:zatzlabs",
+	"pid": "62230",
+	"pname": "My Private Site",
+	"pcpe": "cpe:/a:zatzlabs:my_private_site"
 }

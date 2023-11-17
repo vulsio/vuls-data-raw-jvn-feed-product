@@ -1,8 +1,8 @@
 {
-  "vid": "19201",
-  "vname": "株式会社ジェイテクト",
-  "vcpe": "cpe:/:jtekt",
-  "pid": "48280",
-  "pname": "Plus EFR2 ファームウェア",
-  "pcpe": "cpe:/o:jtekt:plus_efr2_firmware"
+	"vid": "19201",
+	"vname": "株式会社ジェイテクト",
+	"vcpe": "cpe:/:jtekt",
+	"pid": "48280",
+	"pname": "Plus EFR2 ファームウェア",
+	"pcpe": "cpe:/o:jtekt:plus_efr2_firmware"
 }

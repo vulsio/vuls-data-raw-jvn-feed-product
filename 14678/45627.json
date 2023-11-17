@@ -1,8 +1,8 @@
 {
-  "vid": "14678",
-  "vname": "HCL Technologies Limited",
-  "vcpe": "cpe:/:hcltech",
-  "pid": "45627",
-  "pname": "BigFix WebUI",
-  "pcpe": "cpe:/a:hcltech:bigfix_webui"
+	"vid": "14678",
+	"vname": "HCL Technologies Limited",
+	"vcpe": "cpe:/:hcltech",
+	"pid": "45627",
+	"pname": "BigFix WebUI",
+	"pcpe": "cpe:/a:hcltech:bigfix_webui"
 }

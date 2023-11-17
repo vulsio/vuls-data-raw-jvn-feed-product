@@ -1,8 +1,8 @@
 {
-  "vid": "488",
-  "vname": "openSUSE project",
-  "vcpe": "cpe:/:opensuse_project",
-  "pid": "63281",
-  "pname": "leap micro",
-  "pcpe": "cpe:/o:opensuse_project:leap_micro"
+	"vid": "488",
+	"vname": "openSUSE project",
+	"vcpe": "cpe:/:opensuse_project",
+	"pid": "63281",
+	"pname": "leap micro",
+	"pcpe": "cpe:/o:opensuse_project:leap_micro"
 }

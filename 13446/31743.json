@@ -1,8 +1,8 @@
 {
-  "vid": "13446",
-  "vname": "SeaCMS project",
-  "vcpe": "cpe:/:seacms_project",
-  "pid": "31743",
-  "pname": "SeaCMS",
-  "pcpe": "cpe:/a:seacms_project:seacms"
+	"vid": "13446",
+	"vname": "SeaCMS project",
+	"vcpe": "cpe:/:seacms_project",
+	"pid": "31743",
+	"pname": "SeaCMS",
+	"pcpe": "cpe:/a:seacms_project:seacms"
 }

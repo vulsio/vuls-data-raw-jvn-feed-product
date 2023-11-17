@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "35644",
-  "pname": "USG2205BSR ファームウェア",
-  "pcpe": "cpe:/o:huawei:usg2205bsr_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "35644",
+	"pname": "USG2205BSR ファームウェア",
+	"pcpe": "cpe:/o:huawei:usg2205bsr_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23373",
-  "vname": "LaTeX project",
-  "vcpe": "cpe:/:latex_project",
-  "pid": "60613",
-  "pname": "LaTeX",
-  "pcpe": "cpe:/a:latex_project:latex"
+	"vid": "23373",
+	"vname": "LaTeX project",
+	"vcpe": "cpe:/:latex_project",
+	"pid": "60613",
+	"pname": "LaTeX",
+	"pcpe": "cpe:/a:latex_project:latex"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11879",
-  "vname": "Softing Industrial Automation GmbH",
-  "vcpe": "cpe:/:softing",
-  "pid": "62194",
-  "pname": "edgeaggregator",
-  "pcpe": "cpe:/a:softing:edgeaggregator"
+	"vid": "11879",
+	"vname": "Softing Industrial Automation GmbH",
+	"vcpe": "cpe:/:softing",
+	"pid": "62194",
+	"pname": "edgeaggregator",
+	"pcpe": "cpe:/a:softing:edgeaggregator"
 }

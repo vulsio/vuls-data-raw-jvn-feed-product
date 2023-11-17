@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "33188",
-  "pname": "Garden-runC",
-  "pcpe": "cpe:/a:cloud_foundry:garden-runc-release"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "33188",
+	"pname": "Garden-runC",
+	"pcpe": "cpe:/a:cloud_foundry:garden-runc-release"
 }

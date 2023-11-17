@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "63767",
-  "pname": "groovy libraries",
-  "pcpe": "cpe:/a:jenkins:groovy_libraries"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "63767",
+	"pname": "groovy libraries",
+	"pcpe": "cpe:/a:jenkins:groovy_libraries"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17994",
-  "vname": "Red Software",
-  "vcpe": "cpe:/:redsoftware",
-  "pid": "43650",
-  "pname": "PDFescape",
-  "pcpe": "cpe:/a:redsoftware:pdfescape"
+	"vid": "17994",
+	"vname": "Red Software",
+	"vcpe": "cpe:/:redsoftware",
+	"pid": "43650",
+	"pname": "PDFescape",
+	"pcpe": "cpe:/a:redsoftware:pdfescape"
 }

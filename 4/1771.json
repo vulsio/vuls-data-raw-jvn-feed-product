@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "1771",
-  "pname": "HP Internet Express for Tru64",
-  "pcpe": "cpe:/a:hp:hp_internet_express_tru64_unix"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "1771",
+	"pname": "HP Internet Express for Tru64",
+	"pcpe": "cpe:/a:hp:hp_internet_express_tru64_unix"
 }

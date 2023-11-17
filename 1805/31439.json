@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31439",
-  "pname": "TL-WVR450 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-wvr450_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31439",
+	"pname": "TL-WVR450 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-wvr450_firmware"
 }

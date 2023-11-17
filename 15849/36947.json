@@ -1,8 +1,8 @@
 {
-  "vid": "15849",
-  "vname": "CastleNet",
-  "vcpe": "cpe:/:castlenet",
-  "pid": "36947",
-  "pname": "CBV38Z4EC ファームウェア",
-  "pcpe": "cpe:/o:castlenet:cbv38z4ec_firmware"
+	"vid": "15849",
+	"vname": "CastleNet",
+	"vcpe": "cpe:/:castlenet",
+	"pid": "36947",
+	"pname": "CBV38Z4EC ファームウェア",
+	"pcpe": "cpe:/o:castlenet:cbv38z4ec_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12005",
-  "vname": "Arista Networks, Inc.",
-  "vcpe": "cpe:/:arista",
-  "pid": "55401",
-  "pname": "TerminAttr",
-  "pcpe": "cpe:/a:arista:terminattr"
+	"vid": "12005",
+	"vname": "Arista Networks, Inc.",
+	"vcpe": "cpe:/:arista",
+	"pid": "55401",
+	"pname": "TerminAttr",
+	"pcpe": "cpe:/a:arista:terminattr"
 }

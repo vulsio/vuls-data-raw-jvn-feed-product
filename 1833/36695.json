@@ -1,8 +1,8 @@
 {
-  "vid": "1833",
-  "vname": "株式会社NTTドコモ",
-  "vcpe": "cpe:/:nttdocomo",
-  "pid": "36695",
-  "pname": "V20 PRO L-01J",
-  "pcpe": "cpe:/a:nttdocomo:v20_pro_l-01j_firmware"
+	"vid": "1833",
+	"vname": "株式会社NTTドコモ",
+	"vcpe": "cpe:/:nttdocomo",
+	"pid": "36695",
+	"pname": "V20 PRO L-01J",
+	"pcpe": "cpe:/a:nttdocomo:v20_pro_l-01j_firmware"
 }

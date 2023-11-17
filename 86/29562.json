@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "29562",
-  "pname": "WAPM-APG600H ファームウエア",
-  "pcpe": "cpe:/o:buffalo_inc:wapm-apg600h_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "29562",
+	"pname": "WAPM-APG600H ファームウエア",
+	"pcpe": "cpe:/o:buffalo_inc:wapm-apg600h_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "26377",
-  "pname": "WZR-1750DHP ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wzr-1750dhp_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "26377",
+	"pname": "WZR-1750DHP ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wzr-1750dhp_firmware"
 }

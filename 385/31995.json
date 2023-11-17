@@ -1,8 +1,8 @@
 {
-  "vid": "385",
-  "vname": "株式会社アイ・オー・データ機器",
-  "vcpe": "cpe:/:i-o_data_device",
-  "pid": "31995",
-  "pname": "HVL-S シリーズ",
-  "pcpe": "cpe:/h:i-o_data_device:hvl-s"
+	"vid": "385",
+	"vname": "株式会社アイ・オー・データ機器",
+	"vcpe": "cpe:/:i-o_data_device",
+	"pid": "31995",
+	"pname": "HVL-S シリーズ",
+	"pcpe": "cpe:/h:i-o_data_device:hvl-s"
 }

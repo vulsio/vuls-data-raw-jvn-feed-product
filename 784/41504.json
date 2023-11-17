@@ -1,8 +1,8 @@
 {
-  "vid": "784",
-  "vname": "Technicolor",
-  "vcpe": "cpe:/:technicolor",
-  "pid": "41504",
-  "pname": "C2000T ファームウェア",
-  "pcpe": "cpe:/o:technicolor:c2000t_firmware"
+	"vid": "784",
+	"vname": "Technicolor",
+	"vcpe": "cpe:/:technicolor",
+	"pid": "41504",
+	"pname": "C2000T ファームウェア",
+	"pcpe": "cpe:/o:technicolor:c2000t_firmware"
 }

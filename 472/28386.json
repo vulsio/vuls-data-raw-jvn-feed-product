@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "28386",
-  "pname": "Rockwell Automation 1768 CompactLogix L4x コントローラファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:1768_compactlogix_l4x_controller_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "28386",
+	"pname": "Rockwell Automation 1768 CompactLogix L4x コントローラファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:1768_compactlogix_l4x_controller_firmware"
 }

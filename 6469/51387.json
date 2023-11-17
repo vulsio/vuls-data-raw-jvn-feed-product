@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "51387",
-  "pname": "AXL F BK EIP EF ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:axl_f_bk_eip_ef_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "51387",
+	"pname": "AXL F BK EIP EF ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:axl_f_bk_eip_ef_firmware"
 }

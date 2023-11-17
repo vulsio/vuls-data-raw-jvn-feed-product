@@ -1,8 +1,8 @@
 {
-  "vid": "269",
-  "vname": "RSAセキュリティ",
-  "vcpe": "cpe:/:rsa",
-  "pid": "14429",
-  "pname": "ace server",
-  "pcpe": "cpe:/a:rsa:ace_server"
+	"vid": "269",
+	"vname": "RSAセキュリティ",
+	"vcpe": "cpe:/:rsa",
+	"pid": "14429",
+	"pname": "ace server",
+	"pcpe": "cpe:/a:rsa:ace_server"
 }

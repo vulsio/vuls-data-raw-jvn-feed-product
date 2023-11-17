@@ -1,8 +1,8 @@
 {
-  "vid": "21147",
-  "vname": "FluxCD",
-  "vcpe": "cpe:/:fluxcd",
-  "pid": "63782",
-  "pname": "image-reflector-controller",
-  "pcpe": "cpe:/a:fluxcd:image-reflector-controller"
+	"vid": "21147",
+	"vname": "FluxCD",
+	"vcpe": "cpe:/:fluxcd",
+	"pid": "63782",
+	"pname": "image-reflector-controller",
+	"pcpe": "cpe:/a:fluxcd:image-reflector-controller"
 }

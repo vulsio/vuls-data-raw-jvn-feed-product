@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "20546",
-  "pname": "Cisco SPA962 6-line IP Phone with 2-port Switch",
-  "pcpe": "cpe:/h:cisco:spa962_6-line_ip_phone_with_2-port_switch"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "20546",
+	"pname": "Cisco SPA962 6-line IP Phone with 2-port Switch",
+	"pcpe": "cpe:/h:cisco:spa962_6-line_ip_phone_with_2-port_switch"
 }

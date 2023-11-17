@@ -1,8 +1,8 @@
 {
-  "vid": "8780",
-  "vname": "sony ericsson",
-  "vcpe": "cpe:/:sony_ericsson",
-  "pid": "16635",
-  "pname": "t60",
-  "pcpe": "cpe:/h:sony_ericsson:t60"
+	"vid": "8780",
+	"vname": "sony ericsson",
+	"vcpe": "cpe:/:sony_ericsson",
+	"pid": "16635",
+	"pname": "t60",
+	"pcpe": "cpe:/h:sony_ericsson:t60"
 }

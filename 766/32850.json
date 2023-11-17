@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "32850",
-  "pname": "ATV LIFT DTM",
-  "pcpe": "cpe:/a:schneider_electric:atv_lift_dtm"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "32850",
+	"pname": "ATV LIFT DTM",
+	"pcpe": "cpe:/a:schneider_electric:atv_lift_dtm"
 }

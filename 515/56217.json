@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "56217",
-  "pname": "ixgben",
-  "pcpe": "cpe:/a:vmware:ixgben"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "56217",
+	"pname": "ixgben",
+	"pcpe": "cpe:/a:vmware:ixgben"
 }

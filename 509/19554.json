@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "19554",
-  "pname": "SAP NetWeaver Solution Manager",
-  "pcpe": "cpe:/a:sap:netweaver_solution_manager"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "19554",
+	"pname": "SAP NetWeaver Solution Manager",
+	"pcpe": "cpe:/a:sap:netweaver_solution_manager"
 }

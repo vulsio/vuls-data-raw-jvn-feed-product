@@ -1,8 +1,8 @@
 {
-  "vid": "10123",
-  "vname": "YIKES, Inc.",
-  "vcpe": "cpe:/:mailchimp",
-  "pid": "21232",
-  "pname": "Easy MailChimp Forms",
-  "pcpe": "cpe:/a:mailchimp:easy_mailchimp_forms_plugin"
+	"vid": "10123",
+	"vname": "YIKES, Inc.",
+	"vcpe": "cpe:/:mailchimp",
+	"pid": "21232",
+	"pname": "Easy MailChimp Forms",
+	"pcpe": "cpe:/a:mailchimp:easy_mailchimp_forms_plugin"
 }

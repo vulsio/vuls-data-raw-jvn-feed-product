@@ -1,8 +1,8 @@
 {
-  "vid": "15628",
-  "vname": "MZ Automation",
-  "vcpe": "cpe:/:mz-automation",
-  "pid": "37094",
-  "pname": "lib60870",
-  "pcpe": "cpe:/a:mz-automation:lib60870"
+	"vid": "15628",
+	"vname": "MZ Automation",
+	"vcpe": "cpe:/:mz-automation",
+	"pid": "37094",
+	"pname": "lib60870",
+	"pcpe": "cpe:/a:mz-automation:lib60870"
 }

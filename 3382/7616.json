@@ -1,8 +1,8 @@
 {
-  "vid": "3382",
-  "vname": "east wind software",
-  "vcpe": "cpe:/:east_wind_software",
-  "pid": "7616",
-  "pname": "advdaudio.ocx",
-  "pcpe": "cpe:/a:east_wind_software:advdaudio.ocx"
+	"vid": "3382",
+	"vname": "east wind software",
+	"vcpe": "cpe:/:east_wind_software",
+	"pid": "7616",
+	"pname": "advdaudio.ocx",
+	"pcpe": "cpe:/a:east_wind_software:advdaudio.ocx"
 }

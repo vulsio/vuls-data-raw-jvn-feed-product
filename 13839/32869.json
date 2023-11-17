@@ -1,8 +1,8 @@
 {
-  "vid": "13839",
-  "vname": "GPAC",
-  "vcpe": "cpe:/:gpac_project",
-  "pid": "32869",
-  "pname": "GPAC",
-  "pcpe": "cpe:/a:gpac_project:gpac"
+	"vid": "13839",
+	"vname": "GPAC",
+	"vcpe": "cpe:/:gpac_project",
+	"pid": "32869",
+	"pname": "GPAC",
+	"pcpe": "cpe:/a:gpac_project:gpac"
 }

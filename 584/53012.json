@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "53012",
-  "pname": "SIMATIC CP 343-1 ERPC ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_cp_343-1_erpc_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "53012",
+	"pname": "SIMATIC CP 343-1 ERPC ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_cp_343-1_erpc_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16695",
-  "vname": "MICRODIGITAL Inc.",
-  "vcpe": "cpe:/:microdigital",
-  "pid": "39780",
-  "pname": "MDC-N4090W ファームウェア",
-  "pcpe": "cpe:/o:microdigital:mdc-n4090w_firmware"
+	"vid": "16695",
+	"vname": "MICRODIGITAL Inc.",
+	"vcpe": "cpe:/:microdigital",
+	"pid": "39780",
+	"pname": "MDC-N4090W ファームウェア",
+	"pcpe": "cpe:/o:microdigital:mdc-n4090w_firmware"
 }

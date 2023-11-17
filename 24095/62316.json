@@ -1,8 +1,8 @@
 {
-  "vid": "24095",
-  "vname": "project-nexus project",
-  "vcpe": "cpe:/:project-nexus_project",
-  "pid": "62316",
-  "pname": "project-nexus",
-  "pcpe": "cpe:/a:project-nexus_project:project-nexus"
+	"vid": "24095",
+	"vname": "project-nexus project",
+	"vcpe": "cpe:/:project-nexus_project",
+	"pid": "62316",
+	"pname": "project-nexus",
+	"pcpe": "cpe:/a:project-nexus_project:project-nexus"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19603",
-  "vname": "Mission Labs",
-  "vcpe": "cpe:/:missionlabs",
-  "pid": "49430",
-  "pname": "SmartAgent",
-  "pcpe": "cpe:/a:missionlabs:smartagent"
+	"vid": "19603",
+	"vname": "Mission Labs",
+	"vcpe": "cpe:/:missionlabs",
+	"pid": "49430",
+	"pname": "SmartAgent",
+	"pcpe": "cpe:/a:missionlabs:smartagent"
 }

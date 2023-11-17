@@ -1,8 +1,8 @@
 {
-  "vid": "20041",
-  "vname": "luca-app",
-  "vcpe": "cpe:/:luca-app",
-  "pid": "50788",
-  "pname": "Luca",
-  "pcpe": "cpe:/a:luca-app:luca"
+	"vid": "20041",
+	"vname": "luca-app",
+	"vcpe": "cpe:/:luca-app",
+	"pid": "50788",
+	"pname": "Luca",
+	"pcpe": "cpe:/a:luca-app:luca"
 }

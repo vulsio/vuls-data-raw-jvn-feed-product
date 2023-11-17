@@ -1,8 +1,8 @@
 {
-  "vid": "4412",
-  "vname": "Viscom Software",
-  "vcpe": "cpe:/:viscomsoft",
-  "pid": "9425",
-  "pname": "Image Viewer CP Gold SDK",
-  "pcpe": "cpe:/a:viscomsoft:image_viewer_cp_gold_sdk"
+	"vid": "4412",
+	"vname": "Viscom Software",
+	"vcpe": "cpe:/:viscomsoft",
+	"pid": "9425",
+	"pname": "Image Viewer CP Gold SDK",
+	"pcpe": "cpe:/a:viscomsoft:image_viewer_cp_gold_sdk"
 }

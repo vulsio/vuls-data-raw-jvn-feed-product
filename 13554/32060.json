@@ -1,8 +1,8 @@
 {
-  "vid": "13554",
-  "vname": "Codehaus Plexus",
-  "vcpe": "cpe:/:plexus-utils_project",
-  "pid": "32060",
-  "pname": "Plexus-Utils",
-  "pcpe": "cpe:/a:plexus-utils_project:plexus-utils"
+	"vid": "13554",
+	"vname": "Codehaus Plexus",
+	"vcpe": "cpe:/:plexus-utils_project",
+	"pid": "32060",
+	"pname": "Plexus-Utils",
+	"pcpe": "cpe:/a:plexus-utils_project:plexus-utils"
 }

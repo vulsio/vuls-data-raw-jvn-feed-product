@@ -1,8 +1,8 @@
 {
-  "vid": "22476",
-  "vname": "jquery.cookie project",
-  "vcpe": "cpe:/:jquery.cookie_project",
-  "pid": "57825",
-  "pname": "jquery.cookie",
-  "pcpe": "cpe:/a:jquery.cookie_project:jquery.cookie"
+	"vid": "22476",
+	"vname": "jquery.cookie project",
+	"vcpe": "cpe:/:jquery.cookie_project",
+	"pid": "57825",
+	"pname": "jquery.cookie",
+	"pcpe": "cpe:/a:jquery.cookie_project:jquery.cookie"
 }

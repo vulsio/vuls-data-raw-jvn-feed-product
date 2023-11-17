@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "41112",
-  "pname": "E-Series SANtricity Web Services Proxy",
-  "pcpe": "cpe:/a:netapp:e-series_santricity_web_services_proxy"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "41112",
+	"pname": "E-Series SANtricity Web Services Proxy",
+	"pcpe": "cpe:/a:netapp:e-series_santricity_web_services_proxy"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "25112",
-  "pname": "Hitachi Automation Director",
-  "pcpe": "cpe:/a:hitachi:automation_director"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "25112",
+	"pname": "Hitachi Automation Director",
+	"pcpe": "cpe:/a:hitachi:automation_director"
 }

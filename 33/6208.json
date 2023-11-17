@@ -1,8 +1,8 @@
 {
-  "vid": "33",
-  "vname": "BEAシステムズ",
-  "vcpe": "cpe:/:bea",
-  "pid": "6208",
-  "pname": "aqualogic service bus",
-  "pcpe": "cpe:/a:bea:aqualogic_service_bus"
+	"vid": "33",
+	"vname": "BEAシステムズ",
+	"vcpe": "cpe:/:bea",
+	"pid": "6208",
+	"pname": "aqualogic service bus",
+	"pcpe": "cpe:/a:bea:aqualogic_service_bus"
 }

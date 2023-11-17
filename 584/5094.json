@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "5094",
-  "pname": "Scalance X-300EEC Firmware",
-  "pcpe": "cpe:/a:siemens:scalance_x-300eec_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "5094",
+	"pname": "Scalance X-300EEC Firmware",
+	"pcpe": "cpe:/a:siemens:scalance_x-300eec_firmware"
 }

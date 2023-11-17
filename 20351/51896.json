@@ -1,8 +1,8 @@
 {
-  "vid": "20351",
-  "vname": "株式会社コアモバイル",
-  "vcpe": "cpe:/:misc",
-  "pid": "51896",
-  "pname": "EC-CUBE 用プラグイン「簡単ブログ for EC-CUBE4」",
-  "pcpe": "cpe:/a:misc:coremobile_kantan_blog_for_ec-cube4"
+	"vid": "20351",
+	"vname": "株式会社コアモバイル",
+	"vcpe": "cpe:/:misc",
+	"pid": "51896",
+	"pname": "EC-CUBE 用プラグイン「簡単ブログ for EC-CUBE4」",
+	"pcpe": "cpe:/a:misc:coremobile_kantan_blog_for_ec-cube4"
 }

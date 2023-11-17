@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "62017",
-  "pname": "SXR2230P ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sxr2230p_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "62017",
+	"pname": "SXR2230P ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sxr2230p_firmware"
 }

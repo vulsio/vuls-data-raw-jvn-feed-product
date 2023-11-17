@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "61729",
-  "pname": "xfcg5 ファームウェア",
-  "pcpe": "cpe:/o:abb:xfcg5_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "61729",
+	"pname": "xfcg5 ファームウェア",
+	"pcpe": "cpe:/o:abb:xfcg5_firmware"
 }

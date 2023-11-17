@@ -1,8 +1,8 @@
 {
-  "vid": "18688",
-  "vname": "OpenZFS Project",
-  "vcpe": "cpe:/:openzfs",
-  "pid": "46275",
-  "pname": "OpenZFS",
-  "pcpe": "cpe:/a:openzfs:openzfs"
+	"vid": "18688",
+	"vname": "OpenZFS Project",
+	"vcpe": "cpe:/:openzfs",
+	"pid": "46275",
+	"pname": "OpenZFS",
+	"pcpe": "cpe:/a:openzfs:openzfs"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21557",
-  "vname": "EnOcean",
-  "vcpe": "cpe:/:misc",
-  "pid": "55396",
-  "pname": "EnOcean SmartServer",
-  "pcpe": "cpe:/o:misc:enocean_smartserver"
+	"vid": "21557",
+	"vname": "EnOcean",
+	"vcpe": "cpe:/:misc",
+	"pid": "55396",
+	"pname": "EnOcean SmartServer",
+	"pcpe": "cpe:/o:misc:enocean_smartserver"
 }

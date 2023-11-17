@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4951",
-  "pname": "color laserjet mfp",
-  "pcpe": "cpe:/h:hp:color_laserjet_mfp"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4951",
+	"pname": "color laserjet mfp",
+	"pcpe": "cpe:/h:hp:color_laserjet_mfp"
 }

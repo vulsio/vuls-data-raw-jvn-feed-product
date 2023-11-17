@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "60279",
-  "pname": "Multiselect parameter",
-  "pcpe": "cpe:/a:jenkins:multiselect_parameter"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "60279",
+	"pname": "Multiselect parameter",
+	"pcpe": "cpe:/a:jenkins:multiselect_parameter"
 }

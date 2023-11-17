@@ -1,8 +1,8 @@
 {
-  "vid": "24780",
-  "vname": "wut",
-  "vcpe": "cpe:/:wut",
-  "pid": "64238",
-  "pname": "at-modem-emulator ファームウェア",
-  "pcpe": "cpe:/o:wut:at-modem-emulator_firmware"
+	"vid": "24780",
+	"vname": "wut",
+	"vcpe": "cpe:/:wut",
+	"pid": "64238",
+	"pname": "at-modem-emulator ファームウェア",
+	"pcpe": "cpe:/o:wut:at-modem-emulator_firmware"
 }

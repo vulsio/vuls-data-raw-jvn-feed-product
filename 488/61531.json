@@ -1,8 +1,8 @@
 {
-  "vid": "488",
-  "vname": "openSUSE project",
-  "vcpe": "cpe:/:opensuse_project",
-  "pid": "61531",
-  "pname": "paste",
-  "pcpe": "cpe:/a:opensuse_project:paste"
+	"vid": "488",
+	"vname": "openSUSE project",
+	"vcpe": "cpe:/:opensuse_project",
+	"pid": "61531",
+	"pname": "paste",
+	"pcpe": "cpe:/a:opensuse_project:paste"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4176",
-  "vname": "Belkin International",
-  "vcpe": "cpe:/:belkin",
-  "pid": "24613",
-  "pname": "N300 Dual-Band Wi-Fi Range Extender",
-  "pcpe": "cpe:/h:belkin:n300_dual-band_wi-fi_range_extender"
+	"vid": "4176",
+	"vname": "Belkin International",
+	"vcpe": "cpe:/:belkin",
+	"pid": "24613",
+	"pname": "N300 Dual-Band Wi-Fi Range Extender",
+	"pcpe": "cpe:/h:belkin:n300_dual-band_wi-fi_range_extender"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "24208",
-  "pname": "WHR-600D ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:whr-600d_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "24208",
+	"pname": "WHR-600D ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:whr-600d_firmware"
 }

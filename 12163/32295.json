@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "32295",
-  "pname": "Build-Publisher",
-  "pcpe": "cpe:/a:jenkins:build-publisher"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "32295",
+	"pname": "Build-Publisher",
+	"pcpe": "cpe:/a:jenkins:build-publisher"
 }

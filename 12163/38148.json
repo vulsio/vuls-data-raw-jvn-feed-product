@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38148",
-  "pname": "SOASTA CloudTest",
-  "pcpe": "cpe:/a:jenkins:soasta_cloudtest"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38148",
+	"pname": "SOASTA CloudTest",
+	"pcpe": "cpe:/a:jenkins:soasta_cloudtest"
 }

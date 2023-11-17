@@ -1,8 +1,8 @@
 {
-  "vid": "19628",
-  "vname": "Merkury Innovations.",
-  "vcpe": "cpe:/:merkuryinnovations",
-  "pid": "49492",
-  "pname": "Geeni GNC-CW013 ファームウェア",
-  "pcpe": "cpe:/o:merkuryinnovations:gnc-cw013_firmware"
+	"vid": "19628",
+	"vname": "Merkury Innovations.",
+	"vcpe": "cpe:/:merkuryinnovations",
+	"pid": "49492",
+	"pname": "Geeni GNC-CW013 ファームウェア",
+	"pcpe": "cpe:/o:merkuryinnovations:gnc-cw013_firmware"
 }

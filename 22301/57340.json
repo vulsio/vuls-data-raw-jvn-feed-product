@@ -1,8 +1,8 @@
 {
-  "vid": "22301",
-  "vname": "konveyor",
-  "vcpe": "cpe:/:konveyor",
-  "pid": "57340",
-  "pname": "mig-controller",
-  "pcpe": "cpe:/a:konveyor:mig-controller"
+	"vid": "22301",
+	"vname": "konveyor",
+	"vcpe": "cpe:/:konveyor",
+	"pid": "57340",
+	"pname": "mig-controller",
+	"pcpe": "cpe:/a:konveyor:mig-controller"
 }

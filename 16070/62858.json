@@ -1,8 +1,8 @@
 {
-  "vid": "16070",
-  "vname": "Forcepoint LLC.",
-  "vcpe": "cpe:/:forcepoint",
-  "pid": "62858",
-  "pname": "one endpoint with policy engine",
-  "pcpe": "cpe:/a:forcepoint:one_endpoint_with_policy_engine"
+	"vid": "16070",
+	"vname": "Forcepoint LLC.",
+	"vcpe": "cpe:/:forcepoint",
+	"pid": "62858",
+	"pname": "one endpoint with policy engine",
+	"pcpe": "cpe:/a:forcepoint:one_endpoint_with_policy_engine"
 }

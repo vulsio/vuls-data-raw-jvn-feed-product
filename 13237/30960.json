@@ -1,8 +1,8 @@
 {
-  "vid": "13237",
-  "vname": "i-SENS, Inc.",
-  "vcpe": "cpe:/:i-sens",
-  "pid": "30960",
-  "pname": "SmartLog Diabetes Management Software",
-  "pcpe": "cpe:/a:i-sens:smartlog_diabetes_management_software"
+	"vid": "13237",
+	"vname": "i-SENS, Inc.",
+	"vcpe": "cpe:/:i-sens",
+	"pid": "30960",
+	"pname": "SmartLog Diabetes Management Software",
+	"pcpe": "cpe:/a:i-sens:smartlog_diabetes_management_software"
 }

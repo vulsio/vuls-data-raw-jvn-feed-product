@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18572",
-  "pname": "HP ScanJet Enterprise 8500fn1",
-  "pcpe": "cpe:/h:hp:scanjet_enterprise_8500fn1"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18572",
+	"pname": "HP ScanJet Enterprise 8500fn1",
+	"pcpe": "cpe:/h:hp:scanjet_enterprise_8500fn1"
 }

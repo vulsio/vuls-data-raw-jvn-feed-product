@@ -1,8 +1,8 @@
 {
-  "vid": "20489",
-  "vname": "SciRuby",
-  "vcpe": "cpe:/:sciruby",
-  "pid": "52162",
-  "pname": "NMatrix",
-  "pcpe": "cpe:/a:sciruby:nmatrix"
+	"vid": "20489",
+	"vname": "SciRuby",
+	"vcpe": "cpe:/:sciruby",
+	"pid": "52162",
+	"pname": "NMatrix",
+	"pcpe": "cpe:/a:sciruby:nmatrix"
 }

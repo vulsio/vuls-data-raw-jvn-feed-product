@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "58308",
-  "pname": "dinion ip bullet 6000i ファームウェア",
-  "pcpe": "cpe:/o:bosch:dinion_ip_bullet_6000i_firmware"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "58308",
+	"pname": "dinion ip bullet 6000i ファームウェア",
+	"pcpe": "cpe:/o:bosch:dinion_ip_bullet_6000i_firmware"
 }

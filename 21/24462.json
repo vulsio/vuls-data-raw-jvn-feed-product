@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "24462",
-  "pname": "EX4600",
-  "pcpe": "cpe:/h:juniper:ex4600"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "24462",
+	"pname": "EX4600",
+	"pcpe": "cpe:/h:juniper:ex4600"
 }

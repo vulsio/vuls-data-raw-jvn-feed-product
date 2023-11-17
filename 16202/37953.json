@@ -1,8 +1,8 @@
 {
-  "vid": "16202",
-  "vname": "Kentix",
-  "vcpe": "cpe:/:kentix",
-  "pid": "37953",
-  "pname": "MultiSensor LAN",
-  "pcpe": "cpe:/o:kentix:multisensor-lan_firmware"
+	"vid": "16202",
+	"vname": "Kentix",
+	"vcpe": "cpe:/:kentix",
+	"pid": "37953",
+	"pname": "MultiSensor LAN",
+	"pcpe": "cpe:/o:kentix:multisensor-lan_firmware"
 }

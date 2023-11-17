@@ -1,8 +1,8 @@
 {
-  "vid": "9795",
-  "vname": "BIC Media Widget plugin",
-  "vcpe": "cpe:/:bic_media_widget_plugin",
-  "pid": "20437",
-  "pname": "BIC Media Widget",
-  "pcpe": "cpe:/a:bic_media_widget_plugin:bic_media_widget"
+	"vid": "9795",
+	"vname": "BIC Media Widget plugin",
+	"vcpe": "cpe:/:bic_media_widget_plugin",
+	"pid": "20437",
+	"pname": "BIC Media Widget",
+	"pcpe": "cpe:/a:bic_media_widget_plugin:bic_media_widget"
 }

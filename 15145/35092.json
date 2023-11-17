@@ -1,8 +1,8 @@
 {
-  "vid": "15145",
-  "vname": "Ecessa Corporation.",
-  "vcpe": "cpe:/:ecessa",
-  "pid": "35092",
-  "pname": "ECESSA ShieldLink SL175EHQ",
-  "pcpe": "cpe:/o:ecessa:shieldlink_sl175ehq_firmware"
+	"vid": "15145",
+	"vname": "Ecessa Corporation.",
+	"vcpe": "cpe:/:ecessa",
+	"pid": "35092",
+	"pname": "ECESSA ShieldLink SL175EHQ",
+	"pcpe": "cpe:/o:ecessa:shieldlink_sl175ehq_firmware"
 }

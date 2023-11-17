@@ -1,8 +1,8 @@
 {
-  "vid": "12076",
-  "vname": "Script*",
-  "vcpe": "cpe:/:log-chat_project",
-  "pid": "25614",
-  "pname": "Log-Chat",
-  "pcpe": "cpe:/a:log-chat_project:log-chat"
+	"vid": "12076",
+	"vname": "Script*",
+	"vcpe": "cpe:/:log-chat_project",
+	"pid": "25614",
+	"pname": "Log-Chat",
+	"pcpe": "cpe:/a:log-chat_project:log-chat"
 }

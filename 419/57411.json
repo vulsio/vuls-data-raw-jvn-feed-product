@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "57411",
-  "pname": "AFF Baseboard Management Controller ファームウェア",
-  "pcpe": "cpe:/o:netapp:aff_baseboard_management_controller_firmware"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "57411",
+	"pname": "AFF Baseboard Management Controller ファームウェア",
+	"pcpe": "cpe:/o:netapp:aff_baseboard_management_controller_firmware"
 }

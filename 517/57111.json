@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "57111",
-  "pname": "Phaser 4622 ファームウェア",
-  "pcpe": "cpe:/o:xerox:phaser_4622_firmware"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "57111",
+	"pname": "Phaser 4622 ファームウェア",
+	"pcpe": "cpe:/o:xerox:phaser_4622_firmware"
 }

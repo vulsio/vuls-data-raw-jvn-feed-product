@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "31040",
-  "pname": "WebOP",
-  "pcpe": "cpe:/a:advantech:webop"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "31040",
+	"pname": "WebOP",
+	"pcpe": "cpe:/a:advantech:webop"
 }

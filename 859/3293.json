@@ -1,8 +1,8 @@
 {
-  "vid": "859",
-  "vname": "Farsi CMS",
-  "vcpe": "cpe:/:farsi-cms",
-  "pid": "3293",
-  "pname": "Ziggurat Farsi CMS",
-  "pcpe": "cpe:/a:farsi-cms:ziggurat_farsi_cms"
+	"vid": "859",
+	"vname": "Farsi CMS",
+	"vcpe": "cpe:/:farsi-cms",
+	"pid": "3293",
+	"pname": "Ziggurat Farsi CMS",
+	"pcpe": "cpe:/a:farsi-cms:ziggurat_farsi_cms"
 }

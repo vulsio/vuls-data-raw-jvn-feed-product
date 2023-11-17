@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1931",
-  "pname": "Taxonomy Theme",
-  "pcpe": "cpe:/a:drupal:taxonomy_theme_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1931",
+	"pname": "Taxonomy Theme",
+	"pcpe": "cpe:/a:drupal:taxonomy_theme_module"
 }

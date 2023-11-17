@@ -1,8 +1,8 @@
 {
-  "vid": "13104",
-  "vname": "OPC Foundation",
-  "vcpe": "cpe:/:opcfoundation",
-  "pid": "57980",
-  "pname": "ua-nodeset",
-  "pcpe": "cpe:/a:opcfoundation:ua-nodeset"
+	"vid": "13104",
+	"vname": "OPC Foundation",
+	"vcpe": "cpe:/:opcfoundation",
+	"pid": "57980",
+	"pname": "ua-nodeset",
+	"pcpe": "cpe:/a:opcfoundation:ua-nodeset"
 }

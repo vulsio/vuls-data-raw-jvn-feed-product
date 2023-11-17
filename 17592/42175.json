@@ -1,8 +1,8 @@
 {
-  "vid": "17592",
-  "vname": "Fronius International GmbH",
-  "vcpe": "cpe:/:fronius",
-  "pid": "42175",
-  "pname": "Galvo 3.0-1 ファームウェア",
-  "pcpe": "cpe:/o:fronius:galvo_3.0-1_firmware"
+	"vid": "17592",
+	"vname": "Fronius International GmbH",
+	"vcpe": "cpe:/:fronius",
+	"pid": "42175",
+	"pname": "Galvo 3.0-1 ファームウェア",
+	"pcpe": "cpe:/o:fronius:galvo_3.0-1_firmware"
 }

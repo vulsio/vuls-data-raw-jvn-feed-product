@@ -1,8 +1,8 @@
 {
-  "vid": "13025",
-  "vname": "NXP Semiconductors",
-  "vcpe": "cpe:/:nxp",
-  "pid": "54592",
-  "pname": "Kinetis K82 ファームウェア",
-  "pcpe": "cpe:/o:nxp:kinetis_k82_firmware"
+	"vid": "13025",
+	"vname": "NXP Semiconductors",
+	"vcpe": "cpe:/:nxp",
+	"pid": "54592",
+	"pname": "Kinetis K82 ファームウェア",
+	"pcpe": "cpe:/o:nxp:kinetis_k82_firmware"
 }

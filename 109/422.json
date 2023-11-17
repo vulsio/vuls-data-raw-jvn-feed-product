@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "422",
-  "pname": "SIMPLIA/TF-WebTest",
-  "pcpe": "cpe:/a:fujitsu:simplia_tf-webtest"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "422",
+	"pname": "SIMPLIA/TF-WebTest",
+	"pcpe": "cpe:/a:fujitsu:simplia_tf-webtest"
 }

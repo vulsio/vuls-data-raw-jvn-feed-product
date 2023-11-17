@@ -1,8 +1,8 @@
 {
-  "vid": "12892",
-  "vname": "富士電機",
-  "vcpe": "cpe:/:fujielectric",
-  "pid": "30134",
-  "pname": "Monitouch V-SFT",
-  "pcpe": "cpe:/a:fujielectric:monitouch_v-sft"
+	"vid": "12892",
+	"vname": "富士電機",
+	"vcpe": "cpe:/:fujielectric",
+	"pid": "30134",
+	"pname": "Monitouch V-SFT",
+	"pcpe": "cpe:/a:fujielectric:monitouch_v-sft"
 }

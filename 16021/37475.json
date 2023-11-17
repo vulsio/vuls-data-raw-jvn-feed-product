@@ -1,8 +1,8 @@
 {
-  "vid": "16021",
-  "vname": "create-react-app project",
-  "vcpe": "cpe:/:create-react-app_project",
-  "pid": "37475",
-  "pname": "react-dev-utils",
-  "pcpe": "cpe:/a:create-react-app_project:react-dev-utils"
+	"vid": "16021",
+	"vname": "create-react-app project",
+	"vcpe": "cpe:/:create-react-app_project",
+	"pid": "37475",
+	"pname": "react-dev-utils",
+	"pcpe": "cpe:/a:create-react-app_project:react-dev-utils"
 }

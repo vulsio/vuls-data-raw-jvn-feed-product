@@ -1,8 +1,8 @@
 {
-  "vid": "8841",
-  "vname": "MiniUPnP Project",
-  "vcpe": "cpe:/:miniupnp_project",
-  "pid": "33557",
-  "pname": "ngiflib",
-  "pcpe": "cpe:/a:miniupnp_project:ngiflib"
+	"vid": "8841",
+	"vname": "MiniUPnP Project",
+	"vcpe": "cpe:/:miniupnp_project",
+	"pid": "33557",
+	"pname": "ngiflib",
+	"pcpe": "cpe:/a:miniupnp_project:ngiflib"
 }

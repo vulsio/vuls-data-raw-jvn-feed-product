@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "59470",
-  "pname": "xeon gold 6126t ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_gold_6126t_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "59470",
+	"pname": "xeon gold 6126t ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_gold_6126t_firmware"
 }

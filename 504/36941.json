@@ -1,8 +1,8 @@
 {
-  "vid": "504",
-  "vname": "Motorola Solutions, Inc",
-  "vcpe": "cpe:/:motorola",
-  "pid": "36941",
-  "pname": "SVG1202 ファームウェア",
-  "pcpe": "cpe:/o:motorola:svg1202_firmware"
+	"vid": "504",
+	"vname": "Motorola Solutions, Inc",
+	"vcpe": "cpe:/:motorola",
+	"pid": "36941",
+	"pname": "SVG1202 ファームウェア",
+	"pcpe": "cpe:/o:motorola:svg1202_firmware"
 }

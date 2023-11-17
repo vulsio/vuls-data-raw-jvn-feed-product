@@ -1,8 +1,8 @@
 {
-  "vid": "12147",
-  "vname": "Open Container Project",
-  "vcpe": "cpe:/:open_container_project",
-  "pid": "26235",
-  "pname": "runC",
-  "pcpe": "cpe:/a:open_container_project:runc"
+	"vid": "12147",
+	"vname": "Open Container Project",
+	"vcpe": "cpe:/:open_container_project",
+	"pid": "26235",
+	"pname": "runC",
+	"pcpe": "cpe:/a:open_container_project:runc"
 }

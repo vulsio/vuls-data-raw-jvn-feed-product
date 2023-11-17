@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "16234",
-  "pname": "wordspew",
-  "pcpe": "cpe:/a:wordpress:wordspew"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "16234",
+	"pname": "wordspew",
+	"pcpe": "cpe:/a:wordpress:wordspew"
 }

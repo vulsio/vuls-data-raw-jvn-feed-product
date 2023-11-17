@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30220",
-  "pname": "IdeaCentre 300-20ISH ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideacentre_300-20ish_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30220",
+	"pname": "IdeaCentre 300-20ISH ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideacentre_300-20ish_firmware"
 }

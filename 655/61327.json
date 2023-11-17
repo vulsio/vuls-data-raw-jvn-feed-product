@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "61327",
-  "pname": "equinox p2",
-  "pcpe": "cpe:/a:eclipse:equinox_p2"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "61327",
+	"pname": "equinox p2",
+	"pcpe": "cpe:/a:eclipse:equinox_p2"
 }

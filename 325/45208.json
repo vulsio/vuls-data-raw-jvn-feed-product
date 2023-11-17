@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45208",
-  "pname": "330-15ARR_TOUCH ファームウェア",
-  "pcpe": "cpe:/o:lenovo:330-15arr_touch_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45208",
+	"pname": "330-15ARR_TOUCH ファームウェア",
+	"pcpe": "cpe:/o:lenovo:330-15arr_touch_firmware"
 }

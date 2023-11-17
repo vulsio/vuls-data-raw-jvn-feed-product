@@ -1,8 +1,8 @@
 {
-  "vid": "18010",
-  "vname": "Sumavision Technologies Co.,Ltd",
-  "vcpe": "cpe:/:sumavision",
-  "pid": "43735",
-  "pname": "Enhanced Multimedia Router ファームウェア",
-  "pcpe": "cpe:/o:sumavision:enhanced_multimedia_router_firmware"
+	"vid": "18010",
+	"vname": "Sumavision Technologies Co.,Ltd",
+	"vcpe": "cpe:/:sumavision",
+	"pid": "43735",
+	"pname": "Enhanced Multimedia Router ファームウェア",
+	"pcpe": "cpe:/o:sumavision:enhanced_multimedia_router_firmware"
 }

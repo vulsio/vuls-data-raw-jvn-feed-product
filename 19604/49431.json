@@ -1,8 +1,8 @@
 {
-  "vid": "19604",
-  "vname": "Persis GmbH",
-  "vcpe": "cpe:/:persis",
-  "pid": "49431",
-  "pname": "Persis Human Resource Management Portal",
-  "pcpe": "cpe:/a:persis:human_resource_management_portal"
+	"vid": "19604",
+	"vname": "Persis GmbH",
+	"vcpe": "cpe:/:persis",
+	"pid": "49431",
+	"pname": "Persis Human Resource Management Portal",
+	"pcpe": "cpe:/a:persis:human_resource_management_portal"
 }

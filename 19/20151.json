@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "20151",
-  "pname": "Cisco Unified Border Element",
-  "pcpe": "cpe:/h:cisco:unified_border_element"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "20151",
+	"pname": "Cisco Unified Border Element",
+	"pcpe": "cpe:/h:cisco:unified_border_element"
 }

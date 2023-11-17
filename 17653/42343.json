@@ -1,8 +1,8 @@
 {
-  "vid": "17653",
-  "vname": "LiquidPixels, Inc",
-  "vcpe": "cpe:/:liquidpixels",
-  "pid": "42343",
-  "pname": "LiquiFire OS",
-  "pcpe": "cpe:/o:liquidpixels:liquifire_os"
+	"vid": "17653",
+	"vname": "LiquidPixels, Inc",
+	"vcpe": "cpe:/:liquidpixels",
+	"pid": "42343",
+	"pname": "LiquiFire OS",
+	"pcpe": "cpe:/o:liquidpixels:liquifire_os"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5497",
-  "vname": "marshal",
-  "vcpe": "cpe:/:marshal",
-  "pid": "11299",
-  "pname": "mailmarshal smtp",
-  "pcpe": "cpe:/a:marshal:mailmarshal_smtp"
+	"vid": "5497",
+	"vname": "marshal",
+	"vcpe": "cpe:/:marshal",
+	"pid": "11299",
+	"pname": "mailmarshal smtp",
+	"pcpe": "cpe:/a:marshal:mailmarshal_smtp"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63361",
-  "pname": "HP DeskJet Ink Advantage 5275 All-in-One Printer M2U76A ファームウェア",
-  "pcpe": "cpe:/o:hp:m2u76a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63361",
+	"pname": "HP DeskJet Ink Advantage 5275 All-in-One Printer M2U76A ファームウェア",
+	"pcpe": "cpe:/o:hp:m2u76a_firmware"
 }

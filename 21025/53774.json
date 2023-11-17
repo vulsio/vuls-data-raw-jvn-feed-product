@@ -1,8 +1,8 @@
 {
-  "vid": "21025",
-  "vname": "VFBpro",
-  "vcpe": "cpe:/:vfbpro",
-  "pid": "53774",
-  "pname": "Visual Form Builder",
-  "pcpe": "cpe:/a:vfbpro:visual_form_builder"
+	"vid": "21025",
+	"vname": "VFBpro",
+	"vcpe": "cpe:/:vfbpro",
+	"pid": "53774",
+	"pname": "Visual Form Builder",
+	"pcpe": "cpe:/a:vfbpro:visual_form_builder"
 }

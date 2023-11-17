@@ -1,8 +1,8 @@
 {
-  "vid": "3675",
-  "vname": "fersch",
-  "vcpe": "cpe:/:fersch",
-  "pid": "8038",
-  "pname": "formbankserver",
-  "pcpe": "cpe:/a:fersch:formbankserver"
+	"vid": "3675",
+	"vname": "fersch",
+	"vcpe": "cpe:/:fersch",
+	"pid": "8038",
+	"pname": "formbankserver",
+	"pcpe": "cpe:/a:fersch:formbankserver"
 }

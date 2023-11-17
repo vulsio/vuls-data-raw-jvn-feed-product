@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "38544",
-  "pname": "USG60 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:usg60_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "38544",
+	"pname": "USG60 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:usg60_firmware"
 }

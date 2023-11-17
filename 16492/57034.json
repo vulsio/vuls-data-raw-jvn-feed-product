@@ -1,8 +1,8 @@
 {
-  "vid": "16492",
-  "vname": "miniOrange",
-  "vcpe": "cpe:/:miniorange",
-  "pid": "57034",
-  "pname": "LDAP Integration with Active Directory and OpenLDAP",
-  "pcpe": "cpe:/a:miniorange:ldap_integration_with_active_directory_and_openldap"
+	"vid": "16492",
+	"vname": "miniOrange",
+	"vcpe": "cpe:/:miniorange",
+	"pid": "57034",
+	"pname": "LDAP Integration with Active Directory and OpenLDAP",
+	"pcpe": "cpe:/a:miniorange:ldap_integration_with_active_directory_and_openldap"
 }

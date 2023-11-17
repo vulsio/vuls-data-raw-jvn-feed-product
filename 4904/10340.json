@@ -1,8 +1,8 @@
 {
-  "vid": "4904",
-  "vname": "jamit software",
-  "vcpe": "cpe:/:jamit_software",
-  "pid": "10340",
-  "pname": "jamit job board",
-  "pcpe": "cpe:/a:jamit_software:jamit_job_board"
+	"vid": "4904",
+	"vname": "jamit software",
+	"vcpe": "cpe:/:jamit_software",
+	"pid": "10340",
+	"pname": "jamit job board",
+	"pcpe": "cpe:/a:jamit_software:jamit_job_board"
 }

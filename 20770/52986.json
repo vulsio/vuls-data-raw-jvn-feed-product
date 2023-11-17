@@ -1,8 +1,8 @@
 {
-  "vid": "20770",
-  "vname": "TinyFileManager project",
-  "vcpe": "cpe:/:tinyfilemanager_project",
-  "pid": "52986",
-  "pname": "TinyFileManager",
-  "pcpe": "cpe:/a:tinyfilemanager_project:tinyfilemanager"
+	"vid": "20770",
+	"vname": "TinyFileManager project",
+	"vcpe": "cpe:/:tinyfilemanager_project",
+	"pid": "52986",
+	"pname": "TinyFileManager",
+	"pcpe": "cpe:/a:tinyfilemanager_project:tinyfilemanager"
 }

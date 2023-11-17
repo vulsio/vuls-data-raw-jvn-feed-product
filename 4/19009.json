@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "19009",
-  "pname": "HP Color LaserJet CP2025 Printer",
-  "pcpe": "cpe:/h:hp:color_laserjet_cp2025_printer"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "19009",
+	"pname": "HP Color LaserJet CP2025 Printer",
+	"pcpe": "cpe:/h:hp:color_laserjet_cp2025_printer"
 }

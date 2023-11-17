@@ -1,8 +1,8 @@
 {
-  "vid": "18879",
-  "vname": "MyBatis",
-  "vcpe": "cpe:/:mybatis",
-  "pid": "62483",
-  "pname": "mapper",
-  "pcpe": "cpe:/a:mybatis:mapper"
+	"vid": "18879",
+	"vname": "MyBatis",
+	"vcpe": "cpe:/:mybatis",
+	"pid": "62483",
+	"pname": "mapper",
+	"pcpe": "cpe:/a:mybatis:mapper"
 }

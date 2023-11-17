@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "1376",
-  "pname": "IBM Hardware Management Console",
-  "pcpe": "cpe:/a:ibm:hardware_management_console"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "1376",
+	"pname": "IBM Hardware Management Console",
+	"pcpe": "cpe:/a:ibm:hardware_management_console"
 }

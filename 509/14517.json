@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "14517",
-  "pname": "system landscape directory",
-  "pcpe": "cpe:/a:sap:system_landscape_directory"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "14517",
+	"pname": "system landscape directory",
+	"pcpe": "cpe:/a:sap:system_landscape_directory"
 }

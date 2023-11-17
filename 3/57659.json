@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "57659",
-  "pname": "Red Hat Enterprise Linux for Power Little Endian Update Services for SAP Solutions",
-  "pcpe": "cpe:/o:redhat:enterprise_linux_for_power_little_endian_update_services_for_sap"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "57659",
+	"pname": "Red Hat Enterprise Linux for Power Little Endian Update Services for SAP Solutions",
+	"pcpe": "cpe:/o:redhat:enterprise_linux_for_power_little_endian_update_services_for_sap"
 }

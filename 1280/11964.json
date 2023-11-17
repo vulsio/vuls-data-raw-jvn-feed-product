@@ -1,8 +1,8 @@
 {
-  "vid": "1280",
-  "vname": "NetMechanica",
-  "vcpe": "cpe:/:netmechanica",
-  "pid": "11964",
-  "pname": "netdecision tftp server",
-  "pcpe": "cpe:/a:netmechanica:netdecision_tftp_server"
+	"vid": "1280",
+	"vname": "NetMechanica",
+	"vcpe": "cpe:/:netmechanica",
+	"pid": "11964",
+	"pname": "netdecision tftp server",
+	"pcpe": "cpe:/a:netmechanica:netdecision_tftp_server"
 }

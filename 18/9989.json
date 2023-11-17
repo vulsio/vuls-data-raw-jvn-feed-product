@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9989",
-  "pname": "lotus instant messaging and web conferencing",
-  "pcpe": "cpe:/a:ibm:lotus_instant_messaging_and_web_conferencing"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9989",
+	"pname": "lotus instant messaging and web conferencing",
+	"pcpe": "cpe:/a:ibm:lotus_instant_messaging_and_web_conferencing"
 }

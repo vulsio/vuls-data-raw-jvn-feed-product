@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "46918",
-  "pname": "Samsung Update",
-  "pcpe": "cpe:/a:samsung:update"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "46918",
+	"pname": "Samsung Update",
+	"pcpe": "cpe:/a:samsung:update"
 }

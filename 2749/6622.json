@@ -1,8 +1,8 @@
 {
-  "vid": "2749",
-  "vname": "CDNetworks Co., Ltd.",
-  "vcpe": "cpe:/:cdnetworks",
-  "pid": "6622",
-  "pname": "download client",
-  "pcpe": "cpe:/a:cdnetworks:download_client"
+	"vid": "2749",
+	"vname": "CDNetworks Co., Ltd.",
+	"vcpe": "cpe:/:cdnetworks",
+	"pid": "6622",
+	"pname": "download client",
+	"pcpe": "cpe:/a:cdnetworks:download_client"
 }

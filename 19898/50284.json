@@ -1,8 +1,8 @@
 {
-  "vid": "19898",
-  "vname": "Saviynt",
-  "vcpe": "cpe:/:saviynt",
-  "pid": "50284",
-  "pname": "Saviynt IGA Release",
-  "pcpe": "cpe:/a:saviynt:saviynt_saviynt_iga_release"
+	"vid": "19898",
+	"vname": "Saviynt",
+	"vcpe": "cpe:/:saviynt",
+	"pid": "50284",
+	"pname": "Saviynt IGA Release",
+	"pcpe": "cpe:/a:saviynt:saviynt_saviynt_iga_release"
 }

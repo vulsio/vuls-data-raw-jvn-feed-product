@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "4048",
-  "pname": "YagattaTalk Messenger",
-  "pcpe": "cpe:/a:qualcomm:yagattatalk_messenger"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "4048",
+	"pname": "YagattaTalk Messenger",
+	"pcpe": "cpe:/a:qualcomm:yagattatalk_messenger"
 }

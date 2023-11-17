@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "24542",
-  "pname": "Discovery XR656 G2",
-  "pcpe": "cpe:/h:gehealthcare:discovery_xr656_g2"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "24542",
+	"pname": "Discovery XR656 G2",
+	"pcpe": "cpe:/h:gehealthcare:discovery_xr656_g2"
 }

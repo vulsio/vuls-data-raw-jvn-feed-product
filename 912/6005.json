@@ -1,8 +1,8 @@
 {
-  "vid": "912",
-  "vname": "ASP indir",
-  "vcpe": "cpe:/:aspindir",
-  "pid": "6005",
-  "pname": "tekman portal",
-  "pcpe": "cpe:/a:aspindir:tekman_portal"
+	"vid": "912",
+	"vname": "ASP indir",
+	"vcpe": "cpe:/:aspindir",
+	"pid": "6005",
+	"pname": "tekman portal",
+	"pcpe": "cpe:/a:aspindir:tekman_portal"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1434",
-  "vname": "Doctrine Project",
-  "vcpe": "cpe:/:doctrine-project",
-  "pid": "4304",
-  "pname": "doctrine",
-  "pcpe": "cpe:/a:doctrine-project:doctrine"
+	"vid": "1434",
+	"vname": "Doctrine Project",
+	"vcpe": "cpe:/:doctrine-project",
+	"pid": "4304",
+	"pname": "doctrine",
+	"pcpe": "cpe:/a:doctrine-project:doctrine"
 }

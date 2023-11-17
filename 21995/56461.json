@@ -1,8 +1,8 @@
 {
-  "vid": "21995",
-  "vname": "filebroker project",
-  "vcpe": "cpe:/:filebroker_project",
-  "pid": "56461",
-  "pname": "filebroker",
-  "pcpe": "cpe:/a:filebroker_project:filebroker"
+	"vid": "21995",
+	"vname": "filebroker project",
+	"vcpe": "cpe:/:filebroker_project",
+	"pid": "56461",
+	"pname": "filebroker",
+	"pcpe": "cpe:/a:filebroker_project:filebroker"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12461",
-  "vname": "Fenix Hosting",
-  "vcpe": "cpe:/:fenix_hosting",
-  "pid": "28169",
-  "pname": "fenix-open-source",
-  "pcpe": "cpe:/a:fenix_hosting:fenix-open-source"
+	"vid": "12461",
+	"vname": "Fenix Hosting",
+	"vcpe": "cpe:/:fenix_hosting",
+	"pid": "28169",
+	"pname": "fenix-open-source",
+	"pcpe": "cpe:/a:fenix_hosting:fenix-open-source"
 }

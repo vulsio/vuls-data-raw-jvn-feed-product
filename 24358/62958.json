@@ -1,8 +1,8 @@
 {
-  "vid": "24358",
-  "vname": "tenhot",
-  "vcpe": "cpe:/:tenhot",
-  "pid": "62958",
-  "pname": "tws-100 ファームウェア",
-  "pcpe": "cpe:/o:tenhot:tws-100_firmware"
+	"vid": "24358",
+	"vname": "tenhot",
+	"vcpe": "cpe:/:tenhot",
+	"pid": "62958",
+	"pname": "tws-100 ファームウェア",
+	"pcpe": "cpe:/o:tenhot:tws-100_firmware"
 }

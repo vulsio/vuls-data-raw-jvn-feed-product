@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "4608",
-  "pname": "activex sdk",
-  "pcpe": "cpe:/a:moxa:activex_sdk"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "4608",
+	"pname": "activex sdk",
+	"pcpe": "cpe:/a:moxa:activex_sdk"
 }

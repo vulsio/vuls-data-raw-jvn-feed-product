@@ -1,8 +1,8 @@
 {
-  "vid": "6474",
-  "vname": "openmosix project",
-  "vcpe": "cpe:/:openmosix_project",
-  "pid": "13018",
-  "pname": "openmosix",
-  "pcpe": "cpe:/o:openmosix_project:openmosix"
+	"vid": "6474",
+	"vname": "openmosix project",
+	"vcpe": "cpe:/:openmosix_project",
+	"pid": "13018",
+	"pname": "openmosix",
+	"pcpe": "cpe:/o:openmosix_project:openmosix"
 }

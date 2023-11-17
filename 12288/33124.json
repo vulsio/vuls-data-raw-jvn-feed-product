@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "33124",
-  "pname": "Cloud Controller",
-  "pcpe": "cpe:/a:cloud_foundry:cloud_controller"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "33124",
+	"pname": "Cloud Controller",
+	"pcpe": "cpe:/a:cloud_foundry:cloud_controller"
 }

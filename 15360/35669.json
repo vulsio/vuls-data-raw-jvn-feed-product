@@ -1,8 +1,8 @@
 {
-  "vid": "15360",
-  "vname": "pkgconf",
-  "vcpe": "cpe:/:pkgconf",
-  "pid": "35669",
-  "pname": "pkgconf",
-  "pcpe": "cpe:/a:pkgconf:pkgconf"
+	"vid": "15360",
+	"vname": "pkgconf",
+	"vcpe": "cpe:/:pkgconf",
+	"pid": "35669",
+	"pname": "pkgconf",
+	"pcpe": "cpe:/a:pkgconf:pkgconf"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "2744",
-  "pname": "Embedded GLIBC",
-  "pcpe": "cpe:/a:gnu:eglibc"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "2744",
+	"pname": "Embedded GLIBC",
+	"pcpe": "cpe:/a:gnu:eglibc"
 }

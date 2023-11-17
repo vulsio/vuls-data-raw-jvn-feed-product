@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27855",
-  "pname": "Tivoli Integration Composer",
-  "pcpe": "cpe:/a:ibm:tivoli_integration_composer"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27855",
+	"pname": "Tivoli Integration Composer",
+	"pcpe": "cpe:/a:ibm:tivoli_integration_composer"
 }

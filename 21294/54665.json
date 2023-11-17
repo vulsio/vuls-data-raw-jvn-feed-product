@@ -1,8 +1,8 @@
 {
-  "vid": "21294",
-  "vname": "Accops",
-  "vcpe": "cpe:/:accops",
-  "pid": "54665",
-  "pname": "HyWorks DVM Tools",
-  "pcpe": "cpe:/a:accops:hyworks_dvm_tools"
+	"vid": "21294",
+	"vname": "Accops",
+	"vcpe": "cpe:/:accops",
+	"pid": "54665",
+	"pname": "HyWorks DVM Tools",
+	"pcpe": "cpe:/a:accops:hyworks_dvm_tools"
 }

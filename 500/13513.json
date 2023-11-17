@@ -1,8 +1,8 @@
 {
-  "vid": "500",
-  "vname": "Mambo Foundation",
-  "vcpe": "cpe:/:mambo-foundation",
-  "pid": "13513",
-  "pname": "smf-forum",
-  "pcpe": "cpe:/a:mambo-foundation:smf-forum"
+	"vid": "500",
+	"vname": "Mambo Foundation",
+	"vcpe": "cpe:/:mambo-foundation",
+	"pid": "13513",
+	"pname": "smf-forum",
+	"pcpe": "cpe:/a:mambo-foundation:smf-forum"
 }

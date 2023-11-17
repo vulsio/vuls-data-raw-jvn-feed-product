@@ -1,8 +1,8 @@
 {
-  "vid": "17190",
-  "vname": "Netskope",
-  "vcpe": "cpe:/:netskope",
-  "pid": "40831",
-  "pname": "Netskope",
-  "pcpe": "cpe:/a:netskope:netskope"
+	"vid": "17190",
+	"vname": "Netskope",
+	"vcpe": "cpe:/:netskope",
+	"pid": "40831",
+	"pname": "Netskope",
+	"pcpe": "cpe:/a:netskope:netskope"
 }

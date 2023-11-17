@@ -1,8 +1,8 @@
 {
-  "vid": "7",
-  "vname": "ISC, Inc.",
-  "vcpe": "cpe:/:isc",
-  "pid": "42186",
-  "pname": "dhclient",
-  "pcpe": "cpe:/a:isc:dhclient"
+	"vid": "7",
+	"vname": "ISC, Inc.",
+	"vcpe": "cpe:/:isc",
+	"pid": "42186",
+	"pname": "dhclient",
+	"pcpe": "cpe:/a:isc:dhclient"
 }

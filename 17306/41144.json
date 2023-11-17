@@ -1,8 +1,8 @@
 {
-  "vid": "17306",
-  "vname": "Open Source Geospatial Foundation",
-  "vcpe": "cpe:/:osgeo",
-  "pid": "41144",
-  "pname": "GDAL",
-  "pcpe": "cpe:/a:osgeo:gdal"
+	"vid": "17306",
+	"vname": "Open Source Geospatial Foundation",
+	"vcpe": "cpe:/:osgeo",
+	"pid": "41144",
+	"pname": "GDAL",
+	"pcpe": "cpe:/a:osgeo:gdal"
 }

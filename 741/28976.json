@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "28976",
-  "pname": "DCS-934L ファームウェア",
-  "pcpe": "cpe:/o:dlink:dcs-934l_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "28976",
+	"pname": "DCS-934L ファームウェア",
+	"pcpe": "cpe:/o:dlink:dcs-934l_firmware"
 }

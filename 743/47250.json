@@ -1,8 +1,8 @@
 {
-  "vid": "743",
-  "vname": "Django Software Foundation",
-  "vcpe": "cpe:/:djangoproject",
-  "pid": "47250",
-  "pname": "Channels",
-  "pcpe": "cpe:/a:djangoproject:channels"
+	"vid": "743",
+	"vname": "Django Software Foundation",
+	"vcpe": "cpe:/:djangoproject",
+	"pid": "47250",
+	"pname": "Channels",
+	"pcpe": "cpe:/a:djangoproject:channels"
 }

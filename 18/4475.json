@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4475",
-  "pname": "proventia network mail security system virtual appliance firmware",
-  "pcpe": "cpe:/a:ibm:proventia_network_mail_security_system_virtual_appliance_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4475",
+	"pname": "proventia network mail security system virtual appliance firmware",
+	"pcpe": "cpe:/a:ibm:proventia_network_mail_security_system_virtual_appliance_firmware"
 }

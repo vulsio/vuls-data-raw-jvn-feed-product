@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "19926",
-  "pname": "Apache Syncope",
-  "pcpe": "cpe:/a:apache:syncope"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "19926",
+	"pname": "Apache Syncope",
+	"pcpe": "cpe:/a:apache:syncope"
 }

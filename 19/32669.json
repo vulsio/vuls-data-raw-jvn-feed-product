@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "32669",
-  "pname": "Cisco RV134W VDSL2 Wireless-AC VPN ルータファームウェア",
-  "pcpe": "cpe:/o:cisco:rv134w_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "32669",
+	"pname": "Cisco RV134W VDSL2 Wireless-AC VPN ルータファームウェア",
+	"pcpe": "cpe:/o:cisco:rv134w_firmware"
 }

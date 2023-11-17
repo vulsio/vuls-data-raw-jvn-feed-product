@@ -1,8 +1,8 @@
 {
-  "vid": "24742",
-  "vname": "ibax",
-  "vcpe": "cpe:/:ibax",
-  "pid": "64140",
-  "pname": "go-ibax",
-  "pcpe": "cpe:/a:ibax:go-ibax"
+	"vid": "24742",
+	"vname": "ibax",
+	"vcpe": "cpe:/:ibax",
+	"pid": "64140",
+	"pname": "go-ibax",
+	"pcpe": "cpe:/a:ibax:go-ibax"
 }

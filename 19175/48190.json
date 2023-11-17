@@ -1,8 +1,8 @@
 {
-  "vid": "19175",
-  "vname": "Fleet Device Management",
-  "vcpe": "cpe:/:fleetdm",
-  "pid": "48190",
-  "pname": "fleet",
-  "pcpe": "cpe:/a:fleetdm:fleet"
+	"vid": "19175",
+	"vname": "Fleet Device Management",
+	"vcpe": "cpe:/:fleetdm",
+	"pid": "48190",
+	"pname": "fleet",
+	"pcpe": "cpe:/a:fleetdm:fleet"
 }

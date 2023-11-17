@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "60806",
-  "pname": "amq broker",
-  "pcpe": "cpe:/a:redhat:amq_broker"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "60806",
+	"pname": "amq broker",
+	"pcpe": "cpe:/a:redhat:amq_broker"
 }

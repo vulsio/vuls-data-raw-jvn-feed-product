@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4026",
-  "pname": "Tivoli Service Request Manager",
-  "pcpe": "cpe:/a:ibm:tivoli_service_request_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4026",
+	"pname": "Tivoli Service Request Manager",
+	"pcpe": "cpe:/a:ibm:tivoli_service_request_manager"
 }

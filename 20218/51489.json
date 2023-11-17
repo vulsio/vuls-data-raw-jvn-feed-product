@@ -1,8 +1,8 @@
 {
-  "vid": "20218",
-  "vname": "Stockware",
-  "vcpe": "cpe:/:stockware",
-  "pid": "51489",
-  "pname": "Motor",
-  "pcpe": "cpe:/a:stockware:motor"
+	"vid": "20218",
+	"vname": "Stockware",
+	"vcpe": "cpe:/:stockware",
+	"pid": "51489",
+	"pname": "Motor",
+	"pcpe": "cpe:/a:stockware:motor"
 }

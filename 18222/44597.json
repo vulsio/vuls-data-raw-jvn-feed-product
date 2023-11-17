@@ -1,8 +1,8 @@
 {
-  "vid": "18222",
-  "vname": "Busch-Jaeger Elektro",
-  "vcpe": "cpe:/:busch-jaeger",
-  "pid": "44597",
-  "pname": "6186/11 ファームウェア",
-  "pcpe": "cpe:/o:busch-jaeger:6186%2f11_firmware"
+	"vid": "18222",
+	"vname": "Busch-Jaeger Elektro",
+	"vcpe": "cpe:/:busch-jaeger",
+	"pid": "44597",
+	"pname": "6186/11 ファームウェア",
+	"pcpe": "cpe:/o:busch-jaeger:6186%2f11_firmware"
 }

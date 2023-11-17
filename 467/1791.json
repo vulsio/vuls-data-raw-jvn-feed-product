@@ -1,8 +1,8 @@
 {
-  "vid": "467",
-  "vname": "Avahi",
-  "vcpe": "cpe:/:avahi",
-  "pid": "1791",
-  "pname": "Avahi",
-  "pcpe": "cpe:/a:avahi:avahi"
+	"vid": "467",
+	"vname": "Avahi",
+	"vcpe": "cpe:/:avahi",
+	"pid": "1791",
+	"pname": "Avahi",
+	"pcpe": "cpe:/a:avahi:avahi"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1721",
-  "vname": "SolarWinds",
-  "vcpe": "cpe:/:solarwinds",
-  "pid": "31899",
-  "pname": "SolarWinds Storage Profiler",
-  "pcpe": "cpe:/a:solarwinds:storage_profiler"
+	"vid": "1721",
+	"vname": "SolarWinds",
+	"vcpe": "cpe:/:solarwinds",
+	"pid": "31899",
+	"pname": "SolarWinds Storage Profiler",
+	"pcpe": "cpe:/a:solarwinds:storage_profiler"
 }

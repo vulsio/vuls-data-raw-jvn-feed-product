@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "26946",
-  "pname": "ThinkCentre M8600t/s",
-  "pcpe": "cpe:/h:lenovo:thinkcentre_m8600t%2fs"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "26946",
+	"pname": "ThinkCentre M8600t/s",
+	"pcpe": "cpe:/h:lenovo:thinkcentre_m8600t%2fs"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22424",
-  "vname": "fluture-node project",
-  "vcpe": "cpe:/:fluture-node_project",
-  "pid": "57673",
-  "pname": "fluture-node",
-  "pcpe": "cpe:/a:fluture-node_project:fluture-node"
+	"vid": "22424",
+	"vname": "fluture-node project",
+	"vcpe": "cpe:/:fluture-node_project",
+	"pid": "57673",
+	"pname": "fluture-node",
+	"pcpe": "cpe:/a:fluture-node_project:fluture-node"
 }

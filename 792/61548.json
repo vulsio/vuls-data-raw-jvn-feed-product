@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "61548",
-  "pname": "NWA110AX ファームウェア",
-  "pcpe": "cpe:/o:zyxel:nwa110ax_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "61548",
+	"pname": "NWA110AX ファームウェア",
+	"pcpe": "cpe:/o:zyxel:nwa110ax_firmware"
 }

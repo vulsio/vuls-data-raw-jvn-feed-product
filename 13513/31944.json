@@ -1,8 +1,8 @@
 {
-  "vid": "13513",
-  "vname": "Xi Software",
-  "vcpe": "cpe:/:xi-soft",
-  "pid": "31944",
-  "pname": "Net Transport",
-  "pcpe": "cpe:/a:xi-soft:nettransport_download_manager"
+	"vid": "13513",
+	"vname": "Xi Software",
+	"vcpe": "cpe:/:xi-soft",
+	"pid": "31944",
+	"pname": "Net Transport",
+	"pcpe": "cpe:/a:xi-soft:nettransport_download_manager"
 }

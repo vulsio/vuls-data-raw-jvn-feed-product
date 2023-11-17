@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "49820",
-  "pname": "Dell SupportAssist Client ProManage",
-  "pcpe": "cpe:/a:dell:supportassist_client_promanage"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "49820",
+	"pname": "Dell SupportAssist Client ProManage",
+	"pcpe": "cpe:/a:dell:supportassist_client_promanage"
 }

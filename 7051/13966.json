@@ -1,8 +1,8 @@
 {
-  "vid": "7051",
-  "vname": "potato-scripts",
-  "vcpe": "cpe:/:potato-scripts",
-  "pid": "13966",
-  "pname": "potato news",
-  "pcpe": "cpe:/a:potato-scripts:potato_news"
+	"vid": "7051",
+	"vname": "potato-scripts",
+	"vcpe": "cpe:/:potato-scripts",
+	"pid": "13966",
+	"pname": "potato news",
+	"pcpe": "cpe:/a:potato-scripts:potato_news"
 }

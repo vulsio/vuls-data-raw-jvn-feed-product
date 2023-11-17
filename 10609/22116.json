@@ -1,8 +1,8 @@
 {
-  "vid": "10609",
-  "vname": "friendcasterapp",
-  "vcpe": "cpe:/:friendcasterapp",
-  "pid": "22116",
-  "pname": "friendcaster",
-  "pcpe": "cpe:/a:friendcasterapp:friendcaster"
+	"vid": "10609",
+	"vname": "friendcasterapp",
+	"vcpe": "cpe:/:friendcasterapp",
+	"pid": "22116",
+	"pname": "friendcaster",
+	"pcpe": "cpe:/a:friendcasterapp:friendcaster"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "25962",
-  "pname": "Lenovo Fingerprint Manager",
-  "pcpe": "cpe:/a:lenovo:fingerprint_manager"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "25962",
+	"pname": "Lenovo Fingerprint Manager",
+	"pcpe": "cpe:/a:lenovo:fingerprint_manager"
 }

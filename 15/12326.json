@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "12326",
-  "pname": "apex",
-  "pcpe": "cpe:/a:oracle:apex"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "12326",
+	"pname": "apex",
+	"pcpe": "cpe:/a:oracle:apex"
 }

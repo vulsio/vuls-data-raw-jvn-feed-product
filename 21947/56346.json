@@ -1,8 +1,8 @@
 {
-  "vid": "21947",
-  "vname": "Uniswap Labs",
-  "vcpe": "cpe:/:uniswap",
-  "pid": "56346",
-  "pname": "Universal Router ファームウェア",
-  "pcpe": "cpe:/o:uniswap:universal_router_firmware"
+	"vid": "21947",
+	"vname": "Uniswap Labs",
+	"vcpe": "cpe:/:uniswap",
+	"pid": "56346",
+	"pname": "Universal Router ファームウェア",
+	"pcpe": "cpe:/o:uniswap:universal_router_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "8994",
-  "pname": "SlingPostServlet",
-  "pcpe": "cpe:/a:apache:org.apache.sling.servlets.post"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "8994",
+	"pname": "SlingPostServlet",
+	"pcpe": "cpe:/a:apache:org.apache.sling.servlets.post"
 }

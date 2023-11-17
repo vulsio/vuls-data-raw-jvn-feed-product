@@ -1,8 +1,8 @@
 {
-  "vid": "9278",
-  "vname": "Eaton",
-  "vcpe": "cpe:/:eaton",
-  "pid": "46911",
-  "pname": "9000x Programming and Configuration ソフトウェア",
-  "pcpe": "cpe:/a:eaton:9000x_programming_and_configuration_software"
+	"vid": "9278",
+	"vname": "Eaton",
+	"vcpe": "cpe:/:eaton",
+	"pid": "46911",
+	"pname": "9000x Programming and Configuration ソフトウェア",
+	"pcpe": "cpe:/a:eaton:9000x_programming_and_configuration_software"
 }

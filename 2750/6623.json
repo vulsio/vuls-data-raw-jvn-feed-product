@@ -1,8 +1,8 @@
 {
-  "vid": "2750",
-  "vname": "cds software consortium",
-  "vcpe": "cpe:/:cds_software_consortium",
-  "pid": "6623",
-  "pname": "cds agenda",
-  "pcpe": "cpe:/a:cds_software_consortium:cds_agenda"
+	"vid": "2750",
+	"vname": "cds software consortium",
+	"vcpe": "cpe:/:cds_software_consortium",
+	"pid": "6623",
+	"pname": "cds agenda",
+	"pcpe": "cpe:/a:cds_software_consortium:cds_agenda"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22460",
-  "vname": "sqlpad",
-  "vcpe": "cpe:/:sqlpad",
-  "pid": "57782",
-  "pname": "sqlpad",
-  "pcpe": "cpe:/a:sqlpad:sqlpad"
+	"vid": "22460",
+	"vname": "sqlpad",
+	"vcpe": "cpe:/:sqlpad",
+	"pid": "57782",
+	"pname": "sqlpad",
+	"pcpe": "cpe:/a:sqlpad:sqlpad"
 }

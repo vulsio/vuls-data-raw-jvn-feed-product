@@ -1,8 +1,8 @@
 {
-  "vid": "1304",
-  "vname": "カスペルスキー",
-  "vcpe": "cpe:/:kaspersky",
-  "pid": "46420",
-  "pname": "Security Center Web Console",
-  "pcpe": "cpe:/a:kaspersky:security_center_web_console"
+	"vid": "1304",
+	"vname": "カスペルスキー",
+	"vcpe": "cpe:/:kaspersky",
+	"pid": "46420",
+	"pname": "Security Center Web Console",
+	"pcpe": "cpe:/a:kaspersky:security_center_web_console"
 }

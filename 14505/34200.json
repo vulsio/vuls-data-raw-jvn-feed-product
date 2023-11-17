@@ -1,8 +1,8 @@
 {
-  "vid": "14505",
-  "vname": "RRToken project",
-  "vcpe": "cpe:/:rrtoken_project",
-  "pid": "34200",
-  "pname": "RRToken",
-  "pcpe": "cpe:/a:rrtoken_project:rrtoken"
+	"vid": "14505",
+	"vname": "RRToken project",
+	"vcpe": "cpe:/:rrtoken_project",
+	"pid": "34200",
+	"pname": "RRToken",
+	"pcpe": "cpe:/a:rrtoken_project:rrtoken"
 }

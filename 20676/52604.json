@@ -1,8 +1,8 @@
 {
-  "vid": "20676",
-  "vname": "Shenzhen Bluetrum Technology Co., Ltd.",
-  "vcpe": "cpe:/:bluetrum",
-  "pid": "52604",
-  "pname": "AB5376T ファームウェア",
-  "pcpe": "cpe:/o:bluetrum:ab5376t_firmware"
+	"vid": "20676",
+	"vname": "Shenzhen Bluetrum Technology Co., Ltd.",
+	"vcpe": "cpe:/:bluetrum",
+	"pid": "52604",
+	"pname": "AB5376T ファームウェア",
+	"pcpe": "cpe:/o:bluetrum:ab5376t_firmware"
 }

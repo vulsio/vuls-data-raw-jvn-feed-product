@@ -1,8 +1,8 @@
 {
-  "vid": "6115",
-  "vname": "open-ftpd",
-  "vcpe": "cpe:/:open-ftpd",
-  "pid": "12252",
-  "pname": "open-ftpd",
-  "pcpe": "cpe:/a:open-ftpd:open-ftpd"
+	"vid": "6115",
+	"vname": "open-ftpd",
+	"vcpe": "cpe:/:open-ftpd",
+	"pid": "12252",
+	"pname": "open-ftpd",
+	"pcpe": "cpe:/a:open-ftpd:open-ftpd"
 }

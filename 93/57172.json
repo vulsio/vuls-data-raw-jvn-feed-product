@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "57172",
-  "pname": "Entity Embed",
-  "pcpe": "cpe:/a:drupal:entity_embed"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "57172",
+	"pname": "Entity Embed",
+	"pcpe": "cpe:/a:drupal:entity_embed"
 }

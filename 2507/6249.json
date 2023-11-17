@@ -1,8 +1,8 @@
 {
-  "vid": "2507",
-  "vname": "besavvy",
-  "vcpe": "cpe:/:besavvy",
-  "pid": "6249",
-  "pname": "savvy content manager",
-  "pcpe": "cpe:/a:besavvy:savvy_content_manager"
+	"vid": "2507",
+	"vname": "besavvy",
+	"vcpe": "cpe:/:besavvy",
+	"pid": "6249",
+	"pname": "savvy content manager",
+	"pcpe": "cpe:/a:besavvy:savvy_content_manager"
 }

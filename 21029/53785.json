@@ -1,8 +1,8 @@
 {
-  "vid": "21029",
-  "vname": "Video Player for YouTube project",
-  "vcpe": "cpe:/:video_player_for_youtube_project",
-  "pid": "53785",
-  "pname": "Video Player for YouTube",
-  "pcpe": "cpe:/a:video_player_for_youtube_project:video_player_for_youtube"
+	"vid": "21029",
+	"vname": "Video Player for YouTube project",
+	"vcpe": "cpe:/:video_player_for_youtube_project",
+	"pid": "53785",
+	"pname": "Video Player for YouTube",
+	"pcpe": "cpe:/a:video_player_for_youtube_project:video_player_for_youtube"
 }

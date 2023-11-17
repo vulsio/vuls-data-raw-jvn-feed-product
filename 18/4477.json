@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4477",
-  "pname": "rational common licensing",
-  "pcpe": "cpe:/a:ibm:rational_common_licensing"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4477",
+	"pname": "rational common licensing",
+	"pcpe": "cpe:/a:ibm:rational_common_licensing"
 }

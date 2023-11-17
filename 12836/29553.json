@@ -1,8 +1,8 @@
 {
-  "vid": "12836",
-  "vname": "OpenWebif project",
-  "vcpe": "cpe:/:openwebif_project",
-  "pid": "29553",
-  "pname": "OpenWebif",
-  "pcpe": "cpe:/a:openwebif_project:openwebif"
+	"vid": "12836",
+	"vname": "OpenWebif project",
+	"vcpe": "cpe:/:openwebif_project",
+	"pid": "29553",
+	"pname": "OpenWebif",
+	"pcpe": "cpe:/a:openwebif_project:openwebif"
 }

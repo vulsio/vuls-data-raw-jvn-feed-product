@@ -1,8 +1,8 @@
 {
-  "vid": "1113",
-  "vname": "Qihoo 360 Technology",
-  "vcpe": "cpe:/:360",
-  "pid": "41460",
-  "pname": "safe router p1 ファームウェア",
-  "pcpe": "cpe:/o:360:safe_router_p1_firmware"
+	"vid": "1113",
+	"vname": "Qihoo 360 Technology",
+	"vcpe": "cpe:/:360",
+	"pid": "41460",
+	"pname": "safe router p1 ファームウェア",
+	"pcpe": "cpe:/o:360:safe_router_p1_firmware"
 }

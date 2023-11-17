@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3162",
-  "pname": "HP Operations Agent",
-  "pcpe": "cpe:/a:hp:operations_agent"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3162",
+	"pname": "HP Operations Agent",
+	"pcpe": "cpe:/a:hp:operations_agent"
 }

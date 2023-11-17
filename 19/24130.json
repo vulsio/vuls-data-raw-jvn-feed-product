@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24130",
-  "pname": "Cisco Headend System Release",
-  "pcpe": "cpe:/o:cisco:headend_system_release"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24130",
+	"pname": "Cisco Headend System Release",
+	"pcpe": "cpe:/o:cisco:headend_system_release"
 }

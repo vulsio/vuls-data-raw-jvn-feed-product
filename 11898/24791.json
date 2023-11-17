@@ -1,8 +1,8 @@
 {
-  "vid": "11898",
-  "vname": "libvdpau project",
-  "vcpe": "cpe:/:libvdpau_project",
-  "pid": "24791",
-  "pname": "libvdpau",
-  "pcpe": "cpe:/a:libvdpau_project:libvdpau"
+	"vid": "11898",
+	"vname": "libvdpau project",
+	"vcpe": "cpe:/:libvdpau_project",
+	"pid": "24791",
+	"pname": "libvdpau",
+	"pcpe": "cpe:/a:libvdpau_project:libvdpau"
 }

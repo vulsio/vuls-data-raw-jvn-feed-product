@@ -1,8 +1,8 @@
 {
-  "vid": "16248",
-  "vname": "WinMagic",
-  "vcpe": "cpe:/:winmagic",
-  "pid": "38220",
-  "pname": "SecureDoc Disk Encryption",
-  "pcpe": "cpe:/a:winmagic:securedoc_disk_encryption"
+	"vid": "16248",
+	"vname": "WinMagic",
+	"vcpe": "cpe:/:winmagic",
+	"pid": "38220",
+	"pname": "SecureDoc Disk Encryption",
+	"pcpe": "cpe:/a:winmagic:securedoc_disk_encryption"
 }

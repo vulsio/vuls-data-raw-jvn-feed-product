@@ -1,8 +1,8 @@
 {
-  "vid": "15541",
-  "vname": "Information Builders",
-  "vcpe": "cpe:/:informationbuilders",
-  "pid": "36521",
-  "pname": "Data Quality Suite",
-  "pcpe": "cpe:/a:informationbuilders:data_quality_suite"
+	"vid": "15541",
+	"vname": "Information Builders",
+	"vcpe": "cpe:/:informationbuilders",
+	"pid": "36521",
+	"pname": "Data Quality Suite",
+	"pcpe": "cpe:/a:informationbuilders:data_quality_suite"
 }

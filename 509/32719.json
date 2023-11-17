@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "32719",
-  "pname": "SAP ERP Financials Information System",
-  "pcpe": "cpe:/a:sap:erp_financials_information_system"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "32719",
+	"pname": "SAP ERP Financials Information System",
+	"pcpe": "cpe:/a:sap:erp_financials_information_system"
 }

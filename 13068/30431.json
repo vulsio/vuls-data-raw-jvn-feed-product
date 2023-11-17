@@ -1,8 +1,8 @@
 {
-  "vid": "13068",
-  "vname": "KNX",
-  "vcpe": "cpe:/:knx",
-  "pid": "30431",
-  "pname": "ETS",
-  "pcpe": "cpe:/a:knx:ets"
+	"vid": "13068",
+	"vname": "KNX",
+	"vcpe": "cpe:/:knx",
+	"pid": "30431",
+	"pname": "ETS",
+	"pcpe": "cpe:/a:knx:ets"
 }

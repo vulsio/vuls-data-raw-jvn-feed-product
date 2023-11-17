@@ -1,8 +1,8 @@
 {
-  "vid": "12198",
-  "vname": "DEXIS",
-  "vcpe": "cpe:/:dexis",
-  "pid": "26805",
-  "pname": "DEXIS Imaging Suite",
-  "pcpe": "cpe:/a:dexis:imaging_suite"
+	"vid": "12198",
+	"vname": "DEXIS",
+	"vcpe": "cpe:/:dexis",
+	"pid": "26805",
+	"pname": "DEXIS Imaging Suite",
+	"pcpe": "cpe:/a:dexis:imaging_suite"
 }

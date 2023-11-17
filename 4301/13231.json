@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "13231",
-  "pname": "Amazon EC2 API Tools Java ライブラリ",
-  "pcpe": "cpe:/a:amazon:ec2_api_tools_java_library"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "13231",
+	"pname": "Amazon EC2 API Tools Java ライブラリ",
+	"pcpe": "cpe:/a:amazon:ec2_api_tools_java_library"
 }

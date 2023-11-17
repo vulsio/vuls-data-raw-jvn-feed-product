@@ -1,8 +1,8 @@
 {
-  "vid": "13945",
-  "vname": "Unify Software and Solutions GmbH & Co. KG",
-  "vcpe": "cpe:/:unify",
-  "pid": "42663",
-  "pname": "OpenStage 80 G ファームウェア",
-  "pcpe": "cpe:/o:unify:openstage_80_g_firmware"
+	"vid": "13945",
+	"vname": "Unify Software and Solutions GmbH & Co. KG",
+	"vcpe": "cpe:/:unify",
+	"pid": "42663",
+	"pname": "OpenStage 80 G ファームウェア",
+	"pcpe": "cpe:/o:unify:openstage_80_g_firmware"
 }

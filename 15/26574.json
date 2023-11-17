@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26574",
-  "pname": "Oracle Switch ES1-24",
-  "pcpe": "cpe:/a:oracle:oracle_switch_es1-24"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26574",
+	"pname": "Oracle Switch ES1-24",
+	"pcpe": "cpe:/a:oracle:oracle_switch_es1-24"
 }

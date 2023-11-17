@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "47481",
-  "pname": "WBR-G54 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wbr-g54_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "47481",
+	"pname": "WBR-G54 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wbr-g54_firmware"
 }

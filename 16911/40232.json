@@ -1,8 +1,8 @@
 {
-  "vid": "16911",
-  "vname": "ArrayFire",
-  "vcpe": "cpe:/:arrayfire",
-  "pid": "40232",
-  "pname": "ArrayFire",
-  "pcpe": "cpe:/a:arrayfire:arrayfire"
+	"vid": "16911",
+	"vname": "ArrayFire",
+	"vcpe": "cpe:/:arrayfire",
+	"pid": "40232",
+	"pname": "ArrayFire",
+	"pcpe": "cpe:/a:arrayfire:arrayfire"
 }

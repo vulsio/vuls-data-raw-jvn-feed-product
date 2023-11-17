@@ -1,8 +1,8 @@
 {
-  "vid": "624",
-  "vname": "CollabNet, Inc.",
-  "vcpe": "cpe:/:collabnet",
-  "pid": "17886",
-  "pname": "Subversion",
-  "pcpe": "cpe:/a:collabnet:subversion"
+	"vid": "624",
+	"vname": "CollabNet, Inc.",
+	"vcpe": "cpe:/:collabnet",
+	"pid": "17886",
+	"pname": "Subversion",
+	"pcpe": "cpe:/a:collabnet:subversion"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63402",
-  "pname": "OMEN Gaming Hub",
-  "pcpe": "cpe:/a:hp:omen_gaming_hub"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63402",
+	"pname": "OMEN Gaming Hub",
+	"pcpe": "cpe:/a:hp:omen_gaming_hub"
 }

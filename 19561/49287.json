@@ -1,8 +1,8 @@
 {
-  "vid": "19561",
-  "vname": "Stockdio",
-  "vcpe": "cpe:/:stockdio",
-  "pid": "49287",
-  "pname": "Stockdio Historical Chart",
-  "pcpe": "cpe:/a:stockdio:stockdio_historical_chart"
+	"vid": "19561",
+	"vname": "Stockdio",
+	"vcpe": "cpe:/:stockdio",
+	"pid": "49287",
+	"pname": "Stockdio Historical Chart",
+	"pcpe": "cpe:/a:stockdio:stockdio_historical_chart"
 }

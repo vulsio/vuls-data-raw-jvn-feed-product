@@ -1,8 +1,8 @@
 {
-  "vid": "11894",
-  "vname": "OctoberCMS",
-  "vcpe": "cpe:/:octobercms",
-  "pid": "45041",
-  "pname": "debugbar",
-  "pcpe": "cpe:/a:octobercms:debugbar"
+	"vid": "11894",
+	"vname": "OctoberCMS",
+	"vcpe": "cpe:/:octobercms",
+	"pid": "45041",
+	"pname": "debugbar",
+	"pcpe": "cpe:/a:octobercms:debugbar"
 }

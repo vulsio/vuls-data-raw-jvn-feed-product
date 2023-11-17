@@ -1,8 +1,8 @@
 {
-  "vid": "399",
-  "vname": "rPath, Inc",
-  "vcpe": "cpe:/:rpath",
-  "pid": "8910",
-  "pname": "rpath linux",
-  "pcpe": "cpe:/o:rpath:rpath_linux"
+	"vid": "399",
+	"vname": "rPath, Inc",
+	"vcpe": "cpe:/:rpath",
+	"pid": "8910",
+	"pname": "rpath linux",
+	"pcpe": "cpe:/o:rpath:rpath_linux"
 }

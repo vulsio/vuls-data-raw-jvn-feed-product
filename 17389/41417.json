@@ -1,8 +1,8 @@
 {
-  "vid": "17389",
-  "vname": "archivemail project",
-  "vcpe": "cpe:/:archivemail_project",
-  "pid": "41417",
-  "pname": "archivemail",
-  "pcpe": "cpe:/a:archivemail_project:archivemail"
+	"vid": "17389",
+	"vname": "archivemail project",
+	"vcpe": "cpe:/:archivemail_project",
+	"pid": "41417",
+	"pname": "archivemail",
+	"pcpe": "cpe:/a:archivemail_project:archivemail"
 }

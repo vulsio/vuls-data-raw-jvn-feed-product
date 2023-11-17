@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "6546",
-  "pname": "unicenter service level management",
-  "pcpe": "cpe:/a:ca:unicenter_service_level_management"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "6546",
+	"pname": "unicenter service level management",
+	"pcpe": "cpe:/a:ca:unicenter_service_level_management"
 }

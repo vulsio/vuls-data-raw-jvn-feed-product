@@ -1,8 +1,8 @@
 {
-  "vid": "4468",
-  "vname": "Graphisoft",
-  "vcpe": "cpe:/:graphisoft",
-  "pid": "58658",
-  "pname": "bimx desktop viewer",
-  "pcpe": "cpe:/a:graphisoft:bimx_desktop_viewer"
+	"vid": "4468",
+	"vname": "Graphisoft",
+	"vcpe": "cpe:/:graphisoft",
+	"pid": "58658",
+	"pname": "bimx desktop viewer",
+	"pcpe": "cpe:/a:graphisoft:bimx_desktop_viewer"
 }

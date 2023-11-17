@@ -1,8 +1,8 @@
 {
-  "vid": "6209",
-  "vname": "OXID eSales AG",
-  "vcpe": "cpe:/:oxid-esales",
-  "pid": "12412",
-  "pname": "OXID eShop",
-  "pcpe": "cpe:/a:oxid-esales:eshop"
+	"vid": "6209",
+	"vname": "OXID eSales AG",
+	"vcpe": "cpe:/:oxid-esales",
+	"pid": "12412",
+	"pname": "OXID eShop",
+	"pcpe": "cpe:/a:oxid-esales:eshop"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "46552",
-  "pname": "Aterm WG2600HP ファームウェア",
-  "pcpe": "cpe:/o:nec:aterm_wg2600hp_firmware"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "46552",
+	"pname": "Aterm WG2600HP ファームウェア",
+	"pcpe": "cpe:/o:nec:aterm_wg2600hp_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "54590",
-  "pname": "AMD uProf",
-  "pcpe": "cpe:/a:amd:amd_uprof"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "54590",
+	"pname": "AMD uProf",
+	"pcpe": "cpe:/a:amd:amd_uprof"
 }

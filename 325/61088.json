@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "61088",
-  "pname": "IdeaCentre E96Z ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideacentre_e96z_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "61088",
+	"pname": "IdeaCentre E96Z ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideacentre_e96z_firmware"
 }

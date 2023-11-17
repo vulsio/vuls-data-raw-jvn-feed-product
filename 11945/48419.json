@@ -1,8 +1,8 @@
 {
-  "vid": "11945",
-  "vname": "エンドレスハウザー ジャパン株式会社",
-  "vcpe": "cpe:/:endress%2Bhauser",
-  "pid": "48419",
-  "pname": "Ecograph T Neutral/Private Label ORSG35 ファームウェア",
-  "pcpe": "cpe:/o:endress%2Bhauser:orsg35_firmware"
+	"vid": "11945",
+	"vname": "エンドレスハウザー ジャパン株式会社",
+	"vcpe": "cpe:/:endress%2Bhauser",
+	"pid": "48419",
+	"pname": "Ecograph T Neutral/Private Label ORSG35 ファームウェア",
+	"pcpe": "cpe:/o:endress%2Bhauser:orsg35_firmware"
 }

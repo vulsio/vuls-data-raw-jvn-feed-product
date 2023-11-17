@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "24710",
-  "pname": "HP EliteBook 840 G1",
-  "pcpe": "cpe:/h:hp:elitebook_840_g1"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "24710",
+	"pname": "HP EliteBook 840 G1",
+	"pcpe": "cpe:/h:hp:elitebook_840_g1"
 }

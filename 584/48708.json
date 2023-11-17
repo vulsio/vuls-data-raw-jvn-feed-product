@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "48708",
-  "pname": "SICAM A8000 CP-8022 ファームウェア",
-  "pcpe": "cpe:/o:siemens:sicam_a8000_cp-8022_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "48708",
+	"pname": "SICAM A8000 CP-8022 ファームウェア",
+	"pcpe": "cpe:/o:siemens:sicam_a8000_cp-8022_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2393",
-  "vname": "AVAST Software s.r.o.",
-  "vcpe": "cpe:/:avast",
-  "pid": "46527",
-  "pname": "Avast SecureLine VPN",
-  "pcpe": "cpe:/a:avast:secureline_vpn"
+	"vid": "2393",
+	"vname": "AVAST Software s.r.o.",
+	"vcpe": "cpe:/:avast",
+	"pid": "46527",
+	"pname": "Avast SecureLine VPN",
+	"pcpe": "cpe:/a:avast:secureline_vpn"
 }

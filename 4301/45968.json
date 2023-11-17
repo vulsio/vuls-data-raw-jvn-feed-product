@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "45968",
-  "pname": "AWS S3 Crypto SDK",
-  "pcpe": "cpe:/a:amazon:aws_s3_crypto_sdk"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "45968",
+	"pname": "AWS S3 Crypto SDK",
+	"pcpe": "cpe:/a:amazon:aws_s3_crypto_sdk"
 }

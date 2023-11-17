@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29242",
-  "pname": "SIMOTION ファームウェア",
-  "pcpe": "cpe:/o:siemens:simotion_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29242",
+	"pname": "SIMOTION ファームウェア",
+	"pcpe": "cpe:/o:siemens:simotion_firmware"
 }

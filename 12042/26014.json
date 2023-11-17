@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26014",
-  "pname": "HPE Universal CMDB Foundation",
-  "pcpe": "cpe:/a:hp:universal_cmbd_foundation"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26014",
+	"pname": "HPE Universal CMDB Foundation",
+	"pcpe": "cpe:/a:hp:universal_cmbd_foundation"
 }

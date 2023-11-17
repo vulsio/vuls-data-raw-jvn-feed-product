@@ -1,8 +1,8 @@
 {
-  "vid": "21650",
-  "vname": "MeterSphere",
-  "vcpe": "cpe:/:metersphere",
-  "pid": "55606",
-  "pname": "MeterSphere",
-  "pcpe": "cpe:/a:metersphere:metersphere"
+	"vid": "21650",
+	"vname": "MeterSphere",
+	"vcpe": "cpe:/:metersphere",
+	"pid": "55606",
+	"pname": "MeterSphere",
+	"pcpe": "cpe:/a:metersphere:metersphere"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19470",
-  "vname": "Sensormatic Electronics",
-  "vcpe": "cpe:/:sensormatic_electronics",
-  "pid": "50466",
-  "pname": "VideoEdge",
-  "pcpe": "cpe:/a:sensormatic_electronics:sensormatic_electronics_videoedge"
+	"vid": "19470",
+	"vname": "Sensormatic Electronics",
+	"vcpe": "cpe:/:sensormatic_electronics",
+	"pid": "50466",
+	"pname": "VideoEdge",
+	"pcpe": "cpe:/a:sensormatic_electronics:sensormatic_electronics_videoedge"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13570",
-  "vname": "Sensormatic Electronics",
-  "vcpe": "cpe:/:swhouse",
-  "pid": "58129",
-  "pname": "iSTAR Ultra LT ファームウェア",
-  "pcpe": "cpe:/o:swhouse:istar_ultra_lt_firmware"
+	"vid": "13570",
+	"vname": "Sensormatic Electronics",
+	"vcpe": "cpe:/:swhouse",
+	"pid": "58129",
+	"pname": "iSTAR Ultra LT ファームウェア",
+	"pcpe": "cpe:/o:swhouse:istar_ultra_lt_firmware"
 }

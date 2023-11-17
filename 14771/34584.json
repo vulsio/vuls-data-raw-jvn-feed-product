@@ -1,8 +1,8 @@
 {
-  "vid": "14771",
-  "vname": "Airbnb",
-  "vcpe": "cpe:/:airbnb",
-  "pid": "34584",
-  "pname": "Knowledge Repo",
-  "pcpe": "cpe:/a:airbnb:knowledge_repo"
+	"vid": "14771",
+	"vname": "Airbnb",
+	"vcpe": "cpe:/:airbnb",
+	"pid": "34584",
+	"pname": "Knowledge Repo",
+	"pcpe": "cpe:/a:airbnb:knowledge_repo"
 }

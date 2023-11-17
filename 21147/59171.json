@@ -1,8 +1,8 @@
 {
-  "vid": "21147",
-  "vname": "FluxCD",
-  "vcpe": "cpe:/:fluxcd",
-  "pid": "59171",
-  "pname": "helm-controller",
-  "pcpe": "cpe:/a:fluxcd:helm-controller"
+	"vid": "21147",
+	"vname": "FluxCD",
+	"vcpe": "cpe:/:fluxcd",
+	"pid": "59171",
+	"pname": "helm-controller",
+	"pcpe": "cpe:/a:fluxcd:helm-controller"
 }

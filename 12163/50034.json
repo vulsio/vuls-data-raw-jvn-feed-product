@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "50034",
-  "pname": "CloudBees CD",
-  "pcpe": "cpe:/a:jenkins:cloudbees_cd"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "50034",
+	"pname": "CloudBees CD",
+	"pcpe": "cpe:/a:jenkins:cloudbees_cd"
 }

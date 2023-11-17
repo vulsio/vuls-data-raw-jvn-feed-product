@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "44625",
-  "pname": "OceanStor 5310 ファームウェア",
-  "pcpe": "cpe:/o:huawei:oceanstor_5310_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "44625",
+	"pname": "OceanStor 5310 ファームウェア",
+	"pcpe": "cpe:/o:huawei:oceanstor_5310_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "28",
-  "pname": "Microsoft IIS",
-  "pcpe": "cpe:/a:microsoft:iis"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "28",
+	"pname": "Microsoft IIS",
+	"pcpe": "cpe:/a:microsoft:iis"
 }

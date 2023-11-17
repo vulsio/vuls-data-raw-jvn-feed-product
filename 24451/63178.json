@@ -1,8 +1,8 @@
 {
-  "vid": "24451",
-  "vname": "cloudbase",
-  "vcpe": "cpe:/:cloudbase",
-  "pid": "63178",
-  "pname": "open vswitch",
-  "pcpe": "cpe:/a:cloudbase:open_vswitch"
+	"vid": "24451",
+	"vname": "cloudbase",
+	"vcpe": "cpe:/:cloudbase",
+	"pid": "63178",
+	"pname": "open vswitch",
+	"pcpe": "cpe:/a:cloudbase:open_vswitch"
 }

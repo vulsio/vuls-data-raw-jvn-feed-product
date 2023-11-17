@@ -1,8 +1,8 @@
 {
-  "vid": "9471",
-  "vname": "Seowon Intech",
-  "vcpe": "cpe:/:seowon_intech",
-  "pid": "39039",
-  "pname": "SWR-300B ファームウェア",
-  "pcpe": "cpe:/o:seowon_intech:swr-300b_firmware"
+	"vid": "9471",
+	"vname": "Seowon Intech",
+	"vcpe": "cpe:/:seowon_intech",
+	"pid": "39039",
+	"pname": "SWR-300B ファームウェア",
+	"pcpe": "cpe:/o:seowon_intech:swr-300b_firmware"
 }

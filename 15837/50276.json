@@ -1,8 +1,8 @@
 {
-  "vid": "15837",
-  "vname": "China Mobile Limited",
-  "vcpe": "cpe:/:chinamobile",
-  "pid": "50276",
-  "pname": "An Lianbao WF-1 ファームウェア",
-  "pcpe": "cpe:/o:chinamobile:an_lianbao_wf-1_firmware"
+	"vid": "15837",
+	"vname": "China Mobile Limited",
+	"vcpe": "cpe:/:chinamobile",
+	"pid": "50276",
+	"pname": "An Lianbao WF-1 ファームウェア",
+	"pcpe": "cpe:/o:chinamobile:an_lianbao_wf-1_firmware"
 }

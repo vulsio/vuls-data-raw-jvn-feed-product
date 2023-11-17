@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "43697",
-  "pname": "Fabric Attached Storage 8300 ファームウェア",
-  "pcpe": "cpe:/o:netapp:fabric-attached_storage_8300_firmware"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "43697",
+	"pname": "Fabric Attached Storage 8300 ファームウェア",
+	"pcpe": "cpe:/o:netapp:fabric-attached_storage_8300_firmware"
 }

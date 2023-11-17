@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "27635",
-  "pname": "Spring Security",
-  "pcpe": "cpe:/a:greenplum:spring_security"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "27635",
+	"pname": "Spring Security",
+	"pcpe": "cpe:/a:greenplum:spring_security"
 }

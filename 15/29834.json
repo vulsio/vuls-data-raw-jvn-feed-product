@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "29834",
-  "pname": "Oracle Field Service",
-  "pcpe": "cpe:/a:oracle:field_service"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "29834",
+	"pname": "Oracle Field Service",
+	"pcpe": "cpe:/a:oracle:field_service"
 }

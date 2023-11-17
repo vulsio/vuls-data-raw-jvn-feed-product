@@ -1,8 +1,8 @@
 {
-  "vid": "21944",
-  "vname": "OpenHarmony",
-  "vcpe": "cpe:/:openharmony",
-  "pid": "56343",
-  "pname": "OpenHarmony",
-  "pcpe": "cpe:/a:openharmony:openharmony"
+	"vid": "21944",
+	"vname": "OpenHarmony",
+	"vcpe": "cpe:/:openharmony",
+	"pid": "56343",
+	"pname": "OpenHarmony",
+	"pcpe": "cpe:/a:openharmony:openharmony"
 }

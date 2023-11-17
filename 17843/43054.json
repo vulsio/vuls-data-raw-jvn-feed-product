@@ -1,8 +1,8 @@
 {
-  "vid": "17843",
-  "vname": "CPAN",
-  "vcpe": "cpe:/:cpan",
-  "pid": "43054",
-  "pname": "File::Temp",
-  "pcpe": "cpe:/a:cpan:file%3a%3atemp"
+	"vid": "17843",
+	"vname": "CPAN",
+	"vcpe": "cpe:/:cpan",
+	"pid": "43054",
+	"pname": "File::Temp",
+	"pcpe": "cpe:/a:cpan:file%3a%3atemp"
 }

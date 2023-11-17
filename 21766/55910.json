@@ -1,8 +1,8 @@
 {
-  "vid": "21766",
-  "vname": "TeslaMate project",
-  "vcpe": "cpe:/:teslamate_project",
-  "pid": "55910",
-  "pname": "TeslaMate",
-  "pcpe": "cpe:/a:teslamate_project:teslamate"
+	"vid": "21766",
+	"vname": "TeslaMate project",
+	"vcpe": "cpe:/:teslamate_project",
+	"pid": "55910",
+	"pname": "TeslaMate",
+	"pcpe": "cpe:/a:teslamate_project:teslamate"
 }

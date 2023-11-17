@@ -1,8 +1,8 @@
 {
-  "vid": "11928",
-  "vname": "Project Jupyter",
-  "vcpe": "cpe:/:jupyter",
-  "pid": "56094",
-  "pname": "Jupyter Server Proxy",
-  "pcpe": "cpe:/a:jupyter:jupyter_server_proxy"
+	"vid": "11928",
+	"vname": "Project Jupyter",
+	"vcpe": "cpe:/:jupyter",
+	"pid": "56094",
+	"pname": "Jupyter Server Proxy",
+	"pcpe": "cpe:/a:jupyter:jupyter_server_proxy"
 }

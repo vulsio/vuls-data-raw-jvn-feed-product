@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "54126",
-  "pname": "HP PageWide Pro 552dw 2DR21D ファームウェア",
-  "pcpe": "cpe:/o:hp:pagewide_pro_552dw_2dr21d_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "54126",
+	"pname": "HP PageWide Pro 552dw 2DR21D ファームウェア",
+	"pcpe": "cpe:/o:hp:pagewide_pro_552dw_2dr21d_firmware"
 }

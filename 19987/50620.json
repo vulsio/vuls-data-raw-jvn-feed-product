@@ -1,8 +1,8 @@
 {
-  "vid": "19987",
-  "vname": "BlueSpire",
-  "vcpe": "cpe:/:bluespire",
-  "pid": "50620",
-  "pname": "Aurelia framework",
-  "pcpe": "cpe:/a:bluespire:aurelia_framework"
+	"vid": "19987",
+	"vname": "BlueSpire",
+	"vcpe": "cpe:/:bluespire",
+	"pid": "50620",
+	"pname": "Aurelia framework",
+	"pcpe": "cpe:/a:bluespire:aurelia_framework"
 }

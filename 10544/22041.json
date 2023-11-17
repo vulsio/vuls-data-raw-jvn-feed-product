@@ -1,8 +1,8 @@
 {
-  "vid": "10544",
-  "vname": "mobileiron",
-  "vcpe": "cpe:/:mobileiron",
-  "pid": "22041",
-  "pname": "mobile@work",
-  "pcpe": "cpe:/a:mobileiron:mobile%40work"
+	"vid": "10544",
+	"vname": "mobileiron",
+	"vcpe": "cpe:/:mobileiron",
+	"pid": "22041",
+	"pname": "mobile@work",
+	"pcpe": "cpe:/a:mobileiron:mobile%40work"
 }

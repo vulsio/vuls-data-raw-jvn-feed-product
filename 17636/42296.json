@@ -1,8 +1,8 @@
 {
-  "vid": "17636",
-  "vname": "PhpFastCache",
-  "vcpe": "cpe:/:phpfastcache",
-  "pid": "42296",
-  "pname": "phpfastcache",
-  "pcpe": "cpe:/a:phpfastcache:phpfastcache"
+	"vid": "17636",
+	"vname": "PhpFastCache",
+	"vcpe": "cpe:/:phpfastcache",
+	"pid": "42296",
+	"pname": "phpfastcache",
+	"pcpe": "cpe:/a:phpfastcache:phpfastcache"
 }

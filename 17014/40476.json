@@ -1,8 +1,8 @@
 {
-  "vid": "17014",
-  "vname": "Symphony",
-  "vcpe": "cpe:/:symphonyextensions",
-  "pid": "40476",
-  "pname": "Rich Text Formatter",
-  "pcpe": "cpe:/a:symphonyextensions:rich_text_formatter"
+	"vid": "17014",
+	"vname": "Symphony",
+	"vcpe": "cpe:/:symphonyextensions",
+	"pid": "40476",
+	"pname": "Rich Text Formatter",
+	"pcpe": "cpe:/a:symphonyextensions:rich_text_formatter"
 }

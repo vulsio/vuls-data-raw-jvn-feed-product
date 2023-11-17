@@ -1,8 +1,8 @@
 {
-  "vid": "3192",
-  "vname": "dev4u",
-  "vcpe": "cpe:/:dev4u",
-  "pid": "7290",
-  "pname": "dev4u cms",
-  "pcpe": "cpe:/a:dev4u:dev4u_cms"
+	"vid": "3192",
+	"vname": "dev4u",
+	"vcpe": "cpe:/:dev4u",
+	"pid": "7290",
+	"pname": "dev4u cms",
+	"pcpe": "cpe:/a:dev4u:dev4u_cms"
 }

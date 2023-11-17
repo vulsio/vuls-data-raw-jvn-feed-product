@@ -1,8 +1,8 @@
 {
-  "vid": "20841",
-  "vname": "Detector project",
-  "vcpe": "cpe:/:detector_project",
-  "pid": "53192",
-  "pname": "Detector",
-  "pcpe": "cpe:/a:detector_project:detector"
+	"vid": "20841",
+	"vname": "Detector project",
+	"vcpe": "cpe:/:detector_project",
+	"pid": "53192",
+	"pname": "Detector",
+	"pcpe": "cpe:/a:detector_project:detector"
 }

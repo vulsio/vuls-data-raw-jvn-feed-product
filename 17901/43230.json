@@ -1,8 +1,8 @@
 {
-  "vid": "17901",
-  "vname": "PolarBear CMS project",
-  "vcpe": "cpe:/:polarbear_cms_project",
-  "pid": "43230",
-  "pname": "PolarBear CMS",
-  "pcpe": "cpe:/a:polarbear_cms_project:polarbear_cms"
+	"vid": "17901",
+	"vname": "PolarBear CMS project",
+	"vcpe": "cpe:/:polarbear_cms_project",
+	"pid": "43230",
+	"pname": "PolarBear CMS",
+	"pcpe": "cpe:/a:polarbear_cms_project:polarbear_cms"
 }

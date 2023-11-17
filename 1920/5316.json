@@ -1,8 +1,8 @@
 {
-  "vid": "1920",
-  "vname": "Fabrice Bellard",
-  "vcpe": "cpe:/:qemu",
-  "pid": "5316",
-  "pname": "QEMU",
-  "pcpe": "cpe:/a:qemu:qemu"
+	"vid": "1920",
+	"vname": "Fabrice Bellard",
+	"vcpe": "cpe:/:qemu",
+	"pid": "5316",
+	"pname": "QEMU",
+	"pcpe": "cpe:/a:qemu:qemu"
 }

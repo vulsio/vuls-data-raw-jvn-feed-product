@@ -1,8 +1,8 @@
 {
-  "vid": "9646",
-  "vname": "The Netty project",
-  "vcpe": "cpe:/:netty_project",
-  "pid": "20040",
-  "pname": "Netty",
-  "pcpe": "cpe:/a:netty_project:netty"
+	"vid": "9646",
+	"vname": "The Netty project",
+	"vcpe": "cpe:/:netty_project",
+	"pid": "20040",
+	"pname": "Netty",
+	"pcpe": "cpe:/a:netty_project:netty"
 }

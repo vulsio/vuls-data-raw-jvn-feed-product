@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15210",
-  "pname": "norton personal firewall",
-  "pcpe": "cpe:/a:symantec:norton_personal_firewall"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15210",
+	"pname": "norton personal firewall",
+	"pcpe": "cpe:/a:symantec:norton_personal_firewall"
 }

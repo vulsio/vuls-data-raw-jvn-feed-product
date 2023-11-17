@@ -1,8 +1,8 @@
 {
-  "vid": "9029",
-  "vname": "Ubiquiti Networks",
-  "vcpe": "cpe:/:ubiquiti_networks",
-  "pid": "54634",
-  "pname": "UniFi スイッチファームウェア",
-  "pcpe": "cpe:/o:ubiquiti_networks:unifi_switch_firmware"
+	"vid": "9029",
+	"vname": "Ubiquiti Networks",
+	"vcpe": "cpe:/:ubiquiti_networks",
+	"pid": "54634",
+	"pname": "UniFi スイッチファームウェア",
+	"pcpe": "cpe:/o:ubiquiti_networks:unifi_switch_firmware"
 }

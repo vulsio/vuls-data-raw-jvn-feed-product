@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24141",
-  "pname": "Cisco Videoscape Conductor",
-  "pcpe": "cpe:/a:cisco:videoscape_conductor"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24141",
+	"pname": "Cisco Videoscape Conductor",
+	"pcpe": "cpe:/a:cisco:videoscape_conductor"
 }

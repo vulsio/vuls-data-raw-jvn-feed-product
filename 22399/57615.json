@@ -1,8 +1,8 @@
 {
-  "vid": "22399",
-  "vname": "axelor",
-  "vcpe": "cpe:/:axelor",
-  "pid": "57615",
-  "pname": "open suite",
-  "pcpe": "cpe:/a:axelor:open_suite"
+	"vid": "22399",
+	"vname": "axelor",
+	"vcpe": "cpe:/:axelor",
+	"pid": "57615",
+	"pname": "open suite",
+	"pcpe": "cpe:/a:axelor:open_suite"
 }

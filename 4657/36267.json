@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "36267",
-  "pname": "Bond-TL10C ファームウェア",
-  "pcpe": "cpe:/o:huawei:bond-tl10c_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "36267",
+	"pname": "Bond-TL10C ファームウェア",
+	"pcpe": "cpe:/o:huawei:bond-tl10c_firmware"
 }

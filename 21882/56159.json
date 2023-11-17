@@ -1,8 +1,8 @@
 {
-  "vid": "21882",
-  "vname": "Simple Chatbot Application project",
-  "vcpe": "cpe:/:simple_chatbot_application_project",
-  "pid": "56159",
-  "pname": "Simple Chatbot Application",
-  "pcpe": "cpe:/a:simple_chatbot_application_project:simple_chatbot_application"
+	"vid": "21882",
+	"vname": "Simple Chatbot Application project",
+	"vcpe": "cpe:/:simple_chatbot_application_project",
+	"pid": "56159",
+	"pname": "Simple Chatbot Application",
+	"pcpe": "cpe:/a:simple_chatbot_application_project:simple_chatbot_application"
 }

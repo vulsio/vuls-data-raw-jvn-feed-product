@@ -1,8 +1,8 @@
 {
-  "vid": "4178",
-  "vname": "BlueCat Networks",
-  "vcpe": "cpe:/:bluecat_networks",
-  "pid": "8778",
-  "pname": "adonis",
-  "pcpe": "cpe:/h:bluecat_networks:adonis"
+	"vid": "4178",
+	"vname": "BlueCat Networks",
+	"vcpe": "cpe:/:bluecat_networks",
+	"pid": "8778",
+	"pname": "adonis",
+	"pcpe": "cpe:/h:bluecat_networks:adonis"
 }

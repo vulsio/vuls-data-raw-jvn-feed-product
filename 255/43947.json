@@ -1,8 +1,8 @@
 {
-  "vid": "255",
-  "vname": "キヤノン",
-  "vcpe": "cpe:/:canon",
-  "pid": "43947",
-  "pname": "Oce Colorwave 500 ファームウェア",
-  "pcpe": "cpe:/o:canon:oce_colorwave_500_firmware"
+	"vid": "255",
+	"vname": "キヤノン",
+	"vcpe": "cpe:/:canon",
+	"pid": "43947",
+	"pname": "Oce Colorwave 500 ファームウェア",
+	"pcpe": "cpe:/o:canon:oce_colorwave_500_firmware"
 }

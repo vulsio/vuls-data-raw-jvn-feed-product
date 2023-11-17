@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "37841",
-  "pname": "Dynamic Power Reduction ユーティリティ",
-  "pcpe": "cpe:/a:lenovo:dynamic_power_reduction"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "37841",
+	"pname": "Dynamic Power Reduction ユーティリティ",
+	"pcpe": "cpe:/a:lenovo:dynamic_power_reduction"
 }

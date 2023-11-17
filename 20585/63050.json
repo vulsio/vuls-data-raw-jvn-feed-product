@@ -1,8 +1,8 @@
 {
-  "vid": "20585",
-  "vname": "WP Manage Ninja",
-  "vcpe": "cpe:/:wpmanageninja",
-  "pid": "63050",
-  "pname": "Ninja Job Board",
-  "pcpe": "cpe:/a:wpmanageninja:ninja_job_board"
+	"vid": "20585",
+	"vname": "WP Manage Ninja",
+	"vcpe": "cpe:/:wpmanageninja",
+	"pid": "63050",
+	"pname": "Ninja Job Board",
+	"pcpe": "cpe:/a:wpmanageninja:ninja_job_board"
 }

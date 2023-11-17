@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "31815",
-  "pname": "PSI-MODEM/ETH ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:psi-modem%2feth_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "31815",
+	"pname": "PSI-MODEM/ETH ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:psi-modem%2feth_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "663",
-  "pname": "Cisco Application and Content Networking System (ACNS)",
-  "pcpe": "cpe:/a:cisco:application_and_content_networking_system_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "663",
+	"pname": "Cisco Application and Content Networking System (ACNS)",
+	"pcpe": "cpe:/a:cisco:application_and_content_networking_system_software"
 }

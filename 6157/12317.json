@@ -1,8 +1,8 @@
 {
-  "vid": "6157",
-  "vname": "OpenVPN Technologies",
-  "vcpe": "cpe:/:openvpn",
-  "pid": "12317",
-  "pname": "OpenVPN",
-  "pcpe": "cpe:/a:openvpn:openvpn"
+	"vid": "6157",
+	"vname": "OpenVPN Technologies",
+	"vcpe": "cpe:/:openvpn",
+	"pid": "12317",
+	"pname": "OpenVPN",
+	"pcpe": "cpe:/a:openvpn:openvpn"
 }

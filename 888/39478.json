@@ -1,8 +1,8 @@
 {
-  "vid": "888",
-  "vname": "Automattic Inc.",
-  "vcpe": "cpe:/:automattic",
-  "pid": "39478",
-  "pname": "CampTix Event Ticketing",
-  "pcpe": "cpe:/a:automattic:camptix_event_ticketing"
+	"vid": "888",
+	"vname": "Automattic Inc.",
+	"vcpe": "cpe:/:automattic",
+	"pid": "39478",
+	"pname": "CampTix Event Ticketing",
+	"pcpe": "cpe:/a:automattic:camptix_event_ticketing"
 }

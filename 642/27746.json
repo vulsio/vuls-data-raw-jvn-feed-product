@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "27746",
-  "pname": "WNDR4000 ファームウェア",
-  "pcpe": "cpe:/o:netgear:wndr4000_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "27746",
+	"pname": "WNDR4000 ファームウェア",
+	"pcpe": "cpe:/o:netgear:wndr4000_firmware"
 }

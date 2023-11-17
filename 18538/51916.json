@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "51916",
-  "pname": "EVlink Smart Wallbox EVB1A ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:evlink_smart_wallbox_evb1a_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "51916",
+	"pname": "EVlink Smart Wallbox EVB1A ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:evlink_smart_wallbox_evb1a_firmware"
 }

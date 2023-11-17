@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "36612",
-  "pname": "QRadar Advisor with Watson",
-  "pcpe": "cpe:/a:ibm:qradar_advisor_with_watson"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "36612",
+	"pname": "QRadar Advisor with Watson",
+	"pcpe": "cpe:/a:ibm:qradar_advisor_with_watson"
 }

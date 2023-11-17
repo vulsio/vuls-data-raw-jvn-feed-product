@@ -1,8 +1,8 @@
 {
-  "vid": "13107",
-  "vname": "Intelbras",
-  "vcpe": "cpe:/:intelbras",
-  "pid": "48730",
-  "pname": "IP TIP200 ファームウェア",
-  "pcpe": "cpe:/o:intelbras:telefone_ip_tip200_firmware"
+	"vid": "13107",
+	"vname": "Intelbras",
+	"vcpe": "cpe:/:intelbras",
+	"pid": "48730",
+	"pname": "IP TIP200 ファームウェア",
+	"pcpe": "cpe:/o:intelbras:telefone_ip_tip200_firmware"
 }

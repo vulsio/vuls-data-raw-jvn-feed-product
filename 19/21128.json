@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "21128",
-  "pname": "Cisco Network Convergence System 6000 シリーズルータ",
-  "pcpe": "cpe:/h:cisco:network_convergence_system_6000"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "21128",
+	"pname": "Cisco Network Convergence System 6000 シリーズルータ",
+	"pcpe": "cpe:/h:cisco:network_convergence_system_6000"
 }

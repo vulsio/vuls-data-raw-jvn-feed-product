@@ -1,8 +1,8 @@
 {
-  "vid": "11674",
-  "vname": "Bomgar Corporation",
-  "vcpe": "cpe:/:bomgar",
-  "pid": "24002",
-  "pname": "Bomgar Remote Support",
-  "pcpe": "cpe:/a:bomgar:remote_support"
+	"vid": "11674",
+	"vname": "Bomgar Corporation",
+	"vcpe": "cpe:/:bomgar",
+	"pid": "24002",
+	"pname": "Bomgar Remote Support",
+	"pcpe": "cpe:/a:bomgar:remote_support"
 }

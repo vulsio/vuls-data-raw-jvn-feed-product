@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38444",
-  "pname": "Cisco HyperFlex HX240c M5 large form-factor ファームウェア",
-  "pcpe": "cpe:/o:cisco:hx240c_large_form_factor_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38444",
+	"pname": "Cisco HyperFlex HX240c M5 large form-factor ファームウェア",
+	"pcpe": "cpe:/o:cisco:hx240c_large_form_factor_firmware"
 }

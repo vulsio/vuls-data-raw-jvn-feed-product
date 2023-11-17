@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "27997",
-  "pname": "MiiNePort E2 ファームウェア",
-  "pcpe": "cpe:/o:moxa:miineport_e2_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "27997",
+	"pname": "MiiNePort E2 ファームウェア",
+	"pcpe": "cpe:/o:moxa:miineport_e2_firmware"
 }

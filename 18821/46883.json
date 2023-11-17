@@ -1,8 +1,8 @@
 {
-  "vid": "18821",
-  "vname": "Nette Foundation",
-  "vcpe": "cpe:/:nette",
-  "pid": "46883",
-  "pname": "Application",
-  "pcpe": "cpe:/a:nette:application"
+	"vid": "18821",
+	"vname": "Nette Foundation",
+	"vcpe": "cpe:/:nette",
+	"pid": "46883",
+	"pname": "Application",
+	"pcpe": "cpe:/a:nette:application"
 }

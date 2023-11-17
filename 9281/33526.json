@@ -1,8 +1,8 @@
 {
-  "vid": "9281",
-  "vname": "サイレックス・テクノロジー株式会社",
-  "vcpe": "cpe:/:silex",
-  "pid": "33526",
-  "pname": "SD-320AN ファームウェア",
-  "pcpe": "cpe:/o:silex:sd-320an_firmware"
+	"vid": "9281",
+	"vname": "サイレックス・テクノロジー株式会社",
+	"vcpe": "cpe:/:silex",
+	"pid": "33526",
+	"pname": "SD-320AN ファームウェア",
+	"pcpe": "cpe:/o:silex:sd-320an_firmware"
 }

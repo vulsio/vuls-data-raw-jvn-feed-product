@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "20909",
-  "pname": "TS-EC1679U-RP",
-  "pcpe": "cpe:/h:qnap:ts-ec1679u-rp"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "20909",
+	"pname": "TS-EC1679U-RP",
+	"pcpe": "cpe:/h:qnap:ts-ec1679u-rp"
 }

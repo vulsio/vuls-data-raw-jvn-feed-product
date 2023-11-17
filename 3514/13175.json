@@ -1,8 +1,8 @@
 {
-  "vid": "3514",
-  "vname": "Enterasys Networks",
-  "vcpe": "cpe:/:enterasys",
-  "pid": "13175",
-  "pname": "Enterasys Network Management Suite Software",
-  "pcpe": "cpe:/a:enterasys:netsight"
+	"vid": "3514",
+	"vname": "Enterasys Networks",
+	"vcpe": "cpe:/:enterasys",
+	"pid": "13175",
+	"pname": "Enterasys Network Management Suite Software",
+	"pcpe": "cpe:/a:enterasys:netsight"
 }

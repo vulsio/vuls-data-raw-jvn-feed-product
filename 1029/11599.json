@@ -1,8 +1,8 @@
 {
-  "vid": "1029",
-  "vname": "Mini-stream Software",
-  "vcpe": "cpe:/:mini-stream",
-  "pid": "11599",
-  "pname": "rm-mp3 converter",
-  "pcpe": "cpe:/a:mini-stream:rm-mp3_converter"
+	"vid": "1029",
+	"vname": "Mini-stream Software",
+	"vcpe": "cpe:/:mini-stream",
+	"pid": "11599",
+	"pname": "rm-mp3 converter",
+	"pcpe": "cpe:/a:mini-stream:rm-mp3_converter"
 }

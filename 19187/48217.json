@@ -1,8 +1,8 @@
 {
-  "vid": "19187",
-  "vname": "Apostrophe Technologies",
-  "vcpe": "cpe:/:apostrophecms",
-  "pid": "48217",
-  "pname": "sanitize-html",
-  "pcpe": "cpe:/a:apostrophecms:sanitize-html"
+	"vid": "19187",
+	"vname": "Apostrophe Technologies",
+	"vcpe": "cpe:/:apostrophecms",
+	"pid": "48217",
+	"pname": "sanitize-html",
+	"pcpe": "cpe:/a:apostrophecms:sanitize-html"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "50103",
-  "pname": "Siebel Core - Automation",
-  "pcpe": "cpe:/a:oracle:siebel_core_-_automation"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "50103",
+	"pname": "Siebel Core - Automation",
+	"pcpe": "cpe:/a:oracle:siebel_core_-_automation"
 }

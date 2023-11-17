@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "49394",
-  "pname": "MDM9250 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:mdm9250_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "49394",
+	"pname": "MDM9250 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:mdm9250_firmware"
 }

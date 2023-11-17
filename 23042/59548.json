@@ -1,8 +1,8 @@
 {
-  "vid": "23042",
-  "vname": "ipmatcher project",
-  "vcpe": "cpe:/:ipmatcher_project",
-  "pid": "59548",
-  "pname": "ipmatcher",
-  "pcpe": "cpe:/a:ipmatcher_project:ipmatcher"
+	"vid": "23042",
+	"vname": "ipmatcher project",
+	"vcpe": "cpe:/:ipmatcher_project",
+	"pid": "59548",
+	"pname": "ipmatcher",
+	"pcpe": "cpe:/a:ipmatcher_project:ipmatcher"
 }

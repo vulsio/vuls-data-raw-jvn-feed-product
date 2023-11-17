@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "1263",
-  "pname": "バイオ認証装置",
-  "pcpe": "cpe:/h:fujitsu:fmse-c301"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "1263",
+	"pname": "バイオ認証装置",
+	"pcpe": "cpe:/h:fujitsu:fmse-c301"
 }

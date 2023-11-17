@@ -1,8 +1,8 @@
 {
-  "vid": "2012",
-  "vname": "ActivePDF, Inc.",
-  "vcpe": "cpe:/:activepdf",
-  "pid": "32854",
-  "pname": "Toolkit",
-  "pcpe": "cpe:/a:activepdf:activepdf_toolkit"
+	"vid": "2012",
+	"vname": "ActivePDF, Inc.",
+	"vcpe": "cpe:/:activepdf",
+	"pid": "32854",
+	"pname": "Toolkit",
+	"pcpe": "cpe:/a:activepdf:activepdf_toolkit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15520",
-  "vname": "Ice Qube, Inc.",
-  "vcpe": "cpe:/:iceqube",
-  "pid": "36040",
-  "pname": "Thermal Management Center ファームウェア",
-  "pcpe": "cpe:/o:iceqube:thermal_management_center_firmware"
+	"vid": "15520",
+	"vname": "Ice Qube, Inc.",
+	"vcpe": "cpe:/:iceqube",
+	"pid": "36040",
+	"pname": "Thermal Management Center ファームウェア",
+	"pcpe": "cpe:/o:iceqube:thermal_management_center_firmware"
 }

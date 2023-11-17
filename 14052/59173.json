@@ -1,8 +1,8 @@
 {
-  "vid": "14052",
-  "vname": "Matrix",
-  "vcpe": "cpe:/:matrix",
-  "pid": "59173",
-  "pname": "matrix irc bridge",
-  "pcpe": "cpe:/a:matrix:matrix_irc_bridge"
+	"vid": "14052",
+	"vname": "Matrix",
+	"vcpe": "cpe:/:matrix",
+	"pid": "59173",
+	"pname": "matrix irc bridge",
+	"pcpe": "cpe:/a:matrix:matrix_irc_bridge"
 }

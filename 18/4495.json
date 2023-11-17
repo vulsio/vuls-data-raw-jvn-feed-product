@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4495",
-  "pname": "IBM WebSphere Service Registry and Repository",
-  "pcpe": "cpe:/a:ibm:websphere_service_registry_and_repository"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4495",
+	"pname": "IBM WebSphere Service Registry and Repository",
+	"pcpe": "cpe:/a:ibm:websphere_service_registry_and_repository"
 }

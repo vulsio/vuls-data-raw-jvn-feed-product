@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "3441",
-  "pname": "Rockwell Automation FactoryTalk Diagnostics Viewer",
-  "pcpe": "cpe:/a:rockwellautomation:factorytalk_diagnostics_viewer"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "3441",
+	"pname": "Rockwell Automation FactoryTalk Diagnostics Viewer",
+	"pcpe": "cpe:/a:rockwellautomation:factorytalk_diagnostics_viewer"
 }

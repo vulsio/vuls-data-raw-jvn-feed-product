@@ -1,8 +1,8 @@
 {
-  "vid": "15847",
-  "vname": "Kaonmedia",
-  "vcpe": "cpe:/:kaonmedia",
-  "pid": "36944",
-  "pname": "CG2001-UN2NA ファームウェア",
-  "pcpe": "cpe:/o:kaonmedia:cg2001-un2na_firmware"
+	"vid": "15847",
+	"vname": "Kaonmedia",
+	"vcpe": "cpe:/:kaonmedia",
+	"pid": "36944",
+	"pname": "CG2001-UN2NA ファームウェア",
+	"pcpe": "cpe:/o:kaonmedia:cg2001-un2na_firmware"
 }

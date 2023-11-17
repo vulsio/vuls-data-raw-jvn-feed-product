@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "61200",
-  "pname": "siplus net cp 1242-7 v2 ファームウェア",
-  "pcpe": "cpe:/o:siemens:siplus_net_cp_1242-7_v2_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "61200",
+	"pname": "siplus net cp 1242-7 v2 ファームウェア",
+	"pcpe": "cpe:/o:siemens:siplus_net_cp_1242-7_v2_firmware"
 }

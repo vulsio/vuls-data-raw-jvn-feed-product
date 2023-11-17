@@ -1,8 +1,8 @@
 {
-  "vid": "21580",
-  "vname": "wildix",
-  "vcpe": "cpe:/:wildix",
-  "pid": "55446",
-  "pname": "WMS",
-  "pcpe": "cpe:/a:wildix:wms"
+	"vid": "21580",
+	"vname": "wildix",
+	"vcpe": "cpe:/:wildix",
+	"pid": "55446",
+	"pname": "WMS",
+	"pcpe": "cpe:/a:wildix:wms"
 }

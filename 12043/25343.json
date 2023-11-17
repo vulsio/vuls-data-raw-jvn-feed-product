@@ -1,8 +1,8 @@
 {
-  "vid": "12043",
-  "vname": "LaCie",
-  "vcpe": "cpe:/:lacie",
-  "pid": "25343",
-  "pname": "LaCie FUEL",
-  "pcpe": "cpe:/h:lacie:lacie_fuel"
+	"vid": "12043",
+	"vname": "LaCie",
+	"vcpe": "cpe:/:lacie",
+	"pid": "25343",
+	"pname": "LaCie FUEL",
+	"pcpe": "cpe:/h:lacie:lacie_fuel"
 }

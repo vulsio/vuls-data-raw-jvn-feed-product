@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "39700",
-  "pname": "Voice Builder",
-  "pcpe": "cpe:/a:google:voice_builder"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "39700",
+	"pname": "Voice Builder",
+	"pcpe": "cpe:/a:google:voice_builder"
 }

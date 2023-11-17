@@ -1,8 +1,8 @@
 {
-  "vid": "17384",
-  "vname": "European Commission",
-  "vcpe": "cpe:/:europa",
-  "pid": "41368",
-  "pname": "eIDAS-Node Integration Package",
-  "pcpe": "cpe:/a:europa:eidas-node_integration_package"
+	"vid": "17384",
+	"vname": "European Commission",
+	"vcpe": "cpe:/:europa",
+	"pid": "41368",
+	"pname": "eIDAS-Node Integration Package",
+	"pcpe": "cpe:/a:europa:eidas-node_integration_package"
 }

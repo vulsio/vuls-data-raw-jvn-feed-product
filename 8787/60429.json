@@ -1,8 +1,8 @@
 {
-  "vid": "8787",
-  "vname": "verbatim",
-  "vcpe": "cpe:/:verbatim",
-  "pid": "60429",
-  "pname": "store 'n' go secure portable hdd ファームウェア",
-  "pcpe": "cpe:/o:verbatim:store_%27n%27_go_secure_portable_hdd_firmware"
+	"vid": "8787",
+	"vname": "verbatim",
+	"vcpe": "cpe:/:verbatim",
+	"pid": "60429",
+	"pname": "store 'n' go secure portable hdd ファームウェア",
+	"pcpe": "cpe:/o:verbatim:store_%27n%27_go_secure_portable_hdd_firmware"
 }

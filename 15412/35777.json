@@ -1,8 +1,8 @@
 {
-  "vid": "15412",
-  "vname": "Nasdaq",
-  "vcpe": "cpe:/:nasdaq",
-  "pid": "35777",
-  "pname": "BWise",
-  "pcpe": "cpe:/a:nasdaq:bwise"
+	"vid": "15412",
+	"vname": "Nasdaq",
+	"vcpe": "cpe:/:nasdaq",
+	"pid": "35777",
+	"pname": "BWise",
+	"pcpe": "cpe:/a:nasdaq:bwise"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9974",
-  "vname": "KDirStat project",
-  "vcpe": "cpe:/:kdirstat_project",
-  "pid": "20914",
-  "pname": "KDirStat",
-  "pcpe": "cpe:/a:kdirstat_project:kdirstat"
+	"vid": "9974",
+	"vname": "KDirStat project",
+	"vcpe": "cpe:/:kdirstat_project",
+	"pid": "20914",
+	"pname": "KDirStat",
+	"pcpe": "cpe:/a:kdirstat_project:kdirstat"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16544",
-  "vname": "Arlo",
-  "vcpe": "cpe:/:arlo",
-  "pid": "51436",
-  "pname": "Q Plus ファームウェア",
-  "pcpe": "cpe:/o:arlo:q_plus_firmware"
+	"vid": "16544",
+	"vname": "Arlo",
+	"vcpe": "cpe:/:arlo",
+	"pid": "51436",
+	"pname": "Q Plus ファームウェア",
+	"pcpe": "cpe:/o:arlo:q_plus_firmware"
 }

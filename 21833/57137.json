@@ -1,8 +1,8 @@
 {
-  "vid": "21833",
-  "vname": "mellium.im",
-  "vcpe": "cpe:/:mellium",
-  "pid": "57137",
-  "pname": "xmpp",
-  "pcpe": "cpe:/a:mellium:xmpp"
+	"vid": "21833",
+	"vname": "mellium.im",
+	"vcpe": "cpe:/:mellium",
+	"pid": "57137",
+	"pname": "xmpp",
+	"pcpe": "cpe:/a:mellium:xmpp"
 }

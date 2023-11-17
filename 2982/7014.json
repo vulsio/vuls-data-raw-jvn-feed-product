@@ -1,8 +1,8 @@
 {
-  "vid": "2982",
-  "vname": "cPanel",
-  "vcpe": "cpe:/:cpanel",
-  "pid": "7014",
-  "pname": "webhost manager",
-  "pcpe": "cpe:/a:cpanel:webhost_manager"
+	"vid": "2982",
+	"vname": "cPanel",
+	"vcpe": "cpe:/:cpanel",
+	"pid": "7014",
+	"pname": "webhost manager",
+	"pcpe": "cpe:/a:cpanel:webhost_manager"
 }

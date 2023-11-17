@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "40839",
-  "pname": "Violation Comments to GitLab",
-  "pcpe": "cpe:/a:jenkins:violation_comments_to_gitlab"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "40839",
+	"pname": "Violation Comments to GitLab",
+	"pcpe": "cpe:/a:jenkins:violation_comments_to_gitlab"
 }

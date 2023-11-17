@@ -1,8 +1,8 @@
 {
-  "vid": "9966",
-  "vname": "Little Kernel project",
-  "vcpe": "cpe:/:little_kernel_project",
-  "pid": "20874",
-  "pname": "Little Kernel ブートローダ",
-  "pcpe": "cpe:/a:little_kernel_project:little_kernel_bootloader"
+	"vid": "9966",
+	"vname": "Little Kernel project",
+	"vcpe": "cpe:/:little_kernel_project",
+	"pid": "20874",
+	"pname": "Little Kernel ブートローダ",
+	"pcpe": "cpe:/a:little_kernel_project:little_kernel_bootloader"
 }

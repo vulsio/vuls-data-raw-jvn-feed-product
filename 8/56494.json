@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "56494",
-  "pname": "Apache Gobblin",
-  "pcpe": "cpe:/a:apache:gobblin"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "56494",
+	"pname": "Apache Gobblin",
+	"pcpe": "cpe:/a:apache:gobblin"
 }

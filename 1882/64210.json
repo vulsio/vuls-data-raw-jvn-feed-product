@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "64210",
-  "pname": "zaip-aie",
-  "pcpe": "cpe:/a:zte:zaip-aie"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "64210",
+	"pname": "zaip-aie",
+	"pcpe": "cpe:/a:zte:zaip-aie"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8534",
-  "vname": "windows tftp utility",
-  "vcpe": "cpe:/:windows_tftp_utility",
-  "pid": "16175",
-  "pname": "tftputil",
-  "pcpe": "cpe:/a:windows_tftp_utility:tftputil"
+	"vid": "8534",
+	"vname": "windows tftp utility",
+	"vcpe": "cpe:/:windows_tftp_utility",
+	"pid": "16175",
+	"pname": "tftputil",
+	"pcpe": "cpe:/a:windows_tftp_utility:tftputil"
 }

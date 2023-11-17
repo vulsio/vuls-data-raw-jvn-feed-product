@@ -1,8 +1,8 @@
 {
-  "vid": "15430",
-  "vname": "Contiki-NG",
-  "vcpe": "cpe:/:contiki-ng",
-  "pid": "46274",
-  "pname": "Contiki-OS",
-  "pcpe": "cpe:/o:contiki-ng:contiki-os"
+	"vid": "15430",
+	"vname": "Contiki-NG",
+	"vcpe": "cpe:/:contiki-ng",
+	"pid": "46274",
+	"pname": "Contiki-OS",
+	"pcpe": "cpe:/o:contiki-ng:contiki-os"
 }

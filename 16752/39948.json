@@ -1,8 +1,8 @@
 {
-  "vid": "16752",
-  "vname": "Analytics Tracker project",
-  "vcpe": "cpe:/:analytics_tracker_project",
-  "pid": "39948",
-  "pname": "Analytics Tracker",
-  "pcpe": "cpe:/a:analytics_tracker_project:analytics_tracker"
+	"vid": "16752",
+	"vname": "Analytics Tracker project",
+	"vcpe": "cpe:/:analytics_tracker_project",
+	"pid": "39948",
+	"pname": "Analytics Tracker",
+	"pcpe": "cpe:/a:analytics_tracker_project:analytics_tracker"
 }

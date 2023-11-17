@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "54301",
-  "pname": "EPYC 7662 ファームウェア",
-  "pcpe": "cpe:/o:amd:epyc_7662_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "54301",
+	"pname": "EPYC 7662 ファームウェア",
+	"pcpe": "cpe:/o:amd:epyc_7662_firmware"
 }

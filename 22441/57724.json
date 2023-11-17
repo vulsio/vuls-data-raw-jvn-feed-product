@@ -1,8 +1,8 @@
 {
-  "vid": "22441",
-  "vname": "otris",
-  "vcpe": "cpe:/:otris",
-  "pid": "57724",
-  "pname": "update manager",
-  "pcpe": "cpe:/a:otris:update_manager"
+	"vid": "22441",
+	"vname": "otris",
+	"vcpe": "cpe:/:otris",
+	"pid": "57724",
+	"pname": "update manager",
+	"pcpe": "cpe:/a:otris:update_manager"
 }

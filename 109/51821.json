@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "51821",
-  "pname": "IPCOM EX2シリーズ",
-  "pcpe": "cpe:/a:fujitsu:ipcom_ex2"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "51821",
+	"pname": "IPCOM EX2シリーズ",
+	"pcpe": "cpe:/a:fujitsu:ipcom_ex2"
 }

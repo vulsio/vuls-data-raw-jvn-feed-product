@@ -1,8 +1,8 @@
 {
-  "vid": "7132",
-  "vname": "psywerks",
-  "vcpe": "cpe:/:psywerks",
-  "pid": "14099",
-  "pname": "puma",
-  "pcpe": "cpe:/a:psywerks:puma"
+	"vid": "7132",
+	"vname": "psywerks",
+	"vcpe": "cpe:/:psywerks",
+	"pid": "14099",
+	"pname": "puma",
+	"pcpe": "cpe:/a:psywerks:puma"
 }

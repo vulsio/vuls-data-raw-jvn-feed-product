@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "37984",
-  "pname": "EtherNet/IP Web Server Module 1768-EWEB",
-  "pcpe": "cpe:/a:rockwellautomation:ethernet%2fip_web_server_module_1768-eweb"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "37984",
+	"pname": "EtherNet/IP Web Server Module 1768-EWEB",
+	"pcpe": "cpe:/a:rockwellautomation:ethernet%2fip_web_server_module_1768-eweb"
 }

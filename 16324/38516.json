@@ -1,8 +1,8 @@
 {
-  "vid": "16324",
-  "vname": "Envoy Proxy",
-  "vcpe": "cpe:/:envoyproxy",
-  "pid": "38516",
-  "pname": "Envoy",
-  "pcpe": "cpe:/a:envoyproxy:envoy"
+	"vid": "16324",
+	"vname": "Envoy Proxy",
+	"vcpe": "cpe:/:envoyproxy",
+	"pid": "38516",
+	"pname": "Envoy",
+	"pcpe": "cpe:/a:envoyproxy:envoy"
 }

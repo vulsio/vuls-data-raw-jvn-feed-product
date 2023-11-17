@@ -1,8 +1,8 @@
 {
-  "vid": "1303",
-  "vname": "Avira",
-  "vcpe": "cpe:/:avira",
-  "pid": "6109",
-  "pname": "Premium Security Suite",
-  "pcpe": "cpe:/a:avira:premium_security_suite"
+	"vid": "1303",
+	"vname": "Avira",
+	"vcpe": "cpe:/:avira",
+	"pid": "6109",
+	"pname": "Premium Security Suite",
+	"pcpe": "cpe:/a:avira:premium_security_suite"
 }

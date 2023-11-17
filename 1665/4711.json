@@ -1,8 +1,8 @@
 {
-  "vid": "1665",
-  "vname": "phpshop",
-  "vcpe": "cpe:/:phpshop",
-  "pid": "4711",
-  "pname": "phpshop",
-  "pcpe": "cpe:/a:phpshop:phpshop"
+	"vid": "1665",
+	"vname": "phpshop",
+	"vcpe": "cpe:/:phpshop",
+	"pid": "4711",
+	"pname": "phpshop",
+	"pcpe": "cpe:/a:phpshop:phpshop"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30384",
-  "pname": "ThinkStation P310 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkstation_p310_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30384",
+	"pname": "ThinkStation P310 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkstation_p310_firmware"
 }

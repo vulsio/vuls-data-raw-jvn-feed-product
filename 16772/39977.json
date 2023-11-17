@@ -1,8 +1,8 @@
 {
-  "vid": "16772",
-  "vname": "Olimometer project",
-  "vcpe": "cpe:/:olimometer_project",
-  "pid": "39977",
-  "pname": "Olimometer",
-  "pcpe": "cpe:/a:olimometer_project:olimometer"
+	"vid": "16772",
+	"vname": "Olimometer project",
+	"vcpe": "cpe:/:olimometer_project",
+	"pid": "39977",
+	"pname": "Olimometer",
+	"pcpe": "cpe:/a:olimometer_project:olimometer"
 }

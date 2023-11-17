@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "48814",
-  "pname": "QNX Neutrino RTOS for Medical Devices",
-  "pcpe": "cpe:/o:blackberry:qnx_neutrino_rtos_for_medical_devices"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "48814",
+	"pname": "QNX Neutrino RTOS for Medical Devices",
+	"pcpe": "cpe:/o:blackberry:qnx_neutrino_rtos_for_medical_devices"
 }

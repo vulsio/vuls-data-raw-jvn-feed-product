@@ -1,8 +1,8 @@
 {
-  "vid": "14236",
-  "vname": "node-bsdiff-android project",
-  "vcpe": "cpe:/:node-bsdiff-android_project",
-  "pid": "33894",
-  "pname": "node-bsdiff-android",
-  "pcpe": "cpe:/a:node-bsdiff-android_project:node-bsdiff-android"
+	"vid": "14236",
+	"vname": "node-bsdiff-android project",
+	"vcpe": "cpe:/:node-bsdiff-android_project",
+	"pid": "33894",
+	"pname": "node-bsdiff-android",
+	"pcpe": "cpe:/a:node-bsdiff-android_project:node-bsdiff-android"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "33089",
-  "pname": "CA API Developer Portal",
-  "pcpe": "cpe:/a:ca:api_developer_portal"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "33089",
+	"pname": "CA API Developer Portal",
+	"pcpe": "cpe:/a:ca:api_developer_portal"
 }

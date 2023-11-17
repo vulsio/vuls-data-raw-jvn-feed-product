@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "19866",
-  "pname": "SAP BI Universal Data Integration",
-  "pcpe": "cpe:/a:sap:bi_universal_data_integration"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "19866",
+	"pname": "SAP BI Universal Data Integration",
+	"pcpe": "cpe:/a:sap:bi_universal_data_integration"
 }

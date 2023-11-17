@@ -1,8 +1,8 @@
 {
-  "vid": "15034",
-  "vname": "immcoin",
-  "vcpe": "cpe:/:immcoin",
-  "pid": "34963",
-  "pname": "MMCoin",
-  "pcpe": "cpe:/a:immcoin:mmcoin"
+	"vid": "15034",
+	"vname": "immcoin",
+	"vcpe": "cpe:/:immcoin",
+	"pid": "34963",
+	"pname": "MMCoin",
+	"pcpe": "cpe:/a:immcoin:mmcoin"
 }

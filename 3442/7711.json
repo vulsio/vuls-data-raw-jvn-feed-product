@@ -1,8 +1,8 @@
 {
-  "vid": "3442",
-  "vname": "EFS Software",
-  "vcpe": "cpe:/:efs_software",
-  "pid": "7711",
-  "pname": "Easy Chat Server",
-  "pcpe": "cpe:/a:efs_software:easy_chat_server"
+	"vid": "3442",
+	"vname": "EFS Software",
+	"vcpe": "cpe:/:efs_software",
+	"pid": "7711",
+	"pname": "Easy Chat Server",
+	"pcpe": "cpe:/a:efs_software:easy_chat_server"
 }

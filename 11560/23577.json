@@ -1,8 +1,8 @@
 {
-  "vid": "11560",
-  "vname": "Komodia Inc.",
-  "vcpe": "cpe:/:komodia",
-  "pid": "23577",
-  "pname": "Komodia Redirector SDK",
-  "pcpe": "cpe:/a:komodia:redirector_sdk"
+	"vid": "11560",
+	"vname": "Komodia Inc.",
+	"vcpe": "cpe:/:komodia",
+	"pid": "23577",
+	"pname": "Komodia Redirector SDK",
+	"pcpe": "cpe:/a:komodia:redirector_sdk"
 }

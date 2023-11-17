@@ -1,8 +1,8 @@
 {
-  "vid": "9880",
-  "vname": "Docker",
-  "vcpe": "cpe:/:docker",
-  "pid": "48771",
-  "pname": "rabbitmq docker image",
-  "pcpe": "cpe:/a:docker:rabbitmq_docker_image"
+	"vid": "9880",
+	"vname": "Docker",
+	"vcpe": "cpe:/:docker",
+	"pid": "48771",
+	"pname": "rabbitmq docker image",
+	"pcpe": "cpe:/a:docker:rabbitmq_docker_image"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18430",
-  "vname": "Compression and Archive Extensions project",
-  "vcpe": "cpe:/:compression_and_archive_extensions_project",
-  "pid": "45400",
-  "pname": "Compression and Archive Extensions",
-  "pcpe": "cpe:/a:compression_and_archive_extensions_project:compression_and_archive_extensions_tz_project"
+	"vid": "18430",
+	"vname": "Compression and Archive Extensions project",
+	"vcpe": "cpe:/:compression_and_archive_extensions_project",
+	"pid": "45400",
+	"pname": "Compression and Archive Extensions",
+	"pcpe": "cpe:/a:compression_and_archive_extensions_project:compression_and_archive_extensions_tz_project"
 }

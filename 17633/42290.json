@@ -1,8 +1,8 @@
 {
-  "vid": "17633",
-  "vname": "LuaJIT",
-  "vcpe": "cpe:/:luajit",
-  "pid": "42290",
-  "pname": "LuaJIT",
-  "pcpe": "cpe:/a:luajit:luajit"
+	"vid": "17633",
+	"vname": "LuaJIT",
+	"vcpe": "cpe:/:luajit",
+	"pid": "42290",
+	"pname": "LuaJIT",
+	"pcpe": "cpe:/a:luajit:luajit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15582",
-  "vname": "Amcrest",
-  "vcpe": "cpe:/:amcrest",
-  "pid": "44304",
-  "pname": "IP2M-866EW ファームウェア",
-  "pcpe": "cpe:/o:amcrest:ip2m-866ew_firmware"
+	"vid": "15582",
+	"vname": "Amcrest",
+	"vcpe": "cpe:/:amcrest",
+	"pid": "44304",
+	"pname": "IP2M-866EW ファームウェア",
+	"pcpe": "cpe:/o:amcrest:ip2m-866ew_firmware"
 }

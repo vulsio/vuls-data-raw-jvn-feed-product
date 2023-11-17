@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "46639",
-  "pname": "Intel Core i7-8750H ファームウェア",
-  "pcpe": "cpe:/o:intel:core_i7-8750h_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "46639",
+	"pname": "Intel Core i7-8750H ファームウェア",
+	"pcpe": "cpe:/o:intel:core_i7-8750h_firmware"
 }

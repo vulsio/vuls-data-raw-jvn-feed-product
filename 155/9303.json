@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "9303",
-  "pname": "McAfee Common Management Agent",
-  "pcpe": "cpe:/a:mcafee:common_management_agent"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "9303",
+	"pname": "McAfee Common Management Agent",
+	"pcpe": "cpe:/a:mcafee:common_management_agent"
 }

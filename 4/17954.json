@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17954",
-  "pname": "HP LaserJet Pro M1216nfh Multifunction Printer",
-  "pcpe": "cpe:/h:hp:laserjet_pro_m1216nfh_mfp"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17954",
+	"pname": "HP LaserJet Pro M1216nfh Multifunction Printer",
+	"pcpe": "cpe:/h:hp:laserjet_pro_m1216nfh_mfp"
 }

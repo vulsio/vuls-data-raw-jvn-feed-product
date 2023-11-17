@@ -1,8 +1,8 @@
 {
-  "vid": "19117",
-  "vname": "TCL Technology",
-  "vcpe": "cpe:/:tcl",
-  "pid": "48023",
-  "pname": "75S434 ファームウェア",
-  "pcpe": "cpe:/o:tcl:75s434_firmware"
+	"vid": "19117",
+	"vname": "TCL Technology",
+	"vcpe": "cpe:/:tcl",
+	"pid": "48023",
+	"pname": "75S434 ファームウェア",
+	"pcpe": "cpe:/o:tcl:75s434_firmware"
 }

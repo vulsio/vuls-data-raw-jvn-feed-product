@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "740",
-  "pname": "QXシリーズ",
-  "pcpe": "cpe:/h:nec:qx"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "740",
+	"pname": "QXシリーズ",
+	"pcpe": "cpe:/h:nec:qx"
 }

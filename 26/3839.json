@@ -1,8 +1,8 @@
 {
-  "vid": "26",
-  "vname": "サイベース",
-  "vcpe": "cpe:/:sybase",
-  "pid": "3839",
-  "pname": "Sybase M-Business Anywhere",
-  "pcpe": "cpe:/a:sybase:m-business_anywhere"
+	"vid": "26",
+	"vname": "サイベース",
+	"vcpe": "cpe:/:sybase",
+	"pid": "3839",
+	"pname": "Sybase M-Business Anywhere",
+	"pcpe": "cpe:/a:sybase:m-business_anywhere"
 }

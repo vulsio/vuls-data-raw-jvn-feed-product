@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "9592",
-  "pname": "モバイル インテル GM45 チップセット",
-  "pcpe": "cpe:/h:intel:mobile_intel_gm45_chipset"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "9592",
+	"pname": "モバイル インテル GM45 チップセット",
+	"pcpe": "cpe:/h:intel:mobile_intel_gm45_chipset"
 }

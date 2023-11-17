@@ -1,8 +1,8 @@
 {
-  "vid": "7706",
-  "vname": "snom",
-  "vcpe": "cpe:/:snom",
-  "pid": "14903",
-  "pname": "voip phone firmware",
-  "pcpe": "cpe:/a:snom:voip_phone_firmware"
+	"vid": "7706",
+	"vname": "snom",
+	"vcpe": "cpe:/:snom",
+	"pid": "14903",
+	"pname": "voip phone firmware",
+	"pcpe": "cpe:/a:snom:voip_phone_firmware"
 }

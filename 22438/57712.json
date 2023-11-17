@@ -1,8 +1,8 @@
 {
-  "vid": "22438",
-  "vname": "amperecomputing",
-  "vcpe": "cpe:/:amperecomputing",
-  "pid": "57712",
-  "pname": "ampere altra max ファームウェア",
-  "pcpe": "cpe:/o:amperecomputing:ampere_altra_max_firmware"
+	"vid": "22438",
+	"vname": "amperecomputing",
+	"vcpe": "cpe:/:amperecomputing",
+	"pid": "57712",
+	"pname": "ampere altra max ファームウェア",
+	"pcpe": "cpe:/o:amperecomputing:ampere_altra_max_firmware"
 }

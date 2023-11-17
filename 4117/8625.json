@@ -1,8 +1,8 @@
 {
-  "vid": "4117",
-  "vname": "numedia soft",
-  "vcpe": "cpe:/:numedia_soft",
-  "pid": "8625",
-  "pname": "numedia dvd burning sdk",
-  "pcpe": "cpe:/a:numedia_soft:numedia_dvd_burning_sdk"
+	"vid": "4117",
+	"vname": "numedia soft",
+	"vcpe": "cpe:/:numedia_soft",
+	"pid": "8625",
+	"pname": "numedia dvd burning sdk",
+	"pcpe": "cpe:/a:numedia_soft:numedia_dvd_burning_sdk"
 }

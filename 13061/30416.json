@@ -1,8 +1,8 @@
 {
-  "vid": "13061",
-  "vname": "Kohana Framework",
-  "vcpe": "cpe:/:kohanaframework",
-  "pid": "30416",
-  "pname": "Kohana",
-  "pcpe": "cpe:/a:kohanaframework:kohana"
+	"vid": "13061",
+	"vname": "Kohana Framework",
+	"vcpe": "cpe:/:kohanaframework",
+	"pid": "30416",
+	"pname": "Kohana",
+	"pcpe": "cpe:/a:kohanaframework:kohana"
 }

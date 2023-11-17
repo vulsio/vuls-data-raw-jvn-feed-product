@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "34012",
-  "pname": "Oracle Communications EAGLE LNP Application Processor",
-  "pcpe": "cpe:/a:oracle:communications_eagle_local_number_portability_application_processor"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "34012",
+	"pname": "Oracle Communications EAGLE LNP Application Processor",
+	"pcpe": "cpe:/a:oracle:communications_eagle_local_number_portability_application_processor"
 }

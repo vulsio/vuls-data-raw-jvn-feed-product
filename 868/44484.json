@@ -1,8 +1,8 @@
 {
-  "vid": "868",
-  "vname": "PrestaShop",
-  "vcpe": "cpe:/:prestashop",
-  "pid": "44484",
-  "pname": "ps-socialfollow",
-  "pcpe": "cpe:/a:prestashop:prestashop_socialfollow"
+	"vid": "868",
+	"vname": "PrestaShop",
+	"vcpe": "cpe:/:prestashop",
+	"pid": "44484",
+	"pname": "ps-socialfollow",
+	"pcpe": "cpe:/a:prestashop:prestashop_socialfollow"
 }

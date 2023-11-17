@@ -1,8 +1,8 @@
 {
-  "vid": "15921",
-  "vname": "apex publish static files project",
-  "vcpe": "cpe:/:apex-publish-static-files_project",
-  "pid": "37159",
-  "pname": "apex publish static files",
-  "pcpe": "cpe:/a:apex-publish-static-files_project:apex-publish-static-files"
+	"vid": "15921",
+	"vname": "apex publish static files project",
+	"vcpe": "cpe:/:apex-publish-static-files_project",
+	"pid": "37159",
+	"pname": "apex publish static files",
+	"pcpe": "cpe:/a:apex-publish-static-files_project:apex-publish-static-files"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "1576",
-  "pname": "ETERNUS NR1000F series",
-  "pcpe": "cpe:/a:fujitsu:eteruns_nr1000f"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "1576",
+	"pname": "ETERNUS NR1000F series",
+	"pcpe": "cpe:/a:fujitsu:eteruns_nr1000f"
 }

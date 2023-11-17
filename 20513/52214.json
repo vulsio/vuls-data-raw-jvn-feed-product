@@ -1,8 +1,8 @@
 {
-  "vid": "20513",
-  "vname": "Edit Comments project",
-  "vcpe": "cpe:/:edit_comments_project",
-  "pid": "52214",
-  "pname": "Edit Comments",
-  "pcpe": "cpe:/a:edit_comments_project:edit_comments"
+	"vid": "20513",
+	"vname": "Edit Comments project",
+	"vcpe": "cpe:/:edit_comments_project",
+	"pid": "52214",
+	"pname": "Edit Comments",
+	"pcpe": "cpe:/a:edit_comments_project:edit_comments"
 }

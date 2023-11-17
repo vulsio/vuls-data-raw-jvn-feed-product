@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29224",
-  "pname": "SIMATIC ET 200pro ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_et_200pro_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29224",
+	"pname": "SIMATIC ET 200pro ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_et_200pro_firmware"
 }

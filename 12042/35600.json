@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "35600",
-  "pname": "ArcSight WINC Connector",
-  "pcpe": "cpe:/a:hp:arcsight_winc_connector"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "35600",
+	"pname": "ArcSight WINC Connector",
+	"pcpe": "cpe:/a:hp:arcsight_winc_connector"
 }

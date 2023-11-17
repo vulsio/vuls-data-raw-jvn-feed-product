@@ -1,8 +1,8 @@
 {
-  "vid": "218",
-  "vname": "ヤマハ",
-  "vcpe": "cpe:/:yamaha",
-  "pid": "2205",
-  "pname": "RTW65b",
-  "pcpe": "cpe:/h:yamaha:rtw65b"
+	"vid": "218",
+	"vname": "ヤマハ",
+	"vcpe": "cpe:/:yamaha",
+	"pid": "2205",
+	"pname": "RTW65b",
+	"pcpe": "cpe:/h:yamaha:rtw65b"
 }

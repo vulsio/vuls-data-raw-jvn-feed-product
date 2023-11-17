@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "62124",
-  "pname": "process automation manager",
-  "pcpe": "cpe:/a:redhat:process_automation_manager"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "62124",
+	"pname": "process automation manager",
+	"pcpe": "cpe:/a:redhat:process_automation_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4965",
-  "pname": "procurve m110 access point",
-  "pcpe": "cpe:/h:hp:procurve_m110_access_point"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4965",
+	"pname": "procurve m110 access point",
+	"pcpe": "cpe:/h:hp:procurve_m110_access_point"
 }

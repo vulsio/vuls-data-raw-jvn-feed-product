@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "26950",
-  "pname": "Cisco Prime Home",
-  "pcpe": "cpe:/a:cisco:prime_home"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "26950",
+	"pname": "Cisco Prime Home",
+	"pcpe": "cpe:/a:cisco:prime_home"
 }

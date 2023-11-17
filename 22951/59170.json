@@ -1,8 +1,8 @@
 {
-  "vid": "22951",
-  "vname": "ecdsautils project",
-  "vcpe": "cpe:/:ecdsautils_project",
-  "pid": "59170",
-  "pname": "ecdsautils",
-  "pcpe": "cpe:/a:ecdsautils_project:ecdsautils"
+	"vid": "22951",
+	"vname": "ecdsautils project",
+	"vcpe": "cpe:/:ecdsautils_project",
+	"pid": "59170",
+	"pname": "ecdsautils",
+	"pcpe": "cpe:/a:ecdsautils_project:ecdsautils"
 }

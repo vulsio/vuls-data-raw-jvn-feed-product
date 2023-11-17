@@ -1,8 +1,8 @@
 {
-  "vid": "1392",
-  "vname": "Cake Software Foundation",
-  "vcpe": "cpe:/:cakefoundation",
-  "pid": "4246",
-  "pname": "CakePHP",
-  "pcpe": "cpe:/a:cakefoundation:cakephp"
+	"vid": "1392",
+	"vname": "Cake Software Foundation",
+	"vcpe": "cpe:/:cakefoundation",
+	"pid": "4246",
+	"pname": "CakePHP",
+	"pcpe": "cpe:/a:cakefoundation:cakephp"
 }

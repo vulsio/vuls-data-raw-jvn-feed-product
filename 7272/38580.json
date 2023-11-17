@@ -1,8 +1,8 @@
 {
-  "vid": "7272",
-  "vname": "rediff",
-  "vcpe": "cpe:/:rediff",
-  "pid": "38580",
-  "pname": "Rediffmail",
-  "pcpe": "cpe:/a:rediff:rediffmail"
+	"vid": "7272",
+	"vname": "rediff",
+	"vcpe": "cpe:/:rediff",
+	"pid": "38580",
+	"pname": "Rediffmail",
+	"pcpe": "cpe:/a:rediff:rediffmail"
 }

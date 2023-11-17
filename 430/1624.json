@@ -1,8 +1,8 @@
 {
-  "vid": "430",
-  "vname": "Usagi Project",
-  "vcpe": "cpe:/:usagi",
-  "pid": "1624",
-  "pname": "MyNETS",
-  "pcpe": "cpe:/a:usagi:mynets"
+	"vid": "430",
+	"vname": "Usagi Project",
+	"vcpe": "cpe:/:usagi",
+	"pid": "1624",
+	"pname": "MyNETS",
+	"pcpe": "cpe:/a:usagi:mynets"
 }

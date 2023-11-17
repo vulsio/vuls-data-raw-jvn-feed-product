@@ -1,8 +1,8 @@
 {
-  "vid": "24803",
-  "vname": "terakoya",
-  "vcpe": "cpe:/:terakoya",
-  "pid": "64288",
-  "pname": "markup (json-ld) structured in schema.org",
-  "pcpe": "cpe:/a:terakoya:markup_%28json-ld%29_structured_in_schema.org"
+	"vid": "24803",
+	"vname": "terakoya",
+	"vcpe": "cpe:/:terakoya",
+	"pid": "64288",
+	"pname": "markup (json-ld) structured in schema.org",
+	"pcpe": "cpe:/a:terakoya:markup_%28json-ld%29_structured_in_schema.org"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11879",
-  "vname": "Softing Industrial Automation GmbH",
-  "vcpe": "cpe:/:softing",
-  "pid": "54211",
-  "pname": "uaToolkit Embedded",
-  "pcpe": "cpe:/a:softing:uatoolkit_embedded"
+	"vid": "11879",
+	"vname": "Softing Industrial Automation GmbH",
+	"vcpe": "cpe:/:softing",
+	"pid": "54211",
+	"pname": "uaToolkit Embedded",
+	"pcpe": "cpe:/a:softing:uatoolkit_embedded"
 }

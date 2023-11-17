@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "41109",
-  "pname": "Oracle Banking Digital Experience",
-  "pcpe": "cpe:/a:oracle:banking_digital_experience"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "41109",
+	"pname": "Oracle Banking Digital Experience",
+	"pcpe": "cpe:/a:oracle:banking_digital_experience"
 }

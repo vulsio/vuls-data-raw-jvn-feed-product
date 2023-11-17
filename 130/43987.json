@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "43987",
-  "pname": "Celeron 1005M",
-  "pcpe": "cpe:/h:intel:celeron_1005m"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "43987",
+	"pname": "Celeron 1005M",
+	"pcpe": "cpe:/h:intel:celeron_1005m"
 }

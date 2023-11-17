@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "24720",
-  "pname": "HP EliteBook Revolve 810 G3",
-  "pcpe": "cpe:/h:hp:elitebook_revolve_810_g3"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "24720",
+	"pname": "HP EliteBook Revolve 810 G3",
+	"pcpe": "cpe:/h:hp:elitebook_revolve_810_g3"
 }

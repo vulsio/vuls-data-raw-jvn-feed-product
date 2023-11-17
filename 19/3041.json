@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3041",
-  "pname": "Cisco Video Surveillance 2600 シリーズ",
-  "pcpe": "cpe:/h:cisco:video_surveillance_2600"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3041",
+	"pname": "Cisco Video Surveillance 2600 シリーズ",
+	"pcpe": "cpe:/h:cisco:video_surveillance_2600"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4070",
-  "vname": "group logic",
-  "vcpe": "cpe:/:group_logic",
-  "pid": "8558",
-  "pname": "extremez-ip file server",
-  "pcpe": "cpe:/a:group_logic:extremez-ip_file_server"
+	"vid": "4070",
+	"vname": "group logic",
+	"vcpe": "cpe:/:group_logic",
+	"pid": "8558",
+	"pname": "extremez-ip file server",
+	"pcpe": "cpe:/a:group_logic:extremez-ip_file_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45186",
-  "pname": "ThinkPad E490s ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_e490s_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45186",
+	"pname": "ThinkPad E490s ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_e490s_firmware"
 }

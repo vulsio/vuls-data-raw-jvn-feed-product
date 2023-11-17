@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "41707",
-  "pname": "Intel Wi-Fi 6 AX200 ファームウェア",
-  "pcpe": "cpe:/o:intel:wi-fi_6_ax200_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "41707",
+	"pname": "Intel Wi-Fi 6 AX200 ファームウェア",
+	"pcpe": "cpe:/o:intel:wi-fi_6_ax200_firmware"
 }

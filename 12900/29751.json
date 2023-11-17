@@ -1,8 +1,8 @@
 {
-  "vid": "12900",
-  "vname": "Geneko",
-  "vcpe": "cpe:/:geneko",
-  "pid": "29751",
-  "pname": "GWR202 GPRS ルータファームウェア",
-  "pcpe": "cpe:/o:geneko:gwr202_gprs_router_firmware"
+	"vid": "12900",
+	"vname": "Geneko",
+	"vcpe": "cpe:/:geneko",
+	"pid": "29751",
+	"pname": "GWR202 GPRS ルータファームウェア",
+	"pcpe": "cpe:/o:geneko:gwr202_gprs_router_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "42248",
-  "pname": "IntelliBridge EC40 ファームウェア",
-  "pcpe": "cpe:/o:philips:intellibridge_ec40_firmware"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "42248",
+	"pname": "IntelliBridge EC40 ファームウェア",
+	"pcpe": "cpe:/o:philips:intellibridge_ec40_firmware"
 }

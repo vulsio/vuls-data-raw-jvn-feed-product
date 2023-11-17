@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18551",
-  "pname": "HP Color LaserJet M775z MFP",
-  "pcpe": "cpe:/h:hp:color_laserjet_m775z"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18551",
+	"pname": "HP Color LaserJet M775z MFP",
+	"pcpe": "cpe:/h:hp:color_laserjet_m775z"
 }

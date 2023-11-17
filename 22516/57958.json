@@ -1,8 +1,8 @@
 {
-  "vid": "22516",
-  "vname": "WP-TopBar project",
-  "vcpe": "cpe:/:wp_topbar_project",
-  "pid": "57958",
-  "pname": "WP-TopBar",
-  "pcpe": "cpe:/a:wp_topbar_project:wp_topbar"
+	"vid": "22516",
+	"vname": "WP-TopBar project",
+	"vcpe": "cpe:/:wp_topbar_project",
+	"pid": "57958",
+	"pname": "WP-TopBar",
+	"pcpe": "cpe:/a:wp_topbar_project:wp_topbar"
 }

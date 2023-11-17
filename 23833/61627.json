@@ -1,8 +1,8 @@
 {
-  "vid": "23833",
-  "vname": "Fortra",
-  "vcpe": "cpe:/:fortra",
-  "pid": "61627",
-  "pname": "GoAnywhere Managed File Transfer",
-  "pcpe": "cpe:/a:fortra:goanywhere_managed_file_transfer"
+	"vid": "23833",
+	"vname": "Fortra",
+	"vcpe": "cpe:/:fortra",
+	"pid": "61627",
+	"pname": "GoAnywhere Managed File Transfer",
+	"pcpe": "cpe:/a:fortra:goanywhere_managed_file_transfer"
 }

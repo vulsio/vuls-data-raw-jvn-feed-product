@@ -1,8 +1,8 @@
 {
-  "vid": "18465",
-  "vname": "devcert project",
-  "vcpe": "cpe:/:devcert_project",
-  "pid": "45507",
-  "pname": "devcert",
-  "pcpe": "cpe:/a:devcert_project:devcert"
+	"vid": "18465",
+	"vname": "devcert project",
+	"vcpe": "cpe:/:devcert_project",
+	"pid": "45507",
+	"pname": "devcert",
+	"pcpe": "cpe:/a:devcert_project:devcert"
 }

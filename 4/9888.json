@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "9888",
-  "pname": "mercury testdirector for quality center",
-  "pcpe": "cpe:/a:hp:mercury_testdirector_for_quality_center"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "9888",
+	"pname": "mercury testdirector for quality center",
+	"pcpe": "cpe:/a:hp:mercury_testdirector_for_quality_center"
 }

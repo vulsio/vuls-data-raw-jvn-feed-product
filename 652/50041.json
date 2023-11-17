@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "50041",
-  "pname": "Bixby",
-  "pcpe": "cpe:/a:samsung:bixby"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "50041",
+	"pname": "Bixby",
+	"pcpe": "cpe:/a:samsung:bixby"
 }

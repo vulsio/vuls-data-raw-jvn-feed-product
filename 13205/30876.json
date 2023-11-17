@@ -1,8 +1,8 @@
 {
-  "vid": "13205",
-  "vname": "EmTec",
-  "vcpe": "cpe:/:emtec",
-  "pid": "30876",
-  "pname": "PyroBatchFTP",
-  "pcpe": "cpe:/a:emtec:pyrobatchftp"
+	"vid": "13205",
+	"vname": "EmTec",
+	"vcpe": "cpe:/:emtec",
+	"pid": "30876",
+	"pname": "PyroBatchFTP",
+	"pcpe": "cpe:/a:emtec:pyrobatchftp"
 }

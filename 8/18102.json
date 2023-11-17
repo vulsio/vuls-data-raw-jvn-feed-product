@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "18102",
-  "pname": "Apache Santuario XML Security for Java",
-  "pcpe": "cpe:/a:apache:xml_security_for_java"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "18102",
+	"pname": "Apache Santuario XML Security for Java",
+	"pcpe": "cpe:/a:apache:xml_security_for_java"
 }

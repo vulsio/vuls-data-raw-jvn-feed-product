@@ -1,8 +1,8 @@
 {
-  "vid": "10286",
-  "vname": "Wordfence.com",
-  "vcpe": "cpe:/:wordfence_security_project",
-  "pid": "21567",
-  "pname": "Wordfence Security",
-  "pcpe": "cpe:/a:wordfence_security_project:wordfence_security"
+	"vid": "10286",
+	"vname": "Wordfence.com",
+	"vcpe": "cpe:/:wordfence_security_project",
+	"pid": "21567",
+	"pname": "Wordfence Security",
+	"pcpe": "cpe:/a:wordfence_security_project:wordfence_security"
 }

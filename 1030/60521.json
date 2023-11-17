@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "60521",
-  "pname": "plchandler",
-  "pcpe": "cpe:/a:codesys:plchandler"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "60521",
+	"pname": "plchandler",
+	"pcpe": "cpe:/a:codesys:plchandler"
 }

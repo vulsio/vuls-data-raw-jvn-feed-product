@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "21183",
-  "pname": "IBM Virtual Fabric 10Gb Switch Module for IBM BladeCenter ファームウェア",
-  "pcpe": "cpe:/o:ibm:bladecenter_10g_vfsm_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "21183",
+	"pname": "IBM Virtual Fabric 10Gb Switch Module for IBM BladeCenter ファームウェア",
+	"pcpe": "cpe:/o:ibm:bladecenter_10g_vfsm_firmware"
 }

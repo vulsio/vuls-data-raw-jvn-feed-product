@@ -1,8 +1,8 @@
 {
-  "vid": "494",
-  "vname": "e107.org",
-  "vcpe": "cpe:/:e107",
-  "pid": "19310",
-  "pname": "chatbox plugin",
-  "pcpe": "cpe:/a:e107:chatbox_plugin"
+	"vid": "494",
+	"vname": "e107.org",
+	"vcpe": "cpe:/:e107",
+	"pid": "19310",
+	"pname": "chatbox plugin",
+	"pcpe": "cpe:/a:e107:chatbox_plugin"
 }

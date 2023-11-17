@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "46398",
-  "pname": "azure-utpm-c",
-  "pcpe": "cpe:/a:microsoft:azure-utpm-c"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "46398",
+	"pname": "azure-utpm-c",
+	"pcpe": "cpe:/a:microsoft:azure-utpm-c"
 }

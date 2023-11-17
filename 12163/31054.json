@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "31054",
-  "pname": "Favorite Plugin",
-  "pcpe": "cpe:/a:jenkins:favorite_plugin"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "31054",
+	"pname": "Favorite Plugin",
+	"pcpe": "cpe:/a:jenkins:favorite_plugin"
 }

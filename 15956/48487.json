@@ -1,8 +1,8 @@
 {
-  "vid": "15956",
-  "vname": "Stripe",
-  "vcpe": "cpe:/:stripe",
-  "pid": "48487",
-  "pname": "Stripe",
-  "pcpe": "cpe:/a:stripe:stripe"
+	"vid": "15956",
+	"vname": "Stripe",
+	"vcpe": "cpe:/:stripe",
+	"pid": "48487",
+	"pname": "Stripe",
+	"pcpe": "cpe:/a:stripe:stripe"
 }

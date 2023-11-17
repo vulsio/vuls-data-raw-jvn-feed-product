@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "30195",
-  "pname": "Cisco Virtual Network Function Element Manager",
-  "pcpe": "cpe:/a:cisco:virtual_network_function_element_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "30195",
+	"pname": "Cisco Virtual Network Function Element Manager",
+	"pcpe": "cpe:/a:cisco:virtual_network_function_element_manager"
 }

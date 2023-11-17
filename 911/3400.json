@@ -1,8 +1,8 @@
 {
-  "vid": "911",
-  "vname": "WebManager Pro",
-  "vcpe": "cpe:/:webmanager-pro",
-  "pid": "3400",
-  "pname": "CMS WebManager-Pro",
-  "pcpe": "cpe:/a:webmanager-pro:cms_webmanager-pro"
+	"vid": "911",
+	"vname": "WebManager Pro",
+	"vcpe": "cpe:/:webmanager-pro",
+	"pid": "3400",
+	"pname": "CMS WebManager-Pro",
+	"pcpe": "cpe:/a:webmanager-pro:cms_webmanager-pro"
 }

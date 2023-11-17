@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25856",
-  "pname": "HPE Service Manager",
-  "pcpe": "cpe:/a:hp:service_manager"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25856",
+	"pname": "HPE Service Manager",
+	"pcpe": "cpe:/a:hp:service_manager"
 }

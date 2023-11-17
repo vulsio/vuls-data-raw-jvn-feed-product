@@ -1,8 +1,8 @@
 {
-  "vid": "586",
-  "vname": "ウインドリバー株式会社",
-  "vcpe": "cpe:/:windriver",
-  "pid": "47547",
-  "pname": "Linux",
-  "pcpe": "cpe:/o:windriver:linux"
+	"vid": "586",
+	"vname": "ウインドリバー株式会社",
+	"vcpe": "cpe:/:windriver",
+	"pid": "47547",
+	"pname": "Linux",
+	"pcpe": "cpe:/o:windriver:linux"
 }

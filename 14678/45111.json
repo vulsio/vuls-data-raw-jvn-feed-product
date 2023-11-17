@@ -1,8 +1,8 @@
 {
-  "vid": "14678",
-  "vname": "HCL Technologies Limited",
-  "vcpe": "cpe:/:hcltech",
-  "pid": "45111",
-  "pname": "Digital Experience",
-  "pcpe": "cpe:/a:hcltech:hcl_digital_experience"
+	"vid": "14678",
+	"vname": "HCL Technologies Limited",
+	"vcpe": "cpe:/:hcltech",
+	"pid": "45111",
+	"pname": "Digital Experience",
+	"pcpe": "cpe:/a:hcltech:hcl_digital_experience"
 }

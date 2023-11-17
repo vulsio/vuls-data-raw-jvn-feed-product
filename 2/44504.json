@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "44504",
-  "pname": "Dynamics 365 Business Central",
-  "pcpe": "cpe:/a:microsoft:dynamics_365_business_central"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "44504",
+	"pname": "Dynamics 365 Business Central",
+	"pcpe": "cpe:/a:microsoft:dynamics_365_business_central"
 }

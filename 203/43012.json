@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "43012",
-  "pname": "PCL6 Driver for Universal Print",
-  "pcpe": "cpe:/a:ricoh:pcl6_driver_for_universal_print"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "43012",
+	"pname": "PCL6 Driver for Universal Print",
+	"pcpe": "cpe:/a:ricoh:pcl6_driver_for_universal_print"
 }

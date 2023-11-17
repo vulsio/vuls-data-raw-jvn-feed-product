@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "41622",
-  "pname": "Hima-L09CA ファームウェア",
-  "pcpe": "cpe:/o:huawei:hima-l09ca_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "41622",
+	"pname": "Hima-L09CA ファームウェア",
+	"pcpe": "cpe:/o:huawei:hima-l09ca_firmware"
 }

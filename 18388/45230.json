@@ -1,8 +1,8 @@
 {
-  "vid": "18388",
-  "vname": "MONITORAPP Inc.",
-  "vcpe": "cpe:/:monitorapp",
-  "pid": "45230",
-  "pname": "APPLICATION INSIGHT Web Application",
-  "pcpe": "cpe:/a:monitorapp:application_insight_web_application"
+	"vid": "18388",
+	"vname": "MONITORAPP Inc.",
+	"vcpe": "cpe:/:monitorapp",
+	"pid": "45230",
+	"pname": "APPLICATION INSIGHT Web Application",
+	"pcpe": "cpe:/a:monitorapp:application_insight_web_application"
 }

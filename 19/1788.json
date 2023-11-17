@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "1788",
-  "pname": "Cisco IOS",
-  "pcpe": "cpe:/o:cisco:ios"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "1788",
+	"pname": "Cisco IOS",
+	"pcpe": "cpe:/o:cisco:ios"
 }

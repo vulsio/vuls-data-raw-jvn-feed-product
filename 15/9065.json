@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "9065",
-  "pname": "Oracle SPARC Tシリーズ・サーバー ファームウェア",
-  "pcpe": "cpe:/o:oracle:sparc_t-series_server_firmware"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "9065",
+	"pname": "Oracle SPARC Tシリーズ・サーバー ファームウェア",
+	"pcpe": "cpe:/o:oracle:sparc_t-series_server_firmware"
 }

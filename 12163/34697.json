@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "34697",
-  "pname": "SAML",
-  "pcpe": "cpe:/a:jenkins:saml"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "34697",
+	"pname": "SAML",
+	"pcpe": "cpe:/a:jenkins:saml"
 }

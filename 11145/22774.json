@@ -1,8 +1,8 @@
 {
-  "vid": "11145",
-  "vname": "weather",
-  "vcpe": "cpe:/:weather",
-  "pid": "22774",
-  "pname": "weather channel",
-  "pcpe": "cpe:/a:weather:weather_channel"
+	"vid": "11145",
+	"vname": "weather",
+	"vcpe": "cpe:/:weather",
+	"pid": "22774",
+	"pname": "weather channel",
+	"pcpe": "cpe:/a:weather:weather_channel"
 }

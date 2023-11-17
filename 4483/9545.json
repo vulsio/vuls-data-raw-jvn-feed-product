@@ -1,8 +1,8 @@
 {
-  "vid": "4483",
-  "vname": "PKWARE",
-  "vcpe": "cpe:/:pkware",
-  "pid": "9545",
-  "pname": "PKZIP",
-  "pcpe": "cpe:/a:pkware:pkzip"
+	"vid": "4483",
+	"vname": "PKWARE",
+	"vcpe": "cpe:/:pkware",
+	"pid": "9545",
+	"pname": "PKZIP",
+	"pcpe": "cpe:/a:pkware:pkzip"
 }

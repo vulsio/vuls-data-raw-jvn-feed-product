@@ -1,8 +1,8 @@
 {
-  "vid": "22323",
-  "vname": "GS Plugins",
-  "vcpe": "cpe:/:gsplugins",
-  "pid": "64307",
-  "pname": "gs books showcase",
-  "pcpe": "cpe:/a:gsplugins:gs_books_showcase"
+	"vid": "22323",
+	"vname": "GS Plugins",
+	"vcpe": "cpe:/:gsplugins",
+	"pid": "64307",
+	"pname": "gs books showcase",
+	"pcpe": "cpe:/a:gsplugins:gs_books_showcase"
 }

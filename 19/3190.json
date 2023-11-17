@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3190",
-  "pname": "Skinny Client Control Protocol Software",
-  "pcpe": "cpe:/o:cisco:skinny_client_control_protocol_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3190",
+	"pname": "Skinny Client Control Protocol Software",
+	"pcpe": "cpe:/o:cisco:skinny_client_control_protocol_software"
 }

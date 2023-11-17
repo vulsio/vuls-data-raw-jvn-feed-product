@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "39998",
-  "pname": "ADAL.NET",
-  "pcpe": "cpe:/a:microsoft:active_directory_authentication_library"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "39998",
+	"pname": "ADAL.NET",
+	"pcpe": "cpe:/a:microsoft:active_directory_authentication_library"
 }

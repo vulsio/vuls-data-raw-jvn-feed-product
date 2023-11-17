@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "53935",
-  "pname": "WZR-G144NH ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wzr-g144nh_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "53935",
+	"pname": "WZR-G144NH ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wzr-g144nh_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "111",
-  "vname": "株式会社イーシーキューブ",
-  "vcpe": "cpe:/:lockon",
-  "pid": "48013",
-  "pname": "カテゴリコンテンツプラグイン",
-  "pcpe": "cpe:/a:lockon:category_contents_plugin"
+	"vid": "111",
+	"vname": "株式会社イーシーキューブ",
+	"vcpe": "cpe:/:lockon",
+	"pid": "48013",
+	"pname": "カテゴリコンテンツプラグイン",
+	"pcpe": "cpe:/a:lockon:category_contents_plugin"
 }

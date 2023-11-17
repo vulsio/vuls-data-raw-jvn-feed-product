@@ -1,8 +1,8 @@
 {
-  "vid": "18255",
-  "vname": "CommScope",
-  "vcpe": "cpe:/:commscope",
-  "pid": "47227",
-  "pname": "Ruckus vRloT",
-  "pcpe": "cpe:/a:commscope:ruckus_vriot"
+	"vid": "18255",
+	"vname": "CommScope",
+	"vcpe": "cpe:/:commscope",
+	"pid": "47227",
+	"pname": "Ruckus vRloT",
+	"pcpe": "cpe:/a:commscope:ruckus_vriot"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25587",
-  "pname": "JG411A HP MSR2003 AC Router",
-  "pcpe": "cpe:/h:hp:jg411a_hp_msr2003_ac_router"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25587",
+	"pname": "JG411A HP MSR2003 AC Router",
+	"pcpe": "cpe:/h:hp:jg411a_hp_msr2003_ac_router"
 }

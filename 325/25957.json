@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "25957",
-  "pname": "LenovoEMC ファームウェア",
-  "pcpe": "cpe:/a:lenovo:emc_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "25957",
+	"pname": "LenovoEMC ファームウェア",
+	"pcpe": "cpe:/a:lenovo:emc_firmware"
 }

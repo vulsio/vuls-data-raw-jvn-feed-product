@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "28937",
-  "pname": "Primavera Gateway",
-  "pcpe": "cpe:/a:oracle:primavera_gateway"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "28937",
+	"pname": "Primavera Gateway",
+	"pcpe": "cpe:/a:oracle:primavera_gateway"
 }

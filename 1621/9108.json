@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "9108",
-  "pname": "Nokia PC Suite",
-  "pcpe": "cpe:/a:nokia:pc_suite"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "9108",
+	"pname": "Nokia PC Suite",
+	"pcpe": "cpe:/a:nokia:pc_suite"
 }

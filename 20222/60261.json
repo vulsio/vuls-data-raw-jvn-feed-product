@@ -1,8 +1,8 @@
 {
-  "vid": "20222",
-  "vname": "kubiq",
-  "vcpe": "cpe:/:kubiq",
-  "pid": "60261",
-  "pname": "Remove CPT base",
-  "pcpe": "cpe:/a:kubiq:cpt_base"
+	"vid": "20222",
+	"vname": "kubiq",
+	"vcpe": "cpe:/:kubiq",
+	"pid": "60261",
+	"pname": "Remove CPT base",
+	"pcpe": "cpe:/a:kubiq:cpt_base"
 }

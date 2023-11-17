@@ -1,8 +1,8 @@
 {
-  "vid": "4150",
-  "vname": "sql-ledger",
-  "vcpe": "cpe:/:sql-ledger",
-  "pid": "8662",
-  "pname": "sql-ledger",
-  "pcpe": "cpe:/a:sql-ledger:sql-ledger"
+	"vid": "4150",
+	"vname": "sql-ledger",
+	"vcpe": "cpe:/:sql-ledger",
+	"pid": "8662",
+	"pname": "sql-ledger",
+	"pcpe": "cpe:/a:sql-ledger:sql-ledger"
 }

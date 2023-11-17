@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "30696",
-  "pname": "Cisco FindIT ネットワーク検出ユーティリティ",
-  "pcpe": "cpe:/a:cisco:findit_network_discovery_utility"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "30696",
+	"pname": "Cisco FindIT ネットワーク検出ユーティリティ",
+	"pcpe": "cpe:/a:cisco:findit_network_discovery_utility"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17442",
-  "pname": "IBM Tivoli Netcool/System Service Monitors",
-  "pcpe": "cpe:/a:ibm:tivoli_netcool_system_service_monitors"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17442",
+	"pname": "IBM Tivoli Netcool/System Service Monitors",
+	"pcpe": "cpe:/a:ibm:tivoli_netcool_system_service_monitors"
 }

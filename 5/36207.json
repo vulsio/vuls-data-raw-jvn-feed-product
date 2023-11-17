@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "36207",
-  "pname": "IPQ8074 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:ipq8074_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "36207",
+	"pname": "IPQ8074 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:ipq8074_firmware"
 }

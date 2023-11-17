@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "54188",
-  "pname": "Jenkins Squash TM Publisher",
-  "pcpe": "cpe:/a:jenkins:squash_tm_publishe"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "54188",
+	"pname": "Jenkins Squash TM Publisher",
+	"pcpe": "cpe:/a:jenkins:squash_tm_publishe"
 }

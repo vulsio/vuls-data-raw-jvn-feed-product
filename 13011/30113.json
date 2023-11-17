@@ -1,8 +1,8 @@
 {
-  "vid": "13011",
-  "vname": "PDQ Manufacturing, Inc.",
-  "vcpe": "cpe:/:pdqinc",
-  "pid": "30113",
-  "pname": "LaserWash M5 ファームウェア",
-  "pcpe": "cpe:/o:pdqinc:laserwash_m5_firmware"
+	"vid": "13011",
+	"vname": "PDQ Manufacturing, Inc.",
+	"vcpe": "cpe:/:pdqinc",
+	"pid": "30113",
+	"pname": "LaserWash M5 ファームウェア",
+	"pcpe": "cpe:/o:pdqinc:laserwash_m5_firmware"
 }

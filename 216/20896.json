@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "20896",
-  "pname": "Python Imaging",
-  "pcpe": "cpe:/a:debian:python-imaging"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "20896",
+	"pname": "Python Imaging",
+	"pcpe": "cpe:/a:debian:python-imaging"
 }

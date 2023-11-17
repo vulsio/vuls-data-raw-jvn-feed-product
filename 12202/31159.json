@@ -1,8 +1,8 @@
 {
-  "vid": "12202",
-  "vname": "株式会社マネーフォワード",
-  "vcpe": "cpe:/:money_forward_inc",
-  "pid": "31159",
-  "pname": "マネーフォワード for 東邦銀行",
-  "pcpe": "cpe:/a:money_forward_inc:money_forward_for_the_toho_bank"
+	"vid": "12202",
+	"vname": "株式会社マネーフォワード",
+	"vcpe": "cpe:/:money_forward_inc",
+	"pid": "31159",
+	"pname": "マネーフォワード for 東邦銀行",
+	"pcpe": "cpe:/a:money_forward_inc:money_forward_for_the_toho_bank"
 }

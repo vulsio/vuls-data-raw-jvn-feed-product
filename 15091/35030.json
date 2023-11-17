@@ -1,8 +1,8 @@
 {
-  "vid": "15091",
-  "vname": "ResidualShare project",
-  "vcpe": "cpe:/:residualshare_project",
-  "pid": "35030",
-  "pname": "ResidualShare",
-  "pcpe": "cpe:/a:residualshare_project:residualshare"
+	"vid": "15091",
+	"vname": "ResidualShare project",
+	"vcpe": "cpe:/:residualshare_project",
+	"pid": "35030",
+	"pname": "ResidualShare",
+	"pcpe": "cpe:/a:residualshare_project:residualshare"
 }

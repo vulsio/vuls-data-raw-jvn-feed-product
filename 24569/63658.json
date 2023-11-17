@@ -1,8 +1,8 @@
 {
-  "vid": "24569",
-  "vname": "zigor",
-  "vcpe": "cpe:/:zigor",
-  "pid": "63658",
-  "pname": "zgr tps200 ng ファームウェア",
-  "pcpe": "cpe:/o:zigor:zgr_tps200_ng_firmware"
+	"vid": "24569",
+	"vname": "zigor",
+	"vcpe": "cpe:/:zigor",
+	"pid": "63658",
+	"pname": "zgr tps200 ng ファームウェア",
+	"pcpe": "cpe:/o:zigor:zgr_tps200_ng_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21859",
-  "vname": "socks5 project",
-  "vcpe": "cpe:/:socks5_project",
-  "pid": "56082",
-  "pname": "socks5",
-  "pcpe": "cpe:/a:socks5_project:socks5"
+	"vid": "21859",
+	"vname": "socks5 project",
+	"vcpe": "cpe:/:socks5_project",
+	"pid": "56082",
+	"pname": "socks5",
+	"pcpe": "cpe:/a:socks5_project:socks5"
 }

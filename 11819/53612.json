@@ -1,8 +1,8 @@
 {
-  "vid": "11819",
-  "vname": "Orchard Core",
-  "vcpe": "cpe:/:orchardcore",
-  "pid": "53612",
-  "pname": "Orchard Core",
-  "pcpe": "cpe:/a:orchardcore:orchard_core"
+	"vid": "11819",
+	"vname": "Orchard Core",
+	"vcpe": "cpe:/:orchardcore",
+	"pid": "53612",
+	"pname": "Orchard Core",
+	"pcpe": "cpe:/a:orchardcore:orchard_core"
 }

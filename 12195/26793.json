@@ -1,8 +1,8 @@
 {
-  "vid": "12195",
-  "vname": "MISP project",
-  "vcpe": "cpe:/:misp-project",
-  "pid": "26793",
-  "pname": "Malware Information Sharing Platform (MISP)",
-  "pcpe": "cpe:/a:misp-project:misp"
+	"vid": "12195",
+	"vname": "MISP project",
+	"vcpe": "cpe:/:misp-project",
+	"pid": "26793",
+	"pname": "Malware Information Sharing Platform (MISP)",
+	"pcpe": "cpe:/a:misp-project:misp"
 }

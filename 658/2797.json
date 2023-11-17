@@ -1,8 +1,8 @@
 {
-  "vid": "658",
-  "vname": "バラクーダネットワークス",
-  "vcpe": "cpe:/:barracuda_networks",
-  "pid": "2797",
-  "pname": "Load Balancer",
-  "pcpe": "cpe:/h:barracuda_networks:barracuda_load_balancer"
+	"vid": "658",
+	"vname": "バラクーダネットワークス",
+	"vcpe": "cpe:/:barracuda_networks",
+	"pid": "2797",
+	"pname": "Load Balancer",
+	"pcpe": "cpe:/h:barracuda_networks:barracuda_load_balancer"
 }

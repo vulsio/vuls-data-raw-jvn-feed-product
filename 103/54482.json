@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "54482",
-  "pname": "GeForce GTX 950",
-  "pcpe": "cpe:/o:nvidia:geforce_gtx_950"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "54482",
+	"pname": "GeForce GTX 950",
+	"pcpe": "cpe:/o:nvidia:geforce_gtx_950"
 }

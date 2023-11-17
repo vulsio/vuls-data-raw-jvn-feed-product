@@ -1,8 +1,8 @@
 {
-  "vid": "13025",
-  "vname": "NXP Semiconductors",
-  "vcpe": "cpe:/:nxp",
-  "pid": "50520",
-  "pname": "LPC55S66JBD100 ファームウェア",
-  "pcpe": "cpe:/o:nxp:lpc55s66jbd100_firmware"
+	"vid": "13025",
+	"vname": "NXP Semiconductors",
+	"vcpe": "cpe:/:nxp",
+	"pid": "50520",
+	"pname": "LPC55S66JBD100 ファームウェア",
+	"pcpe": "cpe:/o:nxp:lpc55s66jbd100_firmware"
 }

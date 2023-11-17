@@ -1,8 +1,8 @@
 {
-  "vid": "2610",
-  "vname": "bosdev",
-  "vcpe": "cpe:/:bosdev",
-  "pid": "6401",
-  "pname": "bosclassifieds classified ads",
-  "pcpe": "cpe:/a:bosdev:bosclassifieds_classified_ads"
+	"vid": "2610",
+	"vname": "bosdev",
+	"vcpe": "cpe:/:bosdev",
+	"pid": "6401",
+	"pname": "bosclassifieds classified ads",
+	"pcpe": "cpe:/a:bosdev:bosclassifieds_classified_ads"
 }

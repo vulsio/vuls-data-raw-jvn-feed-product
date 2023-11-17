@@ -1,8 +1,8 @@
 {
-  "vid": "12508",
-  "vname": "Becton, Dickinson and Company (BD)",
-  "vcpe": "cpe:/:bd",
-  "pid": "33745",
-  "pname": "Database Manager",
-  "pcpe": "cpe:/a:bd:database_manager"
+	"vid": "12508",
+	"vname": "Becton, Dickinson and Company (BD)",
+	"vcpe": "cpe:/:bd",
+	"pid": "33745",
+	"pname": "Database Manager",
+	"pcpe": "cpe:/a:bd:database_manager"
 }

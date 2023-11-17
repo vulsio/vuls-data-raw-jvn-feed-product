@@ -1,8 +1,8 @@
 {
-  "vid": "17705",
-  "vname": "http authentication library project",
-  "vcpe": "cpe:/:http_authentication_library_project",
-  "pid": "42529",
-  "pname": "http authentication library",
-  "pcpe": "cpe:/a:http_authentication_library_project:http_authentication_library"
+	"vid": "17705",
+	"vname": "http authentication library project",
+	"vcpe": "cpe:/:http_authentication_library_project",
+	"pid": "42529",
+	"pname": "http authentication library",
+	"pcpe": "cpe:/a:http_authentication_library_project:http_authentication_library"
 }

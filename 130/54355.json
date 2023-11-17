@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "54355",
-  "pname": "Intel Celeron Processor N2807",
-  "pcpe": "cpe:/o:intel:celeron_n2807"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "54355",
+	"pname": "Intel Celeron Processor N2807",
+	"pcpe": "cpe:/o:intel:celeron_n2807"
 }

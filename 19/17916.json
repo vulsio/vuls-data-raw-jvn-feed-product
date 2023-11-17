@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17916",
-  "pname": "Cisco VDS-SB Software",
-  "pcpe": "cpe:/a:cisco:videoscape_distribution_suite_service_broker"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17916",
+	"pname": "Cisco VDS-SB Software",
+	"pcpe": "cpe:/a:cisco:videoscape_distribution_suite_service_broker"
 }

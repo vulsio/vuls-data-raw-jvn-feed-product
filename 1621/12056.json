@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "12056",
-  "pname": "groupwise mobile server",
-  "pcpe": "cpe:/a:nokia:groupwise_mobile_server"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "12056",
+	"pname": "groupwise mobile server",
+	"pcpe": "cpe:/a:nokia:groupwise_mobile_server"
 }

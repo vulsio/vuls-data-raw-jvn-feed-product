@@ -1,8 +1,8 @@
 {
-  "vid": "11928",
-  "vname": "Project Jupyter",
-  "vcpe": "cpe:/:jupyter",
-  "pid": "24862",
-  "pname": "Jupyter Notebook",
-  "pcpe": "cpe:/a:jupyter:notebook"
+	"vid": "11928",
+	"vname": "Project Jupyter",
+	"vcpe": "cpe:/:jupyter",
+	"pid": "24862",
+	"pname": "Jupyter Notebook",
+	"pcpe": "cpe:/a:jupyter:notebook"
 }

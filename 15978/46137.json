@@ -1,8 +1,8 @@
 {
-  "vid": "15978",
-  "vname": "Silicon Labs, Inc.",
-  "vcpe": "cpe:/:silabs",
-  "pid": "46137",
-  "pname": "Bluetooth Low Energy SDK",
-  "pcpe": "cpe:/a:silabs:bluetooth_low_energy_software_development_kit"
+	"vid": "15978",
+	"vname": "Silicon Labs, Inc.",
+	"vcpe": "cpe:/:silabs",
+	"pid": "46137",
+	"pname": "Bluetooth Low Energy SDK",
+	"pcpe": "cpe:/a:silabs:bluetooth_low_energy_software_development_kit"
 }

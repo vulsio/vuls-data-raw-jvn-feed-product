@@ -1,8 +1,8 @@
 {
-  "vid": "18209",
-  "vname": "BigBlueButton",
-  "vcpe": "cpe:/:bigbluebutton",
-  "pid": "46884",
-  "pname": "Greenlight",
-  "pcpe": "cpe:/a:bigbluebutton:greenlight"
+	"vid": "18209",
+	"vname": "BigBlueButton",
+	"vcpe": "cpe:/:bigbluebutton",
+	"pid": "46884",
+	"pname": "Greenlight",
+	"pcpe": "cpe:/a:bigbluebutton:greenlight"
 }

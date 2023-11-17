@@ -1,8 +1,8 @@
 {
-  "vid": "19542",
-  "vname": "client.io",
-  "vcpe": "cpe:/:client",
-  "pid": "49231",
-  "pname": "jointjs",
-  "pcpe": "cpe:/a:client:jointjs"
+	"vid": "19542",
+	"vname": "client.io",
+	"vcpe": "cpe:/:client",
+	"pid": "49231",
+	"pname": "jointjs",
+	"pcpe": "cpe:/a:client:jointjs"
 }

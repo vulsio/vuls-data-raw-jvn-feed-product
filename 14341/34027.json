@@ -1,8 +1,8 @@
 {
-  "vid": "14341",
-  "vname": "windows-latestchromedriver project",
-  "vcpe": "cpe:/:windows-latestchromedriver_project",
-  "pid": "34027",
-  "pname": "windows-latestchromedriver",
-  "pcpe": "cpe:/a:windows-latestchromedriver_project:windows-latestchromedriver"
+	"vid": "14341",
+	"vname": "windows-latestchromedriver project",
+	"vcpe": "cpe:/:windows-latestchromedriver_project",
+	"pid": "34027",
+	"pname": "windows-latestchromedriver",
+	"pcpe": "cpe:/a:windows-latestchromedriver_project:windows-latestchromedriver"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22859",
-  "vname": "mdt",
-  "vcpe": "cpe:/:mdt",
-  "pid": "58895",
-  "pname": "scn-ip100.03 ファームウェア",
-  "pcpe": "cpe:/o:mdt:scn-ip100.03_firmware"
+	"vid": "22859",
+	"vname": "mdt",
+	"vcpe": "cpe:/:mdt",
+	"pid": "58895",
+	"pname": "scn-ip100.03 ファームウェア",
+	"pcpe": "cpe:/o:mdt:scn-ip100.03_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "170",
-  "vname": "東芝",
-  "vcpe": "cpe:/:toshiba",
-  "pid": "60731",
-  "pname": "Storage Security Software",
-  "pcpe": "cpe:/a:toshiba:storage_security_software"
+	"vid": "170",
+	"vname": "東芝",
+	"vcpe": "cpe:/:toshiba",
+	"pid": "60731",
+	"pname": "Storage Security Software",
+	"pcpe": "cpe:/a:toshiba:storage_security_software"
 }

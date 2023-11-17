@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "33637",
-  "pname": "1288H V5 ファームウェア",
-  "pcpe": "cpe:/o:huawei:1288h_v5_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "33637",
+	"pname": "1288H V5 ファームウェア",
+	"pcpe": "cpe:/o:huawei:1288h_v5_firmware"
 }

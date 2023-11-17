@@ -1,8 +1,8 @@
 {
-  "vid": "505",
-  "vname": "Nortel Networks",
-  "vcpe": "cpe:/:nortel",
-  "pid": "12990",
-  "pname": "vpn router 1010",
-  "pcpe": "cpe:/h:nortel:vpn_router_1010"
+	"vid": "505",
+	"vname": "Nortel Networks",
+	"vcpe": "cpe:/:nortel",
+	"pid": "12990",
+	"pname": "vpn router 1010",
+	"pcpe": "cpe:/h:nortel:vpn_router_1010"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "4990",
-  "pname": "blackberry torch 9800",
-  "pcpe": "cpe:/h:blackberry:blackberry_torch_9800"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "4990",
+	"pname": "blackberry torch 9800",
+	"pcpe": "cpe:/h:blackberry:blackberry_torch_9800"
 }

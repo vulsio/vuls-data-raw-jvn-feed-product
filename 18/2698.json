@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "2698",
-  "pname": "Lotus Sametime Unified Telephony",
-  "pcpe": "cpe:/a:ibm:lotus_sametime_unified_telephony"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "2698",
+	"pname": "Lotus Sametime Unified Telephony",
+	"pcpe": "cpe:/a:ibm:lotus_sametime_unified_telephony"
 }

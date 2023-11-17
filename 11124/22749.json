@@ -1,8 +1,8 @@
 {
-  "vid": "11124",
-  "vname": "yell",
-  "vcpe": "cpe:/:yell",
-  "pid": "22749",
-  "pname": "yell local search",
-  "pcpe": "cpe:/a:yell:yell_local_search"
+	"vid": "11124",
+	"vname": "yell",
+	"vcpe": "cpe:/:yell",
+	"pid": "22749",
+	"pname": "yell local search",
+	"pcpe": "cpe:/a:yell:yell_local_search"
 }

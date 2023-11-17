@@ -1,8 +1,8 @@
 {
-  "vid": "1877",
-  "vname": "ITechScripts",
-  "vcpe": "cpe:/:itechscripts",
-  "pid": "61410",
-  "pname": "multi vendor script",
-  "pcpe": "cpe:/a:itechscripts:multi_vendor_script"
+	"vid": "1877",
+	"vname": "ITechScripts",
+	"vcpe": "cpe:/:itechscripts",
+	"pid": "61410",
+	"pname": "multi vendor script",
+	"pcpe": "cpe:/a:itechscripts:multi_vendor_script"
 }

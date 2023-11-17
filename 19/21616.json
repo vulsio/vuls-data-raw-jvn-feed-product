@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "21616",
-  "pname": "WS-C3860",
-  "pcpe": "cpe:/h:cisco:ws-c3860"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "21616",
+	"pname": "WS-C3860",
+	"pcpe": "cpe:/h:cisco:ws-c3860"
 }

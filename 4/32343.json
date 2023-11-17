@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "32343",
-  "pname": "CE503A ファームウェア",
-  "pcpe": "cpe:/o:hp:ce503a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "32343",
+	"pname": "CE503A ファームウェア",
+	"pcpe": "cpe:/o:hp:ce503a_firmware"
 }

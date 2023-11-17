@@ -1,8 +1,8 @@
 {
-  "vid": "1723",
-  "vname": "SonicWALL",
-  "vcpe": "cpe:/:sonicwall",
-  "pid": "58925",
-  "pname": "nsv 10 ファームウェア",
-  "pcpe": "cpe:/o:sonicwall:nsv_10_firmware"
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "58925",
+	"pname": "nsv 10 ファームウェア",
+	"pcpe": "cpe:/o:sonicwall:nsv_10_firmware"
 }

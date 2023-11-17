@@ -1,8 +1,8 @@
 {
-  "vid": "13940",
-  "vname": "Wire Swiss GmbH",
-  "vcpe": "cpe:/:wire",
-  "pid": "47222",
-  "pname": "Wire Secure Messenger",
-  "pcpe": "cpe:/a:wire:wire_secure_messenger"
+	"vid": "13940",
+	"vname": "Wire Swiss GmbH",
+	"vcpe": "cpe:/:wire",
+	"pid": "47222",
+	"pname": "Wire Secure Messenger",
+	"pcpe": "cpe:/a:wire:wire_secure_messenger"
 }

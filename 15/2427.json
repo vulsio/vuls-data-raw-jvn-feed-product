@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2427",
-  "pname": "Oracle PeopleSoft and JDEdwards Suite HCM",
-  "pcpe": "cpe:/a:oracle:peoplesoft_and_jdedwards_suite_hcm"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2427",
+	"pname": "Oracle PeopleSoft and JDEdwards Suite HCM",
+	"pcpe": "cpe:/a:oracle:peoplesoft_and_jdedwards_suite_hcm"
 }

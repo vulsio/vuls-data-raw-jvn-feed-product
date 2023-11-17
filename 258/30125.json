@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "30125",
-  "pname": "librest",
-  "pcpe": "cpe:/a:gnome:librest"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "30125",
+	"pname": "librest",
+	"pcpe": "cpe:/a:gnome:librest"
 }

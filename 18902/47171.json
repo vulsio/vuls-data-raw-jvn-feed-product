@@ -1,8 +1,8 @@
 {
-  "vid": "18902",
-  "vname": "webpack-subresource-integrity project",
-  "vcpe": "cpe:/:webpack-subresource-integrity_project",
-  "pid": "47171",
-  "pname": "webpack-subresource-integrity",
-  "pcpe": "cpe:/a:webpack-subresource-integrity_project:webpack-subresource-integrity"
+	"vid": "18902",
+	"vname": "webpack-subresource-integrity project",
+	"vcpe": "cpe:/:webpack-subresource-integrity_project",
+	"pid": "47171",
+	"pname": "webpack-subresource-integrity",
+	"pcpe": "cpe:/a:webpack-subresource-integrity_project:webpack-subresource-integrity"
 }

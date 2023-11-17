@@ -1,8 +1,8 @@
 {
-  "vid": "12860",
-  "vname": "Marel",
-  "vcpe": "cpe:/:marel",
-  "pid": "29642",
-  "pname": "P574 ファームウェア",
-  "pcpe": "cpe:/o:marel:p574_firmware"
+	"vid": "12860",
+	"vname": "Marel",
+	"vcpe": "cpe:/:marel",
+	"pid": "29642",
+	"pname": "P574 ファームウェア",
+	"pcpe": "cpe:/o:marel:p574_firmware"
 }

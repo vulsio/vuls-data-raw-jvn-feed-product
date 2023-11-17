@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3193",
-  "pname": "Cisco WRVS4400N Wireless-N Gigabit Security ルータソフトウェア",
-  "pcpe": "cpe:/a:cisco:wrvs4400n_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3193",
+	"pname": "Cisco WRVS4400N Wireless-N Gigabit Security ルータソフトウェア",
+	"pcpe": "cpe:/a:cisco:wrvs4400n_software"
 }

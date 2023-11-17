@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "6753",
-  "pname": "trust agent",
-  "pcpe": "cpe:/a:cisco:trust_agent"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "6753",
+	"pname": "trust agent",
+	"pcpe": "cpe:/a:cisco:trust_agent"
 }

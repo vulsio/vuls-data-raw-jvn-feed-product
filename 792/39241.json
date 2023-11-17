@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "39241",
-  "pname": "USG2200-VPN ファームウェア",
-  "pcpe": "cpe:/o:zyxel:usg2200-vpn_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "39241",
+	"pname": "USG2200-VPN ファームウェア",
+	"pcpe": "cpe:/o:zyxel:usg2200-vpn_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3053",
-  "vname": "cypress",
-  "vcpe": "cpe:/:cypress",
-  "pid": "44516",
-  "pname": "WICED Studio",
-  "pcpe": "cpe:/a:cypress:wiced_studio"
+	"vid": "3053",
+	"vname": "cypress",
+	"vcpe": "cpe:/:cypress",
+	"pid": "44516",
+	"pname": "WICED Studio",
+	"pcpe": "cpe:/a:cypress:wiced_studio"
 }

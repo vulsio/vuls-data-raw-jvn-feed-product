@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "54424",
-  "pname": "Alienware 13 R3 ファームウェア",
-  "pcpe": "cpe:/o:dell:alienware_13_r3_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "54424",
+	"pname": "Alienware 13 R3 ファームウェア",
+	"pcpe": "cpe:/o:dell:alienware_13_r3_firmware"
 }

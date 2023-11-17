@@ -1,8 +1,8 @@
 {
-  "vid": "9192",
-  "vname": "thoughtbot",
-  "vcpe": "cpe:/:thoughtbot",
-  "pid": "52934",
-  "pname": "clearance",
-  "pcpe": "cpe:/a:thoughtbot:clearance"
+	"vid": "9192",
+	"vname": "thoughtbot",
+	"vcpe": "cpe:/:thoughtbot",
+	"pid": "52934",
+	"pname": "clearance",
+	"pcpe": "cpe:/a:thoughtbot:clearance"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12605",
-  "vname": "Dataprobe",
-  "vcpe": "cpe:/:dataprobe",
-  "pid": "55432",
-  "pname": "iBoot-PDU8SA-N20 ファームウェア",
-  "pcpe": "cpe:/o:dataprobe:iboot-pdu8sa-n20_firmware"
+	"vid": "12605",
+	"vname": "Dataprobe",
+	"vcpe": "cpe:/:dataprobe",
+	"pid": "55432",
+	"pname": "iBoot-PDU8SA-N20 ファームウェア",
+	"pcpe": "cpe:/o:dataprobe:iboot-pdu8sa-n20_firmware"
 }

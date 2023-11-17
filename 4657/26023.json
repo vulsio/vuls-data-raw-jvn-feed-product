@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26023",
-  "pname": "S2350EI ファームウェア",
-  "pcpe": "cpe:/o:huawei:s2350ei_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26023",
+	"pname": "S2350EI ファームウェア",
+	"pcpe": "cpe:/o:huawei:s2350ei_firmware"
 }

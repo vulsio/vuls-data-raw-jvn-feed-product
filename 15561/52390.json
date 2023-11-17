@@ -1,8 +1,8 @@
 {
-  "vid": "15561",
-  "vname": "STMicroelectronics",
-  "vcpe": "cpe:/:stmicroelectronics",
-  "pid": "52390",
-  "pname": "STM32Cube Middleware",
-  "pcpe": "cpe:/a:stmicroelectronics:stm32cube_middleware"
+	"vid": "15561",
+	"vname": "STMicroelectronics",
+	"vcpe": "cpe:/:stmicroelectronics",
+	"pid": "52390",
+	"pname": "STM32Cube Middleware",
+	"pcpe": "cpe:/a:stmicroelectronics:stm32cube_middleware"
 }

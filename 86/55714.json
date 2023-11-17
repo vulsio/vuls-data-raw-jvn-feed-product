@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "55714",
-  "pname": "BS-GS2048 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:bs-gs2008_firmwarebs-gs2048_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "55714",
+	"pname": "BS-GS2048 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:bs-gs2008_firmwarebs-gs2048_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "23846",
-  "pname": "EMC PowerPath 仮想アプライアンス",
-  "pcpe": "cpe:/a:emc:powerpath_virtual_appliance"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "23846",
+	"pname": "EMC PowerPath 仮想アプライアンス",
+	"pcpe": "cpe:/a:emc:powerpath_virtual_appliance"
 }

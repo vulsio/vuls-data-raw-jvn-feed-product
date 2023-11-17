@@ -1,8 +1,8 @@
 {
-  "vid": "24122",
-  "vname": "CodexShaper",
-  "vcpe": "cpe:/:codexshaper",
-  "pid": "62388",
-  "pname": "WP OAuth2 Server",
-  "pcpe": "cpe:/a:codexshaper:wp_oauth2_server"
+	"vid": "24122",
+	"vname": "CodexShaper",
+	"vcpe": "cpe:/:codexshaper",
+	"pid": "62388",
+	"pname": "WP OAuth2 Server",
+	"pcpe": "cpe:/a:codexshaper:wp_oauth2_server"
 }

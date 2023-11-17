@@ -1,8 +1,8 @@
 {
-  "vid": "10586",
-  "vname": "gebrauchtwagenreport",
-  "vcpe": "cpe:/:gebrauchtwagenreport",
-  "pid": "22090",
-  "pname": "dekra used car report",
-  "pcpe": "cpe:/a:gebrauchtwagenreport:dekra_used_car_report"
+	"vid": "10586",
+	"vname": "gebrauchtwagenreport",
+	"vcpe": "cpe:/:gebrauchtwagenreport",
+	"pid": "22090",
+	"pname": "dekra used car report",
+	"pcpe": "cpe:/a:gebrauchtwagenreport:dekra_used_car_report"
 }

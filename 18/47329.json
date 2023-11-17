@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "47329",
-  "pname": "IBM App Connect Enterprise Certified Container",
-  "pcpe": "cpe:/a:ibm:app_connect_enterprise_certified_container"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "47329",
+	"pname": "IBM App Connect Enterprise Certified Container",
+	"pcpe": "cpe:/a:ibm:app_connect_enterprise_certified_container"
 }

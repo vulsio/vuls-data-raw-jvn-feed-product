@@ -1,8 +1,8 @@
 {
-  "vid": "9165",
-  "vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
-  "vcpe": "cpe:/:ruckuswireless",
-  "pid": "63953",
-  "pname": "smartzone ap",
-  "pcpe": "cpe:/o:ruckuswireless:smartzone_ap"
+	"vid": "9165",
+	"vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
+	"vcpe": "cpe:/:ruckuswireless",
+	"pid": "63953",
+	"pname": "smartzone ap",
+	"pcpe": "cpe:/o:ruckuswireless:smartzone_ap"
 }

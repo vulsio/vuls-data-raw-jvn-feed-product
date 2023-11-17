@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "30327",
-  "pname": "Apache Pony Mail",
-  "pcpe": "cpe:/a:apache:pony_mail"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "30327",
+	"pname": "Apache Pony Mail",
+	"pcpe": "cpe:/a:apache:pony_mail"
 }

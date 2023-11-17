@@ -1,8 +1,8 @@
 {
-  "vid": "22554",
-  "vname": "python-poetry",
-  "vcpe": "cpe:/:python-poetry",
-  "pid": "58056",
-  "pname": "poetry",
-  "pcpe": "cpe:/a:python-poetry:poetry"
+	"vid": "22554",
+	"vname": "python-poetry",
+	"vcpe": "cpe:/:python-poetry",
+	"pid": "58056",
+	"pname": "poetry",
+	"pcpe": "cpe:/a:python-poetry:poetry"
 }

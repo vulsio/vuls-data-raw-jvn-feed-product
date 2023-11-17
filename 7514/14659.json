@@ -1,8 +1,8 @@
 {
-  "vid": "7514",
-  "vname": "second sight software",
-  "vcpe": "cpe:/:second_sight_software",
-  "pid": "14659",
-  "pname": "activemod",
-  "pcpe": "cpe:/a:second_sight_software:activemod"
+	"vid": "7514",
+	"vname": "second sight software",
+	"vcpe": "cpe:/:second_sight_software",
+	"pid": "14659",
+	"pname": "activemod",
+	"pcpe": "cpe:/a:second_sight_software:activemod"
 }

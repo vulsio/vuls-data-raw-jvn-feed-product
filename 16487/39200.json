@@ -1,8 +1,8 @@
 {
-  "vid": "16487",
-  "vname": "primeo project",
-  "vcpe": "cpe:/:primeo_project",
-  "pid": "39200",
-  "pname": "Primeo",
-  "pcpe": "cpe:/a:primeo_project:primeo"
+	"vid": "16487",
+	"vname": "primeo project",
+	"vcpe": "cpe:/:primeo_project",
+	"pid": "39200",
+	"pname": "Primeo",
+	"pcpe": "cpe:/a:primeo_project:primeo"
 }

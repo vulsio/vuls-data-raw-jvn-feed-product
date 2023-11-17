@@ -1,8 +1,8 @@
 {
-  "vid": "9689",
-  "vname": "VMTurbo",
-  "vcpe": "cpe:/:vmturbo",
-  "pid": "20170",
-  "pname": "Operations Manager",
-  "pcpe": "cpe:/a:vmturbo:operations_manager"
+	"vid": "9689",
+	"vname": "VMTurbo",
+	"vcpe": "cpe:/:vmturbo",
+	"pid": "20170",
+	"pname": "Operations Manager",
+	"pcpe": "cpe:/a:vmturbo:operations_manager"
 }

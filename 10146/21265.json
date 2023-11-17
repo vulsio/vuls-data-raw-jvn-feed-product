@@ -1,8 +1,8 @@
 {
-  "vid": "10146",
-  "vname": "Metago",
-  "vcpe": "cpe:/:metago",
-  "pid": "21265",
-  "pname": "アストロファイルマネージャー",
-  "pcpe": "cpe:/a:metago:astro_file_manager_with_cloud"
+	"vid": "10146",
+	"vname": "Metago",
+	"vcpe": "cpe:/:metago",
+	"pid": "21265",
+	"pname": "アストロファイルマネージャー",
+	"pcpe": "cpe:/a:metago:astro_file_manager_with_cloud"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "21829",
-  "pname": "AR750S-DP",
-  "pcpe": "cpe:/h:allied_telesis_k.k.:ar750s-dp"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "21829",
+	"pname": "AR750S-DP",
+	"pcpe": "cpe:/h:allied_telesis_k.k.:ar750s-dp"
 }

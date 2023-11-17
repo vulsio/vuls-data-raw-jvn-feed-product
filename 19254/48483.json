@@ -1,8 +1,8 @@
 {
-  "vid": "19254",
-  "vname": "PLUM",
-  "vcpe": "cpe:/:plummac",
-  "pid": "48483",
-  "pname": "Plum IK-401 ファームウェア",
-  "pcpe": "cpe:/o:plummac:ik-401_firmware"
+	"vid": "19254",
+	"vname": "PLUM",
+	"vcpe": "cpe:/:plummac",
+	"pid": "48483",
+	"pname": "Plum IK-401 ファームウェア",
+	"pcpe": "cpe:/o:plummac:ik-401_firmware"
 }

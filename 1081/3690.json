@@ -1,8 +1,8 @@
 {
-  "vid": "1081",
-  "vname": "NTRglobal",
-  "vcpe": "cpe:/:ntrglobal",
-  "pid": "3690",
-  "pname": "NTR ActiveX Control",
-  "pcpe": "cpe:/a:ntrglobal:ntr_activex_control"
+	"vid": "1081",
+	"vname": "NTRglobal",
+	"vcpe": "cpe:/:ntrglobal",
+	"pid": "3690",
+	"pname": "NTR ActiveX Control",
+	"pcpe": "cpe:/a:ntrglobal:ntr_activex_control"
 }

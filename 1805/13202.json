@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "13202",
-  "pname": "TL-WR841N",
-  "pcpe": "cpe:/h:tp-link:tl-wr841n"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "13202",
+	"pname": "TL-WR841N",
+	"pcpe": "cpe:/h:tp-link:tl-wr841n"
 }

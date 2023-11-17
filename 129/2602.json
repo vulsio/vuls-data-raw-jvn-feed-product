@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2602",
-  "pname": "Groupmax クライアントセット",
-  "pcpe": "cpe:/a:hitachi:groupmax_client_set"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2602",
+	"pname": "Groupmax クライアントセット",
+	"pcpe": "cpe:/a:hitachi:groupmax_client_set"
 }

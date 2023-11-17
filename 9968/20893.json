@@ -1,8 +1,8 @@
 {
-  "vid": "9968",
-  "vname": "Mathias Kettner GmbH",
-  "vcpe": "cpe:/:check_mk_project",
-  "pid": "20893",
-  "pname": "Check_MK",
-  "pcpe": "cpe:/a:check_mk_project:check_mk"
+	"vid": "9968",
+	"vname": "Mathias Kettner GmbH",
+	"vcpe": "cpe:/:check_mk_project",
+	"pid": "20893",
+	"pname": "Check_MK",
+	"pcpe": "cpe:/a:check_mk_project:check_mk"
 }

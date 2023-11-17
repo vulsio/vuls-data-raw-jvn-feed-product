@@ -1,8 +1,8 @@
 {
-  "vid": "1005",
-  "vname": "RoBIT",
-  "vcpe": "cpe:/:robitbt",
-  "pid": "3568",
-  "pname": "Amblog",
-  "pcpe": "cpe:/a:robitbt:com_amblog"
+	"vid": "1005",
+	"vname": "RoBIT",
+	"vcpe": "cpe:/:robitbt",
+	"pid": "3568",
+	"pname": "Amblog",
+	"pcpe": "cpe:/a:robitbt:com_amblog"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23143",
-  "vname": "emcosoftware",
-  "vcpe": "cpe:/:emcosoftware",
-  "pid": "59947",
-  "pname": "ping monitor",
-  "pcpe": "cpe:/a:emcosoftware:ping_monitor"
+	"vid": "23143",
+	"vname": "emcosoftware",
+	"vcpe": "cpe:/:emcosoftware",
+	"pid": "59947",
+	"pname": "ping monitor",
+	"pcpe": "cpe:/a:emcosoftware:ping_monitor"
 }

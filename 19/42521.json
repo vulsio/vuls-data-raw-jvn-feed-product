@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "42521",
-  "pname": "Cisco Linksys EA 3500 ファームウェア",
-  "pcpe": "cpe:/o:cisco:linksys_ea3500_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "42521",
+	"pname": "Cisco Linksys EA 3500 ファームウェア",
+	"pcpe": "cpe:/o:cisco:linksys_ea3500_firmware"
 }

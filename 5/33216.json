@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33216",
-  "pname": "QCA9379 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qca9379_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33216",
+	"pname": "QCA9379 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qca9379_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29217",
-  "pname": "SIMATIC CP 443-1 Std ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_cp_443-1_opc-ua_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29217",
+	"pname": "SIMATIC CP 443-1 Std ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_cp_443-1_opc-ua_firmware"
 }

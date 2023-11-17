@@ -1,8 +1,8 @@
 {
-  "vid": "7104",
-  "vname": "Progress Software Corporation",
-  "vcpe": "cpe:/:progress",
-  "pid": "36094",
-  "pname": "Kendo UI Editor",
-  "pcpe": "cpe:/a:progress:kendo_ui_editor"
+	"vid": "7104",
+	"vname": "Progress Software Corporation",
+	"vcpe": "cpe:/:progress",
+	"pid": "36094",
+	"pname": "Kendo UI Editor",
+	"pcpe": "cpe:/a:progress:kendo_ui_editor"
 }

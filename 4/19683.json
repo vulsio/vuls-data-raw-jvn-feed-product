@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "19683",
-  "pname": "HP Rapid Deployment Pack",
-  "pcpe": "cpe:/a:hp:rapid_deployment_pack"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "19683",
+	"pname": "HP Rapid Deployment Pack",
+	"pcpe": "cpe:/a:hp:rapid_deployment_pack"
 }

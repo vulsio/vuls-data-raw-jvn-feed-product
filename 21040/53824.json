@@ -1,8 +1,8 @@
 {
-  "vid": "21040",
-  "vname": "OpenPOWER Foundation",
-  "vcpe": "cpe:/:openpowerfoundation",
-  "pid": "53824",
-  "pname": "skiboot",
-  "pcpe": "cpe:/o:openpowerfoundation:skiboot"
+	"vid": "21040",
+	"vname": "OpenPOWER Foundation",
+	"vcpe": "cpe:/:openpowerfoundation",
+	"pid": "53824",
+	"pname": "skiboot",
+	"pcpe": "cpe:/o:openpowerfoundation:skiboot"
 }

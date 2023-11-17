@@ -1,8 +1,8 @@
 {
-  "vid": "2729",
-  "vname": "cartkeeper",
-  "vcpe": "cpe:/:cartkeeper",
-  "pid": "6601",
-  "pname": "ckgold shopping cart",
-  "pcpe": "cpe:/a:cartkeeper:ckgold_shopping_cart"
+	"vid": "2729",
+	"vname": "cartkeeper",
+	"vcpe": "cpe:/:cartkeeper",
+	"pid": "6601",
+	"pname": "ckgold shopping cart",
+	"pcpe": "cpe:/a:cartkeeper:ckgold_shopping_cart"
 }

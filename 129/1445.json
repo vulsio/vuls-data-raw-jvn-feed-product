@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1445",
-  "pname": "文書管理サーバセット",
-  "pcpe": "cpe:/a:hitachi:document_manager_server_set"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1445",
+	"pname": "文書管理サーバセット",
+	"pcpe": "cpe:/a:hitachi:document_manager_server_set"
 }

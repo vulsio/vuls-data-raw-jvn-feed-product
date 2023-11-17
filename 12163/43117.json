@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "43117",
-  "pname": "Parasoft Environment Manager",
-  "pcpe": "cpe:/a:jenkins:parasoft_environment_manager"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "43117",
+	"pname": "Parasoft Environment Manager",
+	"pcpe": "cpe:/a:jenkins:parasoft_environment_manager"
 }

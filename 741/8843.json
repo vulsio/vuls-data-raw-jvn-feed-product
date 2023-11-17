@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "8843",
-  "pname": "DPH-541",
-  "pcpe": "cpe:/h:dlink:dph-541"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "8843",
+	"pname": "DPH-541",
+	"pcpe": "cpe:/h:dlink:dph-541"
 }

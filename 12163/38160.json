@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38160",
-  "pname": "Aqua Security Scanner",
-  "pcpe": "cpe:/a:jenkins:aqua_security_scanner"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38160",
+	"pname": "Aqua Security Scanner",
+	"pcpe": "cpe:/a:jenkins:aqua_security_scanner"
 }

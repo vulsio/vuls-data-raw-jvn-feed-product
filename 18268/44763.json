@@ -1,8 +1,8 @@
 {
-  "vid": "18268",
-  "vname": "JSON project",
-  "vcpe": "cpe:/:json_project",
-  "pid": "44763",
-  "pname": "JSON",
-  "pcpe": "cpe:/a:json_project:json"
+	"vid": "18268",
+	"vname": "JSON project",
+	"vcpe": "cpe:/:json_project",
+	"pid": "44763",
+	"pname": "JSON",
+	"pcpe": "cpe:/a:json_project:json"
 }

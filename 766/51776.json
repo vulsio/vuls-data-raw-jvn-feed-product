@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "51776",
-  "pname": "SCL シリーズ 1037 ups ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:scl_series_1037_ups_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "51776",
+	"pname": "SCL シリーズ 1037 ups ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:scl_series_1037_ups_firmware"
 }

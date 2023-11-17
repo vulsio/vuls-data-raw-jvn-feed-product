@@ -1,8 +1,8 @@
 {
-  "vid": "23435",
-  "vname": "Econolite",
-  "vcpe": "cpe:/:econolite",
-  "pid": "60721",
-  "pname": "EOS",
-  "pcpe": "cpe:/a:econolite:eos"
+	"vid": "23435",
+	"vname": "Econolite",
+	"vcpe": "cpe:/:econolite",
+	"pid": "60721",
+	"pname": "EOS",
+	"pcpe": "cpe:/a:econolite:eos"
 }

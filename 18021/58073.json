@@ -1,8 +1,8 @@
 {
-  "vid": "18021",
-  "vname": "Western Digital",
-  "vcpe": "cpe:/:westerndigital",
-  "pid": "58073",
-  "pname": "my cloud ex2100 ファームウェア",
-  "pcpe": "cpe:/o:westerndigital:my_cloud_ex2100_firmware"
+	"vid": "18021",
+	"vname": "Western Digital",
+	"vcpe": "cpe:/:westerndigital",
+	"pid": "58073",
+	"pname": "my cloud ex2100 ファームウェア",
+	"pcpe": "cpe:/o:westerndigital:my_cloud_ex2100_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9349",
-  "vname": "Gapless Player",
-  "vcpe": "cpe:/:gapless_player",
-  "pid": "19211",
-  "pname": "SimZip (Simple Zip Viewer)",
-  "pcpe": "cpe:/a:gapless_player:simzip"
+	"vid": "9349",
+	"vname": "Gapless Player",
+	"vcpe": "cpe:/:gapless_player",
+	"pid": "19211",
+	"pname": "SimZip (Simple Zip Viewer)",
+	"pcpe": "cpe:/a:gapless_player:simzip"
 }

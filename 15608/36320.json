@@ -1,8 +1,8 @@
 {
-  "vid": "15608",
-  "vname": "oBike Inc.",
-  "vcpe": "cpe:/:o.bike",
-  "pid": "36320",
-  "pname": "oBike-Stationless Bike Sharing",
-  "pcpe": "cpe:/a:o.bike:obike-stationless_bike_sharing"
+	"vid": "15608",
+	"vname": "oBike Inc.",
+	"vcpe": "cpe:/:o.bike",
+	"pid": "36320",
+	"pname": "oBike-Stationless Bike Sharing",
+	"pcpe": "cpe:/a:o.bike:obike-stationless_bike_sharing"
 }

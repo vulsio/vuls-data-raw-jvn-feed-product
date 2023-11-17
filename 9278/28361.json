@@ -1,8 +1,8 @@
 {
-  "vid": "9278",
-  "vname": "Eaton",
-  "vcpe": "cpe:/:eaton",
-  "pid": "28361",
-  "pname": "ePDU EAMxxx シリーズファームウェア",
-  "pcpe": "cpe:/o:eaton:eamxxx_series_epdu_firmware"
+	"vid": "9278",
+	"vname": "Eaton",
+	"vcpe": "cpe:/:eaton",
+	"pid": "28361",
+	"pname": "ePDU EAMxxx シリーズファームウェア",
+	"pcpe": "cpe:/o:eaton:eamxxx_series_epdu_firmware"
 }

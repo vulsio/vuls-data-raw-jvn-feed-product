@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "12351",
-  "pname": "weblogic application server",
-  "pcpe": "cpe:/a:oracle:weblogic_application_server"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "12351",
+	"pname": "weblogic application server",
+	"pcpe": "cpe:/a:oracle:weblogic_application_server"
 }

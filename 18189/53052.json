@@ -1,8 +1,8 @@
 {
-  "vid": "18189",
-  "vname": "UI",
-  "vcpe": "cpe:/:ui",
-  "pid": "53052",
-  "pname": "UniFi Talk",
-  "pcpe": "cpe:/a:ui:unifi_talk"
+	"vid": "18189",
+	"vname": "UI",
+	"vcpe": "cpe:/:ui",
+	"pid": "53052",
+	"pname": "UniFi Talk",
+	"pcpe": "cpe:/a:ui:unifi_talk"
 }

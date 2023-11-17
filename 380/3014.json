@@ -1,8 +1,8 @@
 {
-  "vid": "380",
-  "vname": "株式会社スカイアークシステム",
-  "vcpe": "cpe:/:skyarc",
-  "pid": "3014",
-  "pname": "DuplicateEntry",
-  "pcpe": "cpe:/a:skyarc:duplicateentry"
+	"vid": "380",
+	"vname": "株式会社スカイアークシステム",
+	"vcpe": "cpe:/:skyarc",
+	"pid": "3014",
+	"pname": "DuplicateEntry",
+	"pcpe": "cpe:/a:skyarc:duplicateentry"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "81",
-  "vname": "Python Software Foundation",
-  "vcpe": "cpe:/:python",
-  "pid": "13372",
-  "pname": "Keyring",
-  "pcpe": "cpe:/a:python:keyring"
+	"vid": "81",
+	"vname": "Python Software Foundation",
+	"vcpe": "cpe:/:python",
+	"pid": "13372",
+	"pname": "Keyring",
+	"pcpe": "cpe:/a:python:keyring"
 }

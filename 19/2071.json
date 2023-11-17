@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2071",
-  "pname": "Cisco Application Control Engine (ACE) Device Manager",
-  "pcpe": "cpe:/a:cisco:application_control_engine_device_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2071",
+	"pname": "Cisco Application Control Engine (ACE) Device Manager",
+	"pcpe": "cpe:/a:cisco:application_control_engine_device_manager"
 }

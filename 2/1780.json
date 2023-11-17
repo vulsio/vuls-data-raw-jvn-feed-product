@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "1780",
-  "pname": "Microsoft Visual FoxPro",
-  "pcpe": "cpe:/a:microsoft:visual_foxpro"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "1780",
+	"pname": "Microsoft Visual FoxPro",
+	"pcpe": "cpe:/a:microsoft:visual_foxpro"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27364",
-  "pname": "ThinkPad X1 Yoga BIOS",
-  "pcpe": "cpe:/o:lenovo:thinkpad_x1_yoga_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27364",
+	"pname": "ThinkPad X1 Yoga BIOS",
+	"pcpe": "cpe:/o:lenovo:thinkpad_x1_yoga_bios"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33173",
-  "pname": "MDM9645 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:mdm9645_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33173",
+	"pname": "MDM9645 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:mdm9645_firmware"
 }

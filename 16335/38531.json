@@ -1,8 +1,8 @@
 {
-  "vid": "16335",
-  "vname": "HiSilicon Technology Co., Ltd",
-  "vcpe": "cpe:/:hisilicon",
-  "pid": "38531",
-  "pname": "Hi3510 ファームウェア",
-  "pcpe": "cpe:/o:hisilicon:hi3510_firmware"
+	"vid": "16335",
+	"vname": "HiSilicon Technology Co., Ltd",
+	"vcpe": "cpe:/:hisilicon",
+	"pid": "38531",
+	"pname": "Hi3510 ファームウェア",
+	"pcpe": "cpe:/o:hisilicon:hi3510_firmware"
 }

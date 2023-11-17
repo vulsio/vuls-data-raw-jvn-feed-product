@@ -1,8 +1,8 @@
 {
-  "vid": "8200",
-  "vname": "ultraplayer",
-  "vcpe": "cpe:/:ultraplayer",
-  "pid": "15738",
-  "pname": "ultraplayer media player",
-  "pcpe": "cpe:/a:ultraplayer:ultraplayer_media_player"
+	"vid": "8200",
+	"vname": "ultraplayer",
+	"vcpe": "cpe:/:ultraplayer",
+	"pid": "15738",
+	"pname": "ultraplayer media player",
+	"pcpe": "cpe:/a:ultraplayer:ultraplayer_media_player"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9741",
-  "vname": "Radio Thermostat Company of America",
-  "vcpe": "cpe:/:radiothermostat",
-  "pid": "20281",
-  "pname": "CT50",
-  "pcpe": "cpe:/h:radiothermostat:ct50"
+	"vid": "9741",
+	"vname": "Radio Thermostat Company of America",
+	"vcpe": "cpe:/:radiothermostat",
+	"pid": "20281",
+	"pname": "CT50",
+	"pcpe": "cpe:/h:radiothermostat:ct50"
 }

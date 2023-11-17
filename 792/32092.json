@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "32092",
-  "pname": "MAX218M",
-  "pcpe": "cpe:/o:zyxel:max218m_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "32092",
+	"pname": "MAX218M",
+	"pcpe": "cpe:/o:zyxel:max218m_firmware"
 }

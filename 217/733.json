@@ -1,8 +1,8 @@
 {
-  "vid": "217",
-  "vname": "インターネットイニシアティブ",
-  "vcpe": "cpe:/:iij",
-  "pid": "733",
-  "pname": "SEIL/Plus",
-  "pcpe": "cpe:/h:iij:seil%2Fplus"
+	"vid": "217",
+	"vname": "インターネットイニシアティブ",
+	"vcpe": "cpe:/:iij",
+	"pid": "733",
+	"pname": "SEIL/Plus",
+	"pcpe": "cpe:/h:iij:seil%2Fplus"
 }

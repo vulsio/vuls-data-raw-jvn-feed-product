@@ -1,8 +1,8 @@
 {
-  "vid": "17828",
-  "vname": "Big Switch Networks, Inc.",
-  "vcpe": "cpe:/:bigswitch",
-  "pid": "42974",
-  "pname": "Multi-Cloud Director",
-  "pcpe": "cpe:/a:bigswitch:multi-cloud_director"
+	"vid": "17828",
+	"vname": "Big Switch Networks, Inc.",
+	"vcpe": "cpe:/:bigswitch",
+	"pid": "42974",
+	"pname": "Multi-Cloud Director",
+	"pcpe": "cpe:/a:bigswitch:multi-cloud_director"
 }

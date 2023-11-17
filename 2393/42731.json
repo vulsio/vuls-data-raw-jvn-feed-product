@@ -1,8 +1,8 @@
 {
-  "vid": "2393",
-  "vname": "AVAST Software s.r.o.",
-  "vcpe": "cpe:/:avast",
-  "pid": "42731",
-  "pname": "Avast Secure Browser",
-  "pcpe": "cpe:/a:avast:secure_browser"
+	"vid": "2393",
+	"vname": "AVAST Software s.r.o.",
+	"vcpe": "cpe:/:avast",
+	"pid": "42731",
+	"pname": "Avast Secure Browser",
+	"pcpe": "cpe:/a:avast:secure_browser"
 }

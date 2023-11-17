@@ -1,8 +1,8 @@
 {
-  "vid": "12933",
-  "vname": "OpenExif project",
-  "vcpe": "cpe:/:openexif_project",
-  "pid": "29898",
-  "pname": "OpenExif",
-  "pcpe": "cpe:/a:openexif_project:openexif"
+	"vid": "12933",
+	"vname": "OpenExif project",
+	"vcpe": "cpe:/:openexif_project",
+	"pid": "29898",
+	"pname": "OpenExif",
+	"pcpe": "cpe:/a:openexif_project:openexif"
 }

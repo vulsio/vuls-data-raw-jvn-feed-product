@@ -1,8 +1,8 @@
 {
-  "vid": "1310",
-  "vname": "K7 Computing",
-  "vcpe": "cpe:/:k7computing",
-  "pid": "23476",
-  "pname": "Ultimate Security",
-  "pcpe": "cpe:/a:k7computing:ultimate_security"
+	"vid": "1310",
+	"vname": "K7 Computing",
+	"vcpe": "cpe:/:k7computing",
+	"pid": "23476",
+	"pname": "Ultimate Security",
+	"pcpe": "cpe:/a:k7computing:ultimate_security"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16762",
-  "vname": "Easy Digital Downloads",
-  "vcpe": "cpe:/:easydigitaldownloads",
-  "pid": "41301",
-  "pname": "Manual Purchases",
-  "pcpe": "cpe:/a:easydigitaldownloads:manual_purchases"
+	"vid": "16762",
+	"vname": "Easy Digital Downloads",
+	"vcpe": "cpe:/:easydigitaldownloads",
+	"pid": "41301",
+	"pname": "Manual Purchases",
+	"pcpe": "cpe:/a:easydigitaldownloads:manual_purchases"
 }

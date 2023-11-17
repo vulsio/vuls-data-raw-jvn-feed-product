@@ -1,8 +1,8 @@
 {
-  "vid": "18607",
-  "vname": "temi USA inc.",
-  "vcpe": "cpe:/:robotemi",
-  "pid": "45922",
-  "pname": "Robox OS",
-  "pcpe": "cpe:/o:robotemi:robox_os"
+	"vid": "18607",
+	"vname": "temi USA inc.",
+	"vcpe": "cpe:/:robotemi",
+	"pid": "45922",
+	"pname": "Robox OS",
+	"pcpe": "cpe:/o:robotemi:robox_os"
 }

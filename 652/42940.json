@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "42940",
-  "pname": "Gear Fit 2 Pro ファームウェア",
-  "pcpe": "cpe:/o:samsung:gear_fit_2_pro_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "42940",
+	"pname": "Gear Fit 2 Pro ファームウェア",
+	"pcpe": "cpe:/o:samsung:gear_fit_2_pro_firmware"
 }

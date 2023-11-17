@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "27023",
-  "pname": "Cloud Foundry MySQL (cf-mysql-release)",
-  "pcpe": "cpe:/a:greenplum:cloud_foundry_cf_mysql"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "27023",
+	"pname": "Cloud Foundry MySQL (cf-mysql-release)",
+	"pcpe": "cpe:/a:greenplum:cloud_foundry_cf_mysql"
 }

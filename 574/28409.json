@@ -1,8 +1,8 @@
 {
-  "vid": "574",
-  "vname": "ESET",
-  "vcpe": "cpe:/:eset",
-  "pid": "28409",
-  "pname": "ESET Endpoint Antivirus",
-  "pcpe": "cpe:/a:eset:endpoint_antivirus"
+	"vid": "574",
+	"vname": "ESET",
+	"vcpe": "cpe:/:eset",
+	"pid": "28409",
+	"pname": "ESET Endpoint Antivirus",
+	"pcpe": "cpe:/a:eset:endpoint_antivirus"
 }

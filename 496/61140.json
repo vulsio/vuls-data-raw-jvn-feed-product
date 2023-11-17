@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "61140",
-  "pname": "F5OS-C",
-  "pcpe": "cpe:/o:f5:f5os-c"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "61140",
+	"pname": "F5OS-C",
+	"pcpe": "cpe:/o:f5:f5os-c"
 }

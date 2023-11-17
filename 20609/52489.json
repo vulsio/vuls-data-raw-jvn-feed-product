@@ -1,8 +1,8 @@
 {
-  "vid": "20609",
-  "vname": "Compro Technology",
-  "vcpe": "cpe:/:comprotech",
-  "pid": "52489",
-  "pname": "tn540 ファームウェア",
-  "pcpe": "cpe:/o:comprotech:tn540_firmware"
+	"vid": "20609",
+	"vname": "Compro Technology",
+	"vcpe": "cpe:/:comprotech",
+	"pid": "52489",
+	"pname": "tn540 ファームウェア",
+	"pcpe": "cpe:/o:comprotech:tn540_firmware"
 }

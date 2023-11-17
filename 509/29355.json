@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "29355",
-  "pname": "SAP HANA XS",
-  "pcpe": "cpe:/a:sap:hana_xs"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "29355",
+	"pname": "SAP HANA XS",
+	"pcpe": "cpe:/a:sap:hana_xs"
 }

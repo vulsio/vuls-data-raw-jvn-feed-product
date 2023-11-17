@@ -1,8 +1,8 @@
 {
-  "vid": "5635",
-  "vname": "microchip",
-  "vcpe": "cpe:/:microchip",
-  "pid": "43299",
-  "pname": "SyncServer S300 ファームウェア",
-  "pcpe": "cpe:/o:microchip:syncserver_s300_firmware"
+	"vid": "5635",
+	"vname": "microchip",
+	"vcpe": "cpe:/:microchip",
+	"pid": "43299",
+	"pname": "SyncServer S300 ファームウェア",
+	"pcpe": "cpe:/o:microchip:syncserver_s300_firmware"
 }

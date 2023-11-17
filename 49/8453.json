@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "8453",
-  "pname": "flash player",
-  "pcpe": "cpe:/a:gnu:flash_player"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "8453",
+	"pname": "flash player",
+	"pcpe": "cpe:/a:gnu:flash_player"
 }

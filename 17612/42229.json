@@ -1,8 +1,8 @@
 {
-  "vid": "17612",
-  "vname": "CodeQL project",
-  "vcpe": "cpe:/:codeql_project",
-  "pid": "42229",
-  "pname": "CodeQL",
-  "pcpe": "cpe:/a:codeql_project:codeql"
+	"vid": "17612",
+	"vname": "CodeQL project",
+	"vcpe": "cpe:/:codeql_project",
+	"pid": "42229",
+	"pname": "CodeQL",
+	"pcpe": "cpe:/a:codeql_project:codeql"
 }

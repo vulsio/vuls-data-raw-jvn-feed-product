@@ -1,8 +1,8 @@
 {
-  "vid": "18410",
-  "vname": "ファナック株式会社",
-  "vcpe": "cpe:/:fanuc",
-  "pid": "58691",
-  "pname": "roboguide",
-  "pcpe": "cpe:/a:fanuc:roboguide"
+	"vid": "18410",
+	"vname": "ファナック株式会社",
+	"vcpe": "cpe:/:fanuc",
+	"pid": "58691",
+	"pname": "roboguide",
+	"pcpe": "cpe:/a:fanuc:roboguide"
 }

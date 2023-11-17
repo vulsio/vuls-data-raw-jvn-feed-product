@@ -1,8 +1,8 @@
 {
-  "vid": "5185",
-  "vname": "klinzmann",
-  "vcpe": "cpe:/:klinzmann",
-  "pid": "10827",
-  "pname": "application access server",
-  "pcpe": "cpe:/a:klinzmann:application_access_server"
+	"vid": "5185",
+	"vname": "klinzmann",
+	"vcpe": "cpe:/:klinzmann",
+	"pid": "10827",
+	"pname": "application access server",
+	"pcpe": "cpe:/a:klinzmann:application_access_server"
 }

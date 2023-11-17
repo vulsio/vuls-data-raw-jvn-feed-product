@@ -1,8 +1,8 @@
 {
-  "vid": "18087",
-  "vname": "Zim-Wiki",
-  "vcpe": "cpe:/:zim-wiki",
-  "pid": "44000",
-  "pname": "Zim",
-  "pcpe": "cpe:/a:zim-wiki:zim"
+	"vid": "18087",
+	"vname": "Zim-Wiki",
+	"vcpe": "cpe:/:zim-wiki",
+	"pid": "44000",
+	"pname": "Zim",
+	"pcpe": "cpe:/a:zim-wiki:zim"
 }

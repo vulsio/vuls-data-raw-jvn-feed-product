@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "35333",
-  "pname": "atlassian-http library",
-  "pcpe": "cpe:/a:atlassian:http_library"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "35333",
+	"pname": "atlassian-http library",
+	"pcpe": "cpe:/a:atlassian:http_library"
 }

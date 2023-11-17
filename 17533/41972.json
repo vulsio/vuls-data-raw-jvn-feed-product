@@ -1,8 +1,8 @@
 {
-  "vid": "17533",
-  "vname": "Leagoo",
-  "vcpe": "cpe:/:legaoo",
-  "pid": "41972",
-  "pname": "Power 5 ファームウェア",
-  "pcpe": "cpe:/o:legaoo:power_5_firmware"
+	"vid": "17533",
+	"vname": "Leagoo",
+	"vcpe": "cpe:/:legaoo",
+	"pid": "41972",
+	"pname": "Power 5 ファームウェア",
+	"pcpe": "cpe:/o:legaoo:power_5_firmware"
 }

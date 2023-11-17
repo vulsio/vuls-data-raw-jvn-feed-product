@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "40279",
-  "pname": "Dell EMC PowerConnect M6348 ファームウェア",
-  "pcpe": "cpe:/o:dell:emc_powerconnect_m6348_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "40279",
+	"pname": "Dell EMC PowerConnect M6348 ファームウェア",
+	"pcpe": "cpe:/o:dell:emc_powerconnect_m6348_firmware"
 }

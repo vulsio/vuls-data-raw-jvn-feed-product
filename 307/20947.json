@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "20947",
-  "pname": "ClearPass Policy Manager",
-  "pcpe": "cpe:/a:arubanetworks:clearpass_policy_manager"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "20947",
+	"pname": "ClearPass Policy Manager",
+	"pcpe": "cpe:/a:arubanetworks:clearpass_policy_manager"
 }

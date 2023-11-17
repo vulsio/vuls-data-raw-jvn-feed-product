@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "1427",
-  "pname": "Juniper T/M/MX-series router",
-  "pcpe": "cpe:/h:nec:juniper_t_m_mx-series_router"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "1427",
+	"pname": "Juniper T/M/MX-series router",
+	"pcpe": "cpe:/h:nec:juniper_t_m_mx-series_router"
 }

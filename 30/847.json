@@ -1,8 +1,8 @@
 {
-  "vid": "30",
-  "vname": "ターボリナックス",
-  "vcpe": "cpe:/:turbolinux",
-  "pid": "847",
-  "pname": "wizpy",
-  "pcpe": "cpe:/o:turbolinux:turbolinux_wizpy"
+	"vid": "30",
+	"vname": "ターボリナックス",
+	"vcpe": "cpe:/:turbolinux",
+	"pid": "847",
+	"pname": "wizpy",
+	"pcpe": "cpe:/o:turbolinux:turbolinux_wizpy"
 }

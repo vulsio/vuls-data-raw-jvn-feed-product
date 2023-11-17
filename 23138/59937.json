@@ -1,8 +1,8 @@
 {
-  "vid": "23138",
-  "vname": "logrotate project",
-  "vcpe": "cpe:/:logrotate_project",
-  "pid": "59937",
-  "pname": "logrotate",
-  "pcpe": "cpe:/a:logrotate_project:logrotate"
+	"vid": "23138",
+	"vname": "logrotate project",
+	"vcpe": "cpe:/:logrotate_project",
+	"pid": "59937",
+	"pname": "logrotate",
+	"pcpe": "cpe:/a:logrotate_project:logrotate"
 }

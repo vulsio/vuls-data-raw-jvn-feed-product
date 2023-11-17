@@ -1,8 +1,8 @@
 {
-  "vid": "16539",
-  "vname": "KEYNTO",
-  "vcpe": "cpe:/:keynto",
-  "pid": "39384",
-  "pname": "Team Password Manager",
-  "pcpe": "cpe:/a:keynto:team_password_manager"
+	"vid": "16539",
+	"vname": "KEYNTO",
+	"vcpe": "cpe:/:keynto",
+	"pid": "39384",
+	"pname": "Team Password Manager",
+	"pcpe": "cpe:/a:keynto:team_password_manager"
 }

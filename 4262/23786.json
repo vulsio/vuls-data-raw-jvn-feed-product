@@ -1,8 +1,8 @@
 {
-  "vid": "4262",
-  "vname": "ジョンソンコントロールズ",
-  "vcpe": "cpe:/:johnsoncontrols",
-  "pid": "23786",
-  "pname": "ネットワークオートメーションエンジン 5521-2",
-  "pcpe": "cpe:/h:johnsoncontrols:network_automation_engine_5521-2"
+	"vid": "4262",
+	"vname": "ジョンソンコントロールズ",
+	"vcpe": "cpe:/:johnsoncontrols",
+	"pid": "23786",
+	"pname": "ネットワークオートメーションエンジン 5521-2",
+	"pcpe": "cpe:/h:johnsoncontrols:network_automation_engine_5521-2"
 }

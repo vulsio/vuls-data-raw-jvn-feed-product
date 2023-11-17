@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "17228",
-  "pname": "SAP industry solution for healthcare",
-  "pcpe": "cpe:/a:sap:healthcare_industry_solution"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "17228",
+	"pname": "SAP industry solution for healthcare",
+	"pcpe": "cpe:/a:sap:healthcare_industry_solution"
 }

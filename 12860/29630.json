@@ -1,8 +1,8 @@
 {
-  "vid": "12860",
-  "vname": "Marel",
-  "vcpe": "cpe:/:marel",
-  "pid": "29630",
-  "pname": "A320 ファームウェア",
-  "pcpe": "cpe:/o:marel:a320_firmware"
+	"vid": "12860",
+	"vname": "Marel",
+	"vcpe": "cpe:/:marel",
+	"pid": "29630",
+	"pname": "A320 ファームウェア",
+	"pcpe": "cpe:/o:marel:a320_firmware"
 }

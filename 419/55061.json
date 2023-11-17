@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "55061",
-  "pname": "NetApp Virtual Desktop Service",
-  "pcpe": "cpe:/a:netapp:virtual_desktop_service"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "55061",
+	"pname": "NetApp Virtual Desktop Service",
+	"pcpe": "cpe:/a:netapp:virtual_desktop_service"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "16916",
-  "pname": "Cisco Small Business ワイヤレスアクセスポイント",
-  "pcpe": "cpe:/h:cisco:small_business_wireless_access_ppoints"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "16916",
+	"pname": "Cisco Small Business ワイヤレスアクセスポイント",
+	"pcpe": "cpe:/h:cisco:small_business_wireless_access_ppoints"
 }

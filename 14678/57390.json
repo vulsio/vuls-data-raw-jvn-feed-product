@@ -1,8 +1,8 @@
 {
-  "vid": "14678",
-  "vname": "HCL Technologies Limited",
-  "vcpe": "cpe:/:hcltech",
-  "pid": "57390",
-  "pname": "HCL Sametime",
-  "pcpe": "cpe:/a:hcltech:hcl_sametime"
+	"vid": "14678",
+	"vname": "HCL Technologies Limited",
+	"vcpe": "cpe:/:hcltech",
+	"pid": "57390",
+	"pname": "HCL Sametime",
+	"pcpe": "cpe:/a:hcltech:hcl_sametime"
 }

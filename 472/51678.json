@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "51678",
-  "pname": "Rockwell Automation 1769 CompactLogix L31 コントローラファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:compactlogix_1769-l31_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "51678",
+	"pname": "Rockwell Automation 1769 CompactLogix L31 コントローラファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:compactlogix_1769-l31_firmware"
 }

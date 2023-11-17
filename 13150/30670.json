@@ -1,8 +1,8 @@
 {
-  "vid": "13150",
-  "vname": "hbgk.net",
-  "vcpe": "cpe:/:hbgk",
-  "pid": "30670",
-  "pname": "HB9608X3 ファームウェア",
-  "pcpe": "cpe:/o:hbgk:hb9608x3_firmware"
+	"vid": "13150",
+	"vname": "hbgk.net",
+	"vcpe": "cpe:/:hbgk",
+	"pid": "30670",
+	"pname": "HB9608X3 ファームウェア",
+	"pcpe": "cpe:/o:hbgk:hb9608x3_firmware"
 }

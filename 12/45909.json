@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "45909",
-  "pname": "Rootkit Buster",
-  "pcpe": "cpe:/a:trendmicro:rootkit_buster"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "45909",
+	"pname": "Rootkit Buster",
+	"pcpe": "cpe:/a:trendmicro:rootkit_buster"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4445",
-  "vname": "NCH Software",
-  "vcpe": "cpe:/:nchsoftware",
-  "pid": "51961",
-  "pname": "Axon PBX",
-  "pcpe": "cpe:/a:nchsoftware:axon_pbx"
+	"vid": "4445",
+	"vname": "NCH Software",
+	"vcpe": "cpe:/:nchsoftware",
+	"pid": "51961",
+	"pname": "Axon PBX",
+	"pcpe": "cpe:/a:nchsoftware:axon_pbx"
 }

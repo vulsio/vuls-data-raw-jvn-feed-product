@@ -1,8 +1,8 @@
 {
-  "vid": "20755",
-  "vname": "tmpl project",
-  "vcpe": "cpe:/:tmpl_project",
-  "pid": "52936",
-  "pname": "tmpl",
-  "pcpe": "cpe:/a:tmpl_project:tmpl"
+	"vid": "20755",
+	"vname": "tmpl project",
+	"vcpe": "cpe:/:tmpl_project",
+	"pid": "52936",
+	"pname": "tmpl",
+	"pcpe": "cpe:/a:tmpl_project:tmpl"
 }

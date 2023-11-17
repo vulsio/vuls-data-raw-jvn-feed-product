@@ -1,8 +1,8 @@
 {
-  "vid": "9686",
-  "vname": "Hanvon Technology Co.,Ltd",
-  "vcpe": "cpe:/:hanon",
-  "pid": "20160",
-  "pname": "Face ID F810 ファームウェア",
-  "pcpe": "cpe:/o:hanon:faceid_f810_firmware"
+	"vid": "9686",
+	"vname": "Hanvon Technology Co.,Ltd",
+	"vcpe": "cpe:/:hanon",
+	"pid": "20160",
+	"pname": "Face ID F810 ファームウェア",
+	"pcpe": "cpe:/o:hanon:faceid_f810_firmware"
 }

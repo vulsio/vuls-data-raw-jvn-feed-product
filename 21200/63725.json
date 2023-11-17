@@ -1,8 +1,8 @@
 {
-  "vid": "21200",
-  "vname": "Oro, Inc.",
-  "vcpe": "cpe:/:oroinc",
-  "pid": "63725",
-  "pname": "orocommerce",
-  "pcpe": "cpe:/a:oroinc:orocommerce"
+	"vid": "21200",
+	"vname": "Oro, Inc.",
+	"vcpe": "cpe:/:oroinc",
+	"pid": "63725",
+	"pname": "orocommerce",
+	"pcpe": "cpe:/a:oroinc:orocommerce"
 }

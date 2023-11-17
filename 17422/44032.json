@@ -1,8 +1,8 @@
 {
-  "vid": "17422",
-  "vname": "LINBIT",
-  "vcpe": "cpe:/:linbit",
-  "pid": "44032",
-  "pname": "csync2",
-  "pcpe": "cpe:/a:linbit:csync2"
+	"vid": "17422",
+	"vname": "LINBIT",
+	"vcpe": "cpe:/:linbit",
+	"pid": "44032",
+	"pname": "csync2",
+	"pcpe": "cpe:/a:linbit:csync2"
 }

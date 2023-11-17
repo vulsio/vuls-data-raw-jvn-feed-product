@@ -1,8 +1,8 @@
 {
-  "vid": "537",
-  "vname": "CKEditor Team",
-  "vcpe": "cpe:/:ckeditor",
-  "pid": "50331",
-  "pname": "CKEditor 5 list feature",
-  "pcpe": "cpe:/a:ckeditor:ckeditor5-list"
+	"vid": "537",
+	"vname": "CKEditor Team",
+	"vcpe": "cpe:/:ckeditor",
+	"pid": "50331",
+	"pname": "CKEditor 5 list feature",
+	"pcpe": "cpe:/a:ckeditor:ckeditor5-list"
 }

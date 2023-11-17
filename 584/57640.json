@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "57640",
-  "pname": "polarion alm",
-  "pcpe": "cpe:/a:siemens:polarion_alm"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "57640",
+	"pname": "polarion alm",
+	"pcpe": "cpe:/a:siemens:polarion_alm"
 }

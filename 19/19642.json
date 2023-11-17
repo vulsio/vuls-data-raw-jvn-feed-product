@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19642",
-  "pname": "Cisco CVR100W Wireless-N VPN ルータファームウェア",
-  "pcpe": "cpe:/o:cisco:cvr100w_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19642",
+	"pname": "Cisco CVR100W Wireless-N VPN ルータファームウェア",
+	"pcpe": "cpe:/o:cisco:cvr100w_firmware"
 }

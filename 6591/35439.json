@@ -1,8 +1,8 @@
 {
-  "vid": "6591",
-  "vname": "PayPal",
-  "vcpe": "cpe:/:paypal",
-  "pid": "35439",
-  "pname": "PHP Invoice SDK",
-  "pcpe": "cpe:/a:paypal:php_invoice_sdk"
+	"vid": "6591",
+	"vname": "PayPal",
+	"vcpe": "cpe:/:paypal",
+	"pid": "35439",
+	"pname": "PHP Invoice SDK",
+	"pcpe": "cpe:/a:paypal:php_invoice_sdk"
 }

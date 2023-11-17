@@ -1,8 +1,8 @@
 {
-  "vid": "18843",
-  "vname": "Scratch",
-  "vcpe": "cpe:/:mit",
-  "pid": "46963",
-  "pname": "scratch-svg-renderer",
-  "pcpe": "cpe:/a:mit:scratch-svg-renderer"
+	"vid": "18843",
+	"vname": "Scratch",
+	"vcpe": "cpe:/:mit",
+	"pid": "46963",
+	"pname": "scratch-svg-renderer",
+	"pcpe": "cpe:/a:mit:scratch-svg-renderer"
 }

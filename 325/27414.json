@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27414",
-  "pname": "ThinkPad S5 Yoga 15",
-  "pcpe": "cpe:/h:lenovo:thinkpad_s5_yoga_15"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27414",
+	"pname": "ThinkPad S5 Yoga 15",
+	"pcpe": "cpe:/h:lenovo:thinkpad_s5_yoga_15"
 }

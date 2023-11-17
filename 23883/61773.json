@@ -1,8 +1,8 @@
 {
-  "vid": "23883",
-  "vname": "xopen project",
-  "vcpe": "cpe:/:xopen_project",
-  "pid": "61773",
-  "pname": "xopen",
-  "pcpe": "cpe:/a:xopen_project:xopen"
+	"vid": "23883",
+	"vname": "xopen project",
+	"vcpe": "cpe:/:xopen_project",
+	"pid": "61773",
+	"pname": "xopen",
+	"pcpe": "cpe:/a:xopen_project:xopen"
 }

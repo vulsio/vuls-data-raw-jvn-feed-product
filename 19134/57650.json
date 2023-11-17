@@ -1,8 +1,8 @@
 {
-  "vid": "19134",
-  "vname": "Secomea",
-  "vcpe": "cpe:/:secomea",
-  "pid": "57650",
-  "pname": "gatemanager",
-  "pcpe": "cpe:/a:secomea:gatemanager"
+	"vid": "19134",
+	"vname": "Secomea",
+	"vcpe": "cpe:/:secomea",
+	"pid": "57650",
+	"pname": "gatemanager",
+	"pcpe": "cpe:/a:secomea:gatemanager"
 }

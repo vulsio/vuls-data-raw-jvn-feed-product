@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "48546",
-  "pname": ".NET Education Bundle SDK Install Tool",
-  "pcpe": "cpe:/a:microsoft:.net_education_bundle_sdk_install_tool"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "48546",
+	"pname": ".NET Education Bundle SDK Install Tool",
+	"pcpe": "cpe:/a:microsoft:.net_education_bundle_sdk_install_tool"
 }

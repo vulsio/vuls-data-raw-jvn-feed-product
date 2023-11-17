@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "44829",
-  "pname": "IT installer",
-  "pcpe": "cpe:/a:zoom:it_installer"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "44829",
+	"pname": "IT installer",
+	"pcpe": "cpe:/a:zoom:it_installer"
 }

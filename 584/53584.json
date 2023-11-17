@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "53584",
-  "pname": "SIMATIC Process Historian 2014",
-  "pcpe": "cpe:/a:siemens:simatic_process_historian_2014"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "53584",
+	"pname": "SIMATIC Process Historian 2014",
+	"pcpe": "cpe:/a:siemens:simatic_process_historian_2014"
 }

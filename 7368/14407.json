@@ -1,8 +1,8 @@
 {
-  "vid": "7368",
-  "vname": "Ganeti project",
-  "vcpe": "cpe:/:ganeti_project",
-  "pid": "14407",
-  "pname": "Ganeti",
-  "pcpe": "cpe:/a:ganeti_project:ganeti"
+	"vid": "7368",
+	"vname": "Ganeti project",
+	"vcpe": "cpe:/:ganeti_project",
+	"pid": "14407",
+	"pname": "Ganeti",
+	"pcpe": "cpe:/a:ganeti_project:ganeti"
 }

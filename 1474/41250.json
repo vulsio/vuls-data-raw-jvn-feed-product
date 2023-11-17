@@ -1,8 +1,8 @@
 {
-  "vid": "1474",
-  "vname": "FreePBX",
-  "vcpe": "cpe:/:freepbx",
-  "pid": "41250",
-  "pname": "Contactmanager",
-  "pcpe": "cpe:/a:freepbx:contactmanager"
+	"vid": "1474",
+	"vname": "FreePBX",
+	"vcpe": "cpe:/:freepbx",
+	"pid": "41250",
+	"pname": "Contactmanager",
+	"pcpe": "cpe:/a:freepbx:contactmanager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "35871",
-  "pname": "SNC-EB602R ファームウェア",
-  "pcpe": "cpe:/o:sony:snc-eb602r_firmware"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "35871",
+	"pname": "SNC-EB602R ファームウェア",
+	"pcpe": "cpe:/o:sony:snc-eb602r_firmware"
 }

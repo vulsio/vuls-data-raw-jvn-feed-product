@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "38428",
-  "pname": "Zoho SalesIQ",
-  "pcpe": "cpe:/a:zohocorp:zoho_salesiq"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "38428",
+	"pname": "Zoho SalesIQ",
+	"pcpe": "cpe:/a:zohocorp:zoho_salesiq"
 }

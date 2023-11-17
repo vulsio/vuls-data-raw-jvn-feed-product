@@ -1,8 +1,8 @@
 {
-  "vid": "1135",
-  "vname": "OpenID",
-  "vcpe": "cpe:/:openid",
-  "pid": "12284",
-  "pname": "OpenID",
-  "pcpe": "cpe:/a:openid:openid"
+	"vid": "1135",
+	"vname": "OpenID",
+	"vcpe": "cpe:/:openid",
+	"pid": "12284",
+	"pname": "OpenID",
+	"pcpe": "cpe:/a:openid:openid"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6640",
-  "vname": "Gluster, Inc.",
-  "vcpe": "cpe:/:gluster",
-  "pid": "23771",
-  "pname": "GlusterFS",
-  "pcpe": "cpe:/a:gluster:glusterfs"
+	"vid": "6640",
+	"vname": "Gluster, Inc.",
+	"vcpe": "cpe:/:gluster",
+	"pid": "23771",
+	"pname": "GlusterFS",
+	"pcpe": "cpe:/a:gluster:glusterfs"
 }

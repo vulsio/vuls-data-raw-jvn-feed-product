@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "57526",
-  "pname": "EliteDesk 800 G5 Tower PC ファームウェア",
-  "pcpe": "cpe:/o:hp:elitedesk_800_g5_tower_pc_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "57526",
+	"pname": "EliteDesk 800 G5 Tower PC ファームウェア",
+	"pcpe": "cpe:/o:hp:elitedesk_800_g5_tower_pc_firmware"
 }

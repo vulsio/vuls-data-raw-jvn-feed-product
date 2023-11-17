@@ -1,8 +1,8 @@
 {
-  "vid": "9328",
-  "vname": "Android for MSM",
-  "vcpe": "cpe:/:codeaurora",
-  "pid": "19137",
-  "pname": "Android for MSM",
-  "pcpe": "cpe:/o:codeaurora:android-msm"
+	"vid": "9328",
+	"vname": "Android for MSM",
+	"vcpe": "cpe:/:codeaurora",
+	"pid": "19137",
+	"pname": "Android for MSM",
+	"pcpe": "cpe:/o:codeaurora:android-msm"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4772",
-  "vname": "ingate",
-  "vcpe": "cpe:/:ingate",
-  "pid": "10150",
-  "pname": "ingate siparator",
-  "pcpe": "cpe:/a:ingate:ingate_siparator"
+	"vid": "4772",
+	"vname": "ingate",
+	"vcpe": "cpe:/:ingate",
+	"pid": "10150",
+	"pname": "ingate siparator",
+	"pcpe": "cpe:/a:ingate:ingate_siparator"
 }

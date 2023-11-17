@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25545",
-  "pname": "JG836A HP FlexFabric 12518E AC Switch TAA-compliant Chassis",
-  "pcpe": "cpe:/h:hp:jg836a_hp_flexfabric_12518e_ac_switch_taa-compliant_chassis"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25545",
+	"pname": "JG836A HP FlexFabric 12518E AC Switch TAA-compliant Chassis",
+	"pcpe": "cpe:/h:hp:jg836a_hp_flexfabric_12518e_ac_switch_taa-compliant_chassis"
 }

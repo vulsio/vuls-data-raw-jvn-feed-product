@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "45020",
-  "pname": "Ultrasound EPIQ/Affiniti",
-  "pcpe": "cpe:/o:philips:ultrasound_epiq%2affiniti"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "45020",
+	"pname": "Ultrasound EPIQ/Affiniti",
+	"pcpe": "cpe:/o:philips:ultrasound_epiq%2affiniti"
 }

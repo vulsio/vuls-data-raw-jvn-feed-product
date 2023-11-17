@@ -1,8 +1,8 @@
 {
-  "vid": "12113",
-  "vname": "BeanShell project",
-  "vcpe": "cpe:/:beanshell_project",
-  "pid": "25995",
-  "pname": "BeanShell",
-  "pcpe": "cpe:/a:beanshell_project:beanshell"
+	"vid": "12113",
+	"vname": "BeanShell project",
+	"vcpe": "cpe:/:beanshell_project",
+	"pid": "25995",
+	"pname": "BeanShell",
+	"pcpe": "cpe:/a:beanshell_project:beanshell"
 }

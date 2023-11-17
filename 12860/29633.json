@@ -1,8 +1,8 @@
 {
-  "vid": "12860",
-  "vname": "Marel",
-  "vcpe": "cpe:/:marel",
-  "pid": "29633",
-  "pname": "A520 Master ファームウェア",
-  "pcpe": "cpe:/o:marel:a520_master_firmware"
+	"vid": "12860",
+	"vname": "Marel",
+	"vcpe": "cpe:/:marel",
+	"pid": "29633",
+	"pname": "A520 Master ファームウェア",
+	"pcpe": "cpe:/o:marel:a520_master_firmware"
 }

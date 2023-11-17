@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "46176",
-  "pname": "TIBCO Data Virtualization for AWS Marketplace",
-  "pcpe": "cpe:/a:tibco:data_virtualization_for_aws_marketplace"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "46176",
+	"pname": "TIBCO Data Virtualization for AWS Marketplace",
+	"pcpe": "cpe:/a:tibco:data_virtualization_for_aws_marketplace"
 }

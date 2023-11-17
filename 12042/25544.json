@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25544",
-  "pname": "JG777A HP HSR6602-XG TAA-compliant Router",
-  "pcpe": "cpe:/h:hp:jg777a_hp_hsr6602-xg_taa-compliant_router"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25544",
+	"pname": "JG777A HP HSR6602-XG TAA-compliant Router",
+	"pcpe": "cpe:/h:hp:jg777a_hp_hsr6602-xg_taa-compliant_router"
 }

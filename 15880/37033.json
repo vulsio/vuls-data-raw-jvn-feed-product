@@ -1,8 +1,8 @@
 {
-  "vid": "15880",
-  "vname": "creditease-sec",
-  "vcpe": "cpe:/:creditease-sec",
-  "pid": "37033",
-  "pname": "insight",
-  "pcpe": "cpe:/a:creditease-sec:insight"
+	"vid": "15880",
+	"vname": "creditease-sec",
+	"vcpe": "cpe:/:creditease-sec",
+	"pid": "37033",
+	"pname": "insight",
+	"pcpe": "cpe:/a:creditease-sec:insight"
 }

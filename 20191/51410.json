@@ -1,8 +1,8 @@
 {
-  "vid": "20191",
-  "vname": "AKCP",
-  "vcpe": "cpe:/:akcp",
-  "pid": "51410",
-  "pname": "sensorProbe8-x20 ファームウェア",
-  "pcpe": "cpe:/o:akcp:sensorprobe8-x20_firmware"
+	"vid": "20191",
+	"vname": "AKCP",
+	"vcpe": "cpe:/:akcp",
+	"pid": "51410",
+	"pname": "sensorProbe8-x20 ファームウェア",
+	"pcpe": "cpe:/o:akcp:sensorprobe8-x20_firmware"
 }

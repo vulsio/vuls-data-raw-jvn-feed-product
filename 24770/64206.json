@@ -1,8 +1,8 @@
 {
-  "vid": "24770",
-  "vname": "analytify",
-  "vcpe": "cpe:/:analytify",
-  "pid": "64206",
-  "pname": "analytify - google analytics dashboard",
-  "pcpe": "cpe:/a:analytify:analytify_-_google_analytics_dashboard"
+	"vid": "24770",
+	"vname": "analytify",
+	"vcpe": "cpe:/:analytify",
+	"pid": "64206",
+	"pname": "analytify - google analytics dashboard",
+	"pcpe": "cpe:/a:analytify:analytify_-_google_analytics_dashboard"
 }

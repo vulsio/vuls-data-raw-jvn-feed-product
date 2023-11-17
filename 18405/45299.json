@@ -1,8 +1,8 @@
 {
-  "vid": "18405",
-  "vname": "bdtask",
-  "vcpe": "cpe:/:bdtask",
-  "pid": "45299",
-  "pname": "Multi-Scheduler",
-  "pcpe": "cpe:/a:bdtask:multi-scheduler"
+	"vid": "18405",
+	"vname": "bdtask",
+	"vcpe": "cpe:/:bdtask",
+	"pid": "45299",
+	"pname": "Multi-Scheduler",
+	"pcpe": "cpe:/a:bdtask:multi-scheduler"
 }

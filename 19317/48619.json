@@ -1,8 +1,8 @@
 {
-  "vid": "19317",
-  "vname": "connection-tester project",
-  "vcpe": "cpe:/:connection-tester_project",
-  "pid": "48619",
-  "pname": "connection-tester",
-  "pcpe": "cpe:/a:connection-tester_project:connection-tester"
+	"vid": "19317",
+	"vname": "connection-tester project",
+	"vcpe": "cpe:/:connection-tester_project",
+	"pid": "48619",
+	"pname": "connection-tester",
+	"pcpe": "cpe:/a:connection-tester_project:connection-tester"
 }

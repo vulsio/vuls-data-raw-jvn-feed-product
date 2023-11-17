@@ -1,8 +1,8 @@
 {
-  "vid": "9458",
-  "vname": "Media5",
-  "vcpe": "cpe:/:media5",
-  "pid": "19472",
-  "pname": "Mediatrix 4402 Digital VoIP Gateways firmware",
-  "pcpe": "cpe:/a:media5:mediatrix_voip_gateway_4402_firmware"
+	"vid": "9458",
+	"vname": "Media5",
+	"vcpe": "cpe:/:media5",
+	"pid": "19472",
+	"pname": "Mediatrix 4402 Digital VoIP Gateways firmware",
+	"pcpe": "cpe:/a:media5:mediatrix_voip_gateway_4402_firmware"
 }

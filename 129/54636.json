@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "54636",
-  "pname": "日立アドバンストサーバ HA8000 シリーズ",
-  "pcpe": "cpe:/a:hitachi:advanced_server_ha8000_series"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "54636",
+	"pname": "日立アドバンストサーバ HA8000 シリーズ",
+	"pcpe": "cpe:/a:hitachi:advanced_server_ha8000_series"
 }

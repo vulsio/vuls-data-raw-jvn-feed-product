@@ -1,8 +1,8 @@
 {
-  "vid": "18335",
-  "vname": "SmartDraw Software",
-  "vcpe": "cpe:/:smartdraw",
-  "pid": "44991",
-  "pname": "SmartDraw 2020",
-  "pcpe": "cpe:/a:smartdraw:smartdraw_2020"
+	"vid": "18335",
+	"vname": "SmartDraw Software",
+	"vcpe": "cpe:/:smartdraw",
+	"pid": "44991",
+	"pname": "SmartDraw 2020",
+	"pcpe": "cpe:/a:smartdraw:smartdraw_2020"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6136",
-  "vname": "opendock",
-  "vcpe": "cpe:/:opendock",
-  "pid": "12277",
-  "pname": "easy gallery",
-  "pcpe": "cpe:/a:opendock:easy_gallery"
+	"vid": "6136",
+	"vname": "opendock",
+	"vcpe": "cpe:/:opendock",
+	"pid": "12277",
+	"pname": "easy gallery",
+	"pcpe": "cpe:/a:opendock:easy_gallery"
 }

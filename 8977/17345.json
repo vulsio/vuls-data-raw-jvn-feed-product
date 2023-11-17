@@ -1,8 +1,8 @@
 {
-  "vid": "8977",
-  "vname": "zodiacdm",
-  "vcpe": "cpe:/:zodiacdm",
-  "pid": "17345",
-  "pname": "AboutMe",
-  "pcpe": "cpe:/a:zodiacdm:aboutme-plugin"
+	"vid": "8977",
+	"vname": "zodiacdm",
+	"vcpe": "cpe:/:zodiacdm",
+	"pid": "17345",
+	"pname": "AboutMe",
+	"pcpe": "cpe:/a:zodiacdm:aboutme-plugin"
 }

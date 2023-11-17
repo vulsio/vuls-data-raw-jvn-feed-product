@@ -1,8 +1,8 @@
 {
-  "vid": "22508",
-  "vname": "dcnglobal",
-  "vcpe": "cpe:/:dcnglobal",
-  "pid": "58370",
-  "pname": "s4600-10p-si ファームウェア",
-  "pcpe": "cpe:/o:dcnglobal:s4600-10p-si_firmware"
+	"vid": "22508",
+	"vname": "dcnglobal",
+	"vcpe": "cpe:/:dcnglobal",
+	"pid": "58370",
+	"pname": "s4600-10p-si ファームウェア",
+	"pcpe": "cpe:/o:dcnglobal:s4600-10p-si_firmware"
 }

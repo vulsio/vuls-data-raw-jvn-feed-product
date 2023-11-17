@@ -1,8 +1,8 @@
 {
-  "vid": "14073",
-  "vname": "LG Electronics",
-  "vcpe": "cpe:/:lg",
-  "pid": "36244",
-  "pname": "LND7210 ファームウェア",
-  "pcpe": "cpe:/o:lg:lnd7210_firmware"
+	"vid": "14073",
+	"vname": "LG Electronics",
+	"vcpe": "cpe:/:lg",
+	"pid": "36244",
+	"pname": "LND7210 ファームウェア",
+	"pcpe": "cpe:/o:lg:lnd7210_firmware"
 }

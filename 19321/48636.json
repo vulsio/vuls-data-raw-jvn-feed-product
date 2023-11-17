@@ -1,8 +1,8 @@
 {
-  "vid": "19321",
-  "vname": "WEB-SCHOOL",
-  "vcpe": "cpe:/:web-school",
-  "pid": "48636",
-  "pname": "ERP",
-  "pcpe": "cpe:/a:web-school:enterprise_resource_planning"
+	"vid": "19321",
+	"vname": "WEB-SCHOOL",
+	"vcpe": "cpe:/:web-school",
+	"pid": "48636",
+	"pname": "ERP",
+	"pcpe": "cpe:/a:web-school:enterprise_resource_planning"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "33683",
-  "pname": "Arena",
-  "pcpe": "cpe:/a:rockwellautomation:arena"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "33683",
+	"pname": "Arena",
+	"pcpe": "cpe:/a:rockwellautomation:arena"
 }

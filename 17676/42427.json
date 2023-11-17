@@ -1,8 +1,8 @@
 {
-  "vid": "17676",
-  "vname": "minerstat",
-  "vcpe": "cpe:/:minerstat",
-  "pid": "42427",
-  "pname": "msOS",
-  "pcpe": "cpe:/o:minerstat:msos"
+	"vid": "17676",
+	"vname": "minerstat",
+	"vcpe": "cpe:/:minerstat",
+	"pid": "42427",
+	"pname": "msOS",
+	"pcpe": "cpe:/o:minerstat:msos"
 }

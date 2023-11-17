@@ -1,8 +1,8 @@
 {
-  "vid": "9364",
-  "vname": "ArGo Software Design",
-  "vcpe": "cpe:/:argosoft",
-  "pid": "19265",
-  "pname": "ftp server",
-  "pcpe": "cpe:/a:argosoft:ftp_server"
+	"vid": "9364",
+	"vname": "ArGo Software Design",
+	"vcpe": "cpe:/:argosoft",
+	"pid": "19265",
+	"pname": "ftp server",
+	"pcpe": "cpe:/a:argosoft:ftp_server"
 }

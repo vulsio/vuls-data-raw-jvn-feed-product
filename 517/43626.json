@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "43626",
-  "pname": "WorkCentre 6655I ファームウェア",
-  "pcpe": "cpe:/o:xerox:workcentre_6655i_firmware"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "43626",
+	"pname": "WorkCentre 6655I ファームウェア",
+	"pcpe": "cpe:/o:xerox:workcentre_6655i_firmware"
 }

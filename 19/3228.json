@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3228",
-  "pname": "Cisco Nexus 3000 シリーズ スイッチ",
-  "pcpe": "cpe:/h:cisco:nexus_3000"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3228",
+	"pname": "Cisco Nexus 3000 シリーズ スイッチ",
+	"pcpe": "cpe:/h:cisco:nexus_3000"
 }

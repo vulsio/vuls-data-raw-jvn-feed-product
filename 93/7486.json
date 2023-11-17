@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7486",
-  "pname": "devel module",
-  "pcpe": "cpe:/a:drupal:devel_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7486",
+	"pname": "devel module",
+	"pcpe": "cpe:/a:drupal:devel_module"
 }

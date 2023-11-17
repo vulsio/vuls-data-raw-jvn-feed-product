@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "62126",
-  "pname": "galaxy wearable",
-  "pcpe": "cpe:/a:samsung:galaxy_wearable"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "62126",
+	"pname": "galaxy wearable",
+	"pcpe": "cpe:/a:samsung:galaxy_wearable"
 }

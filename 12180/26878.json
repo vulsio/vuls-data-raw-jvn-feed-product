@@ -1,8 +1,8 @@
 {
-  "vid": "12180",
-  "vname": "株式会社アイビー・ウィー",
-  "vcpe": "cpe:/:misc",
-  "pid": "26878",
-  "pname": "dataBox プラグイン",
-  "pcpe": "cpe:/a:misc:ivywe_datbox_plugin"
+	"vid": "12180",
+	"vname": "株式会社アイビー・ウィー",
+	"vcpe": "cpe:/:misc",
+	"pid": "26878",
+	"pname": "dataBox プラグイン",
+	"pcpe": "cpe:/a:misc:ivywe_datbox_plugin"
 }

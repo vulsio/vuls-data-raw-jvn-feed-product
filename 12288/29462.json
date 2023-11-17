@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "29462",
-  "pname": "BOSH",
-  "pcpe": "cpe:/a:cloud_foundry:bosh"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "29462",
+	"pname": "BOSH",
+	"pcpe": "cpe:/a:cloud_foundry:bosh"
 }

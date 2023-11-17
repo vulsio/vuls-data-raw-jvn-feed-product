@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "56954",
-  "pname": "Intel Setup and Configuration Software (SCS)",
-  "pcpe": "cpe:/a:intel:setup_and_configuration_software"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "56954",
+	"pname": "Intel Setup and Configuration Software (SCS)",
+	"pcpe": "cpe:/a:intel:setup_and_configuration_software"
 }

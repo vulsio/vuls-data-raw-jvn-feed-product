@@ -1,8 +1,8 @@
 {
-  "vid": "4122",
-  "vname": "OpenSolution",
-  "vcpe": "cpe:/:opensolution",
-  "pid": "8972",
-  "pname": "Quick.CMS",
-  "pcpe": "cpe:/a:opensolution:quick.cms"
+	"vid": "4122",
+	"vname": "OpenSolution",
+	"vcpe": "cpe:/:opensolution",
+	"pid": "8972",
+	"pname": "Quick.CMS",
+	"pcpe": "cpe:/a:opensolution:quick.cms"
 }

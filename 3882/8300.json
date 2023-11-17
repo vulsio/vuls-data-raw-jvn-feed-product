@@ -1,8 +1,8 @@
 {
-  "vid": "3882",
-  "vname": "galeon",
-  "vcpe": "cpe:/:galeon",
-  "pid": "8300",
-  "pname": "galeon browser",
-  "pcpe": "cpe:/a:galeon:galeon_browser"
+	"vid": "3882",
+	"vname": "galeon",
+	"vcpe": "cpe:/:galeon",
+	"pid": "8300",
+	"pname": "galeon browser",
+	"pcpe": "cpe:/a:galeon:galeon_browser"
 }

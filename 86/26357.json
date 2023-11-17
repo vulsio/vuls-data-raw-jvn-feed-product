@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "26357",
-  "pname": "WZR-S600DHP",
-  "pcpe": "cpe:/h:buffalo_inc:wzr-s600dhp"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "26357",
+	"pname": "WZR-S600DHP",
+	"pcpe": "cpe:/h:buffalo_inc:wzr-s600dhp"
 }

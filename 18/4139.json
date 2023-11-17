@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4139",
-  "pname": "TS3310 Tape Library",
-  "pcpe": "cpe:/h:ibm:ts3310_tape_library"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4139",
+	"pname": "TS3310 Tape Library",
+	"pcpe": "cpe:/h:ibm:ts3310_tape_library"
 }

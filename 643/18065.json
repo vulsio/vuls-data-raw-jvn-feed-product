@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "18065",
-  "pname": "Latitude E5400",
-  "pcpe": "cpe:/h:dell:latitude_e5400"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "18065",
+	"pname": "Latitude E5400",
+	"pcpe": "cpe:/h:dell:latitude_e5400"
 }

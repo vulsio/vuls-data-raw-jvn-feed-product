@@ -1,8 +1,8 @@
 {
-  "vid": "18793",
-  "vname": "Framer",
-  "vcpe": "cpe:/:framer",
-  "pid": "46742",
-  "pname": "Framer Preview",
-  "pcpe": "cpe:/a:framer:framer_preview"
+	"vid": "18793",
+	"vname": "Framer",
+	"vcpe": "cpe:/:framer",
+	"pid": "46742",
+	"pname": "Framer Preview",
+	"pcpe": "cpe:/a:framer:framer_preview"
 }

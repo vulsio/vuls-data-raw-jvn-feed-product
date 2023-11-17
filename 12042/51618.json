@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "51618",
-  "pname": "HPE ProLiant MicroServer Gen10 Plus ファームウェア",
-  "pcpe": "cpe:/o:hp:proliant_microserver_gen10_plus_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "51618",
+	"pname": "HPE ProLiant MicroServer Gen10 Plus ファームウェア",
+	"pcpe": "cpe:/o:hp:proliant_microserver_gen10_plus_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13155",
-  "vname": "ZKTECO CO., LTD.",
-  "vcpe": "cpe:/:zkteco",
-  "pid": "56178",
-  "pname": "ZMM200 ファームウェア",
-  "pcpe": "cpe:/o:zkteco:zmm200_firmware"
+	"vid": "13155",
+	"vname": "ZKTECO CO., LTD.",
+	"vcpe": "cpe:/:zkteco",
+	"pid": "56178",
+	"pname": "ZMM200 ファームウェア",
+	"pcpe": "cpe:/o:zkteco:zmm200_firmware"
 }

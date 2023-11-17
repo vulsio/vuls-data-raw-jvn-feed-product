@@ -1,8 +1,8 @@
 {
-  "vid": "9020",
-  "vname": "Triangle Research International",
-  "vcpe": "cpe:/:triplc",
-  "pid": "17761",
-  "pname": "Nano-10 PLC ファームウェア",
-  "pcpe": "cpe:/o:triplc:nano-10_plc_firmware"
+	"vid": "9020",
+	"vname": "Triangle Research International",
+	"vcpe": "cpe:/:triplc",
+	"pid": "17761",
+	"pname": "Nano-10 PLC ファームウェア",
+	"pcpe": "cpe:/o:triplc:nano-10_plc_firmware"
 }

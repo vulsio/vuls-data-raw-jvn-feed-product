@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "7770",
-  "pname": "homebase server",
-  "pcpe": "cpe:/a:emc:homebase_server"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "7770",
+	"pname": "homebase server",
+	"pcpe": "cpe:/a:emc:homebase_server"
 }

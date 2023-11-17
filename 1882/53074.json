@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "53074",
-  "pname": "ZTE Axon 30 Pro Message Service App",
-  "pcpe": "cpe:/a:zte:axon_30_pro_message_service"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "53074",
+	"pname": "ZTE Axon 30 Pro Message Service App",
+	"pcpe": "cpe:/a:zte:axon_30_pro_message_service"
 }

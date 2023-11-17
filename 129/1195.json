@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1195",
-  "pname": "Groupmax Collaboration",
-  "pcpe": "cpe:/a:hitachi:groupmax_collaboration"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1195",
+	"pname": "Groupmax Collaboration",
+	"pcpe": "cpe:/a:hitachi:groupmax_collaboration"
 }

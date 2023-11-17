@@ -1,8 +1,8 @@
 {
-  "vid": "12941",
-  "vname": "Twisted Matrix",
-  "vcpe": "cpe:/:twistedmatrix",
-  "pid": "29921",
-  "pname": "txAWS",
-  "pcpe": "cpe:/a:twistedmatrix:txaws"
+	"vid": "12941",
+	"vname": "Twisted Matrix",
+	"vcpe": "cpe:/:twistedmatrix",
+	"pid": "29921",
+	"pname": "txAWS",
+	"pcpe": "cpe:/a:twistedmatrix:txaws"
 }

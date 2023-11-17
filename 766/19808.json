@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "19808",
-  "pname": "TLXCDSTOFS",
-  "pcpe": "cpe:/h:schneider_electric:opc_factory_server_tlxcdstofs"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "19808",
+	"pname": "TLXCDSTOFS",
+	"pcpe": "cpe:/h:schneider_electric:opc_factory_server_tlxcdstofs"
 }

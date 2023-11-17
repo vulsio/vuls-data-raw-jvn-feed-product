@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "49676",
-  "pname": "VMware View Planner",
-  "pcpe": "cpe:/a:vmware:view_planner"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "49676",
+	"pname": "VMware View Planner",
+	"pcpe": "cpe:/a:vmware:view_planner"
 }

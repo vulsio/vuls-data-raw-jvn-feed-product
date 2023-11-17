@@ -1,8 +1,8 @@
 {
-  "vid": "269",
-  "vname": "RSAセキュリティ",
-  "vcpe": "cpe:/:rsa",
-  "pid": "14434",
-  "pname": "webid",
-  "pcpe": "cpe:/a:rsa:webid"
+	"vid": "269",
+	"vname": "RSAセキュリティ",
+	"vcpe": "cpe:/:rsa",
+	"pid": "14434",
+	"pname": "webid",
+	"pcpe": "cpe:/a:rsa:webid"
 }

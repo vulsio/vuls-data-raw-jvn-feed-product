@@ -1,8 +1,8 @@
 {
-  "vid": "16235",
-  "vname": "Cloud Native Computing Foundation",
-  "vcpe": "cpe:/:cncf",
-  "pid": "38099",
-  "pname": "portmap",
-  "pcpe": "cpe:/a:cncf:portmap"
+	"vid": "16235",
+	"vname": "Cloud Native Computing Foundation",
+	"vcpe": "cpe:/:cncf",
+	"pid": "38099",
+	"pname": "portmap",
+	"pcpe": "cpe:/a:cncf:portmap"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15274",
-  "vname": "Codehaus Plexus",
-  "vcpe": "cpe:/:plexus-archiver_project",
-  "pid": "35353",
-  "pname": "Plexus-archiver",
-  "pcpe": "cpe:/a:plexus-archiver_project:plexus-archiver"
+	"vid": "15274",
+	"vname": "Codehaus Plexus",
+	"vcpe": "cpe:/:plexus-archiver_project",
+	"pid": "35353",
+	"pname": "Plexus-archiver",
+	"pcpe": "cpe:/a:plexus-archiver_project:plexus-archiver"
 }

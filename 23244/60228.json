@@ -1,8 +1,8 @@
 {
-  "vid": "23244",
-  "vname": "semadatacoop",
-  "vcpe": "cpe:/:semadatacoop",
-  "pid": "60228",
-  "pname": "SEMA API",
-  "pcpe": "cpe:/a:semadatacoop:sema_api"
+	"vid": "23244",
+	"vname": "semadatacoop",
+	"vcpe": "cpe:/:semadatacoop",
+	"pid": "60228",
+	"pname": "SEMA API",
+	"pcpe": "cpe:/a:semadatacoop:sema_api"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "42634",
-  "pname": "Samsung Mobile Print",
-  "pcpe": "cpe:/a:hp:samsung_mobile_print"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "42634",
+	"pname": "Samsung Mobile Print",
+	"pcpe": "cpe:/a:hp:samsung_mobile_print"
 }

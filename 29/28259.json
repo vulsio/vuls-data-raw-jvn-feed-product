@@ -1,8 +1,8 @@
 {
-  "vid": "29",
-  "vname": "エフ・セキュア",
-  "vcpe": "cpe:/:f-secure",
-  "pid": "28259",
-  "pname": "Software Updater",
-  "pcpe": "cpe:/a:f-secure:software_updater"
+	"vid": "29",
+	"vname": "エフ・セキュア",
+	"vcpe": "cpe:/:f-secure",
+	"pid": "28259",
+	"pname": "Software Updater",
+	"pcpe": "cpe:/a:f-secure:software_updater"
 }

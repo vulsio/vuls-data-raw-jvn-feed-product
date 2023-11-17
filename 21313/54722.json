@@ -1,8 +1,8 @@
 {
-  "vid": "21313",
-  "vname": "Owncast project",
-  "vcpe": "cpe:/:owncast_project",
-  "pid": "54722",
-  "pname": "Owncast",
-  "pcpe": "cpe:/a:owncast_project:owncast"
+	"vid": "21313",
+	"vname": "Owncast project",
+	"vcpe": "cpe:/:owncast_project",
+	"pid": "54722",
+	"pname": "Owncast",
+	"pcpe": "cpe:/a:owncast_project:owncast"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14733",
-  "vname": "Grafana Labs",
-  "vcpe": "cpe:/:grafana",
-  "pid": "54762",
-  "pname": "Grafana Agent",
-  "pcpe": "cpe:/a:grafana:agent"
+	"vid": "14733",
+	"vname": "Grafana Labs",
+	"vcpe": "cpe:/:grafana",
+	"pid": "54762",
+	"pname": "Grafana Agent",
+	"pcpe": "cpe:/a:grafana:agent"
 }

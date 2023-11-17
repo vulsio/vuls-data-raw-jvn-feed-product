@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "43635",
-  "pname": "Vivid S70N ファームウェア",
-  "pcpe": "cpe:/o:ge:vivid_s70n_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "43635",
+	"pname": "Vivid S70N ファームウェア",
+	"pcpe": "cpe:/o:ge:vivid_s70n_firmware"
 }

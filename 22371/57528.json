@@ -1,8 +1,8 @@
 {
-  "vid": "22371",
-  "vname": "ConvertKit",
-  "vcpe": "cpe:/:convertkit",
-  "pid": "57528",
-  "pname": "ConvertKit",
-  "pcpe": "cpe:/a:convertkit:convertkit"
+	"vid": "22371",
+	"vname": "ConvertKit",
+	"vcpe": "cpe:/:convertkit",
+	"pid": "57528",
+	"pname": "ConvertKit",
+	"pcpe": "cpe:/a:convertkit:convertkit"
 }

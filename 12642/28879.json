@@ -1,8 +1,8 @@
 {
-  "vid": "12642",
-  "vname": "防衛装備庁",
-  "vcpe": "cpe:/:atla",
-  "pid": "28879",
-  "pname": "電子入札・開札システムのインストーラ",
-  "pcpe": "cpe:/a:atla:electronic_tendering_and_bid_opening_system"
+	"vid": "12642",
+	"vname": "防衛装備庁",
+	"vcpe": "cpe:/:atla",
+	"pid": "28879",
+	"pname": "電子入札・開札システムのインストーラ",
+	"pcpe": "cpe:/a:atla:electronic_tendering_and_bid_opening_system"
 }

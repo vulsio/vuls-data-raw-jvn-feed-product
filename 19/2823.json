@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2823",
-  "pname": "Cisco Physical Access Gateway",
-  "pcpe": "cpe:/h:cisco:physical_access_gateway"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2823",
+	"pname": "Cisco Physical Access Gateway",
+	"pcpe": "cpe:/h:cisco:physical_access_gateway"
 }

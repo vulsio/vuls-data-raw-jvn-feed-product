@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29243",
-  "pname": "SINAMICS S110 w. PN ファームウェア",
-  "pcpe": "cpe:/o:siemens:sinamics__s110_w._pn_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29243",
+	"pname": "SINAMICS S110 w. PN ファームウェア",
+	"pcpe": "cpe:/o:siemens:sinamics__s110_w._pn_firmware"
 }

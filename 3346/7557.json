@@ -1,8 +1,8 @@
 {
-  "vid": "3346",
-  "vname": "dvrstation",
-  "vcpe": "cpe:/:dvrstation",
-  "pid": "7557",
-  "pname": "dvrstation cms",
-  "pcpe": "cpe:/a:dvrstation:dvrstation_cms"
+	"vid": "3346",
+	"vname": "dvrstation",
+	"vcpe": "cpe:/:dvrstation",
+	"pid": "7557",
+	"pname": "dvrstation cms",
+	"pcpe": "cpe:/a:dvrstation:dvrstation_cms"
 }

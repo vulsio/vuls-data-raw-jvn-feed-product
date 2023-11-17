@@ -1,8 +1,8 @@
 {
-  "vid": "12790",
-  "vname": "CompuLab",
-  "vcpe": "cpe:/:compulab",
-  "pid": "29418",
-  "pname": "Intense PC ファームウェア",
-  "pcpe": "cpe:/o:compulab:intense_pc_firmware"
+	"vid": "12790",
+	"vname": "CompuLab",
+	"vcpe": "cpe:/:compulab",
+	"pid": "29418",
+	"pname": "Intense PC ファームウェア",
+	"pcpe": "cpe:/o:compulab:intense_pc_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17002",
-  "vname": "eGain",
-  "vcpe": "cpe:/:egain",
-  "pid": "42420",
-  "pname": "eGain Mail",
-  "pcpe": "cpe:/a:egain:mail"
+	"vid": "17002",
+	"vname": "eGain",
+	"vcpe": "cpe:/:egain",
+	"pid": "42420",
+	"pname": "eGain Mail",
+	"pcpe": "cpe:/a:egain:mail"
 }

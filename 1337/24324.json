@@ -1,8 +1,8 @@
 {
-  "vid": "1337",
-  "vname": "Alcatel-Lucent",
-  "vcpe": "cpe:/:alcatel-lucent",
-  "pid": "24324",
-  "pname": "CellPipe 7130 RG",
-  "pcpe": "cpe:/h:alcatel-lucent:cellpipe_7130_router"
+	"vid": "1337",
+	"vname": "Alcatel-Lucent",
+	"vcpe": "cpe:/:alcatel-lucent",
+	"pid": "24324",
+	"pname": "CellPipe 7130 RG",
+	"pcpe": "cpe:/h:alcatel-lucent:cellpipe_7130_router"
 }

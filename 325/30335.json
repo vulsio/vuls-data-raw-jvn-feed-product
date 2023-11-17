@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30335",
-  "pname": "Lenovo Flex System Fabric EN4093R 10Gb Scalable Switch ファームウェア",
-  "pcpe": "cpe:/o:lenovo:fabric_en4093r_10gb_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30335",
+	"pname": "Lenovo Flex System Fabric EN4093R 10Gb Scalable Switch ファームウェア",
+	"pcpe": "cpe:/o:lenovo:fabric_en4093r_10gb_firmware"
 }

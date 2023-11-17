@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "49365",
-  "pname": "HPE Cloudline CL5800 Gen9 Server ファームウェア",
-  "pcpe": "cpe:/o:hp:cloudline_cl5800_gen9_server_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "49365",
+	"pname": "HPE Cloudline CL5800 Gen9 Server ファームウェア",
+	"pcpe": "cpe:/o:hp:cloudline_cl5800_gen9_server_firmware"
 }

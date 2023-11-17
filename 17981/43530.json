@@ -1,8 +1,8 @@
 {
-  "vid": "17981",
-  "vname": "Fleetco",
-  "vcpe": "cpe:/:fleetco",
-  "pid": "43530",
-  "pname": "Fleet Maintenance Management",
-  "pcpe": "cpe:/a:fleetco:fleet_maintenance_management"
+	"vid": "17981",
+	"vname": "Fleetco",
+	"vcpe": "cpe:/:fleetco",
+	"pid": "43530",
+	"pname": "Fleet Maintenance Management",
+	"pcpe": "cpe:/a:fleetco:fleet_maintenance_management"
 }

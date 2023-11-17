@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "16755",
-  "pname": "DCS-932L ファームウェア",
-  "pcpe": "cpe:/o:dlink:dcs-932l_camera_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "16755",
+	"pname": "DCS-932L ファームウェア",
+	"pcpe": "cpe:/o:dlink:dcs-932l_camera_firmware"
 }

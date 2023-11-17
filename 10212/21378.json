@@ -1,8 +1,8 @@
 {
-  "vid": "10212",
-  "vname": "ZeroMQ",
-  "vcpe": "cpe:/:zeromq",
-  "pid": "21378",
-  "pname": "libzmq",
-  "pcpe": "cpe:/a:zeromq:zeromq"
+	"vid": "10212",
+	"vname": "ZeroMQ",
+	"vcpe": "cpe:/:zeromq",
+	"pid": "21378",
+	"pname": "libzmq",
+	"pcpe": "cpe:/a:zeromq:zeromq"
 }

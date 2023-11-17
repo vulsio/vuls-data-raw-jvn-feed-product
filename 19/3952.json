@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3952",
-  "pname": "Cisco Small Business SRP540 Series Firmware",
-  "pcpe": "cpe:/a:cisco:small_business_srp540_series_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3952",
+	"pname": "Cisco Small Business SRP540 Series Firmware",
+	"pcpe": "cpe:/a:cisco:small_business_srp540_series_firmware"
 }

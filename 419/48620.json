@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "48620",
-  "pname": "HCI Bootstrap OS",
-  "pcpe": "cpe:/o:netapp:hci_bootstrap_os"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "48620",
+	"pname": "HCI Bootstrap OS",
+	"pcpe": "cpe:/o:netapp:hci_bootstrap_os"
 }

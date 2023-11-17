@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "57771",
-  "pname": "Aterm WG2600HP",
-  "pcpe": "cpe:/o:nec:aterm_wg2600hp"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "57771",
+	"pname": "Aterm WG2600HP",
+	"pcpe": "cpe:/o:nec:aterm_wg2600hp"
 }

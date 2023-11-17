@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "42399",
-  "pname": "Deep Security As A Service",
-  "pcpe": "cpe:/a:trendmicro:deep_security_as_a_service"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "42399",
+	"pname": "Deep Security As A Service",
+	"pcpe": "cpe:/a:trendmicro:deep_security_as_a_service"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13506",
-  "vname": "LiveQoS",
-  "vcpe": "cpe:/:superbe",
-  "pid": "31932",
-  "pname": "SuperBeam",
-  "pcpe": "cpe:/a:superbe:superbeam"
+	"vid": "13506",
+	"vname": "LiveQoS",
+	"vcpe": "cpe:/:superbe",
+	"pid": "31932",
+	"pname": "SuperBeam",
+	"pcpe": "cpe:/a:superbe:superbeam"
 }

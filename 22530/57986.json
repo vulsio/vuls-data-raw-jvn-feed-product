@@ -1,8 +1,8 @@
 {
-  "vid": "22530",
-  "vname": "garo",
-  "vcpe": "cpe:/:garo",
-  "pid": "57986",
-  "pname": "wallbox glb ファームウェア",
-  "pcpe": "cpe:/o:garo:wallbox_glb_firmware"
+	"vid": "22530",
+	"vname": "garo",
+	"vcpe": "cpe:/:garo",
+	"pid": "57986",
+	"pname": "wallbox glb ファームウェア",
+	"pcpe": "cpe:/o:garo:wallbox_glb_firmware"
 }

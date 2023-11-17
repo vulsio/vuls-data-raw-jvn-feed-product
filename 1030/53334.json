@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "53334",
-  "pname": "CODESYS EtherNetIP",
-  "pcpe": "cpe:/a:codesys:ethernetip"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "53334",
+	"pname": "CODESYS EtherNetIP",
+	"pcpe": "cpe:/a:codesys:ethernetip"
 }

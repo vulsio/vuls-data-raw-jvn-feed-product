@@ -1,8 +1,8 @@
 {
-  "vid": "10121",
-  "vname": "Telerik",
-  "vcpe": "cpe:/:telerik",
-  "pid": "44165",
-  "pname": "UI for Silverlight",
-  "pcpe": "cpe:/a:telerik:ui_for_silverlight"
+	"vid": "10121",
+	"vname": "Telerik",
+	"vcpe": "cpe:/:telerik",
+	"pid": "44165",
+	"pname": "UI for Silverlight",
+	"pcpe": "cpe:/a:telerik:ui_for_silverlight"
 }

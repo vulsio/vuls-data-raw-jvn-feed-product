@@ -1,8 +1,8 @@
 {
-  "vid": "16069",
-  "vname": "LeoNerd.org.uk",
-  "vcpe": "cpe:/:leonerd",
-  "pid": "37625",
-  "pname": "libvterm",
-  "pcpe": "cpe:/a:leonerd:libvterm"
+	"vid": "16069",
+	"vname": "LeoNerd.org.uk",
+	"vcpe": "cpe:/:leonerd",
+	"pid": "37625",
+	"pname": "libvterm",
+	"pcpe": "cpe:/a:leonerd:libvterm"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "33780",
-  "pname": "Cisco IP Phone 7800 シリーズ ファームウェア",
-  "pcpe": "cpe:/o:cisco:ip_phone_7800_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "33780",
+	"pname": "Cisco IP Phone 7800 シリーズ ファームウェア",
+	"pcpe": "cpe:/o:cisco:ip_phone_7800_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "62402",
-  "pname": "a-mq streams",
-  "pcpe": "cpe:/a:redhat:a-mq_streams"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "62402",
+	"pname": "a-mq streams",
+	"pcpe": "cpe:/a:redhat:a-mq_streams"
 }

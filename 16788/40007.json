@@ -1,8 +1,8 @@
 {
-  "vid": "16788",
-  "vname": "Fabrix.net",
-  "vcpe": "cpe:/:fabrix",
-  "pid": "40007",
-  "pname": "Total Security",
-  "pcpe": "cpe:/a:fabrix:total_security"
+	"vid": "16788",
+	"vname": "Fabrix.net",
+	"vcpe": "cpe:/:fabrix",
+	"pid": "40007",
+	"pname": "Total Security",
+	"pcpe": "cpe:/a:fabrix:total_security"
 }

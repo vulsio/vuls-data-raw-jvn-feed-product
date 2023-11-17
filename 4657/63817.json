@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "63817",
-  "pname": "jad-al50 ファームウェア",
-  "pcpe": "cpe:/o:huawei:jad-al50_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "63817",
+	"pname": "jad-al50 ファームウェア",
+	"pcpe": "cpe:/o:huawei:jad-al50_firmware"
 }

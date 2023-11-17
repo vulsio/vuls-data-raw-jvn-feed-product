@@ -1,8 +1,8 @@
 {
-  "vid": "9176",
-  "vname": "DrayTek Corporation",
-  "vcpe": "cpe:/:draytek",
-  "pid": "62451",
-  "pname": "vigor2915 ファームウェア",
-  "pcpe": "cpe:/o:draytek:vigor2915_firmware"
+	"vid": "9176",
+	"vname": "DrayTek Corporation",
+	"vcpe": "cpe:/:draytek",
+	"pid": "62451",
+	"pname": "vigor2915 ファームウェア",
+	"pcpe": "cpe:/o:draytek:vigor2915_firmware"
 }

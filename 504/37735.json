@@ -1,8 +1,8 @@
 {
-  "vid": "504",
-  "vname": "Motorola Solutions, Inc",
-  "vcpe": "cpe:/:motorola",
-  "pid": "37735",
-  "pname": "M2 ファームウェア",
-  "pcpe": "cpe:/o:motorola:m2_firmware"
+	"vid": "504",
+	"vname": "Motorola Solutions, Inc",
+	"vcpe": "cpe:/:motorola",
+	"pid": "37735",
+	"pname": "M2 ファームウェア",
+	"pcpe": "cpe:/o:motorola:m2_firmware"
 }

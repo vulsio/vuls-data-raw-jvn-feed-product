@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "38987",
-  "pname": "Nexus 7 ファームウェア",
-  "pcpe": "cpe:/o:google:nexus_7_firmware"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "38987",
+	"pname": "Nexus 7 ファームウェア",
+	"pcpe": "cpe:/o:google:nexus_7_firmware"
 }

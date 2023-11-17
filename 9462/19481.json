@@ -1,8 +1,8 @@
 {
-  "vid": "9462",
-  "vname": "ideaMK",
-  "vcpe": "cpe:/:ideamk",
-  "pid": "19481",
-  "pname": "EPS Viewer",
-  "pcpe": "cpe:/a:ideamk:eps_viewer"
+	"vid": "9462",
+	"vname": "ideaMK",
+	"vcpe": "cpe:/:ideamk",
+	"pid": "19481",
+	"pname": "EPS Viewer",
+	"pcpe": "cpe:/a:ideamk:eps_viewer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22945",
-  "vname": "fastcom",
-  "vcpe": "cpe:/:fastcom",
-  "pid": "59161",
-  "pname": "fac1900r ファームウェア",
-  "pcpe": "cpe:/o:fastcom:fac1900r_firmware"
+	"vid": "22945",
+	"vname": "fastcom",
+	"vcpe": "cpe:/:fastcom",
+	"pid": "59161",
+	"pname": "fac1900r ファームウェア",
+	"pcpe": "cpe:/o:fastcom:fac1900r_firmware"
 }

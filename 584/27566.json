@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "27566",
-  "pname": "SIMATIC S7-400 CPU 417-4",
-  "pcpe": "cpe:/h:siemens:simatic_s7-400_cpu_417-4"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "27566",
+	"pname": "SIMATIC S7-400 CPU 417-4",
+	"pcpe": "cpe:/h:siemens:simatic_s7-400_cpu_417-4"
 }

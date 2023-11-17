@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "58512",
-  "pname": "origin-aggregated-logging",
-  "pcpe": "cpe:/a:redhat:origin-aggregated-logging"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "58512",
+	"pname": "origin-aggregated-logging",
+	"pcpe": "cpe:/a:redhat:origin-aggregated-logging"
 }

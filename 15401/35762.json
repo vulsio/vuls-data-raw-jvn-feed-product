@@ -1,8 +1,8 @@
 {
-  "vid": "15401",
-  "vname": "Couchbase, Inc.",
-  "vcpe": "cpe:/:couchbase",
-  "pid": "35762",
-  "pname": "Couchbase Server",
-  "pcpe": "cpe:/a:couchbase:couchbase_server"
+	"vid": "15401",
+	"vname": "Couchbase, Inc.",
+	"vcpe": "cpe:/:couchbase",
+	"pid": "35762",
+	"pname": "Couchbase Server",
+	"pcpe": "cpe:/a:couchbase:couchbase_server"
 }

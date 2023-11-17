@@ -1,8 +1,8 @@
 {
-  "vid": "18106",
-  "vname": "Intland Software",
-  "vcpe": "cpe:/:intland",
-  "pid": "44094",
-  "pname": "codeBeamer ALM",
-  "pcpe": "cpe:/a:intland:codebeamer_application_lifecycle_management"
+	"vid": "18106",
+	"vname": "Intland Software",
+	"vcpe": "cpe:/:intland",
+	"pid": "44094",
+	"pname": "codeBeamer ALM",
+	"pcpe": "cpe:/a:intland:codebeamer_application_lifecycle_management"
 }

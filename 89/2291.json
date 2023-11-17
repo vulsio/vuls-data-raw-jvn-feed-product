@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "2291",
-  "pname": "SecureBranch",
-  "pcpe": "cpe:/h:nec:securebranch"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "2291",
+	"pname": "SecureBranch",
+	"pcpe": "cpe:/h:nec:securebranch"
 }

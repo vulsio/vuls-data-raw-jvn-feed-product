@@ -1,8 +1,8 @@
 {
-  "vid": "9111",
-  "vname": "Dahua Technology Co., Ltd",
-  "vcpe": "cpe:/:dahuasecurity",
-  "pid": "31640",
-  "pname": "IPC-HDBW2XXX ファームウェア",
-  "pcpe": "cpe:/o:dahuasecurity:ipc-hdbw2xxx_firmware"
+	"vid": "9111",
+	"vname": "Dahua Technology Co., Ltd",
+	"vcpe": "cpe:/:dahuasecurity",
+	"pid": "31640",
+	"pname": "IPC-HDBW2XXX ファームウェア",
+	"pcpe": "cpe:/o:dahuasecurity:ipc-hdbw2xxx_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "41781",
-  "pname": "ThinkPad USB-C ドック ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_usb-c_dock_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "41781",
+	"pname": "ThinkPad USB-C ドック ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_usb-c_dock_firmware"
 }

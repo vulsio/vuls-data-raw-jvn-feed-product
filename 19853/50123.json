@@ -1,8 +1,8 @@
 {
-  "vid": "19853",
-  "vname": "Filecoin project",
-  "vcpe": "cpe:/:filecoin",
-  "pid": "50123",
-  "pname": "lotus",
-  "pcpe": "cpe:/a:filecoin:lotus"
+	"vid": "19853",
+	"vname": "Filecoin project",
+	"vcpe": "cpe:/:filecoin",
+	"pid": "50123",
+	"pname": "lotus",
+	"pcpe": "cpe:/a:filecoin:lotus"
 }

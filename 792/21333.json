@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "21333",
-  "pname": "SBG3300-N シリーズ",
-  "pcpe": "cpe:/h:zyxel:sbg3300-n"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "21333",
+	"pname": "SBG3300-N シリーズ",
+	"pcpe": "cpe:/h:zyxel:sbg3300-n"
 }

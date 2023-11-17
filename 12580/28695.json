@@ -1,8 +1,8 @@
 {
-  "vid": "12580",
-  "vname": "Space Coast Credit Union",
-  "vcpe": "cpe:/:space_coast_credit_union",
-  "pid": "28695",
-  "pname": "Space Coast Credit Union SCCU Mobile",
-  "pcpe": "cpe:/a:space_coast_credit_union:sccu_app"
+	"vid": "12580",
+	"vname": "Space Coast Credit Union",
+	"vcpe": "cpe:/:space_coast_credit_union",
+	"pid": "28695",
+	"pname": "Space Coast Credit Union SCCU Mobile",
+	"pcpe": "cpe:/a:space_coast_credit_union:sccu_app"
 }

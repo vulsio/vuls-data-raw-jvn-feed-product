@@ -1,8 +1,8 @@
 {
-  "vid": "3681",
-  "vname": "fhttpd",
-  "vcpe": "cpe:/:fhttpd",
-  "pid": "8045",
-  "pname": "fhttpd",
-  "pcpe": "cpe:/a:fhttpd:fhttpd"
+	"vid": "3681",
+	"vname": "fhttpd",
+	"vcpe": "cpe:/:fhttpd",
+	"pid": "8045",
+	"pname": "fhttpd",
+	"pcpe": "cpe:/a:fhttpd:fhttpd"
 }

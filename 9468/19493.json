@@ -1,8 +1,8 @@
 {
-  "vid": "9468",
-  "vname": "Thuraya Telecommunications",
-  "vcpe": "cpe:/:thuraya_telecommunications",
-  "pid": "19493",
-  "pname": "IP",
-  "pcpe": "cpe:/h:thuraya_telecommunications:ip"
+	"vid": "9468",
+	"vname": "Thuraya Telecommunications",
+	"vcpe": "cpe:/:thuraya_telecommunications",
+	"pid": "19493",
+	"pname": "IP",
+	"pcpe": "cpe:/h:thuraya_telecommunications:ip"
 }

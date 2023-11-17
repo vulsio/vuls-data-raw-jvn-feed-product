@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7481",
-  "pname": "bibliography module",
-  "pcpe": "cpe:/a:drupal:bibliography_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7481",
+	"pname": "bibliography module",
+	"pcpe": "cpe:/a:drupal:bibliography_module"
 }

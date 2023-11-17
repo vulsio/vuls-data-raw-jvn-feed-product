@@ -1,8 +1,8 @@
 {
-  "vid": "17765",
-  "vname": "Yet Another Java Service Wrapper project",
-  "vcpe": "cpe:/:yet_another_java_service_wrapper_project",
-  "pid": "42693",
-  "pname": "Yet Another Java Service Wrapper",
-  "pcpe": "cpe:/a:yet_another_java_service_wrapper_project:yet_another_java_service_wrapper"
+	"vid": "17765",
+	"vname": "Yet Another Java Service Wrapper project",
+	"vcpe": "cpe:/:yet_another_java_service_wrapper_project",
+	"pid": "42693",
+	"pname": "Yet Another Java Service Wrapper",
+	"pcpe": "cpe:/a:yet_another_java_service_wrapper_project:yet_another_java_service_wrapper"
 }

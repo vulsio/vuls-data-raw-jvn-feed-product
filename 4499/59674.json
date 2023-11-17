@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "59674",
-  "pname": "M730VW",
-  "pcpe": "cpe:/o:mitsubishielectric:m730vw"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "59674",
+	"pname": "M730VW",
+	"pcpe": "cpe:/o:mitsubishielectric:m730vw"
 }

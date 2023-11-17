@@ -1,8 +1,8 @@
 {
-  "vid": "708",
-  "vname": "Newgen Software Technologies Limited",
-  "vcpe": "cpe:/:newgensoft",
-  "pid": "40456",
-  "pname": "OmniFlow Intelligent Business Process Suite",
-  "pcpe": "cpe:/a:newgensoft:omniflow_intelligent_business_process_suite"
+	"vid": "708",
+	"vname": "Newgen Software Technologies Limited",
+	"vcpe": "cpe:/:newgensoft",
+	"pid": "40456",
+	"pname": "OmniFlow Intelligent Business Process Suite",
+	"pcpe": "cpe:/a:newgensoft:omniflow_intelligent_business_process_suite"
 }

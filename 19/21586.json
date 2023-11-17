@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "21586",
-  "pname": "Cisco RV220W Wireless Network Security Firewall ファームウェア",
-  "pcpe": "cpe:/h:cisco:rv220w_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "21586",
+	"pname": "Cisco RV220W Wireless Network Security Firewall ファームウェア",
+	"pcpe": "cpe:/h:cisco:rv220w_firmware"
 }

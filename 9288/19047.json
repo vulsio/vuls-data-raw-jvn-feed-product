@@ -1,8 +1,8 @@
 {
-  "vid": "9288",
-  "vname": "Tenmiles",
-  "vcpe": "cpe:/:tenmiles",
-  "pid": "19047",
-  "pname": "Helpdesk Pilot",
-  "pcpe": "cpe:/a:tenmiles:helpdesk_pilot"
+	"vid": "9288",
+	"vname": "Tenmiles",
+	"vcpe": "cpe:/:tenmiles",
+	"pid": "19047",
+	"pname": "Helpdesk Pilot",
+	"pcpe": "cpe:/a:tenmiles:helpdesk_pilot"
 }

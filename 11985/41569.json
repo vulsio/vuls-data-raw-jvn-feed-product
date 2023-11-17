@@ -1,8 +1,8 @@
 {
-  "vid": "11985",
-  "vname": "ARM Ltd.",
-  "vcpe": "cpe:/:arm",
-  "pid": "41569",
-  "pname": "Mbed MQTT",
-  "pcpe": "cpe:/a:arm:mbed-mqtt"
+	"vid": "11985",
+	"vname": "ARM Ltd.",
+	"vcpe": "cpe:/:arm",
+	"pid": "41569",
+	"pname": "Mbed MQTT",
+	"pcpe": "cpe:/a:arm:mbed-mqtt"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21371",
-  "vname": "MSEdgeRedirect project",
-  "vcpe": "cpe:/:msedgeredirect_project",
-  "pid": "54864",
-  "pname": "MSEdgeRedirect",
-  "pcpe": "cpe:/a:msedgeredirect_project:msedgeredirect"
+	"vid": "21371",
+	"vname": "MSEdgeRedirect project",
+	"vcpe": "cpe:/:msedgeredirect_project",
+	"pid": "54864",
+	"pname": "MSEdgeRedirect",
+	"pcpe": "cpe:/a:msedgeredirect_project:msedgeredirect"
 }

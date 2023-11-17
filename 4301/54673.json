@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "54673",
-  "pname": "Sockeye",
-  "pcpe": "cpe:/a:amazon:sockeye"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "54673",
+	"pname": "Sockeye",
+	"pcpe": "cpe:/a:amazon:sockeye"
 }

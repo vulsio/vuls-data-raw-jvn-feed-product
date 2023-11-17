@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "45663",
-  "pname": "Adobe Lightroom",
-  "pcpe": "cpe:/a:adobe:lightroom"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "45663",
+	"pname": "Adobe Lightroom",
+	"pcpe": "cpe:/a:adobe:lightroom"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23859",
-  "vname": "google-cloudstorage-commands project",
-  "vcpe": "cpe:/:google-cloudstorage-commands_project",
-  "pid": "61738",
-  "pname": "google-cloudstorage-commands",
-  "pcpe": "cpe:/a:google-cloudstorage-commands_project:google-cloudstorage-commands"
+	"vid": "23859",
+	"vname": "google-cloudstorage-commands project",
+	"vcpe": "cpe:/:google-cloudstorage-commands_project",
+	"pid": "61738",
+	"pname": "google-cloudstorage-commands",
+	"pcpe": "cpe:/a:google-cloudstorage-commands_project:google-cloudstorage-commands"
 }

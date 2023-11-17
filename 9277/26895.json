@@ -1,8 +1,8 @@
 {
-  "vid": "9277",
-  "vname": "Percona",
-  "vcpe": "cpe:/:percona",
-  "pid": "26895",
-  "pname": "Percona Server",
-  "pcpe": "cpe:/a:percona:percona_server"
+	"vid": "9277",
+	"vname": "Percona",
+	"vcpe": "cpe:/:percona",
+	"pid": "26895",
+	"pname": "Percona Server",
+	"pcpe": "cpe:/a:percona:percona_server"
 }

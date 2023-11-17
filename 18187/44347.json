@@ -1,8 +1,8 @@
 {
-  "vid": "18187",
-  "vname": "サイバーソリューションズ",
-  "vcpe": "cpe:/:cybersolutions",
-  "pid": "44347",
-  "pname": "CyberMail",
-  "pcpe": "cpe:/a:cybersolutions:cybermail"
+	"vid": "18187",
+	"vname": "サイバーソリューションズ",
+	"vcpe": "cpe:/:cybersolutions",
+	"pid": "44347",
+	"pname": "CyberMail",
+	"pcpe": "cpe:/a:cybersolutions:cybermail"
 }

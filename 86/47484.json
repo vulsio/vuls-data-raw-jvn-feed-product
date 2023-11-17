@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "47484",
-  "pname": "WHR2-G54 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:whr2-g54_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "47484",
+	"pname": "WHR2-G54 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:whr2-g54_firmware"
 }

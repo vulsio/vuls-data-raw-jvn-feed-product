@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "52302",
-  "pname": "RUGGEDCOM ROS i801",
-  "pcpe": "cpe:/o:siemens:ruggedcom_ros_i801"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "52302",
+	"pname": "RUGGEDCOM ROS i801",
+	"pcpe": "cpe:/o:siemens:ruggedcom_ros_i801"
 }

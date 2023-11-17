@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "26689",
-  "pname": "IBM Rational Publishing Engine",
-  "pcpe": "cpe:/a:ibm:rational_publishing_engine"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "26689",
+	"pname": "IBM Rational Publishing Engine",
+	"pcpe": "cpe:/a:ibm:rational_publishing_engine"
 }

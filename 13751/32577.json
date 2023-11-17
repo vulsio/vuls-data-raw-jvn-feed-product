@@ -1,8 +1,8 @@
 {
-  "vid": "13751",
-  "vname": "BitPay",
-  "vcpe": "cpe:/:insight.bitpay",
-  "pid": "32577",
-  "pname": "insight-api",
-  "pcpe": "cpe:/a:insight.bitpay:insight-api"
+	"vid": "13751",
+	"vname": "BitPay",
+	"vcpe": "cpe:/:insight.bitpay",
+	"pid": "32577",
+	"pname": "insight-api",
+	"pcpe": "cpe:/a:insight.bitpay:insight-api"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "29438",
-  "pname": "Visual Studio Community",
-  "pcpe": "cpe:/a:microsoft:visual_studio_community"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "29438",
+	"pname": "Visual Studio Community",
+	"pcpe": "cpe:/a:microsoft:visual_studio_community"
 }

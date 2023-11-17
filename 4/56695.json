@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "56695",
-  "pname": "HP Color LaserJet  M578 MFP 7ZU86A ファームウェア",
-  "pcpe": "cpe:/o:hp:color_laserjet_m578_mfp_7zu86a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "56695",
+	"pname": "HP Color LaserJet  M578 MFP 7ZU86A ファームウェア",
+	"pcpe": "cpe:/o:hp:color_laserjet_m578_mfp_7zu86a_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16075",
-  "vname": "Vembu",
-  "vcpe": "cpe:/:vembu",
-  "pid": "50986",
-  "pname": "BDR Suite",
-  "pcpe": "cpe:/a:vembu:bdr_suite"
+	"vid": "16075",
+	"vname": "Vembu",
+	"vcpe": "cpe:/:vembu",
+	"pid": "50986",
+	"pname": "BDR Suite",
+	"pcpe": "cpe:/a:vembu:bdr_suite"
 }

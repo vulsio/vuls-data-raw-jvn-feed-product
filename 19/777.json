@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "777",
-  "pname": "Cisco Traffic Director",
-  "pcpe": "cpe:/h:cisco:traffic_director"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "777",
+	"pname": "Cisco Traffic Director",
+	"pcpe": "cpe:/h:cisco:traffic_director"
 }

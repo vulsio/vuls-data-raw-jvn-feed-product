@@ -1,8 +1,8 @@
 {
-  "vid": "23774",
-  "vname": "file-type project",
-  "vcpe": "cpe:/:file-type_project",
-  "pid": "61495",
-  "pname": "file-type",
-  "pcpe": "cpe:/a:file-type_project:file-type"
+	"vid": "23774",
+	"vname": "file-type project",
+	"vcpe": "cpe:/:file-type_project",
+	"pid": "61495",
+	"pname": "file-type",
+	"pcpe": "cpe:/a:file-type_project:file-type"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "6098",
-  "pname": "message networking",
-  "pcpe": "cpe:/a:avaya:message_networking"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "6098",
+	"pname": "message networking",
+	"pcpe": "cpe:/a:avaya:message_networking"
 }

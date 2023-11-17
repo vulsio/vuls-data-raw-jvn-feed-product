@@ -1,8 +1,8 @@
 {
-  "vid": "9467",
-  "vname": "Hughes Network Systems",
-  "vcpe": "cpe:/:hughes",
-  "pid": "58821",
-  "pname": "HX50L ファームウェア",
-  "pcpe": "cpe:/o:hughes:hx50l_firmware"
+	"vid": "9467",
+	"vname": "Hughes Network Systems",
+	"vcpe": "cpe:/:hughes",
+	"pid": "58821",
+	"pname": "HX50L ファームウェア",
+	"pcpe": "cpe:/o:hughes:hx50l_firmware"
 }

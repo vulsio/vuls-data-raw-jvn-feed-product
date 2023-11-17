@@ -1,8 +1,8 @@
 {
-  "vid": "18095",
-  "vname": "KUKA",
-  "vcpe": "cpe:/:misc",
-  "pid": "47521",
-  "pname": "Visual Components Network License Server",
-  "pcpe": "cpe:/a:misc:kuka_visual_components_network_license_server"
+	"vid": "18095",
+	"vname": "KUKA",
+	"vcpe": "cpe:/:misc",
+	"pid": "47521",
+	"pname": "Visual Components Network License Server",
+	"pcpe": "cpe:/a:misc:kuka_visual_components_network_license_server"
 }

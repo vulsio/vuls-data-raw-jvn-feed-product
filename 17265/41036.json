@@ -1,8 +1,8 @@
 {
-  "vid": "17265",
-  "vname": "S3Bubble",
-  "vcpe": "cpe:/:s3bubble",
-  "pid": "41036",
-  "pname": "s3bubble-amazon-s3-audio-streaming",
-  "pcpe": "cpe:/a:s3bubble:s3bubble-amazon-s3-audio-streaming"
+	"vid": "17265",
+	"vname": "S3Bubble",
+	"vcpe": "cpe:/:s3bubble",
+	"pid": "41036",
+	"pname": "s3bubble-amazon-s3-audio-streaming",
+	"pcpe": "cpe:/a:s3bubble:s3bubble-amazon-s3-audio-streaming"
 }

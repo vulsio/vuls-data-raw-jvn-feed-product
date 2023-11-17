@@ -1,8 +1,8 @@
 {
-  "vid": "9006",
-  "vname": "Choice Wireless",
-  "vcpe": "cpe:/:choice_wireless",
-  "pid": "17655",
-  "pname": "Green Packet 4G WiMax modem WIXFMR-111",
-  "pcpe": "cpe:/h:choice_wireless:wixfmr-111"
+	"vid": "9006",
+	"vname": "Choice Wireless",
+	"vcpe": "cpe:/:choice_wireless",
+	"pid": "17655",
+	"pname": "Green Packet 4G WiMax modem WIXFMR-111",
+	"pcpe": "cpe:/h:choice_wireless:wixfmr-111"
 }

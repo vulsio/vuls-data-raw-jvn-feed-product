@@ -1,8 +1,8 @@
 {
-  "vid": "9352",
-  "vname": "Extreme Networks, Inc.",
-  "vcpe": "cpe:/:extremenetworks",
-  "pid": "54257",
-  "pname": "Aerohive NetConfig",
-  "pcpe": "cpe:/o:extremenetworks:aerohive_netconfig"
+	"vid": "9352",
+	"vname": "Extreme Networks, Inc.",
+	"vcpe": "cpe:/:extremenetworks",
+	"pid": "54257",
+	"pname": "Aerohive NetConfig",
+	"pcpe": "cpe:/o:extremenetworks:aerohive_netconfig"
 }

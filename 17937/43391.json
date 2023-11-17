@@ -1,8 +1,8 @@
 {
-  "vid": "17937",
-  "vname": "TimeTools Limited.",
-  "vcpe": "cpe:/:timetoolsltd",
-  "pid": "43391",
-  "pname": "Sr9850 ファームウェア",
-  "pcpe": "cpe:/o:timetoolsltd:sr9850_firmware"
+	"vid": "17937",
+	"vname": "TimeTools Limited.",
+	"vcpe": "cpe:/:timetoolsltd",
+	"pid": "43391",
+	"pname": "Sr9850 ファームウェア",
+	"pcpe": "cpe:/o:timetoolsltd:sr9850_firmware"
 }

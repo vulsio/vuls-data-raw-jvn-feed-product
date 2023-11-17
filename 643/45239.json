@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "45239",
-  "pname": "Latitude 7220 ファームウェア",
-  "pcpe": "cpe:/o:dell:latitude_7220_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "45239",
+	"pname": "Latitude 7220 ファームウェア",
+	"pcpe": "cpe:/o:dell:latitude_7220_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "788",
-  "vname": "Alephsystem",
-  "vcpe": "cpe:/:alephsystem",
-  "pid": "3145",
-  "pname": "CMS Ariadna",
-  "pcpe": "cpe:/a:alephsystem:cms_ariadna"
+	"vid": "788",
+	"vname": "Alephsystem",
+	"vcpe": "cpe:/:alephsystem",
+	"pid": "3145",
+	"pname": "CMS Ariadna",
+	"pcpe": "cpe:/a:alephsystem:cms_ariadna"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2163",
-  "pname": "JP1/HiCommand Device Manager",
-  "pcpe": "cpe:/a:hitachi:jp1-hicommand_device_manager"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2163",
+	"pname": "JP1/HiCommand Device Manager",
+	"pcpe": "cpe:/a:hitachi:jp1-hicommand_device_manager"
 }

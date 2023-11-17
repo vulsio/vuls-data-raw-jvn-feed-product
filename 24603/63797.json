@@ -1,8 +1,8 @@
 {
-  "vid": "24603",
-  "vname": "pypy",
-  "vcpe": "cpe:/:pypy",
-  "pid": "63797",
-  "pname": "pypy",
-  "pcpe": "cpe:/a:pypy:pypy"
+	"vid": "24603",
+	"vname": "pypy",
+	"vcpe": "cpe:/:pypy",
+	"pid": "63797",
+	"pname": "pypy",
+	"pcpe": "cpe:/a:pypy:pypy"
 }

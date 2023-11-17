@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "47037",
-  "pname": "Aterm WR8165N ファームウェア",
-  "pcpe": "cpe:/o:nec:aterm_wr8165n"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "47037",
+	"pname": "Aterm WR8165N ファームウェア",
+	"pcpe": "cpe:/o:nec:aterm_wr8165n"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22014",
-  "vname": "opensim-utils project",
-  "vcpe": "cpe:/:opensim-utils_project",
-  "pid": "56506",
-  "pname": "opensim-utils",
-  "pcpe": "cpe:/a:opensim-utils_project:opensim-utils"
+	"vid": "22014",
+	"vname": "opensim-utils project",
+	"vcpe": "cpe:/:opensim-utils_project",
+	"pid": "56506",
+	"pname": "opensim-utils",
+	"pcpe": "cpe:/a:opensim-utils_project:opensim-utils"
 }

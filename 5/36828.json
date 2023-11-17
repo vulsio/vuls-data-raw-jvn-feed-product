@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "36828",
-  "pname": "SD 429 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd_429_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "36828",
+	"pname": "SD 429 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd_429_firmware"
 }

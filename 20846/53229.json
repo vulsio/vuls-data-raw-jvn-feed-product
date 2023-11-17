@@ -1,8 +1,8 @@
 {
-  "vid": "20846",
-  "vname": "Academy LMS",
-  "vcpe": "cpe:/:wp_map_block_project",
-  "pid": "53229",
-  "pname": "WP Map Block",
-  "pcpe": "cpe:/a:wp_map_block_project:wp_map_block"
+	"vid": "20846",
+	"vname": "Academy LMS",
+	"vcpe": "cpe:/:wp_map_block_project",
+	"pid": "53229",
+	"pname": "WP Map Block",
+	"pcpe": "cpe:/a:wp_map_block_project:wp_map_block"
 }

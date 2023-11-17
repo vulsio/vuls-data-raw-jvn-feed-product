@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "1008",
-  "pname": "SUSE Linux Database Server",
-  "pcpe": "cpe:/a:novell:suse_linux_database_server"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "1008",
+	"pname": "SUSE Linux Database Server",
+	"pcpe": "cpe:/a:novell:suse_linux_database_server"
 }

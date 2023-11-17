@@ -1,8 +1,8 @@
 {
-  "vid": "4262",
-  "vname": "ジョンソンコントロールズ",
-  "vcpe": "cpe:/:johnsoncontrols",
-  "pid": "23773",
-  "pname": "ADS アプリケーションデータサーバー",
-  "pcpe": "cpe:/h:johnsoncontrols:application_and_data_server"
+	"vid": "4262",
+	"vname": "ジョンソンコントロールズ",
+	"vcpe": "cpe:/:johnsoncontrols",
+	"pid": "23773",
+	"pname": "ADS アプリケーションデータサーバー",
+	"pcpe": "cpe:/h:johnsoncontrols:application_and_data_server"
 }

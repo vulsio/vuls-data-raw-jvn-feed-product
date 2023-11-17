@@ -1,8 +1,8 @@
 {
-  "vid": "18365",
-  "vname": "OpenClinic GA project",
-  "vcpe": "cpe:/:openclinic_ga_project",
-  "pid": "45089",
-  "pname": "OpenClinic GA",
-  "pcpe": "cpe:/a:openclinic_ga_project:openclinic_ga"
+	"vid": "18365",
+	"vname": "OpenClinic GA project",
+	"vcpe": "cpe:/:openclinic_ga_project",
+	"pid": "45089",
+	"pname": "OpenClinic GA",
+	"pcpe": "cpe:/a:openclinic_ga_project:openclinic_ga"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "26984",
-  "pname": "User Account and Authentication",
-  "pcpe": "cpe:/a:greenplum:cloud_foundry_uaa"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "26984",
+	"pname": "User Account and Authentication",
+	"pcpe": "cpe:/a:greenplum:cloud_foundry_uaa"
 }

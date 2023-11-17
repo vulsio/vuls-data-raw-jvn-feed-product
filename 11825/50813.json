@@ -1,8 +1,8 @@
 {
-  "vid": "11825",
-  "vname": "CHIYU Technology Co Ltd.",
-  "vcpe": "cpe:/:chiyutw",
-  "pid": "50813",
-  "pname": "SEMAC S3V3 ファームウェア",
-  "pcpe": "cpe:/o:chiyutw:semac_s3v3_firmware"
+	"vid": "11825",
+	"vname": "CHIYU Technology Co Ltd.",
+	"vcpe": "cpe:/:chiyutw",
+	"pid": "50813",
+	"pname": "SEMAC S3V3 ファームウェア",
+	"pcpe": "cpe:/o:chiyutw:semac_s3v3_firmware"
 }

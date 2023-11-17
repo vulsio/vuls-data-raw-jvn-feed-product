@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "50959",
-  "pname": "Jakarta Expression Language",
-  "pcpe": "cpe:/a:eclipse:jakarta_expression_language"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "50959",
+	"pname": "Jakarta Expression Language",
+	"pcpe": "cpe:/a:eclipse:jakarta_expression_language"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "23983",
-  "pname": "network-manager",
-  "pcpe": "cpe:/a:canonical:network-manager"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "23983",
+	"pname": "network-manager",
+	"pcpe": "cpe:/a:canonical:network-manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "151",
-  "vname": "サイバークリーンセンター",
-  "vcpe": "cpe:/:misc",
-  "pid": "597",
-  "pname": "CCCクリーナー",
-  "pcpe": "cpe:/a:misc:ccc_cleaner"
+	"vid": "151",
+	"vname": "サイバークリーンセンター",
+	"vcpe": "cpe:/:misc",
+	"pid": "597",
+	"pname": "CCCクリーナー",
+	"pcpe": "cpe:/a:misc:ccc_cleaner"
 }

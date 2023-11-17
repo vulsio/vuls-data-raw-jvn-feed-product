@@ -1,8 +1,8 @@
 {
-  "vid": "8049",
-  "vname": "TITAN",
-  "vcpe": "cpe:/:titan",
-  "pid": "15466",
-  "pname": "ftp server",
-  "pcpe": "cpe:/a:titan:ftp_server"
+	"vid": "8049",
+	"vname": "TITAN",
+	"vcpe": "cpe:/:titan",
+	"pid": "15466",
+	"pname": "ftp server",
+	"pcpe": "cpe:/a:titan:ftp_server"
 }

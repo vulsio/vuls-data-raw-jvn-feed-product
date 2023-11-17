@@ -1,8 +1,8 @@
 {
-  "vid": "19694",
-  "vname": "WIN-911 Software",
-  "vcpe": "cpe:/:win911",
-  "pid": "57500",
-  "pname": "WIN-911 2021 R2",
-  "pcpe": "cpe:/a:win911:win-911_2021_r2"
+	"vid": "19694",
+	"vname": "WIN-911 Software",
+	"vcpe": "cpe:/:win911",
+	"pid": "57500",
+	"pname": "WIN-911 2021 R2",
+	"pcpe": "cpe:/a:win911:win-911_2021_r2"
 }

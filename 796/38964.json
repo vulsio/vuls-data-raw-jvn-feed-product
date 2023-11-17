@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "38964",
-  "pname": "WRT1900ACS ファームウェア",
-  "pcpe": "cpe:/o:linksys:wrt1900acs_firmware"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "38964",
+	"pname": "WRT1900ACS ファームウェア",
+	"pcpe": "cpe:/o:linksys:wrt1900acs_firmware"
 }

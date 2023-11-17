@@ -1,8 +1,8 @@
 {
-  "vid": "13980",
-  "vname": "CyberArk Software Ltd.",
-  "vcpe": "cpe:/:cyberark",
-  "pid": "52506",
-  "pname": "identity",
-  "pcpe": "cpe:/a:cyberark:identity"
+	"vid": "13980",
+	"vname": "CyberArk Software Ltd.",
+	"vcpe": "cpe:/:cyberark",
+	"pid": "52506",
+	"pname": "identity",
+	"pcpe": "cpe:/a:cyberark:identity"
 }

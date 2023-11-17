@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "37561",
-  "pname": "QCA8081 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qca8081_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "37561",
+	"pname": "QCA8081 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qca8081_firmware"
 }

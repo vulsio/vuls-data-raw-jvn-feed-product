@@ -1,8 +1,8 @@
 {
-  "vid": "7695",
-  "vname": "Smoothwall",
-  "vcpe": "cpe:/:smoothwall",
-  "pid": "14889",
-  "pname": "networkguardian",
-  "pcpe": "cpe:/a:smoothwall:networkguardian"
+	"vid": "7695",
+	"vname": "Smoothwall",
+	"vcpe": "cpe:/:smoothwall",
+	"pid": "14889",
+	"pname": "networkguardian",
+	"pcpe": "cpe:/a:smoothwall:networkguardian"
 }

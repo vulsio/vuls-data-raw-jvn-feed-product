@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47799",
-  "pname": "Oracle HRMS (France)",
-  "pcpe": "cpe:/a:oracle:human_resource_management_software_for_france"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47799",
+	"pname": "Oracle HRMS (France)",
+	"pcpe": "cpe:/a:oracle:human_resource_management_software_for_france"
 }

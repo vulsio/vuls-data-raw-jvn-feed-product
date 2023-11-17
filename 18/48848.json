@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "48848",
-  "pname": "Automation Workstream Services",
-  "pcpe": "cpe:/a:ibm:automation_workstream_services"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "48848",
+	"pname": "Automation Workstream Services",
+	"pcpe": "cpe:/a:ibm:automation_workstream_services"
 }

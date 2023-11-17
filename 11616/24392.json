@@ -1,8 +1,8 @@
 {
-  "vid": "11616",
-  "vname": "ホスピーラ",
-  "vcpe": "cpe:/:hospira",
-  "pid": "24392",
-  "pname": "LifeCare PCA5",
-  "pcpe": "cpe:/h:hospira:lifecare_pca5"
+	"vid": "11616",
+	"vname": "ホスピーラ",
+	"vcpe": "cpe:/:hospira",
+	"pid": "24392",
+	"pname": "LifeCare PCA5",
+	"pcpe": "cpe:/h:hospira:lifecare_pca5"
 }

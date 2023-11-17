@@ -1,8 +1,8 @@
 {
-  "vid": "24057",
-  "vname": "WP Sentry project",
-  "vcpe": "cpe:/:wp-sentry_project",
-  "pid": "62218",
-  "pname": "WP Sentry",
-  "pcpe": "cpe:/a:wp-sentry_project:wp-sentry"
+	"vid": "24057",
+	"vname": "WP Sentry project",
+	"vcpe": "cpe:/:wp-sentry_project",
+	"pid": "62218",
+	"pname": "WP Sentry",
+	"pcpe": "cpe:/a:wp-sentry_project:wp-sentry"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23624",
-  "vname": "ExactMetrics",
-  "vcpe": "cpe:/:exactmetrics",
-  "pid": "61233",
-  "pname": "ExactMetrics",
-  "pcpe": "cpe:/a:exactmetrics:exactmetrics"
+	"vid": "23624",
+	"vname": "ExactMetrics",
+	"vcpe": "cpe:/:exactmetrics",
+	"pid": "61233",
+	"pname": "ExactMetrics",
+	"pcpe": "cpe:/a:exactmetrics:exactmetrics"
 }

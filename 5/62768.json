@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "62768",
-  "pname": "ipq8072 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:ipq8072_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "62768",
+	"pname": "ipq8072 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:ipq8072_firmware"
 }

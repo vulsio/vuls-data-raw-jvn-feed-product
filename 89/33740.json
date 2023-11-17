@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "33740",
-  "pname": "Aterm W300P ファームウェア",
-  "pcpe": "cpe:/o:nec:aterm_w300p_firmware"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "33740",
+	"pname": "Aterm W300P ファームウェア",
+	"pcpe": "cpe:/o:nec:aterm_w300p_firmware"
 }

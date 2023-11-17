@@ -1,8 +1,8 @@
 {
-  "vid": "1721",
-  "vname": "SolarWinds",
-  "vcpe": "cpe:/:solarwinds",
-  "pid": "58765",
-  "pname": "database performance monitor",
-  "pcpe": "cpe:/a:solarwinds:database_performance_monitor"
+	"vid": "1721",
+	"vname": "SolarWinds",
+	"vcpe": "cpe:/:solarwinds",
+	"pid": "58765",
+	"pname": "database performance monitor",
+	"pcpe": "cpe:/a:solarwinds:database_performance_monitor"
 }

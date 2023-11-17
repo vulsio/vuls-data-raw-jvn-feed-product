@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47824",
-  "pname": "Oracle Landed Cost Management",
-  "pcpe": "cpe:/a:oracle:landed_cost_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47824",
+	"pname": "Oracle Landed Cost Management",
+	"pcpe": "cpe:/a:oracle:landed_cost_management"
 }

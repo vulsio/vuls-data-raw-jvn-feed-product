@@ -1,8 +1,8 @@
 {
-  "vid": "23900",
-  "vname": "tzinfo project",
-  "vcpe": "cpe:/:tzinfo_project",
-  "pid": "61824",
-  "pname": "tzinfo",
-  "pcpe": "cpe:/a:tzinfo_project:tzinfo"
+	"vid": "23900",
+	"vname": "tzinfo project",
+	"vcpe": "cpe:/:tzinfo_project",
+	"pid": "61824",
+	"pname": "tzinfo",
+	"pcpe": "cpe:/a:tzinfo_project:tzinfo"
 }

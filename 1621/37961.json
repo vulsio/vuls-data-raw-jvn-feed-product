@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "37961",
-  "pname": "8810 4G ファームウェア",
-  "pcpe": "cpe:/o:nokia:8810_4g_firmware"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "37961",
+	"pname": "8810 4G ファームウェア",
+	"pcpe": "cpe:/o:nokia:8810_4g_firmware"
 }

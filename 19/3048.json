@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3048",
-  "pname": "Cisco Network Admission Control Manager",
-  "pcpe": "cpe:/a:cisco:nac_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3048",
+	"pname": "Cisco Network Admission Control Manager",
+	"pcpe": "cpe:/a:cisco:nac_manager"
 }

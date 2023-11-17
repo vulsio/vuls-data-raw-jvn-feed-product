@@ -1,8 +1,8 @@
 {
-  "vid": "1818",
-  "vname": "Cloudera, Inc.",
-  "vcpe": "cpe:/:cloudera",
-  "pid": "5056",
-  "pname": "Cloudera CDH",
-  "pcpe": "cpe:/a:cloudera:cloudera_cdh"
+	"vid": "1818",
+	"vname": "Cloudera, Inc.",
+	"vcpe": "cpe:/:cloudera",
+	"pid": "5056",
+	"pname": "Cloudera CDH",
+	"pcpe": "cpe:/a:cloudera:cloudera_cdh"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "16848",
-  "pname": "FLEXLogix 1788-ENBT",
-  "pcpe": "cpe:/h:rockwellautomation:flexlogix_1788-enbt_adapter"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "16848",
+	"pname": "FLEXLogix 1788-ENBT",
+	"pcpe": "cpe:/h:rockwellautomation:flexlogix_1788-enbt_adapter"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12626",
-  "vname": "Codection",
-  "vcpe": "cpe:/:codection",
-  "pid": "36470",
-  "pname": "Import users from CSV with meta",
-  "pcpe": "cpe:/a:codection:import_users_from_csv_with_meta"
+	"vid": "12626",
+	"vname": "Codection",
+	"vcpe": "cpe:/:codection",
+	"pid": "36470",
+	"pname": "Import users from CSV with meta",
+	"pcpe": "cpe:/a:codection:import_users_from_csv_with_meta"
 }

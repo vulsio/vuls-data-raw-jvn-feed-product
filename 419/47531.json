@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "47531",
-  "pname": "StorageGRID",
-  "pcpe": "cpe:/a:netapp:storagegrid"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "47531",
+	"pname": "StorageGRID",
+	"pcpe": "cpe:/a:netapp:storagegrid"
 }

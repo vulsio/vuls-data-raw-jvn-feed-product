@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "2399",
-  "pname": "Interstage Interaction Manager",
-  "pcpe": "cpe:/a:fujitsu:interstage_interaction_manager"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "2399",
+	"pname": "Interstage Interaction Manager",
+	"pcpe": "cpe:/a:fujitsu:interstage_interaction_manager"
 }

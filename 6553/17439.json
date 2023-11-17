@@ -1,8 +1,8 @@
 {
-  "vid": "6553",
-  "vname": "Mutiny Limited",
-  "vcpe": "cpe:/:mutiny",
-  "pid": "17439",
-  "pname": "Mutiny Appliance",
-  "pcpe": "cpe:/h:mutiny:mutiny_appliance"
+	"vid": "6553",
+	"vname": "Mutiny Limited",
+	"vcpe": "cpe:/:mutiny",
+	"pid": "17439",
+	"pname": "Mutiny Appliance",
+	"pcpe": "cpe:/h:mutiny:mutiny_appliance"
 }

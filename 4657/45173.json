@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "45173",
-  "pname": "Tony-AL00B ファームウェア",
-  "pcpe": "cpe:/o:huawei:tony-al00b_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "45173",
+	"pname": "Tony-AL00B ファームウェア",
+	"pcpe": "cpe:/o:huawei:tony-al00b_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1409",
-  "vname": "commodityrentals",
-  "vcpe": "cpe:/:commodityrentals",
-  "pid": "6928",
-  "pname": "trade manager script",
-  "pcpe": "cpe:/a:commodityrentals:trade_manager_script"
+	"vid": "1409",
+	"vname": "commodityrentals",
+	"vcpe": "cpe:/:commodityrentals",
+	"pid": "6928",
+	"pname": "trade manager script",
+	"pcpe": "cpe:/a:commodityrentals:trade_manager_script"
 }

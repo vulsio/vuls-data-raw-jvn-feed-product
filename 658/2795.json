@@ -1,8 +1,8 @@
 {
-  "vid": "658",
-  "vname": "バラクーダネットワークス",
-  "vcpe": "cpe:/:barracuda_networks",
-  "pid": "2795",
-  "pname": "Barracuda Web Filter",
-  "pcpe": "cpe:/h:barracuda_networks:barracuda_web_filter"
+	"vid": "658",
+	"vname": "バラクーダネットワークス",
+	"vcpe": "cpe:/:barracuda_networks",
+	"pid": "2795",
+	"pname": "Barracuda Web Filter",
+	"pcpe": "cpe:/h:barracuda_networks:barracuda_web_filter"
 }

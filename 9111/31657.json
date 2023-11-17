@@ -1,8 +1,8 @@
 {
-  "vid": "9111",
-  "vname": "Dahua Technology Co., Ltd",
-  "vcpe": "cpe:/:dahuasecurity",
-  "pid": "31657",
-  "pname": "DH-SD4XXXXX ファームウェア",
-  "pcpe": "cpe:/o:dahuasecurity:dh-sd4xxxxx_firmware"
+	"vid": "9111",
+	"vname": "Dahua Technology Co., Ltd",
+	"vcpe": "cpe:/:dahuasecurity",
+	"pid": "31657",
+	"pname": "DH-SD4XXXXX ファームウェア",
+	"pcpe": "cpe:/o:dahuasecurity:dh-sd4xxxxx_firmware"
 }

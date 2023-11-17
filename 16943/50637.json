@@ -1,8 +1,8 @@
 {
-  "vid": "16943",
-  "vname": "wp-buy",
-  "vcpe": "cpe:/:wp-buy",
-  "pid": "50637",
-  "pname": "WP Content Copy Protection & No Right Click",
-  "pcpe": "cpe:/a:wp-buy:wp_content_copy_protection_%26_no_right_click"
+	"vid": "16943",
+	"vname": "wp-buy",
+	"vcpe": "cpe:/:wp-buy",
+	"pid": "50637",
+	"pname": "WP Content Copy Protection & No Right Click",
+	"pcpe": "cpe:/a:wp-buy:wp_content_copy_protection_%26_no_right_click"
 }

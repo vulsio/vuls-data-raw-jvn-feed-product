@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "51864",
-  "pname": "Helidon",
-  "pcpe": "cpe:/a:oracle:helidon"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "51864",
+	"pname": "Helidon",
+	"pcpe": "cpe:/a:oracle:helidon"
 }

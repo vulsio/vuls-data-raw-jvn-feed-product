@@ -1,8 +1,8 @@
 {
-  "vid": "18478",
-  "vname": "Rittal",
-  "vcpe": "cpe:/:rittal",
-  "pid": "45552",
-  "pname": "CMC III PU 7030.000 ファームウェア",
-  "pcpe": "cpe:/o:rittal:cmc_iii_pu_7030.000_firmware"
+	"vid": "18478",
+	"vname": "Rittal",
+	"vcpe": "cpe:/:rittal",
+	"pid": "45552",
+	"pname": "CMC III PU 7030.000 ファームウェア",
+	"pcpe": "cpe:/o:rittal:cmc_iii_pu_7030.000_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8636",
-  "vname": "xmb software",
-  "vcpe": "cpe:/:xmb_software",
-  "pid": "16358",
-  "pname": "u2u instant messenger",
-  "pcpe": "cpe:/a:xmb_software:u2u_instant_messenger"
+	"vid": "8636",
+	"vname": "xmb software",
+	"vcpe": "cpe:/:xmb_software",
+	"pid": "16358",
+	"pname": "u2u instant messenger",
+	"pcpe": "cpe:/a:xmb_software:u2u_instant_messenger"
 }

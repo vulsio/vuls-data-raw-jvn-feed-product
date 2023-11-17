@@ -1,8 +1,8 @@
 {
-  "vid": "13550",
-  "vname": "Omniscale GmbH & Co.",
-  "vcpe": "cpe:/:mapproxy",
-  "pid": "32052",
-  "pname": "MapProxy",
-  "pcpe": "cpe:/a:mapproxy:mapproxy"
+	"vid": "13550",
+	"vname": "Omniscale GmbH & Co.",
+	"vcpe": "cpe:/:mapproxy",
+	"pid": "32052",
+	"pname": "MapProxy",
+	"pcpe": "cpe:/a:mapproxy:mapproxy"
 }

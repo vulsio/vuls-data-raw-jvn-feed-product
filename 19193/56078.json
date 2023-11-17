@@ -1,8 +1,8 @@
 {
-  "vid": "19193",
-  "vname": "Gorilla Web Toolkit",
-  "vcpe": "cpe:/:gorillatoolkit",
-  "pid": "56078",
-  "pname": "handlers",
-  "pcpe": "cpe:/a:gorillatoolkit:handlers"
+	"vid": "19193",
+	"vname": "Gorilla Web Toolkit",
+	"vcpe": "cpe:/:gorillatoolkit",
+	"pid": "56078",
+	"pname": "handlers",
+	"pcpe": "cpe:/a:gorillatoolkit:handlers"
 }

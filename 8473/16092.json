@@ -1,8 +1,8 @@
 {
-  "vid": "8473",
-  "vname": "webmplayer",
-  "vcpe": "cpe:/:webmplayer",
-  "pid": "16092",
-  "pname": "webmplayer",
-  "pcpe": "cpe:/a:webmplayer:webmplayer"
+	"vid": "8473",
+	"vname": "webmplayer",
+	"vcpe": "cpe:/:webmplayer",
+	"pid": "16092",
+	"pname": "webmplayer",
+	"pcpe": "cpe:/a:webmplayer:webmplayer"
 }

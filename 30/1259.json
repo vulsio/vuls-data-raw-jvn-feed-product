@@ -1,8 +1,8 @@
 {
-  "vid": "30",
-  "vname": "ターボリナックス",
-  "vcpe": "cpe:/:turbolinux",
-  "pid": "1259",
-  "pname": "Turbolinux Server",
-  "pcpe": "cpe:/o:turbolinux:turbolinux_server"
+	"vid": "30",
+	"vname": "ターボリナックス",
+	"vcpe": "cpe:/:turbolinux",
+	"pid": "1259",
+	"pname": "Turbolinux Server",
+	"pcpe": "cpe:/o:turbolinux:turbolinux_server"
 }

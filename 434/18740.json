@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "18740",
-  "pname": "EMC Document Sciences xPression",
-  "pcpe": "cpe:/a:emc:document_sciences_xpression"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "18740",
+	"pname": "EMC Document Sciences xPression",
+	"pcpe": "cpe:/a:emc:document_sciences_xpression"
 }

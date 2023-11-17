@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56872",
-  "pname": "GS1920-24V2 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:gs1920-24v2_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56872",
+	"pname": "GS1920-24V2 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:gs1920-24v2_firmware"
 }

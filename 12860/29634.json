@@ -1,8 +1,8 @@
 {
-  "vid": "12860",
-  "vname": "Marel",
-  "vcpe": "cpe:/:marel",
-  "pid": "29634",
-  "pname": "A520 Slave ファームウェア",
-  "pcpe": "cpe:/o:marel:a520_slave_firmware"
+	"vid": "12860",
+	"vname": "Marel",
+	"vcpe": "cpe:/:marel",
+	"pid": "29634",
+	"pname": "A520 Slave ファームウェア",
+	"pcpe": "cpe:/o:marel:a520_slave_firmware"
 }

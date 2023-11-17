@@ -1,8 +1,8 @@
 {
-  "vid": "14678",
-  "vname": "HCL Technologies Limited",
-  "vcpe": "cpe:/:hcltech",
-  "pid": "43542",
-  "pname": "Self-Service Application",
-  "pcpe": "cpe:/a:hcltech:self-service_application"
+	"vid": "14678",
+	"vname": "HCL Technologies Limited",
+	"vcpe": "cpe:/:hcltech",
+	"pid": "43542",
+	"pname": "Self-Service Application",
+	"pcpe": "cpe:/a:hcltech:self-service_application"
 }

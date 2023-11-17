@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "45827",
-  "pname": "Spring Integration",
-  "pcpe": "cpe:/a:vmware:spring_integration"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "45827",
+	"pname": "Spring Integration",
+	"pcpe": "cpe:/a:vmware:spring_integration"
 }

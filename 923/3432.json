@@ -1,8 +1,8 @@
 {
-  "vid": "923",
-  "vname": "Dream Property GmbH",
-  "vcpe": "cpe:/:dream-multimedia-tv",
-  "pid": "3432",
-  "pname": "DM800 HD PVR firmware",
-  "pcpe": "cpe:/a:dream-multimedia-tv:dreambox_dm800_hd_pvr_firmware"
+	"vid": "923",
+	"vname": "Dream Property GmbH",
+	"vcpe": "cpe:/:dream-multimedia-tv",
+	"pid": "3432",
+	"pname": "DM800 HD PVR firmware",
+	"pcpe": "cpe:/a:dream-multimedia-tv:dreambox_dm800_hd_pvr_firmware"
 }

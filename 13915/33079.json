@@ -1,8 +1,8 @@
 {
-  "vid": "13915",
-  "vname": "DocuTrac INC.",
-  "vcpe": "cpe:/:docutracinc",
-  "pid": "33079",
-  "pname": "DTISQLInstaller",
-  "pcpe": "cpe:/a:docutracinc:dtisqlinstaller"
+	"vid": "13915",
+	"vname": "DocuTrac INC.",
+	"vcpe": "cpe:/:docutracinc",
+	"pid": "33079",
+	"pname": "DTISQLInstaller",
+	"pcpe": "cpe:/a:docutracinc:dtisqlinstaller"
 }

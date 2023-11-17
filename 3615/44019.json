@@ -1,8 +1,8 @@
 {
-  "vid": "3615",
-  "vname": "eZ",
-  "vcpe": "cpe:/:ez",
-  "pid": "44019",
-  "pname": "eZ Publish Kernel",
-  "pcpe": "cpe:/a:ez:ez_publish-kernel"
+	"vid": "3615",
+	"vname": "eZ",
+	"vcpe": "cpe:/:ez",
+	"pid": "44019",
+	"pname": "eZ Publish Kernel",
+	"pcpe": "cpe:/a:ez:ez_publish-kernel"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "9164",
-  "pname": "Cisco Aironet 1260 シリーズ",
-  "pcpe": "cpe:/h:cisco:aironet_1260"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "9164",
+	"pname": "Cisco Aironet 1260 シリーズ",
+	"pcpe": "cpe:/h:cisco:aironet_1260"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "53704",
-  "pname": "MiniMed 630G MMT-1715",
-  "pcpe": "cpe:/o:medtronic:minimed_630g_mmt-1715"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "53704",
+	"pname": "MiniMed 630G MMT-1715",
+	"pcpe": "cpe:/o:medtronic:minimed_630g_mmt-1715"
 }

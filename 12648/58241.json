@@ -1,8 +1,8 @@
 {
-  "vid": "12648",
-  "vname": "Shopware AG",
-  "vcpe": "cpe:/:shopware",
-  "pid": "58241",
-  "pname": "b2b suite",
-  "pcpe": "cpe:/a:shopware:b2b_suite"
+	"vid": "12648",
+	"vname": "Shopware AG",
+	"vcpe": "cpe:/:shopware",
+	"pid": "58241",
+	"pname": "b2b suite",
+	"pcpe": "cpe:/a:shopware:b2b_suite"
 }

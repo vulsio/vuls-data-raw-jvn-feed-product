@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "38045",
-  "pname": "Moments",
-  "pcpe": "cpe:/a:synology:moments"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "38045",
+	"pname": "Moments",
+	"pcpe": "cpe:/a:synology:moments"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1007",
-  "vname": "DMXReady",
-  "vcpe": "cpe:/:dmxready",
-  "pid": "7403",
-  "pname": "secure document library",
-  "pcpe": "cpe:/a:dmxready:secure_document_library"
+	"vid": "1007",
+	"vname": "DMXReady",
+	"vcpe": "cpe:/:dmxready",
+	"pid": "7403",
+	"pname": "secure document library",
+	"pcpe": "cpe:/a:dmxready:secure_document_library"
 }

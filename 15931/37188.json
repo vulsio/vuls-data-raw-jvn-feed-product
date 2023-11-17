@@ -1,8 +1,8 @@
 {
-  "vid": "15931",
-  "vname": "LabKey",
-  "vcpe": "cpe:/:labkey",
-  "pid": "37188",
-  "pname": "LabKey Server",
-  "pcpe": "cpe:/a:labkey:labkey_server"
+	"vid": "15931",
+	"vname": "LabKey",
+	"vcpe": "cpe:/:labkey",
+	"pid": "37188",
+	"pname": "LabKey Server",
+	"pcpe": "cpe:/a:labkey:labkey_server"
 }

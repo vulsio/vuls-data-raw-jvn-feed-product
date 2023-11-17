@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "16983",
-  "pname": "Cisco Small Business 200 シリーズ スマート スイッチ ソフトウェア",
-  "pcpe": "cpe:/a:cisco:200_series_smart_switches_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "16983",
+	"pname": "Cisco Small Business 200 シリーズ スマート スイッチ ソフトウェア",
+	"pcpe": "cpe:/a:cisco:200_series_smart_switches_software"
 }

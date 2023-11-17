@@ -1,8 +1,8 @@
 {
-  "vid": "6442",
-  "vname": "visnetic",
-  "vcpe": "cpe:/:visnetic",
-  "pid": "12717",
-  "pname": "visnetic antivirus plug-in for mail server",
-  "pcpe": "cpe:/a:visnetic:visnetic_antivirus_plug-in_for_mail_server"
+	"vid": "6442",
+	"vname": "visnetic",
+	"vcpe": "cpe:/:visnetic",
+	"pid": "12717",
+	"pname": "visnetic antivirus plug-in for mail server",
+	"pcpe": "cpe:/a:visnetic:visnetic_antivirus_plug-in_for_mail_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21437",
-  "vname": "zeroize_derive project",
-  "vcpe": "cpe:/:zeroize_derive_project",
-  "pid": "55051",
-  "pname": "zeroize_derive",
-  "pcpe": "cpe:/a:zeroize_derive_project:zeroize_derive"
+	"vid": "21437",
+	"vname": "zeroize_derive project",
+	"vcpe": "cpe:/:zeroize_derive_project",
+	"pid": "55051",
+	"pname": "zeroize_derive",
+	"pcpe": "cpe:/a:zeroize_derive_project:zeroize_derive"
 }

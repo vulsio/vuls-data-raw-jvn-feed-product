@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "49678",
-  "pname": "NetApp HCI Compute Node ファームウェア",
-  "pcpe": "cpe:/o:netapp:hci_compute_node_firmware"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "49678",
+	"pname": "NetApp HCI Compute Node ファームウェア",
+	"pcpe": "cpe:/o:netapp:hci_compute_node_firmware"
 }

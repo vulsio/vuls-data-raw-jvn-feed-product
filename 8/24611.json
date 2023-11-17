@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "24611",
-  "pname": "Apache Groovy",
-  "pcpe": "cpe:/a:apache:groovy"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "24611",
+	"pname": "Apache Groovy",
+	"pcpe": "cpe:/a:apache:groovy"
 }

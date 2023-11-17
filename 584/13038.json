@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "13038",
-  "pname": "SIMATIC S7-1200 マイクロ PLC",
-  "pcpe": "cpe:/h:siemens:simatic_s7-1200_plc"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "13038",
+	"pname": "SIMATIC S7-1200 マイクロ PLC",
+	"pcpe": "cpe:/h:siemens:simatic_s7-1200_plc"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12612",
-  "vname": "SmartBear Software",
-  "vcpe": "cpe:/:smartbear",
-  "pid": "49169",
-  "pname": "Collaborator",
-  "pcpe": "cpe:/a:smartbear:collaborator"
+	"vid": "12612",
+	"vname": "SmartBear Software",
+	"vcpe": "cpe:/:smartbear",
+	"pid": "49169",
+	"pname": "Collaborator",
+	"pcpe": "cpe:/a:smartbear:collaborator"
 }

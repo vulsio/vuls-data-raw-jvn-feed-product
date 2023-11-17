@@ -1,8 +1,8 @@
 {
-  "vid": "13045",
-  "vname": "git-annex project",
-  "vcpe": "cpe:/:git-annex_project",
-  "pid": "30349",
-  "pname": "git-annex",
-  "pcpe": "cpe:/a:git-annex_project:git-annex"
+	"vid": "13045",
+	"vname": "git-annex project",
+	"vcpe": "cpe:/:git-annex_project",
+	"pid": "30349",
+	"pname": "git-annex",
+	"pcpe": "cpe:/a:git-annex_project:git-annex"
 }

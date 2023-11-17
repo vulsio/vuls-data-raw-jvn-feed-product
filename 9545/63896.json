@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "63896",
-  "pname": "backstage catalog-model",
-  "pcpe": "cpe:/a:linuxfoundation:backstage_catalog-model"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "63896",
+	"pname": "backstage catalog-model",
+	"pcpe": "cpe:/a:linuxfoundation:backstage_catalog-model"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "19457",
-  "pname": "SUSE LINUX",
-  "pcpe": "cpe:/o:suse:suse_linux"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "19457",
+	"pname": "SUSE LINUX",
+	"pcpe": "cpe:/o:suse:suse_linux"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23691",
-  "pname": "HP USB Standard Duty Cash Drawer (E8E45AA)",
-  "pcpe": "cpe:/h:hp:usb_standard_duty_cash_drawer_e8e45aa"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23691",
+	"pname": "HP USB Standard Duty Cash Drawer (E8E45AA)",
+	"pcpe": "cpe:/h:hp:usb_standard_duty_cash_drawer_e8e45aa"
 }

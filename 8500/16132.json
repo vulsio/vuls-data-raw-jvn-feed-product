@@ -1,8 +1,8 @@
 {
-  "vid": "8500",
-  "vname": "wesnoth",
-  "vcpe": "cpe:/:wesnoth",
-  "pid": "16132",
-  "pname": "Wesnoth",
-  "pcpe": "cpe:/a:wesnoth:wesnoth"
+	"vid": "8500",
+	"vname": "wesnoth",
+	"vcpe": "cpe:/:wesnoth",
+	"pid": "16132",
+	"pname": "Wesnoth",
+	"pcpe": "cpe:/a:wesnoth:wesnoth"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15362",
-  "vname": "Micron Technology, Inc.",
-  "vcpe": "cpe:/:micron",
-  "pid": "35676",
-  "pname": "Crucial (Micron) MX100 ドライブ",
-  "pcpe": "cpe:/a:micron:crucial_mx100_firmware"
+	"vid": "15362",
+	"vname": "Micron Technology, Inc.",
+	"vcpe": "cpe:/:micron",
+	"pid": "35676",
+	"pname": "Crucial (Micron) MX100 ドライブ",
+	"pcpe": "cpe:/a:micron:crucial_mx100_firmware"
 }

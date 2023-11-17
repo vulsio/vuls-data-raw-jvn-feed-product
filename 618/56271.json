@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "56271",
-  "pname": "DeviceOn/iEdge",
-  "pcpe": "cpe:/a:advantech:deviceon%2fiedge"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "56271",
+	"pname": "DeviceOn/iEdge",
+	"pcpe": "cpe:/a:advantech:deviceon%2fiedge"
 }

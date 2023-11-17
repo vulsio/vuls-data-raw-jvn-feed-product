@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "42044",
-  "pname": "CD18-10 ファームウェア",
-  "pcpe": "cpe:/o:huawei:cd18-10_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "42044",
+	"pname": "CD18-10 ファームウェア",
+	"pcpe": "cpe:/o:huawei:cd18-10_firmware"
 }

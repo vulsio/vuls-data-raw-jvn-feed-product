@@ -1,8 +1,8 @@
 {
-  "vid": "2849",
-  "vname": "Clavister AB",
-  "vcpe": "cpe:/:clavister",
-  "pid": "35829",
-  "pname": "cOS Core",
-  "pcpe": "cpe:/a:clavister:cos_core"
+	"vid": "2849",
+	"vname": "Clavister AB",
+	"vcpe": "cpe:/:clavister",
+	"pid": "35829",
+	"pname": "cOS Core",
+	"pcpe": "cpe:/a:clavister:cos_core"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "18421",
-  "pname": "iDRAC7",
-  "pcpe": "cpe:/h:dell:idrac7"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "18421",
+	"pname": "iDRAC7",
+	"pcpe": "cpe:/h:dell:idrac7"
 }

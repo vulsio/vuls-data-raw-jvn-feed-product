@@ -1,8 +1,8 @@
 {
-  "vid": "6778",
-  "vname": "phpbb-seo",
-  "vcpe": "cpe:/:phpbb-seo",
-  "pid": "13593",
-  "pname": "multi seo phpbb",
-  "pcpe": "cpe:/a:phpbb-seo:multi_seo_phpbb"
+	"vid": "6778",
+	"vname": "phpbb-seo",
+	"vcpe": "cpe:/:phpbb-seo",
+	"pid": "13593",
+	"pname": "multi seo phpbb",
+	"pcpe": "cpe:/a:phpbb-seo:multi_seo_phpbb"
 }

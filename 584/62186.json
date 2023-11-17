@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "62186",
-  "pname": "scalance xc206-2sfp g ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_xc206-2sfp_g_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "62186",
+	"pname": "scalance xc206-2sfp g ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_xc206-2sfp_g_firmware"
 }

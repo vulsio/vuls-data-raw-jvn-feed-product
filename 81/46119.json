@@ -1,8 +1,8 @@
 {
-  "vid": "81",
-  "vname": "Python Software Foundation",
-  "vcpe": "cpe:/:python",
-  "pid": "46119",
-  "pname": "openapi-python-client",
-  "pcpe": "cpe:/a:python:openapi-python-client"
+	"vid": "81",
+	"vname": "Python Software Foundation",
+	"vcpe": "cpe:/:python",
+	"pid": "46119",
+	"pname": "openapi-python-client",
+	"pcpe": "cpe:/a:python:openapi-python-client"
 }

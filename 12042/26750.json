@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26750",
-  "pname": "IceWall SSO",
-  "pcpe": "cpe:/a:hp:icewall_sso"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26750",
+	"pname": "IceWall SSO",
+	"pcpe": "cpe:/a:hp:icewall_sso"
 }

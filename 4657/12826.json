@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "12826",
-  "pname": "versatile routing platform",
-  "pcpe": "cpe:/h:huawei:versatile_routing_platform"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "12826",
+	"pname": "versatile routing platform",
+	"pcpe": "cpe:/h:huawei:versatile_routing_platform"
 }

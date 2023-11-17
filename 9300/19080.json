@@ -1,8 +1,8 @@
 {
-  "vid": "9300",
-  "vname": "fatfreecrm.com",
-  "vcpe": "cpe:/:fatfreecrm",
-  "pid": "19080",
-  "pname": "Fat Free CRM",
-  "pcpe": "cpe:/a:fatfreecrm:fat_free_crm"
+	"vid": "9300",
+	"vname": "fatfreecrm.com",
+	"vcpe": "cpe:/:fatfreecrm",
+	"pid": "19080",
+	"pname": "Fat Free CRM",
+	"pcpe": "cpe:/a:fatfreecrm:fat_free_crm"
 }

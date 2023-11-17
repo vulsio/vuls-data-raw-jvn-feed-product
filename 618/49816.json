@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "49816",
-  "pname": "Spectre RT ERT351 ファームウェア",
-  "pcpe": "cpe:/o:advantech:spectre_rt_ert351_firmware"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "49816",
+	"pname": "Spectre RT ERT351 ファームウェア",
+	"pcpe": "cpe:/o:advantech:spectre_rt_ert351_firmware"
 }

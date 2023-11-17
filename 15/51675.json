@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "51675",
-  "pname": "Oracle Retail Advanced Inventory Planning",
-  "pcpe": "cpe:/a:oracle:retail_advanced_inventory_planning"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "51675",
+	"pname": "Oracle Retail Advanced Inventory Planning",
+	"pcpe": "cpe:/a:oracle:retail_advanced_inventory_planning"
 }

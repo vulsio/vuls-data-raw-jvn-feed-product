@@ -1,8 +1,8 @@
 {
-  "vid": "3096",
-  "vname": "datadynamics",
-  "vcpe": "cpe:/:datadynamics",
-  "pid": "7163",
-  "pname": "activereports",
-  "pcpe": "cpe:/a:datadynamics:activereports"
+	"vid": "3096",
+	"vname": "datadynamics",
+	"vcpe": "cpe:/:datadynamics",
+	"pid": "7163",
+	"pname": "activereports",
+	"pcpe": "cpe:/a:datadynamics:activereports"
 }

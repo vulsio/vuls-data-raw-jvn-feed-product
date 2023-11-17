@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18909",
-  "pname": "Cisco Scientific Atlanta DPW941 Wireless Ethernet Adapter",
-  "pcpe": "cpe:/h:cisco:scientific_atlanta_dpw941"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18909",
+	"pname": "Cisco Scientific Atlanta DPW941 Wireless Ethernet Adapter",
+	"pcpe": "cpe:/h:cisco:scientific_atlanta_dpw941"
 }

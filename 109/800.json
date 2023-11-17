@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "800",
-  "pname": "VoIPゲートウェイ GeoStreamSi-Vシリーズ",
-  "pcpe": "cpe:/h:fujitsu:geostreamsi-v"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "800",
+	"pname": "VoIPゲートウェイ GeoStreamSi-Vシリーズ",
+	"pcpe": "cpe:/h:fujitsu:geostreamsi-v"
 }

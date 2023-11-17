@@ -1,8 +1,8 @@
 {
-  "vid": "10014",
-  "vname": "BMF Apps",
-  "vcpe": "cpe:/:bmfapps",
-  "pid": "21023",
-  "pname": "Free eBooks (needs Kindle App)",
-  "pcpe": "cpe:/a:bmfapps:free_ebooks"
+	"vid": "10014",
+	"vname": "BMF Apps",
+	"vcpe": "cpe:/:bmfapps",
+	"pid": "21023",
+	"pname": "Free eBooks (needs Kindle App)",
+	"pcpe": "cpe:/a:bmfapps:free_ebooks"
 }

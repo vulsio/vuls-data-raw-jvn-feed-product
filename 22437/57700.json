@@ -1,8 +1,8 @@
 {
-  "vid": "22437",
-  "vname": "cedargate",
-  "vcpe": "cpe:/:cedargate",
-  "pid": "57700",
-  "pname": "ez-net portal",
-  "pcpe": "cpe:/a:cedargate:ez-net_portal"
+	"vid": "22437",
+	"vname": "cedargate",
+	"vcpe": "cpe:/:cedargate",
+	"pid": "57700",
+	"pname": "ez-net portal",
+	"pcpe": "cpe:/a:cedargate:ez-net_portal"
 }

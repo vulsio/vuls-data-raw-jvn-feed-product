@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "56647",
-  "pname": "IBM Db2 Mirror for i",
-  "pcpe": "cpe:/a:ibm:db2_mirror_for_i"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "56647",
+	"pname": "IBM Db2 Mirror for i",
+	"pcpe": "cpe:/a:ibm:db2_mirror_for_i"
 }

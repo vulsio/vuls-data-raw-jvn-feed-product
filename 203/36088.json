@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "36088",
-  "pname": "RICOH MP C6503 Plus ファームウェア",
-  "pcpe": "cpe:/o:ricoh:mp_c6503_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "36088",
+	"pname": "RICOH MP C6503 Plus ファームウェア",
+	"pcpe": "cpe:/o:ricoh:mp_c6503_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "3203",
-  "pname": "JP1/IT Service Level Management",
-  "pcpe": "cpe:/a:hitachi:jp1_it_service_level_management"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "3203",
+	"pname": "JP1/IT Service Level Management",
+	"pcpe": "cpe:/a:hitachi:jp1_it_service_level_management"
 }

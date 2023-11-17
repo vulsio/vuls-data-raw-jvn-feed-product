@@ -1,8 +1,8 @@
 {
-  "vid": "7937",
-  "vname": "telecom italy",
-  "vcpe": "cpe:/:telecom_italy",
-  "pid": "15323",
-  "pname": "alice messenger",
-  "pcpe": "cpe:/a:telecom_italy:alice_messenger"
+	"vid": "7937",
+	"vname": "telecom italy",
+	"vcpe": "cpe:/:telecom_italy",
+	"pid": "15323",
+	"pname": "alice messenger",
+	"pcpe": "cpe:/a:telecom_italy:alice_messenger"
 }

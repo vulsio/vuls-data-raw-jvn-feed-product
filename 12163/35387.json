@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "35387",
-  "pname": "SSH Slaves",
-  "pcpe": "cpe:/a:jenkins:ssh_slaves"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "35387",
+	"pname": "SSH Slaves",
+	"pcpe": "cpe:/a:jenkins:ssh_slaves"
 }

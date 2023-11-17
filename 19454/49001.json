@@ -1,8 +1,8 @@
 {
-  "vid": "19454",
-  "vname": "bumpalo project",
-  "vcpe": "cpe:/:bumpalo_project",
-  "pid": "49001",
-  "pname": "bumpalo",
-  "pcpe": "cpe:/a:bumpalo_project:bumpalo"
+	"vid": "19454",
+	"vname": "bumpalo project",
+	"vcpe": "cpe:/:bumpalo_project",
+	"pid": "49001",
+	"pname": "bumpalo",
+	"pcpe": "cpe:/a:bumpalo_project:bumpalo"
 }

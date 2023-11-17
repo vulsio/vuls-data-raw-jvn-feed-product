@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18886",
-  "pname": "Cisco Scientific Atlanta DPC/EPC3212 VoIP Cable Modem",
-  "pcpe": "cpe:/h:cisco:scientific_atlanta_dpc%2fepc3212"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18886",
+	"pname": "Cisco Scientific Atlanta DPC/EPC3212 VoIP Cable Modem",
+	"pcpe": "cpe:/h:cisco:scientific_atlanta_dpc%2fepc3212"
 }

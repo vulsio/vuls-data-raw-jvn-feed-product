@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "17437",
-  "pname": "TIBCO Silver Mobile",
-  "pcpe": "cpe:/a:tibco:silver_mobile"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "17437",
+	"pname": "TIBCO Silver Mobile",
+	"pcpe": "cpe:/a:tibco:silver_mobile"
 }

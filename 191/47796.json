@@ -1,8 +1,8 @@
 {
-  "vid": "191",
-  "vname": "Opera Software ASA",
-  "vcpe": "cpe:/:opera",
-  "pid": "47796",
-  "pname": "Opera Touch",
-  "pcpe": "cpe:/a:opera:opera_touch"
+	"vid": "191",
+	"vname": "Opera Software ASA",
+	"vcpe": "cpe:/:opera",
+	"pid": "47796",
+	"pname": "Opera Touch",
+	"pcpe": "cpe:/a:opera:opera_touch"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "32661",
-  "pname": "Avaya Aura",
-  "pcpe": "cpe:/a:avaya:aura"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "32661",
+	"pname": "Avaya Aura",
+	"pcpe": "cpe:/a:avaya:aura"
 }

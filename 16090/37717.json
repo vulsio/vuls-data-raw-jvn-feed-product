@@ -1,8 +1,8 @@
 {
-  "vid": "16090",
-  "vname": "Invision Community",
-  "vcpe": "cpe:/:invisioncommunity",
-  "pid": "37717",
-  "pname": "Invision Power Board",
-  "pcpe": "cpe:/a:invisioncommunity:invision_power_board"
+	"vid": "16090",
+	"vname": "Invision Community",
+	"vcpe": "cpe:/:invisioncommunity",
+	"pid": "37717",
+	"pname": "Invision Power Board",
+	"pcpe": "cpe:/a:invisioncommunity:invision_power_board"
 }

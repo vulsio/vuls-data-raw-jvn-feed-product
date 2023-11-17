@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "25806",
-  "pname": "HP Z240 Tower Workstation ファームウェア",
-  "pcpe": "cpe:/o:hp:z240_tower_workstation_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "25806",
+	"pname": "HP Z240 Tower Workstation ファームウェア",
+	"pcpe": "cpe:/o:hp:z240_tower_workstation_firmware"
 }

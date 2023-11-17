@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "26468",
-  "pname": "Symantec Protection Engine",
-  "pcpe": "cpe:/a:symantec:protection_engine"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "26468",
+	"pname": "Symantec Protection Engine",
+	"pcpe": "cpe:/a:symantec:protection_engine"
 }

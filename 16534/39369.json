@@ -1,8 +1,8 @@
 {
-  "vid": "16534",
-  "vname": "draw.io",
-  "vcpe": "cpe:/:draw",
-  "pid": "39369",
-  "pname": "draw.io Diagrams",
-  "pcpe": "cpe:/a:draw:draw.io_diagrams"
+	"vid": "16534",
+	"vname": "draw.io",
+	"vcpe": "cpe:/:draw",
+	"pid": "39369",
+	"pname": "draw.io Diagrams",
+	"pcpe": "cpe:/a:draw:draw.io_diagrams"
 }

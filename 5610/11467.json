@@ -1,8 +1,8 @@
 {
-  "vid": "5610",
-  "vname": "mgi software",
-  "vcpe": "cpe:/:mgi_software",
-  "pid": "11467",
-  "pname": "lpviewer",
-  "pcpe": "cpe:/a:mgi_software:lpviewer"
+	"vid": "5610",
+	"vname": "mgi software",
+	"vcpe": "cpe:/:mgi_software",
+	"pid": "11467",
+	"pname": "lpviewer",
+	"pcpe": "cpe:/a:mgi_software:lpviewer"
 }

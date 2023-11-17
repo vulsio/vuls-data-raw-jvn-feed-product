@@ -1,8 +1,8 @@
 {
-  "vid": "284",
-  "vname": "CVS",
-  "vcpe": "cpe:/:cvs",
-  "pid": "1038",
-  "pname": "CVS",
-  "pcpe": "cpe:/a:cvs:cvs"
+	"vid": "284",
+	"vname": "CVS",
+	"vcpe": "cpe:/:cvs",
+	"pid": "1038",
+	"pname": "CVS",
+	"pcpe": "cpe:/a:cvs:cvs"
 }

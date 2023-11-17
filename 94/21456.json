@@ -1,8 +1,8 @@
 {
-  "vid": "94",
-  "vname": "Joomla!",
-  "vcpe": "cpe:/:joomla",
-  "pid": "21456",
-  "pname": "JChatSocial",
-  "pcpe": "cpe:/a:joomla:jchatsocial_component"
+	"vid": "94",
+	"vname": "Joomla!",
+	"vcpe": "cpe:/:joomla",
+	"pid": "21456",
+	"pname": "JChatSocial",
+	"pcpe": "cpe:/a:joomla:jchatsocial_component"
 }

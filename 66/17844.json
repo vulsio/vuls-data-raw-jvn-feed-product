@@ -1,8 +1,8 @@
 {
-  "vid": "66",
-  "vname": "XOOPS",
-  "vcpe": "cpe:/:xoops",
-  "pid": "17844",
-  "pname": "XM-Memberstats",
-  "pcpe": "cpe:/a:xoops:xm_memberstats"
+	"vid": "66",
+	"vname": "XOOPS",
+	"vcpe": "cpe:/:xoops",
+	"pid": "17844",
+	"pname": "XM-Memberstats",
+	"pcpe": "cpe:/a:xoops:xm_memberstats"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14678",
-  "vname": "HCL Technologies Limited",
-  "vcpe": "cpe:/:hcltech",
-  "pid": "43315",
-  "pname": "AppScan",
-  "pcpe": "cpe:/a:hcltech:appscan"
+	"vid": "14678",
+	"vname": "HCL Technologies Limited",
+	"vcpe": "cpe:/:hcltech",
+	"pid": "43315",
+	"pname": "AppScan",
+	"pcpe": "cpe:/a:hcltech:appscan"
 }

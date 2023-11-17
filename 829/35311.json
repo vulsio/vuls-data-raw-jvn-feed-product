@@ -1,8 +1,8 @@
 {
-  "vid": "829",
-  "vname": "MyBB Group",
-  "vcpe": "cpe:/:mybb",
-  "pid": "35311",
-  "pname": "New Threads",
-  "pcpe": "cpe:/a:mybb:new_threads"
+	"vid": "829",
+	"vname": "MyBB Group",
+	"vcpe": "cpe:/:mybb",
+	"pid": "35311",
+	"pname": "New Threads",
+	"pcpe": "cpe:/a:mybb:new_threads"
 }

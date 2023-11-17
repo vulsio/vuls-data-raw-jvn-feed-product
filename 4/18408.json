@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18408",
-  "pname": "HP IceWall SSO エージェントオプション",
-  "pcpe": "cpe:/a:hp:icewall_sso_agent_option"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18408",
+	"pname": "HP IceWall SSO エージェントオプション",
+	"pcpe": "cpe:/a:hp:icewall_sso_agent_option"
 }

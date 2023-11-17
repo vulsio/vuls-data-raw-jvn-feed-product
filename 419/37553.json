@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "37553",
-  "pname": "Baseboard Management Controller",
-  "pcpe": "cpe:/a:netapp:fas%2faff_baseboard_management_controller"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "37553",
+	"pname": "Baseboard Management Controller",
+	"pcpe": "cpe:/a:netapp:fas%2faff_baseboard_management_controller"
 }

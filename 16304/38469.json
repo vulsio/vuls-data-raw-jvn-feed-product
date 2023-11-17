@@ -1,8 +1,8 @@
 {
-  "vid": "16304",
-  "vname": "Polaris",
-  "vcpe": "cpe:/:polarisft",
-  "pid": "38469",
-  "pname": "Intellect Core Banking",
-  "pcpe": "cpe:/a:polarisft:intellect_core_banking"
+	"vid": "16304",
+	"vname": "Polaris",
+	"vcpe": "cpe:/:polarisft",
+	"pid": "38469",
+	"pname": "Intellect Core Banking",
+	"pcpe": "cpe:/a:polarisft:intellect_core_banking"
 }

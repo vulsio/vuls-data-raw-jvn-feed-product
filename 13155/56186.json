@@ -1,8 +1,8 @@
 {
-  "vid": "13155",
-  "vname": "ZKTECO CO., LTD.",
-  "vcpe": "cpe:/:zkteco",
-  "pid": "56186",
-  "pname": "ZEM760 ファームウェア",
-  "pcpe": "cpe:/o:zkteco:zem760_firmware"
+	"vid": "13155",
+	"vname": "ZKTECO CO., LTD.",
+	"vcpe": "cpe:/:zkteco",
+	"pid": "56186",
+	"pname": "ZEM760 ファームウェア",
+	"pcpe": "cpe:/o:zkteco:zem760_firmware"
 }

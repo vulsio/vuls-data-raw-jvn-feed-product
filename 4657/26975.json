@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26975",
-  "pname": "Honor 6 Plus",
-  "pcpe": "cpe:/h:huawei:honor6_plus"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26975",
+	"pname": "Honor 6 Plus",
+	"pcpe": "cpe:/h:huawei:honor6_plus"
 }

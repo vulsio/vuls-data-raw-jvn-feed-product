@@ -1,8 +1,8 @@
 {
-  "vid": "20527",
-  "vname": "NetModule",
-  "vcpe": "cpe:/:netmodule",
-  "pid": "52254",
-  "pname": "NB3800 ファームウェア",
-  "pcpe": "cpe:/o:netmodule:nb3800_firmware"
+	"vid": "20527",
+	"vname": "NetModule",
+	"vcpe": "cpe:/:netmodule",
+	"pid": "52254",
+	"pname": "NB3800 ファームウェア",
+	"pcpe": "cpe:/o:netmodule:nb3800_firmware"
 }

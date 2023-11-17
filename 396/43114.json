@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "43114",
-  "pname": "SUSE CaaS Platform",
-  "pcpe": "cpe:/a:suse:caas_platform"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "43114",
+	"pname": "SUSE CaaS Platform",
+	"pcpe": "cpe:/a:suse:caas_platform"
 }

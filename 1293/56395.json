@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "56395",
-  "pname": "Capsule8 Console",
-  "pcpe": "cpe:/a:sophos:capsule8"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "56395",
+	"pname": "Capsule8 Console",
+	"pcpe": "cpe:/a:sophos:capsule8"
 }

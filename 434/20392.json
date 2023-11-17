@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "20392",
-  "pname": "RSA BSAFE-C Toolkits",
-  "pcpe": "cpe:/a:emc:rsa_bsafe-c_toolkits"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "20392",
+	"pname": "RSA BSAFE-C Toolkits",
+	"pcpe": "cpe:/a:emc:rsa_bsafe-c_toolkits"
 }

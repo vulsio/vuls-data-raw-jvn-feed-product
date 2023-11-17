@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "57960",
-  "pname": "ONNX",
-  "pcpe": "cpe:/a:linuxfoundation:onnx"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "57960",
+	"pname": "ONNX",
+	"pcpe": "cpe:/a:linuxfoundation:onnx"
 }

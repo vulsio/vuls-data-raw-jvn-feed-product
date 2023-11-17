@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "56427",
-  "pname": "uCosminexus Operator for Service Platform",
-  "pcpe": "cpe:/a:hitachi:ucosminexus_operator_for_service_platform"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "56427",
+	"pname": "uCosminexus Operator for Service Platform",
+	"pcpe": "cpe:/a:hitachi:ucosminexus_operator_for_service_platform"
 }

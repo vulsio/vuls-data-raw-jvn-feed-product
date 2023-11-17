@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "39821",
-  "pname": "XL TestView",
-  "pcpe": "cpe:/a:jenkins:xl_testview"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "39821",
+	"pname": "XL TestView",
+	"pcpe": "cpe:/a:jenkins:xl_testview"
 }

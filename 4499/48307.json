@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "48307",
-  "pname": "PAC-YG50EC",
-  "pcpe": "cpe:/o:mitsubishielectric:pac-yg50ec"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "48307",
+	"pname": "PAC-YG50EC",
+	"pcpe": "cpe:/o:mitsubishielectric:pac-yg50ec"
 }

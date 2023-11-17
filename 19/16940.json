@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "16940",
-  "pname": "Cisco Context Directory Agent",
-  "pcpe": "cpe:/a:cisco:context_directory_agent"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "16940",
+	"pname": "Cisco Context Directory Agent",
+	"pcpe": "cpe:/a:cisco:context_directory_agent"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18095",
-  "vname": "KUKA",
-  "vcpe": "cpe:/:misc",
-  "pid": "44041",
-  "pname": "KUKA.Sim Pro",
-  "pcpe": "cpe:/a:misc:kuka_sin_pro"
+	"vid": "18095",
+	"vname": "KUKA",
+	"vcpe": "cpe:/:misc",
+	"pid": "44041",
+	"pname": "KUKA.Sim Pro",
+	"pcpe": "cpe:/a:misc:kuka_sin_pro"
 }

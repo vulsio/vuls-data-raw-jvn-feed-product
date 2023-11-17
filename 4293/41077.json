@@ -1,8 +1,8 @@
 {
-  "vid": "4293",
-  "vname": "Ubisoft",
-  "vcpe": "cpe:/:ubi",
-  "pid": "41077",
-  "pname": "Uplay",
-  "pcpe": "cpe:/a:ubi:uplay"
+	"vid": "4293",
+	"vname": "Ubisoft",
+	"vcpe": "cpe:/:ubi",
+	"pid": "41077",
+	"pname": "Uplay",
+	"pcpe": "cpe:/a:ubi:uplay"
 }

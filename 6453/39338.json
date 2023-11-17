@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "39338",
-  "pname": "MX321_ファームウェア",
-  "pcpe": "cpe:/o:lexmark:mx321_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "39338",
+	"pname": "MX321_ファームウェア",
+	"pcpe": "cpe:/o:lexmark:mx321_firmware"
 }

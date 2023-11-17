@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "60688",
-  "pname": "VMware HCX",
-  "pcpe": "cpe:/a:vmware:vmware_hcx"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "60688",
+	"pname": "VMware HCX",
+	"pcpe": "cpe:/a:vmware:vmware_hcx"
 }

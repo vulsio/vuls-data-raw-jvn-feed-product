@@ -1,8 +1,8 @@
 {
-  "vid": "5275",
-  "vname": "LEAD Technologies, Inc.",
-  "vcpe": "cpe:/:lead_technologies",
-  "pid": "10937",
-  "pname": "leadtools isis activex control",
-  "pcpe": "cpe:/a:lead_technologies:leadtools_isis_activex_control"
+	"vid": "5275",
+	"vname": "LEAD Technologies, Inc.",
+	"vcpe": "cpe:/:lead_technologies",
+	"pid": "10937",
+	"pname": "leadtools isis activex control",
+	"pcpe": "cpe:/a:lead_technologies:leadtools_isis_activex_control"
 }

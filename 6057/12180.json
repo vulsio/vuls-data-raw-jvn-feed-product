@@ -1,8 +1,8 @@
 {
-  "vid": "6057",
-  "vname": "ocean12 technologies",
-  "vcpe": "cpe:/:ocean12_technologies",
-  "pid": "12180",
-  "pname": "contact manager",
-  "pcpe": "cpe:/a:ocean12_technologies:contact_manager"
+	"vid": "6057",
+	"vname": "ocean12 technologies",
+	"vcpe": "cpe:/:ocean12_technologies",
+	"pid": "12180",
+	"pname": "contact manager",
+	"pcpe": "cpe:/a:ocean12_technologies:contact_manager"
 }

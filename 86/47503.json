@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "47503",
-  "pname": "WLI-T1-B11 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wli-t1-b11_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "47503",
+	"pname": "WLI-T1-B11 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wli-t1-b11_firmware"
 }

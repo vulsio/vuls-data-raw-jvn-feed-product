@@ -1,8 +1,8 @@
 {
-  "vid": "2095",
-  "vname": "aidex",
-  "vcpe": "cpe:/:aidex",
-  "pid": "5615",
-  "pname": "mini-webserver",
-  "pcpe": "cpe:/a:aidex:mini-webserver"
+	"vid": "2095",
+	"vname": "aidex",
+	"vcpe": "cpe:/:aidex",
+	"pid": "5615",
+	"pname": "mini-webserver",
+	"pcpe": "cpe:/a:aidex:mini-webserver"
 }

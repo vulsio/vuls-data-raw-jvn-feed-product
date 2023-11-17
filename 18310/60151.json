@@ -1,8 +1,8 @@
 {
-  "vid": "18310",
-  "vname": "Jodd project",
-  "vcpe": "cpe:/:jodd",
-  "pid": "60151",
-  "pname": "http",
-  "pcpe": "cpe:/a:jodd:http"
+	"vid": "18310",
+	"vname": "Jodd project",
+	"vcpe": "cpe:/:jodd",
+	"pid": "60151",
+	"pname": "http",
+	"pcpe": "cpe:/a:jodd:http"
 }

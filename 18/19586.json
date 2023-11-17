@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19586",
-  "pname": "IBM WebSphere eXtreme Scale クライアント",
-  "pcpe": "cpe:/a:ibm:websphere_extreme_scale_client"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19586",
+	"pname": "IBM WebSphere eXtreme Scale クライアント",
+	"pcpe": "cpe:/a:ibm:websphere_extreme_scale_client"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "40365",
-  "pname": "IBM Open Power",
-  "pcpe": "cpe:/o:ibm:open_power"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "40365",
+	"pname": "IBM Open Power",
+	"pcpe": "cpe:/o:ibm:open_power"
 }

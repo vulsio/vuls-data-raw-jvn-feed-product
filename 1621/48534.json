@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "48534",
-  "pname": "G-120W-F ファームウェア",
-  "pcpe": "cpe:/o:nokia:g-120w-f_firmware"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "48534",
+	"pname": "G-120W-F ファームウェア",
+	"pcpe": "cpe:/o:nokia:g-120w-f_firmware"
 }

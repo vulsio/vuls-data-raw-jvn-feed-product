@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "45040",
-  "pname": "FortiSIEM Windows Agent",
-  "pcpe": "cpe:/a:fortinet:fortisiem_windows_agent"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "45040",
+	"pname": "FortiSIEM Windows Agent",
+	"pcpe": "cpe:/a:fortinet:fortisiem_windows_agent"
 }

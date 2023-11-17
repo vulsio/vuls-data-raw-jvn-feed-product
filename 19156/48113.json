@@ -1,8 +1,8 @@
 {
-  "vid": "19156",
-  "vname": "TSMManager",
-  "vcpe": "cpe:/:tsmmanager",
-  "pid": "48113",
-  "pname": "TSMManager",
-  "pcpe": "cpe:/a:tsmmanager:tsmmanager"
+	"vid": "19156",
+	"vname": "TSMManager",
+	"vcpe": "cpe:/:tsmmanager",
+	"pid": "48113",
+	"pname": "TSMManager",
+	"pcpe": "cpe:/a:tsmmanager:tsmmanager"
 }

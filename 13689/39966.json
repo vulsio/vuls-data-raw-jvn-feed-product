@@ -1,8 +1,8 @@
 {
-  "vid": "13689",
-  "vname": "Joom Sky",
-  "vcpe": "cpe:/:joomsky",
-  "pid": "39966",
-  "pname": "JS Job Manager",
-  "pcpe": "cpe:/a:joomsky:js_job_manager"
+	"vid": "13689",
+	"vname": "Joom Sky",
+	"vcpe": "cpe:/:joomsky",
+	"pid": "39966",
+	"pname": "JS Job Manager",
+	"pcpe": "cpe:/a:joomsky:js_job_manager"
 }

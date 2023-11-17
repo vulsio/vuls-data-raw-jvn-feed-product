@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "13165",
-  "pname": "TIBCO Formvine",
-  "pcpe": "cpe:/a:tibco:formvine"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "13165",
+	"pname": "TIBCO Formvine",
+	"pcpe": "cpe:/a:tibco:formvine"
 }

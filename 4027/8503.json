@@ -1,8 +1,8 @@
 {
-  "vid": "4027",
-  "vname": "gotdns",
-  "vcpe": "cpe:/:gotdns",
-  "pid": "8503",
-  "pname": "loggix project",
-  "pcpe": "cpe:/a:gotdns:loggix_project"
+	"vid": "4027",
+	"vname": "gotdns",
+	"vcpe": "cpe:/:gotdns",
+	"pid": "8503",
+	"pname": "loggix project",
+	"pcpe": "cpe:/a:gotdns:loggix_project"
 }

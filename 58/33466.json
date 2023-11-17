@@ -1,8 +1,8 @@
 {
-  "vid": "58",
-  "vname": "KDE project",
-  "vcpe": "cpe:/:kde",
-  "pid": "33466",
-  "pname": "KTextEditor",
-  "pcpe": "cpe:/a:kde:ktexteditor"
+	"vid": "58",
+	"vname": "KDE project",
+	"vcpe": "cpe:/:kde",
+	"pid": "33466",
+	"pname": "KTextEditor",
+	"pcpe": "cpe:/a:kde:ktexteditor"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "54946",
-  "pname": "SAP SAF-T Framework",
-  "pcpe": "cpe:/a:sap:saf-t_framework"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "54946",
+	"pname": "SAP SAF-T Framework",
+	"pcpe": "cpe:/a:sap:saf-t_framework"
 }

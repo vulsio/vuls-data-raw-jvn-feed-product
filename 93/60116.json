@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "60116",
-  "pname": "saml sp 2.0 single sign on",
-  "pcpe": "cpe:/a:drupal:saml_sp_2.0_single_sign_on"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "60116",
+	"pname": "saml sp 2.0 single sign on",
+	"pcpe": "cpe:/a:drupal:saml_sp_2.0_single_sign_on"
 }

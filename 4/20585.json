@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "20585",
-  "pname": "HP StoreVirtual 4330 FC",
-  "pcpe": "cpe:/h:hp:storevirtual_4330fc"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "20585",
+	"pname": "HP StoreVirtual 4330 FC",
+	"pcpe": "cpe:/h:hp:storevirtual_4330fc"
 }

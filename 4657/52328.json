@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "52328",
-  "pname": "ELF-G10HN",
-  "pcpe": "cpe:/a:huawei:elf-g10hn"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "52328",
+	"pname": "ELF-G10HN",
+	"pcpe": "cpe:/a:huawei:elf-g10hn"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3479",
-  "vname": "emacs",
-  "vcpe": "cpe:/:emacs",
-  "pid": "7756",
-  "pname": "emacs-jabber",
-  "pcpe": "cpe:/a:emacs:emacs-jabber"
+	"vid": "3479",
+	"vname": "emacs",
+	"vcpe": "cpe:/:emacs",
+	"pid": "7756",
+	"pname": "emacs-jabber",
+	"pcpe": "cpe:/a:emacs:emacs-jabber"
 }

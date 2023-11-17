@@ -1,8 +1,8 @@
 {
-  "vid": "120",
-  "vname": "Chama-Net",
-  "vcpe": "cpe:/:chama",
-  "pid": "459",
-  "pname": "ChamaCargo",
-  "pcpe": "cpe:/a:chama:chama_cargo"
+	"vid": "120",
+	"vname": "Chama-Net",
+	"vcpe": "cpe:/:chama",
+	"pid": "459",
+	"pname": "ChamaCargo",
+	"pcpe": "cpe:/a:chama:chama_cargo"
 }

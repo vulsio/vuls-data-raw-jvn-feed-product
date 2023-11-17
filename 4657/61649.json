@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "61649",
-  "pname": "E5573Cs-322 ファームウェア",
-  "pcpe": "cpe:/o:huawei:e5573cs-322_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "61649",
+	"pname": "E5573Cs-322 ファームウェア",
+	"pcpe": "cpe:/o:huawei:e5573cs-322_firmware"
 }

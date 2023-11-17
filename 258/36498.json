@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "36498",
-  "pname": "Seahorse",
-  "pcpe": "cpe:/a:gnome:seahorse"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "36498",
+	"pname": "Seahorse",
+	"pcpe": "cpe:/a:gnome:seahorse"
 }

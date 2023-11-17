@@ -1,8 +1,8 @@
 {
-  "vid": "9063",
-  "vname": "Anchor",
-  "vcpe": "cpe:/:anchor",
-  "pid": "18028",
-  "pname": "Anchor CMS",
-  "pcpe": "cpe:/a:anchor:anchor_cms"
+	"vid": "9063",
+	"vname": "Anchor",
+	"vcpe": "cpe:/:anchor",
+	"pid": "18028",
+	"pname": "Anchor CMS",
+	"pcpe": "cpe:/a:anchor:anchor_cms"
 }

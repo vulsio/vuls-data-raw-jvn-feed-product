@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "30476",
-  "pname": "VCM5020 ファームウェア",
-  "pcpe": "cpe:/o:huawei:vcm5020_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "30476",
+	"pname": "VCM5020 ファームウェア",
+	"pcpe": "cpe:/o:huawei:vcm5020_firmware"
 }

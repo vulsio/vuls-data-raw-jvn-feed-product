@@ -1,8 +1,8 @@
 {
-  "vid": "24829",
-  "vname": "wpgeodirectory",
-  "vcpe": "cpe:/:wpgeodirectory",
-  "pid": "64338",
-  "pname": "geodirectory",
-  "pcpe": "cpe:/a:wpgeodirectory:geodirectory"
+	"vid": "24829",
+	"vname": "wpgeodirectory",
+	"vcpe": "cpe:/:wpgeodirectory",
+	"pid": "64338",
+	"pname": "geodirectory",
+	"pcpe": "cpe:/a:wpgeodirectory:geodirectory"
 }

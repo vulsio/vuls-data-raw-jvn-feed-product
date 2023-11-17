@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23424",
-  "pname": "Cisco 2900 Series Integrated Services ルータ",
-  "pcpe": "cpe:/h:cisco:2900_integrated_service_router"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23424",
+	"pname": "Cisco 2900 Series Integrated Services ルータ",
+	"pcpe": "cpe:/h:cisco:2900_integrated_service_router"
 }

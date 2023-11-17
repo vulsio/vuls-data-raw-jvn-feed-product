@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9993",
-  "pname": "lotus workplace web content management",
-  "pcpe": "cpe:/a:ibm:lotus_workplace_web_content_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9993",
+	"pname": "lotus workplace web content management",
+	"pcpe": "cpe:/a:ibm:lotus_workplace_web_content_management"
 }

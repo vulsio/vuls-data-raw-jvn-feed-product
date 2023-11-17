@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "2023",
-  "pname": "VMware Workstation",
-  "pcpe": "cpe:/a:vmware:workstation"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "2023",
+	"pname": "VMware Workstation",
+	"pcpe": "cpe:/a:vmware:workstation"
 }

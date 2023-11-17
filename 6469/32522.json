@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "32522",
-  "pname": "MGUARD PCI4000 VPN ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:mguard_pci4000_vpn_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "32522",
+	"pname": "MGUARD PCI4000 VPN ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:mguard_pci4000_vpn_firmware"
 }

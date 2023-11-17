@@ -1,8 +1,8 @@
 {
-  "vid": "1366",
-  "vname": "balabit",
-  "vcpe": "cpe:/:balabit",
-  "pid": "4209",
-  "pname": "syslog-ng",
-  "pcpe": "cpe:/a:balabit:syslog-ng"
+	"vid": "1366",
+	"vname": "balabit",
+	"vcpe": "cpe:/:balabit",
+	"pid": "4209",
+	"pname": "syslog-ng",
+	"pcpe": "cpe:/a:balabit:syslog-ng"
 }

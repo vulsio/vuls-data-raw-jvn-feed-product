@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "47471",
-  "pname": "Trident",
-  "pcpe": "cpe:/a:netapp:trident"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "47471",
+	"pname": "Trident",
+	"pcpe": "cpe:/a:netapp:trident"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "39984",
-  "pname": "TIBCO LogLogic MX4025 ファームウェア",
-  "pcpe": "cpe:/o:tibco:loglogic_mx4025_firmware"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "39984",
+	"pname": "TIBCO LogLogic MX4025 ファームウェア",
+	"pcpe": "cpe:/o:tibco:loglogic_mx4025_firmware"
 }

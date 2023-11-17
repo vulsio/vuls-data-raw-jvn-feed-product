@@ -1,8 +1,8 @@
 {
-  "vid": "191",
-  "vname": "Opera Software ASA",
-  "vcpe": "cpe:/:opera",
-  "pid": "13432",
-  "pname": "Opera Mobile ウェブブラウザ",
-  "pcpe": "cpe:/a:opera:opera_mobile"
+	"vid": "191",
+	"vname": "Opera Software ASA",
+	"vcpe": "cpe:/:opera",
+	"pid": "13432",
+	"pname": "Opera Mobile ウェブブラウザ",
+	"pcpe": "cpe:/a:opera:opera_mobile"
 }

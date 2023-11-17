@@ -1,8 +1,8 @@
 {
-  "vid": "15230",
-  "vname": "Metabase, Inc.",
-  "vcpe": "cpe:/:metabase",
-  "pid": "35268",
-  "pname": "Metabase",
-  "pcpe": "cpe:/a:metabase:metabase"
+	"vid": "15230",
+	"vname": "Metabase, Inc.",
+	"vcpe": "cpe:/:metabase",
+	"pid": "35268",
+	"pname": "Metabase",
+	"pcpe": "cpe:/a:metabase:metabase"
 }

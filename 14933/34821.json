@@ -1,8 +1,8 @@
 {
-  "vid": "14933",
-  "vname": "SwapToken project",
-  "vcpe": "cpe:/:swaptoken_project",
-  "pid": "34821",
-  "pname": "SwapToken",
-  "pcpe": "cpe:/a:swaptoken_project:swaptoken"
+	"vid": "14933",
+	"vname": "SwapToken project",
+	"vcpe": "cpe:/:swaptoken_project",
+	"pid": "34821",
+	"pname": "SwapToken",
+	"pcpe": "cpe:/a:swaptoken_project:swaptoken"
 }

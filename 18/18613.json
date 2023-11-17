@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "18613",
-  "pname": "IBM Integration Bus",
-  "pcpe": "cpe:/a:ibm:integration_bus"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "18613",
+	"pname": "IBM Integration Bus",
+	"pcpe": "cpe:/a:ibm:integration_bus"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "640",
-  "vname": "Cyber-Ark Software",
-  "vcpe": "cpe:/:cyber-ark",
-  "pid": "2727",
-  "pname": "Password Vault Web Access",
-  "pcpe": "cpe:/a:cyber-ark:password_vault_web_access"
+	"vid": "640",
+	"vname": "Cyber-Ark Software",
+	"vcpe": "cpe:/:cyber-ark",
+	"pid": "2727",
+	"pname": "Password Vault Web Access",
+	"pcpe": "cpe:/a:cyber-ark:password_vault_web_access"
 }

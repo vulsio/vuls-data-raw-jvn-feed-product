@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "62156",
-  "pname": "inspiron 3790 ファームウェア",
-  "pcpe": "cpe:/o:dell:inspiron_3790_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "62156",
+	"pname": "inspiron 3790 ファームウェア",
+	"pcpe": "cpe:/o:dell:inspiron_3790_firmware"
 }

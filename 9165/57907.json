@@ -1,8 +1,8 @@
 {
-  "vid": "9165",
-  "vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
-  "vcpe": "cpe:/:ruckuswireless",
-  "pid": "57907",
-  "pname": "ZoneDirector 1100 ファームウェア",
-  "pcpe": "cpe:/o:ruckuswireless:zonedirector_1100_firmware"
+	"vid": "9165",
+	"vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
+	"vcpe": "cpe:/:ruckuswireless",
+	"pid": "57907",
+	"pname": "ZoneDirector 1100 ファームウェア",
+	"pcpe": "cpe:/o:ruckuswireless:zonedirector_1100_firmware"
 }

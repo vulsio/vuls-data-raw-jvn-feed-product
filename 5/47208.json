@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47208",
-  "pname": "IPQ6000 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:ipq6000_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47208",
+	"pname": "IPQ6000 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:ipq6000_firmware"
 }

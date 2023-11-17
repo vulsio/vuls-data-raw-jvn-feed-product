@@ -1,8 +1,8 @@
 {
-  "vid": "8450",
-  "vname": "webformatique",
-  "vcpe": "cpe:/:webformatique",
-  "pid": "16065",
-  "pname": "reservation manager",
-  "pcpe": "cpe:/a:webformatique:reservation_manager"
+	"vid": "8450",
+	"vname": "webformatique",
+	"vcpe": "cpe:/:webformatique",
+	"pid": "16065",
+	"pname": "reservation manager",
+	"pcpe": "cpe:/a:webformatique:reservation_manager"
 }

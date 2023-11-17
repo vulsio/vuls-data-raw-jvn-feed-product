@@ -1,8 +1,8 @@
 {
-  "vid": "19037",
-  "vname": "SOKRATES-software",
-  "vcpe": "cpe:/:sokrates",
-  "pid": "47725",
-  "pname": "SowaSQL",
-  "pcpe": "cpe:/a:sokrates:sowasql"
+	"vid": "19037",
+	"vname": "SOKRATES-software",
+	"vcpe": "cpe:/:sokrates",
+	"pid": "47725",
+	"pname": "SowaSQL",
+	"pcpe": "cpe:/a:sokrates:sowasql"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18239",
-  "vname": "WAVLINK",
-  "vcpe": "cpe:/:wavlink",
-  "pid": "59445",
-  "pname": "wn535g3 ファームウェア",
-  "pcpe": "cpe:/o:wavlink:wn535g3_firmware"
+	"vid": "18239",
+	"vname": "WAVLINK",
+	"vcpe": "cpe:/:wavlink",
+	"pid": "59445",
+	"pname": "wn535g3 ファームウェア",
+	"pcpe": "cpe:/o:wavlink:wn535g3_firmware"
 }

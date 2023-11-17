@@ -1,8 +1,8 @@
 {
-  "vid": "16649",
-  "vname": "Parse Platform",
-  "vcpe": "cpe:/:parseplatform",
-  "pid": "39673",
-  "pname": "Parse Server",
-  "pcpe": "cpe:/a:parseplatform:parse-server"
+	"vid": "16649",
+	"vname": "Parse Platform",
+	"vcpe": "cpe:/:parseplatform",
+	"pid": "39673",
+	"pname": "Parse Server",
+	"pcpe": "cpe:/a:parseplatform:parse-server"
 }

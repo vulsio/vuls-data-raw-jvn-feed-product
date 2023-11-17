@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25517",
-  "pname": "JF430C HP 12518 AC Switch Chassis",
-  "pcpe": "cpe:/h:hp:jf430c_hp_12518_ac_switch_chassis"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25517",
+	"pname": "JF430C HP 12518 AC Switch Chassis",
+	"pcpe": "cpe:/h:hp:jf430c_hp_12518_ac_switch_chassis"
 }

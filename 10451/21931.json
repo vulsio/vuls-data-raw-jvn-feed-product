@@ -1,8 +1,8 @@
 {
-  "vid": "10451",
-  "vname": "comicsplusapp",
-  "vcpe": "cpe:/:comicsplusapp",
-  "pid": "21931",
-  "pname": "comics plus",
-  "pcpe": "cpe:/a:comicsplusapp:comics_plus"
+	"vid": "10451",
+	"vname": "comicsplusapp",
+	"vcpe": "cpe:/:comicsplusapp",
+	"pid": "21931",
+	"pname": "comics plus",
+	"pcpe": "cpe:/a:comicsplusapp:comics_plus"
 }

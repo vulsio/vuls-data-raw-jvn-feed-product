@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "26889",
-  "pname": "RSLogix 500 Professional Edition",
-  "pcpe": "cpe:/a:rockwellautomation:rslogix_500_professional_edition"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "26889",
+	"pname": "RSLogix 500 Professional Edition",
+	"pcpe": "cpe:/a:rockwellautomation:rslogix_500_professional_edition"
 }

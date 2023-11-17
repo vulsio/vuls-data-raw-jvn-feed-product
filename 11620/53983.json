@@ -1,8 +1,8 @@
 {
-  "vid": "11620",
-  "vname": "エリクソン",
-  "vcpe": "cpe:/:ericsson",
-  "pid": "53983",
-  "pname": "Network Location",
-  "pcpe": "cpe:/a:ericsson:network_location"
+	"vid": "11620",
+	"vname": "エリクソン",
+	"vcpe": "cpe:/:ericsson",
+	"pid": "53983",
+	"pname": "Network Location",
+	"pcpe": "cpe:/a:ericsson:network_location"
 }

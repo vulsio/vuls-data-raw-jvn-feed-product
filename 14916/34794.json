@@ -1,8 +1,8 @@
 {
-  "vid": "14916",
-  "vname": "Minio Inc.",
-  "vcpe": "cpe:/:minio",
-  "pid": "34794",
-  "pname": "Minio",
-  "pcpe": "cpe:/a:minio:minio"
+	"vid": "14916",
+	"vname": "Minio Inc.",
+	"vcpe": "cpe:/:minio",
+	"pid": "34794",
+	"pname": "Minio",
+	"pcpe": "cpe:/a:minio:minio"
 }

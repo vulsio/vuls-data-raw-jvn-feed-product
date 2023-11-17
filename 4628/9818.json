@@ -1,8 +1,8 @@
 {
-  "vid": "4628",
-  "vname": "hobbit monitor",
-  "vcpe": "cpe:/:hobbit_monitor",
-  "pid": "9818",
-  "pname": "hobbit monitor",
-  "pcpe": "cpe:/a:hobbit_monitor:hobbit_monitor"
+	"vid": "4628",
+	"vname": "hobbit monitor",
+	"vcpe": "cpe:/:hobbit_monitor",
+	"pid": "9818",
+	"pname": "hobbit monitor",
+	"pcpe": "cpe:/a:hobbit_monitor:hobbit_monitor"
 }

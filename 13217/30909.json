@@ -1,8 +1,8 @@
 {
-  "vid": "13217",
-  "vname": "FlowPaper project",
-  "vcpe": "cpe:/:flowpaper",
-  "pid": "30909",
-  "pname": "FlexPaper",
-  "pcpe": "cpe:/a:flowpaper:flexpaper"
+	"vid": "13217",
+	"vname": "FlowPaper project",
+	"vcpe": "cpe:/:flowpaper",
+	"pid": "30909",
+	"pname": "FlexPaper",
+	"pcpe": "cpe:/a:flowpaper:flexpaper"
 }

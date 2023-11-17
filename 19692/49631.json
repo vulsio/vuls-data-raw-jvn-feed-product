@@ -1,8 +1,8 @@
 {
-  "vid": "19692",
-  "vname": "NextAuth.js",
-  "vcpe": "cpe:/:nextauth.js",
-  "pid": "49631",
-  "pname": "next-auth",
-  "pcpe": "cpe:/a:nextauth.js:next-auth"
+	"vid": "19692",
+	"vname": "NextAuth.js",
+	"vcpe": "cpe:/:nextauth.js",
+	"pid": "49631",
+	"pname": "next-auth",
+	"pcpe": "cpe:/a:nextauth.js:next-auth"
 }

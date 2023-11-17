@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "28572",
-  "pname": "GALAXY Apps",
-  "pcpe": "cpe:/a:samsung:galaxy_app"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "28572",
+	"pname": "GALAXY Apps",
+	"pcpe": "cpe:/a:samsung:galaxy_app"
 }

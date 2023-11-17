@@ -1,8 +1,8 @@
 {
-  "vid": "9261",
-  "vname": "OS4Ed",
-  "vcpe": "cpe:/:opensis",
-  "pid": "18854",
-  "pname": "openSIS",
-  "pcpe": "cpe:/a:opensis:opensis"
+	"vid": "9261",
+	"vname": "OS4Ed",
+	"vcpe": "cpe:/:opensis",
+	"pid": "18854",
+	"pname": "openSIS",
+	"pcpe": "cpe:/a:opensis:opensis"
 }

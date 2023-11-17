@@ -1,8 +1,8 @@
 {
-  "vid": "22525",
-  "vname": "baomidou",
-  "vcpe": "cpe:/:baomidou",
-  "pid": "57972",
-  "pname": "mybatis-plus",
-  "pcpe": "cpe:/a:baomidou:mybatis-plus"
+	"vid": "22525",
+	"vname": "baomidou",
+	"vcpe": "cpe:/:baomidou",
+	"pid": "57972",
+	"pname": "mybatis-plus",
+	"pcpe": "cpe:/a:baomidou:mybatis-plus"
 }

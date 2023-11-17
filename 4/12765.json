@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12765",
-  "pname": "laserjet m4345x mfp",
-  "pcpe": "cpe:/h:hp:laserjet_m4345x_mfp"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12765",
+	"pname": "laserjet m4345x mfp",
+	"pcpe": "cpe:/h:hp:laserjet_m4345x_mfp"
 }

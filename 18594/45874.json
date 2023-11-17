@@ -1,8 +1,8 @@
 {
-  "vid": "18594",
-  "vname": "RIPE NETWORK COORDINATION CENTRE",
-  "vcpe": "cpe:/:ripe",
-  "pid": "45874",
-  "pname": "RPKI Validator",
-  "pcpe": "cpe:/a:ripe:rpki_validator"
+	"vid": "18594",
+	"vname": "RIPE NETWORK COORDINATION CENTRE",
+	"vcpe": "cpe:/:ripe",
+	"pid": "45874",
+	"pname": "RPKI Validator",
+	"pcpe": "cpe:/a:ripe:rpki_validator"
 }

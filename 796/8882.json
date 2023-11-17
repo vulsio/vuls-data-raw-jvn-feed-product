@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "8882",
-  "pname": "wrt350n",
-  "pcpe": "cpe:/h:linksys:wrt350n"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "8882",
+	"pname": "wrt350n",
+	"pcpe": "cpe:/h:linksys:wrt350n"
 }

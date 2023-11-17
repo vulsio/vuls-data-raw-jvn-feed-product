@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "795",
-  "pname": "スイッチ SRシリーズ",
-  "pcpe": "cpe:/h:fujitsu:switch_sr"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "795",
+	"pname": "スイッチ SRシリーズ",
+	"pcpe": "cpe:/h:fujitsu:switch_sr"
 }

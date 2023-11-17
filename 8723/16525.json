@@ -1,8 +1,8 @@
 {
-  "vid": "8723",
-  "vname": "zenas",
-  "vcpe": "cpe:/:zenas",
-  "pid": "16525",
-  "pname": "paobacheca guestbook",
-  "pcpe": "cpe:/a:zenas:paobacheca_guestbook"
+	"vid": "8723",
+	"vname": "zenas",
+	"vcpe": "cpe:/:zenas",
+	"pid": "16525",
+	"pname": "paobacheca guestbook",
+	"pcpe": "cpe:/a:zenas:paobacheca_guestbook"
 }

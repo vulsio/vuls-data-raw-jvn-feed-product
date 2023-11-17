@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "4326",
-  "pname": "EMC Data Protection Advisor",
-  "pcpe": "cpe:/a:emc:data_protection_advisor"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "4326",
+	"pname": "EMC Data Protection Advisor",
+	"pcpe": "cpe:/a:emc:data_protection_advisor"
 }

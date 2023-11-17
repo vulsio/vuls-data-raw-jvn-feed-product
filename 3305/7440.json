@@ -1,8 +1,8 @@
 {
-  "vid": "3305",
-  "vname": "dotnetindex",
-  "vcpe": "cpe:/:dotnetindex",
-  "pid": "7440",
-  "pname": "active news manager",
-  "pcpe": "cpe:/a:dotnetindex:active_news_manager"
+	"vid": "3305",
+	"vname": "dotnetindex",
+	"vcpe": "cpe:/:dotnetindex",
+	"pid": "7440",
+	"pname": "active news manager",
+	"pcpe": "cpe:/a:dotnetindex:active_news_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6591",
-  "vname": "PayPal",
-  "vcpe": "cpe:/:paypal",
-  "pid": "13271",
-  "pname": "WPS ToolKit",
-  "pcpe": "cpe:/a:paypal:wps_toolkit"
+	"vid": "6591",
+	"vname": "PayPal",
+	"vcpe": "cpe:/:paypal",
+	"pid": "13271",
+	"pname": "WPS ToolKit",
+	"pcpe": "cpe:/a:paypal:wps_toolkit"
 }

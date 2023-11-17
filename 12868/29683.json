@@ -1,8 +1,8 @@
 {
-  "vid": "12868",
-  "vname": "Thermo Fisher Scientific Inc.",
-  "vcpe": "cpe:/:datataker",
-  "pid": "29683",
-  "pname": "dataTaker DT80 dEX",
-  "pcpe": "cpe:/a:datataker:dt80_dex"
+	"vid": "12868",
+	"vname": "Thermo Fisher Scientific Inc.",
+	"vcpe": "cpe:/:datataker",
+	"pid": "29683",
+	"pname": "dataTaker DT80 dEX",
+	"pcpe": "cpe:/a:datataker:dt80_dex"
 }

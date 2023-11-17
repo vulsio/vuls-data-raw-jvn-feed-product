@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "55829",
-  "pname": "TL-WA1201 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-wa1201_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "55829",
+	"pname": "TL-WA1201 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-wa1201_firmware"
 }

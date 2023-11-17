@@ -1,8 +1,8 @@
 {
-  "vid": "7104",
-  "vname": "Progress Software Corporation",
-  "vcpe": "cpe:/:progress",
-  "pid": "62816",
-  "pname": "MOVEit Cloud",
-  "pcpe": "cpe:/a:progress:moveit_cloud"
+	"vid": "7104",
+	"vname": "Progress Software Corporation",
+	"vcpe": "cpe:/:progress",
+	"pid": "62816",
+	"pname": "MOVEit Cloud",
+	"pcpe": "cpe:/a:progress:moveit_cloud"
 }

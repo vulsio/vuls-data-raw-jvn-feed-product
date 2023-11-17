@@ -1,8 +1,8 @@
 {
-  "vid": "13081",
-  "vname": "Netatmo",
-  "vcpe": "cpe:/:netatmo",
-  "pid": "44572",
-  "pname": "Smart Indoor Camera ファームウェア",
-  "pcpe": "cpe:/o:netatmo:smart_indoor_camera_firmware"
+	"vid": "13081",
+	"vname": "Netatmo",
+	"vcpe": "cpe:/:netatmo",
+	"pid": "44572",
+	"pname": "Smart Indoor Camera ファームウェア",
+	"pcpe": "cpe:/o:netatmo:smart_indoor_camera_firmware"
 }

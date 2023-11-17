@@ -1,8 +1,8 @@
 {
-  "vid": "14942",
-  "vname": "zuul-ci",
-  "vcpe": "cpe:/:zuul-ci",
-  "pid": "34835",
-  "pname": "Zuul",
-  "pcpe": "cpe:/a:zuul-ci:zuul"
+	"vid": "14942",
+	"vname": "zuul-ci",
+	"vcpe": "cpe:/:zuul-ci",
+	"pid": "34835",
+	"pname": "Zuul",
+	"pcpe": "cpe:/a:zuul-ci:zuul"
 }

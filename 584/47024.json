@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "47024",
-  "pname": "DCA Vantage Analyzer ファームウェア",
-  "pcpe": "cpe:/o:siemens:dca_vantage_analyzer_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "47024",
+	"pname": "DCA Vantage Analyzer ファームウェア",
+	"pcpe": "cpe:/o:siemens:dca_vantage_analyzer_firmware"
 }

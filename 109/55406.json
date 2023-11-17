@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "55406",
-  "pname": "tsClinical Define.xml Generator",
-  "pcpe": "cpe:/a:fujitsu:tsclinical_define.xml_generator"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "55406",
+	"pname": "tsClinical Define.xml Generator",
+	"pcpe": "cpe:/a:fujitsu:tsclinical_define.xml_generator"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "16843",
-  "pname": "GuardLogix コントローラ",
-  "pcpe": "cpe:/a:rockwellautomation:guardlogix_controllers"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "16843",
+	"pname": "GuardLogix コントローラ",
+	"pcpe": "cpe:/a:rockwellautomation:guardlogix_controllers"
 }

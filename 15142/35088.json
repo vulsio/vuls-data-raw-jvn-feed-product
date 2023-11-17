@@ -1,8 +1,8 @@
 {
-  "vid": "15142",
-  "vname": "Rclone",
-  "vcpe": "cpe:/:rclone",
-  "pid": "35088",
-  "pname": "Rclone",
-  "pcpe": "cpe:/a:rclone:rclone"
+	"vid": "15142",
+	"vname": "Rclone",
+	"vcpe": "cpe:/:rclone",
+	"pid": "35088",
+	"pname": "Rclone",
+	"pcpe": "cpe:/a:rclone:rclone"
 }

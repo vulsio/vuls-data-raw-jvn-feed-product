@@ -1,8 +1,8 @@
 {
-  "vid": "8518",
-  "vname": "wikipedia",
-  "vcpe": "cpe:/:wikipedia",
-  "pid": "16158",
-  "pname": "wikipedia toolbar",
-  "pcpe": "cpe:/a:wikipedia:wikipedia_toolbar"
+	"vid": "8518",
+	"vname": "wikipedia",
+	"vcpe": "cpe:/:wikipedia",
+	"pid": "16158",
+	"pname": "wikipedia toolbar",
+	"pcpe": "cpe:/a:wikipedia:wikipedia_toolbar"
 }

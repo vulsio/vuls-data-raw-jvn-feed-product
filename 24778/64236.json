@@ -1,8 +1,8 @@
 {
-  "vid": "24778",
-  "vname": "flowring",
-  "vcpe": "cpe:/:flowring",
-  "pid": "64236",
-  "pname": "agentflow",
-  "pcpe": "cpe:/a:flowring:agentflow"
+	"vid": "24778",
+	"vname": "flowring",
+	"vcpe": "cpe:/:flowring",
+	"pid": "64236",
+	"pname": "agentflow",
+	"pcpe": "cpe:/a:flowring:agentflow"
 }

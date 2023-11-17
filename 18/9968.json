@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9968",
-  "pname": "Advanced Management Module",
-  "pcpe": "cpe:/a:ibm:advanced_management_module"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9968",
+	"pname": "Advanced Management Module",
+	"pcpe": "cpe:/a:ibm:advanced_management_module"
 }

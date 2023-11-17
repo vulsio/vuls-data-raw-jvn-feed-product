@@ -1,8 +1,8 @@
 {
-  "vid": "1022",
-  "vname": "RPM",
-  "vcpe": "cpe:/:rpm",
-  "pid": "37946",
-  "pname": "libcomps",
-  "pcpe": "cpe:/a:rpm:libcomps"
+	"vid": "1022",
+	"vname": "RPM",
+	"vcpe": "cpe:/:rpm",
+	"pid": "37946",
+	"pname": "libcomps",
+	"pcpe": "cpe:/a:rpm:libcomps"
 }

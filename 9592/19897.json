@@ -1,8 +1,8 @@
 {
-  "vid": "9592",
-  "vname": "Ontario Systems",
-  "vcpe": "cpe:/:ontariosystems",
-  "pid": "19897",
-  "pname": "Artiva Workstation",
-  "pcpe": "cpe:/a:ontariosystems:artiva_workstation"
+	"vid": "9592",
+	"vname": "Ontario Systems",
+	"vcpe": "cpe:/:ontariosystems",
+	"pid": "19897",
+	"pname": "Artiva Workstation",
+	"pcpe": "cpe:/a:ontariosystems:artiva_workstation"
 }

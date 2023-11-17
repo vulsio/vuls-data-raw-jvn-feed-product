@@ -1,8 +1,8 @@
 {
-  "vid": "12858",
-  "vname": "Biscom",
-  "vcpe": "cpe:/:biscom",
-  "pid": "29623",
-  "pname": "Secure File Transfer",
-  "pcpe": "cpe:/a:biscom:secure_file_transfer"
+	"vid": "12858",
+	"vname": "Biscom",
+	"vcpe": "cpe:/:biscom",
+	"pid": "29623",
+	"pname": "Secure File Transfer",
+	"pcpe": "cpe:/a:biscom:secure_file_transfer"
 }

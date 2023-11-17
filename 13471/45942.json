@@ -1,8 +1,8 @@
 {
-  "vid": "13471",
-  "vname": "Ivanti",
-  "vcpe": "cpe:/:ivanti",
-  "pid": "45942",
-  "pname": "Desktop & Server Management",
-  "pcpe": "cpe:/a:ivanti:desktop_server_management"
+	"vid": "13471",
+	"vname": "Ivanti",
+	"vcpe": "cpe:/:ivanti",
+	"pid": "45942",
+	"pname": "Desktop & Server Management",
+	"pcpe": "cpe:/a:ivanti:desktop_server_management"
 }

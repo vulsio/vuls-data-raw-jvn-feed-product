@@ -1,8 +1,8 @@
 {
-  "vid": "22485",
-  "vname": "nicotine-plus",
-  "vcpe": "cpe:/:nicotine-plus",
-  "pid": "57858",
-  "pname": "nicotine+",
-  "pcpe": "cpe:/a:nicotine-plus:nicotine%2B"
+	"vid": "22485",
+	"vname": "nicotine-plus",
+	"vcpe": "cpe:/:nicotine-plus",
+	"pid": "57858",
+	"pname": "nicotine+",
+	"pcpe": "cpe:/a:nicotine-plus:nicotine%2B"
 }

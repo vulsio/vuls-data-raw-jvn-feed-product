@@ -1,8 +1,8 @@
 {
-  "vid": "110",
-  "vname": "Broadcom",
-  "vcpe": "cpe:/:broadcom",
-  "pid": "3120",
-  "pname": "Broadcom Linux",
-  "pcpe": "cpe:/o:broadcom:broadcom_linux"
+	"vid": "110",
+	"vname": "Broadcom",
+	"vcpe": "cpe:/:broadcom",
+	"pid": "3120",
+	"pname": "Broadcom Linux",
+	"pcpe": "cpe:/o:broadcom:broadcom_linux"
 }

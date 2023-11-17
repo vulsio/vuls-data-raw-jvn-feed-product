@@ -1,8 +1,8 @@
 {
-  "vid": "22750",
-  "vname": "WP Extended Search project",
-  "vcpe": "cpe:/:wp_extended_search_project",
-  "pid": "58496",
-  "pname": "WP Extended Search",
-  "pcpe": "cpe:/a:wp_extended_search_project:wp_extended_search"
+	"vid": "22750",
+	"vname": "WP Extended Search project",
+	"vcpe": "cpe:/:wp_extended_search_project",
+	"pid": "58496",
+	"pname": "WP Extended Search",
+	"pcpe": "cpe:/a:wp_extended_search_project:wp_extended_search"
 }

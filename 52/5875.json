@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "5875",
-  "pname": "server manager",
-  "pcpe": "cpe:/a:apple:server_manager"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "5875",
+	"pname": "server manager",
+	"pcpe": "cpe:/a:apple:server_manager"
 }

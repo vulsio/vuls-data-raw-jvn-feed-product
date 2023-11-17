@@ -1,8 +1,8 @@
 {
-  "vid": "12697",
-  "vname": "Ether Software",
-  "vcpe": "cpe:/:ether_software",
-  "pid": "29065",
-  "pname": "MP3 WAV to CD Burner",
-  "pcpe": "cpe:/a:ether_software:mp3_wav_to_cd_burner"
+	"vid": "12697",
+	"vname": "Ether Software",
+	"vcpe": "cpe:/:ether_software",
+	"pid": "29065",
+	"pname": "MP3 WAV to CD Burner",
+	"pcpe": "cpe:/a:ether_software:mp3_wav_to_cd_burner"
 }

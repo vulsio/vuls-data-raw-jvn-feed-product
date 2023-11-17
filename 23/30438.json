@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "30438",
-  "pname": "VIP Access for Desktop",
-  "pcpe": "cpe:/a:symantec:vip_access_for_desktop"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "30438",
+	"pname": "VIP Access for Desktop",
+	"pcpe": "cpe:/a:symantec:vip_access_for_desktop"
 }

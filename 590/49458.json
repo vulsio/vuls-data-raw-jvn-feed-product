@@ -1,8 +1,8 @@
 {
-  "vid": "590",
-  "vname": "freedesktop.org",
-  "vcpe": "cpe:/:freedesktop",
-  "pid": "49458",
-  "pname": "gst-plugins-bad",
-  "pcpe": "cpe:/a:freedesktop:gst-plugins-bad"
+	"vid": "590",
+	"vname": "freedesktop.org",
+	"vcpe": "cpe:/:freedesktop",
+	"pid": "49458",
+	"pname": "gst-plugins-bad",
+	"pcpe": "cpe:/a:freedesktop:gst-plugins-bad"
 }

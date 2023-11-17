@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "55750",
-  "pname": "B2236 ファームウェア",
-  "pcpe": "cpe:/o:lexmark:b2236_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "55750",
+	"pname": "B2236 ファームウェア",
+	"pcpe": "cpe:/o:lexmark:b2236_firmware"
 }

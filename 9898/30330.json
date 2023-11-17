@@ -1,8 +1,8 @@
 {
-  "vid": "9898",
-  "vname": "Elasticsearch",
-  "vcpe": "cpe:/:elasticsearch",
-  "pid": "30330",
-  "pname": "Elastic X-Pack Reporting",
-  "pcpe": "cpe:/a:elasticsearch:x-pack_reporting"
+	"vid": "9898",
+	"vname": "Elasticsearch",
+	"vcpe": "cpe:/:elasticsearch",
+	"pid": "30330",
+	"pname": "Elastic X-Pack Reporting",
+	"pcpe": "cpe:/a:elasticsearch:x-pack_reporting"
 }

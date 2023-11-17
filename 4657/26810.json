@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26810",
-  "pname": "RH2288 V3 ファームウェア",
-  "pcpe": "cpe:/o:huawei:rh2288_v3_server_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26810",
+	"pname": "RH2288 V3 ファームウェア",
+	"pcpe": "cpe:/o:huawei:rh2288_v3_server_firmware"
 }

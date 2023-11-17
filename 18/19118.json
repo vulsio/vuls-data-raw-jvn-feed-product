@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19118",
-  "pname": "IBM Atlas Policy Suite",
-  "pcpe": "cpe:/a:ibm:atlas_suite"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19118",
+	"pname": "IBM Atlas Policy Suite",
+	"pcpe": "cpe:/a:ibm:atlas_suite"
 }

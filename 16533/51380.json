@@ -1,8 +1,8 @@
 {
-  "vid": "16533",
-  "vname": "Sick",
-  "vcpe": "cpe:/:sick",
-  "pid": "51380",
-  "pname": "SICK Visionary-S CX ファームウェア",
-  "pcpe": "cpe:/o:sick:visionary-s_cx_firmware"
+	"vid": "16533",
+	"vname": "Sick",
+	"vcpe": "cpe:/:sick",
+	"pid": "51380",
+	"pname": "SICK Visionary-S CX ファームウェア",
+	"pcpe": "cpe:/o:sick:visionary-s_cx_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "42720",
-  "pname": "SP C260DNw ファームウェア",
-  "pcpe": "cpe:/o:ricoh:sp_c260dnw_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "42720",
+	"pname": "SP C260DNw ファームウェア",
+	"pcpe": "cpe:/o:ricoh:sp_c260dnw_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "8797",
-  "pname": "asa 5580",
-  "pcpe": "cpe:/h:cisco:asa_5580"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "8797",
+	"pname": "asa 5580",
+	"pcpe": "cpe:/h:cisco:asa_5580"
 }

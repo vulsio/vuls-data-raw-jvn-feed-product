@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "60179",
-  "pname": "NGINX Service Mesh",
-  "pcpe": "cpe:/a:f5:nginx_service_mesh"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "60179",
+	"pname": "NGINX Service Mesh",
+	"pcpe": "cpe:/a:f5:nginx_service_mesh"
 }

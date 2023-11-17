@@ -1,8 +1,8 @@
 {
-  "vid": "12735",
-  "vname": "Mimosa Networks, Inc.",
-  "vcpe": "cpe:/:mimosa",
-  "pid": "53533",
-  "pname": "B5c ファームウェア",
-  "pcpe": "cpe:/o:mimosa:b5c_firmware"
+	"vid": "12735",
+	"vname": "Mimosa Networks, Inc.",
+	"vcpe": "cpe:/:mimosa",
+	"pid": "53533",
+	"pname": "B5c ファームウェア",
+	"pcpe": "cpe:/o:mimosa:b5c_firmware"
 }

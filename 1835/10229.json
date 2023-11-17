@@ -1,8 +1,8 @@
 {
-  "vid": "1835",
-  "vname": "Intuit",
-  "vcpe": "cpe:/:intuit",
-  "pid": "10229",
-  "pname": "bookkeeping",
-  "pcpe": "cpe:/a:intuit:bookkeeping"
+	"vid": "1835",
+	"vname": "Intuit",
+	"vcpe": "cpe:/:intuit",
+	"pid": "10229",
+	"pname": "bookkeeping",
+	"pcpe": "cpe:/a:intuit:bookkeeping"
 }

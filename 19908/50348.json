@@ -1,8 +1,8 @@
 {
-  "vid": "19908",
-  "vname": "django-filter project",
-  "vcpe": "cpe:/:django-filter_project",
-  "pid": "50348",
-  "pname": "django-filter",
-  "pcpe": "cpe:/a:django-filter_project:django-filter"
+	"vid": "19908",
+	"vname": "django-filter project",
+	"vcpe": "cpe:/:django-filter_project",
+	"pid": "50348",
+	"pname": "django-filter",
+	"pcpe": "cpe:/a:django-filter_project:django-filter"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16519",
-  "vname": "Novak Solutions",
-  "vcpe": "cpe:/:novaksolutions",
-  "pid": "39312",
-  "pname": "Infusionsoft PHP SDK",
-  "pcpe": "cpe:/a:novaksolutions:infusionsoft-php-sdk"
+	"vid": "16519",
+	"vname": "Novak Solutions",
+	"vcpe": "cpe:/:novaksolutions",
+	"pid": "39312",
+	"pname": "Infusionsoft PHP SDK",
+	"pcpe": "cpe:/a:novaksolutions:infusionsoft-php-sdk"
 }

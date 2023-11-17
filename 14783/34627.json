@@ -1,8 +1,8 @@
 {
-  "vid": "14783",
-  "vname": "ConnX",
-  "vcpe": "cpe:/:connx",
-  "pid": "34627",
-  "pname": "ESP HR Management",
-  "pcpe": "cpe:/a:connx:esp_hr_management"
+	"vid": "14783",
+	"vname": "ConnX",
+	"vcpe": "cpe:/:connx",
+	"pid": "34627",
+	"pname": "ESP HR Management",
+	"pcpe": "cpe:/a:connx:esp_hr_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9582",
-  "vname": "Amtelco",
-  "vcpe": "cpe:/:amtelco",
-  "pid": "19863",
-  "pname": "miSecureMessages",
-  "pcpe": "cpe:/a:amtelco:misecuremessages"
+	"vid": "9582",
+	"vname": "Amtelco",
+	"vcpe": "cpe:/:amtelco",
+	"pid": "19863",
+	"pname": "miSecureMessages",
+	"pcpe": "cpe:/a:amtelco:misecuremessages"
 }

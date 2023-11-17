@@ -1,8 +1,8 @@
 {
-  "vid": "1170",
-  "vname": "Symphony CMS",
-  "vcpe": "cpe:/:symphony-cms",
-  "pid": "3843",
-  "pname": "Symphony CMS",
-  "pcpe": "cpe:/a:symphony-cms:symphony_cms"
+	"vid": "1170",
+	"vname": "Symphony CMS",
+	"vcpe": "cpe:/:symphony-cms",
+	"pid": "3843",
+	"pname": "Symphony CMS",
+	"pcpe": "cpe:/a:symphony-cms:symphony_cms"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3687",
-  "vname": "filecopa-ftpserver",
-  "vcpe": "cpe:/:filecopa-ftpserver",
-  "pid": "8052",
-  "pname": "ftp server",
-  "pcpe": "cpe:/a:filecopa-ftpserver:ftp_server"
+	"vid": "3687",
+	"vname": "filecopa-ftpserver",
+	"vcpe": "cpe:/:filecopa-ftpserver",
+	"pid": "8052",
+	"pname": "ftp server",
+	"pcpe": "cpe:/a:filecopa-ftpserver:ftp_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8789",
-  "vname": "Vonage",
-  "vcpe": "cpe:/:vonage",
-  "pid": "16668",
-  "pname": "voip telephone adapter",
-  "pcpe": "cpe:/h:vonage:voip_telephone_adapter"
+	"vid": "8789",
+	"vname": "Vonage",
+	"vcpe": "cpe:/:vonage",
+	"pid": "16668",
+	"pname": "voip telephone adapter",
+	"pcpe": "cpe:/h:vonage:voip_telephone_adapter"
 }

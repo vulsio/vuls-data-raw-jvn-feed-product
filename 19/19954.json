@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19954",
-  "pname": "Cisco AS5400XM メディア ゲートウェイ",
-  "pcpe": "cpe:/h:cisco:as5400xm_media_gateway"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19954",
+	"pname": "Cisco AS5400XM メディア ゲートウェイ",
+	"pcpe": "cpe:/h:cisco:as5400xm_media_gateway"
 }

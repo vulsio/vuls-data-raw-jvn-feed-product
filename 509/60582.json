@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "60582",
-  "pname": "s/4hana",
-  "pcpe": "cpe:/a:sap:s%2F4hana"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "60582",
+	"pname": "s/4hana",
+	"pcpe": "cpe:/a:sap:s%2F4hana"
 }

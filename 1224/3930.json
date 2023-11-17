@@ -1,8 +1,8 @@
 {
-  "vid": "1224",
-  "vname": "CONTIMEX",
-  "vcpe": "cpe:/:contimex",
-  "pid": "3930",
-  "pname": "Impulsio CMS",
-  "pcpe": "cpe:/a:contimex:impulsio_cms"
+	"vid": "1224",
+	"vname": "CONTIMEX",
+	"vcpe": "cpe:/:contimex",
+	"pid": "3930",
+	"pname": "Impulsio CMS",
+	"pcpe": "cpe:/a:contimex:impulsio_cms"
 }

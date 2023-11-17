@@ -1,8 +1,8 @@
 {
-  "vid": "37",
-  "vname": "MySQL AB",
-  "vcpe": "cpe:/:mysql",
-  "pid": "11859",
-  "pname": "maxdb",
-  "pcpe": "cpe:/a:mysql:maxdb"
+	"vid": "37",
+	"vname": "MySQL AB",
+	"vcpe": "cpe:/:mysql",
+	"pid": "11859",
+	"pname": "maxdb",
+	"pcpe": "cpe:/a:mysql:maxdb"
 }

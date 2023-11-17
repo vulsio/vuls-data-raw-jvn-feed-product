@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "25147",
-  "pname": "Cisco Model DPC3939 DOCSIS 3.0 16x4 Wireless Residential Voice Gateway",
-  "pcpe": "cpe:/h:cisco:dpc3939_wireless_residential_voice_gateway"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "25147",
+	"pname": "Cisco Model DPC3939 DOCSIS 3.0 16x4 Wireless Residential Voice Gateway",
+	"pcpe": "cpe:/h:cisco:dpc3939_wireless_residential_voice_gateway"
 }

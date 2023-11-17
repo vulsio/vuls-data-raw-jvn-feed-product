@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "437",
-  "pname": "Prius AirNote",
-  "pcpe": "cpe:/h:hitachi:prius_airnote"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "437",
+	"pname": "Prius AirNote",
+	"pcpe": "cpe:/h:hitachi:prius_airnote"
 }

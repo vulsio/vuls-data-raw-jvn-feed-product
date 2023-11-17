@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "63869",
-  "pname": "logcheck",
-  "pcpe": "cpe:/a:debian:logcheck"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "63869",
+	"pname": "logcheck",
+	"pcpe": "cpe:/a:debian:logcheck"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "43039",
-  "pname": "MELIPC シリーズ MI5000",
-  "pcpe": "cpe:/a:mitsubishielectric:melipc_series_mi5000"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "43039",
+	"pname": "MELIPC シリーズ MI5000",
+	"pcpe": "cpe:/a:mitsubishielectric:melipc_series_mi5000"
 }

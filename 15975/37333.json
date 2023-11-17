@@ -1,8 +1,8 @@
 {
-  "vid": "15975",
-  "vname": "ChipsBank",
-  "vcpe": "cpe:/:chipsbank",
-  "pid": "37333",
-  "pname": "UMPTool",
-  "pcpe": "cpe:/a:chipsbank:umptool"
+	"vid": "15975",
+	"vname": "ChipsBank",
+	"vcpe": "cpe:/:chipsbank",
+	"pid": "37333",
+	"pname": "UMPTool",
+	"pcpe": "cpe:/a:chipsbank:umptool"
 }

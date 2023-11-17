@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33072",
-  "pname": "SD 808 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd_808_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33072",
+	"pname": "SD 808 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd_808_firmware"
 }

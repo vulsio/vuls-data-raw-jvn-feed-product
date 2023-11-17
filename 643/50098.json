@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "50098",
-  "pname": "Dell SMR",
-  "pcpe": "cpe:/a:dell:storage_monitoring_and_reporting"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "50098",
+	"pname": "Dell SMR",
+	"pcpe": "cpe:/a:dell:storage_monitoring_and_reporting"
 }

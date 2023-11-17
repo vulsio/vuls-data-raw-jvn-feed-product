@@ -1,8 +1,8 @@
 {
-  "vid": "12323",
-  "vname": "Libical project",
-  "vcpe": "cpe:/:libical_project",
-  "pid": "27692",
-  "pname": "Libical",
-  "pcpe": "cpe:/a:libical_project:libical"
+	"vid": "12323",
+	"vname": "Libical project",
+	"vcpe": "cpe:/:libical_project",
+	"pid": "27692",
+	"pname": "Libical",
+	"pcpe": "cpe:/a:libical_project:libical"
 }

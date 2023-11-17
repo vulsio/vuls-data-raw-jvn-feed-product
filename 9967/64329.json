@@ -1,8 +1,8 @@
 {
-  "vid": "9967",
-  "vname": "Shenzhen Tenda Technology Co.,Ltd.",
-  "vcpe": "cpe:/:tenda",
-  "pid": "64329",
-  "pname": "ac500 ファームウェア",
-  "pcpe": "cpe:/o:tenda:ac500_firmware"
+	"vid": "9967",
+	"vname": "Shenzhen Tenda Technology Co.,Ltd.",
+	"vcpe": "cpe:/:tenda",
+	"pid": "64329",
+	"pname": "ac500 ファームウェア",
+	"pcpe": "cpe:/o:tenda:ac500_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20972",
-  "vname": "Cosmos",
-  "vcpe": "cpe:/:interchain",
-  "pid": "53591",
-  "pname": "Cosmos-SDK",
-  "pcpe": "cpe:/a:interchain:cosmos_sdk"
+	"vid": "20972",
+	"vname": "Cosmos",
+	"vcpe": "cpe:/:interchain",
+	"pid": "53591",
+	"pname": "Cosmos-SDK",
+	"pcpe": "cpe:/a:interchain:cosmos_sdk"
 }

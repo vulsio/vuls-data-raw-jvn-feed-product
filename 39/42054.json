@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "42054",
-  "pname": "Adobe Stock API Integration",
-  "pcpe": "cpe:/a:adobe:stock_api_integration"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "42054",
+	"pname": "Adobe Stock API Integration",
+	"pcpe": "cpe:/a:adobe:stock_api_integration"
 }

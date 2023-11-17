@@ -1,8 +1,8 @@
 {
-  "vid": "21252",
-  "vname": "LibreTime",
-  "vcpe": "cpe:/:libretime",
-  "pid": "54565",
-  "pname": "LibreTime hv",
-  "pcpe": "cpe:/a:libretime:libretime_hv"
+	"vid": "21252",
+	"vname": "LibreTime",
+	"vcpe": "cpe:/:libretime",
+	"pid": "54565",
+	"pname": "LibreTime hv",
+	"pcpe": "cpe:/a:libretime:libretime_hv"
 }

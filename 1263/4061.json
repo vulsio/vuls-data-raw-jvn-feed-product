@@ -1,8 +1,8 @@
 {
-  "vid": "1263",
-  "vname": "CooTek",
-  "vcpe": "cpe:/:touchpal",
-  "pid": "4061",
-  "pname": "TouchPal Contacts",
-  "pcpe": "cpe:/a:touchpal:touchpal_contacts"
+	"vid": "1263",
+	"vname": "CooTek",
+	"vcpe": "cpe:/:touchpal",
+	"pid": "4061",
+	"pname": "TouchPal Contacts",
+	"pcpe": "cpe:/a:touchpal:touchpal_contacts"
 }

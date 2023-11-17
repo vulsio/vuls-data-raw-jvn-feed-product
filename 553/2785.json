@@ -1,8 +1,8 @@
 {
-  "vid": "553",
-  "vname": "fedorahosted.org",
-  "vcpe": "cpe:/:fedorahosted",
-  "pid": "2785",
-  "pname": "SSSD",
-  "pcpe": "cpe:/a:fedorahosted:sssd"
+	"vid": "553",
+	"vname": "fedorahosted.org",
+	"vcpe": "cpe:/:fedorahosted",
+	"pid": "2785",
+	"pname": "SSSD",
+	"pcpe": "cpe:/a:fedorahosted:sssd"
 }

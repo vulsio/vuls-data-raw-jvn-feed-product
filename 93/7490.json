@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7490",
-  "pname": "drupal pathauto module",
-  "pcpe": "cpe:/a:drupal:drupal_pathauto_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7490",
+	"pname": "drupal pathauto module",
+	"pcpe": "cpe:/a:drupal:drupal_pathauto_module"
 }

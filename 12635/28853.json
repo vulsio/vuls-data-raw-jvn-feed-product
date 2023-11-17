@@ -1,8 +1,8 @@
 {
-  "vid": "12635",
-  "vname": "Yeager",
-  "vcpe": "cpe:/:yeager",
-  "pid": "28853",
-  "pname": "Yeager CMS",
-  "pcpe": "cpe:/a:yeager:yeager_cms"
+	"vid": "12635",
+	"vname": "Yeager",
+	"vcpe": "cpe:/:yeager",
+	"pid": "28853",
+	"pname": "Yeager CMS",
+	"pcpe": "cpe:/a:yeager:yeager_cms"
 }

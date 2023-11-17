@@ -1,8 +1,8 @@
 {
-  "vid": "11970",
-  "vname": "CGI Pal",
-  "vcpe": "cpe:/:misc",
-  "pid": "24944",
-  "pname": "photo",
-  "pcpe": "cpe:/a:misc:cgi_pal_photo"
+	"vid": "11970",
+	"vname": "CGI Pal",
+	"vcpe": "cpe:/:misc",
+	"pid": "24944",
+	"pname": "photo",
+	"pcpe": "cpe:/a:misc:cgi_pal_photo"
 }

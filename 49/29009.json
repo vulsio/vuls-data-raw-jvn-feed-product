@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "29009",
-  "pname": "Gnulib",
-  "pcpe": "cpe:/a:gnu:gnulib"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "29009",
+	"pname": "Gnulib",
+	"pcpe": "cpe:/a:gnu:gnulib"
 }

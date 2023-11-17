@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "44156",
-  "pname": "KTK ATE530S ファームウェア",
-  "pcpe": "cpe:/o:siemens:ktk_ate530s_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "44156",
+	"pname": "KTK ATE530S ファームウェア",
+	"pcpe": "cpe:/o:siemens:ktk_ate530s_firmware"
 }

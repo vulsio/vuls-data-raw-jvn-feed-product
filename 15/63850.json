@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "63850",
-  "pname": "Oracle Enterprise Command Center Framework",
-  "pcpe": "cpe:/a:oracle:enterprise_command_center_framework"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "63850",
+	"pname": "Oracle Enterprise Command Center Framework",
+	"pcpe": "cpe:/a:oracle:enterprise_command_center_framework"
 }

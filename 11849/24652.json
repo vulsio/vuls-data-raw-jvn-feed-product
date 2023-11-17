@@ -1,8 +1,8 @@
 {
-  "vid": "11849",
-  "vname": "Coldfront Labs Inc.",
-  "vcpe": "cpe:/:codfront_labs",
-  "pid": "24652",
-  "pname": "HTTP Strict Transport Security",
-  "pcpe": "cpe:/a:codfront_labs:http_strict_transport_security"
+	"vid": "11849",
+	"vname": "Coldfront Labs Inc.",
+	"vcpe": "cpe:/:codfront_labs",
+	"pid": "24652",
+	"pname": "HTTP Strict Transport Security",
+	"pcpe": "cpe:/a:codfront_labs:http_strict_transport_security"
 }

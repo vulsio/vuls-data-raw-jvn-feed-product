@@ -1,8 +1,8 @@
 {
-  "vid": "2103",
-  "vname": "airspan",
-  "vcpe": "cpe:/:airspan",
-  "pid": "8727",
-  "pname": "base station distribution unit",
-  "pcpe": "cpe:/h:airspan:base_station_distribution_unit"
+	"vid": "2103",
+	"vname": "airspan",
+	"vcpe": "cpe:/:airspan",
+	"pid": "8727",
+	"pname": "base station distribution unit",
+	"pcpe": "cpe:/h:airspan:base_station_distribution_unit"
 }

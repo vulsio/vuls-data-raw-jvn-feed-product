@@ -1,8 +1,8 @@
 {
-  "vid": "17951",
-  "vname": "Telink",
-  "vcpe": "cpe:/:telink-semi",
-  "pid": "43432",
-  "pname": "TLSR8251 BLE SDK",
-  "pcpe": "cpe:/a:telink-semi:tlsr8251_ble_sdk"
+	"vid": "17951",
+	"vname": "Telink",
+	"vcpe": "cpe:/:telink-semi",
+	"pid": "43432",
+	"pname": "TLSR8251 BLE SDK",
+	"pcpe": "cpe:/a:telink-semi:tlsr8251_ble_sdk"
 }

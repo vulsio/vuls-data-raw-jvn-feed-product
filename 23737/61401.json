@@ -1,8 +1,8 @@
 {
-  "vid": "23737",
-  "vname": "gentics",
-  "vcpe": "cpe:/:gentics",
-  "pid": "61401",
-  "pname": "gentics cms",
-  "pcpe": "cpe:/a:gentics:gentics_cms"
+	"vid": "23737",
+	"vname": "gentics",
+	"vcpe": "cpe:/:gentics",
+	"pid": "61401",
+	"pname": "gentics cms",
+	"pcpe": "cpe:/a:gentics:gentics_cms"
 }

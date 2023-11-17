@@ -1,8 +1,8 @@
 {
-  "vid": "622",
-  "vname": "LIGHTTPD",
-  "vcpe": "cpe:/:lighttpd",
-  "pid": "2666",
-  "pname": "lighttpd",
-  "pcpe": "cpe:/a:lighttpd:lighttpd"
+	"vid": "622",
+	"vname": "LIGHTTPD",
+	"vcpe": "cpe:/:lighttpd",
+	"pid": "2666",
+	"pname": "lighttpd",
+	"pcpe": "cpe:/a:lighttpd:lighttpd"
 }

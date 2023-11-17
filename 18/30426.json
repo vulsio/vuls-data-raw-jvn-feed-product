@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "30426",
-  "pname": "IBM QRadar Network Security",
-  "pcpe": "cpe:/a:ibm:qradar_network_security"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "30426",
+	"pname": "IBM QRadar Network Security",
+	"pcpe": "cpe:/a:ibm:qradar_network_security"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24355",
-  "vname": "watchdog",
-  "vcpe": "cpe:/:watchdog",
-  "pid": "62954",
-  "pname": "anti-virus",
-  "pcpe": "cpe:/a:watchdog:anti-virus"
+	"vid": "24355",
+	"vname": "watchdog",
+	"vcpe": "cpe:/:watchdog",
+	"pid": "62954",
+	"pname": "anti-virus",
+	"pcpe": "cpe:/a:watchdog:anti-virus"
 }

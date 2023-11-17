@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "3660",
-  "pname": "Siemens Tecnomatix FactoryLink",
-  "pcpe": "cpe:/a:siemens:tecnomatix_factorylink"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "3660",
+	"pname": "Siemens Tecnomatix FactoryLink",
+	"pcpe": "cpe:/a:siemens:tecnomatix_factorylink"
 }

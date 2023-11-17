@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "41826",
-  "pname": "140 NOC 78x00 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:140_noc_78x00_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "41826",
+	"pname": "140 NOC 78x00 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:140_noc_78x00_firmware"
 }

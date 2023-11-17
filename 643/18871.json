@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "18871",
-  "pname": "Dell SonicWALL Universal Management Appliance E5000 ソフトウェア",
-  "pcpe": "cpe:/a:dell:sonicwall_universal_management_appliance_e5000"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "18871",
+	"pname": "Dell SonicWALL Universal Management Appliance E5000 ソフトウェア",
+	"pcpe": "cpe:/a:dell:sonicwall_universal_management_appliance_e5000"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19973",
-  "vname": "librdf",
-  "vcpe": "cpe:/:librdf",
-  "pid": "50518",
-  "pname": "Raptor RDF Syntax Library",
-  "pcpe": "cpe:/a:librdf:raptor_rdf_syntax_library"
+	"vid": "19973",
+	"vname": "librdf",
+	"vcpe": "cpe:/:librdf",
+	"pid": "50518",
+	"pname": "Raptor RDF Syntax Library",
+	"pcpe": "cpe:/a:librdf:raptor_rdf_syntax_library"
 }

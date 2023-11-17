@@ -1,8 +1,8 @@
 {
-  "vid": "15826",
-  "vname": "住友電気工業株式会社",
-  "vcpe": "cpe:/:bnmux",
-  "pid": "36878",
-  "pname": "BCW710J2 ファームウェア",
-  "pcpe": "cpe:/o:bnmux:bcw710j2_firmware"
+	"vid": "15826",
+	"vname": "住友電気工業株式会社",
+	"vcpe": "cpe:/:bnmux",
+	"pid": "36878",
+	"pname": "BCW710J2 ファームウェア",
+	"pcpe": "cpe:/o:bnmux:bcw710j2_firmware"
 }

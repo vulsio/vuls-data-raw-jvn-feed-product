@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "52197",
-  "pname": "SRS-XB43 ファームウェア",
-  "pcpe": "cpe:/o:sony:srs-xb43_firmware"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "52197",
+	"pname": "SRS-XB43 ファームウェア",
+	"pcpe": "cpe:/o:sony:srs-xb43_firmware"
 }

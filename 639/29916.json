@@ -1,8 +1,8 @@
 {
-  "vid": "639",
-  "vname": "富士フイルムビジネスイノベーション株式会社 (旧 富士ゼロックス株式会社)",
-  "vcpe": "cpe:/:fuji_xerox",
-  "pid": "29916",
-  "pname": "ApeosPort-VI",
-  "pcpe": "cpe:/h:fuji_xerox:apeosport-vi"
+	"vid": "639",
+	"vname": "富士フイルムビジネスイノベーション株式会社 (旧 富士ゼロックス株式会社)",
+	"vcpe": "cpe:/:fuji_xerox",
+	"pid": "29916",
+	"pname": "ApeosPort-VI",
+	"pcpe": "cpe:/h:fuji_xerox:apeosport-vi"
 }

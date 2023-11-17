@@ -1,8 +1,8 @@
 {
-  "vid": "23437",
-  "vname": "WP Review Slider",
-  "vcpe": "cpe:/:wpreviewslider",
-  "pid": "60723",
-  "pname": "WP Zillow Review Slider",
-  "pcpe": "cpe:/a:wpreviewslider:wp_zillow_review_slider"
+	"vid": "23437",
+	"vname": "WP Review Slider",
+	"vcpe": "cpe:/:wpreviewslider",
+	"pid": "60723",
+	"pname": "WP Zillow Review Slider",
+	"pcpe": "cpe:/a:wpreviewslider:wp_zillow_review_slider"
 }

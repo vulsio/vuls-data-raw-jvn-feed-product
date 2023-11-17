@@ -1,8 +1,8 @@
 {
-  "vid": "22681",
-  "vname": "rancher",
-  "vcpe": "cpe:/:rancher",
-  "pid": "58348",
-  "pname": "rancher",
-  "pcpe": "cpe:/a:rancher:rancher"
+	"vid": "22681",
+	"vname": "rancher",
+	"vcpe": "cpe:/:rancher",
+	"pid": "58348",
+	"pname": "rancher",
+	"pcpe": "cpe:/a:rancher:rancher"
 }

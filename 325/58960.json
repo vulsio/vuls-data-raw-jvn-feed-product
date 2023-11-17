@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58960",
-  "pname": "l340-15iwl touch ファームウェア",
-  "pcpe": "cpe:/o:lenovo:l340-15iwl_touch_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58960",
+	"pname": "l340-15iwl touch ファームウェア",
+	"pcpe": "cpe:/o:lenovo:l340-15iwl_touch_firmware"
 }

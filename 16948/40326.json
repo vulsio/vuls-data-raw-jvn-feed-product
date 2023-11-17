@@ -1,8 +1,8 @@
 {
-  "vid": "16948",
-  "vname": "AndroVideo",
-  "vcpe": "cpe:/:androvideo",
-  "pid": "40326",
-  "pname": "Advan VD-1 ファームウェア",
-  "pcpe": "cpe:/o:androvideo:vd_1_firmware"
+	"vid": "16948",
+	"vname": "AndroVideo",
+	"vcpe": "cpe:/:androvideo",
+	"pid": "40326",
+	"pname": "Advan VD-1 ファームウェア",
+	"pcpe": "cpe:/o:androvideo:vd_1_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20131",
-  "vname": "Nuvoton",
-  "vcpe": "cpe:/:nuvoton",
-  "pid": "51116",
-  "pname": "NPCT75x TPM 1.2 ファームウェア",
-  "pcpe": "cpe:/o:nuvoton:npct75x_firmware"
+	"vid": "20131",
+	"vname": "Nuvoton",
+	"vcpe": "cpe:/:nuvoton",
+	"pid": "51116",
+	"pname": "NPCT75x TPM 1.2 ファームウェア",
+	"pcpe": "cpe:/o:nuvoton:npct75x_firmware"
 }

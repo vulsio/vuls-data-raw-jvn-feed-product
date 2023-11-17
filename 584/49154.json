@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "49154",
-  "pname": "JT2Go",
-  "pcpe": "cpe:/a:siemens:jt2go"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "49154",
+	"pname": "JT2Go",
+	"pcpe": "cpe:/a:siemens:jt2go"
 }

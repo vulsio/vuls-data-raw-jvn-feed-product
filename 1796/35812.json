@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "35812",
-  "pname": "MiniMed Paradigm REAL-Time 522 Insulin Pump ファームウェア",
-  "pcpe": "cpe:/o:medtronic:522_paradigm_real-time_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "35812",
+	"pname": "MiniMed Paradigm REAL-Time 522 Insulin Pump ファームウェア",
+	"pcpe": "cpe:/o:medtronic:522_paradigm_real-time_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24105",
-  "pname": "Cisco TelePresence Serial Gateway シリーズ ソフトウェア",
-  "pcpe": "cpe:/a:cisco:telepresence_serial_gateway"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24105",
+	"pname": "Cisco TelePresence Serial Gateway シリーズ ソフトウェア",
+	"pcpe": "cpe:/a:cisco:telepresence_serial_gateway"
 }

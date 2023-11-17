@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "59961",
-  "pname": "IGSS Dashboard (DashBoard.exe)",
-  "pcpe": "cpe:/a:schneider_electric:igss_dashboard"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "59961",
+	"pname": "IGSS Dashboard (DashBoard.exe)",
+	"pcpe": "cpe:/a:schneider_electric:igss_dashboard"
 }

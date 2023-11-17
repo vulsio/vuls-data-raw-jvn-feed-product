@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63571",
-  "pname": "desigo pxm30-1 ファームウェア",
-  "pcpe": "cpe:/o:siemens:desigo_pxm30-1_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63571",
+	"pname": "desigo pxm30-1 ファームウェア",
+	"pcpe": "cpe:/o:siemens:desigo_pxm30-1_firmware"
 }

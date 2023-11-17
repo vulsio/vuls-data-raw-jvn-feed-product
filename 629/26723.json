@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "26723",
-  "pname": "OnCell G3100V2 シリーズ",
-  "pcpe": "cpe:/h:moxa:oncell_g3100v2"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "26723",
+	"pname": "OnCell G3100V2 シリーズ",
+	"pcpe": "cpe:/h:moxa:oncell_g3100v2"
 }

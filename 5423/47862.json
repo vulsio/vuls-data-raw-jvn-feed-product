@@ -1,8 +1,8 @@
 {
-  "vid": "5423",
-  "vname": "Magento, Inc.",
-  "vcpe": "cpe:/:magento",
-  "pid": "47862",
-  "pname": "UPWAR-php",
-  "pcpe": "cpe:/a:magento:upward_php"
+	"vid": "5423",
+	"vname": "Magento, Inc.",
+	"vcpe": "cpe:/:magento",
+	"pid": "47862",
+	"pname": "UPWAR-php",
+	"pcpe": "cpe:/a:magento:upward_php"
 }

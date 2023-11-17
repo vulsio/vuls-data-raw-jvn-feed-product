@@ -1,8 +1,8 @@
 {
-  "vid": "4395",
-  "vname": "EPractize Labs",
-  "vcpe": "cpe:/:epractizelabs",
-  "pid": "9397",
-  "pname": "EPractize Labs Online Subscription Manager",
-  "pcpe": "cpe:/a:epractizelabs:subscription_manager"
+	"vid": "4395",
+	"vname": "EPractize Labs",
+	"vcpe": "cpe:/:epractizelabs",
+	"pid": "9397",
+	"pname": "EPractize Labs Online Subscription Manager",
+	"pcpe": "cpe:/a:epractizelabs:subscription_manager"
 }

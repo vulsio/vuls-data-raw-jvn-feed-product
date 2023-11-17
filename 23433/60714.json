@@ -1,8 +1,8 @@
 {
-  "vid": "23433",
-  "vname": "Allow svg files project",
-  "vcpe": "cpe:/:allow_svg_files_project",
-  "pid": "60714",
-  "pname": "Allow svg files",
-  "pcpe": "cpe:/a:allow_svg_files_project:allow_svg_files"
+	"vid": "23433",
+	"vname": "Allow svg files project",
+	"vcpe": "cpe:/:allow_svg_files_project",
+	"pid": "60714",
+	"pname": "Allow svg files",
+	"pcpe": "cpe:/a:allow_svg_files_project:allow_svg_files"
 }

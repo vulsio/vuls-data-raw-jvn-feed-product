@@ -1,8 +1,8 @@
 {
-  "vid": "23204",
-  "vname": "posix project",
-  "vcpe": "cpe:/:posix_project",
-  "pid": "60135",
-  "pname": "posix",
-  "pcpe": "cpe:/a:posix_project:posix"
+	"vid": "23204",
+	"vname": "posix project",
+	"vcpe": "cpe:/:posix_project",
+	"pid": "60135",
+	"pname": "posix",
+	"pcpe": "cpe:/a:posix_project:posix"
 }

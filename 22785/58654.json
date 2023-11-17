@@ -1,8 +1,8 @@
 {
-  "vid": "22785",
-  "vname": "selenium",
-  "vcpe": "cpe:/:selenium",
-  "pid": "58654",
-  "pname": "selenium grid",
-  "pcpe": "cpe:/a:selenium:selenium_grid"
+	"vid": "22785",
+	"vname": "selenium",
+	"vcpe": "cpe:/:selenium",
+	"pid": "58654",
+	"pname": "selenium grid",
+	"pcpe": "cpe:/a:selenium:selenium_grid"
 }

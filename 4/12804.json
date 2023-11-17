@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12804",
-  "pname": "psc 1210 all-in-one",
-  "pcpe": "cpe:/h:hp:psc_1210_all-in-one"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12804",
+	"pname": "psc 1210 all-in-one",
+	"pcpe": "cpe:/h:hp:psc_1210_all-in-one"
 }

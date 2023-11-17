@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "44904",
-  "pname": "E6878-370 ファームウェア",
-  "pcpe": "cpe:/o:huawei:e6878-370_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "44904",
+	"pname": "E6878-370 ファームウェア",
+	"pcpe": "cpe:/o:huawei:e6878-370_firmware"
 }

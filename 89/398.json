@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "398",
-  "pname": "NEC MultiWriter",
-  "pcpe": "cpe:/h:nec:nec_multiwriter"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "398",
+	"pname": "NEC MultiWriter",
+	"pcpe": "cpe:/h:nec:nec_multiwriter"
 }

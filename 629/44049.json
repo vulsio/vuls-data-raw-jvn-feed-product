@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "44049",
-  "pname": "PT-7828 F-24-HVファームウェア",
-  "pcpe": "cpe:/o:moxa:pt-7828-f-24-hv_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "44049",
+	"pname": "PT-7828 F-24-HVファームウェア",
+	"pcpe": "cpe:/o:moxa:pt-7828-f-24-hv_firmware"
 }

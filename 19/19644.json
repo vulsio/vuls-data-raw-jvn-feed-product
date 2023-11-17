@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19644",
-  "pname": "Cisco RV215W Wireless-N VPN ルータファームウェア",
-  "pcpe": "cpe:/o:cisco:rv215w_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19644",
+	"pname": "Cisco RV215W Wireless-N VPN ルータファームウェア",
+	"pcpe": "cpe:/o:cisco:rv215w_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16742",
-  "vname": "Trezor",
-  "vcpe": "cpe:/:trezor",
-  "pid": "52442",
-  "pname": "Trezor Bridge",
-  "pcpe": "cpe:/a:trezor:bridge"
+	"vid": "16742",
+	"vname": "Trezor",
+	"vcpe": "cpe:/:trezor",
+	"pid": "52442",
+	"pname": "Trezor Bridge",
+	"pcpe": "cpe:/a:trezor:bridge"
 }

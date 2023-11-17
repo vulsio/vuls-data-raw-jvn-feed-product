@@ -1,8 +1,8 @@
 {
-  "vid": "12650",
-  "vname": "ExaGrid",
-  "vcpe": "cpe:/:exagrid",
-  "pid": "28899",
-  "pname": "ExaGrid EX13000E ファームウェア",
-  "pcpe": "cpe:/o:exagrid:ex13000e_firmware"
+	"vid": "12650",
+	"vname": "ExaGrid",
+	"vcpe": "cpe:/:exagrid",
+	"pid": "28899",
+	"pname": "ExaGrid EX13000E ファームウェア",
+	"pcpe": "cpe:/o:exagrid:ex13000e_firmware"
 }

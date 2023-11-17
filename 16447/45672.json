@@ -1,8 +1,8 @@
 {
-  "vid": "16447",
-  "vname": "PIX-Link",
-  "vcpe": "cpe:/:pix-link",
-  "pid": "45672",
-  "pname": "LV-WR07 ファームウェア",
-  "pcpe": "cpe:/o:pix-link:lv-wr07_firmware"
+	"vid": "16447",
+	"vname": "PIX-Link",
+	"vcpe": "cpe:/:pix-link",
+	"pid": "45672",
+	"pname": "LV-WR07 ファームウェア",
+	"pcpe": "cpe:/o:pix-link:lv-wr07_firmware"
 }

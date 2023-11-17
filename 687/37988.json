@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "37988",
-  "pname": "TIBCO Data Science",
-  "pcpe": "cpe:/a:tibco:data_science_for_aws"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "37988",
+	"pname": "TIBCO Data Science",
+	"pcpe": "cpe:/a:tibco:data_science_for_aws"
 }

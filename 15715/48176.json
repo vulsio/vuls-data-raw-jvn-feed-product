@@ -1,8 +1,8 @@
 {
-  "vid": "15715",
-  "vname": "TOTOLINK",
-  "vcpe": "cpe:/:totolink",
-  "pid": "48176",
-  "pname": "N300RH-V2 ファームウェア",
-  "pcpe": "cpe:/o:totolink:n300rh-v2_firmware"
+	"vid": "15715",
+	"vname": "TOTOLINK",
+	"vcpe": "cpe:/:totolink",
+	"pid": "48176",
+	"pname": "N300RH-V2 ファームウェア",
+	"pcpe": "cpe:/o:totolink:n300rh-v2_firmware"
 }

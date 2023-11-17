@@ -1,8 +1,8 @@
 {
-  "vid": "6424",
-  "vname": "runcms",
-  "vcpe": "cpe:/:runcms",
-  "pid": "12697",
-  "pname": "myarticles module",
-  "pcpe": "cpe:/a:runcms:myarticles_module"
+	"vid": "6424",
+	"vname": "runcms",
+	"vcpe": "cpe:/:runcms",
+	"pid": "12697",
+	"pname": "myarticles module",
+	"pcpe": "cpe:/a:runcms:myarticles_module"
 }

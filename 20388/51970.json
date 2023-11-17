@@ -1,8 +1,8 @@
 {
-  "vid": "20388",
-  "vname": "config_lib project",
-  "vcpe": "cpe:/:config_lib_project",
-  "pid": "51970",
-  "pname": "SuperMartijn642's Config Lib",
-  "pcpe": "cpe:/a:config_lib_project:config_lib"
+	"vid": "20388",
+	"vname": "config_lib project",
+	"vcpe": "cpe:/:config_lib_project",
+	"pid": "51970",
+	"pname": "SuperMartijn642's Config Lib",
+	"pcpe": "cpe:/a:config_lib_project:config_lib"
 }

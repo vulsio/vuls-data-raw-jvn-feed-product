@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "42480",
-  "pname": "DBA-1510P ファームウェア",
-  "pcpe": "cpe:/o:dlink:dba-1510p_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "42480",
+	"pname": "DBA-1510P ファームウェア",
+	"pcpe": "cpe:/o:dlink:dba-1510p_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "385",
-  "vname": "株式会社アイ・オー・データ機器",
-  "vcpe": "cpe:/:i-o_data_device",
-  "pid": "20655",
-  "pname": "TS-PTCAM/POE",
-  "pcpe": "cpe:/h:i-o_data_device:ts-ptcam%2Fpoe"
+	"vid": "385",
+	"vname": "株式会社アイ・オー・データ機器",
+	"vcpe": "cpe:/:i-o_data_device",
+	"pid": "20655",
+	"pname": "TS-PTCAM/POE",
+	"pcpe": "cpe:/h:i-o_data_device:ts-ptcam%2Fpoe"
 }

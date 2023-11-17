@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "51094",
-  "pname": "Intel SecL-DC",
-  "pcpe": "cpe:/o:intel:secl-dc"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "51094",
+	"pname": "Intel SecL-DC",
+	"pcpe": "cpe:/o:intel:secl-dc"
 }

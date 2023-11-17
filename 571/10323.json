@@ -1,8 +1,8 @@
 {
-  "vid": "571",
-  "vname": "jabberd 2.x project",
-  "vcpe": "cpe:/:jabberd2",
-  "pid": "10323",
-  "pname": "exodus",
-  "pcpe": "cpe:/a:jabberd2:exodus"
+	"vid": "571",
+	"vname": "jabberd 2.x project",
+	"vcpe": "cpe:/:jabberd2",
+	"pid": "10323",
+	"pname": "exodus",
+	"pcpe": "cpe:/a:jabberd2:exodus"
 }

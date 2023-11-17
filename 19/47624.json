@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "47624",
-  "pname": "WAP131 Wireless-N Dual Radio Access Point with PoE",
-  "pcpe": "cpe:/h:cisco:wap131_wireless_n_dual_radio_access_point_with_poe"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "47624",
+	"pname": "WAP131 Wireless-N Dual Radio Access Point with PoE",
+	"pcpe": "cpe:/h:cisco:wap131_wireless_n_dual_radio_access_point_with_poe"
 }

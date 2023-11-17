@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18879",
-  "pname": "Cisco Scientific Atlanta DPX100/120 Cable Modem",
-  "pcpe": "cpe:/h:cisco:scientific_atlanta_dpx100%2f120"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18879",
+	"pname": "Cisco Scientific Atlanta DPX100/120 Cable Modem",
+	"pcpe": "cpe:/h:cisco:scientific_atlanta_dpx100%2f120"
 }

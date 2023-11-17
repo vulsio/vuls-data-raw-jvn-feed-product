@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "19940",
-  "pname": "HP-UX Whitelisting",
-  "pcpe": "cpe:/a:hp:hp-ux_whitelisting"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "19940",
+	"pname": "HP-UX Whitelisting",
+	"pcpe": "cpe:/a:hp:hp-ux_whitelisting"
 }

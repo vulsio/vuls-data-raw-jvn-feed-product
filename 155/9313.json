@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "9313",
-  "pname": "McAfee Application Control",
-  "pcpe": "cpe:/a:mcafee:application_control"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "9313",
+	"pname": "McAfee Application Control",
+	"pcpe": "cpe:/a:mcafee:application_control"
 }

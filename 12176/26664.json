@@ -1,8 +1,8 @@
 {
-  "vid": "12176",
-  "vname": "AmazonBasics",
-  "vcpe": "cpe:/:amazonbasics",
-  "pid": "26664",
-  "pname": "AmazonBasics USB ドングル",
-  "pcpe": "cpe:/h:amazonbasics:usb_dongle"
+	"vid": "12176",
+	"vname": "AmazonBasics",
+	"vcpe": "cpe:/:amazonbasics",
+	"pid": "26664",
+	"pname": "AmazonBasics USB ドングル",
+	"pcpe": "cpe:/h:amazonbasics:usb_dongle"
 }

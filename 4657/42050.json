@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "42050",
-  "pname": "HiRouter-H1-10 ファームウェア",
-  "pcpe": "cpe:/o:huawei:hirouter-h1-10_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "42050",
+	"pname": "HiRouter-H1-10 ファームウェア",
+	"pcpe": "cpe:/o:huawei:hirouter-h1-10_firmware"
 }

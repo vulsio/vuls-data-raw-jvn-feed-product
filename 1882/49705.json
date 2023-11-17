@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "49705",
-  "pname": "ZXHN H196Q ファームウェア",
-  "pcpe": "cpe:/o:zte:zxhn_h196q_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "49705",
+	"pname": "ZXHN H196Q ファームウェア",
+	"pcpe": "cpe:/o:zte:zxhn_h196q_firmware"
 }

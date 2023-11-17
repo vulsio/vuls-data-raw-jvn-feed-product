@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "51358",
-  "pname": "Intel NUC 11 Performance kit NUC11PAHi3 ファームウェア",
-  "pcpe": "cpe:/o:intel:nuc_11_performance_kit_nuc11pahi3_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "51358",
+	"pname": "Intel NUC 11 Performance kit NUC11PAHi3 ファームウェア",
+	"pcpe": "cpe:/o:intel:nuc_11_performance_kit_nuc11pahi3_firmware"
 }

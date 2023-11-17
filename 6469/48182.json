@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "48182",
-  "pname": "BTP 2070W ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:btp_2070w_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "48182",
+	"pname": "BTP 2070W ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:btp_2070w_firmware"
 }

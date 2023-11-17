@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "31275",
-  "pname": "NEC エッジゲートウェイ",
-  "pcpe": "cpe:/o:nec:nec_edge_gateway"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "31275",
+	"pname": "NEC エッジゲートウェイ",
+	"pcpe": "cpe:/o:nec:nec_edge_gateway"
 }

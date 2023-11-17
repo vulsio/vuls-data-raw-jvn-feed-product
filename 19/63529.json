@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "63529",
-  "pname": "catalyst c6832-x-le ファームウェア",
-  "pcpe": "cpe:/o:cisco:catalyst_c6832-x-le_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "63529",
+	"pname": "catalyst c6832-x-le ファームウェア",
+	"pcpe": "cpe:/o:cisco:catalyst_c6832-x-le_firmware"
 }

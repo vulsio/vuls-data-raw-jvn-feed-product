@@ -1,8 +1,8 @@
 {
-  "vid": "21869",
-  "vname": "Elvexys SA",
-  "vcpe": "cpe:/:elvexys",
-  "pid": "56245",
-  "pname": "ISOS ファームウェア",
-  "pcpe": "cpe:/o:elvexys:isos_firmware"
+	"vid": "21869",
+	"vname": "Elvexys SA",
+	"vcpe": "cpe:/:elvexys",
+	"pid": "56245",
+	"pname": "ISOS ファームウェア",
+	"pcpe": "cpe:/o:elvexys:isos_firmware"
 }

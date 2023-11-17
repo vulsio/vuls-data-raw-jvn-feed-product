@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "45778",
-  "pname": "Red Hat AMQ",
-  "pcpe": "cpe:/a:redhat:amq"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "45778",
+	"pname": "Red Hat AMQ",
+	"pcpe": "cpe:/a:redhat:amq"
 }

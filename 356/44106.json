@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "44106",
-  "pname": "Closure Library",
-  "pcpe": "cpe:/a:google:closure_library"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "44106",
+	"pname": "Closure Library",
+	"pcpe": "cpe:/a:google:closure_library"
 }

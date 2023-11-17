@@ -1,8 +1,8 @@
 {
-  "vid": "24083",
-  "vname": "omniauth",
-  "vcpe": "cpe:/:omniauth",
-  "pid": "62264",
-  "pname": "omniauth",
-  "pcpe": "cpe:/a:omniauth:omniauth"
+	"vid": "24083",
+	"vname": "omniauth",
+	"vcpe": "cpe:/:omniauth",
+	"pid": "62264",
+	"pname": "omniauth",
+	"pcpe": "cpe:/a:omniauth:omniauth"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "564",
-  "vname": "Panda Security",
-  "vcpe": "cpe:/:pandasecurity",
-  "pid": "12458",
-  "pname": "panda platinum 2006 internet security",
-  "pcpe": "cpe:/a:pandasecurity:panda_platinum_2006_internet_security"
+	"vid": "564",
+	"vname": "Panda Security",
+	"vcpe": "cpe:/:pandasecurity",
+	"pid": "12458",
+	"pname": "panda platinum 2006 internet security",
+	"pcpe": "cpe:/a:pandasecurity:panda_platinum_2006_internet_security"
 }

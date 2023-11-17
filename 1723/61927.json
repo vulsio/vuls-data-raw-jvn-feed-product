@@ -1,8 +1,8 @@
 {
-  "vid": "1723",
-  "vname": "SonicWALL",
-  "vcpe": "cpe:/:sonicwall",
-  "pid": "61927",
-  "pname": "sws14-48 ファームウェア",
-  "pcpe": "cpe:/o:sonicwall:sws14-48_firmware"
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "61927",
+	"pname": "sws14-48 ファームウェア",
+	"pcpe": "cpe:/o:sonicwall:sws14-48_firmware"
 }

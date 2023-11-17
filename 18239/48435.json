@@ -1,8 +1,8 @@
 {
-  "vid": "18239",
-  "vname": "WAVLINK",
-  "vcpe": "cpe:/:wavlink",
-  "pid": "48435",
-  "pname": "WN579X3 ファームウェア",
-  "pcpe": "cpe:/o:wavlink:wn579x3_firmware"
+	"vid": "18239",
+	"vname": "WAVLINK",
+	"vcpe": "cpe:/:wavlink",
+	"pid": "48435",
+	"pname": "WN579X3 ファームウェア",
+	"pcpe": "cpe:/o:wavlink:wn579x3_firmware"
 }

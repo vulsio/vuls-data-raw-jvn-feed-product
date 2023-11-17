@@ -1,8 +1,8 @@
 {
-  "vid": "16078",
-  "vname": "SEMCO",
-  "vcpe": "cpe:/:semcosoft",
-  "pid": "37662",
-  "pname": "Semcosoft",
-  "pcpe": "cpe:/a:semcosoft:semcosoft"
+	"vid": "16078",
+	"vname": "SEMCO",
+	"vcpe": "cpe:/:semcosoft",
+	"pid": "37662",
+	"pname": "Semcosoft",
+	"pcpe": "cpe:/a:semcosoft:semcosoft"
 }

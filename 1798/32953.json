@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "32953",
-  "pname": "SkyNAS",
-  "pcpe": "cpe:/a:synology:skynas"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "32953",
+	"pname": "SkyNAS",
+	"pcpe": "cpe:/a:synology:skynas"
 }

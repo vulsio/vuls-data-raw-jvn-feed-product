@@ -1,8 +1,8 @@
 {
-  "vid": "13026",
-  "vname": "Infineon Technologies AG",
-  "vcpe": "cpe:/:infineon",
-  "pid": "30185",
-  "pname": "Infineon S-Gold 2 (PMB 8876)",
-  "pcpe": "cpe:/h:infineon:s-gold_2_pmb_8876"
+	"vid": "13026",
+	"vname": "Infineon Technologies AG",
+	"vcpe": "cpe:/:infineon",
+	"pid": "30185",
+	"pname": "Infineon S-Gold 2 (PMB 8876)",
+	"pcpe": "cpe:/h:infineon:s-gold_2_pmb_8876"
 }

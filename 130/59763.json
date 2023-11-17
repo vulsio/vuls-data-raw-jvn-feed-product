@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "59763",
-  "pname": "celeron n2808 ファームウェア",
-  "pcpe": "cpe:/o:intel:celeron_n2808_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "59763",
+	"pname": "celeron n2808 ファームウェア",
+	"pcpe": "cpe:/o:intel:celeron_n2808_firmware"
 }

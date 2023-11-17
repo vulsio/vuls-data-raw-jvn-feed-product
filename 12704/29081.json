@@ -1,8 +1,8 @@
 {
-  "vid": "12704",
-  "vname": "Emirates NBD Bank PJSC",
-  "vcpe": "cpe:/:emirates_nbd_bank_p.j.s.c",
-  "pid": "29081",
-  "pname": "Emirates NBD KSA",
-  "pcpe": "cpe:/a:emirates_nbd_bank_p.j.s.c:emirates_nbd_ksa"
+	"vid": "12704",
+	"vname": "Emirates NBD Bank PJSC",
+	"vcpe": "cpe:/:emirates_nbd_bank_p.j.s.c",
+	"pid": "29081",
+	"pname": "Emirates NBD KSA",
+	"pcpe": "cpe:/a:emirates_nbd_bank_p.j.s.c:emirates_nbd_ksa"
 }

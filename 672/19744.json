@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "19744",
-  "pname": "ManageEngine OpStor",
-  "pcpe": "cpe:/a:zohocorp:manageengine_opstor"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "19744",
+	"pname": "ManageEngine OpStor",
+	"pcpe": "cpe:/a:zohocorp:manageengine_opstor"
 }

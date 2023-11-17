@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "17452",
-  "pname": "Surveillance Station Pro",
-  "pcpe": "cpe:/a:qnap:surveillance_station_pro"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "17452",
+	"pname": "Surveillance Station Pro",
+	"pcpe": "cpe:/a:qnap:surveillance_station_pro"
 }

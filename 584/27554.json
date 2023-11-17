@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "27554",
-  "pname": "SIMATIC S7-300 CPU 315-2 DP",
-  "pcpe": "cpe:/h:siemens:simatic_s7-300_cpu_315-2_dp"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "27554",
+	"pname": "SIMATIC S7-300 CPU 315-2 DP",
+	"pcpe": "cpe:/h:siemens:simatic_s7-300_cpu_315-2_dp"
 }

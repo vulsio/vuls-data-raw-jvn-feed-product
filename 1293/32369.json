@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "32369",
-  "pname": "Sophos Tester",
-  "pcpe": "cpe:/a:sophos:sophos_tester"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "32369",
+	"pname": "Sophos Tester",
+	"pcpe": "cpe:/a:sophos:sophos_tester"
 }

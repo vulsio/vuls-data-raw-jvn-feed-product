@@ -1,8 +1,8 @@
 {
-  "vid": "13223",
-  "vname": "株式会社SBI証券",
-  "vcpe": "cpe:/:sbisec",
-  "pid": "30918",
-  "pname": "HYPER SBI",
-  "pcpe": "cpe:/a:sbisec:hyper_sbi"
+	"vid": "13223",
+	"vname": "株式会社SBI証券",
+	"vcpe": "cpe:/:sbisec",
+	"pid": "30918",
+	"pname": "HYPER SBI",
+	"pcpe": "cpe:/a:sbisec:hyper_sbi"
 }

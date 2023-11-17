@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "25790",
-  "pname": "HP EliteBook 820 G3",
-  "pcpe": "cpe:/h:hp:elitebook_820_g3"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "25790",
+	"pname": "HP EliteBook 820 G3",
+	"pcpe": "cpe:/h:hp:elitebook_820_g3"
 }

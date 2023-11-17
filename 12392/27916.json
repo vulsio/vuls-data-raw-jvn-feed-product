@@ -1,8 +1,8 @@
 {
-  "vid": "12392",
-  "vname": "AnyVar project",
-  "vcpe": "cpe:/:anyvar_project",
-  "pid": "27916",
-  "pname": "AnyVar",
-  "pcpe": "cpe:/a:anyvar_project:anyvar_plugin"
+	"vid": "12392",
+	"vname": "AnyVar project",
+	"vcpe": "cpe:/:anyvar_project",
+	"pid": "27916",
+	"pname": "AnyVar",
+	"pcpe": "cpe:/a:anyvar_project:anyvar_plugin"
 }

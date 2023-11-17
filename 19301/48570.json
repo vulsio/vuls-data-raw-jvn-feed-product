@@ -1,8 +1,8 @@
 {
-  "vid": "19301",
-  "vname": "UnionPay International",
-  "vcpe": "cpe:/:unionpayintl",
-  "pid": "48570",
-  "pname": "UnionPay",
-  "pcpe": "cpe:/a:unionpayintl:union_pay"
+	"vid": "19301",
+	"vname": "UnionPay International",
+	"vcpe": "cpe:/:unionpayintl",
+	"pid": "48570",
+	"pname": "UnionPay",
+	"pcpe": "cpe:/a:unionpayintl:union_pay"
 }

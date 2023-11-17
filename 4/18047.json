@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18047",
-  "pname": "3COM Switch 5500G-EI 48-port",
-  "pcpe": "cpe:/h:hp:5500g-48_ei_10%2F100%2F1000_no_power_supply_unit_switch"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18047",
+	"pname": "3COM Switch 5500G-EI 48-port",
+	"pcpe": "cpe:/h:hp:5500g-48_ei_10%2F100%2F1000_no_power_supply_unit_switch"
 }

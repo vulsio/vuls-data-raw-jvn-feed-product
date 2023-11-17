@@ -1,8 +1,8 @@
 {
-  "vid": "12167",
-  "vname": "WECON Technology Co., Ltd.",
-  "vcpe": "cpe:/:wecon",
-  "pid": "36192",
-  "pname": "PI Studio HMI",
-  "pcpe": "cpe:/a:wecon:pi_studio_hmi"
+	"vid": "12167",
+	"vname": "WECON Technology Co., Ltd.",
+	"vcpe": "cpe:/:wecon",
+	"pid": "36192",
+	"pname": "PI Studio HMI",
+	"pcpe": "cpe:/a:wecon:pi_studio_hmi"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16090",
-  "vname": "Invision Community",
-  "vcpe": "cpe:/:invisioncommunity",
-  "pid": "48933",
-  "pname": "IPS Community Suite",
-  "pcpe": "cpe:/a:invisioncommunity:ips_community_suite"
+	"vid": "16090",
+	"vname": "Invision Community",
+	"vcpe": "cpe:/:invisioncommunity",
+	"pid": "48933",
+	"pname": "IPS Community Suite",
+	"pcpe": "cpe:/a:invisioncommunity:ips_community_suite"
 }

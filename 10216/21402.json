@@ -1,8 +1,8 @@
 {
-  "vid": "10216",
-  "vname": "Epicor Software",
-  "vcpe": "cpe:/:epicor",
-  "pid": "21402",
-  "pname": "Epicor Enterprise",
-  "pcpe": "cpe:/a:epicor:epicor_enterprise"
+	"vid": "10216",
+	"vname": "Epicor Software",
+	"vcpe": "cpe:/:epicor",
+	"pid": "21402",
+	"pname": "Epicor Enterprise",
+	"pcpe": "cpe:/a:epicor:epicor_enterprise"
 }

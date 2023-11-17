@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "21443",
-  "pname": "Cisco TelePresence MCU ソフトウェア",
-  "pcpe": "cpe:/a:cisco:telepresence_mcu_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "21443",
+	"pname": "Cisco TelePresence MCU ソフトウェア",
+	"pcpe": "cpe:/a:cisco:telepresence_mcu_software"
 }

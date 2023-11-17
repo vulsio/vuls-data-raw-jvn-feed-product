@@ -1,8 +1,8 @@
 {
-  "vid": "20751",
-  "vname": "Fileviewer project",
-  "vcpe": "cpe:/:fileviewer_project",
-  "pid": "52929",
-  "pname": "Fileviewer",
-  "pcpe": "cpe:/a:fileviewer_project:fileviewer"
+	"vid": "20751",
+	"vname": "Fileviewer project",
+	"vcpe": "cpe:/:fileviewer_project",
+	"pid": "52929",
+	"pname": "Fileviewer",
+	"pcpe": "cpe:/a:fileviewer_project:fileviewer"
 }

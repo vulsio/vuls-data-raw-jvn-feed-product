@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "44620",
-  "pname": "ZENIC ONE R22b",
-  "pcpe": "cpe:/a:zte:zenic_one_r22b"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "44620",
+	"pname": "ZENIC ONE R22b",
+	"pcpe": "cpe:/a:zte:zenic_one_r22b"
 }

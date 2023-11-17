@@ -1,8 +1,8 @@
 {
-  "vid": "24300",
-  "vname": "helmholz",
-  "vcpe": "cpe:/:helmholz",
-  "pid": "62801",
-  "pname": "myrex24.virtual",
-  "pcpe": "cpe:/a:helmholz:myrex24.virtual"
+	"vid": "24300",
+	"vname": "helmholz",
+	"vcpe": "cpe:/:helmholz",
+	"pid": "62801",
+	"pname": "myrex24.virtual",
+	"pcpe": "cpe:/a:helmholz:myrex24.virtual"
 }

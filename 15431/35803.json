@@ -1,8 +1,8 @@
 {
-  "vid": "15431",
-  "vname": "egg",
-  "vcpe": "cpe:/:eggjs",
-  "pid": "35803",
-  "pname": "egg-scripts",
-  "pcpe": "cpe:/a:eggjs:egg-scripts"
+	"vid": "15431",
+	"vname": "egg",
+	"vcpe": "cpe:/:eggjs",
+	"pid": "35803",
+	"pname": "egg-scripts",
+	"pcpe": "cpe:/a:eggjs:egg-scripts"
 }

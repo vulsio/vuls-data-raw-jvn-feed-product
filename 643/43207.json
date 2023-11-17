@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "43207",
-  "pname": "Dell EMC Unity XT Operating Environment",
-  "pcpe": "cpe:/a:dell:emc_unity_xt_operating_environment"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "43207",
+	"pname": "Dell EMC Unity XT Operating Environment",
+	"pcpe": "cpe:/a:dell:emc_unity_xt_operating_environment"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "36979",
-  "pname": "Cisco RV325 Dual Gigabit WAN VPN ルータファームウェア",
-  "pcpe": "cpe:/o:cisco:rv325_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "36979",
+	"pname": "Cisco RV325 Dual Gigabit WAN VPN ルータファームウェア",
+	"pcpe": "cpe:/o:cisco:rv325_firmware"
 }

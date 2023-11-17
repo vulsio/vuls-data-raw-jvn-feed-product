@@ -1,8 +1,8 @@
 {
-  "vid": "18852",
-  "vname": "ピーアンドエフ",
-  "vcpe": "cpe:/:pepperl-fuchs",
-  "pid": "47974",
-  "pname": "PGV100-F200-B17-V1D-7477 ファームウェア",
-  "pcpe": "cpe:/o:pepperl-fuchs:pgv100-f200-b17-v1d-7477_firmware"
+	"vid": "18852",
+	"vname": "ピーアンドエフ",
+	"vcpe": "cpe:/:pepperl-fuchs",
+	"pid": "47974",
+	"pname": "PGV100-F200-B17-V1D-7477 ファームウェア",
+	"pcpe": "cpe:/o:pepperl-fuchs:pgv100-f200-b17-v1d-7477_firmware"
 }

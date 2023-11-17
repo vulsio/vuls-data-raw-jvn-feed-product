@@ -1,8 +1,8 @@
 {
-  "vid": "8972",
-  "vname": "TURCK",
-  "vcpe": "cpe:/:turck",
-  "pid": "17339",
-  "pname": "TURCK BL20 Programmable Gateway",
-  "pcpe": "cpe:/a:turck:bl20_programmable_gateway"
+	"vid": "8972",
+	"vname": "TURCK",
+	"vcpe": "cpe:/:turck",
+	"pid": "17339",
+	"pname": "TURCK BL20 Programmable Gateway",
+	"pcpe": "cpe:/a:turck:bl20_programmable_gateway"
 }

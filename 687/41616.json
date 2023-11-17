@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "41616",
-  "pname": "TIBCO EBX Add-ons",
-  "pcpe": "cpe:/a:tibco:ebx_add-ons"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "41616",
+	"pname": "TIBCO EBX Add-ons",
+	"pcpe": "cpe:/a:tibco:ebx_add-ons"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "24790",
-  "pname": "Skype for Business Server",
-  "pcpe": "cpe:/a:microsoft:skype_for_business_server"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "24790",
+	"pname": "Skype for Business Server",
+	"pcpe": "cpe:/a:microsoft:skype_for_business_server"
 }

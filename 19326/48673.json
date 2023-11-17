@@ -1,8 +1,8 @@
 {
-  "vid": "19326",
-  "vname": "Aprelium",
-  "vcpe": "cpe:/:aprelium",
-  "pid": "48673",
-  "pname": "Abyss Web Server X1",
-  "pcpe": "cpe:/a:aprelium:abyss_web_server_x1"
+	"vid": "19326",
+	"vname": "Aprelium",
+	"vcpe": "cpe:/:aprelium",
+	"pid": "48673",
+	"pname": "Abyss Web Server X1",
+	"pcpe": "cpe:/a:aprelium:abyss_web_server_x1"
 }

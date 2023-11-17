@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "63092",
-  "pname": "gs1900-48hpv2 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:gs1900-48hpv2_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "63092",
+	"pname": "gs1900-48hpv2 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:gs1900-48hpv2_firmware"
 }

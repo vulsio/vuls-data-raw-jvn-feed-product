@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "29966",
-  "pname": "Apache Commons Email",
-  "pcpe": "cpe:/a:apache:commons_email"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "29966",
+	"pname": "Apache Commons Email",
+	"pcpe": "cpe:/a:apache:commons_email"
 }

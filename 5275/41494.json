@@ -1,8 +1,8 @@
 {
-  "vid": "5275",
-  "vname": "LEAD Technologies, Inc.",
-  "vcpe": "cpe:/:lead_technologies",
-  "pid": "41494",
-  "pname": "leadtools",
-  "pcpe": "cpe:/a:lead_technologies:leadtools"
+	"vid": "5275",
+	"vname": "LEAD Technologies, Inc.",
+	"vcpe": "cpe:/:lead_technologies",
+	"pid": "41494",
+	"pname": "leadtools",
+	"pcpe": "cpe:/a:lead_technologies:leadtools"
 }

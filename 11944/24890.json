@@ -1,8 +1,8 @@
 {
-  "vid": "11944",
-  "vname": "IBC SOLAR",
-  "vcpe": "cpe:/:ibc_solar",
-  "pid": "24890",
-  "pname": "ServeMaster TLP+",
-  "pcpe": "cpe:/a:ibc_solar:servemaster_tlp%2B"
+	"vid": "11944",
+	"vname": "IBC SOLAR",
+	"vcpe": "cpe:/:ibc_solar",
+	"pid": "24890",
+	"pname": "ServeMaster TLP+",
+	"pcpe": "cpe:/a:ibc_solar:servemaster_tlp%2B"
 }

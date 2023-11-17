@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "5081",
-  "pname": "SCALANCE S602",
-  "pcpe": "cpe:/h:siemens:scalance_s602"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "5081",
+	"pname": "SCALANCE S602",
+	"pcpe": "cpe:/h:siemens:scalance_s602"
 }

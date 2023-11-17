@@ -1,8 +1,8 @@
 {
-  "vid": "18712",
-  "vname": "Pancake Payments",
-  "vcpe": "cpe:/:pancakeapp",
-  "pid": "46359",
-  "pname": "Pancake",
-  "pcpe": "cpe:/a:pancakeapp:pancake"
+	"vid": "18712",
+	"vname": "Pancake Payments",
+	"vcpe": "cpe:/:pancakeapp",
+	"pid": "46359",
+	"pname": "Pancake",
+	"pcpe": "cpe:/a:pancakeapp:pancake"
 }

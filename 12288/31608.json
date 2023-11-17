@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "31608",
-  "pname": "cf-deployment",
-  "pcpe": "cpe:/a:cloud_foundry:cf-deployment"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "31608",
+	"pname": "cf-deployment",
+	"pcpe": "cpe:/a:cloud_foundry:cf-deployment"
 }

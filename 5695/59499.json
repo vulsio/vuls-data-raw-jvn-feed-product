@@ -1,8 +1,8 @@
 {
-  "vid": "5695",
-  "vname": "Mitel Networks Corporation",
-  "vcpe": "cpe:/:mitel",
-  "pid": "59499",
-  "pname": "6865i sip ファームウェア",
-  "pcpe": "cpe:/o:mitel:6865i_sip_firmware"
+	"vid": "5695",
+	"vname": "Mitel Networks Corporation",
+	"vcpe": "cpe:/:mitel",
+	"pid": "59499",
+	"pname": "6865i sip ファームウェア",
+	"pcpe": "cpe:/o:mitel:6865i_sip_firmware"
 }

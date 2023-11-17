@@ -1,8 +1,8 @@
 {
-  "vid": "11886",
-  "vname": "Widgets project",
-  "vcpe": "cpe:/:widgets_project",
-  "pid": "24764",
-  "pname": "Widgets",
-  "pcpe": "cpe:/a:widgets_project:widgets"
+	"vid": "11886",
+	"vname": "Widgets project",
+	"vcpe": "cpe:/:widgets_project",
+	"pid": "24764",
+	"pname": "Widgets",
+	"pcpe": "cpe:/a:widgets_project:widgets"
 }

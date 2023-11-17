@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "31347",
-  "pname": "Intel Deep Learning Training Tool",
-  "pcpe": "cpe:/a:intel:deep_learning_training_tool"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "31347",
+	"pname": "Intel Deep Learning Training Tool",
+	"pcpe": "cpe:/a:intel:deep_learning_training_tool"
 }

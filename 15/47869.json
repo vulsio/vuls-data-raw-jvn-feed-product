@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47869",
-  "pname": "Oracle Customers Online",
-  "pcpe": "cpe:/a:oracle:customers_online"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47869",
+	"pname": "Oracle Customers Online",
+	"pcpe": "cpe:/a:oracle:customers_online"
 }

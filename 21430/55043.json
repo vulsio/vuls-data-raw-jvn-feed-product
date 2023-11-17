@@ -1,8 +1,8 @@
 {
-  "vid": "21430",
-  "vname": "crypto2 project",
-  "vcpe": "cpe:/:crypto2_project",
-  "pid": "55043",
-  "pname": "crypto2",
-  "pcpe": "cpe:/a:crypto2_project:crypto2"
+	"vid": "21430",
+	"vname": "crypto2 project",
+	"vcpe": "cpe:/:crypto2_project",
+	"pid": "55043",
+	"pname": "crypto2",
+	"pcpe": "cpe:/a:crypto2_project:crypto2"
 }

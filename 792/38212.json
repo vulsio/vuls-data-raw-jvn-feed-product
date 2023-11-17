@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "38212",
-  "pname": "NAS 326 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:nas326_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "38212",
+	"pname": "NAS 326 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:nas326_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "57354",
-  "pname": "Alienware m15 A6 ファームウェア",
-  "pcpe": "cpe:/o:dell:alienware_m15_a6_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "57354",
+	"pname": "Alienware m15 A6 ファームウェア",
+	"pcpe": "cpe:/o:dell:alienware_m15_a6_firmware"
 }

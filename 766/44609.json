@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "44609",
-  "pname": "Tricon TCM 4352 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:tricon_tcm_4352_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "44609",
+	"pname": "Tricon TCM 4352 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:tricon_tcm_4352_firmware"
 }

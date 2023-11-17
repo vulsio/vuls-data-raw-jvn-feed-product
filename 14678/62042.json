@@ -1,8 +1,8 @@
 {
-  "vid": "14678",
-  "vname": "HCL Technologies Limited",
-  "vcpe": "cpe:/:hcltech",
-  "pid": "62042",
-  "pname": "HCL Leap",
-  "pcpe": "cpe:/a:hcltech:hcl_leap"
+	"vid": "14678",
+	"vname": "HCL Technologies Limited",
+	"vcpe": "cpe:/:hcltech",
+	"pid": "62042",
+	"pname": "HCL Leap",
+	"pcpe": "cpe:/a:hcltech:hcl_leap"
 }

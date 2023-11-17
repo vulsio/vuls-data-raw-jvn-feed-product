@@ -1,8 +1,8 @@
 {
-  "vid": "18252",
-  "vname": "reportportal",
-  "vcpe": "cpe:/:reportportal",
-  "pid": "44716",
-  "pname": "service-api",
-  "pcpe": "cpe:/a:reportportal:service-api"
+	"vid": "18252",
+	"vname": "reportportal",
+	"vcpe": "cpe:/:reportportal",
+	"pid": "44716",
+	"pname": "service-api",
+	"pcpe": "cpe:/a:reportportal:service-api"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16842",
-  "vname": "Media Library Assistant project",
-  "vcpe": "cpe:/:media_library_assistant_project",
-  "pid": "40093",
-  "pname": "Media Library Assistant",
-  "pcpe": "cpe:/a:media_library_assistant_project:media_library_assistant"
+	"vid": "16842",
+	"vname": "Media Library Assistant project",
+	"vcpe": "cpe:/:media_library_assistant_project",
+	"pid": "40093",
+	"pname": "Media Library Assistant",
+	"pcpe": "cpe:/a:media_library_assistant_project:media_library_assistant"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3452",
-  "vname": "eiqnetworks",
-  "vcpe": "cpe:/:eiqnetworks",
-  "pid": "7725",
-  "pname": "enterprise security analyzer",
-  "pcpe": "cpe:/a:eiqnetworks:enterprise_security_analyzer"
+	"vid": "3452",
+	"vname": "eiqnetworks",
+	"vcpe": "cpe:/:eiqnetworks",
+	"pid": "7725",
+	"pname": "enterprise security analyzer",
+	"pcpe": "cpe:/a:eiqnetworks:enterprise_security_analyzer"
 }

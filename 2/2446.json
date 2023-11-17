@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "2446",
-  "pname": "Microsoft Office Word Viewer",
-  "pcpe": "cpe:/a:microsoft:office_word_viewer"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "2446",
+	"pname": "Microsoft Office Word Viewer",
+	"pcpe": "cpe:/a:microsoft:office_word_viewer"
 }

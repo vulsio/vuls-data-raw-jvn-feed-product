@@ -1,8 +1,8 @@
 {
-  "vid": "3280",
-  "vname": "docmint",
-  "vcpe": "cpe:/:docmint",
-  "pid": "7410",
-  "pname": "docmint cms",
-  "pcpe": "cpe:/a:docmint:docmint_cms"
+	"vid": "3280",
+	"vname": "docmint",
+	"vcpe": "cpe:/:docmint",
+	"pid": "7410",
+	"pname": "docmint cms",
+	"pcpe": "cpe:/a:docmint:docmint_cms"
 }

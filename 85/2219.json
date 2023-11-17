@@ -1,8 +1,8 @@
 {
-  "vid": "85",
-  "vname": "Carnegie Mellon University (Project Cyrus)",
-  "vcpe": "cpe:/:cmu",
-  "pid": "2219",
-  "pname": "Cyrus IMAP",
-  "pcpe": "cpe:/a:cmu:imap"
+	"vid": "85",
+	"vname": "Carnegie Mellon University (Project Cyrus)",
+	"vcpe": "cpe:/:cmu",
+	"pid": "2219",
+	"pname": "Cyrus IMAP",
+	"pcpe": "cpe:/a:cmu:imap"
 }

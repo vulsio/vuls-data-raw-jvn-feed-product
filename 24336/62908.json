@@ -1,8 +1,8 @@
 {
-  "vid": "24336",
-  "vname": "nikon",
-  "vcpe": "cpe:/:nikon",
-  "pid": "62908",
-  "pname": "nis-elements viewer",
-  "pcpe": "cpe:/a:nikon:nis-elements_viewer"
+	"vid": "24336",
+	"vname": "nikon",
+	"vcpe": "cpe:/:nikon",
+	"pid": "62908",
+	"pname": "nis-elements viewer",
+	"pcpe": "cpe:/a:nikon:nis-elements_viewer"
 }

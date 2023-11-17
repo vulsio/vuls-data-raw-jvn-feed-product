@@ -1,8 +1,8 @@
 {
-  "vid": "15671",
-  "vname": "Lightbend",
-  "vcpe": "cpe:/:lightbend",
-  "pid": "60035",
-  "pname": "play framework",
-  "pcpe": "cpe:/a:lightbend:play_framework"
+	"vid": "15671",
+	"vname": "Lightbend",
+	"vcpe": "cpe:/:lightbend",
+	"pid": "60035",
+	"pname": "play framework",
+	"pcpe": "cpe:/a:lightbend:play_framework"
 }

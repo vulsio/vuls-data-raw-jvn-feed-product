@@ -1,8 +1,8 @@
 {
-  "vid": "868",
-  "vname": "PrestaShop",
-  "vcpe": "cpe:/:prestashop",
-  "pid": "44037",
-  "pname": "Faceted search module",
-  "pcpe": "cpe:/a:prestashop:faceted_search_module"
+	"vid": "868",
+	"vname": "PrestaShop",
+	"vcpe": "cpe:/:prestashop",
+	"pid": "44037",
+	"pname": "Faceted search module",
+	"pcpe": "cpe:/a:prestashop:faceted_search_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5148",
-  "vname": "keil-software",
-  "vcpe": "cpe:/:keil-software",
-  "pid": "10778",
-  "pname": "photokorn",
-  "pcpe": "cpe:/a:keil-software:photokorn"
+	"vid": "5148",
+	"vname": "keil-software",
+	"vcpe": "cpe:/:keil-software",
+	"pid": "10778",
+	"pname": "photokorn",
+	"pcpe": "cpe:/a:keil-software:photokorn"
 }

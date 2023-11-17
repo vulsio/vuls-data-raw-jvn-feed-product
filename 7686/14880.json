@@ -1,8 +1,8 @@
 {
-  "vid": "7686",
-  "vname": "smbftpd",
-  "vcpe": "cpe:/:smbftpd",
-  "pid": "14880",
-  "pname": "smbftpd",
-  "pcpe": "cpe:/a:smbftpd:smbftpd"
+	"vid": "7686",
+	"vname": "smbftpd",
+	"vcpe": "cpe:/:smbftpd",
+	"pid": "14880",
+	"pname": "smbftpd",
+	"pcpe": "cpe:/a:smbftpd:smbftpd"
 }

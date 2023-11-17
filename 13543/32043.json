@@ -1,8 +1,8 @@
 {
-  "vid": "13543",
-  "vname": "BA Systems",
-  "vcpe": "cpe:/:basystems",
-  "pid": "32043",
-  "pname": "ISC2000 ファームウェア",
-  "pcpe": "cpe:/o:basystems:isc2000_firmware"
+	"vid": "13543",
+	"vname": "BA Systems",
+	"vcpe": "cpe:/:basystems",
+	"pid": "32043",
+	"pname": "ISC2000 ファームウェア",
+	"pcpe": "cpe:/o:basystems:isc2000_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "57140",
-  "pname": "CC-Link IEコントローラネットワークデータコレクタ",
-  "pcpe": "cpe:/a:mitsubishielectric:cc-link_ie_control_network_data_collector"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "57140",
+	"pname": "CC-Link IEコントローラネットワークデータコレクタ",
+	"pcpe": "cpe:/a:mitsubishielectric:cc-link_ie_control_network_data_collector"
 }

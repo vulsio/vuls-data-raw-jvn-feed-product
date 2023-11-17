@@ -1,8 +1,8 @@
 {
-  "vid": "4160",
-  "vname": "VIVOTEK Inc.",
-  "vcpe": "cpe:/:vivotek",
-  "pid": "42682",
-  "pname": "IP7160 ファームウェア",
-  "pcpe": "cpe:/o:vivotek:ip7160_firmware"
+	"vid": "4160",
+	"vname": "VIVOTEK Inc.",
+	"vcpe": "cpe:/:vivotek",
+	"pid": "42682",
+	"pname": "IP7160 ファームウェア",
+	"pcpe": "cpe:/o:vivotek:ip7160_firmware"
 }

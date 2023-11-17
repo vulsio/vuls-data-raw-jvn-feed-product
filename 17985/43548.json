@@ -1,8 +1,8 @@
 {
-  "vid": "17985",
-  "vname": "serial-number project",
-  "vcpe": "cpe:/:serial-number_project",
-  "pid": "43548",
-  "pname": "serial-number",
-  "pcpe": "cpe:/a:serial-number_project:serial-number"
+	"vid": "17985",
+	"vname": "serial-number project",
+	"vcpe": "cpe:/:serial-number_project",
+	"pid": "43548",
+	"pname": "serial-number",
+	"pcpe": "cpe:/a:serial-number_project:serial-number"
 }

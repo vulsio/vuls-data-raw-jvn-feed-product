@@ -1,8 +1,8 @@
 {
-  "vid": "18240",
-  "vname": "GENEREX",
-  "vcpe": "cpe:/:generex",
-  "pid": "44688",
-  "pname": "GENEREX CS141 ファームウェア",
-  "pcpe": "cpe:/o:generex:cs141_firmware"
+	"vid": "18240",
+	"vname": "GENEREX",
+	"vcpe": "cpe:/:generex",
+	"pid": "44688",
+	"pname": "GENEREX CS141 ファームウェア",
+	"pcpe": "cpe:/o:generex:cs141_firmware"
 }

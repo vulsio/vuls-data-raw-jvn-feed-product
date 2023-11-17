@@ -1,8 +1,8 @@
 {
-  "vid": "18852",
-  "vname": "ピーアンドエフ",
-  "vcpe": "cpe:/:pepperl-fuchs",
-  "pid": "49297",
-  "pname": "IO-Link Master DR-8-PNIO ファームウェア",
-  "pcpe": "cpe:/o:pepperl-fuchs:io-link_master_dr-8-pnio_firmware"
+	"vid": "18852",
+	"vname": "ピーアンドエフ",
+	"vcpe": "cpe:/:pepperl-fuchs",
+	"pid": "49297",
+	"pname": "IO-Link Master DR-8-PNIO ファームウェア",
+	"pcpe": "cpe:/o:pepperl-fuchs:io-link_master_dr-8-pnio_firmware"
 }

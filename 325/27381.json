@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27381",
-  "pname": "ThinkPad 11e (Skylake)",
-  "pcpe": "cpe:/h:lenovo:thinkpad_11e_skylake"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27381",
+	"pname": "ThinkPad 11e (Skylake)",
+	"pcpe": "cpe:/h:lenovo:thinkpad_11e_skylake"
 }

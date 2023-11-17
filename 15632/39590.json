@@ -1,8 +1,8 @@
 {
-  "vid": "15632",
-  "vname": "AudioCodes",
-  "vcpe": "cpe:/:audiocodes",
-  "pid": "39590",
-  "pname": "AudioCodes Mediant M800B-MSBR ファームウェア",
-  "pcpe": "cpe:/o:audiocodes:mediant_m800b-msbr_firmware"
+	"vid": "15632",
+	"vname": "AudioCodes",
+	"vcpe": "cpe:/:audiocodes",
+	"pid": "39590",
+	"pname": "AudioCodes Mediant M800B-MSBR ファームウェア",
+	"pcpe": "cpe:/o:audiocodes:mediant_m800b-msbr_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "54144",
-  "pname": "Cisco SF250-48 ファームウェア",
-  "pcpe": "cpe:/o:cisco:sf250-48_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "54144",
+	"pname": "Cisco SF250-48 ファームウェア",
+	"pcpe": "cpe:/o:cisco:sf250-48_firmware"
 }

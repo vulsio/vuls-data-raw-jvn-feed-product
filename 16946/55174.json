@@ -1,8 +1,8 @@
 {
-  "vid": "16946",
-  "vname": "Datalogic",
-  "vcpe": "cpe:/:datalogic",
-  "pid": "55174",
-  "pname": "DXU",
-  "pcpe": "cpe:/a:datalogic:dxu"
+	"vid": "16946",
+	"vname": "Datalogic",
+	"vcpe": "cpe:/:datalogic",
+	"pid": "55174",
+	"pname": "DXU",
+	"pcpe": "cpe:/a:datalogic:dxu"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9991",
-  "vname": "Sensys Networks, Inc.",
-  "vcpe": "cpe:/:sensysnetworks",
-  "pid": "20972",
-  "pname": "TrafficDOT",
-  "pcpe": "cpe:/a:sensysnetworks:trafficdot"
+	"vid": "9991",
+	"vname": "Sensys Networks, Inc.",
+	"vcpe": "cpe:/:sensysnetworks",
+	"pid": "20972",
+	"pname": "TrafficDOT",
+	"pcpe": "cpe:/a:sensysnetworks:trafficdot"
 }

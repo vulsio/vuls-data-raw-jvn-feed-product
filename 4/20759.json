@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "20759",
-  "pname": "HP NonStop Safeguard Security Software",
-  "pcpe": "cpe:/a:hp:nonstop_safeguard_security"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "20759",
+	"pname": "HP NonStop Safeguard Security Software",
+	"pcpe": "cpe:/a:hp:nonstop_safeguard_security"
 }

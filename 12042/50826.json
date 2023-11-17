@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "50826",
-  "pname": "HPE Agentless Management Service",
-  "pcpe": "cpe:/o:hp:hpe_agentless_management_service"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "50826",
+	"pname": "HPE Agentless Management Service",
+	"pcpe": "cpe:/o:hp:hpe_agentless_management_service"
 }

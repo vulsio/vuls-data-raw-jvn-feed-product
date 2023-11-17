@@ -1,8 +1,8 @@
 {
-  "vid": "11833",
-  "vname": "Job Manager",
-  "vcpe": "cpe:/:jobmanager",
-  "pid": "24610",
-  "pname": "Job Manager",
-  "pcpe": "cpe:/a:jobmanager:job_manager"
+	"vid": "11833",
+	"vname": "Job Manager",
+	"vcpe": "cpe:/:jobmanager",
+	"pid": "24610",
+	"pname": "Job Manager",
+	"pcpe": "cpe:/a:jobmanager:job_manager"
 }

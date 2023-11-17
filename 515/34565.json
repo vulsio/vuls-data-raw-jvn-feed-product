@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "34565",
-  "pname": "NSX SD-WAN Edge by VeloCloud",
-  "pcpe": "cpe:/a:vmware:nsx_sd-wan_by_velocloud"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "34565",
+	"pname": "NSX SD-WAN Edge by VeloCloud",
+	"pcpe": "cpe:/a:vmware:nsx_sd-wan_by_velocloud"
 }

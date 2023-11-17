@@ -1,8 +1,8 @@
 {
-  "vid": "18048",
-  "vname": "Edison Software",
-  "vcpe": "cpe:/:edison",
-  "pid": "43881",
-  "pname": "Edison Mail",
-  "pcpe": "cpe:/a:edison:edison_mail"
+	"vid": "18048",
+	"vname": "Edison Software",
+	"vcpe": "cpe:/:edison",
+	"pid": "43881",
+	"pname": "Edison Mail",
+	"pcpe": "cpe:/a:edison:edison_mail"
 }

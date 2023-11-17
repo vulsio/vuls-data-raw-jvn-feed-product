@@ -1,8 +1,8 @@
 {
-  "vid": "23771",
-  "vname": "fava project",
-  "vcpe": "cpe:/:fava_project",
-  "pid": "61492",
-  "pname": "fava",
-  "pcpe": "cpe:/a:fava_project:fava"
+	"vid": "23771",
+	"vname": "fava project",
+	"vcpe": "cpe:/:fava_project",
+	"pid": "61492",
+	"pname": "fava",
+	"pcpe": "cpe:/a:fava_project:fava"
 }

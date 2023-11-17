@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "62725",
-  "pname": "JP1/Performance Management - Agent Option for Application Server",
-  "pcpe": "cpe:/a:hitachi:jp1%2Fperformance_management_-_agent_option_for_application_server"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "62725",
+	"pname": "JP1/Performance Management - Agent Option for Application Server",
+	"pcpe": "cpe:/a:hitachi:jp1%2Fperformance_management_-_agent_option_for_application_server"
 }

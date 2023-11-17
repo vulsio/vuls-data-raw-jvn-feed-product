@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "51575",
-  "pname": "Micro830 ファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:micro830_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "51575",
+	"pname": "Micro830 ファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:micro830_firmware"
 }

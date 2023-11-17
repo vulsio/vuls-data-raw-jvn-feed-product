@@ -1,8 +1,8 @@
 {
-  "vid": "24212",
-  "vname": "better delete revision project",
-  "vcpe": "cpe:/:better_delete_revision_project",
-  "pid": "62621",
-  "pname": "better delete revision",
-  "pcpe": "cpe:/a:better_delete_revision_project:better_delete_revision"
+	"vid": "24212",
+	"vname": "better delete revision project",
+	"vcpe": "cpe:/:better_delete_revision_project",
+	"pid": "62621",
+	"pname": "better delete revision",
+	"pcpe": "cpe:/a:better_delete_revision_project:better_delete_revision"
 }

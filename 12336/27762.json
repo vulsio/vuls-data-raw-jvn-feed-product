@@ -1,8 +1,8 @@
 {
-  "vid": "12336",
-  "vname": "semver project",
-  "vcpe": "cpe:/:misc",
-  "pid": "27762",
-  "pname": "semver",
-  "pcpe": "cpe:/a:misc:semver_project_semver"
+	"vid": "12336",
+	"vname": "semver project",
+	"vcpe": "cpe:/:misc",
+	"pid": "27762",
+	"pname": "semver",
+	"pcpe": "cpe:/a:misc:semver_project_semver"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22466",
-  "vname": "wikomobile",
-  "vcpe": "cpe:/:wikomobile",
-  "pid": "57792",
-  "pname": "tommy 3 ファームウェア",
-  "pcpe": "cpe:/o:wikomobile:tommy_3_firmware"
+	"vid": "22466",
+	"vname": "wikomobile",
+	"vcpe": "cpe:/:wikomobile",
+	"pid": "57792",
+	"pname": "tommy 3 ファームウェア",
+	"pcpe": "cpe:/o:wikomobile:tommy_3_firmware"
 }

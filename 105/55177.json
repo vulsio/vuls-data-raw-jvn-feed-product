@@ -1,8 +1,8 @@
 {
-  "vid": "105",
-  "vname": "Ruby-lang.org",
-  "vcpe": "cpe:/:ruby-lang",
-  "pid": "55177",
-  "pname": "CGI",
-  "pcpe": "cpe:/a:ruby-lang:cgi"
+	"vid": "105",
+	"vname": "Ruby-lang.org",
+	"vcpe": "cpe:/:ruby-lang",
+	"pid": "55177",
+	"pname": "CGI",
+	"pcpe": "cpe:/a:ruby-lang:cgi"
 }

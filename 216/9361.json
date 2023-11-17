@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "9361",
-  "pname": "cifs-utils",
-  "pcpe": "cpe:/a:debian:cifs-utils"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "9361",
+	"pname": "cifs-utils",
+	"pcpe": "cpe:/a:debian:cifs-utils"
 }

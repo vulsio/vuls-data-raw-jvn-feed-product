@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "33689",
-  "pname": "8870 N’Vision removable Application Card",
-  "pcpe": "cpe:/o:medtronic:n%27vision_8870_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "33689",
+	"pname": "8870 N’Vision removable Application Card",
+	"pcpe": "cpe:/o:medtronic:n%27vision_8870_firmware"
 }

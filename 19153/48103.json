@@ -1,8 +1,8 @@
 {
-  "vid": "19153",
-  "vname": "Scratch Addons",
-  "vcpe": "cpe:/:scratchaddons",
-  "pid": "48103",
-  "pname": "Scratch Addons",
-  "pcpe": "cpe:/a:scratchaddons:scratch_addons"
+	"vid": "19153",
+	"vname": "Scratch Addons",
+	"vcpe": "cpe:/:scratchaddons",
+	"pid": "48103",
+	"pname": "Scratch Addons",
+	"pcpe": "cpe:/a:scratchaddons:scratch_addons"
 }

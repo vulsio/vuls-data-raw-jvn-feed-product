@@ -1,8 +1,8 @@
 {
-  "vid": "12000",
-  "vname": "Ipsilon project",
-  "vcpe": "cpe:/:ipsilon_project",
-  "pid": "25044",
-  "pname": "Ipsilon",
-  "pcpe": "cpe:/a:ipsilon_project:ipsilon"
+	"vid": "12000",
+	"vname": "Ipsilon project",
+	"vcpe": "cpe:/:ipsilon_project",
+	"pid": "25044",
+	"pname": "Ipsilon",
+	"pcpe": "cpe:/a:ipsilon_project:ipsilon"
 }

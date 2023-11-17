@@ -1,8 +1,8 @@
 {
-  "vid": "14040",
-  "vname": "アボット",
-  "vcpe": "cpe:/:abbott",
-  "pid": "33468",
-  "pname": "Allure",
-  "pcpe": "cpe:/o:abbott:allure_firmware"
+	"vid": "14040",
+	"vname": "アボット",
+	"vcpe": "cpe:/:abbott",
+	"pid": "33468",
+	"pname": "Allure",
+	"pcpe": "cpe:/o:abbott:allure_firmware"
 }

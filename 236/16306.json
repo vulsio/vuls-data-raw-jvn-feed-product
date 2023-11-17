@@ -1,8 +1,8 @@
 {
-  "vid": "236",
-  "vname": "Xen プロジェクト",
-  "vcpe": "cpe:/:xen",
-  "pid": "16306",
-  "pname": "xen flask module",
-  "pcpe": "cpe:/a:xen:xen_flask_module"
+	"vid": "236",
+	"vname": "Xen プロジェクト",
+	"vcpe": "cpe:/:xen",
+	"pid": "16306",
+	"pname": "xen flask module",
+	"pcpe": "cpe:/a:xen:xen_flask_module"
 }

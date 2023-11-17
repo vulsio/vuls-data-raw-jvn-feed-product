@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "33776",
-  "pname": "SSL Visibility",
-  "pcpe": "cpe:/a:symantec:ssl_visibility"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "33776",
+	"pname": "SSL Visibility",
+	"pcpe": "cpe:/a:symantec:ssl_visibility"
 }

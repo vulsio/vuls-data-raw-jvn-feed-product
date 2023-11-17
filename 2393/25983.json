@@ -1,8 +1,8 @@
 {
-  "vid": "2393",
-  "vname": "AVAST Software s.r.o.",
-  "vcpe": "cpe:/:avast",
-  "pid": "25983",
-  "pname": "アバスト!無料アンチウイルス",
-  "pcpe": "cpe:/a:avast:avast_free_antivirus"
+	"vid": "2393",
+	"vname": "AVAST Software s.r.o.",
+	"vcpe": "cpe:/:avast",
+	"pid": "25983",
+	"pname": "アバスト!無料アンチウイルス",
+	"pcpe": "cpe:/a:avast:avast_free_antivirus"
 }

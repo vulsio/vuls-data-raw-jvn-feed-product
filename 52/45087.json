@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "45087",
-  "pname": "Windows Migration Assistant",
-  "pcpe": "cpe:/a:apple:windows_migration_assistant"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "45087",
+	"pname": "Windows Migration Assistant",
+	"pcpe": "cpe:/a:apple:windows_migration_assistant"
 }

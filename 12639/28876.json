@@ -1,8 +1,8 @@
 {
-  "vid": "12639",
-  "vname": "法務省",
-  "vcpe": "cpe:/:moj",
-  "pid": "28876",
-  "pname": "商業登記電子認証ソフト",
-  "pcpe": "cpe:/a:moj:touki_denshi"
+	"vid": "12639",
+	"vname": "法務省",
+	"vcpe": "cpe:/:moj",
+	"pid": "28876",
+	"pname": "商業登記電子認証ソフト",
+	"pcpe": "cpe:/a:moj:touki_denshi"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26265",
-  "pname": "HPE Universal CMDB Configuration Manager",
-  "pcpe": "cpe:/a:hp:universal_cmbd_configuration_manager"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26265",
+	"pname": "HPE Universal CMDB Configuration Manager",
+	"pcpe": "cpe:/a:hp:universal_cmbd_configuration_manager"
 }

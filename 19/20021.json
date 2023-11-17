@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "20021",
-  "pname": "Tandberg 550 MXP",
-  "pcpe": "cpe:/h:cisco:tandberg_550_mxp"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "20021",
+	"pname": "Tandberg 550 MXP",
+	"pcpe": "cpe:/h:cisco:tandberg_550_mxp"
 }

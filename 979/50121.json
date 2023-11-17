@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "50121",
-  "pname": "Atlassian Connect Express",
-  "pcpe": "cpe:/a:atlassian:connect_express"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "50121",
+	"pname": "Atlassian Connect Express",
+	"pcpe": "cpe:/a:atlassian:connect_express"
 }

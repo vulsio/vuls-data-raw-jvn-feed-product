@@ -1,8 +1,8 @@
 {
-  "vid": "16729",
-  "vname": "ibericode",
-  "vcpe": "cpe:/:ibericode",
-  "pid": "39873",
-  "pname": "Mailchimp for WordPress",
-  "pcpe": "cpe:/a:ibericode:mailchimp"
+	"vid": "16729",
+	"vname": "ibericode",
+	"vcpe": "cpe:/:ibericode",
+	"pid": "39873",
+	"pname": "Mailchimp for WordPress",
+	"pcpe": "cpe:/a:ibericode:mailchimp"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "32171",
-  "pname": "FL SWITCH 4808E-16FX LC-4GC ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:fl_switch_4808e-16fx_lc-4gc_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "32171",
+	"pname": "FL SWITCH 4808E-16FX LC-4GC ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:fl_switch_4808e-16fx_lc-4gc_firmware"
 }

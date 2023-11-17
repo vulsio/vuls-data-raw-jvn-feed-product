@@ -1,8 +1,8 @@
 {
-  "vid": "6765",
-  "vname": "phpalbum.net",
-  "vcpe": "cpe:/:phpalbum.net",
-  "pid": "13578",
-  "pname": "phpalbum",
-  "pcpe": "cpe:/a:phpalbum.net:phpalbum"
+	"vid": "6765",
+	"vname": "phpalbum.net",
+	"vcpe": "cpe:/:phpalbum.net",
+	"pid": "13578",
+	"pname": "phpalbum",
+	"pcpe": "cpe:/a:phpalbum.net:phpalbum"
 }

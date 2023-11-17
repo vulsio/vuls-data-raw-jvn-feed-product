@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "14487",
-  "pname": "scx-4200 driver",
-  "pcpe": "cpe:/a:samsung:scx-4200_driver"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "14487",
+	"pname": "scx-4200 driver",
+	"pcpe": "cpe:/a:samsung:scx-4200_driver"
 }

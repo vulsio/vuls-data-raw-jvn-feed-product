@@ -1,8 +1,8 @@
 {
-  "vid": "5637",
-  "vname": "マイクロフォーカス株式会社",
-  "vcpe": "cpe:/:microfocus",
-  "pid": "36054",
-  "pname": "Unified Functional Testing",
-  "pcpe": "cpe:/a:microfocus:unified_functional_testing"
+	"vid": "5637",
+	"vname": "マイクロフォーカス株式会社",
+	"vcpe": "cpe:/:microfocus",
+	"pid": "36054",
+	"pname": "Unified Functional Testing",
+	"pcpe": "cpe:/a:microfocus:unified_functional_testing"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14474",
-  "vname": "fastify",
-  "vcpe": "cpe:/:fastify",
-  "pid": "60309",
-  "pname": "github action merge dependabot",
-  "pcpe": "cpe:/a:fastify:github_action_merge_dependabot"
+	"vid": "14474",
+	"vname": "fastify",
+	"vcpe": "cpe:/:fastify",
+	"pid": "60309",
+	"pname": "github action merge dependabot",
+	"pcpe": "cpe:/a:fastify:github_action_merge_dependabot"
 }

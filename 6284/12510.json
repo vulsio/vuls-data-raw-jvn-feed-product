@@ -1,8 +1,8 @@
 {
-  "vid": "6284",
-  "vname": "paymentprocessorscript",
-  "vcpe": "cpe:/:paymentprocessorscript",
-  "pid": "12510",
-  "pname": "ppscript",
-  "pcpe": "cpe:/a:paymentprocessorscript:ppscript"
+	"vid": "6284",
+	"vname": "paymentprocessorscript",
+	"vcpe": "cpe:/:paymentprocessorscript",
+	"pid": "12510",
+	"pname": "ppscript",
+	"pcpe": "cpe:/a:paymentprocessorscript:ppscript"
 }

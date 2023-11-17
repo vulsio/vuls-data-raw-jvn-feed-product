@@ -1,8 +1,8 @@
 {
-  "vid": "23626",
-  "vname": "unsafe accessor project",
-  "vcpe": "cpe:/:unsafe_accessor_project",
-  "pid": "61238",
-  "pname": "unsafe accessor",
-  "pcpe": "cpe:/a:unsafe_accessor_project:unsafe_accessor"
+	"vid": "23626",
+	"vname": "unsafe accessor project",
+	"vcpe": "cpe:/:unsafe_accessor_project",
+	"pid": "61238",
+	"pname": "unsafe accessor",
+	"pcpe": "cpe:/a:unsafe_accessor_project:unsafe_accessor"
 }

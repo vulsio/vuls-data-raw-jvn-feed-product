@@ -1,8 +1,8 @@
 {
-  "vid": "7879",
-  "vname": "symark",
-  "vcpe": "cpe:/:symark",
-  "pid": "15241",
-  "pname": "powerbroker",
-  "pcpe": "cpe:/a:symark:powerbroker"
+	"vid": "7879",
+	"vname": "symark",
+	"vcpe": "cpe:/:symark",
+	"pid": "15241",
+	"pname": "powerbroker",
+	"pcpe": "cpe:/a:symark:powerbroker"
 }

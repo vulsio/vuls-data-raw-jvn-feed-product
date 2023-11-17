@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20707",
-  "pname": "IBM WebSphere Operational Decision Management",
-  "pcpe": "cpe:/a:ibm:websphere_operational_decision_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20707",
+	"pname": "IBM WebSphere Operational Decision Management",
+	"pcpe": "cpe:/a:ibm:websphere_operational_decision_management"
 }

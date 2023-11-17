@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47853",
-  "pname": "Oracle Compensation Workbench",
-  "pcpe": "cpe:/a:oracle:compensation_workbench"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47853",
+	"pname": "Oracle Compensation Workbench",
+	"pcpe": "cpe:/a:oracle:compensation_workbench"
 }

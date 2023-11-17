@@ -1,8 +1,8 @@
 {
-  "vid": "23581",
-  "vname": "is-http2 project",
-  "vcpe": "cpe:/:is-http2_project",
-  "pid": "61062",
-  "pname": "is-http2",
-  "pcpe": "cpe:/a:is-http2_project:is-http2"
+	"vid": "23581",
+	"vname": "is-http2 project",
+	"vcpe": "cpe:/:is-http2_project",
+	"pid": "61062",
+	"pname": "is-http2",
+	"pcpe": "cpe:/a:is-http2_project:is-http2"
 }

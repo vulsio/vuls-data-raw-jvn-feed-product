@@ -1,8 +1,8 @@
 {
-  "vid": "9888",
-  "vname": "Kaseya",
-  "vcpe": "cpe:/:kaseya",
-  "pid": "51549",
-  "pname": "VSA",
-  "pcpe": "cpe:/a:kaseya:vsa"
+	"vid": "9888",
+	"vname": "Kaseya",
+	"vcpe": "cpe:/:kaseya",
+	"pid": "51549",
+	"pname": "VSA",
+	"pcpe": "cpe:/a:kaseya:vsa"
 }

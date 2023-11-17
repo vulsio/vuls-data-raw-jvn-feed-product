@@ -1,8 +1,8 @@
 {
-  "vid": "18099",
-  "vname": "Claranova",
-  "vcpe": "cpe:/:claranova",
-  "pid": "44079",
-  "pname": "adaware antivirus",
-  "pcpe": "cpe:/a:claranova:adaware_antivirus"
+	"vid": "18099",
+	"vname": "Claranova",
+	"vcpe": "cpe:/:claranova",
+	"pid": "44079",
+	"pname": "adaware antivirus",
+	"pcpe": "cpe:/a:claranova:adaware_antivirus"
 }

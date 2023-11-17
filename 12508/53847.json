@@ -1,8 +1,8 @@
 {
-  "vid": "12508",
-  "vname": "Becton, Dickinson and Company (BD)",
-  "vcpe": "cpe:/:bd",
-  "pid": "53847",
-  "pname": "BD トータリスマルチプロセッサー",
-  "pcpe": "cpe:/o:bd:totalys_multiprocessor"
+	"vid": "12508",
+	"vname": "Becton, Dickinson and Company (BD)",
+	"vcpe": "cpe:/:bd",
+	"pid": "53847",
+	"pname": "BD トータリスマルチプロセッサー",
+	"pcpe": "cpe:/o:bd:totalys_multiprocessor"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "25064",
-  "pname": "eSpace U1910 Unified Gateway",
-  "pcpe": "cpe:/h:huawei:espace_unified_gateway_u1910"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "25064",
+	"pname": "eSpace U1910 Unified Gateway",
+	"pcpe": "cpe:/h:huawei:espace_unified_gateway_u1910"
 }

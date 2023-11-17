@@ -1,8 +1,8 @@
 {
-  "vid": "16471",
-  "vname": "Vera Control, Ltd.",
-  "vcpe": "cpe:/:getvera",
-  "pid": "39138",
-  "pname": "VeraEdge ファームウェア",
-  "pcpe": "cpe:/o:getvera:veraedge_firmware"
+	"vid": "16471",
+	"vname": "Vera Control, Ltd.",
+	"vcpe": "cpe:/:getvera",
+	"pid": "39138",
+	"pname": "VeraEdge ファームウェア",
+	"pcpe": "cpe:/o:getvera:veraedge_firmware"
 }

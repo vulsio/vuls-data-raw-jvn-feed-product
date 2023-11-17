@@ -1,8 +1,8 @@
 {
-  "vid": "17613",
-  "vname": "TrustedSec",
-  "vcpe": "cpe:/:trustedsec",
-  "pid": "42230",
-  "pname": "TrevorC2",
-  "pcpe": "cpe:/a:trustedsec:trevorc2"
+	"vid": "17613",
+	"vname": "TrustedSec",
+	"vcpe": "cpe:/:trustedsec",
+	"pid": "42230",
+	"pname": "TrevorC2",
+	"pcpe": "cpe:/a:trustedsec:trevorc2"
 }

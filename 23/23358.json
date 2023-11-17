@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "23358",
-  "pname": "Symantec Data Center Security",
-  "pcpe": "cpe:/a:symantec:data_center_security"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "23358",
+	"pname": "Symantec Data Center Security",
+	"pcpe": "cpe:/a:symantec:data_center_security"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15923",
-  "vname": "WebAssembly",
-  "vcpe": "cpe:/:webassembly",
-  "pid": "64117",
-  "pname": "wasm",
-  "pcpe": "cpe:/a:webassembly:wasm"
+	"vid": "15923",
+	"vname": "WebAssembly",
+	"vcpe": "cpe:/:webassembly",
+	"pid": "64117",
+	"pname": "wasm",
+	"pcpe": "cpe:/a:webassembly:wasm"
 }

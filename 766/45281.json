@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "45281",
-  "pname": "MTN6501-0002 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:mtn6501-0002_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "45281",
+	"pname": "MTN6501-0002 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:mtn6501-0002_firmware"
 }

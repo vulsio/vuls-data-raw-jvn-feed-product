@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "42592",
-  "pname": "TSXH5744M ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:tsxh5744m_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "42592",
+	"pname": "TSXH5744M ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:tsxh5744m_firmware"
 }

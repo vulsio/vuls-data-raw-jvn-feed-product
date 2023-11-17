@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "52998",
-  "pname": "Cerberus DMS",
-  "pcpe": "cpe:/a:siemens:cerberus_dms"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "52998",
+	"pname": "Cerberus DMS",
+	"pcpe": "cpe:/a:siemens:cerberus_dms"
 }

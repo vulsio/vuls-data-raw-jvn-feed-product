@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "2442",
-  "pname": "Symantec Data Loss Prevention Enforce/Detection Servers",
-  "pcpe": "cpe:/a:symantec:data_loss_prevention_detection_servers"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "2442",
+	"pname": "Symantec Data Loss Prevention Enforce/Detection Servers",
+	"pcpe": "cpe:/a:symantec:data_loss_prevention_detection_servers"
 }

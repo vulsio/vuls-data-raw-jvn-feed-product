@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30334",
-  "pname": "Lenovo Flex System Fabric CN4093 10Gb Converged Scalable Switch ファームウェア",
-  "pcpe": "cpe:/o:lenovo:fabric_cn4093_10gb_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30334",
+	"pname": "Lenovo Flex System Fabric CN4093 10Gb Converged Scalable Switch ファームウェア",
+	"pcpe": "cpe:/o:lenovo:fabric_cn4093_10gb_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9029",
-  "vname": "Ubiquiti Networks",
-  "vcpe": "cpe:/:ubiquiti_networks",
-  "pid": "34578",
-  "pname": "EdgeSwitch ファームウェア",
-  "pcpe": "cpe:/o:ubiquiti_networks:edgeswitch_firmware"
+	"vid": "9029",
+	"vname": "Ubiquiti Networks",
+	"vcpe": "cpe:/:ubiquiti_networks",
+	"pid": "34578",
+	"pname": "EdgeSwitch ファームウェア",
+	"pcpe": "cpe:/o:ubiquiti_networks:edgeswitch_firmware"
 }

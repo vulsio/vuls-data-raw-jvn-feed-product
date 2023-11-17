@@ -1,8 +1,8 @@
 {
-  "vid": "19034",
-  "vname": "Matrix",
-  "vcpe": "cpe:/:matrix-react-sdk_project",
-  "pid": "47722",
-  "pname": "matrix-react-sdk",
-  "pcpe": "cpe:/a:matrix-react-sdk_project:matrix-react-sdk"
+	"vid": "19034",
+	"vname": "Matrix",
+	"vcpe": "cpe:/:matrix-react-sdk_project",
+	"pid": "47722",
+	"pname": "matrix-react-sdk",
+	"pcpe": "cpe:/a:matrix-react-sdk_project:matrix-react-sdk"
 }

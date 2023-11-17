@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "44317",
-  "pname": "NC260ファームウェア",
-  "pcpe": "cpe:/o:tp-link:nc260_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "44317",
+	"pname": "NC260ファームウェア",
+	"pcpe": "cpe:/o:tp-link:nc260_firmware"
 }

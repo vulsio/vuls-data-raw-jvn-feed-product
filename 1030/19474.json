@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "19474",
-  "pname": "CODESYS Control Runtime Toolkit",
-  "pcpe": "cpe:/a:codesys:codesys_runtime_toolkit"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "19474",
+	"pname": "CODESYS Control Runtime Toolkit",
+	"pcpe": "cpe:/a:codesys:codesys_runtime_toolkit"
 }

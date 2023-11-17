@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "3007",
-  "pname": "Oracle Virtualization",
-  "pcpe": "cpe:/a:oracle:virtualization_secure_global_desktop"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "3007",
+	"pname": "Oracle Virtualization",
+	"pcpe": "cpe:/a:oracle:virtualization_secure_global_desktop"
 }

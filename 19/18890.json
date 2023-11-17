@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18890",
-  "pname": "Cisco Scientific Atlanta DPX/EPX2203 VoIP Cable Modem",
-  "pcpe": "cpe:/h:cisco:scientific_atlanta_dpx%2fepx2203"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18890",
+	"pname": "Cisco Scientific Atlanta DPX/EPX2203 VoIP Cable Modem",
+	"pcpe": "cpe:/h:cisco:scientific_atlanta_dpx%2fepx2203"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6693",
-  "vname": "Meizu",
-  "vcpe": "cpe:/:meizu",
-  "pid": "13429",
-  "pname": "Meizu MX",
-  "pcpe": "cpe:/h:meizu:mx"
+	"vid": "6693",
+	"vname": "Meizu",
+	"vcpe": "cpe:/:meizu",
+	"pid": "13429",
+	"pname": "Meizu MX",
+	"pcpe": "cpe:/h:meizu:mx"
 }

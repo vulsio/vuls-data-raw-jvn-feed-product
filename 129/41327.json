@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "41327",
-  "pname": "Hitachi Ops Center Automator",
-  "pcpe": "cpe:/a:hitachi:hitachi_ops_center_automator"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "41327",
+	"pname": "Hitachi Ops Center Automator",
+	"pcpe": "cpe:/a:hitachi:hitachi_ops_center_automator"
 }

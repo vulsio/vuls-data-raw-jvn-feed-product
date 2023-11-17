@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "41105",
-  "pname": "Mojarra JavaServer Faces",
-  "pcpe": "cpe:/a:oracle:mojarra_javaserver_faces"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "41105",
+	"pname": "Mojarra JavaServer Faces",
+	"pcpe": "cpe:/a:oracle:mojarra_javaserver_faces"
 }

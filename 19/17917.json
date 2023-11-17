@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17917",
-  "pname": "Cisco ECDS Software",
-  "pcpe": "cpe:/a:cisco:enterprise_content_delivery_network_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17917",
+	"pname": "Cisco ECDS Software",
+	"pcpe": "cpe:/a:cisco:enterprise_content_delivery_network_software"
 }

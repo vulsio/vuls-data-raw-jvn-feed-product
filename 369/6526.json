@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "6526",
-  "pname": "etrust audit datatools",
-  "pcpe": "cpe:/a:ca:etrust_audit_datatools"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "6526",
+	"pname": "etrust audit datatools",
+	"pcpe": "cpe:/a:ca:etrust_audit_datatools"
 }

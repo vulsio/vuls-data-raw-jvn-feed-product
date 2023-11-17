@@ -1,8 +1,8 @@
 {
-  "vid": "23496",
-  "vname": "todo-regex project",
-  "vcpe": "cpe:/:todo-regex_project",
-  "pid": "60885",
-  "pname": "todo-regex",
-  "pcpe": "cpe:/a:todo-regex_project:todo-regex"
+	"vid": "23496",
+	"vname": "todo-regex project",
+	"vcpe": "cpe:/:todo-regex_project",
+	"pid": "60885",
+	"pname": "todo-regex",
+	"pcpe": "cpe:/a:todo-regex_project:todo-regex"
 }

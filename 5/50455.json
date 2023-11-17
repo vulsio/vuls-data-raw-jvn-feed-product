@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "50455",
-  "pname": "PM8350 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:pm8350_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "50455",
+	"pname": "PM8350 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:pm8350_firmware"
 }

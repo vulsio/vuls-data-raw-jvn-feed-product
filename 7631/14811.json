@@ -1,8 +1,8 @@
 {
-  "vid": "7631",
-  "vname": "site sift media",
-  "vcpe": "cpe:/:site_sift_media",
-  "pid": "14811",
-  "pname": "site sift listings",
-  "pcpe": "cpe:/a:site_sift_media:site_sift_listings"
+	"vid": "7631",
+	"vname": "site sift media",
+	"vcpe": "cpe:/:site_sift_media",
+	"pid": "14811",
+	"pname": "site sift listings",
+	"pcpe": "cpe:/a:site_sift_media:site_sift_listings"
 }

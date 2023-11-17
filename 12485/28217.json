@@ -1,8 +1,8 @@
 {
-  "vid": "12485",
-  "vname": "R Project",
-  "vcpe": "cpe:/:r_project",
-  "pid": "28217",
-  "pname": "R",
-  "pcpe": "cpe:/a:r_project:r"
+	"vid": "12485",
+	"vname": "R Project",
+	"vcpe": "cpe:/:r_project",
+	"pid": "28217",
+	"pname": "R",
+	"pcpe": "cpe:/a:r_project:r"
 }

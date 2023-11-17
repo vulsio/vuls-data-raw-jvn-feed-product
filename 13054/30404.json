@@ -1,8 +1,8 @@
 {
-  "vid": "13054",
-  "vname": "Connect2id Ltd.",
-  "vcpe": "cpe:/:connect2id",
-  "pid": "30404",
-  "pname": "Nimbus JOSE+JWT",
-  "pcpe": "cpe:/a:connect2id:nimbus_jose%2Bjwt"
+	"vid": "13054",
+	"vname": "Connect2id Ltd.",
+	"vcpe": "cpe:/:connect2id",
+	"pid": "30404",
+	"pname": "Nimbus JOSE+JWT",
+	"pcpe": "cpe:/a:connect2id:nimbus_jose%2Bjwt"
 }

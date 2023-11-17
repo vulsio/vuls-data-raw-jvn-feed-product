@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19291",
-  "pname": "vpn 3005 concentrator",
-  "pcpe": "cpe:/o:cisco:vpn_3005_concentrator"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19291",
+	"pname": "vpn 3005 concentrator",
+	"pcpe": "cpe:/o:cisco:vpn_3005_concentrator"
 }

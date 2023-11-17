@@ -1,8 +1,8 @@
 {
-  "vid": "13486",
-  "vname": "Clockwork",
-  "vcpe": "cpe:/:clockworksms",
-  "pid": "31857",
-  "pname": "WP e-Commerce - Clockwork SMS",
-  "pcpe": "cpe:/a:clockworksms:wp_e-commerce"
+	"vid": "13486",
+	"vname": "Clockwork",
+	"vcpe": "cpe:/:clockworksms",
+	"pid": "31857",
+	"pname": "WP e-Commerce - Clockwork SMS",
+	"pcpe": "cpe:/a:clockworksms:wp_e-commerce"
 }

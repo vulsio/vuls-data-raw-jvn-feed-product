@@ -1,8 +1,8 @@
 {
-  "vid": "1304",
-  "vname": "カスペルスキー",
-  "vcpe": "cpe:/:kaspersky",
-  "pid": "10756",
-  "pname": "online scanner",
-  "pcpe": "cpe:/a:kaspersky:online_scanner"
+	"vid": "1304",
+	"vname": "カスペルスキー",
+	"vcpe": "cpe:/:kaspersky",
+	"pid": "10756",
+	"pname": "online scanner",
+	"pcpe": "cpe:/a:kaspersky:online_scanner"
 }

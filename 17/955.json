@@ -1,8 +1,8 @@
 {
-  "vid": "17",
-  "vname": "インターネット セキュリティ システムズ",
-  "vcpe": "cpe:/:iss",
-  "pid": "955",
-  "pname": "RealSecure Desktop",
-  "pcpe": "cpe:/a:iss:realsecure_desktop"
+	"vid": "17",
+	"vname": "インターネット セキュリティ システムズ",
+	"vcpe": "cpe:/:iss",
+	"pid": "955",
+	"pname": "RealSecure Desktop",
+	"pcpe": "cpe:/a:iss:realsecure_desktop"
 }

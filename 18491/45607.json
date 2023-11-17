@@ -1,8 +1,8 @@
 {
-  "vid": "18491",
-  "vname": "Duo",
-  "vcpe": "cpe:/:duo",
-  "pid": "45607",
-  "pname": "DuoConnect",
-  "pcpe": "cpe:/a:duo:duoconnect"
+	"vid": "18491",
+	"vname": "Duo",
+	"vcpe": "cpe:/:duo",
+	"pid": "45607",
+	"pname": "DuoConnect",
+	"pcpe": "cpe:/a:duo:duoconnect"
 }

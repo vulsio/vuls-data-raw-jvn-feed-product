@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "48038",
-  "pname": "gluster-block",
-  "pcpe": "cpe:/a:redhat:gluster-block"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "48038",
+	"pname": "gluster-block",
+	"pcpe": "cpe:/a:redhat:gluster-block"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19722",
-  "vname": "vagrant project",
-  "vcpe": "cpe:/:vagrant_project",
-  "pid": "49715",
-  "pname": "gradle-vagrant-plugin",
-  "pcpe": "cpe:/a:vagrant_project:vagrant"
+	"vid": "19722",
+	"vname": "vagrant project",
+	"vcpe": "cpe:/:vagrant_project",
+	"pid": "49715",
+	"pname": "gradle-vagrant-plugin",
+	"pcpe": "cpe:/a:vagrant_project:vagrant"
 }

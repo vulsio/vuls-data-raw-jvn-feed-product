@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "57233",
-  "pname": "TN-5916-WV-T ファームウェア",
-  "pcpe": "cpe:/o:moxa:tn-5916-wv-t_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "57233",
+	"pname": "TN-5916-WV-T ファームウェア",
+	"pcpe": "cpe:/o:moxa:tn-5916-wv-t_firmware"
 }

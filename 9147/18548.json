@@ -1,8 +1,8 @@
 {
-  "vid": "9147",
-  "vname": "OvisLink",
-  "vcpe": "cpe:/:ovislink",
-  "pid": "18548",
-  "pname": "POE-100HD",
-  "pcpe": "cpe:/h:ovislink:airlive_poe100hd"
+	"vid": "9147",
+	"vname": "OvisLink",
+	"vcpe": "cpe:/:ovislink",
+	"pid": "18548",
+	"pname": "POE-100HD",
+	"pcpe": "cpe:/h:ovislink:airlive_poe100hd"
 }

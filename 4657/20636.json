@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "20636",
-  "pname": "E355 Web UI",
-  "pcpe": "cpe:/a:huawei:e355_web_ui"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "20636",
+	"pname": "E355 Web UI",
+	"pcpe": "cpe:/a:huawei:e355_web_ui"
 }

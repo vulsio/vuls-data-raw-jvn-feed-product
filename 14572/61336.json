@@ -1,8 +1,8 @@
 {
-  "vid": "14572",
-  "vname": "Hyperledger",
-  "vcpe": "cpe:/:hyperledger",
-  "pid": "61336",
-  "pname": "fabric",
-  "pcpe": "cpe:/a:hyperledger:fabric"
+	"vid": "14572",
+	"vname": "Hyperledger",
+	"vcpe": "cpe:/:hyperledger",
+	"pid": "61336",
+	"pname": "fabric",
+	"pcpe": "cpe:/a:hyperledger:fabric"
 }

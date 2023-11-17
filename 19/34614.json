@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "34614",
-  "pname": "UCS-E140DP-M1 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ucs-e140dp-m1_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "34614",
+	"pname": "UCS-E140DP-M1 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ucs-e140dp-m1_firmware"
 }

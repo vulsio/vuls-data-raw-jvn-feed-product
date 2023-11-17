@@ -1,8 +1,8 @@
 {
-  "vid": "12011",
-  "vname": "vBulletin Solutions, Inc.",
-  "vcpe": "cpe:/:vbulletin",
-  "pid": "25096",
-  "pname": "vBulletin MAPI",
-  "pcpe": "cpe:/a:vbulletin:mapi"
+	"vid": "12011",
+	"vname": "vBulletin Solutions, Inc.",
+	"vcpe": "cpe:/:vbulletin",
+	"pid": "25096",
+	"pname": "vBulletin MAPI",
+	"pcpe": "cpe:/a:vbulletin:mapi"
 }

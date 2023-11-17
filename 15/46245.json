@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "46245",
-  "pname": "Database Vault",
-  "pcpe": "cpe:/a:oracle:database_vault"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "46245",
+	"pname": "Database Vault",
+	"pcpe": "cpe:/a:oracle:database_vault"
 }

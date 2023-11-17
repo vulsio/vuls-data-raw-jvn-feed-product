@@ -1,8 +1,8 @@
 {
-  "vid": "13786",
-  "vname": "The GnuPG Project",
-  "vcpe": "cpe:/:gnupg",
-  "pid": "32673",
-  "pname": "Libgcrypt",
-  "pcpe": "cpe:/a:gnupg:libgcrypt"
+	"vid": "13786",
+	"vname": "The GnuPG Project",
+	"vcpe": "cpe:/:gnupg",
+	"pid": "32673",
+	"pname": "Libgcrypt",
+	"pcpe": "cpe:/a:gnupg:libgcrypt"
 }

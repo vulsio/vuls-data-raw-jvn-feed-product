@@ -1,8 +1,8 @@
 {
-  "vid": "21866",
-  "vname": "pysrp project",
-  "vcpe": "cpe:/:pysrp_project",
-  "pid": "56108",
-  "pname": "pysrp",
-  "pcpe": "cpe:/a:pysrp_project:pysrp"
+	"vid": "21866",
+	"vname": "pysrp project",
+	"vcpe": "cpe:/:pysrp_project",
+	"pid": "56108",
+	"pname": "pysrp",
+	"pcpe": "cpe:/a:pysrp_project:pysrp"
 }

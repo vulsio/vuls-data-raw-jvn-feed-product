@@ -1,8 +1,8 @@
 {
-  "vid": "15663",
-  "vname": "uriparser project",
-  "vcpe": "cpe:/:uriparser_project",
-  "pid": "36440",
-  "pname": "uriparser",
-  "pcpe": "cpe:/a:uriparser_project:uriparser"
+	"vid": "15663",
+	"vname": "uriparser project",
+	"vcpe": "cpe:/:uriparser_project",
+	"pid": "36440",
+	"pname": "uriparser",
+	"pcpe": "cpe:/a:uriparser_project:uriparser"
 }

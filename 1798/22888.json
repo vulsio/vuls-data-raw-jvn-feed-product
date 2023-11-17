@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "22888",
-  "pname": "ds file",
-  "pcpe": "cpe:/a:synology:ds_file"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "22888",
+	"pname": "ds file",
+	"pcpe": "cpe:/a:synology:ds_file"
 }

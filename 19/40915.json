@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "40915",
-  "pname": "Cisco IE 4000 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ie_4000_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "40915",
+	"pname": "Cisco IE 4000 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ie_4000_firmware"
 }

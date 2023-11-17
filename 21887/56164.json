@@ -1,8 +1,8 @@
 {
-  "vid": "21887",
-  "vname": "innologi",
-  "vcpe": "cpe:/:innologi",
-  "pid": "56164",
-  "pname": "Appointment Scheduler",
-  "pcpe": "cpe:/a:innologi:appointment_scheduler"
+	"vid": "21887",
+	"vname": "innologi",
+	"vcpe": "cpe:/:innologi",
+	"pid": "56164",
+	"pname": "Appointment Scheduler",
+	"pcpe": "cpe:/a:innologi:appointment_scheduler"
 }

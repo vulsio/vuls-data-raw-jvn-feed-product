@@ -1,8 +1,8 @@
 {
-  "vid": "9939",
-  "vname": "Cobham plc",
-  "vcpe": "cpe:/:cobham",
-  "pid": "20742",
-  "pname": "SAILOR 900 VSAT",
-  "pcpe": "cpe:/h:cobham:sailor_900_vsat"
+	"vid": "9939",
+	"vname": "Cobham plc",
+	"vcpe": "cpe:/:cobham",
+	"pid": "20742",
+	"pname": "SAILOR 900 VSAT",
+	"pcpe": "cpe:/h:cobham:sailor_900_vsat"
 }

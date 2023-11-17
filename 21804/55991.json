@@ -1,8 +1,8 @@
 {
-  "vid": "21804",
-  "vname": "WeCube Platform project",
-  "vcpe": "cpe:/:wecube-platform_project",
-  "pid": "55991",
-  "pname": "WeCube Platform",
-  "pcpe": "cpe:/a:wecube-platform_project:wecube-platform"
+	"vid": "21804",
+	"vname": "WeCube Platform project",
+	"vcpe": "cpe:/:wecube-platform_project",
+	"pid": "55991",
+	"pname": "WeCube Platform",
+	"pcpe": "cpe:/a:wecube-platform_project:wecube-platform"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14041",
-  "vname": "HRSALE",
-  "vcpe": "cpe:/:hrsale_project",
-  "pid": "33465",
-  "pname": "The Ultimate HRM",
-  "pcpe": "cpe:/a:hrsale_project:hrsale"
+	"vid": "14041",
+	"vname": "HRSALE",
+	"vcpe": "cpe:/:hrsale_project",
+	"pid": "33465",
+	"pname": "The Ultimate HRM",
+	"pcpe": "cpe:/a:hrsale_project:hrsale"
 }

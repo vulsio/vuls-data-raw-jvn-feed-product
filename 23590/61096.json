@@ -1,8 +1,8 @@
 {
-  "vid": "23590",
-  "vname": "BDCOM",
-  "vcpe": "cpe:/:bdcom",
-  "pid": "61096",
-  "pname": "1704-WGL ファームウェア",
-  "pcpe": "cpe:/o:bdcom:1704-wgl_firmware"
+	"vid": "23590",
+	"vname": "BDCOM",
+	"vcpe": "cpe:/:bdcom",
+	"pid": "61096",
+	"pname": "1704-WGL ファームウェア",
+	"pcpe": "cpe:/o:bdcom:1704-wgl_firmware"
 }

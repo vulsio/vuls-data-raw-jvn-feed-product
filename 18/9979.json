@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9979",
-  "pname": "egatherer",
-  "pcpe": "cpe:/a:ibm:egatherer"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9979",
+	"pname": "egatherer",
+	"pcpe": "cpe:/a:ibm:egatherer"
 }

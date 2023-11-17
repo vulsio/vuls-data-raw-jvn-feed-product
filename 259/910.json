@@ -1,8 +1,8 @@
 {
-  "vid": "259",
-  "vname": "W3C",
-  "vcpe": "cpe:/:w3c",
-  "pid": "910",
-  "pname": "Libwww",
-  "pcpe": "cpe:/a:w3c:libwww"
+	"vid": "259",
+	"vname": "W3C",
+	"vcpe": "cpe:/:w3c",
+	"pid": "910",
+	"pname": "Libwww",
+	"pcpe": "cpe:/a:w3c:libwww"
 }

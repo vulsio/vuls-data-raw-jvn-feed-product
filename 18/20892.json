@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20892",
-  "pname": "IBM PowerLinux 7R4",
-  "pcpe": "cpe:/h:ibm:powerlinux_7r4"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20892",
+	"pname": "IBM PowerLinux 7R4",
+	"pcpe": "cpe:/h:ibm:powerlinux_7r4"
 }

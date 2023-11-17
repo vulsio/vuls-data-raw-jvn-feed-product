@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "60929",
-  "pname": "request rename or delete",
-  "pcpe": "cpe:/a:jenkins:request_rename_or_delete"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "60929",
+	"pname": "request rename or delete",
+	"pcpe": "cpe:/a:jenkins:request_rename_or_delete"
 }

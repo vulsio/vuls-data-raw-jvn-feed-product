@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "29841",
-  "pname": "Oracle Hospitality Inventory Management",
-  "pcpe": "cpe:/a:oracle:hospitality_inventory_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "29841",
+	"pname": "Oracle Hospitality Inventory Management",
+	"pcpe": "cpe:/a:oracle:hospitality_inventory_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "60560",
-  "pname": "LIFEBOOK U7310 ファームウェア",
-  "pcpe": "cpe:/o:fujitsu:lifebook_u7310_firmware"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "60560",
+	"pname": "LIFEBOOK U7310 ファームウェア",
+	"pcpe": "cpe:/o:fujitsu:lifebook_u7310_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "7987",
-  "vname": "Thecus",
-  "vcpe": "cpe:/:thecus",
-  "pid": "19421",
-  "pname": "Thecus N8800",
-  "pcpe": "cpe:/h:thecus:n8800_nas_server"
+	"vid": "7987",
+	"vname": "Thecus",
+	"vcpe": "cpe:/:thecus",
+	"pid": "19421",
+	"pname": "Thecus N8800",
+	"pcpe": "cpe:/h:thecus:n8800_nas_server"
 }

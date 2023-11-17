@@ -1,8 +1,8 @@
 {
-  "vid": "15286",
-  "vname": "LICA CZECH s.r.o.",
-  "vcpe": "cpe:/:lica",
-  "pid": "35400",
-  "pname": "miniCMTS E8K ファームウェア",
-  "pcpe": "cpe:/o:lica:minicmts_e8k_firmware"
+	"vid": "15286",
+	"vname": "LICA CZECH s.r.o.",
+	"vcpe": "cpe:/:lica",
+	"pid": "35400",
+	"pname": "miniCMTS E8K ファームウェア",
+	"pcpe": "cpe:/o:lica:minicmts_e8k_firmware"
 }

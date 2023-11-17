@@ -1,8 +1,8 @@
 {
-  "vid": "2851",
-  "vname": "clever components",
-  "vcpe": "cpe:/:clever_components",
-  "pid": "6814",
-  "pname": "clever database comparer",
-  "pcpe": "cpe:/a:clever_components:clever_database_comparer"
+	"vid": "2851",
+	"vname": "clever components",
+	"vcpe": "cpe:/:clever_components",
+	"pid": "6814",
+	"pname": "clever database comparer",
+	"pcpe": "cpe:/a:clever_components:clever_database_comparer"
 }

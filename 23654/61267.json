@@ -1,8 +1,8 @@
 {
-  "vid": "23654",
-  "vname": "flask-yeoman project",
-  "vcpe": "cpe:/:flask-yeoman_project",
-  "pid": "61267",
-  "pname": "flask-yeoman",
-  "pcpe": "cpe:/a:flask-yeoman_project:flask-yeoman"
+	"vid": "23654",
+	"vname": "flask-yeoman project",
+	"vcpe": "cpe:/:flask-yeoman_project",
+	"pid": "61267",
+	"pname": "flask-yeoman",
+	"pcpe": "cpe:/a:flask-yeoman_project:flask-yeoman"
 }

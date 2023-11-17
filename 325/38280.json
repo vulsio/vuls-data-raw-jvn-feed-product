@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "38280",
-  "pname": "IdeaCentre 720-18ICB ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideacentre_720-18icb_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "38280",
+	"pname": "IdeaCentre 720-18ICB ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideacentre_720-18icb_firmware"
 }

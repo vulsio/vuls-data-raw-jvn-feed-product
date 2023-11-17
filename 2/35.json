@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "35",
-  "pname": "Microsoft Windows 9X",
-  "pcpe": "cpe:/o:microsoft:windows-9x"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "35",
+	"pname": "Microsoft Windows 9X",
+	"pcpe": "cpe:/o:microsoft:windows-9x"
 }

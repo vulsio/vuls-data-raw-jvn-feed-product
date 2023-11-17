@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31311",
-  "pname": "TP3206 ファームウェア",
-  "pcpe": "cpe:/o:huawei:tp3206_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31311",
+	"pname": "TP3206 ファームウェア",
+	"pcpe": "cpe:/o:huawei:tp3206_firmware"
 }

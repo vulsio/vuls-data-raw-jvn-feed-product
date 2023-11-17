@@ -1,8 +1,8 @@
 {
-  "vid": "3256",
-  "vname": "diskos",
-  "vcpe": "cpe:/:diskos",
-  "pid": "7372",
-  "pname": "diskos cms",
-  "pcpe": "cpe:/a:diskos:diskos_cms"
+	"vid": "3256",
+	"vname": "diskos",
+	"vcpe": "cpe:/:diskos",
+	"pid": "7372",
+	"pname": "diskos cms",
+	"pcpe": "cpe:/a:diskos:diskos_cms"
 }

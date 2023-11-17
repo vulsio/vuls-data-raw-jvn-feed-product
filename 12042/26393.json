@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26393",
-  "pname": "HPE Oneview",
-  "pcpe": "cpe:/a:hp:oneview"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26393",
+	"pname": "HPE Oneview",
+	"pcpe": "cpe:/a:hp:oneview"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19257",
-  "vname": "django-registration プロジェクト",
-  "vcpe": "cpe:/:django-registration_project",
-  "pid": "48488",
-  "pname": "django-registration",
-  "pcpe": "cpe:/a:django-registration_project:django-registration"
+	"vid": "19257",
+	"vname": "django-registration プロジェクト",
+	"vcpe": "cpe:/:django-registration_project",
+	"pid": "48488",
+	"pname": "django-registration",
+	"pcpe": "cpe:/a:django-registration_project:django-registration"
 }

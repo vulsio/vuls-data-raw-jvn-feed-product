@@ -1,8 +1,8 @@
 {
-  "vid": "728",
-  "vname": "TYPO3 Association",
-  "vcpe": "cpe:/:typo3",
-  "pid": "15650",
-  "pname": "autobeuser",
-  "pcpe": "cpe:/a:typo3:autobeuser"
+	"vid": "728",
+	"vname": "TYPO3 Association",
+	"vcpe": "cpe:/:typo3",
+	"pid": "15650",
+	"pname": "autobeuser",
+	"pcpe": "cpe:/a:typo3:autobeuser"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15302",
-  "vname": "tecrail",
-  "vcpe": "cpe:/:tecrail",
-  "pid": "35438",
-  "pname": "Responsive FileManager",
-  "pcpe": "cpe:/a:tecrail:responsive_filemanager"
+	"vid": "15302",
+	"vname": "tecrail",
+	"vcpe": "cpe:/:tecrail",
+	"pid": "35438",
+	"pname": "Responsive FileManager",
+	"pcpe": "cpe:/a:tecrail:responsive_filemanager"
 }

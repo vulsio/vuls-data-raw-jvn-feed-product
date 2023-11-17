@@ -1,8 +1,8 @@
 {
-  "vid": "24780",
-  "vname": "wut",
-  "vcpe": "cpe:/:wut",
-  "pid": "64240",
-  "pname": "com-server 20ma ファームウェア",
-  "pcpe": "cpe:/o:wut:com-server_20ma_firmware"
+	"vid": "24780",
+	"vname": "wut",
+	"vcpe": "cpe:/:wut",
+	"pid": "64240",
+	"pname": "com-server 20ma ファームウェア",
+	"pcpe": "cpe:/o:wut:com-server_20ma_firmware"
 }

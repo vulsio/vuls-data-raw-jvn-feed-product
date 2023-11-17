@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "24378",
-  "pname": "IBM Unified Extensible Firmware Interface",
-  "pcpe": "cpe:/o:ibm:uefi"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "24378",
+	"pname": "IBM Unified Extensible Firmware Interface",
+	"pcpe": "cpe:/o:ibm:uefi"
 }

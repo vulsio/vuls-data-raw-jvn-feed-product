@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "29188",
-  "pname": "IBM Distributed Marketing",
-  "pcpe": "cpe:/a:ibm:distributed_marketing"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "29188",
+	"pname": "IBM Distributed Marketing",
+	"pcpe": "cpe:/a:ibm:distributed_marketing"
 }

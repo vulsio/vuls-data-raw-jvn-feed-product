@@ -1,8 +1,8 @@
 {
-  "vid": "16221",
-  "vname": "PATLITE Corporation.",
-  "vcpe": "cpe:/:patlite",
-  "pid": "61805",
-  "pname": "nhp-fb2 ファームウェア",
-  "pcpe": "cpe:/o:patlite:nhp-fb2_firmware"
+	"vid": "16221",
+	"vname": "PATLITE Corporation.",
+	"vcpe": "cpe:/:patlite",
+	"pid": "61805",
+	"pname": "nhp-fb2 ファームウェア",
+	"pcpe": "cpe:/o:patlite:nhp-fb2_firmware"
 }

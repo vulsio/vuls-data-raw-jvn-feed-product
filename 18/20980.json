@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20980",
-  "pname": "IBM Rational Software Architect RealTime Edition",
-  "pcpe": "cpe:/a:ibm:ibm_rational_software_architect_realtime_edition"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20980",
+	"pname": "IBM Rational Software Architect RealTime Edition",
+	"pcpe": "cpe:/a:ibm:ibm_rational_software_architect_realtime_edition"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "542",
-  "vname": "OpenEXR",
-  "vcpe": "cpe:/:openexr",
-  "pid": "2181",
-  "pname": "OpenEXR",
-  "pcpe": "cpe:/a:openexr:openexr"
+	"vid": "542",
+	"vname": "OpenEXR",
+	"vcpe": "cpe:/:openexr",
+	"pid": "2181",
+	"pname": "OpenEXR",
+	"pcpe": "cpe:/a:openexr:openexr"
 }

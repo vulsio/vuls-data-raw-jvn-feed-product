@@ -1,8 +1,8 @@
 {
-  "vid": "6454",
-  "vname": "LG Electronics",
-  "vcpe": "cpe:/:lg_electronics",
-  "pid": "21715",
-  "pname": "L-03E",
-  "pcpe": "cpe:/h:lg_electronics:l-03e"
+	"vid": "6454",
+	"vname": "LG Electronics",
+	"vcpe": "cpe:/:lg_electronics",
+	"pid": "21715",
+	"pname": "L-03E",
+	"pcpe": "cpe:/h:lg_electronics:l-03e"
 }

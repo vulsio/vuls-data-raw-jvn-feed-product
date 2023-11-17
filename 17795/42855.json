@@ -1,8 +1,8 @@
 {
-  "vid": "17795",
-  "vname": "Jama Software",
-  "vcpe": "cpe:/:jamasoftware",
-  "pid": "42855",
-  "pname": "Jama Connect",
-  "pcpe": "cpe:/a:jamasoftware:connect"
+	"vid": "17795",
+	"vname": "Jama Software",
+	"vcpe": "cpe:/:jamasoftware",
+	"pid": "42855",
+	"pname": "Jama Connect",
+	"pcpe": "cpe:/a:jamasoftware:connect"
 }

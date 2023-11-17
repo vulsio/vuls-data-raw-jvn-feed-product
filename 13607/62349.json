@@ -1,8 +1,8 @@
 {
-  "vid": "13607",
-  "vname": "Ethereum Foundation",
-  "vcpe": "cpe:/:ethereum",
-  "pid": "62349",
-  "pname": "eth-account",
-  "pcpe": "cpe:/a:ethereum:eth-account"
+	"vid": "13607",
+	"vname": "Ethereum Foundation",
+	"vcpe": "cpe:/:ethereum",
+	"pid": "62349",
+	"pname": "eth-account",
+	"pcpe": "cpe:/a:ethereum:eth-account"
 }

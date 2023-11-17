@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "1301",
-  "pname": "Adobe Dreamweaver",
-  "pcpe": "cpe:/a:adobe:dreamweaver"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "1301",
+	"pname": "Adobe Dreamweaver",
+	"pcpe": "cpe:/a:adobe:dreamweaver"
 }

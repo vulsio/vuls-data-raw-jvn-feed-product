@@ -1,8 +1,8 @@
 {
-  "vid": "21483",
-  "vname": "Sun & Moon Rise",
-  "vcpe": "cpe:/:smr",
-  "pid": "55137",
-  "pname": "Shenwang Endpoint Protection Security System",
-  "pcpe": "cpe:/a:smr:shenwang_endpoint_protection_security_system"
+	"vid": "21483",
+	"vname": "Sun & Moon Rise",
+	"vcpe": "cpe:/:smr",
+	"pid": "55137",
+	"pname": "Shenwang Endpoint Protection Security System",
+	"pcpe": "cpe:/a:smr:shenwang_endpoint_protection_security_system"
 }

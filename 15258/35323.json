@@ -1,8 +1,8 @@
 {
-  "vid": "15258",
-  "vname": "Auto-Maskin",
-  "vcpe": "cpe:/:auto-maskin",
-  "pid": "35323",
-  "pname": "DCU 210E ファームウェア",
-  "pcpe": "cpe:/o:auto-maskin:dcu_210e_firmware"
+	"vid": "15258",
+	"vname": "Auto-Maskin",
+	"vcpe": "cpe:/:auto-maskin",
+	"pid": "35323",
+	"pname": "DCU 210E ファームウェア",
+	"pcpe": "cpe:/o:auto-maskin:dcu_210e_firmware"
 }

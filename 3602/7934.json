@@ -1,8 +1,8 @@
 {
-  "vid": "3602",
-  "vname": "extrakt",
-  "vcpe": "cpe:/:extrakt",
-  "pid": "7934",
-  "pname": "extrakt framework",
-  "pcpe": "cpe:/a:extrakt:extrakt_framework"
+	"vid": "3602",
+	"vname": "extrakt",
+	"vcpe": "cpe:/:extrakt",
+	"pid": "7934",
+	"pname": "extrakt framework",
+	"pcpe": "cpe:/a:extrakt:extrakt_framework"
 }

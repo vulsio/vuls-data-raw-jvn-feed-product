@@ -1,8 +1,8 @@
 {
-  "vid": "7052",
-  "vname": "power-tab",
-  "vcpe": "cpe:/:power-tab",
-  "pid": "13967",
-  "pname": "power tab editor",
-  "pcpe": "cpe:/a:power-tab:power_tab_editor"
+	"vid": "7052",
+	"vname": "power-tab",
+	"vcpe": "cpe:/:power-tab",
+	"pid": "13967",
+	"pname": "power tab editor",
+	"pcpe": "cpe:/a:power-tab:power_tab_editor"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8790",
-  "vname": "radiator",
-  "vcpe": "cpe:/:radiator",
-  "pid": "16698",
-  "pname": "radius server",
-  "pcpe": "cpe:/o:radiator:radius_server"
+	"vid": "8790",
+	"vname": "radiator",
+	"vcpe": "cpe:/:radiator",
+	"pid": "16698",
+	"pname": "radius server",
+	"pcpe": "cpe:/o:radiator:radius_server"
 }

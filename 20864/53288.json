@@ -1,8 +1,8 @@
 {
-  "vid": "20864",
-  "vname": "Archibus",
-  "vcpe": "cpe:/:archibus",
-  "pid": "53288",
-  "pname": "Web Central",
-  "pcpe": "cpe:/a:archibus:web_central"
+	"vid": "20864",
+	"vname": "Archibus",
+	"vcpe": "cpe:/:archibus",
+	"pid": "53288",
+	"pname": "Web Central",
+	"pcpe": "cpe:/a:archibus:web_central"
 }

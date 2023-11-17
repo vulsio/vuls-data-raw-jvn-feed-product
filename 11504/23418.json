@@ -1,8 +1,8 @@
 {
-  "vid": "11504",
-  "vname": "vsftpd project",
-  "vcpe": "cpe:/:beasts",
-  "pid": "23418",
-  "pname": "vsftpd",
-  "pcpe": "cpe:/a:beasts:vsftpd"
+	"vid": "11504",
+	"vname": "vsftpd project",
+	"vcpe": "cpe:/:beasts",
+	"pid": "23418",
+	"pname": "vsftpd",
+	"pcpe": "cpe:/a:beasts:vsftpd"
 }

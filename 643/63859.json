@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "63859",
-  "pname": "mx750c ファームウェア",
-  "pcpe": "cpe:/o:dell:mx750c_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "63859",
+	"pname": "mx750c ファームウェア",
+	"pcpe": "cpe:/o:dell:mx750c_firmware"
 }

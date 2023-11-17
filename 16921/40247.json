@@ -1,8 +1,8 @@
 {
-  "vid": "16921",
-  "vname": "Servo",
-  "vcpe": "cpe:/:servo",
-  "pid": "40247",
-  "pname": "smallvec",
-  "pcpe": "cpe:/a:servo:smallvec"
+	"vid": "16921",
+	"vname": "Servo",
+	"vcpe": "cpe:/:servo",
+	"pid": "40247",
+	"pname": "smallvec",
+	"pcpe": "cpe:/a:servo:smallvec"
 }

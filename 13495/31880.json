@@ -1,8 +1,8 @@
 {
-  "vid": "13495",
-  "vname": "DozerMapper",
-  "vcpe": "cpe:/:dozer_project",
-  "pid": "31880",
-  "pname": "Dozer",
-  "pcpe": "cpe:/a:dozer_project:dozer"
+	"vid": "13495",
+	"vname": "DozerMapper",
+	"vcpe": "cpe:/:dozer_project",
+	"pid": "31880",
+	"pname": "Dozer",
+	"pcpe": "cpe:/a:dozer_project:dozer"
 }

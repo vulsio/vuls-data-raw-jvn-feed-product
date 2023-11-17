@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "27569",
-  "pname": "Snap Creator Framework",
-  "pcpe": "cpe:/a:netapp:snap_creator_framework"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "27569",
+	"pname": "Snap Creator Framework",
+	"pcpe": "cpe:/a:netapp:snap_creator_framework"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "44293",
-  "pname": "Galaxy S5 ファームウェア",
-  "pcpe": "cpe:/o:samsung:galaxy_s5_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "44293",
+	"pname": "Galaxy S5 ファームウェア",
+	"pcpe": "cpe:/o:samsung:galaxy_s5_firmware"
 }

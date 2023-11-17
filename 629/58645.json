@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "58645",
-  "pname": "mgate mb3270 ファームウェア",
-  "pcpe": "cpe:/o:moxa:mgate_mb3270_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "58645",
+	"pname": "mgate mb3270 ファームウェア",
+	"pcpe": "cpe:/o:moxa:mgate_mb3270_firmware"
 }

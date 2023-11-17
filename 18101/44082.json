@@ -1,8 +1,8 @@
 {
-  "vid": "18101",
-  "vname": "東芝デバイス＆ストレージ株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "44082",
-  "pname": "CANVIO PREMIUM",
-  "pcpe": "cpe:/h:misc:toshiba_electronic_devices_storage_corporation_canvio_premiun"
+	"vid": "18101",
+	"vname": "東芝デバイス＆ストレージ株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "44082",
+	"pname": "CANVIO PREMIUM",
+	"pcpe": "cpe:/h:misc:toshiba_electronic_devices_storage_corporation_canvio_premiun"
 }

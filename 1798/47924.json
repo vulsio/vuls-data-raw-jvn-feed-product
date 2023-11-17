@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "47924",
-  "pname": "Safe Access",
-  "pcpe": "cpe:/a:synology:safeaccess"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "47924",
+	"pname": "Safe Access",
+	"pcpe": "cpe:/a:synology:safeaccess"
 }

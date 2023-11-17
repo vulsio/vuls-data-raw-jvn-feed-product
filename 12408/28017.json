@@ -1,8 +1,8 @@
 {
-  "vid": "12408",
-  "vname": "Smartlink Network Systems Ltd.",
-  "vcpe": "cpe:/:digisol",
-  "pid": "28017",
-  "pname": "DIGISOL DG-HR1400",
-  "pcpe": "cpe:/h:digisol:dg-hr1400"
+	"vid": "12408",
+	"vname": "Smartlink Network Systems Ltd.",
+	"vcpe": "cpe:/:digisol",
+	"pid": "28017",
+	"pname": "DIGISOL DG-HR1400",
+	"pcpe": "cpe:/h:digisol:dg-hr1400"
 }

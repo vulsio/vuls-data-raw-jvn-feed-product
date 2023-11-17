@@ -1,8 +1,8 @@
 {
-  "vid": "23443",
-  "vname": "Include Security",
-  "vcpe": "cpe:/:includesecurity",
-  "pid": "60742",
-  "pname": "safeurl-python",
-  "pcpe": "cpe:/a:includesecurity:safeurl-python"
+	"vid": "23443",
+	"vname": "Include Security",
+	"vcpe": "cpe:/:includesecurity",
+	"pid": "60742",
+	"pname": "safeurl-python",
+	"pcpe": "cpe:/a:includesecurity:safeurl-python"
 }

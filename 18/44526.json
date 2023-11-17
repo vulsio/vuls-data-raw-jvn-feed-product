@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "44526",
-  "pname": "IBM Equipment Maintenance Assistant On-Premises",
-  "pcpe": "cpe:/a:ibm:maximo_equipment_maintenance_assistant_on-premises"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "44526",
+	"pname": "IBM Equipment Maintenance Assistant On-Premises",
+	"pcpe": "cpe:/a:ibm:maximo_equipment_maintenance_assistant_on-premises"
 }

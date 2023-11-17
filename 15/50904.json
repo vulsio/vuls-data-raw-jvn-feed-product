@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "50904",
-  "pname": "Oracle Communications Control Plane Monitor",
-  "pcpe": "cpe:/a:oracle:communications_control_plane_monitor"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "50904",
+	"pname": "Oracle Communications Control Plane Monitor",
+	"pcpe": "cpe:/a:oracle:communications_control_plane_monitor"
 }

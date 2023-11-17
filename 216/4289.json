@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "4289",
-  "pname": "apt",
-  "pcpe": "cpe:/a:debian:apt"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "4289",
+	"pname": "apt",
+	"pcpe": "cpe:/a:debian:apt"
 }

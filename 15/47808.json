@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47808",
-  "pname": "Oracle Concurrent Processing",
-  "pcpe": "cpe:/a:oracle:concurrent_processing"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47808",
+	"pname": "Oracle Concurrent Processing",
+	"pcpe": "cpe:/a:oracle:concurrent_processing"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "7830",
-  "vname": "streamaudio",
-  "vcpe": "cpe:/:streamaudio",
-  "pid": "15098",
-  "pname": "chaincast proxymanager activex control",
-  "pcpe": "cpe:/a:streamaudio:chaincast_proxymanager_activex_control"
+	"vid": "7830",
+	"vname": "streamaudio",
+	"vcpe": "cpe:/:streamaudio",
+	"pid": "15098",
+	"pname": "chaincast proxymanager activex control",
+	"pcpe": "cpe:/a:streamaudio:chaincast_proxymanager_activex_control"
 }

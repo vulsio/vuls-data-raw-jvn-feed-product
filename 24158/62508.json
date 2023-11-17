@@ -1,8 +1,8 @@
 {
-  "vid": "24158",
-  "vname": "FreeMind WP Browser project",
-  "vcpe": "cpe:/:freemind_wp_browser_project",
-  "pid": "62508",
-  "pname": "FreeMind WP Browser",
-  "pcpe": "cpe:/a:freemind_wp_browser_project:freemind_wp_browser"
+	"vid": "24158",
+	"vname": "FreeMind WP Browser project",
+	"vcpe": "cpe:/:freemind_wp_browser_project",
+	"pid": "62508",
+	"pname": "FreeMind WP Browser",
+	"pcpe": "cpe:/a:freemind_wp_browser_project:freemind_wp_browser"
 }

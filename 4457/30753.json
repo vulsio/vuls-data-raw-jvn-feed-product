@@ -1,8 +1,8 @@
 {
-  "vid": "4457",
-  "vname": "TRENDnet",
-  "vcpe": "cpe:/:trendnet",
-  "pid": "30753",
-  "pname": "TEW-810DR ファームウエア",
-  "pcpe": "cpe:/o:trendnet:tew-810dr_firmware"
+	"vid": "4457",
+	"vname": "TRENDnet",
+	"vcpe": "cpe:/:trendnet",
+	"pid": "30753",
+	"pname": "TEW-810DR ファームウエア",
+	"pcpe": "cpe:/o:trendnet:tew-810dr_firmware"
 }

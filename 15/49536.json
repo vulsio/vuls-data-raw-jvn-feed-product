@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "49536",
-  "pname": "Oracle NoSQL Database",
-  "pcpe": "cpe:/a:oracle:nosql_database"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "49536",
+	"pname": "Oracle NoSQL Database",
+	"pcpe": "cpe:/a:oracle:nosql_database"
 }

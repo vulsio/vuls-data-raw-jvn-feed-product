@@ -1,8 +1,8 @@
 {
-  "vid": "40",
-  "vname": "リアルネットワークス",
-  "vcpe": "cpe:/:realnetworks",
-  "pid": "4741",
-  "pname": "RealNetworks Helix Server",
-  "pcpe": "cpe:/a:realnetworks:helix_server"
+	"vid": "40",
+	"vname": "リアルネットワークス",
+	"vcpe": "cpe:/:realnetworks",
+	"pid": "4741",
+	"pname": "RealNetworks Helix Server",
+	"pcpe": "cpe:/a:realnetworks:helix_server"
 }

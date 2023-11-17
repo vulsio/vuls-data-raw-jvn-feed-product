@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "4853",
-  "pname": "silver businessworks service",
-  "pcpe": "cpe:/a:tibco:silver_businessworks_service"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "4853",
+	"pname": "silver businessworks service",
+	"pcpe": "cpe:/a:tibco:silver_businessworks_service"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52734",
-  "pname": "QCS6490 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qcs6490_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52734",
+	"pname": "QCS6490 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qcs6490_firmware"
 }

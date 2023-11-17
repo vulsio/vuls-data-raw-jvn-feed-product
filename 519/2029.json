@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "2029",
-  "pname": "Avaya AG250",
-  "pcpe": "cpe:/h:avaya:ag250"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "2029",
+	"pname": "Avaya AG250",
+	"pcpe": "cpe:/h:avaya:ag250"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15747",
-  "vname": "Flarum",
-  "vcpe": "cpe:/:flarum",
-  "pid": "36682",
-  "pname": "Flarum Core",
-  "pcpe": "cpe:/a:flarum:flarum"
+	"vid": "15747",
+	"vname": "Flarum",
+	"vcpe": "cpe:/:flarum",
+	"pid": "36682",
+	"pname": "Flarum Core",
+	"pcpe": "cpe:/a:flarum:flarum"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24183",
-  "vname": "JumpDEMAND",
-  "vcpe": "cpe:/:jumpdemand",
-  "pid": "62551",
-  "pname": "ActiveDEMAND",
-  "pcpe": "cpe:/a:jumpdemand:activedemand"
+	"vid": "24183",
+	"vname": "JumpDEMAND",
+	"vcpe": "cpe:/:jumpdemand",
+	"pid": "62551",
+	"pname": "ActiveDEMAND",
+	"pcpe": "cpe:/a:jumpdemand:activedemand"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12567",
-  "vname": "Jensen of Scandinavia AS",
-  "vcpe": "cpe:/:jensen_of_scandinavia_as",
-  "pid": "28592",
-  "pname": "Air:Link 59300 ファームウェア",
-  "pcpe": "cpe:/o:jensen_of_scandinavia_as:air%3Alink_59300_firmware"
+	"vid": "12567",
+	"vname": "Jensen of Scandinavia AS",
+	"vcpe": "cpe:/:jensen_of_scandinavia_as",
+	"pid": "28592",
+	"pname": "Air:Link 59300 ファームウェア",
+	"pcpe": "cpe:/o:jensen_of_scandinavia_as:air%3Alink_59300_firmware"
 }

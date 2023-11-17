@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24343",
-  "pname": "Cisco uBR10000 ルータ用 ケーブル モデム ターミネーション システム",
-  "pcpe": "cpe:/h:cisco:ubr10000_cable_modem_termination_system"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24343",
+	"pname": "Cisco uBR10000 ルータ用 ケーブル モデム ターミネーション システム",
+	"pcpe": "cpe:/h:cisco:ubr10000_cable_modem_termination_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "46204",
-  "pname": "Aterm SA3500G ファームウェア",
-  "pcpe": "cpe:/o:nec:aterm_sa3500g_firmware"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "46204",
+	"pname": "Aterm SA3500G ファームウェア",
+	"pcpe": "cpe:/o:nec:aterm_sa3500g_firmware"
 }

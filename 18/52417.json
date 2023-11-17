@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "52417",
-  "pname": "IBM OpenPages with Watson",
-  "pcpe": "cpe:/a:ibm:openpages_with_watson"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "52417",
+	"pname": "IBM OpenPages with Watson",
+	"pcpe": "cpe:/a:ibm:openpages_with_watson"
 }

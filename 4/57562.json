@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "57562",
-  "pname": "Mp9 G4 Retail System ファームウェア",
-  "pcpe": "cpe:/o:hp:mp9_g4_retail_system_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "57562",
+	"pname": "Mp9 G4 Retail System ファームウェア",
+	"pcpe": "cpe:/o:hp:mp9_g4_retail_system_firmware"
 }

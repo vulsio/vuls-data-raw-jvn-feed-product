@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "59595",
-  "pname": "ryzen 3 5300ge ファームウェア",
-  "pcpe": "cpe:/o:amd:ryzen_3_5300ge_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "59595",
+	"pname": "ryzen 3 5300ge ファームウェア",
+	"pcpe": "cpe:/o:amd:ryzen_3_5300ge_firmware"
 }

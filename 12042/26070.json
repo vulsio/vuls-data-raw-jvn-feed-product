@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26070",
-  "pname": "Vertica",
-  "pcpe": "cpe:/a:hp:vertica"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26070",
+	"pname": "Vertica",
+	"pcpe": "cpe:/a:hp:vertica"
 }

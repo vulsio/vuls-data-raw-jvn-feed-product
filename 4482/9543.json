@@ -1,8 +1,8 @@
 {
-  "vid": "4482",
-  "vname": "VideoCharge Software",
-  "vcpe": "cpe:/:videocharge",
-  "pid": "9543",
-  "pname": "VideoCharge Studio",
-  "pcpe": "cpe:/a:videocharge:videocharge_studio"
+	"vid": "4482",
+	"vname": "VideoCharge Software",
+	"vcpe": "cpe:/:videocharge",
+	"pid": "9543",
+	"pname": "VideoCharge Studio",
+	"pcpe": "cpe:/a:videocharge:videocharge_studio"
 }

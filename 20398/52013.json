@@ -1,8 +1,8 @@
 {
-  "vid": "20398",
-  "vname": "Wasm3 project",
-  "vcpe": "cpe:/:wasm3_project",
-  "pid": "52013",
-  "pname": "Wasm3",
-  "pcpe": "cpe:/a:wasm3_project:wasm3"
+	"vid": "20398",
+	"vname": "Wasm3 project",
+	"vcpe": "cpe:/:wasm3_project",
+	"pid": "52013",
+	"pname": "Wasm3",
+	"pcpe": "cpe:/a:wasm3_project:wasm3"
 }

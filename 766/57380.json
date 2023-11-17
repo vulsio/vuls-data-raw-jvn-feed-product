@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "57380",
-  "pname": "Easergy P145 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:easergy_p145_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "57380",
+	"pname": "Easergy P145 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:easergy_p145_firmware"
 }

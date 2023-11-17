@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "23144",
-  "pname": "IBM Rational AppScan Source",
-  "pcpe": "cpe:/a:ibm:rational_appscan_source"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "23144",
+	"pname": "IBM Rational AppScan Source",
+	"pcpe": "cpe:/a:ibm:rational_appscan_source"
 }

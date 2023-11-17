@@ -1,8 +1,8 @@
 {
-  "vid": "23143",
-  "vname": "emcosoftware",
-  "vcpe": "cpe:/:emcosoftware",
-  "pid": "59949",
-  "pname": "remote shutdown",
-  "pcpe": "cpe:/a:emcosoftware:remote_shutdown"
+	"vid": "23143",
+	"vname": "emcosoftware",
+	"vcpe": "cpe:/:emcosoftware",
+	"pid": "59949",
+	"pname": "remote shutdown",
+	"pcpe": "cpe:/a:emcosoftware:remote_shutdown"
 }

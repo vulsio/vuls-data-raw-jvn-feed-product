@@ -1,8 +1,8 @@
 {
-  "vid": "13556",
-  "vname": "GPS-server.net",
-  "vcpe": "cpe:/:gps-server",
-  "pid": "32062",
-  "pname": "GPS Tracking Software",
-  "pcpe": "cpe:/a:gps-server:gps_tracking_software"
+	"vid": "13556",
+	"vname": "GPS-server.net",
+	"vcpe": "cpe:/:gps-server",
+	"pid": "32062",
+	"pname": "GPS Tracking Software",
+	"pcpe": "cpe:/a:gps-server:gps_tracking_software"
 }

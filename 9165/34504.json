@@ -1,8 +1,8 @@
 {
-  "vid": "9165",
-  "vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
-  "vcpe": "cpe:/:ruckuswireless",
-  "pid": "34504",
-  "pname": "SZ-300 ファームウェア",
-  "pcpe": "cpe:/o:ruckuswireless:sz-300_firmware"
+	"vid": "9165",
+	"vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
+	"vcpe": "cpe:/:ruckuswireless",
+	"pid": "34504",
+	"pname": "SZ-300 ファームウェア",
+	"pcpe": "cpe:/o:ruckuswireless:sz-300_firmware"
 }

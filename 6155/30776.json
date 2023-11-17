@@ -1,8 +1,8 @@
 {
-  "vid": "6155",
-  "vname": "OpenText",
-  "vcpe": "cpe:/:opentext",
-  "pid": "30776",
-  "pname": "OpenText Documentum Webtop",
-  "pcpe": "cpe:/a:opentext:documentum_webtop"
+	"vid": "6155",
+	"vname": "OpenText",
+	"vcpe": "cpe:/:opentext",
+	"pid": "30776",
+	"pname": "OpenText Documentum Webtop",
+	"pcpe": "cpe:/a:opentext:documentum_webtop"
 }

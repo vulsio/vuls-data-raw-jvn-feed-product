@@ -1,8 +1,8 @@
 {
-  "vid": "9176",
-  "vname": "DrayTek Corporation",
-  "vcpe": "cpe:/:draytek",
-  "pid": "62449",
-  "pname": "vigor2927l ファームウェア",
-  "pcpe": "cpe:/o:draytek:vigor2927l_firmware"
+	"vid": "9176",
+	"vname": "DrayTek Corporation",
+	"vcpe": "cpe:/:draytek",
+	"pid": "62449",
+	"pname": "vigor2927l ファームウェア",
+	"pcpe": "cpe:/o:draytek:vigor2927l_firmware"
 }

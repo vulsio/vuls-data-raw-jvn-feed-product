@@ -1,8 +1,8 @@
 {
-  "vid": "4377",
-  "vname": "Isode",
-  "vcpe": "cpe:/:isode",
-  "pid": "9346",
-  "pname": "M-Link",
-  "pcpe": "cpe:/a:isode:m-link"
+	"vid": "4377",
+	"vname": "Isode",
+	"vcpe": "cpe:/:isode",
+	"pid": "9346",
+	"pname": "M-Link",
+	"pcpe": "cpe:/a:isode:m-link"
 }

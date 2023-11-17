@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "50340",
-  "pname": "Dell Unisphere for PowerMax",
-  "pcpe": "cpe:/a:dell:unisphere_for_powermax"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "50340",
+	"pname": "Dell Unisphere for PowerMax",
+	"pcpe": "cpe:/a:dell:unisphere_for_powermax"
 }

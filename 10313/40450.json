@@ -1,8 +1,8 @@
 {
-  "vid": "10313",
-  "vname": "MuleSoft Inc.",
-  "vcpe": "cpe:/:mulesoft",
-  "pid": "40450",
-  "pname": "Mule API Gateway",
-  "pcpe": "cpe:/a:mulesoft:api_gateway"
+	"vid": "10313",
+	"vname": "MuleSoft Inc.",
+	"vcpe": "cpe:/:mulesoft",
+	"pid": "40450",
+	"pname": "Mule API Gateway",
+	"pcpe": "cpe:/a:mulesoft:api_gateway"
 }

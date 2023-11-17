@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "23688",
-  "pname": "Apache Standard Taglibs",
-  "pcpe": "cpe:/a:apache:standard_taglibs"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "23688",
+	"pname": "Apache Standard Taglibs",
+	"pcpe": "cpe:/a:apache:standard_taglibs"
 }

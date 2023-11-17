@@ -1,8 +1,8 @@
 {
-  "vid": "3640",
-  "vname": "Facebook",
-  "vcpe": "cpe:/:facebook",
-  "pid": "38403",
-  "pname": "Thrift",
-  "pcpe": "cpe:/a:facebook:thrift"
+	"vid": "3640",
+	"vname": "Facebook",
+	"vcpe": "cpe:/:facebook",
+	"pid": "38403",
+	"pname": "Thrift",
+	"pcpe": "cpe:/a:facebook:thrift"
 }

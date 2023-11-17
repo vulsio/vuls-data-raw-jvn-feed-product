@@ -1,8 +1,8 @@
 {
-  "vid": "1774",
-  "vname": "webmastersite",
-  "vcpe": "cpe:/:webmastersite",
-  "pid": "4901",
-  "pname": "wsn guest",
-  "pcpe": "cpe:/a:webmastersite:wsn_guest"
+	"vid": "1774",
+	"vname": "webmastersite",
+	"vcpe": "cpe:/:webmastersite",
+	"pid": "4901",
+	"pname": "wsn guest",
+	"pcpe": "cpe:/a:webmastersite:wsn_guest"
 }

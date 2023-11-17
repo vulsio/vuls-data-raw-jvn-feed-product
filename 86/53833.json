@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "53833",
-  "pname": "WXR-5950AX12 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wxr-5950acx2_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "53833",
+	"pname": "WXR-5950AX12 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wxr-5950acx2_firmware"
 }

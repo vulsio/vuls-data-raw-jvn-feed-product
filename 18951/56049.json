@@ -1,8 +1,8 @@
 {
-  "vid": "18951",
-  "vname": "Protocol Labs",
-  "vcpe": "cpe:/:protocol",
-  "pid": "56049",
-  "pname": "go-codec-dagpb",
-  "pcpe": "cpe:/a:protocol:go-codec-dagpb"
+	"vid": "18951",
+	"vname": "Protocol Labs",
+	"vcpe": "cpe:/:protocol",
+	"pid": "56049",
+	"pname": "go-codec-dagpb",
+	"pcpe": "cpe:/a:protocol:go-codec-dagpb"
 }

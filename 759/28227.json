@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "28227",
-  "pname": "iFIX",
-  "pcpe": "cpe:/a:ge:ifix"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "28227",
+	"pname": "iFIX",
+	"pcpe": "cpe:/a:ge:ifix"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8465",
-  "vname": "webligo",
-  "vcpe": "cpe:/:webligo",
-  "pid": "16084",
-  "pname": "bloghoster",
-  "pcpe": "cpe:/a:webligo:bloghoster"
+	"vid": "8465",
+	"vname": "webligo",
+	"vcpe": "cpe:/:webligo",
+	"pid": "16084",
+	"pname": "bloghoster",
+	"pcpe": "cpe:/a:webligo:bloghoster"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26262",
-  "pname": "HPE Performance Center",
-  "pcpe": "cpe:/a:hp:performance_center"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26262",
+	"pname": "HPE Performance Center",
+	"pcpe": "cpe:/a:hp:performance_center"
 }

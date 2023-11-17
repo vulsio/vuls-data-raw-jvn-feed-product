@@ -1,8 +1,8 @@
 {
-  "vid": "19701",
-  "vname": "Datadog",
-  "vcpe": "cpe:/:datadoghq",
-  "pid": "49673",
-  "pname": "datadog-api-client-java",
-  "pcpe": "cpe:/a:datadoghq:datadog-api-client-java"
+	"vid": "19701",
+	"vname": "Datadog",
+	"vcpe": "cpe:/:datadoghq",
+	"pid": "49673",
+	"pname": "datadog-api-client-java",
+	"pcpe": "cpe:/a:datadoghq:datadog-api-client-java"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "53145",
-  "pname": "SINUMERIK Manage MyTools ファームウェア",
-  "pcpe": "cpe:/o:siemens:sinumerik_manage_mytools_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "53145",
+	"pname": "SINUMERIK Manage MyTools ファームウェア",
+	"pcpe": "cpe:/o:siemens:sinumerik_manage_mytools_firmware"
 }

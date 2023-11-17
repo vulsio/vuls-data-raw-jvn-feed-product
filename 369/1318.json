@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "1318",
-  "pname": "CA Server Protection Suite",
-  "pcpe": "cpe:/a:ca:server_protection_suite"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "1318",
+	"pname": "CA Server Protection Suite",
+	"pcpe": "cpe:/a:ca:server_protection_suite"
 }

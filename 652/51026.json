@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "51026",
-  "pname": "Galaxy Watch3 プラグイン",
-  "pcpe": "cpe:/a:samsung:galaxy_watch_3_plugin"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "51026",
+	"pname": "Galaxy Watch3 プラグイン",
+	"pcpe": "cpe:/a:samsung:galaxy_watch_3_plugin"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "43648",
-  "pname": "Tesla ファームウェア",
-  "pcpe": "cpe:/o:nvidia:tesla_firmware"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "43648",
+	"pname": "Tesla ファームウェア",
+	"pcpe": "cpe:/o:nvidia:tesla_firmware"
 }

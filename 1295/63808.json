@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "63808",
-  "pname": "FortiSwitch Manager",
-  "pcpe": "cpe:/a:fortinet:fortiswitchmanager"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "63808",
+	"pname": "FortiSwitch Manager",
+	"pcpe": "cpe:/a:fortinet:fortiswitchmanager"
 }

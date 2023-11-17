@@ -1,8 +1,8 @@
 {
-  "vid": "16458",
-  "vname": "Cerio",
-  "vcpe": "cpe:/:cerio",
-  "pid": "39073",
-  "pname": "DT-300N ファームウェア",
-  "pcpe": "cpe:/o:cerio:dt-300n_firmware"
+	"vid": "16458",
+	"vname": "Cerio",
+	"vcpe": "cpe:/:cerio",
+	"pid": "39073",
+	"pname": "DT-300N ファームウェア",
+	"pcpe": "cpe:/o:cerio:dt-300n_firmware"
 }

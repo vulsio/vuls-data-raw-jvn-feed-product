@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "30833",
-  "pname": "NR8000 TR ファームウェア",
-  "pcpe": "cpe:/o:zte:nr8000tr_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "30833",
+	"pname": "NR8000 TR ファームウェア",
+	"pcpe": "cpe:/o:zte:nr8000tr_firmware"
 }

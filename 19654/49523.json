@@ -1,8 +1,8 @@
 {
-  "vid": "19654",
-  "vname": "node-ps",
-  "vcpe": "cpe:/:node-ps_project",
-  "pid": "49523",
-  "pname": "node-ps",
-  "pcpe": "cpe:/a:node-ps_project:node-ps"
+	"vid": "19654",
+	"vname": "node-ps",
+	"vcpe": "cpe:/:node-ps_project",
+	"pid": "49523",
+	"pname": "node-ps",
+	"pcpe": "cpe:/a:node-ps_project:node-ps"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12713",
-  "vname": "Gemalto N.V.",
-  "vcpe": "cpe:/:gemalto",
-  "pid": "32729",
-  "pname": "SafeNet Authentication Service End User Software Tools for Windows",
-  "pcpe": "cpe:/a:gemalto:safenet_authentication_service_end_user_software_tools_for_windows"
+	"vid": "12713",
+	"vname": "Gemalto N.V.",
+	"vcpe": "cpe:/:gemalto",
+	"pid": "32729",
+	"pname": "SafeNet Authentication Service End User Software Tools for Windows",
+	"pcpe": "cpe:/a:gemalto:safenet_authentication_service_end_user_software_tools_for_windows"
 }

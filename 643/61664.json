@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "61664",
-  "pname": "r7515 ファームウェア",
-  "pcpe": "cpe:/o:dell:r7515_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "61664",
+	"pname": "r7515 ファームウェア",
+	"pcpe": "cpe:/o:dell:r7515_firmware"
 }

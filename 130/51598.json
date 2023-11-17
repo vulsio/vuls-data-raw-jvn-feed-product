@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "51598",
-  "pname": "Atom X6413E",
-  "pcpe": "cpe:/h:intel:atom_x6413e"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "51598",
+	"pname": "Atom X6413E",
+	"pcpe": "cpe:/h:intel:atom_x6413e"
 }

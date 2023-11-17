@@ -1,8 +1,8 @@
 {
-  "vid": "12176",
-  "vname": "AmazonBasics",
-  "vcpe": "cpe:/:amazonbasics",
-  "pid": "26665",
-  "pname": "AmazonBasics ワイヤレスキーボード",
-  "pcpe": "cpe:/h:amazonbasics:wireless_keyboard"
+	"vid": "12176",
+	"vname": "AmazonBasics",
+	"vcpe": "cpe:/:amazonbasics",
+	"pid": "26665",
+	"pname": "AmazonBasics ワイヤレスキーボード",
+	"pcpe": "cpe:/h:amazonbasics:wireless_keyboard"
 }

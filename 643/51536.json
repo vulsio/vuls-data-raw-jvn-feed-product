@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "51536",
-  "pname": "Dell EMC PowerFlex Presentation Server",
-  "pcpe": "cpe:/a:dell:powerflex_presentation_server"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "51536",
+	"pname": "Dell EMC PowerFlex Presentation Server",
+	"pcpe": "cpe:/a:dell:powerflex_presentation_server"
 }

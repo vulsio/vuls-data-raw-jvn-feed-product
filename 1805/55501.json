@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "55501",
-  "pname": "TL-WA7510N V1 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-wa7510n_v1_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "55501",
+	"pname": "TL-WA7510N V1 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-wa7510n_v1_firmware"
 }

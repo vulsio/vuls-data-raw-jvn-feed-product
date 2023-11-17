@@ -1,8 +1,8 @@
 {
-  "vid": "21510",
-  "vname": "ControlUp Technologies LTD",
-  "vcpe": "cpe:/:controlup",
-  "pid": "55231",
-  "pname": "ControlUp Real-Time Agent",
-  "pcpe": "cpe:/a:controlup:controlup_agent"
+	"vid": "21510",
+	"vname": "ControlUp Technologies LTD",
+	"vcpe": "cpe:/:controlup",
+	"pid": "55231",
+	"pname": "ControlUp Real-Time Agent",
+	"pcpe": "cpe:/a:controlup:controlup_agent"
 }

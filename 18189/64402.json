@@ -1,8 +1,8 @@
 {
-  "vid": "18189",
-  "vname": "UI",
-  "vcpe": "cpe:/:ui",
-  "pid": "64402",
-  "pname": "unifi dream machine pro ファームウェア",
-  "pcpe": "cpe:/o:ui:unifi_dream_machine_pro_firmware"
+	"vid": "18189",
+	"vname": "UI",
+	"vcpe": "cpe:/:ui",
+	"pid": "64402",
+	"pname": "unifi dream machine pro ファームウェア",
+	"pcpe": "cpe:/o:ui:unifi_dream_machine_pro_firmware"
 }

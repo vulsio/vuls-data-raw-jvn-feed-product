@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "40917",
-  "pname": "Cisco IR510 WPAN ファームウェア",
-  "pcpe": "cpe:/o:cisco:ir510_wpan_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "40917",
+	"pname": "Cisco IR510 WPAN ファームウェア",
+	"pcpe": "cpe:/o:cisco:ir510_wpan_firmware"
 }

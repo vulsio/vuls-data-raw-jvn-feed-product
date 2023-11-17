@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "48815",
-  "pname": "QNX OS for Automotive Safety",
-  "pcpe": "cpe:/o:blackberry:qnx_os_for_automotive_safety"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "48815",
+	"pname": "QNX OS for Automotive Safety",
+	"pcpe": "cpe:/o:blackberry:qnx_os_for_automotive_safety"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6463",
-  "vname": "neoscale systems",
-  "vcpe": "cpe:/:neoscale_systems",
-  "pid": "12971",
-  "pname": "cryptostor tape 700",
-  "pcpe": "cpe:/h:neoscale_systems:cryptostor_tape_700"
+	"vid": "6463",
+	"vname": "neoscale systems",
+	"vcpe": "cpe:/:neoscale_systems",
+	"pid": "12971",
+	"pname": "cryptostor tape 700",
+	"pcpe": "cpe:/h:neoscale_systems:cryptostor_tape_700"
 }

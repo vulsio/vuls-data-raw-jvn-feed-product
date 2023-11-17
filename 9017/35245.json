@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "35245",
-  "pname": "K1SPI ファームウェア",
-  "pcpe": "cpe:/o:supermicro:k1spi_firmware"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "35245",
+	"pname": "K1SPI ファームウェア",
+	"pcpe": "cpe:/o:supermicro:k1spi_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "9023",
-  "pname": "Microsoft Visual Basic for Applications SDK",
-  "pcpe": "cpe:/a:microsoft:visual_basic_for_applications_sdk"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "9023",
+	"pname": "Microsoft Visual Basic for Applications SDK",
+	"pcpe": "cpe:/a:microsoft:visual_basic_for_applications_sdk"
 }

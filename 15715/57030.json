@@ -1,8 +1,8 @@
 {
-  "vid": "15715",
-  "vname": "TOTOLINK",
-  "vcpe": "cpe:/:totolink",
-  "pid": "57030",
-  "pname": "A7100RU ファームウェア",
-  "pcpe": "cpe:/o:totolink:a7100ru_firmware"
+	"vid": "15715",
+	"vname": "TOTOLINK",
+	"vcpe": "cpe:/:totolink",
+	"pid": "57030",
+	"pname": "A7100RU ファームウェア",
+	"pcpe": "cpe:/o:totolink:a7100ru_firmware"
 }

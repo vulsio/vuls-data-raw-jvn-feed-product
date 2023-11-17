@@ -1,8 +1,8 @@
 {
-  "vid": "13208",
-  "vname": "UCOPIA",
-  "vcpe": "cpe:/:ucopia",
-  "pid": "49520",
-  "pname": "Ucopia Express wireless appliance",
-  "pcpe": "cpe:/a:ucopia:express_wireless_appliance"
+	"vid": "13208",
+	"vname": "UCOPIA",
+	"vcpe": "cpe:/:ucopia",
+	"pid": "49520",
+	"pname": "Ucopia Express wireless appliance",
+	"pcpe": "cpe:/a:ucopia:express_wireless_appliance"
 }

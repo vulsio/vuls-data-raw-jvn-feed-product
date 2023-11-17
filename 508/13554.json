@@ -1,8 +1,8 @@
 {
-  "vid": "508",
-  "vname": "PHPNUKE",
-  "vcpe": "cpe:/:phpnuke",
-  "pid": "13554",
-  "pname": "league module",
-  "pcpe": "cpe:/a:phpnuke:league_module"
+	"vid": "508",
+	"vname": "PHPNUKE",
+	"vcpe": "cpe:/:phpnuke",
+	"pid": "13554",
+	"pname": "league module",
+	"pcpe": "cpe:/a:phpnuke:league_module"
 }

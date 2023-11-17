@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "32606",
-  "pname": "Atlassian Bitbucket Server",
-  "pcpe": "cpe:/a:atlassian:bitbucket_server"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "32606",
+	"pname": "Atlassian Bitbucket Server",
+	"pcpe": "cpe:/a:atlassian:bitbucket_server"
 }

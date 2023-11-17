@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "20201",
-  "pname": "Cisco 1240 Connected Grid ルータ ファームウェア",
-  "pcpe": "cpe:/o:cisco:cgr1240_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "20201",
+	"pname": "Cisco 1240 Connected Grid ルータ ファームウェア",
+	"pcpe": "cpe:/o:cisco:cgr1240_firmware"
 }

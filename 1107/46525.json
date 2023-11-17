@@ -1,8 +1,8 @@
 {
-  "vid": "1107",
-  "vname": "Xiaomi",
-  "vcpe": "cpe:/:xiaomi",
-  "pid": "46525",
-  "pname": "Xiaomi AI speaker ファームウェア",
-  "pcpe": "cpe:/o:xiaomi:xiaomi_ai_speaker_firmware"
+	"vid": "1107",
+	"vname": "Xiaomi",
+	"vcpe": "cpe:/:xiaomi",
+	"pid": "46525",
+	"pname": "Xiaomi AI speaker ファームウェア",
+	"pcpe": "cpe:/o:xiaomi:xiaomi_ai_speaker_firmware"
 }

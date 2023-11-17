@@ -1,8 +1,8 @@
 {
-  "vid": "15910",
-  "vname": "Open Design Alliance",
-  "vcpe": "cpe:/:opendesign",
-  "pid": "54505",
-  "pname": "PRC SDK",
-  "pcpe": "cpe:/a:opendesign:prc_sdk"
+	"vid": "15910",
+	"vname": "Open Design Alliance",
+	"vcpe": "cpe:/:opendesign",
+	"pid": "54505",
+	"pname": "PRC SDK",
+	"pcpe": "cpe:/a:opendesign:prc_sdk"
 }

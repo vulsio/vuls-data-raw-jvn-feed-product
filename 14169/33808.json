@@ -1,8 +1,8 @@
 {
-  "vid": "14169",
-  "vname": "stattic project",
-  "vcpe": "cpe:/:stattic_project",
-  "pid": "33808",
-  "pname": "stattic",
-  "pcpe": "cpe:/a:stattic_project:stattic"
+	"vid": "14169",
+	"vname": "stattic project",
+	"vcpe": "cpe:/:stattic_project",
+	"pid": "33808",
+	"pname": "stattic",
+	"pcpe": "cpe:/a:stattic_project:stattic"
 }

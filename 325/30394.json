@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30394",
-  "pname": "ThinkStation S30 (4352) ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkstation_s30_%284352%29_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30394",
+	"pname": "ThinkStation S30 (4352) ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkstation_s30_%284352%29_firmware"
 }

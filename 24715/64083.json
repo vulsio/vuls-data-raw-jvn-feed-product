@@ -1,8 +1,8 @@
 {
-  "vid": "24715",
-  "vname": "qvidium",
-  "vcpe": "cpe:/:qvidium",
-  "pid": "64083",
-  "pname": "amino a140 ファームウェア",
-  "pcpe": "cpe:/o:qvidium:amino_a140_firmware"
+	"vid": "24715",
+	"vname": "qvidium",
+	"vcpe": "cpe:/:qvidium",
+	"pid": "64083",
+	"pname": "amino a140 ファームウェア",
+	"pcpe": "cpe:/o:qvidium:amino_a140_firmware"
 }

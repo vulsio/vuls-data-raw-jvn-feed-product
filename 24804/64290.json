@@ -1,8 +1,8 @@
 {
-  "vid": "24804",
-  "vname": "afl++ project",
-  "vcpe": "cpe:/:afl%2B%2B_project",
-  "pid": "64290",
-  "pname": "afl++",
-  "pcpe": "cpe:/a:afl%2B%2B_project:afl%2B%2B"
+	"vid": "24804",
+	"vname": "afl++ project",
+	"vcpe": "cpe:/:afl%2B%2B_project",
+	"pid": "64290",
+	"pname": "afl++",
+	"pcpe": "cpe:/a:afl%2B%2B_project:afl%2B%2B"
 }

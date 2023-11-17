@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "63957",
-  "pname": "mp c306 ファームウェア",
-  "pcpe": "cpe:/o:ricoh:mp_c306_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "63957",
+	"pname": "mp c306 ファームウェア",
+	"pcpe": "cpe:/o:ricoh:mp_c306_firmware"
 }

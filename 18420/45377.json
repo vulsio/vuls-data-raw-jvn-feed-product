@@ -1,8 +1,8 @@
 {
-  "vid": "18420",
-  "vname": "Semtech",
-  "vcpe": "cpe:/:semtech",
-  "pid": "45377",
-  "pname": "LoRa Basics Station",
-  "pcpe": "cpe:/a:semtech:lora_basics_station"
+	"vid": "18420",
+	"vname": "Semtech",
+	"vcpe": "cpe:/:semtech",
+	"pid": "45377",
+	"pname": "LoRa Basics Station",
+	"pcpe": "cpe:/a:semtech:lora_basics_station"
 }

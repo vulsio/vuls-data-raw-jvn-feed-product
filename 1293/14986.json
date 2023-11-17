@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "14986",
-  "pname": "Small Business suite",
-  "pcpe": "cpe:/a:sophos:small_business_suite"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "14986",
+	"pname": "Small Business suite",
+	"pcpe": "cpe:/a:sophos:small_business_suite"
 }

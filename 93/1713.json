@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1713",
-  "pname": "Mailsave",
-  "pcpe": "cpe:/a:drupal:mailsave"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1713",
+	"pname": "Mailsave",
+	"pcpe": "cpe:/a:drupal:mailsave"
 }

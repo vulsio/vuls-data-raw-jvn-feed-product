@@ -1,8 +1,8 @@
 {
-  "vid": "19527",
-  "vname": "Qoppa Software",
-  "vcpe": "cpe:/:qoppa",
-  "pid": "49189",
-  "pname": "PDF Studio",
-  "pcpe": "cpe:/a:qoppa:pdf_studio"
+	"vid": "19527",
+	"vname": "Qoppa Software",
+	"vcpe": "cpe:/:qoppa",
+	"pid": "49189",
+	"pname": "PDF Studio",
+	"pcpe": "cpe:/a:qoppa:pdf_studio"
 }

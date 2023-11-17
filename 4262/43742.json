@@ -1,8 +1,8 @@
 {
-  "vid": "4262",
-  "vname": "ジョンソンコントロールズ",
-  "vcpe": "cpe:/:johnsoncontrols",
-  "pid": "43742",
-  "pname": "Metasys LonWorks Control Server",
-  "pcpe": "cpe:/a:johnsoncontrols:metasys_lonworks_control_server"
+	"vid": "4262",
+	"vname": "ジョンソンコントロールズ",
+	"vcpe": "cpe:/:johnsoncontrols",
+	"pid": "43742",
+	"pname": "Metasys LonWorks Control Server",
+	"pcpe": "cpe:/a:johnsoncontrols:metasys_lonworks_control_server"
 }

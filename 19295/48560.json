@@ -1,8 +1,8 @@
 {
-  "vid": "19295",
-  "vname": "VSCodeVim project",
-  "vcpe": "cpe:/:vim_project",
-  "pid": "48560",
-  "pname": "VSCodeVim",
-  "pcpe": "cpe:/a:vim_project:vim"
+	"vid": "19295",
+	"vname": "VSCodeVim project",
+	"vcpe": "cpe:/:vim_project",
+	"pid": "48560",
+	"pname": "VSCodeVim",
+	"pcpe": "cpe:/a:vim_project:vim"
 }

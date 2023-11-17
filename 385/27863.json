@@ -1,8 +1,8 @@
 {
-  "vid": "385",
-  "vname": "株式会社アイ・オー・データ機器",
-  "vcpe": "cpe:/:i-o_data_device",
-  "pid": "27863",
-  "pname": "TS-WPTCAM2",
-  "pcpe": "cpe:/h:i-o_data_device:ts-wptcam2"
+	"vid": "385",
+	"vname": "株式会社アイ・オー・データ機器",
+	"vcpe": "cpe:/:i-o_data_device",
+	"pid": "27863",
+	"pname": "TS-WPTCAM2",
+	"pcpe": "cpe:/h:i-o_data_device:ts-wptcam2"
 }

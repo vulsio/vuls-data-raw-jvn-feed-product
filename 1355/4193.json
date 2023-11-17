@@ -1,8 +1,8 @@
 {
-  "vid": "1355",
-  "vname": "arg0",
-  "vcpe": "cpe:/:arg0",
-  "pid": "4193",
-  "pname": "encfs",
-  "pcpe": "cpe:/a:arg0:encfs"
+	"vid": "1355",
+	"vname": "arg0",
+	"vcpe": "cpe:/:arg0",
+	"pid": "4193",
+	"pname": "encfs",
+	"pcpe": "cpe:/a:arg0:encfs"
 }

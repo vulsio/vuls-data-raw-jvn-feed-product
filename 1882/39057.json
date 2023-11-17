@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "39057",
-  "pname": "WF820+ LTE Outdoor CPE ファームウェア",
-  "pcpe": "cpe:/o:zte:wf820%2b_lte_outdoor_cpe_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "39057",
+	"pname": "WF820+ LTE Outdoor CPE ファームウェア",
+	"pcpe": "cpe:/o:zte:wf820%2b_lte_outdoor_cpe_firmware"
 }

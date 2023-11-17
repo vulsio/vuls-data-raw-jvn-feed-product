@@ -1,8 +1,8 @@
 {
-  "vid": "15029",
-  "vname": "SLCAdvancedToken project",
-  "vcpe": "cpe:/:slcadvancedtoken_project",
-  "pid": "34958",
-  "pname": "SLCAdvancedToken",
-  "pcpe": "cpe:/a:slcadvancedtoken_project:slcadvancedtoken"
+	"vid": "15029",
+	"vname": "SLCAdvancedToken project",
+	"vcpe": "cpe:/:slcadvancedtoken_project",
+	"pid": "34958",
+	"pname": "SLCAdvancedToken",
+	"pcpe": "cpe:/a:slcadvancedtoken_project:slcadvancedtoken"
 }

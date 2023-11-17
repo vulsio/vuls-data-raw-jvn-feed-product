@@ -1,8 +1,8 @@
 {
-  "vid": "6134",
-  "vname": "opendap",
-  "vcpe": "cpe:/:opendap",
-  "pid": "12273",
-  "pname": "server3",
-  "pcpe": "cpe:/a:opendap:server3"
+	"vid": "6134",
+	"vname": "opendap",
+	"vcpe": "cpe:/:opendap",
+	"pid": "12273",
+	"pname": "server3",
+	"pcpe": "cpe:/a:opendap:server3"
 }

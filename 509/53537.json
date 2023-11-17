@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "53537",
-  "pname": "SAP BusinessObjects Analysis",
-  "pcpe": "cpe:/a:sap:businessobjects_analysis"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "53537",
+	"pname": "SAP BusinessObjects Analysis",
+	"pcpe": "cpe:/a:sap:businessobjects_analysis"
 }

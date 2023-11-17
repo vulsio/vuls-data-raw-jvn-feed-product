@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "46875",
-  "pname": "Oracle Financial Services Data Integration Hub",
-  "pcpe": "cpe:/a:oracle:financial_services_data_integration_hub"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "46875",
+	"pname": "Oracle Financial Services Data Integration Hub",
+	"pcpe": "cpe:/a:oracle:financial_services_data_integration_hub"
 }

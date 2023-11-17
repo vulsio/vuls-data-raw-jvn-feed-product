@@ -1,8 +1,8 @@
 {
-  "vid": "19095",
-  "vname": "ETUNA",
-  "vcpe": "cpe:/:misc",
-  "pid": "47933",
-  "pname": "配送伝票番号csv一括登録プラグイン(3.0系)",
-  "pcpe": "cpe:/a:misc:haiso_denpyo_bango_csv_bulk_registration_plug-in_3.0"
+	"vid": "19095",
+	"vname": "ETUNA",
+	"vcpe": "cpe:/:misc",
+	"pid": "47933",
+	"pname": "配送伝票番号csv一括登録プラグイン(3.0系)",
+	"pcpe": "cpe:/a:misc:haiso_denpyo_bango_csv_bulk_registration_plug-in_3.0"
 }

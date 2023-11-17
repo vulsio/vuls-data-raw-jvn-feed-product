@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "37514",
-  "pname": "PeopleSoft Enterprise HCM eProfile Manager Desktop",
-  "pcpe": "cpe:/a:oracle:peoplesoft_enterprise_human_capital_management_eprofile_manager_desktop"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "37514",
+	"pname": "PeopleSoft Enterprise HCM eProfile Manager Desktop",
+	"pcpe": "cpe:/a:oracle:peoplesoft_enterprise_human_capital_management_eprofile_manager_desktop"
 }

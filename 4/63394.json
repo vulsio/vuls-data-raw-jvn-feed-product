@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63394",
-  "pname": "HP OfficeJet 5220 All-in-One Printer M2U81B ファームウェア",
-  "pcpe": "cpe:/o:hp:m2u81b_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63394",
+	"pname": "HP OfficeJet 5220 All-in-One Printer M2U81B ファームウェア",
+	"pcpe": "cpe:/o:hp:m2u81b_firmware"
 }

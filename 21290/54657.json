@@ -1,8 +1,8 @@
 {
-  "vid": "21290",
-  "vname": "ルネサス エレクトロニクス株式会社",
-  "vcpe": "cpe:/:renesas",
-  "pid": "54657",
-  "pname": "RX65N ファームウェア",
-  "pcpe": "cpe:/o:renesas:rx65n_firmware"
+	"vid": "21290",
+	"vname": "ルネサス エレクトロニクス株式会社",
+	"vcpe": "cpe:/:renesas",
+	"pid": "54657",
+	"pname": "RX65N ファームウェア",
+	"pcpe": "cpe:/o:renesas:rx65n_firmware"
 }

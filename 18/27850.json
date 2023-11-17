@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27850",
-  "pname": "IBM InfoSphere Information Server on Cloud",
-  "pcpe": "cpe:/a:ibm:infosphere_information_server_on_cloud"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27850",
+	"pname": "IBM InfoSphere Information Server on Cloud",
+	"pcpe": "cpe:/a:ibm:infosphere_information_server_on_cloud"
 }

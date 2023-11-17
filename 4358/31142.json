@@ -1,8 +1,8 @@
 {
-  "vid": "4358",
-  "vname": "Korenix Technology",
-  "vcpe": "cpe:/:korenix",
-  "pid": "31142",
-  "pname": "JetNet6710G-HVDC ファームウェア",
-  "pcpe": "cpe:/o:korenix:jetnet6710g-hvdc_firmware"
+	"vid": "4358",
+	"vname": "Korenix Technology",
+	"vcpe": "cpe:/:korenix",
+	"pid": "31142",
+	"pname": "JetNet6710G-HVDC ファームウェア",
+	"pcpe": "cpe:/o:korenix:jetnet6710g-hvdc_firmware"
 }

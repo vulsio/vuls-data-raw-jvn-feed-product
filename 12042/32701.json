@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "32701",
-  "pname": "Business Process Monitor",
-  "pcpe": "cpe:/a:hp:business_process_monitor"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "32701",
+	"pname": "Business Process Monitor",
+	"pcpe": "cpe:/a:hp:business_process_monitor"
 }

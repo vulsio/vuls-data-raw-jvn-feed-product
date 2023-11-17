@@ -1,8 +1,8 @@
 {
-  "vid": "4291",
-  "vname": "Bitcoin Project",
-  "vcpe": "cpe:/:bitcoin",
-  "pid": "9171",
-  "pname": "bitcoind",
-  "pcpe": "cpe:/a:bitcoin:bitcoind"
+	"vid": "4291",
+	"vname": "Bitcoin Project",
+	"vcpe": "cpe:/:bitcoin",
+	"pid": "9171",
+	"pname": "bitcoind",
+	"pcpe": "cpe:/a:bitcoin:bitcoind"
 }

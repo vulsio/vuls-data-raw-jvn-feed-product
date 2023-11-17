@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "40817",
-  "pname": "Google Calendar",
-  "pcpe": "cpe:/a:jenkins:google_calendar"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "40817",
+	"pname": "Google Calendar",
+	"pcpe": "cpe:/a:jenkins:google_calendar"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "33728",
-  "pname": "PACSystems RX3i CPE310 ファームウェア",
-  "pcpe": "cpe:/o:ge:pacsystems_rx3i_cpe310_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "33728",
+	"pname": "PACSystems RX3i CPE310 ファームウェア",
+	"pcpe": "cpe:/o:ge:pacsystems_rx3i_cpe310_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "47388",
-  "pname": "Spring Cloud Netflix Zuul",
-  "pcpe": "cpe:/a:vmware:spring_cloud_netflix_zuul"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "47388",
+	"pname": "Spring Cloud Netflix Zuul",
+	"pcpe": "cpe:/a:vmware:spring_cloud_netflix_zuul"
 }

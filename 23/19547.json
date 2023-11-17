@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "19547",
-  "pname": "Symantec Protection Center",
-  "pcpe": "cpe:/a:symantec:protection_center"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "19547",
+	"pname": "Symantec Protection Center",
+	"pcpe": "cpe:/a:symantec:protection_center"
 }

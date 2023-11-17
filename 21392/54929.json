@@ -1,8 +1,8 @@
 {
-  "vid": "21392",
-  "vname": "Cordova Plugin Fingerprint All-In-One project",
-  "vcpe": "cpe:/:cordova_plugin_fingerprint_all-in-one_project",
-  "pid": "54929",
-  "pname": "Cordova Plugin Fingerprint All-In-One",
-  "pcpe": "cpe:/a:cordova_plugin_fingerprint_all-in-one_project:cordova_plugin_fingerprint_all-in-one"
+	"vid": "21392",
+	"vname": "Cordova Plugin Fingerprint All-In-One project",
+	"vcpe": "cpe:/:cordova_plugin_fingerprint_all-in-one_project",
+	"pid": "54929",
+	"pname": "Cordova Plugin Fingerprint All-In-One",
+	"pcpe": "cpe:/a:cordova_plugin_fingerprint_all-in-one_project:cordova_plugin_fingerprint_all-in-one"
 }

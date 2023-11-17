@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "9180",
-  "pname": "php5 パッケージ",
-  "pcpe": "cpe:/a:debian:php5-common"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "9180",
+	"pname": "php5 パッケージ",
+	"pcpe": "cpe:/a:debian:php5-common"
 }

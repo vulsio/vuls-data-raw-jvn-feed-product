@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "16596",
-  "pname": "blackberry 8100",
-  "pcpe": "cpe:/h:blackberry:blackberry_8100"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "16596",
+	"pname": "blackberry 8100",
+	"pcpe": "cpe:/h:blackberry:blackberry_8100"
 }

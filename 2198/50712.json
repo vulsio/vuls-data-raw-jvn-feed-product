@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "50712",
-  "pname": "EPYC 7261",
-  "pcpe": "cpe:/h:amd:epyc_7261"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "50712",
+	"pname": "EPYC 7261",
+	"pcpe": "cpe:/h:amd:epyc_7261"
 }

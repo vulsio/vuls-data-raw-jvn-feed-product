@@ -1,8 +1,8 @@
 {
-  "vid": "1385",
-  "vname": "BMC Software",
-  "vcpe": "cpe:/:bmc",
-  "pid": "29037",
-  "pname": "BMC Server Automation",
-  "pcpe": "cpe:/a:bmc:server_automation"
+	"vid": "1385",
+	"vname": "BMC Software",
+	"vcpe": "cpe:/:bmc",
+	"pid": "29037",
+	"pname": "BMC Server Automation",
+	"pcpe": "cpe:/a:bmc:server_automation"
 }

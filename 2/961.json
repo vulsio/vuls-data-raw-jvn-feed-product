@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "961",
-  "pname": "Microsoft Windows メール",
-  "pcpe": "cpe:/a:microsoft:windows_mail"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "961",
+	"pname": "Microsoft Windows メール",
+	"pcpe": "cpe:/a:microsoft:windows_mail"
 }

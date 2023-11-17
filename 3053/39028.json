@@ -1,8 +1,8 @@
 {
-  "vid": "3053",
-  "vname": "cypress",
-  "vcpe": "cpe:/:cypress",
-  "pid": "39028",
-  "pname": "CYW20702A1KWFBG ファームウェア",
-  "pcpe": "cpe:/o:cypress:cyw20702a1kwfbg_firmware"
+	"vid": "3053",
+	"vname": "cypress",
+	"vcpe": "cpe:/:cypress",
+	"pid": "39028",
+	"pname": "CYW20702A1KWFBG ファームウェア",
+	"pcpe": "cpe:/o:cypress:cyw20702a1kwfbg_firmware"
 }

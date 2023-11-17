@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "16726",
-  "pname": "RuggedMax OS",
-  "pcpe": "cpe:/o:siemens:ruggedmax_os"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "16726",
+	"pname": "RuggedMax OS",
+	"pcpe": "cpe:/o:siemens:ruggedmax_os"
 }

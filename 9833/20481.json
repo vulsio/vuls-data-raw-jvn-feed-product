@@ -1,8 +1,8 @@
 {
-  "vid": "9833",
-  "vname": "WP Plugin Manager project",
-  "vcpe": "cpe:/:wp_plugin_manager_project",
-  "pid": "20481",
-  "pname": "WP Plugin Manager",
-  "pcpe": "cpe:/a:wp_plugin_manager_project:wp_plugin_manager"
+	"vid": "9833",
+	"vname": "WP Plugin Manager project",
+	"vcpe": "cpe:/:wp_plugin_manager_project",
+	"pid": "20481",
+	"pname": "WP Plugin Manager",
+	"pcpe": "cpe:/a:wp_plugin_manager_project:wp_plugin_manager"
 }

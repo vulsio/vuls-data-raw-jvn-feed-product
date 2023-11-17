@@ -1,8 +1,8 @@
 {
-  "vid": "12901",
-  "vname": "libinfinity project",
-  "vcpe": "cpe:/:libinfinity_project",
-  "pid": "29754",
-  "pname": "libinfinity",
-  "pcpe": "cpe:/a:libinfinity_project:libinfinity"
+	"vid": "12901",
+	"vname": "libinfinity project",
+	"vcpe": "cpe:/:libinfinity_project",
+	"pid": "29754",
+	"pname": "libinfinity",
+	"pcpe": "cpe:/a:libinfinity_project:libinfinity"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19828",
-  "vname": "Hitachi Energy",
-  "vcpe": "cpe:/:hitachienergy",
-  "pid": "56147",
-  "pname": "REB500",
-  "pcpe": "cpe:/a:hitachienergy:reb500"
+	"vid": "19828",
+	"vname": "Hitachi Energy",
+	"vcpe": "cpe:/:hitachienergy",
+	"pid": "56147",
+	"pname": "REB500",
+	"pcpe": "cpe:/a:hitachienergy:reb500"
 }

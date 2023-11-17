@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56817",
-  "pname": "LTE3202-M437 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:lte3202-m437_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56817",
+	"pname": "LTE3202-M437 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:lte3202-m437_firmware"
 }

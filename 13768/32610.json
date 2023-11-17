@@ -1,8 +1,8 @@
 {
-  "vid": "13768",
-  "vname": "OpenRC",
-  "vcpe": "cpe:/:openr",
-  "pid": "32610",
-  "pname": "opentmpfiles",
-  "pcpe": "cpe:/a:openr:opentmpfiles"
+	"vid": "13768",
+	"vname": "OpenRC",
+	"vcpe": "cpe:/:openr",
+	"pid": "32610",
+	"pname": "opentmpfiles",
+	"pcpe": "cpe:/a:openr:opentmpfiles"
 }

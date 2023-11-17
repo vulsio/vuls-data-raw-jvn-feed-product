@@ -1,8 +1,8 @@
 {
-  "vid": "1828",
-  "vname": "ownCloud",
-  "vcpe": "cpe:/:owncloud",
-  "pid": "24967",
-  "pname": "ownCloud Desktop Client",
-  "pcpe": "cpe:/a:owncloud:owncloud_desktop_client"
+	"vid": "1828",
+	"vname": "ownCloud",
+	"vcpe": "cpe:/:owncloud",
+	"pid": "24967",
+	"pname": "ownCloud Desktop Client",
+	"pcpe": "cpe:/a:owncloud:owncloud_desktop_client"
 }

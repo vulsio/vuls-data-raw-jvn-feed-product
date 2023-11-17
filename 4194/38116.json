@@ -1,8 +1,8 @@
 {
-  "vid": "4194",
-  "vname": "Grandstream Networks",
-  "vcpe": "cpe:/:grandstream",
-  "pid": "38116",
-  "pname": "GXV3240 ファームウェア",
-  "pcpe": "cpe:/o:grandstream:gxv3240_firmware"
+	"vid": "4194",
+	"vname": "Grandstream Networks",
+	"vcpe": "cpe:/:grandstream",
+	"pid": "38116",
+	"pname": "GXV3240 ファームウェア",
+	"pcpe": "cpe:/o:grandstream:gxv3240_firmware"
 }

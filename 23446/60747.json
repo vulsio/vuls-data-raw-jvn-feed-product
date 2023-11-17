@@ -1,8 +1,8 @@
 {
-  "vid": "23446",
-  "vname": "Campbell Scientific",
-  "vcpe": "cpe:/:campbellsci",
-  "pid": "60747",
-  "pname": "CR6 ファームウェア",
-  "pcpe": "cpe:/o:campbellsci:cr6_firmware"
+	"vid": "23446",
+	"vname": "Campbell Scientific",
+	"vcpe": "cpe:/:campbellsci",
+	"pid": "60747",
+	"pname": "CR6 ファームウェア",
+	"pcpe": "cpe:/o:campbellsci:cr6_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "42077",
-  "pname": "Atlas 300 ファームウェア",
-  "pcpe": "cpe:/o:huawei:atlas_300_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "42077",
+	"pname": "Atlas 300 ファームウェア",
+	"pcpe": "cpe:/o:huawei:atlas_300_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "60477",
-  "pname": "qrb5165m ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qrb5165m_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "60477",
+	"pname": "qrb5165m ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qrb5165m_firmware"
 }

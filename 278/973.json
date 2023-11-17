@@ -1,8 +1,8 @@
 {
-  "vid": "278",
-  "vname": "SCO",
-  "vcpe": "cpe:/:sco",
-  "pid": "973",
-  "pname": "Open UNIX",
-  "pcpe": "cpe:/o:sco:open_unix"
+	"vid": "278",
+	"vname": "SCO",
+	"vcpe": "cpe:/:sco",
+	"pid": "973",
+	"pname": "Open UNIX",
+	"pcpe": "cpe:/o:sco:open_unix"
 }

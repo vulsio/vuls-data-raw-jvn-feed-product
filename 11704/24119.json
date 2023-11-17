@@ -1,8 +1,8 @@
 {
-  "vid": "11704",
-  "vname": "Church Admin Plugin",
-  "vcpe": "cpe:/:church_admin_project",
-  "pid": "24119",
-  "pname": "Church Admin",
-  "pcpe": "cpe:/a:church_admin_project:church_admin"
+	"vid": "11704",
+	"vname": "Church Admin Plugin",
+	"vcpe": "cpe:/:church_admin_project",
+	"pid": "24119",
+	"pname": "Church Admin",
+	"pcpe": "cpe:/a:church_admin_project:church_admin"
 }

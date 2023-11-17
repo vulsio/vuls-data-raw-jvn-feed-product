@@ -1,8 +1,8 @@
 {
-  "vid": "5636",
-  "vname": "microchip data systems",
-  "vcpe": "cpe:/:microchip_data_systems",
-  "pid": "11496",
-  "pname": "ziptv for c++ builder",
-  "pcpe": "cpe:/a:microchip_data_systems:ziptv_for_c%2B%2B_builder"
+	"vid": "5636",
+	"vname": "microchip data systems",
+	"vcpe": "cpe:/:microchip_data_systems",
+	"pid": "11496",
+	"pname": "ziptv for c++ builder",
+	"pcpe": "cpe:/a:microchip_data_systems:ziptv_for_c%2B%2B_builder"
 }

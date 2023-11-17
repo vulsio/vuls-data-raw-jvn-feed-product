@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "44747",
-  "pname": "Amazon EC2",
-  "pcpe": "cpe:/a:jenkins:amazon_ec2"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "44747",
+	"pname": "Amazon EC2",
+	"pcpe": "cpe:/a:jenkins:amazon_ec2"
 }

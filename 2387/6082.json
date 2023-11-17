@@ -1,8 +1,8 @@
 {
-  "vid": "2387",
-  "vname": "av scripts",
-  "vcpe": "cpe:/:av_scripts",
-  "pid": "6082",
-  "pname": "av tutorial script",
-  "pcpe": "cpe:/a:av_scripts:av_tutorial_script"
+	"vid": "2387",
+	"vname": "av scripts",
+	"vcpe": "cpe:/:av_scripts",
+	"pid": "6082",
+	"pname": "av tutorial script",
+	"pcpe": "cpe:/a:av_scripts:av_tutorial_script"
 }

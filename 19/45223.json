@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "45223",
-  "pname": "RV130 VPN ルータファームウェア",
-  "pcpe": "cpe:/o:cisco:rv130_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "45223",
+	"pname": "RV130 VPN ルータファームウェア",
+	"pcpe": "cpe:/o:cisco:rv130_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "28960",
-  "pname": "DCS-2332L ファームウェア",
-  "pcpe": "cpe:/o:dlink:dcs-2332l_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "28960",
+	"pname": "DCS-2332L ファームウェア",
+	"pcpe": "cpe:/o:dlink:dcs-2332l_firmware"
 }

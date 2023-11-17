@@ -1,8 +1,8 @@
 {
-  "vid": "11370",
-  "vname": "PictoBrowser project",
-  "vcpe": "cpe:/:pictobrowser_project",
-  "pid": "23151",
-  "pname": "PictoBrowser",
-  "pcpe": "cpe:/a:pictobrowser_project:pictobrowser"
+	"vid": "11370",
+	"vname": "PictoBrowser project",
+	"vcpe": "cpe:/:pictobrowser_project",
+	"pid": "23151",
+	"pname": "PictoBrowser",
+	"pcpe": "cpe:/a:pictobrowser_project:pictobrowser"
 }

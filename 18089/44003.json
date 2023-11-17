@@ -1,8 +1,8 @@
 {
-  "vid": "18089",
-  "vname": "RBSoft",
-  "vcpe": "cpe:/:rbsoft",
-  "pid": "44003",
-  "pname": "AutoUpdater.NET",
-  "pcpe": "cpe:/a:rbsoft:autoupdater.net"
+	"vid": "18089",
+	"vname": "RBSoft",
+	"vcpe": "cpe:/:rbsoft",
+	"pid": "44003",
+	"pname": "AutoUpdater.NET",
+	"pcpe": "cpe:/a:rbsoft:autoupdater.net"
 }

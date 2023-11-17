@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63389",
-  "pname": "HP OfficeJet Pro 6966 All-in-One Printer J7K39A ファームウェア",
-  "pcpe": "cpe:/o:hp:j7k39a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63389",
+	"pname": "HP OfficeJet Pro 6966 All-in-One Printer J7K39A ファームウェア",
+	"pcpe": "cpe:/o:hp:j7k39a_firmware"
 }

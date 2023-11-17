@@ -1,8 +1,8 @@
 {
-  "vid": "1806",
-  "vname": "東芝テック",
-  "vcpe": "cpe:/:toshibatec",
-  "pid": "17426",
-  "pname": "e-STUDIO 850 ファームウェア",
-  "pcpe": "cpe:/a:toshibatec:e-studio-850_firmware"
+	"vid": "1806",
+	"vname": "東芝テック",
+	"vcpe": "cpe:/:toshibatec",
+	"pid": "17426",
+	"pname": "e-STUDIO 850 ファームウェア",
+	"pcpe": "cpe:/a:toshibatec:e-studio-850_firmware"
 }

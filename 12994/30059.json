@@ -1,8 +1,8 @@
 {
-  "vid": "12994",
-  "vname": "eCos",
-  "vcpe": "cpe:/:ecos",
-  "pid": "30059",
-  "pname": "eCos Embedded Web Server",
-  "pcpe": "cpe:/o:ecos:embedded_web_servers"
+	"vid": "12994",
+	"vname": "eCos",
+	"vcpe": "cpe:/:ecos",
+	"pid": "30059",
+	"pname": "eCos Embedded Web Server",
+	"pcpe": "cpe:/o:ecos:embedded_web_servers"
 }

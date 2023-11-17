@@ -1,8 +1,8 @@
 {
-  "vid": "4144",
-  "vname": "RXVT project",
-  "vcpe": "cpe:/:rxvt_project",
-  "pid": "8653",
-  "pname": "rxvt",
-  "pcpe": "cpe:/a:rxvt_project:rxvt"
+	"vid": "4144",
+	"vname": "RXVT project",
+	"vcpe": "cpe:/:rxvt_project",
+	"pid": "8653",
+	"pname": "rxvt",
+	"pcpe": "cpe:/a:rxvt_project:rxvt"
 }

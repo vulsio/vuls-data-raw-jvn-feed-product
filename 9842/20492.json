@@ -1,8 +1,8 @@
 {
-  "vid": "9842",
-  "vname": "SnapApp",
-  "vcpe": "cpe:/:snapapp_project",
-  "pid": "20492",
-  "pname": "SnapApp",
-  "pcpe": "cpe:/a:snapapp_project:snapapp"
+	"vid": "9842",
+	"vname": "SnapApp",
+	"vcpe": "cpe:/:snapapp_project",
+	"pid": "20492",
+	"pname": "SnapApp",
+	"pcpe": "cpe:/a:snapapp_project:snapapp"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "32320",
-  "pname": "Cisco WAP150 ファームウェア",
-  "pcpe": "cpe:/o:cisco:wap150_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "32320",
+	"pname": "Cisco WAP150 ファームウェア",
+	"pcpe": "cpe:/o:cisco:wap150_firmware"
 }

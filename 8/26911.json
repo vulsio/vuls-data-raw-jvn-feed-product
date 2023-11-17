@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "26911",
-  "pname": "Apache CXF Fediz",
-  "pcpe": "cpe:/a:apache:cxf_fediz"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "26911",
+	"pname": "Apache CXF Fediz",
+	"pcpe": "cpe:/a:apache:cxf_fediz"
 }

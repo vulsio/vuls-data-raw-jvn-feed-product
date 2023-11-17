@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "1256",
-  "pname": "FMV-BIBLO LOOX",
-  "pcpe": "cpe:/h:fujitsu:fmv-biblo_loox"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "1256",
+	"pname": "FMV-BIBLO LOOX",
+	"pcpe": "cpe:/h:fujitsu:fmv-biblo_loox"
 }

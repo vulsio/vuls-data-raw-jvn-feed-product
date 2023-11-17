@@ -1,8 +1,8 @@
 {
-  "vid": "13578",
-  "vname": "DragonByte Technologies",
-  "vcpe": "cpe:/:dragonbyte-tech",
-  "pid": "34581",
-  "pname": "vBSecurity",
-  "pcpe": "cpe:/a:dragonbyte-tech:vbsecurity"
+	"vid": "13578",
+	"vname": "DragonByte Technologies",
+	"vcpe": "cpe:/:dragonbyte-tech",
+	"pid": "34581",
+	"pname": "vBSecurity",
+	"pcpe": "cpe:/a:dragonbyte-tech:vbsecurity"
 }

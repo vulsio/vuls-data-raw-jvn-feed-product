@@ -1,8 +1,8 @@
 {
-  "vid": "3551",
-  "vname": "Esri",
-  "vcpe": "cpe:/:esri",
-  "pid": "47344",
-  "pname": "ArcReader",
-  "pcpe": "cpe:/a:esri:arcreader"
+	"vid": "3551",
+	"vname": "Esri",
+	"vcpe": "cpe:/:esri",
+	"pid": "47344",
+	"pname": "ArcReader",
+	"pcpe": "cpe:/a:esri:arcreader"
 }

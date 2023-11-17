@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "52962",
-  "pname": "Tekelec Virtual Operating Environment",
-  "pcpe": "cpe:/a:oracle:tekelec_virtual_operating_environment"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "52962",
+	"pname": "Tekelec Virtual Operating Environment",
+	"pcpe": "cpe:/a:oracle:tekelec_virtual_operating_environment"
 }

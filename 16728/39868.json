@@ -1,8 +1,8 @@
 {
-  "vid": "16728",
-  "vname": "Max Chirkov",
-  "vcpe": "cpe:/:simple_login_log_project",
-  "pid": "39868",
-  "pname": "Simple Login Log",
-  "pcpe": "cpe:/a:simple_login_log_project:simple_login_log"
+	"vid": "16728",
+	"vname": "Max Chirkov",
+	"vcpe": "cpe:/:simple_login_log_project",
+	"pid": "39868",
+	"pname": "Simple Login Log",
+	"pcpe": "cpe:/a:simple_login_log_project:simple_login_log"
 }

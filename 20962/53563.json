@@ -1,8 +1,8 @@
 {
-  "vid": "20962",
-  "vname": "config-handler project",
-  "vcpe": "cpe:/:config-handler_project",
-  "pid": "53563",
-  "pname": "config-handler",
-  "pcpe": "cpe:/a:config-handler_project:config-handler"
+	"vid": "20962",
+	"vname": "config-handler project",
+	"vcpe": "cpe:/:config-handler_project",
+	"pid": "53563",
+	"pname": "config-handler",
+	"pcpe": "cpe:/a:config-handler_project:config-handler"
 }

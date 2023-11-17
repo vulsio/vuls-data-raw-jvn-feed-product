@@ -1,8 +1,8 @@
 {
-  "vid": "9111",
-  "vname": "Dahua Technology Co., Ltd",
-  "vcpe": "cpe:/:dahuasecurity",
-  "pid": "18352",
-  "pname": "DVR5408",
-  "pcpe": "cpe:/h:dahuasecurity:dvr5408"
+	"vid": "9111",
+	"vname": "Dahua Technology Co., Ltd",
+	"vcpe": "cpe:/:dahuasecurity",
+	"pid": "18352",
+	"pname": "DVR5408",
+	"pcpe": "cpe:/h:dahuasecurity:dvr5408"
 }

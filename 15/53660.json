@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53660",
-  "pname": "Oracle Clinical",
-  "pcpe": "cpe:/a:oracle:clinical"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53660",
+	"pname": "Oracle Clinical",
+	"pcpe": "cpe:/a:oracle:clinical"
 }

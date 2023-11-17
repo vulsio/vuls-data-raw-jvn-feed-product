@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "906",
-  "pname": "GNOME Display Manager",
-  "pcpe": "cpe:/a:gnome:gnome_display_manager"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "906",
+	"pname": "GNOME Display Manager",
+	"pcpe": "cpe:/a:gnome:gnome_display_manager"
 }

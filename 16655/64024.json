@@ -1,8 +1,8 @@
 {
-  "vid": "16655",
-  "vname": "国立再生可能エネルギー研究所 (NREL)",
-  "vcpe": "cpe:/:nrel",
-  "pid": "64024",
-  "pname": "api umbrella",
-  "pcpe": "cpe:/a:nrel:api_umbrella"
+	"vid": "16655",
+	"vname": "国立再生可能エネルギー研究所 (NREL)",
+	"vcpe": "cpe:/:nrel",
+	"pid": "64024",
+	"pname": "api umbrella",
+	"pcpe": "cpe:/a:nrel:api_umbrella"
 }

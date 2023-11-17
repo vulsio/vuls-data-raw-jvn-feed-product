@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "14292",
-  "pname": "jboss enterprise service bus",
-  "pcpe": "cpe:/a:redhat:jboss_enterprise_service_bus"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "14292",
+	"pname": "jboss enterprise service bus",
+	"pcpe": "cpe:/a:redhat:jboss_enterprise_service_bus"
 }

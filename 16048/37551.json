@@ -1,8 +1,8 @@
 {
-  "vid": "16048",
-  "vname": "ASPEED",
-  "vcpe": "cpe:/:aspeedtech",
-  "pid": "37551",
-  "pname": "ast2400 ファームウェア",
-  "pcpe": "cpe:/o:aspeedtech:ast2400_firmware"
+	"vid": "16048",
+	"vname": "ASPEED",
+	"vcpe": "cpe:/:aspeedtech",
+	"pid": "37551",
+	"pname": "ast2400 ファームウェア",
+	"pcpe": "cpe:/o:aspeedtech:ast2400_firmware"
 }

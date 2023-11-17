@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26287",
-  "pname": "RSE6500 ファームウェア",
-  "pcpe": "cpe:/o:huawei:rse6500_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26287",
+	"pname": "RSE6500 ファームウェア",
+	"pcpe": "cpe:/o:huawei:rse6500_firmware"
 }

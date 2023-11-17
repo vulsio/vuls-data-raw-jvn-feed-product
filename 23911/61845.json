@@ -1,8 +1,8 @@
 {
-  "vid": "23911",
-  "vname": "wmagent project",
-  "vcpe": "cpe:/:wmagent_project",
-  "pid": "61845",
-  "pname": "wmagent",
-  "pcpe": "cpe:/a:wmagent_project:wmagent"
+	"vid": "23911",
+	"vname": "wmagent project",
+	"vcpe": "cpe:/:wmagent_project",
+	"pid": "61845",
+	"pname": "wmagent",
+	"pcpe": "cpe:/a:wmagent_project:wmagent"
 }

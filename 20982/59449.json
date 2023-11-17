@@ -1,8 +1,8 @@
 {
-  "vid": "20982",
-  "vname": "InHand Networks",
-  "vcpe": "cpe:/:inhandnetworks",
-  "pid": "59449",
-  "pname": "ir302 ファームウェア",
-  "pcpe": "cpe:/o:inhandnetworks:ir302_firmware"
+	"vid": "20982",
+	"vname": "InHand Networks",
+	"vcpe": "cpe:/:inhandnetworks",
+	"pid": "59449",
+	"pname": "ir302 ファームウェア",
+	"pcpe": "cpe:/o:inhandnetworks:ir302_firmware"
 }

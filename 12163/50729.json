@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "50729",
-  "pname": "Nuget",
-  "pcpe": "cpe:/a:jenkins:nuget"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "50729",
+	"pname": "Nuget",
+	"pcpe": "cpe:/a:jenkins:nuget"
 }

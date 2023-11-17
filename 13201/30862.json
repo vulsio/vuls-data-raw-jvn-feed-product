@@ -1,8 +1,8 @@
 {
-  "vid": "13201",
-  "vname": "the CipherShed project",
-  "vcpe": "cpe:/:ciphershed",
-  "pid": "30862",
-  "pname": "CipherShed",
-  "pcpe": "cpe:/a:ciphershed:ciphershed"
+	"vid": "13201",
+	"vname": "the CipherShed project",
+	"vcpe": "cpe:/:ciphershed",
+	"pid": "30862",
+	"pname": "CipherShed",
+	"pcpe": "cpe:/a:ciphershed:ciphershed"
 }

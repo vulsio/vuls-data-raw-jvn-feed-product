@@ -1,8 +1,8 @@
 {
-  "vid": "15684",
-  "vname": "Nedap",
-  "vcpe": "cpe:/:nedap",
-  "pid": "36488",
-  "pname": "mysql-binuuid-rails",
-  "pcpe": "cpe:/a:nedap:mysql-binuuid-rails"
+	"vid": "15684",
+	"vname": "Nedap",
+	"vcpe": "cpe:/:nedap",
+	"pid": "36488",
+	"pname": "mysql-binuuid-rails",
+	"pcpe": "cpe:/a:nedap:mysql-binuuid-rails"
 }

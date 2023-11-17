@@ -1,8 +1,8 @@
 {
-  "vid": "1594",
-  "vname": "MODX",
-  "vcpe": "cpe:/:modx",
-  "pid": "11663",
-  "pname": "filedownload",
-  "pcpe": "cpe:/a:modx:filedownload"
+	"vid": "1594",
+	"vname": "MODX",
+	"vcpe": "cpe:/:modx",
+	"pid": "11663",
+	"pname": "filedownload",
+	"pcpe": "cpe:/a:modx:filedownload"
 }

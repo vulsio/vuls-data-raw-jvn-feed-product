@@ -1,8 +1,8 @@
 {
-  "vid": "161",
-  "vname": "KDDI",
-  "vcpe": "cpe:/:kddi",
-  "pid": "215",
-  "pname": "バーコード (2次元コード) リーダー",
-  "pcpe": "cpe:/a:kddi:barcode_reader_2d"
+	"vid": "161",
+	"vname": "KDDI",
+	"vcpe": "cpe:/:kddi",
+	"pid": "215",
+	"pname": "バーコード (2次元コード) リーダー",
+	"pcpe": "cpe:/a:kddi:barcode_reader_2d"
 }

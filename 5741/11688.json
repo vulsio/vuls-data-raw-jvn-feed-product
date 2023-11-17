@@ -1,8 +1,8 @@
 {
-  "vid": "5741",
-  "vname": "monitor-line",
-  "vcpe": "cpe:/:monitor-line",
-  "pid": "11688",
-  "pname": "links management",
-  "pcpe": "cpe:/a:monitor-line:links_management"
+	"vid": "5741",
+	"vname": "monitor-line",
+	"vcpe": "cpe:/:monitor-line",
+	"pid": "11688",
+	"pname": "links management",
+	"pcpe": "cpe:/a:monitor-line:links_management"
 }

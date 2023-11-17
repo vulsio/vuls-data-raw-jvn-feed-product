@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "49237",
-  "pname": "Cisco Proximity",
-  "pcpe": "cpe:/a:cisco:proximity"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "49237",
+	"pname": "Cisco Proximity",
+	"pcpe": "cpe:/a:cisco:proximity"
 }

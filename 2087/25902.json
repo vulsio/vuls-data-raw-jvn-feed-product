@@ -1,8 +1,8 @@
 {
-  "vid": "2087",
-  "vname": "Agnitum",
-  "vcpe": "cpe:/:agnitum",
-  "pid": "25902",
-  "pname": "Outpost Security Suite",
-  "pcpe": "cpe:/a:agnitum:outpost_security_suite"
+	"vid": "2087",
+	"vname": "Agnitum",
+	"vcpe": "cpe:/:agnitum",
+	"pid": "25902",
+	"pname": "Outpost Security Suite",
+	"pcpe": "cpe:/a:agnitum:outpost_security_suite"
 }

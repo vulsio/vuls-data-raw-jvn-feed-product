@@ -1,8 +1,8 @@
 {
-  "vid": "20222",
-  "vname": "kubiq",
-  "vcpe": "cpe:/:kubiq",
-  "pid": "51496",
-  "pname": "WP SVG images",
-  "pcpe": "cpe:/a:kubiq:wp_svg_images"
+	"vid": "20222",
+	"vname": "kubiq",
+	"vcpe": "cpe:/:kubiq",
+	"pid": "51496",
+	"pname": "WP SVG images",
+	"pcpe": "cpe:/a:kubiq:wp_svg_images"
 }

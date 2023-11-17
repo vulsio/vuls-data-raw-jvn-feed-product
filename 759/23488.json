@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "23488",
-  "pname": "SVI II AP Positioner DTM",
-  "pcpe": "cpe:/a:ge:svi_ii_ap_positioner_device_type_manager"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "23488",
+	"pname": "SVI II AP Positioner DTM",
+	"pcpe": "cpe:/a:ge:svi_ii_ap_positioner_device_type_manager"
 }

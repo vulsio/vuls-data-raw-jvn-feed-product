@@ -1,8 +1,8 @@
 {
-  "vid": "18668",
-  "vname": "eM Client",
-  "vcpe": "cpe:/:emclient",
-  "pid": "46196",
-  "pname": "eM Client",
-  "pcpe": "cpe:/a:emclient:em_client"
+	"vid": "18668",
+	"vname": "eM Client",
+	"vcpe": "cpe:/:emclient",
+	"pid": "46196",
+	"pname": "eM Client",
+	"pcpe": "cpe:/a:emclient:em_client"
 }

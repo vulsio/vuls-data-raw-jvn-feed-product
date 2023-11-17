@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "20311",
-  "pname": "COBOL2002 Professional Option for Developer",
-  "pcpe": "cpe:/a:hitachi:cobol2002_professional_option_for_developer"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "20311",
+	"pname": "COBOL2002 Professional Option for Developer",
+	"pcpe": "cpe:/a:hitachi:cobol2002_professional_option_for_developer"
 }

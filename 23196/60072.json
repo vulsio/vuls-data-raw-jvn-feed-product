@@ -1,8 +1,8 @@
 {
-  "vid": "23196",
-  "vname": "flightradar24",
-  "vcpe": "cpe:/:flightradar24",
-  "pid": "60072",
-  "pname": "flightradar24 flight tracker",
-  "pcpe": "cpe:/a:flightradar24:flightradar24_flight_tracker"
+	"vid": "23196",
+	"vname": "flightradar24",
+	"vcpe": "cpe:/:flightradar24",
+	"pid": "60072",
+	"pname": "flightradar24 flight tracker",
+	"pcpe": "cpe:/a:flightradar24:flightradar24_flight_tracker"
 }

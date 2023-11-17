@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "36585",
-  "pname": "EDA50",
-  "pcpe": "cpe:/h:honeywell:eda50"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "36585",
+	"pname": "EDA50",
+	"pcpe": "cpe:/h:honeywell:eda50"
 }

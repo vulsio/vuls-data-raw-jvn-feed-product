@@ -1,8 +1,8 @@
 {
-  "vid": "580",
-  "vname": "S2 Security",
-  "vcpe": "cpe:/:s2sys",
-  "pid": "17969",
-  "pname": "Linear eMerge",
-  "pcpe": "cpe:/a:s2sys:linear_emerge_access_control_system"
+	"vid": "580",
+	"vname": "S2 Security",
+	"vcpe": "cpe:/:s2sys",
+	"pid": "17969",
+	"pname": "Linear eMerge",
+	"pcpe": "cpe:/a:s2sys:linear_emerge_access_control_system"
 }

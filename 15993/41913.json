@@ -1,8 +1,8 @@
 {
-  "vid": "15993",
-  "vname": "Coolpad Technologies Inc.",
-  "vcpe": "cpe:/:coolpad",
-  "pid": "41913",
-  "pname": "Coolpad N3C ファームウェア",
-  "pcpe": "cpe:/o:coolpad:n3c_firmware"
+	"vid": "15993",
+	"vname": "Coolpad Technologies Inc.",
+	"vcpe": "cpe:/:coolpad",
+	"pid": "41913",
+	"pname": "Coolpad N3C ファームウェア",
+	"pcpe": "cpe:/o:coolpad:n3c_firmware"
 }

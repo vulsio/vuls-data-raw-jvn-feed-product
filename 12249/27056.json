@@ -1,8 +1,8 @@
 {
-  "vid": "12249",
-  "vname": "recipes-writer project",
-  "vcpe": "cpe:/:recipes-writer_project",
-  "pid": "27056",
-  "pname": "recipes-writer",
-  "pcpe": "cpe:/a:recipes-writer_project:recipes-writer"
+	"vid": "12249",
+	"vname": "recipes-writer project",
+	"vcpe": "cpe:/:recipes-writer_project",
+	"pid": "27056",
+	"pname": "recipes-writer",
+	"pcpe": "cpe:/a:recipes-writer_project:recipes-writer"
 }

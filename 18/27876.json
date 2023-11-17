@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27876",
-  "pname": "IBM dashDB Local",
-  "pcpe": "cpe:/a:ibm:dashdb_local"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27876",
+	"pname": "IBM dashDB Local",
+	"pcpe": "cpe:/a:ibm:dashdb_local"
 }

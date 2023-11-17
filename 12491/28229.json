@@ -1,8 +1,8 @@
 {
-  "vid": "12491",
-  "vname": "Libtom",
-  "vcpe": "cpe:/:libtom",
-  "pid": "28229",
-  "pname": "LibTomCrypt",
-  "pcpe": "cpe:/a:libtom:libtomcrypt"
+	"vid": "12491",
+	"vname": "Libtom",
+	"vcpe": "cpe:/:libtom",
+	"pid": "28229",
+	"pname": "LibTomCrypt",
+	"pcpe": "cpe:/a:libtom:libtomcrypt"
 }

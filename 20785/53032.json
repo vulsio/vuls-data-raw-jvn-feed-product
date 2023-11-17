@@ -1,8 +1,8 @@
 {
-  "vid": "20785",
-  "vname": "Payara Services Ltd",
-  "vcpe": "cpe:/:payara",
-  "pid": "53032",
-  "pname": "Payara Micro Community",
-  "pcpe": "cpe:/a:payara:micro_community"
+	"vid": "20785",
+	"vname": "Payara Services Ltd",
+	"vcpe": "cpe:/:payara",
+	"pid": "53032",
+	"pname": "Payara Micro Community",
+	"pcpe": "cpe:/a:payara:micro_community"
 }

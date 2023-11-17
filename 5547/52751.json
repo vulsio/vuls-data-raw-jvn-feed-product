@@ -1,8 +1,8 @@
 {
-  "vid": "5547",
-  "vname": "maxsite",
-  "vcpe": "cpe:/:maxsite",
-  "pid": "52751",
-  "pname": "MaxSite CMS",
-  "pcpe": "cpe:/a:maxsite:maxsite_cms"
+	"vid": "5547",
+	"vname": "maxsite",
+	"vcpe": "cpe:/:maxsite",
+	"pid": "52751",
+	"pname": "MaxSite CMS",
+	"pcpe": "cpe:/a:maxsite:maxsite_cms"
 }

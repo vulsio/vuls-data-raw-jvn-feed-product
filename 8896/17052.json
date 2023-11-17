@@ -1,8 +1,8 @@
 {
-  "vid": "8896",
-  "vname": "Yandex.Metrics Pproject",
-  "vcpe": "cpe:/:yandex.metrics_project",
-  "pid": "17052",
-  "pname": "Yandex Metrics",
-  "pcpe": "cpe:/a:yandex.metrics_project:yandex_metrics"
+	"vid": "8896",
+	"vname": "Yandex.Metrics Pproject",
+	"vcpe": "cpe:/:yandex.metrics_project",
+	"pid": "17052",
+	"pname": "Yandex Metrics",
+	"pcpe": "cpe:/a:yandex.metrics_project:yandex_metrics"
 }

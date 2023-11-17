@@ -1,8 +1,8 @@
 {
-  "vid": "11747",
-  "vname": "Invoice project",
-  "vcpe": "cpe:/:invoice_project",
-  "pid": "24258",
-  "pname": "Invoice",
-  "pcpe": "cpe:/a:invoice_project:invoice"
+	"vid": "11747",
+	"vname": "Invoice project",
+	"vcpe": "cpe:/:invoice_project",
+	"pid": "24258",
+	"pname": "Invoice",
+	"pcpe": "cpe:/a:invoice_project:invoice"
 }

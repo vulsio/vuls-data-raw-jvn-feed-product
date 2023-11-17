@@ -1,8 +1,8 @@
 {
-  "vid": "22861",
-  "vname": "tecson",
-  "vcpe": "cpe:/:tecson",
-  "pid": "58902",
-  "pname": "e-litro net ファームウェア",
-  "pcpe": "cpe:/o:tecson:e-litro_net_firmware"
+	"vid": "22861",
+	"vname": "tecson",
+	"vcpe": "cpe:/:tecson",
+	"pid": "58902",
+	"pname": "e-litro net ファームウェア",
+	"pcpe": "cpe:/o:tecson:e-litro_net_firmware"
 }

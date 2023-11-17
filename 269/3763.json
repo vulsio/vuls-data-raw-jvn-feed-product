@@ -1,8 +1,8 @@
 {
-  "vid": "269",
-  "vname": "RSAセキュリティ",
-  "vcpe": "cpe:/:rsa",
-  "pid": "3763",
-  "pname": "RSA enVision",
-  "pcpe": "cpe:/a:rsa:envision"
+	"vid": "269",
+	"vname": "RSAセキュリティ",
+	"vcpe": "cpe:/:rsa",
+	"pid": "3763",
+	"pname": "RSA enVision",
+	"pcpe": "cpe:/a:rsa:envision"
 }

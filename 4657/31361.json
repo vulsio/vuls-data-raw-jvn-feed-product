@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31361",
-  "pname": "Honor V8 ファームウェア",
-  "pcpe": "cpe:/o:huawei:honor_v8_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31361",
+	"pname": "Honor V8 ファームウェア",
+	"pcpe": "cpe:/o:huawei:honor_v8_firmware"
 }

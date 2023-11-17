@@ -1,8 +1,8 @@
 {
-  "vid": "168",
-  "vname": "横河電機株式会社",
-  "vcpe": "cpe:/:yokogawa",
-  "pid": "34530",
-  "pname": "ASTPLANNER",
-  "pcpe": "cpe:/a:yokogawa:astplanner"
+	"vid": "168",
+	"vname": "横河電機株式会社",
+	"vcpe": "cpe:/:yokogawa",
+	"pid": "34530",
+	"pname": "ASTPLANNER",
+	"pcpe": "cpe:/a:yokogawa:astplanner"
 }

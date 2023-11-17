@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "33521",
-  "pname": "HiRouter-CD20 ファームウェア",
-  "pcpe": "cpe:/o:huawei:hirouter-cd20_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "33521",
+	"pname": "HiRouter-CD20 ファームウェア",
+	"pcpe": "cpe:/o:huawei:hirouter-cd20_firmware"
 }

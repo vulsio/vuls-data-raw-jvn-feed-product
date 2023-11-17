@@ -1,8 +1,8 @@
 {
-  "vid": "12731",
-  "vname": "Edgewater Networks",
-  "vcpe": "cpe:/:edgewater_networks",
-  "pid": "29275",
-  "pname": "EdgeMarc ファームウェア",
-  "pcpe": "cpe:/o:edgewater_networks:edgemarc_firmware"
+	"vid": "12731",
+	"vname": "Edgewater Networks",
+	"vcpe": "cpe:/:edgewater_networks",
+	"pid": "29275",
+	"pname": "EdgeMarc ファームウェア",
+	"pcpe": "cpe:/o:edgewater_networks:edgemarc_firmware"
 }

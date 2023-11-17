@@ -1,8 +1,8 @@
 {
-  "vid": "728",
-  "vname": "TYPO3 Association",
-  "vcpe": "cpe:/:typo3",
-  "pid": "15669",
-  "pname": "kb unpack extension",
-  "pcpe": "cpe:/a:typo3:kb_unpack_extension"
+	"vid": "728",
+	"vname": "TYPO3 Association",
+	"vcpe": "cpe:/:typo3",
+	"pid": "15669",
+	"pname": "kb unpack extension",
+	"pcpe": "cpe:/a:typo3:kb_unpack_extension"
 }

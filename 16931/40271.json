@@ -1,8 +1,8 @@
 {
-  "vid": "16931",
-  "vname": "SailPoint Technologies Holdings, Inc.",
-  "vcpe": "cpe:/:sailpoint",
-  "pid": "40271",
-  "pname": "SailPoint Desktop Password Reset",
-  "pcpe": "cpe:/a:sailpoint:desktop_password_reset"
+	"vid": "16931",
+	"vname": "SailPoint Technologies Holdings, Inc.",
+	"vcpe": "cpe:/:sailpoint",
+	"pid": "40271",
+	"pname": "SailPoint Desktop Password Reset",
+	"pcpe": "cpe:/a:sailpoint:desktop_password_reset"
 }

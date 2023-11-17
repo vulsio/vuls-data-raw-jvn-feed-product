@@ -1,8 +1,8 @@
 {
-  "vid": "168",
-  "vname": "横河電機株式会社",
-  "vcpe": "cpe:/:yokogawa",
-  "pid": "40068",
-  "pname": "STARDOM VDS",
-  "pcpe": "cpe:/o:yokogawa:stardom_versatile_data_server_firmware"
+	"vid": "168",
+	"vname": "横河電機株式会社",
+	"vcpe": "cpe:/:yokogawa",
+	"pid": "40068",
+	"pname": "STARDOM VDS",
+	"pcpe": "cpe:/o:yokogawa:stardom_versatile_data_server_firmware"
 }

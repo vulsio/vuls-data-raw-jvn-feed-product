@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "17080",
-  "pname": "CP 1604",
-  "pcpe": "cpe:/h:siemens:cp_1604"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "17080",
+	"pname": "CP 1604",
+	"pcpe": "cpe:/h:siemens:cp_1604"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11534",
-  "vname": "Mobile Domain project",
-  "vcpe": "cpe:/:mobile_domain_project",
-  "pid": "23504",
-  "pname": "Mobile Domain",
-  "pcpe": "cpe:/a:mobile_domain_project:mobile_domain"
+	"vid": "11534",
+	"vname": "Mobile Domain project",
+	"vcpe": "cpe:/:mobile_domain_project",
+	"pid": "23504",
+	"pname": "Mobile Domain",
+	"pcpe": "cpe:/a:mobile_domain_project:mobile_domain"
 }

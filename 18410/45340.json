@@ -1,8 +1,8 @@
 {
-  "vid": "18410",
-  "vname": "ファナック株式会社",
-  "vcpe": "cpe:/:fanuc",
-  "pid": "45340",
-  "pname": "FANUC Power Motion i-MODEL A",
-  "pcpe": "cpe:/o:fanuc:fanuc_power_motion_i-model_a"
+	"vid": "18410",
+	"vname": "ファナック株式会社",
+	"vcpe": "cpe:/:fanuc",
+	"pid": "45340",
+	"pname": "FANUC Power Motion i-MODEL A",
+	"pcpe": "cpe:/o:fanuc:fanuc_power_motion_i-model_a"
 }

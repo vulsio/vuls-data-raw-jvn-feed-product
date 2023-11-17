@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "57240",
-  "pname": "vscode-xml",
-  "pcpe": "cpe:/a:redhat:vscode-xml"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "57240",
+	"pname": "vscode-xml",
+	"pcpe": "cpe:/a:redhat:vscode-xml"
 }

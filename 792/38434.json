@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "38434",
-  "pname": "P660HN-T1A v1 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:p660hn-t1a_v1_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "38434",
+	"pname": "P660HN-T1A v1 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:p660hn-t1a_v1_firmware"
 }

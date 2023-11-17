@@ -1,8 +1,8 @@
 {
-  "vid": "22760",
-  "vname": "nconf project",
-  "vcpe": "cpe:/:nconf_project",
-  "pid": "58565",
-  "pname": "nconf",
-  "pcpe": "cpe:/a:nconf_project:nconf"
+	"vid": "22760",
+	"vname": "nconf project",
+	"vcpe": "cpe:/:nconf_project",
+	"pid": "58565",
+	"pname": "nconf",
+	"pcpe": "cpe:/a:nconf_project:nconf"
 }

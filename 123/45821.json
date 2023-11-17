@@ -1,8 +1,8 @@
 {
-  "vid": "123",
-  "vname": "Tiki Software Community Association",
-  "vcpe": "cpe:/:tiki",
-  "pid": "45821",
-  "pname": "Tiki",
-  "pcpe": "cpe:/a:tiki:tiki"
+	"vid": "123",
+	"vname": "Tiki Software Community Association",
+	"vcpe": "cpe:/:tiki",
+	"pid": "45821",
+	"pname": "Tiki",
+	"pcpe": "cpe:/a:tiki:tiki"
 }

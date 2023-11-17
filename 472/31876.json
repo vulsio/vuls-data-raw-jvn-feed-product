@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "31876",
-  "pname": "FactoryTalk Alarms and Events",
-  "pcpe": "cpe:/a:rockwellautomation:factorytalk_alarms_and_events"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "31876",
+	"pname": "FactoryTalk Alarms and Events",
+	"pcpe": "cpe:/a:rockwellautomation:factorytalk_alarms_and_events"
 }

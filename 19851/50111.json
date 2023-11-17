@@ -1,8 +1,8 @@
 {
-  "vid": "19851",
-  "vname": "Boxy Studio",
-  "vcpe": "cpe:/:boxystudio",
-  "pid": "50111",
-  "pname": "Cooked Pro",
-  "pcpe": "cpe:/a:boxystudio:cooked"
+	"vid": "19851",
+	"vname": "Boxy Studio",
+	"vcpe": "cpe:/:boxystudio",
+	"pid": "50111",
+	"pname": "Cooked Pro",
+	"pcpe": "cpe:/a:boxystudio:cooked"
 }

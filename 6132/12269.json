@@ -1,8 +1,8 @@
 {
-  "vid": "6132",
-  "vname": "openconcept",
-  "vcpe": "cpe:/:openconcept",
-  "pid": "12269",
-  "pname": "back-end cms",
-  "pcpe": "cpe:/a:openconcept:back-end_cms"
+	"vid": "6132",
+	"vname": "openconcept",
+	"vcpe": "cpe:/:openconcept",
+	"pid": "12269",
+	"pname": "back-end cms",
+	"pcpe": "cpe:/a:openconcept:back-end_cms"
 }

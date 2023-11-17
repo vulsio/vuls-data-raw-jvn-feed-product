@@ -1,8 +1,8 @@
 {
-  "vid": "21377",
-  "vname": "Crypto.org Chain",
-  "vcpe": "cpe:/:crypto",
-  "pid": "54890",
-  "pname": "Evmos",
-  "pcpe": "cpe:/a:crypto:evmos"
+	"vid": "21377",
+	"vname": "Crypto.org Chain",
+	"vcpe": "cpe:/:crypto",
+	"pid": "54890",
+	"pname": "Evmos",
+	"pcpe": "cpe:/a:crypto:evmos"
 }

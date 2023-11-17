@@ -1,8 +1,8 @@
 {
-  "vid": "12612",
-  "vname": "SmartBear Software",
-  "vcpe": "cpe:/:smartbear",
-  "pid": "57872",
-  "pname": "swagger-ui-dist",
-  "pcpe": "cpe:/a:smartbear:swagger-ui-dist"
+	"vid": "12612",
+	"vname": "SmartBear Software",
+	"vcpe": "cpe:/:smartbear",
+	"pid": "57872",
+	"pname": "swagger-ui-dist",
+	"pcpe": "cpe:/a:smartbear:swagger-ui-dist"
 }

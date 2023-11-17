@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "53830",
-  "pname": "WRM-D2133HS ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wrm-d2133hs_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "53830",
+	"pname": "WRM-D2133HS ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wrm-d2133hs_firmware"
 }

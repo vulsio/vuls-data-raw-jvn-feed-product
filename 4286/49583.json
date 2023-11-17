@@ -1,8 +1,8 @@
 {
-  "vid": "4286",
-  "vname": "Palo Alto Networks",
-  "vcpe": "cpe:/:palo_alto_networks",
-  "pid": "49583",
-  "pname": "Prisma Cloud",
-  "pcpe": "cpe:/a:palo_alto_networks:prisma_cloud"
+	"vid": "4286",
+	"vname": "Palo Alto Networks",
+	"vcpe": "cpe:/:palo_alto_networks",
+	"pid": "49583",
+	"pname": "Prisma Cloud",
+	"pcpe": "cpe:/a:palo_alto_networks:prisma_cloud"
 }

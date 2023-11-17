@@ -1,8 +1,8 @@
 {
-  "vid": "12016",
-  "vname": "株式会社NTTデータ・スマートソーシング",
-  "vcpe": "cpe:/:misc",
-  "pid": "25124",
-  "pname": "アクセス解析",
-  "pcpe": "cpe:/a:misc:ntt_data_smart_sourcing_access_kaiseki"
+	"vid": "12016",
+	"vname": "株式会社NTTデータ・スマートソーシング",
+	"vcpe": "cpe:/:misc",
+	"pid": "25124",
+	"pname": "アクセス解析",
+	"pcpe": "cpe:/a:misc:ntt_data_smart_sourcing_access_kaiseki"
 }

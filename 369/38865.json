@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "38865",
-  "pname": "CA Risk Authentication",
-  "pcpe": "cpe:/a:ca:risk_authentication"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "38865",
+	"pname": "CA Risk Authentication",
+	"pcpe": "cpe:/a:ca:risk_authentication"
 }

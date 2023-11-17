@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "36702",
-  "pname": "Shortcuts",
-  "pcpe": "cpe:/a:apple:shortcuts"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "36702",
+	"pname": "Shortcuts",
+	"pcpe": "cpe:/a:apple:shortcuts"
 }

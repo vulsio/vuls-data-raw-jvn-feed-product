@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58942",
-  "pname": "ideapad 3-14ada6 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideapad_3-14ada6_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58942",
+	"pname": "ideapad 3-14ada6 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideapad_3-14ada6_firmware"
 }

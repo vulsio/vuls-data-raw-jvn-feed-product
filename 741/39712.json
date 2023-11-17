@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "39712",
-  "pname": "D-Link 6600-AP ファームウェア",
-  "pcpe": "cpe:/o:dlink:6600-ap_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "39712",
+	"pname": "D-Link 6600-AP ファームウェア",
+	"pcpe": "cpe:/o:dlink:6600-ap_firmware"
 }

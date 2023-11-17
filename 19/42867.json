@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "42867",
-  "pname": "Cisco Crosswork Change Automation",
-  "pcpe": "cpe:/a:cisco:crosswork_change_automation"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "42867",
+	"pname": "Cisco Crosswork Change Automation",
+	"pcpe": "cpe:/a:cisco:crosswork_change_automation"
 }

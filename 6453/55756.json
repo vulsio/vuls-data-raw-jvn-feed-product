@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "55756",
-  "pname": "B3340 ファームウェア",
-  "pcpe": "cpe:/o:lexmark:b3340_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "55756",
+	"pname": "B3340 ファームウェア",
+	"pcpe": "cpe:/o:lexmark:b3340_firmware"
 }

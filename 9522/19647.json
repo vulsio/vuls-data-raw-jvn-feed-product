@@ -1,8 +1,8 @@
 {
-  "vid": "9522",
-  "vname": "Askbot Project",
-  "vcpe": "cpe:/:askbot",
-  "pid": "19647",
-  "pname": "Askbot",
-  "pcpe": "cpe:/a:askbot:askbot"
+	"vid": "9522",
+	"vname": "Askbot Project",
+	"vcpe": "cpe:/:askbot",
+	"pid": "19647",
+	"pname": "Askbot",
+	"pcpe": "cpe:/a:askbot:askbot"
 }

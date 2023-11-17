@@ -1,8 +1,8 @@
 {
-  "vid": "22886",
-  "vname": "menlosecurity",
-  "vcpe": "cpe:/:menlosecurity",
-  "pid": "59004",
-  "pname": "email isolation",
-  "pcpe": "cpe:/a:menlosecurity:email_isolation"
+	"vid": "22886",
+	"vname": "menlosecurity",
+	"vcpe": "cpe:/:menlosecurity",
+	"pid": "59004",
+	"pname": "email isolation",
+	"pcpe": "cpe:/a:menlosecurity:email_isolation"
 }

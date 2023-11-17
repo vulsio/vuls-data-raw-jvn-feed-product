@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "47400",
-  "pname": "XML Graphics Commons",
-  "pcpe": "cpe:/a:apache:xmlgraphics_commons"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "47400",
+	"pname": "XML Graphics Commons",
+	"pcpe": "cpe:/a:apache:xmlgraphics_commons"
 }

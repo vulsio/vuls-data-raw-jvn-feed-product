@@ -1,8 +1,8 @@
 {
-  "vid": "2415",
-  "vname": "アクシスコミュニケーションズ",
-  "vcpe": "cpe:/:axis",
-  "pid": "60533",
-  "pname": "p1204 ファームウェア",
-  "pcpe": "cpe:/o:axis:p1204_firmware"
+	"vid": "2415",
+	"vname": "アクシスコミュニケーションズ",
+	"vcpe": "cpe:/:axis",
+	"pid": "60533",
+	"pname": "p1204 ファームウェア",
+	"pcpe": "cpe:/o:axis:p1204_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17709",
-  "vname": "free",
-  "vcpe": "cpe:/:free",
-  "pid": "47120",
-  "pname": "Freebox V5 ファームウェア",
-  "pcpe": "cpe:/o:free:freebox_v5_firmware"
+	"vid": "17709",
+	"vname": "free",
+	"vcpe": "cpe:/:free",
+	"pid": "47120",
+	"pname": "Freebox V5 ファームウェア",
+	"pcpe": "cpe:/o:free:freebox_v5_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "28332",
-  "pname": "AWK-3131-M12-RCC ファームウェア",
-  "pcpe": "cpe:/o:moxa:awk-3131-m12-rcc_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "28332",
+	"pname": "AWK-3131-M12-RCC ファームウェア",
+	"pcpe": "cpe:/o:moxa:awk-3131-m12-rcc_firmware"
 }

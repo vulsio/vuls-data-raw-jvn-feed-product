@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "50974",
-  "pname": "IGSS Data Server",
-  "pcpe": "cpe:/a:schneider_electric:interactive_graphical_scada_system_data_server"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "50974",
+	"pname": "IGSS Data Server",
+	"pcpe": "cpe:/a:schneider_electric:interactive_graphical_scada_system_data_server"
 }

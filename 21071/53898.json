@@ -1,8 +1,8 @@
 {
-  "vid": "21071",
-  "vname": "DEXT5",
-  "vcpe": "cpe:/:dext5",
-  "pid": "53898",
-  "pname": "DEXT5 Upload",
-  "pcpe": "cpe:/a:dext5:dext5upload"
+	"vid": "21071",
+	"vname": "DEXT5",
+	"vcpe": "cpe:/:dext5",
+	"pid": "53898",
+	"pname": "DEXT5 Upload",
+	"pcpe": "cpe:/a:dext5:dext5upload"
 }

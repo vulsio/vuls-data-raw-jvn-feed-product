@@ -1,8 +1,8 @@
 {
-  "vid": "6457",
-  "vname": "Marvell",
-  "vcpe": "cpe:/:marvell",
-  "pid": "38935",
-  "pname": "88SS1080 ファームウェア",
-  "pcpe": "cpe:/o:marvell:88ss1080_firmware"
+	"vid": "6457",
+	"vname": "Marvell",
+	"vcpe": "cpe:/:marvell",
+	"pid": "38935",
+	"pname": "88SS1080 ファームウェア",
+	"pcpe": "cpe:/o:marvell:88ss1080_firmware"
 }

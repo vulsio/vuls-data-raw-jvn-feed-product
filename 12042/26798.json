@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26798",
-  "pname": "Comware",
-  "pcpe": "cpe:/a:hp:comware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26798",
+	"pname": "Comware",
+	"pcpe": "cpe:/a:hp:comware"
 }

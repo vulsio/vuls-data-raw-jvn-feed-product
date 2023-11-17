@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "17596",
-  "pname": "Seco Versatile Security Manager",
-  "pcpe": "cpe:/a:huawei:seco_versatile_security_manager"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "17596",
+	"pname": "Seco Versatile Security Manager",
+	"pcpe": "cpe:/a:huawei:seco_versatile_security_manager"
 }

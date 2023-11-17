@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "33584",
-  "pname": "Guava",
-  "pcpe": "cpe:/a:google:guava"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "33584",
+	"pname": "Guava",
+	"pcpe": "cpe:/a:google:guava"
 }

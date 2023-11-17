@@ -1,8 +1,8 @@
 {
-  "vid": "17481",
-  "vname": "Blade",
-  "vcpe": "cpe:/:blade-group",
-  "pid": "41704",
-  "pname": "Shadow",
-  "pcpe": "cpe:/a:blade-group:shadow"
+	"vid": "17481",
+	"vname": "Blade",
+	"vcpe": "cpe:/:blade-group",
+	"pid": "41704",
+	"pname": "Shadow",
+	"pcpe": "cpe:/a:blade-group:shadow"
 }

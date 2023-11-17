@@ -1,8 +1,8 @@
 {
-  "vid": "18096",
-  "vname": "Insulet",
-  "vcpe": "cpe:/:insulet",
-  "pid": "44061",
-  "pname": "Omnipod Insulin Management System ファームウェア",
-  "pcpe": "cpe:/o:insulet:omnipod_insulin_management_system_firmware"
+	"vid": "18096",
+	"vname": "Insulet",
+	"vcpe": "cpe:/:insulet",
+	"pid": "44061",
+	"pname": "Omnipod Insulin Management System ファームウェア",
+	"pcpe": "cpe:/o:insulet:omnipod_insulin_management_system_firmware"
 }

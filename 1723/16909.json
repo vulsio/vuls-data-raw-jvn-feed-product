@@ -1,8 +1,8 @@
 {
-  "vid": "1723",
-  "vname": "SonicWALL",
-  "vcpe": "cpe:/:sonicwall",
-  "pid": "16909",
-  "pname": "Aventail SRA EX9000",
-  "pcpe": "cpe:/h:sonicwall:aventail_sra_ex9000"
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "16909",
+	"pname": "Aventail SRA EX9000",
+	"pcpe": "cpe:/h:sonicwall:aventail_sra_ex9000"
 }

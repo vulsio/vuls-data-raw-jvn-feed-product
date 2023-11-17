@@ -1,8 +1,8 @@
 {
-  "vid": "33",
-  "vname": "BEAシステムズ",
-  "vcpe": "cpe:/:bea",
-  "pid": "6207",
-  "pname": "aqualogic interaction",
-  "pcpe": "cpe:/a:bea:aqualogic_interaction"
+	"vid": "33",
+	"vname": "BEAシステムズ",
+	"vcpe": "cpe:/:bea",
+	"pid": "6207",
+	"pname": "aqualogic interaction",
+	"pcpe": "cpe:/a:bea:aqualogic_interaction"
 }

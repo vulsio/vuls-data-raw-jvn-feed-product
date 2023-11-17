@@ -1,8 +1,8 @@
 {
-  "vid": "3640",
-  "vname": "Facebook",
-  "vcpe": "cpe:/:facebook",
-  "pid": "37122",
-  "pname": "osquery",
-  "pcpe": "cpe:/a:facebook:osquery"
+	"vid": "3640",
+	"vname": "Facebook",
+	"vcpe": "cpe:/:facebook",
+	"pid": "37122",
+	"pname": "osquery",
+	"pcpe": "cpe:/a:facebook:osquery"
 }

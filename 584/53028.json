@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "53028",
-  "pname": "TALON TC Modular (BACnet) ファームウェア",
-  "pcpe": "cpe:/o:siemens:talon_tc_modular_%28bacnet%29_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "53028",
+	"pname": "TALON TC Modular (BACnet) ファームウェア",
+	"pcpe": "cpe:/o:siemens:talon_tc_modular_%28bacnet%29_firmware"
 }

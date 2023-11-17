@@ -1,8 +1,8 @@
 {
-  "vid": "21505",
-  "vname": "パナソニック コネクト",
-  "vcpe": "cpe:/:misc",
-  "pid": "55192",
-  "pname": "VCC-HD2100P ファームウェア",
-  "pcpe": "cpe:/o:misc:panasonic-connect_vcc-hd2100p_firmware"
+	"vid": "21505",
+	"vname": "パナソニック コネクト",
+	"vcpe": "cpe:/:misc",
+	"pid": "55192",
+	"pname": "VCC-HD2100P ファームウェア",
+	"pcpe": "cpe:/o:misc:panasonic-connect_vcc-hd2100p_firmware"
 }

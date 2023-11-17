@@ -1,8 +1,8 @@
 {
-  "vid": "1209",
-  "vname": "LANDesk",
-  "vcpe": "cpe:/:landesk",
-  "pid": "3903",
-  "pname": "Lenovo ThinkManagement Console",
-  "pcpe": "cpe:/a:landesk:lenovo_thinkmanagement_console"
+	"vid": "1209",
+	"vname": "LANDesk",
+	"vcpe": "cpe:/:landesk",
+	"pid": "3903",
+	"pname": "Lenovo ThinkManagement Console",
+	"pcpe": "cpe:/a:landesk:lenovo_thinkmanagement_console"
 }

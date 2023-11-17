@@ -1,8 +1,8 @@
 {
-  "vid": "4672",
-  "vname": "i-apps",
-  "vcpe": "cpe:/:i-apps",
-  "pid": "9956",
-  "pname": "passwiki",
-  "pcpe": "cpe:/a:i-apps:passwiki"
+	"vid": "4672",
+	"vname": "i-apps",
+	"vcpe": "cpe:/:i-apps",
+	"pid": "9956",
+	"pname": "passwiki",
+	"pcpe": "cpe:/a:i-apps:passwiki"
 }

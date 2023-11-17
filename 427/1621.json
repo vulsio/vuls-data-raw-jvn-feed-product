@@ -1,8 +1,8 @@
 {
-  "vid": "427",
-  "vname": "アクレッソ ソフトウェア",
-  "vcpe": "cpe:/:acresso",
-  "pid": "1621",
-  "pname": "Update Service",
-  "pcpe": "cpe:/a:acresso:update_service"
+	"vid": "427",
+	"vname": "アクレッソ ソフトウェア",
+	"vcpe": "cpe:/:acresso",
+	"pid": "1621",
+	"pname": "Update Service",
+	"pcpe": "cpe:/a:acresso:update_service"
 }

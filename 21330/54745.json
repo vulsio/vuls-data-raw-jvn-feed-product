@@ -1,8 +1,8 @@
 {
-  "vid": "21330",
-  "vname": "link-list-manager project",
-  "vcpe": "cpe:/:link-list-manager_project",
-  "pid": "54745",
-  "pname": "link-list-manager",
-  "pcpe": "cpe:/a:link-list-manager_project:link-list-manager"
+	"vid": "21330",
+	"vname": "link-list-manager project",
+	"vcpe": "cpe:/:link-list-manager_project",
+	"pid": "54745",
+	"pname": "link-list-manager",
+	"pcpe": "cpe:/a:link-list-manager_project:link-list-manager"
 }

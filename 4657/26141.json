@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26141",
-  "pname": "S12700 ファームウェア",
-  "pcpe": "cpe:/o:huawei:s12700_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26141",
+	"pname": "S12700 ファームウェア",
+	"pcpe": "cpe:/o:huawei:s12700_firmware"
 }

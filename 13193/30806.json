@@ -1,8 +1,8 @@
 {
-  "vid": "13193",
-  "vname": "usb-creator project",
-  "vcpe": "cpe:/:usb-creator_project",
-  "pid": "30806",
-  "pname": "usb-creator",
-  "pcpe": "cpe:/a:usb-creator_project:usb-creator"
+	"vid": "13193",
+	"vname": "usb-creator project",
+	"vcpe": "cpe:/:usb-creator_project",
+	"pid": "30806",
+	"pname": "usb-creator",
+	"pcpe": "cpe:/a:usb-creator_project:usb-creator"
 }

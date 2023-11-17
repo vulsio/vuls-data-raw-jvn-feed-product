@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "27970",
-  "pname": "NPORT P5150A シリーズファームウェア",
-  "pcpe": "cpe:/o:moxa:nport_p5150a_series_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "27970",
+	"pname": "NPORT P5150A シリーズファームウェア",
+	"pcpe": "cpe:/o:moxa:nport_p5150a_series_firmware"
 }

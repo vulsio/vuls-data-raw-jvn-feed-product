@@ -1,8 +1,8 @@
 {
-  "vid": "16162",
-  "vname": "Puppet",
-  "vcpe": "cpe:/:puppet",
-  "pid": "63308",
-  "pname": "puppetlabs-mysql",
-  "pcpe": "cpe:/a:puppet:puppetlabs-mysql"
+	"vid": "16162",
+	"vname": "Puppet",
+	"vcpe": "cpe:/:puppet",
+	"pid": "63308",
+	"pname": "puppetlabs-mysql",
+	"pcpe": "cpe:/a:puppet:puppetlabs-mysql"
 }

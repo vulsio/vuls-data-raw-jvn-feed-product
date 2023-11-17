@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4140",
-  "pname": "TS3310 Tape Library Firmware",
-  "pcpe": "cpe:/a:ibm:ts3310_tape_library_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4140",
+	"pname": "TS3310 Tape Library Firmware",
+	"pcpe": "cpe:/a:ibm:ts3310_tape_library_firmware"
 }

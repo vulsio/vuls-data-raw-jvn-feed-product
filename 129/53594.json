@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "53594",
-  "pname": "JP1/IT Desktop Management 2 - Operations Director",
-  "pcpe": "cpe:/a:hitachi:jp1%2fit_desktop_management_2-operations_director"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "53594",
+	"pname": "JP1/IT Desktop Management 2 - Operations Director",
+	"pcpe": "cpe:/a:hitachi:jp1%2fit_desktop_management_2-operations_director"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25550",
-  "pname": "JG353A HP HSR6602-G Router",
-  "pcpe": "cpe:/h:hp:jg353a_hp_hsr6602-g_router"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25550",
+	"pname": "JG353A HP HSR6602-G Router",
+	"pcpe": "cpe:/h:hp:jg353a_hp_hsr6602-g_router"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13389",
-  "vname": "AutomationDirect",
-  "vcpe": "cpe:/:automationdirect",
-  "pid": "62569",
-  "pname": "d0-06dd2 ファームウェア",
-  "pcpe": "cpe:/o:automationdirect:d0-06dd2_firmware"
+	"vid": "13389",
+	"vname": "AutomationDirect",
+	"vcpe": "cpe:/:automationdirect",
+	"pid": "62569",
+	"pname": "d0-06dd2 ファームウェア",
+	"pcpe": "cpe:/o:automationdirect:d0-06dd2_firmware"
 }

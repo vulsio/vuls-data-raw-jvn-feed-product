@@ -1,8 +1,8 @@
 {
-  "vid": "13229",
-  "vname": "Mirasys Ltd.",
-  "vcpe": "cpe:/:mirasys",
-  "pid": "40251",
-  "pname": "Mirasys VMS",
-  "pcpe": "cpe:/a:mirasys:mirasys_vms"
+	"vid": "13229",
+	"vname": "Mirasys Ltd.",
+	"vcpe": "cpe:/:mirasys",
+	"pid": "40251",
+	"pname": "Mirasys VMS",
+	"pcpe": "cpe:/a:mirasys:mirasys_vms"
 }

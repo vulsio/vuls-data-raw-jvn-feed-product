@@ -1,8 +1,8 @@
 {
-  "vid": "12184",
-  "vname": "Navis",
-  "vcpe": "cpe:/:navis",
-  "pid": "26707",
-  "pname": "Navis WebAccess",
-  "pcpe": "cpe:/a:navis:webaccess"
+	"vid": "12184",
+	"vname": "Navis",
+	"vcpe": "cpe:/:navis",
+	"pid": "26707",
+	"pname": "Navis WebAccess",
+	"pcpe": "cpe:/a:navis:webaccess"
 }

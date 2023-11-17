@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "42402",
-  "pname": "XPS 7390 ファームウェア",
-  "pcpe": "cpe:/o:dell:xps_7390_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "42402",
+	"pname": "XPS 7390 ファームウェア",
+	"pcpe": "cpe:/o:dell:xps_7390_firmware"
 }

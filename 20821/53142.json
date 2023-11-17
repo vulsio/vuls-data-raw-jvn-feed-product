@@ -1,8 +1,8 @@
 {
-  "vid": "20821",
-  "vname": "WPXPO",
-  "vcpe": "cpe:/:wpxpo",
-  "pid": "53142",
-  "pname": "PostX - Gutenberg Post Grid Blocks",
-  "pcpe": "cpe:/a:wpxpo:postx_-_gutenberg_blocks_for_post_grid"
+	"vid": "20821",
+	"vname": "WPXPO",
+	"vcpe": "cpe:/:wpxpo",
+	"pid": "53142",
+	"pname": "PostX - Gutenberg Post Grid Blocks",
+	"pcpe": "cpe:/a:wpxpo:postx_-_gutenberg_blocks_for_post_grid"
 }

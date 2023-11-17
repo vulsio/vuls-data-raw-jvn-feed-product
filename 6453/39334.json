@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "39334",
-  "pname": "CX82_ファームウェア",
-  "pcpe": "cpe:/o:lexmark:cx82x_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "39334",
+	"pname": "CX82_ファームウェア",
+	"pcpe": "cpe:/o:lexmark:cx82x_firmware"
 }

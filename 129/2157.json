@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2157",
-  "pname": "Hitachi Business Logic",
-  "pcpe": "cpe:/a:hitachi:business_logic"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2157",
+	"pname": "Hitachi Business Logic",
+	"pcpe": "cpe:/a:hitachi:business_logic"
 }

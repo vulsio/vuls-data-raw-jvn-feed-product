@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "60191",
-  "pname": "BIG-IP Carrier-Grade Network Address Translation (CGNAT)",
-  "pcpe": "cpe:/a:f5:big-ip_carrier-grade_nat"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "60191",
+	"pname": "BIG-IP Carrier-Grade Network Address Translation (CGNAT)",
+	"pcpe": "cpe:/a:f5:big-ip_carrier-grade_nat"
 }

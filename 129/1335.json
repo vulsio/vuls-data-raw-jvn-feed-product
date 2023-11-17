@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1335",
-  "pname": "EUR Print Manager",
-  "pcpe": "cpe:/a:hitachi:eur_print_manager"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1335",
+	"pname": "EUR Print Manager",
+	"pcpe": "cpe:/a:hitachi:eur_print_manager"
 }

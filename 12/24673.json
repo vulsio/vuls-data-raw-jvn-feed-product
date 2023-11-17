@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "24673",
-  "pname": "Deep Discovery Inspector",
-  "pcpe": "cpe:/a:trendmicro:deep_discovery_inspector"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "24673",
+	"pname": "Deep Discovery Inspector",
+	"pcpe": "cpe:/a:trendmicro:deep_discovery_inspector"
 }

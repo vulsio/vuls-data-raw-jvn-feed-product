@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "58587",
-  "pname": "sd-wan 2100 ファームウェア",
-  "pcpe": "cpe:/o:citrix:sd-wan_2100_firmware"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "58587",
+	"pname": "sd-wan 2100 ファームウェア",
+	"pcpe": "cpe:/o:citrix:sd-wan_2100_firmware"
 }

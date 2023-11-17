@@ -1,8 +1,8 @@
 {
-  "vid": "21030",
-  "vname": "Ingeteam",
-  "vcpe": "cpe:/:ingeteam",
-  "pid": "53798",
-  "pname": "INGEPAC DA AU ファームウェア",
-  "pcpe": "cpe:/o:ingeteam:ingepac_da_au_firmware"
+	"vid": "21030",
+	"vname": "Ingeteam",
+	"vcpe": "cpe:/:ingeteam",
+	"pid": "53798",
+	"pname": "INGEPAC DA AU ファームウェア",
+	"pcpe": "cpe:/o:ingeteam:ingepac_da_au_firmware"
 }

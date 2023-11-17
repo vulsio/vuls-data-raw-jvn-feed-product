@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "54875",
-  "pname": "IBM POWER SYSTEM S822LC (8001-22C) ファームウェア",
-  "pcpe": "cpe:/o:ibm:power_system_s822lc_%288001-22c%29_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "54875",
+	"pname": "IBM POWER SYSTEM S822LC (8001-22C) ファームウェア",
+	"pcpe": "cpe:/o:ibm:power_system_s822lc_%288001-22c%29_firmware"
 }

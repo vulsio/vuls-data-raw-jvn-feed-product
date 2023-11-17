@@ -1,8 +1,8 @@
 {
-  "vid": "12426",
-  "vname": "IBHsoftec GmbH",
-  "vcpe": "cpe:/:ibhsoftec",
-  "pid": "28069",
-  "pname": "S7-SoftPLC",
-  "pcpe": "cpe:/a:ibhsoftec:s7-softplc"
+	"vid": "12426",
+	"vname": "IBHsoftec GmbH",
+	"vcpe": "cpe:/:ibhsoftec",
+	"pid": "28069",
+	"pname": "S7-SoftPLC",
+	"pcpe": "cpe:/a:ibhsoftec:s7-softplc"
 }

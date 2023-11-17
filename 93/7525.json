@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7525",
-  "pname": "taxonomy manager",
-  "pcpe": "cpe:/a:drupal:taxonomy_manager"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7525",
+	"pname": "taxonomy manager",
+	"pcpe": "cpe:/a:drupal:taxonomy_manager"
 }

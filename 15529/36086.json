@@ -1,8 +1,8 @@
 {
-  "vid": "15529",
-  "vname": "thePHPfactory",
-  "vcpe": "cpe:/:thephpfactory",
-  "pid": "36086",
-  "pname": "Collection Factory",
-  "pcpe": "cpe:/a:thephpfactory:collection_factory"
+	"vid": "15529",
+	"vname": "thePHPfactory",
+	"vcpe": "cpe:/:thephpfactory",
+	"pid": "36086",
+	"pname": "Collection Factory",
+	"pcpe": "cpe:/a:thephpfactory:collection_factory"
 }

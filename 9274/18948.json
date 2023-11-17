@@ -1,8 +1,8 @@
 {
-  "vid": "9274",
-  "vname": "Open Source Development Team",
-  "vcpe": "cpe:/:open_source_development_team",
-  "pid": "18948",
-  "pname": "sthttpd",
-  "pcpe": "cpe:/a:open_source_development_team:sthttpd"
+	"vid": "9274",
+	"vname": "Open Source Development Team",
+	"vcpe": "cpe:/:open_source_development_team",
+	"pid": "18948",
+	"pname": "sthttpd",
+	"pcpe": "cpe:/a:open_source_development_team:sthttpd"
 }

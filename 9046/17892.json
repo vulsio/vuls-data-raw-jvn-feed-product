@@ -1,8 +1,8 @@
 {
-  "vid": "9046",
-  "vname": "The PHP Group (Radius Extension Group)",
-  "vcpe": "cpe:/:radius_extension_project",
-  "pid": "17892",
-  "pname": "radius 拡張モジュール",
-  "pcpe": "cpe:/a:radius_extension_project:radius"
+	"vid": "9046",
+	"vname": "The PHP Group (Radius Extension Group)",
+	"vcpe": "cpe:/:radius_extension_project",
+	"pid": "17892",
+	"pname": "radius 拡張モジュール",
+	"pcpe": "cpe:/a:radius_extension_project:radius"
 }

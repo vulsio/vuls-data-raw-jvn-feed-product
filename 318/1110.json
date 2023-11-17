@@ -1,8 +1,8 @@
 {
-  "vid": "318",
-  "vname": "JasPer Project",
-  "vcpe": "cpe:/:jasper_project",
-  "pid": "1110",
-  "pname": "JasPer JPEG-2000",
-  "pcpe": "cpe:/a:jasper_project:jasper_jpeg-2000"
+	"vid": "318",
+	"vname": "JasPer Project",
+	"vcpe": "cpe:/:jasper_project",
+	"pid": "1110",
+	"pname": "JasPer JPEG-2000",
+	"pcpe": "cpe:/a:jasper_project:jasper_jpeg-2000"
 }

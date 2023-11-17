@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "54413",
-  "pname": "X1052 ファームウェア",
-  "pcpe": "cpe:/o:dell:x1052_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "54413",
+	"pname": "X1052 ファームウェア",
+	"pcpe": "cpe:/o:dell:x1052_firmware"
 }

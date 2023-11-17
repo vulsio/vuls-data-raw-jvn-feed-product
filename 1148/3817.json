@@ -1,8 +1,8 @@
 {
-  "vid": "1148",
-  "vname": "OpenEMR",
-  "vcpe": "cpe:/:open-emr",
-  "pid": "3817",
-  "pname": "OpenEMR",
-  "pcpe": "cpe:/a:open-emr:openemr"
+	"vid": "1148",
+	"vname": "OpenEMR",
+	"vcpe": "cpe:/:open-emr",
+	"pid": "3817",
+	"pname": "OpenEMR",
+	"pcpe": "cpe:/a:open-emr:openemr"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15715",
-  "vname": "TOTOLINK",
-  "vcpe": "cpe:/:totolink",
-  "pid": "55169",
-  "pname": "EX200 ファームウェア",
-  "pcpe": "cpe:/o:totolink:ex200_firmware"
+	"vid": "15715",
+	"vname": "TOTOLINK",
+	"vcpe": "cpe:/:totolink",
+	"pid": "55169",
+	"pname": "EX200 ファームウェア",
+	"pcpe": "cpe:/o:totolink:ex200_firmware"
 }

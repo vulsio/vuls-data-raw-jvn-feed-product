@@ -1,8 +1,8 @@
 {
-  "vid": "22280",
-  "vname": "getshieldsecurity.com",
-  "vcpe": "cpe:/:getshieldsecurity",
-  "pid": "57282",
-  "pname": "Shield Security",
-  "pcpe": "cpe:/a:getshieldsecurity:shield_security"
+	"vid": "22280",
+	"vname": "getshieldsecurity.com",
+	"vcpe": "cpe:/:getshieldsecurity",
+	"pid": "57282",
+	"pname": "Shield Security",
+	"pcpe": "cpe:/a:getshieldsecurity:shield_security"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52845",
-  "pname": "SD850 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd850_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52845",
+	"pname": "SD850 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd850_firmware"
 }

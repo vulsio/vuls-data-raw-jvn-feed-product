@@ -1,8 +1,8 @@
 {
-  "vid": "15632",
-  "vname": "AudioCodes",
-  "vcpe": "cpe:/:audiocodes",
-  "pid": "39588",
-  "pname": "AudioCodes Mediant 500L-MSBR ファームウェア",
-  "pcpe": "cpe:/o:audiocodes:mediant_500l-msbr_firmware"
+	"vid": "15632",
+	"vname": "AudioCodes",
+	"vcpe": "cpe:/:audiocodes",
+	"pid": "39588",
+	"pname": "AudioCodes Mediant 500L-MSBR ファームウェア",
+	"pcpe": "cpe:/o:audiocodes:mediant_500l-msbr_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3098",
-  "pname": "Cisco TelePresence Manager",
-  "pcpe": "cpe:/a:cisco:telepresence_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3098",
+	"pname": "Cisco TelePresence Manager",
+	"pcpe": "cpe:/a:cisco:telepresence_manager"
 }

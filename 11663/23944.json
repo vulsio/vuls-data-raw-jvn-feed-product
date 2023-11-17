@@ -1,8 +1,8 @@
 {
-  "vid": "11663",
-  "vname": "Taxonomy Path project",
-  "vcpe": "cpe:/:taxonomy_path_project",
-  "pid": "23944",
-  "pname": "Taxonomy Path",
-  "pcpe": "cpe:/a:taxonomy_path_project:taxonomy_path"
+	"vid": "11663",
+	"vname": "Taxonomy Path project",
+	"vcpe": "cpe:/:taxonomy_path_project",
+	"pid": "23944",
+	"pname": "Taxonomy Path",
+	"pcpe": "cpe:/a:taxonomy_path_project:taxonomy_path"
 }

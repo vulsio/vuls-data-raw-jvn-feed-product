@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "59981",
-  "pname": "unityvsa operating environment",
-  "pcpe": "cpe:/a:dell:unityvsa_operating_environment"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "59981",
+	"pname": "unityvsa operating environment",
+	"pcpe": "cpe:/a:dell:unityvsa_operating_environment"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "37805",
-  "pname": "Cisco Common Services Platform Collector",
-  "pcpe": "cpe:/a:cisco:common_services_platform_collector"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "37805",
+	"pname": "Cisco Common Services Platform Collector",
+	"pcpe": "cpe:/a:cisco:common_services_platform_collector"
 }

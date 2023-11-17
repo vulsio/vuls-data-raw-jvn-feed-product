@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "45499",
-  "pname": "VxRail D560 ファームウェア",
-  "pcpe": "cpe:/o:dell:vxrail_d560_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "45499",
+	"pname": "VxRail D560 ファームウェア",
+	"pcpe": "cpe:/o:dell:vxrail_d560_firmware"
 }

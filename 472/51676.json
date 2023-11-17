@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "51676",
-  "pname": "Rockwell Automation 1768 CompactLogix L43 コントローラファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:compactlogix_1768-l43_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "51676",
+	"pname": "Rockwell Automation 1768 CompactLogix L43 コントローラファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:compactlogix_1768-l43_firmware"
 }

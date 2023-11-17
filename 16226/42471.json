@@ -1,8 +1,8 @@
 {
-  "vid": "16226",
-  "vname": "Pronestor",
-  "vcpe": "cpe:/:pronestor",
-  "pid": "42471",
-  "pname": "Pronestor Planner",
-  "pcpe": "cpe:/a:pronestor:planner"
+	"vid": "16226",
+	"vname": "Pronestor",
+	"vcpe": "cpe:/:pronestor",
+	"pid": "42471",
+	"pname": "Pronestor Planner",
+	"pcpe": "cpe:/a:pronestor:planner"
 }

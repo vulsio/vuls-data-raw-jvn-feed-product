@@ -1,8 +1,8 @@
 {
-  "vid": "12139",
-  "vname": "国土地理院",
-  "vcpe": "cpe:/:gsi",
-  "pid": "29017",
-  "pname": "座標変換ソフトウェア TKY2JGD",
-  "pcpe": "cpe:/a:gsi:tky2jgd"
+	"vid": "12139",
+	"vname": "国土地理院",
+	"vcpe": "cpe:/:gsi",
+	"pid": "29017",
+	"pname": "座標変換ソフトウェア TKY2JGD",
+	"pcpe": "cpe:/a:gsi:tky2jgd"
 }

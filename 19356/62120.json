@@ -1,8 +1,8 @@
 {
-  "vid": "19356",
-  "vname": "Keysight Technologies",
-  "vcpe": "cpe:/:keysight",
-  "pid": "62120",
-  "pname": "sensor management server",
-  "pcpe": "cpe:/a:keysight:sensor_management_server"
+	"vid": "19356",
+	"vname": "Keysight Technologies",
+	"vcpe": "cpe:/:keysight",
+	"pid": "62120",
+	"pname": "sensor management server",
+	"pcpe": "cpe:/a:keysight:sensor_management_server"
 }

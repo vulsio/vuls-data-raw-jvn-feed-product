@@ -1,8 +1,8 @@
 {
-  "vid": "11868",
-  "vname": "Philippine Long Distance Telephone Company (PLDT)",
-  "vcpe": "cpe:/:philippine_long_distance_telephone",
-  "pid": "24690",
-  "pname": "SpeedSurf 504AN",
-  "pcpe": "cpe:/h:philippine_long_distance_telephone:pldt_speedsurf_504an"
+	"vid": "11868",
+	"vname": "Philippine Long Distance Telephone Company (PLDT)",
+	"vcpe": "cpe:/:philippine_long_distance_telephone",
+	"pid": "24690",
+	"pname": "SpeedSurf 504AN",
+	"pcpe": "cpe:/h:philippine_long_distance_telephone:pldt_speedsurf_504an"
 }

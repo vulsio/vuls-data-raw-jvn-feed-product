@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31417",
-  "pname": "TL-R473GP-AC ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-r473gp-ac_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31417",
+	"pname": "TL-R473GP-AC ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-r473gp-ac_firmware"
 }

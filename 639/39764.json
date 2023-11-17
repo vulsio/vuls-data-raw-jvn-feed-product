@@ -1,8 +1,8 @@
 {
-  "vid": "639",
-  "vname": "富士フイルムビジネスイノベーション株式会社 (旧 富士ゼロックス株式会社)",
-  "vcpe": "cpe:/:fuji_xerox",
-  "pid": "39764",
-  "pname": "ApeosWare Management Suite",
-  "pcpe": "cpe:/a:fuji_xerox:apeosware_management_suite"
+	"vid": "639",
+	"vname": "富士フイルムビジネスイノベーション株式会社 (旧 富士ゼロックス株式会社)",
+	"vcpe": "cpe:/:fuji_xerox",
+	"pid": "39764",
+	"pname": "ApeosWare Management Suite",
+	"pcpe": "cpe:/a:fuji_xerox:apeosware_management_suite"
 }

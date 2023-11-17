@@ -1,8 +1,8 @@
 {
-  "vid": "16144",
-  "vname": "KioWare",
-  "vcpe": "cpe:/:kioware",
-  "pid": "37838",
-  "pname": "KioWare Server",
-  "pcpe": "cpe:/a:kioware:kioware_server"
+	"vid": "16144",
+	"vname": "KioWare",
+	"vcpe": "cpe:/:kioware",
+	"pid": "37838",
+	"pname": "KioWare Server",
+	"pcpe": "cpe:/a:kioware:kioware_server"
 }

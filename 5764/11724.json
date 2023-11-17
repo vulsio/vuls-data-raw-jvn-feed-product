@@ -1,8 +1,8 @@
 {
-  "vid": "5764",
-  "vname": "mozzers subsystem",
-  "vcpe": "cpe:/:mozzers_subsystem",
-  "pid": "11724",
-  "pname": "mozzers subsystem",
-  "pcpe": "cpe:/a:mozzers_subsystem:mozzers_subsystem"
+	"vid": "5764",
+	"vname": "mozzers subsystem",
+	"vcpe": "cpe:/:mozzers_subsystem",
+	"pid": "11724",
+	"pname": "mozzers subsystem",
+	"pcpe": "cpe:/a:mozzers_subsystem:mozzers_subsystem"
 }

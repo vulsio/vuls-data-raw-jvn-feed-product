@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "16217",
-  "pname": "filemanager",
-  "pcpe": "cpe:/a:wordpress:filemanager"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "16217",
+	"pname": "filemanager",
+	"pcpe": "cpe:/a:wordpress:filemanager"
 }

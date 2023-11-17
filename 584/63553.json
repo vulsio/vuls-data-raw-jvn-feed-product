@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63553",
-  "pname": "siplus hmi ktp900 basic ファームウェア",
-  "pcpe": "cpe:/o:siemens:siplus_hmi_ktp900_basic_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63553",
+	"pname": "siplus hmi ktp900 basic ファームウェア",
+	"pcpe": "cpe:/o:siemens:siplus_hmi_ktp900_basic_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5982",
-  "vname": "National Information Infrastructure Development Institute",
-  "vcpe": "cpe:/:niif",
-  "pid": "13197",
-  "pname": "Shibboleth authentication",
-  "pcpe": "cpe:/a:niif:shibb_auth"
+	"vid": "5982",
+	"vname": "National Information Infrastructure Development Institute",
+	"vcpe": "cpe:/:niif",
+	"pid": "13197",
+	"pname": "Shibboleth authentication",
+	"pcpe": "cpe:/a:niif:shibb_auth"
 }

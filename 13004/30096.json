@@ -1,8 +1,8 @@
 {
-  "vid": "13004",
-  "vname": "Mindwerks",
-  "vcpe": "cpe:/:mindwerks",
-  "pid": "30096",
-  "pname": "WildMIDI",
-  "pcpe": "cpe:/a:mindwerks:wildmidi"
+	"vid": "13004",
+	"vname": "Mindwerks",
+	"vcpe": "cpe:/:mindwerks",
+	"pid": "30096",
+	"pname": "WildMIDI",
+	"pcpe": "cpe:/a:mindwerks:wildmidi"
 }

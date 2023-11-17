@@ -1,8 +1,8 @@
 {
-  "vid": "1895",
-  "vname": "エマソン",
-  "vcpe": "cpe:/:emerson",
-  "pid": "58862",
-  "pname": "DL8000 ファームウェア",
-  "pcpe": "cpe:/o:emerson:dl8000_firmware"
+	"vid": "1895",
+	"vname": "エマソン",
+	"vcpe": "cpe:/:emerson",
+	"pid": "58862",
+	"pname": "DL8000 ファームウェア",
+	"pcpe": "cpe:/o:emerson:dl8000_firmware"
 }

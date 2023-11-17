@@ -1,8 +1,8 @@
 {
-  "vid": "554",
-  "vname": "ブルーコートシステムズ",
-  "vcpe": "cpe:/:bluecoat",
-  "pid": "6340",
-  "pname": "winproxy",
-  "pcpe": "cpe:/a:bluecoat:winproxy"
+	"vid": "554",
+	"vname": "ブルーコートシステムズ",
+	"vcpe": "cpe:/:bluecoat",
+	"pid": "6340",
+	"pname": "winproxy",
+	"pcpe": "cpe:/a:bluecoat:winproxy"
 }

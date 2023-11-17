@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "34652",
-  "pname": "Cisco Nexus 7000 ファームウェア",
-  "pcpe": "cpe:/o:cisco:nexus_7000_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "34652",
+	"pname": "Cisco Nexus 7000 ファームウェア",
+	"pcpe": "cpe:/o:cisco:nexus_7000_firmware"
 }

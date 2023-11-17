@@ -1,8 +1,8 @@
 {
-  "vid": "17757",
-  "vname": "Serpico project",
-  "vcpe": "cpe:/:serpico_project",
-  "pid": "42647",
-  "pname": "Serpico",
-  "pcpe": "cpe:/a:serpico_project:serpico"
+	"vid": "17757",
+	"vname": "Serpico project",
+	"vcpe": "cpe:/:serpico_project",
+	"pid": "42647",
+	"pname": "Serpico",
+	"pcpe": "cpe:/a:serpico_project:serpico"
 }

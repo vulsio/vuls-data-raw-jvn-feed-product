@@ -1,8 +1,8 @@
 {
-  "vid": "8830",
-  "vname": "CoolPDF Software",
-  "vcpe": "cpe:/:coolpdf",
-  "pid": "16857",
-  "pname": "CoolPDF",
-  "pcpe": "cpe:/a:coolpdf:coolpdf"
+	"vid": "8830",
+	"vname": "CoolPDF Software",
+	"vcpe": "cpe:/:coolpdf",
+	"pid": "16857",
+	"pname": "CoolPDF",
+	"pcpe": "cpe:/a:coolpdf:coolpdf"
 }

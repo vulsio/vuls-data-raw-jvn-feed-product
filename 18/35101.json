@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "35101",
-  "pname": "IBM WebSphere Cast Iron",
-  "pcpe": "cpe:/a:ibm:websphere_cast_iron_cloud_integration"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "35101",
+	"pname": "IBM WebSphere Cast Iron",
+	"pcpe": "cpe:/a:ibm:websphere_cast_iron_cloud_integration"
 }

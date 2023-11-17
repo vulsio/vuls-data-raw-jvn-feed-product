@@ -1,8 +1,8 @@
 {
-  "vid": "1296",
-  "vname": "クイックヒール・テクノロジーズ・ジャパン株式会社",
-  "vcpe": "cpe:/:quick_heal",
-  "pid": "27587",
-  "pname": "クイックヒール アンチウイルスプロ",
-  "pcpe": "cpe:/a:quick_heal:antivirus_pro"
+	"vid": "1296",
+	"vname": "クイックヒール・テクノロジーズ・ジャパン株式会社",
+	"vcpe": "cpe:/:quick_heal",
+	"pid": "27587",
+	"pname": "クイックヒール アンチウイルスプロ",
+	"pcpe": "cpe:/a:quick_heal:antivirus_pro"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "39865",
-  "pname": "Honor V20 ファームウェア",
-  "pcpe": "cpe:/o:huawei:honor_v20_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "39865",
+	"pname": "Honor V20 ファームウェア",
+	"pcpe": "cpe:/o:huawei:honor_v20_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4176",
-  "vname": "Belkin International",
-  "vcpe": "cpe:/:belkin",
-  "pid": "20379",
-  "pname": "N150 Wireless Home Network Router F9K1009 ファームウェア",
-  "pcpe": "cpe:/o:belkin:n150_f9k1009_firmware"
+	"vid": "4176",
+	"vname": "Belkin International",
+	"vcpe": "cpe:/:belkin",
+	"pid": "20379",
+	"pname": "N150 Wireless Home Network Router F9K1009 ファームウェア",
+	"pcpe": "cpe:/o:belkin:n150_f9k1009_firmware"
 }

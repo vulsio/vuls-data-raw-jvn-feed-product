@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53668",
-  "pname": "Oracle Graph Server and Client",
-  "pcpe": "cpe:/a:oracle:graph_server_and_client"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53668",
+	"pname": "Oracle Graph Server and Client",
+	"pcpe": "cpe:/a:oracle:graph_server_and_client"
 }

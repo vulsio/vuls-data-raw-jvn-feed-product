@@ -1,8 +1,8 @@
 {
-  "vid": "10345",
-  "vname": "OSSEC",
-  "vcpe": "cpe:/:ossec",
-  "pid": "21739",
-  "pname": "OSSEC",
-  "pcpe": "cpe:/a:ossec:ossec"
+	"vid": "10345",
+	"vname": "OSSEC",
+	"vcpe": "cpe:/:ossec",
+	"pid": "21739",
+	"pname": "OSSEC",
+	"pcpe": "cpe:/a:ossec:ossec"
 }

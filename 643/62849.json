@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "62849",
-  "pname": "optiplex 5400 ファームウェア",
-  "pcpe": "cpe:/o:dell:optiplex_5400_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "62849",
+	"pname": "optiplex 5400 ファームウェア",
+	"pcpe": "cpe:/o:dell:optiplex_5400_firmware"
 }

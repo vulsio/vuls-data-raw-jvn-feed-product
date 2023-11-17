@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "1535",
-  "pname": "FUJITSU PC-X",
-  "pcpe": "cpe:/a:fujitsu:pc-x"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "1535",
+	"pname": "FUJITSU PC-X",
+	"pcpe": "cpe:/a:fujitsu:pc-x"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "39117",
-  "pname": "ManageEngine Analytics Plus",
-  "pcpe": "cpe:/a:zohocorp:manageengine_analytics_plus"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "39117",
+	"pname": "ManageEngine Analytics Plus",
+	"pcpe": "cpe:/a:zohocorp:manageengine_analytics_plus"
 }

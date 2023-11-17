@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26153",
-  "pname": "Secospace AntiDDoS8000 ファームウェア",
-  "pcpe": "cpe:/o:huawei:secospace_antiddos8000_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26153",
+	"pname": "Secospace AntiDDoS8000 ファームウェア",
+	"pcpe": "cpe:/o:huawei:secospace_antiddos8000_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28654",
-  "pname": "Campus S9700 ファームウェア",
-  "pcpe": "cpe:/o:huawei:campus_s9700_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28654",
+	"pname": "Campus S9700 ファームウェア",
+	"pcpe": "cpe:/o:huawei:campus_s9700_firmware"
 }

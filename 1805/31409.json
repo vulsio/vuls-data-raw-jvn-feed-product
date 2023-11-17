@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31409",
-  "pname": "TL-ER5110G ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-er5110g_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31409",
+	"pname": "TL-ER5110G ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-er5110g_firmware"
 }

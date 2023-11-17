@@ -1,8 +1,8 @@
 {
-  "vid": "674",
-  "vname": "ブロケード コミュニケーションズ システムズ株式会社",
-  "vcpe": "cpe:/:brocade",
-  "pid": "29170",
-  "pname": "Brocade NetIron MLX シリーズファームウェア",
-  "pcpe": "cpe:/o:brocade:netiron_xmr_series_firmware"
+	"vid": "674",
+	"vname": "ブロケード コミュニケーションズ システムズ株式会社",
+	"vcpe": "cpe:/:brocade",
+	"pid": "29170",
+	"pname": "Brocade NetIron MLX シリーズファームウェア",
+	"pcpe": "cpe:/o:brocade:netiron_xmr_series_firmware"
 }

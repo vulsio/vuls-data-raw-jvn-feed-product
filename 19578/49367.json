@@ -1,8 +1,8 @@
 {
-  "vid": "19578",
-  "vname": "Accfly",
-  "vcpe": "cpe:/:accfly",
-  "pid": "49367",
-  "pname": "Accfly Wireless Security IR Camera System 720P ファームウェア",
-  "pcpe": "cpe:/o:accfly:720p_firmware"
+	"vid": "19578",
+	"vname": "Accfly",
+	"vcpe": "cpe:/:accfly",
+	"pid": "49367",
+	"pname": "Accfly Wireless Security IR Camera System 720P ファームウェア",
+	"pcpe": "cpe:/o:accfly:720p_firmware"
 }

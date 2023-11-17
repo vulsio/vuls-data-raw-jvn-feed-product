@@ -1,8 +1,8 @@
 {
-  "vid": "20369",
-  "vname": "Rocket.Chat",
-  "vcpe": "cpe:/:rocket.chat",
-  "pid": "58276",
-  "pname": "livechat",
-  "pcpe": "cpe:/a:rocket.chat:livechat"
+	"vid": "20369",
+	"vname": "Rocket.Chat",
+	"vcpe": "cpe:/:rocket.chat",
+	"pid": "58276",
+	"pname": "livechat",
+	"pcpe": "cpe:/a:rocket.chat:livechat"
 }

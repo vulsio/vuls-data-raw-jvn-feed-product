@@ -1,8 +1,8 @@
 {
-  "vid": "754",
-  "vname": "Puppet",
-  "vcpe": "cpe:/:puppetlabs",
-  "pid": "34745",
-  "pname": "pe-client-tools",
-  "pcpe": "cpe:/a:puppetlabs:puppet_enterprise_client_tools"
+	"vid": "754",
+	"vname": "Puppet",
+	"vcpe": "cpe:/:puppetlabs",
+	"pid": "34745",
+	"pname": "pe-client-tools",
+	"pcpe": "cpe:/a:puppetlabs:puppet_enterprise_client_tools"
 }

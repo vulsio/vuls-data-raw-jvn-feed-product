@@ -1,8 +1,8 @@
 {
-  "vid": "504",
-  "vname": "Motorola Solutions, Inc",
-  "vcpe": "cpe:/:motorola",
-  "pid": "36940",
-  "pname": "SBG941 ファームウェア",
-  "pcpe": "cpe:/o:motorola:sbg941_firmware"
+	"vid": "504",
+	"vname": "Motorola Solutions, Inc",
+	"vcpe": "cpe:/:motorola",
+	"pid": "36940",
+	"pname": "SBG941 ファームウェア",
+	"pcpe": "cpe:/o:motorola:sbg941_firmware"
 }

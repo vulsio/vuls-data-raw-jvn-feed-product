@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17632",
-  "pname": "Cisco Virtualization Experience Media Engine",
-  "pcpe": "cpe:/a:cisco:virtualization_experience_media_engine"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17632",
+	"pname": "Cisco Virtualization Experience Media Engine",
+	"pcpe": "cpe:/a:cisco:virtualization_experience_media_engine"
 }

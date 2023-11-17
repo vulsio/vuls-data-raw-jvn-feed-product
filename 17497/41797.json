@@ -1,8 +1,8 @@
 {
-  "vid": "17497",
-  "vname": "mpack project",
-  "vcpe": "cpe:/:mpack_project",
-  "pid": "41797",
-  "pname": "mpack",
-  "pcpe": "cpe:/a:mpack_project:mpack"
+	"vid": "17497",
+	"vname": "mpack project",
+	"vcpe": "cpe:/:mpack_project",
+	"pid": "41797",
+	"pname": "mpack",
+	"pcpe": "cpe:/a:mpack_project:mpack"
 }

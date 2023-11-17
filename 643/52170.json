@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "52170",
-  "pname": "Dell EMC PowerSwitch S4112F-ON",
-  "pcpe": "cpe:/h:dell:emc_powerswitch_s4112f-on"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "52170",
+	"pname": "Dell EMC PowerSwitch S4112F-ON",
+	"pcpe": "cpe:/h:dell:emc_powerswitch_s4112f-on"
 }

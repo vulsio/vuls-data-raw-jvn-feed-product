@@ -1,8 +1,8 @@
 {
-  "vid": "6400",
-  "vname": "php news reader",
-  "vcpe": "cpe:/:php_news_reader",
-  "pid": "12660",
-  "pname": "php news reader",
-  "pcpe": "cpe:/a:php_news_reader:php_news_reader"
+	"vid": "6400",
+	"vname": "php news reader",
+	"vcpe": "cpe:/:php_news_reader",
+	"pid": "12660",
+	"pname": "php news reader",
+	"pcpe": "cpe:/a:php_news_reader:php_news_reader"
 }

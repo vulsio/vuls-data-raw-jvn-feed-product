@@ -1,8 +1,8 @@
 {
-  "vid": "9733",
-  "vname": "Ericom Software",
-  "vcpe": "cpe:/:ericom",
-  "pid": "20263",
-  "pname": "AccessNow Server",
-  "pcpe": "cpe:/a:ericom:accessnow_server"
+	"vid": "9733",
+	"vname": "Ericom Software",
+	"vcpe": "cpe:/:ericom",
+	"pid": "20263",
+	"pname": "AccessNow Server",
+	"pcpe": "cpe:/a:ericom:accessnow_server"
 }

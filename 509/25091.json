@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "25091",
-  "pname": "SAP Plant Connectivity",
-  "pcpe": "cpe:/a:sap:plant_connectivity"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "25091",
+	"pname": "SAP Plant Connectivity",
+	"pcpe": "cpe:/a:sap:plant_connectivity"
 }

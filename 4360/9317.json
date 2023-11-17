@@ -1,8 +1,8 @@
 {
-  "vid": "4360",
-  "vname": "ウェブセンス",
-  "vcpe": "cpe:/:websense",
-  "pid": "9317",
-  "pname": "Websense Web Filter",
-  "pcpe": "cpe:/a:websense:websense_web_filter"
+	"vid": "4360",
+	"vname": "ウェブセンス",
+	"vcpe": "cpe:/:websense",
+	"pid": "9317",
+	"pname": "Websense Web Filter",
+	"pcpe": "cpe:/a:websense:websense_web_filter"
 }

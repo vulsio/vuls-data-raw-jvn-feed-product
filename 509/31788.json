@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "31788",
-  "pname": "SAP EPBC2",
-  "pcpe": "cpe:/a:sap:epbc2"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "31788",
+	"pname": "SAP EPBC2",
+	"pcpe": "cpe:/a:sap:epbc2"
 }

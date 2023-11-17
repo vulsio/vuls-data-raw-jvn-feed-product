@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "19007",
-  "pname": "HP Color LaserJet CP1515 Printer",
-  "pcpe": "cpe:/h:hp:color_laserjet_cp1515"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "19007",
+	"pname": "HP Color LaserJet CP1515 Printer",
+	"pcpe": "cpe:/h:hp:color_laserjet_cp1515"
 }

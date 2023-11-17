@@ -1,8 +1,8 @@
 {
-  "vid": "16710",
-  "vname": "Shenzhen Dragon Brothers",
-  "vcpe": "cpe:/:shenzhen_dragon_brothers",
-  "pid": "39826",
-  "pname": "FB50 ファームウェア",
-  "pcpe": "cpe:/o:shenzhen_dragon_brothers:fb50_firmware"
+	"vid": "16710",
+	"vname": "Shenzhen Dragon Brothers",
+	"vcpe": "cpe:/:shenzhen_dragon_brothers",
+	"pid": "39826",
+	"pname": "FB50 ファームウェア",
+	"pcpe": "cpe:/o:shenzhen_dragon_brothers:fb50_firmware"
 }

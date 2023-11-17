@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "12334",
-  "pname": "mobile application server",
-  "pcpe": "cpe:/a:oracle:mobile_application_server"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "12334",
+	"pname": "mobile application server",
+	"pcpe": "cpe:/a:oracle:mobile_application_server"
 }

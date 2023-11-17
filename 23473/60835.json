@@ -1,8 +1,8 @@
 {
-  "vid": "23473",
-  "vname": "algosolutions",
-  "vcpe": "cpe:/:algosolutions",
-  "pid": "60835",
-  "pname": "8373 ip zone paging adapter ファームウェア",
-  "pcpe": "cpe:/o:algosolutions:8373_ip_zone_paging_adapter_firmware"
+	"vid": "23473",
+	"vname": "algosolutions",
+	"vcpe": "cpe:/:algosolutions",
+	"pid": "60835",
+	"pname": "8373 ip zone paging adapter ファームウェア",
+	"pcpe": "cpe:/o:algosolutions:8373_ip_zone_paging_adapter_firmware"
 }

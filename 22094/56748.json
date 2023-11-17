@@ -1,8 +1,8 @@
 {
-  "vid": "22094",
-  "vname": "エンカレッジ・テクノロジ株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "56748",
-  "pname": "ESS REC Agent Server Edition for AIX",
-  "pcpe": "cpe:/a:misc:encourage_technologies_ess_rec_agent_server_edition_for_aix"
+	"vid": "22094",
+	"vname": "エンカレッジ・テクノロジ株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "56748",
+	"pname": "ESS REC Agent Server Edition for AIX",
+	"pcpe": "cpe:/a:misc:encourage_technologies_ess_rec_agent_server_edition_for_aix"
 }

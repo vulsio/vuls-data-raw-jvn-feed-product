@@ -1,8 +1,8 @@
 {
-  "vid": "5686",
-  "vname": "mirapoint",
-  "vcpe": "cpe:/:mirapoint",
-  "pid": "11613",
-  "pname": "mirapoint webmail",
-  "pcpe": "cpe:/a:mirapoint:mirapoint_webmail"
+	"vid": "5686",
+	"vname": "mirapoint",
+	"vcpe": "cpe:/:mirapoint",
+	"pid": "11613",
+	"pname": "mirapoint webmail",
+	"pcpe": "cpe:/a:mirapoint:mirapoint_webmail"
 }

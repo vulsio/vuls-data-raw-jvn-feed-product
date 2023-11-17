@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52855",
-  "pname": "SM7325 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sm7325_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52855",
+	"pname": "SM7325 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sm7325_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "19529",
-  "pname": "EMC Documentum Foundation Services",
-  "pcpe": "cpe:/a:emc:documentum_foundation_services"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "19529",
+	"pname": "EMC Documentum Foundation Services",
+	"pcpe": "cpe:/a:emc:documentum_foundation_services"
 }

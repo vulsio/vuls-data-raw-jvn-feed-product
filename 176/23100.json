@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "23100",
-  "pname": "CentreCOM AR570S ファームウェア",
-  "pcpe": "cpe:/o:allied_telesis_k.k.:centrecom_ar570s_firmware"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "23100",
+	"pname": "CentreCOM AR570S ファームウェア",
+	"pcpe": "cpe:/o:allied_telesis_k.k.:centrecom_ar570s_firmware"
 }

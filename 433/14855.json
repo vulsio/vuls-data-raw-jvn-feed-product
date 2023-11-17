@@ -1,8 +1,8 @@
 {
-  "vid": "433",
-  "vname": "Skype Technologies S.A.",
-  "vcpe": "cpe:/:skype",
-  "pid": "14855",
-  "pname": "skype extension for firefox",
-  "pcpe": "cpe:/a:skype:skype_extension_for_firefox"
+	"vid": "433",
+	"vname": "Skype Technologies S.A.",
+	"vcpe": "cpe:/:skype",
+	"pid": "14855",
+	"pname": "skype extension for firefox",
+	"pcpe": "cpe:/a:skype:skype_extension_for_firefox"
 }

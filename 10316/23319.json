@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "23319",
-  "pname": "RabbitMQ",
-  "pcpe": "cpe:/a:greenplum:rabbitmq"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "23319",
+	"pname": "RabbitMQ",
+	"pcpe": "cpe:/a:greenplum:rabbitmq"
 }

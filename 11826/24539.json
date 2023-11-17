@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "24539",
-  "pname": "Centricity PACS",
-  "pcpe": "cpe:/a:gehealthcare:centricity_pacs_workstation"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "24539",
+	"pname": "Centricity PACS",
+	"pcpe": "cpe:/a:gehealthcare:centricity_pacs_workstation"
 }

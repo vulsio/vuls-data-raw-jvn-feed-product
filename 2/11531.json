@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "11531",
-  "pname": "vfp ole server activex control",
-  "pcpe": "cpe:/a:microsoft:vfp_ole_server_activex_control"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "11531",
+	"pname": "vfp ole server activex control",
+	"pcpe": "cpe:/a:microsoft:vfp_ole_server_activex_control"
 }

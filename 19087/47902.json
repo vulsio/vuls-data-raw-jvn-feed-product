@@ -1,8 +1,8 @@
 {
-  "vid": "19087",
-  "vname": "HR Portal project",
-  "vcpe": "cpe:/:hr_portal_project",
-  "pid": "47902",
-  "pname": "HR Portal",
-  "pcpe": "cpe:/a:hr_portal_project:hr_portal"
+	"vid": "19087",
+	"vname": "HR Portal project",
+	"vcpe": "cpe:/:hr_portal_project",
+	"pid": "47902",
+	"pname": "HR Portal",
+	"pcpe": "cpe:/a:hr_portal_project:hr_portal"
 }

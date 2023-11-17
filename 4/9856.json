@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "9856",
-  "pname": "cluster object manager",
-  "pcpe": "cpe:/a:hp:cluster_object_manager"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "9856",
+	"pname": "cluster object manager",
+	"pcpe": "cpe:/a:hp:cluster_object_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23841",
-  "vname": "Farsight",
-  "vcpe": "cpe:/:farsight",
-  "pid": "61650",
-  "pname": "Provide Server",
-  "pcpe": "cpe:/a:farsight:provide_server"
+	"vid": "23841",
+	"vname": "Farsight",
+	"vcpe": "cpe:/:farsight",
+	"pid": "61650",
+	"pname": "Provide Server",
+	"pcpe": "cpe:/a:farsight:provide_server"
 }

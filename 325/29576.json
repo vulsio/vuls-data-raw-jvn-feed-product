@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "29576",
-  "pname": "Lenovo Nerve Center",
-  "pcpe": "cpe:/a:lenovo:nerve_center"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "29576",
+	"pname": "Lenovo Nerve Center",
+	"pcpe": "cpe:/a:lenovo:nerve_center"
 }

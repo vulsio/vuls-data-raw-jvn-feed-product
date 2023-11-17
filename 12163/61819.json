@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "61819",
-  "pname": "external monitor job type",
-  "pcpe": "cpe:/a:jenkins:external_monitor_job_type"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "61819",
+	"pname": "external monitor job type",
+	"pcpe": "cpe:/a:jenkins:external_monitor_job_type"
 }

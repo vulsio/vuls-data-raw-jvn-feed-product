@@ -1,8 +1,8 @@
 {
-  "vid": "19842",
-  "vname": "ScratchOAuth2 project",
-  "vcpe": "cpe:/:scratchoauth2_project",
-  "pid": "50089",
-  "pname": "ScratchOAuth2",
-  "pcpe": "cpe:/a:scratchoauth2_project:scratchoauth2"
+	"vid": "19842",
+	"vname": "ScratchOAuth2 project",
+	"vcpe": "cpe:/:scratchoauth2_project",
+	"pid": "50089",
+	"pname": "ScratchOAuth2",
+	"pcpe": "cpe:/a:scratchoauth2_project:scratchoauth2"
 }

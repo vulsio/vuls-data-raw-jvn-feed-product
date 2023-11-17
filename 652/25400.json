@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "25400",
-  "pname": "Web Viewer",
-  "pcpe": "cpe:/a:samsung:web_viewer"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "25400",
+	"pname": "Web Viewer",
+	"pcpe": "cpe:/a:samsung:web_viewer"
 }

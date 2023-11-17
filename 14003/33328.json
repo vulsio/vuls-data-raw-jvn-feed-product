@@ -1,8 +1,8 @@
 {
-  "vid": "14003",
-  "vname": "ncmpc project",
-  "vcpe": "cpe:/:ncmpc_project",
-  "pid": "33328",
-  "pname": "ncmpc",
-  "pcpe": "cpe:/a:ncmpc_project:ncmpc"
+	"vid": "14003",
+	"vname": "ncmpc project",
+	"vcpe": "cpe:/:ncmpc_project",
+	"pid": "33328",
+	"pname": "ncmpc",
+	"pcpe": "cpe:/a:ncmpc_project:ncmpc"
 }

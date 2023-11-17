@@ -1,8 +1,8 @@
 {
-  "vid": "22875",
-  "vname": "smartptt",
-  "vcpe": "cpe:/:smartptt",
-  "pid": "59066",
-  "pname": "scada server",
-  "pcpe": "cpe:/a:smartptt:scada_server"
+	"vid": "22875",
+	"vname": "smartptt",
+	"vcpe": "cpe:/:smartptt",
+	"pid": "59066",
+	"pname": "scada server",
+	"pcpe": "cpe:/a:smartptt:scada_server"
 }

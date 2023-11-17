@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "26795",
-  "pname": "Media Origination System Suite Software",
-  "pcpe": "cpe:/a:cisco:media_origination_system_suite"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "26795",
+	"pname": "Media Origination System Suite Software",
+	"pcpe": "cpe:/a:cisco:media_origination_system_suite"
 }

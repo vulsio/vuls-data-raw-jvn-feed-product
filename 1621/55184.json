@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "55184",
-  "pname": "FastMile ファームウェア",
-  "pcpe": "cpe:/o:nokia:fastmile_firmware"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "55184",
+	"pname": "FastMile ファームウェア",
+	"pcpe": "cpe:/o:nokia:fastmile_firmware"
 }

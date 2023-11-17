@@ -1,8 +1,8 @@
 {
-  "vid": "15115",
-  "vname": "testcoin project",
-  "vcpe": "cpe:/:testcoin_project",
-  "pid": "35054",
-  "pname": "testcoin",
-  "pcpe": "cpe:/a:testcoin_project:testcoin"
+	"vid": "15115",
+	"vname": "testcoin project",
+	"vcpe": "cpe:/:testcoin_project",
+	"pid": "35054",
+	"pname": "testcoin",
+	"pcpe": "cpe:/a:testcoin_project:testcoin"
 }

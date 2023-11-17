@@ -1,8 +1,8 @@
 {
-  "vid": "12355",
-  "vname": "libquicktime",
-  "vcpe": "cpe:/:libquicktime",
-  "pid": "27819",
-  "pname": "libquicktime",
-  "pcpe": "cpe:/a:libquicktime:libquicktime"
+	"vid": "12355",
+	"vname": "libquicktime",
+	"vcpe": "cpe:/:libquicktime",
+	"pid": "27819",
+	"pname": "libquicktime",
+	"pcpe": "cpe:/a:libquicktime:libquicktime"
 }

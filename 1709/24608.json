@@ -1,8 +1,8 @@
 {
-  "vid": "1709",
-  "vname": "Shibboleth",
-  "vcpe": "cpe:/:shibboleth",
-  "pid": "24608",
-  "pname": "XMLTooling",
-  "pcpe": "cpe:/a:shibboleth:xmltooling"
+	"vid": "1709",
+	"vname": "Shibboleth",
+	"vcpe": "cpe:/:shibboleth",
+	"pid": "24608",
+	"pname": "XMLTooling",
+	"pcpe": "cpe:/a:shibboleth:xmltooling"
 }

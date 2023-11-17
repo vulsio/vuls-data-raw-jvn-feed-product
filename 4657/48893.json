@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "48893",
-  "pname": "Jackman-AL00D ファームウェア",
-  "pcpe": "cpe:/o:huawei:jackman-al00d_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "48893",
+	"pname": "Jackman-AL00D ファームウェア",
+	"pcpe": "cpe:/o:huawei:jackman-al00d_firmware"
 }

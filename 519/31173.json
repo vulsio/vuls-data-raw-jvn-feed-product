@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "31173",
-  "pname": "Avaya IP Office Contact Center",
-  "pcpe": "cpe:/a:avaya:ip_office_contact_center"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "31173",
+	"pname": "Avaya IP Office Contact Center",
+	"pcpe": "cpe:/a:avaya:ip_office_contact_center"
 }

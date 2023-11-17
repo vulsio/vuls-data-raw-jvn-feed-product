@@ -1,8 +1,8 @@
 {
-  "vid": "20832",
-  "vname": "Trixie",
-  "vcpe": "cpe:/:trixie",
-  "pid": "53170",
-  "pname": "TX9 Automatic Food Dispenser",
-  "pcpe": "cpe:/o:trixie:tx9_automatic_food_dispenser_firmware"
+	"vid": "20832",
+	"vname": "Trixie",
+	"vcpe": "cpe:/:trixie",
+	"pid": "53170",
+	"pname": "TX9 Automatic Food Dispenser",
+	"pcpe": "cpe:/o:trixie:tx9_automatic_food_dispenser_firmware"
 }

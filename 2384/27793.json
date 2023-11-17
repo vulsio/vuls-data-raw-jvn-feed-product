@@ -1,8 +1,8 @@
 {
-  "vid": "2384",
-  "vname": "オートデスク株式会社",
-  "vcpe": "cpe:/:autodesk",
-  "pid": "27793",
-  "pname": "FBX-SDK",
-  "pcpe": "cpe:/a:autodesk:fbx_software_development_kit"
+	"vid": "2384",
+	"vname": "オートデスク株式会社",
+	"vcpe": "cpe:/:autodesk",
+	"pid": "27793",
+	"pname": "FBX-SDK",
+	"pcpe": "cpe:/a:autodesk:fbx_software_development_kit"
 }

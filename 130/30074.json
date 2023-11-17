@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "30074",
-  "pname": "Intel Server Board S1200SPOR",
-  "pcpe": "cpe:/o:intel:s1200spor_bios"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "30074",
+	"pname": "Intel Server Board S1200SPOR",
+	"pcpe": "cpe:/o:intel:s1200spor_bios"
 }

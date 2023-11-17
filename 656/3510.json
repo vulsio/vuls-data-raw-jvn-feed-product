@@ -1,8 +1,8 @@
 {
-  "vid": "656",
-  "vname": "SmarterTools Inc.",
-  "vcpe": "cpe:/:smartertools",
-  "pid": "3510",
-  "pname": "SmarterStats",
-  "pcpe": "cpe:/a:smartertools:smarterstats"
+	"vid": "656",
+	"vname": "SmarterTools Inc.",
+	"vcpe": "cpe:/:smartertools",
+	"pid": "3510",
+	"pname": "SmarterStats",
+	"pcpe": "cpe:/a:smartertools:smarterstats"
 }

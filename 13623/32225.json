@@ -1,8 +1,8 @@
 {
-  "vid": "13623",
-  "vname": "MalwareFox",
-  "vcpe": "cpe:/:malwarefox",
-  "pid": "32225",
-  "pname": "MalwareFox",
-  "pcpe": "cpe:/a:malwarefox:anti-malware"
+	"vid": "13623",
+	"vname": "MalwareFox",
+	"vcpe": "cpe:/:malwarefox",
+	"pid": "32225",
+	"pname": "MalwareFox",
+	"pcpe": "cpe:/a:malwarefox:anti-malware"
 }

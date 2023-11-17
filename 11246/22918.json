@@ -1,8 +1,8 @@
 {
-  "vid": "11246",
-  "vname": "getscoop",
-  "vcpe": "cpe:/:getscoop",
-  "pid": "22918",
-  "pname": "kontan kiosk",
-  "pcpe": "cpe:/a:getscoop:kontan_kiosk"
+	"vid": "11246",
+	"vname": "getscoop",
+	"vcpe": "cpe:/:getscoop",
+	"pid": "22918",
+	"pname": "kontan kiosk",
+	"pcpe": "cpe:/a:getscoop:kontan_kiosk"
 }

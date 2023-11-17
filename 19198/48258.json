@@ -1,8 +1,8 @@
 {
-  "vid": "19198",
-  "vname": "libzip",
-  "vcpe": "cpe:/:libzip",
-  "pid": "48258",
-  "pname": "libzip",
-  "pcpe": "cpe:/a:libzip:libzip"
+	"vid": "19198",
+	"vname": "libzip",
+	"vcpe": "cpe:/:libzip",
+	"pid": "48258",
+	"pname": "libzip",
+	"pcpe": "cpe:/a:libzip:libzip"
 }

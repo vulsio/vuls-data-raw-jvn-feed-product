@@ -1,8 +1,8 @@
 {
-  "vid": "23287",
-  "vname": "PressPage",
-  "vcpe": "cpe:/:presspage",
-  "pid": "60298",
-  "pname": "Bestbooks",
-  "pcpe": "cpe:/a:presspage:bestbooks"
+	"vid": "23287",
+	"vname": "PressPage",
+	"vcpe": "cpe:/:presspage",
+	"pid": "60298",
+	"pname": "Bestbooks",
+	"pcpe": "cpe:/a:presspage:bestbooks"
 }

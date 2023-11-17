@@ -1,8 +1,8 @@
 {
-  "vid": "17131",
-  "vname": "Typomedia Foundation",
-  "vcpe": "cpe:/:typomedia",
-  "pid": "40744",
-  "pname": "wordpress-meta-robots",
-  "pcpe": "cpe:/a:typomedia:wordpress_meta_robots"
+	"vid": "17131",
+	"vname": "Typomedia Foundation",
+	"vcpe": "cpe:/:typomedia",
+	"pid": "40744",
+	"pname": "wordpress-meta-robots",
+	"pcpe": "cpe:/a:typomedia:wordpress_meta_robots"
 }

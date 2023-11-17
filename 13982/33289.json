@@ -1,8 +1,8 @@
 {
-  "vid": "13982",
-  "vname": "diffoscope",
-  "vcpe": "cpe:/:diffoscope",
-  "pid": "33289",
-  "pname": "diffoscope",
-  "pcpe": "cpe:/a:diffoscope:diffoscope"
+	"vid": "13982",
+	"vname": "diffoscope",
+	"vcpe": "cpe:/:diffoscope",
+	"pid": "33289",
+	"pname": "diffoscope",
+	"pcpe": "cpe:/a:diffoscope:diffoscope"
 }

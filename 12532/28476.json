@@ -1,8 +1,8 @@
 {
-  "vid": "12532",
-  "vname": "Go JOSE project",
-  "vcpe": "cpe:/:go-jose_project",
-  "pid": "28476",
-  "pname": "Go JOSE",
-  "pcpe": "cpe:/a:go-jose_project:go-jose"
+	"vid": "12532",
+	"vname": "Go JOSE project",
+	"vcpe": "cpe:/:go-jose_project",
+	"pid": "28476",
+	"pname": "Go JOSE",
+	"pcpe": "cpe:/a:go-jose_project:go-jose"
 }

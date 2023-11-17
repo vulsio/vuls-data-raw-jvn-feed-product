@@ -1,8 +1,8 @@
 {
-  "vid": "21219",
-  "vname": "Open Policy Agent",
-  "vcpe": "cpe:/:openpolicyagent",
-  "pid": "54423",
-  "pname": "Gatekeeper",
-  "pcpe": "cpe:/a:openpolicyagent:gatekeeper"
+	"vid": "21219",
+	"vname": "Open Policy Agent",
+	"vcpe": "cpe:/:openpolicyagent",
+	"pid": "54423",
+	"pname": "Gatekeeper",
+	"pcpe": "cpe:/a:openpolicyagent:gatekeeper"
 }

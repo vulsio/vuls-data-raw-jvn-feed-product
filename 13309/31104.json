@@ -1,8 +1,8 @@
 {
-  "vid": "13309",
-  "vname": "MitraStar Technology Corp.",
-  "vcpe": "cpe:/:mitrastar",
-  "pid": "31104",
-  "pname": "DSL-100HN-T1 ファームウェア",
-  "pcpe": "cpe:/o:mitrastar:gpt-2541gnac_firmware"
+	"vid": "13309",
+	"vname": "MitraStar Technology Corp.",
+	"vcpe": "cpe:/:mitrastar",
+	"pid": "31104",
+	"pname": "DSL-100HN-T1 ファームウェア",
+	"pcpe": "cpe:/o:mitrastar:gpt-2541gnac_firmware"
 }

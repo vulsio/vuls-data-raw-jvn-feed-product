@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "18479",
-  "pname": "ClearPass",
-  "pcpe": "cpe:/a:arubanetworks:clearpass"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "18479",
+	"pname": "ClearPass",
+	"pcpe": "cpe:/a:arubanetworks:clearpass"
 }

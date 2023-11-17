@@ -1,8 +1,8 @@
 {
-  "vid": "8222",
-  "vname": "Unisys",
-  "vcpe": "cpe:/:unisys",
-  "pid": "50241",
-  "pname": "Data Exchange Management Studio",
-  "pcpe": "cpe:/a:unisys:data_exchange_management_studio"
+	"vid": "8222",
+	"vname": "Unisys",
+	"vcpe": "cpe:/:unisys",
+	"pid": "50241",
+	"pname": "Data Exchange Management Studio",
+	"pcpe": "cpe:/a:unisys:data_exchange_management_studio"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "2045",
-  "pname": "Java System Identity Manager",
-  "pcpe": "cpe:/a:sun:java_system_identity_manager"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "2045",
+	"pname": "Java System Identity Manager",
+	"pcpe": "cpe:/a:sun:java_system_identity_manager"
 }

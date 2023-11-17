@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27874",
-  "pname": "IBM Dashboard Application Services Hub",
-  "pcpe": "cpe:/a:ibm:dashboard_application_services_hub"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27874",
+	"pname": "IBM Dashboard Application Services Hub",
+	"pcpe": "cpe:/a:ibm:dashboard_application_services_hub"
 }

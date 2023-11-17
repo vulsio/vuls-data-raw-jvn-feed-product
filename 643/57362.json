@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "57362",
-  "pname": "Embedded Box PC 3000 ファームウェア",
-  "pcpe": "cpe:/o:dell:embedded_box_pc_3000_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "57362",
+	"pname": "Embedded Box PC 3000 ファームウェア",
+	"pcpe": "cpe:/o:dell:embedded_box_pc_3000_firmware"
 }

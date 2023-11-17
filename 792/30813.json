@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "30813",
-  "pname": "NWA1100-N ファームウェア",
-  "pcpe": "cpe:/o:zyxel:nwa1100-n_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "30813",
+	"pname": "NWA1100-N ファームウェア",
+	"pcpe": "cpe:/o:zyxel:nwa1100-n_firmware"
 }

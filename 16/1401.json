@@ -1,8 +1,8 @@
 {
-  "vid": "16",
-  "vname": "チェック・ポイント・ソフトウェア・テクノロジーズ",
-  "vcpe": "cpe:/:checkpoint",
-  "pid": "1401",
-  "pname": "VPN-1 Power/UTM",
-  "pcpe": "cpe:/a:checkpoint:vpn-1_power_utm"
+	"vid": "16",
+	"vname": "チェック・ポイント・ソフトウェア・テクノロジーズ",
+	"vcpe": "cpe:/:checkpoint",
+	"pid": "1401",
+	"pname": "VPN-1 Power/UTM",
+	"pcpe": "cpe:/a:checkpoint:vpn-1_power_utm"
 }

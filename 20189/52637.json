@@ -1,8 +1,8 @@
 {
-  "vid": "20189",
-  "vname": "Akkadian Labs, LLC",
-  "vcpe": "cpe:/:akkadianlabs",
-  "pid": "52637",
-  "pname": "Akkadian OVA appliance",
-  "pcpe": "cpe:/a:akkadianlabs:ova_appliance"
+	"vid": "20189",
+	"vname": "Akkadian Labs, LLC",
+	"vcpe": "cpe:/:akkadianlabs",
+	"pid": "52637",
+	"pname": "Akkadian OVA appliance",
+	"pcpe": "cpe:/a:akkadianlabs:ova_appliance"
 }

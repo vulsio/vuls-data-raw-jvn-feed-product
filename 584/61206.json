@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "61206",
-  "pname": "simatic mv540 s ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_mv540_s_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "61206",
+	"pname": "simatic mv540 s ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_mv540_s_firmware"
 }

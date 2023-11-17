@@ -1,8 +1,8 @@
 {
-  "vid": "5346",
-  "vname": "live555",
-  "vcpe": "cpe:/:live555",
-  "pid": "49211",
-  "pname": "liblivemedia",
-  "pcpe": "cpe:/a:live555:liblivemedia"
+	"vid": "5346",
+	"vname": "live555",
+	"vcpe": "cpe:/:live555",
+	"pid": "49211",
+	"pname": "liblivemedia",
+	"pcpe": "cpe:/a:live555:liblivemedia"
 }

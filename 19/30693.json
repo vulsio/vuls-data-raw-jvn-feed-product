@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "30693",
-  "pname": "Cisco ESW2 シリーズ拡張スイッチ ファームウェア",
-  "pcpe": "cpe:/o:cisco:esw2_series_advanced_switches_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "30693",
+	"pname": "Cisco ESW2 シリーズ拡張スイッチ ファームウェア",
+	"pcpe": "cpe:/o:cisco:esw2_series_advanced_switches_firmware"
 }

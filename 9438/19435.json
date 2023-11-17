@@ -1,8 +1,8 @@
 {
-  "vid": "9438",
-  "vname": "eviware software",
-  "vcpe": "cpe:/:eviware",
-  "pid": "19435",
-  "pname": "SoapUI",
-  "pcpe": "cpe:/a:eviware:soapui"
+	"vid": "9438",
+	"vname": "eviware software",
+	"vcpe": "cpe:/:eviware",
+	"pid": "19435",
+	"pname": "SoapUI",
+	"pcpe": "cpe:/a:eviware:soapui"
 }

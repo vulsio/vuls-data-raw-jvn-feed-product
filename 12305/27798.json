@@ -1,8 +1,8 @@
 {
-  "vid": "12305",
-  "vname": "eClinicalWorks",
-  "vcpe": "cpe:/:eclinicalworks",
-  "pid": "27798",
-  "pname": "healow",
-  "pcpe": "cpe:/a:eclinicalworks:healow"
+	"vid": "12305",
+	"vname": "eClinicalWorks",
+	"vcpe": "cpe:/:eclinicalworks",
+	"pid": "27798",
+	"pname": "healow",
+	"pcpe": "cpe:/a:eclinicalworks:healow"
 }

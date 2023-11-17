@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "32312",
-  "pname": "J6U57B ファームウェア",
-  "pcpe": "cpe:/o:hp:j6u57b_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "32312",
+	"pname": "J6U57B ファームウェア",
+	"pcpe": "cpe:/o:hp:j6u57b_firmware"
 }

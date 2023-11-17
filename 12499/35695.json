@@ -1,8 +1,8 @@
 {
-  "vid": "12499",
-  "vname": "Delta Electronics",
-  "vcpe": "cpe:/:delta_electronics",
-  "pid": "35695",
-  "pname": "CNCSoft",
-  "pcpe": "cpe:/a:delta_electronics:cncsoft"
+	"vid": "12499",
+	"vname": "Delta Electronics",
+	"vcpe": "cpe:/:delta_electronics",
+	"pid": "35695",
+	"pname": "CNCSoft",
+	"pcpe": "cpe:/a:delta_electronics:cncsoft"
 }

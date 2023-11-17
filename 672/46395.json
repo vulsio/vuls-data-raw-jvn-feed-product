@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "46395",
-  "pname": "ManageEngine Exchange Cloud Security Plus",
-  "pcpe": "cpe:/a:zohocorp:manageengine_cloud_security_plus"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "46395",
+	"pname": "ManageEngine Exchange Cloud Security Plus",
+	"pcpe": "cpe:/a:zohocorp:manageengine_cloud_security_plus"
 }

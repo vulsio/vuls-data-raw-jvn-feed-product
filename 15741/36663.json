@@ -1,8 +1,8 @@
 {
-  "vid": "15741",
-  "vname": "Roche Diagnostics",
-  "vcpe": "cpe:/:roche",
-  "pid": "36663",
-  "pname": "Base Unit Hub ファームウェア",
-  "pcpe": "cpe:/o:roche:base_unit_hub_firmware"
+	"vid": "15741",
+	"vname": "Roche Diagnostics",
+	"vcpe": "cpe:/:roche",
+	"pid": "36663",
+	"pname": "Base Unit Hub ファームウェア",
+	"pcpe": "cpe:/o:roche:base_unit_hub_firmware"
 }

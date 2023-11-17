@@ -1,8 +1,8 @@
 {
-  "vid": "21478",
-  "vname": "JEECG",
-  "vcpe": "cpe:/:jeecg",
-  "pid": "55132",
-  "pname": "jeecg",
-  "pcpe": "cpe:/a:jeecg:jeecg"
+	"vid": "21478",
+	"vname": "JEECG",
+	"vcpe": "cpe:/:jeecg",
+	"pid": "55132",
+	"pname": "jeecg",
+	"pcpe": "cpe:/a:jeecg:jeecg"
 }

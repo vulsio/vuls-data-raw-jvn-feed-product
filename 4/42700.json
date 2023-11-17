@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "42700",
-  "pname": "DeskJet 2600 V1N01A ファームウェア",
-  "pcpe": "cpe:/o:hp:deskjet_2600_v1n01a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "42700",
+	"pname": "DeskJet 2600 V1N01A ファームウェア",
+	"pcpe": "cpe:/o:hp:deskjet_2600_v1n01a_firmware"
 }

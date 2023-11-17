@@ -1,8 +1,8 @@
 {
-  "vid": "4026",
-  "vname": "gosurf browser",
-  "vcpe": "cpe:/:gosurf_browser",
-  "pid": "8502",
-  "pname": "gosurf browser",
-  "pcpe": "cpe:/a:gosurf_browser:gosurf_browser"
+	"vid": "4026",
+	"vname": "gosurf browser",
+	"vcpe": "cpe:/:gosurf_browser",
+	"pid": "8502",
+	"pname": "gosurf browser",
+	"pcpe": "cpe:/a:gosurf_browser:gosurf_browser"
 }

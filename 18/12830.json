@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "12830",
-  "pname": "IBM BladeCenter",
-  "pcpe": "cpe:/h:ibm:bladecenter"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "12830",
+	"pname": "IBM BladeCenter",
+	"pcpe": "cpe:/h:ibm:bladecenter"
 }

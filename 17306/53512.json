@@ -1,8 +1,8 @@
 {
-  "vid": "17306",
-  "vname": "Open Source Geospatial Foundation",
-  "vcpe": "cpe:/:osgeo",
-  "pid": "53512",
-  "pname": "PyWPS",
-  "pcpe": "cpe:/a:osgeo:pywps"
+	"vid": "17306",
+	"vname": "Open Source Geospatial Foundation",
+	"vcpe": "cpe:/:osgeo",
+	"pid": "53512",
+	"pname": "PyWPS",
+	"pcpe": "cpe:/a:osgeo:pywps"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15372",
-  "vname": "pythonhosted.org",
-  "vcpe": "cpe:/:pyro_project",
-  "pid": "35705",
-  "pname": "Pyro",
-  "pcpe": "cpe:/a:pyro_project:pyro"
+	"vid": "15372",
+	"vname": "pythonhosted.org",
+	"vcpe": "cpe:/:pyro_project",
+	"pid": "35705",
+	"pname": "Pyro",
+	"pcpe": "cpe:/a:pyro_project:pyro"
 }

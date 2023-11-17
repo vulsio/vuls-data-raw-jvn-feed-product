@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "18128",
-  "pname": "IBM WebSphere Extended Deployment Compute Grid",
-  "pcpe": "cpe:/a:ibm:websphere_extended_deployment_compute_grid"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "18128",
+	"pname": "IBM WebSphere Extended Deployment Compute Grid",
+	"pcpe": "cpe:/a:ibm:websphere_extended_deployment_compute_grid"
 }

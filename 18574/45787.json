@@ -1,8 +1,8 @@
 {
-  "vid": "18574",
-  "vname": "Grundfos",
-  "vcpe": "cpe:/:grundfos",
-  "pid": "45787",
-  "pname": "CIM 500",
-  "pcpe": "cpe:/a:grundfos:cim_500"
+	"vid": "18574",
+	"vname": "Grundfos",
+	"vcpe": "cpe:/:grundfos",
+	"pid": "45787",
+	"pname": "CIM 500",
+	"pcpe": "cpe:/a:grundfos:cim_500"
 }

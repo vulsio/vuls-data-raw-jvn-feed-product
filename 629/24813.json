@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "24813",
-  "pname": "EDS-408A シリーズ",
-  "pcpe": "cpe:/h:moxa:eds-408a"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "24813",
+	"pname": "EDS-408A シリーズ",
+	"pcpe": "cpe:/h:moxa:eds-408a"
 }

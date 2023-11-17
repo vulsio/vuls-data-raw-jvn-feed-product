@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "42440",
-  "pname": "IP Office Application Server",
-  "pcpe": "cpe:/a:avaya:ip_office_application_server"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "42440",
+	"pname": "IP Office Application Server",
+	"pcpe": "cpe:/a:avaya:ip_office_application_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "554",
-  "vname": "ブルーコートシステムズ",
-  "vcpe": "cpe:/:bluecoat",
-  "pid": "2661",
-  "pname": "Blue Coat PolicyCenter",
-  "pcpe": "cpe:/a:bluecoat:policycenter"
+	"vid": "554",
+	"vname": "ブルーコートシステムズ",
+	"vcpe": "cpe:/:bluecoat",
+	"pid": "2661",
+	"pname": "Blue Coat PolicyCenter",
+	"pcpe": "cpe:/a:bluecoat:policycenter"
 }

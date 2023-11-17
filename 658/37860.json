@@ -1,8 +1,8 @@
 {
-  "vid": "658",
-  "vname": "バラクーダネットワークス",
-  "vcpe": "cpe:/:barracuda_networks",
-  "pid": "37860",
-  "pname": "VPN Client",
-  "pcpe": "cpe:/a:barracuda_networks:vpn_client"
+	"vid": "658",
+	"vname": "バラクーダネットワークス",
+	"vcpe": "cpe:/:barracuda_networks",
+	"pid": "37860",
+	"pname": "VPN Client",
+	"pcpe": "cpe:/a:barracuda_networks:vpn_client"
 }

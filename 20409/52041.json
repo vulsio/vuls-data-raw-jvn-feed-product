@@ -1,8 +1,8 @@
 {
-  "vid": "20409",
-  "vname": "SafeCurl project",
-  "vcpe": "cpe:/:safecurl_project",
-  "pid": "52041",
-  "pname": "SafeCurl",
-  "pcpe": "cpe:/a:safecurl_project:safecurl"
+	"vid": "20409",
+	"vname": "SafeCurl project",
+	"vcpe": "cpe:/:safecurl_project",
+	"pid": "52041",
+	"pname": "SafeCurl",
+	"pcpe": "cpe:/a:safecurl_project:safecurl"
 }

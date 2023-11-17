@@ -1,8 +1,8 @@
 {
-  "vid": "12132",
-  "vname": "meteocontrol",
-  "vcpe": "cpe:/:meteocontrol",
-  "pid": "26115",
-  "pname": "WEB'log PRO unlimited",
-  "pcpe": "cpe:/a:meteocontrol:web%27log_pro_unlimited"
+	"vid": "12132",
+	"vname": "meteocontrol",
+	"vcpe": "cpe:/:meteocontrol",
+	"pid": "26115",
+	"pname": "WEB'log PRO unlimited",
+	"pcpe": "cpe:/a:meteocontrol:web%27log_pro_unlimited"
 }

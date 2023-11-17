@@ -1,8 +1,8 @@
 {
-  "vid": "8515",
-  "vname": "wikidsystems",
-  "vcpe": "cpe:/:wikidsystems",
-  "pid": "16155",
-  "pname": "wclient-php",
-  "pcpe": "cpe:/a:wikidsystems:wclient-php"
+	"vid": "8515",
+	"vname": "wikidsystems",
+	"vcpe": "cpe:/:wikidsystems",
+	"pid": "16155",
+	"pname": "wclient-php",
+	"pcpe": "cpe:/a:wikidsystems:wclient-php"
 }

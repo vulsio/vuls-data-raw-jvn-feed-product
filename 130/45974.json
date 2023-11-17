@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "45974",
-  "pname": "Intel DSL4510 Thunderbolt ファームウェア",
-  "pcpe": "cpe:/o:intel:dsl4510_thunderbolt_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "45974",
+	"pname": "Intel DSL4510 Thunderbolt ファームウェア",
+	"pcpe": "cpe:/o:intel:dsl4510_thunderbolt_firmware"
 }

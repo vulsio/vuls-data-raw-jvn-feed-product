@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "29607",
-  "pname": "PanelView Plus 6 700-1500 ファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:panelview_plus_6_700-1500_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "29607",
+	"pname": "PanelView Plus 6 700-1500 ファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:panelview_plus_6_700-1500_firmware"
 }

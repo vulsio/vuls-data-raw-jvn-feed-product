@@ -1,8 +1,8 @@
 {
-  "vid": "18239",
-  "vname": "WAVLINK",
-  "vcpe": "cpe:/:wavlink",
-  "pid": "46789",
-  "pname": "WL-WN530H4 ファームウェア",
-  "pcpe": "cpe:/o:wavlink:wn530h4_firmware"
+	"vid": "18239",
+	"vname": "WAVLINK",
+	"vcpe": "cpe:/:wavlink",
+	"pid": "46789",
+	"pname": "WL-WN530H4 ファームウェア",
+	"pcpe": "cpe:/o:wavlink:wn530h4_firmware"
 }

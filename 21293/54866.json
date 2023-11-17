@@ -1,8 +1,8 @@
 {
-  "vid": "21293",
-  "vname": "KNIME",
-  "vcpe": "cpe:/:knime",
-  "pid": "54866",
-  "pname": "KNIME Analytics Platform",
-  "pcpe": "cpe:/a:knime:knime_analytics_platform"
+	"vid": "21293",
+	"vname": "KNIME",
+	"vcpe": "cpe:/:knime",
+	"pid": "54866",
+	"pname": "KNIME Analytics Platform",
+	"pcpe": "cpe:/a:knime:knime_analytics_platform"
 }

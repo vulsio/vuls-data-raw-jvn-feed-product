@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19256",
-  "pname": "transport controller",
-  "pcpe": "cpe:/a:cisco:transport_controller"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19256",
+	"pname": "transport controller",
+	"pcpe": "cpe:/a:cisco:transport_controller"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23757",
-  "vname": "nexans",
-  "vcpe": "cpe:/:nexans",
-  "pid": "61461",
-  "pname": "gigaswitch v5 tp(pse+) sfp-2vi 54vdc ファームウェア",
-  "pcpe": "cpe:/o:nexans:gigaswitch_v5_tp%28pse%2B%29_sfp-2vi_54vdc_firmware"
+	"vid": "23757",
+	"vname": "nexans",
+	"vcpe": "cpe:/:nexans",
+	"pid": "61461",
+	"pname": "gigaswitch v5 tp(pse+) sfp-2vi 54vdc ファームウェア",
+	"pcpe": "cpe:/o:nexans:gigaswitch_v5_tp%28pse%2B%29_sfp-2vi_54vdc_firmware"
 }

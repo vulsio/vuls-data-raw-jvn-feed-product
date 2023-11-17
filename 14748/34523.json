@@ -1,8 +1,8 @@
 {
-  "vid": "14748",
-  "vname": "ビー・ユー・ジーＤＭＧ森精機株式会社",
-  "vcpe": "cpe:/:b-u-g_dmg_mori",
-  "pid": "34523",
-  "pname": "Cente Ipsec",
-  "pcpe": "cpe:/a:b-u-g_dmg_mori:cente_ipsec"
+	"vid": "14748",
+	"vname": "ビー・ユー・ジーＤＭＧ森精機株式会社",
+	"vcpe": "cpe:/:b-u-g_dmg_mori",
+	"pid": "34523",
+	"pname": "Cente Ipsec",
+	"pcpe": "cpe:/a:b-u-g_dmg_mori:cente_ipsec"
 }

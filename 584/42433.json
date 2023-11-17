@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "42433",
-  "pname": "PXC00-E.D ファームウェア",
-  "pcpe": "cpe:/o:siemens:pxc00-e.d_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "42433",
+	"pname": "PXC00-E.D ファームウェア",
+	"pcpe": "cpe:/o:siemens:pxc00-e.d_firmware"
 }

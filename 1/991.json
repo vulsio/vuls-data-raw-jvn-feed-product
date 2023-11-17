@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "991",
-  "pname": "Sun Linux 5.0",
-  "pcpe": "cpe:/a:sun:linux"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "991",
+	"pname": "Sun Linux 5.0",
+	"pcpe": "cpe:/a:sun:linux"
 }

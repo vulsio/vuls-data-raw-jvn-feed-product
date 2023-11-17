@@ -1,8 +1,8 @@
 {
-  "vid": "22812",
-  "vname": "palantir",
-  "vcpe": "cpe:/:palantir",
-  "pid": "64046",
-  "pname": "magritte-ftp",
-  "pcpe": "cpe:/a:palantir:magritte-ftp"
+	"vid": "22812",
+	"vname": "palantir",
+	"vcpe": "cpe:/:palantir",
+	"pid": "64046",
+	"pname": "magritte-ftp",
+	"pcpe": "cpe:/a:palantir:magritte-ftp"
 }

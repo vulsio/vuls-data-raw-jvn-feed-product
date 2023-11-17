@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "46438",
-  "pname": "ThinkPad T590 (20Nx) ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_t590_%2820nx%29_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "46438",
+	"pname": "ThinkPad T590 (20Nx) ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_t590_%2820nx%29_firmware"
 }

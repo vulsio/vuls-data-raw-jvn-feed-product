@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "37591",
-  "pname": "CODESYS Control Win SL",
-  "pcpe": "cpe:/a:codesys:control_win_sl"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "37591",
+	"pname": "CODESYS Control Win SL",
+	"pcpe": "cpe:/a:codesys:control_win_sl"
 }

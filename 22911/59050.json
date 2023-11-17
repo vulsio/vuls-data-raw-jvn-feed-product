@@ -1,8 +1,8 @@
 {
-  "vid": "22911",
-  "vname": "String locator project",
-  "vcpe": "cpe:/:string_locator_project",
-  "pid": "59050",
-  "pname": "String locator",
-  "pcpe": "cpe:/a:string_locator_project:string_locator"
+	"vid": "22911",
+	"vname": "String locator project",
+	"vcpe": "cpe:/:string_locator_project",
+	"pid": "59050",
+	"pname": "String locator",
+	"pcpe": "cpe:/a:string_locator_project:string_locator"
 }

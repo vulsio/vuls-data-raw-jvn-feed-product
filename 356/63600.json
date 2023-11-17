@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "63600",
-  "pname": "protobuf-javalite",
-  "pcpe": "cpe:/a:google:protobuf-javalite"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "63600",
+	"pname": "protobuf-javalite",
+	"pcpe": "cpe:/a:google:protobuf-javalite"
 }

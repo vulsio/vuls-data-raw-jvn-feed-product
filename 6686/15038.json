@@ -1,8 +1,8 @@
 {
-  "vid": "6686",
-  "vname": "SpringSource",
-  "vcpe": "cpe:/:springsource",
-  "pid": "15038",
-  "pname": "tc server",
-  "pcpe": "cpe:/a:springsource:tc_server"
+	"vid": "6686",
+	"vname": "SpringSource",
+	"vcpe": "cpe:/:springsource",
+	"pid": "15038",
+	"pname": "tc server",
+	"pcpe": "cpe:/a:springsource:tc_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20533",
-  "vname": "mConnect",
-  "vcpe": "cpe:/:mv",
-  "pid": "52345",
-  "pname": "IDCE",
-  "pcpe": "cpe:/a:mv:idce"
+	"vid": "20533",
+	"vname": "mConnect",
+	"vcpe": "cpe:/:mv",
+	"pid": "52345",
+	"pname": "IDCE",
+	"pcpe": "cpe:/a:mv:idce"
 }

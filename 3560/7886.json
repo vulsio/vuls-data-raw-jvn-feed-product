@@ -1,8 +1,8 @@
 {
-  "vid": "3560",
-  "vname": "etrust",
-  "vcpe": "cpe:/:etrust",
-  "pid": "7886",
-  "pname": "security command center",
-  "pcpe": "cpe:/a:etrust:security_command_center"
+	"vid": "3560",
+	"vname": "etrust",
+	"vcpe": "cpe:/:etrust",
+	"pid": "7886",
+	"pname": "security command center",
+	"pcpe": "cpe:/a:etrust:security_command_center"
 }

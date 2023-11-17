@@ -1,8 +1,8 @@
 {
-  "vid": "23298",
-  "vname": "netwavepr",
-  "vcpe": "cpe:/:netwavepr",
-  "pid": "60318",
-  "pname": "indoor ip camera ファームウェア",
-  "pcpe": "cpe:/o:netwavepr:indoor_ip_camera_firmware"
+	"vid": "23298",
+	"vname": "netwavepr",
+	"vcpe": "cpe:/:netwavepr",
+	"pid": "60318",
+	"pname": "indoor ip camera ファームウェア",
+	"pcpe": "cpe:/o:netwavepr:indoor_ip_camera_firmware"
 }

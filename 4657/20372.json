@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "20372",
-  "pname": "Campus S5300",
-  "pcpe": "cpe:/h:huawei:campus_s5300"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "20372",
+	"pname": "Campus S5300",
+	"pcpe": "cpe:/h:huawei:campus_s5300"
 }

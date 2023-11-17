@@ -1,8 +1,8 @@
 {
-  "vid": "6221",
-  "vname": "packeteer",
-  "vcpe": "cpe:/:packeteer",
-  "pid": "12426",
-  "pname": "policycenter",
-  "pcpe": "cpe:/a:packeteer:policycenter"
+	"vid": "6221",
+	"vname": "packeteer",
+	"vcpe": "cpe:/:packeteer",
+	"pid": "12426",
+	"pname": "policycenter",
+	"pcpe": "cpe:/a:packeteer:policycenter"
 }

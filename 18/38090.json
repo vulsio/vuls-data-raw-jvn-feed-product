@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "38090",
-  "pname": "IBM Power System L922 (9008-22L) ファームウェア",
-  "pcpe": "cpe:/o:ibm:power_system_l922_%289008-22l%29_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "38090",
+	"pname": "IBM Power System L922 (9008-22L) ファームウェア",
+	"pcpe": "cpe:/o:ibm:power_system_l922_%289008-22l%29_firmware"
 }

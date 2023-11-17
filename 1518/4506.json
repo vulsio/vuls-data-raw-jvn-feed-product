@@ -1,8 +1,8 @@
 {
-  "vid": "1518",
-  "vname": "in-mediakg",
-  "vcpe": "cpe:/:in-mediakg",
-  "pid": "4506",
-  "pname": "filterftp",
-  "pcpe": "cpe:/a:in-mediakg:filterftp"
+	"vid": "1518",
+	"vname": "in-mediakg",
+	"vcpe": "cpe:/:in-mediakg",
+	"pid": "4506",
+	"pname": "filterftp",
+	"pcpe": "cpe:/a:in-mediakg:filterftp"
 }

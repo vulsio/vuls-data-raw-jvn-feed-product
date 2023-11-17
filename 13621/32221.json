@@ -1,8 +1,8 @@
 {
-  "vid": "13621",
-  "vname": "LinuxMagic Inc.",
-  "vcpe": "cpe:/:linuxmagic",
-  "pid": "32221",
-  "pname": "MagicSpam",
-  "pcpe": "cpe:/a:linuxmagic:magicspam"
+	"vid": "13621",
+	"vname": "LinuxMagic Inc.",
+	"vcpe": "cpe:/:linuxmagic",
+	"pid": "32221",
+	"pname": "MagicSpam",
+	"pcpe": "cpe:/a:linuxmagic:magicspam"
 }

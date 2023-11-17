@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "40999",
-  "pname": "ManageEngine DataSecurity Plus",
-  "pcpe": "cpe:/a:zohocorp:manageengine_datasecurity_plus"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "40999",
+	"pname": "ManageEngine DataSecurity Plus",
+	"pcpe": "cpe:/a:zohocorp:manageengine_datasecurity_plus"
 }

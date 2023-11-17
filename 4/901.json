@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "901",
-  "pname": "JDK",
-  "pcpe": "cpe:/a:hp:java_jdk"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "901",
+	"pname": "JDK",
+	"pcpe": "cpe:/a:hp:java_jdk"
 }

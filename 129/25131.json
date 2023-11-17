@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "25131",
-  "pname": "EUR Server Enterprise",
-  "pcpe": "cpe:/a:hitachi:eur_server_enterprise"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "25131",
+	"pname": "EUR Server Enterprise",
+	"pcpe": "cpe:/a:hitachi:eur_server_enterprise"
 }

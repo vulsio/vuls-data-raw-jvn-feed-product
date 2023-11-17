@@ -1,8 +1,8 @@
 {
-  "vid": "17520",
-  "vname": "Linux AX25",
-  "vcpe": "cpe:/:linux-ax25",
-  "pid": "41924",
-  "pname": "ax25-tools",
-  "pcpe": "cpe:/a:linux-ax25:ax25-tools"
+	"vid": "17520",
+	"vname": "Linux AX25",
+	"vcpe": "cpe:/:linux-ax25",
+	"pid": "41924",
+	"pname": "ax25-tools",
+	"pcpe": "cpe:/a:linux-ax25:ax25-tools"
 }

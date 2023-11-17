@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "41899",
-  "pname": "Velop WHW0301 ファームウェア",
-  "pcpe": "cpe:/o:linksys:velop_whw0301_firmware"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "41899",
+	"pname": "Velop WHW0301 ファームウェア",
+	"pcpe": "cpe:/o:linksys:velop_whw0301_firmware"
 }

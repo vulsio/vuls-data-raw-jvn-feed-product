@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "12335",
-  "pname": "MySQL Connector/net",
-  "pcpe": "cpe:/a:oracle:mysql_connector%2Fnet"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "12335",
+	"pname": "MySQL Connector/net",
+	"pcpe": "cpe:/a:oracle:mysql_connector%2Fnet"
 }

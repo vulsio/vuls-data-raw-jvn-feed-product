@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "37307",
-  "pname": "TIBCO Rendezvous for z/OS",
-  "pcpe": "cpe:/a:tibco:rendezvous_for_z%2fos"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "37307",
+	"pname": "TIBCO Rendezvous for z/OS",
+	"pcpe": "cpe:/a:tibco:rendezvous_for_z%2fos"
 }

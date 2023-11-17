@@ -1,8 +1,8 @@
 {
-  "vid": "158",
-  "vname": "オープンソースベンダーフォーラム長崎",
-  "vcpe": "cpe:/:misc",
-  "pid": "566",
-  "pname": "長崎県電子県庁システム文書保管システム",
-  "pcpe": "cpe:/a:misc:nagasaki_electron_prefecture_of_muniment_system"
+	"vid": "158",
+	"vname": "オープンソースベンダーフォーラム長崎",
+	"vcpe": "cpe:/:misc",
+	"pid": "566",
+	"pname": "長崎県電子県庁システム文書保管システム",
+	"pcpe": "cpe:/a:misc:nagasaki_electron_prefecture_of_muniment_system"
 }

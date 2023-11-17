@@ -1,8 +1,8 @@
 {
-  "vid": "19201",
-  "vname": "株式会社ジェイテクト",
-  "vcpe": "cpe:/:jtekt",
-  "pid": "49058",
-  "pname": "Plus EFR TCU-6743 ファームウェア",
-  "pcpe": "cpe:/o:jtekt:plus_efr_tcu-6743_firmware"
+	"vid": "19201",
+	"vname": "株式会社ジェイテクト",
+	"vcpe": "cpe:/:jtekt",
+	"pid": "49058",
+	"pname": "Plus EFR TCU-6743 ファームウェア",
+	"pcpe": "cpe:/o:jtekt:plus_efr_tcu-6743_firmware"
 }

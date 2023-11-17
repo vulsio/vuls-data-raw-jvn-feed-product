@@ -1,8 +1,8 @@
 {
-  "vid": "4149",
-  "vname": "software602",
-  "vcpe": "cpe:/:software602",
-  "pid": "8661",
-  "pname": "groupware server",
-  "pcpe": "cpe:/a:software602:groupware_server"
+	"vid": "4149",
+	"vname": "software602",
+	"vcpe": "cpe:/:software602",
+	"pid": "8661",
+	"pname": "groupware server",
+	"pcpe": "cpe:/a:software602:groupware_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16599",
-  "vname": "nfdump project",
-  "vcpe": "cpe:/:nfdump_project",
-  "pid": "39542",
-  "pname": "nfdump",
-  "pcpe": "cpe:/a:nfdump_project:nfdump"
+	"vid": "16599",
+	"vname": "nfdump project",
+	"vcpe": "cpe:/:nfdump_project",
+	"pid": "39542",
+	"pname": "nfdump",
+	"pcpe": "cpe:/a:nfdump_project:nfdump"
 }

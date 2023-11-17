@@ -1,8 +1,8 @@
 {
-  "vid": "9618",
-  "vname": "Power Software",
-  "vcpe": "cpe:/:powersoftware",
-  "pid": "29297",
-  "pname": "PowerISO",
-  "pcpe": "cpe:/a:powersoftware:poweriso"
+	"vid": "9618",
+	"vname": "Power Software",
+	"vcpe": "cpe:/:powersoftware",
+	"pid": "29297",
+	"pname": "PowerISO",
+	"pcpe": "cpe:/a:powersoftware:poweriso"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "9033",
-  "pname": "Cisco TelePresence System 3010",
-  "pcpe": "cpe:/h:cisco:telepresence_system_3010"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "9033",
+	"pname": "Cisco TelePresence System 3010",
+	"pcpe": "cpe:/h:cisco:telepresence_system_3010"
 }

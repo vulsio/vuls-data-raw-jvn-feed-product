@@ -1,8 +1,8 @@
 {
-  "vid": "13104",
-  "vname": "OPC Foundation",
-  "vcpe": "cpe:/:opcfoundation",
-  "pid": "37011",
-  "pname": "UA-AnsiC",
-  "pcpe": "cpe:/a:opcfoundation:unified_architecture_ansic"
+	"vid": "13104",
+	"vname": "OPC Foundation",
+	"vcpe": "cpe:/:opcfoundation",
+	"pid": "37011",
+	"pname": "UA-AnsiC",
+	"pcpe": "cpe:/a:opcfoundation:unified_architecture_ansic"
 }

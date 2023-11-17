@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "46450",
-  "pname": "S7-300 CPU 315F-2 PN ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_s7-300_cpu_315f-2_pn_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "46450",
+	"pname": "S7-300 CPU 315F-2 PN ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_s7-300_cpu_315f-2_pn_firmware"
 }

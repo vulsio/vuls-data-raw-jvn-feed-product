@@ -1,8 +1,8 @@
 {
-  "vid": "11508",
-  "vname": "JAKWEB",
-  "vcpe": "cpe:/:jakweb",
-  "pid": "23425",
-  "pname": "Gecko CMS",
-  "pcpe": "cpe:/a:jakweb:gecko_cms"
+	"vid": "11508",
+	"vname": "JAKWEB",
+	"vcpe": "cpe:/:jakweb",
+	"pid": "23425",
+	"pname": "Gecko CMS",
+	"pcpe": "cpe:/a:jakweb:gecko_cms"
 }

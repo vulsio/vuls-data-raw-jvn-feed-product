@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "42130",
-  "pname": "Omron PLC CS",
-  "pcpe": "cpe:/o:omron:plc_cs"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "42130",
+	"pname": "Omron PLC CS",
+	"pcpe": "cpe:/o:omron:plc_cs"
 }

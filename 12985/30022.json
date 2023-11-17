@@ -1,8 +1,8 @@
 {
-  "vid": "12985",
-  "vname": "SMA Solar Technology AG",
-  "vcpe": "cpe:/:sma_solar_technology_ag",
-  "pid": "30022",
-  "pname": "Sunny Central 850CP XT ファームウェア",
-  "pcpe": "cpe:/o:sma_solar_technology_ag:sunny_central_850cp_xt_firmware"
+	"vid": "12985",
+	"vname": "SMA Solar Technology AG",
+	"vcpe": "cpe:/:sma_solar_technology_ag",
+	"pid": "30022",
+	"pname": "Sunny Central 850CP XT ファームウェア",
+	"pcpe": "cpe:/o:sma_solar_technology_ag:sunny_central_850cp_xt_firmware"
 }

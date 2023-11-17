@@ -1,8 +1,8 @@
 {
-  "vid": "11966",
-  "vname": "Veeam",
-  "vcpe": "cpe:/:veeam",
-  "pid": "45820",
-  "pname": "Veem ONE ファームウェア",
-  "pcpe": "cpe:/o:veeam:one_firmware"
+	"vid": "11966",
+	"vname": "Veeam",
+	"vcpe": "cpe:/:veeam",
+	"pid": "45820",
+	"pname": "Veem ONE ファームウェア",
+	"pcpe": "cpe:/o:veeam:one_firmware"
 }

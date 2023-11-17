@@ -1,8 +1,8 @@
 {
-  "vid": "17590",
-  "vname": "firecracker-microvm",
-  "vcpe": "cpe:/:firecracker-microvm",
-  "pid": "42156",
-  "pname": "Firecracker",
-  "pcpe": "cpe:/a:firecracker-microvm:firecracker"
+	"vid": "17590",
+	"vname": "firecracker-microvm",
+	"vcpe": "cpe:/:firecracker-microvm",
+	"pid": "42156",
+	"pname": "Firecracker",
+	"pcpe": "cpe:/a:firecracker-microvm:firecracker"
 }

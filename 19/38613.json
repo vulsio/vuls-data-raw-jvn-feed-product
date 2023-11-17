@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38613",
-  "pname": "Cisco 250 シリーズ スマート スイッチ ファームウェア",
-  "pcpe": "cpe:/o:cisco:250_series_smart_switches_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38613",
+	"pname": "Cisco 250 シリーズ スマート スイッチ ファームウェア",
+	"pcpe": "cpe:/o:cisco:250_series_smart_switches_firmware"
 }

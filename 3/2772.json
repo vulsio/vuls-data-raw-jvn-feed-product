@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "2772",
-  "pname": "RHEL Supplementary EUS",
-  "pcpe": "cpe:/a:redhat:rhel_supplementary_eus"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "2772",
+	"pname": "RHEL Supplementary EUS",
+	"pcpe": "cpe:/a:redhat:rhel_supplementary_eus"
 }

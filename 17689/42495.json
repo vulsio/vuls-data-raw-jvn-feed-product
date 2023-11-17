@@ -1,8 +1,8 @@
 {
-  "vid": "17689",
-  "vname": "Transcend Information, Inc.",
-  "vcpe": "cpe:/:transcend-info",
-  "pid": "42495",
-  "pname": "WiFiSD ファームウェア",
-  "pcpe": "cpe:/o:transcend-info:wifisd_firmware"
+	"vid": "17689",
+	"vname": "Transcend Information, Inc.",
+	"vcpe": "cpe:/:transcend-info",
+	"pid": "42495",
+	"pname": "WiFiSD ファームウェア",
+	"pcpe": "cpe:/o:transcend-info:wifisd_firmware"
 }

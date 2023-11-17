@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "26464",
-  "pname": "Symantec Mail Security for Domino",
-  "pcpe": "cpe:/a:symantec:mail_security_for_domino"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "26464",
+	"pname": "Symantec Mail Security for Domino",
+	"pcpe": "cpe:/a:symantec:mail_security_for_domino"
 }

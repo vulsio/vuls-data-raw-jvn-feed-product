@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26586",
-  "pname": "Oracle Policy Automation Connector for Siebel",
-  "pcpe": "cpe:/a:oracle:policy_automation_connector_for_siebel"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26586",
+	"pname": "Oracle Policy Automation Connector for Siebel",
+	"pcpe": "cpe:/a:oracle:policy_automation_connector_for_siebel"
 }

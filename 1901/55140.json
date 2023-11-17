@@ -1,8 +1,8 @@
 {
-  "vid": "1901",
-  "vname": "The Qt Company",
-  "vcpe": "cpe:/:qt",
-  "pid": "55140",
-  "pname": "Qt SVG",
-  "pcpe": "cpe:/a:qt:qtsvg"
+	"vid": "1901",
+	"vname": "The Qt Company",
+	"vcpe": "cpe:/:qt",
+	"pid": "55140",
+	"pname": "Qt SVG",
+	"pcpe": "cpe:/a:qt:qtsvg"
 }

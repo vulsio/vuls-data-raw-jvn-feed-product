@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "11527",
-  "pname": "sysinternals debugview",
-  "pcpe": "cpe:/a:microsoft:sysinternals_debugview"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "11527",
+	"pname": "sysinternals debugview",
+	"pcpe": "cpe:/a:microsoft:sysinternals_debugview"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "31831",
-  "pname": "Cisco Adaptive Security Appliance 5540 ファームウェア",
-  "pcpe": "cpe:/o:cisco:adaptive_security_appliance_5540_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "31831",
+	"pname": "Cisco Adaptive Security Appliance 5540 ファームウェア",
+	"pcpe": "cpe:/o:cisco:adaptive_security_appliance_5540_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "31489",
-  "pname": "Intel Dual Band Wireless-AC 8260",
-  "pcpe": "cpe:/o:intel:dual_band_wireless-ac_8260"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "31489",
+	"pname": "Intel Dual Band Wireless-AC 8260",
+	"pcpe": "cpe:/o:intel:dual_band_wireless-ac_8260"
 }

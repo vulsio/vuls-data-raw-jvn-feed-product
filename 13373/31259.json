@@ -1,8 +1,8 @@
 {
-  "vid": "13373",
-  "vname": "EPFL (Scala)",
-  "vcpe": "cpe:/:scala-lang",
-  "pid": "31259",
-  "pname": "Scala",
-  "pcpe": "cpe:/a:scala-lang:scala"
+	"vid": "13373",
+	"vname": "EPFL (Scala)",
+	"vcpe": "cpe:/:scala-lang",
+	"pid": "31259",
+	"pname": "Scala",
+	"pcpe": "cpe:/a:scala-lang:scala"
 }

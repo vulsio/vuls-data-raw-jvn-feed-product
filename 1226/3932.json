@@ -1,8 +1,8 @@
 {
-  "vid": "1226",
-  "vname": "Fork CMS",
-  "vcpe": "cpe:/:fork-cms",
-  "pid": "3932",
-  "pname": "Fork CMS",
-  "pcpe": "cpe:/a:fork-cms:fork_cms"
+	"vid": "1226",
+	"vname": "Fork CMS",
+	"vcpe": "cpe:/:fork-cms",
+	"pid": "3932",
+	"pname": "Fork CMS",
+	"pcpe": "cpe:/a:fork-cms:fork_cms"
 }

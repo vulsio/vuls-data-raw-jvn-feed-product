@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "42770",
-  "pname": "SDM 429W ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sdm429w_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "42770",
+	"pname": "SDM 429W ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sdm429w_firmware"
 }

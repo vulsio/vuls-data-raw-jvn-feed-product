@@ -1,8 +1,8 @@
 {
-  "vid": "13165",
-  "vname": "Mirion Technologies",
-  "vcpe": "cpe:/:mirion_technologies",
-  "pid": "30721",
-  "pname": "MESH Repeater ファームウェア",
-  "pcpe": "cpe:/o:mirion_technologies:wrm2_mesh_repeater_firmware"
+	"vid": "13165",
+	"vname": "Mirion Technologies",
+	"vcpe": "cpe:/:mirion_technologies",
+	"pid": "30721",
+	"pname": "MESH Repeater ファームウェア",
+	"pcpe": "cpe:/o:mirion_technologies:wrm2_mesh_repeater_firmware"
 }

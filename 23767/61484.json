@@ -1,8 +1,8 @@
 {
-  "vid": "23767",
-  "vname": "riscv",
-  "vcpe": "cpe:/:riscv",
-  "pid": "61484",
-  "pname": "spike risc-v isa simulator",
-  "pcpe": "cpe:/a:riscv:spike_risc-v_isa_simulator"
+	"vid": "23767",
+	"vname": "riscv",
+	"vcpe": "cpe:/:riscv",
+	"pid": "61484",
+	"pname": "spike risc-v isa simulator",
+	"pcpe": "cpe:/a:riscv:spike_risc-v_isa_simulator"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15304",
-  "vname": "xycms_project",
-  "vcpe": "cpe:/:xycms_project",
-  "pid": "35441",
-  "pname": "xycms",
-  "pcpe": "cpe:/a:xycms_project:xycms"
+	"vid": "15304",
+	"vname": "xycms_project",
+	"vcpe": "cpe:/:xycms_project",
+	"pid": "35441",
+	"pname": "xycms",
+	"pcpe": "cpe:/a:xycms_project:xycms"
 }

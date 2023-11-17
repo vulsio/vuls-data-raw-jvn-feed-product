@@ -1,8 +1,8 @@
 {
-  "vid": "13458",
-  "vname": "AbiSource",
-  "vcpe": "cpe:/:abisource",
-  "pid": "31772",
-  "pname": "AbiWord",
-  "pcpe": "cpe:/a:abisource:abiword"
+	"vid": "13458",
+	"vname": "AbiSource",
+	"vcpe": "cpe:/:abisource",
+	"pid": "31772",
+	"pname": "AbiWord",
+	"pcpe": "cpe:/a:abisource:abiword"
 }

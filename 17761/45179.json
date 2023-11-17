@@ -1,8 +1,8 @@
 {
-  "vid": "17761",
-  "vname": "Redis",
-  "vcpe": "cpe:/:redislabs",
-  "pid": "45179",
-  "pname": "Redis",
-  "pcpe": "cpe:/a:redislabs:redis"
+	"vid": "17761",
+	"vname": "Redis",
+	"vcpe": "cpe:/:redislabs",
+	"pid": "45179",
+	"pname": "Redis",
+	"pcpe": "cpe:/a:redislabs:redis"
 }

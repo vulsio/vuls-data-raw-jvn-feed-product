@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38569",
-  "pname": "IP Phone 7811 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ip_phone_7811_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38569",
+	"pname": "IP Phone 7811 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ip_phone_7811_firmware"
 }

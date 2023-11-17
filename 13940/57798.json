@@ -1,8 +1,8 @@
 {
-  "vid": "13940",
-  "vname": "Wire Swiss GmbH",
-  "vcpe": "cpe:/:wire",
-  "pid": "57798",
-  "pname": "wire-ios-transport",
-  "pcpe": "cpe:/a:wire:wire-ios-transport"
+	"vid": "13940",
+	"vname": "Wire Swiss GmbH",
+	"vcpe": "cpe:/:wire",
+	"pid": "57798",
+	"pname": "wire-ios-transport",
+	"pcpe": "cpe:/a:wire:wire-ios-transport"
 }

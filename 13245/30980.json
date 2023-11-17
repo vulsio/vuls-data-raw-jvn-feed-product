@@ -1,8 +1,8 @@
 {
-  "vid": "13245",
-  "vname": "Envitech",
-  "vcpe": "cpe:/:envitech",
-  "pid": "30980",
-  "pname": "EnviDAS Ultimate",
-  "pcpe": "cpe:/a:envitech:envidas_ultimate"
+	"vid": "13245",
+	"vname": "Envitech",
+	"vcpe": "cpe:/:envitech",
+	"pid": "30980",
+	"pname": "EnviDAS Ultimate",
+	"pcpe": "cpe:/a:envitech:envidas_ultimate"
 }

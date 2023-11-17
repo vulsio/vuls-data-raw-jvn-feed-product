@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "2641",
-  "pname": "Microsoft WMI Administrative Tools",
-  "pcpe": "cpe:/a:microsoft:wmi_administrative_tools"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "2641",
+	"pname": "Microsoft WMI Administrative Tools",
+	"pcpe": "cpe:/a:microsoft:wmi_administrative_tools"
 }

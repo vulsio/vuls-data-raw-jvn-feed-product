@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "61154",
-  "pname": "HP EliteBook 745 G4 Notebook PC ファームウェア",
-  "pcpe": "cpe:/o:hp:elitebook_745_g4_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "61154",
+	"pname": "HP EliteBook 745 G4 Notebook PC ファームウェア",
+	"pcpe": "cpe:/o:hp:elitebook_745_g4_firmware"
 }

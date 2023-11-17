@@ -1,8 +1,8 @@
 {
-  "vid": "20190",
-  "vname": "Unidocs Inc.",
-  "vcpe": "cpe:/:unidocs",
-  "pid": "51393",
-  "pname": "ezPDF Reader",
-  "pcpe": "cpe:/a:unidocs:ezpdf_reader"
+	"vid": "20190",
+	"vname": "Unidocs Inc.",
+	"vcpe": "cpe:/:unidocs",
+	"pid": "51393",
+	"pname": "ezPDF Reader",
+	"pcpe": "cpe:/a:unidocs:ezpdf_reader"
 }

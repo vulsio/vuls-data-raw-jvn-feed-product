@@ -1,8 +1,8 @@
 {
-  "vid": "17205",
-  "vname": "Status 301",
-  "vcpe": "cpe:/:status301",
-  "pid": "53068",
-  "pname": "CoolClock",
-  "pcpe": "cpe:/a:status301:coolclock"
+	"vid": "17205",
+	"vname": "Status 301",
+	"vcpe": "cpe:/:status301",
+	"pid": "53068",
+	"pname": "CoolClock",
+	"pcpe": "cpe:/a:status301:coolclock"
 }

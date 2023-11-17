@@ -1,8 +1,8 @@
 {
-  "vid": "4818",
-  "vname": "intersystems",
-  "vcpe": "cpe:/:intersystems",
-  "pid": "10215",
-  "pname": "cache database",
-  "pcpe": "cpe:/a:intersystems:cache_database"
+	"vid": "4818",
+	"vname": "intersystems",
+	"vcpe": "cpe:/:intersystems",
+	"pid": "10215",
+	"pname": "cache database",
+	"pcpe": "cpe:/a:intersystems:cache_database"
 }

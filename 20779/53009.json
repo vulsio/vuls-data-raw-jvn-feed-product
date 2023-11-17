@@ -1,8 +1,8 @@
 {
-  "vid": "20779",
-  "vname": "Display Users project",
-  "vcpe": "cpe:/:wp-display-users_project",
-  "pid": "53009",
-  "pname": "Display Users",
-  "pcpe": "cpe:/a:wp-display-users_project:wp-display-users"
+	"vid": "20779",
+	"vname": "Display Users project",
+	"vcpe": "cpe:/:wp-display-users_project",
+	"pid": "53009",
+	"pname": "Display Users",
+	"pcpe": "cpe:/a:wp-display-users_project:wp-display-users"
 }

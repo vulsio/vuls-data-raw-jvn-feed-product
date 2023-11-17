@@ -1,8 +1,8 @@
 {
-  "vid": "6488",
-  "vname": "notmuchmail.org",
-  "vcpe": "cpe:/:notmuchmail",
-  "pid": "13046",
-  "pname": "Notmuch",
-  "pcpe": "cpe:/a:notmuchmail:notmuch"
+	"vid": "6488",
+	"vname": "notmuchmail.org",
+	"vcpe": "cpe:/:notmuchmail",
+	"pid": "13046",
+	"pname": "Notmuch",
+	"pcpe": "cpe:/a:notmuchmail:notmuch"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24070",
-  "vname": "WPExperts",
-  "vcpe": "cpe:/:wpexperts",
-  "pid": "62237",
-  "pname": "New User Approve",
-  "pcpe": "cpe:/a:wpexperts:new_user_approve"
+	"vid": "24070",
+	"vname": "WPExperts",
+	"vcpe": "cpe:/:wpexperts",
+	"pid": "62237",
+	"pname": "New User Approve",
+	"pcpe": "cpe:/a:wpexperts:new_user_approve"
 }

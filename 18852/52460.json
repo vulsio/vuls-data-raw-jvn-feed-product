@@ -1,8 +1,8 @@
 {
-  "vid": "18852",
-  "vname": "ピーアンドエフ",
-  "vcpe": "cpe:/:pepperl-fuchs",
-  "pid": "52460",
-  "pname": "WHA-GW-F2D2-0-AS-Z2-ETH ファームウェア",
-  "pcpe": "cpe:/o:pepperl-fuchs:wha-gw-f2d2-0-as-z2-eth_firmware"
+	"vid": "18852",
+	"vname": "ピーアンドエフ",
+	"vcpe": "cpe:/:pepperl-fuchs",
+	"pid": "52460",
+	"pname": "WHA-GW-F2D2-0-AS-Z2-ETH ファームウェア",
+	"pcpe": "cpe:/o:pepperl-fuchs:wha-gw-f2d2-0-as-z2-eth_firmware"
 }

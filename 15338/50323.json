@@ -1,8 +1,8 @@
 {
-  "vid": "15338",
-  "vname": "Zhejiang Uniview Technologies Co.,Ltd.",
-  "vcpe": "cpe:/:uniview",
-  "pid": "50323",
-  "pname": "ISC2500-S ファームウェア",
-  "pcpe": "cpe:/o:uniview:isc2500-s_firmware"
+	"vid": "15338",
+	"vname": "Zhejiang Uniview Technologies Co.,Ltd.",
+	"vcpe": "cpe:/:uniview",
+	"pid": "50323",
+	"pname": "ISC2500-S ファームウェア",
+	"pcpe": "cpe:/o:uniview:isc2500-s_firmware"
 }

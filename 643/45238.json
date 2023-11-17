@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "45238",
-  "pname": "Latitude 7200 2 in 1 ファームウェア",
-  "pcpe": "cpe:/o:dell:latitude_7200_2_in_1_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "45238",
+	"pname": "Latitude 7200 2 in 1 ファームウェア",
+	"pcpe": "cpe:/o:dell:latitude_7200_2_in_1_firmware"
 }

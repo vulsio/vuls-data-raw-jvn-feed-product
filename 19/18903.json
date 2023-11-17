@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18903",
-  "pname": "Cisco Scientific Atlanta DPQ3925 8x4 DOCSIS 3.0 Wireless Residential Gateway with EDVA",
-  "pcpe": "cpe:/h:cisco:scientific_atlanta_dpq3925"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18903",
+	"pname": "Cisco Scientific Atlanta DPQ3925 8x4 DOCSIS 3.0 Wireless Residential Gateway with EDVA",
+	"pcpe": "cpe:/h:cisco:scientific_atlanta_dpq3925"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1385",
-  "vname": "BMC Software",
-  "vcpe": "cpe:/:bmc",
-  "pid": "38036",
-  "pname": "Remedy Mid Tier",
-  "pcpe": "cpe:/a:bmc:remedy_mid-tier"
+	"vid": "1385",
+	"vname": "BMC Software",
+	"vcpe": "cpe:/:bmc",
+	"pid": "38036",
+	"pname": "Remedy Mid Tier",
+	"pcpe": "cpe:/a:bmc:remedy_mid-tier"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10705",
-  "vname": "zoodles",
-  "vcpe": "cpe:/:zoodles",
-  "pid": "22227",
-  "pname": "kid mode: free games + lock",
-  "pcpe": "cpe:/a:zoodles:kid_mode%3a_free_games_%2b_lock"
+	"vid": "10705",
+	"vname": "zoodles",
+	"vcpe": "cpe:/:zoodles",
+	"pid": "22227",
+	"pname": "kid mode: free games + lock",
+	"pcpe": "cpe:/a:zoodles:kid_mode%3a_free_games_%2b_lock"
 }

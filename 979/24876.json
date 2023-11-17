@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "24876",
-  "pname": "HipChat",
-  "pcpe": "cpe:/a:atlassian:hipchat"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "24876",
+	"pname": "HipChat",
+	"pcpe": "cpe:/a:atlassian:hipchat"
 }

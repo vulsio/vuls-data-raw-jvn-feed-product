@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "23087",
-  "pname": "AT-8648T/2SP ファームウェア",
-  "pcpe": "cpe:/o:allied_telesis_k.k.:at-8648t%2f2sp_firmware"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "23087",
+	"pname": "AT-8648T/2SP ファームウェア",
+	"pcpe": "cpe:/o:allied_telesis_k.k.:at-8648t%2f2sp_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "754",
-  "vname": "Puppet",
-  "vcpe": "cpe:/:puppetlabs",
-  "pid": "34438",
-  "pname": "razor-server",
-  "pcpe": "cpe:/a:puppetlabs:razor-server"
+	"vid": "754",
+	"vname": "Puppet",
+	"vcpe": "cpe:/:puppetlabs",
+	"pid": "34438",
+	"pname": "razor-server",
+	"pcpe": "cpe:/a:puppetlabs:razor-server"
 }

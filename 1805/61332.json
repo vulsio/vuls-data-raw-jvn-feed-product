@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "61332",
-  "pname": "tl-wr742n ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-wr742n_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "61332",
+	"pname": "tl-wr742n ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-wr742n_firmware"
 }

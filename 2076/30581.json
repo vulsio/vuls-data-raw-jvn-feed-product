@@ -1,8 +1,8 @@
 {
-  "vid": "2076",
-  "vname": "AfterLogic",
-  "vcpe": "cpe:/:afterlogic",
-  "pid": "30581",
-  "pname": "Aurora",
-  "pcpe": "cpe:/a:afterlogic:aurora"
+	"vid": "2076",
+	"vname": "AfterLogic",
+	"vcpe": "cpe:/:afterlogic",
+	"pid": "30581",
+	"pname": "Aurora",
+	"pcpe": "cpe:/a:afterlogic:aurora"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15213",
-  "vname": "ABBYY",
-  "vcpe": "cpe:/:abbyy",
-  "pid": "35207",
-  "pname": "ABBYY FlexiCapture",
-  "pcpe": "cpe:/a:abbyy:flexicapture"
+	"vid": "15213",
+	"vname": "ABBYY",
+	"vcpe": "cpe:/:abbyy",
+	"pid": "35207",
+	"pname": "ABBYY FlexiCapture",
+	"pcpe": "cpe:/a:abbyy:flexicapture"
 }

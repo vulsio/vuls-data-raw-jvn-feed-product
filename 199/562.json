@@ -1,8 +1,8 @@
 {
-  "vid": "199",
-  "vname": "インタアクト",
-  "vcpe": "cpe:/:misc",
-  "pid": "562",
-  "pname": "trac-ja",
-  "pcpe": "cpe:/a:misc:interact_trac"
+	"vid": "199",
+	"vname": "インタアクト",
+	"vcpe": "cpe:/:misc",
+	"pid": "562",
+	"pname": "trac-ja",
+	"pcpe": "cpe:/a:misc:interact_trac"
 }

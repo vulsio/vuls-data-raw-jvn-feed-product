@@ -1,8 +1,8 @@
 {
-  "vid": "269",
-  "vname": "RSAセキュリティ",
-  "vcpe": "cpe:/:rsa",
-  "pid": "34417",
-  "pname": "RSA Web Threat Detection",
-  "pcpe": "cpe:/a:rsa:threat_detection"
+	"vid": "269",
+	"vname": "RSAセキュリティ",
+	"vcpe": "cpe:/:rsa",
+	"pid": "34417",
+	"pname": "RSA Web Threat Detection",
+	"pcpe": "cpe:/a:rsa:threat_detection"
 }

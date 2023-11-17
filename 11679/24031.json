@@ -1,8 +1,8 @@
 {
-  "vid": "11679",
-  "vname": "Y-cam Solutions Ltd.",
-  "vcpe": "cpe:/:y-cam",
-  "pid": "24031",
-  "pname": "YCB001 ファームウェア",
-  "pcpe": "cpe:/o:y-cam:ycb001_firmware"
+	"vid": "11679",
+	"vname": "Y-cam Solutions Ltd.",
+	"vcpe": "cpe:/:y-cam",
+	"pid": "24031",
+	"pname": "YCB001 ファームウェア",
+	"pcpe": "cpe:/o:y-cam:ycb001_firmware"
 }

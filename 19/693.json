@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "693",
-  "pname": "Cisco Element Management Framework",
-  "pcpe": "cpe:/a:cisco:element_management_framework"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "693",
+	"pname": "Cisco Element Management Framework",
+	"pcpe": "cpe:/a:cisco:element_management_framework"
 }

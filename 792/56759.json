@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56759",
-  "pname": "LTE7461-M602 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:lte7461-m602_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56759",
+	"pname": "LTE7461-M602 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:lte7461-m602_firmware"
 }

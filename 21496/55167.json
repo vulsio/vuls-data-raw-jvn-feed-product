@@ -1,8 +1,8 @@
 {
-  "vid": "21496",
-  "vname": "ws scrcpy project",
-  "vcpe": "cpe:/:ws_scrcpy_project",
-  "pid": "55167",
-  "pname": "ws scrcpy",
-  "pcpe": "cpe:/a:ws_scrcpy_project:ws_scrcpy"
+	"vid": "21496",
+	"vname": "ws scrcpy project",
+	"vcpe": "cpe:/:ws_scrcpy_project",
+	"pid": "55167",
+	"pname": "ws scrcpy",
+	"pcpe": "cpe:/a:ws_scrcpy_project:ws_scrcpy"
 }

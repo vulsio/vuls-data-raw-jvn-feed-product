@@ -1,8 +1,8 @@
 {
-  "vid": "30",
-  "vname": "ターボリナックス",
-  "vcpe": "cpe:/:turbolinux",
-  "pid": "628",
-  "pname": "Turbolinux Advanced Server",
-  "pcpe": "cpe:/o:turbolinux:turbolinux_advanced_server"
+	"vid": "30",
+	"vname": "ターボリナックス",
+	"vcpe": "cpe:/:turbolinux",
+	"pid": "628",
+	"pname": "Turbolinux Advanced Server",
+	"pcpe": "cpe:/o:turbolinux:turbolinux_advanced_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "39648",
-  "pname": "BMENOC0301 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:bmenoc0301_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "39648",
+	"pname": "BMENOC0301 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:bmenoc0301_firmware"
 }

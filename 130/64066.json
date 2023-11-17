@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "64066",
-  "pname": "c++ compiler classic",
-  "pcpe": "cpe:/a:intel:c%2B%2B_compiler_classic"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "64066",
+	"pname": "c++ compiler classic",
+	"pcpe": "cpe:/a:intel:c%2B%2B_compiler_classic"
 }

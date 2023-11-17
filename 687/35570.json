@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "35570",
-  "pname": "TIBCO Spotfire Web Player Client",
-  "pcpe": "cpe:/a:tibco:spotfire_web_player_client"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "35570",
+	"pname": "TIBCO Spotfire Web Player Client",
+	"pcpe": "cpe:/a:tibco:spotfire_web_player_client"
 }

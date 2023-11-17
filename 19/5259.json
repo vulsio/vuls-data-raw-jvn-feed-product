@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5259",
-  "pname": "Cisco SPA 512G 1-Line IP Phone",
-  "pcpe": "cpe:/h:cisco:spa_512g_1-line_ip_phone"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5259",
+	"pname": "Cisco SPA 512G 1-Line IP Phone",
+	"pcpe": "cpe:/h:cisco:spa_512g_1-line_ip_phone"
 }

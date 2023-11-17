@@ -1,8 +1,8 @@
 {
-  "vid": "13373",
-  "vname": "EPFL (Scala)",
-  "vcpe": "cpe:/:scala-lang",
-  "pid": "63105",
-  "pname": "scala-collection-compat",
-  "pcpe": "cpe:/a:scala-lang:scala-collection-compat"
+	"vid": "13373",
+	"vname": "EPFL (Scala)",
+	"vcpe": "cpe:/:scala-lang",
+	"pid": "63105",
+	"pname": "scala-collection-compat",
+	"pcpe": "cpe:/a:scala-lang:scala-collection-compat"
 }

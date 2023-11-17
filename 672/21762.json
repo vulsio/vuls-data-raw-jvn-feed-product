@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "21762",
-  "pname": "ManageEngine Social IT Plus",
-  "pcpe": "cpe:/a:zohocorp:manageengine_it_plus"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "21762",
+	"pname": "ManageEngine Social IT Plus",
+	"pcpe": "cpe:/a:zohocorp:manageengine_it_plus"
 }

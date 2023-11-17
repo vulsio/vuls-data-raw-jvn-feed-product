@@ -1,8 +1,8 @@
 {
-  "vid": "1555",
-  "vname": "Kodak",
-  "vcpe": "cpe:/:kodak",
-  "pid": "4554",
-  "pname": "INSITE",
-  "pcpe": "cpe:/a:kodak:insite"
+	"vid": "1555",
+	"vname": "Kodak",
+	"vcpe": "cpe:/:kodak",
+	"pid": "4554",
+	"pname": "INSITE",
+	"pcpe": "cpe:/a:kodak:insite"
 }

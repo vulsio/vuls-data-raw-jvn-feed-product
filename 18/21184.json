@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "21184",
-  "pname": "IBM 1G switch for Bladecenter",
-  "pcpe": "cpe:/h:ibm:bladecenter_1g"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "21184",
+	"pname": "IBM 1G switch for Bladecenter",
+	"pcpe": "cpe:/h:ibm:bladecenter_1g"
 }

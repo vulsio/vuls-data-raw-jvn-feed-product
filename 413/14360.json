@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "14360",
-  "pname": "teamon import object activex control",
-  "pcpe": "cpe:/a:blackberry:teamon_import_object_activex_control"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "14360",
+	"pname": "teamon import object activex control",
+	"pcpe": "cpe:/a:blackberry:teamon_import_object_activex_control"
 }

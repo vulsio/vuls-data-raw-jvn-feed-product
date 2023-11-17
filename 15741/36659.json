@@ -1,8 +1,8 @@
 {
-  "vid": "15741",
-  "vname": "Roche Diagnostics",
-  "vcpe": "cpe:/:roche",
-  "pid": "36659",
-  "pname": "CoaguChek Pro II ファームウェア",
-  "pcpe": "cpe:/o:roche:coaguchek_pro_ii_firmware"
+	"vid": "15741",
+	"vname": "Roche Diagnostics",
+	"vcpe": "cpe:/:roche",
+	"pid": "36659",
+	"pname": "CoaguChek Pro II ファームウェア",
+	"pcpe": "cpe:/o:roche:coaguchek_pro_ii_firmware"
 }

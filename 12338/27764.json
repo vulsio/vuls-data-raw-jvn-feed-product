@@ -1,8 +1,8 @@
 {
-  "vid": "12338",
-  "vname": "OneLogin, Inc.",
-  "vcpe": "cpe:/:onelogin",
-  "pid": "27764",
-  "pname": "Ruby-saml",
-  "pcpe": "cpe:/a:onelogin:ruby-saml"
+	"vid": "12338",
+	"vname": "OneLogin, Inc.",
+	"vcpe": "cpe:/:onelogin",
+	"pid": "27764",
+	"pname": "Ruby-saml",
+	"pcpe": "cpe:/a:onelogin:ruby-saml"
 }

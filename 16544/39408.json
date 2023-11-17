@@ -1,8 +1,8 @@
 {
-  "vid": "16544",
-  "vname": "Arlo",
-  "vcpe": "cpe:/:arlo",
-  "pid": "39408",
-  "pname": "VMB3500 ファームウェア",
-  "pcpe": "cpe:/o:arlo:vmb3500_firmware"
+	"vid": "16544",
+	"vname": "Arlo",
+	"vcpe": "cpe:/:arlo",
+	"pid": "39408",
+	"pname": "VMB3500 ファームウェア",
+	"pcpe": "cpe:/o:arlo:vmb3500_firmware"
 }

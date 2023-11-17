@@ -1,8 +1,8 @@
 {
-  "vid": "16163",
-  "vname": "HID Global Corporation",
-  "vcpe": "cpe:/:hidglobal",
-  "pid": "37883",
-  "pname": "EasyLobby Solo",
-  "pcpe": "cpe:/a:hidglobal:easylobby_solo"
+	"vid": "16163",
+	"vname": "HID Global Corporation",
+	"vcpe": "cpe:/:hidglobal",
+	"pid": "37883",
+	"pname": "EasyLobby Solo",
+	"pcpe": "cpe:/a:hidglobal:easylobby_solo"
 }

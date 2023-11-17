@@ -1,8 +1,8 @@
 {
-  "vid": "4381",
-  "vname": "Katello Project",
-  "vcpe": "cpe:/:katello",
-  "pid": "16970",
-  "pname": "katello-configure",
-  "pcpe": "cpe:/a:katello:katello-configure"
+	"vid": "4381",
+	"vname": "Katello Project",
+	"vcpe": "cpe:/:katello",
+	"pid": "16970",
+	"pname": "katello-configure",
+	"pcpe": "cpe:/a:katello:katello-configure"
 }

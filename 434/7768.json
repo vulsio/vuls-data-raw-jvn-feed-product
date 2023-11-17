@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "7768",
-  "pname": "documentum applicationxtender workflow manager",
-  "pcpe": "cpe:/a:emc:documentum_applicationxtender_workflow_manager"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "7768",
+	"pname": "documentum applicationxtender workflow manager",
+	"pcpe": "cpe:/a:emc:documentum_applicationxtender_workflow_manager"
 }

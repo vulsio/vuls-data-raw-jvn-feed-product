@@ -1,8 +1,8 @@
 {
-  "vid": "11519",
-  "vname": "Content Rating project",
-  "vcpe": "cpe:/:content_rating_project",
-  "pid": "23454",
-  "pname": "Content Rating",
-  "pcpe": "cpe:/a:content_rating_project:content_rating"
+	"vid": "11519",
+	"vname": "Content Rating project",
+	"vcpe": "cpe:/:content_rating_project",
+	"pid": "23454",
+	"pname": "Content Rating",
+	"pcpe": "cpe:/a:content_rating_project:content_rating"
 }

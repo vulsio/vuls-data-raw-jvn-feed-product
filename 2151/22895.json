@@ -1,8 +1,8 @@
 {
-  "vid": "2151",
-  "vname": "Alibaba Group",
-  "vcpe": "cpe:/:alibaba",
-  "pid": "22895",
-  "pname": "alibaba",
-  "pcpe": "cpe:/a:alibaba:alibaba"
+	"vid": "2151",
+	"vname": "Alibaba Group",
+	"vcpe": "cpe:/:alibaba",
+	"pid": "22895",
+	"pname": "alibaba",
+	"pcpe": "cpe:/a:alibaba:alibaba"
 }

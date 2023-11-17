@@ -1,8 +1,8 @@
 {
-  "vid": "4262",
-  "vname": "ジョンソンコントロールズ",
-  "vcpe": "cpe:/:johnsoncontrols",
-  "pid": "48316",
-  "pname": "Facility Explorer SNC Series Supervisory Controller",
-  "pcpe": "cpe:/a:johnsoncontrols:facility_explorer_snc_series_supervisory_controller"
+	"vid": "4262",
+	"vname": "ジョンソンコントロールズ",
+	"vcpe": "cpe:/:johnsoncontrols",
+	"pid": "48316",
+	"pname": "Facility Explorer SNC Series Supervisory Controller",
+	"pcpe": "cpe:/a:johnsoncontrols:facility_explorer_snc_series_supervisory_controller"
 }

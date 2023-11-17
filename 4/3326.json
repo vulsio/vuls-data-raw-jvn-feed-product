@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3326",
-  "pname": "HP LaserJet Enterprise 500 color M551",
-  "pcpe": "cpe:/h:hp:laserjet_enterprise_500_color"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3326",
+	"pname": "HP LaserJet Enterprise 500 color M551",
+	"pcpe": "cpe:/h:hp:laserjet_enterprise_500_color"
 }

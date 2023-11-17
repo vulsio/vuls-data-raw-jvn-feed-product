@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "1677",
-  "pname": "Adobe ColdFusion",
-  "pcpe": "cpe:/a:adobe:coldfusion"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "1677",
+	"pname": "Adobe ColdFusion",
+	"pcpe": "cpe:/a:adobe:coldfusion"
 }

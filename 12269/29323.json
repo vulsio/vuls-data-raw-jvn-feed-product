@@ -1,8 +1,8 @@
 {
-  "vid": "12269",
-  "vname": "Teradata Corporation",
-  "vcpe": "cpe:/:teradata",
-  "pid": "29323",
-  "pname": "Teradata Gateway",
-  "pcpe": "cpe:/a:teradata:teradata_gateway"
+	"vid": "12269",
+	"vname": "Teradata Corporation",
+	"vcpe": "cpe:/:teradata",
+	"pid": "29323",
+	"pname": "Teradata Gateway",
+	"pcpe": "cpe:/a:teradata:teradata_gateway"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "3415",
-  "pname": "GroupWise Messenger",
-  "pcpe": "cpe:/a:novell:groupwise_messenger"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "3415",
+	"pname": "GroupWise Messenger",
+	"pcpe": "cpe:/a:novell:groupwise_messenger"
 }

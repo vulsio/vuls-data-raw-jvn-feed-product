@@ -1,8 +1,8 @@
 {
-  "vid": "1337",
-  "vname": "Alcatel-Lucent",
-  "vcpe": "cpe:/:alcatel-lucent",
-  "pid": "4165",
-  "pname": "omnivista",
-  "pcpe": "cpe:/a:alcatel-lucent:omnivista"
+	"vid": "1337",
+	"vname": "Alcatel-Lucent",
+	"vcpe": "cpe:/:alcatel-lucent",
+	"pid": "4165",
+	"pname": "omnivista",
+	"pcpe": "cpe:/a:alcatel-lucent:omnivista"
 }

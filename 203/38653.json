@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "38653",
-  "pname": "RICOH SP 4510DN ファームウェア",
-  "pcpe": "cpe:/o:ricoh:sp_4510dn_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "38653",
+	"pname": "RICOH SP 4510DN ファームウェア",
+	"pcpe": "cpe:/o:ricoh:sp_4510dn_firmware"
 }

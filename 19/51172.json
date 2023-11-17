@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "51172",
-  "pname": "Cisco SF220-50 ファームウェア",
-  "pcpe": "cpe:/o:cisco:sf220-50_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "51172",
+	"pname": "Cisco SF220-50 ファームウェア",
+	"pcpe": "cpe:/o:cisco:sf220-50_firmware"
 }

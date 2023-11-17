@@ -1,8 +1,8 @@
 {
-  "vid": "16036",
-  "vname": "Drager",
-  "vcpe": "cpe:/:draeger",
-  "pid": "37529",
-  "pname": "Infinity Delta XLファームウェア",
-  "pcpe": "cpe:/o:draeger:delta_xl_firmware"
+	"vid": "16036",
+	"vname": "Drager",
+	"vcpe": "cpe:/:draeger",
+	"pid": "37529",
+	"pname": "Infinity Delta XLファームウェア",
+	"pcpe": "cpe:/o:draeger:delta_xl_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "379",
-  "vname": "Zimbra",
-  "vcpe": "cpe:/:zimbra",
-  "pid": "44030",
-  "pname": "Zimbra Mailbox",
-  "pcpe": "cpe:/a:zimbra:zm-mailbox"
+	"vid": "379",
+	"vname": "Zimbra",
+	"vcpe": "cpe:/:zimbra",
+	"pid": "44030",
+	"pname": "Zimbra Mailbox",
+	"pcpe": "cpe:/a:zimbra:zm-mailbox"
 }

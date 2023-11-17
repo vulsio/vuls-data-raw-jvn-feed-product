@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31457",
-  "pname": "TL-R488",
-  "pcpe": "cpe:/h:tp-link:tl-r488"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31457",
+	"pname": "TL-R488",
+	"pcpe": "cpe:/h:tp-link:tl-r488"
 }

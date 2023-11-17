@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "23715",
-  "pname": "EMC Secure Remote Services",
-  "pcpe": "cpe:/a:emc:secure_remote_services"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "23715",
+	"pname": "EMC Secure Remote Services",
+	"pcpe": "cpe:/a:emc:secure_remote_services"
 }

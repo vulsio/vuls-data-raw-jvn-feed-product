@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "30723",
-  "pname": "CA Identity Manager 仮想アプライアンス",
-  "pcpe": "cpe:/a:ca:identity_manager_virtual_appliance"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "30723",
+	"pname": "CA Identity Manager 仮想アプライアンス",
+	"pcpe": "cpe:/a:ca:identity_manager_virtual_appliance"
 }

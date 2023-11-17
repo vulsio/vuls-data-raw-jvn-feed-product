@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3689",
-  "pname": "HP StorageWorks P2000 G3 MSA",
-  "pcpe": "cpe:/a:hp:storageworks_p2000_g3_msa"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3689",
+	"pname": "HP StorageWorks P2000 G3 MSA",
+	"pcpe": "cpe:/a:hp:storageworks_p2000_g3_msa"
 }

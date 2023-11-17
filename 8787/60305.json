@@ -1,8 +1,8 @@
 {
-  "vid": "8787",
-  "vname": "verbatim",
-  "vcpe": "cpe:/:verbatim",
-  "pid": "60305",
-  "pname": "keypad secure usb 3.2 gen 1 ファームウェア",
-  "pcpe": "cpe:/o:verbatim:keypad_secure_usb_3.2_gen_1_firmware"
+	"vid": "8787",
+	"vname": "verbatim",
+	"vcpe": "cpe:/:verbatim",
+	"pid": "60305",
+	"pname": "keypad secure usb 3.2 gen 1 ファームウェア",
+	"pcpe": "cpe:/o:verbatim:keypad_secure_usb_3.2_gen_1_firmware"
 }

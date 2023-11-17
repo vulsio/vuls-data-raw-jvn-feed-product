@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "46269",
-  "pname": "（複数の製品）",
-  "pcpe": "cpe:/o:gehealthcare:multiple_product"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "46269",
+	"pname": "（複数の製品）",
+	"pcpe": "cpe:/o:gehealthcare:multiple_product"
 }

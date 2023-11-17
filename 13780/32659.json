@@ -1,8 +1,8 @@
 {
-  "vid": "13780",
-  "vname": "Infinispan project",
-  "vcpe": "cpe:/:infinispan",
-  "pid": "32659",
-  "pname": "Infinispan",
-  "pcpe": "cpe:/a:infinispan:infinispan"
+	"vid": "13780",
+	"vname": "Infinispan project",
+	"vcpe": "cpe:/:infinispan",
+	"pid": "32659",
+	"pname": "Infinispan",
+	"pcpe": "cpe:/a:infinispan:infinispan"
 }

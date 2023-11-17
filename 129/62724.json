@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "62724",
-  "pname": "JP1/Performance Management - Base",
-  "pcpe": "cpe:/a:hitachi:jp1%2Fperformance_management_-_base"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "62724",
+	"pname": "JP1/Performance Management - Base",
+	"pcpe": "cpe:/a:hitachi:jp1%2Fperformance_management_-_base"
 }

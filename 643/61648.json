@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "61648",
-  "pname": "Alienware Command Center",
-  "pcpe": "cpe:/a:dell:alienware_command_center"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "61648",
+	"pname": "Alienware Command Center",
+	"pcpe": "cpe:/a:dell:alienware_command_center"
 }

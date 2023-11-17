@@ -1,8 +1,8 @@
 {
-  "vid": "12175",
-  "vname": "Crestron Electronics, Inc.",
-  "vcpe": "cpe:/:crestron",
-  "pid": "26628",
-  "pname": "AirMedia AM-100 ファームウェア",
-  "pcpe": "cpe:/o:crestron:airmedia_am-100_firmware"
+	"vid": "12175",
+	"vname": "Crestron Electronics, Inc.",
+	"vcpe": "cpe:/:crestron",
+	"pid": "26628",
+	"pname": "AirMedia AM-100 ファームウェア",
+	"pcpe": "cpe:/o:crestron:airmedia_am-100_firmware"
 }

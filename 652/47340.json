@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "47340",
-  "pname": "Samsung Cloud",
-  "pcpe": "cpe:/a:samsung:cloud"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "47340",
+	"pname": "Samsung Cloud",
+	"pcpe": "cpe:/a:samsung:cloud"
 }

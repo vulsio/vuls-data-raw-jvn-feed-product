@@ -1,8 +1,8 @@
 {
-  "vid": "22824",
-  "vname": "universis",
-  "vcpe": "cpe:/:universis",
-  "pid": "58716",
-  "pname": "universis-api",
-  "pcpe": "cpe:/a:universis:universis-api"
+	"vid": "22824",
+	"vname": "universis",
+	"vcpe": "cpe:/:universis",
+	"pid": "58716",
+	"pname": "universis-api",
+	"pcpe": "cpe:/a:universis:universis-api"
 }

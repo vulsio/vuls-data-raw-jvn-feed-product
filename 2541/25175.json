@@ -1,8 +1,8 @@
 {
-  "vid": "2541",
-  "vname": "Bitrix",
-  "vcpe": "cpe:/:bitrix",
-  "pid": "25175",
-  "pname": "bitrix.xscan",
-  "pcpe": "cpe:/a:bitrix:xscan"
+	"vid": "2541",
+	"vname": "Bitrix",
+	"vcpe": "cpe:/:bitrix",
+	"pid": "25175",
+	"pname": "bitrix.xscan",
+	"pcpe": "cpe:/a:bitrix:xscan"
 }

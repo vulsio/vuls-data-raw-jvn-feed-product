@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "8963",
-  "pname": "自動バグ報告ツール",
-  "pcpe": "cpe:/a:redhat:automatic_bug_reporting_tool"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "8963",
+	"pname": "自動バグ報告ツール",
+	"pcpe": "cpe:/a:redhat:automatic_bug_reporting_tool"
 }

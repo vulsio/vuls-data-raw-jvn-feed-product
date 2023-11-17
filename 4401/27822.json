@@ -1,8 +1,8 @@
 {
-  "vid": "4401",
-  "vname": "Inverse inc.",
-  "vcpe": "cpe:/:inverse-inc",
-  "pid": "27822",
-  "pname": "SOGo",
-  "pcpe": "cpe:/a:inverse-inc:sogo"
+	"vid": "4401",
+	"vname": "Inverse inc.",
+	"vcpe": "cpe:/:inverse-inc",
+	"pid": "27822",
+	"pname": "SOGo",
+	"pcpe": "cpe:/a:inverse-inc:sogo"
 }

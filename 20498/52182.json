@@ -1,8 +1,8 @@
 {
-  "vid": "20498",
-  "vname": "JBL",
-  "vcpe": "cpe:/:jbl",
-  "pid": "52182",
-  "pname": "JBL Go 2 ファームウェア",
-  "pcpe": "cpe:/o:jbl:go_2_firmware"
+	"vid": "20498",
+	"vname": "JBL",
+	"vcpe": "cpe:/:jbl",
+	"pid": "52182",
+	"pname": "JBL Go 2 ファームウェア",
+	"pcpe": "cpe:/o:jbl:go_2_firmware"
 }

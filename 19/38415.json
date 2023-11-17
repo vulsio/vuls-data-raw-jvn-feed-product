@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38415",
-  "pname": "15454 M Wse K9 ファームウェア",
-  "pcpe": "cpe:/o:cisco:15454-m-wse-k9_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38415",
+	"pname": "15454 M Wse K9 ファームウェア",
+	"pcpe": "cpe:/o:cisco:15454-m-wse-k9_firmware"
 }

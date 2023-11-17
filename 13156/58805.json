@@ -1,8 +1,8 @@
 {
-  "vid": "13156",
-  "vname": "WpDevArt",
-  "vcpe": "cpe:/:wpdevart",
-  "pid": "58805",
-  "pname": "Pricing Table Builder",
-  "pcpe": "cpe:/a:wpdevart:pricing_table_builder"
+	"vid": "13156",
+	"vname": "WpDevArt",
+	"vcpe": "cpe:/:wpdevart",
+	"pid": "58805",
+	"pname": "Pricing Table Builder",
+	"pcpe": "cpe:/a:wpdevart:pricing_table_builder"
 }

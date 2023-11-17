@@ -1,8 +1,8 @@
 {
-  "vid": "12684",
-  "vname": "PayQuicker LLC",
-  "vcpe": "cpe:/:payquicker",
-  "pid": "29031",
-  "pname": "PayQuicker",
-  "pcpe": "cpe:/a:payquicker:payquicker"
+	"vid": "12684",
+	"vname": "PayQuicker LLC",
+	"vcpe": "cpe:/:payquicker",
+	"pid": "29031",
+	"pname": "PayQuicker",
+	"pcpe": "cpe:/a:payquicker:payquicker"
 }

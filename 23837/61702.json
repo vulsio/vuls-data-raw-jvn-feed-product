@@ -1,8 +1,8 @@
 {
-  "vid": "23837",
-  "vname": "YugaByte",
-  "vcpe": "cpe:/:yugabyte",
-  "pid": "61702",
-  "pname": "YugabyteDB",
-  "pcpe": "cpe:/a:yugabyte:yugabytedb"
+	"vid": "23837",
+	"vname": "YugaByte",
+	"vcpe": "cpe:/:yugabyte",
+	"pid": "61702",
+	"pname": "YugabyteDB",
+	"pcpe": "cpe:/a:yugabyte:yugabytedb"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8630",
-  "vname": "xlight ftp server",
-  "vcpe": "cpe:/:xlight_ftp_server",
-  "pid": "16350",
-  "pname": "xlight ftp server",
-  "pcpe": "cpe:/a:xlight_ftp_server:xlight_ftp_server"
+	"vid": "8630",
+	"vname": "xlight ftp server",
+	"vcpe": "cpe:/:xlight_ftp_server",
+	"pid": "16350",
+	"pname": "xlight ftp server",
+	"pcpe": "cpe:/a:xlight_ftp_server:xlight_ftp_server"
 }

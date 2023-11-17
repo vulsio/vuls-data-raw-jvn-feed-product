@@ -1,8 +1,8 @@
 {
-  "vid": "16866",
-  "vname": "claxon_project",
-  "vcpe": "cpe:/:claxon_project",
-  "pid": "40141",
-  "pname": "claxon",
-  "pcpe": "cpe:/a:claxon_project:claxon"
+	"vid": "16866",
+	"vname": "claxon_project",
+	"vcpe": "cpe:/:claxon_project",
+	"pid": "40141",
+	"pname": "claxon",
+	"pcpe": "cpe:/a:claxon_project:claxon"
 }

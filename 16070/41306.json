@@ -1,8 +1,8 @@
 {
-  "vid": "16070",
-  "vname": "Forcepoint LLC.",
-  "vcpe": "cpe:/:forcepoint",
-  "pid": "41306",
-  "pname": "Forcepoint One Endpoint",
-  "pcpe": "cpe:/a:forcepoint:one_endpoint"
+	"vid": "16070",
+	"vname": "Forcepoint LLC.",
+	"vcpe": "cpe:/:forcepoint",
+	"pid": "41306",
+	"pname": "Forcepoint One Endpoint",
+	"pcpe": "cpe:/a:forcepoint:one_endpoint"
 }

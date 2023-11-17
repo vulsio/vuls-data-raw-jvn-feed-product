@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "54623",
-  "pname": "UC-8410A Series (with Debian 9)",
-  "pcpe": "cpe:/o:moxa:uc-8410a_debian9"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "54623",
+	"pname": "UC-8410A Series (with Debian 9)",
+	"pcpe": "cpe:/o:moxa:uc-8410a_debian9"
 }

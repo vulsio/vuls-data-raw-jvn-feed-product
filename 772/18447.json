@@ -1,8 +1,8 @@
 {
-  "vid": "772",
-  "vname": "OWASP",
-  "vcpe": "cpe:/:owasp",
-  "pid": "18447",
-  "pname": "OWASP Enterprise Security API",
-  "pcpe": "cpe:/a:owasp:enterprise_security_api"
+	"vid": "772",
+	"vname": "OWASP",
+	"vcpe": "cpe:/:owasp",
+	"pid": "18447",
+	"pname": "OWASP Enterprise Security API",
+	"pcpe": "cpe:/a:owasp:enterprise_security_api"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "41472",
-  "pname": "PC Worx Express",
-  "pcpe": "cpe:/a:phoenixcontact:pc_worx_express"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "41472",
+	"pname": "PC Worx Express",
+	"pcpe": "cpe:/a:phoenixcontact:pc_worx_express"
 }

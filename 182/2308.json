@@ -1,8 +1,8 @@
 {
-  "vid": "182",
-  "vname": "シュナイダーエレクトリック株式会社 (旧社名株式会社エーピーシー・ジャパン)",
-  "vcpe": "cpe:/:apc",
-  "pid": "2308",
-  "pname": "APC Network Management Card",
-  "pcpe": "cpe:/h:apc:network_management_card"
+	"vid": "182",
+	"vname": "シュナイダーエレクトリック株式会社 (旧社名株式会社エーピーシー・ジャパン)",
+	"vcpe": "cpe:/:apc",
+	"pid": "2308",
+	"pname": "APC Network Management Card",
+	"pcpe": "cpe:/h:apc:network_management_card"
 }

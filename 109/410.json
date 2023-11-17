@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "410",
-  "pname": "FMV-ESPRIMO",
-  "pcpe": "cpe:/h:fujitsu:fmv-esprimo"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "410",
+	"pname": "FMV-ESPRIMO",
+	"pcpe": "cpe:/h:fujitsu:fmv-esprimo"
 }

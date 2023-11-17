@@ -1,8 +1,8 @@
 {
-  "vid": "892",
-  "vname": "Celery",
-  "vcpe": "cpe:/:celeryproject",
-  "pid": "3379",
-  "pname": "Celery",
-  "pcpe": "cpe:/a:celeryproject:celery"
+	"vid": "892",
+	"vname": "Celery",
+	"vcpe": "cpe:/:celeryproject",
+	"pid": "3379",
+	"pname": "Celery",
+	"pcpe": "cpe:/a:celeryproject:celery"
 }

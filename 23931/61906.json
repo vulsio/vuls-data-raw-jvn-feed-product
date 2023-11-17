@@ -1,8 +1,8 @@
 {
-  "vid": "23931",
-  "vname": "boltcms",
-  "vcpe": "cpe:/:boltcms",
-  "pid": "61906",
-  "pname": "bolt",
-  "pcpe": "cpe:/a:boltcms:bolt"
+	"vid": "23931",
+	"vname": "boltcms",
+	"vcpe": "cpe:/:boltcms",
+	"pid": "61906",
+	"pname": "bolt",
+	"pcpe": "cpe:/a:boltcms:bolt"
 }

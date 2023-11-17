@@ -1,8 +1,8 @@
 {
-  "vid": "761",
-  "vname": "SIR",
-  "vcpe": "cpe:/:sir",
-  "pid": "3066",
-  "pname": "GNUBoard",
-  "pcpe": "cpe:/a:sir:gnuboard"
+	"vid": "761",
+	"vname": "SIR",
+	"vcpe": "cpe:/:sir",
+	"pid": "3066",
+	"pname": "GNUBoard",
+	"pcpe": "cpe:/a:sir:gnuboard"
 }

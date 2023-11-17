@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "24931",
-  "pname": "HP 3PAR サービスプロセッサー",
-  "pcpe": "cpe:/a:hp:3par_service_processor_sp"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "24931",
+	"pname": "HP 3PAR サービスプロセッサー",
+	"pcpe": "cpe:/a:hp:3par_service_processor_sp"
 }

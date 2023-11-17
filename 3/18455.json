@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "18455",
-  "pname": "Red Hat JBoss Fuse",
-  "pcpe": "cpe:/a:redhat:jboss_fuse"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "18455",
+	"pname": "Red Hat JBoss Fuse",
+	"pcpe": "cpe:/a:redhat:jboss_fuse"
 }

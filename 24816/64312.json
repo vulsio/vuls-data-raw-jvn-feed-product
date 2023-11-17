@@ -1,8 +1,8 @@
 {
-  "vid": "24816",
-  "vname": "livecomposerplugin",
-  "vcpe": "cpe:/:livecomposerplugin",
-  "pid": "64312",
-  "pname": "page builder: live composer",
-  "pcpe": "cpe:/a:livecomposerplugin:page_builder%3A_live_composer"
+	"vid": "24816",
+	"vname": "livecomposerplugin",
+	"vcpe": "cpe:/:livecomposerplugin",
+	"pid": "64312",
+	"pname": "page builder: live composer",
+	"pcpe": "cpe:/a:livecomposerplugin:page_builder%3A_live_composer"
 }

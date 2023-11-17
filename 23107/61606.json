@@ -1,8 +1,8 @@
 {
-  "vid": "23107",
-  "vname": "ShortPixel",
-  "vcpe": "cpe:/:shortpixel",
-  "pid": "61606",
-  "pname": "Enable Media Replace",
-  "pcpe": "cpe:/a:shortpixel:enable_media_replace"
+	"vid": "23107",
+	"vname": "ShortPixel",
+	"vcpe": "cpe:/:shortpixel",
+	"pid": "61606",
+	"pname": "Enable Media Replace",
+	"pcpe": "cpe:/a:shortpixel:enable_media_replace"
 }

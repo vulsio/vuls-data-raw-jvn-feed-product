@@ -1,8 +1,8 @@
 {
-  "vid": "4170",
-  "vname": "alice",
-  "vcpe": "cpe:/:alice",
-  "pid": "8733",
-  "pname": "gate2 plus wi-fi",
-  "pcpe": "cpe:/h:alice:gate2_plus_wi-fi"
+	"vid": "4170",
+	"vname": "alice",
+	"vcpe": "cpe:/:alice",
+	"pid": "8733",
+	"pname": "gate2 plus wi-fi",
+	"pcpe": "cpe:/h:alice:gate2_plus_wi-fi"
 }

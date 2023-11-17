@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "32518",
-  "pname": "MGUARD CENTERPORT ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:mguard_centerport_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "32518",
+	"pname": "MGUARD CENTERPORT ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:mguard_centerport_firmware"
 }

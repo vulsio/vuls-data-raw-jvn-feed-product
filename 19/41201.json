@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "41201",
-  "pname": "Cisco Aironet 1560 シリーズファームウェア",
-  "pcpe": "cpe:/o:cisco:aironet_1560_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "41201",
+	"pname": "Cisco Aironet 1560 シリーズファームウェア",
+	"pcpe": "cpe:/o:cisco:aironet_1560_firmware"
 }

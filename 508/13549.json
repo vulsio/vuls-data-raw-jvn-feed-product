@@ -1,8 +1,8 @@
 {
-  "vid": "508",
-  "vname": "PHPNUKE",
-  "vcpe": "cpe:/:phpnuke",
-  "pid": "13549",
-  "pname": "eboard module",
-  "pcpe": "cpe:/a:phpnuke:eboard_module"
+	"vid": "508",
+	"vname": "PHPNUKE",
+	"vcpe": "cpe:/:phpnuke",
+	"pid": "13549",
+	"pname": "eboard module",
+	"pcpe": "cpe:/a:phpnuke:eboard_module"
 }

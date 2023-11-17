@@ -1,8 +1,8 @@
 {
-  "vid": "7715",
-  "vname": "softacid",
-  "vcpe": "cpe:/:softacid",
-  "pid": "14912",
-  "pname": "hotel reservation system",
-  "pcpe": "cpe:/a:softacid:hotel_reservation_system"
+	"vid": "7715",
+	"vname": "softacid",
+	"vcpe": "cpe:/:softacid",
+	"pid": "14912",
+	"pname": "hotel reservation system",
+	"pcpe": "cpe:/a:softacid:hotel_reservation_system"
 }

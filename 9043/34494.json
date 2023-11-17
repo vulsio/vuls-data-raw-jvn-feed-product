@@ -1,8 +1,8 @@
 {
-  "vid": "9043",
-  "vname": "Western Digital Corporation",
-  "vcpe": "cpe:/:wdc",
-  "pid": "34494",
-  "pname": "TV Live Hub ファームウェア",
-  "pcpe": "cpe:/o:wdc:tv_live_hub_firmware"
+	"vid": "9043",
+	"vname": "Western Digital Corporation",
+	"vcpe": "cpe:/:wdc",
+	"pid": "34494",
+	"pname": "TV Live Hub ファームウェア",
+	"pcpe": "cpe:/o:wdc:tv_live_hub_firmware"
 }

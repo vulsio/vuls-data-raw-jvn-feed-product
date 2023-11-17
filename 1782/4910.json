@@ -1,8 +1,8 @@
 {
-  "vid": "1782",
-  "vname": "Wouter Verhelst",
-  "vcpe": "cpe:/:wouter_verhelst",
-  "pid": "4910",
-  "pname": "Network Block Device",
-  "pcpe": "cpe:/a:wouter_verhelst:nbd"
+	"vid": "1782",
+	"vname": "Wouter Verhelst",
+	"vcpe": "cpe:/:wouter_verhelst",
+	"pid": "4910",
+	"pname": "Network Block Device",
+	"pcpe": "cpe:/a:wouter_verhelst:nbd"
 }

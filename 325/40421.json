@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "40421",
-  "pname": "AIO510-23ISH ファームウェア",
-  "pcpe": "cpe:/o:lenovo:aio510-23ish_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "40421",
+	"pname": "AIO510-23ISH ファームウェア",
+	"pcpe": "cpe:/o:lenovo:aio510-23ish_firmware"
 }

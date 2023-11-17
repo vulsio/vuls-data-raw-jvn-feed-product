@@ -1,8 +1,8 @@
 {
-  "vid": "488",
-  "vname": "openSUSE project",
-  "vcpe": "cpe:/:opensuse_project",
-  "pid": "45898",
-  "pname": "openSUSE Tumbleweed",
-  "pcpe": "cpe:/a:opensuse_project:tumbleweed"
+	"vid": "488",
+	"vname": "openSUSE project",
+	"vcpe": "cpe:/:opensuse_project",
+	"pid": "45898",
+	"pname": "openSUSE Tumbleweed",
+	"pcpe": "cpe:/a:opensuse_project:tumbleweed"
 }

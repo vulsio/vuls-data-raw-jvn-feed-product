@@ -1,8 +1,8 @@
 {
-  "vid": "681",
-  "vname": "ASUSTeK Computer Inc.",
-  "vcpe": "cpe:/:asus",
-  "pid": "19138",
-  "pname": "WL-330NUL",
-  "pcpe": "cpe:/h:asus:wl-330nul"
+	"vid": "681",
+	"vname": "ASUSTeK Computer Inc.",
+	"vcpe": "cpe:/:asus",
+	"pid": "19138",
+	"pname": "WL-330NUL",
+	"pcpe": "cpe:/h:asus:wl-330nul"
 }

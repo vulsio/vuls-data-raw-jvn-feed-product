@@ -1,8 +1,8 @@
 {
-  "vid": "14040",
-  "vname": "アボット",
-  "vcpe": "cpe:/:abbott",
-  "pid": "43493",
-  "pname": "FreeStyle Libre ファームウェア",
-  "pcpe": "cpe:/o:abbott:freestyle_libre_firmware"
+	"vid": "14040",
+	"vname": "アボット",
+	"vcpe": "cpe:/:abbott",
+	"pid": "43493",
+	"pname": "FreeStyle Libre ファームウェア",
+	"pcpe": "cpe:/o:abbott:freestyle_libre_firmware"
 }

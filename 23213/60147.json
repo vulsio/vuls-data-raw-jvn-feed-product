@@ -1,8 +1,8 @@
 {
-  "vid": "23213",
-  "vname": "virtuasoftware",
-  "vcpe": "cpe:/:virtuasoftware",
-  "pid": "60147",
-  "pname": "cobranca",
-  "pcpe": "cpe:/a:virtuasoftware:cobranca"
+	"vid": "23213",
+	"vname": "virtuasoftware",
+	"vcpe": "cpe:/:virtuasoftware",
+	"pid": "60147",
+	"pname": "cobranca",
+	"pcpe": "cpe:/a:virtuasoftware:cobranca"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "48304",
-  "pname": "AE-200J",
-  "pcpe": "cpe:/o:mitsubishielectric:ae-200j"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "48304",
+	"pname": "AE-200J",
+	"pcpe": "cpe:/o:mitsubishielectric:ae-200j"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "26108",
-  "pname": "Hitachi Global Link Availability Manager",
-  "pcpe": "cpe:/a:hitachi:global_link_availability_manager"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "26108",
+	"pname": "Hitachi Global Link Availability Manager",
+	"pcpe": "cpe:/a:hitachi:global_link_availability_manager"
 }

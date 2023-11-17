@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "25715",
-  "pname": "B5L04A",
-  "pcpe": "cpe:/h:hp:b5l04a"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "25715",
+	"pname": "B5L04A",
+	"pcpe": "cpe:/h:hp:b5l04a"
 }

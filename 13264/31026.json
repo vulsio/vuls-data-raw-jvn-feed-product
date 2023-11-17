@@ -1,8 +1,8 @@
 {
-  "vid": "13264",
-  "vname": "IKARUS Security Software GmbH",
-  "vcpe": "cpe:/:ikarussecurity",
-  "pid": "31026",
-  "pname": "IKARUS anti.virus",
-  "pcpe": "cpe:/a:ikarussecurity:ikarus_antivirus"
+	"vid": "13264",
+	"vname": "IKARUS Security Software GmbH",
+	"vcpe": "cpe:/:ikarussecurity",
+	"pid": "31026",
+	"pname": "IKARUS anti.virus",
+	"pcpe": "cpe:/a:ikarussecurity:ikarus_antivirus"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "684",
-  "vname": "LifeSize Communications",
-  "vcpe": "cpe:/:lifesize",
-  "pid": "2906",
-  "pname": "LifeSize Room",
-  "pcpe": "cpe:/a:lifesize:lifesize_room_appliance_software"
+	"vid": "684",
+	"vname": "LifeSize Communications",
+	"vcpe": "cpe:/:lifesize",
+	"pid": "2906",
+	"pname": "LifeSize Room",
+	"pcpe": "cpe:/a:lifesize:lifesize_room_appliance_software"
 }

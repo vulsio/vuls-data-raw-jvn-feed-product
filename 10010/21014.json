@@ -1,8 +1,8 @@
 {
-  "vid": "10010",
-  "vname": "MPEX Solutions",
-  "vcpe": "cpe:/:mpexsolutions",
-  "pid": "21014",
-  "pname": "MX-SmartTimer",
-  "pcpe": "cpe:/a:mpexsolutions:mx-smartimer"
+	"vid": "10010",
+	"vname": "MPEX Solutions",
+	"vcpe": "cpe:/:mpexsolutions",
+	"pid": "21014",
+	"pname": "MX-SmartTimer",
+	"pcpe": "cpe:/a:mpexsolutions:mx-smartimer"
 }

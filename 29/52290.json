@@ -1,8 +1,8 @@
 {
-  "vid": "29",
-  "vname": "エフ・セキュア",
-  "vcpe": "cpe:/:f-secure",
-  "pid": "52290",
-  "pname": "F-Secure Atlant",
-  "pcpe": "cpe:/a:f-secure:atlant"
+	"vid": "29",
+	"vname": "エフ・セキュア",
+	"vcpe": "cpe:/:f-secure",
+	"pid": "52290",
+	"pname": "F-Secure Atlant",
+	"pcpe": "cpe:/a:f-secure:atlant"
 }

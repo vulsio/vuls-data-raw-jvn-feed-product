@@ -1,8 +1,8 @@
 {
-  "vid": "24574",
-  "vname": "markdownify project",
-  "vcpe": "cpe:/:markdownify_project",
-  "pid": "63700",
-  "pname": "markdownify",
-  "pcpe": "cpe:/a:markdownify_project:markdownify"
+	"vid": "24574",
+	"vname": "markdownify project",
+	"vcpe": "cpe:/:markdownify_project",
+	"pid": "63700",
+	"pname": "markdownify",
+	"pcpe": "cpe:/a:markdownify_project:markdownify"
 }

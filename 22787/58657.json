@@ -1,8 +1,8 @@
 {
-  "vid": "22787",
-  "vname": "libsox project",
-  "vcpe": "cpe:/:libsox_project",
-  "pid": "58657",
-  "pname": "libsox",
-  "pcpe": "cpe:/a:libsox_project:libsox"
+	"vid": "22787",
+	"vname": "libsox project",
+	"vcpe": "cpe:/:libsox_project",
+	"pid": "58657",
+	"pname": "libsox",
+	"pcpe": "cpe:/a:libsox_project:libsox"
 }

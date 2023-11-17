@@ -1,8 +1,8 @@
 {
-  "vid": "1337",
-  "vname": "Alcatel-Lucent",
-  "vcpe": "cpe:/:alcatel-lucent",
-  "pid": "24293",
-  "pname": "OmniSwitch 6855",
-  "pcpe": "cpe:/h:alcatel-lucent:omniswitch_6855"
+	"vid": "1337",
+	"vname": "Alcatel-Lucent",
+	"vcpe": "cpe:/:alcatel-lucent",
+	"pid": "24293",
+	"pname": "OmniSwitch 6855",
+	"pcpe": "cpe:/h:alcatel-lucent:omniswitch_6855"
 }

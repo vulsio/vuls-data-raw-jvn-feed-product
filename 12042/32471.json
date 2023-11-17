@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "32471",
-  "pname": "HPE Intelligent Management Center",
-  "pcpe": "cpe:/a:hp:intelligent_management_center"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "32471",
+	"pname": "HPE Intelligent Management Center",
+	"pcpe": "cpe:/a:hp:intelligent_management_center"
 }

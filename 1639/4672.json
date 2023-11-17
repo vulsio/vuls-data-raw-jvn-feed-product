@@ -1,8 +1,8 @@
 {
-  "vid": "1639",
-  "vname": "OpenTTD",
-  "vcpe": "cpe:/:openttd",
-  "pid": "4672",
-  "pname": "OpenTTD",
-  "pcpe": "cpe:/a:openttd:openttd"
+	"vid": "1639",
+	"vname": "OpenTTD",
+	"vcpe": "cpe:/:openttd",
+	"pid": "4672",
+	"pname": "OpenTTD",
+	"pcpe": "cpe:/a:openttd:openttd"
 }

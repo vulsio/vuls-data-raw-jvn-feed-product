@@ -1,8 +1,8 @@
 {
-  "vid": "16397",
-  "vname": "Kalki Communication Technologies Pvt. Ltd",
-  "vcpe": "cpe:/:kalkitech",
-  "pid": "55270",
-  "pname": "SYNC241-M1 ファームウェア",
-  "pcpe": "cpe:/o:kalkitech:sync241-m1_firmware"
+	"vid": "16397",
+	"vname": "Kalki Communication Technologies Pvt. Ltd",
+	"vcpe": "cpe:/:kalkitech",
+	"pid": "55270",
+	"pname": "SYNC241-M1 ファームウェア",
+	"pcpe": "cpe:/o:kalkitech:sync241-m1_firmware"
 }

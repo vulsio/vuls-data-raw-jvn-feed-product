@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "56416",
-  "pname": "NEC Multimedia OLAP for 映像分析サービス",
-  "pcpe": "cpe:/a:nec:nec_multimedia_olap"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "56416",
+	"pname": "NEC Multimedia OLAP for 映像分析サービス",
+	"pcpe": "cpe:/a:nec:nec_multimedia_olap"
 }

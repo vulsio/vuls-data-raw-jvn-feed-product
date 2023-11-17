@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "57820",
-  "pname": "bixby touch",
-  "pcpe": "cpe:/a:samsung:bixby_touch"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "57820",
+	"pname": "bixby touch",
+	"pcpe": "cpe:/a:samsung:bixby_touch"
 }

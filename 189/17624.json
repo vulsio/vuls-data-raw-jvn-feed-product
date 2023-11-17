@@ -1,8 +1,8 @@
 {
-  "vid": "189",
-  "vname": "KENT-WEB",
-  "vcpe": "cpe:/:kent-web",
-  "pid": "17624",
-  "pname": "POST-MAIL",
-  "pcpe": "cpe:/a:kent-web:post-mail"
+	"vid": "189",
+	"vname": "KENT-WEB",
+	"vcpe": "cpe:/:kent-web",
+	"pid": "17624",
+	"pname": "POST-MAIL",
+	"pcpe": "cpe:/a:kent-web:post-mail"
 }

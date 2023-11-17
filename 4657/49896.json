@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "49896",
-  "pname": "USG6000E ファームウェア",
-  "pcpe": "cpe:/o:huawei:usg6000e_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "49896",
+	"pname": "USG6000E ファームウェア",
+	"pcpe": "cpe:/o:huawei:usg6000e_firmware"
 }

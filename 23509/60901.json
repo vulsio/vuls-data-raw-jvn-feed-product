@@ -1,8 +1,8 @@
 {
-  "vid": "23509",
-  "vname": "totd project",
-  "vcpe": "cpe:/:totd_project",
-  "pid": "60901",
-  "pname": "totd",
-  "pcpe": "cpe:/a:totd_project:totd"
+	"vid": "23509",
+	"vname": "totd project",
+	"vcpe": "cpe:/:totd_project",
+	"pid": "60901",
+	"pname": "totd",
+	"pcpe": "cpe:/a:totd_project:totd"
 }

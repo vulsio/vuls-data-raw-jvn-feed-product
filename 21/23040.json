@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "23040",
-  "pname": "RingMaster Software",
-  "pcpe": "cpe:/a:juniper:ringmaster"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "23040",
+	"pname": "RingMaster Software",
+	"pcpe": "cpe:/a:juniper:ringmaster"
 }

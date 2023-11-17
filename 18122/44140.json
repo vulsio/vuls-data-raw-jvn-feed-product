@@ -1,8 +1,8 @@
 {
-  "vid": "18122",
-  "vname": "Moo0",
-  "vcpe": "cpe:/:moo0",
-  "pid": "44140",
-  "pname": "System Monitor",
-  "pcpe": "cpe:/a:moo0:system_monitor"
+	"vid": "18122",
+	"vname": "Moo0",
+	"vcpe": "cpe:/:moo0",
+	"pid": "44140",
+	"pname": "System Monitor",
+	"pcpe": "cpe:/a:moo0:system_monitor"
 }

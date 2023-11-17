@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "10698",
-  "pname": "odyssey access client",
-  "pcpe": "cpe:/a:juniper:odyssey_access_client"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "10698",
+	"pname": "odyssey access client",
+	"pcpe": "cpe:/a:juniper:odyssey_access_client"
 }

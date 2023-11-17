@@ -1,8 +1,8 @@
 {
-  "vid": "498",
-  "vname": "Horde",
-  "vcpe": "cpe:/:horde",
-  "pid": "1956",
-  "pname": "Horde Internet Mail Program",
-  "pcpe": "cpe:/a:horde:internet_mail_program"
+	"vid": "498",
+	"vname": "Horde",
+	"vcpe": "cpe:/:horde",
+	"pid": "1956",
+	"pname": "Horde Internet Mail Program",
+	"pcpe": "cpe:/a:horde:internet_mail_program"
 }

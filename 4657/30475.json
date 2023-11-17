@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "30475",
-  "pname": "VCM5010 ファームウェア",
-  "pcpe": "cpe:/o:huawei:vcm5010_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "30475",
+	"pname": "VCM5010 ファームウェア",
+	"pcpe": "cpe:/o:huawei:vcm5010_firmware"
 }

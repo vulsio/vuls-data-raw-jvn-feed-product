@@ -1,8 +1,8 @@
 {
-  "vid": "4360",
-  "vname": "ウェブセンス",
-  "vcpe": "cpe:/:websense",
-  "pid": "9316",
-  "pname": "Websense Web Security",
-  "pcpe": "cpe:/a:websense:websense_web_security"
+	"vid": "4360",
+	"vname": "ウェブセンス",
+	"vcpe": "cpe:/:websense",
+	"pid": "9316",
+	"pname": "Websense Web Security",
+	"pcpe": "cpe:/a:websense:websense_web_security"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25555",
-  "pname": "JG813AAE HP VSR1008 Comware 7 Virtual Services Router",
-  "pcpe": "cpe:/h:hp:jg813aae_hp_vsr1008_comware_7_virtual_services_router"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25555",
+	"pname": "JG813AAE HP VSR1008 Comware 7 Virtual Services Router",
+	"pcpe": "cpe:/h:hp:jg813aae_hp_vsr1008_comware_7_virtual_services_router"
 }

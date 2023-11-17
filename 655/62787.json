@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "62787",
-  "pname": "milo",
-  "pcpe": "cpe:/a:eclipse:milo"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "62787",
+	"pname": "milo",
+	"pcpe": "cpe:/a:eclipse:milo"
 }

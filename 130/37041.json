@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "37041",
-  "pname": "Intel Server Board S2600WFR ファームウェア",
-  "pcpe": "cpe:/o:intel:server_board_s2600wfr_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "37041",
+	"pname": "Intel Server Board S2600WFR ファームウェア",
+	"pcpe": "cpe:/o:intel:server_board_s2600wfr_firmware"
 }

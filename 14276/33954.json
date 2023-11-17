@@ -1,8 +1,8 @@
 {
-  "vid": "14276",
-  "vname": "RobotWebTools",
-  "vcpe": "cpe:/:robotwebtools",
-  "pid": "33954",
-  "pname": "roslibjs",
-  "pcpe": "cpe:/a:robotwebtools:roslibjs"
+	"vid": "14276",
+	"vname": "RobotWebTools",
+	"vcpe": "cpe:/:robotwebtools",
+	"pid": "33954",
+	"pname": "roslibjs",
+	"pcpe": "cpe:/a:robotwebtools:roslibjs"
 }

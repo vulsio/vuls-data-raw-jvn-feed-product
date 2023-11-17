@@ -1,8 +1,8 @@
 {
-  "vid": "10205",
-  "vname": "GoPro, Inc.",
-  "vcpe": "cpe:/:gopro",
-  "pid": "21366",
-  "pname": "GoPro HERO",
-  "pcpe": "cpe:/h:gopro:gopro_hero"
+	"vid": "10205",
+	"vname": "GoPro, Inc.",
+	"vcpe": "cpe:/:gopro",
+	"pid": "21366",
+	"pname": "GoPro HERO",
+	"pcpe": "cpe:/h:gopro:gopro_hero"
 }

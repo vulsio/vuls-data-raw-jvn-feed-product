@@ -1,8 +1,8 @@
 {
-  "vid": "23298",
-  "vname": "netwavepr",
-  "vcpe": "cpe:/:netwavepr",
-  "pid": "60319",
-  "pname": "outdoor ip camera ファームウェア",
-  "pcpe": "cpe:/o:netwavepr:outdoor_ip_camera_firmware"
+	"vid": "23298",
+	"vname": "netwavepr",
+	"vcpe": "cpe:/:netwavepr",
+	"pid": "60319",
+	"pname": "outdoor ip camera ファームウェア",
+	"pcpe": "cpe:/o:netwavepr:outdoor_ip_camera_firmware"
 }

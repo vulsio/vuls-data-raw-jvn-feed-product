@@ -1,8 +1,8 @@
 {
-  "vid": "13471",
-  "vname": "Ivanti",
-  "vcpe": "cpe:/:ivanti",
-  "pid": "32693",
-  "pname": "Endpoint Security",
-  "pcpe": "cpe:/a:ivanti:endpoint_security"
+	"vid": "13471",
+	"vname": "Ivanti",
+	"vcpe": "cpe:/:ivanti",
+	"pid": "32693",
+	"pname": "Endpoint Security",
+	"pcpe": "cpe:/a:ivanti:endpoint_security"
 }

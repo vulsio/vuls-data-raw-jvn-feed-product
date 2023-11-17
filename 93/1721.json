@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1721",
-  "pname": "Tinytax taxonomy block",
-  "pcpe": "cpe:/a:drupal:tinytax_taxonomy_block_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1721",
+	"pname": "Tinytax taxonomy block",
+	"pcpe": "cpe:/a:drupal:tinytax_taxonomy_block_module"
 }

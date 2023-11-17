@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "60934",
-  "pname": "elasticsearch query",
-  "pcpe": "cpe:/a:jenkins:elasticsearch_query"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "60934",
+	"pname": "elasticsearch query",
+	"pcpe": "cpe:/a:jenkins:elasticsearch_query"
 }

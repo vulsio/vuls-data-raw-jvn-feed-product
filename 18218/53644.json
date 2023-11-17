@@ -1,8 +1,8 @@
 {
-  "vid": "18218",
-  "vname": "Catch Plugins",
-  "vcpe": "cpe:/:catchplugins",
-  "pid": "53644",
-  "pname": "Essential Widgets",
-  "pcpe": "cpe:/a:catchplugins:essential_widgets"
+	"vid": "18218",
+	"vname": "Catch Plugins",
+	"vcpe": "cpe:/:catchplugins",
+	"pid": "53644",
+	"pname": "Essential Widgets",
+	"pcpe": "cpe:/a:catchplugins:essential_widgets"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "58973",
-  "pname": "lexmark ファームウェア",
-  "pcpe": "cpe:/o:lexmark:lexmark_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "58973",
+	"pname": "lexmark ファームウェア",
+	"pcpe": "cpe:/o:lexmark:lexmark_firmware"
 }

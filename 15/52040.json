@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "52040",
-  "pname": "Oracle Utilities Testing Accelerator",
-  "pcpe": "cpe:/a:oracle:utilities_testing_accelerator"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "52040",
+	"pname": "Oracle Utilities Testing Accelerator",
+	"pcpe": "cpe:/a:oracle:utilities_testing_accelerator"
 }

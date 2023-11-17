@@ -1,8 +1,8 @@
 {
-  "vid": "168",
-  "vname": "横河電機株式会社",
-  "vcpe": "cpe:/:yokogawa",
-  "pid": "40067",
-  "pname": "STARDOM FCN/FCJ シミュレータ",
-  "pcpe": "cpe:/o:yokogawa:stardom_fcn%2ffcj_simulator_firmware"
+	"vid": "168",
+	"vname": "横河電機株式会社",
+	"vcpe": "cpe:/:yokogawa",
+	"pid": "40067",
+	"pname": "STARDOM FCN/FCJ シミュレータ",
+	"pcpe": "cpe:/o:yokogawa:stardom_fcn%2ffcj_simulator_firmware"
 }

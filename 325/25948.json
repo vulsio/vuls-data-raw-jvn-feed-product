@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "25948",
-  "pname": "LenovoEMC ix2/ix2-dl",
-  "pcpe": "cpe:/h:lenovo:emc_ix2%2fix2-dl"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "25948",
+	"pname": "LenovoEMC ix2/ix2-dl",
+	"pcpe": "cpe:/h:lenovo:emc_ix2%2fix2-dl"
 }

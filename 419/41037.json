@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "41037",
-  "pname": "SnapManager",
-  "pcpe": "cpe:/a:netapp:snapmanager"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "41037",
+	"pname": "SnapManager",
+	"pcpe": "cpe:/a:netapp:snapmanager"
 }

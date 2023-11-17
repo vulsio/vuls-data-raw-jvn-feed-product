@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "60563",
-  "pname": "Legacy ION",
-  "pcpe": "cpe:/o:schneider_electric:legacy_ion"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "60563",
+	"pname": "Legacy ION",
+	"pcpe": "cpe:/o:schneider_electric:legacy_ion"
 }

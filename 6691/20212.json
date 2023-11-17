@@ -1,8 +1,8 @@
 {
-  "vid": "6691",
-  "vname": "Axway",
-  "vcpe": "cpe:/:axway",
-  "pid": "20212",
-  "pname": "Axway Secure Messenger",
-  "pcpe": "cpe:/a:axway:secure_messenger"
+	"vid": "6691",
+	"vname": "Axway",
+	"vcpe": "cpe:/:axway",
+	"pid": "20212",
+	"pname": "Axway Secure Messenger",
+	"pcpe": "cpe:/a:axway:secure_messenger"
 }

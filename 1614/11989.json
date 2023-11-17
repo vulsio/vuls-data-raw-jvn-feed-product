@@ -1,8 +1,8 @@
 {
-  "vid": "1614",
-  "vname": "Netwin Ltd",
-  "vcpe": "cpe:/:netwin",
-  "pid": "11989",
-  "pname": "webnews",
-  "pcpe": "cpe:/a:netwin:webnews"
+	"vid": "1614",
+	"vname": "Netwin Ltd",
+	"vcpe": "cpe:/:netwin",
+	"pid": "11989",
+	"pname": "webnews",
+	"pcpe": "cpe:/a:netwin:webnews"
 }

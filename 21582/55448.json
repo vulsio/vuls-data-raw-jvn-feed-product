@@ -1,8 +1,8 @@
 {
-  "vid": "21582",
-  "vname": "collective.contact.widget project",
-  "vcpe": "cpe:/:collective.contact.widget_project",
-  "pid": "55448",
-  "pname": "collective.contact.widget",
-  "pcpe": "cpe:/a:collective.contact.widget_project:collective.contact.widget"
+	"vid": "21582",
+	"vname": "collective.contact.widget project",
+	"vcpe": "cpe:/:collective.contact.widget_project",
+	"pid": "55448",
+	"pname": "collective.contact.widget",
+	"pcpe": "cpe:/a:collective.contact.widget_project:collective.contact.widget"
 }

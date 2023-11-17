@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "25786",
-  "pname": "Cisco EPC2203 Cable Modem ファームウェア",
-  "pcpe": "cpe:/o:cisco:epc2203_cable_modem_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "25786",
+	"pname": "Cisco EPC2203 Cable Modem ファームウェア",
+	"pcpe": "cpe:/o:cisco:epc2203_cable_modem_firmware"
 }

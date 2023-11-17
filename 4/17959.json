@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17959",
-  "pname": "HP LaserJet Pro M1217nfw Multifunction Printer ファームウェア",
-  "pcpe": "cpe:/h:hp:laserjet_pro_m1217nfw_multifunction_printer_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17959",
+	"pname": "HP LaserJet Pro M1217nfw Multifunction Printer ファームウェア",
+	"pcpe": "cpe:/h:hp:laserjet_pro_m1217nfw_multifunction_printer_firmware"
 }

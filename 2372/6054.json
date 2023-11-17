@@ -1,8 +1,8 @@
 {
-  "vid": "2372",
-  "vname": "Audacity",
-  "vcpe": "cpe:/:audacity",
-  "pid": "6054",
-  "pname": "Audacity",
-  "pcpe": "cpe:/a:audacity:audacity"
+	"vid": "2372",
+	"vname": "Audacity",
+	"vcpe": "cpe:/:audacity",
+	"pid": "6054",
+	"pname": "Audacity",
+	"pcpe": "cpe:/a:audacity:audacity"
 }

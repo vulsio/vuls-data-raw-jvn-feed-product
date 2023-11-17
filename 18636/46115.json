@@ -1,8 +1,8 @@
 {
-  "vid": "18636",
-  "vname": "Nim-lang",
-  "vcpe": "cpe:/:nim-lang",
-  "pid": "46115",
-  "pname": "Nim",
-  "pcpe": "cpe:/a:nim-lang:nim"
+	"vid": "18636",
+	"vname": "Nim-lang",
+	"vcpe": "cpe:/:nim-lang",
+	"pid": "46115",
+	"pname": "Nim",
+	"pcpe": "cpe:/a:nim-lang:nim"
 }

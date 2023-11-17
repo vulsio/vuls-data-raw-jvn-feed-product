@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "46411",
-  "pname": "B2368-22 ファームウェア",
-  "pcpe": "cpe:/o:huawei:b2368-22_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "46411",
+	"pname": "B2368-22 ファームウェア",
+	"pcpe": "cpe:/o:huawei:b2368-22_firmware"
 }

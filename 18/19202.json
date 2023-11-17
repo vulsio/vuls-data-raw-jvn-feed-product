@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19202",
-  "pname": "IBM Case Foundation",
-  "pcpe": "cpe:/a:ibm:filenet_case_foundation"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19202",
+	"pname": "IBM Case Foundation",
+	"pcpe": "cpe:/a:ibm:filenet_case_foundation"
 }

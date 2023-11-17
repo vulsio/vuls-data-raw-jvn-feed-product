@@ -1,8 +1,8 @@
 {
-  "vid": "14412",
-  "vname": "simple-npm-registry project",
-  "vcpe": "cpe:/:simple-npm-registry_project",
-  "pid": "34104",
-  "pname": "simple-npm-registry",
-  "pcpe": "cpe:/a:simple-npm-registry_project:simple-npm-registry"
+	"vid": "14412",
+	"vname": "simple-npm-registry project",
+	"vcpe": "cpe:/:simple-npm-registry_project",
+	"pid": "34104",
+	"pname": "simple-npm-registry",
+	"pcpe": "cpe:/a:simple-npm-registry_project:simple-npm-registry"
 }

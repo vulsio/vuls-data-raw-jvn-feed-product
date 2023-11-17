@@ -1,8 +1,8 @@
 {
-  "vid": "11620",
-  "vname": "エリクソン",
-  "vcpe": "cpe:/:ericsson",
-  "pid": "48205",
-  "pname": "BSCS iX R18 Billing & Rating MX",
-  "pcpe": "cpe:/a:ericsson:bscs_ix_r18_billing_%26_rating_mx"
+	"vid": "11620",
+	"vname": "エリクソン",
+	"vcpe": "cpe:/:ericsson",
+	"pid": "48205",
+	"pname": "BSCS iX R18 Billing & Rating MX",
+	"pcpe": "cpe:/a:ericsson:bscs_ix_r18_billing_%26_rating_mx"
 }

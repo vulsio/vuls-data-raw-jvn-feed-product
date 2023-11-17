@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "17525",
-  "pname": "AR G3",
-  "pcpe": "cpe:/h:huawei:ar_g3"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "17525",
+	"pname": "AR G3",
+	"pcpe": "cpe:/h:huawei:ar_g3"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "49402",
-  "pname": "PMR525 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:pmr525_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "49402",
+	"pname": "PMR525 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:pmr525_firmware"
 }

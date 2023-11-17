@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "18744",
-  "pname": "IBM Rational Service Tester",
-  "pcpe": "cpe:/a:ibm:rational_service_tester"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "18744",
+	"pname": "IBM Rational Service Tester",
+	"pcpe": "cpe:/a:ibm:rational_service_tester"
 }

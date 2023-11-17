@@ -1,8 +1,8 @@
 {
-  "vid": "14354",
-  "vname": "ipfs",
-  "vcpe": "cpe:/:ipfs",
-  "pid": "34045",
-  "pname": "go-ipfs-dep",
-  "pcpe": "cpe:/a:ipfs:go-ipfs-dep"
+	"vid": "14354",
+	"vname": "ipfs",
+	"vcpe": "cpe:/:ipfs",
+	"pid": "34045",
+	"pname": "go-ipfs-dep",
+	"pcpe": "cpe:/a:ipfs:go-ipfs-dep"
 }

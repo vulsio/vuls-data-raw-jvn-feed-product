@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "15117",
-  "pname": "chainkey java code protection",
-  "pcpe": "cpe:/a:sun:chainkey_java_code_protection"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "15117",
+	"pname": "chainkey java code protection",
+	"pcpe": "cpe:/a:sun:chainkey_java_code_protection"
 }

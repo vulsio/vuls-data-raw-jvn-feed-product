@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "28243",
-  "pname": "DS-7716NI-14/16P",
-  "pcpe": "cpe:/h:hikvision:ds-7716ni-14%2f16p"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "28243",
+	"pname": "DS-7716NI-14/16P",
+	"pcpe": "cpe:/h:hikvision:ds-7716ni-14%2f16p"
 }

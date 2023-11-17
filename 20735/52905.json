@@ -1,8 +1,8 @@
 {
-  "vid": "20735",
-  "vname": "stopbadbots",
-  "vcpe": "cpe:/:stopbadbots",
-  "pid": "52905",
-  "pname": "Block Bad Bots and Stop Bad Bots Crawlers and Spiders and Anti Spam Protection",
-  "pcpe": "cpe:/a:stopbadbots:block_and_stop_bad_bots"
+	"vid": "20735",
+	"vname": "stopbadbots",
+	"vcpe": "cpe:/:stopbadbots",
+	"pid": "52905",
+	"pname": "Block Bad Bots and Stop Bad Bots Crawlers and Spiders and Anti Spam Protection",
+	"pcpe": "cpe:/a:stopbadbots:block_and_stop_bad_bots"
 }

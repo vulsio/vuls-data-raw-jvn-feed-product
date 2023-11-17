@@ -1,8 +1,8 @@
 {
-  "vid": "13859",
-  "vname": "Anton Myshenin",
-  "vcpe": "cpe:/:aws-lambda-multipart-parser_project",
-  "pid": "32914",
-  "pname": "aws-lambda-multipart-parser",
-  "pcpe": "cpe:/a:aws-lambda-multipart-parser_project:aws-lambda-multipart-parser"
+	"vid": "13859",
+	"vname": "Anton Myshenin",
+	"vcpe": "cpe:/:aws-lambda-multipart-parser_project",
+	"pid": "32914",
+	"pname": "aws-lambda-multipart-parser",
+	"pcpe": "cpe:/a:aws-lambda-multipart-parser_project:aws-lambda-multipart-parser"
 }

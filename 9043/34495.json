@@ -1,8 +1,8 @@
 {
-  "vid": "9043",
-  "vname": "Western Digital Corporation",
-  "vcpe": "cpe:/:wdc",
-  "pid": "34495",
-  "pname": "TV Media Player ファームウェア",
-  "pcpe": "cpe:/o:wdc:tv_media_player_firmware"
+	"vid": "9043",
+	"vname": "Western Digital Corporation",
+	"vcpe": "cpe:/:wdc",
+	"pid": "34495",
+	"pname": "TV Media Player ファームウェア",
+	"pcpe": "cpe:/o:wdc:tv_media_player_firmware"
 }

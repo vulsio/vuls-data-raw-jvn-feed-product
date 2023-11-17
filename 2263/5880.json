@@ -1,8 +1,8 @@
 {
-  "vid": "2263",
-  "vname": "Apport project",
-  "vcpe": "cpe:/:apport_project",
-  "pid": "5880",
-  "pname": "Apport",
-  "pcpe": "cpe:/a:apport_project:apport"
+	"vid": "2263",
+	"vname": "Apport project",
+	"vcpe": "cpe:/:apport_project",
+	"pid": "5880",
+	"pname": "Apport",
+	"pcpe": "cpe:/a:apport_project:apport"
 }

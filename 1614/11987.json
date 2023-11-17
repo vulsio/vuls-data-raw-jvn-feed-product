@@ -1,8 +1,8 @@
 {
-  "vid": "1614",
-  "vname": "Netwin Ltd",
-  "vcpe": "cpe:/:netwin",
-  "pid": "11987",
-  "pname": "SurgeFTP",
-  "pcpe": "cpe:/a:netwin:surgeftp"
+	"vid": "1614",
+	"vname": "Netwin Ltd",
+	"vcpe": "cpe:/:netwin",
+	"pid": "11987",
+	"pname": "SurgeFTP",
+	"pcpe": "cpe:/a:netwin:surgeftp"
 }

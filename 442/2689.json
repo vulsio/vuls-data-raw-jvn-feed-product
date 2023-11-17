@@ -1,8 +1,8 @@
 {
-  "vid": "442",
-  "vname": "Automated Solutions, Inc",
-  "vcpe": "cpe:/:automated_solutions",
-  "pid": "2689",
-  "pname": "Automated Solutions Modbus/TCP Master OPC Server",
-  "pcpe": "cpe:/a:automated_solutions:modbus%2Ftcp_master_opc_server"
+	"vid": "442",
+	"vname": "Automated Solutions, Inc",
+	"vcpe": "cpe:/:automated_solutions",
+	"pid": "2689",
+	"pname": "Automated Solutions Modbus/TCP Master OPC Server",
+	"pcpe": "cpe:/a:automated_solutions:modbus%2Ftcp_master_opc_server"
 }

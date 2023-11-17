@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "32621",
-  "pname": "Dell EMC SupportAssist Enterprise",
-  "pcpe": "cpe:/a:dell:emc_supportassist_enterprise"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "32621",
+	"pname": "Dell EMC SupportAssist Enterprise",
+	"pcpe": "cpe:/a:dell:emc_supportassist_enterprise"
 }

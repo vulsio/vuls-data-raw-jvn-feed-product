@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "52713",
-  "pname": "Azure Real Time Operating System GUIX Studio",
-  "pcpe": "cpe:/a:microsoft:azure_real_time_operating_system_guix_studio"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "52713",
+	"pname": "Azure Real Time Operating System GUIX Studio",
+	"pcpe": "cpe:/a:microsoft:azure_real_time_operating_system_guix_studio"
 }

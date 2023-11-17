@@ -1,8 +1,8 @@
 {
-  "vid": "18924",
-  "vname": "Three Broadband",
-  "vcpe": "cpe:/:imomobile",
-  "pid": "47327",
-  "pname": "Verve Connect VH510 ファームウェア",
-  "pcpe": "cpe:/o:imomobile:verve_connect_vh510_firmware"
+	"vid": "18924",
+	"vname": "Three Broadband",
+	"vcpe": "cpe:/:imomobile",
+	"pid": "47327",
+	"pname": "Verve Connect VH510 ファームウェア",
+	"pcpe": "cpe:/o:imomobile:verve_connect_vh510_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "40041",
-  "pname": "SCALANCE XF-200BA ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_xf-200ba_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "40041",
+	"pname": "SCALANCE XF-200BA ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_xf-200ba_firmware"
 }

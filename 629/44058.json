@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "44058",
-  "pname": "ioLogik 2512 WL1-US-T ファームウェア",
-  "pcpe": "cpe:/o:moxa:iologik_2512-wl1-us-t_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "44058",
+	"pname": "ioLogik 2512 WL1-US-T ファームウェア",
+	"pcpe": "cpe:/o:moxa:iologik_2512-wl1-us-t_firmware"
 }

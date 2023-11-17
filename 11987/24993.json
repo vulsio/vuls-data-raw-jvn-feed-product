@@ -1,8 +1,8 @@
 {
-  "vid": "11987",
-  "vname": "Commvault Systems, Inc",
-  "vcpe": "cpe:/:commvault",
-  "pid": "24993",
-  "pname": "Commvault Edge Server",
-  "pcpe": "cpe:/a:commvault:edge_server"
+	"vid": "11987",
+	"vname": "Commvault Systems, Inc",
+	"vcpe": "cpe:/:commvault",
+	"pid": "24993",
+	"pname": "Commvault Edge Server",
+	"pcpe": "cpe:/a:commvault:edge_server"
 }

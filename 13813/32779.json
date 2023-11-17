@@ -1,8 +1,8 @@
 {
-  "vid": "13813",
-  "vname": "CactusVPN",
-  "vcpe": "cpe:/:cactusvpn",
-  "pid": "32779",
-  "pname": "CactusVPN",
-  "pcpe": "cpe:/a:cactusvpn:cactusvpn"
+	"vid": "13813",
+	"vname": "CactusVPN",
+	"vcpe": "cpe:/:cactusvpn",
+	"pid": "32779",
+	"pname": "CactusVPN",
+	"pcpe": "cpe:/a:cactusvpn:cactusvpn"
 }

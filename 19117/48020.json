@@ -1,8 +1,8 @@
 {
-  "vid": "19117",
-  "vname": "TCL Technology",
-  "vcpe": "cpe:/:tcl",
-  "pid": "48020",
-  "pname": "50S434 ファームウェア",
-  "pcpe": "cpe:/o:tcl:50s434_firmware"
+	"vid": "19117",
+	"vname": "TCL Technology",
+	"vcpe": "cpe:/:tcl",
+	"pid": "48020",
+	"pname": "50S434 ファームウェア",
+	"pcpe": "cpe:/o:tcl:50s434_firmware"
 }

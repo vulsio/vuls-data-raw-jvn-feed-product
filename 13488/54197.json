@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "54197",
-  "pname": "Zoom On-Premise Virtual Room Connector Load Balancer",
-  "pcpe": "cpe:/a:zoom:zoom_on-premise_virtual_room_connector_load_balancer"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "54197",
+	"pname": "Zoom On-Premise Virtual Room Connector Load Balancer",
+	"pcpe": "cpe:/a:zoom:zoom_on-premise_virtual_room_connector_load_balancer"
 }

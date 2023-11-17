@@ -1,8 +1,8 @@
 {
-  "vid": "7116",
-  "vname": "prosysinfo",
-  "vcpe": "cpe:/:prosysinfo",
-  "pid": "14071",
-  "pname": "tftp server tftpdwin",
-  "pcpe": "cpe:/a:prosysinfo:tftp_server_tftpdwin"
+	"vid": "7116",
+	"vname": "prosysinfo",
+	"vcpe": "cpe:/:prosysinfo",
+	"pid": "14071",
+	"pname": "tftp server tftpdwin",
+	"pcpe": "cpe:/a:prosysinfo:tftp_server_tftpdwin"
 }

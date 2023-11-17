@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38419",
-  "pname": "Cisco Nexus 93128tx ファームウェア",
-  "pcpe": "cpe:/o:cisco:nexus_93128tx_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38419",
+	"pname": "Cisco Nexus 93128tx ファームウェア",
+	"pcpe": "cpe:/o:cisco:nexus_93128tx_firmware"
 }

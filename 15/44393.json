@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "44393",
-  "pname": "Oracle Document Management and Collaboration",
-  "pcpe": "cpe:/a:oracle:document_management_and_collaboration"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "44393",
+	"pname": "Oracle Document Management and Collaboration",
+	"pcpe": "cpe:/a:oracle:document_management_and_collaboration"
 }

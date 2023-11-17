@@ -1,8 +1,8 @@
 {
-  "vid": "18141",
-  "vname": "apiconnect-cli-plugins project",
-  "vcpe": "cpe:/:apiconnect-cli-plugins_project",
-  "pid": "44208",
-  "pname": "apiconnect-cli-plugins",
-  "pcpe": "cpe:/a:apiconnect-cli-plugins_project:apiconnect-cli-plugins"
+	"vid": "18141",
+	"vname": "apiconnect-cli-plugins project",
+	"vcpe": "cpe:/:apiconnect-cli-plugins_project",
+	"pid": "44208",
+	"pname": "apiconnect-cli-plugins",
+	"pcpe": "cpe:/a:apiconnect-cli-plugins_project:apiconnect-cli-plugins"
 }

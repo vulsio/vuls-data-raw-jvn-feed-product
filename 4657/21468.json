@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "21468",
-  "pname": "E3276 ファームウェア",
-  "pcpe": "cpe:/o:huawei:e3276_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "21468",
+	"pname": "E3276 ファームウェア",
+	"pcpe": "cpe:/o:huawei:e3276_firmware"
 }

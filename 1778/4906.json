@@ -1,8 +1,8 @@
 {
-  "vid": "1778",
-  "vname": "wellsfargo",
-  "vcpe": "cpe:/:wellsfargo",
-  "pid": "4906",
-  "pname": "wells fargo mobile",
-  "pcpe": "cpe:/a:wellsfargo:wells_fargo_mobile"
+	"vid": "1778",
+	"vname": "wellsfargo",
+	"vcpe": "cpe:/:wellsfargo",
+	"pid": "4906",
+	"pname": "wells fargo mobile",
+	"pcpe": "cpe:/a:wellsfargo:wells_fargo_mobile"
 }

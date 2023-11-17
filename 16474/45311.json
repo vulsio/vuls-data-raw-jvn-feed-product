@@ -1,8 +1,8 @@
 {
-  "vid": "16474",
-  "vname": "Openfind",
-  "vcpe": "cpe:/:openfind",
-  "pid": "45311",
-  "pname": "MailAudit",
-  "pcpe": "cpe:/a:openfind:mailaudit"
+	"vid": "16474",
+	"vname": "Openfind",
+	"vcpe": "cpe:/:openfind",
+	"pid": "45311",
+	"pname": "MailAudit",
+	"pcpe": "cpe:/a:openfind:mailaudit"
 }

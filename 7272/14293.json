@@ -1,8 +1,8 @@
 {
-  "vid": "7272",
-  "vname": "rediff",
-  "vcpe": "cpe:/:rediff",
-  "pid": "14293",
-  "pname": "bol downloader activex ocx control",
-  "pcpe": "cpe:/a:rediff:bol_downloader_activex_ocx_control"
+	"vid": "7272",
+	"vname": "rediff",
+	"vcpe": "cpe:/:rediff",
+	"pid": "14293",
+	"pname": "bol downloader activex ocx control",
+	"pcpe": "cpe:/a:rediff:bol_downloader_activex_ocx_control"
 }

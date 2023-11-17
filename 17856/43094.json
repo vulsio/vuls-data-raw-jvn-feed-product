@@ -1,8 +1,8 @@
 {
-  "vid": "17856",
-  "vname": "Cups Easy",
-  "vcpe": "cpe:/:cups_easy_%28purchase_%26_inventory%29_project",
-  "pid": "43094",
-  "pname": "Cups Easy (Purchase & Inventory)",
-  "pcpe": "cpe:/a:cups_easy_%28purchase_%26_inventory%29_project:cups_easy_%28purchase_%26_inventory%29"
+	"vid": "17856",
+	"vname": "Cups Easy",
+	"vcpe": "cpe:/:cups_easy_%28purchase_%26_inventory%29_project",
+	"pid": "43094",
+	"pname": "Cups Easy (Purchase & Inventory)",
+	"pcpe": "cpe:/a:cups_easy_%28purchase_%26_inventory%29_project:cups_easy_%28purchase_%26_inventory%29"
 }

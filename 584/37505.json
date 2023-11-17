@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "37505",
-  "pname": "SIMATIC HMI KTP Mobile Panels KTP700F ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_hmi_ktp_mobile_panels_ktp700f_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "37505",
+	"pname": "SIMATIC HMI KTP Mobile Panels KTP700F ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_hmi_ktp_mobile_panels_ktp700f_firmware"
 }

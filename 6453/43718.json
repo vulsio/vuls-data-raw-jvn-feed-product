@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "43718",
-  "pname": "X860 ファームウェア",
-  "pcpe": "cpe:/o:lexmark:x860_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "43718",
+	"pname": "X860 ファームウェア",
+	"pcpe": "cpe:/o:lexmark:x860_firmware"
 }

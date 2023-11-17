@@ -1,8 +1,8 @@
 {
-  "vid": "13389",
-  "vname": "AutomationDirect",
-  "vcpe": "cpe:/:automationdirect",
-  "pid": "53092",
-  "pname": "SIO-MB12CDR ファームウェア",
-  "pcpe": "cpe:/o:automationdirect:sio-mb12cdr"
+	"vid": "13389",
+	"vname": "AutomationDirect",
+	"vcpe": "cpe:/:automationdirect",
+	"pid": "53092",
+	"pname": "SIO-MB12CDR ファームウェア",
+	"pcpe": "cpe:/o:automationdirect:sio-mb12cdr"
 }

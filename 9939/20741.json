@@ -1,8 +1,8 @@
 {
-  "vid": "9939",
-  "vname": "Cobham plc",
-  "vcpe": "cpe:/:cobham",
-  "pid": "20741",
-  "pname": "AVIATOR 200",
-  "pcpe": "cpe:/h:cobham:aviator_200"
+	"vid": "9939",
+	"vname": "Cobham plc",
+	"vcpe": "cpe:/:cobham",
+	"pid": "20741",
+	"pname": "AVIATOR 200",
+	"pcpe": "cpe:/h:cobham:aviator_200"
 }

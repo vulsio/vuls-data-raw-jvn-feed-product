@@ -1,8 +1,8 @@
 {
-  "vid": "5768",
-  "vname": "mp3 streaming downsampler",
-  "vcpe": "cpe:/:mp3_streaming_downsampler",
-  "pid": "11728",
-  "pname": "mp3 streaming downsampler",
-  "pcpe": "cpe:/a:mp3_streaming_downsampler:mp3_streaming_downsampler"
+	"vid": "5768",
+	"vname": "mp3 streaming downsampler",
+	"vcpe": "cpe:/:mp3_streaming_downsampler",
+	"pid": "11728",
+	"pname": "mp3 streaming downsampler",
+	"pcpe": "cpe:/a:mp3_streaming_downsampler:mp3_streaming_downsampler"
 }

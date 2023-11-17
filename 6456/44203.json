@@ -1,8 +1,8 @@
 {
-  "vid": "6456",
-  "vname": "march networks",
-  "vcpe": "cpe:/:march_networks",
-  "pid": "44203",
-  "pname": "Command Client",
-  "pcpe": "cpe:/a:march_networks:command_client"
+	"vid": "6456",
+	"vname": "march networks",
+	"vcpe": "cpe:/:march_networks",
+	"pid": "44203",
+	"pname": "Command Client",
+	"pcpe": "cpe:/a:march_networks:command_client"
 }

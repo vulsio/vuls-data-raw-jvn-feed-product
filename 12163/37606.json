@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "37606",
-  "pname": "JMS Messaging",
-  "pcpe": "cpe:/a:jenkins:jms_messaging"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "37606",
+	"pname": "JMS Messaging",
+	"pcpe": "cpe:/a:jenkins:jms_messaging"
 }

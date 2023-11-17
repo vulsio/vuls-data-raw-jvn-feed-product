@@ -1,8 +1,8 @@
 {
-  "vid": "58",
-  "vname": "KDE project",
-  "vcpe": "cpe:/:kde",
-  "pid": "9179",
-  "pname": "KDE PIM",
-  "pcpe": "cpe:/a:kde:kde_pim"
+	"vid": "58",
+	"vname": "KDE project",
+	"vcpe": "cpe:/:kde",
+	"pid": "9179",
+	"pname": "KDE PIM",
+	"pcpe": "cpe:/a:kde:kde_pim"
 }

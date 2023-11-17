@@ -1,8 +1,8 @@
 {
-  "vid": "1953",
-  "vname": "3ivx",
-  "vcpe": "cpe:/:3ivx",
-  "pid": "5390",
-  "pname": "mpeg-4 codec",
-  "pcpe": "cpe:/a:3ivx:mpeg-4_codec"
+	"vid": "1953",
+	"vname": "3ivx",
+	"vcpe": "cpe:/:3ivx",
+	"pid": "5390",
+	"pname": "mpeg-4 codec",
+	"pcpe": "cpe:/a:3ivx:mpeg-4_codec"
 }

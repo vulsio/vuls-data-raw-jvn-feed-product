@@ -1,8 +1,8 @@
 {
-  "vid": "21884",
-  "vname": "Kron Technologies",
-  "vcpe": "cpe:/:krontech",
-  "pid": "56161",
-  "pname": "Single Connect",
-  "pcpe": "cpe:/a:krontech:single_connect"
+	"vid": "21884",
+	"vname": "Kron Technologies",
+	"vcpe": "cpe:/:krontech",
+	"pid": "56161",
+	"pname": "Single Connect",
+	"pcpe": "cpe:/a:krontech:single_connect"
 }

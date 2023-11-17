@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "58934",
-  "pname": "intercept x",
-  "pcpe": "cpe:/a:sophos:intercept_x"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "58934",
+	"pname": "intercept x",
+	"pcpe": "cpe:/a:sophos:intercept_x"
 }

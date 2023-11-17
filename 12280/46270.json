@@ -1,8 +1,8 @@
 {
-  "vid": "12280",
-  "vname": "Joyent, Inc.",
-  "vcpe": "cpe:/:joyent",
-  "pid": "46270",
-  "pname": "json",
-  "pcpe": "cpe:/a:joyent:json"
+	"vid": "12280",
+	"vname": "Joyent, Inc.",
+	"vcpe": "cpe:/:joyent",
+	"pid": "46270",
+	"pname": "json",
+	"pcpe": "cpe:/a:joyent:json"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10264",
-  "vname": "drchrono Inc.",
-  "vcpe": "cpe:/:misc",
-  "pid": "21502",
-  "pname": "drchrono Electronic Health Record",
-  "pcpe": "cpe:/a:misc:drchrono_electronic_health_record"
+	"vid": "10264",
+	"vname": "drchrono Inc.",
+	"vcpe": "cpe:/:misc",
+	"pid": "21502",
+	"pname": "drchrono Electronic Health Record",
+	"pcpe": "cpe:/a:misc:drchrono_electronic_health_record"
 }

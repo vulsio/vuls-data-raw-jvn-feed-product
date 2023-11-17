@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "9855",
-  "pname": "client automation enterprise infrastructure",
-  "pcpe": "cpe:/a:hp:client_automation_enterprise_infrastructure"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "9855",
+	"pname": "client automation enterprise infrastructure",
+	"pcpe": "cpe:/a:hp:client_automation_enterprise_infrastructure"
 }

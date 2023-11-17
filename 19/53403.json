@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "53403",
-  "pname": "Business 220-16p-2g ファームウェア",
-  "pcpe": "cpe:/o:cisco:business_220-16p-2g_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "53403",
+	"pname": "Business 220-16p-2g ファームウェア",
+	"pcpe": "cpe:/o:cisco:business_220-16p-2g_firmware"
 }

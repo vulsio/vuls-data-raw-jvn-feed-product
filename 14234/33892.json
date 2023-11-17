@@ -1,8 +1,8 @@
 {
-  "vid": "14234",
-  "vname": "bionode",
-  "vcpe": "cpe:/:bionode",
-  "pid": "33892",
-  "pname": "bionode-sra",
-  "pcpe": "cpe:/a:bionode:bionode-sra"
+	"vid": "14234",
+	"vname": "bionode",
+	"vcpe": "cpe:/:bionode",
+	"pid": "33892",
+	"pname": "bionode-sra",
+	"pcpe": "cpe:/a:bionode:bionode-sra"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "25178",
-  "pname": "foomatic-filters",
-  "pcpe": "cpe:/a:linuxfoundation:foomatic-filters"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "25178",
+	"pname": "foomatic-filters",
+	"pcpe": "cpe:/a:linuxfoundation:foomatic-filters"
 }

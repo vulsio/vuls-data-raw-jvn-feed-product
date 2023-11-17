@@ -1,8 +1,8 @@
 {
-  "vid": "994",
-  "vname": "Chill Creations",
-  "vcpe": "cpe:/:chillcreations",
-  "pid": "9253",
-  "pname": "ccNewsletter",
-  "pcpe": "cpe:/a:chillcreations:mod_ccnewsletter"
+	"vid": "994",
+	"vname": "Chill Creations",
+	"vcpe": "cpe:/:chillcreations",
+	"pid": "9253",
+	"pname": "ccNewsletter",
+	"pcpe": "cpe:/a:chillcreations:mod_ccnewsletter"
 }

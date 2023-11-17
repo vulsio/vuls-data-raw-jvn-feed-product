@@ -1,8 +1,8 @@
 {
-  "vid": "4517",
-  "vname": "Timesheet",
-  "vcpe": "cpe:/:timesheet",
-  "pid": "9642",
-  "pname": "Timesheet Next Gen",
-  "pcpe": "cpe:/a:timesheet:timesheet_next_gen"
+	"vid": "4517",
+	"vname": "Timesheet",
+	"vcpe": "cpe:/:timesheet",
+	"pid": "9642",
+	"pname": "Timesheet Next Gen",
+	"pcpe": "cpe:/a:timesheet:timesheet_next_gen"
 }

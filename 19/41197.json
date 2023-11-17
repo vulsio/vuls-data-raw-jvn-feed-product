@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "41197",
-  "pname": "FireSight Management Center 3500 ファームウェア",
-  "pcpe": "cpe:/o:cisco:firesight_management_center_3500_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "41197",
+	"pname": "FireSight Management Center 3500 ファームウェア",
+	"pcpe": "cpe:/o:cisco:firesight_management_center_3500_firmware"
 }

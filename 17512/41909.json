@@ -1,8 +1,8 @@
 {
-  "vid": "17512",
-  "vname": "SniffIt project",
-  "vcpe": "cpe:/:sniffit_project",
-  "pid": "41909",
-  "pname": "SniffIt",
-  "pcpe": "cpe:/a:sniffit_project:sniffit"
+	"vid": "17512",
+	"vname": "SniffIt project",
+	"vcpe": "cpe:/:sniffit_project",
+	"pid": "41909",
+	"pname": "SniffIt",
+	"pcpe": "cpe:/a:sniffit_project:sniffit"
 }

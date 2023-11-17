@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "5009",
-  "pname": "WebOTX Developer",
-  "pcpe": "cpe:/a:nec:webotx_developer"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "5009",
+	"pname": "WebOTX Developer",
+	"pcpe": "cpe:/a:nec:webotx_developer"
 }

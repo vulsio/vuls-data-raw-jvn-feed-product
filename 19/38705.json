@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38705",
-  "pname": "Cisco Webex Business Suite lockdown",
-  "pcpe": "cpe:/a:cisco:webex_business_suite_lockdown"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38705",
+	"pname": "Cisco Webex Business Suite lockdown",
+	"pcpe": "cpe:/a:cisco:webex_business_suite_lockdown"
 }

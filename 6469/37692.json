@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "37692",
-  "pname": "ILC 171 ETH 2TX ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:ilc_171_eth_2tx_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "37692",
+	"pname": "ILC 171 ETH 2TX ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:ilc_171_eth_2tx_firmware"
 }

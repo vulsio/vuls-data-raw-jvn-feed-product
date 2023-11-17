@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "587",
-  "pname": "GNU tar",
-  "pcpe": "cpe:/a:gnu:tar"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "587",
+	"pname": "GNU tar",
+	"pcpe": "cpe:/a:gnu:tar"
 }

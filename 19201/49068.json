@@ -1,8 +1,8 @@
 {
-  "vid": "19201",
-  "vname": "株式会社ジェイテクト",
-  "vcpe": "cpe:/:jtekt",
-  "pid": "49068",
-  "pname": "Nano Safety RS00IP TUU-1086 ファームウェア",
-  "pcpe": "cpe:/o:jtekt:nano_safety_rs00ip_tuu-1086_firmware"
+	"vid": "19201",
+	"vname": "株式会社ジェイテクト",
+	"vcpe": "cpe:/:jtekt",
+	"pid": "49068",
+	"pname": "Nano Safety RS00IP TUU-1086 ファームウェア",
+	"pcpe": "cpe:/o:jtekt:nano_safety_rs00ip_tuu-1086_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8076",
-  "vname": "Tonec FZE.",
-  "vcpe": "cpe:/:tonec",
-  "pid": "15495",
-  "pname": "Internet Download Manager",
-  "pcpe": "cpe:/a:tonec:internet_download_manager"
+	"vid": "8076",
+	"vname": "Tonec FZE.",
+	"vcpe": "cpe:/:tonec",
+	"pid": "15495",
+	"pname": "Internet Download Manager",
+	"pcpe": "cpe:/a:tonec:internet_download_manager"
 }

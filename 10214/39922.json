@@ -1,8 +1,8 @@
 {
-  "vid": "10214",
-  "vname": "Aptana",
-  "vcpe": "cpe:/:aptana",
-  "pid": "39922",
-  "pname": "Jaxer",
-  "pcpe": "cpe:/a:aptana:jaxer"
+	"vid": "10214",
+	"vname": "Aptana",
+	"vcpe": "cpe:/:aptana",
+	"pid": "39922",
+	"pname": "Jaxer",
+	"pcpe": "cpe:/a:aptana:jaxer"
 }

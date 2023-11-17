@@ -1,8 +1,8 @@
 {
-  "vid": "17371",
-  "vname": "Infosysta",
-  "vcpe": "cpe:/:infosysta",
-  "pid": "41344",
-  "pname": "In-App & Desktop Notification",
-  "pcpe": "cpe:/a:infosysta:in-app_%26_desktop_notifications"
+	"vid": "17371",
+	"vname": "Infosysta",
+	"vcpe": "cpe:/:infosysta",
+	"pid": "41344",
+	"pname": "In-App & Desktop Notification",
+	"pcpe": "cpe:/a:infosysta:in-app_%26_desktop_notifications"
 }

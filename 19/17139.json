@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17139",
-  "pname": "Cisco ASR 1001 ルータ",
-  "pcpe": "cpe:/h:cisco:asr_1001_router"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17139",
+	"pname": "Cisco ASR 1001 ルータ",
+	"pcpe": "cpe:/h:cisco:asr_1001_router"
 }

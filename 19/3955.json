@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3955",
-  "pname": "Cisco Unity Connection",
-  "pcpe": "cpe:/a:cisco:unity_connection"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3955",
+	"pname": "Cisco Unity Connection",
+	"pcpe": "cpe:/a:cisco:unity_connection"
 }

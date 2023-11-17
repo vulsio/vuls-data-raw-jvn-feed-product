@@ -1,8 +1,8 @@
 {
-  "vid": "16692",
-  "vname": "Das Keyboard",
-  "vcpe": "cpe:/:daskeyboard",
-  "pid": "39770",
-  "pname": "Das Keyboard Q software",
-  "pcpe": "cpe:/o:daskeyboard:das_q_software"
+	"vid": "16692",
+	"vname": "Das Keyboard",
+	"vcpe": "cpe:/:daskeyboard",
+	"pid": "39770",
+	"pname": "Das Keyboard Q software",
+	"pcpe": "cpe:/o:daskeyboard:das_q_software"
 }

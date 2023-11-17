@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "48429",
-  "pname": "Acti9 Smartlink EL B ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:acti9_smartlink_el_b_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "48429",
+	"pname": "Acti9 Smartlink EL B ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:acti9_smartlink_el_b_firmware"
 }

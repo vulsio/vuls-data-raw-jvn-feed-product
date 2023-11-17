@@ -1,8 +1,8 @@
 {
-  "vid": "19779",
-  "vname": "http-proxy-agent project",
-  "vcpe": "cpe:/:http-proxy-agent_project",
-  "pid": "49887",
-  "pname": "http-proxy-agent",
-  "pcpe": "cpe:/a:http-proxy-agent_project:http-proxy-agent"
+	"vid": "19779",
+	"vname": "http-proxy-agent project",
+	"vcpe": "cpe:/:http-proxy-agent_project",
+	"pid": "49887",
+	"pname": "http-proxy-agent",
+	"pcpe": "cpe:/a:http-proxy-agent_project:http-proxy-agent"
 }

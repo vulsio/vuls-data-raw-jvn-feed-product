@@ -1,8 +1,8 @@
 {
-  "vid": "639",
-  "vname": "富士フイルムビジネスイノベーション株式会社 (旧 富士ゼロックス株式会社)",
-  "vcpe": "cpe:/:fuji_xerox",
-  "pid": "55239",
-  "pname": "ドライバー配布ツール",
-  "pcpe": "cpe:/a:fuji_xerox:driver_distribution_tool"
+	"vid": "639",
+	"vname": "富士フイルムビジネスイノベーション株式会社 (旧 富士ゼロックス株式会社)",
+	"vcpe": "cpe:/:fuji_xerox",
+	"pid": "55239",
+	"pname": "ドライバー配布ツール",
+	"pcpe": "cpe:/a:fuji_xerox:driver_distribution_tool"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4158",
-  "vname": "valve software",
-  "vcpe": "cpe:/:valvesoftware",
-  "pid": "18968",
-  "pname": "SteamOS",
-  "pcpe": "cpe:/o:valvesoftware:steamos"
+	"vid": "4158",
+	"vname": "valve software",
+	"vcpe": "cpe:/:valvesoftware",
+	"pid": "18968",
+	"pname": "SteamOS",
+	"pcpe": "cpe:/o:valvesoftware:steamos"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16047",
-  "vname": "Go CORS project",
-  "vcpe": "cpe:/:go_cors_project",
-  "pid": "37550",
-  "pname": "Go CORS",
-  "pcpe": "cpe:/a:go_cors_project:go_cors"
+	"vid": "16047",
+	"vname": "Go CORS project",
+	"vcpe": "cpe:/:go_cors_project",
+	"pid": "37550",
+	"pname": "Go CORS",
+	"pcpe": "cpe:/a:go_cors_project:go_cors"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12739",
-  "vname": "Perltidy project",
-  "vcpe": "cpe:/:perltidy_project",
-  "pid": "29292",
-  "pname": "Perltidy",
-  "pcpe": "cpe:/a:perltidy_project:perltidy"
+	"vid": "12739",
+	"vname": "Perltidy project",
+	"vcpe": "cpe:/:perltidy_project",
+	"pid": "29292",
+	"pname": "Perltidy",
+	"pcpe": "cpe:/a:perltidy_project:perltidy"
 }

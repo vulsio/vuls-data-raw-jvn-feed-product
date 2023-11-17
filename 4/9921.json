@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "9921",
-  "pname": "storageworks replication monitor",
-  "pcpe": "cpe:/a:hp:storageworks_replication_monitor"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "9921",
+	"pname": "storageworks replication monitor",
+	"pcpe": "cpe:/a:hp:storageworks_replication_monitor"
 }

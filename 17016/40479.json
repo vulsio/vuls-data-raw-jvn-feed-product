@@ -1,8 +1,8 @@
 {
-  "vid": "17016",
-  "vname": "Search Exclude project",
-  "vcpe": "cpe:/:search_exclude_project",
-  "pid": "40479",
-  "pname": "Search Exclude",
-  "pcpe": "cpe:/a:search_exclude_project:search_exclude"
+	"vid": "17016",
+	"vname": "Search Exclude project",
+	"vcpe": "cpe:/:search_exclude_project",
+	"pid": "40479",
+	"pname": "Search Exclude",
+	"pcpe": "cpe:/a:search_exclude_project:search_exclude"
 }

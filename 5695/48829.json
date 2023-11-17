@@ -1,8 +1,8 @@
 {
-  "vid": "5695",
-  "vname": "Mitel Networks Corporation",
-  "vcpe": "cpe:/:mitel",
-  "pid": "48829",
-  "pname": "MiVoice 6940 ファームウェア",
-  "pcpe": "cpe:/o:mitel:mivoice_6940_firmware"
+	"vid": "5695",
+	"vname": "Mitel Networks Corporation",
+	"vcpe": "cpe:/:mitel",
+	"pid": "48829",
+	"pname": "MiVoice 6940 ファームウェア",
+	"pcpe": "cpe:/o:mitel:mivoice_6940_firmware"
 }

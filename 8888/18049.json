@@ -1,8 +1,8 @@
 {
-  "vid": "8888",
-  "vname": "Schweitzer Engineering Laboratories",
-  "vcpe": "cpe:/:selinc",
-  "pid": "18049",
-  "pname": "SEL-3530-4",
-  "pcpe": "cpe:/h:selinc:sel-3530-4"
+	"vid": "8888",
+	"vname": "Schweitzer Engineering Laboratories",
+	"vcpe": "cpe:/:selinc",
+	"pid": "18049",
+	"pname": "SEL-3530-4",
+	"pcpe": "cpe:/h:selinc:sel-3530-4"
 }

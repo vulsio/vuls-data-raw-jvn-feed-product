@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "51483",
-  "pname": "H610C ファームウェア",
-  "pcpe": "cpe:/o:netapp:h610c_firmware"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "51483",
+	"pname": "H610C ファームウェア",
+	"pcpe": "cpe:/o:netapp:h610c_firmware"
 }

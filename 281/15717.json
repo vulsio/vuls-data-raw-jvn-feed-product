@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "15717",
-  "pname": "73-oubuntu",
-  "pcpe": "cpe:/a:canonical:73-oubuntu"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "15717",
+	"pname": "73-oubuntu",
+	"pcpe": "cpe:/a:canonical:73-oubuntu"
 }

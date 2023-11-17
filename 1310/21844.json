@@ -1,8 +1,8 @@
 {
-  "vid": "1310",
-  "vname": "K7 Computing",
-  "vcpe": "cpe:/:k7computing",
-  "pid": "21844",
-  "pname": "K7AV Sentry Device Driver",
-  "pcpe": "cpe:/a:k7computing:k7av_sentry_device_driver"
+	"vid": "1310",
+	"vname": "K7 Computing",
+	"vcpe": "cpe:/:k7computing",
+	"pid": "21844",
+	"pname": "K7AV Sentry Device Driver",
+	"pcpe": "cpe:/a:k7computing:k7av_sentry_device_driver"
 }

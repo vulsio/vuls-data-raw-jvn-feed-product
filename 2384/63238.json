@@ -1,8 +1,8 @@
 {
-  "vid": "2384",
-  "vname": "オートデスク株式会社",
-  "vcpe": "cpe:/:autodesk",
-  "pid": "63238",
-  "pname": "moldflow adviser",
-  "pcpe": "cpe:/a:autodesk:moldflow_adviser"
+	"vid": "2384",
+	"vname": "オートデスク株式会社",
+	"vcpe": "cpe:/:autodesk",
+	"pid": "63238",
+	"pname": "moldflow adviser",
+	"pcpe": "cpe:/a:autodesk:moldflow_adviser"
 }

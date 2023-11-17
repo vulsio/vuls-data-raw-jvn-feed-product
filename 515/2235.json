@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "2235",
-  "pname": "VMware vCenter",
-  "pcpe": "cpe:/a:vmware:vcenter"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "2235",
+	"pname": "VMware vCenter",
+	"pcpe": "cpe:/a:vmware:vcenter"
 }

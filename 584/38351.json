@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "38351",
-  "pname": "SIMATIC ET 200 SP OPEN Controller CPU 1515SP PC ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_et_200_sp_open_controller_cpu_1515sp_pc_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "38351",
+	"pname": "SIMATIC ET 200 SP OPEN Controller CPU 1515SP PC ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_et_200_sp_open_controller_cpu_1515sp_pc_firmware"
 }

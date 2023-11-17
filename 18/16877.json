@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "16877",
-  "pname": "IBM InfoSphere Business Glossary",
-  "pcpe": "cpe:/a:ibm:infosphere_business_glossary"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "16877",
+	"pname": "IBM InfoSphere Business Glossary",
+	"pcpe": "cpe:/a:ibm:infosphere_business_glossary"
 }

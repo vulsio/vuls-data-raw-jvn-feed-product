@@ -1,8 +1,8 @@
 {
-  "vid": "8554",
-  "vname": "drunomics",
-  "vcpe": "cpe:/:wolfgang_ziegler",
-  "pid": "20608",
-  "pname": "Entity API モジュール",
-  "pcpe": "cpe:/a:wolfgang_ziegler:entity_api_module"
+	"vid": "8554",
+	"vname": "drunomics",
+	"vcpe": "cpe:/:wolfgang_ziegler",
+	"pid": "20608",
+	"pname": "Entity API モジュール",
+	"pcpe": "cpe:/a:wolfgang_ziegler:entity_api_module"
 }

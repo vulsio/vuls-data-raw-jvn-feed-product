@@ -1,8 +1,8 @@
 {
-  "vid": "22272",
-  "vname": "Login with phone number project",
-  "vcpe": "cpe:/:login_with_phone_number_project",
-  "pid": "57266",
-  "pname": "Login with phone number",
-  "pcpe": "cpe:/a:login_with_phone_number_project:login_with_phone_number"
+	"vid": "22272",
+	"vname": "Login with phone number project",
+	"vcpe": "cpe:/:login_with_phone_number_project",
+	"pid": "57266",
+	"pname": "Login with phone number",
+	"pcpe": "cpe:/a:login_with_phone_number_project:login_with_phone_number"
 }

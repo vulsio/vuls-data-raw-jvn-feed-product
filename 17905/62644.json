@@ -1,8 +1,8 @@
 {
-  "vid": "17905",
-  "vname": "Gluu, Inc.",
-  "vcpe": "cpe:/:gluu",
-  "pid": "62644",
-  "pname": "oxauth",
-  "pcpe": "cpe:/a:gluu:oxauth"
+	"vid": "17905",
+	"vname": "Gluu, Inc.",
+	"vcpe": "cpe:/:gluu",
+	"pid": "62644",
+	"pname": "oxauth",
+	"pcpe": "cpe:/a:gluu:oxauth"
 }

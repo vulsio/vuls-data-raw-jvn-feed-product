@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "46886",
-  "pname": "Antivirus+",
-  "pcpe": "cpe:/a:trendmicro:antivirus%2B"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "46886",
+	"pname": "Antivirus+",
+	"pcpe": "cpe:/a:trendmicro:antivirus%2B"
 }

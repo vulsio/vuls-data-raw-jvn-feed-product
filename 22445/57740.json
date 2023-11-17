@@ -1,8 +1,8 @@
 {
-  "vid": "22445",
-  "vname": "C-DATA ONU4FERW project",
-  "vcpe": "cpe:/:c-data_onu4ferw_project",
-  "pid": "57740",
-  "pname": "C-DATA ONU4FERW ファームウェア",
-  "pcpe": "cpe:/o:c-data_onu4ferw_project:c-data_onu4ferw_firmware"
+	"vid": "22445",
+	"vname": "C-DATA ONU4FERW project",
+	"vcpe": "cpe:/:c-data_onu4ferw_project",
+	"pid": "57740",
+	"pname": "C-DATA ONU4FERW ファームウェア",
+	"pcpe": "cpe:/o:c-data_onu4ferw_project:c-data_onu4ferw_firmware"
 }

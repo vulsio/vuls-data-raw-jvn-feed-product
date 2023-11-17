@@ -1,8 +1,8 @@
 {
-  "vid": "13414",
-  "vname": "GitPHP project",
-  "vcpe": "cpe:/:gitphp_project",
-  "pid": "31567",
-  "pname": "GitPHP",
-  "pcpe": "cpe:/a:gitphp_project:gitphp"
+	"vid": "13414",
+	"vname": "GitPHP project",
+	"vcpe": "cpe:/:gitphp_project",
+	"pid": "31567",
+	"pname": "GitPHP",
+	"pcpe": "cpe:/a:gitphp_project:gitphp"
 }

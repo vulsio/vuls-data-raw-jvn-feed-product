@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "61685",
-  "pname": "One Hand Operation +",
-  "pcpe": "cpe:/a:samsung:one_hand_operation_%2b"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "61685",
+	"pname": "One Hand Operation +",
+	"pcpe": "cpe:/a:samsung:one_hand_operation_%2b"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "60311",
-  "pname": "flmg-10 ファームウェア",
-  "pcpe": "cpe:/o:huawei:flmg-10_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "60311",
+	"pname": "flmg-10 ファームウェア",
+	"pcpe": "cpe:/o:huawei:flmg-10_firmware"
 }

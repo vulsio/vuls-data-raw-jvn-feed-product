@@ -1,8 +1,8 @@
 {
-  "vid": "12165",
-  "vname": "ボッシュ・レックスロス",
-  "vcpe": "cpe:/:rexroth",
-  "pid": "26490",
-  "pname": "BLADEcontrol-WebVIS",
-  "pcpe": "cpe:/a:rexroth:bladecontrol-webvis"
+	"vid": "12165",
+	"vname": "ボッシュ・レックスロス",
+	"vcpe": "cpe:/:rexroth",
+	"pid": "26490",
+	"pname": "BLADEcontrol-WebVIS",
+	"pcpe": "cpe:/a:rexroth:bladecontrol-webvis"
 }

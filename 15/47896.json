@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47896",
-  "pname": "Oracle Application Express Opportunity Tracker",
-  "pcpe": "cpe:/a:oracle:application_express_opportunity_tracker"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47896",
+	"pname": "Oracle Application Express Opportunity Tracker",
+	"pcpe": "cpe:/a:oracle:application_express_opportunity_tracker"
 }

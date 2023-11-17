@@ -1,8 +1,8 @@
 {
-  "vid": "5695",
-  "vname": "Mitel Networks Corporation",
-  "vcpe": "cpe:/:mitel",
-  "pid": "39076",
-  "pname": "MiCollab",
-  "pcpe": "cpe:/a:mitel:micollab"
+	"vid": "5695",
+	"vname": "Mitel Networks Corporation",
+	"vcpe": "cpe:/:mitel",
+	"pid": "39076",
+	"pname": "MiCollab",
+	"pcpe": "cpe:/a:mitel:micollab"
 }

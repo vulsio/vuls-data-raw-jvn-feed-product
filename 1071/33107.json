@@ -1,8 +1,8 @@
 {
-  "vid": "1071",
-  "vname": "MaraDNS",
-  "vcpe": "cpe:/:maradns",
-  "pid": "33107",
-  "pname": "Deadwood",
-  "pcpe": "cpe:/a:maradns:deadwood"
+	"vid": "1071",
+	"vname": "MaraDNS",
+	"vcpe": "cpe:/:maradns",
+	"pid": "33107",
+	"pname": "Deadwood",
+	"pcpe": "cpe:/a:maradns:deadwood"
 }

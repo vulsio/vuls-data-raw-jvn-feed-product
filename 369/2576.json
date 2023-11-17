@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "2576",
-  "pname": "CA Network and Systems Management",
-  "pcpe": "cpe:/a:ca:network_and_systems_management"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "2576",
+	"pname": "CA Network and Systems Management",
+	"pcpe": "cpe:/a:ca:network_and_systems_management"
 }

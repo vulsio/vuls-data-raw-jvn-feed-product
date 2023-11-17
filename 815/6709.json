@@ -1,8 +1,8 @@
 {
-  "vid": "815",
-  "vname": "Chipmunk Scripts",
-  "vcpe": "cpe:/:chipmunk-scripts",
-  "pid": "6709",
-  "pname": "chipmunk guestbook",
-  "pcpe": "cpe:/a:chipmunk-scripts:chipmunk_guestbook"
+	"vid": "815",
+	"vname": "Chipmunk Scripts",
+	"vcpe": "cpe:/:chipmunk-scripts",
+	"pid": "6709",
+	"pname": "chipmunk guestbook",
+	"pcpe": "cpe:/a:chipmunk-scripts:chipmunk_guestbook"
 }

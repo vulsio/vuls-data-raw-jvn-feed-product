@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "17313",
-  "pname": "JP1/Automatic Operation",
-  "pcpe": "cpe:/a:hitachi:jp1_automatic_operation"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "17313",
+	"pname": "JP1/Automatic Operation",
+	"pcpe": "cpe:/a:hitachi:jp1_automatic_operation"
 }

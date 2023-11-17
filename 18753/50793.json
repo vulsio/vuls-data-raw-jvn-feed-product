@@ -1,8 +1,8 @@
 {
-  "vid": "18753",
-  "vname": "エレコム株式会社",
-  "vcpe": "cpe:/:elecom",
-  "pid": "50793",
-  "pname": "WRH-300LB3-S ファームウェア",
-  "pcpe": "cpe:/o:elecom:wrh-300lb3-s_firmware"
+	"vid": "18753",
+	"vname": "エレコム株式会社",
+	"vcpe": "cpe:/:elecom",
+	"pid": "50793",
+	"pname": "WRH-300LB3-S ファームウェア",
+	"pcpe": "cpe:/o:elecom:wrh-300lb3-s_firmware"
 }

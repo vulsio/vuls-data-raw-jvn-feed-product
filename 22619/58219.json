@@ -1,8 +1,8 @@
 {
-  "vid": "22619",
-  "vname": "ip-label",
-  "vcpe": "cpe:/:ip-label",
-  "pid": "58219",
-  "pname": "Newtest",
-  "pcpe": "cpe:/a:ip-label:newtest"
+	"vid": "22619",
+	"vname": "ip-label",
+	"vcpe": "cpe:/:ip-label",
+	"pid": "58219",
+	"pname": "Newtest",
+	"pcpe": "cpe:/a:ip-label:newtest"
 }

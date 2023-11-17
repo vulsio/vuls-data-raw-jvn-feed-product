@@ -1,8 +1,8 @@
 {
-  "vid": "1770",
-  "vname": "ウォッチガード・テクノロジー",
-  "vcpe": "cpe:/:watchguard",
-  "pid": "33559",
-  "pname": "WatchGuard AP200 ファームウェア",
-  "pcpe": "cpe:/o:watchguard:ap200_firmware"
+	"vid": "1770",
+	"vname": "ウォッチガード・テクノロジー",
+	"vcpe": "cpe:/:watchguard",
+	"pid": "33559",
+	"pname": "WatchGuard AP200 ファームウェア",
+	"pcpe": "cpe:/o:watchguard:ap200_firmware"
 }

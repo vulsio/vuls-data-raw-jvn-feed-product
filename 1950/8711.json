@@ -1,8 +1,8 @@
 {
-  "vid": "1950",
-  "vname": "3com",
-  "vcpe": "cpe:/:3com",
-  "pid": "8711",
-  "pname": "superstack 3 switch 4400",
-  "pcpe": "cpe:/h:3com:superstack_3_switch_4400"
+	"vid": "1950",
+	"vname": "3com",
+	"vcpe": "cpe:/:3com",
+	"pid": "8711",
+	"pname": "superstack 3 switch 4400",
+	"pcpe": "cpe:/h:3com:superstack_3_switch_4400"
 }

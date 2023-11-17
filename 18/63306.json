@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "63306",
-  "pname": "Common Cryptographic Architecture",
-  "pcpe": "cpe:/a:ibm:common_cryptographic_architecture"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "63306",
+	"pname": "Common Cryptographic Architecture",
+	"pcpe": "cpe:/a:ibm:common_cryptographic_architecture"
 }

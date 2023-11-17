@@ -1,8 +1,8 @@
 {
-  "vid": "19345",
-  "vname": "Discord Recon project",
-  "vcpe": "cpe:/:discord-recon_project",
-  "pid": "48726",
-  "pname": "Discord Recon",
-  "pcpe": "cpe:/a:discord-recon_project:discord-recon"
+	"vid": "19345",
+	"vname": "Discord Recon project",
+	"vcpe": "cpe:/:discord-recon_project",
+	"pid": "48726",
+	"pname": "Discord Recon",
+	"pcpe": "cpe:/a:discord-recon_project:discord-recon"
 }

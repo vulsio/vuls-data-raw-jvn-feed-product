@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "23566",
-  "pname": "DAP-1320",
-  "pcpe": "cpe:/h:dlink:dap-1320"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "23566",
+	"pname": "DAP-1320",
+	"pcpe": "cpe:/h:dlink:dap-1320"
 }

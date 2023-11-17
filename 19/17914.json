@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17914",
-  "pname": "Cisco VC220 Dome Network Camera",
-  "pcpe": "cpe:/h:cisco:video_surveillance_vc220_network_dome_camera"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17914",
+	"pname": "Cisco VC220 Dome Network Camera",
+	"pcpe": "cpe:/h:cisco:video_surveillance_vc220_network_dome_camera"
 }

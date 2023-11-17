@@ -1,8 +1,8 @@
 {
-  "vid": "94",
-  "vname": "Joomla!",
-  "vcpe": "cpe:/:joomla",
-  "pid": "10607",
-  "pname": "webring component",
-  "pcpe": "cpe:/a:joomla:webring_component"
+	"vid": "94",
+	"vname": "Joomla!",
+	"vcpe": "cpe:/:joomla",
+	"pid": "10607",
+	"pname": "webring component",
+	"pcpe": "cpe:/a:joomla:webring_component"
 }

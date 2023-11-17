@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47841",
-  "pname": "Oracle Projects",
-  "pcpe": "cpe:/a:oracle:projects"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47841",
+	"pname": "Oracle Projects",
+	"pcpe": "cpe:/a:oracle:projects"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15648",
-  "vname": "LINK-NET",
-  "vcpe": "cpe:/:linknet-usa",
-  "pid": "36408",
-  "pname": "LW-N605R ファームウェア",
-  "pcpe": "cpe:/o:linknet-usa:lw-n605r_firmware"
+	"vid": "15648",
+	"vname": "LINK-NET",
+	"vcpe": "cpe:/:linknet-usa",
+	"pid": "36408",
+	"pname": "LW-N605R ファームウェア",
+	"pcpe": "cpe:/o:linknet-usa:lw-n605r_firmware"
 }

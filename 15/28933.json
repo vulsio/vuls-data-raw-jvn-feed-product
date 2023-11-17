@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "28933",
-  "pname": "Oracle Retail Invoice Matching",
-  "pcpe": "cpe:/a:oracle:retail_invoice_matching"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "28933",
+	"pname": "Oracle Retail Invoice Matching",
+	"pcpe": "cpe:/a:oracle:retail_invoice_matching"
 }

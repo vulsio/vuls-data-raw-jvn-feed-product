@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "57375",
-  "pname": "BSAFE SSL-J",
-  "pcpe": "cpe:/a:dell:bsafe_ssl-j"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "57375",
+	"pname": "BSAFE SSL-J",
+	"pcpe": "cpe:/a:dell:bsafe_ssl-j"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15728",
-  "vname": "libjpeg-turbo",
-  "vcpe": "cpe:/:libjpeg-turbo",
-  "pid": "36599",
-  "pname": "libjpeg-turbo",
-  "pcpe": "cpe:/a:libjpeg-turbo:libjpeg-turbo"
+	"vid": "15728",
+	"vname": "libjpeg-turbo",
+	"vcpe": "cpe:/:libjpeg-turbo",
+	"pid": "36599",
+	"pname": "libjpeg-turbo",
+	"pcpe": "cpe:/a:libjpeg-turbo:libjpeg-turbo"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17846",
-  "vname": "feedgen project",
-  "vcpe": "cpe:/:feedgen_project",
-  "pid": "43058",
-  "pname": "Feedgen",
-  "pcpe": "cpe:/a:feedgen_project:feedgen"
+	"vid": "17846",
+	"vname": "feedgen project",
+	"vcpe": "cpe:/:feedgen_project",
+	"pid": "43058",
+	"pname": "Feedgen",
+	"pcpe": "cpe:/a:feedgen_project:feedgen"
 }

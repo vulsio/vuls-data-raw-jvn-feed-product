@@ -1,8 +1,8 @@
 {
-  "vid": "14274",
-  "vname": "libxl project",
-  "vcpe": "cpe:/:libxl_project",
-  "pid": "33952",
-  "pname": "libxl",
-  "pcpe": "cpe:/a:libxl_project:libxl"
+	"vid": "14274",
+	"vname": "libxl project",
+	"vcpe": "cpe:/:libxl_project",
+	"pid": "33952",
+	"pname": "libxl",
+	"pcpe": "cpe:/a:libxl_project:libxl"
 }

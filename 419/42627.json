@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "42627",
-  "pname": "E-Series SANtricity Management",
-  "pcpe": "cpe:/a:netapp:e-series_santricity_management"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "42627",
+	"pname": "E-Series SANtricity Management",
+	"pcpe": "cpe:/a:netapp:e-series_santricity_management"
 }

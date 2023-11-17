@@ -1,8 +1,8 @@
 {
-  "vid": "11451",
-  "vname": "JetBrains",
-  "vcpe": "cpe:/:jetbrains",
-  "pid": "35584",
-  "pname": "IntelliJ IDEA",
-  "pcpe": "cpe:/a:jetbrains:intellij_idea"
+	"vid": "11451",
+	"vname": "JetBrains",
+	"vcpe": "cpe:/:jetbrains",
+	"pid": "35584",
+	"pname": "IntelliJ IDEA",
+	"pcpe": "cpe:/a:jetbrains:intellij_idea"
 }

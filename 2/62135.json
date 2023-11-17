@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "62135",
-  "pname": "Microsoft Identity Linux Broker",
-  "pcpe": "cpe:/a:microsoft:identity_linux_broker"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "62135",
+	"pname": "Microsoft Identity Linux Broker",
+	"pcpe": "cpe:/a:microsoft:identity_linux_broker"
 }

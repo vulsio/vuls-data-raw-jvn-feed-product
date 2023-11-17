@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26739",
-  "pname": "HPE Synergy Planning Tool",
-  "pcpe": "cpe:/a:hp:synergy_planning_tool"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26739",
+	"pname": "HPE Synergy Planning Tool",
+	"pcpe": "cpe:/a:hp:synergy_planning_tool"
 }

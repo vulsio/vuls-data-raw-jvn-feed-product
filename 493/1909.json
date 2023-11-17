@@ -1,8 +1,8 @@
 {
-  "vid": "493",
-  "vname": "Dassault Systemes",
-  "vcpe": "cpe:/:3ds",
-  "pid": "1909",
-  "pname": "ENOVIA SmarTeam",
-  "pcpe": "cpe:/a:3ds:enovia_smarteam"
+	"vid": "493",
+	"vname": "Dassault Systemes",
+	"vcpe": "cpe:/:3ds",
+	"pid": "1909",
+	"pname": "ENOVIA SmarTeam",
+	"pcpe": "cpe:/a:3ds:enovia_smarteam"
 }

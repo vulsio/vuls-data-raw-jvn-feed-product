@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "12824",
-  "pname": "SmartAX MT882",
-  "pcpe": "cpe:/h:huawei:mt882"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "12824",
+	"pname": "SmartAX MT882",
+	"pcpe": "cpe:/h:huawei:mt882"
 }

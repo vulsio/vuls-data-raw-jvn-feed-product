@@ -1,8 +1,8 @@
 {
-  "vid": "20226",
-  "vname": "ChimpGroup",
-  "vcpe": "cpe:/:chimpgroup",
-  "pid": "51500",
-  "pname": "Foodbakery",
-  "pcpe": "cpe:/a:chimpgroup:foodbakery"
+	"vid": "20226",
+	"vname": "ChimpGroup",
+	"vcpe": "cpe:/:chimpgroup",
+	"pid": "51500",
+	"pname": "Foodbakery",
+	"pcpe": "cpe:/a:chimpgroup:foodbakery"
 }

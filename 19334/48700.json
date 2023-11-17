@@ -1,8 +1,8 @@
 {
-  "vid": "19334",
-  "vname": "Utimaco",
-  "vcpe": "cpe:/:utimaco",
-  "pid": "48700",
-  "pname": "Utimaco CryptoServer CP5 VS-NFD ファームウェア",
-  "pcpe": "cpe:/o:utimaco:cryptoserver_cp5_vs-nfd_firmware"
+	"vid": "19334",
+	"vname": "Utimaco",
+	"vcpe": "cpe:/:utimaco",
+	"pid": "48700",
+	"pname": "Utimaco CryptoServer CP5 VS-NFD ファームウェア",
+	"pcpe": "cpe:/o:utimaco:cryptoserver_cp5_vs-nfd_firmware"
 }

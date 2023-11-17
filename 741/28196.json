@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "28196",
-  "pname": "DI-524 ファームウェア",
-  "pcpe": "cpe:/o:dlink:di-524_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "28196",
+	"pname": "DI-524 ファームウェア",
+	"pcpe": "cpe:/o:dlink:di-524_firmware"
 }

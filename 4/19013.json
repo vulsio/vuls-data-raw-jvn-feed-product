@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "19013",
-  "pname": "HP LaserJet Pro 100 color MFP M175",
-  "pcpe": "cpe:/h:hp:laserjet_pro_100_color_mfp_m175"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "19013",
+	"pname": "HP LaserJet Pro 100 color MFP M175",
+	"pcpe": "cpe:/h:hp:laserjet_pro_100_color_mfp_m175"
 }

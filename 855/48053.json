@@ -1,8 +1,8 @@
 {
-  "vid": "855",
-  "vname": "NetArt Media",
-  "vcpe": "cpe:/:netartmedia",
-  "pid": "48053",
-  "pname": "News Lister",
-  "pcpe": "cpe:/a:netartmedia:news_lister"
+	"vid": "855",
+	"vname": "NetArt Media",
+	"vcpe": "cpe:/:netartmedia",
+	"pid": "48053",
+	"pname": "News Lister",
+	"pcpe": "cpe:/a:netartmedia:news_lister"
 }

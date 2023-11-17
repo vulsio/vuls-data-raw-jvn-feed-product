@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "43768",
-  "pname": "Application Inspector",
-  "pcpe": "cpe:/a:microsoft:application_inspector"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "43768",
+	"pname": "Application Inspector",
+	"pcpe": "cpe:/a:microsoft:application_inspector"
 }

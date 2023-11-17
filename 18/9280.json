@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9280",
-  "pname": "Power Hardware Management Console",
-  "pcpe": "cpe:/a:ibm:power_hardware_management_console"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9280",
+	"pname": "Power Hardware Management Console",
+	"pcpe": "cpe:/a:ibm:power_hardware_management_console"
 }

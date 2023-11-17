@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "47602",
-  "pname": "SAP Commerce Cloud (Accelerator Payment Mock)",
-  "pcpe": "cpe:/a:sap:commerce_cloud_%28accelerator_payment_mock%29"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "47602",
+	"pname": "SAP Commerce Cloud (Accelerator Payment Mock)",
+	"pcpe": "cpe:/a:sap:commerce_cloud_%28accelerator_payment_mock%29"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3025",
-  "vname": "customcms",
-  "vcpe": "cpe:/:customcms",
-  "pid": "7064",
-  "pname": "ccms",
-  "pcpe": "cpe:/a:customcms:ccms"
+	"vid": "3025",
+	"vname": "customcms",
+	"vcpe": "cpe:/:customcms",
+	"pid": "7064",
+	"pname": "ccms",
+	"pcpe": "cpe:/a:customcms:ccms"
 }

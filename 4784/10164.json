@@ -1,8 +1,8 @@
 {
-  "vid": "4784",
-  "vname": "inoutscripts",
-  "vcpe": "cpe:/:inoutscripts",
-  "pid": "10164",
-  "pname": "inout adserver",
-  "pcpe": "cpe:/a:inoutscripts:inout_adserver"
+	"vid": "4784",
+	"vname": "inoutscripts",
+	"vcpe": "cpe:/:inoutscripts",
+	"pid": "10164",
+	"pname": "inout adserver",
+	"pcpe": "cpe:/a:inoutscripts:inout_adserver"
 }

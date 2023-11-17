@@ -1,8 +1,8 @@
 {
-  "vid": "404",
-  "vname": "Citect",
-  "vcpe": "cpe:/:citect",
-  "pid": "1530",
-  "pname": "CitectSCADA",
-  "pcpe": "cpe:/a:citect:citectscada"
+	"vid": "404",
+	"vname": "Citect",
+	"vcpe": "cpe:/:citect",
+	"pid": "1530",
+	"pname": "CitectSCADA",
+	"pcpe": "cpe:/a:citect:citectscada"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9112",
-  "vname": "ExactCODE",
-  "vcpe": "cpe:/:exactcode",
-  "pid": "18391",
-  "pname": "ExactImage",
-  "pcpe": "cpe:/a:exactcode:exactimage"
+	"vid": "9112",
+	"vname": "ExactCODE",
+	"vcpe": "cpe:/:exactcode",
+	"pid": "18391",
+	"pname": "ExactImage",
+	"pcpe": "cpe:/a:exactcode:exactimage"
 }

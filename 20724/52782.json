@@ -1,8 +1,8 @@
 {
-  "vid": "20724",
-  "vname": "in-toto",
-  "vcpe": "cpe:/:in-toto",
-  "pid": "52782",
-  "pname": "in-toto-golang",
-  "pcpe": "cpe:/a:in-toto:in-toto-golang"
+	"vid": "20724",
+	"vname": "in-toto",
+	"vcpe": "cpe:/:in-toto",
+	"pid": "52782",
+	"pname": "in-toto-golang",
+	"pcpe": "cpe:/a:in-toto:in-toto-golang"
 }

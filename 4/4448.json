@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4448",
-  "pname": "virtual server environment",
-  "pcpe": "cpe:/a:hp:virtual_server_environment"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4448",
+	"pname": "virtual server environment",
+	"pcpe": "cpe:/a:hp:virtual_server_environment"
 }

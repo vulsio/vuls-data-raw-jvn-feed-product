@@ -1,8 +1,8 @@
 {
-  "vid": "13111",
-  "vname": "Event Espresso",
-  "vcpe": "cpe:/:eventespresso",
-  "pid": "30553",
-  "pname": "Event Espresso Lite",
-  "pcpe": "cpe:/a:eventespresso:event_espresso_lite"
+	"vid": "13111",
+	"vname": "Event Espresso",
+	"vcpe": "cpe:/:eventespresso",
+	"pid": "30553",
+	"pname": "Event Espresso Lite",
+	"pcpe": "cpe:/a:eventespresso:event_espresso_lite"
 }

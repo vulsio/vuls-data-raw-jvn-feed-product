@@ -1,8 +1,8 @@
 {
-  "vid": "10164",
-  "vname": "SEGA of America",
-  "vcpe": "cpe:/:sega",
-  "pid": "21288",
-  "pname": "Sonic CD Lite",
-  "pcpe": "cpe:/a:sega:sonic_cd_lite"
+	"vid": "10164",
+	"vname": "SEGA of America",
+	"vcpe": "cpe:/:sega",
+	"pid": "21288",
+	"pname": "Sonic CD Lite",
+	"pcpe": "cpe:/a:sega:sonic_cd_lite"
 }

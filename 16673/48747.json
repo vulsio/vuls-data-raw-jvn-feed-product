@@ -1,8 +1,8 @@
 {
-  "vid": "16673",
-  "vname": "Software AG",
-  "vcpe": "cpe:/:softwareag",
-  "pid": "48747",
-  "pname": "Terracotta Server OSS Docker",
-  "pcpe": "cpe:/a:softwareag:terracotta_server_oss"
+	"vid": "16673",
+	"vname": "Software AG",
+	"vcpe": "cpe:/:softwareag",
+	"pid": "48747",
+	"pname": "Terracotta Server OSS Docker",
+	"pcpe": "cpe:/a:softwareag:terracotta_server_oss"
 }

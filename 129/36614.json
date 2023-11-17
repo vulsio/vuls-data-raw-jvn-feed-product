@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "36614",
-  "pname": "JP1/SNMP System Observer",
-  "pcpe": "cpe:/a:hitachi:jp1_snmp_system_observer"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "36614",
+	"pname": "JP1/SNMP System Observer",
+	"pcpe": "cpe:/a:hitachi:jp1_snmp_system_observer"
 }

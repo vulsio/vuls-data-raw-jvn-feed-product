@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "23459",
-  "pname": "Quidway S5700",
-  "pcpe": "cpe:/h:huawei:quidway_s5700"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "23459",
+	"pname": "Quidway S5700",
+	"pcpe": "cpe:/h:huawei:quidway_s5700"
 }

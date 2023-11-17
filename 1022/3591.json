@@ -1,8 +1,8 @@
 {
-  "vid": "1022",
-  "vname": "RPM",
-  "vcpe": "cpe:/:rpm",
-  "pid": "3591",
-  "pname": "RPM Package Manager",
-  "pcpe": "cpe:/a:rpm:rpm"
+	"vid": "1022",
+	"vname": "RPM",
+	"vcpe": "cpe:/:rpm",
+	"pid": "3591",
+	"pname": "RPM Package Manager",
+	"pcpe": "cpe:/a:rpm:rpm"
 }

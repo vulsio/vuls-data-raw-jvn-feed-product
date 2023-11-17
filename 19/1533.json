@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "1533",
-  "pname": "Cisco SCE 1000 シリーズ",
-  "pcpe": "cpe:/h:cisco:sce_1000"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "1533",
+	"pname": "Cisco SCE 1000 シリーズ",
+	"pcpe": "cpe:/h:cisco:sce_1000"
 }

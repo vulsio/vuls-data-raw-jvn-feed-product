@@ -1,8 +1,8 @@
 {
-  "vid": "5752",
-  "vname": "mortbay jetty",
-  "vcpe": "cpe:/:mortbay_jetty",
-  "pid": "11701",
-  "pname": "jetty",
-  "pcpe": "cpe:/a:mortbay_jetty:jetty"
+	"vid": "5752",
+	"vname": "mortbay jetty",
+	"vcpe": "cpe:/:mortbay_jetty",
+	"pid": "11701",
+	"pname": "jetty",
+	"pcpe": "cpe:/a:mortbay_jetty:jetty"
 }

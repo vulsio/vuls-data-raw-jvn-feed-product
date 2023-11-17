@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "28299",
-  "pname": "Honeywell Experion Process Knowledge System",
-  "pcpe": "cpe:/o:honeywell:experion_process_knowledge_system"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "28299",
+	"pname": "Honeywell Experion Process Knowledge System",
+	"pcpe": "cpe:/o:honeywell:experion_process_knowledge_system"
 }

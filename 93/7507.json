@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7507",
-  "pname": "logintoboggan module",
-  "pcpe": "cpe:/a:drupal:logintoboggan_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7507",
+	"pname": "logintoboggan module",
+	"pcpe": "cpe:/a:drupal:logintoboggan_module"
 }

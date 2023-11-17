@@ -1,8 +1,8 @@
 {
-  "vid": "22311",
-  "vname": "OSS implementation of the TCG TPM2 Software Stack (TSS2) project",
-  "vcpe": "cpe:/:tpm2_software_stack_project",
-  "pid": "57370",
-  "pname": "OSS implementation of the TCG TPM2 Software Stack (TSS2)",
-  "pcpe": "cpe:/a:tpm2_software_stack_project:tpm2_software_stack"
+	"vid": "22311",
+	"vname": "OSS implementation of the TCG TPM2 Software Stack (TSS2) project",
+	"vcpe": "cpe:/:tpm2_software_stack_project",
+	"pid": "57370",
+	"pname": "OSS implementation of the TCG TPM2 Software Stack (TSS2)",
+	"pcpe": "cpe:/a:tpm2_software_stack_project:tpm2_software_stack"
 }

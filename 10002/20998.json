@@ -1,8 +1,8 @@
 {
-  "vid": "10002",
-  "vname": "Akronymmanager project",
-  "vcpe": "cpe:/:akronymmanager_project",
-  "pid": "20998",
-  "pname": "Akronymmanager",
-  "pcpe": "cpe:/a:akronymmanager_project:akronymmanager"
+	"vid": "10002",
+	"vname": "Akronymmanager project",
+	"vcpe": "cpe:/:akronymmanager_project",
+	"pid": "20998",
+	"pname": "Akronymmanager",
+	"pcpe": "cpe:/a:akronymmanager_project:akronymmanager"
 }

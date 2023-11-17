@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "17450",
-  "pname": "VioStor NVR ファームウェア",
-  "pcpe": "cpe:/o:qnap:viostor_network_video_recorder"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "17450",
+	"pname": "VioStor NVR ファームウェア",
+	"pcpe": "cpe:/o:qnap:viostor_network_video_recorder"
 }

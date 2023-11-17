@@ -1,8 +1,8 @@
 {
-  "vid": "12123",
-  "vname": "Systech Corporation",
-  "vcpe": "cpe:/:systech",
-  "pid": "26063",
-  "pname": "SysLINK SL-1000 M2M Modular Gateway ファームウェア",
-  "pcpe": "cpe:/o:systech:syslink_sl-1000_modular_gateway_firmware"
+	"vid": "12123",
+	"vname": "Systech Corporation",
+	"vcpe": "cpe:/:systech",
+	"pid": "26063",
+	"pname": "SysLINK SL-1000 M2M Modular Gateway ファームウェア",
+	"pcpe": "cpe:/o:systech:syslink_sl-1000_modular_gateway_firmware"
 }

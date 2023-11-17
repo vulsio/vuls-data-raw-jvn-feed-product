@@ -1,8 +1,8 @@
 {
-  "vid": "1895",
-  "vname": "エマソン",
-  "vcpe": "cpe:/:emerson",
-  "pid": "16997",
-  "pname": "DeltaV VE3005 Controller MD Hardware",
-  "pcpe": "cpe:/a:emerson:deltav_ve3005_controller_md"
+	"vid": "1895",
+	"vname": "エマソン",
+	"vcpe": "cpe:/:emerson",
+	"pid": "16997",
+	"pname": "DeltaV VE3005 Controller MD Hardware",
+	"pcpe": "cpe:/a:emerson:deltav_ve3005_controller_md"
 }

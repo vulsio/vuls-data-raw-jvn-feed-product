@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "37707",
-  "pname": "IBM Spectrum Virtualize for Public Cloud",
-  "pcpe": "cpe:/a:ibm:spectrum_virtualize_software_for_public_cloud"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "37707",
+	"pname": "IBM Spectrum Virtualize for Public Cloud",
+	"pcpe": "cpe:/a:ibm:spectrum_virtualize_software_for_public_cloud"
 }

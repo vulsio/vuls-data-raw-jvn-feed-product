@@ -1,8 +1,8 @@
 {
-  "vid": "21662",
-  "vname": "Hide Files on GitHub project",
-  "vcpe": "cpe:/:hide_files_on_github_project",
-  "pid": "55630",
-  "pname": "Hide Files on GitHub",
-  "pcpe": "cpe:/a:hide_files_on_github_project:hide_files_on_github"
+	"vid": "21662",
+	"vname": "Hide Files on GitHub project",
+	"vcpe": "cpe:/:hide_files_on_github_project",
+	"pid": "55630",
+	"pname": "Hide Files on GitHub",
+	"pcpe": "cpe:/a:hide_files_on_github_project:hide_files_on_github"
 }

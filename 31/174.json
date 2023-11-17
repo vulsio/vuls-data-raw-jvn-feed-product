@@ -1,8 +1,8 @@
 {
-  "vid": "31",
-  "vname": "センドメール社",
-  "vcpe": "cpe:/:sendmail",
-  "pid": "174",
-  "pname": "Sendmail Switch",
-  "pcpe": "cpe:/a:sendmail:sendmail_switch"
+	"vid": "31",
+	"vname": "センドメール社",
+	"vcpe": "cpe:/:sendmail",
+	"pid": "174",
+	"pname": "Sendmail Switch",
+	"pcpe": "cpe:/a:sendmail:sendmail_switch"
 }

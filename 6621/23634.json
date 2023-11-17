@@ -1,8 +1,8 @@
 {
-  "vid": "6621",
-  "vname": "ソフトバンク株式会社",
-  "vcpe": "cpe:/:softbank",
-  "pid": "23634",
-  "pname": "Android スマートフォン",
-  "pcpe": "cpe:/h:softbank:android_smartphone"
+	"vid": "6621",
+	"vname": "ソフトバンク株式会社",
+	"vcpe": "cpe:/:softbank",
+	"pid": "23634",
+	"pname": "Android スマートフォン",
+	"pcpe": "cpe:/h:softbank:android_smartphone"
 }

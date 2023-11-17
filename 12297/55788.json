@@ -1,8 +1,8 @@
 {
-  "vid": "12297",
-  "vname": "WooCommerce project",
-  "vcpe": "cpe:/:woocommerce",
-  "pid": "55788",
-  "pname": "NAB Transact",
-  "pcpe": "cpe:/a:woocommerce:nab_transact"
+	"vid": "12297",
+	"vname": "WooCommerce project",
+	"vcpe": "cpe:/:woocommerce",
+	"pid": "55788",
+	"pname": "NAB Transact",
+	"pcpe": "cpe:/a:woocommerce:nab_transact"
 }

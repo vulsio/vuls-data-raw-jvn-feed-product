@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20935",
-  "pname": "Monitoring Server (ms) and Shared Libraries (ax)",
-  "pcpe": "cpe:/a:ibm:monitoring_server_%28ms%29_and_shared_libraries_%28ax%29"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20935",
+	"pname": "Monitoring Server (ms) and Shared Libraries (ax)",
+	"pcpe": "cpe:/a:ibm:monitoring_server_%28ms%29_and_shared_libraries_%28ax%29"
 }

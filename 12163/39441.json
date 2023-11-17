@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "39441",
-  "pname": "Jenkins Gogs",
-  "pcpe": "cpe:/a:jenkins:gogs"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "39441",
+	"pname": "Jenkins Gogs",
+	"pcpe": "cpe:/a:jenkins:gogs"
 }

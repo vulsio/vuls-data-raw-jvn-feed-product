@@ -1,8 +1,8 @@
 {
-  "vid": "4337",
-  "vname": "PHPJabbers",
-  "vcpe": "cpe:/:phpjabbers",
-  "pid": "23257",
-  "pname": "Appointment Scheduler",
-  "pcpe": "cpe:/a:phpjabbers:appointment_scheduler"
+	"vid": "4337",
+	"vname": "PHPJabbers",
+	"vcpe": "cpe:/:phpjabbers",
+	"pid": "23257",
+	"pname": "Appointment Scheduler",
+	"pcpe": "cpe:/a:phpjabbers:appointment_scheduler"
 }

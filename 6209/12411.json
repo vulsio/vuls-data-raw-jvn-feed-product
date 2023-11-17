@@ -1,8 +1,8 @@
 {
-  "vid": "6209",
-  "vname": "OXID eSales AG",
-  "vcpe": "cpe:/:oxid-esales",
-  "pid": "12411",
-  "pname": "Cain and Abel",
-  "pcpe": "cpe:/a:oxid-esales:cain_and_abel"
+	"vid": "6209",
+	"vname": "OXID eSales AG",
+	"vcpe": "cpe:/:oxid-esales",
+	"pid": "12411",
+	"pname": "Cain and Abel",
+	"pcpe": "cpe:/a:oxid-esales:cain_and_abel"
 }

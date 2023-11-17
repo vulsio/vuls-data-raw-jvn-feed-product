@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "46212",
-  "pname": "PeopleSoft Enterprise HCM Global Payroll Core",
-  "pcpe": "cpe:/a:oracle:peoplesoft_enterprise_human_capital_management_global_payroll_core"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "46212",
+	"pname": "PeopleSoft Enterprise HCM Global Payroll Core",
+	"pcpe": "cpe:/a:oracle:peoplesoft_enterprise_human_capital_management_global_payroll_core"
 }

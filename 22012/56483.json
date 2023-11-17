@@ -1,8 +1,8 @@
 {
-  "vid": "22012",
-  "vname": "SimpleXRD project",
-  "vcpe": "cpe:/:simplexrd_project",
-  "pid": "56483",
-  "pname": "SimpleXRD",
-  "pcpe": "cpe:/a:simplexrd_project:simplexrd"
+	"vid": "22012",
+	"vname": "SimpleXRD project",
+	"vcpe": "cpe:/:simplexrd_project",
+	"pid": "56483",
+	"pname": "SimpleXRD",
+	"pcpe": "cpe:/a:simplexrd_project:simplexrd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9967",
-  "vname": "Shenzhen Tenda Technology Co.,Ltd.",
-  "vcpe": "cpe:/:tenda",
-  "pid": "63221",
-  "pname": "tx3 ファームウェア",
-  "pcpe": "cpe:/o:tenda:tx3_firmware"
+	"vid": "9967",
+	"vname": "Shenzhen Tenda Technology Co.,Ltd.",
+	"vcpe": "cpe:/:tenda",
+	"pid": "63221",
+	"pname": "tx3 ファームウェア",
+	"pcpe": "cpe:/o:tenda:tx3_firmware"
 }

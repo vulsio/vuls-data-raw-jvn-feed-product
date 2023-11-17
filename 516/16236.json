@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "16236",
-  "pname": "wp-footnotes",
-  "pcpe": "cpe:/a:wordpress:wp-footnotes"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "16236",
+	"pname": "wp-footnotes",
+	"pcpe": "cpe:/a:wordpress:wp-footnotes"
 }

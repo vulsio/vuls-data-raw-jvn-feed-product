@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "41558",
-  "pname": "Tasy WebPortal",
-  "pcpe": "cpe:/a:philips:tasy_webportal"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "41558",
+	"pname": "Tasy WebPortal",
+	"pcpe": "cpe:/a:philips:tasy_webportal"
 }

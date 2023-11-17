@@ -1,8 +1,8 @@
 {
-  "vid": "11589",
-  "vname": "WoltLab GmbH",
-  "vcpe": "cpe:/:wotlab",
-  "pid": "23721",
-  "pname": "Community Gallery",
-  "pcpe": "cpe:/a:wotlab:community_gallery"
+	"vid": "11589",
+	"vname": "WoltLab GmbH",
+	"vcpe": "cpe:/:wotlab",
+	"pid": "23721",
+	"pname": "Community Gallery",
+	"pcpe": "cpe:/a:wotlab:community_gallery"
 }

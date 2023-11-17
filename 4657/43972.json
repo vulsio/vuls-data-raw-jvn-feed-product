@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "43972",
-  "pname": "Mate 30 Pro ファームウェア",
-  "pcpe": "cpe:/o:huawei:mate_30_pro_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "43972",
+	"pname": "Mate 30 Pro ファームウェア",
+	"pcpe": "cpe:/o:huawei:mate_30_pro_firmware"
 }

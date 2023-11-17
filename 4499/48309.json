@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "48309",
-  "pname": "PAC-YW51BAC",
-  "pcpe": "cpe:/o:mitsubishielectric:pac-yw51bac"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "48309",
+	"pname": "PAC-YW51BAC",
+	"pcpe": "cpe:/o:mitsubishielectric:pac-yw51bac"
 }

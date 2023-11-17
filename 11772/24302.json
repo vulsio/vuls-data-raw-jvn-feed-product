@@ -1,8 +1,8 @@
 {
-  "vid": "11772",
-  "vname": "libmimedir_project",
-  "vcpe": "cpe:/:libmimedir_project",
-  "pid": "24302",
-  "pname": "Libmimedir",
-  "pcpe": "cpe:/a:libmimedir_project:libmimedir"
+	"vid": "11772",
+	"vname": "libmimedir_project",
+	"vcpe": "cpe:/:libmimedir_project",
+	"pid": "24302",
+	"pname": "Libmimedir",
+	"pcpe": "cpe:/a:libmimedir_project:libmimedir"
 }

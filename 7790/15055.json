@@ -1,8 +1,8 @@
 {
-  "vid": "7790",
-  "vname": "stalker-game",
-  "vcpe": "cpe:/:stalker-game",
-  "pid": "15055",
-  "pname": "s.t.a.l.k.e.r.: shadow of chernobyl",
-  "pcpe": "cpe:/a:stalker-game:s.t.a.l.k.e.r.%3A_shadow_of_chernobyl"
+	"vid": "7790",
+	"vname": "stalker-game",
+	"vcpe": "cpe:/:stalker-game",
+	"pid": "15055",
+	"pname": "s.t.a.l.k.e.r.: shadow of chernobyl",
+	"pcpe": "cpe:/a:stalker-game:s.t.a.l.k.e.r.%3A_shadow_of_chernobyl"
 }

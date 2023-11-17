@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "3417",
-  "pname": "Novell ZENworks Asset Management",
-  "pcpe": "cpe:/a:novell:zenworks_asset_management"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "3417",
+	"pname": "Novell ZENworks Asset Management",
+	"pcpe": "cpe:/a:novell:zenworks_asset_management"
 }

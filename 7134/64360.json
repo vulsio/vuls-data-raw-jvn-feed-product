@@ -1,8 +1,8 @@
 {
-  "vid": "7134",
-  "vname": "PTC Inc.",
-  "vcpe": "cpe:/:ptc",
-  "pid": "64360",
-  "pname": "thingworx edge microserver",
-  "pcpe": "cpe:/a:ptc:thingworx_edge_microserver"
+	"vid": "7134",
+	"vname": "PTC Inc.",
+	"vcpe": "cpe:/:ptc",
+	"pid": "64360",
+	"pname": "thingworx edge microserver",
+	"pcpe": "cpe:/a:ptc:thingworx_edge_microserver"
 }

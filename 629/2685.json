@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "2685",
-  "pname": "MOXA Device Manager",
-  "pcpe": "cpe:/a:moxa:device_manager"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "2685",
+	"pname": "MOXA Device Manager",
+	"pcpe": "cpe:/a:moxa:device_manager"
 }

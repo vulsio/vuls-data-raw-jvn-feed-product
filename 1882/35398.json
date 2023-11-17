@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "35398",
-  "pname": "ZXCDN-SNS ファームウェア",
-  "pcpe": "cpe:/o:zte:zxcdn-sns_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "35398",
+	"pname": "ZXCDN-SNS ファームウェア",
+	"pcpe": "cpe:/o:zte:zxcdn-sns_firmware"
 }

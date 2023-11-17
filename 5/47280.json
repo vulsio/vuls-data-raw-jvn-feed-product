@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47280",
-  "pname": "APQ8084 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:apq8084_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47280",
+	"pname": "APQ8084 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:apq8084_firmware"
 }

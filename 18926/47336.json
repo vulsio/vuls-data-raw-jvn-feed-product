@@ -1,8 +1,8 @@
 {
-  "vid": "18926",
-  "vname": "Inspur",
-  "vcpe": "cpe:/:inspur",
-  "pid": "47336",
-  "pname": "ClusterEngine",
-  "pcpe": "cpe:/a:inspur:clusterengine"
+	"vid": "18926",
+	"vname": "Inspur",
+	"vcpe": "cpe:/:inspur",
+	"pid": "47336",
+	"pname": "ClusterEngine",
+	"pcpe": "cpe:/a:inspur:clusterengine"
 }

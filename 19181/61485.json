@@ -1,8 +1,8 @@
 {
-  "vid": "19181",
-  "vname": "BOOM",
-  "vcpe": "cpe:/:boom-core",
-  "pid": "61485",
-  "pname": "riscvc-boom",
-  "pcpe": "cpe:/a:boom-core:riscvc-boom"
+	"vid": "19181",
+	"vname": "BOOM",
+	"vcpe": "cpe:/:boom-core",
+	"pid": "61485",
+	"pname": "riscvc-boom",
+	"pcpe": "cpe:/a:boom-core:riscvc-boom"
 }

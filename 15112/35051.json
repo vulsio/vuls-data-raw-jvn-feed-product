@@ -1,8 +1,8 @@
 {
-  "vid": "15112",
-  "vname": "AMToken project",
-  "vcpe": "cpe:/:amtoken_project",
-  "pid": "35051",
-  "pname": "AMToken",
-  "pcpe": "cpe:/a:amtoken_project:amtoken"
+	"vid": "15112",
+	"vname": "AMToken project",
+	"vcpe": "cpe:/:amtoken_project",
+	"pid": "35051",
+	"pname": "AMToken",
+	"pcpe": "cpe:/a:amtoken_project:amtoken"
 }

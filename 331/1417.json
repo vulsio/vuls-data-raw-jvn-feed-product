@@ -1,8 +1,8 @@
 {
-  "vid": "331",
-  "vname": "Xiph.Org",
-  "vcpe": "cpe:/:xiph",
-  "pid": "1417",
-  "pname": "Speex",
-  "pcpe": "cpe:/a:xiph:speex"
+	"vid": "331",
+	"vname": "Xiph.Org",
+	"vcpe": "cpe:/:xiph",
+	"pid": "1417",
+	"pname": "Speex",
+	"pcpe": "cpe:/a:xiph:speex"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23803",
-  "vname": "pycdc project",
-  "vcpe": "cpe:/:pycdc_project",
-  "pid": "61572",
-  "pname": "pycdc",
-  "pcpe": "cpe:/a:pycdc_project:pycdc"
+	"vid": "23803",
+	"vname": "pycdc project",
+	"vcpe": "cpe:/:pycdc_project",
+	"pid": "61572",
+	"pname": "pycdc",
+	"pcpe": "cpe:/a:pycdc_project:pycdc"
 }

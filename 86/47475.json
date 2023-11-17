@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "47475",
-  "pname": "FS-HP-G300N ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:fs-hp-g300n_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "47475",
+	"pname": "FS-HP-G300N ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:fs-hp-g300n_firmware"
 }

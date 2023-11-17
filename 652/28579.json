@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "28579",
-  "pname": "Smart TV X14J ファームウェア",
-  "pcpe": "cpe:/o:samsung:x14j_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "28579",
+	"pname": "Smart TV X14J ファームウェア",
+	"pcpe": "cpe:/o:samsung:x14j_firmware"
 }

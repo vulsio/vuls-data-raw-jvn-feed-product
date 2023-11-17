@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "36999",
-  "pname": "LS2100e ファームウェア",
-  "pcpe": "cpe:/o:ge:ls2100e_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "36999",
+	"pname": "LS2100e ファームウェア",
+	"pcpe": "cpe:/o:ge:ls2100e_firmware"
 }

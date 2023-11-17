@@ -1,8 +1,8 @@
 {
-  "vid": "13025",
-  "vname": "NXP Semiconductors",
-  "vcpe": "cpe:/:nxp",
-  "pid": "30158",
-  "pname": "i.MX 6Quad ファームウェア",
-  "pcpe": "cpe:/o:nxp:i.mx_6quad_firmware"
+	"vid": "13025",
+	"vname": "NXP Semiconductors",
+	"vcpe": "cpe:/:nxp",
+	"pid": "30158",
+	"pname": "i.MX 6Quad ファームウェア",
+	"pcpe": "cpe:/o:nxp:i.mx_6quad_firmware"
 }

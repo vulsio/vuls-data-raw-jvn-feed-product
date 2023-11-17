@@ -1,8 +1,8 @@
 {
-  "vid": "11679",
-  "vname": "Y-cam Solutions Ltd.",
-  "vcpe": "cpe:/:y-cam",
-  "pid": "24037",
-  "pname": "YCBLHD5 ファームウェア",
-  "pcpe": "cpe:/o:y-cam:ycblhd5_firmware"
+	"vid": "11679",
+	"vname": "Y-cam Solutions Ltd.",
+	"vcpe": "cpe:/:y-cam",
+	"pid": "24037",
+	"pname": "YCBLHD5 ファームウェア",
+	"pcpe": "cpe:/o:y-cam:ycblhd5_firmware"
 }

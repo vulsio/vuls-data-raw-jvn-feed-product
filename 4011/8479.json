@@ -1,8 +1,8 @@
 {
-  "vid": "4011",
-  "vname": "gofoxy",
-  "vcpe": "cpe:/:gofoxy",
-  "pid": "8479",
-  "pname": "foxy",
-  "pcpe": "cpe:/a:gofoxy:foxy"
+	"vid": "4011",
+	"vname": "gofoxy",
+	"vcpe": "cpe:/:gofoxy",
+	"pid": "8479",
+	"pname": "foxy",
+	"pcpe": "cpe:/a:gofoxy:foxy"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8774",
-  "vname": "Sangoma",
-  "vcpe": "cpe:/:sangoma",
-  "pid": "57043",
-  "pname": "Switchvox",
-  "pcpe": "cpe:/a:sangoma:switchvox"
+	"vid": "8774",
+	"vname": "Sangoma",
+	"vcpe": "cpe:/:sangoma",
+	"pid": "57043",
+	"pname": "Switchvox",
+	"pcpe": "cpe:/a:sangoma:switchvox"
 }

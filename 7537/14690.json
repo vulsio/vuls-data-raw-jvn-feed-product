@@ -1,8 +1,8 @@
 {
-  "vid": "7537",
-  "vname": "sergey lyubka",
-  "vcpe": "cpe:/:sergey_lyubka",
-  "pid": "14690",
-  "pname": "simple httpd",
-  "pcpe": "cpe:/a:sergey_lyubka:simple_httpd"
+	"vid": "7537",
+	"vname": "sergey lyubka",
+	"vcpe": "cpe:/:sergey_lyubka",
+	"pid": "14690",
+	"pname": "simple httpd",
+	"pcpe": "cpe:/a:sergey_lyubka:simple_httpd"
 }

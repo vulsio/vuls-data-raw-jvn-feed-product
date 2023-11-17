@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "57450",
-  "pname": "argocd",
-  "pcpe": "cpe:/a:linuxfoundation:argo-cd"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "57450",
+	"pname": "argocd",
+	"pcpe": "cpe:/a:linuxfoundation:argo-cd"
 }

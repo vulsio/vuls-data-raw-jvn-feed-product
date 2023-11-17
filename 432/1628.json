@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "1628",
-  "pname": "PCU400",
-  "pcpe": "cpe:/h:abb:pcu400"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "1628",
+	"pname": "PCU400",
+	"pcpe": "cpe:/h:abb:pcu400"
 }

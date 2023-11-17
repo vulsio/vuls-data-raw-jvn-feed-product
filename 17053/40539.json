@@ -1,8 +1,8 @@
 {
-  "vid": "17053",
-  "vname": "py-lmdb project",
-  "vcpe": "cpe:/:py-lmdb_project",
-  "pid": "40539",
-  "pname": "py-lmdb",
-  "pcpe": "cpe:/a:py-lmdb_project:py-lmdb"
+	"vid": "17053",
+	"vname": "py-lmdb project",
+	"vcpe": "cpe:/:py-lmdb_project",
+	"pid": "40539",
+	"pname": "py-lmdb",
+	"pcpe": "cpe:/a:py-lmdb_project:py-lmdb"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21338",
-  "vname": "LikeBtn",
-  "vcpe": "cpe:/:likebtn",
-  "pid": "54778",
-  "pname": "Like Button Rating",
-  "pcpe": "cpe:/a:likebtn:like_button_rating"
+	"vid": "21338",
+	"vname": "LikeBtn",
+	"vcpe": "cpe:/:likebtn",
+	"pid": "54778",
+	"pname": "Like Button Rating",
+	"pcpe": "cpe:/a:likebtn:like_button_rating"
 }

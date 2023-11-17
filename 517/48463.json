@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "48463",
-  "pname": "Versalink B600 ファームウェア",
-  "pcpe": "cpe:/o:xerox:versalink_b600_firmware"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "48463",
+	"pname": "Versalink B600 ファームウェア",
+	"pcpe": "cpe:/o:xerox:versalink_b600_firmware"
 }

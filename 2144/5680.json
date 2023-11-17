@@ -1,8 +1,8 @@
 {
-  "vid": "2144",
-  "vname": "alexguestbook",
-  "vcpe": "cpe:/:alexguestbook",
-  "pid": "5680",
-  "pname": "@lex guestbook",
-  "pcpe": "cpe:/a:alexguestbook:%40lex_guestbook"
+	"vid": "2144",
+	"vname": "alexguestbook",
+	"vcpe": "cpe:/:alexguestbook",
+	"pid": "5680",
+	"pname": "@lex guestbook",
+	"pcpe": "cpe:/a:alexguestbook:%40lex_guestbook"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "56922",
-  "pname": "Nokia BTS TRS ウェブコンソール",
-  "pcpe": "cpe:/a:nokia:bts_trs_web_console"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "56922",
+	"pname": "Nokia BTS TRS ウェブコンソール",
+	"pcpe": "cpe:/a:nokia:bts_trs_web_console"
 }

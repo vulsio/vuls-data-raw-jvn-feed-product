@@ -1,8 +1,8 @@
 {
-  "vid": "4176",
-  "vname": "Belkin International",
-  "vcpe": "cpe:/:belkin",
-  "pid": "21623",
-  "pname": "Play N750 DB Wireless Dual-Band N+ Router ファームウェア",
-  "pcpe": "cpe:/o:belkin:n750_wireless_router_firmware"
+	"vid": "4176",
+	"vname": "Belkin International",
+	"vcpe": "cpe:/:belkin",
+	"pid": "21623",
+	"pname": "Play N750 DB Wireless Dual-Band N+ Router ファームウェア",
+	"pcpe": "cpe:/o:belkin:n750_wireless_router_firmware"
 }

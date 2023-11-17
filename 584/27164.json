@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "27164",
-  "pname": "SIMATIC STEP 7 (TIAポータル)",
-  "pcpe": "cpe:/a:siemens:simatic_step_7_%28tia_portal%29"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "27164",
+	"pname": "SIMATIC STEP 7 (TIAポータル)",
+	"pcpe": "cpe:/a:siemens:simatic_step_7_%28tia_portal%29"
 }

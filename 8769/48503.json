@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "48503",
-  "pname": "QuTS hero",
-  "pcpe": "cpe:/o:qnap:quts_hero"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "48503",
+	"pname": "QuTS hero",
+	"pcpe": "cpe:/o:qnap:quts_hero"
 }

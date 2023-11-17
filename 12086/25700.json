@@ -1,8 +1,8 @@
 {
-  "vid": "12086",
-  "vname": "Dell SecureWorks",
-  "vcpe": "cpe:/:misc",
-  "pid": "25700",
-  "pname": "Dell SecureWorks モバイルアプリケーション",
-  "pcpe": "cpe:/a:misc:dellsecureworks_secureworks"
+	"vid": "12086",
+	"vname": "Dell SecureWorks",
+	"vcpe": "cpe:/:misc",
+	"pid": "25700",
+	"pname": "Dell SecureWorks モバイルアプリケーション",
+	"pcpe": "cpe:/a:misc:dellsecureworks_secureworks"
 }

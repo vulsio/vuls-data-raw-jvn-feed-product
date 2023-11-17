@@ -1,8 +1,8 @@
 {
-  "vid": "8439",
-  "vname": "webdesktop",
-  "vcpe": "cpe:/:webdesktop",
-  "pid": "16052",
-  "pname": "webdesktop",
-  "pcpe": "cpe:/a:webdesktop:webdesktop"
+	"vid": "8439",
+	"vname": "webdesktop",
+	"vcpe": "cpe:/:webdesktop",
+	"pid": "16052",
+	"pname": "webdesktop",
+	"pcpe": "cpe:/a:webdesktop:webdesktop"
 }

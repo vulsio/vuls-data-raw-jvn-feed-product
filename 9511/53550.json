@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "53550",
-  "pname": "DS-2CD2086G2-IU/SL ファームウェア",
-  "pcpe": "cpe:/o:hikvision:ds-2cd2086g2-iu%2fsl_firmware"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "53550",
+	"pname": "DS-2CD2086G2-IU/SL ファームウェア",
+	"pcpe": "cpe:/o:hikvision:ds-2cd2086g2-iu%2fsl_firmware"
 }

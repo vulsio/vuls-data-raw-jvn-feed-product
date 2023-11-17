@@ -1,8 +1,8 @@
 {
-  "vid": "17753",
-  "vname": "DTEN Inc",
-  "vcpe": "cpe:/:dten",
-  "pid": "42637",
-  "pname": "DTEN D7 ファームウェア",
-  "pcpe": "cpe:/o:dten:d7_firmware"
+	"vid": "17753",
+	"vname": "DTEN Inc",
+	"vcpe": "cpe:/:dten",
+	"pid": "42637",
+	"pname": "DTEN D7 ファームウェア",
+	"pcpe": "cpe:/o:dten:d7_firmware"
 }

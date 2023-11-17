@@ -1,8 +1,8 @@
 {
-  "vid": "21814",
-  "vname": "Jobs-Plugin project",
-  "vcpe": "cpe:/:jobs-plugin_project",
-  "pid": "56015",
-  "pname": "Jobs-Plugin",
-  "pcpe": "cpe:/a:jobs-plugin_project:jobs-plugin"
+	"vid": "21814",
+	"vname": "Jobs-Plugin project",
+	"vcpe": "cpe:/:jobs-plugin_project",
+	"pid": "56015",
+	"pname": "Jobs-Plugin",
+	"pcpe": "cpe:/a:jobs-plugin_project:jobs-plugin"
 }

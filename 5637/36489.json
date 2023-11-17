@@ -1,8 +1,8 @@
 {
-  "vid": "5637",
-  "vname": "マイクロフォーカス株式会社",
-  "vcpe": "cpe:/:microfocus",
-  "pid": "36489",
-  "pname": "Access Manager (NAM)",
-  "pcpe": "cpe:/a:microfocus:access_manager"
+	"vid": "5637",
+	"vname": "マイクロフォーカス株式会社",
+	"vcpe": "cpe:/:microfocus",
+	"pid": "36489",
+	"pname": "Access Manager (NAM)",
+	"pcpe": "cpe:/a:microfocus:access_manager"
 }

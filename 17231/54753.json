@@ -1,8 +1,8 @@
 {
-  "vid": "17231",
-  "vname": "Socomec",
-  "vcpe": "cpe:/:socomec",
-  "pid": "54753",
-  "pname": "REMOTE VIEW PRO ファームウェア",
-  "pcpe": "cpe:/o:socomec:remote_view_pro_firmware"
+	"vid": "17231",
+	"vname": "Socomec",
+	"vcpe": "cpe:/:socomec",
+	"pid": "54753",
+	"pname": "REMOTE VIEW PRO ファームウェア",
+	"pcpe": "cpe:/o:socomec:remote_view_pro_firmware"
 }

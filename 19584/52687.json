@@ -1,8 +1,8 @@
 {
-  "vid": "19584",
-  "vname": "ASSA ABLOY",
-  "vcpe": "cpe:/:assaabloy",
-  "pid": "52687",
-  "pname": "Key Manager",
-  "pcpe": "cpe:/a:assaabloy:key_manager"
+	"vid": "19584",
+	"vname": "ASSA ABLOY",
+	"vcpe": "cpe:/:assaabloy",
+	"pid": "52687",
+	"pname": "Key Manager",
+	"pcpe": "cpe:/a:assaabloy:key_manager"
 }

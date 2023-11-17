@@ -1,8 +1,8 @@
 {
-  "vid": "13821",
-  "vname": "Epic Systems Corporation",
-  "vcpe": "cpe:/:epic",
-  "pid": "32801",
-  "pname": "MyChart",
-  "pcpe": "cpe:/a:epic:mychart"
+	"vid": "13821",
+	"vname": "Epic Systems Corporation",
+	"vcpe": "cpe:/:epic",
+	"pid": "32801",
+	"pname": "MyChart",
+	"pcpe": "cpe:/a:epic:mychart"
 }

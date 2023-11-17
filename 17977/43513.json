@@ -1,8 +1,8 @@
 {
-  "vid": "17977",
-  "vname": "Hakim El Hattab",
-  "vcpe": "cpe:/:revealjs",
-  "pid": "43513",
-  "pname": "reveal.js",
-  "pcpe": "cpe:/a:revealjs:reveal.js"
+	"vid": "17977",
+	"vname": "Hakim El Hattab",
+	"vcpe": "cpe:/:revealjs",
+	"pid": "43513",
+	"pname": "reveal.js",
+	"pcpe": "cpe:/a:revealjs:reveal.js"
 }

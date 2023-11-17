@@ -1,8 +1,8 @@
 {
-  "vid": "8962",
-  "vname": "ワイモバイル株式会社",
-  "vcpe": "cpe:/:willcom-inc",
-  "pid": "17304",
-  "pname": "スマートフォン WI-FI",
-  "pcpe": "cpe:/a:willcom-inc:wi-fi_application"
+	"vid": "8962",
+	"vname": "ワイモバイル株式会社",
+	"vcpe": "cpe:/:willcom-inc",
+	"pid": "17304",
+	"pname": "スマートフォン WI-FI",
+	"pcpe": "cpe:/a:willcom-inc:wi-fi_application"
 }

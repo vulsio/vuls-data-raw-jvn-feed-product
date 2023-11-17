@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "20791",
-  "pname": "Cisco Nexus 56128P スイッチ",
-  "pcpe": "cpe:/h:cisco:nexus_56128p"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "20791",
+	"pname": "Cisco Nexus 56128P スイッチ",
+	"pcpe": "cpe:/h:cisco:nexus_56128p"
 }

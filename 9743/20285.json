@@ -1,8 +1,8 @@
 {
-  "vid": "9743",
-  "vname": "Corosync",
-  "vcpe": "cpe:/:corosync",
-  "pid": "20285",
-  "pname": "Corosync",
-  "pcpe": "cpe:/a:corosync:corosync"
+	"vid": "9743",
+	"vname": "Corosync",
+	"vcpe": "cpe:/:corosync",
+	"pid": "20285",
+	"pname": "Corosync",
+	"pcpe": "cpe:/a:corosync:corosync"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "43673",
-  "pname": "Sonar Quality Gates",
-  "pcpe": "cpe:/a:jenkins:sonar_quality_gates"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "43673",
+	"pname": "Sonar Quality Gates",
+	"pcpe": "cpe:/a:jenkins:sonar_quality_gates"
 }

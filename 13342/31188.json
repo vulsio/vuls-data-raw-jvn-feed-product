@@ -1,8 +1,8 @@
 {
-  "vid": "13342",
-  "vname": "Kickbase GmbH",
-  "vcpe": "cpe:/:kickbase",
-  "pid": "31188",
-  "pname": "Kickbase Bundesliga Manager",
-  "pcpe": "cpe:/a:kickbase:bundesliga_manager"
+	"vid": "13342",
+	"vname": "Kickbase GmbH",
+	"vcpe": "cpe:/:kickbase",
+	"pid": "31188",
+	"pname": "Kickbase Bundesliga Manager",
+	"pcpe": "cpe:/a:kickbase:bundesliga_manager"
 }

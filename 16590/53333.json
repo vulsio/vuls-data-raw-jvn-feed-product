@@ -1,8 +1,8 @@
 {
-  "vid": "16590",
-  "vname": "WPEverest",
-  "vcpe": "cpe:/:wpeverest",
-  "pid": "53333",
-  "pname": "User Registration",
-  "pcpe": "cpe:/a:wpeverest:user_registration"
+	"vid": "16590",
+	"vname": "WPEverest",
+	"vcpe": "cpe:/:wpeverest",
+	"pid": "53333",
+	"pname": "User Registration",
+	"pcpe": "cpe:/a:wpeverest:user_registration"
 }

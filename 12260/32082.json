@@ -1,8 +1,8 @@
 {
-  "vid": "12260",
-  "vname": "Green Packet",
-  "vcpe": "cpe:/:greenpacket",
-  "pid": "32082",
-  "pname": "OX350",
-  "pcpe": "cpe:/o:greenpacket:ox350_firmware"
+	"vid": "12260",
+	"vname": "Green Packet",
+	"vcpe": "cpe:/:greenpacket",
+	"pid": "32082",
+	"pname": "OX350",
+	"pcpe": "cpe:/o:greenpacket:ox350_firmware"
 }

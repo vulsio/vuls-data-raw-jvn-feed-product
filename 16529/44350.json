@@ -1,8 +1,8 @@
 {
-  "vid": "16529",
-  "vname": "Stormshield",
-  "vcpe": "cpe:/:stormshield",
-  "pid": "44350",
-  "pname": "Stormshield SN310 ファームウェア",
-  "pcpe": "cpe:/o:stormshield:sn310_firmware"
+	"vid": "16529",
+	"vname": "Stormshield",
+	"vcpe": "cpe:/:stormshield",
+	"pid": "44350",
+	"pname": "Stormshield SN310 ファームウェア",
+	"pcpe": "cpe:/o:stormshield:sn310_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "53916",
-  "pname": "WHR-AMG54 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:whr-amg54_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "53916",
+	"pname": "WHR-AMG54 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:whr-amg54_firmware"
 }

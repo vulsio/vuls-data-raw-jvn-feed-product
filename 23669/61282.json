@@ -1,8 +1,8 @@
 {
-  "vid": "23669",
-  "vname": "setupbox project",
-  "vcpe": "cpe:/:setupbox_project",
-  "pid": "61282",
-  "pname": "setupbox",
-  "pcpe": "cpe:/a:setupbox_project:setupbox"
+	"vid": "23669",
+	"vname": "setupbox project",
+	"vcpe": "cpe:/:setupbox_project",
+	"pid": "61282",
+	"pname": "setupbox",
+	"pcpe": "cpe:/a:setupbox_project:setupbox"
 }

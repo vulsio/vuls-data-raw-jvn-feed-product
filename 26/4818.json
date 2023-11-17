@@ -1,8 +1,8 @@
 {
-  "vid": "26",
-  "vname": "サイベース",
-  "vcpe": "cpe:/:sybase",
-  "pid": "4818",
-  "pname": "Appeon for PowerBuilder",
-  "pcpe": "cpe:/a:sybase:appeon_for_powerbuilder"
+	"vid": "26",
+	"vname": "サイベース",
+	"vcpe": "cpe:/:sybase",
+	"pid": "4818",
+	"pname": "Appeon for PowerBuilder",
+	"pcpe": "cpe:/a:sybase:appeon_for_powerbuilder"
 }

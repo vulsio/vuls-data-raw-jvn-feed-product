@@ -1,8 +1,8 @@
 {
-  "vid": "7028",
-  "vname": "policyd",
-  "vcpe": "cpe:/:policyd",
-  "pid": "13935",
-  "pname": "policyd",
-  "pcpe": "cpe:/a:policyd:policyd"
+	"vid": "7028",
+	"vname": "policyd",
+	"vcpe": "cpe:/:policyd",
+	"pid": "13935",
+	"pname": "policyd",
+	"pcpe": "cpe:/a:policyd:policyd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18289",
-  "vname": "Polish Government",
-  "vcpe": "cpe:/:gov",
-  "pid": "44842",
-  "pname": "ProteGO",
-  "pcpe": "cpe:/a:gov:protego_safe"
+	"vid": "18289",
+	"vname": "Polish Government",
+	"vcpe": "cpe:/:gov",
+	"pid": "44842",
+	"pname": "ProteGO",
+	"pcpe": "cpe:/a:gov:protego_safe"
 }

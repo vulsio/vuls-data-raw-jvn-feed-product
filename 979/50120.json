@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "50120",
-  "pname": "Atlassian Connect Spring Boot",
-  "pcpe": "cpe:/a:atlassian:connect_spring_boot"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "50120",
+	"pname": "Atlassian Connect Spring Boot",
+	"pcpe": "cpe:/a:atlassian:connect_spring_boot"
 }

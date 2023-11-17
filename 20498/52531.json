@@ -1,8 +1,8 @@
 {
-  "vid": "20498",
-  "vname": "JBL",
-  "vcpe": "cpe:/:jbl",
-  "pid": "52531",
-  "pname": "JBL Tune 500BT ファームウェア",
-  "pcpe": "cpe:/o:jbl:tune500bt_firmware"
+	"vid": "20498",
+	"vname": "JBL",
+	"vcpe": "cpe:/:jbl",
+	"pid": "52531",
+	"pname": "JBL Tune 500BT ファームウェア",
+	"pcpe": "cpe:/o:jbl:tune500bt_firmware"
 }

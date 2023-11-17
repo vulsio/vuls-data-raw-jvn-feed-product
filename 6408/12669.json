@@ -1,8 +1,8 @@
 {
-  "vid": "6408",
-  "vname": "php script tools",
-  "vcpe": "cpe:/:php_script_tools",
-  "pid": "12669",
-  "pname": "psy auction",
-  "pcpe": "cpe:/a:php_script_tools:psy_auction"
+	"vid": "6408",
+	"vname": "php script tools",
+	"vcpe": "cpe:/:php_script_tools",
+	"pid": "12669",
+	"pname": "psy auction",
+	"pcpe": "cpe:/a:php_script_tools:psy_auction"
 }

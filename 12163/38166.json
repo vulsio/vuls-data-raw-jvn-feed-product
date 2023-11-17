@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38166",
-  "pname": "Bugzilla",
-  "pcpe": "cpe:/a:jenkins:bugzilla"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38166",
+	"pname": "Bugzilla",
+	"pcpe": "cpe:/a:jenkins:bugzilla"
 }

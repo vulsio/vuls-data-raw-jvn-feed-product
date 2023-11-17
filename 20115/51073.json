@@ -1,8 +1,8 @@
 {
-  "vid": "20115",
-  "vname": "WP-CLI",
-  "vcpe": "cpe:/:wp-cli",
-  "pid": "51073",
-  "pname": "WP-CLI",
-  "pcpe": "cpe:/a:wp-cli:wp-cli"
+	"vid": "20115",
+	"vname": "WP-CLI",
+	"vcpe": "cpe:/:wp-cli",
+	"pid": "51073",
+	"pname": "WP-CLI",
+	"pcpe": "cpe:/a:wp-cli:wp-cli"
 }

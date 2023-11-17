@@ -1,8 +1,8 @@
 {
-  "vid": "15349",
-  "vname": "Davolink",
-  "vcpe": "cpe:/:davolink",
-  "pid": "35654",
-  "pname": "DVW-3200N",
-  "pcpe": "cpe:/o:davolink:dvw-3200n_firmware"
+	"vid": "15349",
+	"vname": "Davolink",
+	"vcpe": "cpe:/:davolink",
+	"pid": "35654",
+	"pname": "DVW-3200N",
+	"pcpe": "cpe:/o:davolink:dvw-3200n_firmware"
 }

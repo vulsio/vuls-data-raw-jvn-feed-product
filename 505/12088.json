@@ -1,8 +1,8 @@
 {
-  "vid": "505",
-  "vname": "Nortel Networks",
-  "vcpe": "cpe:/:nortel",
-  "pid": "12088",
-  "pname": "mobile voice client 2050",
-  "pcpe": "cpe:/a:nortel:mobile_voice_client_2050"
+	"vid": "505",
+	"vname": "Nortel Networks",
+	"vcpe": "cpe:/:nortel",
+	"pid": "12088",
+	"pname": "mobile voice client 2050",
+	"pcpe": "cpe:/a:nortel:mobile_voice_client_2050"
 }

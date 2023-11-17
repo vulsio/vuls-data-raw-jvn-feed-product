@@ -1,8 +1,8 @@
 {
-  "vid": "21946",
-  "vname": "viafintech",
-  "vcpe": "cpe:/:paysafe",
-  "pid": "56345",
-  "pname": "Barzahlen Payment Module PHP SDK",
-  "pcpe": "cpe:/a:paysafe:barzahlen_payment_module_php_sdk"
+	"vid": "21946",
+	"vname": "viafintech",
+	"vcpe": "cpe:/:paysafe",
+	"pid": "56345",
+	"pname": "Barzahlen Payment Module PHP SDK",
+	"pcpe": "cpe:/a:paysafe:barzahlen_payment_module_php_sdk"
 }

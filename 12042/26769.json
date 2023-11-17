@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26769",
-  "pname": "HPE XP P9000 Command View",
-  "pcpe": "cpe:/a:hp:xp_p9000_command_view"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26769",
+	"pname": "HPE XP P9000 Command View",
+	"pcpe": "cpe:/a:hp:xp_p9000_command_view"
 }

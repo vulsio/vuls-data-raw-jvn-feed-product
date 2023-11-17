@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "44357",
-  "pname": "SAP NetWeaver Knowledge Management and Collaboration (KMC-CM)",
-  "pcpe": "cpe:/a:sap:netweaver_knowledge_management_and_collaboration_%28kmc-cm%29"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "44357",
+	"pname": "SAP NetWeaver Knowledge Management and Collaboration (KMC-CM)",
+	"pcpe": "cpe:/a:sap:netweaver_knowledge_management_and_collaboration_%28kmc-cm%29"
 }

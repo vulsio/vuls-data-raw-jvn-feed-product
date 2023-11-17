@@ -1,8 +1,8 @@
 {
-  "vid": "98",
-  "vname": "サイボウズ",
-  "vcpe": "cpe:/:cybozu",
-  "pid": "44542",
-  "pname": "Cybozu Desktop",
-  "pcpe": "cpe:/a:cybozu:cybozu_desktop"
+	"vid": "98",
+	"vname": "サイボウズ",
+	"vcpe": "cpe:/:cybozu",
+	"pid": "44542",
+	"pname": "Cybozu Desktop",
+	"pcpe": "cpe:/a:cybozu:cybozu_desktop"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19745",
-  "vname": "Increments",
-  "vcpe": "cpe:/:increments",
-  "pid": "49794",
-  "pname": "Qiita::Markdown",
-  "pcpe": "cpe:/a:increments:qiita%3a%3amarkdown"
+	"vid": "19745",
+	"vname": "Increments",
+	"vcpe": "cpe:/:increments",
+	"pid": "49794",
+	"pname": "Qiita::Markdown",
+	"pcpe": "cpe:/a:increments:qiita%3a%3amarkdown"
 }

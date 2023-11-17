@@ -1,8 +1,8 @@
 {
-  "vid": "7848",
-  "vname": "sunbelt",
-  "vcpe": "cpe:/:sunbelt",
-  "pid": "15153",
-  "pname": "sunbelt kerio personal firewall",
-  "pcpe": "cpe:/a:sunbelt:sunbelt_kerio_personal_firewall"
+	"vid": "7848",
+	"vname": "sunbelt",
+	"vcpe": "cpe:/:sunbelt",
+	"pid": "15153",
+	"pname": "sunbelt kerio personal firewall",
+	"pcpe": "cpe:/a:sunbelt:sunbelt_kerio_personal_firewall"
 }

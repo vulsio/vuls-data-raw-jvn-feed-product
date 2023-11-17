@@ -1,8 +1,8 @@
 {
-  "vid": "9111",
-  "vname": "Dahua Technology Co., Ltd",
-  "vcpe": "cpe:/:dahuasecurity",
-  "pid": "18384",
-  "pname": "DVR2116HE",
-  "pcpe": "cpe:/h:dahuasecurity:dvr2116he"
+	"vid": "9111",
+	"vname": "Dahua Technology Co., Ltd",
+	"vcpe": "cpe:/:dahuasecurity",
+	"pid": "18384",
+	"pname": "DVR2116HE",
+	"pcpe": "cpe:/h:dahuasecurity:dvr2116he"
 }

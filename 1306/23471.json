@@ -1,8 +1,8 @@
 {
-  "vid": "1306",
-  "vname": "AVG Technologies",
-  "vcpe": "cpe:/:avg",
-  "pid": "23471",
-  "pname": "AVG Internet Security",
-  "pcpe": "cpe:/a:avg:internet_security"
+	"vid": "1306",
+	"vname": "AVG Technologies",
+	"vcpe": "cpe:/:avg",
+	"pid": "23471",
+	"pname": "AVG Internet Security",
+	"pcpe": "cpe:/a:avg:internet_security"
 }

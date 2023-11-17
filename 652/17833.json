@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "17833",
-  "pname": "PS50C7700 3D Plasma-TV 50\"",
-  "pcpe": "cpe:/h:samsung:ps50c7700_television"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "17833",
+	"pname": "PS50C7700 3D Plasma-TV 50\"",
+	"pcpe": "cpe:/h:samsung:ps50c7700_television"
 }

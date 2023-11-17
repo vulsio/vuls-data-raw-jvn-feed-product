@@ -1,8 +1,8 @@
 {
-  "vid": "17164",
-  "vname": "Dash10",
-  "vcpe": "cpe:/:dash10",
-  "pid": "40797",
-  "pname": "OAuth2",
-  "pcpe": "cpe:/a:dash10:oauth2-provider"
+	"vid": "17164",
+	"vname": "Dash10",
+	"vcpe": "cpe:/:dash10",
+	"pid": "40797",
+	"pname": "OAuth2",
+	"pcpe": "cpe:/a:dash10:oauth2-provider"
 }

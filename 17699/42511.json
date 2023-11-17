@@ -1,8 +1,8 @@
 {
-  "vid": "17699",
-  "vname": "Fermax",
-  "vcpe": "cpe:/:fermax",
-  "pid": "42511",
-  "pname": "Outdoor Panel",
-  "pcpe": "cpe:/o:fermax:outdoor_panel_firmware"
+	"vid": "17699",
+	"vname": "Fermax",
+	"vcpe": "cpe:/:fermax",
+	"pid": "42511",
+	"pname": "Outdoor Panel",
+	"pcpe": "cpe:/o:fermax:outdoor_panel_firmware"
 }

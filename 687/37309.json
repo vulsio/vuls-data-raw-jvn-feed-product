@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "37309",
-  "pname": "TIBCO FTL",
-  "pcpe": "cpe:/a:tibco:ftl"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "37309",
+	"pname": "TIBCO FTL",
+	"pcpe": "cpe:/a:tibco:ftl"
 }

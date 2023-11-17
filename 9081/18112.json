@@ -1,8 +1,8 @@
 {
-  "vid": "9081",
-  "vname": "Kepware Technologies",
-  "vcpe": "cpe:/:kepware",
-  "pid": "18112",
-  "pname": "KEPServerEX",
-  "pcpe": "cpe:/h:kepware:kepserverex_communications_platform"
+	"vid": "9081",
+	"vname": "Kepware Technologies",
+	"vcpe": "cpe:/:kepware",
+	"pid": "18112",
+	"pname": "KEPServerEX",
+	"pcpe": "cpe:/h:kepware:kepserverex_communications_platform"
 }

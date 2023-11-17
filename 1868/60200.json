@@ -1,8 +1,8 @@
 {
-  "vid": "1868",
-  "vname": "ロジテック株式会社",
-  "vcpe": "cpe:/:logitec",
-  "pid": "60200",
-  "pname": "LAN-WH300AN/DGP",
-  "pcpe": "cpe:/o:logitec:lan-wh300an%2fdgp"
+	"vid": "1868",
+	"vname": "ロジテック株式会社",
+	"vcpe": "cpe:/:logitec",
+	"pid": "60200",
+	"pname": "LAN-WH300AN/DGP",
+	"pcpe": "cpe:/o:logitec:lan-wh300an%2fdgp"
 }

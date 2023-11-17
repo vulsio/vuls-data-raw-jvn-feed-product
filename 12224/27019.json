@@ -1,8 +1,8 @@
 {
-  "vid": "12224",
-  "vname": "simple-image-manipulator project",
-  "vcpe": "cpe:/:simple-image-manipulator_project",
-  "pid": "27019",
-  "pname": "simple-image-manipulator",
-  "pcpe": "cpe:/a:simple-image-manipulator_project:simple-image-manipulator"
+	"vid": "12224",
+	"vname": "simple-image-manipulator project",
+	"vcpe": "cpe:/:simple-image-manipulator_project",
+	"pid": "27019",
+	"pname": "simple-image-manipulator",
+	"pcpe": "cpe:/a:simple-image-manipulator_project:simple-image-manipulator"
 }

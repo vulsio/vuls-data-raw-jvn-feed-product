@@ -1,8 +1,8 @@
 {
-  "vid": "13564",
-  "vname": "Dark Mode project",
-  "vcpe": "cpe:/:dark_mode_project",
-  "pid": "32076",
-  "pname": "Dark Mode",
-  "pcpe": "cpe:/a:dark_mode_project:dark_mode"
+	"vid": "13564",
+	"vname": "Dark Mode project",
+	"vcpe": "cpe:/:dark_mode_project",
+	"pid": "32076",
+	"pname": "Dark Mode",
+	"pcpe": "cpe:/a:dark_mode_project:dark_mode"
 }

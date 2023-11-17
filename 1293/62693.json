@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "62693",
-  "pname": "firewall",
-  "pcpe": "cpe:/o:sophos:firewall"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "62693",
+	"pname": "firewall",
+	"pcpe": "cpe:/o:sophos:firewall"
 }

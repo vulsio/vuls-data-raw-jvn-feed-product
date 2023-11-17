@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "40169",
-  "pname": "XP7 Device Manager (DevMgr)",
-  "pcpe": "cpe:/a:hp:xp7_device_manager"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "40169",
+	"pname": "XP7 Device Manager (DevMgr)",
+	"pcpe": "cpe:/a:hp:xp7_device_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18286",
-  "vname": "Infomark.Corporation",
-  "vcpe": "cpe:/:infomark",
-  "pid": "44824",
-  "pname": "IML500 ファームウェア",
-  "pcpe": "cpe:/o:infomark:iml500_firmware"
+	"vid": "18286",
+	"vname": "Infomark.Corporation",
+	"vcpe": "cpe:/:infomark",
+	"pid": "44824",
+	"pname": "IML500 ファームウェア",
+	"pcpe": "cpe:/o:infomark:iml500_firmware"
 }

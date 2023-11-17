@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26557",
-  "pname": "Oracle Healthcare Master Person Index",
-  "pcpe": "cpe:/a:oracle:healthcare_master_person_index"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26557",
+	"pname": "Oracle Healthcare Master Person Index",
+	"pcpe": "cpe:/a:oracle:healthcare_master_person_index"
 }

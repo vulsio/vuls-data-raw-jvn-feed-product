@@ -1,8 +1,8 @@
 {
-  "vid": "784",
-  "vname": "Technicolor",
-  "vcpe": "cpe:/:technicolor",
-  "pid": "27537",
-  "pname": "DPC3941T ファームウェア",
-  "pcpe": "cpe:/o:technicolor:xfinity_gateway_router_dpc3941t_firmware"
+	"vid": "784",
+	"vname": "Technicolor",
+	"vcpe": "cpe:/:technicolor",
+	"pid": "27537",
+	"pname": "DPC3941T ファームウェア",
+	"pcpe": "cpe:/o:technicolor:xfinity_gateway_router_dpc3941t_firmware"
 }

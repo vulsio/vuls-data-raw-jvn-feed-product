@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "41091",
-  "pname": "Oracle Forms",
-  "pcpe": "cpe:/a:oracle:forms"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "41091",
+	"pname": "Oracle Forms",
+	"pcpe": "cpe:/a:oracle:forms"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15985",
-  "vname": "Boolector project",
-  "vcpe": "cpe:/:boolector_project",
-  "pid": "37362",
-  "pname": "Boolector",
-  "pcpe": "cpe:/a:boolector_project:boolector"
+	"vid": "15985",
+	"vname": "Boolector project",
+	"vcpe": "cpe:/:boolector_project",
+	"pid": "37362",
+	"pname": "Boolector",
+	"pcpe": "cpe:/a:boolector_project:boolector"
 }

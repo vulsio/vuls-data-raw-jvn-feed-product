@@ -1,8 +1,8 @@
 {
-  "vid": "14141",
-  "vname": "ATI Systems",
-  "vcpe": "cpe:/:atisystem",
-  "pid": "33761",
-  "pname": "HPSS32 ファームウェア",
-  "pcpe": "cpe:/o:atisystem:hpss32_firmware"
+	"vid": "14141",
+	"vname": "ATI Systems",
+	"vcpe": "cpe:/:atisystem",
+	"pid": "33761",
+	"pname": "HPSS32 ファームウェア",
+	"pcpe": "cpe:/o:atisystem:hpss32_firmware"
 }

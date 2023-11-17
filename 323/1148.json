@@ -1,8 +1,8 @@
 {
-  "vid": "323",
-  "vname": "motive",
-  "vcpe": "cpe:/:motive_incorporated",
-  "pid": "1148",
-  "pname": "Service Activation Manager",
-  "pcpe": "cpe:/a:motive_incorporated:service_activation_manager"
+	"vid": "323",
+	"vname": "motive",
+	"vcpe": "cpe:/:motive_incorporated",
+	"pid": "1148",
+	"pname": "Service Activation Manager",
+	"pcpe": "cpe:/a:motive_incorporated:service_activation_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17663",
-  "vname": "Open TFTP Server project",
-  "vcpe": "cpe:/:open_tftp_server_project",
-  "pid": "42356",
-  "pname": "Open TFTP Server",
-  "pcpe": "cpe:/a:open_tftp_server_project:open_tftp_server"
+	"vid": "17663",
+	"vname": "Open TFTP Server project",
+	"vcpe": "cpe:/:open_tftp_server_project",
+	"pid": "42356",
+	"pname": "Open TFTP Server",
+	"pcpe": "cpe:/a:open_tftp_server_project:open_tftp_server"
 }

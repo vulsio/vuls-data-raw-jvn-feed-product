@@ -1,8 +1,8 @@
 {
-  "vid": "20528",
-  "vname": "Altus",
-  "vcpe": "cpe:/:altus",
-  "pid": "52255",
-  "pname": "Nexto NX3003 ファームウェア",
-  "pcpe": "cpe:/o:altus:nexto_nx3003_firmware"
+	"vid": "20528",
+	"vname": "Altus",
+	"vcpe": "cpe:/:altus",
+	"pid": "52255",
+	"pname": "Nexto NX3003 ファームウェア",
+	"pcpe": "cpe:/o:altus:nexto_nx3003_firmware"
 }

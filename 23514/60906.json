@@ -1,8 +1,8 @@
 {
-  "vid": "23514",
-  "vname": "scratchstatus",
-  "vcpe": "cpe:/:scratchstatus",
-  "pid": "60906",
-  "pname": "scratchtools",
-  "pcpe": "cpe:/a:scratchstatus:scratchtools"
+	"vid": "23514",
+	"vname": "scratchstatus",
+	"vcpe": "cpe:/:scratchstatus",
+	"pid": "60906",
+	"pname": "scratchtools",
+	"pcpe": "cpe:/a:scratchstatus:scratchtools"
 }

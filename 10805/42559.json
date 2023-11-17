@@ -1,8 +1,8 @@
 {
-  "vid": "10805",
-  "vname": "gencat",
-  "vcpe": "cpe:/:gencat",
-  "pid": "42559",
-  "pname": "Portal dacces a la universitat",
-  "pcpe": "cpe:/a:gencat:portal_d%27acces_a_la_universitat"
+	"vid": "10805",
+	"vname": "gencat",
+	"vcpe": "cpe:/:gencat",
+	"pid": "42559",
+	"pname": "Portal dacces a la universitat",
+	"pcpe": "cpe:/a:gencat:portal_d%27acces_a_la_universitat"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5187",
-  "vname": "kmint21",
-  "vcpe": "cpe:/:kmint21",
-  "pid": "10829",
-  "pname": "golden ftp server",
-  "pcpe": "cpe:/a:kmint21:golden_ftp_server"
+	"vid": "5187",
+	"vname": "kmint21",
+	"vcpe": "cpe:/:kmint21",
+	"pid": "10829",
+	"pname": "golden ftp server",
+	"pcpe": "cpe:/a:kmint21:golden_ftp_server"
 }

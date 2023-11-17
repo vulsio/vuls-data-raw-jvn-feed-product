@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "2599",
-  "pname": "CA eHealth Performance Manager",
-  "pcpe": "cpe:/a:ca:ehealth_performance_manager"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "2599",
+	"pname": "CA eHealth Performance Manager",
+	"pcpe": "cpe:/a:ca:ehealth_performance_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "28581",
-  "pname": "Smart TV X10P ファームウェア",
-  "pcpe": "cpe:/o:samsung:x10p_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "28581",
+	"pname": "Smart TV X10P ファームウェア",
+	"pcpe": "cpe:/o:samsung:x10p_firmware"
 }

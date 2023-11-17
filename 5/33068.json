@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33068",
-  "pname": "SD 450 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd_450_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33068",
+	"pname": "SD 450 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd_450_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22291",
-  "vname": "GENI",
-  "vcpe": "cpe:/:geni",
-  "pid": "57327",
-  "pname": "geni-portal",
-  "pcpe": "cpe:/a:geni:geni-portal"
+	"vid": "22291",
+	"vname": "GENI",
+	"vcpe": "cpe:/:geni",
+	"pid": "57327",
+	"pname": "geni-portal",
+	"pcpe": "cpe:/a:geni:geni-portal"
 }

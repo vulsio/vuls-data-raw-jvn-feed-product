@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "23386",
-  "pname": "SAP ERP",
-  "pcpe": "cpe:/a:sap:enterprise_resource_planning"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "23386",
+	"pname": "SAP ERP",
+	"pcpe": "cpe:/a:sap:enterprise_resource_planning"
 }

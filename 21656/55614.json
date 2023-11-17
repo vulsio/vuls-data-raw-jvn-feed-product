@@ -1,8 +1,8 @@
 {
-  "vid": "21656",
-  "vname": "WebP",
-  "vcpe": "cpe:/:webp",
-  "pid": "55614",
-  "pname": "WebP Server Go",
-  "pcpe": "cpe:/a:webp:webp_server_go"
+	"vid": "21656",
+	"vname": "WebP",
+	"vcpe": "cpe:/:webp",
+	"pid": "55614",
+	"pname": "WebP Server Go",
+	"pcpe": "cpe:/a:webp:webp_server_go"
 }

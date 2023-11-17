@@ -1,8 +1,8 @@
 {
-  "vid": "11557",
-  "vname": "Kony, Inc.",
-  "vcpe": "cpe:/:kony",
-  "pid": "23571",
-  "pname": "Kony Management",
-  "pcpe": "cpe:/a:kony:enterprise_mobile_management"
+	"vid": "11557",
+	"vname": "Kony, Inc.",
+	"vcpe": "cpe:/:kony",
+	"pid": "23571",
+	"pname": "Kony Management",
+	"pcpe": "cpe:/a:kony:enterprise_mobile_management"
 }

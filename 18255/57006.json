@@ -1,8 +1,8 @@
 {
-  "vid": "18255",
-  "vname": "CommScope",
-  "vcpe": "cpe:/:commscope",
-  "pid": "57006",
-  "pname": "Arris SurfBoard SBG10 ファームウェア",
-  "pcpe": "cpe:/o:commscope:arris_surfboard_sbg10_firmware"
+	"vid": "18255",
+	"vname": "CommScope",
+	"vcpe": "cpe:/:commscope",
+	"pid": "57006",
+	"pname": "Arris SurfBoard SBG10 ファームウェア",
+	"pcpe": "cpe:/o:commscope:arris_surfboard_sbg10_firmware"
 }

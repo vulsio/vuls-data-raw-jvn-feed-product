@@ -1,8 +1,8 @@
 {
-  "vid": "1648",
-  "vname": "Pentaho Corporation",
-  "vcpe": "cpe:/:pentaho",
-  "pid": "12547",
-  "pname": "business intelligence suite",
-  "pcpe": "cpe:/a:pentaho:business_intelligence_suite"
+	"vid": "1648",
+	"vname": "Pentaho Corporation",
+	"vcpe": "cpe:/:pentaho",
+	"pid": "12547",
+	"pname": "business intelligence suite",
+	"pcpe": "cpe:/a:pentaho:business_intelligence_suite"
 }

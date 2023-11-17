@@ -1,8 +1,8 @@
 {
-  "vid": "14366",
-  "vname": "slimerjs-edge project",
-  "vcpe": "cpe:/:slimerjs-edge_project",
-  "pid": "34057",
-  "pname": "slimerjs-edge",
-  "pcpe": "cpe:/a:slimerjs-edge_project:slimerjs-edge"
+	"vid": "14366",
+	"vname": "slimerjs-edge project",
+	"vcpe": "cpe:/:slimerjs-edge_project",
+	"pid": "34057",
+	"pname": "slimerjs-edge",
+	"pcpe": "cpe:/a:slimerjs-edge_project:slimerjs-edge"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13948",
-  "vname": "PJSIP",
-  "vcpe": "cpe:/:pjsip",
-  "pid": "58198",
-  "pname": "pjsip",
-  "pcpe": "cpe:/a:pjsip:pjsip"
+	"vid": "13948",
+	"vname": "PJSIP",
+	"vcpe": "cpe:/:pjsip",
+	"pid": "58198",
+	"pname": "pjsip",
+	"pcpe": "cpe:/a:pjsip:pjsip"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "60494",
-  "pname": "wcd9335 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:wcd9335_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "60494",
+	"pname": "wcd9335 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:wcd9335_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "53275",
-  "pname": "System Access Point 127V ファームウェア",
-  "pcpe": "cpe:/o:abb:system_access_point_127v_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "53275",
+	"pname": "System Access Point 127V ファームウェア",
+	"pcpe": "cpe:/o:abb:system_access_point_127v_firmware"
 }

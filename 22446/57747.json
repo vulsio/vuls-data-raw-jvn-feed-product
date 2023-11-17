@@ -1,8 +1,8 @@
 {
-  "vid": "22446",
-  "vname": "1Byte Software",
-  "vcpe": "cpe:/:1byte",
-  "pid": "57747",
-  "pname": "SecondClone",
-  "pcpe": "cpe:/a:1byte:secondclone"
+	"vid": "22446",
+	"vname": "1Byte Software",
+	"vcpe": "cpe:/:1byte",
+	"pid": "57747",
+	"pname": "SecondClone",
+	"pcpe": "cpe:/a:1byte:secondclone"
 }

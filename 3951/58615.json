@@ -1,8 +1,8 @@
 {
-  "vid": "3951",
-  "vname": "geoserver",
-  "vcpe": "cpe:/:geoserver",
-  "pid": "58615",
-  "pname": "geowebcache",
-  "pcpe": "cpe:/a:geoserver:geowebcache"
+	"vid": "3951",
+	"vname": "geoserver",
+	"vcpe": "cpe:/:geoserver",
+	"pid": "58615",
+	"pname": "geowebcache",
+	"pcpe": "cpe:/a:geoserver:geowebcache"
 }

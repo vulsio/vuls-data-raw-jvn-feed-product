@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "676",
-  "pname": "Cisco Cache Engine",
-  "pcpe": "cpe:/h:cisco:cache_engine"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "676",
+	"pname": "Cisco Cache Engine",
+	"pcpe": "cpe:/h:cisco:cache_engine"
 }

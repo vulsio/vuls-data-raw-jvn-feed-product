@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2465",
-  "pname": "Oracle Siebel Option Pack for IE ActiveX control",
-  "pcpe": "cpe:/a:oracle:siebel_option_pack_ie_activex_control"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2465",
+	"pname": "Oracle Siebel Option Pack for IE ActiveX control",
+	"pcpe": "cpe:/a:oracle:siebel_option_pack_ie_activex_control"
 }

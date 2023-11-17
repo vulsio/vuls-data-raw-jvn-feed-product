@@ -1,8 +1,8 @@
 {
-  "vid": "13413",
-  "vname": "GEOVAP, spol. s r.o.",
-  "vcpe": "cpe:/:geovap",
-  "pid": "31566",
-  "pname": "Reliance SCADA",
-  "pcpe": "cpe:/a:geovap:reliance-scada"
+	"vid": "13413",
+	"vname": "GEOVAP, spol. s r.o.",
+	"vcpe": "cpe:/:geovap",
+	"pid": "31566",
+	"pname": "Reliance SCADA",
+	"pcpe": "cpe:/a:geovap:reliance-scada"
 }

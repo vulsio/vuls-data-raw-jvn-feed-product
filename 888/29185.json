@@ -1,8 +1,8 @@
 {
-  "vid": "888",
-  "vname": "Automattic Inc.",
-  "vcpe": "cpe:/:automattic",
-  "pid": "29185",
-  "pname": "WP Job Manager",
-  "pcpe": "cpe:/a:automattic:wp_job_manager"
+	"vid": "888",
+	"vname": "Automattic Inc.",
+	"vcpe": "cpe:/:automattic",
+	"pid": "29185",
+	"pname": "WP Job Manager",
+	"pcpe": "cpe:/a:automattic:wp_job_manager"
 }

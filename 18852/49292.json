@@ -1,8 +1,8 @@
 {
-  "vid": "18852",
-  "vname": "ピーアンドエフ",
-  "vcpe": "cpe:/:pepperl-fuchs",
-  "pid": "49292",
-  "pname": "IO-Link Master DR-8-EIP-P ファームウェア",
-  "pcpe": "cpe:/o:pepperl-fuchs:io-link_master_dr-8-eip-p_firmware"
+	"vid": "18852",
+	"vname": "ピーアンドエフ",
+	"vcpe": "cpe:/:pepperl-fuchs",
+	"pid": "49292",
+	"pname": "IO-Link Master DR-8-EIP-P ファームウェア",
+	"pcpe": "cpe:/o:pepperl-fuchs:io-link_master_dr-8-eip-p_firmware"
 }

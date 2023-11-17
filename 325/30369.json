@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30369",
-  "pname": "ThinkCentre M8500t/s ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m8500t%2Fs_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30369",
+	"pname": "ThinkCentre M8500t/s ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m8500t%2Fs_firmware"
 }

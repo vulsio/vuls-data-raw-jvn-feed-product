@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27393",
-  "pname": "ThinkPad Edge E440",
-  "pcpe": "cpe:/h:lenovo:thinkpad_edge_e440"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27393",
+	"pname": "ThinkPad Edge E440",
+	"pcpe": "cpe:/h:lenovo:thinkpad_edge_e440"
 }

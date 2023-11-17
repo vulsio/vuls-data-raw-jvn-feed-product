@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "51374",
-  "pname": "Microsoft Defender for Endpoint",
-  "pcpe": "cpe:/a:microsoft:defender_for_endpoint"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "51374",
+	"pname": "Microsoft Defender for Endpoint",
+	"pcpe": "cpe:/a:microsoft:defender_for_endpoint"
 }

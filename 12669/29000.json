@@ -1,8 +1,8 @@
 {
-  "vid": "12669",
-  "vname": "MiniProfiler",
-  "vcpe": "cpe:/:miniprofiler",
-  "pid": "29000",
-  "pname": "rack-mini-profiler",
-  "pcpe": "cpe:/a:miniprofiler:rack-mini-profiler"
+	"vid": "12669",
+	"vname": "MiniProfiler",
+	"vcpe": "cpe:/:miniprofiler",
+	"pid": "29000",
+	"pname": "rack-mini-profiler",
+	"pcpe": "cpe:/a:miniprofiler:rack-mini-profiler"
 }

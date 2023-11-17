@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "42522",
-  "pname": "Cisco Linksys E4200 ファームウェア",
-  "pcpe": "cpe:/o:cisco:linksys_e4200_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "42522",
+	"pname": "Cisco Linksys E4200 ファームウェア",
+	"pcpe": "cpe:/o:cisco:linksys_e4200_firmware"
 }

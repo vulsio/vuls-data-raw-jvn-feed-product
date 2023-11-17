@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "37101",
-  "pname": "Endpoint Security for Linux Threat Prevention (ENSLTP)",
-  "pcpe": "cpe:/a:mcafee:endpoint_security_for_linux_threat_prevention"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "37101",
+	"pname": "Endpoint Security for Linux Threat Prevention (ENSLTP)",
+	"pcpe": "cpe:/a:mcafee:endpoint_security_for_linux_threat_prevention"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "16915",
-  "pname": "Cisco ATA 187 Analog Telephone Adaptor Firmware",
-  "pcpe": "cpe:/o:cisco:ata_187_analog_telephone_adaptor_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "16915",
+	"pname": "Cisco ATA 187 Analog Telephone Adaptor Firmware",
+	"pcpe": "cpe:/o:cisco:ata_187_analog_telephone_adaptor_firmware"
 }

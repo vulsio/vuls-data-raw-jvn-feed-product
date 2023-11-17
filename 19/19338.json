@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19338",
-  "pname": "user registration tool",
-  "pcpe": "cpe:/a:cisco:user_registration_tool"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19338",
+	"pname": "user registration tool",
+	"pcpe": "cpe:/a:cisco:user_registration_tool"
 }

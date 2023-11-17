@@ -1,8 +1,8 @@
 {
-  "vid": "24085",
-  "vname": "pycord development",
-  "vcpe": "cpe:/:pycord_development",
-  "pid": "62290",
-  "pname": "pycord",
-  "pcpe": "cpe:/a:pycord_development:pycord"
+	"vid": "24085",
+	"vname": "pycord development",
+	"vcpe": "cpe:/:pycord_development",
+	"pid": "62290",
+	"pname": "pycord",
+	"pcpe": "cpe:/a:pycord_development:pycord"
 }

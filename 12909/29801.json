@@ -1,8 +1,8 @@
 {
-  "vid": "12909",
-  "vname": "Asuswrt-Merlin firmware project",
-  "vcpe": "cpe:/:asuswrt-merlin_project",
-  "pid": "29801",
-  "pname": "RT N12+ PRO ファームウェア",
-  "pcpe": "cpe:/o:asuswrt-merlin_project:rt_n12%2B_pro_firmware"
+	"vid": "12909",
+	"vname": "Asuswrt-Merlin firmware project",
+	"vcpe": "cpe:/:asuswrt-merlin_project",
+	"pid": "29801",
+	"pname": "RT N12+ PRO ファームウェア",
+	"pcpe": "cpe:/o:asuswrt-merlin_project:rt_n12%2B_pro_firmware"
 }

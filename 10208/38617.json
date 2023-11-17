@@ -1,8 +1,8 @@
 {
-  "vid": "10208",
-  "vname": "The Go Project",
-  "vcpe": "cpe:/:golang",
-  "pid": "38617",
-  "pname": "crypto",
-  "pcpe": "cpe:/a:golang:crypto"
+	"vid": "10208",
+	"vname": "The Go Project",
+	"vcpe": "cpe:/:golang",
+	"pid": "38617",
+	"pname": "crypto",
+	"pcpe": "cpe:/a:golang:crypto"
 }

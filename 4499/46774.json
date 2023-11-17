@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "46774",
-  "pname": "ネットワークインタフェースボード MNETH ユーティリティ",
-  "pcpe": "cpe:/a:mitsubishielectric:network_interface_board_mneth_utility"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "46774",
+	"pname": "ネットワークインタフェースボード MNETH ユーティリティ",
+	"pcpe": "cpe:/a:mitsubishielectric:network_interface_board_mneth_utility"
 }

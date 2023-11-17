@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "8886",
-  "pname": "ArubaOS",
-  "pcpe": "cpe:/o:arubanetworks:arubaos"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "8886",
+	"pname": "ArubaOS",
+	"pcpe": "cpe:/o:arubanetworks:arubaos"
 }

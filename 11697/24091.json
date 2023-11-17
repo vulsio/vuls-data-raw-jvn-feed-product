@@ -1,8 +1,8 @@
 {
-  "vid": "11697",
-  "vname": "KCodes Technology Inc.",
-  "vcpe": "cpe:/:kcodes",
-  "pid": "24091",
-  "pname": "NetUSB",
-  "pcpe": "cpe:/a:kcodes:netusb"
+	"vid": "11697",
+	"vname": "KCodes Technology Inc.",
+	"vcpe": "cpe:/:kcodes",
+	"pid": "24091",
+	"pname": "NetUSB",
+	"pcpe": "cpe:/a:kcodes:netusb"
 }

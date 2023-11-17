@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20620",
-  "pname": "IBM Workload Scheduler",
-  "pcpe": "cpe:/a:ibm:workload_scheduler"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20620",
+	"pname": "IBM Workload Scheduler",
+	"pcpe": "cpe:/a:ibm:workload_scheduler"
 }

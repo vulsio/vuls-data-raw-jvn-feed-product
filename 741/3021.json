@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "3021",
-  "pname": "DWL-2100AP",
-  "pcpe": "cpe:/h:dlink:dwl-2100AP"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "3021",
+	"pname": "DWL-2100AP",
+	"pcpe": "cpe:/h:dlink:dwl-2100AP"
 }

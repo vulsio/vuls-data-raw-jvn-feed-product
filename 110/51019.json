@@ -1,8 +1,8 @@
 {
-  "vid": "110",
-  "vname": "Broadcom",
-  "vcpe": "cpe:/:broadcom",
-  "pid": "51019",
-  "pname": "BCM2711",
-  "pcpe": "cpe:/o:broadcom:bcm2711"
+	"vid": "110",
+	"vname": "Broadcom",
+	"vcpe": "cpe:/:broadcom",
+	"pid": "51019",
+	"pname": "BCM2711",
+	"pcpe": "cpe:/o:broadcom:bcm2711"
 }

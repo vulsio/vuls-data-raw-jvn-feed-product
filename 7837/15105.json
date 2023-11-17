@@ -1,8 +1,8 @@
 {
-  "vid": "7837",
-  "vname": "studiolounge",
-  "vcpe": "cpe:/:studiolounge",
-  "pid": "15105",
-  "pname": "address book",
-  "pcpe": "cpe:/a:studiolounge:address_book"
+	"vid": "7837",
+	"vname": "studiolounge",
+	"vcpe": "cpe:/:studiolounge",
+	"pid": "15105",
+	"pname": "address book",
+	"pcpe": "cpe:/a:studiolounge:address_book"
 }

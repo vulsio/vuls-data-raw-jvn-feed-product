@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "48224",
-  "pname": "iStorage M シリーズ NAS オプション",
-  "pcpe": "cpe:/a:nec:storage_m_series_nas_gateway"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "48224",
+	"pname": "iStorage M シリーズ NAS オプション",
+	"pcpe": "cpe:/a:nec:storage_m_series_nas_gateway"
 }

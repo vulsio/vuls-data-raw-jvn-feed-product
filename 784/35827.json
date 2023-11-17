@@ -1,8 +1,8 @@
 {
-  "vid": "784",
-  "vname": "Technicolor",
-  "vcpe": "cpe:/:technicolor",
-  "pid": "35827",
-  "pname": "TC8305C ファームウェア",
-  "pcpe": "cpe:/o:technicolor:tc8305c_firmware"
+	"vid": "784",
+	"vname": "Technicolor",
+	"vcpe": "cpe:/:technicolor",
+	"pid": "35827",
+	"pname": "TC8305C ファームウェア",
+	"pcpe": "cpe:/o:technicolor:tc8305c_firmware"
 }

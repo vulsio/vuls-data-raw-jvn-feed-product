@@ -1,8 +1,8 @@
 {
-  "vid": "10248",
-  "vname": "OpenMRS",
-  "vcpe": "cpe:/:openmrs",
-  "pid": "28854",
-  "pname": "Reporting Module",
-  "pcpe": "cpe:/a:openmrs:openmrs_module_reporting"
+	"vid": "10248",
+	"vname": "OpenMRS",
+	"vcpe": "cpe:/:openmrs",
+	"pid": "28854",
+	"pname": "Reporting Module",
+	"pcpe": "cpe:/a:openmrs:openmrs_module_reporting"
 }

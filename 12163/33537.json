@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "33537",
-  "pname": "Google Login Plugin",
-  "pcpe": "cpe:/a:jenkins:google_login"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "33537",
+	"pname": "Google Login Plugin",
+	"pcpe": "cpe:/a:jenkins:google_login"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12137",
-  "vname": "Xstream project",
-  "vcpe": "cpe:/:xstream_project",
-  "pid": "26128",
-  "pname": "Xstream",
-  "pcpe": "cpe:/a:xstream_project:xstream"
+	"vid": "12137",
+	"vname": "Xstream project",
+	"vcpe": "cpe:/:xstream_project",
+	"pid": "26128",
+	"pname": "Xstream",
+	"pcpe": "cpe:/a:xstream_project:xstream"
 }

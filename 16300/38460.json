@@ -1,8 +1,8 @@
 {
-  "vid": "16300",
-  "vname": "Teq AVIT",
-  "vcpe": "cpe:/:teqavit",
-  "pid": "38460",
-  "pname": "WiPS710 ファームウェア",
-  "pcpe": "cpe:/o:teqavit:wips710_firmware"
+	"vid": "16300",
+	"vname": "Teq AVIT",
+	"vcpe": "cpe:/:teqavit",
+	"pid": "38460",
+	"pname": "WiPS710 ファームウェア",
+	"pcpe": "cpe:/o:teqavit:wips710_firmware"
 }

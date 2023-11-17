@@ -1,8 +1,8 @@
 {
-  "vid": "21922",
-  "vname": "TA Triumph-Adler GmbH",
-  "vcpe": "cpe:/:misc",
-  "pid": "56294",
-  "pname": "Android アプリ「UTAX/TA MobilePrint」",
-  "pcpe": "cpe:/a:misc:ta_triumph_adler_gmbh_android_utaxta_mobile_print"
+	"vid": "21922",
+	"vname": "TA Triumph-Adler GmbH",
+	"vcpe": "cpe:/:misc",
+	"pid": "56294",
+	"pname": "Android アプリ「UTAX/TA MobilePrint」",
+	"pcpe": "cpe:/a:misc:ta_triumph_adler_gmbh_android_utaxta_mobile_print"
 }

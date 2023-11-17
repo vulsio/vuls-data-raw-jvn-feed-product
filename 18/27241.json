@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27241",
-  "pname": "IBM API Connect",
-  "pcpe": "cpe:/a:ibm:api_connect"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27241",
+	"pname": "IBM API Connect",
+	"pcpe": "cpe:/a:ibm:api_connect"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "1296",
-  "pname": "Interstage Studio",
-  "pcpe": "cpe:/a:fujitsu:interstage_studio"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "1296",
+	"pname": "Interstage Studio",
+	"pcpe": "cpe:/a:fujitsu:interstage_studio"
 }

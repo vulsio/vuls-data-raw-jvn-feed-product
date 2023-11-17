@@ -1,8 +1,8 @@
 {
-  "vid": "14437",
-  "vname": "connect project",
-  "vcpe": "cpe:/:connect_project",
-  "pid": "34130",
-  "pname": "connect",
-  "pcpe": "cpe:/a:connect_project:connect"
+	"vid": "14437",
+	"vname": "connect project",
+	"vcpe": "cpe:/:connect_project",
+	"pid": "34130",
+	"pname": "connect",
+	"pcpe": "cpe:/a:connect_project:connect"
 }

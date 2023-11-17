@@ -1,8 +1,8 @@
 {
-  "vid": "372",
-  "vname": "Nagios Enterprises, LLC",
-  "vcpe": "cpe:/:nagios",
-  "pid": "56110",
-  "pname": "Nagios Cross-Platform Agent",
-  "pcpe": "cpe:/a:nagios:nagios_cross_platform_agent"
+	"vid": "372",
+	"vname": "Nagios Enterprises, LLC",
+	"vcpe": "cpe:/:nagios",
+	"pid": "56110",
+	"pname": "Nagios Cross-Platform Agent",
+	"pcpe": "cpe:/a:nagios:nagios_cross_platform_agent"
 }

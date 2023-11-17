@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47204",
-  "pname": "CSRB31024 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:csrb31024_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47204",
+	"pname": "CSRB31024 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:csrb31024_firmware"
 }

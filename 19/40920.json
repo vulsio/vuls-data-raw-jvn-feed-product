@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "40920",
-  "pname": "Integrated Services Virtual ルータファームウェア",
-  "pcpe": "cpe:/o:cisco:integrated_services_virtual_router_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "40920",
+	"pname": "Integrated Services Virtual ルータファームウェア",
+	"pcpe": "cpe:/o:cisco:integrated_services_virtual_router_firmware"
 }

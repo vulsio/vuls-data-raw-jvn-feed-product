@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "63510",
-  "pname": "Cisco Nexus 3064-X ファームウェア",
-  "pcpe": "cpe:/o:cisco:nexus_3064-x_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "63510",
+	"pname": "Cisco Nexus 3064-X ファームウェア",
+	"pcpe": "cpe:/o:cisco:nexus_3064-x_firmware"
 }

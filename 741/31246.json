@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "31246",
-  "pname": "DCS-936L ファームウェア",
-  "pcpe": "cpe:/o:dlink:dcs-936l"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "31246",
+	"pname": "DCS-936L ファームウェア",
+	"pcpe": "cpe:/o:dlink:dcs-936l"
 }

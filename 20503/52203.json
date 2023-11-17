@@ -1,8 +1,8 @@
 {
-  "vid": "20503",
-  "vname": "Content Management System project",
-  "vcpe": "cpe:/:content_management_system_project",
-  "pid": "52203",
-  "pname": "Content Management System",
-  "pcpe": "cpe:/a:content_management_system_project:content_management_system"
+	"vid": "20503",
+	"vname": "Content Management System project",
+	"vcpe": "cpe:/:content_management_system_project",
+	"pid": "52203",
+	"pname": "Content Management System",
+	"pcpe": "cpe:/a:content_management_system_project:content_management_system"
 }

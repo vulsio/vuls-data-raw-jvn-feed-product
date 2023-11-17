@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "50846",
-  "pname": "Triconex Model 3009 MP ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:triconex_model_3009_mp_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "50846",
+	"pname": "Triconex Model 3009 MP ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:triconex_model_3009_mp_firmware"
 }

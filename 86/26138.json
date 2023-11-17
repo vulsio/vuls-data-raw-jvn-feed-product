@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "26138",
-  "pname": "WZR-600DHP3 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wzr-600dhp3_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "26138",
+	"pname": "WZR-600DHP3 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wzr-600dhp3_firmware"
 }

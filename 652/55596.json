@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "55596",
-  "pname": "T-NKLDEUC ファームウェア",
-  "pcpe": "cpe:/o:samsung:t-nkldeuc_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "55596",
+	"pname": "T-NKLDEUC ファームウェア",
+	"pcpe": "cpe:/o:samsung:t-nkldeuc_firmware"
 }

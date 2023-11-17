@@ -1,8 +1,8 @@
 {
-  "vid": "10371",
-  "vname": "Scalix.com",
-  "vcpe": "cpe:/:scalix",
-  "pid": "21811",
-  "pname": "Scalix Web Access",
-  "pcpe": "cpe:/a:scalix:web_access"
+	"vid": "10371",
+	"vname": "Scalix.com",
+	"vcpe": "cpe:/:scalix",
+	"pid": "21811",
+	"pname": "Scalix Web Access",
+	"pcpe": "cpe:/a:scalix:web_access"
 }

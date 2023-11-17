@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "13016",
-  "pname": "series 40",
-  "pcpe": "cpe:/o:nokia:series_40"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "13016",
+	"pname": "series 40",
+	"pcpe": "cpe:/o:nokia:series_40"
 }

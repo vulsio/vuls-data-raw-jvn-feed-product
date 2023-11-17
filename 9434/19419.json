@@ -1,8 +1,8 @@
 {
-  "vid": "9434",
-  "vname": "GitLab.org",
-  "vcpe": "cpe:/:gitlab",
-  "pid": "19419",
-  "pname": "GitLab",
-  "pcpe": "cpe:/a:gitlab:gitlab"
+	"vid": "9434",
+	"vname": "GitLab.org",
+	"vcpe": "cpe:/:gitlab",
+	"pid": "19419",
+	"pname": "GitLab",
+	"pcpe": "cpe:/a:gitlab:gitlab"
 }

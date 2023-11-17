@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "60219",
-  "pname": "Azure HDInsight",
-  "pcpe": "cpe:/a:microsoft:azure_hdinsights"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "60219",
+	"pname": "Azure HDInsight",
+	"pcpe": "cpe:/a:microsoft:azure_hdinsights"
 }

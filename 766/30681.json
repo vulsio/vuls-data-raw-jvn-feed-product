@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "30681",
-  "pname": "Citect Anywhere",
-  "pcpe": "cpe:/a:schneider_electric:citect_anywhere"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "30681",
+	"pname": "Citect Anywhere",
+	"pcpe": "cpe:/a:schneider_electric:citect_anywhere"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "728",
-  "vname": "TYPO3 Association",
-  "vcpe": "cpe:/:typo3",
-  "pid": "15693",
-  "pname": "sql frontend extension",
-  "pcpe": "cpe:/a:typo3:sql_frontend_extension"
+	"vid": "728",
+	"vname": "TYPO3 Association",
+	"vcpe": "cpe:/:typo3",
+	"pid": "15693",
+	"pname": "sql frontend extension",
+	"pcpe": "cpe:/a:typo3:sql_frontend_extension"
 }

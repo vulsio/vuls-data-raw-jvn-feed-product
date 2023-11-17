@@ -1,8 +1,8 @@
 {
-  "vid": "11908",
-  "vname": "unixODBC Project",
-  "vcpe": "cpe:/:unixodbc",
-  "pid": "24815",
-  "pname": "unixODBC",
-  "pcpe": "cpe:/a:unixodbc:unixodbc"
+	"vid": "11908",
+	"vname": "unixODBC Project",
+	"vcpe": "cpe:/:unixodbc",
+	"pid": "24815",
+	"pname": "unixODBC",
+	"pcpe": "cpe:/a:unixodbc:unixodbc"
 }

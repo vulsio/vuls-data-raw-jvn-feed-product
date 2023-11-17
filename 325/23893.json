@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "23893",
-  "pname": "USB Enhanced Performance Keyboard",
-  "pcpe": "cpe:/a:lenovo:usb_enhanced_performance_keyboard"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "23893",
+	"pname": "USB Enhanced Performance Keyboard",
+	"pcpe": "cpe:/a:lenovo:usb_enhanced_performance_keyboard"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4160",
-  "vname": "VIVOTEK Inc.",
-  "vcpe": "cpe:/:vivotek",
-  "pid": "42822",
-  "pname": "pt7135 ファームウェア",
-  "pcpe": "cpe:/o:vivotek:pt7135_firmware"
+	"vid": "4160",
+	"vname": "VIVOTEK Inc.",
+	"vcpe": "cpe:/:vivotek",
+	"pid": "42822",
+	"pname": "pt7135 ファームウェア",
+	"pcpe": "cpe:/o:vivotek:pt7135_firmware"
 }

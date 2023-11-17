@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "59097",
-  "pname": "IdeaCentre AIO 3-22ITL6 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideacentre_aio_3-22itl6_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "59097",
+	"pname": "IdeaCentre AIO 3-22ITL6 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideacentre_aio_3-22itl6_firmware"
 }

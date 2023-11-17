@@ -1,8 +1,8 @@
 {
-  "vid": "7238",
-  "vname": "ravware",
-  "vcpe": "cpe:/:ravware",
-  "pid": "14237",
-  "pname": "flic activex control",
-  "pcpe": "cpe:/a:ravware:flic_activex_control"
+	"vid": "7238",
+	"vname": "ravware",
+	"vcpe": "cpe:/:ravware",
+	"pid": "14237",
+	"pname": "flic activex control",
+	"pcpe": "cpe:/a:ravware:flic_activex_control"
 }

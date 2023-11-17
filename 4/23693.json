@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23693",
-  "pname": "HP RP2 Integrated Single Head MSR w/o SRED (J1A33AA)",
-  "pcpe": "cpe:/h:hp:integrated_single_head_msr_w%2Fo_sred_j1a33aa"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23693",
+	"pname": "HP RP2 Integrated Single Head MSR w/o SRED (J1A33AA)",
+	"pcpe": "cpe:/h:hp:integrated_single_head_msr_w%2Fo_sred_j1a33aa"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13608",
-  "vname": "General Motors - Shanghai OnStar",
-  "vcpe": "cpe:/:misc",
-  "pid": "32205",
-  "pname": "SOS iOS Client",
-  "pcpe": "cpe:/a:misc:general_motors-shanghai_onstar_sos_ios_client"
+	"vid": "13608",
+	"vname": "General Motors - Shanghai OnStar",
+	"vcpe": "cpe:/:misc",
+	"pid": "32205",
+	"pname": "SOS iOS Client",
+	"pcpe": "cpe:/a:misc:general_motors-shanghai_onstar_sos_ios_client"
 }

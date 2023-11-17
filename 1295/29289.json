@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "29289",
-  "pname": "FortiPortal",
-  "pcpe": "cpe:/a:fortinet:fortiportal"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "29289",
+	"pname": "FortiPortal",
+	"pcpe": "cpe:/a:fortinet:fortiportal"
 }

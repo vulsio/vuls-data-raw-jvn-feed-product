@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "54899",
-  "pname": "JP1/IT Desktop Management 2 - Smart Device Manager",
-  "pcpe": "cpe:/a:hitachi:jp1%2fit_desktop_management_2-smart_device_manager"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "54899",
+	"pname": "JP1/IT Desktop Management 2 - Smart Device Manager",
+	"pcpe": "cpe:/a:hitachi:jp1%2fit_desktop_management_2-smart_device_manager"
 }

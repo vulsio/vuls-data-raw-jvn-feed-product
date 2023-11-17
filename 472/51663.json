@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "51663",
-  "pname": "Compact GuardLogix 5380 コントローラファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:compact_guardlogix_5380_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "51663",
+	"pname": "Compact GuardLogix 5380 コントローラファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:compact_guardlogix_5380_firmware"
 }

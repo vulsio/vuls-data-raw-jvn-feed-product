@@ -1,8 +1,8 @@
 {
-  "vid": "15887",
-  "vname": "Asciidoctor project",
-  "vcpe": "cpe:/:asciidoctor",
-  "pid": "37063",
-  "pname": "Asciidoctor",
-  "pcpe": "cpe:/a:asciidoctor:asciidoctor"
+	"vid": "15887",
+	"vname": "Asciidoctor project",
+	"vcpe": "cpe:/:asciidoctor",
+	"pid": "37063",
+	"pname": "Asciidoctor",
+	"pcpe": "cpe:/a:asciidoctor:asciidoctor"
 }

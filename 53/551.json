@@ -1,8 +1,8 @@
 {
-  "vid": "53",
-  "vname": "Webmin Project",
-  "vcpe": "cpe:/:webmin",
-  "pid": "551",
-  "pname": "Webmin",
-  "pcpe": "cpe:/a:webmin:webmin"
+	"vid": "53",
+	"vname": "Webmin Project",
+	"vcpe": "cpe:/:webmin",
+	"pid": "551",
+	"pname": "Webmin",
+	"pcpe": "cpe:/a:webmin:webmin"
 }

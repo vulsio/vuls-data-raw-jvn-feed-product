@@ -1,8 +1,8 @@
 {
-  "vid": "13166",
-  "vname": "DenyAll",
-  "vcpe": "cpe:/:denyall",
-  "pid": "30715",
-  "pname": "i-Suite",
-  "pcpe": "cpe:/a:denyall:i-suite"
+	"vid": "13166",
+	"vname": "DenyAll",
+	"vcpe": "cpe:/:denyall",
+	"pid": "30715",
+	"pname": "i-Suite",
+	"pcpe": "cpe:/a:denyall:i-suite"
 }

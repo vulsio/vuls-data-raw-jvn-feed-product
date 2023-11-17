@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "42793",
-  "pname": "SINAMICS PERFECT HARMONY GH180 MLFB 6SR325 ファームウェア",
-  "pcpe": "cpe:/o:siemens:sinamics_perfect_harmony_gh180_mlfb_6sr325_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "42793",
+	"pname": "SINAMICS PERFECT HARMONY GH180 MLFB 6SR325 ファームウェア",
+	"pcpe": "cpe:/o:siemens:sinamics_perfect_harmony_gh180_mlfb_6sr325_firmware"
 }

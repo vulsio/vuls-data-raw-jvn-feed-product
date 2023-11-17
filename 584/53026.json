@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "53026",
-  "pname": "APOGEE PXC Modular (P2 Ethernet) ファームウェア",
-  "pcpe": "cpe:/o:siemens:apogee_pxc_modular_%28p2_ethernet%29_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "53026",
+	"pname": "APOGEE PXC Modular (P2 Ethernet) ファームウェア",
+	"pcpe": "cpe:/o:siemens:apogee_pxc_modular_%28p2_ethernet%29_firmware"
 }

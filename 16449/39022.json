@@ -1,8 +1,8 @@
 {
-  "vid": "16449",
-  "vname": "Workday, Inc.",
-  "vcpe": "cpe:/:workday",
-  "pid": "39022",
-  "pname": "Workday",
-  "pcpe": "cpe:/a:workday:workday"
+	"vid": "16449",
+	"vname": "Workday, Inc.",
+	"vcpe": "cpe:/:workday",
+	"pid": "39022",
+	"pname": "Workday",
+	"pcpe": "cpe:/a:workday:workday"
 }

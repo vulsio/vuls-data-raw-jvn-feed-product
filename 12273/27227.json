@@ -1,8 +1,8 @@
 {
-  "vid": "12273",
-  "vname": "日本年金機構",
-  "vcpe": "cpe:/:japan_pension_service",
-  "pid": "27227",
-  "pname": "仕様チェックプログラム(社会保険)",
-  "pcpe": "cpe:/a:japan_pension_service:specification_check_program"
+	"vid": "12273",
+	"vname": "日本年金機構",
+	"vcpe": "cpe:/:japan_pension_service",
+	"pid": "27227",
+	"pname": "仕様チェックプログラム(社会保険)",
+	"pcpe": "cpe:/a:japan_pension_service:specification_check_program"
 }

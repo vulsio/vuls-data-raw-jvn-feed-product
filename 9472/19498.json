@@ -1,8 +1,8 @@
 {
-  "vid": "9472",
-  "vname": "Visibility Software",
-  "vcpe": "cpe:/:visibility_software",
-  "pid": "19498",
-  "pname": "Cyber Recruiter",
-  "pcpe": "cpe:/a:visibility_software:cyber_recruiter"
+	"vid": "9472",
+	"vname": "Visibility Software",
+	"vcpe": "cpe:/:visibility_software",
+	"pid": "19498",
+	"pname": "Cyber Recruiter",
+	"pcpe": "cpe:/a:visibility_software:cyber_recruiter"
 }

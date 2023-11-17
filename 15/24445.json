@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "24445",
-  "pname": "Oracle Berkeley DB",
-  "pcpe": "cpe:/a:oracle:berkeley_db"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "24445",
+	"pname": "Oracle Berkeley DB",
+	"pcpe": "cpe:/a:oracle:berkeley_db"
 }

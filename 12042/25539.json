@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25539",
-  "pname": "JG783A HP FF 12508E DC Switch Chassis",
-  "pcpe": "cpe:/h:hp:jg783a_hp_ff_12508e_dc_switch_chassis"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25539",
+	"pname": "JG783A HP FF 12508E DC Switch Chassis",
+	"pcpe": "cpe:/h:hp:jg783a_hp_ff_12508e_dc_switch_chassis"
 }

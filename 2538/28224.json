@@ -1,8 +1,8 @@
 {
-  "vid": "2538",
-  "vname": "bitlbee",
-  "vcpe": "cpe:/:bitlbee",
-  "pid": "28224",
-  "pname": "bitlbee-libpurple",
-  "pcpe": "cpe:/a:bitlbee:bitlbee-libpurple"
+	"vid": "2538",
+	"vname": "bitlbee",
+	"vcpe": "cpe:/:bitlbee",
+	"pid": "28224",
+	"pname": "bitlbee-libpurple",
+	"pcpe": "cpe:/a:bitlbee:bitlbee-libpurple"
 }

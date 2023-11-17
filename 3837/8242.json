@@ -1,8 +1,8 @@
 {
-  "vid": "3837",
-  "vname": "fsp",
-  "vcpe": "cpe:/:fsp",
-  "pid": "8242",
-  "pname": "c library",
-  "pcpe": "cpe:/a:fsp:c_library"
+	"vid": "3837",
+	"vname": "fsp",
+	"vcpe": "cpe:/:fsp",
+	"pid": "8242",
+	"pname": "c library",
+	"pcpe": "cpe:/a:fsp:c_library"
 }

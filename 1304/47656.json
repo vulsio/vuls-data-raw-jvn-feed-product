@@ -1,8 +1,8 @@
 {
-  "vid": "1304",
-  "vname": "カスペルスキー",
-  "vcpe": "cpe:/:kaspersky",
-  "pid": "47656",
-  "pname": "Kaspersky Rescue Disk",
-  "pcpe": "cpe:/a:kaspersky:rescue_disk"
+	"vid": "1304",
+	"vname": "カスペルスキー",
+	"vcpe": "cpe:/:kaspersky",
+	"pid": "47656",
+	"pname": "Kaspersky Rescue Disk",
+	"pcpe": "cpe:/a:kaspersky:rescue_disk"
 }

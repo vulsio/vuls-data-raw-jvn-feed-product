@@ -1,8 +1,8 @@
 {
-  "vid": "12670",
-  "vname": "RuboCop project",
-  "vcpe": "cpe:/:rubocop_project",
-  "pid": "29001",
-  "pname": "RuboCop",
-  "pcpe": "cpe:/a:rubocop_project:rubocop"
+	"vid": "12670",
+	"vname": "RuboCop project",
+	"vcpe": "cpe:/:rubocop_project",
+	"pid": "29001",
+	"pname": "RuboCop",
+	"pcpe": "cpe:/a:rubocop_project:rubocop"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "25817",
-  "pname": "Cisco DPC3941 Wireless Residential Gateway with Digital Voice ファームウェア",
-  "pcpe": "cpe:/o:cisco:dpc3941_wireless_residential_gateway__with_digital_voice_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "25817",
+	"pname": "Cisco DPC3941 Wireless Residential Gateway with Digital Voice ファームウェア",
+	"pcpe": "cpe:/o:cisco:dpc3941_wireless_residential_gateway__with_digital_voice_firmware"
 }

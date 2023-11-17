@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "30896",
-  "pname": "FusionServer XH628 V3",
-  "pcpe": "cpe:/a:huawei:fusionserver_xh628_v3"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "30896",
+	"pname": "FusionServer XH628 V3",
+	"pcpe": "cpe:/a:huawei:fusionserver_xh628_v3"
 }

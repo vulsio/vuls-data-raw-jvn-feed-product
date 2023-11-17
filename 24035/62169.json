@@ -1,8 +1,8 @@
 {
-  "vid": "24035",
-  "vname": "power-software-download",
-  "vcpe": "cpe:/:power-software-download",
-  "pid": "62169",
-  "pname": "viewpower",
-  "pcpe": "cpe:/a:power-software-download:viewpower"
+	"vid": "24035",
+	"vname": "power-software-download",
+	"vcpe": "cpe:/:power-software-download",
+	"pid": "62169",
+	"pname": "viewpower",
+	"pcpe": "cpe:/a:power-software-download:viewpower"
 }

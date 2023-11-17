@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "2996",
-  "pname": "Microsoft Office Groove Data Bridge Server",
-  "pcpe": "cpe:/a:microsoft:groove_data_bridge_server"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "2996",
+	"pname": "Microsoft Office Groove Data Bridge Server",
+	"pcpe": "cpe:/a:microsoft:groove_data_bridge_server"
 }

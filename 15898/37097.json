@@ -1,8 +1,8 @@
 {
-  "vid": "15898",
-  "vname": "SDL plc",
-  "vcpe": "cpe:/:sdl",
-  "pid": "37097",
-  "pname": "Web Content Manager",
-  "pcpe": "cpe:/a:sdl:web_content_manager"
+	"vid": "15898",
+	"vname": "SDL plc",
+	"vcpe": "cpe:/:sdl",
+	"pid": "37097",
+	"pname": "Web Content Manager",
+	"pcpe": "cpe:/a:sdl:web_content_manager"
 }

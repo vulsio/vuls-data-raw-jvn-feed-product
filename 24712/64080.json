@@ -1,8 +1,8 @@
 {
-  "vid": "24712",
-  "vname": "flatcc project",
-  "vcpe": "cpe:/:flatcc_project",
-  "pid": "64080",
-  "pname": "flatcc",
-  "pcpe": "cpe:/a:flatcc_project:flatcc"
+	"vid": "24712",
+	"vname": "flatcc project",
+	"vcpe": "cpe:/:flatcc_project",
+	"pid": "64080",
+	"pname": "flatcc",
+	"pcpe": "cpe:/a:flatcc_project:flatcc"
 }

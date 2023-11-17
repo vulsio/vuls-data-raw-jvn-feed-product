@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "19944",
-  "pname": "Run Time Governance",
-  "pcpe": "cpe:/a:redhat:jboss_overlord_run_time_governance"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "19944",
+	"pname": "Run Time Governance",
+	"pcpe": "cpe:/a:redhat:jboss_overlord_run_time_governance"
 }

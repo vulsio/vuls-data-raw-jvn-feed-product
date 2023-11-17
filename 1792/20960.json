@@ -1,8 +1,8 @@
 {
-  "vid": "1792",
-  "vname": "Zend Technologies Ltd.",
-  "vcpe": "cpe:/:zend",
-  "pid": "20960",
-  "pname": "ZendOpenId",
-  "pcpe": "cpe:/a:zend:zend_openid"
+	"vid": "1792",
+	"vname": "Zend Technologies Ltd.",
+	"vcpe": "cpe:/:zend",
+	"pid": "20960",
+	"pname": "ZendOpenId",
+	"pcpe": "cpe:/a:zend:zend_openid"
 }

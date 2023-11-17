@@ -1,8 +1,8 @@
 {
-  "vid": "9215",
-  "vname": "Cluster Labs",
-  "vcpe": "cpe:/:clusterlabs",
-  "pid": "53671",
-  "pname": "Cluster Glue",
-  "pcpe": "cpe:/a:clusterlabs:cluster_glue"
+	"vid": "9215",
+	"vname": "Cluster Labs",
+	"vcpe": "cpe:/:clusterlabs",
+	"pid": "53671",
+	"pname": "Cluster Glue",
+	"pcpe": "cpe:/a:clusterlabs:cluster_glue"
 }

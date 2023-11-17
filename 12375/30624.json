@@ -1,8 +1,8 @@
 {
-  "vid": "12375",
-  "vname": "WSO2",
-  "vcpe": "cpe:/:wso2",
-  "pid": "30624",
-  "pname": "WSO2 Message Broker",
-  "pcpe": "cpe:/a:wso2:message_broker"
+	"vid": "12375",
+	"vname": "WSO2",
+	"vcpe": "cpe:/:wso2",
+	"pid": "30624",
+	"pname": "WSO2 Message Broker",
+	"pcpe": "cpe:/a:wso2:message_broker"
 }

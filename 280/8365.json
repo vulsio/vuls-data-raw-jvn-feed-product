@@ -1,8 +1,8 @@
 {
-  "vid": "280",
-  "vname": "Gentoo Linux",
-  "vcpe": "cpe:/:gentoo",
-  "pid": "8365",
-  "pname": "fence",
-  "pcpe": "cpe:/a:gentoo:fence"
+	"vid": "280",
+	"vname": "Gentoo Linux",
+	"vcpe": "cpe:/:gentoo",
+	"pid": "8365",
+	"pname": "fence",
+	"pcpe": "cpe:/a:gentoo:fence"
 }

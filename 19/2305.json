@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2305",
-  "pname": "Cisco PIX 500 Series Security Appliance",
-  "pcpe": "cpe:/h:cisco:pix_500"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2305",
+	"pname": "Cisco PIX 500 Series Security Appliance",
+	"pcpe": "cpe:/h:cisco:pix_500"
 }

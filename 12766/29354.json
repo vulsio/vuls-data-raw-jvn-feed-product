@@ -1,8 +1,8 @@
 {
-  "vid": "12766",
-  "vname": "Aries Networks",
-  "vcpe": "cpe:/:aries_networks",
-  "pid": "29354",
-  "pname": "QWR-1104 Wireless-N Router ファームウェア",
-  "pcpe": "cpe:/o:aries_networks:qwr-1104_wireless-n_router_firmware"
+	"vid": "12766",
+	"vname": "Aries Networks",
+	"vcpe": "cpe:/:aries_networks",
+	"pid": "29354",
+	"pname": "QWR-1104 Wireless-N Router ファームウェア",
+	"pcpe": "cpe:/o:aries_networks:qwr-1104_wireless-n_router_firmware"
 }

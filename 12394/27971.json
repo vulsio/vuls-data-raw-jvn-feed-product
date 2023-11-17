@@ -1,8 +1,8 @@
 {
-  "vid": "12394",
-  "vname": "Lynxspring",
-  "vcpe": "cpe:/:lynxspring",
-  "pid": "27971",
-  "pname": "JENEsys BAS Bridge",
-  "pcpe": "cpe:/a:lynxspring:jenesys_bas_bridge"
+	"vid": "12394",
+	"vname": "Lynxspring",
+	"vcpe": "cpe:/:lynxspring",
+	"pid": "27971",
+	"pname": "JENEsys BAS Bridge",
+	"pcpe": "cpe:/a:lynxspring:jenesys_bas_bridge"
 }

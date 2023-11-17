@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "54135",
-  "pname": "HP Color LaserJet Pro MFP M277 B3Q17A ファームウェア",
-  "pcpe": "cpe:/o:hp:color_laserjet_pro_mfp_m277_b3q17a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "54135",
+	"pname": "HP Color LaserJet Pro MFP M277 B3Q17A ファームウェア",
+	"pcpe": "cpe:/o:hp:color_laserjet_pro_mfp_m277_b3q17a_firmware"
 }

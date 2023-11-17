@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "51888",
-  "pname": "Modicon M580 BMEP581020 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:modicon_m580_bmep581020_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "51888",
+	"pname": "Modicon M580 BMEP581020 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:modicon_m580_bmep581020_firmware"
 }

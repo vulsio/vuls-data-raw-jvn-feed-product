@@ -1,8 +1,8 @@
 {
-  "vid": "4254",
-  "vname": "NiH",
-  "vcpe": "cpe:/:nih",
-  "pid": "9041",
-  "pname": "libzip",
-  "pcpe": "cpe:/a:nih:libzip"
+	"vid": "4254",
+	"vname": "NiH",
+	"vcpe": "cpe:/:nih",
+	"pid": "9041",
+	"pname": "libzip",
+	"pcpe": "cpe:/a:nih:libzip"
 }

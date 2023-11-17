@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "26778",
-  "pname": "VMware Identity Manager",
-  "pcpe": "cpe:/a:vmware:identity_manager"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "26778",
+	"pname": "VMware Identity Manager",
+	"pcpe": "cpe:/a:vmware:identity_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12202",
-  "vname": "株式会社マネーフォワード",
-  "vcpe": "cpe:/:money_forward_inc",
-  "pid": "31154",
-  "pname": "マネーフォワード for 群馬銀行",
-  "pcpe": "cpe:/a:money_forward_inc:money_forward_for_the_gunma_bank"
+	"vid": "12202",
+	"vname": "株式会社マネーフォワード",
+	"vcpe": "cpe:/:money_forward_inc",
+	"pid": "31154",
+	"pname": "マネーフォワード for 群馬銀行",
+	"pcpe": "cpe:/a:money_forward_inc:money_forward_for_the_gunma_bank"
 }

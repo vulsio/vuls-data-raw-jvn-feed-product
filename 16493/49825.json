@@ -1,8 +1,8 @@
 {
-  "vid": "16493",
-  "vname": "Quadbase Systems Inc.",
-  "vcpe": "cpe:/:quadbase",
-  "pid": "49825",
-  "pname": "EspressDashboard",
-  "pcpe": "cpe:/a:quadbase:espressdashboard"
+	"vid": "16493",
+	"vname": "Quadbase Systems Inc.",
+	"vcpe": "cpe:/:quadbase",
+	"pid": "49825",
+	"pname": "EspressDashboard",
+	"pcpe": "cpe:/a:quadbase:espressdashboard"
 }

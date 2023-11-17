@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30242",
-  "pname": "ThinkCentre M4500k ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m4500k_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30242",
+	"pname": "ThinkCentre M4500k ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m4500k_firmware"
 }

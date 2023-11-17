@@ -1,8 +1,8 @@
 {
-  "vid": "9967",
-  "vname": "Shenzhen Tenda Technology Co.,Ltd.",
-  "vcpe": "cpe:/:tenda",
-  "pid": "64421",
-  "pname": "cp7 ファームウェア",
-  "pcpe": "cpe:/o:tenda:cp7_firmware"
+	"vid": "9967",
+	"vname": "Shenzhen Tenda Technology Co.,Ltd.",
+	"vcpe": "cpe:/:tenda",
+	"pid": "64421",
+	"pname": "cp7 ファームウェア",
+	"pcpe": "cpe:/o:tenda:cp7_firmware"
 }

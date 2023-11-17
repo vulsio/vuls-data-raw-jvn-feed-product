@@ -1,8 +1,8 @@
 {
-  "vid": "18647",
-  "vname": "DB SOFT",
-  "vcpe": "cpe:/:dbsoft",
-  "pid": "46132",
-  "pname": "SGLAC",
-  "pcpe": "cpe:/a:dbsoft:sglac"
+	"vid": "18647",
+	"vname": "DB SOFT",
+	"vcpe": "cpe:/:dbsoft",
+	"pid": "46132",
+	"pname": "SGLAC",
+	"pcpe": "cpe:/a:dbsoft:sglac"
 }

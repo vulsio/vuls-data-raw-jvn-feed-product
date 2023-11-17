@@ -1,8 +1,8 @@
 {
-  "vid": "16117",
-  "vname": "Microvirt",
-  "vcpe": "cpe:/:microvirt",
-  "pid": "37775",
-  "pname": "Memu",
-  "pcpe": "cpe:/a:microvirt:memu"
+	"vid": "16117",
+	"vname": "Microvirt",
+	"vcpe": "cpe:/:microvirt",
+	"pid": "37775",
+	"pname": "Memu",
+	"pcpe": "cpe:/a:microvirt:memu"
 }

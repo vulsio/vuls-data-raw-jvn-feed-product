@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "45696",
-  "pname": "Cisco HyperFlex HX-Series ソフトウェア",
-  "pcpe": "cpe:/a:cisco:hyperflex_hx-series_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "45696",
+	"pname": "Cisco HyperFlex HX-Series ソフトウェア",
+	"pcpe": "cpe:/a:cisco:hyperflex_hx-series_software"
 }

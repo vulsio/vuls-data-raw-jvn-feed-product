@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23864",
-  "pname": "Cisco ASA with FirePOWER Services",
-  "pcpe": "cpe:/a:cisco:asa_with_firepower_services"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23864",
+	"pname": "Cisco ASA with FirePOWER Services",
+	"pcpe": "cpe:/a:cisco:asa_with_firepower_services"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1450",
-  "vname": "EGroupware",
-  "vcpe": "cpe:/:egroupware",
-  "pid": "4321",
-  "pname": "EGroupware",
-  "pcpe": "cpe:/a:egroupware:egroupware"
+	"vid": "1450",
+	"vname": "EGroupware",
+	"vcpe": "cpe:/:egroupware",
+	"pid": "4321",
+	"pname": "EGroupware",
+	"pcpe": "cpe:/a:egroupware:egroupware"
 }

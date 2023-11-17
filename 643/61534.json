@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "61534",
-  "pname": "Dell Command | Intel vPro Out of Band",
-  "pcpe": "cpe:/a:dell:command_%7c_intel_vpro_out_of_band"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "61534",
+	"pname": "Dell Command | Intel vPro Out of Band",
+	"pcpe": "cpe:/a:dell:command_%7c_intel_vpro_out_of_band"
 }

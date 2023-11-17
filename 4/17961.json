@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17961",
-  "pname": "HP LaserJet Pro P1102w Printer ファームウェア",
-  "pcpe": "cpe:/h:hp:laserjet_pro_p1102w_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17961",
+	"pname": "HP LaserJet Pro P1102w Printer ファームウェア",
+	"pcpe": "cpe:/h:hp:laserjet_pro_p1102w_firmware"
 }

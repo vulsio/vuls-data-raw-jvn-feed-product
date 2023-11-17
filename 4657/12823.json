@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "12823",
-  "pname": "d100 router",
-  "pcpe": "cpe:/h:huawei:d100_router"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "12823",
+	"pname": "d100 router",
+	"pcpe": "cpe:/h:huawei:d100_router"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14709",
-  "vname": "static-eval project",
-  "vcpe": "cpe:/:static-eval_project",
-  "pid": "34451",
-  "pname": "static-eval",
-  "pcpe": "cpe:/a:static-eval_project:static-eval"
+	"vid": "14709",
+	"vname": "static-eval project",
+	"vcpe": "cpe:/:static-eval_project",
+	"pid": "34451",
+	"pname": "static-eval",
+	"pcpe": "cpe:/a:static-eval_project:static-eval"
 }

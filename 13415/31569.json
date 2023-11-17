@@ -1,8 +1,8 @@
 {
-  "vid": "13415",
-  "vname": "Haystack Software LLC",
-  "vcpe": "cpe:/:haystacksoftware",
-  "pid": "31569",
-  "pname": "Arq",
-  "pcpe": "cpe:/a:haystacksoftware:arq"
+	"vid": "13415",
+	"vname": "Haystack Software LLC",
+	"vcpe": "cpe:/:haystacksoftware",
+	"pid": "31569",
+	"pname": "Arq",
+	"pcpe": "cpe:/a:haystacksoftware:arq"
 }

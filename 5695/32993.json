@@ -1,8 +1,8 @@
 {
-  "vid": "5695",
-  "vname": "Mitel Networks Corporation",
-  "vcpe": "cpe:/:mitel",
-  "pid": "32993",
-  "pname": "Connect ONSITE",
-  "pcpe": "cpe:/a:mitel:connect_onsite"
+	"vid": "5695",
+	"vname": "Mitel Networks Corporation",
+	"vcpe": "cpe:/:mitel",
+	"pid": "32993",
+	"pname": "Connect ONSITE",
+	"pcpe": "cpe:/a:mitel:connect_onsite"
 }

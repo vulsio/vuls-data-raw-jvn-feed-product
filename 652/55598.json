@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "55598",
-  "pname": "T-KSU2EAKUC ファームウェア",
-  "pcpe": "cpe:/o:samsung:t-ksu2eakuc_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "55598",
+	"pname": "T-KSU2EAKUC ファームウェア",
+	"pcpe": "cpe:/o:samsung:t-ksu2eakuc_firmware"
 }

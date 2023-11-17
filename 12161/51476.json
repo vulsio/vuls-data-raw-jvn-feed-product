@@ -1,8 +1,8 @@
 {
-  "vid": "12161",
-  "vname": "西日本電信電話株式会社",
-  "vcpe": "cpe:/:ntt_west",
-  "pid": "51476",
-  "pname": "事業所向けひかり電話対応アダプター Netcommunity OG810Xi ファームウェア",
-  "pcpe": "cpe:/o:ntt_west:netcommunity_0g810xi_firmware"
+	"vid": "12161",
+	"vname": "西日本電信電話株式会社",
+	"vcpe": "cpe:/:ntt_west",
+	"pid": "51476",
+	"pname": "事業所向けひかり電話対応アダプター Netcommunity OG810Xi ファームウェア",
+	"pcpe": "cpe:/o:ntt_west:netcommunity_0g810xi_firmware"
 }

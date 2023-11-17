@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "49640",
-  "pname": "PowerShell",
-  "pcpe": "cpe:/a:microsoft:powershell"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "49640",
+	"pname": "PowerShell",
+	"pcpe": "cpe:/a:microsoft:powershell"
 }

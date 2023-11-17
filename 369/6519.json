@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "6519",
-  "pname": "desktop and server management",
-  "pcpe": "cpe:/a:ca:desktop_and_server_management"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "6519",
+	"pname": "desktop and server management",
+	"pcpe": "cpe:/a:ca:desktop_and_server_management"
 }

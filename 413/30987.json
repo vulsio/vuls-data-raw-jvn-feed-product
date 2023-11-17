@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "30987",
-  "pname": "Appliance-X",
-  "pcpe": "cpe:/a:blackberry:workspaces_appliance-x"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "30987",
+	"pname": "Appliance-X",
+	"pcpe": "cpe:/a:blackberry:workspaces_appliance-x"
 }

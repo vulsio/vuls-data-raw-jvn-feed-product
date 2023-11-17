@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "49774",
-  "pname": "LTE4506-M606 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:lte4506-m606_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "49774",
+	"pname": "LTE4506-M606 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:lte4506-m606_firmware"
 }

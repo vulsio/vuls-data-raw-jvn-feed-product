@@ -1,8 +1,8 @@
 {
-  "vid": "10428",
-  "vname": "verkehrsmuseum-dresden",
-  "vcpe": "cpe:/:verkehrsmuseum-dresden",
-  "pid": "21905",
-  "pname": "dresden transport museum",
-  "pcpe": "cpe:/a:verkehrsmuseum-dresden:dresden_transport_museum"
+	"vid": "10428",
+	"vname": "verkehrsmuseum-dresden",
+	"vcpe": "cpe:/:verkehrsmuseum-dresden",
+	"pid": "21905",
+	"pname": "dresden transport museum",
+	"pcpe": "cpe:/a:verkehrsmuseum-dresden:dresden_transport_museum"
 }

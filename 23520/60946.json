@@ -1,8 +1,8 @@
 {
-  "vid": "23520",
-  "vname": "myadmin project",
-  "vcpe": "cpe:/:myadmin_project",
-  "pid": "60946",
-  "pname": "myadmin",
-  "pcpe": "cpe:/a:myadmin_project:myadmin"
+	"vid": "23520",
+	"vname": "myadmin project",
+	"vcpe": "cpe:/:myadmin_project",
+	"pid": "60946",
+	"pname": "myadmin",
+	"pcpe": "cpe:/a:myadmin_project:myadmin"
 }

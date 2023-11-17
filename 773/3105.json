@@ -1,8 +1,8 @@
 {
-  "vid": "773",
-  "vname": "Montala Limited",
-  "vcpe": "cpe:/:montala",
-  "pid": "3105",
-  "pname": "ResourceSpace",
-  "pcpe": "cpe:/a:montala:resourcespace"
+	"vid": "773",
+	"vname": "Montala Limited",
+	"vcpe": "cpe:/:montala",
+	"pid": "3105",
+	"pname": "ResourceSpace",
+	"pcpe": "cpe:/a:montala:resourcespace"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "45403",
-  "pname": "Jira Software Data Center",
-  "pcpe": "cpe:/a:atlassian:jira_software_data_center"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "45403",
+	"pname": "Jira Software Data Center",
+	"pcpe": "cpe:/a:atlassian:jira_software_data_center"
 }

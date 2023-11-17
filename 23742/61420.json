@@ -1,8 +1,8 @@
 {
-  "vid": "23742",
-  "vname": "yaffshiv project",
-  "vcpe": "cpe:/:yaffshiv_project",
-  "pid": "61420",
-  "pname": "yaffshiv YAFFS",
-  "pcpe": "cpe:/a:yaffshiv_project:yaffshiv"
+	"vid": "23742",
+	"vname": "yaffshiv project",
+	"vcpe": "cpe:/:yaffshiv_project",
+	"pid": "61420",
+	"pname": "yaffshiv YAFFS",
+	"pcpe": "cpe:/a:yaffshiv_project:yaffshiv"
 }

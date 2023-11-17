@@ -1,8 +1,8 @@
 {
-  "vid": "3062",
-  "vname": "dameng",
-  "vcpe": "cpe:/:dameng",
-  "pid": "7117",
-  "pname": "dm database server",
-  "pcpe": "cpe:/a:dameng:dm_database_server"
+	"vid": "3062",
+	"vname": "dameng",
+	"vcpe": "cpe:/:dameng",
+	"pid": "7117",
+	"pname": "dm database server",
+	"pcpe": "cpe:/a:dameng:dm_database_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "50984",
-  "pname": "Intel JHL8010R USB Retimer ファームウェア",
-  "pcpe": "cpe:/o:intel:jhl8010r_usb_retimer_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "50984",
+	"pname": "Intel JHL8010R USB Retimer ファームウェア",
+	"pcpe": "cpe:/o:intel:jhl8010r_usb_retimer_firmware"
 }

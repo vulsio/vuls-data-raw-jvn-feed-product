@@ -1,8 +1,8 @@
 {
-  "vid": "23642",
-  "vname": "chainer",
-  "vcpe": "cpe:/:chainer",
-  "pid": "61255",
-  "pname": "chainerrl-visualizer",
-  "pcpe": "cpe:/a:chainer:chainerrl-visualizer"
+	"vid": "23642",
+	"vname": "chainer",
+	"vcpe": "cpe:/:chainer",
+	"pid": "61255",
+	"pname": "chainerrl-visualizer",
+	"pcpe": "cpe:/a:chainer:chainerrl-visualizer"
 }

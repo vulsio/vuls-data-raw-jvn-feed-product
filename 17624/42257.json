@@ -1,8 +1,8 @@
 {
-  "vid": "17624",
-  "vname": "fontforge",
-  "vcpe": "cpe:/:libspiro_project",
-  "pid": "42257",
-  "pname": "libspiro",
-  "pcpe": "cpe:/a:libspiro_project:libspiro"
+	"vid": "17624",
+	"vname": "fontforge",
+	"vcpe": "cpe:/:libspiro_project",
+	"pid": "42257",
+	"pname": "libspiro",
+	"pcpe": "cpe:/a:libspiro_project:libspiro"
 }

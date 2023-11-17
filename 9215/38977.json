@@ -1,8 +1,8 @@
 {
-  "vid": "9215",
-  "vname": "Cluster Labs",
-  "vcpe": "cpe:/:clusterlabs",
-  "pid": "38977",
-  "pname": "libqb",
-  "pcpe": "cpe:/a:clusterlabs:libqb"
+	"vid": "9215",
+	"vname": "Cluster Labs",
+	"vcpe": "cpe:/:clusterlabs",
+	"pid": "38977",
+	"pname": "libqb",
+	"pcpe": "cpe:/a:clusterlabs:libqb"
 }

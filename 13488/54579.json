@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "54579",
-  "pname": "Zoom Meetings for BlackBerry",
-  "pcpe": "cpe:/a:zoom:meetings_for_blackberry"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "54579",
+	"pname": "Zoom Meetings for BlackBerry",
+	"pcpe": "cpe:/a:zoom:meetings_for_blackberry"
 }

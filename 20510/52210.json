@@ -1,8 +1,8 @@
 {
-  "vid": "20510",
-  "vname": "AceIDE project",
-  "vcpe": "cpe:/:aceide_project",
-  "pid": "52210",
-  "pname": "AceIDE",
-  "pcpe": "cpe:/a:aceide_project:aceide"
+	"vid": "20510",
+	"vname": "AceIDE project",
+	"vcpe": "cpe:/:aceide_project",
+	"pid": "52210",
+	"pname": "AceIDE",
+	"pcpe": "cpe:/a:aceide_project:aceide"
 }

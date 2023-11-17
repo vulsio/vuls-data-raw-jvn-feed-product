@@ -1,8 +1,8 @@
 {
-  "vid": "437",
-  "vname": "ベリタス",
-  "vcpe": "cpe:/:veritas",
-  "pid": "49095",
-  "pname": "Enterprise Vault",
-  "pcpe": "cpe:/a:veritas:enterprise_vault"
+	"vid": "437",
+	"vname": "ベリタス",
+	"vcpe": "cpe:/:veritas",
+	"pid": "49095",
+	"pname": "Enterprise Vault",
+	"pcpe": "cpe:/a:veritas:enterprise_vault"
 }

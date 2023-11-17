@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "2503",
-  "pname": "Google Chrome",
-  "pcpe": "cpe:/a:google:chrome"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "2503",
+	"pname": "Google Chrome",
+	"pcpe": "cpe:/a:google:chrome"
 }

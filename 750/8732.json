@@ -1,8 +1,8 @@
 {
-  "vid": "750",
-  "vname": "日本アルカテル・ルーセント",
-  "vcpe": "cpe:/:alcatel",
-  "pid": "8732",
-  "pname": "speedtouch 7g router",
-  "pcpe": "cpe:/h:alcatel:speedtouch_7g_router"
+	"vid": "750",
+	"vname": "日本アルカテル・ルーセント",
+	"vcpe": "cpe:/:alcatel",
+	"pid": "8732",
+	"pname": "speedtouch 7g router",
+	"pcpe": "cpe:/h:alcatel:speedtouch_7g_router"
 }

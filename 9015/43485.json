@@ -1,8 +1,8 @@
 {
-  "vid": "9015",
-  "vname": "MongoDB Inc.",
-  "vcpe": "cpe:/:mongodb",
-  "pid": "43485",
-  "pname": "BSON",
-  "pcpe": "cpe:/a:mongodb:bson"
+	"vid": "9015",
+	"vname": "MongoDB Inc.",
+	"vcpe": "cpe:/:mongodb",
+	"pid": "43485",
+	"pname": "BSON",
+	"pcpe": "cpe:/a:mongodb:bson"
 }

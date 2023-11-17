@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "1160",
-  "pname": "ポケットビットシリーズ",
-  "pcpe": "cpe:/h:sony:pocketbit_series"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "1160",
+	"pname": "ポケットビットシリーズ",
+	"pcpe": "cpe:/h:sony:pocketbit_series"
 }

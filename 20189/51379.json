@@ -1,8 +1,8 @@
 {
-  "vid": "20189",
-  "vname": "Akkadian Labs, LLC",
-  "vcpe": "cpe:/:akkadianlabs",
-  "pid": "51379",
-  "pname": "Akkadian Provisioning Manager",
-  "pcpe": "cpe:/a:akkadianlabs:akkadian_provisioning_manager"
+	"vid": "20189",
+	"vname": "Akkadian Labs, LLC",
+	"vcpe": "cpe:/:akkadianlabs",
+	"pid": "51379",
+	"pname": "Akkadian Provisioning Manager",
+	"pcpe": "cpe:/a:akkadianlabs:akkadian_provisioning_manager"
 }

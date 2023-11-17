@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "9161",
-  "pname": "Cisco Aironet 3600 シリーズ",
-  "pcpe": "cpe:/h:cisco:aironet_3600"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "9161",
+	"pname": "Cisco Aironet 3600 シリーズ",
+	"pcpe": "cpe:/h:cisco:aironet_3600"
 }

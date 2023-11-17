@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "55407",
-  "pname": "tsClinical Metadata Desktop Tools",
-  "pcpe": "cpe:/a:fujitsu:tsclinical_metadata_desktop_tools"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "55407",
+	"pname": "tsClinical Metadata Desktop Tools",
+	"pcpe": "cpe:/a:fujitsu:tsclinical_metadata_desktop_tools"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "18796",
-  "pname": "mod_dontdothat",
-  "pcpe": "cpe:/a:apache:mod_dontdothat"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "18796",
+	"pname": "mod_dontdothat",
+	"pcpe": "cpe:/a:apache:mod_dontdothat"
 }

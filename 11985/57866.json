@@ -1,8 +1,8 @@
 {
-  "vid": "11985",
-  "vname": "ARM Ltd.",
-  "vcpe": "cpe:/:arm",
-  "pid": "57866",
-  "pname": "cortex-r7 ファームウェア",
-  "pcpe": "cpe:/o:arm:cortex-r7_firmware"
+	"vid": "11985",
+	"vname": "ARM Ltd.",
+	"vcpe": "cpe:/:arm",
+	"pid": "57866",
+	"pname": "cortex-r7 ファームウェア",
+	"pcpe": "cpe:/o:arm:cortex-r7_firmware"
 }

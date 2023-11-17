@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "46217",
-  "pname": "GOT SIMPLE シリーズ GS21 モデル",
-  "pcpe": "cpe:/o:mitsubishielectric:got_simple_series_gs21_model"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "46217",
+	"pname": "GOT SIMPLE シリーズ GS21 モデル",
+	"pcpe": "cpe:/o:mitsubishielectric:got_simple_series_gs21_model"
 }

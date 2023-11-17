@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "9779",
-  "pname": "Cosminexus Dabroker",
-  "pcpe": "cpe:/a:hitachi:cosminexus_dabroker"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "9779",
+	"pname": "Cosminexus Dabroker",
+	"pcpe": "cpe:/a:hitachi:cosminexus_dabroker"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "53851",
-  "pname": "iLO Amplifier Pack",
-  "pcpe": "cpe:/a:hp:ilo_amplifier_pack"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "53851",
+	"pname": "iLO Amplifier Pack",
+	"pcpe": "cpe:/a:hp:ilo_amplifier_pack"
 }

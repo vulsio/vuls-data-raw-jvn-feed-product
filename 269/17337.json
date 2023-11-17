@@ -1,8 +1,8 @@
 {
-  "vid": "269",
-  "vname": "RSAセキュリティ",
-  "vcpe": "cpe:/:rsa",
-  "pid": "17337",
-  "pname": "RSA PAM Agent",
-  "pcpe": "cpe:/a:rsa:pluggable_authentication_module_agent"
+	"vid": "269",
+	"vname": "RSAセキュリティ",
+	"vcpe": "cpe:/:rsa",
+	"pid": "17337",
+	"pname": "RSA PAM Agent",
+	"pcpe": "cpe:/a:rsa:pluggable_authentication_module_agent"
 }

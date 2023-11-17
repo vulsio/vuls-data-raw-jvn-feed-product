@@ -1,8 +1,8 @@
 {
-  "vid": "12746",
-  "vname": "Secure Bytes Inc.",
-  "vcpe": "cpe:/:secure_bytes",
-  "pid": "29304",
-  "pname": "Secure Cisco Auditor",
-  "pcpe": "cpe:/a:secure_bytes:secure_cisco_auditor"
+	"vid": "12746",
+	"vname": "Secure Bytes Inc.",
+	"vcpe": "cpe:/:secure_bytes",
+	"pid": "29304",
+	"pname": "Secure Cisco Auditor",
+	"pcpe": "cpe:/a:secure_bytes:secure_cisco_auditor"
 }

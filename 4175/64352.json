@@ -1,8 +1,8 @@
 {
-  "vid": "4175",
-  "vname": "Aztech Group Ltd",
-  "vcpe": "cpe:/:aztech",
-  "pid": "64352",
-  "pname": "wmb250ac ファームウェア",
-  "pcpe": "cpe:/o:aztech:wmb250ac_firmware"
+	"vid": "4175",
+	"vname": "Aztech Group Ltd",
+	"vcpe": "cpe:/:aztech",
+	"pid": "64352",
+	"pname": "wmb250ac ファームウェア",
+	"pcpe": "cpe:/o:aztech:wmb250ac_firmware"
 }

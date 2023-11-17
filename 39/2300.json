@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "2300",
-  "pname": "Adobe BlazeDS",
-  "pcpe": "cpe:/a:adobe:blazeds"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "2300",
+	"pname": "Adobe BlazeDS",
+	"pcpe": "cpe:/a:adobe:blazeds"
 }

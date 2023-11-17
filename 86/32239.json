@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "32239",
-  "pname": "WXR-1900DHP2",
-  "pcpe": "cpe:/h:buffalo_inc:wxr-1900dhp2"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "32239",
+	"pname": "WXR-1900DHP2",
+	"pcpe": "cpe:/h:buffalo_inc:wxr-1900dhp2"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "61221",
-  "pname": "scalance xf204 ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_xf204_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "61221",
+	"pname": "scalance xf204 ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_xf204_firmware"
 }

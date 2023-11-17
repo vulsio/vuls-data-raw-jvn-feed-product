@@ -1,8 +1,8 @@
 {
-  "vid": "18535",
-  "vname": "gammautils project",
-  "vcpe": "cpe:/:gammautils_project",
-  "pid": "55658",
-  "pname": "gammautils",
-  "pcpe": "cpe:/a:gammautils_project:gammautils"
+	"vid": "18535",
+	"vname": "gammautils project",
+	"vcpe": "cpe:/:gammautils_project",
+	"pid": "55658",
+	"pname": "gammautils",
+	"pcpe": "cpe:/a:gammautils_project:gammautils"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4442",
-  "vname": "EC Software",
-  "vcpe": "cpe:/:helpandmanual",
-  "pid": "9477",
-  "pname": "Help & Manual",
-  "pcpe": "cpe:/a:helpandmanual:help_%26_manual"
+	"vid": "4442",
+	"vname": "EC Software",
+	"vcpe": "cpe:/:helpandmanual",
+	"pid": "9477",
+	"pname": "Help & Manual",
+	"pcpe": "cpe:/a:helpandmanual:help_%26_manual"
 }

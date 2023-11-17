@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "62479",
-  "pname": "m1242 ファームウェア",
-  "pcpe": "cpe:/o:lexmark:m1242_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "62479",
+	"pname": "m1242 ファームウェア",
+	"pcpe": "cpe:/o:lexmark:m1242_firmware"
 }

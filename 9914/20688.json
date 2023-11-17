@@ -1,8 +1,8 @@
 {
-  "vid": "9914",
-  "vname": "H3C",
-  "vcpe": "cpe:/:h3c",
-  "pid": "20688",
-  "pname": "SECBLADEFW",
-  "pcpe": "cpe:/a:h3c:secbladefw"
+	"vid": "9914",
+	"vname": "H3C",
+	"vcpe": "cpe:/:h3c",
+	"pid": "20688",
+	"pname": "SECBLADEFW",
+	"pcpe": "cpe:/a:h3c:secbladefw"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "9896",
-  "pname": "openview reporter",
-  "pcpe": "cpe:/a:hp:openview_reporter"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "9896",
+	"pname": "openview reporter",
+	"pcpe": "cpe:/a:hp:openview_reporter"
 }

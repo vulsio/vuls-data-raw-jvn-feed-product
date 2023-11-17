@@ -1,8 +1,8 @@
 {
-  "vid": "12455",
-  "vname": "The qBittorrent project",
-  "vcpe": "cpe:/:qbittorrent",
-  "pid": "28163",
-  "pname": "qBittorrent",
-  "pcpe": "cpe:/a:qbittorrent:qbittorrent"
+	"vid": "12455",
+	"vname": "The qBittorrent project",
+	"vcpe": "cpe:/:qbittorrent",
+	"pid": "28163",
+	"pname": "qBittorrent",
+	"pcpe": "cpe:/a:qbittorrent:qbittorrent"
 }

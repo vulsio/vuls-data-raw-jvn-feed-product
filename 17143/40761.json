@@ -1,8 +1,8 @@
 {
-  "vid": "17143",
-  "vname": "Plugin Planet",
-  "vcpe": "cpe:/:plugin-planet",
-  "pid": "40761",
-  "pname": "User Submitted Posts",
-  "pcpe": "cpe:/a:plugin-planet:user_submitted_posts"
+	"vid": "17143",
+	"vname": "Plugin Planet",
+	"vcpe": "cpe:/:plugin-planet",
+	"pid": "40761",
+	"pname": "User Submitted Posts",
+	"pcpe": "cpe:/a:plugin-planet:user_submitted_posts"
 }

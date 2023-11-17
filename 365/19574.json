@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "19574",
-  "pname": "ShareFile Mobile",
-  "pcpe": "cpe:/a:citrix:sharefile_mobile"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "19574",
+	"pname": "ShareFile Mobile",
+	"pcpe": "cpe:/a:citrix:sharefile_mobile"
 }

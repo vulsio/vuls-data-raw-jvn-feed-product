@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "51559",
-  "pname": "Multilin B30 ファームウェア",
-  "pcpe": "cpe:/o:ge:multilin_b30_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "51559",
+	"pname": "Multilin B30 ファームウェア",
+	"pcpe": "cpe:/o:ge:multilin_b30_firmware"
 }

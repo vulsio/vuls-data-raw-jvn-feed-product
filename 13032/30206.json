@@ -1,8 +1,8 @@
 {
-  "vid": "13032",
-  "vname": "Qihu 360 Software Co. Limited",
-  "vcpe": "cpe:/:360totalsecurity",
-  "pid": "30206",
-  "pname": "360 Total Security",
-  "pcpe": "cpe:/a:360totalsecurity:360_total_security"
+	"vid": "13032",
+	"vname": "Qihu 360 Software Co. Limited",
+	"vcpe": "cpe:/:360totalsecurity",
+	"pid": "30206",
+	"pname": "360 Total Security",
+	"pcpe": "cpe:/a:360totalsecurity:360_total_security"
 }

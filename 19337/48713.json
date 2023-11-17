@@ -1,8 +1,8 @@
 {
-  "vid": "19337",
-  "vname": "eslint-fixer project",
-  "vcpe": "cpe:/:eslint-fixer_project",
-  "pid": "48713",
-  "pname": "eslint-fixer",
-  "pcpe": "cpe:/a:eslint-fixer_project:eslint-fixer"
+	"vid": "19337",
+	"vname": "eslint-fixer project",
+	"vcpe": "cpe:/:eslint-fixer_project",
+	"pid": "48713",
+	"pname": "eslint-fixer",
+	"pcpe": "cpe:/a:eslint-fixer_project:eslint-fixer"
 }

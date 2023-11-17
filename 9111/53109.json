@@ -1,8 +1,8 @@
 {
-  "vid": "9111",
-  "vname": "Dahua Technology Co., Ltd",
-  "vcpe": "cpe:/:dahuasecurity",
-  "pid": "53109",
-  "pname": "NVR-2XXX ファームウェア",
-  "pcpe": "cpe:/o:dahuasecurity:nvr-2xxx_firmware"
+	"vid": "9111",
+	"vname": "Dahua Technology Co., Ltd",
+	"vcpe": "cpe:/:dahuasecurity",
+	"pid": "53109",
+	"pname": "NVR-2XXX ファームウェア",
+	"pcpe": "cpe:/o:dahuasecurity:nvr-2xxx_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11985",
-  "vname": "ARM Ltd.",
-  "vcpe": "cpe:/:arm",
-  "pid": "51068",
-  "pname": "Valhall GPU Kernel Driver",
-  "pcpe": "cpe:/a:arm:valhall_gpu_kernel_driver"
+	"vid": "11985",
+	"vname": "ARM Ltd.",
+	"vcpe": "cpe:/:arm",
+	"pid": "51068",
+	"pname": "Valhall GPU Kernel Driver",
+	"pcpe": "cpe:/a:arm:valhall_gpu_kernel_driver"
 }

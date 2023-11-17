@@ -1,8 +1,8 @@
 {
-  "vid": "21620",
-  "vname": "mysiteforme project",
-  "vcpe": "cpe:/:mysiteforme_project",
-  "pid": "55549",
-  "pname": "mysiteforme",
-  "pcpe": "cpe:/a:mysiteforme_project:mysiteforme"
+	"vid": "21620",
+	"vname": "mysiteforme project",
+	"vcpe": "cpe:/:mysiteforme_project",
+	"pid": "55549",
+	"pname": "mysiteforme",
+	"pcpe": "cpe:/a:mysiteforme_project:mysiteforme"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "980",
-  "vname": "Parallels",
-  "vcpe": "cpe:/:parallels",
-  "pid": "3512",
-  "pname": "Parallels Plesk Small Business Panel",
-  "pcpe": "cpe:/a:parallels:parallels_plesk_small_business_panel"
+	"vid": "980",
+	"vname": "Parallels",
+	"vcpe": "cpe:/:parallels",
+	"pid": "3512",
+	"pname": "Parallels Plesk Small Business Panel",
+	"pcpe": "cpe:/a:parallels:parallels_plesk_small_business_panel"
 }

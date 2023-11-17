@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33213",
-  "pname": "QCA6584AU ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qca6584au_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33213",
+	"pname": "QCA6584AU ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qca6584au_firmware"
 }

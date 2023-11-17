@@ -1,8 +1,8 @@
 {
-  "vid": "6462",
-  "vname": "nas adapter",
-  "vcpe": "cpe:/:nas_adapter",
-  "pid": "12970",
-  "pname": "nasu2fw41",
-  "pcpe": "cpe:/h:nas_adapter:nasu2fw41"
+	"vid": "6462",
+	"vname": "nas adapter",
+	"vcpe": "cpe:/:nas_adapter",
+	"pid": "12970",
+	"pname": "nasu2fw41",
+	"pcpe": "cpe:/h:nas_adapter:nasu2fw41"
 }

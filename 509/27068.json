@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "27068",
-  "pname": "SAP SLD Registration",
-  "pcpe": "cpe:/a:sap:sld_registration"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "27068",
+	"pname": "SAP SLD Registration",
+	"pcpe": "cpe:/a:sap:sld_registration"
 }

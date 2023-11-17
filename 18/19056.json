@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19056",
-  "pname": "IBM Content Template Catalog",
-  "pcpe": "cpe:/a:ibm:content_template_catalog"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19056",
+	"pname": "IBM Content Template Catalog",
+	"pcpe": "cpe:/a:ibm:content_template_catalog"
 }

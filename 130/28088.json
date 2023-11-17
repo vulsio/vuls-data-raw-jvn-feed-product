@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "28088",
-  "pname": "Intel Core i7-4500U",
-  "pcpe": "cpe:/h:intel:core_i7-4500u"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "28088",
+	"pname": "Intel Core i7-4500U",
+	"pcpe": "cpe:/h:intel:core_i7-4500u"
 }

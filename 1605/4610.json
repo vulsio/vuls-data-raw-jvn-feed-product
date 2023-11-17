@@ -1,8 +1,8 @@
 {
-  "vid": "1605",
-  "vname": "mplayerhq",
-  "vcpe": "cpe:/:mplayerhq",
-  "pid": "4610",
-  "pname": "mplayer",
-  "pcpe": "cpe:/a:mplayerhq:mplayer"
+	"vid": "1605",
+	"vname": "mplayerhq",
+	"vcpe": "cpe:/:mplayerhq",
+	"pid": "4610",
+	"pname": "mplayer",
+	"pcpe": "cpe:/a:mplayerhq:mplayer"
 }

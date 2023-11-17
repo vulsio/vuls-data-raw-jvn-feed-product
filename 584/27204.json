@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "27204",
-  "pname": "CCMD3025-DN18 ファームウェア",
-  "pcpe": "cpe:/o:siemens:ccmd3025-dn18_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "27204",
+	"pname": "CCMD3025-DN18 ファームウェア",
+	"pcpe": "cpe:/o:siemens:ccmd3025-dn18_firmware"
 }

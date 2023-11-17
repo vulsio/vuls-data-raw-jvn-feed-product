@@ -1,8 +1,8 @@
 {
-  "vid": "16382",
-  "vname": "matomo",
-  "vcpe": "cpe:/:matomo",
-  "pid": "38708",
-  "pname": "Matomo",
-  "pcpe": "cpe:/a:matomo:matomo"
+	"vid": "16382",
+	"vname": "matomo",
+	"vcpe": "cpe:/:matomo",
+	"pid": "38708",
+	"pname": "Matomo",
+	"pcpe": "cpe:/a:matomo:matomo"
 }

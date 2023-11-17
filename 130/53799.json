@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "53799",
-  "pname": "Celeron J3455E ファームウェア",
-  "pcpe": "cpe:/o:intel:celeron_j3455e_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "53799",
+	"pname": "Celeron J3455E ファームウェア",
+	"pcpe": "cpe:/o:intel:celeron_j3455e_firmware"
 }

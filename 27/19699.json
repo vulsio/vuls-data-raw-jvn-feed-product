@@ -1,8 +1,8 @@
 {
-  "vid": "27",
-  "vname": "Mozilla Foundation",
-  "vcpe": "cpe:/:mozilla",
-  "pid": "19699",
-  "pname": "Mozilla Firefox OS",
-  "pcpe": "cpe:/o:mozilla:firefox_os"
+	"vid": "27",
+	"vname": "Mozilla Foundation",
+	"vcpe": "cpe:/:mozilla",
+	"pid": "19699",
+	"pname": "Mozilla Firefox OS",
+	"pcpe": "cpe:/o:mozilla:firefox_os"
 }

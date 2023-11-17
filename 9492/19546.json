@@ -1,8 +1,8 @@
 {
-  "vid": "9492",
-  "vname": "doorGets",
-  "vcpe": "cpe:/:doorgets",
-  "pid": "19546",
-  "pname": "doorGets CMS",
-  "pcpe": "cpe:/a:doorgets:doorgets_cms"
+	"vid": "9492",
+	"vname": "doorGets",
+	"vcpe": "cpe:/:doorgets",
+	"pid": "19546",
+	"pname": "doorGets CMS",
+	"pcpe": "cpe:/a:doorgets:doorgets_cms"
 }

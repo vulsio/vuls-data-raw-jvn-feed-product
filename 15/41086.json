@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "41086",
-  "pname": "Oracle Workflow",
-  "pcpe": "cpe:/a:oracle:workflow"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "41086",
+	"pname": "Oracle Workflow",
+	"pcpe": "cpe:/a:oracle:workflow"
 }

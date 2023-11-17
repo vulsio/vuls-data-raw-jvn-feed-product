@@ -1,8 +1,8 @@
 {
-  "vid": "8617",
-  "vname": "Xfce",
-  "vcpe": "cpe:/:xfce",
-  "pid": "64198",
-  "pname": "xfce4-settings",
-  "pcpe": "cpe:/a:xfce:xfce4-settings"
+	"vid": "8617",
+	"vname": "Xfce",
+	"vcpe": "cpe:/:xfce",
+	"pid": "64198",
+	"pname": "xfce4-settings",
+	"pcpe": "cpe:/a:xfce:xfce4-settings"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "31116",
-  "pname": "Firepower 9300 Security Appliance ファームウェア",
-  "pcpe": "cpe:/o:cisco:firepower_9300_security_appliance_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "31116",
+	"pname": "Firepower 9300 Security Appliance ファームウェア",
+	"pcpe": "cpe:/o:cisco:firepower_9300_security_appliance_firmware"
 }

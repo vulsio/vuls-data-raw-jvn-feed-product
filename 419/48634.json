@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "48634",
-  "pname": "NetApp HCI Storage Node ファームウェア",
-  "pcpe": "cpe:/o:netapp:hci_storage_node_firmware"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "48634",
+	"pname": "NetApp HCI Storage Node ファームウェア",
+	"pcpe": "cpe:/o:netapp:hci_storage_node_firmware"
 }

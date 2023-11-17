@@ -1,8 +1,8 @@
 {
-  "vid": "24673",
-  "vname": "relx",
-  "vcpe": "cpe:/:relx",
-  "pid": "64001",
-  "pname": "firco compliance link",
-  "pcpe": "cpe:/a:relx:firco_compliance_link"
+	"vid": "24673",
+	"vname": "relx",
+	"vcpe": "cpe:/:relx",
+	"pid": "64001",
+	"pname": "firco compliance link",
+	"pcpe": "cpe:/a:relx:firco_compliance_link"
 }

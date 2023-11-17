@@ -1,8 +1,8 @@
 {
-  "vid": "6527",
-  "vname": "Inpsyde",
-  "vcpe": "cpe:/:marketpress",
-  "pid": "13105",
-  "pname": "BackWPup",
-  "pcpe": "cpe:/a:marketpress:backwpup_plugin"
+	"vid": "6527",
+	"vname": "Inpsyde",
+	"vcpe": "cpe:/:marketpress",
+	"pid": "13105",
+	"pname": "BackWPup",
+	"pcpe": "cpe:/a:marketpress:backwpup_plugin"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10889",
-  "vname": "equifax",
-  "vcpe": "cpe:/:equifax",
-  "pid": "22447",
-  "pname": "equifax mobile",
-  "pcpe": "cpe:/a:equifax:equifax_mobile"
+	"vid": "10889",
+	"vname": "equifax",
+	"vcpe": "cpe:/:equifax",
+	"pid": "22447",
+	"pname": "equifax mobile",
+	"pcpe": "cpe:/a:equifax:equifax_mobile"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "60927",
-  "pname": "failed job deactivator",
-  "pcpe": "cpe:/a:jenkins:failed_job_deactivator"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "60927",
+	"pname": "failed job deactivator",
+	"pcpe": "cpe:/a:jenkins:failed_job_deactivator"
 }

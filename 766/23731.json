@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "23731",
-  "pname": "Pelco DS-NVs",
-  "pcpe": "cpe:/a:schneider_electric:pelco_ds-nv"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "23731",
+	"pname": "Pelco DS-NVs",
+	"pcpe": "cpe:/a:schneider_electric:pelco_ds-nv"
 }

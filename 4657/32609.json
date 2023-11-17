@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "32609",
-  "pname": "AR3600 ファームウェア",
-  "pcpe": "cpe:/o:huawei:ar3600_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "32609",
+	"pname": "AR3600 ファームウェア",
+	"pcpe": "cpe:/o:huawei:ar3600_firmware"
 }

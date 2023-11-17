@@ -1,8 +1,8 @@
 {
-  "vid": "595",
-  "vname": "Artifex Software",
-  "vcpe": "cpe:/:artifex",
-  "pid": "18126",
-  "pname": "Ghostscript",
-  "pcpe": "cpe:/a:artifex:ghostscript"
+	"vid": "595",
+	"vname": "Artifex Software",
+	"vcpe": "cpe:/:artifex",
+	"pid": "18126",
+	"pname": "Ghostscript",
+	"pcpe": "cpe:/a:artifex:ghostscript"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "60912",
-  "pname": "ds-a81016s ファームウェア",
-  "pcpe": "cpe:/o:hikvision:ds-a81016s_firmware"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "60912",
+	"pname": "ds-a81016s ファームウェア",
+	"pcpe": "cpe:/o:hikvision:ds-a81016s_firmware"
 }

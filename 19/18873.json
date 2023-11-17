@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18873",
-  "pname": "Cisco Scientific Atlanta DPC/EPC2100 Cable Modem",
-  "pcpe": "cpe:/h:cisco:scientific_atlanta_dpc%2fepc2100"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18873",
+	"pname": "Cisco Scientific Atlanta DPC/EPC2100 Cable Modem",
+	"pcpe": "cpe:/h:cisco:scientific_atlanta_dpc%2fepc2100"
 }

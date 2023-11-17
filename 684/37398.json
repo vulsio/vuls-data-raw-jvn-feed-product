@@ -1,8 +1,8 @@
 {
-  "vid": "684",
-  "vname": "LifeSize Communications",
-  "vcpe": "cpe:/:lifesize",
-  "pid": "37398",
-  "pname": "Lifesize Team 220 ファームウェア",
-  "pcpe": "cpe:/o:lifesize:team_220_firmware"
+	"vid": "684",
+	"vname": "LifeSize Communications",
+	"vcpe": "cpe:/:lifesize",
+	"pid": "37398",
+	"pname": "Lifesize Team 220 ファームウェア",
+	"pcpe": "cpe:/o:lifesize:team_220_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "29",
-  "vname": "エフ・セキュア",
-  "vcpe": "cpe:/:f-secure",
-  "pid": "43681",
-  "pname": "F-Secure Cloud Protection for Salesforce",
-  "pcpe": "cpe:/a:f-secure:cloud_protection_for_salesforce"
+	"vid": "29",
+	"vname": "エフ・セキュア",
+	"vcpe": "cpe:/:f-secure",
+	"pid": "43681",
+	"pname": "F-Secure Cloud Protection for Salesforce",
+	"pcpe": "cpe:/a:f-secure:cloud_protection_for_salesforce"
 }

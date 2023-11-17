@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "26749",
-  "pname": "HP ThinPro",
-  "pcpe": "cpe:/o:hp:thinpro"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "26749",
+	"pname": "HP ThinPro",
+	"pcpe": "cpe:/o:hp:thinpro"
 }

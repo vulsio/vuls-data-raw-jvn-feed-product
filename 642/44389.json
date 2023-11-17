@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "44389",
-  "pname": "RBS20 ファームウェア",
-  "pcpe": "cpe:/o:netgear:rbs20_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "44389",
+	"pname": "RBS20 ファームウェア",
+	"pcpe": "cpe:/o:netgear:rbs20_firmware"
 }

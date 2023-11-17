@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "31767",
-  "pname": "GNU GLOBAL",
-  "pcpe": "cpe:/a:gnu:global"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "31767",
+	"pname": "GNU GLOBAL",
+	"pcpe": "cpe:/a:gnu:global"
 }

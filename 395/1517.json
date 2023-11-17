@@ -1,8 +1,8 @@
 {
-  "vid": "395",
-  "vname": "Mandriva, Inc.",
-  "vcpe": "cpe:/:mandriva",
-  "pid": "1517",
-  "pname": "Mandriva Linux Evolution",
-  "pcpe": "cpe:/o:mandriva:linux-evolution"
+	"vid": "395",
+	"vname": "Mandriva, Inc.",
+	"vcpe": "cpe:/:mandriva",
+	"pid": "1517",
+	"pname": "Mandriva Linux Evolution",
+	"pcpe": "cpe:/o:mandriva:linux-evolution"
 }

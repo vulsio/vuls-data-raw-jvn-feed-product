@@ -1,8 +1,8 @@
 {
-  "vid": "17467",
-  "vname": "tesseract project",
-  "vcpe": "cpe:/:tesseract_project",
-  "pid": "41651",
-  "pname": "tesseract",
-  "pcpe": "cpe:/a:tesseract_project:tesseract"
+	"vid": "17467",
+	"vname": "tesseract project",
+	"vcpe": "cpe:/:tesseract_project",
+	"pid": "41651",
+	"pname": "tesseract",
+	"pcpe": "cpe:/a:tesseract_project:tesseract"
 }

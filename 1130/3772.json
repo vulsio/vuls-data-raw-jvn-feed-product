@@ -1,8 +1,8 @@
 {
-  "vid": "1130",
-  "vname": "イー・アクセス株式会社",
-  "vcpe": "cpe:/:emobile",
-  "pid": "3772",
-  "pname": "Pocket WiFi (GP02)",
-  "pcpe": "cpe:/h:emobile:pocket_wifi"
+	"vid": "1130",
+	"vname": "イー・アクセス株式会社",
+	"vcpe": "cpe:/:emobile",
+	"pid": "3772",
+	"pname": "Pocket WiFi (GP02)",
+	"pcpe": "cpe:/h:emobile:pocket_wifi"
 }

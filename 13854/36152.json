@@ -1,8 +1,8 @@
 {
-  "vid": "13854",
-  "vname": "Ionic",
-  "vcpe": "cpe:/:ionic",
-  "pid": "36152",
-  "pname": "cordova-plugin-ionic-webview",
-  "pcpe": "cpe:/a:ionic:cordova-plugin-ionic-webview"
+	"vid": "13854",
+	"vname": "Ionic",
+	"vcpe": "cpe:/:ionic",
+	"pid": "36152",
+	"pname": "cordova-plugin-ionic-webview",
+	"pcpe": "cpe:/a:ionic:cordova-plugin-ionic-webview"
 }

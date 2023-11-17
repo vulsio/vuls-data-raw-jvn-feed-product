@@ -1,8 +1,8 @@
 {
-  "vid": "21475",
-  "vname": "IDEC株式会社",
-  "vcpe": "cpe:/:idec",
-  "pid": "55118",
-  "pname": "FC6A 形 MICROSmart All-in-One CPU モジュール",
-  "pcpe": "cpe:/o:idec:microsmart_fc6a_firmware"
+	"vid": "21475",
+	"vname": "IDEC株式会社",
+	"vcpe": "cpe:/:idec",
+	"pid": "55118",
+	"pname": "FC6A 形 MICROSmart All-in-One CPU モジュール",
+	"pcpe": "cpe:/o:idec:microsmart_fc6a_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2151",
-  "vname": "Alibaba Group",
-  "vcpe": "cpe:/:alibaba",
-  "pid": "53988",
-  "pname": "Druid",
-  "pcpe": "cpe:/a:alibaba:druid"
+	"vid": "2151",
+	"vname": "Alibaba Group",
+	"vcpe": "cpe:/:alibaba",
+	"pid": "53988",
+	"pname": "Druid",
+	"pcpe": "cpe:/a:alibaba:druid"
 }

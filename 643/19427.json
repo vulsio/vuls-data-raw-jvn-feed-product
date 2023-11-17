@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "19427",
-  "pname": "Dell KACE K1100s Systems Management Appliance",
-  "pcpe": "cpe:/h:dell:kace_k1100s_systems_management_appliance"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "19427",
+	"pname": "Dell KACE K1100s Systems Management Appliance",
+	"pcpe": "cpe:/h:dell:kace_k1100s_systems_management_appliance"
 }

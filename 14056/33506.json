@@ -1,8 +1,8 @@
 {
-  "vid": "14056",
-  "vname": "Directus",
-  "vcpe": "cpe:/:rangerstudio",
-  "pid": "33506",
-  "pname": "Directus",
-  "pcpe": "cpe:/a:rangerstudio:directus"
+	"vid": "14056",
+	"vname": "Directus",
+	"vcpe": "cpe:/:rangerstudio",
+	"pid": "33506",
+	"pname": "Directus",
+	"pcpe": "cpe:/a:rangerstudio:directus"
 }

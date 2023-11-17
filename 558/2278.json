@@ -1,8 +1,8 @@
 {
-  "vid": "558",
-  "vname": "Expat",
-  "vcpe": "cpe:/:libexpat",
-  "pid": "2278",
-  "pname": "Expat",
-  "pcpe": "cpe:/a:libexpat:expat"
+	"vid": "558",
+	"vname": "Expat",
+	"vcpe": "cpe:/:libexpat",
+	"pid": "2278",
+	"pname": "Expat",
+	"pcpe": "cpe:/a:libexpat:expat"
 }

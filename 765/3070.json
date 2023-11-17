@@ -1,8 +1,8 @@
 {
-  "vid": "765",
-  "vname": "NJStar Software Company",
-  "vcpe": "cpe:/:njstar",
-  "pid": "3070",
-  "pname": "NJStar Communicator",
-  "pcpe": "cpe:/a:njstar:communicator"
+	"vid": "765",
+	"vname": "NJStar Software Company",
+	"vcpe": "cpe:/:njstar",
+	"pid": "3070",
+	"pname": "NJStar Communicator",
+	"pcpe": "cpe:/a:njstar:communicator"
 }

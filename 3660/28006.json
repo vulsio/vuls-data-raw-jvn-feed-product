@@ -1,8 +1,8 @@
 {
-  "vid": "3660",
-  "vname": "FastStone Soft",
-  "vcpe": "cpe:/:faststone",
-  "pid": "28006",
-  "pname": "FastStone MaxView",
-  "pcpe": "cpe:/a:faststone:maxview"
+	"vid": "3660",
+	"vname": "FastStone Soft",
+	"vcpe": "cpe:/:faststone",
+	"pid": "28006",
+	"pname": "FastStone MaxView",
+	"pcpe": "cpe:/a:faststone:maxview"
 }

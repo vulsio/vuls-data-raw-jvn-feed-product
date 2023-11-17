@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "368",
-  "pname": "Microsoft .NET Framework",
-  "pcpe": "cpe:/a:microsoft:.net_framework"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "368",
+	"pname": "Microsoft .NET Framework",
+	"pcpe": "cpe:/a:microsoft:.net_framework"
 }

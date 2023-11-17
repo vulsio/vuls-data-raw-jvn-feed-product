@@ -1,8 +1,8 @@
 {
-  "vid": "250",
-  "vname": "CUPS",
-  "vcpe": "cpe:/:cups",
-  "pid": "888",
-  "pname": "CUPS",
-  "pcpe": "cpe:/a:cups:cups"
+	"vid": "250",
+	"vname": "CUPS",
+	"vcpe": "cpe:/:cups",
+	"pid": "888",
+	"pname": "CUPS",
+	"pcpe": "cpe:/a:cups:cups"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "33445",
-  "pname": "140CPU31110 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:140cpu31110_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "33445",
+	"pname": "140CPU31110 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:140cpu31110_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12955",
-  "vname": "Kubernetes",
-  "vcpe": "cpe:/:kubernetes",
-  "pid": "37354",
-  "pname": "minikube",
-  "pcpe": "cpe:/a:kubernetes:minikube"
+	"vid": "12955",
+	"vname": "Kubernetes",
+	"vcpe": "cpe:/:kubernetes",
+	"pid": "37354",
+	"pname": "minikube",
+	"pcpe": "cpe:/a:kubernetes:minikube"
 }

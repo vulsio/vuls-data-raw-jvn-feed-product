@@ -1,8 +1,8 @@
 {
-  "vid": "5695",
-  "vname": "Mitel Networks Corporation",
-  "vcpe": "cpe:/:mitel",
-  "pid": "11624",
-  "pname": "mitel nupoint messenger",
-  "pcpe": "cpe:/a:mitel:mitel_nupoint_messenger"
+	"vid": "5695",
+	"vname": "Mitel Networks Corporation",
+	"vcpe": "cpe:/:mitel",
+	"pid": "11624",
+	"pname": "mitel nupoint messenger",
+	"pcpe": "cpe:/a:mitel:mitel_nupoint_messenger"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "51453",
-  "pname": "Symantec Advanced Secure Gateway S400-30 ファームウェア",
-  "pcpe": "cpe:/a:symantec:symantec_advanced_secure_gateway_s400-30_firmware"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "51453",
+	"pname": "Symantec Advanced Secure Gateway S400-30 ファームウェア",
+	"pcpe": "cpe:/a:symantec:symantec_advanced_secure_gateway_s400-30_firmware"
 }

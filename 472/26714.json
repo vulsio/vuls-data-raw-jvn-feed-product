@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "26714",
-  "pname": "1766-L32AWA",
-  "pcpe": "cpe:/h:rockwellautomation:1766-l32awa"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "26714",
+	"pname": "1766-L32AWA",
+	"pcpe": "cpe:/h:rockwellautomation:1766-l32awa"
 }

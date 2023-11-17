@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "10003",
-  "pname": "Rational Software Architect",
-  "pcpe": "cpe:/a:ibm:rational_software_architect"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "10003",
+	"pname": "Rational Software Architect",
+	"pcpe": "cpe:/a:ibm:rational_software_architect"
 }

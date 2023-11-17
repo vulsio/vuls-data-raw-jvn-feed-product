@@ -1,8 +1,8 @@
 {
-  "vid": "1703",
-  "vname": "scilab",
-  "vcpe": "cpe:/:scilab",
-  "pid": "14548",
-  "pname": "scilab-bin",
-  "pcpe": "cpe:/a:scilab:scilab-bin"
+	"vid": "1703",
+	"vname": "scilab",
+	"vcpe": "cpe:/:scilab",
+	"pid": "14548",
+	"pname": "scilab-bin",
+	"pcpe": "cpe:/a:scilab:scilab-bin"
 }

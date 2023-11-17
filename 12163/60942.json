@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "60942",
-  "pname": "project inheritance",
-  "pcpe": "cpe:/a:jenkins:project_inheritance"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "60942",
+	"pname": "project inheritance",
+	"pcpe": "cpe:/a:jenkins:project_inheritance"
 }

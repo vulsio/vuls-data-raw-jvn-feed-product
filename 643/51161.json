@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "51161",
-  "pname": "Dell PowerEdge MX740C ファームウェア",
-  "pcpe": "cpe:/o:dell:poweredge_mx740c_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "51161",
+	"pname": "Dell PowerEdge MX740C ファームウェア",
+	"pcpe": "cpe:/o:dell:poweredge_mx740c_firmware"
 }

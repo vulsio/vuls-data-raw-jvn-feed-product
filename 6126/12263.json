@@ -1,8 +1,8 @@
 {
-  "vid": "6126",
-  "vname": "open webmail",
-  "vcpe": "cpe:/:open_webmail",
-  "pid": "12263",
-  "pname": "open webmail",
-  "pcpe": "cpe:/a:open_webmail:open_webmail"
+	"vid": "6126",
+	"vname": "open webmail",
+	"vcpe": "cpe:/:open_webmail",
+	"pid": "12263",
+	"pname": "open webmail",
+	"pcpe": "cpe:/a:open_webmail:open_webmail"
 }

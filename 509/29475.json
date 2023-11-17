@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "29475",
-  "pname": "SAP SuccessFactors",
-  "pcpe": "cpe:/a:sap:successfactors"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "29475",
+	"pname": "SAP SuccessFactors",
+	"pcpe": "cpe:/a:sap:successfactors"
 }

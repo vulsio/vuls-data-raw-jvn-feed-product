@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "58744",
-  "pname": "r7425 ファームウェア",
-  "pcpe": "cpe:/o:dell:r7425_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "58744",
+	"pname": "r7425 ファームウェア",
+	"pcpe": "cpe:/o:dell:r7425_firmware"
 }

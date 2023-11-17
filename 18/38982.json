@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "38982",
-  "pname": "IBM InfoSphere Information Analyzer",
-  "pcpe": "cpe:/a:ibm:infosphere_information_analyzer"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "38982",
+	"pname": "IBM InfoSphere Information Analyzer",
+	"pcpe": "cpe:/a:ibm:infosphere_information_analyzer"
 }

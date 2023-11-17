@@ -1,8 +1,8 @@
 {
-  "vid": "12943",
-  "vname": "Pegasystems Inc.",
-  "vcpe": "cpe:/:pegasystems",
-  "pid": "29925",
-  "pname": "Pega Platform",
-  "pcpe": "cpe:/a:pegasystems:pega_platform"
+	"vid": "12943",
+	"vname": "Pegasystems Inc.",
+	"vcpe": "cpe:/:pegasystems",
+	"pid": "29925",
+	"pname": "Pega Platform",
+	"pcpe": "cpe:/a:pegasystems:pega_platform"
 }

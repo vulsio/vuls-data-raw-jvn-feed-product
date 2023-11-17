@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "947",
-  "pname": "SecureWare/セキュリティパック",
-  "pcpe": "cpe:/a:nec:secureware_security_pack"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "947",
+	"pname": "SecureWare/セキュリティパック",
+	"pcpe": "cpe:/a:nec:secureware_security_pack"
 }

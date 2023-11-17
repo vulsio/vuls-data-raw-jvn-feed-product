@@ -1,8 +1,8 @@
 {
-  "vid": "15182",
-  "vname": "Dogtag PKI",
-  "vcpe": "cpe:/:dogtagpki",
-  "pid": "35143",
-  "pname": "Dogtag PKI",
-  "pcpe": "cpe:/a:dogtagpki:dogtagpki"
+	"vid": "15182",
+	"vname": "Dogtag PKI",
+	"vcpe": "cpe:/:dogtagpki",
+	"pid": "35143",
+	"pname": "Dogtag PKI",
+	"pcpe": "cpe:/a:dogtagpki:dogtagpki"
 }

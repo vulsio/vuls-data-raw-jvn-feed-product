@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "46565",
-  "pname": "SCADAPack x70 Security Administrator",
-  "pcpe": "cpe:/a:schneider_electric:scadapack_x70_security_administrator"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "46565",
+	"pname": "SCADAPack x70 Security Administrator",
+	"pcpe": "cpe:/a:schneider_electric:scadapack_x70_security_administrator"
 }

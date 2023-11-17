@@ -1,8 +1,8 @@
 {
-  "vid": "15277",
-  "vname": "OpenAM コンソーシアム",
-  "vcpe": "cpe:/:osstech",
-  "pid": "55110",
-  "pname": "OpenAM Web Policy Agent",
-  "pcpe": "cpe:/a:osstech:openam_web_policy_agent"
+	"vid": "15277",
+	"vname": "OpenAM コンソーシアム",
+	"vcpe": "cpe:/:osstech",
+	"pid": "55110",
+	"pname": "OpenAM Web Policy Agent",
+	"pcpe": "cpe:/a:osstech:openam_web_policy_agent"
 }

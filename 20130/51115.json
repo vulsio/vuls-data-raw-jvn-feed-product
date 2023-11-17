@@ -1,8 +1,8 @@
 {
-  "vid": "20130",
-  "vname": "reg-keygen-git-hash-plugin project",
-  "vcpe": "cpe:/:reg-keygen-git-hash_project",
-  "pid": "51115",
-  "pname": "reg-keygen-git-hash-plugin",
-  "pcpe": "cpe:/a:reg-keygen-git-hash_project:reg-keygen-git-hash"
+	"vid": "20130",
+	"vname": "reg-keygen-git-hash-plugin project",
+	"vcpe": "cpe:/:reg-keygen-git-hash_project",
+	"pid": "51115",
+	"pname": "reg-keygen-git-hash-plugin",
+	"pcpe": "cpe:/a:reg-keygen-git-hash_project:reg-keygen-git-hash"
 }

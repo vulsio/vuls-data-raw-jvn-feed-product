@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "24206",
-  "pname": "WMR-300 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wmr-300_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "24206",
+	"pname": "WMR-300 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wmr-300_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20520",
-  "pname": "IBM Algo Credit Limits",
-  "pcpe": "cpe:/a:ibm:algo_credit_limits"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20520",
+	"pname": "IBM Algo Credit Limits",
+	"pcpe": "cpe:/a:ibm:algo_credit_limits"
 }

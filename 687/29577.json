@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "29577",
-  "pname": "TIBCO JasperReports Library Community Edition",
-  "pcpe": "cpe:/a:tibco:jasperreports_library_community_edition"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "29577",
+	"pname": "TIBCO JasperReports Library Community Edition",
+	"pcpe": "cpe:/a:tibco:jasperreports_library_community_edition"
 }

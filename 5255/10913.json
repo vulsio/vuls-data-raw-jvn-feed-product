@@ -1,8 +1,8 @@
 {
-  "vid": "5255",
-  "vname": "Larson Software Technology",
-  "vcpe": "cpe:/:larson_software_technology",
-  "pid": "10913",
-  "pname": "network print server",
-  "pcpe": "cpe:/a:larson_software_technology:network_print_server"
+	"vid": "5255",
+	"vname": "Larson Software Technology",
+	"vcpe": "cpe:/:larson_software_technology",
+	"pid": "10913",
+	"pname": "network print server",
+	"pcpe": "cpe:/a:larson_software_technology:network_print_server"
 }

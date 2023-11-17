@@ -1,8 +1,8 @@
 {
-  "vid": "24736",
-  "vname": "opennebula",
-  "vcpe": "cpe:/:opennebula",
-  "pid": "64121",
-  "pname": "opennebula",
-  "pcpe": "cpe:/a:opennebula:opennebula"
+	"vid": "24736",
+	"vname": "opennebula",
+	"vcpe": "cpe:/:opennebula",
+	"pid": "64121",
+	"pname": "opennebula",
+	"pcpe": "cpe:/a:opennebula:opennebula"
 }

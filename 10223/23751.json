@@ -1,8 +1,8 @@
 {
-  "vid": "10223",
-  "vname": "Web-Dorado",
-  "vcpe": "cpe:/:web-dorado",
-  "pid": "23751",
-  "pname": "Ecommerce WD",
-  "pcpe": "cpe:/a:web-dorado:ecommerce_wd"
+	"vid": "10223",
+	"vname": "Web-Dorado",
+	"vcpe": "cpe:/:web-dorado",
+	"pid": "23751",
+	"pname": "Ecommerce WD",
+	"pcpe": "cpe:/a:web-dorado:ecommerce_wd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "28924",
-  "pname": "PeopleSoft Enterprise SCM Strategic Sourcing",
-  "pcpe": "cpe:/a:oracle:peoplesoft_enterprise_scm_strategic_sourcing"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "28924",
+	"pname": "PeopleSoft Enterprise SCM Strategic Sourcing",
+	"pcpe": "cpe:/a:oracle:peoplesoft_enterprise_scm_strategic_sourcing"
 }

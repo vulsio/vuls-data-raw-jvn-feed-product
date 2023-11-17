@@ -1,8 +1,8 @@
 {
-  "vid": "10810",
-  "vname": "buycoins",
-  "vcpe": "cpe:/:buycoins",
-  "pid": "22351",
-  "pname": "buy coins",
-  "pcpe": "cpe:/a:buycoins:buy_coins"
+	"vid": "10810",
+	"vname": "buycoins",
+	"vcpe": "cpe:/:buycoins",
+	"pid": "22351",
+	"pname": "buy coins",
+	"pcpe": "cpe:/a:buycoins:buy_coins"
 }

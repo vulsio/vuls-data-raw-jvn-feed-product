@@ -1,8 +1,8 @@
 {
-  "vid": "17453",
-  "vname": "FireGPG",
-  "vcpe": "cpe:/:getfiregpg",
-  "pid": "41581",
-  "pname": "FireGPG",
-  "pcpe": "cpe:/a:getfiregpg:firegpg"
+	"vid": "17453",
+	"vname": "FireGPG",
+	"vcpe": "cpe:/:getfiregpg",
+	"pid": "41581",
+	"pname": "FireGPG",
+	"pcpe": "cpe:/a:getfiregpg:firegpg"
 }

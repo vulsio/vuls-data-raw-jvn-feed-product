@@ -1,8 +1,8 @@
 {
-  "vid": "13421",
-  "vname": "Auth0 Inc.",
-  "vcpe": "cpe:/:auth0",
-  "pid": "46253",
-  "pname": "omniauth-auth0",
-  "pcpe": "cpe:/a:auth0:omniauth-auth0"
+	"vid": "13421",
+	"vname": "Auth0 Inc.",
+	"vcpe": "cpe:/:auth0",
+	"pid": "46253",
+	"pname": "omniauth-auth0",
+	"pcpe": "cpe:/a:auth0:omniauth-auth0"
 }

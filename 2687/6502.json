@@ -1,8 +1,8 @@
 {
-  "vid": "2687",
-  "vname": "c-sam",
-  "vcpe": "cpe:/:c-sam",
-  "pid": "6502",
-  "pname": "onewallet",
-  "pcpe": "cpe:/a:c-sam:onewallet"
+	"vid": "2687",
+	"vname": "c-sam",
+	"vcpe": "cpe:/:c-sam",
+	"pid": "6502",
+	"pname": "onewallet",
+	"pcpe": "cpe:/a:c-sam:onewallet"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12498",
-  "vname": "EvoStream",
-  "vcpe": "cpe:/:evostream",
-  "pid": "28261",
-  "pname": "EvoStream Media Server",
-  "pcpe": "cpe:/a:evostream:media_server"
+	"vid": "12498",
+	"vname": "EvoStream",
+	"vcpe": "cpe:/:evostream",
+	"pid": "28261",
+	"pname": "EvoStream Media Server",
+	"pcpe": "cpe:/a:evostream:media_server"
 }

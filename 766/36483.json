@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "36483",
-  "pname": "Modicon Premium PLC ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:modicon_premium_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "36483",
+	"pname": "Modicon Premium PLC ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:modicon_premium_firmware"
 }

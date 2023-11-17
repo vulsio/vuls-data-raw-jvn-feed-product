@@ -1,8 +1,8 @@
 {
-  "vid": "697",
-  "vname": "Beckhoff Automation",
-  "vcpe": "cpe:/:beckhoff",
-  "pid": "24199",
-  "pname": "IPC Diagnostics",
-  "pcpe": "cpe:/a:beckhoff:ipc_diagnostics"
+	"vid": "697",
+	"vname": "Beckhoff Automation",
+	"vcpe": "cpe:/:beckhoff",
+	"pid": "24199",
+	"pname": "IPC Diagnostics",
+	"pcpe": "cpe:/a:beckhoff:ipc_diagnostics"
 }

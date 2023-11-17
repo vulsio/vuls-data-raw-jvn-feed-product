@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31408",
-  "pname": "TL-ER3220G ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-er3220g_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31408",
+	"pname": "TL-ER3220G ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-er3220g_firmware"
 }

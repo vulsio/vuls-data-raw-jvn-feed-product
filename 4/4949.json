@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4949",
-  "pname": "arcsight c5200 appliance",
-  "pcpe": "cpe:/h:hp:arcsight_c5200_appliance"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4949",
+	"pname": "arcsight c5200 appliance",
+	"pcpe": "cpe:/h:hp:arcsight_c5200_appliance"
 }

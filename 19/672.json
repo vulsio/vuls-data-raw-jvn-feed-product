@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "672",
-  "pname": "Cisco MGX 8230 シリーズ",
-  "pcpe": "cpe:/h:cisco:mgx_8230"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "672",
+	"pname": "Cisco MGX 8230 シリーズ",
+	"pcpe": "cpe:/h:cisco:mgx_8230"
 }

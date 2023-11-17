@@ -1,8 +1,8 @@
 {
-  "vid": "21292",
-  "vname": "DIGIPAS Technologies Inc.",
-  "vcpe": "cpe:/:digipas",
-  "pid": "54661",
-  "pname": "eGeeTouch Manager",
-  "pcpe": "cpe:/a:digipas:egeetouch_manager"
+	"vid": "21292",
+	"vname": "DIGIPAS Technologies Inc.",
+	"vcpe": "cpe:/:digipas",
+	"pid": "54661",
+	"pname": "eGeeTouch Manager",
+	"pcpe": "cpe:/a:digipas:egeetouch_manager"
 }

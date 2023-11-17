@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "48363",
-  "pname": "TL-WA801N ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-wa801n_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "48363",
+	"pname": "TL-WA801N ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-wa801n_firmware"
 }

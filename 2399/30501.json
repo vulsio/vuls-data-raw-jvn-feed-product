@@ -1,8 +1,8 @@
 {
-  "vid": "2399",
-  "vname": "AVM",
-  "vcpe": "cpe:/:avm",
-  "pid": "30501",
-  "pname": "FRITZ!Box 6840 LTE ファームウェア",
-  "pcpe": "cpe:/o:avm:fritz%21box_6840_lte_firmware"
+	"vid": "2399",
+	"vname": "AVM",
+	"vcpe": "cpe:/:avm",
+	"pid": "30501",
+	"pname": "FRITZ!Box 6840 LTE ファームウェア",
+	"pcpe": "cpe:/o:avm:fritz%21box_6840_lte_firmware"
 }

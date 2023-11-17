@@ -1,8 +1,8 @@
 {
-  "vid": "13421",
-  "vname": "Auth0 Inc.",
-  "vcpe": "cpe:/:auth0",
-  "pid": "43048",
-  "pname": "lock",
-  "pcpe": "cpe:/a:auth0:lock"
+	"vid": "13421",
+	"vname": "Auth0 Inc.",
+	"vcpe": "cpe:/:auth0",
+	"pid": "43048",
+	"pname": "lock",
+	"pcpe": "cpe:/a:auth0:lock"
 }

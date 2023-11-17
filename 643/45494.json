@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "45494",
-  "pname": "EMC PowerStore 3000 ファームウェア",
-  "pcpe": "cpe:/o:dell:emc_powerstore_3000_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "45494",
+	"pname": "EMC PowerStore 3000 ファームウェア",
+	"pcpe": "cpe:/o:dell:emc_powerstore_3000_firmware"
 }

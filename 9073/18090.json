@@ -1,8 +1,8 @@
 {
-  "vid": "9073",
-  "vname": "OWS",
-  "vcpe": "cpe:/:ows",
-  "pid": "18090",
-  "pname": "Scald",
-  "pcpe": "cpe:/a:ows:scald"
+	"vid": "9073",
+	"vname": "OWS",
+	"vcpe": "cpe:/:ows",
+	"pid": "18090",
+	"pname": "Scald",
+	"pcpe": "cpe:/a:ows:scald"
 }

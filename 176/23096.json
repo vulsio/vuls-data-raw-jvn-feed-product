@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "23096",
-  "pname": "CentreCOM 9924T/4SP ファームウェア",
-  "pcpe": "cpe:/o:allied_telesis_k.k.:centrecom_9924t%2f4sp_firmware"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "23096",
+	"pname": "CentreCOM 9924T/4SP ファームウェア",
+	"pcpe": "cpe:/o:allied_telesis_k.k.:centrecom_9924t%2f4sp_firmware"
 }

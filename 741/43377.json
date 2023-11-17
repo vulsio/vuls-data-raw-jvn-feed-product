@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "43377",
-  "pname": "DCH-M225 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dch-m225_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "43377",
+	"pname": "DCH-M225 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dch-m225_firmware"
 }

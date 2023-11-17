@@ -1,8 +1,8 @@
 {
-  "vid": "4817",
-  "vname": "interspire",
-  "vcpe": "cpe:/:interspire",
-  "pid": "31000",
-  "pname": "Interspire Email Marketer (IEM)",
-  "pcpe": "cpe:/a:interspire:email_marketer"
+	"vid": "4817",
+	"vname": "interspire",
+	"vcpe": "cpe:/:interspire",
+	"pid": "31000",
+	"pname": "Interspire Email Marketer (IEM)",
+	"pcpe": "cpe:/a:interspire:email_marketer"
 }

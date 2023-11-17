@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29681",
-  "pname": "Siemens SIMATIC CP 44x-1 RNA",
-  "pcpe": "cpe:/a:siemens:simatic_cp_44x-1_redundant_network_access_modules"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29681",
+	"pname": "Siemens SIMATIC CP 44x-1 RNA",
+	"pcpe": "cpe:/a:siemens:simatic_cp_44x-1_redundant_network_access_modules"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "13286",
-  "pname": "Microsoft Windows Server 2012",
-  "pcpe": "cpe:/o:microsoft:windows_server_2012"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "13286",
+	"pname": "Microsoft Windows Server 2012",
+	"pcpe": "cpe:/o:microsoft:windows_server_2012"
 }

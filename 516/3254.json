@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "3254",
-  "pname": "FV WordPress Flowplayer",
-  "pcpe": "cpe:/a:wordpress:fv_wordpress_flowplayer_plugin"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "3254",
+	"pname": "FV WordPress Flowplayer",
+	"pcpe": "cpe:/a:wordpress:fv_wordpress_flowplayer_plugin"
 }

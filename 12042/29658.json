@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "29658",
-  "pname": "HPE Helion Openstack Glance",
-  "pcpe": "cpe:/a:hp:helion_openstack_glance"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "29658",
+	"pname": "HPE Helion Openstack Glance",
+	"pcpe": "cpe:/a:hp:helion_openstack_glance"
 }

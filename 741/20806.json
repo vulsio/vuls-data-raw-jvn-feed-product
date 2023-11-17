@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "20806",
-  "pname": "DIR-505 SharePort Mobile Companion",
-  "pcpe": "cpe:/h:dlink:dir505_shareport_mobile_companion"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "20806",
+	"pname": "DIR-505 SharePort Mobile Companion",
+	"pcpe": "cpe:/h:dlink:dir505_shareport_mobile_companion"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23666",
-  "vname": "sphere project",
-  "vcpe": "cpe:/:sphere_project",
-  "pid": "61279",
-  "pname": "sphere",
-  "pcpe": "cpe:/a:sphere_project:sphere"
+	"vid": "23666",
+	"vname": "sphere project",
+	"vcpe": "cpe:/:sphere_project",
+	"pid": "61279",
+	"pname": "sphere",
+	"pcpe": "cpe:/a:sphere_project:sphere"
 }

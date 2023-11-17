@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "29411",
-  "pname": "Lenovo Active Protection System",
-  "pcpe": "cpe:/a:lenovo:active_protection_system"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "29411",
+	"pname": "Lenovo Active Protection System",
+	"pcpe": "cpe:/a:lenovo:active_protection_system"
 }

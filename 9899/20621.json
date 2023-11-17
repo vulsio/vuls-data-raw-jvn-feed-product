@@ -1,8 +1,8 @@
 {
-  "vid": "9899",
-  "vname": "sgminer project",
-  "vcpe": "cpe:/:sgminer_project",
-  "pid": "20621",
-  "pname": "sgminer",
-  "pcpe": "cpe:/a:sgminer_project:sgminer"
+	"vid": "9899",
+	"vname": "sgminer project",
+	"vcpe": "cpe:/:sgminer_project",
+	"pid": "20621",
+	"pname": "sgminer",
+	"pcpe": "cpe:/a:sgminer_project:sgminer"
 }

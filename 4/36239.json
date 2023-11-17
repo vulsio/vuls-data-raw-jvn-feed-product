@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "36239",
-  "pname": "F2A70A ファームウェア",
-  "pcpe": "cpe:/o:hp:f2a70a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "36239",
+	"pname": "F2A70A ファームウェア",
+	"pcpe": "cpe:/o:hp:f2a70a_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2999",
-  "pname": "Cisco TelePresence Video Communication Server",
-  "pcpe": "cpe:/h:cisco:telepresence_video_communication_servers"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2999",
+	"pname": "Cisco TelePresence Video Communication Server",
+	"pcpe": "cpe:/h:cisco:telepresence_video_communication_servers"
 }

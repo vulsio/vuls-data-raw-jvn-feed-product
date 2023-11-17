@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "46340",
-  "pname": "IBM Aspera Connect",
-  "pcpe": "cpe:/a:ibm:aspera_connect"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "46340",
+	"pname": "IBM Aspera Connect",
+	"pcpe": "cpe:/a:ibm:aspera_connect"
 }

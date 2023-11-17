@@ -1,8 +1,8 @@
 {
-  "vid": "24364",
-  "vname": "necta",
-  "vcpe": "cpe:/:necta",
-  "pid": "62974",
-  "pname": "wifi mouse server",
-  "pcpe": "cpe:/a:necta:wifi_mouse_server"
+	"vid": "24364",
+	"vname": "necta",
+	"vcpe": "cpe:/:necta",
+	"pid": "62974",
+	"pname": "wifi mouse server",
+	"pcpe": "cpe:/a:necta:wifi_mouse_server"
 }

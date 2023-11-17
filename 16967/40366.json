@@ -1,8 +1,8 @@
 {
-  "vid": "16967",
-  "vname": "statichttpserver project",
-  "vcpe": "cpe:/:statichttpserver_project",
-  "pid": "40366",
-  "pname": "statichttpserver",
-  "pcpe": "cpe:/a:statichttpserver_project:statichttpserver"
+	"vid": "16967",
+	"vname": "statichttpserver project",
+	"vcpe": "cpe:/:statichttpserver_project",
+	"pid": "40366",
+	"pname": "statichttpserver",
+	"pcpe": "cpe:/a:statichttpserver_project:statichttpserver"
 }

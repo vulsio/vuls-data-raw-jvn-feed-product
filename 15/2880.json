@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2880",
-  "pname": "Netra SPARC",
-  "pcpe": "cpe:/h:oracle:netra_sparc"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2880",
+	"pname": "Netra SPARC",
+	"pcpe": "cpe:/h:oracle:netra_sparc"
 }

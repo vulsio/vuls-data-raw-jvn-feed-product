@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "59839",
-  "pname": "Cisco CGR1000 コンピュートモジュール",
-  "pcpe": "cpe:/a:cisco:cgr1000_compute_module"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "59839",
+	"pname": "Cisco CGR1000 コンピュートモジュール",
+	"pcpe": "cpe:/a:cisco:cgr1000_compute_module"
 }

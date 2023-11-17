@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "33111",
-  "pname": "Dell EMC iDRAC8",
-  "pcpe": "cpe:/a:dell:emc_idrac8"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "33111",
+	"pname": "Dell EMC iDRAC8",
+	"pcpe": "cpe:/a:dell:emc_idrac8"
 }

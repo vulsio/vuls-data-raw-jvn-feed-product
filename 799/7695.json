@@ -1,8 +1,8 @@
 {
-  "vid": "799",
-  "vname": "eEye Digital Security",
-  "vcpe": "cpe:/:eeye",
-  "pid": "7695",
-  "pname": "retina wifi scanner",
-  "pcpe": "cpe:/a:eeye:retina_wifi_scanner"
+	"vid": "799",
+	"vname": "eEye Digital Security",
+	"vcpe": "cpe:/:eeye",
+	"pid": "7695",
+	"pname": "retina wifi scanner",
+	"pcpe": "cpe:/a:eeye:retina_wifi_scanner"
 }

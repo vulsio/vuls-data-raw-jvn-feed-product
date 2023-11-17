@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "54574",
-  "pname": "Dell EMC Streaming Data Platform",
-  "pcpe": "cpe:/a:dell:emc_streaming_data_platform"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "54574",
+	"pname": "Dell EMC Streaming Data Platform",
+	"pcpe": "cpe:/a:dell:emc_streaming_data_platform"
 }

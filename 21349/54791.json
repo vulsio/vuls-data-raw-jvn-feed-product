@@ -1,8 +1,8 @@
 {
-  "vid": "21349",
-  "vname": "Single Post Exporter project",
-  "vcpe": "cpe:/:single_post_exporter_project",
-  "pid": "54791",
-  "pname": "Single Post Exporter",
-  "pcpe": "cpe:/a:single_post_exporter_project:single_post_exporter"
+	"vid": "21349",
+	"vname": "Single Post Exporter project",
+	"vcpe": "cpe:/:single_post_exporter_project",
+	"pid": "54791",
+	"pname": "Single Post Exporter",
+	"pcpe": "cpe:/a:single_post_exporter_project:single_post_exporter"
 }

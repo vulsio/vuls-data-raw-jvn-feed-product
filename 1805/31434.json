@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31434",
-  "pname": "TL-WVR1300G ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-wvr1300g_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31434",
+	"pname": "TL-WVR1300G ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-wvr1300g_firmware"
 }

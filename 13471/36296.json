@@ -1,8 +1,8 @@
 {
-  "vid": "13471",
-  "vname": "Ivanti",
-  "vcpe": "cpe:/:ivanti",
-  "pid": "36296",
-  "pname": "Workspace Control",
-  "pcpe": "cpe:/a:ivanti:workspace_control"
+	"vid": "13471",
+	"vname": "Ivanti",
+	"vcpe": "cpe:/:ivanti",
+	"pid": "36296",
+	"pname": "Workspace Control",
+	"pcpe": "cpe:/a:ivanti:workspace_control"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22784",
-  "vname": "seowonintech",
-  "vcpe": "cpe:/:seowonintech",
-  "pid": "58653",
-  "pname": "130-slc ファームウェア",
-  "pcpe": "cpe:/o:seowonintech:130-slc_firmware"
+	"vid": "22784",
+	"vname": "seowonintech",
+	"vcpe": "cpe:/:seowonintech",
+	"pid": "58653",
+	"pname": "130-slc ファームウェア",
+	"pcpe": "cpe:/o:seowonintech:130-slc_firmware"
 }

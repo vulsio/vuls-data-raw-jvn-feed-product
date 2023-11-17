@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "6766",
-  "pname": "Cisco Wide Area Application Services ソフトウェア",
-  "pcpe": "cpe:/a:cisco:wide_area_application_services"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "6766",
+	"pname": "Cisco Wide Area Application Services ソフトウェア",
+	"pcpe": "cpe:/a:cisco:wide_area_application_services"
 }

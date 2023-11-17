@@ -1,8 +1,8 @@
 {
-  "vid": "9174",
-  "vname": "プラネックスコミュニケーションズ株式会社",
-  "vcpe": "cpe:/:planex",
-  "pid": "26527",
-  "pname": "DANBOARD 無線LANルーター DB-WRT01",
-  "pcpe": "cpe:/h:planex:danboard_wireless_lan_router_db-wrt01"
+	"vid": "9174",
+	"vname": "プラネックスコミュニケーションズ株式会社",
+	"vcpe": "cpe:/:planex",
+	"pid": "26527",
+	"pname": "DANBOARD 無線LANルーター DB-WRT01",
+	"pcpe": "cpe:/h:planex:danboard_wireless_lan_router_db-wrt01"
 }

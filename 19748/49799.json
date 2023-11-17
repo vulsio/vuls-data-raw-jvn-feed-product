@@ -1,8 +1,8 @@
 {
-  "vid": "19748",
-  "vname": "RabbitMQ",
-  "vcpe": "cpe:/:rabbitmq",
-  "pid": "49799",
-  "pname": "JMS Client",
-  "pcpe": "cpe:/a:rabbitmq:jms_client"
+	"vid": "19748",
+	"vname": "RabbitMQ",
+	"vcpe": "cpe:/:rabbitmq",
+	"pid": "49799",
+	"pname": "JMS Client",
+	"pcpe": "cpe:/a:rabbitmq:jms_client"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "48263",
-  "pname": "Aruba 3810M ファームウェア",
-  "pcpe": "cpe:/o:arubanetworks:aruba_3810m_firmware"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "48263",
+	"pname": "Aruba 3810M ファームウェア",
+	"pcpe": "cpe:/o:arubanetworks:aruba_3810m_firmware"
 }

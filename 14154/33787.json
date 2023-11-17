@@ -1,8 +1,8 @@
 {
-  "vid": "14154",
-  "vname": "omphalos",
-  "vcpe": "cpe:/:crud-file-server_project",
-  "pid": "33787",
-  "pname": "crud-file-server",
-  "pcpe": "cpe:/a:crud-file-server_project:crud-file-server"
+	"vid": "14154",
+	"vname": "omphalos",
+	"vcpe": "cpe:/:crud-file-server_project",
+	"pid": "33787",
+	"pname": "crud-file-server",
+	"pcpe": "cpe:/a:crud-file-server_project:crud-file-server"
 }

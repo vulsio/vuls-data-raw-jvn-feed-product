@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "29859",
-  "pname": "Oracle Hospitality Simphony First Edition Venue Management",
-  "pcpe": "cpe:/a:oracle:hospitality_simphony_first_edition_venue_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "29859",
+	"pname": "Oracle Hospitality Simphony First Edition Venue Management",
+	"pcpe": "cpe:/a:oracle:hospitality_simphony_first_edition_venue_management"
 }

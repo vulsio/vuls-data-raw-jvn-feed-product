@@ -1,8 +1,8 @@
 {
-  "vid": "18208",
-  "vname": "Evenroute",
-  "vcpe": "cpe:/:evenroute",
-  "pid": "44546",
-  "pname": "Iqrouter ファームウェア",
-  "pcpe": "cpe:/o:evenroute:iqrouter_firmware"
+	"vid": "18208",
+	"vname": "Evenroute",
+	"vcpe": "cpe:/:evenroute",
+	"pid": "44546",
+	"pname": "Iqrouter ファームウェア",
+	"pcpe": "cpe:/o:evenroute:iqrouter_firmware"
 }

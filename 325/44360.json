@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "44360",
-  "pname": "Lenovo Vantage",
-  "pcpe": "cpe:/a:lenovo:vantage"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "44360",
+	"pname": "Lenovo Vantage",
+	"pcpe": "cpe:/a:lenovo:vantage"
 }

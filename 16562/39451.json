@@ -1,8 +1,8 @@
 {
-  "vid": "16562",
-  "vname": "HexoEditor project",
-  "vcpe": "cpe:/:hexoeditor_project",
-  "pid": "39451",
-  "pname": "HexoEditor",
-  "pcpe": "cpe:/a:hexoeditor_project:hexoeditor"
+	"vid": "16562",
+	"vname": "HexoEditor project",
+	"vcpe": "cpe:/:hexoeditor_project",
+	"pid": "39451",
+	"pname": "HexoEditor",
+	"pcpe": "cpe:/a:hexoeditor_project:hexoeditor"
 }

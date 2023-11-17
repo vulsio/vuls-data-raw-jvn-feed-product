@@ -1,8 +1,8 @@
 {
-  "vid": "5637",
-  "vname": "マイクロフォーカス株式会社",
-  "vcpe": "cpe:/:microfocus",
-  "pid": "35652",
-  "pname": "GroupWise",
-  "pcpe": "cpe:/a:microfocus:groupwise"
+	"vid": "5637",
+	"vname": "マイクロフォーカス株式会社",
+	"vcpe": "cpe:/:microfocus",
+	"pid": "35652",
+	"pname": "GroupWise",
+	"pcpe": "cpe:/a:microfocus:groupwise"
 }

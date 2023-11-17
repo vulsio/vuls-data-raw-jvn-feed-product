@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12801",
-  "pname": "proliant onboard administrator",
-  "pcpe": "cpe:/h:hp:proliant_onboard_administrator"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12801",
+	"pname": "proliant onboard administrator",
+	"pcpe": "cpe:/h:hp:proliant_onboard_administrator"
 }

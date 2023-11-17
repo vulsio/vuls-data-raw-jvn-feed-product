@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "28340",
-  "pname": "WAC-2004 ファームウェア",
-  "pcpe": "cpe:/o:moxa:wac-2004_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "28340",
+	"pname": "WAC-2004 ファームウェア",
+	"pcpe": "cpe:/o:moxa:wac-2004_firmware"
 }

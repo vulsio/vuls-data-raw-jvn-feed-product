@@ -1,8 +1,8 @@
 {
-  "vid": "8774",
-  "vname": "Sangoma",
-  "vcpe": "cpe:/:sangoma",
-  "pid": "41328",
-  "pname": "NetBorder/Vega Session ファームウェア",
-  "pcpe": "cpe:/o:sangoma:netborder%2fvega_session_firmware"
+	"vid": "8774",
+	"vname": "Sangoma",
+	"vcpe": "cpe:/:sangoma",
+	"pid": "41328",
+	"pname": "NetBorder/Vega Session ファームウェア",
+	"pcpe": "cpe:/o:sangoma:netborder%2fvega_session_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9649",
-  "vname": "NCSA Mosaic",
-  "vcpe": "cpe:/:illinois",
-  "pid": "20048",
-  "pname": "NCSA Mosaic",
-  "pcpe": "cpe:/a:illinois:ncsa_mosaic"
+	"vid": "9649",
+	"vname": "NCSA Mosaic",
+	"vcpe": "cpe:/:illinois",
+	"pid": "20048",
+	"pname": "NCSA Mosaic",
+	"pcpe": "cpe:/a:illinois:ncsa_mosaic"
 }

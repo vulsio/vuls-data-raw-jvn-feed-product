@@ -1,8 +1,8 @@
 {
-  "vid": "12389",
-  "vname": "Slixmpp project",
-  "vcpe": "cpe:/:slixmpp_project",
-  "pid": "27908",
-  "pname": "Slixmpp",
-  "pcpe": "cpe:/a:slixmpp_project:slixmpp"
+	"vid": "12389",
+	"vname": "Slixmpp project",
+	"vcpe": "cpe:/:slixmpp_project",
+	"pid": "27908",
+	"pname": "Slixmpp",
+	"pcpe": "cpe:/a:slixmpp_project:slixmpp"
 }

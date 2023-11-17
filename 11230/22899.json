@@ -1,8 +1,8 @@
 {
-  "vid": "11230",
-  "vname": "forfone",
-  "vcpe": "cpe:/:forfone",
-  "pid": "22899",
-  "pname": "forfone: free calls & messages",
-  "pcpe": "cpe:/a:forfone:forfone%3a_free_calls_%26_messages"
+	"vid": "11230",
+	"vname": "forfone",
+	"vcpe": "cpe:/:forfone",
+	"pid": "22899",
+	"pname": "forfone: free calls & messages",
+	"pcpe": "cpe:/a:forfone:forfone%3a_free_calls_%26_messages"
 }

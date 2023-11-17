@@ -1,8 +1,8 @@
 {
-  "vid": "15806",
-  "vname": "BigProf",
-  "vcpe": "cpe:/:bigprof",
-  "pid": "36832",
-  "pname": "AppGini",
-  "pcpe": "cpe:/a:bigprof:appgini"
+	"vid": "15806",
+	"vname": "BigProf",
+	"vcpe": "cpe:/:bigprof",
+	"pid": "36832",
+	"pname": "AppGini",
+	"pcpe": "cpe:/a:bigprof:appgini"
 }

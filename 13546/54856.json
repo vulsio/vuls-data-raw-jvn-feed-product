@@ -1,8 +1,8 @@
 {
-  "vid": "13546",
-  "vname": "Linaro",
-  "vcpe": "cpe:/:linaro",
-  "pid": "54856",
-  "pname": "OP-TEE Trusted OS",
-  "pcpe": "cpe:/o:linaro:op-tee"
+	"vid": "13546",
+	"vname": "Linaro",
+	"vcpe": "cpe:/:linaro",
+	"pid": "54856",
+	"pname": "OP-TEE Trusted OS",
+	"pcpe": "cpe:/o:linaro:op-tee"
 }

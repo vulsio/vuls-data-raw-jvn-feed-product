@@ -1,8 +1,8 @@
 {
-  "vid": "4360",
-  "vname": "ウェブセンス",
-  "vcpe": "cpe:/:websense",
-  "pid": "16100",
-  "pname": "personal email manager",
-  "pcpe": "cpe:/a:websense:personal_email_manager"
+	"vid": "4360",
+	"vname": "ウェブセンス",
+	"vcpe": "cpe:/:websense",
+	"pid": "16100",
+	"pname": "personal email manager",
+	"pcpe": "cpe:/a:websense:personal_email_manager"
 }

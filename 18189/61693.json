@@ -1,8 +1,8 @@
 {
-  "vid": "18189",
-  "vname": "UI",
-  "vcpe": "cpe:/:ui",
-  "pid": "61693",
-  "pname": "ER-6P ファームウェア",
-  "pcpe": "cpe:/o:ui:er-6p_firmware"
+	"vid": "18189",
+	"vname": "UI",
+	"vcpe": "cpe:/:ui",
+	"pid": "61693",
+	"pname": "ER-6P ファームウェア",
+	"pcpe": "cpe:/o:ui:er-6p_firmware"
 }

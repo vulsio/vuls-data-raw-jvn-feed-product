@@ -1,8 +1,8 @@
 {
-  "vid": "7611",
-  "vname": "simplecustomer",
-  "vcpe": "cpe:/:simplecustomer",
-  "pid": "14778",
-  "pname": "simple customer",
-  "pcpe": "cpe:/a:simplecustomer:simple_customer"
+	"vid": "7611",
+	"vname": "simplecustomer",
+	"vcpe": "cpe:/:simplecustomer",
+	"pid": "14778",
+	"pname": "simple customer",
+	"pcpe": "cpe:/a:simplecustomer:simple_customer"
 }

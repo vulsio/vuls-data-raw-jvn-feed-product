@@ -1,8 +1,8 @@
 {
-  "vid": "15385",
-  "vname": "UG Token project",
-  "vcpe": "cpe:/:ugtoken_project",
-  "pid": "35732",
-  "pname": "UG Token",
-  "pcpe": "cpe:/a:ugtoken_project:ugtoken"
+	"vid": "15385",
+	"vname": "UG Token project",
+	"vcpe": "cpe:/:ugtoken_project",
+	"pid": "35732",
+	"pname": "UG Token",
+	"pcpe": "cpe:/a:ugtoken_project:ugtoken"
 }

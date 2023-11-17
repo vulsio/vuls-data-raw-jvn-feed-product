@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "18679",
-  "pname": "RHEL Desktop Multi OS",
-  "pcpe": "cpe:/o:redhat:rhel_desktop_multi_os"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "18679",
+	"pname": "RHEL Desktop Multi OS",
+	"pcpe": "cpe:/o:redhat:rhel_desktop_multi_os"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "35577",
-  "pname": "HPE Network Function Virtualization Director",
-  "pcpe": "cpe:/a:hp:network_function_virtualization_director"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "35577",
+	"pname": "HPE Network Function Virtualization Director",
+	"pcpe": "cpe:/a:hp:network_function_virtualization_director"
 }

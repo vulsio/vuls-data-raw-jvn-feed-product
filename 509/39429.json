@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "39429",
-  "pname": "SAP Information Steward",
-  "pcpe": "cpe:/a:sap:information_steward"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "39429",
+	"pname": "SAP Information Steward",
+	"pcpe": "cpe:/a:sap:information_steward"
 }

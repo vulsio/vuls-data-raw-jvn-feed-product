@@ -1,8 +1,8 @@
 {
-  "vid": "18976",
-  "vname": "Sonny Piers",
-  "vcpe": "cpe:/:json8-merge-patch_project",
-  "pid": "47459",
-  "pname": "JSON8 Merge Patch",
-  "pcpe": "cpe:/a:json8-merge-patch_project:json8-merge-patch"
+	"vid": "18976",
+	"vname": "Sonny Piers",
+	"vcpe": "cpe:/:json8-merge-patch_project",
+	"pid": "47459",
+	"pname": "JSON8 Merge Patch",
+	"pcpe": "cpe:/a:json8-merge-patch_project:json8-merge-patch"
 }

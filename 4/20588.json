@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "20588",
-  "pname": "HP Storage Management ソフトウェア",
-  "pcpe": "cpe:/a:hp:storage_management_software"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "20588",
+	"pname": "HP Storage Management ソフトウェア",
+	"pcpe": "cpe:/a:hp:storage_management_software"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4295",
-  "vname": "Chef Software, Inc.",
-  "vcpe": "cpe:/:chef",
-  "pid": "26113",
-  "pname": "Chef Manage アドオン",
-  "pcpe": "cpe:/a:chef:chef_manage"
+	"vid": "4295",
+	"vname": "Chef Software, Inc.",
+	"vcpe": "cpe:/:chef",
+	"pid": "26113",
+	"pname": "Chef Manage アドオン",
+	"pcpe": "cpe:/a:chef:chef_manage"
 }

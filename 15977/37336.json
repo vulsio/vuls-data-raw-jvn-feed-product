@@ -1,8 +1,8 @@
 {
-  "vid": "15977",
-  "vname": "BlinkForHome",
-  "vcpe": "cpe:/:blinkforhome",
-  "pid": "37336",
-  "pname": "Sync Module",
-  "pcpe": "cpe:/a:blinkforhome:sync_module"
+	"vid": "15977",
+	"vname": "BlinkForHome",
+	"vcpe": "cpe:/:blinkforhome",
+	"pid": "37336",
+	"pname": "Sync Module",
+	"pcpe": "cpe:/a:blinkforhome:sync_module"
 }

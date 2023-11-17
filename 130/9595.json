@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "9595",
-  "pname": "モバイル インテル QM57 チップセット",
-  "pcpe": "cpe:/h:intel:mobile_intel_qm57_chipset"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "9595",
+	"pname": "モバイル インテル QM57 チップセット",
+	"pcpe": "cpe:/h:intel:mobile_intel_qm57_chipset"
 }

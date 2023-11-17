@@ -1,8 +1,8 @@
 {
-  "vid": "3812",
-  "vname": "freeproxy",
-  "vcpe": "cpe:/:freeproxy",
-  "pid": "8212",
-  "pname": "freeproxy",
-  "pcpe": "cpe:/a:freeproxy:freeproxy"
+	"vid": "3812",
+	"vname": "freeproxy",
+	"vcpe": "cpe:/:freeproxy",
+	"pid": "8212",
+	"pname": "freeproxy",
+	"pcpe": "cpe:/a:freeproxy:freeproxy"
 }

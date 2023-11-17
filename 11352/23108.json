@@ -1,8 +1,8 @@
 {
-  "vid": "11352",
-  "vname": "O2Tweet project",
-  "vcpe": "cpe:/:o2tweet_project",
-  "pid": "23108",
-  "pname": "O2Tweet",
-  "pcpe": "cpe:/a:o2tweet_project:o2tweet"
+	"vid": "11352",
+	"vname": "O2Tweet project",
+	"vcpe": "cpe:/:o2tweet_project",
+	"pid": "23108",
+	"pname": "O2Tweet",
+	"pcpe": "cpe:/a:o2tweet_project:o2tweet"
 }

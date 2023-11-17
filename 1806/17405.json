@@ -1,8 +1,8 @@
 {
-  "vid": "1806",
-  "vname": "東芝テック",
-  "vcpe": "cpe:/:toshibatec",
-  "pid": "17405",
-  "pname": "e-STUDIO 451c ファームウェア",
-  "pcpe": "cpe:/a:toshibatec:e-studio-451c_firmware"
+	"vid": "1806",
+	"vname": "東芝テック",
+	"vcpe": "cpe:/:toshibatec",
+	"pid": "17405",
+	"pname": "e-STUDIO 451c ファームウェア",
+	"pcpe": "cpe:/a:toshibatec:e-studio-451c_firmware"
 }

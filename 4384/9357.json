@@ -1,8 +1,8 @@
 {
-  "vid": "4384",
-  "vname": "Creative Commons module Project",
-  "vcpe": "cpe:/:creative_commons_module_project",
-  "pid": "9357",
-  "pname": "Creative Commons",
-  "pcpe": "cpe:/a:creative_commons_module_project:creativecommons"
+	"vid": "4384",
+	"vname": "Creative Commons module Project",
+	"vcpe": "cpe:/:creative_commons_module_project",
+	"pid": "9357",
+	"pname": "Creative Commons",
+	"pcpe": "cpe:/a:creative_commons_module_project:creativecommons"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "46803",
-  "pname": "CX 6400 ファームウェア",
-  "pcpe": "cpe:/o:arubanetworks:cx_6400_firmware"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "46803",
+	"pname": "CX 6400 ファームウェア",
+	"pcpe": "cpe:/o:arubanetworks:cx_6400_firmware"
 }

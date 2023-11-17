@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "35974",
-  "pname": "RICOH MP 2001SP ファームウェア",
-  "pcpe": "cpe:/o:ricoh:mp_2001sp_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "35974",
+	"pname": "RICOH MP 2001SP ファームウェア",
+	"pcpe": "cpe:/o:ricoh:mp_2001sp_firmware"
 }

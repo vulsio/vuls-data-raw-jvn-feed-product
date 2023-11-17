@@ -1,8 +1,8 @@
 {
-  "vid": "20407",
-  "vname": "detect-character-encoding project",
-  "vcpe": "cpe:/:detect-character-encoding_project",
-  "pid": "52034",
-  "pname": "detect-character-encoding",
-  "pcpe": "cpe:/a:detect-character-encoding_project:detect-character-encoding"
+	"vid": "20407",
+	"vname": "detect-character-encoding project",
+	"vcpe": "cpe:/:detect-character-encoding_project",
+	"pid": "52034",
+	"pname": "detect-character-encoding",
+	"pcpe": "cpe:/a:detect-character-encoding_project:detect-character-encoding"
 }

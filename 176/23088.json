@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "23088",
-  "pname": "AT-8748XL ファームウェア",
-  "pcpe": "cpe:/o:allied_telesis_k.k.:at-8748xl_firmware"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "23088",
+	"pname": "AT-8748XL ファームウェア",
+	"pcpe": "cpe:/o:allied_telesis_k.k.:at-8748xl_firmware"
 }

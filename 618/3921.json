@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "3921",
-  "pname": "Modbus RTU OPC Server",
-  "pcpe": "cpe:/a:advantech:modbus_rtu_opc_server"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "3921",
+	"pname": "Modbus RTU OPC Server",
+	"pcpe": "cpe:/a:advantech:modbus_rtu_opc_server"
 }

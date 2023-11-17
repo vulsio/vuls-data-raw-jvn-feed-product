@@ -1,8 +1,8 @@
 {
-  "vid": "6042",
-  "vname": "numark",
-  "vcpe": "cpe:/:numark",
-  "pid": "12160",
-  "pname": "cue",
-  "pcpe": "cpe:/a:numark:cue"
+	"vid": "6042",
+	"vname": "numark",
+	"vcpe": "cpe:/:numark",
+	"pid": "12160",
+	"pname": "cue",
+	"pcpe": "cpe:/a:numark:cue"
 }

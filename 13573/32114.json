@@ -1,8 +1,8 @@
 {
-  "vid": "13573",
-  "vname": "Wpscoop",
-  "vcpe": "cpe:/:wpscoop",
-  "pid": "32114",
-  "pname": "ImageInject",
-  "pcpe": "cpe:/a:wpscoop:imageinject"
+	"vid": "13573",
+	"vname": "Wpscoop",
+	"vcpe": "cpe:/:wpscoop",
+	"pid": "32114",
+	"pname": "ImageInject",
+	"pcpe": "cpe:/a:wpscoop:imageinject"
 }

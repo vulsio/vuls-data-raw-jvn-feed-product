@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "61758",
-  "pname": "ryzen 7 5825u ファームウェア",
-  "pcpe": "cpe:/o:amd:ryzen_7_5825u_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "61758",
+	"pname": "ryzen 7 5825u ファームウェア",
+	"pcpe": "cpe:/o:amd:ryzen_7_5825u_firmware"
 }

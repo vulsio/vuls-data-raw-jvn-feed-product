@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "13424",
-  "pname": "IBM Power 5",
-  "pcpe": "cpe:/h:ibm:power_5"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "13424",
+	"pname": "IBM Power 5",
+	"pcpe": "cpe:/h:ibm:power_5"
 }

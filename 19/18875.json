@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18875",
-  "pname": "Cisco Scientific Atlanta DPC3000/EPC3000 Cable Modem",
-  "pcpe": "cpe:/h:cisco:scientific_atlanta_dpc3000%2fepc3000"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18875",
+	"pname": "Cisco Scientific Atlanta DPC3000/EPC3000 Cable Modem",
+	"pcpe": "cpe:/h:cisco:scientific_atlanta_dpc3000%2fepc3000"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "2046",
-  "pname": "Logical Domain Manager",
-  "pcpe": "cpe:/a:sun:logical_domain_manager"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "2046",
+	"pname": "Logical Domain Manager",
+	"pcpe": "cpe:/a:sun:logical_domain_manager"
 }

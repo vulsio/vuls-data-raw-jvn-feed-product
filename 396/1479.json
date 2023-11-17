@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "1479",
-  "pname": "Novell Linux Desktop",
-  "pcpe": "cpe:/o:suse:linux_desktop"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "1479",
+	"pname": "Novell Linux Desktop",
+	"pcpe": "cpe:/o:suse:linux_desktop"
 }

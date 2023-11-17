@@ -1,8 +1,8 @@
 {
-  "vid": "11451",
-  "vname": "JetBrains",
-  "vcpe": "cpe:/:jetbrains",
-  "pid": "51703",
-  "pname": "RubyMine",
-  "pcpe": "cpe:/a:jetbrains:rubymine"
+	"vid": "11451",
+	"vname": "JetBrains",
+	"vcpe": "cpe:/:jetbrains",
+	"pid": "51703",
+	"pname": "RubyMine",
+	"pcpe": "cpe:/a:jetbrains:rubymine"
 }

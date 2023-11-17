@@ -1,8 +1,8 @@
 {
-  "vid": "1818",
-  "vname": "Cloudera, Inc.",
-  "vcpe": "cpe:/:cloudera",
-  "pid": "28474",
-  "pname": "Key Trustee Server",
-  "pcpe": "cpe:/a:cloudera:key_trustee_server"
+	"vid": "1818",
+	"vname": "Cloudera, Inc.",
+	"vcpe": "cpe:/:cloudera",
+	"pid": "28474",
+	"pname": "Key Trustee Server",
+	"pcpe": "cpe:/a:cloudera:key_trustee_server"
 }

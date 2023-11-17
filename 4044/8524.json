@@ -1,8 +1,8 @@
 {
-  "vid": "4044",
-  "vname": "graviton-mediatech",
-  "vcpe": "cpe:/:graviton-mediatech",
-  "pid": "8524",
-  "pname": "visitor logger",
-  "pcpe": "cpe:/a:graviton-mediatech:visitor_logger"
+	"vid": "4044",
+	"vname": "graviton-mediatech",
+	"vcpe": "cpe:/:graviton-mediatech",
+	"pid": "8524",
+	"pname": "visitor logger",
+	"pcpe": "cpe:/a:graviton-mediatech:visitor_logger"
 }

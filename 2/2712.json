@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "2712",
-  "pname": "Microsoft 悪意のあるソフトウェアの削除ツール",
-  "pcpe": "cpe:/a:microsoft:malicious_software_removal_tool"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "2712",
+	"pname": "Microsoft 悪意のあるソフトウェアの削除ツール",
+	"pcpe": "cpe:/a:microsoft:malicious_software_removal_tool"
 }

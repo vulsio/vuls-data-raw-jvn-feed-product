@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58957",
-  "pname": "l3-15itl6 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:l3-15itl6_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58957",
+	"pname": "l3-15itl6 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:l3-15itl6_firmware"
 }

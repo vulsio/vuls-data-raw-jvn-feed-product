@@ -1,8 +1,8 @@
 {
-  "vid": "21272",
-  "vname": "HejHome",
-  "vcpe": "cpe:/:hej",
-  "pid": "54601",
-  "pname": "GKW-IC052 ファームウェア",
-  "pcpe": "cpe:/o:hej:hejhome_gkw-ic052_firmware"
+	"vid": "21272",
+	"vname": "HejHome",
+	"vcpe": "cpe:/:hej",
+	"pid": "54601",
+	"pname": "GKW-IC052 ファームウェア",
+	"pcpe": "cpe:/o:hej:hejhome_gkw-ic052_firmware"
 }

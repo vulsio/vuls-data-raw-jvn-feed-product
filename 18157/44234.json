@@ -1,8 +1,8 @@
 {
-  "vid": "18157",
-  "vname": "CommuniLink",
-  "vcpe": "cpe:/:communilink",
-  "pid": "44234",
-  "pname": "CLink Office",
-  "pcpe": "cpe:/a:communilink:clink_office"
+	"vid": "18157",
+	"vname": "CommuniLink",
+	"vcpe": "cpe:/:communilink",
+	"pid": "44234",
+	"pname": "CLink Office",
+	"pcpe": "cpe:/a:communilink:clink_office"
 }

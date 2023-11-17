@@ -1,8 +1,8 @@
 {
-  "vid": "9888",
-  "vname": "Kaseya",
-  "vcpe": "cpe:/:kaseya",
-  "pid": "43488",
-  "pname": "Traverse",
-  "pcpe": "cpe:/a:kaseya:traverse"
+	"vid": "9888",
+	"vname": "Kaseya",
+	"vcpe": "cpe:/:kaseya",
+	"pid": "43488",
+	"pname": "Traverse",
+	"pcpe": "cpe:/a:kaseya:traverse"
 }

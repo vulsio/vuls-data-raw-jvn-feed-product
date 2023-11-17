@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "35647",
-  "pname": "USG5150BSR ファームウェア",
-  "pcpe": "cpe:/o:huawei:usg5150bsr_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "35647",
+	"pname": "USG5150BSR ファームウェア",
+	"pcpe": "cpe:/o:huawei:usg5150bsr_firmware"
 }

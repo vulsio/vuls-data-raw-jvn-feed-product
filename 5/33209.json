@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33209",
-  "pname": "SDM660 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sdm660_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33209",
+	"pname": "SDM660 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sdm660_firmware"
 }

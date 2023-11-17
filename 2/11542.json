@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "11542",
-  "pname": "windows virtual pc",
-  "pcpe": "cpe:/a:microsoft:windows_virtual_pc"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "11542",
+	"pname": "windows virtual pc",
+	"pcpe": "cpe:/a:microsoft:windows_virtual_pc"
 }

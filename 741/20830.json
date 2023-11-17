@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "20830",
-  "pname": "DIR-505L SharePort Mobile Companion ファームウェア",
-  "pcpe": "cpe:/o:dlink:dir-505l_shareport_mobile_companion_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "20830",
+	"pname": "DIR-505L SharePort Mobile Companion ファームウェア",
+	"pcpe": "cpe:/o:dlink:dir-505l_shareport_mobile_companion_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9682",
-  "vname": "Spumko",
-  "vcpe": "cpe:/:spumko_project",
-  "pid": "20145",
-  "pname": "hapi",
-  "pcpe": "cpe:/a:spumko_project:hapi_server_framework"
+	"vid": "9682",
+	"vname": "Spumko",
+	"vcpe": "cpe:/:spumko_project",
+	"pid": "20145",
+	"pname": "hapi",
+	"pcpe": "cpe:/a:spumko_project:hapi_server_framework"
 }

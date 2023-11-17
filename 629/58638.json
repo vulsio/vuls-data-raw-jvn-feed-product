@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "58638",
-  "pname": "mgate mb3170-m-sc ファームウェア",
-  "pcpe": "cpe:/o:moxa:mgate_mb3170-m-sc_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "58638",
+	"pname": "mgate mb3170-m-sc ファームウェア",
+	"pcpe": "cpe:/o:moxa:mgate_mb3170-m-sc_firmware"
 }

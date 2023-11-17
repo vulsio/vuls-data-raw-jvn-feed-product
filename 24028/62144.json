@@ -1,8 +1,8 @@
 {
-  "vid": "24028",
-  "vname": "update by case project",
-  "vcpe": "cpe:/:update_by_case_project",
-  "pid": "62144",
-  "pname": "update by case",
-  "pcpe": "cpe:/a:update_by_case_project:update_by_case"
+	"vid": "24028",
+	"vname": "update by case project",
+	"vcpe": "cpe:/:update_by_case_project",
+	"pid": "62144",
+	"pname": "update by case",
+	"pcpe": "cpe:/a:update_by_case_project:update_by_case"
 }

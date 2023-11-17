@@ -1,8 +1,8 @@
 {
-  "vid": "8858",
-  "vname": "Opus Codec",
-  "vcpe": "cpe:/:opus-codec",
-  "pid": "16948",
-  "pname": "Opus",
-  "pcpe": "cpe:/a:opus-codec:opus"
+	"vid": "8858",
+	"vname": "Opus Codec",
+	"vcpe": "cpe:/:opus-codec",
+	"pid": "16948",
+	"pname": "Opus",
+	"pcpe": "cpe:/a:opus-codec:opus"
 }

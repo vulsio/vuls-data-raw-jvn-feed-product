@@ -1,8 +1,8 @@
 {
-  "vid": "14987",
-  "vname": "Airbridge",
-  "vcpe": "cpe:/:airbridge",
-  "pid": "34903",
-  "pname": "DMP Token",
-  "pcpe": "cpe:/a:airbridge:dmp_token"
+	"vid": "14987",
+	"vname": "Airbridge",
+	"vcpe": "cpe:/:airbridge",
+	"pid": "34903",
+	"pname": "DMP Token",
+	"pcpe": "cpe:/a:airbridge:dmp_token"
 }

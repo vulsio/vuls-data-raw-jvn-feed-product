@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "42421",
-  "pname": "Intel Xeon 9282 ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_platinum_9282_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "42421",
+	"pname": "Intel Xeon 9282 ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_platinum_9282_firmware"
 }

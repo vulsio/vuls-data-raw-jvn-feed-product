@@ -1,8 +1,8 @@
 {
-  "vid": "25",
-  "vname": "SSH コミュニケーションズ・セキュリティ",
-  "vcpe": "cpe:/:ssh",
-  "pid": "165",
-  "pname": "SSH Secure Shell Server",
-  "pcpe": "cpe:/a:ssh:secure_shell_for_servers"
+	"vid": "25",
+	"vname": "SSH コミュニケーションズ・セキュリティ",
+	"vcpe": "cpe:/:ssh",
+	"pid": "165",
+	"pname": "SSH Secure Shell Server",
+	"pcpe": "cpe:/a:ssh:secure_shell_for_servers"
 }

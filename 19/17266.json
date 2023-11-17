@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17266",
-  "pname": "Cisco 887VA サービス統合型ルータ",
-  "pcpe": "cpe:/h:cisco:887va_integrated_services_router"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17266",
+	"pname": "Cisco 887VA サービス統合型ルータ",
+	"pcpe": "cpe:/h:cisco:887va_integrated_services_router"
 }

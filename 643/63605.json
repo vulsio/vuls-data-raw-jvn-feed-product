@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "63605",
-  "pname": "alienware area-51 r4 ファームウェア",
-  "pcpe": "cpe:/o:dell:alienware_area-51_r4_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "63605",
+	"pname": "alienware area-51 r4 ファームウェア",
+	"pcpe": "cpe:/o:dell:alienware_area-51_r4_firmware"
 }

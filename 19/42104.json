@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "42104",
-  "pname": "RV082 Dual WAN VPN ファームウェア",
-  "pcpe": "cpe:/o:cisco:rv082_dual_wan_vpn_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "42104",
+	"pname": "RV082 Dual WAN VPN ファームウェア",
+	"pcpe": "cpe:/o:cisco:rv082_dual_wan_vpn_firmware"
 }

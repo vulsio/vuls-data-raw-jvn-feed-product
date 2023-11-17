@@ -1,8 +1,8 @@
 {
-  "vid": "2076",
-  "vname": "AfterLogic",
-  "vcpe": "cpe:/:afterlogic",
-  "pid": "5591",
-  "pname": "MailBee WebMail Pro",
-  "pcpe": "cpe:/a:afterlogic:mailbee_webmail_pro"
+	"vid": "2076",
+	"vname": "AfterLogic",
+	"vcpe": "cpe:/:afterlogic",
+	"pid": "5591",
+	"pname": "MailBee WebMail Pro",
+	"pcpe": "cpe:/a:afterlogic:mailbee_webmail_pro"
 }

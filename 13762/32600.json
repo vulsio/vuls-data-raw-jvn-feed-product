@@ -1,8 +1,8 @@
 {
-  "vid": "13762",
-  "vname": "Abrt project",
-  "vcpe": "cpe:/:abrt_project",
-  "pid": "32600",
-  "pname": "Abrt",
-  "pcpe": "cpe:/a:abrt_project:abrt"
+	"vid": "13762",
+	"vname": "Abrt project",
+	"vcpe": "cpe:/:abrt_project",
+	"pid": "32600",
+	"pname": "Abrt",
+	"pcpe": "cpe:/a:abrt_project:abrt"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "27496",
-  "pname": "Cisco FireAMP Connector Endpoint ソフトウェア",
-  "pcpe": "cpe:/a:cisco:fireamp_connector_endpoint_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "27496",
+	"pname": "Cisco FireAMP Connector Endpoint ソフトウェア",
+	"pcpe": "cpe:/a:cisco:fireamp_connector_endpoint_software"
 }

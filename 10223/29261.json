@@ -1,8 +1,8 @@
 {
-  "vid": "10223",
-  "vname": "Web-Dorado",
-  "vcpe": "cpe:/:web-dorado",
-  "pid": "29261",
-  "pname": "Event Calendar WD",
-  "pcpe": "cpe:/a:web-dorado:event_calendar_wd"
+	"vid": "10223",
+	"vname": "Web-Dorado",
+	"vcpe": "cpe:/:web-dorado",
+	"pid": "29261",
+	"pname": "Event Calendar WD",
+	"pcpe": "cpe:/a:web-dorado:event_calendar_wd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "372",
-  "vname": "Nagios Enterprises, LLC",
-  "vcpe": "cpe:/:nagios",
-  "pid": "1361",
-  "pname": "Nagios",
-  "pcpe": "cpe:/a:nagios:nagios"
+	"vid": "372",
+	"vname": "Nagios Enterprises, LLC",
+	"vcpe": "cpe:/:nagios",
+	"pid": "1361",
+	"pname": "Nagios",
+	"pcpe": "cpe:/a:nagios:nagios"
 }

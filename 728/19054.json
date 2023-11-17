@@ -1,8 +1,8 @@
 {
-  "vid": "728",
-  "vname": "TYPO3 Association",
-  "vcpe": "cpe:/:typo3",
-  "pid": "19054",
-  "pname": "TYPO3 Flow",
-  "pcpe": "cpe:/a:typo3:flow"
+	"vid": "728",
+	"vname": "TYPO3 Association",
+	"vcpe": "cpe:/:typo3",
+	"pid": "19054",
+	"pname": "TYPO3 Flow",
+	"pcpe": "cpe:/a:typo3:flow"
 }

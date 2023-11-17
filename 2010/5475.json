@@ -1,8 +1,8 @@
 {
-  "vid": "2010",
-  "vname": "activecampaign",
-  "vcpe": "cpe:/:activecampaign",
-  "pid": "5475",
-  "pname": "knowledgebuilder",
-  "pcpe": "cpe:/a:activecampaign:knowledgebuilder"
+	"vid": "2010",
+	"vname": "activecampaign",
+	"vcpe": "cpe:/:activecampaign",
+	"pid": "5475",
+	"pname": "knowledgebuilder",
+	"pcpe": "cpe:/a:activecampaign:knowledgebuilder"
 }

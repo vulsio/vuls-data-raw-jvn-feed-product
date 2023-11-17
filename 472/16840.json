@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "16840",
-  "pname": "ControlLogix コントローラ",
-  "pcpe": "cpe:/a:rockwellautomation:controllogix_controllers"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "16840",
+	"pname": "ControlLogix コントローラ",
+	"pcpe": "cpe:/a:rockwellautomation:controllogix_controllers"
 }

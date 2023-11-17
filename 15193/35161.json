@@ -1,8 +1,8 @@
 {
-  "vid": "15193",
-  "vname": "ruby-grape",
-  "vcpe": "cpe:/:ruby-grape",
-  "pid": "35161",
-  "pname": "grape",
-  "pcpe": "cpe:/a:ruby-grape:grape"
+	"vid": "15193",
+	"vname": "ruby-grape",
+	"vcpe": "cpe:/:ruby-grape",
+	"pid": "35161",
+	"pname": "grape",
+	"pcpe": "cpe:/a:ruby-grape:grape"
 }

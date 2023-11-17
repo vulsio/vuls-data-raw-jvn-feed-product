@@ -1,8 +1,8 @@
 {
-  "vid": "2611",
-  "vname": "Bouncy Castle",
-  "vcpe": "cpe:/:bouncycastle",
-  "pid": "6406",
-  "pname": "Bouncy Castle Java Cryptography API",
-  "pcpe": "cpe:/a:bouncycastle:legion-of-the-bouncy-castle-java-crytography-api"
+	"vid": "2611",
+	"vname": "Bouncy Castle",
+	"vcpe": "cpe:/:bouncycastle",
+	"pid": "6406",
+	"pname": "Bouncy Castle Java Cryptography API",
+	"pcpe": "cpe:/a:bouncycastle:legion-of-the-bouncy-castle-java-crytography-api"
 }

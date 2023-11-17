@@ -1,8 +1,8 @@
 {
-  "vid": "2384",
-  "vname": "オートデスク株式会社",
-  "vcpe": "cpe:/:autodesk",
-  "pid": "17811",
-  "pname": "Autodesk AutoCAD Utility Design",
-  "pcpe": "cpe:/a:autodesk:autocad_utility_design"
+	"vid": "2384",
+	"vname": "オートデスク株式会社",
+	"vcpe": "cpe:/:autodesk",
+	"pid": "17811",
+	"pname": "Autodesk AutoCAD Utility Design",
+	"pcpe": "cpe:/a:autodesk:autocad_utility_design"
 }

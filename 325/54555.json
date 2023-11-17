@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "54555",
-  "pname": "IdeaCentre 5-14IMB05 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideacentre_5-14imb05_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "54555",
+	"pname": "IdeaCentre 5-14IMB05 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideacentre_5-14imb05_firmware"
 }

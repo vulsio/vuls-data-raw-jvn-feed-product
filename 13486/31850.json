@@ -1,8 +1,8 @@
 {
-  "vid": "13486",
-  "vname": "Clockwork",
-  "vcpe": "cpe:/:clockworksms",
-  "pid": "31850",
-  "pname": "Booking Calendar - Clockwork SMS",
-  "pcpe": "cpe:/a:clockworksms:booking_calendar"
+	"vid": "13486",
+	"vname": "Clockwork",
+	"vcpe": "cpe:/:clockworksms",
+	"pid": "31850",
+	"pname": "Booking Calendar - Clockwork SMS",
+	"pcpe": "cpe:/a:clockworksms:booking_calendar"
 }

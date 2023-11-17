@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "36184",
-  "pname": "Dell EMC VPLEX GeoSynchrony",
-  "pcpe": "cpe:/a:dell:emc_vplex_geosynchrony"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "36184",
+	"pname": "Dell EMC VPLEX GeoSynchrony",
+	"pcpe": "cpe:/a:dell:emc_vplex_geosynchrony"
 }

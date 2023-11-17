@@ -1,8 +1,8 @@
 {
-  "vid": "13030",
-  "vname": "Aptus",
-  "vcpe": "cpe:/:aptus",
-  "pid": "30196",
-  "pname": "Styra Porttelefonkort 4400 ファームウェア",
-  "pcpe": "cpe:/o:aptus:styra_porttelefonkort_4400_firmware"
+	"vid": "13030",
+	"vname": "Aptus",
+	"vcpe": "cpe:/:aptus",
+	"pid": "30196",
+	"pname": "Styra Porttelefonkort 4400 ファームウェア",
+	"pcpe": "cpe:/o:aptus:styra_porttelefonkort_4400_firmware"
 }

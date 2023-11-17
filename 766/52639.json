@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "52639",
-  "pname": "Modicon M340 BMXP342020",
-  "pcpe": "cpe:/o:schneider_electric:modicon_m340_bmxp342020"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "52639",
+	"pname": "Modicon M340 BMXP342020",
+	"pcpe": "cpe:/o:schneider_electric:modicon_m340_bmxp342020"
 }

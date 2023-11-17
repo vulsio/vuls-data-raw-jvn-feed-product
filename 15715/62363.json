@@ -1,8 +1,8 @@
 {
-  "vid": "15715",
-  "vname": "TOTOLINK",
-  "vcpe": "cpe:/:totolink",
-  "pid": "62363",
-  "pname": "n350rt ファームウェア",
-  "pcpe": "cpe:/o:totolink:n350rt_firmware"
+	"vid": "15715",
+	"vname": "TOTOLINK",
+	"vcpe": "cpe:/:totolink",
+	"pid": "62363",
+	"pname": "n350rt ファームウェア",
+	"pcpe": "cpe:/o:totolink:n350rt_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8789",
-  "vname": "Vonage",
-  "vcpe": "cpe:/:vonage",
-  "pid": "16667",
-  "pname": "motorola phone adapter vt2142-vd",
-  "pcpe": "cpe:/h:vonage:motorola_phone_adapter_vt2142-vd"
+	"vid": "8789",
+	"vname": "Vonage",
+	"vcpe": "cpe:/:vonage",
+	"pid": "16667",
+	"pname": "motorola phone adapter vt2142-vd",
+	"pcpe": "cpe:/h:vonage:motorola_phone_adapter_vt2142-vd"
 }

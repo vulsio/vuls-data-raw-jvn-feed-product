@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "1951",
-  "pname": "nautilus-python",
-  "pcpe": "cpe:/a:gnome:nautilus-python"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "1951",
+	"pname": "nautilus-python",
+	"pcpe": "cpe:/a:gnome:nautilus-python"
 }

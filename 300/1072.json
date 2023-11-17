@@ -1,8 +1,8 @@
 {
-  "vid": "300",
-  "vname": "Todd C. Miller",
-  "vcpe": "cpe:/:todd_miller",
-  "pid": "1072",
-  "pname": "Sudo",
-  "pcpe": "cpe:/a:todd_miller:sudo"
+	"vid": "300",
+	"vname": "Todd C. Miller",
+	"vcpe": "cpe:/:todd_miller",
+	"pid": "1072",
+	"pname": "Sudo",
+	"pcpe": "cpe:/a:todd_miller:sudo"
 }

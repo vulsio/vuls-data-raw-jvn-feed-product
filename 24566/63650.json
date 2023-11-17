@@ -1,8 +1,8 @@
 {
-  "vid": "24566",
-  "vname": "ikea",
-  "vcpe": "cpe:/:ikea",
-  "pid": "63650",
-  "pname": "tradfri led1732g11 ファームウェア",
-  "pcpe": "cpe:/o:ikea:tradfri_led1732g11_firmware"
+	"vid": "24566",
+	"vname": "ikea",
+	"vcpe": "cpe:/:ikea",
+	"pid": "63650",
+	"pname": "tradfri led1732g11 ファームウェア",
+	"pcpe": "cpe:/o:ikea:tradfri_led1732g11_firmware"
 }

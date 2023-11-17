@@ -1,8 +1,8 @@
 {
-  "vid": "15781",
-  "vname": "neo4j-contrib",
-  "vcpe": "cpe:/:neo4j-contrib",
-  "pid": "36773",
-  "pname": "neo4j-apoc-procedures",
-  "pcpe": "cpe:/a:neo4j-contrib:neo4j-apoc-procedures"
+	"vid": "15781",
+	"vname": "neo4j-contrib",
+	"vcpe": "cpe:/:neo4j-contrib",
+	"pid": "36773",
+	"pname": "neo4j-apoc-procedures",
+	"pcpe": "cpe:/a:neo4j-contrib:neo4j-apoc-procedures"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3017",
-  "vname": "cs team",
-  "vcpe": "cpe:/:cs_team",
-  "pid": "7056",
-  "pname": "counter strike portal",
-  "pcpe": "cpe:/a:cs_team:counter_strike_portal"
+	"vid": "3017",
+	"vname": "cs team",
+	"vcpe": "cpe:/:cs_team",
+	"pid": "7056",
+	"pname": "counter strike portal",
+	"pcpe": "cpe:/a:cs_team:counter_strike_portal"
 }

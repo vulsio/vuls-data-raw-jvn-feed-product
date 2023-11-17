@@ -1,8 +1,8 @@
 {
-  "vid": "12929",
-  "vname": "nss_compat_ossl project",
-  "vcpe": "cpe:/:nss_compat_ossl_project",
-  "pid": "29884",
-  "pname": "nss_compat_ossl",
-  "pcpe": "cpe:/a:nss_compat_ossl_project:nss_compat_ossl"
+	"vid": "12929",
+	"vname": "nss_compat_ossl project",
+	"vcpe": "cpe:/:nss_compat_ossl_project",
+	"pid": "29884",
+	"pname": "nss_compat_ossl",
+	"pcpe": "cpe:/a:nss_compat_ossl_project:nss_compat_ossl"
 }

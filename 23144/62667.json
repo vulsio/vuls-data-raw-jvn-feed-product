@@ -1,8 +1,8 @@
 {
-  "vid": "23144",
-  "vname": "withsecure",
-  "vcpe": "cpe:/:withsecure",
-  "pid": "62667",
-  "pname": "elements endpoint protection",
-  "pcpe": "cpe:/a:withsecure:elements_endpoint_protection"
+	"vid": "23144",
+	"vname": "withsecure",
+	"vcpe": "cpe:/:withsecure",
+	"pid": "62667",
+	"pname": "elements endpoint protection",
+	"pcpe": "cpe:/a:withsecure:elements_endpoint_protection"
 }

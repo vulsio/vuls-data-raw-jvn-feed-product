@@ -1,8 +1,8 @@
 {
-  "vid": "20024",
-  "vname": "HyperKitty project",
-  "vcpe": "cpe:/:hyperkitty_project",
-  "pid": "50721",
-  "pname": "HyperKitty",
-  "pcpe": "cpe:/a:hyperkitty_project:hyperkitty"
+	"vid": "20024",
+	"vname": "HyperKitty project",
+	"vcpe": "cpe:/:hyperkitty_project",
+	"pid": "50721",
+	"pname": "HyperKitty",
+	"pcpe": "cpe:/a:hyperkitty_project:hyperkitty"
 }

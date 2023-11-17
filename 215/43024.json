@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "43024",
-  "pname": "UC APL",
-  "pcpe": "cpe:/a:polycom:uc_apl"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "43024",
+	"pname": "UC APL",
+	"pcpe": "cpe:/a:polycom:uc_apl"
 }

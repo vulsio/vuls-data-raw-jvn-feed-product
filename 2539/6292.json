@@ -1,8 +1,8 @@
 {
-  "vid": "2539",
-  "vname": "bitmixsoft",
-  "vcpe": "cpe:/:bitmixsoft",
-  "pid": "6292",
-  "pname": "php-jokesite",
-  "pcpe": "cpe:/a:bitmixsoft:php-jokesite"
+	"vid": "2539",
+	"vname": "bitmixsoft",
+	"vcpe": "cpe:/:bitmixsoft",
+	"pid": "6292",
+	"pname": "php-jokesite",
+	"pcpe": "cpe:/a:bitmixsoft:php-jokesite"
 }

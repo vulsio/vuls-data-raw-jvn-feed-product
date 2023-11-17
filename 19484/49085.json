@@ -1,8 +1,8 @@
 {
-  "vid": "19484",
-  "vname": "alpm-rs project",
-  "vcpe": "cpe:/:alpm-rs_product",
-  "pid": "49085",
-  "pname": "alpm-rs",
-  "pcpe": "cpe:/a:alpm-rs_product:alpm-rs"
+	"vid": "19484",
+	"vname": "alpm-rs project",
+	"vcpe": "cpe:/:alpm-rs_product",
+	"pid": "49085",
+	"pname": "alpm-rs",
+	"pcpe": "cpe:/a:alpm-rs_product:alpm-rs"
 }

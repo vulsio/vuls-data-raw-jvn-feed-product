@@ -1,8 +1,8 @@
 {
-  "vid": "24193",
-  "vname": "python-scciclient project",
-  "vcpe": "cpe:/:python-scciclient_project",
-  "pid": "62589",
-  "pname": "python-scciclient",
-  "pcpe": "cpe:/a:python-scciclient_project:python-scciclient"
+	"vid": "24193",
+	"vname": "python-scciclient project",
+	"vcpe": "cpe:/:python-scciclient_project",
+	"pid": "62589",
+	"pname": "python-scciclient",
+	"pcpe": "cpe:/a:python-scciclient_project:python-scciclient"
 }

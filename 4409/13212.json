@@ -1,8 +1,8 @@
 {
-  "vid": "4409",
-  "vname": "Commerce Guys",
-  "vcpe": "cpe:/:commerceguys",
-  "pid": "13212",
-  "pname": "Drupal Commerce",
-  "pcpe": "cpe:/a:commerceguys:commerce"
+	"vid": "4409",
+	"vname": "Commerce Guys",
+	"vcpe": "cpe:/:commerceguys",
+	"pid": "13212",
+	"pname": "Drupal Commerce",
+	"pcpe": "cpe:/a:commerceguys:commerce"
 }

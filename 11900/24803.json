@@ -1,8 +1,8 @@
 {
-  "vid": "11900",
-  "vname": "Mindbite",
-  "vcpe": "cpe:/:mindbite",
-  "pid": "24803",
-  "pname": "SiteFactory CMS",
-  "pcpe": "cpe:/a:mindbite:sitefactory_cms"
+	"vid": "11900",
+	"vname": "Mindbite",
+	"vcpe": "cpe:/:mindbite",
+	"pid": "24803",
+	"pname": "SiteFactory CMS",
+	"pcpe": "cpe:/a:mindbite:sitefactory_cms"
 }

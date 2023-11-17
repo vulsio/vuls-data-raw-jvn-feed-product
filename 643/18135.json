@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "18135",
-  "pname": "Latitude D",
-  "pcpe": "cpe:/h:dell:latitude_d"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "18135",
+	"pname": "Latitude D",
+	"pcpe": "cpe:/h:dell:latitude_d"
 }

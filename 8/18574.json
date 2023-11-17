@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "18574",
-  "pname": "Apache Camel",
-  "pcpe": "cpe:/a:apache:camel"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "18574",
+	"pname": "Apache Camel",
+	"pcpe": "cpe:/a:apache:camel"
 }

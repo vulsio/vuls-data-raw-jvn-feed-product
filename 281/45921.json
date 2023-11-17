@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "45921",
-  "pname": "Apport",
-  "pcpe": "cpe:/a:canonical:apport"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "45921",
+	"pname": "Apport",
+	"pcpe": "cpe:/a:canonical:apport"
 }

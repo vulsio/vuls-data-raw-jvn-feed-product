@@ -1,8 +1,8 @@
 {
-  "vid": "4402",
-  "vname": "oVirt",
-  "vcpe": "cpe:/:ovirt",
-  "pid": "34617",
-  "pname": "oVirt Ansible roles",
-  "pcpe": "cpe:/a:ovirt:ovirt-ansible-roles"
+	"vid": "4402",
+	"vname": "oVirt",
+	"vcpe": "cpe:/:ovirt",
+	"pid": "34617",
+	"pname": "oVirt Ansible roles",
+	"pcpe": "cpe:/a:ovirt:ovirt-ansible-roles"
 }

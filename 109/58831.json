@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "58831",
-  "pname": "Si-R 90brin",
-  "pcpe": "cpe:/a:fujitsu:si-r_90brin"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "58831",
+	"pname": "Si-R 90brin",
+	"pcpe": "cpe:/a:fujitsu:si-r_90brin"
 }

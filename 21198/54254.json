@@ -1,8 +1,8 @@
 {
-  "vid": "21198",
-  "vname": "GMP",
-  "vcpe": "cpe:/:gmplib",
-  "pid": "54254",
-  "pname": "GMP",
-  "pcpe": "cpe:/a:gmplib:gmp"
+	"vid": "21198",
+	"vname": "GMP",
+	"vcpe": "cpe:/:gmplib",
+	"pid": "54254",
+	"pname": "GMP",
+	"pcpe": "cpe:/a:gmplib:gmp"
 }

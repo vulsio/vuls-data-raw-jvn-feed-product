@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "41318",
-  "pname": "Wild Web Developer",
-  "pcpe": "cpe:/a:eclipse:wild_web_developer"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "41318",
+	"pname": "Wild Web Developer",
+	"pcpe": "cpe:/a:eclipse:wild_web_developer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "367",
-  "vname": "ICU project",
-  "vcpe": "cpe:/:icu_project",
-  "pid": "1310",
-  "pname": "ICU",
-  "pcpe": "cpe:/a:icu_project:international_components_for_unicode"
+	"vid": "367",
+	"vname": "ICU project",
+	"vcpe": "cpe:/:icu_project",
+	"pid": "1310",
+	"pname": "ICU",
+	"pcpe": "cpe:/a:icu_project:international_components_for_unicode"
 }

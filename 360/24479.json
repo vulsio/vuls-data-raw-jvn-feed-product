@@ -1,8 +1,8 @@
 {
-  "vid": "360",
-  "vname": "Ruby on Rails project",
-  "vcpe": "cpe:/:rubyonrails",
-  "pid": "24479",
-  "pname": "Web Console",
-  "pcpe": "cpe:/a:rubyonrails:web_console"
+	"vid": "360",
+	"vname": "Ruby on Rails project",
+	"vcpe": "cpe:/:rubyonrails",
+	"pid": "24479",
+	"pname": "Web Console",
+	"pcpe": "cpe:/a:rubyonrails:web_console"
 }

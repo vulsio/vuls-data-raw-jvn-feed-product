@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "55168",
-  "pname": "NetApp HCI Baseboard Management Controller",
-  "pcpe": "cpe:/a:netapp:hci_baseboard_management_controller"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "55168",
+	"pname": "NetApp HCI Baseboard Management Controller",
+	"pcpe": "cpe:/a:netapp:hci_baseboard_management_controller"
 }

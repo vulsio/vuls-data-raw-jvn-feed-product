@@ -1,8 +1,8 @@
 {
-  "vid": "20756",
-  "vname": "K-System",
-  "vcpe": "cpe:/:ksystem",
-  "pid": "52940",
-  "pname": "K-System WellComm",
-  "pcpe": "cpe:/a:ksystem:k-system_wellcomm"
+	"vid": "20756",
+	"vname": "K-System",
+	"vcpe": "cpe:/:ksystem",
+	"pid": "52940",
+	"pname": "K-System WellComm",
+	"pcpe": "cpe:/a:ksystem:k-system_wellcomm"
 }

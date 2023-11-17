@@ -1,8 +1,8 @@
 {
-  "vid": "18819",
-  "vname": "日立エナジー (旧 日立ABBパワーグリッド)",
-  "vcpe": "cpe:/:hitachi_abb_power_grids",
-  "pid": "52327",
-  "pname": "Retail Operations",
-  "pcpe": "cpe:/a:hitachi_abb_power_grids:retail_operations"
+	"vid": "18819",
+	"vname": "日立エナジー (旧 日立ABBパワーグリッド)",
+	"vcpe": "cpe:/:hitachi_abb_power_grids",
+	"pid": "52327",
+	"pname": "Retail Operations",
+	"pcpe": "cpe:/a:hitachi_abb_power_grids:retail_operations"
 }

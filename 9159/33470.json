@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "33470",
-  "pname": "Philips DoseWise",
-  "pcpe": "cpe:/a:philips:dosewise"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "33470",
+	"pname": "Philips DoseWise",
+	"pcpe": "cpe:/a:philips:dosewise"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17458",
-  "vname": "svg-sanitizer project",
-  "vcpe": "cpe:/:svg-sanitizer_project",
-  "pid": "41593",
-  "pname": "svg-sanitizer",
-  "pcpe": "cpe:/a:svg-sanitizer_project:svg-sanitizer"
+	"vid": "17458",
+	"vname": "svg-sanitizer project",
+	"vcpe": "cpe:/:svg-sanitizer_project",
+	"pid": "41593",
+	"pname": "svg-sanitizer",
+	"pcpe": "cpe:/a:svg-sanitizer_project:svg-sanitizer"
 }

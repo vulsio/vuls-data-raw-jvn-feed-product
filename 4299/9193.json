@@ -1,8 +1,8 @@
 {
-  "vid": "4299",
-  "vname": "BreakingPoint Systems",
-  "vcpe": "cpe:/:breakingpointsystems",
-  "pid": "9193",
-  "pname": "BreakingPoint Storm CTM",
-  "pcpe": "cpe:/o:breakingpointsystems:breakingpoint_storm_appliance_ctm"
+	"vid": "4299",
+	"vname": "BreakingPoint Systems",
+	"vcpe": "cpe:/:breakingpointsystems",
+	"pid": "9193",
+	"pname": "BreakingPoint Storm CTM",
+	"pcpe": "cpe:/o:breakingpointsystems:breakingpoint_storm_appliance_ctm"
 }

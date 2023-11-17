@@ -1,8 +1,8 @@
 {
-  "vid": "12005",
-  "vname": "Arista Networks, Inc.",
-  "vcpe": "cpe:/:arista",
-  "pid": "50487",
-  "pname": "C-260 ファームウェア",
-  "pcpe": "cpe:/o:arista:c-260_firmware"
+	"vid": "12005",
+	"vname": "Arista Networks, Inc.",
+	"vcpe": "cpe:/:arista",
+	"pid": "50487",
+	"pname": "C-260 ファームウェア",
+	"pcpe": "cpe:/o:arista:c-260_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "35778",
-  "pname": "T8X44 ファームウェア",
-  "pcpe": "cpe:/o:hp:t8x44_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "35778",
+	"pname": "T8X44 ファームウェア",
+	"pcpe": "cpe:/o:hp:t8x44_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "13075",
-  "pname": "HP IBRIX X9320",
-  "pcpe": "cpe:/h:hp:ibrix_x9320"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "13075",
+	"pname": "HP IBRIX X9320",
+	"pcpe": "cpe:/h:hp:ibrix_x9320"
 }

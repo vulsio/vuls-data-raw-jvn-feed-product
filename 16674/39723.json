@@ -1,8 +1,8 @@
 {
-  "vid": "16674",
-  "vname": "One Identity",
-  "vcpe": "cpe:/:oneidentity",
-  "pid": "39723",
-  "pname": "Cloud Access Manager",
-  "pcpe": "cpe:/a:oneidentity:cloud_access_manager"
+	"vid": "16674",
+	"vname": "One Identity",
+	"vcpe": "cpe:/:oneidentity",
+	"pid": "39723",
+	"pname": "Cloud Access Manager",
+	"pcpe": "cpe:/a:oneidentity:cloud_access_manager"
 }

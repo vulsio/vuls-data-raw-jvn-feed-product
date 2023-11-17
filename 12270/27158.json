@@ -1,8 +1,8 @@
 {
-  "vid": "12270",
-  "vname": "Git for Windows project",
-  "vcpe": "cpe:/:git_for_windows_project",
-  "pid": "27158",
-  "pname": "Git for Windows",
-  "pcpe": "cpe:/a:git_for_windows_project:git_for_windows"
+	"vid": "12270",
+	"vname": "Git for Windows project",
+	"vcpe": "cpe:/:git_for_windows_project",
+	"pid": "27158",
+	"pname": "Git for Windows",
+	"pcpe": "cpe:/a:git_for_windows_project:git_for_windows"
 }

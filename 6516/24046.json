@@ -1,8 +1,8 @@
 {
-  "vid": "6516",
-  "vname": "TheCartPress",
-  "vcpe": "cpe:/:thecartpress",
-  "pid": "24046",
-  "pname": "TheCartPress eCommerce Shopping Cart",
-  "pcpe": "cpe:/a:thecartpress:thecartpress_ecommerce_shopping_cart"
+	"vid": "6516",
+	"vname": "TheCartPress",
+	"vcpe": "cpe:/:thecartpress",
+	"pid": "24046",
+	"pname": "TheCartPress eCommerce Shopping Cart",
+	"pcpe": "cpe:/a:thecartpress:thecartpress_ecommerce_shopping_cart"
 }

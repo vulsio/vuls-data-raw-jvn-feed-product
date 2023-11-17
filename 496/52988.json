@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "52988",
-  "pname": "NGINX App Protect",
-  "pcpe": "cpe:/a:f5:nginx_app_protect"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "52988",
+	"pname": "NGINX App Protect",
+	"pcpe": "cpe:/a:f5:nginx_app_protect"
 }

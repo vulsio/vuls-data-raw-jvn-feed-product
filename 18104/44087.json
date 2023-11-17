@@ -1,8 +1,8 @@
 {
-  "vid": "18104",
-  "vname": "Harris Computer",
-  "vcpe": "cpe:/:harriscomputer",
-  "pid": "44087",
-  "pname": "Ormed MIS",
-  "pcpe": "cpe:/a:harriscomputer:ormed_mis"
+	"vid": "18104",
+	"vname": "Harris Computer",
+	"vcpe": "cpe:/:harriscomputer",
+	"pid": "44087",
+	"pname": "Ormed MIS",
+	"pcpe": "cpe:/a:harriscomputer:ormed_mis"
 }

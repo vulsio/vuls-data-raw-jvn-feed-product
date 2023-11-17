@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "30127",
-  "pname": "Spring Batch Admin",
-  "pcpe": "cpe:/a:greenplum:spring_batch_admin"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "30127",
+	"pname": "Spring Batch Admin",
+	"pcpe": "cpe:/a:greenplum:spring_batch_admin"
 }

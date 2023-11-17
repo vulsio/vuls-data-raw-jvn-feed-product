@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19030",
-  "pname": "Cisco ONS 15454 SDH Multiservice Provisioning Platform",
-  "pcpe": "cpe:/h:cisco:ons_15454_sdh_multiservice_provisioning_platform"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19030",
+	"pname": "Cisco ONS 15454 SDH Multiservice Provisioning Platform",
+	"pcpe": "cpe:/h:cisco:ons_15454_sdh_multiservice_provisioning_platform"
 }

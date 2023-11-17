@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25570",
-  "pname": "JG409A HP MSR3012 AC Router",
-  "pcpe": "cpe:/h:hp:jg409a_hp_msr3012_ac_router"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25570",
+	"pname": "JG409A HP MSR3012 AC Router",
+	"pcpe": "cpe:/h:hp:jg409a_hp_msr3012_ac_router"
 }

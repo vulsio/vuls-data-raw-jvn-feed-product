@@ -1,8 +1,8 @@
 {
-  "vid": "31",
-  "vname": "センドメール社",
-  "vcpe": "cpe:/:sendmail",
-  "pid": "172",
-  "pname": "Sendmail Advanced Message Server",
-  "pcpe": "cpe:/a:sendmail:sendmail_advanced_message_server"
+	"vid": "31",
+	"vname": "センドメール社",
+	"vcpe": "cpe:/:sendmail",
+	"pid": "172",
+	"pname": "Sendmail Advanced Message Server",
+	"pcpe": "cpe:/a:sendmail:sendmail_advanced_message_server"
 }

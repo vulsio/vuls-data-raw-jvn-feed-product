@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "43525",
-  "pname": "Inspiron 14 5490 ファームウェア",
-  "pcpe": "cpe:/o:dell:inspiron_14_5490_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "43525",
+	"pname": "Inspiron 14 5490 ファームウェア",
+	"pcpe": "cpe:/o:dell:inspiron_14_5490_firmware"
 }

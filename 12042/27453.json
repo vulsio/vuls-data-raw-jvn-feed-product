@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "27453",
-  "pname": "StoreEver MSL6480 テープライブラリ",
-  "pcpe": "cpe:/h:hp:storeever_msl6480_tape_library"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "27453",
+	"pname": "StoreEver MSL6480 テープライブラリ",
+	"pcpe": "cpe:/h:hp:storeever_msl6480_tape_library"
 }

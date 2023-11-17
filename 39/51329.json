@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "51329",
-  "pname": "Adobe Premiere Elements",
-  "pcpe": "cpe:/a:adobe:premiere_elements"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "51329",
+	"pname": "Adobe Premiere Elements",
+	"pcpe": "cpe:/a:adobe:premiere_elements"
 }

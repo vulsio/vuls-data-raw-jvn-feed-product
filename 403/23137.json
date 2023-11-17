@@ -1,8 +1,8 @@
 {
-  "vid": "403",
-  "vname": "Redmine",
-  "vcpe": "cpe:/:redmine",
-  "pid": "23137",
-  "pname": "Redmine Git Hosting",
-  "pcpe": "cpe:/a:redmine:redmine_git_hosting_plugin"
+	"vid": "403",
+	"vname": "Redmine",
+	"vcpe": "cpe:/:redmine",
+	"pid": "23137",
+	"pname": "Redmine Git Hosting",
+	"pcpe": "cpe:/a:redmine:redmine_git_hosting_plugin"
 }

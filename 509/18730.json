@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "18730",
-  "pname": "SAP NetWeaver Logviewer",
-  "pcpe": "cpe:/a:sap:netweaver_logviewer"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "18730",
+	"pname": "SAP NetWeaver Logviewer",
+	"pcpe": "cpe:/a:sap:netweaver_logviewer"
 }

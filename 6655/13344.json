@@ -1,8 +1,8 @@
 {
-  "vid": "6655",
-  "vname": "GEOPAINTING",
-  "vcpe": "cpe:/:geopainting",
-  "pid": "13344",
-  "pname": "GPSMapEdit",
-  "pcpe": "cpe:/a:geopainting:gpsmapedit"
+	"vid": "6655",
+	"vname": "GEOPAINTING",
+	"vcpe": "cpe:/:geopainting",
+	"pid": "13344",
+	"pname": "GPSMapEdit",
+	"pcpe": "cpe:/a:geopainting:gpsmapedit"
 }

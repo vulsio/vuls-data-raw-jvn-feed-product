@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "47887",
-  "pname": "Avaya Aura System Manager",
-  "pcpe": "cpe:/a:avaya:aura_system_manager"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "47887",
+	"pname": "Avaya Aura System Manager",
+	"pcpe": "cpe:/a:avaya:aura_system_manager"
 }

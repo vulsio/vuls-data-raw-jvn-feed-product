@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19216",
-  "pname": "Cisco TelePresence ISDN Gateway ソフトウェア",
-  "pcpe": "cpe:/a:cisco:telepresence_isdn_gateway_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19216",
+	"pname": "Cisco TelePresence ISDN Gateway ソフトウェア",
+	"pcpe": "cpe:/a:cisco:telepresence_isdn_gateway_software"
 }

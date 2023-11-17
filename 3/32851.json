@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "32851",
-  "pname": "HornetQ",
-  "pcpe": "cpe:/a:redhat:hornetq"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "32851",
+	"pname": "HornetQ",
+	"pcpe": "cpe:/a:redhat:hornetq"
 }

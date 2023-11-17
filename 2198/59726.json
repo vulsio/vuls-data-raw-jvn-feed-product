@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "59726",
-  "pname": "ryzen 5950x ファームウェア",
-  "pcpe": "cpe:/o:amd:ryzen_5950x_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "59726",
+	"pname": "ryzen 5950x ファームウェア",
+	"pcpe": "cpe:/o:amd:ryzen_5950x_firmware"
 }

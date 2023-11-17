@@ -1,8 +1,8 @@
 {
-  "vid": "19391",
-  "vname": "OpenSlides",
-  "vcpe": "cpe:/:openslides",
-  "pid": "48847",
-  "pname": "OpenSlides",
-  "pcpe": "cpe:/a:openslides:openslides"
+	"vid": "19391",
+	"vname": "OpenSlides",
+	"vcpe": "cpe:/:openslides",
+	"pid": "48847",
+	"pname": "OpenSlides",
+	"pcpe": "cpe:/a:openslides:openslides"
 }

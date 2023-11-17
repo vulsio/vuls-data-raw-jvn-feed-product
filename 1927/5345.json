@@ -1,8 +1,8 @@
 {
-  "vid": "1927",
-  "vname": "@mail",
-  "vcpe": "cpe:/:%40mail",
-  "pid": "5345",
-  "pname": "@mail",
-  "pcpe": "cpe:/a:%40mail:%40mail"
+	"vid": "1927",
+	"vname": "@mail",
+	"vcpe": "cpe:/:%40mail",
+	"pid": "5345",
+	"pname": "@mail",
+	"pcpe": "cpe:/a:%40mail:%40mail"
 }

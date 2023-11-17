@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "54868",
-  "pname": "Apache Sling Commons Messaging Mail",
-  "pcpe": "cpe:/a:apache:sling_commons_messaging_mai"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "54868",
+	"pname": "Apache Sling Commons Messaging Mail",
+	"pcpe": "cpe:/a:apache:sling_commons_messaging_mai"
 }

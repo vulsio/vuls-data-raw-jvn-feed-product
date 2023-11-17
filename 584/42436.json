@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "42436",
-  "pname": "PXC200-E.D ファームウェア",
-  "pcpe": "cpe:/o:siemens:pxc200-e.d_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "42436",
+	"pname": "PXC200-E.D ファームウェア",
+	"pcpe": "cpe:/o:siemens:pxc200-e.d_firmware"
 }

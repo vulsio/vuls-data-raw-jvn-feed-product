@@ -1,8 +1,8 @@
 {
-  "vid": "2766",
-  "vname": "Cerberus, LLC",
-  "vcpe": "cpe:/:cerberus",
-  "pid": "6641",
-  "pname": "Cerberus FTP Server",
-  "pcpe": "cpe:/a:cerberus:cerberus_ftp_server"
+	"vid": "2766",
+	"vname": "Cerberus, LLC",
+	"vcpe": "cpe:/:cerberus",
+	"pid": "6641",
+	"pname": "Cerberus FTP Server",
+	"pcpe": "cpe:/a:cerberus:cerberus_ftp_server"
 }

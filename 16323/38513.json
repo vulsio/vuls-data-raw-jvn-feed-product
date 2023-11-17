@@ -1,8 +1,8 @@
 {
-  "vid": "16323",
-  "vname": "Plum Mobile",
-  "vcpe": "cpe:/:plum-mobile",
-  "pid": "38513",
-  "pname": "Compass ファームウェア",
-  "pcpe": "cpe:/o:plum-mobile:compass_firmware"
+	"vid": "16323",
+	"vname": "Plum Mobile",
+	"vcpe": "cpe:/:plum-mobile",
+	"pid": "38513",
+	"pname": "Compass ファームウェア",
+	"pcpe": "cpe:/o:plum-mobile:compass_firmware"
 }

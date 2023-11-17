@@ -1,8 +1,8 @@
 {
-  "vid": "23497",
-  "vname": "raytion",
-  "vcpe": "cpe:/:raytion",
-  "pid": "60886",
-  "pname": "custom security manager",
-  "pcpe": "cpe:/a:raytion:custom_security_manager"
+	"vid": "23497",
+	"vname": "raytion",
+	"vcpe": "cpe:/:raytion",
+	"pid": "60886",
+	"pname": "custom security manager",
+	"pcpe": "cpe:/a:raytion:custom_security_manager"
 }

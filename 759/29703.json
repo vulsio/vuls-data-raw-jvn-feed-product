@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "29703",
-  "pname": "Universal Relay ファームウェア",
-  "pcpe": "cpe:/o:ge:multilin_universal_relay_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "29703",
+	"pname": "Universal Relay ファームウェア",
+	"pcpe": "cpe:/o:ge:multilin_universal_relay_firmware"
 }

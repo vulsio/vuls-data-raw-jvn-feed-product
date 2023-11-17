@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "20342",
-  "pname": "Infranet Controller 6500 FIPS",
-  "pcpe": "cpe:/h:juniper:fips_infranet_controller_6500"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "20342",
+	"pname": "Infranet Controller 6500 FIPS",
+	"pcpe": "cpe:/h:juniper:fips_infranet_controller_6500"
 }

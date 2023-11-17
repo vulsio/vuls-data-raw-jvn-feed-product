@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "47149",
-  "pname": "FMC4500 K9 BIOS",
-  "pcpe": "cpe:/o:cisco:fmc4500-k9_bios"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "47149",
+	"pname": "FMC4500 K9 BIOS",
+	"pcpe": "cpe:/o:cisco:fmc4500-k9_bios"
 }

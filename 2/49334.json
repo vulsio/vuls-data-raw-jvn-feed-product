@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "49334",
-  "pname": "Azure Automation State Configuration",
-  "pcpe": "cpe:/a:microsoft:azure_automation_state_configuration"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "49334",
+	"pname": "Azure Automation State Configuration",
+	"pcpe": "cpe:/a:microsoft:azure_automation_state_configuration"
 }

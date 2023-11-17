@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "44294",
-  "pname": "Mark VIe Controller System",
-  "pcpe": "cpe:/o:ge:mark_vie_controll_system"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "44294",
+	"pname": "Mark VIe Controller System",
+	"pcpe": "cpe:/o:ge:mark_vie_controll_system"
 }

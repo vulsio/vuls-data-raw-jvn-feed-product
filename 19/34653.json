@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "34653",
-  "pname": "Cisco Nexus 9000 ファームウェア",
-  "pcpe": "cpe:/o:cisco:nexus_9000_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "34653",
+	"pname": "Cisco Nexus 9000 ファームウェア",
+	"pcpe": "cpe:/o:cisco:nexus_9000_firmware"
 }

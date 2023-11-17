@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "2915",
-  "pname": "HP Business Service Automation Essentials",
-  "pcpe": "cpe:/a:hp:business_service_automation_essentials"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "2915",
+	"pname": "HP Business Service Automation Essentials",
+	"pcpe": "cpe:/a:hp:business_service_automation_essentials"
 }

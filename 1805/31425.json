@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31425",
-  "pname": "TL-WAR1750L ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-war1750l_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31425",
+	"pname": "TL-WAR1750L ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-war1750l_firmware"
 }

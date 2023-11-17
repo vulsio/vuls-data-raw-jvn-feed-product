@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15219",
-  "pname": "symantec antivirus filtering +for domino",
-  "pcpe": "cpe:/a:symantec:symantec_antivirus_filtering_%2Bfor_domino"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15219",
+	"pname": "symantec antivirus filtering +for domino",
+	"pcpe": "cpe:/a:symantec:symantec_antivirus_filtering_%2Bfor_domino"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8170",
-  "vname": "txtblogcms",
-  "vcpe": "cpe:/:txtblogcms",
-  "pid": "15638",
-  "pname": "txtblog",
-  "pcpe": "cpe:/a:txtblogcms:txtblog"
+	"vid": "8170",
+	"vname": "txtblogcms",
+	"vcpe": "cpe:/:txtblogcms",
+	"pid": "15638",
+	"pname": "txtblog",
+	"pcpe": "cpe:/a:txtblogcms:txtblog"
 }

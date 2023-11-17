@@ -1,8 +1,8 @@
 {
-  "vid": "19932",
-  "vname": "Livemesh",
-  "vcpe": "cpe:/:livemeshelementor",
-  "pid": "50395",
-  "pname": "Livemesh Addons for Elementor",
-  "pcpe": "cpe:/a:livemeshelementor:addons_for_elementor"
+	"vid": "19932",
+	"vname": "Livemesh",
+	"vcpe": "cpe:/:livemeshelementor",
+	"pid": "50395",
+	"pname": "Livemesh Addons for Elementor",
+	"pcpe": "cpe:/a:livemeshelementor:addons_for_elementor"
 }

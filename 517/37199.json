@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "37199",
-  "pname": "AltaLink B8045 ファームウェア",
-  "pcpe": "cpe:/o:xerox:altalink_b8045_firmware"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "37199",
+	"pname": "AltaLink B8045 ファームウェア",
+	"pcpe": "cpe:/o:xerox:altalink_b8045_firmware"
 }

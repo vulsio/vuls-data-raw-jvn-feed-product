@@ -1,8 +1,8 @@
 {
-  "vid": "9120",
-  "vname": "KnowledgeView",
-  "vcpe": "cpe:/:knowledgeview",
-  "pid": "18425",
-  "pname": "KnowledgeView",
-  "pcpe": "cpe:/a:knowledgeview:knowledgeview_editorial_and_management_application"
+	"vid": "9120",
+	"vname": "KnowledgeView",
+	"vcpe": "cpe:/:knowledgeview",
+	"pid": "18425",
+	"pname": "KnowledgeView",
+	"pcpe": "cpe:/a:knowledgeview:knowledgeview_editorial_and_management_application"
 }

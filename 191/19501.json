@@ -1,8 +1,8 @@
 {
-  "vid": "191",
-  "vname": "Opera Software ASA",
-  "vcpe": "cpe:/:opera",
-  "pid": "19501",
-  "pname": "Opera browser for Android",
-  "pcpe": "cpe:/a:opera:opera_browser_for_android"
+	"vid": "191",
+	"vname": "Opera Software ASA",
+	"vcpe": "cpe:/:opera",
+	"pid": "19501",
+	"pname": "Opera browser for Android",
+	"pcpe": "cpe:/a:opera:opera_browser_for_android"
 }

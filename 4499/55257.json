@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "55257",
-  "pname": "MELFA F シリーズ",
-  "pcpe": "cpe:/o:mitsubishielectric:melfa_f_series"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "55257",
+	"pname": "MELFA F シリーズ",
+	"pcpe": "cpe:/o:mitsubishielectric:melfa_f_series"
 }

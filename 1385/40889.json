@@ -1,8 +1,8 @@
 {
-  "vid": "1385",
-  "vname": "BMC Software",
-  "vcpe": "cpe:/:bmc",
-  "pid": "40889",
-  "pname": "BMC Digital Workplace",
-  "pcpe": "cpe:/a:bmc:myit_digital_workplace"
+	"vid": "1385",
+	"vname": "BMC Software",
+	"vcpe": "cpe:/:bmc",
+	"pid": "40889",
+	"pname": "BMC Digital Workplace",
+	"pcpe": "cpe:/a:bmc:myit_digital_workplace"
 }

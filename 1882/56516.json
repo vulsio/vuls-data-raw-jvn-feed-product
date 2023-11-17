@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "56516",
-  "pname": "MF286R ファームウェア",
-  "pcpe": "cpe:/o:zte:mf286r_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "56516",
+	"pname": "MF286R ファームウェア",
+	"pcpe": "cpe:/o:zte:mf286r_firmware"
 }

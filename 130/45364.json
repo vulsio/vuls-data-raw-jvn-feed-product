@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "45364",
-  "pname": "Intel Core i5-7500 ファームウェア",
-  "pcpe": "cpe:/o:intel:core_i5-7500_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "45364",
+	"pname": "Intel Core i5-7500 ファームウェア",
+	"pcpe": "cpe:/o:intel:core_i5-7500_firmware"
 }

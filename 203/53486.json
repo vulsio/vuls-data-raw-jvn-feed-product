@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "53486",
-  "pname": "リコーカンタンドライバーインストーラセットアップツール",
-  "pcpe": "cpe:/a:ricoh:driver_installer"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "53486",
+	"pname": "リコーカンタンドライバーインストーラセットアップツール",
+	"pcpe": "cpe:/a:ricoh:driver_installer"
 }

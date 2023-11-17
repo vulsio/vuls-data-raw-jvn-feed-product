@@ -1,8 +1,8 @@
 {
-  "vid": "22783",
-  "vname": "django-mfa3 project",
-  "vcpe": "cpe:/:django-mfa3_project",
-  "pid": "58652",
-  "pname": "django-mfa3",
-  "pcpe": "cpe:/a:django-mfa3_project:django-mfa3"
+	"vid": "22783",
+	"vname": "django-mfa3 project",
+	"vcpe": "cpe:/:django-mfa3_project",
+	"pid": "58652",
+	"pname": "django-mfa3",
+	"pcpe": "cpe:/a:django-mfa3_project:django-mfa3"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12927",
-  "vname": "Tilde CMS project",
-  "vcpe": "cpe:/:tilde_cms_project",
-  "pid": "29876",
-  "pname": "Tilde CMS",
-  "pcpe": "cpe:/a:tilde_cms_project:tilde_cms"
+	"vid": "12927",
+	"vname": "Tilde CMS project",
+	"vcpe": "cpe:/:tilde_cms_project",
+	"pid": "29876",
+	"pname": "Tilde CMS",
+	"pcpe": "cpe:/a:tilde_cms_project:tilde_cms"
 }

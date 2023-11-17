@@ -1,8 +1,8 @@
 {
-  "vid": "4048",
-  "vname": "grayscale",
-  "vcpe": "cpe:/:grayscale",
-  "pid": "8529",
-  "pname": "grayscale blog",
-  "pcpe": "cpe:/a:grayscale:grayscale_blog"
+	"vid": "4048",
+	"vname": "grayscale",
+	"vcpe": "cpe:/:grayscale",
+	"pid": "8529",
+	"pname": "grayscale blog",
+	"pcpe": "cpe:/a:grayscale:grayscale_blog"
 }

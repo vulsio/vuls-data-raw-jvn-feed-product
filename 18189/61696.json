@@ -1,8 +1,8 @@
 {
-  "vid": "18189",
-  "vname": "UI",
-  "vcpe": "cpe:/:ui",
-  "pid": "61696",
-  "pname": "ER-X-SFP ファームウェア",
-  "pcpe": "cpe:/o:ui:er-x-sfp_firmware"
+	"vid": "18189",
+	"vname": "UI",
+	"vcpe": "cpe:/:ui",
+	"pid": "61696",
+	"pname": "ER-X-SFP ファームウェア",
+	"pcpe": "cpe:/o:ui:er-x-sfp_firmware"
 }

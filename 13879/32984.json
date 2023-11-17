@@ -1,8 +1,8 @@
 {
-  "vid": "13879",
-  "vname": "Shenzhen Wanscam Technology Co.Ltd",
-  "vcpe": "cpe:/:wanscam",
-  "pid": "32984",
-  "pname": "HW0021 ファームウェア",
-  "pcpe": "cpe:/o:wanscam:hw0021_firmware"
+	"vid": "13879",
+	"vname": "Shenzhen Wanscam Technology Co.Ltd",
+	"vcpe": "cpe:/:wanscam",
+	"pid": "32984",
+	"pname": "HW0021 ファームウェア",
+	"pcpe": "cpe:/o:wanscam:hw0021_firmware"
 }

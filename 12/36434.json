@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "36434",
-  "pname": "Dr. Safety",
-  "pcpe": "cpe:/a:trendmicro:dr._safety"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "36434",
+	"pname": "Dr. Safety",
+	"pcpe": "cpe:/a:trendmicro:dr._safety"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13174",
-  "vname": "go-ldap project",
-  "vcpe": "cpe:/:go-ldap_project",
-  "pid": "30737",
-  "pname": "ldap",
-  "pcpe": "cpe:/a:go-ldap_project:ldap"
+	"vid": "13174",
+	"vname": "go-ldap project",
+	"vcpe": "cpe:/:go-ldap_project",
+	"pid": "30737",
+	"pname": "ldap",
+	"pcpe": "cpe:/a:go-ldap_project:ldap"
 }

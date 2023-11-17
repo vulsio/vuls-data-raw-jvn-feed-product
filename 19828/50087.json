@@ -1,8 +1,8 @@
 {
-  "vid": "19828",
-  "vname": "Hitachi Energy",
-  "vcpe": "cpe:/:hitachienergy",
-  "pid": "50087",
-  "pname": "Relion 650 ファームウェア",
-  "pcpe": "cpe:/o:hitachienergy:relion_650_firmware"
+	"vid": "19828",
+	"vname": "Hitachi Energy",
+	"vcpe": "cpe:/:hitachienergy",
+	"pid": "50087",
+	"pname": "Relion 650 ファームウェア",
+	"pcpe": "cpe:/o:hitachienergy:relion_650_firmware"
 }

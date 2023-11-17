@@ -1,8 +1,8 @@
 {
-  "vid": "12106",
-  "vname": "Lemur Vehicle Monitors",
-  "vcpe": "cpe:/:lemur_monitors",
-  "pid": "25933",
-  "pname": "BlueDriver",
-  "pcpe": "cpe:/a:lemur_monitors:bluedriver"
+	"vid": "12106",
+	"vname": "Lemur Vehicle Monitors",
+	"vcpe": "cpe:/:lemur_monitors",
+	"pid": "25933",
+	"pname": "BlueDriver",
+	"pcpe": "cpe:/a:lemur_monitors:bluedriver"
 }

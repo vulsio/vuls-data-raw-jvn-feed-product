@@ -1,8 +1,8 @@
 {
-  "vid": "18785",
-  "vname": "株式会社コンテック",
-  "vcpe": "cpe:/:contec",
-  "pid": "46726",
-  "pname": "SolarView Compact SV-CPT-MC310",
-  "pcpe": "cpe:/o:contec:sv-cpt-mc310_firmware"
+	"vid": "18785",
+	"vname": "株式会社コンテック",
+	"vcpe": "cpe:/:contec",
+	"pid": "46726",
+	"pname": "SolarView Compact SV-CPT-MC310",
+	"pcpe": "cpe:/o:contec:sv-cpt-mc310_firmware"
 }

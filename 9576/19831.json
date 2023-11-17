@@ -1,8 +1,8 @@
 {
-  "vid": "9576",
-  "vname": "apps4u@android",
-  "vcpe": "cpe:/:apps4u%40android",
-  "pid": "19831",
-  "pname": "SD Card Manager",
-  "pcpe": "cpe:/a:apps4u%40android:sd_card_manager"
+	"vid": "9576",
+	"vname": "apps4u@android",
+	"vcpe": "cpe:/:apps4u%40android",
+	"pid": "19831",
+	"pname": "SD Card Manager",
+	"pcpe": "cpe:/a:apps4u%40android:sd_card_manager"
 }

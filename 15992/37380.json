@@ -1,8 +1,8 @@
 {
-  "vid": "15992",
-  "vname": "Data Management Systems Laboratory (DMSL)",
-  "vcpe": "cpe:/:anyplace_project",
-  "pid": "37380",
-  "pname": "Anyplace",
-  "pcpe": "cpe:/a:anyplace_project:anyplace"
+	"vid": "15992",
+	"vname": "Data Management Systems Laboratory (DMSL)",
+	"vcpe": "cpe:/:anyplace_project",
+	"pid": "37380",
+	"pname": "Anyplace",
+	"pcpe": "cpe:/a:anyplace_project:anyplace"
 }

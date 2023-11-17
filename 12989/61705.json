@@ -1,8 +1,8 @@
 {
-  "vid": "12989",
-  "vname": "HashiCorp",
-  "vcpe": "cpe:/:hashicorp",
-  "pid": "61705",
-  "pname": "Boundary",
-  "pcpe": "cpe:/a:hashicorp:boundary"
+	"vid": "12989",
+	"vname": "HashiCorp",
+	"vcpe": "cpe:/:hashicorp",
+	"pid": "61705",
+	"pname": "Boundary",
+	"pcpe": "cpe:/a:hashicorp:boundary"
 }

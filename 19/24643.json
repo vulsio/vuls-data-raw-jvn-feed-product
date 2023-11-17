@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24643",
-  "pname": "Cisco MDS SAN-OS",
-  "pcpe": "cpe:/o:cisco:san-os"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24643",
+	"pname": "Cisco MDS SAN-OS",
+	"pcpe": "cpe:/o:cisco:san-os"
 }

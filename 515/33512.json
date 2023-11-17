@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "33512",
-  "pname": "VMware Xenon",
-  "pcpe": "cpe:/a:vmware:xenon"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "33512",
+	"pname": "VMware Xenon",
+	"pcpe": "cpe:/a:vmware:xenon"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17127",
-  "vname": "WP-Piwik project",
-  "vcpe": "cpe:/:wp-piwik_project",
-  "pid": "40740",
-  "pname": "WP-Piwik",
-  "pcpe": "cpe:/a:wp-piwik_project:wp-piwik"
+	"vid": "17127",
+	"vname": "WP-Piwik project",
+	"vcpe": "cpe:/:wp-piwik_project",
+	"pid": "40740",
+	"pname": "WP-Piwik",
+	"pcpe": "cpe:/a:wp-piwik_project:wp-piwik"
 }

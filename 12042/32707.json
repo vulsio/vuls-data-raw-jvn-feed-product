@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "32707",
-  "pname": "HPE OfficeConnect 1820 24GスイッチJ9980A ファームウェア",
-  "pcpe": "cpe:/o:hp:officeconnect_1820_24g_switch_j9980a_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "32707",
+	"pname": "HPE OfficeConnect 1820 24GスイッチJ9980A ファームウェア",
+	"pcpe": "cpe:/o:hp:officeconnect_1820_24g_switch_j9980a_firmware"
 }

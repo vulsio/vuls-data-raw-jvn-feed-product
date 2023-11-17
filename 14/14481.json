@@ -1,8 +1,8 @@
 {
-  "vid": "14",
-  "vname": "Samba Project",
-  "vcpe": "cpe:/:samba",
-  "pid": "14481",
-  "pname": "rsync",
-  "pcpe": "cpe:/a:samba:rsync"
+	"vid": "14",
+	"vname": "Samba Project",
+	"vcpe": "cpe:/:samba",
+	"pid": "14481",
+	"pname": "rsync",
+	"pcpe": "cpe:/a:samba:rsync"
 }

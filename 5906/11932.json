@@ -1,8 +1,8 @@
 {
-  "vid": "5906",
-  "vname": "net-side.net",
-  "vcpe": "cpe:/:net-side.net",
-  "pid": "11932",
-  "pname": "net side content management system",
-  "pcpe": "cpe:/a:net-side.net:net_side_content_management_system"
+	"vid": "5906",
+	"vname": "net-side.net",
+	"vcpe": "cpe:/:net-side.net",
+	"pid": "11932",
+	"pname": "net side content management system",
+	"pcpe": "cpe:/a:net-side.net:net_side_content_management_system"
 }

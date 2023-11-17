@@ -1,8 +1,8 @@
 {
-  "vid": "7308",
-  "vname": "rgallery",
-  "vcpe": "cpe:/:rgallery",
-  "pid": "14337",
-  "pname": "rgallery plugin",
-  "pcpe": "cpe:/a:rgallery:rgallery_plugin"
+	"vid": "7308",
+	"vname": "rgallery",
+	"vcpe": "cpe:/:rgallery",
+	"pid": "14337",
+	"pname": "rgallery plugin",
+	"pcpe": "cpe:/a:rgallery:rgallery_plugin"
 }

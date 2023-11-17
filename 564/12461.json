@@ -1,8 +1,8 @@
 {
-  "vid": "564",
-  "vname": "Panda Security",
-  "vcpe": "cpe:/:pandasecurity",
-  "pid": "12461",
-  "pname": "panda titanium 2005 antivirus",
-  "pcpe": "cpe:/a:pandasecurity:panda_titanium_2005_antivirus"
+	"vid": "564",
+	"vname": "Panda Security",
+	"vcpe": "cpe:/:pandasecurity",
+	"pid": "12461",
+	"pname": "panda titanium 2005 antivirus",
+	"pcpe": "cpe:/a:pandasecurity:panda_titanium_2005_antivirus"
 }

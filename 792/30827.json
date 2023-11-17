@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "30827",
-  "pname": "VMG1312-B30B ファームウェア",
-  "pcpe": "cpe:/o:zyxel:vmg1312-b30b_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "30827",
+	"pname": "VMG1312-B30B ファームウェア",
+	"pcpe": "cpe:/o:zyxel:vmg1312-b30b_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "49391",
-  "pname": "IPQ4029 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:ipq4029_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "49391",
+	"pname": "IPQ4029 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:ipq4029_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63674",
-  "pname": "scalance wam766-1 ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_wam766-1_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63674",
+	"pname": "scalance wam766-1 ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_wam766-1_firmware"
 }

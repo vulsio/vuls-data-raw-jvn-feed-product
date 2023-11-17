@@ -1,8 +1,8 @@
 {
-  "vid": "437",
-  "vname": "ベリタス",
-  "vcpe": "cpe:/:veritas",
-  "pid": "49136",
-  "pname": "APTARE IT Analytics",
-  "pcpe": "cpe:/a:veritas:aptare_it_analytics"
+	"vid": "437",
+	"vname": "ベリタス",
+	"vcpe": "cpe:/:veritas",
+	"pid": "49136",
+	"pname": "APTARE IT Analytics",
+	"pcpe": "cpe:/a:veritas:aptare_it_analytics"
 }

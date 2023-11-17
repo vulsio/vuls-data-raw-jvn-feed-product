@@ -1,8 +1,8 @@
 {
-  "vid": "7104",
-  "vname": "Progress Software Corporation",
-  "vcpe": "cpe:/:progress",
-  "pid": "29671",
-  "pname": "Telerik Web UI",
-  "pcpe": "cpe:/a:progress:telerik_web_ui"
+	"vid": "7104",
+	"vname": "Progress Software Corporation",
+	"vcpe": "cpe:/:progress",
+	"pid": "29671",
+	"pname": "Telerik Web UI",
+	"pcpe": "cpe:/a:progress:telerik_web_ui"
 }

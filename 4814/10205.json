@@ -1,8 +1,8 @@
 {
-  "vid": "4814",
-  "vname": "Internet2",
-  "vcpe": "cpe:/:internet2",
-  "pid": "10205",
-  "pname": "xmltooling",
-  "pcpe": "cpe:/a:internet2:xmltooling"
+	"vid": "4814",
+	"vname": "Internet2",
+	"vcpe": "cpe:/:internet2",
+	"pid": "10205",
+	"pname": "xmltooling",
+	"pcpe": "cpe:/a:internet2:xmltooling"
 }

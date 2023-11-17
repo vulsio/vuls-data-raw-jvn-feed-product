@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "42035",
-  "pname": "IBM Cloud Pak System",
-  "pcpe": "cpe:/a:ibm:cloud_pak_system"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "42035",
+	"pname": "IBM Cloud Pak System",
+	"pcpe": "cpe:/a:ibm:cloud_pak_system"
 }

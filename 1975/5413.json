@@ -1,8 +1,8 @@
 {
-  "vid": "1975",
-  "vname": "aai-portal",
-  "vcpe": "cpe:/:aai-portal",
-  "pid": "5413",
-  "pname": "aaiportal",
-  "pcpe": "cpe:/a:aai-portal:aaiportal"
+	"vid": "1975",
+	"vname": "aai-portal",
+	"vcpe": "cpe:/:aai-portal",
+	"pid": "5413",
+	"pname": "aaiportal",
+	"pcpe": "cpe:/a:aai-portal:aaiportal"
 }

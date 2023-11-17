@@ -1,8 +1,8 @@
 {
-  "vid": "14538",
-  "vname": "CarToken project",
-  "vcpe": "cpe:/:cartoken_project",
-  "pid": "34234",
-  "pname": "CarToken",
-  "pcpe": "cpe:/a:cartoken_project:cartoken"
+	"vid": "14538",
+	"vname": "CarToken project",
+	"vcpe": "cpe:/:cartoken_project",
+	"pid": "34234",
+	"pname": "CarToken",
+	"pcpe": "cpe:/a:cartoken_project:cartoken"
 }

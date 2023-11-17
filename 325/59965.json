@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "59965",
-  "pname": "ThinkSystem D2 Enclosure ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinksystem_d2_enclosure_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "59965",
+	"pname": "ThinkSystem D2 Enclosure ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinksystem_d2_enclosure_firmware"
 }

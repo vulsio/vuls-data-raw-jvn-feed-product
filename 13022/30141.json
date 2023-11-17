@@ -1,8 +1,8 @@
 {
-  "vid": "13022",
-  "vname": "SOLAR controls s.r.o.",
-  "vcpe": "cpe:/:solarcontrols",
-  "pid": "30141",
-  "pname": "WATTConfig M",
-  "pcpe": "cpe:/a:solarcontrols:wattconfig_m"
+	"vid": "13022",
+	"vname": "SOLAR controls s.r.o.",
+	"vcpe": "cpe:/:solarcontrols",
+	"pid": "30141",
+	"pname": "WATTConfig M",
+	"pcpe": "cpe:/a:solarcontrols:wattconfig_m"
 }

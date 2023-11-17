@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9986",
-  "pname": "Lotus",
-  "pcpe": "cpe:/a:ibm:lotus"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9986",
+	"pname": "Lotus",
+	"pcpe": "cpe:/a:ibm:lotus"
 }

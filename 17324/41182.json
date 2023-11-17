@@ -1,8 +1,8 @@
 {
-  "vid": "17324",
-  "vname": "sudo project",
-  "vcpe": "cpe:/:sudo_project",
-  "pid": "41182",
-  "pname": "Sudo",
-  "pcpe": "cpe:/a:sudo_project:sudo"
+	"vid": "17324",
+	"vname": "sudo project",
+	"vcpe": "cpe:/:sudo_project",
+	"pid": "41182",
+	"pname": "Sudo",
+	"pcpe": "cpe:/a:sudo_project:sudo"
 }

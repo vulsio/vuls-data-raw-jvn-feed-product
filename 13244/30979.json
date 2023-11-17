@@ -1,8 +1,8 @@
 {
-  "vid": "13244",
-  "vname": "Luracast",
-  "vcpe": "cpe:/:luracast",
-  "pid": "30979",
-  "pname": "Restler",
-  "pcpe": "cpe:/a:luracast:restler"
+	"vid": "13244",
+	"vname": "Luracast",
+	"vcpe": "cpe:/:luracast",
+	"pid": "30979",
+	"pname": "Restler",
+	"pcpe": "cpe:/a:luracast:restler"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "47020",
-  "pname": "Exposure Notifications API for Android",
-  "pcpe": "cpe:/a:google:exposure_notifications"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "47020",
+	"pname": "Exposure Notifications API for Android",
+	"pcpe": "cpe:/a:google:exposure_notifications"
 }

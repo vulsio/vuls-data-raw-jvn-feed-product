@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30264",
-  "pname": "ThinkCentre M800 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m800_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30264",
+	"pname": "ThinkCentre M800 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m800_firmware"
 }

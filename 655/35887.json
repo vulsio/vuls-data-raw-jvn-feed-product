@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "35887",
-  "pname": "RDF4j",
-  "pcpe": "cpe:/a:eclipse:rdf4j"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "35887",
+	"pname": "RDF4j",
+	"pcpe": "cpe:/a:eclipse:rdf4j"
 }

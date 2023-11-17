@@ -1,8 +1,8 @@
 {
-  "vid": "11550",
-  "vname": "SoftSphere Technologies",
-  "vcpe": "cpe:/:softsphere",
-  "pid": "23540",
-  "pname": "SoftSphere DefenseWall Personal Firewall",
-  "pcpe": "cpe:/a:softsphere:defensewall_personal_firewall"
+	"vid": "11550",
+	"vname": "SoftSphere Technologies",
+	"vcpe": "cpe:/:softsphere",
+	"pid": "23540",
+	"pname": "SoftSphere DefenseWall Personal Firewall",
+	"pcpe": "cpe:/a:softsphere:defensewall_personal_firewall"
 }

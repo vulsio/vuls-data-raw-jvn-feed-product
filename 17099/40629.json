@@ -1,8 +1,8 @@
 {
-  "vid": "17099",
-  "vname": "Escuela de Gestion Publica Plurinacional (EGPP)",
-  "vcpe": "cpe:/:egpp",
-  "pid": "40629",
-  "pname": "Sistema Integrado de Gestion Academica (GESAC)",
-  "pcpe": "cpe:/a:egpp:sistema_integrado_de_gestion_academica"
+	"vid": "17099",
+	"vname": "Escuela de Gestion Publica Plurinacional (EGPP)",
+	"vcpe": "cpe:/:egpp",
+	"pid": "40629",
+	"pname": "Sistema Integrado de Gestion Academica (GESAC)",
+	"pcpe": "cpe:/a:egpp:sistema_integrado_de_gestion_academica"
 }

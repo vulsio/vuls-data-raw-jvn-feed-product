@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4414",
-  "pname": "discovery&dependency mapping inventory",
-  "pcpe": "cpe:/a:hp:discovery%26dependency_mapping_inventory"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4414",
+	"pname": "discovery&dependency mapping inventory",
+	"pcpe": "cpe:/a:hp:discovery%26dependency_mapping_inventory"
 }

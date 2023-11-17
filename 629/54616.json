@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "54616",
-  "pname": "UC-2100-W Series",
-  "pcpe": "cpe:/o:moxa:uc-2100-w"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "54616",
+	"pname": "UC-2100-W Series",
+	"pcpe": "cpe:/o:moxa:uc-2100-w"
 }

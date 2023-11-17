@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "46238",
-  "pname": "REST Data Services",
-  "pcpe": "cpe:/a:oracle:rest_data_services"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "46238",
+	"pname": "REST Data Services",
+	"pcpe": "cpe:/a:oracle:rest_data_services"
 }

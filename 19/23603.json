@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23603",
-  "pname": "Cisco C250-M2",
-  "pcpe": "cpe:/h:cisco:c250_m2"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23603",
+	"pname": "Cisco C250-M2",
+	"pcpe": "cpe:/h:cisco:c250_m2"
 }

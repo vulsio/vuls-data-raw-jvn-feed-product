@@ -1,8 +1,8 @@
 {
-  "vid": "21158",
-  "vname": "NLnet Labs",
-  "vcpe": "cpe:/:nlnetlabs",
-  "pid": "57069",
-  "pname": "Krill",
-  "pcpe": "cpe:/a:nlnetlabs:krill"
+	"vid": "21158",
+	"vname": "NLnet Labs",
+	"vcpe": "cpe:/:nlnetlabs",
+	"pid": "57069",
+	"pname": "Krill",
+	"pcpe": "cpe:/a:nlnetlabs:krill"
 }

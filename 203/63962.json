@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "63962",
-  "pname": "mp c2503 smart operation panel ファームウェア",
-  "pcpe": "cpe:/o:ricoh:mp_c2503_smart_operation_panel_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "63962",
+	"pname": "mp c2503 smart operation panel ファームウェア",
+	"pcpe": "cpe:/o:ricoh:mp_c2503_smart_operation_panel_firmware"
 }

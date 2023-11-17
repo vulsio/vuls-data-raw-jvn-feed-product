@@ -1,8 +1,8 @@
 {
-  "vid": "19255",
-  "vname": "Devolutions",
-  "vcpe": "cpe:/:devolutions",
-  "pid": "48485",
-  "pname": "Devolutions Remote Desktop Manager",
-  "pcpe": "cpe:/a:devolutions:remote_desktop_manager"
+	"vid": "19255",
+	"vname": "Devolutions",
+	"vcpe": "cpe:/:devolutions",
+	"pid": "48485",
+	"pname": "Devolutions Remote Desktop Manager",
+	"pcpe": "cpe:/a:devolutions:remote_desktop_manager"
 }

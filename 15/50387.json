@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "50387",
-  "pname": "Oracle Banking Virtual Account Management",
-  "pcpe": "cpe:/a:oracle:banking_virtual_account_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "50387",
+	"pname": "Oracle Banking Virtual Account Management",
+	"pcpe": "cpe:/a:oracle:banking_virtual_account_management"
 }

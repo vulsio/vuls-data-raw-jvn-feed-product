@@ -1,8 +1,8 @@
 {
-  "vid": "4347",
-  "vname": "Transmission Project",
-  "vcpe": "cpe:/:transmissionbt",
-  "pid": "9261",
-  "pname": "Transmission",
-  "pcpe": "cpe:/a:transmissionbt:transmission"
+	"vid": "4347",
+	"vname": "Transmission Project",
+	"vcpe": "cpe:/:transmissionbt",
+	"pid": "9261",
+	"pname": "Transmission",
+	"pcpe": "cpe:/a:transmissionbt:transmission"
 }

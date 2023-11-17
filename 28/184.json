@@ -1,8 +1,8 @@
 {
-  "vid": "28",
-  "vname": "Squid-cache.org",
-  "vcpe": "cpe:/:squid-cache",
-  "pid": "184",
-  "pname": "Squid",
-  "pcpe": "cpe:/a:squid-cache:squid"
+	"vid": "28",
+	"vname": "Squid-cache.org",
+	"vcpe": "cpe:/:squid-cache",
+	"pid": "184",
+	"pname": "Squid",
+	"pcpe": "cpe:/a:squid-cache:squid"
 }

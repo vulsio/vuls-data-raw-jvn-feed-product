@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "44910",
-  "pname": "Dell EMC Isilon OneFS",
-  "pcpe": "cpe:/a:dell:emc_isilon_onefs"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "44910",
+	"pname": "Dell EMC Isilon OneFS",
+	"pcpe": "cpe:/a:dell:emc_isilon_onefs"
 }

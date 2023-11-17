@@ -1,8 +1,8 @@
 {
-  "vid": "5637",
-  "vname": "マイクロフォーカス株式会社",
-  "vcpe": "cpe:/:microfocus",
-  "pid": "30207",
-  "pname": "Directory Server",
-  "pcpe": "cpe:/a:microfocus:directory_server"
+	"vid": "5637",
+	"vname": "マイクロフォーカス株式会社",
+	"vcpe": "cpe:/:microfocus",
+	"pid": "30207",
+	"pname": "Directory Server",
+	"pcpe": "cpe:/a:microfocus:directory_server"
 }

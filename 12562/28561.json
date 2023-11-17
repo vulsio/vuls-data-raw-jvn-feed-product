@@ -1,8 +1,8 @@
 {
-  "vid": "12562",
-  "vname": "Trango Systems, Inc.",
-  "vcpe": "cpe:/:trango",
-  "pid": "28561",
-  "pname": "Giga Lynx ファームウェア",
-  "pcpe": "cpe:/o:trango:giga_lynx_firmware"
+	"vid": "12562",
+	"vname": "Trango Systems, Inc.",
+	"vcpe": "cpe:/:trango",
+	"pid": "28561",
+	"pname": "Giga Lynx ファームウェア",
+	"pcpe": "cpe:/o:trango:giga_lynx_firmware"
 }

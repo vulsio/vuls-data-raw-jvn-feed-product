@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "6100",
-  "pname": "sip enablement services",
-  "pcpe": "cpe:/a:avaya:sip_enablement_services"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "6100",
+	"pname": "sip enablement services",
+	"pcpe": "cpe:/a:avaya:sip_enablement_services"
 }

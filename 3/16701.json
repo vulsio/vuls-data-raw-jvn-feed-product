@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "16701",
-  "pname": "Red Hat Enterprise Linux Kernel",
-  "pcpe": "cpe:/o:redhat:enterprise_linux_kernel"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "16701",
+	"pname": "Red Hat Enterprise Linux Kernel",
+	"pcpe": "cpe:/o:redhat:enterprise_linux_kernel"
 }

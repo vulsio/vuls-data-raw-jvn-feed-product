@@ -1,8 +1,8 @@
 {
-  "vid": "15978",
-  "vname": "Silicon Labs, Inc.",
-  "vcpe": "cpe:/:silabs",
-  "pid": "52608",
-  "pname": "iWRAP",
-  "pcpe": "cpe:/a:silabs:iwrap"
+	"vid": "15978",
+	"vname": "Silicon Labs, Inc.",
+	"vcpe": "cpe:/:silabs",
+	"pid": "52608",
+	"pname": "iWRAP",
+	"pcpe": "cpe:/a:silabs:iwrap"
 }

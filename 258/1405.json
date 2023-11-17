@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "1405",
-  "pname": "gnome-screensaver",
-  "pcpe": "cpe:/a:gnome:screensaver"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "1405",
+	"pname": "gnome-screensaver",
+	"pcpe": "cpe:/a:gnome:screensaver"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4302",
-  "vname": "WinWebMail",
-  "vcpe": "cpe:/:winwebmail",
-  "pid": "9198",
-  "pname": "WinWebMail Server",
-  "pcpe": "cpe:/h:winwebmail:winwebmail_server"
+	"vid": "4302",
+	"vname": "WinWebMail",
+	"vcpe": "cpe:/:winwebmail",
+	"pid": "9198",
+	"pname": "WinWebMail Server",
+	"pcpe": "cpe:/h:winwebmail:winwebmail_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "63331",
-  "pname": "Cisco Aironet 3800e シリーズファームウェア",
-  "pcpe": "cpe:/o:cisco:aironet_3800e_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "63331",
+	"pname": "Cisco Aironet 3800e シリーズファームウェア",
+	"pcpe": "cpe:/o:cisco:aironet_3800e_firmware"
 }

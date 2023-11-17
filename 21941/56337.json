@@ -1,8 +1,8 @@
 {
-  "vid": "21941",
-  "vname": "Adenza",
-  "vcpe": "cpe:/:adenza",
-  "pid": "56337",
-  "pname": "AxiomSL ControllerView",
-  "pcpe": "cpe:/a:adenza:axiomsl_controllerview"
+	"vid": "21941",
+	"vname": "Adenza",
+	"vcpe": "cpe:/:adenza",
+	"pid": "56337",
+	"pname": "AxiomSL ControllerView",
+	"pcpe": "cpe:/a:adenza:axiomsl_controllerview"
 }

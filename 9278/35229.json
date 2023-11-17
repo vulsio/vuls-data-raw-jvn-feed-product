@@ -1,8 +1,8 @@
 {
-  "vid": "9278",
-  "vname": "Eaton",
-  "vcpe": "cpe:/:eaton",
-  "pid": "35229",
-  "pname": "9000X ファームウェア",
-  "pcpe": "cpe:/o:eaton:9000x_firmware"
+	"vid": "9278",
+	"vname": "Eaton",
+	"vcpe": "cpe:/:eaton",
+	"pid": "35229",
+	"pname": "9000X ファームウェア",
+	"pcpe": "cpe:/o:eaton:9000x_firmware"
 }

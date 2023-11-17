@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "16938",
-  "pname": "Cisco Prime Network Control System ソフトウェア",
-  "pcpe": "cpe:/a:cisco:prime_network_control_system"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "16938",
+	"pname": "Cisco Prime Network Control System ソフトウェア",
+	"pcpe": "cpe:/a:cisco:prime_network_control_system"
 }

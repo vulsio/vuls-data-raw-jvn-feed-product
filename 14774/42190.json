@@ -1,8 +1,8 @@
 {
-  "vid": "14774",
-  "vname": "Reliable Controls",
-  "vcpe": "cpe:/:reliablecontrols",
-  "pid": "42190",
-  "pname": "LicenseManager",
-  "pcpe": "cpe:/a:reliablecontrols:rc-licensemanager"
+	"vid": "14774",
+	"vname": "Reliable Controls",
+	"vcpe": "cpe:/:reliablecontrols",
+	"pid": "42190",
+	"pname": "LicenseManager",
+	"pcpe": "cpe:/a:reliablecontrols:rc-licensemanager"
 }

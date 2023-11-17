@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "12880",
-  "pname": "C53x",
-  "pcpe": "cpe:/h:lexmark:c53x"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "12880",
+	"pname": "C53x",
+	"pcpe": "cpe:/h:lexmark:c53x"
 }

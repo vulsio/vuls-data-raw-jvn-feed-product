@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "36161",
-  "pname": "Cisco RV130W Wireless-N Multifunction VPN ルータファームウェア",
-  "pcpe": "cpe:/o:cisco:rv130w_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "36161",
+	"pname": "Cisco RV130W Wireless-N Multifunction VPN ルータファームウェア",
+	"pcpe": "cpe:/o:cisco:rv130w_firmware"
 }

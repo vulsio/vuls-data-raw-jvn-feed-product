@@ -1,8 +1,8 @@
 {
-  "vid": "12030",
-  "vname": "Saia Burgess Controls",
-  "vcpe": "cpe:/:saia_burgess_controls",
-  "pid": "25224",
-  "pname": "PCD3.T665 ファームウェア",
-  "pcpe": "cpe:/o:saia_burgess_controls:pcd3.t665_firmware"
+	"vid": "12030",
+	"vname": "Saia Burgess Controls",
+	"vcpe": "cpe:/:saia_burgess_controls",
+	"pid": "25224",
+	"pname": "PCD3.T665 ファームウェア",
+	"pcpe": "cpe:/o:saia_burgess_controls:pcd3.t665_firmware"
 }

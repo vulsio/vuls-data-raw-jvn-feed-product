@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "51346",
-  "pname": "Celeron J1800",
-  "pcpe": "cpe:/h:intel:celeron_j1800"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "51346",
+	"pname": "Celeron J1800",
+	"pcpe": "cpe:/h:intel:celeron_j1800"
 }

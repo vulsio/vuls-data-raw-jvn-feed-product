@@ -1,8 +1,8 @@
 {
-  "vid": "11783",
-  "vname": "byEqima",
-  "vcpe": "cpe:/:misc",
-  "pid": "24321",
-  "pname": "EQ Event Calendar",
-  "pcpe": "cpe:/a:misc:byeqima_eq_event_calendar"
+	"vid": "11783",
+	"vname": "byEqima",
+	"vcpe": "cpe:/:misc",
+	"pid": "24321",
+	"pname": "EQ Event Calendar",
+	"pcpe": "cpe:/a:misc:byeqima_eq_event_calendar"
 }

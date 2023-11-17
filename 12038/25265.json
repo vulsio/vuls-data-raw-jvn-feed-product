@@ -1,8 +1,8 @@
 {
-  "vid": "12038",
-  "vname": "Amped Wireless",
-  "vcpe": "cpe:/:ampedwireless",
-  "pid": "25265",
-  "pname": "Wireless R10000",
-  "pcpe": "cpe:/h:ampedwireless:r10000"
+	"vid": "12038",
+	"vname": "Amped Wireless",
+	"vcpe": "cpe:/:ampedwireless",
+	"pid": "25265",
+	"pname": "Wireless R10000",
+	"pcpe": "cpe:/h:ampedwireless:r10000"
 }

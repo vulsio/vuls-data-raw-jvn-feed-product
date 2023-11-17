@@ -1,8 +1,8 @@
 {
-  "vid": "491",
-  "vname": "BitDefender",
-  "vcpe": "cpe:/:bitdefender",
-  "pid": "57642",
-  "pname": "vpn standalone",
-  "pcpe": "cpe:/a:bitdefender:vpn_standalone"
+	"vid": "491",
+	"vname": "BitDefender",
+	"vcpe": "cpe:/:bitdefender",
+	"pid": "57642",
+	"pname": "vpn standalone",
+	"pcpe": "cpe:/a:bitdefender:vpn_standalone"
 }

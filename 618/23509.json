@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "23509",
-  "pname": "EKI-1221D",
-  "pcpe": "cpe:/h:advantech:eki-1221d"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "23509",
+	"pname": "EKI-1221D",
+	"pcpe": "cpe:/h:advantech:eki-1221d"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "12342",
-  "pname": "peoplesoft peopletools component",
-  "pcpe": "cpe:/a:oracle:peoplesoft_peopletools_component"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "12342",
+	"pname": "peoplesoft peopletools component",
+	"pcpe": "cpe:/a:oracle:peoplesoft_peopletools_component"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1107",
-  "vname": "Xiaomi",
-  "vcpe": "cpe:/:xiaomi",
-  "pid": "48691",
-  "pname": "Mi AX1800 ファームウェア",
-  "pcpe": "cpe:/o:xiaomi:ax1800_firmware"
+	"vid": "1107",
+	"vname": "Xiaomi",
+	"vcpe": "cpe:/:xiaomi",
+	"pid": "48691",
+	"pname": "Mi AX1800 ファームウェア",
+	"pcpe": "cpe:/o:xiaomi:ax1800_firmware"
 }

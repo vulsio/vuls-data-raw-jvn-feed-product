@@ -1,8 +1,8 @@
 {
-  "vid": "6571",
-  "vname": "Longwave Consulting",
-  "vcpe": "cpe:/:longwaveconsulting",
-  "pid": "13192",
-  "pname": "Ubercart SecureTrading Payment Method",
-  "pcpe": "cpe:/a:longwaveconsulting:ubercart_securetrading_payment_method_module"
+	"vid": "6571",
+	"vname": "Longwave Consulting",
+	"vcpe": "cpe:/:longwaveconsulting",
+	"pid": "13192",
+	"pname": "Ubercart SecureTrading Payment Method",
+	"pcpe": "cpe:/a:longwaveconsulting:ubercart_securetrading_payment_method_module"
 }

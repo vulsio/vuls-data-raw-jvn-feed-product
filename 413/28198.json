@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "28198",
-  "pname": "Good Control Server",
-  "pcpe": "cpe:/a:blackberry:good_control_server"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "28198",
+	"pname": "Good Control Server",
+	"pcpe": "cpe:/a:blackberry:good_control_server"
 }

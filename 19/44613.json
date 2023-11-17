@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "44613",
-  "pname": "Cisco Aironet 1562i シリーズファームウェア",
-  "pcpe": "cpe:/o:cisco:aironet_1562i_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "44613",
+	"pname": "Cisco Aironet 1562i シリーズファームウェア",
+	"pcpe": "cpe:/o:cisco:aironet_1562i_firmware"
 }

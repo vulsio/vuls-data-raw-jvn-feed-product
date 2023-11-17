@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "38353",
-  "pname": "SIMATIC RF185C ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_rf185c_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "38353",
+	"pname": "SIMATIC RF185C ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_rf185c_firmware"
 }

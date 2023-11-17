@@ -1,8 +1,8 @@
 {
-  "vid": "18507",
-  "vname": "Gpononu",
-  "vcpe": "cpe:/:gpononu",
-  "pid": "45670",
-  "pname": "1GE ONU V2801RW ファームウェア",
-  "pcpe": "cpe:/o:gpononu:1ge_router_wifi_onu_v2801rw_firmware"
+	"vid": "18507",
+	"vname": "Gpononu",
+	"vcpe": "cpe:/:gpononu",
+	"pid": "45670",
+	"pname": "1GE ONU V2801RW ファームウェア",
+	"pcpe": "cpe:/o:gpononu:1ge_router_wifi_onu_v2801rw_firmware"
 }

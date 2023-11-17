@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "937",
-  "pname": "Cisco Unified CallManager",
-  "pcpe": "cpe:/a:cisco:unified_callmanager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "937",
+	"pname": "Cisco Unified CallManager",
+	"pcpe": "cpe:/a:cisco:unified_callmanager"
 }

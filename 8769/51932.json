@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "51932",
-  "pname": "NVR VioStarシリーズ",
-  "pcpe": "cpe:/a:qnap:nvr_viostar"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "51932",
+	"pname": "NVR VioStarシリーズ",
+	"pcpe": "cpe:/a:qnap:nvr_viostar"
 }

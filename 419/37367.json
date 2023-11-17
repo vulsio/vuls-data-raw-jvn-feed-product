@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "37367",
-  "pname": "Active IQ Performance Analytics Services",
-  "pcpe": "cpe:/a:netapp:active_iq_performance_analytics_services"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "37367",
+	"pname": "Active IQ Performance Analytics Services",
+	"pcpe": "cpe:/a:netapp:active_iq_performance_analytics_services"
 }

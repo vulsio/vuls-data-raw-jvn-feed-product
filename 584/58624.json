@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "58624",
-  "pname": "simatic tdc cpu555 ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_tdc_cpu555_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "58624",
+	"pname": "simatic tdc cpu555 ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_tdc_cpu555_firmware"
 }

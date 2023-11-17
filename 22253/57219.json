@@ -1,8 +1,8 @@
 {
-  "vid": "22253",
-  "vname": "DuxCMS project",
-  "vcpe": "cpe:/:duxcms_project",
-  "pid": "57219",
-  "pname": "DuxCMS",
-  "pcpe": "cpe:/a:duxcms_project:duxcms"
+	"vid": "22253",
+	"vname": "DuxCMS project",
+	"vcpe": "cpe:/:duxcms_project",
+	"pid": "57219",
+	"pname": "DuxCMS",
+	"pcpe": "cpe:/a:duxcms_project:duxcms"
 }

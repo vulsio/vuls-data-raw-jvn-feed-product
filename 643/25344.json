@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "25344",
-  "pname": "Pre-Boot Authentication Driver",
-  "pcpe": "cpe:/a:dell:pre-boot_authentication_driver"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "25344",
+	"pname": "Pre-Boot Authentication Driver",
+	"pcpe": "cpe:/a:dell:pre-boot_authentication_driver"
 }

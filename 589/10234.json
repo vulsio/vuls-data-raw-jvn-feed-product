@@ -1,8 +1,8 @@
 {
-  "vid": "589",
-  "vname": "Invensys",
-  "vcpe": "cpe:/:invensys",
-  "pid": "10234",
-  "pname": "wonderware archestra configuration access component activex control",
-  "pcpe": "cpe:/a:invensys:wonderware_archestra_configuration_access_component_activex_control"
+	"vid": "589",
+	"vname": "Invensys",
+	"vcpe": "cpe:/:invensys",
+	"pid": "10234",
+	"pname": "wonderware archestra configuration access component activex control",
+	"pcpe": "cpe:/a:invensys:wonderware_archestra_configuration_access_component_activex_control"
 }

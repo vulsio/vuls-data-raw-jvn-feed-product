@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "42199",
-  "pname": "Ubuntu Cobbler",
-  "pcpe": "cpe:/a:canonical:ubuntu_cobbler"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "42199",
+	"pname": "Ubuntu Cobbler",
+	"pcpe": "cpe:/a:canonical:ubuntu_cobbler"
 }

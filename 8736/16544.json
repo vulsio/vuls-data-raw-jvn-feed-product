@@ -1,8 +1,8 @@
 {
-  "vid": "8736",
-  "vname": "zimbllc",
-  "vcpe": "cpe:/:zimbllc",
-  "pid": "16544",
-  "pname": "com zimbcore",
-  "pcpe": "cpe:/a:zimbllc:com_zimbcore"
+	"vid": "8736",
+	"vname": "zimbllc",
+	"vcpe": "cpe:/:zimbllc",
+	"pid": "16544",
+	"pname": "com zimbcore",
+	"pcpe": "cpe:/a:zimbllc:com_zimbcore"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14408",
-  "vname": "goserv project",
-  "vcpe": "cpe:/:goserv_project",
-  "pid": "34100",
-  "pname": "goserv",
-  "pcpe": "cpe:/a:goserv_project:goserv"
+	"vid": "14408",
+	"vname": "goserv project",
+	"vcpe": "cpe:/:goserv_project",
+	"pid": "34100",
+	"pname": "goserv",
+	"pcpe": "cpe:/a:goserv_project:goserv"
 }

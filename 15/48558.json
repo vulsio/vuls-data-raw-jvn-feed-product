@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "48558",
-  "pname": "Siebel Apps - Marketing",
-  "pcpe": "cpe:/a:oracle:siebel_marketing"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "48558",
+	"pname": "Siebel Apps - Marketing",
+	"pcpe": "cpe:/a:oracle:siebel_marketing"
 }

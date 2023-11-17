@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "54120",
-  "pname": "HP PageWide Pro 577z K9Z76B ファームウェア",
-  "pcpe": "cpe:/o:hp:pagewide_pro_577z_k9z76b_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "54120",
+	"pname": "HP PageWide Pro 577z K9Z76B ファームウェア",
+	"pcpe": "cpe:/o:hp:pagewide_pro_577z_k9z76b_firmware"
 }

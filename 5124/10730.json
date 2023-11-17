@@ -1,8 +1,8 @@
 {
-  "vid": "5124",
-  "vname": "kalptarudemos",
-  "vcpe": "cpe:/:kalptarudemos",
-  "pid": "10730",
-  "pname": "php site lock",
-  "pcpe": "cpe:/a:kalptarudemos:php_site_lock"
+	"vid": "5124",
+	"vname": "kalptarudemos",
+	"vcpe": "cpe:/:kalptarudemos",
+	"pid": "10730",
+	"pname": "php site lock",
+	"pcpe": "cpe:/a:kalptarudemos:php_site_lock"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10281",
-  "vname": "Accuenergy",
-  "vcpe": "cpe:/:accuenergy",
-  "pid": "26057",
-  "pname": "Acuvim IIR",
-  "pcpe": "cpe:/h:accuenergy:acuvim_iir"
+	"vid": "10281",
+	"vname": "Accuenergy",
+	"vcpe": "cpe:/:accuenergy",
+	"pid": "26057",
+	"pname": "Acuvim IIR",
+	"pcpe": "cpe:/h:accuenergy:acuvim_iir"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "11501",
-  "pname": "activesync",
-  "pcpe": "cpe:/a:microsoft:activesync"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "11501",
+	"pname": "activesync",
+	"pcpe": "cpe:/a:microsoft:activesync"
 }

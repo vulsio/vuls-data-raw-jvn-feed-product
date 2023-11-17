@@ -1,8 +1,8 @@
 {
-  "vid": "13107",
-  "vname": "Intelbras",
-  "vcpe": "cpe:/:intelbras",
-  "pid": "49944",
-  "pname": "WRN 342 ファームウェア",
-  "pcpe": "cpe:/o:intelbras:wrn_342_firmware"
+	"vid": "13107",
+	"vname": "Intelbras",
+	"vcpe": "cpe:/:intelbras",
+	"pid": "49944",
+	"pname": "WRN 342 ファームウェア",
+	"pcpe": "cpe:/o:intelbras:wrn_342_firmware"
 }

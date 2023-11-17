@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "46407",
-  "pname": "Inventory Collect Tool",
-  "pcpe": "cpe:/a:netapp:inventory_collect_tool"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "46407",
+	"pname": "Inventory Collect Tool",
+	"pcpe": "cpe:/a:netapp:inventory_collect_tool"
 }

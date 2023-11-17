@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "26196",
-  "pname": "MiiNePort E3",
-  "pcpe": "cpe:/h:moxa:miineport_e3"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "26196",
+	"pname": "MiiNePort E3",
+	"pcpe": "cpe:/h:moxa:miineport_e3"
 }

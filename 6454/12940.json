@@ -1,8 +1,8 @@
 {
-  "vid": "6454",
-  "vname": "LG Electronics",
-  "vcpe": "cpe:/:lg_electronics",
-  "pid": "12940",
-  "pname": "lg mobile handset",
-  "pcpe": "cpe:/h:lg_electronics:lg_mobile_handset"
+	"vid": "6454",
+	"vname": "LG Electronics",
+	"vcpe": "cpe:/:lg_electronics",
+	"pid": "12940",
+	"pname": "lg mobile handset",
+	"pcpe": "cpe:/h:lg_electronics:lg_mobile_handset"
 }

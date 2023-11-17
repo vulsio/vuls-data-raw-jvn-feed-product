@@ -1,8 +1,8 @@
 {
-  "vid": "21062",
-  "vname": "M-Files",
-  "vcpe": "cpe:/:m-files",
-  "pid": "59006",
-  "pname": "server",
-  "pcpe": "cpe:/a:m-files:server"
+	"vid": "21062",
+	"vname": "M-Files",
+	"vcpe": "cpe:/:m-files",
+	"pid": "59006",
+	"pname": "server",
+	"pcpe": "cpe:/a:m-files:server"
 }

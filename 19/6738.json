@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "6738",
-  "pname": "application extension framework",
-  "pcpe": "cpe:/a:cisco:application_extension_framework"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "6738",
+	"pname": "application extension framework",
+	"pcpe": "cpe:/a:cisco:application_extension_framework"
 }

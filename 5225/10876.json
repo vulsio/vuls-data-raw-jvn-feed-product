@@ -1,8 +1,8 @@
 {
-  "vid": "5225",
-  "vname": "ktp computer customer database",
-  "vcpe": "cpe:/:ktp_computer_customer_database",
-  "pid": "10876",
-  "pname": "ktp computer customer database",
-  "pcpe": "cpe:/a:ktp_computer_customer_database:ktp_computer_customer_database"
+	"vid": "5225",
+	"vname": "ktp computer customer database",
+	"vcpe": "cpe:/:ktp_computer_customer_database",
+	"pid": "10876",
+	"pname": "ktp computer customer database",
+	"pcpe": "cpe:/a:ktp_computer_customer_database:ktp_computer_customer_database"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9954",
-  "vname": "Iridium Communications",
-  "vcpe": "cpe:/:iridium",
-  "pid": "20780",
-  "pname": "Iridium Pilot",
-  "pcpe": "cpe:/h:iridium:pilot_below_deck_equipment"
+	"vid": "9954",
+	"vname": "Iridium Communications",
+	"vcpe": "cpe:/:iridium",
+	"pid": "20780",
+	"pname": "Iridium Pilot",
+	"pcpe": "cpe:/h:iridium:pilot_below_deck_equipment"
 }

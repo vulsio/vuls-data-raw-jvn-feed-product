@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63482",
-  "pname": "HP EliteBook 630 G9 Notebook PC ファームウェア",
-  "pcpe": "cpe:/o:hp:elitebook_630_g9_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63482",
+	"pname": "HP EliteBook 630 G9 Notebook PC ファームウェア",
+	"pcpe": "cpe:/o:hp:elitebook_630_g9_firmware"
 }

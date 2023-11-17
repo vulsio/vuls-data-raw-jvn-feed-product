@@ -1,8 +1,8 @@
 {
-  "vid": "7120",
-  "vname": "Provider4u",
-  "vcpe": "cpe:/:provider4u",
-  "pid": "14076",
-  "pname": "Vsftpd Webmin module",
-  "pcpe": "cpe:/a:provider4u:vsftpd_webmin_module"
+	"vid": "7120",
+	"vname": "Provider4u",
+	"vcpe": "cpe:/:provider4u",
+	"pid": "14076",
+	"pname": "Vsftpd Webmin module",
+	"pcpe": "cpe:/a:provider4u:vsftpd_webmin_module"
 }

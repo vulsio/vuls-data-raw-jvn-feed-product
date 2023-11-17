@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "36448",
-  "pname": "Oracle Content Manager",
-  "pcpe": "cpe:/a:oracle:content_manager"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "36448",
+	"pname": "Oracle Content Manager",
+	"pcpe": "cpe:/a:oracle:content_manager"
 }

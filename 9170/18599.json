@@ -1,8 +1,8 @@
 {
-  "vid": "9170",
-  "vname": "HR Systems Strategies Inc.",
-  "vcpe": "cpe:/:infohr",
-  "pid": "18599",
-  "pname": "info:HR",
-  "pcpe": "cpe:/a:infohr:hr_human_resource_information_system"
+	"vid": "9170",
+	"vname": "HR Systems Strategies Inc.",
+	"vcpe": "cpe:/:infohr",
+	"pid": "18599",
+	"pname": "info:HR",
+	"pcpe": "cpe:/a:infohr:hr_human_resource_information_system"
 }

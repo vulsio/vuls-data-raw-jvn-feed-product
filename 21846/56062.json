@@ -1,8 +1,8 @@
 {
-  "vid": "21846",
-  "vname": "Harvest",
-  "vcpe": "cpe:/:getharvest",
-  "pid": "56062",
-  "pname": "Chosen",
-  "pcpe": "cpe:/a:getharvest:chosen"
+	"vid": "21846",
+	"vname": "Harvest",
+	"vcpe": "cpe:/:getharvest",
+	"pid": "56062",
+	"pname": "Chosen",
+	"pcpe": "cpe:/a:getharvest:chosen"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2393",
-  "vname": "AVAST Software s.r.o.",
-  "vcpe": "cpe:/:avast",
-  "pid": "27129",
-  "pname": "Avast Endpoint Protection Suite",
-  "pcpe": "cpe:/a:avast:endpoint_protection_suite"
+	"vid": "2393",
+	"vname": "AVAST Software s.r.o.",
+	"vcpe": "cpe:/:avast",
+	"pid": "27129",
+	"pname": "Avast Endpoint Protection Suite",
+	"pcpe": "cpe:/a:avast:endpoint_protection_suite"
 }

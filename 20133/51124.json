@@ -1,8 +1,8 @@
 {
-  "vid": "20133",
-  "vname": "Flask-Unchained project",
-  "vcpe": "cpe:/:flask_unchained_project",
-  "pid": "51124",
-  "pname": "Flask-Unchained",
-  "pcpe": "cpe:/a:flask_unchained_project:flask_unchained"
+	"vid": "20133",
+	"vname": "Flask-Unchained project",
+	"vcpe": "cpe:/:flask_unchained_project",
+	"pid": "51124",
+	"pname": "Flask-Unchained",
+	"pcpe": "cpe:/a:flask_unchained_project:flask_unchained"
 }

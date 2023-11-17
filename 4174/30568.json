@@ -1,8 +1,8 @@
 {
-  "vid": "4174",
-  "vname": "Axesstel",
-  "vcpe": "cpe:/:axesstel",
-  "pid": "30568",
-  "pname": "MU553S ファームウェア",
-  "pcpe": "cpe:/o:axesstel:mu553s_firmware"
+	"vid": "4174",
+	"vname": "Axesstel",
+	"vcpe": "cpe:/:axesstel",
+	"pid": "30568",
+	"pname": "MU553S ファームウェア",
+	"pcpe": "cpe:/o:axesstel:mu553s_firmware"
 }

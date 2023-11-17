@@ -1,8 +1,8 @@
 {
-  "vid": "11740",
-  "vname": "HybridAuth Social Login project",
-  "vcpe": "cpe:/:hybridauth_social_login_project",
-  "pid": "24251",
-  "pname": "HybridAuth Social Login",
-  "pcpe": "cpe:/a:hybridauth_social_login_project:hybridauth_social_login"
+	"vid": "11740",
+	"vname": "HybridAuth Social Login project",
+	"vcpe": "cpe:/:hybridauth_social_login_project",
+	"pid": "24251",
+	"pname": "HybridAuth Social Login",
+	"pcpe": "cpe:/a:hybridauth_social_login_project:hybridauth_social_login"
 }

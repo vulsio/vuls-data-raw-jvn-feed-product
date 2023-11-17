@@ -1,8 +1,8 @@
 {
-  "vid": "12516",
-  "vname": "libcacard project",
-  "vcpe": "cpe:/:libcacard",
-  "pid": "28437",
-  "pname": "libcacard",
-  "pcpe": "cpe:/a:libcacard:libcacard"
+	"vid": "12516",
+	"vname": "libcacard project",
+	"vcpe": "cpe:/:libcacard",
+	"pid": "28437",
+	"pname": "libcacard",
+	"pcpe": "cpe:/a:libcacard:libcacard"
 }

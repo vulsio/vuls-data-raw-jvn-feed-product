@@ -1,8 +1,8 @@
 {
-  "vid": "425",
-  "vname": "RealVNC",
-  "vcpe": "cpe:/:realvnc",
-  "pid": "60322",
-  "pname": "vnc server",
-  "pcpe": "cpe:/a:realvnc:vnc_server"
+	"vid": "425",
+	"vname": "RealVNC",
+	"vcpe": "cpe:/:realvnc",
+	"pid": "60322",
+	"pname": "vnc server",
+	"pcpe": "cpe:/a:realvnc:vnc_server"
 }

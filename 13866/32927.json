@@ -1,8 +1,8 @@
 {
-  "vid": "13866",
-  "vname": "株式会社セルシス",
-  "vcpe": "cpe:/:misc",
-  "pid": "32927",
-  "pname": "CLIP STUDIO PAINT (Windows 版) EX/PRO/DEBUT",
-  "pcpe": "cpe:/a:misc:celsys_clip_studio_paint"
+	"vid": "13866",
+	"vname": "株式会社セルシス",
+	"vcpe": "cpe:/:misc",
+	"pid": "32927",
+	"pname": "CLIP STUDIO PAINT (Windows 版) EX/PRO/DEBUT",
+	"pcpe": "cpe:/a:misc:celsys_clip_studio_paint"
 }

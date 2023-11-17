@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "26065",
-  "pname": "Cisco Information Server",
-  "pcpe": "cpe:/a:cisco:information_server"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "26065",
+	"pname": "Cisco Information Server",
+	"pcpe": "cpe:/a:cisco:information_server"
 }

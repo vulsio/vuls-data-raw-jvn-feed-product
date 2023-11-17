@@ -1,8 +1,8 @@
 {
-  "vid": "14432",
-  "vname": "express-restify-mongoose project",
-  "vcpe": "cpe:/:express-restify-mongoose_project",
-  "pid": "34124",
-  "pname": "express-restify-mongoose",
-  "pcpe": "cpe:/a:express-restify-mongoose_project:express-restify-mongoose"
+	"vid": "14432",
+	"vname": "express-restify-mongoose project",
+	"vcpe": "cpe:/:express-restify-mongoose_project",
+	"pid": "34124",
+	"pname": "express-restify-mongoose",
+	"pcpe": "cpe:/a:express-restify-mongoose_project:express-restify-mongoose"
 }

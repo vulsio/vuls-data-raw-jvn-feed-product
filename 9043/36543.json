@@ -1,8 +1,8 @@
 {
-  "vid": "9043",
-  "vname": "Western Digital Corporation",
-  "vcpe": "cpe:/:wdc",
-  "pid": "36543",
-  "pname": "My Cloud EX4100 ファームウェア",
-  "pcpe": "cpe:/o:wdc:my_cloud_ex4100"
+	"vid": "9043",
+	"vname": "Western Digital Corporation",
+	"vcpe": "cpe:/:wdc",
+	"pid": "36543",
+	"pname": "My Cloud EX4100 ファームウェア",
+	"pcpe": "cpe:/o:wdc:my_cloud_ex4100"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9962",
-  "vname": "Schrack",
-  "vcpe": "cpe:/:schrack",
-  "pid": "20867",
-  "pname": "Schrack Technik microControl",
-  "pcpe": "cpe:/h:schrack:technik_microcontrol"
+	"vid": "9962",
+	"vname": "Schrack",
+	"vcpe": "cpe:/:schrack",
+	"pid": "20867",
+	"pname": "Schrack Technik microControl",
+	"pcpe": "cpe:/h:schrack:technik_microcontrol"
 }

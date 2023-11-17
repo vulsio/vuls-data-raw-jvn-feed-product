@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5141",
-  "pname": "Cisco Nexus 2232PP FEX スイッチ",
-  "pcpe": "cpe:/h:cisco:nexus_2232pp_fex_switch"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5141",
+	"pname": "Cisco Nexus 2232PP FEX スイッチ",
+	"pcpe": "cpe:/h:cisco:nexus_2232pp_fex_switch"
 }

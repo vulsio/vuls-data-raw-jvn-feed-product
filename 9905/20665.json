@@ -1,8 +1,8 @@
 {
-  "vid": "9905",
-  "vname": "Sabre Inc.",
-  "vcpe": "cpe:/:sabreairlinesolutions",
-  "pid": "20665",
-  "pname": "AirCentre Crew Training",
-  "pcpe": "cpe:/a:sabreairlinesolutions:crew_training"
+	"vid": "9905",
+	"vname": "Sabre Inc.",
+	"vcpe": "cpe:/:sabreairlinesolutions",
+	"pid": "20665",
+	"pname": "AirCentre Crew Training",
+	"pcpe": "cpe:/a:sabreairlinesolutions:crew_training"
 }

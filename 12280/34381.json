@@ -1,8 +1,8 @@
 {
-  "vid": "12280",
-  "vname": "Joyent, Inc.",
-  "vcpe": "cpe:/:joyent",
-  "pid": "34381",
-  "pname": "http-signature",
-  "pcpe": "cpe:/a:joyent:http-signature"
+	"vid": "12280",
+	"vname": "Joyent, Inc.",
+	"vcpe": "cpe:/:joyent",
+	"pid": "34381",
+	"pname": "http-signature",
+	"pcpe": "cpe:/a:joyent:http-signature"
 }

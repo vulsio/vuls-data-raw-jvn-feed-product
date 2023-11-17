@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "31200",
-  "pname": "CardDAV Server",
-  "pcpe": "cpe:/a:synology:carddav_server"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "31200",
+	"pname": "CardDAV Server",
+	"pcpe": "cpe:/a:synology:carddav_server"
 }

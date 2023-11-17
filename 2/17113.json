@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "17113",
-  "pname": "Active Directory Application Mode",
-  "pcpe": "cpe:/a:microsoft:active_directory_application_mode"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "17113",
+	"pname": "Active Directory Application Mode",
+	"pcpe": "cpe:/a:microsoft:active_directory_application_mode"
 }

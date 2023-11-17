@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "29346",
-  "pname": "OnCell 5104-HSPA ファームウェア",
-  "pcpe": "cpe:/o:moxa:oncell_5104-hspa_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "29346",
+	"pname": "OnCell 5104-HSPA ファームウェア",
+	"pcpe": "cpe:/o:moxa:oncell_5104-hspa_firmware"
 }

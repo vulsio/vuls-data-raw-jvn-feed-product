@@ -1,8 +1,8 @@
 {
-  "vid": "10346",
-  "vname": "Team Yoast",
-  "vcpe": "cpe:/:yoast",
-  "pid": "23740",
-  "pname": "Yoast SEO",
-  "pcpe": "cpe:/a:yoast:yoast_seo"
+	"vid": "10346",
+	"vname": "Team Yoast",
+	"vcpe": "cpe:/:yoast",
+	"pid": "23740",
+	"pname": "Yoast SEO",
+	"pcpe": "cpe:/a:yoast:yoast_seo"
 }

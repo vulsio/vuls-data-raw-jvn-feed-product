@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "32520",
-  "pname": "MGUARD DELTA TX/TX ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:mguard_delta_tx%2Ftx_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "32520",
+	"pname": "MGUARD DELTA TX/TX ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:mguard_delta_tx%2Ftx_firmware"
 }

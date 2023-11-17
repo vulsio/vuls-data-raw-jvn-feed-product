@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "63527",
-  "pname": "catalyst c6816-x-le ファームウェア",
-  "pcpe": "cpe:/o:cisco:catalyst_c6816-x-le_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "63527",
+	"pname": "catalyst c6816-x-le ファームウェア",
+	"pcpe": "cpe:/o:cisco:catalyst_c6816-x-le_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12202",
-  "vname": "株式会社マネーフォワード",
-  "vcpe": "cpe:/:money_forward_inc",
-  "pid": "31157",
-  "pname": "マネーフォワード for 住信SBIネット銀行",
-  "pcpe": "cpe:/a:money_forward_inc:money_forward_for_sbi_sumishin_net_bank"
+	"vid": "12202",
+	"vname": "株式会社マネーフォワード",
+	"vcpe": "cpe:/:money_forward_inc",
+	"pid": "31157",
+	"pname": "マネーフォワード for 住信SBIネット銀行",
+	"pcpe": "cpe:/a:money_forward_inc:money_forward_for_sbi_sumishin_net_bank"
 }

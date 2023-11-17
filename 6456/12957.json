@@ -1,8 +1,8 @@
 {
-  "vid": "6456",
-  "vname": "march networks",
-  "vcpe": "cpe:/:march_networks",
-  "pid": "12957",
-  "pname": "4310 dvr",
-  "pcpe": "cpe:/h:march_networks:4310_dvr"
+	"vid": "6456",
+	"vname": "march networks",
+	"vcpe": "cpe:/:march_networks",
+	"pid": "12957",
+	"pname": "4310 dvr",
+	"pcpe": "cpe:/h:march_networks:4310_dvr"
 }

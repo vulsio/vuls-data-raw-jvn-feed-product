@@ -1,8 +1,8 @@
 {
-  "vid": "224",
-  "vname": "アラクサラネットワークス",
-  "vcpe": "cpe:/:alaxala",
-  "pid": "19564",
-  "pname": "AX8600Rシリーズ",
-  "pcpe": "cpe:/h:alaxala:ax8600r"
+	"vid": "224",
+	"vname": "アラクサラネットワークス",
+	"vcpe": "cpe:/:alaxala",
+	"pid": "19564",
+	"pname": "AX8600Rシリーズ",
+	"pcpe": "cpe:/h:alaxala:ax8600r"
 }

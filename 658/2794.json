@@ -1,8 +1,8 @@
 {
-  "vid": "658",
-  "vname": "バラクーダネットワークス",
-  "vcpe": "cpe:/:barracuda_networks",
-  "pid": "2794",
-  "pname": "Message Archiver",
-  "pcpe": "cpe:/h:barracuda_networks:barracuda_message_archiver"
+	"vid": "658",
+	"vname": "バラクーダネットワークス",
+	"vcpe": "cpe:/:barracuda_networks",
+	"pid": "2794",
+	"pname": "Message Archiver",
+	"pcpe": "cpe:/h:barracuda_networks:barracuda_message_archiver"
 }

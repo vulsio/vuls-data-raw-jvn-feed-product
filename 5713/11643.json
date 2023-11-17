@@ -1,8 +1,8 @@
 {
-  "vid": "5713",
-  "vname": "mms gallery",
-  "vcpe": "cpe:/:mms_gallery",
-  "pid": "11643",
-  "pname": "mms gallery php",
-  "pcpe": "cpe:/a:mms_gallery:mms_gallery_php"
+	"vid": "5713",
+	"vname": "mms gallery",
+	"vcpe": "cpe:/:mms_gallery",
+	"pid": "11643",
+	"pname": "mms gallery php",
+	"pcpe": "cpe:/a:mms_gallery:mms_gallery_php"
 }

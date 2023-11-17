@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "25256",
-  "pname": "NBG-418N ファームウェア",
-  "pcpe": "cpe:/o:zyxel:nbg-418n_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "25256",
+	"pname": "NBG-418N ファームウェア",
+	"pcpe": "cpe:/o:zyxel:nbg-418n_firmware"
 }

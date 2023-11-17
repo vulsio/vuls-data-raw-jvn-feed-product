@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3174",
-  "pname": "Cisco Adaptive Security Appliance 5500 シリーズ",
-  "pcpe": "cpe:/h:cisco:5500_series_adaptive_security_appliance"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3174",
+	"pname": "Cisco Adaptive Security Appliance 5500 シリーズ",
+	"pcpe": "cpe:/h:cisco:5500_series_adaptive_security_appliance"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21206",
-  "vname": "Ruijie Networks",
-  "vcpe": "cpe:/:ruijie",
-  "pid": "54277",
-  "pname": "RG-UAC 6000-E50 ファームウェア",
-  "pcpe": "cpe:/o:ruijie:rg-uac_6000-e50_firmware"
+	"vid": "21206",
+	"vname": "Ruijie Networks",
+	"vcpe": "cpe:/:ruijie",
+	"pid": "54277",
+	"pname": "RG-UAC 6000-E50 ファームウェア",
+	"pcpe": "cpe:/o:ruijie:rg-uac_6000-e50_firmware"
 }

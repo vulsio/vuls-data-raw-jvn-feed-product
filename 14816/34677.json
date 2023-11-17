@@ -1,8 +1,8 @@
 {
-  "vid": "14816",
-  "vname": "CIBN Live Token project",
-  "vcpe": "cpe:/:cibn_live_token_project",
-  "pid": "34677",
-  "pname": "CIBN Live Token",
-  "pcpe": "cpe:/a:cibn_live_token_project:cibn_live_token"
+	"vid": "14816",
+	"vname": "CIBN Live Token project",
+	"vcpe": "cpe:/:cibn_live_token_project",
+	"pid": "34677",
+	"pname": "CIBN Live Token",
+	"pcpe": "cpe:/a:cibn_live_token_project:cibn_live_token"
 }

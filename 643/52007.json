@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "52007",
-  "pname": "Dell EMC Data Protection Search",
-  "pcpe": "cpe:/a:dell:emc_data_protection_search"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "52007",
+	"pname": "Dell EMC Data Protection Search",
+	"pcpe": "cpe:/a:dell:emc_data_protection_search"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6449",
-  "vname": "intoto",
-  "vcpe": "cpe:/:intoto",
-  "pid": "12866",
-  "pname": "igateway ssl-vpn",
-  "pcpe": "cpe:/h:intoto:igateway_ssl-vpn"
+	"vid": "6449",
+	"vname": "intoto",
+	"vcpe": "cpe:/:intoto",
+	"pid": "12866",
+	"pname": "igateway ssl-vpn",
+	"pcpe": "cpe:/h:intoto:igateway_ssl-vpn"
 }

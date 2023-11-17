@@ -1,8 +1,8 @@
 {
-  "vid": "11626",
-  "vname": "Kjetil S. Matheussen",
-  "vcpe": "cpe:/:das_watchdog_project",
-  "pid": "23880",
-  "pname": "das_watchdog",
-  "pcpe": "cpe:/a:das_watchdog_project:das_watchdog"
+	"vid": "11626",
+	"vname": "Kjetil S. Matheussen",
+	"vcpe": "cpe:/:das_watchdog_project",
+	"pid": "23880",
+	"pname": "das_watchdog",
+	"pcpe": "cpe:/a:das_watchdog_project:das_watchdog"
 }

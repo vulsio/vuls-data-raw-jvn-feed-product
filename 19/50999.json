@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "50999",
-  "pname": "Cisco Video Surveillance 7530PD ファームウェア",
-  "pcpe": "cpe:/o:cisco:video_surveillance_7530pd_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "50999",
+	"pname": "Cisco Video Surveillance 7530PD ファームウェア",
+	"pcpe": "cpe:/o:cisco:video_surveillance_7530pd_firmware"
 }

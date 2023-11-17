@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "23362",
-  "pname": "Integrated Lights Out Manager",
-  "pcpe": "cpe:/o:oracle:integrated_lights_out_manager_firmware"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "23362",
+	"pname": "Integrated Lights Out Manager",
+	"pcpe": "cpe:/o:oracle:integrated_lights_out_manager_firmware"
 }

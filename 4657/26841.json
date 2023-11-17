@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26841",
-  "pname": "CH121 V3 ファームウェア",
-  "pcpe": "cpe:/o:huawei:ch121_v3_server_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26841",
+	"pname": "CH121 V3 ファームウェア",
+	"pcpe": "cpe:/o:huawei:ch121_v3_server_firmware"
 }

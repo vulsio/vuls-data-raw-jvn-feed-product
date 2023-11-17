@@ -1,8 +1,8 @@
 {
-  "vid": "16380",
-  "vname": "Yeelight",
-  "vcpe": "cpe:/:yeelight",
-  "pid": "38702",
-  "pname": "Smart AI Speaker ファームウェア",
-  "pcpe": "cpe:/o:yeelight:smart_ai_speaker_firmware"
+	"vid": "16380",
+	"vname": "Yeelight",
+	"vcpe": "cpe:/:yeelight",
+	"pid": "38702",
+	"pname": "Smart AI Speaker ファームウェア",
+	"pcpe": "cpe:/o:yeelight:smart_ai_speaker_firmware"
 }

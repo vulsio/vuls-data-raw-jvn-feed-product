@@ -1,8 +1,8 @@
 {
-  "vid": "19219",
-  "vname": "Palo Alto Networks",
-  "vcpe": "cpe:/:paloaltonetworks",
-  "pid": "51558",
-  "pname": "Cortex XDR agent",
-  "pcpe": "cpe:/a:paloaltonetworks:cortex_xdr_agent"
+	"vid": "19219",
+	"vname": "Palo Alto Networks",
+	"vcpe": "cpe:/:paloaltonetworks",
+	"pid": "51558",
+	"pname": "Cortex XDR agent",
+	"pcpe": "cpe:/a:paloaltonetworks:cortex_xdr_agent"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "84",
-  "vname": "X.Org Foundation",
-  "vcpe": "cpe:/:x.org",
-  "pid": "9450",
-  "pname": "X.Org X Server",
-  "pcpe": "cpe:/a:x.org:x_server"
+	"vid": "84",
+	"vname": "X.Org Foundation",
+	"vcpe": "cpe:/:x.org",
+	"pid": "9450",
+	"pname": "X.Org X Server",
+	"pcpe": "cpe:/a:x.org:x_server"
 }

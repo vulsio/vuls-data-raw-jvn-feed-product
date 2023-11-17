@@ -1,8 +1,8 @@
 {
-  "vid": "21828",
-  "vname": "go-resolver project",
-  "vcpe": "cpe:/:go-resolver_project",
-  "pid": "56029",
-  "pname": "go-resolver",
-  "pcpe": "cpe:/a:go-resolver_project:go-resolver"
+	"vid": "21828",
+	"vname": "go-resolver project",
+	"vcpe": "cpe:/:go-resolver_project",
+	"pid": "56029",
+	"pname": "go-resolver",
+	"pcpe": "cpe:/a:go-resolver_project:go-resolver"
 }

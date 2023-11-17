@@ -1,8 +1,8 @@
 {
-  "vid": "2540",
-  "vname": "bitmover",
-  "vcpe": "cpe:/:bitmover",
-  "pid": "6294",
-  "pname": "lmbench",
-  "pcpe": "cpe:/a:bitmover:lmbench"
+	"vid": "2540",
+	"vname": "bitmover",
+	"vcpe": "cpe:/:bitmover",
+	"pid": "6294",
+	"pname": "lmbench",
+	"pcpe": "cpe:/a:bitmover:lmbench"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "26330",
-  "pname": "WCR-300",
-  "pcpe": "cpe:/h:buffalo_inc:wcr-300"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "26330",
+	"pname": "WCR-300",
+	"pcpe": "cpe:/h:buffalo_inc:wcr-300"
 }

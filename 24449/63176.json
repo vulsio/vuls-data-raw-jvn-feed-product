@@ -1,8 +1,8 @@
 {
-  "vid": "24449",
-  "vname": "gavazziautomation",
-  "vcpe": "cpe:/:gavazziautomation",
-  "pid": "63176",
-  "pname": "uwp 3.0 monitoring gateway and controller ファームウェア",
-  "pcpe": "cpe:/o:gavazziautomation:uwp_3.0_monitoring_gateway_and_controller_firmware"
+	"vid": "24449",
+	"vname": "gavazziautomation",
+	"vcpe": "cpe:/:gavazziautomation",
+	"pid": "63176",
+	"pname": "uwp 3.0 monitoring gateway and controller ファームウェア",
+	"pcpe": "cpe:/o:gavazziautomation:uwp_3.0_monitoring_gateway_and_controller_firmware"
 }

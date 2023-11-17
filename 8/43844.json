@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "43844",
-  "pname": "Apache Commons Configuration",
-  "pcpe": "cpe:/a:apache:commons_configuration"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "43844",
+	"pname": "Apache Commons Configuration",
+	"pcpe": "cpe:/a:apache:commons_configuration"
 }

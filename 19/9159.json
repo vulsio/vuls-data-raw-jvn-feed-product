@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "9159",
-  "pname": "Cisco Aironet AP1240 シリーズ",
-  "pcpe": "cpe:/h:cisco:aironet_ap1240"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "9159",
+	"pname": "Cisco Aironet AP1240 シリーズ",
+	"pcpe": "cpe:/h:cisco:aironet_ap1240"
 }

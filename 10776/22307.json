@@ -1,8 +1,8 @@
 {
-  "vid": "10776",
-  "vname": "mytx",
-  "vcpe": "cpe:/:mytx",
-  "pid": "22307",
-  "pname": "tx smart",
-  "pcpe": "cpe:/a:mytx:tx_smart"
+	"vid": "10776",
+	"vname": "mytx",
+	"vcpe": "cpe:/:mytx",
+	"pid": "22307",
+	"pname": "tx smart",
+	"pcpe": "cpe:/a:mytx:tx_smart"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "31977",
-  "pname": "Hyperion Data Relationship Management",
-  "pcpe": "cpe:/a:oracle:hyperion_data_relationship_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "31977",
+	"pname": "Hyperion Data Relationship Management",
+	"pcpe": "cpe:/a:oracle:hyperion_data_relationship_management"
 }

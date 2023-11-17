@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "21419",
-  "pname": "Easy Social",
-  "pcpe": "cpe:/a:drupal:easy_social_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "21419",
+	"pname": "Easy Social",
+	"pcpe": "cpe:/a:drupal:easy_social_module"
 }

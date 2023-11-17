@@ -1,8 +1,8 @@
 {
-  "vid": "22102",
-  "vname": "ACI_Escola project",
-  "vcpe": "cpe:/:aci_escola_project",
-  "pid": "56805",
-  "pname": "ACI_Escola",
-  "pcpe": "cpe:/a:aci_escola_project:aci_escola"
+	"vid": "22102",
+	"vname": "ACI_Escola project",
+	"vcpe": "cpe:/:aci_escola_project",
+	"pid": "56805",
+	"pname": "ACI_Escola",
+	"pcpe": "cpe:/a:aci_escola_project:aci_escola"
 }

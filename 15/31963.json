@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "31963",
-  "pname": "Oracle Work in Process",
-  "pcpe": "cpe:/a:oracle:work_in_process"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "31963",
+	"pname": "Oracle Work in Process",
+	"pcpe": "cpe:/a:oracle:work_in_process"
 }

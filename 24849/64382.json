@@ -1,8 +1,8 @@
 {
-  "vid": "24849",
-  "vname": "go-redrock",
-  "vcpe": "cpe:/:go-redrock",
-  "pid": "64382",
-  "pname": "tutortrac",
-  "pcpe": "cpe:/a:go-redrock:tutortrac"
+	"vid": "24849",
+	"vname": "go-redrock",
+	"vcpe": "cpe:/:go-redrock",
+	"pid": "64382",
+	"pname": "tutortrac",
+	"pcpe": "cpe:/a:go-redrock:tutortrac"
 }

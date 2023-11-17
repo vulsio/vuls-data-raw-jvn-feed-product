@@ -1,8 +1,8 @@
 {
-  "vid": "589",
-  "vname": "Invensys",
-  "vcpe": "cpe:/:invensys",
-  "pid": "8984",
-  "pname": "DASSiDirect",
-  "pcpe": "cpe:/a:invensys:dassidirect"
+	"vid": "589",
+	"vname": "Invensys",
+	"vcpe": "cpe:/:invensys",
+	"pid": "8984",
+	"pname": "DASSiDirect",
+	"pcpe": "cpe:/a:invensys:dassidirect"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1237",
-  "vname": "NetEase",
-  "vcpe": "cpe:/:netease",
-  "pid": "3981",
-  "pname": "NetEase WeiboHD",
-  "pcpe": "cpe:/a:netease:netease_weibohd"
+	"vid": "1237",
+	"vname": "NetEase",
+	"vcpe": "cpe:/:netease",
+	"pid": "3981",
+	"pname": "NetEase WeiboHD",
+	"pcpe": "cpe:/a:netease:netease_weibohd"
 }

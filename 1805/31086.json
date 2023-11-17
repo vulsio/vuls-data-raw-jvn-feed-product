@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31086",
-  "pname": "WR940N ファームウェア",
-  "pcpe": "cpe:/o:tp-link:wr940n_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31086",
+	"pname": "WR940N ファームウェア",
+	"pcpe": "cpe:/o:tp-link:wr940n_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1833",
-  "vname": "株式会社NTTドコモ",
-  "vcpe": "cpe:/:nttdocomo",
-  "pid": "29875",
-  "pname": "Wi-Fi STATION L-02F",
-  "pcpe": "cpe:/h:nttdocomo:wi-fi_station_l-02f"
+	"vid": "1833",
+	"vname": "株式会社NTTドコモ",
+	"vcpe": "cpe:/:nttdocomo",
+	"pid": "29875",
+	"pname": "Wi-Fi STATION L-02F",
+	"pcpe": "cpe:/h:nttdocomo:wi-fi_station_l-02f"
 }

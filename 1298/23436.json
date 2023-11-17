@@ -1,8 +1,8 @@
 {
-  "vid": "1298",
-  "vname": "Comodo",
-  "vcpe": "cpe:/:comodo",
-  "pid": "23436",
-  "pname": "Comodo Backup",
-  "pcpe": "cpe:/a:comodo:backup"
+	"vid": "1298",
+	"vname": "Comodo",
+	"vcpe": "cpe:/:comodo",
+	"pid": "23436",
+	"pname": "Comodo Backup",
+	"pcpe": "cpe:/a:comodo:backup"
 }

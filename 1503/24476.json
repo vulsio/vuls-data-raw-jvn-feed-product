@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "24476",
-  "pname": "Tuxedo Touch ソフトウェア",
-  "pcpe": "cpe:/o:honeywell:tuxedo_touch"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "24476",
+	"pname": "Tuxedo Touch ソフトウェア",
+	"pcpe": "cpe:/o:honeywell:tuxedo_touch"
 }

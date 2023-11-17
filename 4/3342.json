@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3342",
-  "pname": "HP Color LaserJet 4700",
-  "pcpe": "cpe:/h:hp:color_laserjet_4700"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3342",
+	"pname": "HP Color LaserJet 4700",
+	"pcpe": "cpe:/h:hp:color_laserjet_4700"
 }

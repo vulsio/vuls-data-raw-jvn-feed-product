@@ -1,8 +1,8 @@
 {
-  "vid": "18242",
-  "vname": "Nanometrics Inc",
-  "vcpe": "cpe:/:nanometrics",
-  "pid": "44696",
-  "pname": "TitanSMA",
-  "pcpe": "cpe:/a:nanometrics:titansma"
+	"vid": "18242",
+	"vname": "Nanometrics Inc",
+	"vcpe": "cpe:/:nanometrics",
+	"pid": "44696",
+	"pname": "TitanSMA",
+	"pcpe": "cpe:/a:nanometrics:titansma"
 }

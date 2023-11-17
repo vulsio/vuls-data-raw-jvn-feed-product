@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "46135",
-  "pname": "Desigo CC Compact",
-  "pcpe": "cpe:/a:siemens:desigo_consumption_control_compact"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "46135",
+	"pname": "Desigo CC Compact",
+	"pcpe": "cpe:/a:siemens:desigo_consumption_control_compact"
 }

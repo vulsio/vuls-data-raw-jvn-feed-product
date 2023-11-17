@@ -1,8 +1,8 @@
 {
-  "vid": "6016",
-  "vname": "NovaStor",
-  "vcpe": "cpe:/:novastor",
-  "pid": "12103",
-  "pname": "novanet",
-  "pcpe": "cpe:/a:novastor:novanet"
+	"vid": "6016",
+	"vname": "NovaStor",
+	"vcpe": "cpe:/:novastor",
+	"pid": "12103",
+	"pname": "novanet",
+	"pcpe": "cpe:/a:novastor:novanet"
 }

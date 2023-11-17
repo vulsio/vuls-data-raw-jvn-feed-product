@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20516",
-  "pname": "統合管理モジュール II ファームウェア",
-  "pcpe": "cpe:/o:ibm:integrated_management_module_ii_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20516",
+	"pname": "統合管理モジュール II ファームウェア",
+	"pcpe": "cpe:/o:ibm:integrated_management_module_ii_firmware"
 }

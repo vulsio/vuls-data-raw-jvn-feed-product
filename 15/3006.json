@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "3006",
-  "pname": "Oracle Communications Server",
-  "pcpe": "cpe:/a:oracle:communications_server"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "3006",
+	"pname": "Oracle Communications Server",
+	"pcpe": "cpe:/a:oracle:communications_server"
 }

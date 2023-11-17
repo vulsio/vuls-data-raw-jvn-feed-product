@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3170",
-  "pname": "Cisco NAC Guest Server Software",
-  "pcpe": "cpe:/a:cisco:nac_guest_server_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3170",
+	"pname": "Cisco NAC Guest Server Software",
+	"pcpe": "cpe:/a:cisco:nac_guest_server_software"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8259",
-  "vname": "valdersoft",
-  "vcpe": "cpe:/:valdersoft",
-  "pid": "15810",
-  "pname": "shopping cart",
-  "pcpe": "cpe:/a:valdersoft:shopping_cart"
+	"vid": "8259",
+	"vname": "valdersoft",
+	"vcpe": "cpe:/:valdersoft",
+	"pid": "15810",
+	"pname": "shopping cart",
+	"pcpe": "cpe:/a:valdersoft:shopping_cart"
 }

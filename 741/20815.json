@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "20815",
-  "pname": "DSP-W215 Wi-Fi Smart Plug",
-  "pcpe": "cpe:/h:dlink:dsp-w215"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "20815",
+	"pname": "DSP-W215 Wi-Fi Smart Plug",
+	"pcpe": "cpe:/h:dlink:dsp-w215"
 }

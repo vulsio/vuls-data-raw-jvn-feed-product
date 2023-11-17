@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "44834",
-  "pname": "AFF A300 ファームウェア",
-  "pcpe": "cpe:/o:netapp:aff_a300_firmware"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "44834",
+	"pname": "AFF A300 ファームウェア",
+	"pcpe": "cpe:/o:netapp:aff_a300_firmware"
 }

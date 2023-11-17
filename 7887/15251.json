@@ -1,8 +1,8 @@
 {
-  "vid": "7887",
-  "vname": "sysjail",
-  "vcpe": "cpe:/:sysjail",
-  "pid": "15251",
-  "pname": "sysjail",
-  "pcpe": "cpe:/a:sysjail:sysjail"
+	"vid": "7887",
+	"vname": "sysjail",
+	"vcpe": "cpe:/:sysjail",
+	"pid": "15251",
+	"pname": "sysjail",
+	"pcpe": "cpe:/a:sysjail:sysjail"
 }

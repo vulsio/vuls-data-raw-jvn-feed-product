@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "44324",
-  "pname": "KC300S2 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:kc300s2_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "44324",
+	"pname": "KC300S2 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:kc300s2_firmware"
 }

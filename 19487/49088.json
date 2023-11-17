@@ -1,8 +1,8 @@
 {
-  "vid": "19487",
-  "vname": "mozwire project",
-  "vcpe": "cpe:/:mozwire_project",
-  "pid": "49088",
-  "pname": "mozwire",
-  "pcpe": "cpe:/a:mozwire_project:mozwire"
+	"vid": "19487",
+	"vname": "mozwire project",
+	"vcpe": "cpe:/:mozwire_project",
+	"pid": "49088",
+	"pname": "mozwire",
+	"pcpe": "cpe:/a:mozwire_project:mozwire"
 }

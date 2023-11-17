@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "42798",
-  "pname": "Apache Beam",
-  "pcpe": "cpe:/a:apache:beam"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "42798",
+	"pname": "Apache Beam",
+	"pcpe": "cpe:/a:apache:beam"
 }

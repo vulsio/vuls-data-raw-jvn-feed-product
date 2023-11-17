@@ -1,8 +1,8 @@
 {
-  "vid": "14040",
-  "vname": "アボット",
-  "vcpe": "cpe:/:abbott",
-  "pid": "33462",
-  "pname": "Anthem",
-  "pcpe": "cpe:/o:abbott:anthem_firmware"
+	"vid": "14040",
+	"vname": "アボット",
+	"vcpe": "cpe:/:abbott",
+	"pid": "33462",
+	"pname": "Anthem",
+	"pcpe": "cpe:/o:abbott:anthem_firmware"
 }

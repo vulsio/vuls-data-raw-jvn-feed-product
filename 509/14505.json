@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "14505",
-  "pname": "netweaver nw04s",
-  "pcpe": "cpe:/a:sap:netweaver_nw04s"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "14505",
+	"pname": "netweaver nw04s",
+	"pcpe": "cpe:/a:sap:netweaver_nw04s"
 }

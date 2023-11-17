@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "61871",
-  "pname": "nj101-9000 ファームウェア",
-  "pcpe": "cpe:/o:omron:nj101-9000_firmware"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "61871",
+	"pname": "nj101-9000 ファームウェア",
+	"pcpe": "cpe:/o:omron:nj101-9000_firmware"
 }

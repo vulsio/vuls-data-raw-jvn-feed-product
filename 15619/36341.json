@@ -1,8 +1,8 @@
 {
-  "vid": "15619",
-  "vname": "libpg_query project",
-  "vcpe": "cpe:/:libpg_query_project",
-  "pid": "36341",
-  "pname": "libpg_query",
-  "pcpe": "cpe:/a:libpg_query_project:libpg_query"
+	"vid": "15619",
+	"vname": "libpg_query project",
+	"vcpe": "cpe:/:libpg_query_project",
+	"pid": "36341",
+	"pname": "libpg_query",
+	"pcpe": "cpe:/a:libpg_query_project:libpg_query"
 }

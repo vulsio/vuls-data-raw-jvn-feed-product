@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "54913",
-  "pname": "WebSAM SystemManager G",
-  "pcpe": "cpe:/a:nec:websam_systemmanager_g"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "54913",
+	"pname": "WebSAM SystemManager G",
+	"pcpe": "cpe:/a:nec:websam_systemmanager_g"
 }

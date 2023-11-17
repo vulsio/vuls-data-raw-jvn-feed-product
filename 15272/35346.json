@@ -1,8 +1,8 @@
 {
-  "vid": "15272",
-  "vname": "ZeroTurnaround",
-  "vcpe": "cpe:/:zeroturnaround",
-  "pid": "35346",
-  "pname": "zt-zip",
-  "pcpe": "cpe:/a:zeroturnaround:zt-zip"
+	"vid": "15272",
+	"vname": "ZeroTurnaround",
+	"vcpe": "cpe:/:zeroturnaround",
+	"pid": "35346",
+	"pname": "zt-zip",
+	"pcpe": "cpe:/a:zeroturnaround:zt-zip"
 }

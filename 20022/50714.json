@@ -1,8 +1,8 @@
 {
-  "vid": "20022",
-  "vname": "Nitrokey",
-  "vcpe": "cpe:/:nitrokey",
-  "pid": "50714",
-  "pname": "Nitrokey FIDO U2F ファームウェア",
-  "pcpe": "cpe:/o:nitrokey:fido_u2f_firmware"
+	"vid": "20022",
+	"vname": "Nitrokey",
+	"vcpe": "cpe:/:nitrokey",
+	"pid": "50714",
+	"pname": "Nitrokey FIDO U2F ファームウェア",
+	"pcpe": "cpe:/o:nitrokey:fido_u2f_firmware"
 }

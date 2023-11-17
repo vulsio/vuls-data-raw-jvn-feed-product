@@ -1,8 +1,8 @@
 {
-  "vid": "20277",
-  "vname": "Vizio",
-  "vcpe": "cpe:/:vizio",
-  "pid": "51667",
-  "pname": "P65-F1 Firmware",
-  "pcpe": "cpe:/o:vizio:p65-f1_firmware"
+	"vid": "20277",
+	"vname": "Vizio",
+	"vcpe": "cpe:/:vizio",
+	"pid": "51667",
+	"pname": "P65-F1 Firmware",
+	"pcpe": "cpe:/o:vizio:p65-f1_firmware"
 }

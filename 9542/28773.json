@@ -1,8 +1,8 @@
 {
-  "vid": "9542",
-  "vname": "ブラザー工業",
-  "vcpe": "cpe:/:brother",
-  "pid": "28773",
-  "pname": "ADS ファームウェア",
-  "pcpe": "cpe:/o:brother:ads_firmware"
+	"vid": "9542",
+	"vname": "ブラザー工業",
+	"vcpe": "cpe:/:brother",
+	"pid": "28773",
+	"pname": "ADS ファームウェア",
+	"pcpe": "cpe:/o:brother:ads_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "40173",
-  "pname": "Internet Security 2019",
-  "pcpe": "cpe:/a:trendmicro:internet_security_2019"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "40173",
+	"pname": "Internet Security 2019",
+	"pcpe": "cpe:/a:trendmicro:internet_security_2019"
 }

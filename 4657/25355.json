@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "25355",
-  "pname": "VCN500 ファームウェア",
-  "pcpe": "cpe:/a:huawei:vcn500"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "25355",
+	"pname": "VCN500 ファームウェア",
+	"pcpe": "cpe:/a:huawei:vcn500"
 }

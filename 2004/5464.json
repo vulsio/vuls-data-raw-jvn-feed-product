@@ -1,8 +1,8 @@
 {
-  "vid": "2004",
-  "vname": "Acronis International GmbH",
-  "vcpe": "cpe:/:acronis",
-  "pid": "5464",
-  "pname": "true image windows agent",
-  "pcpe": "cpe:/a:acronis:true_image_windows_agent"
+	"vid": "2004",
+	"vname": "Acronis International GmbH",
+	"vcpe": "cpe:/:acronis",
+	"pid": "5464",
+	"pname": "true image windows agent",
+	"pcpe": "cpe:/a:acronis:true_image_windows_agent"
 }

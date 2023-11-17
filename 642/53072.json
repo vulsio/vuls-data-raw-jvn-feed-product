@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "53072",
-  "pname": "MS510TXM ファームウェア",
-  "pcpe": "cpe:/o:netgear:ms510txm_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "53072",
+	"pname": "MS510TXM ファームウェア",
+	"pcpe": "cpe:/o:netgear:ms510txm_firmware"
 }

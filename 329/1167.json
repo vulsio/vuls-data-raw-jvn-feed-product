@@ -1,8 +1,8 @@
 {
-  "vid": "329",
-  "vname": "ビジネスオブジェクツ",
-  "vcpe": "cpe:/:businessobjects",
-  "pid": "1167",
-  "pname": "Crystal Reports",
-  "pcpe": "cpe:/a:businessobjects:crystal_reports"
+	"vid": "329",
+	"vname": "ビジネスオブジェクツ",
+	"vcpe": "cpe:/:businessobjects",
+	"pid": "1167",
+	"pname": "Crystal Reports",
+	"pcpe": "cpe:/a:businessobjects:crystal_reports"
 }

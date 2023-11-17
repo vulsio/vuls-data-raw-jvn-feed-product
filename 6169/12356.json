@@ -1,8 +1,8 @@
 {
-  "vid": "6169",
-  "vname": "orbitdownloader",
-  "vcpe": "cpe:/:orbitdownloader",
-  "pid": "12356",
-  "pname": "orbit downloader",
-  "pcpe": "cpe:/a:orbitdownloader:orbit_downloader"
+	"vid": "6169",
+	"vname": "orbitdownloader",
+	"vcpe": "cpe:/:orbitdownloader",
+	"pid": "12356",
+	"pname": "orbit downloader",
+	"pcpe": "cpe:/a:orbitdownloader:orbit_downloader"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16039",
-  "vname": "オムロン ソーシアルソリューションズ株式会社",
-  "vcpe": "cpe:/:omron_socilal_solutions",
-  "pid": "37536",
-  "pname": "PowerAct Pro Master Agent",
-  "pcpe": "cpe:/a:omron_socilal_solutions:poweract_pro_master_agent"
+	"vid": "16039",
+	"vname": "オムロン ソーシアルソリューションズ株式会社",
+	"vcpe": "cpe:/:omron_socilal_solutions",
+	"pid": "37536",
+	"pname": "PowerAct Pro Master Agent",
+	"pcpe": "cpe:/a:omron_socilal_solutions:poweract_pro_master_agent"
 }

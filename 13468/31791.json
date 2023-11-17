@@ -1,8 +1,8 @@
 {
-  "vid": "13468",
-  "vname": "OCaml forge",
-  "vcpe": "cpe:/:ocaml_batteries_project",
-  "pid": "31791",
-  "pname": "OCaml Batteries Included",
-  "pcpe": "cpe:/a:ocaml_batteries_project:ocaml_batteries"
+	"vid": "13468",
+	"vname": "OCaml forge",
+	"vcpe": "cpe:/:ocaml_batteries_project",
+	"pid": "31791",
+	"pname": "OCaml Batteries Included",
+	"pcpe": "cpe:/a:ocaml_batteries_project:ocaml_batteries"
 }

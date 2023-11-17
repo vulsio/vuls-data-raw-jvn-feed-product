@@ -1,8 +1,8 @@
 {
-  "vid": "16983",
-  "vname": "WPBrigade",
-  "vcpe": "cpe:/:wpbrigade",
-  "pid": "57420",
-  "pname": "Login Logout Menu",
-  "pcpe": "cpe:/a:wpbrigade:login_logout_menu"
+	"vid": "16983",
+	"vname": "WPBrigade",
+	"vcpe": "cpe:/:wpbrigade",
+	"pid": "57420",
+	"pname": "Login Logout Menu",
+	"pcpe": "cpe:/a:wpbrigade:login_logout_menu"
 }

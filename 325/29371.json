@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "29371",
-  "pname": "Lenovo Service Bridge",
-  "pcpe": "cpe:/a:lenovo:lenovo_service_bridge"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "29371",
+	"pname": "Lenovo Service Bridge",
+	"pcpe": "cpe:/a:lenovo:lenovo_service_bridge"
 }

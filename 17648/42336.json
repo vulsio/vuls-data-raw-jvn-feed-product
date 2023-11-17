@@ -1,8 +1,8 @@
 {
-  "vid": "17648",
-  "vname": "XORBIN",
-  "vcpe": "cpe:/:xorbin",
-  "pid": "42336",
-  "pname": "Xorbin Analog Flash Clock",
-  "pcpe": "cpe:/a:xorbin:analog_flash_clock"
+	"vid": "17648",
+	"vname": "XORBIN",
+	"vcpe": "cpe:/:xorbin",
+	"pid": "42336",
+	"pname": "Xorbin Analog Flash Clock",
+	"pcpe": "cpe:/a:xorbin:analog_flash_clock"
 }

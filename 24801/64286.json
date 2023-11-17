@@ -1,8 +1,8 @@
 {
-  "vid": "24801",
-  "vname": "networktocode",
-  "vcpe": "cpe:/:networktocode",
-  "pid": "64286",
-  "pname": "nautobot",
-  "pcpe": "cpe:/a:networktocode:nautobot"
+	"vid": "24801",
+	"vname": "networktocode",
+	"vcpe": "cpe:/:networktocode",
+	"pid": "64286",
+	"pname": "nautobot",
+	"pcpe": "cpe:/a:networktocode:nautobot"
 }

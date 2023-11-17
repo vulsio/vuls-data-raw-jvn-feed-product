@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "53345",
-  "pname": "Zoom Plugin for Microsoft Outlook",
-  "pcpe": "cpe:/a:zoom:zoom_plugin_for_microsoft_outlook"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "53345",
+	"pname": "Zoom Plugin for Microsoft Outlook",
+	"pcpe": "cpe:/a:zoom:zoom_plugin_for_microsoft_outlook"
 }

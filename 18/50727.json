@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "50727",
-  "pname": "IBM 8335-GTB ファームウェア",
-  "pcpe": "cpe:/o:ibm:8335-gtb_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "50727",
+	"pname": "IBM 8335-GTB ファームウェア",
+	"pcpe": "cpe:/o:ibm:8335-gtb_firmware"
 }

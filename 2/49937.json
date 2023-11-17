@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "49937",
-  "pname": "Clarity",
-  "pcpe": "cpe:/a:microsoft:clarity"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "49937",
+	"pname": "Clarity",
+	"pcpe": "cpe:/a:microsoft:clarity"
 }

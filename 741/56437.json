@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "56437",
-  "pname": "DIR-823-Pro ファームウェア",
-  "pcpe": "cpe:/o:dlink:dir-823_pro_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "56437",
+	"pname": "DIR-823-Pro ファームウェア",
+	"pcpe": "cpe:/o:dlink:dir-823_pro_firmware"
 }

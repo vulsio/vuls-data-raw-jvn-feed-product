@@ -1,8 +1,8 @@
 {
-  "vid": "11928",
-  "vname": "Project Jupyter",
-  "vcpe": "cpe:/:jupyter",
-  "pid": "52153",
-  "pname": "BinderHub",
-  "pcpe": "cpe:/a:jupyter:binderhub"
+	"vid": "11928",
+	"vname": "Project Jupyter",
+	"vcpe": "cpe:/:jupyter",
+	"pid": "52153",
+	"pname": "BinderHub",
+	"pcpe": "cpe:/a:jupyter:binderhub"
 }

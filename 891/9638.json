@@ -1,8 +1,8 @@
 {
-  "vid": "891",
-  "vname": "osCommerce",
-  "vcpe": "cpe:/:oscommerce",
-  "pid": "9638",
-  "pname": "PayPal Website Payments",
-  "pcpe": "cpe:/a:oscommerce:paypal_website_payments"
+	"vid": "891",
+	"vname": "osCommerce",
+	"vcpe": "cpe:/:oscommerce",
+	"pid": "9638",
+	"pname": "PayPal Website Payments",
+	"pcpe": "cpe:/a:oscommerce:paypal_website_payments"
 }

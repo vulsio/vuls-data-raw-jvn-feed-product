@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30279",
-  "pname": "ThinkCentre M910x ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m910x_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30279",
+	"pname": "ThinkCentre M910x ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m910x_firmware"
 }

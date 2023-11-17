@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17219",
-  "pname": "IBM Document Connect for Application Support Facility",
-  "pcpe": "cpe:/a:ibm:document_connect_for_application_support_facility"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17219",
+	"pname": "IBM Document Connect for Application Support Facility",
+	"pcpe": "cpe:/a:ibm:document_connect_for_application_support_facility"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15661",
-  "vname": "YI Technology",
-  "vcpe": "cpe:/:yitechnology",
-  "pid": "40459",
-  "pname": "YI M1 Mirrorless Camera ファームウェア",
-  "pcpe": "cpe:/o:yitechnology:yi_m1_mirrorless_camera_firmware"
+	"vid": "15661",
+	"vname": "YI Technology",
+	"vcpe": "cpe:/:yitechnology",
+	"pid": "40459",
+	"pname": "YI M1 Mirrorless Camera ファームウェア",
+	"pcpe": "cpe:/o:yitechnology:yi_m1_mirrorless_camera_firmware"
 }

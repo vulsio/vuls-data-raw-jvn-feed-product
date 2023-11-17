@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "62389",
-  "pname": "FortiAuthenticator Agent for Microsoft Outlook Web Access",
-  "pcpe": "cpe:/a:fortinet:fortiauthenticator_agent_for_microsoft_outlook_web_access"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "62389",
+	"pname": "FortiAuthenticator Agent for Microsoft Outlook Web Access",
+	"pcpe": "cpe:/a:fortinet:fortiauthenticator_agent_for_microsoft_outlook_web_access"
 }

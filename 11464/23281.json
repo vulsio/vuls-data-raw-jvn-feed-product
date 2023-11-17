@@ -1,8 +1,8 @@
 {
-  "vid": "11464",
-  "vname": "Luminary",
-  "vcpe": "cpe:/:clientresponse_project",
-  "pid": "23281",
-  "pname": "clientResponse",
-  "pcpe": "cpe:/a:clientresponse_project:clientresponse"
+	"vid": "11464",
+	"vname": "Luminary",
+	"vcpe": "cpe:/:clientresponse_project",
+	"pid": "23281",
+	"pname": "clientResponse",
+	"pcpe": "cpe:/a:clientresponse_project:clientresponse"
 }

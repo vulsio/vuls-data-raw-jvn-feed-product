@@ -1,8 +1,8 @@
 {
-  "vid": "11258",
-  "vname": "techradar news project",
-  "vcpe": "cpe:/:techradar_news_project",
-  "pid": "22935",
-  "pname": "techradar news",
-  "pcpe": "cpe:/a:techradar_news_project:techradar_news"
+	"vid": "11258",
+	"vname": "techradar news project",
+	"vcpe": "cpe:/:techradar_news_project",
+	"pid": "22935",
+	"pname": "techradar news",
+	"pcpe": "cpe:/a:techradar_news_project:techradar_news"
 }

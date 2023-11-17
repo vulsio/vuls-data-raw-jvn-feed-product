@@ -1,8 +1,8 @@
 {
-  "vid": "9020",
-  "vname": "Triangle Research International",
-  "vcpe": "cpe:/:triplc",
-  "pid": "43341",
-  "pname": "TRiLOGI Server",
-  "pcpe": "cpe:/a:triplc:trilogi_server"
+	"vid": "9020",
+	"vname": "Triangle Research International",
+	"vcpe": "cpe:/:triplc",
+	"pid": "43341",
+	"pname": "TRiLOGI Server",
+	"pcpe": "cpe:/a:triplc:trilogi_server"
 }

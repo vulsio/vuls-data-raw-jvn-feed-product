@@ -1,8 +1,8 @@
 {
-  "vid": "2384",
-  "vname": "オートデスク株式会社",
-  "vcpe": "cpe:/:autodesk",
-  "pid": "17816",
-  "pname": "AutoCAD Plant 3D",
-  "pcpe": "cpe:/a:autodesk:autocad_plant_3d"
+	"vid": "2384",
+	"vname": "オートデスク株式会社",
+	"vcpe": "cpe:/:autodesk",
+	"pid": "17816",
+	"pname": "AutoCAD Plant 3D",
+	"pcpe": "cpe:/a:autodesk:autocad_plant_3d"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "48319",
-  "pname": "AFF BIOS",
-  "pcpe": "cpe:/o:netapp:aff_bios"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "48319",
+	"pname": "AFF BIOS",
+	"pcpe": "cpe:/o:netapp:aff_bios"
 }

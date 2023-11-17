@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17146",
-  "pname": "IBM Sterling File Gateway",
-  "pcpe": "cpe:/a:ibm:sterling_file_gateway"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17146",
+	"pname": "IBM Sterling File Gateway",
+	"pcpe": "cpe:/a:ibm:sterling_file_gateway"
 }

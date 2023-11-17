@@ -1,8 +1,8 @@
 {
-  "vid": "12321",
-  "vname": "Belledonne Communications",
-  "vcpe": "cpe:/:bzrtp_project",
-  "pid": "27688",
-  "pname": "bzrtp",
-  "pcpe": "cpe:/a:bzrtp_project:bzrtp"
+	"vid": "12321",
+	"vname": "Belledonne Communications",
+	"vcpe": "cpe:/:bzrtp_project",
+	"pid": "27688",
+	"pname": "bzrtp",
+	"pcpe": "cpe:/a:bzrtp_project:bzrtp"
 }

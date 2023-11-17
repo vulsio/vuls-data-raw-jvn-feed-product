@@ -1,8 +1,8 @@
 {
-  "vid": "16160",
-  "vname": "Threshold",
-  "vcpe": "cpe:/:thresholdsecurity",
-  "pid": "37876",
-  "pname": "eVisitorPass",
-  "pcpe": "cpe:/a:thresholdsecurity:evisitorpass"
+	"vid": "16160",
+	"vname": "Threshold",
+	"vcpe": "cpe:/:thresholdsecurity",
+	"pid": "37876",
+	"pname": "eVisitorPass",
+	"pcpe": "cpe:/a:thresholdsecurity:evisitorpass"
 }

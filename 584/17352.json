@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "17352",
-  "pname": "SCALANCE XF204IRT",
-  "pcpe": "cpe:/h:siemens:scalance_xf204irt"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "17352",
+	"pname": "SCALANCE XF204IRT",
+	"pcpe": "cpe:/h:siemens:scalance_xf204irt"
 }

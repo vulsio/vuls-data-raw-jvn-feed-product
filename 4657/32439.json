@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "32439",
-  "pname": "AR100 ファームウェア",
-  "pcpe": "cpe:/o:huawei:ar100_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "32439",
+	"pname": "AR100 ファームウェア",
+	"pcpe": "cpe:/o:huawei:ar100_firmware"
 }

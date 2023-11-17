@@ -1,8 +1,8 @@
 {
-  "vid": "143",
-  "vname": "Darksky",
-  "vcpe": "cpe:/:fenrir",
-  "pid": "462",
-  "pname": "RSSバー",
-  "pcpe": "cpe:/a:fenrir:darksky_rss_bar"
+	"vid": "143",
+	"vname": "Darksky",
+	"vcpe": "cpe:/:fenrir",
+	"pid": "462",
+	"pname": "RSSバー",
+	"pcpe": "cpe:/a:fenrir:darksky_rss_bar"
 }

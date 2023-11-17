@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "18964",
-  "pname": "IBM Sterling Connect:Enterprise HTTP Option",
-  "pcpe": "cpe:/a:ibm:sterling_connect_enterprise_http_option"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "18964",
+	"pname": "IBM Sterling Connect:Enterprise HTTP Option",
+	"pcpe": "cpe:/a:ibm:sterling_connect_enterprise_http_option"
 }

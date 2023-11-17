@@ -1,8 +1,8 @@
 {
-  "vid": "16007",
-  "vname": "VyOS Project",
-  "vcpe": "cpe:/:vyos",
-  "pid": "37419",
-  "pname": "VyOS",
-  "pcpe": "cpe:/o:vyos:vyos"
+	"vid": "16007",
+	"vname": "VyOS Project",
+	"vcpe": "cpe:/:vyos",
+	"pid": "37419",
+	"pname": "VyOS",
+	"pcpe": "cpe:/o:vyos:vyos"
 }

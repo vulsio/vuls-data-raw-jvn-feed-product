@@ -1,8 +1,8 @@
 {
-  "vid": "20199",
-  "vname": "Smashing project",
-  "vcpe": "cpe:/:smashing_project",
-  "pid": "51426",
-  "pname": "Smashing",
-  "pcpe": "cpe:/a:smashing_project:smashing"
+	"vid": "20199",
+	"vname": "Smashing project",
+	"vcpe": "cpe:/:smashing_project",
+	"pid": "51426",
+	"pname": "Smashing",
+	"pcpe": "cpe:/a:smashing_project:smashing"
 }

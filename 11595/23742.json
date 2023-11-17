@@ -1,8 +1,8 @@
 {
-  "vid": "11595",
-  "vname": "automount project",
-  "vcpe": "cpe:/:automount_project",
-  "pid": "23742",
-  "pname": "automount",
-  "pcpe": "cpe:/a:automount_project:automount"
+	"vid": "11595",
+	"vname": "automount project",
+	"vcpe": "cpe:/:automount_project",
+	"pid": "23742",
+	"pname": "automount",
+	"pcpe": "cpe:/a:automount_project:automount"
 }

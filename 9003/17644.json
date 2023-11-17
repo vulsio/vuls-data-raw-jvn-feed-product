@@ -1,8 +1,8 @@
 {
-  "vid": "9003",
-  "vname": "Monroe Electronics",
-  "vcpe": "cpe:/:monroe_electronics",
-  "pid": "17644",
-  "pname": "R189 One-Net",
-  "pcpe": "cpe:/h:monroe_electronics:r189_one-net_eas"
+	"vid": "9003",
+	"vname": "Monroe Electronics",
+	"vcpe": "cpe:/:monroe_electronics",
+	"pid": "17644",
+	"pname": "R189 One-Net",
+	"pcpe": "cpe:/h:monroe_electronics:r189_one-net_eas"
 }

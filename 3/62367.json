@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "62367",
-  "pname": "ansible runner",
-  "pcpe": "cpe:/a:redhat:ansible_runner"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "62367",
+	"pname": "ansible runner",
+	"pcpe": "cpe:/a:redhat:ansible_runner"
 }

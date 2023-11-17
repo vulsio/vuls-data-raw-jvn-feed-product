@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "42068",
-  "pname": "Helpdesk",
-  "pcpe": "cpe:/a:qnap:helpdesk"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "42068",
+	"pname": "Helpdesk",
+	"pcpe": "cpe:/a:qnap:helpdesk"
 }

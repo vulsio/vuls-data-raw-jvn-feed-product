@@ -1,8 +1,8 @@
 {
-  "vid": "255",
-  "vname": "キヤノン",
-  "vcpe": "cpe:/:canon",
-  "pid": "39909",
-  "pname": "EOS-6D ファームウェア",
-  "pcpe": "cpe:/o:canon:eos_6d_firmware"
+	"vid": "255",
+	"vname": "キヤノン",
+	"vcpe": "cpe:/:canon",
+	"pid": "39909",
+	"pname": "EOS-6D ファームウェア",
+	"pcpe": "cpe:/o:canon:eos_6d_firmware"
 }

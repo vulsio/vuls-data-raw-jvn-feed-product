@@ -1,8 +1,8 @@
 {
-  "vid": "8746",
-  "vname": "ZNC",
-  "vcpe": "cpe:/:znc",
-  "pid": "16554",
-  "pname": "ZNC",
-  "pcpe": "cpe:/a:znc:znc"
+	"vid": "8746",
+	"vname": "ZNC",
+	"vcpe": "cpe:/:znc",
+	"pid": "16554",
+	"pname": "ZNC",
+	"pcpe": "cpe:/a:znc:znc"
 }

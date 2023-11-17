@@ -1,8 +1,8 @@
 {
-  "vid": "12347",
-  "vname": "Grails project",
-  "vcpe": "cpe:/:grails",
-  "pid": "32915",
-  "pname": "Grails Resources",
-  "pcpe": "cpe:/a:grails:resources"
+	"vid": "12347",
+	"vname": "Grails project",
+	"vcpe": "cpe:/:grails",
+	"pid": "32915",
+	"pname": "Grails Resources",
+	"pcpe": "cpe:/a:grails:resources"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20760",
-  "vname": "Inoguard",
-  "vcpe": "cpe:/:inoguard",
-  "pid": "52959",
-  "pname": "ExECM CoreB2B",
-  "pcpe": "cpe:/a:inoguard:execm_coreb2b"
+	"vid": "20760",
+	"vname": "Inoguard",
+	"vcpe": "cpe:/:inoguard",
+	"pid": "52959",
+	"pname": "ExECM CoreB2B",
+	"pcpe": "cpe:/a:inoguard:execm_coreb2b"
 }

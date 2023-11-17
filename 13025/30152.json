@@ -1,8 +1,8 @@
 {
-  "vid": "13025",
-  "vname": "NXP Semiconductors",
-  "vcpe": "cpe:/:nxp",
-  "pid": "30152",
-  "pname": "i.MX 28 ファームウェア",
-  "pcpe": "cpe:/o:nxp:i.mx_28_firmware"
+	"vid": "13025",
+	"vname": "NXP Semiconductors",
+	"vcpe": "cpe:/:nxp",
+	"pid": "30152",
+	"pname": "i.MX 28 ファームウェア",
+	"pcpe": "cpe:/o:nxp:i.mx_28_firmware"
 }

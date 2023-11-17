@@ -1,8 +1,8 @@
 {
-  "vid": "15460",
-  "vname": "National Payments Corporation of India",
-  "vcpe": "cpe:/:npci",
-  "pid": "35881",
-  "pname": "BHIM",
-  "pcpe": "cpe:/a:npci:bharat_interface_for_money_%28bhim%29"
+	"vid": "15460",
+	"vname": "National Payments Corporation of India",
+	"vcpe": "cpe:/:npci",
+	"pid": "35881",
+	"pname": "BHIM",
+	"pcpe": "cpe:/a:npci:bharat_interface_for_money_%28bhim%29"
 }

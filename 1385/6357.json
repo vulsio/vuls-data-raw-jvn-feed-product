@@ -1,8 +1,8 @@
 {
-  "vid": "1385",
-  "vname": "BMC Software",
-  "vcpe": "cpe:/:bmc",
-  "pid": "6357",
-  "pname": "Patrol Agent",
-  "pcpe": "cpe:/a:bmc:patrol_agent"
+	"vid": "1385",
+	"vname": "BMC Software",
+	"vcpe": "cpe:/:bmc",
+	"pid": "6357",
+	"pname": "Patrol Agent",
+	"pcpe": "cpe:/a:bmc:patrol_agent"
 }

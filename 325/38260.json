@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "38260",
-  "pname": "Bootable USB",
-  "pcpe": "cpe:/a:lenovo:bootable_usb"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "38260",
+	"pname": "Bootable USB",
+	"pcpe": "cpe:/a:lenovo:bootable_usb"
 }

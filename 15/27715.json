@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27715",
-  "pname": "Oracle Customer Intelligence",
-  "pcpe": "cpe:/a:oracle:customer_intelligence"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27715",
+	"pname": "Oracle Customer Intelligence",
+	"pcpe": "cpe:/a:oracle:customer_intelligence"
 }

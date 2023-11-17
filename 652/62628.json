@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "62628",
-  "pname": "photo editor",
-  "pcpe": "cpe:/a:samsung:photo_editor"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "62628",
+	"pname": "photo editor",
+	"pcpe": "cpe:/a:samsung:photo_editor"
 }

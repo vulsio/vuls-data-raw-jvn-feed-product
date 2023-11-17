@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "41829",
-  "pname": "BMX NOE 0100 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:bmx_noe_0100_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "41829",
+	"pname": "BMX NOE 0100 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:bmx_noe_0100_firmware"
 }

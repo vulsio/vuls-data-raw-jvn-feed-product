@@ -1,8 +1,8 @@
 {
-  "vid": "3482",
-  "vname": "エンバカデロ・テクノロジーズ",
-  "vcpe": "cpe:/:embarcadero",
-  "pid": "21005",
-  "pname": "Embarcadero Delphi XE6",
-  "pcpe": "cpe:/a:embarcadero:embarcadero_delphi_xe6"
+	"vid": "3482",
+	"vname": "エンバカデロ・テクノロジーズ",
+	"vcpe": "cpe:/:embarcadero",
+	"pid": "21005",
+	"pname": "Embarcadero Delphi XE6",
+	"pcpe": "cpe:/a:embarcadero:embarcadero_delphi_xe6"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16504",
-  "vname": "Read the Docs",
-  "vcpe": "cpe:/:readthedocs",
-  "pid": "39261",
-  "pname": "Read the Docs",
-  "pcpe": "cpe:/a:readthedocs:read_the_docs"
+	"vid": "16504",
+	"vname": "Read the Docs",
+	"vcpe": "cpe:/:readthedocs",
+	"pid": "39261",
+	"pname": "Read the Docs",
+	"pcpe": "cpe:/a:readthedocs:read_the_docs"
 }

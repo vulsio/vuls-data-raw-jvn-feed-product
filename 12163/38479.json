@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38479",
-  "pname": "Ansible Tower",
-  "pcpe": "cpe:/a:jenkins:ansible_tower"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38479",
+	"pname": "Ansible Tower",
+	"pcpe": "cpe:/a:jenkins:ansible_tower"
 }

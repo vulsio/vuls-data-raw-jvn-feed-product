@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "44819",
-  "pname": "TL-WA855RE ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-wa855re_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "44819",
+	"pname": "TL-WA855RE ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-wa855re_firmware"
 }

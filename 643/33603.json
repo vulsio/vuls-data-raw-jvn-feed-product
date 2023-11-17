@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "33603",
-  "pname": "Dell EMC XtremIO",
-  "pcpe": "cpe:/a:dell:emc_xtremio"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "33603",
+	"pname": "Dell EMC XtremIO",
+	"pcpe": "cpe:/a:dell:emc_xtremio"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "266",
-  "vname": "PNG Development Group",
-  "vcpe": "cpe:/:libpng",
-  "pid": "48213",
-  "pname": "pngcheck",
-  "pcpe": "cpe:/a:libpng:pngcheck"
+	"vid": "266",
+	"vname": "PNG Development Group",
+	"vcpe": "cpe:/:libpng",
+	"pid": "48213",
+	"pname": "pngcheck",
+	"pcpe": "cpe:/a:libpng:pngcheck"
 }

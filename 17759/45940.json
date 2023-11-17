@@ -1,8 +1,8 @@
 {
-  "vid": "17759",
-  "vname": "Teradici",
-  "vcpe": "cpe:/:teradici",
-  "pid": "45940",
-  "pname": "Cloud Access Connector Legacy",
-  "pcpe": "cpe:/a:teradici:cloud_access_connector_legacy"
+	"vid": "17759",
+	"vname": "Teradici",
+	"vcpe": "cpe:/:teradici",
+	"pid": "45940",
+	"pname": "Cloud Access Connector Legacy",
+	"pcpe": "cpe:/a:teradici:cloud_access_connector_legacy"
 }

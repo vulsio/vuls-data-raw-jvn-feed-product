@@ -1,8 +1,8 @@
 {
-  "vid": "4248",
-  "vname": "Synel",
-  "vcpe": "cpe:/:synel",
-  "pid": "8993",
-  "pname": "SY-780/A",
-  "pcpe": "cpe:/h:synel:sy-780%2Fa_time_%26_attendance_terminal"
+	"vid": "4248",
+	"vname": "Synel",
+	"vcpe": "cpe:/:synel",
+	"pid": "8993",
+	"pname": "SY-780/A",
+	"pcpe": "cpe:/h:synel:sy-780%2Fa_time_%26_attendance_terminal"
 }

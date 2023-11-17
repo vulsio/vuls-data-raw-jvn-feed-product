@@ -1,8 +1,8 @@
 {
-  "vid": "11723",
-  "vname": "Ceph project",
-  "vcpe": "cpe:/:ceph_project",
-  "pid": "26995",
-  "pname": "Ceph",
-  "pcpe": "cpe:/a:ceph_project:ceph"
+	"vid": "11723",
+	"vname": "Ceph project",
+	"vcpe": "cpe:/:ceph_project",
+	"pid": "26995",
+	"pname": "Ceph",
+	"pcpe": "cpe:/a:ceph_project:ceph"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14280",
-  "vname": "jdf-sass project",
-  "vcpe": "cpe:/:jdf-sass_project",
-  "pid": "33958",
-  "pname": "jdf-sass",
-  "pcpe": "cpe:/a:jdf-sass_project:node-sass"
+	"vid": "14280",
+	"vname": "jdf-sass project",
+	"vcpe": "cpe:/:jdf-sass_project",
+	"pid": "33958",
+	"pname": "jdf-sass",
+	"pcpe": "cpe:/a:jdf-sass_project:node-sass"
 }

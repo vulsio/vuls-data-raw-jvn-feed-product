@@ -1,8 +1,8 @@
 {
-  "vid": "9329",
-  "vname": "Sierra Wireless",
-  "vcpe": "cpe:/:sierra_wireless",
-  "pid": "24595",
-  "pname": "AirLink GX440",
-  "pcpe": "cpe:/h:sierra_wireless:airlink_gx440"
+	"vid": "9329",
+	"vname": "Sierra Wireless",
+	"vcpe": "cpe:/:sierra_wireless",
+	"pid": "24595",
+	"pname": "AirLink GX440",
+	"pcpe": "cpe:/h:sierra_wireless:airlink_gx440"
 }

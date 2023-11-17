@@ -1,8 +1,8 @@
 {
-  "vid": "15309",
-  "vname": "SunContract",
-  "vcpe": "cpe:/:suncontract",
-  "pid": "35506",
-  "pname": "SunContract",
-  "pcpe": "cpe:/a:suncontract:smartcontracts"
+	"vid": "15309",
+	"vname": "SunContract",
+	"vcpe": "cpe:/:suncontract",
+	"pid": "35506",
+	"pname": "SunContract",
+	"pcpe": "cpe:/a:suncontract:smartcontracts"
 }

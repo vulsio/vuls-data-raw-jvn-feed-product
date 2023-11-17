@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "41376",
-  "pname": "HDZ302LIW ファームウェア",
-  "pcpe": "cpe:/o:honeywell:hdz302liw_firmware"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "41376",
+	"pname": "HDZ302LIW ファームウェア",
+	"pcpe": "cpe:/o:honeywell:hdz302liw_firmware"
 }

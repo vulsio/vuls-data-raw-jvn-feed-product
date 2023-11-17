@@ -1,8 +1,8 @@
 {
-  "vid": "17075",
-  "vname": "NetAttingo Technologies",
-  "vcpe": "cpe:/:netattingo",
-  "pid": "40574",
-  "pname": "wp-whois-domain",
-  "pcpe": "cpe:/a:netattingo:wp-whois-domain"
+	"vid": "17075",
+	"vname": "NetAttingo Technologies",
+	"vcpe": "cpe:/:netattingo",
+	"pid": "40574",
+	"pname": "wp-whois-domain",
+	"pcpe": "cpe:/a:netattingo:wp-whois-domain"
 }

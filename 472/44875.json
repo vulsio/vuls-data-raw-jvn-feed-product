@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "44875",
-  "pname": "ControlFLASH Plus",
-  "pcpe": "cpe:/a:rockwellautomation:controlflash_plus"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "44875",
+	"pname": "ControlFLASH Plus",
+	"pcpe": "cpe:/a:rockwellautomation:controlflash_plus"
 }

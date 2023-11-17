@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "41218",
-  "pname": "Cisco 550x シリーズ ファームウェア",
-  "pcpe": "cpe:/o:cisco:550x_series_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "41218",
+	"pname": "Cisco 550x シリーズ ファームウェア",
+	"pcpe": "cpe:/o:cisco:550x_series_firmware"
 }

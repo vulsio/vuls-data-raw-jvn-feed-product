@@ -1,8 +1,8 @@
 {
-  "vid": "22435",
-  "vname": "kexec-tools project",
-  "vcpe": "cpe:/:kexec-tools_project",
-  "pid": "57697",
-  "pname": "kexec-tools",
-  "pcpe": "cpe:/a:kexec-tools_project:kexec-tools"
+	"vid": "22435",
+	"vname": "kexec-tools project",
+	"vcpe": "cpe:/:kexec-tools_project",
+	"pid": "57697",
+	"pname": "kexec-tools",
+	"pcpe": "cpe:/a:kexec-tools_project:kexec-tools"
 }

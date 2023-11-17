@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53688",
-  "pname": "Oracle Real User Experience Insight",
-  "pcpe": "cpe:/a:oracle:real_user_experience_insight"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53688",
+	"pname": "Oracle Real User Experience Insight",
+	"pcpe": "cpe:/a:oracle:real_user_experience_insight"
 }

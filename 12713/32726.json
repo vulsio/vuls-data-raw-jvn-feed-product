@@ -1,8 +1,8 @@
 {
-  "vid": "12713",
-  "vname": "Gemalto N.V.",
-  "vcpe": "cpe:/:gemalto",
-  "pid": "32726",
-  "pname": "SafeNet Authentication Service Remote Web Workplace Agent",
-  "pcpe": "cpe:/a:gemalto:safenet_authentication_service_remote_web_workplace_agent"
+	"vid": "12713",
+	"vname": "Gemalto N.V.",
+	"vcpe": "cpe:/:gemalto",
+	"pid": "32726",
+	"pname": "SafeNet Authentication Service Remote Web Workplace Agent",
+	"pcpe": "cpe:/a:gemalto:safenet_authentication_service_remote_web_workplace_agent"
 }

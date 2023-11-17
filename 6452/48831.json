@@ -1,8 +1,8 @@
 {
-  "vid": "6452",
-  "vname": "Lantronix, Inc.",
-  "vcpe": "cpe:/:lantronix",
-  "pid": "48831",
-  "pname": "XPort EDGE ファームウェア",
-  "pcpe": "cpe:/o:lantronix:xport_edge_firmware"
+	"vid": "6452",
+	"vname": "Lantronix, Inc.",
+	"vcpe": "cpe:/:lantronix",
+	"pid": "48831",
+	"pname": "XPort EDGE ファームウェア",
+	"pcpe": "cpe:/o:lantronix:xport_edge_firmware"
 }

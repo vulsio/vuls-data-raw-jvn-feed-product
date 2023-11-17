@@ -1,8 +1,8 @@
 {
-  "vid": "372",
-  "vname": "Nagios Enterprises, LLC",
-  "vcpe": "cpe:/:nagios",
-  "pid": "32497",
-  "pname": "Business Process Intelligence",
-  "pcpe": "cpe:/a:nagios:business_process_intelligence"
+	"vid": "372",
+	"vname": "Nagios Enterprises, LLC",
+	"vcpe": "cpe:/:nagios",
+	"pid": "32497",
+	"pname": "Business Process Intelligence",
+	"pcpe": "cpe:/a:nagios:business_process_intelligence"
 }

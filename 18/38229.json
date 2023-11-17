@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "38229",
-  "pname": "IBM InfoSphere Metadata Asset Manager",
-  "pcpe": "cpe:/a:ibm:infosphere_metadata_asset_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "38229",
+	"pname": "IBM InfoSphere Metadata Asset Manager",
+	"pcpe": "cpe:/a:ibm:infosphere_metadata_asset_manager"
 }

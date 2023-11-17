@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "43955",
-  "pname": "DSL-2877AL ファームウェア",
-  "pcpe": "cpe:/o:dlink:dsl-2877al_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "43955",
+	"pname": "DSL-2877AL ファームウェア",
+	"pcpe": "cpe:/o:dlink:dsl-2877al_firmware"
 }

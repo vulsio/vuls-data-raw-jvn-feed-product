@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "35264",
-  "pname": "Cloud Foundry Java Buildpack",
-  "pcpe": "cpe:/a:cloud_foundry:java_buildpack"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "35264",
+	"pname": "Cloud Foundry Java Buildpack",
+	"pcpe": "cpe:/a:cloud_foundry:java_buildpack"
 }

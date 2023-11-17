@@ -1,8 +1,8 @@
 {
-  "vid": "2746",
-  "vname": "cdelia software",
-  "vcpe": "cpe:/:cdelia_software",
-  "pid": "6619",
-  "pname": "imageprocessing",
-  "pcpe": "cpe:/a:cdelia_software:imageprocessing"
+	"vid": "2746",
+	"vname": "cdelia software",
+	"vcpe": "cpe:/:cdelia_software",
+	"pid": "6619",
+	"pname": "imageprocessing",
+	"pcpe": "cpe:/a:cdelia_software:imageprocessing"
 }

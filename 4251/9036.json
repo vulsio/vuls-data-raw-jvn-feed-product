@@ -1,8 +1,8 @@
 {
-  "vid": "4251",
-  "vname": "suckless.org",
-  "vcpe": "cpe:/:suckless",
-  "pid": "9036",
-  "pname": "slock",
-  "pcpe": "cpe:/a:suckless:slock"
+	"vid": "4251",
+	"vname": "suckless.org",
+	"vcpe": "cpe:/:suckless",
+	"pid": "9036",
+	"pname": "slock",
+	"pcpe": "cpe:/a:suckless:slock"
 }

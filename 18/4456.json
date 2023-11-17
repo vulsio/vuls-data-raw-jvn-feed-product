@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4456",
-  "pname": "cognos 8 business intelligence",
-  "pcpe": "cpe:/a:ibm:cognos_8_business_intelligence"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4456",
+	"pname": "cognos 8 business intelligence",
+	"pcpe": "cpe:/a:ibm:cognos_8_business_intelligence"
 }

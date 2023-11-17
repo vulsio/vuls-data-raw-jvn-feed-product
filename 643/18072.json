@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "18072",
-  "pname": "Latitude Z600",
-  "pcpe": "cpe:/h:dell:latitude_z600"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "18072",
+	"pname": "Latitude Z600",
+	"pcpe": "cpe:/h:dell:latitude_z600"
 }

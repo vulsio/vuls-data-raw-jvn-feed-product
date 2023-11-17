@@ -1,8 +1,8 @@
 {
-  "vid": "15166",
-  "vname": "Shmoo project",
-  "vcpe": "cpe:/:shmoo_project",
-  "pid": "35117",
-  "pname": "Shmoo",
-  "pcpe": "cpe:/a:shmoo_project:shmoo"
+	"vid": "15166",
+	"vname": "Shmoo project",
+	"vcpe": "cpe:/:shmoo_project",
+	"pid": "35117",
+	"pname": "Shmoo",
+	"pcpe": "cpe:/a:shmoo_project:shmoo"
 }

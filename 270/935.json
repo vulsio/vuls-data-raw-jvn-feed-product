@@ -1,8 +1,8 @@
 {
-  "vid": "270",
-  "vname": "ソニー・コンピュータエンタテインメント",
-  "vcpe": "cpe:/:sony",
-  "pid": "935",
-  "pname": "PSP",
-  "pcpe": "cpe:/h:sony:psp"
+	"vid": "270",
+	"vname": "ソニー・コンピュータエンタテインメント",
+	"vcpe": "cpe:/:sony",
+	"pid": "935",
+	"pname": "PSP",
+	"pcpe": "cpe:/h:sony:psp"
 }

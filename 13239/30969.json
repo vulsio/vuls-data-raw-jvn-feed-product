@@ -1,8 +1,8 @@
 {
-  "vid": "13239",
-  "vname": "GSI Office Management GmbH",
-  "vcpe": "cpe:/:gsi-office",
-  "pid": "30969",
-  "pname": "WiNPAT Portal",
-  "pcpe": "cpe:/a:gsi-office:winpat_portal"
+	"vid": "13239",
+	"vname": "GSI Office Management GmbH",
+	"vcpe": "cpe:/:gsi-office",
+	"pid": "30969",
+	"pname": "WiNPAT Portal",
+	"pcpe": "cpe:/a:gsi-office:winpat_portal"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3401",
-  "vname": "easyway",
-  "vcpe": "cpe:/:easyway",
-  "pid": "7647",
-  "pname": "cms",
-  "pcpe": "cpe:/a:easyway:cms"
+	"vid": "3401",
+	"vname": "easyway",
+	"vcpe": "cpe:/:easyway",
+	"pid": "7647",
+	"pname": "cms",
+	"pcpe": "cpe:/a:easyway:cms"
 }

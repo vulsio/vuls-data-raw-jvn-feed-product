@@ -1,8 +1,8 @@
 {
-  "vid": "9304",
-  "vname": "AskApache",
-  "vcpe": "cpe:/:askapache",
-  "pid": "19087",
-  "pname": "Firefox Adsense",
-  "pcpe": "cpe:/a:askapache:firefox_adsense"
+	"vid": "9304",
+	"vname": "AskApache",
+	"vcpe": "cpe:/:askapache",
+	"pid": "19087",
+	"pname": "Firefox Adsense",
+	"pcpe": "cpe:/a:askapache:firefox_adsense"
 }

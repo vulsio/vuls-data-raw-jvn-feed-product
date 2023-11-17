@@ -1,8 +1,8 @@
 {
-  "vid": "4360",
-  "vname": "ウェブセンス",
-  "vcpe": "cpe:/:websense",
-  "pid": "23764",
-  "pname": "Websense TRITON AP-WEB",
-  "pcpe": "cpe:/a:websense:triton_ap_web"
+	"vid": "4360",
+	"vname": "ウェブセンス",
+	"vcpe": "cpe:/:websense",
+	"pid": "23764",
+	"pname": "Websense TRITON AP-WEB",
+	"pcpe": "cpe:/a:websense:triton_ap_web"
 }

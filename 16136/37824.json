@@ -1,8 +1,8 @@
 {
-  "vid": "16136",
-  "vname": "Topvision",
-  "vcpe": "cpe:/:top-vision",
-  "pid": "37824",
-  "pname": "CC8800CE ファームウェア",
-  "pcpe": "cpe:/o:top-vision:cc8800ce_firmware"
+	"vid": "16136",
+	"vname": "Topvision",
+	"vcpe": "cpe:/:top-vision",
+	"pid": "37824",
+	"pname": "CC8800CE ファームウェア",
+	"pcpe": "cpe:/o:top-vision:cc8800ce_firmware"
 }

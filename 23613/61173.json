@@ -1,8 +1,8 @@
 {
-  "vid": "23613",
-  "vname": "WEPAnow",
-  "vcpe": "cpe:/:wepanow",
-  "pid": "61173",
-  "pname": "WEPA Print Away",
-  "pcpe": "cpe:/a:wepanow:print_away"
+	"vid": "23613",
+	"vname": "WEPAnow",
+	"vcpe": "cpe:/:wepanow",
+	"pid": "61173",
+	"pname": "WEPA Print Away",
+	"pcpe": "cpe:/a:wepanow:print_away"
 }

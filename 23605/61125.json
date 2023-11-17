@@ -1,8 +1,8 @@
 {
-  "vid": "23605",
-  "vname": "LIVEBOX",
-  "vcpe": "cpe:/:liveboxcloud",
-  "pid": "61125",
-  "pname": "vDesk",
-  "pcpe": "cpe:/a:liveboxcloud:vdesk"
+	"vid": "23605",
+	"vname": "LIVEBOX",
+	"vcpe": "cpe:/:liveboxcloud",
+	"pid": "61125",
+	"pname": "vDesk",
+	"pcpe": "cpe:/a:liveboxcloud:vdesk"
 }

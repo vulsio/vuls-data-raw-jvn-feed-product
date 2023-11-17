@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27078",
-  "pname": "Oracle FLEXCUBE Enterprise Limits and Collateral Management",
-  "pcpe": "cpe:/a:oracle:flexcube_enterprise_limits_and_collateral_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27078",
+	"pname": "Oracle FLEXCUBE Enterprise Limits and Collateral Management",
+	"pcpe": "cpe:/a:oracle:flexcube_enterprise_limits_and_collateral_management"
 }

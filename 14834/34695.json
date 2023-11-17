@@ -1,8 +1,8 @@
 {
-  "vid": "14834",
-  "vname": "WineHQ",
-  "vcpe": "cpe:/:winehq",
-  "pid": "34695",
-  "pname": "Wine",
-  "pcpe": "cpe:/a:winehq:wine"
+	"vid": "14834",
+	"vname": "WineHQ",
+	"vcpe": "cpe:/:winehq",
+	"pid": "34695",
+	"pname": "Wine",
+	"pcpe": "cpe:/a:winehq:wine"
 }

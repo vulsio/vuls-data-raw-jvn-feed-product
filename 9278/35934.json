@@ -1,8 +1,8 @@
 {
-  "vid": "9278",
-  "vname": "Eaton",
-  "vcpe": "cpe:/:eaton",
-  "pid": "35934",
-  "pname": "Power Xpert Meter 4000 ファームウェア",
-  "pcpe": "cpe:/o:eaton:power_xpert_meter_4000_firmware"
+	"vid": "9278",
+	"vname": "Eaton",
+	"vcpe": "cpe:/:eaton",
+	"pid": "35934",
+	"pname": "Power Xpert Meter 4000 ファームウェア",
+	"pcpe": "cpe:/o:eaton:power_xpert_meter_4000_firmware"
 }

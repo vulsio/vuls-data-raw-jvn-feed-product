@@ -1,8 +1,8 @@
 {
-  "vid": "2609",
-  "vname": "Borland Software Corporation",
-  "vcpe": "cpe:/:borland_software",
-  "pid": "6396",
-  "pname": "developer studio",
-  "pcpe": "cpe:/a:borland_software:developer_studio"
+	"vid": "2609",
+	"vname": "Borland Software Corporation",
+	"vcpe": "cpe:/:borland_software",
+	"pid": "6396",
+	"pname": "developer studio",
+	"pcpe": "cpe:/a:borland_software:developer_studio"
 }

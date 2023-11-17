@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4948",
-  "pname": "arcsight c3400 appliance",
-  "pcpe": "cpe:/h:hp:arcsight_c3400_appliance"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4948",
+	"pname": "arcsight c3400 appliance",
+	"pcpe": "cpe:/h:hp:arcsight_c3400_appliance"
 }

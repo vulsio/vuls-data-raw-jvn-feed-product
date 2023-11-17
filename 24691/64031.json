@@ -1,8 +1,8 @@
 {
-  "vid": "24691",
-  "vname": "embedsocial",
-  "vcpe": "cpe:/:embedsocial",
-  "pid": "64031",
-  "pname": "embedstories",
-  "pcpe": "cpe:/a:embedsocial:embedstories"
+	"vid": "24691",
+	"vname": "embedsocial",
+	"vcpe": "cpe:/:embedsocial",
+	"pid": "64031",
+	"pname": "embedstories",
+	"pcpe": "cpe:/a:embedsocial:embedstories"
 }

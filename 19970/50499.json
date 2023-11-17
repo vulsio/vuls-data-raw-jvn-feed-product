@@ -1,8 +1,8 @@
 {
-  "vid": "19970",
-  "vname": "VerityStream",
-  "vcpe": "cpe:/:veritystream",
-  "pid": "50499",
-  "pname": "MSOW Solutions",
-  "pcpe": "cpe:/a:veritystream:msow_solutions"
+	"vid": "19970",
+	"vname": "VerityStream",
+	"vcpe": "cpe:/:veritystream",
+	"pid": "50499",
+	"pname": "MSOW Solutions",
+	"pcpe": "cpe:/a:veritystream:msow_solutions"
 }

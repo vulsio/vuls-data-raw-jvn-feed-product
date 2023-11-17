@@ -1,8 +1,8 @@
 {
-  "vid": "13937",
-  "vname": "MECO",
-  "vcpe": "cpe:/:meco",
-  "pid": "33147",
-  "pname": "USB Memory Stick with Fingerprint ファームウェア",
-  "pcpe": "cpe:/o:meco:usb_memory_stick_with_fingerprint_firwmare"
+	"vid": "13937",
+	"vname": "MECO",
+	"vcpe": "cpe:/:meco",
+	"pid": "33147",
+	"pname": "USB Memory Stick with Fingerprint ファームウェア",
+	"pcpe": "cpe:/o:meco:usb_memory_stick_with_fingerprint_firwmare"
 }

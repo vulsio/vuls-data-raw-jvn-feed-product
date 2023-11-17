@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "3613",
-  "pname": "NVIDIA Stereoscopic 3D ドライバ",
-  "pcpe": "cpe:/a:nvidia:stereoscopic_3d_driver"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "3613",
+	"pname": "NVIDIA Stereoscopic 3D ドライバ",
+	"pcpe": "cpe:/a:nvidia:stereoscopic_3d_driver"
 }

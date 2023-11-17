@@ -1,8 +1,8 @@
 {
-  "vid": "15294",
-  "vname": "AVEVA",
-  "vcpe": "cpe:/:aveva",
-  "pid": "46655",
-  "pname": "eDNA Enterprise Data Management",
-  "pcpe": "cpe:/a:aveva:edna_enterprise_data_historian"
+	"vid": "15294",
+	"vname": "AVEVA",
+	"vcpe": "cpe:/:aveva",
+	"pid": "46655",
+	"pname": "eDNA Enterprise Data Management",
+	"pcpe": "cpe:/a:aveva:edna_enterprise_data_historian"
 }

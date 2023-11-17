@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "44977",
-  "pname": "Companion",
-  "pcpe": "cpe:/a:atlassian:companion"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "44977",
+	"pname": "Companion",
+	"pcpe": "cpe:/a:atlassian:companion"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21362",
-  "vname": "CPAN::Checksums project",
-  "vcpe": "cpe:/:cpan%3a%3achecksums_project",
-  "pid": "54825",
-  "pname": "CPAN::Checksums",
-  "pcpe": "cpe:/a:cpan%3a%3achecksums_project:cpan%3a%3achecksums"
+	"vid": "21362",
+	"vname": "CPAN::Checksums project",
+	"vcpe": "cpe:/:cpan%3a%3achecksums_project",
+	"pid": "54825",
+	"pname": "CPAN::Checksums",
+	"pcpe": "cpe:/a:cpan%3a%3achecksums_project:cpan%3a%3achecksums"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18051",
-  "vname": "Versiant",
-  "vcpe": "cpe:/:misc",
-  "pid": "43884",
-  "pname": "Versiant LYNX Customer Service Portal",
-  "pcpe": "cpe:/a:misc:versiant_lynx_customer_service_portal"
+	"vid": "18051",
+	"vname": "Versiant",
+	"vcpe": "cpe:/:misc",
+	"pid": "43884",
+	"pname": "Versiant LYNX Customer Service Portal",
+	"pcpe": "cpe:/a:misc:versiant_lynx_customer_service_portal"
 }

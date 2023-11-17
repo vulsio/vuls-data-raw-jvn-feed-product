@@ -1,8 +1,8 @@
 {
-  "vid": "12332",
-  "vname": "ms project",
-  "vcpe": "cpe:/:misc",
-  "pid": "27758",
-  "pname": "ms",
-  "pcpe": "cpe:/a:misc:ms_project_ms"
+	"vid": "12332",
+	"vname": "ms project",
+	"vcpe": "cpe:/:misc",
+	"pid": "27758",
+	"pname": "ms",
+	"pcpe": "cpe:/a:misc:ms_project_ms"
 }

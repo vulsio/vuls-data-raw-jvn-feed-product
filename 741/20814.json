@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "20814",
-  "pname": "DSL-2750U",
-  "pcpe": "cpe:/h:dlink:dsl2750u"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "20814",
+	"pname": "DSL-2750U",
+	"pcpe": "cpe:/h:dlink:dsl2750u"
 }

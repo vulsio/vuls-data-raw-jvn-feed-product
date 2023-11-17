@@ -1,8 +1,8 @@
 {
-  "vid": "929",
-  "vname": "Control Microsystems",
-  "vcpe": "cpe:/:controlmicrosystems",
-  "pid": "3444",
-  "pname": "ClearSCADA 2007",
-  "pcpe": "cpe:/a:controlmicrosystems:clearscada_2007"
+	"vid": "929",
+	"vname": "Control Microsystems",
+	"vcpe": "cpe:/:controlmicrosystems",
+	"pid": "3444",
+	"pname": "ClearSCADA 2007",
+	"pcpe": "cpe:/a:controlmicrosystems:clearscada_2007"
 }

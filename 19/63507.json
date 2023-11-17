@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "63507",
-  "pname": "Cisco Nexus 1000V スイッチ",
-  "pcpe": "cpe:/o:cisco:nexus_1000v"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "63507",
+	"pname": "Cisco Nexus 1000V スイッチ",
+	"pcpe": "cpe:/o:cisco:nexus_1000v"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9962",
-  "vname": "Schrack",
-  "vcpe": "cpe:/:schrack",
-  "pid": "20866",
-  "pname": "Schrack Technik microControl ファームウエア",
-  "pcpe": "cpe:/o:schrack:technik_microcontrol_firmware"
+	"vid": "9962",
+	"vname": "Schrack",
+	"vcpe": "cpe:/:schrack",
+	"pid": "20866",
+	"pname": "Schrack Technik microControl ファームウエア",
+	"pcpe": "cpe:/o:schrack:technik_microcontrol_firmware"
 }

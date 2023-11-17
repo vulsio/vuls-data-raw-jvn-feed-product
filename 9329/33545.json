@@ -1,8 +1,8 @@
 {
-  "vid": "9329",
-  "vname": "Sierra Wireless",
-  "vcpe": "cpe:/:sierra_wireless",
-  "pid": "33545",
-  "pname": "AirLink RV50",
-  "pcpe": "cpe:/o:sierra_wireless:rv50_firmware"
+	"vid": "9329",
+	"vname": "Sierra Wireless",
+	"vcpe": "cpe:/:sierra_wireless",
+	"pid": "33545",
+	"pname": "AirLink RV50",
+	"pcpe": "cpe:/o:sierra_wireless:rv50_firmware"
 }

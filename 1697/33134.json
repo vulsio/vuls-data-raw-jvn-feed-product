@@ -1,8 +1,8 @@
 {
-  "vid": "1697",
-  "vname": "Adiscon",
-  "vcpe": "cpe:/:rsyslog",
-  "pid": "33134",
-  "pname": "librelp",
-  "pcpe": "cpe:/a:rsyslog:librelp"
+	"vid": "1697",
+	"vname": "Adiscon",
+	"vcpe": "cpe:/:rsyslog",
+	"pid": "33134",
+	"pname": "librelp",
+	"pcpe": "cpe:/a:rsyslog:librelp"
 }

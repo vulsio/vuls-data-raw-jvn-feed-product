@@ -1,8 +1,8 @@
 {
-  "vid": "5955",
-  "vname": "news",
-  "vcpe": "cpe:/:news",
-  "pid": "11999",
-  "pname": "micronews",
-  "pcpe": "cpe:/a:news:micronews"
+	"vid": "5955",
+	"vname": "news",
+	"vcpe": "cpe:/:news",
+	"pid": "11999",
+	"pname": "micronews",
+	"pcpe": "cpe:/a:news:micronews"
 }

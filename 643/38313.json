@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "38313",
-  "pname": "Dell EMC IsilonSD Management Server",
-  "pcpe": "cpe:/a:dell:emc_isilonsd_management_server"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "38313",
+	"pname": "Dell EMC IsilonSD Management Server",
+	"pcpe": "cpe:/a:dell:emc_isilonsd_management_server"
 }

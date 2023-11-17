@@ -1,8 +1,8 @@
 {
-  "vid": "13000",
-  "vname": "The Grml Team",
-  "vcpe": "cpe:/:grml",
-  "pid": "30089",
-  "pname": "grml-debootstrap",
-  "pcpe": "cpe:/a:grml:grml-debootstrap"
+	"vid": "13000",
+	"vname": "The Grml Team",
+	"vcpe": "cpe:/:grml",
+	"pid": "30089",
+	"pname": "grml-debootstrap",
+	"pcpe": "cpe:/a:grml:grml-debootstrap"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6695",
-  "vname": "Tropos Networks",
-  "vcpe": "cpe:/:tropos",
-  "pid": "13442",
-  "pname": "Tropos 4310 Mobile Mesh Router",
-  "pcpe": "cpe:/h:tropos:4310_mobile_mesh_router"
+	"vid": "6695",
+	"vname": "Tropos Networks",
+	"vcpe": "cpe:/:tropos",
+	"pid": "13442",
+	"pname": "Tropos 4310 Mobile Mesh Router",
+	"pcpe": "cpe:/h:tropos:4310_mobile_mesh_router"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27914",
-  "pname": "IBM System Storage TS3100/TS3200 テープ・ライブラリー",
-  "pcpe": "cpe:/a:ibm:system_storage_ts3100-ts3200_tape_library"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27914",
+	"pname": "IBM System Storage TS3100/TS3200 テープ・ライブラリー",
+	"pcpe": "cpe:/a:ibm:system_storage_ts3100-ts3200_tape_library"
 }

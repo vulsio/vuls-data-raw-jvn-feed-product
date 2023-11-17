@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18905",
-  "pname": "Cisco Scientific Atlanta WAG310G Wireless-G ADSL2+ Gateway with VoIP",
-  "pcpe": "cpe:/h:cisco:scientific_atlanta_wag310g"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18905",
+	"pname": "Cisco Scientific Atlanta WAG310G Wireless-G ADSL2+ Gateway with VoIP",
+	"pcpe": "cpe:/h:cisco:scientific_atlanta_wag310g"
 }

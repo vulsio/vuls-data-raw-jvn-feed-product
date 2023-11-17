@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "40910",
-  "pname": "Cisco Nexus 31108PC-V ファームウェア",
-  "pcpe": "cpe:/o:cisco:nexus_31108pc-v_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "40910",
+	"pname": "Cisco Nexus 31108PC-V ファームウェア",
+	"pcpe": "cpe:/o:cisco:nexus_31108pc-v_firmware"
 }

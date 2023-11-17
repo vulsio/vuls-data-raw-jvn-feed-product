@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "1610",
-  "pname": "SwitchBlade x908",
-  "pcpe": "cpe:/h:allied_telesis_k.k.:switchblade_x908"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "1610",
+	"pname": "SwitchBlade x908",
+	"pcpe": "cpe:/h:allied_telesis_k.k.:switchblade_x908"
 }

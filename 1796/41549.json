@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "41549",
-  "pname": "Valleylab FX8 Energy Platform ファームウェア",
-  "pcpe": "cpe:/o:medtronic:valleylab_fx8_energy_platform_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "41549",
+	"pname": "Valleylab FX8 Energy Platform ファームウェア",
+	"pcpe": "cpe:/o:medtronic:valleylab_fx8_energy_platform_firmware"
 }

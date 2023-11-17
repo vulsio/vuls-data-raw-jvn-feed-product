@@ -1,8 +1,8 @@
 {
-  "vid": "18755",
-  "vname": "M&M Software GmbH",
-  "vcpe": "cpe:/:misc",
-  "pid": "46607",
-  "pname": "fdtCONTAINER component",
-  "pcpe": "cpe:/a:misc:m%26m_software_fdtcontainer_component"
+	"vid": "18755",
+	"vname": "M&M Software GmbH",
+	"vcpe": "cpe:/:misc",
+	"pid": "46607",
+	"pname": "fdtCONTAINER component",
+	"pcpe": "cpe:/a:misc:m%26m_software_fdtcontainer_component"
 }

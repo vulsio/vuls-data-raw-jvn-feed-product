@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "1787",
-  "pname": "Cisco CatOS",
-  "pcpe": "cpe:/o:cisco:catos"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "1787",
+	"pname": "Cisco CatOS",
+	"pcpe": "cpe:/o:cisco:catos"
 }

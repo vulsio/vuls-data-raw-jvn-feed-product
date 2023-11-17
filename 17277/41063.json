@@ -1,8 +1,8 @@
 {
-  "vid": "17277",
-  "vname": "Kirona Solutions Ltd",
-  "vcpe": "cpe:/:kirona",
-  "pid": "41063",
-  "pname": "Dynamic Resource Scheduling",
-  "pcpe": "cpe:/a:kirona:dynamic_resource_scheduling"
+	"vid": "17277",
+	"vname": "Kirona Solutions Ltd",
+	"vcpe": "cpe:/:kirona",
+	"pid": "41063",
+	"pname": "Dynamic Resource Scheduling",
+	"pcpe": "cpe:/a:kirona:dynamic_resource_scheduling"
 }

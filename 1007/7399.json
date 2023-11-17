@@ -1,8 +1,8 @@
 {
-  "vid": "1007",
-  "vname": "DMXReady",
-  "vcpe": "cpe:/:dmxready",
-  "pid": "7399",
-  "pname": "dmxready secure login manager",
-  "pcpe": "cpe:/a:dmxready:dmxready_secure_login_manager"
+	"vid": "1007",
+	"vname": "DMXReady",
+	"vcpe": "cpe:/:dmxready",
+	"pid": "7399",
+	"pname": "dmxready secure login manager",
+	"pcpe": "cpe:/a:dmxready:dmxready_secure_login_manager"
 }

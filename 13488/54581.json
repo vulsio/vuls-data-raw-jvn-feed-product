@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "54581",
-  "pname": "Zoom Meetings for Chrome OS",
-  "pcpe": "cpe:/a:zoom:meetings_for_chrome_os"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "54581",
+	"pname": "Zoom Meetings for Chrome OS",
+	"pcpe": "cpe:/a:zoom:meetings_for_chrome_os"
 }

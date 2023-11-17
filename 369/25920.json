@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "25920",
-  "pname": "CA API Gateway",
-  "pcpe": "cpe:/a:ca:api_gateway"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "25920",
+	"pname": "CA API Gateway",
+	"pcpe": "cpe:/a:ca:api_gateway"
 }

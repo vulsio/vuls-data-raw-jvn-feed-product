@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "59085",
-  "pname": "ideapad creator 5-15imh05 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideapad_creator_5-15imh05_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "59085",
+	"pname": "ideapad creator 5-15imh05 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideapad_creator_5-15imh05_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "39086",
-  "pname": "Y5S55A ファームウェア",
-  "pcpe": "cpe:/o:hp:y5s55a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "39086",
+	"pname": "Y5S55A ファームウェア",
+	"pcpe": "cpe:/o:hp:y5s55a_firmware"
 }

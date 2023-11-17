@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "50342",
-  "pname": "Dell OpenManage Enterprise-Modular",
-  "pcpe": "cpe:/a:dell:openmanage_enterprise-modular"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "50342",
+	"pname": "Dell OpenManage Enterprise-Modular",
+	"pcpe": "cpe:/a:dell:openmanage_enterprise-modular"
 }

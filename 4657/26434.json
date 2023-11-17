@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26434",
-  "pname": "OceanStor 5600 V3",
-  "pcpe": "cpe:/h:huawei:ocean_stor_5600_v3"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26434",
+	"pname": "OceanStor 5600 V3",
+	"pcpe": "cpe:/h:huawei:ocean_stor_5600_v3"
 }

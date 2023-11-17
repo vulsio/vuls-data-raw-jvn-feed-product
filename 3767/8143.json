@@ -1,8 +1,8 @@
 {
-  "vid": "3767",
-  "vname": "forum one",
-  "vcpe": "cpe:/:forum_one",
-  "pid": "8143",
-  "pname": "syntaxcms",
-  "pcpe": "cpe:/a:forum_one:syntaxcms"
+	"vid": "3767",
+	"vname": "forum one",
+	"vcpe": "cpe:/:forum_one",
+	"pid": "8143",
+	"pname": "syntaxcms",
+	"pcpe": "cpe:/a:forum_one:syntaxcms"
 }

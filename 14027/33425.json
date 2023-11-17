@@ -1,8 +1,8 @@
 {
-  "vid": "14027",
-  "vname": "LightSAML",
-  "vcpe": "cpe:/:lightsaml",
-  "pid": "33425",
-  "pname": "LightSAML",
-  "pcpe": "cpe:/a:lightsaml:lightsaml"
+	"vid": "14027",
+	"vname": "LightSAML",
+	"vcpe": "cpe:/:lightsaml",
+	"pid": "33425",
+	"pname": "LightSAML",
+	"pcpe": "cpe:/a:lightsaml:lightsaml"
 }

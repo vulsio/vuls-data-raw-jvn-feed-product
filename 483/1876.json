@@ -1,8 +1,8 @@
 {
-  "vid": "483",
-  "vname": "libvirt.org",
-  "vcpe": "cpe:/:libvirt",
-  "pid": "1876",
-  "pname": "libvirt",
-  "pcpe": "cpe:/a:libvirt:libvirt"
+	"vid": "483",
+	"vname": "libvirt.org",
+	"vcpe": "cpe:/:libvirt",
+	"pid": "1876",
+	"pname": "libvirt",
+	"pcpe": "cpe:/a:libvirt:libvirt"
 }

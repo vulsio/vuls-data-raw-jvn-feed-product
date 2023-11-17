@@ -1,8 +1,8 @@
 {
-  "vid": "7104",
-  "vname": "Progress Software Corporation",
-  "vcpe": "cpe:/:progress",
-  "pid": "61944",
-  "pname": "ipswitch ws ftp server",
-  "pcpe": "cpe:/a:progress:ipswitch_ws_ftp_server"
+	"vid": "7104",
+	"vname": "Progress Software Corporation",
+	"vcpe": "cpe:/:progress",
+	"pid": "61944",
+	"pname": "ipswitch ws ftp server",
+	"pcpe": "cpe:/a:progress:ipswitch_ws_ftp_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "39838",
-  "pname": "Notifications",
-  "pcpe": "cpe:/a:cloud_foundry:notifications"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "39838",
+	"pname": "Notifications",
+	"pcpe": "cpe:/a:cloud_foundry:notifications"
 }

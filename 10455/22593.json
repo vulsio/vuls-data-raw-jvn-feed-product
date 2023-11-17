@@ -1,8 +1,8 @@
 {
-  "vid": "10455",
-  "vname": "nonghyup",
-  "vcpe": "cpe:/:nonghyup",
-  "pid": "22593",
-  "pname": "smart card",
-  "pcpe": "cpe:/a:nonghyup:smart_card"
+	"vid": "10455",
+	"vname": "nonghyup",
+	"vcpe": "cpe:/:nonghyup",
+	"pid": "22593",
+	"pname": "smart card",
+	"pcpe": "cpe:/a:nonghyup:smart_card"
 }

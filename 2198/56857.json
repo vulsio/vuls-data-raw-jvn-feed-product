@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "56857",
-  "pname": "Z-7100 ファームウェア",
-  "pcpe": "cpe:/o:amd:xilinx_z-7100_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "56857",
+	"pname": "Z-7100 ファームウェア",
+	"pcpe": "cpe:/o:amd:xilinx_z-7100_firmware"
 }

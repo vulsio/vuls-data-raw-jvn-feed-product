@@ -1,8 +1,8 @@
 {
-  "vid": "13068",
-  "vname": "KNX",
-  "vcpe": "cpe:/:knx",
-  "pid": "54112",
-  "pname": "Engineering Tool Software 6",
-  "pcpe": "cpe:/a:knx:engineering_tool_software_6"
+	"vid": "13068",
+	"vname": "KNX",
+	"vcpe": "cpe:/:knx",
+	"pid": "54112",
+	"pname": "Engineering Tool Software 6",
+	"pcpe": "cpe:/a:knx:engineering_tool_software_6"
 }

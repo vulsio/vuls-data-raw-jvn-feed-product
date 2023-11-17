@@ -1,8 +1,8 @@
 {
-  "vid": "9215",
-  "vname": "Cluster Labs",
-  "vcpe": "cpe:/:clusterlabs",
-  "pid": "39774",
-  "pname": "fence-agents",
-  "pcpe": "cpe:/a:clusterlabs:fence-agents"
+	"vid": "9215",
+	"vname": "Cluster Labs",
+	"vcpe": "cpe:/:clusterlabs",
+	"pid": "39774",
+	"pname": "fence-agents",
+	"pcpe": "cpe:/a:clusterlabs:fence-agents"
 }

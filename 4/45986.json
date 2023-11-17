@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "45986",
-  "pname": "EliteBook 1030 G1 ファームウェア",
-  "pcpe": "cpe:/o:hp:elitebook_1030_g1_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "45986",
+	"pname": "EliteBook 1030 G1 ファームウェア",
+	"pcpe": "cpe:/o:hp:elitebook_1030_g1_firmware"
 }

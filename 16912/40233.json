@@ -1,8 +1,8 @@
 {
-  "vid": "16912",
-  "vname": "Manage Your Team",
-  "vcpe": "cpe:/:manageyourteam",
-  "pid": "40233",
-  "pname": "MyT Project Management",
-  "pcpe": "cpe:/a:manageyourteam:myt_project_management"
+	"vid": "16912",
+	"vname": "Manage Your Team",
+	"vcpe": "cpe:/:manageyourteam",
+	"pid": "40233",
+	"pname": "MyT Project Management",
+	"pcpe": "cpe:/a:manageyourteam:myt_project_management"
 }

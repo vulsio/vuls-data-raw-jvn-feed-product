@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "47571",
-  "pname": "Tizen RT RTOS",
-  "pcpe": "cpe:/o:samsung:tizen_rt_rtos"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "47571",
+	"pname": "Tizen RT RTOS",
+	"pcpe": "cpe:/o:samsung:tizen_rt_rtos"
 }

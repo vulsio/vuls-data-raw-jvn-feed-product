@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "29083",
-  "pname": "DS-2CD2032-I ファームウェア",
-  "pcpe": "cpe:/o:hikvision:ds-2cd2032-i_firmware"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "29083",
+	"pname": "DS-2CD2032-I ファームウェア",
+	"pcpe": "cpe:/o:hikvision:ds-2cd2032-i_firmware"
 }

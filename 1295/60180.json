@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "60180",
-  "pname": "FortiSOAR",
-  "pcpe": "cpe:/a:fortinet:fortisoar"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "60180",
+	"pname": "FortiSOAR",
+	"pcpe": "cpe:/a:fortinet:fortisoar"
 }

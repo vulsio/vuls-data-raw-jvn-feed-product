@@ -1,8 +1,8 @@
 {
-  "vid": "16235",
-  "vname": "Cloud Native Computing Foundation",
-  "vcpe": "cpe:/:cncf",
-  "pid": "48412",
-  "pname": "Container Network Interface",
-  "pcpe": "cpe:/a:cncf:container_network_interface"
+	"vid": "16235",
+	"vname": "Cloud Native Computing Foundation",
+	"vcpe": "cpe:/:cncf",
+	"pid": "48412",
+	"pname": "Container Network Interface",
+	"pcpe": "cpe:/a:cncf:container_network_interface"
 }

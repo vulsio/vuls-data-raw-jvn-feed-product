@@ -1,8 +1,8 @@
 {
-  "vid": "4456",
-  "vname": "WAGO",
-  "vcpe": "cpe:/:wago",
-  "pid": "30183",
-  "pname": "WAGO I/O PLC 758-870 ファームウェア",
-  "pcpe": "cpe:/o:wago:wago_i%2Fo_plc_758-870_firmware"
+	"vid": "4456",
+	"vname": "WAGO",
+	"vcpe": "cpe:/:wago",
+	"pid": "30183",
+	"pname": "WAGO I/O PLC 758-870 ファームウェア",
+	"pcpe": "cpe:/o:wago:wago_i%2Fo_plc_758-870_firmware"
 }

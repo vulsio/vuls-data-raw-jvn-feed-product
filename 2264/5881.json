@@ -1,8 +1,8 @@
 {
-  "vid": "2264",
-  "vname": "appserv open project",
-  "vcpe": "cpe:/:appserv_open_project",
-  "pid": "5881",
-  "pname": "appserv",
-  "pcpe": "cpe:/a:appserv_open_project:appserv"
+	"vid": "2264",
+	"vname": "appserv open project",
+	"vcpe": "cpe:/:appserv_open_project",
+	"pid": "5881",
+	"pname": "appserv",
+	"pcpe": "cpe:/a:appserv_open_project:appserv"
 }

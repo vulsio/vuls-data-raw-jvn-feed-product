@@ -1,8 +1,8 @@
 {
-  "vid": "10727",
-  "vname": "synapse",
-  "vcpe": "cpe:/:synapse",
-  "pid": "22252",
-  "pname": "ishuttle",
-  "pcpe": "cpe:/a:synapse:ishuttle"
+	"vid": "10727",
+	"vname": "synapse",
+	"vcpe": "cpe:/:synapse",
+	"pid": "22252",
+	"pname": "ishuttle",
+	"pcpe": "cpe:/a:synapse:ishuttle"
 }

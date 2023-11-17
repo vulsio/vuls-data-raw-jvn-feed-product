@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "8794",
-  "pname": "Cisco Airespace 4000 シリーズ Wireless LAN Controller",
-  "pcpe": "cpe:/h:cisco:airespace_4000_wireless_lan_controller"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "8794",
+	"pname": "Cisco Airespace 4000 シリーズ Wireless LAN Controller",
+	"pcpe": "cpe:/h:cisco:airespace_4000_wireless_lan_controller"
 }

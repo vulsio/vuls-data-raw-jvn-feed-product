@@ -1,8 +1,8 @@
 {
-  "vid": "15300",
-  "vname": "Click Studios",
-  "vcpe": "cpe:/:clickstudios",
-  "pid": "35434",
-  "pname": "Passwordstate",
-  "pcpe": "cpe:/a:clickstudios:passwordstate"
+	"vid": "15300",
+	"vname": "Click Studios",
+	"vcpe": "cpe:/:clickstudios",
+	"pid": "35434",
+	"pname": "Passwordstate",
+	"pcpe": "cpe:/a:clickstudios:passwordstate"
 }

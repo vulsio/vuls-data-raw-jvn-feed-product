@@ -1,8 +1,8 @@
 {
-  "vid": "19431",
-  "vname": "actix project",
-  "vcpe": "cpe:/:actix",
-  "pid": "48929",
-  "pname": "actix-http",
-  "pcpe": "cpe:/a:actix:actix-http"
+	"vid": "19431",
+	"vname": "actix project",
+	"vcpe": "cpe:/:actix",
+	"pid": "48929",
+	"pname": "actix-http",
+	"pcpe": "cpe:/a:actix:actix-http"
 }

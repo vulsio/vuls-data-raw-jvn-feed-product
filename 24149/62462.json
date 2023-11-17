@@ -1,8 +1,8 @@
 {
-  "vid": "24149",
-  "vname": "get-process-by-name project",
-  "vcpe": "cpe:/:get-process-by-name_project",
-  "pid": "62462",
-  "pname": "get-process-by-name",
-  "pcpe": "cpe:/a:get-process-by-name_project:get-process-by-name"
+	"vid": "24149",
+	"vname": "get-process-by-name project",
+	"vcpe": "cpe:/:get-process-by-name_project",
+	"pid": "62462",
+	"pname": "get-process-by-name",
+	"pcpe": "cpe:/a:get-process-by-name_project:get-process-by-name"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24529",
-  "vname": "simple online public access catalog project",
-  "vcpe": "cpe:/:simple_online_public_access_catalog_project",
-  "pid": "63441",
-  "pname": "simple online public access catalog",
-  "pcpe": "cpe:/a:simple_online_public_access_catalog_project:simple_online_public_access_catalog"
+	"vid": "24529",
+	"vname": "simple online public access catalog project",
+	"vcpe": "cpe:/:simple_online_public_access_catalog_project",
+	"pid": "63441",
+	"pname": "simple online public access catalog",
+	"pcpe": "cpe:/a:simple_online_public_access_catalog_project:simple_online_public_access_catalog"
 }

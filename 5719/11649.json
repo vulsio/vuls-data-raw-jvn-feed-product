@@ -1,8 +1,8 @@
 {
-  "vid": "5719",
-  "vname": "mobilelib",
-  "vcpe": "cpe:/:mobilelib",
-  "pid": "11649",
-  "pname": "mobilelib gold",
-  "pcpe": "cpe:/a:mobilelib:mobilelib_gold"
+	"vid": "5719",
+	"vname": "mobilelib",
+	"vcpe": "cpe:/:mobilelib",
+	"pid": "11649",
+	"pname": "mobilelib gold",
+	"pcpe": "cpe:/a:mobilelib:mobilelib_gold"
 }

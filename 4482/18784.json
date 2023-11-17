@@ -1,8 +1,8 @@
 {
-  "vid": "4482",
-  "vname": "VideoCharge Software",
-  "vcpe": "cpe:/:videocharge",
-  "pid": "18784",
-  "pname": "Watermark Master",
-  "pcpe": "cpe:/a:videocharge:watermark_master"
+	"vid": "4482",
+	"vname": "VideoCharge Software",
+	"vcpe": "cpe:/:videocharge",
+	"pid": "18784",
+	"pname": "Watermark Master",
+	"pcpe": "cpe:/a:videocharge:watermark_master"
 }

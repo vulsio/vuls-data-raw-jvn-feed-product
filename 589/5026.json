@@ -1,8 +1,8 @@
 {
-  "vid": "589",
-  "vname": "Invensys",
-  "vcpe": "cpe:/:invensys",
-  "pid": "5026",
-  "pname": "Foxboro Control Software",
-  "pcpe": "cpe:/a:invensys:foxboro_control_software"
+	"vid": "589",
+	"vname": "Invensys",
+	"vcpe": "cpe:/:invensys",
+	"pid": "5026",
+	"pname": "Foxboro Control Software",
+	"pcpe": "cpe:/a:invensys:foxboro_control_software"
 }

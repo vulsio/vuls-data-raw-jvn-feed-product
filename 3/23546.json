@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "23546",
-  "pname": "JBoss jbpm-designer",
-  "pcpe": "cpe:/a:redhat:jboss_jbpm-designer"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "23546",
+	"pname": "JBoss jbpm-designer",
+	"pcpe": "cpe:/a:redhat:jboss_jbpm-designer"
 }

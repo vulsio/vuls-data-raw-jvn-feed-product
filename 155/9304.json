@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "9304",
-  "pname": "McAfee Agent",
-  "pcpe": "cpe:/a:mcafee:mcafee_agent"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "9304",
+	"pname": "McAfee Agent",
+	"pcpe": "cpe:/a:mcafee:mcafee_agent"
 }

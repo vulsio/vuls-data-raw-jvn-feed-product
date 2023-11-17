@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "40978",
-  "pname": "ASA 5510 ファームウェア",
-  "pcpe": "cpe:/o:cisco:asa_5510_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "40978",
+	"pname": "ASA 5510 ファームウェア",
+	"pcpe": "cpe:/o:cisco:asa_5510_firmware"
 }

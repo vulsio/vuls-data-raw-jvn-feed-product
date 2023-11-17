@@ -1,8 +1,8 @@
 {
-  "vid": "18852",
-  "vname": "ピーアンドエフ",
-  "vcpe": "cpe:/:pepperl-fuchs",
-  "pid": "46998",
-  "pname": "ES8509-XT ファームウェア",
-  "pcpe": "cpe:/o:pepperl-fuchs:es8509-xt_firmware"
+	"vid": "18852",
+	"vname": "ピーアンドエフ",
+	"vcpe": "cpe:/:pepperl-fuchs",
+	"pid": "46998",
+	"pname": "ES8509-XT ファームウェア",
+	"pcpe": "cpe:/o:pepperl-fuchs:es8509-xt_firmware"
 }

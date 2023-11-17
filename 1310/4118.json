@@ -1,8 +1,8 @@
 {
-  "vid": "1310",
-  "vname": "K7 Computing",
-  "vcpe": "cpe:/:k7computing",
-  "pid": "4118",
-  "pname": "K7 AntiVirus",
-  "pcpe": "cpe:/a:k7computing:antivirus"
+	"vid": "1310",
+	"vname": "K7 Computing",
+	"vcpe": "cpe:/:k7computing",
+	"pid": "4118",
+	"pname": "K7 AntiVirus",
+	"pcpe": "cpe:/a:k7computing:antivirus"
 }

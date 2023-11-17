@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "12114",
-  "pname": "modular authentication service",
-  "pcpe": "cpe:/a:novell:modular_authentication_service"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "12114",
+	"pname": "modular authentication service",
+	"pcpe": "cpe:/a:novell:modular_authentication_service"
 }

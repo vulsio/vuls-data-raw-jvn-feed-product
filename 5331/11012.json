@@ -1,8 +1,8 @@
 {
-  "vid": "5331",
-  "vname": "linux-ftpd-ssl",
-  "vcpe": "cpe:/:linux-ftpd-ssl",
-  "pid": "11012",
-  "pname": "linux-ftpd-ssl",
-  "pcpe": "cpe:/a:linux-ftpd-ssl:linux-ftpd-ssl"
+	"vid": "5331",
+	"vname": "linux-ftpd-ssl",
+	"vcpe": "cpe:/:linux-ftpd-ssl",
+	"pid": "11012",
+	"pname": "linux-ftpd-ssl",
+	"pcpe": "cpe:/a:linux-ftpd-ssl:linux-ftpd-ssl"
 }

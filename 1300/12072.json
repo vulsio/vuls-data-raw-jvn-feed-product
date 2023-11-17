@@ -1,8 +1,8 @@
 {
-  "vid": "1300",
-  "vname": "Norman",
-  "vcpe": "cpe:/:norman",
-  "pid": "12072",
-  "pname": "norman sandbox analyzer",
-  "pcpe": "cpe:/a:norman:norman_sandbox_analyzer"
+	"vid": "1300",
+	"vname": "Norman",
+	"vcpe": "cpe:/:norman",
+	"pid": "12072",
+	"pname": "norman sandbox analyzer",
+	"pcpe": "cpe:/a:norman:norman_sandbox_analyzer"
 }

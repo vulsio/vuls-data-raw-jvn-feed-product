@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23680",
-  "pname": "HP Retail RP7 VFD Customer Display (QZ701AA)",
-  "pcpe": "cpe:/h:hp:retail_rp7_vfd_customer_display_qz701aa"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23680",
+	"pname": "HP Retail RP7 VFD Customer Display (QZ701AA)",
+	"pcpe": "cpe:/h:hp:retail_rp7_vfd_customer_display_qz701aa"
 }

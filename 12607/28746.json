@@ -1,8 +1,8 @@
 {
-  "vid": "12607",
-  "vname": "News system",
-  "vcpe": "cpe:/:news_system",
-  "pid": "28746",
-  "pname": "News system",
-  "pcpe": "cpe:/a:news_system:news_system"
+	"vid": "12607",
+	"vname": "News system",
+	"vcpe": "cpe:/:news_system",
+	"pid": "28746",
+	"pname": "News system",
+	"pcpe": "cpe:/a:news_system:news_system"
 }

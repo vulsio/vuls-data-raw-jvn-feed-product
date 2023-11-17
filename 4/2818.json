@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "2818",
-  "pname": "HP LoadRunner",
-  "pcpe": "cpe:/a:hp:loadrunner"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "2818",
+	"pname": "HP LoadRunner",
+	"pcpe": "cpe:/a:hp:loadrunner"
 }

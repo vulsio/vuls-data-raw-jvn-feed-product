@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "4256",
-  "pname": "anyconnect ssl vpn",
-  "pcpe": "cpe:/a:cisco:anyconnect_ssl_vpn"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "4256",
+	"pname": "anyconnect ssl vpn",
+	"pcpe": "cpe:/a:cisco:anyconnect_ssl_vpn"
 }

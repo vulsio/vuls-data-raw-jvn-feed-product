@@ -1,8 +1,8 @@
 {
-  "vid": "212",
-  "vname": "カシオ",
-  "vcpe": "cpe:/:casio",
-  "pid": "598",
-  "pname": "Photo Loader",
-  "pcpe": "cpe:/a:casio:photo_loader"
+	"vid": "212",
+	"vname": "カシオ",
+	"vcpe": "cpe:/:casio",
+	"pid": "598",
+	"pname": "Photo Loader",
+	"pcpe": "cpe:/a:casio:photo_loader"
 }

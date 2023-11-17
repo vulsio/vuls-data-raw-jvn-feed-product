@@ -1,8 +1,8 @@
 {
-  "vid": "1721",
-  "vname": "SolarWinds",
-  "vcpe": "cpe:/:solarwinds",
-  "pid": "19709",
-  "pname": "DameWare Remote Support",
-  "pcpe": "cpe:/a:solarwinds:remote_support"
+	"vid": "1721",
+	"vname": "SolarWinds",
+	"vcpe": "cpe:/:solarwinds",
+	"pid": "19709",
+	"pname": "DameWare Remote Support",
+	"pcpe": "cpe:/a:solarwinds:remote_support"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56763",
-  "pname": "LTE7490-M904 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:lte7490-m904_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56763",
+	"pname": "LTE7490-M904 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:lte7490-m904_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58733",
-  "pname": "thin installer",
-  "pcpe": "cpe:/a:lenovo:thin_installer"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58733",
+	"pname": "thin installer",
+	"pcpe": "cpe:/a:lenovo:thin_installer"
 }

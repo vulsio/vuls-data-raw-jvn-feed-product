@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20425",
-  "pname": "IBM Tivoli System Automation",
-  "pcpe": "cpe:/a:ibm:tivoli_system_automation"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20425",
+	"pname": "IBM Tivoli System Automation",
+	"pcpe": "cpe:/a:ibm:tivoli_system_automation"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1296",
-  "vname": "クイックヒール・テクノロジーズ・ジャパン株式会社",
-  "vcpe": "cpe:/:quick_heal",
-  "pid": "27589",
-  "pname": "クイックヒール トータルセキュリティ",
-  "pcpe": "cpe:/a:quick_heal:total_security"
+	"vid": "1296",
+	"vname": "クイックヒール・テクノロジーズ・ジャパン株式会社",
+	"vcpe": "cpe:/:quick_heal",
+	"pid": "27589",
+	"pname": "クイックヒール トータルセキュリティ",
+	"pcpe": "cpe:/a:quick_heal:total_security"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1337",
-  "vname": "Alcatel-Lucent",
-  "vcpe": "cpe:/:alcatel-lucent",
-  "pid": "18097",
-  "pname": "OmniTouch 8460 Advanced Communications Server",
-  "pcpe": "cpe:/a:alcatel-lucent:omnitouch_8460_advanced_communication_server"
+	"vid": "1337",
+	"vname": "Alcatel-Lucent",
+	"vcpe": "cpe:/:alcatel-lucent",
+	"pid": "18097",
+	"pname": "OmniTouch 8460 Advanced Communications Server",
+	"pcpe": "cpe:/a:alcatel-lucent:omnitouch_8460_advanced_communication_server"
 }

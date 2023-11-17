@@ -1,8 +1,8 @@
 {
-  "vid": "18199",
-  "vname": "iCATCH Inc.",
-  "vcpe": "cpe:/:icatchinc",
-  "pid": "44428",
-  "pname": "DVR ファームウェア",
-  "pcpe": "cpe:/o:icatchinc:dvr_firmware"
+	"vid": "18199",
+	"vname": "iCATCH Inc.",
+	"vcpe": "cpe:/:icatchinc",
+	"pid": "44428",
+	"pname": "DVR ファームウェア",
+	"pcpe": "cpe:/o:icatchinc:dvr_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "2701",
-  "pname": "IBM WebSphere Dashboard Framework",
-  "pcpe": "cpe:/a:ibm:websphere_dashboard_framework"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "2701",
+	"pname": "IBM WebSphere Dashboard Framework",
+	"pcpe": "cpe:/a:ibm:websphere_dashboard_framework"
 }

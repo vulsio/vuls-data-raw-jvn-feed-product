@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38314",
-  "pname": "Duo Network Gateway",
-  "pcpe": "cpe:/a:cisco:duo_network_gateway"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38314",
+	"pname": "Duo Network Gateway",
+	"pcpe": "cpe:/a:cisco:duo_network_gateway"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1707",
-  "vname": "securstar",
-  "vcpe": "cpe:/:securstar",
-  "pid": "4790",
-  "pname": "drivecrypt",
-  "pcpe": "cpe:/a:securstar:drivecrypt"
+	"vid": "1707",
+	"vname": "securstar",
+	"vcpe": "cpe:/:securstar",
+	"pid": "4790",
+	"pname": "drivecrypt",
+	"pcpe": "cpe:/a:securstar:drivecrypt"
 }

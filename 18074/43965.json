@@ -1,8 +1,8 @@
 {
-  "vid": "18074",
-  "vname": "WPForms",
-  "vcpe": "cpe:/:wpforms",
-  "pid": "43965",
-  "pname": "Contact Form",
-  "pcpe": "cpe:/a:wpforms:contact_form"
+	"vid": "18074",
+	"vname": "WPForms",
+	"vcpe": "cpe:/:wpforms",
+	"pid": "43965",
+	"pname": "Contact Form",
+	"pcpe": "cpe:/a:wpforms:contact_form"
 }

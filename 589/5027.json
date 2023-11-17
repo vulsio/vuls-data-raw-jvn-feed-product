@@ -1,8 +1,8 @@
 {
-  "vid": "589",
-  "vname": "Invensys",
-  "vcpe": "cpe:/:invensys",
-  "pid": "5027",
-  "pname": "InFusion Control Edition",
-  "pcpe": "cpe:/a:invensys:infusion_control_edition"
+	"vid": "589",
+	"vname": "Invensys",
+	"vcpe": "cpe:/:invensys",
+	"pid": "5027",
+	"pname": "InFusion Control Edition",
+	"pcpe": "cpe:/a:invensys:infusion_control_edition"
 }

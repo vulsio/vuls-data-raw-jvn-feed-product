@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "653",
-  "pname": "HP WBEM Services",
-  "pcpe": "cpe:/a:hp:wbem"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "653",
+	"pname": "HP WBEM Services",
+	"pcpe": "cpe:/a:hp:wbem"
 }

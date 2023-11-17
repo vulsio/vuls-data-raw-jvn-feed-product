@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "37291",
-  "pname": "uSmartView",
-  "pcpe": "cpe:/a:zte:usmartview"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "37291",
+	"pname": "uSmartView",
+	"pcpe": "cpe:/a:zte:usmartview"
 }

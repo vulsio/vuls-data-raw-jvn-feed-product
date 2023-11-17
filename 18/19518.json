@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19518",
-  "pname": "IBM WebSphere Transformation Extender",
-  "pcpe": "cpe:/a:ibm:websphere_transformation_extender"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19518",
+	"pname": "IBM WebSphere Transformation Extender",
+	"pcpe": "cpe:/a:ibm:websphere_transformation_extender"
 }

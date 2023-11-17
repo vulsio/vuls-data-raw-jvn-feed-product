@@ -1,8 +1,8 @@
 {
-  "vid": "1304",
-  "vname": "カスペルスキー",
-  "vcpe": "cpe:/:kaspersky",
-  "pid": "26756",
-  "pname": "Kaspersky Safe Browser",
-  "pcpe": "cpe:/a:kaspersky:safe_browser"
+	"vid": "1304",
+	"vname": "カスペルスキー",
+	"vcpe": "cpe:/:kaspersky",
+	"pid": "26756",
+	"pname": "Kaspersky Safe Browser",
+	"pcpe": "cpe:/a:kaspersky:safe_browser"
 }

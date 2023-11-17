@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "1938",
-  "pname": "EMC NetWorker Module",
-  "pcpe": "cpe:/a:emc:networker_module"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "1938",
+	"pname": "EMC NetWorker Module",
+	"pcpe": "cpe:/a:emc:networker_module"
 }

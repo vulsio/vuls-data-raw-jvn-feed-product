@@ -1,8 +1,8 @@
 {
-  "vid": "9886",
-  "vname": "Cross-RSS plugin project",
-  "vcpe": "cpe:/:cross-rss_plugin_project",
-  "pid": "20576",
-  "pname": "Cross-RSS",
-  "pcpe": "cpe:/a:cross-rss_plugin_project:wp-cross-rss"
+	"vid": "9886",
+	"vname": "Cross-RSS plugin project",
+	"vcpe": "cpe:/:cross-rss_plugin_project",
+	"pid": "20576",
+	"pname": "Cross-RSS",
+	"pcpe": "cpe:/a:cross-rss_plugin_project:wp-cross-rss"
 }

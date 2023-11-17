@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "9464",
-  "pname": "Adobe LiveCycle Designer",
-  "pcpe": "cpe:/a:adobe:livecycle_designer"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "9464",
+	"pname": "Adobe LiveCycle Designer",
+	"pcpe": "cpe:/a:adobe:livecycle_designer"
 }

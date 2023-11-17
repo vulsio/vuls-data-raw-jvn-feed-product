@@ -1,8 +1,8 @@
 {
-  "vid": "13546",
-  "vname": "Linaro",
-  "vcpe": "cpe:/:linaro",
-  "pid": "50658",
-  "pname": "Trusted Firmware-M",
-  "pcpe": "cpe:/a:linaro:trusted_firmware-m"
+	"vid": "13546",
+	"vname": "Linaro",
+	"vcpe": "cpe:/:linaro",
+	"pid": "50658",
+	"pname": "Trusted Firmware-M",
+	"pcpe": "cpe:/a:linaro:trusted_firmware-m"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4160",
-  "vname": "VIVOTEK Inc.",
-  "vcpe": "cpe:/:vivotek",
-  "pid": "15926",
-  "pname": "mjpegcontrol",
-  "pcpe": "cpe:/a:vivotek:mjpegcontrol"
+	"vid": "4160",
+	"vname": "VIVOTEK Inc.",
+	"vcpe": "cpe:/:vivotek",
+	"pid": "15926",
+	"pname": "mjpegcontrol",
+	"pcpe": "cpe:/a:vivotek:mjpegcontrol"
 }

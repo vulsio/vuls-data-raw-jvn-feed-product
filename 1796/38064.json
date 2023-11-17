@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "38064",
-  "pname": "Compia CRT-D ファームウェア",
-  "pcpe": "cpe:/o:medtronic:compia_crt-d_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "38064",
+	"pname": "Compia CRT-D ファームウェア",
+	"pcpe": "cpe:/o:medtronic:compia_crt-d_firmware"
 }

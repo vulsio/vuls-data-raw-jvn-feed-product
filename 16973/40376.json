@@ -1,8 +1,8 @@
 {
-  "vid": "16973",
-  "vname": "Insyde Software",
-  "vcpe": "cpe:/:insyde",
-  "pid": "40376",
-  "pname": "H2OSDE",
-  "pcpe": "cpe:/a:insyde:h2osde"
+	"vid": "16973",
+	"vname": "Insyde Software",
+	"vcpe": "cpe:/:insyde",
+	"pid": "40376",
+	"pname": "H2OSDE",
+	"pcpe": "cpe:/a:insyde:h2osde"
 }

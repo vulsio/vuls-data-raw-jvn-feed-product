@@ -1,8 +1,8 @@
 {
-  "vid": "12030",
-  "vname": "Saia Burgess Controls",
-  "vcpe": "cpe:/:saia_burgess_controls",
-  "pid": "25229",
-  "pname": "PCD7.D4xxV VGA MB Panels ファームウェア",
-  "pcpe": "cpe:/o:saia_burgess_controls:pcd7.d4xxv_vga_mb_firmware"
+	"vid": "12030",
+	"vname": "Saia Burgess Controls",
+	"vcpe": "cpe:/:saia_burgess_controls",
+	"pid": "25229",
+	"pname": "PCD7.D4xxV VGA MB Panels ファームウェア",
+	"pcpe": "cpe:/o:saia_burgess_controls:pcd7.d4xxv_vga_mb_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21296",
-  "vname": "AmZetta",
-  "vcpe": "cpe:/:amzetta",
-  "pid": "54669",
-  "pname": "zPortal DVM Tools",
-  "pcpe": "cpe:/a:amzetta:zportal_dvm_tools"
+	"vid": "21296",
+	"vname": "AmZetta",
+	"vcpe": "cpe:/:amzetta",
+	"pid": "54669",
+	"pname": "zPortal DVM Tools",
+	"pcpe": "cpe:/a:amzetta:zportal_dvm_tools"
 }

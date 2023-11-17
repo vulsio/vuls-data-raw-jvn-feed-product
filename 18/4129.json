@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4129",
-  "pname": "Tivoli Endpoint Manager",
-  "pcpe": "cpe:/a:ibm:tivoli_endpoint_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4129",
+	"pname": "Tivoli Endpoint Manager",
+	"pcpe": "cpe:/a:ibm:tivoli_endpoint_manager"
 }

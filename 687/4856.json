@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "4856",
-  "pname": "tibbr service",
-  "pcpe": "cpe:/a:tibco:tibbr_service"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "4856",
+	"pname": "tibbr service",
+	"pcpe": "cpe:/a:tibco:tibbr_service"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "47584",
-  "pname": "Intel Converged Security and Manageability Engine",
-  "pcpe": "cpe:/a:intel:converged_security_and_manageability_engine"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "47584",
+	"pname": "Intel Converged Security and Manageability Engine",
+	"pcpe": "cpe:/a:intel:converged_security_and_manageability_engine"
 }

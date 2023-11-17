@@ -1,8 +1,8 @@
 {
-  "vid": "260",
-  "vname": "BusyBox",
-  "vcpe": "cpe:/:busybox",
-  "pid": "911",
-  "pname": "BusyBox",
-  "pcpe": "cpe:/a:busybox:busybox"
+	"vid": "260",
+	"vname": "BusyBox",
+	"vcpe": "cpe:/:busybox",
+	"pid": "911",
+	"pname": "BusyBox",
+	"pcpe": "cpe:/a:busybox:busybox"
 }

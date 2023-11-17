@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "3106",
-  "pname": "VMware vCenter Update Manager",
-  "pcpe": "cpe:/a:vmware:vcenter_update_manager"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "3106",
+	"pname": "VMware vCenter Update Manager",
+	"pcpe": "cpe:/a:vmware:vcenter_update_manager"
 }

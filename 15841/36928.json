@@ -1,8 +1,8 @@
 {
-  "vid": "15841",
-  "vname": "NET&SYS",
-  "vcpe": "cpe:/:net-wave",
-  "pid": "36928",
-  "pname": "MNG6300 ファームウェア",
-  "pcpe": "cpe:/o:net-wave:ming6300_firmware"
+	"vid": "15841",
+	"vname": "NET&SYS",
+	"vcpe": "cpe:/:net-wave",
+	"pid": "36928",
+	"pname": "MNG6300 ファームウェア",
+	"pcpe": "cpe:/o:net-wave:ming6300_firmware"
 }

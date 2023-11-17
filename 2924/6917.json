@@ -1,8 +1,8 @@
 {
-  "vid": "2924",
-  "vname": "comdev",
-  "vcpe": "cpe:/:comdev",
-  "pid": "6917",
-  "pname": "comdev misc tools",
-  "pcpe": "cpe:/a:comdev:comdev_misc_tools"
+	"vid": "2924",
+	"vname": "comdev",
+	"vcpe": "cpe:/:comdev",
+	"pid": "6917",
+	"pname": "comdev misc tools",
+	"pcpe": "cpe:/a:comdev:comdev_misc_tools"
 }

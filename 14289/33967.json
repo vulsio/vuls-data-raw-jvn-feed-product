@@ -1,8 +1,8 @@
 {
-  "vid": "14289",
-  "vname": "jvminstall project",
-  "vcpe": "cpe:/:jvminstall_project",
-  "pid": "33967",
-  "pname": "jvminstall",
-  "pcpe": "cpe:/a:jvminstall_project:jvminstall"
+	"vid": "14289",
+	"vname": "jvminstall project",
+	"vcpe": "cpe:/:jvminstall_project",
+	"pid": "33967",
+	"pname": "jvminstall",
+	"pcpe": "cpe:/a:jvminstall_project:jvminstall"
 }

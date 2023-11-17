@@ -1,8 +1,8 @@
 {
-  "vid": "11987",
-  "vname": "Commvault Systems, Inc",
-  "vcpe": "cpe:/:commvault",
-  "pid": "32261",
-  "pname": "Commvault",
-  "pcpe": "cpe:/a:commvault:commvault"
+	"vid": "11987",
+	"vname": "Commvault Systems, Inc",
+	"vcpe": "cpe:/:commvault",
+	"pid": "32261",
+	"pname": "Commvault",
+	"pcpe": "cpe:/a:commvault:commvault"
 }

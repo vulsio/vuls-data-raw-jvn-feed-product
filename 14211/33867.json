@@ -1,8 +1,8 @@
 {
-  "vid": "14211",
-  "vname": "sqliter project",
-  "vcpe": "cpe:/:sqliter_project",
-  "pid": "33867",
-  "pname": "sqliter",
-  "pcpe": "cpe:/a:sqliter_project:sqliter"
+	"vid": "14211",
+	"vname": "sqliter project",
+	"vcpe": "cpe:/:sqliter_project",
+	"pid": "33867",
+	"pname": "sqliter",
+	"pcpe": "cpe:/a:sqliter_project:sqliter"
 }

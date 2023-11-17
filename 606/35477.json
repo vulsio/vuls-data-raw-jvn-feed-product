@@ -1,8 +1,8 @@
 {
-  "vid": "606",
-  "vname": "セイコーエプソン株式会社",
-  "vcpe": "cpe:/:epson",
-  "pid": "35477",
-  "pname": "PX-S7050X",
-  "pcpe": "cpe:/a:epson:px-s7050x"
+	"vid": "606",
+	"vname": "セイコーエプソン株式会社",
+	"vcpe": "cpe:/:epson",
+	"pid": "35477",
+	"pname": "PX-S7050X",
+	"pcpe": "cpe:/a:epson:px-s7050x"
 }

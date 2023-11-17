@@ -1,8 +1,8 @@
 {
-  "vid": "4110",
-  "vname": "Logitech",
-  "vcpe": "cpe:/:logitech",
-  "pid": "39014",
-  "pname": "R700 Laser Presentation Remote ファームウェア",
-  "pcpe": "cpe:/o:logitech:r700_laser_presentation_remote_firmware"
+	"vid": "4110",
+	"vname": "Logitech",
+	"vcpe": "cpe:/:logitech",
+	"pid": "39014",
+	"pname": "R700 Laser Presentation Remote ファームウェア",
+	"pcpe": "cpe:/o:logitech:r700_laser_presentation_remote_firmware"
 }

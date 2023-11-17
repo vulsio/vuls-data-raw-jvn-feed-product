@@ -1,8 +1,8 @@
 {
-  "vid": "17916",
-  "vname": "Cambium Networks, Ltd.",
-  "vcpe": "cpe:/:cambiumnetworks",
-  "pid": "43313",
-  "pname": "XR620 ファームウェア",
-  "pcpe": "cpe:/o:cambiumnetworks:xr620_firmware"
+	"vid": "17916",
+	"vname": "Cambium Networks, Ltd.",
+	"vcpe": "cpe:/:cambiumnetworks",
+	"pid": "43313",
+	"pname": "XR620 ファームウェア",
+	"pcpe": "cpe:/o:cambiumnetworks:xr620_firmware"
 }

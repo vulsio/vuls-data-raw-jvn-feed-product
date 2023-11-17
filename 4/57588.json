@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "57588",
-  "pname": "Elitebook 1050 G1 ファームウェア",
-  "pcpe": "cpe:/o:hp:elitebook_1050_g1_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "57588",
+	"pname": "Elitebook 1050 G1 ファームウェア",
+	"pcpe": "cpe:/o:hp:elitebook_1050_g1_firmware"
 }

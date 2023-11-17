@@ -1,8 +1,8 @@
 {
-  "vid": "11156",
-  "vname": "Comcast",
-  "vcpe": "cpe:/:comcast",
-  "pid": "25826",
-  "pname": "XFINITY Home Security",
-  "pcpe": "cpe:/o:comcast:xfinity_home_security_system"
+	"vid": "11156",
+	"vname": "Comcast",
+	"vcpe": "cpe:/:comcast",
+	"pid": "25826",
+	"pname": "XFINITY Home Security",
+	"pcpe": "cpe:/o:comcast:xfinity_home_security_system"
 }

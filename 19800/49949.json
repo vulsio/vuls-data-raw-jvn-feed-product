@@ -1,8 +1,8 @@
 {
-  "vid": "19800",
-  "vname": "lisPBX project",
-  "vcpe": "cpe:/:lispbx_project",
-  "pid": "49949",
-  "pname": "lisPBX",
-  "pcpe": "cpe:/a:lispbx_project:lispbx"
+	"vid": "19800",
+	"vname": "lisPBX project",
+	"vcpe": "cpe:/:lispbx_project",
+	"pid": "49949",
+	"pname": "lisPBX",
+	"pcpe": "cpe:/a:lispbx_project:lispbx"
 }

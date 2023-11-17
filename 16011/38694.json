@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "38694",
-  "pname": "DIVAR IP 2000 ファームウェア",
-  "pcpe": "cpe:/o:bosch:divar_ip_2000_firmware"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "38694",
+	"pname": "DIVAR IP 2000 ファームウェア",
+	"pcpe": "cpe:/o:bosch:divar_ip_2000_firmware"
 }

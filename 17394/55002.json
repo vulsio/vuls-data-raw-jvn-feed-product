@@ -1,8 +1,8 @@
 {
-  "vid": "17394",
-  "vname": "Thales Group",
-  "vcpe": "cpe:/:thalesgroup",
-  "pid": "55002",
-  "pname": "Sentinel Protection Installer",
-  "pcpe": "cpe:/a:thalesgroup:sentinel_protection_installer"
+	"vid": "17394",
+	"vname": "Thales Group",
+	"vcpe": "cpe:/:thalesgroup",
+	"pid": "55002",
+	"pname": "Sentinel Protection Installer",
+	"pcpe": "cpe:/a:thalesgroup:sentinel_protection_installer"
 }

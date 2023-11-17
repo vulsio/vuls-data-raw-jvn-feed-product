@@ -1,8 +1,8 @@
 {
-  "vid": "110",
-  "vname": "Broadcom",
-  "vcpe": "cpe:/:broadcom",
-  "pid": "56847",
-  "pname": "XCOM Data Transport",
-  "pcpe": "cpe:/a:broadcom:xcom_data_transport"
+	"vid": "110",
+	"vname": "Broadcom",
+	"vcpe": "cpe:/:broadcom",
+	"pid": "56847",
+	"pname": "XCOM Data Transport",
+	"pcpe": "cpe:/a:broadcom:xcom_data_transport"
 }

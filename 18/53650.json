@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "53650",
-  "pname": "IBM Security Risk Manager on CP4S",
-  "pcpe": "cpe:/a:ibm:security_risk_manager_on_cp4s"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "53650",
+	"pname": "IBM Security Risk Manager on CP4S",
+	"pcpe": "cpe:/a:ibm:security_risk_manager_on_cp4s"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20364",
-  "vname": "async-coap project",
-  "vcpe": "cpe:/:async-coap_project",
-  "pid": "51929",
-  "pname": "async-coap",
-  "pcpe": "cpe:/a:async-coap_project:async-coap"
+	"vid": "20364",
+	"vname": "async-coap project",
+	"vcpe": "cpe:/:async-coap_project",
+	"pid": "51929",
+	"pname": "async-coap",
+	"pcpe": "cpe:/a:async-coap_project:async-coap"
 }

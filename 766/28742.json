@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "28742",
-  "pname": "Modicon TM221CE16R ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:modicon_tm221ce16r_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "28742",
+	"pname": "Modicon TM221CE16R ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:modicon_tm221ce16r_firmware"
 }

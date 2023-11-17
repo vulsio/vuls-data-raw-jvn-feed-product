@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "63862",
-  "pname": "r650xs ファームウェア",
-  "pcpe": "cpe:/o:dell:r650xs_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "63862",
+	"pname": "r650xs ファームウェア",
+	"pcpe": "cpe:/o:dell:r650xs_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18272",
-  "vname": "Blaauw",
-  "vcpe": "cpe:/:blaauwproducts",
-  "pid": "44776",
-  "pname": "Remote Kiln Control",
-  "pcpe": "cpe:/a:blaauwproducts:remote_kiln_control"
+	"vid": "18272",
+	"vname": "Blaauw",
+	"vcpe": "cpe:/:blaauwproducts",
+	"pid": "44776",
+	"pname": "Remote Kiln Control",
+	"pcpe": "cpe:/a:blaauwproducts:remote_kiln_control"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "31970",
-  "pname": "Oracle Internet Directory",
-  "pcpe": "cpe:/a:oracle:internet_directory"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "31970",
+	"pname": "Oracle Internet Directory",
+	"pcpe": "cpe:/a:oracle:internet_directory"
 }

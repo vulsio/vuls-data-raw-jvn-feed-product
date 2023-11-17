@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "35347",
-  "pname": "Intel Pentium N",
-  "pcpe": "cpe:/h:intel:pentium_n"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "35347",
+	"pname": "Intel Pentium N",
+	"pcpe": "cpe:/h:intel:pentium_n"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17367",
-  "pname": "IBM WebSphere DataPower Integration アプライアンス XI52 Virtual Edition",
-  "pcpe": "cpe:/h:ibm:websphere_datapower_integration_appliance_xi52_virtual_edition"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17367",
+	"pname": "IBM WebSphere DataPower Integration アプライアンス XI52 Virtual Edition",
+	"pcpe": "cpe:/h:ibm:websphere_datapower_integration_appliance_xi52_virtual_edition"
 }

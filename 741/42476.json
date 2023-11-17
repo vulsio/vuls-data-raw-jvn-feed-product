@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "42476",
-  "pname": "DWR-113 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dwr-113_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "42476",
+	"pname": "DWR-113 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dwr-113_firmware"
 }

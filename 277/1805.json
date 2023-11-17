@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "1805",
-  "pname": "SNC-RZ25P",
-  "pcpe": "cpe:/h:sony:sony_network_camera_snc-rz25p"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "1805",
+	"pname": "SNC-RZ25P",
+	"pcpe": "cpe:/h:sony:sony_network_camera_snc-rz25p"
 }

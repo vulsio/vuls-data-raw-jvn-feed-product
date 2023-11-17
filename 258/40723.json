@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "40723",
-  "pname": "file-roller",
-  "pcpe": "cpe:/a:gnome:file-roller"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "40723",
+	"pname": "file-roller",
+	"pcpe": "cpe:/a:gnome:file-roller"
 }

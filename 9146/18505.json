@@ -1,8 +1,8 @@
 {
-  "vid": "9146",
-  "vname": "ソニービジネスソリューション",
-  "vcpe": "cpe:/:sony",
-  "pid": "18505",
-  "pname": "SNC-CH180",
-  "pcpe": "cpe:/h:sony:snc_ch180"
+	"vid": "9146",
+	"vname": "ソニービジネスソリューション",
+	"vcpe": "cpe:/:sony",
+	"pid": "18505",
+	"pname": "SNC-CH180",
+	"pcpe": "cpe:/h:sony:snc_ch180"
 }

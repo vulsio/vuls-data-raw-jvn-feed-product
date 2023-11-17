@@ -1,8 +1,8 @@
 {
-  "vid": "3048",
-  "vname": "cyberteddy",
-  "vcpe": "cpe:/:cyberteddy",
-  "pid": "7097",
-  "pname": "weblog",
-  "pcpe": "cpe:/a:cyberteddy:weblog"
+	"vid": "3048",
+	"vname": "cyberteddy",
+	"vcpe": "cpe:/:cyberteddy",
+	"pid": "7097",
+	"pname": "weblog",
+	"pcpe": "cpe:/a:cyberteddy:weblog"
 }

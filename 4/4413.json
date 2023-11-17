@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4413",
-  "pname": "data protector manager",
-  "pcpe": "cpe:/a:hp:data_protector_manager"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4413",
+	"pname": "data protector manager",
+	"pcpe": "cpe:/a:hp:data_protector_manager"
 }

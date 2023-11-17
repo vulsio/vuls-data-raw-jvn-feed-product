@@ -1,8 +1,8 @@
 {
-  "vid": "170",
-  "vname": "東芝",
-  "vcpe": "cpe:/:toshiba",
-  "pid": "15521",
-  "pname": "bluetooth wireless device driver",
-  "pcpe": "cpe:/a:toshiba:bluetooth_wireless_device_driver"
+	"vid": "170",
+	"vname": "東芝",
+	"vcpe": "cpe:/:toshiba",
+	"pid": "15521",
+	"pname": "bluetooth wireless device driver",
+	"pcpe": "cpe:/a:toshiba:bluetooth_wireless_device_driver"
 }

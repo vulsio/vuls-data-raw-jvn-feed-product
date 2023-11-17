@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "43583",
-  "pname": "OneView Global Dashboard",
-  "pcpe": "cpe:/a:hp:oneview_global_dashboard"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "43583",
+	"pname": "OneView Global Dashboard",
+	"pcpe": "cpe:/a:hp:oneview_global_dashboard"
 }

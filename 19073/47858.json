@@ -1,8 +1,8 @@
 {
-  "vid": "19073",
-  "vname": "VertiGIS",
-  "vcpe": "cpe:/:vertigis",
-  "pid": "47858",
-  "pname": "WebOffice",
-  "pcpe": "cpe:/a:vertigis:weboffice"
+	"vid": "19073",
+	"vname": "VertiGIS",
+	"vcpe": "cpe:/:vertigis",
+	"pid": "47858",
+	"pname": "WebOffice",
+	"pcpe": "cpe:/a:vertigis:weboffice"
 }

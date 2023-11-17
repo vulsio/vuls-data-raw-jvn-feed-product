@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31508",
-  "pname": "TIT-AL00 ファームウェア",
-  "pcpe": "cpe:/o:huawei:tit-al00_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31508",
+	"pname": "TIT-AL00 ファームウェア",
+	"pcpe": "cpe:/o:huawei:tit-al00_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18519",
-  "vname": "HiveMQ",
-  "vcpe": "cpe:/:hivemq",
-  "pid": "55662",
-  "pname": "Broker Control Center",
-  "pcpe": "cpe:/a:hivemq:broker_control_center"
+	"vid": "18519",
+	"vname": "HiveMQ",
+	"vcpe": "cpe:/:hivemq",
+	"pid": "55662",
+	"pname": "Broker Control Center",
+	"pcpe": "cpe:/a:hivemq:broker_control_center"
 }

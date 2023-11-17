@@ -1,8 +1,8 @@
 {
-  "vid": "10020",
-  "vname": "The Big Byte",
-  "vcpe": "cpe:/:makingmoneywithandroid",
-  "pid": "21029",
-  "pname": "Ingress Intel Helper",
-  "pcpe": "cpe:/a:makingmoneywithandroid:ingress_intel_helper"
+	"vid": "10020",
+	"vname": "The Big Byte",
+	"vcpe": "cpe:/:makingmoneywithandroid",
+	"pid": "21029",
+	"pname": "Ingress Intel Helper",
+	"pcpe": "cpe:/a:makingmoneywithandroid:ingress_intel_helper"
 }

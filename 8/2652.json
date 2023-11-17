@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "2652",
-  "pname": "Apache Derby",
-  "pcpe": "cpe:/a:apache:derby"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "2652",
+	"pname": "Apache Derby",
+	"pcpe": "cpe:/a:apache:derby"
 }

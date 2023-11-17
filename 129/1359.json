@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1359",
-  "pname": "JP1/Cm2/Hierarchical Agent",
-  "pcpe": "cpe:/a:hitachi:jp1_cm2_hierarchical_agent"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1359",
+	"pname": "JP1/Cm2/Hierarchical Agent",
+	"pcpe": "cpe:/a:hitachi:jp1_cm2_hierarchical_agent"
 }

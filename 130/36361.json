@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "36361",
-  "pname": "Intel System Support Utility for Windows",
-  "pcpe": "cpe:/o:intel:system_support_utility_for_windows"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "36361",
+	"pname": "Intel System Support Utility for Windows",
+	"pcpe": "cpe:/o:intel:system_support_utility_for_windows"
 }

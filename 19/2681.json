@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2681",
-  "pname": "Cisco Tandberg E/EX Personal Video units",
-  "pcpe": "cpe:/h:cisco:tandberg_personal_video_unit"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2681",
+	"pname": "Cisco Tandberg E/EX Personal Video units",
+	"pcpe": "cpe:/h:cisco:tandberg_personal_video_unit"
 }

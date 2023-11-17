@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "47013",
-  "pname": "SAP NetWeaver Compare Systems",
-  "pcpe": "cpe:/a:sap:netweaver_compare_systems"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "47013",
+	"pname": "SAP NetWeaver Compare Systems",
+	"pcpe": "cpe:/a:sap:netweaver_compare_systems"
 }

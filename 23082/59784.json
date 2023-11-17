@@ -1,8 +1,8 @@
 {
-  "vid": "23082",
-  "vname": "netdatasoft",
-  "vcpe": "cpe:/:netdatasoft",
-  "pid": "59784",
-  "pname": "divvy drive",
-  "pcpe": "cpe:/a:netdatasoft:divvy_drive"
+	"vid": "23082",
+	"vname": "netdatasoft",
+	"vcpe": "cpe:/:netdatasoft",
+	"pid": "59784",
+	"pname": "divvy drive",
+	"pcpe": "cpe:/a:netdatasoft:divvy_drive"
 }

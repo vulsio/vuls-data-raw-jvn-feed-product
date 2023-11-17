@@ -1,8 +1,8 @@
 {
-  "vid": "12346",
-  "vname": "handlebars project",
-  "vcpe": "cpe:/:handlebars.js_project",
-  "pid": "27776",
-  "pname": "handlebars",
-  "pcpe": "cpe:/a:handlebars.js_project:handlebars.js"
+	"vid": "12346",
+	"vname": "handlebars project",
+	"vcpe": "cpe:/:handlebars.js_project",
+	"pid": "27776",
+	"pname": "handlebars",
+	"pcpe": "cpe:/a:handlebars.js_project:handlebars.js"
 }

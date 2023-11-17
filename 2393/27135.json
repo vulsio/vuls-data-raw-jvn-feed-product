@@ -1,8 +1,8 @@
 {
-  "vid": "2393",
-  "vname": "AVAST Software s.r.o.",
-  "vcpe": "cpe:/:avast",
-  "pid": "27135",
-  "pname": "Avast Pro Antivirus",
-  "pcpe": "cpe:/a:avast:pro_antivirus"
+	"vid": "2393",
+	"vname": "AVAST Software s.r.o.",
+	"vcpe": "cpe:/:avast",
+	"pid": "27135",
+	"pname": "Avast Pro Antivirus",
+	"pcpe": "cpe:/a:avast:pro_antivirus"
 }

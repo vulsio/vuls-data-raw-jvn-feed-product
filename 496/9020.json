@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "9020",
-  "pname": "Enterprise Manager ソフトウェア",
-  "pcpe": "cpe:/a:f5:enterprise_manager"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "9020",
+	"pname": "Enterprise Manager ソフトウェア",
+	"pcpe": "cpe:/a:f5:enterprise_manager"
 }

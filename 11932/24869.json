@@ -1,8 +1,8 @@
 {
-  "vid": "11932",
-  "vname": "Workbench Email project",
-  "vcpe": "cpe:/:workbench_email_project",
-  "pid": "24869",
-  "pname": "Workbench Email",
-  "pcpe": "cpe:/a:workbench_email_project:workbench_email"
+	"vid": "11932",
+	"vname": "Workbench Email project",
+	"vcpe": "cpe:/:workbench_email_project",
+	"pid": "24869",
+	"pname": "Workbench Email",
+	"pcpe": "cpe:/a:workbench_email_project:workbench_email"
 }

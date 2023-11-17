@@ -1,8 +1,8 @@
 {
-  "vid": "9939",
-  "vname": "Cobham plc",
-  "vcpe": "cpe:/:cobham",
-  "pid": "40957",
-  "pname": "Cobham EXPLORER 710 ファームウェア",
-  "pcpe": "cpe:/o:cobham:explorer_710_firmware"
+	"vid": "9939",
+	"vname": "Cobham plc",
+	"vcpe": "cpe:/:cobham",
+	"pid": "40957",
+	"pname": "Cobham EXPLORER 710 ファームウェア",
+	"pcpe": "cpe:/o:cobham:explorer_710_firmware"
 }

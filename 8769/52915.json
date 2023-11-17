@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "52915",
-  "pname": "QuNetSwitch",
-  "pcpe": "cpe:/a:qnap:qunetswitch"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "52915",
+	"pname": "QuNetSwitch",
+	"pcpe": "cpe:/a:qnap:qunetswitch"
 }

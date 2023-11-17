@@ -1,8 +1,8 @@
 {
-  "vid": "1444",
-  "vname": "ebay",
-  "vcpe": "cpe:/:ebay",
-  "pid": "7652",
-  "pname": "enhanced picture uploader activex control",
-  "pcpe": "cpe:/a:ebay:enhanced_picture_uploader_activex_control"
+	"vid": "1444",
+	"vname": "ebay",
+	"vcpe": "cpe:/:ebay",
+	"pid": "7652",
+	"pname": "enhanced picture uploader activex control",
+	"pcpe": "cpe:/a:ebay:enhanced_picture_uploader_activex_control"
 }

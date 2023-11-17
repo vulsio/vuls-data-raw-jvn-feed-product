@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "35334",
-  "pname": "Intel NUC Firmware Kits",
-  "pcpe": "cpe:/o:intel:next_unit_of_computing_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "35334",
+	"pname": "Intel NUC Firmware Kits",
+	"pcpe": "cpe:/o:intel:next_unit_of_computing_firmware"
 }

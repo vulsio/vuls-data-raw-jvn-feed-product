@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "60803",
-  "pname": "C2325 ファームウェア",
-  "pcpe": "cpe:/o:lexmark:c2325_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "60803",
+	"pname": "C2325 ファームウェア",
+	"pcpe": "cpe:/o:lexmark:c2325_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22489",
-  "vname": "conda",
-  "vcpe": "cpe:/:conda",
-  "pid": "57878",
-  "pname": "miniconda3",
-  "pcpe": "cpe:/a:conda:miniconda3"
+	"vid": "22489",
+	"vname": "conda",
+	"vcpe": "cpe:/:conda",
+	"pid": "57878",
+	"pname": "miniconda3",
+	"pcpe": "cpe:/a:conda:miniconda3"
 }

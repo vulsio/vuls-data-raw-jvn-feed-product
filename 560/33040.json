@@ -1,8 +1,8 @@
 {
-  "vid": "560",
-  "vname": "OSIsoft",
-  "vcpe": "cpe:/:osisoft",
-  "pid": "33040",
-  "pname": "OSIsoft PI Vision",
-  "pcpe": "cpe:/a:osisoft:pi_vision"
+	"vid": "560",
+	"vname": "OSIsoft",
+	"vcpe": "cpe:/:osisoft",
+	"pid": "33040",
+	"pname": "OSIsoft PI Vision",
+	"pcpe": "cpe:/a:osisoft:pi_vision"
 }

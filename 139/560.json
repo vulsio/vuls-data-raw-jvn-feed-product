@@ -1,8 +1,8 @@
 {
-  "vid": "139",
-  "vname": "Glyph & Cog, LLC",
-  "vcpe": "cpe:/:xpdfreader",
-  "pid": "560",
-  "pname": "Xpdf",
-  "pcpe": "cpe:/a:xpdfreader:xpdf"
+	"vid": "139",
+	"vname": "Glyph & Cog, LLC",
+	"vcpe": "cpe:/:xpdfreader",
+	"pid": "560",
+	"pname": "Xpdf",
+	"pcpe": "cpe:/a:xpdfreader:xpdf"
 }

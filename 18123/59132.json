@@ -1,8 +1,8 @@
 {
-  "vid": "18123",
-  "vname": "Object Computing, Inc.",
-  "vcpe": "cpe:/:objectcomputing",
-  "pid": "59132",
-  "pname": "opendds",
-  "pcpe": "cpe:/a:objectcomputing:opendds"
+	"vid": "18123",
+	"vname": "Object Computing, Inc.",
+	"vcpe": "cpe:/:objectcomputing",
+	"pid": "59132",
+	"pname": "opendds",
+	"pcpe": "cpe:/a:objectcomputing:opendds"
 }

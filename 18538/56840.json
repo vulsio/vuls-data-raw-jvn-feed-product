@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "56840",
-  "pname": "HMIBMU0I29D200A ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:hmibmu0i29d200a_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "56840",
+	"pname": "HMIBMU0I29D200A ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:hmibmu0i29d200a_firmware"
 }

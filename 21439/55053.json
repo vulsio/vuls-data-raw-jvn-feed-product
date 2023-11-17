@@ -1,8 +1,8 @@
 {
-  "vid": "21439",
-  "vname": "tectonic_xdv project",
-  "vcpe": "cpe:/:tectonic_xdv_project",
-  "pid": "55053",
-  "pname": "tectonic_xdv",
-  "pcpe": "cpe:/a:tectonic_xdv_project:tectonic_xdv"
+	"vid": "21439",
+	"vname": "tectonic_xdv project",
+	"vcpe": "cpe:/:tectonic_xdv_project",
+	"pid": "55053",
+	"pname": "tectonic_xdv",
+	"pcpe": "cpe:/a:tectonic_xdv_project:tectonic_xdv"
 }

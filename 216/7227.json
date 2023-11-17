@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "7227",
-  "pname": "aptlinex",
-  "pcpe": "cpe:/a:debian:aptlinex"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "7227",
+	"pname": "aptlinex",
+	"pcpe": "cpe:/a:debian:aptlinex"
 }

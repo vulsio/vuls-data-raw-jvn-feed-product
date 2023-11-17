@@ -1,8 +1,8 @@
 {
-  "vid": "11696",
-  "vname": "Valve Corporation",
-  "vcpe": "cpe:/:valve",
-  "pid": "41042",
-  "pname": "Steam Client",
-  "pcpe": "cpe:/a:valve:steam_client"
+	"vid": "11696",
+	"vname": "Valve Corporation",
+	"vcpe": "cpe:/:valve",
+	"pid": "41042",
+	"pname": "Steam Client",
+	"pcpe": "cpe:/a:valve:steam_client"
 }

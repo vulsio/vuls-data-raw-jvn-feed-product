@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "1642",
-  "pname": "BEA Product Suite",
-  "pcpe": "cpe:/a:oracle:bea_product_suite"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "1642",
+	"pname": "BEA Product Suite",
+	"pcpe": "cpe:/a:oracle:bea_product_suite"
 }

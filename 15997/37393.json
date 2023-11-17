@@ -1,8 +1,8 @@
 {
-  "vid": "15997",
-  "vname": "Enphase Energy",
-  "vcpe": "cpe:/:enphase",
-  "pid": "37393",
-  "pname": "Envoy",
-  "pcpe": "cpe:/a:enphase:envoy"
+	"vid": "15997",
+	"vname": "Enphase Energy",
+	"vcpe": "cpe:/:enphase",
+	"pid": "37393",
+	"pname": "Envoy",
+	"pcpe": "cpe:/a:enphase:envoy"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "1634",
-  "pname": "CA ARCserve Backup",
-  "pcpe": "cpe:/a:ca:arcserve_backup"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "1634",
+	"pname": "CA ARCserve Backup",
+	"pcpe": "cpe:/a:ca:arcserve_backup"
 }

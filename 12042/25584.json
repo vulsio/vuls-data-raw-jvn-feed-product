@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25584",
-  "pname": "JG734A HP MSR2004-24 AC Router",
-  "pcpe": "cpe:/h:hp:jg734a_hp_msr2004-24_ac_router"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25584",
+	"pname": "JG734A HP MSR2004-24 AC Router",
+	"pcpe": "cpe:/h:hp:jg734a_hp_msr2004-24_ac_router"
 }

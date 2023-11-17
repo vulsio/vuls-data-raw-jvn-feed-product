@@ -1,8 +1,8 @@
 {
-  "vid": "7505",
-  "vname": "seattle lab software",
-  "vcpe": "cpe:/:seattle_lab_software",
-  "pid": "16704",
-  "pname": "slnet rf telnet server",
-  "pcpe": "cpe:/o:seattle_lab_software:slnet_rf_telnet_server"
+	"vid": "7505",
+	"vname": "seattle lab software",
+	"vcpe": "cpe:/:seattle_lab_software",
+	"pid": "16704",
+	"pname": "slnet rf telnet server",
+	"pcpe": "cpe:/o:seattle_lab_software:slnet_rf_telnet_server"
 }

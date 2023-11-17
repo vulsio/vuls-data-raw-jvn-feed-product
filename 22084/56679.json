@@ -1,8 +1,8 @@
 {
-  "vid": "22084",
-  "vname": "HIMA",
-  "vcpe": "cpe:/:hima",
-  "pid": "56679",
-  "pname": "X-OPC A+E",
-  "pcpe": "cpe:/a:hima:x-opc_a%2be"
+	"vid": "22084",
+	"vname": "HIMA",
+	"vcpe": "cpe:/:hima",
+	"pid": "56679",
+	"pname": "X-OPC A+E",
+	"pcpe": "cpe:/a:hima:x-opc_a%2be"
 }

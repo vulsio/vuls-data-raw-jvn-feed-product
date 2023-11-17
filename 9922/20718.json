@@ -1,8 +1,8 @@
 {
-  "vid": "9922",
-  "vname": "Last.fm Rotation plugin project",
-  "vcpe": "cpe:/:last.fm_rotation_plugin_project",
-  "pid": "20718",
-  "pname": "Last.fm Rotation",
-  "pcpe": "cpe:/a:last.fm_rotation_plugin_project:lastfm-rotation_plugin"
+	"vid": "9922",
+	"vname": "Last.fm Rotation plugin project",
+	"vcpe": "cpe:/:last.fm_rotation_plugin_project",
+	"pid": "20718",
+	"pname": "Last.fm Rotation",
+	"pcpe": "cpe:/a:last.fm_rotation_plugin_project:lastfm-rotation_plugin"
 }

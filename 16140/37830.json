@@ -1,8 +1,8 @@
 {
-  "vid": "16140",
-  "vname": "CapMon",
-  "vcpe": "cpe:/:capmon",
-  "pid": "37830",
-  "pname": "AccessManager",
-  "pcpe": "cpe:/a:capmon:access_manager"
+	"vid": "16140",
+	"vname": "CapMon",
+	"vcpe": "cpe:/:capmon",
+	"pid": "37830",
+	"pname": "AccessManager",
+	"pcpe": "cpe:/a:capmon:access_manager"
 }

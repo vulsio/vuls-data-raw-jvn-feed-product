@@ -1,8 +1,8 @@
 {
-  "vid": "18926",
-  "vname": "Inspur",
-  "vcpe": "cpe:/:inspur",
-  "pid": "48248",
-  "pname": "NF5468M5 ファームウェア",
-  "pcpe": "cpe:/o:inspur:nf5468m5_firmware"
+	"vid": "18926",
+	"vname": "Inspur",
+	"vcpe": "cpe:/:inspur",
+	"pid": "48248",
+	"pname": "NF5468M5 ファームウェア",
+	"pcpe": "cpe:/o:inspur:nf5468m5_firmware"
 }

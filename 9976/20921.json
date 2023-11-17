@@ -1,8 +1,8 @@
 {
-  "vid": "9976",
-  "vname": "CG Automation",
-  "vcpe": "cpe:/:qeiinc",
-  "pid": "20921",
-  "pname": "ePAQ-9410 Substation Gateway",
-  "pcpe": "cpe:/h:qeiinc:epaq-9410_substation_gateway"
+	"vid": "9976",
+	"vname": "CG Automation",
+	"vcpe": "cpe:/:qeiinc",
+	"pid": "20921",
+	"pname": "ePAQ-9410 Substation Gateway",
+	"pcpe": "cpe:/h:qeiinc:epaq-9410_substation_gateway"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "41238",
-  "pname": "Dynatrace Application Monitoring",
-  "pcpe": "cpe:/a:jenkins:dynatrace_application_monitoring"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "41238",
+	"pname": "Dynatrace Application Monitoring",
+	"pcpe": "cpe:/a:jenkins:dynatrace_application_monitoring"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1107",
-  "vname": "Xiaomi",
-  "vcpe": "cpe:/:xiaomi",
-  "pid": "41691",
-  "pname": "Cepheus ファームウェア",
-  "pcpe": "cpe:/o:xiaomi:cepheus_firmware"
+	"vid": "1107",
+	"vname": "Xiaomi",
+	"vcpe": "cpe:/:xiaomi",
+	"pid": "41691",
+	"pname": "Cepheus ファームウェア",
+	"pcpe": "cpe:/o:xiaomi:cepheus_firmware"
 }

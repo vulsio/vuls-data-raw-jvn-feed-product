@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3949",
-  "pname": "Cisco Small Business SRP541W",
-  "pcpe": "cpe:/h:cisco:small_business_srp541w"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3949",
+	"pname": "Cisco Small Business SRP541W",
+	"pcpe": "cpe:/h:cisco:small_business_srp541w"
 }

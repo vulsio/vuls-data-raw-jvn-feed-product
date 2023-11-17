@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "12112",
-  "pname": "extend director",
-  "pcpe": "cpe:/a:novell:extend_director"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "12112",
+	"pname": "extend director",
+	"pcpe": "cpe:/a:novell:extend_director"
 }

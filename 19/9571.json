@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "9571",
-  "pname": "Cisco IPS 4250-SX",
-  "pcpe": "cpe:/h:cisco:ips_4250_sx"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "9571",
+	"pname": "Cisco IPS 4250-SX",
+	"pcpe": "cpe:/h:cisco:ips_4250_sx"
 }

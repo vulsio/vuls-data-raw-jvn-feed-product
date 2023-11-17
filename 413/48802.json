@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "48802",
-  "pname": "QNX Momentics Development Suite",
-  "pcpe": "cpe:/o:blackberry:qnx_momentics_development_suite"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "48802",
+	"pname": "QNX Momentics Development Suite",
+	"pcpe": "cpe:/o:blackberry:qnx_momentics_development_suite"
 }

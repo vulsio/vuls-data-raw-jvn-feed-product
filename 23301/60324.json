@@ -1,8 +1,8 @@
 {
-  "vid": "23301",
-  "vname": "solar-log",
-  "vcpe": "cpe:/:solar-log",
-  "pid": "60324",
-  "pname": "solar-log 300 ファームウェア",
-  "pcpe": "cpe:/o:solar-log:solar-log_300_firmware"
+	"vid": "23301",
+	"vname": "solar-log",
+	"vcpe": "cpe:/:solar-log",
+	"pid": "60324",
+	"pname": "solar-log 300 ファームウェア",
+	"pcpe": "cpe:/o:solar-log:solar-log_300_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1061",
-  "vname": "SopCast",
-  "vcpe": "cpe:/:sopcast",
-  "pid": "3641",
-  "pname": "SopCast",
-  "pcpe": "cpe:/a:sopcast:sopcast"
+	"vid": "1061",
+	"vname": "SopCast",
+	"vcpe": "cpe:/:sopcast",
+	"pid": "3641",
+	"pname": "SopCast",
+	"pcpe": "cpe:/a:sopcast:sopcast"
 }

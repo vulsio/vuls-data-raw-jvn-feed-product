@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "23396",
-  "pname": "CentreCOM 9812T",
-  "pcpe": "cpe:/h:allied_telesis_k.k.:centrecom_9812t"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "23396",
+	"pname": "CentreCOM 9812T",
+	"pcpe": "cpe:/h:allied_telesis_k.k.:centrecom_9812t"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "9614",
-  "pname": "Oracle Hyperion Strategic Finance",
-  "pcpe": "cpe:/a:oracle:hyperion_strategic_finance"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "9614",
+	"pname": "Oracle Hyperion Strategic Finance",
+	"pcpe": "cpe:/a:oracle:hyperion_strategic_finance"
 }

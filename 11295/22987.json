@@ -1,8 +1,8 @@
 {
-  "vid": "11295",
-  "vname": "cloudacl",
-  "vcpe": "cpe:/:cloudacl",
-  "pid": "22987",
-  "pname": "safe browser - the web filter",
-  "pcpe": "cpe:/a:cloudacl:safe_browser_-_the_web_filter"
+	"vid": "11295",
+	"vname": "cloudacl",
+	"vcpe": "cpe:/:cloudacl",
+	"pid": "22987",
+	"pname": "safe browser - the web filter",
+	"pcpe": "cpe:/a:cloudacl:safe_browser_-_the_web_filter"
 }

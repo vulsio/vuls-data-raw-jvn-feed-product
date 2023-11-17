@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "55504",
-  "pname": "TL-WR740N V2 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-wr740n_v2_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "55504",
+	"pname": "TL-WR740N V2 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-wr740n_v2_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11585",
-  "vname": "Agilent Technologies",
-  "vcpe": "cpe:/:agilent_technologies",
-  "pid": "23686",
-  "pname": "Feature Extraction",
-  "pcpe": "cpe:/a:agilent_technologies:feature_extraction"
+	"vid": "11585",
+	"vname": "Agilent Technologies",
+	"vcpe": "cpe:/:agilent_technologies",
+	"pid": "23686",
+	"pname": "Feature Extraction",
+	"pcpe": "cpe:/a:agilent_technologies:feature_extraction"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "41799",
-  "pname": "Taolight Smart Wi-Fi Wiz Connected LED Bulb 9290022656 ファームウェア",
-  "pcpe": "cpe:/o:philips:taolight_smart_wi-fi_wiz_connected_led_bulb_9290022656_firmware"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "41799",
+	"pname": "Taolight Smart Wi-Fi Wiz Connected LED Bulb 9290022656 ファームウェア",
+	"pcpe": "cpe:/o:philips:taolight_smart_wi-fi_wiz_connected_led_bulb_9290022656_firmware"
 }

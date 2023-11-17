@@ -1,8 +1,8 @@
 {
-  "vid": "24652",
-  "vname": "amazonjs project",
-  "vcpe": "cpe:/:amazonjs_project",
-  "pid": "63936",
-  "pname": "amazonjs",
-  "pcpe": "cpe:/a:amazonjs_project:amazonjs"
+	"vid": "24652",
+	"vname": "amazonjs project",
+	"vcpe": "cpe:/:amazonjs_project",
+	"pid": "63936",
+	"pname": "amazonjs",
+	"pcpe": "cpe:/a:amazonjs_project:amazonjs"
 }

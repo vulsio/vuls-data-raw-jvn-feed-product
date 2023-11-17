@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "30992",
-  "pname": "apt-listbugs",
-  "pcpe": "cpe:/a:debian:apt-listbugs"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "30992",
+	"pname": "apt-listbugs",
+	"pcpe": "cpe:/a:debian:apt-listbugs"
 }

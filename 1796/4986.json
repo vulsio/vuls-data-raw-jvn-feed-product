@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "4986",
-  "pname": "paradigm wireless insulin pump",
-  "pcpe": "cpe:/h:medtronic:paradigm_wireless_insulin_pump"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "4986",
+	"pname": "paradigm wireless insulin pump",
+	"pcpe": "cpe:/h:medtronic:paradigm_wireless_insulin_pump"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12456",
-  "vname": "Flexense Ltd.",
-  "vcpe": "cpe:/:flexense",
-  "pid": "28488",
-  "pname": "DiskSorter",
-  "pcpe": "cpe:/a:flexense:disksorter"
+	"vid": "12456",
+	"vname": "Flexense Ltd.",
+	"vcpe": "cpe:/:flexense",
+	"pid": "28488",
+	"pname": "DiskSorter",
+	"pcpe": "cpe:/a:flexense:disksorter"
 }

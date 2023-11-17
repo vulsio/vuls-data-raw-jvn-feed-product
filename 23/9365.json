@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "9365",
-  "pname": "Symantec Messaging Gateway",
-  "pcpe": "cpe:/a:symantec:messaging_gateway"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "9365",
+	"pname": "Symantec Messaging Gateway",
+	"pcpe": "cpe:/a:symantec:messaging_gateway"
 }

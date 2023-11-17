@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "38945",
-  "pname": "P30 Pro ファームウェア",
-  "pcpe": "cpe:/o:huawei:p30_pro_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "38945",
+	"pname": "P30 Pro ファームウェア",
+	"pcpe": "cpe:/o:huawei:p30_pro_firmware"
 }

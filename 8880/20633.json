@@ -1,8 +1,8 @@
 {
-  "vid": "8880",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron_2",
-  "pid": "20633",
-  "pname": "NSシリーズ ソフトウェア",
-  "pcpe": "cpe:/o:omron_2:ns_series_system_program_firmware"
+	"vid": "8880",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron_2",
+	"pid": "20633",
+	"pname": "NSシリーズ ソフトウェア",
+	"pcpe": "cpe:/o:omron_2:ns_series_system_program_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15090",
-  "vname": "archercoin project",
-  "vcpe": "cpe:/:archercoin_project",
-  "pid": "35029",
-  "pname": "archercoin",
-  "pcpe": "cpe:/a:archercoin_project:archercoin"
+	"vid": "15090",
+	"vname": "archercoin project",
+	"vcpe": "cpe:/:archercoin_project",
+	"pid": "35029",
+	"pname": "archercoin",
+	"pcpe": "cpe:/a:archercoin_project:archercoin"
 }

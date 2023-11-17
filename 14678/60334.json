@@ -1,8 +1,8 @@
 {
-  "vid": "14678",
-  "vname": "HCL Technologies Limited",
-  "vcpe": "cpe:/:hcltech",
-  "pid": "60334",
-  "pname": "onetest server",
-  "pcpe": "cpe:/a:hcltech:onetest_server"
+	"vid": "14678",
+	"vname": "HCL Technologies Limited",
+	"vcpe": "cpe:/:hcltech",
+	"pid": "60334",
+	"pname": "onetest server",
+	"pcpe": "cpe:/a:hcltech:onetest_server"
 }

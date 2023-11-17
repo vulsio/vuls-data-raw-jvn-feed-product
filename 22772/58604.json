@@ -1,8 +1,8 @@
 {
-  "vid": "22772",
-  "vname": "wizplat",
-  "vcpe": "cpe:/:wizplat",
-  "pid": "58604",
-  "pname": "pd065 ファームウェア",
-  "pcpe": "cpe:/o:wizplat:pd065_firmware"
+	"vid": "22772",
+	"vname": "wizplat",
+	"vcpe": "cpe:/:wizplat",
+	"pid": "58604",
+	"pname": "pd065 ファームウェア",
+	"pcpe": "cpe:/o:wizplat:pd065_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23439",
-  "vname": "AMI",
-  "vcpe": "cpe:/:ami",
-  "pid": "60728",
-  "pname": "MegaRAC SPX-12",
-  "pcpe": "cpe:/o:ami:megarac_spx-12"
+	"vid": "23439",
+	"vname": "AMI",
+	"vcpe": "cpe:/:ami",
+	"pid": "60728",
+	"pname": "MegaRAC SPX-12",
+	"pcpe": "cpe:/o:ami:megarac_spx-12"
 }

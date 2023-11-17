@@ -1,8 +1,8 @@
 {
-  "vid": "12660",
-  "vname": "Dolby Laboratories, Inc.",
-  "vcpe": "cpe:/:dolby",
-  "pid": "28982",
-  "pname": "Dolby Audio X3",
-  "pcpe": "cpe:/a:dolby:dolby_audio_x3"
+	"vid": "12660",
+	"vname": "Dolby Laboratories, Inc.",
+	"vcpe": "cpe:/:dolby",
+	"pid": "28982",
+	"pname": "Dolby Audio X3",
+	"pcpe": "cpe:/a:dolby:dolby_audio_x3"
 }

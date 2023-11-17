@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "750",
-  "pname": "Cisco Personal Assistant",
-  "pcpe": "cpe:/a:cisco:personal_assistant"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "750",
+	"pname": "Cisco Personal Assistant",
+	"pcpe": "cpe:/a:cisco:personal_assistant"
 }

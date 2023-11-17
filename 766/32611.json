@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "32611",
-  "pname": "StruxureOn Gateway",
-  "pcpe": "cpe:/a:schneider_electric:struxureon_gateway"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "32611",
+	"pname": "StruxureOn Gateway",
+	"pcpe": "cpe:/a:schneider_electric:struxureon_gateway"
 }

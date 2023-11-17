@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "44551",
-  "pname": "Intel COMPUTE STICK STCK1A32WFC ファームウェア",
-  "pcpe": "cpe:/o:intel:compute_stick_stck1a32wfc_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "44551",
+	"pname": "Intel COMPUTE STICK STCK1A32WFC ファームウェア",
+	"pcpe": "cpe:/o:intel:compute_stick_stck1a32wfc_firmware"
 }

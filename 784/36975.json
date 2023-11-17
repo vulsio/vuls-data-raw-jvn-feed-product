@@ -1,8 +1,8 @@
 {
-  "vid": "784",
-  "vname": "Technicolor",
-  "vcpe": "cpe:/:technicolor",
-  "pid": "36975",
-  "pname": "CWA0101 ファームウェア",
-  "pcpe": "cpe:/o:technicolor:cwa0101_firmware"
+	"vid": "784",
+	"vname": "Technicolor",
+	"vcpe": "cpe:/:technicolor",
+	"pid": "36975",
+	"pname": "CWA0101 ファームウェア",
+	"pcpe": "cpe:/o:technicolor:cwa0101_firmware"
 }

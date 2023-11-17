@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33197",
-  "pname": "MSM8976 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:msm8976_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33197",
+	"pname": "MSM8976 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:msm8976_firmware"
 }

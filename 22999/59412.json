@@ -1,8 +1,8 @@
 {
-  "vid": "22999",
-  "vname": "OCDI",
-  "vcpe": "cpe:/:ocdi",
-  "pid": "59412",
-  "pname": "One Click Demo Import",
-  "pcpe": "cpe:/a:ocdi:one_click_demo_import"
+	"vid": "22999",
+	"vname": "OCDI",
+	"vcpe": "cpe:/:ocdi",
+	"pid": "59412",
+	"pname": "One Click Demo Import",
+	"pcpe": "cpe:/a:ocdi:one_click_demo_import"
 }

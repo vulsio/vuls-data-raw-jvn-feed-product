@@ -1,8 +1,8 @@
 {
-  "vid": "22290",
-  "vname": "Trellix",
-  "vcpe": "cpe:/:trellix",
-  "pid": "61127",
-  "pname": "Data Loss Prevention (DLP)",
-  "pcpe": "cpe:/a:trellix:data_loss_prevention"
+	"vid": "22290",
+	"vname": "Trellix",
+	"vcpe": "cpe:/:trellix",
+	"pid": "61127",
+	"pname": "Data Loss Prevention (DLP)",
+	"pcpe": "cpe:/a:trellix:data_loss_prevention"
 }

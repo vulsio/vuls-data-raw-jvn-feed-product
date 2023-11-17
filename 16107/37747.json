@@ -1,8 +1,8 @@
 {
-  "vid": "16107",
-  "vname": "Apowersoft",
-  "vcpe": "cpe:/:apowersoft",
-  "pid": "37747",
-  "pname": "ApowerManager",
-  "pcpe": "cpe:/a:apowersoft:apowermanager"
+	"vid": "16107",
+	"vname": "Apowersoft",
+	"vcpe": "cpe:/:apowersoft",
+	"pid": "37747",
+	"pname": "ApowerManager",
+	"pcpe": "cpe:/a:apowersoft:apowermanager"
 }

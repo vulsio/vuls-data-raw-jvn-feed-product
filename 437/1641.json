@@ -1,8 +1,8 @@
 {
-  "vid": "437",
-  "vname": "ベリタス",
-  "vcpe": "cpe:/:veritas",
-  "pid": "1641",
-  "pname": "Backup Exec",
-  "pcpe": "cpe:/a:veritas:backup_exec"
+	"vid": "437",
+	"vname": "ベリタス",
+	"vcpe": "cpe:/:veritas",
+	"pid": "1641",
+	"pname": "Backup Exec",
+	"pcpe": "cpe:/a:veritas:backup_exec"
 }

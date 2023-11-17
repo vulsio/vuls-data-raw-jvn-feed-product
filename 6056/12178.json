@@ -1,8 +1,8 @@
 {
-  "vid": "6056",
-  "vname": "OCaml",
-  "vcpe": "cpe:/:ocaml",
-  "pid": "12178",
-  "pname": "postgresql-ocaml",
-  "pcpe": "cpe:/a:ocaml:postgresql-ocaml"
+	"vid": "6056",
+	"vname": "OCaml",
+	"vcpe": "cpe:/:ocaml",
+	"pid": "12178",
+	"pname": "postgresql-ocaml",
+	"pcpe": "cpe:/a:ocaml:postgresql-ocaml"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "16889",
-  "pname": "RSA Archer SmartSuite",
-  "pcpe": "cpe:/a:emc:rsa_archer_smartsuite"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "16889",
+	"pname": "RSA Archer SmartSuite",
+	"pcpe": "cpe:/a:emc:rsa_archer_smartsuite"
 }

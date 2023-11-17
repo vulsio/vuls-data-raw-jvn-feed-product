@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47864",
-  "pname": "Oracle Sales Offline",
-  "pcpe": "cpe:/a:oracle:sales_offline"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47864",
+	"pname": "Oracle Sales Offline",
+	"pcpe": "cpe:/a:oracle:sales_offline"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19327",
-  "vname": "Indio Networks Pvt. Ltd.",
-  "vcpe": "cpe:/:indionetworks",
-  "pid": "48677",
-  "pname": "UniBox U1000 ファームウェア",
-  "pcpe": "cpe:/o:indionetworks:unibox_u1000_firmware"
+	"vid": "19327",
+	"vname": "Indio Networks Pvt. Ltd.",
+	"vcpe": "cpe:/:indionetworks",
+	"pid": "48677",
+	"pname": "UniBox U1000 ファームウェア",
+	"pcpe": "cpe:/o:indionetworks:unibox_u1000_firmware"
 }

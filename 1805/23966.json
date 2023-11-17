@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "23966",
-  "pname": "TL-WDR3600",
-  "pcpe": "cpe:/h:tp-link:tl-wdr3600"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "23966",
+	"pname": "TL-WDR3600",
+	"pcpe": "cpe:/h:tp-link:tl-wdr3600"
 }

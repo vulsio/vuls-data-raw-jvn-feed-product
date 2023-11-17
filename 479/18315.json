@@ -1,8 +1,8 @@
 {
-  "vid": "479",
-  "vname": "phpBB",
-  "vcpe": "cpe:/:phpbb",
-  "pid": "18315",
-  "pname": "phpbb3",
-  "pcpe": "cpe:/a:phpbb:phpbb3"
+	"vid": "479",
+	"vname": "phpBB",
+	"vcpe": "cpe:/:phpbb",
+	"pid": "18315",
+	"pname": "phpbb3",
+	"pcpe": "cpe:/a:phpbb:phpbb3"
 }

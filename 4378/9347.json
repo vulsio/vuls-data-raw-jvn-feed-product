@@ -1,8 +1,8 @@
 {
-  "vid": "4378",
-  "vname": "Tigase",
-  "vcpe": "cpe:/:tigase",
-  "pid": "9347",
-  "pname": "Tigase XMPP Server",
-  "pcpe": "cpe:/a:tigase:tigase_xmpp_server"
+	"vid": "4378",
+	"vname": "Tigase",
+	"vcpe": "cpe:/:tigase",
+	"pid": "9347",
+	"pname": "Tigase XMPP Server",
+	"pcpe": "cpe:/a:tigase:tigase_xmpp_server"
 }

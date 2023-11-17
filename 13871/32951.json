@@ -1,8 +1,8 @@
 {
-  "vid": "13871",
-  "vname": "The Zonemaster Project",
-  "vcpe": "cpe:/:zonemaster_project",
-  "pid": "32951",
-  "pname": "Zonemaster Web GUI",
-  "pcpe": "cpe:/a:zonemaster_project:zonemaster_web_gui"
+	"vid": "13871",
+	"vname": "The Zonemaster Project",
+	"vcpe": "cpe:/:zonemaster_project",
+	"pid": "32951",
+	"pname": "Zonemaster Web GUI",
+	"pcpe": "cpe:/a:zonemaster_project:zonemaster_web_gui"
 }

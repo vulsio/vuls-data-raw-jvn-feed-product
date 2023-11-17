@@ -1,8 +1,8 @@
 {
-  "vid": "1144",
-  "vname": "SilverStripe",
-  "vcpe": "cpe:/:silverstripe",
-  "pid": "60960",
-  "pname": "framework",
-  "pcpe": "cpe:/a:silverstripe:framework"
+	"vid": "1144",
+	"vname": "SilverStripe",
+	"vcpe": "cpe:/:silverstripe",
+	"pid": "60960",
+	"pname": "framework",
+	"pcpe": "cpe:/a:silverstripe:framework"
 }

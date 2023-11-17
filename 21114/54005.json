@@ -1,8 +1,8 @@
 {
-  "vid": "21114",
-  "vname": "横河計測株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "54005",
-  "pname": "WTViewerE 761941",
-  "pcpe": "cpe:/a:misc:yokogawa_test_wtviewere_761941"
+	"vid": "21114",
+	"vname": "横河計測株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "54005",
+	"pname": "WTViewerE 761941",
+	"pcpe": "cpe:/a:misc:yokogawa_test_wtviewere_761941"
 }

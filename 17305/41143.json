@@ -1,8 +1,8 @@
 {
-  "vid": "17305",
-  "vname": "csv-parse project",
-  "vcpe": "cpe:/:csv-parse_project",
-  "pid": "41143",
-  "pname": "csv-parse",
-  "pcpe": "cpe:/a:csv-parse_project:csv-parse"
+	"vid": "17305",
+	"vname": "csv-parse project",
+	"vcpe": "cpe:/:csv-parse_project",
+	"pid": "41143",
+	"pname": "csv-parse",
+	"pcpe": "cpe:/a:csv-parse_project:csv-parse"
 }

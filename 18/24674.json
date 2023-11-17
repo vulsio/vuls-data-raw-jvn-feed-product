@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "24674",
-  "pname": "IBM Tivoli Storage Manager for Databases: Data Protection for Microsoft SQL Server",
-  "pcpe": "cpe:/a:ibm:tivoli_storage_manager_for_databases_data_protection_for_ms_sql_server"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "24674",
+	"pname": "IBM Tivoli Storage Manager for Databases: Data Protection for Microsoft SQL Server",
+	"pcpe": "cpe:/a:ibm:tivoli_storage_manager_for_databases_data_protection_for_ms_sql_server"
 }

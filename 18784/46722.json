@@ -1,8 +1,8 @@
 {
-  "vid": "18784",
-  "vname": "telmat",
-  "vcpe": "cpe:/:telmat",
-  "pid": "46722",
-  "pname": "Educ@Box ファームウェア",
-  "pcpe": "cpe:/o:telmat:educ%40box_firmware"
+	"vid": "18784",
+	"vname": "telmat",
+	"vcpe": "cpe:/:telmat",
+	"pid": "46722",
+	"pname": "Educ@Box ファームウェア",
+	"pcpe": "cpe:/o:telmat:educ%40box_firmware"
 }

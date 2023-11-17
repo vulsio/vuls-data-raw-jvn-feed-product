@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3321",
-  "pname": "HP LaserJet 4345 MFP",
-  "pcpe": "cpe:/h:hp:laserjet_4345_mfp"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3321",
+	"pname": "HP LaserJet 4345 MFP",
+	"pcpe": "cpe:/h:hp:laserjet_4345_mfp"
 }

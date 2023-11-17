@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "2405",
-  "pname": "Apache Axis2/Java",
-  "pcpe": "cpe:/a:apache:axis2"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "2405",
+	"pname": "Apache Axis2/Java",
+	"pcpe": "cpe:/a:apache:axis2"
 }

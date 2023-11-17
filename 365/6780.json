@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "6780",
-  "pname": "NetScaler",
-  "pcpe": "cpe:/a:citrix:netscaler"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "6780",
+	"pname": "NetScaler",
+	"pcpe": "cpe:/a:citrix:netscaler"
 }

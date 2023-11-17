@@ -1,8 +1,8 @@
 {
-  "vid": "105",
-  "vname": "Ruby-lang.org",
-  "vcpe": "cpe:/:ruby-lang",
-  "pid": "27836",
-  "pname": "OpenSSL for Ruby",
-  "pcpe": "cpe:/a:ruby-lang:openssl"
+	"vid": "105",
+	"vname": "Ruby-lang.org",
+	"vcpe": "cpe:/:ruby-lang",
+	"pid": "27836",
+	"pname": "OpenSSL for Ruby",
+	"pcpe": "cpe:/a:ruby-lang:openssl"
 }

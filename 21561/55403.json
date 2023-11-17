@@ -1,8 +1,8 @@
 {
-  "vid": "21561",
-  "vname": "nanoid project",
-  "vcpe": "cpe:/:nanoid_project",
-  "pid": "55403",
-  "pname": "nanoid",
-  "pcpe": "cpe:/a:nanoid_project:nanoid"
+	"vid": "21561",
+	"vname": "nanoid project",
+	"vcpe": "cpe:/:nanoid_project",
+	"pid": "55403",
+	"pname": "nanoid",
+	"pcpe": "cpe:/a:nanoid_project:nanoid"
 }

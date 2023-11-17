@@ -1,8 +1,8 @@
 {
-  "vid": "12192",
-  "vname": "JWCrypto project",
-  "vcpe": "cpe:/:jwcrypto_project",
-  "pid": "26787",
-  "pname": "JWCrypto",
-  "pcpe": "cpe:/a:jwcrypto_project:jwcrypto"
+	"vid": "12192",
+	"vname": "JWCrypto project",
+	"vcpe": "cpe:/:jwcrypto_project",
+	"pid": "26787",
+	"pname": "JWCrypto",
+	"pcpe": "cpe:/a:jwcrypto_project:jwcrypto"
 }

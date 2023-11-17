@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "55326",
-  "pname": "CP-8022 MASTER MODULE WITH GPRS ファームウェア",
-  "pcpe": "cpe:/o:siemens:cp-8022_master_module_with_gprs_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "55326",
+	"pname": "CP-8022 MASTER MODULE WITH GPRS ファームウェア",
+	"pcpe": "cpe:/o:siemens:cp-8022_master_module_with_gprs_firmware"
 }

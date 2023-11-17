@@ -1,8 +1,8 @@
 {
-  "vid": "705",
-  "vname": "MH Products",
-  "vcpe": "cpe:/:mhproducts",
-  "pid": "2936",
-  "pname": "Download Center",
-  "pcpe": "cpe:/a:mhproducts:download_center"
+	"vid": "705",
+	"vname": "MH Products",
+	"vcpe": "cpe:/:mhproducts",
+	"pid": "2936",
+	"pname": "Download Center",
+	"pcpe": "cpe:/a:mhproducts:download_center"
 }

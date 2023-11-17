@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26156",
-  "pname": "Secospace USG6500",
-  "pcpe": "cpe:/h:huawei:secospace_usg6500"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26156",
+	"pname": "Secospace USG6500",
+	"pcpe": "cpe:/h:huawei:secospace_usg6500"
 }

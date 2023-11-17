@@ -1,8 +1,8 @@
 {
-  "vid": "24566",
-  "vname": "ikea",
-  "vcpe": "cpe:/:ikea",
-  "pid": "63649",
-  "pname": "tradfri gateway e1526 ファームウェア",
-  "pcpe": "cpe:/o:ikea:tradfri_gateway_e1526_firmware"
+	"vid": "24566",
+	"vname": "ikea",
+	"vcpe": "cpe:/:ikea",
+	"pid": "63649",
+	"pname": "tradfri gateway e1526 ファームウェア",
+	"pcpe": "cpe:/o:ikea:tradfri_gateway_e1526_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23279",
-  "vname": "Bulk Page Creator project",
-  "vcpe": "cpe:/:bulk_page_creator_project",
-  "pid": "60287",
-  "pname": "Bulk Page Creator",
-  "pcpe": "cpe:/a:bulk_page_creator_project:bulk_page_creator"
+	"vid": "23279",
+	"vname": "Bulk Page Creator project",
+	"vcpe": "cpe:/:bulk_page_creator_project",
+	"pid": "60287",
+	"pname": "Bulk Page Creator",
+	"pcpe": "cpe:/a:bulk_page_creator_project:bulk_page_creator"
 }

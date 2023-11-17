@@ -1,8 +1,8 @@
 {
-  "vid": "20467",
-  "vname": "Faraday Networks",
-  "vcpe": "cpe:/:faraday",
-  "pid": "52124",
-  "pname": "Faraday Edge",
-  "pcpe": "cpe:/a:faraday:edge"
+	"vid": "20467",
+	"vname": "Faraday Networks",
+	"vcpe": "cpe:/:faraday",
+	"pid": "52124",
+	"pname": "Faraday Edge",
+	"pcpe": "cpe:/a:faraday:edge"
 }

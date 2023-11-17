@@ -1,8 +1,8 @@
 {
-  "vid": "14259",
-  "vname": "node-browser project",
-  "vcpe": "cpe:/:node-browser_project",
-  "pid": "33934",
-  "pname": "node-browser",
-  "pcpe": "cpe:/a:node-browser_project:node-browser"
+	"vid": "14259",
+	"vname": "node-browser project",
+	"vcpe": "cpe:/:node-browser_project",
+	"pid": "33934",
+	"pname": "node-browser",
+	"pcpe": "cpe:/a:node-browser_project:node-browser"
 }

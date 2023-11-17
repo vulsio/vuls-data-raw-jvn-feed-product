@@ -1,8 +1,8 @@
 {
-  "vid": "21877",
-  "vname": "Moment.js",
-  "vcpe": "cpe:/:momentjs",
-  "pid": "56151",
-  "pname": "Luxon",
-  "pcpe": "cpe:/a:momentjs:luxon"
+	"vid": "21877",
+	"vname": "Moment.js",
+	"vcpe": "cpe:/:momentjs",
+	"pid": "56151",
+	"pname": "Luxon",
+	"pcpe": "cpe:/a:momentjs:luxon"
 }

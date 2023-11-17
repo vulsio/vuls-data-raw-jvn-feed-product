@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "17070",
-  "pname": "EMC Smarts Service Assurance Manager",
-  "pcpe": "cpe:/a:emc:smarts_services_assurance_manager"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "17070",
+	"pname": "EMC Smarts Service Assurance Manager",
+	"pcpe": "cpe:/a:emc:smarts_services_assurance_manager"
 }

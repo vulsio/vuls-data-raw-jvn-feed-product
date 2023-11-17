@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "46495",
-  "pname": "Validating String Parameter Plugin",
-  "pcpe": "cpe:/a:jenkins:validating_string_parameter"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "46495",
+	"pname": "Validating String Parameter Plugin",
+	"pcpe": "cpe:/a:jenkins:validating_string_parameter"
 }

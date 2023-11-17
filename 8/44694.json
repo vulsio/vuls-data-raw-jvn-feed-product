@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "44694",
-  "pname": "NiFi Registry",
-  "pcpe": "cpe:/a:apache:nifi_registry"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "44694",
+	"pname": "NiFi Registry",
+	"pcpe": "cpe:/a:apache:nifi_registry"
 }

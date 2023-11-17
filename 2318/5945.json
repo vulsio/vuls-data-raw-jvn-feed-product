@@ -1,8 +1,8 @@
 {
-  "vid": "2318",
-  "vname": "arwscripts",
-  "vcpe": "cpe:/:arwscripts",
-  "pid": "5945",
-  "pname": "fonts script",
-  "pcpe": "cpe:/a:arwscripts:fonts_script"
+	"vid": "2318",
+	"vname": "arwscripts",
+	"vcpe": "cpe:/:arwscripts",
+	"pid": "5945",
+	"pname": "fonts script",
+	"pcpe": "cpe:/a:arwscripts:fonts_script"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9230",
-  "vname": "Elecsys Corporation",
-  "vcpe": "cpe:/:elecsyscorp",
-  "pid": "18786",
-  "pname": "Director Industrial Communication Gateway",
-  "pcpe": "cpe:/h:elecsyscorp:director_industrial_communication_gateway"
+	"vid": "9230",
+	"vname": "Elecsys Corporation",
+	"vcpe": "cpe:/:elecsyscorp",
+	"pid": "18786",
+	"pname": "Director Industrial Communication Gateway",
+	"pcpe": "cpe:/h:elecsyscorp:director_industrial_communication_gateway"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16320",
-  "vname": "OPPO",
-  "vcpe": "cpe:/:oppo",
-  "pid": "44595",
-  "pname": "ColorOS",
-  "pcpe": "cpe:/o:oppo:coloros"
+	"vid": "16320",
+	"vname": "OPPO",
+	"vcpe": "cpe:/:oppo",
+	"pid": "44595",
+	"pname": "ColorOS",
+	"pcpe": "cpe:/o:oppo:coloros"
 }

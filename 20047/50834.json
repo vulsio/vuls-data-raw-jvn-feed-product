@@ -1,8 +1,8 @@
 {
-  "vid": "20047",
-  "vname": "umask project",
-  "vcpe": "cpe:/:umask_project",
-  "pid": "50834",
-  "pname": "umask",
-  "pcpe": "cpe:/a:umask_project:umask"
+	"vid": "20047",
+	"vname": "umask project",
+	"vcpe": "cpe:/:umask_project",
+	"pid": "50834",
+	"pname": "umask",
+	"pcpe": "cpe:/a:umask_project:umask"
 }

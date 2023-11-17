@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "15552",
-  "pname": "Internet Security",
-  "pcpe": "cpe:/a:trendmicro:internet_security"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "15552",
+	"pname": "Internet Security",
+	"pcpe": "cpe:/a:trendmicro:internet_security"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "57776",
-  "pname": "Aterm WF300HP",
-  "pcpe": "cpe:/o:nec:aterm_wf300hp"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "57776",
+	"pname": "Aterm WF300HP",
+	"pcpe": "cpe:/o:nec:aterm_wf300hp"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12289",
-  "vname": "Michel Rodriguez",
-  "vcpe": "cpe:/:xmltwig",
-  "pid": "27573",
-  "pname": "XML::Twig",
-  "pcpe": "cpe:/a:xmltwig:xml-twig_for_perl"
+	"vid": "12289",
+	"vname": "Michel Rodriguez",
+	"vcpe": "cpe:/:xmltwig",
+	"pid": "27573",
+	"pname": "XML::Twig",
+	"pcpe": "cpe:/a:xmltwig:xml-twig_for_perl"
 }

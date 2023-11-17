@@ -1,8 +1,8 @@
 {
-  "vid": "12932",
-  "vname": "OvisLink Corp.",
-  "vcpe": "cpe:/:airlive",
-  "pid": "31929",
-  "pname": "AirLive WL-2000CAM ファームウェア",
-  "pcpe": "cpe:/o:airlive:wl-2000cam_firmware"
+	"vid": "12932",
+	"vname": "OvisLink Corp.",
+	"vcpe": "cpe:/:airlive",
+	"pid": "31929",
+	"pname": "AirLive WL-2000CAM ファームウェア",
+	"pcpe": "cpe:/o:airlive:wl-2000cam_firmware"
 }

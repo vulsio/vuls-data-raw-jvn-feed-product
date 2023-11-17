@@ -1,8 +1,8 @@
 {
-  "vid": "17759",
-  "vname": "Teradici",
-  "vcpe": "cpe:/:teradici",
-  "pid": "61935",
-  "pname": "tera2 pcoip zero client ファームウェア",
-  "pcpe": "cpe:/o:teradici:tera2_pcoip_zero_client_firmware"
+	"vid": "17759",
+	"vname": "Teradici",
+	"vcpe": "cpe:/:teradici",
+	"pid": "61935",
+	"pname": "tera2 pcoip zero client ファームウェア",
+	"pcpe": "cpe:/o:teradici:tera2_pcoip_zero_client_firmware"
 }

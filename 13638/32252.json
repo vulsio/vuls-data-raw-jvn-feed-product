@@ -1,8 +1,8 @@
 {
-  "vid": "13638",
-  "vname": "Max Secure Software.",
-  "vcpe": "cpe:/:maxpcsecure",
-  "pid": "32252",
-  "pname": "Anti Virus",
-  "pcpe": "cpe:/a:maxpcsecure:anti_virus"
+	"vid": "13638",
+	"vname": "Max Secure Software.",
+	"vcpe": "cpe:/:maxpcsecure",
+	"pid": "32252",
+	"pname": "Anti Virus",
+	"pcpe": "cpe:/a:maxpcsecure:anti_virus"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "728",
-  "vname": "TYPO3 Association",
-  "vcpe": "cpe:/:typo3",
-  "pid": "15688",
-  "pname": "sbanner",
-  "pcpe": "cpe:/a:typo3:sbanner"
+	"vid": "728",
+	"vname": "TYPO3 Association",
+	"vcpe": "cpe:/:typo3",
+	"pid": "15688",
+	"pname": "sbanner",
+	"pcpe": "cpe:/a:typo3:sbanner"
 }

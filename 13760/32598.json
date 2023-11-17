@@ -1,8 +1,8 @@
 {
-  "vid": "13760",
-  "vname": "Sean Barrett",
-  "vcpe": "cpe:/:stb_vorbis_project",
-  "pid": "32598",
-  "pname": "stb_vorbis",
-  "pcpe": "cpe:/a:stb_vorbis_project:stb_vorbis"
+	"vid": "13760",
+	"vname": "Sean Barrett",
+	"vcpe": "cpe:/:stb_vorbis_project",
+	"pid": "32598",
+	"pname": "stb_vorbis",
+	"pcpe": "cpe:/a:stb_vorbis_project:stb_vorbis"
 }

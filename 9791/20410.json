@@ -1,8 +1,8 @@
 {
-  "vid": "9791",
-  "vname": "Freefloat",
-  "vcpe": "cpe:/:freefloat",
-  "pid": "20410",
-  "pname": "Freefloat FTP Server",
-  "pcpe": "cpe:/a:freefloat:freefloat_ftp_server"
+	"vid": "9791",
+	"vname": "Freefloat",
+	"vcpe": "cpe:/:freefloat",
+	"pid": "20410",
+	"pname": "Freefloat FTP Server",
+	"pcpe": "cpe:/a:freefloat:freefloat_ftp_server"
 }

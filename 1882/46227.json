@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "46227",
-  "pname": "eVDC",
-  "pcpe": "cpe:/a:zte:evdc"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "46227",
+	"pname": "eVDC",
+	"pcpe": "cpe:/a:zte:evdc"
 }

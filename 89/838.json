@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "838",
-  "pname": "WebOTX Application Server",
-  "pcpe": "cpe:/a:nec:webotx_application_server"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "838",
+	"pname": "WebOTX Application Server",
+	"pcpe": "cpe:/a:nec:webotx_application_server"
 }

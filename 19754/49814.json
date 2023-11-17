@@ -1,8 +1,8 @@
 {
-  "vid": "19754",
-  "vname": "msgpack5 project",
-  "vcpe": "cpe:/:msgpack5_project",
-  "pid": "49814",
-  "pname": "msgpack5",
-  "pcpe": "cpe:/a:msgpack5_project:msgpack5"
+	"vid": "19754",
+	"vname": "msgpack5 project",
+	"vcpe": "cpe:/:msgpack5_project",
+	"pid": "49814",
+	"pname": "msgpack5",
+	"pcpe": "cpe:/a:msgpack5_project:msgpack5"
 }

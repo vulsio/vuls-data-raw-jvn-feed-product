@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "20528",
-  "pname": "Unified CDM Platform Software",
-  "pcpe": "cpe:/a:cisco:unified_cdm_platform_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "20528",
+	"pname": "Unified CDM Platform Software",
+	"pcpe": "cpe:/a:cisco:unified_cdm_platform_software"
 }

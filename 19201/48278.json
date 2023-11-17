@@ -1,8 +1,8 @@
 {
-  "vid": "19201",
-  "vname": "株式会社ジェイテクト",
-  "vcpe": "cpe:/:jtekt",
-  "pid": "48278",
-  "pname": "Plus EX2 ファームウェア",
-  "pcpe": "cpe:/o:jtekt:plus_ex2_firmware"
+	"vid": "19201",
+	"vname": "株式会社ジェイテクト",
+	"vcpe": "cpe:/:jtekt",
+	"pid": "48278",
+	"pname": "Plus EX2 ファームウェア",
+	"pcpe": "cpe:/o:jtekt:plus_ex2_firmware"
 }

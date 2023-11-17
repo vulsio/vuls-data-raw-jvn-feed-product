@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "36916",
-  "pname": "Job Configuration History",
-  "pcpe": "cpe:/a:jenkins:job_configuration_history"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "36916",
+	"pname": "Job Configuration History",
+	"pcpe": "cpe:/a:jenkins:job_configuration_history"
 }

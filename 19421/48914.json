@@ -1,8 +1,8 @@
 {
-  "vid": "19421",
-  "vname": "MORPH Token",
-  "vcpe": "cpe:/:morph_project",
-  "pid": "48914",
-  "pname": "MORPH",
-  "pcpe": "cpe:/a:morph_project:morph"
+	"vid": "19421",
+	"vname": "MORPH Token",
+	"vcpe": "cpe:/:morph_project",
+	"pid": "48914",
+	"pname": "MORPH",
+	"pcpe": "cpe:/a:morph_project:morph"
 }

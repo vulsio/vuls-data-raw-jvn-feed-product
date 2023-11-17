@@ -1,8 +1,8 @@
 {
-  "vid": "9029",
-  "vname": "Ubiquiti Networks",
-  "vcpe": "cpe:/:ubiquiti_networks",
-  "pid": "17797",
-  "pname": "airCam Dome",
-  "pcpe": "cpe:/h:ubiquiti_networks:aircam_dome"
+	"vid": "9029",
+	"vname": "Ubiquiti Networks",
+	"vcpe": "cpe:/:ubiquiti_networks",
+	"pid": "17797",
+	"pname": "airCam Dome",
+	"pcpe": "cpe:/h:ubiquiti_networks:aircam_dome"
 }

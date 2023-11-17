@@ -1,8 +1,8 @@
 {
-  "vid": "13791",
-  "vname": "PureVPN",
-  "vcpe": "cpe:/:purevpn",
-  "pid": "32679",
-  "pname": "PureVPN",
-  "pcpe": "cpe:/a:purevpn:purevpn"
+	"vid": "13791",
+	"vname": "PureVPN",
+	"vcpe": "cpe:/:purevpn",
+	"pid": "32679",
+	"pname": "PureVPN",
+	"pcpe": "cpe:/a:purevpn:purevpn"
 }

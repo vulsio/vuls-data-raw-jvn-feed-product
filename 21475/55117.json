@@ -1,8 +1,8 @@
 {
-  "vid": "21475",
-  "vname": "IDEC株式会社",
-  "vcpe": "cpe:/:idec",
-  "pid": "55117",
-  "pname": "FC6B 形 MICROSmart Plus CPU モジュール",
-  "pcpe": "cpe:/o:idec:microsmart_plus_fc6b_firmware"
+	"vid": "21475",
+	"vname": "IDEC株式会社",
+	"vcpe": "cpe:/:idec",
+	"pid": "55117",
+	"pname": "FC6B 形 MICROSmart Plus CPU モジュール",
+	"pcpe": "cpe:/o:idec:microsmart_plus_fc6b_firmware"
 }

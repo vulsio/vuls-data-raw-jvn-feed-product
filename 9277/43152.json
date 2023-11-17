@@ -1,8 +1,8 @@
 {
-  "vid": "9277",
-  "vname": "Percona",
-  "vcpe": "cpe:/:percona",
-  "pid": "43152",
-  "pname": "Percona Monitoring and Management",
-  "pcpe": "cpe:/a:percona:monitoring_and_management"
+	"vid": "9277",
+	"vname": "Percona",
+	"vcpe": "cpe:/:percona",
+	"pid": "43152",
+	"pname": "Percona Monitoring and Management",
+	"pcpe": "cpe:/a:percona:monitoring_and_management"
 }

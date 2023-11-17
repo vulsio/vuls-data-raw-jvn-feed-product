@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "23532",
-  "pname": "ActiveMatrix Management Agent",
-  "pcpe": "cpe:/a:tibco:activematrix_management_agent"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "23532",
+	"pname": "ActiveMatrix Management Agent",
+	"pcpe": "cpe:/a:tibco:activematrix_management_agent"
 }

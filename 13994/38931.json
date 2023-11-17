@@ -1,8 +1,8 @@
 {
-  "vid": "13994",
-  "vname": "Yubico",
-  "vcpe": "cpe:/:yubico",
-  "pid": "38931",
-  "pname": "pam-u2f",
-  "pcpe": "cpe:/a:yubico:pam-u2f"
+	"vid": "13994",
+	"vname": "Yubico",
+	"vcpe": "cpe:/:yubico",
+	"pid": "38931",
+	"pname": "pam-u2f",
+	"pcpe": "cpe:/a:yubico:pam-u2f"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19467",
-  "vname": "chacha20 project",
-  "vcpe": "cpe:/:chacha20_project",
-  "pid": "49017",
-  "pname": "chacha20",
-  "pcpe": "cpe:/a:chacha20_project:chacha20"
+	"vid": "19467",
+	"vname": "chacha20 project",
+	"vcpe": "cpe:/:chacha20_project",
+	"pid": "49017",
+	"pname": "chacha20",
+	"pcpe": "cpe:/a:chacha20_project:chacha20"
 }

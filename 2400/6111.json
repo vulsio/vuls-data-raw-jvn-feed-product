@@ -1,8 +1,8 @@
 {
-  "vid": "2400",
-  "vname": "avnex",
-  "vcpe": "cpe:/:avnex",
-  "pid": "6111",
-  "pname": "av mp3 player",
-  "pcpe": "cpe:/a:avnex:av_mp3_player"
+	"vid": "2400",
+	"vname": "avnex",
+	"vcpe": "cpe:/:avnex",
+	"pid": "6111",
+	"pname": "av mp3 player",
+	"pcpe": "cpe:/a:avnex:av_mp3_player"
 }

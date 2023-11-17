@@ -1,8 +1,8 @@
 {
-  "vid": "21058",
-  "vname": "BracketSpace",
-  "vcpe": "cpe:/:bracketspace",
-  "pid": "56642",
-  "pname": "Advanced Cron Manager",
-  "pcpe": "cpe:/a:bracketspace:advanced_cron_manager"
+	"vid": "21058",
+	"vname": "BracketSpace",
+	"vcpe": "cpe:/:bracketspace",
+	"pid": "56642",
+	"pname": "Advanced Cron Manager",
+	"pcpe": "cpe:/a:bracketspace:advanced_cron_manager"
 }

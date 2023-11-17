@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "45945",
-  "pname": "SUSE Linux Enterprise High Performance Computing",
-  "pcpe": "cpe:/o:suse:linux_enterprise_high_performance_computing"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "45945",
+	"pname": "SUSE Linux Enterprise High Performance Computing",
+	"pcpe": "cpe:/o:suse:linux_enterprise_high_performance_computing"
 }

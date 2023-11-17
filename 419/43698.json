@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "43698",
-  "pname": "All Flash Fabric Attached Storage A400 ファームウェア",
-  "pcpe": "cpe:/o:netapp:all_flash_fabric-attached_storage_a400_firmware"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "43698",
+	"pname": "All Flash Fabric Attached Storage A400 ファームウェア",
+	"pcpe": "cpe:/o:netapp:all_flash_fabric-attached_storage_a400_firmware"
 }

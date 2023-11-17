@@ -1,8 +1,8 @@
 {
-  "vid": "24206",
-  "vname": "jinglemining",
-  "vcpe": "cpe:/:jinglemining",
-  "pid": "62609",
-  "pname": "jasminer x4 server ファームウェア",
-  "pcpe": "cpe:/o:jinglemining:jasminer_x4_server_firmware"
+	"vid": "24206",
+	"vname": "jinglemining",
+	"vcpe": "cpe:/:jinglemining",
+	"pid": "62609",
+	"pname": "jasminer x4 server ファームウェア",
+	"pcpe": "cpe:/o:jinglemining:jasminer_x4_server_firmware"
 }

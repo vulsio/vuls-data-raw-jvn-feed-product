@@ -1,8 +1,8 @@
 {
-  "vid": "19352",
-  "vname": "Fullarmor, Inc.",
-  "vcpe": "cpe:/:fullarmor",
-  "pid": "48742",
-  "pname": "HAPI File Share Mount",
-  "pcpe": "cpe:/a:fullarmor:hapi_file_share_mount"
+	"vid": "19352",
+	"vname": "Fullarmor, Inc.",
+	"vcpe": "cpe:/:fullarmor",
+	"pid": "48742",
+	"pname": "HAPI File Share Mount",
+	"pcpe": "cpe:/a:fullarmor:hapi_file_share_mount"
 }

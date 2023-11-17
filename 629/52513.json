@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "52513",
-  "pname": "WDR-3124A-EU-T ファームウェア",
-  "pcpe": "cpe:/o:moxa:wdr-3124a-eu-t_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "52513",
+	"pname": "WDR-3124A-EU-T ファームウェア",
+	"pcpe": "cpe:/o:moxa:wdr-3124a-eu-t_firmware"
 }

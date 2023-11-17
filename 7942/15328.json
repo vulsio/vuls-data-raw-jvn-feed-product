@@ -1,8 +1,8 @@
 {
-  "vid": "7942",
-  "vname": "telestream",
-  "vcpe": "cpe:/:telestream",
-  "pid": "15328",
-  "pname": "flip4mac windows media components for quicktime",
-  "pcpe": "cpe:/a:telestream:flip4mac_windows_media_components_for_quicktime"
+	"vid": "7942",
+	"vname": "telestream",
+	"vcpe": "cpe:/:telestream",
+	"pid": "15328",
+	"pname": "flip4mac windows media components for quicktime",
+	"pcpe": "cpe:/a:telestream:flip4mac_windows_media_components_for_quicktime"
 }

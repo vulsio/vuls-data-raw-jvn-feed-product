@@ -1,8 +1,8 @@
 {
-  "vid": "12009",
-  "vname": "Simple Desktop Display Manager",
-  "vcpe": "cpe:/:sddm_project",
-  "pid": "25084",
-  "pname": "SDDM",
-  "pcpe": "cpe:/a:sddm_project:_sddm"
+	"vid": "12009",
+	"vname": "Simple Desktop Display Manager",
+	"vcpe": "cpe:/:sddm_project",
+	"pid": "25084",
+	"pname": "SDDM",
+	"pcpe": "cpe:/a:sddm_project:_sddm"
 }

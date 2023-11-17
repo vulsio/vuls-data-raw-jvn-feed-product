@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "48318",
-  "pname": "FAS BIOS",
-  "pcpe": "cpe:/o:netapp:fas_bios"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "48318",
+	"pname": "FAS BIOS",
+	"pcpe": "cpe:/o:netapp:fas_bios"
 }

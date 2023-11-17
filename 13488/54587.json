@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "54587",
-  "pname": "Zoom Meeting SDK for macOS",
-  "pcpe": "cpe:/a:zoom:macos_meeting_sdk"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "54587",
+	"pname": "Zoom Meeting SDK for macOS",
+	"pcpe": "cpe:/a:zoom:macos_meeting_sdk"
 }

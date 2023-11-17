@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "5539",
-  "pname": "connect enterprise server",
-  "pcpe": "cpe:/a:adobe:connect_enterprise_server"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "5539",
+	"pname": "connect enterprise server",
+	"pcpe": "cpe:/a:adobe:connect_enterprise_server"
 }

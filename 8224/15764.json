@@ -1,8 +1,8 @@
 {
-  "vid": "8224",
-  "vname": "universe",
-  "vcpe": "cpe:/:universe",
-  "pid": "15764",
-  "pname": "universe cms",
-  "pcpe": "cpe:/a:universe:universe_cms"
+	"vid": "8224",
+	"vname": "universe",
+	"vcpe": "cpe:/:universe",
+	"pid": "15764",
+	"pname": "universe cms",
+	"pcpe": "cpe:/a:universe:universe_cms"
 }

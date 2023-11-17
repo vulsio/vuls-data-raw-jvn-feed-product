@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "19171",
-  "pname": "SCADA Expert ClearSCADA",
-  "pcpe": "cpe:/a:schneider_electric:scada_expert_clearscada"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "19171",
+	"pname": "SCADA Expert ClearSCADA",
+	"pcpe": "cpe:/a:schneider_electric:scada_expert_clearscada"
 }

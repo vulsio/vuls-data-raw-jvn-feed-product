@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "3922",
-  "pname": "Modbus TCP OPC Server",
-  "pcpe": "cpe:/a:advantech:modbus_tcp_opc_server"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "3922",
+	"pname": "Modbus TCP OPC Server",
+	"pcpe": "cpe:/a:advantech:modbus_tcp_opc_server"
 }

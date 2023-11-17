@@ -1,8 +1,8 @@
 {
-  "vid": "9229",
-  "vname": "DjVuLibre Project",
-  "vcpe": "cpe:/:djvulibre_project",
-  "pid": "18780",
-  "pname": "DjVuLibre",
-  "pcpe": "cpe:/a:djvulibre_project:djvulibre"
+	"vid": "9229",
+	"vname": "DjVuLibre Project",
+	"vcpe": "cpe:/:djvulibre_project",
+	"pid": "18780",
+	"pname": "DjVuLibre",
+	"pcpe": "cpe:/a:djvulibre_project:djvulibre"
 }

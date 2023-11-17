@@ -1,8 +1,8 @@
 {
-  "vid": "24577",
-  "vname": "opensecurity",
-  "vcpe": "cpe:/:opensecurity",
-  "pid": "63715",
-  "pname": "mobile security framework",
-  "pcpe": "cpe:/a:opensecurity:mobile_security_framework"
+	"vid": "24577",
+	"vname": "opensecurity",
+	"vcpe": "cpe:/:opensecurity",
+	"pid": "63715",
+	"pname": "mobile security framework",
+	"pcpe": "cpe:/a:opensecurity:mobile_security_framework"
 }

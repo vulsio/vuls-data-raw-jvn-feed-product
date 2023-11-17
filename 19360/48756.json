@@ -1,8 +1,8 @@
 {
-  "vid": "19360",
-  "vname": "gjson project",
-  "vcpe": "cpe:/:gjson_project",
-  "pid": "48756",
-  "pname": "GJSON",
-  "pcpe": "cpe:/a:gjson_project:gjson"
+	"vid": "19360",
+	"vname": "gjson project",
+	"vcpe": "cpe:/:gjson_project",
+	"pid": "48756",
+	"pname": "GJSON",
+	"pcpe": "cpe:/a:gjson_project:gjson"
 }

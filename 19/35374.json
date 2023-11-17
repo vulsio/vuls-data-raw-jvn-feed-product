@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "35374",
-  "pname": "vEdge 100 ファームウェア",
-  "pcpe": "cpe:/o:cisco:vedge-100_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "35374",
+	"pname": "vEdge 100 ファームウェア",
+	"pcpe": "cpe:/o:cisco:vedge-100_firmware"
 }

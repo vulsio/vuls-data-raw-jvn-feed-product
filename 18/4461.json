@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4461",
-  "pname": "FileNet Content Manager",
-  "pcpe": "cpe:/a:ibm:filenet_content_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4461",
+	"pname": "FileNet Content Manager",
+	"pcpe": "cpe:/a:ibm:filenet_content_manager"
 }

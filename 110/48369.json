@@ -1,8 +1,8 @@
 {
-  "vid": "110",
-  "vname": "Broadcom",
-  "vcpe": "cpe:/:broadcom",
-  "pid": "48369",
-  "pname": "CA Unified Infrastructure Management",
-  "pcpe": "cpe:/a:broadcom:unified_infrastructure_management"
+	"vid": "110",
+	"vname": "Broadcom",
+	"vcpe": "cpe:/:broadcom",
+	"pid": "48369",
+	"pname": "CA Unified Infrastructure Management",
+	"pcpe": "cpe:/a:broadcom:unified_infrastructure_management"
 }

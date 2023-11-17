@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "32288",
-  "pname": "global-build-stats",
-  "pcpe": "cpe:/a:jenkins:global-build-stats"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "32288",
+	"pname": "global-build-stats",
+	"pcpe": "cpe:/a:jenkins:global-build-stats"
 }

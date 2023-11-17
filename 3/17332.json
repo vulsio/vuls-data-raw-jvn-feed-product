@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "17332",
-  "pname": "Red Hat Enterprise Linux Workstation",
-  "pcpe": "cpe:/o:redhat:enterprise_linux_workstation"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "17332",
+	"pname": "Red Hat Enterprise Linux Workstation",
+	"pcpe": "cpe:/o:redhat:enterprise_linux_workstation"
 }

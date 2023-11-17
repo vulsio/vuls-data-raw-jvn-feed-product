@@ -1,8 +1,8 @@
 {
-  "vid": "19585",
-  "vname": "freediskspace project",
-  "vcpe": "cpe:/:freediskspace_project",
-  "pid": "49379",
-  "pname": "freediskspace",
-  "pcpe": "cpe:/a:freediskspace_project:freediskproject"
+	"vid": "19585",
+	"vname": "freediskspace project",
+	"vcpe": "cpe:/:freediskspace_project",
+	"pid": "49379",
+	"pname": "freediskspace",
+	"pcpe": "cpe:/a:freediskspace_project:freediskproject"
 }

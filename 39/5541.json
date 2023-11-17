@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "5541",
-  "pname": "device central cs5",
-  "pcpe": "cpe:/a:adobe:device_central_cs5"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "5541",
+	"pname": "device central cs5",
+	"pcpe": "cpe:/a:adobe:device_central_cs5"
 }

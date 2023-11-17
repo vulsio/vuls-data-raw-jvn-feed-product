@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17202",
-  "pname": "Cisco Device Manager",
-  "pcpe": "cpe:/a:cisco:adaptive_security_appliance_device_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17202",
+	"pname": "Cisco Device Manager",
+	"pcpe": "cpe:/a:cisco:adaptive_security_appliance_device_manager"
 }

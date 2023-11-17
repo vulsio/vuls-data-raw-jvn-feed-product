@@ -1,8 +1,8 @@
 {
-  "vid": "1723",
-  "vname": "SonicWALL",
-  "vcpe": "cpe:/:sonicwall",
-  "pid": "49532",
-  "pname": "SMA410 ファームウェア",
-  "pcpe": "cpe:/o:sonicwall:sma_410_firmware"
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "49532",
+	"pname": "SMA410 ファームウェア",
+	"pcpe": "cpe:/o:sonicwall:sma_410_firmware"
 }

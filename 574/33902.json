@@ -1,8 +1,8 @@
 {
-  "vid": "574",
-  "vname": "ESET",
-  "vcpe": "cpe:/:eset",
-  "pid": "33902",
-  "pname": "CompuSec",
-  "pcpe": "cpe:/a:eset:compusec"
+	"vid": "574",
+	"vname": "ESET",
+	"vcpe": "cpe:/:eset",
+	"pid": "33902",
+	"pname": "CompuSec",
+	"pcpe": "cpe:/a:eset:compusec"
 }

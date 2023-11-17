@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "55663",
-  "pname": "Ezmeral Container Platform",
-  "pcpe": "cpe:/a:hp:ezmeral_container_platform"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "55663",
+	"pname": "Ezmeral Container Platform",
+	"pcpe": "cpe:/a:hp:ezmeral_container_platform"
 }

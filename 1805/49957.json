@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "49957",
-  "pname": "TL-XDR1850 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-xdr1850_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "49957",
+	"pname": "TL-XDR1850 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-xdr1850_firmware"
 }

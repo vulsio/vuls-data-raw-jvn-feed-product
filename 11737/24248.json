@@ -1,8 +1,8 @@
 {
-  "vid": "11737",
-  "vname": "EntityBulkDelete project",
-  "vcpe": "cpe:/:entitybulkdelete_project",
-  "pid": "24248",
-  "pname": "EntityBulkDelete ",
-  "pcpe": "cpe:/a:entitybulkdelete_project:entitybulkdelete"
+	"vid": "11737",
+	"vname": "EntityBulkDelete project",
+	"vcpe": "cpe:/:entitybulkdelete_project",
+	"pid": "24248",
+	"pname": "EntityBulkDelete ",
+	"pcpe": "cpe:/a:entitybulkdelete_project:entitybulkdelete"
 }

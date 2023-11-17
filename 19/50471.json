@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "50471",
-  "pname": "Cisco WAP581 ファームウェア",
-  "pcpe": "cpe:/o:cisco:wap581_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "50471",
+	"pname": "Cisco WAP581 ファームウェア",
+	"pcpe": "cpe:/o:cisco:wap581_firmware"
 }

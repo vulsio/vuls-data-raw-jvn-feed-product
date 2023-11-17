@@ -1,8 +1,8 @@
 {
-  "vid": "21823",
-  "vname": "jgit-cookbook project",
-  "vcpe": "cpe:/:jgit-cookbook_project",
-  "pid": "56024",
-  "pname": "jgit-cookbook",
-  "pcpe": "cpe:/a:jgit-cookbook_project:jgit-cookbook"
+	"vid": "21823",
+	"vname": "jgit-cookbook project",
+	"vcpe": "cpe:/:jgit-cookbook_project",
+	"pid": "56024",
+	"pname": "jgit-cookbook",
+	"pcpe": "cpe:/a:jgit-cookbook_project:jgit-cookbook"
 }

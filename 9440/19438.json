@@ -1,8 +1,8 @@
 {
-  "vid": "9440",
-  "vname": "baseurl.org",
-  "vcpe": "cpe:/:baseurl",
-  "pid": "19438",
-  "pname": "yum",
-  "pcpe": "cpe:/a:baseurl:yum"
+	"vid": "9440",
+	"vname": "baseurl.org",
+	"vcpe": "cpe:/:baseurl",
+	"pid": "19438",
+	"pname": "yum",
+	"pcpe": "cpe:/a:baseurl:yum"
 }

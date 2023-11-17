@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "35884",
-  "pname": "PageWriter TC30 ファームウェア",
-  "pcpe": "cpe:/o:philips:pagewriter_tc30_firmware"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "35884",
+	"pname": "PageWriter TC30 ファームウェア",
+	"pcpe": "cpe:/o:philips:pagewriter_tc30_firmware"
 }

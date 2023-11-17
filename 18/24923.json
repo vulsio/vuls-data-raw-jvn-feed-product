@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "24923",
-  "pname": "IBM B2B Advanced Communications",
-  "pcpe": "cpe:/a:ibm:b2b_advanced_communications"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "24923",
+	"pname": "IBM B2B Advanced Communications",
+	"pcpe": "cpe:/a:ibm:b2b_advanced_communications"
 }

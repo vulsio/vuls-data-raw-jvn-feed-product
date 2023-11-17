@@ -1,8 +1,8 @@
 {
-  "vid": "9983",
-  "vname": "XRMS CRM Project",
-  "vcpe": "cpe:/:xrms_crm_project",
-  "pid": "20956",
-  "pname": "XRMS CRM",
-  "pcpe": "cpe:/a:xrms_crm_project:xrms_crm"
+	"vid": "9983",
+	"vname": "XRMS CRM Project",
+	"vcpe": "cpe:/:xrms_crm_project",
+	"pid": "20956",
+	"pname": "XRMS CRM",
+	"pcpe": "cpe:/a:xrms_crm_project:xrms_crm"
 }

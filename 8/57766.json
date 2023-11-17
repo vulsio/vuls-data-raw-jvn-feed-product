@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "57766",
-  "pname": "Apache Airflow MySQL Provider",
-  "pcpe": "cpe:/a:apache:apache-airflow-providers-mysql"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "57766",
+	"pname": "Apache Airflow MySQL Provider",
+	"pcpe": "cpe:/a:apache:apache-airflow-providers-mysql"
 }

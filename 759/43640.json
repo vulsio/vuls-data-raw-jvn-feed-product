@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "43640",
-  "pname": "Versana Essential ファームウェア",
-  "pcpe": "cpe:/o:ge:versana_essential_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "43640",
+	"pname": "Versana Essential ファームウェア",
+	"pcpe": "cpe:/o:ge:versana_essential_firmware"
 }

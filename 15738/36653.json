@@ -1,8 +1,8 @@
 {
-  "vid": "15738",
-  "vname": "kangujang",
-  "vcpe": "cpe:/:kangujang",
-  "pid": "36653",
-  "pname": "Local Server",
-  "pcpe": "cpe:/a:kangujang:local_server"
+	"vid": "15738",
+	"vname": "kangujang",
+	"vcpe": "cpe:/:kangujang",
+	"pid": "36653",
+	"pname": "Local Server",
+	"pcpe": "cpe:/a:kangujang:local_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12806",
-  "vname": "MEA Financial Enterprises, L.L.C.",
-  "vcpe": "cpe:/:meafinancial",
-  "pid": "29514",
-  "pname": "FNB Kemp Mobile Banking",
-  "pcpe": "cpe:/a:meafinancial:fnb_kemp_mobile_banking"
+	"vid": "12806",
+	"vname": "MEA Financial Enterprises, L.L.C.",
+	"vcpe": "cpe:/:meafinancial",
+	"pid": "29514",
+	"pname": "FNB Kemp Mobile Banking",
+	"pcpe": "cpe:/a:meafinancial:fnb_kemp_mobile_banking"
 }

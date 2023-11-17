@@ -1,8 +1,8 @@
 {
-  "vid": "19565",
-  "vname": "Files.com",
-  "vcpe": "cpe:/:files",
-  "pid": "49323",
-  "pname": "Fat Client",
-  "pcpe": "cpe:/a:files:fat_client"
+	"vid": "19565",
+	"vname": "Files.com",
+	"vcpe": "cpe:/:files",
+	"pid": "49323",
+	"pname": "Fat Client",
+	"pcpe": "cpe:/a:files:fat_client"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15822",
-  "vname": "Caca Labs",
-  "vcpe": "cpe:/:libcaca_project",
-  "pid": "36863",
-  "pname": "libcaca",
-  "pcpe": "cpe:/a:libcaca_project:libcaca"
+	"vid": "15822",
+	"vname": "Caca Labs",
+	"vcpe": "cpe:/:libcaca_project",
+	"pid": "36863",
+	"pname": "libcaca",
+	"pcpe": "cpe:/a:libcaca_project:libcaca"
 }

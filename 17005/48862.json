@@ -1,8 +1,8 @@
 {
-  "vid": "17005",
-  "vname": "Pengutronix e.K.",
-  "vcpe": "cpe:/:pengutronix",
-  "pid": "48862",
-  "pname": "RAUC",
-  "pcpe": "cpe:/a:pengutronix:rauc"
+	"vid": "17005",
+	"vname": "Pengutronix e.K.",
+	"vcpe": "cpe:/:pengutronix",
+	"pid": "48862",
+	"pname": "RAUC",
+	"pcpe": "cpe:/a:pengutronix:rauc"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "37395",
-  "pname": "Cisco Aironet アクティブ センサー",
-  "pcpe": "cpe:/h:cisco:aironet_active_sensor"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "37395",
+	"pname": "Cisco Aironet アクティブ センサー",
+	"pcpe": "cpe:/h:cisco:aironet_active_sensor"
 }

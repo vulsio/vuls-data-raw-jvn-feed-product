@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "38690",
-  "pname": "Galaxy S9+ ファームウェア",
-  "pcpe": "cpe:/o:samsung:s9%2b_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "38690",
+	"pname": "Galaxy S9+ ファームウェア",
+	"pcpe": "cpe:/o:samsung:s9%2b_firmware"
 }

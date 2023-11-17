@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "18203",
-  "pname": "X8DTU-6TF+-LR",
-  "pcpe": "cpe:/h:supermicro:x8dtu-6tf%2b-lr"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "18203",
+	"pname": "X8DTU-6TF+-LR",
+	"pcpe": "cpe:/h:supermicro:x8dtu-6tf%2b-lr"
 }

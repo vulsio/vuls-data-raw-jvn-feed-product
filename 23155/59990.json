@@ -1,8 +1,8 @@
 {
-  "vid": "23155",
-  "vname": "telecomsoftware",
-  "vcpe": "cpe:/:telecomsoftware",
-  "pid": "59990",
-  "pname": "samwin contact center",
-  "pcpe": "cpe:/a:telecomsoftware:samwin_contact_center"
+	"vid": "23155",
+	"vname": "telecomsoftware",
+	"vcpe": "cpe:/:telecomsoftware",
+	"pid": "59990",
+	"pname": "samwin contact center",
+	"pcpe": "cpe:/a:telecomsoftware:samwin_contact_center"
 }

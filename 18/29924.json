@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "29924",
-  "pname": "IBM MobileFirst Platform Foundation",
-  "pcpe": "cpe:/a:ibm:mobilefirst_platform_foundation"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "29924",
+	"pname": "IBM MobileFirst Platform Foundation",
+	"pcpe": "cpe:/a:ibm:mobilefirst_platform_foundation"
 }

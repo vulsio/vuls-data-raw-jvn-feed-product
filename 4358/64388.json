@@ -1,8 +1,8 @@
 {
-  "vid": "4358",
-  "vname": "Korenix Technology",
-  "vcpe": "cpe:/:korenix",
-  "pid": "64388",
-  "pname": "jetwave 2111 ファームウェア",
-  "pcpe": "cpe:/o:korenix:jetwave_2111_firmware"
+	"vid": "4358",
+	"vname": "Korenix Technology",
+	"vcpe": "cpe:/:korenix",
+	"pid": "64388",
+	"pname": "jetwave 2111 ファームウェア",
+	"pcpe": "cpe:/o:korenix:jetwave_2111_firmware"
 }

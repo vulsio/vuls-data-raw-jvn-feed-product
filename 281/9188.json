@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "9188",
-  "pname": "php5 パッケージ",
-  "pcpe": "cpe:/a:canonical:php5"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "9188",
+	"pname": "php5 パッケージ",
+	"pcpe": "cpe:/a:canonical:php5"
 }

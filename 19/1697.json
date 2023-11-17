@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "1697",
-  "pname": "Cisco Content Switching Module with SSL (CSM-S)",
-  "pcpe": "cpe:/h:cisco:building_broadband_service_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "1697",
+	"pname": "Cisco Content Switching Module with SSL (CSM-S)",
+	"pcpe": "cpe:/h:cisco:building_broadband_service_manager"
 }

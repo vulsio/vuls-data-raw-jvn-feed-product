@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "1963",
-  "pname": "IBM Rational ClearCase",
-  "pcpe": "cpe:/a:ibm:rational_clearcase"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "1963",
+	"pname": "IBM Rational ClearCase",
+	"pcpe": "cpe:/a:ibm:rational_clearcase"
 }

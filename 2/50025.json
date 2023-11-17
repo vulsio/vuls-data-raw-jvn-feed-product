@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "50025",
-  "pname": "Azure Migrate",
-  "pcpe": "cpe:/a:microsoft:azure_migrate"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "50025",
+	"pname": "Azure Migrate",
+	"pcpe": "cpe:/a:microsoft:azure_migrate"
 }

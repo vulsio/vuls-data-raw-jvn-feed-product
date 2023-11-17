@@ -1,8 +1,8 @@
 {
-  "vid": "22935",
-  "vname": "rti",
-  "vcpe": "cpe:/:rti",
-  "pid": "59129",
-  "pname": "connext dds micro",
-  "pcpe": "cpe:/a:rti:connext_dds_micro"
+	"vid": "22935",
+	"vname": "rti",
+	"vcpe": "cpe:/:rti",
+	"pid": "59129",
+	"pname": "connext dds micro",
+	"pcpe": "cpe:/a:rti:connext_dds_micro"
 }

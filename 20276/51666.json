@@ -1,8 +1,8 @@
 {
-  "vid": "20276",
-  "vname": "AtomicParsley project",
-  "vcpe": "cpe:/:atomicparsley_project",
-  "pid": "51666",
-  "pname": "AtomicParsley",
-  "pcpe": "cpe:/a:atomicparsley_project:atomicparsley"
+	"vid": "20276",
+	"vname": "AtomicParsley project",
+	"vcpe": "cpe:/:atomicparsley_project",
+	"pid": "51666",
+	"pname": "AtomicParsley",
+	"pcpe": "cpe:/a:atomicparsley_project:atomicparsley"
 }

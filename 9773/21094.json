@@ -1,8 +1,8 @@
 {
-  "vid": "9773",
-  "vname": "Yealink",
-  "vcpe": "cpe:/:yealink",
-  "pid": "21094",
-  "pname": "Enterprise HD IP Phone SIP-T22P",
-  "pcpe": "cpe:/h:yealink:ip_phone_sip-t22p"
+	"vid": "9773",
+	"vname": "Yealink",
+	"vcpe": "cpe:/:yealink",
+	"pid": "21094",
+	"pname": "Enterprise HD IP Phone SIP-T22P",
+	"pcpe": "cpe:/h:yealink:ip_phone_sip-t22p"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "55712",
-  "pname": "BS-GS2024 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:bs-gs2008_firmwarebs-gs2024_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "55712",
+	"pname": "BS-GS2024 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:bs-gs2008_firmwarebs-gs2024_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "41720",
-  "pname": "HPE ProLiant BL460c ファームウェア",
-  "pcpe": "cpe:/o:hp:proliant_bl460c_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "41720",
+	"pname": "HPE ProLiant BL460c ファームウェア",
+	"pcpe": "cpe:/o:hp:proliant_bl460c_firmware"
 }

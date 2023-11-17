@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18908",
-  "pname": "Cisco Scientific Atlanta DPW939 USB Wireless Networking Adapter",
-  "pcpe": "cpe:/h:cisco:scientific_atlanta_dpw939"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18908",
+	"pname": "Cisco Scientific Atlanta DPW939 USB Wireless Networking Adapter",
+	"pcpe": "cpe:/h:cisco:scientific_atlanta_dpw939"
 }

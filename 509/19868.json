@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "19868",
-  "pname": "SAP J2EE Engine",
-  "pcpe": "cpe:/a:sap:j2ee_engine"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "19868",
+	"pname": "SAP J2EE Engine",
+	"pcpe": "cpe:/a:sap:j2ee_engine"
 }

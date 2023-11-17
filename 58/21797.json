@@ -1,8 +1,8 @@
 {
-  "vid": "58",
-  "vname": "KDE project",
-  "vcpe": "cpe:/:kde",
-  "pid": "21797",
-  "pname": "Plasma Desktop",
-  "pcpe": "cpe:/a:kde:plasma-desktop"
+	"vid": "58",
+	"vname": "KDE project",
+	"vcpe": "cpe:/:kde",
+	"pid": "21797",
+	"pname": "Plasma Desktop",
+	"pcpe": "cpe:/a:kde:plasma-desktop"
 }

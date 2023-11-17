@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "24536",
-  "pname": "Precision THUNIS-800+",
-  "pcpe": "cpe:/h:gehealthcare:precision_thunis-800%2B"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "24536",
+	"pname": "Precision THUNIS-800+",
+	"pcpe": "cpe:/h:gehealthcare:precision_thunis-800%2B"
 }

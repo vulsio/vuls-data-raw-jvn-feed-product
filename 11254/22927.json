@@ -1,8 +1,8 @@
 {
-  "vid": "11254",
-  "vname": "dog whistle project",
-  "vcpe": "cpe:/:dog_whistle_project",
-  "pid": "22927",
-  "pname": "dog whistle",
-  "pcpe": "cpe:/a:dog_whistle_project:dog_whistle"
+	"vid": "11254",
+	"vname": "dog whistle project",
+	"vcpe": "cpe:/:dog_whistle_project",
+	"pid": "22927",
+	"pname": "dog whistle",
+	"pcpe": "cpe:/a:dog_whistle_project:dog_whistle"
 }

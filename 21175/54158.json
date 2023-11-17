@@ -1,8 +1,8 @@
 {
-  "vid": "21175",
-  "vname": "Binatone Global",
-  "vcpe": "cpe:/:binatoneglobal",
-  "pid": "54158",
-  "pname": "MBP3855 ファームウェア",
-  "pcpe": "cpe:/o:binatoneglobal:mbp3855_firmware"
+	"vid": "21175",
+	"vname": "Binatone Global",
+	"vcpe": "cpe:/:binatoneglobal",
+	"pid": "54158",
+	"pname": "MBP3855 ファームウェア",
+	"pcpe": "cpe:/o:binatoneglobal:mbp3855_firmware"
 }

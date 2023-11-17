@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27417",
-  "pname": "ThinkPad T440s",
-  "pcpe": "cpe:/h:lenovo:thinkpad_t440s"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27417",
+	"pname": "ThinkPad T440s",
+	"pcpe": "cpe:/h:lenovo:thinkpad_t440s"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24068",
-  "pname": "Cisco Sourcefire 3D2000 センサー",
-  "pcpe": "cpe:/h:cisco:sourcefire_3d2000_sensor"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24068",
+	"pname": "Cisco Sourcefire 3D2000 センサー",
+	"pcpe": "cpe:/h:cisco:sourcefire_3d2000_sensor"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21328",
-  "vname": "WooCommerce myghpay Payment Gateway project",
-  "vcpe": "cpe:/:woo-myghpay-payment-gateway_project",
-  "pid": "54742",
-  "pname": "WooCommerce myghpay Payment Gateway",
-  "pcpe": "cpe:/a:woo-myghpay-payment-gateway_project:woo-myghpay-payment-gateway"
+	"vid": "21328",
+	"vname": "WooCommerce myghpay Payment Gateway project",
+	"vcpe": "cpe:/:woo-myghpay-payment-gateway_project",
+	"pid": "54742",
+	"pname": "WooCommerce myghpay Payment Gateway",
+	"pcpe": "cpe:/a:woo-myghpay-payment-gateway_project:woo-myghpay-payment-gateway"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12044",
-  "vname": "Values project",
-  "vcpe": "cpe:/:values_project",
-  "pid": "25353",
-  "pname": "Values",
-  "pcpe": "cpe:/a:values_project:values"
+	"vid": "12044",
+	"vname": "Values project",
+	"vcpe": "cpe:/:values_project",
+	"pid": "25353",
+	"pname": "Values",
+	"pcpe": "cpe:/a:values_project:values"
 }

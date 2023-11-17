@@ -1,8 +1,8 @@
 {
-  "vid": "94",
-  "vname": "Joomla!",
-  "vcpe": "cpe:/:joomla",
-  "pid": "25173",
-  "pname": "Joomla! Framework Session パッケージ",
-  "pcpe": "cpe:/a:joomla:session"
+	"vid": "94",
+	"vname": "Joomla!",
+	"vcpe": "cpe:/:joomla",
+	"pid": "25173",
+	"pname": "Joomla! Framework Session パッケージ",
+	"pcpe": "cpe:/a:joomla:session"
 }

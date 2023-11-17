@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "32973",
-  "pname": "EVA-L29 ファームウェア",
-  "pcpe": "cpe:/o:huawei:eva-l29_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "32973",
+	"pname": "EVA-L29 ファームウェア",
+	"pcpe": "cpe:/o:huawei:eva-l29_firmware"
 }

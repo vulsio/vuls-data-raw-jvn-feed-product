@@ -1,8 +1,8 @@
 {
-  "vid": "17614",
-  "vname": "TI-Tool",
-  "vcpe": "cpe:/:titool",
-  "pid": "42238",
-  "pname": "PrintMonitor",
-  "pcpe": "cpe:/a:titool:printmonitor"
+	"vid": "17614",
+	"vname": "TI-Tool",
+	"vcpe": "cpe:/:titool",
+	"pid": "42238",
+	"pname": "PrintMonitor",
+	"pcpe": "cpe:/a:titool:printmonitor"
 }

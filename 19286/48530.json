@@ -1,8 +1,8 @@
 {
-  "vid": "19286",
-  "vname": "isolated-vm project",
-  "vcpe": "cpe:/:isolated-vm_project",
-  "pid": "48530",
-  "pname": "isolated-vm",
-  "pcpe": "cpe:/a:isolated-vm_project:isolated-vm"
+	"vid": "19286",
+	"vname": "isolated-vm project",
+	"vcpe": "cpe:/:isolated-vm_project",
+	"pid": "48530",
+	"pname": "isolated-vm",
+	"pcpe": "cpe:/a:isolated-vm_project:isolated-vm"
 }

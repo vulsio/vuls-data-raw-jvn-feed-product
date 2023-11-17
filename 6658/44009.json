@@ -1,8 +1,8 @@
 {
-  "vid": "6658",
-  "vname": "MikroTik",
-  "vcpe": "cpe:/:mikrotik",
-  "pid": "44009",
-  "pname": "hEX lite ファームウェア",
-  "pcpe": "cpe:/o:mikrotik:hex_lite_firmware"
+	"vid": "6658",
+	"vname": "MikroTik",
+	"vcpe": "cpe:/:mikrotik",
+	"pid": "44009",
+	"pname": "hEX lite ファームウェア",
+	"pcpe": "cpe:/o:mikrotik:hex_lite_firmware"
 }

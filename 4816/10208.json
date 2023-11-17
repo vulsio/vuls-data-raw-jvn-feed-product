@@ -1,8 +1,8 @@
 {
-  "vid": "4816",
-  "vname": "internetdm",
-  "vcpe": "cpe:/:internetdm",
-  "pid": "10208",
-  "pname": "webdm cms",
-  "pcpe": "cpe:/a:internetdm:webdm_cms"
+	"vid": "4816",
+	"vname": "internetdm",
+	"vcpe": "cpe:/:internetdm",
+	"pid": "10208",
+	"pname": "webdm cms",
+	"pcpe": "cpe:/a:internetdm:webdm_cms"
 }

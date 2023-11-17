@@ -1,8 +1,8 @@
 {
-  "vid": "278",
-  "vname": "SCO",
-  "vcpe": "cpe:/:sco",
-  "pid": "970",
-  "pname": "OpenLinux",
-  "pcpe": "cpe:/o:sco:openlinux"
+	"vid": "278",
+	"vname": "SCO",
+	"vcpe": "cpe:/:sco",
+	"pid": "970",
+	"pname": "OpenLinux",
+	"pcpe": "cpe:/o:sco:openlinux"
 }

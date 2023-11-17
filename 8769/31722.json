@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "31722",
-  "pname": "Qsync",
-  "pcpe": "cpe:/a:qnap:qsync"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "31722",
+	"pname": "Qsync",
+	"pcpe": "cpe:/a:qnap:qsync"
 }

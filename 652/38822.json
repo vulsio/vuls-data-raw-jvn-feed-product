@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "38822",
-  "pname": "SCX-824 ファームウェア",
-  "pcpe": "cpe:/o:samsung:scx-824_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "38822",
+	"pname": "SCX-824 ファームウェア",
+	"pcpe": "cpe:/o:samsung:scx-824_firmware"
 }

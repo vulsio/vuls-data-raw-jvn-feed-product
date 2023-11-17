@@ -1,8 +1,8 @@
 {
-  "vid": "4158",
-  "vname": "valve software",
-  "vcpe": "cpe:/:valvesoftware",
-  "pid": "15815",
-  "pname": "webmod plugin",
-  "pcpe": "cpe:/a:valvesoftware:webmod_plugin"
+	"vid": "4158",
+	"vname": "valve software",
+	"vcpe": "cpe:/:valvesoftware",
+	"pid": "15815",
+	"pname": "webmod plugin",
+	"pcpe": "cpe:/a:valvesoftware:webmod_plugin"
 }

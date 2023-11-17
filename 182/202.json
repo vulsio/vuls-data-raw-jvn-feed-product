@@ -1,8 +1,8 @@
 {
-  "vid": "182",
-  "vname": "シュナイダーエレクトリック株式会社 (旧社名株式会社エーピーシー・ジャパン)",
-  "vcpe": "cpe:/:apc",
-  "pid": "202",
-  "pname": "PowerChute",
-  "pcpe": "cpe:/a:apc:powerchute"
+	"vid": "182",
+	"vname": "シュナイダーエレクトリック株式会社 (旧社名株式会社エーピーシー・ジャパン)",
+	"vcpe": "cpe:/:apc",
+	"pid": "202",
+	"pname": "PowerChute",
+	"pcpe": "cpe:/a:apc:powerchute"
 }

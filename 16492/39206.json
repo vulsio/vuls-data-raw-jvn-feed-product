@@ -1,8 +1,8 @@
 {
-  "vid": "16492",
-  "vname": "miniOrange",
-  "vcpe": "cpe:/:miniorange",
-  "pid": "39206",
-  "pname": "SAML SP Single Sign On",
-  "pcpe": "cpe:/a:miniorange:saml_sp_single_sign_on"
+	"vid": "16492",
+	"vname": "miniOrange",
+	"vcpe": "cpe:/:miniorange",
+	"pid": "39206",
+	"pname": "SAML SP Single Sign On",
+	"pcpe": "cpe:/a:miniorange:saml_sp_single_sign_on"
 }

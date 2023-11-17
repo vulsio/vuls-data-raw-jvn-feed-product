@@ -1,8 +1,8 @@
 {
-  "vid": "23598",
-  "vname": "Allegro",
-  "vcpe": "cpe:/:liballeg",
-  "pid": "61114",
-  "pname": "Allegro",
-  "pcpe": "cpe:/a:liballeg:allegro"
+	"vid": "23598",
+	"vname": "Allegro",
+	"vcpe": "cpe:/:liballeg",
+	"pid": "61114",
+	"pname": "Allegro",
+	"pcpe": "cpe:/a:liballeg:allegro"
 }

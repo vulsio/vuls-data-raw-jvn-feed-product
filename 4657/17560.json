@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "17560",
-  "pname": "NIP2200",
-  "pcpe": "cpe:/h:huawei:nip2200"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "17560",
+	"pname": "NIP2200",
+	"pcpe": "cpe:/h:huawei:nip2200"
 }

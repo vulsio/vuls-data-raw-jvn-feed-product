@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "43362",
-  "pname": "WorkCentre 7545 ファームウェア",
-  "pcpe": "cpe:/o:xerox:workcentre_7545_firmware"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "43362",
+	"pname": "WorkCentre 7545 ファームウェア",
+	"pcpe": "cpe:/o:xerox:workcentre_7545_firmware"
 }

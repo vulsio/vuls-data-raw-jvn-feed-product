@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "59240",
-  "pname": "optane ssd p5800x ファームウェア",
-  "pcpe": "cpe:/o:intel:optane_ssd_p5800x_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "59240",
+	"pname": "optane ssd p5800x ファームウェア",
+	"pcpe": "cpe:/o:intel:optane_ssd_p5800x_firmware"
 }

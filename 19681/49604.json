@@ -1,8 +1,8 @@
 {
-  "vid": "19681",
-  "vname": "samba-client project",
-  "vcpe": "cpe:/:samba-client_project",
-  "pid": "49604",
-  "pname": "samba-client",
-  "pcpe": "cpe:/a:samba-client_project:samba-client"
+	"vid": "19681",
+	"vname": "samba-client project",
+	"vcpe": "cpe:/:samba-client_project",
+	"pid": "49604",
+	"pname": "samba-client",
+	"pcpe": "cpe:/a:samba-client_project:samba-client"
 }

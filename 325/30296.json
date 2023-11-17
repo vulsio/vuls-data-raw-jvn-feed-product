@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30296",
-  "pname": "ThinkServer TS240 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkserver_ts240_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30296",
+	"pname": "ThinkServer TS240 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkserver_ts240_firmware"
 }

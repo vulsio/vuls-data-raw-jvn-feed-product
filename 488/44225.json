@@ -1,8 +1,8 @@
 {
-  "vid": "488",
-  "vname": "openSUSE project",
-  "vcpe": "cpe:/:opensuse_project",
-  "pid": "44225",
-  "pname": "autoyast2",
-  "pcpe": "cpe:/a:opensuse_project:autoyast2"
+	"vid": "488",
+	"vname": "openSUSE project",
+	"vcpe": "cpe:/:opensuse_project",
+	"pid": "44225",
+	"pname": "autoyast2",
+	"pcpe": "cpe:/a:opensuse_project:autoyast2"
 }

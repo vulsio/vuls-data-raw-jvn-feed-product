@@ -1,8 +1,8 @@
 {
-  "vid": "13107",
-  "vname": "Intelbras",
-  "vcpe": "cpe:/:intelbras",
-  "pid": "50743",
-  "pname": "RF 301K ファームウェア",
-  "pcpe": "cpe:/o:intelbras:rf_301k_firmware"
+	"vid": "13107",
+	"vname": "Intelbras",
+	"vcpe": "cpe:/:intelbras",
+	"pid": "50743",
+	"pname": "RF 301K ファームウェア",
+	"pcpe": "cpe:/o:intelbras:rf_301k_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "9776",
-  "pname": "Cosminexus Application Server Enterprise",
-  "pcpe": "cpe:/a:hitachi:cosminexus_application_server_enterprise"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "9776",
+	"pname": "Cosminexus Application Server Enterprise",
+	"pcpe": "cpe:/a:hitachi:cosminexus_application_server_enterprise"
 }

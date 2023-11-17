@@ -1,8 +1,8 @@
 {
-  "vid": "23721",
-  "vname": "schema project",
-  "vcpe": "cpe:/:schema_project",
-  "pid": "61363",
-  "pname": "schema",
-  "pcpe": "cpe:/a:schema_project:schema"
+	"vid": "23721",
+	"vname": "schema project",
+	"vcpe": "cpe:/:schema_project",
+	"pid": "61363",
+	"pname": "schema",
+	"pcpe": "cpe:/a:schema_project:schema"
 }

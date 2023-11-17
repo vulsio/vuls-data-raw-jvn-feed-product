@@ -1,8 +1,8 @@
 {
-  "vid": "2098",
-  "vname": "aiocp",
-  "vcpe": "cpe:/:aiocp",
-  "pid": "5619",
-  "pname": "aiocp",
-  "pcpe": "cpe:/a:aiocp:aiocp"
+	"vid": "2098",
+	"vname": "aiocp",
+	"vcpe": "cpe:/:aiocp",
+	"pid": "5619",
+	"pname": "aiocp",
+	"pcpe": "cpe:/a:aiocp:aiocp"
 }

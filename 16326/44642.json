@@ -1,8 +1,8 @@
 {
-  "vid": "16326",
-  "vname": "Cerner Corporation.",
-  "vcpe": "cpe:/:cerner",
-  "pid": "44642",
-  "pname": "medico",
-  "pcpe": "cpe:/a:cerner:medico"
+	"vid": "16326",
+	"vname": "Cerner Corporation.",
+	"vcpe": "cpe:/:cerner",
+	"pid": "44642",
+	"pname": "medico",
+	"pcpe": "cpe:/a:cerner:medico"
 }

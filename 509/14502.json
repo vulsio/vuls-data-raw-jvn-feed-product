@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "14502",
-  "pname": "internet transaction server",
-  "pcpe": "cpe:/a:sap:internet_transaction_server"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "14502",
+	"pname": "internet transaction server",
+	"pcpe": "cpe:/a:sap:internet_transaction_server"
 }

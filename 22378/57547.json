@@ -1,8 +1,8 @@
 {
-  "vid": "22378",
-  "vname": "WPSC Plugin",
-  "vcpe": "cpe:/:wpsc-plugin",
-  "pid": "57547",
-  "pname": "Structured Content",
-  "pcpe": "cpe:/a:wpsc-plugin:structured_content"
+	"vid": "22378",
+	"vname": "WPSC Plugin",
+	"vcpe": "cpe:/:wpsc-plugin",
+	"pid": "57547",
+	"pname": "Structured Content",
+	"pcpe": "cpe:/a:wpsc-plugin:structured_content"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "606",
-  "vname": "セイコーエプソン株式会社",
-  "vcpe": "cpe:/:epson",
-  "pid": "28324",
-  "pname": "TMNet WebConfig",
-  "pcpe": "cpe:/a:epson:tmnet_webconfig"
+	"vid": "606",
+	"vname": "セイコーエプソン株式会社",
+	"vcpe": "cpe:/:epson",
+	"pid": "28324",
+	"pname": "TMNet WebConfig",
+	"pcpe": "cpe:/a:epson:tmnet_webconfig"
 }

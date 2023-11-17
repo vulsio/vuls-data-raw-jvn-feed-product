@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "36435",
-  "pname": "Huawei Watch 2 ファームウェア",
-  "pcpe": "cpe:/o:huawei:watch_2_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "36435",
+	"pname": "Huawei Watch 2 ファームウェア",
+	"pcpe": "cpe:/o:huawei:watch_2_firmware"
 }

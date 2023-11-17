@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "37256",
-  "pname": "GATE-E1 ファームウェア",
-  "pcpe": "cpe:/o:abb:gate-e1_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "37256",
+	"pname": "GATE-E1 ファームウェア",
+	"pcpe": "cpe:/o:abb:gate-e1_firmware"
 }

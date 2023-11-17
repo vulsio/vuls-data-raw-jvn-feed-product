@@ -1,8 +1,8 @@
 {
-  "vid": "12484",
-  "vname": "The WebKitGTK+ Team",
-  "vcpe": "cpe:/:webkitgtk",
-  "pid": "37678",
-  "pname": "WebKitGTK",
-  "pcpe": "cpe:/a:webkitgtk:webkitgtk"
+	"vid": "12484",
+	"vname": "The WebKitGTK+ Team",
+	"vcpe": "cpe:/:webkitgtk",
+	"pid": "37678",
+	"pname": "WebKitGTK",
+	"pcpe": "cpe:/a:webkitgtk:webkitgtk"
 }

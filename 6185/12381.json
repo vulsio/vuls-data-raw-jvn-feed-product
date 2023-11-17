@@ -1,8 +1,8 @@
 {
-  "vid": "6185",
-  "vname": "osTicket",
-  "vcpe": "cpe:/:osticket",
-  "pid": "12381",
-  "pname": "osTicket",
-  "pcpe": "cpe:/a:osticket:osticket"
+	"vid": "6185",
+	"vname": "osTicket",
+	"vcpe": "cpe:/:osticket",
+	"pid": "12381",
+	"pname": "osTicket",
+	"pcpe": "cpe:/a:osticket:osticket"
 }

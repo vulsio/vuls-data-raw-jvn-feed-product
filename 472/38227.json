@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "38227",
-  "pname": "PowerFlex 525 AC Drives ファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:powerflex_525_ac_drives_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "38227",
+	"pname": "PowerFlex 525 AC Drives ファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:powerflex_525_ac_drives_firmware"
 }

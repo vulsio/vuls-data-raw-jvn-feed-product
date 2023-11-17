@@ -1,8 +1,8 @@
 {
-  "vid": "9029",
-  "vname": "Ubiquiti Networks",
-  "vcpe": "cpe:/:ubiquiti_networks",
-  "pid": "17794",
-  "pname": "airVision ファームウェア",
-  "pcpe": "cpe:/o:ubiquiti_networks:airvision_firmware"
+	"vid": "9029",
+	"vname": "Ubiquiti Networks",
+	"vcpe": "cpe:/:ubiquiti_networks",
+	"pid": "17794",
+	"pname": "airVision ファームウェア",
+	"pcpe": "cpe:/o:ubiquiti_networks:airvision_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "45282",
-  "pname": "OS Loader",
-  "pcpe": "cpe:/a:schneider_electric:os_loader"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "45282",
+	"pname": "OS Loader",
+	"pcpe": "cpe:/a:schneider_electric:os_loader"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "681",
-  "vname": "ASUSTeK Computer Inc.",
-  "vcpe": "cpe:/:asus",
-  "pid": "37495",
-  "pname": "Aura Sync フレームワーク",
-  "pcpe": "cpe:/o:asus:aura_sync_firmware"
+	"vid": "681",
+	"vname": "ASUSTeK Computer Inc.",
+	"vcpe": "cpe:/:asus",
+	"pid": "37495",
+	"pname": "Aura Sync フレームワーク",
+	"pcpe": "cpe:/o:asus:aura_sync_firmware"
 }

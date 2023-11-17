@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "57836",
-  "pname": "ZyXEL ZyWALL 2 Plus Internet Security Appliance ファームウェア",
-  "pcpe": "cpe:/o:zyxel:zywall_2_plus_internet_security_appliance_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "57836",
+	"pname": "ZyXEL ZyWALL 2 Plus Internet Security Appliance ファームウェア",
+	"pcpe": "cpe:/o:zyxel:zywall_2_plus_internet_security_appliance_firmware"
 }

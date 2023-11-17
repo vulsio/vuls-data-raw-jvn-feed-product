@@ -1,8 +1,8 @@
 {
-  "vid": "21634",
-  "vname": "Shopello API project",
-  "vcpe": "cpe:/:shopello_api_project",
-  "pid": "55569",
-  "pname": "Shopello API",
-  "pcpe": "cpe:/a:shopello_api_project:shopello_api"
+	"vid": "21634",
+	"vname": "Shopello API project",
+	"vcpe": "cpe:/:shopello_api_project",
+	"pid": "55569",
+	"pname": "Shopello API",
+	"pcpe": "cpe:/a:shopello_api_project:shopello_api"
 }

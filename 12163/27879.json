@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "27879",
-  "pname": "TAP Plugin",
-  "pcpe": "cpe:/a:jenkins:tap_plugin"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "27879",
+	"pname": "TAP Plugin",
+	"pcpe": "cpe:/a:jenkins:tap_plugin"
 }

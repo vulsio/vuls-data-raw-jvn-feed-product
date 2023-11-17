@@ -1,8 +1,8 @@
 {
-  "vid": "804",
-  "vname": "Dolibarr ERP & CRM",
-  "vcpe": "cpe:/:dolibarr",
-  "pid": "3208",
-  "pname": "Dolibarr ERP & CRM",
-  "pcpe": "cpe:/a:dolibarr:dolibarr"
+	"vid": "804",
+	"vname": "Dolibarr ERP & CRM",
+	"vcpe": "cpe:/:dolibarr",
+	"pid": "3208",
+	"pname": "Dolibarr ERP & CRM",
+	"pcpe": "cpe:/a:dolibarr:dolibarr"
 }

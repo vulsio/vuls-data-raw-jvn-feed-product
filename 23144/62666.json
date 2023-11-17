@@ -1,8 +1,8 @@
 {
-  "vid": "23144",
-  "vname": "withsecure",
-  "vcpe": "cpe:/:withsecure",
-  "pid": "62666",
-  "pname": "business suite",
-  "pcpe": "cpe:/a:withsecure:business_suite"
+	"vid": "23144",
+	"vname": "withsecure",
+	"vcpe": "cpe:/:withsecure",
+	"pid": "62666",
+	"pname": "business suite",
+	"pcpe": "cpe:/a:withsecure:business_suite"
 }

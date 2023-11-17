@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "42992",
-  "pname": "DCS-5635 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dcs-5635_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "42992",
+	"pname": "DCS-5635 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dcs-5635_firmware"
 }

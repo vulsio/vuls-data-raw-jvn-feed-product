@@ -1,8 +1,8 @@
 {
-  "vid": "5367",
-  "vname": "LogMeIn, Inc.",
-  "vcpe": "cpe:/:logmein",
-  "pid": "11055",
-  "pname": "ractrl.dll",
-  "pcpe": "cpe:/a:logmein:ractrl.dll"
+	"vid": "5367",
+	"vname": "LogMeIn, Inc.",
+	"vcpe": "cpe:/:logmein",
+	"pid": "11055",
+	"pname": "ractrl.dll",
+	"pcpe": "cpe:/a:logmein:ractrl.dll"
 }

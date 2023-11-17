@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "38720",
-  "pname": "Xeon D-2141I ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_d-2141i_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "38720",
+	"pname": "Xeon D-2141I ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_d-2141i_firmware"
 }

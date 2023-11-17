@@ -1,8 +1,8 @@
 {
-  "vid": "21923",
-  "vname": "Olivetti SpA",
-  "vcpe": "cpe:/:misc",
-  "pid": "56295",
-  "pname": "Android アプリ「Olivetti Mobile Print」",
-  "pcpe": "cpe:/a:misc:olivetti_spa_android_olivetti_mobile_print"
+	"vid": "21923",
+	"vname": "Olivetti SpA",
+	"vcpe": "cpe:/:misc",
+	"pid": "56295",
+	"pname": "Android アプリ「Olivetti Mobile Print」",
+	"pcpe": "cpe:/a:misc:olivetti_spa_android_olivetti_mobile_print"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18678",
-  "vname": "GigaDevice",
-  "vcpe": "cpe:/:gigadevice",
-  "pid": "46330",
-  "pname": "GD32VF103 ファームウェア",
-  "pcpe": "cpe:/o:gigadevice:gd32vf103_firmware"
+	"vid": "18678",
+	"vname": "GigaDevice",
+	"vcpe": "cpe:/:gigadevice",
+	"pid": "46330",
+	"pname": "GD32VF103 ファームウェア",
+	"pcpe": "cpe:/o:gigadevice:gd32vf103_firmware"
 }

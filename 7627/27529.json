@@ -1,8 +1,8 @@
 {
-  "vid": "7627",
-  "vname": "SISCO",
-  "vcpe": "cpe:/:sisco",
-  "pid": "27529",
-  "pname": "AX-S4 ICCP",
-  "pcpe": "cpe:/h:sisco:ax-s4_iccp"
+	"vid": "7627",
+	"vname": "SISCO",
+	"vcpe": "cpe:/:sisco",
+	"pid": "27529",
+	"pname": "AX-S4 ICCP",
+	"pcpe": "cpe:/h:sisco:ax-s4_iccp"
 }

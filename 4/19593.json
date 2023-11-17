@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "19593",
-  "pname": "HP StoreVirtual VSA ソフトウェア",
-  "pcpe": "cpe:/a:hp:storevirtual_vsa"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "19593",
+	"pname": "HP StoreVirtual VSA ソフトウェア",
+	"pcpe": "cpe:/a:hp:storevirtual_vsa"
 }

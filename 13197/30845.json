@@ -1,8 +1,8 @@
 {
-  "vid": "13197",
-  "vname": "freesmartphone.org",
-  "vcpe": "cpe:/:misc",
-  "pid": "30845",
-  "pname": "fso-usaged",
-  "pcpe": "cpe:/a:misc:freesmartphone.org_fso-usaged"
+	"vid": "13197",
+	"vname": "freesmartphone.org",
+	"vcpe": "cpe:/:misc",
+	"pid": "30845",
+	"pname": "fso-usaged",
+	"pcpe": "cpe:/a:misc:freesmartphone.org_fso-usaged"
 }

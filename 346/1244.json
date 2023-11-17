@@ -1,8 +1,8 @@
 {
-  "vid": "346",
-  "vname": "Claris International Inc. (旧 FileMaker, Inc)",
-  "vcpe": "cpe:/:claris",
-  "pid": "1244",
-  "pname": "FileMaker Server",
-  "pcpe": "cpe:/a:claris:filemaker_server"
+	"vid": "346",
+	"vname": "Claris International Inc. (旧 FileMaker, Inc)",
+	"vcpe": "cpe:/:claris",
+	"pid": "1244",
+	"pname": "FileMaker Server",
+	"pcpe": "cpe:/a:claris:filemaker_server"
 }

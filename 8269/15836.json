@@ -1,8 +1,8 @@
 {
-  "vid": "8269",
-  "vname": "vblogix",
-  "vcpe": "cpe:/:vblogix",
-  "pid": "15836",
-  "pname": "tutorial script",
-  "pcpe": "cpe:/a:vblogix:tutorial_script"
+	"vid": "8269",
+	"vname": "vblogix",
+	"vcpe": "cpe:/:vblogix",
+	"pid": "15836",
+	"pname": "tutorial script",
+	"pcpe": "cpe:/a:vblogix:tutorial_script"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "44439",
-  "pname": "GS408EPP ファームウェア",
-  "pcpe": "cpe:/o:netgear:gs408epp_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "44439",
+	"pname": "GS408EPP ファームウェア",
+	"pcpe": "cpe:/o:netgear:gs408epp_firmware"
 }

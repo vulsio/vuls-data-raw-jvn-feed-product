@@ -1,8 +1,8 @@
 {
-  "vid": "13880",
-  "vname": "Lynx Technology",
-  "vcpe": "cpe:/:lynxtechnology",
-  "pid": "32985",
-  "pname": "Twonky Server",
-  "pcpe": "cpe:/a:lynxtechnology:twonky_server"
+	"vid": "13880",
+	"vname": "Lynx Technology",
+	"vcpe": "cpe:/:lynxtechnology",
+	"pid": "32985",
+	"pname": "Twonky Server",
+	"pcpe": "cpe:/a:lynxtechnology:twonky_server"
 }

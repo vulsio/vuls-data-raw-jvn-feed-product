@@ -1,8 +1,8 @@
 {
-  "vid": "11972",
-  "vname": "iniNet Solutions GmbH",
-  "vcpe": "cpe:/:ininet_solutions",
-  "pid": "24965",
-  "pname": "embeddedWebServer",
-  "pcpe": "cpe:/a:ininet_solutions:embeddedwebserver"
+	"vid": "11972",
+	"vname": "iniNet Solutions GmbH",
+	"vcpe": "cpe:/:ininet_solutions",
+	"pid": "24965",
+	"pname": "embeddedWebServer",
+	"pcpe": "cpe:/a:ininet_solutions:embeddedwebserver"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13984",
-  "vname": "EZPZ One Click Backup Project",
-  "vcpe": "cpe:/:ezpz-one-click-backup_project",
-  "pid": "33293",
-  "pname": "EZPZ One Click Backup",
-  "pcpe": "cpe:/a:ezpz-one-click-backup_project:ezpz-one-click-backup"
+	"vid": "13984",
+	"vname": "EZPZ One Click Backup Project",
+	"vcpe": "cpe:/:ezpz-one-click-backup_project",
+	"pid": "33293",
+	"pname": "EZPZ One Click Backup",
+	"pcpe": "cpe:/a:ezpz-one-click-backup_project:ezpz-one-click-backup"
 }

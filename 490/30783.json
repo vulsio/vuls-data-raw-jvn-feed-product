@@ -1,8 +1,8 @@
 {
-  "vid": "490",
-  "vname": "Digium",
-  "vcpe": "cpe:/:digium",
-  "pid": "30783",
-  "pname": "Asterisk GUI",
-  "pcpe": "cpe:/a:digium:asterisk_gui"
+	"vid": "490",
+	"vname": "Digium",
+	"vcpe": "cpe:/:digium",
+	"pid": "30783",
+	"pname": "Asterisk GUI",
+	"pcpe": "cpe:/a:digium:asterisk_gui"
 }

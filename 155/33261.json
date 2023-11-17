@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "33261",
-  "pname": "True Key",
-  "pcpe": "cpe:/a:mcafee:true_key"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "33261",
+	"pname": "True Key",
+	"pcpe": "cpe:/a:mcafee:true_key"
 }

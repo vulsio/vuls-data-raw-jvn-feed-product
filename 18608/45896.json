@@ -1,8 +1,8 @@
 {
-  "vid": "18608",
-  "vname": "f2fs-tools project",
-  "vcpe": "cpe:/:f2fs-tools_project",
-  "pid": "45896",
-  "pname": "f2fs-tools",
-  "pcpe": "cpe:/a:f2fs-tools_project:f2fs-tools"
+	"vid": "18608",
+	"vname": "f2fs-tools project",
+	"vcpe": "cpe:/:f2fs-tools_project",
+	"pid": "45896",
+	"pname": "f2fs-tools",
+	"pcpe": "cpe:/a:f2fs-tools_project:f2fs-tools"
 }

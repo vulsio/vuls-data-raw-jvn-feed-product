@@ -1,8 +1,8 @@
 {
-  "vid": "20205",
-  "vname": "miniaudio project",
-  "vcpe": "cpe:/:miniaudio_project",
-  "pid": "51441",
-  "pname": "miniaudio",
-  "pcpe": "cpe:/a:miniaudio_project:miniaudio"
+	"vid": "20205",
+	"vname": "miniaudio project",
+	"vcpe": "cpe:/:miniaudio_project",
+	"pid": "51441",
+	"pname": "miniaudio",
+	"pcpe": "cpe:/a:miniaudio_project:miniaudio"
 }

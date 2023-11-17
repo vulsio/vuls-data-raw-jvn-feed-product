@@ -1,8 +1,8 @@
 {
-  "vid": "6552",
-  "vname": "Wansview",
-  "vcpe": "cpe:/:wansview",
-  "pid": "13147",
-  "pname": "Wansview Wireless IP Camera",
-  "pcpe": "cpe:/h:wansview:h.264_hi3510%2F11%2F12_ip_camera"
+	"vid": "6552",
+	"vname": "Wansview",
+	"vcpe": "cpe:/:wansview",
+	"pid": "13147",
+	"pname": "Wansview Wireless IP Camera",
+	"pcpe": "cpe:/h:wansview:h.264_hi3510%2F11%2F12_ip_camera"
 }

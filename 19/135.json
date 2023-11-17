@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "135",
-  "pname": "Cisco PIX/ASA",
-  "pcpe": "cpe:/h:cisco:pix_asa"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "135",
+	"pname": "Cisco PIX/ASA",
+	"pcpe": "cpe:/h:cisco:pix_asa"
 }

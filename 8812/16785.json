@@ -1,8 +1,8 @@
 {
-  "vid": "8812",
-  "vname": "Centrify",
-  "vcpe": "cpe:/:centrify",
-  "pid": "16785",
-  "pname": "Centrify Deployment Manager",
-  "pcpe": "cpe:/a:centrify:centrify_deployment_manager"
+	"vid": "8812",
+	"vname": "Centrify",
+	"vcpe": "cpe:/:centrify",
+	"pid": "16785",
+	"pname": "Centrify Deployment Manager",
+	"pcpe": "cpe:/a:centrify:centrify_deployment_manager"
 }

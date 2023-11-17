@@ -1,8 +1,8 @@
 {
-  "vid": "11606",
-  "vname": "Henry Spencer",
-  "vcpe": "cpe:/:rxspencer_project",
-  "pid": "23796",
-  "pname": "BSD regex library",
-  "pcpe": "cpe:/a:rxspencer_project:rxspencer"
+	"vid": "11606",
+	"vname": "Henry Spencer",
+	"vcpe": "cpe:/:rxspencer_project",
+	"pid": "23796",
+	"pname": "BSD regex library",
+	"pcpe": "cpe:/a:rxspencer_project:rxspencer"
 }

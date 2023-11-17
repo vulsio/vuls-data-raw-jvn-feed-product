@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "48388",
-  "pname": "Slow Motion Editor",
-  "pcpe": "cpe:/a:samsung:slow_motion_editor"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "48388",
+	"pname": "Slow Motion Editor",
+	"pcpe": "cpe:/a:samsung:slow_motion_editor"
 }

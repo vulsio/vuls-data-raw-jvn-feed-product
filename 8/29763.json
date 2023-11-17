@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "29763",
-  "pname": "Apache Traffic Control",
-  "pcpe": "cpe:/a:apache:traffic_control"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "29763",
+	"pname": "Apache Traffic Control",
+	"pcpe": "cpe:/a:apache:traffic_control"
 }

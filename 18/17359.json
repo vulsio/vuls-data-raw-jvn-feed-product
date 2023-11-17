@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17359",
-  "pname": "IBM WebSphere DataPower Service Gateway XG45 Virtual Edition ファームウェア",
-  "pcpe": "cpe:/o:ibm:websphere_datapower_service_gateway_xg45_virtual_edition_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17359",
+	"pname": "IBM WebSphere DataPower Service Gateway XG45 Virtual Edition ファームウェア",
+	"pcpe": "cpe:/o:ibm:websphere_datapower_service_gateway_xg45_virtual_edition_firmware"
 }

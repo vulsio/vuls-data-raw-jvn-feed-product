@@ -1,8 +1,8 @@
 {
-  "vid": "16462",
-  "vname": "Ranksol",
-  "vcpe": "cpe:/:ranksol",
-  "pid": "39127",
-  "pname": "Live Call Support",
-  "pcpe": "cpe:/a:ranksol:live_call_support"
+	"vid": "16462",
+	"vname": "Ranksol",
+	"vcpe": "cpe:/:ranksol",
+	"pid": "39127",
+	"pname": "Live Call Support",
+	"pcpe": "cpe:/a:ranksol:live_call_support"
 }

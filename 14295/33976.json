@@ -1,8 +1,8 @@
 {
-  "vid": "14295",
-  "vname": "selenium-chromedriver project",
-  "vcpe": "cpe:/:selenium-chromedriver_project",
-  "pid": "33976",
-  "pname": "selenium-chromedriver",
-  "pcpe": "cpe:/a:selenium-chromedriver_project:selenium-chromedriver"
+	"vid": "14295",
+	"vname": "selenium-chromedriver project",
+	"vcpe": "cpe:/:selenium-chromedriver_project",
+	"pid": "33976",
+	"pname": "selenium-chromedriver",
+	"pcpe": "cpe:/a:selenium-chromedriver_project:selenium-chromedriver"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "44743",
-  "pname": "System 800xA RNRP",
-  "pcpe": "cpe:/a:abb:800xa_rnrp"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "44743",
+	"pname": "System 800xA RNRP",
+	"pcpe": "cpe:/a:abb:800xa_rnrp"
 }

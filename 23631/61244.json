@@ -1,8 +1,8 @@
 {
-  "vid": "23631",
-  "vname": "s3label project",
-  "vcpe": "cpe:/:s3label_project",
-  "pid": "61244",
-  "pname": "s3label",
-  "pcpe": "cpe:/a:s3label_project:s3label"
+	"vid": "23631",
+	"vname": "s3label project",
+	"vcpe": "cpe:/:s3label_project",
+	"pid": "61244",
+	"pname": "s3label",
+	"pcpe": "cpe:/a:s3label_project:s3label"
 }

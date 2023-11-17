@@ -1,8 +1,8 @@
 {
-  "vid": "19343",
-  "vname": "RELIC project",
-  "vcpe": "cpe:/:relic_project",
-  "pid": "48724",
-  "pname": "RELIC",
-  "pcpe": "cpe:/a:relic_project:relic"
+	"vid": "19343",
+	"vname": "RELIC project",
+	"vcpe": "cpe:/:relic_project",
+	"pid": "48724",
+	"pname": "RELIC",
+	"pcpe": "cpe:/a:relic_project:relic"
 }

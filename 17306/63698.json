@@ -1,8 +1,8 @@
 {
-  "vid": "17306",
-  "vname": "Open Source Geospatial Foundation",
-  "vcpe": "cpe:/:osgeo",
-  "pid": "63698",
-  "pname": "shapelib",
-  "pcpe": "cpe:/a:osgeo:shapelib"
+	"vid": "17306",
+	"vname": "Open Source Geospatial Foundation",
+	"vcpe": "cpe:/:osgeo",
+	"pid": "63698",
+	"pname": "shapelib",
+	"pcpe": "cpe:/a:osgeo:shapelib"
 }

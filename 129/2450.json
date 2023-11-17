@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2450",
-  "pname": "JP1/ServerConductor/Control Manager",
-  "pcpe": "cpe:/a:hitachi:jp1_serverconductor_control_manager"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2450",
+	"pname": "JP1/ServerConductor/Control Manager",
+	"pcpe": "cpe:/a:hitachi:jp1_serverconductor_control_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22974",
-  "vname": "pentest collaboration framework project",
-  "vcpe": "cpe:/:pentest_collaboration_framework_project",
-  "pid": "59329",
-  "pname": "pentest collaboration framework",
-  "pcpe": "cpe:/a:pentest_collaboration_framework_project:pentest_collaboration_framework"
+	"vid": "22974",
+	"vname": "pentest collaboration framework project",
+	"vcpe": "cpe:/:pentest_collaboration_framework_project",
+	"pid": "59329",
+	"pname": "pentest collaboration framework",
+	"pcpe": "cpe:/a:pentest_collaboration_framework_project:pentest_collaboration_framework"
 }

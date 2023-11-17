@@ -1,8 +1,8 @@
 {
-  "vid": "13279",
-  "vname": "Data Components Software Development",
-  "vcpe": "cpe:/:datacomponents",
-  "pid": "31050",
-  "pname": "tPanel",
-  "pcpe": "cpe:/a:datacomponents:tpanel"
+	"vid": "13279",
+	"vname": "Data Components Software Development",
+	"vcpe": "cpe:/:datacomponents",
+	"pid": "31050",
+	"pname": "tPanel",
+	"pcpe": "cpe:/a:datacomponents:tpanel"
 }

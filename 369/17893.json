@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "17893",
-  "pname": "CA Service Desk Manager",
-  "pcpe": "cpe:/a:ca:service_desk_manager"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "17893",
+	"pname": "CA Service Desk Manager",
+	"pcpe": "cpe:/a:ca:service_desk_manager"
 }

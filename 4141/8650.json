@@ -1,8 +1,8 @@
 {
-  "vid": "4141",
-  "vname": "revilloc",
-  "vcpe": "cpe:/:revilloc",
-  "pid": "8650",
-  "pname": "mailserver",
-  "pcpe": "cpe:/a:revilloc:mailserver"
+	"vid": "4141",
+	"vname": "revilloc",
+	"vcpe": "cpe:/:revilloc",
+	"pid": "8650",
+	"pname": "mailserver",
+	"pcpe": "cpe:/a:revilloc:mailserver"
 }

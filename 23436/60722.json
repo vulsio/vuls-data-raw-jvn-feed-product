@@ -1,8 +1,8 @@
 {
-  "vid": "23436",
-  "vname": "UBI Reader project",
-  "vcpe": "cpe:/:ubi_reader_project",
-  "pid": "60722",
-  "pname": "UBI Reader",
-  "pcpe": "cpe:/a:ubi_reader_project:ubi_reader"
+	"vid": "23436",
+	"vname": "UBI Reader project",
+	"vcpe": "cpe:/:ubi_reader_project",
+	"pid": "60722",
+	"pname": "UBI Reader",
+	"pcpe": "cpe:/a:ubi_reader_project:ubi_reader"
 }

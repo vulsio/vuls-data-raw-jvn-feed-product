@@ -1,8 +1,8 @@
 {
-  "vid": "3160",
-  "vname": "deeserver",
-  "vcpe": "cpe:/:deeserver",
-  "pid": "7250",
-  "pname": "panuwat promoteweb mysql",
-  "pcpe": "cpe:/a:deeserver:panuwat_promoteweb_mysql"
+	"vid": "3160",
+	"vname": "deeserver",
+	"vcpe": "cpe:/:deeserver",
+	"pid": "7250",
+	"pname": "panuwat promoteweb mysql",
+	"pcpe": "cpe:/a:deeserver:panuwat_promoteweb_mysql"
 }

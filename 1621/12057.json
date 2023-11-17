@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "12057",
-  "pname": "intellisync mobile suite",
-  "pcpe": "cpe:/a:nokia:intellisync_mobile_suite"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "12057",
+	"pname": "intellisync mobile suite",
+	"pcpe": "cpe:/a:nokia:intellisync_mobile_suite"
 }

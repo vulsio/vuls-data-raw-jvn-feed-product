@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "48655",
-  "pname": "ActSecure",
-  "pcpe": "cpe:/a:nec:actsecure"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "48655",
+	"pname": "ActSecure",
+	"pcpe": "cpe:/a:nec:actsecure"
 }

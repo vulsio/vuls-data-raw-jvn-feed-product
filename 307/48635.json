@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "48635",
-  "pname": "SD-WAN",
-  "pcpe": "cpe:/o:arubanetworks:sd-wan"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "48635",
+	"pname": "SD-WAN",
+	"pcpe": "cpe:/o:arubanetworks:sd-wan"
 }

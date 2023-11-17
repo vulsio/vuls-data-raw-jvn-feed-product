@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "17102",
-  "pname": "Magelis XBT GC/T/K HMI Controller",
-  "pcpe": "cpe:/h:schneider_electric:magelis_xbt_hmi"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "17102",
+	"pname": "Magelis XBT GC/T/K HMI Controller",
+	"pcpe": "cpe:/h:schneider_electric:magelis_xbt_hmi"
 }

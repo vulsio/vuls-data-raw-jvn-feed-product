@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "49561",
-  "pname": "R120 SFCPU ファームウェア",
-  "pcpe": "cpe:/o:mitsubishielectric:r120sfcpu_firmware"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "49561",
+	"pname": "R120 SFCPU ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:r120sfcpu_firmware"
 }

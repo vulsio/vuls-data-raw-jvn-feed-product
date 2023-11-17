@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "2343",
-  "pname": "HP Compaq dc5750 Small Form Factor PC",
-  "pcpe": "cpe:/h:hp:compaq_dc5750_small_form_factor_pc"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "2343",
+	"pname": "HP Compaq dc5750 Small Form Factor PC",
+	"pcpe": "cpe:/h:hp:compaq_dc5750_small_form_factor_pc"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "1466",
-  "pname": "SwimView",
-  "pcpe": "cpe:/a:allied_telesis_k.k.:swimview"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "1466",
+	"pname": "SwimView",
+	"pcpe": "cpe:/a:allied_telesis_k.k.:swimview"
 }

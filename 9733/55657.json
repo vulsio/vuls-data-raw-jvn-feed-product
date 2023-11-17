@@ -1,8 +1,8 @@
 {
-  "vid": "9733",
-  "vname": "Ericom Software",
-  "vcpe": "cpe:/:ericom",
-  "pid": "55657",
-  "pname": "Access Server",
-  "pcpe": "cpe:/a:ericom:access_server"
+	"vid": "9733",
+	"vname": "Ericom Software",
+	"vcpe": "cpe:/:ericom",
+	"pid": "55657",
+	"pname": "Access Server",
+	"pcpe": "cpe:/a:ericom:access_server"
 }

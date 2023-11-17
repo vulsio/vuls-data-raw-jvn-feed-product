@@ -1,8 +1,8 @@
 {
-  "vid": "6374",
-  "vname": "php arena",
-  "vcpe": "cpe:/:php_arena",
-  "pid": "12632",
-  "pname": "pabugs",
-  "pcpe": "cpe:/a:php_arena:pabugs"
+	"vid": "6374",
+	"vname": "php arena",
+	"vcpe": "cpe:/:php_arena",
+	"pid": "12632",
+	"pname": "pabugs",
+	"pcpe": "cpe:/a:php_arena:pabugs"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22608",
-  "vname": "cyclonedx",
-  "vcpe": "cpe:/:cyclonedx",
-  "pid": "58191",
-  "pname": "bill of materials repository server",
-  "pcpe": "cpe:/a:cyclonedx:bill_of_materials_repository_server"
+	"vid": "22608",
+	"vname": "cyclonedx",
+	"vcpe": "cpe:/:cyclonedx",
+	"pid": "58191",
+	"pname": "bill of materials repository server",
+	"pcpe": "cpe:/a:cyclonedx:bill_of_materials_repository_server"
 }

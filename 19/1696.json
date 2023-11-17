@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "1696",
-  "pname": "Cisco Building Broadband Service Manager (BBSM)",
-  "pcpe": "cpe:/a:cisco:building_broadband_service_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "1696",
+	"pname": "Cisco Building Broadband Service Manager (BBSM)",
+	"pcpe": "cpe:/a:cisco:building_broadband_service_manager"
 }

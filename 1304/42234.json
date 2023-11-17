@@ -1,8 +1,8 @@
 {
-  "vid": "1304",
-  "vname": "カスペルスキー",
-  "vcpe": "cpe:/:kaspersky",
-  "pid": "42234",
-  "pname": "Kaspersky Secure Connection",
-  "pcpe": "cpe:/a:kaspersky:secure_connection"
+	"vid": "1304",
+	"vname": "カスペルスキー",
+	"vcpe": "cpe:/:kaspersky",
+	"pid": "42234",
+	"pname": "Kaspersky Secure Connection",
+	"pcpe": "cpe:/a:kaspersky:secure_connection"
 }

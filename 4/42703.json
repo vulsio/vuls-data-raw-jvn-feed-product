@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "42703",
-  "pname": "DeskJet 2600 Y5H80A ファームウェア",
-  "pcpe": "cpe:/o:hp:deskjet_2600_y5h80a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "42703",
+	"pname": "DeskJet 2600 Y5H80A ファームウェア",
+	"pcpe": "cpe:/o:hp:deskjet_2600_y5h80a_firmware"
 }

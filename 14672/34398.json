@@ -1,8 +1,8 @@
 {
-  "vid": "14672",
-  "vname": "droppy project",
-  "vcpe": "cpe:/:droppy_project",
-  "pid": "34398",
-  "pname": "droppy",
-  "pcpe": "cpe:/a:droppy_project:droppy"
+	"vid": "14672",
+	"vname": "droppy project",
+	"vcpe": "cpe:/:droppy_project",
+	"pid": "34398",
+	"pname": "droppy",
+	"pcpe": "cpe:/a:droppy_project:droppy"
 }

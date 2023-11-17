@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "31616",
-  "pname": "FortiWebManager",
-  "pcpe": "cpe:/a:fortinet:fortiweb_manager"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "31616",
+	"pname": "FortiWebManager",
+	"pcpe": "cpe:/a:fortinet:fortiweb_manager"
 }

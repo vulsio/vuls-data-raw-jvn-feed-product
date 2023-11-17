@@ -1,8 +1,8 @@
 {
-  "vid": "12713",
-  "vname": "Gemalto N.V.",
-  "vcpe": "cpe:/:gemalto",
-  "pid": "38961",
-  "pname": "Ezio DS3 server",
-  "pcpe": "cpe:/a:gemalto:ezio_ds3_server"
+	"vid": "12713",
+	"vname": "Gemalto N.V.",
+	"vcpe": "cpe:/:gemalto",
+	"pid": "38961",
+	"pname": "Ezio DS3 server",
+	"pcpe": "cpe:/a:gemalto:ezio_ds3_server"
 }

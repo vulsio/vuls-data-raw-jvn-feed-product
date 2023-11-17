@@ -1,8 +1,8 @@
 {
-  "vid": "20667",
-  "vname": "tromit",
-  "vcpe": "cpe:/:tromit",
-  "pid": "52592",
-  "pname": "Yet Another bol.com Plugin",
-  "pcpe": "cpe:/a:tromit:yabp"
+	"vid": "20667",
+	"vname": "tromit",
+	"vcpe": "cpe:/:tromit",
+	"pid": "52592",
+	"pname": "Yet Another bol.com Plugin",
+	"pcpe": "cpe:/a:tromit:yabp"
 }

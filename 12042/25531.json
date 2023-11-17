@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25531",
-  "pname": "JG364A HP HSR6800 RSE-X2 Router Main Processing Unit",
-  "pcpe": "cpe:/h:hp:jg364a_hp_hsr6800_rse-x2_router_main_processing_unit"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25531",
+	"pname": "JG364A HP HSR6800 RSE-X2 Router Main Processing Unit",
+	"pcpe": "cpe:/h:hp:jg364a_hp_hsr6800_rse-x2_router_main_processing_unit"
 }

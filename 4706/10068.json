@@ -1,8 +1,8 @@
 {
-  "vid": "4706",
-  "vname": "iea software",
-  "vcpe": "cpe:/:iea_software",
-  "pid": "10068",
-  "pname": "radius test client",
-  "pcpe": "cpe:/a:iea_software:radius_test_client"
+	"vid": "4706",
+	"vname": "iea software",
+	"vcpe": "cpe:/:iea_software",
+	"pid": "10068",
+	"pname": "radius test client",
+	"pcpe": "cpe:/a:iea_software:radius_test_client"
 }

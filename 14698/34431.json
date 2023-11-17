@@ -1,8 +1,8 @@
 {
-  "vid": "14698",
-  "vname": "Guardian",
-  "vcpe": "cpe:/:theguardian",
-  "pid": "34431",
-  "pname": "html-janitor",
-  "pcpe": "cpe:/a:theguardian:html-janitor"
+	"vid": "14698",
+	"vname": "Guardian",
+	"vcpe": "cpe:/:theguardian",
+	"pid": "34431",
+	"pname": "html-janitor",
+	"pcpe": "cpe:/a:theguardian:html-janitor"
 }

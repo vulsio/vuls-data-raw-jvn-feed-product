@@ -1,8 +1,8 @@
 {
-  "vid": "1105",
-  "vname": "MailEnable",
-  "vcpe": "cpe:/:mailenable",
-  "pid": "11160",
-  "pname": "netwebadmin professional",
-  "pcpe": "cpe:/a:mailenable:netwebadmin_professional"
+	"vid": "1105",
+	"vname": "MailEnable",
+	"vcpe": "cpe:/:mailenable",
+	"pid": "11160",
+	"pname": "netwebadmin professional",
+	"pcpe": "cpe:/a:mailenable:netwebadmin_professional"
 }

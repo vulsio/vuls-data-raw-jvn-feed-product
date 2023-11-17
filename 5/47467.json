@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47467",
-  "pname": "SA6150P ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sa6150p_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47467",
+	"pname": "SA6150P ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sa6150p_firmware"
 }

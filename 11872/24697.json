@@ -1,8 +1,8 @@
 {
-  "vid": "11872",
-  "vname": "楽天カード株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "24697",
-  "pname": "iOS 版アプリ「楽天カード」",
-  "pcpe": "cpe:/a:misc:rakuten_rakutencard_for_ios"
+	"vid": "11872",
+	"vname": "楽天カード株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "24697",
+	"pname": "iOS 版アプリ「楽天カード」",
+	"pcpe": "cpe:/a:misc:rakuten_rakutencard_for_ios"
 }

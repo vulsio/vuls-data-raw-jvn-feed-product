@@ -1,8 +1,8 @@
 {
-  "vid": "8629",
-  "vname": "xkiosk",
-  "vcpe": "cpe:/:xkiosk",
-  "pid": "16349",
-  "pname": "xkiosk web",
-  "pcpe": "cpe:/a:xkiosk:xkiosk_web"
+	"vid": "8629",
+	"vname": "xkiosk",
+	"vcpe": "cpe:/:xkiosk",
+	"pid": "16349",
+	"pname": "xkiosk web",
+	"pcpe": "cpe:/a:xkiosk:xkiosk_web"
 }

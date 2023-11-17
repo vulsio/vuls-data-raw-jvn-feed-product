@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "40562",
-  "pname": "SIMATIC TDC CP51M1 ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_tdc_cp51m1_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "40562",
+	"pname": "SIMATIC TDC CP51M1 ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_tdc_cp51m1_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33204",
-  "pname": "IPQ8064 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:ipq8064_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33204",
+	"pname": "IPQ8064 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:ipq8064_firmware"
 }

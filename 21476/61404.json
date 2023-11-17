@@ -1,8 +1,8 @@
 {
-  "vid": "21476",
-  "vname": "Poly",
-  "vcpe": "cpe:/:poly",
-  "pid": "61404",
-  "pname": "studio x70 ファームウェア",
-  "pcpe": "cpe:/o:poly:studio_x70_firmware"
+	"vid": "21476",
+	"vname": "Poly",
+	"vcpe": "cpe:/:poly",
+	"pid": "61404",
+	"pname": "studio x70 ファームウェア",
+	"pcpe": "cpe:/o:poly:studio_x70_firmware"
 }

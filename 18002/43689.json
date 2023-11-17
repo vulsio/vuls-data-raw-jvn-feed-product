@@ -1,8 +1,8 @@
 {
-  "vid": "18002",
-  "vname": "usrsctp project",
-  "vcpe": "cpe:/:usrsctp_project",
-  "pid": "43689",
-  "pname": "usrsctp",
-  "pcpe": "cpe:/a:usrsctp_project:usrsctp"
+	"vid": "18002",
+	"vname": "usrsctp project",
+	"vcpe": "cpe:/:usrsctp_project",
+	"pid": "43689",
+	"pname": "usrsctp",
+	"pcpe": "cpe:/a:usrsctp_project:usrsctp"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5810",
-  "vname": "my referer",
-  "vcpe": "cpe:/:my_referer",
-  "pid": "11801",
-  "pname": "my referer",
-  "pcpe": "cpe:/a:my_referer:my_referer"
+	"vid": "5810",
+	"vname": "my referer",
+	"vcpe": "cpe:/:my_referer",
+	"pid": "11801",
+	"pname": "my referer",
+	"pcpe": "cpe:/a:my_referer:my_referer"
 }

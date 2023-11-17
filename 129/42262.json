@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "42262",
-  "pname": "Hitachi Ops Center Common Services",
-  "pcpe": "cpe:/a:hitachi:hitachi_ops_center_common_services"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "42262",
+	"pname": "Hitachi Ops Center Common Services",
+	"pcpe": "cpe:/a:hitachi:hitachi_ops_center_common_services"
 }

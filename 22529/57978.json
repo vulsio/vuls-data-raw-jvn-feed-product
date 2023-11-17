@@ -1,8 +1,8 @@
 {
-  "vid": "22529",
-  "vname": "std42",
-  "vcpe": "cpe:/:std42",
-  "pid": "57978",
-  "pname": "elfinder",
-  "pcpe": "cpe:/a:std42:elfinder"
+	"vid": "22529",
+	"vname": "std42",
+	"vcpe": "cpe:/:std42",
+	"pid": "57978",
+	"pname": "elfinder",
+	"pcpe": "cpe:/a:std42:elfinder"
 }

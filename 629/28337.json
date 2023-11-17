@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "28337",
-  "pname": "AWK-6232 ファームウェア",
-  "pcpe": "cpe:/o:moxa:awk-6232_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "28337",
+	"pname": "AWK-6232 ファームウェア",
+	"pcpe": "cpe:/o:moxa:awk-6232_firmware"
 }

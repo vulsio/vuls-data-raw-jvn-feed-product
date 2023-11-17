@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "59333",
-  "pname": "desigo pxc3 ファームウェア",
-  "pcpe": "cpe:/o:siemens:desigo_pxc3_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "59333",
+	"pname": "desigo pxc3 ファームウェア",
+	"pcpe": "cpe:/o:siemens:desigo_pxc3_firmware"
 }

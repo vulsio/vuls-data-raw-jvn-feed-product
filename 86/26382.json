@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "26382",
-  "pname": "WZR-450HP-UB ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wzr-450hp-ub_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "26382",
+	"pname": "WZR-450HP-UB ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wzr-450hp-ub_firmware"
 }

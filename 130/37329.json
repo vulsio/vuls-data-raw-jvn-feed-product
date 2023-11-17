@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "37329",
-  "pname": "Intel ファームウェア",
-  "pcpe": "cpe:/o:intel:firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "37329",
+	"pname": "Intel ファームウェア",
+	"pcpe": "cpe:/o:intel:firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16854",
-  "vname": "YouPHPTube",
-  "vcpe": "cpe:/:youphptube",
-  "pid": "41324",
-  "pname": "YouPHPTube Encoder",
-  "pcpe": "cpe:/a:youphptube:youphptube_encoder"
+	"vid": "16854",
+	"vname": "YouPHPTube",
+	"vcpe": "cpe:/:youphptube",
+	"pid": "41324",
+	"pname": "YouPHPTube Encoder",
+	"pcpe": "cpe:/a:youphptube:youphptube_encoder"
 }

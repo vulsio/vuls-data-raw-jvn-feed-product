@@ -1,8 +1,8 @@
 {
-  "vid": "17695",
-  "vname": "podcast channels project",
-  "vcpe": "cpe:/:podcast_channels_project",
-  "pid": "42506",
-  "pname": "Podcast Channels",
-  "pcpe": "cpe:/a:podcast_channels_project:podcast_channels"
+	"vid": "17695",
+	"vname": "podcast channels project",
+	"vcpe": "cpe:/:podcast_channels_project",
+	"pid": "42506",
+	"pname": "Podcast Channels",
+	"pcpe": "cpe:/a:podcast_channels_project:podcast_channels"
 }

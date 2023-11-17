@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "46800",
-  "pname": "Shared Objects Plugin",
-  "pcpe": "cpe:/a:jenkins:shared_objects"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "46800",
+	"pname": "Shared Objects Plugin",
+	"pcpe": "cpe:/a:jenkins:shared_objects"
 }

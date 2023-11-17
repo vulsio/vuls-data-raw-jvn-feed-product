@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "41508",
-  "pname": "MELSEC-L シリーズ CPU ユニット",
-  "pcpe": "cpe:/a:mitsubishielectric:melsec-l_series_cpu_unit"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "41508",
+	"pname": "MELSEC-L シリーズ CPU ユニット",
+	"pcpe": "cpe:/a:mitsubishielectric:melsec-l_series_cpu_unit"
 }

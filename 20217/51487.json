@@ -1,8 +1,8 @@
 {
-  "vid": "20217",
-  "vname": "irislink",
-  "vcpe": "cpe:/:irislink",
-  "pid": "51487",
-  "pname": "irisnext",
-  "pcpe": "cpe:/a:irislink:irisnext"
+	"vid": "20217",
+	"vname": "irislink",
+	"vcpe": "cpe:/:irislink",
+	"pid": "51487",
+	"pname": "irisnext",
+	"pcpe": "cpe:/a:irislink:irisnext"
 }

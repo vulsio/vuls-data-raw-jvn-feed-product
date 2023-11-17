@@ -1,8 +1,8 @@
 {
-  "vid": "9509",
-  "vname": "SAS",
-  "vcpe": "cpe:/:sas",
-  "pid": "54507",
-  "pname": "SAS/IntrNet",
-  "pcpe": "cpe:/a:sas:sas%2fintrnet"
+	"vid": "9509",
+	"vname": "SAS",
+	"vcpe": "cpe:/:sas",
+	"pid": "54507",
+	"pname": "SAS/IntrNet",
+	"pcpe": "cpe:/a:sas:sas%2fintrnet"
 }

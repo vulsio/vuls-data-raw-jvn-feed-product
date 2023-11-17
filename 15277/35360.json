@@ -1,8 +1,8 @@
 {
-  "vid": "15277",
-  "vname": "OpenAM コンソーシアム",
-  "vcpe": "cpe:/:osstech",
-  "pid": "35360",
-  "pname": "OpenAM",
-  "pcpe": "cpe:/a:osstech:openam"
+	"vid": "15277",
+	"vname": "OpenAM コンソーシアム",
+	"vcpe": "cpe:/:osstech",
+	"pid": "35360",
+	"pname": "OpenAM",
+	"pcpe": "cpe:/a:osstech:openam"
 }

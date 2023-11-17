@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23746",
-  "pname": "Cisco SPA 302D Multi-Line IP Phone",
-  "pcpe": "cpe:/h:cisco:spa_302d"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23746",
+	"pname": "Cisco SPA 302D Multi-Line IP Phone",
+	"pcpe": "cpe:/h:cisco:spa_302d"
 }

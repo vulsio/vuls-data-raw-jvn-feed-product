@@ -1,8 +1,8 @@
 {
-  "vid": "170",
-  "vname": "東芝",
-  "vcpe": "cpe:/:toshiba",
-  "pid": "2106",
-  "pname": "Face Recognition",
-  "pcpe": "cpe:/h:toshiba:face_recognition"
+	"vid": "170",
+	"vname": "東芝",
+	"vcpe": "cpe:/:toshiba",
+	"pid": "2106",
+	"pname": "Face Recognition",
+	"pcpe": "cpe:/h:toshiba:face_recognition"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "19941",
-  "pname": "SINEMA Server",
-  "pcpe": "cpe:/a:siemens:sinema_server"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "19941",
+	"pname": "SINEMA Server",
+	"pcpe": "cpe:/a:siemens:sinema_server"
 }

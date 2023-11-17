@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "32872",
-  "pname": "Job and Node ownership",
-  "pcpe": "cpe:/a:jenkins:job_and_node_ownership"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "32872",
+	"pname": "Job and Node ownership",
+	"pcpe": "cpe:/a:jenkins:job_and_node_ownership"
 }

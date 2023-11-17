@@ -1,8 +1,8 @@
 {
-  "vid": "20814",
-  "vname": "Device42",
-  "vcpe": "cpe:/:device42",
-  "pid": "53080",
-  "pname": "Device42 Remote Collector (RC)",
-  "pcpe": "cpe:/a:device42:remote_collector"
+	"vid": "20814",
+	"vname": "Device42",
+	"vcpe": "cpe:/:device42",
+	"pid": "53080",
+	"pname": "Device42 Remote Collector (RC)",
+	"pcpe": "cpe:/a:device42:remote_collector"
 }

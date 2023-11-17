@@ -1,8 +1,8 @@
 {
-  "vid": "9696",
-  "vname": "Mail On Update Project",
-  "vcpe": "cpe:/:mail_on_update_project",
-  "pid": "20180",
-  "pname": "Mail On Update",
-  "pcpe": "cpe:/a:mail_on_update_project:mail_on_update"
+	"vid": "9696",
+	"vname": "Mail On Update Project",
+	"vcpe": "cpe:/:mail_on_update_project",
+	"pid": "20180",
+	"pname": "Mail On Update",
+	"pcpe": "cpe:/a:mail_on_update_project:mail_on_update"
 }

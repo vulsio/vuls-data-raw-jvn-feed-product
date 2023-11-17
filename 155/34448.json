@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "34448",
-  "pname": "Common Catalog",
-  "pcpe": "cpe:/a:mcafee:common_catalog"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "34448",
+	"pname": "Common Catalog",
+	"pcpe": "cpe:/a:mcafee:common_catalog"
 }

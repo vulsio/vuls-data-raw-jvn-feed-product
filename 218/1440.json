@@ -1,8 +1,8 @@
 {
-  "vid": "218",
-  "vname": "ヤマハ",
-  "vcpe": "cpe:/:yamaha",
-  "pid": "1440",
-  "pname": "RT250i",
-  "pcpe": "cpe:/h:yamaha:rt250i"
+	"vid": "218",
+	"vname": "ヤマハ",
+	"vcpe": "cpe:/:yamaha",
+	"pid": "1440",
+	"pname": "RT250i",
+	"pcpe": "cpe:/h:yamaha:rt250i"
 }

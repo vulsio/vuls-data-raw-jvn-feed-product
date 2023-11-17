@@ -1,8 +1,8 @@
 {
-  "vid": "4171",
-  "vname": "ARRIS Group",
-  "vcpe": "cpe:/:arris",
-  "pid": "25063",
-  "pname": "TG862G",
-  "pcpe": "cpe:/h:arris:tg862g"
+	"vid": "4171",
+	"vname": "ARRIS Group",
+	"vcpe": "cpe:/:arris",
+	"pid": "25063",
+	"pname": "TG862G",
+	"pcpe": "cpe:/h:arris:tg862g"
 }

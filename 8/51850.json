@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "51850",
-  "pname": "SSHD",
-  "pcpe": "cpe:/a:apache:sshd"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "51850",
+	"pname": "SSHD",
+	"pcpe": "cpe:/a:apache:sshd"
 }

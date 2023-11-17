@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "61328",
-  "pname": "powerprotect cyber recovery",
-  "pcpe": "cpe:/a:dell:powerprotect_cyber_recovery"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "61328",
+	"pname": "powerprotect cyber recovery",
+	"pcpe": "cpe:/a:dell:powerprotect_cyber_recovery"
 }

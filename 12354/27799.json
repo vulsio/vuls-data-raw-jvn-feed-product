@@ -1,8 +1,8 @@
 {
-  "vid": "12354",
-  "vname": "Aerospike, Inc.",
-  "vcpe": "cpe:/:aerospike",
-  "pid": "27799",
-  "pname": "Aerospike Database Server",
-  "pcpe": "cpe:/a:aerospike:database_server"
+	"vid": "12354",
+	"vname": "Aerospike, Inc.",
+	"vcpe": "cpe:/:aerospike",
+	"pid": "27799",
+	"pname": "Aerospike Database Server",
+	"pcpe": "cpe:/a:aerospike:database_server"
 }

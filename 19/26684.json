@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "26684",
-  "pname": "Cisco RV180W Wireless-N Multifunction VPN ルータファームウェア",
-  "pcpe": "cpe:/o:cisco:rv180w_vpn_router_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "26684",
+	"pname": "Cisco RV180W Wireless-N Multifunction VPN ルータファームウェア",
+	"pcpe": "cpe:/o:cisco:rv180w_vpn_router_firmware"
 }

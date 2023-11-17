@@ -1,8 +1,8 @@
 {
-  "vid": "701",
-  "vname": "Progea Srl",
-  "vcpe": "cpe:/:progea",
-  "pid": "2931",
-  "pname": "Movicon / PowerHMI",
-  "pcpe": "cpe:/a:progea:movicon_powerhmi"
+	"vid": "701",
+	"vname": "Progea Srl",
+	"vcpe": "cpe:/:progea",
+	"pid": "2931",
+	"pname": "Movicon / PowerHMI",
+	"pcpe": "cpe:/a:progea:movicon_powerhmi"
 }

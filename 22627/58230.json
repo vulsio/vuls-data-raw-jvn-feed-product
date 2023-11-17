@@ -1,8 +1,8 @@
 {
-  "vid": "22627",
-  "vname": "CHRS Interactive",
-  "vcpe": "cpe:/:chrsinteractive",
-  "pid": "58230",
-  "pname": "Simple Tracking",
-  "pcpe": "cpe:/a:chrsinteractive:simple_tracking"
+	"vid": "22627",
+	"vname": "CHRS Interactive",
+	"vcpe": "cpe:/:chrsinteractive",
+	"pid": "58230",
+	"pname": "Simple Tracking",
+	"pcpe": "cpe:/a:chrsinteractive:simple_tracking"
 }

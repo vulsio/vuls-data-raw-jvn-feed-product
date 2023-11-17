@@ -1,8 +1,8 @@
 {
-  "vid": "20349",
-  "vname": "Serverless Offline project",
-  "vcpe": "cpe:/:serverless_offline_project",
-  "pid": "51883",
-  "pname": "Serverless Offline",
-  "pcpe": "cpe:/a:serverless_offline_project:serverless_offline"
+	"vid": "20349",
+	"vname": "Serverless Offline project",
+	"vcpe": "cpe:/:serverless_offline_project",
+	"pid": "51883",
+	"pname": "Serverless Offline",
+	"pcpe": "cpe:/a:serverless_offline_project:serverless_offline"
 }

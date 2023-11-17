@@ -1,8 +1,8 @@
 {
-  "vid": "19893",
-  "vname": "Ambarella",
-  "vcpe": "cpe:/:ambarella",
-  "pid": "50271",
-  "pname": "Oryx RTSP Server",
-  "pcpe": "cpe:/a:ambarella:oryx_rtsp_server"
+	"vid": "19893",
+	"vname": "Ambarella",
+	"vcpe": "cpe:/:ambarella",
+	"pid": "50271",
+	"pname": "Oryx RTSP Server",
+	"pcpe": "cpe:/a:ambarella:oryx_rtsp_server"
 }

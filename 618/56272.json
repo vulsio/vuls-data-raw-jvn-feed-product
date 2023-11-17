@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "56272",
-  "pname": "DeviceOn/SQ Manager",
-  "pcpe": "cpe:/a:advantech:sq_manager"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "56272",
+	"pname": "DeviceOn/SQ Manager",
+	"pcpe": "cpe:/a:advantech:sq_manager"
 }

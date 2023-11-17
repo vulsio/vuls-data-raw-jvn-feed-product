@@ -1,8 +1,8 @@
 {
-  "vid": "11509",
-  "vname": "Pexip",
-  "vcpe": "cpe:/:pexip",
-  "pid": "46692",
-  "pname": "Reverse Proxy and TURN Server",
-  "pcpe": "cpe:/a:pexip:reverse_proxy_and_turn_server"
+	"vid": "11509",
+	"vname": "Pexip",
+	"vcpe": "cpe:/:pexip",
+	"pid": "46692",
+	"pname": "Reverse Proxy and TURN Server",
+	"pcpe": "cpe:/a:pexip:reverse_proxy_and_turn_server"
 }

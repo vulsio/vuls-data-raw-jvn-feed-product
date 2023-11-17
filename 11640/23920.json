@@ -1,8 +1,8 @@
 {
-  "vid": "11640",
-  "vname": "DLC Solutions",
-  "vcpe": "cpe:/:dlc_solutions",
-  "pid": "23920",
-  "pname": "Course",
-  "pcpe": "cpe:/a:dlc_solutions:course"
+	"vid": "11640",
+	"vname": "DLC Solutions",
+	"vcpe": "cpe:/:dlc_solutions",
+	"pid": "23920",
+	"pname": "Course",
+	"pcpe": "cpe:/a:dlc_solutions:course"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19366",
-  "vname": "Vela",
-  "vcpe": "cpe:/:go-vela",
-  "pid": "48769",
-  "pname": "Vela",
-  "pcpe": "cpe:/a:go-vela:vela"
+	"vid": "19366",
+	"vname": "Vela",
+	"vcpe": "cpe:/:go-vela",
+	"pid": "48769",
+	"pname": "Vela",
+	"pcpe": "cpe:/a:go-vela:vela"
 }

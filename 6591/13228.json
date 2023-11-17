@@ -1,8 +1,8 @@
 {
-  "vid": "6591",
-  "vname": "PayPal",
-  "vcpe": "cpe:/:paypal",
-  "pid": "13228",
-  "pname": "PayPal Mass Pay",
-  "pcpe": "cpe:/a:paypal:mass_pay"
+	"vid": "6591",
+	"vname": "PayPal",
+	"vcpe": "cpe:/:paypal",
+	"pid": "13228",
+	"pname": "PayPal Mass Pay",
+	"pcpe": "cpe:/a:paypal:mass_pay"
 }

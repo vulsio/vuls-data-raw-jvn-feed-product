@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "15560",
-  "pname": "trend micro internet security pro",
-  "pcpe": "cpe:/a:trendmicro:trend_micro_internet_security_pro"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "15560",
+	"pname": "trend micro internet security pro",
+	"pcpe": "cpe:/a:trendmicro:trend_micro_internet_security_pro"
 }

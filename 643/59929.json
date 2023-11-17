@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "59929",
-  "pname": "inspiron 5575 ファームウェア",
-  "pcpe": "cpe:/o:dell:inspiron_5575_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "59929",
+	"pname": "inspiron 5575 ファームウェア",
+	"pcpe": "cpe:/o:dell:inspiron_5575_firmware"
 }

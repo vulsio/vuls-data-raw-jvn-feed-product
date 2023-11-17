@@ -1,8 +1,8 @@
 {
-  "vid": "24702",
-  "vname": "buddystream project",
-  "vcpe": "cpe:/:buddystream_project",
-  "pid": "64060",
-  "pname": "buddystream",
-  "pcpe": "cpe:/a:buddystream_project:buddystream"
+	"vid": "24702",
+	"vname": "buddystream project",
+	"vcpe": "cpe:/:buddystream_project",
+	"pid": "64060",
+	"pname": "buddystream",
+	"pcpe": "cpe:/a:buddystream_project:buddystream"
 }

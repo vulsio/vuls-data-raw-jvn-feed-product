@@ -1,8 +1,8 @@
 {
-  "vid": "21465",
-  "vname": "assimp",
-  "vcpe": "cpe:/:assimp",
-  "pid": "55087",
-  "pname": "assimp",
-  "pcpe": "cpe:/a:assimp:assimp"
+	"vid": "21465",
+	"vname": "assimp",
+	"vcpe": "cpe:/:assimp",
+	"pid": "55087",
+	"pname": "assimp",
+	"pcpe": "cpe:/a:assimp:assimp"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "59078",
-  "pname": "flex-15iml ファームウェア",
-  "pcpe": "cpe:/o:lenovo:flex-15iml_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "59078",
+	"pname": "flex-15iml ファームウェア",
+	"pcpe": "cpe:/o:lenovo:flex-15iml_firmware"
 }

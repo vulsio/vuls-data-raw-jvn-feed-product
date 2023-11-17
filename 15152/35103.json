@@ -1,8 +1,8 @@
 {
-  "vid": "15152",
-  "vname": "node-macaddress project",
-  "vcpe": "cpe:/:node-macaddress_project",
-  "pid": "35103",
-  "pname": "node-macaddress",
-  "pcpe": "cpe:/a:node-macaddress_project:node-macaddress"
+	"vid": "15152",
+	"vname": "node-macaddress project",
+	"vcpe": "cpe:/:node-macaddress_project",
+	"pid": "35103",
+	"pname": "node-macaddress",
+	"pcpe": "cpe:/a:node-macaddress_project:node-macaddress"
 }

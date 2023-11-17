@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30221",
-  "pname": "IdeaCentre 300S-11ISH ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideacentre_300s-11ish_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30221",
+	"pname": "IdeaCentre 300S-11ISH ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideacentre_300s-11ish_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "66",
-  "vname": "XOOPS",
-  "vcpe": "cpe:/:xoops",
-  "pid": "16383",
-  "pname": "Uploader",
-  "pcpe": "cpe:/a:xoops:uploader"
+	"vid": "66",
+	"vname": "XOOPS",
+	"vcpe": "cpe:/:xoops",
+	"pid": "16383",
+	"pname": "Uploader",
+	"pcpe": "cpe:/a:xoops:uploader"
 }

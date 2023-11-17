@@ -1,8 +1,8 @@
 {
-  "vid": "4906",
-  "vname": "The Jamroom Network",
-  "vcpe": "cpe:/:jamroom",
-  "pid": "18792",
-  "pname": "Search",
-  "pcpe": "cpe:/a:jamroom:search_module"
+	"vid": "4906",
+	"vname": "The Jamroom Network",
+	"vcpe": "cpe:/:jamroom",
+	"pid": "18792",
+	"pname": "Search",
+	"pcpe": "cpe:/a:jamroom:search_module"
 }

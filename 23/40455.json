@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "40455",
-  "pname": "Symantec Management Center",
-  "pcpe": "cpe:/a:symantec:management_center"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "40455",
+	"pname": "Symantec Management Center",
+	"pcpe": "cpe:/a:symantec:management_center"
 }

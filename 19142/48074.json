@@ -1,8 +1,8 @@
 {
-  "vid": "19142",
-  "vname": "Lucee",
-  "vcpe": "cpe:/:lucee",
-  "pid": "48074",
-  "pname": "Lucee Server",
-  "pcpe": "cpe:/a:lucee:lucee_server"
+	"vid": "19142",
+	"vname": "Lucee",
+	"vcpe": "cpe:/:lucee",
+	"pid": "48074",
+	"pname": "Lucee Server",
+	"pcpe": "cpe:/a:lucee:lucee_server"
 }

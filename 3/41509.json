@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "41509",
-  "pname": "389 Directory Server",
-  "pcpe": "cpe:/o:redhat:389_directory_server"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "41509",
+	"pname": "389 Directory Server",
+	"pcpe": "cpe:/o:redhat:389_directory_server"
 }

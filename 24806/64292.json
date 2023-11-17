@@ -1,8 +1,8 @@
 {
-  "vid": "24806",
-  "vname": "cention-chatserver project",
-  "vcpe": "cpe:/:cention-chatserver_project",
-  "pid": "64292",
-  "pname": "cention-chatserver",
-  "pcpe": "cpe:/a:cention-chatserver_project:cention-chatserver"
+	"vid": "24806",
+	"vname": "cention-chatserver project",
+	"vcpe": "cpe:/:cention-chatserver_project",
+	"pid": "64292",
+	"pname": "cention-chatserver",
+	"pcpe": "cpe:/a:cention-chatserver_project:cention-chatserver"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18044",
-  "vname": "NETSAS",
-  "vcpe": "cpe:/:netsas",
-  "pid": "43877",
-  "pname": "Enigma NMS",
-  "pcpe": "cpe:/a:netsas:enigma_network_management_solution"
+	"vid": "18044",
+	"vname": "NETSAS",
+	"vcpe": "cpe:/:netsas",
+	"pid": "43877",
+	"pname": "Enigma NMS",
+	"pcpe": "cpe:/a:netsas:enigma_network_management_solution"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3942",
-  "vname": "geoip",
-  "vcpe": "cpe:/:geoip",
-  "pid": "8379",
-  "pname": "geoip",
-  "pcpe": "cpe:/a:geoip:geoip"
+	"vid": "3942",
+	"vname": "geoip",
+	"vcpe": "cpe:/:geoip",
+	"pid": "8379",
+	"pname": "geoip",
+	"pcpe": "cpe:/a:geoip:geoip"
 }

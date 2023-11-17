@@ -1,8 +1,8 @@
 {
-  "vid": "1648",
-  "vname": "Pentaho Corporation",
-  "vcpe": "cpe:/:pentaho",
-  "pid": "24854",
-  "pname": "Business Analytics (BA) Suite",
-  "pcpe": "cpe:/a:pentaho:business_analytics"
+	"vid": "1648",
+	"vname": "Pentaho Corporation",
+	"vcpe": "cpe:/:pentaho",
+	"pid": "24854",
+	"pname": "Business Analytics (BA) Suite",
+	"pcpe": "cpe:/a:pentaho:business_analytics"
 }

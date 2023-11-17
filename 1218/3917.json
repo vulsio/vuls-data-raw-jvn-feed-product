@@ -1,8 +1,8 @@
 {
-  "vid": "1218",
-  "vname": "UTC Fire & Security",
-  "vcpe": "cpe:/:utc",
-  "pid": "3917",
-  "pname": "GE-MC100-NTP/GPS-ZB",
-  "pcpe": "cpe:/a:utc:utc_fire_%26_security_ge-mc100-ntp%2Fgps-zb_master_clock_device"
+	"vid": "1218",
+	"vname": "UTC Fire & Security",
+	"vcpe": "cpe:/:utc",
+	"pid": "3917",
+	"pname": "GE-MC100-NTP/GPS-ZB",
+	"pcpe": "cpe:/a:utc:utc_fire_%26_security_ge-mc100-ntp%2Fgps-zb_master_clock_device"
 }

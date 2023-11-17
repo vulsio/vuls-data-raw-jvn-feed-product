@@ -1,8 +1,8 @@
 {
-  "vid": "14769",
-  "vname": "libpff project",
-  "vcpe": "cpe:/:libpff_project",
-  "pid": "34580",
-  "pname": "libpff",
-  "pcpe": "cpe:/a:libpff_project:libpff"
+	"vid": "14769",
+	"vname": "libpff project",
+	"vcpe": "cpe:/:libpff_project",
+	"pid": "34580",
+	"pname": "libpff",
+	"pcpe": "cpe:/a:libpff_project:libpff"
 }

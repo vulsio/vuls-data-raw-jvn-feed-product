@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4490",
-  "pname": "Tivoli Storage Manager FastBack",
-  "pcpe": "cpe:/a:ibm:tivoli_storage_manager_fastback"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4490",
+	"pname": "Tivoli Storage Manager FastBack",
+	"pcpe": "cpe:/a:ibm:tivoli_storage_manager_fastback"
 }

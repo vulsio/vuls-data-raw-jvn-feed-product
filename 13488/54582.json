@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "54582",
-  "pname": "Zoom Rooms for Conference Rooms",
-  "pcpe": "cpe:/a:zoom:rooms_for_conference_rooms"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "54582",
+	"pname": "Zoom Rooms for Conference Rooms",
+	"pcpe": "cpe:/a:zoom:rooms_for_conference_rooms"
 }

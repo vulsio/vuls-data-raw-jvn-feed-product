@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "15421",
-  "pname": "mainframe service tracker",
-  "pcpe": "cpe:/a:tibco:mainframe_service_tracker"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "15421",
+	"pname": "mainframe service tracker",
+	"pcpe": "cpe:/a:tibco:mainframe_service_tracker"
 }

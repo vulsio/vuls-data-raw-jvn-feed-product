@@ -1,8 +1,8 @@
 {
-  "vid": "18182",
-  "vname": "eten Technologies",
-  "vcpe": "cpe:/:etentech",
-  "pid": "44331",
-  "pname": "PSG-6528VM ファームウェア",
-  "pcpe": "cpe:/o:etentech:psg-6528vm_firmware"
+	"vid": "18182",
+	"vname": "eten Technologies",
+	"vcpe": "cpe:/:etentech",
+	"pid": "44331",
+	"pname": "PSG-6528VM ファームウェア",
+	"pcpe": "cpe:/o:etentech:psg-6528vm_firmware"
 }

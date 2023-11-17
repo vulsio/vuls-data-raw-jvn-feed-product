@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "32608",
-  "pname": "HPE Moonshot Provisioning Manager Appliance",
-  "pcpe": "cpe:/a:hp:moonshot_provisioning_manager_appliance"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "32608",
+	"pname": "HPE Moonshot Provisioning Manager Appliance",
+	"pcpe": "cpe:/a:hp:moonshot_provisioning_manager_appliance"
 }

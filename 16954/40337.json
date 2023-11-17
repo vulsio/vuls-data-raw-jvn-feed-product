@@ -1,8 +1,8 @@
 {
-  "vid": "16954",
-  "vname": "Formidable Forms",
-  "vcpe": "cpe:/:formidableforms",
-  "pid": "40337",
-  "pname": "Formidable Forms Builder",
-  "pcpe": "cpe:/a:formidableforms:formidable"
+	"vid": "16954",
+	"vname": "Formidable Forms",
+	"vcpe": "cpe:/:formidableforms",
+	"pid": "40337",
+	"pname": "Formidable Forms Builder",
+	"pcpe": "cpe:/a:formidableforms:formidable"
 }

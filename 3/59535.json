@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "59535",
-  "pname": "ignition",
-  "pcpe": "cpe:/a:redhat:ignition"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "59535",
+	"pname": "ignition",
+	"pcpe": "cpe:/a:redhat:ignition"
 }

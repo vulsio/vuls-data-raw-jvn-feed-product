@@ -1,8 +1,8 @@
 {
-  "vid": "13853",
-  "vname": "TitanHQ",
-  "vcpe": "cpe:/:titanhq",
-  "pid": "42011",
-  "pname": "WebTitan",
-  "pcpe": "cpe:/a:titanhq:webtitan"
+	"vid": "13853",
+	"vname": "TitanHQ",
+	"vcpe": "cpe:/:titanhq",
+	"pid": "42011",
+	"pname": "WebTitan",
+	"pcpe": "cpe:/a:titanhq:webtitan"
 }

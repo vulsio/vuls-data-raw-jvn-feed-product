@@ -1,8 +1,8 @@
 {
-  "vid": "8797",
-  "vname": "NetIQ",
-  "vcpe": "cpe:/:netiq",
-  "pid": "25862",
-  "pname": "Self Service Password Reset",
-  "pcpe": "cpe:/a:netiq:self_service_password_reset"
+	"vid": "8797",
+	"vname": "NetIQ",
+	"vcpe": "cpe:/:netiq",
+	"pid": "25862",
+	"pname": "Self Service Password Reset",
+	"pcpe": "cpe:/a:netiq:self_service_password_reset"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20807",
-  "vname": "Gravitational, Inc.",
-  "vcpe": "cpe:/:goteleport",
-  "pid": "53065",
-  "pname": "Teleport",
-  "pcpe": "cpe:/a:goteleport:teleport"
+	"vid": "20807",
+	"vname": "Gravitational, Inc.",
+	"vcpe": "cpe:/:goteleport",
+	"pid": "53065",
+	"pname": "Teleport",
+	"pcpe": "cpe:/a:goteleport:teleport"
 }

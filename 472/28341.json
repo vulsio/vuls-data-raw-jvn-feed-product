@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "28341",
-  "pname": "Allen-Bradley MicroLogix 1100 1763-L16AWA Series A",
-  "pcpe": "cpe:/a:rockwellautomation:1763-l16awa_series_a"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "28341",
+	"pname": "Allen-Bradley MicroLogix 1100 1763-L16AWA Series A",
+	"pcpe": "cpe:/a:rockwellautomation:1763-l16awa_series_a"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11421",
-  "vname": "VDG Security B.V.",
-  "vcpe": "cpe:/:vdgsecurity",
-  "pid": "23206",
-  "pname": "VDG Sense",
-  "pcpe": "cpe:/a:vdgsecurity:vdg_sense"
+	"vid": "11421",
+	"vname": "VDG Security B.V.",
+	"vcpe": "cpe:/:vdgsecurity",
+	"pid": "23206",
+	"pname": "VDG Sense",
+	"pcpe": "cpe:/a:vdgsecurity:vdg_sense"
 }

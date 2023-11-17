@@ -1,8 +1,8 @@
 {
-  "vid": "13445",
-  "vname": "Fossil",
-  "vcpe": "cpe:/:fossil_scm",
-  "pid": "31716",
-  "pname": "Fossil",
-  "pcpe": "cpe:/a:fossil_scm:fossil"
+	"vid": "13445",
+	"vname": "Fossil",
+	"vcpe": "cpe:/:fossil_scm",
+	"pid": "31716",
+	"pname": "Fossil",
+	"pcpe": "cpe:/a:fossil_scm:fossil"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23416",
-  "vname": "Dynamic Web Lab",
-  "vcpe": "cpe:/:dynamicweblab",
-  "pid": "60690",
-  "pname": "WordPress Team Manager",
-  "pcpe": "cpe:/a:dynamicweblab:wp-team-manager"
+	"vid": "23416",
+	"vname": "Dynamic Web Lab",
+	"vcpe": "cpe:/:dynamicweblab",
+	"pid": "60690",
+	"pname": "WordPress Team Manager",
+	"pcpe": "cpe:/a:dynamicweblab:wp-team-manager"
 }

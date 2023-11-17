@@ -1,8 +1,8 @@
 {
-  "vid": "16897",
-  "vname": "hbwsl",
-  "vcpe": "cpe:/:hbwsl",
-  "pid": "40208",
-  "pname": "SlideDeck 2",
-  "pcpe": "cpe:/a:hbwsl:slidedeck_2"
+	"vid": "16897",
+	"vname": "hbwsl",
+	"vcpe": "cpe:/:hbwsl",
+	"pid": "40208",
+	"pname": "SlideDeck 2",
+	"pcpe": "cpe:/a:hbwsl:slidedeck_2"
 }

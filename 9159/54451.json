@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "54451",
-  "pname": "MRI 3T ファームウェア",
-  "pcpe": "cpe:/o:philips:mri_3t_firmware"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "54451",
+	"pname": "MRI 3T ファームウェア",
+	"pcpe": "cpe:/o:philips:mri_3t_firmware"
 }

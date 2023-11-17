@@ -1,8 +1,8 @@
 {
-  "vid": "24780",
-  "vname": "wut",
-  "vcpe": "cpe:/:wut",
-  "pid": "64249",
-  "pname": "com-server highspeed office 1port ファームウェア",
-  "pcpe": "cpe:/o:wut:com-server_highspeed_office_1port_firmware"
+	"vid": "24780",
+	"vname": "wut",
+	"vcpe": "cpe:/:wut",
+	"pid": "64249",
+	"pname": "com-server highspeed office 1port ファームウェア",
+	"pcpe": "cpe:/o:wut:com-server_highspeed_office_1port_firmware"
 }

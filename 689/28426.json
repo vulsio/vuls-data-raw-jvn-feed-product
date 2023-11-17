@@ -1,8 +1,8 @@
 {
-  "vid": "689",
-  "vname": "MantisBT Group",
-  "vcpe": "cpe:/:mantisbt",
-  "pid": "28426",
-  "pname": "Mantis Source Integration",
-  "pcpe": "cpe:/a:mantisbt:mantisbt_source_integration_plugin"
+	"vid": "689",
+	"vname": "MantisBT Group",
+	"vcpe": "cpe:/:mantisbt",
+	"pid": "28426",
+	"pname": "Mantis Source Integration",
+	"pcpe": "cpe:/a:mantisbt:mantisbt_source_integration_plugin"
 }

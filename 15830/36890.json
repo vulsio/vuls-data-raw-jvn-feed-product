@@ -1,8 +1,8 @@
 {
-  "vid": "15830",
-  "vname": "jQuery-File-Upload project",
-  "vcpe": "cpe:/:jquery-file-upload_project",
-  "pid": "36890",
-  "pname": "jQuery-File-Upload",
-  "pcpe": "cpe:/a:jquery-file-upload_project:jquery-file-upload"
+	"vid": "15830",
+	"vname": "jQuery-File-Upload project",
+	"vcpe": "cpe:/:jquery-file-upload_project",
+	"pid": "36890",
+	"pname": "jQuery-File-Upload",
+	"pcpe": "cpe:/a:jquery-file-upload_project:jquery-file-upload"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "840",
-  "pname": "WebSAM SystemManager",
-  "pcpe": "cpe:/a:nec:websam_systemmanager"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "840",
+	"pname": "WebSAM SystemManager",
+	"pcpe": "cpe:/a:nec:websam_systemmanager"
 }

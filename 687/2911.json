@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "2911",
-  "pname": "TIBCO Managed File Transfer Command Center",
-  "pcpe": "cpe:/a:tibco:managed_file_transfer_command_center"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "2911",
+	"pname": "TIBCO Managed File Transfer Command Center",
+	"pcpe": "cpe:/a:tibco:managed_file_transfer_command_center"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20433",
-  "pname": "IBM OpenPages GRC プラットフォーム",
-  "pcpe": "cpe:/a:ibm:openpages_grc_platform"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20433",
+	"pname": "IBM OpenPages GRC プラットフォーム",
+	"pcpe": "cpe:/a:ibm:openpages_grc_platform"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18043",
-  "vname": "トヨタ自動車",
-  "vcpe": "cpe:/:toyota",
-  "pid": "43866",
-  "pname": "Cars",
-  "pcpe": "cpe:/a:toyota:cars"
+	"vid": "18043",
+	"vname": "トヨタ自動車",
+	"vcpe": "cpe:/:toyota",
+	"pid": "43866",
+	"pname": "Cars",
+	"pcpe": "cpe:/a:toyota:cars"
 }

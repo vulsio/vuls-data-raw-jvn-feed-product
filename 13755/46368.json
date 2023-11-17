@@ -1,8 +1,8 @@
 {
-  "vid": "13755",
-  "vname": "Hyland Software Inc.",
-  "vcpe": "cpe:/:hyland",
-  "pid": "46368",
-  "pname": "OnBase",
-  "pcpe": "cpe:/a:hyland:onbase"
+	"vid": "13755",
+	"vname": "Hyland Software Inc.",
+	"vcpe": "cpe:/:hyland",
+	"pid": "46368",
+	"pname": "OnBase",
+	"pcpe": "cpe:/a:hyland:onbase"
 }

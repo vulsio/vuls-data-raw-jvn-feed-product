@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "24014",
-  "pname": "SAP Sybase Unwired Platform Online Data Proxy",
-  "pcpe": "cpe:/a:sap:sybase_unwired_platform_online_data_proxy"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "24014",
+	"pname": "SAP Sybase Unwired Platform Online Data Proxy",
+	"pcpe": "cpe:/a:sap:sybase_unwired_platform_online_data_proxy"
 }

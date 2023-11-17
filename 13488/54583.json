@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "54583",
-  "pname": "Controllers for Zoom Rooms",
-  "pcpe": "cpe:/a:zoom:controllers_for_zoom_rooms"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "54583",
+	"pname": "Controllers for Zoom Rooms",
+	"pcpe": "cpe:/a:zoom:controllers_for_zoom_rooms"
 }

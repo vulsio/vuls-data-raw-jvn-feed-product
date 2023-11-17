@@ -1,8 +1,8 @@
 {
-  "vid": "1869",
-  "vname": "Seagate Technology LLC",
-  "vcpe": "cpe:/:seagate",
-  "pid": "19125",
-  "pname": "BlackArmor NAS 220",
-  "pcpe": "cpe:/h:seagate:blackarmor_nas_220"
+	"vid": "1869",
+	"vname": "Seagate Technology LLC",
+	"vcpe": "cpe:/:seagate",
+	"pid": "19125",
+	"pname": "BlackArmor NAS 220",
+	"pcpe": "cpe:/h:seagate:blackarmor_nas_220"
 }

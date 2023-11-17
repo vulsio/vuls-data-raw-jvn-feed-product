@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25520",
-  "pname": "JF431C HP 12508 AC Switch Chassis",
-  "pcpe": "cpe:/h:hp:jf431c_hp_12508_ac_switch_chassis"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25520",
+	"pname": "JF431C HP 12508 AC Switch Chassis",
+	"pcpe": "cpe:/h:hp:jf431c_hp_12508_ac_switch_chassis"
 }

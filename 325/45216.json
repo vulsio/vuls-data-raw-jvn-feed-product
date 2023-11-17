@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45216",
-  "pname": "130-14IKB ファームウェア",
-  "pcpe": "cpe:/o:lenovo:130-14ikb_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45216",
+	"pname": "130-14IKB ファームウェア",
+	"pcpe": "cpe:/o:lenovo:130-14ikb_firmware"
 }

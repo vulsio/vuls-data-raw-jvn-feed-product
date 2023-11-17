@@ -1,8 +1,8 @@
 {
-  "vid": "4360",
-  "vname": "ウェブセンス",
-  "vcpe": "cpe:/:websense",
-  "pid": "16101",
-  "pname": "reporting tools",
-  "pcpe": "cpe:/a:websense:reporting_tools"
+	"vid": "4360",
+	"vname": "ウェブセンス",
+	"vcpe": "cpe:/:websense",
+	"pid": "16101",
+	"pname": "reporting tools",
+	"pcpe": "cpe:/a:websense:reporting_tools"
 }

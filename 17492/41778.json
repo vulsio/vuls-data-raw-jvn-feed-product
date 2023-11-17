@@ -1,8 +1,8 @@
 {
-  "vid": "17492",
-  "vname": "cookie-signature project",
-  "vcpe": "cpe:/:cookie-signature_project",
-  "pid": "41778",
-  "pname": "cookie-signature",
-  "pcpe": "cpe:/a:cookie-signature_project:cookie-signature"
+	"vid": "17492",
+	"vname": "cookie-signature project",
+	"vcpe": "cpe:/:cookie-signature_project",
+	"pid": "41778",
+	"pname": "cookie-signature",
+	"pcpe": "cpe:/a:cookie-signature_project:cookie-signature"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "40423",
-  "pname": "AIO520-22IKU ファームウェア",
-  "pcpe": "cpe:/o:lenovo:aio520-22iku_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "40423",
+	"pname": "AIO520-22IKU ファームウェア",
+	"pcpe": "cpe:/o:lenovo:aio520-22iku_firmware"
 }

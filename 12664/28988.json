@@ -1,8 +1,8 @@
 {
-  "vid": "12664",
-  "vname": "Ked Password Manager project",
-  "vcpe": "cpe:/:ked_password_manager_project",
-  "pid": "28988",
-  "pname": "kedpm",
-  "pcpe": "cpe:/a:ked_password_manager_project:ked_password_manager"
+	"vid": "12664",
+	"vname": "Ked Password Manager project",
+	"vcpe": "cpe:/:ked_password_manager_project",
+	"pid": "28988",
+	"pname": "kedpm",
+	"pcpe": "cpe:/a:ked_password_manager_project:ked_password_manager"
 }

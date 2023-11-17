@@ -1,8 +1,8 @@
 {
-  "vid": "15582",
-  "vname": "Amcrest",
-  "vcpe": "cpe:/:amcrest",
-  "pid": "42899",
-  "pname": "Web Server",
-  "pcpe": "cpe:/a:amcrest:web_server"
+	"vid": "15582",
+	"vname": "Amcrest",
+	"vcpe": "cpe:/:amcrest",
+	"pid": "42899",
+	"pname": "Web Server",
+	"pcpe": "cpe:/a:amcrest:web_server"
 }

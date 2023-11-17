@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "46392",
-  "pname": "ManageEngine Exchange Reporter Plus",
-  "pcpe": "cpe:/a:zohocorp:manageengine_exchange_reporter_plus"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "46392",
+	"pname": "ManageEngine Exchange Reporter Plus",
+	"pcpe": "cpe:/a:zohocorp:manageengine_exchange_reporter_plus"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "364",
-  "vname": "ハル・ネットワークス",
-  "vcpe": "cpe:/:hal_networks",
-  "pid": "1888",
-  "pname": "Perl/CGI　SHOPタイプ",
-  "pcpe": "cpe:/a:hal_networks:perl__cgi_cart"
+	"vid": "364",
+	"vname": "ハル・ネットワークス",
+	"vcpe": "cpe:/:hal_networks",
+	"pid": "1888",
+	"pname": "Perl/CGI　SHOPタイプ",
+	"pcpe": "cpe:/a:hal_networks:perl__cgi_cart"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4457",
-  "vname": "TRENDnet",
-  "vcpe": "cpe:/:trendnet",
-  "pid": "19504",
-  "pname": "TEW-812DRU",
-  "pcpe": "cpe:/h:trendnet:tew-812dru"
+	"vid": "4457",
+	"vname": "TRENDnet",
+	"vcpe": "cpe:/:trendnet",
+	"pid": "19504",
+	"pname": "TEW-812DRU",
+	"pcpe": "cpe:/h:trendnet:tew-812dru"
 }

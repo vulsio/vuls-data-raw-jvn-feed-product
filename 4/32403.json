@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "32403",
-  "pname": "Latex 370 ファームウェア",
-  "pcpe": "cpe:/o:hp:370_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "32403",
+	"pname": "Latex 370 ファームウェア",
+	"pcpe": "cpe:/o:hp:370_firmware"
 }

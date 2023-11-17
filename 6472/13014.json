@@ -1,8 +1,8 @@
 {
-  "vid": "6472",
-  "vname": "mirbsd",
-  "vcpe": "cpe:/:mirbsd",
-  "pid": "13014",
-  "pname": "miros",
-  "pcpe": "cpe:/o:mirbsd:miros"
+	"vid": "6472",
+	"vname": "mirbsd",
+	"vcpe": "cpe:/:mirbsd",
+	"pid": "13014",
+	"pname": "miros",
+	"pcpe": "cpe:/o:mirbsd:miros"
 }

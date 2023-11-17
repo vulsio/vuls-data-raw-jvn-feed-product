@@ -1,8 +1,8 @@
 {
-  "vid": "1012",
-  "vname": "The Support Incident Tracker Project",
-  "vcpe": "cpe:/:sitracker",
-  "pid": "3774",
-  "pname": "Support Incident Tracker",
-  "pcpe": "cpe:/a:sitracker:support_incident_tracker"
+	"vid": "1012",
+	"vname": "The Support Incident Tracker Project",
+	"vcpe": "cpe:/:sitracker",
+	"pid": "3774",
+	"pname": "Support Incident Tracker",
+	"pcpe": "cpe:/a:sitracker:support_incident_tracker"
 }

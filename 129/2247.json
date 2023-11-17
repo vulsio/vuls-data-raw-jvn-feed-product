@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2247",
-  "pname": "Hitachi Global Link Manager",
-  "pcpe": "cpe:/a:hitachi:global_link_manager"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2247",
+	"pname": "Hitachi Global Link Manager",
+	"pcpe": "cpe:/a:hitachi:global_link_manager"
 }

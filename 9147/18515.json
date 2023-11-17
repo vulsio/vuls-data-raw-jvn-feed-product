@@ -1,8 +1,8 @@
 {
-  "vid": "9147",
-  "vname": "OvisLink",
-  "vcpe": "cpe:/:ovislink",
-  "pid": "18515",
-  "pname": "WL-2600CAM",
-  "pcpe": "cpe:/h:ovislink:airlive_wl2600cam"
+	"vid": "9147",
+	"vname": "OvisLink",
+	"vcpe": "cpe:/:ovislink",
+	"pid": "18515",
+	"pname": "WL-2600CAM",
+	"pcpe": "cpe:/h:ovislink:airlive_wl2600cam"
 }

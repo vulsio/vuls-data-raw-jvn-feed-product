@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "418",
-  "pname": "ATLAS翻訳",
-  "pcpe": "cpe:/a:fujitsu:atlas_translation"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "418",
+	"pname": "ATLAS翻訳",
+	"pcpe": "cpe:/a:fujitsu:atlas_translation"
 }

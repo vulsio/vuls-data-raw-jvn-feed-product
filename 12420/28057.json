@@ -1,8 +1,8 @@
 {
-  "vid": "12420",
-  "vname": "zziplib project",
-  "vcpe": "cpe:/:zziplib_project",
-  "pid": "28057",
-  "pname": "zziplib",
-  "pcpe": "cpe:/a:zziplib_project:zziplib"
+	"vid": "12420",
+	"vname": "zziplib project",
+	"vcpe": "cpe:/:zziplib_project",
+	"pid": "28057",
+	"pname": "zziplib",
+	"pcpe": "cpe:/a:zziplib_project:zziplib"
 }

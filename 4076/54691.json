@@ -1,8 +1,8 @@
 {
-  "vid": "4076",
-  "vname": "Gryphon",
-  "vcpe": "cpe:/:gryphon",
-  "pid": "54691",
-  "pname": "Gryphon Tower ファームウェア",
-  "pcpe": "cpe:/o:gryphon:gryphon_tower_firmware"
+	"vid": "4076",
+	"vname": "Gryphon",
+	"vcpe": "cpe:/:gryphon",
+	"pid": "54691",
+	"pname": "Gryphon Tower ファームウェア",
+	"pcpe": "cpe:/o:gryphon:gryphon_tower_firmware"
 }

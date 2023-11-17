@@ -1,8 +1,8 @@
 {
-  "vid": "14474",
-  "vname": "fastify",
-  "vcpe": "cpe:/:fastify",
-  "pid": "44055",
-  "pname": "fastify-multipart",
-  "pcpe": "cpe:/a:fastify:fastify-multipart"
+	"vid": "14474",
+	"vname": "fastify",
+	"vcpe": "cpe:/:fastify",
+	"pid": "44055",
+	"pname": "fastify-multipart",
+	"pcpe": "cpe:/a:fastify:fastify-multipart"
 }

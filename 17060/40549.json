@@ -1,8 +1,8 @@
 {
-  "vid": "17060",
-  "vname": "ifw8",
-  "vcpe": "cpe:/:ifw8",
-  "pid": "40549",
-  "pname": "FR5-E ファームウェア",
-  "pcpe": "cpe:/o:ifw8:fr5-e_firmware"
+	"vid": "17060",
+	"vname": "ifw8",
+	"vcpe": "cpe:/:ifw8",
+	"pid": "40549",
+	"pname": "FR5-E ファームウェア",
+	"pcpe": "cpe:/o:ifw8:fr5-e_firmware"
 }

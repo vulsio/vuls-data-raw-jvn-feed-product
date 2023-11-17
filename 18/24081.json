@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "24081",
-  "pname": "IBM License Metric Tool",
-  "pcpe": "cpe:/a:ibm:license_metric_tool"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "24081",
+	"pname": "IBM License Metric Tool",
+	"pcpe": "cpe:/a:ibm:license_metric_tool"
 }

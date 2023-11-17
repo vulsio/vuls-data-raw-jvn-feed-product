@@ -1,8 +1,8 @@
 {
-  "vid": "21217",
-  "vname": "日立国際電気",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "54399",
-  "pname": "HC-IP9100HD ファームウェア",
-  "pcpe": "cpe:/o:hitachi:hc-ip9100hd_firmware"
+	"vid": "21217",
+	"vname": "日立国際電気",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "54399",
+	"pname": "HC-IP9100HD ファームウェア",
+	"pcpe": "cpe:/o:hitachi:hc-ip9100hd_firmware"
 }

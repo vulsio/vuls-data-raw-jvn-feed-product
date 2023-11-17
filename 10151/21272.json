@@ -1,8 +1,8 @@
 {
-  "vid": "10151",
-  "vname": "Receivd, Inc.",
-  "vcpe": "cpe:/:kicksend",
-  "pid": "21272",
-  "pname": "Kicksend: ワンタッチで写真共有",
-  "pcpe": "cpe:/a:kicksend:kicksend%3a_share_%26_print_photos"
+	"vid": "10151",
+	"vname": "Receivd, Inc.",
+	"vcpe": "cpe:/:kicksend",
+	"pid": "21272",
+	"pname": "Kicksend: ワンタッチで写真共有",
+	"pcpe": "cpe:/a:kicksend:kicksend%3a_share_%26_print_photos"
 }

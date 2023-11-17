@@ -1,8 +1,8 @@
 {
-  "vid": "8651",
-  "vname": "xrms crm",
-  "vcpe": "cpe:/:xrms_crm",
-  "pid": "16402",
-  "pname": "xrms",
-  "pcpe": "cpe:/a:xrms_crm:xrms"
+	"vid": "8651",
+	"vname": "xrms crm",
+	"vcpe": "cpe:/:xrms_crm",
+	"pid": "16402",
+	"pname": "xrms",
+	"pcpe": "cpe:/a:xrms_crm:xrms"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17829",
-  "vname": "Soapbox project",
-  "vcpe": "cpe:/:soapbox_project",
-  "pid": "42976",
-  "pname": "Soapbox",
-  "pcpe": "cpe:/a:soapbox_project:soapbox"
+	"vid": "17829",
+	"vname": "Soapbox project",
+	"vcpe": "cpe:/:soapbox_project",
+	"pid": "42976",
+	"pname": "Soapbox",
+	"pcpe": "cpe:/a:soapbox_project:soapbox"
 }

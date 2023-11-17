@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "48813",
-  "pname": "QNX Neutrino RTOS Certified Plus",
-  "pcpe": "cpe:/o:blackberry:qnx_neutrino_rtos_certified_plus"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "48813",
+	"pname": "QNX Neutrino RTOS Certified Plus",
+	"pcpe": "cpe:/o:blackberry:qnx_neutrino_rtos_certified_plus"
 }

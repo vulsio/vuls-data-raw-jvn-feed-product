@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "59221",
-  "pname": "arp600a2220na ファームウェア",
-  "pcpe": "cpe:/o:abb:arp600a2220na_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "59221",
+	"pname": "arp600a2220na ファームウェア",
+	"pcpe": "cpe:/o:abb:arp600a2220na_firmware"
 }

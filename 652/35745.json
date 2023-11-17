@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "35745",
-  "pname": "SmartThings Hub STH-ETH-250 ファームウェア",
-  "pcpe": "cpe:/o:samsung:sth-eth-250_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "35745",
+	"pname": "SmartThings Hub STH-ETH-250 ファームウェア",
+	"pcpe": "cpe:/o:samsung:sth-eth-250_firmware"
 }

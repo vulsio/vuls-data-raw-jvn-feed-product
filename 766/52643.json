@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "52643",
-  "pname": "Modicon M580 BMEH582040S",
-  "pcpe": "cpe:/o:schneider_electric:modicon_m580_bmeh582040s"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "52643",
+	"pname": "Modicon M580 BMEH582040S",
+	"pcpe": "cpe:/o:schneider_electric:modicon_m580_bmeh582040s"
 }

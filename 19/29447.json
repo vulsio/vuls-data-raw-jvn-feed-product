@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "29447",
-  "pname": "Cisco Ultra Services Framework",
-  "pcpe": "cpe:/a:cisco:ultra_services_framework"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "29447",
+	"pname": "Cisco Ultra Services Framework",
+	"pcpe": "cpe:/a:cisco:ultra_services_framework"
 }

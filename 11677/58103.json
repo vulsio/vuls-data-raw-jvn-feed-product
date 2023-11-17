@@ -1,8 +1,8 @@
 {
-  "vid": "11677",
-  "vname": "本田技研工業株式会社",
-  "vcpe": "cpe:/:honda",
-  "pid": "58103",
-  "pname": "civic 2018 ファームウェア",
-  "pcpe": "cpe:/o:honda:civic_2018_firmware"
+	"vid": "11677",
+	"vname": "本田技研工業株式会社",
+	"vcpe": "cpe:/:honda",
+	"pid": "58103",
+	"pname": "civic 2018 ファームウェア",
+	"pcpe": "cpe:/o:honda:civic_2018_firmware"
 }

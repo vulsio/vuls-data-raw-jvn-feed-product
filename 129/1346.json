@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1346",
-  "pname": "Cm2/Network Node Manager",
-  "pcpe": "cpe:/a:hitachi:cm2_network_node_manager"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1346",
+	"pname": "Cm2/Network Node Manager",
+	"pcpe": "cpe:/a:hitachi:cm2_network_node_manager"
 }

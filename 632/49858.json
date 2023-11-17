@@ -1,8 +1,8 @@
 {
-  "vid": "632",
-  "vname": "OTRS プロジェクト",
-  "vcpe": "cpe:/:otrs",
-  "pid": "49858",
-  "pname": "ITSMConfigurationManagement",
-  "pcpe": "cpe:/a:otrs:itsmconfigurationmanagement"
+	"vid": "632",
+	"vname": "OTRS プロジェクト",
+	"vcpe": "cpe:/:otrs",
+	"pid": "49858",
+	"pname": "ITSMConfigurationManagement",
+	"pcpe": "cpe:/a:otrs:itsmconfigurationmanagement"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13891",
-  "vname": "Disable Comments project",
-  "vcpe": "cpe:/:disable_comments",
-  "pid": "33010",
-  "pname": "Disable Comments",
-  "pcpe": "cpe:/a:disable_comments:disable_comments_project"
+	"vid": "13891",
+	"vname": "Disable Comments project",
+	"vcpe": "cpe:/:disable_comments",
+	"pid": "33010",
+	"pname": "Disable Comments",
+	"pcpe": "cpe:/a:disable_comments:disable_comments_project"
 }

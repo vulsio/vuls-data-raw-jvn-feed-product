@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3199",
-  "pname": "Cisco SA540 Security Appliance",
-  "pcpe": "cpe:/h:cisco:sa540"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3199",
+	"pname": "Cisco SA540 Security Appliance",
+	"pcpe": "cpe:/h:cisco:sa540"
 }

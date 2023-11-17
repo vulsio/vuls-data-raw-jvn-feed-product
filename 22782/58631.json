@@ -1,8 +1,8 @@
 {
-  "vid": "22782",
-  "vname": "cross-fetch project",
-  "vcpe": "cpe:/:cross-fetch_project",
-  "pid": "58631",
-  "pname": "cross-fetch",
-  "pcpe": "cpe:/a:cross-fetch_project:cross-fetch"
+	"vid": "22782",
+	"vname": "cross-fetch project",
+	"vcpe": "cpe:/:cross-fetch_project",
+	"pid": "58631",
+	"pname": "cross-fetch",
+	"pcpe": "cpe:/a:cross-fetch_project:cross-fetch"
 }

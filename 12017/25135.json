@@ -1,8 +1,8 @@
 {
-  "vid": "12017",
-  "vname": "zTree",
-  "vcpe": "cpe:/:ztree_project",
-  "pid": "25135",
-  "pname": "zTree",
-  "pcpe": "cpe:/a:ztree_project:ztree"
+	"vid": "12017",
+	"vname": "zTree",
+	"vcpe": "cpe:/:ztree_project",
+	"pid": "25135",
+	"pname": "zTree",
+	"pcpe": "cpe:/a:ztree_project:ztree"
 }

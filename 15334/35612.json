@@ -1,8 +1,8 @@
 {
-  "vid": "15334",
-  "vname": "Zipato",
-  "vcpe": "cpe:/:zipato",
-  "pid": "35612",
-  "pname": "Zipabox Firmware",
-  "pcpe": "cpe:/o:zipato:zipabox_firmware"
+	"vid": "15334",
+	"vname": "Zipato",
+	"vcpe": "cpe:/:zipato",
+	"pid": "35612",
+	"pname": "Zipabox Firmware",
+	"pcpe": "cpe:/o:zipato:zipabox_firmware"
 }

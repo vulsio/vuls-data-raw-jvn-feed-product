@@ -1,8 +1,8 @@
 {
-  "vid": "5970",
-  "vname": "Alexander Barton",
-  "vcpe": "cpe:/:barton",
-  "pid": "12014",
-  "pname": "ngIRCd",
-  "pcpe": "cpe:/a:barton:ngircd"
+	"vid": "5970",
+	"vname": "Alexander Barton",
+	"vcpe": "cpe:/:barton",
+	"pid": "12014",
+	"pname": "ngIRCd",
+	"pcpe": "cpe:/a:barton:ngircd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "350",
-  "vname": "T1lib",
-  "vcpe": "cpe:/:t1lib",
-  "pid": "1260",
-  "pname": "T1lib",
-  "pcpe": "cpe:/a:t1lib:t1lib"
+	"vid": "350",
+	"vname": "T1lib",
+	"vcpe": "cpe:/:t1lib",
+	"pid": "1260",
+	"pname": "T1lib",
+	"pcpe": "cpe:/a:t1lib:t1lib"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23973",
-  "pname": "HP TippingPoint Security Management System",
-  "pcpe": "cpe:/a:hp:tippingpoint_virtual_security_management_system"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23973",
+	"pname": "HP TippingPoint Security Management System",
+	"pcpe": "cpe:/a:hp:tippingpoint_virtual_security_management_system"
 }

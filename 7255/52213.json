@@ -1,8 +1,8 @@
 {
-  "vid": "7255",
-  "vname": "Realtek Semiconductor Corp",
-  "vcpe": "cpe:/:realtek",
-  "pid": "52213",
-  "pname": "Jungle SDK",
-  "pcpe": "cpe:/a:realtek:jungle_sdk"
+	"vid": "7255",
+	"vname": "Realtek Semiconductor Corp",
+	"vcpe": "cpe:/:realtek",
+	"pid": "52213",
+	"pname": "Jungle SDK",
+	"pcpe": "cpe:/a:realtek:jungle_sdk"
 }

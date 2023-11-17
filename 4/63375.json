@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63375",
-  "pname": "HP OfficeJet 6951 All-in-One Printer P4C86A ファームウェア",
-  "pcpe": "cpe:/o:hp:p4c86a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63375",
+	"pname": "HP OfficeJet 6951 All-in-One Printer P4C86A ファームウェア",
+	"pcpe": "cpe:/o:hp:p4c86a_firmware"
 }

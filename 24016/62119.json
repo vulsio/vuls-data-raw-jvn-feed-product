@@ -1,8 +1,8 @@
 {
-  "vid": "24016",
-  "vname": "varnish cache project",
-  "vcpe": "cpe:/:varnish_cache_project",
-  "pid": "62119",
-  "pname": "varnish cache",
-  "pcpe": "cpe:/a:varnish_cache_project:varnish_cache"
+	"vid": "24016",
+	"vname": "varnish cache project",
+	"vcpe": "cpe:/:varnish_cache_project",
+	"pid": "62119",
+	"pname": "varnish cache",
+	"pcpe": "cpe:/a:varnish_cache_project:varnish_cache"
 }

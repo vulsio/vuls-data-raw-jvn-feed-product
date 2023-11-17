@@ -1,8 +1,8 @@
 {
-  "vid": "18709",
-  "vname": "CHINA KEY SYSTEM & INTEGRATED CIRCUIT CO., LTD.",
-  "vcpe": "cpe:/:cksic",
-  "pid": "46348",
-  "pname": "CKS32F103 ファームウェア",
-  "pcpe": "cpe:/o:cksic:cks32f103_firmware"
+	"vid": "18709",
+	"vname": "CHINA KEY SYSTEM & INTEGRATED CIRCUIT CO., LTD.",
+	"vcpe": "cpe:/:cksic",
+	"pid": "46348",
+	"pname": "CKS32F103 ファームウェア",
+	"pcpe": "cpe:/o:cksic:cks32f103_firmware"
 }

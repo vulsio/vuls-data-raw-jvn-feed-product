@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "229",
-  "pname": "iChat",
-  "pcpe": "cpe:/a:apple:ichat"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "229",
+	"pname": "iChat",
+	"pcpe": "cpe:/a:apple:ichat"
 }

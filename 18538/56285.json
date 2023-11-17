@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "56285",
-  "pname": "SCADAPack 357E ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:scadapack_357e_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "56285",
+	"pname": "SCADAPack 357E ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:scadapack_357e_firmware"
 }

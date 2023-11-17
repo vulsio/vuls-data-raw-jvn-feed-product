@@ -1,8 +1,8 @@
 {
-  "vid": "983",
-  "vname": "SafeNet, Inc",
-  "vcpe": "cpe:/:safenet-inc",
-  "pid": "14469",
-  "pname": "sentinel protection server",
-  "pcpe": "cpe:/a:safenet-inc:sentinel_protection_server"
+	"vid": "983",
+	"vname": "SafeNet, Inc",
+	"vcpe": "cpe:/:safenet-inc",
+	"pid": "14469",
+	"pname": "sentinel protection server",
+	"pcpe": "cpe:/a:safenet-inc:sentinel_protection_server"
 }

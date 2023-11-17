@@ -1,8 +1,8 @@
 {
-  "vid": "66",
-  "vname": "XOOPS",
-  "vcpe": "cpe:/:xoops",
-  "pid": "16374",
-  "pname": "Library",
-  "pcpe": "cpe:/a:xoops:library_module"
+	"vid": "66",
+	"vname": "XOOPS",
+	"vcpe": "cpe:/:xoops",
+	"pid": "16374",
+	"pname": "Library",
+	"pcpe": "cpe:/a:xoops:library_module"
 }

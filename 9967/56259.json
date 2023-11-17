@@ -1,8 +1,8 @@
 {
-  "vid": "9967",
-  "vname": "Shenzhen Tenda Technology Co.,Ltd.",
-  "vcpe": "cpe:/:tenda",
-  "pid": "56259",
-  "pname": "AX12 ファームウェア",
-  "pcpe": "cpe:/o:tenda:ax12_firmware"
+	"vid": "9967",
+	"vname": "Shenzhen Tenda Technology Co.,Ltd.",
+	"vcpe": "cpe:/:tenda",
+	"pid": "56259",
+	"pname": "AX12 ファームウェア",
+	"pcpe": "cpe:/o:tenda:ax12_firmware"
 }

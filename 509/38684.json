@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "38684",
-  "pname": "SAP Treasury and Risk Management",
-  "pcpe": "cpe:/a:sap:treasury_and_risk_management"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "38684",
+	"pname": "SAP Treasury and Risk Management",
+	"pcpe": "cpe:/a:sap:treasury_and_risk_management"
 }

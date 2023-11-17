@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56906",
-  "pname": "MGS3530-28 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:mgs3530-28_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56906",
+	"pname": "MGS3530-28 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:mgs3530-28_firmware"
 }

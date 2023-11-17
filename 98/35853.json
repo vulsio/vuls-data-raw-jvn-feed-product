@@ -1,8 +1,8 @@
 {
-  "vid": "98",
-  "vname": "サイボウズ",
-  "vcpe": "cpe:/:cybozu",
-  "pid": "35853",
-  "pname": "リモートサービス",
-  "pcpe": "cpe:/a:cybozu:remote_service"
+	"vid": "98",
+	"vname": "サイボウズ",
+	"vcpe": "cpe:/:cybozu",
+	"pid": "35853",
+	"pname": "リモートサービス",
+	"pcpe": "cpe:/a:cybozu:remote_service"
 }

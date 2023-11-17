@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "47489",
-  "pname": "WHR-HP-GN ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:whr-hp-gn_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "47489",
+	"pname": "WHR-HP-GN ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:whr-hp-gn_firmware"
 }

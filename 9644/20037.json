@@ -1,8 +1,8 @@
 {
-  "vid": "9644",
-  "vname": "PyWBEM Project",
-  "vcpe": "cpe:/:pywbem_project",
-  "pid": "20037",
-  "pname": "PyWBEM",
-  "pcpe": "cpe:/a:pywbem_project:pywbem"
+	"vid": "9644",
+	"vname": "PyWBEM Project",
+	"vcpe": "cpe:/:pywbem_project",
+	"pid": "20037",
+	"pname": "PyWBEM",
+	"pcpe": "cpe:/a:pywbem_project:pywbem"
 }

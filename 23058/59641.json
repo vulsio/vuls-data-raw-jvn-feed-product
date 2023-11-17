@@ -1,8 +1,8 @@
 {
-  "vid": "23058",
-  "vname": "random password generator project",
-  "vcpe": "cpe:/:random_password_generator_project",
-  "pid": "59641",
-  "pname": "random password generator",
-  "pcpe": "cpe:/a:random_password_generator_project:random_password_generator"
+	"vid": "23058",
+	"vname": "random password generator project",
+	"vcpe": "cpe:/:random_password_generator_project",
+	"pid": "59641",
+	"pname": "random password generator",
+	"pcpe": "cpe:/a:random_password_generator_project:random_password_generator"
 }

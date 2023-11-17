@@ -1,8 +1,8 @@
 {
-  "vid": "574",
-  "vname": "ESET",
-  "vcpe": "cpe:/:eset",
-  "pid": "62664",
-  "pname": "full disk encryption",
-  "pcpe": "cpe:/a:eset:full_disk_encryption"
+	"vid": "574",
+	"vname": "ESET",
+	"vcpe": "cpe:/:eset",
+	"pid": "62664",
+	"pname": "full disk encryption",
+	"pcpe": "cpe:/a:eset:full_disk_encryption"
 }

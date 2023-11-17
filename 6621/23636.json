@@ -1,8 +1,8 @@
 {
-  "vid": "6621",
-  "vname": "ソフトバンク株式会社",
-  "vcpe": "cpe:/:softbank",
-  "pid": "23636",
-  "pname": "モバイル Wi-Fi ルーター",
-  "pcpe": "cpe:/h:softbank:mobile_wi-fi_router"
+	"vid": "6621",
+	"vname": "ソフトバンク株式会社",
+	"vcpe": "cpe:/:softbank",
+	"pid": "23636",
+	"pname": "モバイル Wi-Fi ルーター",
+	"pcpe": "cpe:/h:softbank:mobile_wi-fi_router"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3117",
-  "pname": "Cisco Media Processing Software",
-  "pcpe": "cpe:/a:cisco:media_processing_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3117",
+	"pname": "Cisco Media Processing Software",
+	"pcpe": "cpe:/a:cisco:media_processing_software"
 }

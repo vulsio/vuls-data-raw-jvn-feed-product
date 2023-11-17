@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "37574",
-  "pname": "Q26UDPVCPU ファームウェア",
-  "pcpe": "cpe:/o:mitsubishielectric:q26udpvcpu_firmware"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "37574",
+	"pname": "Q26UDPVCPU ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:q26udpvcpu_firmware"
 }

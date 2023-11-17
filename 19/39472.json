@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "39472",
-  "pname": "Cisco SG200-18 ファームウェア",
-  "pcpe": "cpe:/o:cisco:sg200-18_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "39472",
+	"pname": "Cisco SG200-18 ファームウェア",
+	"pcpe": "cpe:/o:cisco:sg200-18_firmware"
 }

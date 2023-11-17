@@ -1,8 +1,8 @@
 {
-  "vid": "16199",
-  "vname": "Wifi-soft",
-  "vcpe": "cpe:/:wifi-soft",
-  "pid": "37947",
-  "pname": "UniBox ファームウェア",
-  "pcpe": "cpe:/o:wifi-soft:unibox_firmware"
+	"vid": "16199",
+	"vname": "Wifi-soft",
+	"vcpe": "cpe:/:wifi-soft",
+	"pid": "37947",
+	"pname": "UniBox ファームウェア",
+	"pcpe": "cpe:/o:wifi-soft:unibox_firmware"
 }

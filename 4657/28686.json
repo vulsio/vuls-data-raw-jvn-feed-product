@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28686",
-  "pname": "E3272s ファームウェア",
-  "pcpe": "cpe:/o:huawei:e3272s_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28686",
+	"pname": "E3272s ファームウェア",
+	"pcpe": "cpe:/o:huawei:e3272s_firmware"
 }

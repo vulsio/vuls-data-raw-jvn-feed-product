@@ -1,8 +1,8 @@
 {
-  "vid": "22326",
-  "vname": "alecto",
-  "vcpe": "cpe:/:alecto",
-  "pid": "57431",
-  "pname": "dvc-215ip ファームウェア",
-  "pcpe": "cpe:/o:alecto:dvc-215ip_firmware"
+	"vid": "22326",
+	"vname": "alecto",
+	"vcpe": "cpe:/:alecto",
+	"pid": "57431",
+	"pname": "dvc-215ip ファームウェア",
+	"pcpe": "cpe:/o:alecto:dvc-215ip_firmware"
 }

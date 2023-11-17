@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "41407",
-  "pname": "TSXMFPP001M ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:tsxmfpp001m_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "41407",
+	"pname": "TSXMFPP001M ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:tsxmfpp001m_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "52362",
-  "pname": "730S-13IML ファームウェア",
-  "pcpe": "cpe:/o:lenovo:730s-13iml_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "52362",
+	"pname": "730S-13IML ファームウェア",
+	"pcpe": "cpe:/o:lenovo:730s-13iml_firmware"
 }

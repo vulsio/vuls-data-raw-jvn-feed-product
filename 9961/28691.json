@@ -1,8 +1,8 @@
 {
-  "vid": "9961",
-  "vname": "リバーベッドテクノロジー株式会社",
-  "vcpe": "cpe:/:riverbed",
-  "pid": "28691",
-  "pname": "RiOS",
-  "pcpe": "cpe:/o:riverbed:rios"
+	"vid": "9961",
+	"vname": "リバーベッドテクノロジー株式会社",
+	"vcpe": "cpe:/:riverbed",
+	"pid": "28691",
+	"pname": "RiOS",
+	"pcpe": "cpe:/o:riverbed:rios"
 }

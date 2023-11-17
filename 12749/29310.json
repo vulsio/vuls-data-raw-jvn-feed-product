@@ -1,8 +1,8 @@
 {
-  "vid": "12749",
-  "vname": "Satel Iberia",
-  "vcpe": "cpe:/:satel-iberia",
-  "pid": "29310",
-  "pname": "SenNet Optimal DataLogger",
-  "pcpe": "cpe:/a:satel-iberia:sennet_optimal_datalogger"
+	"vid": "12749",
+	"vname": "Satel Iberia",
+	"vcpe": "cpe:/:satel-iberia",
+	"pid": "29310",
+	"pname": "SenNet Optimal DataLogger",
+	"pcpe": "cpe:/a:satel-iberia:sennet_optimal_datalogger"
 }

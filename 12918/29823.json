@@ -1,8 +1,8 @@
 {
-  "vid": "12918",
-  "vname": "日本アンテナ株式会社",
-  "vcpe": "cpe:/:nippon-antenna",
-  "pid": "29823",
-  "pname": "「ドコでもeye Smart HD」SCR02HD Firmware",
-  "pcpe": "cpe:/o:nippon-antenna:scr02hd_firmware"
+	"vid": "12918",
+	"vname": "日本アンテナ株式会社",
+	"vcpe": "cpe:/:nippon-antenna",
+	"pid": "29823",
+	"pname": "「ドコでもeye Smart HD」SCR02HD Firmware",
+	"pcpe": "cpe:/o:nippon-antenna:scr02hd_firmware"
 }

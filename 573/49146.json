@@ -1,8 +1,8 @@
 {
-  "vid": "573",
-  "vname": "Foxit Software Inc",
-  "vcpe": "cpe:/:foxitsoftware",
-  "pid": "49146",
-  "pname": "Foxit PDF ActiveX",
-  "pcpe": "cpe:/a:foxitsoftware:pdf_activex"
+	"vid": "573",
+	"vname": "Foxit Software Inc",
+	"vcpe": "cpe:/:foxitsoftware",
+	"pid": "49146",
+	"pname": "Foxit PDF ActiveX",
+	"pcpe": "cpe:/a:foxitsoftware:pdf_activex"
 }

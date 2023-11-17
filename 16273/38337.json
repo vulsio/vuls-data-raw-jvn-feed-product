@@ -1,8 +1,8 @@
 {
-  "vid": "16273",
-  "vname": "urllib3 project",
-  "vcpe": "cpe:/:urllib3_project",
-  "pid": "38337",
-  "pname": "urllib3",
-  "pcpe": "cpe:/a:urllib3_project:urllib3"
+	"vid": "16273",
+	"vname": "urllib3 project",
+	"vcpe": "cpe:/:urllib3_project",
+	"pid": "38337",
+	"pname": "urllib3",
+	"pcpe": "cpe:/a:urllib3_project:urllib3"
 }

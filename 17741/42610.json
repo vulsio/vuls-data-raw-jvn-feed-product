@@ -1,8 +1,8 @@
 {
-  "vid": "17741",
-  "vname": "Cryptbond Network project",
-  "vcpe": "cpe:/:cryptbond_network_project",
-  "pid": "42610",
-  "pname": "Cryptbond Network",
-  "pcpe": "cpe:/a:cryptbond_network_project:cryptbond_network"
+	"vid": "17741",
+	"vname": "Cryptbond Network project",
+	"vcpe": "cpe:/:cryptbond_network_project",
+	"pid": "42610",
+	"pname": "Cryptbond Network",
+	"pcpe": "cpe:/a:cryptbond_network_project:cryptbond_network"
 }

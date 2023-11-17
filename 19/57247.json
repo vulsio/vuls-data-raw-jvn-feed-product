@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "57247",
-  "pname": "Cisco Redundancy Configuration Manager (RCM)",
-  "pcpe": "cpe:/a:cisco:redundancy_configuration_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "57247",
+	"pname": "Cisco Redundancy Configuration Manager (RCM)",
+	"pcpe": "cpe:/a:cisco:redundancy_configuration_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20437",
-  "vname": "Free Software Foundation, Inc.",
-  "vcpe": "cpe:/:lwip_project",
-  "pid": "52088",
-  "pname": "lwIP",
-  "pcpe": "cpe:/a:lwip_project:lwip"
+	"vid": "20437",
+	"vname": "Free Software Foundation, Inc.",
+	"vcpe": "cpe:/:lwip_project",
+	"pid": "52088",
+	"pname": "lwIP",
+	"pcpe": "cpe:/a:lwip_project:lwip"
 }

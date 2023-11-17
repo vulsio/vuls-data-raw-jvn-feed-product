@@ -1,8 +1,8 @@
 {
-  "vid": "21586",
-  "vname": "lite-dev-server project",
-  "vcpe": "cpe:/:lite-dev-server_project",
-  "pid": "55452",
-  "pname": "lite-dev-server",
-  "pcpe": "cpe:/a:lite-dev-server_project:lite-dev-server"
+	"vid": "21586",
+	"vname": "lite-dev-server project",
+	"vcpe": "cpe:/:lite-dev-server_project",
+	"pid": "55452",
+	"pname": "lite-dev-server",
+	"pcpe": "cpe:/a:lite-dev-server_project:lite-dev-server"
 }

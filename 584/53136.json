@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "53136",
-  "pname": "SINAMICS STARTER ファームウェア",
-  "pcpe": "cpe:/o:siemens:sinamics_starter_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "53136",
+	"pname": "SINAMICS STARTER ファームウェア",
+	"pcpe": "cpe:/o:siemens:sinamics_starter_firmware"
 }

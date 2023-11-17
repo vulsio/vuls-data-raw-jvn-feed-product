@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "32747",
-  "pname": "MDM9607 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:mdm9607_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "32747",
+	"pname": "MDM9607 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:mdm9607_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28644",
-  "pname": "Quidway S5700 ファームウェア",
-  "pcpe": "cpe:/o:huawei:quidway_s5700_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28644",
+	"pname": "Quidway S5700 ファームウェア",
+	"pcpe": "cpe:/o:huawei:quidway_s5700_firmware"
 }

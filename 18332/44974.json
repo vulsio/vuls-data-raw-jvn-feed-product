@@ -1,8 +1,8 @@
 {
-  "vid": "18332",
-  "vname": "QuickBox.IO",
-  "vcpe": "cpe:/:quickbox",
-  "pid": "44974",
-  "pname": "QuickBox",
-  "pcpe": "cpe:/a:quickbox:quickbox"
+	"vid": "18332",
+	"vname": "QuickBox.IO",
+	"vcpe": "cpe:/:quickbox",
+	"pid": "44974",
+	"pname": "QuickBox",
+	"pcpe": "cpe:/a:quickbox:quickbox"
 }

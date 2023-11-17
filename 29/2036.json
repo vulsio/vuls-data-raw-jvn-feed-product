@@ -1,8 +1,8 @@
 {
-  "vid": "29",
-  "vname": "エフ・セキュア",
-  "vcpe": "cpe:/:f-secure",
-  "pid": "2036",
-  "pname": "F-Secure Home Server Security",
-  "pcpe": "cpe:/a:f-secure:f-secure_home_server_security"
+	"vid": "29",
+	"vname": "エフ・セキュア",
+	"vcpe": "cpe:/:f-secure",
+	"pid": "2036",
+	"pname": "F-Secure Home Server Security",
+	"pcpe": "cpe:/a:f-secure:f-secure_home_server_security"
 }

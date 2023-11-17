@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47382",
-  "pname": "IPQ5010 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:ipq5010_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47382",
+	"pname": "IPQ5010 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:ipq5010_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2415",
-  "vname": "アクシスコミュニケーションズ",
-  "vcpe": "cpe:/:axis",
-  "pid": "53367",
-  "pname": "AXIS OS",
-  "pcpe": "cpe:/o:axis:axis_os"
+	"vid": "2415",
+	"vname": "アクシスコミュニケーションズ",
+	"vcpe": "cpe:/:axis",
+	"pid": "53367",
+	"pname": "AXIS OS",
+	"pcpe": "cpe:/o:axis:axis_os"
 }

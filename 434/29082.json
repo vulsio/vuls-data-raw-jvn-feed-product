@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "29082",
-  "pname": "Mainframe Enablers ResourcePak Base",
-  "pcpe": "cpe:/a:emc:mainframe_enablers_resourcepak_base"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "29082",
+	"pname": "Mainframe Enablers ResourcePak Base",
+	"pcpe": "cpe:/a:emc:mainframe_enablers_resourcepak_base"
 }

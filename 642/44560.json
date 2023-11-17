@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "44560",
-  "pname": "WNR2050 ファームウェア",
-  "pcpe": "cpe:/o:netgear:wnr2050_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "44560",
+	"pname": "WNR2050 ファームウェア",
+	"pcpe": "cpe:/o:netgear:wnr2050_firmware"
 }

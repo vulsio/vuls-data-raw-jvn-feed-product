@@ -1,8 +1,8 @@
 {
-  "vid": "21535",
-  "vname": "NocoDB Inc.",
-  "vcpe": "cpe:/:xgenecloud",
-  "pid": "55346",
-  "pname": "NocoDB",
-  "pcpe": "cpe:/a:xgenecloud:nocodb"
+	"vid": "21535",
+	"vname": "NocoDB Inc.",
+	"vcpe": "cpe:/:xgenecloud",
+	"pid": "55346",
+	"pname": "NocoDB",
+	"pcpe": "cpe:/a:xgenecloud:nocodb"
 }

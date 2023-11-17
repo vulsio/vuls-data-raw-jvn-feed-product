@@ -1,8 +1,8 @@
 {
-  "vid": "8819",
-  "vname": "DOMIT! RSS Parser for PHP",
-  "vcpe": "cpe:/:misc",
-  "pid": "16804",
-  "pname": "DOMIT! RSS",
-  "pcpe": "cpe:/a:misc:domit_rss"
+	"vid": "8819",
+	"vname": "DOMIT! RSS Parser for PHP",
+	"vcpe": "cpe:/:misc",
+	"pid": "16804",
+	"pname": "DOMIT! RSS",
+	"pcpe": "cpe:/a:misc:domit_rss"
 }

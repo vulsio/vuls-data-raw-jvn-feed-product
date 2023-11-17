@@ -1,8 +1,8 @@
 {
-  "vid": "23317",
-  "vname": "joybike",
-  "vcpe": "cpe:/:joybike",
-  "pid": "60376",
-  "pname": "wolf ファームウェア",
-  "pcpe": "cpe:/o:joybike:wolf_firmware"
+	"vid": "23317",
+	"vname": "joybike",
+	"vcpe": "cpe:/:joybike",
+	"pid": "60376",
+	"pname": "wolf ファームウェア",
+	"pcpe": "cpe:/o:joybike:wolf_firmware"
 }

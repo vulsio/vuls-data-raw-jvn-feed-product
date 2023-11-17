@@ -1,8 +1,8 @@
 {
-  "vid": "16985",
-  "vname": "ConvertPlug",
-  "vcpe": "cpe:/:convertplug",
-  "pid": "40393",
-  "pname": "ConvertPlus",
-  "pcpe": "cpe:/a:convertplug:convertplus"
+	"vid": "16985",
+	"vname": "ConvertPlug",
+	"vcpe": "cpe:/:convertplug",
+	"pid": "40393",
+	"pname": "ConvertPlus",
+	"pcpe": "cpe:/a:convertplug:convertplus"
 }

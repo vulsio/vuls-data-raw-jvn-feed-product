@@ -1,8 +1,8 @@
 {
-  "vid": "18434",
-  "vname": "Eficode Praqma",
-  "vcpe": "cpe:/:praqma",
-  "pid": "45415",
-  "pname": "Compatibility Action Storage",
-  "pcpe": "cpe:/a:praqma:compatibility_action_storage"
+	"vid": "18434",
+	"vname": "Eficode Praqma",
+	"vcpe": "cpe:/:praqma",
+	"pid": "45415",
+	"pname": "Compatibility Action Storage",
+	"pcpe": "cpe:/a:praqma:compatibility_action_storage"
 }

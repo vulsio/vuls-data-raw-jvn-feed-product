@@ -1,8 +1,8 @@
 {
-  "vid": "15818",
-  "vname": "NexxusCoin",
-  "vcpe": "cpe:/:nexxuscoin",
-  "pid": "36856",
-  "pname": "NexxusToken",
-  "pcpe": "cpe:/a:nexxuscoin:nexxustoken"
+	"vid": "15818",
+	"vname": "NexxusCoin",
+	"vcpe": "cpe:/:nexxuscoin",
+	"pid": "36856",
+	"pname": "NexxusToken",
+	"pcpe": "cpe:/a:nexxuscoin:nexxustoken"
 }

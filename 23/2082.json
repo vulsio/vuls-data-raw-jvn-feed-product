@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "2082",
-  "pname": "Symantec AppStream Client",
-  "pcpe": "cpe:/a:symantec:appstream_client"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "2082",
+	"pname": "Symantec AppStream Client",
+	"pcpe": "cpe:/a:symantec:appstream_client"
 }

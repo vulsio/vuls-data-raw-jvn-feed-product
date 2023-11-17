@@ -1,8 +1,8 @@
 {
-  "vid": "493",
-  "vname": "Dassault Systemes",
-  "vcpe": "cpe:/:3ds",
-  "pid": "48896",
-  "pname": "Teamwork Cloud",
-  "pcpe": "cpe:/a:3ds:teamwork_cloud"
+	"vid": "493",
+	"vname": "Dassault Systemes",
+	"vcpe": "cpe:/:3ds",
+	"pid": "48896",
+	"pname": "Teamwork Cloud",
+	"pcpe": "cpe:/a:3ds:teamwork_cloud"
 }

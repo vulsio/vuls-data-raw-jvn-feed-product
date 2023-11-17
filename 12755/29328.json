@@ -1,8 +1,8 @@
 {
-  "vid": "12755",
-  "vname": "picocom project",
-  "vcpe": "cpe:/:picocom_project",
-  "pid": "29328",
-  "pname": "picocom",
-  "pcpe": "cpe:/a:picocom_project:picocom"
+	"vid": "12755",
+	"vname": "picocom project",
+	"vcpe": "cpe:/:picocom_project",
+	"pid": "29328",
+	"pname": "picocom",
+	"pcpe": "cpe:/a:picocom_project:picocom"
 }

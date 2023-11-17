@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "39361",
-  "pname": "MiniMed Paradigm 515 ファームウェア",
-  "pcpe": "cpe:/o:medtronic:minimed_paradigm_515_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "39361",
+	"pname": "MiniMed Paradigm 515 ファームウェア",
+	"pcpe": "cpe:/o:medtronic:minimed_paradigm_515_firmware"
 }

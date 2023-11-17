@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "1297",
-  "pname": "Systemwalker Resource Coordinator",
-  "pcpe": "cpe:/a:fujitsu:systemwalker_resource_coordinator"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "1297",
+	"pname": "Systemwalker Resource Coordinator",
+	"pcpe": "cpe:/a:fujitsu:systemwalker_resource_coordinator"
 }

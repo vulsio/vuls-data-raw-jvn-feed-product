@@ -1,8 +1,8 @@
 {
-  "vid": "8392",
-  "vname": "war ftp daemon",
-  "vcpe": "cpe:/:war_ftp_daemon",
-  "pid": "15996",
-  "pname": "war ftp daemon",
-  "pcpe": "cpe:/a:war_ftp_daemon:war_ftp_daemon"
+	"vid": "8392",
+	"vname": "war ftp daemon",
+	"vcpe": "cpe:/:war_ftp_daemon",
+	"pid": "15996",
+	"pname": "war ftp daemon",
+	"pcpe": "cpe:/a:war_ftp_daemon:war_ftp_daemon"
 }

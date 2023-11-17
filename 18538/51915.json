@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "51915",
-  "pname": "EVlink Parking EV.2 ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:evlink_parking_ev.2_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "51915",
+	"pname": "EVlink Parking EV.2 ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:evlink_parking_ev.2_firmware"
 }

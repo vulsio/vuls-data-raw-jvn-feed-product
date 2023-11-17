@@ -1,8 +1,8 @@
 {
-  "vid": "14287",
-  "vname": "selenium-wrapper project",
-  "vcpe": "cpe:/:selenium-wrapper_project",
-  "pid": "33965",
-  "pname": "selenium-wrapper",
-  "pcpe": "cpe:/a:selenium-wrapper_project:selenium-wrapper"
+	"vid": "14287",
+	"vname": "selenium-wrapper project",
+	"vcpe": "cpe:/:selenium-wrapper_project",
+	"pid": "33965",
+	"pname": "selenium-wrapper",
+	"pcpe": "cpe:/a:selenium-wrapper_project:selenium-wrapper"
 }

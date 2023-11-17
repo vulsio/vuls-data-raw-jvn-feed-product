@@ -1,8 +1,8 @@
 {
-  "vid": "19972",
-  "vname": "AVE S.p.A.",
-  "vcpe": "cpe:/:ave",
-  "pid": "50505",
-  "pname": "TS04X-V ファームウェア",
-  "pcpe": "cpe:/o:ave:ts04x-v_firmware"
+	"vid": "19972",
+	"vname": "AVE S.p.A.",
+	"vcpe": "cpe:/:ave",
+	"pid": "50505",
+	"pname": "TS04X-V ファームウェア",
+	"pcpe": "cpe:/o:ave:ts04x-v_firmware"
 }

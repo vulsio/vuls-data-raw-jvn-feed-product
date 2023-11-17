@@ -1,8 +1,8 @@
 {
-  "vid": "22",
-  "vname": "The PHP Group",
-  "vcpe": "cpe:/:php",
-  "pid": "4697",
-  "pname": "PEAR",
-  "pcpe": "cpe:/a:php:pear"
+	"vid": "22",
+	"vname": "The PHP Group",
+	"vcpe": "cpe:/:php",
+	"pid": "4697",
+	"pname": "PEAR",
+	"pcpe": "cpe:/a:php:pear"
 }

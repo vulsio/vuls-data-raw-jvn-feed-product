@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "49746",
-  "pname": "SCALANCE SC-636-2C ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_sc636-2c_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "49746",
+	"pname": "SCALANCE SC-636-2C ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_sc636-2c_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "39798",
-  "pname": "Dell G5 5587 ファームウェア",
-  "pcpe": "cpe:/o:dell:g5_5587_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "39798",
+	"pname": "Dell G5 5587 ファームウェア",
+	"pcpe": "cpe:/o:dell:g5_5587_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10281",
-  "vname": "Accuenergy",
-  "vcpe": "cpe:/:accuenergy",
-  "pid": "26059",
-  "pname": "Acuvim IIR NET ファームウェア",
-  "pcpe": "cpe:/o:accuenergy:acuvim_iir_net_firmware"
+	"vid": "10281",
+	"vname": "Accuenergy",
+	"vcpe": "cpe:/:accuenergy",
+	"pid": "26059",
+	"pname": "Acuvim IIR NET ファームウェア",
+	"pcpe": "cpe:/o:accuenergy:acuvim_iir_net_firmware"
 }

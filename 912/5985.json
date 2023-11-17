@@ -1,8 +1,8 @@
 {
-  "vid": "912",
-  "vname": "ASP indir",
-  "vcpe": "cpe:/:aspindir",
-  "pid": "5985",
-  "pname": "batmanportal",
-  "pcpe": "cpe:/a:aspindir:batmanportal"
+	"vid": "912",
+	"vname": "ASP indir",
+	"vcpe": "cpe:/:aspindir",
+	"pid": "5985",
+	"pname": "batmanportal",
+	"pcpe": "cpe:/a:aspindir:batmanportal"
 }

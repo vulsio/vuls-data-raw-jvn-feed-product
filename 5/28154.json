@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "28154",
-  "pname": "MSM8974pro",
-  "pcpe": "cpe:/h:qualcomm:msm8974pro"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "28154",
+	"pname": "MSM8974pro",
+	"pcpe": "cpe:/h:qualcomm:msm8974pro"
 }

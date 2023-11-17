@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "48137",
-  "pname": "WDR8600 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:wdr8600_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "48137",
+	"pname": "WDR8600 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:wdr8600_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "44371",
-  "pname": "XR700ファームウェア",
-  "pcpe": "cpe:/o:netgear:xr700_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "44371",
+	"pname": "XR700ファームウェア",
+	"pcpe": "cpe:/o:netgear:xr700_firmware"
 }

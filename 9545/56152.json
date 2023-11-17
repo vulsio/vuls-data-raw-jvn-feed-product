@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "56152",
-  "pname": "FOSSology",
-  "pcpe": "cpe:/a:linuxfoundation:fossology"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "56152",
+	"pname": "FOSSology",
+	"pcpe": "cpe:/a:linuxfoundation:fossology"
 }

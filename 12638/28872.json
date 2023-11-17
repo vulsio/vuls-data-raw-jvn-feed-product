@@ -1,8 +1,8 @@
 {
-  "vid": "12638",
-  "vname": "Cygwin",
-  "vcpe": "cpe:/:cygwin",
-  "pid": "28872",
-  "pname": "Cygwin",
-  "pcpe": "cpe:/a:cygwin:cygwin"
+	"vid": "12638",
+	"vname": "Cygwin",
+	"vcpe": "cpe:/:cygwin",
+	"pid": "28872",
+	"pname": "Cygwin",
+	"pcpe": "cpe:/a:cygwin:cygwin"
 }

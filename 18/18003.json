@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "18003",
-  "pname": "IBM System x iDataPlex dx360 M3",
-  "pcpe": "cpe:/h:ibm:system_x_idataplex_dx360_m3_server"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "18003",
+	"pname": "IBM System x iDataPlex dx360 M3",
+	"pcpe": "cpe:/h:ibm:system_x_idataplex_dx360_m3_server"
 }

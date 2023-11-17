@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "60937",
-  "pname": "deployment dashboard",
-  "pcpe": "cpe:/a:jenkins:deployment_dashboard"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "60937",
+	"pname": "deployment dashboard",
+	"pcpe": "cpe:/a:jenkins:deployment_dashboard"
 }

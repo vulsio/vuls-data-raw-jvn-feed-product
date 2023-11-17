@@ -1,8 +1,8 @@
 {
-  "vid": "18607",
-  "vname": "temi USA inc.",
-  "vcpe": "cpe:/:robotemi",
-  "pid": "45925",
-  "pname": "Launcher OS",
-  "pcpe": "cpe:/o:robotemi:launcher_os"
+	"vid": "18607",
+	"vname": "temi USA inc.",
+	"vcpe": "cpe:/:robotemi",
+	"pid": "45925",
+	"pname": "Launcher OS",
+	"pcpe": "cpe:/o:robotemi:launcher_os"
 }

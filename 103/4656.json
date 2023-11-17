@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "4656",
-  "pname": "GeForce 310 ドライバ",
-  "pcpe": "cpe:/a:nvidia:geforce_310_driver"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "4656",
+	"pname": "GeForce 310 ドライバ",
+	"pcpe": "cpe:/a:nvidia:geforce_310_driver"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15105",
-  "vname": "GalaxyCoin project",
-  "vcpe": "cpe:/:galaxycoin_project",
-  "pid": "35044",
-  "pname": "GalaxyCoin",
-  "pcpe": "cpe:/a:galaxycoin_project:galaxycoin"
+	"vid": "15105",
+	"vname": "GalaxyCoin project",
+	"vcpe": "cpe:/:galaxycoin_project",
+	"pid": "35044",
+	"pname": "GalaxyCoin",
+	"pcpe": "cpe:/a:galaxycoin_project:galaxycoin"
 }

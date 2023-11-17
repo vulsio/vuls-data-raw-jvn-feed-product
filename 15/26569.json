@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26569",
-  "pname": "Oracle FLEXCUBE Direct Banking",
-  "pcpe": "cpe:/a:oracle:flexcube_direct_banking"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26569",
+	"pname": "Oracle FLEXCUBE Direct Banking",
+	"pcpe": "cpe:/a:oracle:flexcube_direct_banking"
 }

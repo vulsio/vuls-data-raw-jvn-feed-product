@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "29761",
-  "pname": "gnome-session",
-  "pcpe": "cpe:/a:gnome:gnome-session"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "29761",
+	"pname": "gnome-session",
+	"pcpe": "cpe:/a:gnome:gnome-session"
 }

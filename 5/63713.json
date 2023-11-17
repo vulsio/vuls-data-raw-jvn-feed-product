@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "63713",
-  "pname": "wsa8845h ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:wsa8845h_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "63713",
+	"pname": "wsa8845h ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:wsa8845h_firmware"
 }

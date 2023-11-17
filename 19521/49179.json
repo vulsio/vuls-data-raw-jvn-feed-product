@@ -1,8 +1,8 @@
 {
-  "vid": "19521",
-  "vname": "Innokas Medical Ltd.",
-  "vcpe": "cpe:/:innokasmedical",
-  "pid": "49179",
-  "pname": "Vital Signs Monitor VC150 ファームウェア",
-  "pcpe": "cpe:/o:innokasmedical:vital_signs_monitor_vc150_firmware"
+	"vid": "19521",
+	"vname": "Innokas Medical Ltd.",
+	"vcpe": "cpe:/:innokasmedical",
+	"pid": "49179",
+	"pname": "Vital Signs Monitor VC150 ファームウェア",
+	"pcpe": "cpe:/o:innokasmedical:vital_signs_monitor_vc150_firmware"
 }

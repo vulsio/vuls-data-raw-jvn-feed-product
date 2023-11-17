@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "41631",
-  "pname": "P20 Pro ファームウェア",
-  "pcpe": "cpe:/o:huawei:p20_pro_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "41631",
+	"pname": "P20 Pro ファームウェア",
+	"pcpe": "cpe:/o:huawei:p20_pro_firmware"
 }

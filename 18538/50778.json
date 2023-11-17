@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "50778",
-  "pname": "MCSESM063F2CS0 ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:mcsesm063f2cs0_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "50778",
+	"pname": "MCSESM063F2CS0 ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:mcsesm063f2cs0_firmware"
 }

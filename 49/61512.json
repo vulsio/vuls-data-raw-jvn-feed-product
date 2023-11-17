@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "61512",
-  "pname": "gnu sasl",
-  "pcpe": "cpe:/a:gnu:gnu_sasl"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "61512",
+	"pname": "gnu sasl",
+	"pcpe": "cpe:/a:gnu:gnu_sasl"
 }

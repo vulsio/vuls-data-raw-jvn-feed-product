@@ -1,8 +1,8 @@
 {
-  "vid": "21917",
-  "vname": "NE株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "56266",
-  "pname": "EC-CUBE 2系用プラグイン「ネクストエンジン連携プラグイン」",
-  "pcpe": "cpe:/a:misc:ne_next_engine_connect_plugin"
+	"vid": "21917",
+	"vname": "NE株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "56266",
+	"pname": "EC-CUBE 2系用プラグイン「ネクストエンジン連携プラグイン」",
+	"pcpe": "cpe:/a:misc:ne_next_engine_connect_plugin"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "46734",
-  "pname": "SX 20 ファームウェア",
-  "pcpe": "cpe:/o:cisco:sx20_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "46734",
+	"pname": "SX 20 ファームウェア",
+	"pcpe": "cpe:/o:cisco:sx20_firmware"
 }

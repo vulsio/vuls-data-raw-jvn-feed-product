@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "41088",
-  "pname": "Oracle Web Services",
-  "pcpe": "cpe:/a:oracle:web_services"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "41088",
+	"pname": "Oracle Web Services",
+	"pcpe": "cpe:/a:oracle:web_services"
 }

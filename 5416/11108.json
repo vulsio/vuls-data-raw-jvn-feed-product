@@ -1,8 +1,8 @@
 {
-  "vid": "5416",
-  "vname": "macromedia",
-  "vcpe": "cpe:/:macromedia",
-  "pid": "11108",
-  "pname": "shockwave",
-  "pcpe": "cpe:/a:macromedia:shockwave"
+	"vid": "5416",
+	"vname": "macromedia",
+	"vcpe": "cpe:/:macromedia",
+	"pid": "11108",
+	"pname": "shockwave",
+	"pcpe": "cpe:/a:macromedia:shockwave"
 }

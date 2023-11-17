@@ -1,8 +1,8 @@
 {
-  "vid": "15701",
-  "vname": "ArmCode",
-  "vcpe": "cpe:/:armcode",
-  "pid": "36524",
-  "pname": "Adult Filter",
-  "pcpe": "cpe:/a:armcode:adult_filter"
+	"vid": "15701",
+	"vname": "ArmCode",
+	"vcpe": "cpe:/:armcode",
+	"pid": "36524",
+	"pname": "Adult Filter",
+	"pcpe": "cpe:/a:armcode:adult_filter"
 }

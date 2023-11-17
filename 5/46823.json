@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "46823",
-  "pname": "Atheros AR9132 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:atheros_ar9132_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "46823",
+	"pname": "Atheros AR9132 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:atheros_ar9132_firmware"
 }

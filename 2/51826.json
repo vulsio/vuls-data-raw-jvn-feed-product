@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "51826",
-  "pname": "Microsoft On-Premises Data Gateway",
-  "pcpe": "cpe:/a:microsoft:on-premises_data_gateway"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "51826",
+	"pname": "Microsoft On-Premises Data Gateway",
+	"pcpe": "cpe:/a:microsoft:on-premises_data_gateway"
 }

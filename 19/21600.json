@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "21600",
-  "pname": "Cisco UCS B230 M2 ブレード サーバ",
-  "pcpe": "cpe:/h:cisco:b230_m2"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "21600",
+	"pname": "Cisco UCS B230 M2 ブレード サーバ",
+	"pcpe": "cpe:/h:cisco:b230_m2"
 }

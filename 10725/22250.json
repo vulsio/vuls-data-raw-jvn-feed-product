@@ -1,8 +1,8 @@
 {
-  "vid": "10725",
-  "vname": "wps",
-  "vcpe": "cpe:/:wps",
-  "pid": "22250",
-  "pname": "kingsoft clip (office tool)",
-  "pcpe": "cpe:/a:wps:kingsoft_clip_%28office_tool%29"
+	"vid": "10725",
+	"vname": "wps",
+	"vcpe": "cpe:/:wps",
+	"pid": "22250",
+	"pname": "kingsoft clip (office tool)",
+	"pcpe": "cpe:/a:wps:kingsoft_clip_%28office_tool%29"
 }

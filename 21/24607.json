@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "24607",
-  "pname": "Pulse Policy Secure",
-  "pcpe": "cpe:/a:juniper:pulse_policy_secure"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "24607",
+	"pname": "Pulse Policy Secure",
+	"pcpe": "cpe:/a:juniper:pulse_policy_secure"
 }

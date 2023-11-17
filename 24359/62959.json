@@ -1,8 +1,8 @@
 {
-  "vid": "24359",
-  "vname": "Auto-hyperlink URLs project",
-  "vcpe": "cpe:/:auto-hyperlink_urls_project",
-  "pid": "62959",
-  "pname": "Auto-hyperlink URLs",
-  "pcpe": "cpe:/a:auto-hyperlink_urls_project:auto-hyperlink_urls"
+	"vid": "24359",
+	"vname": "Auto-hyperlink URLs project",
+	"vcpe": "cpe:/:auto-hyperlink_urls_project",
+	"pid": "62959",
+	"pname": "Auto-hyperlink URLs",
+	"pcpe": "cpe:/a:auto-hyperlink_urls_project:auto-hyperlink_urls"
 }

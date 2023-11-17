@@ -1,8 +1,8 @@
 {
-  "vid": "16784",
-  "vname": "FormBuilder project",
-  "vcpe": "cpe:/:formbuilder_project",
-  "pid": "40002",
-  "pname": "FormBuilder",
-  "pcpe": "cpe:/a:formbuilder_project:formbuilder"
+	"vid": "16784",
+	"vname": "FormBuilder project",
+	"vcpe": "cpe:/:formbuilder_project",
+	"pid": "40002",
+	"pname": "FormBuilder",
+	"pcpe": "cpe:/a:formbuilder_project:formbuilder"
 }

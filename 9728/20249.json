@@ -1,8 +1,8 @@
 {
-  "vid": "9728",
-  "vname": "bufferapp",
-  "vcpe": "cpe:/:bufferapp",
-  "pid": "20249",
-  "pname": "Digg Digg",
-  "pcpe": "cpe:/a:bufferapp:digg_digg"
+	"vid": "9728",
+	"vname": "bufferapp",
+	"vcpe": "cpe:/:bufferapp",
+	"pid": "20249",
+	"pname": "Digg Digg",
+	"pcpe": "cpe:/a:bufferapp:digg_digg"
 }

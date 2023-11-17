@@ -1,8 +1,8 @@
 {
-  "vid": "11491",
-  "vname": "serve-static project",
-  "vcpe": "cpe:/:serve-static_project",
-  "pid": "23364",
-  "pname": "serve-static",
-  "pcpe": "cpe:/a:serve-static_project:serve-static"
+	"vid": "11491",
+	"vname": "serve-static project",
+	"vcpe": "cpe:/:serve-static_project",
+	"pid": "23364",
+	"pname": "serve-static",
+	"pcpe": "cpe:/a:serve-static_project:serve-static"
 }

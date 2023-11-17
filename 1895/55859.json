@@ -1,8 +1,8 @@
 {
-  "vid": "1895",
-  "vname": "エマソン",
-  "vcpe": "cpe:/:emerson",
-  "pid": "55859",
-  "pname": "SE4017P1 H1 I/O Card with Integrated Power ファームウェア",
-  "pcpe": "cpe:/o:emerson:se4017p1_h1_i%2fo_card_with_integrated_power_firmware"
+	"vid": "1895",
+	"vname": "エマソン",
+	"vcpe": "cpe:/:emerson",
+	"pid": "55859",
+	"pname": "SE4017P1 H1 I/O Card with Integrated Power ファームウェア",
+	"pcpe": "cpe:/o:emerson:se4017p1_h1_i%2fo_card_with_integrated_power_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21862",
-  "vname": "FIT2CLOUD",
-  "vcpe": "cpe:/:fit2cloud",
-  "pid": "56100",
-  "pname": "KubePi",
-  "pcpe": "cpe:/a:fit2cloud:kubepi"
+	"vid": "21862",
+	"vname": "FIT2CLOUD",
+	"vcpe": "cpe:/:fit2cloud",
+	"pid": "56100",
+	"pname": "KubePi",
+	"pcpe": "cpe:/a:fit2cloud:kubepi"
 }

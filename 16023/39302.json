@@ -1,8 +1,8 @@
 {
-  "vid": "16023",
-  "vname": "LEAGOO Global Co., Limited",
-  "vcpe": "cpe:/:leagoo",
-  "pid": "39302",
-  "pname": "LEAGOO Lead 2S",
-  "pcpe": "cpe:/o:leagoo:lead_2s_firmware"
+	"vid": "16023",
+	"vname": "LEAGOO Global Co., Limited",
+	"vcpe": "cpe:/:leagoo",
+	"pid": "39302",
+	"pname": "LEAGOO Lead 2S",
+	"pcpe": "cpe:/o:leagoo:lead_2s_firmware"
 }

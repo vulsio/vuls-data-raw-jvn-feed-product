@@ -1,8 +1,8 @@
 {
-  "vid": "724",
-  "vname": "NoMachine",
-  "vcpe": "cpe:/:nomachine",
-  "pid": "30440",
-  "pname": "NoMachine",
-  "pcpe": "cpe:/a:nomachine:nomachine"
+	"vid": "724",
+	"vname": "NoMachine",
+	"vcpe": "cpe:/:nomachine",
+	"pid": "30440",
+	"pname": "NoMachine",
+	"pcpe": "cpe:/a:nomachine:nomachine"
 }

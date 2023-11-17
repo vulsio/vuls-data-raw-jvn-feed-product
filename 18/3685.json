@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "3685",
-  "pname": "IBM Cognos TM1",
-  "pcpe": "cpe:/a:ibm:cognos_tm1"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "3685",
+	"pname": "IBM Cognos TM1",
+	"pcpe": "cpe:/a:ibm:cognos_tm1"
 }

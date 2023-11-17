@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "50930",
-  "pname": "Backstage",
-  "pcpe": "cpe:/a:linuxfoundation:backstage"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "50930",
+	"pname": "Backstage",
+	"pcpe": "cpe:/a:linuxfoundation:backstage"
 }

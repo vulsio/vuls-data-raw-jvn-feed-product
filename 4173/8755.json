@@ -1,8 +1,8 @@
 {
-  "vid": "4173",
-  "vname": "avici",
-  "vcpe": "cpe:/:avici",
-  "pid": "8755",
-  "pname": "router",
-  "pcpe": "cpe:/h:avici:router"
+	"vid": "4173",
+	"vname": "avici",
+	"vcpe": "cpe:/:avici",
+	"pid": "8755",
+	"pname": "router",
+	"pcpe": "cpe:/h:avici:router"
 }

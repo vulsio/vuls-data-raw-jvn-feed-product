@@ -1,8 +1,8 @@
 {
-  "vid": "19713",
-  "vname": "Slic3r",
-  "vcpe": "cpe:/:slic3r",
-  "pid": "49699",
-  "pname": "libslic3r",
-  "pcpe": "cpe:/a:slic3r:libslic3r"
+	"vid": "19713",
+	"vname": "Slic3r",
+	"vcpe": "cpe:/:slic3r",
+	"pid": "49699",
+	"pname": "libslic3r",
+	"pcpe": "cpe:/a:slic3r:libslic3r"
 }

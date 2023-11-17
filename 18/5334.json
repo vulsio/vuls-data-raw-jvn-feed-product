@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "5334",
-  "pname": "DS4800 Storage Server",
-  "pcpe": "cpe:/h:ibm:ds4800"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "5334",
+	"pname": "DS4800 Storage Server",
+	"pcpe": "cpe:/h:ibm:ds4800"
 }

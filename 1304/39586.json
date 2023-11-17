@@ -1,8 +1,8 @@
 {
-  "vid": "1304",
-  "vname": "カスペルスキー",
-  "vcpe": "cpe:/:kaspersky",
-  "pid": "39586",
-  "pname": "Kaspersky Small Office Security",
-  "pcpe": "cpe:/a:kaspersky:small_office_security"
+	"vid": "1304",
+	"vname": "カスペルスキー",
+	"vcpe": "cpe:/:kaspersky",
+	"pid": "39586",
+	"pname": "Kaspersky Small Office Security",
+	"pcpe": "cpe:/a:kaspersky:small_office_security"
 }

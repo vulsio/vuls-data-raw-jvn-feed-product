@@ -1,8 +1,8 @@
 {
-  "vid": "15186",
-  "vname": "WolfSight",
-  "vcpe": "cpe:/:wolfsight",
-  "pid": "35152",
-  "pname": "WolfSight CMS",
-  "pcpe": "cpe:/a:wolfsight:wolfsight_cms"
+	"vid": "15186",
+	"vname": "WolfSight",
+	"vcpe": "cpe:/:wolfsight",
+	"pid": "35152",
+	"pname": "WolfSight CMS",
+	"pcpe": "cpe:/a:wolfsight:wolfsight_cms"
 }

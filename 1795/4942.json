@@ -1,8 +1,8 @@
 {
-  "vid": "1795",
-  "vname": "GeoVision",
-  "vcpe": "cpe:/:geovision",
-  "pid": "4942",
-  "pname": "digital surveillance system",
-  "pcpe": "cpe:/h:geovision:digital_surveillance_system"
+	"vid": "1795",
+	"vname": "GeoVision",
+	"vcpe": "cpe:/:geovision",
+	"pid": "4942",
+	"pname": "digital surveillance system",
+	"pcpe": "cpe:/h:geovision:digital_surveillance_system"
 }

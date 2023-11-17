@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17187",
-  "pname": "Cisco UCS 6296UP 96 ポート ファブリック インターコネクト",
-  "pcpe": "cpe:/h:cisco:unified_computing_system_6296up_fabric_interconnect"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17187",
+	"pname": "Cisco UCS 6296UP 96 ポート ファブリック インターコネクト",
+	"pcpe": "cpe:/h:cisco:unified_computing_system_6296up_fabric_interconnect"
 }

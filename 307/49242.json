@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "49242",
-  "pname": "AirWave Glass",
-  "pcpe": "cpe:/a:arubanetworks:airwave_glass"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "49242",
+	"pname": "AirWave Glass",
+	"pcpe": "cpe:/a:arubanetworks:airwave_glass"
 }

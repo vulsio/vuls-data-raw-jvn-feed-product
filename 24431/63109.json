@@ -1,8 +1,8 @@
 {
-  "vid": "24431",
-  "vname": "velneo",
-  "vcpe": "cpe:/:velneo",
-  "pid": "63109",
-  "pname": "vclient",
-  "pcpe": "cpe:/a:velneo:vclient"
+	"vid": "24431",
+	"vname": "velneo",
+	"vcpe": "cpe:/:velneo",
+	"pid": "63109",
+	"pname": "vclient",
+	"pcpe": "cpe:/a:velneo:vclient"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2513",
-  "vname": "The BFTPD Project",
-  "vcpe": "cpe:/:bftpd_project",
-  "pid": "6255",
-  "pname": "Bftpd",
-  "pcpe": "cpe:/a:bftpd_project:bftpd"
+	"vid": "2513",
+	"vname": "The BFTPD Project",
+	"vcpe": "cpe:/:bftpd_project",
+	"pid": "6255",
+	"pname": "Bftpd",
+	"pcpe": "cpe:/a:bftpd_project:bftpd"
 }

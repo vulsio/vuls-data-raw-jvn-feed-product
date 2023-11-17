@@ -1,8 +1,8 @@
 {
-  "vid": "784",
-  "vname": "Technicolor",
-  "vcpe": "cpe:/:technicolor",
-  "pid": "36969",
-  "pname": "CGA0111 ファームウェア",
-  "pcpe": "cpe:/o:technicolor:cga0111_firmware"
+	"vid": "784",
+	"vname": "Technicolor",
+	"vcpe": "cpe:/:technicolor",
+	"pid": "36969",
+	"pname": "CGA0111 ファームウェア",
+	"pcpe": "cpe:/o:technicolor:cga0111_firmware"
 }

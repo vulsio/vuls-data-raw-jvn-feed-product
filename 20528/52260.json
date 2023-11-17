@@ -1,8 +1,8 @@
 {
-  "vid": "20528",
-  "vname": "Altus",
-  "vcpe": "cpe:/:altus",
-  "pid": "52260",
-  "pname": "Nexto NX3030 ファームウェア",
-  "pcpe": "cpe:/o:altus:nexto_nx3030_firmware"
+	"vid": "20528",
+	"vname": "Altus",
+	"vcpe": "cpe:/:altus",
+	"pid": "52260",
+	"pname": "Nexto NX3030 ファームウェア",
+	"pcpe": "cpe:/o:altus:nexto_nx3030_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "2729",
-  "pname": "CA ARCserve Replication and High Availability",
-  "pcpe": "cpe:/a:ca:arcserve_replication_and_high_availability"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "2729",
+	"pname": "CA ARCserve Replication and High Availability",
+	"pcpe": "cpe:/a:ca:arcserve_replication_and_high_availability"
 }

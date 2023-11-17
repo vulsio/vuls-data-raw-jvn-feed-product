@@ -1,8 +1,8 @@
 {
-  "vid": "12546",
-  "vname": "APNG Disassembler project",
-  "vcpe": "cpe:/:apng_disassembler_project",
-  "pid": "28497",
-  "pname": "APNG Disassembler",
-  "pcpe": "cpe:/a:apng_disassembler_project:apng_disassembler"
+	"vid": "12546",
+	"vname": "APNG Disassembler project",
+	"vcpe": "cpe:/:apng_disassembler_project",
+	"pid": "28497",
+	"pname": "APNG Disassembler",
+	"pcpe": "cpe:/a:apng_disassembler_project:apng_disassembler"
 }

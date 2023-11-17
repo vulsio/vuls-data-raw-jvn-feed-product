@@ -1,8 +1,8 @@
 {
-  "vid": "3345",
-  "vname": "dvd x studios",
-  "vcpe": "cpe:/:dvd_x_studios",
-  "pid": "7556",
-  "pname": "dvd x player",
-  "pcpe": "cpe:/a:dvd_x_studios:dvd_x_player"
+	"vid": "3345",
+	"vname": "dvd x studios",
+	"vcpe": "cpe:/:dvd_x_studios",
+	"pid": "7556",
+	"pname": "dvd x player",
+	"pcpe": "cpe:/a:dvd_x_studios:dvd_x_player"
 }

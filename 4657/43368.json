@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "43368",
-  "pname": "EVER-L29B ファームウェア",
-  "pcpe": "cpe:/o:huawei:ever-l29b_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "43368",
+	"pname": "EVER-L29B ファームウェア",
+	"pcpe": "cpe:/o:huawei:ever-l29b_firmware"
 }

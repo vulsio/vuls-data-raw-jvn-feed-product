@@ -1,8 +1,8 @@
 {
-  "vid": "868",
-  "vname": "PrestaShop",
-  "vcpe": "cpe:/:prestashop",
-  "pid": "13240",
-  "pname": "eBay",
-  "pcpe": "cpe:/a:prestashop:ebay"
+	"vid": "868",
+	"vname": "PrestaShop",
+	"vcpe": "cpe:/:prestashop",
+	"pid": "13240",
+	"pname": "eBay",
+	"pcpe": "cpe:/a:prestashop:ebay"
 }

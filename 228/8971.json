@@ -1,8 +1,8 @@
 {
-  "vid": "228",
-  "vname": "Fedora Project",
-  "vcpe": "cpe:/:fedoraproject",
-  "pid": "8971",
-  "pname": "Anaconda",
-  "pcpe": "cpe:/a:fedoraproject:anaconda"
+	"vid": "228",
+	"vname": "Fedora Project",
+	"vcpe": "cpe:/:fedoraproject",
+	"pid": "8971",
+	"pname": "Anaconda",
+	"pcpe": "cpe:/a:fedoraproject:anaconda"
 }

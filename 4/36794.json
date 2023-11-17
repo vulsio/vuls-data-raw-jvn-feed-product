@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "36794",
-  "pname": "HP 246 ファームウェア",
-  "pcpe": "cpe:/o:hp:hp_246_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "36794",
+	"pname": "HP 246 ファームウェア",
+	"pcpe": "cpe:/o:hp:hp_246_firmware"
 }

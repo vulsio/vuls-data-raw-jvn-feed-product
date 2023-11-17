@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "53886",
-  "pname": "Spring Cloud OpenFeign",
-  "pcpe": "cpe:/a:vmware:spring_cloud_openfeign"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "53886",
+	"pname": "Spring Cloud OpenFeign",
+	"pcpe": "cpe:/a:vmware:spring_cloud_openfeign"
 }

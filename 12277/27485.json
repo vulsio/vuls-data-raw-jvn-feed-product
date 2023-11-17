@@ -1,8 +1,8 @@
 {
-  "vid": "12277",
-  "vname": "BDWGC project",
-  "vcpe": "cpe:/:bdwgc_project",
-  "pid": "27485",
-  "pname": "Boehm-Demers-Weiser Garbage Collector",
-  "pcpe": "cpe:/a:bdwgc_project:bdwgc"
+	"vid": "12277",
+	"vname": "BDWGC project",
+	"vcpe": "cpe:/:bdwgc_project",
+	"pid": "27485",
+	"pname": "Boehm-Demers-Weiser Garbage Collector",
+	"pcpe": "cpe:/a:bdwgc_project:bdwgc"
 }

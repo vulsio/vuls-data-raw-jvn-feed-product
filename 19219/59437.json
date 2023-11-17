@@ -1,8 +1,8 @@
 {
-  "vid": "19219",
-  "vname": "Palo Alto Networks",
-  "vcpe": "cpe:/:paloaltonetworks",
-  "pid": "59437",
-  "pname": "cortex xsoar",
-  "pcpe": "cpe:/a:paloaltonetworks:cortex_xsoar"
+	"vid": "19219",
+	"vname": "Palo Alto Networks",
+	"vcpe": "cpe:/:paloaltonetworks",
+	"pid": "59437",
+	"pname": "cortex xsoar",
+	"pcpe": "cpe:/a:paloaltonetworks:cortex_xsoar"
 }

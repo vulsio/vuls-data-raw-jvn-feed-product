@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "796",
-  "pname": "スイッチ Si-Rシリーズ",
-  "pcpe": "cpe:/h:fujitsu:switch_si-r"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "796",
+	"pname": "スイッチ Si-Rシリーズ",
+	"pcpe": "cpe:/h:fujitsu:switch_si-r"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "24938",
-  "pname": "EMC SourceOne Email Supervisor",
-  "pcpe": "cpe:/a:emc:sourceone_email_supervisor"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "24938",
+	"pname": "EMC SourceOne Email Supervisor",
+	"pcpe": "cpe:/a:emc:sourceone_email_supervisor"
 }

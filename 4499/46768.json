@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "46768",
-  "pname": "MH11 SettingTool Version2",
-  "pcpe": "cpe:/a:mitsubishielectric:mh11_settingtool_version2"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "46768",
+	"pname": "MH11 SettingTool Version2",
+	"pcpe": "cpe:/a:mitsubishielectric:mh11_settingtool_version2"
 }

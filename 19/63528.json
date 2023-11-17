@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "63528",
-  "pname": "catalyst c6824-x-le-40g ファームウェア",
-  "pcpe": "cpe:/o:cisco:catalyst_c6824-x-le-40g_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "63528",
+	"pname": "catalyst c6824-x-le-40g ファームウェア",
+	"pcpe": "cpe:/o:cisco:catalyst_c6824-x-le-40g_firmware"
 }

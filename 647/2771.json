@@ -1,8 +1,8 @@
 {
-  "vid": "647",
-  "vname": "RADVISION",
-  "vcpe": "cpe:/:radvision",
-  "pid": "2771",
-  "pname": "iVIEW Suite",
-  "pcpe": "cpe:/a:radvision:iview_suite"
+	"vid": "647",
+	"vname": "RADVISION",
+	"vcpe": "cpe:/:radvision",
+	"pid": "2771",
+	"pname": "iVIEW Suite",
+	"pcpe": "cpe:/a:radvision:iview_suite"
 }

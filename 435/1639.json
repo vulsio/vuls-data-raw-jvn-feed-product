@@ -1,8 +1,8 @@
 {
-  "vid": "435",
-  "vname": "DBMail",
-  "vcpe": "cpe:/:dbmail",
-  "pid": "1639",
-  "pname": "DBMail",
-  "pcpe": "cpe:/a:dbmail:dbmail"
+	"vid": "435",
+	"vname": "DBMail",
+	"vcpe": "cpe:/:dbmail",
+	"pid": "1639",
+	"pname": "DBMail",
+	"pcpe": "cpe:/a:dbmail:dbmail"
 }

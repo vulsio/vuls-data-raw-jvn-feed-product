@@ -1,8 +1,8 @@
 {
-  "vid": "24836",
-  "vname": "executablebooks",
-  "vcpe": "cpe:/:executablebooks",
-  "pid": "64351",
-  "pname": "markdown-it-py",
-  "pcpe": "cpe:/a:executablebooks:markdown-it-py"
+	"vid": "24836",
+	"vname": "executablebooks",
+	"vcpe": "cpe:/:executablebooks",
+	"pid": "64351",
+	"pname": "markdown-it-py",
+	"pcpe": "cpe:/a:executablebooks:markdown-it-py"
 }

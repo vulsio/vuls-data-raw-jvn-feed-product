@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26045",
-  "pname": "OSS Support Tools",
-  "pcpe": "cpe:/a:oracle:oss_support_tools"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26045",
+	"pname": "OSS Support Tools",
+	"pcpe": "cpe:/a:oracle:oss_support_tools"
 }

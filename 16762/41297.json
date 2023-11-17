@@ -1,8 +1,8 @@
 {
-  "vid": "16762",
-  "vname": "Easy Digital Downloads",
-  "vcpe": "cpe:/:easydigitaldownloads",
-  "pid": "41297",
-  "pname": "Pushover Notifications",
-  "pcpe": "cpe:/a:easydigitaldownloads:pushover_notifications"
+	"vid": "16762",
+	"vname": "Easy Digital Downloads",
+	"vcpe": "cpe:/:easydigitaldownloads",
+	"pid": "41297",
+	"pname": "Pushover Notifications",
+	"pcpe": "cpe:/a:easydigitaldownloads:pushover_notifications"
 }

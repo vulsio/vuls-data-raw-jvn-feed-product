@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "26892",
-  "pname": "RSLogix Micro Developer",
-  "pcpe": "cpe:/a:rockwellautomation:rslogix_micro_developer"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "26892",
+	"pname": "RSLogix Micro Developer",
+	"pcpe": "cpe:/a:rockwellautomation:rslogix_micro_developer"
 }

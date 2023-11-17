@@ -1,8 +1,8 @@
 {
-  "vid": "12408",
-  "vname": "Smartlink Network Systems Ltd.",
-  "vcpe": "cpe:/:digisol",
-  "pid": "39351",
-  "pname": "DIGISOL DG-HR3400 ファームウェア",
-  "pcpe": "cpe:/o:digisol:dg-hr3400_firmware"
+	"vid": "12408",
+	"vname": "Smartlink Network Systems Ltd.",
+	"vcpe": "cpe:/:digisol",
+	"pid": "39351",
+	"pname": "DIGISOL DG-HR3400 ファームウェア",
+	"pcpe": "cpe:/o:digisol:dg-hr3400_firmware"
 }

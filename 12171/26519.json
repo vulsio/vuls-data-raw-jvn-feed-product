@@ -1,8 +1,8 @@
 {
-  "vid": "12171",
-  "vname": "株式会社シード",
-  "vcpe": "cpe:/:misc",
-  "pid": "26519",
-  "pname": "EC-CUBE 用プラグイン「割引クーポンプラグイン」",
-  "pcpe": "cpe:/a:misc:seed_discount_coupon_plugin_for_ec-cube"
+	"vid": "12171",
+	"vname": "株式会社シード",
+	"vcpe": "cpe:/:misc",
+	"pid": "26519",
+	"pname": "EC-CUBE 用プラグイン「割引クーポンプラグイン」",
+	"pcpe": "cpe:/a:misc:seed_discount_coupon_plugin_for_ec-cube"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "46026",
-  "pname": "SmartControl",
-  "pcpe": "cpe:/a:philips:smartcontrol"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "46026",
+	"pname": "SmartControl",
+	"pcpe": "cpe:/a:philips:smartcontrol"
 }

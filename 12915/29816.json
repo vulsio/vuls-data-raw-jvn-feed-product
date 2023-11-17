@@ -1,8 +1,8 @@
 {
-  "vid": "12915",
-  "vname": "経済産業省資源エネルギー庁",
-  "vcpe": "cpe:/:enecho.meti",
-  "pid": "29816",
-  "pname": "新・緊急時報告データ入力プログラム",
-  "pcpe": "cpe:/a:enecho.meti:shin_kinkyuji_houkoku_data_nyuryoku_program"
+	"vid": "12915",
+	"vname": "経済産業省資源エネルギー庁",
+	"vcpe": "cpe:/:enecho.meti",
+	"pid": "29816",
+	"pname": "新・緊急時報告データ入力プログラム",
+	"pcpe": "cpe:/a:enecho.meti:shin_kinkyuji_houkoku_data_nyuryoku_program"
 }

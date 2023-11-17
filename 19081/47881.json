@@ -1,8 +1,8 @@
 {
-  "vid": "19081",
-  "vname": "Hillrom",
-  "vcpe": "cpe:/:hillrom",
-  "pid": "47881",
-  "pname": "Welch Allyn Connex Central Station (CS)",
-  "pcpe": "cpe:/a:hillrom:connex_central_station"
+	"vid": "19081",
+	"vname": "Hillrom",
+	"vcpe": "cpe:/:hillrom",
+	"pid": "47881",
+	"pname": "Welch Allyn Connex Central Station (CS)",
+	"pcpe": "cpe:/a:hillrom:connex_central_station"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9277",
-  "vname": "Percona",
-  "vcpe": "cpe:/:percona",
-  "pid": "18952",
-  "pname": "Percona XtraBackup",
-  "pcpe": "cpe:/a:percona:xtrabackup"
+	"vid": "9277",
+	"vname": "Percona",
+	"vcpe": "cpe:/:percona",
+	"pid": "18952",
+	"pname": "Percona XtraBackup",
+	"pcpe": "cpe:/a:percona:xtrabackup"
 }

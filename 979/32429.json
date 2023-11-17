@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "32429",
-  "pname": "Atlassian Activity Streams",
-  "pcpe": "cpe:/a:atlassian:activity_streams"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "32429",
+	"pname": "Atlassian Activity Streams",
+	"pcpe": "cpe:/a:atlassian:activity_streams"
 }

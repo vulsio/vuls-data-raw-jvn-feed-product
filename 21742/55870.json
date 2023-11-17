@@ -1,8 +1,8 @@
 {
-  "vid": "21742",
-  "vname": "LinuxServer",
-  "vcpe": "cpe:/:linuxserver",
-  "pid": "55870",
-  "pname": "Heimdall Application Dashboard",
-  "pcpe": "cpe:/a:linuxserver:heimdall_application_dashboard"
+	"vid": "21742",
+	"vname": "LinuxServer",
+	"vcpe": "cpe:/:linuxserver",
+	"pid": "55870",
+	"pname": "Heimdall Application Dashboard",
+	"pcpe": "cpe:/a:linuxserver:heimdall_application_dashboard"
 }

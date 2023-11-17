@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "51902",
-  "pname": "Cloud Insights Acquisition Unit",
-  "pcpe": "cpe:/a:netapp:cloud_insights_acquisition_unit"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "51902",
+	"pname": "Cloud Insights Acquisition Unit",
+	"pcpe": "cpe:/a:netapp:cloud_insights_acquisition_unit"
 }

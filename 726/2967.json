@@ -1,8 +1,8 @@
 {
-  "vid": "726",
-  "vname": "IceWarp, Inc.",
-  "vcpe": "cpe:/:icewarp",
-  "pid": "2967",
-  "pname": "IceWarp Mail Server",
-  "pcpe": "cpe:/a:icewarp:mail_server"
+	"vid": "726",
+	"vname": "IceWarp, Inc.",
+	"vcpe": "cpe:/:icewarp",
+	"pid": "2967",
+	"pname": "IceWarp Mail Server",
+	"pcpe": "cpe:/a:icewarp:mail_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "9656",
-  "pname": "Ricoh DC Software DL-10",
-  "pcpe": "cpe:/a:ricoh:dl-10"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "9656",
+	"pname": "Ricoh DC Software DL-10",
+	"pcpe": "cpe:/a:ricoh:dl-10"
 }

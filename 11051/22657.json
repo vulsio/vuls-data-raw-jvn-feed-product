@@ -1,8 +1,8 @@
 {
-  "vid": "11051",
-  "vname": "goodwinproject",
-  "vcpe": "cpe:/:goodwinproject",
-  "pid": "22657",
-  "pname": "goodwin",
-  "pcpe": "cpe:/a:goodwinproject:goodwin"
+	"vid": "11051",
+	"vname": "goodwinproject",
+	"vcpe": "cpe:/:goodwinproject",
+	"pid": "22657",
+	"pname": "goodwin",
+	"pcpe": "cpe:/a:goodwinproject:goodwin"
 }

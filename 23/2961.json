@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "2961",
-  "pname": "Symantec IM Manager",
-  "pcpe": "cpe:/a:symantec:im_manager"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "2961",
+	"pname": "Symantec IM Manager",
+	"pcpe": "cpe:/a:symantec:im_manager"
 }

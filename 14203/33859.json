@@ -1,8 +1,8 @@
 {
-  "vid": "14203",
-  "vname": "babelcli project",
-  "vcpe": "cpe:/:babelcli_project",
-  "pid": "33859",
-  "pname": "babelcli",
-  "pcpe": "cpe:/a:babelcli_project:babelcli"
+	"vid": "14203",
+	"vname": "babelcli project",
+	"vcpe": "cpe:/:babelcli_project",
+	"pid": "33859",
+	"pname": "babelcli",
+	"pcpe": "cpe:/a:babelcli_project:babelcli"
 }

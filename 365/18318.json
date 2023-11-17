@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "18318",
-  "pname": "Citrix XenClient XT",
-  "pcpe": "cpe:/a:citrix:xenclient_xt"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "18318",
+	"pname": "Citrix XenClient XT",
+	"pcpe": "cpe:/a:citrix:xenclient_xt"
 }

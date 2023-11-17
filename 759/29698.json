@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "29698",
-  "pname": "SR 469 Motor Protection Relay ファームウェア",
-  "pcpe": "cpe:/o:ge:multilin_sr_469_motor_protection_relay_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "29698",
+	"pname": "SR 469 Motor Protection Relay ファームウェア",
+	"pcpe": "cpe:/o:ge:multilin_sr_469_motor_protection_relay_firmware"
 }

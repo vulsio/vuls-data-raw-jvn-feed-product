@@ -1,8 +1,8 @@
 {
-  "vid": "4358",
-  "vname": "Korenix Technology",
-  "vcpe": "cpe:/:korenix",
-  "pid": "31147",
-  "pname": "JetNet5828G ファームウェア",
-  "pcpe": "cpe:/o:korenix:jetnet5828g_firmware"
+	"vid": "4358",
+	"vname": "Korenix Technology",
+	"vcpe": "cpe:/:korenix",
+	"pid": "31147",
+	"pname": "JetNet5828G ファームウェア",
+	"pcpe": "cpe:/o:korenix:jetnet5828g_firmware"
 }

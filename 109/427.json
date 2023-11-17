@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "427",
-  "pname": "らくらくメール",
-  "pcpe": "cpe:/a:fujitsu:rakuraku_mail"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "427",
+	"pname": "らくらくメール",
+	"pcpe": "cpe:/a:fujitsu:rakuraku_mail"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2609",
-  "vname": "Borland Software Corporation",
-  "vcpe": "cpe:/:borland_software",
-  "pid": "6397",
-  "pname": "idsql32.dll",
-  "pcpe": "cpe:/a:borland_software:idsql32.dll"
+	"vid": "2609",
+	"vname": "Borland Software Corporation",
+	"vcpe": "cpe:/:borland_software",
+	"pid": "6397",
+	"pname": "idsql32.dll",
+	"pcpe": "cpe:/a:borland_software:idsql32.dll"
 }

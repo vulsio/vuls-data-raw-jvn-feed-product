@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "42254",
-  "pname": "iPad Pro",
-  "pcpe": "cpe:/o:apple:ipad_pro"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "42254",
+	"pname": "iPad Pro",
+	"pcpe": "cpe:/o:apple:ipad_pro"
 }

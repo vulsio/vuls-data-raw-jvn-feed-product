@@ -1,8 +1,8 @@
 {
-  "vid": "728",
-  "vname": "TYPO3 Association",
-  "vcpe": "cpe:/:typo3",
-  "pid": "15665",
-  "pname": "fsmi people",
-  "pcpe": "cpe:/a:typo3:fsmi_people"
+	"vid": "728",
+	"vname": "TYPO3 Association",
+	"vcpe": "cpe:/:typo3",
+	"pid": "15665",
+	"pname": "fsmi people",
+	"pcpe": "cpe:/a:typo3:fsmi_people"
 }

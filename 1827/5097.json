@@ -1,8 +1,8 @@
 {
-  "vid": "1827",
-  "vname": "7-Zip",
-  "vcpe": "cpe:/:7-zip",
-  "pid": "5097",
-  "pname": "7-Zip",
-  "pcpe": "cpe:/a:7-zip:7-zip"
+	"vid": "1827",
+	"vname": "7-Zip",
+	"vcpe": "cpe:/:7-zip",
+	"pid": "5097",
+	"pname": "7-Zip",
+	"pcpe": "cpe:/a:7-zip:7-zip"
 }

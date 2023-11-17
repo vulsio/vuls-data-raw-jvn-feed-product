@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "54194",
-  "pname": "Zoom On-Premise Meeting Connector MMR",
-  "pcpe": "cpe:/a:zoom:zoom_on-premise_meeting_connector_mmr"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "54194",
+	"pname": "Zoom On-Premise Meeting Connector MMR",
+	"pcpe": "cpe:/a:zoom:zoom_on-premise_meeting_connector_mmr"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17539",
-  "vname": "Vanderbilt",
-  "vcpe": "cpe:/:vanderbilt",
-  "pid": "41984",
-  "pname": "ADAPTIVE Communication Environment (ACE)",
-  "pcpe": "cpe:/a:vanderbilt:adaptive_communication_environment"
+	"vid": "17539",
+	"vname": "Vanderbilt",
+	"vcpe": "cpe:/:vanderbilt",
+	"pid": "41984",
+	"pname": "ADAPTIVE Communication Environment (ACE)",
+	"pcpe": "cpe:/a:vanderbilt:adaptive_communication_environment"
 }

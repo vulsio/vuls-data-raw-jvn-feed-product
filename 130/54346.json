@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "54346",
-  "pname": "Intel NUC 11 Compute Element CM11EBC4W ファームウェア",
-  "pcpe": "cpe:/o:intel:nuc_11_compute_element_cm11ebc4w_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "54346",
+	"pname": "Intel NUC 11 Compute Element CM11EBC4W ファームウェア",
+	"pcpe": "cpe:/o:intel:nuc_11_compute_element_cm11ebc4w_firmware"
 }

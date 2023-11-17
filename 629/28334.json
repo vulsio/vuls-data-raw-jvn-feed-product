@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "28334",
-  "pname": "AWK-4131A ファームウェア",
-  "pcpe": "cpe:/o:moxa:awk-4131a_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "28334",
+	"pname": "AWK-4131A ファームウェア",
+	"pcpe": "cpe:/o:moxa:awk-4131a_firmware"
 }

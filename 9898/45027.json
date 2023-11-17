@@ -1,8 +1,8 @@
 {
-  "vid": "9898",
-  "vname": "Elasticsearch",
-  "vcpe": "cpe:/:elasticsearch",
-  "pid": "45027",
-  "pname": "Elastic Cloud on Kubernetes",
-  "pcpe": "cpe:/a:elasticsearch:elastic_cloud_on_kubernetes"
+	"vid": "9898",
+	"vname": "Elasticsearch",
+	"vcpe": "cpe:/:elasticsearch",
+	"pid": "45027",
+	"pname": "Elastic Cloud on Kubernetes",
+	"pcpe": "cpe:/a:elasticsearch:elastic_cloud_on_kubernetes"
 }

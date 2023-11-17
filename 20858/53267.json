@@ -1,8 +1,8 @@
 {
-  "vid": "20858",
-  "vname": "Galera",
-  "vcpe": "cpe:/:galera",
-  "pid": "53267",
-  "pname": "Galera WebTemplate",
-  "pcpe": "cpe:/a:galera:galera_webtemplate"
+	"vid": "20858",
+	"vname": "Galera",
+	"vcpe": "cpe:/:galera",
+	"pid": "53267",
+	"pname": "Galera WebTemplate",
+	"pcpe": "cpe:/a:galera:galera_webtemplate"
 }

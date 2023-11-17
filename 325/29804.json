@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "29804",
-  "pname": "Connect2",
-  "pcpe": "cpe:/a:lenovo:connect2"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "29804",
+	"pname": "Connect2",
+	"pcpe": "cpe:/a:lenovo:connect2"
 }

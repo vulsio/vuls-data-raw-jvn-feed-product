@@ -1,8 +1,8 @@
 {
-  "vid": "242",
-  "vname": "NETxAutomation",
-  "vcpe": "cpe:/:netxautomation",
-  "pid": "875",
-  "pname": "NETxEIB OPC Server",
-  "pcpe": "cpe:/a:netxautomation:netxeib"
+	"vid": "242",
+	"vname": "NETxAutomation",
+	"vcpe": "cpe:/:netxautomation",
+	"pid": "875",
+	"pname": "NETxEIB OPC Server",
+	"pcpe": "cpe:/a:netxautomation:netxeib"
 }

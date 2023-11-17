@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "5131",
-  "pname": "HP SNMP Agents for Linux",
-  "pcpe": "cpe:/a:hp:snmp_agents_for_linux"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "5131",
+	"pname": "HP SNMP Agents for Linux",
+	"pcpe": "cpe:/a:hp:snmp_agents_for_linux"
 }

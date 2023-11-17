@@ -1,8 +1,8 @@
 {
-  "vid": "15092",
-  "vname": "MyOffer project",
-  "vcpe": "cpe:/:myoffer_project",
-  "pid": "35031",
-  "pname": "MyOffer",
-  "pcpe": "cpe:/a:myoffer_project:myoffer"
+	"vid": "15092",
+	"vname": "MyOffer project",
+	"vcpe": "cpe:/:myoffer_project",
+	"pid": "35031",
+	"pname": "MyOffer",
+	"pcpe": "cpe:/a:myoffer_project:myoffer"
 }

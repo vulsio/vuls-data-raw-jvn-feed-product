@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "59608",
-  "pname": "7kg8501-0aa01-2aa0 ファームウェア",
-  "pcpe": "cpe:/o:siemens:7kg8501-0aa01-2aa0_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "59608",
+	"pname": "7kg8501-0aa01-2aa0 ファームウェア",
+	"pcpe": "cpe:/o:siemens:7kg8501-0aa01-2aa0_firmware"
 }

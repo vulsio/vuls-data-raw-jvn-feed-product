@@ -1,8 +1,8 @@
 {
-  "vid": "21978",
-  "vname": "Solana Labs",
-  "vcpe": "cpe:/:solana",
-  "pid": "56426",
-  "pname": "solana_rbpf",
-  "pcpe": "cpe:/a:solana:rbpf"
+	"vid": "21978",
+	"vname": "Solana Labs",
+	"vcpe": "cpe:/:solana",
+	"pid": "56426",
+	"pname": "solana_rbpf",
+	"pcpe": "cpe:/a:solana:rbpf"
 }

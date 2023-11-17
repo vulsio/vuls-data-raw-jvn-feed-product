@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "18063",
-  "pname": "Latitude E4200",
-  "pcpe": "cpe:/h:dell:latitude_e4200"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "18063",
+	"pname": "Latitude E4200",
+	"pcpe": "cpe:/h:dell:latitude_e4200"
 }

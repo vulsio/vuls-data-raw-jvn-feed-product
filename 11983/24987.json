@@ -1,8 +1,8 @@
 {
-  "vid": "11983",
-  "vname": "Qolsys",
-  "vcpe": "cpe:/:qolsys",
-  "pid": "24987",
-  "pname": "Qolsys IQ Panel",
-  "pcpe": "cpe:/a:qolsys:iq_panel"
+	"vid": "11983",
+	"vname": "Qolsys",
+	"vcpe": "cpe:/:qolsys",
+	"pid": "24987",
+	"pname": "Qolsys IQ Panel",
+	"pcpe": "cpe:/a:qolsys:iq_panel"
 }

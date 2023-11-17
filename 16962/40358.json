@@ -1,8 +1,8 @@
 {
-  "vid": "16962",
-  "vname": "reviews module project",
-  "vcpe": "cpe:/:reviews_module_project",
-  "pid": "40358",
-  "pname": "Reviews Module",
-  "pcpe": "cpe:/a:reviews_module_project:reviews_module"
+	"vid": "16962",
+	"vname": "reviews module project",
+	"vcpe": "cpe:/:reviews_module_project",
+	"pid": "40358",
+	"pname": "Reviews Module",
+	"pcpe": "cpe:/a:reviews_module_project:reviews_module"
 }

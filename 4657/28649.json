@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28649",
-  "pname": "Campus S3700HI ファームウェア",
-  "pcpe": "cpe:/o:huawei:campus_s3700hi_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28649",
+	"pname": "Campus S3700HI ファームウェア",
+	"pcpe": "cpe:/o:huawei:campus_s3700hi_firmware"
 }

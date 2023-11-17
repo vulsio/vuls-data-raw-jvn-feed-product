@@ -1,8 +1,8 @@
 {
-  "vid": "12048",
-  "vname": "SSP Europe GmbH",
-  "vcpe": "cpe:/:ssp-europe",
-  "pid": "25359",
-  "pname": "Secure Data Space SDS-API",
-  "pcpe": "cpe:/a:ssp-europe:secure_data_space"
+	"vid": "12048",
+	"vname": "SSP Europe GmbH",
+	"vcpe": "cpe:/:ssp-europe",
+	"pid": "25359",
+	"pname": "Secure Data Space SDS-API",
+	"pcpe": "cpe:/a:ssp-europe:secure_data_space"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10121",
-  "vname": "Telerik",
-  "vcpe": "cpe:/:telerik",
-  "pid": "23133",
-  "pname": "Telerik UI for ASP.NET AJAX",
-  "pcpe": "cpe:/a:telerik:ui_for_asp.net_ajax"
+	"vid": "10121",
+	"vname": "Telerik",
+	"vcpe": "cpe:/:telerik",
+	"pid": "23133",
+	"pname": "Telerik UI for ASP.NET AJAX",
+	"pcpe": "cpe:/a:telerik:ui_for_asp.net_ajax"
 }

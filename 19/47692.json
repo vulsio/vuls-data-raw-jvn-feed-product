@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "47692",
-  "pname": "Webex Room Phone ファームウェア",
-  "pcpe": "cpe:/o:cisco:webex_room_phone_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "47692",
+	"pname": "Webex Room Phone ファームウェア",
+	"pcpe": "cpe:/o:cisco:webex_room_phone_firmware"
 }

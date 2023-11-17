@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "37412",
-  "pname": "The NetApp Data ONTAP Edge",
-  "pcpe": "cpe:/a:netapp:data_ontap_edge"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "37412",
+	"pname": "The NetApp Data ONTAP Edge",
+	"pcpe": "cpe:/a:netapp:data_ontap_edge"
 }

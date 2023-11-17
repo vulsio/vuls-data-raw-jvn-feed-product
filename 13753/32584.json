@@ -1,8 +1,8 @@
 {
-  "vid": "13753",
-  "vname": "CloudMe",
-  "vcpe": "cpe:/:cloudme",
-  "pid": "32584",
-  "pname": "CloudMe Sync",
-  "pcpe": "cpe:/a:cloudme:sync"
+	"vid": "13753",
+	"vname": "CloudMe",
+	"vcpe": "cpe:/:cloudme",
+	"pid": "32584",
+	"pname": "CloudMe Sync",
+	"pcpe": "cpe:/a:cloudme:sync"
 }

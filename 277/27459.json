@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "27459",
-  "pname": "PCS-XG100S",
-  "pcpe": "cpe:/h:sony:pcs-xg100s"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "27459",
+	"pname": "PCS-XG100S",
+	"pcpe": "cpe:/h:sony:pcs-xg100s"
 }

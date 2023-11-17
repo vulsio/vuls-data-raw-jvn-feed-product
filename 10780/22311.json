@@ -1,8 +1,8 @@
 {
-  "vid": "10780",
-  "vname": "synrevoice",
-  "vcpe": "cpe:/:synrevoice",
-  "pid": "22311",
-  "pname": "safe arrival",
-  "pcpe": "cpe:/a:synrevoice:safe_arrival"
+	"vid": "10780",
+	"vname": "synrevoice",
+	"vcpe": "cpe:/:synrevoice",
+	"pid": "22311",
+	"pname": "safe arrival",
+	"pcpe": "cpe:/a:synrevoice:safe_arrival"
 }

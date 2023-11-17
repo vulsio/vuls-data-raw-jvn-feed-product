@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "64416",
-  "pname": "bisheng-wnm ファームウェア",
-  "pcpe": "cpe:/o:huawei:bisheng-wnm_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "64416",
+	"pname": "bisheng-wnm ファームウェア",
+	"pcpe": "cpe:/o:huawei:bisheng-wnm_firmware"
 }

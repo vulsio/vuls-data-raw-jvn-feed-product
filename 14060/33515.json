@@ -1,8 +1,8 @@
 {
-  "vid": "14060",
-  "vname": "MySQL-MMM",
-  "vcpe": "cpe:/:mysql-mmm",
-  "pid": "33515",
-  "pname": "MySQL Multi-Master Replication Manager",
-  "pcpe": "cpe:/a:mysql-mmm:mysql_multi-master_replication_manager"
+	"vid": "14060",
+	"vname": "MySQL-MMM",
+	"vcpe": "cpe:/:mysql-mmm",
+	"pid": "33515",
+	"pname": "MySQL Multi-Master Replication Manager",
+	"pcpe": "cpe:/a:mysql-mmm:mysql_multi-master_replication_manager"
 }

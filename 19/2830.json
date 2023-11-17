@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2830",
-  "pname": "Cisco Video Surveillance Stream Manager",
-  "pcpe": "cpe:/a:cisco:video_surveillance_stream_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2830",
+	"pname": "Cisco Video Surveillance Stream Manager",
+	"pcpe": "cpe:/a:cisco:video_surveillance_stream_manager"
 }

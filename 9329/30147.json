@@ -1,8 +1,8 @@
 {
-  "vid": "9329",
-  "vname": "Sierra Wireless",
-  "vcpe": "cpe:/:sierra_wireless",
-  "pid": "30147",
-  "pname": "Sierra Wireless EM7345 ソフトウェア",
-  "pcpe": "cpe:/a:sierra_wireless:sierra_wireless_em7345_software"
+	"vid": "9329",
+	"vname": "Sierra Wireless",
+	"vcpe": "cpe:/:sierra_wireless",
+	"pid": "30147",
+	"pname": "Sierra Wireless EM7345 ソフトウェア",
+	"pcpe": "cpe:/a:sierra_wireless:sierra_wireless_em7345_software"
 }

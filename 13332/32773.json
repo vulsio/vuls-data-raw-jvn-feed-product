@@ -1,8 +1,8 @@
 {
-  "vid": "13332",
-  "vname": "Datto, Inc.",
-  "vcpe": "cpe:/:datto",
-  "pid": "32773",
-  "pname": "SIRIS 3 X All Flash ファームウェア",
-  "pcpe": "cpe:/o:datto:siris_3_x_all-flash_firmware"
+	"vid": "13332",
+	"vname": "Datto, Inc.",
+	"vcpe": "cpe:/:datto",
+	"pid": "32773",
+	"pname": "SIRIS 3 X All Flash ファームウェア",
+	"pcpe": "cpe:/o:datto:siris_3_x_all-flash_firmware"
 }

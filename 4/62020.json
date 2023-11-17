@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "62020",
-  "pname": "HP 260 G3 Desktop Mini ファームウェア",
-  "pcpe": "cpe:/o:hp:260_g3_desktop_mini_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "62020",
+	"pname": "HP 260 G3 Desktop Mini ファームウェア",
+	"pcpe": "cpe:/o:hp:260_g3_desktop_mini_firmware"
 }

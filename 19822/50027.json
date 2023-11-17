@@ -1,8 +1,8 @@
 {
-  "vid": "19822",
-  "vname": "Cosori",
-  "vcpe": "cpe:/:cosori",
-  "pid": "50027",
-  "pname": "CS158-AF ファームウェア",
-  "pcpe": "cpe:/o:cosori:cs158-af_firmware"
+	"vid": "19822",
+	"vname": "Cosori",
+	"vcpe": "cpe:/:cosori",
+	"pid": "50027",
+	"pname": "CS158-AF ファームウェア",
+	"pcpe": "cpe:/o:cosori:cs158-af_firmware"
 }

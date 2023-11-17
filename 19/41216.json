@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "41216",
-  "pname": "Cisco 250 シリーズ ファームウェア",
-  "pcpe": "cpe:/o:cisco:250_series_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "41216",
+	"pname": "Cisco 250 シリーズ ファームウェア",
+	"pcpe": "cpe:/o:cisco:250_series_firmware"
 }

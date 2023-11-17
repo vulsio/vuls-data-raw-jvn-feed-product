@@ -1,8 +1,8 @@
 {
-  "vid": "13798",
-  "vname": "myrepos project",
-  "vcpe": "cpe:/:myrepos_project",
-  "pid": "32717",
-  "pname": "myrepos",
-  "pcpe": "cpe:/a:myrepos_project:myrepos"
+	"vid": "13798",
+	"vname": "myrepos project",
+	"vcpe": "cpe:/:myrepos_project",
+	"pid": "32717",
+	"pname": "myrepos",
+	"pcpe": "cpe:/a:myrepos_project:myrepos"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1915",
-  "pname": "Brilliant Gallery",
-  "pcpe": "cpe:/a:drupal:brilliant_gallery"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1915",
+	"pname": "Brilliant Gallery",
+	"pcpe": "cpe:/a:drupal:brilliant_gallery"
 }

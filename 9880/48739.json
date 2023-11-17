@@ -1,8 +1,8 @@
 {
-  "vid": "9880",
-  "vname": "Docker",
-  "vcpe": "cpe:/:docker",
-  "pid": "48739",
-  "pname": "adminer docker image",
-  "pcpe": "cpe:/a:docker:adminer"
+	"vid": "9880",
+	"vname": "Docker",
+	"vcpe": "cpe:/:docker",
+	"pid": "48739",
+	"pname": "adminer docker image",
+	"pcpe": "cpe:/a:docker:adminer"
 }

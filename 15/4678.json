@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "4678",
-  "pname": "passlogix v-go self-service password reset and oem",
-  "pcpe": "cpe:/a:oracle:passlogix_v-go_self-service_password_reset_and_oem"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "4678",
+	"pname": "passlogix v-go self-service password reset and oem",
+	"pcpe": "cpe:/a:oracle:passlogix_v-go_self-service_password_reset_and_oem"
 }

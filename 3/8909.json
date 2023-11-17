@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "8909",
-  "pname": "fedora core",
-  "pcpe": "cpe:/o:redhat:fedora_core"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "8909",
+	"pname": "fedora core",
+	"pcpe": "cpe:/o:redhat:fedora_core"
 }

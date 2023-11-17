@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "41891",
-  "pname": "SDM 670ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sdm670_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "41891",
+	"pname": "SDM 670ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sdm670_firmware"
 }

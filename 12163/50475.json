@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "50475",
-  "pname": "Xcode integration",
-  "pcpe": "cpe:/a:jenkins:xcode_integration"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "50475",
+	"pname": "Xcode integration",
+	"pcpe": "cpe:/a:jenkins:xcode_integration"
 }

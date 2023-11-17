@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "41745",
-  "pname": "Galaxy J7 Neo ファームウェア",
-  "pcpe": "cpe:/o:samsung:galaxy_j7_neo_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "41745",
+	"pname": "Galaxy J7 Neo ファームウェア",
+	"pcpe": "cpe:/o:samsung:galaxy_j7_neo_firmware"
 }

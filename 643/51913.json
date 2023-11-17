@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "51913",
-  "pname": "Dell DBUtilDrv2.sys ドライバー",
-  "pcpe": "cpe:/o:dell:dbutildrv2.sys_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "51913",
+	"pname": "Dell DBUtilDrv2.sys ドライバー",
+	"pcpe": "cpe:/o:dell:dbutildrv2.sys_firmware"
 }

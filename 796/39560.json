@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "39560",
-  "pname": "RE6400 ファームウェア",
-  "pcpe": "cpe:/o:linksys:re6400_firmware"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "39560",
+	"pname": "RE6400 ファームウェア",
+	"pcpe": "cpe:/o:linksys:re6400_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4879",
-  "vname": "ixprim-cms",
-  "vcpe": "cpe:/:ixprim-cms",
-  "pid": "10313",
-  "pname": "ixprim",
-  "pcpe": "cpe:/a:ixprim-cms:ixprim"
+	"vid": "4879",
+	"vname": "ixprim-cms",
+	"vcpe": "cpe:/:ixprim-cms",
+	"pid": "10313",
+	"pname": "ixprim",
+	"pcpe": "cpe:/a:ixprim-cms:ixprim"
 }

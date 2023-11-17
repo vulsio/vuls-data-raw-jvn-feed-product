@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "29865",
-  "pname": "Oracle Hospitality Cruise Dining Room Management",
-  "pcpe": "cpe:/a:oracle:hospitality_cruise_dining_room_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "29865",
+	"pname": "Oracle Hospitality Cruise Dining Room Management",
+	"pcpe": "cpe:/a:oracle:hospitality_cruise_dining_room_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "500",
-  "vname": "Mambo Foundation",
-  "vcpe": "cpe:/:mambo-foundation",
-  "pid": "11178",
-  "pname": "artlinks component",
-  "pcpe": "cpe:/a:mambo-foundation:artlinks_component"
+	"vid": "500",
+	"vname": "Mambo Foundation",
+	"vcpe": "cpe:/:mambo-foundation",
+	"pid": "11178",
+	"pname": "artlinks component",
+	"pcpe": "cpe:/a:mambo-foundation:artlinks_component"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19201",
-  "vname": "株式会社ジェイテクト",
-  "vcpe": "cpe:/:jtekt",
-  "pid": "48282",
-  "pname": "PC10P-DP ファームウェア",
-  "pcpe": "cpe:/o:jtekt:pc10p-dp_firmware"
+	"vid": "19201",
+	"vname": "株式会社ジェイテクト",
+	"vcpe": "cpe:/:jtekt",
+	"pid": "48282",
+	"pname": "PC10P-DP ファームウェア",
+	"pcpe": "cpe:/o:jtekt:pc10p-dp_firmware"
 }

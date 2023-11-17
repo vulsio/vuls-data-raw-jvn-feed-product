@@ -1,8 +1,8 @@
 {
-  "vid": "17990",
-  "vname": "Tonnet",
-  "vcpe": "cpe:/:tonnet",
-  "pid": "43592",
-  "pname": "tat-71416g1 ファームウェア",
-  "pcpe": "cpe:/o:tonnet:tat-71416g1_firmware"
+	"vid": "17990",
+	"vname": "Tonnet",
+	"vcpe": "cpe:/:tonnet",
+	"pid": "43592",
+	"pname": "tat-71416g1 ファームウェア",
+	"pcpe": "cpe:/o:tonnet:tat-71416g1_firmware"
 }

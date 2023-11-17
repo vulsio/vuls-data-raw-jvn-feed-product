@@ -1,8 +1,8 @@
 {
-  "vid": "12329",
-  "vname": "systemd project",
-  "vcpe": "cpe:/:systemd_project",
-  "pid": "27749",
-  "pname": "systemd",
-  "pcpe": "cpe:/a:systemd_project:systemd"
+	"vid": "12329",
+	"vname": "systemd project",
+	"vcpe": "cpe:/:systemd_project",
+	"pid": "27749",
+	"pname": "systemd",
+	"pcpe": "cpe:/a:systemd_project:systemd"
 }

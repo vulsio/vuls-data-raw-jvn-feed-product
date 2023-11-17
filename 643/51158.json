@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "51158",
-  "pname": "Dell PowerEdge R640 ファームウェア",
-  "pcpe": "cpe:/o:dell:poweredge_r640_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "51158",
+	"pname": "Dell PowerEdge R640 ファームウェア",
+	"pcpe": "cpe:/o:dell:poweredge_r640_firmware"
 }

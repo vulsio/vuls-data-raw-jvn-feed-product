@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "4937",
-  "pname": "unified videoconferencing system 5110",
-  "pcpe": "cpe:/h:cisco:unified_videoconferencing_system_5110"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "4937",
+	"pname": "unified videoconferencing system 5110",
+	"pcpe": "cpe:/h:cisco:unified_videoconferencing_system_5110"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "957",
-  "vname": "ColdGen",
-  "vcpe": "cpe:/:coldgen",
-  "pid": "3556",
-  "pname": "ColdGen ColdUserGroup",
-  "pcpe": "cpe:/a:coldgen:coldusergroup"
+	"vid": "957",
+	"vname": "ColdGen",
+	"vcpe": "cpe:/:coldgen",
+	"pid": "3556",
+	"pname": "ColdGen ColdUserGroup",
+	"pcpe": "cpe:/a:coldgen:coldusergroup"
 }

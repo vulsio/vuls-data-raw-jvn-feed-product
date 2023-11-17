@@ -1,8 +1,8 @@
 {
-  "vid": "4468",
-  "vname": "Graphisoft",
-  "vcpe": "cpe:/:graphisoft",
-  "pid": "9517",
-  "pname": "ArchiCAD",
-  "pcpe": "cpe:/a:graphisoft:archicad"
+	"vid": "4468",
+	"vname": "Graphisoft",
+	"vcpe": "cpe:/:graphisoft",
+	"pid": "9517",
+	"pname": "ArchiCAD",
+	"pcpe": "cpe:/a:graphisoft:archicad"
 }

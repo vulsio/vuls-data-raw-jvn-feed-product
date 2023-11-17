@@ -1,8 +1,8 @@
 {
-  "vid": "228",
-  "vname": "Fedora Project",
-  "vcpe": "cpe:/:fedoraproject",
-  "pid": "63718",
-  "pname": "supybot-fedora",
-  "pcpe": "cpe:/a:fedoraproject:supybot-fedora"
+	"vid": "228",
+	"vname": "Fedora Project",
+	"vcpe": "cpe:/:fedoraproject",
+	"pid": "63718",
+	"pname": "supybot-fedora",
+	"pcpe": "cpe:/a:fedoraproject:supybot-fedora"
 }

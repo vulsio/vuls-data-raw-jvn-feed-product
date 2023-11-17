@@ -1,8 +1,8 @@
 {
-  "vid": "105",
-  "vname": "Ruby-lang.org",
-  "vcpe": "cpe:/:ruby-lang",
-  "pid": "42198",
-  "pname": "trunk",
-  "pcpe": "cpe:/a:ruby-lang:trunk"
+	"vid": "105",
+	"vname": "Ruby-lang.org",
+	"vcpe": "cpe:/:ruby-lang",
+	"pid": "42198",
+	"pname": "trunk",
+	"pcpe": "cpe:/a:ruby-lang:trunk"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2859",
-  "vname": "cliserv",
-  "vcpe": "cpe:/:cliserv",
-  "pid": "6830",
-  "pname": "web community",
-  "pcpe": "cpe:/a:cliserv:web_community"
+	"vid": "2859",
+	"vname": "cliserv",
+	"vcpe": "cpe:/:cliserv",
+	"pid": "6830",
+	"pname": "web community",
+	"pcpe": "cpe:/a:cliserv:web_community"
 }

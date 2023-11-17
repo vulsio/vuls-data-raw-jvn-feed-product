@@ -1,8 +1,8 @@
 {
-  "vid": "747",
-  "vname": "QNX Software Systems",
-  "vcpe": "cpe:/:qnx",
-  "pid": "14138",
-  "pname": "rtos",
-  "pcpe": "cpe:/a:qnx:rtos"
+	"vid": "747",
+	"vname": "QNX Software Systems",
+	"vcpe": "cpe:/:qnx",
+	"pid": "14138",
+	"pname": "rtos",
+	"pcpe": "cpe:/a:qnx:rtos"
 }

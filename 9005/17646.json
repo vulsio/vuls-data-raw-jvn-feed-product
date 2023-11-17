@@ -1,8 +1,8 @@
 {
-  "vid": "9005",
-  "vname": "Data Security Systems Solutions Pte",
-  "vcpe": "cpe:/:ds3",
-  "pid": "17646",
-  "pname": "DS3 Authentication Server",
-  "pcpe": "cpe:/h:ds3:authentication_server"
+	"vid": "9005",
+	"vname": "Data Security Systems Solutions Pte",
+	"vcpe": "cpe:/:ds3",
+	"pid": "17646",
+	"pname": "DS3 Authentication Server",
+	"pcpe": "cpe:/h:ds3:authentication_server"
 }

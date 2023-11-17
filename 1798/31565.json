@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "31565",
-  "pname": "File Station",
-  "pcpe": "cpe:/a:synology:file_station"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "31565",
+	"pname": "File Station",
+	"pcpe": "cpe:/a:synology:file_station"
 }

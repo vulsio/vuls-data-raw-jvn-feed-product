@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "39198",
-  "pname": "WE6 ファームウェア",
-  "pcpe": "cpe:/o:sony:we6_firmware"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "39198",
+	"pname": "WE6 ファームウェア",
+	"pcpe": "cpe:/o:sony:we6_firmware"
 }

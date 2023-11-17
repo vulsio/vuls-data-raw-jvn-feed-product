@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26422",
-  "pname": "HPE Server Migration Pack",
-  "pcpe": "cpe:/a:hp:server_migration_pack"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26422",
+	"pname": "HPE Server Migration Pack",
+	"pcpe": "cpe:/a:hp:server_migration_pack"
 }

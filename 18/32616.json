@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "32616",
-  "pname": "IBM XIV Storage System 2812-114 ファームウェア",
-  "pcpe": "cpe:/o:ibm:xiv_storage_system_2812-114_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "32616",
+	"pname": "IBM XIV Storage System 2812-114 ファームウェア",
+	"pcpe": "cpe:/o:ibm:xiv_storage_system_2812-114_firmware"
 }

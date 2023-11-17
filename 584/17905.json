@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "17905",
-  "pname": "SCALANCE W747-1",
-  "pcpe": "cpe:/h:siemens:scalance_w747-1"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "17905",
+	"pname": "SCALANCE W747-1",
+	"pcpe": "cpe:/h:siemens:scalance_w747-1"
 }

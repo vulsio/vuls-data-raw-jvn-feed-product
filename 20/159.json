@@ -1,8 +1,8 @@
 {
-  "vid": "20",
-  "vname": "DeleGate.org",
-  "vcpe": "cpe:/:delegate",
-  "pid": "159",
-  "pname": "DeleGate",
-  "pcpe": "cpe:/a:delegate:delegate"
+	"vid": "20",
+	"vname": "DeleGate.org",
+	"vcpe": "cpe:/:delegate",
+	"pid": "159",
+	"pname": "DeleGate",
+	"pcpe": "cpe:/a:delegate:delegate"
 }

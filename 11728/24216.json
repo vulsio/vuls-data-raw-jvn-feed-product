@@ -1,8 +1,8 @@
 {
-  "vid": "11728",
-  "vname": "Avigilon",
-  "vcpe": "cpe:/:avigilon",
-  "pid": "24216",
-  "pname": "ACC",
-  "pcpe": "cpe:/a:avigilon:avigilon_control_center"
+	"vid": "11728",
+	"vname": "Avigilon",
+	"vcpe": "cpe:/:avigilon",
+	"pid": "24216",
+	"pname": "ACC",
+	"pcpe": "cpe:/a:avigilon:avigilon_control_center"
 }

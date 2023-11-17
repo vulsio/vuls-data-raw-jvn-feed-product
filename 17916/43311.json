@@ -1,8 +1,8 @@
 {
-  "vid": "17916",
-  "vname": "Cambium Networks, Ltd.",
-  "vcpe": "cpe:/:cambiumnetworks",
-  "pid": "43311",
-  "pname": "XR2436 ファームウェア",
-  "pcpe": "cpe:/o:cambiumnetworks:xr2436_firmware"
+	"vid": "17916",
+	"vname": "Cambium Networks, Ltd.",
+	"vcpe": "cpe:/:cambiumnetworks",
+	"pid": "43311",
+	"pname": "XR2436 ファームウェア",
+	"pcpe": "cpe:/o:cambiumnetworks:xr2436_firmware"
 }

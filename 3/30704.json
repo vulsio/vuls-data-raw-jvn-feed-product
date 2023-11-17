@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "30704",
-  "pname": "Feedhenry enterprise mobile application platform",
-  "pcpe": "cpe:/a:redhat:feedhenry_enterprise_mobile_application_platform"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "30704",
+	"pname": "Feedhenry enterprise mobile application platform",
+	"pcpe": "cpe:/a:redhat:feedhenry_enterprise_mobile_application_platform"
 }

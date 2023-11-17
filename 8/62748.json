@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "62748",
-  "pname": "Commons Net",
-  "pcpe": "cpe:/a:apache:commons_net"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "62748",
+	"pname": "Commons Net",
+	"pcpe": "cpe:/a:apache:commons_net"
 }

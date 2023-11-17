@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "3967",
-  "pname": "Tivoli Change and Configuration Management Database",
-  "pcpe": "cpe:/a:ibm:change_and_configuration_management_database"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "3967",
+	"pname": "Tivoli Change and Configuration Management Database",
+	"pcpe": "cpe:/a:ibm:change_and_configuration_management_database"
 }

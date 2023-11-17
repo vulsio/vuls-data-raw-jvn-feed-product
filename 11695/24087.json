@@ -1,8 +1,8 @@
 {
-  "vid": "11695",
-  "vname": "Piriform Ltd",
-  "vcpe": "cpe:/:piriform",
-  "pid": "24087",
-  "pname": "Ccleaner",
-  "pcpe": "cpe:/a:piriform:ccleaner"
+	"vid": "11695",
+	"vname": "Piriform Ltd",
+	"vcpe": "cpe:/:piriform",
+	"pid": "24087",
+	"pname": "Ccleaner",
+	"pcpe": "cpe:/a:piriform:ccleaner"
 }

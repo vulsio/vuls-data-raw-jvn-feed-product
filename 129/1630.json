@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1630",
-  "pname": "eTrust Antivirus",
-  "pcpe": "cpe:/a:hitachi:etrust_anitivirus"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1630",
+	"pname": "eTrust Antivirus",
+	"pcpe": "cpe:/a:hitachi:etrust_anitivirus"
 }

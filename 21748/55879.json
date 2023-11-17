@@ -1,8 +1,8 @@
 {
-  "vid": "21748",
-  "vname": "CedCommerce",
-  "vcpe": "cpe:/:cedcommerce",
-  "pid": "55879",
-  "pname": "Wholesale Market",
-  "pcpe": "cpe:/a:cedcommerce:wholesale_market"
+	"vid": "21748",
+	"vname": "CedCommerce",
+	"vcpe": "cpe:/:cedcommerce",
+	"pid": "55879",
+	"pname": "Wholesale Market",
+	"pcpe": "cpe:/a:cedcommerce:wholesale_market"
 }

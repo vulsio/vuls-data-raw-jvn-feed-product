@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "30626",
-  "pname": "SAP E-Recruiting",
-  "pcpe": "cpe:/a:sap:e-recruiting"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "30626",
+	"pname": "SAP E-Recruiting",
+	"pcpe": "cpe:/a:sap:e-recruiting"
 }

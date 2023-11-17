@@ -1,8 +1,8 @@
 {
-  "vid": "8868",
-  "vname": "Foscam",
-  "vcpe": "cpe:/:foscam",
-  "pid": "19648",
-  "pname": "FI8904W",
-  "pcpe": "cpe:/h:foscam:fi8904w"
+	"vid": "8868",
+	"vname": "Foscam",
+	"vcpe": "cpe:/:foscam",
+	"pid": "19648",
+	"pname": "FI8904W",
+	"pcpe": "cpe:/h:foscam:fi8904w"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "785",
-  "vname": "Sweex",
-  "vcpe": "cpe:/:sweex",
-  "pid": "3141",
-  "pname": "LB000021 Router Firmware",
-  "pcpe": "cpe:/a:sweex:lb000021_router_firmware"
+	"vid": "785",
+	"vname": "Sweex",
+	"vcpe": "cpe:/:sweex",
+	"pid": "3141",
+	"pname": "LB000021 Router Firmware",
+	"pcpe": "cpe:/a:sweex:lb000021_router_firmware"
 }

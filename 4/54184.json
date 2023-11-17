@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "54184",
-  "pname": "HP OfficeJet 4651 K9V83B ファームウェア",
-  "pcpe": "cpe:/o:hp:officejet_4651_k9v83b_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "54184",
+	"pname": "HP OfficeJet 4651 K9V83B ファームウェア",
+	"pcpe": "cpe:/o:hp:officejet_4651_k9v83b_firmware"
 }

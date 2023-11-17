@@ -1,8 +1,8 @@
 {
-  "vid": "1717",
-  "vname": "SMC Networks",
-  "vcpe": "cpe:/:smc_networks",
-  "pid": "42826",
-  "pname": "D3G0804W ファームウェア",
-  "pcpe": "cpe:/o:smc_networks:d3g0804_firmware"
+	"vid": "1717",
+	"vname": "SMC Networks",
+	"vcpe": "cpe:/:smc_networks",
+	"pid": "42826",
+	"pname": "D3G0804W ファームウェア",
+	"pcpe": "cpe:/o:smc_networks:d3g0804_firmware"
 }

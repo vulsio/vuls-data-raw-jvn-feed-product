@@ -1,8 +1,8 @@
 {
-  "vid": "21475",
-  "vname": "IDEC株式会社",
-  "vcpe": "cpe:/:idec",
-  "pid": "55120",
-  "pname": "FC6B 形 MICROSmart All-in-One CPU モジュール",
-  "pcpe": "cpe:/o:idec:microsmart_fc6b_firmware"
+	"vid": "21475",
+	"vname": "IDEC株式会社",
+	"vcpe": "cpe:/:idec",
+	"pid": "55120",
+	"pname": "FC6B 形 MICROSmart All-in-One CPU モジュール",
+	"pcpe": "cpe:/o:idec:microsmart_fc6b_firmware"
 }

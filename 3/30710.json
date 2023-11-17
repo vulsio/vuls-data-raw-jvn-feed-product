@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "30710",
-  "pname": "kernel-rt",
-  "pcpe": "cpe:/o:redhat:kernel-rt"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "30710",
+	"pname": "kernel-rt",
+	"pcpe": "cpe:/o:redhat:kernel-rt"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16608",
-  "vname": "ZmartZone IAM",
-  "vcpe": "cpe:/:zmartzone",
-  "pid": "39556",
-  "pname": "mod_auth_openidc",
-  "pcpe": "cpe:/a:zmartzone:mod_auth_openidc"
+	"vid": "16608",
+	"vname": "ZmartZone IAM",
+	"vcpe": "cpe:/:zmartzone",
+	"pid": "39556",
+	"pname": "mod_auth_openidc",
+	"pcpe": "cpe:/a:zmartzone:mod_auth_openidc"
 }

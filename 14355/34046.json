@@ -1,8 +1,8 @@
 {
-  "vid": "14355",
-  "vname": "cloudpub-redis project",
-  "vcpe": "cpe:/:cloudpub-redis_project",
-  "pid": "34046",
-  "pname": "cloudpub-redis",
-  "pcpe": "cpe:/a:cloudpub-redis_project:cloudpub-redis"
+	"vid": "14355",
+	"vname": "cloudpub-redis project",
+	"vcpe": "cpe:/:cloudpub-redis_project",
+	"pid": "34046",
+	"pname": "cloudpub-redis",
+	"pcpe": "cpe:/a:cloudpub-redis_project:cloudpub-redis"
 }

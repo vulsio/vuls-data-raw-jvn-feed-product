@@ -1,8 +1,8 @@
 {
-  "vid": "16308",
-  "vname": "BPC",
-  "vcpe": "cpe:/:bpcbt",
-  "pid": "38474",
-  "pname": "SmartVista",
-  "pcpe": "cpe:/a:bpcbt:smartvista"
+	"vid": "16308",
+	"vname": "BPC",
+	"vcpe": "cpe:/:bpcbt",
+	"pid": "38474",
+	"pname": "SmartVista",
+	"pcpe": "cpe:/a:bpcbt:smartvista"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17978",
-  "pname": "Cisco TelePresence System 500-32",
-  "pcpe": "cpe:/h:cisco:telepresence_system_500-32"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17978",
+	"pname": "Cisco TelePresence System 500-32",
+	"pcpe": "cpe:/h:cisco:telepresence_system_500-32"
 }

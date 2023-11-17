@@ -1,8 +1,8 @@
 {
-  "vid": "12813",
-  "vname": "IPFire",
-  "vcpe": "cpe:/:ipfire",
-  "pid": "29499",
-  "pname": "IPFire",
-  "pcpe": "cpe:/a:ipfire:ipfire"
+	"vid": "12813",
+	"vname": "IPFire",
+	"vcpe": "cpe:/:ipfire",
+	"pid": "29499",
+	"pname": "IPFire",
+	"pcpe": "cpe:/a:ipfire:ipfire"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11899",
-  "vname": "株式会社ニューフォリア",
-  "vcpe": "cpe:/:newphoria_corporation",
-  "pid": "24794",
-  "pname": "Auction Camera",
-  "pcpe": "cpe:/a:newphoria_corporation:auction_camera"
+	"vid": "11899",
+	"vname": "株式会社ニューフォリア",
+	"vcpe": "cpe:/:newphoria_corporation",
+	"pid": "24794",
+	"pname": "Auction Camera",
+	"pcpe": "cpe:/a:newphoria_corporation:auction_camera"
 }

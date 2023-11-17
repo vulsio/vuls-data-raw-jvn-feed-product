@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "42523",
-  "pname": "Cisco Linksys EA 4500 ファームウェア",
-  "pcpe": "cpe:/o:cisco:linksys_ea4500_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "42523",
+	"pname": "Cisco Linksys EA 4500 ファームウェア",
+	"pcpe": "cpe:/o:cisco:linksys_ea4500_firmware"
 }

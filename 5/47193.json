@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47193",
-  "pname": "AR8031 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:ar8031_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47193",
+	"pname": "AR8031 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:ar8031_firmware"
 }

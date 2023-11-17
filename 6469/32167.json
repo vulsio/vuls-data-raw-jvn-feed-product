@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "32167",
-  "pname": "FL SWITCH 4012T 2GT 2FX ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:fl_switch_4012t_2gt_2fx_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "32167",
+	"pname": "FL SWITCH 4012T 2GT 2FX ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:fl_switch_4012t_2gt_2fx_firmware"
 }

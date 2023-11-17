@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "15561",
-  "pname": "viruswall",
-  "pcpe": "cpe:/a:trendmicro:viruswall"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "15561",
+	"pname": "viruswall",
+	"pcpe": "cpe:/a:trendmicro:viruswall"
 }

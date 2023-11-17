@@ -1,8 +1,8 @@
 {
-  "vid": "18046",
-  "vname": "Readdle",
-  "vcpe": "cpe:/:readdle",
-  "pid": "43879",
-  "pname": "Spark",
-  "pcpe": "cpe:/a:readdle:spark"
+	"vid": "18046",
+	"vname": "Readdle",
+	"vcpe": "cpe:/:readdle",
+	"pid": "43879",
+	"pname": "Spark",
+	"pcpe": "cpe:/a:readdle:spark"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "45083",
-  "pname": "IBM Aspera Streaming",
-  "pcpe": "cpe:/a:ibm:aspera_streaming"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "45083",
+	"pname": "IBM Aspera Streaming",
+	"pcpe": "cpe:/a:ibm:aspera_streaming"
 }

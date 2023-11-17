@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "19055",
-  "pname": "HP Autonomy Ultraseek",
-  "pcpe": "cpe:/a:hp:autonomy_ultraseek"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "19055",
+	"pname": "HP Autonomy Ultraseek",
+	"pcpe": "cpe:/a:hp:autonomy_ultraseek"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "573",
-  "vname": "Foxit Software Inc",
-  "vcpe": "cpe:/:foxitsoftware",
-  "pid": "30192",
-  "pname": "Foxit PDF Compressor",
-  "pcpe": "cpe:/a:foxitsoftware:foxit_pdf_compressor"
+	"vid": "573",
+	"vname": "Foxit Software Inc",
+	"vcpe": "cpe:/:foxitsoftware",
+	"pid": "30192",
+	"pname": "Foxit PDF Compressor",
+	"pcpe": "cpe:/a:foxitsoftware:foxit_pdf_compressor"
 }

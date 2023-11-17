@@ -1,8 +1,8 @@
 {
-  "vid": "12363",
-  "vname": "TalariaX Pte Ltd",
-  "vcpe": "cpe:/:talariax",
-  "pid": "27841",
-  "pname": "SendQuick Avera",
-  "pcpe": "cpe:/h:talariax:avera_sms_gateway"
+	"vid": "12363",
+	"vname": "TalariaX Pte Ltd",
+	"vcpe": "cpe:/:talariax",
+	"pid": "27841",
+	"pname": "SendQuick Avera",
+	"pcpe": "cpe:/h:talariax:avera_sms_gateway"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19201",
-  "vname": "株式会社ジェイテクト",
-  "vcpe": "cpe:/:jtekt",
-  "pid": "49043",
-  "pname": "PC10G-CPU TCC-6353 ファームウェア",
-  "pcpe": "cpe:/o:jtekt:pc10g-cpu_tcc-6353_firmware"
+	"vid": "19201",
+	"vname": "株式会社ジェイテクト",
+	"vcpe": "cpe:/:jtekt",
+	"pid": "49043",
+	"pname": "PC10G-CPU TCC-6353 ファームウェア",
+	"pcpe": "cpe:/o:jtekt:pc10g-cpu_tcc-6353_firmware"
 }

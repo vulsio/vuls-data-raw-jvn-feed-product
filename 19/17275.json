@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17275",
-  "pname": "Cisco 867 サービス統合型ルータ",
-  "pcpe": "cpe:/h:cisco:867_integrated_services_router"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17275",
+	"pname": "Cisco 867 サービス統合型ルータ",
+	"pcpe": "cpe:/h:cisco:867_integrated_services_router"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "7578",
-  "vname": "sidb",
-  "vcpe": "cpe:/:sidb",
-  "pid": "14732",
-  "pname": "scientific image database",
-  "pcpe": "cpe:/a:sidb:scientific_image_database"
+	"vid": "7578",
+	"vname": "sidb",
+	"vcpe": "cpe:/:sidb",
+	"pid": "14732",
+	"pname": "scientific image database",
+	"pcpe": "cpe:/a:sidb:scientific_image_database"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "29755",
-  "pname": "Java Advanced Management Console",
-  "pcpe": "cpe:/a:oracle:java_advanced_management_console"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "29755",
+	"pname": "Java Advanced Management Console",
+	"pcpe": "cpe:/a:oracle:java_advanced_management_console"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18372",
-  "vname": "node-extend project",
-  "vcpe": "cpe:/:node-extend_project",
-  "pid": "45102",
-  "pname": "node-extend",
-  "pcpe": "cpe:/a:node-extend_project:node-extend"
+	"vid": "18372",
+	"vname": "node-extend project",
+	"vcpe": "cpe:/:node-extend_project",
+	"pid": "45102",
+	"pname": "node-extend",
+	"pcpe": "cpe:/a:node-extend_project:node-extend"
 }

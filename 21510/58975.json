@@ -1,8 +1,8 @@
 {
-  "vid": "21510",
-  "vname": "ControlUp Technologies LTD",
-  "vcpe": "cpe:/:controlup",
-  "pid": "58975",
-  "pname": "controlup",
-  "pcpe": "cpe:/a:controlup:controlup"
+	"vid": "21510",
+	"vname": "ControlUp Technologies LTD",
+	"vcpe": "cpe:/:controlup",
+	"pid": "58975",
+	"pname": "controlup",
+	"pcpe": "cpe:/a:controlup:controlup"
 }

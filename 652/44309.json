@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "44309",
-  "pname": "S4 ファームウェア",
-  "pcpe": "cpe:/o:samsung:s4_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "44309",
+	"pname": "S4 ファームウェア",
+	"pcpe": "cpe:/o:samsung:s4_firmware"
 }

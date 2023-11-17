@@ -1,8 +1,8 @@
 {
-  "vid": "10346",
-  "vname": "Team Yoast",
-  "vcpe": "cpe:/:yoast",
-  "pid": "21740",
-  "pname": "Google Analytics by Yoast",
-  "pcpe": "cpe:/a:yoast:google_analytics"
+	"vid": "10346",
+	"vname": "Team Yoast",
+	"vcpe": "cpe:/:yoast",
+	"pid": "21740",
+	"pname": "Google Analytics by Yoast",
+	"pcpe": "cpe:/a:yoast:google_analytics"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13973",
-  "vname": "LCDS",
-  "vcpe": "cpe:/:lcds",
-  "pid": "33278",
-  "pname": "Laquis SCADA",
-  "pcpe": "cpe:/a:lcds:laquis_scada"
+	"vid": "13973",
+	"vname": "LCDS",
+	"vcpe": "cpe:/:lcds",
+	"pid": "33278",
+	"pname": "Laquis SCADA",
+	"pcpe": "cpe:/a:lcds:laquis_scada"
 }

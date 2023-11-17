@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3784",
-  "pname": "HP Network Automation",
-  "pcpe": "cpe:/a:hp:network_automation"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3784",
+	"pname": "HP Network Automation",
+	"pcpe": "cpe:/a:hp:network_automation"
 }

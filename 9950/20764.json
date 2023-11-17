@@ -1,8 +1,8 @@
 {
-  "vid": "9950",
-  "vname": "Arial Software",
-  "vcpe": "cpe:/:arialsoftware",
-  "pid": "20764",
-  "pname": "Campaign Enterprise",
-  "pcpe": "cpe:/a:arialsoftware:campaign_enterprise"
+	"vid": "9950",
+	"vname": "Arial Software",
+	"vcpe": "cpe:/:arialsoftware",
+	"pid": "20764",
+	"pname": "Campaign Enterprise",
+	"pcpe": "cpe:/a:arialsoftware:campaign_enterprise"
 }

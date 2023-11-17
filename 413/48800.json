@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "48800",
-  "pname": "QNX SDP",
-  "pcpe": "cpe:/o:blackberry:qnx_sdp"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "48800",
+	"pname": "QNX SDP",
+	"pcpe": "cpe:/o:blackberry:qnx_sdp"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13636",
-  "vname": "libpam4j project",
-  "vcpe": "cpe:/:libpam4j_project",
-  "pid": "32245",
-  "pname": "libpam4j",
-  "pcpe": "cpe:/a:libpam4j_project:libpam4j"
+	"vid": "13636",
+	"vname": "libpam4j project",
+	"vcpe": "cpe:/:libpam4j_project",
+	"pid": "32245",
+	"pname": "libpam4j",
+	"pcpe": "cpe:/a:libpam4j_project:libpam4j"
 }

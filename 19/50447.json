@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "50447",
-  "pname": "C225 M6 ファームウェア",
-  "pcpe": "cpe:/o:cisco:c225_m6_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "50447",
+	"pname": "C225 M6 ファームウェア",
+	"pcpe": "cpe:/o:cisco:c225_m6_firmware"
 }

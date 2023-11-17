@@ -1,8 +1,8 @@
 {
-  "vid": "161",
-  "vname": "KDDI",
-  "vcpe": "cpe:/:kddi",
-  "pid": "29183",
-  "pname": "HOME SPOT CUBE2 ファームウェア",
-  "pcpe": "cpe:/o:kddi:home_spot_cube_2_firmware"
+	"vid": "161",
+	"vname": "KDDI",
+	"vcpe": "cpe:/:kddi",
+	"pid": "29183",
+	"pname": "HOME SPOT CUBE2 ファームウェア",
+	"pcpe": "cpe:/o:kddi:home_spot_cube_2_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "18940",
-  "pname": "IDP800",
-  "pcpe": "cpe:/h:juniper:idp800"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "18940",
+	"pname": "IDP800",
+	"pcpe": "cpe:/h:juniper:idp800"
 }

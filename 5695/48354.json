@@ -1,8 +1,8 @@
 {
-  "vid": "5695",
-  "vname": "Mitel Networks Corporation",
-  "vcpe": "cpe:/:mitel",
-  "pid": "48354",
-  "pname": "MiContact Center Enterprise",
-  "pcpe": "cpe:/a:mitel:micontact_center_enterprise"
+	"vid": "5695",
+	"vname": "Mitel Networks Corporation",
+	"vcpe": "cpe:/:mitel",
+	"pid": "48354",
+	"pname": "MiContact Center Enterprise",
+	"pcpe": "cpe:/a:mitel:micontact_center_enterprise"
 }

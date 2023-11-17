@@ -1,8 +1,8 @@
 {
-  "vid": "5306",
-  "vname": "libsoup",
-  "vcpe": "cpe:/:libsoup",
-  "pid": "10979",
-  "pname": "libsoup",
-  "pcpe": "cpe:/a:libsoup:libsoup"
+	"vid": "5306",
+	"vname": "libsoup",
+	"vcpe": "cpe:/:libsoup",
+	"pid": "10979",
+	"pname": "libsoup",
+	"pcpe": "cpe:/a:libsoup:libsoup"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "34636",
-  "pname": "Huawei HG255s-10 ファームウェア",
-  "pcpe": "cpe:/o:huawei:hg255s-10_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "34636",
+	"pname": "Huawei HG255s-10 ファームウェア",
+	"pcpe": "cpe:/o:huawei:hg255s-10_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17358",
-  "vname": "XML Language Server project",
-  "vcpe": "cpe:/:xml_language_server_project",
-  "pid": "41317",
-  "pname": "XML Language Server",
-  "pcpe": "cpe:/a:xml_language_server_project:xml_server_project"
+	"vid": "17358",
+	"vname": "XML Language Server project",
+	"vcpe": "cpe:/:xml_language_server_project",
+	"pid": "41317",
+	"pname": "XML Language Server",
+	"pcpe": "cpe:/a:xml_language_server_project:xml_server_project"
 }

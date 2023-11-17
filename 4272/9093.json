@@ -1,8 +1,8 @@
 {
-  "vid": "4272",
-  "vname": "H. Peter Anvin",
-  "vcpe": "cpe:/:h_peter_anvin",
-  "pid": "9093",
-  "pname": "tftp-hpa",
-  "pcpe": "cpe:/a:h_peter_anvin:tftp-hpa"
+	"vid": "4272",
+	"vname": "H. Peter Anvin",
+	"vcpe": "cpe:/:h_peter_anvin",
+	"pid": "9093",
+	"pname": "tftp-hpa",
+	"pcpe": "cpe:/a:h_peter_anvin:tftp-hpa"
 }

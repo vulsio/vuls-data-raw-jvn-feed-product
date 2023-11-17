@@ -1,8 +1,8 @@
 {
-  "vid": "6148",
-  "vname": "openpbs",
-  "vcpe": "cpe:/:openpbs",
-  "pid": "12299",
-  "pname": "openpbs",
-  "pcpe": "cpe:/a:openpbs:openpbs"
+	"vid": "6148",
+	"vname": "openpbs",
+	"vcpe": "cpe:/:openpbs",
+	"pid": "12299",
+	"pname": "openpbs",
+	"pcpe": "cpe:/a:openpbs:openpbs"
 }

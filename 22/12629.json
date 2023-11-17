@@ -1,8 +1,8 @@
 {
-  "vid": "22",
-  "vname": "The PHP Group",
-  "vcpe": "cpe:/:php",
-  "pid": "12629",
-  "pname": "mysql extension",
-  "pcpe": "cpe:/a:php:mysql_extension"
+	"vid": "22",
+	"vname": "The PHP Group",
+	"vcpe": "cpe:/:php",
+	"pid": "12629",
+	"pname": "mysql extension",
+	"pcpe": "cpe:/a:php:mysql_extension"
 }

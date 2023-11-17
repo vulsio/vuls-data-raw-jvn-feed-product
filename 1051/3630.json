@@ -1,8 +1,8 @@
 {
-  "vid": "1051",
-  "vname": "PulseCMS",
-  "vcpe": "cpe:/:pulsecms",
-  "pid": "3630",
-  "pname": "Pulse",
-  "pcpe": "cpe:/a:pulsecms:pulse_cms"
+	"vid": "1051",
+	"vname": "PulseCMS",
+	"vcpe": "cpe:/:pulsecms",
+	"pid": "3630",
+	"pname": "Pulse",
+	"pcpe": "cpe:/a:pulsecms:pulse_cms"
 }

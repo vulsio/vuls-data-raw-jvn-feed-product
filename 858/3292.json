@@ -1,8 +1,8 @@
 {
-  "vid": "858",
-  "vname": "CloudBees",
-  "vcpe": "cpe:/:cloudbees",
-  "pid": "3292",
-  "pname": "Jenkins",
-  "pcpe": "cpe:/a:cloudbees:jenkins"
+	"vid": "858",
+	"vname": "CloudBees",
+	"vcpe": "cpe:/:cloudbees",
+	"pid": "3292",
+	"pname": "Jenkins",
+	"pcpe": "cpe:/a:cloudbees:jenkins"
 }

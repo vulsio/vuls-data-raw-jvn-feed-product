@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "12332",
-  "pname": "enterprise grid console server",
-  "pcpe": "cpe:/a:oracle:enterprise_grid_console_server"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "12332",
+	"pname": "enterprise grid console server",
+	"pcpe": "cpe:/a:oracle:enterprise_grid_console_server"
 }

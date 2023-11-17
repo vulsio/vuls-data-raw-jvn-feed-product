@@ -1,8 +1,8 @@
 {
-  "vid": "24412",
-  "vname": "nsp-code",
-  "vcpe": "cpe:/:nsp-code",
-  "pid": "63063",
-  "pname": "wp hide & security enhancer",
-  "pcpe": "cpe:/a:nsp-code:wp_hide_%26_security_enhancer"
+	"vid": "24412",
+	"vname": "nsp-code",
+	"vcpe": "cpe:/:nsp-code",
+	"pid": "63063",
+	"pname": "wp hide & security enhancer",
+	"pcpe": "cpe:/a:nsp-code:wp_hide_%26_security_enhancer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9400",
-  "vname": "ncp network communications",
-  "vcpe": "cpe:/:ncp_network_communications",
-  "pid": "19325",
-  "pname": "secure client",
-  "pcpe": "cpe:/a:ncp_network_communications:secure_client"
+	"vid": "9400",
+	"vname": "ncp network communications",
+	"vcpe": "cpe:/:ncp_network_communications",
+	"pid": "19325",
+	"pname": "secure client",
+	"pcpe": "cpe:/a:ncp_network_communications:secure_client"
 }

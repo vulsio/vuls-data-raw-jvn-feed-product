@@ -1,8 +1,8 @@
 {
-  "vid": "5247",
-  "vname": "lama",
-  "vcpe": "cpe:/:lama",
-  "pid": "10901",
-  "pname": "lama software",
-  "pcpe": "cpe:/a:lama:lama_software"
+	"vid": "5247",
+	"vname": "lama",
+	"vcpe": "cpe:/:lama",
+	"pid": "10901",
+	"pname": "lama software",
+	"pcpe": "cpe:/a:lama:lama_software"
 }

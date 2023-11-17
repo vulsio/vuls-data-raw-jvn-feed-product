@@ -1,8 +1,8 @@
 {
-  "vid": "1031",
-  "vname": "Tencent",
-  "vcpe": "cpe:/:qqplayer",
-  "pid": "44271",
-  "pname": "QQBrowser",
-  "pcpe": "cpe:/a:qqplayer:qqbrowser"
+	"vid": "1031",
+	"vname": "Tencent",
+	"vcpe": "cpe:/:qqplayer",
+	"pid": "44271",
+	"pname": "QQBrowser",
+	"pcpe": "cpe:/a:qqplayer:qqbrowser"
 }

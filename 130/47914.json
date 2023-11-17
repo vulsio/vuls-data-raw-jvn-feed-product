@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "47914",
-  "pname": "Intel VTune Profiler",
-  "pcpe": "cpe:/a:intel:vtune_profiler"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "47914",
+	"pname": "Intel VTune Profiler",
+	"pcpe": "cpe:/a:intel:vtune_profiler"
 }

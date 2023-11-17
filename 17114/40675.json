@@ -1,8 +1,8 @@
 {
-  "vid": "17114",
-  "vname": "Ghost Foundation",
-  "vcpe": "cpe:/:ghost",
-  "pid": "40675",
-  "pname": "Ghost",
-  "pcpe": "cpe:/a:ghost:ghost"
+	"vid": "17114",
+	"vname": "Ghost Foundation",
+	"vcpe": "cpe:/:ghost",
+	"pid": "40675",
+	"pname": "Ghost",
+	"pcpe": "cpe:/a:ghost:ghost"
 }

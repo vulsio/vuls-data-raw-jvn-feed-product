@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "20022",
-  "pname": "Cisco TelePresence System Codec 6000 MXP",
-  "pcpe": "cpe:/h:cisco:telepresence_system_codec_6000_mxp"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "20022",
+	"pname": "Cisco TelePresence System Codec 6000 MXP",
+	"pcpe": "cpe:/h:cisco:telepresence_system_codec_6000_mxp"
 }

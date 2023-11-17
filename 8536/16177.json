@@ -1,8 +1,8 @@
 {
-  "vid": "8536",
-  "vname": "winfrigate",
-  "vcpe": "cpe:/:winfrigate",
-  "pid": "16177",
-  "pname": "frigate 3",
-  "pcpe": "cpe:/a:winfrigate:frigate_3"
+	"vid": "8536",
+	"vname": "winfrigate",
+	"vcpe": "cpe:/:winfrigate",
+	"pid": "16177",
+	"pname": "frigate 3",
+	"pcpe": "cpe:/a:winfrigate:frigate_3"
 }

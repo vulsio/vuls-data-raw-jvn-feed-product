@@ -1,8 +1,8 @@
 {
-  "vid": "18542",
-  "vname": "softwareupdate project",
-  "vcpe": "cpe:/:softwareupdate_project",
-  "pid": "45726",
-  "pname": "Software Update module",
-  "pcpe": "cpe:/a:softwareupdate_project:softwareupdate"
+	"vid": "18542",
+	"vname": "softwareupdate project",
+	"vcpe": "cpe:/:softwareupdate_project",
+	"pid": "45726",
+	"pname": "Software Update module",
+	"pcpe": "cpe:/a:softwareupdate_project:softwareupdate"
 }

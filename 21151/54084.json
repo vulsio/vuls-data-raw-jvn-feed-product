@@ -1,8 +1,8 @@
 {
-  "vid": "21151",
-  "vname": "STARK BANK",
-  "vcpe": "cpe:/:starkbank",
-  "pid": "54084",
-  "pname": "ECDSA-Python",
-  "pcpe": "cpe:/a:starkbank:ecdsa-python"
+	"vid": "21151",
+	"vname": "STARK BANK",
+	"vcpe": "cpe:/:starkbank",
+	"pid": "54084",
+	"pname": "ECDSA-Python",
+	"pcpe": "cpe:/a:starkbank:ecdsa-python"
 }

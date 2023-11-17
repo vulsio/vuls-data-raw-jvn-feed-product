@@ -1,8 +1,8 @@
 {
-  "vid": "9721",
-  "vname": "Open Information Security Foundation",
-  "vcpe": "cpe:/:openinfosecfoundation",
-  "pid": "41067",
-  "pname": "LibHTP",
-  "pcpe": "cpe:/a:openinfosecfoundation:libhtp"
+	"vid": "9721",
+	"vname": "Open Information Security Foundation",
+	"vcpe": "cpe:/:openinfosecfoundation",
+	"pid": "41067",
+	"pname": "LibHTP",
+	"pcpe": "cpe:/a:openinfosecfoundation:libhtp"
 }

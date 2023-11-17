@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9996",
-  "pname": "p8 content engine",
-  "pcpe": "cpe:/a:ibm:p8_content_engine"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9996",
+	"pname": "p8 content engine",
+	"pcpe": "cpe:/a:ibm:p8_content_engine"
 }

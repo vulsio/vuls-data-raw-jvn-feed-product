@@ -1,8 +1,8 @@
 {
-  "vid": "16536",
-  "vname": "libosinfo",
-  "vcpe": "cpe:/:libosinfo",
-  "pid": "39374",
-  "pname": "libosinfo",
-  "pcpe": "cpe:/a:libosinfo:libosinfo"
+	"vid": "16536",
+	"vname": "libosinfo",
+	"vcpe": "cpe:/:libosinfo",
+	"pid": "39374",
+	"pname": "libosinfo",
+	"pcpe": "cpe:/a:libosinfo:libosinfo"
 }

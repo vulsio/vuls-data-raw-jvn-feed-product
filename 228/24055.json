@@ -1,8 +1,8 @@
 {
-  "vid": "228",
-  "vname": "Fedora Project",
-  "vcpe": "cpe:/:fedoraproject",
-  "pid": "24055",
-  "pname": "Pacemaker Configuration System (pcs)",
-  "pcpe": "cpe:/a:fedoraproject:pacemaker_configuration_system"
+	"vid": "228",
+	"vname": "Fedora Project",
+	"vcpe": "cpe:/:fedoraproject",
+	"pid": "24055",
+	"pname": "Pacemaker Configuration System (pcs)",
+	"pcpe": "cpe:/a:fedoraproject:pacemaker_configuration_system"
 }

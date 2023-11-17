@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "61858",
-  "pname": "sysmac cj2h ファームウェア",
-  "pcpe": "cpe:/o:omron:sysmac_cj2h_firmware"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "61858",
+	"pname": "sysmac cj2h ファームウェア",
+	"pcpe": "cpe:/o:omron:sysmac_cj2h_firmware"
 }

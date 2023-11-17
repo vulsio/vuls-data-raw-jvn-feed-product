@@ -1,8 +1,8 @@
 {
-  "vid": "16026",
-  "vname": "VIA Technologies",
-  "vcpe": "cpe:/:viatech",
-  "pid": "37494",
-  "pname": "EPIA E900",
-  "pcpe": "cpe:/o:viatech:epia-e900_firmware"
+	"vid": "16026",
+	"vname": "VIA Technologies",
+	"vcpe": "cpe:/:viatech",
+	"pid": "37494",
+	"pname": "EPIA E900",
+	"pcpe": "cpe:/o:viatech:epia-e900_firmware"
 }

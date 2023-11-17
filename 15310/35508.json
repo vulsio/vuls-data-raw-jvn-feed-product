@@ -1,8 +1,8 @@
 {
-  "vid": "15310",
-  "vname": "Martem",
-  "vcpe": "cpe:/:martem",
-  "pid": "35508",
-  "pname": "Telem GW6 ファームウェア",
-  "pcpe": "cpe:/o:martem:telem_gw6_firmware"
+	"vid": "15310",
+	"vname": "Martem",
+	"vcpe": "cpe:/:martem",
+	"pid": "35508",
+	"pname": "Telem GW6 ファームウェア",
+	"pcpe": "cpe:/o:martem:telem_gw6_firmware"
 }

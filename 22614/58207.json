@@ -1,8 +1,8 @@
 {
-  "vid": "22614",
-  "vname": "tekon",
-  "vcpe": "cpe:/:tekon",
-  "pid": "58207",
-  "pname": "kio-2m ファームウェア",
-  "pcpe": "cpe:/o:tekon:kio-2m_firmware"
+	"vid": "22614",
+	"vname": "tekon",
+	"vcpe": "cpe:/:tekon",
+	"pid": "58207",
+	"pname": "kio-2m ファームウェア",
+	"pcpe": "cpe:/o:tekon:kio-2m_firmware"
 }

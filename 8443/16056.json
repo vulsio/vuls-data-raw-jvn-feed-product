@@ -1,8 +1,8 @@
 {
-  "vid": "8443",
-  "vname": "webed",
-  "vcpe": "cpe:/:webed",
-  "pid": "16056",
-  "pname": "webed",
-  "pcpe": "cpe:/a:webed:webed"
+	"vid": "8443",
+	"vname": "webed",
+	"vcpe": "cpe:/:webed",
+	"pid": "16056",
+	"pname": "webed",
+	"pcpe": "cpe:/a:webed:webed"
 }

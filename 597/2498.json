@@ -1,8 +1,8 @@
 {
-  "vid": "597",
-  "vname": "Blackboard, Inc.",
-  "vcpe": "cpe:/:blackboard",
-  "pid": "2498",
-  "pname": "Blackboard Transact Suite",
-  "pcpe": "cpe:/a:blackboard:transact_suite"
+	"vid": "597",
+	"vname": "Blackboard, Inc.",
+	"vcpe": "cpe:/:blackboard",
+	"pid": "2498",
+	"pname": "Blackboard Transact Suite",
+	"pcpe": "cpe:/a:blackboard:transact_suite"
 }

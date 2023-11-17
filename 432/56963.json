@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "56963",
-  "pname": "Drive composer",
-  "pcpe": "cpe:/a:abb:drive_composer"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "56963",
+	"pname": "Drive composer",
+	"pcpe": "cpe:/a:abb:drive_composer"
 }

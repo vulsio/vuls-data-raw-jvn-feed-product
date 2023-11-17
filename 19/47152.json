@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "47152",
-  "pname": "SNS 3515 K9 ファームウェア",
-  "pcpe": "cpe:/o:cisco:sns-3515-k9_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "47152",
+	"pname": "SNS 3515 K9 ファームウェア",
+	"pcpe": "cpe:/o:cisco:sns-3515-k9_firmware"
 }

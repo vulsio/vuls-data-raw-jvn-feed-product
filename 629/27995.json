@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "27995",
-  "pname": "EDR-810 VPN",
-  "pcpe": "cpe:/h:moxa:edr-810-vpn"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "27995",
+	"pname": "EDR-810 VPN",
+	"pcpe": "cpe:/h:moxa:edr-810-vpn"
 }

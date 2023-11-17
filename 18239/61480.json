@@ -1,8 +1,8 @@
 {
-  "vid": "18239",
-  "vname": "WAVLINK",
-  "vcpe": "cpe:/:wavlink",
-  "pid": "61480",
-  "pname": "wl-wn535k2 ファームウェア",
-  "pcpe": "cpe:/o:wavlink:wl-wn535k2_firmware"
+	"vid": "18239",
+	"vname": "WAVLINK",
+	"vcpe": "cpe:/:wavlink",
+	"pid": "61480",
+	"pname": "wl-wn535k2 ファームウェア",
+	"pcpe": "cpe:/o:wavlink:wl-wn535k2_firmware"
 }

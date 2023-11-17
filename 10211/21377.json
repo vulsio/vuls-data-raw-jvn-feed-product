@@ -1,8 +1,8 @@
 {
-  "vid": "10211",
-  "vname": "hapi.js",
-  "vcpe": "cpe:/:hapijs",
-  "pid": "21377",
-  "pname": "bassmaster",
-  "pcpe": "cpe:/a:hapijs:bassmaster_plugin"
+	"vid": "10211",
+	"vname": "hapi.js",
+	"vcpe": "cpe:/:hapijs",
+	"pid": "21377",
+	"pname": "bassmaster",
+	"pcpe": "cpe:/a:hapijs:bassmaster_plugin"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "28777",
-  "pname": "Threat Discovery Appliance",
-  "pcpe": "cpe:/a:trendmicro:threat_discovery_appliance"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "28777",
+	"pname": "Threat Discovery Appliance",
+	"pcpe": "cpe:/a:trendmicro:threat_discovery_appliance"
 }

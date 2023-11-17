@@ -1,8 +1,8 @@
 {
-  "vid": "5821",
-  "vname": "mydoop",
-  "vcpe": "cpe:/:mydoop",
-  "pid": "11814",
-  "pname": "doop cms",
-  "pcpe": "cpe:/a:mydoop:doop_cms"
+	"vid": "5821",
+	"vname": "mydoop",
+	"vcpe": "cpe:/:mydoop",
+	"pid": "11814",
+	"pname": "doop cms",
+	"pcpe": "cpe:/a:mydoop:doop_cms"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11846",
-  "vname": "Migrate project",
-  "vcpe": "cpe:/:migrate_project",
-  "pid": "24649",
-  "pname": "Migrate",
-  "pcpe": "cpe:/a:migrate_project:migrate"
+	"vid": "11846",
+	"vname": "Migrate project",
+	"vcpe": "cpe:/:migrate_project",
+	"pid": "24649",
+	"pname": "Migrate",
+	"pcpe": "cpe:/a:migrate_project:migrate"
 }

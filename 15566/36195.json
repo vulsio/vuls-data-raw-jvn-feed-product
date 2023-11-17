@@ -1,8 +1,8 @@
 {
-  "vid": "15566",
-  "vname": "The Atlantis Word Processor Team",
-  "vcpe": "cpe:/:atlantiswordprocessor",
-  "pid": "36195",
-  "pname": "Atlantis Word Processor",
-  "pcpe": "cpe:/a:atlantiswordprocessor:atlantis_word_processor"
+	"vid": "15566",
+	"vname": "The Atlantis Word Processor Team",
+	"vcpe": "cpe:/:atlantiswordprocessor",
+	"pid": "36195",
+	"pname": "Atlantis Word Processor",
+	"pcpe": "cpe:/a:atlantiswordprocessor:atlantis_word_processor"
 }

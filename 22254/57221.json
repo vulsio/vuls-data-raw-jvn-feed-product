@@ -1,8 +1,8 @@
 {
-  "vid": "22254",
-  "vname": "MAIF",
-  "vcpe": "cpe:/:maif",
-  "pid": "57221",
-  "pname": "Izanami",
-  "pcpe": "cpe:/a:maif:izanami"
+	"vid": "22254",
+	"vname": "MAIF",
+	"vcpe": "cpe:/:maif",
+	"pid": "57221",
+	"pname": "Izanami",
+	"pcpe": "cpe:/a:maif:izanami"
 }

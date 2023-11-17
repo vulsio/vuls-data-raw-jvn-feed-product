@@ -1,8 +1,8 @@
 {
-  "vid": "13479",
-  "vname": "Synaptics",
-  "vcpe": "cpe:/:synaptics",
-  "pid": "38974",
-  "pname": "Sound デバイスドライバ",
-  "pcpe": "cpe:/a:synaptics:sound_device"
+	"vid": "13479",
+	"vname": "Synaptics",
+	"vcpe": "cpe:/:synaptics",
+	"pid": "38974",
+	"pname": "Sound デバイスドライバ",
+	"pcpe": "cpe:/a:synaptics:sound_device"
 }

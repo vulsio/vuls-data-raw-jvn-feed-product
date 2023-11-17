@@ -1,8 +1,8 @@
 {
-  "vid": "18501",
-  "vname": "Scalyr, Inc.",
-  "vcpe": "cpe:/:scalyr",
-  "pid": "45653",
-  "pname": "Scalyr",
-  "pcpe": "cpe:/a:scalyr:scalyr_agent"
+	"vid": "18501",
+	"vname": "Scalyr, Inc.",
+	"vcpe": "cpe:/:scalyr",
+	"pid": "45653",
+	"pname": "Scalyr",
+	"pcpe": "cpe:/a:scalyr:scalyr_agent"
 }

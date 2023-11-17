@@ -1,8 +1,8 @@
 {
-  "vid": "2255",
-  "vname": "Apache Friends",
-  "vcpe": "cpe:/:apachefriends",
-  "pid": "5854",
-  "pname": "XAMPP",
-  "pcpe": "cpe:/a:apachefriends:xampp"
+	"vid": "2255",
+	"vname": "Apache Friends",
+	"vcpe": "cpe:/:apachefriends",
+	"pid": "5854",
+	"pname": "XAMPP",
+	"pcpe": "cpe:/a:apachefriends:xampp"
 }

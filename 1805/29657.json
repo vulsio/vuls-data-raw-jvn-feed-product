@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "29657",
-  "pname": "TL-WR841N V8 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:wr841n_v8_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "29657",
+	"pname": "TL-WR841N V8 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:wr841n_v8_firmware"
 }

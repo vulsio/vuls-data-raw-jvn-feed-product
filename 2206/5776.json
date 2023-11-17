@@ -1,8 +1,8 @@
 {
-  "vid": "2206",
-  "vname": "amirocms",
-  "vcpe": "cpe:/:amirocms",
-  "pid": "5776",
-  "pname": "amiro.cms",
-  "pcpe": "cpe:/a:amirocms:amiro.cms"
+	"vid": "2206",
+	"vname": "amirocms",
+	"vcpe": "cpe:/:amirocms",
+	"pid": "5776",
+	"pname": "amiro.cms",
+	"pcpe": "cpe:/a:amirocms:amiro.cms"
 }

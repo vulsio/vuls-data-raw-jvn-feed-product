@@ -1,8 +1,8 @@
 {
-  "vid": "754",
-  "vname": "Puppet",
-  "vcpe": "cpe:/:puppetlabs",
-  "pid": "23330",
-  "pname": "puppetlabs-stdlib モジュール",
-  "pcpe": "cpe:/a:puppetlabs:stdlib"
+	"vid": "754",
+	"vname": "Puppet",
+	"vcpe": "cpe:/:puppetlabs",
+	"pid": "23330",
+	"pname": "puppetlabs-stdlib モジュール",
+	"pcpe": "cpe:/a:puppetlabs:stdlib"
 }

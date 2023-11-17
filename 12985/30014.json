@@ -1,8 +1,8 @@
 {
-  "vid": "12985",
-  "vname": "SMA Solar Technology AG",
-  "vcpe": "cpe:/:sma_solar_technology_ag",
-  "pid": "30014",
-  "pname": "Sunny Boy Storage 2.5 ファームウェア",
-  "pcpe": "cpe:/o:sma_solar_technology_ag:sunny_boy_storage_2.5_firmware"
+	"vid": "12985",
+	"vname": "SMA Solar Technology AG",
+	"vcpe": "cpe:/:sma_solar_technology_ag",
+	"pid": "30014",
+	"pname": "Sunny Boy Storage 2.5 ファームウェア",
+	"pcpe": "cpe:/o:sma_solar_technology_ag:sunny_boy_storage_2.5_firmware"
 }

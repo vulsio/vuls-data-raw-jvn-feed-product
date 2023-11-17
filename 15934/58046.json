@@ -1,8 +1,8 @@
 {
-  "vid": "15934",
-  "vname": "SAUTER Controls GmbH",
-  "vcpe": "cpe:/:sauter-controls",
-  "pid": "58046",
-  "pname": "moduNet300 EY-AM300F001 ファームウェア",
-  "pcpe": "cpe:/o:sauter-controls:modunet300_ey-am300f001_firmware"
+	"vid": "15934",
+	"vname": "SAUTER Controls GmbH",
+	"vcpe": "cpe:/:sauter-controls",
+	"pid": "58046",
+	"pname": "moduNet300 EY-AM300F001 ファームウェア",
+	"pcpe": "cpe:/o:sauter-controls:modunet300_ey-am300f001_firmware"
 }

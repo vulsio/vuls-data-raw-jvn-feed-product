@@ -1,8 +1,8 @@
 {
-  "vid": "261",
-  "vname": "Info-ZIP",
-  "vcpe": "cpe:/:info-zip",
-  "pid": "912",
-  "pname": "UnZip",
-  "pcpe": "cpe:/a:info-zip:unzip"
+	"vid": "261",
+	"vname": "Info-ZIP",
+	"vcpe": "cpe:/:info-zip",
+	"pid": "912",
+	"pname": "UnZip",
+	"pcpe": "cpe:/a:info-zip:unzip"
 }

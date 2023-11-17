@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56814",
-  "pname": "DX4510-B1 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:dx4510-b1_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56814",
+	"pname": "DX4510-B1 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:dx4510-b1_firmware"
 }

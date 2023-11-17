@@ -1,8 +1,8 @@
 {
-  "vid": "660",
-  "vname": "Imperva Inc.",
-  "vcpe": "cpe:/:imperva",
-  "pid": "55412",
-  "pname": "Web Application Firewall (WAF)",
-  "pcpe": "cpe:/a:imperva:web_application_firewall"
+	"vid": "660",
+	"vname": "Imperva Inc.",
+	"vcpe": "cpe:/:imperva",
+	"pid": "55412",
+	"pname": "Web Application Firewall (WAF)",
+	"pcpe": "cpe:/a:imperva:web_application_firewall"
 }

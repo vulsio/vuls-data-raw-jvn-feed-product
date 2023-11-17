@@ -1,8 +1,8 @@
 {
-  "vid": "22323",
-  "vname": "GS Plugins",
-  "vcpe": "cpe:/:gsplugins",
-  "pid": "64328",
-  "pname": "gs insever portfolio",
-  "pcpe": "cpe:/a:gsplugins:gs_insever_portfolio"
+	"vid": "22323",
+	"vname": "GS Plugins",
+	"vcpe": "cpe:/:gsplugins",
+	"pid": "64328",
+	"pname": "gs insever portfolio",
+	"pcpe": "cpe:/a:gsplugins:gs_insever_portfolio"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14185",
-  "vname": "node-openssl project",
-  "vcpe": "cpe:/:node-openssl_project",
-  "pid": "33836",
-  "pname": "node-openssl",
-  "pcpe": "cpe:/a:node-openssl_project:node-openssl"
+	"vid": "14185",
+	"vname": "node-openssl project",
+	"vcpe": "cpe:/:node-openssl_project",
+	"pid": "33836",
+	"pname": "node-openssl",
+	"pcpe": "cpe:/a:node-openssl_project:node-openssl"
 }

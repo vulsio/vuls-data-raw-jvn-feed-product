@@ -1,8 +1,8 @@
 {
-  "vid": "8968",
-  "vname": "Infotecs",
-  "vcpe": "cpe:/:infotecs",
-  "pid": "17324",
-  "pname": "ViPNet Personal Firewall",
-  "pcpe": "cpe:/a:infotecs:vipnet_personal_firewall"
+	"vid": "8968",
+	"vname": "Infotecs",
+	"vcpe": "cpe:/:infotecs",
+	"pid": "17324",
+	"pname": "ViPNet Personal Firewall",
+	"pcpe": "cpe:/a:infotecs:vipnet_personal_firewall"
 }

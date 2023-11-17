@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "1132",
-  "pname": "Interstage CollaborationRing TPM",
-  "pcpe": "cpe:/a:fujitsu:interstage_collaborationring_tpm"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "1132",
+	"pname": "Interstage CollaborationRing TPM",
+	"pcpe": "cpe:/a:fujitsu:interstage_collaborationring_tpm"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24420",
-  "vname": "jetbackup",
-  "vcpe": "cpe:/:jetbackup",
-  "pid": "63087",
-  "pname": "jetbackup",
-  "pcpe": "cpe:/a:jetbackup:jetbackup"
+	"vid": "24420",
+	"vname": "jetbackup",
+	"vcpe": "cpe:/:jetbackup",
+	"pid": "63087",
+	"pname": "jetbackup",
+	"pcpe": "cpe:/a:jetbackup:jetbackup"
 }

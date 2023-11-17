@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26815",
-  "pname": "RH1288 V3",
-  "pcpe": "cpe:/h:huawei:rh1288_v3_server"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26815",
+	"pname": "RH1288 V3",
+	"pcpe": "cpe:/h:huawei:rh1288_v3_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "5077",
-  "pname": "ABB S4 OPC Server",
-  "pcpe": "cpe:/a:abb:s4_opc_server"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "5077",
+	"pname": "ABB S4 OPC Server",
+	"pcpe": "cpe:/a:abb:s4_opc_server"
 }

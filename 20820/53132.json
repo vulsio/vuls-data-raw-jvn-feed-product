@@ -1,8 +1,8 @@
 {
-  "vid": "20820",
-  "vname": "PDFTron",
-  "vcpe": "cpe:/:pdftron",
-  "pid": "53132",
-  "pname": "WebViewer UI",
-  "pcpe": "cpe:/a:pdftron:webviewer_ui"
+	"vid": "20820",
+	"vname": "PDFTron",
+	"vcpe": "cpe:/:pdftron",
+	"pid": "53132",
+	"pname": "WebViewer UI",
+	"pcpe": "cpe:/a:pdftron:webviewer_ui"
 }

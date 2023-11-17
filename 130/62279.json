@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "62279",
-  "pname": "wi-fi 6e ax211 ファームウェア",
-  "pcpe": "cpe:/o:intel:wi-fi_6e_ax211_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "62279",
+	"pname": "wi-fi 6e ax211 ファームウェア",
+	"pcpe": "cpe:/o:intel:wi-fi_6e_ax211_firmware"
 }

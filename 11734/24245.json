@@ -1,8 +1,8 @@
 {
-  "vid": "11734",
-  "vname": "Node Template project",
-  "vcpe": "cpe:/:node_template_project",
-  "pid": "24245",
-  "pname": "Node Template",
-  "pcpe": "cpe:/a:node_template_project:node_template"
+	"vid": "11734",
+	"vname": "Node Template project",
+	"vcpe": "cpe:/:node_template_project",
+	"pid": "24245",
+	"pname": "Node Template",
+	"pcpe": "cpe:/a:node_template_project:node_template"
 }

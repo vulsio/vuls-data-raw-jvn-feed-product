@@ -1,8 +1,8 @@
 {
-  "vid": "4466",
-  "vname": "GFI",
-  "vcpe": "cpe:/:gfi",
-  "pid": "9515",
-  "pname": "GFI Backup",
-  "pcpe": "cpe:/a:gfi:gfi_backup_2009"
+	"vid": "4466",
+	"vname": "GFI",
+	"vcpe": "cpe:/:gfi",
+	"pid": "9515",
+	"pname": "GFI Backup",
+	"pcpe": "cpe:/a:gfi:gfi_backup_2009"
 }

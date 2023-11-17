@@ -1,8 +1,8 @@
 {
-  "vid": "8286",
-  "vname": "versalsoft",
-  "vcpe": "cpe:/:versalsoft",
-  "pid": "15857",
-  "pname": "http file upload activex control",
-  "pcpe": "cpe:/a:versalsoft:http_file_upload_activex_control"
+	"vid": "8286",
+	"vname": "versalsoft",
+	"vcpe": "cpe:/:versalsoft",
+	"pid": "15857",
+	"pname": "http file upload activex control",
+	"pcpe": "cpe:/a:versalsoft:http_file_upload_activex_control"
 }

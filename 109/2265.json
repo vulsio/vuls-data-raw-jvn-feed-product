@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "2265",
-  "pname": "Safegate集中管理",
-  "pcpe": "cpe:/a:fujitsu:safegate_syutyu_kanri"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "2265",
+	"pname": "Safegate集中管理",
+	"pcpe": "cpe:/a:fujitsu:safegate_syutyu_kanri"
 }

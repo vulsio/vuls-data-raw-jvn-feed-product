@@ -1,8 +1,8 @@
 {
-  "vid": "5679",
-  "vname": "miniweb2",
-  "vcpe": "cpe:/:miniweb2",
-  "pid": "11604",
-  "pname": "blog writer",
-  "pcpe": "cpe:/a:miniweb2:blog_writer"
+	"vid": "5679",
+	"vname": "miniweb2",
+	"vcpe": "cpe:/:miniweb2",
+	"pid": "11604",
+	"pname": "blog writer",
+	"pcpe": "cpe:/a:miniweb2:blog_writer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20316",
-  "vname": "Leaflet Map project",
-  "vcpe": "cpe:/:leaflet_map_project",
-  "pid": "51832",
-  "pname": "Leaflet Map",
-  "pcpe": "cpe:/a:leaflet_map_project:leaflet_map"
+	"vid": "20316",
+	"vname": "Leaflet Map project",
+	"vcpe": "cpe:/:leaflet_map_project",
+	"pid": "51832",
+	"pname": "Leaflet Map",
+	"pcpe": "cpe:/a:leaflet_map_project:leaflet_map"
 }

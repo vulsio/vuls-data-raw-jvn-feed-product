@@ -1,8 +1,8 @@
 {
-  "vid": "1799",
-  "vname": "Inspire IRCd",
-  "vcpe": "cpe:/:inspire_ircd",
-  "pid": "5013",
-  "pname": "InspIRCd",
-  "pcpe": "cpe:/a:inspire_ircd:inspircd"
+	"vid": "1799",
+	"vname": "Inspire IRCd",
+	"vcpe": "cpe:/:inspire_ircd",
+	"pid": "5013",
+	"pname": "InspIRCd",
+	"pcpe": "cpe:/a:inspire_ircd:inspircd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20936",
-  "vname": "SendGrid",
-  "vcpe": "cpe:/:sendgrid",
-  "pid": "53459",
-  "pname": "SendGrid",
-  "pcpe": "cpe:/a:sendgrid:sendgrid"
+	"vid": "20936",
+	"vname": "SendGrid",
+	"vcpe": "cpe:/:sendgrid",
+	"pid": "53459",
+	"pname": "SendGrid",
+	"pcpe": "cpe:/a:sendgrid:sendgrid"
 }

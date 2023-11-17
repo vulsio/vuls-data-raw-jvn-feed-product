@@ -1,8 +1,8 @@
 {
-  "vid": "11881",
-  "vname": "Search API Autocomplete project",
-  "vcpe": "cpe:/:search_api_autocomplete_project",
-  "pid": "24758",
-  "pname": "Search API Autocomplete",
-  "pcpe": "cpe:/a:search_api_autocomplete_project:search_api_autocomplete"
+	"vid": "11881",
+	"vname": "Search API Autocomplete project",
+	"vcpe": "cpe:/:search_api_autocomplete_project",
+	"pid": "24758",
+	"pname": "Search API Autocomplete",
+	"pcpe": "cpe:/a:search_api_autocomplete_project:search_api_autocomplete"
 }

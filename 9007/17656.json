@@ -1,8 +1,8 @@
 {
-  "vid": "9007",
-  "vname": "JS-YAML Project",
-  "vcpe": "cpe:/:js-yaml_project",
-  "pid": "17656",
-  "pname": "JS-YAML",
-  "pcpe": "cpe:/a:js-yaml_project:js-yaml"
+	"vid": "9007",
+	"vname": "JS-YAML Project",
+	"vcpe": "cpe:/:js-yaml_project",
+	"pid": "17656",
+	"pname": "JS-YAML",
+	"pcpe": "cpe:/a:js-yaml_project:js-yaml"
 }

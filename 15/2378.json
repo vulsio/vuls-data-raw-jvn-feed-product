@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2378",
-  "pname": "OpenSSO Enterprise",
-  "pcpe": "cpe:/a:oracle:opensso_enterprise"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2378",
+	"pname": "OpenSSO Enterprise",
+	"pcpe": "cpe:/a:oracle:opensso_enterprise"
 }

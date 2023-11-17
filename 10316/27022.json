@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "27022",
-  "pname": "Spring Data JPA",
-  "pcpe": "cpe:/a:greenplum:spring_data_jpa"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "27022",
+	"pname": "Spring Data JPA",
+	"pcpe": "cpe:/a:greenplum:spring_data_jpa"
 }

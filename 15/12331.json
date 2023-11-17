@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "12331",
-  "pname": "e-business suite 12",
-  "pcpe": "cpe:/a:oracle:e-business_suite_12"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "12331",
+	"pname": "e-business suite 12",
+	"pcpe": "cpe:/a:oracle:e-business_suite_12"
 }

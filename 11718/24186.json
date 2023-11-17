@@ -1,8 +1,8 @@
 {
-  "vid": "11718",
-  "vname": "brandroid.org",
-  "vcpe": "cpe:/:open_explorer_beta_project",
-  "pid": "24186",
-  "pname": "Android 版アプリ 「エクスプローラを開きベータ」",
-  "pcpe": "cpe:/a:open_explorer_beta_project:open_explorer_beta"
+	"vid": "11718",
+	"vname": "brandroid.org",
+	"vcpe": "cpe:/:open_explorer_beta_project",
+	"pid": "24186",
+	"pname": "Android 版アプリ 「エクスプローラを開きベータ」",
+	"pcpe": "cpe:/a:open_explorer_beta_project:open_explorer_beta"
 }

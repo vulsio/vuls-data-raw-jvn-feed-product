@@ -1,8 +1,8 @@
 {
-  "vid": "6090",
-  "vname": "ollydbg",
-  "vcpe": "cpe:/:ollydbg",
-  "pid": "12221",
-  "pname": "ollydbg",
-  "pcpe": "cpe:/a:ollydbg:ollydbg"
+	"vid": "6090",
+	"vname": "ollydbg",
+	"vcpe": "cpe:/:ollydbg",
+	"pid": "12221",
+	"pname": "ollydbg",
+	"pcpe": "cpe:/a:ollydbg:ollydbg"
 }

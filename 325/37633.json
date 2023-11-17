@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "37633",
-  "pname": "thiankpad p51 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thiankpad_p51_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "37633",
+	"pname": "thiankpad p51 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thiankpad_p51_firmware"
 }

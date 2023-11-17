@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "56394",
-  "pname": "Samsung Internet",
-  "pcpe": "cpe:/a:samsung:internet"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "56394",
+	"pname": "Samsung Internet",
+	"pcpe": "cpe:/a:samsung:internet"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "16810",
-  "pname": "Oracle Enterprise Manager Plugin for Database",
-  "pcpe": "cpe:/a:oracle:enterprise_manager_plugin_for_database_control"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "16810",
+	"pname": "Oracle Enterprise Manager Plugin for Database",
+	"pcpe": "cpe:/a:oracle:enterprise_manager_plugin_for_database_control"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "56841",
-  "pname": "HMIBMUHI29D4801 ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:hmibmuhi29d4801_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "56841",
+	"pname": "HMIBMUHI29D4801 ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:hmibmuhi29d4801_firmware"
 }

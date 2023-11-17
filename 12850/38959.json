@@ -1,8 +1,8 @@
 {
-  "vid": "12850",
-  "vname": "Apcupsd",
-  "vcpe": "cpe:/:apcupsd",
-  "pid": "38959",
-  "pname": "apcupsd",
-  "pcpe": "cpe:/a:apcupsd:apcupsd"
+	"vid": "12850",
+	"vname": "Apcupsd",
+	"vcpe": "cpe:/:apcupsd",
+	"pid": "38959",
+	"pname": "apcupsd",
+	"pcpe": "cpe:/a:apcupsd:apcupsd"
 }

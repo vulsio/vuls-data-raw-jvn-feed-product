@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "26983",
-  "pname": "Pivotal Cloud Foundry",
-  "pcpe": "cpe:/a:greenplum:cloud_foundry"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "26983",
+	"pname": "Pivotal Cloud Foundry",
+	"pcpe": "cpe:/a:greenplum:cloud_foundry"
 }

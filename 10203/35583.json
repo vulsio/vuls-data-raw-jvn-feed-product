@@ -1,8 +1,8 @@
 {
-  "vid": "10203",
-  "vname": "NetComm Wireless Limited.",
-  "vcpe": "cpe:/:netcommwireless",
-  "pid": "35583",
-  "pname": "NetComm Wireless G LTE Light Industrial M2M Router",
-  "pcpe": "cpe:/o:netcommwireless:nwl-25_firmware"
+	"vid": "10203",
+	"vname": "NetComm Wireless Limited.",
+	"vcpe": "cpe:/:netcommwireless",
+	"pid": "35583",
+	"pname": "NetComm Wireless G LTE Light Industrial M2M Router",
+	"pcpe": "cpe:/o:netcommwireless:nwl-25_firmware"
 }

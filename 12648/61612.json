@@ -1,8 +1,8 @@
 {
-  "vid": "12648",
-  "vname": "Shopware AG",
-  "vcpe": "cpe:/:shopware",
-  "pid": "61612",
-  "pname": "SwagPayPal",
-  "pcpe": "cpe:/a:shopware:swagpaypal"
+	"vid": "12648",
+	"vname": "Shopware AG",
+	"vcpe": "cpe:/:shopware",
+	"pid": "61612",
+	"pname": "SwagPayPal",
+	"pcpe": "cpe:/a:shopware:swagpaypal"
 }

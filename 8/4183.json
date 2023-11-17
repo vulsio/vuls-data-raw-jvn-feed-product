@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "4183",
-  "pname": "Apache Qpid",
-  "pcpe": "cpe:/a:apache:qpid"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "4183",
+	"pname": "Apache Qpid",
+	"pcpe": "cpe:/a:apache:qpid"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6166",
-  "vname": "orb networks",
-  "vcpe": "cpe:/:orb_networks",
-  "pid": "12353",
-  "pname": "orb",
-  "pcpe": "cpe:/a:orb_networks:orb"
+	"vid": "6166",
+	"vname": "orb networks",
+	"vcpe": "cpe:/:orb_networks",
+	"pid": "12353",
+	"pname": "orb",
+	"pcpe": "cpe:/a:orb_networks:orb"
 }

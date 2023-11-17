@@ -1,8 +1,8 @@
 {
-  "vid": "19530",
-  "vname": "proxy.py project",
-  "vcpe": "cpe:/:proxy.py_project",
-  "pid": "49195",
-  "pname": "proxy.py",
-  "pcpe": "cpe:/a:proxy.py_project:proxy.py"
+	"vid": "19530",
+	"vname": "proxy.py project",
+	"vcpe": "cpe:/:proxy.py_project",
+	"pid": "49195",
+	"pname": "proxy.py",
+	"pcpe": "cpe:/a:proxy.py_project:proxy.py"
 }

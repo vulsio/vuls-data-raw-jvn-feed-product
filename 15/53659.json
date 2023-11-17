@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53659",
-  "pname": "Big Data Spatial and Graph",
-  "pcpe": "cpe:/a:oracle:big_data_spatial_and_graph"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53659",
+	"pname": "Big Data Spatial and Graph",
+	"pcpe": "cpe:/a:oracle:big_data_spatial_and_graph"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21063",
-  "vname": "GraphQL Foundation",
-  "vcpe": "cpe:/:graphql",
-  "pid": "53885",
-  "pname": "GraphiQL",
-  "pcpe": "cpe:/a:graphql:graphiql"
+	"vid": "21063",
+	"vname": "GraphQL Foundation",
+	"vcpe": "cpe:/:graphql",
+	"pid": "53885",
+	"pname": "GraphiQL",
+	"pcpe": "cpe:/a:graphql:graphiql"
 }

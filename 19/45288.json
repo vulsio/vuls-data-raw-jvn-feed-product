@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "45288",
-  "pname": "Clam AntiVirus",
-  "pcpe": "cpe:/a:cisco:clam_antivirus"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "45288",
+	"pname": "Clam AntiVirus",
+	"pcpe": "cpe:/a:cisco:clam_antivirus"
 }

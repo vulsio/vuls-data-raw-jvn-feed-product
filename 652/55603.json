@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "55603",
-  "pname": "T-PTMUABC ファームウェア",
-  "pcpe": "cpe:/o:samsung:t-ptmuabc_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "55603",
+	"pname": "T-PTMUABC ファームウェア",
+	"pcpe": "cpe:/o:samsung:t-ptmuabc_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "4258",
-  "pname": "Cisco WebEx Meeting Center",
-  "pcpe": "cpe:/a:cisco:webex_meeting_center"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "4258",
+	"pname": "Cisco WebEx Meeting Center",
+	"pcpe": "cpe:/a:cisco:webex_meeting_center"
 }

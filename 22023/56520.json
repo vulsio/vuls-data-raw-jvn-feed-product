@@ -1,8 +1,8 @@
 {
-  "vid": "22023",
-  "vname": "Nexxt Solutions",
-  "vcpe": "cpe:/:nexxtsolutions",
-  "pid": "56520",
-  "pname": "Amp300 ファームウェア",
-  "pcpe": "cpe:/o:nexxtsolutions:amp300_firmware"
+	"vid": "22023",
+	"vname": "Nexxt Solutions",
+	"vcpe": "cpe:/:nexxtsolutions",
+	"pid": "56520",
+	"pname": "Amp300 ファームウェア",
+	"pcpe": "cpe:/o:nexxtsolutions:amp300_firmware"
 }

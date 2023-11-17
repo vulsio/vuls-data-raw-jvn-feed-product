@@ -1,8 +1,8 @@
 {
-  "vid": "12424",
-  "vname": "GPGTools",
-  "vcpe": "cpe:/:gpgtools",
-  "pid": "28064",
-  "pname": "Libmacgpg",
-  "pcpe": "cpe:/a:gpgtools:libmacgpg"
+	"vid": "12424",
+	"vname": "GPGTools",
+	"vcpe": "cpe:/:gpgtools",
+	"pid": "28064",
+	"pname": "Libmacgpg",
+	"pcpe": "cpe:/a:gpgtools:libmacgpg"
 }

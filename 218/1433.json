@@ -1,8 +1,8 @@
 {
-  "vid": "218",
-  "vname": "ヤマハ",
-  "vcpe": "cpe:/:yamaha",
-  "pid": "1433",
-  "pname": "RTX1000",
-  "pcpe": "cpe:/h:yamaha:rtx1000"
+	"vid": "218",
+	"vname": "ヤマハ",
+	"vcpe": "cpe:/:yamaha",
+	"pid": "1433",
+	"pname": "RTX1000",
+	"pcpe": "cpe:/h:yamaha:rtx1000"
 }

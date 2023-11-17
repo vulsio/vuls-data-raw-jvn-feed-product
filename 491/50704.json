@@ -1,8 +1,8 @@
 {
-  "vid": "491",
-  "vname": "BitDefender",
-  "vcpe": "cpe:/:bitdefender",
-  "pid": "50704",
-  "pname": "GravityZone Business Security",
-  "pcpe": "cpe:/a:bitdefender:gravityzone_business_security"
+	"vid": "491",
+	"vname": "BitDefender",
+	"vcpe": "cpe:/:bitdefender",
+	"pid": "50704",
+	"pname": "GravityZone Business Security",
+	"pcpe": "cpe:/a:bitdefender:gravityzone_business_security"
 }

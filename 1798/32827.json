@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "32827",
-  "pname": "Surveillance Station",
-  "pcpe": "cpe:/a:synology:surveillance_station"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "32827",
+	"pname": "Surveillance Station",
+	"pcpe": "cpe:/a:synology:surveillance_station"
 }

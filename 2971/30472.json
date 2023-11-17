@@ -1,8 +1,8 @@
 {
-  "vid": "2971",
-  "vname": "コーレル株式会社",
-  "vcpe": "cpe:/:corel",
-  "pid": "30472",
-  "pname": "Corel Photo-Paint",
-  "pcpe": "cpe:/a:corel:coreldraw_photo_paint"
+	"vid": "2971",
+	"vname": "コーレル株式会社",
+	"vcpe": "cpe:/:corel",
+	"pid": "30472",
+	"pname": "Corel Photo-Paint",
+	"pcpe": "cpe:/a:corel:coreldraw_photo_paint"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "499",
-  "vname": "Ipswitch, Inc.",
-  "vcpe": "cpe:/:ipswitch",
-  "pid": "9257",
-  "pname": "WhatsUp Gold",
-  "pcpe": "cpe:/a:ipswitch:whatsup_gold"
+	"vid": "499",
+	"vname": "Ipswitch, Inc.",
+	"vcpe": "cpe:/:ipswitch",
+	"pid": "9257",
+	"pname": "WhatsUp Gold",
+	"pcpe": "cpe:/a:ipswitch:whatsup_gold"
 }

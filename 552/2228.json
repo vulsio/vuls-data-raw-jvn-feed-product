@@ -1,8 +1,8 @@
 {
-  "vid": "552",
-  "vname": "WebDAV",
-  "vcpe": "cpe:/:webdav",
-  "pid": "2228",
-  "pname": "neon",
-  "pcpe": "cpe:/a:webdav:neon"
+	"vid": "552",
+	"vname": "WebDAV",
+	"vcpe": "cpe:/:webdav",
+	"pid": "2228",
+	"pname": "neon",
+	"pcpe": "cpe:/a:webdav:neon"
 }

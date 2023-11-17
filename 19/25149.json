@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "25149",
-  "pname": "Cisco Model EPC3928 DOCSIS 3.0 8x4 Wireless Residential Gateway with EDVA ファームウェア",
-  "pcpe": "cpe:/o:cisco:epc3928_docsis_3.0_8x4_wireless_residential_gateway_with_edva"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "25149",
+	"pname": "Cisco Model EPC3928 DOCSIS 3.0 8x4 Wireless Residential Gateway with EDVA ファームウェア",
+	"pcpe": "cpe:/o:cisco:epc3928_docsis_3.0_8x4_wireless_residential_gateway_with_edva"
 }

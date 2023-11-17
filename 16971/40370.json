@@ -1,8 +1,8 @@
 {
-  "vid": "16971",
-  "vname": "Prograde Grilling",
-  "vcpe": "cpe:/:progradegrill",
-  "pid": "40370",
-  "pname": "WiFi Grilling Thermometer ファームウェア",
-  "pcpe": "cpe:/o:progradegrill:wifi_grilling_thermometer_firmware"
+	"vid": "16971",
+	"vname": "Prograde Grilling",
+	"vcpe": "cpe:/:progradegrill",
+	"pid": "40370",
+	"pname": "WiFi Grilling Thermometer ファームウェア",
+	"pcpe": "cpe:/o:progradegrill:wifi_grilling_thermometer_firmware"
 }

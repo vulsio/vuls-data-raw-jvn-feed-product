@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "6520",
-  "pname": "desktop protection suite",
-  "pcpe": "cpe:/a:ca:desktop_protection_suite"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "6520",
+	"pname": "desktop protection suite",
+	"pcpe": "cpe:/a:ca:desktop_protection_suite"
 }

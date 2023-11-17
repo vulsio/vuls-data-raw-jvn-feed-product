@@ -1,8 +1,8 @@
 {
-  "vid": "10142",
-  "vname": "BestQuote",
-  "vcpe": "cpe:/:avd-app",
-  "pid": "21259",
-  "pname": "AVD Download Video",
-  "pcpe": "cpe:/a:avd-app:avd_download_video"
+	"vid": "10142",
+	"vname": "BestQuote",
+	"vcpe": "cpe:/:avd-app",
+	"pid": "21259",
+	"pname": "AVD Download Video",
+	"pcpe": "cpe:/a:avd-app:avd_download_video"
 }

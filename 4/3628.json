@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3628",
-  "pname": "HP Database Archiving Software",
-  "pcpe": "cpe:/a:hp:database_archiving_software"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3628",
+	"pname": "HP Database Archiving Software",
+	"pcpe": "cpe:/a:hp:database_archiving_software"
 }

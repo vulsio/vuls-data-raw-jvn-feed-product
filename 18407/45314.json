@@ -1,8 +1,8 @@
 {
-  "vid": "18407",
-  "vname": "Global RADAR",
-  "vcpe": "cpe:/:globalradar",
-  "pid": "45314",
-  "pname": "BSA Radar",
-  "pcpe": "cpe:/a:globalradar:bsa_radar"
+	"vid": "18407",
+	"vname": "Global RADAR",
+	"vcpe": "cpe:/:globalradar",
+	"pid": "45314",
+	"pname": "BSA Radar",
+	"pcpe": "cpe:/a:globalradar:bsa_radar"
 }

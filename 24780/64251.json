@@ -1,8 +1,8 @@
 {
-  "vid": "24780",
-  "vname": "wut",
-  "vcpe": "cpe:/:wut",
-  "pid": "64251",
-  "pname": "com-server highspeed poe ファームウェア",
-  "pcpe": "cpe:/o:wut:com-server_highspeed_poe_firmware"
+	"vid": "24780",
+	"vname": "wut",
+	"vcpe": "cpe:/:wut",
+	"pid": "64251",
+	"pname": "com-server highspeed poe ファームウェア",
+	"pcpe": "cpe:/o:wut:com-server_highspeed_poe_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17381",
-  "vname": "Cryptocat project",
-  "vcpe": "cpe:/:cryptocat_project",
-  "pid": "41363",
-  "pname": "Cryptocat",
-  "pcpe": "cpe:/a:cryptocat_project:cryptocat"
+	"vid": "17381",
+	"vname": "Cryptocat project",
+	"vcpe": "cpe:/:cryptocat_project",
+	"pid": "41363",
+	"pname": "Cryptocat",
+	"pcpe": "cpe:/a:cryptocat_project:cryptocat"
 }

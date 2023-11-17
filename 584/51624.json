@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "51624",
-  "pname": "SINEC Infrastructure Network Services",
-  "pcpe": "cpe:/a:siemens:sinec_infrastructure_network_services"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "51624",
+	"pname": "SINEC Infrastructure Network Services",
+	"pcpe": "cpe:/a:siemens:sinec_infrastructure_network_services"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9176",
-  "vname": "DrayTek Corporation",
-  "vcpe": "cpe:/:draytek",
-  "pid": "43045",
-  "pname": "Vigor3900 ファームウェア",
-  "pcpe": "cpe:/o:draytek:vigor3900_firmware"
+	"vid": "9176",
+	"vname": "DrayTek Corporation",
+	"vcpe": "cpe:/:draytek",
+	"pid": "43045",
+	"pname": "Vigor3900 ファームウェア",
+	"pcpe": "cpe:/o:draytek:vigor3900_firmware"
 }

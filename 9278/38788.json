@@ -1,8 +1,8 @@
 {
-  "vid": "9278",
-  "vname": "Eaton",
-  "vcpe": "cpe:/:eaton",
-  "pid": "38788",
-  "pname": "Halo Home Smart Lighting Mobile App",
-  "pcpe": "cpe:/a:eaton:halo_home"
+	"vid": "9278",
+	"vname": "Eaton",
+	"vcpe": "cpe:/:eaton",
+	"pid": "38788",
+	"pname": "Halo Home Smart Lighting Mobile App",
+	"pcpe": "cpe:/a:eaton:halo_home"
 }

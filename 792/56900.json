@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56900",
-  "pname": "XGS4600-52F ファームウェア",
-  "pcpe": "cpe:/o:zyxel:xgs4600-52f_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56900",
+	"pname": "XGS4600-52F ファームウェア",
+	"pcpe": "cpe:/o:zyxel:xgs4600-52f_firmware"
 }

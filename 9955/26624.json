@@ -1,8 +1,8 @@
 {
-  "vid": "9955",
-  "vname": "LINE株式会社",
-  "vcpe": "cpe:/:linecorp",
-  "pid": "26624",
-  "pname": "LINE インストーラ",
-  "pcpe": "cpe:/a:linecorp:line_installer"
+	"vid": "9955",
+	"vname": "LINE株式会社",
+	"vcpe": "cpe:/:linecorp",
+	"pid": "26624",
+	"pname": "LINE インストーラ",
+	"pcpe": "cpe:/a:linecorp:line_installer"
 }

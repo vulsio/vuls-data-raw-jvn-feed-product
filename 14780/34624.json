@@ -1,8 +1,8 @@
 {
-  "vid": "14780",
-  "vname": "Telesquare",
-  "vcpe": "cpe:/:telesquare",
-  "pid": "34624",
-  "pname": "SDT-CW3B1 ファームウェア",
-  "pcpe": "cpe:/o:telesquare:sdt-cw3b1_firmware"
+	"vid": "14780",
+	"vname": "Telesquare",
+	"vcpe": "cpe:/:telesquare",
+	"pid": "34624",
+	"pname": "SDT-CW3B1 ファームウェア",
+	"pcpe": "cpe:/o:telesquare:sdt-cw3b1_firmware"
 }

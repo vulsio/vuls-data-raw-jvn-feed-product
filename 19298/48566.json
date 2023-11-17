@@ -1,8 +1,8 @@
 {
-  "vid": "19298",
-  "vname": "Luvion",
-  "vcpe": "cpe:/:luvion",
-  "pid": "48566",
-  "pname": "Grand Elite 3 Connect ファームウェア",
-  "pcpe": "cpe:/o:luvion:grand_elite_3_connect_firmware"
+	"vid": "19298",
+	"vname": "Luvion",
+	"vcpe": "cpe:/:luvion",
+	"pid": "48566",
+	"pname": "Grand Elite 3 Connect ファームウェア",
+	"pcpe": "cpe:/o:luvion:grand_elite_3_connect_firmware"
 }

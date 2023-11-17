@@ -1,8 +1,8 @@
 {
-  "vid": "1815",
-  "vname": "Plume CMS",
-  "vcpe": "cpe:/:plume-cms",
-  "pid": "5050",
-  "pname": "Plume CMS",
-  "pcpe": "cpe:/a:plume-cms:plume_cms"
+	"vid": "1815",
+	"vname": "Plume CMS",
+	"vcpe": "cpe:/:plume-cms",
+	"pid": "5050",
+	"pname": "Plume CMS",
+	"pcpe": "cpe:/a:plume-cms:plume_cms"
 }

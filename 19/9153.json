@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "9153",
-  "pname": "Cisco Aironet AP1400 シリーズ",
-  "pcpe": "cpe:/h:cisco:aironet_ap1400"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "9153",
+	"pname": "Cisco Aironet AP1400 シリーズ",
+	"pcpe": "cpe:/h:cisco:aironet_ap1400"
 }

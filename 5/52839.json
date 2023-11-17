@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52839",
-  "pname": "SD768G ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd768g_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52839",
+	"pname": "SD768G ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd768g_firmware"
 }

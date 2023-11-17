@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "39227",
-  "pname": "Citrix AppDNA",
-  "pcpe": "cpe:/a:citrix:appdna"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "39227",
+	"pname": "Citrix AppDNA",
+	"pcpe": "cpe:/a:citrix:appdna"
 }

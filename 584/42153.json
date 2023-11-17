@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "42153",
-  "pname": "SPPA-T3000 Application Server",
-  "pcpe": "cpe:/a:siemens:sppa-t3000_application_server"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "42153",
+	"pname": "SPPA-T3000 Application Server",
+	"pcpe": "cpe:/a:siemens:sppa-t3000_application_server"
 }

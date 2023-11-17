@@ -1,8 +1,8 @@
 {
-  "vid": "24138",
-  "vname": "hyundai",
-  "vcpe": "cpe:/:hyundai",
-  "pid": "62429",
-  "pname": "hyundai ファームウェア",
-  "pcpe": "cpe:/o:hyundai:hyundai_firmware"
+	"vid": "24138",
+	"vname": "hyundai",
+	"vcpe": "cpe:/:hyundai",
+	"pid": "62429",
+	"pname": "hyundai ファームウェア",
+	"pcpe": "cpe:/o:hyundai:hyundai_firmware"
 }

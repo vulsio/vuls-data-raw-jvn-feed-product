@@ -1,8 +1,8 @@
 {
-  "vid": "12112",
-  "vname": "パルスセキュア",
-  "vcpe": "cpe:/:pulsesecure",
-  "pid": "49779",
-  "pname": "PSA-5000 ファームウェア",
-  "pcpe": "cpe:/o:pulsesecure:psa-5000_firmware"
+	"vid": "12112",
+	"vname": "パルスセキュア",
+	"vcpe": "cpe:/:pulsesecure",
+	"pid": "49779",
+	"pname": "PSA-5000 ファームウェア",
+	"pcpe": "cpe:/o:pulsesecure:psa-5000_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "55601",
-  "pname": "T-PTMAKUC ファームウェア",
-  "pcpe": "cpe:/o:samsung:t-ptmakuc_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "55601",
+	"pname": "T-PTMAKUC ファームウェア",
+	"pcpe": "cpe:/o:samsung:t-ptmakuc_firmware"
 }

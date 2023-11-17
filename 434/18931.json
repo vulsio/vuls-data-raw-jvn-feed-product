@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "18931",
-  "pname": "EMC Connectrix Manager",
-  "pcpe": "cpe:/a:emc:connectrix_manager"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "18931",
+	"pname": "EMC Connectrix Manager",
+	"pcpe": "cpe:/a:emc:connectrix_manager"
 }

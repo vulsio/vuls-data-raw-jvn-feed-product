@@ -1,8 +1,8 @@
 {
-  "vid": "2393",
-  "vname": "AVAST Software s.r.o.",
-  "vcpe": "cpe:/:avast",
-  "pid": "25113",
-  "pname": "avast! Mobile Security",
-  "pcpe": "cpe:/a:avast:avast%21_mobile_security"
+	"vid": "2393",
+	"vname": "AVAST Software s.r.o.",
+	"vcpe": "cpe:/:avast",
+	"pid": "25113",
+	"pname": "avast! Mobile Security",
+	"pcpe": "cpe:/a:avast:avast%21_mobile_security"
 }

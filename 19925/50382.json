@@ -1,8 +1,8 @@
 {
-  "vid": "19925",
-  "vname": "SinaExtra",
-  "vcpe": "cpe:/:sinaextra",
-  "pid": "50382",
-  "pname": "Sina Extension for Elementor",
-  "pcpe": "cpe:/a:sinaextra:sina_extension_for_elementor"
+	"vid": "19925",
+	"vname": "SinaExtra",
+	"vcpe": "cpe:/:sinaextra",
+	"pid": "50382",
+	"pname": "Sina Extension for Elementor",
+	"pcpe": "cpe:/a:sinaextra:sina_extension_for_elementor"
 }

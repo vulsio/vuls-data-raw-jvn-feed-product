@@ -1,8 +1,8 @@
 {
-  "vid": "1809",
-  "vname": "OpenJPEG project",
-  "vcpe": "cpe:/:openjpeg",
-  "pid": "5043",
-  "pname": "OpenJPEG",
-  "pcpe": "cpe:/a:openjpeg:openjpeg"
+	"vid": "1809",
+	"vname": "OpenJPEG project",
+	"vcpe": "cpe:/:openjpeg",
+	"pid": "5043",
+	"pname": "OpenJPEG",
+	"pcpe": "cpe:/a:openjpeg:openjpeg"
 }

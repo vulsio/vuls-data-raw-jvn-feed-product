@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "25107",
-  "pname": "SIMATIC TIM 4R-IE",
-  "pcpe": "cpe:/h:siemens:simatic_tim_4r-ie"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "25107",
+	"pname": "SIMATIC TIM 4R-IE",
+	"pcpe": "cpe:/h:siemens:simatic_tim_4r-ie"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4488",
-  "pname": "IBM Tivoli Management Framework",
-  "pcpe": "cpe:/a:ibm:tivoli_management_framework"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4488",
+	"pname": "IBM Tivoli Management Framework",
+	"pcpe": "cpe:/a:ibm:tivoli_management_framework"
 }

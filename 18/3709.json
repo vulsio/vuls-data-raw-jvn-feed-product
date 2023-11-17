@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "3709",
-  "pname": "Telelogic License Server",
-  "pcpe": "cpe:/a:ibm:telelogic_license_server"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "3709",
+	"pname": "Telelogic License Server",
+	"pcpe": "cpe:/a:ibm:telelogic_license_server"
 }

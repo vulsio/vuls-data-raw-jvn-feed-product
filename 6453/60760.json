@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "60760",
-  "pname": "B2650 ファームウェア",
-  "pcpe": "cpe:/o:lexmark:b2650_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "60760",
+	"pname": "B2650 ファームウェア",
+	"pcpe": "cpe:/o:lexmark:b2650_firmware"
 }

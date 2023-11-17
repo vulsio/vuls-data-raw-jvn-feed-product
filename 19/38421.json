@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38421",
-  "pname": "Cisco Nexus 93108tc Ex ファームウェア",
-  "pcpe": "cpe:/o:cisco:nexus_93108tc-ex_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38421",
+	"pname": "Cisco Nexus 93108tc Ex ファームウェア",
+	"pcpe": "cpe:/o:cisco:nexus_93108tc-ex_firmware"
 }

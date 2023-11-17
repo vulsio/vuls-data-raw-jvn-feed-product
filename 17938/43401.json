@@ -1,8 +1,8 @@
 {
-  "vid": "17938",
-  "vname": "Gocloud",
-  "vcpe": "cpe:/:gocloud",
-  "pid": "43401",
-  "pname": "S2A_WL ファームウェア",
-  "pcpe": "cpe:/o:gocloud:s2a_wl_firmware"
+	"vid": "17938",
+	"vname": "Gocloud",
+	"vcpe": "cpe:/:gocloud",
+	"pid": "43401",
+	"pname": "S2A_WL ファームウェア",
+	"pcpe": "cpe:/o:gocloud:s2a_wl_firmware"
 }

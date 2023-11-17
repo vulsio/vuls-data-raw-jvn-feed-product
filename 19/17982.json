@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17982",
-  "pname": "Cisco Finesse",
-  "pcpe": "cpe:/a:cisco:finesse"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17982",
+	"pname": "Cisco Finesse",
+	"pcpe": "cpe:/a:cisco:finesse"
 }

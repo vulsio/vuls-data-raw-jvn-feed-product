@@ -1,8 +1,8 @@
 {
-  "vid": "17508",
-  "vname": "plow project",
-  "vcpe": "cpe:/:plow_project",
-  "pid": "41888",
-  "pname": "plow",
-  "pcpe": "cpe:/a:plow_project:plow"
+	"vid": "17508",
+	"vname": "plow project",
+	"vcpe": "cpe:/:plow_project",
+	"pid": "41888",
+	"pname": "plow",
+	"pcpe": "cpe:/a:plow_project:plow"
 }

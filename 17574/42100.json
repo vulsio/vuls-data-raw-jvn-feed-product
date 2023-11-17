@@ -1,8 +1,8 @@
 {
-  "vid": "17574",
-  "vname": "NAPC",
-  "vcpe": "cpe:/:napc",
-  "pid": "42100",
-  "pname": "Xinet Elegant 6 Asset Library",
-  "pcpe": "cpe:/a:napc:xinet_elegant_6_asset_library"
+	"vid": "17574",
+	"vname": "NAPC",
+	"vcpe": "cpe:/:napc",
+	"pid": "42100",
+	"pname": "Xinet Elegant 6 Asset Library",
+	"pcpe": "cpe:/a:napc:xinet_elegant_6_asset_library"
 }

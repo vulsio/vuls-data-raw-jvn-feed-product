@@ -1,8 +1,8 @@
 {
-  "vid": "1013",
-  "vname": "サイバーリンク株式会社",
-  "vcpe": "cpe:/:cyberlink",
-  "pid": "3579",
-  "pname": "Power2Go",
-  "pcpe": "cpe:/a:cyberlink:power2go"
+	"vid": "1013",
+	"vname": "サイバーリンク株式会社",
+	"vcpe": "cpe:/:cyberlink",
+	"pid": "3579",
+	"pname": "Power2Go",
+	"pcpe": "cpe:/a:cyberlink:power2go"
 }

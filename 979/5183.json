@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "5183",
-  "pname": "Confluence",
-  "pcpe": "cpe:/a:atlassian:confluence"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "5183",
+	"pname": "Confluence",
+	"pcpe": "cpe:/a:atlassian:confluence"
 }

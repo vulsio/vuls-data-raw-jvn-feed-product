@@ -1,8 +1,8 @@
 {
-  "vid": "19940",
-  "vname": "Remote Mouse",
-  "vcpe": "cpe:/:remotemouse",
-  "pid": "51444",
-  "pname": "Emote Interactive Studio",
-  "pcpe": "cpe:/a:remotemouse:emote_interactive_studio"
+	"vid": "19940",
+	"vname": "Remote Mouse",
+	"vcpe": "cpe:/:remotemouse",
+	"pid": "51444",
+	"pname": "Emote Interactive Studio",
+	"pcpe": "cpe:/a:remotemouse:emote_interactive_studio"
 }

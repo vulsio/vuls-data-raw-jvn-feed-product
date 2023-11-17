@@ -1,8 +1,8 @@
 {
-  "vid": "376",
-  "vname": "w3m project",
-  "vcpe": "cpe:/:w3m_project",
-  "pid": "1372",
-  "pname": "w3m",
-  "pcpe": "cpe:/a:w3m_project:w3m"
+	"vid": "376",
+	"vname": "w3m project",
+	"vcpe": "cpe:/:w3m_project",
+	"pid": "1372",
+	"pname": "w3m",
+	"pcpe": "cpe:/a:w3m_project:w3m"
 }

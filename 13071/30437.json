@@ -1,8 +1,8 @@
 {
-  "vid": "13071",
-  "vname": "VulcanJS",
-  "vcpe": "cpe:/:vulcanjs",
-  "pid": "30437",
-  "pname": "Vulcan",
-  "pcpe": "cpe:/a:vulcanjs:vulcan"
+	"vid": "13071",
+	"vname": "VulcanJS",
+	"vcpe": "cpe:/:vulcanjs",
+	"pid": "30437",
+	"pname": "Vulcan",
+	"pcpe": "cpe:/a:vulcanjs:vulcan"
 }

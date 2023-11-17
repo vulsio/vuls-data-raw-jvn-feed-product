@@ -1,8 +1,8 @@
 {
-  "vid": "4456",
-  "vname": "WAGO",
-  "vcpe": "cpe:/:wago",
-  "pid": "35185",
-  "pname": "762-3003 ファームウェア",
-  "pcpe": "cpe:/o:wago:e%21display_762-3003_firmware"
+	"vid": "4456",
+	"vname": "WAGO",
+	"vcpe": "cpe:/:wago",
+	"pid": "35185",
+	"pname": "762-3003 ファームウェア",
+	"pcpe": "cpe:/o:wago:e%21display_762-3003_firmware"
 }

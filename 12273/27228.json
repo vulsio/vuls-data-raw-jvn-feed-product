@@ -1,8 +1,8 @@
 {
-  "vid": "12273",
-  "vname": "日本年金機構",
-  "vcpe": "cpe:/:japan_pension_service",
-  "pid": "27228",
-  "pname": "届書印刷プログラム",
-  "pcpe": "cpe:/a:japan_pension_service:todokesho_print_program"
+	"vid": "12273",
+	"vname": "日本年金機構",
+	"vcpe": "cpe:/:japan_pension_service",
+	"pid": "27228",
+	"pname": "届書印刷プログラム",
+	"pcpe": "cpe:/a:japan_pension_service:todokesho_print_program"
 }

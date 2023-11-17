@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "57238",
-  "pname": "MGate 5101-PBM-MN-T ファームウェア",
-  "pcpe": "cpe:/o:moxa:mgate_5101-pbm-mn-t_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "57238",
+	"pname": "MGate 5101-PBM-MN-T ファームウェア",
+	"pcpe": "cpe:/o:moxa:mgate_5101-pbm-mn-t_firmware"
 }

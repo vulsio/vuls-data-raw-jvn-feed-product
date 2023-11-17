@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27845",
-  "pname": "IBM LCMS Premier",
-  "pcpe": "cpe:/a:ibm:kenexa_lcms_premier"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27845",
+	"pname": "IBM LCMS Premier",
+	"pcpe": "cpe:/a:ibm:kenexa_lcms_premier"
 }

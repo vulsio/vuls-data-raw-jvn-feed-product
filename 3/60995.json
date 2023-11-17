@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "60995",
-  "pname": "openshift-origin-node-util",
-  "pcpe": "cpe:/a:redhat:openshift-origin-node-util"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "60995",
+	"pname": "openshift-origin-node-util",
+	"pcpe": "cpe:/a:redhat:openshift-origin-node-util"
 }

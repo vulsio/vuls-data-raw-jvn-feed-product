@@ -1,8 +1,8 @@
 {
-  "vid": "6598",
-  "vname": "JPMorgan Chase",
-  "vcpe": "cpe:/:jpmorganchase",
-  "pid": "13241",
-  "pname": "Chase Mobile",
-  "pcpe": "cpe:/a:jpmorganchase:chase_mobile"
+	"vid": "6598",
+	"vname": "JPMorgan Chase",
+	"vcpe": "cpe:/:jpmorganchase",
+	"pid": "13241",
+	"pname": "Chase Mobile",
+	"pcpe": "cpe:/a:jpmorganchase:chase_mobile"
 }

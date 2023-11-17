@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "26077",
-  "pname": "Ubuntu Core",
-  "pcpe": "cpe:/o:canonical:ubuntu_core"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "26077",
+	"pname": "Ubuntu Core",
+	"pcpe": "cpe:/o:canonical:ubuntu_core"
 }

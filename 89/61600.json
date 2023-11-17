@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "61600",
-  "pname": "WebSAM vDC Automation",
-  "pcpe": "cpe:/a:nec:websam_vdc_automation"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "61600",
+	"pname": "WebSAM vDC Automation",
+	"pcpe": "cpe:/a:nec:websam_vdc_automation"
 }

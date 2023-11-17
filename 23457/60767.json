@@ -1,8 +1,8 @@
 {
-  "vid": "23457",
-  "vname": "antminer monitor project",
-  "vcpe": "cpe:/:antminer_monitor_project",
-  "pid": "60767",
-  "pname": "antminer monitor",
-  "pcpe": "cpe:/a:antminer_monitor_project:antminer_monitor"
+	"vid": "23457",
+	"vname": "antminer monitor project",
+	"vcpe": "cpe:/:antminer_monitor_project",
+	"pid": "60767",
+	"pname": "antminer monitor",
+	"pcpe": "cpe:/a:antminer_monitor_project:antminer_monitor"
 }

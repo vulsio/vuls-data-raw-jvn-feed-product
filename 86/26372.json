@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "26372",
-  "pname": "WPL-05G300 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wpl-05g300_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "26372",
+	"pname": "WPL-05G300 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wpl-05g300_firmware"
 }

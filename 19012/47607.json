@@ -1,8 +1,8 @@
 {
-  "vid": "19012",
-  "vname": "Synopsys, Inc.",
-  "vcpe": "cpe:/:synopsys",
-  "pid": "47607",
-  "pname": "hub-rest-api-python",
-  "pcpe": "cpe:/a:synopsys:hub-rest-api-python"
+	"vid": "19012",
+	"vname": "Synopsys, Inc.",
+	"vcpe": "cpe:/:synopsys",
+	"pid": "47607",
+	"pname": "hub-rest-api-python",
+	"pcpe": "cpe:/a:synopsys:hub-rest-api-python"
 }

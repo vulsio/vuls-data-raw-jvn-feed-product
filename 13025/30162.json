@@ -1,8 +1,8 @@
 {
-  "vid": "13025",
-  "vname": "NXP Semiconductors",
-  "vcpe": "cpe:/:nxp",
-  "pid": "30162",
-  "pname": "i.MX 6SoloX ファームウェア",
-  "pcpe": "cpe:/o:nxp:i.mx_6solox_firmware"
+	"vid": "13025",
+	"vname": "NXP Semiconductors",
+	"vcpe": "cpe:/:nxp",
+	"pid": "30162",
+	"pname": "i.MX 6SoloX ファームウェア",
+	"pcpe": "cpe:/o:nxp:i.mx_6solox_firmware"
 }

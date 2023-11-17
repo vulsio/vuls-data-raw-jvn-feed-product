@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "25008",
-  "pname": "HG532e",
-  "pcpe": "cpe:/h:huawei:hg532e"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "25008",
+	"pname": "HG532e",
+	"pcpe": "cpe:/h:huawei:hg532e"
 }

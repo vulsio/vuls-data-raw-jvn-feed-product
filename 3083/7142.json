@@ -1,8 +1,8 @@
 {
-  "vid": "3083",
-  "vname": "danskebank",
-  "vcpe": "cpe:/:danskebank",
-  "pid": "7142",
-  "pname": "danskesikker.ocx",
-  "pcpe": "cpe:/a:danskebank:danskesikker.ocx"
+	"vid": "3083",
+	"vname": "danskebank",
+	"vcpe": "cpe:/:danskebank",
+	"pid": "7142",
+	"pname": "danskesikker.ocx",
+	"pcpe": "cpe:/a:danskebank:danskesikker.ocx"
 }

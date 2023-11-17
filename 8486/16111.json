@@ -1,8 +1,8 @@
 {
-  "vid": "8486",
-  "vname": "webtoolkit",
-  "vcpe": "cpe:/:webtoolkit",
-  "pid": "16111",
-  "pname": "wt",
-  "pcpe": "cpe:/a:webtoolkit:wt"
+	"vid": "8486",
+	"vname": "webtoolkit",
+	"vcpe": "cpe:/:webtoolkit",
+	"pid": "16111",
+	"pname": "wt",
+	"pcpe": "cpe:/a:webtoolkit:wt"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "56959",
-  "pname": "TIBCO AuditSafe",
-  "pcpe": "cpe:/a:tibco:auditsafe"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "56959",
+	"pname": "TIBCO AuditSafe",
+	"pcpe": "cpe:/a:tibco:auditsafe"
 }

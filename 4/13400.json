@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "13400",
-  "pname": "HP Color LaserJet CP4xxx",
-  "pcpe": "cpe:/h:hp:color_laserjet_cp4xxx"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "13400",
+	"pname": "HP Color LaserJet CP4xxx",
+	"pcpe": "cpe:/h:hp:color_laserjet_cp4xxx"
 }

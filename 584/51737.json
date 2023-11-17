@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "51737",
-  "pname": "SCALANCE X304-2FE ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_x304-2fe_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "51737",
+	"pname": "SCALANCE X304-2FE ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_x304-2fe_firmware"
 }

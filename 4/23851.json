@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23851",
-  "pname": "HP Operations Analytics",
-  "pcpe": "cpe:/a:hp:hp_operations_analytics"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23851",
+	"pname": "HP Operations Analytics",
+	"pcpe": "cpe:/a:hp:hp_operations_analytics"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1222",
-  "vname": "EasyVista",
-  "vcpe": "cpe:/:easyvista",
-  "pid": "56549",
-  "pname": "Service Manager",
-  "pcpe": "cpe:/a:easyvista:service_manager"
+	"vid": "1222",
+	"vname": "EasyVista",
+	"vcpe": "cpe:/:easyvista",
+	"pid": "56549",
+	"pname": "Service Manager",
+	"pcpe": "cpe:/a:easyvista:service_manager"
 }

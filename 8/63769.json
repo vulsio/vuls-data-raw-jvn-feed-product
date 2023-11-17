@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "63769",
-  "pname": "isis",
-  "pcpe": "cpe:/a:apache:isis"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "63769",
+	"pname": "isis",
+	"pcpe": "cpe:/a:apache:isis"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1193",
-  "pname": "Processing Kit for XML",
-  "pcpe": "cpe:/a:hitachi:processing_kit_for_xml"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1193",
+	"pname": "Processing Kit for XML",
+	"pcpe": "cpe:/a:hitachi:processing_kit_for_xml"
 }

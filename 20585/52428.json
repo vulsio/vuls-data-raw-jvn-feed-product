@@ -1,8 +1,8 @@
 {
-  "vid": "20585",
-  "vname": "WP Manage Ninja",
-  "vcpe": "cpe:/:wpmanageninja",
-  "pid": "52428",
-  "pname": "FluentSMTP",
-  "pcpe": "cpe:/a:wpmanageninja:fluentsmtp"
+	"vid": "20585",
+	"vname": "WP Manage Ninja",
+	"vcpe": "cpe:/:wpmanageninja",
+	"pid": "52428",
+	"pname": "FluentSMTP",
+	"pcpe": "cpe:/a:wpmanageninja:fluentsmtp"
 }

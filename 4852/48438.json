@@ -1,8 +1,8 @@
 {
-  "vid": "4852",
-  "vname": "Irssi",
-  "vcpe": "cpe:/:irssi",
-  "pid": "48438",
-  "pname": "irssi docker image",
-  "pcpe": "cpe:/a:irssi:docker_image"
+	"vid": "4852",
+	"vname": "Irssi",
+	"vcpe": "cpe:/:irssi",
+	"pid": "48438",
+	"pname": "irssi docker image",
+	"pcpe": "cpe:/a:irssi:docker_image"
 }

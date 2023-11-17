@@ -1,8 +1,8 @@
 {
-  "vid": "14791",
-  "vname": "Asterisk",
-  "vcpe": "cpe:/:asterisk",
-  "pid": "54880",
-  "pname": "Certified Asterisk",
-  "pcpe": "cpe:/a:asterisk:certified_asterisk"
+	"vid": "14791",
+	"vname": "Asterisk",
+	"vcpe": "cpe:/:asterisk",
+	"pid": "54880",
+	"pname": "Certified Asterisk",
+	"pcpe": "cpe:/a:asterisk:certified_asterisk"
 }

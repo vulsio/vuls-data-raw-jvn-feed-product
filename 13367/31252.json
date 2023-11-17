@@ -1,8 +1,8 @@
 {
-  "vid": "13367",
-  "vname": "XRootD project",
-  "vcpe": "cpe:/:xrootd",
-  "pid": "31252",
-  "pname": "XRootD",
-  "pcpe": "cpe:/a:xrootd:xrootd"
+	"vid": "13367",
+	"vname": "XRootD project",
+	"vcpe": "cpe:/:xrootd",
+	"pid": "31252",
+	"pname": "XRootD",
+	"pcpe": "cpe:/a:xrootd:xrootd"
 }

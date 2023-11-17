@@ -1,8 +1,8 @@
 {
-  "vid": "87",
-  "vname": "futomi",
-  "vcpe": "cpe:/:futomis_cgi_cafe",
-  "pid": "1154",
-  "pname": "全文検索 CGI",
-  "pcpe": "cpe:/a:futomis_cgi_cafe:full-text_search_cgi"
+	"vid": "87",
+	"vname": "futomi",
+	"vcpe": "cpe:/:futomis_cgi_cafe",
+	"pid": "1154",
+	"pname": "全文検索 CGI",
+	"pcpe": "cpe:/a:futomis_cgi_cafe:full-text_search_cgi"
 }

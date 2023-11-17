@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "26242",
-  "pname": "Red Hat Enterprise Linux Supplementary",
-  "pcpe": "cpe:/o:redhat:enterprise_linux_supplementary"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "26242",
+	"pname": "Red Hat Enterprise Linux Supplementary",
+	"pcpe": "cpe:/o:redhat:enterprise_linux_supplementary"
 }

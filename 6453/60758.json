@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "60758",
-  "pname": "B2442 ファームウェア",
-  "pcpe": "cpe:/o:lexmark:b2442_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "60758",
+	"pname": "B2442 ファームウェア",
+	"pcpe": "cpe:/o:lexmark:b2442_firmware"
 }

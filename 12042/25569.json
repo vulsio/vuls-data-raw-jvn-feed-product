@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25569",
-  "pname": "JG410A HP MSR3012 DC Router",
-  "pcpe": "cpe:/h:hp:jg410a_hp_msr3012_dc_router"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25569",
+	"pname": "JG410A HP MSR3012 DC Router",
+	"pcpe": "cpe:/h:hp:jg410a_hp_msr3012_dc_router"
 }

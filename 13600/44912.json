@@ -1,8 +1,8 @@
 {
-  "vid": "13600",
-  "vname": "NAVER Corp.",
-  "vcpe": "cpe:/:navercorp",
-  "pid": "44912",
-  "pname": "Whale Browser Installer",
-  "pcpe": "cpe:/a:navercorp:whale_browser_installer"
+	"vid": "13600",
+	"vname": "NAVER Corp.",
+	"vcpe": "cpe:/:navercorp",
+	"pid": "44912",
+	"pname": "Whale Browser Installer",
+	"pcpe": "cpe:/a:navercorp:whale_browser_installer"
 }

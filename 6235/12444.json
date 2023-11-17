@@ -1,8 +1,8 @@
 {
-  "vid": "6235",
-  "vname": "paisterist",
-  "vcpe": "cpe:/:paisterist",
-  "pid": "12444",
-  "pname": "simple http scanner",
-  "pcpe": "cpe:/a:paisterist:simple_http_scanner"
+	"vid": "6235",
+	"vname": "paisterist",
+	"vcpe": "cpe:/:paisterist",
+	"pid": "12444",
+	"pname": "simple http scanner",
+	"pcpe": "cpe:/a:paisterist:simple_http_scanner"
 }

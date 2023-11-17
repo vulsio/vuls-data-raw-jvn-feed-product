@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "6535",
-  "pname": "unicenter application performance monitor",
-  "pcpe": "cpe:/a:ca:unicenter_application_performance_monitor"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "6535",
+	"pname": "unicenter application performance monitor",
+	"pcpe": "cpe:/a:ca:unicenter_application_performance_monitor"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19052",
-  "vname": "SoftMaker",
-  "vcpe": "cpe:/:softmaker",
-  "pid": "48219",
-  "pname": "Office TextMaker 2021",
-  "pcpe": "cpe:/a:softmaker:office_textmaker_2021"
+	"vid": "19052",
+	"vname": "SoftMaker",
+	"vcpe": "cpe:/:softmaker",
+	"pid": "48219",
+	"pname": "Office TextMaker 2021",
+	"pcpe": "cpe:/a:softmaker:office_textmaker_2021"
 }

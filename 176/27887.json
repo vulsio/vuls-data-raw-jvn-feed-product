@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "27887",
-  "pname": "CentreCOM AR260S V2",
-  "pcpe": "cpe:/h:allied_telesis_k.k.:centrecom_ar260s_v2"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "27887",
+	"pname": "CentreCOM AR260S V2",
+	"pcpe": "cpe:/h:allied_telesis_k.k.:centrecom_ar260s_v2"
 }

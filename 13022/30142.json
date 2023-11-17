@@ -1,8 +1,8 @@
 {
-  "vid": "13022",
-  "vname": "SOLAR controls s.r.o.",
-  "vcpe": "cpe:/:solarcontrols",
-  "pid": "30142",
-  "pname": "Heating Control Downloader",
-  "pcpe": "cpe:/a:solarcontrols:heating_control_downloader"
+	"vid": "13022",
+	"vname": "SOLAR controls s.r.o.",
+	"vcpe": "cpe:/:solarcontrols",
+	"pid": "30142",
+	"pname": "Heating Control Downloader",
+	"pcpe": "cpe:/a:solarcontrols:heating_control_downloader"
 }

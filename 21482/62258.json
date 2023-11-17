@@ -1,8 +1,8 @@
 {
-  "vid": "21482",
-  "vname": "Rich-Web",
-  "vcpe": "cpe:/:rich-web",
-  "pid": "62258",
-  "pname": "Image Gallery",
-  "pcpe": "cpe:/a:rich-web:image_gallery"
+	"vid": "21482",
+	"vname": "Rich-Web",
+	"vcpe": "cpe:/:rich-web",
+	"pid": "62258",
+	"pname": "Image Gallery",
+	"pcpe": "cpe:/a:rich-web:image_gallery"
 }

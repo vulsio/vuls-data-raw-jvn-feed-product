@@ -1,8 +1,8 @@
 {
-  "vid": "14139",
-  "vname": "Hexagon Token",
-  "vcpe": "cpe:/:hexagontoken",
-  "pid": "33753",
-  "pname": "Hexagon",
-  "pcpe": "cpe:/a:hexagontoken:hexagon"
+	"vid": "14139",
+	"vname": "Hexagon Token",
+	"vcpe": "cpe:/:hexagontoken",
+	"pid": "33753",
+	"pname": "Hexagon",
+	"pcpe": "cpe:/a:hexagontoken:hexagon"
 }

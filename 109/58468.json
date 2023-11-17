@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "58468",
-  "pname": "IP-HE900D",
-  "pcpe": "cpe:/o:fujitsu:ip-he900d_firmware"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "58468",
+	"pname": "IP-HE900D",
+	"pcpe": "cpe:/o:fujitsu:ip-he900d_firmware"
 }

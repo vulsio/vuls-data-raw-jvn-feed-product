@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "38565",
-  "pname": "Xtend",
-  "pcpe": "cpe:/a:eclipse:xtend"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "38565",
+	"pname": "Xtend",
+	"pcpe": "cpe:/a:eclipse:xtend"
 }

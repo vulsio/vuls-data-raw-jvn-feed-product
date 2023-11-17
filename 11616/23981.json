@@ -1,8 +1,8 @@
 {
-  "vid": "11616",
-  "vname": "ホスピーラ",
-  "vcpe": "cpe:/:hospira",
-  "pid": "23981",
-  "pname": "LifeCare PCA Infusion System ファームウェア",
-  "pcpe": "cpe:/o:hospira:lifecare_pcainfusion_firmware"
+	"vid": "11616",
+	"vname": "ホスピーラ",
+	"vcpe": "cpe:/:hospira",
+	"pid": "23981",
+	"pname": "LifeCare PCA Infusion System ファームウェア",
+	"pcpe": "cpe:/o:hospira:lifecare_pcainfusion_firmware"
 }

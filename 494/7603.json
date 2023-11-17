@@ -1,8 +1,8 @@
 {
-  "vid": "494",
-  "vname": "e107.org",
-  "vcpe": "cpe:/:e107",
-  "pid": "7603",
-  "pname": "alternate profiles plugin",
-  "pcpe": "cpe:/a:e107:alternate_profiles_plugin"
+	"vid": "494",
+	"vname": "e107.org",
+	"vcpe": "cpe:/:e107",
+	"pid": "7603",
+	"pname": "alternate profiles plugin",
+	"pcpe": "cpe:/a:e107:alternate_profiles_plugin"
 }

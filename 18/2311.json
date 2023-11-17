@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "2311",
-  "pname": "IBM VIOS",
-  "pcpe": "cpe:/a:ibm:vios"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "2311",
+	"pname": "IBM VIOS",
+	"pcpe": "cpe:/a:ibm:vios"
 }

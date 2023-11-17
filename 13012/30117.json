@@ -1,8 +1,8 @@
 {
-  "vid": "13012",
-  "vname": "Podlove",
-  "vcpe": "cpe:/:podlove",
-  "pid": "30117",
-  "pname": "Podlove Podcast Publisher",
-  "pcpe": "cpe:/a:podlove:podlove_podcast_publisher"
+	"vid": "13012",
+	"vname": "Podlove",
+	"vcpe": "cpe:/:podlove",
+	"pid": "30117",
+	"pname": "Podlove Podcast Publisher",
+	"pcpe": "cpe:/a:podlove:podlove_podcast_publisher"
 }

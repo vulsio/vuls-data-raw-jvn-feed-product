@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "40031",
-  "pname": "SIMATIC S7-1200 CPU 1212C ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_s7-1200_cpu_1212c_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "40031",
+	"pname": "SIMATIC S7-1200 CPU 1212C ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_s7-1200_cpu_1212c_firmware"
 }

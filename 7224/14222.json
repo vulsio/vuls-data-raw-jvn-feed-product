@@ -1,8 +1,8 @@
 {
-  "vid": "7224",
-  "vname": "randomsoftware",
-  "vcpe": "cpe:/:randomsoftware",
-  "pid": "14222",
-  "pname": "icarus",
-  "pcpe": "cpe:/a:randomsoftware:icarus"
+	"vid": "7224",
+	"vname": "randomsoftware",
+	"vcpe": "cpe:/:randomsoftware",
+	"pid": "14222",
+	"pname": "icarus",
+	"pcpe": "cpe:/a:randomsoftware:icarus"
 }

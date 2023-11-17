@@ -1,8 +1,8 @@
 {
-  "vid": "16048",
-  "vname": "ASPEED",
-  "vcpe": "cpe:/:aspeedtech",
-  "pid": "37552",
-  "pname": "ast2500 ファームウェア",
-  "pcpe": "cpe:/o:aspeedtech:ast2500_firmware"
+	"vid": "16048",
+	"vname": "ASPEED",
+	"vcpe": "cpe:/:aspeedtech",
+	"pid": "37552",
+	"pname": "ast2500 ファームウェア",
+	"pcpe": "cpe:/o:aspeedtech:ast2500_firmware"
 }

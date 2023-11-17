@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "56504",
-  "pname": "ASIK AirScale 474021A.101 ファームウエア",
-  "pcpe": "cpe:/o:nokia:asik_airscale_474021a.101_firmware"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "56504",
+	"pname": "ASIK AirScale 474021A.101 ファームウエア",
+	"pcpe": "cpe:/o:nokia:asik_airscale_474021a.101_firmware"
 }

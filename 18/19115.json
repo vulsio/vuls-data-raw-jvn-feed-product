@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19115",
-  "pname": "IBM Atlas eDiscovery Process Management",
-  "pcpe": "cpe:/a:ibm:atlas_ediscovery_process_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19115",
+	"pname": "IBM Atlas eDiscovery Process Management",
+	"pcpe": "cpe:/a:ibm:atlas_ediscovery_process_management"
 }

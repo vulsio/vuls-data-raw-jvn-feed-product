@@ -1,8 +1,8 @@
 {
-  "vid": "23766",
-  "vname": "dw",
-  "vcpe": "cpe:/:dw",
-  "pid": "61482",
-  "pname": "megapix ファームウェア",
-  "pcpe": "cpe:/o:dw:megapix_firmware"
+	"vid": "23766",
+	"vname": "dw",
+	"vcpe": "cpe:/:dw",
+	"pid": "61482",
+	"pname": "megapix ファームウェア",
+	"pcpe": "cpe:/o:dw:megapix_firmware"
 }

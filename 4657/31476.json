@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31476",
-  "pname": "Vicky-AL00C ファームウェア",
-  "pcpe": "cpe:/o:huawei:vicky-al00c_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31476",
+	"pname": "Vicky-AL00C ファームウェア",
+	"pcpe": "cpe:/o:huawei:vicky-al00c_firmware"
 }

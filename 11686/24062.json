@@ -1,8 +1,8 @@
 {
-  "vid": "11686",
-  "vname": "InFocus Corporation",
-  "vcpe": "cpe:/:infocus",
-  "pid": "24062",
-  "pname": "InFocus IN3128HD ファームウェア",
-  "pcpe": "cpe:/o:infocus:in3128hd_firmware"
+	"vid": "11686",
+	"vname": "InFocus Corporation",
+	"vcpe": "cpe:/:infocus",
+	"pid": "24062",
+	"pname": "InFocus IN3128HD ファームウェア",
+	"pcpe": "cpe:/o:infocus:in3128hd_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23072",
-  "vname": "count",
-  "vcpe": "cpe:/:count",
-  "pid": "59689",
-  "pname": "countly server",
-  "pcpe": "cpe:/a:count:countly_server"
+	"vid": "23072",
+	"vname": "count",
+	"vcpe": "cpe:/:count",
+	"pid": "59689",
+	"pname": "countly server",
+	"pcpe": "cpe:/a:count:countly_server"
 }

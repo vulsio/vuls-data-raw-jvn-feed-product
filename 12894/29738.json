@@ -1,8 +1,8 @@
 {
-  "vid": "12894",
-  "vname": "rbenv",
-  "vcpe": "cpe:/:rbenv",
-  "pid": "29738",
-  "pname": "rbenv",
-  "pcpe": "cpe:/a:rbenv:rbenv"
+	"vid": "12894",
+	"vname": "rbenv",
+	"vcpe": "cpe:/:rbenv",
+	"pid": "29738",
+	"pname": "rbenv",
+	"pcpe": "cpe:/a:rbenv:rbenv"
 }

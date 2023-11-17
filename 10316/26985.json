@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "26985",
-  "pname": "User Account and Authentication BOSH",
-  "pcpe": "cpe:/a:greenplum:cloud_foundry_uaa_bosh"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "26985",
+	"pname": "User Account and Authentication BOSH",
+	"pcpe": "cpe:/a:greenplum:cloud_foundry_uaa_bosh"
 }

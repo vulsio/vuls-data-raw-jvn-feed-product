@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27986",
-  "pname": "IBM Tivoli Storage FlashCopy Manager for VMware",
-  "pcpe": "cpe:/a:ibm:tivoli_storage_flashcopy_manager_for_vmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27986",
+	"pname": "IBM Tivoli Storage FlashCopy Manager for VMware",
+	"pcpe": "cpe:/a:ibm:tivoli_storage_flashcopy_manager_for_vmware"
 }

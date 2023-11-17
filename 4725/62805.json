@@ -1,8 +1,8 @@
 {
-  "vid": "4725",
-  "vname": "SysAid Technologies Ltd.",
-  "vcpe": "cpe:/:sysaid",
-  "pid": "62805",
-  "pname": "help desk",
-  "pcpe": "cpe:/a:sysaid:help_desk"
+	"vid": "4725",
+	"vname": "SysAid Technologies Ltd.",
+	"vcpe": "cpe:/:sysaid",
+	"pid": "62805",
+	"pname": "help desk",
+	"pcpe": "cpe:/a:sysaid:help_desk"
 }

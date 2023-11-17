@@ -1,8 +1,8 @@
 {
-  "vid": "21220",
-  "vname": "Algolia",
-  "vcpe": "cpe:/:algolia",
-  "pid": "54444",
-  "pname": "algoliasearch-helper",
-  "pcpe": "cpe:/a:algolia:algoliasearch-helper"
+	"vid": "21220",
+	"vname": "Algolia",
+	"vcpe": "cpe:/:algolia",
+	"pid": "54444",
+	"pname": "algoliasearch-helper",
+	"pcpe": "cpe:/a:algolia:algoliasearch-helper"
 }

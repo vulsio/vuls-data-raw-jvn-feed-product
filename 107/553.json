@@ -1,8 +1,8 @@
 {
-  "vid": "107",
-  "vname": "Wireshark",
-  "vcpe": "cpe:/:wireshark",
-  "pid": "553",
-  "pname": "Wireshark",
-  "pcpe": "cpe:/a:wireshark:wireshark"
+	"vid": "107",
+	"vname": "Wireshark",
+	"vcpe": "cpe:/:wireshark",
+	"pid": "553",
+	"pname": "Wireshark",
+	"pcpe": "cpe:/a:wireshark:wireshark"
 }

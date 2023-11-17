@@ -1,8 +1,8 @@
 {
-  "vid": "24686",
-  "vname": "wppool",
-  "vcpe": "cpe:/:wppool",
-  "pid": "64020",
-  "pname": "wp dark mode",
-  "pcpe": "cpe:/a:wppool:wp_dark_mode"
+	"vid": "24686",
+	"vname": "wppool",
+	"vcpe": "cpe:/:wppool",
+	"pid": "64020",
+	"pname": "wp dark mode",
+	"pcpe": "cpe:/a:wppool:wp_dark_mode"
 }

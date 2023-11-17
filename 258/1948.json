@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "1948",
-  "pname": "gedit",
-  "pcpe": "cpe:/a:gnome:gedit"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "1948",
+	"pname": "gedit",
+	"pcpe": "cpe:/a:gnome:gedit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "24430",
-  "pname": "S Beam",
-  "pcpe": "cpe:/h:samsung:sbeam"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "24430",
+	"pname": "S Beam",
+	"pcpe": "cpe:/h:samsung:sbeam"
 }

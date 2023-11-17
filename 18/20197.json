@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20197",
-  "pname": "IBM Sametime Proxy Server and Web Client",
-  "pcpe": "cpe:/a:ibm:sametime_proxy_server_and_web_client"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20197",
+	"pname": "IBM Sametime Proxy Server and Web Client",
+	"pcpe": "cpe:/a:ibm:sametime_proxy_server_and_web_client"
 }

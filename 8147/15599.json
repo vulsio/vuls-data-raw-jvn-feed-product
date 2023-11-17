@@ -1,8 +1,8 @@
 {
-  "vid": "8147",
-  "vname": "tumbleweed",
-  "vcpe": "cpe:/:tumbleweed",
-  "pid": "15599",
-  "pname": "email firewall",
-  "pcpe": "cpe:/a:tumbleweed:email_firewall"
+	"vid": "8147",
+	"vname": "tumbleweed",
+	"vcpe": "cpe:/:tumbleweed",
+	"pid": "15599",
+	"pname": "email firewall",
+	"pcpe": "cpe:/a:tumbleweed:email_firewall"
 }

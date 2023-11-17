@@ -1,8 +1,8 @@
 {
-  "vid": "23074",
-  "vname": "proton project",
-  "vcpe": "cpe:/:proton_project",
-  "pid": "59693",
-  "pname": "proton",
-  "pcpe": "cpe:/a:proton_project:proton"
+	"vid": "23074",
+	"vname": "proton project",
+	"vcpe": "cpe:/:proton_project",
+	"pid": "59693",
+	"pname": "proton",
+	"pcpe": "cpe:/a:proton_project:proton"
 }

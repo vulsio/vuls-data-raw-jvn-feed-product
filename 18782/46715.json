@@ -1,8 +1,8 @@
 {
-  "vid": "18782",
-  "vname": "RainbowFish Software",
-  "vcpe": "cpe:/:rainbowfishsoftware",
-  "pid": "46715",
-  "pname": "PacsOne Server",
-  "pcpe": "cpe:/a:rainbowfishsoftware:pacsone_server"
+	"vid": "18782",
+	"vname": "RainbowFish Software",
+	"vcpe": "cpe:/:rainbowfishsoftware",
+	"pid": "46715",
+	"pname": "PacsOne Server",
+	"pcpe": "cpe:/a:rainbowfishsoftware:pacsone_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "51636",
-  "pname": "IPQ8069 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:ipq8069_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "51636",
+	"pname": "IPQ8069 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:ipq8069_firmware"
 }

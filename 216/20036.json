@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "20036",
-  "pname": "xbuffy",
-  "pcpe": "cpe:/a:debian:xbuffy"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "20036",
+	"pname": "xbuffy",
+	"pcpe": "cpe:/a:debian:xbuffy"
 }

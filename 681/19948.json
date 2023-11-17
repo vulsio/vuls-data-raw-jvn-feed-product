@@ -1,8 +1,8 @@
 {
-  "vid": "681",
-  "vname": "ASUSTeK Computer Inc.",
-  "vcpe": "cpe:/:asus",
-  "pid": "19948",
-  "pname": "RT-AC68U",
-  "pcpe": "cpe:/h:asus:rt-ac68u"
+	"vid": "681",
+	"vname": "ASUSTeK Computer Inc.",
+	"vcpe": "cpe:/:asus",
+	"pid": "19948",
+	"pname": "RT-AC68U",
+	"pcpe": "cpe:/h:asus:rt-ac68u"
 }

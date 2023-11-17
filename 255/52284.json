@@ -1,8 +1,8 @@
 {
-  "vid": "255",
-  "vname": "キヤノン",
-  "vcpe": "cpe:/:canon",
-  "pid": "52284",
-  "pname": "Oce Print Exec Workgroup",
-  "pcpe": "cpe:/a:canon:oce_print_exec_workgroup"
+	"vid": "255",
+	"vname": "キヤノン",
+	"vcpe": "cpe:/:canon",
+	"pid": "52284",
+	"pname": "Oce Print Exec Workgroup",
+	"pcpe": "cpe:/a:canon:oce_print_exec_workgroup"
 }

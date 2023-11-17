@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "32977",
-  "pname": "mydlink+",
-  "pcpe": "cpe:/a:dlink:mydlink%2b"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "32977",
+	"pname": "mydlink+",
+	"pcpe": "cpe:/a:dlink:mydlink%2b"
 }

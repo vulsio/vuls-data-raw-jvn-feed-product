@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "60558",
-  "pname": "LIFEBOOK U7510 ファームウェア",
-  "pcpe": "cpe:/o:fujitsu:lifebook_u7510_firmware"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "60558",
+	"pname": "LIFEBOOK U7510 ファームウェア",
+	"pcpe": "cpe:/o:fujitsu:lifebook_u7510_firmware"
 }

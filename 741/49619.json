@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "49619",
-  "pname": "DVA-2800 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dva-2800_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "49619",
+	"pname": "DVA-2800 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dva-2800_firmware"
 }

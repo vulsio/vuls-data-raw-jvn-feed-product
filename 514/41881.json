@@ -1,8 +1,8 @@
 {
-  "vid": "514",
-  "vname": "VideoLAN",
-  "vcpe": "cpe:/:videolan",
-  "pid": "41881",
-  "pname": "libbluray",
-  "pcpe": "cpe:/a:videolan:libbluray"
+	"vid": "514",
+	"vname": "VideoLAN",
+	"vcpe": "cpe:/:videolan",
+	"pid": "41881",
+	"pname": "libbluray",
+	"pcpe": "cpe:/a:videolan:libbluray"
 }

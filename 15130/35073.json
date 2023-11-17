@@ -1,8 +1,8 @@
 {
-  "vid": "15130",
-  "vname": "MediaRon LLC",
-  "vcpe": "cpe:/:mediaron",
-  "pid": "35073",
-  "pname": "Metronet Tag Manager",
-  "pcpe": "cpe:/a:mediaron:metronet_tag_manager"
+	"vid": "15130",
+	"vname": "MediaRon LLC",
+	"vcpe": "cpe:/:mediaron",
+	"pid": "35073",
+	"pname": "Metronet Tag Manager",
+	"pcpe": "cpe:/a:mediaron:metronet_tag_manager"
 }

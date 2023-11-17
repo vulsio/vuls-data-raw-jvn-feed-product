@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "29595",
-  "pname": "Azure Active Directory Connect",
-  "pcpe": "cpe:/a:microsoft:azure_active_directory_connect"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "29595",
+	"pname": "Azure Active Directory Connect",
+	"pcpe": "cpe:/a:microsoft:azure_active_directory_connect"
 }

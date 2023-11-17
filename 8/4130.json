@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "4130",
-  "pname": "Apache Traffic Server",
-  "pcpe": "cpe:/a:apache:traffic_server"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "4130",
+	"pname": "Apache Traffic Server",
+	"pcpe": "cpe:/a:apache:traffic_server"
 }

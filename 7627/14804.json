@@ -1,8 +1,8 @@
 {
-  "vid": "7627",
-  "vname": "SISCO",
-  "vcpe": "cpe:/:sisco",
-  "pid": "14804",
-  "pname": "MMS-EASE ファームウェア",
-  "pcpe": "cpe:/a:sisco:mms-ease_firmware"
+	"vid": "7627",
+	"vname": "SISCO",
+	"vcpe": "cpe:/:sisco",
+	"pid": "14804",
+	"pname": "MMS-EASE ファームウェア",
+	"pcpe": "cpe:/a:sisco:mms-ease_firmware"
 }

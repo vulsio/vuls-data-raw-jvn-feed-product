@@ -1,8 +1,8 @@
 {
-  "vid": "17700",
-  "vname": "Pebble Templates",
-  "vcpe": "cpe:/:pebbletemplates",
-  "pid": "42513",
-  "pname": "Pebble Templates",
-  "pcpe": "cpe:/a:pebbletemplates:pebble_templates"
+	"vid": "17700",
+	"vname": "Pebble Templates",
+	"vcpe": "cpe:/:pebbletemplates",
+	"pid": "42513",
+	"pname": "Pebble Templates",
+	"pcpe": "cpe:/a:pebbletemplates:pebble_templates"
 }

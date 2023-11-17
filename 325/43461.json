@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "43461",
-  "pname": "EZ Media & Backup Center ix2-dl ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ez_media_%26_backup_center_ix2-dl_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "43461",
+	"pname": "EZ Media & Backup Center ix2-dl ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ez_media_%26_backup_center_ix2-dl_firmware"
 }

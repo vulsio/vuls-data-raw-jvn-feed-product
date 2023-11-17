@@ -1,8 +1,8 @@
 {
-  "vid": "16341",
-  "vname": "Visser Labs",
-  "vcpe": "cpe:/:visser",
-  "pid": "38564",
-  "pname": "WooCommerce Checkout Manager",
-  "pcpe": "cpe:/a:visser:woocommerce_checkout_manager"
+	"vid": "16341",
+	"vname": "Visser Labs",
+	"vcpe": "cpe:/:visser",
+	"pid": "38564",
+	"pname": "WooCommerce Checkout Manager",
+	"pcpe": "cpe:/a:visser:woocommerce_checkout_manager"
 }

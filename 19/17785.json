@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17785",
-  "pname": "Cisco ASA 5585-X",
-  "pcpe": "cpe:/h:cisco:asa_5585-x"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17785",
+	"pname": "Cisco ASA 5585-X",
+	"pcpe": "cpe:/h:cisco:asa_5585-x"
 }

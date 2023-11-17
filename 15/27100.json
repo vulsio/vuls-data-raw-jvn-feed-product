@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27100",
-  "pname": "NetBeans",
-  "pcpe": "cpe:/a:oracle:netbeans"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27100",
+	"pname": "NetBeans",
+	"pcpe": "cpe:/a:oracle:netbeans"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "36216",
-  "pname": "NetApp Hyper Converged Infrastructure",
-  "pcpe": "cpe:/a:netapp:hyper_converged_infrastructure"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "36216",
+	"pname": "NetApp Hyper Converged Infrastructure",
+	"pcpe": "cpe:/a:netapp:hyper_converged_infrastructure"
 }

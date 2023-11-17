@@ -1,8 +1,8 @@
 {
-  "vid": "1203",
-  "vname": "Nova CMS",
-  "vcpe": "cpe:/:nova-cms",
-  "pid": "3896",
-  "pname": "Nova CMS",
-  "pcpe": "cpe:/a:nova-cms:nova_cms"
+	"vid": "1203",
+	"vname": "Nova CMS",
+	"vcpe": "cpe:/:nova-cms",
+	"pid": "3896",
+	"pname": "Nova CMS",
+	"pcpe": "cpe:/a:nova-cms:nova_cms"
 }

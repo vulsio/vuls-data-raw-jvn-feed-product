@@ -1,8 +1,8 @@
 {
-  "vid": "23139",
-  "vname": "tableau",
-  "vcpe": "cpe:/:tableau",
-  "pid": "59938",
-  "pname": "tableau server",
-  "pcpe": "cpe:/a:tableau:tableau_server"
+	"vid": "23139",
+	"vname": "tableau",
+	"vcpe": "cpe:/:tableau",
+	"pid": "59938",
+	"pname": "tableau server",
+	"pcpe": "cpe:/a:tableau:tableau_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15868",
-  "vname": "igraph",
-  "vcpe": "cpe:/:igraph",
-  "pid": "37001",
-  "pname": "igraph",
-  "pcpe": "cpe:/a:igraph:igraph"
+	"vid": "15868",
+	"vname": "igraph",
+	"vcpe": "cpe:/:igraph",
+	"pid": "37001",
+	"pname": "igraph",
+	"pcpe": "cpe:/a:igraph:igraph"
 }

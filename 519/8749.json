@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "8749",
-  "pname": "s8300",
-  "pcpe": "cpe:/h:avaya:s8300"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "8749",
+	"pname": "s8300",
+	"pcpe": "cpe:/h:avaya:s8300"
 }

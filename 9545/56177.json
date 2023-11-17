@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "56177",
-  "pname": "Spinnaker",
-  "pcpe": "cpe:/a:linuxfoundation:spinnaker"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "56177",
+	"pname": "Spinnaker",
+	"pcpe": "cpe:/a:linuxfoundation:spinnaker"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "46947",
-  "pname": "PowerLogic ION8800 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:powerlogic_ion8800_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "46947",
+	"pname": "PowerLogic ION8800 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:powerlogic_ion8800_firmware"
 }

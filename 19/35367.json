@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "35367",
-  "pname": "Cisco 3310 シリーズ モビリティ サービス エンジン ファームウェア",
-  "pcpe": "cpe:/o:cisco:mobility_services_engine_3310_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "35367",
+	"pname": "Cisco 3310 シリーズ モビリティ サービス エンジン ファームウェア",
+	"pcpe": "cpe:/o:cisco:mobility_services_engine_3310_firmware"
 }

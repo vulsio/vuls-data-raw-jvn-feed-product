@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "28706",
-  "pname": "apt-cacher",
-  "pcpe": "cpe:/a:debian:apt-cacher"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "28706",
+	"pname": "apt-cacher",
+	"pcpe": "cpe:/a:debian:apt-cacher"
 }

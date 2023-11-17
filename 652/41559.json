@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "41559",
-  "pname": "Galaxy S8 plus ファームウェア",
-  "pcpe": "cpe:/o:samsung:galaxy_s8_plus_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "41559",
+	"pname": "Galaxy S8 plus ファームウェア",
+	"pcpe": "cpe:/o:samsung:galaxy_s8_plus_firmware"
 }

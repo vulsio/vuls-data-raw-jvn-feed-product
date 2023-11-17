@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "38253",
-  "pname": "Identity Management Service",
-  "pcpe": "cpe:/a:juniper:identity_management_service"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "38253",
+	"pname": "Identity Management Service",
+	"pcpe": "cpe:/a:juniper:identity_management_service"
 }

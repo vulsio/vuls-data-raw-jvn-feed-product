@@ -1,8 +1,8 @@
 {
-  "vid": "21209",
-  "vname": "Simple JWT Login project",
-  "vcpe": "cpe:/:simple_jwt_login_project",
-  "pid": "54315",
-  "pname": "Simple JWT Login",
-  "pcpe": "cpe:/a:simple_jwt_login_project:simple_jwt_login"
+	"vid": "21209",
+	"vname": "Simple JWT Login project",
+	"vcpe": "cpe:/:simple_jwt_login_project",
+	"pid": "54315",
+	"pname": "Simple JWT Login",
+	"pcpe": "cpe:/a:simple_jwt_login_project:simple_jwt_login"
 }

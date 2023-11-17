@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "42378",
-  "pname": "CODESYS SP Realtime NT",
-  "pcpe": "cpe:/a:codesys:sp_realtime_nt"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "42378",
+	"pname": "CODESYS SP Realtime NT",
+	"pcpe": "cpe:/a:codesys:sp_realtime_nt"
 }

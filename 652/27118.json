@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "27118",
-  "pname": "Galaxy S7",
-  "pcpe": "cpe:/h:samsung:galaxy_s7"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "27118",
+	"pname": "Galaxy S7",
+	"pcpe": "cpe:/h:samsung:galaxy_s7"
 }

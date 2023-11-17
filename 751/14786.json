@@ -1,8 +1,8 @@
 {
-  "vid": "751",
-  "vname": "Simple Machines",
-  "vcpe": "cpe:/:simple_machines",
-  "pid": "14786",
-  "pname": "smf shoutbox",
-  "pcpe": "cpe:/a:simple_machines:smf_shoutbox"
+	"vid": "751",
+	"vname": "Simple Machines",
+	"vcpe": "cpe:/:simple_machines",
+	"pid": "14786",
+	"pname": "smf shoutbox",
+	"pcpe": "cpe:/a:simple_machines:smf_shoutbox"
 }

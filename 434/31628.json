@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "31628",
-  "pname": "RSA Authentication Agent SDK for C",
-  "pcpe": "cpe:/a:emc:rsa_authentication_agent_sdk_for_c"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "31628",
+	"pname": "RSA Authentication Agent SDK for C",
+	"pcpe": "cpe:/a:emc:rsa_authentication_agent_sdk_for_c"
 }

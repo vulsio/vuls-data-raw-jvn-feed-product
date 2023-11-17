@@ -1,8 +1,8 @@
 {
-  "vid": "1898",
-  "vname": "Bradford Networks",
-  "vcpe": "cpe:/:bradfordnetworks",
-  "pid": "5249",
-  "pname": "Network Sentry",
-  "pcpe": "cpe:/h:bradfordnetworks:network_sentry_appliance"
+	"vid": "1898",
+	"vname": "Bradford Networks",
+	"vcpe": "cpe:/:bradfordnetworks",
+	"pid": "5249",
+	"pname": "Network Sentry",
+	"pcpe": "cpe:/h:bradfordnetworks:network_sentry_appliance"
 }

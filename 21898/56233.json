@@ -1,8 +1,8 @@
 {
-  "vid": "21898",
-  "vname": "Gravitee",
-  "vcpe": "cpe:/:gravitee",
-  "pid": "56233",
-  "pname": "API Management",
-  "pcpe": "cpe:/a:gravitee:api_management"
+	"vid": "21898",
+	"vname": "Gravitee",
+	"vcpe": "cpe:/:gravitee",
+	"pid": "56233",
+	"pname": "API Management",
+	"pcpe": "cpe:/a:gravitee:api_management"
 }

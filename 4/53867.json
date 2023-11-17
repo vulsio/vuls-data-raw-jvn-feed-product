@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "53867",
-  "pname": "HP LaserJet Pro J8H60A ファームウェア",
-  "pcpe": "cpe:/o:hp:laserjet_pro_j8h60a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "53867",
+	"pname": "HP LaserJet Pro J8H60A ファームウェア",
+	"pcpe": "cpe:/o:hp:laserjet_pro_j8h60a_firmware"
 }

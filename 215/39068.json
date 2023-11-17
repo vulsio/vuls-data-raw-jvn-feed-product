@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "39068",
-  "pname": "RealPresence Debut ファームウェア",
-  "pcpe": "cpe:/o:polycom:realpresence_debut_firmware"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "39068",
+	"pname": "RealPresence Debut ファームウェア",
+	"pcpe": "cpe:/o:polycom:realpresence_debut_firmware"
 }

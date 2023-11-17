@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "15143",
-  "pname": "n1 service provisioning system",
-  "pcpe": "cpe:/a:sun:n1_service_provisioning_system"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "15143",
+	"pname": "n1 service provisioning system",
+	"pcpe": "cpe:/a:sun:n1_service_provisioning_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6",
-  "vname": "ネットスケープ",
-  "vcpe": "cpe:/:netscape",
-  "pid": "139",
-  "pname": "Netscape Enterprise Server",
-  "pcpe": "cpe:/a:netscape:enterprise_server"
+	"vid": "6",
+	"vname": "ネットスケープ",
+	"vcpe": "cpe:/:netscape",
+	"pid": "139",
+	"pname": "Netscape Enterprise Server",
+	"pcpe": "cpe:/a:netscape:enterprise_server"
 }

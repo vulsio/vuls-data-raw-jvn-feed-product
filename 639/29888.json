@@ -1,8 +1,8 @@
 {
-  "vid": "639",
-  "vname": "富士フイルムビジネスイノベーション株式会社 (旧 富士ゼロックス株式会社)",
-  "vcpe": "cpe:/:fuji_xerox",
-  "pid": "29888",
-  "pname": "ART EXダイレクトファクスドライバー",
-  "pcpe": "cpe:/a:fuji_xerox:art_ex_direct_fax_driver"
+	"vid": "639",
+	"vname": "富士フイルムビジネスイノベーション株式会社 (旧 富士ゼロックス株式会社)",
+	"vcpe": "cpe:/:fuji_xerox",
+	"pid": "29888",
+	"pname": "ART EXダイレクトファクスドライバー",
+	"pcpe": "cpe:/a:fuji_xerox:art_ex_direct_fax_driver"
 }

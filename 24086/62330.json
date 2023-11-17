@@ -1,8 +1,8 @@
 {
-  "vid": "24086",
-  "vname": "qualys",
-  "vcpe": "cpe:/:qualys",
-  "pid": "62330",
-  "pname": "cloud agent",
-  "pcpe": "cpe:/a:qualys:cloud_agent"
+	"vid": "24086",
+	"vname": "qualys",
+	"vcpe": "cpe:/:qualys",
+	"pid": "62330",
+	"pname": "cloud agent",
+	"pcpe": "cpe:/a:qualys:cloud_agent"
 }

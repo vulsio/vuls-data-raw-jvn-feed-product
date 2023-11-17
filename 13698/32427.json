@@ -1,8 +1,8 @@
 {
-  "vid": "13698",
-  "vname": "mpv",
-  "vcpe": "cpe:/:mpv",
-  "pid": "32427",
-  "pname": "mpv",
-  "pcpe": "cpe:/a:mpv:mpv"
+	"vid": "13698",
+	"vname": "mpv",
+	"vcpe": "cpe:/:mpv",
+	"pid": "32427",
+	"pname": "mpv",
+	"pcpe": "cpe:/a:mpv:mpv"
 }

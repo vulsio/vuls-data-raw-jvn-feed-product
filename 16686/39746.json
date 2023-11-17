@@ -1,8 +1,8 @@
 {
-  "vid": "16686",
-  "vname": "Elm Electronics",
-  "vcpe": "cpe:/:elmelectronics",
-  "pid": "39746",
-  "pname": "ELM327 ファームウェア",
-  "pcpe": "cpe:/o:elmelectronics:elm27_firmware"
+	"vid": "16686",
+	"vname": "Elm Electronics",
+	"vcpe": "cpe:/:elmelectronics",
+	"pid": "39746",
+	"pname": "ELM327 ファームウェア",
+	"pcpe": "cpe:/o:elmelectronics:elm27_firmware"
 }

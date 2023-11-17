@@ -1,8 +1,8 @@
 {
-  "vid": "7405",
-  "vname": "safer networking",
-  "vcpe": "cpe:/:safer_networking",
-  "pid": "14471",
-  "pname": "filealyzer",
-  "pcpe": "cpe:/a:safer_networking:filealyzer"
+	"vid": "7405",
+	"vname": "safer networking",
+	"vcpe": "cpe:/:safer_networking",
+	"pid": "14471",
+	"pname": "filealyzer",
+	"pcpe": "cpe:/a:safer_networking:filealyzer"
 }

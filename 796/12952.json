@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "12952",
-  "pname": "wrt54gc",
-  "pcpe": "cpe:/h:linksys:wrt54gc"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "12952",
+	"pname": "wrt54gc",
+	"pcpe": "cpe:/h:linksys:wrt54gc"
 }

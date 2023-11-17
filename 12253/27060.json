@@ -1,8 +1,8 @@
 {
-  "vid": "12253",
-  "vname": "HDW Tube project",
-  "vcpe": "cpe:/:hdw-tube_project",
-  "pid": "27060",
-  "pname": "HDW Tube",
-  "pcpe": "cpe:/a:hdw-tube_project:hdw-tube"
+	"vid": "12253",
+	"vname": "HDW Tube project",
+	"vcpe": "cpe:/:hdw-tube_project",
+	"pid": "27060",
+	"pname": "HDW Tube",
+	"pcpe": "cpe:/a:hdw-tube_project:hdw-tube"
 }

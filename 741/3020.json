@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "3020",
-  "pname": "DES-3800 ",
-  "pcpe": "cpe:/h:dlink:des-3800"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "3020",
+	"pname": "DES-3800 ",
+	"pcpe": "cpe:/h:dlink:des-3800"
 }

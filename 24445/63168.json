@@ -1,8 +1,8 @@
 {
-  "vid": "24445",
-  "vname": "joblib project",
-  "vcpe": "cpe:/:joblib_project",
-  "pid": "63168",
-  "pname": "joblib",
-  "pcpe": "cpe:/a:joblib_project:joblib"
+	"vid": "24445",
+	"vname": "joblib project",
+	"vcpe": "cpe:/:joblib_project",
+	"pid": "63168",
+	"pname": "joblib",
+	"pcpe": "cpe:/a:joblib_project:joblib"
 }

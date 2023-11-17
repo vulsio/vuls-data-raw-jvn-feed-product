@@ -1,8 +1,8 @@
 {
-  "vid": "21203",
-  "vname": "Preview E-mails for WooCommerce project",
-  "vcpe": "cpe:/:preview_e-mails_for_woocommerce_project",
-  "pid": "54262",
-  "pname": "Preview E-mails for WooCommerce",
-  "pcpe": "cpe:/a:preview_e-mails_for_woocommerce_project:preview_e-mails_for_woocommerce"
+	"vid": "21203",
+	"vname": "Preview E-mails for WooCommerce project",
+	"vcpe": "cpe:/:preview_e-mails_for_woocommerce_project",
+	"pid": "54262",
+	"pname": "Preview E-mails for WooCommerce",
+	"pcpe": "cpe:/a:preview_e-mails_for_woocommerce_project:preview_e-mails_for_woocommerce"
 }

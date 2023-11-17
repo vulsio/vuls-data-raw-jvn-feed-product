@@ -1,8 +1,8 @@
 {
-  "vid": "15909",
-  "vname": "TheHive Project",
-  "vcpe": "cpe:/:thehive-project",
-  "pid": "37128",
-  "pname": "Cortex",
-  "pcpe": "cpe:/a:thehive-project:cortex"
+	"vid": "15909",
+	"vname": "TheHive Project",
+	"vcpe": "cpe:/:thehive-project",
+	"pid": "37128",
+	"pname": "Cortex",
+	"pcpe": "cpe:/a:thehive-project:cortex"
 }

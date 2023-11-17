@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "45489",
-  "pname": "Citrix Application Delivery Controller ファームウェア",
-  "pcpe": "cpe:/o:citrix:application_delivery_controller_firmware"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "45489",
+	"pname": "Citrix Application Delivery Controller ファームウェア",
+	"pcpe": "cpe:/o:citrix:application_delivery_controller_firmware"
 }

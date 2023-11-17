@@ -1,8 +1,8 @@
 {
-  "vid": "11717",
-  "vname": "Beckwith Electric Co., Inc.",
-  "vcpe": "cpe:/:beckwithelectric",
-  "pid": "24174",
-  "pname": "M-2001D Digital Tapchanger Control ファームウェア",
-  "pcpe": "cpe:/o:beckwithelectric:m-2001d_digital_tapchanger_control_d-0214_firmware"
+	"vid": "11717",
+	"vname": "Beckwith Electric Co., Inc.",
+	"vcpe": "cpe:/:beckwithelectric",
+	"pid": "24174",
+	"pname": "M-2001D Digital Tapchanger Control ファームウェア",
+	"pcpe": "cpe:/o:beckwithelectric:m-2001d_digital_tapchanger_control_d-0214_firmware"
 }

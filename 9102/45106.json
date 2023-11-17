@@ -1,8 +1,8 @@
 {
-  "vid": "9102",
-  "vname": "Open-Xchange",
-  "vcpe": "cpe:/:open-xchange",
-  "pid": "45106",
-  "pname": "OX Guard",
-  "pcpe": "cpe:/a:open-xchange:ox_guard"
+	"vid": "9102",
+	"vname": "Open-Xchange",
+	"vcpe": "cpe:/:open-xchange",
+	"pid": "45106",
+	"pname": "OX Guard",
+	"pcpe": "cpe:/a:open-xchange:ox_guard"
 }

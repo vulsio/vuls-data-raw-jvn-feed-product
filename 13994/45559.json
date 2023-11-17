@@ -1,8 +1,8 @@
 {
-  "vid": "13994",
-  "vname": "Yubico",
-  "vcpe": "cpe:/:yubico",
-  "pid": "45559",
-  "pname": "PIV Tool",
-  "pcpe": "cpe:/a:yubico:piv_tool_manager"
+	"vid": "13994",
+	"vname": "Yubico",
+	"vcpe": "cpe:/:yubico",
+	"pid": "45559",
+	"pname": "PIV Tool",
+	"pcpe": "cpe:/a:yubico:piv_tool_manager"
 }

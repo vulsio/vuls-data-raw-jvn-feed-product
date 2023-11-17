@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31461",
-  "pname": "TL-WVR900G",
-  "pcpe": "cpe:/h:tp-link:tl-wvr900g"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31461",
+	"pname": "TL-WVR900G",
+	"pcpe": "cpe:/h:tp-link:tl-wvr900g"
 }

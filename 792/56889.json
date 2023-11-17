@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56889",
-  "pname": "XGS2210-28 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:xgs2210-28_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56889",
+	"pname": "XGS2210-28 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:xgs2210-28_firmware"
 }

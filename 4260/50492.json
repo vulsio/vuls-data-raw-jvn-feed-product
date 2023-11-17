@@ -1,8 +1,8 @@
 {
-  "vid": "4260",
-  "vname": "Linux",
-  "vcpe": "cpe:/:linux",
-  "pid": "50492",
-  "pname": "mac80211",
-  "pcpe": "cpe:/a:linux:mac80211"
+	"vid": "4260",
+	"vname": "Linux",
+	"vcpe": "cpe:/:linux",
+	"pid": "50492",
+	"pname": "mac80211",
+	"pcpe": "cpe:/a:linux:mac80211"
 }

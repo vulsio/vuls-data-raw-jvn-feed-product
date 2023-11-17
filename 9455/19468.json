@@ -1,8 +1,8 @@
 {
-  "vid": "9455",
-  "vname": "Daum Communications",
-  "vcpe": "cpe:/:daum_communications",
-  "pid": "19468",
-  "pname": "Daum Game ActiveX コントロール",
-  "pcpe": "cpe:/a:daum_communications:daumgame_activex_control"
+	"vid": "9455",
+	"vname": "Daum Communications",
+	"vcpe": "cpe:/:daum_communications",
+	"pid": "19468",
+	"pname": "Daum Game ActiveX コントロール",
+	"pcpe": "cpe:/a:daum_communications:daumgame_activex_control"
 }

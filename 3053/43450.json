@@ -1,8 +1,8 @@
 {
-  "vid": "3053",
-  "vname": "cypress",
-  "vcpe": "cpe:/:cypress",
-  "pid": "43450",
-  "pname": "CYBL11573",
-  "pcpe": "cpe:/a:cypress:cybl11573"
+	"vid": "3053",
+	"vname": "cypress",
+	"vcpe": "cpe:/:cypress",
+	"pid": "43450",
+	"pname": "CYBL11573",
+	"pcpe": "cpe:/a:cypress:cybl11573"
 }

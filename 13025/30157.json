@@ -1,8 +1,8 @@
 {
-  "vid": "13025",
-  "vname": "NXP Semiconductors",
-  "vcpe": "cpe:/:nxp",
-  "pid": "30157",
-  "pname": "i.MX 6DualPlus ファームウェア",
-  "pcpe": "cpe:/o:nxp:i.mx_6dualplus_firmware"
+	"vid": "13025",
+	"vname": "NXP Semiconductors",
+	"vcpe": "cpe:/:nxp",
+	"pid": "30157",
+	"pname": "i.MX 6DualPlus ファームウェア",
+	"pcpe": "cpe:/o:nxp:i.mx_6dualplus_firmware"
 }

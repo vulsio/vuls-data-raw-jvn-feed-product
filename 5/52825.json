@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52825",
-  "pname": "SD460 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd460_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52825",
+	"pname": "SD460 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd460_firmware"
 }

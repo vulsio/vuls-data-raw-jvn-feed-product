@@ -1,8 +1,8 @@
 {
-  "vid": "19992",
-  "vname": "concerto-signage",
-  "vcpe": "cpe:/:concerto-signage",
-  "pid": "50627",
-  "pname": "concerto",
-  "pcpe": "cpe:/a:concerto-signage:concerto"
+	"vid": "19992",
+	"vname": "concerto-signage",
+	"vcpe": "cpe:/:concerto-signage",
+	"pid": "50627",
+	"pname": "concerto",
+	"pcpe": "cpe:/a:concerto-signage:concerto"
 }

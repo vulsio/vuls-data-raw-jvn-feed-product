@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "19818",
-  "pname": "Echo Life HG8247 ファームウェア",
-  "pcpe": "cpe:/o:huawei:echo_life_hg8247_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "19818",
+	"pname": "Echo Life HG8247 ファームウェア",
+	"pcpe": "cpe:/o:huawei:echo_life_hg8247_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3613",
-  "vname": "eyeball networks",
-  "vcpe": "cpe:/:eyeball_networks",
-  "pid": "7949",
-  "pname": "eyeball messenger sdk",
-  "pcpe": "cpe:/a:eyeball_networks:eyeball_messenger_sdk"
+	"vid": "3613",
+	"vname": "eyeball networks",
+	"vcpe": "cpe:/:eyeball_networks",
+	"pid": "7949",
+	"pname": "eyeball messenger sdk",
+	"pcpe": "cpe:/a:eyeball_networks:eyeball_messenger_sdk"
 }

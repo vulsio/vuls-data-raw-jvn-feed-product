@@ -1,8 +1,8 @@
 {
-  "vid": "15352",
-  "vname": "git-dummy-commit project",
-  "vcpe": "cpe:/:git-dummy-commit_project",
-  "pid": "35657",
-  "pname": "git-dummy-commit",
-  "pcpe": "cpe:/a:git-dummy-commit_project:git-dummy-commit"
+	"vid": "15352",
+	"vname": "git-dummy-commit project",
+	"vcpe": "cpe:/:git-dummy-commit_project",
+	"pid": "35657",
+	"pname": "git-dummy-commit",
+	"pcpe": "cpe:/a:git-dummy-commit_project:git-dummy-commit"
 }

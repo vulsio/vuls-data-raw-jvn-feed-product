@@ -1,8 +1,8 @@
 {
-  "vid": "19201",
-  "vname": "株式会社ジェイテクト",
-  "vcpe": "cpe:/:jtekt",
-  "pid": "49046",
-  "pname": "PC10P-DP TCC-6726 ファームウェア",
-  "pcpe": "cpe:/o:jtekt:pc10p-dp_tcc-6726_firmware"
+	"vid": "19201",
+	"vname": "株式会社ジェイテクト",
+	"vcpe": "cpe:/:jtekt",
+	"pid": "49046",
+	"pname": "PC10P-DP TCC-6726 ファームウェア",
+	"pcpe": "cpe:/o:jtekt:pc10p-dp_tcc-6726_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "52280",
-  "pname": "SIMATIC RTU3000C ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_rtu3000c_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "52280",
+	"pname": "SIMATIC RTU3000C ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_rtu3000c_firmware"
 }

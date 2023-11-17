@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "58590",
-  "pname": "sd-wan 5100 ファームウェア",
-  "pcpe": "cpe:/o:citrix:sd-wan_5100_firmware"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "58590",
+	"pname": "sd-wan 5100 ファームウェア",
+	"pcpe": "cpe:/o:citrix:sd-wan_5100_firmware"
 }

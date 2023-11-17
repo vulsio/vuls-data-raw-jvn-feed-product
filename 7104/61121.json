@@ -1,8 +1,8 @@
 {
-  "vid": "7104",
-  "vname": "Progress Software Corporation",
-  "vcpe": "cpe:/:progress",
-  "pid": "61121",
-  "pname": "WS_FTP Server",
-  "pcpe": "cpe:/a:progress:ws_ftp_server"
+	"vid": "7104",
+	"vname": "Progress Software Corporation",
+	"vcpe": "cpe:/:progress",
+	"pid": "61121",
+	"pname": "WS_FTP Server",
+	"pcpe": "cpe:/a:progress:ws_ftp_server"
 }

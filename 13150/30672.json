@@ -1,8 +1,8 @@
 {
-  "vid": "13150",
-  "vname": "hbgk.net",
-  "vcpe": "cpe:/:hbgk",
-  "pid": "30672",
-  "pname": "HB9816N08 ファームウェア",
-  "pcpe": "cpe:/o:hbgk:hb9816n08_firmware"
+	"vid": "13150",
+	"vname": "hbgk.net",
+	"vcpe": "cpe:/:hbgk",
+	"pid": "30672",
+	"pname": "HB9816N08 ファームウェア",
+	"pcpe": "cpe:/o:hbgk:hb9816n08_firmware"
 }

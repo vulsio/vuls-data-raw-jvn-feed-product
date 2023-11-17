@@ -1,8 +1,8 @@
 {
-  "vid": "2855",
-  "vname": "clicktech",
-  "vcpe": "cpe:/:clicktech",
-  "pid": "6822",
-  "pname": "clickcart",
-  "pcpe": "cpe:/a:clicktech:clickcart"
+	"vid": "2855",
+	"vname": "clicktech",
+	"vcpe": "cpe:/:clicktech",
+	"pid": "6822",
+	"pname": "clickcart",
+	"pcpe": "cpe:/a:clicktech:clickcart"
 }

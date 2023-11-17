@@ -1,8 +1,8 @@
 {
-  "vid": "14866",
-  "vname": "OpenSID",
-  "vcpe": "cpe:/:opensid",
-  "pid": "34732",
-  "pname": "OpenSID",
-  "pcpe": "cpe:/a:opensid:opensid"
+	"vid": "14866",
+	"vname": "OpenSID",
+	"vcpe": "cpe:/:opensid",
+	"pid": "34732",
+	"pname": "OpenSID",
+	"pcpe": "cpe:/a:opensid:opensid"
 }

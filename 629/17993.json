@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "17993",
-  "pname": "OnCell G3151",
-  "pcpe": "cpe:/h:moxa:oncell_gateway_g3151"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "17993",
+	"pname": "OnCell G3151",
+	"pcpe": "cpe:/h:moxa:oncell_gateway_g3151"
 }

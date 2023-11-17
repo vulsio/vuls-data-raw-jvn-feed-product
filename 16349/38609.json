@@ -1,8 +1,8 @@
 {
-  "vid": "16349",
-  "vname": "WP Launchpad",
-  "vcpe": "cpe:/:wplaunchpad",
-  "pid": "38609",
-  "pname": "WP Backup+",
-  "pcpe": "cpe:/a:wplaunchpad:wpbackupplus"
+	"vid": "16349",
+	"vname": "WP Launchpad",
+	"vcpe": "cpe:/:wplaunchpad",
+	"pid": "38609",
+	"pname": "WP Backup+",
+	"pcpe": "cpe:/a:wplaunchpad:wpbackupplus"
 }

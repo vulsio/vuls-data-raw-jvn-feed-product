@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "12110",
-  "pname": "Novell Client",
-  "pcpe": "cpe:/a:novell:client"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "12110",
+	"pname": "Novell Client",
+	"pcpe": "cpe:/a:novell:client"
 }

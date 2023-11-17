@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "50197",
-  "pname": "Capital VSTAR",
-  "pcpe": "cpe:/a:siemens:capital_vstar"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "50197",
+	"pname": "Capital VSTAR",
+	"pcpe": "cpe:/a:siemens:capital_vstar"
 }

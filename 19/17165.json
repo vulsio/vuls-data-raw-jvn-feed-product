@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17165",
-  "pname": "Cisco TelePresence MCU 4515",
-  "pcpe": "cpe:/h:cisco:telepresence_mcu_4515"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17165",
+	"pname": "Cisco TelePresence MCU 4515",
+	"pcpe": "cpe:/h:cisco:telepresence_mcu_4515"
 }

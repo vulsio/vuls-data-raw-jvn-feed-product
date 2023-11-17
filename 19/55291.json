@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "55291",
-  "pname": "Cisco Unified Contact Center Management Portal",
-  "pcpe": "cpe:/a:cisco:unified_contact_center_management_portal"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "55291",
+	"pname": "Cisco Unified Contact Center Management Portal",
+	"pcpe": "cpe:/a:cisco:unified_contact_center_management_portal"
 }

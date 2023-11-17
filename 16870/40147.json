@@ -1,8 +1,8 @@
 {
-  "vid": "16870",
-  "vname": "Impress.org",
-  "vcpe": "cpe:/:impress",
-  "pid": "40147",
-  "pname": "WP Rollback",
-  "pcpe": "cpe:/a:impress:wp_rollback"
+	"vid": "16870",
+	"vname": "Impress.org",
+	"vcpe": "cpe:/:impress",
+	"pid": "40147",
+	"pname": "WP Rollback",
+	"pcpe": "cpe:/a:impress:wp_rollback"
 }

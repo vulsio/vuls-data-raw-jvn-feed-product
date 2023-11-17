@@ -1,8 +1,8 @@
 {
-  "vid": "14940",
-  "vname": "Genesis Vision",
-  "vcpe": "cpe:/:genesis_vision",
-  "pid": "34832",
-  "pname": "GVToken",
-  "pcpe": "cpe:/a:genesis_vision:gvtoken"
+	"vid": "14940",
+	"vname": "Genesis Vision",
+	"vcpe": "cpe:/:genesis_vision",
+	"pid": "34832",
+	"pname": "GVToken",
+	"pcpe": "cpe:/a:genesis_vision:gvtoken"
 }

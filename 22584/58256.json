@@ -1,8 +1,8 @@
 {
-  "vid": "22584",
-  "vname": "BaiCells",
-  "vcpe": "cpe:/:baicells",
-  "pid": "58256",
-  "pname": "neutrino 430 ファームウェア",
-  "pcpe": "cpe:/o:baicells:neutrino_430_firmware"
+	"vid": "22584",
+	"vname": "BaiCells",
+	"vcpe": "cpe:/:baicells",
+	"pid": "58256",
+	"pname": "neutrino 430 ファームウェア",
+	"pcpe": "cpe:/o:baicells:neutrino_430_firmware"
 }

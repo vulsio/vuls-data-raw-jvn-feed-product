@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "18184",
-  "pname": "H8SML-7",
-  "pcpe": "cpe:/h:supermicro:h8sml-7"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "18184",
+	"pname": "H8SML-7",
+	"pcpe": "cpe:/h:supermicro:h8sml-7"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8316",
-  "vname": "virtualsystem",
-  "vcpe": "cpe:/:virtualsystem",
-  "pid": "15898",
-  "pname": "vs-link-partner",
-  "pcpe": "cpe:/a:virtualsystem:vs-link-partner"
+	"vid": "8316",
+	"vname": "virtualsystem",
+	"vcpe": "cpe:/:virtualsystem",
+	"pid": "15898",
+	"pname": "vs-link-partner",
+	"pcpe": "cpe:/a:virtualsystem:vs-link-partner"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "829",
-  "vname": "MyBB Group",
-  "vcpe": "cpe:/:mybb",
-  "pid": "18785",
-  "pname": "Ajax forum stat",
-  "pcpe": "cpe:/a:mybb:ajax_forum_stat"
+	"vid": "829",
+	"vname": "MyBB Group",
+	"vcpe": "cpe:/:mybb",
+	"pid": "18785",
+	"pname": "Ajax forum stat",
+	"pcpe": "cpe:/a:mybb:ajax_forum_stat"
 }

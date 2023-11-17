@@ -1,8 +1,8 @@
 {
-  "vid": "9967",
-  "vname": "Shenzhen Tenda Technology Co.,Ltd.",
-  "vcpe": "cpe:/:tenda",
-  "pid": "57626",
-  "pname": "ax1806 ファームウェア",
-  "pcpe": "cpe:/o:tenda:ax1806_firmware"
+	"vid": "9967",
+	"vname": "Shenzhen Tenda Technology Co.,Ltd.",
+	"vcpe": "cpe:/:tenda",
+	"pid": "57626",
+	"pname": "ax1806 ファームウェア",
+	"pcpe": "cpe:/o:tenda:ax1806_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "18293",
-  "pname": "X9SRE-3F",
-  "pcpe": "cpe:/h:supermicro:x9sre-3f"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "18293",
+	"pname": "X9SRE-3F",
+	"pcpe": "cpe:/h:supermicro:x9sre-3f"
 }

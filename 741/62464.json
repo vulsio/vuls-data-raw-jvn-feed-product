@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "62464",
-  "pname": "dir-845l ファームウェア",
-  "pcpe": "cpe:/o:dlink:dir-845l_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "62464",
+	"pname": "dir-845l ファームウェア",
+	"pcpe": "cpe:/o:dlink:dir-845l_firmware"
 }

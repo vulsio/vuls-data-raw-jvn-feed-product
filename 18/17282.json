@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17282",
-  "pname": "Sterling Secure Proxy",
-  "pcpe": "cpe:/a:ibm:sterling_secure_proxy"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17282",
+	"pname": "Sterling Secure Proxy",
+	"pcpe": "cpe:/a:ibm:sterling_secure_proxy"
 }

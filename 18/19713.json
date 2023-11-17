@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19713",
-  "pname": "IBM WebSphere MQ Internet Pass-Thru",
-  "pcpe": "cpe:/a:ibm:websphere_mq_internet_pass_thru"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19713",
+	"pname": "IBM WebSphere MQ Internet Pass-Thru",
+	"pcpe": "cpe:/a:ibm:websphere_mq_internet_pass_thru"
 }

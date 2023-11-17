@@ -1,8 +1,8 @@
 {
-  "vid": "518",
-  "vname": "Xine",
-  "vcpe": "cpe:/:xine",
-  "pid": "12724",
-  "pname": "real media input plugin",
-  "pcpe": "cpe:/a:xine:real_media_input_plugin"
+	"vid": "518",
+	"vname": "Xine",
+	"vcpe": "cpe:/:xine",
+	"pid": "12724",
+	"pname": "real media input plugin",
+	"pcpe": "cpe:/a:xine:real_media_input_plugin"
 }

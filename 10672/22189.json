@@ -1,8 +1,8 @@
 {
-  "vid": "10672",
-  "vname": "carrierenterprise",
-  "vcpe": "cpe:/:carrierenterprise",
-  "pid": "22189",
-  "pname": "carrier enterprise hvac assist",
-  "pcpe": "cpe:/a:carrierenterprise:carrier_enterprise_hvac_assist"
+	"vid": "10672",
+	"vname": "carrierenterprise",
+	"vcpe": "cpe:/:carrierenterprise",
+	"pid": "22189",
+	"pname": "carrier enterprise hvac assist",
+	"pcpe": "cpe:/a:carrierenterprise:carrier_enterprise_hvac_assist"
 }

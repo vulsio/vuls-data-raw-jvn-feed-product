@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "11250",
-  "pname": "supportcenter plus",
-  "pcpe": "cpe:/a:zohocorp:supportcenter_plus"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "11250",
+	"pname": "supportcenter plus",
+	"pcpe": "cpe:/a:zohocorp:supportcenter_plus"
 }

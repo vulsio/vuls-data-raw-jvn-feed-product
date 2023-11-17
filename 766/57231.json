@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "57231",
-  "pname": "TSXP576634 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:tsxp576634_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "57231",
+	"pname": "TSXP576634 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:tsxp576634_firmware"
 }

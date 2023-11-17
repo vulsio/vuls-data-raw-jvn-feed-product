@@ -1,8 +1,8 @@
 {
-  "vid": "15632",
-  "vname": "AudioCodes",
-  "vcpe": "cpe:/:audiocodes",
-  "pid": "36378",
-  "pname": "450HD ファームウェア",
-  "pcpe": "cpe:/o:audiocodes:450hd_firmware"
+	"vid": "15632",
+	"vname": "AudioCodes",
+	"vcpe": "cpe:/:audiocodes",
+	"pid": "36378",
+	"pname": "450HD ファームウェア",
+	"pcpe": "cpe:/o:audiocodes:450hd_firmware"
 }

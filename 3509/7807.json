@@ -1,8 +1,8 @@
 {
-  "vid": "3509",
-  "vname": "enomaly",
-  "vcpe": "cpe:/:enomaly",
-  "pid": "7807",
-  "pname": "elastic computing platform",
-  "pcpe": "cpe:/a:enomaly:elastic_computing_platform"
+	"vid": "3509",
+	"vname": "enomaly",
+	"vcpe": "cpe:/:enomaly",
+	"pid": "7807",
+	"pname": "elastic computing platform",
+	"pcpe": "cpe:/a:enomaly:elastic_computing_platform"
 }

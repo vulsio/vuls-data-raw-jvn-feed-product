@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "32278",
-  "pname": "Swarm",
-  "pcpe": "cpe:/a:jenkins:swarm"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "32278",
+	"pname": "Swarm",
+	"pcpe": "cpe:/a:jenkins:swarm"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "49475",
-  "pname": "FSM-2500 ファームウェア",
-  "pcpe": "cpe:/o:bosch:fsm-2500_firmware"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "49475",
+	"pname": "FSM-2500 ファームウェア",
+	"pcpe": "cpe:/o:bosch:fsm-2500_firmware"
 }

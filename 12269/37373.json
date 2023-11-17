@@ -1,8 +1,8 @@
 {
-  "vid": "12269",
-  "vname": "Teradata Corporation",
-  "vcpe": "cpe:/:teradata",
-  "pid": "37373",
-  "pname": "Viewpoint",
-  "pcpe": "cpe:/a:teradata:viewpoint"
+	"vid": "12269",
+	"vname": "Teradata Corporation",
+	"vcpe": "cpe:/:teradata",
+	"pid": "37373",
+	"pname": "Viewpoint",
+	"pcpe": "cpe:/a:teradata:viewpoint"
 }

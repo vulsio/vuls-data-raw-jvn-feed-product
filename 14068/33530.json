@@ -1,8 +1,8 @@
 {
-  "vid": "14068",
-  "vname": "Attribute Wizard project",
-  "vcpe": "cpe:/:attribute_wizard_project",
-  "pid": "33530",
-  "pname": "Attribute Wizard",
-  "pcpe": "cpe:/a:attribute_wizard_project:attribute_wizard"
+	"vid": "14068",
+	"vname": "Attribute Wizard project",
+	"vcpe": "cpe:/:attribute_wizard_project",
+	"pid": "33530",
+	"pname": "Attribute Wizard",
+	"pcpe": "cpe:/a:attribute_wizard_project:attribute_wizard"
 }

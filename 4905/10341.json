@@ -1,8 +1,8 @@
 {
-  "vid": "4905",
-  "vname": "jamm-media",
-  "vcpe": "cpe:/:jamm-media",
-  "pid": "10341",
-  "pname": "jamm cms",
-  "pcpe": "cpe:/a:jamm-media:jamm_cms"
+	"vid": "4905",
+	"vname": "jamm-media",
+	"vcpe": "cpe:/:jamm-media",
+	"pid": "10341",
+	"pname": "jamm cms",
+	"pcpe": "cpe:/a:jamm-media:jamm_cms"
 }

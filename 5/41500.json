@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "41500",
-  "pname": "QCN7605 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qcn7605_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "41500",
+	"pname": "QCN7605 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qcn7605_firmware"
 }

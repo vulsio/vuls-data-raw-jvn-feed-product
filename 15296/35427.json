@@ -1,8 +1,8 @@
 {
-  "vid": "15296",
-  "vname": "fibranet",
-  "vcpe": "cpe:/:fibranet",
-  "pid": "35427",
-  "pname": "Monitorix",
-  "pcpe": "cpe:/a:fibranet:monitorix"
+	"vid": "15296",
+	"vname": "fibranet",
+	"vcpe": "cpe:/:fibranet",
+	"pid": "35427",
+	"pname": "Monitorix",
+	"pcpe": "cpe:/a:fibranet:monitorix"
 }

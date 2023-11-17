@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17738",
-  "pname": "HP StoreVirtual 4730",
-  "pcpe": "cpe:/h:hp:storevirtual_4730"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17738",
+	"pname": "HP StoreVirtual 4730",
+	"pcpe": "cpe:/h:hp:storevirtual_4730"
 }

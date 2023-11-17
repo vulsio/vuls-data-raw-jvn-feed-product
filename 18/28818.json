@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "28818",
-  "pname": "IBM Platform LSF",
-  "pcpe": "cpe:/a:ibm:platform_lsf"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "28818",
+	"pname": "IBM Platform LSF",
+	"pcpe": "cpe:/a:ibm:platform_lsf"
 }

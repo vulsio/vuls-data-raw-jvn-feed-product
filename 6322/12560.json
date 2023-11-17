@@ -1,8 +1,8 @@
 {
-  "vid": "6322",
-  "vname": "Perforce Software",
-  "vcpe": "cpe:/:perforce",
-  "pid": "12560",
-  "pname": "perforce client",
-  "pcpe": "cpe:/a:perforce:perforce_client"
+	"vid": "6322",
+	"vname": "Perforce Software",
+	"vcpe": "cpe:/:perforce",
+	"pid": "12560",
+	"pname": "perforce client",
+	"pcpe": "cpe:/a:perforce:perforce_client"
 }

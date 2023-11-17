@@ -1,8 +1,8 @@
 {
-  "vid": "6155",
-  "vname": "OpenText",
-  "vcpe": "cpe:/:opentext",
-  "pid": "37890",
-  "pname": "OpenText Portal",
-  "pcpe": "cpe:/a:opentext:opentext_portal"
+	"vid": "6155",
+	"vname": "OpenText",
+	"vcpe": "cpe:/:opentext",
+	"pid": "37890",
+	"pname": "OpenText Portal",
+	"pcpe": "cpe:/a:opentext:opentext_portal"
 }

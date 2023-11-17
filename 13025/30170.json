@@ -1,8 +1,8 @@
 {
-  "vid": "13025",
-  "vname": "NXP Semiconductors",
-  "vcpe": "cpe:/:nxp",
-  "pid": "30170",
-  "pname": "Vybrid MVF50NN151CMK50 ファームウェア",
-  "pcpe": "cpe:/o:nxp:vybrid_mvf50nn151cmk50_firmware"
+	"vid": "13025",
+	"vname": "NXP Semiconductors",
+	"vcpe": "cpe:/:nxp",
+	"pid": "30170",
+	"pname": "Vybrid MVF50NN151CMK50 ファームウェア",
+	"pcpe": "cpe:/o:nxp:vybrid_mvf50nn151cmk50_firmware"
 }

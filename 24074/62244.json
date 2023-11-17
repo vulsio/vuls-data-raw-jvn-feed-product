@@ -1,8 +1,8 @@
 {
-  "vid": "24074",
-  "vname": "厚生労働省",
-  "vcpe": "cpe:/:misc",
-  "pid": "62244",
-  "pname": "医薬品医療機器等法対応医薬品等電子申請ソフト",
-  "pcpe": "cpe:/a:misc:ministry_of_health_labour_and_welfare_fd_application"
+	"vid": "24074",
+	"vname": "厚生労働省",
+	"vcpe": "cpe:/:misc",
+	"pid": "62244",
+	"pname": "医薬品医療機器等法対応医薬品等電子申請ソフト",
+	"pcpe": "cpe:/a:misc:ministry_of_health_labour_and_welfare_fd_application"
 }

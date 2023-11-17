@@ -1,8 +1,8 @@
 {
-  "vid": "12266",
-  "vname": "Square, Inc.",
-  "vcpe": "cpe:/:square",
-  "pid": "37420",
-  "pname": "Square Retrofit",
-  "pcpe": "cpe:/a:square:square_retrofit"
+	"vid": "12266",
+	"vname": "Square, Inc.",
+	"vcpe": "cpe:/:square",
+	"pid": "37420",
+	"pname": "Square Retrofit",
+	"pcpe": "cpe:/a:square:square_retrofit"
 }

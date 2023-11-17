@@ -1,8 +1,8 @@
 {
-  "vid": "19113",
-  "vname": "ATX",
-  "vcpe": "cpe:/:atx",
-  "pid": "48005",
-  "pname": "miniCMTS200a ファームウェア",
-  "pcpe": "cpe:/o:atx:minicmts200a_firmware"
+	"vid": "19113",
+	"vname": "ATX",
+	"vcpe": "cpe:/:atx",
+	"pid": "48005",
+	"pname": "miniCMTS200a ファームウェア",
+	"pcpe": "cpe:/o:atx:minicmts200a_firmware"
 }

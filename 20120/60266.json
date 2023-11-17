@@ -1,8 +1,8 @@
 {
-  "vid": "20120",
-  "vname": "Wow-Estore",
-  "vcpe": "cpe:/:wow-estore",
-  "pid": "60266",
-  "pname": "Herd Effects",
-  "pcpe": "cpe:/a:wow-estore:herd_effects"
+	"vid": "20120",
+	"vname": "Wow-Estore",
+	"vcpe": "cpe:/:wow-estore",
+	"pid": "60266",
+	"pname": "Herd Effects",
+	"pcpe": "cpe:/a:wow-estore:herd_effects"
 }

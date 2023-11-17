@@ -1,8 +1,8 @@
 {
-  "vid": "829",
-  "vname": "MyBB Group",
-  "vcpe": "cpe:/:mybb",
-  "pid": "37938",
-  "pname": "Ban List",
-  "pcpe": "cpe:/a:mybb:ban_list"
+	"vid": "829",
+	"vname": "MyBB Group",
+	"vcpe": "cpe:/:mybb",
+	"pid": "37938",
+	"pname": "Ban List",
+	"pcpe": "cpe:/a:mybb:ban_list"
 }

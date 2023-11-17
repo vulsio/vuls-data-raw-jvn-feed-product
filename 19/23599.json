@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23599",
-  "pname": "Cisco C220-M3",
-  "pcpe": "cpe:/h:cisco:c220_m3"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23599",
+	"pname": "Cisco C220-M3",
+	"pcpe": "cpe:/h:cisco:c220_m3"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26582",
-  "pname": "Oracle Health Sciences Clinical Development Center",
-  "pcpe": "cpe:/a:oracle:health_sciences_clinical_development_center"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26582",
+	"pname": "Oracle Health Sciences Clinical Development Center",
+	"pcpe": "cpe:/a:oracle:health_sciences_clinical_development_center"
 }

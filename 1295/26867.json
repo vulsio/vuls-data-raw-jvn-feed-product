@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "26867",
-  "pname": "FSW-524D",
-  "pcpe": "cpe:/h:fortinet:fsw-524d"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "26867",
+	"pname": "FSW-524D",
+	"pcpe": "cpe:/h:fortinet:fsw-524d"
 }

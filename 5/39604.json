@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "39604",
-  "pname": "QCA9531 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qca9531_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "39604",
+	"pname": "QCA9531 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qca9531_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "605",
-  "vname": "Attachmate",
-  "vcpe": "cpe:/:attachmate",
-  "pid": "9489",
-  "pname": "Reflection for ReGIS Graphics",
-  "pcpe": "cpe:/a:attachmate:reflection_for_regis_graphics_server"
+	"vid": "605",
+	"vname": "Attachmate",
+	"vcpe": "cpe:/:attachmate",
+	"pid": "9489",
+	"pname": "Reflection for ReGIS Graphics",
+	"pcpe": "cpe:/a:attachmate:reflection_for_regis_graphics_server"
 }

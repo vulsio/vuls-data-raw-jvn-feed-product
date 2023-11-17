@@ -1,8 +1,8 @@
 {
-  "vid": "24626",
-  "vname": "resend welcome email project",
-  "vcpe": "cpe:/:resend_welcome_email_project",
-  "pid": "63866",
-  "pname": "resend welcome email",
-  "pcpe": "cpe:/a:resend_welcome_email_project:resend_welcome_email"
+	"vid": "24626",
+	"vname": "resend welcome email project",
+	"vcpe": "cpe:/:resend_welcome_email_project",
+	"pid": "63866",
+	"pname": "resend welcome email",
+	"pcpe": "cpe:/a:resend_welcome_email_project:resend_welcome_email"
 }

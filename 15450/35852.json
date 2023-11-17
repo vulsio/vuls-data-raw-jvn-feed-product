@@ -1,8 +1,8 @@
 {
-  "vid": "15450",
-  "vname": "楽天証券株式会社",
-  "vcpe": "cpe:/:rakuten-sec",
-  "pid": "35852",
-  "pname": "マーケットスピード",
-  "pcpe": "cpe:/a:rakuten-sec:market_speed"
+	"vid": "15450",
+	"vname": "楽天証券株式会社",
+	"vcpe": "cpe:/:rakuten-sec",
+	"pid": "35852",
+	"pname": "マーケットスピード",
+	"pcpe": "cpe:/a:rakuten-sec:market_speed"
 }

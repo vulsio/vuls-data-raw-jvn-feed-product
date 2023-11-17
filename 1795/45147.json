@@ -1,8 +1,8 @@
 {
-  "vid": "1795",
-  "vname": "GeoVision",
-  "vcpe": "cpe:/:geovision",
-  "pid": "45147",
-  "pname": "GV-AS1010 ファームウェア",
-  "pcpe": "cpe:/o:geovision:gv-as1010_firmware"
+	"vid": "1795",
+	"vname": "GeoVision",
+	"vcpe": "cpe:/:geovision",
+	"pid": "45147",
+	"pname": "GV-AS1010 ファームウェア",
+	"pcpe": "cpe:/o:geovision:gv-as1010_firmware"
 }

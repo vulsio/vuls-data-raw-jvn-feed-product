@@ -1,8 +1,8 @@
 {
-  "vid": "6100",
-  "vname": "ondanera.net",
-  "vcpe": "cpe:/:ondanera.net",
-  "pid": "12232",
-  "pname": "hamster audio player",
-  "pcpe": "cpe:/a:ondanera.net:hamster_audio_player"
+	"vid": "6100",
+	"vname": "ondanera.net",
+	"vcpe": "cpe:/:ondanera.net",
+	"pid": "12232",
+	"pname": "hamster audio player",
+	"pcpe": "cpe:/a:ondanera.net:hamster_audio_player"
 }

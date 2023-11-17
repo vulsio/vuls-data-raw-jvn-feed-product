@@ -1,8 +1,8 @@
 {
-  "vid": "15470",
-  "vname": "flask-admin project",
-  "vcpe": "cpe:/:flask-admin_project",
-  "pid": "35903",
-  "pname": "flask-admin",
-  "pcpe": "cpe:/a:flask-admin_project:flask-admin"
+	"vid": "15470",
+	"vname": "flask-admin project",
+	"vcpe": "cpe:/:flask-admin_project",
+	"pid": "35903",
+	"pname": "flask-admin",
+	"pcpe": "cpe:/a:flask-admin_project:flask-admin"
 }

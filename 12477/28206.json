@@ -1,8 +1,8 @@
 {
-  "vid": "12477",
-  "vname": "QOS.ch",
-  "vcpe": "cpe:/:qos",
-  "pid": "28206",
-  "pname": "Logback",
-  "pcpe": "cpe:/a:qos:logback"
+	"vid": "12477",
+	"vname": "QOS.ch",
+	"vcpe": "cpe:/:qos",
+	"pid": "28206",
+	"pname": "Logback",
+	"pcpe": "cpe:/a:qos:logback"
 }

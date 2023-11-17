@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "6741",
-  "pname": "collaboration server",
-  "pcpe": "cpe:/a:cisco:collaboration_server"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "6741",
+	"pname": "collaboration server",
+	"pcpe": "cpe:/a:cisco:collaboration_server"
 }

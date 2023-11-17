@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "51860",
-  "pname": "Oracle Web Services Manager",
-  "pcpe": "cpe:/a:oracle:web_services_manager"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "51860",
+	"pname": "Oracle Web Services Manager",
+	"pcpe": "cpe:/a:oracle:web_services_manager"
 }

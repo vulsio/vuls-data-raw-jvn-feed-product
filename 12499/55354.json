@@ -1,8 +1,8 @@
 {
-  "vid": "12499",
-  "vname": "Delta Electronics",
-  "vcpe": "cpe:/:delta_electronics",
-  "pid": "55354",
-  "pname": "DVW-W02W2-E2",
-  "pcpe": "cpe:/o:delta_electronics:dvw-w02w2-e2"
+	"vid": "12499",
+	"vname": "Delta Electronics",
+	"vcpe": "cpe:/:delta_electronics",
+	"pid": "55354",
+	"pname": "DVW-W02W2-E2",
+	"pcpe": "cpe:/o:delta_electronics:dvw-w02w2-e2"
 }

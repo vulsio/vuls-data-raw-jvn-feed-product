@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "1527",
-  "pname": "Campusmate/Portal",
-  "pcpe": "cpe:/a:fujitsu:campusmate_portal"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "1527",
+	"pname": "Campusmate/Portal",
+	"pcpe": "cpe:/a:fujitsu:campusmate_portal"
 }

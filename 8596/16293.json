@@ -1,8 +1,8 @@
 {
-  "vid": "8596",
-  "vname": "xampp",
-  "vcpe": "cpe:/:xampp",
-  "pid": "16293",
-  "pname": "apache distribution",
-  "pcpe": "cpe:/a:xampp:apache_distribution"
+	"vid": "8596",
+	"vname": "xampp",
+	"vcpe": "cpe:/:xampp",
+	"pid": "16293",
+	"pname": "apache distribution",
+	"pcpe": "cpe:/a:xampp:apache_distribution"
 }

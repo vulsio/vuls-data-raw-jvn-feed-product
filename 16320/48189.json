@@ -1,8 +1,8 @@
 {
-  "vid": "16320",
-  "vname": "OPPO",
-  "vcpe": "cpe:/:oppo",
-  "pid": "48189",
-  "pname": "com.oppo.ovoicemanager",
-  "pcpe": "cpe:/a:oppo:ovoicemanager"
+	"vid": "16320",
+	"vname": "OPPO",
+	"vcpe": "cpe:/:oppo",
+	"pid": "48189",
+	"pname": "com.oppo.ovoicemanager",
+	"pcpe": "cpe:/a:oppo:ovoicemanager"
 }

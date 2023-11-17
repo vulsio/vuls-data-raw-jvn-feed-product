@@ -1,8 +1,8 @@
 {
-  "vid": "21443",
-  "vname": "rdiff project",
-  "vcpe": "cpe:/:rdiff_project",
-  "pid": "55059",
-  "pname": "rdiff",
-  "pcpe": "cpe:/a:rdiff_project:rdiff"
+	"vid": "21443",
+	"vname": "rdiff project",
+	"vcpe": "cpe:/:rdiff_project",
+	"pid": "55059",
+	"pname": "rdiff",
+	"pcpe": "cpe:/a:rdiff_project:rdiff"
 }

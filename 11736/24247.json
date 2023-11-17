@@ -1,8 +1,8 @@
 {
-  "vid": "11736",
-  "vname": "SMS Framework project",
-  "vcpe": "cpe:/:sms_framework_project",
-  "pid": "24247",
-  "pname": "SMS Framework",
-  "pcpe": "cpe:/a:sms_framework_project:sms_framework"
+	"vid": "11736",
+	"vname": "SMS Framework project",
+	"vcpe": "cpe:/:sms_framework_project",
+	"pid": "24247",
+	"pname": "SMS Framework",
+	"pcpe": "cpe:/a:sms_framework_project:sms_framework"
 }

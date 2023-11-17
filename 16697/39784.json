@@ -1,8 +1,8 @@
 {
-  "vid": "16697",
-  "vname": "go-camo project",
-  "vcpe": "cpe:/:go-camo_project",
-  "pid": "39784",
-  "pname": "go-camo",
-  "pcpe": "cpe:/a:go-camo_project:go-camo"
+	"vid": "16697",
+	"vname": "go-camo project",
+	"vcpe": "cpe:/:go-camo_project",
+	"pid": "39784",
+	"pname": "go-camo",
+	"pcpe": "cpe:/a:go-camo_project:go-camo"
 }

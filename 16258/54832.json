@@ -1,8 +1,8 @@
 {
-  "vid": "16258",
-  "vname": "UiPath",
-  "vcpe": "cpe:/:uipath",
-  "pid": "54832",
-  "pname": "App Studio",
-  "pcpe": "cpe:/a:uipath:app_studio"
+	"vid": "16258",
+	"vname": "UiPath",
+	"vcpe": "cpe:/:uipath",
+	"pid": "54832",
+	"pname": "App Studio",
+	"pcpe": "cpe:/a:uipath:app_studio"
 }

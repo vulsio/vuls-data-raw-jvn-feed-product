@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "30744",
-  "pname": "DIR-820L ファームウエア",
-  "pcpe": "cpe:/o:dlink:dir-820l_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "30744",
+	"pname": "DIR-820L ファームウエア",
+	"pcpe": "cpe:/o:dlink:dir-820l_firmware"
 }

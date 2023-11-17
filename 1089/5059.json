@@ -1,8 +1,8 @@
 {
-  "vid": "1089",
-  "vname": "Certec EDV",
-  "vcpe": "cpe:/:certec_edv_gmbh",
-  "pid": "5059",
-  "pname": "Certec webMI2ADS",
-  "pcpe": "cpe:/a:certec_edv_gmbh:webmi2ads"
+	"vid": "1089",
+	"vname": "Certec EDV",
+	"vcpe": "cpe:/:certec_edv_gmbh",
+	"pid": "5059",
+	"pname": "Certec webMI2ADS",
+	"pcpe": "cpe:/a:certec_edv_gmbh:webmi2ads"
 }

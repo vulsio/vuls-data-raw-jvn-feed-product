@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "38706",
-  "pname": "Data ONTAP operating in 7-Mode",
-  "pcpe": "cpe:/a:netapp:data_ontap_operating_in_7-mode"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "38706",
+	"pname": "Data ONTAP operating in 7-Mode",
+	"pcpe": "cpe:/a:netapp:data_ontap_operating_in_7-mode"
 }

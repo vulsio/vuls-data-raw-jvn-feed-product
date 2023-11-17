@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47197",
-  "pname": "Oracle Communications Contacts Server",
-  "pcpe": "cpe:/a:oracle:communications_contacts_server"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47197",
+	"pname": "Oracle Communications Contacts Server",
+	"pcpe": "cpe:/a:oracle:communications_contacts_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9868",
-  "vname": "Custom Banners plugin project",
-  "vcpe": "cpe:/:custom_banners_plugin_project",
-  "pid": "20543",
-  "pname": "Custom Banners",
-  "pcpe": "cpe:/a:custom_banners_plugin_project:custom_banners"
+	"vid": "9868",
+	"vname": "Custom Banners plugin project",
+	"vcpe": "cpe:/:custom_banners_plugin_project",
+	"pid": "20543",
+	"pname": "Custom Banners",
+	"pcpe": "cpe:/a:custom_banners_plugin_project:custom_banners"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12291",
-  "vname": "OWASP AntiSamy Project",
-  "vcpe": "cpe:/:antisamy_project",
-  "pid": "27578",
-  "pname": "OWASP AntiSamy",
-  "pcpe": "cpe:/a:antisamy_project:antisamy"
+	"vid": "12291",
+	"vname": "OWASP AntiSamy Project",
+	"vcpe": "cpe:/:antisamy_project",
+	"pid": "27578",
+	"pname": "OWASP AntiSamy",
+	"pcpe": "cpe:/a:antisamy_project:antisamy"
 }

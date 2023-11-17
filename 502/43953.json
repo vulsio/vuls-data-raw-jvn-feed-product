@@ -1,8 +1,8 @@
 {
-  "vid": "502",
-  "vname": "MediaWiki",
-  "vcpe": "cpe:/:mediawiki",
-  "pid": "43953",
-  "pname": "MobileFrontend",
-  "pcpe": "cpe:/a:mediawiki:mobilefrontend"
+	"vid": "502",
+	"vname": "MediaWiki",
+	"vcpe": "cpe:/:mediawiki",
+	"pid": "43953",
+	"pname": "MobileFrontend",
+	"pcpe": "cpe:/a:mediawiki:mobilefrontend"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17835",
-  "vname": "minisnmpd project",
-  "vcpe": "cpe:/:minisnmpd_project",
-  "pid": "42988",
-  "pname": "minisnmpd",
-  "pcpe": "cpe:/a:minisnmpd_project:minisnmpd"
+	"vid": "17835",
+	"vname": "minisnmpd project",
+	"vcpe": "cpe:/:minisnmpd_project",
+	"pid": "42988",
+	"pname": "minisnmpd",
+	"pcpe": "cpe:/a:minisnmpd_project:minisnmpd"
 }

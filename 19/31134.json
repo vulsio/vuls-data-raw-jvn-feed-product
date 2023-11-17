@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "31134",
-  "pname": "Cisco AMP for Endpoints",
-  "pcpe": "cpe:/a:cisco:advanced_malware_protection"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "31134",
+	"pname": "Cisco AMP for Endpoints",
+	"pcpe": "cpe:/a:cisco:advanced_malware_protection"
 }

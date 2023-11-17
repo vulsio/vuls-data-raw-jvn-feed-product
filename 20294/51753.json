@@ -1,8 +1,8 @@
 {
-  "vid": "20294",
-  "vname": "明京電機株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "51753",
-  "pname": "TIME BOOT mini RSC-MT4H",
-  "pcpe": "cpe:/a:misc:meikyoelectric_time_boot_mini_rsc-mt4h"
+	"vid": "20294",
+	"vname": "明京電機株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "51753",
+	"pname": "TIME BOOT mini RSC-MT4H",
+	"pcpe": "cpe:/a:misc:meikyoelectric_time_boot_mini_rsc-mt4h"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "187",
-  "vname": "eBASE",
-  "vcpe": "cpe:/:ebase",
-  "pid": "205",
-  "pname": "eBASEweb",
-  "pcpe": "cpe:/a:ebase:ebaseweb"
+	"vid": "187",
+	"vname": "eBASE",
+	"vcpe": "cpe:/:ebase",
+	"pid": "205",
+	"pname": "eBASEweb",
+	"pcpe": "cpe:/a:ebase:ebaseweb"
 }

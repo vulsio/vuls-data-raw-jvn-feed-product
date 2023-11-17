@@ -1,8 +1,8 @@
 {
-  "vid": "1303",
-  "vname": "Avira",
-  "vcpe": "cpe:/:avira",
-  "pid": "43284",
-  "pname": "Avira AntiVir WebGate",
-  "pcpe": "cpe:/a:avira:antivir_webgate"
+	"vid": "1303",
+	"vname": "Avira",
+	"vcpe": "cpe:/:avira",
+	"pid": "43284",
+	"pname": "Avira AntiVir WebGate",
+	"pcpe": "cpe:/a:avira:antivir_webgate"
 }

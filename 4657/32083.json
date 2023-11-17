@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "32083",
-  "pname": "BM2022",
-  "pcpe": "cpe:/o:huawei:bm2022_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "32083",
+	"pname": "BM2022",
+	"pcpe": "cpe:/o:huawei:bm2022_firmware"
 }

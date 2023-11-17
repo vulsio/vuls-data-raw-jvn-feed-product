@@ -1,8 +1,8 @@
 {
-  "vid": "19380",
-  "vname": "PostSRSd project",
-  "vcpe": "cpe:/:postsrsd_project",
-  "pid": "48825",
-  "pname": "PostSRSd",
-  "pcpe": "cpe:/a:postsrsd_project:postsrsd"
+	"vid": "19380",
+	"vname": "PostSRSd project",
+	"vcpe": "cpe:/:postsrsd_project",
+	"pid": "48825",
+	"pname": "PostSRSd",
+	"pcpe": "cpe:/a:postsrsd_project:postsrsd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "55395",
-  "pname": "PC 設定ツール Library",
-  "pcpe": "cpe:/a:nec:pc_setup_tool_library"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "55395",
+	"pname": "PC 設定ツール Library",
+	"pcpe": "cpe:/a:nec:pc_setup_tool_library"
 }

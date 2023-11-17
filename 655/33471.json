@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "33471",
-  "pname": "Eclipse Mosquitto",
-  "pcpe": "cpe:/a:eclipse:mosquitto"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "33471",
+	"pname": "Eclipse Mosquitto",
+	"pcpe": "cpe:/a:eclipse:mosquitto"
 }

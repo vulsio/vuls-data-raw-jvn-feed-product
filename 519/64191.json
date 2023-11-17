@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "64191",
-  "pname": "scopia pathfinder 20 pts ファームウェア",
-  "pcpe": "cpe:/o:avaya:scopia_pathfinder_20_pts_firmware"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "64191",
+	"pname": "scopia pathfinder 20 pts ファームウェア",
+	"pcpe": "cpe:/o:avaya:scopia_pathfinder_20_pts_firmware"
 }

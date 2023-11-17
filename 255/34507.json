@@ -1,8 +1,8 @@
 {
-  "vid": "255",
-  "vname": "キヤノン",
-  "vcpe": "cpe:/:canon",
-  "pid": "34507",
-  "pname": "MF210 ファームウェア",
-  "pcpe": "cpe:/o:canon:mf210_firmware"
+	"vid": "255",
+	"vname": "キヤノン",
+	"vcpe": "cpe:/:canon",
+	"pid": "34507",
+	"pname": "MF210 ファームウェア",
+	"pcpe": "cpe:/o:canon:mf210_firmware"
 }

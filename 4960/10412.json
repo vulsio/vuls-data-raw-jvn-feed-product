@@ -1,8 +1,8 @@
 {
-  "vid": "4960",
-  "vname": "jetbox",
-  "vcpe": "cpe:/:jetbox",
-  "pid": "10412",
-  "pname": "jetbox cms",
-  "pcpe": "cpe:/a:jetbox:jetbox_cms"
+	"vid": "4960",
+	"vname": "jetbox",
+	"vcpe": "cpe:/:jetbox",
+	"pid": "10412",
+	"pname": "jetbox cms",
+	"pcpe": "cpe:/a:jetbox:jetbox_cms"
 }

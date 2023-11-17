@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "49264",
-  "pname": "PRAESENSA ファームウェア",
-  "pcpe": "cpe:/o:bosch:praesensa_firmware"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "49264",
+	"pname": "PRAESENSA ファームウェア",
+	"pcpe": "cpe:/o:bosch:praesensa_firmware"
 }

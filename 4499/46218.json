@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "46218",
-  "pname": "LE7-40GU-L",
-  "pcpe": "cpe:/o:mitsubishielectric:le7_40gu_l"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "46218",
+	"pname": "LE7-40GU-L",
+	"pcpe": "cpe:/o:mitsubishielectric:le7_40gu_l"
 }

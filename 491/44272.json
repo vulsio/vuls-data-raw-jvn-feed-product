@@ -1,8 +1,8 @@
 {
-  "vid": "491",
-  "vname": "BitDefender",
-  "vcpe": "cpe:/:bitdefender",
-  "pid": "44272",
-  "pname": "Anti Malware Software Development Kit",
-  "pcpe": "cpe:/a:bitdefender:antimalware_software_development_kit"
+	"vid": "491",
+	"vname": "BitDefender",
+	"vcpe": "cpe:/:bitdefender",
+	"pid": "44272",
+	"pname": "Anti Malware Software Development Kit",
+	"pcpe": "cpe:/a:bitdefender:antimalware_software_development_kit"
 }

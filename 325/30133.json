@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30133",
-  "pname": "ThinkPad コンパクト USB キーボード用ドライバー",
-  "pcpe": "cpe:/a:lenovo:thinkpad_compact_usb_keyboard_driver"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30133",
+	"pname": "ThinkPad コンパクト USB キーボード用ドライバー",
+	"pcpe": "cpe:/a:lenovo:thinkpad_compact_usb_keyboard_driver"
 }

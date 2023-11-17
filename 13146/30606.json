@@ -1,8 +1,8 @@
 {
-  "vid": "13146",
-  "vname": "Gem in a Box project",
-  "vcpe": "cpe:/:geminabox_project",
-  "pid": "30606",
-  "pname": "Gem in a Box",
-  "pcpe": "cpe:/a:geminabox_project:geminabox"
+	"vid": "13146",
+	"vname": "Gem in a Box project",
+	"vcpe": "cpe:/:geminabox_project",
+	"pid": "30606",
+	"pname": "Gem in a Box",
+	"pcpe": "cpe:/a:geminabox_project:geminabox"
 }

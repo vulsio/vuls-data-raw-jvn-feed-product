@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "51622",
-  "pname": "HPE ProLiant ML30 Gen10 Server ファームウェア",
-  "pcpe": "cpe:/o:hp:proliant_dl20_gen10_server_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "51622",
+	"pname": "HPE ProLiant ML30 Gen10 Server ファームウェア",
+	"pcpe": "cpe:/o:hp:proliant_dl20_gen10_server_firmware"
 }

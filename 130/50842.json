@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "50842",
-  "pname": "Intel Ethernet Network Controller E810-CAM2 ファームウェア",
-  "pcpe": "cpe:/o:intel:ethernet_network_controller_e810-cam2_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "50842",
+	"pname": "Intel Ethernet Network Controller E810-CAM2 ファームウェア",
+	"pcpe": "cpe:/o:intel:ethernet_network_controller_e810-cam2_firmware"
 }

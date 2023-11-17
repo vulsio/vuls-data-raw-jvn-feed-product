@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33196",
-  "pname": "SD 820A ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd_820a_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33196",
+	"pname": "SD 820A ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd_820a_firmware"
 }

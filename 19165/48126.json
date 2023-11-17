@@ -1,8 +1,8 @@
 {
-  "vid": "19165",
-  "vname": "Qognify",
-  "vcpe": "cpe:/:qognify",
-  "pid": "48126",
-  "pname": "Ocularis",
-  "pcpe": "cpe:/a:qognify:ocularis"
+	"vid": "19165",
+	"vname": "Qognify",
+	"vcpe": "cpe:/:qognify",
+	"pid": "48126",
+	"pname": "Ocularis",
+	"pcpe": "cpe:/a:qognify:ocularis"
 }

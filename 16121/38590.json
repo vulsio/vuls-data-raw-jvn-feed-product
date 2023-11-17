@@ -1,8 +1,8 @@
 {
-  "vid": "16121",
-  "vname": "Chuango Security Technology Corp",
-  "vcpe": "cpe:/:chuango",
-  "pid": "38590",
-  "pname": "Chuango G3 ファームウェア",
-  "pcpe": "cpe:/o:chuango:g3_firmware"
+	"vid": "16121",
+	"vname": "Chuango Security Technology Corp",
+	"vcpe": "cpe:/:chuango",
+	"pid": "38590",
+	"pname": "Chuango G3 ファームウェア",
+	"pcpe": "cpe:/o:chuango:g3_firmware"
 }

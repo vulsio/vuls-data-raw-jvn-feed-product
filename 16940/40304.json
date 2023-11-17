@@ -1,8 +1,8 @@
 {
-  "vid": "16940",
-  "vname": "WPServeur",
-  "vcpe": "cpe:/:wpserveur",
-  "pid": "40304",
-  "pname": "WPS Child Theme Generator",
-  "pcpe": "cpe:/a:wpserveur:wps_child_theme_generator"
+	"vid": "16940",
+	"vname": "WPServeur",
+	"vcpe": "cpe:/:wpserveur",
+	"pid": "40304",
+	"pname": "WPS Child Theme Generator",
+	"pcpe": "cpe:/a:wpserveur:wps_child_theme_generator"
 }

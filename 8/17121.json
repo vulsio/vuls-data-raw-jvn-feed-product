@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "17121",
-  "pname": "Apache Maven Wagon",
-  "pcpe": "cpe:/a:apache:maven_wagon"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "17121",
+	"pname": "Apache Maven Wagon",
+	"pcpe": "cpe:/a:apache:maven_wagon"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6157",
-  "vname": "OpenVPN Technologies",
-  "vcpe": "cpe:/:openvpn",
-  "pid": "20905",
-  "pname": "PrivateTunnel",
-  "pcpe": "cpe:/a:openvpn:privatetunnel"
+	"vid": "6157",
+	"vname": "OpenVPN Technologies",
+	"vcpe": "cpe:/:openvpn",
+	"pid": "20905",
+	"pname": "PrivateTunnel",
+	"pcpe": "cpe:/a:openvpn:privatetunnel"
 }

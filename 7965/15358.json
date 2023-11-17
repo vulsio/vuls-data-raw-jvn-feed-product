@@ -1,8 +1,8 @@
 {
-  "vid": "7965",
-  "vname": "tftp",
-  "vcpe": "cpe:/:tftp",
-  "pid": "15358",
-  "pname": "tftp server sp",
-  "pcpe": "cpe:/a:tftp:tftp_server_sp"
+	"vid": "7965",
+	"vname": "tftp",
+	"vcpe": "cpe:/:tftp",
+	"pid": "15358",
+	"pname": "tftp server sp",
+	"pcpe": "cpe:/a:tftp:tftp_server_sp"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8477",
-  "vname": "ウェブルート株式会社",
-  "vcpe": "cpe:/:webroot",
-  "pid": "36280",
-  "pname": "SecureAnywhere",
-  "pcpe": "cpe:/a:webroot:secureanywhere"
+	"vid": "8477",
+	"vname": "ウェブルート株式会社",
+	"vcpe": "cpe:/:webroot",
+	"pid": "36280",
+	"pname": "SecureAnywhere",
+	"pcpe": "cpe:/a:webroot:secureanywhere"
 }

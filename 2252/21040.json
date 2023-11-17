@@ -1,8 +1,8 @@
 {
-  "vid": "2252",
-  "vname": "AOL",
-  "vcpe": "cpe:/:aol",
-  "pid": "21040",
-  "pname": "DailyFinance - Stocks & News",
-  "pcpe": "cpe:/a:aol:dailyfinance_-_stocks_%26_news"
+	"vid": "2252",
+	"vname": "AOL",
+	"vcpe": "cpe:/:aol",
+	"pid": "21040",
+	"pname": "DailyFinance - Stocks & News",
+	"pcpe": "cpe:/a:aol:dailyfinance_-_stocks_%26_news"
 }

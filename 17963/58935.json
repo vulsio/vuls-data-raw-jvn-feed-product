@@ -1,8 +1,8 @@
 {
-  "vid": "17963",
-  "vname": "Miele",
-  "vcpe": "cpe:/:miele",
-  "pid": "58935",
-  "pname": "benchmark programming tool",
-  "pcpe": "cpe:/a:miele:benchmark_programming_tool"
+	"vid": "17963",
+	"vname": "Miele",
+	"vcpe": "cpe:/:miele",
+	"pid": "58935",
+	"pname": "benchmark programming tool",
+	"pcpe": "cpe:/a:miele:benchmark_programming_tool"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "42877",
-  "pname": "IP Phone 6871 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ip_phone_6871_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "42877",
+	"pname": "IP Phone 6871 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ip_phone_6871_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9467",
-  "vname": "Hughes Network Systems",
-  "vcpe": "cpe:/:hughes",
-  "pid": "28805",
-  "pname": "HN7000S/SM",
-  "pcpe": "cpe:/o:hughes:hn7000s%2Fsm"
+	"vid": "9467",
+	"vname": "Hughes Network Systems",
+	"vcpe": "cpe:/:hughes",
+	"pid": "28805",
+	"pname": "HN7000S/SM",
+	"pcpe": "cpe:/o:hughes:hn7000s%2Fsm"
 }

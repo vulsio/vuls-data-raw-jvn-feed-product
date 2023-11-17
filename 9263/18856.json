@@ -1,8 +1,8 @@
 {
-  "vid": "9263",
-  "vname": "AutoTrace project",
-  "vcpe": "cpe:/:autotrace_project",
-  "pid": "18856",
-  "pname": "AutoTrace",
-  "pcpe": "cpe:/a:autotrace_project:autotrace"
+	"vid": "9263",
+	"vname": "AutoTrace project",
+	"vcpe": "cpe:/:autotrace_project",
+	"pid": "18856",
+	"pname": "AutoTrace",
+	"pcpe": "cpe:/a:autotrace_project:autotrace"
 }

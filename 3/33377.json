@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "33377",
-  "pname": "rhn-client-tools",
-  "pcpe": "cpe:/a:redhat:rhn-client-tools"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "33377",
+	"pname": "rhn-client-tools",
+	"pcpe": "cpe:/a:redhat:rhn-client-tools"
 }

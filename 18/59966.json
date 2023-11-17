@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "59966",
-  "pname": "IBM NeXtScale Fan Power Controller ファームウェア",
-  "pcpe": "cpe:/o:ibm:nextscale_fan_power_controller_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "59966",
+	"pname": "IBM NeXtScale Fan Power Controller ファームウェア",
+	"pcpe": "cpe:/o:ibm:nextscale_fan_power_controller_firmware"
 }

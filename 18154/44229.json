@@ -1,8 +1,8 @@
 {
-  "vid": "18154",
-  "vname": "get-git-data project",
-  "vcpe": "cpe:/:get-git-data_project",
-  "pid": "44229",
-  "pname": "get-git-data",
-  "pcpe": "cpe:/a:get-git-data_project:get-git-data"
+	"vid": "18154",
+	"vname": "get-git-data project",
+	"vcpe": "cpe:/:get-git-data_project",
+	"pid": "44229",
+	"pname": "get-git-data",
+	"pcpe": "cpe:/a:get-git-data_project:get-git-data"
 }

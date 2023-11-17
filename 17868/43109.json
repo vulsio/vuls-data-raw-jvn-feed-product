@@ -1,8 +1,8 @@
 {
-  "vid": "17868",
-  "vname": "KCTVJEJU",
-  "vcpe": "cpe:/:kctvjeju",
-  "pid": "43109",
-  "pname": "Wireless AP ファームウェア",
-  "pcpe": "cpe:/o:kctvjeju:wireless_ap_firmware"
+	"vid": "17868",
+	"vname": "KCTVJEJU",
+	"vcpe": "cpe:/:kctvjeju",
+	"pid": "43109",
+	"pname": "Wireless AP ファームウェア",
+	"pcpe": "cpe:/o:kctvjeju:wireless_ap_firmware"
 }

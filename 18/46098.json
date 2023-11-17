@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "46098",
-  "pname": "IBM FlashSystem V5000 ファームウェア",
-  "pcpe": "cpe:/o:ibm:flashsystem_v5000_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "46098",
+	"pname": "IBM FlashSystem V5000 ファームウェア",
+	"pcpe": "cpe:/o:ibm:flashsystem_v5000_firmware"
 }

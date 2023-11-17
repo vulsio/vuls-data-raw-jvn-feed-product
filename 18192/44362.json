@@ -1,8 +1,8 @@
 {
-  "vid": "18192",
-  "vname": "AndyOS, Inc.",
-  "vcpe": "cpe:/:andyroid",
-  "pid": "44362",
-  "pname": "Andy OS",
-  "pcpe": "cpe:/o:andyroid:andy_os"
+	"vid": "18192",
+	"vname": "AndyOS, Inc.",
+	"vcpe": "cpe:/:andyroid",
+	"pid": "44362",
+	"pname": "Andy OS",
+	"pcpe": "cpe:/o:andyroid:andy_os"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14666",
-  "vname": "Socket.IO",
-  "vcpe": "cpe:/:socket",
-  "pid": "49124",
-  "pname": "socket.io-parser",
-  "pcpe": "cpe:/a:socket:socket.io-parser"
+	"vid": "14666",
+	"vname": "Socket.IO",
+	"vcpe": "cpe:/:socket",
+	"pid": "49124",
+	"pname": "socket.io-parser",
+	"pcpe": "cpe:/a:socket:socket.io-parser"
 }

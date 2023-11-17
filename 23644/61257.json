@@ -1,8 +1,8 @@
 {
-  "vid": "23644",
-  "vname": "python-flask-restful-api project",
-  "vcpe": "cpe:/:python-flask-restful-api_project",
-  "pid": "61257",
-  "pname": "python-flask-restful-api",
-  "pcpe": "cpe:/a:python-flask-restful-api_project:python-flask-restful-api"
+	"vid": "23644",
+	"vname": "python-flask-restful-api project",
+	"vcpe": "cpe:/:python-flask-restful-api_project",
+	"pid": "61257",
+	"pname": "python-flask-restful-api",
+	"pcpe": "cpe:/a:python-flask-restful-api_project:python-flask-restful-api"
 }

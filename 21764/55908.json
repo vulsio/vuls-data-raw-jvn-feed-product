@@ -1,8 +1,8 @@
 {
-  "vid": "21764",
-  "vname": "graphql-go project",
-  "vcpe": "cpe:/:graphql-go_project",
-  "pid": "55908",
-  "pname": "graphql-go",
-  "pcpe": "cpe:/a:graphql-go_project:graphql-go"
+	"vid": "21764",
+	"vname": "graphql-go project",
+	"vcpe": "cpe:/:graphql-go_project",
+	"pid": "55908",
+	"pname": "graphql-go",
+	"pcpe": "cpe:/a:graphql-go_project:graphql-go"
 }

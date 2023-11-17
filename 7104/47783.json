@@ -1,8 +1,8 @@
 {
-  "vid": "7104",
-  "vname": "Progress Software Corporation",
-  "vcpe": "cpe:/:progress",
-  "pid": "47783",
-  "pname": "MOVEit Transfer",
-  "pcpe": "cpe:/a:progress:moveit_transfer"
+	"vid": "7104",
+	"vname": "Progress Software Corporation",
+	"vcpe": "cpe:/:progress",
+	"pid": "47783",
+	"pname": "MOVEit Transfer",
+	"pcpe": "cpe:/a:progress:moveit_transfer"
 }

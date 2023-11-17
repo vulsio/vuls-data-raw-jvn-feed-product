@@ -1,8 +1,8 @@
 {
-  "vid": "1808",
-  "vname": "GitHub",
-  "vcpe": "cpe:/:github",
-  "pid": "13222",
-  "pname": "Gaug.es",
-  "pcpe": "cpe:/a:github:gaug.es"
+	"vid": "1808",
+	"vname": "GitHub",
+	"vcpe": "cpe:/:github",
+	"pid": "13222",
+	"pname": "Gaug.es",
+	"pcpe": "cpe:/a:github:gaug.es"
 }

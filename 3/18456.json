@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "18456",
-  "pname": "Red Hat JBoss A-MQ",
-  "pcpe": "cpe:/a:redhat:jboss_a-mq"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "18456",
+	"pname": "Red Hat JBoss A-MQ",
+	"pcpe": "cpe:/a:redhat:jboss_a-mq"
 }

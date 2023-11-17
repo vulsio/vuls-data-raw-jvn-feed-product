@@ -1,8 +1,8 @@
 {
-  "vid": "9683",
-  "vname": "Skybox Security",
-  "vcpe": "cpe:/:skyboxsecurity",
-  "pid": "20147",
-  "pname": "Skybox View Appliance with ISO",
-  "pcpe": "cpe:/a:skyboxsecurity:skybox_view_appliance_iso"
+	"vid": "9683",
+	"vname": "Skybox Security",
+	"vcpe": "cpe:/:skyboxsecurity",
+	"pid": "20147",
+	"pname": "Skybox View Appliance with ISO",
+	"pcpe": "cpe:/a:skyboxsecurity:skybox_view_appliance_iso"
 }

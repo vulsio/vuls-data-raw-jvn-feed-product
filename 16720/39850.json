@@ -1,8 +1,8 @@
 {
-  "vid": "16720",
-  "vname": "Mediaburst",
-  "vcpe": "cpe:/:mediaburst",
-  "pid": "39850",
-  "pname": "Gravity Forms",
-  "pcpe": "cpe:/a:mediaburst:gravity_forms"
+	"vid": "16720",
+	"vname": "Mediaburst",
+	"vcpe": "cpe:/:mediaburst",
+	"pid": "39850",
+	"pname": "Gravity Forms",
+	"pcpe": "cpe:/a:mediaburst:gravity_forms"
 }

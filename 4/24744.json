@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "24744",
-  "pname": "HP lt4112 LTE/HSPA+ Gobi 4G",
-  "pcpe": "cpe:/a:hp:lt4112_lte%2Fhspa%2B_gobi_4g_module"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "24744",
+	"pname": "HP lt4112 LTE/HSPA+ Gobi 4G",
+	"pcpe": "cpe:/a:hp:lt4112_lte%2Fhspa%2B_gobi_4g_module"
 }

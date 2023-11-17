@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "46226",
-  "pname": "Sterling Connect:Direct for Windows",
-  "pcpe": "cpe:/a:ibm:sterling_connect_3adirect_for_Windows"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "46226",
+	"pname": "Sterling Connect:Direct for Windows",
+	"pcpe": "cpe:/a:ibm:sterling_connect_3adirect_for_Windows"
 }

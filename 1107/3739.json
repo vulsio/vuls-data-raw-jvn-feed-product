@@ -1,8 +1,8 @@
 {
-  "vid": "1107",
-  "vname": "Xiaomi",
-  "vcpe": "cpe:/:xiaomi",
-  "pid": "3739",
-  "pname": "MiTalk Messenger",
-  "pcpe": "cpe:/a:xiaomi:mitalk_messenger"
+	"vid": "1107",
+	"vname": "Xiaomi",
+	"vcpe": "cpe:/:xiaomi",
+	"pid": "3739",
+	"pname": "MiTalk Messenger",
+	"pcpe": "cpe:/a:xiaomi:mitalk_messenger"
 }

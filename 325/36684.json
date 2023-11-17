@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "36684",
-  "pname": "310S-14ISK ファームウェア",
-  "pcpe": "cpe:/o:lenovo:310s-14isk_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "36684",
+	"pname": "310S-14ISK ファームウェア",
+	"pcpe": "cpe:/o:lenovo:310s-14isk_firmware"
 }

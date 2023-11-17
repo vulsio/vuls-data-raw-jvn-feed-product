@@ -1,8 +1,8 @@
 {
-  "vid": "11609",
-  "vname": "SELinux",
-  "vcpe": "cpe:/:selinux",
-  "pid": "23803",
-  "pname": "setroubleshoot",
-  "pcpe": "cpe:/a:selinux:setroubleshoot"
+	"vid": "11609",
+	"vname": "SELinux",
+	"vcpe": "cpe:/:selinux",
+	"pid": "23803",
+	"pname": "setroubleshoot",
+	"pcpe": "cpe:/a:selinux:setroubleshoot"
 }

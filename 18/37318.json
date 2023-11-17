@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "37318",
-  "pname": "BladeCenter HS23E ファームウェア",
-  "pcpe": "cpe:/o:ibm:bladecenter_hs23e_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "37318",
+	"pname": "BladeCenter HS23E ファームウェア",
+	"pcpe": "cpe:/o:ibm:bladecenter_hs23e_firmware"
 }

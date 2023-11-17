@@ -1,8 +1,8 @@
 {
-  "vid": "9914",
-  "vname": "H3C",
-  "vcpe": "cpe:/:h3c",
-  "pid": "62360",
-  "pname": "gr2200 ファームウェア",
-  "pcpe": "cpe:/o:h3c:gr2200_firmware"
+	"vid": "9914",
+	"vname": "H3C",
+	"vcpe": "cpe:/:h3c",
+	"pid": "62360",
+	"pname": "gr2200 ファームウェア",
+	"pcpe": "cpe:/o:h3c:gr2200_firmware"
 }

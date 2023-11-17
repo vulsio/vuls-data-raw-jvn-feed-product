@@ -1,8 +1,8 @@
 {
-  "vid": "24780",
-  "vname": "wut",
-  "vcpe": "cpe:/:wut",
-  "pid": "64245",
-  "pname": "com-server highspeed compact ファームウェア",
-  "pcpe": "cpe:/o:wut:com-server_highspeed_compact_firmware"
+	"vid": "24780",
+	"vname": "wut",
+	"vcpe": "cpe:/:wut",
+	"pid": "64245",
+	"pname": "com-server highspeed compact ファームウェア",
+	"pcpe": "cpe:/o:wut:com-server_highspeed_compact_firmware"
 }

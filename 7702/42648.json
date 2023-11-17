@@ -1,8 +1,8 @@
 {
-  "vid": "7702",
-  "vname": "snewscms",
-  "vcpe": "cpe:/:snewscms",
-  "pid": "42648",
-  "pname": "sNews",
-  "pcpe": "cpe:/a:snewscms:snews"
+	"vid": "7702",
+	"vname": "snewscms",
+	"vcpe": "cpe:/:snewscms",
+	"pid": "42648",
+	"pname": "sNews",
+	"pcpe": "cpe:/a:snewscms:snews"
 }

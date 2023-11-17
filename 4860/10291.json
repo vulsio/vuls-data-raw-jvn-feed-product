@@ -1,8 +1,8 @@
 {
-  "vid": "4860",
-  "vname": "isygen",
-  "vcpe": "cpe:/:isygen",
-  "pid": "10291",
-  "pname": "icrm basic",
-  "pcpe": "cpe:/a:isygen:icrm_basic"
+	"vid": "4860",
+	"vname": "isygen",
+	"vcpe": "cpe:/:isygen",
+	"pid": "10291",
+	"pname": "icrm basic",
+	"pcpe": "cpe:/a:isygen:icrm_basic"
 }

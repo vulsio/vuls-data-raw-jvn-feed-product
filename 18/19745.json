@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19745",
-  "pname": "IBM Storwize V7000 ソフトウェア",
-  "pcpe": "cpe:/a:ibm:storwize_v7000_software"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19745",
+	"pname": "IBM Storwize V7000 ソフトウェア",
+	"pcpe": "cpe:/a:ibm:storwize_v7000_software"
 }

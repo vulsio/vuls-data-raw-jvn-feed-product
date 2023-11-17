@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "35247",
-  "pname": "C7Z97OCファームウェア",
-  "pcpe": "cpe:/o:supermicro:c7z97oc_firmware"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "35247",
+	"pname": "C7Z97OCファームウェア",
+	"pcpe": "cpe:/o:supermicro:c7z97oc_firmware"
 }

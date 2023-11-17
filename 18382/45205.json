@@ -1,8 +1,8 @@
 {
-  "vid": "18382",
-  "vname": "CipherMail",
-  "vcpe": "cpe:/:ciphermail",
-  "pid": "45205",
-  "pname": "Webmail Messenger",
-  "pcpe": "cpe:/a:ciphermail:webmail_messenger"
+	"vid": "18382",
+	"vname": "CipherMail",
+	"vcpe": "cpe:/:ciphermail",
+	"pid": "45205",
+	"pname": "Webmail Messenger",
+	"pcpe": "cpe:/a:ciphermail:webmail_messenger"
 }

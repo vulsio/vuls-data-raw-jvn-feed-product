@@ -1,8 +1,8 @@
 {
-  "vid": "228",
-  "vname": "Fedora Project",
-  "vcpe": "cpe:/:fedoraproject",
-  "pid": "1499",
-  "pname": "setroubleshoot",
-  "pcpe": "cpe:/o:fedoraproject:setroubleshoot"
+	"vid": "228",
+	"vname": "Fedora Project",
+	"vcpe": "cpe:/:fedoraproject",
+	"pid": "1499",
+	"pname": "setroubleshoot",
+	"pcpe": "cpe:/o:fedoraproject:setroubleshoot"
 }

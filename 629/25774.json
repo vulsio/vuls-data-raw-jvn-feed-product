@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "25774",
-  "pname": "ioLogik E2240",
-  "pcpe": "cpe:/h:moxa:iologik_e2240"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "25774",
+	"pname": "ioLogik E2240",
+	"pcpe": "cpe:/h:moxa:iologik_e2240"
 }

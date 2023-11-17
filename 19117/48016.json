@@ -1,8 +1,8 @@
 {
-  "vid": "19117",
-  "vname": "TCL Technology",
-  "vcpe": "cpe:/:tcl",
-  "pid": "48016",
-  "pname": "32S330 ファームウェア",
-  "pcpe": "cpe:/o:tcl:32s330_firmware"
+	"vid": "19117",
+	"vname": "TCL Technology",
+	"vcpe": "cpe:/:tcl",
+	"pid": "48016",
+	"pname": "32S330 ファームウェア",
+	"pcpe": "cpe:/o:tcl:32s330_firmware"
 }

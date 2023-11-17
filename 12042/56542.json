@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "56542",
-  "pname": "HPE OfficeConnect 1850 48G 4XGT PoE+ ファームウェア",
-  "pcpe": "cpe:/o:hp:officeconnect_1850_48g_4xgt_poe%2b_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "56542",
+	"pname": "HPE OfficeConnect 1850 48G 4XGT PoE+ ファームウェア",
+	"pcpe": "cpe:/o:hp:officeconnect_1850_48g_4xgt_poe%2b_firmware"
 }

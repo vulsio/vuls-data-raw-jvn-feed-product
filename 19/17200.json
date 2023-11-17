@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17200",
-  "pname": "Cisco Nexus 5010P スイッチ",
-  "pcpe": "cpe:/h:cisco:nexus_5010p_switch"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17200",
+	"pname": "Cisco Nexus 5010P スイッチ",
+	"pcpe": "cpe:/h:cisco:nexus_5010p_switch"
 }

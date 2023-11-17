@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "5344",
-  "pname": "IBM System Storage DS5300 Storage Controller",
-  "pcpe": "cpe:/h:ibm:system_storage_ds5300_storage_controller"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "5344",
+	"pname": "IBM System Storage DS5300 Storage Controller",
+	"pcpe": "cpe:/h:ibm:system_storage_ds5300_storage_controller"
 }

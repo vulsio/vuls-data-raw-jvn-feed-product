@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "63851",
-  "pname": "Cisco 829 産業用サービス統合型ルータ ファームウェア",
-  "pcpe": "cpe:/o:cisco:829_industrial_integrated_services_router_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "63851",
+	"pname": "Cisco 829 産業用サービス統合型ルータ ファームウェア",
+	"pcpe": "cpe:/o:cisco:829_industrial_integrated_services_router_firmware"
 }

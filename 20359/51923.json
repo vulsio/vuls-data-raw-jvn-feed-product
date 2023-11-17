@@ -1,8 +1,8 @@
 {
-  "vid": "20359",
-  "vname": "multiqueue project",
-  "vcpe": "cpe:/:multiqueue_project",
-  "pid": "51923",
-  "pname": "multiqueue",
-  "pcpe": "cpe:/a:multiqueue_project:multiqueue"
+	"vid": "20359",
+	"vname": "multiqueue project",
+	"vcpe": "cpe:/:multiqueue_project",
+	"pid": "51923",
+	"pname": "multiqueue",
+	"pcpe": "cpe:/a:multiqueue_project:multiqueue"
 }

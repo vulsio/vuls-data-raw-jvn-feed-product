@@ -1,8 +1,8 @@
 {
-  "vid": "19690",
-  "vname": "Agora",
-  "vcpe": "cpe:/:agora",
-  "pid": "49627",
-  "pname": "Video SDK",
-  "pcpe": "cpe:/a:agora:video_software_development_kit"
+	"vid": "19690",
+	"vname": "Agora",
+	"vcpe": "cpe:/:agora",
+	"pid": "49627",
+	"pname": "Video SDK",
+	"pcpe": "cpe:/a:agora:video_software_development_kit"
 }

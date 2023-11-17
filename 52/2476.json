@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "2476",
-  "pname": "Apple Type Services",
-  "pcpe": "cpe:/a:apple:apple_type_services"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "2476",
+	"pname": "Apple Type Services",
+	"pcpe": "cpe:/a:apple:apple_type_services"
 }

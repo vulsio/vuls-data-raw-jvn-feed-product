@@ -1,8 +1,8 @@
 {
-  "vid": "16667",
-  "vname": "Charcoal-SE",
-  "vcpe": "cpe:/:charcoal-se",
-  "pid": "39711",
-  "pname": "SmokeDetector",
-  "pcpe": "cpe:/a:charcoal-se:smokedetector"
+	"vid": "16667",
+	"vname": "Charcoal-SE",
+	"vcpe": "cpe:/:charcoal-se",
+	"pid": "39711",
+	"pname": "SmokeDetector",
+	"pcpe": "cpe:/a:charcoal-se:smokedetector"
 }

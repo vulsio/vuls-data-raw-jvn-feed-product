@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "17807",
-  "pname": "EMC Avamar Virtual Edition",
-  "pcpe": "cpe:/a:emc:avamar_server_virtual_edition"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "17807",
+	"pname": "EMC Avamar Virtual Edition",
+	"pcpe": "cpe:/a:emc:avamar_server_virtual_edition"
 }

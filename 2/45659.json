@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "45659",
-  "pname": "Azure Storage Explorer",
-  "pcpe": "cpe:/a:microsoft:azure_storage_explorer"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "45659",
+	"pname": "Azure Storage Explorer",
+	"pcpe": "cpe:/a:microsoft:azure_storage_explorer"
 }

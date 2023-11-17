@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "15427",
-  "pname": "smartsockets rtserver",
-  "pcpe": "cpe:/a:tibco:smartsockets_rtserver"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "15427",
+	"pname": "smartsockets rtserver",
+	"pcpe": "cpe:/a:tibco:smartsockets_rtserver"
 }

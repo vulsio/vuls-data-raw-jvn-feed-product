@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23700",
-  "pname": "HP Wireless Barcode Scanner (E6P34AA)",
-  "pcpe": "cpe:/h:hp:wireless_barcode_scanner_e6p34aa"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23700",
+	"pname": "HP Wireless Barcode Scanner (E6P34AA)",
+	"pcpe": "cpe:/h:hp:wireless_barcode_scanner_e6p34aa"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3277",
-  "vname": "dnssec-tools",
-  "vcpe": "cpe:/:dnssec-tools",
-  "pid": "7405",
-  "pname": "dnssec-tools",
-  "pcpe": "cpe:/a:dnssec-tools:dnssec-tools"
+	"vid": "3277",
+	"vname": "dnssec-tools",
+	"vcpe": "cpe:/:dnssec-tools",
+	"pid": "7405",
+	"pname": "dnssec-tools",
+	"pcpe": "cpe:/a:dnssec-tools:dnssec-tools"
 }

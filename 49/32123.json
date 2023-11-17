@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "32123",
-  "pname": "GuixSD",
-  "pcpe": "cpe:/a:gnu:guixsd"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "32123",
+	"pname": "GuixSD",
+	"pcpe": "cpe:/a:gnu:guixsd"
 }

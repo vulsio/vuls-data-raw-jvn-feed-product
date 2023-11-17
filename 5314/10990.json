@@ -1,8 +1,8 @@
 {
-  "vid": "5314",
-  "vname": "lilo",
-  "vcpe": "cpe:/:lilo",
-  "pid": "10990",
-  "pname": "lilo",
-  "pcpe": "cpe:/a:lilo:lilo"
+	"vid": "5314",
+	"vname": "lilo",
+	"vcpe": "cpe:/:lilo",
+	"pid": "10990",
+	"pname": "lilo",
+	"pcpe": "cpe:/a:lilo:lilo"
 }

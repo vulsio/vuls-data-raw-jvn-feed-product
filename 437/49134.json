@@ -1,8 +1,8 @@
 {
-  "vid": "437",
-  "vname": "ベリタス",
-  "vcpe": "cpe:/:veritas",
-  "pid": "49134",
-  "pname": "Veritas Storage Foundation",
-  "pcpe": "cpe:/a:veritas:storage_foundation"
+	"vid": "437",
+	"vname": "ベリタス",
+	"vcpe": "cpe:/:veritas",
+	"pid": "49134",
+	"pname": "Veritas Storage Foundation",
+	"pcpe": "cpe:/a:veritas:storage_foundation"
 }

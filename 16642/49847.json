@@ -1,8 +1,8 @@
 {
-  "vid": "16642",
-  "vname": "NATS",
-  "vcpe": "cpe:/:nats",
-  "pid": "49847",
-  "pname": "JWT library",
-  "pcpe": "cpe:/a:nats:jwt_library"
+	"vid": "16642",
+	"vname": "NATS",
+	"vcpe": "cpe:/:nats",
+	"pid": "49847",
+	"pname": "JWT library",
+	"pcpe": "cpe:/a:nats:jwt_library"
 }

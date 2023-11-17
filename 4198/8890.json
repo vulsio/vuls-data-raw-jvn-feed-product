@@ -1,8 +1,8 @@
 {
-  "vid": "4198",
-  "vname": "centre for speech technology research",
-  "vcpe": "cpe:/:centre_for_speech_technology_research",
-  "pid": "8890",
-  "pname": "gentoo linux",
-  "pcpe": "cpe:/o:centre_for_speech_technology_research:gentoo_linux"
+	"vid": "4198",
+	"vname": "centre for speech technology research",
+	"vcpe": "cpe:/:centre_for_speech_technology_research",
+	"pid": "8890",
+	"pname": "gentoo linux",
+	"pcpe": "cpe:/o:centre_for_speech_technology_research:gentoo_linux"
 }

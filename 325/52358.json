@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "52358",
-  "pname": "ThinkPad W550s ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_w550s_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "52358",
+	"pname": "ThinkPad W550s ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_w550s_firmware"
 }

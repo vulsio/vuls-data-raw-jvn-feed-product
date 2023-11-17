@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "57315",
-  "pname": "SP 320SN ファームウェア",
-  "pcpe": "cpe:/o:ricoh:sp_320sn_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "57315",
+	"pname": "SP 320SN ファームウェア",
+	"pcpe": "cpe:/o:ricoh:sp_320sn_firmware"
 }

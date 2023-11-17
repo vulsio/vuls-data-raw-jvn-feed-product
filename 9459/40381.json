@@ -1,8 +1,8 @@
 {
-  "vid": "9459",
-  "vname": "タブローソフトウェア",
-  "vcpe": "cpe:/:tableau_software",
-  "pid": "40381",
-  "pname": "Tableau Desktop",
-  "pcpe": "cpe:/a:tableau_software:tableau_desktop"
+	"vid": "9459",
+	"vname": "タブローソフトウェア",
+	"vcpe": "cpe:/:tableau_software",
+	"pid": "40381",
+	"pname": "Tableau Desktop",
+	"pcpe": "cpe:/a:tableau_software:tableau_desktop"
 }

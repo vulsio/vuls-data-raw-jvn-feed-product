@@ -1,8 +1,8 @@
 {
-  "vid": "1875",
-  "vname": "Yandex",
-  "vcpe": "cpe:/:yandex",
-  "pid": "53479",
-  "pname": "Yandex Turbo",
-  "pcpe": "cpe:/a:yandex:yandex_turbo"
+	"vid": "1875",
+	"vname": "Yandex",
+	"vcpe": "cpe:/:yandex",
+	"pid": "53479",
+	"pname": "Yandex Turbo",
+	"pcpe": "cpe:/a:yandex:yandex_turbo"
 }

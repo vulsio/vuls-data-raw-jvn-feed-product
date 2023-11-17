@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2394",
-  "pname": "Mediator Framework",
-  "pcpe": "cpe:/a:cisco:mediator_framework"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2394",
+	"pname": "Mediator Framework",
+	"pcpe": "cpe:/a:cisco:mediator_framework"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9385",
-  "vname": "clipcomm",
-  "vcpe": "cpe:/:clipcomm",
-  "pid": "19301",
-  "pname": "cp-100e voip wifi phone",
-  "pcpe": "cpe:/h:clipcomm:cp-100e_voip_wifi_phone"
+	"vid": "9385",
+	"vname": "clipcomm",
+	"vcpe": "cpe:/:clipcomm",
+	"pid": "19301",
+	"pname": "cp-100e voip wifi phone",
+	"pcpe": "cpe:/h:clipcomm:cp-100e_voip_wifi_phone"
 }

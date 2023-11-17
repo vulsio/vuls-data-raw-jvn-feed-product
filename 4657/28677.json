@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28677",
-  "pname": "S9306E ファームウェア",
-  "pcpe": "cpe:/o:huawei:s9306e_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28677",
+	"pname": "S9306E ファームウェア",
+	"pcpe": "cpe:/o:huawei:s9306e_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12512",
-  "vname": "calibre-ebook",
-  "vcpe": "cpe:/:calibre-ebook",
-  "pid": "28424",
-  "pname": "calibre",
-  "pcpe": "cpe:/a:calibre-ebook:calibre"
+	"vid": "12512",
+	"vname": "calibre-ebook",
+	"vcpe": "cpe:/:calibre-ebook",
+	"pid": "28424",
+	"pname": "calibre",
+	"pcpe": "cpe:/a:calibre-ebook:calibre"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14127",
-  "vname": "SimpliSafe",
-  "vcpe": "cpe:/:simplisafe",
-  "pid": "33722",
-  "pname": "U9K-MS1000 ファームウェア",
-  "pcpe": "cpe:/o:simplisafe:u9k-ms1000_firmware"
+	"vid": "14127",
+	"vname": "SimpliSafe",
+	"vcpe": "cpe:/:simplisafe",
+	"pid": "33722",
+	"pname": "U9K-MS1000 ファームウェア",
+	"pcpe": "cpe:/o:simplisafe:u9k-ms1000_firmware"
 }

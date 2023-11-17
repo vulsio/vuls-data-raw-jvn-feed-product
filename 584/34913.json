@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "34913",
-  "pname": "SICLOCK TC100 ファームウェア",
-  "pcpe": "cpe:/o:siemens:siclock_tc100_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "34913",
+	"pname": "SICLOCK TC100 ファームウェア",
+	"pcpe": "cpe:/o:siemens:siclock_tc100_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "41856",
-  "pname": "CODESYS Control for PLCnext",
-  "pcpe": "cpe:/a:codesys:control_for_plcnext"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "41856",
+	"pname": "CODESYS Control for PLCnext",
+	"pcpe": "cpe:/a:codesys:control_for_plcnext"
 }

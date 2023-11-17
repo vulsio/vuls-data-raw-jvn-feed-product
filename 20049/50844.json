@@ -1,8 +1,8 @@
 {
-  "vid": "20049",
-  "vname": "Tenancy",
-  "vcpe": "cpe:/:tenancy",
-  "pid": "50844",
-  "pname": "multi-tenant",
-  "pcpe": "cpe:/a:tenancy:multi-tenant"
+	"vid": "20049",
+	"vname": "Tenancy",
+	"vcpe": "cpe:/:tenancy",
+	"pid": "50844",
+	"pname": "multi-tenant",
+	"pcpe": "cpe:/a:tenancy:multi-tenant"
 }

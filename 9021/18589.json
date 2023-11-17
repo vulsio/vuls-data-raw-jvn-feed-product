@@ -1,8 +1,8 @@
 {
-  "vid": "9021",
-  "vname": "Alstom",
-  "vcpe": "cpe:/:alstom",
-  "pid": "18589",
-  "pname": "e-terracontrol",
-  "pcpe": "cpe:/a:alstom:e-terracontrol"
+	"vid": "9021",
+	"vname": "Alstom",
+	"vcpe": "cpe:/:alstom",
+	"pid": "18589",
+	"pname": "e-terracontrol",
+	"pcpe": "cpe:/a:alstom:e-terracontrol"
 }

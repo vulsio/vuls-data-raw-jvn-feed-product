@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "28758",
-  "pname": "Cisco ASR 900 シリーズファームウェア",
-  "pcpe": "cpe:/o:cisco:asr_900_series_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "28758",
+	"pname": "Cisco ASR 900 シリーズファームウェア",
+	"pcpe": "cpe:/o:cisco:asr_900_series_firmware"
 }

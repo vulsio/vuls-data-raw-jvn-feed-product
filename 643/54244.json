@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "54244",
-  "pname": "EMC PowerScale H500 ファームウェア",
-  "pcpe": "cpe:/o:dell:emc_powerscale_nodes_h500_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "54244",
+	"pname": "EMC PowerScale H500 ファームウェア",
+	"pcpe": "cpe:/o:dell:emc_powerscale_nodes_h500_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1303",
-  "vname": "Avira",
-  "vcpe": "cpe:/:avira",
-  "pid": "24861",
-  "pname": "Avira Management Console",
-  "pcpe": "cpe:/a:avira:management_console"
+	"vid": "1303",
+	"vname": "Avira",
+	"vcpe": "cpe:/:avira",
+	"pid": "24861",
+	"pname": "Avira Management Console",
+	"pcpe": "cpe:/a:avira:management_console"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2997",
-  "vname": "Creative Technology Ltd.",
-  "vcpe": "cpe:/:creative",
-  "pid": "52193",
-  "pname": "Pebble Plus ファームウェア",
-  "pcpe": "cpe:/o:creative:pebble_plus_firmware"
+	"vid": "2997",
+	"vname": "Creative Technology Ltd.",
+	"vcpe": "cpe:/:creative",
+	"pid": "52193",
+	"pname": "Pebble Plus ファームウェア",
+	"pcpe": "cpe:/o:creative:pebble_plus_firmware"
 }

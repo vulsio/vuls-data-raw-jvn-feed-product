@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "31730",
-  "pname": "IBM Connections Engagement Center",
-  "pcpe": "cpe:/a:ibm:connections_engagement_center"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "31730",
+	"pname": "IBM Connections Engagement Center",
+	"pcpe": "cpe:/a:ibm:connections_engagement_center"
 }

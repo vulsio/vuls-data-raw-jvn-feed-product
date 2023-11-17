@@ -1,8 +1,8 @@
 {
-  "vid": "4175",
-  "vname": "Aztech Group Ltd",
-  "vcpe": "cpe:/:aztech",
-  "pid": "32189",
-  "pname": "DSL705E ファームウェア",
-  "pcpe": "cpe:/o:aztech:dsl705e_firmware"
+	"vid": "4175",
+	"vname": "Aztech Group Ltd",
+	"vcpe": "cpe:/:aztech",
+	"pid": "32189",
+	"pname": "DSL705E ファームウェア",
+	"pcpe": "cpe:/o:aztech:dsl705e_firmware"
 }

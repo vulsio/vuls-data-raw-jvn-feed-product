@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "47497",
-  "pname": "WLAH-G54 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wlah-g54_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "47497",
+	"pname": "WLAH-G54 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wlah-g54_firmware"
 }

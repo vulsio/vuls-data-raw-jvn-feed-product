@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "32686",
-  "pname": "Berlin-EMUI5.0 ファームウェア",
-  "pcpe": "cpe:/o:huawei:berlin-emui5.0_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "32686",
+	"pname": "Berlin-EMUI5.0 ファームウェア",
+	"pcpe": "cpe:/o:huawei:berlin-emui5.0_firmware"
 }

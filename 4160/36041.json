@@ -1,8 +1,8 @@
 {
-  "vid": "4160",
-  "vname": "VIVOTEK Inc.",
-  "vcpe": "cpe:/:vivotek",
-  "pid": "36041",
-  "pname": "Camera",
-  "pcpe": "cpe:/h:vivotek:camera"
+	"vid": "4160",
+	"vname": "VIVOTEK Inc.",
+	"vcpe": "cpe:/:vivotek",
+	"pid": "36041",
+	"pname": "Camera",
+	"pcpe": "cpe:/h:vivotek:camera"
 }

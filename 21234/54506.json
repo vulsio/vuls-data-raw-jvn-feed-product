@@ -1,8 +1,8 @@
 {
-  "vid": "21234",
-  "vname": "Backstage",
-  "vcpe": "cpe:/:backstage",
-  "pid": "54506",
-  "pname": "Backstage",
-  "pcpe": "cpe:/a:backstage:backstage"
+	"vid": "21234",
+	"vname": "Backstage",
+	"vcpe": "cpe:/:backstage",
+	"pid": "54506",
+	"pname": "Backstage",
+	"pcpe": "cpe:/a:backstage:backstage"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9910",
-  "vname": "berliOS",
-  "vcpe": "cpe:/:ol-commerce_project",
-  "pid": "20667",
-  "pname": "OL-Commerce",
-  "pcpe": "cpe:/a:ol-commerce_project:ol-commerce"
+	"vid": "9910",
+	"vname": "berliOS",
+	"vcpe": "cpe:/:ol-commerce_project",
+	"pid": "20667",
+	"pname": "OL-Commerce",
+	"pcpe": "cpe:/a:ol-commerce_project:ol-commerce"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "53203",
-  "pname": "Latitude 5411 ファームウェア",
-  "pcpe": "cpe:/o:dell:latitude_5411_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "53203",
+	"pname": "Latitude 5411 ファームウェア",
+	"pcpe": "cpe:/o:dell:latitude_5411_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "46305",
-  "pname": "JSGames Plugin",
-  "pcpe": "cpe:/a:jenkins:jsgames"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "46305",
+	"pname": "JSGames Plugin",
+	"pcpe": "cpe:/a:jenkins:jsgames"
 }

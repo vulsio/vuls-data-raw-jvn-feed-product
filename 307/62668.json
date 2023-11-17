@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "62668",
-  "pname": "aos-cx",
-  "pcpe": "cpe:/o:arubanetworks:aos-cx"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "62668",
+	"pname": "aos-cx",
+	"pcpe": "cpe:/o:arubanetworks:aos-cx"
 }

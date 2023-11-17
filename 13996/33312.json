@@ -1,8 +1,8 @@
 {
-  "vid": "13996",
-  "vname": "wpitchoune",
-  "vcpe": "cpe:/:wpitchoune",
-  "pid": "33312",
-  "pname": "Psensor",
-  "pcpe": "cpe:/a:wpitchoune:psensor"
+	"vid": "13996",
+	"vname": "wpitchoune",
+	"vcpe": "cpe:/:wpitchoune",
+	"pid": "33312",
+	"pname": "Psensor",
+	"pcpe": "cpe:/a:wpitchoune:psensor"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "2100",
-  "pname": "Microsoft Windows Server 2008",
-  "pcpe": "cpe:/o:microsoft:windows_server_2008"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "2100",
+	"pname": "Microsoft Windows Server 2008",
+	"pcpe": "cpe:/o:microsoft:windows_server_2008"
 }

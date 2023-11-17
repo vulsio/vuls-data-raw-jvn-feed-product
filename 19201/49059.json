@@ -1,8 +1,8 @@
 {
-  "vid": "19201",
-  "vname": "株式会社ジェイテクト",
-  "vcpe": "cpe:/:jtekt",
-  "pid": "49059",
-  "pname": "Plus EFR2 TCU-6859 ファームウェア",
-  "pcpe": "cpe:/o:jtekt:plus_efr2_tcu-6859_firmware"
+	"vid": "19201",
+	"vname": "株式会社ジェイテクト",
+	"vcpe": "cpe:/:jtekt",
+	"pid": "49059",
+	"pname": "Plus EFR2 TCU-6859 ファームウェア",
+	"pcpe": "cpe:/o:jtekt:plus_efr2_tcu-6859_firmware"
 }

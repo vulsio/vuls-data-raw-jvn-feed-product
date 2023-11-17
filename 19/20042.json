@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "20042",
-  "pname": "Cisco Nexus 1000V InterCloud",
-  "pcpe": "cpe:/a:cisco:cisco_nexus_1000v_intercloud"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "20042",
+	"pname": "Cisco Nexus 1000V InterCloud",
+	"pcpe": "cpe:/a:cisco:cisco_nexus_1000v_intercloud"
 }

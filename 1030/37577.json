@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "37577",
-  "pname": "CODESYS Control for emPC-A/iMX6 SL",
-  "pcpe": "cpe:/a:codesys:control_for_empc-a%2fimx6_sl"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "37577",
+	"pname": "CODESYS Control for emPC-A/iMX6 SL",
+	"pcpe": "cpe:/a:codesys:control_for_empc-a%2fimx6_sl"
 }

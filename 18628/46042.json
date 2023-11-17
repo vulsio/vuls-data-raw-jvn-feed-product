@@ -1,8 +1,8 @@
 {
-  "vid": "18628",
-  "vname": "VNG Corporation",
-  "vcpe": "cpe:/:vng",
-  "pid": "46042",
-  "pname": "Zalo Desktop",
-  "pcpe": "cpe:/a:vng:zalo_desktop"
+	"vid": "18628",
+	"vname": "VNG Corporation",
+	"vcpe": "cpe:/:vng",
+	"pid": "46042",
+	"pname": "Zalo Desktop",
+	"pcpe": "cpe:/a:vng:zalo_desktop"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "19943",
-  "pname": "Red Hat JBoss Fuse Service Works",
-  "pcpe": "cpe:/a:redhat:jboss_fuse_service_works"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "19943",
+	"pname": "Red Hat JBoss Fuse Service Works",
+	"pcpe": "cpe:/a:redhat:jboss_fuse_service_works"
 }

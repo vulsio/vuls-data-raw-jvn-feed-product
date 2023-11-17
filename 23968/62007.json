@@ -1,8 +1,8 @@
 {
-  "vid": "23968",
-  "vname": "chia",
-  "vcpe": "cpe:/:chia",
-  "pid": "62007",
-  "pname": "network cat1 standard",
-  "pcpe": "cpe:/a:chia:network_cat1_standard"
+	"vid": "23968",
+	"vname": "chia",
+	"vcpe": "cpe:/:chia",
+	"pid": "62007",
+	"pname": "network cat1 standard",
+	"pcpe": "cpe:/a:chia:network_cat1_standard"
 }

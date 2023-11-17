@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "48561",
-  "pname": "Dell System Update",
-  "pcpe": "cpe:/a:dell:system_update"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "48561",
+	"pname": "Dell System Update",
+	"pcpe": "cpe:/a:dell:system_update"
 }

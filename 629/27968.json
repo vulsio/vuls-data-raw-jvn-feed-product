@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "27968",
-  "pname": "NPORT 5X50A1-M12 シリーズファームウェア",
-  "pcpe": "cpe:/o:moxa:nport_5x50a1-m12_series_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "27968",
+	"pname": "NPORT 5X50A1-M12 シリーズファームウェア",
+	"pcpe": "cpe:/o:moxa:nport_5x50a1-m12_series_firmware"
 }

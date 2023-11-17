@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "37469",
-  "pname": "Data Center",
-  "pcpe": "cpe:/a:atlassian:data_center"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "37469",
+	"pname": "Data Center",
+	"pcpe": "cpe:/a:atlassian:data_center"
 }

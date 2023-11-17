@@ -1,8 +1,8 @@
 {
-  "vid": "7274",
-  "vname": "reductivelabs",
-  "vcpe": "cpe:/:reductivelabs",
-  "pid": "14296",
-  "pname": "puppet",
-  "pcpe": "cpe:/a:reductivelabs:puppet"
+	"vid": "7274",
+	"vname": "reductivelabs",
+	"vcpe": "cpe:/:reductivelabs",
+	"pid": "14296",
+	"pname": "puppet",
+	"pcpe": "cpe:/a:reductivelabs:puppet"
 }

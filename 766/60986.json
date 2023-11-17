@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "60986",
-  "pname": "EcoStruxure Geo SCADA Expert 2021",
-  "pcpe": "cpe:/a:schneider_electric:ecostruxure_geo_scada_expert_2021"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "60986",
+	"pname": "EcoStruxure Geo SCADA Expert 2021",
+	"pcpe": "cpe:/a:schneider_electric:ecostruxure_geo_scada_expert_2021"
 }

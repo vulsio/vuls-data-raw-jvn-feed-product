@@ -1,8 +1,8 @@
 {
-  "vid": "11751",
-  "vname": "Watchdog Aggregator project",
-  "vcpe": "cpe:/:watchdog_aggregator_project",
-  "pid": "24263",
-  "pname": "Watchdog Aggregator",
-  "pcpe": "cpe:/a:watchdog_aggregator_project:watchdog_aggregator"
+	"vid": "11751",
+	"vname": "Watchdog Aggregator project",
+	"vcpe": "cpe:/:watchdog_aggregator_project",
+	"pid": "24263",
+	"pname": "Watchdog Aggregator",
+	"pcpe": "cpe:/a:watchdog_aggregator_project:watchdog_aggregator"
 }

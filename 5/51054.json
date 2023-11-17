@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "51054",
-  "pname": "QCA6436 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qca6436_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "51054",
+	"pname": "QCA6436 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qca6436_firmware"
 }

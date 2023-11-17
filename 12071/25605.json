@@ -1,8 +1,8 @@
 {
-  "vid": "12071",
-  "vname": "株式会社フォトシンス",
-  "vcpe": "cpe:/:akerun",
-  "pid": "25605",
-  "pname": "Akerun - Smart Lock Robot",
-  "pcpe": "cpe:/a:akerun:smart_lock_robot"
+	"vid": "12071",
+	"vname": "株式会社フォトシンス",
+	"vcpe": "cpe:/:akerun",
+	"pid": "25605",
+	"pname": "Akerun - Smart Lock Robot",
+	"pcpe": "cpe:/a:akerun:smart_lock_robot"
 }

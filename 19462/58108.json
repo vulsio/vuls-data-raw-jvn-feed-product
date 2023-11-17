@@ -1,8 +1,8 @@
 {
-  "vid": "19462",
-  "vname": "Electron",
-  "vcpe": "cpe:/:electronjs",
-  "pid": "58108",
-  "pname": "electron",
-  "pcpe": "cpe:/a:electronjs:electron"
+	"vid": "19462",
+	"vname": "Electron",
+	"vcpe": "cpe:/:electronjs",
+	"pid": "58108",
+	"pname": "electron",
+	"pcpe": "cpe:/a:electronjs:electron"
 }

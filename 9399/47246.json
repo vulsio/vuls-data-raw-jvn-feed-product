@@ -1,8 +1,8 @@
 {
-  "vid": "9399",
-  "vname": "achal dhir",
-  "vcpe": "cpe:/:achal_dhir",
-  "pid": "47246",
-  "pname": "Home DNS Server",
-  "pcpe": "cpe:/a:achal_dhir:home_dns_server"
+	"vid": "9399",
+	"vname": "achal dhir",
+	"vcpe": "cpe:/:achal_dhir",
+	"pid": "47246",
+	"pname": "Home DNS Server",
+	"pcpe": "cpe:/a:achal_dhir:home_dns_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "28830",
-  "pname": "WRE6505 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:wre6505_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "28830",
+	"pname": "WRE6505 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:wre6505_firmware"
 }

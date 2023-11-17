@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27321",
-  "pname": "ThinkPad Edge E540 BIOS",
-  "pcpe": "cpe:/o:lenovo:thinkpad_edge_e540_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27321",
+	"pname": "ThinkPad Edge E540 BIOS",
+	"pcpe": "cpe:/o:lenovo:thinkpad_edge_e540_bios"
 }

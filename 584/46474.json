@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "46474",
-  "pname": "Siveillance Video Client",
-  "pcpe": "cpe:/a:siemens:siveillance_video_client"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "46474",
+	"pname": "Siveillance Video Client",
+	"pcpe": "cpe:/a:siemens:siveillance_video_client"
 }

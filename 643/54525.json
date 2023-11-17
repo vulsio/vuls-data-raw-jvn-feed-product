@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "54525",
-  "pname": "Dell EMC iDRAC8 ファームウェア",
-  "pcpe": "cpe:/o:dell:emc_idrac8_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "54525",
+	"pname": "Dell EMC iDRAC8 ファームウェア",
+	"pcpe": "cpe:/o:dell:emc_idrac8_firmware"
 }

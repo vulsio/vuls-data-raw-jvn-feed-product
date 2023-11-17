@@ -1,8 +1,8 @@
 {
-  "vid": "15178",
-  "vname": "Sencha",
-  "vcpe": "cpe:/:sencha",
-  "pid": "35136",
-  "pname": "Ext JS",
-  "pcpe": "cpe:/a:sencha:ext_js"
+	"vid": "15178",
+	"vname": "Sencha",
+	"vcpe": "cpe:/:sencha",
+	"pid": "35136",
+	"pname": "Ext JS",
+	"pcpe": "cpe:/a:sencha:ext_js"
 }

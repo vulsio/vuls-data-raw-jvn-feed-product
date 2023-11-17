@@ -1,8 +1,8 @@
 {
-  "vid": "7638",
-  "vname": "siteframe",
-  "vcpe": "cpe:/:siteframe",
-  "pid": "14820",
-  "pname": "siteframe cms",
-  "pcpe": "cpe:/a:siteframe:siteframe_cms"
+	"vid": "7638",
+	"vname": "siteframe",
+	"vcpe": "cpe:/:siteframe",
+	"pid": "14820",
+	"pname": "siteframe cms",
+	"pcpe": "cpe:/a:siteframe:siteframe_cms"
 }

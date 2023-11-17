@@ -1,8 +1,8 @@
 {
-  "vid": "15461",
-  "vname": "Swoole",
-  "vcpe": "cpe:/:swoole",
-  "pid": "54632",
-  "pname": "Swoole PHP Framework",
-  "pcpe": "cpe:/a:swoole:swoole_php_framework"
+	"vid": "15461",
+	"vname": "Swoole",
+	"vcpe": "cpe:/:swoole",
+	"pid": "54632",
+	"pname": "Swoole PHP Framework",
+	"pcpe": "cpe:/a:swoole:swoole_php_framework"
 }

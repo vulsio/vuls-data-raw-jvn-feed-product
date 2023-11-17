@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "41982",
-  "pname": "Lead Magnet",
-  "pcpe": "cpe:/a:zohocorp:lead_magnet"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "41982",
+	"pname": "Lead Magnet",
+	"pcpe": "cpe:/a:zohocorp:lead_magnet"
 }

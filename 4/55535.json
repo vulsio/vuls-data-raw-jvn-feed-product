@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "55535",
-  "pname": "DesignJet T930 12Y21A ファームウェア",
-  "pcpe": "cpe:/o:hp:designjet_t930_l2y21a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "55535",
+	"pname": "DesignJet T930 12Y21A ファームウェア",
+	"pcpe": "cpe:/o:hp:designjet_t930_l2y21a_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "4035",
-  "pname": "TIBCO ActiveMatrix BusinessWorks Service Engine",
-  "pcpe": "cpe:/a:tibco:activematrix_businessworks_service_engine"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "4035",
+	"pname": "TIBCO ActiveMatrix BusinessWorks Service Engine",
+	"pcpe": "cpe:/a:tibco:activematrix_businessworks_service_engine"
 }

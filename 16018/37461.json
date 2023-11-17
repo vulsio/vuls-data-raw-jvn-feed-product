@@ -1,8 +1,8 @@
 {
-  "vid": "16018",
-  "vname": "Safe Software Inc.",
-  "vcpe": "cpe:/:safe",
-  "pid": "37461",
-  "pname": "FME Server",
-  "pcpe": "cpe:/a:safe:fme_server"
+	"vid": "16018",
+	"vname": "Safe Software Inc.",
+	"vcpe": "cpe:/:safe",
+	"pid": "37461",
+	"pname": "FME Server",
+	"pcpe": "cpe:/a:safe:fme_server"
 }

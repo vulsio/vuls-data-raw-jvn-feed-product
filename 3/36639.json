@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "36639",
-  "pname": "Red Hat JBoss Drools",
-  "pcpe": "cpe:/a:redhat:jboss_drools"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "36639",
+	"pname": "Red Hat JBoss Drools",
+	"pcpe": "cpe:/a:redhat:jboss_drools"
 }

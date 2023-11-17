@@ -1,8 +1,8 @@
 {
-  "vid": "1007",
-  "vname": "DMXReady",
-  "vcpe": "cpe:/:dmxready",
-  "pid": "7402",
-  "pname": "registration manager",
-  "pcpe": "cpe:/a:dmxready:registration_manager"
+	"vid": "1007",
+	"vname": "DMXReady",
+	"vcpe": "cpe:/:dmxready",
+	"pid": "7402",
+	"pname": "registration manager",
+	"pcpe": "cpe:/a:dmxready:registration_manager"
 }

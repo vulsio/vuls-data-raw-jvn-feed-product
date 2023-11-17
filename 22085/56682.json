@@ -1,8 +1,8 @@
 {
-  "vid": "22085",
-  "vname": "Gribbit project",
-  "vcpe": "cpe:/:gribbit_project",
-  "pid": "56682",
-  "pname": "Gribbit Web Framework",
-  "pcpe": "cpe:/a:gribbit_project:gribbit"
+	"vid": "22085",
+	"vname": "Gribbit project",
+	"vcpe": "cpe:/:gribbit_project",
+	"pid": "56682",
+	"pname": "Gribbit Web Framework",
+	"pcpe": "cpe:/a:gribbit_project:gribbit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1740",
-  "vname": "TinyWebGallery",
-  "vcpe": "cpe:/:tinywebgallery",
-  "pid": "33439",
-  "pname": "WordPress Flash Uploader",
-  "pcpe": "cpe:/a:tinywebgallery:wordpress_flash_uploader"
+	"vid": "1740",
+	"vname": "TinyWebGallery",
+	"vcpe": "cpe:/:tinywebgallery",
+	"pid": "33439",
+	"pname": "WordPress Flash Uploader",
+	"pcpe": "cpe:/a:tinywebgallery:wordpress_flash_uploader"
 }

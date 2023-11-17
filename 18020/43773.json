@@ -1,8 +1,8 @@
 {
-  "vid": "18020",
-  "vname": "XCritical Software",
-  "vcpe": "cpe:/:xcritical.software",
-  "pid": "43773",
-  "pname": "utilitify",
-  "pcpe": "cpe:/a:xcritical.software:utilitify"
+	"vid": "18020",
+	"vname": "XCritical Software",
+	"vcpe": "cpe:/:xcritical.software",
+	"pid": "43773",
+	"pname": "utilitify",
+	"pcpe": "cpe:/a:xcritical.software:utilitify"
 }

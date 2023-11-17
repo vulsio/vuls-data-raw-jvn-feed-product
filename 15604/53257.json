@@ -1,8 +1,8 @@
 {
-  "vid": "15604",
-  "vname": "S-CMS",
-  "vcpe": "cpe:/:s-cms",
-  "pid": "53257",
-  "pname": "CMS Enterprise Website Construction System",
-  "pcpe": "cpe:/a:s-cms:cms_enterprise_website_construction_system"
+	"vid": "15604",
+	"vname": "S-CMS",
+	"vcpe": "cpe:/:s-cms",
+	"pid": "53257",
+	"pname": "CMS Enterprise Website Construction System",
+	"pcpe": "cpe:/a:s-cms:cms_enterprise_website_construction_system"
 }

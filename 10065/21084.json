@@ -1,8 +1,8 @@
 {
-  "vid": "10065",
-  "vname": "PlayScapeTM",
-  "vcpe": "cpe:/:playscape",
-  "pid": "21084",
-  "pname": "MoMinis library",
-  "pcpe": "cpe:/a:playscape:mominis_library"
+	"vid": "10065",
+	"vname": "PlayScapeTM",
+	"vcpe": "cpe:/:playscape",
+	"pid": "21084",
+	"pname": "MoMinis library",
+	"pcpe": "cpe:/a:playscape:mominis_library"
 }

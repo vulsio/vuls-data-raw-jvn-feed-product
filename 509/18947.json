@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "18947",
-  "pname": "SAP EMR Unwired",
-  "pcpe": "cpe:/a:sap:emr_unwired"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "18947",
+	"pname": "SAP EMR Unwired",
+	"pcpe": "cpe:/a:sap:emr_unwired"
 }

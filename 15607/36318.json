@@ -1,8 +1,8 @@
 {
-  "vid": "15607",
-  "vname": "SquashTeam",
-  "vcpe": "cpe:/:squashtest",
-  "pid": "36318",
-  "pname": "Squash TM",
-  "pcpe": "cpe:/a:squashtest:squash_tm"
+	"vid": "15607",
+	"vname": "SquashTeam",
+	"vcpe": "cpe:/:squashtest",
+	"pid": "36318",
+	"pname": "Squash TM",
+	"pcpe": "cpe:/a:squashtest:squash_tm"
 }

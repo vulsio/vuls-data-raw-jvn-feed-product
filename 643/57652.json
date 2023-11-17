@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "57652",
-  "pname": "enterprise storage analytics",
-  "pcpe": "cpe:/a:dell:enterprise_storage_analytics"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "57652",
+	"pname": "enterprise storage analytics",
+	"pcpe": "cpe:/a:dell:enterprise_storage_analytics"
 }

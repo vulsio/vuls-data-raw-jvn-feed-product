@@ -1,8 +1,8 @@
 {
-  "vid": "22947",
-  "vname": "galsys",
-  "vcpe": "cpe:/:galsys",
-  "pid": "59164",
-  "pname": "nts-6002-gps ファームウェア",
-  "pcpe": "cpe:/o:galsys:nts-6002-gps_firmware"
+	"vid": "22947",
+	"vname": "galsys",
+	"vcpe": "cpe:/:galsys",
+	"pid": "59164",
+	"pname": "nts-6002-gps ファームウェア",
+	"pcpe": "cpe:/o:galsys:nts-6002-gps_firmware"
 }

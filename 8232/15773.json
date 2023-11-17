@@ -1,8 +1,8 @@
 {
-  "vid": "8232",
-  "vname": "UnrealIRCd",
-  "vcpe": "cpe:/:unrealircd",
-  "pid": "15773",
-  "pname": "UnrealIRCd",
-  "pcpe": "cpe:/a:unrealircd:unrealircd"
+	"vid": "8232",
+	"vname": "UnrealIRCd",
+	"vcpe": "cpe:/:unrealircd",
+	"pid": "15773",
+	"pname": "UnrealIRCd",
+	"pcpe": "cpe:/a:unrealircd:unrealircd"
 }

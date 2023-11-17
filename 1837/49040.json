@@ -1,8 +1,8 @@
 {
-  "vid": "1837",
-  "vname": "Quest Software Inc.",
-  "vcpe": "cpe:/:quest",
-  "pid": "49040",
-  "pname": "Quest Policy Authority",
-  "pcpe": "cpe:/a:quest:policy_authority_for_unified_communications"
+	"vid": "1837",
+	"vname": "Quest Software Inc.",
+	"vcpe": "cpe:/:quest",
+	"pid": "49040",
+	"pname": "Quest Policy Authority",
+	"pcpe": "cpe:/a:quest:policy_authority_for_unified_communications"
 }

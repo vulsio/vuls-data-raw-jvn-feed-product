@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "60837",
-  "pname": "manager server",
-  "pcpe": "cpe:/a:suse:manager_server"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "60837",
+	"pname": "manager server",
+	"pcpe": "cpe:/a:suse:manager_server"
 }

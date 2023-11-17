@@ -1,8 +1,8 @@
 {
-  "vid": "2374",
-  "vname": "audio cd tools",
-  "vcpe": "cpe:/:audio_cd_tools",
-  "pid": "6056",
-  "pname": "audio cd ripper ocx",
-  "pcpe": "cpe:/a:audio_cd_tools:audio_cd_ripper_ocx"
+	"vid": "2374",
+	"vname": "audio cd tools",
+	"vcpe": "cpe:/:audio_cd_tools",
+	"pid": "6056",
+	"pname": "audio cd ripper ocx",
+	"pcpe": "cpe:/a:audio_cd_tools:audio_cd_ripper_ocx"
 }

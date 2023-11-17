@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "5540",
-  "pname": "creative suite",
-  "pcpe": "cpe:/a:adobe:creative_suite"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "5540",
+	"pname": "creative suite",
+	"pcpe": "cpe:/a:adobe:creative_suite"
 }

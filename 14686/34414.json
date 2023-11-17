@@ -1,8 +1,8 @@
 {
-  "vid": "14686",
-  "vname": "node-postgres",
-  "vcpe": "cpe:/:node-postgres",
-  "pid": "34414",
-  "pname": "pg",
-  "pcpe": "cpe:/a:node-postgres:pg"
+	"vid": "14686",
+	"vname": "node-postgres",
+	"vcpe": "cpe:/:node-postgres",
+	"pid": "34414",
+	"pname": "pg",
+	"pcpe": "cpe:/a:node-postgres:pg"
 }

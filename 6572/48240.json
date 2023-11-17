@@ -1,8 +1,8 @@
 {
-  "vid": "6572",
-  "vname": "Acquia Inc.",
-  "vcpe": "cpe:/:acquia",
-  "pid": "48240",
-  "pname": "Mautic",
-  "pcpe": "cpe:/a:acquia:mautic"
+	"vid": "6572",
+	"vname": "Acquia Inc.",
+	"vcpe": "cpe:/:acquia",
+	"pid": "48240",
+	"pname": "Mautic",
+	"pcpe": "cpe:/a:acquia:mautic"
 }

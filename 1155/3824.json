@@ -1,8 +1,8 @@
 {
-  "vid": "1155",
-  "vname": "XWiki",
-  "vcpe": "cpe:/:xwiki",
-  "pid": "3824",
-  "pname": "XWiki Enterprise",
-  "pcpe": "cpe:/a:xwiki:xwiki_enterprise"
+	"vid": "1155",
+	"vname": "XWiki",
+	"vcpe": "cpe:/:xwiki",
+	"pid": "3824",
+	"pname": "XWiki Enterprise",
+	"pcpe": "cpe:/a:xwiki:xwiki_enterprise"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23762",
-  "vname": "toybox project",
-  "vcpe": "cpe:/:toybox_project",
-  "pid": "61471",
-  "pname": "toybox",
-  "pcpe": "cpe:/a:toybox_project:toybox"
+	"vid": "23762",
+	"vname": "toybox project",
+	"vcpe": "cpe:/:toybox_project",
+	"pid": "61471",
+	"pname": "toybox",
+	"pcpe": "cpe:/a:toybox_project:toybox"
 }

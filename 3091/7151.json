@@ -1,8 +1,8 @@
 {
-  "vid": "3091",
-  "vname": "Dart Communications",
-  "vcpe": "cpe:/:dart",
-  "pid": "7151",
-  "pname": "powertcp ftp for activex",
-  "pcpe": "cpe:/a:dart:powertcp_ftp_for_activex"
+	"vid": "3091",
+	"vname": "Dart Communications",
+	"vcpe": "cpe:/:dart",
+	"pid": "7151",
+	"pname": "powertcp ftp for activex",
+	"pcpe": "cpe:/a:dart:powertcp_ftp_for_activex"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "7255",
-  "vname": "Realtek Semiconductor Corp",
-  "vcpe": "cpe:/:realtek",
-  "pid": "55378",
-  "pname": "usdk",
-  "pcpe": "cpe:/a:realtek:usdk"
+	"vid": "7255",
+	"vname": "Realtek Semiconductor Corp",
+	"vcpe": "cpe:/:realtek",
+	"pid": "55378",
+	"pname": "usdk",
+	"pcpe": "cpe:/a:realtek:usdk"
 }

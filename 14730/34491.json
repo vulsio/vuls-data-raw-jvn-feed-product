@@ -1,8 +1,8 @@
 {
-  "vid": "14730",
-  "vname": "ShoutIRC",
-  "vcpe": "cpe:/:shout-irc",
-  "pid": "34491",
-  "pname": "shout",
-  "pcpe": "cpe:/a:shout-irc:shout"
+	"vid": "14730",
+	"vname": "ShoutIRC",
+	"vcpe": "cpe:/:shout-irc",
+	"pid": "34491",
+	"pname": "shout",
+	"pcpe": "cpe:/a:shout-irc:shout"
 }

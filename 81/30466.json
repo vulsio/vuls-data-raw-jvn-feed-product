@@ -1,8 +1,8 @@
 {
-  "vid": "81",
-  "vname": "Python Software Foundation",
-  "vcpe": "cpe:/:python",
-  "pid": "30466",
-  "pname": "python-kerberos",
-  "pcpe": "cpe:/a:python:pykerberos"
+	"vid": "81",
+	"vname": "Python Software Foundation",
+	"vcpe": "cpe:/:python",
+	"pid": "30466",
+	"pname": "python-kerberos",
+	"pcpe": "cpe:/a:python:pykerberos"
 }

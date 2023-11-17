@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "56953",
-  "pname": "MELSOFT iQ AppPortal",
-  "pcpe": "cpe:/a:mitsubishielectric:melsoft_iq_appportal"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "56953",
+	"pname": "MELSOFT iQ AppPortal",
+	"pcpe": "cpe:/a:mitsubishielectric:melsoft_iq_appportal"
 }

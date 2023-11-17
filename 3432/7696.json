@@ -1,8 +1,8 @@
 {
-  "vid": "3432",
-  "vname": "ef software",
-  "vcpe": "cpe:/:ef_software",
-  "pid": "7696",
-  "pname": "ef commander",
-  "pcpe": "cpe:/a:ef_software:ef_commander"
+	"vid": "3432",
+	"vname": "ef software",
+	"vcpe": "cpe:/:ef_software",
+	"pid": "7696",
+	"pname": "ef commander",
+	"pcpe": "cpe:/a:ef_software:ef_commander"
 }

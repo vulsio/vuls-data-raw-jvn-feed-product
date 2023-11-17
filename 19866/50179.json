@@ -1,8 +1,8 @@
 {
-  "vid": "19866",
-  "vname": "Inim Electronics",
-  "vcpe": "cpe:/:inim",
-  "pid": "50179",
-  "pname": "Smartliving 10100L ファームウェア",
-  "pcpe": "cpe:/o:inim:smartliving_10100l_firmware"
+	"vid": "19866",
+	"vname": "Inim Electronics",
+	"vcpe": "cpe:/:inim",
+	"pid": "50179",
+	"pname": "Smartliving 10100L ファームウェア",
+	"pcpe": "cpe:/o:inim:smartliving_10100l_firmware"
 }

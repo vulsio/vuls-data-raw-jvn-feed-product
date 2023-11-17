@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38449",
-  "pname": "Cisco UCS B200 M5 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ucs_b200_m5_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38449",
+	"pname": "Cisco UCS B200 M5 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ucs_b200_m5_firmware"
 }

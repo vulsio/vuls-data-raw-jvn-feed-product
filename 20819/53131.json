@@ -1,8 +1,8 @@
 {
-  "vid": "20819",
-  "vname": "IDEMIA",
-  "vcpe": "cpe:/:idemia",
-  "pid": "53131",
-  "pname": "SIGMA Extreme ファームウェア",
-  "pcpe": "cpe:/o:idemia:sigma_extreme_firmware"
+	"vid": "20819",
+	"vname": "IDEMIA",
+	"vcpe": "cpe:/:idemia",
+	"pid": "53131",
+	"pname": "SIGMA Extreme ファームウェア",
+	"pcpe": "cpe:/o:idemia:sigma_extreme_firmware"
 }

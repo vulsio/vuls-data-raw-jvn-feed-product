@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24475",
-  "pname": "Cisco Videoscape Policy Resource Manager",
-  "pcpe": "cpe:/a:cisco:videoscape_policy_resource_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24475",
+	"pname": "Cisco Videoscape Policy Resource Manager",
+	"pcpe": "cpe:/a:cisco:videoscape_policy_resource_manager"
 }

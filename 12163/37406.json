@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "37406",
-  "pname": "Job Import",
-  "pcpe": "cpe:/a:jenkins:job_import"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "37406",
+	"pname": "Job Import",
+	"pcpe": "cpe:/a:jenkins:job_import"
 }

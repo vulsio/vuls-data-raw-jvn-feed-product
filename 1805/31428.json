@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31428",
-  "pname": "TL-WAR450 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-war450_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31428",
+	"pname": "TL-WAR450 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-war450_firmware"
 }

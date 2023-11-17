@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "2292",
-  "pname": "WebSAM SECUREMASTER",
-  "pcpe": "cpe:/a:nec:websam_securemaster"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "2292",
+	"pname": "WebSAM SECUREMASTER",
+	"pcpe": "cpe:/a:nec:websam_securemaster"
 }

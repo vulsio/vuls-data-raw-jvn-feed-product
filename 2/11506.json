@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "11506",
-  "pname": "digital image",
-  "pcpe": "cpe:/a:microsoft:digital_image"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "11506",
+	"pname": "digital image",
+	"pcpe": "cpe:/a:microsoft:digital_image"
 }

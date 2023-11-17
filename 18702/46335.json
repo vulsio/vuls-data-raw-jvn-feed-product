@@ -1,8 +1,8 @@
 {
-  "vid": "18702",
-  "vname": "Oswapp",
-  "vcpe": "cpe:/:oswapp",
-  "pid": "46335",
-  "pname": "Warehouse Inventory System",
-  "pcpe": "cpe:/a:oswapp:warehouse_inventory_system"
+	"vid": "18702",
+	"vname": "Oswapp",
+	"vcpe": "cpe:/:oswapp",
+	"pid": "46335",
+	"pname": "Warehouse Inventory System",
+	"pcpe": "cpe:/a:oswapp:warehouse_inventory_system"
 }

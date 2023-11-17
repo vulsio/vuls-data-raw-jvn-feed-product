@@ -1,8 +1,8 @@
 {
-  "vid": "500",
-  "vname": "Mambo Foundation",
-  "vcpe": "cpe:/:mambo-foundation",
-  "pid": "11223",
-  "pname": "swmenu component",
-  "pcpe": "cpe:/a:mambo-foundation:swmenu_component"
+	"vid": "500",
+	"vname": "Mambo Foundation",
+	"vcpe": "cpe:/:mambo-foundation",
+	"pid": "11223",
+	"pname": "swmenu component",
+	"pcpe": "cpe:/a:mambo-foundation:swmenu_component"
 }

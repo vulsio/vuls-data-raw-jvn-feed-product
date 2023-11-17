@@ -1,8 +1,8 @@
 {
-  "vid": "6191",
-  "vname": "otslabs",
-  "vcpe": "cpe:/:otslabs",
-  "pid": "12390",
-  "pname": "otsav radio",
-  "pcpe": "cpe:/a:otslabs:otsav_radio"
+	"vid": "6191",
+	"vname": "otslabs",
+	"vcpe": "cpe:/:otslabs",
+	"pid": "12390",
+	"pname": "otsav radio",
+	"pcpe": "cpe:/a:otslabs:otsav_radio"
 }

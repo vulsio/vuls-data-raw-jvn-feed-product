@@ -1,8 +1,8 @@
 {
-  "vid": "12567",
-  "vname": "Jensen of Scandinavia AS",
-  "vcpe": "cpe:/:jensen_of_scandinavia_as",
-  "pid": "28591",
-  "pname": "Air:Link 5000AC ファームウェア",
-  "pcpe": "cpe:/o:jensen_of_scandinavia_as:air%3Alink_5000ac_firmware"
+	"vid": "12567",
+	"vname": "Jensen of Scandinavia AS",
+	"vcpe": "cpe:/:jensen_of_scandinavia_as",
+	"pid": "28591",
+	"pname": "Air:Link 5000AC ファームウェア",
+	"pcpe": "cpe:/o:jensen_of_scandinavia_as:air%3Alink_5000ac_firmware"
 }

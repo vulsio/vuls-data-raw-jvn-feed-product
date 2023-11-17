@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "21532",
-  "pname": "EA3500 ファームウェア",
-  "pcpe": "cpe:/o:linksys:ea3500_firmware"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "21532",
+	"pname": "EA3500 ファームウェア",
+	"pcpe": "cpe:/o:linksys:ea3500_firmware"
 }

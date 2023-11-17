@@ -1,8 +1,8 @@
 {
-  "vid": "17743",
-  "vname": "OutSystems",
-  "vcpe": "cpe:/:outsystems",
-  "pid": "49960",
-  "pname": "Platform Server",
-  "pcpe": "cpe:/a:outsystems:platform_server"
+	"vid": "17743",
+	"vname": "OutSystems",
+	"vcpe": "cpe:/:outsystems",
+	"pid": "49960",
+	"pname": "Platform Server",
+	"pcpe": "cpe:/a:outsystems:platform_server"
 }

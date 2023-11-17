@@ -1,8 +1,8 @@
 {
-  "vid": "13134",
-  "vname": "Fastly, Inc.",
-  "vcpe": "cpe:/:fastly",
-  "pid": "30590",
-  "pname": "Fastly CDN",
-  "pcpe": "cpe:/a:fastly:fastly"
+	"vid": "13134",
+	"vname": "Fastly, Inc.",
+	"vcpe": "cpe:/:fastly",
+	"pid": "30590",
+	"pname": "Fastly CDN",
+	"pcpe": "cpe:/a:fastly:fastly"
 }

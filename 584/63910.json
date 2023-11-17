@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63910",
-  "pname": "sipass integrated acc-ap ファームウェア",
-  "pcpe": "cpe:/o:siemens:sipass_integrated_acc-ap_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63910",
+	"pname": "sipass integrated acc-ap ファームウェア",
+	"pcpe": "cpe:/o:siemens:sipass_integrated_acc-ap_firmware"
 }

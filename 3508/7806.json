@@ -1,8 +1,8 @@
 {
-  "vid": "3508",
-  "vname": "Enlightenment",
-  "vcpe": "cpe:/:enlightenment",
-  "pid": "7806",
-  "pname": "imlib2",
-  "pcpe": "cpe:/a:enlightenment:imlib2"
+	"vid": "3508",
+	"vname": "Enlightenment",
+	"vcpe": "cpe:/:enlightenment",
+	"pid": "7806",
+	"pname": "imlib2",
+	"pcpe": "cpe:/a:enlightenment:imlib2"
 }

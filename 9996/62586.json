@@ -1,8 +1,8 @@
 {
-  "vid": "9996",
-  "vname": "Software- und Organisations-Service",
-  "vcpe": "cpe:/:sos",
-  "pid": "62586",
-  "pname": "sos",
-  "pcpe": "cpe:/a:sos:sos"
+	"vid": "9996",
+	"vname": "Software- und Organisations-Service",
+	"vcpe": "cpe:/:sos",
+	"pid": "62586",
+	"pname": "sos",
+	"pcpe": "cpe:/a:sos:sos"
 }

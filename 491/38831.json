@@ -1,8 +1,8 @@
 {
-  "vid": "491",
-  "vname": "BitDefender",
-  "vcpe": "cpe:/:bitdefender",
-  "pid": "38831",
-  "pname": "Bitdefender Scan Engines",
-  "pcpe": "cpe:/a:bitdefender:scan_engines"
+	"vid": "491",
+	"vname": "BitDefender",
+	"vcpe": "cpe:/:bitdefender",
+	"pid": "38831",
+	"pname": "Bitdefender Scan Engines",
+	"pcpe": "cpe:/a:bitdefender:scan_engines"
 }

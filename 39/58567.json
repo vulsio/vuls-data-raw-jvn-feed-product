@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "58567",
-  "pname": "acs aem commons",
-  "pcpe": "cpe:/a:adobe:acs_aem_commons"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "58567",
+	"pname": "acs aem commons",
+	"pcpe": "cpe:/a:adobe:acs_aem_commons"
 }

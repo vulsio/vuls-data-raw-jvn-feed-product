@@ -1,8 +1,8 @@
 {
-  "vid": "14713",
-  "vname": "npm-script-demo project",
-  "vcpe": "cpe:/:npm-script-demo_project",
-  "pid": "34455",
-  "pname": "npm-script-demo",
-  "pcpe": "cpe:/a:npm-script-demo_project:npm-script-demo"
+	"vid": "14713",
+	"vname": "npm-script-demo project",
+	"vcpe": "cpe:/:npm-script-demo_project",
+	"pid": "34455",
+	"pname": "npm-script-demo",
+	"pcpe": "cpe:/a:npm-script-demo_project:npm-script-demo"
 }

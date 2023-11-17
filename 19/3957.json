@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3957",
-  "pname": "Cisco Cius",
-  "pcpe": "cpe:/h:cisco:cius"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3957",
+	"pname": "Cisco Cius",
+	"pcpe": "cpe:/h:cisco:cius"
 }

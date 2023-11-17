@@ -1,8 +1,8 @@
 {
-  "vid": "554",
-  "vname": "ブルーコートシステムズ",
-  "vcpe": "cpe:/:bluecoat",
-  "pid": "2303",
-  "pname": "Blue Coat ProxyClient",
-  "pcpe": "cpe:/a:bluecoat:proxyclient"
+	"vid": "554",
+	"vname": "ブルーコートシステムズ",
+	"vcpe": "cpe:/:bluecoat",
+	"pid": "2303",
+	"pname": "Blue Coat ProxyClient",
+	"pcpe": "cpe:/a:bluecoat:proxyclient"
 }

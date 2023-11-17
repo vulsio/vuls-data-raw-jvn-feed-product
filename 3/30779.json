@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "30779",
-  "pname": "Red Hat Mobile Application Platform",
-  "pcpe": "cpe:/a:redhat:mobile_application_platform"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "30779",
+	"pname": "Red Hat Mobile Application Platform",
+	"pcpe": "cpe:/a:redhat:mobile_application_platform"
 }

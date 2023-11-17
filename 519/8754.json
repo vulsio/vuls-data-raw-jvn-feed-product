@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "8754",
-  "pname": "voip handset",
-  "pcpe": "cpe:/h:avaya:voip_handset"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "8754",
+	"pname": "voip handset",
+	"pcpe": "cpe:/h:avaya:voip_handset"
 }

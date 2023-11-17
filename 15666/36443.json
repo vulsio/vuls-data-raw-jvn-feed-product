@@ -1,8 +1,8 @@
 {
-  "vid": "15666",
-  "vname": "Sparksuite",
-  "vcpe": "cpe:/:sparksuite",
-  "pid": "36443",
-  "pname": "simplemde",
-  "pcpe": "cpe:/a:sparksuite:simplemde"
+	"vid": "15666",
+	"vname": "Sparksuite",
+	"vcpe": "cpe:/:sparksuite",
+	"pid": "36443",
+	"pname": "simplemde",
+	"pcpe": "cpe:/a:sparksuite:simplemde"
 }

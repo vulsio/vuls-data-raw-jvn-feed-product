@@ -1,8 +1,8 @@
 {
-  "vid": "10573",
-  "vname": "dmv.ca.gov",
-  "vcpe": "cpe:/:dmv.ca.gov",
-  "pid": "22075",
-  "pname": "ca dmv",
-  "pcpe": "cpe:/a:dmv.ca.gov:ca_dmv"
+	"vid": "10573",
+	"vname": "dmv.ca.gov",
+	"vcpe": "cpe:/:dmv.ca.gov",
+	"pid": "22075",
+	"pname": "ca dmv",
+	"pcpe": "cpe:/a:dmv.ca.gov:ca_dmv"
 }

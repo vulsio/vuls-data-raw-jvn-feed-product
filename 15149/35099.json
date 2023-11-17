@@ -1,8 +1,8 @@
 {
-  "vid": "15149",
-  "vname": "MarlinFirmware",
-  "vcpe": "cpe:/:marlinfw",
-  "pid": "35099",
-  "pname": "Marlin ファームウェア",
-  "pcpe": "cpe:/o:marlinfw:marlin_firmware"
+	"vid": "15149",
+	"vname": "MarlinFirmware",
+	"vcpe": "cpe:/:marlinfw",
+	"pid": "35099",
+	"pname": "Marlin ファームウェア",
+	"pcpe": "cpe:/o:marlinfw:marlin_firmware"
 }

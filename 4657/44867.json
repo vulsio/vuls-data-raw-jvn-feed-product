@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "44867",
-  "pname": "Honor View 20 ファームウェア",
-  "pcpe": "cpe:/o:huawei:honor_view_20_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "44867",
+	"pname": "Honor View 20 ファームウェア",
+	"pcpe": "cpe:/o:huawei:honor_view_20_firmware"
 }

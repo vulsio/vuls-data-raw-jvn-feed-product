@@ -1,8 +1,8 @@
 {
-  "vid": "17836",
-  "vname": "Module-Metadata project",
-  "vcpe": "cpe:/:module-metadata_project",
-  "pid": "43032",
-  "pname": "Module-Metadata",
-  "pcpe": "cpe:/a:module-metadata_project:module-metadata"
+	"vid": "17836",
+	"vname": "Module-Metadata project",
+	"vcpe": "cpe:/:module-metadata_project",
+	"pid": "43032",
+	"pname": "Module-Metadata",
+	"pcpe": "cpe:/a:module-metadata_project:module-metadata"
 }

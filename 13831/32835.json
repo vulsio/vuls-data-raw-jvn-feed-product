@@ -1,8 +1,8 @@
 {
-  "vid": "13831",
-  "vname": "RLE Technologies",
-  "vcpe": "cpe:/:rletech",
-  "pid": "32835",
-  "pname": "FDS-PC ファームウェア",
-  "pcpe": "cpe:/o:rletech:fds-pc_firmware"
+	"vid": "13831",
+	"vname": "RLE Technologies",
+	"vcpe": "cpe:/:rletech",
+	"pid": "32835",
+	"pname": "FDS-PC ファームウェア",
+	"pcpe": "cpe:/o:rletech:fds-pc_firmware"
 }

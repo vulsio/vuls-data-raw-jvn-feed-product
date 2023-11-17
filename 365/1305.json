@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "1305",
-  "pname": "Citrix Presentation Server",
-  "pcpe": "cpe:/a:citrix:presentation_server"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "1305",
+	"pname": "Citrix Presentation Server",
+	"pcpe": "cpe:/a:citrix:presentation_server"
 }

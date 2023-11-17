@@ -1,8 +1,8 @@
 {
-  "vid": "7900",
-  "vname": "tagit",
-  "vcpe": "cpe:/:tagit",
-  "pid": "15268",
-  "pname": "tagboard",
-  "pcpe": "cpe:/a:tagit:tagboard"
+	"vid": "7900",
+	"vname": "tagit",
+	"vcpe": "cpe:/:tagit",
+	"pid": "15268",
+	"pname": "tagboard",
+	"pcpe": "cpe:/a:tagit:tagboard"
 }

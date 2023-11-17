@@ -1,8 +1,8 @@
 {
-  "vid": "780",
-  "vname": "EDIMAX Technology",
-  "vcpe": "cpe:/:edimax",
-  "pid": "35640",
-  "pname": "EW-7438RPn Mini ファームウェア",
-  "pcpe": "cpe:/o:edimax:edimax_ew-7438rpn_v2_firmware"
+	"vid": "780",
+	"vname": "EDIMAX Technology",
+	"vcpe": "cpe:/:edimax",
+	"pid": "35640",
+	"pname": "EW-7438RPn Mini ファームウェア",
+	"pcpe": "cpe:/o:edimax:edimax_ew-7438rpn_v2_firmware"
 }

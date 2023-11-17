@@ -1,8 +1,8 @@
 {
-  "vid": "12200",
-  "vname": "FreeIPA project",
-  "vcpe": "cpe:/:freeipa",
-  "pid": "26830",
-  "pname": "FreeIPA",
-  "pcpe": "cpe:/a:freeipa:freeipa"
+	"vid": "12200",
+	"vname": "FreeIPA project",
+	"vcpe": "cpe:/:freeipa",
+	"pid": "26830",
+	"pname": "FreeIPA",
+	"pcpe": "cpe:/a:freeipa:freeipa"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "61152",
-  "pname": "Elitebook 735 G5 ファームウェア",
-  "pcpe": "cpe:/o:hp:elitebook_735_g5_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "61152",
+	"pname": "Elitebook 735 G5 ファームウェア",
+	"pcpe": "cpe:/o:hp:elitebook_735_g5_firmware"
 }

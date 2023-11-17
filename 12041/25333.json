@@ -1,8 +1,8 @@
 {
-  "vid": "12041",
-  "vname": "古野電気株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "25333",
-  "pname": "VR-7000 ファームウェア",
-  "pcpe": "cpe:/o:misc:furuno_vr-7000_firmware"
+	"vid": "12041",
+	"vname": "古野電気株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "25333",
+	"pname": "VR-7000 ファームウェア",
+	"pcpe": "cpe:/o:misc:furuno_vr-7000_firmware"
 }

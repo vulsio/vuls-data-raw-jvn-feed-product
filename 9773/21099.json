@@ -1,8 +1,8 @@
 {
-  "vid": "9773",
-  "vname": "Yealink",
-  "vcpe": "cpe:/:yealink",
-  "pid": "21099",
-  "pname": "Ultra-elegant Gigabit IP Phone SIP-T42G",
-  "pcpe": "cpe:/h:yealink:ultra-elegant_ip_phone_sip-t42g"
+	"vid": "9773",
+	"vname": "Yealink",
+	"vcpe": "cpe:/:yealink",
+	"pid": "21099",
+	"pname": "Ultra-elegant Gigabit IP Phone SIP-T42G",
+	"pcpe": "cpe:/h:yealink:ultra-elegant_ip_phone_sip-t42g"
 }

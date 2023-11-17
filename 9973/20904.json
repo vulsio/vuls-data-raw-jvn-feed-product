@@ -1,8 +1,8 @@
 {
-  "vid": "9973",
-  "vname": "php-sqrl project",
-  "vcpe": "cpe:/:php-sqrl_project",
-  "pid": "20904",
-  "pname": "php-sqrl",
-  "pcpe": "cpe:/a:php-sqrl_project:php-sqrl"
+	"vid": "9973",
+	"vname": "php-sqrl project",
+	"vcpe": "cpe:/:php-sqrl_project",
+	"pid": "20904",
+	"pname": "php-sqrl",
+	"pcpe": "cpe:/a:php-sqrl_project:php-sqrl"
 }

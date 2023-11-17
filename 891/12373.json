@@ -1,8 +1,8 @@
 {
-  "vid": "891",
-  "vname": "osCommerce",
-  "vcpe": "cpe:/:oscommerce",
-  "pid": "12373",
-  "pname": "finnish bank payment",
-  "pcpe": "cpe:/a:oscommerce:finnish_bank_payment"
+	"vid": "891",
+	"vname": "osCommerce",
+	"vcpe": "cpe:/:oscommerce",
+	"pid": "12373",
+	"pname": "finnish bank payment",
+	"pcpe": "cpe:/a:oscommerce:finnish_bank_payment"
 }

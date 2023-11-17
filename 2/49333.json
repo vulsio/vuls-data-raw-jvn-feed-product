@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "49333",
-  "pname": "Microsoft Windows Server 2022",
-  "pcpe": "cpe:/o:microsoft:windows_server_2022"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "49333",
+	"pname": "Microsoft Windows Server 2022",
+	"pcpe": "cpe:/o:microsoft:windows_server_2022"
 }

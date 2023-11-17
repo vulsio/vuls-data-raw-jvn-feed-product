@@ -1,8 +1,8 @@
 {
-  "vid": "11713",
-  "vname": "IDS",
-  "vcpe": "cpe:/:ids",
-  "pid": "24152",
-  "pname": "NC854",
-  "pcpe": "cpe:/a:ids:nc854"
+	"vid": "11713",
+	"vname": "IDS",
+	"vcpe": "cpe:/:ids",
+	"pid": "24152",
+	"pname": "NC854",
+	"pcpe": "cpe:/a:ids:nc854"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16111",
-  "vname": "PSI GridConnect GmbH",
-  "vcpe": "cpe:/:psigridconnect",
-  "pid": "37755",
-  "pname": "Smart Telecontrol Unit TCG ファームウェア",
-  "pcpe": "cpe:/o:psigridconnect:smart_telecontrol_unit_tcg_firmware"
+	"vid": "16111",
+	"vname": "PSI GridConnect GmbH",
+	"vcpe": "cpe:/:psigridconnect",
+	"pid": "37755",
+	"pname": "Smart Telecontrol Unit TCG ファームウェア",
+	"pcpe": "cpe:/o:psigridconnect:smart_telecontrol_unit_tcg_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21171",
-  "vname": "Cradlepoint, Inc.",
-  "vcpe": "cpe:/:cradlepoint",
-  "pid": "54139",
-  "pname": "IBR900 ファームウェア",
-  "pcpe": "cpe:/o:cradlepoint:ibr900_firmware"
+	"vid": "21171",
+	"vname": "Cradlepoint, Inc.",
+	"vcpe": "cpe:/:cradlepoint",
+	"pid": "54139",
+	"pname": "IBR900 ファームウェア",
+	"pcpe": "cpe:/o:cradlepoint:ibr900_firmware"
 }

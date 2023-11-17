@@ -1,8 +1,8 @@
 {
-  "vid": "13323",
-  "vname": "Catalyst-Plugin-Static-Simple project",
-  "vcpe": "cpe:/:catalyst-plugin-static-simple_project",
-  "pid": "31144",
-  "pname": "Catalyst-Plugin-Static-Simple",
-  "pcpe": "cpe:/a:catalyst-plugin-static-simple_project:catalyst-plugin-static-simple"
+	"vid": "13323",
+	"vname": "Catalyst-Plugin-Static-Simple project",
+	"vcpe": "cpe:/:catalyst-plugin-static-simple_project",
+	"pid": "31144",
+	"pname": "Catalyst-Plugin-Static-Simple",
+	"pcpe": "cpe:/a:catalyst-plugin-static-simple_project:catalyst-plugin-static-simple"
 }

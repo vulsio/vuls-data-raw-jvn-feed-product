@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "32319",
-  "pname": "Cisco WAP361 ファームウェア",
-  "pcpe": "cpe:/o:cisco:wap361_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "32319",
+	"pname": "Cisco WAP361 ファームウェア",
+	"pcpe": "cpe:/o:cisco:wap361_firmware"
 }

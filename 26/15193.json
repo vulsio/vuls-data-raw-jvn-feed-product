@@ -1,8 +1,8 @@
 {
-  "vid": "26",
-  "vname": "サイベース",
-  "vcpe": "cpe:/:sybase",
-  "pid": "15193",
-  "pname": "mobilink",
-  "pcpe": "cpe:/a:sybase:mobilink"
+	"vid": "26",
+	"vname": "サイベース",
+	"vcpe": "cpe:/:sybase",
+	"pid": "15193",
+	"pname": "mobilink",
+	"pcpe": "cpe:/a:sybase:mobilink"
 }

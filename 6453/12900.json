@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "12900",
-  "pname": "E360d",
-  "pcpe": "cpe:/h:lexmark:e360d"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "12900",
+	"pname": "E360d",
+	"pcpe": "cpe:/h:lexmark:e360d"
 }

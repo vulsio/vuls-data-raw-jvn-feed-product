@@ -1,8 +1,8 @@
 {
-  "vid": "1795",
-  "vname": "GeoVision",
-  "vcpe": "cpe:/:geovision",
-  "pid": "45144",
-  "pname": "GV-AS210 ファームウェア",
-  "pcpe": "cpe:/o:geovision:gv-as210_firmware"
+	"vid": "1795",
+	"vname": "GeoVision",
+	"vcpe": "cpe:/:geovision",
+	"pid": "45144",
+	"pname": "GV-AS210 ファームウェア",
+	"pcpe": "cpe:/o:geovision:gv-as210_firmware"
 }

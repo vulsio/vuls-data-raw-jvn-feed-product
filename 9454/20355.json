@@ -1,8 +1,8 @@
 {
-  "vid": "9454",
-  "vname": "AlgoSec",
-  "vcpe": "cpe:/:algosec",
-  "pid": "20355",
-  "pname": "AlgoSec FireFlow",
-  "pcpe": "cpe:/a:algosec:fireflow"
+	"vid": "9454",
+	"vname": "AlgoSec",
+	"vcpe": "cpe:/:algosec",
+	"pid": "20355",
+	"pname": "AlgoSec FireFlow",
+	"pcpe": "cpe:/a:algosec:fireflow"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2076",
-  "vname": "AfterLogic",
-  "vcpe": "cpe:/:afterlogic",
-  "pid": "9196",
-  "pname": "MailSuite Pro",
-  "pcpe": "cpe:/a:afterlogic:mailsuite_pro"
+	"vid": "2076",
+	"vname": "AfterLogic",
+	"vcpe": "cpe:/:afterlogic",
+	"pid": "9196",
+	"pname": "MailSuite Pro",
+	"pcpe": "cpe:/a:afterlogic:mailsuite_pro"
 }

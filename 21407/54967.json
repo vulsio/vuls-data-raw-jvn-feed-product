@@ -1,8 +1,8 @@
 {
-  "vid": "21407",
-  "vname": "WP Visitor Statistics (Real Time Traffic) project",
-  "vcpe": "cpe:/:wp_visitor_statistics_%28real_time_traffic%29",
-  "pid": "54967",
-  "pname": "WP Visitor Statistics (Real Time Traffic)",
-  "pcpe": "cpe:/a:wp_visitor_statistics_%28real_time_traffic%29:wp_visitor_statistics_%28real_time_traffic%29"
+	"vid": "21407",
+	"vname": "WP Visitor Statistics (Real Time Traffic) project",
+	"vcpe": "cpe:/:wp_visitor_statistics_%28real_time_traffic%29",
+	"pid": "54967",
+	"pname": "WP Visitor Statistics (Real Time Traffic)",
+	"pcpe": "cpe:/a:wp_visitor_statistics_%28real_time_traffic%29:wp_visitor_statistics_%28real_time_traffic%29"
 }

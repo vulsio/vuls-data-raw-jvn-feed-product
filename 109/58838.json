@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "58838",
-  "pname": "Si-R G110B",
-  "pcpe": "cpe:/a:fujitsu:si-r_g110b"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "58838",
+	"pname": "Si-R G110B",
+	"pcpe": "cpe:/a:fujitsu:si-r_g110b"
 }

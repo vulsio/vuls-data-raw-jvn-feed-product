@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "41746",
-  "pname": "Galaxy J4 ファームウェア",
-  "pcpe": "cpe:/o:samsung:galaxy_j4_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "41746",
+	"pname": "Galaxy J4 ファームウェア",
+	"pcpe": "cpe:/o:samsung:galaxy_j4_firmware"
 }

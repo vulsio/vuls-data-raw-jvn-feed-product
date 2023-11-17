@@ -1,8 +1,8 @@
 {
-  "vid": "21241",
-  "vname": "Workerman-ThinkPHP-Redis project",
-  "vcpe": "cpe:/:workerman-thinkphp-redis_project",
-  "pid": "54532",
-  "pname": "Workerman-ThinkPHP-Redis",
-  "pcpe": "cpe:/a:workerman-thinkphp-redis_project:workerman-thinkphp-redis"
+	"vid": "21241",
+	"vname": "Workerman-ThinkPHP-Redis project",
+	"vcpe": "cpe:/:workerman-thinkphp-redis_project",
+	"pid": "54532",
+	"pname": "Workerman-ThinkPHP-Redis",
+	"pcpe": "cpe:/a:workerman-thinkphp-redis_project:workerman-thinkphp-redis"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10440",
-  "vname": "fylet",
-  "vcpe": "cpe:/:fylet",
-  "pid": "21919",
-  "pname": "fylet secure large file sender",
-  "pcpe": "cpe:/a:fylet:fylet_secure_large_file_sender"
+	"vid": "10440",
+	"vname": "fylet",
+	"vcpe": "cpe:/:fylet",
+	"pid": "21919",
+	"pname": "fylet secure large file sender",
+	"pcpe": "cpe:/a:fylet:fylet_secure_large_file_sender"
 }

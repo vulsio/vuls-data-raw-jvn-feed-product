@@ -1,8 +1,8 @@
 {
-  "vid": "18060",
-  "vname": "r-dbi",
-  "vcpe": "cpe:/:r-consortium",
-  "pid": "43896",
-  "pname": "RMySQL",
-  "pcpe": "cpe:/a:r-consortium:rmysql"
+	"vid": "18060",
+	"vname": "r-dbi",
+	"vcpe": "cpe:/:r-consortium",
+	"pid": "43896",
+	"pname": "RMySQL",
+	"pcpe": "cpe:/a:r-consortium:rmysql"
 }

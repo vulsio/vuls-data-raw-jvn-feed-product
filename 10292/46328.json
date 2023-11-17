@@ -1,8 +1,8 @@
 {
-  "vid": "10292",
-  "vname": "ForgeRock",
-  "vcpe": "cpe:/:forgerock",
-  "pid": "46328",
-  "pname": "Identity Manager",
-  "pcpe": "cpe:/a:forgerock:identity_manager"
+	"vid": "10292",
+	"vname": "ForgeRock",
+	"vcpe": "cpe:/:forgerock",
+	"pid": "46328",
+	"pname": "Identity Manager",
+	"pcpe": "cpe:/a:forgerock:identity_manager"
 }

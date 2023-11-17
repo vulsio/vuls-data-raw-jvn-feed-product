@@ -1,8 +1,8 @@
 {
-  "vid": "12160",
-  "vname": "東日本電信電話株式会社",
-  "vcpe": "cpe:/:ntt_east",
-  "pid": "51586",
-  "pname": "Smart Netcommunity αZX Type M ファームウェア",
-  "pcpe": "cpe:/o:ntt_east:smart_netcommunity_azx_type_m_firmware"
+	"vid": "12160",
+	"vname": "東日本電信電話株式会社",
+	"vcpe": "cpe:/:ntt_east",
+	"pid": "51586",
+	"pname": "Smart Netcommunity αZX Type M ファームウェア",
+	"pcpe": "cpe:/o:ntt_east:smart_netcommunity_azx_type_m_firmware"
 }

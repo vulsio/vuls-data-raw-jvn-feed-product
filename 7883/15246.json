@@ -1,8 +1,8 @@
 {
-  "vid": "7883",
-  "vname": "syntax desktop",
-  "vcpe": "cpe:/:syntax_desktop",
-  "pid": "15246",
-  "pname": "syntax desktop",
-  "pcpe": "cpe:/a:syntax_desktop:syntax_desktop"
+	"vid": "7883",
+	"vname": "syntax desktop",
+	"vcpe": "cpe:/:syntax_desktop",
+	"pid": "15246",
+	"pname": "syntax desktop",
+	"pcpe": "cpe:/a:syntax_desktop:syntax_desktop"
 }

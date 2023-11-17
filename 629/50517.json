@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "50517",
-  "pname": "VPort 06EC-2V60M-T ファームウェア",
-  "pcpe": "cpe:/o:moxa:vport_06ec-2v60m-t_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "50517",
+	"pname": "VPort 06EC-2V60M-T ファームウェア",
+	"pcpe": "cpe:/o:moxa:vport_06ec-2v60m-t_firmware"
 }

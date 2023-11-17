@@ -1,8 +1,8 @@
 {
-  "vid": "17751",
-  "vname": "Rasilient",
-  "vcpe": "cpe:/:rasilient",
-  "pid": "42633",
-  "pname": "PixelStor 5000 ファームウェア",
-  "pcpe": "cpe:/o:rasilient:pixelstor_5000_firmware"
+	"vid": "17751",
+	"vname": "Rasilient",
+	"vcpe": "cpe:/:rasilient",
+	"pid": "42633",
+	"pname": "PixelStor 5000 ファームウェア",
+	"pcpe": "cpe:/o:rasilient:pixelstor_5000_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8965",
-  "vname": "web2py",
-  "vcpe": "cpe:/:web2py",
-  "pid": "17312",
-  "pname": "web2py",
-  "pcpe": "cpe:/a:web2py:web2py"
+	"vid": "8965",
+	"vname": "web2py",
+	"vcpe": "cpe:/:web2py",
+	"pid": "17312",
+	"pname": "web2py",
+	"pcpe": "cpe:/a:web2py:web2py"
 }

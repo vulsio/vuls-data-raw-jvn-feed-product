@@ -1,8 +1,8 @@
 {
-  "vid": "22931",
-  "vname": "bdt-121 project",
-  "vcpe": "cpe:/:bdt-121_project",
-  "pid": "59119",
-  "pname": "bdt-121 ファームウェア",
-  "pcpe": "cpe:/o:bdt-121_project:bdt-121_firmware"
+	"vid": "22931",
+	"vname": "bdt-121 project",
+	"vcpe": "cpe:/:bdt-121_project",
+	"pid": "59119",
+	"pname": "bdt-121 ファームウェア",
+	"pcpe": "cpe:/o:bdt-121_project:bdt-121_firmware"
 }

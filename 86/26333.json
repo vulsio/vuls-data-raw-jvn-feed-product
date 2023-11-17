@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "26333",
-  "pname": "WHR-HP-G300N",
-  "pcpe": "cpe:/h:buffalo_inc:whr-hp-g300n"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "26333",
+	"pname": "WHR-HP-G300N",
+	"pcpe": "cpe:/h:buffalo_inc:whr-hp-g300n"
 }

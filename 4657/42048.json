@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "42048",
-  "pname": "HiRouter-CD30-10 ファームウェア",
-  "pcpe": "cpe:/o:huawei:hirouter-cd30-10_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "42048",
+	"pname": "HiRouter-CD30-10 ファームウェア",
+	"pcpe": "cpe:/o:huawei:hirouter-cd30-10_firmware"
 }

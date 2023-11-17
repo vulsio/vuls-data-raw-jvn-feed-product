@@ -1,8 +1,8 @@
 {
-  "vid": "1200",
-  "vname": "2X Software",
-  "vcpe": "cpe:/:2x",
-  "pid": "3883",
-  "pname": "2X ApplicationServer",
-  "pcpe": "cpe:/a:2x:applicationserver"
+	"vid": "1200",
+	"vname": "2X Software",
+	"vcpe": "cpe:/:2x",
+	"pid": "3883",
+	"pname": "2X ApplicationServer",
+	"pcpe": "cpe:/a:2x:applicationserver"
 }

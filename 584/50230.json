@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "50230",
-  "pname": "QMS Automotive",
-  "pcpe": "cpe:/a:siemens:qms_automotive"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "50230",
+	"pname": "QMS Automotive",
+	"pcpe": "cpe:/a:siemens:qms_automotive"
 }

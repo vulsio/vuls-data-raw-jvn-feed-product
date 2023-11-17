@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "16591",
-  "pname": "ts-239 pro turbo nas",
-  "pcpe": "cpe:/h:qnap:ts-239_pro_turbo_nas"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "16591",
+	"pname": "ts-239 pro turbo nas",
+	"pcpe": "cpe:/h:qnap:ts-239_pro_turbo_nas"
 }

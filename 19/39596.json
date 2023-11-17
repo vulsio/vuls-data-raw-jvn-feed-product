@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "39596",
-  "pname": "Cisco Vision Dynamic Signage Director",
-  "pcpe": "cpe:/a:cisco:vision_dynamic_signage_director"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "39596",
+	"pname": "Cisco Vision Dynamic Signage Director",
+	"pcpe": "cpe:/a:cisco:vision_dynamic_signage_director"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17150",
-  "vname": "pam-python project",
-  "vcpe": "cpe:/:pam-python_project",
-  "pid": "40775",
-  "pname": "pam-python",
-  "pcpe": "cpe:/a:pam-python_project:pam-python"
+	"vid": "17150",
+	"vname": "pam-python project",
+	"vcpe": "cpe:/:pam-python_project",
+	"pid": "40775",
+	"pname": "pam-python",
+	"pcpe": "cpe:/a:pam-python_project:pam-python"
 }

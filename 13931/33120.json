@@ -1,8 +1,8 @@
 {
-  "vid": "13931",
-  "vname": "Studio 42",
-  "vcpe": "cpe:/:elfinder_project",
-  "pid": "33120",
-  "pname": "elFinder",
-  "pcpe": "cpe:/a:elfinder_project:elfinder"
+	"vid": "13931",
+	"vname": "Studio 42",
+	"vcpe": "cpe:/:elfinder_project",
+	"pid": "33120",
+	"pname": "elFinder",
+	"pcpe": "cpe:/a:elfinder_project:elfinder"
 }

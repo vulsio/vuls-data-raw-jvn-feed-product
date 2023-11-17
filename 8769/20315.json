@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "20315",
-  "pname": "Photo Station ファームウェア",
-  "pcpe": "cpe:/o:qnap:photo_station_firmware"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "20315",
+	"pname": "Photo Station ファームウェア",
+	"pcpe": "cpe:/o:qnap:photo_station_firmware"
 }

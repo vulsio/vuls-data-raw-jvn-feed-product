@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "56204",
-  "pname": "Intel Xeon D-1518 ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_d-1518_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "56204",
+	"pname": "Intel Xeon D-1518 ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_d-1518_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19580",
-  "vname": "Bitovi",
-  "vcpe": "cpe:/:bitovi",
-  "pid": "49369",
-  "pname": "Launchpad",
-  "pcpe": "cpe:/a:bitovi:launchpad"
+	"vid": "19580",
+	"vname": "Bitovi",
+	"vcpe": "cpe:/:bitovi",
+	"pid": "49369",
+	"pname": "Launchpad",
+	"pcpe": "cpe:/a:bitovi:launchpad"
 }

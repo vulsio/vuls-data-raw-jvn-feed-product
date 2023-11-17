@@ -1,8 +1,8 @@
 {
-  "vid": "19173",
-  "vname": "Micrium",
-  "vcpe": "cpe:/:micrium",
-  "pid": "56914",
-  "pname": "uC/LIB",
-  "pcpe": "cpe:/a:micrium:uc%2flib"
+	"vid": "19173",
+	"vname": "Micrium",
+	"vcpe": "cpe:/:micrium",
+	"pid": "56914",
+	"pname": "uC/LIB",
+	"pcpe": "cpe:/a:micrium:uc%2flib"
 }

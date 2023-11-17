@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "2372",
-  "pname": "BladeSystemCenter",
-  "pcpe": "cpe:/a:nec:bladesystemcenter"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "2372",
+	"pname": "BladeSystemCenter",
+	"pcpe": "cpe:/a:nec:bladesystemcenter"
 }

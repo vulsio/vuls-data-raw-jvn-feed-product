@@ -1,8 +1,8 @@
 {
-  "vid": "18428",
-  "vname": "EasyRobotics",
-  "vcpe": "cpe:/:easyrobotics",
-  "pid": "45396",
-  "pname": "ER-Lite ファームウェア",
-  "pcpe": "cpe:/o:easyrobotics:er-lite_firmware"
+	"vid": "18428",
+	"vname": "EasyRobotics",
+	"vcpe": "cpe:/:easyrobotics",
+	"pid": "45396",
+	"pname": "ER-Lite ファームウェア",
+	"pcpe": "cpe:/o:easyrobotics:er-lite_firmware"
 }

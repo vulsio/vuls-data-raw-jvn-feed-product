@@ -1,8 +1,8 @@
 {
-  "vid": "3831",
-  "vname": "frontbase",
-  "vcpe": "cpe:/:frontbase",
-  "pid": "8236",
-  "pname": "relational database server",
-  "pcpe": "cpe:/a:frontbase:relational_database_server"
+	"vid": "3831",
+	"vname": "frontbase",
+	"vcpe": "cpe:/:frontbase",
+	"pid": "8236",
+	"pname": "relational database server",
+	"pcpe": "cpe:/a:frontbase:relational_database_server"
 }

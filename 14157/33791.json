@@ -1,8 +1,8 @@
 {
-  "vid": "14157",
-  "vname": "日本医師会ＯＲＣＡ管理機構株式会社",
-  "vcpe": "cpe:/:orcamo",
-  "pid": "33791",
-  "pname": "Ubuntu14.04 日医標準レセプトソフト",
-  "pcpe": "cpe:/a:orcamo:ubuntu_14.04_online_receipt_computer_advantage"
+	"vid": "14157",
+	"vname": "日本医師会ＯＲＣＡ管理機構株式会社",
+	"vcpe": "cpe:/:orcamo",
+	"pid": "33791",
+	"pname": "Ubuntu14.04 日医標準レセプトソフト",
+	"pcpe": "cpe:/a:orcamo:ubuntu_14.04_online_receipt_computer_advantage"
 }

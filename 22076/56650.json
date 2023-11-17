@@ -1,8 +1,8 @@
 {
-  "vid": "22076",
-  "vname": "株式会社 セゾン情報システムズ",
-  "vcpe": "cpe:/:misc",
-  "pid": "56650",
-  "pname": "DataSpider Servista",
-  "pcpe": "cpe:/a:misc:saison_information_systems_dataspider_servista"
+	"vid": "22076",
+	"vname": "株式会社 セゾン情報システムズ",
+	"vcpe": "cpe:/:misc",
+	"pid": "56650",
+	"pname": "DataSpider Servista",
+	"pcpe": "cpe:/a:misc:saison_information_systems_dataspider_servista"
 }

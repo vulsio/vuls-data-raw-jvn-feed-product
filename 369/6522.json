@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "6522",
-  "pname": "erwin process modeler",
-  "pcpe": "cpe:/a:ca:erwin_process_modeler"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "6522",
+	"pname": "erwin process modeler",
+	"pcpe": "cpe:/a:ca:erwin_process_modeler"
 }

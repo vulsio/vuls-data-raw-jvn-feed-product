@@ -1,8 +1,8 @@
 {
-  "vid": "9773",
-  "vname": "Yealink",
-  "vcpe": "cpe:/:yealink",
-  "pid": "41103",
-  "pname": "VP59 ファームウェア",
-  "pcpe": "cpe:/o:yealink:vp59_firmware"
+	"vid": "9773",
+	"vname": "Yealink",
+	"vcpe": "cpe:/:yealink",
+	"pid": "41103",
+	"pname": "VP59 ファームウェア",
+	"pcpe": "cpe:/o:yealink:vp59_firmware"
 }

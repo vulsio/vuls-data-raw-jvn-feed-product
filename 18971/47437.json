@@ -1,8 +1,8 @@
 {
-  "vid": "18971",
-  "vname": "QSC, LLC.",
-  "vcpe": "cpe:/:qsc",
-  "pid": "47437",
-  "pname": "Q-SYS Core Manager",
-  "pcpe": "cpe:/a:qsc:q-sys_core_manager"
+	"vid": "18971",
+	"vname": "QSC, LLC.",
+	"vcpe": "cpe:/:qsc",
+	"pid": "47437",
+	"pname": "Q-SYS Core Manager",
+	"pcpe": "cpe:/a:qsc:q-sys_core_manager"
 }

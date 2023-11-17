@@ -1,8 +1,8 @@
 {
-  "vid": "6457",
-  "vname": "Marvell",
-  "vcpe": "cpe:/:marvell",
-  "pid": "42031",
-  "pname": "88W8688 ファームウェア",
-  "pcpe": "cpe:/o:marvell:88w8688_firmware"
+	"vid": "6457",
+	"vname": "Marvell",
+	"vcpe": "cpe:/:marvell",
+	"pid": "42031",
+	"pname": "88W8688 ファームウェア",
+	"pcpe": "cpe:/o:marvell:88w8688_firmware"
 }

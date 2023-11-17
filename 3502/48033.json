@@ -1,8 +1,8 @@
 {
-  "vid": "3502",
-  "vname": "Endian",
-  "vcpe": "cpe:/:endian",
-  "pid": "48033",
-  "pname": "Firewall Community",
-  "pcpe": "cpe:/a:endian:firewall_community"
+	"vid": "3502",
+	"vname": "Endian",
+	"vcpe": "cpe:/:endian",
+	"pid": "48033",
+	"pname": "Firewall Community",
+	"pcpe": "cpe:/a:endian:firewall_community"
 }

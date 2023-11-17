@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "64259",
-  "pname": "exynos ファームウェア",
-  "pcpe": "cpe:/o:samsung:exynos_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "64259",
+	"pname": "exynos ファームウェア",
+	"pcpe": "cpe:/o:samsung:exynos_firmware"
 }

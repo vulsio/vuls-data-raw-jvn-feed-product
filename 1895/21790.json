@@ -1,8 +1,8 @@
 {
-  "vid": "1895",
-  "vname": "エマソン",
-  "vcpe": "cpe:/:emerson",
-  "pid": "21790",
-  "pname": "ROC800L RTU ファームウェア",
-  "pcpe": "cpe:/o:emerson:roc_800l_remote_terminal_unit_firmware"
+	"vid": "1895",
+	"vname": "エマソン",
+	"vcpe": "cpe:/:emerson",
+	"pid": "21790",
+	"pname": "ROC800L RTU ファームウェア",
+	"pcpe": "cpe:/o:emerson:roc_800l_remote_terminal_unit_firmware"
 }

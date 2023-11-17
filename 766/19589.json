@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "19589",
-  "pname": "StruxureWare PowerSCADA Expert",
-  "pcpe": "cpe:/a:schneider_electric:struxureware_powerscada_expert"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "19589",
+	"pname": "StruxureWare PowerSCADA Expert",
+	"pcpe": "cpe:/a:schneider_electric:struxureware_powerscada_expert"
 }

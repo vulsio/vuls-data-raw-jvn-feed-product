@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19949",
-  "pname": "IBM Sterling Order Management",
-  "pcpe": "cpe:/a:ibm:sterling_order_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19949",
+	"pname": "IBM Sterling Order Management",
+	"pcpe": "cpe:/a:ibm:sterling_order_management"
 }

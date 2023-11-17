@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "32766",
-  "pname": "SD 845 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd_845_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "32766",
+	"pname": "SD 845 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd_845_firmware"
 }

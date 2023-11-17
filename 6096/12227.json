@@ -1,8 +1,8 @@
 {
-  "vid": "6096",
-  "vname": "omnistar",
-  "vcpe": "cpe:/:omnistar",
-  "pid": "12227",
-  "pname": "lib2 php library",
-  "pcpe": "cpe:/a:omnistar:lib2_php_library"
+	"vid": "6096",
+	"vname": "omnistar",
+	"vcpe": "cpe:/:omnistar",
+	"pid": "12227",
+	"pname": "lib2 php library",
+	"pcpe": "cpe:/a:omnistar:lib2_php_library"
 }

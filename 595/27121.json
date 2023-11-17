@@ -1,8 +1,8 @@
 {
-  "vid": "595",
-  "vname": "Artifex Software",
-  "vcpe": "cpe:/:artifex",
-  "pid": "27121",
-  "pname": "MuJS",
-  "pcpe": "cpe:/a:artifex:mujs"
+	"vid": "595",
+	"vname": "Artifex Software",
+	"vcpe": "cpe:/:artifex",
+	"pid": "27121",
+	"pname": "MuJS",
+	"pcpe": "cpe:/a:artifex:mujs"
 }

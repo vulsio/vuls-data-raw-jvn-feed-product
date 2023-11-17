@@ -1,8 +1,8 @@
 {
-  "vid": "5640",
-  "vname": "MicroWorld Technologies Inc.",
-  "vcpe": "cpe:/:microworld_technologies",
-  "pid": "11550",
-  "pname": "mailscan",
-  "pcpe": "cpe:/a:microworld_technologies:mailscan"
+	"vid": "5640",
+	"vname": "MicroWorld Technologies Inc.",
+	"vcpe": "cpe:/:microworld_technologies",
+	"pid": "11550",
+	"pname": "mailscan",
+	"pcpe": "cpe:/a:microworld_technologies:mailscan"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10232",
-  "vname": "Bulb Security LLC",
-  "vcpe": "cpe:/:bulb_security",
-  "pid": "21446",
-  "pname": "Smartphone Pentest Framework",
-  "pcpe": "cpe:/a:bulb_security:smartphone_pentest_framework"
+	"vid": "10232",
+	"vname": "Bulb Security LLC",
+	"vcpe": "cpe:/:bulb_security",
+	"pid": "21446",
+	"pname": "Smartphone Pentest Framework",
+	"pcpe": "cpe:/a:bulb_security:smartphone_pentest_framework"
 }

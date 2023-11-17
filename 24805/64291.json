@@ -1,8 +1,8 @@
 {
-  "vid": "24805",
-  "vname": "open cas project",
-  "vcpe": "cpe:/:open_cas_project",
-  "pid": "64291",
-  "pname": "open cas",
-  "pcpe": "cpe:/a:open_cas_project:open_cas"
+	"vid": "24805",
+	"vname": "open cas project",
+	"vcpe": "cpe:/:open_cas_project",
+	"pid": "64291",
+	"pname": "open cas",
+	"pcpe": "cpe:/a:open_cas_project:open_cas"
 }

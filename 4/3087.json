@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3087",
-  "pname": "HP SAN/iQ",
-  "pcpe": "cpe:/a:hp:san%2Fiq"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3087",
+	"pname": "HP SAN/iQ",
+	"pcpe": "cpe:/a:hp:san%2Fiq"
 }

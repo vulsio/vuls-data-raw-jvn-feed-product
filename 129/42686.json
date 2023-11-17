@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "42686",
-  "pname": "Hitachi Ops Center Analyzer viewpoint",
-  "pcpe": "cpe:/a:hitachi:hitachi_ops_center_analyzer_viewpoint"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "42686",
+	"pname": "Hitachi Ops Center Analyzer viewpoint",
+	"pcpe": "cpe:/a:hitachi:hitachi_ops_center_analyzer_viewpoint"
 }

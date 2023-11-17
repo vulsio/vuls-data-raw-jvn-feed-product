@@ -1,8 +1,8 @@
 {
-  "vid": "17543",
-  "vname": "Angular",
-  "vcpe": "cpe:/:angularjs",
-  "pid": "59045",
-  "pname": "angular",
-  "pcpe": "cpe:/a:angularjs:angular"
+	"vid": "17543",
+	"vname": "Angular",
+	"vcpe": "cpe:/:angularjs",
+	"pid": "59045",
+	"pname": "angular",
+	"pcpe": "cpe:/a:angularjs:angular"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21073",
-  "vname": "RANKO",
-  "vcpe": "cpe:/:ranko",
-  "pid": "53900",
-  "pname": "RKCMS",
-  "pcpe": "cpe:/a:ranko:rkcms"
+	"vid": "21073",
+	"vname": "RANKO",
+	"vcpe": "cpe:/:ranko",
+	"pid": "53900",
+	"pname": "RKCMS",
+	"pcpe": "cpe:/a:ranko:rkcms"
 }

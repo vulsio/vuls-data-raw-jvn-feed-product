@@ -1,8 +1,8 @@
 {
-  "vid": "2328",
-  "vname": "ask.com",
-  "vcpe": "cpe:/:ask.com",
-  "pid": "5958",
-  "pname": "ask toolbar",
-  "pcpe": "cpe:/a:ask.com:ask_toolbar"
+	"vid": "2328",
+	"vname": "ask.com",
+	"vcpe": "cpe:/:ask.com",
+	"pid": "5958",
+	"pname": "ask toolbar",
+	"pcpe": "cpe:/a:ask.com:ask_toolbar"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20818",
-  "vname": "Greyware Automation Products, Inc.",
-  "vcpe": "cpe:/:greyware",
-  "pid": "53120",
-  "pname": "Domain Time II",
-  "pcpe": "cpe:/a:greyware:domain_time_ii"
+	"vid": "20818",
+	"vname": "Greyware Automation Products, Inc.",
+	"vcpe": "cpe:/:greyware",
+	"pid": "53120",
+	"pname": "Domain Time II",
+	"pcpe": "cpe:/a:greyware:domain_time_ii"
 }

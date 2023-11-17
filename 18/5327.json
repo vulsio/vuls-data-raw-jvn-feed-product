@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "5327",
-  "pname": "IBM System Storage DS Storage Manager",
-  "pcpe": "cpe:/a:ibm:ds_storage_manager_host_software"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "5327",
+	"pname": "IBM System Storage DS Storage Manager",
+	"pcpe": "cpe:/a:ibm:ds_storage_manager_host_software"
 }

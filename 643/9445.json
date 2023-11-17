@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "9445",
-  "pname": "Crowbar",
-  "pcpe": "cpe:/a:dell:crowbar"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "9445",
+	"pname": "Crowbar",
+	"pcpe": "cpe:/a:dell:crowbar"
 }

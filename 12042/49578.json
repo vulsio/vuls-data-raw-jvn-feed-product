@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "49578",
-  "pname": "Baseboard Management Controller ファームウェア",
-  "pcpe": "cpe:/o:hp:baseboard_management_controller"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "49578",
+	"pname": "Baseboard Management Controller ファームウェア",
+	"pcpe": "cpe:/o:hp:baseboard_management_controller"
 }

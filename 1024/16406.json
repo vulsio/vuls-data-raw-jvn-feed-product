@@ -1,8 +1,8 @@
 {
-  "vid": "1024",
-  "vname": "xt:Commerce",
-  "vcpe": "cpe:/:xt-commerce",
-  "pid": "16406",
-  "pname": "xt-commerce",
-  "pcpe": "cpe:/a:xt-commerce:xt-commerce"
+	"vid": "1024",
+	"vname": "xt:Commerce",
+	"vcpe": "cpe:/:xt-commerce",
+	"pid": "16406",
+	"pname": "xt-commerce",
+	"pcpe": "cpe:/a:xt-commerce:xt-commerce"
 }

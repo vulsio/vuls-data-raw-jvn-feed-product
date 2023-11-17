@@ -1,8 +1,8 @@
 {
-  "vid": "14263",
-  "vname": "Bitmain Technologies Limited",
-  "vcpe": "cpe:/:bitmain",
-  "pid": "33939",
-  "pname": "Antminer L3+ ファームウェア",
-  "pcpe": "cpe:/o:bitmain:antminer_l3%2b_firmware"
+	"vid": "14263",
+	"vname": "Bitmain Technologies Limited",
+	"vcpe": "cpe:/:bitmain",
+	"pid": "33939",
+	"pname": "Antminer L3+ ファームウェア",
+	"pcpe": "cpe:/o:bitmain:antminer_l3%2b_firmware"
 }

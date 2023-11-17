@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17190",
-  "pname": "Cisco UCS Integrated Management Controller",
-  "pcpe": "cpe:/h:cisco:unified_computing_system_integrated_management_controller"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17190",
+	"pname": "Cisco UCS Integrated Management Controller",
+	"pcpe": "cpe:/h:cisco:unified_computing_system_integrated_management_controller"
 }

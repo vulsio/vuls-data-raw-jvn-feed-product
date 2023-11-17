@@ -1,8 +1,8 @@
 {
-  "vid": "9329",
-  "vname": "Sierra Wireless",
-  "vcpe": "cpe:/:sierra_wireless",
-  "pid": "19147",
-  "pname": "Airlink MP Row WiFi",
-  "pcpe": "cpe:/h:sierra_wireless:airlink_mp_row_wifi"
+	"vid": "9329",
+	"vname": "Sierra Wireless",
+	"vcpe": "cpe:/:sierra_wireless",
+	"pid": "19147",
+	"pname": "Airlink MP Row WiFi",
+	"pcpe": "cpe:/h:sierra_wireless:airlink_mp_row_wifi"
 }

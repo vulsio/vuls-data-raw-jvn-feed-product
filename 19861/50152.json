@@ -1,8 +1,8 @@
 {
-  "vid": "19861",
-  "vname": "WEMS Limited",
-  "vcpe": "cpe:/:wems",
-  "pid": "50152",
-  "pname": "Enterprise Manager",
-  "pcpe": "cpe:/a:wems:enterprise_manager"
+	"vid": "19861",
+	"vname": "WEMS Limited",
+	"vcpe": "cpe:/:wems",
+	"pid": "50152",
+	"pname": "Enterprise Manager",
+	"pcpe": "cpe:/a:wems:enterprise_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17023",
-  "vname": "BLAKE2",
-  "vcpe": "cpe:/:blake2",
-  "pid": "40489",
-  "pname": "blake2",
-  "pcpe": "cpe:/a:blake2:blake2"
+	"vid": "17023",
+	"vname": "BLAKE2",
+	"vcpe": "cpe:/:blake2",
+	"pid": "40489",
+	"pname": "blake2",
+	"pcpe": "cpe:/a:blake2:blake2"
 }

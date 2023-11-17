@@ -1,8 +1,8 @@
 {
-  "vid": "10137",
-  "vname": "NQ Mobile",
-  "vcpe": "cpe:/:nq",
-  "pid": "22136",
-  "pname": "antivirus free",
-  "pcpe": "cpe:/a:nq:antivirus_free"
+	"vid": "10137",
+	"vname": "NQ Mobile",
+	"vcpe": "cpe:/:nq",
+	"pid": "22136",
+	"pname": "antivirus free",
+	"pcpe": "cpe:/a:nq:antivirus_free"
 }

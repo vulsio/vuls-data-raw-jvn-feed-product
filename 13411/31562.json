@@ -1,8 +1,8 @@
 {
-  "vid": "13411",
-  "vname": "Zitec",
-  "vcpe": "cpe:/:zitec",
-  "pid": "31562",
-  "pname": "Emag Marketplace Connector",
-  "pcpe": "cpe:/a:zitec:emag_marketplace_connector"
+	"vid": "13411",
+	"vname": "Zitec",
+	"vcpe": "cpe:/:zitec",
+	"pid": "31562",
+	"pname": "Emag Marketplace Connector",
+	"pcpe": "cpe:/a:zitec:emag_marketplace_connector"
 }

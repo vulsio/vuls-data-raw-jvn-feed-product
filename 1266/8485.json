@@ -1,8 +1,8 @@
 {
-  "vid": "1266",
-  "vname": "Gretech",
-  "vcpe": "cpe:/:gomlab",
-  "pid": "8485",
-  "pname": "GOM ENCODER",
-  "pcpe": "cpe:/a:gomlab:gom_encoder"
+	"vid": "1266",
+	"vname": "Gretech",
+	"vcpe": "cpe:/:gomlab",
+	"pid": "8485",
+	"pname": "GOM ENCODER",
+	"pcpe": "cpe:/a:gomlab:gom_encoder"
 }

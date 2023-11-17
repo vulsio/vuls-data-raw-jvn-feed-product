@@ -1,8 +1,8 @@
 {
-  "vid": "9209",
-  "vname": "CollectiveAccess",
-  "vcpe": "cpe:/:collectiveaccess",
-  "pid": "18727",
-  "pname": "Pawtucket",
-  "pcpe": "cpe:/a:collectiveaccess:pawtucket"
+	"vid": "9209",
+	"vname": "CollectiveAccess",
+	"vcpe": "cpe:/:collectiveaccess",
+	"pid": "18727",
+	"pname": "Pawtucket",
+	"pcpe": "cpe:/a:collectiveaccess:pawtucket"
 }

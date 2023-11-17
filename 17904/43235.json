@@ -1,8 +1,8 @@
 {
-  "vid": "17904",
-  "vname": "Dialog Semiconductor",
-  "vcpe": "cpe:/:dialog-semiconductor",
-  "pid": "43235",
-  "pname": "SDK",
-  "pcpe": "cpe:/a:dialog-semiconductor:software_development_kit"
+	"vid": "17904",
+	"vname": "Dialog Semiconductor",
+	"vcpe": "cpe:/:dialog-semiconductor",
+	"pid": "43235",
+	"pname": "SDK",
+	"pcpe": "cpe:/a:dialog-semiconductor:software_development_kit"
 }

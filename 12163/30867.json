@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "30867",
-  "pname": "Config File Provider",
-  "pcpe": "cpe:/a:jenkins:config_file_provider"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "30867",
+	"pname": "Config File Provider",
+	"pcpe": "cpe:/a:jenkins:config_file_provider"
 }

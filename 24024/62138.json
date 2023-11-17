@@ -1,8 +1,8 @@
 {
-  "vid": "24024",
-  "vname": "arvados",
-  "vcpe": "cpe:/:arvados",
-  "pid": "62138",
-  "pname": "arvados",
-  "pcpe": "cpe:/a:arvados:arvados"
+	"vid": "24024",
+	"vname": "arvados",
+	"vcpe": "cpe:/:arvados",
+	"pid": "62138",
+	"pname": "arvados",
+	"pcpe": "cpe:/a:arvados:arvados"
 }

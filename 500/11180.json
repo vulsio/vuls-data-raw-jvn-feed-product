@@ -1,8 +1,8 @@
 {
-  "vid": "500",
-  "vname": "Mambo Foundation",
-  "vcpe": "cpe:/:mambo-foundation",
-  "pid": "11180",
-  "pname": "bigape-backup component",
-  "pcpe": "cpe:/a:mambo-foundation:bigape-backup_component"
+	"vid": "500",
+	"vname": "Mambo Foundation",
+	"vcpe": "cpe:/:mambo-foundation",
+	"pid": "11180",
+	"pname": "bigape-backup component",
+	"pcpe": "cpe:/a:mambo-foundation:bigape-backup_component"
 }

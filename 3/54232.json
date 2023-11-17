@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "54232",
-  "pname": "Red Hat AMQ Online",
-  "pcpe": "cpe:/a:redhat:amq_online"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "54232",
+	"pname": "Red Hat AMQ Online",
+	"pcpe": "cpe:/a:redhat:amq_online"
 }

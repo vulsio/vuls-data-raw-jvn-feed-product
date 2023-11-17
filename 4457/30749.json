@@ -1,8 +1,8 @@
 {
-  "vid": "4457",
-  "vname": "TRENDnet",
-  "vcpe": "cpe:/:trendnet",
-  "pid": "30749",
-  "pname": "TEW-731BR ファームウエア",
-  "pcpe": "cpe:/o:trendnet:tew-731br_firmware"
+	"vid": "4457",
+	"vname": "TRENDnet",
+	"vcpe": "cpe:/:trendnet",
+	"pid": "30749",
+	"pname": "TEW-731BR ファームウエア",
+	"pcpe": "cpe:/o:trendnet:tew-731br_firmware"
 }

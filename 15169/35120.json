@@ -1,8 +1,8 @@
 {
-  "vid": "15169",
-  "vname": "Bgamecoin project",
-  "vcpe": "cpe:/:bgamecoin_project",
-  "pid": "35120",
-  "pname": "Bgamecoin",
-  "pcpe": "cpe:/a:bgamecoin_project:bgamecoin"
+	"vid": "15169",
+	"vname": "Bgamecoin project",
+	"vcpe": "cpe:/:bgamecoin_project",
+	"pid": "35120",
+	"pname": "Bgamecoin",
+	"pcpe": "cpe:/a:bgamecoin_project:bgamecoin"
 }

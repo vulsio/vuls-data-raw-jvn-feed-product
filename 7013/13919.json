@@ -1,8 +1,8 @@
 {
-  "vid": "7013",
-  "vname": "pmapper",
-  "vcpe": "cpe:/:pmapper",
-  "pid": "13919",
-  "pname": "p.mapper",
-  "pcpe": "cpe:/a:pmapper:p.mapper"
+	"vid": "7013",
+	"vname": "pmapper",
+	"vcpe": "cpe:/:pmapper",
+	"pid": "13919",
+	"pname": "p.mapper",
+	"pcpe": "cpe:/a:pmapper:p.mapper"
 }

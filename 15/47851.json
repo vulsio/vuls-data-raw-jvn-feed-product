@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47851",
-  "pname": "Oracle Financials Common Modules",
-  "pcpe": "cpe:/a:oracle:financials_common_modules"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47851",
+	"pname": "Oracle Financials Common Modules",
+	"pcpe": "cpe:/a:oracle:financials_common_modules"
 }

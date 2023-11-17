@@ -1,8 +1,8 @@
 {
-  "vid": "8263",
-  "vname": "vamp webmail",
-  "vcpe": "cpe:/:vamp_webmail",
-  "pid": "15816",
-  "pname": "vamp webmail",
-  "pcpe": "cpe:/a:vamp_webmail:vamp_webmail"
+	"vid": "8263",
+	"vname": "vamp webmail",
+	"vcpe": "cpe:/:vamp_webmail",
+	"pid": "15816",
+	"pname": "vamp webmail",
+	"pcpe": "cpe:/a:vamp_webmail:vamp_webmail"
 }

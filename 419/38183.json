@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "38183",
-  "pname": "element software management node",
-  "pcpe": "cpe:/a:netapp:element_software_management_node"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "38183",
+	"pname": "element software management node",
+	"pcpe": "cpe:/a:netapp:element_software_management_node"
 }

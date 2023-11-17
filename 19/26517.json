@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "26517",
-  "pname": "Cisco Meeting Server",
-  "pcpe": "cpe:/a:cisco:meeting_server"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "26517",
+	"pname": "Cisco Meeting Server",
+	"pcpe": "cpe:/a:cisco:meeting_server"
 }

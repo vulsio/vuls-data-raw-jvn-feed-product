@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4973",
-  "pname": "procurve msm410 access point",
-  "pcpe": "cpe:/h:hp:procurve_msm410_access_point"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4973",
+	"pname": "procurve msm410 access point",
+	"pcpe": "cpe:/h:hp:procurve_msm410_access_point"
 }

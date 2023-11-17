@@ -1,8 +1,8 @@
 {
-  "vid": "1803",
-  "vname": "ARC Informatique",
-  "vcpe": "cpe:/:arcinfo",
-  "pid": "5021",
-  "pname": "FrontVue",
-  "pcpe": "cpe:/a:arcinfo:frontvue"
+	"vid": "1803",
+	"vname": "ARC Informatique",
+	"vcpe": "cpe:/:arcinfo",
+	"pid": "5021",
+	"pname": "FrontVue",
+	"pcpe": "cpe:/a:arcinfo:frontvue"
 }

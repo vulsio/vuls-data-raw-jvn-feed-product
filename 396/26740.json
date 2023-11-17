@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "26740",
-  "pname": "SUSE Package Hub",
-  "pcpe": "cpe:/a:suse:suse_package_hub"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "26740",
+	"pname": "SUSE Package Hub",
+	"pcpe": "cpe:/a:suse:suse_package_hub"
 }

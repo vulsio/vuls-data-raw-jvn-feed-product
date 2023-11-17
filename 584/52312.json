@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "52312",
-  "pname": "DK Standard Ethernet Controller Evaluation Kit ファームウェア",
-  "pcpe": "cpe:/o:siemens:dk_standard_ethernet_controller_evaluation_kit_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "52312",
+	"pname": "DK Standard Ethernet Controller Evaluation Kit ファームウェア",
+	"pcpe": "cpe:/o:siemens:dk_standard_ethernet_controller_evaluation_kit_firmware"
 }

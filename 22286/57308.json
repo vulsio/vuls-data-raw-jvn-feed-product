@@ -1,8 +1,8 @@
 {
-  "vid": "22286",
-  "vname": "Anti-Malware Security and Brute-Force Firewall project",
-  "vcpe": "cpe:/:anti-malware_security_and_brute-force_firewall",
-  "pid": "57308",
-  "pname": "Anti-Malware Security and Brute-Force Firewall",
-  "pcpe": "cpe:/a:anti-malware_security_and_brute-force_firewall:anti-malware_security_and_brute-force_firewall"
+	"vid": "22286",
+	"vname": "Anti-Malware Security and Brute-Force Firewall project",
+	"vcpe": "cpe:/:anti-malware_security_and_brute-force_firewall",
+	"pid": "57308",
+	"pname": "Anti-Malware Security and Brute-Force Firewall",
+	"pcpe": "cpe:/a:anti-malware_security_and_brute-force_firewall:anti-malware_security_and_brute-force_firewall"
 }

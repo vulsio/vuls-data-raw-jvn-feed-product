@@ -1,8 +1,8 @@
 {
-  "vid": "1238",
-  "vname": "IntSig Information",
-  "vcpe": "cpe:/:intsig",
-  "pid": "22535",
-  "pname": "camdictionary",
-  "pcpe": "cpe:/a:intsig:camdictionary"
+	"vid": "1238",
+	"vname": "IntSig Information",
+	"vcpe": "cpe:/:intsig",
+	"pid": "22535",
+	"pname": "camdictionary",
+	"pcpe": "cpe:/a:intsig:camdictionary"
 }

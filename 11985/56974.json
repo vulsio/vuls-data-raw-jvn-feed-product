@@ -1,8 +1,8 @@
 {
-  "vid": "11985",
-  "vname": "ARM Ltd.",
-  "vcpe": "cpe:/:arm",
-  "pid": "56974",
-  "pname": "Cortex-A76AE ファームウェア",
-  "pcpe": "cpe:/o:arm:cortex-a76ae_firmware"
+	"vid": "11985",
+	"vname": "ARM Ltd.",
+	"vcpe": "cpe:/:arm",
+	"pid": "56974",
+	"pname": "Cortex-A76AE ファームウェア",
+	"pcpe": "cpe:/o:arm:cortex-a76ae_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13910",
-  "vname": "2345 Security Guard",
-  "vcpe": "cpe:/:2345_security_guard_project",
-  "pid": "33063",
-  "pname": "2345 Security Guard",
-  "pcpe": "cpe:/a:2345_security_guard_project:2345_security_guard"
+	"vid": "13910",
+	"vname": "2345 Security Guard",
+	"vcpe": "cpe:/:2345_security_guard_project",
+	"pid": "33063",
+	"pname": "2345 Security Guard",
+	"pcpe": "cpe:/a:2345_security_guard_project:2345_security_guard"
 }

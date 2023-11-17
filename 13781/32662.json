@@ -1,8 +1,8 @@
 {
-  "vid": "13781",
-  "vname": "uncurl project",
-  "vcpe": "cpe:/:uncurl_project",
-  "pid": "32662",
-  "pname": "uncurl",
-  "pcpe": "cpe:/a:uncurl_project:uncurl"
+	"vid": "13781",
+	"vname": "uncurl project",
+	"vcpe": "cpe:/:uncurl_project",
+	"pid": "32662",
+	"pname": "uncurl",
+	"pcpe": "cpe:/a:uncurl_project:uncurl"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1732",
-  "pname": "Flickr",
-  "pcpe": "cpe:/a:drupal:flickr_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1732",
+	"pname": "Flickr",
+	"pcpe": "cpe:/a:drupal:flickr_module"
 }

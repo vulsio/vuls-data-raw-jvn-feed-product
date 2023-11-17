@@ -1,8 +1,8 @@
 {
-  "vid": "42",
-  "vname": "OpenBSD",
-  "vcpe": "cpe:/:openbsd",
-  "pid": "20211",
-  "pname": "OpenSMTPD",
-  "pcpe": "cpe:/a:openbsd:opensmtpd"
+	"vid": "42",
+	"vname": "OpenBSD",
+	"vcpe": "cpe:/:openbsd",
+	"pid": "20211",
+	"pname": "OpenSMTPD",
+	"pcpe": "cpe:/a:openbsd:opensmtpd"
 }

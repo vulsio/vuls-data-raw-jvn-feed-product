@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "56962",
-  "pname": "Convertigo Mobile Platform",
-  "pcpe": "cpe:/a:jenkins:convertigo_mobile_platform"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "56962",
+	"pname": "Convertigo Mobile Platform",
+	"pcpe": "cpe:/a:jenkins:convertigo_mobile_platform"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4360",
-  "vname": "ウェブセンス",
-  "vcpe": "cpe:/:websense",
-  "pid": "16098",
-  "pname": "email security",
-  "pcpe": "cpe:/a:websense:email_security"
+	"vid": "4360",
+	"vname": "ウェブセンス",
+	"vcpe": "cpe:/:websense",
+	"pid": "16098",
+	"pname": "email security",
+	"pcpe": "cpe:/a:websense:email_security"
 }

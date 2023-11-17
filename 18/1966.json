@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "1966",
-  "pname": "IBM TXSeries",
-  "pcpe": "cpe:/a:ibm:txseries"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "1966",
+	"pname": "IBM TXSeries",
+	"pcpe": "cpe:/a:ibm:txseries"
 }

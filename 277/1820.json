@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "1820",
-  "pname": "SNC-RX530N",
-  "pcpe": "cpe:/h:sony:sony_network_camera_snc-rx530n"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "1820",
+	"pname": "SNC-RX530N",
+	"pcpe": "cpe:/h:sony:sony_network_camera_snc-rx530n"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "31979",
-  "pname": "Oracle Financial Services Profitability Management",
-  "pcpe": "cpe:/a:oracle:financial_services_profitability_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "31979",
+	"pname": "Oracle Financial Services Profitability Management",
+	"pcpe": "cpe:/a:oracle:financial_services_profitability_management"
 }

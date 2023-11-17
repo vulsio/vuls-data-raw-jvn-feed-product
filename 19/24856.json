@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24856",
-  "pname": "Cisco Prime Collaboration Assurance",
-  "pcpe": "cpe:/a:cisco:prime_collaboration_assurance"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24856",
+	"pname": "Cisco Prime Collaboration Assurance",
+	"pcpe": "cpe:/a:cisco:prime_collaboration_assurance"
 }

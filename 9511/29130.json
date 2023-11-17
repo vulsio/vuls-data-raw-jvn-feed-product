@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "29130",
-  "pname": "DS-2CD4312F-I(S) ファームウェア",
-  "pcpe": "cpe:/o:hikvision:ds-2cd4312f-i%28s%29_firmware"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "29130",
+	"pname": "DS-2CD4312F-I(S) ファームウェア",
+	"pcpe": "cpe:/o:hikvision:ds-2cd4312f-i%28s%29_firmware"
 }

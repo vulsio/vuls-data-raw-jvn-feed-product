@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "30934",
-  "pname": "Deploy to container",
-  "pcpe": "cpe:/a:jenkins:deploy_to_container"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "30934",
+	"pname": "Deploy to container",
+	"pcpe": "cpe:/a:jenkins:deploy_to_container"
 }

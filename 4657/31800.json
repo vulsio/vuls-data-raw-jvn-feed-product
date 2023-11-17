@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31800",
-  "pname": "EC156 ファームウェア",
-  "pcpe": "cpe:/o:huawei:ec156_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31800",
+	"pname": "EC156 ファームウェア",
+	"pcpe": "cpe:/o:huawei:ec156_firmware"
 }

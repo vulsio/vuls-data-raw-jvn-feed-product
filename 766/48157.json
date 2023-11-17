@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "48157",
-  "pname": "PowerSCADA Operation with Advanced Reporting and Dashboards",
-  "pcpe": "cpe:/a:schneider_electric:powerscada_operation_with_advanced_reporting_and_dashboards"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "48157",
+	"pname": "PowerSCADA Operation with Advanced Reporting and Dashboards",
+	"pcpe": "cpe:/a:schneider_electric:powerscada_operation_with_advanced_reporting_and_dashboards"
 }

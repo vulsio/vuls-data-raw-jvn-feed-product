@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "57289",
-  "pname": "Modicon M340 BMXP3420102 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:modicon_m340_bmxp3420102_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "57289",
+	"pname": "Modicon M340 BMXP3420102 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:modicon_m340_bmxp3420102_firmware"
 }

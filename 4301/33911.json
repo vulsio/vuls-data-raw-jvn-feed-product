@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "33911",
-  "pname": "Echo Show ファームウェア",
-  "pcpe": "cpe:/o:amazon:echo_show_firmware"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "33911",
+	"pname": "Echo Show ファームウェア",
+	"pcpe": "cpe:/o:amazon:echo_show_firmware"
 }

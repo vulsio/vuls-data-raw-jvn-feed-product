@@ -1,8 +1,8 @@
 {
-  "vid": "10100",
-  "vname": "SnapOne, Inc.",
-  "vcpe": "cpe:/:snapone",
-  "pid": "21201",
-  "pname": "セキュア+ Mobile AntiVirusのスナップ",
-  "pcpe": "cpe:/a:snapone:snap_secure"
+	"vid": "10100",
+	"vname": "SnapOne, Inc.",
+	"vcpe": "cpe:/:snapone",
+	"pid": "21201",
+	"pname": "セキュア+ Mobile AntiVirusのスナップ",
+	"pcpe": "cpe:/a:snapone:snap_secure"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "1960",
-  "pname": "IBM ENOVIA SmarTeam",
-  "pcpe": "cpe:/a:ibm:enovia_smarteam"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "1960",
+	"pname": "IBM ENOVIA SmarTeam",
+	"pcpe": "cpe:/a:ibm:enovia_smarteam"
 }

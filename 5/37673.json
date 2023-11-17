@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "37673",
-  "pname": "Snapdragon Voice & Music ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:snapdragon_voice_%26_music_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "37673",
+	"pname": "Snapdragon Voice & Music ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:snapdragon_voice_%26_music_firmware"
 }

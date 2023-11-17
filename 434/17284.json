@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "17284",
-  "pname": "EMC Documentum TaskSpace",
-  "pcpe": "cpe:/a:emc:documentum_taskspace"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "17284",
+	"pname": "EMC Documentum TaskSpace",
+	"pcpe": "cpe:/a:emc:documentum_taskspace"
 }

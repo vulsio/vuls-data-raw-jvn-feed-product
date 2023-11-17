@@ -1,8 +1,8 @@
 {
-  "vid": "19602",
-  "vname": "Winmail",
-  "vcpe": "cpe:/:winmail_project",
-  "pid": "49427",
-  "pname": "Winmail",
-  "pcpe": "cpe:/a:winmail_project:winmail"
+	"vid": "19602",
+	"vname": "Winmail",
+	"vcpe": "cpe:/:winmail_project",
+	"pid": "49427",
+	"pname": "Winmail",
+	"pcpe": "cpe:/a:winmail_project:winmail"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14269",
-  "vname": "air-sdk project",
-  "vcpe": "cpe:/:air-sdk_project",
-  "pid": "33947",
-  "pname": "air-sdk",
-  "pcpe": "cpe:/a:air-sdk_project:air-sdk"
+	"vid": "14269",
+	"vname": "air-sdk project",
+	"vcpe": "cpe:/:air-sdk_project",
+	"pid": "33947",
+	"pname": "air-sdk",
+	"pcpe": "cpe:/a:air-sdk_project:air-sdk"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "17769",
-  "pname": "QNX Software Development Platform",
-  "pcpe": "cpe:/a:blackberry:qnx_software_development_platform"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "17769",
+	"pname": "QNX Software Development Platform",
+	"pcpe": "cpe:/a:blackberry:qnx_software_development_platform"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "52511",
-  "pname": "TAP-323-JP-CT-T ファームウェア",
-  "pcpe": "cpe:/o:moxa:tap-323-jp-ct-t_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "52511",
+	"pname": "TAP-323-JP-CT-T ファームウェア",
+	"pcpe": "cpe:/o:moxa:tap-323-jp-ct-t_firmware"
 }

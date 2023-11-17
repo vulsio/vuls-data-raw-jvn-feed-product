@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "38360",
-  "pname": "SIMATIC S7-300FS ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_s7-300fs_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "38360",
+	"pname": "SIMATIC S7-300FS ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_s7-300fs_firmware"
 }

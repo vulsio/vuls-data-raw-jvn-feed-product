@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "45077",
-  "pname": "IBM Aspera High-Speed Transfer Endpoint",
-  "pcpe": "cpe:/a:ibm:aspera_high-speed_transfer_endpoint"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "45077",
+	"pname": "IBM Aspera High-Speed Transfer Endpoint",
+	"pcpe": "cpe:/a:ibm:aspera_high-speed_transfer_endpoint"
 }

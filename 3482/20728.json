@@ -1,8 +1,8 @@
 {
-  "vid": "3482",
-  "vname": "エンバカデロ・テクノロジーズ",
-  "vcpe": "cpe:/:embarcadero",
-  "pid": "20728",
-  "pname": "ER/Studio Data Architect",
-  "pcpe": "cpe:/a:embarcadero:er%2Fstudio_data_architect"
+	"vid": "3482",
+	"vname": "エンバカデロ・テクノロジーズ",
+	"vcpe": "cpe:/:embarcadero",
+	"pid": "20728",
+	"pname": "ER/Studio Data Architect",
+	"pcpe": "cpe:/a:embarcadero:er%2Fstudio_data_architect"
 }

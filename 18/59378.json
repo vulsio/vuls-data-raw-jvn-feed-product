@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "59378",
-  "pname": "IBM Power 9 System AC922 ファームウェア",
-  "pcpe": "cpe:/o:ibm:power_9_ac922_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "59378",
+	"pname": "IBM Power 9 System AC922 ファームウェア",
+	"pcpe": "cpe:/o:ibm:power_9_ac922_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "37368",
-  "pname": "CA Identity Suite Virtual Appliance",
-  "pcpe": "cpe:/a:ca:ca_identity_suite_virtual_appliance"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "37368",
+	"pname": "CA Identity Suite Virtual Appliance",
+	"pcpe": "cpe:/a:ca:ca_identity_suite_virtual_appliance"
 }

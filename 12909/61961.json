@@ -1,8 +1,8 @@
 {
-  "vid": "12909",
-  "vname": "Asuswrt-Merlin firmware project",
-  "vcpe": "cpe:/:asuswrt-merlin_project",
-  "pid": "61961",
-  "pname": "new gen",
-  "pcpe": "cpe:/o:asuswrt-merlin_project:new_gen"
+	"vid": "12909",
+	"vname": "Asuswrt-Merlin firmware project",
+	"vcpe": "cpe:/:asuswrt-merlin_project",
+	"pid": "61961",
+	"pname": "new gen",
+	"pcpe": "cpe:/o:asuswrt-merlin_project:new_gen"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27373",
-  "pname": "ThinkPad Yoga 11e (Broadwell) BIOS",
-  "pcpe": "cpe:/o:lenovo:thinkpad_yoga_11e_broadwell_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27373",
+	"pname": "ThinkPad Yoga 11e (Broadwell) BIOS",
+	"pcpe": "cpe:/o:lenovo:thinkpad_yoga_11e_broadwell_bios"
 }

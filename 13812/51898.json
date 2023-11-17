@@ -1,8 +1,8 @@
 {
-  "vid": "13812",
-  "vname": "eQ-3 AG",
-  "vcpe": "cpe:/:eq-3",
-  "pid": "51898",
-  "pname": "HomeMatic CCU2 ファームウェア",
-  "pcpe": "cpe:/o:eq-3:homematic_ccu2_firmware"
+	"vid": "13812",
+	"vname": "eQ-3 AG",
+	"vcpe": "cpe:/:eq-3",
+	"pid": "51898",
+	"pname": "HomeMatic CCU2 ファームウェア",
+	"pcpe": "cpe:/o:eq-3:homematic_ccu2_firmware"
 }

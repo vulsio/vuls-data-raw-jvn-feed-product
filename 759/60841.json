@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "60841",
-  "pname": "voluson s8 ファームウェア",
-  "pcpe": "cpe:/o:ge:voluson_s8_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "60841",
+	"pname": "voluson s8 ファームウェア",
+	"pcpe": "cpe:/o:ge:voluson_s8_firmware"
 }

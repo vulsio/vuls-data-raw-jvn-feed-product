@@ -1,8 +1,8 @@
 {
-  "vid": "8600",
-  "vname": "xatrix",
-  "vcpe": "cpe:/:xatrix",
-  "pid": "16297",
-  "pname": "xguestbook",
-  "pcpe": "cpe:/a:xatrix:xguestbook"
+	"vid": "8600",
+	"vname": "xatrix",
+	"vcpe": "cpe:/:xatrix",
+	"pid": "16297",
+	"pname": "xguestbook",
+	"pcpe": "cpe:/a:xatrix:xguestbook"
 }

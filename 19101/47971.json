@@ -1,8 +1,8 @@
 {
-  "vid": "19101",
-  "vname": "Hilscher",
-  "vcpe": "cpe:/:hilscher",
-  "pid": "47971",
-  "pname": "PROFINET IO Device ファームウェア",
-  "pcpe": "cpe:/o:hilscher:profinet_io_device_firmware"
+	"vid": "19101",
+	"vname": "Hilscher",
+	"vcpe": "cpe:/:hilscher",
+	"pid": "47971",
+	"pname": "PROFINET IO Device ファームウェア",
+	"pcpe": "cpe:/o:hilscher:profinet_io_device_firmware"
 }

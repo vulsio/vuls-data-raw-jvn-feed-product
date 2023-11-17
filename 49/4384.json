@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "4384",
-  "pname": "groff",
-  "pcpe": "cpe:/a:gnu:groff"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "4384",
+	"pname": "groff",
+	"pcpe": "cpe:/a:gnu:groff"
 }

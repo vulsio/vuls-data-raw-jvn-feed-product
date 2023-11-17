@@ -1,8 +1,8 @@
 {
-  "vid": "23432",
-  "vname": "EditorConfig",
-  "vcpe": "cpe:/:editorconfig",
-  "pid": "60712",
-  "pname": "EditorConfig",
-  "pcpe": "cpe:/a:editorconfig:editorconfig"
+	"vid": "23432",
+	"vname": "EditorConfig",
+	"vcpe": "cpe:/:editorconfig",
+	"pid": "60712",
+	"pname": "EditorConfig",
+	"pcpe": "cpe:/a:editorconfig:editorconfig"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11337",
-  "vname": "Ping Identity",
-  "vcpe": "cpe:/:pingidentity",
-  "pid": "33083",
-  "pname": "UnboundID LDAP SDK for Java",
-  "pcpe": "cpe:/a:pingidentity:ldapsdk"
+	"vid": "11337",
+	"vname": "Ping Identity",
+	"vcpe": "cpe:/:pingidentity",
+	"pid": "33083",
+	"pname": "UnboundID LDAP SDK for Java",
+	"pcpe": "cpe:/a:pingidentity:ldapsdk"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "11521",
-  "pname": "peachtree accounting",
-  "pcpe": "cpe:/a:microsoft:peachtree_accounting"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "11521",
+	"pname": "peachtree accounting",
+	"pcpe": "cpe:/a:microsoft:peachtree_accounting"
 }

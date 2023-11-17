@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "35872",
-  "pname": "SNC-EM600 ファームウェア",
-  "pcpe": "cpe:/o:sony:snc-em600_firmware"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "35872",
+	"pname": "SNC-EM600 ファームウェア",
+	"pcpe": "cpe:/o:sony:snc-em600_firmware"
 }

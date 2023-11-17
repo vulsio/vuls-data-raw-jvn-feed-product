@@ -1,8 +1,8 @@
 {
-  "vid": "10263",
-  "vname": "Etiko",
-  "vcpe": "cpe:/:etiko",
-  "pid": "21498",
-  "pname": "Etiko CMS",
-  "pcpe": "cpe:/a:etiko:etiko_cms"
+	"vid": "10263",
+	"vname": "Etiko",
+	"vcpe": "cpe:/:etiko",
+	"pid": "21498",
+	"pname": "Etiko CMS",
+	"pcpe": "cpe:/a:etiko:etiko_cms"
 }

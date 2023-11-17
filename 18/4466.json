@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4466",
-  "pname": "filenet p8 rendition engine",
-  "pcpe": "cpe:/a:ibm:filenet_p8_rendition_engine"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4466",
+	"pname": "filenet p8 rendition engine",
+	"pcpe": "cpe:/a:ibm:filenet_p8_rendition_engine"
 }

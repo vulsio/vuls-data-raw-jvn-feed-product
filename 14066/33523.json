@@ -1,8 +1,8 @@
 {
-  "vid": "14066",
-  "vname": "REALiX",
-  "vcpe": "cpe:/:hwinfo",
-  "pid": "33523",
-  "pname": "HWiNFO AMD64 Kernel driver",
-  "pcpe": "cpe:/a:hwinfo:amd64_kernel_driver"
+	"vid": "14066",
+	"vname": "REALiX",
+	"vcpe": "cpe:/:hwinfo",
+	"pid": "33523",
+	"pname": "HWiNFO AMD64 Kernel driver",
+	"pcpe": "cpe:/a:hwinfo:amd64_kernel_driver"
 }

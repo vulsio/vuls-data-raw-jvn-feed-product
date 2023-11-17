@@ -1,8 +1,8 @@
 {
-  "vid": "15715",
-  "vname": "TOTOLINK",
-  "vcpe": "cpe:/:totolink",
-  "pid": "62365",
-  "pname": "a3700r ファームウェア",
-  "pcpe": "cpe:/o:totolink:a3700r_firmware"
+	"vid": "15715",
+	"vname": "TOTOLINK",
+	"vcpe": "cpe:/:totolink",
+	"pid": "62365",
+	"pname": "a3700r ファームウェア",
+	"pcpe": "cpe:/o:totolink:a3700r_firmware"
 }

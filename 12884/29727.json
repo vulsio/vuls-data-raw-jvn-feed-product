@@ -1,8 +1,8 @@
 {
-  "vid": "12884",
-  "vname": "oauth2_proxy project",
-  "vcpe": "cpe:/:oauth2_proxy_project",
-  "pid": "29727",
-  "pname": "oauth2_proxy",
-  "pcpe": "cpe:/a:oauth2_proxy_project:oauth2_proxy"
+	"vid": "12884",
+	"vname": "oauth2_proxy project",
+	"vcpe": "cpe:/:oauth2_proxy_project",
+	"pid": "29727",
+	"pname": "oauth2_proxy",
+	"pcpe": "cpe:/a:oauth2_proxy_project:oauth2_proxy"
 }

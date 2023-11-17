@@ -1,8 +1,8 @@
 {
-  "vid": "21986",
-  "vname": "Sealevel Systems, Inc.",
-  "vcpe": "cpe:/:sealevel",
-  "pid": "56446",
-  "pname": "SeaConnect 370W ファームウェア",
-  "pcpe": "cpe:/o:sealevel:seaconnect_370w_firmware"
+	"vid": "21986",
+	"vname": "Sealevel Systems, Inc.",
+	"vcpe": "cpe:/:sealevel",
+	"pid": "56446",
+	"pname": "SeaConnect 370W ファームウェア",
+	"pcpe": "cpe:/o:sealevel:seaconnect_370w_firmware"
 }

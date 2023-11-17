@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "49854",
-  "pname": "Network Orchestrator",
-  "pcpe": "cpe:/a:hp:network_orchestrator"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "49854",
+	"pname": "Network Orchestrator",
+	"pcpe": "cpe:/a:hp:network_orchestrator"
 }

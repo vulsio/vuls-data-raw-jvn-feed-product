@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "17938",
-  "pname": "Juniper FIPS Secure Access 6500",
-  "pcpe": "cpe:/h:juniper:fips_secure_access_6500"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "17938",
+	"pname": "Juniper FIPS Secure Access 6500",
+	"pcpe": "cpe:/h:juniper:fips_secure_access_6500"
 }

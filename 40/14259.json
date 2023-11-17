@@ -1,8 +1,8 @@
 {
-  "vid": "40",
-  "vname": "リアルネットワークス",
-  "vcpe": "cpe:/:realnetworks",
-  "pid": "14259",
-  "pname": "helix dna server",
-  "pcpe": "cpe:/a:realnetworks:helix_dna_server"
+	"vid": "40",
+	"vname": "リアルネットワークス",
+	"vcpe": "cpe:/:realnetworks",
+	"pid": "14259",
+	"pname": "helix dna server",
+	"pcpe": "cpe:/a:realnetworks:helix_dna_server"
 }

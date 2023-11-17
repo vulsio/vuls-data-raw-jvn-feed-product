@@ -1,8 +1,8 @@
 {
-  "vid": "1136",
-  "vname": "Kay Framework",
-  "vcpe": "cpe:/:kay_framework_project",
-  "pid": "3780",
-  "pname": "Kay Framework",
-  "pcpe": "cpe:/a:kay_framework_project:kay_framework"
+	"vid": "1136",
+	"vname": "Kay Framework",
+	"vcpe": "cpe:/:kay_framework_project",
+	"pid": "3780",
+	"pname": "Kay Framework",
+	"pcpe": "cpe:/a:kay_framework_project:kay_framework"
 }

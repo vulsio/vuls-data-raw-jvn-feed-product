@@ -1,8 +1,8 @@
 {
-  "vid": "19948",
-  "vname": "Wayfair",
-  "vcpe": "cpe:/:wayfair",
-  "pid": "50418",
-  "pname": "git-parse",
-  "pcpe": "cpe:/a:wayfair:git-parse"
+	"vid": "19948",
+	"vname": "Wayfair",
+	"vcpe": "cpe:/:wayfair",
+	"pid": "50418",
+	"pname": "git-parse",
+	"pcpe": "cpe:/a:wayfair:git-parse"
 }

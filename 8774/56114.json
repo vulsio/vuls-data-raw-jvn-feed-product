@@ -1,8 +1,8 @@
 {
-  "vid": "8774",
-  "vname": "Sangoma",
-  "vcpe": "cpe:/:sangoma",
-  "pid": "56114",
-  "pname": "voicemail",
-  "pcpe": "cpe:/a:sangoma:voicemail"
+	"vid": "8774",
+	"vname": "Sangoma",
+	"vcpe": "cpe:/:sangoma",
+	"pid": "56114",
+	"pname": "voicemail",
+	"pcpe": "cpe:/a:sangoma:voicemail"
 }

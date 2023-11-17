@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "24908",
-  "pname": "RSA OneStep",
-  "pcpe": "cpe:/a:emc:rsa_onestep"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "24908",
+	"pname": "RSA OneStep",
+	"pcpe": "cpe:/a:emc:rsa_onestep"
 }

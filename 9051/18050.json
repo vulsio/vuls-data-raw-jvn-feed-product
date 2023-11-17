@@ -1,8 +1,8 @@
 {
-  "vid": "9051",
-  "vname": "ヤフー株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "18050",
-  "pname": "Yahoo!ショッピング",
-  "pcpe": "cpe:/a:misc:japan_shopping"
+	"vid": "9051",
+	"vname": "ヤフー株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "18050",
+	"pname": "Yahoo!ショッピング",
+	"pcpe": "cpe:/a:misc:japan_shopping"
 }

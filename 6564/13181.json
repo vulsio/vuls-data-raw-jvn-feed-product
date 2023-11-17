@@ -1,8 +1,8 @@
 {
-  "vid": "6564",
-  "vname": "WING FTP software",
-  "vcpe": "cpe:/:wftpserver",
-  "pid": "13181",
-  "pname": "Wing FTP Server",
-  "pcpe": "cpe:/a:wftpserver:wing_ftp_server"
+	"vid": "6564",
+	"vname": "WING FTP software",
+	"vcpe": "cpe:/:wftpserver",
+	"pid": "13181",
+	"pname": "Wing FTP Server",
+	"pcpe": "cpe:/a:wftpserver:wing_ftp_server"
 }

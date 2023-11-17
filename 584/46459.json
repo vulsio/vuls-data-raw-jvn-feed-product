@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "46459",
-  "pname": "SIMATIC RTLS Locating Manager",
-  "pcpe": "cpe:/a:siemens:simatic_rtls_locating_manager"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "46459",
+	"pname": "SIMATIC RTLS Locating Manager",
+	"pcpe": "cpe:/a:siemens:simatic_rtls_locating_manager"
 }

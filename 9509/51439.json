@@ -1,8 +1,8 @@
 {
-  "vid": "9509",
-  "vname": "SAS",
-  "vcpe": "cpe:/:sas",
-  "pid": "51439",
-  "pname": "SAS Environment Manager",
-  "pcpe": "cpe:/a:sas:environment_manager"
+	"vid": "9509",
+	"vname": "SAS",
+	"vcpe": "cpe:/:sas",
+	"pid": "51439",
+	"pname": "SAS Environment Manager",
+	"pcpe": "cpe:/a:sas:environment_manager"
 }

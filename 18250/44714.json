@@ -1,8 +1,8 @@
 {
-  "vid": "18250",
-  "vname": "Ayision",
-  "vcpe": "cpe:/:ayision",
-  "pid": "44714",
-  "pname": "Ays-WR01 ファームウェア",
-  "pcpe": "cpe:/o:ayision:ays-wr01_firmware"
+	"vid": "18250",
+	"vname": "Ayision",
+	"vcpe": "cpe:/:ayision",
+	"pid": "44714",
+	"pname": "Ays-WR01 ファームウェア",
+	"pcpe": "cpe:/o:ayision:ays-wr01_firmware"
 }

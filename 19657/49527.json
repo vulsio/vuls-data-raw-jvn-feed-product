@@ -1,8 +1,8 @@
 {
-  "vid": "19657",
-  "vname": "FortiLogger",
-  "vcpe": "cpe:/:fortilogger",
-  "pid": "49527",
-  "pname": "FortiLogger",
-  "pcpe": "cpe:/a:fortilogger:fortilogger"
+	"vid": "19657",
+	"vname": "FortiLogger",
+	"vcpe": "cpe:/:fortilogger",
+	"pid": "49527",
+	"pname": "FortiLogger",
+	"pcpe": "cpe:/a:fortilogger:fortilogger"
 }

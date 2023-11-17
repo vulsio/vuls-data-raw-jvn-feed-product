@@ -1,8 +1,8 @@
 {
-  "vid": "7868",
-  "vname": "swapoff",
-  "vcpe": "cpe:/:swapoff",
-  "pid": "15180",
-  "pname": "op",
-  "pcpe": "cpe:/a:swapoff:op"
+	"vid": "7868",
+	"vname": "swapoff",
+	"vcpe": "cpe:/:swapoff",
+	"pid": "15180",
+	"pname": "op",
+	"pcpe": "cpe:/a:swapoff:op"
 }

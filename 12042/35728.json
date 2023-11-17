@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "35728",
-  "pname": "HPE XP Command View",
-  "pcpe": "cpe:/a:hp:xp_command_view"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "35728",
+	"pname": "HPE XP Command View",
+	"pcpe": "cpe:/a:hp:xp_command_view"
 }

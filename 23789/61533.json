@@ -1,8 +1,8 @@
 {
-  "vid": "23789",
-  "vname": "StandaloneTech",
-  "vcpe": "cpe:/:standalonetech",
-  "pid": "61533",
-  "pname": "TeraWallet",
-  "pcpe": "cpe:/a:standalonetech:terawallet"
+	"vid": "23789",
+	"vname": "StandaloneTech",
+	"vcpe": "cpe:/:standalonetech",
+	"pid": "61533",
+	"pname": "TeraWallet",
+	"pcpe": "cpe:/a:standalonetech:terawallet"
 }

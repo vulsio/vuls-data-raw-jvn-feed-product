@@ -1,8 +1,8 @@
 {
-  "vid": "11878",
-  "vname": "YouTube Embed project",
-  "vcpe": "cpe:/:youtube_embed_project",
-  "pid": "24755",
-  "pname": "YouTube Embed",
-  "pcpe": "cpe:/a:youtube_embed_project:youtube_embed"
+	"vid": "11878",
+	"vname": "YouTube Embed project",
+	"vcpe": "cpe:/:youtube_embed_project",
+	"pid": "24755",
+	"pname": "YouTube Embed",
+	"pcpe": "cpe:/a:youtube_embed_project:youtube_embed"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1007",
-  "vname": "DMXReady",
-  "vcpe": "cpe:/:dmxready",
-  "pid": "3572",
-  "pname": "Polling Booth Manager",
-  "pcpe": "cpe:/a:dmxready:polling_booth_manager"
+	"vid": "1007",
+	"vname": "DMXReady",
+	"vcpe": "cpe:/:dmxready",
+	"pid": "3572",
+	"pname": "Polling Booth Manager",
+	"pcpe": "cpe:/a:dmxready:polling_booth_manager"
 }

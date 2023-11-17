@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30363",
-  "pname": "ThinkCentre E75 t/s ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_e75_t%2Fs_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30363",
+	"pname": "ThinkCentre E75 t/s ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_e75_t%2Fs_firmware"
 }

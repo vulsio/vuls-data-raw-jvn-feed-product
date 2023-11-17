@@ -1,8 +1,8 @@
 {
-  "vid": "21377",
-  "vname": "Crypto.org Chain",
-  "vcpe": "cpe:/:crypto",
-  "pid": "54889",
-  "pname": "Ethermint",
-  "pcpe": "cpe:/a:crypto:ethermint"
+	"vid": "21377",
+	"vname": "Crypto.org Chain",
+	"vcpe": "cpe:/:crypto",
+	"pid": "54889",
+	"pname": "Ethermint",
+	"pcpe": "cpe:/a:crypto:ethermint"
 }

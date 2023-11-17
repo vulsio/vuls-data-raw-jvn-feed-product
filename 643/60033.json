@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "60033",
-  "pname": "powerstoreos",
-  "pcpe": "cpe:/o:dell:powerstoreos"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "60033",
+	"pname": "powerstoreos",
+	"pcpe": "cpe:/o:dell:powerstoreos"
 }

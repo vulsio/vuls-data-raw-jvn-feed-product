@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "43009",
-  "pname": "Generic PCL5 Driver",
-  "pcpe": "cpe:/a:ricoh:generic_pcl5_driver"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "43009",
+	"pname": "Generic PCL5 Driver",
+	"pcpe": "cpe:/a:ricoh:generic_pcl5_driver"
 }

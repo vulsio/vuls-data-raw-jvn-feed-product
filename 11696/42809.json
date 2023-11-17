@@ -1,8 +1,8 @@
 {
-  "vid": "11696",
-  "vname": "Valve Corporation",
-  "vcpe": "cpe:/:valve",
-  "pid": "42809",
-  "pname": "Dota 2",
-  "pcpe": "cpe:/a:valve:dota_2"
+	"vid": "11696",
+	"vname": "Valve Corporation",
+	"vcpe": "cpe:/:valve",
+	"pid": "42809",
+	"pname": "Dota 2",
+	"pcpe": "cpe:/a:valve:dota_2"
 }

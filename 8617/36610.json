@@ -1,8 +1,8 @@
 {
-  "vid": "8617",
-  "vname": "Xfce",
-  "vcpe": "cpe:/:xfce",
-  "pid": "36610",
-  "pname": "Thunar",
-  "pcpe": "cpe:/a:xfce:thunar"
+	"vid": "8617",
+	"vname": "Xfce",
+	"vcpe": "cpe:/:xfce",
+	"pid": "36610",
+	"pname": "Thunar",
+	"pcpe": "cpe:/a:xfce:thunar"
 }

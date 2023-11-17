@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3684",
-  "pname": "HP P2000 G3 MSA FC/iSCSI Dual Combo Controller LFF Array System",
-  "pcpe": "cpe:/h:hp:storageworks_p2000_g3_msa_fc%2Fiscsi_dual_combo_controller_lff_array_system"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3684",
+	"pname": "HP P2000 G3 MSA FC/iSCSI Dual Combo Controller LFF Array System",
+	"pcpe": "cpe:/h:hp:storageworks_p2000_g3_msa_fc%2Fiscsi_dual_combo_controller_lff_array_system"
 }

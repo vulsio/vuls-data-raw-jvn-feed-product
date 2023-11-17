@@ -1,8 +1,8 @@
 {
-  "vid": "14243",
-  "vname": "sequelizejs",
-  "vcpe": "cpe:/:sequelizejs",
-  "pid": "33901",
-  "pname": "sequelize",
-  "pcpe": "cpe:/a:sequelizejs:sequelize"
+	"vid": "14243",
+	"vname": "sequelizejs",
+	"vcpe": "cpe:/:sequelizejs",
+	"pid": "33901",
+	"pname": "sequelize",
+	"pcpe": "cpe:/a:sequelizejs:sequelize"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14059",
-  "vname": "uetoken",
-  "vcpe": "cpe:/:uetoken",
-  "pid": "33510",
-  "pname": "Useless Ethereum Token",
-  "pcpe": "cpe:/a:uetoken:useless_ethereum_token"
+	"vid": "14059",
+	"vname": "uetoken",
+	"vcpe": "cpe:/:uetoken",
+	"pid": "33510",
+	"pname": "Useless Ethereum Token",
+	"pcpe": "cpe:/a:uetoken:useless_ethereum_token"
 }

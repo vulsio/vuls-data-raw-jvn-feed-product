@@ -1,8 +1,8 @@
 {
-  "vid": "13940",
-  "vname": "Wire Swiss GmbH",
-  "vcpe": "cpe:/:wire",
-  "pid": "33150",
-  "pname": "Wire",
-  "pcpe": "cpe:/a:wire:wire"
+	"vid": "13940",
+	"vname": "Wire Swiss GmbH",
+	"vcpe": "cpe:/:wire",
+	"pid": "33150",
+	"pname": "Wire",
+	"pcpe": "cpe:/a:wire:wire"
 }

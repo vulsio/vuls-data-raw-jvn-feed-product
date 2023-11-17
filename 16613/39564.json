@@ -1,8 +1,8 @@
 {
-  "vid": "16613",
-  "vname": "ServiceStack",
-  "vcpe": "cpe:/:servicestack",
-  "pid": "39564",
-  "pname": "ServiceStack",
-  "pcpe": "cpe:/a:servicestack:servicestack"
+	"vid": "16613",
+	"vname": "ServiceStack",
+	"vcpe": "cpe:/:servicestack",
+	"pid": "39564",
+	"pname": "ServiceStack",
+	"pcpe": "cpe:/a:servicestack:servicestack"
 }

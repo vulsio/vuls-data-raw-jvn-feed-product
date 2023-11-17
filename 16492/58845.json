@@ -1,8 +1,8 @@
 {
-  "vid": "16492",
-  "vname": "miniOrange",
-  "vcpe": "cpe:/:miniorange",
-  "pid": "58845",
-  "pname": "Google Authenticator",
-  "pcpe": "cpe:/a:miniorange:google_authenticator"
+	"vid": "16492",
+	"vname": "miniOrange",
+	"vcpe": "cpe:/:miniorange",
+	"pid": "58845",
+	"pname": "Google Authenticator",
+	"pcpe": "cpe:/a:miniorange:google_authenticator"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21553",
-  "vname": "Simmeth System GmbH",
-  "vcpe": "cpe:/:simmeth",
-  "pid": "55387",
-  "pname": "Lieferantenmanager",
-  "pcpe": "cpe:/a:simmeth:lieferantenmanager"
+	"vid": "21553",
+	"vname": "Simmeth System GmbH",
+	"vcpe": "cpe:/:simmeth",
+	"pid": "55387",
+	"pname": "Lieferantenmanager",
+	"pcpe": "cpe:/a:simmeth:lieferantenmanager"
 }

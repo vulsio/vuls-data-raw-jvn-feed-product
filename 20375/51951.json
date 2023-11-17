@@ -1,8 +1,8 @@
 {
-  "vid": "20375",
-  "vname": "ticketed_lock project",
-  "vcpe": "cpe:/:ticketed_lock_project",
-  "pid": "51951",
-  "pname": "ticketed_lock",
-  "pcpe": "cpe:/a:ticketed_lock_project:ticketed_lock"
+	"vid": "20375",
+	"vname": "ticketed_lock project",
+	"vcpe": "cpe:/:ticketed_lock_project",
+	"pid": "51951",
+	"pname": "ticketed_lock",
+	"pcpe": "cpe:/a:ticketed_lock_project:ticketed_lock"
 }

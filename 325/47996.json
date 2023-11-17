@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "47996",
-  "pname": "ThinkCentre M90T ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m90t_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "47996",
+	"pname": "ThinkCentre M90T ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m90t_firmware"
 }

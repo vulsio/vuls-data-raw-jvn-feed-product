@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4487",
-  "pname": "Tivoli Integrated Portal",
-  "pcpe": "cpe:/a:ibm:tivoli_integrated_portal"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4487",
+	"pname": "Tivoli Integrated Portal",
+	"pcpe": "cpe:/a:ibm:tivoli_integrated_portal"
 }

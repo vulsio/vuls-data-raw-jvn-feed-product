@@ -1,8 +1,8 @@
 {
-  "vid": "23355",
-  "vname": "GTM4WP",
-  "vcpe": "cpe:/:gtm4wp",
-  "pid": "60564",
-  "pname": "GTM4WP",
-  "pcpe": "cpe:/a:gtm4wp:google_tag_manager"
+	"vid": "23355",
+	"vname": "GTM4WP",
+	"vcpe": "cpe:/:gtm4wp",
+	"pid": "60564",
+	"pname": "GTM4WP",
+	"pcpe": "cpe:/a:gtm4wp:google_tag_manager"
 }

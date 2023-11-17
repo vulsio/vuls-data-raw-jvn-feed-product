@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "8139",
-  "pname": "FortiGuard Antivirus",
-  "pcpe": "cpe:/a:fortinet:fortiguard_antivirus"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "8139",
+	"pname": "FortiGuard Antivirus",
+	"pcpe": "cpe:/a:fortinet:fortiguard_antivirus"
 }

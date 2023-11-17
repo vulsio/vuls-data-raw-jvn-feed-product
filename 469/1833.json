@@ -1,8 +1,8 @@
 {
-  "vid": "469",
-  "vname": "ACME Laboratories",
-  "vcpe": "cpe:/:acme_labs",
-  "pid": "1833",
-  "pname": "thttpd",
-  "pcpe": "cpe:/a:acme_labs:thttpd"
+	"vid": "469",
+	"vname": "ACME Laboratories",
+	"vcpe": "cpe:/:acme_labs",
+	"pid": "1833",
+	"pname": "thttpd",
+	"pcpe": "cpe:/a:acme_labs:thttpd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "27577",
-  "pname": "Cisco Intercloud Fabric",
-  "pcpe": "cpe:/a:cisco:intercloud_fabric"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "27577",
+	"pname": "Cisco Intercloud Fabric",
+	"pcpe": "cpe:/a:cisco:intercloud_fabric"
 }

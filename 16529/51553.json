@@ -1,8 +1,8 @@
 {
-  "vid": "16529",
-  "vname": "Stormshield",
-  "vcpe": "cpe:/:stormshield",
-  "pid": "51553",
-  "pname": "Stormshield Endpoint Security",
-  "pcpe": "cpe:/a:stormshield:endpoint_security"
+	"vid": "16529",
+	"vname": "Stormshield",
+	"vcpe": "cpe:/:stormshield",
+	"pid": "51553",
+	"pname": "Stormshield Endpoint Security",
+	"pcpe": "cpe:/a:stormshield:endpoint_security"
 }

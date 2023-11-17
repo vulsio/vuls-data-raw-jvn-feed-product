@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "5332",
-  "pname": "DS4500 (FAStT900) Storage Server",
-  "pcpe": "cpe:/h:ibm:ds4500"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "5332",
+	"pname": "DS4500 (FAStT900) Storage Server",
+	"pcpe": "cpe:/h:ibm:ds4500"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10603",
-  "vname": "blynk",
-  "vcpe": "cpe:/:blynk",
-  "pid": "40477",
-  "pname": "Blynk-Library",
-  "pcpe": "cpe:/a:blynk:blynk-library"
+	"vid": "10603",
+	"vname": "blynk",
+	"vcpe": "cpe:/:blynk",
+	"pid": "40477",
+	"pname": "Blynk-Library",
+	"pcpe": "cpe:/a:blynk:blynk-library"
 }

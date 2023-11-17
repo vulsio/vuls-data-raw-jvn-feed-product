@@ -1,8 +1,8 @@
 {
-  "vid": "700",
-  "vname": "Cogent Real-Time Systems Inc.",
-  "vcpe": "cpe:/:cogentdatahub",
-  "pid": "3668",
-  "pname": "Cascade DataHub",
-  "pcpe": "cpe:/a:cogentdatahub:cascade_datahub"
+	"vid": "700",
+	"vname": "Cogent Real-Time Systems Inc.",
+	"vcpe": "cpe:/:cogentdatahub",
+	"pid": "3668",
+	"pname": "Cascade DataHub",
+	"pcpe": "cpe:/a:cogentdatahub:cascade_datahub"
 }

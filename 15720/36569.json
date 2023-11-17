@@ -1,8 +1,8 @@
 {
-  "vid": "15720",
-  "vname": "Customer Files Upload project",
-  "vcpe": "cpe:/:customer_files_upload_project",
-  "pid": "36569",
-  "pname": "Customer Files Upload",
-  "pcpe": "cpe:/a:customer_files_upload_project:customer_files_upload"
+	"vid": "15720",
+	"vname": "Customer Files Upload project",
+	"vcpe": "cpe:/:customer_files_upload_project",
+	"pid": "36569",
+	"pname": "Customer Files Upload",
+	"pcpe": "cpe:/a:customer_files_upload_project:customer_files_upload"
 }

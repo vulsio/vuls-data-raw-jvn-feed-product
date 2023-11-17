@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "23852",
-  "pname": "Apache Flex",
-  "pcpe": "cpe:/a:apache:flex"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "23852",
+	"pname": "Apache Flex",
+	"pcpe": "cpe:/a:apache:flex"
 }

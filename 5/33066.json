@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33066",
-  "pname": "SD 205 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd_205_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33066",
+	"pname": "SD 205 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd_205_firmware"
 }

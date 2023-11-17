@@ -1,8 +1,8 @@
 {
-  "vid": "12431",
-  "vname": "Allwinner Technology Co. Ltd.",
-  "vcpe": "cpe:/:allwinner",
-  "pid": "28076",
-  "pname": "Allwinner A64",
-  "pcpe": "cpe:/h:allwinner:a64"
+	"vid": "12431",
+	"vname": "Allwinner Technology Co. Ltd.",
+	"vcpe": "cpe:/:allwinner",
+	"pid": "28076",
+	"pname": "Allwinner A64",
+	"pcpe": "cpe:/h:allwinner:a64"
 }

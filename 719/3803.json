@@ -1,8 +1,8 @@
 {
-  "vid": "719",
-  "vname": "HTC Corporation",
-  "vcpe": "cpe:/:htc",
-  "pid": "3803",
-  "pname": "HTC Sensation Z710e",
-  "pcpe": "cpe:/h:htc:sensation_z710e"
+	"vid": "719",
+	"vname": "HTC Corporation",
+	"vcpe": "cpe:/:htc",
+	"pid": "3803",
+	"pname": "HTC Sensation Z710e",
+	"pcpe": "cpe:/h:htc:sensation_z710e"
 }

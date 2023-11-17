@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "43778",
-  "pname": "SIMATIC S7 1500 CPU 1515-2 PN ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_s7-1500_cpu_1515-2_pn_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "43778",
+	"pname": "SIMATIC S7 1500 CPU 1515-2 PN ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_s7-1500_cpu_1515-2_pn_firmware"
 }

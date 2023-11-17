@@ -1,8 +1,8 @@
 {
-  "vid": "22355",
-  "vname": "MiKa",
-  "vcpe": "cpe:/:hyumika",
-  "pid": "57491",
-  "pname": "OSM - OpenStreetMap",
-  "pcpe": "cpe:/a:hyumika:openstreetmap"
+	"vid": "22355",
+	"vname": "MiKa",
+	"vcpe": "cpe:/:hyumika",
+	"pid": "57491",
+	"pname": "OSM - OpenStreetMap",
+	"pcpe": "cpe:/a:hyumika:openstreetmap"
 }

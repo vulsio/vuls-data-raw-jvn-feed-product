@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "54282",
-  "pname": "EPYC 72f3 ファームウェア",
-  "pcpe": "cpe:/o:amd:epyc_72f3_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "54282",
+	"pname": "EPYC 72f3 ファームウェア",
+	"pcpe": "cpe:/o:amd:epyc_72f3_firmware"
 }

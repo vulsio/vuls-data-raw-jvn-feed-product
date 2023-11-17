@@ -1,8 +1,8 @@
 {
-  "vid": "13164",
-  "vname": "Twitter, Inc.",
-  "vcpe": "cpe:/:twitter",
-  "pid": "42930",
-  "pname": "Secure Headers",
-  "pcpe": "cpe:/a:twitter:secure_headers"
+	"vid": "13164",
+	"vname": "Twitter, Inc.",
+	"vcpe": "cpe:/:twitter",
+	"pid": "42930",
+	"pname": "Secure Headers",
+	"pcpe": "cpe:/a:twitter:secure_headers"
 }

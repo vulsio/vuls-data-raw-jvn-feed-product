@@ -1,8 +1,8 @@
 {
-  "vid": "5695",
-  "vname": "Mitel Networks Corporation",
-  "vcpe": "cpe:/:mitel",
-  "pid": "45691",
-  "pname": "6970 ファームウェア",
-  "pcpe": "cpe:/o:mitel:6970_firmware"
+	"vid": "5695",
+	"vname": "Mitel Networks Corporation",
+	"vcpe": "cpe:/:mitel",
+	"pid": "45691",
+	"pname": "6970 ファームウェア",
+	"pcpe": "cpe:/o:mitel:6970_firmware"
 }

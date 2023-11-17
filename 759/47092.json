@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "47092",
-  "pname": "MU320E ファームウェア",
-  "pcpe": "cpe:/o:ge:mu320e_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "47092",
+	"pname": "MU320E ファームウェア",
+	"pcpe": "cpe:/o:ge:mu320e_firmware"
 }

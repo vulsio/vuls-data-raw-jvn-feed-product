@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "5018",
-  "pname": "RSLogix 5000",
-  "pcpe": "cpe:/a:rockwellautomation:rslogix_5000"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "5018",
+	"pname": "RSLogix 5000",
+	"pcpe": "cpe:/a:rockwellautomation:rslogix_5000"
 }

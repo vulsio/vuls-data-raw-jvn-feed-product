@@ -1,8 +1,8 @@
 {
-  "vid": "2094",
-  "vname": "aida-orga",
-  "vcpe": "cpe:/:aida-orga",
-  "pid": "5614",
-  "pname": "aida-web",
-  "pcpe": "cpe:/a:aida-orga:aida-web"
+	"vid": "2094",
+	"vname": "aida-orga",
+	"vcpe": "cpe:/:aida-orga",
+	"pid": "5614",
+	"pname": "aida-web",
+	"pcpe": "cpe:/a:aida-orga:aida-web"
 }

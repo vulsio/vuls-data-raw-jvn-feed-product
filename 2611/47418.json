@@ -1,8 +1,8 @@
 {
-  "vid": "2611",
-  "vname": "Bouncy Castle",
-  "vcpe": "cpe:/:bouncycastle",
-  "pid": "47418",
-  "pname": "Bouncy Castle FJA",
-  "pcpe": "cpe:/a:bouncycastle:legion-of-the-bouncy-castle-fips-java-api"
+	"vid": "2611",
+	"vname": "Bouncy Castle",
+	"vcpe": "cpe:/:bouncycastle",
+	"pid": "47418",
+	"pname": "Bouncy Castle FJA",
+	"pcpe": "cpe:/a:bouncycastle:legion-of-the-bouncy-castle-fips-java-api"
 }

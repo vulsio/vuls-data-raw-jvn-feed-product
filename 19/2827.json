@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2827",
-  "pname": "Cisco Digital Media Manager",
-  "pcpe": "cpe:/a:cisco:digital_media_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2827",
+	"pname": "Cisco Digital Media Manager",
+	"pcpe": "cpe:/a:cisco:digital_media_manager"
 }

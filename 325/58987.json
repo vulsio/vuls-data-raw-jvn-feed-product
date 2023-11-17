@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58987",
-  "pname": "thinkcentre m90a gen2 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m90a_gen2_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58987",
+	"pname": "thinkcentre m90a gen2 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m90a_gen2_firmware"
 }

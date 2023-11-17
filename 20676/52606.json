@@ -1,8 +1,8 @@
 {
-  "vid": "20676",
-  "vname": "Shenzhen Bluetrum Technology Co., Ltd.",
-  "vcpe": "cpe:/:bluetrum",
-  "pid": "52606",
-  "pname": "BT8896A ファームウェア",
-  "pcpe": "cpe:/o:bluetrum:bt8896a_firmware"
+	"vid": "20676",
+	"vname": "Shenzhen Bluetrum Technology Co., Ltd.",
+	"vcpe": "cpe:/:bluetrum",
+	"pid": "52606",
+	"pname": "BT8896A ファームウェア",
+	"pcpe": "cpe:/o:bluetrum:bt8896a_firmware"
 }

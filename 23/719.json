@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "719",
-  "pname": "Nexland ISB SOHO Firewall Appliance",
-  "pcpe": "cpe:/h:symantec:nexland_isb_soho_firewall_appliance"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "719",
+	"pname": "Nexland ISB SOHO Firewall Appliance",
+	"pcpe": "cpe:/h:symantec:nexland_isb_soho_firewall_appliance"
 }

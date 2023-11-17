@@ -1,8 +1,8 @@
 {
-  "vid": "4697",
-  "vname": "id software",
-  "vcpe": "cpe:/:id_software",
-  "pid": "10047",
-  "pname": "quake 4",
-  "pcpe": "cpe:/a:id_software:quake_4"
+	"vid": "4697",
+	"vname": "id software",
+	"vcpe": "cpe:/:id_software",
+	"pid": "10047",
+	"pname": "quake 4",
+	"pcpe": "cpe:/a:id_software:quake_4"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58600",
-  "pname": "Yoga Slim 7-14ARE05 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:slim_7-14are05_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58600",
+	"pname": "Yoga Slim 7-14ARE05 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:slim_7-14are05_firmware"
 }

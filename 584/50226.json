@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "50226",
-  "pname": "SCALANCE X204 IRT PRO ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_x204_irt_pro_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "50226",
+	"pname": "SCALANCE X204 IRT PRO ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_x204_irt_pro_firmware"
 }

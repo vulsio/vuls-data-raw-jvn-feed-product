@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "44432",
-  "pname": "IBM Maximo Asset Management Scheduler Plus",
-  "pcpe": "cpe:/a:ibm:maximo_asset_management_scheduler_plus"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "44432",
+	"pname": "IBM Maximo Asset Management Scheduler Plus",
+	"pcpe": "cpe:/a:ibm:maximo_asset_management_scheduler_plus"
 }

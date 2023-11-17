@@ -1,8 +1,8 @@
 {
-  "vid": "19827",
-  "vname": "GLSL Linting project",
-  "vcpe": "cpe:/:glsl_linting_project",
-  "pid": "50040",
-  "pname": "GLSL Linting",
-  "pcpe": "cpe:/a:glsl_linting_project:glsl_linting"
+	"vid": "19827",
+	"vname": "GLSL Linting project",
+	"vcpe": "cpe:/:glsl_linting_project",
+	"pid": "50040",
+	"pname": "GLSL Linting",
+	"pcpe": "cpe:/a:glsl_linting_project:glsl_linting"
 }

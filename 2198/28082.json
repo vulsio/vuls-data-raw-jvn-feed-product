@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "28082",
-  "pname": "AMD Phenom 9550 4-Core",
-  "pcpe": "cpe:/h:amd:phenom_9550_4-core"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "28082",
+	"pname": "AMD Phenom 9550 4-Core",
+	"pcpe": "cpe:/h:amd:phenom_9550_4-core"
 }

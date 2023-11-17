@@ -1,8 +1,8 @@
 {
-  "vid": "3661",
-  "vname": "fathsoft",
-  "vcpe": "cpe:/:fathsoft",
-  "pid": "8022",
-  "pname": "fathftp",
-  "pcpe": "cpe:/a:fathsoft:fathftp"
+	"vid": "3661",
+	"vname": "fathsoft",
+	"vcpe": "cpe:/:fathsoft",
+	"pid": "8022",
+	"pname": "fathftp",
+	"pcpe": "cpe:/a:fathsoft:fathftp"
 }

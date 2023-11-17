@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "60409",
-  "pname": "ilc 3xx ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:ilc_3xx_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "60409",
+	"pname": "ilc 3xx ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:ilc_3xx_firmware"
 }

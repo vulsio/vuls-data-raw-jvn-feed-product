@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "27471",
-  "pname": "Intel NUC Kit NUC5CPYH",
-  "pcpe": "cpe:/h:intel:nuc5cpyh"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "27471",
+	"pname": "Intel NUC Kit NUC5CPYH",
+	"pcpe": "cpe:/h:intel:nuc5cpyh"
 }

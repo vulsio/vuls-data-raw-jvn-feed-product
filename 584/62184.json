@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "62184",
-  "pname": "scalance xc206-2g poe eec ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_xc206-2g_poe_eec_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "62184",
+	"pname": "scalance xc206-2g poe eec ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_xc206-2g_poe_eec_firmware"
 }

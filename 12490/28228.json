@@ -1,8 +1,8 @@
 {
-  "vid": "12490",
-  "vname": "OP-TEE",
-  "vcpe": "cpe:/:op-tee",
-  "pid": "28228",
-  "pname": "optee_os",
-  "pcpe": "cpe:/o:op-tee:op-tee_os"
+	"vid": "12490",
+	"vname": "OP-TEE",
+	"vcpe": "cpe:/:op-tee",
+	"pid": "28228",
+	"pname": "optee_os",
+	"pcpe": "cpe:/o:op-tee:op-tee_os"
 }

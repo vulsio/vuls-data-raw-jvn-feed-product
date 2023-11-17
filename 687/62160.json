@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "62160",
-  "pname": "data science - workbench",
-  "pcpe": "cpe:/a:tibco:data_science_-_workbench"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "62160",
+	"pname": "data science - workbench",
+	"pcpe": "cpe:/a:tibco:data_science_-_workbench"
 }

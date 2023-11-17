@@ -1,8 +1,8 @@
 {
-  "vid": "478",
-  "vname": "Hummingbird",
-  "vcpe": "cpe:/:hummingbird",
-  "pid": "9942",
-  "pname": "deployment wizard",
-  "pcpe": "cpe:/a:hummingbird:deployment_wizard"
+	"vid": "478",
+	"vname": "Hummingbird",
+	"vcpe": "cpe:/:hummingbird",
+	"pid": "9942",
+	"pname": "deployment wizard",
+	"pcpe": "cpe:/a:hummingbird:deployment_wizard"
 }

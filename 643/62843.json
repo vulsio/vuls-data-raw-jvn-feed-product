@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "62843",
-  "pname": "inspiron 5620 ファームウェア",
-  "pcpe": "cpe:/o:dell:inspiron_5620_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "62843",
+	"pname": "inspiron 5620 ファームウェア",
+	"pcpe": "cpe:/o:dell:inspiron_5620_firmware"
 }

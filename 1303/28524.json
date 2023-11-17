@@ -1,8 +1,8 @@
 {
-  "vid": "1303",
-  "vname": "Avira",
-  "vcpe": "cpe:/:avira",
-  "pid": "28524",
-  "pname": "Avira Internet Security Suite",
-  "pcpe": "cpe:/a:avira:internet_security_suite"
+	"vid": "1303",
+	"vname": "Avira",
+	"vcpe": "cpe:/:avira",
+	"pid": "28524",
+	"pname": "Avira Internet Security Suite",
+	"pcpe": "cpe:/a:avira:internet_security_suite"
 }

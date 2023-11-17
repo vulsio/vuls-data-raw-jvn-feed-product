@@ -1,8 +1,8 @@
 {
-  "vid": "14789",
-  "vname": "OpenWrt Project",
-  "vcpe": "cpe:/:openwrt",
-  "pid": "36646",
-  "pname": "LEDE",
-  "pcpe": "cpe:/o:openwrt:lede"
+	"vid": "14789",
+	"vname": "OpenWrt Project",
+	"vcpe": "cpe:/:openwrt",
+	"pid": "36646",
+	"pname": "LEDE",
+	"pcpe": "cpe:/o:openwrt:lede"
 }

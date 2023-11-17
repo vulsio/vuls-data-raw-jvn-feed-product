@@ -1,8 +1,8 @@
 {
-  "vid": "16162",
-  "vname": "Puppet",
-  "vcpe": "cpe:/:puppet",
-  "pid": "57831",
-  "pname": "firewall",
-  "pcpe": "cpe:/a:puppet:firewall"
+	"vid": "16162",
+	"vname": "Puppet",
+	"vcpe": "cpe:/:puppet",
+	"pid": "57831",
+	"pname": "firewall",
+	"pcpe": "cpe:/a:puppet:firewall"
 }

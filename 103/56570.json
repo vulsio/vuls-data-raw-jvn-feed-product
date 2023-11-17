@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "56570",
-  "pname": "NVIDIA Tesla",
-  "pcpe": "cpe:/a:nvidia:tesla"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "56570",
+	"pname": "NVIDIA Tesla",
+	"pcpe": "cpe:/a:nvidia:tesla"
 }

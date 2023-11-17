@@ -1,8 +1,8 @@
 {
-  "vid": "22900",
-  "vname": "konga project",
-  "vcpe": "cpe:/:konga_project",
-  "pid": "59032",
-  "pname": "konga",
-  "pcpe": "cpe:/a:konga_project:konga"
+	"vid": "22900",
+	"vname": "konga project",
+	"vcpe": "cpe:/:konga_project",
+	"pid": "59032",
+	"pname": "konga",
+	"pcpe": "cpe:/a:konga_project:konga"
 }

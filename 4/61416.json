@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "61416",
-  "pname": "HP Dragonfly Folio 13.5 inch G3 2-in-1 Notebook PC ファームウェア",
-  "pcpe": "cpe:/o:hp:dragonfly_folio_g3_2-in-1_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "61416",
+	"pname": "HP Dragonfly Folio 13.5 inch G3 2-in-1 Notebook PC ファームウェア",
+	"pcpe": "cpe:/o:hp:dragonfly_folio_g3_2-in-1_firmware"
 }

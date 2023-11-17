@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "19348",
-  "pname": "retrospect client",
-  "pcpe": "cpe:/a:emc:retrospect_client"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "19348",
+	"pname": "retrospect client",
+	"pcpe": "cpe:/a:emc:retrospect_client"
 }

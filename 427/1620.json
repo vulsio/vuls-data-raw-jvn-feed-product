@@ -1,8 +1,8 @@
 {
-  "vid": "427",
-  "vname": "アクレッソ ソフトウェア",
-  "vcpe": "cpe:/:acresso",
-  "pid": "1620",
-  "pname": "InstallShield",
-  "pcpe": "cpe:/a:acresso:installshield"
+	"vid": "427",
+	"vname": "アクレッソ ソフトウェア",
+	"vcpe": "cpe:/:acresso",
+	"pid": "1620",
+	"pname": "InstallShield",
+	"pcpe": "cpe:/a:acresso:installshield"
 }

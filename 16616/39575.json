@@ -1,8 +1,8 @@
 {
-  "vid": "16616",
-  "vname": "Premium Software",
-  "vcpe": "cpe:/:premiumsoftware",
-  "pid": "39575",
-  "pname": "CLEditor",
-  "pcpe": "cpe:/a:premiumsoftware:cleditor"
+	"vid": "16616",
+	"vname": "Premium Software",
+	"vcpe": "cpe:/:premiumsoftware",
+	"pid": "39575",
+	"pname": "CLEditor",
+	"pcpe": "cpe:/a:premiumsoftware:cleditor"
 }

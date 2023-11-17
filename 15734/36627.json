@@ -1,8 +1,8 @@
 {
-  "vid": "15734",
-  "vname": "Opto 22",
-  "vcpe": "cpe:/:opto_22",
-  "pid": "36627",
-  "pname": "PAC Control",
-  "pcpe": "cpe:/a:opto_22:pac_control"
+	"vid": "15734",
+	"vname": "Opto 22",
+	"vcpe": "cpe:/:opto_22",
+	"pid": "36627",
+	"pname": "PAC Control",
+	"pcpe": "cpe:/a:opto_22:pac_control"
 }

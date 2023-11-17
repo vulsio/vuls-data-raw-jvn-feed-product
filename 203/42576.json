@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "42576",
-  "pname": "M C250FWB ファームウェア",
-  "pcpe": "cpe:/o:ricoh:m_c250fwb_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "42576",
+	"pname": "M C250FWB ファームウェア",
+	"pcpe": "cpe:/o:ricoh:m_c250fwb_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13624",
-  "vname": "minizip project",
-  "vcpe": "cpe:/:minizip_project",
-  "pid": "32226",
-  "pname": "minizip",
-  "pcpe": "cpe:/a:minizip_project:minizip"
+	"vid": "13624",
+	"vname": "minizip project",
+	"vcpe": "cpe:/:minizip_project",
+	"pid": "32226",
+	"pname": "minizip",
+	"pcpe": "cpe:/a:minizip_project:minizip"
 }

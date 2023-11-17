@@ -1,8 +1,8 @@
 {
-  "vid": "719",
-  "vname": "HTC Corporation",
-  "vcpe": "cpe:/:htc",
-  "pid": "5125",
-  "pname": "HTC Hero ソフトウェア",
-  "pcpe": "cpe:/a:htc:hero_software"
+	"vid": "719",
+	"vname": "HTC Corporation",
+	"vcpe": "cpe:/:htc",
+	"pid": "5125",
+	"pname": "HTC Hero ソフトウェア",
+	"pcpe": "cpe:/a:htc:hero_software"
 }

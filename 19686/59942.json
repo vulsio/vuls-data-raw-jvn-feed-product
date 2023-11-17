@@ -1,8 +1,8 @@
 {
-  "vid": "19686",
-  "vname": "ChainSafe Systems",
-  "vcpe": "cpe:/:chainsafe",
-  "pid": "59942",
-  "pname": "lodestar",
-  "pcpe": "cpe:/a:chainsafe:lodestar"
+	"vid": "19686",
+	"vname": "ChainSafe Systems",
+	"vcpe": "cpe:/:chainsafe",
+	"pid": "59942",
+	"pname": "lodestar",
+	"pcpe": "cpe:/a:chainsafe:lodestar"
 }

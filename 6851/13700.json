@@ -1,8 +1,8 @@
 {
-  "vid": "6851",
-  "vname": "phpip",
-  "vcpe": "cpe:/:phpip",
-  "pid": "13700",
-  "pname": "phpip management",
-  "pcpe": "cpe:/a:phpip:phpip_management"
+	"vid": "6851",
+	"vname": "phpip",
+	"vcpe": "cpe:/:phpip",
+	"pid": "13700",
+	"pname": "phpip management",
+	"pcpe": "cpe:/a:phpip:phpip_management"
 }

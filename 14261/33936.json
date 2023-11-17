@@ -1,8 +1,8 @@
 {
-  "vid": "14261",
-  "vname": "unicode",
-  "vcpe": "cpe:/:unicode",
-  "pid": "33936",
-  "pname": "unicode-json",
-  "pcpe": "cpe:/a:unicode:unicode-json"
+	"vid": "14261",
+	"vname": "unicode",
+	"vcpe": "cpe:/:unicode",
+	"pid": "33936",
+	"pname": "unicode-json",
+	"pcpe": "cpe:/a:unicode:unicode-json"
 }

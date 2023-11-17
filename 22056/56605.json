@@ -1,8 +1,8 @@
 {
-  "vid": "22056",
-  "vname": "GullsEye",
-  "vcpe": "cpe:/:gullseye",
-  "pid": "56605",
-  "pname": "GullsEye Terminal Operation System",
-  "pcpe": "cpe:/a:gullseye:gullseye_terminal_operating_system"
+	"vid": "22056",
+	"vname": "GullsEye",
+	"vcpe": "cpe:/:gullseye",
+	"pid": "56605",
+	"pname": "GullsEye Terminal Operation System",
+	"pcpe": "cpe:/a:gullseye:gullseye_terminal_operating_system"
 }

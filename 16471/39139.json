@@ -1,8 +1,8 @@
 {
-  "vid": "16471",
-  "vname": "Vera Control, Ltd.",
-  "vcpe": "cpe:/:getvera",
-  "pid": "39139",
-  "pname": "Veralite ファームウェア",
-  "pcpe": "cpe:/o:getvera:veralite_firmware"
+	"vid": "16471",
+	"vname": "Vera Control, Ltd.",
+	"vcpe": "cpe:/:getvera",
+	"pid": "39139",
+	"pname": "Veralite ファームウェア",
+	"pcpe": "cpe:/o:getvera:veralite_firmware"
 }

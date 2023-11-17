@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "31887",
-  "pname": "P-660HW ファームウェア",
-  "pcpe": "cpe:/o:zyxel:p-660hw_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "31887",
+	"pname": "P-660HW ファームウェア",
+	"pcpe": "cpe:/o:zyxel:p-660hw_firmware"
 }

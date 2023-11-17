@@ -1,8 +1,8 @@
 {
-  "vid": "1435",
-  "vname": "The Dojo Foundation",
-  "vcpe": "cpe:/:dojofoundation",
-  "pid": "7414",
-  "pname": "Dojo Toolkit",
-  "pcpe": "cpe:/a:dojofoundation:dojo_toolkit"
+	"vid": "1435",
+	"vname": "The Dojo Foundation",
+	"vcpe": "cpe:/:dojofoundation",
+	"pid": "7414",
+	"pname": "Dojo Toolkit",
+	"pcpe": "cpe:/a:dojofoundation:dojo_toolkit"
 }

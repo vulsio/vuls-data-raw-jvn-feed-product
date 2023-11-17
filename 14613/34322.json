@@ -1,8 +1,8 @@
 {
-  "vid": "14613",
-  "vname": "BCaaS project",
-  "vcpe": "cpe:/:bcaas_project",
-  "pid": "34322",
-  "pname": "BCaaS",
-  "pcpe": "cpe:/a:bcaas_project:bcaas"
+	"vid": "14613",
+	"vname": "BCaaS project",
+	"vcpe": "cpe:/:bcaas_project",
+	"pid": "34322",
+	"pname": "BCaaS",
+	"pcpe": "cpe:/a:bcaas_project:bcaas"
 }

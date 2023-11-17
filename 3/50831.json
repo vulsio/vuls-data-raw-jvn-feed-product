@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "50831",
-  "pname": "SmallRye Config",
-  "pcpe": "cpe:/a:redhat:smallrye_config"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "50831",
+	"pname": "SmallRye Config",
+	"pcpe": "cpe:/a:redhat:smallrye_config"
 }

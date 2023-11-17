@@ -1,8 +1,8 @@
 {
-  "vid": "1448",
-  "vname": "edgetechweb",
-  "vcpe": "cpe:/:edgetechweb",
-  "pid": "4319",
-  "pname": "event registration",
-  "pcpe": "cpe:/a:edgetechweb:event_registration"
+	"vid": "1448",
+	"vname": "edgetechweb",
+	"vcpe": "cpe:/:edgetechweb",
+	"pid": "4319",
+	"pname": "event registration",
+	"pcpe": "cpe:/a:edgetechweb:event_registration"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "7732",
-  "vname": "softwin",
-  "vcpe": "cpe:/:softwin",
-  "pid": "14954",
-  "pname": "bitdefender internet security",
-  "pcpe": "cpe:/a:softwin:bitdefender_internet_security"
+	"vid": "7732",
+	"vname": "softwin",
+	"vcpe": "cpe:/:softwin",
+	"pid": "14954",
+	"pname": "bitdefender internet security",
+	"pcpe": "cpe:/a:softwin:bitdefender_internet_security"
 }

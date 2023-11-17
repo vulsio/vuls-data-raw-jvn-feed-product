@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "9010",
-  "pname": "BIG-IP Global Traffic Manager (GTM)",
-  "pcpe": "cpe:/a:f5:big-ip_global_traffic_manager"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "9010",
+	"pname": "BIG-IP Global Traffic Manager (GTM)",
+	"pcpe": "cpe:/a:f5:big-ip_global_traffic_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18464",
-  "vname": "Dronecode",
-  "vcpe": "cpe:/:dronecode",
-  "pid": "45505",
-  "pname": "Micro Air Vehicle Link protocol",
-  "pcpe": "cpe:/a:dronecode:micro_air_vehicle_link"
+	"vid": "18464",
+	"vname": "Dronecode",
+	"vcpe": "cpe:/:dronecode",
+	"pid": "45505",
+	"pname": "Micro Air Vehicle Link protocol",
+	"pcpe": "cpe:/a:dronecode:micro_air_vehicle_link"
 }

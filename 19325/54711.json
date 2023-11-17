@@ -1,8 +1,8 @@
 {
-  "vid": "19325",
-  "vname": "Dream Report",
-  "vcpe": "cpe:/:dreamreport",
-  "pid": "54711",
-  "pname": "Remote Connector",
-  "pcpe": "cpe:/a:dreamreport:remote_connector"
+	"vid": "19325",
+	"vname": "Dream Report",
+	"vcpe": "cpe:/:dreamreport",
+	"pid": "54711",
+	"pname": "Remote Connector",
+	"pcpe": "cpe:/a:dreamreport:remote_connector"
 }

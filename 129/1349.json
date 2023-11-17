@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1349",
-  "pname": "JP1/ServerConductor/Deployment Manager",
-  "pcpe": "cpe:/a:hitachi:jp1_serverconductor_deployment_manager"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1349",
+	"pname": "JP1/ServerConductor/Deployment Manager",
+	"pcpe": "cpe:/a:hitachi:jp1_serverconductor_deployment_manager"
 }

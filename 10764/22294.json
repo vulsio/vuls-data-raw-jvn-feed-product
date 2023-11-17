@@ -1,8 +1,8 @@
 {
-  "vid": "10764",
-  "vname": "zombie detector project",
-  "vcpe": "cpe:/:zombie_detector_project",
-  "pid": "22294",
-  "pname": "zombie detector",
-  "pcpe": "cpe:/a:zombie_detector_project:zombie_detector"
+	"vid": "10764",
+	"vname": "zombie detector project",
+	"vcpe": "cpe:/:zombie_detector_project",
+	"pid": "22294",
+	"pname": "zombie detector",
+	"pcpe": "cpe:/a:zombie_detector_project:zombie_detector"
 }

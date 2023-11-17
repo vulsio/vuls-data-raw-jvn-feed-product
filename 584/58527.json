@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "58527",
-  "pname": "totally integrated automation portal",
-  "pcpe": "cpe:/a:siemens:totally_integrated_automation_portal"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "58527",
+	"pname": "totally integrated automation portal",
+	"pcpe": "cpe:/a:siemens:totally_integrated_automation_portal"
 }

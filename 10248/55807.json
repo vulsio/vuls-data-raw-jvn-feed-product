@@ -1,8 +1,8 @@
 {
-  "vid": "10248",
-  "vname": "OpenMRS",
-  "vcpe": "cpe:/:openmrs",
-  "pid": "55807",
-  "pname": "Admin UI Module",
-  "pcpe": "cpe:/a:openmrs:admin_ui_module"
+	"vid": "10248",
+	"vname": "OpenMRS",
+	"vcpe": "cpe:/:openmrs",
+	"pid": "55807",
+	"pname": "Admin UI Module",
+	"pcpe": "cpe:/a:openmrs:admin_ui_module"
 }

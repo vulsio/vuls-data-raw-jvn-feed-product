@@ -1,8 +1,8 @@
 {
-  "vid": "12162",
-  "vname": "Alertus Technologies, LLC.",
-  "vcpe": "cpe:/:misc",
-  "pid": "26423",
-  "pname": "Alertus Desktop Notification",
-  "pcpe": "cpe:/a:misc:alertus_alertus_desktop_notification"
+	"vid": "12162",
+	"vname": "Alertus Technologies, LLC.",
+	"vcpe": "cpe:/:misc",
+	"pid": "26423",
+	"pname": "Alertus Desktop Notification",
+	"pcpe": "cpe:/a:misc:alertus_alertus_desktop_notification"
 }

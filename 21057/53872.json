@@ -1,8 +1,8 @@
 {
-  "vid": "21057",
-  "vname": "Anaconda, Inc.",
-  "vcpe": "cpe:/:anaconda",
-  "pid": "53872",
-  "pname": "Dask",
-  "pcpe": "cpe:/a:anaconda:dask"
+	"vid": "21057",
+	"vname": "Anaconda, Inc.",
+	"vcpe": "cpe:/:anaconda",
+	"pid": "53872",
+	"pname": "Dask",
+	"pcpe": "cpe:/a:anaconda:dask"
 }

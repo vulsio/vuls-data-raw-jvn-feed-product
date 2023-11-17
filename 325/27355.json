@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27355",
-  "pname": "ThinkPad Tablet 8 BIOS",
-  "pcpe": "cpe:/o:lenovo:thinkpad_tablet_8_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27355",
+	"pname": "ThinkPad Tablet 8 BIOS",
+	"pcpe": "cpe:/o:lenovo:thinkpad_tablet_8_bios"
 }

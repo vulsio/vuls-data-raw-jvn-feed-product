@@ -1,8 +1,8 @@
 {
-  "vid": "13165",
-  "vname": "Mirion Technologies",
-  "vcpe": "cpe:/:mirion_technologies",
-  "pid": "30713",
-  "pname": "DMC 3000 Transmitter Module ファームウェア",
-  "pcpe": "cpe:/o:mirion_technologies:dmc_3000_firmware"
+	"vid": "13165",
+	"vname": "Mirion Technologies",
+	"vcpe": "cpe:/:mirion_technologies",
+	"pid": "30713",
+	"pname": "DMC 3000 Transmitter Module ファームウェア",
+	"pcpe": "cpe:/o:mirion_technologies:dmc_3000_firmware"
 }

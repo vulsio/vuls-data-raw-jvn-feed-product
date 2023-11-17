@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "60802",
-  "pname": "C2240 ファームウェア",
-  "pcpe": "cpe:/o:lexmark:c2240_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "60802",
+	"pname": "C2240 ファームウェア",
+	"pcpe": "cpe:/o:lexmark:c2240_firmware"
 }

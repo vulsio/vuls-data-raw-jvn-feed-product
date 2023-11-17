@@ -1,8 +1,8 @@
 {
-  "vid": "16258",
-  "vname": "UiPath",
-  "vcpe": "cpe:/:uipath",
-  "pid": "38249",
-  "pname": "UiPath Orchestrator",
-  "pcpe": "cpe:/a:uipath:orchestrator"
+	"vid": "16258",
+	"vname": "UiPath",
+	"vcpe": "cpe:/:uipath",
+	"pid": "38249",
+	"pname": "UiPath Orchestrator",
+	"pcpe": "cpe:/a:uipath:orchestrator"
 }

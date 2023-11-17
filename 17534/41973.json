@@ -1,8 +1,8 @@
 {
-  "vid": "17534",
-  "vname": "Haier",
-  "vcpe": "cpe:/:haier_p10_project",
-  "pid": "41973",
-  "pname": "Haier P10 ファームウェア",
-  "pcpe": "cpe:/o:haier_p10_project:haier_p10_firmware"
+	"vid": "17534",
+	"vname": "Haier",
+	"vcpe": "cpe:/:haier_p10_project",
+	"pid": "41973",
+	"pname": "Haier P10 ファームウェア",
+	"pcpe": "cpe:/o:haier_p10_project:haier_p10_firmware"
 }

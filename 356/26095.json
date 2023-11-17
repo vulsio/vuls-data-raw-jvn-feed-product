@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "26095",
-  "pname": "Nexus 5",
-  "pcpe": "cpe:/h:google:nexus_5"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "26095",
+	"pname": "Nexus 5",
+	"pcpe": "cpe:/h:google:nexus_5"
 }

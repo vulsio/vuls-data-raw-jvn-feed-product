@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "36271",
-  "pname": "LelandP-L22C ファームウェア",
-  "pcpe": "cpe:/o:huawei:lelandp-l22c_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "36271",
+	"pname": "LelandP-L22C ファームウェア",
+	"pcpe": "cpe:/o:huawei:lelandp-l22c_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "3662",
-  "pname": "Automation License Manager",
-  "pcpe": "cpe:/a:siemens:automation_license_manager"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "3662",
+	"pname": "Automation License Manager",
+	"pcpe": "cpe:/a:siemens:automation_license_manager"
 }

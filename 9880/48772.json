@@ -1,8 +1,8 @@
 {
-  "vid": "9880",
-  "vname": "Docker",
-  "vcpe": "cpe:/:docker",
-  "pid": "48772",
-  "pname": "haproxy docker image",
-  "pcpe": "cpe:/a:docker:haproxy_docker_image"
+	"vid": "9880",
+	"vname": "Docker",
+	"vcpe": "cpe:/:docker",
+	"pid": "48772",
+	"pname": "haproxy docker image",
+	"pcpe": "cpe:/a:docker:haproxy_docker_image"
 }

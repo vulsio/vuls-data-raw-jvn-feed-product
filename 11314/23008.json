@@ -1,8 +1,8 @@
 {
-  "vid": "11314",
-  "vname": "ford",
-  "vcpe": "cpe:/:ford",
-  "pid": "23008",
-  "pname": "ford credit account manager",
-  "pcpe": "cpe:/a:ford:ford_credit_account_manager"
+	"vid": "11314",
+	"vname": "ford",
+	"vcpe": "cpe:/:ford",
+	"pid": "23008",
+	"pname": "ford credit account manager",
+	"pcpe": "cpe:/a:ford:ford_credit_account_manager"
 }

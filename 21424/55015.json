@@ -1,8 +1,8 @@
 {
-  "vid": "21424",
-  "vname": "Blackmagic Design",
-  "vcpe": "cpe:/:blackmagicdesign",
-  "pid": "55015",
-  "pname": "DaVinci Resolve",
-  "pcpe": "cpe:/a:blackmagicdesign:davinci_resolve"
+	"vid": "21424",
+	"vname": "Blackmagic Design",
+	"vcpe": "cpe:/:blackmagicdesign",
+	"pid": "55015",
+	"pname": "DaVinci Resolve",
+	"pcpe": "cpe:/a:blackmagicdesign:davinci_resolve"
 }

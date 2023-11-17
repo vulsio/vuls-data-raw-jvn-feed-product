@@ -1,8 +1,8 @@
 {
-  "vid": "15001",
-  "vname": "Bcxss project",
-  "vcpe": "cpe:/:bcxss_project",
-  "pid": "34930",
-  "pname": "Bcxss",
-  "pcpe": "cpe:/a:bcxss_project:bcxss"
+	"vid": "15001",
+	"vname": "Bcxss project",
+	"vcpe": "cpe:/:bcxss_project",
+	"pid": "34930",
+	"pname": "Bcxss",
+	"pcpe": "cpe:/a:bcxss_project:bcxss"
 }

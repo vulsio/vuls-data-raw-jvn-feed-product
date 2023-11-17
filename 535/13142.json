@@ -1,8 +1,8 @@
 {
-  "vid": "535",
-  "vname": "ActiveState Software",
-  "vcpe": "cpe:/:activestate",
-  "pid": "13142",
-  "pname": "ActiveTcl",
-  "pcpe": "cpe:/a:activestate:activetcl"
+	"vid": "535",
+	"vname": "ActiveState Software",
+	"vcpe": "cpe:/:activestate",
+	"pid": "13142",
+	"pname": "ActiveTcl",
+	"pcpe": "cpe:/a:activestate:activetcl"
 }

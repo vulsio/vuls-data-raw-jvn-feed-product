@@ -1,8 +1,8 @@
 {
-  "vid": "21438",
-  "vname": "metrics-util project",
-  "vcpe": "cpe:/:metrics-util_project",
-  "pid": "55052",
-  "pname": "metrics-util",
-  "pcpe": "cpe:/a:metrics-util_project:metrics-util"
+	"vid": "21438",
+	"vname": "metrics-util project",
+	"vcpe": "cpe:/:metrics-util_project",
+	"pid": "55052",
+	"pname": "metrics-util",
+	"pcpe": "cpe:/a:metrics-util_project:metrics-util"
 }

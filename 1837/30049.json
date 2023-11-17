@@ -1,8 +1,8 @@
 {
-  "vid": "1837",
-  "vname": "Quest Software Inc.",
-  "vcpe": "cpe:/:quest",
-  "pid": "30049",
-  "pname": "KACE Systems Management Appliance",
-  "pcpe": "cpe:/a:quest:kace_systems_management_appliance"
+	"vid": "1837",
+	"vname": "Quest Software Inc.",
+	"vcpe": "cpe:/:quest",
+	"pid": "30049",
+	"pname": "KACE Systems Management Appliance",
+	"pcpe": "cpe:/a:quest:kace_systems_management_appliance"
 }

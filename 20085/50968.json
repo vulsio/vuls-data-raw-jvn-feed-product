@@ -1,8 +1,8 @@
 {
-  "vid": "20085",
-  "vname": "Nitro Enclaves project",
-  "vcpe": "cpe:/:nitro_enclaves_project",
-  "pid": "50968",
-  "pname": "Nitro Enclaves",
-  "pcpe": "cpe:/a:nitro_enclaves_project:nitro_enclaves"
+	"vid": "20085",
+	"vname": "Nitro Enclaves project",
+	"vcpe": "cpe:/:nitro_enclaves_project",
+	"pid": "50968",
+	"pname": "Nitro Enclaves",
+	"pcpe": "cpe:/a:nitro_enclaves_project:nitro_enclaves"
 }

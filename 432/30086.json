@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "30086",
-  "pname": "VSN300 WiFi Logger Card for React ファームウェア",
-  "pcpe": "cpe:/o:abb:vsn300_for_react_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "30086",
+	"pname": "VSN300 WiFi Logger Card for React ファームウェア",
+	"pcpe": "cpe:/o:abb:vsn300_for_react_firmware"
 }

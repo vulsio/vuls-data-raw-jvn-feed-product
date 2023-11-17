@@ -1,8 +1,8 @@
 {
-  "vid": "5303",
-  "vname": "libpam-pgsql",
-  "vcpe": "cpe:/:libpam-pgsql",
-  "pid": "10976",
-  "pname": "libpam-pgsql",
-  "pcpe": "cpe:/a:libpam-pgsql:libpam-pgsql"
+	"vid": "5303",
+	"vname": "libpam-pgsql",
+	"vcpe": "cpe:/:libpam-pgsql",
+	"pid": "10976",
+	"pname": "libpam-pgsql",
+	"pcpe": "cpe:/a:libpam-pgsql:libpam-pgsql"
 }

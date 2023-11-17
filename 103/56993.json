@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "56993",
-  "pname": "Omniverse Machinima",
-  "pcpe": "cpe:/a:nvidia:omniverse_machinima"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "56993",
+	"pname": "Omniverse Machinima",
+	"pcpe": "cpe:/a:nvidia:omniverse_machinima"
 }

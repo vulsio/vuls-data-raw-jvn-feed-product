@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "43031",
-  "pname": "SUSE Studio UI Server",
-  "pcpe": "cpe:/a:suse:susestudio-ui-server"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "43031",
+	"pname": "SUSE Studio UI Server",
+	"pcpe": "cpe:/a:suse:susestudio-ui-server"
 }

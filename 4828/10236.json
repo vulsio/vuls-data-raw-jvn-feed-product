@@ -1,8 +1,8 @@
 {
-  "vid": "4828",
-  "vname": "Invision Power Services, Inc",
-  "vcpe": "cpe:/:invision_power_services",
-  "pid": "10236",
-  "pname": "invision community blog",
-  "pcpe": "cpe:/a:invision_power_services:invision_community_blog"
+	"vid": "4828",
+	"vname": "Invision Power Services, Inc",
+	"vcpe": "cpe:/:invision_power_services",
+	"pid": "10236",
+	"pname": "invision community blog",
+	"pcpe": "cpe:/a:invision_power_services:invision_community_blog"
 }

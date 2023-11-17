@@ -1,8 +1,8 @@
 {
-  "vid": "22001",
-  "vname": "sternenblog project",
-  "vcpe": "cpe:/:sternenblog_project",
-  "pid": "56467",
-  "pname": "sternenblog",
-  "pcpe": "cpe:/a:sternenblog_project:sternenblog"
+	"vid": "22001",
+	"vname": "sternenblog project",
+	"vcpe": "cpe:/:sternenblog_project",
+	"pid": "56467",
+	"pname": "sternenblog",
+	"pcpe": "cpe:/a:sternenblog_project:sternenblog"
 }

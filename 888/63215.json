@@ -1,8 +1,8 @@
 {
-  "vid": "888",
-  "vname": "Automattic Inc.",
-  "vcpe": "cpe:/:automattic",
-  "pid": "63215",
-  "pname": "sensei lms",
-  "pcpe": "cpe:/a:automattic:sensei_lms"
+	"vid": "888",
+	"vname": "Automattic Inc.",
+	"vcpe": "cpe:/:automattic",
+	"pid": "63215",
+	"pname": "sensei lms",
+	"pcpe": "cpe:/a:automattic:sensei_lms"
 }

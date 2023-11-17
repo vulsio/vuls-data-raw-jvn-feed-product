@@ -1,8 +1,8 @@
 {
-  "vid": "11620",
-  "vname": "エリクソン",
-  "vcpe": "cpe:/:ericsson",
-  "pid": "53568",
-  "pname": "Operations Support System - Radio and Core ファームウェア",
-  "pcpe": "cpe:/o:ericsson:operations_support_system-radio_and_core_firmware"
+	"vid": "11620",
+	"vname": "エリクソン",
+	"vcpe": "cpe:/:ericsson",
+	"pid": "53568",
+	"pname": "Operations Support System - Radio and Core ファームウェア",
+	"pcpe": "cpe:/o:ericsson:operations_support_system-radio_and_core_firmware"
 }

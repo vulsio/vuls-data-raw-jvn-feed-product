@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "52983",
-  "pname": "SAP NetWeaver Knowledge Management XML Forms",
-  "pcpe": "cpe:/a:sap:netweaver_knowledge_management_xml_forms"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "52983",
+	"pname": "SAP NetWeaver Knowledge Management XML Forms",
+	"pcpe": "cpe:/a:sap:netweaver_knowledge_management_xml_forms"
 }

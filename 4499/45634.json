@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "45634",
-  "pname": "MC Works",
-  "pcpe": "cpe:/a:mitsubishielectric:mc_works"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "45634",
+	"pname": "MC Works",
+	"pcpe": "cpe:/a:mitsubishielectric:mc_works"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15632",
-  "vname": "AudioCodes",
-  "vcpe": "cpe:/:audiocodes",
-  "pid": "37929",
-  "pname": "420HD IP Phone ファームウェア",
-  "pcpe": "cpe:/o:audiocodes:420hd_ip_phone_firmware"
+	"vid": "15632",
+	"vname": "AudioCodes",
+	"vcpe": "cpe:/:audiocodes",
+	"pid": "37929",
+	"pname": "420HD IP Phone ファームウェア",
+	"pcpe": "cpe:/o:audiocodes:420hd_ip_phone_firmware"
 }

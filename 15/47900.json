@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47900",
-  "pname": "RDBMS Sharding",
-  "pcpe": "cpe:/a:oracle:rdbms_sharding"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47900",
+	"pname": "RDBMS Sharding",
+	"pcpe": "cpe:/a:oracle:rdbms_sharding"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16566",
-  "vname": "RingCentral, Inc.",
-  "vcpe": "cpe:/:ringcentral",
-  "pid": "39456",
-  "pname": "RingCentral",
-  "pcpe": "cpe:/a:ringcentral:ringcentral"
+	"vid": "16566",
+	"vname": "RingCentral, Inc.",
+	"vcpe": "cpe:/:ringcentral",
+	"pid": "39456",
+	"pname": "RingCentral",
+	"pcpe": "cpe:/a:ringcentral:ringcentral"
 }

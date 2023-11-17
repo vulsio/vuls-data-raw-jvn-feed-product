@@ -1,8 +1,8 @@
 {
-  "vid": "13150",
-  "vname": "hbgk.net",
-  "vcpe": "cpe:/:hbgk",
-  "pid": "30653",
-  "pname": "HB8004 ファームウェア",
-  "pcpe": "cpe:/o:hbgk:hb8004_firmware"
+	"vid": "13150",
+	"vname": "hbgk.net",
+	"vcpe": "cpe:/:hbgk",
+	"pid": "30653",
+	"pname": "HB8004 ファームウェア",
+	"pcpe": "cpe:/o:hbgk:hb8004_firmware"
 }

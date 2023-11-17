@@ -1,8 +1,8 @@
 {
-  "vid": "9939",
-  "vname": "Cobham plc",
-  "vcpe": "cpe:/:cobham",
-  "pid": "20743",
-  "pname": "EXPLORER BGAN",
-  "pcpe": "cpe:/h:cobham:explorer_bgan"
+	"vid": "9939",
+	"vname": "Cobham plc",
+	"vcpe": "cpe:/:cobham",
+	"pid": "20743",
+	"pname": "EXPLORER BGAN",
+	"pcpe": "cpe:/h:cobham:explorer_bgan"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "41653",
-  "pname": "S4HANA Sales",
-  "pcpe": "cpe:/a:sap:s4hana_sales"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "41653",
+	"pname": "S4HANA Sales",
+	"pcpe": "cpe:/a:sap:s4hana_sales"
 }

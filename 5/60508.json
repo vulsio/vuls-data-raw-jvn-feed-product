@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "60508",
-  "pname": "qcs401 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qcs401_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "60508",
+	"pname": "qcs401 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qcs401_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "23762",
-  "pname": "IBM Tivoli Identity Manager Active Directory アダプター",
-  "pcpe": "cpe:/a:ibm:tivoli_identity_manager_adapter"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "23762",
+	"pname": "IBM Tivoli Identity Manager Active Directory アダプター",
+	"pcpe": "cpe:/a:ibm:tivoli_identity_manager_adapter"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "47381",
-  "pname": "Microsoft Edge Chromium",
-  "pcpe": "cpe:/a:microsoft:edge_chromium"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "47381",
+	"pname": "Microsoft Edge Chromium",
+	"pcpe": "cpe:/a:microsoft:edge_chromium"
 }

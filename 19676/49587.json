@@ -1,8 +1,8 @@
 {
-  "vid": "19676",
-  "vname": "gitlog project",
-  "vcpe": "cpe:/:gitlog_project",
-  "pid": "49587",
-  "pname": "gitlog",
-  "pcpe": "cpe:/a:gitlog_project:gitlog"
+	"vid": "19676",
+	"vname": "gitlog project",
+	"vcpe": "cpe:/:gitlog_project",
+	"pid": "49587",
+	"pname": "gitlog",
+	"pcpe": "cpe:/a:gitlog_project:gitlog"
 }

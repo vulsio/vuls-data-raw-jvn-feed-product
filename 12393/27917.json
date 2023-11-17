@@ -1,8 +1,8 @@
 {
-  "vid": "12393",
-  "vname": "Mobile App Native project",
-  "vcpe": "cpe:/:mobile_app_builder",
-  "pid": "27917",
-  "pname": "Mobile App Native",
-  "pcpe": "cpe:/a:mobile_app_builder:mobile_app_builder_plugin"
+	"vid": "12393",
+	"vname": "Mobile App Native project",
+	"vcpe": "cpe:/:mobile_app_builder",
+	"pid": "27917",
+	"pname": "Mobile App Native",
+	"pcpe": "cpe:/a:mobile_app_builder:mobile_app_builder_plugin"
 }

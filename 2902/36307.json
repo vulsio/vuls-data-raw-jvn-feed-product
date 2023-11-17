@@ -1,8 +1,8 @@
 {
-  "vid": "2902",
-  "vname": "Subsonic AS",
-  "vcpe": "cpe:/:subsonic",
-  "pid": "36307",
-  "pname": "Music Streamer",
-  "pcpe": "cpe:/a:subsonic:music_streamer"
+	"vid": "2902",
+	"vname": "Subsonic AS",
+	"vcpe": "cpe:/:subsonic",
+	"pid": "36307",
+	"pname": "Music Streamer",
+	"pcpe": "cpe:/a:subsonic:music_streamer"
 }

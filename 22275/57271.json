@@ -1,8 +1,8 @@
 {
-  "vid": "22275",
-  "vname": "Sewio",
-  "vcpe": "cpe:/:sewio",
-  "pid": "57271",
-  "pname": "RTLS Studio",
-  "pcpe": "cpe:/a:sewio:real-time_location_system_studio"
+	"vid": "22275",
+	"vname": "Sewio",
+	"vcpe": "cpe:/:sewio",
+	"pid": "57271",
+	"pname": "RTLS Studio",
+	"pcpe": "cpe:/a:sewio:real-time_location_system_studio"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14801",
-  "vname": "AIChain project",
-  "vcpe": "cpe:/:aichain_project",
-  "pid": "34662",
-  "pname": "AIChain",
-  "pcpe": "cpe:/a:aichain_project:aichain"
+	"vid": "14801",
+	"vname": "AIChain project",
+	"vcpe": "cpe:/:aichain_project",
+	"pid": "34662",
+	"pname": "AIChain",
+	"pcpe": "cpe:/a:aichain_project:aichain"
 }

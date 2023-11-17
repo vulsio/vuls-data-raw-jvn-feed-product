@@ -1,8 +1,8 @@
 {
-  "vid": "23107",
-  "vname": "ShortPixel",
-  "vcpe": "cpe:/:shortpixel",
-  "pid": "59827",
-  "pname": "ShortPixel Adaptive Images",
-  "pcpe": "cpe:/a:shortpixel:shortpixel_adaptive_images"
+	"vid": "23107",
+	"vname": "ShortPixel",
+	"vcpe": "cpe:/:shortpixel",
+	"pid": "59827",
+	"pname": "ShortPixel Adaptive Images",
+	"pcpe": "cpe:/a:shortpixel:shortpixel_adaptive_images"
 }

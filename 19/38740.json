@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38740",
-  "pname": "Cisco Small Business ESW2 シリーズ マネージド スイッチ ファームウェア",
-  "pcpe": "cpe:/o:cisco:esw2_series_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38740",
+	"pname": "Cisco Small Business ESW2 シリーズ マネージド スイッチ ファームウェア",
+	"pcpe": "cpe:/o:cisco:esw2_series_firmware"
 }

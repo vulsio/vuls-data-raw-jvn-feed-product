@@ -1,8 +1,8 @@
 {
-  "vid": "9329",
-  "vname": "Sierra Wireless",
-  "vcpe": "cpe:/:sierra_wireless",
-  "pid": "19149",
-  "pname": "Airlink MP Sprint WiFi",
-  "pcpe": "cpe:/h:sierra_wireless:airlink_mp_sprint_wifi"
+	"vid": "9329",
+	"vname": "Sierra Wireless",
+	"vcpe": "cpe:/:sierra_wireless",
+	"pid": "19149",
+	"pname": "Airlink MP Sprint WiFi",
+	"pcpe": "cpe:/h:sierra_wireless:airlink_mp_sprint_wifi"
 }

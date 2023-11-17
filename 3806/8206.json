@@ -1,8 +1,8 @@
 {
-  "vid": "3806",
-  "vname": "freeguppy",
-  "vcpe": "cpe:/:freeguppy",
-  "pid": "8206",
-  "pname": "guppy",
-  "pcpe": "cpe:/a:freeguppy:guppy"
+	"vid": "3806",
+	"vname": "freeguppy",
+	"vcpe": "cpe:/:freeguppy",
+	"pid": "8206",
+	"pname": "guppy",
+	"pcpe": "cpe:/a:freeguppy:guppy"
 }

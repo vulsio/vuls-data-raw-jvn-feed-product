@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "45906",
-  "pname": "ウイルス対策ツールキット (ATTK)",
-  "pcpe": "cpe:/a:trendmicro:antivirus_toolkit"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "45906",
+	"pname": "ウイルス対策ツールキット (ATTK)",
+	"pcpe": "cpe:/a:trendmicro:antivirus_toolkit"
 }

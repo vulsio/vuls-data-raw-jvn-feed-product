@@ -1,8 +1,8 @@
 {
-  "vid": "13116",
-  "vname": "株式会社日立ソリューションズ",
-  "vcpe": "cpe:/:hitachi-solutions",
-  "pid": "30560",
-  "pname": "秘文 機密ファイルビューア",
-  "pcpe": "cpe:/a:hitachi-solutions:confidential_file_viewer"
+	"vid": "13116",
+	"vname": "株式会社日立ソリューションズ",
+	"vcpe": "cpe:/:hitachi-solutions",
+	"pid": "30560",
+	"pname": "秘文 機密ファイルビューア",
+	"pcpe": "cpe:/a:hitachi-solutions:confidential_file_viewer"
 }

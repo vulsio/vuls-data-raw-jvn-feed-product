@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47816",
-  "pname": "Oracle E-Business Tax",
-  "pcpe": "cpe:/a:oracle:e-business_tax"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47816",
+	"pname": "Oracle E-Business Tax",
+	"pcpe": "cpe:/a:oracle:e-business_tax"
 }

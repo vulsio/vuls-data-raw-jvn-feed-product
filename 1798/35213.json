@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "35213",
-  "pname": "Universal Search",
-  "pcpe": "cpe:/a:synology:universal_search"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "35213",
+	"pname": "Universal Search",
+	"pcpe": "cpe:/a:synology:universal_search"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "51627",
-  "pname": "Atom C2508",
-  "pcpe": "cpe:/h:intel:atom_c2508"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "51627",
+	"pname": "Atom C2508",
+	"pcpe": "cpe:/h:intel:atom_c2508"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3707",
-  "vname": "firmchannel",
-  "vcpe": "cpe:/:firmchannel",
-  "pid": "8078",
-  "pname": "digital signage",
-  "pcpe": "cpe:/a:firmchannel:digital_signage"
+	"vid": "3707",
+	"vname": "firmchannel",
+	"vcpe": "cpe:/:firmchannel",
+	"pid": "8078",
+	"pname": "digital signage",
+	"pcpe": "cpe:/a:firmchannel:digital_signage"
 }

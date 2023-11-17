@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "63898",
-  "pname": "backstage plugin-catalog-backend",
-  "pcpe": "cpe:/a:linuxfoundation:backstage_plugin-catalog-backend"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "63898",
+	"pname": "backstage plugin-catalog-backend",
+	"pcpe": "cpe:/a:linuxfoundation:backstage_plugin-catalog-backend"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8094",
-  "vname": "torrenttrader",
-  "vcpe": "cpe:/:torrenttrader",
-  "pid": "15517",
-  "pname": "torrenttrader classic",
-  "pcpe": "cpe:/a:torrenttrader:torrenttrader_classic"
+	"vid": "8094",
+	"vname": "torrenttrader",
+	"vcpe": "cpe:/:torrenttrader",
+	"pid": "15517",
+	"pname": "torrenttrader classic",
+	"pcpe": "cpe:/a:torrenttrader:torrenttrader_classic"
 }

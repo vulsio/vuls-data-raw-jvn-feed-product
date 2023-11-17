@@ -1,8 +1,8 @@
 {
-  "vid": "5441",
-  "vname": "mailsite",
-  "vcpe": "cpe:/:mailsite",
-  "pid": "11164",
-  "pname": "mailsite",
-  "pcpe": "cpe:/a:mailsite:mailsite"
+	"vid": "5441",
+	"vname": "mailsite",
+	"vcpe": "cpe:/:mailsite",
+	"pid": "11164",
+	"pname": "mailsite",
+	"pcpe": "cpe:/a:mailsite:mailsite"
 }

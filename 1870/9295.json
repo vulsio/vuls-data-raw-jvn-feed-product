@@ -1,8 +1,8 @@
 {
-  "vid": "1870",
-  "vname": "The OTR Development Team",
-  "vcpe": "cpe:/:cypherpunks",
-  "pid": "9295",
-  "pname": "libotr",
-  "pcpe": "cpe:/a:cypherpunks:libotr"
+	"vid": "1870",
+	"vname": "The OTR Development Team",
+	"vcpe": "cpe:/:cypherpunks",
+	"pid": "9295",
+	"pname": "libotr",
+	"pcpe": "cpe:/a:cypherpunks:libotr"
 }

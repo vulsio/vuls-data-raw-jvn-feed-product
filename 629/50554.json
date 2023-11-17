@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "50554",
-  "pname": "NPort IA5450A シリーズファームウェア",
-  "pcpe": "cpe:/o:moxa:nport_ia5450a_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "50554",
+	"pname": "NPort IA5450A シリーズファームウェア",
+	"pcpe": "cpe:/o:moxa:nport_ia5450a_firmware"
 }

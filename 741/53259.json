@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "53259",
-  "pname": "DIR-X1560 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dir-x1560_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "53259",
+	"pname": "DIR-X1560 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dir-x1560_firmware"
 }

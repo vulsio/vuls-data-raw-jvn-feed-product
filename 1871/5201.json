@@ -1,8 +1,8 @@
 {
-  "vid": "1871",
-  "vname": "tornadoweb",
-  "vcpe": "cpe:/:tornadoweb",
-  "pid": "5201",
-  "pname": "Tornado",
-  "pcpe": "cpe:/a:tornadoweb:tornado"
+	"vid": "1871",
+	"vname": "tornadoweb",
+	"vcpe": "cpe:/:tornadoweb",
+	"pid": "5201",
+	"pname": "Tornado",
+	"pcpe": "cpe:/a:tornadoweb:tornado"
 }

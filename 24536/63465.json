@@ -1,8 +1,8 @@
 {
-  "vid": "24536",
-  "vname": "wp taxonomy import project",
-  "vcpe": "cpe:/:wp_taxonomy_import_project",
-  "pid": "63465",
-  "pname": "wp taxonomy import",
-  "pcpe": "cpe:/a:wp_taxonomy_import_project:wp_taxonomy_import"
+	"vid": "24536",
+	"vname": "wp taxonomy import project",
+	"vcpe": "cpe:/:wp_taxonomy_import_project",
+	"pid": "63465",
+	"pname": "wp taxonomy import",
+	"pcpe": "cpe:/a:wp_taxonomy_import_project:wp_taxonomy_import"
 }

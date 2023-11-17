@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "25351",
-  "pname": "eSpace 7910 ファームウェア",
-  "pcpe": "cpe:/a:huawei:espace_7910"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "25351",
+	"pname": "eSpace 7910 ファームウェア",
+	"pcpe": "cpe:/a:huawei:espace_7910"
 }

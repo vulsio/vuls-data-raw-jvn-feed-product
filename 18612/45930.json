@@ -1,8 +1,8 @@
 {
-  "vid": "18612",
-  "vname": "Fieldcomm Group",
-  "vcpe": "cpe:/:misc",
-  "pid": "45930",
-  "pname": "HARP-IP Developer kit",
-  "pcpe": "cpe:/a:misc:fieldcom_group_harp-ip_developer_kit"
+	"vid": "18612",
+	"vname": "Fieldcomm Group",
+	"vcpe": "cpe:/:misc",
+	"pid": "45930",
+	"pname": "HARP-IP Developer kit",
+	"pcpe": "cpe:/a:misc:fieldcom_group_harp-ip_developer_kit"
 }

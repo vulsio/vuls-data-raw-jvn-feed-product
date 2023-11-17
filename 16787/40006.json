@@ -1,8 +1,8 @@
 {
-  "vid": "16787",
-  "vname": "SmokeSignal project",
-  "vcpe": "cpe:/:smokesignal_project",
-  "pid": "40006",
-  "pname": "SmokeSignal",
-  "pcpe": "cpe:/a:smokesignal_project:smokesignal"
+	"vid": "16787",
+	"vname": "SmokeSignal project",
+	"vcpe": "cpe:/:smokesignal_project",
+	"pid": "40006",
+	"pname": "SmokeSignal",
+	"pcpe": "cpe:/a:smokesignal_project:smokesignal"
 }

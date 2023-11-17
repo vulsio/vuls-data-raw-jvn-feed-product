@@ -1,8 +1,8 @@
 {
-  "vid": "4079",
-  "vname": "gscripts",
-  "vcpe": "cpe:/:gscripts",
-  "pid": "8568",
-  "pname": "dns tools",
-  "pcpe": "cpe:/a:gscripts:dns_tools"
+	"vid": "4079",
+	"vname": "gscripts",
+	"vcpe": "cpe:/:gscripts",
+	"pid": "8568",
+	"pname": "dns tools",
+	"pcpe": "cpe:/a:gscripts:dns_tools"
 }

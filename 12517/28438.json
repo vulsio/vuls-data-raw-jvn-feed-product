@@ -1,8 +1,8 @@
 {
-  "vid": "12517",
-  "vname": "Aura Equipements",
-  "vcpe": "cpe:/:easycom-aura",
-  "pid": "28438",
-  "pname": "Easycom For PHP",
-  "pcpe": "cpe:/a:easycom-aura:easycom_for_php"
+	"vid": "12517",
+	"vname": "Aura Equipements",
+	"vcpe": "cpe:/:easycom-aura",
+	"pid": "28438",
+	"pname": "Easycom For PHP",
+	"pcpe": "cpe:/a:easycom-aura:easycom_for_php"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63479",
-  "pname": "HP EliteOne 800 G2 23-inch Touch/Non-Touch All-in-One PC ファームウェア",
-  "pcpe": "cpe:/o:hp:eliteone_800_g2_aio_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63479",
+	"pname": "HP EliteOne 800 G2 23-inch Touch/Non-Touch All-in-One PC ファームウェア",
+	"pcpe": "cpe:/o:hp:eliteone_800_g2_aio_firmware"
 }

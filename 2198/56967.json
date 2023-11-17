@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "56967",
-  "pname": "RenoirPI-FP6 ファームウェア",
-  "pcpe": "cpe:/o:amd:renoirpi-fp6_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "56967",
+	"pname": "RenoirPI-FP6 ファームウェア",
+	"pcpe": "cpe:/o:amd:renoirpi-fp6_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11334",
-  "vname": "mybroadband",
-  "vcpe": "cpe:/:mybroadband",
-  "pid": "23035",
-  "pname": "mybroadband tapatalk",
-  "pcpe": "cpe:/a:mybroadband:mybroadband_tapatalk"
+	"vid": "11334",
+	"vname": "mybroadband",
+	"vcpe": "cpe:/:mybroadband",
+	"pid": "23035",
+	"pname": "mybroadband tapatalk",
+	"pcpe": "cpe:/a:mybroadband:mybroadband_tapatalk"
 }

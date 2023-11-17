@@ -1,8 +1,8 @@
 {
-  "vid": "16835",
-  "vname": "status board project",
-  "vcpe": "cpe:/:status_board_project",
-  "pid": "40085",
-  "pname": "status board",
-  "pcpe": "cpe:/a:status_board_project:status_board"
+	"vid": "16835",
+	"vname": "status board project",
+	"vcpe": "cpe:/:status_board_project",
+	"pid": "40085",
+	"pname": "status board",
+	"pcpe": "cpe:/a:status_board_project:status_board"
 }

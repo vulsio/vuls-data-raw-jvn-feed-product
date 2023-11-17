@@ -1,8 +1,8 @@
 {
-  "vid": "13025",
-  "vname": "NXP Semiconductors",
-  "vcpe": "cpe:/:nxp",
-  "pid": "50528",
-  "pname": "LPC55S26 ファームウェア",
-  "pcpe": "cpe:/o:nxp:lpc55s26_firmware"
+	"vid": "13025",
+	"vname": "NXP Semiconductors",
+	"vcpe": "cpe:/:nxp",
+	"pid": "50528",
+	"pname": "LPC55S26 ファームウェア",
+	"pcpe": "cpe:/o:nxp:lpc55s26_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9967",
-  "vname": "Shenzhen Tenda Technology Co.,Ltd.",
-  "vcpe": "cpe:/:tenda",
-  "pid": "29319",
-  "pname": "F1202 ファームウェア",
-  "pcpe": "cpe:/o:tenda:f1202_firmware"
+	"vid": "9967",
+	"vname": "Shenzhen Tenda Technology Co.,Ltd.",
+	"vcpe": "cpe:/:tenda",
+	"pid": "29319",
+	"pname": "F1202 ファームウェア",
+	"pcpe": "cpe:/o:tenda:f1202_firmware"
 }

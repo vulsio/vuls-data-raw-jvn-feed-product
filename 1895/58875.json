@@ -1,8 +1,8 @@
 {
-  "vid": "1895",
-  "vname": "エマソン",
-  "vcpe": "cpe:/:emerson",
-  "pid": "58875",
-  "pname": "DL8000",
-  "pcpe": "cpe:/o:emerson: dl8000"
+	"vid": "1895",
+	"vname": "エマソン",
+	"vcpe": "cpe:/:emerson",
+	"pid": "58875",
+	"pname": "DL8000",
+	"pcpe": "cpe:/o:emerson: dl8000"
 }

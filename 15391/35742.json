@@ -1,8 +1,8 @@
 {
-  "vid": "15391",
-  "vname": "XOVIS",
-  "vcpe": "cpe:/:xovis",
-  "pid": "35742",
-  "pname": "PC2 ファームウェア",
-  "pcpe": "cpe:/o:xovis:pc2_firmware"
+	"vid": "15391",
+	"vname": "XOVIS",
+	"vcpe": "cpe:/:xovis",
+	"pid": "35742",
+	"pname": "PC2 ファームウェア",
+	"pcpe": "cpe:/o:xovis:pc2_firmware"
 }

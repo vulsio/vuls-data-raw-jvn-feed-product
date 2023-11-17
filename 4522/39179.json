@@ -1,8 +1,8 @@
 {
-  "vid": "4522",
-  "vname": "Infoblox",
-  "vcpe": "cpe:/:infoblox",
-  "pid": "39179",
-  "pname": "NIOS",
-  "pcpe": "cpe:/o:infoblox:nios"
+	"vid": "4522",
+	"vname": "Infoblox",
+	"vcpe": "cpe:/:infoblox",
+	"pid": "39179",
+	"pname": "NIOS",
+	"pcpe": "cpe:/o:infoblox:nios"
 }

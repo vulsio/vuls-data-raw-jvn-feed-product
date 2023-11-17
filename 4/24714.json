@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "24714",
-  "pname": "HP EliteBook 850 G2",
-  "pcpe": "cpe:/h:hp:elitebook_850_g2"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "24714",
+	"pname": "HP EliteBook 850 G2",
+	"pcpe": "cpe:/h:hp:elitebook_850_g2"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "25667",
-  "pname": "1763-L16DWD Series B",
-  "pcpe": "cpe:/h:rockwellautomation:1763-l16dwd_series_b"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "25667",
+	"pname": "1763-L16DWD Series B",
+	"pcpe": "cpe:/h:rockwellautomation:1763-l16dwd_series_b"
 }

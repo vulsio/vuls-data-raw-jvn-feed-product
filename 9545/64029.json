@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "64029",
-  "pname": "modular open smart network",
-  "pcpe": "cpe:/a:linuxfoundation:modular_open_smart_network"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "64029",
+	"pname": "modular open smart network",
+	"pcpe": "cpe:/a:linuxfoundation:modular_open_smart_network"
 }

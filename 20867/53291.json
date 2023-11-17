@@ -1,8 +1,8 @@
 {
-  "vid": "20867",
-  "vname": "Confluent, Inc.",
-  "vcpe": "cpe:/:confluent",
-  "pid": "53291",
-  "pname": "Ansible",
-  "pcpe": "cpe:/a:confluent:ansible"
+	"vid": "20867",
+	"vname": "Confluent, Inc.",
+	"vcpe": "cpe:/:confluent",
+	"pid": "53291",
+	"pname": "Ansible",
+	"pcpe": "cpe:/a:confluent:ansible"
 }

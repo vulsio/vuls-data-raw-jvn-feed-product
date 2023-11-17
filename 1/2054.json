@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "2054",
-  "pname": "Sun Java System Calendar Server",
-  "pcpe": "cpe:/a:sun:java_system_calendar_server"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "2054",
+	"pname": "Sun Java System Calendar Server",
+	"pcpe": "cpe:/a:sun:java_system_calendar_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19333",
-  "vname": "EGavilan Media",
-  "vcpe": "cpe:/:egavilanmedia",
-  "pid": "48874",
-  "pname": "ECM Address Book",
-  "pcpe": "cpe:/a:egavilanmedia:ecm_address_book"
+	"vid": "19333",
+	"vname": "EGavilan Media",
+	"vcpe": "cpe:/:egavilanmedia",
+	"pid": "48874",
+	"pname": "ECM Address Book",
+	"pcpe": "cpe:/a:egavilanmedia:ecm_address_book"
 }

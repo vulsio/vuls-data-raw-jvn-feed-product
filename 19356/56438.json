@@ -1,8 +1,8 @@
 {
-  "vid": "19356",
-  "vname": "Keysight Technologies",
-  "vcpe": "cpe:/:keysight",
-  "pid": "56438",
-  "pname": "N8844A Data Analytics Web Service",
-  "pcpe": "cpe:/a:keysight:n8844a_data_analytics_web_service"
+	"vid": "19356",
+	"vname": "Keysight Technologies",
+	"vcpe": "cpe:/:keysight",
+	"pid": "56438",
+	"pname": "N8844A Data Analytics Web Service",
+	"pcpe": "cpe:/a:keysight:n8844a_data_analytics_web_service"
 }

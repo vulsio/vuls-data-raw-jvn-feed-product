@@ -1,8 +1,8 @@
 {
-  "vid": "17461",
-  "vname": "OfflineIMAP",
-  "vcpe": "cpe:/:offlineimap",
-  "pid": "41608",
-  "pname": "OfflineIMAP",
-  "pcpe": "cpe:/a:offlineimap:offlineimap"
+	"vid": "17461",
+	"vname": "OfflineIMAP",
+	"vcpe": "cpe:/:offlineimap",
+	"pid": "41608",
+	"pname": "OfflineIMAP",
+	"pcpe": "cpe:/a:offlineimap:offlineimap"
 }

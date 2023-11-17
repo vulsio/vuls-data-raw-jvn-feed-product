@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38158",
-  "pname": "Minio Storage",
-  "pcpe": "cpe:/a:jenkins:minio_storage"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38158",
+	"pname": "Minio Storage",
+	"pcpe": "cpe:/a:jenkins:minio_storage"
 }

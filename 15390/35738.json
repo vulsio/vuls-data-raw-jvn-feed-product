@@ -1,8 +1,8 @@
 {
-  "vid": "15390",
-  "vname": "gitea project",
-  "vcpe": "cpe:/:gitea",
-  "pid": "35738",
-  "pname": "gitea",
-  "pcpe": "cpe:/a:gitea:gitea"
+	"vid": "15390",
+	"vname": "gitea project",
+	"vcpe": "cpe:/:gitea",
+	"pid": "35738",
+	"pname": "gitea",
+	"pcpe": "cpe:/a:gitea:gitea"
 }

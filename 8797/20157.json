@@ -1,8 +1,8 @@
 {
-  "vid": "8797",
-  "vname": "NetIQ",
-  "vcpe": "cpe:/:netiq",
-  "pid": "20157",
-  "pname": "NetIQ Sentinel",
-  "pcpe": "cpe:/a:netiq:sentinel"
+	"vid": "8797",
+	"vname": "NetIQ",
+	"vcpe": "cpe:/:netiq",
+	"pid": "20157",
+	"pname": "NetIQ Sentinel",
+	"pcpe": "cpe:/a:netiq:sentinel"
 }

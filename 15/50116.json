@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "50116",
-  "pname": "Oracle Banking Corporate Lending Process Management",
-  "pcpe": "cpe:/a:oracle:banking_corporate_lending_process_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "50116",
+	"pname": "Oracle Banking Corporate Lending Process Management",
+	"pcpe": "cpe:/a:oracle:banking_corporate_lending_process_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "16690",
-  "pname": "prestige 660",
-  "pcpe": "cpe:/h:zyxel:prestige_660"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "16690",
+	"pname": "prestige 660",
+	"pcpe": "cpe:/h:zyxel:prestige_660"
 }

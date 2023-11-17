@@ -1,8 +1,8 @@
 {
-  "vid": "8238",
-  "vname": "uploadscript",
-  "vcpe": "cpe:/:uploadscript",
-  "pid": "15781",
-  "pname": "uploadimage",
-  "pcpe": "cpe:/a:uploadscript:uploadimage"
+	"vid": "8238",
+	"vname": "uploadscript",
+	"vcpe": "cpe:/:uploadscript",
+	"pid": "15781",
+	"pname": "uploadimage",
+	"pcpe": "cpe:/a:uploadscript:uploadimage"
 }

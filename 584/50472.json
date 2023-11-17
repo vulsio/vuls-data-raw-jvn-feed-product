@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "50472",
-  "pname": "Tecnomatix Plant Simulation",
-  "pcpe": "cpe:/a:siemens:tecnomatix_plant_simulation"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "50472",
+	"pname": "Tecnomatix Plant Simulation",
+	"pcpe": "cpe:/a:siemens:tecnomatix_plant_simulation"
 }

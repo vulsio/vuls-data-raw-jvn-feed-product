@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "138",
-  "pname": "ScreenOS",
-  "pcpe": "cpe:/o:juniper:screenos"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "138",
+	"pname": "ScreenOS",
+	"pcpe": "cpe:/o:juniper:screenos"
 }

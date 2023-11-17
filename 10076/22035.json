@@ -1,8 +1,8 @@
 {
-  "vid": "10076",
-  "vname": "Magzter Inc.",
-  "vcpe": "cpe:/:magzter",
-  "pid": "22035",
-  "pname": "bbc knowledge magazine",
-  "pcpe": "cpe:/a:magzter:bbc_knowledge_magazine"
+	"vid": "10076",
+	"vname": "Magzter Inc.",
+	"vcpe": "cpe:/:magzter",
+	"pid": "22035",
+	"pname": "bbc knowledge magazine",
+	"pcpe": "cpe:/a:magzter:bbc_knowledge_magazine"
 }

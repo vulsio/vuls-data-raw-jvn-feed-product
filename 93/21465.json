@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "21465",
-  "pname": "Marketo MA",
-  "pcpe": "cpe:/a:drupal:marketo_ma_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "21465",
+	"pname": "Marketo MA",
+	"pcpe": "cpe:/a:drupal:marketo_ma_module"
 }

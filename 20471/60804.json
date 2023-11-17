@@ -1,8 +1,8 @@
 {
-  "vid": "20471",
-  "vname": "Quectel",
-  "vcpe": "cpe:/:quectel",
-  "pid": "60804",
-  "pname": "rg502q-ea ファームウェア",
-  "pcpe": "cpe:/o:quectel:rg502q-ea_firmware"
+	"vid": "20471",
+	"vname": "Quectel",
+	"vcpe": "cpe:/:quectel",
+	"pid": "60804",
+	"pname": "rg502q-ea ファームウェア",
+	"pcpe": "cpe:/o:quectel:rg502q-ea_firmware"
 }

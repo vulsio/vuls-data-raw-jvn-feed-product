@@ -1,8 +1,8 @@
 {
-  "vid": "14024",
-  "vname": "Proton Technologies AG",
-  "vcpe": "cpe:/:protonmail",
-  "pid": "33409",
-  "pname": "ProtonVPN",
-  "pcpe": "cpe:/a:protonmail:protonvpn"
+	"vid": "14024",
+	"vname": "Proton Technologies AG",
+	"vcpe": "cpe:/:protonmail",
+	"pid": "33409",
+	"pname": "ProtonVPN",
+	"pcpe": "cpe:/a:protonmail:protonvpn"
 }

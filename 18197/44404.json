@@ -1,8 +1,8 @@
 {
-  "vid": "18197",
-  "vname": "Fazecast",
-  "vcpe": "cpe:/:misc",
-  "pid": "44404",
-  "pname": "jSerialComm",
-  "pcpe": "cpe:/a:misc:fazecast_jserialcomm"
+	"vid": "18197",
+	"vname": "Fazecast",
+	"vcpe": "cpe:/:misc",
+	"pid": "44404",
+	"pname": "jSerialComm",
+	"pcpe": "cpe:/a:misc:fazecast_jserialcomm"
 }

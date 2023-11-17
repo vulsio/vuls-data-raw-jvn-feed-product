@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38151",
-  "pname": "Fabric Beta Publisher",
-  "pcpe": "cpe:/a:jenkins:fabric_beta_publisher"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38151",
+	"pname": "Fabric Beta Publisher",
+	"pcpe": "cpe:/a:jenkins:fabric_beta_publisher"
 }

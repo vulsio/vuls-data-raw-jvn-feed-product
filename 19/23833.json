@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23833",
-  "pname": "Cisco Nexus 9336pq ACI Spini スイッチ",
-  "pcpe": "cpe:/h:cisco:nexus_9336pq_aci_spine"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23833",
+	"pname": "Cisco Nexus 9336pq ACI Spini スイッチ",
+	"pcpe": "cpe:/h:cisco:nexus_9336pq_aci_spine"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6435",
-  "vname": "Stalker Software, Inc.",
-  "vcpe": "cpe:/:stalker",
-  "pid": "12710",
-  "pname": "CommuniGate Pro",
-  "pcpe": "cpe:/a:stalker:communigate_pro"
+	"vid": "6435",
+	"vname": "Stalker Software, Inc.",
+	"vcpe": "cpe:/:stalker",
+	"pid": "12710",
+	"pname": "CommuniGate Pro",
+	"pcpe": "cpe:/a:stalker:communigate_pro"
 }

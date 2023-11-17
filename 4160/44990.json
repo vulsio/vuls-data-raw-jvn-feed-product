@@ -1,8 +1,8 @@
 {
-  "vid": "4160",
-  "vname": "VIVOTEK Inc.",
-  "vcpe": "cpe:/:vivotek",
-  "pid": "44990",
-  "pname": "IT9360-H ファームウェア",
-  "pcpe": "cpe:/o:vivotek:it9360-h_firmware"
+	"vid": "4160",
+	"vname": "VIVOTEK Inc.",
+	"vcpe": "cpe:/:vivotek",
+	"pid": "44990",
+	"pname": "IT9360-H ファームウェア",
+	"pcpe": "cpe:/o:vivotek:it9360-h_firmware"
 }

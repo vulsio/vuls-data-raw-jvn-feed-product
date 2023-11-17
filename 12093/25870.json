@@ -1,8 +1,8 @@
 {
-  "vid": "12093",
-  "vname": "Belden Inc.",
-  "vcpe": "cpe:/:belden",
-  "pid": "25870",
-  "pname": "Hirschmann Classic Layer 2 Basic",
-  "pcpe": "cpe:/h:belden:hirschmann_l2b"
+	"vid": "12093",
+	"vname": "Belden Inc.",
+	"vcpe": "cpe:/:belden",
+	"pid": "25870",
+	"pname": "Hirschmann Classic Layer 2 Basic",
+	"pcpe": "cpe:/h:belden:hirschmann_l2b"
 }

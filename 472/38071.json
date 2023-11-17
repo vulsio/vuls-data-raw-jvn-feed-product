@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "38071",
-  "pname": "PLC5 ファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:plc5_1785-lx_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "38071",
+	"pname": "PLC5 ファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:plc5_1785-lx_firmware"
 }

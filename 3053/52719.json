@@ -1,8 +1,8 @@
 {
-  "vid": "3053",
-  "vname": "cypress",
-  "vcpe": "cpe:/:cypress",
-  "pid": "52719",
-  "pname": "CYW20735B1 ファームウェア",
-  "pcpe": "cpe:/o:cypress:cyw20735b1_firmware"
+	"vid": "3053",
+	"vname": "cypress",
+	"vcpe": "cpe:/:cypress",
+	"pid": "52719",
+	"pname": "CYW20735B1 ファームウェア",
+	"pcpe": "cpe:/o:cypress:cyw20735b1_firmware"
 }

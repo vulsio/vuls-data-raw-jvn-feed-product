@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "47074",
-  "pname": "RUGGEDCOM ROX RX5000 ファームウェア",
-  "pcpe": "cpe:/o:siemens:ruggedcom_rox_rx5000_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "47074",
+	"pname": "RUGGEDCOM ROX RX5000 ファームウェア",
+	"pcpe": "cpe:/o:siemens:ruggedcom_rox_rx5000_firmware"
 }

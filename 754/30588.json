@@ -1,8 +1,8 @@
 {
-  "vid": "754",
-  "vname": "Puppet",
-  "vcpe": "cpe:/:puppetlabs",
-  "pid": "30588",
-  "pname": "puppetlabs-apache",
-  "pcpe": "cpe:/a:puppetlabs:puppetlabs-apache"
+	"vid": "754",
+	"vname": "Puppet",
+	"vcpe": "cpe:/:puppetlabs",
+	"pid": "30588",
+	"pname": "puppetlabs-apache",
+	"pcpe": "cpe:/a:puppetlabs:puppetlabs-apache"
 }

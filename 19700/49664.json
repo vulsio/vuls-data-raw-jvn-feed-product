@@ -1,8 +1,8 @@
 {
-  "vid": "19700",
-  "vname": "CGAL",
-  "vcpe": "cpe:/:cgal",
-  "pid": "49664",
-  "pname": "Computational Geometry Algorithms Library",
-  "pcpe": "cpe:/a:cgal:computational_geometry_algorithms_library"
+	"vid": "19700",
+	"vname": "CGAL",
+	"vcpe": "cpe:/:cgal",
+	"pid": "49664",
+	"pname": "Computational Geometry Algorithms Library",
+	"pcpe": "cpe:/a:cgal:computational_geometry_algorithms_library"
 }

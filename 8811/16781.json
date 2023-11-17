@@ -1,8 +1,8 @@
 {
-  "vid": "8811",
-  "vname": "Charybdis",
-  "vcpe": "cpe:/:charybdis_project",
-  "pid": "16781",
-  "pname": "Charybdis",
-  "pcpe": "cpe:/a:charybdis_project:charybdis"
+	"vid": "8811",
+	"vname": "Charybdis",
+	"vcpe": "cpe:/:charybdis_project",
+	"pid": "16781",
+	"pname": "Charybdis",
+	"pcpe": "cpe:/a:charybdis_project:charybdis"
 }

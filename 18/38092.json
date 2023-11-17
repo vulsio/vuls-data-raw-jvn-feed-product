@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "38092",
-  "pname": "IBM Power System AC922 (8335-GTH) ファームウェア",
-  "pcpe": "cpe:/o:ibm:power_system_ac922_%288335-gth%29_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "38092",
+	"pname": "IBM Power System AC922 (8335-GTH) ファームウェア",
+	"pcpe": "cpe:/o:ibm:power_system_ac922_%288335-gth%29_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14370",
-  "vname": "cmake project",
-  "vcpe": "cpe:/:cmake_project",
-  "pid": "34061",
-  "pname": "cmake",
-  "pcpe": "cpe:/a:cmake_project:cmake"
+	"vid": "14370",
+	"vname": "cmake project",
+	"vcpe": "cpe:/:cmake_project",
+	"pid": "34061",
+	"pname": "cmake",
+	"pcpe": "cpe:/a:cmake_project:cmake"
 }

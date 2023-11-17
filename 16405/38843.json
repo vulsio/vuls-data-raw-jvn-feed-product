@@ -1,8 +1,8 @@
 {
-  "vid": "16405",
-  "vname": "VStarCam",
-  "vcpe": "cpe:/:vstracam",
-  "pid": "38843",
-  "pname": "C38S ファームウェア",
-  "pcpe": "cpe:/o:vstracam:c38s_firmware"
+	"vid": "16405",
+	"vname": "VStarCam",
+	"vcpe": "cpe:/:vstracam",
+	"pid": "38843",
+	"pname": "C38S ファームウェア",
+	"pcpe": "cpe:/o:vstracam:c38s_firmware"
 }

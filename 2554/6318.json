@@ -1,8 +1,8 @@
 {
-  "vid": "2554",
-  "vname": "blazevideo",
-  "vcpe": "cpe:/:blazevideo",
-  "pid": "6318",
-  "pname": "hdtv player",
-  "pcpe": "cpe:/a:blazevideo:hdtv_player"
+	"vid": "2554",
+	"vname": "blazevideo",
+	"vcpe": "cpe:/:blazevideo",
+	"pid": "6318",
+	"pname": "hdtv player",
+	"pcpe": "cpe:/a:blazevideo:hdtv_player"
 }

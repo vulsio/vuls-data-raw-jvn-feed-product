@@ -1,8 +1,8 @@
 {
-  "vid": "18678",
-  "vname": "GigaDevice",
-  "vcpe": "cpe:/:gigadevice",
-  "pid": "46240",
-  "pname": "GD32F130 ファームウェア",
-  "pcpe": "cpe:/o:gigadevice:gd32f130_firmware"
+	"vid": "18678",
+	"vname": "GigaDevice",
+	"vcpe": "cpe:/:gigadevice",
+	"pid": "46240",
+	"pname": "GD32F130 ファームウェア",
+	"pcpe": "cpe:/o:gigadevice:gd32f130_firmware"
 }

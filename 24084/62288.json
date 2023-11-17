@@ -1,8 +1,8 @@
 {
-  "vid": "24084",
-  "vname": "vitejs",
-  "vcpe": "cpe:/:vitejs",
-  "pid": "62288",
-  "pname": "vite",
-  "pcpe": "cpe:/a:vitejs:vite"
+	"vid": "24084",
+	"vname": "vitejs",
+	"vcpe": "cpe:/:vitejs",
+	"pid": "62288",
+	"pname": "vite",
+	"pcpe": "cpe:/a:vitejs:vite"
 }

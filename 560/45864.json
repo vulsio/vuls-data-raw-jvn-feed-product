@@ -1,8 +1,8 @@
 {
-  "vid": "560",
-  "vname": "OSIsoft",
-  "vcpe": "cpe:/:osisoft",
-  "pid": "45864",
-  "pname": "PI to OCS",
-  "pcpe": "cpe:/a:osisoft:pi_to_ocs"
+	"vid": "560",
+	"vname": "OSIsoft",
+	"vcpe": "cpe:/:osisoft",
+	"pid": "45864",
+	"pname": "PI to OCS",
+	"pcpe": "cpe:/a:osisoft:pi_to_ocs"
 }

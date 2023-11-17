@@ -1,8 +1,8 @@
 {
-  "vid": "16930",
-  "vname": "Zebra Technologies Corp",
-  "vcpe": "cpe:/:zebra",
-  "pid": "44033",
-  "pname": "FX9500 ファームウェア",
-  "pcpe": "cpe:/o:zebra:fx9500_firmware"
+	"vid": "16930",
+	"vname": "Zebra Technologies Corp",
+	"vcpe": "cpe:/:zebra",
+	"pid": "44033",
+	"pname": "FX9500 ファームウェア",
+	"pcpe": "cpe:/o:zebra:fx9500_firmware"
 }

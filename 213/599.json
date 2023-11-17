@@ -1,8 +1,8 @@
 {
-  "vid": "213",
-  "vname": "LibGD project",
-  "vcpe": "cpe:/:libgd",
-  "pid": "599",
-  "pname": "LibGD",
-  "pcpe": "cpe:/a:libgd:libgd"
+	"vid": "213",
+	"vname": "LibGD project",
+	"vcpe": "cpe:/:libgd",
+	"pid": "599",
+	"pname": "LibGD",
+	"pcpe": "cpe:/a:libgd:libgd"
 }

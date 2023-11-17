@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29256",
-  "pname": "SIRIUS Motor starter M200D PROFINET ファームウェア",
-  "pcpe": "cpe:/o:siemens:sirius_motor_starter_m200d_profinet_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29256",
+	"pname": "SIRIUS Motor starter M200D PROFINET ファームウェア",
+	"pcpe": "cpe:/o:siemens:sirius_motor_starter_m200d_profinet_firmware"
 }

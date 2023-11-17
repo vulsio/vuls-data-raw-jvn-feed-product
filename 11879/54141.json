@@ -1,8 +1,8 @@
 {
-  "vid": "11879",
-  "vname": "Softing Industrial Automation GmbH",
-  "vcpe": "cpe:/:softing",
-  "pid": "54141",
-  "pname": "smartLink HW-DP",
-  "pcpe": "cpe:/a:softing:smartlink_hw-dp"
+	"vid": "11879",
+	"vname": "Softing Industrial Automation GmbH",
+	"vcpe": "cpe:/:softing",
+	"pid": "54141",
+	"pname": "smartLink HW-DP",
+	"pcpe": "cpe:/a:softing:smartlink_hw-dp"
 }

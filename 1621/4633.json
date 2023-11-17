@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "4633",
-  "pname": "e75 firmware",
-  "pcpe": "cpe:/a:nokia:e75_firmware"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "4633",
+	"pname": "e75 firmware",
+	"pcpe": "cpe:/a:nokia:e75_firmware"
 }

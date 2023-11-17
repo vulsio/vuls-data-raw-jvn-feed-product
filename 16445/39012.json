@@ -1,8 +1,8 @@
 {
-  "vid": "16445",
-  "vname": "Chartkick",
-  "vcpe": "cpe:/:chartkick_gem_project",
-  "pid": "39012",
-  "pname": "Chartkick gem",
-  "pcpe": "cpe:/a:chartkick_gem_project:chartkick_gem"
+	"vid": "16445",
+	"vname": "Chartkick",
+	"vcpe": "cpe:/:chartkick_gem_project",
+	"pid": "39012",
+	"pname": "Chartkick gem",
+	"pcpe": "cpe:/a:chartkick_gem_project:chartkick_gem"
 }

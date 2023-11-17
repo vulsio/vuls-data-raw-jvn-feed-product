@@ -1,8 +1,8 @@
 {
-  "vid": "4479",
-  "vname": "SourceTec Software",
-  "vcpe": "cpe:/:sothink",
-  "pid": "9538",
-  "pname": "Sothink SWF Decompiler",
-  "pcpe": "cpe:/a:sothink:swf_decompiler"
+	"vid": "4479",
+	"vname": "SourceTec Software",
+	"vcpe": "cpe:/:sothink",
+	"pid": "9538",
+	"pname": "Sothink SWF Decompiler",
+	"pcpe": "cpe:/a:sothink:swf_decompiler"
 }

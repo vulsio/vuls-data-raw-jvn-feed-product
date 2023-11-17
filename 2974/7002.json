@@ -1,8 +1,8 @@
 {
-  "vid": "2974",
-  "vname": "cosign",
-  "vcpe": "cpe:/:cosign",
-  "pid": "7002",
-  "pname": "cosign",
-  "pcpe": "cpe:/a:cosign:cosign"
+	"vid": "2974",
+	"vname": "cosign",
+	"vcpe": "cpe:/:cosign",
+	"pid": "7002",
+	"pname": "cosign",
+	"pcpe": "cpe:/a:cosign:cosign"
 }

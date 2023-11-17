@@ -1,8 +1,8 @@
 {
-  "vid": "3609",
-  "vname": "extremez",
-  "vcpe": "cpe:/:extremez",
-  "pid": "7941",
-  "pname": "print server",
-  "pcpe": "cpe:/a:extremez:print_server"
+	"vid": "3609",
+	"vname": "extremez",
+	"vcpe": "cpe:/:extremez",
+	"pid": "7941",
+	"pname": "print server",
+	"pcpe": "cpe:/a:extremez:print_server"
 }

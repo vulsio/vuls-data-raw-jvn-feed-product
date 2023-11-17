@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33166",
-  "pname": "FSM9055 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:fsm9055_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33166",
+	"pname": "FSM9055 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:fsm9055_firmware"
 }

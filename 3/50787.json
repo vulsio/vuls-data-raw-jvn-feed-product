@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "50787",
-  "pname": "JBoss Enterprise Application Platform expansion pack",
-  "pcpe": "cpe:/a:redhat:jboss_enterprise_application_platform_expansion_pack"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "50787",
+	"pname": "JBoss Enterprise Application Platform expansion pack",
+	"pcpe": "cpe:/a:redhat:jboss_enterprise_application_platform_expansion_pack"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11879",
-  "vname": "Softing Industrial Automation GmbH",
-  "vcpe": "cpe:/:softing",
-  "pid": "24756",
-  "pname": "FG PROFIBUS ファームウェア",
-  "pcpe": "cpe:/o:softing:fg-x00_profibus_firmware"
+	"vid": "11879",
+	"vname": "Softing Industrial Automation GmbH",
+	"vcpe": "cpe:/:softing",
+	"pid": "24756",
+	"pname": "FG PROFIBUS ファームウェア",
+	"pcpe": "cpe:/o:softing:fg-x00_profibus_firmware"
 }

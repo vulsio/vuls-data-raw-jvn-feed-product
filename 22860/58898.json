@@ -1,8 +1,8 @@
 {
-  "vid": "22860",
-  "vname": "gok",
-  "vcpe": "cpe:/:gok",
-  "pid": "58898",
-  "pname": "smartbox 4 lan ファームウェア",
-  "pcpe": "cpe:/o:gok:smartbox_4_lan_firmware"
+	"vid": "22860",
+	"vname": "gok",
+	"vcpe": "cpe:/:gok",
+	"pid": "58898",
+	"pname": "smartbox 4 lan ファームウェア",
+	"pcpe": "cpe:/o:gok:smartbox_4_lan_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "30895",
-  "pname": "FusionServer RH8100 V3",
-  "pcpe": "cpe:/a:huawei:fusionserver_rh8100_v3"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "30895",
+	"pname": "FusionServer RH8100 V3",
+	"pcpe": "cpe:/a:huawei:fusionserver_rh8100_v3"
 }

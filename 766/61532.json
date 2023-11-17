@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "61532",
-  "pname": "spacelogic c-bus home controller ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:spacelogic_c-bus_home_controller_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "61532",
+	"pname": "spacelogic c-bus home controller ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:spacelogic_c-bus_home_controller_firmware"
 }

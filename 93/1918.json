@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1918",
-  "pname": "EveryBlog",
-  "pcpe": "cpe:/a:drupal:everyblog"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1918",
+	"pname": "EveryBlog",
+	"pcpe": "cpe:/a:drupal:everyblog"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "54872",
-  "pname": "IBM POWER HARDWARE MANAGEMENT CONSOLE (7063-CR1) ファームウェア",
-  "pcpe": "cpe:/o:ibm:power_hardware_management_console_%287063-cr1%29_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "54872",
+	"pname": "IBM POWER HARDWARE MANAGEMENT CONSOLE (7063-CR1) ファームウェア",
+	"pcpe": "cpe:/o:ibm:power_hardware_management_console_%287063-cr1%29_firmware"
 }

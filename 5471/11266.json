@@ -1,8 +1,8 @@
 {
-  "vid": "5471",
-  "vname": "mapos scripts",
-  "vcpe": "cpe:/:mapos_scripts",
-  "pid": "11266",
-  "pname": "gaestebuch",
-  "pcpe": "cpe:/a:mapos_scripts:gaestebuch"
+	"vid": "5471",
+	"vname": "mapos scripts",
+	"vcpe": "cpe:/:mapos_scripts",
+	"pid": "11266",
+	"pname": "gaestebuch",
+	"pcpe": "cpe:/a:mapos_scripts:gaestebuch"
 }

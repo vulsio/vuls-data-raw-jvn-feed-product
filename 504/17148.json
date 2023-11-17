@@ -1,8 +1,8 @@
 {
-  "vid": "504",
-  "vname": "Motorola Solutions, Inc",
-  "vcpe": "cpe:/:motorola",
-  "pid": "17148",
-  "pname": "Motorola 製 Android",
-  "pcpe": "cpe:/o:motorola:android"
+	"vid": "504",
+	"vname": "Motorola Solutions, Inc",
+	"vcpe": "cpe:/:motorola",
+	"pid": "17148",
+	"pname": "Motorola 製 Android",
+	"pcpe": "cpe:/o:motorola:android"
 }

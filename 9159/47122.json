@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "47122",
-  "pname": "882160 Gemini Dual",
-  "pcpe": "cpe:/a:philips:882160_gemini_dual"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "47122",
+	"pname": "882160 Gemini Dual",
+	"pcpe": "cpe:/a:philips:882160_gemini_dual"
 }

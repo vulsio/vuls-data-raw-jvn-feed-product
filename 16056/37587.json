@@ -1,8 +1,8 @@
 {
-  "vid": "16056",
-  "vname": "Recon-ng project",
-  "vcpe": "cpe:/:recon-ng_project",
-  "pid": "37587",
-  "pname": "Recon-ng",
-  "pcpe": "cpe:/a:recon-ng_project:recon-ng"
+	"vid": "16056",
+	"vname": "Recon-ng project",
+	"vcpe": "cpe:/:recon-ng_project",
+	"pid": "37587",
+	"pname": "Recon-ng",
+	"pcpe": "cpe:/a:recon-ng_project:recon-ng"
 }

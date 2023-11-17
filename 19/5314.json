@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5314",
-  "pname": "Cisco Catalyst 6503-E スイッチ",
-  "pcpe": "cpe:/h:cisco:catalyst_6503-e"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5314",
+	"pname": "Cisco Catalyst 6503-E スイッチ",
+	"pcpe": "cpe:/h:cisco:catalyst_6503-e"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9146",
-  "vname": "ソニービジネスソリューション",
-  "vcpe": "cpe:/:sony",
-  "pid": "18513",
-  "pname": "SNC-DH240T",
-  "pcpe": "cpe:/h:sony:snc_dh240t"
+	"vid": "9146",
+	"vname": "ソニービジネスソリューション",
+	"vcpe": "cpe:/:sony",
+	"pid": "18513",
+	"pname": "SNC-DH240T",
+	"pcpe": "cpe:/h:sony:snc_dh240t"
 }

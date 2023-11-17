@@ -1,8 +1,8 @@
 {
-  "vid": "14925",
-  "vname": "MyToken project",
-  "vcpe": "cpe:/:mytoken_project",
-  "pid": "34813",
-  "pname": "MyToken",
-  "pcpe": "cpe:/a:mytoken_project:mytoken"
+	"vid": "14925",
+	"vname": "MyToken project",
+	"vcpe": "cpe:/:mytoken_project",
+	"pid": "34813",
+	"pname": "MyToken",
+	"pcpe": "cpe:/a:mytoken_project:mytoken"
 }

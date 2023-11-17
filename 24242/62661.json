@@ -1,8 +1,8 @@
 {
-  "vid": "24242",
-  "vname": "lightspeedhq",
-  "vcpe": "cpe:/:lightspeedhq",
-  "pid": "62661",
-  "pname": "ecwid ecommerce shopping cart",
-  "pcpe": "cpe:/a:lightspeedhq:ecwid_ecommerce_shopping_cart"
+	"vid": "24242",
+	"vname": "lightspeedhq",
+	"vcpe": "cpe:/:lightspeedhq",
+	"pid": "62661",
+	"pname": "ecwid ecommerce shopping cart",
+	"pcpe": "cpe:/a:lightspeedhq:ecwid_ecommerce_shopping_cart"
 }

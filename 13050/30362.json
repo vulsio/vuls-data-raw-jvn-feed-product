@@ -1,8 +1,8 @@
 {
-  "vid": "13050",
-  "vname": "LibHTP project",
-  "vcpe": "cpe:/:libhtp_project",
-  "pid": "30362",
-  "pname": "LibHTP",
-  "pcpe": "cpe:/a:libhtp_project:libhtp"
+	"vid": "13050",
+	"vname": "LibHTP project",
+	"vcpe": "cpe:/:libhtp_project",
+	"pid": "30362",
+	"pname": "LibHTP",
+	"pcpe": "cpe:/a:libhtp_project:libhtp"
 }

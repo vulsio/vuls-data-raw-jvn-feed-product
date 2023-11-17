@@ -1,8 +1,8 @@
 {
-  "vid": "13120",
-  "vname": "Kevin Behrens",
-  "vcpe": "cpe:/:role_scoper_project",
-  "pid": "30565",
-  "pname": "Role Scoper",
-  "pcpe": "cpe:/a:role_scoper_project:role_scoper"
+	"vid": "13120",
+	"vname": "Kevin Behrens",
+	"vcpe": "cpe:/:role_scoper_project",
+	"pid": "30565",
+	"pname": "Role Scoper",
+	"pcpe": "cpe:/a:role_scoper_project:role_scoper"
 }

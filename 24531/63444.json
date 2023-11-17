@@ -1,8 +1,8 @@
 {
-  "vid": "24531",
-  "vname": "node saml project",
-  "vcpe": "cpe:/:node_saml_project",
-  "pid": "63444",
-  "pname": "node saml",
-  "pcpe": "cpe:/a:node_saml_project:node_saml"
+	"vid": "24531",
+	"vname": "node saml project",
+	"vcpe": "cpe:/:node_saml_project",
+	"pid": "63444",
+	"pname": "node saml",
+	"pcpe": "cpe:/a:node_saml_project:node_saml"
 }

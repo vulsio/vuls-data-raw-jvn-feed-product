@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "40670",
-  "pname": "XBTGT ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:xbtgt_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "40670",
+	"pname": "XBTGT ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:xbtgt_firmware"
 }

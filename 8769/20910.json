@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "20910",
-  "pname": "SS-839 ファームウェア",
-  "pcpe": "cpe:/o:qnap:ss-839_firmware"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "20910",
+	"pname": "SS-839 ファームウェア",
+	"pcpe": "cpe:/o:qnap:ss-839_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "18105",
-  "pname": "IBM 1754 GCM16 Global Console Manager ファームウェア",
-  "pcpe": "cpe:/o:ibm:global_console_manager_16_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "18105",
+	"pname": "IBM 1754 GCM16 Global Console Manager ファームウェア",
+	"pcpe": "cpe:/o:ibm:global_console_manager_16_firmware"
 }

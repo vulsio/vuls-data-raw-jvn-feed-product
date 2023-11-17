@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "50186",
-  "pname": "Avaya Session Border Controller for Enterprise",
-  "pcpe": "cpe:/o:avaya:session_border_controller_for_enterprise"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "50186",
+	"pname": "Avaya Session Border Controller for Enterprise",
+	"pcpe": "cpe:/o:avaya:session_border_controller_for_enterprise"
 }

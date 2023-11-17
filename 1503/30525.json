@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "30525",
-  "pname": "MAXPRO NVR Hybrid SE (Standard Edition) ファームウェア",
-  "pcpe": "cpe:/o:honeywell:maxpro_nvr_hybrid_se_firmware"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "30525",
+	"pname": "MAXPRO NVR Hybrid SE (Standard Edition) ファームウェア",
+	"pcpe": "cpe:/o:honeywell:maxpro_nvr_hybrid_se_firmware"
 }

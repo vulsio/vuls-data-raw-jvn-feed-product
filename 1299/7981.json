@@ -1,8 +1,8 @@
 {
-  "vid": "1299",
-  "vname": "FRISK Software International",
-  "vcpe": "cpe:/:f-prot",
-  "pid": "7981",
-  "pname": "scanning engine",
-  "pcpe": "cpe:/a:f-prot:scanning_engine"
+	"vid": "1299",
+	"vname": "FRISK Software International",
+	"vcpe": "cpe:/:f-prot",
+	"pid": "7981",
+	"pname": "scanning engine",
+	"pcpe": "cpe:/a:f-prot:scanning_engine"
 }

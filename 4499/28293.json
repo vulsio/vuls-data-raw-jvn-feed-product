@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "28293",
-  "pname": "QJ71E71-100",
-  "pcpe": "cpe:/o:mitsubishielectric:qj71e71-100_firmware"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "28293",
+	"pname": "QJ71E71-100",
+	"pcpe": "cpe:/o:mitsubishielectric:qj71e71-100_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23676",
-  "vname": "fishtank project",
-  "vcpe": "cpe:/:fishtank_project",
-  "pid": "61289",
-  "pname": "fishtank",
-  "pcpe": "cpe:/a:fishtank_project:fishtank"
+	"vid": "23676",
+	"vname": "fishtank project",
+	"vcpe": "cpe:/:fishtank_project",
+	"pid": "61289",
+	"pname": "fishtank",
+	"pcpe": "cpe:/a:fishtank_project:fishtank"
 }

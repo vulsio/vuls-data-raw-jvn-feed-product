@@ -1,8 +1,8 @@
 {
-  "vid": "891",
-  "vname": "osCommerce",
-  "vcpe": "cpe:/:oscommerce",
-  "pid": "12374",
-  "pname": "luottokunta",
-  "pcpe": "cpe:/a:oscommerce:luottokunta"
+	"vid": "891",
+	"vname": "osCommerce",
+	"vcpe": "cpe:/:oscommerce",
+	"pid": "12374",
+	"pname": "luottokunta",
+	"pcpe": "cpe:/a:oscommerce:luottokunta"
 }

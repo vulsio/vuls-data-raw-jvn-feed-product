@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "23902",
-  "pname": "ThinkServer RD650 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkserver_rd650_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "23902",
+	"pname": "ThinkServer RD650 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkserver_rd650_firmware"
 }

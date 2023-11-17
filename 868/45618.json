@@ -1,8 +1,8 @@
 {
-  "vid": "868",
-  "vname": "PrestaShop",
-  "vcpe": "cpe:/:prestashop",
-  "pid": "45618",
-  "pname": "Dashboard Products",
-  "pcpe": "cpe:/a:prestashop:dashboard_products"
+	"vid": "868",
+	"vname": "PrestaShop",
+	"vcpe": "cpe:/:prestashop",
+	"pid": "45618",
+	"pname": "Dashboard Products",
+	"pcpe": "cpe:/a:prestashop:dashboard_products"
 }

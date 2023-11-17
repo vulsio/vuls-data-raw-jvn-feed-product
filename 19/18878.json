@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18878",
-  "pname": "Cisco Scientific Atlanta DPQ/EPQ2160 DOCSIS 2.0 Cable Modem",
-  "pcpe": "cpe:/h:cisco:scientific_atlanta_dpq%2fepq2160"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18878",
+	"pname": "Cisco Scientific Atlanta DPQ/EPQ2160 DOCSIS 2.0 Cable Modem",
+	"pcpe": "cpe:/h:cisco:scientific_atlanta_dpq%2fepq2160"
 }

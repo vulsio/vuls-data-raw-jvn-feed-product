@@ -1,8 +1,8 @@
 {
-  "vid": "8537",
-  "vname": "winftp server",
-  "vcpe": "cpe:/:winftp_server",
-  "pid": "16178",
-  "pname": "winftp server",
-  "pcpe": "cpe:/a:winftp_server:winftp_server"
+	"vid": "8537",
+	"vname": "winftp server",
+	"vcpe": "cpe:/:winftp_server",
+	"pid": "16178",
+	"pname": "winftp server",
+	"pcpe": "cpe:/a:winftp_server:winftp_server"
 }

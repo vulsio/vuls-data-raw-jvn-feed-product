@@ -1,8 +1,8 @@
 {
-  "vid": "16781",
-  "vname": "Ledger SAS",
-  "vcpe": "cpe:/:ledger",
-  "pid": "39996",
-  "pname": "Ledger Nano S ファームウェア",
-  "pcpe": "cpe:/o:ledger:nano_s_firmware"
+	"vid": "16781",
+	"vname": "Ledger SAS",
+	"vcpe": "cpe:/:ledger",
+	"pid": "39996",
+	"pname": "Ledger Nano S ファームウェア",
+	"pcpe": "cpe:/o:ledger:nano_s_firmware"
 }

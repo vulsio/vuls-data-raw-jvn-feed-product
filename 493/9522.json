@@ -1,8 +1,8 @@
 {
-  "vid": "493",
-  "vname": "Dassault Systemes",
-  "vcpe": "cpe:/:3ds",
-  "pid": "9522",
-  "pname": "3DVIA Composer",
-  "pcpe": "cpe:/a:3ds:3dvia_composer"
+	"vid": "493",
+	"vname": "Dassault Systemes",
+	"vcpe": "cpe:/:3ds",
+	"pid": "9522",
+	"pname": "3DVIA Composer",
+	"pcpe": "cpe:/a:3ds:3dvia_composer"
 }

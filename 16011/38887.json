@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "38887",
-  "pname": "Video Streaming Gateway (VSG)",
-  "pcpe": "cpe:/a:bosch:video_streaming_gateway"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "38887",
+	"pname": "Video Streaming Gateway (VSG)",
+	"pcpe": "cpe:/a:bosch:video_streaming_gateway"
 }

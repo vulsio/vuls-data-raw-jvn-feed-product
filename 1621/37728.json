@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "37728",
-  "pname": "I-240W-Q GPON ONT ファームウェア",
-  "pcpe": "cpe:/o:nokia:i-240w-q_gpon_ont_firmware"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "37728",
+	"pname": "I-240W-Q GPON ONT ファームウェア",
+	"pcpe": "cpe:/o:nokia:i-240w-q_gpon_ont_firmware"
 }

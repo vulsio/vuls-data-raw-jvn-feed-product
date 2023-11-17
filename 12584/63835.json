@@ -1,8 +1,8 @@
 {
-  "vid": "12584",
-  "vname": "pulp project",
-  "vcpe": "cpe:/:pulpproject",
-  "pid": "63835",
-  "pname": "pulp ansible",
-  "pcpe": "cpe:/a:pulpproject:pulp_ansible"
+	"vid": "12584",
+	"vname": "pulp project",
+	"vcpe": "cpe:/:pulpproject",
+	"pid": "63835",
+	"pname": "pulp ansible",
+	"pcpe": "cpe:/a:pulpproject:pulp_ansible"
 }

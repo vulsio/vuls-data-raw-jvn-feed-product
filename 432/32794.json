@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "32794",
-  "pname": "netCADOPS",
-  "pcpe": "cpe:/a:abb:netcadops"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "32794",
+	"pname": "netCADOPS",
+	"pcpe": "cpe:/a:abb:netcadops"
 }

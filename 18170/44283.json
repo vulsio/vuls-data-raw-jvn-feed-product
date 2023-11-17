@@ -1,8 +1,8 @@
 {
-  "vid": "18170",
-  "vname": "Code::Blocks",
-  "vcpe": "cpe:/:codeblocks",
-  "pid": "44283",
-  "pname": "Code::Blocks",
-  "pcpe": "cpe:/a:codeblocks:code%3a%3ablocks"
+	"vid": "18170",
+	"vname": "Code::Blocks",
+	"vcpe": "cpe:/:codeblocks",
+	"pid": "44283",
+	"pname": "Code::Blocks",
+	"pcpe": "cpe:/a:codeblocks:code%3a%3ablocks"
 }

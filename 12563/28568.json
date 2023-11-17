@@ -1,8 +1,8 @@
 {
-  "vid": "12563",
-  "vname": "Rancher Labs",
-  "vcpe": "cpe:/:rancher_labs",
-  "pid": "28568",
-  "pname": "Rancher",
-  "pcpe": "cpe:/a:rancher_labs:rancher"
+	"vid": "12563",
+	"vname": "Rancher Labs",
+	"vcpe": "cpe:/:rancher_labs",
+	"pid": "28568",
+	"pname": "Rancher",
+	"pcpe": "cpe:/a:rancher_labs:rancher"
 }

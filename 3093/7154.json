@@ -1,8 +1,8 @@
 {
-  "vid": "3093",
-  "vname": "data-vision",
-  "vcpe": "cpe:/:data-vision",
-  "pid": "7154",
-  "pname": "remotedocs r-viewer",
-  "pcpe": "cpe:/a:data-vision:remotedocs_r-viewer"
+	"vid": "3093",
+	"vname": "data-vision",
+	"vcpe": "cpe:/:data-vision",
+	"pid": "7154",
+	"pname": "remotedocs r-viewer",
+	"pcpe": "cpe:/a:data-vision:remotedocs_r-viewer"
 }

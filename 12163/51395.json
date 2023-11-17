@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "51395",
-  "pname": "Selenium HTML report",
-  "pcpe": "cpe:/a:jenkins:selenium_html_report"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "51395",
+	"pname": "Selenium HTML report",
+	"pcpe": "cpe:/a:jenkins:selenium_html_report"
 }

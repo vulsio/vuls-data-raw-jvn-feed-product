@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18764",
-  "pname": "Cisco Prime Network Registrar",
-  "pcpe": "cpe:/a:cisco:prime_network_registrar"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18764",
+	"pname": "Cisco Prime Network Registrar",
+	"pcpe": "cpe:/a:cisco:prime_network_registrar"
 }

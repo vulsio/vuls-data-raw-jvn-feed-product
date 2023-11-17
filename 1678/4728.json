@@ -1,8 +1,8 @@
 {
-  "vid": "1678",
-  "vname": "provideo",
-  "vcpe": "cpe:/:provideo",
-  "pid": "4728",
-  "pname": "alarm activex control",
-  "pcpe": "cpe:/a:provideo:alarm_activex_control"
+	"vid": "1678",
+	"vname": "provideo",
+	"vcpe": "cpe:/:provideo",
+	"pid": "4728",
+	"pname": "alarm activex control",
+	"pcpe": "cpe:/a:provideo:alarm_activex_control"
 }

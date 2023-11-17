@@ -1,8 +1,8 @@
 {
-  "vid": "23923",
-  "vname": "npos-tesseract project",
-  "vcpe": "cpe:/:npos-tesseract_project",
-  "pid": "61895",
-  "pname": "npos-tesseract",
-  "pcpe": "cpe:/a:npos-tesseract_project:npos-tesseract"
+	"vid": "23923",
+	"vname": "npos-tesseract project",
+	"vcpe": "cpe:/:npos-tesseract_project",
+	"pid": "61895",
+	"pname": "npos-tesseract",
+	"pcpe": "cpe:/a:npos-tesseract_project:npos-tesseract"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31369",
-  "pname": "eSpace U1910 ファームウェア",
-  "pcpe": "cpe:/o:huawei:espace_u1910_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31369",
+	"pname": "eSpace U1910 ファームウェア",
+	"pcpe": "cpe:/o:huawei:espace_u1910_firmware"
 }

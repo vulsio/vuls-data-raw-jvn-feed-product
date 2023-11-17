@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "57963",
-  "pname": "environment dashboard",
-  "pcpe": "cpe:/a:jenkins:environment_dashboard"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "57963",
+	"pname": "environment dashboard",
+	"pcpe": "cpe:/a:jenkins:environment_dashboard"
 }

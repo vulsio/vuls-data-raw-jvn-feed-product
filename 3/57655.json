@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "57655",
-  "pname": "coreos-installer",
-  "pcpe": "cpe:/a:redhat:coreos-installer"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "57655",
+	"pname": "coreos-installer",
+	"pcpe": "cpe:/a:redhat:coreos-installer"
 }

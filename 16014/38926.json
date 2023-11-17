@@ -1,8 +1,8 @@
 {
-  "vid": "16014",
-  "vname": "HGiga",
-  "vcpe": "cpe:/:hgiga",
-  "pid": "38926",
-  "pname": "MSR45 iSherlock-base",
-  "pcpe": "cpe:/a:hgiga:msr45_isherlock-base"
+	"vid": "16014",
+	"vname": "HGiga",
+	"vcpe": "cpe:/:hgiga",
+	"pid": "38926",
+	"pname": "MSR45 iSherlock-base",
+	"pcpe": "cpe:/a:hgiga:msr45_isherlock-base"
 }

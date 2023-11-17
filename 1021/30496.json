@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "30496",
-  "pname": "Designate",
-  "pcpe": "cpe:/a:openstack:designate"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "30496",
+	"pname": "Designate",
+	"pcpe": "cpe:/a:openstack:designate"
 }

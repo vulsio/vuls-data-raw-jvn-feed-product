@@ -1,8 +1,8 @@
 {
-  "vid": "3476",
-  "vname": "eltima software",
-  "vcpe": "cpe:/:eltima_software",
-  "pid": "7753",
-  "pname": "virtual serial port",
-  "pcpe": "cpe:/a:eltima_software:virtual_serial_port"
+	"vid": "3476",
+	"vname": "eltima software",
+	"vcpe": "cpe:/:eltima_software",
+	"pid": "7753",
+	"pname": "virtual serial port",
+	"pcpe": "cpe:/a:eltima_software:virtual_serial_port"
 }

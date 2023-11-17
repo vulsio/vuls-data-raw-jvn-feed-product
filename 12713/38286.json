@@ -1,8 +1,8 @@
 {
-  "vid": "12713",
-  "vname": "Gemalto N.V.",
-  "vcpe": "cpe:/:gemalto",
-  "pid": "38286",
-  "pname": "Sentinel UltraPro Client Library",
-  "pcpe": "cpe:/a:gemalto:sentinel_ultrapro_client_library"
+	"vid": "12713",
+	"vname": "Gemalto N.V.",
+	"vcpe": "cpe:/:gemalto",
+	"pid": "38286",
+	"pname": "Sentinel UltraPro Client Library",
+	"pcpe": "cpe:/a:gemalto:sentinel_ultrapro_client_library"
 }

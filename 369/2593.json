@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "2593",
-  "pname": "eTrust Anti-Virus SDK",
-  "pcpe": "cpe:/a:ca:etrust_anti-virus_sdk"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "2593",
+	"pname": "eTrust Anti-Virus SDK",
+	"pcpe": "cpe:/a:ca:etrust_anti-virus_sdk"
 }

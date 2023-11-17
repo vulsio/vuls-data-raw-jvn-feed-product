@@ -1,8 +1,8 @@
 {
-  "vid": "11451",
-  "vname": "JetBrains",
-  "vcpe": "cpe:/:jetbrains",
-  "pid": "39433",
-  "pname": "Ktor",
-  "pcpe": "cpe:/a:jetbrains:ktor"
+	"vid": "11451",
+	"vname": "JetBrains",
+	"vcpe": "cpe:/:jetbrains",
+	"pid": "39433",
+	"pname": "Ktor",
+	"pcpe": "cpe:/a:jetbrains:ktor"
 }

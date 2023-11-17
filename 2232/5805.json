@@ -1,8 +1,8 @@
 {
-  "vid": "2232",
-  "vname": "angel learning",
-  "vcpe": "cpe:/:angel_learning",
-  "pid": "5805",
-  "pname": "learning management suite",
-  "pcpe": "cpe:/a:angel_learning:learning_management_suite"
+	"vid": "2232",
+	"vname": "angel learning",
+	"vcpe": "cpe:/:angel_learning",
+	"pid": "5805",
+	"pname": "learning management suite",
+	"pcpe": "cpe:/a:angel_learning:learning_management_suite"
 }

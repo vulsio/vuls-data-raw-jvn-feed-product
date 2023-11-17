@@ -1,8 +1,8 @@
 {
-  "vid": "13019",
-  "vname": "Numpy",
-  "vcpe": "cpe:/:numpy",
-  "pid": "30132",
-  "pname": "Numpy",
-  "pcpe": "cpe:/a:numpy:numpy"
+	"vid": "13019",
+	"vname": "Numpy",
+	"vcpe": "cpe:/:numpy",
+	"pid": "30132",
+	"pname": "Numpy",
+	"pcpe": "cpe:/a:numpy:numpy"
 }

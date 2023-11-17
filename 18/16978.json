@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "16978",
-  "pname": "IBM Tivoli Application Dependency Discovery Manager",
-  "pcpe": "cpe:/a:ibm:tivoli_application_dependency_discovery_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "16978",
+	"pname": "IBM Tivoli Application Dependency Discovery Manager",
+	"pcpe": "cpe:/a:ibm:tivoli_application_dependency_discovery_manager"
 }

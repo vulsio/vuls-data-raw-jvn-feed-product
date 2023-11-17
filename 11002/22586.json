@@ -1,8 +1,8 @@
 {
-  "vid": "11002",
-  "vname": "nova921",
-  "vcpe": "cpe:/:nova921",
-  "pid": "22586",
-  "pname": "nova 92.1 fm",
-  "pcpe": "cpe:/a:nova921:nova_92.1_fm"
+	"vid": "11002",
+	"vname": "nova921",
+	"vcpe": "cpe:/:nova921",
+	"pid": "22586",
+	"pname": "nova 92.1 fm",
+	"pcpe": "cpe:/a:nova921:nova_92.1_fm"
 }

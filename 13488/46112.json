@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "46112",
-  "pname": "Sharing Service",
-  "pcpe": "cpe:/a:zoom:sharing_service"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "46112",
+	"pname": "Sharing Service",
+	"pcpe": "cpe:/a:zoom:sharing_service"
 }

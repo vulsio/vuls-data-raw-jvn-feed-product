@@ -1,8 +1,8 @@
 {
-  "vid": "8799",
-  "vname": "Mixpanel Project",
-  "vcpe": "cpe:/:mixpanel_project",
-  "pid": "16739",
-  "pname": "Mixpanel",
-  "pcpe": "cpe:/a:mixpanel_project:mixpanel"
+	"vid": "8799",
+	"vname": "Mixpanel Project",
+	"vcpe": "cpe:/:mixpanel_project",
+	"pid": "16739",
+	"pname": "Mixpanel",
+	"pcpe": "cpe:/a:mixpanel_project:mixpanel"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "19814",
-  "pname": "P-660HW-T1",
-  "pcpe": "cpe:/h:zyxel:p-660hw_t1"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "19814",
+	"pname": "P-660HW-T1",
+	"pcpe": "cpe:/h:zyxel:p-660hw_t1"
 }

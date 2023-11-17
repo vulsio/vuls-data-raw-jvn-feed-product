@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "24986",
-  "pname": "SAP 3D Visual Enterprise Viewer",
-  "pcpe": "cpe:/a:sap:3d_visual_enterprise_viewer"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "24986",
+	"pname": "SAP 3D Visual Enterprise Viewer",
+	"pcpe": "cpe:/a:sap:3d_visual_enterprise_viewer"
 }

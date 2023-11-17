@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "47648",
-  "pname": "PM573",
-  "pcpe": "cpe:/o:abb:pm573_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "47648",
+	"pname": "PM573",
+	"pcpe": "cpe:/o:abb:pm573_firmware"
 }

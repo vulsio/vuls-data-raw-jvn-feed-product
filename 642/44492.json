@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "44492",
-  "pname": "WNR614 ファームウェア",
-  "pcpe": "cpe:/o:netgear:wnr614_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "44492",
+	"pname": "WNR614 ファームウェア",
+	"pcpe": "cpe:/o:netgear:wnr614_firmware"
 }

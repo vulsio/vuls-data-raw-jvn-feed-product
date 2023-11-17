@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "27636",
-  "pname": "GemFire for Pivotal Cloud Foundry",
-  "pcpe": "cpe:/a:greenplum:gemfire_for_pivotal_cloud_foundry"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "27636",
+	"pname": "GemFire for Pivotal Cloud Foundry",
+	"pcpe": "cpe:/a:greenplum:gemfire_for_pivotal_cloud_foundry"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "59987",
-  "pname": "manageengine applications manager",
-  "pcpe": "cpe:/a:zohocorp:manageengine_applications_manager"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "59987",
+	"pname": "manageengine applications manager",
+	"pcpe": "cpe:/a:zohocorp:manageengine_applications_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19024",
-  "vname": "Unified Automation GmbH",
-  "vcpe": "cpe:/:misc",
-  "pid": "47670",
-  "pname": ".NET ベースの OPC UA クライアント / サーバの SDK バンドル",
-  "pcpe": "cpe:/a:misc:unified_automation_.net_based_opc_ua_client_server_sdk_bundle"
+	"vid": "19024",
+	"vname": "Unified Automation GmbH",
+	"vcpe": "cpe:/:misc",
+	"pid": "47670",
+	"pname": ".NET ベースの OPC UA クライアント / サーバの SDK バンドル",
+	"pcpe": "cpe:/a:misc:unified_automation_.net_based_opc_ua_client_server_sdk_bundle"
 }

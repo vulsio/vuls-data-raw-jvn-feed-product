@@ -1,8 +1,8 @@
 {
-  "vid": "8142",
-  "vname": "tucows",
-  "vcpe": "cpe:/:tucows",
-  "pid": "15589",
-  "pname": "client code suite",
-  "pcpe": "cpe:/a:tucows:client_code_suite"
+	"vid": "8142",
+	"vname": "tucows",
+	"vcpe": "cpe:/:tucows",
+	"pid": "15589",
+	"pname": "client code suite",
+	"pcpe": "cpe:/a:tucows:client_code_suite"
 }

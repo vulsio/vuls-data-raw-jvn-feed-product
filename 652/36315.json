@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "36315",
-  "pname": "Samsung Email",
-  "pcpe": "cpe:/a:samsung:samsung_email"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "36315",
+	"pname": "Samsung Email",
+	"pcpe": "cpe:/a:samsung:samsung_email"
 }

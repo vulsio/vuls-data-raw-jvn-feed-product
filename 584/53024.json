@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "53024",
-  "pname": "APOGEE PXC Modular (BACnet) ファームウェア",
-  "pcpe": "cpe:/o:siemens:apogee_pxc_modular_%28bacnet%29_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "53024",
+	"pname": "APOGEE PXC Modular (BACnet) ファームウェア",
+	"pcpe": "cpe:/o:siemens:apogee_pxc_modular_%28bacnet%29_firmware"
 }

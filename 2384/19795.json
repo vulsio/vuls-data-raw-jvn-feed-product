@@ -1,8 +1,8 @@
 {
-  "vid": "2384",
-  "vname": "オートデスク株式会社",
-  "vcpe": "cpe:/:autodesk",
-  "pid": "19795",
-  "pname": "Autodesk SketchBook Pro",
-  "pcpe": "cpe:/a:autodesk:sketchbook_pro"
+	"vid": "2384",
+	"vname": "オートデスク株式会社",
+	"vcpe": "cpe:/:autodesk",
+	"pid": "19795",
+	"pname": "Autodesk SketchBook Pro",
+	"pcpe": "cpe:/a:autodesk:sketchbook_pro"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15636",
-  "vname": "Neato Robotics, Inc.",
-  "vcpe": "cpe:/:neato",
-  "pid": "37683",
-  "pname": "Botvac D3 Pro Connected ファームウェア",
-  "pcpe": "cpe:/o:neato:botvac_d3_pro_connected_firmware"
+	"vid": "15636",
+	"vname": "Neato Robotics, Inc.",
+	"vcpe": "cpe:/:neato",
+	"pid": "37683",
+	"pname": "Botvac D3 Pro Connected ファームウェア",
+	"pcpe": "cpe:/o:neato:botvac_d3_pro_connected_firmware"
 }

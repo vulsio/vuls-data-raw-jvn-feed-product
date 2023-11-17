@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58598",
-  "pname": "Slim 7 16ARH7 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:slim_7_16arh7_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58598",
+	"pname": "Slim 7 16ARH7 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:slim_7_16arh7_firmware"
 }

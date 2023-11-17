@@ -1,8 +1,8 @@
 {
-  "vid": "4354",
-  "vname": "T-Mobile",
-  "vcpe": "cpe:/:t-mobile",
-  "pid": "38512",
-  "pname": "Zte Zmax Pro ファームウェア",
-  "pcpe": "cpe:/o:t-mobile:zte_zmax_pro_firmware"
+	"vid": "4354",
+	"vname": "T-Mobile",
+	"vcpe": "cpe:/:t-mobile",
+	"pid": "38512",
+	"pname": "Zte Zmax Pro ファームウェア",
+	"pcpe": "cpe:/o:t-mobile:zte_zmax_pro_firmware"
 }

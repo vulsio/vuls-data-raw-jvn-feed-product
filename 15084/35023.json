@@ -1,8 +1,8 @@
 {
-  "vid": "15084",
-  "vname": "Universal Coin International",
-  "vcpe": "cpe:/:ucoincorp",
-  "pid": "35023",
-  "pname": "CDcurrency",
-  "pcpe": "cpe:/a:ucoincorp:cdcurrency"
+	"vid": "15084",
+	"vname": "Universal Coin International",
+	"vcpe": "cpe:/:ucoincorp",
+	"pid": "35023",
+	"pname": "CDcurrency",
+	"pcpe": "cpe:/a:ucoincorp:cdcurrency"
 }

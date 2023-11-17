@@ -1,8 +1,8 @@
 {
-  "vid": "19276",
-  "vname": "SYSTRAN Software Inc.",
-  "vcpe": "cpe:/:systransoft",
-  "pid": "48514",
-  "pname": "SYSTRAN Pure Neural Server",
-  "pcpe": "cpe:/a:systransoft:pure_neural_server"
+	"vid": "19276",
+	"vname": "SYSTRAN Software Inc.",
+	"vcpe": "cpe:/:systransoft",
+	"pid": "48514",
+	"pname": "SYSTRAN Pure Neural Server",
+	"pcpe": "cpe:/a:systransoft:pure_neural_server"
 }

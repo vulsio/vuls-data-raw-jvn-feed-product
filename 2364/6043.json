@@ -1,8 +1,8 @@
 {
-  "vid": "2364",
-  "vname": "atom",
-  "vcpe": "cpe:/:atom",
-  "pid": "6043",
-  "pname": "photoblog",
-  "pcpe": "cpe:/a:atom:photoblog"
+	"vid": "2364",
+	"vname": "atom",
+	"vcpe": "cpe:/:atom",
+	"pid": "6043",
+	"pname": "photoblog",
+	"pcpe": "cpe:/a:atom:photoblog"
 }

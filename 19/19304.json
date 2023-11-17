@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19304",
-  "pname": "ciscoworks 2000 service management solution",
-  "pcpe": "cpe:/a:cisco:ciscoworks_2000_service_management_solution"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19304",
+	"pname": "ciscoworks 2000 service management solution",
+	"pcpe": "cpe:/a:cisco:ciscoworks_2000_service_management_solution"
 }

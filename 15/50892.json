@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "50892",
-  "pname": "Oracle Banking Supply Chain Finance",
-  "pcpe": "cpe:/a:oracle:banking_supply_chain_finance"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "50892",
+	"pname": "Oracle Banking Supply Chain Finance",
+	"pcpe": "cpe:/a:oracle:banking_supply_chain_finance"
 }

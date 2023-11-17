@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29241",
-  "pname": "SIMOCODE pro V PROFINET ファームウェア",
-  "pcpe": "cpe:/o:siemens:simocode_pro_v_profinet_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29241",
+	"pname": "SIMOCODE pro V PROFINET ファームウェア",
+	"pcpe": "cpe:/o:siemens:simocode_pro_v_profinet_firmware"
 }

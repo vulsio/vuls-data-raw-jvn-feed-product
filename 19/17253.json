@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17253",
-  "pname": "Cisco 3925 サービス統合型ルータ",
-  "pcpe": "cpe:/h:cisco:3925_integrated_services_router"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17253",
+	"pname": "Cisco 3925 サービス統合型ルータ",
+	"pcpe": "cpe:/h:cisco:3925_integrated_services_router"
 }

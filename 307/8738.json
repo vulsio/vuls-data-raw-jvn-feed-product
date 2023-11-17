@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "8738",
-  "pname": "mc-800",
-  "pcpe": "cpe:/h:arubanetworks:mc-800"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "8738",
+	"pname": "mc-800",
+	"pcpe": "cpe:/h:arubanetworks:mc-800"
 }

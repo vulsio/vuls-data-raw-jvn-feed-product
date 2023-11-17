@@ -1,8 +1,8 @@
 {
-  "vid": "11372",
-  "vname": "Doorkeeper project",
-  "vcpe": "cpe:/:doorkeeper_project",
-  "pid": "23154",
-  "pname": "Doorkeeper",
-  "pcpe": "cpe:/a:doorkeeper_project:doorkeeper"
+	"vid": "11372",
+	"vname": "Doorkeeper project",
+	"vcpe": "cpe:/:doorkeeper_project",
+	"pid": "23154",
+	"pname": "Doorkeeper",
+	"pcpe": "cpe:/a:doorkeeper_project:doorkeeper"
 }

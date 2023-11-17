@@ -1,8 +1,8 @@
 {
-  "vid": "13366",
-  "vname": "Phoenix team",
-  "vcpe": "cpe:/:phoenixframework",
-  "pid": "31251",
-  "pname": "Phoenix",
-  "pcpe": "cpe:/a:phoenixframework:phoenix"
+	"vid": "13366",
+	"vname": "Phoenix team",
+	"vcpe": "cpe:/:phoenixframework",
+	"pid": "31251",
+	"pname": "Phoenix",
+	"pcpe": "cpe:/a:phoenixframework:phoenix"
 }

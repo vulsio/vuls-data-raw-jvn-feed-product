@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "46547",
-  "pname": "HPE ProLiant DL160 Gen10 Server ファームウェア",
-  "pcpe": "cpe:/o:hp:proliant_dl160_gen10_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "46547",
+	"pname": "HPE ProLiant DL160 Gen10 Server ファームウェア",
+	"pcpe": "cpe:/o:hp:proliant_dl160_gen10_firmware"
 }

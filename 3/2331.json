@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "2331",
-  "pname": "Red Hat Network Satellite",
-  "pcpe": "cpe:/a:redhat:network_satellite"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "2331",
+	"pname": "Red Hat Network Satellite",
+	"pcpe": "cpe:/a:redhat:network_satellite"
 }

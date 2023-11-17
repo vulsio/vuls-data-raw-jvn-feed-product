@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "40979",
-  "pname": "ASA 5512-X ファームウェア",
-  "pcpe": "cpe:/o:cisco:asa_5512-x_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "40979",
+	"pname": "ASA 5512-X ファームウェア",
+	"pcpe": "cpe:/o:cisco:asa_5512-x_firmware"
 }

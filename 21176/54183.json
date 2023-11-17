@@ -1,8 +1,8 @@
 {
-  "vid": "21176",
-  "vname": "Clustering project",
-  "vcpe": "cpe:/:clustering_project",
-  "pid": "54183",
-  "pname": "Clustering",
-  "pcpe": "cpe:/a:clustering_project:clustering"
+	"vid": "21176",
+	"vname": "Clustering project",
+	"vcpe": "cpe:/:clustering_project",
+	"pid": "54183",
+	"pname": "Clustering",
+	"pcpe": "cpe:/a:clustering_project:clustering"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9987",
-  "vname": "Plack project",
-  "vcpe": "cpe:/:plack_project",
-  "pid": "20961",
-  "pname": "Plack",
-  "pcpe": "cpe:/a:plack_project:plack"
+	"vid": "9987",
+	"vname": "Plack project",
+	"vcpe": "cpe:/:plack_project",
+	"pid": "20961",
+	"pname": "Plack",
+	"pcpe": "cpe:/a:plack_project:plack"
 }

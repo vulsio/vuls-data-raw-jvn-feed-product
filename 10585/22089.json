@@ -1,8 +1,8 @@
 {
-  "vid": "10585",
-  "vname": "getswish",
-  "vcpe": "cpe:/:getswish",
-  "pid": "22089",
-  "pname": "swish payments",
-  "pcpe": "cpe:/a:getswish:swish_payments"
+	"vid": "10585",
+	"vname": "getswish",
+	"vcpe": "cpe:/:getswish",
+	"pid": "22089",
+	"pname": "swish payments",
+	"pcpe": "cpe:/a:getswish:swish_payments"
 }

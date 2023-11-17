@@ -1,8 +1,8 @@
 {
-  "vid": "470",
-  "vname": "GStreamer",
-  "vcpe": "cpe:/:gstreamer_project",
-  "pid": "24009",
-  "pname": "GStreamer",
-  "pcpe": "cpe:/a:gstreamer_project:gstreamer"
+	"vid": "470",
+	"vname": "GStreamer",
+	"vcpe": "cpe:/:gstreamer_project",
+	"pid": "24009",
+	"pname": "GStreamer",
+	"pcpe": "cpe:/a:gstreamer_project:gstreamer"
 }

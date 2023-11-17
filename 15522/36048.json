@@ -1,8 +1,8 @@
 {
-  "vid": "15522",
-  "vname": "SEMCMS",
-  "vcpe": "cpe:/:sem-cms",
-  "pid": "36048",
-  "pname": "SemCms",
-  "pcpe": "cpe:/a:sem-cms:semcms"
+	"vid": "15522",
+	"vname": "SEMCMS",
+	"vcpe": "cpe:/:sem-cms",
+	"pid": "36048",
+	"pname": "SemCms",
+	"pcpe": "cpe:/a:sem-cms:semcms"
 }

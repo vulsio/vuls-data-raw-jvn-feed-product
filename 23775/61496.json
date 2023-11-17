@@ -1,8 +1,8 @@
 {
-  "vid": "23775",
-  "vname": "allnet",
-  "vcpe": "cpe:/:allnet",
-  "pid": "61496",
-  "pname": "all-wr0500ac ファームウェア",
-  "pcpe": "cpe:/o:allnet:all-wr0500ac_firmware"
+	"vid": "23775",
+	"vname": "allnet",
+	"vcpe": "cpe:/:allnet",
+	"pid": "61496",
+	"pname": "all-wr0500ac ファームウェア",
+	"pcpe": "cpe:/o:allnet:all-wr0500ac_firmware"
 }

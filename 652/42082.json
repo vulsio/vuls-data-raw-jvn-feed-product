@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "42082",
-  "pname": "M2M1shot Driver Framework",
-  "pcpe": "cpe:/a:samsung:m2m1shot_driver"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "42082",
+	"pname": "M2M1shot Driver Framework",
+	"pcpe": "cpe:/a:samsung:m2m1shot_driver"
 }

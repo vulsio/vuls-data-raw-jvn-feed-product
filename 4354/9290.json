@@ -1,8 +1,8 @@
 {
-  "vid": "4354",
-  "vname": "T-Mobile",
-  "vcpe": "cpe:/:t-mobile",
-  "pid": "9290",
-  "pname": "T-Mobile myTouch 4G Slide",
-  "pcpe": "cpe:/h:t-mobile:mytouch_4g_slide"
+	"vid": "4354",
+	"vname": "T-Mobile",
+	"vcpe": "cpe:/:t-mobile",
+	"pid": "9290",
+	"pname": "T-Mobile myTouch 4G Slide",
+	"pcpe": "cpe:/h:t-mobile:mytouch_4g_slide"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "20908",
-  "pname": "TS-469U",
-  "pcpe": "cpe:/h:qnap:ts-469u"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "20908",
+	"pname": "TS-469U",
+	"pcpe": "cpe:/h:qnap:ts-469u"
 }

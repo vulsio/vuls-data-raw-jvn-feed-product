@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "38323",
-  "pname": "PM554-TP-ETH ファームウェア",
-  "pcpe": "cpe:/o:abb:pm554-tp-eth_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "38323",
+	"pname": "PM554-TP-ETH ファームウェア",
+	"pcpe": "cpe:/o:abb:pm554-tp-eth_firmware"
 }

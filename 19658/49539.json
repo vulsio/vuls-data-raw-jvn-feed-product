@@ -1,8 +1,8 @@
 {
-  "vid": "19658",
-  "vname": "Electric Coin Co.",
-  "vcpe": "cpe:/:electriccoin",
-  "pid": "49539",
-  "pname": "Zcashd",
-  "pcpe": "cpe:/a:electriccoin:zcashd"
+	"vid": "19658",
+	"vname": "Electric Coin Co.",
+	"vcpe": "cpe:/:electriccoin",
+	"pid": "49539",
+	"pname": "Zcashd",
+	"pcpe": "cpe:/a:electriccoin:zcashd"
 }

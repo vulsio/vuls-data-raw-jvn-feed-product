@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "37853",
-  "pname": "ABAP Server",
-  "pcpe": "cpe:/a:sap:advanced_business_application_programming_server"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "37853",
+	"pname": "ABAP Server",
+	"pcpe": "cpe:/a:sap:advanced_business_application_programming_server"
 }

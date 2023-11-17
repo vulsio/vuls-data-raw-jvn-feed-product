@@ -1,8 +1,8 @@
 {
-  "vid": "10789",
-  "vname": "clearhub",
-  "vcpe": "cpe:/:clearhub",
-  "pid": "22321",
-  "pname": "windows live hotmail push mail",
-  "pcpe": "cpe:/a:clearhub:windows_live_hotmail_push_mail"
+	"vid": "10789",
+	"vname": "clearhub",
+	"vcpe": "cpe:/:clearhub",
+	"pid": "22321",
+	"pname": "windows live hotmail push mail",
+	"pcpe": "cpe:/a:clearhub:windows_live_hotmail_push_mail"
 }

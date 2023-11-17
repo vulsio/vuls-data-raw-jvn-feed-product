@@ -1,8 +1,8 @@
 {
-  "vid": "23932",
-  "vname": "yoctoproject",
-  "vcpe": "cpe:/:yoctoproject",
-  "pid": "61913",
-  "pname": "yocto",
-  "pcpe": "cpe:/o:yoctoproject:yocto"
+	"vid": "23932",
+	"vname": "yoctoproject",
+	"vcpe": "cpe:/:yoctoproject",
+	"pid": "61913",
+	"pname": "yocto",
+	"pcpe": "cpe:/o:yoctoproject:yocto"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "24727",
-  "pname": "HP ProBook 440 G2",
-  "pcpe": "cpe:/h:hp:probook_440_g2"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "24727",
+	"pname": "HP ProBook 440 G2",
+	"pcpe": "cpe:/h:hp:probook_440_g2"
 }

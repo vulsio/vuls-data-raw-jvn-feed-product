@@ -1,8 +1,8 @@
 {
-  "vid": "13153",
-  "vname": "TECNOVISION S.r.l",
-  "vcpe": "cpe:/:tecnovision",
-  "pid": "30675",
-  "pname": "DLX Spot Player4",
-  "pcpe": "cpe:/a:tecnovision:dlx_spot_player4"
+	"vid": "13153",
+	"vname": "TECNOVISION S.r.l",
+	"vcpe": "cpe:/:tecnovision",
+	"pid": "30675",
+	"pname": "DLX Spot Player4",
+	"pcpe": "cpe:/a:tecnovision:dlx_spot_player4"
 }

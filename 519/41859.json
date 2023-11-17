@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "41859",
-  "pname": "Avaya Aura Communication Manager Messagint",
-  "pcpe": "cpe:/a:avaya:aura_communication_manager_messagint"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "41859",
+	"pname": "Avaya Aura Communication Manager Messagint",
+	"pcpe": "cpe:/a:avaya:aura_communication_manager_messagint"
 }

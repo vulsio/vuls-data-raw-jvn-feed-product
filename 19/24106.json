@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24106",
-  "pname": "Cisco TelePresence ISDN GW 3241 ソフトウェア",
-  "pcpe": "cpe:/a:cisco:telepresence_isdn_gw_3241"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24106",
+	"pname": "Cisco TelePresence ISDN GW 3241 ソフトウェア",
+	"pcpe": "cpe:/a:cisco:telepresence_isdn_gw_3241"
 }

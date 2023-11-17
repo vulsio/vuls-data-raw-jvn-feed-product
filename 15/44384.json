@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "44384",
-  "pname": "Oracle Insurance Accounting Analyzer",
-  "pcpe": "cpe:/a:oracle:insurance_accounting_analyzer"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "44384",
+	"pname": "Oracle Insurance Accounting Analyzer",
+	"pcpe": "cpe:/a:oracle:insurance_accounting_analyzer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "38066",
-  "pname": "Concerto II CRT-D ファームウェア",
-  "pcpe": "cpe:/o:medtronic:concerto_ii_crt-d_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "38066",
+	"pname": "Concerto II CRT-D ファームウェア",
+	"pcpe": "cpe:/o:medtronic:concerto_ii_crt-d_firmware"
 }

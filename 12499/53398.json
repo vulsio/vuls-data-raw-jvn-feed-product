@@ -1,8 +1,8 @@
 {
-  "vid": "12499",
-  "vname": "Delta Electronics",
-  "vcpe": "cpe:/:delta_electronics",
-  "pid": "53398",
-  "pname": "DRAS",
-  "pcpe": "cpe:/a:delta_electronics:dras"
+	"vid": "12499",
+	"vname": "Delta Electronics",
+	"vcpe": "cpe:/:delta_electronics",
+	"pid": "53398",
+	"pname": "DRAS",
+	"pcpe": "cpe:/a:delta_electronics:dras"
 }

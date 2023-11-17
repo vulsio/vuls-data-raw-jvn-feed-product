@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "24443",
-  "pname": "Adobe Acrobat DC",
-  "pcpe": "cpe:/a:adobe:acrobat_dc"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "24443",
+	"pname": "Adobe Acrobat DC",
+	"pcpe": "cpe:/a:adobe:acrobat_dc"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9751",
-  "vname": "Jojo Open Source Content Management System",
-  "vcpe": "cpe:/:jojocms",
-  "pid": "20307",
-  "pname": "Jojo CMS",
-  "pcpe": "cpe:/a:jojocms:jojo-cms"
+	"vid": "9751",
+	"vname": "Jojo Open Source Content Management System",
+	"vcpe": "cpe:/:jojocms",
+	"pid": "20307",
+	"pname": "Jojo CMS",
+	"pcpe": "cpe:/a:jojocms:jojo-cms"
 }

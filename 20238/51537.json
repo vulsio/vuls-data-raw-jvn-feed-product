@@ -1,8 +1,8 @@
 {
-  "vid": "20238",
-  "vname": "Addressable project",
-  "vcpe": "cpe:/:addressable_project",
-  "pid": "51537",
-  "pname": "Addressable",
-  "pcpe": "cpe:/a:addressable_project:addressable"
+	"vid": "20238",
+	"vname": "Addressable project",
+	"vcpe": "cpe:/:addressable_project",
+	"pid": "51537",
+	"pname": "Addressable",
+	"pcpe": "cpe:/a:addressable_project:addressable"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "45994",
-  "pname": "HP Pro x2 612 G2 ファームウェア",
-  "pcpe": "cpe:/o:hp:pro_x2_612_g2_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "45994",
+	"pname": "HP Pro x2 612 G2 ファームウェア",
+	"pcpe": "cpe:/o:hp:pro_x2_612_g2_firmware"
 }

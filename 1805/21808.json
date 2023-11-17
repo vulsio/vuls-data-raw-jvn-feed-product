@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "21808",
-  "pname": "TL-WR740N",
-  "pcpe": "cpe:/h:tp-link:tl-wr740n"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "21808",
+	"pname": "TL-WR740N",
+	"pcpe": "cpe:/h:tp-link:tl-wr740n"
 }

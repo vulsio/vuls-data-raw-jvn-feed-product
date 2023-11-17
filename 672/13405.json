@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "13405",
-  "pname": "ManageEngine AssetExplorer",
-  "pcpe": "cpe:/a:zohocorp:manageengine_assetexplorer"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "13405",
+	"pname": "ManageEngine AssetExplorer",
+	"pcpe": "cpe:/a:zohocorp:manageengine_assetexplorer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24182",
-  "vname": "Media Jedi",
-  "vcpe": "cpe:/:mediajedi",
-  "pid": "62550",
-  "pname": "User Private Files",
-  "pcpe": "cpe:/a:mediajedi:user_private_files"
+	"vid": "24182",
+	"vname": "Media Jedi",
+	"vcpe": "cpe:/:mediajedi",
+	"pid": "62550",
+	"pname": "User Private Files",
+	"pcpe": "cpe:/a:mediajedi:user_private_files"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "46890",
-  "pname": "WS5281-10 ファームウェア",
-  "pcpe": "cpe:/o:huawei:ws5281-10_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "46890",
+	"pname": "WS5281-10 ファームウェア",
+	"pcpe": "cpe:/o:huawei:ws5281-10_firmware"
 }

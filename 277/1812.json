@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "1812",
-  "pname": "SNC-DF50P",
-  "pcpe": "cpe:/h:sony:sony_network_camera_snc-df50p"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "1812",
+	"pname": "SNC-DF50P",
+	"pcpe": "cpe:/h:sony:sony_network_camera_snc-df50p"
 }

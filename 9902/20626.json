@@ -1,8 +1,8 @@
 {
-  "vid": "9902",
-  "vname": "OleumTech",
-  "vcpe": "cpe:/:oleumtech",
-  "pid": "20626",
-  "pname": "OleumTech WIO DH2 Wireless Gateway",
-  "pcpe": "cpe:/h:oleumtech:wio_dh2_wireless_gateway"
+	"vid": "9902",
+	"vname": "OleumTech",
+	"vcpe": "cpe:/:oleumtech",
+	"pid": "20626",
+	"pname": "OleumTech WIO DH2 Wireless Gateway",
+	"pcpe": "cpe:/h:oleumtech:wio_dh2_wireless_gateway"
 }

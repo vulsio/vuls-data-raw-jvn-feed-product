@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "33126",
-  "pname": "Cisco Spark Hybrid Service",
-  "pcpe": "cpe:/a:cisco:spark_hybrid_calendar_service"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "33126",
+	"pname": "Cisco Spark Hybrid Service",
+	"pcpe": "cpe:/a:cisco:spark_hybrid_calendar_service"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "37442",
-  "pname": "Security Analytics (SA)",
-  "pcpe": "cpe:/a:symantec:security_analytics"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "37442",
+	"pname": "Security Analytics (SA)",
+	"pcpe": "cpe:/a:symantec:security_analytics"
 }

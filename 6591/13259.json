@@ -1,8 +1,8 @@
 {
-  "vid": "6591",
-  "vname": "PayPal",
-  "vcpe": "cpe:/:paypal",
-  "pid": "13259",
-  "pname": "Paypal Pro",
-  "pcpe": "cpe:/a:paypal:paypal_pro"
+	"vid": "6591",
+	"vname": "PayPal",
+	"vcpe": "cpe:/:paypal",
+	"pid": "13259",
+	"pname": "Paypal Pro",
+	"pcpe": "cpe:/a:paypal:paypal_pro"
 }

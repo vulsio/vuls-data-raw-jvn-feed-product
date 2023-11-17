@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "34567",
-  "pname": "TIBCO Data Virtualization",
-  "pcpe": "cpe:/a:tibco:data_virtualization"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "34567",
+	"pname": "TIBCO Data Virtualization",
+	"pcpe": "cpe:/a:tibco:data_virtualization"
 }

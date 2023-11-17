@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53697",
-  "pname": "Oracle Thesaurus Management System",
-  "pcpe": "cpe:/a:oracle:thesaurus_management_system"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53697",
+	"pname": "Oracle Thesaurus Management System",
+	"pcpe": "cpe:/a:oracle:thesaurus_management_system"
 }

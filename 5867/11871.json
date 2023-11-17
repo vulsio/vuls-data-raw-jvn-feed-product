@@ -1,8 +1,8 @@
 {
-  "vid": "5867",
-  "vname": "mywebftp",
-  "vcpe": "cpe:/:mywebftp",
-  "pid": "11871",
-  "pname": "mywebftp",
-  "pcpe": "cpe:/a:mywebftp:mywebftp"
+	"vid": "5867",
+	"vname": "mywebftp",
+	"vcpe": "cpe:/:mywebftp",
+	"pid": "11871",
+	"pname": "mywebftp",
+	"pcpe": "cpe:/a:mywebftp:mywebftp"
 }

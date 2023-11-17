@@ -1,8 +1,8 @@
 {
-  "vid": "15294",
-  "vname": "AVEVA",
-  "vcpe": "cpe:/:aveva",
-  "pid": "35604",
-  "pname": "InTouch 2014",
-  "pcpe": "cpe:/a:aveva:intouch_2014"
+	"vid": "15294",
+	"vname": "AVEVA",
+	"vcpe": "cpe:/:aveva",
+	"pid": "35604",
+	"pname": "InTouch 2014",
+	"pcpe": "cpe:/a:aveva:intouch_2014"
 }

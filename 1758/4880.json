@@ -1,8 +1,8 @@
 {
-  "vid": "1758",
-  "vname": "Wafer",
-  "vcpe": "cpe:/:wafer",
-  "pid": "4880",
-  "pname": "webmatic",
-  "pcpe": "cpe:/a:wafer:webmatic"
+	"vid": "1758",
+	"vname": "Wafer",
+	"vcpe": "cpe:/:wafer",
+	"pid": "4880",
+	"pname": "webmatic",
+	"pcpe": "cpe:/a:wafer:webmatic"
 }

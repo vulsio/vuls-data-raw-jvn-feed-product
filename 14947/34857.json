@@ -1,8 +1,8 @@
 {
-  "vid": "14947",
-  "vname": "MemCachier",
-  "vcpe": "cpe:/:memcachier",
-  "pid": "34857",
-  "pname": "MemJS",
-  "pcpe": "cpe:/a:memcachier:mem"
+	"vid": "14947",
+	"vname": "MemCachier",
+	"vcpe": "cpe:/:memcachier",
+	"pid": "34857",
+	"pname": "MemJS",
+	"pcpe": "cpe:/a:memcachier:mem"
 }

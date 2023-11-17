@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "60532",
-  "pname": "mint workbench",
-  "pcpe": "cpe:/a:abb:mint_workbench"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "60532",
+	"pname": "mint workbench",
+	"pcpe": "cpe:/a:abb:mint_workbench"
 }

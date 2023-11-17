@@ -1,8 +1,8 @@
 {
-  "vid": "23557",
-  "vname": "joyebike",
-  "vcpe": "cpe:/:joyebike",
-  "pid": "61006",
-  "pname": "wolf 2022 ファームウェア",
-  "pcpe": "cpe:/o:joyebike:wolf_2022_firmware"
+	"vid": "23557",
+	"vname": "joyebike",
+	"vcpe": "cpe:/:joyebike",
+	"pid": "61006",
+	"pname": "wolf 2022 ファームウェア",
+	"pcpe": "cpe:/o:joyebike:wolf_2022_firmware"
 }

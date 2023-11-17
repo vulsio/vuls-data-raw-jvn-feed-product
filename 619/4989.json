@@ -1,8 +1,8 @@
 {
-  "vid": "619",
-  "vname": "PolyVision",
-  "vcpe": "cpe:/:polyvision",
-  "pid": "4989",
-  "pname": "roomwizard",
-  "pcpe": "cpe:/h:polyvision:roomwizard"
+	"vid": "619",
+	"vname": "PolyVision",
+	"vcpe": "cpe:/:polyvision",
+	"pid": "4989",
+	"pname": "roomwizard",
+	"pcpe": "cpe:/h:polyvision:roomwizard"
 }

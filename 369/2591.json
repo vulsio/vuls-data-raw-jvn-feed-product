@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "2591",
-  "pname": "CA ARCserve for Windows Server component",
-  "pcpe": "cpe:/a:ca:arcserve_for_windows_server_component"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "2591",
+	"pname": "CA ARCserve for Windows Server component",
+	"pcpe": "cpe:/a:ca:arcserve_for_windows_server_component"
 }

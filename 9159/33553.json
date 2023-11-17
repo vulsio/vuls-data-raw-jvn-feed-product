@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "33553",
-  "pname": "Brilliance CT Big Bore ファームウェア",
-  "pcpe": "cpe:/o:philips:brilliance_ct_big_bore_firmware"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "33553",
+	"pname": "Brilliance CT Big Bore ファームウェア",
+	"pcpe": "cpe:/o:philips:brilliance_ct_big_bore_firmware"
 }

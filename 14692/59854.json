@@ -1,8 +1,8 @@
 {
-  "vid": "14692",
-  "vname": "HubSpot",
-  "vcpe": "cpe:/:hubspot",
-  "pid": "59854",
-  "pname": "HubSpot",
-  "pcpe": "cpe:/a:hubspot:hubspot"
+	"vid": "14692",
+	"vname": "HubSpot",
+	"vcpe": "cpe:/:hubspot",
+	"pid": "59854",
+	"pname": "HubSpot",
+	"pcpe": "cpe:/a:hubspot:hubspot"
 }

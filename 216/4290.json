@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "4290",
-  "pname": "dpkg",
-  "pcpe": "cpe:/a:debian:dpkg"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "4290",
+	"pname": "dpkg",
+	"pcpe": "cpe:/a:debian:dpkg"
 }

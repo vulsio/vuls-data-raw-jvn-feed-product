@@ -1,8 +1,8 @@
 {
-  "vid": "17937",
-  "vname": "TimeTools Limited.",
-  "vcpe": "cpe:/:timetoolsltd",
-  "pid": "43396",
-  "pname": "Sr7110ファームウェア",
-  "pcpe": "cpe:/o:timetoolsltd:sr7110_firmware"
+	"vid": "17937",
+	"vname": "TimeTools Limited.",
+	"vcpe": "cpe:/:timetoolsltd",
+	"pid": "43396",
+	"pname": "Sr7110ファームウェア",
+	"pcpe": "cpe:/o:timetoolsltd:sr7110_firmware"
 }

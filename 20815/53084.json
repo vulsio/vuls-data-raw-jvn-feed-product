@@ -1,8 +1,8 @@
 {
-  "vid": "20815",
-  "vname": "Ecoa Technologies Corp",
-  "vcpe": "cpe:/:ecoa",
-  "pid": "53084",
-  "pname": "RiskBuster ファームウェア",
-  "pcpe": "cpe:/o:ecoa:riskbuster_firmware"
+	"vid": "20815",
+	"vname": "Ecoa Technologies Corp",
+	"vcpe": "cpe:/:ecoa",
+	"pid": "53084",
+	"pname": "RiskBuster ファームウェア",
+	"pcpe": "cpe:/o:ecoa:riskbuster_firmware"
 }

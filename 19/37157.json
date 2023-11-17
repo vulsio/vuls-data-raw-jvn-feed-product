@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "37157",
-  "pname": "Cisco Webex Meetings Desktop",
-  "pcpe": "cpe:/a:cisco:webex_meetings_desktop"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "37157",
+	"pname": "Cisco Webex Meetings Desktop",
+	"pcpe": "cpe:/a:cisco:webex_meetings_desktop"
 }

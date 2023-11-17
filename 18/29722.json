@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "29722",
-  "pname": "IBM Emptoris Sourcing",
-  "pcpe": "cpe:/a:ibm:emptoris_sourcing"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "29722",
+	"pname": "IBM Emptoris Sourcing",
+	"pcpe": "cpe:/a:ibm:emptoris_sourcing"
 }

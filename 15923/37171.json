@@ -1,8 +1,8 @@
 {
-  "vid": "15923",
-  "vname": "WebAssembly",
-  "vcpe": "cpe:/:webassembly",
-  "pid": "37171",
-  "pname": "Binaryen",
-  "pcpe": "cpe:/a:webassembly:binaryen"
+	"vid": "15923",
+	"vname": "WebAssembly",
+	"vcpe": "cpe:/:webassembly",
+	"pid": "37171",
+	"pname": "Binaryen",
+	"pcpe": "cpe:/a:webassembly:binaryen"
 }

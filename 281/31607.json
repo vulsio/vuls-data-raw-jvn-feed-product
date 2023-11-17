@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "31607",
-  "pname": "Bazaar",
-  "pcpe": "cpe:/a:canonical:bazaar"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "31607",
+	"pname": "Bazaar",
+	"pcpe": "cpe:/a:canonical:bazaar"
 }

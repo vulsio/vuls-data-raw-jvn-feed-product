@@ -1,8 +1,8 @@
 {
-  "vid": "4348",
-  "vname": "Iomega",
-  "vcpe": "cpe:/:iomega",
-  "pid": "9263",
-  "pname": "Home Media Network Hard Drive",
-  "pcpe": "cpe:/h:iomega:home_media_network_hard_drive"
+	"vid": "4348",
+	"vname": "Iomega",
+	"vcpe": "cpe:/:iomega",
+	"pid": "9263",
+	"pname": "Home Media Network Hard Drive",
+	"pcpe": "cpe:/h:iomega:home_media_network_hard_drive"
 }

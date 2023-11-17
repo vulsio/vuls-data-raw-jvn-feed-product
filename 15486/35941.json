@@ -1,8 +1,8 @@
 {
-  "vid": "15486",
-  "vname": "vectra",
-  "vcpe": "cpe:/:vectra",
-  "pid": "35941",
-  "pname": "cognito",
-  "pcpe": "cpe:/a:vectra:cognito"
+	"vid": "15486",
+	"vname": "vectra",
+	"vcpe": "cpe:/:vectra",
+	"pid": "35941",
+	"pname": "cognito",
+	"pcpe": "cpe:/a:vectra:cognito"
 }

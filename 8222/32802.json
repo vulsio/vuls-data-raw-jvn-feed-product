@@ -1,8 +1,8 @@
 {
-  "vid": "8222",
-  "vname": "Unisys",
-  "vcpe": "cpe:/:unisys",
-  "pid": "32802",
-  "pname": "Stealth",
-  "pcpe": "cpe:/a:unisys:stealth"
+	"vid": "8222",
+	"vname": "Unisys",
+	"vcpe": "cpe:/:unisys",
+	"pid": "32802",
+	"pname": "Stealth",
+	"pcpe": "cpe:/a:unisys:stealth"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "2721",
-  "pname": "BlackBerry 9700",
-  "pcpe": "cpe:/h:blackberry:blackberry_9700"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "2721",
+	"pname": "BlackBerry 9700",
+	"pcpe": "cpe:/h:blackberry:blackberry_9700"
 }

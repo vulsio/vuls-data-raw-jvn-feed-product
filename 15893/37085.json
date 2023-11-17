@@ -1,8 +1,8 @@
 {
-  "vid": "15893",
-  "vname": "CIM project",
-  "vcpe": "cpe:/:cim_project",
-  "pid": "37085",
-  "pname": "CIM",
-  "pcpe": "cpe:/a:cim_project:cim"
+	"vid": "15893",
+	"vname": "CIM project",
+	"vcpe": "cpe:/:cim_project",
+	"pid": "37085",
+	"pname": "CIM",
+	"pcpe": "cpe:/a:cim_project:cim"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "21522",
-  "pname": "EA2700",
-  "pcpe": "cpe:/h:linksys:ea2700"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "21522",
+	"pname": "EA2700",
+	"pcpe": "cpe:/h:linksys:ea2700"
 }

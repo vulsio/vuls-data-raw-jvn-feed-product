@@ -1,8 +1,8 @@
 {
-  "vid": "17",
-  "vname": "インターネット セキュリティ システムズ",
-  "vcpe": "cpe:/:iss",
-  "pid": "957",
-  "pname": "RealSecure Sentry",
-  "pcpe": "cpe:/a:iss:realsecure_sentry"
+	"vid": "17",
+	"vname": "インターネット セキュリティ システムズ",
+	"vcpe": "cpe:/:iss",
+	"pid": "957",
+	"pname": "RealSecure Sentry",
+	"pcpe": "cpe:/a:iss:realsecure_sentry"
 }

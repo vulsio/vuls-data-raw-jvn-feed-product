@@ -1,8 +1,8 @@
 {
-  "vid": "11867",
-  "vname": "Actiontec Electronics, Inc.",
-  "vcpe": "cpe:/:actiontec",
-  "pid": "35889",
-  "pname": "T2200H ファームウェア",
-  "pcpe": "cpe:/o:actiontec:t2200h_firmware"
+	"vid": "11867",
+	"vname": "Actiontec Electronics, Inc.",
+	"vcpe": "cpe:/:actiontec",
+	"pid": "35889",
+	"pname": "T2200H ファームウェア",
+	"pcpe": "cpe:/o:actiontec:t2200h_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8917",
-  "vname": "New Relic",
-  "vcpe": "cpe:/:newrelic",
-  "pid": "29613",
-  "pname": ".NET agent",
-  "pcpe": "cpe:/a:newrelic:.net_agent"
+	"vid": "8917",
+	"vname": "New Relic",
+	"vcpe": "cpe:/:newrelic",
+	"pid": "29613",
+	"pname": ".NET agent",
+	"pcpe": "cpe:/a:newrelic:.net_agent"
 }

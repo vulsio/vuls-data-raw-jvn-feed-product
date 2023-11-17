@@ -1,8 +1,8 @@
 {
-  "vid": "18255",
-  "vname": "CommScope",
-  "vcpe": "cpe:/:commscope",
-  "pid": "44721",
-  "pname": "Ruckus ZoneFlex R500 ファームウェア",
-  "pcpe": "cpe:/o:commscope:ruckus_zoneflex_r500_firmware"
+	"vid": "18255",
+	"vname": "CommScope",
+	"vcpe": "cpe:/:commscope",
+	"pid": "44721",
+	"pname": "Ruckus ZoneFlex R500 ファームウェア",
+	"pcpe": "cpe:/o:commscope:ruckus_zoneflex_r500_firmware"
 }

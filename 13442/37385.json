@@ -1,8 +1,8 @@
 {
-  "vid": "13442",
-  "vname": "Vivo",
-  "vcpe": "cpe:/:vivo",
-  "pid": "37385",
-  "pname": "Vivo V7 ファームウェア",
-  "pcpe": "cpe:/o:vivo:v7_firmware"
+	"vid": "13442",
+	"vname": "Vivo",
+	"vcpe": "cpe:/:vivo",
+	"pid": "37385",
+	"pname": "Vivo V7 ファームウェア",
+	"pcpe": "cpe:/o:vivo:v7_firmware"
 }

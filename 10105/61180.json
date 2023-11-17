@@ -1,8 +1,8 @@
 {
-  "vid": "10105",
-  "vname": "IObit",
-  "vcpe": "cpe:/:iobit",
-  "pid": "61180",
-  "pname": "itop screen recorder",
-  "pcpe": "cpe:/a:iobit:itop_screen_recorder"
+	"vid": "10105",
+	"vname": "IObit",
+	"vcpe": "cpe:/:iobit",
+	"pid": "61180",
+	"pname": "itop screen recorder",
+	"pcpe": "cpe:/a:iobit:itop_screen_recorder"
 }

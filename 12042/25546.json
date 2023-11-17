@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25546",
-  "pname": "JG776A HP HSR6602-G TAA-compliant Router",
-  "pcpe": "cpe:/h:hp:jg776a_hp_hsr6602-g_taa-compliant_router"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25546",
+	"pname": "JG776A HP HSR6602-G TAA-compliant Router",
+	"pcpe": "cpe:/h:hp:jg776a_hp_hsr6602-g_taa-compliant_router"
 }

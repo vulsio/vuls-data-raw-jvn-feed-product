@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "30865",
-  "pname": "Blue Ocean",
-  "pcpe": "cpe:/a:jenkins:blue_ocean"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "30865",
+	"pname": "Blue Ocean",
+	"pcpe": "cpe:/a:jenkins:blue_ocean"
 }

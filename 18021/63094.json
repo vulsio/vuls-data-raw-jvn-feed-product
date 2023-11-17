@@ -1,8 +1,8 @@
 {
-  "vid": "18021",
-  "vname": "Western Digital",
-  "vcpe": "cpe:/:westerndigital",
-  "pid": "63094",
-  "pname": "wd discovery",
-  "pcpe": "cpe:/a:westerndigital:wd_discovery"
+	"vid": "18021",
+	"vname": "Western Digital",
+	"vcpe": "cpe:/:westerndigital",
+	"pid": "63094",
+	"pname": "wd discovery",
+	"pcpe": "cpe:/a:westerndigital:wd_discovery"
 }

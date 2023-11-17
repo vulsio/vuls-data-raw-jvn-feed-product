@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "37549",
-  "pname": "Active IQ",
-  "pcpe": "cpe:/a:netapp:active_iq"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "37549",
+	"pname": "Active IQ",
+	"pcpe": "cpe:/a:netapp:active_iq"
 }

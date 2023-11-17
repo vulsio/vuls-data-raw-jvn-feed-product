@@ -1,8 +1,8 @@
 {
-  "vid": "17224",
-  "vname": "KSLabs",
-  "vcpe": "cpe:/:kslabs",
-  "pid": "40945",
-  "pname": "KSWEB",
-  "pcpe": "cpe:/a:kslabs:ksweb"
+	"vid": "17224",
+	"vname": "KSLabs",
+	"vcpe": "cpe:/:kslabs",
+	"pid": "40945",
+	"pname": "KSWEB",
+	"pcpe": "cpe:/a:kslabs:ksweb"
 }

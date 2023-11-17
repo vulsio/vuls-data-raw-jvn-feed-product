@@ -1,8 +1,8 @@
 {
-  "vid": "20015",
-  "vname": "normalize-url project",
-  "vcpe": "cpe:/:normalize-url_project",
-  "pid": "50688",
-  "pname": "normalize-url",
-  "pcpe": "cpe:/a:normalize-url_project:normalize-url"
+	"vid": "20015",
+	"vname": "normalize-url project",
+	"vcpe": "cpe:/:normalize-url_project",
+	"pid": "50688",
+	"pname": "normalize-url",
+	"pcpe": "cpe:/a:normalize-url_project:normalize-url"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4807",
-  "vname": "interactive-scripts.com",
-  "vcpe": "cpe:/:interactive-scripts.com",
-  "pid": "10194",
-  "pname": "php membership manager",
-  "pcpe": "cpe:/a:interactive-scripts.com:php_membership_manager"
+	"vid": "4807",
+	"vname": "interactive-scripts.com",
+	"vcpe": "cpe:/:interactive-scripts.com",
+	"pid": "10194",
+	"pname": "php membership manager",
+	"pcpe": "cpe:/a:interactive-scripts.com:php_membership_manager"
 }

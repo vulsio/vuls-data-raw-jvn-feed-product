@@ -1,8 +1,8 @@
 {
-  "vid": "3756",
-  "vname": "Fonality",
-  "vcpe": "cpe:/:fonality",
-  "pid": "26318",
-  "pname": "HUDWeb",
-  "pcpe": "cpe:/a:fonality:hud_web"
+	"vid": "3756",
+	"vname": "Fonality",
+	"vcpe": "cpe:/:fonality",
+	"pid": "26318",
+	"pname": "HUDWeb",
+	"pcpe": "cpe:/a:fonality:hud_web"
 }

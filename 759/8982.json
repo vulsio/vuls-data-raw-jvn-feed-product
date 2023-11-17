@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "8982",
-  "pname": "Proficy HMI/SCADA - iFIX",
-  "pcpe": "cpe:/a:ge:intelligent_platforms_proficy_hmi%2Fscada_ifix"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "8982",
+	"pname": "Proficy HMI/SCADA - iFIX",
+	"pcpe": "cpe:/a:ge:intelligent_platforms_proficy_hmi%2Fscada_ifix"
 }

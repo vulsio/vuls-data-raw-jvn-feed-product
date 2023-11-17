@@ -1,8 +1,8 @@
 {
-  "vid": "19040",
-  "vname": "LightCMS",
-  "vcpe": "cpe:/:lightcms_project",
-  "pid": "47731",
-  "pname": "LightCMS",
-  "pcpe": "cpe:/a:lightcms_project:lightcms"
+	"vid": "19040",
+	"vname": "LightCMS",
+	"vcpe": "cpe:/:lightcms_project",
+	"pid": "47731",
+	"pname": "LightCMS",
+	"pcpe": "cpe:/a:lightcms_project:lightcms"
 }

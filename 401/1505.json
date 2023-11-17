@@ -1,8 +1,8 @@
 {
-  "vid": "401",
-  "vname": "PADL Software",
-  "vcpe": "cpe:/:nss_ldap",
-  "pid": "1505",
-  "pname": "nss_ldap",
-  "pcpe": "cpe:/a:nss_ldap:nss_ldap"
+	"vid": "401",
+	"vname": "PADL Software",
+	"vcpe": "cpe:/:nss_ldap",
+	"pid": "1505",
+	"pname": "nss_ldap",
+	"pcpe": "cpe:/a:nss_ldap:nss_ldap"
 }

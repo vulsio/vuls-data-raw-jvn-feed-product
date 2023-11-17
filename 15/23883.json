@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "23883",
-  "pname": "Oracle Right Now Service Cloud",
-  "pcpe": "cpe:/a:oracle:right_now_service_cloud"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "23883",
+	"pname": "Oracle Right Now Service Cloud",
+	"pcpe": "cpe:/a:oracle:right_now_service_cloud"
 }

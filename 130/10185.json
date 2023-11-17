@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "10185",
-  "pname": "2200bg proset wireless",
-  "pcpe": "cpe:/a:intel:2200bg_proset_wireless"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "10185",
+	"pname": "2200bg proset wireless",
+	"pcpe": "cpe:/a:intel:2200bg_proset_wireless"
 }

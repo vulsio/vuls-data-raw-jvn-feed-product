@@ -1,8 +1,8 @@
 {
-  "vid": "3514",
-  "vname": "Enterasys Networks",
-  "vcpe": "cpe:/:enterasys",
-  "pid": "19238",
-  "pname": "G3",
-  "pcpe": "cpe:/h:enterasys:g3"
+	"vid": "3514",
+	"vname": "Enterasys Networks",
+	"vcpe": "cpe:/:enterasys",
+	"pid": "19238",
+	"pname": "G3",
+	"pcpe": "cpe:/h:enterasys:g3"
 }

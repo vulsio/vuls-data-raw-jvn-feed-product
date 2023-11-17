@@ -1,8 +1,8 @@
 {
-  "vid": "5566",
-  "vname": "media-libs",
-  "vcpe": "cpe:/:media-libs",
-  "pid": "11415",
-  "pname": "libid3tag",
-  "pcpe": "cpe:/a:media-libs:libid3tag"
+	"vid": "5566",
+	"vname": "media-libs",
+	"vcpe": "cpe:/:media-libs",
+	"pid": "11415",
+	"pname": "libid3tag",
+	"pcpe": "cpe:/a:media-libs:libid3tag"
 }

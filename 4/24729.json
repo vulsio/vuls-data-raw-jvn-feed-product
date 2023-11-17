@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "24729",
-  "pname": "HP ProBook 450 G1",
-  "pcpe": "cpe:/h:hp:probook_450_g1"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "24729",
+	"pname": "HP ProBook 450 G1",
+	"pcpe": "cpe:/h:hp:probook_450_g1"
 }

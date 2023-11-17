@@ -1,8 +1,8 @@
 {
-  "vid": "24666",
-  "vname": "sunellsecurity",
-  "vcpe": "cpe:/:sunellsecurity",
-  "pid": "63986",
-  "pname": "sn-adr3816e1 ファームウェア",
-  "pcpe": "cpe:/o:sunellsecurity:sn-adr3816e1_firmware"
+	"vid": "24666",
+	"vname": "sunellsecurity",
+	"vcpe": "cpe:/:sunellsecurity",
+	"pid": "63986",
+	"pname": "sn-adr3816e1 ファームウェア",
+	"pcpe": "cpe:/o:sunellsecurity:sn-adr3816e1_firmware"
 }

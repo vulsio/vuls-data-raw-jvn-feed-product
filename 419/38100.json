@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "38100",
-  "pname": "NetApp Cloud Insights",
-  "pcpe": "cpe:/a:netapp:cloud_insights"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "38100",
+	"pname": "NetApp Cloud Insights",
+	"pcpe": "cpe:/a:netapp:cloud_insights"
 }

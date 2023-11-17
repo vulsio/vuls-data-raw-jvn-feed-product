@@ -1,8 +1,8 @@
 {
-  "vid": "9181",
-  "vname": "Nmap",
-  "vcpe": "cpe:/:nmap",
-  "pid": "38395",
-  "pname": "Npcap",
-  "pcpe": "cpe:/a:nmap:npcap"
+	"vid": "9181",
+	"vname": "Nmap",
+	"vcpe": "cpe:/:nmap",
+	"pid": "38395",
+	"pname": "Npcap",
+	"pcpe": "cpe:/a:nmap:npcap"
 }

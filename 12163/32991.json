@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "32991",
-  "pname": "Gerrit Trigger",
-  "pcpe": "cpe:/a:jenkins:gerrit_trigger"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "32991",
+	"pname": "Gerrit Trigger",
+	"pcpe": "cpe:/a:jenkins:gerrit_trigger"
 }

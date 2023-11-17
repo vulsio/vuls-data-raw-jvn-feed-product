@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "27548",
-  "pname": "Desigo PX PXA40-W0",
-  "pcpe": "cpe:/h:siemens:desigo_web_module_pxa40-w0"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "27548",
+	"pname": "Desigo PX PXA40-W0",
+	"pcpe": "cpe:/h:siemens:desigo_web_module_pxa40-w0"
 }

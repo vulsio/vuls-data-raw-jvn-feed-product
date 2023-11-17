@@ -1,8 +1,8 @@
 {
-  "vid": "719",
-  "vname": "HTC Corporation",
-  "vcpe": "cpe:/:htc",
-  "pid": "12821",
-  "pname": "touch pro",
-  "pcpe": "cpe:/h:htc:touch_pro"
+	"vid": "719",
+	"vname": "HTC Corporation",
+	"vcpe": "cpe:/:htc",
+	"pid": "12821",
+	"pname": "touch pro",
+	"pcpe": "cpe:/h:htc:touch_pro"
 }

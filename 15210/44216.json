@@ -1,8 +1,8 @@
 {
-  "vid": "15210",
-  "vname": "Universal Robots",
-  "vcpe": "cpe:/:universal-robots",
-  "pid": "44216",
-  "pname": "UR Software",
-  "pcpe": "cpe:/a:universal-robots:ur_software"
+	"vid": "15210",
+	"vname": "Universal Robots",
+	"vcpe": "cpe:/:universal-robots",
+	"pid": "44216",
+	"pname": "UR Software",
+	"pcpe": "cpe:/a:universal-robots:ur_software"
 }

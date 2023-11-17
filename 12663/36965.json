@@ -1,8 +1,8 @@
 {
-  "vid": "12663",
-  "vname": "RIOT project",
-  "vcpe": "cpe:/:riot_project",
-  "pid": "36965",
-  "pname": "RIOT OS",
-  "pcpe": "cpe:/o:riot_project:riot-os"
+	"vid": "12663",
+	"vname": "RIOT project",
+	"vcpe": "cpe:/:riot_project",
+	"pid": "36965",
+	"pname": "RIOT OS",
+	"pcpe": "cpe:/o:riot_project:riot-os"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18902",
-  "pname": "Cisco Scientific Atlanta DPQ2425 Wireless Residential Gateway with Digital Voice Adapter",
-  "pcpe": "cpe:/h:cisco:scientific_atlanta_dpq2425"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18902",
+	"pname": "Cisco Scientific Atlanta DPQ2425 Wireless Residential Gateway with Digital Voice Adapter",
+	"pcpe": "cpe:/h:cisco:scientific_atlanta_dpq2425"
 }

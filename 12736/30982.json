@@ -1,8 +1,8 @@
 {
-  "vid": "12736",
-  "vname": "Keycloak",
-  "vcpe": "cpe:/:keycloak",
-  "pid": "30982",
-  "pname": "Keycloak",
-  "pcpe": "cpe:/a:keycloak:keycloak"
+	"vid": "12736",
+	"vname": "Keycloak",
+	"vcpe": "cpe:/:keycloak",
+	"pid": "30982",
+	"pname": "Keycloak",
+	"pcpe": "cpe:/a:keycloak:keycloak"
 }

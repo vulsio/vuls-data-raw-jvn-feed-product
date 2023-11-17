@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "38649",
-  "pname": "ColorQube 8580 ファームウェア",
-  "pcpe": "cpe:/o:xerox:colorqube_8580_firmware"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "38649",
+	"pname": "ColorQube 8580 ファームウェア",
+	"pcpe": "cpe:/o:xerox:colorqube_8580_firmware"
 }

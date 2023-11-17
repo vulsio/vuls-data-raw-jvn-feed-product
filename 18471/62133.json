@@ -1,8 +1,8 @@
 {
-  "vid": "18471",
-  "vname": "Nordic Semiconductor",
-  "vcpe": "cpe:/:nordicsemi",
-  "pid": "62133",
-  "pname": "nrf5 sdk for mesh",
-  "pcpe": "cpe:/a:nordicsemi:nrf5_sdk_for_mesh"
+	"vid": "18471",
+	"vname": "Nordic Semiconductor",
+	"vcpe": "cpe:/:nordicsemi",
+	"pid": "62133",
+	"pname": "nrf5 sdk for mesh",
+	"pcpe": "cpe:/a:nordicsemi:nrf5_sdk_for_mesh"
 }

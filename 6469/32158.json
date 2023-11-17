@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "32158",
-  "pname": "FL SWITCH 3012E-2SFX ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:fl_switch_3012e-2sfx_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "32158",
+	"pname": "FL SWITCH 3012E-2SFX ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:fl_switch_3012e-2sfx_firmware"
 }

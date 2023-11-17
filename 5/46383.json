@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "46383",
-  "pname": "QCS610 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qcs610_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "46383",
+	"pname": "QCS610 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qcs610_firmware"
 }

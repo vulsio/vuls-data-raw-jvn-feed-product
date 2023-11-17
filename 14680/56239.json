@@ -1,8 +1,8 @@
 {
-  "vid": "14680",
-  "vname": "メディアテック",
-  "vcpe": "cpe:/:mediatek",
-  "pid": "56239",
-  "pname": "MT7981 ファームウェア",
-  "pcpe": "cpe:/o:mediatek:mt7981_firmware"
+	"vid": "14680",
+	"vname": "メディアテック",
+	"vcpe": "cpe:/:mediatek",
+	"pid": "56239",
+	"pname": "MT7981 ファームウェア",
+	"pcpe": "cpe:/o:mediatek:mt7981_firmware"
 }

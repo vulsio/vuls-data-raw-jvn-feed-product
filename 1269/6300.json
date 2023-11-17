@@ -1,8 +1,8 @@
 {
-  "vid": "1269",
-  "vname": "Bitweaver",
-  "vcpe": "cpe:/:bitweaver",
-  "pid": "6300",
-  "pname": "r2 cms",
-  "pcpe": "cpe:/a:bitweaver:r2_cms"
+	"vid": "1269",
+	"vname": "Bitweaver",
+	"vcpe": "cpe:/:bitweaver",
+	"pid": "6300",
+	"pname": "r2 cms",
+	"pcpe": "cpe:/a:bitweaver:r2_cms"
 }

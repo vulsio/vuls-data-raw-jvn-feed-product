@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "62763",
-  "pname": "Red Hat OpenShift Container Platform for ibm linuxone",
-  "pcpe": "cpe:/a:redhat:openshift_container_platform_for_ibm_linuxone"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "62763",
+	"pname": "Red Hat OpenShift Container Platform for ibm linuxone",
+	"pcpe": "cpe:/a:redhat:openshift_container_platform_for_ibm_linuxone"
 }

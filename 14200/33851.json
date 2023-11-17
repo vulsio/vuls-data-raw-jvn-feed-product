@@ -1,8 +1,8 @@
 {
-  "vid": "14200",
-  "vname": "opencv.js project",
-  "vcpe": "cpe:/:opencv.js_project",
-  "pid": "33851",
-  "pname": "opencv.js",
-  "pcpe": "cpe:/a:opencv.js_project:opencv.js"
+	"vid": "14200",
+	"vname": "opencv.js project",
+	"vcpe": "cpe:/:opencv.js_project",
+	"pid": "33851",
+	"pname": "opencv.js",
+	"pcpe": "cpe:/a:opencv.js_project:opencv.js"
 }

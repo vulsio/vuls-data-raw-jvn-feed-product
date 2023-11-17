@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "3270",
-  "pname": "Novell iPrint Open Enterprise Server 2",
-  "pcpe": "cpe:/a:novell:iprint_open_enterprise_server_2"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "3270",
+	"pname": "Novell iPrint Open Enterprise Server 2",
+	"pcpe": "cpe:/a:novell:iprint_open_enterprise_server_2"
 }

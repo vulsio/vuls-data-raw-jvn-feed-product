@@ -1,8 +1,8 @@
 {
-  "vid": "19828",
-  "vname": "Hitachi Energy",
-  "vcpe": "cpe:/:hitachienergy",
-  "pid": "56513",
-  "pname": "UNEM",
-  "pcpe": "cpe:/a:hitachienergy:unem"
+	"vid": "19828",
+	"vname": "Hitachi Energy",
+	"vcpe": "cpe:/:hitachienergy",
+	"pid": "56513",
+	"pname": "UNEM",
+	"pcpe": "cpe:/a:hitachienergy:unem"
 }

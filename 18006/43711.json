@@ -1,8 +1,8 @@
 {
-  "vid": "18006",
-  "vname": "Halvotec",
-  "vcpe": "cpe:/:halvotec",
-  "pid": "43711",
-  "pname": "RaQuest",
-  "pcpe": "cpe:/a:halvotec:raquest"
+	"vid": "18006",
+	"vname": "Halvotec",
+	"vcpe": "cpe:/:halvotec",
+	"pid": "43711",
+	"pname": "RaQuest",
+	"pcpe": "cpe:/a:halvotec:raquest"
 }

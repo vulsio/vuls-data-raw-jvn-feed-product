@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "51122",
-  "pname": "@backstage/techdocs-common",
-  "pcpe": "cpe:/a:linuxfoundation:%40backstage%2ftechdocs-common"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "51122",
+	"pname": "@backstage/techdocs-common",
+	"pcpe": "cpe:/a:linuxfoundation:%40backstage%2ftechdocs-common"
 }

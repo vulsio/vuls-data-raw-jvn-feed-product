@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "36275",
-  "pname": "Stanford-L09S ファームウェア",
-  "pcpe": "cpe:/o:huawei:stanford-l09s_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "36275",
+	"pname": "Stanford-L09S ファームウェア",
+	"pcpe": "cpe:/o:huawei:stanford-l09s_firmware"
 }

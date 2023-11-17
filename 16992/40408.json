@@ -1,8 +1,8 @@
 {
-  "vid": "16992",
-  "vname": "Booking project",
-  "vcpe": "cpe:/:booking_project",
-  "pid": "40408",
-  "pname": "Booking",
-  "pcpe": "cpe:/a:booking_project:booking"
+	"vid": "16992",
+	"vname": "Booking project",
+	"vcpe": "cpe:/:booking_project",
+	"pid": "40408",
+	"pname": "Booking",
+	"pcpe": "cpe:/a:booking_project:booking"
 }

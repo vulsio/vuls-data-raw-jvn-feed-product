@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27095",
-  "pname": "Oracle Discoverer",
-  "pcpe": "cpe:/a:oracle:discoverer"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27095",
+	"pname": "Oracle Discoverer",
+	"pcpe": "cpe:/a:oracle:discoverer"
 }

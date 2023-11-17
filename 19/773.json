@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "773",
-  "pname": "Cisco SN 5400 シリーズ",
-  "pcpe": "cpe:/h:cisco:sn_5400"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "773",
+	"pname": "Cisco SN 5400 シリーズ",
+	"pcpe": "cpe:/h:cisco:sn_5400"
 }

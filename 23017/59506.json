@@ -1,8 +1,8 @@
 {
-  "vid": "23017",
-  "vname": "surveysparrow",
-  "vcpe": "cpe:/:surveysparrow",
-  "pid": "59506",
-  "pname": "enterprise survey software",
-  "pcpe": "cpe:/a:surveysparrow:enterprise_survey_software"
+	"vid": "23017",
+	"vname": "surveysparrow",
+	"vcpe": "cpe:/:surveysparrow",
+	"pid": "59506",
+	"pname": "enterprise survey software",
+	"pcpe": "cpe:/a:surveysparrow:enterprise_survey_software"
 }

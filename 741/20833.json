@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "20833",
-  "pname": "DIR-826L Wireless N600 Dual Band Gigabit Cloud Router ファームウェア",
-  "pcpe": "cpe:/o:dlink:dir-826l_wireless_n600_cloud_router_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "20833",
+	"pname": "DIR-826L Wireless N600 Dual Band Gigabit Cloud Router ファームウェア",
+	"pcpe": "cpe:/o:dlink:dir-826l_wireless_n600_cloud_router_firmware"
 }

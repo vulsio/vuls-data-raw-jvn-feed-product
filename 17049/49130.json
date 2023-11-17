@@ -1,8 +1,8 @@
 {
-  "vid": "17049",
-  "vname": "Mendix",
-  "vcpe": "cpe:/:mendix",
-  "pid": "49130",
-  "pname": "MendixSSO",
-  "pcpe": "cpe:/a:mendix:mendixsso"
+	"vid": "17049",
+	"vname": "Mendix",
+	"vcpe": "cpe:/:mendix",
+	"pid": "49130",
+	"pname": "MendixSSO",
+	"pcpe": "cpe:/a:mendix:mendixsso"
 }

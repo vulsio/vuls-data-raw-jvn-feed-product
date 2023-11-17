@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "29663",
-  "pname": "NFCネットインストーラー",
-  "pcpe": "cpe:/a:sony:nfc_net_installer"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "29663",
+	"pname": "NFCネットインストーラー",
+	"pcpe": "cpe:/a:sony:nfc_net_installer"
 }

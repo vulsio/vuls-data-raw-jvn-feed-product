@@ -1,8 +1,8 @@
 {
-  "vid": "21134",
-  "vname": "XoruX",
-  "vcpe": "cpe:/:xorux",
-  "pid": "54045",
-  "pname": "STOR2RRD",
-  "pcpe": "cpe:/a:xorux:stor2rrd"
+	"vid": "21134",
+	"vname": "XoruX",
+	"vcpe": "cpe:/:xorux",
+	"pid": "54045",
+	"pname": "STOR2RRD",
+	"pcpe": "cpe:/a:xorux:stor2rrd"
 }

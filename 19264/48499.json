@@ -1,8 +1,8 @@
 {
-  "vid": "19264",
-  "vname": "telemetry project",
-  "vcpe": "cpe:/:telemetry_project",
-  "pid": "48499",
-  "pname": "telemetry",
-  "pcpe": "cpe:/a:telemetry_project:telemetry"
+	"vid": "19264",
+	"vname": "telemetry project",
+	"vcpe": "cpe:/:telemetry_project",
+	"pid": "48499",
+	"pname": "telemetry",
+	"pcpe": "cpe:/a:telemetry_project:telemetry"
 }

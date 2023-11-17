@@ -1,8 +1,8 @@
 {
-  "vid": "3971",
-  "vname": "GIGABYTE Technology Co., Ltd.",
-  "vcpe": "cpe:/:gigabyte",
-  "pid": "39257",
-  "pname": "GIGABYTE BRIX GB-BXi7-5775",
-  "pcpe": "cpe:/o:gigabyte:gb-bxi7-5775_firmware"
+	"vid": "3971",
+	"vname": "GIGABYTE Technology Co., Ltd.",
+	"vcpe": "cpe:/:gigabyte",
+	"pid": "39257",
+	"pname": "GIGABYTE BRIX GB-BXi7-5775",
+	"pcpe": "cpe:/o:gigabyte:gb-bxi7-5775_firmware"
 }

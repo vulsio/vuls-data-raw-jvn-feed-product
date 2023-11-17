@@ -1,8 +1,8 @@
 {
-  "vid": "6457",
-  "vname": "Marvell",
-  "vcpe": "cpe:/:marvell",
-  "pid": "38942",
-  "pname": "88SS9188 ファームウェア",
-  "pcpe": "cpe:/o:marvell:88ss9188_firmware"
+	"vid": "6457",
+	"vname": "Marvell",
+	"vcpe": "cpe:/:marvell",
+	"pid": "38942",
+	"pname": "88SS9188 ファームウェア",
+	"pcpe": "cpe:/o:marvell:88ss9188_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "45836",
-  "pname": "VMware Tanzu GemFire for VMs",
-  "pcpe": "cpe:/a:vmware:tanzu_gemfire_for_virtual_machines"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "45836",
+	"pname": "VMware Tanzu GemFire for VMs",
+	"pcpe": "cpe:/a:vmware:tanzu_gemfire_for_virtual_machines"
 }

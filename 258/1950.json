@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "1950",
-  "pname": "Gnumeric",
-  "pcpe": "cpe:/a:gnome:gnumeric"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "1950",
+	"pname": "Gnumeric",
+	"pcpe": "cpe:/a:gnome:gnumeric"
 }

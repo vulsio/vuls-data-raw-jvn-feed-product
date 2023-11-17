@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "27792",
-  "pname": "Norton Download Manager",
-  "pcpe": "cpe:/a:symantec:norton_download_manager"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "27792",
+	"pname": "Norton Download Manager",
+	"pcpe": "cpe:/a:symantec:norton_download_manager"
 }

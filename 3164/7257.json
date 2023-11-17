@@ -1,8 +1,8 @@
 {
-  "vid": "3164",
-  "vname": "Deluge",
-  "vcpe": "cpe:/:deluge",
-  "pid": "7257",
-  "pname": "Deluge",
-  "pcpe": "cpe:/a:deluge:deluge"
+	"vid": "3164",
+	"vname": "Deluge",
+	"vcpe": "cpe:/:deluge",
+	"pid": "7257",
+	"pname": "Deluge",
+	"pcpe": "cpe:/a:deluge:deluge"
 }

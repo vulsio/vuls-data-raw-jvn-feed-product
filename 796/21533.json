@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "21533",
-  "pname": "EA4500 ファームウェア",
-  "pcpe": "cpe:/o:linksys:ea4500_firmware"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "21533",
+	"pname": "EA4500 ファームウェア",
+	"pcpe": "cpe:/o:linksys:ea4500_firmware"
 }

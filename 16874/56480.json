@@ -1,8 +1,8 @@
 {
-  "vid": "16874",
-  "vname": "CESNET",
-  "vcpe": "cpe:/:cesnet",
-  "pid": "56480",
-  "pname": "theme-cesnet for ownCloud",
-  "pcpe": "cpe:/a:cesnet:theme-cesnet"
+	"vid": "16874",
+	"vname": "CESNET",
+	"vcpe": "cpe:/:cesnet",
+	"pid": "56480",
+	"pname": "theme-cesnet for ownCloud",
+	"pcpe": "cpe:/a:cesnet:theme-cesnet"
 }

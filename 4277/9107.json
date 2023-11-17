@@ -1,8 +1,8 @@
 {
-  "vid": "4277",
-  "vname": "FindingScience",
-  "vcpe": "cpe:/:findingscience",
-  "pid": "9107",
-  "pname": "mod_auth_openid",
-  "pcpe": "cpe:/a:findingscience:mod_auth_openid"
+	"vid": "4277",
+	"vname": "FindingScience",
+	"vcpe": "cpe:/:findingscience",
+	"pid": "9107",
+	"pname": "mod_auth_openid",
+	"pcpe": "cpe:/a:findingscience:mod_auth_openid"
 }

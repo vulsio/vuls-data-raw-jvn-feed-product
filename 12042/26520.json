@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26520",
-  "pname": "HPE IMC APM",
-  "pcpe": "cpe:/a:hp:intelligent_management_center_application_performance_manager"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26520",
+	"pname": "HPE IMC APM",
+	"pcpe": "cpe:/a:hp:intelligent_management_center_application_performance_manager"
 }

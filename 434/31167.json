@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "31167",
-  "pname": "EMC VMAX Embedded Management",
-  "pcpe": "cpe:/a:emc:vmax_emanagement"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "31167",
+	"pname": "EMC VMAX Embedded Management",
+	"pcpe": "cpe:/a:emc:vmax_emanagement"
 }

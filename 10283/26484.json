@@ -1,8 +1,8 @@
 {
-  "vid": "10283",
-  "vname": "Meinberg Funkuhren GmbH & Co KG",
-  "vcpe": "cpe:/:meinberg",
-  "pid": "26484",
-  "pname": "IMS-LANTIME M500",
-  "pcpe": "cpe:/h:meinberg:ims-lantime_m500"
+	"vid": "10283",
+	"vname": "Meinberg Funkuhren GmbH & Co KG",
+	"vcpe": "cpe:/:meinberg",
+	"pid": "26484",
+	"pname": "IMS-LANTIME M500",
+	"pcpe": "cpe:/h:meinberg:ims-lantime_m500"
 }

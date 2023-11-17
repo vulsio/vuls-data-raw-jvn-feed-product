@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27437",
-  "pname": "ThinkPad X1 Tablet",
-  "pcpe": "cpe:/h:lenovo:thinkpad_x1_tablet"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27437",
+	"pname": "ThinkPad X1 Tablet",
+	"pcpe": "cpe:/h:lenovo:thinkpad_x1_tablet"
 }

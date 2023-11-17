@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "57346",
-  "pname": "Inspiron 3275 ファームウェア",
-  "pcpe": "cpe:/o:dell:inspiron_3275_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "57346",
+	"pname": "Inspiron 3275 ファームウェア",
+	"pcpe": "cpe:/o:dell:inspiron_3275_firmware"
 }

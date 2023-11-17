@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "46531",
-  "pname": "NetApp HCI Compute Node BIOS",
-  "pcpe": "cpe:/o:netapp:hcl_compute_node_bios"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "46531",
+	"pname": "NetApp HCI Compute Node BIOS",
+	"pcpe": "cpe:/o:netapp:hcl_compute_node_bios"
 }

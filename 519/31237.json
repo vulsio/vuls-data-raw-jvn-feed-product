@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "31237",
-  "pname": "Avaya IP Office",
-  "pcpe": "cpe:/a:avaya:ip_office"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "31237",
+	"pname": "Avaya IP Office",
+	"pcpe": "cpe:/a:avaya:ip_office"
 }

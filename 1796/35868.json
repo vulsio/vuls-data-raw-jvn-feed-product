@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "35868",
-  "pname": "MiniMed 508 insulin pump ファームウェア",
-  "pcpe": "cpe:/o:medtronic:minimed_paradigm_508_insulin_pump_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "35868",
+	"pname": "MiniMed 508 insulin pump ファームウェア",
+	"pcpe": "cpe:/o:medtronic:minimed_paradigm_508_insulin_pump_firmware"
 }

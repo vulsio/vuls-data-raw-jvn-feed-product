@@ -1,8 +1,8 @@
 {
-  "vid": "17065",
-  "vname": "JHipster",
-  "vcpe": "cpe:/:jhipster",
-  "pid": "40561",
-  "pname": "JHipster Kotlin",
-  "pcpe": "cpe:/a:jhipster:jhipster_kotlin"
+	"vid": "17065",
+	"vname": "JHipster",
+	"vcpe": "cpe:/:jhipster",
+	"pid": "40561",
+	"pname": "JHipster Kotlin",
+	"pcpe": "cpe:/a:jhipster:jhipster_kotlin"
 }

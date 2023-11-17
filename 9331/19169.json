@@ -1,8 +1,8 @@
 {
-  "vid": "9331",
-  "vname": "LOREX Technology",
-  "vcpe": "cpe:/:lorex_technology",
-  "pid": "19169",
-  "pname": "Lorex Edge3",
-  "pcpe": "cpe:/h:lorex_technology:edge3"
+	"vid": "9331",
+	"vname": "LOREX Technology",
+	"vcpe": "cpe:/:lorex_technology",
+	"pid": "19169",
+	"pname": "Lorex Edge3",
+	"pcpe": "cpe:/h:lorex_technology:edge3"
 }

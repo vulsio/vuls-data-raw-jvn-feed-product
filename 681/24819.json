@@ -1,8 +1,8 @@
 {
-  "vid": "681",
-  "vname": "ASUSTeK Computer Inc.",
-  "vcpe": "cpe:/:asus",
-  "pid": "24819",
-  "pname": "TM-AC1900",
-  "pcpe": "cpe:/h:asus:tm-1900"
+	"vid": "681",
+	"vname": "ASUSTeK Computer Inc.",
+	"vcpe": "cpe:/:asus",
+	"pid": "24819",
+	"pname": "TM-AC1900",
+	"pcpe": "cpe:/h:asus:tm-1900"
 }

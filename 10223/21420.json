@@ -1,8 +1,8 @@
 {
-  "vid": "10223",
-  "vname": "Web-Dorado",
-  "vcpe": "cpe:/:web-dorado",
-  "pid": "21420",
-  "pname": "Photo Gallery",
-  "pcpe": "cpe:/a:web-dorado:photo_gallery_plugin"
+	"vid": "10223",
+	"vname": "Web-Dorado",
+	"vcpe": "cpe:/:web-dorado",
+	"pid": "21420",
+	"pname": "Photo Gallery",
+	"pcpe": "cpe:/a:web-dorado:photo_gallery_plugin"
 }

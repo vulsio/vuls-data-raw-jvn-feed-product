@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "14510",
-  "pname": "SAP Kernel",
-  "pcpe": "cpe:/a:sap:sap_kernel"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "14510",
+	"pname": "SAP Kernel",
+	"pcpe": "cpe:/a:sap:sap_kernel"
 }

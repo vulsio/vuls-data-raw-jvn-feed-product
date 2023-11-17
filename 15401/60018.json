@@ -1,8 +1,8 @@
 {
-  "vid": "15401",
-  "vname": "Couchbase, Inc.",
-  "vcpe": "cpe:/:couchbase",
-  "pid": "60018",
-  "pname": "bleve",
-  "pcpe": "cpe:/a:couchbase:bleve"
+	"vid": "15401",
+	"vname": "Couchbase, Inc.",
+	"vcpe": "cpe:/:couchbase",
+	"pid": "60018",
+	"pname": "bleve",
+	"pcpe": "cpe:/a:couchbase:bleve"
 }

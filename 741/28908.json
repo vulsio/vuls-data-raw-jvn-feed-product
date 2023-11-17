@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "28908",
-  "pname": "DAP-3520 H/W ver. A1 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dap-3520_h%2Fw_a1_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "28908",
+	"pname": "DAP-3520 H/W ver. A1 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dap-3520_h%2Fw_a1_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23423",
-  "vname": "Melapress",
-  "vcpe": "cpe:/:wpwhitesecurity",
-  "pid": "60700",
-  "pname": "WP 2FA",
-  "pcpe": "cpe:/a:wpwhitesecurity:wp_2fa"
+	"vid": "23423",
+	"vname": "Melapress",
+	"vcpe": "cpe:/:wpwhitesecurity",
+	"pid": "60700",
+	"pname": "WP 2FA",
+	"pcpe": "cpe:/a:wpwhitesecurity:wp_2fa"
 }

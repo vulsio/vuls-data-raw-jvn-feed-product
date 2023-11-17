@@ -1,8 +1,8 @@
 {
-  "vid": "23307",
-  "vname": "mitsubishi",
-  "vcpe": "cpe:/:mitsubishi",
-  "pid": "60346",
-  "pname": "ae-50e ファームウェア",
-  "pcpe": "cpe:/o:mitsubishi:ae-50e_firmware"
+	"vid": "23307",
+	"vname": "mitsubishi",
+	"vcpe": "cpe:/:mitsubishi",
+	"pid": "60346",
+	"pname": "ae-50e ファームウェア",
+	"pcpe": "cpe:/o:mitsubishi:ae-50e_firmware"
 }

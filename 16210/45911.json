@@ -1,8 +1,8 @@
 {
-  "vid": "16210",
-  "vname": "Prometheus",
-  "vcpe": "cpe:/:prometheus",
-  "pid": "45911",
-  "pname": "Blackbox Exporter",
-  "pcpe": "cpe:/a:prometheus:blackbox_exporter"
+	"vid": "16210",
+	"vname": "Prometheus",
+	"vcpe": "cpe:/:prometheus",
+	"pid": "45911",
+	"pname": "Blackbox Exporter",
+	"pcpe": "cpe:/a:prometheus:blackbox_exporter"
 }

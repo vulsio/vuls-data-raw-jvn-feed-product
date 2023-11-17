@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "35191",
-  "pname": "Quartus Prime Programmer and Tools",
-  "pcpe": "cpe:/a:intel:quartus_prime_programmer_and_tools"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "35191",
+	"pname": "Quartus Prime Programmer and Tools",
+	"pcpe": "cpe:/a:intel:quartus_prime_programmer_and_tools"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1337",
-  "vname": "Alcatel-Lucent",
-  "vcpe": "cpe:/:alcatel-lucent",
-  "pid": "4164",
-  "pname": "omnitouch contact center",
-  "pcpe": "cpe:/a:alcatel-lucent:omnitouch_contact_center"
+	"vid": "1337",
+	"vname": "Alcatel-Lucent",
+	"vcpe": "cpe:/:alcatel-lucent",
+	"pid": "4164",
+	"pname": "omnitouch contact center",
+	"pcpe": "cpe:/a:alcatel-lucent:omnitouch_contact_center"
 }

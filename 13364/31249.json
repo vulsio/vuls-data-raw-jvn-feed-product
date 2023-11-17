@@ -1,8 +1,8 @@
 {
-  "vid": "13364",
-  "vname": "Sergei Pleis",
-  "vcpe": "cpe:/:psftp",
-  "pid": "31249",
-  "pname": "PSFTPd",
-  "pcpe": "cpe:/a:psftp:psftpd"
+	"vid": "13364",
+	"vname": "Sergei Pleis",
+	"vcpe": "cpe:/:psftp",
+	"pid": "31249",
+	"pname": "PSFTPd",
+	"pcpe": "cpe:/a:psftp:psftpd"
 }

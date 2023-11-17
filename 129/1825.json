@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1825",
-  "pname": "Cosminexus Portal Framework",
-  "pcpe": "cpe:/a:hitachi:cosminexus_portal_framework"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1825",
+	"pname": "Cosminexus Portal Framework",
+	"pcpe": "cpe:/a:hitachi:cosminexus_portal_framework"
 }

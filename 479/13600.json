@@ -1,8 +1,8 @@
 {
-  "vid": "479",
-  "vname": "phpBB",
-  "vcpe": "cpe:/:phpbb",
-  "pid": "13600",
-  "pname": "ezboard converter",
-  "pcpe": "cpe:/a:phpbb:ezboard_converter"
+	"vid": "479",
+	"vname": "phpBB",
+	"vcpe": "cpe:/:phpbb",
+	"pid": "13600",
+	"pname": "ezboard converter",
+	"pcpe": "cpe:/a:phpbb:ezboard_converter"
 }

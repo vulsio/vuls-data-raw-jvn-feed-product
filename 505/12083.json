@@ -1,8 +1,8 @@
 {
-  "vid": "505",
-  "vname": "Nortel Networks",
-  "vcpe": "cpe:/:nortel",
-  "pid": "12083",
-  "pname": "meridian option 11c",
-  "pcpe": "cpe:/a:nortel:meridian_option_11c"
+	"vid": "505",
+	"vname": "Nortel Networks",
+	"vcpe": "cpe:/:nortel",
+	"pid": "12083",
+	"pname": "meridian option 11c",
+	"pcpe": "cpe:/a:nortel:meridian_option_11c"
 }

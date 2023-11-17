@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "40292",
-  "pname": "20F1 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:20f1_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "40292",
+	"pname": "20F1 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:20f1_firmware"
 }

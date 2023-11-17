@@ -1,8 +1,8 @@
 {
-  "vid": "4074",
-  "vname": "grsecurity",
-  "vcpe": "cpe:/:grsecurity",
-  "pid": "41360",
-  "pname": "paxtest",
-  "pcpe": "cpe:/a:grsecurity:paxtest"
+	"vid": "4074",
+	"vname": "grsecurity",
+	"vcpe": "cpe:/:grsecurity",
+	"pid": "41360",
+	"pname": "paxtest",
+	"pcpe": "cpe:/a:grsecurity:paxtest"
 }

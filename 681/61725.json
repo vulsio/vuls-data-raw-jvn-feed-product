@@ -1,8 +1,8 @@
 {
-  "vid": "681",
-  "vname": "ASUSTeK Computer Inc.",
-  "vcpe": "cpe:/:asus",
-  "pid": "61725",
-  "pname": "aura ready game software development kit",
-  "pcpe": "cpe:/a:asus:aura_ready_game_software_development_kit"
+	"vid": "681",
+	"vname": "ASUSTeK Computer Inc.",
+	"vcpe": "cpe:/:asus",
+	"pid": "61725",
+	"pname": "aura ready game software development kit",
+	"pcpe": "cpe:/a:asus:aura_ready_game_software_development_kit"
 }

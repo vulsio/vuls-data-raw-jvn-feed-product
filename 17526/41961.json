@@ -1,8 +1,8 @@
 {
-  "vid": "17526",
-  "vname": "DOOGEE",
-  "vcpe": "cpe:/:doogee",
-  "pid": "41961",
-  "pname": "Mix ファームウェア",
-  "pcpe": "cpe:/o:doogee:mix_firmware"
+	"vid": "17526",
+	"vname": "DOOGEE",
+	"vcpe": "cpe:/:doogee",
+	"pid": "41961",
+	"pname": "Mix ファームウェア",
+	"pcpe": "cpe:/o:doogee:mix_firmware"
 }

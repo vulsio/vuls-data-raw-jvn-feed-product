@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "2269",
-  "pname": "Systemwalker Desktop Inspection",
-  "pcpe": "cpe:/a:fujitsu:systemwalker_desktop_inspection"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "2269",
+	"pname": "Systemwalker Desktop Inspection",
+	"pcpe": "cpe:/a:fujitsu:systemwalker_desktop_inspection"
 }

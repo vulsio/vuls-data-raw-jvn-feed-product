@@ -1,8 +1,8 @@
 {
-  "vid": "12985",
-  "vname": "SMA Solar Technology AG",
-  "vcpe": "cpe:/:sma_solar_technology_ag",
-  "pid": "30008",
-  "pname": "Sunny Boy 3600TL ファームウェア",
-  "pcpe": "cpe:/o:sma_solar_technology_ag:sunny_boy_3600tl_firmware"
+	"vid": "12985",
+	"vname": "SMA Solar Technology AG",
+	"vcpe": "cpe:/:sma_solar_technology_ag",
+	"pid": "30008",
+	"pname": "Sunny Boy 3600TL ファームウェア",
+	"pcpe": "cpe:/o:sma_solar_technology_ag:sunny_boy_3600tl_firmware"
 }

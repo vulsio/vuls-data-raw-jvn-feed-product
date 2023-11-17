@@ -1,8 +1,8 @@
 {
-  "vid": "4837",
-  "vname": "ipmotor",
-  "vcpe": "cpe:/:ipmotor",
-  "pid": "10247",
-  "pname": "quarkmail",
-  "pcpe": "cpe:/a:ipmotor:quarkmail"
+	"vid": "4837",
+	"vname": "ipmotor",
+	"vcpe": "cpe:/:ipmotor",
+	"pid": "10247",
+	"pname": "quarkmail",
+	"pcpe": "cpe:/a:ipmotor:quarkmail"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9004",
-  "vname": "Digital Alert Systems",
-  "vcpe": "cpe:/:digital_alert_systems",
-  "pid": "17645",
-  "pname": "DASDEC",
-  "pcpe": "cpe:/h:digital_alert_systems:dasdec_eas"
+	"vid": "9004",
+	"vname": "Digital Alert Systems",
+	"vcpe": "cpe:/:digital_alert_systems",
+	"pid": "17645",
+	"pname": "DASDEC",
+	"pcpe": "cpe:/h:digital_alert_systems:dasdec_eas"
 }

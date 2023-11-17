@@ -1,8 +1,8 @@
 {
-  "vid": "11965",
-  "vname": "全日本空輸株式会社",
-  "vcpe": "cpe:/:ana",
-  "pid": "24932",
-  "pname": "ANA",
-  "pcpe": "cpe:/a:ana:all_nippon_airways"
+	"vid": "11965",
+	"vname": "全日本空輸株式会社",
+	"vcpe": "cpe:/:ana",
+	"pid": "24932",
+	"pname": "ANA",
+	"pcpe": "cpe:/a:ana:all_nippon_airways"
 }

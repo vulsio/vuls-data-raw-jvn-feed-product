@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9975",
-  "pname": "data ontap",
-  "pcpe": "cpe:/a:ibm:data_ontap"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9975",
+	"pname": "data ontap",
+	"pcpe": "cpe:/a:ibm:data_ontap"
 }

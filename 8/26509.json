@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "26509",
-  "pname": "JMS Client (AMQP 1.0)",
-  "pcpe": "cpe:/a:apache:jms_client_amqp"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "26509",
+	"pname": "JMS Client (AMQP 1.0)",
+	"pcpe": "cpe:/a:apache:jms_client_amqp"
 }

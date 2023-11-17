@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "2220",
-  "pname": "Xsan",
-  "pcpe": "cpe:/a:apple:xsan"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "2220",
+	"pname": "Xsan",
+	"pcpe": "cpe:/a:apple:xsan"
 }

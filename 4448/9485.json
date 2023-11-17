@@ -1,8 +1,8 @@
 {
-  "vid": "4448",
-  "vname": "Phoenix Project Management Systems",
-  "vcpe": "cpe:/:phoenixcpm",
-  "pid": "9485",
-  "pname": "Phoenix Project Manager",
-  "pcpe": "cpe:/a:phoenixcpm:phoenix_project_manager"
+	"vid": "4448",
+	"vname": "Phoenix Project Management Systems",
+	"vcpe": "cpe:/:phoenixcpm",
+	"pid": "9485",
+	"pname": "Phoenix Project Manager",
+	"pcpe": "cpe:/a:phoenixcpm:phoenix_project_manager"
 }

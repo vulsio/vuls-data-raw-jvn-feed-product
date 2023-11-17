@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "56572",
-  "pname": "perm",
-  "pcpe": "cpe:/a:debian:perm"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "56572",
+	"pname": "perm",
+	"pcpe": "cpe:/a:debian:perm"
 }

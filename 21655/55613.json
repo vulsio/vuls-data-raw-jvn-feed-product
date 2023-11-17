@@ -1,8 +1,8 @@
 {
-  "vid": "21655",
-  "vname": "Delta RM",
-  "vcpe": "cpe:/:deltarm",
-  "pid": "55613",
-  "pname": "Delta RM",
-  "pcpe": "cpe:/a:deltarm:delta_rm"
+	"vid": "21655",
+	"vname": "Delta RM",
+	"vcpe": "cpe:/:deltarm",
+	"pid": "55613",
+	"pname": "Delta RM",
+	"pcpe": "cpe:/a:deltarm:delta_rm"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17600",
-  "vname": "Data::UUID project",
-  "vcpe": "cpe:/:data%3a%3auuid_project",
-  "pid": "42191",
-  "pname": "Data::UUID",
-  "pcpe": "cpe:/a:data%3a%3auuid_project:data%3a%3auuid"
+	"vid": "17600",
+	"vname": "Data::UUID project",
+	"vcpe": "cpe:/:data%3a%3auuid_project",
+	"pid": "42191",
+	"pname": "Data::UUID",
+	"pcpe": "cpe:/a:data%3a%3auuid_project:data%3a%3auuid"
 }

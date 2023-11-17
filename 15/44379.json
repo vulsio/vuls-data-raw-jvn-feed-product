@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "44379",
-  "pname": "Oracle Application Performance Management",
-  "pcpe": "cpe:/a:oracle:application_performance_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "44379",
+	"pname": "Oracle Application Performance Management",
+	"pcpe": "cpe:/a:oracle:application_performance_management"
 }

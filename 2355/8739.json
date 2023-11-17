@@ -1,8 +1,8 @@
 {
-  "vid": "2355",
-  "vname": "Astaro",
-  "vcpe": "cpe:/:astaro",
-  "pid": "8739",
-  "pname": "Astaro Security Gateway",
-  "pcpe": "cpe:/h:astaro:security_gateway"
+	"vid": "2355",
+	"vname": "Astaro",
+	"vcpe": "cpe:/:astaro",
+	"pid": "8739",
+	"pname": "Astaro Security Gateway",
+	"pcpe": "cpe:/h:astaro:security_gateway"
 }

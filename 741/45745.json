@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "45745",
-  "pname": "DAP-1522 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dap-1522_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "45745",
+	"pname": "DAP-1522 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dap-1522_firmware"
 }

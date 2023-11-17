@@ -1,8 +1,8 @@
 {
-  "vid": "1677",
-  "vname": "The Prosody Team",
-  "vcpe": "cpe:/:prosody",
-  "pid": "43025",
-  "pname": "mod_auth_ldap",
-  "pcpe": "cpe:/a:prosody:mod_auth_ldap"
+	"vid": "1677",
+	"vname": "The Prosody Team",
+	"vcpe": "cpe:/:prosody",
+	"pid": "43025",
+	"pname": "mod_auth_ldap",
+	"pcpe": "cpe:/a:prosody:mod_auth_ldap"
 }

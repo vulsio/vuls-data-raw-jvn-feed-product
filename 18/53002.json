@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "53002",
-  "pname": "IBM Aspera on Cloud",
-  "pcpe": "cpe:/a:ibm:aspera_on_cloud"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "53002",
+	"pname": "IBM Aspera on Cloud",
+	"pcpe": "cpe:/a:ibm:aspera_on_cloud"
 }

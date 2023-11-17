@@ -1,8 +1,8 @@
 {
-  "vid": "11759",
-  "vname": "Simple Subscription project",
-  "vcpe": "cpe:/:simple_subscription_project",
-  "pid": "24273",
-  "pname": "Simple Subscription",
-  "pcpe": "cpe:/a:simple_subscription_project:simple_subscription"
+	"vid": "11759",
+	"vname": "Simple Subscription project",
+	"vcpe": "cpe:/:simple_subscription_project",
+	"pid": "24273",
+	"pname": "Simple Subscription",
+	"pcpe": "cpe:/a:simple_subscription_project:simple_subscription"
 }

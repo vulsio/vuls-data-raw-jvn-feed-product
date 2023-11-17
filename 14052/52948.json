@@ -1,8 +1,8 @@
 {
-  "vid": "14052",
-  "vname": "Matrix",
-  "vcpe": "cpe:/:matrix",
-  "pid": "52948",
-  "pname": "matrix-android-sdk2",
-  "pcpe": "cpe:/a:matrix:matrix-android-sdk2"
+	"vid": "14052",
+	"vname": "Matrix",
+	"vcpe": "cpe:/:matrix",
+	"pid": "52948",
+	"pname": "matrix-android-sdk2",
+	"pcpe": "cpe:/a:matrix:matrix-android-sdk2"
 }

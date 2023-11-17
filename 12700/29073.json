@@ -1,8 +1,8 @@
 {
-  "vid": "12700",
-  "vname": "ntirpc project",
-  "vcpe": "cpe:/:ntirpc_project",
-  "pid": "29073",
-  "pname": "NTIRPC",
-  "pcpe": "cpe:/a:ntirpc_project:ntirpc"
+	"vid": "12700",
+	"vname": "ntirpc project",
+	"vcpe": "cpe:/:ntirpc_project",
+	"pid": "29073",
+	"pname": "NTIRPC",
+	"pcpe": "cpe:/a:ntirpc_project:ntirpc"
 }

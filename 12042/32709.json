@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "32709",
-  "pname": "HPE OfficeConnect 1820 48GスイッチJ9981A ファームウェア",
-  "pcpe": "cpe:/o:hp:officeconnect_1820_48g_switch_j9981a_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "32709",
+	"pname": "HPE OfficeConnect 1820 48GスイッチJ9981A ファームウェア",
+	"pcpe": "cpe:/o:hp:officeconnect_1820_48g_switch_j9981a_firmware"
 }

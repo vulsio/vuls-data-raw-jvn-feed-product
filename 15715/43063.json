@@ -1,8 +1,8 @@
 {
-  "vid": "15715",
-  "vname": "TOTOLINK",
-  "vcpe": "cpe:/:totolink",
-  "pid": "43063",
-  "pname": "N200RE ファームウェア",
-  "pcpe": "cpe:/o:totolink:n200re_firmware"
+	"vid": "15715",
+	"vname": "TOTOLINK",
+	"vcpe": "cpe:/:totolink",
+	"pid": "43063",
+	"pname": "N200RE ファームウェア",
+	"pcpe": "cpe:/o:totolink:n200re_firmware"
 }

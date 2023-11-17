@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "44603",
-  "pname": "IP Phone 8865 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ip_phone_8865_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "44603",
+	"pname": "IP Phone 8865 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ip_phone_8865_firmware"
 }

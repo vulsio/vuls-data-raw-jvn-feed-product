@@ -1,8 +1,8 @@
 {
-  "vid": "14163",
-  "vname": "BMW",
-  "vcpe": "cpe:/:bmw",
-  "pid": "33801",
-  "pname": "Head Unit HU_NBT",
-  "pcpe": "cpe:/o:bmw:head_unit_hu_nbt_firmware"
+	"vid": "14163",
+	"vname": "BMW",
+	"vcpe": "cpe:/:bmw",
+	"pid": "33801",
+	"pname": "Head Unit HU_NBT",
+	"pcpe": "cpe:/o:bmw:head_unit_hu_nbt_firmware"
 }

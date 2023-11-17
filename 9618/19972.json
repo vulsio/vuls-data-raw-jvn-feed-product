@@ -1,8 +1,8 @@
 {
-  "vid": "9618",
-  "vname": "Power Software",
-  "vcpe": "cpe:/:powersoftware",
-  "pid": "19972",
-  "pname": "WinArchiver",
-  "pcpe": "cpe:/a:powersoftware:winarchiver"
+	"vid": "9618",
+	"vname": "Power Software",
+	"vcpe": "cpe:/:powersoftware",
+	"pid": "19972",
+	"pname": "WinArchiver",
+	"pcpe": "cpe:/a:powersoftware:winarchiver"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "12123",
-  "pname": "SUSE Lifecycle Management Server",
-  "pcpe": "cpe:/a:novell:suse_lifecycle_management_server"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "12123",
+	"pname": "SUSE Lifecycle Management Server",
+	"pcpe": "cpe:/a:novell:suse_lifecycle_management_server"
 }

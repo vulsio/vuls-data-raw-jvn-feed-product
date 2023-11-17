@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30304",
-  "pname": "YANGTIAN Mc Godavari ファームウェア",
-  "pcpe": "cpe:/o:lenovo:yangtian_mc_godavari_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30304",
+	"pname": "YANGTIAN Mc Godavari ファームウェア",
+	"pcpe": "cpe:/o:lenovo:yangtian_mc_godavari_firmware"
 }

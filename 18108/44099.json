@@ -1,8 +1,8 @@
 {
-  "vid": "18108",
-  "vname": "PyUp",
-  "vcpe": "cpe:/:pyup",
-  "pid": "44099",
-  "pname": "Safety",
-  "pcpe": "cpe:/a:pyup:safety"
+	"vid": "18108",
+	"vname": "PyUp",
+	"vcpe": "cpe:/:pyup",
+	"pid": "44099",
+	"pname": "Safety",
+	"pcpe": "cpe:/a:pyup:safety"
 }

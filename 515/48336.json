@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "48336",
-  "pname": "VMware SD-WAN Orchestrator",
-  "pcpe": "cpe:/a:vmware:sd-wan_orchestrator"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "48336",
+	"pname": "VMware SD-WAN Orchestrator",
+	"pcpe": "cpe:/a:vmware:sd-wan_orchestrator"
 }

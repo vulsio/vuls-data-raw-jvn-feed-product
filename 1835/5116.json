@@ -1,8 +1,8 @@
 {
-  "vid": "1835",
-  "vname": "Intuit",
-  "vcpe": "cpe:/:intuit",
-  "pid": "5116",
-  "pname": "Intuit QuickBooks",
-  "pcpe": "cpe:/a:intuit:quickbooks"
+	"vid": "1835",
+	"vname": "Intuit",
+	"vcpe": "cpe:/:intuit",
+	"pid": "5116",
+	"pname": "Intuit QuickBooks",
+	"pcpe": "cpe:/a:intuit:quickbooks"
 }

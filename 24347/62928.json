@@ -1,8 +1,8 @@
 {
-  "vid": "24347",
-  "vname": "pentasecurity",
-  "vcpe": "cpe:/:pentasecurity",
-  "pid": "62928",
-  "pname": "wapples",
-  "pcpe": "cpe:/a:pentasecurity:wapples"
+	"vid": "24347",
+	"vname": "pentasecurity",
+	"vcpe": "cpe:/:pentasecurity",
+	"pid": "62928",
+	"pname": "wapples",
+	"pcpe": "cpe:/a:pentasecurity:wapples"
 }

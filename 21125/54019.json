@@ -1,8 +1,8 @@
 {
-  "vid": "21125",
-  "vname": "ServiceTonic",
-  "vcpe": "cpe:/:servicetonic",
-  "pid": "54019",
-  "pname": "ServiceTonic",
-  "pcpe": "cpe:/a:servicetonic:servicetonic"
+	"vid": "21125",
+	"vname": "ServiceTonic",
+	"vcpe": "cpe:/:servicetonic",
+	"pid": "54019",
+	"pname": "ServiceTonic",
+	"pcpe": "cpe:/a:servicetonic:servicetonic"
 }

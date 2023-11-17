@@ -1,8 +1,8 @@
 {
-  "vid": "19316",
-  "vname": "Remote Clinic",
-  "vcpe": "cpe:/:remoteclinic",
-  "pid": "48609",
-  "pname": "Remote Clinic",
-  "pcpe": "cpe:/a:remoteclinic:remote_clinic"
+	"vid": "19316",
+	"vname": "Remote Clinic",
+	"vcpe": "cpe:/:remoteclinic",
+	"pid": "48609",
+	"pname": "Remote Clinic",
+	"pcpe": "cpe:/a:remoteclinic:remote_clinic"
 }

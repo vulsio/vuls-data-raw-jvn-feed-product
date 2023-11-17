@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "29444",
-  "pname": "Cisco Industrial Network Director",
-  "pcpe": "cpe:/a:cisco:industrial_network_director"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "29444",
+	"pname": "Cisco Industrial Network Director",
+	"pcpe": "cpe:/a:cisco:industrial_network_director"
 }

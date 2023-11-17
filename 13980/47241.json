@@ -1,8 +1,8 @@
 {
-  "vid": "13980",
-  "vname": "CyberArk Software Ltd.",
-  "vcpe": "cpe:/:cyberark",
-  "pid": "47241",
-  "pname": "Privileged Session Manager",
-  "pcpe": "cpe:/a:cyberark:privileged_session_manager"
+	"vid": "13980",
+	"vname": "CyberArk Software Ltd.",
+	"vcpe": "cpe:/:cyberark",
+	"pid": "47241",
+	"pname": "Privileged Session Manager",
+	"pcpe": "cpe:/a:cyberark:privileged_session_manager"
 }

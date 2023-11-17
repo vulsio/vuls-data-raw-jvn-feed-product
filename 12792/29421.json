@@ -1,8 +1,8 @@
 {
-  "vid": "12792",
-  "vname": "Tada AB.",
-  "vcpe": "cpe:/:tada_ab",
-  "pid": "29421",
-  "pname": "PL/Java",
-  "pcpe": "cpe:/a:tada_ab:postgre_sql_pl%2Fjava"
+	"vid": "12792",
+	"vname": "Tada AB.",
+	"vcpe": "cpe:/:tada_ab",
+	"pid": "29421",
+	"pname": "PL/Java",
+	"pcpe": "cpe:/a:tada_ab:postgre_sql_pl%2Fjava"
 }

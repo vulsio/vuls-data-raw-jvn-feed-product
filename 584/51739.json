@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "51739",
-  "pname": "SCALANCE X307-2EEC ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_x307-2eec_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "51739",
+	"pname": "SCALANCE X307-2EEC ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_x307-2eec_firmware"
 }

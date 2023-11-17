@@ -1,8 +1,8 @@
 {
-  "vid": "800",
-  "vname": "Zenprise Inc.",
-  "vcpe": "cpe:/:zenprise",
-  "pid": "3171",
-  "pname": "Zenprise Device Manager",
-  "pcpe": "cpe:/a:zenprise:zenprise_device_manager"
+	"vid": "800",
+	"vname": "Zenprise Inc.",
+	"vcpe": "cpe:/:zenprise",
+	"pid": "3171",
+	"pname": "Zenprise Device Manager",
+	"pcpe": "cpe:/a:zenprise:zenprise_device_manager"
 }

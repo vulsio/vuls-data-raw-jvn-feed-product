@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "31208",
-  "pname": "JBoss Data Grid",
-  "pcpe": "cpe:/a:redhat:data_grid"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "31208",
+	"pname": "JBoss Data Grid",
+	"pcpe": "cpe:/a:redhat:data_grid"
 }

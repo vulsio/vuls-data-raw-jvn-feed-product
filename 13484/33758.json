@@ -1,8 +1,8 @@
 {
-  "vid": "13484",
-  "vname": "KEMP Technologies,Inc.",
-  "vcpe": "cpe:/:kemptechnologies",
-  "pid": "33758",
-  "pname": "LoadMaster Operating System",
-  "pcpe": "cpe:/o:kemptechnologies:loadmaster_operating_system"
+	"vid": "13484",
+	"vname": "KEMP Technologies,Inc.",
+	"vcpe": "cpe:/:kemptechnologies",
+	"pid": "33758",
+	"pname": "LoadMaster Operating System",
+	"pcpe": "cpe:/o:kemptechnologies:loadmaster_operating_system"
 }

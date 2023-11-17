@@ -1,8 +1,8 @@
 {
-  "vid": "12112",
-  "vname": "パルスセキュア",
-  "vcpe": "cpe:/:pulsesecure",
-  "pid": "30742",
-  "pname": "Pulse One On-Premise",
-  "pcpe": "cpe:/a:pulsesecure:pulse_one_on-premise"
+	"vid": "12112",
+	"vname": "パルスセキュア",
+	"vcpe": "cpe:/:pulsesecure",
+	"pid": "30742",
+	"pname": "Pulse One On-Premise",
+	"pcpe": "cpe:/a:pulsesecure:pulse_one_on-premise"
 }

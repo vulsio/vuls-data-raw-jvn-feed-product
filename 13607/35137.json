@@ -1,8 +1,8 @@
 {
-  "vid": "13607",
-  "vname": "Ethereum Foundation",
-  "vcpe": "cpe:/:ethereum",
-  "pid": "35137",
-  "pname": "Go Ethereum",
-  "pcpe": "cpe:/a:ethereum:go_ethereum"
+	"vid": "13607",
+	"vname": "Ethereum Foundation",
+	"vcpe": "cpe:/:ethereum",
+	"pid": "35137",
+	"pname": "Go Ethereum",
+	"pcpe": "cpe:/a:ethereum:go_ethereum"
 }

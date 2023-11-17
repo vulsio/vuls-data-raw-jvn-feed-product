@@ -1,8 +1,8 @@
 {
-  "vid": "22558",
-  "vname": "guzzlephp",
-  "vcpe": "cpe:/:guzzlephp",
-  "pid": "59935",
-  "pname": "guzzle",
-  "pcpe": "cpe:/a:guzzlephp:guzzle"
+	"vid": "22558",
+	"vname": "guzzlephp",
+	"vcpe": "cpe:/:guzzlephp",
+	"pid": "59935",
+	"pname": "guzzle",
+	"pcpe": "cpe:/a:guzzlephp:guzzle"
 }

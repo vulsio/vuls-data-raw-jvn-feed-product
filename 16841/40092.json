@@ -1,8 +1,8 @@
 {
-  "vid": "16841",
-  "vname": "hotosm",
-  "vcpe": "cpe:/:hostosm",
-  "pid": "40092",
-  "pname": "Tasking Manager",
-  "pcpe": "cpe:/a:hostosm:tasking_manager"
+	"vid": "16841",
+	"vname": "hotosm",
+	"vcpe": "cpe:/:hostosm",
+	"pid": "40092",
+	"pname": "Tasking Manager",
+	"pcpe": "cpe:/a:hostosm:tasking_manager"
 }

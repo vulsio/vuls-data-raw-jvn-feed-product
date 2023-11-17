@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "54470",
-  "pname": "NVIDIA DRIVE Constellation",
-  "pcpe": "cpe:/o:nvidia:drive_constellation"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "54470",
+	"pname": "NVIDIA DRIVE Constellation",
+	"pcpe": "cpe:/o:nvidia:drive_constellation"
 }

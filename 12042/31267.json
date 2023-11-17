@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "31267",
-  "pname": "HPE Content Manager",
-  "pcpe": "cpe:/a:hp:content_manager"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "31267",
+	"pname": "HPE Content Manager",
+	"pcpe": "cpe:/a:hp:content_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9143",
-  "vname": "FreeSWITCH",
-  "vcpe": "cpe:/:freeswitch",
-  "pid": "18468",
-  "pname": "FreeSWITCH",
-  "pcpe": "cpe:/a:freeswitch:freeswitch"
+	"vid": "9143",
+	"vname": "FreeSWITCH",
+	"vcpe": "cpe:/:freeswitch",
+	"pid": "18468",
+	"pname": "FreeSWITCH",
+	"pcpe": "cpe:/a:freeswitch:freeswitch"
 }

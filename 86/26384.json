@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "26384",
-  "pname": "WZR-D1100H ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wzr-d1100h_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "26384",
+	"pname": "WZR-D1100H ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wzr-d1100h_firmware"
 }

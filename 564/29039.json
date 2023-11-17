@@ -1,8 +1,8 @@
 {
-  "vid": "564",
-  "vname": "Panda Security",
-  "vcpe": "cpe:/:pandasecurity",
-  "pid": "29039",
-  "pname": "Panda Mobile Security",
-  "pcpe": "cpe:/a:pandasecurity:panda_mobile_security"
+	"vid": "564",
+	"vname": "Panda Security",
+	"vcpe": "cpe:/:pandasecurity",
+	"pid": "29039",
+	"pname": "Panda Mobile Security",
+	"pcpe": "cpe:/a:pandasecurity:panda_mobile_security"
 }

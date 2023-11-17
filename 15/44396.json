@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "44396",
-  "pname": "Oracle CRM Gateway for Mobile Devices",
-  "pcpe": "cpe:/a:oracle:customer_relationship_management_gateway_for_mobile_devices"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "44396",
+	"pname": "Oracle CRM Gateway for Mobile Devices",
+	"pcpe": "cpe:/a:oracle:customer_relationship_management_gateway_for_mobile_devices"
 }

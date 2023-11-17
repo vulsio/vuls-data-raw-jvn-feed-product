@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "54703",
-  "pname": "NGINX ModSecurity WAF",
-  "pcpe": "cpe:/a:f5:nginx_modsecurity_waf"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "54703",
+	"pname": "NGINX ModSecurity WAF",
+	"pcpe": "cpe:/a:f5:nginx_modsecurity_waf"
 }

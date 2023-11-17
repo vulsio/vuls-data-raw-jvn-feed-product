@@ -1,8 +1,8 @@
 {
-  "vid": "12614",
-  "vname": "CloudView NMS",
-  "vcpe": "cpe:/:cloudviewnms",
-  "pid": "28766",
-  "pname": "CloudView NMS",
-  "pcpe": "cpe:/a:cloudviewnms:cloudview_nms"
+	"vid": "12614",
+	"vname": "CloudView NMS",
+	"vcpe": "cpe:/:cloudviewnms",
+	"pid": "28766",
+	"pname": "CloudView NMS",
+	"pcpe": "cpe:/a:cloudviewnms:cloudview_nms"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19652",
-  "vname": "ADT",
-  "vcpe": "cpe:/:adt",
-  "pid": "49521",
-  "pname": "LifeShield HD Video Doorbell ファームウェア",
-  "pcpe": "cpe:/o:adt:lifeshield_diy_hd_video_doorbell_firmware"
+	"vid": "19652",
+	"vname": "ADT",
+	"vcpe": "cpe:/:adt",
+	"pid": "49521",
+	"pname": "LifeShield HD Video Doorbell ファームウェア",
+	"pcpe": "cpe:/o:adt:lifeshield_diy_hd_video_doorbell_firmware"
 }

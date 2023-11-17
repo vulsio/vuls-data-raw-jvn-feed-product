@@ -1,8 +1,8 @@
 {
-  "vid": "20683",
-  "vname": "TH Wildau",
-  "vcpe": "cpe:/:th-wildau",
-  "pid": "52617",
-  "pname": "COVID-19 Contact Tracing",
-  "pcpe": "cpe:/a:th-wildau:covid-19_contact_tracing"
+	"vid": "20683",
+	"vname": "TH Wildau",
+	"vcpe": "cpe:/:th-wildau",
+	"pid": "52617",
+	"pname": "COVID-19 Contact Tracing",
+	"pcpe": "cpe:/a:th-wildau:covid-19_contact_tracing"
 }

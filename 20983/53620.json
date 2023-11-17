@@ -1,8 +1,8 @@
 {
-  "vid": "20983",
-  "vname": "VITEC",
-  "vcpe": "cpe:/:vitec",
-  "pid": "53620",
-  "pname": "AvediaStream m9305 ファームウェア",
-  "pcpe": "cpe:/o:vitec:avediastream_m9305_firmware"
+	"vid": "20983",
+	"vname": "VITEC",
+	"vcpe": "cpe:/:vitec",
+	"pid": "53620",
+	"pname": "AvediaStream m9305 ファームウェア",
+	"pcpe": "cpe:/o:vitec:avediastream_m9305_firmware"
 }

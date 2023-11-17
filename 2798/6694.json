@@ -1,8 +1,8 @@
 {
-  "vid": "2798",
-  "vname": "chilkatsoft",
-  "vcpe": "cpe:/:chilkatsoft",
-  "pid": "6694",
-  "pname": "chilkat imap activex control",
-  "pcpe": "cpe:/a:chilkatsoft:chilkat_imap_activex_control"
+	"vid": "2798",
+	"vname": "chilkatsoft",
+	"vcpe": "cpe:/:chilkatsoft",
+	"pid": "6694",
+	"pname": "chilkat imap activex control",
+	"pcpe": "cpe:/a:chilkatsoft:chilkat_imap_activex_control"
 }

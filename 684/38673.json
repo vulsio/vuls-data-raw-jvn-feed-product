@@ -1,8 +1,8 @@
 {
-  "vid": "684",
-  "vname": "LifeSize Communications",
-  "vcpe": "cpe:/:lifesize",
-  "pid": "38673",
-  "pname": "Lifesize Icon 300 ファームウェア",
-  "pcpe": "cpe:/o:lifesize:icon_300_firmware"
+	"vid": "684",
+	"vname": "LifeSize Communications",
+	"vcpe": "cpe:/:lifesize",
+	"pid": "38673",
+	"pname": "Lifesize Icon 300 ファームウェア",
+	"pcpe": "cpe:/o:lifesize:icon_300_firmware"
 }

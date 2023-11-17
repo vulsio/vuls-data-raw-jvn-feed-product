@@ -1,8 +1,8 @@
 {
-  "vid": "2228",
-  "vname": "andrews-web",
-  "vcpe": "cpe:/:andrews-web",
-  "pid": "5800",
-  "pname": "aw-bannerad",
-  "pcpe": "cpe:/a:andrews-web:aw-bannerad"
+	"vid": "2228",
+	"vname": "andrews-web",
+	"vcpe": "cpe:/:andrews-web",
+	"pid": "5800",
+	"pname": "aw-bannerad",
+	"pcpe": "cpe:/a:andrews-web:aw-bannerad"
 }

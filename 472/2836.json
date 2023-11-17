@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "2836",
-  "pname": "RSLinx Classic EDS Hardware Installation Tool",
-  "pcpe": "cpe:/a:rockwellautomation:rslinx_classic_eds_hardware_installation_tool"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "2836",
+	"pname": "RSLinx Classic EDS Hardware Installation Tool",
+	"pcpe": "cpe:/a:rockwellautomation:rslinx_classic_eds_hardware_installation_tool"
 }

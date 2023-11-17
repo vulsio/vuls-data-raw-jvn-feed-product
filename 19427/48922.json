@@ -1,8 +1,8 @@
 {
-  "vid": "19427",
-  "vname": "libpulse-binding project",
-  "vcpe": "cpe:/:libpulse-binding_project",
-  "pid": "48922",
-  "pname": "libpulse-binding",
-  "pcpe": "cpe:/a:libpulse-binding_project:libpulse-binding"
+	"vid": "19427",
+	"vname": "libpulse-binding project",
+	"vcpe": "cpe:/:libpulse-binding_project",
+	"pid": "48922",
+	"pname": "libpulse-binding",
+	"pcpe": "cpe:/a:libpulse-binding_project:libpulse-binding"
 }

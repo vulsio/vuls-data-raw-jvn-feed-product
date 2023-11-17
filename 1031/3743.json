@@ -1,8 +1,8 @@
 {
-  "vid": "1031",
-  "vname": "Tencent",
-  "vcpe": "cpe:/:qqplayer",
-  "pid": "3743",
-  "pname": "WBlog",
-  "pcpe": "cpe:/a:qqplayer:wblog"
+	"vid": "1031",
+	"vname": "Tencent",
+	"vcpe": "cpe:/:qqplayer",
+	"pid": "3743",
+	"pname": "WBlog",
+	"pcpe": "cpe:/a:qqplayer:wblog"
 }

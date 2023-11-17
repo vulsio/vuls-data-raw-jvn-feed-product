@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "52141",
-  "pname": "Amazon CloudFront",
-  "pcpe": "cpe:/a:amazon:amazon_cloudfront"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "52141",
+	"pname": "Amazon CloudFront",
+	"pcpe": "cpe:/a:amazon:amazon_cloudfront"
 }

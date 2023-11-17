@@ -1,8 +1,8 @@
 {
-  "vid": "23339",
-  "vname": "rstinstruments",
-  "vcpe": "cpe:/:rstinstruments",
-  "pid": "60457",
-  "pname": "dt2040 ファームウェア",
-  "pcpe": "cpe:/o:rstinstruments:dt2040_firmware"
+	"vid": "23339",
+	"vname": "rstinstruments",
+	"vcpe": "cpe:/:rstinstruments",
+	"pid": "60457",
+	"pname": "dt2040 ファームウェア",
+	"pcpe": "cpe:/o:rstinstruments:dt2040_firmware"
 }

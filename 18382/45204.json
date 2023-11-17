@@ -1,8 +1,8 @@
 {
-  "vid": "18382",
-  "vname": "CipherMail",
-  "vcpe": "cpe:/:ciphermail",
-  "pid": "45204",
-  "pname": "Gateway",
-  "pcpe": "cpe:/a:ciphermail:gateway"
+	"vid": "18382",
+	"vname": "CipherMail",
+	"vcpe": "cpe:/:ciphermail",
+	"pid": "45204",
+	"pname": "Gateway",
+	"pcpe": "cpe:/a:ciphermail:gateway"
 }

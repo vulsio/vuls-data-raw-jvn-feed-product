@@ -1,8 +1,8 @@
 {
-  "vid": "5333",
-  "vname": "linux.thai",
-  "vcpe": "cpe:/:linux.thai",
-  "pid": "11014",
-  "pname": "libthai",
-  "pcpe": "cpe:/a:linux.thai:libthai"
+	"vid": "5333",
+	"vname": "linux.thai",
+	"vcpe": "cpe:/:linux.thai",
+	"pid": "11014",
+	"pname": "libthai",
+	"pcpe": "cpe:/a:linux.thai:libthai"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21873",
-  "vname": "InSTEDD",
-  "vcpe": "cpe:/:instedd",
-  "pid": "56120",
-  "pname": "Nuntium",
-  "pcpe": "cpe:/a:instedd:nuntium"
+	"vid": "21873",
+	"vname": "InSTEDD",
+	"vcpe": "cpe:/:instedd",
+	"pid": "56120",
+	"pname": "Nuntium",
+	"pcpe": "cpe:/a:instedd:nuntium"
 }

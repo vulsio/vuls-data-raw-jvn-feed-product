@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "44593",
-  "pname": "System 800xA Base",
-  "pcpe": "cpe:/a:abb:800xa_base_system"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "44593",
+	"pname": "System 800xA Base",
+	"pcpe": "cpe:/a:abb:800xa_base_system"
 }

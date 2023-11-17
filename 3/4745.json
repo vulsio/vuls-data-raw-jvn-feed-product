@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "4745",
-  "pname": "Red Hat Directory Server",
-  "pcpe": "cpe:/a:redhat:directory_server"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "4745",
+	"pname": "Red Hat Directory Server",
+	"pcpe": "cpe:/a:redhat:directory_server"
 }

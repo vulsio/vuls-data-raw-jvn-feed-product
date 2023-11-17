@@ -1,8 +1,8 @@
 {
-  "vid": "4110",
-  "vname": "Logitech",
-  "vcpe": "cpe:/:logitech",
-  "pid": "39355",
-  "pname": "K400R ファームウェア",
-  "pcpe": "cpe:/o:logitech:k400r_firmware"
+	"vid": "4110",
+	"vname": "Logitech",
+	"vcpe": "cpe:/:logitech",
+	"pid": "39355",
+	"pname": "K400R ファームウェア",
+	"pcpe": "cpe:/o:logitech:k400r_firmware"
 }

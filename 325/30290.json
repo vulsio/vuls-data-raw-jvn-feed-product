@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30290",
-  "pname": "ThinkServer RD640 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkserver_rd640_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30290",
+	"pname": "ThinkServer RD640 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkserver_rd640_firmware"
 }

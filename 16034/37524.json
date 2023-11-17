@@ -1,8 +1,8 @@
 {
-  "vid": "16034",
-  "vname": "Hiawatha",
-  "vcpe": "cpe:/:hiawatha-webserver",
-  "pid": "37524",
-  "pname": "Hiawatha Webserver",
-  "pcpe": "cpe:/a:hiawatha-webserver:hiawatha"
+	"vid": "16034",
+	"vname": "Hiawatha",
+	"vcpe": "cpe:/:hiawatha-webserver",
+	"pid": "37524",
+	"pname": "Hiawatha Webserver",
+	"pcpe": "cpe:/a:hiawatha-webserver:hiawatha"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "52397",
-  "pname": "Dell EMC Repository Manager",
-  "pcpe": "cpe:/h:dell:emc_repository_manager"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "52397",
+	"pname": "Dell EMC Repository Manager",
+	"pcpe": "cpe:/h:dell:emc_repository_manager"
 }

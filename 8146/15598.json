@@ -1,8 +1,8 @@
 {
-  "vid": "8146",
-  "vname": "tukeva",
-  "vcpe": "cpe:/:tukeva",
-  "pid": "15598",
-  "pname": "password reminder",
-  "pcpe": "cpe:/a:tukeva:password_reminder"
+	"vid": "8146",
+	"vname": "tukeva",
+	"vcpe": "cpe:/:tukeva",
+	"pid": "15598",
+	"pname": "password reminder",
+	"pcpe": "cpe:/a:tukeva:password_reminder"
 }

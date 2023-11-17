@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "30819",
-  "pname": "P-663HN-51 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:p-663hn-51_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "30819",
+	"pname": "P-663HN-51 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:p-663hn-51_firmware"
 }

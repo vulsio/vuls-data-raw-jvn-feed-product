@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "16875",
-  "pname": "IBM InfoSphere Information Server MetaBrokers & Bridges",
-  "pcpe": "cpe:/a:ibm:infosphere_information_server_metabrokers_%26_bridges"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "16875",
+	"pname": "IBM InfoSphere Information Server MetaBrokers & Bridges",
+	"pcpe": "cpe:/a:ibm:infosphere_information_server_metabrokers_%26_bridges"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9788",
-  "vname": "Tinsology",
-  "vcpe": "cpe:/:wp_simplemail_project",
-  "pid": "20407",
-  "pname": "WP SimpleMail",
-  "pcpe": "cpe:/a:wp_simplemail_project:wp_simplemail"
+	"vid": "9788",
+	"vname": "Tinsology",
+	"vcpe": "cpe:/:wp_simplemail_project",
+	"pid": "20407",
+	"pname": "WP SimpleMail",
+	"pcpe": "cpe:/a:wp_simplemail_project:wp_simplemail"
 }

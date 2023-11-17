@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "3714",
-  "pname": "IBM Lotus Symphony",
-  "pcpe": "cpe:/a:ibm:lotus_symphony"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "3714",
+	"pname": "IBM Lotus Symphony",
+	"pcpe": "cpe:/a:ibm:lotus_symphony"
 }

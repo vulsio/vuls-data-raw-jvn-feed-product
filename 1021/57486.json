@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "57486",
-  "pname": "Barbican",
-  "pcpe": "cpe:/a:openstack:barbican"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "57486",
+	"pname": "Barbican",
+	"pcpe": "cpe:/a:openstack:barbican"
 }

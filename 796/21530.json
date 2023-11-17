@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "21530",
-  "pname": "E4200v2 ファームウェア",
-  "pcpe": "cpe:/o:linksys:e4200v2_firmware"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "21530",
+	"pname": "E4200v2 ファームウェア",
+	"pcpe": "cpe:/o:linksys:e4200v2_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "7152",
-  "vname": "pxsystem",
-  "vcpe": "cpe:/:pxsystem",
-  "pid": "14121",
-  "pname": "plume-cms",
-  "pcpe": "cpe:/a:pxsystem:plume-cms"
+	"vid": "7152",
+	"vname": "pxsystem",
+	"vcpe": "cpe:/:pxsystem",
+	"pid": "14121",
+	"pname": "plume-cms",
+	"pcpe": "cpe:/a:pxsystem:plume-cms"
 }

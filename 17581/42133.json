@@ -1,8 +1,8 @@
 {
-  "vid": "17581",
-  "vname": "atasm project",
-  "vcpe": "cpe:/:atasm_project",
-  "pid": "42133",
-  "pname": "ATasm",
-  "pcpe": "cpe:/a:atasm_project:atasm"
+	"vid": "17581",
+	"vname": "atasm project",
+	"vcpe": "cpe:/:atasm_project",
+	"pid": "42133",
+	"pname": "ATasm",
+	"pcpe": "cpe:/a:atasm_project:atasm"
 }

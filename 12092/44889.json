@@ -1,8 +1,8 @@
 {
-  "vid": "12092",
-  "vname": "edX",
-  "vcpe": "cpe:/:edx",
-  "pid": "44889",
-  "pname": "Open edX Platform",
-  "pcpe": "cpe:/a:edx:open_edx_platform"
+	"vid": "12092",
+	"vname": "edX",
+	"vcpe": "cpe:/:edx",
+	"pid": "44889",
+	"pname": "Open edX Platform",
+	"pcpe": "cpe:/a:edx:open_edx_platform"
 }

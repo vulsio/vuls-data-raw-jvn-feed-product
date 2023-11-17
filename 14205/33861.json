@@ -1,8 +1,8 @@
 {
-  "vid": "14205",
-  "vname": "mssql.js project",
-  "vcpe": "cpe:/:mssql.js_project",
-  "pid": "33861",
-  "pname": "mssql.js",
-  "pcpe": "cpe:/a:mssql.js_project:mssql.js"
+	"vid": "14205",
+	"vname": "mssql.js project",
+	"vcpe": "cpe:/:mssql.js_project",
+	"pid": "33861",
+	"pname": "mssql.js",
+	"pcpe": "cpe:/a:mssql.js_project:mssql.js"
 }

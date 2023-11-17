@@ -1,8 +1,8 @@
 {
-  "vid": "17493",
-  "vname": "Haier Co., Ltd.",
-  "vcpe": "cpe:/:haier",
-  "pid": "41779",
-  "pname": "Haier G8 ファームウェア",
-  "pcpe": "cpe:/o:haier:g8_firmware"
+	"vid": "17493",
+	"vname": "Haier Co., Ltd.",
+	"vcpe": "cpe:/:haier",
+	"pid": "41779",
+	"pname": "Haier G8 ファームウェア",
+	"pcpe": "cpe:/o:haier:g8_firmware"
 }

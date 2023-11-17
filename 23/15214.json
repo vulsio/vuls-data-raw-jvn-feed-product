@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15214",
-  "pname": "reporting server",
-  "pcpe": "cpe:/a:symantec:reporting_server"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15214",
+	"pname": "reporting server",
+	"pcpe": "cpe:/a:symantec:reporting_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "7763",
-  "pname": "dantz retrospect backup server",
-  "pcpe": "cpe:/a:emc:dantz_retrospect_backup_server"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "7763",
+	"pname": "dantz retrospect backup server",
+	"pcpe": "cpe:/a:emc:dantz_retrospect_backup_server"
 }

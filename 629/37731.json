@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "37731",
-  "pname": "EDS-510A シリーズ ファームウェア",
-  "pcpe": "cpe:/o:moxa:eds-510a_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "37731",
+	"pname": "EDS-510A シリーズ ファームウェア",
+	"pcpe": "cpe:/o:moxa:eds-510a_firmware"
 }

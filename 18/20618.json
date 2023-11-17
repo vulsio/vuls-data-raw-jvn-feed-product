@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20618",
-  "pname": "Rational Lifecycle Integration Adapter",
-  "pcpe": "cpe:/a:ibm:rational_lifecycle_integration_adapter"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20618",
+	"pname": "Rational Lifecycle Integration Adapter",
+	"pcpe": "cpe:/a:ibm:rational_lifecycle_integration_adapter"
 }

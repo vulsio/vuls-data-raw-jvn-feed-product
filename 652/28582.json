@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "28582",
-  "pname": "Smart TV X12 ファームウェア",
-  "pcpe": "cpe:/o:samsung:x12_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "28582",
+	"pname": "Smart TV X12 ファームウェア",
+	"pcpe": "cpe:/o:samsung:x12_firmware"
 }

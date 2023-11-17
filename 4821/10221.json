@@ -1,8 +1,8 @@
 {
-  "vid": "4821",
-  "vname": "intervideo",
-  "vcpe": "cpe:/:intervideo",
-  "pid": "10221",
-  "pname": "home theater",
-  "pcpe": "cpe:/a:intervideo:home_theater"
+	"vid": "4821",
+	"vname": "intervideo",
+	"vcpe": "cpe:/:intervideo",
+	"pid": "10221",
+	"pname": "home theater",
+	"pcpe": "cpe:/a:intervideo:home_theater"
 }

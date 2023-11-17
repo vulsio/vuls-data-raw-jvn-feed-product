@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23557",
-  "pname": "Cisco IDS 4215",
-  "pcpe": "cpe:/h:cisco:ids_4215"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23557",
+	"pname": "Cisco IDS 4215",
+	"pcpe": "cpe:/h:cisco:ids_4215"
 }

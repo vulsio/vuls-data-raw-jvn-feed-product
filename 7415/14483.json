@@ -1,8 +1,8 @@
 {
-  "vid": "7415",
-  "vname": "sambar",
-  "vcpe": "cpe:/:sambar",
-  "pid": "14483",
-  "pname": "sambar server",
-  "pcpe": "cpe:/a:sambar:sambar_server"
+	"vid": "7415",
+	"vname": "sambar",
+	"vcpe": "cpe:/:sambar",
+	"pid": "14483",
+	"pname": "sambar server",
+	"pcpe": "cpe:/a:sambar:sambar_server"
 }

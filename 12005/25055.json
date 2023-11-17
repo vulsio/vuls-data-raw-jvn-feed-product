@@ -1,8 +1,8 @@
 {
-  "vid": "12005",
-  "vname": "Arista Networks, Inc.",
-  "vcpe": "cpe:/:arista",
-  "pid": "25055",
-  "pname": "Arista EOS",
-  "pcpe": "cpe:/o:arista:eos"
+	"vid": "12005",
+	"vname": "Arista Networks, Inc.",
+	"vcpe": "cpe:/:arista",
+	"pid": "25055",
+	"pname": "Arista EOS",
+	"pcpe": "cpe:/o:arista:eos"
 }

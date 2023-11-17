@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "38911",
-  "pname": "Citrix SD-WAN Center",
-  "pcpe": "cpe:/a:citrix:citrix_sd-wan_center"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "38911",
+	"pname": "Citrix SD-WAN Center",
+	"pcpe": "cpe:/a:citrix:citrix_sd-wan_center"
 }

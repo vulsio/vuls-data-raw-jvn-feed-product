@@ -1,8 +1,8 @@
 {
-  "vid": "24663",
-  "vname": "kardex",
-  "vcpe": "cpe:/:kardex",
-  "pid": "63977",
-  "pname": "kardex control center",
-  "pcpe": "cpe:/a:kardex:kardex_control_center"
+	"vid": "24663",
+	"vname": "kardex",
+	"vcpe": "cpe:/:kardex",
+	"pid": "63977",
+	"pname": "kardex control center",
+	"pcpe": "cpe:/a:kardex:kardex_control_center"
 }

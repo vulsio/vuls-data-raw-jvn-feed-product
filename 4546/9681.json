@@ -1,8 +1,8 @@
 {
-  "vid": "4546",
-  "vname": "Tribulant Software",
-  "vcpe": "cpe:/:tribulant",
-  "pid": "9681",
-  "pname": "Whois Search",
-  "pcpe": "cpe:/a:tribulant:samswhois"
+	"vid": "4546",
+	"vname": "Tribulant Software",
+	"vcpe": "cpe:/:tribulant",
+	"pid": "9681",
+	"pname": "Whois Search",
+	"pcpe": "cpe:/a:tribulant:samswhois"
 }

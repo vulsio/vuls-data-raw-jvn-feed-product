@@ -1,8 +1,8 @@
 {
-  "vid": "11525",
-  "vname": "MACTek Corporation",
-  "vcpe": "cpe:/:mactek",
-  "pid": "23490",
-  "pname": "Bullet WirelessHART Device Type Manager",
-  "pcpe": "cpe:/a:mactek:bullet_device_type_manager"
+	"vid": "11525",
+	"vname": "MACTek Corporation",
+	"vcpe": "cpe:/:mactek",
+	"pid": "23490",
+	"pname": "Bullet WirelessHART Device Type Manager",
+	"pcpe": "cpe:/a:mactek:bullet_device_type_manager"
 }

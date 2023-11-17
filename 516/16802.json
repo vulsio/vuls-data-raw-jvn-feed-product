@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "16802",
-  "pname": "Age Verification",
-  "pcpe": "cpe:/a:wordpress:age_verification"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "16802",
+	"pname": "Age Verification",
+	"pcpe": "cpe:/a:wordpress:age_verification"
 }

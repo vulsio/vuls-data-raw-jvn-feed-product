@@ -1,8 +1,8 @@
 {
-  "vid": "21095",
-  "vname": "Spacewalk project",
-  "vcpe": "cpe:/:spacewalk_project",
-  "pid": "53954",
-  "pname": "Spacewalk",
-  "pcpe": "cpe:/a:spacewalk_project:spacewalk"
+	"vid": "21095",
+	"vname": "Spacewalk project",
+	"vcpe": "cpe:/:spacewalk_project",
+	"pid": "53954",
+	"pname": "Spacewalk",
+	"pcpe": "cpe:/a:spacewalk_project:spacewalk"
 }

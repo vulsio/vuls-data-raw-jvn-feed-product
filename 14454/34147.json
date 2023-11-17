@@ -1,8 +1,8 @@
 {
-  "vid": "14454",
-  "vname": "node-srv project",
-  "vcpe": "cpe:/:node-srv_project",
-  "pid": "34147",
-  "pname": "node-srv",
-  "pcpe": "cpe:/a:node-srv_project:node-srv"
+	"vid": "14454",
+	"vname": "node-srv project",
+	"vcpe": "cpe:/:node-srv_project",
+	"pid": "34147",
+	"pname": "node-srv",
+	"pcpe": "cpe:/a:node-srv_project:node-srv"
 }

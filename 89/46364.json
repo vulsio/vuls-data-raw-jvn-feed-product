@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "46364",
-  "pname": "iSM クライアント",
-  "pcpe": "cpe:/a:nec:ism_client"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "46364",
+	"pname": "iSM クライアント",
+	"pcpe": "cpe:/a:nec:ism_client"
 }

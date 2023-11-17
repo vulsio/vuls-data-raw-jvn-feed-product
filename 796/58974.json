@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "58974",
-  "pname": "mr9600 ファームウェア",
-  "pcpe": "cpe:/o:linksys:mr9600_firmware"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "58974",
+	"pname": "mr9600 ファームウェア",
+	"pcpe": "cpe:/o:linksys:mr9600_firmware"
 }

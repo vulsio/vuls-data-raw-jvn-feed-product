@@ -1,8 +1,8 @@
 {
-  "vid": "16802",
-  "vname": "Add From Server project",
-  "vcpe": "cpe:/:add_from_server_project",
-  "pid": "40026",
-  "pname": "Add From Server",
-  "pcpe": "cpe:/a:add_from_server_project:add_from_server"
+	"vid": "16802",
+	"vname": "Add From Server project",
+	"vcpe": "cpe:/:add_from_server_project",
+	"pid": "40026",
+	"pname": "Add From Server",
+	"pcpe": "cpe:/a:add_from_server_project:add_from_server"
 }

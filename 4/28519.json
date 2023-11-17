@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "28519",
-  "pname": "HP Display Assistant",
-  "pcpe": "cpe:/a:hp:hp_display_assistant"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "28519",
+	"pname": "HP Display Assistant",
+	"pcpe": "cpe:/a:hp:hp_display_assistant"
 }

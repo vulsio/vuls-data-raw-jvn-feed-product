@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "32528",
-  "pname": "CX-Supervisor",
-  "pcpe": "cpe:/a:omron:cx-supervisor"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "32528",
+	"pname": "CX-Supervisor",
+	"pcpe": "cpe:/a:omron:cx-supervisor"
 }

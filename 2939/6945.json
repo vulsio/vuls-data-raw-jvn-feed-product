@@ -1,8 +1,8 @@
 {
-  "vid": "2939",
-  "vname": "componentslab",
-  "vcpe": "cpe:/:componentslab",
-  "pid": "6945",
-  "pname": "com sqlreport",
-  "pcpe": "cpe:/a:componentslab:com_sqlreport"
+	"vid": "2939",
+	"vname": "componentslab",
+	"vcpe": "cpe:/:componentslab",
+	"pid": "6945",
+	"pname": "com sqlreport",
+	"pcpe": "cpe:/a:componentslab:com_sqlreport"
 }

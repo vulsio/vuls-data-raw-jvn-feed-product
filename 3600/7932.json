@@ -1,8 +1,8 @@
 {
-  "vid": "3600",
-  "vname": "ExpressionEngine",
-  "vcpe": "cpe:/:expressionengine",
-  "pid": "7932",
-  "pname": "ExpressionEngine",
-  "pcpe": "cpe:/a:expressionengine:expressionengine"
+	"vid": "3600",
+	"vname": "ExpressionEngine",
+	"vcpe": "cpe:/:expressionengine",
+	"pid": "7932",
+	"pname": "ExpressionEngine",
+	"pcpe": "cpe:/a:expressionengine:expressionengine"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "24578",
-  "pname": "Schneider Electric SAGE 1230 RTU",
-  "pcpe": "cpe:/h:schneider_electric:sage_1230_rtu"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "24578",
+	"pname": "Schneider Electric SAGE 1230 RTU",
+	"pcpe": "cpe:/h:schneider_electric:sage_1230_rtu"
 }

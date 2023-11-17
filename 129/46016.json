@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "46016",
-  "pname": "uCosminexus Service Platform - Messaging",
-  "pcpe": "cpe:/a:hitachi:ucosminexus_service_platform-messaging"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "46016",
+	"pname": "uCosminexus Service Platform - Messaging",
+	"pcpe": "cpe:/a:hitachi:ucosminexus_service_platform-messaging"
 }

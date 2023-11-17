@@ -1,8 +1,8 @@
 {
-  "vid": "19099",
-  "vname": "JSDom",
-  "vcpe": "cpe:/:jsdom_project",
-  "pid": "47953",
-  "pname": "JSDom",
-  "pcpe": "cpe:/a:jsdom_project:jsdom"
+	"vid": "19099",
+	"vname": "JSDom",
+	"vcpe": "cpe:/:jsdom_project",
+	"pid": "47953",
+	"pname": "JSDom",
+	"pcpe": "cpe:/a:jsdom_project:jsdom"
 }

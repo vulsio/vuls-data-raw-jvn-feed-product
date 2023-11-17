@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27104",
-  "pname": "PeopleSoft Enterprise SCM Services Procurement",
-  "pcpe": "cpe:/a:oracle:peoplesoft_enterprise_supply_chain_management_services_procurement"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27104",
+	"pname": "PeopleSoft Enterprise SCM Services Procurement",
+	"pcpe": "cpe:/a:oracle:peoplesoft_enterprise_supply_chain_management_services_procurement"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5796",
-  "vname": "musicbrainz",
-  "vcpe": "cpe:/:musicbrainz",
-  "pid": "11762",
-  "pname": "libmusicbrainz svn",
-  "pcpe": "cpe:/a:musicbrainz:libmusicbrainz_svn"
+	"vid": "5796",
+	"vname": "musicbrainz",
+	"vcpe": "cpe:/:musicbrainz",
+	"pid": "11762",
+	"pname": "libmusicbrainz svn",
+	"pcpe": "cpe:/a:musicbrainz:libmusicbrainz_svn"
 }

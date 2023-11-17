@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "51418",
-  "pname": "BackBox H4.09 ファームウェア",
-  "pcpe": "cpe:/o:hp:backbox_h4.09_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "51418",
+	"pname": "BackBox H4.09 ファームウェア",
+	"pcpe": "cpe:/o:hp:backbox_h4.09_firmware"
 }

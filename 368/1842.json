@@ -1,8 +1,8 @@
 {
-  "vid": "368",
-  "vname": "GE Fanuc",
-  "vcpe": "cpe:/:ge_fanuc",
-  "pid": "1842",
-  "pname": "HMI/SCADA - iFIX",
-  "pcpe": "cpe:/a:ge_fanuc:ifix"
+	"vid": "368",
+	"vname": "GE Fanuc",
+	"vcpe": "cpe:/:ge_fanuc",
+	"pid": "1842",
+	"pname": "HMI/SCADA - iFIX",
+	"pcpe": "cpe:/a:ge_fanuc:ifix"
 }

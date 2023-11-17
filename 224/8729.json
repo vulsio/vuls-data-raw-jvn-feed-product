@@ -1,8 +1,8 @@
 {
-  "vid": "224",
-  "vname": "アラクサラネットワークス",
-  "vcpe": "cpe:/:alaxala",
-  "pid": "8729",
-  "pname": "ax router",
-  "pcpe": "cpe:/h:alaxala:ax_router"
+	"vid": "224",
+	"vname": "アラクサラネットワークス",
+	"vcpe": "cpe:/:alaxala",
+	"pid": "8729",
+	"pname": "ax router",
+	"pcpe": "cpe:/h:alaxala:ax_router"
 }

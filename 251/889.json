@@ -1,8 +1,8 @@
 {
-  "vid": "251",
-  "vname": "FFC",
-  "vcpe": "cpe:/:misc",
-  "pid": "889",
-  "pname": "InfoBarrier",
-  "pcpe": "cpe:/a:misc:ffc_infobarrier"
+	"vid": "251",
+	"vname": "FFC",
+	"vcpe": "cpe:/:misc",
+	"pid": "889",
+	"pname": "InfoBarrier",
+	"pcpe": "cpe:/a:misc:ffc_infobarrier"
 }

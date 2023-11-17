@@ -1,8 +1,8 @@
 {
-  "vid": "21690",
-  "vname": "Fresenius Kabi",
-  "vcpe": "cpe:/:fresenius-kabi",
-  "pid": "55720",
-  "pname": "Agilia Partner maintenance ソフトウェア",
-  "pcpe": "cpe:/a:fresenius-kabi:agilia_partner_maintenance_software"
+	"vid": "21690",
+	"vname": "Fresenius Kabi",
+	"vcpe": "cpe:/:fresenius-kabi",
+	"pid": "55720",
+	"pname": "Agilia Partner maintenance ソフトウェア",
+	"pcpe": "cpe:/a:fresenius-kabi:agilia_partner_maintenance_software"
 }

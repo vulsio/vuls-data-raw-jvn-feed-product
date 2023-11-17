@@ -1,8 +1,8 @@
 {
-  "vid": "12339",
-  "vname": "elfden",
-  "vcpe": "cpe:/:elfden",
-  "pid": "27765",
-  "pname": "eshop",
-  "pcpe": "cpe:/a:elfden:eshop_plugin"
+	"vid": "12339",
+	"vname": "elfden",
+	"vcpe": "cpe:/:elfden",
+	"pid": "27765",
+	"pname": "eshop",
+	"pcpe": "cpe:/a:elfden:eshop_plugin"
 }

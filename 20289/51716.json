@@ -1,8 +1,8 @@
 {
-  "vid": "20289",
-  "vname": "IPD GROUP",
-  "vcpe": "cpe:/:ipdgroup",
-  "pid": "51716",
-  "pname": "NewsPlugin",
-  "pcpe": "cpe:/a:ipdgroup:newsplugin"
+	"vid": "20289",
+	"vname": "IPD GROUP",
+	"vcpe": "cpe:/:ipdgroup",
+	"pid": "51716",
+	"pname": "NewsPlugin",
+	"pcpe": "cpe:/a:ipdgroup:newsplugin"
 }

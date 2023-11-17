@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "1151",
-  "pname": "Access Support",
-  "pcpe": "cpe:/h:lenovo:access_support"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "1151",
+	"pname": "Access Support",
+	"pcpe": "cpe:/h:lenovo:access_support"
 }

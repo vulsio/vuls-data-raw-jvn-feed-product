@@ -1,8 +1,8 @@
 {
-  "vid": "20442",
-  "vname": "ScribbleMaps.com",
-  "vcpe": "cpe:/:scribblemaps",
-  "pid": "52093",
-  "pname": "Scribble Maps",
-  "pcpe": "cpe:/a:scribblemaps:scribble_maps"
+	"vid": "20442",
+	"vname": "ScribbleMaps.com",
+	"vcpe": "cpe:/:scribblemaps",
+	"pid": "52093",
+	"pname": "Scribble Maps",
+	"pcpe": "cpe:/a:scribblemaps:scribble_maps"
 }

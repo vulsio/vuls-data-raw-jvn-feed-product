@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "8793",
-  "pname": "Cisco Adaptive Security Device Manager",
-  "pcpe": "cpe:/a:cisco:adaptive_security_device_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "8793",
+	"pname": "Cisco Adaptive Security Device Manager",
+	"pcpe": "cpe:/a:cisco:adaptive_security_device_manager"
 }

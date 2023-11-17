@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "8995",
-  "pname": "Sophos UTM",
-  "pcpe": "cpe:/h:sophos:unified_threat_management"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "8995",
+	"pname": "Sophos UTM",
+	"pcpe": "cpe:/h:sophos:unified_threat_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "30893",
-  "pname": "FusionServer RH2288A V2",
-  "pcpe": "cpe:/a:huawei:fusionserver_rh2288a_v2"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "30893",
+	"pname": "FusionServer RH2288A V2",
+	"pcpe": "cpe:/a:huawei:fusionserver_rh2288a_v2"
 }

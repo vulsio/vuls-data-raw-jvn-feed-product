@@ -1,8 +1,8 @@
 {
-  "vid": "10591",
-  "vname": "appsgeyser",
-  "vcpe": "cpe:/:appsgeyser",
-  "pid": "22522",
-  "pname": "competition information",
-  "pcpe": "cpe:/a:appsgeyser:competition_information"
+	"vid": "10591",
+	"vname": "appsgeyser",
+	"vcpe": "cpe:/:appsgeyser",
+	"pid": "22522",
+	"pname": "competition information",
+	"pcpe": "cpe:/a:appsgeyser:competition_information"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9604",
-  "vname": "pimcore",
-  "vcpe": "cpe:/:pimcore",
-  "pid": "51727",
-  "pname": "AdminBundle",
-  "pcpe": "cpe:/a:pimcore:adminbundle"
+	"vid": "9604",
+	"vname": "pimcore",
+	"vcpe": "cpe:/:pimcore",
+	"pid": "51727",
+	"pname": "AdminBundle",
+	"pcpe": "cpe:/a:pimcore:adminbundle"
 }

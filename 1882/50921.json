@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "50921",
-  "pname": "ZXA10 F822P ファームウェア",
-  "pcpe": "cpe:/o:zte:zxa10_f822p_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "50921",
+	"pname": "ZXA10 F822P ファームウェア",
+	"pcpe": "cpe:/o:zte:zxa10_f822p_firmware"
 }

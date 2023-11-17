@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "59756",
-  "pname": "celeron n4120 ファームウェア",
-  "pcpe": "cpe:/o:intel:celeron_n4120_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "59756",
+	"pname": "celeron n4120 ファームウェア",
+	"pcpe": "cpe:/o:intel:celeron_n4120_firmware"
 }

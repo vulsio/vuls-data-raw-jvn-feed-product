@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "42934",
-  "pname": "Gear Fit ファームウェア",
-  "pcpe": "cpe:/o:samsung:gear_fit_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "42934",
+	"pname": "Gear Fit ファームウェア",
+	"pcpe": "cpe:/o:samsung:gear_fit_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "55592",
-  "pname": "T-NKM2AKUC ファームウェア",
-  "pcpe": "cpe:/o:samsung:t-nkm2akuc_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "55592",
+	"pname": "T-NKM2AKUC ファームウェア",
+	"pcpe": "cpe:/o:samsung:t-nkm2akuc_firmware"
 }

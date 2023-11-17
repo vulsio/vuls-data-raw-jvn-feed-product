@@ -1,8 +1,8 @@
 {
-  "vid": "12360",
-  "vname": "The WebM Project",
-  "vcpe": "cpe:/:libwebp_project",
-  "pid": "27834",
-  "pname": "libwebp",
-  "pcpe": "cpe:/a:libwebp_project:libwebp"
+	"vid": "12360",
+	"vname": "The WebM Project",
+	"vcpe": "cpe:/:libwebp_project",
+	"pid": "27834",
+	"pname": "libwebp",
+	"pcpe": "cpe:/a:libwebp_project:libwebp"
 }

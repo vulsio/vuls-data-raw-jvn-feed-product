@@ -1,8 +1,8 @@
 {
-  "vid": "16206",
-  "vname": "ABUS",
-  "vcpe": "cpe:/:abus",
-  "pid": "45848",
-  "pname": "Secvest Hybrid module FUMO50110 ファームウェア",
-  "pcpe": "cpe:/o:abus:secvest_hybrid_fumo50110_firmware"
+	"vid": "16206",
+	"vname": "ABUS",
+	"vcpe": "cpe:/:abus",
+	"pid": "45848",
+	"pname": "Secvest Hybrid module FUMO50110 ファームウェア",
+	"pcpe": "cpe:/o:abus:secvest_hybrid_fumo50110_firmware"
 }

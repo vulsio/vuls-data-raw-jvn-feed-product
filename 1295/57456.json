@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "57456",
-  "pname": "FortiOS-6K7K",
-  "pcpe": "cpe:/a:fortinet:fortios-6k7k"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "57456",
+	"pname": "FortiOS-6K7K",
+	"pcpe": "cpe:/a:fortinet:fortios-6k7k"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12998",
-  "vname": "IdentityServer",
-  "vcpe": "cpe:/:identityserver",
-  "pid": "33099",
-  "pname": "IdentityServer4",
-  "pcpe": "cpe:/a:identityserver:identityserver4"
+	"vid": "12998",
+	"vname": "IdentityServer",
+	"vcpe": "cpe:/:identityserver",
+	"pid": "33099",
+	"pname": "IdentityServer4",
+	"pcpe": "cpe:/a:identityserver:identityserver4"
 }

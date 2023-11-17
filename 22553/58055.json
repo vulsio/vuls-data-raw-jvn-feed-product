@@ -1,8 +1,8 @@
 {
-  "vid": "22553",
-  "vname": "idccms project",
-  "vcpe": "cpe:/:idccms_project",
-  "pid": "58055",
-  "pname": "idccms",
-  "pcpe": "cpe:/a:idccms_project:idccms"
+	"vid": "22553",
+	"vname": "idccms project",
+	"vcpe": "cpe:/:idccms_project",
+	"pid": "58055",
+	"pname": "idccms",
+	"pcpe": "cpe:/a:idccms_project:idccms"
 }

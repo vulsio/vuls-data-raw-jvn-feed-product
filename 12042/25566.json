@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25566",
-  "pname": "JG789A HP FlexFabric 12500 4-port 100GbE CFP FG TAA-compliant Module",
-  "pcpe": "cpe:/a:hp:jg789a_hp_flexfabric_12500_4-port_100gbe_cfp_fg_taa"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25566",
+	"pname": "JG789A HP FlexFabric 12500 4-port 100GbE CFP FG TAA-compliant Module",
+	"pcpe": "cpe:/a:hp:jg789a_hp_flexfabric_12500_4-port_100gbe_cfp_fg_taa"
 }

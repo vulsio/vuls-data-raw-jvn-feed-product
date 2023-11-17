@@ -1,8 +1,8 @@
 {
-  "vid": "16288",
-  "vname": "struktur AG",
-  "vcpe": "cpe:/:struktur",
-  "pid": "58409",
-  "pname": "libde265",
-  "pcpe": "cpe:/a:struktur:libde265"
+	"vid": "16288",
+	"vname": "struktur AG",
+	"vcpe": "cpe:/:struktur",
+	"pid": "58409",
+	"pname": "libde265",
+	"pcpe": "cpe:/a:struktur:libde265"
 }

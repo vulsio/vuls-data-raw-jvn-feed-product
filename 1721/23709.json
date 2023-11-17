@@ -1,8 +1,8 @@
 {
-  "vid": "1721",
-  "vname": "SolarWinds",
-  "vcpe": "cpe:/:solarwinds",
-  "pid": "23709",
-  "pname": "Orion Server & Application Manager",
-  "pcpe": "cpe:/a:solarwinds:orion_server_and_application_manager"
+	"vid": "1721",
+	"vname": "SolarWinds",
+	"vcpe": "cpe:/:solarwinds",
+	"pid": "23709",
+	"pname": "Orion Server & Application Manager",
+	"pcpe": "cpe:/a:solarwinds:orion_server_and_application_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11515",
-  "vname": "SerVision",
-  "vcpe": "cpe:/:servision",
-  "pid": "23445",
-  "pname": "HVG 400",
-  "pcpe": "cpe:/h:servision:hvg400"
+	"vid": "11515",
+	"vname": "SerVision",
+	"vcpe": "cpe:/:servision",
+	"pid": "23445",
+	"pname": "HVG 400",
+	"pcpe": "cpe:/h:servision:hvg400"
 }

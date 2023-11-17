@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "28022",
-  "pname": "DGS-1510-28P",
-  "pcpe": "cpe:/h:dlink:websmart_dgs-1510-28p"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "28022",
+	"pname": "DGS-1510-28P",
+	"pcpe": "cpe:/h:dlink:websmart_dgs-1510-28p"
 }

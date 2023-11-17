@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "49966",
-  "pname": "Experience Service",
-  "pcpe": "cpe:/a:samsung:experience_service"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "49966",
+	"pname": "Experience Service",
+	"pcpe": "cpe:/a:samsung:experience_service"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1597",
-  "pname": "XFIT/S/JCA",
-  "pcpe": "cpe:/a:hitachi:xfit_s_jca"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1597",
+	"pname": "XFIT/S/JCA",
+	"pcpe": "cpe:/a:hitachi:xfit_s_jca"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "52167",
-  "pname": "IBM InfoSphere Change Data Capture",
-  "pcpe": "cpe:/a:ibm:infosphere_change_data_capture"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "52167",
+	"pname": "IBM InfoSphere Change Data Capture",
+	"pcpe": "cpe:/a:ibm:infosphere_change_data_capture"
 }

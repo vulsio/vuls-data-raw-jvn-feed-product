@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "32697",
-  "pname": "Aruba AirWave Glass",
-  "pcpe": "cpe:/o:hp:aruba_airwave_glass"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "32697",
+	"pname": "Aruba AirWave Glass",
+	"pcpe": "cpe:/o:hp:aruba_airwave_glass"
 }

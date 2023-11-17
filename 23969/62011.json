@@ -1,8 +1,8 @@
 {
-  "vid": "23969",
-  "vname": "SLIMS project",
-  "vcpe": "cpe:/:slims_project",
-  "pid": "62011",
-  "pname": "SLIMS",
-  "pcpe": "cpe:/a:slims_project:slims"
+	"vid": "23969",
+	"vname": "SLIMS project",
+	"vcpe": "cpe:/:slims_project",
+	"pid": "62011",
+	"pname": "SLIMS",
+	"pcpe": "cpe:/a:slims_project:slims"
 }

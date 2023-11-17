@@ -1,8 +1,8 @@
 {
-  "vid": "2934",
-  "vname": "communityserver.org",
-  "vcpe": "cpe:/:communityserver.org",
-  "pid": "6936",
-  "pname": "community server",
-  "pcpe": "cpe:/a:communityserver.org:community_server"
+	"vid": "2934",
+	"vname": "communityserver.org",
+	"vcpe": "cpe:/:communityserver.org",
+	"pid": "6936",
+	"pname": "community server",
+	"pcpe": "cpe:/a:communityserver.org:community_server"
 }

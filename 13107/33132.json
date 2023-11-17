@@ -1,8 +1,8 @@
 {
-  "vid": "13107",
-  "vname": "Intelbras",
-  "vcpe": "cpe:/:intelbras",
-  "pid": "33132",
-  "pname": "Telefone IP ファームウェア",
-  "pcpe": "cpe:/o:intelbras:telefone_ip_firmware"
+	"vid": "13107",
+	"vname": "Intelbras",
+	"vcpe": "cpe:/:intelbras",
+	"pid": "33132",
+	"pname": "Telefone IP ファームウェア",
+	"pcpe": "cpe:/o:intelbras:telefone_ip_firmware"
 }

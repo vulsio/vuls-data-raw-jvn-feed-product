@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "9394",
-  "pname": "HP iNode Management Center",
-  "pcpe": "cpe:/a:hp:inode_management_center_pc"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "9394",
+	"pname": "HP iNode Management Center",
+	"pcpe": "cpe:/a:hp:inode_management_center_pc"
 }

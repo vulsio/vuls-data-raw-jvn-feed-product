@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "664",
-  "pname": "Cisco Threat Response (CTR)",
-  "pcpe": "cpe:/a:cisco:threat_response"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "664",
+	"pname": "Cisco Threat Response (CTR)",
+	"pcpe": "cpe:/a:cisco:threat_response"
 }

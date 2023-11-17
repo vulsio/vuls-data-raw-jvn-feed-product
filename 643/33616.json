@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "33616",
-  "pname": "Precision Optimizer",
-  "pcpe": "cpe:/a:dell:precision_optimizer"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "33616",
+	"pname": "Precision Optimizer",
+	"pcpe": "cpe:/a:dell:precision_optimizer"
 }

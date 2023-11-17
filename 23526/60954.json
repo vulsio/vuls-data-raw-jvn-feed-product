@@ -1,8 +1,8 @@
 {
-  "vid": "23526",
-  "vname": "apifest",
-  "vcpe": "cpe:/:apifest",
-  "pid": "60954",
-  "pname": "oauth 2.0 server",
-  "pcpe": "cpe:/a:apifest:oauth_2.0_server"
+	"vid": "23526",
+	"vname": "apifest",
+	"vcpe": "cpe:/:apifest",
+	"pid": "60954",
+	"pname": "oauth 2.0 server",
+	"pcpe": "cpe:/a:apifest:oauth_2.0_server"
 }

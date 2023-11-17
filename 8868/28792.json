@@ -1,8 +1,8 @@
 {
-  "vid": "8868",
-  "vname": "Foscam",
-  "vcpe": "cpe:/:foscam",
-  "pid": "28792",
-  "pname": "R2",
-  "pcpe": "cpe:/h:foscam:r2"
+	"vid": "8868",
+	"vname": "Foscam",
+	"vcpe": "cpe:/:foscam",
+	"pid": "28792",
+	"pname": "R2",
+	"pcpe": "cpe:/h:foscam:r2"
 }

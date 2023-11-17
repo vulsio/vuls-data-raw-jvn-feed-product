@@ -1,8 +1,8 @@
 {
-  "vid": "18200",
-  "vname": "svg2png project",
-  "vcpe": "cpe:/:svg2png_project",
-  "pid": "44481",
-  "pname": "svg2png",
-  "pcpe": "cpe:/a:svg2png_project:svg2png"
+	"vid": "18200",
+	"vname": "svg2png project",
+	"vcpe": "cpe:/:svg2png_project",
+	"pid": "44481",
+	"pname": "svg2png",
+	"pcpe": "cpe:/a:svg2png_project:svg2png"
 }

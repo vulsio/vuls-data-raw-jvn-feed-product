@@ -1,8 +1,8 @@
 {
-  "vid": "22323",
-  "vname": "GS Plugins",
-  "vcpe": "cpe:/:gsplugins",
-  "pid": "64310",
-  "pname": "gs products slider",
-  "pcpe": "cpe:/a:gsplugins:gs_products_slider"
+	"vid": "22323",
+	"vname": "GS Plugins",
+	"vcpe": "cpe:/:gsplugins",
+	"pid": "64310",
+	"pname": "gs products slider",
+	"pcpe": "cpe:/a:gsplugins:gs_products_slider"
 }

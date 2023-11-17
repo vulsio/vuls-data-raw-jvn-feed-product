@@ -1,8 +1,8 @@
 {
-  "vid": "14943",
-  "vname": "Sollae Systems",
-  "vcpe": "cpe:/:eztcp",
-  "pid": "34843",
-  "pname": "CSE-M32 ファームウェア",
-  "pcpe": "cpe:/o:eztcp:cse-m32_firmware"
+	"vid": "14943",
+	"vname": "Sollae Systems",
+	"vcpe": "cpe:/:eztcp",
+	"pid": "34843",
+	"pname": "CSE-M32 ファームウェア",
+	"pcpe": "cpe:/o:eztcp:cse-m32_firmware"
 }

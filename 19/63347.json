@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "63347",
-  "pname": "FirePower 4112 ファームウェア",
-  "pcpe": "cpe:/o:cisco:firepower_4112_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "63347",
+	"pname": "FirePower 4112 ファームウェア",
+	"pcpe": "cpe:/o:cisco:firepower_4112_firmware"
 }

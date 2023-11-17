@@ -1,8 +1,8 @@
 {
-  "vid": "15135",
-  "vname": "Slidebits project",
-  "vcpe": "cpe:/:slidebits_project",
-  "pid": "35080",
-  "pname": "Slidebits",
-  "pcpe": "cpe:/a:slidebits_project:slidebits"
+	"vid": "15135",
+	"vname": "Slidebits project",
+	"vcpe": "cpe:/:slidebits_project",
+	"pid": "35080",
+	"pname": "Slidebits",
+	"pcpe": "cpe:/a:slidebits_project:slidebits"
 }

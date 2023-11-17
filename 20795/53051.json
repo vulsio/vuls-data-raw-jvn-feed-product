@@ -1,8 +1,8 @@
 {
-  "vid": "20795",
-  "vname": "Credova",
-  "vcpe": "cpe:/:credova",
-  "pid": "53051",
-  "pname": "Credova_Financial",
-  "pcpe": "cpe:/a:credova:financial"
+	"vid": "20795",
+	"vname": "Credova",
+	"vcpe": "cpe:/:credova",
+	"pid": "53051",
+	"pname": "Credova_Financial",
+	"pcpe": "cpe:/a:credova:financial"
 }

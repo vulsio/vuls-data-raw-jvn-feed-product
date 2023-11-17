@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "32743",
-  "pname": "NetApp Service Level Manager",
-  "pcpe": "cpe:/a:netapp:service_level_manager"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "32743",
+	"pname": "NetApp Service Level Manager",
+	"pcpe": "cpe:/a:netapp:service_level_manager"
 }

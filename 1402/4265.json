@@ -1,8 +1,8 @@
 {
-  "vid": "1402",
-  "vname": "clear",
-  "vcpe": "cpe:/:clear",
-  "pid": "4265",
-  "pname": "clearspot firmware",
-  "pcpe": "cpe:/a:clear:clearspot_firmware"
+	"vid": "1402",
+	"vname": "clear",
+	"vcpe": "cpe:/:clear",
+	"pid": "4265",
+	"pname": "clearspot firmware",
+	"pcpe": "cpe:/a:clear:clearspot_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1091",
-  "vname": "AirTies",
-  "vcpe": "cpe:/:airties",
-  "pid": "24337",
-  "pname": "Air ファームウェア",
-  "pcpe": "cpe:/o:airties:air_firmware"
+	"vid": "1091",
+	"vname": "AirTies",
+	"vcpe": "cpe:/:airties",
+	"pid": "24337",
+	"pname": "Air ファームウェア",
+	"pcpe": "cpe:/o:airties:air_firmware"
 }

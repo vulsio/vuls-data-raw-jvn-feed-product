@@ -1,8 +1,8 @@
 {
-  "vid": "14230",
-  "vname": "install-g-test project",
-  "vcpe": "cpe:/:install-g-test_project",
-  "pid": "33888",
-  "pname": "install-g-test",
-  "pcpe": "cpe:/a:install-g-test_project:install-g-test"
+	"vid": "14230",
+	"vname": "install-g-test project",
+	"vcpe": "cpe:/:install-g-test_project",
+	"pid": "33888",
+	"pname": "install-g-test",
+	"pcpe": "cpe:/a:install-g-test_project:install-g-test"
 }

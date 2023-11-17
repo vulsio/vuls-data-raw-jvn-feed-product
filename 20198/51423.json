@@ -1,8 +1,8 @@
 {
-  "vid": "20198",
-  "vname": "QSAN Technology, Inc.",
-  "vcpe": "cpe:/:qsan",
-  "pid": "51423",
-  "pname": "QSAN XEVO",
-  "pcpe": "cpe:/a:qsan:xevo"
+	"vid": "20198",
+	"vname": "QSAN Technology, Inc.",
+	"vcpe": "cpe:/:qsan",
+	"pid": "51423",
+	"pname": "QSAN XEVO",
+	"pcpe": "cpe:/a:qsan:xevo"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17650",
-  "pname": "HP t410 Smart Zero Client",
-  "pcpe": "cpe:/h:hp:t410_smart_zero_client"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17650",
+	"pname": "HP t410 Smart Zero Client",
+	"pcpe": "cpe:/h:hp:t410_smart_zero_client"
 }

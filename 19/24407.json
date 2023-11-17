@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24407",
-  "pname": "Cisco MDS 9140",
-  "pcpe": "cpe:/h:cisco:mds_9140"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24407",
+	"pname": "Cisco MDS 9140",
+	"pcpe": "cpe:/h:cisco:mds_9140"
 }

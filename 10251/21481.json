@@ -1,8 +1,8 @@
 {
-  "vid": "10251",
-  "vname": "meditech",
-  "vcpe": "cpe:/:meditech",
-  "pid": "21481",
-  "pname": "MEDITECH",
-  "pcpe": "cpe:/a:meditech:meditech"
+	"vid": "10251",
+	"vname": "meditech",
+	"vcpe": "cpe:/:meditech",
+	"pid": "21481",
+	"pname": "MEDITECH",
+	"pcpe": "cpe:/a:meditech:meditech"
 }

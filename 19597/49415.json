@@ -1,8 +1,8 @@
 {
-  "vid": "19597",
-  "vname": "lazy-init project",
-  "vcpe": "cpe:/:lazy-init_project",
-  "pid": "49415",
-  "pname": "lazy-init",
-  "pcpe": "cpe:/a:lazy-init_project:lazy-init"
+	"vid": "19597",
+	"vname": "lazy-init project",
+	"vcpe": "cpe:/:lazy-init_project",
+	"pid": "49415",
+	"pname": "lazy-init",
+	"pcpe": "cpe:/a:lazy-init_project:lazy-init"
 }

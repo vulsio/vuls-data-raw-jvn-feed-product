@@ -1,8 +1,8 @@
 {
-  "vid": "7164",
-  "vname": "qksoft",
-  "vcpe": "cpe:/:qksoft",
-  "pid": "14134",
-  "pname": "qk smtp",
-  "pcpe": "cpe:/a:qksoft:qk_smtp"
+	"vid": "7164",
+	"vname": "qksoft",
+	"vcpe": "cpe:/:qksoft",
+	"pid": "14134",
+	"pname": "qk smtp",
+	"pcpe": "cpe:/a:qksoft:qk_smtp"
 }

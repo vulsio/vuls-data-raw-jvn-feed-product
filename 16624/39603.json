@@ -1,8 +1,8 @@
 {
-  "vid": "16624",
-  "vname": "OpenSNS",
-  "vcpe": "cpe:/:opensns",
-  "pid": "39603",
-  "pname": "OpenSNS",
-  "pcpe": "cpe:/a:opensns:opensns"
+	"vid": "16624",
+	"vname": "OpenSNS",
+	"vcpe": "cpe:/:opensns",
+	"pid": "39603",
+	"pname": "OpenSNS",
+	"pcpe": "cpe:/a:opensns:opensns"
 }

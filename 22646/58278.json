@@ -1,8 +1,8 @@
 {
-  "vid": "22646",
-  "vname": "escanav",
-  "vcpe": "cpe:/:escanav",
-  "pid": "58278",
-  "pname": "escan anti-virus",
-  "pcpe": "cpe:/a:escanav:escan_anti-virus"
+	"vid": "22646",
+	"vname": "escanav",
+	"vcpe": "cpe:/:escanav",
+	"pid": "58278",
+	"pname": "escan anti-virus",
+	"pcpe": "cpe:/a:escanav:escan_anti-virus"
 }

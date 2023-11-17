@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "55283",
-  "pname": "Metrics",
-  "pcpe": "cpe:/a:jenkins:metrics"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "55283",
+	"pname": "Metrics",
+	"pcpe": "cpe:/a:jenkins:metrics"
 }

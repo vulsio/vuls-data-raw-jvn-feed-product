@@ -1,8 +1,8 @@
 {
-  "vid": "14272",
-  "vname": "SauceLabs",
-  "vcpe": "cpe:/:saucelabs",
-  "pid": "33950",
-  "pname": "sauce-connect",
-  "pcpe": "cpe:/a:saucelabs:sauce-connect"
+	"vid": "14272",
+	"vname": "SauceLabs",
+	"vcpe": "cpe:/:saucelabs",
+	"pid": "33950",
+	"pname": "sauce-connect",
+	"pcpe": "cpe:/a:saucelabs:sauce-connect"
 }

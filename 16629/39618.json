@@ -1,8 +1,8 @@
 {
-  "vid": "16629",
-  "vname": "Dependency-Track",
-  "vcpe": "cpe:/:dependencytrack",
-  "pid": "39618",
-  "pname": "Dependency-Track",
-  "pcpe": "cpe:/a:dependencytrack:dependency-track"
+	"vid": "16629",
+	"vname": "Dependency-Track",
+	"vcpe": "cpe:/:dependencytrack",
+	"pid": "39618",
+	"pname": "Dependency-Track",
+	"pcpe": "cpe:/a:dependencytrack:dependency-track"
 }

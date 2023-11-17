@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "2065",
-  "pname": "Sun xVM VirtualBox",
-  "pcpe": "cpe:/a:sun:xvm_virtualbox"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "2065",
+	"pname": "Sun xVM VirtualBox",
+	"pcpe": "cpe:/a:sun:xvm_virtualbox"
 }

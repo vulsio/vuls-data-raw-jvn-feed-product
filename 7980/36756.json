@@ -1,8 +1,8 @@
 {
-  "vid": "7980",
-  "vname": "The Sleuth Kit",
-  "vcpe": "cpe:/:sleuthkit",
-  "pid": "36756",
-  "pname": "autopsy",
-  "pcpe": "cpe:/a:sleuthkit:autopsy"
+	"vid": "7980",
+	"vname": "The Sleuth Kit",
+	"vcpe": "cpe:/:sleuthkit",
+	"pid": "36756",
+	"pname": "autopsy",
+	"pcpe": "cpe:/a:sleuthkit:autopsy"
 }

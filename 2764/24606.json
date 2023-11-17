@@ -1,8 +1,8 @@
 {
-  "vid": "2764",
-  "vname": "Centreon",
-  "vcpe": "cpe:/:centreon",
-  "pid": "24606",
-  "pname": "Centreon Enterprise Server",
-  "pcpe": "cpe:/a:centreon:centreon_enterprise_server"
+	"vid": "2764",
+	"vname": "Centreon",
+	"vcpe": "cpe:/:centreon",
+	"pid": "24606",
+	"pname": "Centreon Enterprise Server",
+	"pcpe": "cpe:/a:centreon:centreon_enterprise_server"
 }

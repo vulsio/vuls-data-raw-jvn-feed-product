@@ -1,8 +1,8 @@
 {
-  "vid": "4171",
-  "vname": "ARRIS Group",
-  "vcpe": "cpe:/:arris",
-  "pid": "40332",
-  "pname": "TR4400 ファームウェア",
-  "pcpe": "cpe:/o:arris:tr4400_firmware"
+	"vid": "4171",
+	"vname": "ARRIS Group",
+	"vcpe": "cpe:/:arris",
+	"pid": "40332",
+	"pname": "TR4400 ファームウェア",
+	"pcpe": "cpe:/o:arris:tr4400_firmware"
 }

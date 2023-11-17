@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "37690",
-  "pname": "ILC 151 ETH ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:ilc_151_eth_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "37690",
+	"pname": "ILC 151 ETH ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:ilc_151_eth_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "21540",
-  "pname": "Coyote Point Equalizer",
-  "pcpe": "cpe:/h:fortinet:coyote_point_equalizer"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "21540",
+	"pname": "Coyote Point Equalizer",
+	"pcpe": "cpe:/h:fortinet:coyote_point_equalizer"
 }

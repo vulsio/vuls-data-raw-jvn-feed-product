@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "26245",
-  "pname": "Lenovo Accelerator Application",
-  "pcpe": "cpe:/a:lenovo:accelerator_application"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "26245",
+	"pname": "Lenovo Accelerator Application",
+	"pcpe": "cpe:/a:lenovo:accelerator_application"
 }

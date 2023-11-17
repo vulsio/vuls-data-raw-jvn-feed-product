@@ -1,8 +1,8 @@
 {
-  "vid": "19968",
-  "vname": "Libre Wireless Technologies, Inc.",
-  "vcpe": "cpe:/:librewireless",
-  "pid": "50497",
-  "pname": "LS9 ファームウェア",
-  "pcpe": "cpe:/o:librewireless:ls9_firmware"
+	"vid": "19968",
+	"vname": "Libre Wireless Technologies, Inc.",
+	"vcpe": "cpe:/:librewireless",
+	"pid": "50497",
+	"pname": "LS9 ファームウェア",
+	"pcpe": "cpe:/o:librewireless:ls9_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17799",
-  "vname": "devfarm",
-  "vcpe": "cpe:/:devfarm",
-  "pid": "42880",
-  "pname": "WP GPX Maps",
-  "pcpe": "cpe:/a:devfarm:wp_gpx_maps"
+	"vid": "17799",
+	"vname": "devfarm",
+	"vcpe": "cpe:/:devfarm",
+	"pid": "42880",
+	"pname": "WP GPX Maps",
+	"pcpe": "cpe:/a:devfarm:wp_gpx_maps"
 }

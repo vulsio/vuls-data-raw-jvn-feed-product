@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27356",
-  "pname": "ThinkPad W540 BIOS",
-  "pcpe": "cpe:/o:lenovo:thinkpad_w540_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27356",
+	"pname": "ThinkPad W540 BIOS",
+	"pcpe": "cpe:/o:lenovo:thinkpad_w540_bios"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24662",
-  "vname": "media-server project",
-  "vcpe": "cpe:/:media-server_project",
-  "pid": "63976",
-  "pname": "media-server",
-  "pcpe": "cpe:/a:media-server_project:media-server"
+	"vid": "24662",
+	"vname": "media-server project",
+	"vcpe": "cpe:/:media-server_project",
+	"pid": "63976",
+	"pname": "media-server",
+	"pcpe": "cpe:/a:media-server_project:media-server"
 }

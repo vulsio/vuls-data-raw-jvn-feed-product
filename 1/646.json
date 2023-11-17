@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "646",
-  "pname": "Sun Crypto Accelerator",
-  "pcpe": "cpe:/h:sun:sun_crypto_accelerator"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "646",
+	"pname": "Sun Crypto Accelerator",
+	"pcpe": "cpe:/h:sun:sun_crypto_accelerator"
 }

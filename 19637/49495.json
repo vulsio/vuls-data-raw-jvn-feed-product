@@ -1,8 +1,8 @@
 {
-  "vid": "19637",
-  "vname": "xcb project",
-  "vcpe": "cpe:/:xcb_project",
-  "pid": "49495",
-  "pname": "xcb",
-  "pcpe": "cpe:/a:xcb_project:xcb"
+	"vid": "19637",
+	"vname": "xcb project",
+	"vcpe": "cpe:/:xcb_project",
+	"pid": "49495",
+	"pname": "xcb",
+	"pcpe": "cpe:/a:xcb_project:xcb"
 }

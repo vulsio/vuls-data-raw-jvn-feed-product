@@ -1,8 +1,8 @@
 {
-  "vid": "1614",
-  "vname": "Netwin Ltd",
-  "vcpe": "cpe:/:netwin",
-  "pid": "11988",
-  "pname": "webmail",
-  "pcpe": "cpe:/a:netwin:webmail"
+	"vid": "1614",
+	"vname": "Netwin Ltd",
+	"vcpe": "cpe:/:netwin",
+	"pid": "11988",
+	"pname": "webmail",
+	"pcpe": "cpe:/a:netwin:webmail"
 }

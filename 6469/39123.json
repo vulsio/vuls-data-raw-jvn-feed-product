@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "39123",
-  "pname": "AXC F 2152 ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:axc_f_2152_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "39123",
+	"pname": "AXC F 2152 ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:axc_f_2152_firmware"
 }

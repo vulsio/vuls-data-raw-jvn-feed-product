@@ -1,8 +1,8 @@
 {
-  "vid": "8540",
-  "vname": "WinSCP",
-  "vcpe": "cpe:/:winscp",
-  "pid": "16182",
-  "pname": "WinSCP",
-  "pcpe": "cpe:/a:winscp:winscp"
+	"vid": "8540",
+	"vname": "WinSCP",
+	"vcpe": "cpe:/:winscp",
+	"pid": "16182",
+	"pname": "WinSCP",
+	"pcpe": "cpe:/a:winscp:winscp"
 }

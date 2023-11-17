@@ -1,8 +1,8 @@
 {
-  "vid": "1895",
-  "vname": "エマソン",
-  "vcpe": "cpe:/:emerson",
-  "pid": "24110",
-  "pname": "AMS Device Manager",
-  "pcpe": "cpe:/a:emerson:ams_device_manager"
+	"vid": "1895",
+	"vname": "エマソン",
+	"vcpe": "cpe:/:emerson",
+	"pid": "24110",
+	"pname": "AMS Device Manager",
+	"pcpe": "cpe:/a:emerson:ams_device_manager"
 }

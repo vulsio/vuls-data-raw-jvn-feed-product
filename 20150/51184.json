@@ -1,8 +1,8 @@
 {
-  "vid": "20150",
-  "vname": "Gitpod",
-  "vcpe": "cpe:/:gitpod",
-  "pid": "51184",
-  "pname": "Gitpod",
-  "pcpe": "cpe:/a:gitpod:gitpod"
+	"vid": "20150",
+	"vname": "Gitpod",
+	"vcpe": "cpe:/:gitpod",
+	"pid": "51184",
+	"pname": "Gitpod",
+	"pcpe": "cpe:/a:gitpod:gitpod"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "32321",
-  "pname": "Intel Driver and Support Assistant",
-  "pcpe": "cpe:/a:intel:driver_%26_support_assistant"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "32321",
+	"pname": "Intel Driver and Support Assistant",
+	"pcpe": "cpe:/a:intel:driver_%26_support_assistant"
 }

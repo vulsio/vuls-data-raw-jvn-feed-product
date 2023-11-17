@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "17111",
-  "pname": "NVIDIA GPU ディスプレイドライバ",
-  "pcpe": "cpe:/a:nvidia:gpu_driver"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "17111",
+	"pname": "NVIDIA GPU ディスプレイドライバ",
+	"pcpe": "cpe:/a:nvidia:gpu_driver"
 }

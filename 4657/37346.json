@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "37346",
-  "pname": "Huawei Vip App",
-  "pcpe": "cpe:/a:huawei:vip_app"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "37346",
+	"pname": "Huawei Vip App",
+	"pcpe": "cpe:/a:huawei:vip_app"
 }

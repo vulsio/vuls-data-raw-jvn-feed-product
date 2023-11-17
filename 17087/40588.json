@@ -1,8 +1,8 @@
 {
-  "vid": "17087",
-  "vname": "OceanWP",
-  "vcpe": "cpe:/:oceanwp",
-  "pid": "40588",
-  "pname": "Ocean Extra",
-  "pcpe": "cpe:/a:oceanwp:ocean_extra"
+	"vid": "17087",
+	"vname": "OceanWP",
+	"vcpe": "cpe:/:oceanwp",
+	"pid": "40588",
+	"pname": "Ocean Extra",
+	"pcpe": "cpe:/a:oceanwp:ocean_extra"
 }

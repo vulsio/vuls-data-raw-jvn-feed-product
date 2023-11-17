@@ -1,8 +1,8 @@
 {
-  "vid": "16832",
-  "vname": "Patreon",
-  "vcpe": "cpe:/:patreon",
-  "pid": "40082",
-  "pname": "Patreon WordPress",
-  "pcpe": "cpe:/a:patreon:patreon_wordpress"
+	"vid": "16832",
+	"vname": "Patreon",
+	"vcpe": "cpe:/:patreon",
+	"pid": "40082",
+	"pname": "Patreon WordPress",
+	"pcpe": "cpe:/a:patreon:patreon_wordpress"
 }

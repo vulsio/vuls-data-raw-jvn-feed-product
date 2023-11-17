@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "49300",
-  "pname": "Cisco SD-WAN vBond Orchestrator",
-  "pcpe": "cpe:/a:cisco:sd-wan_vbond_orchestrator"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "49300",
+	"pname": "Cisco SD-WAN vBond Orchestrator",
+	"pcpe": "cpe:/a:cisco:sd-wan_vbond_orchestrator"
 }

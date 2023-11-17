@@ -1,8 +1,8 @@
 {
-  "vid": "17049",
-  "vname": "Mendix",
-  "vcpe": "cpe:/:mendix",
-  "pid": "49741",
-  "pname": "Forgot Password",
-  "pcpe": "cpe:/a:mendix:forgot_password"
+	"vid": "17049",
+	"vname": "Mendix",
+	"vcpe": "cpe:/:mendix",
+	"pid": "49741",
+	"pname": "Forgot Password",
+	"pcpe": "cpe:/a:mendix:forgot_password"
 }

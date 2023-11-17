@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "2092",
-  "pname": "HP Mercury Quality Center",
-  "pcpe": "cpe:/a:hp:mercury_quality_center"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "2092",
+	"pname": "HP Mercury Quality Center",
+	"pcpe": "cpe:/a:hp:mercury_quality_center"
 }

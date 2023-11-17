@@ -1,8 +1,8 @@
 {
-  "vid": "17822",
-  "vname": "lsof project",
-  "vcpe": "cpe:/:isof_project",
-  "pid": "42949",
-  "pname": "lsof",
-  "pcpe": "cpe:/a:isof_project:isof"
+	"vid": "17822",
+	"vname": "lsof project",
+	"vcpe": "cpe:/:isof_project",
+	"pid": "42949",
+	"pname": "lsof",
+	"pcpe": "cpe:/a:isof_project:isof"
 }

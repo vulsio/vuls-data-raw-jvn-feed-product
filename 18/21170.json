@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "21170",
-  "pname": "IBM System Networking RackSwitch G8264T",
-  "pcpe": "cpe:/h:ibm:system_networking_rackswitch__g8264t"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "21170",
+	"pname": "IBM System Networking RackSwitch G8264T",
+	"pcpe": "cpe:/h:ibm:system_networking_rackswitch__g8264t"
 }

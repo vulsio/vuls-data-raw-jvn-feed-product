@@ -1,8 +1,8 @@
 {
-  "vid": "15233",
-  "vname": "Sonos, Inc.",
-  "vcpe": "cpe:/:sonos",
-  "pid": "57603",
-  "pname": "s1",
-  "pcpe": "cpe:/a:sonos:s1"
+	"vid": "15233",
+	"vname": "Sonos, Inc.",
+	"vcpe": "cpe:/:sonos",
+	"pid": "57603",
+	"pname": "s1",
+	"pcpe": "cpe:/a:sonos:s1"
 }

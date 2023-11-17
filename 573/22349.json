@@ -1,8 +1,8 @@
 {
-  "vid": "573",
-  "vname": "Foxit Software Inc",
-  "vcpe": "cpe:/:foxitsoftware",
-  "pid": "22349",
-  "pname": "Foxit MobilePDF",
-  "pcpe": "cpe:/a:foxitsoftware:mobilepdf"
+	"vid": "573",
+	"vname": "Foxit Software Inc",
+	"vcpe": "cpe:/:foxitsoftware",
+	"pid": "22349",
+	"pname": "Foxit MobilePDF",
+	"pcpe": "cpe:/a:foxitsoftware:mobilepdf"
 }

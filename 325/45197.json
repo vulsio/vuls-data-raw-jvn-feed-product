@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45197",
-  "pname": "ThinkAgile HX2320-E ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkagile_hx2320-e_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45197",
+	"pname": "ThinkAgile HX2320-E ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkagile_hx2320-e_firmware"
 }

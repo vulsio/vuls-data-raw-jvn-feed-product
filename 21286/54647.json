@@ -1,8 +1,8 @@
 {
-  "vid": "21286",
-  "vname": "debug-meta-data project",
-  "vcpe": "cpe:/:debug_meta_data_project",
-  "pid": "54647",
-  "pname": "debug-meta-data",
-  "pcpe": "cpe:/a:debug_meta_data_project:debug_meta_data"
+	"vid": "21286",
+	"vname": "debug-meta-data project",
+	"vcpe": "cpe:/:debug_meta_data_project",
+	"pid": "54647",
+	"pname": "debug-meta-data",
+	"pcpe": "cpe:/a:debug_meta_data_project:debug_meta_data"
 }

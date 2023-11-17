@@ -1,8 +1,8 @@
 {
-  "vid": "20809",
-  "vname": "Tubitak",
-  "vcpe": "cpe:/:tubitak",
-  "pid": "53067",
-  "pname": "Pardus Software Center",
-  "pcpe": "cpe:/a:tubitak:pardus_software_center"
+	"vid": "20809",
+	"vname": "Tubitak",
+	"vcpe": "cpe:/:tubitak",
+	"pid": "53067",
+	"pname": "Pardus Software Center",
+	"pcpe": "cpe:/a:tubitak:pardus_software_center"
 }

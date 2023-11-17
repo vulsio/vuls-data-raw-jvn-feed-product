@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "51674",
-  "pname": "Oracle Real-Time Decision Server",
-  "pcpe": "cpe:/a:oracle:real-time_decision_server"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "51674",
+	"pname": "Oracle Real-Time Decision Server",
+	"pcpe": "cpe:/a:oracle:real-time_decision_server"
 }

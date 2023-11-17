@@ -1,8 +1,8 @@
 {
-  "vid": "9119",
-  "vname": "Graphite project",
-  "vcpe": "cpe:/:graphite_project",
-  "pid": "18424",
-  "pname": "Graphite",
-  "pcpe": "cpe:/a:graphite_project:graphite"
+	"vid": "9119",
+	"vname": "Graphite project",
+	"vcpe": "cpe:/:graphite_project",
+	"pid": "18424",
+	"pname": "Graphite",
+	"pcpe": "cpe:/a:graphite_project:graphite"
 }

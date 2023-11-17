@@ -1,8 +1,8 @@
 {
-  "vid": "4160",
-  "vname": "VIVOTEK Inc.",
-  "vcpe": "cpe:/:vivotek",
-  "pid": "44985",
-  "pname": "FD9388-HTV ファームウェア",
-  "pcpe": "cpe:/o:vivotek:fd9388-htv_firmware"
+	"vid": "4160",
+	"vname": "VIVOTEK Inc.",
+	"vcpe": "cpe:/:vivotek",
+	"pid": "44985",
+	"pname": "FD9388-HTV ファームウェア",
+	"pcpe": "cpe:/o:vivotek:fd9388-htv_firmware"
 }

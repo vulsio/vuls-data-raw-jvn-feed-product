@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "4845",
-  "pname": "activematrix service performance manager",
-  "pcpe": "cpe:/a:tibco:activematrix_service_performance_manager"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "4845",
+	"pname": "activematrix service performance manager",
+	"pcpe": "cpe:/a:tibco:activematrix_service_performance_manager"
 }

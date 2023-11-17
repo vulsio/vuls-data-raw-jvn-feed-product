@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "41237",
-  "pname": "RICOH MP 501 ファームウェア",
-  "pcpe": "cpe:/o:ricoh:mp_501_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "41237",
+	"pname": "RICOH MP 501 ファームウェア",
+	"pcpe": "cpe:/o:ricoh:mp_501_firmware"
 }

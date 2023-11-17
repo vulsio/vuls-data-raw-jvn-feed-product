@@ -1,8 +1,8 @@
 {
-  "vid": "24795",
-  "vname": "esdoc",
-  "vcpe": "cpe:/:esdoc",
-  "pid": "64279",
-  "pname": "esdoc-publish-html-plugin",
-  "pcpe": "cpe:/a:esdoc:esdoc-publish-html-plugin"
+	"vid": "24795",
+	"vname": "esdoc",
+	"vcpe": "cpe:/:esdoc",
+	"pid": "64279",
+	"pname": "esdoc-publish-html-plugin",
+	"pcpe": "cpe:/a:esdoc:esdoc-publish-html-plugin"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5773",
-  "vname": "mpg123 project",
-  "vcpe": "cpe:/:mpg123_project",
-  "pid": "11733",
-  "pname": "mpg123",
-  "pcpe": "cpe:/a:mpg123_project:mpg123"
+	"vid": "5773",
+	"vname": "mpg123 project",
+	"vcpe": "cpe:/:mpg123_project",
+	"pid": "11733",
+	"pname": "mpg123",
+	"pcpe": "cpe:/a:mpg123_project:mpg123"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18251",
-  "vname": "Macaron project",
-  "vcpe": "cpe:/:go-macaron",
-  "pid": "56007",
-  "pname": "csrf",
-  "pcpe": "cpe:/a:go-macaron:csrf"
+	"vid": "18251",
+	"vname": "Macaron project",
+	"vcpe": "cpe:/:go-macaron",
+	"pid": "56007",
+	"pname": "csrf",
+	"pcpe": "cpe:/a:go-macaron:csrf"
 }

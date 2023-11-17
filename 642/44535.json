@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "44535",
-  "pname": "GS810EMX ファームウェア",
-  "pcpe": "cpe:/o:netgear:gs810emx_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "44535",
+	"pname": "GS810EMX ファームウェア",
+	"pcpe": "cpe:/o:netgear:gs810emx_firmware"
 }

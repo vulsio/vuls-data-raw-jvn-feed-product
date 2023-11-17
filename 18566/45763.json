@@ -1,8 +1,8 @@
 {
-  "vid": "18566",
-  "vname": "AvertX",
-  "vcpe": "cpe:/:avertx",
-  "pid": "45763",
-  "pname": "HD438 ファームウェア",
-  "pcpe": "cpe:/o:avertx:hd438_firmware"
+	"vid": "18566",
+	"vname": "AvertX",
+	"vcpe": "cpe:/:avertx",
+	"pid": "45763",
+	"pname": "HD438 ファームウェア",
+	"pcpe": "cpe:/o:avertx:hd438_firmware"
 }

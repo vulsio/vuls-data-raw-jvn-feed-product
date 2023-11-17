@@ -1,8 +1,8 @@
 {
-  "vid": "12204",
-  "vname": "Trane",
-  "vcpe": "cpe:/:trane",
-  "pid": "50539",
-  "pname": "Tracer SC+ ファームウェア",
-  "pcpe": "cpe:/o:trane:tracer_sc%2b_firmware"
+	"vid": "12204",
+	"vname": "Trane",
+	"vcpe": "cpe:/:trane",
+	"pid": "50539",
+	"pname": "Tracer SC+ ファームウェア",
+	"pcpe": "cpe:/o:trane:tracer_sc%2b_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18139",
-  "vname": "compass-compile_project",
-  "vcpe": "cpe:/:compass-compile_project",
-  "pid": "44206",
-  "pname": "compass-compile",
-  "pcpe": "cpe:/a:compass-compile_project:compass-compile"
+	"vid": "18139",
+	"vname": "compass-compile_project",
+	"vcpe": "cpe:/:compass-compile_project",
+	"pid": "44206",
+	"pname": "compass-compile",
+	"pcpe": "cpe:/a:compass-compile_project:compass-compile"
 }

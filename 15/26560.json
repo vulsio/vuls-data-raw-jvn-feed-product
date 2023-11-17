@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26560",
-  "pname": "Oracle Insurance Rules Palette",
-  "pcpe": "cpe:/a:oracle:insurance_rules_palette"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26560",
+	"pname": "Oracle Insurance Rules Palette",
+	"pcpe": "cpe:/a:oracle:insurance_rules_palette"
 }

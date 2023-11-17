@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "61097",
-  "pname": "ThinkAgile VX3331 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkagile_vx3331_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "61097",
+	"pname": "ThinkAgile VX3331 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkagile_vx3331_firmware"
 }

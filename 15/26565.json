@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26565",
-  "pname": "Oracle Demand Planning",
-  "pcpe": "cpe:/a:oracle:demand_planning"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26565",
+	"pname": "Oracle Demand Planning",
+	"pcpe": "cpe:/a:oracle:demand_planning"
 }

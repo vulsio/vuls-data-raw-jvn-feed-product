@@ -1,8 +1,8 @@
 {
-  "vid": "18899",
-  "vname": "chartjs",
-  "vcpe": "cpe:/:chartjs",
-  "pid": "47165",
-  "pname": "Chart.js",
-  "pcpe": "cpe:/a:chartjs:chart.js"
+	"vid": "18899",
+	"vname": "chartjs",
+	"vcpe": "cpe:/:chartjs",
+	"pid": "47165",
+	"pname": "Chart.js",
+	"pcpe": "cpe:/a:chartjs:chart.js"
 }

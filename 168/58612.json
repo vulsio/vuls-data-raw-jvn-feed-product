@@ -1,8 +1,8 @@
 {
-  "vid": "168",
-  "vname": "横河電機株式会社",
-  "vcpe": "cpe:/:yokogawa",
-  "pid": "58612",
-  "pname": "b/m9000 vp",
-  "pcpe": "cpe:/a:yokogawa:b%2Fm9000_vp"
+	"vid": "168",
+	"vname": "横河電機株式会社",
+	"vcpe": "cpe:/:yokogawa",
+	"pid": "58612",
+	"pname": "b/m9000 vp",
+	"pcpe": "cpe:/a:yokogawa:b%2Fm9000_vp"
 }

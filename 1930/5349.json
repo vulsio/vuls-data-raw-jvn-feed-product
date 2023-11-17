@@ -1,8 +1,8 @@
 {
-  "vid": "1930",
-  "vname": "123flashchat",
-  "vcpe": "cpe:/:123flashchat",
-  "pid": "5349",
-  "pname": "echat plugin",
-  "pcpe": "cpe:/a:123flashchat:echat_plugin"
+	"vid": "1930",
+	"vname": "123flashchat",
+	"vcpe": "cpe:/:123flashchat",
+	"pid": "5349",
+	"pname": "echat plugin",
+	"pcpe": "cpe:/a:123flashchat:echat_plugin"
 }

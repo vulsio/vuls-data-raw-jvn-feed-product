@@ -1,8 +1,8 @@
 {
-  "vid": "13080",
-  "vname": "Replibit LLC",
-  "vcpe": "cpe:/:replibit",
-  "pid": "30470",
-  "pname": "Backup Manager",
-  "pcpe": "cpe:/a:replibit:backup_manager"
+	"vid": "13080",
+	"vname": "Replibit LLC",
+	"vcpe": "cpe:/:replibit",
+	"pid": "30470",
+	"pname": "Backup Manager",
+	"pcpe": "cpe:/a:replibit:backup_manager"
 }

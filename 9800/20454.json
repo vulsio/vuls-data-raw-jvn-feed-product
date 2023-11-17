@@ -1,8 +1,8 @@
 {
-  "vid": "9800",
-  "vname": "Diverse Solutions",
-  "vcpe": "cpe:/:diversesolutions",
-  "pid": "20454",
-  "pname": "dsSearchAgent: WordPress Edition",
-  "pcpe": "cpe:/a:diversesolutions:dssearchagent"
+	"vid": "9800",
+	"vname": "Diverse Solutions",
+	"vcpe": "cpe:/:diversesolutions",
+	"pid": "20454",
+	"pname": "dsSearchAgent: WordPress Edition",
+	"pcpe": "cpe:/a:diversesolutions:dssearchagent"
 }

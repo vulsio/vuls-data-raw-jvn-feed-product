@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "38437",
-  "pname": "CompactLogix 5370 L1 ファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:compactlogix_5370_l1_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "38437",
+	"pname": "CompactLogix 5370 L1 ファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:compactlogix_5370_l1_firmware"
 }

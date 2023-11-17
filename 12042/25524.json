@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25524",
-  "pname": "JC124B HP 9505 Switch Chassis",
-  "pcpe": "cpe:/h:hp:jc124b_hp_9505_switch_chassis"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25524",
+	"pname": "JC124B HP 9505 Switch Chassis",
+	"pcpe": "cpe:/h:hp:jc124b_hp_9505_switch_chassis"
 }

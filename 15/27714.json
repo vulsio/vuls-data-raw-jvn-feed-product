@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27714",
-  "pname": "Oracle Installed Base",
-  "pcpe": "cpe:/a:oracle:installed_base"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27714",
+	"pname": "Oracle Installed Base",
+	"pcpe": "cpe:/a:oracle:installed_base"
 }

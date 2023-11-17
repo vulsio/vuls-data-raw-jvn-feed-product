@@ -1,8 +1,8 @@
 {
-  "vid": "1107",
-  "vname": "Xiaomi",
-  "vcpe": "cpe:/:xiaomi",
-  "pid": "41305",
-  "pname": "Xiaomi Mi WiFi R3G ファームウェア",
-  "pcpe": "cpe:/o:xiaomi:millet_router_3g_firmware"
+	"vid": "1107",
+	"vname": "Xiaomi",
+	"vcpe": "cpe:/:xiaomi",
+	"pid": "41305",
+	"pname": "Xiaomi Mi WiFi R3G ファームウェア",
+	"pcpe": "cpe:/o:xiaomi:millet_router_3g_firmware"
 }

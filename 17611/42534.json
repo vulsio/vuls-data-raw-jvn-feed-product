@@ -1,8 +1,8 @@
 {
-  "vid": "17611",
-  "vname": "nothings",
-  "vcpe": "cpe:/:nothings",
-  "pid": "42534",
-  "pname": "stb_truetype.h",
-  "pcpe": "cpe:/a:nothings:stb_truetype.h"
+	"vid": "17611",
+	"vname": "nothings",
+	"vcpe": "cpe:/:nothings",
+	"pid": "42534",
+	"pname": "stb_truetype.h",
+	"pcpe": "cpe:/a:nothings:stb_truetype.h"
 }

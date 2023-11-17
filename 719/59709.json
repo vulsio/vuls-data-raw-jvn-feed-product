@@ -1,8 +1,8 @@
 {
-  "vid": "719",
-  "vname": "HTC Corporation",
-  "vcpe": "cpe:/:htc",
-  "pid": "59709",
-  "pname": "mail",
-  "pcpe": "cpe:/a:htc:mail"
+	"vid": "719",
+	"vname": "HTC Corporation",
+	"vcpe": "cpe:/:htc",
+	"pid": "59709",
+	"pname": "mail",
+	"pcpe": "cpe:/a:htc:mail"
 }

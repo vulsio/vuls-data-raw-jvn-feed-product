@@ -1,8 +1,8 @@
 {
-  "vid": "1273",
-  "vname": "idevSpot",
-  "vcpe": "cpe:/:idevspot",
-  "pid": "10058",
-  "pname": "iSupport",
-  "pcpe": "cpe:/a:idevspot:isupport"
+	"vid": "1273",
+	"vname": "idevSpot",
+	"vcpe": "cpe:/:idevspot",
+	"pid": "10058",
+	"pname": "iSupport",
+	"pcpe": "cpe:/a:idevspot:isupport"
 }

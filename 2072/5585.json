@@ -1,8 +1,8 @@
 {
-  "vid": "2072",
-  "vname": "afflib",
-  "vcpe": "cpe:/:afflib",
-  "pid": "5585",
-  "pname": "AFFLIB",
-  "pcpe": "cpe:/a:afflib:afflib"
+	"vid": "2072",
+	"vname": "afflib",
+	"vcpe": "cpe:/:afflib",
+	"pid": "5585",
+	"pname": "AFFLIB",
+	"pcpe": "cpe:/a:afflib:afflib"
 }

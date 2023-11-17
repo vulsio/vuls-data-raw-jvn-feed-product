@@ -1,8 +1,8 @@
 {
-  "vid": "15948",
-  "vname": "ASRock",
-  "vcpe": "cpe:/:asrock",
-  "pid": "37236",
-  "pname": "RestartToUEFI",
-  "pcpe": "cpe:/a:asrock:restart_to_uefi"
+	"vid": "15948",
+	"vname": "ASRock",
+	"vcpe": "cpe:/:asrock",
+	"pid": "37236",
+	"pname": "RestartToUEFI",
+	"pcpe": "cpe:/a:asrock:restart_to_uefi"
 }

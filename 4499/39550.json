@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "39550",
-  "pname": "FR Configurator2",
-  "pcpe": "cpe:/a:mitsubishielectric:fr_configurator2"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "39550",
+	"pname": "FR Configurator2",
+	"pcpe": "cpe:/a:mitsubishielectric:fr_configurator2"
 }

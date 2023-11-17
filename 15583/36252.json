@@ -1,8 +1,8 @@
 {
-  "vid": "15583",
-  "vname": "parceljs.org",
-  "vcpe": "cpe:/:parceljs",
-  "pid": "36252",
-  "pname": "Parcel",
-  "pcpe": "cpe:/a:parceljs:parcel"
+	"vid": "15583",
+	"vname": "parceljs.org",
+	"vcpe": "cpe:/:parceljs",
+	"pid": "36252",
+	"pname": "Parcel",
+	"pcpe": "cpe:/a:parceljs:parcel"
 }

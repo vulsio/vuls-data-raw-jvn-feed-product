@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "18644",
-  "pname": "ERP Central Component",
-  "pcpe": "cpe:/a:sap:erp_central_component"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "18644",
+	"pname": "ERP Central Component",
+	"pcpe": "cpe:/a:sap:erp_central_component"
 }

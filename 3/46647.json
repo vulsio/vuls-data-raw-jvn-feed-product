@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "46647",
-  "pname": "librepo",
-  "pcpe": "cpe:/a:redhat:librepo"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "46647",
+	"pname": "librepo",
+	"pcpe": "cpe:/a:redhat:librepo"
 }

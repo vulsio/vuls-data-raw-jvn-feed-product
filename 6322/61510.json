@@ -1,8 +1,8 @@
 {
-  "vid": "6322",
-  "vname": "Perforce Software",
-  "vcpe": "cpe:/:perforce",
-  "pid": "61510",
-  "pname": "puppet bolt",
-  "pcpe": "cpe:/a:perforce:puppet_bolt"
+	"vid": "6322",
+	"vname": "Perforce Software",
+	"vcpe": "cpe:/:perforce",
+	"pid": "61510",
+	"pname": "puppet bolt",
+	"pcpe": "cpe:/a:perforce:puppet_bolt"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "41510",
-  "pname": "RHQ Mongo DB Drift Server",
-  "pcpe": "cpe:/a:redhat:rhq_mongo_db_drift_server"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "41510",
+	"pname": "RHQ Mongo DB Drift Server",
+	"pcpe": "cpe:/a:redhat:rhq_mongo_db_drift_server"
 }

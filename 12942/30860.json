@@ -1,8 +1,8 @@
 {
-  "vid": "12942",
-  "vname": "Akka",
-  "vcpe": "cpe:/:akka",
-  "pid": "30860",
-  "pname": "Akka HTTP",
-  "pcpe": "cpe:/a:akka:http_server"
+	"vid": "12942",
+	"vname": "Akka",
+	"vcpe": "cpe:/:akka",
+	"pid": "30860",
+	"pname": "Akka HTTP",
+	"pcpe": "cpe:/a:akka:http_server"
 }

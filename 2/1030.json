@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "1030",
-  "pname": "Microsoft Picture It!",
-  "pcpe": "cpe:/a:microsoft:picture_it"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "1030",
+	"pname": "Microsoft Picture It!",
+	"pcpe": "cpe:/a:microsoft:picture_it"
 }

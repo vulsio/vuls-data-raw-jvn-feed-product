@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "63518",
-  "pname": "catalyst 6504-e ファームウェア",
-  "pcpe": "cpe:/o:cisco:catalyst_6504-e_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "63518",
+	"pname": "catalyst 6504-e ファームウェア",
+	"pcpe": "cpe:/o:cisco:catalyst_6504-e_firmware"
 }

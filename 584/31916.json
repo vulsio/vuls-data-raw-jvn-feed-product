@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "31916",
-  "pname": "SIMATIC WinAC RTX 2010 incl. F ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_winac_rtx_f_2010_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "31916",
+	"pname": "SIMATIC WinAC RTX 2010 incl. F ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_winac_rtx_f_2010_firmware"
 }

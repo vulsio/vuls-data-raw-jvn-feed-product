@@ -1,8 +1,8 @@
 {
-  "vid": "504",
-  "vname": "Motorola Solutions, Inc",
-  "vcpe": "cpe:/:motorola",
-  "pid": "23520",
-  "pname": "Motorola Scanner SDK",
-  "pcpe": "cpe:/a:motorola:motorola_scanner_sdk"
+	"vid": "504",
+	"vname": "Motorola Solutions, Inc",
+	"vcpe": "cpe:/:motorola",
+	"pid": "23520",
+	"pname": "Motorola Scanner SDK",
+	"pcpe": "cpe:/a:motorola:motorola_scanner_sdk"
 }

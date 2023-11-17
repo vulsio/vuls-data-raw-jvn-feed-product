@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "45374",
-  "pname": "DreamMapper",
-  "pcpe": "cpe:/a:philips:dreammapper"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "45374",
+	"pname": "DreamMapper",
+	"pcpe": "cpe:/a:philips:dreammapper"
 }

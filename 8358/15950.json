@@ -1,8 +1,8 @@
 {
-  "vid": "8358",
-  "vname": "vsecurity",
-  "vcpe": "cpe:/:vsecurity",
-  "pid": "15950",
-  "pname": "tandberg video communication server",
-  "pcpe": "cpe:/a:vsecurity:tandberg_video_communication_server"
+	"vid": "8358",
+	"vname": "vsecurity",
+	"vcpe": "cpe:/:vsecurity",
+	"pid": "15950",
+	"pname": "tandberg video communication server",
+	"pcpe": "cpe:/a:vsecurity:tandberg_video_communication_server"
 }

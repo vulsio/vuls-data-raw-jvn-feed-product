@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17793",
-  "pname": "Cisco Unified IP Phone 9951",
-  "pcpe": "cpe:/h:cisco:unified_ip_phone_9951"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17793",
+	"pname": "Cisco Unified IP Phone 9951",
+	"pcpe": "cpe:/h:cisco:unified_ip_phone_9951"
 }

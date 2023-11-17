@@ -1,8 +1,8 @@
 {
-  "vid": "18753",
-  "vname": "エレコム株式会社",
-  "vcpe": "cpe:/:elecom",
-  "pid": "49967",
-  "pname": "WRH-733GBK ファームウェア",
-  "pcpe": "cpe:/o:elecom:wrh-733gbk_firmware"
+	"vid": "18753",
+	"vname": "エレコム株式会社",
+	"vcpe": "cpe:/:elecom",
+	"pid": "49967",
+	"pname": "WRH-733GBK ファームウェア",
+	"pcpe": "cpe:/o:elecom:wrh-733gbk_firmware"
 }

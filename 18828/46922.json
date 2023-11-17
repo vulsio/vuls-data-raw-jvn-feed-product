@@ -1,8 +1,8 @@
 {
-  "vid": "18828",
-  "vname": "osm-static-maps project",
-  "vcpe": "cpe:/:osm-static-maps_project",
-  "pid": "46922",
-  "pname": "osm-static-maps",
-  "pcpe": "cpe:/a:osm-static-maps_project:osm-static-maps"
+	"vid": "18828",
+	"vname": "osm-static-maps project",
+	"vcpe": "cpe:/:osm-static-maps_project",
+	"pid": "46922",
+	"pname": "osm-static-maps",
+	"pcpe": "cpe:/a:osm-static-maps_project:osm-static-maps"
 }

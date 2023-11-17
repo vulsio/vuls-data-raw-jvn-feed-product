@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "23254",
-  "pname": "ManageEngine SupportCenter Plus",
-  "pcpe": "cpe:/a:zohocorp:manageengine_supportcenter_plus"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "23254",
+	"pname": "ManageEngine SupportCenter Plus",
+	"pcpe": "cpe:/a:zohocorp:manageengine_supportcenter_plus"
 }

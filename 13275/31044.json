@@ -1,8 +1,8 @@
 {
-  "vid": "13275",
-  "vname": "ソニービデオ&サウンドプロダクツ株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "31044",
-  "pname": "Music Center",
-  "pcpe": "cpe:/a:sony:music_center"
+	"vid": "13275",
+	"vname": "ソニービデオ&サウンドプロダクツ株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "31044",
+	"pname": "Music Center",
+	"pcpe": "cpe:/a:sony:music_center"
 }

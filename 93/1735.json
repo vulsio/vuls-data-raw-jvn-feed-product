@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1735",
-  "pname": "Header image",
-  "pcpe": "cpe:/a:drupal:header_image"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1735",
+	"pname": "Header image",
+	"pcpe": "cpe:/a:drupal:header_image"
 }

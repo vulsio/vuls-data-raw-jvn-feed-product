@@ -1,8 +1,8 @@
 {
-  "vid": "16081",
-  "vname": "British Airways",
-  "vcpe": "cpe:/:british_airways",
-  "pid": "37674",
-  "pname": "Entertainment System",
-  "pcpe": "cpe:/a:british_airways:entertainment_system"
+	"vid": "16081",
+	"vname": "British Airways",
+	"vcpe": "cpe:/:british_airways",
+	"pid": "37674",
+	"pname": "Entertainment System",
+	"pcpe": "cpe:/a:british_airways:entertainment_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12283",
-  "vname": "PricewaterhouseCoopers (PwC)",
-  "vcpe": "cpe:/:pwc",
-  "pid": "27505",
-  "pname": "ACE-ABAP",
-  "pcpe": "cpe:/a:pwc:ace-advanced_business_application_programming"
+	"vid": "12283",
+	"vname": "PricewaterhouseCoopers (PwC)",
+	"vcpe": "cpe:/:pwc",
+	"pid": "27505",
+	"pname": "ACE-ABAP",
+	"pcpe": "cpe:/a:pwc:ace-advanced_business_application_programming"
 }

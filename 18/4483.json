@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4483",
-  "pname": "Runtimes for Java Technology",
-  "pcpe": "cpe:/a:ibm:runtimes_for_java_technology"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4483",
+	"pname": "Runtimes for Java Technology",
+	"pcpe": "cpe:/a:ibm:runtimes_for_java_technology"
 }

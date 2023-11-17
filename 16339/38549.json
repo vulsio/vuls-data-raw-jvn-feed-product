@@ -1,8 +1,8 @@
 {
-  "vid": "16339",
-  "vname": "python-dbusmock project",
-  "vcpe": "cpe:/:python-dbusmock_project",
-  "pid": "38549",
-  "pname": "python-dbusmock",
-  "pcpe": "cpe:/a:python-dbusmock_project:python-dbusmock"
+	"vid": "16339",
+	"vname": "python-dbusmock project",
+	"vcpe": "cpe:/:python-dbusmock_project",
+	"pid": "38549",
+	"pname": "python-dbusmock",
+	"pcpe": "cpe:/a:python-dbusmock_project:python-dbusmock"
 }

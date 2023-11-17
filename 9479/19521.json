@@ -1,8 +1,8 @@
 {
-  "vid": "9479",
-  "vname": "GPSD project",
-  "vcpe": "cpe:/:gpsd_project",
-  "pid": "19521",
-  "pname": "gpsd",
-  "pcpe": "cpe:/a:gpsd_project:gpsd"
+	"vid": "9479",
+	"vname": "GPSD project",
+	"vcpe": "cpe:/:gpsd_project",
+	"pid": "19521",
+	"pname": "gpsd",
+	"pcpe": "cpe:/a:gpsd_project:gpsd"
 }

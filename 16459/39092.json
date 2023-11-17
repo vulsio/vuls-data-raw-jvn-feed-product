@@ -1,8 +1,8 @@
 {
-  "vid": "16459",
-  "vname": "Inateck Technology Inc.",
-  "vcpe": "cpe:/:inateck",
-  "pid": "39092",
-  "pname": "WP1001 ファームウェア",
-  "pcpe": "cpe:/o:inateck:wp1001_firmware"
+	"vid": "16459",
+	"vname": "Inateck Technology Inc.",
+	"vcpe": "cpe:/:inateck",
+	"pid": "39092",
+	"pname": "WP1001 ファームウェア",
+	"pcpe": "cpe:/o:inateck:wp1001_firmware"
 }

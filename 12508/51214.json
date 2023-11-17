@@ -1,8 +1,8 @@
 {
-  "vid": "12508",
-  "vname": "Becton, Dickinson and Company (BD)",
-  "vcpe": "cpe:/:bd",
-  "pid": "51214",
-  "pname": "Viper LT system ファームウェア",
-  "pcpe": "cpe:/o:bd:viper_lt_system_firmware"
+	"vid": "12508",
+	"vname": "Becton, Dickinson and Company (BD)",
+	"vcpe": "cpe:/:bd",
+	"pid": "51214",
+	"pname": "Viper LT system ファームウェア",
+	"pcpe": "cpe:/o:bd:viper_lt_system_firmware"
 }

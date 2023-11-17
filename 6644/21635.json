@@ -1,8 +1,8 @@
 {
-  "vid": "6644",
-  "vname": "UNINETT",
-  "vcpe": "cpe:/:uninett",
-  "pid": "21635",
-  "pname": "mod_auth_mellon",
-  "pcpe": "cpe:/a:uninett:mod_auth_mellon"
+	"vid": "6644",
+	"vname": "UNINETT",
+	"vcpe": "cpe:/:uninett",
+	"pid": "21635",
+	"pname": "mod_auth_mellon",
+	"pcpe": "cpe:/a:uninett:mod_auth_mellon"
 }

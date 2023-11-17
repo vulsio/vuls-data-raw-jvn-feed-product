@@ -1,8 +1,8 @@
 {
-  "vid": "15359",
-  "vname": "一般社団法人JPCERTコーディネーションセンター",
-  "vcpe": "cpe:/:jpcert",
-  "pid": "59398",
-  "pname": "SIG情報連携ポータル",
-  "pcpe": "cpe:/a:jpcert:sig_portal"
+	"vid": "15359",
+	"vname": "一般社団法人JPCERTコーディネーションセンター",
+	"vcpe": "cpe:/:jpcert",
+	"pid": "59398",
+	"pname": "SIG情報連携ポータル",
+	"pcpe": "cpe:/a:jpcert:sig_portal"
 }

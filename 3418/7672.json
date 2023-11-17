@@ -1,8 +1,8 @@
 {
-  "vid": "3418",
-  "vname": "edgewall",
-  "vcpe": "cpe:/:edgewall",
-  "pid": "7672",
-  "pname": "firestats",
-  "pcpe": "cpe:/a:edgewall:firestats"
+	"vid": "3418",
+	"vname": "edgewall",
+	"vcpe": "cpe:/:edgewall",
+	"pid": "7672",
+	"pname": "firestats",
+	"pcpe": "cpe:/a:edgewall:firestats"
 }

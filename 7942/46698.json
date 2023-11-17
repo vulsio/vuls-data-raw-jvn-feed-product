@@ -1,8 +1,8 @@
 {
-  "vid": "7942",
-  "vname": "telestream",
-  "vcpe": "cpe:/:telestream",
-  "pid": "46698",
-  "pname": "Sentry",
-  "pcpe": "cpe:/a:telestream:sentry"
+	"vid": "7942",
+	"vname": "telestream",
+	"vcpe": "cpe:/:telestream",
+	"pid": "46698",
+	"pname": "Sentry",
+	"pcpe": "cpe:/a:telestream:sentry"
 }

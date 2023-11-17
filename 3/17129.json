@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "17129",
-  "pname": "Red Hat OpenStack Essex",
-  "pcpe": "cpe:/a:redhat:openstack_essex"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "17129",
+	"pname": "Red Hat OpenStack Essex",
+	"pcpe": "cpe:/a:redhat:openstack_essex"
 }

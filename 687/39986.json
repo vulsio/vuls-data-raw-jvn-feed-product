@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "39986",
-  "pname": "TIBCO LogLogic ST2025-SAN ファームウェア",
-  "pcpe": "cpe:/o:tibco:loglogic_st2025-san_firmware"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "39986",
+	"pname": "TIBCO LogLogic ST2025-SAN ファームウェア",
+	"pcpe": "cpe:/o:tibco:loglogic_st2025-san_firmware"
 }

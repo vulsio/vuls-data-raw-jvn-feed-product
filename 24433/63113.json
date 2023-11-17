@@ -1,8 +1,8 @@
 {
-  "vid": "24433",
-  "vname": "notice board project",
-  "vcpe": "cpe:/:notice_board_project",
-  "pid": "63113",
-  "pname": "notice board",
-  "pcpe": "cpe:/a:notice_board_project:notice_board"
+	"vid": "24433",
+	"vname": "notice board project",
+	"vcpe": "cpe:/:notice_board_project",
+	"pid": "63113",
+	"pname": "notice board",
+	"pcpe": "cpe:/a:notice_board_project:notice_board"
 }

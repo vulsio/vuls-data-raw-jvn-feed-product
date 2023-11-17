@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30284",
-  "pname": "ThinkCentre M9500z ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m9500z_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30284",
+	"pname": "ThinkCentre M9500z ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m9500z_firmware"
 }

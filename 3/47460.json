@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "47460",
-  "pname": "Red Hat Advanced Cluster Management for Kubernetes",
-  "pcpe": "cpe:/a:redhat:advanced_cluster_management_for_kubernetes"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "47460",
+	"pname": "Red Hat Advanced Cluster Management for Kubernetes",
+	"pcpe": "cpe:/a:redhat:advanced_cluster_management_for_kubernetes"
 }

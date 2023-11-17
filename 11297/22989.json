@@ -1,8 +1,8 @@
 {
-  "vid": "11297",
-  "vname": "cart-app",
-  "vcpe": "cpe:/:cart-app",
-  "pid": "22989",
-  "pname": "cart app",
-  "pcpe": "cpe:/a:cart-app:cart_app"
+	"vid": "11297",
+	"vname": "cart-app",
+	"vcpe": "cpe:/:cart-app",
+	"pid": "22989",
+	"pname": "cart app",
+	"pcpe": "cpe:/a:cart-app:cart_app"
 }

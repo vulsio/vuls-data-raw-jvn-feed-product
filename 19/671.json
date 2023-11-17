@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "671",
-  "pname": "Cisco MGX 8220 シリーズ",
-  "pcpe": "cpe:/h:cisco:mgx_8220"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "671",
+	"pname": "Cisco MGX 8220 シリーズ",
+	"pcpe": "cpe:/h:cisco:mgx_8220"
 }

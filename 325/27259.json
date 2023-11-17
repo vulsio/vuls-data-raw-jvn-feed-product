@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27259",
-  "pname": "ideapad 300-17ISK BIOS",
-  "pcpe": "cpe:/o:lenovo:notebook_ideapad_300_17isk_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27259",
+	"pname": "ideapad 300-17ISK BIOS",
+	"pcpe": "cpe:/o:lenovo:notebook_ideapad_300_17isk_bios"
 }

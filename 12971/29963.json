@@ -1,8 +1,8 @@
 {
-  "vid": "12971",
-  "vname": "SalesAgility",
-  "vcpe": "cpe:/:salesagility",
-  "pid": "29963",
-  "pname": "SuiteCRM",
-  "pcpe": "cpe:/a:salesagility:suitecrm"
+	"vid": "12971",
+	"vname": "SalesAgility",
+	"vcpe": "cpe:/:salesagility",
+	"pid": "29963",
+	"pname": "SuiteCRM",
+	"pcpe": "cpe:/a:salesagility:suitecrm"
 }

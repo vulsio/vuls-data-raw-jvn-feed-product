@@ -1,8 +1,8 @@
 {
-  "vid": "14780",
-  "vname": "Telesquare",
-  "vcpe": "cpe:/:telesquare",
-  "pid": "55142",
-  "pname": "TLR-2005KSH ファームウェア",
-  "pcpe": "cpe:/o:telesquare:tlr-2005ksh_firmware"
+	"vid": "14780",
+	"vname": "Telesquare",
+	"vcpe": "cpe:/:telesquare",
+	"pid": "55142",
+	"pname": "TLR-2005KSH ファームウェア",
+	"pcpe": "cpe:/o:telesquare:tlr-2005ksh_firmware"
 }

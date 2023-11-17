@@ -1,8 +1,8 @@
 {
-  "vid": "2406",
-  "vname": "awesomephp",
-  "vcpe": "cpe:/:awesomephp",
-  "pid": "6117",
-  "pname": "mega file manager",
-  "pcpe": "cpe:/a:awesomephp:mega_file_manager"
+	"vid": "2406",
+	"vname": "awesomephp",
+	"vcpe": "cpe:/:awesomephp",
+	"pid": "6117",
+	"pname": "mega file manager",
+	"pcpe": "cpe:/a:awesomephp:mega_file_manager"
 }

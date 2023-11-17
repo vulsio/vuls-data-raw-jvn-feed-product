@@ -1,8 +1,8 @@
 {
-  "vid": "16906",
-  "vname": "eslint-utils project",
-  "vcpe": "cpe:/:eslint-utils_project",
-  "pid": "40225",
-  "pname": "eslint-utils",
-  "pcpe": "cpe:/a:eslint-utils_project:eslint-utils"
+	"vid": "16906",
+	"vname": "eslint-utils project",
+	"vcpe": "cpe:/:eslint-utils_project",
+	"pid": "40225",
+	"pname": "eslint-utils",
+	"pcpe": "cpe:/a:eslint-utils_project:eslint-utils"
 }

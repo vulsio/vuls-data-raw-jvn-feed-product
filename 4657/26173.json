@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26173",
-  "pname": "CherryPlus",
-  "pcpe": "cpe:/h:huawei:cherryplus"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26173",
+	"pname": "CherryPlus",
+	"pcpe": "cpe:/h:huawei:cherryplus"
 }

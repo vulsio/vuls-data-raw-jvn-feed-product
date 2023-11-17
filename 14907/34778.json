@@ -1,8 +1,8 @@
 {
-  "vid": "14907",
-  "vname": "Link Platform project",
-  "vcpe": "cpe:/:linkplatform_project",
-  "pid": "34778",
-  "pname": "Link Platform",
-  "pcpe": "cpe:/a:linkplatform_project:linkplatform"
+	"vid": "14907",
+	"vname": "Link Platform project",
+	"vcpe": "cpe:/:linkplatform_project",
+	"pid": "34778",
+	"pname": "Link Platform",
+	"pcpe": "cpe:/a:linkplatform_project:linkplatform"
 }

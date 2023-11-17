@@ -1,8 +1,8 @@
 {
-  "vid": "12612",
-  "vname": "SmartBear Software",
-  "vcpe": "cpe:/:smartbear",
-  "pid": "31332",
-  "pname": "SoapUI",
-  "pcpe": "cpe:/a:smartbear:soapui"
+	"vid": "12612",
+	"vname": "SmartBear Software",
+	"vcpe": "cpe:/:smartbear",
+	"pid": "31332",
+	"pname": "SoapUI",
+	"pcpe": "cpe:/a:smartbear:soapui"
 }

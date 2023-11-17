@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "35818",
-  "pname": "MiniMed Paradigm Revel 723K ファームウェア",
-  "pcpe": "cpe:/o:medtronic:723k_paradigm_revel_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "35818",
+	"pname": "MiniMed Paradigm Revel 723K ファームウェア",
+	"pcpe": "cpe:/o:medtronic:723k_paradigm_revel_firmware"
 }

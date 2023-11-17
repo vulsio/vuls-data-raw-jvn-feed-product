@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "21503",
-  "pname": "File and Removable Media Protection",
-  "pcpe": "cpe:/a:mcafee:mcafee_file_and_removable_media_protection"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "21503",
+	"pname": "File and Removable Media Protection",
+	"pcpe": "cpe:/a:mcafee:mcafee_file_and_removable_media_protection"
 }

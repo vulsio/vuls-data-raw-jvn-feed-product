@@ -1,8 +1,8 @@
 {
-  "vid": "21736",
-  "vname": "Adiscon",
-  "vcpe": "cpe:/:adiscon",
-  "pid": "55864",
-  "pname": "Password Manager for IIS",
-  "pcpe": "cpe:/a:adiscon:password_manager_for_iis"
+	"vid": "21736",
+	"vname": "Adiscon",
+	"vcpe": "cpe:/:adiscon",
+	"pid": "55864",
+	"pname": "Password Manager for IIS",
+	"pcpe": "cpe:/a:adiscon:password_manager_for_iis"
 }

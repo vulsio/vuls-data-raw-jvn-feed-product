@@ -1,8 +1,8 @@
 {
-  "vid": "9275",
-  "vname": "Beyond grep",
-  "vcpe": "cpe:/:beyondgrep",
-  "pid": "18950",
-  "pname": "ack",
-  "pcpe": "cpe:/a:beyondgrep:ack"
+	"vid": "9275",
+	"vname": "Beyond grep",
+	"vcpe": "cpe:/:beyondgrep",
+	"pid": "18950",
+	"pname": "ack",
+	"pcpe": "cpe:/a:beyondgrep:ack"
 }

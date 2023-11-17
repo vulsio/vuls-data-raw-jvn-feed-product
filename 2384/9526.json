@@ -1,8 +1,8 @@
 {
-  "vid": "2384",
-  "vname": "オートデスク株式会社",
-  "vcpe": "cpe:/:autodesk",
-  "pid": "9526",
-  "pname": "AutoCAD",
-  "pcpe": "cpe:/a:autodesk:autocad"
+	"vid": "2384",
+	"vname": "オートデスク株式会社",
+	"vcpe": "cpe:/:autodesk",
+	"pid": "9526",
+	"pname": "AutoCAD",
+	"pcpe": "cpe:/a:autodesk:autocad"
 }

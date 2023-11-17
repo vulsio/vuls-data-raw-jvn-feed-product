@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "56687",
-  "pname": "XMPie uStore",
-  "pcpe": "cpe:/a:xerox:xmpie_ustore"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "56687",
+	"pname": "XMPie uStore",
+	"pcpe": "cpe:/a:xerox:xmpie_ustore"
 }

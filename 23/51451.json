@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "51451",
-  "pname": "Symantec Advanced Secure Gateway S200-40 ファームウェア",
-  "pcpe": "cpe:/a:symantec:symantec_advanced_secure_gateway_s200-40_firmware"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "51451",
+	"pname": "Symantec Advanced Secure Gateway S200-40 ファームウェア",
+	"pcpe": "cpe:/a:symantec:symantec_advanced_secure_gateway_s200-40_firmware"
 }

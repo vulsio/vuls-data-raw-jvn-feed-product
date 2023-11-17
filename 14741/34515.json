@@ -1,8 +1,8 @@
 {
-  "vid": "14741",
-  "vname": "WebTorrent",
-  "vcpe": "cpe:/:webtorrent",
-  "pid": "34515",
-  "pname": "bittorrent-dht",
-  "pcpe": "cpe:/a:webtorrent:bittorrent-dht"
+	"vid": "14741",
+	"vname": "WebTorrent",
+	"vcpe": "cpe:/:webtorrent",
+	"pid": "34515",
+	"pname": "bittorrent-dht",
+	"pcpe": "cpe:/a:webtorrent:bittorrent-dht"
 }

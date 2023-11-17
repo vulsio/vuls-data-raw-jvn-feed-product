@@ -1,8 +1,8 @@
 {
-  "vid": "23322",
-  "vname": "clever-cloud",
-  "vcpe": "cpe:/:clever-cloud",
-  "pid": "60422",
-  "pname": "biscuit-java",
-  "pcpe": "cpe:/a:clever-cloud:biscuit-java"
+	"vid": "23322",
+	"vname": "clever-cloud",
+	"vcpe": "cpe:/:clever-cloud",
+	"pid": "60422",
+	"pname": "biscuit-java",
+	"pcpe": "cpe:/a:clever-cloud:biscuit-java"
 }

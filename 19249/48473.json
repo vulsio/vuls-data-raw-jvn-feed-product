@@ -1,8 +1,8 @@
 {
-  "vid": "19249",
-  "vname": "pytest",
-  "vcpe": "cpe:/:pytest",
-  "pid": "48473",
-  "pname": "py",
-  "pcpe": "cpe:/a:pytest:py"
+	"vid": "19249",
+	"vname": "pytest",
+	"vcpe": "cpe:/:pytest",
+	"pid": "48473",
+	"pname": "py",
+	"pcpe": "cpe:/a:pytest:py"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "26386",
-  "pname": "WZR-HP-G300NH ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wzr-hp-g300nh_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "26386",
+	"pname": "WZR-HP-G300NH ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wzr-hp-g300nh_firmware"
 }

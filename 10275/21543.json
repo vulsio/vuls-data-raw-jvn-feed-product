@@ -1,8 +1,8 @@
 {
-  "vid": "10275",
-  "vname": "sysklogd project",
-  "vcpe": "cpe:/:sysklogd_project",
-  "pid": "21543",
-  "pname": "sysklogd",
-  "pcpe": "cpe:/a:sysklogd_project:sysklogd"
+	"vid": "10275",
+	"vname": "sysklogd project",
+	"vcpe": "cpe:/:sysklogd_project",
+	"pid": "21543",
+	"pname": "sysklogd",
+	"pcpe": "cpe:/a:sysklogd_project:sysklogd"
 }

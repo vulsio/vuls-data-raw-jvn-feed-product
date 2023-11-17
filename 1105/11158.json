@@ -1,8 +1,8 @@
 {
-  "vid": "1105",
-  "vname": "MailEnable",
-  "vcpe": "cpe:/:mailenable",
-  "pid": "11158",
-  "pname": "mailenable standard",
-  "pcpe": "cpe:/a:mailenable:mailenable_standard"
+	"vid": "1105",
+	"vname": "MailEnable",
+	"vcpe": "cpe:/:mailenable",
+	"pid": "11158",
+	"pname": "mailenable standard",
+	"pcpe": "cpe:/a:mailenable:mailenable_standard"
 }

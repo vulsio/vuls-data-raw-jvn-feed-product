@@ -1,8 +1,8 @@
 {
-  "vid": "17990",
-  "vname": "Tonnet",
-  "vcpe": "cpe:/:tonnet",
-  "pid": "43584",
-  "pname": "tat-77104g1 ファームウェア",
-  "pcpe": "cpe:/o:tonnet:tat-77104g1_firmware"
+	"vid": "17990",
+	"vname": "Tonnet",
+	"vcpe": "cpe:/:tonnet",
+	"pid": "43584",
+	"pname": "tat-77104g1 ファームウェア",
+	"pcpe": "cpe:/o:tonnet:tat-77104g1_firmware"
 }

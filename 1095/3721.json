@@ -1,8 +1,8 @@
 {
-  "vid": "1095",
-  "vname": "mystarmedia",
-  "vcpe": "cpe:/:mystarmedia",
-  "pid": "3721",
-  "pname": "MovieBase",
-  "pcpe": "cpe:/a:mystarmedia:moviebase_addon"
+	"vid": "1095",
+	"vname": "mystarmedia",
+	"vcpe": "cpe:/:mystarmedia",
+	"pid": "3721",
+	"pname": "MovieBase",
+	"pcpe": "cpe:/a:mystarmedia:moviebase_addon"
 }

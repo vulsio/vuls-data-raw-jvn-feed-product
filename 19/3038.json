@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3038",
-  "pname": "Cisco Video Surveillance 2421 シリーズ",
-  "pcpe": "cpe:/h:cisco:video_surveillance_2421"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3038",
+	"pname": "Cisco Video Surveillance 2421 シリーズ",
+	"pcpe": "cpe:/h:cisco:video_surveillance_2421"
 }

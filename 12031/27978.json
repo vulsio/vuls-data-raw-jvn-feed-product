@@ -1,8 +1,8 @@
 {
-  "vid": "12031",
-  "vname": "Adcon Telemetry",
-  "vcpe": "cpe:/:adcon",
-  "pid": "27978",
-  "pname": "A850 Telemetry Gateway",
-  "pcpe": "cpe:/h:adcon:a850_telemetry_gateway_base_station"
+	"vid": "12031",
+	"vname": "Adcon Telemetry",
+	"vcpe": "cpe:/:adcon",
+	"pid": "27978",
+	"pname": "A850 Telemetry Gateway",
+	"pcpe": "cpe:/h:adcon:a850_telemetry_gateway_base_station"
 }

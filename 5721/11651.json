@@ -1,8 +1,8 @@
 {
-  "vid": "5721",
-  "vname": "mobilesecure",
-  "vcpe": "cpe:/:mobilesecure",
-  "pid": "11651",
-  "pname": "highwall endpoint",
-  "pcpe": "cpe:/a:mobilesecure:highwall_endpoint"
+	"vid": "5721",
+	"vname": "mobilesecure",
+	"vcpe": "cpe:/:mobilesecure",
+	"pid": "11651",
+	"pname": "highwall endpoint",
+	"pcpe": "cpe:/a:mobilesecure:highwall_endpoint"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "445",
-  "pname": "Groupmax World Wide Web Desktop",
-  "pcpe": "cpe:/a:hitachi:groupmax_world_wide_web_desktop"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "445",
+	"pname": "Groupmax World Wide Web Desktop",
+	"pcpe": "cpe:/a:hitachi:groupmax_world_wide_web_desktop"
 }

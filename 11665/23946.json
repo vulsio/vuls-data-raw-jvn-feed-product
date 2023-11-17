@@ -1,8 +1,8 @@
 {
-  "vid": "11665",
-  "vname": "Insite",
-  "vcpe": "cpe:/:insite",
-  "pid": "23946",
-  "pname": "Node basket",
-  "pcpe": "cpe:/a:insite:node_basket"
+	"vid": "11665",
+	"vname": "Insite",
+	"vcpe": "cpe:/:insite",
+	"pid": "23946",
+	"pname": "Node basket",
+	"pcpe": "cpe:/a:insite:node_basket"
 }

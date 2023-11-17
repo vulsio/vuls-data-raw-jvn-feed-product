@@ -1,8 +1,8 @@
 {
-  "vid": "24097",
-  "vname": "Florist One",
-  "vcpe": "cpe:/:floristone",
-  "pid": "62320",
-  "pname": "Flower Delivery by Florist One",
-  "pcpe": "cpe:/a:floristone:flower_delivery"
+	"vid": "24097",
+	"vname": "Florist One",
+	"vcpe": "cpe:/:floristone",
+	"pid": "62320",
+	"pname": "Flower Delivery by Florist One",
+	"pcpe": "cpe:/a:floristone:flower_delivery"
 }

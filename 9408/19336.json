@@ -1,8 +1,8 @@
 {
-  "vid": "9408",
-  "vname": "bl4",
-  "vcpe": "cpe:/:bl4",
-  "pid": "19336",
-  "pname": "smtp server",
-  "pcpe": "cpe:/a:bl4:smtp_server"
+	"vid": "9408",
+	"vname": "bl4",
+	"vcpe": "cpe:/:bl4",
+	"pid": "19336",
+	"pname": "smtp server",
+	"pcpe": "cpe:/a:bl4:smtp_server"
 }

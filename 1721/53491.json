@@ -1,8 +1,8 @@
 {
-  "vid": "1721",
-  "vname": "SolarWinds",
-  "vcpe": "cpe:/:solarwinds",
-  "pid": "53491",
-  "pname": "Pingdom",
-  "pcpe": "cpe:/a:solarwinds:pingdom"
+	"vid": "1721",
+	"vname": "SolarWinds",
+	"vcpe": "cpe:/:solarwinds",
+	"pid": "53491",
+	"pname": "Pingdom",
+	"pcpe": "cpe:/a:solarwinds:pingdom"
 }

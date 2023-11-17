@@ -1,8 +1,8 @@
 {
-  "vid": "13860",
-  "vname": "CouchCMS",
-  "vcpe": "cpe:/:couchcms",
-  "pid": "32916",
-  "pname": "CouchCMS",
-  "pcpe": "cpe:/a:couchcms:couch"
+	"vid": "13860",
+	"vname": "CouchCMS",
+	"vcpe": "cpe:/:couchcms",
+	"pid": "32916",
+	"pname": "CouchCMS",
+	"pcpe": "cpe:/a:couchcms:couch"
 }

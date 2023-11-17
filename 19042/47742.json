@@ -1,8 +1,8 @@
 {
-  "vid": "19042",
-  "vname": "SpinetiX",
-  "vcpe": "cpe:/:spinetix",
-  "pid": "47742",
-  "pname": "HMP400 ファームウェア",
-  "pcpe": "cpe:/o:spinetix:hmp400_firmware"
+	"vid": "19042",
+	"vname": "SpinetiX",
+	"vcpe": "cpe:/:spinetix",
+	"pid": "47742",
+	"pname": "HMP400 ファームウェア",
+	"pcpe": "cpe:/o:spinetix:hmp400_firmware"
 }

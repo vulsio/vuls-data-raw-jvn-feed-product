@@ -1,8 +1,8 @@
 {
-  "vid": "18852",
-  "vname": "ピーアンドエフ",
-  "vcpe": "cpe:/:pepperl-fuchs",
-  "pid": "47958",
-  "pname": "WCS ファームウェア",
-  "pcpe": "cpe:/o:pepperl-fuchs:wcs_firmware"
+	"vid": "18852",
+	"vname": "ピーアンドエフ",
+	"vcpe": "cpe:/:pepperl-fuchs",
+	"pid": "47958",
+	"pname": "WCS ファームウェア",
+	"pcpe": "cpe:/o:pepperl-fuchs:wcs_firmware"
 }

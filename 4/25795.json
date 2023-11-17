@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "25795",
-  "pname": "HP EliteDesk 705 G2 DM",
-  "pcpe": "cpe:/h:hp:elitedesk_705_g2_dm"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "25795",
+	"pname": "HP EliteDesk 705 G2 DM",
+	"pcpe": "cpe:/h:hp:elitedesk_705_g2_dm"
 }

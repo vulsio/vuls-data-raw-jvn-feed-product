@@ -1,8 +1,8 @@
 {
-  "vid": "22677",
-  "vname": "gimmal",
-  "vcpe": "cpe:/:gimmal",
-  "pid": "58342",
-  "pname": "sherpa connector service",
-  "pcpe": "cpe:/a:gimmal:sherpa_connector_service"
+	"vid": "22677",
+	"vname": "gimmal",
+	"vcpe": "cpe:/:gimmal",
+	"pid": "58342",
+	"pname": "sherpa connector service",
+	"pcpe": "cpe:/a:gimmal:sherpa_connector_service"
 }

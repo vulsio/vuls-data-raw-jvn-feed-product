@@ -1,8 +1,8 @@
 {
-  "vid": "12203",
-  "vname": "Nextcloud",
-  "vcpe": "cpe:/:nextcloud",
-  "pid": "44812",
-  "pname": "Nextcloud Groupfolders",
-  "pcpe": "cpe:/a:nextcloud:group_folders"
+	"vid": "12203",
+	"vname": "Nextcloud",
+	"vcpe": "cpe:/:nextcloud",
+	"pid": "44812",
+	"pname": "Nextcloud Groupfolders",
+	"pcpe": "cpe:/a:nextcloud:group_folders"
 }

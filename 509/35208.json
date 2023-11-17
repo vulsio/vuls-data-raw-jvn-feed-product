@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "35208",
-  "pname": "R/3 Enterprise Retail",
-  "pcpe": "cpe:/a:sap:r%2f3_enterprise_retail"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "35208",
+	"pname": "R/3 Enterprise Retail",
+	"pcpe": "cpe:/a:sap:r%2f3_enterprise_retail"
 }

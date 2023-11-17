@@ -1,8 +1,8 @@
 {
-  "vid": "17748",
-  "vname": "Axper Inc.",
-  "vcpe": "cpe:/:axper",
-  "pid": "42623",
-  "pname": "Vision II ファームウェア",
-  "pcpe": "cpe:/o:axper:vision_ii_firmware"
+	"vid": "17748",
+	"vname": "Axper Inc.",
+	"vcpe": "cpe:/:axper",
+	"pid": "42623",
+	"pname": "Vision II ファームウェア",
+	"pcpe": "cpe:/o:axper:vision_ii_firmware"
 }

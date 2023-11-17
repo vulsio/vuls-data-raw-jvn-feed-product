@@ -1,8 +1,8 @@
 {
-  "vid": "12145",
-  "vname": "Black Box Network Services.",
-  "vcpe": "cpe:/:blackbox",
-  "pid": "55123",
-  "pname": "KVM ACR1000A-R-R2 ファームウェア",
-  "pcpe": "cpe:/o:blackbox:kvm_acr1000a-r-r2_firmware"
+	"vid": "12145",
+	"vname": "Black Box Network Services.",
+	"vcpe": "cpe:/:blackbox",
+	"pid": "55123",
+	"pname": "KVM ACR1000A-R-R2 ファームウェア",
+	"pcpe": "cpe:/o:blackbox:kvm_acr1000a-r-r2_firmware"
 }

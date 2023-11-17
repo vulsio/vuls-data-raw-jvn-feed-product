@@ -1,8 +1,8 @@
 {
-  "vid": "15514",
-  "vname": "myStrom AG",
-  "vcpe": "cpe:/:mystrom",
-  "pid": "36030",
-  "pname": "myStrom WiFi Led Strip ファームウェア",
-  "pcpe": "cpe:/o:mystrom:wifi_led_strip_firmware"
+	"vid": "15514",
+	"vname": "myStrom AG",
+	"vcpe": "cpe:/:mystrom",
+	"pid": "36030",
+	"pname": "myStrom WiFi Led Strip ファームウェア",
+	"pcpe": "cpe:/o:mystrom:wifi_led_strip_firmware"
 }

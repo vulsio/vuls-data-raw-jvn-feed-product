@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "32593",
-  "pname": "SAP CRM WebClient UI",
-  "pcpe": "cpe:/a:sap:customer_relationship_management_webclient_ui"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "32593",
+	"pname": "SAP CRM WebClient UI",
+	"pcpe": "cpe:/a:sap:customer_relationship_management_webclient_ui"
 }

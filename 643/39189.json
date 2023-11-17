@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "39189",
-  "pname": "Dell EMC Avamar ADMe Web Interface",
-  "pcpe": "cpe:/a:dell:avamar_data_migration_enabler_web_interface"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "39189",
+	"pname": "Dell EMC Avamar ADMe Web Interface",
+	"pcpe": "cpe:/a:dell:avamar_data_migration_enabler_web_interface"
 }

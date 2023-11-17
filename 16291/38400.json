@@ -1,8 +1,8 @@
 {
-  "vid": "16291",
-  "vname": "aquaverde",
-  "vcpe": "cpe:/:aquaverde",
-  "pid": "38400",
-  "pname": "Aquarius CMS",
-  "pcpe": "cpe:/a:aquaverde:aquarius_cms"
+	"vid": "16291",
+	"vname": "aquaverde",
+	"vcpe": "cpe:/:aquaverde",
+	"pid": "38400",
+	"pname": "Aquarius CMS",
+	"pcpe": "cpe:/a:aquaverde:aquarius_cms"
 }

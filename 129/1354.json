@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1354",
-  "pname": "JP1/File Access Control",
-  "pcpe": "cpe:/a:hitachi:jp1_file_access_control"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1354",
+	"pname": "JP1/File Access Control",
+	"pcpe": "cpe:/a:hitachi:jp1_file_access_control"
 }

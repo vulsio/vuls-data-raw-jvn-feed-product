@@ -1,8 +1,8 @@
 {
-  "vid": "19543",
-  "vname": "Facade",
-  "vcpe": "cpe:/:facade",
-  "pid": "49232",
-  "pname": "ignition",
-  "pcpe": "cpe:/a:facade:ignition"
+	"vid": "19543",
+	"vname": "Facade",
+	"vcpe": "cpe:/:facade",
+	"pid": "49232",
+	"pname": "ignition",
+	"pcpe": "cpe:/a:facade:ignition"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "2050",
-  "pname": "Sun Grid Engine",
-  "pcpe": "cpe:/a:sun:grid_engine"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "2050",
+	"pname": "Sun Grid Engine",
+	"pcpe": "cpe:/a:sun:grid_engine"
 }

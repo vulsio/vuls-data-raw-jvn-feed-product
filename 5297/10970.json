@@ -1,8 +1,8 @@
 {
-  "vid": "5297",
-  "vname": "li-scripts",
-  "vcpe": "cpe:/:li-scripts",
-  "pid": "10970",
-  "pname": "li-guestbook",
-  "pcpe": "cpe:/a:li-scripts:li-guestbook"
+	"vid": "5297",
+	"vname": "li-scripts",
+	"vcpe": "cpe:/:li-scripts",
+	"pid": "10970",
+	"pname": "li-guestbook",
+	"pcpe": "cpe:/a:li-scripts:li-guestbook"
 }

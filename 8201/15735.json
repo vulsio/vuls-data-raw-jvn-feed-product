@@ -1,8 +1,8 @@
 {
-  "vid": "8201",
-  "vname": "ultrashareware",
-  "vcpe": "cpe:/:ultrashareware",
-  "pid": "15735",
-  "pname": "ultra crypto component",
-  "pcpe": "cpe:/a:ultrashareware:ultra_crypto_component"
+	"vid": "8201",
+	"vname": "ultrashareware",
+	"vcpe": "cpe:/:ultrashareware",
+	"pid": "15735",
+	"pname": "ultra crypto component",
+	"pcpe": "cpe:/a:ultrashareware:ultra_crypto_component"
 }

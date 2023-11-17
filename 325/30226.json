@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30226",
-  "pname": "Lenovo M4500 ID ファームウェア",
-  "pcpe": "cpe:/o:lenovo:m4500_id_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30226",
+	"pname": "Lenovo M4500 ID ファームウェア",
+	"pcpe": "cpe:/o:lenovo:m4500_id_firmware"
 }

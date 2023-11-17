@@ -1,8 +1,8 @@
 {
-  "vid": "2550",
-  "vname": "black ice",
-  "vcpe": "cpe:/:black_ice",
-  "pid": "6305",
-  "pname": "annotation software",
-  "pcpe": "cpe:/a:black_ice:annotation_software"
+	"vid": "2550",
+	"vname": "black ice",
+	"vcpe": "cpe:/:black_ice",
+	"pid": "6305",
+	"pname": "annotation software",
+	"pcpe": "cpe:/a:black_ice:annotation_software"
 }

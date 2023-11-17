@@ -1,8 +1,8 @@
 {
-  "vid": "2403",
-  "vname": "AVTECH",
-  "vcpe": "cpe:/:avtech",
-  "pid": "19619",
-  "pname": "AVTECH AVN801 ファームウェア",
-  "pcpe": "cpe:/o:avtech:avn801_dvr_firmware"
+	"vid": "2403",
+	"vname": "AVTECH",
+	"vcpe": "cpe:/:avtech",
+	"pid": "19619",
+	"pname": "AVTECH AVN801 ファームウェア",
+	"pcpe": "cpe:/o:avtech:avn801_dvr_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "714",
-  "pname": "Symantec Gateway Security 5300 Series",
-  "pcpe": "cpe:/a:symantec:gateway_security_5300"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "714",
+	"pname": "Symantec Gateway Security 5300 Series",
+	"pcpe": "cpe:/a:symantec:gateway_security_5300"
 }

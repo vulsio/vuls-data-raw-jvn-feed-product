@@ -1,8 +1,8 @@
 {
-  "vid": "16492",
-  "vname": "miniOrange",
-  "vcpe": "cpe:/:miniorange",
-  "pid": "62089",
-  "pname": "Login With OTP Over SMS, Email, WhatsApp and Google Authenticator",
-  "pcpe": "cpe:/a:miniorange:login_with_otp_over_sms%2c_email%2c_whatsapp_and_google_authenticator"
+	"vid": "16492",
+	"vname": "miniOrange",
+	"vcpe": "cpe:/:miniorange",
+	"pid": "62089",
+	"pname": "Login With OTP Over SMS, Email, WhatsApp and Google Authenticator",
+	"pcpe": "cpe:/a:miniorange:login_with_otp_over_sms%2c_email%2c_whatsapp_and_google_authenticator"
 }

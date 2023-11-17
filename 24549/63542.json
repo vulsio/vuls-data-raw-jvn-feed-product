@@ -1,8 +1,8 @@
 {
-  "vid": "24549",
-  "vname": "js-beautify project",
-  "vcpe": "cpe:/:js-beautify_project",
-  "pid": "63542",
-  "pname": "js-beautify",
-  "pcpe": "cpe:/a:js-beautify_project:js-beautify"
+	"vid": "24549",
+	"vname": "js-beautify project",
+	"vcpe": "cpe:/:js-beautify_project",
+	"pid": "63542",
+	"pname": "js-beautify",
+	"pcpe": "cpe:/a:js-beautify_project:js-beautify"
 }

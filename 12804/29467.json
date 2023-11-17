@@ -1,8 +1,8 @@
 {
-  "vid": "12804",
-  "vname": "mruby project",
-  "vcpe": "cpe:/:mruby_project",
-  "pid": "29467",
-  "pname": "mruby",
-  "pcpe": "cpe:/a:mruby_project:mruby"
+	"vid": "12804",
+	"vname": "mruby project",
+	"vcpe": "cpe:/:mruby_project",
+	"pid": "29467",
+	"pname": "mruby",
+	"pcpe": "cpe:/a:mruby_project:mruby"
 }

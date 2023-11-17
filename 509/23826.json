@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "23826",
-  "pname": "SAP Mobile Platform",
-  "pcpe": "cpe:/a:sap:mobile_platform"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "23826",
+	"pname": "SAP Mobile Platform",
+	"pcpe": "cpe:/a:sap:mobile_platform"
 }

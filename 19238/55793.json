@@ -1,8 +1,8 @@
 {
-  "vid": "19238",
-  "vname": "起亜自動車",
-  "vcpe": "cpe:/:kia",
-  "pid": "55793",
-  "pname": "Head Unit ファームウェア",
-  "pcpe": "cpe:/o:kia:head_unit_firmware"
+	"vid": "19238",
+	"vname": "起亜自動車",
+	"vcpe": "cpe:/:kia",
+	"pid": "55793",
+	"pname": "Head Unit ファームウェア",
+	"pcpe": "cpe:/o:kia:head_unit_firmware"
 }

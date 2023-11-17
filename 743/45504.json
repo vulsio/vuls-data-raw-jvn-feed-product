@@ -1,8 +1,8 @@
 {
-  "vid": "743",
-  "vname": "Django Software Foundation",
-  "vcpe": "cpe:/:djangoproject",
-  "pid": "45504",
-  "pname": "django-basic-auth-ip-whitelist",
-  "pcpe": "cpe:/a:djangoproject:django-basic-auth-ip-whitelist"
+	"vid": "743",
+	"vname": "Django Software Foundation",
+	"vcpe": "cpe:/:djangoproject",
+	"pid": "45504",
+	"pname": "django-basic-auth-ip-whitelist",
+	"pcpe": "cpe:/a:djangoproject:django-basic-auth-ip-whitelist"
 }

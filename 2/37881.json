@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "37881",
-  "pname": ".NET Core SDK",
-  "pcpe": "cpe:/a:microsoft:.net_core_sdk"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "37881",
+	"pname": ".NET Core SDK",
+	"pcpe": "cpe:/a:microsoft:.net_core_sdk"
 }

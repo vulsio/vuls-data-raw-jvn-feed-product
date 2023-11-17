@@ -1,8 +1,8 @@
 {
-  "vid": "23768",
-  "vname": "spryker",
-  "vcpe": "cpe:/:spryker",
-  "pid": "61487",
-  "pname": "cloud commerce",
-  "pcpe": "cpe:/o:spryker:cloud_commerce"
+	"vid": "23768",
+	"vname": "spryker",
+	"vcpe": "cpe:/:spryker",
+	"pid": "61487",
+	"pname": "cloud commerce",
+	"pcpe": "cpe:/o:spryker:cloud_commerce"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "43634",
-  "pname": "Vivid E90 ファームウェア",
-  "pcpe": "cpe:/o:ge:vivid_e90_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "43634",
+	"pname": "Vivid E90 ファームウェア",
+	"pcpe": "cpe:/o:ge:vivid_e90_firmware"
 }

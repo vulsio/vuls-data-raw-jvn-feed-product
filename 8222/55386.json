@@ -1,8 +1,8 @@
 {
-  "vid": "8222",
-  "vname": "Unisys",
-  "vcpe": "cpe:/:unisys",
-  "pid": "55386",
-  "pname": "ClearPath MCP TCP/IP Networking Services",
-  "pcpe": "cpe:/a:unisys:clearpath_mcp_tcp%2fip_networking_services"
+	"vid": "8222",
+	"vname": "Unisys",
+	"vcpe": "cpe:/:unisys",
+	"pid": "55386",
+	"pname": "ClearPath MCP TCP/IP Networking Services",
+	"pcpe": "cpe:/a:unisys:clearpath_mcp_tcp%2fip_networking_services"
 }

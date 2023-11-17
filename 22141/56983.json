@@ -1,8 +1,8 @@
 {
-  "vid": "22141",
-  "vname": "Fittr Flickr project",
-  "vcpe": "cpe:/:fittr_flickr_project",
-  "pid": "56983",
-  "pname": "Fittr Flickr",
-  "pcpe": "cpe:/a:fittr_flickr_project:fittr_flickr"
+	"vid": "22141",
+	"vname": "Fittr Flickr project",
+	"vcpe": "cpe:/:fittr_flickr_project",
+	"pid": "56983",
+	"pname": "Fittr Flickr",
+	"pcpe": "cpe:/a:fittr_flickr_project:fittr_flickr"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3890",
-  "vname": "gallium.inria",
-  "vcpe": "cpe:/:gallium.inria",
-  "pid": "8309",
-  "pname": "camimages",
-  "pcpe": "cpe:/a:gallium.inria:camimages"
+	"vid": "3890",
+	"vname": "gallium.inria",
+	"vcpe": "cpe:/:gallium.inria",
+	"pid": "8309",
+	"pname": "camimages",
+	"pcpe": "cpe:/a:gallium.inria:camimages"
 }

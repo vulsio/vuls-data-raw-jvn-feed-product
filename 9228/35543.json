@@ -1,8 +1,8 @@
 {
-  "vid": "9228",
-  "vname": "Thomson Reuters",
-  "vcpe": "cpe:/:thomsonreuters",
-  "pid": "35543",
-  "pname": "UltraTax CS 2017",
-  "pcpe": "cpe:/a:thomsonreuters:ultratax_cs_2017"
+	"vid": "9228",
+	"vname": "Thomson Reuters",
+	"vcpe": "cpe:/:thomsonreuters",
+	"pid": "35543",
+	"pname": "UltraTax CS 2017",
+	"pcpe": "cpe:/a:thomsonreuters:ultratax_cs_2017"
 }

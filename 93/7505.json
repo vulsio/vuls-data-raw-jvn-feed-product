@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7505",
-  "pname": "invite module",
-  "pcpe": "cpe:/a:drupal:invite_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7505",
+	"pname": "invite module",
+	"pcpe": "cpe:/a:drupal:invite_module"
 }

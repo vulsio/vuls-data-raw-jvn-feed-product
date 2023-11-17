@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26809",
-  "pname": "RH1288 V3 ファームウェア",
-  "pcpe": "cpe:/o:huawei:rh1288_v3_server_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26809",
+	"pname": "RH1288 V3 ファームウェア",
+	"pcpe": "cpe:/o:huawei:rh1288_v3_server_firmware"
 }

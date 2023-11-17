@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "49336",
-  "pname": "Azure Diagnostics (LAD)",
-  "pcpe": "cpe:/a:microsoft:azure_diagnostics_%28lad%29"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "49336",
+	"pname": "Azure Diagnostics (LAD)",
+	"pcpe": "cpe:/a:microsoft:azure_diagnostics_%28lad%29"
 }

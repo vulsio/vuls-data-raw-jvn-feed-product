@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "19017",
-  "pname": "HP LaserJet Pro 400 Color M451",
-  "pcpe": "cpe:/h:hp:laserjet_pro_400_color_printer_m451"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "19017",
+	"pname": "HP LaserJet Pro 400 Color M451",
+	"pcpe": "cpe:/h:hp:laserjet_pro_400_color_printer_m451"
 }

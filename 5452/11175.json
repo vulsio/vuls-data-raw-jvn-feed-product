@@ -1,8 +1,8 @@
 {
-  "vid": "5452",
-  "vname": "mam-moodle alpha component",
-  "vcpe": "cpe:/:mam-moodle_alpha_component",
-  "pid": "11175",
-  "pname": "mam-moodle alpha component",
-  "pcpe": "cpe:/a:mam-moodle_alpha_component:mam-moodle_alpha_component"
+	"vid": "5452",
+	"vname": "mam-moodle alpha component",
+	"vcpe": "cpe:/:mam-moodle_alpha_component",
+	"pid": "11175",
+	"pname": "mam-moodle alpha component",
+	"pcpe": "cpe:/a:mam-moodle_alpha_component:mam-moodle_alpha_component"
 }

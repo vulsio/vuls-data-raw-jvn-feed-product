@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "9341",
-  "pname": "EMC ApplicationXtender Web Access .NET",
-  "pcpe": "cpe:/a:emc:applicationxtender_web_access_.net"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "9341",
+	"pname": "EMC ApplicationXtender Web Access .NET",
+	"pcpe": "cpe:/a:emc:applicationxtender_web_access_.net"
 }

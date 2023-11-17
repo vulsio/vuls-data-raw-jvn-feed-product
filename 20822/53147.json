@@ -1,8 +1,8 @@
 {
-  "vid": "20822",
-  "vname": "SKALE",
-  "vcpe": "cpe:/:skale",
-  "pid": "53147",
-  "pname": "sgxwallet",
-  "pcpe": "cpe:/a:skale:sgxwallet"
+	"vid": "20822",
+	"vname": "SKALE",
+	"vcpe": "cpe:/:skale",
+	"pid": "53147",
+	"pname": "sgxwallet",
+	"pcpe": "cpe:/a:skale:sgxwallet"
 }

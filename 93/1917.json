@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1917",
-  "pname": "Content Construction Kit",
-  "pcpe": "cpe:/a:drupal:content_construction_kit"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1917",
+	"pname": "Content Construction Kit",
+	"pcpe": "cpe:/a:drupal:content_construction_kit"
 }

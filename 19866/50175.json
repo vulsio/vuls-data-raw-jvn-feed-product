@@ -1,8 +1,8 @@
 {
-  "vid": "19866",
-  "vname": "Inim Electronics",
-  "vcpe": "cpe:/:inim",
-  "pid": "50175",
-  "pname": "Smartliving 505 ファームウェア",
-  "pcpe": "cpe:/o:inim:smartliving_505_firmware"
+	"vid": "19866",
+	"vname": "Inim Electronics",
+	"vcpe": "cpe:/:inim",
+	"pid": "50175",
+	"pname": "Smartliving 505 ファームウェア",
+	"pcpe": "cpe:/o:inim:smartliving_505_firmware"
 }

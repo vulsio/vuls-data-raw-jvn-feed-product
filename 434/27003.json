@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "27003",
-  "pname": "Solutions Enabler",
-  "pcpe": "cpe:/a:emc:solutions_enabler"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "27003",
+	"pname": "Solutions Enabler",
+	"pcpe": "cpe:/a:emc:solutions_enabler"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "23338",
-  "pname": "MultiLink ML1200 ファームウェア",
-  "pcpe": "cpe:/o:ge:multilink_ml1200_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "23338",
+	"pname": "MultiLink ML1200 ファームウェア",
+	"pcpe": "cpe:/o:ge:multilink_ml1200_firmware"
 }

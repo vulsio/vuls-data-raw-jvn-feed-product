@@ -1,8 +1,8 @@
 {
-  "vid": "23189",
-  "vname": "simple inventory system project",
-  "vcpe": "cpe:/:simple_inventory_system_project",
-  "pid": "60043",
-  "pname": "simple inventory system",
-  "pcpe": "cpe:/a:simple_inventory_system_project:simple_inventory_system"
+	"vid": "23189",
+	"vname": "simple inventory system project",
+	"vcpe": "cpe:/:simple_inventory_system_project",
+	"pid": "60043",
+	"pname": "simple inventory system",
+	"pcpe": "cpe:/a:simple_inventory_system_project:simple_inventory_system"
 }

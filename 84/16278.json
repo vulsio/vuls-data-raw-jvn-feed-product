@@ -1,8 +1,8 @@
 {
-  "vid": "84",
-  "vname": "X.Org Foundation",
-  "vcpe": "cpe:/:x.org",
-  "pid": "16278",
-  "pname": "libX11",
-  "pcpe": "cpe:/a:x.org:libx11"
+	"vid": "84",
+	"vname": "X.Org Foundation",
+	"vcpe": "cpe:/:x.org",
+	"pid": "16278",
+	"pname": "libX11",
+	"pcpe": "cpe:/a:x.org:libx11"
 }

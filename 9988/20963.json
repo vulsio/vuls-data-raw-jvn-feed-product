@@ -1,8 +1,8 @@
 {
-  "vid": "9988",
-  "vname": "Netmaster",
-  "vcpe": "cpe:/:netmaster",
-  "pid": "20963",
-  "pname": "Netmaster ケーブルモデム CBW700N ソフトウエア",
-  "pcpe": "cpe:/a:netmaster:cbw700_software"
+	"vid": "9988",
+	"vname": "Netmaster",
+	"vcpe": "cpe:/:netmaster",
+	"pid": "20963",
+	"pname": "Netmaster ケーブルモデム CBW700N ソフトウエア",
+	"pcpe": "cpe:/a:netmaster:cbw700_software"
 }

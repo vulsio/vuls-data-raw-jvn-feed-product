@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "20343",
-  "pname": "Infranet Controller 4000",
-  "pcpe": "cpe:/h:juniper:infranet_controller_4000"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "20343",
+	"pname": "Infranet Controller 4000",
+	"pcpe": "cpe:/h:juniper:infranet_controller_4000"
 }

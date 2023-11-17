@@ -1,8 +1,8 @@
 {
-  "vid": "4489",
-  "vname": "modpagespeed",
-  "vcpe": "cpe:/:modpagespeed",
-  "pid": "9576",
-  "pname": "mod_pagespeed",
-  "pcpe": "cpe:/a:modpagespeed:mod_pagespeed"
+	"vid": "4489",
+	"vname": "modpagespeed",
+	"vcpe": "cpe:/:modpagespeed",
+	"pid": "9576",
+	"pname": "mod_pagespeed",
+	"pcpe": "cpe:/a:modpagespeed:mod_pagespeed"
 }

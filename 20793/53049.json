@@ -1,8 +1,8 @@
 {
-  "vid": "20793",
-  "vname": "ansi-regex project",
-  "vcpe": "cpe:/:ansi-regex_project",
-  "pid": "53049",
-  "pname": "ansi-regex",
-  "pcpe": "cpe:/a:ansi-regex_project:ansi-regex"
+	"vid": "20793",
+	"vname": "ansi-regex project",
+	"vcpe": "cpe:/:ansi-regex_project",
+	"pid": "53049",
+	"pname": "ansi-regex",
+	"pcpe": "cpe:/a:ansi-regex_project:ansi-regex"
 }

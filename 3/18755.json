@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "18755",
-  "pname": "Red Hat Enterprise Linux High Availability",
-  "pcpe": "cpe:/o:redhat:enterprise_linux_high_availability"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "18755",
+	"pname": "Red Hat Enterprise Linux High Availability",
+	"pcpe": "cpe:/o:redhat:enterprise_linux_high_availability"
 }

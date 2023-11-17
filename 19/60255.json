@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "60255",
-  "pname": "Cisco SD-WAN vSmart Controller",
-  "pcpe": "cpe:/a:cisco:sd-wan_vsmart_controller"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "60255",
+	"pname": "Cisco SD-WAN vSmart Controller",
+	"pcpe": "cpe:/a:cisco:sd-wan_vsmart_controller"
 }

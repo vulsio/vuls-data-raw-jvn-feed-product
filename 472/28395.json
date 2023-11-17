@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "28395",
-  "pname": "Rockwell Automation ControlLogix 5570 コントローラファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:controllogix_5570_redundant_controller_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "28395",
+	"pname": "Rockwell Automation ControlLogix 5570 コントローラファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:controllogix_5570_redundant_controller_firmware"
 }

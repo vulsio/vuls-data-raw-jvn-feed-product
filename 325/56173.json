@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "56173",
-  "pname": "IdeaCentre 610S-02ISH ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideacentre_610s-02ish_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "56173",
+	"pname": "IdeaCentre 610S-02ISH ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideacentre_610s-02ish_firmware"
 }

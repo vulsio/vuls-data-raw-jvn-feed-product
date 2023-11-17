@@ -1,8 +1,8 @@
 {
-  "vid": "964",
-  "vname": "WHMCS Limited",
-  "vcpe": "cpe:/:whmcs",
-  "pid": "3491",
-  "pname": "WHMCompleteSolution",
-  "pcpe": "cpe:/a:whmcs:whmcompletesolution"
+	"vid": "964",
+	"vname": "WHMCS Limited",
+	"vcpe": "cpe:/:whmcs",
+	"pid": "3491",
+	"pname": "WHMCompleteSolution",
+	"pcpe": "cpe:/a:whmcs:whmcompletesolution"
 }

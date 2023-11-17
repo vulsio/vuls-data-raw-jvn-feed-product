@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "5876",
-  "pname": "Apple Software Update",
-  "pcpe": "cpe:/a:apple:software_update"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "5876",
+	"pname": "Apple Software Update",
+	"pcpe": "cpe:/a:apple:software_update"
 }

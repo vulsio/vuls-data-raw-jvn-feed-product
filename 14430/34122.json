@@ -1,8 +1,8 @@
 {
-  "vid": "14430",
-  "vname": "libsbmlsim project",
-  "vcpe": "cpe:/:libsbmlsim_project",
-  "pid": "34122",
-  "pname": "libsbmlsim",
-  "pcpe": "cpe:/a:libsbmlsim_project:libsbmlsim"
+	"vid": "14430",
+	"vname": "libsbmlsim project",
+	"vcpe": "cpe:/:libsbmlsim_project",
+	"pid": "34122",
+	"pname": "libsbmlsim",
+	"pcpe": "cpe:/a:libsbmlsim_project:libsbmlsim"
 }

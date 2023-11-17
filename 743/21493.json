@@ -1,8 +1,8 @@
 {
-  "vid": "743",
-  "vname": "Django Software Foundation",
-  "vcpe": "cpe:/:djangoproject",
-  "pid": "21493",
-  "pname": "Piston",
-  "pcpe": "cpe:/a:djangoproject:django_piston"
+	"vid": "743",
+	"vname": "Django Software Foundation",
+	"vcpe": "cpe:/:djangoproject",
+	"pid": "21493",
+	"pname": "Piston",
+	"pcpe": "cpe:/a:djangoproject:django_piston"
 }

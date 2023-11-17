@@ -1,8 +1,8 @@
 {
-  "vid": "21002",
-  "vname": "AS_Redis project",
-  "vcpe": "cpe:/:antsword_redis_project",
-  "pid": "53731",
-  "pname": "AS_Redis",
-  "pcpe": "cpe:/a:antsword_redis_project:antsword_redis"
+	"vid": "21002",
+	"vname": "AS_Redis project",
+	"vcpe": "cpe:/:antsword_redis_project",
+	"pid": "53731",
+	"pname": "AS_Redis",
+	"pcpe": "cpe:/a:antsword_redis_project:antsword_redis"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1357",
-  "vname": "Artica ST",
-  "vcpe": "cpe:/:artica",
-  "pid": "4195",
-  "pname": "Pandora FMS",
-  "pcpe": "cpe:/a:artica:pandora_fms"
+	"vid": "1357",
+	"vname": "Artica ST",
+	"vcpe": "cpe:/:artica",
+	"pid": "4195",
+	"pname": "Pandora FMS",
+	"pcpe": "cpe:/a:artica:pandora_fms"
 }

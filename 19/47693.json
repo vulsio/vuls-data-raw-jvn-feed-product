@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "47693",
-  "pname": "IP DECT 6825 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ip_dect_6825_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "47693",
+	"pname": "IP DECT 6825 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ip_dect_6825_firmware"
 }

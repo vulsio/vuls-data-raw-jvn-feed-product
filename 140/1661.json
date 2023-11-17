@@ -1,8 +1,8 @@
 {
-  "vid": "140",
-  "vname": "CGI RESCUE",
-  "vcpe": "cpe:/:cgi_rescue",
-  "pid": "1661",
-  "pname": "簡易BBS2000i",
-  "pcpe": "cpe:/a:cgi_rescue:kanni_bbs2000i"
+	"vid": "140",
+	"vname": "CGI RESCUE",
+	"vcpe": "cpe:/:cgi_rescue",
+	"pid": "1661",
+	"pname": "簡易BBS2000i",
+	"pcpe": "cpe:/a:cgi_rescue:kanni_bbs2000i"
 }

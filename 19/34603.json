@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "34603",
-  "pname": "UCS-E140S-M2 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ucs-e140s-m2_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "34603",
+	"pname": "UCS-E140S-M2 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ucs-e140s-m2_firmware"
 }

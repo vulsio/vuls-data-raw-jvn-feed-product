@@ -1,8 +1,8 @@
 {
-  "vid": "24070",
-  "vname": "WPExperts",
-  "vcpe": "cpe:/:wpexperts",
-  "pid": "63197",
-  "pname": "post smtp",
-  "pcpe": "cpe:/a:wpexperts:post_smtp"
+	"vid": "24070",
+	"vname": "WPExperts",
+	"vcpe": "cpe:/:wpexperts",
+	"pid": "63197",
+	"pname": "post smtp",
+	"pcpe": "cpe:/a:wpexperts:post_smtp"
 }

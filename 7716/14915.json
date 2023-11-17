@@ -1,8 +1,8 @@
 {
-  "vid": "7716",
-  "vname": "softalk mail server",
-  "vcpe": "cpe:/:softalk_mail_server",
-  "pid": "14915",
-  "pname": "softalk mail server",
-  "pcpe": "cpe:/a:softalk_mail_server:softalk_mail_server"
+	"vid": "7716",
+	"vname": "softalk mail server",
+	"vcpe": "cpe:/:softalk_mail_server",
+	"pid": "14915",
+	"pname": "softalk mail server",
+	"pcpe": "cpe:/a:softalk_mail_server:softalk_mail_server"
 }

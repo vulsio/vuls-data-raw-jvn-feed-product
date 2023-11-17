@@ -1,8 +1,8 @@
 {
-  "vid": "754",
-  "vname": "Puppet",
-  "vcpe": "cpe:/:puppetlabs",
-  "pid": "36676",
-  "pname": "cisco_ios",
-  "pcpe": "cpe:/a:puppetlabs:cisco_ios_module"
+	"vid": "754",
+	"vname": "Puppet",
+	"vcpe": "cpe:/:puppetlabs",
+	"pid": "36676",
+	"pname": "cisco_ios",
+	"pcpe": "cpe:/a:puppetlabs:cisco_ios_module"
 }

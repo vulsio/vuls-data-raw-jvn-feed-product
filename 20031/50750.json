@@ -1,8 +1,8 @@
 {
-  "vid": "20031",
-  "vname": "8x8",
-  "vcpe": "cpe:/:8x8",
-  "pid": "50750",
-  "pname": "Jitsi Meet",
-  "pcpe": "cpe:/a:8x8:jitsi_meet"
+	"vid": "20031",
+	"vname": "8x8",
+	"vcpe": "cpe:/:8x8",
+	"pid": "50750",
+	"pname": "Jitsi Meet",
+	"pcpe": "cpe:/a:8x8:jitsi_meet"
 }

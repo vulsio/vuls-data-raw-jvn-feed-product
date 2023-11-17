@@ -1,8 +1,8 @@
 {
-  "vid": "4921",
-  "vname": "javaatwork",
-  "vcpe": "cpe:/:javaatwork",
-  "pid": "10359",
-  "pname": "myftpuploader module",
-  "pcpe": "cpe:/a:javaatwork:myftpuploader_module"
+	"vid": "4921",
+	"vname": "javaatwork",
+	"vcpe": "cpe:/:javaatwork",
+	"pid": "10359",
+	"pname": "myftpuploader module",
+	"pcpe": "cpe:/a:javaatwork:myftpuploader_module"
 }

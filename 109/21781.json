@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "21781",
-  "pname": "F-08D",
-  "pcpe": "cpe:/h:fujitsu:f-08d"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "21781",
+	"pname": "F-08D",
+	"pcpe": "cpe:/h:fujitsu:f-08d"
 }

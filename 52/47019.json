@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "47019",
-  "pname": "Exposure Notifications API for iOS",
-  "pcpe": "cpe:/a:apple:exposure_notifications"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "47019",
+	"pname": "Exposure Notifications API for iOS",
+	"pcpe": "cpe:/a:apple:exposure_notifications"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "45163",
-  "pname": "WAP131",
-  "pcpe": "cpe:/h:cisco:wap131"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "45163",
+	"pname": "WAP131",
+	"pcpe": "cpe:/h:cisco:wap131"
 }

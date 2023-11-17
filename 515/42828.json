@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "42828",
-  "pname": "Workspace ONE Content",
-  "pcpe": "cpe:/a:vmware:workspace_one_content"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "42828",
+	"pname": "Workspace ONE Content",
+	"pcpe": "cpe:/a:vmware:workspace_one_content"
 }

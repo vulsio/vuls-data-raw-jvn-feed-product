@@ -1,8 +1,8 @@
 {
-  "vid": "9147",
-  "vname": "OvisLink",
-  "vcpe": "cpe:/:ovislink",
-  "pid": "18544",
-  "pname": "POE-250HD",
-  "pcpe": "cpe:/h:ovislink:airlive_poe250hd"
+	"vid": "9147",
+	"vname": "OvisLink",
+	"vcpe": "cpe:/:ovislink",
+	"pid": "18544",
+	"pname": "POE-250HD",
+	"pcpe": "cpe:/h:ovislink:airlive_poe250hd"
 }

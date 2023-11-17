@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31795",
-  "pname": "Huawei SmartCare",
-  "pcpe": "cpe:/a:huawei:smartcare"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31795",
+	"pname": "Huawei SmartCare",
+	"pcpe": "cpe:/a:huawei:smartcare"
 }

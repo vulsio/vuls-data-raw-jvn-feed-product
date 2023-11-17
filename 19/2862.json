@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2862",
-  "pname": "Cisco 5508 Wireless Controller",
-  "pcpe": "cpe:/h:cisco:5508_wireless_controller"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2862",
+	"pname": "Cisco 5508 Wireless Controller",
+	"pcpe": "cpe:/h:cisco:5508_wireless_controller"
 }

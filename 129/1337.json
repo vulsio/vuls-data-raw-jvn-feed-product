@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1337",
-  "pname": "EUR Print Manager Local Server",
-  "pcpe": "cpe:/a:hitachi:eur_print_manager_local_server"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1337",
+	"pname": "EUR Print Manager Local Server",
+	"pcpe": "cpe:/a:hitachi:eur_print_manager_local_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "49965",
-  "pname": "ServerView Remote Management Controller",
-  "pcpe": "cpe:/a:fujitsu:serverview_remote_management"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "49965",
+	"pname": "ServerView Remote Management Controller",
+	"pcpe": "cpe:/a:fujitsu:serverview_remote_management"
 }

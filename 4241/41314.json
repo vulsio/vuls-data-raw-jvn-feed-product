@@ -1,8 +1,8 @@
 {
-  "vid": "4241",
-  "vname": "SCHLIX",
-  "vcpe": "cpe:/:babygekko",
-  "pid": "41314",
-  "pname": "SCHLIX CMS",
-  "pcpe": "cpe:/a:babygekko:cms"
+	"vid": "4241",
+	"vname": "SCHLIX",
+	"vcpe": "cpe:/:babygekko",
+	"pid": "41314",
+	"pname": "SCHLIX CMS",
+	"pcpe": "cpe:/a:babygekko:cms"
 }

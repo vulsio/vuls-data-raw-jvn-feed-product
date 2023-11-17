@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "9922",
-  "pname": "storageworks tiered storage manager",
-  "pcpe": "cpe:/a:hp:storageworks_tiered_storage_manager"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "9922",
+	"pname": "storageworks tiered storage manager",
+	"pcpe": "cpe:/a:hp:storageworks_tiered_storage_manager"
 }

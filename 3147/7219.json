@@ -1,8 +1,8 @@
 {
-  "vid": "3147",
-  "vname": "dcp-portal",
-  "vcpe": "cpe:/:dcp-portal",
-  "pid": "7219",
-  "pname": "dcp-portal",
-  "pcpe": "cpe:/a:dcp-portal:dcp-portal"
+	"vid": "3147",
+	"vname": "dcp-portal",
+	"vcpe": "cpe:/:dcp-portal",
+	"pid": "7219",
+	"pname": "dcp-portal",
+	"pcpe": "cpe:/a:dcp-portal:dcp-portal"
 }

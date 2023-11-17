@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "41168",
-  "pname": "R4500 ファームウェア",
-  "pcpe": "cpe:/o:netgear:r4500_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "41168",
+	"pname": "R4500 ファームウェア",
+	"pcpe": "cpe:/o:netgear:r4500_firmware"
 }

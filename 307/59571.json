@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "59571",
-  "pname": "5412r ファームウェア",
-  "pcpe": "cpe:/o:arubanetworks:5412r_firmware"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "59571",
+	"pname": "5412r ファームウェア",
+	"pcpe": "cpe:/o:arubanetworks:5412r_firmware"
 }

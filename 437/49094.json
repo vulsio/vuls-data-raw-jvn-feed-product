@@ -1,8 +1,8 @@
 {
-  "vid": "437",
-  "vname": "ベリタス",
-  "vcpe": "cpe:/:veritas",
-  "pid": "49094",
-  "pname": "OpsCenter",
-  "pcpe": "cpe:/a:veritas:opscenter"
+	"vid": "437",
+	"vname": "ベリタス",
+	"vcpe": "cpe:/:veritas",
+	"pid": "49094",
+	"pname": "OpsCenter",
+	"pcpe": "cpe:/a:veritas:opscenter"
 }

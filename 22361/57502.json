@@ -1,8 +1,8 @@
 {
-  "vid": "22361",
-  "vname": "Backblaze",
-  "vcpe": "cpe:/:backblaze",
-  "pid": "57502",
-  "pname": "b2-sdk-python",
-  "pcpe": "cpe:/a:backblaze:b2_python_software_development_kit"
+	"vid": "22361",
+	"vname": "Backblaze",
+	"vcpe": "cpe:/:backblaze",
+	"pid": "57502",
+	"pname": "b2-sdk-python",
+	"pcpe": "cpe:/a:backblaze:b2_python_software_development_kit"
 }

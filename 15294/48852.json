@@ -1,8 +1,8 @@
 {
-  "vid": "15294",
-  "vname": "AVEVA",
-  "vcpe": "cpe:/:aveva",
-  "pid": "48852",
-  "pname": "AVEVA Historian",
-  "pcpe": "cpe:/a:aveva:aveva_historian"
+	"vid": "15294",
+	"vname": "AVEVA",
+	"vcpe": "cpe:/:aveva",
+	"pid": "48852",
+	"pname": "AVEVA Historian",
+	"pcpe": "cpe:/a:aveva:aveva_historian"
 }

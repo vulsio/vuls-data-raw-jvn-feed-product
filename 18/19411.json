@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19411",
-  "pname": "IBM Flex System Manager Node 7955",
-  "pcpe": "cpe:/h:ibm:flex_system_manager_node_7955"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19411",
+	"pname": "IBM Flex System Manager Node 7955",
+	"pcpe": "cpe:/h:ibm:flex_system_manager_node_7955"
 }

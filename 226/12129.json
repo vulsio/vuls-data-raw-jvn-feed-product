@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "12129",
-  "pname": "zenworks patch management update agent",
-  "pcpe": "cpe:/a:novell:zenworks_patch_management_update_agent"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "12129",
+	"pname": "zenworks patch management update agent",
+	"pcpe": "cpe:/a:novell:zenworks_patch_management_update_agent"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12980",
-  "vname": "Waves Audio Ltd.",
-  "vcpe": "cpe:/:waves",
-  "pid": "29988",
-  "pname": "Waves MAXX Audio",
-  "pcpe": "cpe:/a:waves:maxxaudio"
+	"vid": "12980",
+	"vname": "Waves Audio Ltd.",
+	"vcpe": "cpe:/:waves",
+	"pid": "29988",
+	"pname": "Waves MAXX Audio",
+	"pcpe": "cpe:/a:waves:maxxaudio"
 }

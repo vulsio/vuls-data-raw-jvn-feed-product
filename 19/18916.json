@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18916",
-  "pname": "Cisco Scientific Atlanta DPR2325 Cable Modem with Wireless Access Point ファームウェア",
-  "pcpe": "cpe:/o:cisco:scientific_atlanta_dpr2325_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18916",
+	"pname": "Cisco Scientific Atlanta DPR2325 Cable Modem with Wireless Access Point ファームウェア",
+	"pcpe": "cpe:/o:cisco:scientific_atlanta_dpr2325_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "765",
-  "pname": "Cisco IP/TV",
-  "pcpe": "cpe:/h:cisco:ip_tv"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "765",
+	"pname": "Cisco IP/TV",
+	"pcpe": "cpe:/h:cisco:ip_tv"
 }

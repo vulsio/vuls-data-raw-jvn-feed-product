@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "16886",
-  "pname": "Sterling Connect:Direct",
-  "pcpe": "cpe:/a:ibm:sterling_connect%3Adirect"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "16886",
+	"pname": "Sterling Connect:Direct",
+	"pcpe": "cpe:/a:ibm:sterling_connect%3Adirect"
 }

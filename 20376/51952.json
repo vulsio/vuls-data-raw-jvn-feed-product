@@ -1,8 +1,8 @@
 {
-  "vid": "20376",
-  "vname": "MuWire project",
-  "vcpe": "cpe:/:muwire_project",
-  "pid": "51952",
-  "pname": "MuWire",
-  "pcpe": "cpe:/a:muwire_project:muwire"
+	"vid": "20376",
+	"vname": "MuWire project",
+	"vcpe": "cpe:/:muwire_project",
+	"pid": "51952",
+	"pname": "MuWire",
+	"pcpe": "cpe:/a:muwire_project:muwire"
 }

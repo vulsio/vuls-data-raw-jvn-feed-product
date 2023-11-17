@@ -1,8 +1,8 @@
 {
-  "vid": "4160",
-  "vname": "VIVOTEK Inc.",
-  "vcpe": "cpe:/:vivotek",
-  "pid": "44984",
-  "pname": "FD9380-H ファームウェア",
-  "pcpe": "cpe:/o:vivotek:fd9380-h_firmware"
+	"vid": "4160",
+	"vname": "VIVOTEK Inc.",
+	"vcpe": "cpe:/:vivotek",
+	"pid": "44984",
+	"pname": "FD9380-H ファームウェア",
+	"pcpe": "cpe:/o:vivotek:fd9380-h_firmware"
 }

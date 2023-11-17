@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "32068",
-  "pname": "Cisco WebEx Network Recording Player",
-  "pcpe": "cpe:/a:cisco:webex_network_recording_player"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "32068",
+	"pname": "Cisco WebEx Network Recording Player",
+	"pcpe": "cpe:/a:cisco:webex_network_recording_player"
 }

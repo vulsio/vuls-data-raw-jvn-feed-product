@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "21148",
-  "pname": "IBM BladeCenter Server Connectivity Module",
-  "pcpe": "cpe:/h:ibm:server_connectivity_module"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "21148",
+	"pname": "IBM BladeCenter Server Connectivity Module",
+	"pcpe": "cpe:/h:ibm:server_connectivity_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38423",
-  "pname": "Cisco Nexus 9508 ファームウェア",
-  "pcpe": "cpe:/o:cisco:nexus_9508_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38423",
+	"pname": "Cisco Nexus 9508 ファームウェア",
+	"pcpe": "cpe:/o:cisco:nexus_9508_firmware"
 }

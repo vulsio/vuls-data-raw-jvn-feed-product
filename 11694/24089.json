@@ -1,8 +1,8 @@
 {
-  "vid": "11694",
-  "vname": "Swisscom AG",
-  "vcpe": "cpe:/:swisscom",
-  "pid": "24089",
-  "pname": "Centro Grande (ADB) DSL",
-  "pcpe": "cpe:/h:swisscom:centro_grande_%28adb%29_dsl"
+	"vid": "11694",
+	"vname": "Swisscom AG",
+	"vcpe": "cpe:/:swisscom",
+	"pid": "24089",
+	"pname": "Centro Grande (ADB) DSL",
+	"pcpe": "cpe:/h:swisscom:centro_grande_%28adb%29_dsl"
 }

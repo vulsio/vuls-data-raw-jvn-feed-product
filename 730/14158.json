@@ -1,8 +1,8 @@
 {
-  "vid": "730",
-  "vname": "Quassel IRC",
-  "vcpe": "cpe:/:quassel-irc",
-  "pid": "14158",
-  "pname": "quassel core",
-  "pcpe": "cpe:/a:quassel-irc:quassel_core"
+	"vid": "730",
+	"vname": "Quassel IRC",
+	"vcpe": "cpe:/:quassel-irc",
+	"pid": "14158",
+	"pname": "quassel core",
+	"pcpe": "cpe:/a:quassel-irc:quassel_core"
 }

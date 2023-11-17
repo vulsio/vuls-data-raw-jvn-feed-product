@@ -1,8 +1,8 @@
 {
-  "vid": "724",
-  "vname": "NoMachine",
-  "vcpe": "cpe:/:nomachine",
-  "pid": "9668",
-  "pname": "NX Web Companion",
-  "pcpe": "cpe:/a:nomachine:nx_web_companion"
+	"vid": "724",
+	"vname": "NoMachine",
+	"vcpe": "cpe:/:nomachine",
+	"pid": "9668",
+	"pname": "NX Web Companion",
+	"pcpe": "cpe:/a:nomachine:nx_web_companion"
 }

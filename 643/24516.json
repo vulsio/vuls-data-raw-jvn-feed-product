@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "24516",
-  "pname": "BIOS",
-  "pcpe": "cpe:/o:dell:bios"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "24516",
+	"pname": "BIOS",
+	"pcpe": "cpe:/o:dell:bios"
 }

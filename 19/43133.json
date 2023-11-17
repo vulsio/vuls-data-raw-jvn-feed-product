@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "43133",
-  "pname": "Cisco Video Surveillance 8070 IP カメラ ファームウェア",
-  "pcpe": "cpe:/o:cisco:video_surveillance_8070_ip_camera_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "43133",
+	"pname": "Cisco Video Surveillance 8070 IP カメラ ファームウェア",
+	"pcpe": "cpe:/o:cisco:video_surveillance_8070_ip_camera_firmware"
 }

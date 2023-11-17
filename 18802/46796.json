@@ -1,8 +1,8 @@
 {
-  "vid": "18802",
-  "vname": "Gemtek",
-  "vcpe": "cpe:/:gemteks",
-  "pid": "46796",
-  "pname": "Gemtek WVRTM-127X9 ファームウェア",
-  "pcpe": "cpe:/o:gemteks:wrtm-127x9_firmware"
+	"vid": "18802",
+	"vname": "Gemtek",
+	"vcpe": "cpe:/:gemteks",
+	"pid": "46796",
+	"pname": "Gemtek WVRTM-127X9 ファームウェア",
+	"pcpe": "cpe:/o:gemteks:wrtm-127x9_firmware"
 }

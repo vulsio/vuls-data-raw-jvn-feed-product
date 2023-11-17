@@ -1,8 +1,8 @@
 {
-  "vid": "9745",
-  "vname": "Developer Express",
-  "vcpe": "cpe:/:devexpress",
-  "pid": "63717",
-  "pname": "asp.net web forms controls",
-  "pcpe": "cpe:/a:devexpress:asp.net_web_forms_controls"
+	"vid": "9745",
+	"vname": "Developer Express",
+	"vcpe": "cpe:/:devexpress",
+	"pid": "63717",
+	"pname": "asp.net web forms controls",
+	"pcpe": "cpe:/a:devexpress:asp.net_web_forms_controls"
 }

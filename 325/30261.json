@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30261",
-  "pname": "ThinkCentre M73p ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m73p_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30261",
+	"pname": "ThinkCentre M73p ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m73p_firmware"
 }

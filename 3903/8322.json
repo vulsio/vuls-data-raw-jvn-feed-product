@@ -1,8 +1,8 @@
 {
-  "vid": "3903",
-  "vname": "garmin",
-  "vcpe": "cpe:/:garmin",
-  "pid": "8322",
-  "pname": "garmin communicator plugin",
-  "pcpe": "cpe:/a:garmin:garmin_communicator_plugin"
+	"vid": "3903",
+	"vname": "garmin",
+	"vcpe": "cpe:/:garmin",
+	"pid": "8322",
+	"pname": "garmin communicator plugin",
+	"pcpe": "cpe:/a:garmin:garmin_communicator_plugin"
 }

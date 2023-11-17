@@ -1,8 +1,8 @@
 {
-  "vid": "23124",
-  "vname": "openautomationsoftware",
-  "vcpe": "cpe:/:openautomationsoftware",
-  "pid": "59873",
-  "pname": "oas platform",
-  "pcpe": "cpe:/a:openautomationsoftware:oas_platform"
+	"vid": "23124",
+	"vname": "openautomationsoftware",
+	"vcpe": "cpe:/:openautomationsoftware",
+	"pid": "59873",
+	"pname": "oas platform",
+	"pcpe": "cpe:/a:openautomationsoftware:oas_platform"
 }

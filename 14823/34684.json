@@ -1,8 +1,8 @@
 {
-  "vid": "14823",
-  "vname": "Ethernet Cash project",
-  "vcpe": "cpe:/:ethernet_cash_project",
-  "pid": "34684",
-  "pname": "Ethernet Cash",
-  "pcpe": "cpe:/a:ethernet_cash_project:ethernet_cash"
+	"vid": "14823",
+	"vname": "Ethernet Cash project",
+	"vcpe": "cpe:/:ethernet_cash_project",
+	"pid": "34684",
+	"pname": "Ethernet Cash",
+	"pcpe": "cpe:/a:ethernet_cash_project:ethernet_cash"
 }

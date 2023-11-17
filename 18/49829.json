@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "49829",
-  "pname": "Elastic Storage System",
-  "pcpe": "cpe:/a:ibm:elastic_storage_system"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "49829",
+	"pname": "Elastic Storage System",
+	"pcpe": "cpe:/a:ibm:elastic_storage_system"
 }

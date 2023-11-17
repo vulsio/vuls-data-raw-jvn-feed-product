@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "38208",
-  "pname": "CareLink Monitor 2490C ファームウェア",
-  "pcpe": "cpe:/o:medtronic:carelink_monitor_2490c_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "38208",
+	"pname": "CareLink Monitor 2490C ファームウェア",
+	"pcpe": "cpe:/o:medtronic:carelink_monitor_2490c_firmware"
 }

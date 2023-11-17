@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23545",
-  "pname": "Cisco Desktop Collaboration Experience DX650",
-  "pcpe": "cpe:/a:cisco:desktop_collaboration_experience_dx650"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23545",
+	"pname": "Cisco Desktop Collaboration Experience DX650",
+	"pcpe": "cpe:/a:cisco:desktop_collaboration_experience_dx650"
 }

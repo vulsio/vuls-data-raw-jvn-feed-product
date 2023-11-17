@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "40724",
-  "pname": "CODESYS Simulation Runtime",
-  "pcpe": "cpe:/a:codesys:simulation_runtime"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "40724",
+	"pname": "CODESYS Simulation Runtime",
+	"pcpe": "cpe:/a:codesys:simulation_runtime"
 }

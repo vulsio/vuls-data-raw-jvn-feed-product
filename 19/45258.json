@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "45258",
-  "pname": "Cisco Unified IP Phone 6921 ファームウェア",
-  "pcpe": "cpe:/o:cisco:unified_ip_phone_6921_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "45258",
+	"pname": "Cisco Unified IP Phone 6921 ファームウェア",
+	"pcpe": "cpe:/o:cisco:unified_ip_phone_6921_firmware"
 }

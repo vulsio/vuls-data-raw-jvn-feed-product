@@ -1,8 +1,8 @@
 {
-  "vid": "24000",
-  "vname": "PrintFriendly",
-  "vcpe": "cpe:/:printfriendly",
-  "pid": "62081",
-  "pname": "Print, PDF, & Email by PrintFriendly",
-  "pcpe": "cpe:/a:printfriendly:print%2c_pdf%2c_email_by_printfriendly"
+	"vid": "24000",
+	"vname": "PrintFriendly",
+	"vcpe": "cpe:/:printfriendly",
+	"pid": "62081",
+	"pname": "Print, PDF, & Email by PrintFriendly",
+	"pcpe": "cpe:/a:printfriendly:print%2c_pdf%2c_email_by_printfriendly"
 }

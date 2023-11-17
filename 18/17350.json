@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17350",
-  "pname": "IBM InfoSphere Optim Data Growth for Oracle E-Business Suite",
-  "pcpe": "cpe:/a:ibm:infosphere_optim_data_growth_for_oracle_e-business_suite"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17350",
+	"pname": "IBM InfoSphere Optim Data Growth for Oracle E-Business Suite",
+	"pcpe": "cpe:/a:ibm:infosphere_optim_data_growth_for_oracle_e-business_suite"
 }

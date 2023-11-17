@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17788",
-  "pname": "Cisco IPS 4345 Sensor",
-  "pcpe": "cpe:/h:cisco:ips_4345_sensor"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17788",
+	"pname": "Cisco IPS 4345 Sensor",
+	"pcpe": "cpe:/h:cisco:ips_4345_sensor"
 }

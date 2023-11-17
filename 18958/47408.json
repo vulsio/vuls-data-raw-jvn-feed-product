@@ -1,8 +1,8 @@
 {
-  "vid": "18958",
-  "vname": "TranzWare",
-  "vcpe": "cpe:/:tranzware_payment_gateway_project",
-  "pid": "47408",
-  "pname": "Payment Gateway",
-  "pcpe": "cpe:/a:tranzware_payment_gateway_project:tranzware_payment_gateway"
+	"vid": "18958",
+	"vname": "TranzWare",
+	"vcpe": "cpe:/:tranzware_payment_gateway_project",
+	"pid": "47408",
+	"pname": "Payment Gateway",
+	"pcpe": "cpe:/a:tranzware_payment_gateway_project:tranzware_payment_gateway"
 }

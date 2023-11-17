@@ -1,8 +1,8 @@
 {
-  "vid": "17172",
-  "vname": "OnePress",
-  "vcpe": "cpe:/:byonepress",
-  "pid": "40805",
-  "pname": "OnePress Social Locker",
-  "pcpe": "cpe:/a:byonepress:social_locker"
+	"vid": "17172",
+	"vname": "OnePress",
+	"vcpe": "cpe:/:byonepress",
+	"pid": "40805",
+	"pname": "OnePress Social Locker",
+	"pcpe": "cpe:/a:byonepress:social_locker"
 }

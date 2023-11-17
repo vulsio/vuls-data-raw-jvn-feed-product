@@ -1,8 +1,8 @@
 {
-  "vid": "24399",
-  "vname": "scylladb",
-  "vcpe": "cpe:/:scylladb",
-  "pid": "63018",
-  "pname": "scylla",
-  "pcpe": "cpe:/a:scylladb:scylla"
+	"vid": "24399",
+	"vname": "scylladb",
+	"vcpe": "cpe:/:scylladb",
+	"pid": "63018",
+	"pname": "scylla",
+	"pcpe": "cpe:/a:scylladb:scylla"
 }

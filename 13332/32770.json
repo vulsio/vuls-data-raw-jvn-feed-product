@@ -1,8 +1,8 @@
 {
-  "vid": "13332",
-  "vname": "Datto, Inc.",
-  "vcpe": "cpe:/:datto",
-  "pid": "32770",
-  "pname": "ALTO XL ファームウェア",
-  "pcpe": "cpe:/o:datto:alto_xl_firmware"
+	"vid": "13332",
+	"vname": "Datto, Inc.",
+	"vcpe": "cpe:/:datto",
+	"pid": "32770",
+	"pname": "ALTO XL ファームウェア",
+	"pcpe": "cpe:/o:datto:alto_xl_firmware"
 }

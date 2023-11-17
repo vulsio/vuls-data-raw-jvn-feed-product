@@ -1,8 +1,8 @@
 {
-  "vid": "2556",
-  "vname": "Blizzard Entertainment, Inc.",
-  "vcpe": "cpe:/:blizzard",
-  "pid": "51061",
-  "pname": "Battle.net",
-  "pcpe": "cpe:/a:blizzard:battle.net"
+	"vid": "2556",
+	"vname": "Blizzard Entertainment, Inc.",
+	"vcpe": "cpe:/:blizzard",
+	"pid": "51061",
+	"pname": "Battle.net",
+	"pcpe": "cpe:/a:blizzard:battle.net"
 }

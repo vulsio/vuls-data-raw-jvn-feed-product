@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30257",
-  "pname": "ThinkCentre M7250z ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m7250z_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30257",
+	"pname": "ThinkCentre M7250z ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m7250z_firmware"
 }

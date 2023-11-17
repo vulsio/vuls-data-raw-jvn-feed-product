@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "45690",
-  "pname": "Web Tools Platform",
-  "pcpe": "cpe:/a:eclipse:web_tools_platform"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "45690",
+	"pname": "Web Tools Platform",
+	"pcpe": "cpe:/a:eclipse:web_tools_platform"
 }

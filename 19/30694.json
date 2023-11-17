@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "30694",
-  "pname": "Cisco 350 シリーズ マネージド スイッチ ファームウェア",
-  "pcpe": "cpe:/o:cisco:small_business_350_series_managed_switches_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "30694",
+	"pname": "Cisco 350 シリーズ マネージド スイッチ ファームウェア",
+	"pcpe": "cpe:/o:cisco:small_business_350_series_managed_switches_firmware"
 }

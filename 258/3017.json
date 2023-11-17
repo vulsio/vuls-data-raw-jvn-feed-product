@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "3017",
-  "pname": "Empathy",
-  "pcpe": "cpe:/a:gnome:empathy"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "3017",
+	"pname": "Empathy",
+	"pcpe": "cpe:/a:gnome:empathy"
 }

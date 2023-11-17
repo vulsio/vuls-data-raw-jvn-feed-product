@@ -1,8 +1,8 @@
 {
-  "vid": "15248",
-  "vname": "Mycroft AI, Inc.",
-  "vcpe": "cpe:/:mycroft",
-  "pid": "35313",
-  "pname": "mycroft-core",
-  "pcpe": "cpe:/a:mycroft:mycroft-core"
+	"vid": "15248",
+	"vname": "Mycroft AI, Inc.",
+	"vcpe": "cpe:/:mycroft",
+	"pid": "35313",
+	"pname": "mycroft-core",
+	"pcpe": "cpe:/a:mycroft:mycroft-core"
 }

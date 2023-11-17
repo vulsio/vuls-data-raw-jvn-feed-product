@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "53400",
-  "pname": "Business 220-8p-e-2g ファームウェア",
-  "pcpe": "cpe:/o:cisco:business_220-8p-e-2g_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "53400",
+	"pname": "Business 220-8p-e-2g ファームウェア",
+	"pcpe": "cpe:/o:cisco:business_220-8p-e-2g_firmware"
 }

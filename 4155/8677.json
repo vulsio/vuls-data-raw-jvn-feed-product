@@ -1,8 +1,8 @@
 {
-  "vid": "4155",
-  "vname": "unicenter",
-  "vcpe": "cpe:/:unicenter",
-  "pid": "8677",
-  "pname": "software delivery",
-  "pcpe": "cpe:/a:unicenter:software_delivery"
+	"vid": "4155",
+	"vname": "unicenter",
+	"vcpe": "cpe:/:unicenter",
+	"pid": "8677",
+	"pname": "software delivery",
+	"pcpe": "cpe:/a:unicenter:software_delivery"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9995",
-  "pname": "metrica service assurance framework",
-  "pcpe": "cpe:/a:ibm:metrica_service_assurance_framework"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9995",
+	"pname": "metrica service assurance framework",
+	"pcpe": "cpe:/a:ibm:metrica_service_assurance_framework"
 }

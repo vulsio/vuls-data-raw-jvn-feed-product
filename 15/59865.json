@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "59865",
-  "pname": "Oracle Banking Branch",
-  "pcpe": "cpe:/a:oracle:banking_branch"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "59865",
+	"pname": "Oracle Banking Branch",
+	"pcpe": "cpe:/a:oracle:banking_branch"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "29998",
-  "pname": "PK5001Z ファームウェア",
-  "pcpe": "cpe:/o:zyxel:pk5001z_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "29998",
+	"pname": "PK5001Z ファームウェア",
+	"pcpe": "cpe:/o:zyxel:pk5001z_firmware"
 }

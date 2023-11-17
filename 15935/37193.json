@@ -1,8 +1,8 @@
 {
-  "vid": "15935",
-  "vname": "laravelCMS project",
-  "vcpe": "cpe:/:laravelcms_project",
-  "pid": "37193",
-  "pname": "laravelCMS",
-  "pcpe": "cpe:/a:laravelcms_project:laravelcms"
+	"vid": "15935",
+	"vname": "laravelCMS project",
+	"vcpe": "cpe:/:laravelcms_project",
+	"pid": "37193",
+	"pname": "laravelCMS",
+	"pcpe": "cpe:/a:laravelcms_project:laravelcms"
 }

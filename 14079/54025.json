@@ -1,8 +1,8 @@
 {
-  "vid": "14079",
-  "vname": "Meross Technology Co.,Ltd.",
-  "vcpe": "cpe:/:meross",
-  "pid": "54025",
-  "pname": "Meross MSS550X ファームウェア",
-  "pcpe": "cpe:/o:meross:mss550x_firmware"
+	"vid": "14079",
+	"vname": "Meross Technology Co.,Ltd.",
+	"vcpe": "cpe:/:meross",
+	"pid": "54025",
+	"pname": "Meross MSS550X ファームウェア",
+	"pcpe": "cpe:/o:meross:mss550x_firmware"
 }

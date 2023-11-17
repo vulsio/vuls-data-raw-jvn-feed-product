@@ -1,8 +1,8 @@
 {
-  "vid": "21172",
-  "vname": "Python Discord",
-  "vcpe": "cpe:/:pythondiscord",
-  "pid": "54140",
-  "pname": "Bot",
-  "pcpe": "cpe:/a:pythondiscord:bot"
+	"vid": "21172",
+	"vname": "Python Discord",
+	"vcpe": "cpe:/:pythondiscord",
+	"pid": "54140",
+	"pname": "Bot",
+	"pcpe": "cpe:/a:pythondiscord:bot"
 }

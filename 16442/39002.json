@@ -1,8 +1,8 @@
 {
-  "vid": "16442",
-  "vname": "Tzumi Electronics",
-  "vcpe": "cpe:/:tzumi",
-  "pid": "39002",
-  "pname": "Klic Smart Padlock Model 5686 ファームウェア",
-  "pcpe": "cpe:/o:tzumi:klic_smart_padlock_model_5686_firmware"
+	"vid": "16442",
+	"vname": "Tzumi Electronics",
+	"vcpe": "cpe:/:tzumi",
+	"pid": "39002",
+	"pname": "Klic Smart Padlock Model 5686 ファームウェア",
+	"pcpe": "cpe:/o:tzumi:klic_smart_padlock_model_5686_firmware"
 }

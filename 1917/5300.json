@@ -1,8 +1,8 @@
 {
-  "vid": "1917",
-  "vname": "Innominate Security Technologies AG",
-  "vcpe": "cpe:/:innominate",
-  "pid": "5300",
-  "pname": "Innominate mGuard industrial RS",
-  "pcpe": "cpe:/a:innominate:mguard_industrial_rs"
+	"vid": "1917",
+	"vname": "Innominate Security Technologies AG",
+	"vcpe": "cpe:/:innominate",
+	"pid": "5300",
+	"pname": "Innominate mGuard industrial RS",
+	"pcpe": "cpe:/a:innominate:mguard_industrial_rs"
 }

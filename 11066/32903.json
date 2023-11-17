@@ -1,8 +1,8 @@
 {
-  "vid": "11066",
-  "vname": "Mail.Ru",
-  "vcpe": "cpe:/:mail.ru",
-  "pid": "32903",
-  "pname": "Mail.ru Calendar",
-  "pcpe": "cpe:/a:mail.ru:calendar"
+	"vid": "11066",
+	"vname": "Mail.Ru",
+	"vcpe": "cpe:/:mail.ru",
+	"pid": "32903",
+	"pname": "Mail.ru Calendar",
+	"pcpe": "cpe:/a:mail.ru:calendar"
 }

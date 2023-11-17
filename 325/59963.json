@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "59963",
-  "pname": "ThinkAgile HX Enclosure Certified Node ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkagile_hx_enclosure_certified_node_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "59963",
+	"pname": "ThinkAgile HX Enclosure Certified Node ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkagile_hx_enclosure_certified_node_firmware"
 }

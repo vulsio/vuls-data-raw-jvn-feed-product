@@ -1,8 +1,8 @@
 {
-  "vid": "504",
-  "vname": "Motorola Solutions, Inc",
-  "vcpe": "cpe:/:motorola",
-  "pid": "11710",
-  "pname": "netoctopus",
-  "pcpe": "cpe:/a:motorola:netoctopus"
+	"vid": "504",
+	"vname": "Motorola Solutions, Inc",
+	"vcpe": "cpe:/:motorola",
+	"pid": "11710",
+	"pname": "netoctopus",
+	"pcpe": "cpe:/a:motorola:netoctopus"
 }

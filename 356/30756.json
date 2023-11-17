@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "30756",
-  "pname": "protobuf",
-  "pcpe": "cpe:/a:google:protobuf"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "30756",
+	"pname": "protobuf",
+	"pcpe": "cpe:/a:google:protobuf"
 }

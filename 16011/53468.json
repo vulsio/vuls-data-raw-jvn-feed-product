@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "53468",
-  "pname": "Rexroth IndraMotion MLC L25 ファームウェア",
-  "pcpe": "cpe:/o:bosch:rexroth_indramotion_mlc_l25_firmware"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "53468",
+	"pname": "Rexroth IndraMotion MLC L25 ファームウェア",
+	"pcpe": "cpe:/o:bosch:rexroth_indramotion_mlc_l25_firmware"
 }

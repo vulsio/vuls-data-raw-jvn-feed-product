@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17171",
-  "pname": "クライアントレス SSL VPN",
-  "pcpe": "cpe:/a:cisco:adaptive_security_appliance_clientless_ssl_vpn"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17171",
+	"pname": "クライアントレス SSL VPN",
+	"pcpe": "cpe:/a:cisco:adaptive_security_appliance_clientless_ssl_vpn"
 }

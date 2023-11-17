@@ -1,8 +1,8 @@
 {
-  "vid": "2384",
-  "vname": "オートデスク株式会社",
-  "vcpe": "cpe:/:autodesk",
-  "pid": "42233",
-  "pname": "Autodesk Desktop Application",
-  "pcpe": "cpe:/a:autodesk:autodesk_desktop"
+	"vid": "2384",
+	"vname": "オートデスク株式会社",
+	"vcpe": "cpe:/:autodesk",
+	"pid": "42233",
+	"pname": "Autodesk Desktop Application",
+	"pcpe": "cpe:/a:autodesk:autodesk_desktop"
 }

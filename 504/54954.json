@@ -1,8 +1,8 @@
 {
-  "vid": "504",
-  "vname": "Motorola Solutions, Inc",
-  "vcpe": "cpe:/:motorola",
-  "pid": "54954",
-  "pname": "T201 ファームウェア",
-  "pcpe": "cpe:/o:motorola:t201_firmware"
+	"vid": "504",
+	"vname": "Motorola Solutions, Inc",
+	"vcpe": "cpe:/:motorola",
+	"pid": "54954",
+	"pname": "T201 ファームウェア",
+	"pcpe": "cpe:/o:motorola:t201_firmware"
 }

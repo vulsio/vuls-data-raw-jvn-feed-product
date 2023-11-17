@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "52053",
-  "pname": "GuardLogix 5570 コントローラファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:guardlogix_5570_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "52053",
+	"pname": "GuardLogix 5570 コントローラファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:guardlogix_5570_firmware"
 }

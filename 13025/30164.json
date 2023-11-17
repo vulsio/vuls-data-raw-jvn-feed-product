@@ -1,8 +1,8 @@
 {
-  "vid": "13025",
-  "vname": "NXP Semiconductors",
-  "vcpe": "cpe:/:nxp",
-  "pid": "30164",
-  "pname": "i.MX 6UltraLite ファームウェア",
-  "pcpe": "cpe:/o:nxp:i.mx_6ultralite_firmware"
+	"vid": "13025",
+	"vname": "NXP Semiconductors",
+	"vcpe": "cpe:/:nxp",
+	"pid": "30164",
+	"pname": "i.MX 6UltraLite ファームウェア",
+	"pcpe": "cpe:/o:nxp:i.mx_6ultralite_firmware"
 }

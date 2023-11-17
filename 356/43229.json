@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "43229",
-  "pname": "Gizmo5",
-  "pcpe": "cpe:/a:google:gizmo5"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "43229",
+	"pname": "Gizmo5",
+	"pcpe": "cpe:/a:google:gizmo5"
 }

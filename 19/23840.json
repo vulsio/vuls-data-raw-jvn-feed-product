@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23840",
-  "pname": "Catalyst 4506-E スイッチ",
-  "pcpe": "cpe:/h:cisco:catalyst_4506-e"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23840",
+	"pname": "Catalyst 4506-E スイッチ",
+	"pcpe": "cpe:/h:cisco:catalyst_4506-e"
 }

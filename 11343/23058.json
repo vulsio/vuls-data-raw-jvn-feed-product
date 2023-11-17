@@ -1,8 +1,8 @@
 {
-  "vid": "11343",
-  "vname": "Thermostat project",
-  "vcpe": "cpe:/:thermostat_project",
-  "pid": "23058",
-  "pname": "Thermostat",
-  "pcpe": "cpe:/a:thermostat_project:thermostat"
+	"vid": "11343",
+	"vname": "Thermostat project",
+	"vcpe": "cpe:/:thermostat_project",
+	"pid": "23058",
+	"pname": "Thermostat",
+	"pcpe": "cpe:/a:thermostat_project:thermostat"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "38953",
-  "pname": "AP4050DN-E ファームウェア",
-  "pcpe": "cpe:/o:huawei:ap4050dn-e_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "38953",
+	"pname": "AP4050DN-E ファームウェア",
+	"pcpe": "cpe:/o:huawei:ap4050dn-e_firmware"
 }

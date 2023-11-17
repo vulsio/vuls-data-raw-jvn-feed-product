@@ -1,8 +1,8 @@
 {
-  "vid": "2004",
-  "vname": "Acronis International GmbH",
-  "vcpe": "cpe:/:acronis",
-  "pid": "51725",
-  "pname": "Cyber Protect Cloud",
-  "pcpe": "cpe:/a:acronis:cyber_protect_cloud"
+	"vid": "2004",
+	"vname": "Acronis International GmbH",
+	"vcpe": "cpe:/:acronis",
+	"pid": "51725",
+	"pname": "Cyber Protect Cloud",
+	"pcpe": "cpe:/a:acronis:cyber_protect_cloud"
 }

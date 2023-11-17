@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "38317",
-  "pname": "Spectrum Power 4",
-  "pcpe": "cpe:/a:siemens:spectrum_power_4"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "38317",
+	"pname": "Spectrum Power 4",
+	"pcpe": "cpe:/a:siemens:spectrum_power_4"
 }

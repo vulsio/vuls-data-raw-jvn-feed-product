@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "54622",
-  "pname": "AIG-300 Series",
-  "pcpe": "cpe:/o:moxa:aig-300"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "54622",
+	"pname": "AIG-300 Series",
+	"pcpe": "cpe:/o:moxa:aig-300"
 }

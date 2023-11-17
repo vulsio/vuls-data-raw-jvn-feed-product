@@ -1,8 +1,8 @@
 {
-  "vid": "13943",
-  "vname": "Seafile Ltd.",
-  "vcpe": "cpe:/:seafile",
-  "pid": "37532",
-  "pname": "seadroid (Seafile Android Client)",
-  "pcpe": "cpe:/a:seafile:seadroid"
+	"vid": "13943",
+	"vname": "Seafile Ltd.",
+	"vcpe": "cpe:/:seafile",
+	"pid": "37532",
+	"pname": "seadroid (Seafile Android Client)",
+	"pcpe": "cpe:/a:seafile:seadroid"
 }

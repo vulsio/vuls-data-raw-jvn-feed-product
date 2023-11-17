@@ -1,8 +1,8 @@
 {
-  "vid": "18189",
-  "vname": "UI",
-  "vcpe": "cpe:/:ui",
-  "pid": "50833",
-  "pname": "EdgeMAX EdgeRouter ファームウェア",
-  "pcpe": "cpe:/o:ui:edgemax_edgerouter_firmware"
+	"vid": "18189",
+	"vname": "UI",
+	"vcpe": "cpe:/:ui",
+	"pid": "50833",
+	"pname": "EdgeMAX EdgeRouter ファームウェア",
+	"pcpe": "cpe:/o:ui:edgemax_edgerouter_firmware"
 }

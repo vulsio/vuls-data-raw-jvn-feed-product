@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "44565",
-  "pname": "Parasoft Findings",
-  "pcpe": "cpe:/a:jenkins:parasoft_findings"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "44565",
+	"pname": "Parasoft Findings",
+	"pcpe": "cpe:/a:jenkins:parasoft_findings"
 }

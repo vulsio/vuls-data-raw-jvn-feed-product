@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "24380",
-  "pname": "IBM Security QRadar Incident Forensics",
-  "pcpe": "cpe:/a:ibm:qradar_incident_forensics"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "24380",
+	"pname": "IBM Security QRadar Incident Forensics",
+	"pcpe": "cpe:/a:ibm:qradar_incident_forensics"
 }

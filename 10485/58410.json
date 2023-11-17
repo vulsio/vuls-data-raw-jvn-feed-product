@@ -1,8 +1,8 @@
 {
-  "vid": "10485",
-  "vname": "weibo project",
-  "vcpe": "cpe:/:weibo_project",
-  "pid": "58410",
-  "pname": "android software development kit",
-  "pcpe": "cpe:/a:weibo_project:android_software_development_kit"
+	"vid": "10485",
+	"vname": "weibo project",
+	"vcpe": "cpe:/:weibo_project",
+	"pid": "58410",
+	"pname": "android software development kit",
+	"pcpe": "cpe:/a:weibo_project:android_software_development_kit"
 }

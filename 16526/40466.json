@@ -1,8 +1,8 @@
 {
-  "vid": "16526",
-  "vname": "DiffPlug",
-  "vcpe": "cpe:/:diffplug",
-  "pid": "40466",
-  "pname": "eclipse-groovy",
-  "pcpe": "cpe:/a:diffplug:eclipse-groovy"
+	"vid": "16526",
+	"vname": "DiffPlug",
+	"vcpe": "cpe:/:diffplug",
+	"pid": "40466",
+	"pname": "eclipse-groovy",
+	"pcpe": "cpe:/a:diffplug:eclipse-groovy"
 }

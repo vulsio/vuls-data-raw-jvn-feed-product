@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "6751",
-  "pname": "subscriber edge services manager",
-  "pcpe": "cpe:/a:cisco:subscriber_edge_services_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "6751",
+	"pname": "subscriber edge services manager",
+	"pcpe": "cpe:/a:cisco:subscriber_edge_services_manager"
 }

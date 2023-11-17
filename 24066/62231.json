@@ -1,8 +1,8 @@
 {
-  "vid": "24066",
-  "vname": "Flycart",
-  "vcpe": "cpe:/:flycart",
-  "pid": "62231",
-  "pname": "Discount Rules for WooCommerce",
-  "pcpe": "cpe:/a:flycart:discount_rules_for_woocommerce"
+	"vid": "24066",
+	"vname": "Flycart",
+	"vcpe": "cpe:/:flycart",
+	"pid": "62231",
+	"pname": "Discount Rules for WooCommerce",
+	"pcpe": "cpe:/a:flycart:discount_rules_for_woocommerce"
 }

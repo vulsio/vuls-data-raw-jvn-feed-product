@@ -1,8 +1,8 @@
 {
-  "vid": "9970",
-  "vname": "innovaphone AG",
-  "vcpe": "cpe:/:innovaphone",
-  "pid": "63245",
-  "pname": "innovaphone ファームウェア",
-  "pcpe": "cpe:/o:innovaphone:innovaphone_firmware"
+	"vid": "9970",
+	"vname": "innovaphone AG",
+	"vcpe": "cpe:/:innovaphone",
+	"pid": "63245",
+	"pname": "innovaphone ファームウェア",
+	"pcpe": "cpe:/o:innovaphone:innovaphone_firmware"
 }

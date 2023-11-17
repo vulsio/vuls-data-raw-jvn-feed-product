@@ -1,8 +1,8 @@
 {
-  "vid": "12982",
-  "vname": "Statamic",
-  "vcpe": "cpe:/:statamic",
-  "pid": "36697",
-  "pname": "Statamic",
-  "pcpe": "cpe:/a:statamic:statamic"
+	"vid": "12982",
+	"vname": "Statamic",
+	"vcpe": "cpe:/:statamic",
+	"pid": "36697",
+	"pname": "Statamic",
+	"pcpe": "cpe:/a:statamic:statamic"
 }

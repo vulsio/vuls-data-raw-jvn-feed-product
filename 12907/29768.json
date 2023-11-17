@@ -1,8 +1,8 @@
 {
-  "vid": "12907",
-  "vname": "Inteno",
-  "vcpe": "cpe:/:intenogroup",
-  "pid": "29768",
-  "pname": "Inteno ルータ ファームウェア",
-  "pcpe": "cpe:/o:intenogroup:inteno_router_firmware"
+	"vid": "12907",
+	"vname": "Inteno",
+	"vcpe": "cpe:/:intenogroup",
+	"pid": "29768",
+	"pname": "Inteno ルータ ファームウェア",
+	"pcpe": "cpe:/o:intenogroup:inteno_router_firmware"
 }

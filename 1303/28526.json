@@ -1,8 +1,8 @@
 {
-  "vid": "1303",
-  "vname": "Avira",
-  "vcpe": "cpe:/:avira",
-  "pid": "28526",
-  "pname": "Avira Total Security Suite",
-  "pcpe": "cpe:/a:avira:total_security_suite"
+	"vid": "1303",
+	"vname": "Avira",
+	"vcpe": "cpe:/:avira",
+	"pid": "28526",
+	"pname": "Avira Total Security Suite",
+	"pcpe": "cpe:/a:avira:total_security_suite"
 }

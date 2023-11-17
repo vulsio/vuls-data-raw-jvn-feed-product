@@ -1,8 +1,8 @@
 {
-  "vid": "11811",
-  "vname": "io.js",
-  "vcpe": "cpe:/:iojs",
-  "pid": "24431",
-  "pname": "io.js",
-  "pcpe": "cpe:/a:iojs:io.js"
+	"vid": "11811",
+	"vname": "io.js",
+	"vcpe": "cpe:/:iojs",
+	"pid": "24431",
+	"pname": "io.js",
+	"pcpe": "cpe:/a:iojs:io.js"
 }

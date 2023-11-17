@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "60076",
-  "pname": "naeotom alpha ファームウェア",
-  "pcpe": "cpe:/o:siemens:naeotom_alpha_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "60076",
+	"pname": "naeotom alpha ファームウェア",
+	"pcpe": "cpe:/o:siemens:naeotom_alpha_firmware"
 }

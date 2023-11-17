@@ -1,8 +1,8 @@
 {
-  "vid": "8476",
-  "vname": "webportal",
-  "vcpe": "cpe:/:webportal",
-  "pid": "16095",
-  "pname": "webportal cms",
-  "pcpe": "cpe:/a:webportal:webportal_cms"
+	"vid": "8476",
+	"vname": "webportal",
+	"vcpe": "cpe:/:webportal",
+	"pid": "16095",
+	"pname": "webportal cms",
+	"pcpe": "cpe:/a:webportal:webportal_cms"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "19663",
-  "pname": "E355 ファームウェア",
-  "pcpe": "cpe:/o:huawei:e355_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "19663",
+	"pname": "E355 ファームウェア",
+	"pcpe": "cpe:/o:huawei:e355_firmware"
 }

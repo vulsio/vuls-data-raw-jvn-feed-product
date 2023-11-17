@@ -1,8 +1,8 @@
 {
-  "vid": "8940",
-  "vname": "Henry Schein",
-  "vcpe": "cpe:/:dentrix",
-  "pid": "17227",
-  "pname": "Dentrix G5",
-  "pcpe": "cpe:/a:dentrix:g5"
+	"vid": "8940",
+	"vname": "Henry Schein",
+	"vcpe": "cpe:/:dentrix",
+	"pid": "17227",
+	"pname": "Dentrix G5",
+	"pcpe": "cpe:/a:dentrix:g5"
 }

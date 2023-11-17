@@ -1,8 +1,8 @@
 {
-  "vid": "17607",
-  "vname": "Skymee",
-  "vcpe": "cpe:/:skymee",
-  "pid": "42210",
-  "pname": "Petalk AI ファームウェア",
-  "pcpe": "cpe:/o:skymee:petalk_ai_firmware"
+	"vid": "17607",
+	"vname": "Skymee",
+	"vcpe": "cpe:/:skymee",
+	"pid": "42210",
+	"pname": "Petalk AI ファームウェア",
+	"pcpe": "cpe:/o:skymee:petalk_ai_firmware"
 }

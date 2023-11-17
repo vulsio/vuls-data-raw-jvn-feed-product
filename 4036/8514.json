@@ -1,8 +1,8 @@
 {
-  "vid": "4036",
-  "vname": "grafik-power",
-  "vcpe": "cpe:/:grafik-power",
-  "pid": "8514",
-  "pname": "grafik cms",
-  "pcpe": "cpe:/a:grafik-power:grafik_cms"
+	"vid": "4036",
+	"vname": "grafik-power",
+	"vcpe": "cpe:/:grafik-power",
+	"pid": "8514",
+	"pname": "grafik cms",
+	"pcpe": "cpe:/a:grafik-power:grafik_cms"
 }

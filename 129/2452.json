@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2452",
-  "pname": "Job Management Partner 1/Automatic Job Management System 3",
-  "pcpe": "cpe:/a:hitachi:job_management_partner_1_automatic_job_management_system_3"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2452",
+	"pname": "Job Management Partner 1/Automatic Job Management System 3",
+	"pcpe": "cpe:/a:hitachi:job_management_partner_1_automatic_job_management_system_3"
 }

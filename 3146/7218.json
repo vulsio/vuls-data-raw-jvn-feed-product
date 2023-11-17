@@ -1,8 +1,8 @@
 {
-  "vid": "3146",
-  "vname": "dconnect",
-  "vcpe": "cpe:/:dconnect",
-  "pid": "7218",
-  "pname": "dconnect daemon",
-  "pcpe": "cpe:/a:dconnect:dconnect_daemon"
+	"vid": "3146",
+	"vname": "dconnect",
+	"vcpe": "cpe:/:dconnect",
+	"pid": "7218",
+	"pname": "dconnect daemon",
+	"pcpe": "cpe:/a:dconnect:dconnect_daemon"
 }

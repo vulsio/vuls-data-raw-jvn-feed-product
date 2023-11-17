@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "56169",
-  "pname": "IdeaCentre 310-15IAP ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideacentre_310-15iap_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "56169",
+	"pname": "IdeaCentre 310-15IAP ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideacentre_310-15iap_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "61683",
-  "pname": "Android",
-  "pcpe": "cpe:/o:samsung:android"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "61683",
+	"pname": "Android",
+	"pcpe": "cpe:/o:samsung:android"
 }

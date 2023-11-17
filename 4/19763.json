@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "19763",
-  "pname": "HP StoreOnce 4430 Backup System",
-  "pcpe": "cpe:/a:hp:storeonce_4430_backup_system"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "19763",
+	"pname": "HP StoreOnce 4430 Backup System",
+	"pcpe": "cpe:/a:hp:storeonce_4430_backup_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19081",
-  "vname": "Hillrom",
-  "vcpe": "cpe:/:hillrom",
-  "pid": "50161",
-  "pname": "Welch Allyn Diagnostic Cardiology Suite",
-  "pcpe": "cpe:/a:hillrom:hillrom_welch_allyn_diagnostic_cardiology_suite"
+	"vid": "19081",
+	"vname": "Hillrom",
+	"vcpe": "cpe:/:hillrom",
+	"pid": "50161",
+	"pname": "Welch Allyn Diagnostic Cardiology Suite",
+	"pcpe": "cpe:/a:hillrom:hillrom_welch_allyn_diagnostic_cardiology_suite"
 }

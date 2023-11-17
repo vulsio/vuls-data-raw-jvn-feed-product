@@ -1,8 +1,8 @@
 {
-  "vid": "12316",
-  "vname": "Viprinet Europe GmbH",
-  "vcpe": "cpe:/:viprinet",
-  "pid": "27678",
-  "pname": "Multichannel VPN Router 300 ファームウェア",
-  "pcpe": "cpe:/o:viprinet:multichannel_vpn_router_300_firmware"
+	"vid": "12316",
+	"vname": "Viprinet Europe GmbH",
+	"vcpe": "cpe:/:viprinet",
+	"pid": "27678",
+	"pname": "Multichannel VPN Router 300 ファームウェア",
+	"pcpe": "cpe:/o:viprinet:multichannel_vpn_router_300_firmware"
 }

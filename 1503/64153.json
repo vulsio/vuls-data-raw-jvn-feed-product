@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "64153",
-  "pname": "c300 ファームウェア",
-  "pcpe": "cpe:/o:honeywell:c300_firmware"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "64153",
+	"pname": "c300 ファームウェア",
+	"pcpe": "cpe:/o:honeywell:c300_firmware"
 }

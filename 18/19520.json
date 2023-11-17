@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19520",
-  "pname": "IBM Algo One",
-  "pcpe": "cpe:/a:ibm:algo_one"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19520",
+	"pname": "IBM Algo One",
+	"pcpe": "cpe:/a:ibm:algo_one"
 }

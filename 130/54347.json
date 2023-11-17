@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "54347",
-  "pname": "Intel Serial IO driver for Intel NUC 11 Gen",
-  "pcpe": "cpe:/a:intel:serial_io_driver_for_intel_nuc_11_gen"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "54347",
+	"pname": "Intel Serial IO driver for Intel NUC 11 Gen",
+	"pcpe": "cpe:/a:intel:serial_io_driver_for_intel_nuc_11_gen"
 }

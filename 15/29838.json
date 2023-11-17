@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "29838",
-  "pname": "Oracle Hospitality Reporting and Analytics",
-  "pcpe": "cpe:/a:oracle:hospitality_reporting_and_analytics"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "29838",
+	"pname": "Oracle Hospitality Reporting and Analytics",
+	"pcpe": "cpe:/a:oracle:hospitality_reporting_and_analytics"
 }

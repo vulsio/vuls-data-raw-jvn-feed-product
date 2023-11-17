@@ -1,8 +1,8 @@
 {
-  "vid": "24296",
-  "vname": "cerber",
-  "vcpe": "cpe:/:cerber",
-  "pid": "62795",
-  "pname": "wp cerber security, anti-spam & malware scan",
-  "pcpe": "cpe:/a:cerber:wp_cerber_security%2C_anti-spam_%26_malware_scan"
+	"vid": "24296",
+	"vname": "cerber",
+	"vcpe": "cpe:/:cerber",
+	"pid": "62795",
+	"pname": "wp cerber security, anti-spam & malware scan",
+	"pcpe": "cpe:/a:cerber:wp_cerber_security%2C_anti-spam_%26_malware_scan"
 }

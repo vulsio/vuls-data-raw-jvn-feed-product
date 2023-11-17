@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "59035",
-  "pname": "galaxy s22 ファームウェア",
-  "pcpe": "cpe:/o:samsung:galaxy_s22_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "59035",
+	"pname": "galaxy s22 ファームウェア",
+	"pcpe": "cpe:/o:samsung:galaxy_s22_firmware"
 }

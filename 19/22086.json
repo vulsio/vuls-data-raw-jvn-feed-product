@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "22086",
-  "pname": "cisco technical support",
-  "pcpe": "cpe:/a:cisco:cisco_technical_support"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "22086",
+	"pname": "cisco technical support",
+	"pcpe": "cpe:/a:cisco:cisco_technical_support"
 }

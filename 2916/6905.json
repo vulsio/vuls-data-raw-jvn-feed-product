@@ -1,8 +1,8 @@
 {
-  "vid": "2916",
-  "vname": "collectorz",
-  "vcpe": "cpe:/:collectorz",
-  "pid": "6905",
-  "pname": "mp3 collector",
-  "pcpe": "cpe:/a:collectorz:mp3_collector"
+	"vid": "2916",
+	"vname": "collectorz",
+	"vcpe": "cpe:/:collectorz",
+	"pid": "6905",
+	"pname": "mp3 collector",
+	"pcpe": "cpe:/a:collectorz:mp3_collector"
 }

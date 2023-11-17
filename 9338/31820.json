@@ -1,8 +1,8 @@
 {
-  "vid": "9338",
-  "vname": "Sonatype Inc.",
-  "vcpe": "cpe:/:sonatype",
-  "pid": "31820",
-  "pname": "Nexus Repository Manager",
-  "pcpe": "cpe:/a:sonatype:nexus_repository_manager"
+	"vid": "9338",
+	"vname": "Sonatype Inc.",
+	"vcpe": "cpe:/:sonatype",
+	"pid": "31820",
+	"pname": "Nexus Repository Manager",
+	"pcpe": "cpe:/a:sonatype:nexus_repository_manager"
 }

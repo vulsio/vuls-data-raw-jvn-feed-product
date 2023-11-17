@@ -1,8 +1,8 @@
 {
-  "vid": "12365",
-  "vname": "Gradle Inc.",
-  "vcpe": "cpe:/:gradle",
-  "pid": "48450",
-  "pname": "Test distribution Gradle plugin",
-  "pcpe": "cpe:/a:gradle:test_distribution"
+	"vid": "12365",
+	"vname": "Gradle Inc.",
+	"vcpe": "cpe:/:gradle",
+	"pid": "48450",
+	"pname": "Test distribution Gradle plugin",
+	"pcpe": "cpe:/a:gradle:test_distribution"
 }

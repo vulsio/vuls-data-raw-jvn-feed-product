@@ -1,8 +1,8 @@
 {
-  "vid": "10461",
-  "vname": "pocketmags",
-  "vcpe": "cpe:/:pocketmags",
-  "pid": "22102",
-  "pname": "nra journal",
-  "pcpe": "cpe:/a:pocketmags:nra_journal"
+	"vid": "10461",
+	"vname": "pocketmags",
+	"vcpe": "cpe:/:pocketmags",
+	"pid": "22102",
+	"pname": "nra journal",
+	"pcpe": "cpe:/a:pocketmags:nra_journal"
 }

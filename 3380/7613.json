@@ -1,8 +1,8 @@
 {
-  "vid": "3380",
-  "vname": "earthlink",
-  "vcpe": "cpe:/:earthlink",
-  "pid": "7613",
-  "pname": "total access",
-  "pcpe": "cpe:/a:earthlink:total_access"
+	"vid": "3380",
+	"vname": "earthlink",
+	"vcpe": "cpe:/:earthlink",
+	"pid": "7613",
+	"pname": "total access",
+	"pcpe": "cpe:/a:earthlink:total_access"
 }

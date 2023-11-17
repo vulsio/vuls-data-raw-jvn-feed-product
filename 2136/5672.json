@@ -1,8 +1,8 @@
 {
-  "vid": "2136",
-  "vname": "aleris",
-  "vcpe": "cpe:/:aleris",
-  "pid": "5672",
-  "pname": "web publishing server",
-  "pcpe": "cpe:/a:aleris:web_publishing_server"
+	"vid": "2136",
+	"vname": "aleris",
+	"vcpe": "cpe:/:aleris",
+	"pid": "5672",
+	"pname": "web publishing server",
+	"pcpe": "cpe:/a:aleris:web_publishing_server"
 }

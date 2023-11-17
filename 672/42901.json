@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "42901",
-  "pname": "ManageEngine Desktop Central Managed Service Providers",
-  "pcpe": "cpe:/a:zohocorp:manageengine_desktop_central_managed_service_providers"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "42901",
+	"pname": "ManageEngine Desktop Central Managed Service Providers",
+	"pcpe": "cpe:/a:zohocorp:manageengine_desktop_central_managed_service_providers"
 }

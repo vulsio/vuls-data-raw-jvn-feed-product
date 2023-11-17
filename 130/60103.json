@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "60103",
-  "pname": "core i7-12700t ファームウェア",
-  "pcpe": "cpe:/o:intel:core_i7-12700t_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "60103",
+	"pname": "core i7-12700t ファームウェア",
+	"pcpe": "cpe:/o:intel:core_i7-12700t_firmware"
 }

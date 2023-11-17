@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25455",
-  "pname": "HPE Network Switch ソフトウェア",
-  "pcpe": "cpe:/o:hp:network_switch_software"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25455",
+	"pname": "HPE Network Switch ソフトウェア",
+	"pcpe": "cpe:/o:hp:network_switch_software"
 }

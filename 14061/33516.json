@@ -1,8 +1,8 @@
 {
-  "vid": "14061",
-  "vname": "Halo",
-  "vcpe": "cpe:/:halo_project",
-  "pid": "33516",
-  "pname": "Halo",
-  "pcpe": "cpe:/a:halo_project:halo"
+	"vid": "14061",
+	"vname": "Halo",
+	"vcpe": "cpe:/:halo_project",
+	"pid": "33516",
+	"pname": "Halo",
+	"pcpe": "cpe:/a:halo_project:halo"
 }

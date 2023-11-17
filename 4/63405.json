@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63405",
-  "pname": "HP PC Hardware Diagnostics",
-  "pcpe": "cpe:/a:hp:pc_hardware_diagnostics"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63405",
+	"pname": "HP PC Hardware Diagnostics",
+	"pcpe": "cpe:/a:hp:pc_hardware_diagnostics"
 }

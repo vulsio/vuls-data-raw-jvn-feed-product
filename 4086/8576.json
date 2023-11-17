@@ -1,8 +1,8 @@
 {
-  "vid": "4086",
-  "vname": "guestcal",
-  "vcpe": "cpe:/:guestcal",
-  "pid": "8576",
-  "pname": "guest cal",
-  "pcpe": "cpe:/a:guestcal:guest_cal"
+	"vid": "4086",
+	"vname": "guestcal",
+	"vcpe": "cpe:/:guestcal",
+	"pid": "8576",
+	"pname": "guest cal",
+	"pcpe": "cpe:/a:guestcal:guest_cal"
 }

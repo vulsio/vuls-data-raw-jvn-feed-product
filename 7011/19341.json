@@ -1,8 +1,8 @@
 {
-  "vid": "7011",
-  "vname": "pmachine",
-  "vcpe": "cpe:/:pmachine",
-  "pid": "19341",
-  "pname": "expressionengine",
-  "pcpe": "cpe:/a:pmachine:expressionengine"
+	"vid": "7011",
+	"vname": "pmachine",
+	"vcpe": "cpe:/:pmachine",
+	"pid": "19341",
+	"pname": "expressionengine",
+	"pcpe": "cpe:/a:pmachine:expressionengine"
 }

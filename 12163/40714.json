@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "40714",
-  "pname": "Dashboard View",
-  "pcpe": "cpe:/a:jenkins:dashboard_view"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "40714",
+	"pname": "Dashboard View",
+	"pcpe": "cpe:/a:jenkins:dashboard_view"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "19010",
-  "pname": "HP Color LaserJet CP5225 Series",
-  "pcpe": "cpe:/h:hp:color_laserjet_cp5225"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "19010",
+	"pname": "HP Color LaserJet CP5225 Series",
+	"pcpe": "cpe:/h:hp:color_laserjet_cp5225"
 }

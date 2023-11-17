@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "18558",
-  "pname": "Xper Connect",
-  "pcpe": "cpe:/a:philips:xperconnect"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "18558",
+	"pname": "Xper Connect",
+	"pcpe": "cpe:/a:philips:xperconnect"
 }

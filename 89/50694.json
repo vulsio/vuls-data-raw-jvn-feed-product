@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "50694",
-  "pname": "NEC Advanced Analytics Platform Modeler",
-  "pcpe": "cpe:/a:nec:nec_advanced_analytics_platform_modeler"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "50694",
+	"pname": "NEC Advanced Analytics Platform Modeler",
+	"pcpe": "cpe:/a:nec:nec_advanced_analytics_platform_modeler"
 }

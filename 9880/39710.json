@@ -1,8 +1,8 @@
 {
-  "vid": "9880",
-  "vname": "Docker",
-  "vcpe": "cpe:/:docker",
-  "pid": "39710",
-  "pname": "credential helpers",
-  "pcpe": "cpe:/a:docker:credential_helpers"
+	"vid": "9880",
+	"vname": "Docker",
+	"vcpe": "cpe:/:docker",
+	"pid": "39710",
+	"pname": "credential helpers",
+	"pcpe": "cpe:/a:docker:credential_helpers"
 }

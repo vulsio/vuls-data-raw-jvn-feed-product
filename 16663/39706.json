@@ -1,8 +1,8 @@
 {
-  "vid": "16663",
-  "vname": "MilkyTracker project",
-  "vcpe": "cpe:/:milkytracker_project",
-  "pid": "39706",
-  "pname": "MilkyTracker",
-  "pcpe": "cpe:/a:milkytracker_project:milkytracker"
+	"vid": "16663",
+	"vname": "MilkyTracker project",
+	"vcpe": "cpe:/:milkytracker_project",
+	"pid": "39706",
+	"pname": "MilkyTracker",
+	"pcpe": "cpe:/a:milkytracker_project:milkytracker"
 }

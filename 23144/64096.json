@@ -1,8 +1,8 @@
 {
-  "vid": "23144",
-  "vname": "withsecure",
-  "vcpe": "cpe:/:withsecure",
-  "pid": "64096",
-  "pname": "f-secure policy manager",
-  "pcpe": "cpe:/a:withsecure:f-secure_policy_manager"
+	"vid": "23144",
+	"vname": "withsecure",
+	"vcpe": "cpe:/:withsecure",
+	"pid": "64096",
+	"pname": "f-secure policy manager",
+	"pcpe": "cpe:/a:withsecure:f-secure_policy_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "44979",
-  "pname": "ABB Device Library Wizard",
-  "pcpe": "cpe:/a:abb:device_library_wizard"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "44979",
+	"pname": "ABB Device Library Wizard",
+	"pcpe": "cpe:/a:abb:device_library_wizard"
 }

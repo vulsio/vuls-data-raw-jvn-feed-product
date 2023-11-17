@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "40580",
-  "pname": "IntelliVue MP monitor",
-  "pcpe": "cpe:/o:philips:intellivue_mp_monitor"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "40580",
+	"pname": "IntelliVue MP monitor",
+	"pcpe": "cpe:/o:philips:intellivue_mp_monitor"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "7234",
-  "pname": "horde",
-  "pcpe": "cpe:/a:debian:horde"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "7234",
+	"pname": "horde",
+	"pcpe": "cpe:/a:debian:horde"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "50224",
-  "pname": "SCALANCE X202-2P IRT PRO ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_x202-2p_irt_pro_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "50224",
+	"pname": "SCALANCE X202-2P IRT PRO ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_x202-2p_irt_pro_firmware"
 }

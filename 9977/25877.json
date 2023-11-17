@@ -1,8 +1,8 @@
 {
-  "vid": "9977",
-  "vname": "ファルコンシステムコンサルティング株式会社",
-  "vcpe": "cpe:/:falcon_system_consulting",
-  "pid": "25877",
-  "pname": "WisePoint Authenticator",
-  "pcpe": "cpe:/a:falcon_system_consulting:wisepoint_authenticator"
+	"vid": "9977",
+	"vname": "ファルコンシステムコンサルティング株式会社",
+	"vcpe": "cpe:/:falcon_system_consulting",
+	"pid": "25877",
+	"pname": "WisePoint Authenticator",
+	"pcpe": "cpe:/a:falcon_system_consulting:wisepoint_authenticator"
 }

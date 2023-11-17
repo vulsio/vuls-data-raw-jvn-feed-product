@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30286",
-  "pname": "ThinkCentre X1 AIO ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_x1_aio_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30286",
+	"pname": "ThinkCentre X1 AIO ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_x1_aio_firmware"
 }

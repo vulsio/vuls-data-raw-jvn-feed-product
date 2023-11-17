@@ -1,8 +1,8 @@
 {
-  "vid": "12005",
-  "vname": "Arista Networks, Inc.",
-  "vcpe": "cpe:/:arista",
-  "pid": "27615",
-  "pname": "DCS 7050S",
-  "pcpe": "cpe:/h:arista:dcs-7050s"
+	"vid": "12005",
+	"vname": "Arista Networks, Inc.",
+	"vcpe": "cpe:/:arista",
+	"pid": "27615",
+	"pname": "DCS 7050S",
+	"pcpe": "cpe:/h:arista:dcs-7050s"
 }

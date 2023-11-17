@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "20076",
-  "pname": "HP SN6000 Stackable 8Gb 24-port Dual Power Fibre Channel Switch",
-  "pcpe": "cpe:/h:hp:sn6000_stackable_8gb_24-port_dual_power_fibre_channel_switch"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "20076",
+	"pname": "HP SN6000 Stackable 8Gb 24-port Dual Power Fibre Channel Switch",
+	"pcpe": "cpe:/h:hp:sn6000_stackable_8gb_24-port_dual_power_fibre_channel_switch"
 }

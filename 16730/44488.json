@@ -1,8 +1,8 @@
 {
-  "vid": "16730",
-  "vname": "GTranslate Inc.",
-  "vcpe": "cpe:/:gtranslate",
-  "pid": "44488",
-  "pname": "Translate WordPress with GTranslate",
-  "pcpe": "cpe:/a:gtranslate:translate_wordpress_with_gtranslate"
+	"vid": "16730",
+	"vname": "GTranslate Inc.",
+	"vcpe": "cpe:/:gtranslate",
+	"pid": "44488",
+	"pname": "Translate WordPress with GTranslate",
+	"pcpe": "cpe:/a:gtranslate:translate_wordpress_with_gtranslate"
 }

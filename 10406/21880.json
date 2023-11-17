@@ -1,8 +1,8 @@
 {
-  "vid": "10406",
-  "vname": "chartboost",
-  "vcpe": "cpe:/:chartboost",
-  "pid": "21880",
-  "pname": "chartboost library",
-  "pcpe": "cpe:/a:chartboost:chartboost_library"
+	"vid": "10406",
+	"vname": "chartboost",
+	"vcpe": "cpe:/:chartboost",
+	"pid": "21880",
+	"pname": "chartboost library",
+	"pcpe": "cpe:/a:chartboost:chartboost_library"
 }

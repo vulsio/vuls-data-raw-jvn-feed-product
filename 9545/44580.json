@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "44580",
-  "pname": "Ceph",
-  "pcpe": "cpe:/a:linuxfoundation:ceph"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "44580",
+	"pname": "Ceph",
+	"pcpe": "cpe:/a:linuxfoundation:ceph"
 }

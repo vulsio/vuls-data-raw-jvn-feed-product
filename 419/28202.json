@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "28202",
-  "pname": "ONTAP Select Deploy administration utility",
-  "pcpe": "cpe:/a:netapp:ontap_select_administration_utility"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "28202",
+	"pname": "ONTAP Select Deploy administration utility",
+	"pcpe": "cpe:/a:netapp:ontap_select_administration_utility"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "185",
-  "vname": "swetake.com",
-  "vcpe": "cpe:/:misc",
-  "pid": "539",
-  "pname": "QRcode Perl/CGI & PHP scripts",
-  "pcpe": "cpe:/a:misc:swetake_qrcode_perl_cgi_php_scripts"
+	"vid": "185",
+	"vname": "swetake.com",
+	"vcpe": "cpe:/:misc",
+	"pid": "539",
+	"pname": "QRcode Perl/CGI & PHP scripts",
+	"pcpe": "cpe:/a:misc:swetake_qrcode_perl_cgi_php_scripts"
 }

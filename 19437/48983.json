@@ -1,8 +1,8 @@
 {
-  "vid": "19437",
-  "vname": "simple-slab project",
-  "vcpe": "cpe:/:simple-slab_project",
-  "pid": "48983",
-  "pname": "simple-slab",
-  "pcpe": "cpe:/a:simple-slab_project:simple-slab"
+	"vid": "19437",
+	"vname": "simple-slab project",
+	"vcpe": "cpe:/:simple-slab_project",
+	"pid": "48983",
+	"pname": "simple-slab",
+	"pcpe": "cpe:/a:simple-slab_project:simple-slab"
 }

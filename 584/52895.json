@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "52895",
-  "pname": "RUGGEDCOM ROX RX1536 ファームウェア",
-  "pcpe": "cpe:/o:siemens:ruggedcom_rox_rx1536_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "52895",
+	"pname": "RUGGEDCOM ROX RX1536 ファームウェア",
+	"pcpe": "cpe:/o:siemens:ruggedcom_rox_rx1536_firmware"
 }

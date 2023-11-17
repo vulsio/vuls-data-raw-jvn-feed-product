@@ -1,8 +1,8 @@
 {
-  "vid": "18435",
-  "vname": "SecureAuth",
-  "vcpe": "cpe:/:secureauth",
-  "pid": "45416",
-  "pname": "SecureAuth Identity Provider",
-  "pcpe": "cpe:/a:secureauth:secureauth_identity_provider"
+	"vid": "18435",
+	"vname": "SecureAuth",
+	"vcpe": "cpe:/:secureauth",
+	"pid": "45416",
+	"pname": "SecureAuth Identity Provider",
+	"pcpe": "cpe:/a:secureauth:secureauth_identity_provider"
 }

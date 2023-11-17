@@ -1,8 +1,8 @@
 {
-  "vid": "13029",
-  "vname": "ToMAX",
-  "vcpe": "cpe:/:tomaxcom",
-  "pid": "30193",
-  "pname": "R60G ファームウェア",
-  "pcpe": "cpe:/o:tomaxcom:r60g_firmware"
+	"vid": "13029",
+	"vname": "ToMAX",
+	"vcpe": "cpe:/:tomaxcom",
+	"pid": "30193",
+	"pname": "R60G ファームウェア",
+	"pcpe": "cpe:/o:tomaxcom:r60g_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "58035",
-  "pname": "Poly CCX600 ファームウェア",
-  "pcpe": "cpe:/o:zoom:poly_ccx_600_firmware"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "58035",
+	"pname": "Poly CCX600 ファームウェア",
+	"pcpe": "cpe:/o:zoom:poly_ccx_600_firmware"
 }

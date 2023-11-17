@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "51037",
-  "pname": "CPP7.3 ファームウェア",
-  "pcpe": "cpe:/o:bosch:cpp7.3_firmware"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "51037",
+	"pname": "CPP7.3 ファームウェア",
+	"pcpe": "cpe:/o:bosch:cpp7.3_firmware"
 }

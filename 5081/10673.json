@@ -1,8 +1,8 @@
 {
-  "vid": "5081",
-  "vname": "jportal",
-  "vcpe": "cpe:/:jportal",
-  "pid": "10673",
-  "pname": "jportal web portal",
-  "pcpe": "cpe:/a:jportal:jportal_web_portal"
+	"vid": "5081",
+	"vname": "jportal",
+	"vcpe": "cpe:/:jportal",
+	"pid": "10673",
+	"pname": "jportal web portal",
+	"pcpe": "cpe:/a:jportal:jportal_web_portal"
 }

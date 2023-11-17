@@ -1,8 +1,8 @@
 {
-  "vid": "12194",
-  "vname": "The ADOdb Community",
-  "vcpe": "cpe:/:adodb_project",
-  "pid": "26791",
-  "pname": "ADOdb",
-  "pcpe": "cpe:/a:adodb_project:adodb"
+	"vid": "12194",
+	"vname": "The ADOdb Community",
+	"vcpe": "cpe:/:adodb_project",
+	"pid": "26791",
+	"pname": "ADOdb",
+	"pcpe": "cpe:/a:adodb_project:adodb"
 }

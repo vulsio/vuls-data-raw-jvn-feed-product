@@ -1,8 +1,8 @@
 {
-  "vid": "17456",
-  "vname": "PediaPress",
-  "vcpe": "cpe:/:pediapress",
-  "pid": "41584",
-  "pname": "mwlib",
-  "pcpe": "cpe:/a:pediapress:mwlib"
+	"vid": "17456",
+	"vname": "PediaPress",
+	"vcpe": "cpe:/:pediapress",
+	"pid": "41584",
+	"pname": "mwlib",
+	"pcpe": "cpe:/a:pediapress:mwlib"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11746",
-  "vname": "OG tabs project",
-  "vcpe": "cpe:/:og_tabs_project",
-  "pid": "24257",
-  "pname": "OG tabs",
-  "pcpe": "cpe:/a:og_tabs_project:og_tabs"
+	"vid": "11746",
+	"vname": "OG tabs project",
+	"vcpe": "cpe:/:og_tabs_project",
+	"pid": "24257",
+	"pname": "OG tabs",
+	"pcpe": "cpe:/a:og_tabs_project:og_tabs"
 }

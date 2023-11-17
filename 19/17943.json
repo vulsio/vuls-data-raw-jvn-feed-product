@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17943",
-  "pname": "Cisco StarOS",
-  "pcpe": "cpe:/o:cisco:staros"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17943",
+	"pname": "Cisco StarOS",
+	"pcpe": "cpe:/o:cisco:staros"
 }

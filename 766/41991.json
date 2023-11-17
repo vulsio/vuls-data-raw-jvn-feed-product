@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "41991",
-  "pname": "Andover Continuum 9680 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:andover_continuum_9680_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "41991",
+	"pname": "Andover Continuum 9680 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:andover_continuum_9680_firmware"
 }

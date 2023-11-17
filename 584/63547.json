@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63547",
-  "pname": "simatic hmi ktp400 basic ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_hmi_ktp400_basic_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63547",
+	"pname": "simatic hmi ktp400 basic ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_hmi_ktp400_basic_firmware"
 }

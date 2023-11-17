@@ -1,8 +1,8 @@
 {
-  "vid": "10137",
-  "vname": "NQ Mobile",
-  "vcpe": "cpe:/:nq",
-  "pid": "21253",
-  "pname": "NQ Mobile Security & Antivirus",
-  "pcpe": "cpe:/a:nq:nq_mobile_security_%26_antivirus"
+	"vid": "10137",
+	"vname": "NQ Mobile",
+	"vcpe": "cpe:/:nq",
+	"pid": "21253",
+	"pname": "NQ Mobile Security & Antivirus",
+	"pcpe": "cpe:/a:nq:nq_mobile_security_%26_antivirus"
 }

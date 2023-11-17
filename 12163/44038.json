@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "44038",
-  "pname": "Queue cleanup",
-  "pcpe": "cpe:/a:jenkins:queue_cleanup"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "44038",
+	"pname": "Queue cleanup",
+	"pcpe": "cpe:/a:jenkins:queue_cleanup"
 }

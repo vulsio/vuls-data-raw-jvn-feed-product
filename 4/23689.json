@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23689",
-  "pname": "HP POS USB Keyboard (FK221AA)",
-  "pcpe": "cpe:/h:hp:pos_keyboard_fk221aa"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23689",
+	"pname": "HP POS USB Keyboard (FK221AA)",
+	"pcpe": "cpe:/h:hp:pos_keyboard_fk221aa"
 }

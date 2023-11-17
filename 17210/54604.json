@@ -1,8 +1,8 @@
 {
-  "vid": "17210",
-  "vname": "Victure",
-  "vcpe": "cpe:/:govicture",
-  "pid": "54604",
-  "pname": "WR1200 ファームウェア",
-  "pcpe": "cpe:/o:govicture:wr1200_firmware"
+	"vid": "17210",
+	"vname": "Victure",
+	"vcpe": "cpe:/:govicture",
+	"pid": "54604",
+	"pname": "WR1200 ファームウェア",
+	"pcpe": "cpe:/o:govicture:wr1200_firmware"
 }

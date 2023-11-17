@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "23333",
-  "pname": "MultiLink ML2400",
-  "pcpe": "cpe:/h:ge:multilink_ml2400"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "23333",
+	"pname": "MultiLink ML2400",
+	"pcpe": "cpe:/h:ge:multilink_ml2400"
 }

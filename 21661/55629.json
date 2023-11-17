@@ -1,8 +1,8 @@
 {
-  "vid": "21661",
-  "vname": "IVM Development Group",
-  "vcpe": "cpe:/:misc",
-  "pid": "55629",
-  "pname": "pg_ivm",
-  "pcpe": "cpe:/a:misc:ivm_development_group_pg_ivm"
+	"vid": "21661",
+	"vname": "IVM Development Group",
+	"vcpe": "cpe:/:misc",
+	"pid": "55629",
+	"pname": "pg_ivm",
+	"pcpe": "cpe:/a:misc:ivm_development_group_pg_ivm"
 }

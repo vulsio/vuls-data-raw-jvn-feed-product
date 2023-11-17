@@ -1,8 +1,8 @@
 {
-  "vid": "9352",
-  "vname": "Extreme Networks, Inc.",
-  "vcpe": "cpe:/:extremenetworks",
-  "pid": "45822",
-  "pname": "Extreme Management Center",
-  "pcpe": "cpe:/a:extremenetworks:extreme_management_center"
+	"vid": "9352",
+	"vname": "Extreme Networks, Inc.",
+	"vcpe": "cpe:/:extremenetworks",
+	"pid": "45822",
+	"pname": "Extreme Management Center",
+	"pcpe": "cpe:/a:extremenetworks:extreme_management_center"
 }

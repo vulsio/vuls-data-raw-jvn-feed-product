@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "36153",
-  "pname": "Cisco Webex Meetings Online",
-  "pcpe": "cpe:/a:cisco:webex_meetings_online"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "36153",
+	"pname": "Cisco Webex Meetings Online",
+	"pcpe": "cpe:/a:cisco:webex_meetings_online"
 }

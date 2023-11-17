@@ -1,8 +1,8 @@
 {
-  "vid": "23937",
-  "vname": "xhyve project",
-  "vcpe": "cpe:/:xhyve_project",
-  "pid": "61939",
-  "pname": "xhyve",
-  "pcpe": "cpe:/a:xhyve_project:xhyve"
+	"vid": "23937",
+	"vname": "xhyve project",
+	"vcpe": "cpe:/:xhyve_project",
+	"pid": "61939",
+	"pname": "xhyve",
+	"pcpe": "cpe:/a:xhyve_project:xhyve"
 }

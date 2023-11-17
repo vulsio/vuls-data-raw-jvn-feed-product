@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "17279",
-  "pname": "Junos Space Virtual Appliance",
-  "pcpe": "cpe:/a:juniper:junos_space_virtual_appliance"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "17279",
+	"pname": "Junos Space Virtual Appliance",
+	"pcpe": "cpe:/a:juniper:junos_space_virtual_appliance"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1806",
-  "vname": "東芝テック",
-  "vcpe": "cpe:/:toshibatec",
-  "pid": "17415",
-  "pname": "e-STUDIO 6530C ファームウェア",
-  "pcpe": "cpe:/a:toshibatec:e-studio-6530c_firmware"
+	"vid": "1806",
+	"vname": "東芝テック",
+	"vcpe": "cpe:/:toshibatec",
+	"pid": "17415",
+	"pname": "e-STUDIO 6530C ファームウェア",
+	"pcpe": "cpe:/a:toshibatec:e-studio-6530c_firmware"
 }

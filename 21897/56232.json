@@ -1,8 +1,8 @@
 {
-  "vid": "21897",
-  "vname": "SumoCoders",
-  "vcpe": "cpe:/:sumocoders",
-  "pid": "56232",
-  "pname": "FrameworkUserBundle",
-  "pcpe": "cpe:/a:sumocoders:frameworkuserbundle"
+	"vid": "21897",
+	"vname": "SumoCoders",
+	"vcpe": "cpe:/:sumocoders",
+	"pid": "56232",
+	"pname": "FrameworkUserBundle",
+	"pcpe": "cpe:/a:sumocoders:frameworkuserbundle"
 }

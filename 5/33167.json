@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33167",
-  "pname": "MDM9635M ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:mdm9635m_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33167",
+	"pname": "MDM9635M ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:mdm9635m_firmware"
 }

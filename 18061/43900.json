@@ -1,8 +1,8 @@
 {
-  "vid": "18061",
-  "vname": "Syncro Soft",
-  "vcpe": "cpe:/:sync",
-  "pid": "43900",
-  "pname": "Oxygen XML Editor",
-  "pcpe": "cpe:/a:sync:oxygen_xml_editor"
+	"vid": "18061",
+	"vname": "Syncro Soft",
+	"vcpe": "cpe:/:sync",
+	"pid": "43900",
+	"pname": "Oxygen XML Editor",
+	"pcpe": "cpe:/a:sync:oxygen_xml_editor"
 }

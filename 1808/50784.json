@@ -1,8 +1,8 @@
 {
-  "vid": "1808",
-  "vname": "GitHub",
-  "vcpe": "cpe:/:github",
-  "pid": "50784",
-  "pname": "CodeQL action",
-  "pcpe": "cpe:/a:github:codeql_action"
+	"vid": "1808",
+	"vname": "GitHub",
+	"vcpe": "cpe:/:github",
+	"pid": "50784",
+	"pname": "CodeQL action",
+	"pcpe": "cpe:/a:github:codeql_action"
 }

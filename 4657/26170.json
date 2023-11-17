@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26170",
-  "pname": "Mate 8",
-  "pcpe": "cpe:/h:huawei:mate_8"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26170",
+	"pname": "Mate 8",
+	"pcpe": "cpe:/h:huawei:mate_8"
 }

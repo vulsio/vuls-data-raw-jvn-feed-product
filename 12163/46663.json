@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "46663",
-  "pname": "Implied Labels プラグイン",
-  "pcpe": "cpe:/a:jenkins:implied_labels"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "46663",
+	"pname": "Implied Labels プラグイン",
+	"pcpe": "cpe:/a:jenkins:implied_labels"
 }

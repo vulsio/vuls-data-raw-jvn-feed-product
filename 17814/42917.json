@@ -1,8 +1,8 @@
 {
-  "vid": "17814",
-  "vname": "TennisConnect",
-  "vcpe": "cpe:/:tennisconnect",
-  "pid": "42917",
-  "pname": "TennisConnect COMPONENTS",
-  "pcpe": "cpe:/a:tennisconnect:components"
+	"vid": "17814",
+	"vname": "TennisConnect",
+	"vcpe": "cpe:/:tennisconnect",
+	"pid": "42917",
+	"pname": "TennisConnect COMPONENTS",
+	"pcpe": "cpe:/a:tennisconnect:components"
 }

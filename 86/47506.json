@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "47506",
-  "pname": "WZR-G108 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wzr-g108_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "47506",
+	"pname": "WZR-G108 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wzr-g108_firmware"
 }

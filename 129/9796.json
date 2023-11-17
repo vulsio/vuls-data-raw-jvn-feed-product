@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "9796",
-  "pname": "jpi hibun advanced edition server",
-  "pcpe": "cpe:/a:hitachi:jpi_hibun_advanced_edition_server"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "9796",
+	"pname": "jpi hibun advanced edition server",
+	"pcpe": "cpe:/a:hitachi:jpi_hibun_advanced_edition_server"
 }

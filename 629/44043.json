@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "44043",
-  "pname": "PT-7528-24TX-HV-HV ファームウェア",
-  "pcpe": "cpe:/o:moxa:pt-7528-24tx-hv-hv_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "44043",
+	"pname": "PT-7528-24TX-HV-HV ファームウェア",
+	"pcpe": "cpe:/o:moxa:pt-7528-24tx-hv-hv_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "41791",
-  "pname": "Intel Xeon 8276L ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_platinum_8276l_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "41791",
+	"pname": "Intel Xeon 8276L ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_platinum_8276l_firmware"
 }

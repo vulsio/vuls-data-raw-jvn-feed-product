@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "18278",
-  "pname": "X9QR7-TF-JBOD",
-  "pcpe": "cpe:/h:supermicro:x9qr7-tf-jbod"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "18278",
+	"pname": "X9QR7-TF-JBOD",
+	"pcpe": "cpe:/h:supermicro:x9qr7-tf-jbod"
 }

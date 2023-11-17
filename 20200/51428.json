@@ -1,8 +1,8 @@
 {
-  "vid": "20200",
-  "vname": "Vox Media, LLC.",
-  "vcpe": "cpe:/:voxmedia",
-  "pid": "51428",
-  "pname": "coral talk",
-  "pcpe": "cpe:/a:voxmedia:coral_talk"
+	"vid": "20200",
+	"vname": "Vox Media, LLC.",
+	"vcpe": "cpe:/:voxmedia",
+	"pid": "51428",
+	"pname": "coral talk",
+	"pcpe": "cpe:/a:voxmedia:coral_talk"
 }

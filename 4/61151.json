@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "61151",
-  "pname": "HP EliteBook 725 G4 Notebook PC ファームウェア",
-  "pcpe": "cpe:/o:hp:elitebook_725_g4_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "61151",
+	"pname": "HP EliteBook 725 G4 Notebook PC ファームウェア",
+	"pcpe": "cpe:/o:hp:elitebook_725_g4_firmware"
 }

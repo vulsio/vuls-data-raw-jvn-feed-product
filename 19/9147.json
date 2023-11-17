@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "9147",
-  "pname": "Cisco Catalyst 3560-X シリーズ",
-  "pcpe": "cpe:/h:cisco:catalyst_3560-x"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "9147",
+	"pname": "Cisco Catalyst 3560-X シリーズ",
+	"pcpe": "cpe:/h:cisco:catalyst_3560-x"
 }

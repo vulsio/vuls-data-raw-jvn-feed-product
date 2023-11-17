@@ -1,8 +1,8 @@
 {
-  "vid": "1002",
-  "vname": "The Tor Project",
-  "vcpe": "cpe:/:torproject",
-  "pid": "29903",
-  "pname": "Tor Browser",
-  "pcpe": "cpe:/a:torproject:tor_browser"
+	"vid": "1002",
+	"vname": "The Tor Project",
+	"vcpe": "cpe:/:torproject",
+	"pid": "29903",
+	"pname": "Tor Browser",
+	"pcpe": "cpe:/a:torproject:tor_browser"
 }

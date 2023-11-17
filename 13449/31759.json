@@ -1,8 +1,8 @@
 {
-  "vid": "13449",
-  "vname": "GPWeb",
-  "vcpe": "cpe:/:sistemagpweb",
-  "pid": "31759",
-  "pname": "GPWeb",
-  "pcpe": "cpe:/a:sistemagpweb:gpweb"
+	"vid": "13449",
+	"vname": "GPWeb",
+	"vcpe": "cpe:/:sistemagpweb",
+	"pid": "31759",
+	"pname": "GPWeb",
+	"pcpe": "cpe:/a:sistemagpweb:gpweb"
 }

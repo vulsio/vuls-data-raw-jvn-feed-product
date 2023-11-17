@@ -1,8 +1,8 @@
 {
-  "vid": "20440",
-  "vname": "Meow Apps",
-  "vcpe": "cpe:/:meowapps",
-  "pid": "52091",
-  "pname": "Media Usage",
-  "pcpe": "cpe:/a:meowapps:media_usage"
+	"vid": "20440",
+	"vname": "Meow Apps",
+	"vcpe": "cpe:/:meowapps",
+	"pid": "52091",
+	"pname": "Media Usage",
+	"pcpe": "cpe:/a:meowapps:media_usage"
 }

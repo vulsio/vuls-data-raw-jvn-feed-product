@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "39561",
-  "pname": "RE6300 ファームウェア",
-  "pcpe": "cpe:/o:linksys:re6300_firmware"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "39561",
+	"pname": "RE6300 ファームウェア",
+	"pcpe": "cpe:/o:linksys:re6300_firmware"
 }

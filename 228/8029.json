@@ -1,8 +1,8 @@
 {
-  "vid": "228",
-  "vname": "Fedora Project",
-  "vcpe": "cpe:/:fedoraproject",
-  "pid": "8029",
-  "pname": "newsx",
-  "pcpe": "cpe:/a:fedoraproject:newsx"
+	"vid": "228",
+	"vname": "Fedora Project",
+	"vcpe": "cpe:/:fedoraproject",
+	"pid": "8029",
+	"pname": "newsx",
+	"pcpe": "cpe:/a:fedoraproject:newsx"
 }

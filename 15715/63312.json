@@ -1,8 +1,8 @@
 {
-  "vid": "15715",
-  "vname": "TOTOLINK",
-  "vcpe": "cpe:/:totolink",
-  "pid": "63312",
-  "pname": "nr1800x ファームウェア",
-  "pcpe": "cpe:/o:totolink:nr1800x_firmware"
+	"vid": "15715",
+	"vname": "TOTOLINK",
+	"vcpe": "cpe:/:totolink",
+	"pid": "63312",
+	"pname": "nr1800x ファームウェア",
+	"pcpe": "cpe:/o:totolink:nr1800x_firmware"
 }

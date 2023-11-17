@@ -1,8 +1,8 @@
 {
-  "vid": "7756",
-  "vname": "South River Technologies",
-  "vcpe": "cpe:/:southrivertech",
-  "pid": "60811",
-  "pname": "titan ftp server nextgen",
-  "pcpe": "cpe:/a:southrivertech:titan_ftp_server_nextgen"
+	"vid": "7756",
+	"vname": "South River Technologies",
+	"vcpe": "cpe:/:southrivertech",
+	"pid": "60811",
+	"pname": "titan ftp server nextgen",
+	"pcpe": "cpe:/a:southrivertech:titan_ftp_server_nextgen"
 }

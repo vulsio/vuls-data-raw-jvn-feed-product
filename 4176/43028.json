@@ -1,8 +1,8 @@
 {
-  "vid": "4176",
-  "vname": "Belkin International",
-  "vcpe": "cpe:/:belkin",
-  "pid": "43028",
-  "pname": "WeMo Insight Switch ファームウェア",
-  "pcpe": "cpe:/o:belkin:wemo_insight_switch_firmware"
+	"vid": "4176",
+	"vname": "Belkin International",
+	"vcpe": "cpe:/:belkin",
+	"pid": "43028",
+	"pname": "WeMo Insight Switch ファームウェア",
+	"pcpe": "cpe:/o:belkin:wemo_insight_switch_firmware"
 }

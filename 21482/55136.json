@@ -1,8 +1,8 @@
 {
-  "vid": "21482",
-  "vname": "Rich-Web",
-  "vcpe": "cpe:/:rich-web",
-  "pid": "55136",
-  "pname": "Tab",
-  "pcpe": "cpe:/a:rich-web:tab"
+	"vid": "21482",
+	"vname": "Rich-Web",
+	"vcpe": "cpe:/:rich-web",
+	"pid": "55136",
+	"pname": "Tab",
+	"pcpe": "cpe:/a:rich-web:tab"
 }

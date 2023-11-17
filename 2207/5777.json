@@ -1,8 +1,8 @@
 {
-  "vid": "2207",
-  "vname": "amotools",
-  "vcpe": "cpe:/:amotools",
-  "pid": "5777",
-  "pname": "com amocourse",
-  "pcpe": "cpe:/a:amotools:com_amocourse"
+	"vid": "2207",
+	"vname": "amotools",
+	"vcpe": "cpe:/:amotools",
+	"pid": "5777",
+	"pname": "com amocourse",
+	"pcpe": "cpe:/a:amotools:com_amocourse"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "3482",
-  "pname": "RSA Adaptive Authentication (On-Premise)",
-  "pcpe": "cpe:/a:emc:rsa_adaptive_authentication_on-premise"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "3482",
+	"pname": "RSA Adaptive Authentication (On-Premise)",
+	"pcpe": "cpe:/a:emc:rsa_adaptive_authentication_on-premise"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "9294",
-  "pname": "GALAXY S",
-  "pcpe": "cpe:/h:samsung:galaxy_s"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "9294",
+	"pname": "GALAXY S",
+	"pcpe": "cpe:/h:samsung:galaxy_s"
 }

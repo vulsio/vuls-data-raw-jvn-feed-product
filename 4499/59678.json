@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "59678",
-  "pname": "M720VS",
-  "pcpe": "cpe:/o:mitsubishielectric:m720vs"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "59678",
+	"pname": "M720VS",
+	"pcpe": "cpe:/o:mitsubishielectric:m720vs"
 }

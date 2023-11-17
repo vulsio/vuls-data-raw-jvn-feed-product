@@ -1,8 +1,8 @@
 {
-  "vid": "11928",
-  "vname": "Project Jupyter",
-  "vcpe": "cpe:/:jupyter",
-  "pid": "53858",
-  "pname": "nbdime-jupyterlab",
-  "pcpe": "cpe:/a:jupyter:nbdime-jupyterlab"
+	"vid": "11928",
+	"vname": "Project Jupyter",
+	"vcpe": "cpe:/:jupyter",
+	"pid": "53858",
+	"pname": "nbdime-jupyterlab",
+	"pcpe": "cpe:/a:jupyter:nbdime-jupyterlab"
 }

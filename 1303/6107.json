@@ -1,8 +1,8 @@
 {
-  "vid": "1303",
-  "vname": "Avira",
-  "vcpe": "cpe:/:avira",
-  "pid": "6107",
-  "pname": "Antivir Personal",
-  "pcpe": "cpe:/a:avira:antivir_personal"
+	"vid": "1303",
+	"vname": "Avira",
+	"vcpe": "cpe:/:avira",
+	"pid": "6107",
+	"pname": "Antivir Personal",
+	"pcpe": "cpe:/a:avira:antivir_personal"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19981",
-  "vname": "NightOwl",
-  "vcpe": "cpe:/:nightowlsp",
-  "pid": "50564",
-  "pname": "WDB-20 ファームウェア",
-  "pcpe": "cpe:/o:nightowlsp:wdb-20_firmware"
+	"vid": "19981",
+	"vname": "NightOwl",
+	"vcpe": "cpe:/:nightowlsp",
+	"pid": "50564",
+	"pname": "WDB-20 ファームウェア",
+	"pcpe": "cpe:/o:nightowlsp:wdb-20_firmware"
 }

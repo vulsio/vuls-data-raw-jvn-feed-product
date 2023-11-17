@@ -1,8 +1,8 @@
 {
-  "vid": "6590",
-  "vname": "Rackspace",
-  "vcpe": "cpe:/:rackspace",
-  "pid": "13224",
-  "pname": "Rackspace",
-  "pcpe": "cpe:/a:rackspace:rackspace"
+	"vid": "6590",
+	"vname": "Rackspace",
+	"vcpe": "cpe:/:rackspace",
+	"pid": "13224",
+	"pname": "Rackspace",
+	"pcpe": "cpe:/a:rackspace:rackspace"
 }

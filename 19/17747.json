@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17747",
-  "pname": "Cisco Virtualization Experience Client 6000 シリーズ",
-  "pcpe": "cpe:/h:cisco:virtualization_experience_client_6000"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17747",
+	"pname": "Cisco Virtualization Experience Client 6000 シリーズ",
+	"pcpe": "cpe:/h:cisco:virtualization_experience_client_6000"
 }

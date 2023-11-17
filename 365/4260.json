@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "4260",
-  "pname": "Citrix Access Gateway",
-  "pcpe": "cpe:/a:citrix:access_gateway"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "4260",
+	"pname": "Citrix Access Gateway",
+	"pcpe": "cpe:/a:citrix:access_gateway"
 }

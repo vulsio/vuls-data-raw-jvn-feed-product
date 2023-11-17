@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4411",
-  "pname": "HP Client Automation Enterprise",
-  "pcpe": "cpe:/a:hp:client_automation_enterprise"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4411",
+	"pname": "HP Client Automation Enterprise",
+	"pcpe": "cpe:/a:hp:client_automation_enterprise"
 }

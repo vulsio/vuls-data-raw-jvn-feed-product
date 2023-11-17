@@ -1,8 +1,8 @@
 {
-  "vid": "347",
-  "vname": "Autonomy",
-  "vcpe": "cpe:/:autonomy",
-  "pid": "1249",
-  "pname": "KeyView Export SDK",
-  "pcpe": "cpe:/a:autonomy:keyview_export_sdk"
+	"vid": "347",
+	"vname": "Autonomy",
+	"vcpe": "cpe:/:autonomy",
+	"pid": "1249",
+	"pname": "KeyView Export SDK",
+	"pcpe": "cpe:/a:autonomy:keyview_export_sdk"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15198",
-  "pname": "altiris management platform",
-  "pcpe": "cpe:/a:symantec:altiris_management_platform"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15198",
+	"pname": "altiris management platform",
+	"pcpe": "cpe:/a:symantec:altiris_management_platform"
 }

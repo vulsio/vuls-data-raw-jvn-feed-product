@@ -1,8 +1,8 @@
 {
-  "vid": "17888",
-  "vname": "Kevin Hatch",
-  "vcpe": "cpe:/:phxeventmanager_project",
-  "pid": "43168",
-  "pname": "phxEventManager",
-  "pcpe": "cpe:/a:phxeventmanager_project:phxeventmanager"
+	"vid": "17888",
+	"vname": "Kevin Hatch",
+	"vcpe": "cpe:/:phxeventmanager_project",
+	"pid": "43168",
+	"pname": "phxEventManager",
+	"pcpe": "cpe:/a:phxeventmanager_project:phxeventmanager"
 }

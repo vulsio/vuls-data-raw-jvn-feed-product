@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3163",
-  "pname": "HP Performance Agent",
-  "pcpe": "cpe:/a:hp:performance_agent"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3163",
+	"pname": "HP Performance Agent",
+	"pcpe": "cpe:/a:hp:performance_agent"
 }

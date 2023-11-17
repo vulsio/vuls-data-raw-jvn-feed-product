@@ -1,8 +1,8 @@
 {
-  "vid": "7743",
-  "vname": "songbird",
-  "vcpe": "cpe:/:songbird",
-  "pid": "14968",
-  "pname": "songbird media player",
-  "pcpe": "cpe:/a:songbird:songbird_media_player"
+	"vid": "7743",
+	"vname": "songbird",
+	"vcpe": "cpe:/:songbird",
+	"pid": "14968",
+	"pname": "songbird media player",
+	"pcpe": "cpe:/a:songbird:songbird_media_player"
 }

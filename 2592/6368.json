@@ -1,8 +1,8 @@
 {
-  "vid": "2592",
-  "vname": "bochs",
-  "vcpe": "cpe:/:bochs",
-  "pid": "6368",
-  "pname": "bochs",
-  "pcpe": "cpe:/a:bochs:bochs"
+	"vid": "2592",
+	"vname": "bochs",
+	"vcpe": "cpe:/:bochs",
+	"pid": "6368",
+	"pname": "bochs",
+	"pcpe": "cpe:/a:bochs:bochs"
 }

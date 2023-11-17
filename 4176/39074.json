@@ -1,8 +1,8 @@
 {
-  "vid": "4176",
-  "vname": "Belkin International",
-  "vcpe": "cpe:/:belkin",
-  "pid": "39074",
-  "pname": "Crock-Pot Smart Slow Cooker with Wemo ファームウェア",
-  "pcpe": "cpe:/o:belkin:crock-pot_smart_slow_cooker_with_wemo_firmware"
+	"vid": "4176",
+	"vname": "Belkin International",
+	"vcpe": "cpe:/:belkin",
+	"pid": "39074",
+	"pname": "Crock-Pot Smart Slow Cooker with Wemo ファームウェア",
+	"pcpe": "cpe:/o:belkin:crock-pot_smart_slow_cooker_with_wemo_firmware"
 }

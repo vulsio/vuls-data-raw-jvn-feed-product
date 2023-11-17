@@ -1,8 +1,8 @@
 {
-  "vid": "16438",
-  "vname": "Freenet project",
-  "vcpe": "cpe:/:freenetproject",
-  "pid": "38993",
-  "pname": "Freenet",
-  "pcpe": "cpe:/a:freenetproject:freenet"
+	"vid": "16438",
+	"vname": "Freenet project",
+	"vcpe": "cpe:/:freenetproject",
+	"pid": "38993",
+	"pname": "Freenet",
+	"pcpe": "cpe:/a:freenetproject:freenet"
 }

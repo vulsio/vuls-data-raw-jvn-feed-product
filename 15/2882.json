@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2882",
-  "pname": "Sun Fire",
-  "pcpe": "cpe:/h:oracle:sun_fire"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2882",
+	"pname": "Sun Fire",
+	"pcpe": "cpe:/h:oracle:sun_fire"
 }

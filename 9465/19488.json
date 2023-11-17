@@ -1,8 +1,8 @@
 {
-  "vid": "9465",
-  "vname": "Inmarsat plc.",
-  "vcpe": "cpe:/:inmarsat",
-  "pid": "19488",
-  "pname": "Inmarsat",
-  "pcpe": "cpe:/h:inmarsat:inmarsat"
+	"vid": "9465",
+	"vname": "Inmarsat plc.",
+	"vcpe": "cpe:/:inmarsat",
+	"pid": "19488",
+	"pname": "Inmarsat",
+	"pcpe": "cpe:/h:inmarsat:inmarsat"
 }

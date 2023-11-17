@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "41845",
-  "pname": "Xeon E-2276M ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_e-2276m_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "41845",
+	"pname": "Xeon E-2276M ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_e-2276m_firmware"
 }

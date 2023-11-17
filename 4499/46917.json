@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "46917",
-  "pname": "C 言語コントローラ用設定・モニタツール",
-  "pcpe": "cpe:/a:mitsubishielectric:c_controller_module_setting_and_monitoring_tool"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "46917",
+	"pname": "C 言語コントローラ用設定・モニタツール",
+	"pcpe": "cpe:/a:mitsubishielectric:c_controller_module_setting_and_monitoring_tool"
 }

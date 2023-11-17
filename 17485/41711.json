@@ -1,8 +1,8 @@
 {
-  "vid": "17485",
-  "vname": "klib project",
-  "vcpe": "cpe:/:klibc_project",
-  "pid": "41711",
-  "pname": "klibc",
-  "pcpe": "cpe:/a:klibc_project:klibc"
+	"vid": "17485",
+	"vname": "klib project",
+	"vcpe": "cpe:/:klibc_project",
+	"pid": "41711",
+	"pname": "klibc",
+	"pcpe": "cpe:/a:klibc_project:klibc"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "868",
-  "vname": "PrestaShop",
-  "vcpe": "cpe:/:prestashop",
-  "pid": "47773",
-  "pname": "Product Comments",
-  "pcpe": "cpe:/a:prestashop:product_comments"
+	"vid": "868",
+	"vname": "PrestaShop",
+	"vcpe": "cpe:/:prestashop",
+	"pid": "47773",
+	"pname": "Product Comments",
+	"pcpe": "cpe:/a:prestashop:product_comments"
 }

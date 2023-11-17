@@ -1,8 +1,8 @@
 {
-  "vid": "6526",
-  "vname": "Proc::ProcessTable",
-  "vcpe": "cpe:/:frii",
-  "pid": "13103",
-  "pname": "Proc::ProcessTable",
-  "pcpe": "cpe:/a:frii:proc%3A%3Aprocesstable"
+	"vid": "6526",
+	"vname": "Proc::ProcessTable",
+	"vcpe": "cpe:/:frii",
+	"pid": "13103",
+	"pname": "Proc::ProcessTable",
+	"pcpe": "cpe:/a:frii:proc%3A%3Aprocesstable"
 }

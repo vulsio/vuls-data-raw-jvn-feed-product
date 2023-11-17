@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "613",
-  "pname": "MGC",
-  "pcpe": "cpe:/h:polycom:mgc"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "613",
+	"pname": "MGC",
+	"pcpe": "cpe:/h:polycom:mgc"
 }

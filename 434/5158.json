@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "5158",
-  "pname": "EMC Documentum Information Rights Management",
-  "pcpe": "cpe:/a:emc:documentum_information_rights_management"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "5158",
+	"pname": "EMC Documentum Information Rights Management",
+	"pcpe": "cpe:/a:emc:documentum_information_rights_management"
 }

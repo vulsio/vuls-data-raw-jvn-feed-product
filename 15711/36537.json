@@ -1,8 +1,8 @@
 {
-  "vid": "15711",
-  "vname": "Anker Innovations Limited",
-  "vcpe": "cpe:/:anker",
-  "pid": "36537",
-  "pname": "Anker Capsule Projector ファームウェア",
-  "pcpe": "cpe:/o:anker:nebula_capsule_projector_firmware"
+	"vid": "15711",
+	"vname": "Anker Innovations Limited",
+	"vcpe": "cpe:/:anker",
+	"pid": "36537",
+	"pname": "Anker Capsule Projector ファームウェア",
+	"pcpe": "cpe:/o:anker:nebula_capsule_projector_firmware"
 }

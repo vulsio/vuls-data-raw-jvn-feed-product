@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "13042",
-  "pname": "IBM System x3850",
-  "pcpe": "cpe:/h:ibm:x3850"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "13042",
+	"pname": "IBM System x3850",
+	"pcpe": "cpe:/h:ibm:x3850"
 }

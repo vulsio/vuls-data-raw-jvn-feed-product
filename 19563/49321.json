@@ -1,8 +1,8 @@
 {
-  "vid": "19563",
-  "vname": "Keymaker project",
-  "vcpe": "cpe:/:keymaker_project",
-  "pid": "49321",
-  "pname": "Keymaker",
-  "pcpe": "cpe:/a:keymaker_project:keymaker"
+	"vid": "19563",
+	"vname": "Keymaker project",
+	"vcpe": "cpe:/:keymaker_project",
+	"pid": "49321",
+	"pname": "Keymaker",
+	"pcpe": "cpe:/a:keymaker_project:keymaker"
 }

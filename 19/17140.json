@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17140",
-  "pname": "Cisco uBR10012 シリーズ ユニバーサル ブロードバンド ルータ",
-  "pcpe": "cpe:/h:cisco:ubr10012"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17140",
+	"pname": "Cisco uBR10012 シリーズ ユニバーサル ブロードバンド ルータ",
+	"pcpe": "cpe:/h:cisco:ubr10012"
 }

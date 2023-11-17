@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25567",
-  "pname": "JG861A HP MSR3024 TAA-compliant AC Router",
-  "pcpe": "cpe:/h:hp:jg861a_hp_msr3024_taa-compliant_ac_router"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25567",
+	"pname": "JG861A HP MSR3024 TAA-compliant AC Router",
+	"pcpe": "cpe:/h:hp:jg861a_hp_msr3024_taa-compliant_ac_router"
 }

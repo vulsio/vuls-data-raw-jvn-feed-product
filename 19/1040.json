@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "1040",
-  "pname": "Cisco Catalyst 4500 シリーズ",
-  "pcpe": "cpe:/h:cisco:catalyst_4500"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "1040",
+	"pname": "Cisco Catalyst 4500 シリーズ",
+	"pcpe": "cpe:/h:cisco:catalyst_4500"
 }

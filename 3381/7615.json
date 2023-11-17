@@ -1,8 +1,8 @@
 {
-  "vid": "3381",
-  "vname": "easebay resources",
-  "vcpe": "cpe:/:easebay_resources",
-  "pid": "7615",
-  "pname": "paypal subscription manager",
-  "pcpe": "cpe:/a:easebay_resources:paypal_subscription_manager"
+	"vid": "3381",
+	"vname": "easebay resources",
+	"vcpe": "cpe:/:easebay_resources",
+	"pid": "7615",
+	"pname": "paypal subscription manager",
+	"pcpe": "cpe:/a:easebay_resources:paypal_subscription_manager"
 }

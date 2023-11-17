@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "36431",
-  "pname": "ZXR10 8905E ファームウェア",
-  "pcpe": "cpe:/o:zte:zxr10_8905e_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "36431",
+	"pname": "ZXR10 8905E ファームウェア",
+	"pcpe": "cpe:/o:zte:zxr10_8905e_firmware"
 }

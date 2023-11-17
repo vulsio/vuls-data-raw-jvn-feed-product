@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "28833",
-  "pname": "libcroco",
-  "pcpe": "cpe:/a:gnome:libcroco"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "28833",
+	"pname": "libcroco",
+	"pcpe": "cpe:/a:gnome:libcroco"
 }

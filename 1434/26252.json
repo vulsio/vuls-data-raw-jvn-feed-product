@@ -1,8 +1,8 @@
 {
-  "vid": "1434",
-  "vname": "Doctrine Project",
-  "vcpe": "cpe:/:doctrine-project",
-  "pid": "26252",
-  "pname": "ORM",
-  "pcpe": "cpe:/a:doctrine-project:object_relational_mapper"
+	"vid": "1434",
+	"vname": "Doctrine Project",
+	"vcpe": "cpe:/:doctrine-project",
+	"pid": "26252",
+	"pname": "ORM",
+	"pcpe": "cpe:/a:doctrine-project:object_relational_mapper"
 }

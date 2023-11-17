@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38409",
-  "pname": "FirePower 2100 ファームウェア",
-  "pcpe": "cpe:/o:cisco:firepower_2100_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38409",
+	"pname": "FirePower 2100 ファームウェア",
+	"pcpe": "cpe:/o:cisco:firepower_2100_firmware"
 }

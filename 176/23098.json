@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "23098",
-  "pname": "CentreCOM AR450S ファームウェア",
-  "pcpe": "cpe:/o:allied_telesis_k.k.:centrecom_ar450s_firmware"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "23098",
+	"pname": "CentreCOM AR450S ファームウェア",
+	"pcpe": "cpe:/o:allied_telesis_k.k.:centrecom_ar450s_firmware"
 }

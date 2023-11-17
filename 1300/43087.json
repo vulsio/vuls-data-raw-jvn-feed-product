@@ -1,8 +1,8 @@
 {
-  "vid": "1300",
-  "vname": "Norman",
-  "vcpe": "cpe:/:norman",
-  "pid": "43087",
-  "pname": "Malware Cleaner",
-  "pcpe": "cpe:/a:norman:malware_cleaner"
+	"vid": "1300",
+	"vname": "Norman",
+	"vcpe": "cpe:/:norman",
+	"pid": "43087",
+	"pname": "Malware Cleaner",
+	"pcpe": "cpe:/a:norman:malware_cleaner"
 }

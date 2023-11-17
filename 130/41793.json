@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "41793",
-  "pname": "Intel Xeon 8280L ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_platinum_8280l_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "41793",
+	"pname": "Intel Xeon 8280L ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_platinum_8280l_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10269",
-  "vname": "shim project",
-  "vcpe": "cpe:/:shim_project",
-  "pid": "21515",
-  "pname": "shim",
-  "pcpe": "cpe:/a:shim_project:shim"
+	"vid": "10269",
+	"vname": "shim project",
+	"vcpe": "cpe:/:shim_project",
+	"pid": "21515",
+	"pname": "shim",
+	"pcpe": "cpe:/a:shim_project:shim"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17854",
-  "vname": "CIRCL",
-  "vcpe": "cpe:/:circl",
-  "pid": "54938",
-  "pname": "cve-search",
-  "pcpe": "cpe:/a:circl:cve-search"
+	"vid": "17854",
+	"vname": "CIRCL",
+	"vcpe": "cpe:/:circl",
+	"pid": "54938",
+	"pname": "cve-search",
+	"pcpe": "cpe:/a:circl:cve-search"
 }

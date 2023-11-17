@@ -1,8 +1,8 @@
 {
-  "vid": "14681",
-  "vname": "Block.one",
-  "vcpe": "cpe:/:block",
-  "pid": "34407",
-  "pname": "EOS.IO",
-  "pcpe": "cpe:/a:block:eos"
+	"vid": "14681",
+	"vname": "Block.one",
+	"vcpe": "cpe:/:block",
+	"pid": "34407",
+	"pname": "EOS.IO",
+	"pcpe": "cpe:/a:block:eos"
 }

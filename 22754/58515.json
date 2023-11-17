@@ -1,8 +1,8 @@
 {
-  "vid": "22754",
-  "vname": "i3international",
-  "vcpe": "cpe:/:i3international",
-  "pid": "58515",
-  "pname": "ax78 ファームウェア",
-  "pcpe": "cpe:/o:i3international:ax78_firmware"
+	"vid": "22754",
+	"vname": "i3international",
+	"vcpe": "cpe:/:i3international",
+	"pid": "58515",
+	"pname": "ax78 ファームウェア",
+	"pcpe": "cpe:/o:i3international:ax78_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20736",
-  "vname": "MotoPress",
-  "vcpe": "cpe:/:motopress",
-  "pid": "52908",
-  "pname": "Timetable and Event Schedule",
-  "pcpe": "cpe:/a:motopress:timetable_and_event_schedule"
+	"vid": "20736",
+	"vname": "MotoPress",
+	"vcpe": "cpe:/:motopress",
+	"pid": "52908",
+	"pname": "Timetable and Event Schedule",
+	"pcpe": "cpe:/a:motopress:timetable_and_event_schedule"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13389",
-  "vname": "AutomationDirect",
-  "vcpe": "cpe:/:automationdirect",
-  "pid": "31290",
-  "pname": "SL-SOFT SOLO Temperature Controller Configuration Software",
-  "pcpe": "cpe:/o:automationdirect:sl-soft_solo_temperature_controller_firmware"
+	"vid": "13389",
+	"vname": "AutomationDirect",
+	"vcpe": "cpe:/:automationdirect",
+	"pid": "31290",
+	"pname": "SL-SOFT SOLO Temperature Controller Configuration Software",
+	"pcpe": "cpe:/o:automationdirect:sl-soft_solo_temperature_controller_firmware"
 }

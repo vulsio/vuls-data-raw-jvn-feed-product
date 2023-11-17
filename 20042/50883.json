@@ -1,8 +1,8 @@
 {
-  "vid": "20042",
-  "vname": "Versa Networks, Inc.",
-  "vcpe": "cpe:/:versa-networks",
-  "pid": "50883",
-  "pname": "Versa Analytics",
-  "pcpe": "cpe:/a:versa-networks:versa_analytics"
+	"vid": "20042",
+	"vname": "Versa Networks, Inc.",
+	"vcpe": "cpe:/:versa-networks",
+	"pid": "50883",
+	"pname": "Versa Analytics",
+	"pcpe": "cpe:/a:versa-networks:versa_analytics"
 }

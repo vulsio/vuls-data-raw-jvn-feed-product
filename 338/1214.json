@@ -1,8 +1,8 @@
 {
-  "vid": "338",
-  "vname": "LibTIFF",
-  "vcpe": "cpe:/:libtiff_project",
-  "pid": "1214",
-  "pname": "LibTIFF",
-  "pcpe": "cpe:/a:libtiff_project:libtiff"
+	"vid": "338",
+	"vname": "LibTIFF",
+	"vcpe": "cpe:/:libtiff_project",
+	"pid": "1214",
+	"pname": "LibTIFF",
+	"pcpe": "cpe:/a:libtiff_project:libtiff"
 }

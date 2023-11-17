@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27871",
-  "pname": "IBM Tivoli Storage Manager for Virtual Environments: Data Protection for Vmware",
-  "pcpe": "cpe:/a:ibm:tivoli_storage_manager_for_virtual_environments_data_protection_for_vmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27871",
+	"pname": "IBM Tivoli Storage Manager for Virtual Environments: Data Protection for Vmware",
+	"pcpe": "cpe:/a:ibm:tivoli_storage_manager_for_virtual_environments_data_protection_for_vmware"
 }

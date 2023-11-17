@@ -1,8 +1,8 @@
 {
-  "vid": "13631",
-  "vname": "Parity Technologies",
-  "vcpe": "cpe:/:parity",
-  "pid": "52748",
-  "pname": "Frontier",
-  "pcpe": "cpe:/a:parity:frontier"
+	"vid": "13631",
+	"vname": "Parity Technologies",
+	"vcpe": "cpe:/:parity",
+	"pid": "52748",
+	"pname": "Frontier",
+	"pcpe": "cpe:/a:parity:frontier"
 }

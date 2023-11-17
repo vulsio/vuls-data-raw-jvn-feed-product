@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "23059",
-  "pname": "iDRAC6 MODULAR",
-  "pcpe": "cpe:/a:dell:idrac6_modular"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "23059",
+	"pname": "iDRAC6 MODULAR",
+	"pcpe": "cpe:/a:dell:idrac6_modular"
 }

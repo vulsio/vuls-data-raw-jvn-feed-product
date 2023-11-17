@@ -1,8 +1,8 @@
 {
-  "vid": "4813",
-  "vname": "intermate",
-  "vcpe": "cpe:/:intermate",
-  "pid": "10200",
-  "pname": "winipds",
-  "pcpe": "cpe:/a:intermate:winipds"
+	"vid": "4813",
+	"vname": "intermate",
+	"vcpe": "cpe:/:intermate",
+	"pid": "10200",
+	"pname": "winipds",
+	"pcpe": "cpe:/a:intermate:winipds"
 }

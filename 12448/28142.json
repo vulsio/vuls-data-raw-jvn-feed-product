@@ -1,8 +1,8 @@
 {
-  "vid": "12448",
-  "vname": "libass project",
-  "vcpe": "cpe:/:libass_project",
-  "pid": "28142",
-  "pname": "libass",
-  "pcpe": "cpe:/a:libass_project:libass"
+	"vid": "12448",
+	"vname": "libass project",
+	"vcpe": "cpe:/:libass_project",
+	"pid": "28142",
+	"pname": "libass",
+	"pcpe": "cpe:/a:libass_project:libass"
 }

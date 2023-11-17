@@ -1,8 +1,8 @@
 {
-  "vid": "14145",
-  "vname": "Syntastic project",
-  "vcpe": "cpe:/:syntastic_project",
-  "pid": "33772",
-  "pname": "Syntastic",
-  "pcpe": "cpe:/a:syntastic_project:syntastic"
+	"vid": "14145",
+	"vname": "Syntastic project",
+	"vcpe": "cpe:/:syntastic_project",
+	"pid": "33772",
+	"pname": "Syntastic",
+	"pcpe": "cpe:/a:syntastic_project:syntastic"
 }

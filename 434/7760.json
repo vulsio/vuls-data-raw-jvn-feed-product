@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "7760",
-  "pname": "captiva pixtools distributed imaging",
-  "pcpe": "cpe:/a:emc:captiva_pixtools_distributed_imaging"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "7760",
+	"pname": "captiva pixtools distributed imaging",
+	"pcpe": "cpe:/a:emc:captiva_pixtools_distributed_imaging"
 }

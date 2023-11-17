@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "61080",
-  "pname": "5500NAC2 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:5500nac2_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "61080",
+	"pname": "5500NAC2 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:5500nac2_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11505",
-  "vname": "Ansible",
-  "vcpe": "cpe:/:ansible",
-  "pid": "24591",
-  "pname": "Ansible",
-  "pcpe": "cpe:/a:ansible:ansible"
+	"vid": "11505",
+	"vname": "Ansible",
+	"vcpe": "cpe:/:ansible",
+	"pid": "24591",
+	"pname": "Ansible",
+	"pcpe": "cpe:/a:ansible:ansible"
 }

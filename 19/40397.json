@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "40397",
-  "pname": "Cisco Remote PHY 120 ファームウェア",
-  "pcpe": "cpe:/o:cisco:remote_phy_120_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "40397",
+	"pname": "Cisco Remote PHY 120 ファームウェア",
+	"pcpe": "cpe:/o:cisco:remote_phy_120_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "4677",
-  "pname": "Mojarra",
-  "pcpe": "cpe:/a:oracle:mojarra"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "4677",
+	"pname": "Mojarra",
+	"pcpe": "cpe:/a:oracle:mojarra"
 }

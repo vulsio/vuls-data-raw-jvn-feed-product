@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "31702",
-  "pname": "Red Hat Linux",
-  "pcpe": "cpe:/o:redhat:linux"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "31702",
+	"pname": "Red Hat Linux",
+	"pcpe": "cpe:/o:redhat:linux"
 }

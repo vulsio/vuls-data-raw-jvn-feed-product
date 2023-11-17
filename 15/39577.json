@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "39577",
-  "pname": "Oracle GraalVM",
-  "pcpe": "cpe:/a:oracle:graalvm"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "39577",
+	"pname": "Oracle GraalVM",
+	"pcpe": "cpe:/a:oracle:graalvm"
 }

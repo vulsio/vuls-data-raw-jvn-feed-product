@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "814",
-  "pname": "Sun SEAM",
-  "pcpe": "cpe:/a:sun:seam"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "814",
+	"pname": "Sun SEAM",
+	"pcpe": "cpe:/a:sun:seam"
 }

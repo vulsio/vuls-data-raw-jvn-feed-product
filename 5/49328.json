@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "49328",
-  "pname": "APQ8056",
-  "pcpe": "cpe:/h:qualcomm:apq8056"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "49328",
+	"pname": "APQ8056",
+	"pcpe": "cpe:/h:qualcomm:apq8056"
 }

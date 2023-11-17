@@ -1,8 +1,8 @@
 {
-  "vid": "13206",
-  "vname": "Pure Storage, Inc.",
-  "vcpe": "cpe:/:purestorage",
-  "pid": "61300",
-  "pname": "pure swagger",
-  "pcpe": "cpe:/a:purestorage:pure_swagger"
+	"vid": "13206",
+	"vname": "Pure Storage, Inc.",
+	"vcpe": "cpe:/:purestorage",
+	"pid": "61300",
+	"pname": "pure swagger",
+	"pcpe": "cpe:/a:purestorage:pure_swagger"
 }

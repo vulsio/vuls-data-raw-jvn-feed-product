@@ -1,8 +1,8 @@
 {
-  "vid": "11774",
-  "vname": "Job Fair project",
-  "vcpe": "cpe:/:job_fair_project",
-  "pid": "24310",
-  "pname": "Job Fair",
-  "pcpe": "cpe:/a:job_fair_project:job_fair"
+	"vid": "11774",
+	"vname": "Job Fair project",
+	"vcpe": "cpe:/:job_fair_project",
+	"pid": "24310",
+	"pname": "Job Fair",
+	"pcpe": "cpe:/a:job_fair_project:job_fair"
 }

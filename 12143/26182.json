@@ -1,8 +1,8 @@
 {
-  "vid": "12143",
-  "vname": "MEDHOST, Inc.",
-  "vcpe": "cpe:/:medhost",
-  "pid": "26182",
-  "pname": "MEDHOST Perioperative Information Management System",
-  "pcpe": "cpe:/a:medhost:perioperative_information_management_system"
+	"vid": "12143",
+	"vname": "MEDHOST, Inc.",
+	"vcpe": "cpe:/:medhost",
+	"pid": "26182",
+	"pname": "MEDHOST Perioperative Information Management System",
+	"pcpe": "cpe:/a:medhost:perioperative_information_management_system"
 }

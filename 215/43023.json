@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "43023",
-  "pname": "HDX Video End Points",
-  "pcpe": "cpe:/a:polycom:hdx_video_end_points"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "43023",
+	"pname": "HDX Video End Points",
+	"pcpe": "cpe:/a:polycom:hdx_video_end_points"
 }

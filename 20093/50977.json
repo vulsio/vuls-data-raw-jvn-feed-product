@@ -1,8 +1,8 @@
 {
-  "vid": "20093",
-  "vname": "2ndQuadrant Ltd.",
-  "vcpe": "cpe:/:2ndquadrant",
-  "pid": "50977",
-  "pname": "pglogical",
-  "pcpe": "cpe:/a:2ndquadrant:pglogical"
+	"vid": "20093",
+	"vname": "2ndQuadrant Ltd.",
+	"vcpe": "cpe:/:2ndquadrant",
+	"pid": "50977",
+	"pname": "pglogical",
+	"pcpe": "cpe:/a:2ndquadrant:pglogical"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "44185",
-  "pname": "Apache Druid",
-  "pcpe": "cpe:/a:apache:druid"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "44185",
+	"pname": "Apache Druid",
+	"pcpe": "cpe:/a:apache:druid"
 }

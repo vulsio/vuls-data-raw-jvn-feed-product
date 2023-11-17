@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "55906",
-  "pname": "SD4 ファームウェア",
-  "pcpe": "cpe:/o:ge:sd4_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "55906",
+	"pname": "SD4 ファームウェア",
+	"pcpe": "cpe:/o:ge:sd4_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21545",
-  "vname": "Vitals ESP",
-  "vcpe": "cpe:/:vitalsesp",
-  "pid": "55375",
-  "pname": "Vitals ESP",
-  "pcpe": "cpe:/a:vitalsesp:vitals_esp"
+	"vid": "21545",
+	"vname": "Vitals ESP",
+	"vcpe": "cpe:/:vitalsesp",
+	"pid": "55375",
+	"pname": "Vitals ESP",
+	"pcpe": "cpe:/a:vitalsesp:vitals_esp"
 }

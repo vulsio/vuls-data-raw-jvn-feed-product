@@ -1,8 +1,8 @@
 {
-  "vid": "20466",
-  "vname": "2N",
-  "vcpe": "cpe:/:2n",
-  "pid": "52121",
-  "pname": "Access Unit 2.0 ファームウェア",
-  "pcpe": "cpe:/o:2n:access_unit_2.0_firmware"
+	"vid": "20466",
+	"vname": "2N",
+	"vcpe": "cpe:/:2n",
+	"pid": "52121",
+	"pname": "Access Unit 2.0 ファームウェア",
+	"pcpe": "cpe:/o:2n:access_unit_2.0_firmware"
 }

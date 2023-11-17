@@ -1,8 +1,8 @@
 {
-  "vid": "19081",
-  "vname": "Hillrom",
-  "vcpe": "cpe:/:hillrom",
-  "pid": "50164",
-  "pname": "Welch Allyn R-Scribe Resting ECG System",
-  "pcpe": "cpe:/a:hillrom:hillrom_welch_allyn_r-scribe_resting_ecg_system"
+	"vid": "19081",
+	"vname": "Hillrom",
+	"vcpe": "cpe:/:hillrom",
+	"pid": "50164",
+	"pname": "Welch Allyn R-Scribe Resting ECG System",
+	"pcpe": "cpe:/a:hillrom:hillrom_welch_allyn_r-scribe_resting_ecg_system"
 }

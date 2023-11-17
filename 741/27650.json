@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "27650",
-  "pname": "DGS-1100-26MP",
-  "pcpe": "cpe:/h:dlink:dgs-1100-26mp"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "27650",
+	"pname": "DGS-1100-26MP",
+	"pcpe": "cpe:/h:dlink:dgs-1100-26mp"
 }

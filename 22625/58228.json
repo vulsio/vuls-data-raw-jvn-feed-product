@@ -1,8 +1,8 @@
 {
-  "vid": "22625",
-  "vname": "Custom Content Shortcode project",
-  "vcpe": "cpe:/:custom_content_shortcode_project",
-  "pid": "58228",
-  "pname": "Custom Content Shortcode",
-  "pcpe": "cpe:/a:custom_content_shortcode_project:custom_content_shortcode"
+	"vid": "22625",
+	"vname": "Custom Content Shortcode project",
+	"vcpe": "cpe:/:custom_content_shortcode_project",
+	"pid": "58228",
+	"pname": "Custom Content Shortcode",
+	"pcpe": "cpe:/a:custom_content_shortcode_project:custom_content_shortcode"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10362",
-  "vname": "Axel Kittenberger",
-  "vcpe": "cpe:/:lsyncd_project",
-  "pid": "21773",
-  "pname": "lsyncd",
-  "pcpe": "cpe:/a:lsyncd_project:lsyncd"
+	"vid": "10362",
+	"vname": "Axel Kittenberger",
+	"vcpe": "cpe:/:lsyncd_project",
+	"pid": "21773",
+	"pname": "lsyncd",
+	"pcpe": "cpe:/a:lsyncd_project:lsyncd"
 }

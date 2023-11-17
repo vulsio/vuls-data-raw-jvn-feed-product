@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "4002",
-  "pname": "ABB Interlink Module",
-  "pcpe": "cpe:/a:abb:interlink_module"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "4002",
+	"pname": "ABB Interlink Module",
+	"pcpe": "cpe:/a:abb:interlink_module"
 }

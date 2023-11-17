@@ -1,8 +1,8 @@
 {
-  "vid": "16308",
-  "vname": "BPC",
-  "vcpe": "cpe:/:bpcbt",
-  "pid": "62808",
-  "pname": "smartvista cardgen",
-  "pcpe": "cpe:/a:bpcbt:smartvista_cardgen"
+	"vid": "16308",
+	"vname": "BPC",
+	"vcpe": "cpe:/:bpcbt",
+	"pid": "62808",
+	"pname": "smartvista cardgen",
+	"pcpe": "cpe:/a:bpcbt:smartvista_cardgen"
 }

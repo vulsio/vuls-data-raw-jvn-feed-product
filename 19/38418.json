@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38418",
-  "pname": "Cisco Nexus 93180yc Ex ファームウェア",
-  "pcpe": "cpe:/o:cisco:nexus_93180yc-ex_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38418",
+	"pname": "Cisco Nexus 93180yc Ex ファームウェア",
+	"pcpe": "cpe:/o:cisco:nexus_93180yc-ex_firmware"
 }

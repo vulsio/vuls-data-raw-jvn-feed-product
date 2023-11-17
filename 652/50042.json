@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "50042",
-  "pname": "Gallery",
-  "pcpe": "cpe:/a:samsung:gallery"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "50042",
+	"pname": "Gallery",
+	"pcpe": "cpe:/a:samsung:gallery"
 }

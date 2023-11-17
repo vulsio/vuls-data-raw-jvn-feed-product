@@ -1,8 +1,8 @@
 {
-  "vid": "6645",
-  "vname": "Mcrypt",
-  "vcpe": "cpe:/:mcrypt",
-  "pid": "13326",
-  "pname": "Mcrypt",
-  "pcpe": "cpe:/a:mcrypt:mcrypt"
+	"vid": "6645",
+	"vname": "Mcrypt",
+	"vcpe": "cpe:/:mcrypt",
+	"pid": "13326",
+	"pname": "Mcrypt",
+	"pcpe": "cpe:/a:mcrypt:mcrypt"
 }

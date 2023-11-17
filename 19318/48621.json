@@ -1,8 +1,8 @@
 {
-  "vid": "19318",
-  "vname": "QuantConnect",
-  "vcpe": "cpe:/:quantconnect",
-  "pid": "48621",
-  "pname": "Lean",
-  "pcpe": "cpe:/a:quantconnect:lean"
+	"vid": "19318",
+	"vname": "QuantConnect",
+	"vcpe": "cpe:/:quantconnect",
+	"pid": "48621",
+	"pname": "Lean",
+	"pcpe": "cpe:/a:quantconnect:lean"
 }

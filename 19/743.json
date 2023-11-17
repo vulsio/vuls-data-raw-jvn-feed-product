@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "743",
-  "pname": "WS-X6608-T1",
-  "pcpe": "cpe:/h:cisco:ws-x6608-t1"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "743",
+	"pname": "WS-X6608-T1",
+	"pcpe": "cpe:/h:cisco:ws-x6608-t1"
 }

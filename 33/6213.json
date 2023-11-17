@@ -1,8 +1,8 @@
 {
-  "vid": "33",
-  "vname": "BEAシステムズ",
-  "vcpe": "cpe:/:bea",
-  "pid": "6213",
-  "pname": "weblogic workshop",
-  "pcpe": "cpe:/a:bea:weblogic_workshop"
+	"vid": "33",
+	"vname": "BEAシステムズ",
+	"vcpe": "cpe:/:bea",
+	"pid": "6213",
+	"pname": "weblogic workshop",
+	"pcpe": "cpe:/a:bea:weblogic_workshop"
 }

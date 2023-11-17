@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63416",
-  "pname": "HP Z2 Tower G4 Workstation ファームウェア",
-  "pcpe": "cpe:/o:hp:z2_tower_g4_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63416",
+	"pname": "HP Z2 Tower G4 Workstation ファームウェア",
+	"pcpe": "cpe:/o:hp:z2_tower_g4_firmware"
 }

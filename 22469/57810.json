@@ -1,8 +1,8 @@
 {
-  "vid": "22469",
-  "vname": "simple-git project",
-  "vcpe": "cpe:/:simple-git_project",
-  "pid": "57810",
-  "pname": "simple-git",
-  "pcpe": "cpe:/a:simple-git_project:simple-git"
+	"vid": "22469",
+	"vname": "simple-git project",
+	"vcpe": "cpe:/:simple-git_project",
+	"pid": "57810",
+	"pname": "simple-git",
+	"pcpe": "cpe:/a:simple-git_project:simple-git"
 }

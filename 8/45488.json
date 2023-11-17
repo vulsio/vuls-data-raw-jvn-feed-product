@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "45488",
-  "pname": "skywalking",
-  "pcpe": "cpe:/a:apache:skywalking"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "45488",
+	"pname": "skywalking",
+	"pcpe": "cpe:/a:apache:skywalking"
 }

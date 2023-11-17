@@ -1,8 +1,8 @@
 {
-  "vid": "14697",
-  "vname": "ua-parser project",
-  "vcpe": "cpe:/:ua-parser_project",
-  "pid": "34430",
-  "pname": "ua-parser",
-  "pcpe": "cpe:/a:ua-parser_project:ua-parser"
+	"vid": "14697",
+	"vname": "ua-parser project",
+	"vcpe": "cpe:/:ua-parser_project",
+	"pid": "34430",
+	"pname": "ua-parser",
+	"pcpe": "cpe:/a:ua-parser_project:ua-parser"
 }

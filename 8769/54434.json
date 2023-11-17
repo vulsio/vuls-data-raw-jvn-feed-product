@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "54434",
-  "pname": "Ragic Cloud DB",
-  "pcpe": "cpe:/a:qnap:ragic_cloud_db"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "54434",
+	"pname": "Ragic Cloud DB",
+	"pcpe": "cpe:/a:qnap:ragic_cloud_db"
 }

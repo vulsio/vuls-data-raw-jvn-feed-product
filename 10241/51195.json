@@ -1,8 +1,8 @@
 {
-  "vid": "10241",
-  "vname": "FOG Project",
-  "vcpe": "cpe:/:fogproject",
-  "pid": "51195",
-  "pname": "FOGProject",
-  "pcpe": "cpe:/a:fogproject:fogproject"
+	"vid": "10241",
+	"vname": "FOG Project",
+	"vcpe": "cpe:/:fogproject",
+	"pid": "51195",
+	"pname": "FOGProject",
+	"pcpe": "cpe:/a:fogproject:fogproject"
 }

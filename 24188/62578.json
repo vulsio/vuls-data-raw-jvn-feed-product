@@ -1,8 +1,8 @@
 {
-  "vid": "24188",
-  "vname": "msys2",
-  "vcpe": "cpe:/:msys2",
-  "pid": "62578",
-  "pname": "msys2",
-  "pcpe": "cpe:/a:msys2:msys2"
+	"vid": "24188",
+	"vname": "msys2",
+	"vcpe": "cpe:/:msys2",
+	"pid": "62578",
+	"pname": "msys2",
+	"pcpe": "cpe:/a:msys2:msys2"
 }

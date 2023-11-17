@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "30057",
-  "pname": "Storage Manager",
-  "pcpe": "cpe:/a:dell:storage_manager"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "30057",
+	"pname": "Storage Manager",
+	"pcpe": "cpe:/a:dell:storage_manager"
 }

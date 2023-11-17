@@ -1,8 +1,8 @@
 {
-  "vid": "11620",
-  "vname": "エリクソン",
-  "vcpe": "cpe:/:ericsson",
-  "pid": "53070",
-  "pname": "Enterprise Content Management",
-  "pcpe": "cpe:/a:ericsson:enterprise_content_management"
+	"vid": "11620",
+	"vname": "エリクソン",
+	"vcpe": "cpe:/:ericsson",
+	"pid": "53070",
+	"pname": "Enterprise Content Management",
+	"pcpe": "cpe:/a:ericsson:enterprise_content_management"
 }

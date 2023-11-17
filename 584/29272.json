@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29272",
-  "pname": "SINUMERIK 808D Programming Tool",
-  "pcpe": "cpe:/a:siemens:sinumerik_808d_programming_tool"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29272",
+	"pname": "SINUMERIK 808D Programming Tool",
+	"pcpe": "cpe:/a:siemens:sinumerik_808d_programming_tool"
 }

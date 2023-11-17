@@ -1,8 +1,8 @@
 {
-  "vid": "16533",
-  "vname": "Sick",
-  "vcpe": "cpe:/:sick",
-  "pid": "64145",
-  "pname": "flx3-cpuc2 ファームウェア",
-  "pcpe": "cpe:/o:sick:flx3-cpuc2_firmware"
+	"vid": "16533",
+	"vname": "Sick",
+	"vcpe": "cpe:/:sick",
+	"pid": "64145",
+	"pname": "flx3-cpuc2 ファームウェア",
+	"pcpe": "cpe:/o:sick:flx3-cpuc2_firmware"
 }

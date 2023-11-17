@@ -1,8 +1,8 @@
 {
-  "vid": "17042",
-  "vname": "BuddyBoss",
-  "vcpe": "cpe:/:buddyboss",
-  "pid": "56189",
-  "pname": "BuddyBoss Platform",
-  "pcpe": "cpe:/a:buddyboss:buddyboss"
+	"vid": "17042",
+	"vname": "BuddyBoss",
+	"vcpe": "cpe:/:buddyboss",
+	"pid": "56189",
+	"pname": "BuddyBoss Platform",
+	"pcpe": "cpe:/a:buddyboss:buddyboss"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "50852",
-  "pname": "Oracle Healthcare Data Repository",
-  "pcpe": "cpe:/a:oracle:healthcare_data_repository"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "50852",
+	"pname": "Oracle Healthcare Data Repository",
+	"pcpe": "cpe:/a:oracle:healthcare_data_repository"
 }

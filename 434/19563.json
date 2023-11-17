@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "19563",
-  "pname": "RSA BSAFE SSL-J",
-  "pcpe": "cpe:/a:emc:rsa_bsafe_ssl-j"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "19563",
+	"pname": "RSA BSAFE SSL-J",
+	"pcpe": "cpe:/a:emc:rsa_bsafe_ssl-j"
 }

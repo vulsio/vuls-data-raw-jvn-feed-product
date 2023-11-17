@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "20800",
-  "pname": "DI-604+",
-  "pcpe": "cpe:/h:dlink:di-604%2B"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "20800",
+	"pname": "DI-604+",
+	"pcpe": "cpe:/h:dlink:di-604%2B"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "2994",
-  "pname": "Microsoft SharePoint Workspace",
-  "pcpe": "cpe:/a:microsoft:sharepoint_workspace"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "2994",
+	"pname": "Microsoft SharePoint Workspace",
+	"pcpe": "cpe:/a:microsoft:sharepoint_workspace"
 }

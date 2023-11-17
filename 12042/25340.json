@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25340",
-  "pname": "HPE Helion Eucalyptus",
-  "pcpe": "cpe:/a:hp:eucalyptus"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25340",
+	"pname": "HPE Helion Eucalyptus",
+	"pcpe": "cpe:/a:hp:eucalyptus"
 }

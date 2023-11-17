@@ -1,8 +1,8 @@
 {
-  "vid": "12513",
-  "vname": "libevent_project",
-  "vcpe": "cpe:/:libevent_project",
-  "pid": "28425",
-  "pname": "libevent",
-  "pcpe": "cpe:/a:libevent_project:libevent"
+	"vid": "12513",
+	"vname": "libevent_project",
+	"vcpe": "cpe:/:libevent_project",
+	"pid": "28425",
+	"pname": "libevent",
+	"pcpe": "cpe:/a:libevent_project:libevent"
 }

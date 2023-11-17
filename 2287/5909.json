@@ -1,8 +1,8 @@
 {
-  "vid": "2287",
-  "vname": "arctictracker",
-  "vcpe": "cpe:/:arctictracker",
-  "pid": "5909",
-  "pname": "arctic issue tracker",
-  "pcpe": "cpe:/a:arctictracker:arctic_issue_tracker"
+	"vid": "2287",
+	"vname": "arctictracker",
+	"vcpe": "cpe:/:arctictracker",
+	"pid": "5909",
+	"pname": "arctic issue tracker",
+	"pcpe": "cpe:/a:arctictracker:arctic_issue_tracker"
 }

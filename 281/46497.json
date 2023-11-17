@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "46497",
-  "pname": "Ubuntu UI Toolkit",
-  "pcpe": "cpe:/a:canonical:ubuntu-ui-toolkit"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "46497",
+	"pname": "Ubuntu UI Toolkit",
+	"pcpe": "cpe:/a:canonical:ubuntu-ui-toolkit"
 }

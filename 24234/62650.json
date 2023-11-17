@@ -1,8 +1,8 @@
 {
-  "vid": "24234",
-  "vname": "wp-users-exporter project",
-  "vcpe": "cpe:/:wp-users-exporter_project",
-  "pid": "62650",
-  "pname": "wp-users-exporter",
-  "pcpe": "cpe:/a:wp-users-exporter_project:wp-users-exporter"
+	"vid": "24234",
+	"vname": "wp-users-exporter project",
+	"vcpe": "cpe:/:wp-users-exporter_project",
+	"pid": "62650",
+	"pname": "wp-users-exporter",
+	"pcpe": "cpe:/a:wp-users-exporter_project:wp-users-exporter"
 }

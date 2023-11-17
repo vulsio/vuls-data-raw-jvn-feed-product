@@ -1,8 +1,8 @@
 {
-  "vid": "4158",
-  "vname": "valve software",
-  "vcpe": "cpe:/:valvesoftware",
-  "pid": "48187",
-  "pname": "Game Networking Sockets",
-  "pcpe": "cpe:/a:valvesoftware:game_networking_sockets"
+	"vid": "4158",
+	"vname": "valve software",
+	"vcpe": "cpe:/:valvesoftware",
+	"pid": "48187",
+	"pname": "Game Networking Sockets",
+	"pcpe": "cpe:/a:valvesoftware:game_networking_sockets"
 }

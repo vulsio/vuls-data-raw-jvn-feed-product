@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "60581",
-  "pname": "erp localization for cee countries",
-  "pcpe": "cpe:/a:sap:erp_localization_for_cee_countries"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "60581",
+	"pname": "erp localization for cee countries",
+	"pcpe": "cpe:/a:sap:erp_localization_for_cee_countries"
 }

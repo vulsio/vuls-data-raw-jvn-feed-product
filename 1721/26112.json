@@ -1,8 +1,8 @@
 {
-  "vid": "1721",
-  "vname": "SolarWinds",
-  "vcpe": "cpe:/:solarwinds",
-  "pid": "26112",
-  "pname": "Storage Resource Monitor",
-  "pcpe": "cpe:/a:solarwinds:storage_resource_monitor"
+	"vid": "1721",
+	"vname": "SolarWinds",
+	"vcpe": "cpe:/:solarwinds",
+	"pid": "26112",
+	"pname": "Storage Resource Monitor",
+	"pcpe": "cpe:/a:solarwinds:storage_resource_monitor"
 }

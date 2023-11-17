@@ -1,8 +1,8 @@
 {
-  "vid": "12302",
-  "vname": "CodeLathe",
-  "vcpe": "cpe:/:getfilecloud",
-  "pid": "27619",
-  "pname": "FileCloud",
-  "pcpe": "cpe:/a:getfilecloud:filecloud"
+	"vid": "12302",
+	"vname": "CodeLathe",
+	"vcpe": "cpe:/:getfilecloud",
+	"pid": "27619",
+	"pname": "FileCloud",
+	"pcpe": "cpe:/a:getfilecloud:filecloud"
 }

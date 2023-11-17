@@ -1,8 +1,8 @@
 {
-  "vid": "1319",
-  "vname": "クアンタム",
-  "vcpe": "cpe:/:quantum",
-  "pid": "20252",
-  "pname": "Scalar i500 ファームウェア",
-  "pcpe": "cpe:/o:quantum:scalar_i500_firmware"
+	"vid": "1319",
+	"vname": "クアンタム",
+	"vcpe": "cpe:/:quantum",
+	"pid": "20252",
+	"pname": "Scalar i500 ファームウェア",
+	"pcpe": "cpe:/o:quantum:scalar_i500_firmware"
 }

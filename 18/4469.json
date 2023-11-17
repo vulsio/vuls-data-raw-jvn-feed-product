@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4469",
-  "pname": "IBM InfoSphere Information Server",
-  "pcpe": "cpe:/a:ibm:infosphere_information_server"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4469",
+	"pname": "IBM InfoSphere Information Server",
+	"pcpe": "cpe:/a:ibm:infosphere_information_server"
 }

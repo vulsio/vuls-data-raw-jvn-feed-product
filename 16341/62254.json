@@ -1,8 +1,8 @@
 {
-  "vid": "16341",
-  "vname": "Visser Labs",
-  "vcpe": "cpe:/:visser",
-  "pid": "62254",
-  "pname": "Product Importer for WooCommerce",
-  "pcpe": "cpe:/a:visser:woocommerce_-_product_importer"
+	"vid": "16341",
+	"vname": "Visser Labs",
+	"vcpe": "cpe:/:visser",
+	"pid": "62254",
+	"pname": "Product Importer for WooCommerce",
+	"pcpe": "cpe:/a:visser:woocommerce_-_product_importer"
 }

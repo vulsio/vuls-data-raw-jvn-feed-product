@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "58890",
-  "pname": "情報収集ユニット",
-  "pcpe": "cpe:/o:mitsubishielectric:information_gathering_unit"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "58890",
+	"pname": "情報収集ユニット",
+	"pcpe": "cpe:/o:mitsubishielectric:information_gathering_unit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2069",
-  "pname": "Cisco ACE Application Control Engine Module",
-  "pcpe": "cpe:/h:cisco:application_control_engine_module"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2069",
+	"pname": "Cisco ACE Application Control Engine Module",
+	"pcpe": "cpe:/h:cisco:application_control_engine_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "491",
-  "vname": "BitDefender",
-  "vcpe": "cpe:/:bitdefender",
-  "pid": "42957",
-  "pname": "Bitdefender BOX 2 ファームウェア",
-  "pcpe": "cpe:/o:bitdefender:box_2_firmware"
+	"vid": "491",
+	"vname": "BitDefender",
+	"vcpe": "cpe:/:bitdefender",
+	"pid": "42957",
+	"pname": "Bitdefender BOX 2 ファームウェア",
+	"pcpe": "cpe:/o:bitdefender:box_2_firmware"
 }

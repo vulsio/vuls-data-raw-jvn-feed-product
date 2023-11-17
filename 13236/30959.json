@@ -1,8 +1,8 @@
 {
-  "vid": "13236",
-  "vname": "GridGain Systems, Inc.",
-  "vcpe": "cpe:/:gridgain",
-  "pid": "30959",
-  "pname": "GridGain",
-  "pcpe": "cpe:/a:gridgain:gridgain"
+	"vid": "13236",
+	"vname": "GridGain Systems, Inc.",
+	"vcpe": "cpe:/:gridgain",
+	"pid": "30959",
+	"pname": "GridGain",
+	"pcpe": "cpe:/a:gridgain:gridgain"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9967",
-  "vname": "Shenzhen Tenda Technology Co.,Ltd.",
-  "vcpe": "cpe:/:tenda",
-  "pid": "63855",
-  "pname": "ac23 ファームウェア",
-  "pcpe": "cpe:/o:tenda:ac23_firmware"
+	"vid": "9967",
+	"vname": "Shenzhen Tenda Technology Co.,Ltd.",
+	"vcpe": "cpe:/:tenda",
+	"pid": "63855",
+	"pname": "ac23 ファームウェア",
+	"pcpe": "cpe:/o:tenda:ac23_firmware"
 }

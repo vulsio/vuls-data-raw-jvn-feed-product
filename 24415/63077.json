@@ -1,8 +1,8 @@
 {
-  "vid": "24415",
-  "vname": "horizondatasys",
-  "vcpe": "cpe:/:horizondatasys",
-  "pid": "63077",
-  "pname": "uefi bootloader",
-  "pcpe": "cpe:/o:horizondatasys:uefi_bootloader"
+	"vid": "24415",
+	"vname": "horizondatasys",
+	"vcpe": "cpe:/:horizondatasys",
+	"pid": "63077",
+	"pname": "uefi bootloader",
+	"pcpe": "cpe:/o:horizondatasys:uefi_bootloader"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "603",
-  "pname": "PathNavigator",
-  "pcpe": "cpe:/a:polycom:pathnavigator"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "603",
+	"pname": "PathNavigator",
+	"pcpe": "cpe:/a:polycom:pathnavigator"
 }

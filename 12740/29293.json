@@ -1,8 +1,8 @@
 {
-  "vid": "12740",
-  "vname": "GEUTEBRUCK",
-  "vcpe": "cpe:/:geutebrueck",
-  "pid": "29293",
-  "pname": "G-Cam/EFD-2250 ファームウェア",
-  "pcpe": "cpe:/o:geutebrueck:g-cam%2fefd-2250_firmware"
+	"vid": "12740",
+	"vname": "GEUTEBRUCK",
+	"vcpe": "cpe:/:geutebrueck",
+	"pid": "29293",
+	"pname": "G-Cam/EFD-2250 ファームウェア",
+	"pcpe": "cpe:/o:geutebrueck:g-cam%2fefd-2250_firmware"
 }

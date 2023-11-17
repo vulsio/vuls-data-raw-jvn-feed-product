@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "29472",
-  "pname": "Cisco Context Service SDK",
-  "pcpe": "cpe:/a:cisco:context_service_development_kit"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "29472",
+	"pname": "Cisco Context Service SDK",
+	"pcpe": "cpe:/a:cisco:context_service_development_kit"
 }

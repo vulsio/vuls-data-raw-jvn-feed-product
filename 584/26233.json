@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "26233",
-  "pname": "SIPROTEC Compact 7SK80",
-  "pcpe": "cpe:/h:siemens:siprotec_compact_model_7sk81"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "26233",
+	"pname": "SIPROTEC Compact 7SK80",
+	"pcpe": "cpe:/h:siemens:siprotec_compact_model_7sk81"
 }

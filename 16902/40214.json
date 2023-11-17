@@ -1,8 +1,8 @@
 {
-  "vid": "16902",
-  "vname": "Nokogiri project",
-  "vcpe": "cpe:/:nokogiri_project",
-  "pid": "40214",
-  "pname": "Nokogiri",
-  "pcpe": "cpe:/a:nokogiri_project:nokogiri"
+	"vid": "16902",
+	"vname": "Nokogiri project",
+	"vcpe": "cpe:/:nokogiri_project",
+	"pid": "40214",
+	"pname": "Nokogiri",
+	"pcpe": "cpe:/a:nokogiri_project:nokogiri"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26545",
-  "pname": "Oracle Business Intelligence",
-  "pcpe": "cpe:/a:oracle:business_intelligence"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26545",
+	"pname": "Oracle Business Intelligence",
+	"pcpe": "cpe:/a:oracle:business_intelligence"
 }

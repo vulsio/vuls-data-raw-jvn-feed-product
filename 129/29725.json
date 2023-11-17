@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "29725",
-  "pname": "Hitachi Data Ingestor",
-  "pcpe": "cpe:/h:hitachi:hitachi_data_ingestor"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "29725",
+	"pname": "Hitachi Data Ingestor",
+	"pcpe": "cpe:/h:hitachi:hitachi_data_ingestor"
 }

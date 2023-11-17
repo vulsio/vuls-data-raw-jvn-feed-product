@@ -1,8 +1,8 @@
 {
-  "vid": "16478",
-  "vname": "BCN Quark",
-  "vcpe": "cpe:/:bcnquark",
-  "pid": "39176",
-  "pname": "Quarking Password Manager",
-  "pcpe": "cpe:/a:bcnquark:quarking_password_manager"
+	"vid": "16478",
+	"vname": "BCN Quark",
+	"vcpe": "cpe:/:bcnquark",
+	"pid": "39176",
+	"pname": "Quarking Password Manager",
+	"pcpe": "cpe:/a:bcnquark:quarking_password_manager"
 }

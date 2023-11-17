@@ -1,8 +1,8 @@
 {
-  "vid": "7048",
-  "vname": "postguestbook",
-  "vcpe": "cpe:/:postguestbook",
-  "pid": "13957",
-  "pname": "postguestbook",
-  "pcpe": "cpe:/a:postguestbook:postguestbook"
+	"vid": "7048",
+	"vname": "postguestbook",
+	"vcpe": "cpe:/:postguestbook",
+	"pid": "13957",
+	"pname": "postguestbook",
+	"pcpe": "cpe:/a:postguestbook:postguestbook"
 }

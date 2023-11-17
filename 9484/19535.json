@@ -1,8 +1,8 @@
 {
-  "vid": "9484",
-  "vname": "python-bugzilla Project",
-  "vcpe": "cpe:/:python_bugzilla_project",
-  "pid": "19535",
-  "pname": "python-bugzilla",
-  "pcpe": "cpe:/a:python_bugzilla_project:python-bugzilla"
+	"vid": "9484",
+	"vname": "python-bugzilla Project",
+	"vcpe": "cpe:/:python_bugzilla_project",
+	"pid": "19535",
+	"pname": "python-bugzilla",
+	"pcpe": "cpe:/a:python_bugzilla_project:python-bugzilla"
 }

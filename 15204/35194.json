@@ -1,8 +1,8 @@
 {
-  "vid": "15204",
-  "vname": "OpenConext",
-  "vcpe": "cpe:/:openconext",
-  "pid": "35194",
-  "pname": "OpenConext EngineBlock",
-  "pcpe": "cpe:/a:openconext:oopenconext_engineblock"
+	"vid": "15204",
+	"vname": "OpenConext",
+	"vcpe": "cpe:/:openconext",
+	"pid": "35194",
+	"pname": "OpenConext EngineBlock",
+	"pcpe": "cpe:/a:openconext:oopenconext_engineblock"
 }

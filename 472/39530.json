@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "39530",
-  "pname": "PanelView 5510 ファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:panelview_5510_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "39530",
+	"pname": "PanelView 5510 ファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:panelview_5510_firmware"
 }

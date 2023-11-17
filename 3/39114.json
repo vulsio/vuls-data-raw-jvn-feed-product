@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "39114",
-  "pname": "Red Hat Enterprise Linux Atomic Host",
-  "pcpe": "cpe:/a:redhat:enterprise_linux_atomic_host"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "39114",
+	"pname": "Red Hat Enterprise Linux Atomic Host",
+	"pcpe": "cpe:/a:redhat:enterprise_linux_atomic_host"
 }

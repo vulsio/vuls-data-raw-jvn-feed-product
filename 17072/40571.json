@@ -1,8 +1,8 @@
 {
-  "vid": "17072",
-  "vname": "dynamicpress",
-  "vcpe": "cpe:/:dynamicpress",
-  "pid": "40571",
-  "pname": "Neosense",
-  "pcpe": "cpe:/a:dynamicpress:neosense"
+	"vid": "17072",
+	"vname": "dynamicpress",
+	"vcpe": "cpe:/:dynamicpress",
+	"pid": "40571",
+	"pname": "Neosense",
+	"pcpe": "cpe:/a:dynamicpress:neosense"
 }

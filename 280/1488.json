@@ -1,8 +1,8 @@
 {
-  "vid": "280",
-  "vname": "Gentoo Linux",
-  "vcpe": "cpe:/:gentoo",
-  "pid": "1488",
-  "pname": "Gentoo Linux x11-libs/libXfont",
-  "pcpe": "cpe:/o:gentoo:linux_x11-libs"
+	"vid": "280",
+	"vname": "Gentoo Linux",
+	"vcpe": "cpe:/:gentoo",
+	"pid": "1488",
+	"pname": "Gentoo Linux x11-libs/libXfont",
+	"pcpe": "cpe:/o:gentoo:linux_x11-libs"
 }

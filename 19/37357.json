@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "37357",
-  "pname": "Cisco WebEx Business Suite 31",
-  "pcpe": "cpe:/a:cisco:webex_business_suite_31"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "37357",
+	"pname": "Cisco WebEx Business Suite 31",
+	"pcpe": "cpe:/a:cisco:webex_business_suite_31"
 }

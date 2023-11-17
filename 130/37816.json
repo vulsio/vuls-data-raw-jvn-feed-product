@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "37816",
-  "pname": "Intel Silicon Reference ファームウェア",
-  "pcpe": "cpe:/o:intel:silicon_reference_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "37816",
+	"pname": "Intel Silicon Reference ファームウェア",
+	"pcpe": "cpe:/o:intel:silicon_reference_firmware"
 }

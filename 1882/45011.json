@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "45011",
-  "pname": "F680 ファームウェア",
-  "pcpe": "cpe:/o:zte:f680_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "45011",
+	"pname": "F680 ファームウェア",
+	"pcpe": "cpe:/o:zte:f680_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29269",
-  "pname": "STEP 7 - Micro/WIN SMART",
-  "pcpe": "cpe:/a:siemens:simatic_step_7_micro%2fwin_smart"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29269",
+	"pname": "STEP 7 - Micro/WIN SMART",
+	"pcpe": "cpe:/a:siemens:simatic_step_7_micro%2fwin_smart"
 }

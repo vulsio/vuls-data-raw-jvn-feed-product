@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "17554",
-  "pname": "SVN5000",
-  "pcpe": "cpe:/h:huawei:svn5000"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "17554",
+	"pname": "SVN5000",
+	"pcpe": "cpe:/h:huawei:svn5000"
 }

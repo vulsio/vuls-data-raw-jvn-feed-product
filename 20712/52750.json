@@ -1,8 +1,8 @@
 {
-  "vid": "20712",
-  "vname": "PPGo_Job project",
-  "vcpe": "cpe:/:ppgo_jobs_project",
-  "pid": "52750",
-  "pname": "PPGo_Job",
-  "pcpe": "cpe:/a:ppgo_jobs_project:ppgo_jobs"
+	"vid": "20712",
+	"vname": "PPGo_Job project",
+	"vcpe": "cpe:/:ppgo_jobs_project",
+	"pid": "52750",
+	"pname": "PPGo_Job",
+	"pcpe": "cpe:/a:ppgo_jobs_project:ppgo_jobs"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13601",
-  "vname": "NewsBee project",
-  "vcpe": "cpe:/:newsbee_project",
-  "pid": "32195",
-  "pname": "NewsBee CMS",
-  "pcpe": "cpe:/a:newsbee_project:newsbee"
+	"vid": "13601",
+	"vname": "NewsBee project",
+	"vcpe": "cpe:/:newsbee_project",
+	"pid": "32195",
+	"pname": "NewsBee CMS",
+	"pcpe": "cpe:/a:newsbee_project:newsbee"
 }

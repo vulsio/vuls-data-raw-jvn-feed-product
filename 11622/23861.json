@@ -1,8 +1,8 @@
 {
-  "vid": "11622",
-  "vname": "Oxide project",
-  "vcpe": "cpe:/:oxide_project",
-  "pid": "23861",
-  "pname": "Oxide",
-  "pcpe": "cpe:/a:oxide_project:oxide"
+	"vid": "11622",
+	"vname": "Oxide project",
+	"vcpe": "cpe:/:oxide_project",
+	"pid": "23861",
+	"pname": "Oxide",
+	"pcpe": "cpe:/a:oxide_project:oxide"
 }

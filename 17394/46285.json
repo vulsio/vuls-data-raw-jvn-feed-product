@@ -1,8 +1,8 @@
 {
-  "vid": "17394",
-  "vname": "Thales Group",
-  "vcpe": "cpe:/:thalesgroup",
-  "pid": "46285",
-  "pname": "PDS5 ファームウェア",
-  "pcpe": "cpe:/o:thalesgroup:pds5_firmware"
+	"vid": "17394",
+	"vname": "Thales Group",
+	"vcpe": "cpe:/:thalesgroup",
+	"pid": "46285",
+	"pname": "PDS5 ファームウェア",
+	"pcpe": "cpe:/o:thalesgroup:pds5_firmware"
 }

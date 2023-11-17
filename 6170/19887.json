@@ -1,8 +1,8 @@
 {
-  "vid": "6170",
-  "vname": "OrbitScripts",
-  "vcpe": "cpe:/:orbitscripts",
-  "pid": "19887",
-  "pname": "Orbit Open Ad Server",
-  "pcpe": "cpe:/a:orbitscripts:orbit_open_ad_server"
+	"vid": "6170",
+	"vname": "OrbitScripts",
+	"vcpe": "cpe:/:orbitscripts",
+	"pid": "19887",
+	"pname": "Orbit Open Ad Server",
+	"pcpe": "cpe:/a:orbitscripts:orbit_open_ad_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1612",
-  "vname": "netsupport",
-  "vcpe": "cpe:/:netsupport",
-  "pid": "4623",
-  "pname": "netsupport manager agent",
-  "pcpe": "cpe:/a:netsupport:netsupport_manager_agent"
+	"vid": "1612",
+	"vname": "netsupport",
+	"vcpe": "cpe:/:netsupport",
+	"pid": "4623",
+	"pname": "netsupport manager agent",
+	"pcpe": "cpe:/a:netsupport:netsupport_manager_agent"
 }

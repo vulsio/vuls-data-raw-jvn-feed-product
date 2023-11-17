@@ -1,8 +1,8 @@
 {
-  "vid": "10242",
-  "vname": "Websupporter",
-  "vcpe": "cpe:/:websupporter",
-  "pid": "21460",
-  "pname": "WP-AMASIN",
-  "pcpe": "cpe:/a:websupporter:wp_amasin_-_the_amazon_affiliate_shop"
+	"vid": "10242",
+	"vname": "Websupporter",
+	"vcpe": "cpe:/:websupporter",
+	"pid": "21460",
+	"pname": "WP-AMASIN",
+	"pcpe": "cpe:/a:websupporter:wp_amasin_-_the_amazon_affiliate_shop"
 }

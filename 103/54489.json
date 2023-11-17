@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "54489",
-  "pname": "NVIDIA Quadro M1000M",
-  "pcpe": "cpe:/o:nvidia:quadro_m1000m"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "54489",
+	"pname": "NVIDIA Quadro M1000M",
+	"pcpe": "cpe:/o:nvidia:quadro_m1000m"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1444",
-  "vname": "ebay",
-  "vcpe": "cpe:/:ebay",
-  "pid": "4315",
-  "pname": "paypal",
-  "pcpe": "cpe:/a:ebay:paypal"
+	"vid": "1444",
+	"vname": "ebay",
+	"vcpe": "cpe:/:ebay",
+	"pid": "4315",
+	"pname": "paypal",
+	"pcpe": "cpe:/a:ebay:paypal"
 }

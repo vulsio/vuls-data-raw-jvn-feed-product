@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "5087",
-  "pname": "Scalance X414-3E Industrial Ethernet",
-  "pcpe": "cpe:/h:siemens:scalance_x414-3e"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "5087",
+	"pname": "Scalance X414-3E Industrial Ethernet",
+	"pcpe": "cpe:/h:siemens:scalance_x414-3e"
 }

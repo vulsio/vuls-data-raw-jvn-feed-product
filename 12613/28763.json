@@ -1,8 +1,8 @@
 {
-  "vid": "12613",
-  "vname": "Cesanta",
-  "vcpe": "cpe:/:cesanta",
-  "pid": "28763",
-  "pname": "Mongoose OS",
-  "pcpe": "cpe:/o:cesanta:mongoose_os"
+	"vid": "12613",
+	"vname": "Cesanta",
+	"vcpe": "cpe:/:cesanta",
+	"pid": "28763",
+	"pname": "Mongoose OS",
+	"pcpe": "cpe:/o:cesanta:mongoose_os"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19724",
-  "vname": "Clipper project",
-  "vcpe": "cpe:/:clipper_project",
-  "pid": "49730",
-  "pname": "Clipper",
-  "pcpe": "cpe:/a:clipper_project:clipper"
+	"vid": "19724",
+	"vname": "Clipper project",
+	"vcpe": "cpe:/:clipper_project",
+	"pid": "49730",
+	"pname": "Clipper",
+	"pcpe": "cpe:/a:clipper_project:clipper"
 }

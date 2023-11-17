@@ -1,8 +1,8 @@
 {
-  "vid": "17954",
-  "vname": "Fiserv",
-  "vcpe": "cpe:/:fiserv",
-  "pid": "43452",
-  "pname": "Accurate Reconciliation",
-  "pcpe": "cpe:/a:fiserv:accurate_reconciliation"
+	"vid": "17954",
+	"vname": "Fiserv",
+	"vcpe": "cpe:/:fiserv",
+	"pid": "43452",
+	"pname": "Accurate Reconciliation",
+	"pcpe": "cpe:/a:fiserv:accurate_reconciliation"
 }

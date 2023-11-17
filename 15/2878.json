@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2878",
-  "pname": "Oracle GlassFish Server",
-  "pcpe": "cpe:/a:oracle:glassfish_server"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2878",
+	"pname": "Oracle GlassFish Server",
+	"pcpe": "cpe:/a:oracle:glassfish_server"
 }

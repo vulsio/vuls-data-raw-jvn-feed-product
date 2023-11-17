@@ -1,8 +1,8 @@
 {
-  "vid": "19949",
-  "vname": "株式会社キングジム",
-  "vcpe": "cpe:/:misc",
-  "pid": "50426",
-  "pname": "ラベルプリンター「テプラ」 PRO SR5900P 本体ソフトウェア",
-  "pcpe": "cpe:/o:misc:kingjim_label_printer_tepra_pro_sr5900p_software"
+	"vid": "19949",
+	"vname": "株式会社キングジム",
+	"vcpe": "cpe:/:misc",
+	"pid": "50426",
+	"pname": "ラベルプリンター「テプラ」 PRO SR5900P 本体ソフトウェア",
+	"pcpe": "cpe:/o:misc:kingjim_label_printer_tepra_pro_sr5900p_software"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "1303",
-  "pname": "Adobe Connect",
-  "pcpe": "cpe:/a:adobe:connect"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "1303",
+	"pname": "Adobe Connect",
+	"pcpe": "cpe:/a:adobe:connect"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "50903",
-  "pname": "IBM WebSphere Application Server ND",
-  "pcpe": "cpe:/a:ibm:websphere_application_server_nd"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "50903",
+	"pname": "IBM WebSphere Application Server ND",
+	"pcpe": "cpe:/a:ibm:websphere_application_server_nd"
 }

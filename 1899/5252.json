@@ -1,8 +1,8 @@
 {
-  "vid": "1899",
-  "vname": "EFS Technology",
-  "vcpe": "cpe:/:efstechnology",
-  "pid": "5252",
-  "pname": "AutoFORM PDM Archive",
-  "pcpe": "cpe:/a:efstechnology:autoform_pdm_archive"
+	"vid": "1899",
+	"vname": "EFS Technology",
+	"vcpe": "cpe:/:efstechnology",
+	"pid": "5252",
+	"pname": "AutoFORM PDM Archive",
+	"pcpe": "cpe:/a:efstechnology:autoform_pdm_archive"
 }

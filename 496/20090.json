@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "20090",
-  "pname": "BIG-IQ Security",
-  "pcpe": "cpe:/a:f5:big-iq_security"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "20090",
+	"pname": "BIG-IQ Security",
+	"pcpe": "cpe:/a:f5:big-iq_security"
 }

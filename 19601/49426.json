@@ -1,8 +1,8 @@
 {
-  "vid": "19601",
-  "vname": "UCLouvain",
-  "vcpe": "cpe:/:uclouvain",
-  "pid": "49426",
-  "pname": "OpenJPEG",
-  "pcpe": "cpe:/a:uclouvain:openjpeg"
+	"vid": "19601",
+	"vname": "UCLouvain",
+	"vcpe": "cpe:/:uclouvain",
+	"pid": "49426",
+	"pname": "OpenJPEG",
+	"pcpe": "cpe:/a:uclouvain:openjpeg"
 }

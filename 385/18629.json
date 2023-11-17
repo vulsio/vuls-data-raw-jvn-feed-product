@@ -1,8 +1,8 @@
 {
-  "vid": "385",
-  "vname": "株式会社アイ・オー・データ機器",
-  "vcpe": "cpe:/:i-o_data_device",
-  "pid": "18629",
-  "pname": "HDL2-AH シリーズ",
-  "pcpe": "cpe:/h:i-o_data_device:hdl2-ah"
+	"vid": "385",
+	"vname": "株式会社アイ・オー・データ機器",
+	"vcpe": "cpe:/:i-o_data_device",
+	"pid": "18629",
+	"pname": "HDL2-AH シリーズ",
+	"pcpe": "cpe:/h:i-o_data_device:hdl2-ah"
 }

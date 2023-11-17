@@ -1,8 +1,8 @@
 {
-  "vid": "16065",
-  "vname": "Systrome",
-  "vcpe": "cpe:/:systrome",
-  "pid": "37615",
-  "pname": "ISG 600H ファームウェア",
-  "pcpe": "cpe:/o:systrome:isg-600h_firmware"
+	"vid": "16065",
+	"vname": "Systrome",
+	"vcpe": "cpe:/:systrome",
+	"pid": "37615",
+	"pname": "ISG 600H ファームウェア",
+	"pcpe": "cpe:/o:systrome:isg-600h_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31549",
-  "pname": "TL-R478+ ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-r478%2b_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31549",
+	"pname": "TL-R478+ ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-r478%2b_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2704",
-  "vname": "callisto",
-  "vcpe": "cpe:/:callisto",
-  "pid": "6568",
-  "pname": "photoparade player",
-  "pcpe": "cpe:/a:callisto:photoparade_player"
+	"vid": "2704",
+	"vname": "callisto",
+	"vcpe": "cpe:/:callisto",
+	"pid": "6568",
+	"pname": "photoparade player",
+	"pcpe": "cpe:/a:callisto:photoparade_player"
 }

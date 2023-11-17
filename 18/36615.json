@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "36615",
-  "pname": "IBM i2 Enterprise Insight Analysis",
-  "pcpe": "cpe:/a:ibm:i2_enterprise_insight_analysis"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "36615",
+	"pname": "IBM i2 Enterprise Insight Analysis",
+	"pcpe": "cpe:/a:ibm:i2_enterprise_insight_analysis"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22346",
-  "vname": "cybereason",
-  "vcpe": "cpe:/:cybereason",
-  "pid": "57464",
-  "pname": "endpoint detection and response",
-  "pcpe": "cpe:/a:cybereason:endpoint_detection_and_response"
+	"vid": "22346",
+	"vname": "cybereason",
+	"vcpe": "cpe:/:cybereason",
+	"pid": "57464",
+	"pname": "endpoint detection and response",
+	"pcpe": "cpe:/a:cybereason:endpoint_detection_and_response"
 }

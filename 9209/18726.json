@@ -1,8 +1,8 @@
 {
-  "vid": "9209",
-  "vname": "CollectiveAccess",
-  "vcpe": "cpe:/:collectiveaccess",
-  "pid": "18726",
-  "pname": "Providence",
-  "pcpe": "cpe:/a:collectiveaccess:providence"
+	"vid": "9209",
+	"vname": "CollectiveAccess",
+	"vcpe": "cpe:/:collectiveaccess",
+	"pid": "18726",
+	"pname": "Providence",
+	"pcpe": "cpe:/a:collectiveaccess:providence"
 }

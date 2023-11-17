@@ -1,8 +1,8 @@
 {
-  "vid": "20969",
-  "vname": "OpenWay",
-  "vcpe": "cpe:/:openwaygroup",
-  "pid": "53587",
-  "pname": "Way4",
-  "pcpe": "cpe:/a:openwaygroup:way4"
+	"vid": "20969",
+	"vname": "OpenWay",
+	"vcpe": "cpe:/:openwaygroup",
+	"pid": "53587",
+	"pname": "Way4",
+	"pcpe": "cpe:/a:openwaygroup:way4"
 }

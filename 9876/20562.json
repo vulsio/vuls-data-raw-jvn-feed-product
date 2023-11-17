@@ -1,8 +1,8 @@
 {
-  "vid": "9876",
-  "vname": "Polylang project",
-  "vcpe": "cpe:/:polylang_plugin_project",
-  "pid": "20562",
-  "pname": "Polylang",
-  "pcpe": "cpe:/a:polylang_plugin_project:polylang"
+	"vid": "9876",
+	"vname": "Polylang project",
+	"vcpe": "cpe:/:polylang_plugin_project",
+	"pid": "20562",
+	"pname": "Polylang",
+	"pcpe": "cpe:/a:polylang_plugin_project:polylang"
 }

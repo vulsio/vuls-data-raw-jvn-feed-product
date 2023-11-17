@@ -1,8 +1,8 @@
 {
-  "vid": "15885",
-  "vname": "Green Electronics LLC",
-  "vcpe": "cpe:/:rainmachine",
-  "pid": "37056",
-  "pname": "Rainmachine web app",
-  "pcpe": "cpe:/a:rainmachine:rainmachine_web_application"
+	"vid": "15885",
+	"vname": "Green Electronics LLC",
+	"vcpe": "cpe:/:rainmachine",
+	"pid": "37056",
+	"pname": "Rainmachine web app",
+	"pcpe": "cpe:/a:rainmachine:rainmachine_web_application"
 }

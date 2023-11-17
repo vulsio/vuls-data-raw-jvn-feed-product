@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "29534",
-  "pname": "httpd",
-  "pcpe": "cpe:/a:apache:httpd"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "29534",
+	"pname": "httpd",
+	"pcpe": "cpe:/a:apache:httpd"
 }

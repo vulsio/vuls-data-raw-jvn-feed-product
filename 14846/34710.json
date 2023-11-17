@@ -1,8 +1,8 @@
 {
-  "vid": "14846",
-  "vname": "SANDOBA",
-  "vcpe": "cpe:/:sandoba",
-  "pid": "34710",
-  "pname": "CP::Shop",
-  "pcpe": "cpe:/a:sandoba:cp%3a%3ashop"
+	"vid": "14846",
+	"vname": "SANDOBA",
+	"vcpe": "cpe:/:sandoba",
+	"pid": "34710",
+	"pname": "CP::Shop",
+	"pcpe": "cpe:/a:sandoba:cp%3a%3ashop"
 }

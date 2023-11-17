@@ -1,8 +1,8 @@
 {
-  "vid": "15089",
-  "vname": "Momentum Protocol",
-  "vcpe": "cpe:/:momentumprotocol",
-  "pid": "35028",
-  "pname": "MomentumToken",
-  "pcpe": "cpe:/a:momentumprotocol:momentumtoken"
+	"vid": "15089",
+	"vname": "Momentum Protocol",
+	"vcpe": "cpe:/:momentumprotocol",
+	"pid": "35028",
+	"pname": "MomentumToken",
+	"pcpe": "cpe:/a:momentumprotocol:momentumtoken"
 }

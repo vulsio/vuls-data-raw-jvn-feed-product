@@ -1,8 +1,8 @@
 {
-  "vid": "19017",
-  "vname": "ResourceXpress",
-  "vcpe": "cpe:/:resourcexpress",
-  "pid": "47784",
-  "pname": "Qubi3 ファームウェア",
-  "pcpe": "cpe:/o:resourcexpress:qubi3_firmware"
+	"vid": "19017",
+	"vname": "ResourceXpress",
+	"vcpe": "cpe:/:resourcexpress",
+	"pid": "47784",
+	"pname": "Qubi3 ファームウェア",
+	"pcpe": "cpe:/o:resourcexpress:qubi3_firmware"
 }

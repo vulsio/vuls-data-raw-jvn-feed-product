@@ -1,8 +1,8 @@
 {
-  "vid": "9445",
-  "vname": "Enghouse Interactive",
-  "vcpe": "cpe:/:enghouseinteractive",
-  "pid": "41574",
-  "pname": "Web Chat",
-  "pcpe": "cpe:/a:enghouseinteractive:web_chat"
+	"vid": "9445",
+	"vname": "Enghouse Interactive",
+	"vcpe": "cpe:/:enghouseinteractive",
+	"pid": "41574",
+	"pname": "Web Chat",
+	"pcpe": "cpe:/a:enghouseinteractive:web_chat"
 }

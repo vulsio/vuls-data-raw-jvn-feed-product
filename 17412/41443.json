@@ -1,8 +1,8 @@
 {
-  "vid": "17412",
-  "vname": "Ready",
-  "vcpe": "cpe:/:ready",
-  "pid": "41443",
-  "pname": "Wireless Emergency Alerts (WEA)",
-  "pcpe": "cpe:/a:ready:wireless_emergency_alerts"
+	"vid": "17412",
+	"vname": "Ready",
+	"vcpe": "cpe:/:ready",
+	"pid": "41443",
+	"pname": "Wireless Emergency Alerts (WEA)",
+	"pcpe": "cpe:/a:ready:wireless_emergency_alerts"
 }

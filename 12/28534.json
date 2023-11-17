@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "28534",
-  "pname": "Trend Micro Premium Security",
-  "pcpe": "cpe:/a:trendmicro:premium_security"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "28534",
+	"pname": "Trend Micro Premium Security",
+	"pcpe": "cpe:/a:trendmicro:premium_security"
 }

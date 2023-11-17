@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28601",
-  "pname": "NEM-L21 ファームウェア",
-  "pcpe": "cpe:/o:huawei:nem-l21_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28601",
+	"pname": "NEM-L21 ファームウェア",
+	"pcpe": "cpe:/o:huawei:nem-l21_firmware"
 }

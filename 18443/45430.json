@@ -1,8 +1,8 @@
 {
-  "vid": "18443",
-  "vname": "BIOTRONIK",
-  "vcpe": "cpe:/:biotronik",
-  "pid": "45430",
-  "pname": "CardioMessenger II-S GSM ファームウェア",
-  "pcpe": "cpe:/o:biotronik:cardiomessenger_ii-s_gsm_firmware"
+	"vid": "18443",
+	"vname": "BIOTRONIK",
+	"vcpe": "cpe:/:biotronik",
+	"pid": "45430",
+	"pname": "CardioMessenger II-S GSM ファームウェア",
+	"pcpe": "cpe:/o:biotronik:cardiomessenger_ii-s_gsm_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "923",
-  "vname": "Dream Property GmbH",
-  "vcpe": "cpe:/:dream-multimedia-tv",
-  "pid": "3826",
-  "pname": "Enigma2 Webinterface",
-  "pcpe": "cpe:/a:dream-multimedia-tv:enigma2_webinterface"
+	"vid": "923",
+	"vname": "Dream Property GmbH",
+	"vcpe": "cpe:/:dream-multimedia-tv",
+	"pid": "3826",
+	"pname": "Enigma2 Webinterface",
+	"pcpe": "cpe:/a:dream-multimedia-tv:enigma2_webinterface"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9051",
-  "vname": "ヤフー株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "17976",
-  "pname": "Yahoo!ブラウザー",
-  "pcpe": "cpe:/a:misc:yahoo_japan_yahoo_browser"
+	"vid": "9051",
+	"vname": "ヤフー株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "17976",
+	"pname": "Yahoo!ブラウザー",
+	"pcpe": "cpe:/a:misc:yahoo_japan_yahoo_browser"
 }

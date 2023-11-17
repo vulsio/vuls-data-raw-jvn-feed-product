@@ -1,8 +1,8 @@
 {
-  "vid": "19397",
-  "vname": "GoHugo",
-  "vcpe": "cpe:/:gohugo",
-  "pid": "48866",
-  "pname": "Hugo",
-  "pcpe": "cpe:/a:gohugo:hugo"
+	"vid": "19397",
+	"vname": "GoHugo",
+	"vcpe": "cpe:/:gohugo",
+	"pid": "48866",
+	"pname": "Hugo",
+	"pcpe": "cpe:/a:gohugo:hugo"
 }

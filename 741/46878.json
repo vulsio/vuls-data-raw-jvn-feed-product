@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "46878",
-  "pname": "D-Link DAP-1360U",
-  "pcpe": "cpe:/h:dlink:dap-1360u"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "46878",
+	"pname": "D-Link DAP-1360U",
+	"pcpe": "cpe:/h:dlink:dap-1360u"
 }

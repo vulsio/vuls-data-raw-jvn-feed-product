@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "61974",
-  "pname": "checkout",
-  "pcpe": "cpe:/a:samsung:checkout"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "61974",
+	"pname": "checkout",
+	"pcpe": "cpe:/a:samsung:checkout"
 }

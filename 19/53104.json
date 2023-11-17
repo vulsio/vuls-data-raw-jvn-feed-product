@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "53104",
-  "pname": "Cisco Catalyst 9105axi シリーズファームウェア",
-  "pcpe": "cpe:/o:cisco:catalyst_9105axi_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "53104",
+	"pname": "Cisco Catalyst 9105axi シリーズファームウェア",
+	"pcpe": "cpe:/o:cisco:catalyst_9105axi_firmware"
 }

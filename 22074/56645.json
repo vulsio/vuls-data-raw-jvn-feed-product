@@ -1,8 +1,8 @@
 {
-  "vid": "22074",
-  "vname": "Embed Swagger project",
-  "vcpe": "cpe:/:embed_swagger_project",
-  "pid": "56645",
-  "pname": "Embed Swagger",
-  "pcpe": "cpe:/a:embed_swagger_project:embed_swagger"
+	"vid": "22074",
+	"vname": "Embed Swagger project",
+	"vcpe": "cpe:/:embed_swagger_project",
+	"pid": "56645",
+	"pname": "Embed Swagger",
+	"pcpe": "cpe:/a:embed_swagger_project:embed_swagger"
 }

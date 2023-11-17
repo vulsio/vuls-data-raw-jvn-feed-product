@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "9879",
-  "pname": "insight control suite for linux",
-  "pcpe": "cpe:/a:hp:insight_control_suite_for_linux"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "9879",
+	"pname": "insight control suite for linux",
+	"pcpe": "cpe:/a:hp:insight_control_suite_for_linux"
 }

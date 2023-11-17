@@ -1,8 +1,8 @@
 {
-  "vid": "13974",
-  "vname": "Shenzhen coship electronics co.,ltd",
-  "vcpe": "cpe:/:coship",
-  "pid": "38060",
-  "pname": "WM3300 ファームウェア",
-  "pcpe": "cpe:/o:coship:wm3300_firmware"
+	"vid": "13974",
+	"vname": "Shenzhen coship electronics co.,ltd",
+	"vcpe": "cpe:/:coship",
+	"pid": "38060",
+	"pname": "WM3300 ファームウェア",
+	"pcpe": "cpe:/o:coship:wm3300_firmware"
 }

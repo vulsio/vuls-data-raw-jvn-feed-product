@@ -1,8 +1,8 @@
 {
-  "vid": "18255",
-  "vname": "CommScope",
-  "vcpe": "cpe:/:commscope",
-  "pid": "57944",
-  "pname": "arris tr3300 ファームウェア",
-  "pcpe": "cpe:/o:commscope:arris_tr3300_firmware"
+	"vid": "18255",
+	"vname": "CommScope",
+	"vcpe": "cpe:/:commscope",
+	"pid": "57944",
+	"pname": "arris tr3300 ファームウェア",
+	"pcpe": "cpe:/o:commscope:arris_tr3300_firmware"
 }

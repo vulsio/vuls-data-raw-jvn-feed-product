@@ -1,8 +1,8 @@
 {
-  "vid": "13693",
-  "vname": "snapd project",
-  "vcpe": "cpe:/:snapcraft",
-  "pid": "32421",
-  "pname": "snapd",
-  "pcpe": "cpe:/a:snapcraft:snapd"
+	"vid": "13693",
+	"vname": "snapd project",
+	"vcpe": "cpe:/:snapcraft",
+	"pid": "32421",
+	"pname": "snapd",
+	"pcpe": "cpe:/a:snapcraft:snapd"
 }

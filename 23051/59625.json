@@ -1,8 +1,8 @@
 {
-  "vid": "23051",
-  "vname": "openrazer project",
-  "vcpe": "cpe:/:openrazer_project",
-  "pid": "59625",
-  "pname": "openrazer",
-  "pcpe": "cpe:/a:openrazer_project:openrazer"
+	"vid": "23051",
+	"vname": "openrazer project",
+	"vcpe": "cpe:/:openrazer_project",
+	"pid": "59625",
+	"pname": "openrazer",
+	"pcpe": "cpe:/a:openrazer_project:openrazer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6529",
-  "vname": "Sagemcom",
-  "vcpe": "cpe:/:sagem",
-  "pid": "47935",
-  "pname": "F@ST3486 ルータ ファームウェア",
-  "pcpe": "cpe:/o:sagem:f%40st_3486_router_firmware"
+	"vid": "6529",
+	"vname": "Sagemcom",
+	"vcpe": "cpe:/:sagem",
+	"pid": "47935",
+	"pname": "F@ST3486 ルータ ファームウェア",
+	"pcpe": "cpe:/o:sagem:f%40st_3486_router_firmware"
 }

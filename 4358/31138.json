@@ -1,8 +1,8 @@
 {
-  "vid": "4358",
-  "vname": "Korenix Technology",
-  "vcpe": "cpe:/:korenix",
-  "pid": "31138",
-  "pname": "JetNet5310G ファームウェア",
-  "pcpe": "cpe:/o:korenix:jetnet5310g_firmware"
+	"vid": "4358",
+	"vname": "Korenix Technology",
+	"vcpe": "cpe:/:korenix",
+	"pid": "31138",
+	"pname": "JetNet5310G ファームウェア",
+	"pcpe": "cpe:/o:korenix:jetnet5310g_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22812",
-  "vname": "palantir",
-  "vcpe": "cpe:/:palantir",
-  "pid": "64030",
-  "pname": "sls-logging",
-  "pcpe": "cpe:/a:palantir:sls-logging"
+	"vid": "22812",
+	"vname": "palantir",
+	"vcpe": "cpe:/:palantir",
+	"pid": "64030",
+	"pname": "sls-logging",
+	"pcpe": "cpe:/a:palantir:sls-logging"
 }

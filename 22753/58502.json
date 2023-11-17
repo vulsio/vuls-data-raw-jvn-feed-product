@@ -1,8 +1,8 @@
 {
-  "vid": "22753",
-  "vname": "zerotier",
-  "vcpe": "cpe:/:zerotier",
-  "pid": "58502",
-  "pname": "zerotierone",
-  "pcpe": "cpe:/a:zerotier:zerotierone"
+	"vid": "22753",
+	"vname": "zerotier",
+	"vcpe": "cpe:/:zerotier",
+	"pid": "58502",
+	"pname": "zerotierone",
+	"pcpe": "cpe:/a:zerotier:zerotierone"
 }

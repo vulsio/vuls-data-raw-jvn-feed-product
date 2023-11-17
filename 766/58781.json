@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "58781",
-  "pname": "Legacy Modicon Quantum",
-  "pcpe": "cpe:/o:schneider_electric:legacy_modicon_quantum"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "58781",
+	"pname": "Legacy Modicon Quantum",
+	"pcpe": "cpe:/o:schneider_electric:legacy_modicon_quantum"
 }

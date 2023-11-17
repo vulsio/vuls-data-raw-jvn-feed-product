@@ -1,8 +1,8 @@
 {
-  "vid": "479",
-  "vname": "phpBB",
-  "vcpe": "cpe:/:phpbb",
-  "pid": "13604",
-  "pname": "ip-tracking",
-  "pcpe": "cpe:/a:phpbb:ip-tracking"
+	"vid": "479",
+	"vname": "phpBB",
+	"vcpe": "cpe:/:phpbb",
+	"pid": "13604",
+	"pname": "ip-tracking",
+	"pcpe": "cpe:/a:phpbb:ip-tracking"
 }

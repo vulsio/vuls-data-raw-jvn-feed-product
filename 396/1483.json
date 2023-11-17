@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "1483",
-  "pname": "SLE SDK",
-  "pcpe": "cpe:/o:suse:suse_sle_sdk"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "1483",
+	"pname": "SLE SDK",
+	"pcpe": "cpe:/o:suse:suse_sle_sdk"
 }

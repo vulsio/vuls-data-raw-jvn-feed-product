@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "52989",
-  "pname": "SIMATIC RTU3010C ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_rtu3010c_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "52989",
+	"pname": "SIMATIC RTU3010C ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_rtu3010c_firmware"
 }

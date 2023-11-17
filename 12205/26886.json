@@ -1,8 +1,8 @@
 {
-  "vid": "12205",
-  "vname": "AVer Information Inc.",
-  "vcpe": "cpe:/:aver",
-  "pid": "26886",
-  "pname": "EH6108H+ ファームウェア",
-  "pcpe": "cpe:/o:aver:eh6108h%2B_firmware"
+	"vid": "12205",
+	"vname": "AVer Information Inc.",
+	"vcpe": "cpe:/:aver",
+	"pid": "26886",
+	"pname": "EH6108H+ ファームウェア",
+	"pcpe": "cpe:/o:aver:eh6108h%2B_firmware"
 }

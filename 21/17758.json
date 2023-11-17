@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "17758",
-  "pname": "SRX3600",
-  "pcpe": "cpe:/h:juniper:srx3600"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "17758",
+	"pname": "SRX3600",
+	"pcpe": "cpe:/h:juniper:srx3600"
 }

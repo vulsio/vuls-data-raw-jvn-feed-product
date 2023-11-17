@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "54290",
-  "pname": "EPYC 7453 ファームウェア",
-  "pcpe": "cpe:/o:amd:epyc_7453_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "54290",
+	"pname": "EPYC 7453 ファームウェア",
+	"pcpe": "cpe:/o:amd:epyc_7453_firmware"
 }

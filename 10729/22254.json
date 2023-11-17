@@ -1,8 +1,8 @@
 {
-  "vid": "10729",
-  "vname": "tappocket",
-  "vcpe": "cpe:/:tappocket",
-  "pid": "22254",
-  "pname": "dino zoo",
-  "pcpe": "cpe:/a:tappocket:dino_zoo"
+	"vid": "10729",
+	"vname": "tappocket",
+	"vcpe": "cpe:/:tappocket",
+	"pid": "22254",
+	"pname": "dino zoo",
+	"pcpe": "cpe:/a:tappocket:dino_zoo"
 }

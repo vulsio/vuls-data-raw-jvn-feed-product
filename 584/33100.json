@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "33100",
-  "pname": "WinCC OA Mobile UI",
-  "pcpe": "cpe:/a:siemens:simatic_wincc_oa_ui"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "33100",
+	"pname": "WinCC OA Mobile UI",
+	"pcpe": "cpe:/a:siemens:simatic_wincc_oa_ui"
 }

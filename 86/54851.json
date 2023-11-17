@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "54851",
-  "pname": "WSR-3200AX4S ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wsr-3200ax4s_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "54851",
+	"pname": "WSR-3200AX4S ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wsr-3200ax4s_firmware"
 }

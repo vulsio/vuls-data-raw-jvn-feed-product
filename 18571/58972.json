@@ -1,8 +1,8 @@
 {
-  "vid": "18571",
-  "vname": "Encode",
-  "vcpe": "cpe:/:encode",
-  "pid": "58972",
-  "pname": "httpx",
-  "pcpe": "cpe:/a:encode:httpx"
+	"vid": "18571",
+	"vname": "Encode",
+	"vcpe": "cpe:/:encode",
+	"pid": "58972",
+	"pname": "httpx",
+	"pcpe": "cpe:/a:encode:httpx"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "44158",
-  "pname": "SIDOOR ATD430W ファームウェア",
-  "pcpe": "cpe:/o:siemens:sidoor_atd430w_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "44158",
+	"pname": "SIDOOR ATD430W ファームウェア",
+	"pcpe": "cpe:/o:siemens:sidoor_atd430w_firmware"
 }

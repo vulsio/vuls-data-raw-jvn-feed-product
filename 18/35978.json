@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "35978",
-  "pname": "IBM Business Automation Workflow",
-  "pcpe": "cpe:/a:ibm:business_automation_workflow"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "35978",
+	"pname": "IBM Business Automation Workflow",
+	"pcpe": "cpe:/a:ibm:business_automation_workflow"
 }

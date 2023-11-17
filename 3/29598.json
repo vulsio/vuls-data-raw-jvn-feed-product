@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "29598",
-  "pname": "Red Hat Enterprise Virtualization Server",
-  "pcpe": "cpe:/a:redhat:enterprise_virtualization_server"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "29598",
+	"pname": "Red Hat Enterprise Virtualization Server",
+	"pcpe": "cpe:/a:redhat:enterprise_virtualization_server"
 }

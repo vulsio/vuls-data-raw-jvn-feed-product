@@ -1,8 +1,8 @@
 {
-  "vid": "22805",
-  "vname": "carrier",
-  "vcpe": "cpe:/:carrier",
-  "pid": "60388",
-  "pname": "lenels2 lnl-x4420 ファームウェア",
-  "pcpe": "cpe:/o:carrier:lenels2_lnl-x4420_firmware"
+	"vid": "22805",
+	"vname": "carrier",
+	"vcpe": "cpe:/:carrier",
+	"pid": "60388",
+	"pname": "lenels2 lnl-x4420 ファームウェア",
+	"pcpe": "cpe:/o:carrier:lenels2_lnl-x4420_firmware"
 }

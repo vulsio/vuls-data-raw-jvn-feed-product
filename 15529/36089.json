@@ -1,8 +1,8 @@
 {
-  "vid": "15529",
-  "vname": "thePHPfactory",
-  "vcpe": "cpe:/:thephpfactory",
-  "pid": "36089",
-  "pname": "Jobs Factory",
-  "pcpe": "cpe:/a:thephpfactory:jobs_factory"
+	"vid": "15529",
+	"vname": "thePHPfactory",
+	"vcpe": "cpe:/:thephpfactory",
+	"pid": "36089",
+	"pname": "Jobs Factory",
+	"pcpe": "cpe:/a:thephpfactory:jobs_factory"
 }

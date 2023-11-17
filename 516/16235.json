@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "16235",
-  "pname": "wp-contactform",
-  "pcpe": "cpe:/a:wordpress:wp-contactform"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "16235",
+	"pname": "wp-contactform",
+	"pcpe": "cpe:/a:wordpress:wp-contactform"
 }

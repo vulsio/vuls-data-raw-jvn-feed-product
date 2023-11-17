@@ -1,8 +1,8 @@
 {
-  "vid": "504",
-  "vname": "Motorola Solutions, Inc",
-  "vcpe": "cpe:/:motorola",
-  "pid": "44069",
-  "pname": "FX9500-41324D41-US ファームウェア",
-  "pcpe": "cpe:/o:motorola:fx9500-41324d41-us_firmware"
+	"vid": "504",
+	"vname": "Motorola Solutions, Inc",
+	"vcpe": "cpe:/:motorola",
+	"pid": "44069",
+	"pname": "FX9500-41324D41-US ファームウェア",
+	"pcpe": "cpe:/o:motorola:fx9500-41324d41-us_firmware"
 }

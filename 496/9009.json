@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "9009",
-  "pname": "BIG-IP Local Traffic Manager (LTM)",
-  "pcpe": "cpe:/a:f5:big-ip_local_traffic_manager"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "9009",
+	"pname": "BIG-IP Local Traffic Manager (LTM)",
+	"pcpe": "cpe:/a:f5:big-ip_local_traffic_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20737",
-  "vname": "ticket-system",
-  "vcpe": "cpe:/:ticket-system",
-  "pid": "52909",
-  "pname": "WordPress Advanced Ticket System, Elite Support Helpdesk",
-  "pcpe": "cpe:/a:ticket-system:wordpress_advanced_ticket_system"
+	"vid": "20737",
+	"vname": "ticket-system",
+	"vcpe": "cpe:/:ticket-system",
+	"pid": "52909",
+	"pname": "WordPress Advanced Ticket System, Elite Support Helpdesk",
+	"pcpe": "cpe:/a:ticket-system:wordpress_advanced_ticket_system"
 }

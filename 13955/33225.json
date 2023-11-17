@@ -1,8 +1,8 @@
 {
-  "vid": "13955",
-  "vname": "WP Security Audit Log",
-  "vcpe": "cpe:/:wpsecurityauditlog",
-  "pid": "33225",
-  "pname": "WP Security Audit Log",
-  "pcpe": "cpe:/a:wpsecurityauditlog:wp_security_audit_log"
+	"vid": "13955",
+	"vname": "WP Security Audit Log",
+	"vcpe": "cpe:/:wpsecurityauditlog",
+	"pid": "33225",
+	"pname": "WP Security Audit Log",
+	"pcpe": "cpe:/a:wpsecurityauditlog:wp_security_audit_log"
 }

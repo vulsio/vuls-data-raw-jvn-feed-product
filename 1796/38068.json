@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "38068",
-  "pname": "Evera ICD ファームウェア",
-  "pcpe": "cpe:/o:medtronic:evera_icd_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "38068",
+	"pname": "Evera ICD ファームウェア",
+	"pcpe": "cpe:/o:medtronic:evera_icd_firmware"
 }

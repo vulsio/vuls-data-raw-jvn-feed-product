@@ -1,8 +1,8 @@
 {
-  "vid": "3026",
-  "vname": "customerparadigm",
-  "vcpe": "cpe:/:customerparadigm",
-  "pid": "7066",
-  "pname": "pagedirector cms",
-  "pcpe": "cpe:/a:customerparadigm:pagedirector_cms"
+	"vid": "3026",
+	"vname": "customerparadigm",
+	"vcpe": "cpe:/:customerparadigm",
+	"pid": "7066",
+	"pname": "pagedirector cms",
+	"pcpe": "cpe:/a:customerparadigm:pagedirector_cms"
 }

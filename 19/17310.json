@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17310",
-  "pname": "Cisco TelePresence Supervisor MSE 8050",
-  "pcpe": "cpe:/h:cisco:telepresence_supervisor_mse_8050"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17310",
+	"pname": "Cisco TelePresence Supervisor MSE 8050",
+	"pcpe": "cpe:/h:cisco:telepresence_supervisor_mse_8050"
 }

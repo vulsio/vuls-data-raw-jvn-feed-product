@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "55111",
-  "pname": "SG105PE",
-  "pcpe": "cpe:/o:tp-link:sg105pe"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "55111",
+	"pname": "SG105PE",
+	"pcpe": "cpe:/o:tp-link:sg105pe"
 }

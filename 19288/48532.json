@@ -1,8 +1,8 @@
 {
-  "vid": "19288",
-  "vname": "Online Bus Ticket Reservation プロジェクト",
-  "vcpe": "cpe:/:online_bus_ticket_reservation_project",
-  "pid": "48532",
-  "pname": "Online Bus Ticket Reservation",
-  "pcpe": "cpe:/a:online_bus_ticket_reservation_project:online_bus_ticket_reservation"
+	"vid": "19288",
+	"vname": "Online Bus Ticket Reservation プロジェクト",
+	"vcpe": "cpe:/:online_bus_ticket_reservation_project",
+	"pid": "48532",
+	"pname": "Online Bus Ticket Reservation",
+	"pcpe": "cpe:/a:online_bus_ticket_reservation_project:online_bus_ticket_reservation"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13385",
-  "vname": "Fullworks Digital Ltd",
-  "vcpe": "cpe:/:fullworks",
-  "pid": "31279",
-  "pname": "Stop User Enumeration",
-  "pcpe": "cpe:/a:fullworks:stop_user_enumeration"
+	"vid": "13385",
+	"vname": "Fullworks Digital Ltd",
+	"vcpe": "cpe:/:fullworks",
+	"pid": "31279",
+	"pname": "Stop User Enumeration",
+	"pcpe": "cpe:/a:fullworks:stop_user_enumeration"
 }

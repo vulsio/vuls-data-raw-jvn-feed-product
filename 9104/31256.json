@@ -1,8 +1,8 @@
 {
-  "vid": "9104",
-  "vname": "Triangle MicroWorks",
-  "vcpe": "cpe:/:trianglemicroworks",
-  "pid": "31256",
-  "pname": ".Net Protocol Components3",
-  "pcpe": "cpe:/a:trianglemicroworks:.net_communication_protocol_components3"
+	"vid": "9104",
+	"vname": "Triangle MicroWorks",
+	"vcpe": "cpe:/:trianglemicroworks",
+	"pid": "31256",
+	"pname": ".Net Protocol Components3",
+	"pcpe": "cpe:/a:trianglemicroworks:.net_communication_protocol_components3"
 }

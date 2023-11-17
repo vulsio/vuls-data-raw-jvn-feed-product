@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "57607",
-  "pname": "astra trident",
-  "pcpe": "cpe:/a:netapp:astra_trident"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "57607",
+	"pname": "astra trident",
+	"pcpe": "cpe:/a:netapp:astra_trident"
 }

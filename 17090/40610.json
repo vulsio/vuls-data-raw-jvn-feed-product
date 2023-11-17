@@ -1,8 +1,8 @@
 {
-  "vid": "17090",
-  "vname": "TELESTAR",
-  "vcpe": "cpe:/:telestar",
-  "pid": "40610",
-  "pname": "Imperial i200 ファームウェア",
-  "pcpe": "cpe:/o:telestar:imperial_i200_firmware"
+	"vid": "17090",
+	"vname": "TELESTAR",
+	"vcpe": "cpe:/:telestar",
+	"pid": "40610",
+	"pname": "Imperial i200 ファームウェア",
+	"pcpe": "cpe:/o:telestar:imperial_i200_firmware"
 }

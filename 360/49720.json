@@ -1,8 +1,8 @@
 {
-  "vid": "360",
-  "vname": "Ruby on Rails project",
-  "vcpe": "cpe:/:rubyonrails",
-  "pid": "49720",
-  "pname": "activerecord-session_store",
-  "pcpe": "cpe:/a:rubyonrails:active_record_session_store"
+	"vid": "360",
+	"vname": "Ruby on Rails project",
+	"vcpe": "cpe:/:rubyonrails",
+	"pid": "49720",
+	"pname": "activerecord-session_store",
+	"pcpe": "cpe:/a:rubyonrails:active_record_session_store"
 }

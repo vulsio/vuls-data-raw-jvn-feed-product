@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "34611",
-  "pname": "UCS-E160DP-K9 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ucs-e160dp-k9_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "34611",
+	"pname": "UCS-E160DP-K9 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ucs-e160dp-k9_firmware"
 }

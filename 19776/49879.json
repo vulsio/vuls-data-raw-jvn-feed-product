@@ -1,8 +1,8 @@
 {
-  "vid": "19776",
-  "vname": "apple/swift-format project",
-  "vcpe": "cpe:/:apple-swift-format_project",
-  "pid": "49879",
-  "pname": "apple/swift-format",
-  "pcpe": "cpe:/a:apple-swift-format_project:apple-swift-format"
+	"vid": "19776",
+	"vname": "apple/swift-format project",
+	"vcpe": "cpe:/:apple-swift-format_project",
+	"pid": "49879",
+	"pname": "apple/swift-format",
+	"pcpe": "cpe:/a:apple-swift-format_project:apple-swift-format"
 }

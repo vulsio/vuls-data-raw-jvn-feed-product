@@ -1,8 +1,8 @@
 {
-  "vid": "24855",
-  "vname": "domoticalabs",
-  "vcpe": "cpe:/:domoticalabs",
-  "pid": "64407",
-  "pname": "ikon server",
-  "pcpe": "cpe:/a:domoticalabs:ikon_server"
+	"vid": "24855",
+	"vname": "domoticalabs",
+	"vcpe": "cpe:/:domoticalabs",
+	"pid": "64407",
+	"pname": "ikon server",
+	"pcpe": "cpe:/a:domoticalabs:ikon_server"
 }

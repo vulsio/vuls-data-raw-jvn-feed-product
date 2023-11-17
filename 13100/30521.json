@@ -1,8 +1,8 @@
 {
-  "vid": "13100",
-  "vname": "OPW Fuel Management Systems",
-  "vcpe": "cpe:/:opwglobal",
-  "pid": "30521",
-  "pname": "SiteSentinel Integra 500 ファームウェア",
-  "pcpe": "cpe:/o:opwglobal:sitesentinel_integra_500_firmware"
+	"vid": "13100",
+	"vname": "OPW Fuel Management Systems",
+	"vcpe": "cpe:/:opwglobal",
+	"pid": "30521",
+	"pname": "SiteSentinel Integra 500 ファームウェア",
+	"pcpe": "cpe:/o:opwglobal:sitesentinel_integra_500_firmware"
 }

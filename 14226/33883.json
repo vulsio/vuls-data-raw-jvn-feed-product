@@ -1,8 +1,8 @@
 {
-  "vid": "14226",
-  "vname": "Infragistics",
-  "vcpe": "cpe:/:infragistics",
-  "pid": "33883",
-  "pname": "igniteui",
-  "pcpe": "cpe:/a:infragistics:igniteui"
+	"vid": "14226",
+	"vname": "Infragistics",
+	"vcpe": "cpe:/:infragistics",
+	"pid": "33883",
+	"pname": "igniteui",
+	"pcpe": "cpe:/a:infragistics:igniteui"
 }

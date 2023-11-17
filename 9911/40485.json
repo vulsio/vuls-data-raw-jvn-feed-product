@@ -1,8 +1,8 @@
 {
-  "vid": "9911",
-  "vname": "Silver Peak",
-  "vcpe": "cpe:/:silver-peak",
-  "pid": "40485",
-  "pname": "Unity EdgeConnect SD-WAN ファームウェア",
-  "pcpe": "cpe:/o:silver-peak:unity_edgeconnect_sd-wan_firmware"
+	"vid": "9911",
+	"vname": "Silver Peak",
+	"vcpe": "cpe:/:silver-peak",
+	"pid": "40485",
+	"pname": "Unity EdgeConnect SD-WAN ファームウェア",
+	"pcpe": "cpe:/o:silver-peak:unity_edgeconnect_sd-wan_firmware"
 }

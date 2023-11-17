@@ -1,8 +1,8 @@
 {
-  "vid": "1645",
-  "vname": "pecl-php",
-  "vcpe": "cpe:/:pecl-php",
-  "pid": "4688",
-  "pname": "alternative php cache",
-  "pcpe": "cpe:/a:pecl-php:alternative_php_cache"
+	"vid": "1645",
+	"vname": "pecl-php",
+	"vcpe": "cpe:/:pecl-php",
+	"pid": "4688",
+	"pname": "alternative php cache",
+	"pcpe": "cpe:/a:pecl-php:alternative_php_cache"
 }

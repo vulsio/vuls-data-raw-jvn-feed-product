@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "18113",
-  "pname": "IBM Optim Performance Manager",
-  "pcpe": "cpe:/a:ibm:optim_performance_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "18113",
+	"pname": "IBM Optim Performance Manager",
+	"pcpe": "cpe:/a:ibm:optim_performance_manager"
 }

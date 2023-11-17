@@ -1,8 +1,8 @@
 {
-  "vid": "21308",
-  "vname": "Gradio project",
-  "vcpe": "cpe:/:gradio_project",
-  "pid": "54712",
-  "pname": "Gradio",
-  "pcpe": "cpe:/a:gradio_project:gradio"
+	"vid": "21308",
+	"vname": "Gradio project",
+	"vcpe": "cpe:/:gradio_project",
+	"pid": "54712",
+	"pname": "Gradio",
+	"pcpe": "cpe:/a:gradio_project:gradio"
 }

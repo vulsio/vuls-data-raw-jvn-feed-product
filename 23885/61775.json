@@ -1,8 +1,8 @@
 {
-  "vid": "23885",
-  "vname": "sonar-wrapper project",
-  "vcpe": "cpe:/:sonar-wrapper_project",
-  "pid": "61775",
-  "pname": "sonar-wrapper",
-  "pcpe": "cpe:/a:sonar-wrapper_project:sonar-wrapper"
+	"vid": "23885",
+	"vname": "sonar-wrapper project",
+	"vcpe": "cpe:/:sonar-wrapper_project",
+	"pid": "61775",
+	"pname": "sonar-wrapper",
+	"pcpe": "cpe:/a:sonar-wrapper_project:sonar-wrapper"
 }

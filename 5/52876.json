@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52876",
-  "pname": "WCN6750 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:wcn6750_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52876",
+	"pname": "WCN6750 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:wcn6750_firmware"
 }

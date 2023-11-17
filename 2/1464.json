@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "1464",
-  "pname": "Microsoft Forefront Client Security",
-  "pcpe": "cpe:/a:microsoft:forefront_clinet_security"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "1464",
+	"pname": "Microsoft Forefront Client Security",
+	"pcpe": "cpe:/a:microsoft:forefront_clinet_security"
 }

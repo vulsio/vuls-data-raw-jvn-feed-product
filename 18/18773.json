@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "18773",
-  "pname": "IBM Sterling Selling and Fulfillment Suite",
-  "pcpe": "cpe:/a:ibm:sterling_selling_and_fulfillment_suite"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "18773",
+	"pname": "IBM Sterling Selling and Fulfillment Suite",
+	"pcpe": "cpe:/a:ibm:sterling_selling_and_fulfillment_suite"
 }

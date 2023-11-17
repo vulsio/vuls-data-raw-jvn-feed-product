@@ -1,8 +1,8 @@
 {
-  "vid": "16880",
-  "vname": "libp2p-core project",
-  "vcpe": "cpe:/:libp2p-core_project",
-  "pid": "40184",
-  "pname": "libp2p-core",
-  "pcpe": "cpe:/a:libp2p-core_project:libp2p-core"
+	"vid": "16880",
+	"vname": "libp2p-core project",
+	"vcpe": "cpe:/:libp2p-core_project",
+	"pid": "40184",
+	"pname": "libp2p-core",
+	"pcpe": "cpe:/a:libp2p-core_project:libp2p-core"
 }

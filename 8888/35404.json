@@ -1,8 +1,8 @@
 {
-  "vid": "8888",
-  "vname": "Schweitzer Engineering Laboratories",
-  "vcpe": "cpe:/:selinc",
-  "pid": "35404",
-  "pname": "AcSELerator Architect",
-  "pcpe": "cpe:/a:selinc:acselerator_architect"
+	"vid": "8888",
+	"vname": "Schweitzer Engineering Laboratories",
+	"vcpe": "cpe:/:selinc",
+	"pid": "35404",
+	"pname": "AcSELerator Architect",
+	"pcpe": "cpe:/a:selinc:acselerator_architect"
 }

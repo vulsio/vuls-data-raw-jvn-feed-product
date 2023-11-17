@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2530",
-  "pname": "Oracle WebLogic Node Manager",
-  "pcpe": "cpe:/a:oracle:weblogic_node_manager"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2530",
+	"pname": "Oracle WebLogic Node Manager",
+	"pcpe": "cpe:/a:oracle:weblogic_node_manager"
 }

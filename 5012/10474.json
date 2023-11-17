@@ -1,8 +1,8 @@
 {
-  "vid": "5012",
-  "vname": "john doe",
-  "vcpe": "cpe:/:john_doe",
-  "pid": "10474",
-  "pname": "netport software",
-  "pcpe": "cpe:/a:john_doe:netport_software"
+	"vid": "5012",
+	"vname": "john doe",
+	"vcpe": "cpe:/:john_doe",
+	"pid": "10474",
+	"pname": "netport software",
+	"pcpe": "cpe:/a:john_doe:netport_software"
 }

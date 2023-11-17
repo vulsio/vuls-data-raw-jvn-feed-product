@@ -1,8 +1,8 @@
 {
-  "vid": "12955",
-  "vname": "Kubernetes",
-  "vcpe": "cpe:/:kubernetes",
-  "pid": "45839",
-  "pname": "ingress-nginx",
-  "pcpe": "cpe:/a:kubernetes:ingress-nginx"
+	"vid": "12955",
+	"vname": "Kubernetes",
+	"vcpe": "cpe:/:kubernetes",
+	"pid": "45839",
+	"pname": "ingress-nginx",
+	"pcpe": "cpe:/a:kubernetes:ingress-nginx"
 }

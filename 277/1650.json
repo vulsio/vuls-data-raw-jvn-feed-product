@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "1650",
-  "pname": "VAIO Media Platform",
-  "pcpe": "cpe:/a:sony:vaio_media_platform"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "1650",
+	"pname": "VAIO Media Platform",
+	"pcpe": "cpe:/a:sony:vaio_media_platform"
 }

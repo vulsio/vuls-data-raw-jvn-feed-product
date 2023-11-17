@@ -1,8 +1,8 @@
 {
-  "vid": "17729",
-  "vname": "Plixer, LLC",
-  "vcpe": "cpe:/:plixer",
-  "pid": "42585",
-  "pname": "Scrutinizer NetFlow and sFlow Analyzer",
-  "pcpe": "cpe:/a:plixer:scrutinizer_netflow_%26_sflow_analyzer"
+	"vid": "17729",
+	"vname": "Plixer, LLC",
+	"vcpe": "cpe:/:plixer",
+	"pid": "42585",
+	"pname": "Scrutinizer NetFlow and sFlow Analyzer",
+	"pcpe": "cpe:/a:plixer:scrutinizer_netflow_%26_sflow_analyzer"
 }

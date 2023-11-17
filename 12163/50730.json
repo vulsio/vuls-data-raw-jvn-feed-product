@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "50730",
-  "pname": "Filesystem Trigger",
-  "pcpe": "cpe:/a:jenkins:filesystem_trigger"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "50730",
+	"pname": "Filesystem Trigger",
+	"pcpe": "cpe:/a:jenkins:filesystem_trigger"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22050",
-  "vname": "Illumina, Inc.",
-  "vcpe": "cpe:/:illumina",
-  "pid": "56595",
-  "pname": "NextSeq 1000 ファームウェア",
-  "pcpe": "cpe:/o:illumina:nextseq_1000_firmware"
+	"vid": "22050",
+	"vname": "Illumina, Inc.",
+	"vcpe": "cpe:/:illumina",
+	"pid": "56595",
+	"pname": "NextSeq 1000 ファームウェア",
+	"pcpe": "cpe:/o:illumina:nextseq_1000_firmware"
 }

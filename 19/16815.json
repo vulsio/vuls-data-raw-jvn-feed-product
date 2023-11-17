@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "16815",
-  "pname": "Cisco Quad",
-  "pcpe": "cpe:/a:cisco:quad"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "16815",
+	"pname": "Cisco Quad",
+	"pcpe": "cpe:/a:cisco:quad"
 }

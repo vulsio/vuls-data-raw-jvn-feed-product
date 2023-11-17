@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "64355",
-  "pname": "digital industrial gateway server",
-  "pcpe": "cpe:/a:ge:digital_industrial_gateway_server"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "64355",
+	"pname": "digital industrial gateway server",
+	"pcpe": "cpe:/a:ge:digital_industrial_gateway_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "41374",
-  "pname": "HDZ302DIN−S1 ファームウェア",
-  "pcpe": "cpe:/o:honeywell:hdz302din-s1_firmware"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "41374",
+	"pname": "HDZ302DIN−S1 ファームウェア",
+	"pcpe": "cpe:/o:honeywell:hdz302din-s1_firmware"
 }

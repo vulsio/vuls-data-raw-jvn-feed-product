@@ -1,8 +1,8 @@
 {
-  "vid": "24472",
-  "vname": "secp256k1-js project",
-  "vcpe": "cpe:/:secp256k1-js_project",
-  "pid": "63203",
-  "pname": "secp256k1-js",
-  "pcpe": "cpe:/a:secp256k1-js_project:secp256k1-js"
+	"vid": "24472",
+	"vname": "secp256k1-js project",
+	"vcpe": "cpe:/:secp256k1-js_project",
+	"pid": "63203",
+	"pname": "secp256k1-js",
+	"pcpe": "cpe:/a:secp256k1-js_project:secp256k1-js"
 }

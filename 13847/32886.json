@@ -1,8 +1,8 @@
 {
-  "vid": "13847",
-  "vname": "Key Hodlers, LLC",
-  "vcpe": "cpe:/:keepkey",
-  "pid": "32886",
-  "pname": "KeepKey ファームウェア",
-  "pcpe": "cpe:/o:keepkey:keepkey_firmware"
+	"vid": "13847",
+	"vname": "Key Hodlers, LLC",
+	"vcpe": "cpe:/:keepkey",
+	"pid": "32886",
+	"pname": "KeepKey ファームウェア",
+	"pcpe": "cpe:/o:keepkey:keepkey_firmware"
 }

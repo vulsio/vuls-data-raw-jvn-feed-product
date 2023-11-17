@@ -1,8 +1,8 @@
 {
-  "vid": "4155",
-  "vname": "unicenter",
-  "vcpe": "cpe:/:unicenter",
-  "pid": "8673",
-  "pname": "desktop management bundle",
-  "pcpe": "cpe:/a:unicenter:desktop_management_bundle"
+	"vid": "4155",
+	"vname": "unicenter",
+	"vcpe": "cpe:/:unicenter",
+	"pid": "8673",
+	"pname": "desktop management bundle",
+	"pcpe": "cpe:/a:unicenter:desktop_management_bundle"
 }

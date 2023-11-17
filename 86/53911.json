@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "53911",
-  "pname": "WER-A54G54 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wer-a54g54_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "53911",
+	"pname": "WER-A54G54 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wer-a54g54_firmware"
 }

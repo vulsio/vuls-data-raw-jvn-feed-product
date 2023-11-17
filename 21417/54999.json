@@ -1,8 +1,8 @@
 {
-  "vid": "21417",
-  "vname": "iris-go",
-  "vcpe": "cpe:/:iris-go",
-  "pid": "54999",
-  "pname": "Iris",
-  "pcpe": "cpe:/a:iris-go:iris"
+	"vid": "21417",
+	"vname": "iris-go",
+	"vcpe": "cpe:/:iris-go",
+	"pid": "54999",
+	"pname": "Iris",
+	"pcpe": "cpe:/a:iris-go:iris"
 }

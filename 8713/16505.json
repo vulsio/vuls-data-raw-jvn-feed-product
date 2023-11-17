@@ -1,8 +1,8 @@
 {
-  "vid": "8713",
-  "vname": "zapping",
-  "vcpe": "cpe:/:zapping",
-  "pid": "16505",
-  "pname": "zapping vbi library",
-  "pcpe": "cpe:/a:zapping:zapping_vbi_library"
+	"vid": "8713",
+	"vname": "zapping",
+	"vcpe": "cpe:/:zapping",
+	"pid": "16505",
+	"pname": "zapping vbi library",
+	"pcpe": "cpe:/a:zapping:zapping_vbi_library"
 }

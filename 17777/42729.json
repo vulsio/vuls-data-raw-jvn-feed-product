@@ -1,8 +1,8 @@
 {
-  "vid": "17777",
-  "vname": "Gateway Geomatics",
-  "vcpe": "cpe:/:gatewaygeomatics",
-  "pid": "42729",
-  "pname": "MapServer",
-  "pcpe": "cpe:/a:gatewaygeomatics:mapserver"
+	"vid": "17777",
+	"vname": "Gateway Geomatics",
+	"vcpe": "cpe:/:gatewaygeomatics",
+	"pid": "42729",
+	"pname": "MapServer",
+	"pcpe": "cpe:/a:gatewaygeomatics:mapserver"
 }

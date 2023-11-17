@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "36460",
-  "pname": "QLogic 20-Port 4/8 Gb SAN Switch Module ファームウェア",
-  "pcpe": "cpe:/o:ibm:qlogic_20-port_4%2f8_gb_san_switch_module_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "36460",
+	"pname": "QLogic 20-Port 4/8 Gb SAN Switch Module ファームウェア",
+	"pcpe": "cpe:/o:ibm:qlogic_20-port_4%2f8_gb_san_switch_module_firmware"
 }

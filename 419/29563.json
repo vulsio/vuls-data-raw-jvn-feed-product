@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "29563",
-  "pname": "NetApp AltaVault",
-  "pcpe": "cpe:/a:netapp:altavault"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "29563",
+	"pname": "NetApp AltaVault",
+	"pcpe": "cpe:/a:netapp:altavault"
 }

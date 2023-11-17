@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "51712",
-  "pname": "StruxureWare Data Center Expert",
-  "pcpe": "cpe:/a:schneider-electric:struxureware_data_center_expert"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "51712",
+	"pname": "StruxureWare Data Center Expert",
+	"pcpe": "cpe:/a:schneider-electric:struxureware_data_center_expert"
 }

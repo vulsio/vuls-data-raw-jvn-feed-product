@@ -1,8 +1,8 @@
 {
-  "vid": "18376",
-  "vname": "Scuttlebutt",
-  "vcpe": "cpe:/:scuttlebutt",
-  "pid": "45110",
-  "pname": "SSB-DB",
-  "pcpe": "cpe:/a:scuttlebutt:ssb-db"
+	"vid": "18376",
+	"vname": "Scuttlebutt",
+	"vcpe": "cpe:/:scuttlebutt",
+	"pid": "45110",
+	"pname": "SSB-DB",
+	"pcpe": "cpe:/a:scuttlebutt:ssb-db"
 }

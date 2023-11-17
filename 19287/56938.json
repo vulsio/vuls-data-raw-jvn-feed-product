@@ -1,8 +1,8 @@
 {
-  "vid": "19287",
-  "vname": "Okta, Inc.",
-  "vcpe": "cpe:/:okta",
-  "pid": "56938",
-  "pname": "Okta NodeJS OIDC Middleware",
-  "pcpe": "cpe:/a:okta:oidc_middleware"
+	"vid": "19287",
+	"vname": "Okta, Inc.",
+	"vcpe": "cpe:/:okta",
+	"pid": "56938",
+	"pname": "Okta NodeJS OIDC Middleware",
+	"pcpe": "cpe:/a:okta:oidc_middleware"
 }

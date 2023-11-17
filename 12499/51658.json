@@ -1,8 +1,8 @@
 {
-  "vid": "12499",
-  "vname": "Delta Electronics",
-  "vcpe": "cpe:/:delta_electronics",
-  "pid": "51658",
-  "pname": "DMARS",
-  "pcpe": "cpe:/a:delta_electronics:dmars"
+	"vid": "12499",
+	"vname": "Delta Electronics",
+	"vcpe": "cpe:/:delta_electronics",
+	"pid": "51658",
+	"pname": "DMARS",
+	"pcpe": "cpe:/a:delta_electronics:dmars"
 }

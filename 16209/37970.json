@@ -1,8 +1,8 @@
 {
-  "vid": "16209",
-  "vname": "libmysofa project",
-  "vcpe": "cpe:/:libmysofa_project",
-  "pid": "37970",
-  "pname": "libmysofa",
-  "pcpe": "cpe:/a:libmysofa_project:libmysofa"
+	"vid": "16209",
+	"vname": "libmysofa project",
+	"vcpe": "cpe:/:libmysofa_project",
+	"pid": "37970",
+	"pname": "libmysofa",
+	"pcpe": "cpe:/a:libmysofa_project:libmysofa"
 }

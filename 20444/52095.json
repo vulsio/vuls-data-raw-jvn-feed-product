@@ -1,8 +1,8 @@
 {
-  "vid": "20444",
-  "vname": "Add Sidebar project",
-  "vcpe": "cpe:/:add_sidebar_project",
-  "pid": "52095",
-  "pname": "Add Sidebar",
-  "pcpe": "cpe:/a:add_sidebar_project:add_sidebar"
+	"vid": "20444",
+	"vname": "Add Sidebar project",
+	"vcpe": "cpe:/:add_sidebar_project",
+	"pid": "52095",
+	"pname": "Add Sidebar",
+	"pcpe": "cpe:/a:add_sidebar_project:add_sidebar"
 }

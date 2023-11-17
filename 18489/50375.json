@@ -1,8 +1,8 @@
 {
-  "vid": "18489",
-  "vname": "Pritunl",
-  "vcpe": "cpe:/:pritunl",
-  "pid": "50375",
-  "pname": "Pritunl Client Electron",
-  "pcpe": "cpe:/a:pritunl:pritunl-client-electron"
+	"vid": "18489",
+	"vname": "Pritunl",
+	"vcpe": "cpe:/:pritunl",
+	"pid": "50375",
+	"pname": "Pritunl Client Electron",
+	"pcpe": "cpe:/a:pritunl:pritunl-client-electron"
 }

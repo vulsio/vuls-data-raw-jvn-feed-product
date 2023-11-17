@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27249",
-  "pname": "E40-80 BIOS",
-  "pcpe": "cpe:/o:lenovo:notebook_e40_80_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27249",
+	"pname": "E40-80 BIOS",
+	"pcpe": "cpe:/o:lenovo:notebook_e40_80_bios"
 }

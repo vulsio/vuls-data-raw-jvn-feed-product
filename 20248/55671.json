@@ -1,8 +1,8 @@
 {
-  "vid": "20248",
-  "vname": "株式会社ジェイテクトエレクトロニクス",
-  "vcpe": "cpe:/:misc",
-  "pid": "55671",
-  "pname": "Kostac PLC Programming Software",
-  "pcpe": "cpe:/a:misc:jtekt_electronics_kostac_plc_programming_software"
+	"vid": "20248",
+	"vname": "株式会社ジェイテクトエレクトロニクス",
+	"vcpe": "cpe:/:misc",
+	"pid": "55671",
+	"pname": "Kostac PLC Programming Software",
+	"pcpe": "cpe:/a:misc:jtekt_electronics_kostac_plc_programming_software"
 }

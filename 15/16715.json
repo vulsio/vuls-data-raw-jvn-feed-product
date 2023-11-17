@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "16715",
-  "pname": "Oracle Hyperion Financial Management",
-  "pcpe": "cpe:/a:oracle:hyperion_financial_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "16715",
+	"pname": "Oracle Hyperion Financial Management",
+	"pcpe": "cpe:/a:oracle:hyperion_financial_management"
 }

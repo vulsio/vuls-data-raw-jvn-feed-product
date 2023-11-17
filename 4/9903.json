@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "9903",
-  "pname": "pml driver hpz12",
-  "pcpe": "cpe:/a:hp:pml_driver_hpz12"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "9903",
+	"pname": "pml driver hpz12",
+	"pcpe": "cpe:/a:hp:pml_driver_hpz12"
 }

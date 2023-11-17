@@ -1,8 +1,8 @@
 {
-  "vid": "479",
-  "vname": "phpBB",
-  "vcpe": "cpe:/:phpbb",
-  "pid": "13618",
-  "pname": "toplist",
-  "pcpe": "cpe:/a:phpbb:toplist"
+	"vid": "479",
+	"vname": "phpBB",
+	"vcpe": "cpe:/:phpbb",
+	"pid": "13618",
+	"pname": "toplist",
+	"pcpe": "cpe:/a:phpbb:toplist"
 }

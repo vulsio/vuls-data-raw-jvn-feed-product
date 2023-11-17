@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "17177",
-  "pname": "GB",
-  "pcpe": "cpe:/h:mitsubishielectric:gb"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "17177",
+	"pname": "GB",
+	"pcpe": "cpe:/h:mitsubishielectric:gb"
 }

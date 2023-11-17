@@ -1,8 +1,8 @@
 {
-  "vid": "15998",
-  "vname": "HelpSystems",
-  "vcpe": "cpe:/:helpsystems",
-  "pid": "37394",
-  "pname": "BoKS",
-  "pcpe": "cpe:/a:helpsystems:boks"
+	"vid": "15998",
+	"vname": "HelpSystems",
+	"vcpe": "cpe:/:helpsystems",
+	"pid": "37394",
+	"pname": "BoKS",
+	"pcpe": "cpe:/a:helpsystems:boks"
 }

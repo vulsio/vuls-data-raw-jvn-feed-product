@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "30419",
-  "pname": "LOGO! 8 BM ファームウェア",
-  "pcpe": "cpe:/o:siemens:logo%218_bm_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "30419",
+	"pname": "LOGO! 8 BM ファームウェア",
+	"pcpe": "cpe:/o:siemens:logo%218_bm_firmware"
 }

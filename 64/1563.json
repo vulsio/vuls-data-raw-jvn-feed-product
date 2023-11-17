@@ -1,8 +1,8 @@
 {
-  "vid": "64",
-  "vname": "ソースネクスト",
-  "vcpe": "cpe:/:sourcenext",
-  "pid": "1563",
-  "pname": "ウイルスセキュリティZERO",
-  "pcpe": "cpe:/a:sourcenext:virus_security_zero"
+	"vid": "64",
+	"vname": "ソースネクスト",
+	"vcpe": "cpe:/:sourcenext",
+	"pid": "1563",
+	"pname": "ウイルスセキュリティZERO",
+	"pcpe": "cpe:/a:sourcenext:virus_security_zero"
 }

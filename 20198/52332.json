@@ -1,8 +1,8 @@
 {
-  "vid": "20198",
-  "vname": "QSAN Technology, Inc.",
-  "vcpe": "cpe:/:qsan",
-  "pid": "52332",
-  "pname": "QSAN Storage Manager XN8024R ファームウェア",
-  "pcpe": "cpe:/o:qsan:xn8024r_firmware"
+	"vid": "20198",
+	"vname": "QSAN Technology, Inc.",
+	"vcpe": "cpe:/:qsan",
+	"pid": "52332",
+	"pname": "QSAN Storage Manager XN8024R ファームウェア",
+	"pcpe": "cpe:/o:qsan:xn8024r_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18735",
-  "vname": "Atop Technologies",
-  "vcpe": "cpe:/:atoptechnology",
-  "pid": "46506",
-  "pname": "SE5916A ファームウェア",
-  "pcpe": "cpe:/o:atoptechnology:se5916a_firmware"
+	"vid": "18735",
+	"vname": "Atop Technologies",
+	"vcpe": "cpe:/:atoptechnology",
+	"pid": "46506",
+	"pname": "SE5916A ファームウェア",
+	"pcpe": "cpe:/o:atoptechnology:se5916a_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "41777",
-  "pname": "Customer Engagement Service (CCSDK)",
-  "pcpe": "cpe:/a:lenovo:customer_engagement_service"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "41777",
+	"pname": "Customer Engagement Service (CCSDK)",
+	"pcpe": "cpe:/a:lenovo:customer_engagement_service"
 }

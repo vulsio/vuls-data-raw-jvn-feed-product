@@ -1,8 +1,8 @@
 {
-  "vid": "13291",
-  "vname": "Pallets project",
-  "vcpe": "cpe:/:palletsprojects",
-  "pid": "38221",
-  "pname": "Jinja",
-  "pcpe": "cpe:/a:palletsprojects:jinja"
+	"vid": "13291",
+	"vname": "Pallets project",
+	"vcpe": "cpe:/:palletsprojects",
+	"pid": "38221",
+	"pname": "Jinja",
+	"pcpe": "cpe:/a:palletsprojects:jinja"
 }

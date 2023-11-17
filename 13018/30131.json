@@ -1,8 +1,8 @@
 {
-  "vid": "13018",
-  "vname": "open-uri-cached project",
-  "vcpe": "cpe:/:open-uri-cached_project",
-  "pid": "30131",
-  "pname": "open-uri-cached",
-  "pcpe": "cpe:/a:open-uri-cached_project:open-uri-cached"
+	"vid": "13018",
+	"vname": "open-uri-cached project",
+	"vcpe": "cpe:/:open-uri-cached_project",
+	"pid": "30131",
+	"pname": "open-uri-cached",
+	"pcpe": "cpe:/a:open-uri-cached_project:open-uri-cached"
 }

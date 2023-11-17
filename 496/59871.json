@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "59871",
-  "pname": "Access for Android",
-  "pcpe": "cpe:/a:f5:access_for_android"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "59871",
+	"pname": "Access for Android",
+	"pcpe": "cpe:/a:f5:access_for_android"
 }

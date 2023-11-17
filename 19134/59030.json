@@ -1,8 +1,8 @@
 {
-  "vid": "19134",
-  "vname": "Secomea",
-  "vcpe": "cpe:/:secomea",
-  "pid": "59030",
-  "pname": "linkmanager",
-  "pcpe": "cpe:/a:secomea:linkmanager"
+	"vid": "19134",
+	"vname": "Secomea",
+	"vcpe": "cpe:/:secomea",
+	"pid": "59030",
+	"pname": "linkmanager",
+	"pcpe": "cpe:/a:secomea:linkmanager"
 }

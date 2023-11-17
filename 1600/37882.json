@@ -1,8 +1,8 @@
 {
-  "vid": "1600",
-  "vname": "Mono Project",
-  "vcpe": "cpe:/:mono",
-  "pid": "37882",
-  "pname": "Mono Framework",
-  "pcpe": "cpe:/a:mono:mono_framework"
+	"vid": "1600",
+	"vname": "Mono Project",
+	"vcpe": "cpe:/:mono",
+	"pid": "37882",
+	"pname": "Mono Framework",
+	"pcpe": "cpe:/a:mono:mono_framework"
 }

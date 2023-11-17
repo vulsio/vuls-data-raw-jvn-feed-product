@@ -1,8 +1,8 @@
 {
-  "vid": "16640",
-  "vname": "Pterodactyl",
-  "vcpe": "cpe:/:pterodactyl",
-  "pid": "39661",
-  "pname": "Panel",
-  "pcpe": "cpe:/a:pterodactyl:panel"
+	"vid": "16640",
+	"vname": "Pterodactyl",
+	"vcpe": "cpe:/:pterodactyl",
+	"pid": "39661",
+	"pname": "Panel",
+	"pcpe": "cpe:/a:pterodactyl:panel"
 }

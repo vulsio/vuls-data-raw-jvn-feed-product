@@ -1,8 +1,8 @@
 {
-  "vid": "491",
-  "vname": "BitDefender",
-  "vcpe": "cpe:/:bitdefender",
-  "pid": "42958",
-  "pname": "Bitdefender Central",
-  "pcpe": "cpe:/a:bitdefender:central"
+	"vid": "491",
+	"vname": "BitDefender",
+	"vcpe": "cpe:/:bitdefender",
+	"pid": "42958",
+	"pname": "Bitdefender Central",
+	"pcpe": "cpe:/a:bitdefender:central"
 }

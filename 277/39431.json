@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "39431",
-  "pname": "Bravia ファームウェア",
-  "pcpe": "cpe:/o:sony:bravia_firmware"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "39431",
+	"pname": "Bravia ファームウェア",
+	"pcpe": "cpe:/o:sony:bravia_firmware"
 }

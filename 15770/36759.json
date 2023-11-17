@@ -1,8 +1,8 @@
 {
-  "vid": "15770",
-  "vname": "KeePassDX",
-  "vcpe": "cpe:/:keepassdx",
-  "pid": "36759",
-  "pname": "KeePassDX",
-  "pcpe": "cpe:/a:keepassdx:keepassdx"
+	"vid": "15770",
+	"vname": "KeePassDX",
+	"vcpe": "cpe:/:keepassdx",
+	"pid": "36759",
+	"pname": "KeePassDX",
+	"pcpe": "cpe:/a:keepassdx:keepassdx"
 }

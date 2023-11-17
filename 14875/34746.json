@@ -1,8 +1,8 @@
 {
-  "vid": "14875",
-  "vname": "GSI project",
-  "vcpe": "cpe:/:gsi_project",
-  "pid": "34746",
-  "pname": "GSI",
-  "pcpe": "cpe:/a:gsi_project:gsi"
+	"vid": "14875",
+	"vname": "GSI project",
+	"vcpe": "cpe:/:gsi_project",
+	"pid": "34746",
+	"pname": "GSI",
+	"pcpe": "cpe:/a:gsi_project:gsi"
 }

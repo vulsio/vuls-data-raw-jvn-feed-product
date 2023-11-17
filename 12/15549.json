@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "15549",
-  "pname": "antispyware",
-  "pcpe": "cpe:/a:trendmicro:antispyware"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "15549",
+	"pname": "antispyware",
+	"pcpe": "cpe:/a:trendmicro:antispyware"
 }

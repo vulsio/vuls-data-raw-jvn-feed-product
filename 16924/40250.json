@@ -1,8 +1,8 @@
 {
-  "vid": "16924",
-  "vname": "set-value project",
-  "vcpe": "cpe:/:set-value_project",
-  "pid": "40250",
-  "pname": "set-value",
-  "pcpe": "cpe:/a:set-value_project:set-value"
+	"vid": "16924",
+	"vname": "set-value project",
+	"vcpe": "cpe:/:set-value_project",
+	"pid": "40250",
+	"pname": "set-value",
+	"pcpe": "cpe:/a:set-value_project:set-value"
 }

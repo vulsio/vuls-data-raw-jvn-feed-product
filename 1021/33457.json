@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "33457",
-  "pname": "puppet-tripleo",
-  "pcpe": "cpe:/a:openstack:puppet-tripleo"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "33457",
+	"pname": "puppet-tripleo",
+	"pcpe": "cpe:/a:openstack:puppet-tripleo"
 }

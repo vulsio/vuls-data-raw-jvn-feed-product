@@ -1,8 +1,8 @@
 {
-  "vid": "872",
-  "vname": "Denali",
-  "vcpe": "cpe:/:denaliintranet",
-  "pid": "3337",
-  "pname": "BrightSuite Groupware",
-  "pcpe": "cpe:/a:denaliintranet:brightsuite_groupware"
+	"vid": "872",
+	"vname": "Denali",
+	"vcpe": "cpe:/:denaliintranet",
+	"pid": "3337",
+	"pname": "BrightSuite Groupware",
+	"pcpe": "cpe:/a:denaliintranet:brightsuite_groupware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "63959",
-  "pname": "im cw2201 ファームウェア",
-  "pcpe": "cpe:/o:ricoh:im_cw2201_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "63959",
+	"pname": "im cw2201 ファームウェア",
+	"pcpe": "cpe:/o:ricoh:im_cw2201_firmware"
 }

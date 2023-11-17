@@ -1,8 +1,8 @@
 {
-  "vid": "12112",
-  "vname": "パルスセキュア",
-  "vcpe": "cpe:/:pulsesecure",
-  "pid": "30492",
-  "pname": "Pulse Policy Secure",
-  "pcpe": "cpe:/a:pulsesecure:pulse_policy_secure"
+	"vid": "12112",
+	"vname": "パルスセキュア",
+	"vcpe": "cpe:/:pulsesecure",
+	"pid": "30492",
+	"pname": "Pulse Policy Secure",
+	"pcpe": "cpe:/a:pulsesecure:pulse_policy_secure"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27300",
-  "pname": "ThinkServer TS450",
-  "pcpe": "cpe:/h:lenovo:thinkserver_ts450"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27300",
+	"pname": "ThinkServer TS450",
+	"pcpe": "cpe:/h:lenovo:thinkserver_ts450"
 }

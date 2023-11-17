@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2075",
-  "pname": "Cisco Linksys WRT160N",
-  "pcpe": "cpe:/h:cisco:wrt160n"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2075",
+	"pname": "Cisco Linksys WRT160N",
+	"pcpe": "cpe:/h:cisco:wrt160n"
 }

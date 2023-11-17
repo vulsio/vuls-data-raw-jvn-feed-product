@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "41231",
-  "pname": "Libvirt Slaves",
-  "pcpe": "cpe:/a:jenkins:libvirt_slaves"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "41231",
+	"pname": "Libvirt Slaves",
+	"pcpe": "cpe:/a:jenkins:libvirt_slaves"
 }

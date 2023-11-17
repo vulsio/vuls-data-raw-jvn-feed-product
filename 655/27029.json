@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "27029",
-  "pname": "Jetty",
-  "pcpe": "cpe:/a:eclipse:jetty"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "27029",
+	"pname": "Jetty",
+	"pcpe": "cpe:/a:eclipse:jetty"
 }

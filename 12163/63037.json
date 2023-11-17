@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "63037",
-  "pname": "bigpanda notifier",
-  "pcpe": "cpe:/a:jenkins:bigpanda_notifier"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "63037",
+	"pname": "bigpanda notifier",
+	"pcpe": "cpe:/a:jenkins:bigpanda_notifier"
 }

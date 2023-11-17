@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15200",
-  "pname": "brightmail antispam",
-  "pcpe": "cpe:/a:symantec:brightmail_antispam"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15200",
+	"pname": "brightmail antispam",
+	"pcpe": "cpe:/a:symantec:brightmail_antispam"
 }

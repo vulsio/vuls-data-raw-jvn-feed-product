@@ -1,8 +1,8 @@
 {
-  "vid": "13372",
-  "vname": "EmbedPlus",
-  "vcpe": "cpe:/:embedplus",
-  "pid": "31258",
-  "pname": "YouTube",
-  "pcpe": "cpe:/a:embedplus:youtube"
+	"vid": "13372",
+	"vname": "EmbedPlus",
+	"vcpe": "cpe:/:embedplus",
+	"pid": "31258",
+	"pname": "YouTube",
+	"pcpe": "cpe:/a:embedplus:youtube"
 }

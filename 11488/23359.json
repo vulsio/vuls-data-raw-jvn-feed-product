@@ -1,8 +1,8 @@
 {
-  "vid": "11488",
-  "vname": "GetSentry.com",
-  "vcpe": "cpe:/:getsentry",
-  "pid": "23359",
-  "pname": "raven-ruby",
-  "pcpe": "cpe:/a:getsentry:raven-ruby"
+	"vid": "11488",
+	"vname": "GetSentry.com",
+	"vcpe": "cpe:/:getsentry",
+	"pid": "23359",
+	"pname": "raven-ruby",
+	"pcpe": "cpe:/a:getsentry:raven-ruby"
 }

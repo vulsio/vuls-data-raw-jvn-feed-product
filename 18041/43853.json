@@ -1,8 +1,8 @@
 {
-  "vid": "18041",
-  "vname": "Unicode, Inc",
-  "vcpe": "cpe:/:icu-project",
-  "pid": "43853",
-  "pname": "International Components for Unicode",
-  "pcpe": "cpe:/a:icu-project:international_components_for_unicode"
+	"vid": "18041",
+	"vname": "Unicode, Inc",
+	"vcpe": "cpe:/:icu-project",
+	"pid": "43853",
+	"pname": "International Components for Unicode",
+	"pcpe": "cpe:/a:icu-project:international_components_for_unicode"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "245",
-  "vname": "Net_SSLeay",
-  "vcpe": "cpe:/:misc",
-  "pid": "878",
-  "pname": "Net::SSLeay",
-  "pcpe": "cpe:/a:misc:net_ssleay"
+	"vid": "245",
+	"vname": "Net_SSLeay",
+	"vcpe": "cpe:/:misc",
+	"pid": "878",
+	"pname": "Net::SSLeay",
+	"pcpe": "cpe:/a:misc:net_ssleay"
 }

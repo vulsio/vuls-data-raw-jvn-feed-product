@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "32894",
-  "pname": "IBM QRadar Pulse",
-  "pcpe": "cpe:/a:ibm:qradar_pulse"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "32894",
+	"pname": "IBM QRadar Pulse",
+	"pcpe": "cpe:/a:ibm:qradar_pulse"
 }

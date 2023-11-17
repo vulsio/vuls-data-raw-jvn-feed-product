@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "35093",
-  "pname": "RAPIDPoint 400 ファームウェア",
-  "pcpe": "cpe:/o:siemens:rapidpoint_400_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "35093",
+	"pname": "RAPIDPoint 400 ファームウェア",
+	"pcpe": "cpe:/o:siemens:rapidpoint_400_firmware"
 }

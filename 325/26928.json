@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "26928",
-  "pname": "ThinkServer RQ940",
-  "pcpe": "cpe:/h:lenovo:thinkserver_rq940"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "26928",
+	"pname": "ThinkServer RQ940",
+	"pcpe": "cpe:/h:lenovo:thinkserver_rq940"
 }

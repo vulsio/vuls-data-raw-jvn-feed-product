@@ -1,8 +1,8 @@
 {
-  "vid": "13107",
-  "vname": "Intelbras",
-  "vcpe": "cpe:/:intelbras",
-  "pid": "38355",
-  "pname": "IWR 3000N ファームウェア",
-  "pcpe": "cpe:/o:intelbras:iwr_3000n_firmware"
+	"vid": "13107",
+	"vname": "Intelbras",
+	"vcpe": "cpe:/:intelbras",
+	"pid": "38355",
+	"pname": "IWR 3000N ファームウェア",
+	"pcpe": "cpe:/o:intelbras:iwr_3000n_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "25813",
-  "pname": "HP EliteDesk 800 シリーズファームウェア",
-  "pcpe": "cpe:/o:hp:800_series_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "25813",
+	"pname": "HP EliteDesk 800 シリーズファームウェア",
+	"pcpe": "cpe:/o:hp:800_series_firmware"
 }

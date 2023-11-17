@@ -1,8 +1,8 @@
 {
-  "vid": "24841",
-  "vname": "vxcontrol",
-  "vcpe": "cpe:/:vxcontrol",
-  "pid": "64368",
-  "pname": "soldr",
-  "pcpe": "cpe:/a:vxcontrol:soldr"
+	"vid": "24841",
+	"vname": "vxcontrol",
+	"vcpe": "cpe:/:vxcontrol",
+	"pid": "64368",
+	"pname": "soldr",
+	"pcpe": "cpe:/a:vxcontrol:soldr"
 }

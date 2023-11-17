@@ -1,8 +1,8 @@
 {
-  "vid": "21603",
-  "vname": "Authzed, Inc.",
-  "vcpe": "cpe:/:authzed",
-  "pid": "55483",
-  "pname": "SpiceDB",
-  "pcpe": "cpe:/a:authzed:spicedb"
+	"vid": "21603",
+	"vname": "Authzed, Inc.",
+	"vcpe": "cpe:/:authzed",
+	"pid": "55483",
+	"pname": "SpiceDB",
+	"pcpe": "cpe:/a:authzed:spicedb"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "46210",
-  "pname": "Hyperion Infrastructure Technology",
-  "pcpe": "cpe:/a:oracle:hyperion_infrastructure_technology"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "46210",
+	"pname": "Hyperion Infrastructure Technology",
+	"pcpe": "cpe:/a:oracle:hyperion_infrastructure_technology"
 }

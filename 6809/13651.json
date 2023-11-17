@@ -1,8 +1,8 @@
 {
-  "vid": "6809",
-  "vname": "phpcounter",
-  "vcpe": "cpe:/:phpcounter",
-  "pid": "13651",
-  "pname": "phpcounter",
-  "pcpe": "cpe:/a:phpcounter:phpcounter"
+	"vid": "6809",
+	"vname": "phpcounter",
+	"vcpe": "cpe:/:phpcounter",
+	"pid": "13651",
+	"pname": "phpcounter",
+	"pcpe": "cpe:/a:phpcounter:phpcounter"
 }

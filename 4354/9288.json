@@ -1,8 +1,8 @@
 {
-  "vid": "4354",
-  "vname": "T-Mobile",
-  "vcpe": "cpe:/:t-mobile",
-  "pid": "9288",
-  "pname": "T-Mobile G2",
-  "pcpe": "cpe:/h:t-mobile:g2"
+	"vid": "4354",
+	"vname": "T-Mobile",
+	"vcpe": "cpe:/:t-mobile",
+	"pid": "9288",
+	"pname": "T-Mobile G2",
+	"pcpe": "cpe:/h:t-mobile:g2"
 }

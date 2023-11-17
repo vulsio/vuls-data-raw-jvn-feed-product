@@ -1,8 +1,8 @@
 {
-  "vid": "18245",
-  "vname": "Binance",
-  "vcpe": "cpe:/:binance",
-  "pid": "44700",
-  "pname": "tss-lib",
-  "pcpe": "cpe:/a:binance:tss-lib"
+	"vid": "18245",
+	"vname": "Binance",
+	"vcpe": "cpe:/:binance",
+	"pid": "44700",
+	"pname": "tss-lib",
+	"pcpe": "cpe:/a:binance:tss-lib"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9222",
-  "vname": "Savy Soda",
-  "vcpe": "cpe:/:savysoda",
-  "pid": "18765",
-  "pname": "WiFi HD Free",
-  "pcpe": "cpe:/a:savysoda:wifi_free_hd"
+	"vid": "9222",
+	"vname": "Savy Soda",
+	"vcpe": "cpe:/:savysoda",
+	"pid": "18765",
+	"pname": "WiFi HD Free",
+	"pcpe": "cpe:/a:savysoda:wifi_free_hd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "28338",
-  "pname": "OnCellG3470A-LTE",
-  "pcpe": "cpe:/o:moxa:oncellg3470a-lte_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "28338",
+	"pname": "OnCellG3470A-LTE",
+	"pcpe": "cpe:/o:moxa:oncellg3470a-lte_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24698",
-  "vname": "octobox project",
-  "vcpe": "cpe:/:octobox_project",
-  "pid": "64049",
-  "pname": "octobox",
-  "pcpe": "cpe:/a:octobox_project:octobox"
+	"vid": "24698",
+	"vname": "octobox project",
+	"vcpe": "cpe:/:octobox_project",
+	"pid": "64049",
+	"pname": "octobox",
+	"pcpe": "cpe:/a:octobox_project:octobox"
 }

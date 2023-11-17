@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "17109",
-  "pname": "NVIDIA ドライバ",
-  "pcpe": "cpe:/a:nvidia:driver"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "17109",
+	"pname": "NVIDIA ドライバ",
+	"pcpe": "cpe:/a:nvidia:driver"
 }

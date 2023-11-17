@@ -1,8 +1,8 @@
 {
-  "vid": "15203",
-  "vname": "DuraSpace",
-  "vcpe": "cpe:/:duraspace",
-  "pid": "37323",
-  "pname": "Vitro",
-  "pcpe": "cpe:/a:duraspace:vitro"
+	"vid": "15203",
+	"vname": "DuraSpace",
+	"vcpe": "cpe:/:duraspace",
+	"pid": "37323",
+	"pname": "Vitro",
+	"pcpe": "cpe:/a:duraspace:vitro"
 }

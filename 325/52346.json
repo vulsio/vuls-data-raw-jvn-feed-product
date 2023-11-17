@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "52346",
-  "pname": "ideapad 1-14IGL05 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideapad_1-14igl05_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "52346",
+	"pname": "ideapad 1-14IGL05 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideapad_1-14igl05_firmware"
 }

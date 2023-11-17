@@ -1,8 +1,8 @@
 {
-  "vid": "19764",
-  "vname": "Themify",
-  "vcpe": "cpe:/:themify",
-  "pid": "60233",
-  "pname": "Post Type Builder Search Addon",
-  "pcpe": "cpe:/a:themify:post_type_builder_search_addon"
+	"vid": "19764",
+	"vname": "Themify",
+	"vcpe": "cpe:/:themify",
+	"pid": "60233",
+	"pname": "Post Type Builder Search Addon",
+	"pcpe": "cpe:/a:themify:post_type_builder_search_addon"
 }

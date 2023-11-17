@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "45988",
-  "pname": "EliteBook Folio 1040 G3 ファームウェア",
-  "pcpe": "cpe:/o:hp:elitebook_folio_1040_g3_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "45988",
+	"pname": "EliteBook Folio 1040 G3 ファームウェア",
+	"pcpe": "cpe:/o:hp:elitebook_folio_1040_g3_firmware"
 }

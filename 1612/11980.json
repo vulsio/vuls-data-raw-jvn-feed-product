@@ -1,8 +1,8 @@
 {
-  "vid": "1612",
-  "vname": "netsupport",
-  "vcpe": "cpe:/:netsupport",
-  "pid": "11980",
-  "pname": "netsupport manager client",
-  "pcpe": "cpe:/a:netsupport:netsupport_manager_client"
+	"vid": "1612",
+	"vname": "netsupport",
+	"vcpe": "cpe:/:netsupport",
+	"pid": "11980",
+	"pname": "netsupport manager client",
+	"pcpe": "cpe:/a:netsupport:netsupport_manager_client"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10012",
-  "vname": "BTWGames",
-  "vcpe": "cpe:/:btwgames",
-  "pid": "21021",
-  "pname": "ヘビの進化",
-  "pcpe": "cpe:/a:btwgames:snake_evolution"
+	"vid": "10012",
+	"vname": "BTWGames",
+	"vcpe": "cpe:/:btwgames",
+	"pid": "21021",
+	"pname": "ヘビの進化",
+	"pcpe": "cpe:/a:btwgames:snake_evolution"
 }

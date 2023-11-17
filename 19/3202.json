@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3202",
-  "pname": "Cisco ASR 9010 ルータ",
-  "pcpe": "cpe:/h:cisco:asr_9010"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3202",
+	"pname": "Cisco ASR 9010 ルータ",
+	"pcpe": "cpe:/h:cisco:asr_9010"
 }

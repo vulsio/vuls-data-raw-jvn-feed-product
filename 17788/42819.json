@@ -1,8 +1,8 @@
 {
-  "vid": "17788",
-  "vname": "Ruby Geocoder",
-  "vcpe": "cpe:/:rubygeocoder",
-  "pid": "42819",
-  "pname": "Geocoder",
-  "pcpe": "cpe:/a:rubygeocoder:geocoder"
+	"vid": "17788",
+	"vname": "Ruby Geocoder",
+	"vcpe": "cpe:/:rubygeocoder",
+	"pid": "42819",
+	"pname": "Geocoder",
+	"pcpe": "cpe:/a:rubygeocoder:geocoder"
 }

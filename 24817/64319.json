@@ -1,8 +1,8 @@
 {
-  "vid": "24817",
-  "vname": "show-hide / collapse-expand project",
-  "vcpe": "cpe:/:show-hide_%2F_collapse-expand_project",
-  "pid": "64319",
-  "pname": "show-hide / collapse-expand",
-  "pcpe": "cpe:/a:show-hide_%2F_collapse-expand_project:show-hide_%2F_collapse-expand"
+	"vid": "24817",
+	"vname": "show-hide / collapse-expand project",
+	"vcpe": "cpe:/:show-hide_%2F_collapse-expand_project",
+	"pid": "64319",
+	"pname": "show-hide / collapse-expand",
+	"pcpe": "cpe:/a:show-hide_%2F_collapse-expand_project:show-hide_%2F_collapse-expand"
 }

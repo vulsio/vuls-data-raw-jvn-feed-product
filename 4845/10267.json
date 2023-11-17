@@ -1,8 +1,8 @@
 {
-  "vid": "4845",
-  "vname": "IRCD-Hybrid",
-  "vcpe": "cpe:/:ircd-hybrid",
-  "pid": "10267",
-  "pname": "IRCD-Hybrid",
-  "pcpe": "cpe:/a:ircd-hybrid:ircd-hybrid"
+	"vid": "4845",
+	"vname": "IRCD-Hybrid",
+	"vcpe": "cpe:/:ircd-hybrid",
+	"pid": "10267",
+	"pname": "IRCD-Hybrid",
+	"pcpe": "cpe:/a:ircd-hybrid:ircd-hybrid"
 }

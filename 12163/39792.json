@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "39792",
-  "pname": "eggPlant",
-  "pcpe": "cpe:/a:jenkins:eggplant"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "39792",
+	"pname": "eggPlant",
+	"pcpe": "cpe:/a:jenkins:eggplant"
 }

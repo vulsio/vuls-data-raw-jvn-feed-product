@@ -1,8 +1,8 @@
 {
-  "vid": "5395",
-  "vname": "lumension security",
-  "vcpe": "cpe:/:lumension_security",
-  "pid": "11084",
-  "pname": "patchlink update",
-  "pcpe": "cpe:/a:lumension_security:patchlink_update"
+	"vid": "5395",
+	"vname": "lumension security",
+	"vcpe": "cpe:/:lumension_security",
+	"pid": "11084",
+	"pname": "patchlink update",
+	"pcpe": "cpe:/a:lumension_security:patchlink_update"
 }

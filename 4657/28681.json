@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28681",
-  "pname": "S9706 ファームウェア",
-  "pcpe": "cpe:/o:huawei:s9706_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28681",
+	"pname": "S9706 ファームウェア",
+	"pcpe": "cpe:/o:huawei:s9706_firmware"
 }

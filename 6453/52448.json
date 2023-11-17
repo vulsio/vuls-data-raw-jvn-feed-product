@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "52448",
-  "pname": "Lexmark Universal Print Driver",
-  "pcpe": "cpe:/a:lexmark:universal_print_driver"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "52448",
+	"pname": "Lexmark Universal Print Driver",
+	"pcpe": "cpe:/a:lexmark:universal_print_driver"
 }

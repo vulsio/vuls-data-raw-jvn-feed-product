@@ -1,8 +1,8 @@
 {
-  "vid": "17798",
-  "vname": "I Read It Somewhere",
-  "vcpe": "cpe:/:iris_citations_management_tool_project",
-  "pid": "42869",
-  "pname": "IRIS citations management tool",
-  "pcpe": "cpe:/a:iris_citations_management_tool_project:iris_citations_management_tool"
+	"vid": "17798",
+	"vname": "I Read It Somewhere",
+	"vcpe": "cpe:/:iris_citations_management_tool_project",
+	"pid": "42869",
+	"pname": "IRIS citations management tool",
+	"pcpe": "cpe:/a:iris_citations_management_tool_project:iris_citations_management_tool"
 }

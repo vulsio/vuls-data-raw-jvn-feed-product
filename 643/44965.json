@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "44965",
-  "pname": "Precision Dual USB-C Thunderbolt Dock - TB18DC ファームウェア",
-  "pcpe": "cpe:/o:dell:precision_dual_usb-c_thunderbolt_dock_-_tb18dc_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "44965",
+	"pname": "Precision Dual USB-C Thunderbolt Dock - TB18DC ファームウェア",
+	"pcpe": "cpe:/o:dell:precision_dual_usb-c_thunderbolt_dock_-_tb18dc_firmware"
 }

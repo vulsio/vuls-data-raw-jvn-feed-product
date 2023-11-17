@@ -1,8 +1,8 @@
 {
-  "vid": "14263",
-  "vname": "Bitmain Technologies Limited",
-  "vcpe": "cpe:/:bitmain",
-  "pid": "33940",
-  "pname": "Antminer S9 ファームウェア",
-  "pcpe": "cpe:/o:bitmain:antminer_s9_firmware"
+	"vid": "14263",
+	"vname": "Bitmain Technologies Limited",
+	"vcpe": "cpe:/:bitmain",
+	"pid": "33940",
+	"pname": "Antminer S9 ファームウェア",
+	"pcpe": "cpe:/o:bitmain:antminer_s9_firmware"
 }

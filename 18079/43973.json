@@ -1,8 +1,8 @@
 {
-  "vid": "18079",
-  "vname": "signotec",
-  "vcpe": "cpe:/:signotec",
-  "pid": "43973",
-  "pname": "signoPAD-API/Web",
-  "pcpe": "cpe:/a:signotec:signopad-api%2fweb"
+	"vid": "18079",
+	"vname": "signotec",
+	"vcpe": "cpe:/:signotec",
+	"pid": "43973",
+	"pname": "signoPAD-API/Web",
+	"pcpe": "cpe:/a:signotec:signopad-api%2fweb"
 }

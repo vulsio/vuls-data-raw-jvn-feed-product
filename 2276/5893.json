@@ -1,8 +1,8 @@
 {
-  "vid": "2276",
-  "vname": "arb project",
-  "vcpe": "cpe:/:arb_project",
-  "pid": "5893",
-  "pname": "arb-common",
-  "pcpe": "cpe:/a:arb_project:arb-common"
+	"vid": "2276",
+	"vname": "arb project",
+	"vcpe": "cpe:/:arb_project",
+	"pid": "5893",
+	"pname": "arb-common",
+	"pcpe": "cpe:/a:arb_project:arb-common"
 }

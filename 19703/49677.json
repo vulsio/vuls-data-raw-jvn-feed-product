@@ -1,8 +1,8 @@
 {
-  "vid": "19703",
-  "vname": "OpenARK",
-  "vcpe": "cpe:/:openark",
-  "pid": "49677",
-  "pname": "orchestrator",
-  "pcpe": "cpe:/a:openark:orchestrator"
+	"vid": "19703",
+	"vname": "OpenARK",
+	"vcpe": "cpe:/:openark",
+	"pid": "49677",
+	"pname": "orchestrator",
+	"pcpe": "cpe:/a:openark:orchestrator"
 }

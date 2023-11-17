@@ -1,8 +1,8 @@
 {
-  "vid": "12499",
-  "vname": "Delta Electronics",
-  "vcpe": "cpe:/:delta_electronics",
-  "pid": "32900",
-  "pname": "Delta Industrial Automation Screen Editor",
-  "pcpe": "cpe:/o:delta_electronics:delta_industrial_automation_screen_editor"
+	"vid": "12499",
+	"vname": "Delta Electronics",
+	"vcpe": "cpe:/:delta_electronics",
+	"pid": "32900",
+	"pname": "Delta Industrial Automation Screen Editor",
+	"pcpe": "cpe:/o:delta_electronics:delta_industrial_automation_screen_editor"
 }

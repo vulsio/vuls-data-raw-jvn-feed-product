@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "63761",
-  "pname": "tuleap git branch source",
-  "pcpe": "cpe:/a:jenkins:tuleap_git_branch_source"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "63761",
+	"pname": "tuleap git branch source",
+	"pcpe": "cpe:/a:jenkins:tuleap_git_branch_source"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21130",
-  "vname": "Power Admin LLC",
-  "vcpe": "cpe:/:poweradmin",
-  "pid": "54036",
-  "pname": "PA Server Monitor",
-  "pcpe": "cpe:/a:poweradmin:pa_server_monitor"
+	"vid": "21130",
+	"vname": "Power Admin LLC",
+	"vcpe": "cpe:/:poweradmin",
+	"pid": "54036",
+	"pname": "PA Server Monitor",
+	"pcpe": "cpe:/a:poweradmin:pa_server_monitor"
 }

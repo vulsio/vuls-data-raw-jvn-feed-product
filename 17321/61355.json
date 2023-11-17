@@ -1,8 +1,8 @@
 {
-  "vid": "17321",
-  "vname": "HiNet",
-  "vcpe": "cpe:/:hinet",
-  "pid": "61355",
-  "pname": "hicos natural person credential component client",
-  "pcpe": "cpe:/a:hinet:hicos_natural_person_credential_component_client"
+	"vid": "17321",
+	"vname": "HiNet",
+	"vcpe": "cpe:/:hinet",
+	"pid": "61355",
+	"pname": "hicos natural person credential component client",
+	"pcpe": "cpe:/a:hinet:hicos_natural_person_credential_component_client"
 }

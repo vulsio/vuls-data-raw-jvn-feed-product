@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "58541",
-  "pname": "factorycamera",
-  "pcpe": "cpe:/a:samsung:factorycamera"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "58541",
+	"pname": "factorycamera",
+	"pcpe": "cpe:/a:samsung:factorycamera"
 }

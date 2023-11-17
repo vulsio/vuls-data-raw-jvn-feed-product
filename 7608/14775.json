@@ -1,8 +1,8 @@
 {
-  "vid": "7608",
-  "vname": "simple php scripts",
-  "vcpe": "cpe:/:simple_php_scripts",
-  "pid": "14775",
-  "pname": "gallery",
-  "pcpe": "cpe:/a:simple_php_scripts:gallery"
+	"vid": "7608",
+	"vname": "simple php scripts",
+	"vcpe": "cpe:/:simple_php_scripts",
+	"pid": "14775",
+	"pname": "gallery",
+	"pcpe": "cpe:/a:simple_php_scripts:gallery"
 }

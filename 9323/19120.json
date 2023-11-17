@@ -1,8 +1,8 @@
 {
-  "vid": "9323",
-  "vname": "NISUTA",
-  "vcpe": "cpe:/:nisuta",
-  "pid": "19120",
-  "pname": "Nisuta NS-WIR150NE Firmware",
-  "pcpe": "cpe:/o:nisuta:ns-wir150ne_firmware"
+	"vid": "9323",
+	"vname": "NISUTA",
+	"vcpe": "cpe:/:nisuta",
+	"pid": "19120",
+	"pname": "Nisuta NS-WIR150NE Firmware",
+	"pcpe": "cpe:/o:nisuta:ns-wir150ne_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "41907",
-  "pname": "IPS",
-  "pcpe": "cpe:/a:qualcomm:ips"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "41907",
+	"pname": "IPS",
+	"pcpe": "cpe:/a:qualcomm:ips"
 }

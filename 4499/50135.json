@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "50135",
-  "pname": "R01 CPU ファームウェア",
-  "pcpe": "cpe:/o:mitsubishielectric:r01cpu_firmware"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "50135",
+	"pname": "R01 CPU ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:r01cpu_firmware"
 }

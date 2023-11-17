@@ -1,8 +1,8 @@
 {
-  "vid": "1045",
-  "vname": "JRuby",
-  "vcpe": "cpe:/:jruby",
-  "pid": "3621",
-  "pname": "JRuby",
-  "pcpe": "cpe:/a:jruby:jruby"
+	"vid": "1045",
+	"vname": "JRuby",
+	"vcpe": "cpe:/:jruby",
+	"pid": "3621",
+	"pname": "JRuby",
+	"pcpe": "cpe:/a:jruby:jruby"
 }

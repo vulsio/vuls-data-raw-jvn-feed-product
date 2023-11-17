@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63672",
-  "pname": "scalance mum856-1 ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_mum856-1_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63672",
+	"pname": "scalance mum856-1 ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_mum856-1_firmware"
 }

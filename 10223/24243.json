@@ -1,8 +1,8 @@
 {
-  "vid": "10223",
-  "vname": "Web-Dorado",
-  "vcpe": "cpe:/:web-dorado",
-  "pid": "24243",
-  "pname": "Spider Video Player",
-  "pcpe": "cpe:/a:web-dorado:spider_video_player"
+	"vid": "10223",
+	"vname": "Web-Dorado",
+	"vcpe": "cpe:/:web-dorado",
+	"pid": "24243",
+	"pname": "Spider Video Player",
+	"pcpe": "cpe:/a:web-dorado:spider_video_player"
 }

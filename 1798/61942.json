@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "61942",
-  "pname": "storage analyzer",
-  "pcpe": "cpe:/a:synology:storage_analyzer"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "61942",
+	"pname": "storage analyzer",
+	"pcpe": "cpe:/a:synology:storage_analyzer"
 }

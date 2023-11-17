@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "41551",
-  "pname": "Apache Arrow",
-  "pcpe": "cpe:/a:apache:arrow"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "41551",
+	"pname": "Apache Arrow",
+	"pcpe": "cpe:/a:apache:arrow"
 }

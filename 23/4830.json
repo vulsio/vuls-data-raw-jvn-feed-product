@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "4830",
-  "pname": "veritas dynamic multi-pathing",
-  "pcpe": "cpe:/a:symantec:veritas_dynamic_multi-pathing"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "4830",
+	"pname": "veritas dynamic multi-pathing",
+	"pcpe": "cpe:/a:symantec:veritas_dynamic_multi-pathing"
 }

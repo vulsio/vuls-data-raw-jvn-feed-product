@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "30889",
-  "pname": "FusionServer CH222 V3",
-  "pcpe": "cpe:/a:huawei:fusionserver_ch222_v3"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "30889",
+	"pname": "FusionServer CH222 V3",
+	"pcpe": "cpe:/a:huawei:fusionserver_ch222_v3"
 }

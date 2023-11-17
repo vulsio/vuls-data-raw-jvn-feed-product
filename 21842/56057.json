@@ -1,8 +1,8 @@
 {
-  "vid": "21842",
-  "vname": "Catalyst-Plugin-Session project",
-  "vcpe": "cpe:/:catalyst-plugin-session_project",
-  "pid": "56057",
-  "pname": "Catalyst-Plugin-Session",
-  "pcpe": "cpe:/a:catalyst-plugin-session_project:catalyst-plugin-session"
+	"vid": "21842",
+	"vname": "Catalyst-Plugin-Session project",
+	"vcpe": "cpe:/:catalyst-plugin-session_project",
+	"pid": "56057",
+	"pname": "Catalyst-Plugin-Session",
+	"pcpe": "cpe:/a:catalyst-plugin-session_project:catalyst-plugin-session"
 }

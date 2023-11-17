@@ -1,8 +1,8 @@
 {
-  "vid": "18111",
-  "vname": "Unisoon",
-  "vcpe": "cpe:/:unisoon",
-  "pid": "44111",
-  "pname": "UltraLog Express ファームウェア",
-  "pcpe": "cpe:/o:unisoon:ultralog_express_firmware"
+	"vid": "18111",
+	"vname": "Unisoon",
+	"vcpe": "cpe:/:unisoon",
+	"pid": "44111",
+	"pname": "UltraLog Express ファームウェア",
+	"pcpe": "cpe:/o:unisoon:ultralog_express_firmware"
 }

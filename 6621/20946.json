@@ -1,8 +1,8 @@
 {
-  "vid": "6621",
-  "vname": "ソフトバンク株式会社",
-  "vcpe": "cpe:/:softbank",
-  "pid": "20946",
-  "pname": "Wi-Fi アプリケーション",
-  "pcpe": "cpe:/a:softbank:wi-fi_application"
+	"vid": "6621",
+	"vname": "ソフトバンク株式会社",
+	"vcpe": "cpe:/:softbank",
+	"pid": "20946",
+	"pname": "Wi-Fi アプリケーション",
+	"pcpe": "cpe:/a:softbank:wi-fi_application"
 }

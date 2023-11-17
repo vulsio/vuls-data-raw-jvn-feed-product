@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "31232",
-  "pname": "Cisco Prime License Manager",
-  "pcpe": "cpe:/a:cisco:prime_license_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "31232",
+	"pname": "Cisco Prime License Manager",
+	"pcpe": "cpe:/a:cisco:prime_license_manager"
 }

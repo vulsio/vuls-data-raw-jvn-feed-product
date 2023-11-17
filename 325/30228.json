@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30228",
-  "pname": "Lenovo S200z ファームウェア",
-  "pcpe": "cpe:/o:lenovo:s200z_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30228",
+	"pname": "Lenovo S200z ファームウェア",
+	"pcpe": "cpe:/o:lenovo:s200z_firmware"
 }

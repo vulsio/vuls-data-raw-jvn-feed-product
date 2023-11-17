@@ -1,8 +1,8 @@
 {
-  "vid": "21773",
-  "vname": "Qrio株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "55927",
-  "pname": "Qrio Lock (Q-SL2)",
-  "pcpe": "cpe:/a:misc:qrio_qrio_lock_%28Q-SL2%29"
+	"vid": "21773",
+	"vname": "Qrio株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "55927",
+	"pname": "Qrio Lock (Q-SL2)",
+	"pcpe": "cpe:/a:misc:qrio_qrio_lock_%28Q-SL2%29"
 }

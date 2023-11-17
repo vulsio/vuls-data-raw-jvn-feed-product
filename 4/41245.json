@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "41245",
-  "pname": "FutureSmart 3",
-  "pcpe": "cpe:/o:hp:futuresmart_3"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "41245",
+	"pname": "FutureSmart 3",
+	"pcpe": "cpe:/o:hp:futuresmart_3"
 }

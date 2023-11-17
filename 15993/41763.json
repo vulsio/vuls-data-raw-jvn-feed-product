@@ -1,8 +1,8 @@
 {
-  "vid": "15993",
-  "vname": "Coolpad Technologies Inc.",
-  "vcpe": "cpe:/:coolpad",
-  "pid": "41763",
-  "pname": "Coolpad Mega 5 ファームウェア",
-  "pcpe": "cpe:/o:coolpad:mega_5_firmware"
+	"vid": "15993",
+	"vname": "Coolpad Technologies Inc.",
+	"vcpe": "cpe:/:coolpad",
+	"pid": "41763",
+	"pname": "Coolpad Mega 5 ファームウェア",
+	"pcpe": "cpe:/o:coolpad:mega_5_firmware"
 }

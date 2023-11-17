@@ -1,8 +1,8 @@
 {
-  "vid": "9043",
-  "vname": "Western Digital Corporation",
-  "vcpe": "cpe:/:wdc",
-  "pid": "39190",
-  "pname": "WD My Book Live ファームウェア",
-  "pcpe": "cpe:/o:wdc:my_book_live_firmware"
+	"vid": "9043",
+	"vname": "Western Digital Corporation",
+	"vcpe": "cpe:/:wdc",
+	"pid": "39190",
+	"pname": "WD My Book Live ファームウェア",
+	"pcpe": "cpe:/o:wdc:my_book_live_firmware"
 }

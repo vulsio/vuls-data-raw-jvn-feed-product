@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "32957",
-  "pname": "Qfinder Pro",
-  "pcpe": "cpe:/a:qnap:qfinder_pro"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "32957",
+	"pname": "Qfinder Pro",
+	"pcpe": "cpe:/a:qnap:qfinder_pro"
 }

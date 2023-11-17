@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "45809",
-  "pname": "SV8100 ファームウェア",
-  "pcpe": "cpe:/o:nec:sv8100_firmware"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "45809",
+	"pname": "SV8100 ファームウェア",
+	"pcpe": "cpe:/o:nec:sv8100_firmware"
 }

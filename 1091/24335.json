@@ -1,8 +1,8 @@
 {
-  "vid": "1091",
-  "vname": "AirTies",
-  "vcpe": "cpe:/:airties",
-  "pid": "24335",
-  "pname": "Air 5750",
-  "pcpe": "cpe:/h:airties:air_5750"
+	"vid": "1091",
+	"vname": "AirTies",
+	"vcpe": "cpe:/:airties",
+	"pid": "24335",
+	"pname": "Air 5750",
+	"pcpe": "cpe:/h:airties:air_5750"
 }

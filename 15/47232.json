@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47232",
-  "pname": "Oracle Communications Session Element Manager",
-  "pcpe": "cpe:/a:oracle:communications_element_manager"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47232",
+	"pname": "Oracle Communications Session Element Manager",
+	"pcpe": "cpe:/a:oracle:communications_element_manager"
 }

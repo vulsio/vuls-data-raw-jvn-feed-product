@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "54104",
-  "pname": "ManageEngine Patch Connect Plus",
-  "pcpe": "cpe:/a:zohocorp:manageengine_patch_connect_plus"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "54104",
+	"pname": "ManageEngine Patch Connect Plus",
+	"pcpe": "cpe:/a:zohocorp:manageengine_patch_connect_plus"
 }

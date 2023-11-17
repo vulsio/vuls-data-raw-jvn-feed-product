@@ -1,8 +1,8 @@
 {
-  "vid": "11420",
-  "vname": "CTS Projects & Software",
-  "vcpe": "cpe:/:cts_projects%26software",
-  "pid": "23205",
-  "pname": "ClassAd",
-  "pcpe": "cpe:/a:cts_projects%26software:classad"
+	"vid": "11420",
+	"vname": "CTS Projects & Software",
+	"vcpe": "cpe:/:cts_projects%26software",
+	"pid": "23205",
+	"pname": "ClassAd",
+	"pcpe": "cpe:/a:cts_projects%26software:classad"
 }

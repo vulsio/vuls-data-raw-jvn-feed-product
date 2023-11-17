@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "52707",
-  "pname": "Cisco Nexus Insights",
-  "pcpe": "cpe:/a:cisco:nexus_insights"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "52707",
+	"pname": "Cisco Nexus Insights",
+	"pcpe": "cpe:/a:cisco:nexus_insights"
 }

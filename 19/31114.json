@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "31114",
-  "pname": "Unified Computing System Manager ファームウェア",
-  "pcpe": "cpe:/o:cisco:unified_computing_system_manager_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "31114",
+	"pname": "Unified Computing System Manager ファームウェア",
+	"pcpe": "cpe:/o:cisco:unified_computing_system_manager_firmware"
 }

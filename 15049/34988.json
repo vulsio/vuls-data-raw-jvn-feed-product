@@ -1,8 +1,8 @@
 {
-  "vid": "15049",
-  "vname": "ESTS",
-  "vcpe": "cpe:/:ests",
-  "pid": "34988",
-  "pname": "ESTSToken",
-  "pcpe": "cpe:/a:ests:eststoken"
+	"vid": "15049",
+	"vname": "ESTS",
+	"vcpe": "cpe:/:ests",
+	"pid": "34988",
+	"pname": "ESTSToken",
+	"pcpe": "cpe:/a:ests:eststoken"
 }

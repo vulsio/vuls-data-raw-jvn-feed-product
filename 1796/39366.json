@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "39366",
-  "pname": "MiniMed Paradigm 722 ファームウェア",
-  "pcpe": "cpe:/o:medtronic:minimed_paradigm_722_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "39366",
+	"pname": "MiniMed Paradigm 722 ファームウェア",
+	"pcpe": "cpe:/o:medtronic:minimed_paradigm_722_firmware"
 }

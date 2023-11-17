@@ -1,8 +1,8 @@
 {
-  "vid": "22660",
-  "vname": "anytxt",
-  "vcpe": "cpe:/:anytxt",
-  "pid": "58318",
-  "pname": "anytxt searcher",
-  "pcpe": "cpe:/a:anytxt:anytxt_searcher"
+	"vid": "22660",
+	"vname": "anytxt",
+	"vcpe": "cpe:/:anytxt",
+	"pid": "58318",
+	"pname": "anytxt searcher",
+	"pcpe": "cpe:/a:anytxt:anytxt_searcher"
 }

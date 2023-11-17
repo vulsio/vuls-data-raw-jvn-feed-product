@@ -1,8 +1,8 @@
 {
-  "vid": "9240",
-  "vname": "desiderata software",
-  "vcpe": "cpe:/:desiderata_software",
-  "pid": "18818",
-  "pname": "blazix web server",
-  "pcpe": "cpe:/a:desiderata_software:blazix_web_server"
+	"vid": "9240",
+	"vname": "desiderata software",
+	"vcpe": "cpe:/:desiderata_software",
+	"pid": "18818",
+	"pname": "blazix web server",
+	"pcpe": "cpe:/a:desiderata_software:blazix_web_server"
 }

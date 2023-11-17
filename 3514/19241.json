@@ -1,8 +1,8 @@
 {
-  "vid": "3514",
-  "vname": "Enterasys Networks",
-  "vcpe": "cpe:/:enterasys",
-  "pid": "19241",
-  "pname": "S180",
-  "pcpe": "cpe:/h:enterasys:s180"
+	"vid": "3514",
+	"vname": "Enterasys Networks",
+	"vcpe": "cpe:/:enterasys",
+	"pid": "19241",
+	"pname": "S180",
+	"pcpe": "cpe:/h:enterasys:s180"
 }

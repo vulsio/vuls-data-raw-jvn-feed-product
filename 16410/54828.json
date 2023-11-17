@@ -1,8 +1,8 @@
 {
-  "vid": "16410",
-  "vname": "Auerswald",
-  "vcpe": "cpe:/:auerswald",
-  "pid": "54828",
-  "pname": "COMpact 5010 VoIP IP ファームウェア",
-  "pcpe": "cpe:/o:auerswald:compact_5010_voip_ip_firmware"
+	"vid": "16410",
+	"vname": "Auerswald",
+	"vcpe": "cpe:/:auerswald",
+	"pid": "54828",
+	"pname": "COMpact 5010 VoIP IP ファームウェア",
+	"pcpe": "cpe:/o:auerswald:compact_5010_voip_ip_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "29545",
-  "pname": "Advanced Settings Utility",
-  "pcpe": "cpe:/a:lenovo:advanced_settings_utility"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "29545",
+	"pname": "Advanced Settings Utility",
+	"pcpe": "cpe:/a:lenovo:advanced_settings_utility"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10524",
-  "vname": "incognito private browser project",
-  "vcpe": "cpe:/:incognito_private_browser_project",
-  "pid": "22015",
-  "pname": "incognito private browser",
-  "pcpe": "cpe:/a:incognito_private_browser_project:incognito_private_browser"
+	"vid": "10524",
+	"vname": "incognito private browser project",
+	"vcpe": "cpe:/:incognito_private_browser_project",
+	"pid": "22015",
+	"pname": "incognito private browser",
+	"pcpe": "cpe:/a:incognito_private_browser_project:incognito_private_browser"
 }

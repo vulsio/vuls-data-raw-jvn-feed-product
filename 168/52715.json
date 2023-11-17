@@ -1,8 +1,8 @@
 {
-  "vid": "168",
-  "vname": "横河電機株式会社",
-  "vcpe": "cpe:/:yokogawa",
-  "pid": "52715",
-  "pname": "ワイドエリアコミュニケーションルータ用通信モジュール（AW810D 用）VI461",
-  "pcpe": "cpe:/a:yokogawa:communication_module_for_aw810d_vI461"
+	"vid": "168",
+	"vname": "横河電機株式会社",
+	"vcpe": "cpe:/:yokogawa",
+	"pid": "52715",
+	"pname": "ワイドエリアコミュニケーションルータ用通信モジュール（AW810D 用）VI461",
+	"pcpe": "cpe:/a:yokogawa:communication_module_for_aw810d_vI461"
 }

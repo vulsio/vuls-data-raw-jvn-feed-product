@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "11384",
-  "pname": "Secure Mail",
-  "pcpe": "cpe:/a:mcafee:secure_mail"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "11384",
+	"pname": "Secure Mail",
+	"pcpe": "cpe:/a:mcafee:secure_mail"
 }

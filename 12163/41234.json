@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "41234",
-  "pname": "Sonar Gerrit",
-  "pcpe": "cpe:/a:jenkins:sonar_gerrit"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "41234",
+	"pname": "Sonar Gerrit",
+	"pcpe": "cpe:/a:jenkins:sonar_gerrit"
 }

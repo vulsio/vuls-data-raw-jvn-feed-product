@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "15422",
-  "pname": "TIBCO Rendezvous DataSecurity",
-  "pcpe": "cpe:/a:tibco:rendezvous_datasecurity"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "15422",
+	"pname": "TIBCO Rendezvous DataSecurity",
+	"pcpe": "cpe:/a:tibco:rendezvous_datasecurity"
 }

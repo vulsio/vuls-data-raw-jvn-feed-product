@@ -1,8 +1,8 @@
 {
-  "vid": "13209",
-  "vname": "Salesforce.com, inc.",
-  "vcpe": "cpe:/:salesforce",
-  "pid": "49478",
-  "pname": "Salesforce Developer Experience",
-  "pcpe": "cpe:/a:salesforce:salesforce_developer_experience"
+	"vid": "13209",
+	"vname": "Salesforce.com, inc.",
+	"vcpe": "cpe:/:salesforce",
+	"pid": "49478",
+	"pname": "Salesforce Developer Experience",
+	"pcpe": "cpe:/a:salesforce:salesforce_developer_experience"
 }

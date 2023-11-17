@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "33402",
-  "pname": "DS-2CD9111-S ファームウェア",
-  "pcpe": "cpe:/o:hikvision:ds-2cd9111-s_firmware"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "33402",
+	"pname": "DS-2CD9111-S ファームウェア",
+	"pcpe": "cpe:/o:hikvision:ds-2cd9111-s_firmware"
 }

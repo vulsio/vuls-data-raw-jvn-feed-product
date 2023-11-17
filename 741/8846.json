@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "8846",
-  "pname": "DWL-2000AP+",
-  "pcpe": "cpe:/h:dlink:dwl-2000ap%2B"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "8846",
+	"pname": "DWL-2000AP+",
+	"pcpe": "cpe:/h:dlink:dwl-2000ap%2B"
 }

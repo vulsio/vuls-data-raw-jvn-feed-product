@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "46572",
-  "pname": "MongoDB",
-  "pcpe": "cpe:/a:jenkins:mongodb"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "46572",
+	"pname": "MongoDB",
+	"pcpe": "cpe:/a:jenkins:mongodb"
 }

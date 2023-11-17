@@ -1,8 +1,8 @@
 {
-  "vid": "20099",
-  "vname": "Datasette",
-  "vcpe": "cpe:/:datasette",
-  "pid": "50996",
-  "pname": "Datasette",
-  "pcpe": "cpe:/a:datasette:datasette"
+	"vid": "20099",
+	"vname": "Datasette",
+	"vcpe": "cpe:/:datasette",
+	"pid": "50996",
+	"pname": "Datasette",
+	"pcpe": "cpe:/a:datasette:datasette"
 }

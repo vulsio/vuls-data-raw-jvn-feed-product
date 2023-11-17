@@ -1,8 +1,8 @@
 {
-  "vid": "16367",
-  "vname": "Bibliosoft, LDA",
-  "vcpe": "cpe:/:bibliosoft",
-  "pid": "38662",
-  "pname": "BIBLIOpac",
-  "pcpe": "cpe:/a:bibliosoft:bibliopac"
+	"vid": "16367",
+	"vname": "Bibliosoft, LDA",
+	"vcpe": "cpe:/:bibliosoft",
+	"pid": "38662",
+	"pname": "BIBLIOpac",
+	"pcpe": "cpe:/a:bibliosoft:bibliopac"
 }

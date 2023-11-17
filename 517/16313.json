@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "16313",
-  "pname": "fiery webtools",
-  "pcpe": "cpe:/a:xerox:fiery_webtools"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "16313",
+	"pname": "fiery webtools",
+	"pcpe": "cpe:/a:xerox:fiery_webtools"
 }

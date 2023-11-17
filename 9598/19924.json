@@ -1,8 +1,8 @@
 {
-  "vid": "9598",
-  "vname": "PackageKit Project",
-  "vcpe": "cpe:/:packagekit_project",
-  "pid": "19924",
-  "pname": "PackageKit",
-  "pcpe": "cpe:/a:packagekit_project:packagekit"
+	"vid": "9598",
+	"vname": "PackageKit Project",
+	"vcpe": "cpe:/:packagekit_project",
+	"pid": "19924",
+	"pname": "PackageKit",
+	"pcpe": "cpe:/a:packagekit_project:packagekit"
 }

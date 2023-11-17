@@ -1,8 +1,8 @@
 {
-  "vid": "9661",
-  "vname": "OrbiTeam",
-  "vcpe": "cpe:/:bscw",
-  "pid": "52380",
-  "pname": "BSCW Classic",
-  "pcpe": "cpe:/a:bscw:bscw_classic"
+	"vid": "9661",
+	"vname": "OrbiTeam",
+	"vcpe": "cpe:/:bscw",
+	"pid": "52380",
+	"pname": "BSCW Classic",
+	"pcpe": "cpe:/a:bscw:bscw_classic"
 }

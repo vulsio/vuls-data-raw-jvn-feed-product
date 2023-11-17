@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "35917",
-  "pname": "eSOMS",
-  "pcpe": "cpe:/a:abb:esoms"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "35917",
+	"pname": "eSOMS",
+	"pcpe": "cpe:/a:abb:esoms"
 }

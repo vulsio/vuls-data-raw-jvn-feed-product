@@ -1,8 +1,8 @@
 {
-  "vid": "14703",
-  "vname": "HopperApp",
-  "vcpe": "cpe:/:hopperapp",
-  "pid": "34436",
-  "pname": "Hopper Disassembler",
-  "pcpe": "cpe:/a:hopperapp:hopper_disassembler"
+	"vid": "14703",
+	"vname": "HopperApp",
+	"vcpe": "cpe:/:hopperapp",
+	"pid": "34436",
+	"pname": "Hopper Disassembler",
+	"pcpe": "cpe:/a:hopperapp:hopper_disassembler"
 }

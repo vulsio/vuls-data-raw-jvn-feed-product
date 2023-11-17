@@ -1,8 +1,8 @@
 {
-  "vid": "1107",
-  "vname": "Xiaomi",
-  "vcpe": "cpe:/:xiaomi",
-  "pid": "38985",
-  "pname": "Mi 5s Plus ファームウェア",
-  "pcpe": "cpe:/o:xiaomi:mi_5s_plus_firmware"
+	"vid": "1107",
+	"vname": "Xiaomi",
+	"vcpe": "cpe:/:xiaomi",
+	"pid": "38985",
+	"pname": "Mi 5s Plus ファームウェア",
+	"pcpe": "cpe:/o:xiaomi:mi_5s_plus_firmware"
 }

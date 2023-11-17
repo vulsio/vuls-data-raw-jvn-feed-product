@@ -1,8 +1,8 @@
 {
-  "vid": "12989",
-  "vname": "HashiCorp",
-  "vcpe": "cpe:/:hashicorp",
-  "pid": "62197",
-  "pname": "consul template",
-  "pcpe": "cpe:/a:hashicorp:consul_template"
+	"vid": "12989",
+	"vname": "HashiCorp",
+	"vcpe": "cpe:/:hashicorp",
+	"pid": "62197",
+	"pname": "consul template",
+	"pcpe": "cpe:/a:hashicorp:consul_template"
 }

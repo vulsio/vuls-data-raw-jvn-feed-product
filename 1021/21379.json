@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "21379",
-  "pname": "OpenStack Trove",
-  "pcpe": "cpe:/a:openstack:trove"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "21379",
+	"pname": "OpenStack Trove",
+	"pcpe": "cpe:/a:openstack:trove"
 }

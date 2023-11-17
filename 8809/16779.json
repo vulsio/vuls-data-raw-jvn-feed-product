@@ -1,8 +1,8 @@
 {
-  "vid": "8809",
-  "vname": "Nodewords",
-  "vcpe": "cpe:/:nodewords_project",
-  "pid": "16779",
-  "pname": "Nodewords: D6 Meta Tags",
-  "pcpe": "cpe:/a:nodewords_project:nodewords"
+	"vid": "8809",
+	"vname": "Nodewords",
+	"vcpe": "cpe:/:nodewords_project",
+	"pid": "16779",
+	"pname": "Nodewords: D6 Meta Tags",
+	"pcpe": "cpe:/a:nodewords_project:nodewords"
 }

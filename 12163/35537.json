@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "35537",
-  "pname": "Inedo ProGet",
-  "pcpe": "cpe:/a:jenkins:inedo_proget"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "35537",
+	"pname": "Inedo ProGet",
+	"pcpe": "cpe:/a:jenkins:inedo_proget"
 }

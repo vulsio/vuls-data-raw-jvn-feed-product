@@ -1,8 +1,8 @@
 {
-  "vid": "3645",
-  "vname": "falcon",
-  "vcpe": "cpe:/:falcon",
-  "pid": "8001",
-  "pname": "series one cms",
-  "pcpe": "cpe:/a:falcon:series_one_cms"
+	"vid": "3645",
+	"vname": "falcon",
+	"vcpe": "cpe:/:falcon",
+	"pid": "8001",
+	"pname": "series one cms",
+	"pcpe": "cpe:/a:falcon:series_one_cms"
 }

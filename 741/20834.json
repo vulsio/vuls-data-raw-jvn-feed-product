@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "20834",
-  "pname": "DSP-W215 Wi-Fi Smart Plug ファームウェア",
-  "pcpe": "cpe:/o:dlink:dsp-w215_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "20834",
+	"pname": "DSP-W215 Wi-Fi Smart Plug ファームウェア",
+	"pcpe": "cpe:/o:dlink:dsp-w215_firmware"
 }

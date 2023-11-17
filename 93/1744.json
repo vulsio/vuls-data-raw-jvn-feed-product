@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1744",
-  "pname": "Userpoints",
-  "pcpe": "cpe:/a:drupal:userpoints_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1744",
+	"pname": "Userpoints",
+	"pcpe": "cpe:/a:drupal:userpoints_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "60493",
-  "pname": "sm6375 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sm6375_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "60493",
+	"pname": "sm6375 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sm6375_firmware"
 }

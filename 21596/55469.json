@@ -1,8 +1,8 @@
 {
-  "vid": "21596",
-  "vname": "EnumStringValues project",
-  "vcpe": "cpe:/:enumstringvalues_project",
-  "pid": "55469",
-  "pname": "EnumStringValues",
-  "pcpe": "cpe:/a:enumstringvalues_project:enumstringvalues"
+	"vid": "21596",
+	"vname": "EnumStringValues project",
+	"vcpe": "cpe:/:enumstringvalues_project",
+	"pid": "55469",
+	"pname": "EnumStringValues",
+	"pcpe": "cpe:/a:enumstringvalues_project:enumstringvalues"
 }

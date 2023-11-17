@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5266",
-  "pname": "Cisco SPA2102 Phone Adapter with Router ファームウェア",
-  "pcpe": "cpe:/o:cisco:spa2102_phone_adapter_with_router_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5266",
+	"pname": "Cisco SPA2102 Phone Adapter with Router ファームウェア",
+	"pcpe": "cpe:/o:cisco:spa2102_phone_adapter_with_router_firmware"
 }

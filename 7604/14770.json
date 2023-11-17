@@ -1,8 +1,8 @@
 {
-  "vid": "7604",
-  "vname": "Simple Invoices",
-  "vcpe": "cpe:/:simple_invoices",
-  "pid": "14770",
-  "pname": "Simple Invoices",
-  "pcpe": "cpe:/a:simple_invoices:simple_invoices"
+	"vid": "7604",
+	"vname": "Simple Invoices",
+	"vcpe": "cpe:/:simple_invoices",
+	"pid": "14770",
+	"pname": "Simple Invoices",
+	"pcpe": "cpe:/a:simple_invoices:simple_invoices"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9967",
-  "vname": "Shenzhen Tenda Technology Co.,Ltd.",
-  "vcpe": "cpe:/:tenda",
-  "pid": "61230",
-  "pname": "W20E ファームウェア",
-  "pcpe": "cpe:/o:tenda:w20e_firmware"
+	"vid": "9967",
+	"vname": "Shenzhen Tenda Technology Co.,Ltd.",
+	"vcpe": "cpe:/:tenda",
+	"pid": "61230",
+	"pname": "W20E ファームウェア",
+	"pcpe": "cpe:/o:tenda:w20e_firmware"
 }

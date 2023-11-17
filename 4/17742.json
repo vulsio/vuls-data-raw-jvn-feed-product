@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17742",
-  "pname": "LeftHand NSM2060 G2",
-  "pcpe": "cpe:/h:hp:lefthand_nsm2060_g2"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17742",
+	"pname": "LeftHand NSM2060 G2",
+	"pcpe": "cpe:/h:hp:lefthand_nsm2060_g2"
 }

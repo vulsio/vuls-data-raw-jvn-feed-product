@@ -1,8 +1,8 @@
 {
-  "vid": "12203",
-  "vname": "Nextcloud",
-  "vcpe": "cpe:/:nextcloud",
-  "pid": "38930",
-  "pname": "Extract",
-  "pcpe": "cpe:/a:nextcloud:extract"
+	"vid": "12203",
+	"vname": "Nextcloud",
+	"vcpe": "cpe:/:nextcloud",
+	"pid": "38930",
+	"pname": "Extract",
+	"pcpe": "cpe:/a:nextcloud:extract"
 }

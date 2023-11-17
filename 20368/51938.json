@@ -1,8 +1,8 @@
 {
-  "vid": "20368",
-  "vname": "Fortics",
-  "vcpe": "cpe:/:fortics",
-  "pid": "51938",
-  "pname": "SZ.chat",
-  "pcpe": "cpe:/a:fortics:szchat"
+	"vid": "20368",
+	"vname": "Fortics",
+	"vcpe": "cpe:/:fortics",
+	"pid": "51938",
+	"pname": "SZ.chat",
+	"pcpe": "cpe:/a:fortics:szchat"
 }

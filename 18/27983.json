@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27983",
-  "pname": "IBM Resilient",
-  "pcpe": "cpe:/a:ibm:resilient"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27983",
+	"pname": "IBM Resilient",
+	"pcpe": "cpe:/a:ibm:resilient"
 }

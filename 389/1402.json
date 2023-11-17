@@ -1,8 +1,8 @@
 {
-  "vid": "389",
-  "vname": "ClamAV",
-  "vcpe": "cpe:/:clamav",
-  "pid": "1402",
-  "pname": "ClamAV",
-  "pcpe": "cpe:/a:clamav:clamav"
+	"vid": "389",
+	"vname": "ClamAV",
+	"vcpe": "cpe:/:clamav",
+	"pid": "1402",
+	"pname": "ClamAV",
+	"pcpe": "cpe:/a:clamav:clamav"
 }

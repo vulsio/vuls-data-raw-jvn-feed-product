@@ -1,8 +1,8 @@
 {
-  "vid": "18616",
-  "vname": "CS2 Network",
-  "vcpe": "cpe:/:cs2-network",
-  "pid": "45949",
-  "pname": "P2P",
-  "pcpe": "cpe:/a:cs2-network:p2p"
+	"vid": "18616",
+	"vname": "CS2 Network",
+	"vcpe": "cpe:/:cs2-network",
+	"pid": "45949",
+	"pname": "P2P",
+	"pcpe": "cpe:/a:cs2-network:p2p"
 }

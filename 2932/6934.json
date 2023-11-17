@@ -1,8 +1,8 @@
 {
-  "vid": "2932",
-  "vname": "commtouch",
-  "vcpe": "cpe:/:commtouch",
-  "pid": "6934",
-  "pname": "enterprise anti-spam gateway",
-  "pcpe": "cpe:/a:commtouch:enterprise_anti-spam_gateway"
+	"vid": "2932",
+	"vname": "commtouch",
+	"vcpe": "cpe:/:commtouch",
+	"pid": "6934",
+	"pname": "enterprise anti-spam gateway",
+	"pcpe": "cpe:/a:commtouch:enterprise_anti-spam_gateway"
 }

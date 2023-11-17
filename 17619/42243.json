@@ -1,8 +1,8 @@
 {
-  "vid": "17619",
-  "vname": "verot.net",
-  "vcpe": "cpe:/:verot_project",
-  "pid": "42243",
-  "pname": "verot",
-  "pcpe": "cpe:/a:verot_project:verot"
+	"vid": "17619",
+	"vname": "verot.net",
+	"vcpe": "cpe:/:verot_project",
+	"pid": "42243",
+	"pname": "verot",
+	"pcpe": "cpe:/a:verot_project:verot"
 }

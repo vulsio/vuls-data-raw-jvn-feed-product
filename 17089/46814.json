@@ -1,8 +1,8 @@
 {
-  "vid": "17089",
-  "vname": "Micro-Star INT'L CO., LTD",
-  "vcpe": "cpe:/:msi",
-  "pid": "46814",
-  "pname": "Ambient Link MSLO64 ファームウェア",
-  "pcpe": "cpe:/o:msi:ambientlink_mslo64_firmware"
+	"vid": "17089",
+	"vname": "Micro-Star INT'L CO., LTD",
+	"vcpe": "cpe:/:msi",
+	"pid": "46814",
+	"pname": "Ambient Link MSLO64 ファームウェア",
+	"pcpe": "cpe:/o:msi:ambientlink_mslo64_firmware"
 }

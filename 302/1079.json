@@ -1,8 +1,8 @@
 {
-  "vid": "302",
-  "vname": "net-dns.org",
-  "vcpe": "cpe:/:net_dns",
-  "pid": "1079",
-  "pname": "Net::DNS",
-  "pcpe": "cpe:/a:net_dns:net_dns"
+	"vid": "302",
+	"vname": "net-dns.org",
+	"vcpe": "cpe:/:net_dns",
+	"pid": "1079",
+	"pname": "Net::DNS",
+	"pcpe": "cpe:/a:net_dns:net_dns"
 }

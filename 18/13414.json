@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "13414",
-  "pname": "IBM Flex System Integrated Management Module",
-  "pcpe": "cpe:/a:ibm:flex_system_integrated_management_module"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "13414",
+	"pname": "IBM Flex System Integrated Management Module",
+	"pcpe": "cpe:/a:ibm:flex_system_integrated_management_module"
 }

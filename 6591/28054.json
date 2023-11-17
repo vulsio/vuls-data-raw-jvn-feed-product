@@ -1,8 +1,8 @@
 {
-  "vid": "6591",
-  "vname": "PayPal",
-  "vcpe": "cpe:/:paypal",
-  "pid": "28054",
-  "pname": "PHP Merchant SDK",
-  "pcpe": "cpe:/a:paypal:merchant-sdk-php"
+	"vid": "6591",
+	"vname": "PayPal",
+	"vcpe": "cpe:/:paypal",
+	"pid": "28054",
+	"pname": "PHP Merchant SDK",
+	"pcpe": "cpe:/a:paypal:merchant-sdk-php"
 }

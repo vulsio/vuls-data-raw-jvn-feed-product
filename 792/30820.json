@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "30820",
-  "pname": "P8702N ファームウェア",
-  "pcpe": "cpe:/o:zyxel:p8702n_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "30820",
+	"pname": "P8702N ファームウェア",
+	"pcpe": "cpe:/o:zyxel:p8702n_firmware"
 }

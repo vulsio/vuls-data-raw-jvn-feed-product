@@ -1,8 +1,8 @@
 {
-  "vid": "27",
-  "vname": "Mozilla Foundation",
-  "vcpe": "cpe:/:mozilla",
-  "pid": "50896",
-  "pname": "NSS",
-  "pcpe": "cpe:/a:mozilla:nss"
+	"vid": "27",
+	"vname": "Mozilla Foundation",
+	"vcpe": "cpe:/:mozilla",
+	"pid": "50896",
+	"pname": "NSS",
+	"pcpe": "cpe:/a:mozilla:nss"
 }

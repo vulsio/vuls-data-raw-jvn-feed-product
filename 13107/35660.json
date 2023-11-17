@@ -1,8 +1,8 @@
 {
-  "vid": "13107",
-  "vname": "Intelbras",
-  "vcpe": "cpe:/:intelbras",
-  "pid": "35660",
-  "pname": "WIN 240 ファームウェア",
-  "pcpe": "cpe:/o:intelbras:win_240_firmware"
+	"vid": "13107",
+	"vname": "Intelbras",
+	"vcpe": "cpe:/:intelbras",
+	"pid": "35660",
+	"pname": "WIN 240 ファームウェア",
+	"pcpe": "cpe:/o:intelbras:win_240_firmware"
 }

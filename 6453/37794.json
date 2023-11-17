@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "37794",
-  "pname": "XC6152_ファームウェア",
-  "pcpe": "cpe:/o:lexmark:xc6152_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "37794",
+	"pname": "XC6152_ファームウェア",
+	"pcpe": "cpe:/o:lexmark:xc6152_firmware"
 }

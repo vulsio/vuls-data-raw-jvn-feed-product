@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63627",
-  "pname": "6gk5816-1aa00-2aa2 ファームウェア",
-  "pcpe": "cpe:/o:siemens:6gk5816-1aa00-2aa2_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63627",
+	"pname": "6gk5816-1aa00-2aa2 ファームウェア",
+	"pcpe": "cpe:/o:siemens:6gk5816-1aa00-2aa2_firmware"
 }

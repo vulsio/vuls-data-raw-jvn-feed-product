@@ -1,8 +1,8 @@
 {
-  "vid": "12187",
-  "vname": "日本ユニシス株式会社",
-  "vcpe": "cpe:/:unisys",
-  "pid": "26767",
-  "pname": "mobiGate",
-  "pcpe": "cpe:/a:unisys:mobigate"
+	"vid": "12187",
+	"vname": "日本ユニシス株式会社",
+	"vcpe": "cpe:/:unisys",
+	"pid": "26767",
+	"pname": "mobiGate",
+	"pcpe": "cpe:/a:unisys:mobigate"
 }

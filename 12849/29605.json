@@ -1,8 +1,8 @@
 {
-  "vid": "12849",
-  "vname": "Genivia",
-  "vcpe": "cpe:/:genivia",
-  "pid": "29605",
-  "pname": "gSOAP",
-  "pcpe": "cpe:/a:genivia:gsoap"
+	"vid": "12849",
+	"vname": "Genivia",
+	"vcpe": "cpe:/:genivia",
+	"pid": "29605",
+	"pname": "gSOAP",
+	"pcpe": "cpe:/a:genivia:gsoap"
 }

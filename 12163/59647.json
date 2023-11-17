@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "59647",
-  "pname": "wmi windows agents",
-  "pcpe": "cpe:/a:jenkins:wmi_windows_agents"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "59647",
+	"pname": "wmi windows agents",
+	"pcpe": "cpe:/a:jenkins:wmi_windows_agents"
 }

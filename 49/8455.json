@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "8455",
-  "pname": "gnumail",
-  "pcpe": "cpe:/a:gnu:gnumail"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "8455",
+	"pname": "gnumail",
+	"pcpe": "cpe:/a:gnu:gnumail"
 }

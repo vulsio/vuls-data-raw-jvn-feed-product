@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "50119",
-  "pname": "Jersey",
-  "pcpe": "cpe:/a:eclipse:jersey"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "50119",
+	"pname": "Jersey",
+	"pcpe": "cpe:/a:eclipse:jersey"
 }

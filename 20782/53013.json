@@ -1,8 +1,8 @@
 {
-  "vid": "20782",
-  "vname": "activemedia",
-  "vcpe": "cpe:/:activemedia",
-  "pid": "53013",
-  "pname": "MicroCopy",
-  "pcpe": "cpe:/a:activemedia:microcopy"
+	"vid": "20782",
+	"vname": "activemedia",
+	"vcpe": "cpe:/:activemedia",
+	"pid": "53013",
+	"pname": "MicroCopy",
+	"pcpe": "cpe:/a:activemedia:microcopy"
 }

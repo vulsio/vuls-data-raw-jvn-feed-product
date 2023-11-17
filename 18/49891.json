@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "49891",
-  "pname": "Tivoli Netcool/OMNIbus Web GUI",
-  "pcpe": "cpe:/a:ibm:tivoli_netcool%2fomnibus_webgui"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "49891",
+	"pname": "Tivoli Netcool/OMNIbus Web GUI",
+	"pcpe": "cpe:/a:ibm:tivoli_netcool%2fomnibus_webgui"
 }

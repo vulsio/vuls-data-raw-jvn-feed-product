@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "50450",
-  "pname": "C220 M5 ファームウェア",
-  "pcpe": "cpe:/o:cisco:c220_m5_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "50450",
+	"pname": "C220 M5 ファームウェア",
+	"pcpe": "cpe:/o:cisco:c220_m5_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13401",
-  "vname": "DocuWare",
-  "vcpe": "cpe:/:docuware",
-  "pid": "31401",
-  "pname": "Fulltext Search サーバ",
-  "pcpe": "cpe:/a:docuware:fulltext_server"
+	"vid": "13401",
+	"vname": "DocuWare",
+	"vcpe": "cpe:/:docuware",
+	"pid": "31401",
+	"pname": "Fulltext Search サーバ",
+	"pcpe": "cpe:/a:docuware:fulltext_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10359",
-  "vname": "Nextend",
-  "vcpe": "cpe:/:nextendweb",
-  "pid": "51118",
-  "pname": "Smart Slider",
-  "pcpe": "cpe:/a:nextendweb:smart_slider"
+	"vid": "10359",
+	"vname": "Nextend",
+	"vcpe": "cpe:/:nextendweb",
+	"pid": "51118",
+	"pname": "Smart Slider",
+	"pcpe": "cpe:/a:nextendweb:smart_slider"
 }

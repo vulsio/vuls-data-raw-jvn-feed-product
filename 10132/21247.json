@@ -1,8 +1,8 @@
 {
-  "vid": "10132",
-  "vname": "Pop-Hub Limited",
-  "vcpe": "cpe:/:pop-hub",
-  "pid": "21247",
-  "pname": "IQテスト",
-  "pcpe": "cpe:/a:pop-hub:iq_test"
+	"vid": "10132",
+	"vname": "Pop-Hub Limited",
+	"vcpe": "cpe:/:pop-hub",
+	"pid": "21247",
+	"pname": "IQテスト",
+	"pcpe": "cpe:/a:pop-hub:iq_test"
 }

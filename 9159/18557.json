@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "18557",
-  "pname": "Xper Information Management Physiomonitoring 5",
-  "pcpe": "cpe:/a:philips:xper_information_management_physiomonitoring_5"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "18557",
+	"pname": "Xper Information Management Physiomonitoring 5",
+	"pcpe": "cpe:/a:philips:xper_information_management_physiomonitoring_5"
 }

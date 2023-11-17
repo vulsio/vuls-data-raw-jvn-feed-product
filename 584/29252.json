@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29252",
-  "pname": "SINAMICS V90 w. PN ファームウェア",
-  "pcpe": "cpe:/o:siemens:sinamics_v90_w._pn_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29252",
+	"pname": "SINAMICS V90 w. PN ファームウェア",
+	"pcpe": "cpe:/o:siemens:sinamics_v90_w._pn_firmware"
 }

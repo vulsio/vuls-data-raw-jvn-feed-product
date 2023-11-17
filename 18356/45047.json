@@ -1,8 +1,8 @@
 {
-  "vid": "18356",
-  "vname": "pam_tacplus project",
-  "vcpe": "cpe:/:pam_tacplus_project",
-  "pid": "45047",
-  "pname": "pam_tacplus",
-  "pcpe": "cpe:/a:pam_tacplus_project:pam_tacplus"
+	"vid": "18356",
+	"vname": "pam_tacplus project",
+	"vcpe": "cpe:/:pam_tacplus_project",
+	"pid": "45047",
+	"pname": "pam_tacplus",
+	"pcpe": "cpe:/a:pam_tacplus_project:pam_tacplus"
 }

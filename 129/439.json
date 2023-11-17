@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "439",
-  "pname": "Cosminexus Web Contents Generator",
-  "pcpe": "cpe:/a:hitachi:cosminexus_web_contents_generator"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "439",
+	"pname": "Cosminexus Web Contents Generator",
+	"pcpe": "cpe:/a:hitachi:cosminexus_web_contents_generator"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "1770",
-  "pname": "HP Secure Web Server for Tru64 UNIX",
-  "pcpe": "cpe:/a:hp:secure_web_server_for_tru64"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "1770",
+	"pname": "HP Secure Web Server for Tru64 UNIX",
+	"pcpe": "cpe:/a:hp:secure_web_server_for_tru64"
 }

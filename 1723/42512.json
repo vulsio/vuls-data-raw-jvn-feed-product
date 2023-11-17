@@ -1,8 +1,8 @@
 {
-  "vid": "1723",
-  "vname": "SonicWALL",
-  "vcpe": "cpe:/:sonicwall",
-  "pid": "42512",
-  "pname": "SonicOS SSLVPN NACagent",
-  "pcpe": "cpe:/a:sonicwall:sonicos_sslvpn_nacagent"
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "42512",
+	"pname": "SonicOS SSLVPN NACagent",
+	"pcpe": "cpe:/a:sonicwall:sonicos_sslvpn_nacagent"
 }

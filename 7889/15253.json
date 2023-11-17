@@ -1,8 +1,8 @@
 {
-  "vid": "7889",
-  "vname": "systementor",
-  "vcpe": "cpe:/:systementor",
-  "pid": "15253",
-  "pname": "postcardmentor",
-  "pcpe": "cpe:/a:systementor:postcardmentor"
+	"vid": "7889",
+	"vname": "systementor",
+	"vcpe": "cpe:/:systementor",
+	"pid": "15253",
+	"pname": "postcardmentor",
+	"pcpe": "cpe:/a:systementor:postcardmentor"
 }

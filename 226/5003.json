@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "5003",
-  "pname": "opensuse factory",
-  "pcpe": "cpe:/o:novell:opensuse_factory"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "5003",
+	"pname": "opensuse factory",
+	"pcpe": "cpe:/o:novell:opensuse_factory"
 }

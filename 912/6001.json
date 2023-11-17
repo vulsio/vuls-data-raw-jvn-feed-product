@@ -1,8 +1,8 @@
 {
-  "vid": "912",
-  "vname": "ASP indir",
-  "vcpe": "cpe:/:aspindir",
-  "pid": "6001",
-  "pname": "pcshey portal",
-  "pcpe": "cpe:/a:aspindir:pcshey_portal"
+	"vid": "912",
+	"vname": "ASP indir",
+	"vcpe": "cpe:/:aspindir",
+	"pid": "6001",
+	"pname": "pcshey portal",
+	"pcpe": "cpe:/a:aspindir:pcshey_portal"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12499",
-  "vname": "Delta Electronics",
-  "vcpe": "cpe:/:delta_electronics",
-  "pid": "33710",
-  "pname": "TPEditor",
-  "pcpe": "cpe:/a:delta_electronics:tpeditor"
+	"vid": "12499",
+	"vname": "Delta Electronics",
+	"vcpe": "cpe:/:delta_electronics",
+	"pid": "33710",
+	"pname": "TPEditor",
+	"pcpe": "cpe:/a:delta_electronics:tpeditor"
 }

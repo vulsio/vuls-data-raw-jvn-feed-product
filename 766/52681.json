@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "52681",
-  "pname": "Modicon Quantum 140CPU65150C",
-  "pcpe": "cpe:/o:schneider_electric:modicon_quantum_140cpu65150c"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "52681",
+	"pname": "Modicon Quantum 140CPU65150C",
+	"pcpe": "cpe:/o:schneider_electric:modicon_quantum_140cpu65150c"
 }

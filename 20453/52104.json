@@ -1,8 +1,8 @@
 {
-  "vid": "20453",
-  "vname": "DEPSTECH",
-  "vcpe": "cpe:/:depstech",
-  "pid": "52104",
-  "pname": "WiFi Digital Microscope 3 ファームウェア",
-  "pcpe": "cpe:/o:depstech:wifi_digital_microscope_3_firmware"
+	"vid": "20453",
+	"vname": "DEPSTECH",
+	"vcpe": "cpe:/:depstech",
+	"pid": "52104",
+	"pname": "WiFi Digital Microscope 3 ファームウェア",
+	"pcpe": "cpe:/o:depstech:wifi_digital_microscope_3_firmware"
 }

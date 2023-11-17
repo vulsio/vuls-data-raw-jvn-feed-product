@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "59964",
-  "pname": "ThinkAgile VX Enclosure ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkagile_vx_enclosure_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "59964",
+	"pname": "ThinkAgile VX Enclosure ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkagile_vx_enclosure_firmware"
 }

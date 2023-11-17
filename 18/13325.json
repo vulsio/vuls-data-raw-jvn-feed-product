@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "13325",
-  "pname": "IBM WebSphere DataPower XC10 アプライアンス",
-  "pcpe": "cpe:/h:ibm:websphere_datapower_xc10_appliance"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "13325",
+	"pname": "IBM WebSphere DataPower XC10 アプライアンス",
+	"pcpe": "cpe:/h:ibm:websphere_datapower_xc10_appliance"
 }

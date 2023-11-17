@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "59632",
-  "pname": "smart standby driver",
-  "pcpe": "cpe:/a:lenovo:smart_standby_driver"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "59632",
+	"pname": "smart standby driver",
+	"pcpe": "cpe:/a:lenovo:smart_standby_driver"
 }

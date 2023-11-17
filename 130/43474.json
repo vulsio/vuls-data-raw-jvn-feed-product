@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "43474",
-  "pname": "Intel 82574L controller ファームウェア",
-  "pcpe": "cpe:/o:intel:82574l_controller_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "43474",
+	"pname": "Intel 82574L controller ファームウェア",
+	"pcpe": "cpe:/o:intel:82574l_controller_firmware"
 }

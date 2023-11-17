@@ -1,8 +1,8 @@
 {
-  "vid": "377",
-  "vname": "LHa for UNIX project",
-  "vcpe": "cpe:/:lha_for_unix_project",
-  "pid": "1374",
-  "pname": "LHa for UNIX",
-  "pcpe": "cpe:/a:lha_for_unix_project:lha_for_unix"
+	"vid": "377",
+	"vname": "LHa for UNIX project",
+	"vcpe": "cpe:/:lha_for_unix_project",
+	"pid": "1374",
+	"pname": "LHa for UNIX",
+	"pcpe": "cpe:/a:lha_for_unix_project:lha_for_unix"
 }

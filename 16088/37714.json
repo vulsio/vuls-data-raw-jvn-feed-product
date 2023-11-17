@@ -1,8 +1,8 @@
 {
-  "vid": "16088",
-  "vname": "Pangea Communications",
-  "vcpe": "cpe:/:pangea-comm",
-  "pid": "37714",
-  "pname": "FAX ATA",
-  "pcpe": "cpe:/a:pangea-comm:fax_ata"
+	"vid": "16088",
+	"vname": "Pangea Communications",
+	"vcpe": "cpe:/:pangea-comm",
+	"pid": "37714",
+	"pname": "FAX ATA",
+	"pcpe": "cpe:/a:pangea-comm:fax_ata"
 }

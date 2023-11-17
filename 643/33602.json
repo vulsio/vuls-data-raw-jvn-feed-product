@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "33602",
-  "pname": "Dell EMC VNXe3300 Operating Environment",
-  "pcpe": "cpe:/a:dell:emc_vnxe_3300__operating_environment"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "33602",
+	"pname": "Dell EMC VNXe3300 Operating Environment",
+	"pcpe": "cpe:/a:dell:emc_vnxe_3300__operating_environment"
 }

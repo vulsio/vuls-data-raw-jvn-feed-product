@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17791",
-  "pname": "Cisco Catalyst 6500 シリーズ Intrusion Detection System Module",
-  "pcpe": "cpe:/h:cisco:idsm-2"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17791",
+	"pname": "Cisco Catalyst 6500 シリーズ Intrusion Detection System Module",
+	"pcpe": "cpe:/h:cisco:idsm-2"
 }

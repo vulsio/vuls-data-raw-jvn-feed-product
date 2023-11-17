@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "48608",
-  "pname": "P1302-T10 v3 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:p1302-t10_v3_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "48608",
+	"pname": "P1302-T10 v3 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:p1302-t10_v3_firmware"
 }

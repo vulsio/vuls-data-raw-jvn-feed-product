@@ -1,8 +1,8 @@
 {
-  "vid": "9199",
-  "vname": "CYBONET (旧 PineApp)",
-  "vcpe": "cpe:/:cybonet",
-  "pid": "18696",
-  "pname": "PineApp Mail Secure",
-  "pcpe": "cpe:/a:cybonet:pineapp_mail_secure"
+	"vid": "9199",
+	"vname": "CYBONET (旧 PineApp)",
+	"vcpe": "cpe:/:cybonet",
+	"pid": "18696",
+	"pname": "PineApp Mail Secure",
+	"pcpe": "cpe:/a:cybonet:pineapp_mail_secure"
 }

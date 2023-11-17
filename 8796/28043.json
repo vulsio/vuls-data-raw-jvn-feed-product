@@ -1,8 +1,8 @@
 {
-  "vid": "8796",
-  "vname": "Carlo Gavazzi",
-  "vcpe": "cpe:/:carlosgavazzi",
-  "pid": "28043",
-  "pname": "VMU-C PV ファームウェア",
-  "pcpe": "cpe:/o:carlosgavazzi:vmu-c_pv_firmware"
+	"vid": "8796",
+	"vname": "Carlo Gavazzi",
+	"vcpe": "cpe:/:carlosgavazzi",
+	"pid": "28043",
+	"pname": "VMU-C PV ファームウェア",
+	"pcpe": "cpe:/o:carlosgavazzi:vmu-c_pv_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "18955",
-  "pname": "Rational Rhapsody Design Manager",
-  "pcpe": "cpe:/a:ibm:rational_rhapsody_design_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "18955",
+	"pname": "Rational Rhapsody Design Manager",
+	"pcpe": "cpe:/a:ibm:rational_rhapsody_design_manager"
 }

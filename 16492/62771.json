@@ -1,8 +1,8 @@
 {
-  "vid": "16492",
-  "vname": "miniOrange",
-  "vcpe": "cpe:/:miniorange",
-  "pid": "62771",
-  "pname": "wp oauth server",
-  "pcpe": "cpe:/a:miniorange:wp_oauth_server"
+	"vid": "16492",
+	"vname": "miniOrange",
+	"vcpe": "cpe:/:miniorange",
+	"pid": "62771",
+	"pname": "wp oauth server",
+	"pcpe": "cpe:/a:miniorange:wp_oauth_server"
 }

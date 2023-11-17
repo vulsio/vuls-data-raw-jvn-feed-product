@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "30879",
-  "pname": "OWASP Dependency-Check",
-  "pcpe": "cpe:/a:jenkins:owasp_dependency-check"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "30879",
+	"pname": "OWASP Dependency-Check",
+	"pcpe": "cpe:/a:jenkins:owasp_dependency-check"
 }

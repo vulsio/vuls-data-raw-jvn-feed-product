@@ -1,8 +1,8 @@
 {
-  "vid": "18978",
-  "vname": "LMA ISIDA",
-  "vcpe": "cpe:/:isida",
-  "pid": "47510",
-  "pname": "ISIDA RETRIEVER",
-  "pcpe": "cpe:/a:isida:retriever"
+	"vid": "18978",
+	"vname": "LMA ISIDA",
+	"vcpe": "cpe:/:isida",
+	"pid": "47510",
+	"pname": "ISIDA RETRIEVER",
+	"pcpe": "cpe:/a:isida:retriever"
 }

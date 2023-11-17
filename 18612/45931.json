@@ -1,8 +1,8 @@
 {
-  "vid": "18612",
-  "vname": "Fieldcomm Group",
-  "vcpe": "cpe:/:misc",
-  "pid": "45931",
-  "pname": "hipserver",
-  "pcpe": "cpe:/a:misc:fieldcom_group_hipserver"
+	"vid": "18612",
+	"vname": "Fieldcomm Group",
+	"vcpe": "cpe:/:misc",
+	"pid": "45931",
+	"pname": "hipserver",
+	"pcpe": "cpe:/a:misc:fieldcom_group_hipserver"
 }

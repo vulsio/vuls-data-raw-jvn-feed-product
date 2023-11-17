@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "29436",
-  "pname": "Cisco Elastic Services Controller",
-  "pcpe": "cpe:/a:cisco:elastic_services_controller"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "29436",
+	"pname": "Cisco Elastic Services Controller",
+	"pcpe": "cpe:/a:cisco:elastic_services_controller"
 }

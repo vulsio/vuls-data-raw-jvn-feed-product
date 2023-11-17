@@ -1,8 +1,8 @@
 {
-  "vid": "14680",
-  "vname": "メディアテック",
-  "vcpe": "cpe:/:mediatek",
-  "pid": "61226",
-  "pname": "MT5221 ファームウェア",
-  "pcpe": "cpe:/o:mediatek:mt5221_firmware"
+	"vid": "14680",
+	"vname": "メディアテック",
+	"vcpe": "cpe:/:mediatek",
+	"pid": "61226",
+	"pname": "MT5221 ファームウェア",
+	"pcpe": "cpe:/o:mediatek:mt5221_firmware"
 }

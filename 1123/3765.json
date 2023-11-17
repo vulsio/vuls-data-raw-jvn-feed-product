@@ -1,8 +1,8 @@
 {
-  "vid": "1123",
-  "vname": "DuckCorp Projects",
-  "vcpe": "cpe:/:duckcorp",
-  "pid": "3765",
-  "pname": "Bip",
-  "pcpe": "cpe:/a:duckcorp:bip"
+	"vid": "1123",
+	"vname": "DuckCorp Projects",
+	"vcpe": "cpe:/:duckcorp",
+	"pid": "3765",
+	"pname": "Bip",
+	"pcpe": "cpe:/a:duckcorp:bip"
 }

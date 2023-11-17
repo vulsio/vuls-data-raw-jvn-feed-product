@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "25684",
-  "pname": "1769 CompactLogix コントローラファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:compactlogix_controller_1769_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "25684",
+	"pname": "1769 CompactLogix コントローラファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:compactlogix_controller_1769_firmware"
 }

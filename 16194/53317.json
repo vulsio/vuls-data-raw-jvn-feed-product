@@ -1,8 +1,8 @@
 {
-  "vid": "16194",
-  "vname": "Digi International Inc.",
-  "vcpe": "cpe:/:digi",
-  "pid": "53317",
-  "pname": "ConnectPort X2D Gateway",
-  "pcpe": "cpe:/a:digi:connectport_x2ed_gateway"
+	"vid": "16194",
+	"vname": "Digi International Inc.",
+	"vcpe": "cpe:/:digi",
+	"pid": "53317",
+	"pname": "ConnectPort X2D Gateway",
+	"pcpe": "cpe:/a:digi:connectport_x2ed_gateway"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8941",
-  "vname": "MatrikonOPC",
-  "vcpe": "cpe:/:matrikonopc",
-  "pid": "17232",
-  "pname": "MatrikonOPC A&E Historian",
-  "pcpe": "cpe:/a:matrikonopc:matrikonopc_a%26e_historian"
+	"vid": "8941",
+	"vname": "MatrikonOPC",
+	"vcpe": "cpe:/:matrikonopc",
+	"pid": "17232",
+	"pname": "MatrikonOPC A&E Historian",
+	"pcpe": "cpe:/a:matrikonopc:matrikonopc_a%26e_historian"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2285",
-  "vname": "Arcserve",
-  "vcpe": "cpe:/:arcserve",
-  "pid": "24153",
-  "pname": "Arcserve Unified Data Protection",
-  "pcpe": "cpe:/a:arcserve:arcserve_unified_data_protection"
+	"vid": "2285",
+	"vname": "Arcserve",
+	"vcpe": "cpe:/:arcserve",
+	"pid": "24153",
+	"pname": "Arcserve Unified Data Protection",
+	"pcpe": "cpe:/a:arcserve:arcserve_unified_data_protection"
 }

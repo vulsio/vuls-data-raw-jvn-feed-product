@@ -1,8 +1,8 @@
 {
-  "vid": "14790",
-  "vname": "Safe’N’Sec Corporation",
-  "vcpe": "cpe:/:safensoft",
-  "pid": "34643",
-  "pname": "SoftControl/SafenSoft Enterprise Suite",
-  "pcpe": "cpe:/a:safensoft:softcontrol_enterprise_suite"
+	"vid": "14790",
+	"vname": "Safe’N’Sec Corporation",
+	"vcpe": "cpe:/:safensoft",
+	"pid": "34643",
+	"pname": "SoftControl/SafenSoft Enterprise Suite",
+	"pcpe": "cpe:/a:safensoft:softcontrol_enterprise_suite"
 }

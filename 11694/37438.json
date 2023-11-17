@@ -1,8 +1,8 @@
 {
-  "vid": "11694",
-  "vname": "Swisscom AG",
-  "vcpe": "cpe:/:swisscom",
-  "pid": "37438",
-  "pname": "Internet Box Standard ファームウェア",
-  "pcpe": "cpe:/o:swisscom:internet-box_standard_firmware"
+	"vid": "11694",
+	"vname": "Swisscom AG",
+	"vcpe": "cpe:/:swisscom",
+	"pid": "37438",
+	"pname": "Internet Box Standard ファームウェア",
+	"pcpe": "cpe:/o:swisscom:internet-box_standard_firmware"
 }

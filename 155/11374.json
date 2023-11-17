@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "11374",
-  "pname": "McAfee GroupShield",
-  "pcpe": "cpe:/a:mcafee:groupshield"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "11374",
+	"pname": "McAfee GroupShield",
+	"pcpe": "cpe:/a:mcafee:groupshield"
 }

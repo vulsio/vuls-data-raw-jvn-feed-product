@@ -1,8 +1,8 @@
 {
-  "vid": "4176",
-  "vname": "Belkin International",
-  "vcpe": "cpe:/:belkin",
-  "pid": "19469",
-  "pname": "N Wireless Router",
-  "pcpe": "cpe:/h:belkin:f5d8236-4-v2"
+	"vid": "4176",
+	"vname": "Belkin International",
+	"vcpe": "cpe:/:belkin",
+	"pid": "19469",
+	"pname": "N Wireless Router",
+	"pcpe": "cpe:/h:belkin:f5d8236-4-v2"
 }

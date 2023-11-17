@@ -1,8 +1,8 @@
 {
-  "vid": "6155",
-  "vname": "OpenText",
-  "vcpe": "cpe:/:opentext",
-  "pid": "29043",
-  "pname": "Tempo Box",
-  "pcpe": "cpe:/a:opentext:tempo_box"
+	"vid": "6155",
+	"vname": "OpenText",
+	"vcpe": "cpe:/:opentext",
+	"pid": "29043",
+	"pname": "Tempo Box",
+	"pcpe": "cpe:/a:opentext:tempo_box"
 }

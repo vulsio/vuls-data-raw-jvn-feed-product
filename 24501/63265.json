@@ -1,8 +1,8 @@
 {
-  "vid": "24501",
-  "vname": "goolytics project",
-  "vcpe": "cpe:/:goolytics_project",
-  "pid": "63265",
-  "pname": "goolytics",
-  "pcpe": "cpe:/a:goolytics_project:goolytics"
+	"vid": "24501",
+	"vname": "goolytics project",
+	"vcpe": "cpe:/:goolytics_project",
+	"pid": "63265",
+	"pname": "goolytics",
+	"pcpe": "cpe:/a:goolytics_project:goolytics"
 }

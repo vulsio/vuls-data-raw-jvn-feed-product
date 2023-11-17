@@ -1,8 +1,8 @@
 {
-  "vid": "17988",
-  "vname": "Synchronet",
-  "vcpe": "cpe:/:synchro",
-  "pid": "43559",
-  "pname": "Synchronet BBS",
-  "pcpe": "cpe:/a:synchro:bbs"
+	"vid": "17988",
+	"vname": "Synchronet",
+	"vcpe": "cpe:/:synchro",
+	"pid": "43559",
+	"pname": "Synchronet BBS",
+	"pcpe": "cpe:/a:synchro:bbs"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20254",
-  "vname": "Chikitsa",
-  "vcpe": "cpe:/:chikitsa",
-  "pid": "51603",
-  "pname": "Patient Management System",
-  "pcpe": "cpe:/a:chikitsa:patient_management_system"
+	"vid": "20254",
+	"vname": "Chikitsa",
+	"vcpe": "cpe:/:chikitsa",
+	"pid": "51603",
+	"pname": "Patient Management System",
+	"pcpe": "cpe:/a:chikitsa:patient_management_system"
 }

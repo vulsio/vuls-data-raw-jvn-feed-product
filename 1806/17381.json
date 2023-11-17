@@ -1,8 +1,8 @@
 {
-  "vid": "1806",
-  "vname": "東芝テック",
-  "vcpe": "cpe:/:toshibatec",
-  "pid": "17381",
-  "pname": "e-STUDIO 5520C",
-  "pcpe": "cpe:/h:toshibatec:e-studio-5520c"
+	"vid": "1806",
+	"vname": "東芝テック",
+	"vcpe": "cpe:/:toshibatec",
+	"pid": "17381",
+	"pname": "e-STUDIO 5520C",
+	"pcpe": "cpe:/h:toshibatec:e-studio-5520c"
 }

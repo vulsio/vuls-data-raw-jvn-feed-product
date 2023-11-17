@@ -1,8 +1,8 @@
 {
-  "vid": "12411",
-  "vname": "PHP Form Mail Maker",
-  "vcpe": "cpe:/:jqueryform",
-  "pid": "28030",
-  "pname": "PHP FormMail Generator",
-  "pcpe": "cpe:/a:jqueryform:php_formmail_generator"
+	"vid": "12411",
+	"vname": "PHP Form Mail Maker",
+	"vcpe": "cpe:/:jqueryform",
+	"pid": "28030",
+	"pname": "PHP FormMail Generator",
+	"pcpe": "cpe:/a:jqueryform:php_formmail_generator"
 }

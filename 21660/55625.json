@@ -1,8 +1,8 @@
 {
-  "vid": "21660",
-  "vname": "Duktape project",
-  "vcpe": "cpe:/:duktape_project",
-  "pid": "55625",
-  "pname": "Duktape",
-  "pcpe": "cpe:/a:duktape_project:duktape"
+	"vid": "21660",
+	"vname": "Duktape project",
+	"vcpe": "cpe:/:duktape_project",
+	"pid": "55625",
+	"pname": "Duktape",
+	"pcpe": "cpe:/a:duktape_project:duktape"
 }

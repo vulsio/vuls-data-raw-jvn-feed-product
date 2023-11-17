@@ -1,8 +1,8 @@
 {
-  "vid": "9880",
-  "vname": "Docker",
-  "vcpe": "cpe:/:docker",
-  "pid": "29757",
-  "pname": "Docker Registry",
-  "pcpe": "cpe:/a:docker:docker_registry"
+	"vid": "9880",
+	"vname": "Docker",
+	"vcpe": "cpe:/:docker",
+	"pid": "29757",
+	"pname": "Docker Registry",
+	"pcpe": "cpe:/a:docker:docker_registry"
 }

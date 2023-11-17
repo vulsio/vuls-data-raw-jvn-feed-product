@@ -1,8 +1,8 @@
 {
-  "vid": "18471",
-  "vname": "Nordic Semiconductor",
-  "vcpe": "cpe:/:nordicsemi",
-  "pid": "45533",
-  "pname": "Android BLE Library",
-  "pcpe": "cpe:/a:nordicsemi:android_ble_library"
+	"vid": "18471",
+	"vname": "Nordic Semiconductor",
+	"vcpe": "cpe:/:nordicsemi",
+	"pid": "45533",
+	"pname": "Android BLE Library",
+	"pcpe": "cpe:/a:nordicsemi:android_ble_library"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18771",
-  "vname": "typeorm",
-  "vcpe": "cpe:/:typeorm",
-  "pid": "46679",
-  "pname": "typeorm",
-  "pcpe": "cpe:/a:typeorm:typeorm"
+	"vid": "18771",
+	"vname": "typeorm",
+	"vcpe": "cpe:/:typeorm",
+	"pid": "46679",
+	"pname": "typeorm",
+	"pcpe": "cpe:/a:typeorm:typeorm"
 }

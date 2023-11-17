@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "30572",
-  "pname": "Apache Directory LDAP API",
-  "pcpe": "cpe:/a:apache:directory_ldap_api"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "30572",
+	"pname": "Apache Directory LDAP API",
+	"pcpe": "cpe:/a:apache:directory_ldap_api"
 }

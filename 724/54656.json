@@ -1,8 +1,8 @@
 {
-  "vid": "724",
-  "vname": "NoMachine",
-  "vcpe": "cpe:/:nomachine",
-  "pid": "54656",
-  "pname": "Enterprise Desktop",
-  "pcpe": "cpe:/a:nomachine:enterprise_desktop"
+	"vid": "724",
+	"vname": "NoMachine",
+	"vcpe": "cpe:/:nomachine",
+	"pid": "54656",
+	"pname": "Enterprise Desktop",
+	"pcpe": "cpe:/a:nomachine:enterprise_desktop"
 }

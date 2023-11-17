@@ -1,8 +1,8 @@
 {
-  "vid": "17980",
-  "vname": "advsys",
-  "vcpe": "cpe:/:advsys",
-  "pid": "48202",
-  "pname": "PNGOUT",
-  "pcpe": "cpe:/a:advsys:pngout"
+	"vid": "17980",
+	"vname": "advsys",
+	"vcpe": "cpe:/:advsys",
+	"pid": "48202",
+	"pname": "PNGOUT",
+	"pcpe": "cpe:/a:advsys:pngout"
 }

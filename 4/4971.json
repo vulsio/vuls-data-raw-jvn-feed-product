@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4971",
-  "pname": "procurve msm325 access point",
-  "pcpe": "cpe:/h:hp:procurve_msm325_access_point"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4971",
+	"pname": "procurve msm325 access point",
+	"pcpe": "cpe:/h:hp:procurve_msm325_access_point"
 }

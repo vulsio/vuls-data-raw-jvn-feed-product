@@ -1,8 +1,8 @@
 {
-  "vid": "1311",
-  "vname": "VirusBlokAda",
-  "vcpe": "cpe:/:anti-virus",
-  "pid": "4119",
-  "pname": "VBA32",
-  "pcpe": "cpe:/a:anti-virus:vba32"
+	"vid": "1311",
+	"vname": "VirusBlokAda",
+	"vcpe": "cpe:/:anti-virus",
+	"pid": "4119",
+	"pname": "VBA32",
+	"pcpe": "cpe:/a:anti-virus:vba32"
 }

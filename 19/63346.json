@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "63346",
-  "pname": "Cisco Catalyst SD-WAN Manager",
-  "pcpe": "cpe:/a:cisco:catalyst_sd-wan_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "63346",
+	"pname": "Cisco Catalyst SD-WAN Manager",
+	"pcpe": "cpe:/a:cisco:catalyst_sd-wan_manager"
 }

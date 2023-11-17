@@ -1,8 +1,8 @@
 {
-  "vid": "2004",
-  "vname": "Acronis International GmbH",
-  "vcpe": "cpe:/:acronis",
-  "pid": "51724",
-  "pname": "Agent",
-  "pcpe": "cpe:/a:acronis:cyber_protection_agent"
+	"vid": "2004",
+	"vname": "Acronis International GmbH",
+	"vcpe": "cpe:/:acronis",
+	"pid": "51724",
+	"pname": "Agent",
+	"pcpe": "cpe:/a:acronis:cyber_protection_agent"
 }

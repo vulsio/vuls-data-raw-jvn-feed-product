@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "51077",
-  "pname": "OpenShift Virtualization",
-  "pcpe": "cpe:/a:redhat:openshift_virtualization"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "51077",
+	"pname": "OpenShift Virtualization",
+	"pcpe": "cpe:/a:redhat:openshift_virtualization"
 }

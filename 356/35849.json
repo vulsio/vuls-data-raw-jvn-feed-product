@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "35849",
-  "pname": "fscrypt",
-  "pcpe": "cpe:/a:google:fscrypt"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "35849",
+	"pname": "fscrypt",
+	"pcpe": "cpe:/a:google:fscrypt"
 }

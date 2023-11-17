@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "33327",
-  "pname": "Berkeley-BD ファームウェア",
-  "pcpe": "cpe:/o:huawei:berkeley-bd_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "33327",
+	"pname": "Berkeley-BD ファームウェア",
+	"pcpe": "cpe:/o:huawei:berkeley-bd_firmware"
 }

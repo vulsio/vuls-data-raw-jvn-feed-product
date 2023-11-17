@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "42642",
-  "pname": "Rust SGX SDK",
-  "pcpe": "cpe:/a:apache:rust_sgx_sdk"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "42642",
+	"pname": "Rust SGX SDK",
+	"pcpe": "cpe:/a:apache:rust_sgx_sdk"
 }

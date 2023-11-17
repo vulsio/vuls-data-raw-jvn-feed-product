@@ -1,8 +1,8 @@
 {
-  "vid": "14582",
-  "vname": "Lottery project",
-  "vcpe": "cpe:/:lottery_project",
-  "pid": "34291",
-  "pname": "Lottery",
-  "pcpe": "cpe:/a:lottery_project:lottery"
+	"vid": "14582",
+	"vname": "Lottery project",
+	"vcpe": "cpe:/:lottery_project",
+	"pid": "34291",
+	"pname": "Lottery",
+	"pcpe": "cpe:/a:lottery_project:lottery"
 }

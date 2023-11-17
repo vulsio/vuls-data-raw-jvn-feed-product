@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "39069",
-  "pname": "WAG54G2 ファームウェア",
-  "pcpe": "cpe:/o:linksys:wag54g2_firmware"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "39069",
+	"pname": "WAG54G2 ファームウェア",
+	"pcpe": "cpe:/o:linksys:wag54g2_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "16849",
-  "pname": "CompactLogix L35E コントローラ",
-  "pcpe": "cpe:/h:rockwellautomation:compactlogix_l35e_controller"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "16849",
+	"pname": "CompactLogix L35E コントローラ",
+	"pcpe": "cpe:/h:rockwellautomation:compactlogix_l35e_controller"
 }

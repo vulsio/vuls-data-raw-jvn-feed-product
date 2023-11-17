@@ -1,8 +1,8 @@
 {
-  "vid": "23551",
-  "vname": "dice project",
-  "vcpe": "cpe:/:dice_project",
-  "pid": "61000",
-  "pname": "dice",
-  "pcpe": "cpe:/a:dice_project:dice"
+	"vid": "23551",
+	"vname": "dice project",
+	"vcpe": "cpe:/:dice_project",
+	"pid": "61000",
+	"pname": "dice",
+	"pcpe": "cpe:/a:dice_project:dice"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12904",
-  "vname": "gnome-exe-thumbnailer project",
-  "vcpe": "cpe:/:gnome-exe-thumbnailer_project",
-  "pid": "29764",
-  "pname": "gnome-exe-thumbnailer",
-  "pcpe": "cpe:/a:gnome-exe-thumbnailer_project:gnome-exe-thumbnailer"
+	"vid": "12904",
+	"vname": "gnome-exe-thumbnailer project",
+	"vcpe": "cpe:/:gnome-exe-thumbnailer_project",
+	"pid": "29764",
+	"pname": "gnome-exe-thumbnailer",
+	"pcpe": "cpe:/a:gnome-exe-thumbnailer_project:gnome-exe-thumbnailer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27806",
-  "pname": "NeXtScale nx360 M5",
-  "pcpe": "cpe:/a:lenovo:nextscale_nx360_m5_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27806",
+	"pname": "NeXtScale nx360 M5",
+	"pcpe": "cpe:/a:lenovo:nextscale_nx360_m5_bios"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "52351",
-  "pname": "ideapad 730-13IML ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideapad_730-13iml_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "52351",
+	"pname": "ideapad 730-13IML ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideapad_730-13iml_firmware"
 }

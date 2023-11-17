@@ -1,8 +1,8 @@
 {
-  "vid": "18635",
-  "vname": "Composer",
-  "vcpe": "cpe:/:getcomposer",
-  "pid": "46114",
-  "pname": "Composer-Setup",
-  "pcpe": "cpe:/a:getcomposer:composer-setup"
+	"vid": "18635",
+	"vname": "Composer",
+	"vcpe": "cpe:/:getcomposer",
+	"pid": "46114",
+	"pname": "Composer-Setup",
+	"pcpe": "cpe:/a:getcomposer:composer-setup"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12375",
-  "vname": "WSO2",
-  "vcpe": "cpe:/:wso2",
-  "pid": "30615",
-  "pname": "WSO2 Complex Event Processor",
-  "pcpe": "cpe:/a:wso2:complex_event_processor"
+	"vid": "12375",
+	"vname": "WSO2",
+	"vcpe": "cpe:/:wso2",
+	"pid": "30615",
+	"pname": "WSO2 Complex Event Processor",
+	"pcpe": "cpe:/a:wso2:complex_event_processor"
 }

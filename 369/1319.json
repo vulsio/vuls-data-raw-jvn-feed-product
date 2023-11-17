@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "1319",
-  "pname": "CA Business Protection Suite",
-  "pcpe": "cpe:/a:ca:business_protection_suite"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "1319",
+	"pname": "CA Business Protection Suite",
+	"pcpe": "cpe:/a:ca:business_protection_suite"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "37567",
-  "pname": "Q04UDVCPU ファームウェア",
-  "pcpe": "cpe:/o:mitsubishielectric:q04udvcpu_firmware"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "37567",
+	"pname": "Q04UDVCPU ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:q04udvcpu_firmware"
 }

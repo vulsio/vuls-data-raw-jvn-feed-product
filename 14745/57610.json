@@ -1,8 +1,8 @@
 {
-  "vid": "14745",
-  "vname": "st project",
-  "vcpe": "cpe:/:st_project",
-  "pid": "57610",
-  "pname": "stsafe-j ファームウェア",
-  "pcpe": "cpe:/o:st_project:stsafe-j_firmware"
+	"vid": "14745",
+	"vname": "st project",
+	"vcpe": "cpe:/:st_project",
+	"pid": "57610",
+	"pname": "stsafe-j ファームウェア",
+	"pcpe": "cpe:/o:st_project:stsafe-j_firmware"
 }

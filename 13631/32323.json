@@ -1,8 +1,8 @@
 {
-  "vid": "13631",
-  "vname": "Parity Technologies",
-  "vcpe": "cpe:/:parity",
-  "pid": "32323",
-  "pname": "Parity Browser",
-  "pcpe": "cpe:/a:parity:browser"
+	"vid": "13631",
+	"vname": "Parity Technologies",
+	"vcpe": "cpe:/:parity",
+	"pid": "32323",
+	"pname": "Parity Browser",
+	"pcpe": "cpe:/a:parity:browser"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "51212",
-  "pname": "Oracle Banking Party Management",
-  "pcpe": "cpe:/a:oracle:banking_party_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "51212",
+	"pname": "Oracle Banking Party Management",
+	"pcpe": "cpe:/a:oracle:banking_party_management"
 }

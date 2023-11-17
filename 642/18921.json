@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "18921",
-  "pname": "ReadyNAS 3200",
-  "pcpe": "cpe:/h:netgear:readynas_3200"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "18921",
+	"pname": "ReadyNAS 3200",
+	"pcpe": "cpe:/h:netgear:readynas_3200"
 }

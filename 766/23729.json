@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "23729",
-  "pname": "Device Type Manager",
-  "pcpe": "cpe:/a:schneider_electric:device_type_manager"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "23729",
+	"pname": "Device Type Manager",
+	"pcpe": "cpe:/a:schneider_electric:device_type_manager"
 }

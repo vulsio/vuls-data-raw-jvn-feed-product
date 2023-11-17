@@ -1,8 +1,8 @@
 {
-  "vid": "15950",
-  "vname": "Machinery For Change, Inc.",
-  "vcpe": "cpe:/:mchange",
-  "pid": "37248",
-  "pname": "c3p0",
-  "pcpe": "cpe:/a:mchange:c3p0"
+	"vid": "15950",
+	"vname": "Machinery For Change, Inc.",
+	"vcpe": "cpe:/:mchange",
+	"pid": "37248",
+	"pname": "c3p0",
+	"pcpe": "cpe:/a:mchange:c3p0"
 }

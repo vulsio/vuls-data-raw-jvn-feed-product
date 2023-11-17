@@ -1,8 +1,8 @@
 {
-  "vid": "11689",
-  "vname": "dcraw project",
-  "vcpe": "cpe:/:dcraw_project",
-  "pid": "24076",
-  "pname": "dcraw",
-  "pcpe": "cpe:/a:dcraw_project:dcraw"
+	"vid": "11689",
+	"vname": "dcraw project",
+	"vcpe": "cpe:/:dcraw_project",
+	"pid": "24076",
+	"pname": "dcraw",
+	"pcpe": "cpe:/a:dcraw_project:dcraw"
 }

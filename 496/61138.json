@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "61138",
-  "pname": "BIG-IP 7200v ファームウェア",
-  "pcpe": "cpe:/o:f5:big-ip_7200v_firmware"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "61138",
+	"pname": "BIG-IP 7200v ファームウェア",
+	"pcpe": "cpe:/o:f5:big-ip_7200v_firmware"
 }

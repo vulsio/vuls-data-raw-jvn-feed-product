@@ -1,8 +1,8 @@
 {
-  "vid": "9890",
-  "vname": "Alex Vandiver",
-  "vcpe": "cpe:/:email%3A%3Aaddress%3A%3Alist_project",
-  "pid": "20582",
-  "pname": "Email::Address::List",
-  "pcpe": "cpe:/a:email%3A%3Aaddress%3A%3Alist_project:email%3A%3Aaddress%3A%3Alist"
+	"vid": "9890",
+	"vname": "Alex Vandiver",
+	"vcpe": "cpe:/:email%3A%3Aaddress%3A%3Alist_project",
+	"pid": "20582",
+	"pname": "Email::Address::List",
+	"pcpe": "cpe:/a:email%3A%3Aaddress%3A%3Alist_project:email%3A%3Aaddress%3A%3Alist"
 }

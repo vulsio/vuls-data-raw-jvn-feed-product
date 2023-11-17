@@ -1,8 +1,8 @@
 {
-  "vid": "13421",
-  "vname": "Auth0 Inc.",
-  "vcpe": "cpe:/:auth0",
-  "pid": "31988",
-  "pname": "passport-wsfed-saml2",
-  "pcpe": "cpe:/a:auth0:passport-wsfed-saml2"
+	"vid": "13421",
+	"vname": "Auth0 Inc.",
+	"vcpe": "cpe:/:auth0",
+	"pid": "31988",
+	"pname": "passport-wsfed-saml2",
+	"pcpe": "cpe:/a:auth0:passport-wsfed-saml2"
 }

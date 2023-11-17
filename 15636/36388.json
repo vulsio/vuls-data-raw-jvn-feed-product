@@ -1,8 +1,8 @@
 {
-  "vid": "15636",
-  "vname": "Neato Robotics, Inc.",
-  "vcpe": "cpe:/:neato",
-  "pid": "36388",
-  "pname": "Botvac D5 Connected ファームウェア",
-  "pcpe": "cpe:/o:neato:botvac_d5_connected_firmware"
+	"vid": "15636",
+	"vname": "Neato Robotics, Inc.",
+	"vcpe": "cpe:/:neato",
+	"pid": "36388",
+	"pname": "Botvac D5 Connected ファームウェア",
+	"pcpe": "cpe:/o:neato:botvac_d5_connected_firmware"
 }

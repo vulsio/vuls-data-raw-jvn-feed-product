@@ -1,8 +1,8 @@
 {
-  "vid": "9459",
-  "vname": "タブローソフトウェア",
-  "vcpe": "cpe:/:tableau_software",
-  "pid": "19476",
-  "pname": "Tableau Server",
-  "pcpe": "cpe:/a:tableau_software:tableau_server"
+	"vid": "9459",
+	"vname": "タブローソフトウェア",
+	"vcpe": "cpe:/:tableau_software",
+	"pid": "19476",
+	"pname": "Tableau Server",
+	"pcpe": "cpe:/a:tableau_software:tableau_server"
 }

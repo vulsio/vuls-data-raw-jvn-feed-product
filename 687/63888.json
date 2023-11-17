@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "63888",
-  "pname": "operational intelligence hawk redtail",
-  "pcpe": "cpe:/a:tibco:operational_intelligence_hawk_redtail"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "63888",
+	"pname": "operational intelligence hawk redtail",
+	"pcpe": "cpe:/a:tibco:operational_intelligence_hawk_redtail"
 }

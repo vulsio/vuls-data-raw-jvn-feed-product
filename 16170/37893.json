@@ -1,8 +1,8 @@
 {
-  "vid": "16170",
-  "vname": "GiveWP",
-  "vcpe": "cpe:/:givewp",
-  "pid": "37893",
-  "pname": "Give",
-  "pcpe": "cpe:/a:givewp:give"
+	"vid": "16170",
+	"vname": "GiveWP",
+	"vcpe": "cpe:/:givewp",
+	"pid": "37893",
+	"pname": "Give",
+	"pcpe": "cpe:/a:givewp:give"
 }

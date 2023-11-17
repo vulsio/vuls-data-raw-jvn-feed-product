@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26176",
-  "pname": "ATH ファームウェア",
-  "pcpe": "cpe:/o:huawei:ath_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26176",
+	"pname": "ATH ファームウェア",
+	"pcpe": "cpe:/o:huawei:ath_firmware"
 }

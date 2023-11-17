@@ -1,8 +1,8 @@
 {
-  "vid": "16928",
-  "vname": "Texas Instruments Incorporated (TI)",
-  "vcpe": "cpe:/:ti",
-  "pid": "47574",
-  "pname": "SimpleLink-CC13XX",
-  "pcpe": "cpe:/o:ti:simplelink-cc13xx"
+	"vid": "16928",
+	"vname": "Texas Instruments Incorporated (TI)",
+	"vcpe": "cpe:/:ti",
+	"pid": "47574",
+	"pname": "SimpleLink-CC13XX",
+	"pcpe": "cpe:/o:ti:simplelink-cc13xx"
 }

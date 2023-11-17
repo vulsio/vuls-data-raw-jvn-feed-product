@@ -1,8 +1,8 @@
 {
-  "vid": "19442",
-  "vname": "magnetic プロジェクト",
-  "vcpe": "cpe:/:magnetic_project",
-  "pid": "48989",
-  "pname": "magnetic",
-  "pcpe": "cpe:/a:magnetic_project:magnetic"
+	"vid": "19442",
+	"vname": "magnetic プロジェクト",
+	"vcpe": "cpe:/:magnetic_project",
+	"pid": "48989",
+	"pname": "magnetic",
+	"pcpe": "cpe:/a:magnetic_project:magnetic"
 }

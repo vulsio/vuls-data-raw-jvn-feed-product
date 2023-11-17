@@ -1,8 +1,8 @@
 {
-  "vid": "500",
-  "vname": "Mambo Foundation",
-  "vcpe": "cpe:/:mambo-foundation",
-  "pid": "11219",
-  "pname": "musepoes component",
-  "pcpe": "cpe:/a:mambo-foundation:musepoes_component"
+	"vid": "500",
+	"vname": "Mambo Foundation",
+	"vcpe": "cpe:/:mambo-foundation",
+	"pid": "11219",
+	"pname": "musepoes component",
+	"pcpe": "cpe:/a:mambo-foundation:musepoes_component"
 }

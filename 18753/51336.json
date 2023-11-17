@@ -1,8 +1,8 @@
 {
-  "vid": "18753",
-  "vname": "エレコム株式会社",
-  "vcpe": "cpe:/:elecom",
-  "pid": "51336",
-  "pname": "WMC-2HC-W ファームウェア",
-  "pcpe": "cpe:/o:elecom:wmc-2hc-w_firmware"
+	"vid": "18753",
+	"vname": "エレコム株式会社",
+	"vcpe": "cpe:/:elecom",
+	"pid": "51336",
+	"pname": "WMC-2HC-W ファームウェア",
+	"pcpe": "cpe:/o:elecom:wmc-2hc-w_firmware"
 }

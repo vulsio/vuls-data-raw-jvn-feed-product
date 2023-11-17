@@ -1,8 +1,8 @@
 {
-  "vid": "11303",
-  "vname": "killer screen lock project",
-  "vcpe": "cpe:/:killer_screen_lock_project",
-  "pid": "22997",
-  "pname": "killer screen lock",
-  "pcpe": "cpe:/a:killer_screen_lock_project:killer_screen_lock"
+	"vid": "11303",
+	"vname": "killer screen lock project",
+	"vcpe": "cpe:/:killer_screen_lock_project",
+	"pid": "22997",
+	"pname": "killer screen lock",
+	"pcpe": "cpe:/a:killer_screen_lock_project:killer_screen_lock"
 }

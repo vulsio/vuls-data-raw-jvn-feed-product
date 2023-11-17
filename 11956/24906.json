@@ -1,8 +1,8 @@
 {
-  "vid": "11956",
-  "vname": "Datalex",
-  "vcpe": "cpe:/:datalex",
-  "pid": "24906",
-  "pname": "Datalex のエアライン予約ソフトウェア",
-  "pcpe": "cpe:/a:datalex:airline_booking_software"
+	"vid": "11956",
+	"vname": "Datalex",
+	"vcpe": "cpe:/:datalex",
+	"pid": "24906",
+	"pname": "Datalex のエアライン予約ソフトウェア",
+	"pcpe": "cpe:/a:datalex:airline_booking_software"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18517",
-  "vname": "Design Master Events",
-  "vcpe": "cpe:/:designmasterevents",
-  "pid": "55652",
-  "pname": "Conference Management",
-  "pcpe": "cpe:/a:designmasterevents:conference_management"
+	"vid": "18517",
+	"vname": "Design Master Events",
+	"vcpe": "cpe:/:designmasterevents",
+	"pid": "55652",
+	"pname": "Conference Management",
+	"pcpe": "cpe:/a:designmasterevents:conference_management"
 }

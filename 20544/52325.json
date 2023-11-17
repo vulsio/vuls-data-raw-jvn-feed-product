@@ -1,8 +1,8 @@
 {
-  "vid": "20544",
-  "vname": "PrestaHome",
-  "vcpe": "cpe:/:prestahome",
-  "pid": "52325",
-  "pname": "Blog",
-  "pcpe": "cpe:/a:prestahome:blog"
+	"vid": "20544",
+	"vname": "PrestaHome",
+	"vcpe": "cpe:/:prestahome",
+	"pid": "52325",
+	"pname": "Blog",
+	"pcpe": "cpe:/a:prestahome:blog"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18725",
-  "vname": "トレーディング・テクノロジーズ",
-  "vcpe": "cpe:/:tradingtechnologies",
-  "pid": "46466",
-  "pname": "TT Messaging",
-  "pcpe": "cpe:/a:tradingtechnologies:trading_technologies_messaging"
+	"vid": "18725",
+	"vname": "トレーディング・テクノロジーズ",
+	"vcpe": "cpe:/:tradingtechnologies",
+	"pid": "46466",
+	"pname": "TT Messaging",
+	"pcpe": "cpe:/a:tradingtechnologies:trading_technologies_messaging"
 }

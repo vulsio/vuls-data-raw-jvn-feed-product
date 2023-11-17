@@ -1,8 +1,8 @@
 {
-  "vid": "1279",
-  "vname": "OSQA",
-  "vcpe": "cpe:/:osqa",
-  "pid": "4083",
-  "pname": "OSQA",
-  "pcpe": "cpe:/a:osqa:osqa"
+	"vid": "1279",
+	"vname": "OSQA",
+	"vcpe": "cpe:/:osqa",
+	"pid": "4083",
+	"pname": "OSQA",
+	"pcpe": "cpe:/a:osqa:osqa"
 }

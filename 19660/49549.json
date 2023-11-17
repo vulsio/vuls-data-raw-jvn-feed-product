@@ -1,8 +1,8 @@
 {
-  "vid": "19660",
-  "vname": "Beijing Roborock Technology Co., Ltd.",
-  "vcpe": "cpe:/:misc",
-  "pid": "49549",
-  "pname": "Roborock S4 ファームウェア",
-  "pcpe": "cpe:/o:misc:beijing_roborock_technology_roborock_s4_firmware"
+	"vid": "19660",
+	"vname": "Beijing Roborock Technology Co., Ltd.",
+	"vcpe": "cpe:/:misc",
+	"pid": "49549",
+	"pname": "Roborock S4 ファームウェア",
+	"pcpe": "cpe:/o:misc:beijing_roborock_technology_roborock_s4_firmware"
 }

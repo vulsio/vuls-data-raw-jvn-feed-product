@@ -1,8 +1,8 @@
 {
-  "vid": "1797",
-  "vname": "Trustwave",
-  "vcpe": "cpe:/:trustwave",
-  "pid": "32045",
-  "pname": "Secure Web Gateway",
-  "pcpe": "cpe:/a:trustwave:secure_web_gateway"
+	"vid": "1797",
+	"vname": "Trustwave",
+	"vcpe": "cpe:/:trustwave",
+	"pid": "32045",
+	"pname": "Secure Web Gateway",
+	"pcpe": "cpe:/a:trustwave:secure_web_gateway"
 }

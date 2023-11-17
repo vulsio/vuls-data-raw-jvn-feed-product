@@ -1,8 +1,8 @@
 {
-  "vid": "16070",
-  "vname": "Forcepoint LLC.",
-  "vcpe": "cpe:/:forcepoint",
-  "pid": "42757",
-  "pname": "Forcepoint Web Security",
-  "pcpe": "cpe:/a:forcepoint:web_security"
+	"vid": "16070",
+	"vname": "Forcepoint LLC.",
+	"vcpe": "cpe:/:forcepoint",
+	"pid": "42757",
+	"pname": "Forcepoint Web Security",
+	"pcpe": "cpe:/a:forcepoint:web_security"
 }

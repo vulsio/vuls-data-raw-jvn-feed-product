@@ -1,8 +1,8 @@
 {
-  "vid": "16526",
-  "vname": "DiffPlug",
-  "vcpe": "cpe:/:diffplug",
-  "pid": "39324",
-  "pname": "spotless-plugin-maven",
-  "pcpe": "cpe:/a:diffplug:maven"
+	"vid": "16526",
+	"vname": "DiffPlug",
+	"vcpe": "cpe:/:diffplug",
+	"pid": "39324",
+	"pname": "spotless-plugin-maven",
+	"pcpe": "cpe:/a:diffplug:maven"
 }

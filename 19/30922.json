@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "30922",
-  "pname": "Cisco License Manager ソフトウエア",
-  "pcpe": "cpe:/a:cisco:license_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "30922",
+	"pname": "Cisco License Manager ソフトウエア",
+	"pcpe": "cpe:/a:cisco:license_manager"
 }

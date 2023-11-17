@@ -1,8 +1,8 @@
 {
-  "vid": "9912",
-  "vname": "Visualware",
-  "vcpe": "cpe:/:visualware",
-  "pid": "20670",
-  "pname": "MyConnection Server",
-  "pcpe": "cpe:/a:visualware:myconnection_server"
+	"vid": "9912",
+	"vname": "Visualware",
+	"vcpe": "cpe:/:visualware",
+	"pid": "20670",
+	"pname": "MyConnection Server",
+	"pcpe": "cpe:/a:visualware:myconnection_server"
 }

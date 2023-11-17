@@ -1,8 +1,8 @@
 {
-  "vid": "20027",
-  "vname": "Bluemedicinelabs",
-  "vcpe": "cpe:/:bluemedicinelabs",
-  "pid": "50732",
-  "pname": "Hotjar Connecticator",
-  "pcpe": "cpe:/a:bluemedicinelabs:hotjar_connecticator"
+	"vid": "20027",
+	"vname": "Bluemedicinelabs",
+	"vcpe": "cpe:/:bluemedicinelabs",
+	"pid": "50732",
+	"pname": "Hotjar Connecticator",
+	"pcpe": "cpe:/a:bluemedicinelabs:hotjar_connecticator"
 }

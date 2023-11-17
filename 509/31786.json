@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "31786",
-  "pname": "SAP NetWeaver Knowledge Management Configuration Service",
-  "pcpe": "cpe:/a:sap:netweaver_knowledge_management_configuration_service"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "31786",
+	"pname": "SAP NetWeaver Knowledge Management Configuration Service",
+	"pcpe": "cpe:/a:sap:netweaver_knowledge_management_configuration_service"
 }

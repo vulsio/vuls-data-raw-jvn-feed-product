@@ -1,8 +1,8 @@
 {
-  "vid": "9892",
-  "vname": "Reportico",
-  "vcpe": "cpe:/:reportico",
-  "pid": "20590",
-  "pname": "PHP Report Designer",
-  "pcpe": "cpe:/a:reportico:php_report_designer"
+	"vid": "9892",
+	"vname": "Reportico",
+	"vcpe": "cpe:/:reportico",
+	"pid": "20590",
+	"pname": "PHP Report Designer",
+	"pcpe": "cpe:/a:reportico:php_report_designer"
 }

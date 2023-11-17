@@ -1,8 +1,8 @@
 {
-  "vid": "16577",
-  "vname": "Sertek",
-  "vcpe": "cpe:/:sertek",
-  "pid": "39482",
-  "pname": "Xpare",
-  "pcpe": "cpe:/a:sertek:xpare"
+	"vid": "16577",
+	"vname": "Sertek",
+	"vcpe": "cpe:/:sertek",
+	"pid": "39482",
+	"pname": "Xpare",
+	"pcpe": "cpe:/a:sertek:xpare"
 }

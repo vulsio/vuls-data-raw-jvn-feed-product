@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "29662",
-  "pname": "SFCard Viewer 2",
-  "pcpe": "cpe:/a:sony:sfcard_viewer_2"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "29662",
+	"pname": "SFCard Viewer 2",
+	"pcpe": "cpe:/a:sony:sfcard_viewer_2"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "37223",
-  "pname": "SD 636 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd_636_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "37223",
+	"pname": "SD 636 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd_636_firmware"
 }

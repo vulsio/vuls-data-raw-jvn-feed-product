@@ -1,8 +1,8 @@
 {
-  "vid": "22857",
-  "vname": "WP-DownloadManager project",
-  "vcpe": "cpe:/:wp-downloadmanager_project",
-  "pid": "58869",
-  "pname": "WP-DownloadManager",
-  "pcpe": "cpe:/a:wp-downloadmanager_project:wp-downloadmanager"
+	"vid": "22857",
+	"vname": "WP-DownloadManager project",
+	"vcpe": "cpe:/:wp-downloadmanager_project",
+	"pid": "58869",
+	"pname": "WP-DownloadManager",
+	"pcpe": "cpe:/a:wp-downloadmanager_project:wp-downloadmanager"
 }

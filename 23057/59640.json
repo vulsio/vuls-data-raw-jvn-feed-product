@@ -1,8 +1,8 @@
 {
-  "vid": "23057",
-  "vname": "fiberhome",
-  "vcpe": "cpe:/:fiberhome",
-  "pid": "59640",
-  "pname": "hg150-ub ファームウェア",
-  "pcpe": "cpe:/o:fiberhome:hg150-ub_firmware"
+	"vid": "23057",
+	"vname": "fiberhome",
+	"vcpe": "cpe:/:fiberhome",
+	"pid": "59640",
+	"pname": "hg150-ub ファームウェア",
+	"pcpe": "cpe:/o:fiberhome:hg150-ub_firmware"
 }

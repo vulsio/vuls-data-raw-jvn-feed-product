@@ -1,8 +1,8 @@
 {
-  "vid": "2522",
-  "vname": "BigAntSoft",
-  "vcpe": "cpe:/:bigantsoft",
-  "pid": "16953",
-  "pname": "BigAnt IM Message Server",
-  "pcpe": "cpe:/a:bigantsoft:bigant_im_message_server"
+	"vid": "2522",
+	"vname": "BigAntSoft",
+	"vcpe": "cpe:/:bigantsoft",
+	"pid": "16953",
+	"pname": "BigAnt IM Message Server",
+	"pcpe": "cpe:/a:bigantsoft:bigant_im_message_server"
 }

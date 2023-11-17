@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "36796",
-  "pname": "Pivotal Container Service",
-  "pcpe": "cpe:/a:greenplum:pivotal_container_service"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "36796",
+	"pname": "Pivotal Container Service",
+	"pcpe": "cpe:/a:greenplum:pivotal_container_service"
 }

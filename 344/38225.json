@@ -1,8 +1,8 @@
 {
-  "vid": "344",
-  "vname": "Roundcube.net",
-  "vcpe": "cpe:/:roundcube",
-  "pid": "38225",
-  "pname": "Webmail",
-  "pcpe": "cpe:/a:roundcube:webmail"
+	"vid": "344",
+	"vname": "Roundcube.net",
+	"vcpe": "cpe:/:roundcube",
+	"pid": "38225",
+	"pname": "Webmail",
+	"pcpe": "cpe:/a:roundcube:webmail"
 }

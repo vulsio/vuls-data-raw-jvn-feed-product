@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "56799",
-  "pname": "BeeGFS CSI Driver",
-  "pcpe": "cpe:/a:netapp:beegfs_csi_driver"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "56799",
+	"pname": "BeeGFS CSI Driver",
+	"pcpe": "cpe:/a:netapp:beegfs_csi_driver"
 }

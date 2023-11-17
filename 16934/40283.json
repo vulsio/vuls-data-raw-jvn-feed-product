@@ -1,8 +1,8 @@
 {
-  "vid": "16934",
-  "vname": "WordPress Affiliate Manager",
-  "vcpe": "cpe:/:wpaffiliatemanager",
-  "pid": "40283",
-  "pname": "Affiliates Manager",
-  "pcpe": "cpe:/a:wpaffiliatemanager:affiliates_manager"
+	"vid": "16934",
+	"vname": "WordPress Affiliate Manager",
+	"vcpe": "cpe:/:wpaffiliatemanager",
+	"pid": "40283",
+	"pname": "Affiliates Manager",
+	"pcpe": "cpe:/a:wpaffiliatemanager:affiliates_manager"
 }

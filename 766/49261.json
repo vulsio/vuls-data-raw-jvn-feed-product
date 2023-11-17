@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "49261",
-  "pname": "SCADAPack RemoteConnect for x70",
-  "pcpe": "cpe:/a:schneider_electric:scadapack_remoteconnect_for_x70"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "49261",
+	"pname": "SCADAPack RemoteConnect for x70",
+	"pcpe": "cpe:/a:schneider_electric:scadapack_remoteconnect_for_x70"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23766",
-  "vname": "dw",
-  "vcpe": "cpe:/:dw",
-  "pid": "61483",
-  "pname": "spectrum server ファームウェア",
-  "pcpe": "cpe:/o:dw:spectrum_server_firmware"
+	"vid": "23766",
+	"vname": "dw",
+	"vcpe": "cpe:/:dw",
+	"pid": "61483",
+	"pname": "spectrum server ファームウェア",
+	"pcpe": "cpe:/o:dw:spectrum_server_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13053",
-  "vname": "Kguard Security",
-  "vcpe": "cpe:/:kguardsecurity",
-  "pid": "30398",
-  "pname": "KG-SHA104 ファームウェア",
-  "pcpe": "cpe:/o:kguardsecurity:kg-sha104_firmware"
+	"vid": "13053",
+	"vname": "Kguard Security",
+	"vcpe": "cpe:/:kguardsecurity",
+	"pid": "30398",
+	"pname": "KG-SHA104 ファームウェア",
+	"pcpe": "cpe:/o:kguardsecurity:kg-sha104_firmware"
 }

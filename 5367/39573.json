@@ -1,8 +1,8 @@
 {
-  "vid": "5367",
-  "vname": "LogMeIn, Inc.",
-  "vcpe": "cpe:/:logmein",
-  "pid": "39573",
-  "pname": "join.me",
-  "pcpe": "cpe:/a:logmein:join.me"
+	"vid": "5367",
+	"vname": "LogMeIn, Inc.",
+	"vcpe": "cpe:/:logmein",
+	"pid": "39573",
+	"pname": "join.me",
+	"pcpe": "cpe:/a:logmein:join.me"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15168",
-  "vname": "My2Token project",
-  "vcpe": "cpe:/:my2token_project",
-  "pid": "35119",
-  "pname": "My2Token",
-  "pcpe": "cpe:/a:my2token_project:my2token"
+	"vid": "15168",
+	"vname": "My2Token project",
+	"vcpe": "cpe:/:my2token_project",
+	"pid": "35119",
+	"pname": "My2Token",
+	"pcpe": "cpe:/a:my2token_project:my2token"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "27797",
-  "pname": "VSP Operating System Software",
-  "pcpe": "cpe:/a:avaya:vsp_operating_system_software"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "27797",
+	"pname": "VSP Operating System Software",
+	"pcpe": "cpe:/a:avaya:vsp_operating_system_software"
 }

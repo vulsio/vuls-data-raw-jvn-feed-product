@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33246",
-  "pname": "MSM8998 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:msm8998_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33246",
+	"pname": "MSM8998 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:msm8998_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23339",
-  "vname": "rstinstruments",
-  "vcpe": "cpe:/:rstinstruments",
-  "pid": "60453",
-  "pname": "ipi utility",
-  "pcpe": "cpe:/a:rstinstruments:ipi_utility"
+	"vid": "23339",
+	"vname": "rstinstruments",
+	"vcpe": "cpe:/:rstinstruments",
+	"pid": "60453",
+	"pname": "ipi utility",
+	"pcpe": "cpe:/a:rstinstruments:ipi_utility"
 }

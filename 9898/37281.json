@@ -1,8 +1,8 @@
 {
-  "vid": "9898",
-  "vname": "Elasticsearch",
-  "vcpe": "cpe:/:elasticsearch",
-  "pid": "37281",
-  "pname": "Elastic repository-azure",
-  "pcpe": "cpe:/a:elasticsearch:azure_repository"
+	"vid": "9898",
+	"vname": "Elasticsearch",
+	"vcpe": "cpe:/:elasticsearch",
+	"pid": "37281",
+	"pname": "Elastic repository-azure",
+	"pcpe": "cpe:/a:elasticsearch:azure_repository"
 }

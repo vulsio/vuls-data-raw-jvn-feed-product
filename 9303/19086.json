@@ -1,8 +1,8 @@
 {
-  "vid": "9303",
-  "vname": "Bare Bones Software",
-  "vcpe": "cpe:/:barebones",
-  "pid": "19086",
-  "pname": "Yojimbo",
-  "pcpe": "cpe:/a:barebones:yojimbo"
+	"vid": "9303",
+	"vname": "Bare Bones Software",
+	"vcpe": "cpe:/:barebones",
+	"pid": "19086",
+	"pname": "Yojimbo",
+	"pcpe": "cpe:/a:barebones:yojimbo"
 }

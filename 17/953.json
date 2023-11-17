@@ -1,8 +1,8 @@
 {
-  "vid": "17",
-  "vname": "インターネット セキュリティ システムズ",
-  "vcpe": "cpe:/:iss",
-  "pid": "953",
-  "pname": "Proventia G シリーズ",
-  "pcpe": "cpe:/h:iss:proventia_g_series_xpu"
+	"vid": "17",
+	"vname": "インターネット セキュリティ システムズ",
+	"vcpe": "cpe:/:iss",
+	"pid": "953",
+	"pname": "Proventia G シリーズ",
+	"pcpe": "cpe:/h:iss:proventia_g_series_xpu"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "20026",
-  "pname": "Cisco TelePresence System Edge 75 MXP",
-  "pcpe": "cpe:/h:cisco:telepresence_system_edge_75_mxp"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "20026",
+	"pname": "Cisco TelePresence System Edge 75 MXP",
+	"pcpe": "cpe:/h:cisco:telepresence_system_edge_75_mxp"
 }

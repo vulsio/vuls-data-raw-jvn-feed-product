@@ -1,8 +1,8 @@
 {
-  "vid": "17062",
-  "vname": "FlameCMS project",
-  "vcpe": "cpe:/:flamecms_project",
-  "pid": "40557",
-  "pname": "FlameCMS",
-  "pcpe": "cpe:/a:flamecms_project:flamecms"
+	"vid": "17062",
+	"vname": "FlameCMS project",
+	"vcpe": "cpe:/:flamecms_project",
+	"pid": "40557",
+	"pname": "FlameCMS",
+	"pcpe": "cpe:/a:flamecms_project:flamecms"
 }

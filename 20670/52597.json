@@ -1,8 +1,8 @@
 {
-  "vid": "20670",
-  "vname": "Bug Library project",
-  "vcpe": "cpe:/:bug_library_project",
-  "pid": "52597",
-  "pname": "Bug Library",
-  "pcpe": "cpe:/a:bug_library_project:bug_library"
+	"vid": "20670",
+	"vname": "Bug Library project",
+	"vcpe": "cpe:/:bug_library_project",
+	"pid": "52597",
+	"pname": "Bug Library",
+	"pcpe": "cpe:/a:bug_library_project:bug_library"
 }

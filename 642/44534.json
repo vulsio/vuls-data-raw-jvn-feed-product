@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "44534",
-  "pname": "GS110EMX ファームウェア",
-  "pcpe": "cpe:/o:netgear:gs110emx_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "44534",
+	"pname": "GS110EMX ファームウェア",
+	"pcpe": "cpe:/o:netgear:gs110emx_firmware"
 }

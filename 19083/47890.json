@@ -1,8 +1,8 @@
 {
-  "vid": "19083",
-  "vname": "Merge",
-  "vcpe": "cpe:/:merge_project",
-  "pid": "47890",
-  "pname": "Merge",
-  "pcpe": "cpe:/a:merge_project:merge"
+	"vid": "19083",
+	"vname": "Merge",
+	"vcpe": "cpe:/:merge_project",
+	"pid": "47890",
+	"pname": "Merge",
+	"pcpe": "cpe:/a:merge_project:merge"
 }

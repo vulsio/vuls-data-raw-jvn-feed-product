@@ -1,8 +1,8 @@
 {
-  "vid": "19394",
-  "vname": "CRK Group",
-  "vcpe": "cpe:/:crk",
-  "pid": "48860",
-  "pname": "Business Platform",
-  "pcpe": "cpe:/a:crk:business_platform"
+	"vid": "19394",
+	"vname": "CRK Group",
+	"vcpe": "cpe:/:crk",
+	"pid": "48860",
+	"pname": "Business Platform",
+	"pcpe": "cpe:/a:crk:business_platform"
 }

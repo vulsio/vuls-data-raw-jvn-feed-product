@@ -1,8 +1,8 @@
 {
-  "vid": "9111",
-  "vname": "Dahua Technology Co., Ltd",
-  "vcpe": "cpe:/:dahuasecurity",
-  "pid": "55522",
-  "pname": "DSS Professional",
-  "pcpe": "cpe:/a:dahuasecurity:dss_professional"
+	"vid": "9111",
+	"vname": "Dahua Technology Co., Ltd",
+	"vcpe": "cpe:/:dahuasecurity",
+	"pid": "55522",
+	"pname": "DSS Professional",
+	"pcpe": "cpe:/a:dahuasecurity:dss_professional"
 }

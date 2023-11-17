@@ -1,8 +1,8 @@
 {
-  "vid": "24633",
-  "vname": "gss-ntlmssp project",
-  "vcpe": "cpe:/:gss-ntlmssp_project",
-  "pid": "63899",
-  "pname": "gss-ntlmssp",
-  "pcpe": "cpe:/a:gss-ntlmssp_project:gss-ntlmssp"
+	"vid": "24633",
+	"vname": "gss-ntlmssp project",
+	"vcpe": "cpe:/:gss-ntlmssp_project",
+	"pid": "63899",
+	"pname": "gss-ntlmssp",
+	"pcpe": "cpe:/a:gss-ntlmssp_project:gss-ntlmssp"
 }

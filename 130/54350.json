@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "54350",
-  "pname": "Intel oneAPI Rendering Toolkit",
-  "pcpe": "cpe:/a:intel:oneapi_rendering_toolkit"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "54350",
+	"pname": "Intel oneAPI Rendering Toolkit",
+	"pcpe": "cpe:/a:intel:oneapi_rendering_toolkit"
 }

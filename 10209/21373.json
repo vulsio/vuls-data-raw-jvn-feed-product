@@ -1,8 +1,8 @@
 {
-  "vid": "10209",
-  "vname": "Cryoserver FCS (UK) Limited.",
-  "vcpe": "cpe:/:cryoserver",
-  "pid": "21373",
-  "pname": "Cryoserver",
-  "pcpe": "cpe:/a:cryoserver:cryoserver_security_appliance"
+	"vid": "10209",
+	"vname": "Cryoserver FCS (UK) Limited.",
+	"vcpe": "cpe:/:cryoserver",
+	"pid": "21373",
+	"pname": "Cryoserver",
+	"pcpe": "cpe:/a:cryoserver:cryoserver_security_appliance"
 }

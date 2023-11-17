@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "30187",
-  "pname": "Spring Social",
-  "pcpe": "cpe:/a:greenplum:spring_social"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "30187",
+	"pname": "Spring Social",
+	"pcpe": "cpe:/a:greenplum:spring_social"
 }

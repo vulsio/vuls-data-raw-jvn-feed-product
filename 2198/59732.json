@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "59732",
-  "pname": "ryzen 7 5800h ファームウェア",
-  "pcpe": "cpe:/o:amd:ryzen_7_5800h_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "59732",
+	"pname": "ryzen 7 5800h ファームウェア",
+	"pcpe": "cpe:/o:amd:ryzen_7_5800h_firmware"
 }

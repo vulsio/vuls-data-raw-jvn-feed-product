@@ -1,8 +1,8 @@
 {
-  "vid": "17067",
-  "vname": "Integard Home project",
-  "vcpe": "cpe:/:integard_home_project",
-  "pid": "40564",
-  "pname": "Integard Home",
-  "pcpe": "cpe:/a:integard_home_project:integard_home"
+	"vid": "17067",
+	"vname": "Integard Home project",
+	"vcpe": "cpe:/:integard_home_project",
+	"pid": "40564",
+	"pname": "Integard Home",
+	"pcpe": "cpe:/a:integard_home_project:integard_home"
 }

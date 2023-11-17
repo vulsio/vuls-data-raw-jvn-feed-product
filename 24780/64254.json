@@ -1,8 +1,8 @@
 {
-  "vid": "24780",
-  "vname": "wut",
-  "vcpe": "cpe:/:wut",
-  "pid": "64254",
-  "pname": "com-server highspeed poe 3x isolated ファームウェア",
-  "pcpe": "cpe:/o:wut:com-server_highspeed_poe_3x_isolated_firmware"
+	"vid": "24780",
+	"vname": "wut",
+	"vcpe": "cpe:/:wut",
+	"pid": "64254",
+	"pname": "com-server highspeed poe 3x isolated ファームウェア",
+	"pcpe": "cpe:/o:wut:com-server_highspeed_poe_3x_isolated_firmware"
 }

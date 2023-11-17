@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "40428",
-  "pname": "Legion Y520T_Z370 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:legion_y520t_z370_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "40428",
+	"pname": "Legion Y520T_Z370 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:legion_y520t_z370_firmware"
 }

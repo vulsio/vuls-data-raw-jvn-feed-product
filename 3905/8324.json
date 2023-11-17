@@ -1,8 +1,8 @@
 {
-  "vid": "3905",
-  "vname": "gateway",
-  "vcpe": "cpe:/:gateway",
-  "pid": "8324",
-  "pname": "cweblaunchctl activex control",
-  "pcpe": "cpe:/a:gateway:cweblaunchctl_activex_control"
+	"vid": "3905",
+	"vname": "gateway",
+	"vcpe": "cpe:/:gateway",
+	"pid": "8324",
+	"pname": "cweblaunchctl activex control",
+	"pcpe": "cpe:/a:gateway:cweblaunchctl_activex_control"
 }

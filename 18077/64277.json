@@ -1,8 +1,8 @@
 {
-  "vid": "18077",
-  "vname": "QuantumCloud",
-  "vcpe": "cpe:/:quantumcloud",
-  "pid": "64277",
-  "pname": "chatbot",
-  "pcpe": "cpe:/a:quantumcloud:chatbot"
+	"vid": "18077",
+	"vname": "QuantumCloud",
+	"vcpe": "cpe:/:quantumcloud",
+	"pid": "64277",
+	"pname": "chatbot",
+	"pcpe": "cpe:/a:quantumcloud:chatbot"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16680",
-  "vname": "筑波大学 SoftEther VPN Project",
-  "vcpe": "cpe:/:softether",
-  "pid": "57551",
-  "pname": "SoftEther VPN",
-  "pcpe": "cpe:/a:softether:softether_vpn"
+	"vid": "16680",
+	"vname": "筑波大学 SoftEther VPN Project",
+	"vcpe": "cpe:/:softether",
+	"pid": "57551",
+	"pname": "SoftEther VPN",
+	"pcpe": "cpe:/a:softether:softether_vpn"
 }

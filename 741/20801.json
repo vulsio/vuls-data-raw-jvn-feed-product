@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "20801",
-  "pname": "DI-604 Broadband Router",
-  "pcpe": "cpe:/h:dlink:di-604_broadband_router"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "20801",
+	"pname": "DI-604 Broadband Router",
+	"pcpe": "cpe:/h:dlink:di-604_broadband_router"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26899",
-  "pname": "ACU2 ファームウェア",
-  "pcpe": "cpe:/o:huawei:acu2_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26899",
+	"pname": "ACU2 ファームウェア",
+	"pcpe": "cpe:/o:huawei:acu2_firmware"
 }

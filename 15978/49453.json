@@ -1,8 +1,8 @@
 {
-  "vid": "15978",
-  "vname": "Silicon Labs, Inc.",
-  "vcpe": "cpe:/:silabs",
-  "pid": "49453",
-  "pname": "Micrium uC-HTTP",
-  "pcpe": "cpe:/a:silabs:micrium_uc-http"
+	"vid": "15978",
+	"vname": "Silicon Labs, Inc.",
+	"vcpe": "cpe:/:silabs",
+	"pid": "49453",
+	"pname": "Micrium uC-HTTP",
+	"pcpe": "cpe:/a:silabs:micrium_uc-http"
 }

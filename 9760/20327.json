@@ -1,8 +1,8 @@
 {
-  "vid": "9760",
-  "vname": "Member Approval project",
-  "vcpe": "cpe:/:member_approval_plugin_project",
-  "pid": "20327",
-  "pname": "Member Approval",
-  "pcpe": "cpe:/a:member_approval_plugin_project:member_approval"
+	"vid": "9760",
+	"vname": "Member Approval project",
+	"vcpe": "cpe:/:member_approval_plugin_project",
+	"pid": "20327",
+	"pname": "Member Approval",
+	"pcpe": "cpe:/a:member_approval_plugin_project:member_approval"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2384",
-  "vname": "オートデスク株式会社",
-  "vcpe": "cpe:/:autodesk",
-  "pid": "6075",
-  "pname": "Autodesk Design Review",
-  "pcpe": "cpe:/a:autodesk:design_review"
+	"vid": "2384",
+	"vname": "オートデスク株式会社",
+	"vcpe": "cpe:/:autodesk",
+	"pid": "6075",
+	"pname": "Autodesk Design Review",
+	"pcpe": "cpe:/a:autodesk:design_review"
 }

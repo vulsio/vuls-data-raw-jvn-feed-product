@@ -1,8 +1,8 @@
 {
-  "vid": "14073",
-  "vname": "LG Electronics",
-  "vcpe": "cpe:/:lg",
-  "pid": "52581",
-  "pname": "N1T1 ファームウェア",
-  "pcpe": "cpe:/o:lg:n1t1_firmware"
+	"vid": "14073",
+	"vname": "LG Electronics",
+	"vcpe": "cpe:/:lg",
+	"pid": "52581",
+	"pname": "N1T1 ファームウェア",
+	"pcpe": "cpe:/o:lg:n1t1_firmware"
 }

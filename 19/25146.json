@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "25146",
-  "pname": "Cisco DPC3939 Wireless Residential Voice Gateway ファームウェア",
-  "pcpe": "cpe:/o:cisco:dpc3939_wireless_residential_voice_gateway_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "25146",
+	"pname": "Cisco DPC3939 Wireless Residential Voice Gateway ファームウェア",
+	"pcpe": "cpe:/o:cisco:dpc3939_wireless_residential_voice_gateway_firmware"
 }

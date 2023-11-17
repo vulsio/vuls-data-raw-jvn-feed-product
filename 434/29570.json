@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "29570",
-  "pname": "EMC VASA Provider Virtual Appliance",
-  "pcpe": "cpe:/a:emc:vasa_provider_virtual_appliance"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "29570",
+	"pname": "EMC VASA Provider Virtual Appliance",
+	"pcpe": "cpe:/a:emc:vasa_provider_virtual_appliance"
 }

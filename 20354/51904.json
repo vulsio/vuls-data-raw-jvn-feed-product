@@ -1,8 +1,8 @@
 {
-  "vid": "20354",
-  "vname": "a3rev",
-  "vcpe": "cpe:/:a3rev",
-  "pid": "51904",
-  "pname": "Page View Count",
-  "pcpe": "cpe:/a:a3rev:page_view_count"
+	"vid": "20354",
+	"vname": "a3rev",
+	"vcpe": "cpe:/:a3rev",
+	"pid": "51904",
+	"pname": "Page View Count",
+	"pcpe": "cpe:/a:a3rev:page_view_count"
 }

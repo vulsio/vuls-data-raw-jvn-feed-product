@@ -1,8 +1,8 @@
 {
-  "vid": "12577",
-  "vname": "VirusTotal",
-  "vcpe": "cpe:/:virustotal",
-  "pid": "34534",
-  "pname": "VirusTotal",
-  "pcpe": "cpe:/a:virustotal:virustotal"
+	"vid": "12577",
+	"vname": "VirusTotal",
+	"vcpe": "cpe:/:virustotal",
+	"pid": "34534",
+	"pname": "VirusTotal",
+	"pcpe": "cpe:/a:virustotal:virustotal"
 }

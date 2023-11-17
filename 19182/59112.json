@@ -1,8 +1,8 @@
 {
-  "vid": "19182",
-  "vname": "Tencent",
-  "vcpe": "cpe:/:tencent",
-  "pid": "59112",
-  "pname": "tencentos-tiny",
-  "pcpe": "cpe:/o:tencent:tencentos-tiny"
+	"vid": "19182",
+	"vname": "Tencent",
+	"vcpe": "cpe:/:tencent",
+	"pid": "59112",
+	"pname": "tencentos-tiny",
+	"pcpe": "cpe:/o:tencent:tencentos-tiny"
 }

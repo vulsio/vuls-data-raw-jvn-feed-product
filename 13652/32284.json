@@ -1,8 +1,8 @@
 {
-  "vid": "13652",
-  "vname": "RAVPower Inc.",
-  "vcpe": "cpe:/:ravpower",
-  "pid": "32284",
-  "pname": "Filehub ファームウェア",
-  "pcpe": "cpe:/o:ravpower:filehub_firmware"
+	"vid": "13652",
+	"vname": "RAVPower Inc.",
+	"vcpe": "cpe:/:ravpower",
+	"pid": "32284",
+	"pname": "Filehub ファームウェア",
+	"pcpe": "cpe:/o:ravpower:filehub_firmware"
 }

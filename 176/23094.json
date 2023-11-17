@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "23094",
-  "pname": "CentreCOM 8948XL ファームウェア",
-  "pcpe": "cpe:/o:allied_telesis_k.k.:centrecom_8948xl_firmware"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "23094",
+	"pname": "CentreCOM 8948XL ファームウェア",
+	"pcpe": "cpe:/o:allied_telesis_k.k.:centrecom_8948xl_firmware"
 }

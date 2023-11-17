@@ -1,8 +1,8 @@
 {
-  "vid": "13156",
-  "vname": "WpDevArt",
-  "vcpe": "cpe:/:wpdevart",
-  "pid": "57309",
-  "pname": "Duplicate Page or Post",
-  "pcpe": "cpe:/a:wpdevart:duplicate_page_or_post"
+	"vid": "13156",
+	"vname": "WpDevArt",
+	"vcpe": "cpe:/:wpdevart",
+	"pid": "57309",
+	"pname": "Duplicate Page or Post",
+	"pcpe": "cpe:/a:wpdevart:duplicate_page_or_post"
 }

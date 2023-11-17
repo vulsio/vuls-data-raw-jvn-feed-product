@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "18323",
-  "pname": "インテル C216 チップセット",
-  "pcpe": "cpe:/h:intel:c216_chipset"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "18323",
+	"pname": "インテル C216 チップセット",
+	"pcpe": "cpe:/h:intel:c216_chipset"
 }

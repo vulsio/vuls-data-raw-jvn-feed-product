@@ -1,8 +1,8 @@
 {
-  "vid": "11616",
-  "vname": "ホスピーラ",
-  "vcpe": "cpe:/:hospira",
-  "pid": "23822",
-  "pname": "MedNet",
-  "pcpe": "cpe:/a:hospira:mednet"
+	"vid": "11616",
+	"vname": "ホスピーラ",
+	"vcpe": "cpe:/:hospira",
+	"pid": "23822",
+	"pname": "MedNet",
+	"pcpe": "cpe:/a:hospira:mednet"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "24468",
-  "pname": "TIBCO Spotfire Analytics Platform for AWS",
-  "pcpe": "cpe:/a:tibco:spotfire_analytics_platform_for_aws"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "24468",
+	"pname": "TIBCO Spotfire Analytics Platform for AWS",
+	"pcpe": "cpe:/a:tibco:spotfire_analytics_platform_for_aws"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "84",
-  "vname": "X.Org Foundation",
-  "vcpe": "cpe:/:x.org",
-  "pid": "16285",
-  "pname": "xterm",
-  "pcpe": "cpe:/a:x.org:xterm"
+	"vid": "84",
+	"vname": "X.Org Foundation",
+	"vcpe": "cpe:/:x.org",
+	"pid": "16285",
+	"pname": "xterm",
+	"pcpe": "cpe:/a:x.org:xterm"
 }

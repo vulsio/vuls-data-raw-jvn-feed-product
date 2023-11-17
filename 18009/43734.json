@@ -1,8 +1,8 @@
 {
-  "vid": "18009",
-  "vname": "WHMCS Smarters",
-  "vcpe": "cpe:/:whmcssmarters",
-  "pid": "43734",
-  "pname": "WEB TV PLAYER",
-  "pcpe": "cpe:/a:whmcssmarters:web_tv_player"
+	"vid": "18009",
+	"vname": "WHMCS Smarters",
+	"vcpe": "cpe:/:whmcssmarters",
+	"pid": "43734",
+	"pname": "WEB TV PLAYER",
+	"pcpe": "cpe:/a:whmcssmarters:web_tv_player"
 }

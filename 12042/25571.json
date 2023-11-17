@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25571",
-  "pname": "JC611A HP 10508-V Switch Chassis",
-  "pcpe": "cpe:/h:hp:jc611a_hp_10508-v_switch_chassis"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25571",
+	"pname": "JC611A HP 10508-V Switch Chassis",
+	"pcpe": "cpe:/h:hp:jc611a_hp_10508-v_switch_chassis"
 }

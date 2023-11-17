@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "48840",
-  "pname": "Apache DolphinScheduler",
-  "pcpe": "cpe:/a:apache:dolphinscheduler"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "48840",
+	"pname": "Apache DolphinScheduler",
+	"pcpe": "cpe:/a:apache:dolphinscheduler"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20633",
-  "vname": "Benjamin Intal, Gambit",
-  "vcpe": "cpe:/:gambit",
-  "pid": "52546",
-  "pname": "titan-framework",
-  "pcpe": "cpe:/a:gambit:titan_framework"
+	"vid": "20633",
+	"vname": "Benjamin Intal, Gambit",
+	"vcpe": "cpe:/:gambit",
+	"pid": "52546",
+	"pname": "titan-framework",
+	"pcpe": "cpe:/a:gambit:titan_framework"
 }

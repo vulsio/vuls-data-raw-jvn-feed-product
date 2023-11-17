@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "53926",
-  "pname": "WLI-TX4-AG300N ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wli-tx4-ag300n_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "53926",
+	"pname": "WLI-TX4-AG300N ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wli-tx4-ag300n_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18881",
-  "vname": "1Password",
-  "vcpe": "cpe:/:1password",
-  "pid": "47111",
-  "pname": "1Password SCIM",
-  "pcpe": "cpe:/a:1password:scim"
+	"vid": "18881",
+	"vname": "1Password",
+	"vcpe": "cpe:/:1password",
+	"pid": "47111",
+	"pname": "1Password SCIM",
+	"pcpe": "cpe:/a:1password:scim"
 }

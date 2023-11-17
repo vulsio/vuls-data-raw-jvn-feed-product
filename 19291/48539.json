@@ -1,8 +1,8 @@
 {
-  "vid": "19291",
-  "vname": "OpenIAM",
-  "vcpe": "cpe:/:openiam",
-  "pid": "48539",
-  "pname": "OpenIAM",
-  "pcpe": "cpe:/a:openiam:openiam"
+	"vid": "19291",
+	"vname": "OpenIAM",
+	"vcpe": "cpe:/:openiam",
+	"pid": "48539",
+	"pname": "OpenIAM",
+	"pcpe": "cpe:/a:openiam:openiam"
 }

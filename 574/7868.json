@@ -1,8 +1,8 @@
 {
-  "vid": "574",
-  "vname": "ESET",
-  "vcpe": "cpe:/:eset",
-  "pid": "7868",
-  "pname": "remote administrator",
-  "pcpe": "cpe:/a:eset:remote_administrator"
+	"vid": "574",
+	"vname": "ESET",
+	"vcpe": "cpe:/:eset",
+	"pid": "7868",
+	"pname": "remote administrator",
+	"pcpe": "cpe:/a:eset:remote_administrator"
 }

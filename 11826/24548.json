@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "24548",
-  "pname": "Optima CT520 ファームウェア",
-  "pcpe": "cpe:/o:gehealthcare:optima_ct520_firmware"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "24548",
+	"pname": "Optima CT520 ファームウェア",
+	"pcpe": "cpe:/o:gehealthcare:optima_ct520_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "30547",
-  "pname": "Single Sign-On For Pivotal Cloud Foundry",
-  "pcpe": "cpe:/a:greenplum:single_sign-on_for_pivotal_cloud_foundry"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "30547",
+	"pname": "Single Sign-On For Pivotal Cloud Foundry",
+	"pcpe": "cpe:/a:greenplum:single_sign-on_for_pivotal_cloud_foundry"
 }

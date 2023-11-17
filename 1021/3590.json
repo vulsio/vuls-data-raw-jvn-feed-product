@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "3590",
-  "pname": "OpenStack Compute",
-  "pcpe": "cpe:/a:openstack:compute"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "3590",
+	"pname": "OpenStack Compute",
+	"pcpe": "cpe:/a:openstack:compute"
 }

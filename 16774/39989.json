@@ -1,8 +1,8 @@
 {
-  "vid": "16774",
-  "vname": "Netwrix Corporation",
-  "vcpe": "cpe:/:netwrix",
-  "pid": "39989",
-  "pname": "Netwrix Auditor",
-  "pcpe": "cpe:/a:netwrix:auditor"
+	"vid": "16774",
+	"vname": "Netwrix Corporation",
+	"vcpe": "cpe:/:netwrix",
+	"pid": "39989",
+	"pname": "Netwrix Auditor",
+	"pcpe": "cpe:/a:netwrix:auditor"
 }

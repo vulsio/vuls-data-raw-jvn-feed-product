@@ -1,8 +1,8 @@
 {
-  "vid": "17919",
-  "vname": "OpenSIPS",
-  "vcpe": "cpe:/:opensips",
-  "pid": "43327",
-  "pname": "OpenSIPS",
-  "pcpe": "cpe:/a:opensips:opensips"
+	"vid": "17919",
+	"vname": "OpenSIPS",
+	"vcpe": "cpe:/:opensips",
+	"pid": "43327",
+	"pname": "OpenSIPS",
+	"pcpe": "cpe:/a:opensips:opensips"
 }

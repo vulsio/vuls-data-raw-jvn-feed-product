@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "9426",
-  "pname": "Symantec PGP Universal Server",
-  "pcpe": "cpe:/a:symantec:pgp_universal_server"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "9426",
+	"pname": "Symantec PGP Universal Server",
+	"pcpe": "cpe:/a:symantec:pgp_universal_server"
 }

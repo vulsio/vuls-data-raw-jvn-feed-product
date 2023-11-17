@@ -1,8 +1,8 @@
 {
-  "vid": "16541",
-  "vname": "strong_password project",
-  "vcpe": "cpe:/:strong_password_project",
-  "pid": "39390",
-  "pname": "strong_password",
-  "pcpe": "cpe:/a:strong_password_project:strong_password"
+	"vid": "16541",
+	"vname": "strong_password project",
+	"vcpe": "cpe:/:strong_password_project",
+	"pid": "39390",
+	"pname": "strong_password",
+	"pcpe": "cpe:/a:strong_password_project:strong_password"
 }

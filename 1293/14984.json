@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "14984",
-  "pname": "puremessage for microsoft exchange",
-  "pcpe": "cpe:/a:sophos:puremessage_for_microsoft_exchange"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "14984",
+	"pname": "puremessage for microsoft exchange",
+	"pcpe": "cpe:/a:sophos:puremessage_for_microsoft_exchange"
 }

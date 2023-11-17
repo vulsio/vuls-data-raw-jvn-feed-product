@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "1161",
-  "pname": "MicroVault シリーズ",
-  "pcpe": "cpe:/h:sony:microvault_series"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "1161",
+	"pname": "MicroVault シリーズ",
+	"pcpe": "cpe:/h:sony:microvault_series"
 }

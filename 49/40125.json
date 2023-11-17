@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "40125",
-  "pname": "eXosip",
-  "pcpe": "cpe:/a:gnu:exosip"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "40125",
+	"pname": "eXosip",
+	"pcpe": "cpe:/a:gnu:exosip"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1211",
-  "vname": "クックパッド株式会社",
-  "vcpe": "cpe:/:cookpad",
-  "pid": "3907",
-  "pname": "クックパッド のせる",
-  "pcpe": "cpe:/a:cookpad:android_mykitchen"
+	"vid": "1211",
+	"vname": "クックパッド株式会社",
+	"vcpe": "cpe:/:cookpad",
+	"pid": "3907",
+	"pname": "クックパッド のせる",
+	"pcpe": "cpe:/a:cookpad:android_mykitchen"
 }

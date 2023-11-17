@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "5184",
-  "pname": "Crucible",
-  "pcpe": "cpe:/a:atlassian:crucible"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "5184",
+	"pname": "Crucible",
+	"pcpe": "cpe:/a:atlassian:crucible"
 }

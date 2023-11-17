@@ -1,8 +1,8 @@
 {
-  "vid": "16715",
-  "vname": "Bluetooth SIG, Inc.",
-  "vcpe": "cpe:/:bluetooth",
-  "pid": "50878",
-  "pname": "Bluetooth Core Specification",
-  "pcpe": "cpe:/a:bluetooth:bluetooth_core_specification"
+	"vid": "16715",
+	"vname": "Bluetooth SIG, Inc.",
+	"vcpe": "cpe:/:bluetooth",
+	"pid": "50878",
+	"pname": "Bluetooth Core Specification",
+	"pcpe": "cpe:/a:bluetooth:bluetooth_core_specification"
 }

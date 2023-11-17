@@ -1,8 +1,8 @@
 {
-  "vid": "17688",
-  "vname": "FuzeZip project",
-  "vcpe": "cpe:/:fuzezip_project",
-  "pid": "42493",
-  "pname": "FuzeZip",
-  "pcpe": "cpe:/a:fuzezip_project:fuzezip"
+	"vid": "17688",
+	"vname": "FuzeZip project",
+	"vcpe": "cpe:/:fuzezip_project",
+	"pid": "42493",
+	"pname": "FuzeZip",
+	"pcpe": "cpe:/a:fuzezip_project:fuzezip"
 }

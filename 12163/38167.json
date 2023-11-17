@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38167",
-  "pname": "CloudShare Docker-Machine",
-  "pcpe": "cpe:/a:jenkins:cloudshare_docker-machine"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38167",
+	"pname": "CloudShare Docker-Machine",
+	"pcpe": "cpe:/a:jenkins:cloudshare_docker-machine"
 }

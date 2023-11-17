@@ -1,8 +1,8 @@
 {
-  "vid": "3964",
-  "vname": "ghh",
-  "vcpe": "cpe:/:ghh",
-  "pid": "8405",
-  "pname": "google hack honeypot file upload manager",
-  "pcpe": "cpe:/a:ghh:google_hack_honeypot_file_upload_manager"
+	"vid": "3964",
+	"vname": "ghh",
+	"vcpe": "cpe:/:ghh",
+	"pid": "8405",
+	"pname": "google hack honeypot file upload manager",
+	"pcpe": "cpe:/a:ghh:google_hack_honeypot_file_upload_manager"
 }

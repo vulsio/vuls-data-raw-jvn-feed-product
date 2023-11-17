@@ -1,8 +1,8 @@
 {
-  "vid": "10350",
-  "vname": "CCH group",
-  "vcpe": "cpe:/:cchgroup",
-  "pid": "21745",
-  "pname": "ProSystem fx Engagement",
-  "pcpe": "cpe:/a:cchgroup:prosystem_fx_engagement"
+	"vid": "10350",
+	"vname": "CCH group",
+	"vcpe": "cpe:/:cchgroup",
+	"pid": "21745",
+	"pname": "ProSystem fx Engagement",
+	"pcpe": "cpe:/a:cchgroup:prosystem_fx_engagement"
 }

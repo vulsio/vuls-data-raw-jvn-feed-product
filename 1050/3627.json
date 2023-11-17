@@ -1,8 +1,8 @@
 {
-  "vid": "1050",
-  "vname": "DHTTPD",
-  "vcpe": "cpe:/:dhttpd",
-  "pid": "3627",
-  "pname": "dhttpd",
-  "pcpe": "cpe:/a:dhttpd:dhttpd"
+	"vid": "1050",
+	"vname": "DHTTPD",
+	"vcpe": "cpe:/:dhttpd",
+	"pid": "3627",
+	"pname": "dhttpd",
+	"pcpe": "cpe:/a:dhttpd:dhttpd"
 }

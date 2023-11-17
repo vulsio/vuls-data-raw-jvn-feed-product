@@ -1,8 +1,8 @@
 {
-  "vid": "11867",
-  "vname": "Actiontec Electronics, Inc.",
-  "vcpe": "cpe:/:actiontec",
-  "pid": "37265",
-  "pname": "C1000A ファームウェア",
-  "pcpe": "cpe:/o:actiontec:c1000a_firmware"
+	"vid": "11867",
+	"vname": "Actiontec Electronics, Inc.",
+	"vcpe": "cpe:/:actiontec",
+	"pid": "37265",
+	"pname": "C1000A ファームウェア",
+	"pcpe": "cpe:/o:actiontec:c1000a_firmware"
 }

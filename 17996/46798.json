@@ -1,8 +1,8 @@
 {
-  "vid": "17996",
-  "vname": "rubetek",
-  "vcpe": "cpe:/:rubetek",
-  "pid": "46798",
-  "pname": "RV-3409 ファームウェア",
-  "pcpe": "cpe:/o:rubetek:rv-3409_firmware"
+	"vid": "17996",
+	"vname": "rubetek",
+	"vcpe": "cpe:/:rubetek",
+	"pid": "46798",
+	"pname": "RV-3409 ファームウェア",
+	"pcpe": "cpe:/o:rubetek:rv-3409_firmware"
 }

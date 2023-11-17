@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "24098",
-  "pname": "IBM Sterling Field Sales",
-  "pcpe": "cpe:/a:ibm:sterling_field_sales"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "24098",
+	"pname": "IBM Sterling Field Sales",
+	"pcpe": "cpe:/a:ibm:sterling_field_sales"
 }

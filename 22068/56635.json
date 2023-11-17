@@ -1,8 +1,8 @@
 {
-  "vid": "22068",
-  "vname": "Control iD Panel project",
-  "vcpe": "cpe:/:control_id_panel_project",
-  "pid": "56635",
-  "pname": "Control iD Panel",
-  "pcpe": "cpe:/a:control_id_panel_project:control_id_panel"
+	"vid": "22068",
+	"vname": "Control iD Panel project",
+	"vcpe": "cpe:/:control_id_panel_project",
+	"pid": "56635",
+	"pname": "Control iD Panel",
+	"pcpe": "cpe:/a:control_id_panel_project:control_id_panel"
 }

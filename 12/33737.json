@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "33737",
-  "pname": "Endpoint Application Control",
-  "pcpe": "cpe:/a:trendmicro:endpoint_application_control"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "33737",
+	"pname": "Endpoint Application Control",
+	"pcpe": "cpe:/a:trendmicro:endpoint_application_control"
 }

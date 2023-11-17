@@ -1,8 +1,8 @@
 {
-  "vid": "20220",
-  "vname": "uWebSockets project",
-  "vcpe": "cpe:/:uwebsockets_project",
-  "pid": "51494",
-  "pname": "uWebSockets",
-  "pcpe": "cpe:/a:uwebsockets_project:uwebsockets"
+	"vid": "20220",
+	"vname": "uWebSockets project",
+	"vcpe": "cpe:/:uwebsockets_project",
+	"pid": "51494",
+	"pname": "uWebSockets",
+	"pcpe": "cpe:/a:uwebsockets_project:uwebsockets"
 }

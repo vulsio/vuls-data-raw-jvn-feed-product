@@ -1,8 +1,8 @@
 {
-  "vid": "16513",
-  "vname": "Infinix Mobile",
-  "vcpe": "cpe:/:infinixmobility",
-  "pid": "41943",
-  "pname": "Infinix Note 5 ファームウェア",
-  "pcpe": "cpe:/o:infinixmobility:note_5_firmware"
+	"vid": "16513",
+	"vname": "Infinix Mobile",
+	"vcpe": "cpe:/:infinixmobility",
+	"pid": "41943",
+	"pname": "Infinix Note 5 ファームウェア",
+	"pcpe": "cpe:/o:infinixmobility:note_5_firmware"
 }

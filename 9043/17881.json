@@ -1,8 +1,8 @@
 {
-  "vid": "9043",
-  "vname": "Western Digital Corporation",
-  "vcpe": "cpe:/:wdc",
-  "pid": "17881",
-  "pname": "My Net N900",
-  "pcpe": "cpe:/h:wdc:my_net_n900"
+	"vid": "9043",
+	"vname": "Western Digital Corporation",
+	"vcpe": "cpe:/:wdc",
+	"pid": "17881",
+	"pname": "My Net N900",
+	"pcpe": "cpe:/h:wdc:my_net_n900"
 }

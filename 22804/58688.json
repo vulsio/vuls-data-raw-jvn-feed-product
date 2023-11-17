@@ -1,8 +1,8 @@
 {
-  "vid": "22804",
-  "vname": "originprotocol",
-  "vcpe": "cpe:/:originprotocol",
-  "pid": "58688",
-  "pname": "origin website",
-  "pcpe": "cpe:/a:originprotocol:origin_website"
+	"vid": "22804",
+	"vname": "originprotocol",
+	"vcpe": "cpe:/:originprotocol",
+	"pid": "58688",
+	"pname": "origin website",
+	"pcpe": "cpe:/a:originprotocol:origin_website"
 }

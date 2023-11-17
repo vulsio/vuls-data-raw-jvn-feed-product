@@ -1,8 +1,8 @@
 {
-  "vid": "224",
-  "vname": "アラクサラネットワークス",
-  "vcpe": "cpe:/:alaxala",
-  "pid": "730",
-  "pname": "AX7800Rシリーズ",
-  "pcpe": "cpe:/h:alaxala:ax7800r"
+	"vid": "224",
+	"vname": "アラクサラネットワークス",
+	"vcpe": "cpe:/:alaxala",
+	"pid": "730",
+	"pname": "AX7800Rシリーズ",
+	"pcpe": "cpe:/h:alaxala:ax7800r"
 }

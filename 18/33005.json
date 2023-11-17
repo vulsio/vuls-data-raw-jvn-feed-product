@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "33005",
-  "pname": "Care Management",
-  "pcpe": "cpe:/a:ibm:care_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "33005",
+	"pname": "Care Management",
+	"pcpe": "cpe:/a:ibm:care_management"
 }

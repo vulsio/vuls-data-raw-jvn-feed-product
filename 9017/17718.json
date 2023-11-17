@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "17718",
-  "pname": "Supermicro Baseboard Management Controller",
-  "pcpe": "cpe:/h:supermicro:bmc"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "17718",
+	"pname": "Supermicro Baseboard Management Controller",
+	"pcpe": "cpe:/h:supermicro:bmc"
 }

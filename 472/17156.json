@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "17156",
-  "pname": "RSLinx Enterprise",
-  "pcpe": "cpe:/h:rockwellautomation:rslinx_enterprise"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "17156",
+	"pname": "RSLinx Enterprise",
+	"pcpe": "cpe:/h:rockwellautomation:rslinx_enterprise"
 }

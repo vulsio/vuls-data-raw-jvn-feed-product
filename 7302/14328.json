@@ -1,8 +1,8 @@
 {
-  "vid": "7302",
-  "vname": "revokesoft",
-  "vcpe": "cpe:/:revokesoft",
-  "pid": "14328",
-  "pname": "revokebb",
-  "pcpe": "cpe:/a:revokesoft:revokebb"
+	"vid": "7302",
+	"vname": "revokesoft",
+	"vcpe": "cpe:/:revokesoft",
+	"pid": "14328",
+	"pname": "revokebb",
+	"pcpe": "cpe:/a:revokesoft:revokebb"
 }

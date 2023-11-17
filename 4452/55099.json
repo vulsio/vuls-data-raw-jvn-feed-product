@@ -1,8 +1,8 @@
 {
-  "vid": "4452",
-  "vname": "LiteSpeed Technologies",
-  "vcpe": "cpe:/:litespeedtech",
-  "pid": "55099",
-  "pname": "LiteSpeed Cache",
-  "pcpe": "cpe:/a:litespeedtech:litespeed_cache"
+	"vid": "4452",
+	"vname": "LiteSpeed Technologies",
+	"vcpe": "cpe:/:litespeedtech",
+	"pid": "55099",
+	"pname": "LiteSpeed Cache",
+	"pcpe": "cpe:/a:litespeedtech:litespeed_cache"
 }

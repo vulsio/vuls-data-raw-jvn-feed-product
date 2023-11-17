@@ -1,8 +1,8 @@
 {
-  "vid": "23696",
-  "vname": "fan platform project",
-  "vcpe": "cpe:/:fan_platform_project",
-  "pid": "61310",
-  "pname": "fan platform",
-  "pcpe": "cpe:/a:fan_platform_project:fan_platform"
+	"vid": "23696",
+	"vname": "fan platform project",
+	"vcpe": "cpe:/:fan_platform_project",
+	"pid": "61310",
+	"pname": "fan platform",
+	"pcpe": "cpe:/a:fan_platform_project:fan_platform"
 }

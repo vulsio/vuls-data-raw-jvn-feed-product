@@ -1,8 +1,8 @@
 {
-  "vid": "23869",
-  "vname": "slack morphism project",
-  "vcpe": "cpe:/:slack_morphism_project",
-  "pid": "61749",
-  "pname": "slack morphism",
-  "pcpe": "cpe:/a:slack_morphism_project:slack_morphism"
+	"vid": "23869",
+	"vname": "slack morphism project",
+	"vcpe": "cpe:/:slack_morphism_project",
+	"pid": "61749",
+	"pname": "slack morphism",
+	"pcpe": "cpe:/a:slack_morphism_project:slack_morphism"
 }

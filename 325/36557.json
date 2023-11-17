@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "36557",
-  "pname": "System Management Module ファームウェア",
-  "pcpe": "cpe:/o:lenovo:system_management_module_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "36557",
+	"pname": "System Management Module ファームウェア",
+	"pcpe": "cpe:/o:lenovo:system_management_module_firmware"
 }

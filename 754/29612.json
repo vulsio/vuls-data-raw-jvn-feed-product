@@ -1,8 +1,8 @@
 {
-  "vid": "754",
-  "vname": "Puppet",
-  "vcpe": "cpe:/:puppetlabs",
-  "pid": "29612",
-  "pname": "mcollective-sshkey-security",
-  "pcpe": "cpe:/a:puppetlabs:mcollective-sshkey-security"
+	"vid": "754",
+	"vname": "Puppet",
+	"vcpe": "cpe:/:puppetlabs",
+	"pid": "29612",
+	"pname": "mcollective-sshkey-security",
+	"pcpe": "cpe:/a:puppetlabs:mcollective-sshkey-security"
 }

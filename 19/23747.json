@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23747",
-  "pname": "Cisco SPA 302DKIT IP Phone",
-  "pcpe": "cpe:/h:cisco:spa_302dkit"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23747",
+	"pname": "Cisco SPA 302DKIT IP Phone",
+	"pcpe": "cpe:/h:cisco:spa_302dkit"
 }

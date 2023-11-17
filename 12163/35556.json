@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "35556",
-  "pname": "SaltStack",
-  "pcpe": "cpe:/a:jenkins:saltstack"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "35556",
+	"pname": "SaltStack",
+	"pcpe": "cpe:/a:jenkins:saltstack"
 }

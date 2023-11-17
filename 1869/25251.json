@@ -1,8 +1,8 @@
 {
-  "vid": "1869",
-  "vname": "Seagate Technology LLC",
-  "vcpe": "cpe:/:seagate",
-  "pid": "25251",
-  "pname": "Seagate Wireless Mobile Storage",
-  "pcpe": "cpe:/h:seagate:wireless_mobile_storage"
+	"vid": "1869",
+	"vname": "Seagate Technology LLC",
+	"vcpe": "cpe:/:seagate",
+	"pid": "25251",
+	"pname": "Seagate Wireless Mobile Storage",
+	"pcpe": "cpe:/h:seagate:wireless_mobile_storage"
 }

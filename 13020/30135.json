@@ -1,8 +1,8 @@
 {
-  "vid": "13020",
-  "vname": "SimpLight",
-  "vcpe": "cpe:/:simplight",
-  "pid": "30135",
-  "pname": "SIMPlight SCADA",
-  "pcpe": "cpe:/a:simplight:scada"
+	"vid": "13020",
+	"vname": "SimpLight",
+	"vcpe": "cpe:/:simplight",
+	"pid": "30135",
+	"pname": "SIMPlight SCADA",
+	"pcpe": "cpe:/a:simplight:scada"
 }

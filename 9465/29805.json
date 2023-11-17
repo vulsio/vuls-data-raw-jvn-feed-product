@@ -1,8 +1,8 @@
 {
-  "vid": "9465",
-  "vname": "Inmarsat plc.",
-  "vcpe": "cpe:/:inmarsat",
-  "pid": "29805",
-  "pname": "AmosConnect 8",
-  "pcpe": "cpe:/a:inmarsat:amosconnect_8"
+	"vid": "9465",
+	"vname": "Inmarsat plc.",
+	"vcpe": "cpe:/:inmarsat",
+	"pid": "29805",
+	"pname": "AmosConnect 8",
+	"pcpe": "cpe:/a:inmarsat:amosconnect_8"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17890",
-  "vname": "Secom",
-  "vcpe": "cpe:/:secom",
-  "pid": "43188",
-  "pname": "Dr.ID Access Control",
-  "pcpe": "cpe:/a:secom:dr.id_access_control"
+	"vid": "17890",
+	"vname": "Secom",
+	"vcpe": "cpe:/:secom",
+	"pid": "43188",
+	"pname": "Dr.ID Access Control",
+	"pcpe": "cpe:/a:secom:dr.id_access_control"
 }

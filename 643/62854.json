@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "62854",
-  "pname": "precision 3660 tower ファームウェア",
-  "pcpe": "cpe:/o:dell:precision_3660_tower_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "62854",
+	"pname": "precision 3660 tower ファームウェア",
+	"pcpe": "cpe:/o:dell:precision_3660_tower_firmware"
 }

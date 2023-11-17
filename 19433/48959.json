@@ -1,8 +1,8 @@
 {
-  "vid": "19433",
-  "vname": "シャープNECディスプレイソリューションズ株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "48959",
-  "pname": "V484-T",
-  "pcpe": "cpe:/a:misc:sharp_nec_displaysolutions_v484-t"
+	"vid": "19433",
+	"vname": "シャープNECディスプレイソリューションズ株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "48959",
+	"pname": "V484-T",
+	"pcpe": "cpe:/a:misc:sharp_nec_displaysolutions_v484-t"
 }

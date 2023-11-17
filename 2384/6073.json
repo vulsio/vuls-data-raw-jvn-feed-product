@@ -1,8 +1,8 @@
 {
-  "vid": "2384",
-  "vname": "オートデスク株式会社",
-  "vcpe": "cpe:/:autodesk",
-  "pid": "6073",
-  "pname": "autodesk softimage xsi",
-  "pcpe": "cpe:/a:autodesk:autodesk_softimage_xsi"
+	"vid": "2384",
+	"vname": "オートデスク株式会社",
+	"vcpe": "cpe:/:autodesk",
+	"pid": "6073",
+	"pname": "autodesk softimage xsi",
+	"pcpe": "cpe:/a:autodesk:autodesk_softimage_xsi"
 }

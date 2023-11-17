@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "17717",
-  "pname": "Integrated Dell Remote Access Controller 6",
-  "pcpe": "cpe:/h:dell:idrac6_bmc"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "17717",
+	"pname": "Integrated Dell Remote Access Controller 6",
+	"pcpe": "cpe:/h:dell:idrac6_bmc"
 }

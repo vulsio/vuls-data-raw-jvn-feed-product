@@ -1,8 +1,8 @@
 {
-  "vid": "23137",
-  "vname": "libjpeg project",
-  "vcpe": "cpe:/:libjpeg_project",
-  "pid": "59934",
-  "pname": "libjpeg",
-  "pcpe": "cpe:/a:libjpeg_project:libjpeg"
+	"vid": "23137",
+	"vname": "libjpeg project",
+	"vcpe": "cpe:/:libjpeg_project",
+	"pid": "59934",
+	"pname": "libjpeg",
+	"pcpe": "cpe:/a:libjpeg_project:libjpeg"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "493",
-  "vname": "Dassault Systemes",
-  "vcpe": "cpe:/:3ds",
-  "pid": "9519",
-  "pname": "3D XML Player",
-  "pcpe": "cpe:/a:3ds:3d_xml_player"
+	"vid": "493",
+	"vname": "Dassault Systemes",
+	"vcpe": "cpe:/:3ds",
+	"pid": "9519",
+	"pname": "3D XML Player",
+	"pcpe": "cpe:/a:3ds:3d_xml_player"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11710",
-  "vname": "Wavelink Corporation",
-  "vcpe": "cpe:/:wavelink",
-  "pid": "24128",
-  "pname": "ConnectPro",
-  "pcpe": "cpe:/a:wavelink:connectpro"
+	"vid": "11710",
+	"vname": "Wavelink Corporation",
+	"vcpe": "cpe:/:wavelink",
+	"pid": "24128",
+	"pname": "ConnectPro",
+	"pcpe": "cpe:/a:wavelink:connectpro"
 }

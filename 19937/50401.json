@@ -1,8 +1,8 @@
 {
-  "vid": "19937",
-  "vname": "Sipwise",
-  "vcpe": "cpe:/:sipwise",
-  "pid": "50401",
-  "pname": "Next Generation Communication Platform",
-  "pcpe": "cpe:/a:sipwise:next_generation_communication_platform"
+	"vid": "19937",
+	"vname": "Sipwise",
+	"vcpe": "cpe:/:sipwise",
+	"pid": "50401",
+	"pname": "Next Generation Communication Platform",
+	"pcpe": "cpe:/a:sipwise:next_generation_communication_platform"
 }

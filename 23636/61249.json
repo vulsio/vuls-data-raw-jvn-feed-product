@@ -1,8 +1,8 @@
 {
-  "vid": "23636",
-  "vname": "iasset project",
-  "vcpe": "cpe:/:iasset_project",
-  "pid": "61249",
-  "pname": "iasset",
-  "pcpe": "cpe:/a:iasset_project:iasset"
+	"vid": "23636",
+	"vname": "iasset project",
+	"vcpe": "cpe:/:iasset_project",
+	"pid": "61249",
+	"pname": "iasset",
+	"pcpe": "cpe:/a:iasset_project:iasset"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "41615",
-  "pname": "IdeaCentre 310S-08IGM ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideacentre_310s-08igm_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "41615",
+	"pname": "IdeaCentre 310S-08IGM ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideacentre_310s-08igm_firmware"
 }

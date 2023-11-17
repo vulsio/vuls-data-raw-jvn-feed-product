@@ -1,8 +1,8 @@
 {
-  "vid": "8250",
-  "vname": "utimaco safeware",
-  "vcpe": "cpe:/:utimaco_safeware",
-  "pid": "15796",
-  "pname": "safeguard easy",
-  "pcpe": "cpe:/a:utimaco_safeware:safeguard_easy"
+	"vid": "8250",
+	"vname": "utimaco safeware",
+	"vcpe": "cpe:/:utimaco_safeware",
+	"pid": "15796",
+	"pname": "safeguard easy",
+	"pcpe": "cpe:/a:utimaco_safeware:safeguard_easy"
 }

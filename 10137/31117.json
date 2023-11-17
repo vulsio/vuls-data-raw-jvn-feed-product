@@ -1,8 +1,8 @@
 {
-  "vid": "10137",
-  "vname": "NQ Mobile",
-  "vcpe": "cpe:/:nq",
-  "pid": "31117",
-  "pname": "Contacts Backup & Restore",
-  "pcpe": "cpe:/a:nq:contacts_backup_%26_restore"
+	"vid": "10137",
+	"vname": "NQ Mobile",
+	"vcpe": "cpe:/:nq",
+	"pid": "31117",
+	"pname": "Contacts Backup & Restore",
+	"pcpe": "cpe:/a:nq:contacts_backup_%26_restore"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "51129",
-  "pname": "IBM QRadar Analyst Workflow",
-  "pcpe": "cpe:/a:ibm:security_qradar_analyst_workflow"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "51129",
+	"pname": "IBM QRadar Analyst Workflow",
+	"pcpe": "cpe:/a:ibm:security_qradar_analyst_workflow"
 }

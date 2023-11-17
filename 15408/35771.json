@@ -1,8 +1,8 @@
 {
-  "vid": "15408",
-  "vname": "Zemana",
-  "vcpe": "cpe:/:zemana",
-  "pid": "35771",
-  "pname": "Anti-Logger",
-  "pcpe": "cpe:/a:zemana:antilogger"
+	"vid": "15408",
+	"vname": "Zemana",
+	"vcpe": "cpe:/:zemana",
+	"pid": "35771",
+	"pname": "Anti-Logger",
+	"pcpe": "cpe:/a:zemana:antilogger"
 }

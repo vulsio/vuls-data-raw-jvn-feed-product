@@ -1,8 +1,8 @@
 {
-  "vid": "9617",
-  "vname": "Festo",
-  "vcpe": "cpe:/:festo",
-  "pid": "62952",
-  "pname": "cpx-cmxx ファームウェア",
-  "pcpe": "cpe:/o:festo:cpx-cmxx_firmware"
+	"vid": "9617",
+	"vname": "Festo",
+	"vcpe": "cpe:/:festo",
+	"pid": "62952",
+	"pname": "cpx-cmxx ファームウェア",
+	"pcpe": "cpe:/o:festo:cpx-cmxx_firmware"
 }

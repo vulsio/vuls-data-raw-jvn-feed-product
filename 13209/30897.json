@@ -1,8 +1,8 @@
 {
-  "vid": "13209",
-  "vname": "Salesforce.com, inc.",
-  "vcpe": "cpe:/:salesforce",
-  "pid": "30897",
-  "pname": "tough-cookie",
-  "pcpe": "cpe:/a:salesforce:tough-cookie"
+	"vid": "13209",
+	"vname": "Salesforce.com, inc.",
+	"vcpe": "cpe:/:salesforce",
+	"pid": "30897",
+	"pname": "tough-cookie",
+	"pcpe": "cpe:/a:salesforce:tough-cookie"
 }

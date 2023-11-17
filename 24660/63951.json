@@ -1,8 +1,8 @@
 {
-  "vid": "24660",
-  "vname": "udx",
-  "vcpe": "cpe:/:udx",
-  "pid": "63951",
-  "pname": "stateless media plugin",
-  "pcpe": "cpe:/a:udx:stateless_media_plugin"
+	"vid": "24660",
+	"vname": "udx",
+	"vcpe": "cpe:/:udx",
+	"pid": "63951",
+	"pname": "stateless media plugin",
+	"pcpe": "cpe:/a:udx:stateless_media_plugin"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23757",
-  "vname": "nexans",
-  "vcpe": "cpe:/:nexans",
-  "pid": "61456",
-  "pname": "gigaswitch 642 desk v5 sfp-2vi ファームウェア",
-  "pcpe": "cpe:/o:nexans:gigaswitch_642_desk_v5_sfp-2vi_firmware"
+	"vid": "23757",
+	"vname": "nexans",
+	"vcpe": "cpe:/:nexans",
+	"pid": "61456",
+	"pname": "gigaswitch 642 desk v5 sfp-2vi ファームウェア",
+	"pcpe": "cpe:/o:nexans:gigaswitch_642_desk_v5_sfp-2vi_firmware"
 }

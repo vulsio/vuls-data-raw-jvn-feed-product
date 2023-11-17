@@ -1,8 +1,8 @@
 {
-  "vid": "12429",
-  "vname": "node-serialize project",
-  "vcpe": "cpe:/:node-serialize_project",
-  "pid": "28072",
-  "pname": "node-serialize",
-  "pcpe": "cpe:/a:node-serialize_project:node-serialize"
+	"vid": "12429",
+	"vname": "node-serialize project",
+	"vcpe": "cpe:/:node-serialize_project",
+	"pid": "28072",
+	"pname": "node-serialize",
+	"pcpe": "cpe:/a:node-serialize_project:node-serialize"
 }

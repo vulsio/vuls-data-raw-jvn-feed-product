@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "15138",
-  "pname": "java web start",
-  "pcpe": "cpe:/a:sun:java_web_start"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "15138",
+	"pname": "java web start",
+	"pcpe": "cpe:/a:sun:java_web_start"
 }

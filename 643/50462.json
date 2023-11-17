@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "50462",
-  "pname": "Dell Integrated System for Microsoft Azure Stack Hub ファームウェア",
-  "pcpe": "cpe:/o:dell:integrated_system_for_microsoft_azure_stack_hub_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "50462",
+	"pname": "Dell Integrated System for Microsoft Azure Stack Hub ファームウェア",
+	"pcpe": "cpe:/o:dell:integrated_system_for_microsoft_azure_stack_hub_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4457",
-  "vname": "TRENDnet",
-  "vcpe": "cpe:/:trendnet",
-  "pid": "59435",
-  "pname": "tpe-30102ws ファームウェア",
-  "pcpe": "cpe:/o:trendnet:tpe-30102ws_firmware"
+	"vid": "4457",
+	"vname": "TRENDnet",
+	"vcpe": "cpe:/:trendnet",
+	"pid": "59435",
+	"pname": "tpe-30102ws ファームウェア",
+	"pcpe": "cpe:/o:trendnet:tpe-30102ws_firmware"
 }

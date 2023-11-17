@@ -1,8 +1,8 @@
 {
-  "vid": "9102",
-  "vname": "Open-Xchange",
-  "vcpe": "cpe:/:open-xchange",
-  "pid": "18162",
-  "pname": "OX App Suite",
-  "pcpe": "cpe:/a:open-xchange:open-xchange_appsuite"
+	"vid": "9102",
+	"vname": "Open-Xchange",
+	"vcpe": "cpe:/:open-xchange",
+	"pid": "18162",
+	"pname": "OX App Suite",
+	"pcpe": "cpe:/a:open-xchange:open-xchange_appsuite"
 }

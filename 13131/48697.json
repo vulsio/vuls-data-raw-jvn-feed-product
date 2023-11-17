@@ -1,8 +1,8 @@
 {
-  "vid": "13131",
-  "vname": "TerraMaster",
-  "vcpe": "cpe:/:terra-master",
-  "pid": "48697",
-  "pname": "F2-210 ファームウェア",
-  "pcpe": "cpe:/o:terra-master:f2-210_firmware"
+	"vid": "13131",
+	"vname": "TerraMaster",
+	"vcpe": "cpe:/:terra-master",
+	"pid": "48697",
+	"pname": "F2-210 ファームウェア",
+	"pcpe": "cpe:/o:terra-master:f2-210_firmware"
 }

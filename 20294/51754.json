@@ -1,8 +1,8 @@
 {
-  "vid": "20294",
-  "vname": "明京電機株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "51754",
-  "pname": "TIME BOOT RSC-MT8F",
-  "pcpe": "cpe:/a:misc:meikyoelectric_time_boot_rsc-mt8f"
+	"vid": "20294",
+	"vname": "明京電機株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "51754",
+	"pname": "TIME BOOT RSC-MT8F",
+	"pcpe": "cpe:/a:misc:meikyoelectric_time_boot_rsc-mt8f"
 }

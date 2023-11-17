@@ -1,8 +1,8 @@
 {
-  "vid": "19930",
-  "vname": "Acexy Wireless-N WiFI Repeater project",
-  "vcpe": "cpe:/:acexy_wireless-n_wifi_repeater_project",
-  "pid": "50392",
-  "pname": "Acexy Wireless-N WIFI Repeater ファームウェア",
-  "pcpe": "cpe:/o:acexy_wireless-n_wifi_repeater_project:acexy_wireless-n_wifi_repeater_firmware"
+	"vid": "19930",
+	"vname": "Acexy Wireless-N WiFI Repeater project",
+	"vcpe": "cpe:/:acexy_wireless-n_wifi_repeater_project",
+	"pid": "50392",
+	"pname": "Acexy Wireless-N WIFI Repeater ファームウェア",
+	"pcpe": "cpe:/o:acexy_wireless-n_wifi_repeater_project:acexy_wireless-n_wifi_repeater_firmware"
 }

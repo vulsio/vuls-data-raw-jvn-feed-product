@@ -1,8 +1,8 @@
 {
-  "vid": "21891",
-  "vname": "DNS-STATS",
-  "vcpe": "cpe:/:dns-stats",
-  "pid": "56176",
-  "pname": "Hedgehog",
-  "pcpe": "cpe:/a:dns-stats:hedgehog"
+	"vid": "21891",
+	"vname": "DNS-STATS",
+	"vcpe": "cpe:/:dns-stats",
+	"pid": "56176",
+	"pname": "Hedgehog",
+	"pcpe": "cpe:/a:dns-stats:hedgehog"
 }

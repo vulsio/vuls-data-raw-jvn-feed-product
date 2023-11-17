@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "37206",
-  "pname": "CN1610 ファームウェア",
-  "pcpe": "cpe:/o:netapp:cn1610_firmware"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "37206",
+	"pname": "CN1610 ファームウェア",
+	"pcpe": "cpe:/o:netapp:cn1610_firmware"
 }

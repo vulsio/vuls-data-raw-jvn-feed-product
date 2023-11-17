@@ -1,8 +1,8 @@
 {
-  "vid": "3678",
-  "vname": "ffdshow-tryout",
-  "vcpe": "cpe:/:ffdshow-tryout",
-  "pid": "8041",
-  "pname": "ffdshow",
-  "pcpe": "cpe:/a:ffdshow-tryout:ffdshow"
+	"vid": "3678",
+	"vname": "ffdshow-tryout",
+	"vcpe": "cpe:/:ffdshow-tryout",
+	"pid": "8041",
+	"pname": "ffdshow",
+	"pcpe": "cpe:/a:ffdshow-tryout:ffdshow"
 }

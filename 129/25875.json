@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "25875",
-  "pname": "Hitachi Unified Storage",
-  "pcpe": "cpe:/h:hitachi:unified_storage"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "25875",
+	"pname": "Hitachi Unified Storage",
+	"pcpe": "cpe:/h:hitachi:unified_storage"
 }

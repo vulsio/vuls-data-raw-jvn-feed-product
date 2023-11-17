@@ -1,8 +1,8 @@
 {
-  "vid": "18722",
-  "vname": "Localization Manager project",
-  "vcpe": "cpe:/:localization_manager_project",
-  "pid": "46426",
-  "pname": "Localization Manager",
-  "pcpe": "cpe:/a:localization_manager_project:localization_manager"
+	"vid": "18722",
+	"vname": "Localization Manager project",
+	"vcpe": "cpe:/:localization_manager_project",
+	"pid": "46426",
+	"pname": "Localization Manager",
+	"pcpe": "cpe:/a:localization_manager_project:localization_manager"
 }

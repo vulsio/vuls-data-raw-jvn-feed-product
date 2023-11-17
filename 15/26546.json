@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26546",
-  "pname": "Siebel Core - Server Framework",
-  "pcpe": "cpe:/a:oracle:siebel_core-server_framework"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26546",
+	"pname": "Siebel Core - Server Framework",
+	"pcpe": "cpe:/a:oracle:siebel_core-server_framework"
 }

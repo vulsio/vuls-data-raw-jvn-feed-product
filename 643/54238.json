@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "54238",
-  "pname": "EMC PowerScale X410 ファームウェア",
-  "pcpe": "cpe:/o:dell:emc_powerscale_nodes_x410_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "54238",
+	"pname": "EMC PowerScale X410 ファームウェア",
+	"pcpe": "cpe:/o:dell:emc_powerscale_nodes_x410_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "32776",
-  "pname": "AppFormix",
-  "pcpe": "cpe:/a:juniper:appformix"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "32776",
+	"pname": "AppFormix",
+	"pcpe": "cpe:/a:juniper:appformix"
 }

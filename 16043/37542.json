@@ -1,8 +1,8 @@
 {
-  "vid": "16043",
-  "vname": "coturn project",
-  "vcpe": "cpe:/:coturn_project",
-  "pid": "37542",
-  "pname": "coturn",
-  "pcpe": "cpe:/a:coturn_project:coturn"
+	"vid": "16043",
+	"vname": "coturn project",
+	"vcpe": "cpe:/:coturn_project",
+	"pid": "37542",
+	"pname": "coturn",
+	"pcpe": "cpe:/a:coturn_project:coturn"
 }

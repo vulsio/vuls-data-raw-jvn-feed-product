@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "46409",
-  "pname": "Red Hat Enterprise Linux for SAP Solutions",
-  "pcpe": "cpe:/a:redhat:enterprise_linux_update_services_for_sap_solutions"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "46409",
+	"pname": "Red Hat Enterprise Linux for SAP Solutions",
+	"pcpe": "cpe:/a:redhat:enterprise_linux_update_services_for_sap_solutions"
 }

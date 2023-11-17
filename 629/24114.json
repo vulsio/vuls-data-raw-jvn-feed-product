@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "24114",
-  "pname": "VPort ActiveX SDK PLUS",
-  "pcpe": "cpe:/a:moxa:vport_activex_sdk_plus"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "24114",
+	"pname": "VPort ActiveX SDK PLUS",
+	"pcpe": "cpe:/a:moxa:vport_activex_sdk_plus"
 }

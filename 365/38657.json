@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "38657",
-  "pname": "Citrix ShareFile",
-  "pcpe": "cpe:/a:citrix:sharefile"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "38657",
+	"pname": "Citrix ShareFile",
+	"pcpe": "cpe:/a:citrix:sharefile"
 }

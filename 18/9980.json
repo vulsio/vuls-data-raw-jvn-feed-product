@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9980",
-  "pname": "informix client sdk",
-  "pcpe": "cpe:/a:ibm:informix_client_sdk"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9980",
+	"pname": "informix client sdk",
+	"pcpe": "cpe:/a:ibm:informix_client_sdk"
 }

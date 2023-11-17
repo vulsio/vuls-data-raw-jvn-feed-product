@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "49667",
-  "pname": "HarmonyOS",
-  "pcpe": "cpe:/o:huawei:harmonyos"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "49667",
+	"pname": "HarmonyOS",
+	"pcpe": "cpe:/o:huawei:harmonyos"
 }

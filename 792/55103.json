@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "55103",
-  "pname": "NBG6604 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:nbg6604_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "55103",
+	"pname": "NBG6604 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:nbg6604_firmware"
 }

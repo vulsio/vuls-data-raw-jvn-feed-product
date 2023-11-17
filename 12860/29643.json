@@ -1,8 +1,8 @@
 {
-  "vid": "12860",
-  "vname": "Marel",
-  "vcpe": "cpe:/:marel",
-  "pid": "29643",
-  "pname": "SensorX13 QC flow line ファームウェア",
-  "pcpe": "cpe:/o:marel:sensorx13_qc_flow_line_firmware"
+	"vid": "12860",
+	"vname": "Marel",
+	"vcpe": "cpe:/:marel",
+	"pid": "29643",
+	"pname": "SensorX13 QC flow line ファームウェア",
+	"pcpe": "cpe:/o:marel:sensorx13_qc_flow_line_firmware"
 }

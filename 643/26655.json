@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "26655",
-  "pname": "Dell KM714 USB ドングル ファームウェア",
-  "pcpe": "cpe:/h:dell:km714_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "26655",
+	"pname": "Dell KM714 USB ドングル ファームウェア",
+	"pcpe": "cpe:/h:dell:km714_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "7255",
-  "vname": "Realtek Semiconductor Corp",
-  "vcpe": "cpe:/:realtek",
-  "pid": "43408",
-  "pname": "Realtek NDIS",
-  "pcpe": "cpe:/a:realtek:ndis"
+	"vid": "7255",
+	"vname": "Realtek Semiconductor Corp",
+	"vcpe": "cpe:/:realtek",
+	"pid": "43408",
+	"pname": "Realtek NDIS",
+	"pcpe": "cpe:/a:realtek:ndis"
 }

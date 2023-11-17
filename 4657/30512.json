@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "30512",
-  "pname": "Huawei E5756S ファームウェア",
-  "pcpe": "cpe:/o:huawei:e5756s_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "30512",
+	"pname": "Huawei E5756S ファームウェア",
+	"pcpe": "cpe:/o:huawei:e5756s_firmware"
 }

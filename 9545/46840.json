@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "46840",
-  "pname": "nats.js",
-  "pcpe": "cpe:/a:linuxfoundation:nats.js"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "46840",
+	"pname": "nats.js",
+	"pcpe": "cpe:/a:linuxfoundation:nats.js"
 }

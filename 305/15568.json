@@ -1,8 +1,8 @@
 {
-  "vid": "305",
-  "vname": "トリップワイヤ",
-  "vcpe": "cpe:/:tripwire",
-  "pid": "15568",
-  "pname": "Tripwire Enterprise",
-  "pcpe": "cpe:/a:tripwire:tripwire_enterprise"
+	"vid": "305",
+	"vname": "トリップワイヤ",
+	"vcpe": "cpe:/:tripwire",
+	"pid": "15568",
+	"pname": "Tripwire Enterprise",
+	"pcpe": "cpe:/a:tripwire:tripwire_enterprise"
 }

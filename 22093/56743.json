@@ -1,8 +1,8 @@
 {
-  "vid": "22093",
-  "vname": "gmail-servlet project",
-  "vcpe": "cpe:/:gmail-servlet_project",
-  "pid": "56743",
-  "pname": "gmail-servlet",
-  "pcpe": "cpe:/a:gmail-servlet_project:gmail-servlet"
+	"vid": "22093",
+	"vname": "gmail-servlet project",
+	"vcpe": "cpe:/:gmail-servlet_project",
+	"pid": "56743",
+	"pname": "gmail-servlet",
+	"pcpe": "cpe:/a:gmail-servlet_project:gmail-servlet"
 }

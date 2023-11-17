@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "50648",
-  "pname": "Deep Security Agent",
-  "pcpe": "cpe:/a:trendmicro:deep_security_agent"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "50648",
+	"pname": "Deep Security Agent",
+	"pcpe": "cpe:/a:trendmicro:deep_security_agent"
 }

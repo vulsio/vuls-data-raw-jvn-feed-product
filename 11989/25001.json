@@ -1,8 +1,8 @@
 {
-  "vid": "11989",
-  "vname": "Mobatek",
-  "vcpe": "cpe:/:mobatek",
-  "pid": "25001",
-  "pname": "MobaXterm",
-  "pcpe": "cpe:/a:mobatek:mobaxterm"
+	"vid": "11989",
+	"vname": "Mobatek",
+	"vcpe": "cpe:/:mobatek",
+	"pid": "25001",
+	"pname": "MobaXterm",
+	"pcpe": "cpe:/a:mobatek:mobaxterm"
 }

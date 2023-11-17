@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "37335",
-  "pname": "Cloud Foundry NFS volume",
-  "pcpe": "cpe:/a:greenplum:cloud_foundry_nfs_volume"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "37335",
+	"pname": "Cloud Foundry NFS volume",
+	"pcpe": "cpe:/a:greenplum:cloud_foundry_nfs_volume"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "51284",
-  "pname": "Avaya Aura Utility Services",
-  "pcpe": "cpe:/a:avaya:aura_utility_services"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "51284",
+	"pname": "Avaya Aura Utility Services",
+	"pcpe": "cpe:/a:avaya:aura_utility_services"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "25190",
-  "pname": "BMXP342020",
-  "pcpe": "cpe:/h:schneider_electric:bmxp342020"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "25190",
+	"pname": "BMXP342020",
+	"pcpe": "cpe:/h:schneider_electric:bmxp342020"
 }

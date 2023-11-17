@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "41016",
-  "pname": "SIMATIC IT UADM",
-  "pcpe": "cpe:/a:siemens:simatic_it_uadm"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "41016",
+	"pname": "SIMATIC IT UADM",
+	"pcpe": "cpe:/a:siemens:simatic_it_uadm"
 }

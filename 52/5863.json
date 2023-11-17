@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "5863",
-  "pname": "apple airport extreme base station",
-  "pcpe": "cpe:/a:apple:apple_airport_extreme_base_station"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "5863",
+	"pname": "apple airport extreme base station",
+	"pcpe": "cpe:/a:apple:apple_airport_extreme_base_station"
 }

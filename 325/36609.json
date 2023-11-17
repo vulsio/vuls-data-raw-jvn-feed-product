@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "36609",
-  "pname": "ThinkPad Yoga 370",
-  "pcpe": "cpe:/h:lenovo:thinkpad_yoga_370"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "36609",
+	"pname": "ThinkPad Yoga 370",
+	"pcpe": "cpe:/h:lenovo:thinkpad_yoga_370"
 }

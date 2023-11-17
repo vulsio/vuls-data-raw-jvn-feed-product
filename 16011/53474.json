@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "53474",
-  "pname": "Rexroth IndraMotion MLC XM41 ファームウェア",
-  "pcpe": "cpe:/o:bosch:rexroth_indramotion_mlc_xm41_firmware"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "53474",
+	"pname": "Rexroth IndraMotion MLC XM41 ファームウェア",
+	"pcpe": "cpe:/o:bosch:rexroth_indramotion_mlc_xm41_firmware"
 }

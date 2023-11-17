@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "49576",
-  "pname": "Californium",
-  "pcpe": "cpe:/a:eclipse:californium"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "49576",
+	"pname": "Californium",
+	"pcpe": "cpe:/a:eclipse:californium"
 }

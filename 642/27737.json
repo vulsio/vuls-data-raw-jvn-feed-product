@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "27737",
-  "pname": "WNDR4500",
-  "pcpe": "cpe:/h:netgear:wndr4500"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "27737",
+	"pname": "WNDR4500",
+	"pcpe": "cpe:/h:netgear:wndr4500"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17430",
-  "vname": "ARCHOS",
-  "vcpe": "cpe:/:archos",
-  "pid": "41767",
-  "pname": "ARCHOS Core 101 ファームウェア",
-  "pcpe": "cpe:/o:archos:core_101_firmware"
+	"vid": "17430",
+	"vname": "ARCHOS",
+	"vcpe": "cpe:/:archos",
+	"pid": "41767",
+	"pname": "ARCHOS Core 101 ファームウェア",
+	"pcpe": "cpe:/o:archos:core_101_firmware"
 }

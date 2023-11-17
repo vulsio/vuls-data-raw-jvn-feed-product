@@ -1,8 +1,8 @@
 {
-  "vid": "15461",
-  "vname": "Swoole",
-  "vcpe": "cpe:/:swoole",
-  "pid": "35891",
-  "pname": "Swoole",
-  "pcpe": "cpe:/a:swoole:swoole"
+	"vid": "15461",
+	"vname": "Swoole",
+	"vcpe": "cpe:/:swoole",
+	"pid": "35891",
+	"pname": "Swoole",
+	"pcpe": "cpe:/a:swoole:swoole"
 }

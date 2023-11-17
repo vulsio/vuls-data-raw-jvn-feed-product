@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "26531",
-  "pname": "MGate MB3170 ファームウェア",
-  "pcpe": "cpe:/a:moxa:mgate_mb3170_router_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "26531",
+	"pname": "MGate MB3170 ファームウェア",
+	"pcpe": "cpe:/a:moxa:mgate_mb3170_router_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12179",
-  "vname": "dashbuilder.org",
-  "vcpe": "cpe:/:dashbuilder_project",
-  "pid": "26683",
-  "pname": "Dashbuilder",
-  "pcpe": "cpe:/a:dashbuilder_project:dashbuilder"
+	"vid": "12179",
+	"vname": "dashbuilder.org",
+	"vcpe": "cpe:/:dashbuilder_project",
+	"pid": "26683",
+	"pname": "Dashbuilder",
+	"pcpe": "cpe:/a:dashbuilder_project:dashbuilder"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27263",
-  "pname": "MIIX 710-12IKB BIOS",
-  "pcpe": "cpe:/o:lenovo:notebook_miix_710_12ikb_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27263",
+	"pname": "MIIX 710-12IKB BIOS",
+	"pcpe": "cpe:/o:lenovo:notebook_miix_710_12ikb_bios"
 }

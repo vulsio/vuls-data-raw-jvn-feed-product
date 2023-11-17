@@ -1,8 +1,8 @@
 {
-  "vid": "1721",
-  "vname": "SolarWinds",
-  "vcpe": "cpe:/:solarwinds",
-  "pid": "37843",
-  "pname": "Serv-U FTP Server",
-  "pcpe": "cpe:/a:solarwinds:serv-u_ftp_server"
+	"vid": "1721",
+	"vname": "SolarWinds",
+	"vcpe": "cpe:/:solarwinds",
+	"pid": "37843",
+	"pname": "Serv-U FTP Server",
+	"pcpe": "cpe:/a:solarwinds:serv-u_ftp_server"
 }

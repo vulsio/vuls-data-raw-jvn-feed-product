@@ -1,8 +1,8 @@
 {
-  "vid": "21339",
-  "vname": "Get Custom Field Values project",
-  "vcpe": "cpe:/:get_custom_field_values_project",
-  "pid": "54779",
-  "pname": "Get Custom Field Values",
-  "pcpe": "cpe:/a:get_custom_field_values_project:get_custom_field_values"
+	"vid": "21339",
+	"vname": "Get Custom Field Values project",
+	"vcpe": "cpe:/:get_custom_field_values_project",
+	"pid": "54779",
+	"pname": "Get Custom Field Values",
+	"pcpe": "cpe:/a:get_custom_field_values_project:get_custom_field_values"
 }

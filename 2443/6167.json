@@ -1,8 +1,8 @@
 {
-  "vid": "2443",
-  "vname": "barcodephp",
-  "vcpe": "cpe:/:barcodephp",
-  "pid": "6167",
-  "pname": "barcodegen 1d",
-  "pcpe": "cpe:/a:barcodephp:barcodegen_1d"
+	"vid": "2443",
+	"vname": "barcodephp",
+	"vcpe": "cpe:/:barcodephp",
+	"pid": "6167",
+	"pname": "barcodegen 1d",
+	"pcpe": "cpe:/a:barcodephp:barcodegen_1d"
 }

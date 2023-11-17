@@ -1,8 +1,8 @@
 {
-  "vid": "16384",
-  "vname": "University of Cambridge",
-  "vcpe": "cpe:/:cam",
-  "pid": "38710",
-  "pname": "mod_ucam_webauth",
-  "pcpe": "cpe:/a:cam:web_authentication_system_apache_authentication_agent"
+	"vid": "16384",
+	"vname": "University of Cambridge",
+	"vcpe": "cpe:/:cam",
+	"pid": "38710",
+	"pname": "mod_ucam_webauth",
+	"pcpe": "cpe:/a:cam:web_authentication_system_apache_authentication_agent"
 }

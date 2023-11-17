@@ -1,8 +1,8 @@
 {
-  "vid": "17897",
-  "vname": "Oberhumer",
-  "vcpe": "cpe:/:oberhumer",
-  "pid": "43224",
-  "pname": "liblzo2",
-  "pcpe": "cpe:/a:oberhumer:liblzo2"
+	"vid": "17897",
+	"vname": "Oberhumer",
+	"vcpe": "cpe:/:oberhumer",
+	"pid": "43224",
+	"pname": "liblzo2",
+	"pcpe": "cpe:/a:oberhumer:liblzo2"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13170",
-  "vname": "The Kannel Group",
-  "vcpe": "cpe:/:kannel",
-  "pid": "30731",
-  "pname": "Kannel",
-  "pcpe": "cpe:/a:kannel:kannel"
+	"vid": "13170",
+	"vname": "The Kannel Group",
+	"vcpe": "cpe:/:kannel",
+	"pid": "30731",
+	"pname": "Kannel",
+	"pcpe": "cpe:/a:kannel:kannel"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31454",
-  "pname": "TL-R478G+",
-  "pcpe": "cpe:/h:tp-link:tl-r478g%2B"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31454",
+	"pname": "TL-R478G+",
+	"pcpe": "cpe:/h:tp-link:tl-r478g%2B"
 }

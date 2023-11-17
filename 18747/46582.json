@@ -1,8 +1,8 @@
 {
-  "vid": "18747",
-  "vname": "daemonology",
-  "vcpe": "cpe:/:daemonology",
-  "pid": "46582",
-  "pname": "Colin Percival's bsdiff",
-  "pcpe": "cpe:/a:daemonology:bsdiff"
+	"vid": "18747",
+	"vname": "daemonology",
+	"vcpe": "cpe:/:daemonology",
+	"pid": "46582",
+	"pname": "Colin Percival's bsdiff",
+	"pcpe": "cpe:/a:daemonology:bsdiff"
 }

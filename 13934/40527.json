@@ -1,8 +1,8 @@
 {
-  "vid": "13934",
-  "vname": "PHPOK.Com",
-  "vcpe": "cpe:/:phpok",
-  "pid": "40527",
-  "pname": "OKLite",
-  "pcpe": "cpe:/a:phpok:oklite"
+	"vid": "13934",
+	"vname": "PHPOK.Com",
+	"vcpe": "cpe:/:phpok",
+	"pid": "40527",
+	"pname": "OKLite",
+	"pcpe": "cpe:/a:phpok:oklite"
 }

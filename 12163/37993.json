@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "37993",
-  "pname": "Slack Notification",
-  "pcpe": "cpe:/a:jenkins:slack_notification"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "37993",
+	"pname": "Slack Notification",
+	"pcpe": "cpe:/a:jenkins:slack_notification"
 }

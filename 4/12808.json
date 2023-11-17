@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12808",
-  "pname": "psc 2400 photosmart all-in-one",
-  "pcpe": "cpe:/h:hp:psc_2400_photosmart_all-in-one"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12808",
+	"pname": "psc 2400 photosmart all-in-one",
+	"pcpe": "cpe:/h:hp:psc_2400_photosmart_all-in-one"
 }

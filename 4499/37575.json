@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "37575",
-  "pname": "Q03UDECPU ファームウェア",
-  "pcpe": "cpe:/o:mitsubishielectric:q03udecpu_firmware"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "37575",
+	"pname": "Q03UDECPU ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:q03udecpu_firmware"
 }

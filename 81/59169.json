@@ -1,8 +1,8 @@
 {
-  "vid": "81",
-  "vname": "Python Software Foundation",
-  "vcpe": "cpe:/:python",
-  "pid": "59169",
-  "pname": "tkvideoplayer",
-  "pcpe": "cpe:/a:python:tkvideoplayer"
+	"vid": "81",
+	"vname": "Python Software Foundation",
+	"vcpe": "cpe:/:python",
+	"pid": "59169",
+	"pname": "tkvideoplayer",
+	"pcpe": "cpe:/a:python:tkvideoplayer"
 }

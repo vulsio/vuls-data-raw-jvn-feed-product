@@ -1,8 +1,8 @@
 {
-  "vid": "1020",
-  "vname": "Blueberry Software",
-  "vcpe": "cpe:/:bbsoftware",
-  "pid": "3587",
-  "pname": "BB FlashBack",
-  "pcpe": "cpe:/a:bbsoftware:bb_flashback"
+	"vid": "1020",
+	"vname": "Blueberry Software",
+	"vcpe": "cpe:/:bbsoftware",
+	"pid": "3587",
+	"pname": "BB FlashBack",
+	"pcpe": "cpe:/a:bbsoftware:bb_flashback"
 }

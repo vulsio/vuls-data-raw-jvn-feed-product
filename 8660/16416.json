@@ -1,8 +1,8 @@
 {
-  "vid": "8660",
-  "vname": "xythos",
-  "vcpe": "cpe:/:xythos",
-  "pid": "16416",
-  "pname": "enterprise document manager",
-  "pcpe": "cpe:/a:xythos:enterprise_document_manager"
+	"vid": "8660",
+	"vname": "xythos",
+	"vcpe": "cpe:/:xythos",
+	"pid": "16416",
+	"pname": "enterprise document manager",
+	"pcpe": "cpe:/a:xythos:enterprise_document_manager"
 }

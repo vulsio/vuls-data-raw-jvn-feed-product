@@ -1,8 +1,8 @@
 {
-  "vid": "21486",
-  "vname": "libbpf project",
-  "vcpe": "cpe:/:libbpf_project",
-  "pid": "55149",
-  "pname": "libbpf",
-  "pcpe": "cpe:/a:libbpf_project:libbpf"
+	"vid": "21486",
+	"vname": "libbpf project",
+	"vcpe": "cpe:/:libbpf_project",
+	"pid": "55149",
+	"pname": "libbpf",
+	"pcpe": "cpe:/a:libbpf_project:libbpf"
 }

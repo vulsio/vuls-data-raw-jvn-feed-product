@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "675",
-  "pname": "Cisco Aironet AP340 シリーズ",
-  "pcpe": "cpe:/h:cisco:aironet_ap340"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "675",
+	"pname": "Cisco Aironet AP340 シリーズ",
+	"pcpe": "cpe:/h:cisco:aironet_ap340"
 }

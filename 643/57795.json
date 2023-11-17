@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "57795",
-  "pname": "alienware m15 r2 ファームウェア",
-  "pcpe": "cpe:/o:dell:alienware_m15_r2_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "57795",
+	"pname": "alienware m15 r2 ファームウェア",
+	"pcpe": "cpe:/o:dell:alienware_m15_r2_firmware"
 }

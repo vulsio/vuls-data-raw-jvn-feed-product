@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "41556",
-  "pname": "J9V80B ファームウェア",
-  "pcpe": "cpe:/o:hp:j9v80b_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "41556",
+	"pname": "J9V80B ファームウェア",
+	"pcpe": "cpe:/o:hp:j9v80b_firmware"
 }

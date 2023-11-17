@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "60789",
-  "pname": "xunit",
-  "pcpe": "cpe:/a:jenkins:xunit"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "60789",
+	"pname": "xunit",
+	"pcpe": "cpe:/a:jenkins:xunit"
 }

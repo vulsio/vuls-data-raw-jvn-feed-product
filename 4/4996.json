@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4996",
-  "pname": "3com officeconnect gigabit vpn firewall software",
-  "pcpe": "cpe:/o:hp:3com_officeconnect_gigabit_vpn_firewall_software"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4996",
+	"pname": "3com officeconnect gigabit vpn firewall software",
+	"pcpe": "cpe:/o:hp:3com_officeconnect_gigabit_vpn_firewall_software"
 }

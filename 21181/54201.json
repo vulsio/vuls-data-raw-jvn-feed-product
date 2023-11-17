@@ -1,8 +1,8 @@
 {
-  "vid": "21181",
-  "vname": "Balasys",
-  "vcpe": "cpe:/:balasys",
-  "pid": "54201",
-  "pname": "dheater",
-  "pcpe": "cpe:/a:balasys:dheater"
+	"vid": "21181",
+	"vname": "Balasys",
+	"vcpe": "cpe:/:balasys",
+	"pid": "54201",
+	"pname": "dheater",
+	"pcpe": "cpe:/a:balasys:dheater"
 }

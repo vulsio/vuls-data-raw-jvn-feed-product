@@ -1,8 +1,8 @@
 {
-  "vid": "3714",
-  "vname": "fix and chips computer services",
-  "vcpe": "cpe:/:fix_and_chips_computer_services",
-  "pid": "8085",
-  "pname": "fix and chips cms",
-  "pcpe": "cpe:/a:fix_and_chips_computer_services:fix_and_chips_cms"
+	"vid": "3714",
+	"vname": "fix and chips computer services",
+	"vcpe": "cpe:/:fix_and_chips_computer_services",
+	"pid": "8085",
+	"pname": "fix and chips cms",
+	"pcpe": "cpe:/a:fix_and_chips_computer_services:fix_and_chips_cms"
 }

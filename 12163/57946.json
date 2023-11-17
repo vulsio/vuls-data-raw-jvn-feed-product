@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "57946",
-  "pname": "view-cloner",
-  "pcpe": "cpe:/a:jenkins:view-cloner"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "57946",
+	"pname": "view-cloner",
+	"pcpe": "cpe:/a:jenkins:view-cloner"
 }

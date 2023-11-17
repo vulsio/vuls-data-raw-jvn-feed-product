@@ -1,8 +1,8 @@
 {
-  "vid": "728",
-  "vname": "TYPO3 Association",
-  "vcpe": "cpe:/:typo3",
-  "pid": "15680",
-  "pname": "page improvements",
-  "pcpe": "cpe:/a:typo3:page_improvements"
+	"vid": "728",
+	"vname": "TYPO3 Association",
+	"vcpe": "cpe:/:typo3",
+	"pid": "15680",
+	"pname": "page improvements",
+	"pcpe": "cpe:/a:typo3:page_improvements"
 }

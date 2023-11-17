@@ -1,8 +1,8 @@
 {
-  "vid": "17642",
-  "vname": "Bitwarden",
-  "vcpe": "cpe:/:bitwarden",
-  "pid": "42320",
-  "pname": "Server",
-  "pcpe": "cpe:/a:bitwarden:server"
+	"vid": "17642",
+	"vname": "Bitwarden",
+	"vcpe": "cpe:/:bitwarden",
+	"pid": "42320",
+	"pname": "Server",
+	"pcpe": "cpe:/a:bitwarden:server"
 }

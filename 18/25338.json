@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "25338",
-  "pname": "IBM Spectrum Protect for Virtual Environments",
-  "pcpe": "cpe:/a:ibm:spectrum_protect_for_virtual_environments"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "25338",
+	"pname": "IBM Spectrum Protect for Virtual Environments",
+	"pcpe": "cpe:/a:ibm:spectrum_protect_for_virtual_environments"
 }

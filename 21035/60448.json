@@ -1,8 +1,8 @@
 {
-  "vid": "21035",
-  "vname": "KRyLack",
-  "vcpe": "cpe:/:krylack",
-  "pid": "60448",
-  "pname": "asterisks password decryptor",
-  "pcpe": "cpe:/a:krylack:asterisks_password_decryptor"
+	"vid": "21035",
+	"vname": "KRyLack",
+	"vcpe": "cpe:/:krylack",
+	"pid": "60448",
+	"pname": "asterisks password decryptor",
+	"pcpe": "cpe:/a:krylack:asterisks_password_decryptor"
 }

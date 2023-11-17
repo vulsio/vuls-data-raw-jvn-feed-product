@@ -1,8 +1,8 @@
 {
-  "vid": "15276",
-  "vname": "bagesoft",
-  "vcpe": "cpe:/:bagesoft",
-  "pid": "35359",
-  "pname": "BageCMS",
-  "pcpe": "cpe:/a:bagesoft:bagecms"
+	"vid": "15276",
+	"vname": "bagesoft",
+	"vcpe": "cpe:/:bagesoft",
+	"pid": "35359",
+	"pname": "BageCMS",
+	"pcpe": "cpe:/a:bagesoft:bagecms"
 }

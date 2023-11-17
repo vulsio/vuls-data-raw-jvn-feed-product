@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "39119",
-  "pname": "ManageEngine FireWall",
-  "pcpe": "cpe:/a:zohocorp:manageengine_firewall"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "39119",
+	"pname": "ManageEngine FireWall",
+	"pcpe": "cpe:/a:zohocorp:manageengine_firewall"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13210",
-  "vname": "LabWiki project",
-  "vcpe": "cpe:/:labwiki_project",
-  "pid": "30898",
-  "pname": "LabWiki",
-  "pcpe": "cpe:/a:labwiki_project:labwiki"
+	"vid": "13210",
+	"vname": "LabWiki project",
+	"vcpe": "cpe:/:labwiki_project",
+	"pid": "30898",
+	"pname": "LabWiki",
+	"pcpe": "cpe:/a:labwiki_project:labwiki"
 }

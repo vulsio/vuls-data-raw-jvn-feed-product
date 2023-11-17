@@ -1,8 +1,8 @@
 {
-  "vid": "19710",
-  "vname": "xmlhttprequest project",
-  "vcpe": "cpe:/:xmlhttprequest_project",
-  "pid": "49696",
-  "pname": "xmlhttprequest",
-  "pcpe": "cpe:/a:xmlhttprequest_project:xmlhttprequest"
+	"vid": "19710",
+	"vname": "xmlhttprequest project",
+	"vcpe": "cpe:/:xmlhttprequest_project",
+	"pid": "49696",
+	"pname": "xmlhttprequest",
+	"pcpe": "cpe:/a:xmlhttprequest_project:xmlhttprequest"
 }

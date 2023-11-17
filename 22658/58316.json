@@ -1,8 +1,8 @@
 {
-  "vid": "22658",
-  "vname": "systemexplorer",
-  "vcpe": "cpe:/:systemexplorer",
-  "pid": "58316",
-  "pname": "system explorer",
-  "pcpe": "cpe:/a:systemexplorer:system_explorer"
+	"vid": "22658",
+	"vname": "systemexplorer",
+	"vcpe": "cpe:/:systemexplorer",
+	"pid": "58316",
+	"pname": "system explorer",
+	"pcpe": "cpe:/a:systemexplorer:system_explorer"
 }

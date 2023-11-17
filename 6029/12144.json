@@ -1,8 +1,8 @@
 {
-  "vid": "6029",
-  "vname": "nufw",
-  "vcpe": "cpe:/:nufw",
-  "pid": "12144",
-  "pname": "nufw",
-  "pcpe": "cpe:/a:nufw:nufw"
+	"vid": "6029",
+	"vname": "nufw",
+	"vcpe": "cpe:/:nufw",
+	"pid": "12144",
+	"pname": "nufw",
+	"pcpe": "cpe:/a:nufw:nufw"
 }

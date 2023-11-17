@@ -1,8 +1,8 @@
 {
-  "vid": "372",
-  "vname": "Nagios Enterprises, LLC",
-  "vcpe": "cpe:/:nagios",
-  "pid": "30550",
-  "pname": "Nagios Core",
-  "pcpe": "cpe:/a:nagios:nagios_core"
+	"vid": "372",
+	"vname": "Nagios Enterprises, LLC",
+	"vcpe": "cpe:/:nagios",
+	"pid": "30550",
+	"pname": "Nagios Core",
+	"pcpe": "cpe:/a:nagios:nagios_core"
 }

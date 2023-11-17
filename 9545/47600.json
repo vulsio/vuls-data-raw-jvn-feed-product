@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "47600",
-  "pname": "Zephyr RTOS",
-  "pcpe": "cpe:/o:linuxfoundation:zephyr_rtos"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "47600",
+	"pname": "Zephyr RTOS",
+	"pcpe": "cpe:/o:linuxfoundation:zephyr_rtos"
 }

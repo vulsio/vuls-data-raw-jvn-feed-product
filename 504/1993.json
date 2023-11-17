@@ -1,8 +1,8 @@
 {
-  "vid": "504",
-  "vname": "Motorola Solutions, Inc",
-  "vcpe": "cpe:/:motorola",
-  "pid": "1993",
-  "pname": "CPEi300",
-  "pcpe": "cpe:/h:motorola:cpei300"
+	"vid": "504",
+	"vname": "Motorola Solutions, Inc",
+	"vcpe": "cpe:/:motorola",
+	"pid": "1993",
+	"pname": "CPEi300",
+	"pcpe": "cpe:/h:motorola:cpei300"
 }

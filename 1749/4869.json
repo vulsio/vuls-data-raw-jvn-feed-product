@@ -1,8 +1,8 @@
 {
-  "vid": "1749",
-  "vname": "turbogears",
-  "vcpe": "cpe:/:turbogears",
-  "pid": "4869",
-  "pname": "turbogears2",
-  "pcpe": "cpe:/a:turbogears:turbogears2"
+	"vid": "1749",
+	"vname": "turbogears",
+	"vcpe": "cpe:/:turbogears",
+	"pid": "4869",
+	"pname": "turbogears2",
+	"pcpe": "cpe:/a:turbogears:turbogears2"
 }

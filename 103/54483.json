@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "54483",
-  "pname": "GeForce GTX 960",
-  "pcpe": "cpe:/o:nvidia:geforce_gtx_960"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "54483",
+	"pname": "GeForce GTX 960",
+	"pcpe": "cpe:/o:nvidia:geforce_gtx_960"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "44618",
-  "pname": "Cisco Aironet 2800i シリーズファームウェア",
-  "pcpe": "cpe:/o:cisco:aironet_2800i_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "44618",
+	"pname": "Cisco Aironet 2800i シリーズファームウェア",
+	"pcpe": "cpe:/o:cisco:aironet_2800i_firmware"
 }

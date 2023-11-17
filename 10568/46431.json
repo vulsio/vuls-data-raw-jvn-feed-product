@@ -1,8 +1,8 @@
 {
-  "vid": "10568",
-  "vname": "Razer Inc.",
-  "vcpe": "cpe:/:razer",
-  "pid": "46431",
-  "pname": "Chroma SDK",
-  "pcpe": "cpe:/a:razer:chroma_sdk"
+	"vid": "10568",
+	"vname": "Razer Inc.",
+	"vcpe": "cpe:/:razer",
+	"pid": "46431",
+	"pname": "Chroma SDK",
+	"pcpe": "cpe:/a:razer:chroma_sdk"
 }

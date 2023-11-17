@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "62828",
-  "pname": "1350 optical management system",
-  "pcpe": "cpe:/a:nokia:1350_optical_management_system"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "62828",
+	"pname": "1350 optical management system",
+	"pcpe": "cpe:/a:nokia:1350_optical_management_system"
 }

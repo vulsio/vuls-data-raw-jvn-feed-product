@@ -1,8 +1,8 @@
 {
-  "vid": "3615",
-  "vname": "eZ",
-  "vcpe": "cpe:/:ez",
-  "pid": "7951",
-  "pname": "eZ Publish",
-  "pcpe": "cpe:/a:ez:ez_publish"
+	"vid": "3615",
+	"vname": "eZ",
+	"vcpe": "cpe:/:ez",
+	"pid": "7951",
+	"pname": "eZ Publish",
+	"pcpe": "cpe:/a:ez:ez_publish"
 }

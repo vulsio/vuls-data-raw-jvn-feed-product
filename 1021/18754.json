@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "18754",
-  "pname": "Ceilometer",
-  "pcpe": "cpe:/a:openstack:ceilometer"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "18754",
+	"pname": "Ceilometer",
+	"pcpe": "cpe:/a:openstack:ceilometer"
 }

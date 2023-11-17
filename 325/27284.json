@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27284",
-  "pname": "ideapad 300-14ISK",
-  "pcpe": "cpe:/h:lenovo:notebook_ideapad_300_14isk"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27284",
+	"pname": "ideapad 300-14ISK",
+	"pcpe": "cpe:/h:lenovo:notebook_ideapad_300_14isk"
 }

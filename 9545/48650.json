@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "48650",
-  "pname": "umoci",
-  "pcpe": "cpe:/a:linuxfoundation:umoci"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "48650",
+	"pname": "umoci",
+	"pcpe": "cpe:/a:linuxfoundation:umoci"
 }

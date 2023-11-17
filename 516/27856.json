@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "27856",
-  "pname": "WP Mail",
-  "pcpe": "cpe:/a:wordpress:mail_plugin"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "27856",
+	"pname": "WP Mail",
+	"pcpe": "cpe:/a:wordpress:mail_plugin"
 }

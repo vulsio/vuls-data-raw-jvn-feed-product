@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "612",
-  "pname": "SunForum",
-  "pcpe": "cpe:/a:sun:sunforum"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "612",
+	"pname": "SunForum",
+	"pcpe": "cpe:/a:sun:sunforum"
 }

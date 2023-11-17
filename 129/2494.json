@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2494",
-  "pname": "Job Management Partner 1/Software Distribution Client",
-  "pcpe": "cpe:/a:hitachi:job_management_partner_1_software_distribution_client"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2494",
+	"pname": "Job Management Partner 1/Software Distribution Client",
+	"pcpe": "cpe:/a:hitachi:job_management_partner_1_software_distribution_client"
 }

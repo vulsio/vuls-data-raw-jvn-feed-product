@@ -1,8 +1,8 @@
 {
-  "vid": "13782",
-  "vname": "Parsec Cloud, Inc.",
-  "vcpe": "cpe:/:parsecgaming",
-  "pid": "32663",
-  "pname": "Parsec",
-  "pcpe": "cpe:/a:parsecgaming:parsec"
+	"vid": "13782",
+	"vname": "Parsec Cloud, Inc.",
+	"vcpe": "cpe:/:parsecgaming",
+	"pid": "32663",
+	"pname": "Parsec",
+	"pcpe": "cpe:/a:parsecgaming:parsec"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17536",
-  "vname": "Fly",
-  "vcpe": "cpe:/:fly-phone",
-  "pid": "41976",
-  "pname": "Photo Pro ファームウェア",
-  "pcpe": "cpe:/o:fly-phone:photo_pro_firmware"
+	"vid": "17536",
+	"vname": "Fly",
+	"vcpe": "cpe:/:fly-phone",
+	"pid": "41976",
+	"pname": "Photo Pro ファームウェア",
+	"pcpe": "cpe:/o:fly-phone:photo_pro_firmware"
 }

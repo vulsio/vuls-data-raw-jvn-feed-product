@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47815",
-  "pname": "Oracle Storage Cloud Software Appliance",
-  "pcpe": "cpe:/a:oracle:storage_cloud_software_appliance"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47815",
+	"pname": "Oracle Storage Cloud Software Appliance",
+	"pcpe": "cpe:/a:oracle:storage_cloud_software_appliance"
 }

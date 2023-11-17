@@ -1,8 +1,8 @@
 {
-  "vid": "9902",
-  "vname": "OleumTech",
-  "vcpe": "cpe:/:oleumtech",
-  "pid": "33262",
-  "pname": "AD1 ファームウェア",
-  "pcpe": "cpe:/o:oleumtech:ad1_firmware"
+	"vid": "9902",
+	"vname": "OleumTech",
+	"vcpe": "cpe:/:oleumtech",
+	"pid": "33262",
+	"pname": "AD1 ファームウェア",
+	"pcpe": "cpe:/o:oleumtech:ad1_firmware"
 }

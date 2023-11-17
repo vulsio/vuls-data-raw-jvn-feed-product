@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "8819",
-  "pname": "wvc54gc",
-  "pcpe": "cpe:/h:cisco:wvc54gc"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "8819",
+	"pname": "wvc54gc",
+	"pcpe": "cpe:/h:cisco:wvc54gc"
 }

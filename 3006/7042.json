@@ -1,8 +1,8 @@
 {
-  "vid": "3006",
-  "vname": "crob",
-  "vcpe": "cpe:/:crob",
-  "pid": "7042",
-  "pname": "crob ftp server",
-  "pcpe": "cpe:/a:crob:crob_ftp_server"
+	"vid": "3006",
+	"vname": "crob",
+	"vcpe": "cpe:/:crob",
+	"pid": "7042",
+	"pname": "crob ftp server",
+	"pcpe": "cpe:/a:crob:crob_ftp_server"
 }

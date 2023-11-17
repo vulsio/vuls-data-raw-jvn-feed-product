@@ -1,8 +1,8 @@
 {
-  "vid": "15572",
-  "vname": "Feed Statistics project",
-  "vcpe": "cpe:/:feed_statistics_project",
-  "pid": "36208",
-  "pname": "Feed Statistics",
-  "pcpe": "cpe:/a:feed_statistics_project:feed_statistics"
+	"vid": "15572",
+	"vname": "Feed Statistics project",
+	"vcpe": "cpe:/:feed_statistics_project",
+	"pid": "36208",
+	"pname": "Feed Statistics",
+	"pcpe": "cpe:/a:feed_statistics_project:feed_statistics"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12203",
-  "vname": "Nextcloud",
-  "vcpe": "cpe:/:nextcloud",
-  "pid": "62905",
-  "pname": "nextcloud enterprise server",
-  "pcpe": "cpe:/a:nextcloud:nextcloud_enterprise_server"
+	"vid": "12203",
+	"vname": "Nextcloud",
+	"vcpe": "cpe:/:nextcloud",
+	"pid": "62905",
+	"pname": "nextcloud enterprise server",
+	"pcpe": "cpe:/a:nextcloud:nextcloud_enterprise_server"
 }

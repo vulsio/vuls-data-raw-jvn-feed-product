@@ -1,8 +1,8 @@
 {
-  "vid": "218",
-  "vname": "ヤマハ",
-  "vcpe": "cpe:/:yamaha",
-  "pid": "1432",
-  "pname": "RT140シリーズ",
-  "pcpe": "cpe:/h:yamaha:rt140"
+	"vid": "218",
+	"vname": "ヤマハ",
+	"vcpe": "cpe:/:yamaha",
+	"pid": "1432",
+	"pname": "RT140シリーズ",
+	"pcpe": "cpe:/h:yamaha:rt140"
 }

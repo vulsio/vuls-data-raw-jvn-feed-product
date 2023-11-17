@@ -1,8 +1,8 @@
 {
-  "vid": "4546",
-  "vname": "Tribulant Software",
-  "vcpe": "cpe:/:tribulant",
-  "pid": "40288",
-  "pname": "One Click SSL",
-  "pcpe": "cpe:/a:tribulant:one_click_ssl"
+	"vid": "4546",
+	"vname": "Tribulant Software",
+	"vcpe": "cpe:/:tribulant",
+	"pid": "40288",
+	"pname": "One Click SSL",
+	"pcpe": "cpe:/a:tribulant:one_click_ssl"
 }

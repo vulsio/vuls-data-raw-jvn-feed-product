@@ -1,8 +1,8 @@
 {
-  "vid": "9146",
-  "vname": "ソニービジネスソリューション",
-  "vcpe": "cpe:/:sony",
-  "pid": "18514",
-  "pname": "SNC-DH280",
-  "pcpe": "cpe:/h:sony:snc_dh280"
+	"vid": "9146",
+	"vname": "ソニービジネスソリューション",
+	"vcpe": "cpe:/:sony",
+	"pid": "18514",
+	"pname": "SNC-DH280",
+	"pcpe": "cpe:/h:sony:snc_dh280"
 }

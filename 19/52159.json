@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "52159",
-  "pname": "Cisco Secure Email and Web Manager",
-  "pcpe": "cpe:/o:cisco:secure_email_and_web_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "52159",
+	"pname": "Cisco Secure Email and Web Manager",
+	"pcpe": "cpe:/o:cisco:secure_email_and_web_manager"
 }

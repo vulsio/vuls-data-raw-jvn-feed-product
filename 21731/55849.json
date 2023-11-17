@@ -1,8 +1,8 @@
 {
-  "vid": "21731",
-  "vname": "COINS Global",
-  "vcpe": "cpe:/:coins-global",
-  "pid": "55849",
-  "pname": "Construction Cloud",
-  "pcpe": "cpe:/a:coins-global:construction_cloud"
+	"vid": "21731",
+	"vname": "COINS Global",
+	"vcpe": "cpe:/:coins-global",
+	"pid": "55849",
+	"pname": "Construction Cloud",
+	"pcpe": "cpe:/a:coins-global:construction_cloud"
 }

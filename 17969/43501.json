@@ -1,8 +1,8 @@
 {
-  "vid": "17969",
-  "vname": "InfluxData Inc.",
-  "vcpe": "cpe:/:influxdata",
-  "pid": "43501",
-  "pname": "InfluxDB",
-  "pcpe": "cpe:/a:influxdata:influxdb"
+	"vid": "17969",
+	"vname": "InfluxData Inc.",
+	"vcpe": "cpe:/:influxdata",
+	"pid": "43501",
+	"pname": "InfluxDB",
+	"pcpe": "cpe:/a:influxdata:influxdb"
 }

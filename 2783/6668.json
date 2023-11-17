@@ -1,8 +1,8 @@
 {
-  "vid": "2783",
-  "vname": "charon internet",
-  "vcpe": "cpe:/:charon_internet",
-  "pid": "6668",
-  "pname": "charon cart",
-  "pcpe": "cpe:/a:charon_internet:charon_cart"
+	"vid": "2783",
+	"vname": "charon internet",
+	"vcpe": "cpe:/:charon_internet",
+	"pid": "6668",
+	"pname": "charon cart",
+	"pcpe": "cpe:/a:charon_internet:charon_cart"
 }

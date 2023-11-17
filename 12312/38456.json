@@ -1,8 +1,8 @@
 {
-  "vid": "12312",
-  "vname": "Barco",
-  "vcpe": "cpe:/:barco",
-  "pid": "38456",
-  "pname": "wePresent WiPG-1000P ファームウェア",
-  "pcpe": "cpe:/o:barco:wepresent_wipg-1000p_firmware"
+	"vid": "12312",
+	"vname": "Barco",
+	"vcpe": "cpe:/:barco",
+	"pid": "38456",
+	"pname": "wePresent WiPG-1000P ファームウェア",
+	"pcpe": "cpe:/o:barco:wepresent_wipg-1000p_firmware"
 }

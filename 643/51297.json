@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "51297",
-  "pname": "Dell G15 5510 ファームウェア",
-  "pcpe": "cpe:/o:dell:g15_5510_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "51297",
+	"pname": "Dell G15 5510 ファームウェア",
+	"pcpe": "cpe:/o:dell:g15_5510_firmware"
 }

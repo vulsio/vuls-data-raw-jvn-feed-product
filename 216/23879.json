@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "23879",
-  "pname": "libdbd-firebird-perl",
-  "pcpe": "cpe:/a:debian:dbd-firebird"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "23879",
+	"pname": "libdbd-firebird-perl",
+	"pcpe": "cpe:/a:debian:dbd-firebird"
 }

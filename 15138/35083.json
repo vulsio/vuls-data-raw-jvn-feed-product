@@ -1,8 +1,8 @@
 {
-  "vid": "15138",
-  "vname": "ZIBToken",
-  "vcpe": "cpe:/:zibtoken",
-  "pid": "35083",
-  "pname": "ZIBToken",
-  "pcpe": "cpe:/a:zibtoken:zibtoken"
+	"vid": "15138",
+	"vname": "ZIBToken",
+	"vcpe": "cpe:/:zibtoken",
+	"pid": "35083",
+	"pname": "ZIBToken",
+	"pcpe": "cpe:/a:zibtoken:zibtoken"
 }

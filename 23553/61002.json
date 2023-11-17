@@ -1,8 +1,8 @@
 {
-  "vid": "23553",
-  "vname": "newsletter module project",
-  "vcpe": "cpe:/:newsletter_module_project",
-  "pid": "61002",
-  "pname": "newsletter module",
-  "pcpe": "cpe:/a:newsletter_module_project:newsletter_module"
+	"vid": "23553",
+	"vname": "newsletter module project",
+	"vcpe": "cpe:/:newsletter_module_project",
+	"pid": "61002",
+	"pname": "newsletter module",
+	"pcpe": "cpe:/a:newsletter_module_project:newsletter_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30291",
-  "pname": "ThinkServer RQ750 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkserver_rq750_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30291",
+	"pname": "ThinkServer RQ750 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkserver_rq750_firmware"
 }

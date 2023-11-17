@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "25106",
-  "pname": "SIMATIC TIM 3V-IE",
-  "pcpe": "cpe:/h:siemens:simatic_tim_3v-ie"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "25106",
+	"pname": "SIMATIC TIM 3V-IE",
+	"pcpe": "cpe:/h:siemens:simatic_tim_3v-ie"
 }

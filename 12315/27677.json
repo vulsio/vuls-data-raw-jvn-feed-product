@@ -1,8 +1,8 @@
 {
-  "vid": "12315",
-  "vname": "インターネット技術タスクフォース (IETF)",
-  "vcpe": "cpe:/:ietf",
-  "pid": "27677",
-  "pname": "IPv6",
-  "pcpe": "cpe:/a:ietf:ipv6"
+	"vid": "12315",
+	"vname": "インターネット技術タスクフォース (IETF)",
+	"vcpe": "cpe:/:ietf",
+	"pid": "27677",
+	"pname": "IPv6",
+	"pcpe": "cpe:/a:ietf:ipv6"
 }

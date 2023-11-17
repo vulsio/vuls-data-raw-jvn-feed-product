@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "2033",
-  "pname": "Avaya One-X",
-  "pcpe": "cpe:/a:avaya:one-x"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "2033",
+	"pname": "Avaya One-X",
+	"pcpe": "cpe:/a:avaya:one-x"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16070",
-  "vname": "Forcepoint LLC.",
-  "vcpe": "cpe:/:forcepoint",
-  "pid": "62857",
-  "pname": "cloud security gateway",
-  "pcpe": "cpe:/a:forcepoint:cloud_security_gateway"
+	"vid": "16070",
+	"vname": "Forcepoint LLC.",
+	"vcpe": "cpe:/:forcepoint",
+	"pid": "62857",
+	"pname": "cloud security gateway",
+	"pcpe": "cpe:/a:forcepoint:cloud_security_gateway"
 }

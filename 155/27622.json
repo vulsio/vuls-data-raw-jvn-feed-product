@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "27622",
-  "pname": "McAfee SIEM",
-  "pcpe": "cpe:/a:mcafee:security_information_and_event_management"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "27622",
+	"pname": "McAfee SIEM",
+	"pcpe": "cpe:/a:mcafee:security_information_and_event_management"
 }

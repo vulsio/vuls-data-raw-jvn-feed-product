@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "34529",
-  "pname": "BoringSSL",
-  "pcpe": "cpe:/a:google:boringssl"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "34529",
+	"pname": "BoringSSL",
+	"pcpe": "cpe:/a:google:boringssl"
 }

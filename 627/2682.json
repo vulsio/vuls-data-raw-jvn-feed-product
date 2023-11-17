@@ -1,8 +1,8 @@
 {
-  "vid": "627",
-  "vname": "Sielco Sistemi",
-  "vcpe": "cpe:/:sielcosistemi",
-  "pid": "2682",
-  "pname": "WinLog Lite",
-  "pcpe": "cpe:/a:sielcosistemi:winlog_lite"
+	"vid": "627",
+	"vname": "Sielco Sistemi",
+	"vcpe": "cpe:/:sielcosistemi",
+	"pid": "2682",
+	"pname": "WinLog Lite",
+	"pcpe": "cpe:/a:sielcosistemi:winlog_lite"
 }

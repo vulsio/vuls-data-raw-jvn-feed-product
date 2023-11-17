@@ -1,8 +1,8 @@
 {
-  "vid": "15243",
-  "vname": "VelotiSmart project",
-  "vcpe": "cpe:/:velotismart_project",
-  "pid": "35302",
-  "pname": "VelotiSmart WiFi ファームウェア",
-  "pcpe": "cpe:/o:velotismart_project:velotismart_wifi_firmware"
+	"vid": "15243",
+	"vname": "VelotiSmart project",
+	"vcpe": "cpe:/:velotismart_project",
+	"pid": "35302",
+	"pname": "VelotiSmart WiFi ファームウェア",
+	"pcpe": "cpe:/o:velotismart_project:velotismart_wifi_firmware"
 }

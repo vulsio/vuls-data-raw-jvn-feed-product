@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "25040",
-  "pname": "Cisco Videoscape Distribution Suite Service Manager",
-  "pcpe": "cpe:/a:cisco:videoscape_distribution_suite_service_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "25040",
+	"pname": "Cisco Videoscape Distribution Suite Service Manager",
+	"pcpe": "cpe:/a:cisco:videoscape_distribution_suite_service_manager"
 }

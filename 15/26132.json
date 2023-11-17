@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26132",
-  "pname": "Oracle Outside In Technology",
-  "pcpe": "cpe:/a:oracle:outside_in_technology"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26132",
+	"pname": "Oracle Outside In Technology",
+	"pcpe": "cpe:/a:oracle:outside_in_technology"
 }

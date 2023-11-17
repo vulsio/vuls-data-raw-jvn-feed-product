@@ -1,8 +1,8 @@
 {
-  "vid": "5151",
-  "vname": "keld",
-  "vcpe": "cpe:/:keld",
-  "pid": "10782",
-  "pname": "php-mysql news script",
-  "pcpe": "cpe:/a:keld:php-mysql_news_script"
+	"vid": "5151",
+	"vname": "keld",
+	"vcpe": "cpe:/:keld",
+	"pid": "10782",
+	"pname": "php-mysql news script",
+	"pcpe": "cpe:/a:keld:php-mysql_news_script"
 }

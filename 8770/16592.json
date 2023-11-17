@@ -1,8 +1,8 @@
 {
-  "vid": "8770",
-  "vname": "raidsonic",
-  "vcpe": "cpe:/:raidsonic",
-  "pid": "16592",
-  "pname": "icy box nas",
-  "pcpe": "cpe:/h:raidsonic:icy_box_nas"
+	"vid": "8770",
+	"vname": "raidsonic",
+	"vcpe": "cpe:/:raidsonic",
+	"pid": "16592",
+	"pname": "icy box nas",
+	"pcpe": "cpe:/h:raidsonic:icy_box_nas"
 }

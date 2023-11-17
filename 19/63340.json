@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "63340",
-  "pname": "Cisco Aironet 1815i シリーズファームウェア",
-  "pcpe": "cpe:/o:cisco:aironet_1815i_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "63340",
+	"pname": "Cisco Aironet 1815i シリーズファームウェア",
+	"pcpe": "cpe:/o:cisco:aironet_1815i_firmware"
 }

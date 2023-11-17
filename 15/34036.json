@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "34036",
-  "pname": "PeopleSoft HRMS",
-  "pcpe": "cpe:/a:oracle:peoplesoft_human_resource_management_systems"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "34036",
+	"pname": "PeopleSoft HRMS",
+	"pcpe": "cpe:/a:oracle:peoplesoft_human_resource_management_systems"
 }

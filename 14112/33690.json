@@ -1,8 +1,8 @@
 {
-  "vid": "14112",
-  "vname": "totemo",
-  "vcpe": "cpe:/:totemo",
-  "pid": "33690",
-  "pname": "totemomail Encryption Gateway",
-  "pcpe": "cpe:/a:totemo:totemomail_encryption_gateway"
+	"vid": "14112",
+	"vname": "totemo",
+	"vcpe": "cpe:/:totemo",
+	"pid": "33690",
+	"pname": "totemomail Encryption Gateway",
+	"pcpe": "cpe:/a:totemo:totemomail_encryption_gateway"
 }

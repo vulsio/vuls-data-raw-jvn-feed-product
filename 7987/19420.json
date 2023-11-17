@@ -1,8 +1,8 @@
 {
-  "vid": "7987",
-  "vname": "Thecus",
-  "vcpe": "cpe:/:thecus",
-  "pid": "19420",
-  "pname": "Thecus N8800 ファームウェア",
-  "pcpe": "cpe:/o:thecus:n8800_nas_server_firmware"
+	"vid": "7987",
+	"vname": "Thecus",
+	"vcpe": "cpe:/:thecus",
+	"pid": "19420",
+	"pname": "Thecus N8800 ファームウェア",
+	"pcpe": "cpe:/o:thecus:n8800_nas_server_firmware"
 }

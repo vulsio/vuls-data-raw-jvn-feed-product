@@ -1,8 +1,8 @@
 {
-  "vid": "583",
-  "vname": "MUSCLE",
-  "vcpe": "cpe:/:muscle",
-  "pid": "2438",
-  "pname": "PCSC-Lite",
-  "pcpe": "cpe:/a:muscle:pcsc-lite"
+	"vid": "583",
+	"vname": "MUSCLE",
+	"vcpe": "cpe:/:muscle",
+	"pid": "2438",
+	"pname": "PCSC-Lite",
+	"pcpe": "cpe:/a:muscle:pcsc-lite"
 }

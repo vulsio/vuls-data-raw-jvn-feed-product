@@ -1,8 +1,8 @@
 {
-  "vid": "22512",
-  "vname": "pascom cloud phone system",
-  "vcpe": "cpe:/:pascom_cloud_phone_system",
-  "pid": "57943",
-  "pname": "*",
-  "pcpe": "cpe:/a:pascom_cloud_phone_system:%2A"
+	"vid": "22512",
+	"vname": "pascom cloud phone system",
+	"vcpe": "cpe:/:pascom_cloud_phone_system",
+	"pid": "57943",
+	"pname": "*",
+	"pcpe": "cpe:/a:pascom_cloud_phone_system:%2A"
 }

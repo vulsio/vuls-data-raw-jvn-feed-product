@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "27894",
-  "pname": "Excel Web II コントローラソフトウェア",
-  "pcpe": "cpe:/o:honeywell:xl_web_ii_controller"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "27894",
+	"pname": "Excel Web II コントローラソフトウェア",
+	"pcpe": "cpe:/o:honeywell:xl_web_ii_controller"
 }

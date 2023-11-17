@@ -1,8 +1,8 @@
 {
-  "vid": "10203",
-  "vname": "NetComm Wireless Limited.",
-  "vcpe": "cpe:/:netcommwireless",
-  "pid": "28521",
-  "pname": "NB16WV-02 ファームウェア",
-  "pcpe": "cpe:/o:netcommwireless:nb16wv-02_firmware"
+	"vid": "10203",
+	"vname": "NetComm Wireless Limited.",
+	"vcpe": "cpe:/:netcommwireless",
+	"pid": "28521",
+	"pname": "NB16WV-02 ファームウェア",
+	"pcpe": "cpe:/o:netcommwireless:nb16wv-02_firmware"
 }

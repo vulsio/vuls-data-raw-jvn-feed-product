@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "62554",
-  "pname": "NGINX Instance Manager",
-  "pcpe": "cpe:/a:f5:nginx_instance_manager"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "62554",
+	"pname": "NGINX Instance Manager",
+	"pcpe": "cpe:/a:f5:nginx_instance_manager"
 }

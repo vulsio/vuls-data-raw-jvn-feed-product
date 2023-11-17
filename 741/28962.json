@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "28962",
-  "pname": "DCS-5000L ファームウェア",
-  "pcpe": "cpe:/o:dlink:dcs-5000l_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "28962",
+	"pname": "DCS-5000L ファームウェア",
+	"pcpe": "cpe:/o:dlink:dcs-5000l_firmware"
 }

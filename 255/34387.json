@@ -1,8 +1,8 @@
 {
-  "vid": "255",
-  "vname": "キヤノン",
-  "vcpe": "cpe:/:canon",
-  "pid": "34387",
-  "pname": "LBP6650 ファームウェア",
-  "pcpe": "cpe:/o:canon:lbp6650_firmware"
+	"vid": "255",
+	"vname": "キヤノン",
+	"vcpe": "cpe:/:canon",
+	"pid": "34387",
+	"pname": "LBP6650 ファームウェア",
+	"pcpe": "cpe:/o:canon:lbp6650_firmware"
 }

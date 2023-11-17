@@ -1,8 +1,8 @@
 {
-  "vid": "9029",
-  "vname": "Ubiquiti Networks",
-  "vcpe": "cpe:/:ubiquiti_networks",
-  "pid": "40882",
-  "pname": "ERLite-3 ファームウェア",
-  "pcpe": "cpe:/o:ubiquiti_networks:erlite-3_firmware"
+	"vid": "9029",
+	"vname": "Ubiquiti Networks",
+	"vcpe": "cpe:/:ubiquiti_networks",
+	"pid": "40882",
+	"pname": "ERLite-3 ファームウェア",
+	"pcpe": "cpe:/o:ubiquiti_networks:erlite-3_firmware"
 }

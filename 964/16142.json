@@ -1,8 +1,8 @@
 {
-  "vid": "964",
-  "vname": "WHMCS Limited",
-  "vcpe": "cpe:/:whmcs",
-  "pid": "16142",
-  "pname": "whmcs",
-  "pcpe": "cpe:/a:whmcs:whmcs"
+	"vid": "964",
+	"vname": "WHMCS Limited",
+	"vcpe": "cpe:/:whmcs",
+	"pid": "16142",
+	"pname": "whmcs",
+	"pcpe": "cpe:/a:whmcs:whmcs"
 }

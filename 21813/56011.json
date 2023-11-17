@@ -1,8 +1,8 @@
 {
-  "vid": "21813",
-  "vname": "セイコーソリューションズ株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "56011",
-  "pname": "SkyBridge MB-A110",
-  "pcpe": "cpe:/o:misc:seiko-sol_skybridge_mb-a110_firmware"
+	"vid": "21813",
+	"vname": "セイコーソリューションズ株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "56011",
+	"pname": "SkyBridge MB-A110",
+	"pcpe": "cpe:/o:misc:seiko-sol_skybridge_mb-a110_firmware"
 }

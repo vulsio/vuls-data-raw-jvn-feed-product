@@ -1,8 +1,8 @@
 {
-  "vid": "18822",
-  "vname": "NTTテクノクロス株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "46885",
-  "pname": "MagicConnect",
-  "pcpe": "cpe:/a:misc:ntt_technocross_magicconnect"
+	"vid": "18822",
+	"vname": "NTTテクノクロス株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "46885",
+	"pname": "MagicConnect",
+	"pcpe": "cpe:/a:misc:ntt_technocross_magicconnect"
 }

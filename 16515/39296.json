@@ -1,8 +1,8 @@
 {
-  "vid": "16515",
-  "vname": "XOLO",
-  "vcpe": "cpe:/:xolo",
-  "pid": "39296",
-  "pname": "XOLO Cube 5.0",
-  "pcpe": "cpe:/o:xolo:cube_5.0_firmware"
+	"vid": "16515",
+	"vname": "XOLO",
+	"vcpe": "cpe:/:xolo",
+	"pid": "39296",
+	"pname": "XOLO Cube 5.0",
+	"pcpe": "cpe:/o:xolo:cube_5.0_firmware"
 }

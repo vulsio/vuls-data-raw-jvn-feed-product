@@ -1,8 +1,8 @@
 {
-  "vid": "16928",
-  "vname": "Texas Instruments Incorporated (TI)",
-  "vcpe": "cpe:/:ti",
-  "pid": "41785",
-  "pname": "WL18XX-BT-SP ファームウェア",
-  "pcpe": "cpe:/o:ti:wl18xx-bt-sp_firmware"
+	"vid": "16928",
+	"vname": "Texas Instruments Incorporated (TI)",
+	"vcpe": "cpe:/:ti",
+	"pid": "41785",
+	"pname": "WL18XX-BT-SP ファームウェア",
+	"pcpe": "cpe:/o:ti:wl18xx-bt-sp_firmware"
 }

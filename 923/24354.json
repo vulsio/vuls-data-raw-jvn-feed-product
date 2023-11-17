@@ -1,8 +1,8 @@
 {
-  "vid": "923",
-  "vname": "Dream Property GmbH",
-  "vcpe": "cpe:/:dream-multimedia-tv",
-  "pid": "24354",
-  "pname": "DM500-S ファームウェア",
-  "pcpe": "cpe:/o:dream-multimedia-tv:dreambox_dm500-s_firmware"
+	"vid": "923",
+	"vname": "Dream Property GmbH",
+	"vcpe": "cpe:/:dream-multimedia-tv",
+	"pid": "24354",
+	"pname": "DM500-S ファームウェア",
+	"pcpe": "cpe:/o:dream-multimedia-tv:dreambox_dm500-s_firmware"
 }

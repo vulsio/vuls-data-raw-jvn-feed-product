@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "59297",
-  "pname": "xeon e7-8860 v4 ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_e7-8860_v4_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "59297",
+	"pname": "xeon e7-8860 v4 ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_e7-8860_v4_firmware"
 }

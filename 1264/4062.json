@@ -1,8 +1,8 @@
 {
-  "vid": "1264",
-  "vname": "ACCESS",
-  "vcpe": "cpe:/:netfrontlife",
-  "pid": "4062",
-  "pname": "NetFront Life Browser",
-  "pcpe": "cpe:/a:netfrontlife:netfront_life_browser"
+	"vid": "1264",
+	"vname": "ACCESS",
+	"vcpe": "cpe:/:netfrontlife",
+	"pid": "4062",
+	"pname": "NetFront Life Browser",
+	"pcpe": "cpe:/a:netfrontlife:netfront_life_browser"
 }

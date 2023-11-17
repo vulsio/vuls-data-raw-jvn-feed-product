@@ -1,8 +1,8 @@
 {
-  "vid": "9287",
-  "vname": "NovaTech",
-  "vcpe": "cpe:/:novatech",
-  "pid": "19043",
-  "pname": "Orion5r DNP Master",
-  "pcpe": "cpe:/h:novatech:orion5r_dnp_master"
+	"vid": "9287",
+	"vname": "NovaTech",
+	"vcpe": "cpe:/:novatech",
+	"pid": "19043",
+	"pname": "Orion5r DNP Master",
+	"pcpe": "cpe:/h:novatech:orion5r_dnp_master"
 }

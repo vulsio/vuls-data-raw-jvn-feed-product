@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "4038",
-  "pname": "TIBCO Spotfire Analytics Server",
-  "pcpe": "cpe:/a:tibco:spotfire_analytics_server"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "4038",
+	"pname": "TIBCO Spotfire Analytics Server",
+	"pcpe": "cpe:/a:tibco:spotfire_analytics_server"
 }

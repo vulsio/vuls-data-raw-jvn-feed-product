@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "28281",
-  "pname": "ION76XX",
-  "pcpe": "cpe:/h:schneider_electric:ion7600"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "28281",
+	"pname": "ION76XX",
+	"pcpe": "cpe:/h:schneider_electric:ion7600"
 }

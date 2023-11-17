@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "24348",
-  "pname": "Galaxy S5",
-  "pcpe": "cpe:/h:samsung:galaxy_s5"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "24348",
+	"pname": "Galaxy S5",
+	"pcpe": "cpe:/h:samsung:galaxy_s5"
 }

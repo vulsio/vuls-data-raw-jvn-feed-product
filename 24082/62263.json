@@ -1,8 +1,8 @@
 {
-  "vid": "24082",
-  "vname": "dotnetcore",
-  "vcpe": "cpe:/:dotnetcore",
-  "pid": "62263",
-  "pname": "agileconfig",
-  "pcpe": "cpe:/a:dotnetcore:agileconfig"
+	"vid": "24082",
+	"vname": "dotnetcore",
+	"vcpe": "cpe:/:dotnetcore",
+	"pid": "62263",
+	"pname": "agileconfig",
+	"pcpe": "cpe:/a:dotnetcore:agileconfig"
 }

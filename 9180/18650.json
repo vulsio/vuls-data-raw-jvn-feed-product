@@ -1,8 +1,8 @@
 {
-  "vid": "9180",
-  "vname": "LinksAlpha",
-  "vcpe": "cpe:/:linksalpha",
-  "pid": "18650",
-  "pname": "Social Sharing Toolkit",
-  "pcpe": "cpe:/a:linksalpha:social_sharing_toolkit_plugin"
+	"vid": "9180",
+	"vname": "LinksAlpha",
+	"vcpe": "cpe:/:linksalpha",
+	"pid": "18650",
+	"pname": "Social Sharing Toolkit",
+	"pcpe": "cpe:/a:linksalpha:social_sharing_toolkit_plugin"
 }

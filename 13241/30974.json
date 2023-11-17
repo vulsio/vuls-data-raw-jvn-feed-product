@@ -1,8 +1,8 @@
 {
-  "vid": "13241",
-  "vname": "CPUID",
-  "vcpe": "cpe:/:cpuid",
-  "pid": "30974",
-  "pname": "CPU-Z",
-  "pcpe": "cpe:/a:cpuid:cpu-z"
+	"vid": "13241",
+	"vname": "CPUID",
+	"vcpe": "cpe:/:cpuid",
+	"pid": "30974",
+	"pname": "CPU-Z",
+	"pcpe": "cpe:/a:cpuid:cpu-z"
 }

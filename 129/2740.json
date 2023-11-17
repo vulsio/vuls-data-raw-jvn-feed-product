@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2740",
-  "pname": "uCosminexus Stream Data Platform",
-  "pcpe": "cpe:/a:hitachi:ucosminexus_stream_data_platform"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2740",
+	"pname": "uCosminexus Stream Data Platform",
+	"pcpe": "cpe:/a:hitachi:ucosminexus_stream_data_platform"
 }

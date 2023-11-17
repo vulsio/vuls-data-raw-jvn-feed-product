@@ -1,8 +1,8 @@
 {
-  "vid": "9029",
-  "vname": "Ubiquiti Networks",
-  "vcpe": "cpe:/:ubiquiti_networks",
-  "pid": "55768",
-  "pname": "airFiber 60 ファームウェア",
-  "pcpe": "cpe:/o:ubiquiti_networks:airfiber_60_firmware"
+	"vid": "9029",
+	"vname": "Ubiquiti Networks",
+	"vcpe": "cpe:/:ubiquiti_networks",
+	"pid": "55768",
+	"pname": "airFiber 60 ファームウェア",
+	"pcpe": "cpe:/o:ubiquiti_networks:airfiber_60_firmware"
 }

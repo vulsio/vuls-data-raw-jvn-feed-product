@@ -1,8 +1,8 @@
 {
-  "vid": "9686",
-  "vname": "Hanvon Technology Co.,Ltd",
-  "vcpe": "cpe:/:hanon",
-  "pid": "20185",
-  "pname": "Face ID",
-  "pcpe": "cpe:/h:hanon:faceid"
+	"vid": "9686",
+	"vname": "Hanvon Technology Co.,Ltd",
+	"vcpe": "cpe:/:hanon",
+	"pid": "20185",
+	"pname": "Face ID",
+	"pcpe": "cpe:/h:hanon:faceid"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21200",
-  "vname": "Oro, Inc.",
-  "vcpe": "cpe:/:oroinc",
-  "pid": "55163",
-  "pname": "OroPlatform",
-  "pcpe": "cpe:/a:oroinc:oroplatform"
+	"vid": "21200",
+	"vname": "Oro, Inc.",
+	"vcpe": "cpe:/:oroinc",
+	"pid": "55163",
+	"pname": "OroPlatform",
+	"pcpe": "cpe:/a:oroinc:oroplatform"
 }

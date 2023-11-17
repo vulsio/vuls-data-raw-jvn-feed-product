@@ -1,8 +1,8 @@
 {
-  "vid": "17199",
-  "vname": "FON Wireless Limited",
-  "vcpe": "cpe:/:fon",
-  "pid": "40860",
-  "pname": "FON2601E-FSW-B ファームウエア",
-  "pcpe": "cpe:/o:fon:fon_fon2601fsw-b_firmware"
+	"vid": "17199",
+	"vname": "FON Wireless Limited",
+	"vcpe": "cpe:/:fon",
+	"pid": "40860",
+	"pname": "FON2601E-FSW-B ファームウエア",
+	"pcpe": "cpe:/o:fon:fon_fon2601fsw-b_firmware"
 }

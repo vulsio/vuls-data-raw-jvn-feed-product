@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "50758",
-  "pname": "Community General Collection",
-  "pcpe": "cpe:/a:redhat:community_general_collection"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "50758",
+	"pname": "Community General Collection",
+	"pcpe": "cpe:/a:redhat:community_general_collection"
 }

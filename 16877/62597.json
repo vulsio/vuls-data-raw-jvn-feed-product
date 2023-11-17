@@ -1,8 +1,8 @@
 {
-  "vid": "16877",
-  "vname": "WC Marketplace",
-  "vcpe": "cpe:/:wc-marketplace",
-  "pid": "62597",
-  "pname": "multivendor marketplace solution for woocommerce - wc marketplace",
-  "pcpe": "cpe:/a:wc-marketplace:multivendor_marketplace_solution_for_woocommerce_-_wc_marketplace"
+	"vid": "16877",
+	"vname": "WC Marketplace",
+	"vcpe": "cpe:/:wc-marketplace",
+	"pid": "62597",
+	"pname": "multivendor marketplace solution for woocommerce - wc marketplace",
+	"pcpe": "cpe:/a:wc-marketplace:multivendor_marketplace_solution_for_woocommerce_-_wc_marketplace"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1456",
-  "vname": "energyscripts",
-  "vcpe": "cpe:/:energyscripts",
-  "pid": "4332",
-  "pname": "simple download",
-  "pcpe": "cpe:/a:energyscripts:simple_download"
+	"vid": "1456",
+	"vname": "energyscripts",
+	"vcpe": "cpe:/:energyscripts",
+	"pid": "4332",
+	"pname": "simple download",
+	"pcpe": "cpe:/a:energyscripts:simple_download"
 }

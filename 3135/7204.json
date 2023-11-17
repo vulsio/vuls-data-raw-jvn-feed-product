@@ -1,8 +1,8 @@
 {
-  "vid": "3135",
-  "vname": "db-central",
-  "vcpe": "cpe:/:db-central",
-  "pid": "7204",
-  "pname": "cms",
-  "pcpe": "cpe:/a:db-central:cms"
+	"vid": "3135",
+	"vname": "db-central",
+	"vcpe": "cpe:/:db-central",
+	"pid": "7204",
+	"pname": "cms",
+	"pcpe": "cpe:/a:db-central:cms"
 }

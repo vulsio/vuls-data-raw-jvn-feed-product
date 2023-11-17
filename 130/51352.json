@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "51352",
-  "pname": "Intel NUC M15 Laptop Kit LAPBC510 ファームウェア",
-  "pcpe": "cpe:/o:intel:nuc_m15_laptop_kit_lapbc510_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "51352",
+	"pname": "Intel NUC M15 Laptop Kit LAPBC510 ファームウェア",
+	"pcpe": "cpe:/o:intel:nuc_m15_laptop_kit_lapbc510_firmware"
 }

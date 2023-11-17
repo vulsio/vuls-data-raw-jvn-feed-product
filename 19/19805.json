@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19805",
-  "pname": "Cisco Emergency Responder ソフトウェア",
-  "pcpe": "cpe:/a:cisco:emergency_responder"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19805",
+	"pname": "Cisco Emergency Responder ソフトウェア",
+	"pcpe": "cpe:/a:cisco:emergency_responder"
 }

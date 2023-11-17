@@ -1,8 +1,8 @@
 {
-  "vid": "7134",
-  "vname": "PTC Inc.",
-  "vcpe": "cpe:/:ptc",
-  "pid": "21800",
-  "pname": "PTC Arbortext IsoView",
-  "pcpe": "cpe:/a:ptc:isoview"
+	"vid": "7134",
+	"vname": "PTC Inc.",
+	"vcpe": "cpe:/:ptc",
+	"pid": "21800",
+	"pname": "PTC Arbortext IsoView",
+	"pcpe": "cpe:/a:ptc:isoview"
 }

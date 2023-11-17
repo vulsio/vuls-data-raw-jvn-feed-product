@@ -1,8 +1,8 @@
 {
-  "vid": "14544",
-  "vname": "STCToken project",
-  "vcpe": "cpe:/:stctoken_project",
-  "pid": "34243",
-  "pname": "STCToken",
-  "pcpe": "cpe:/a:stctoken_project:stctoken"
+	"vid": "14544",
+	"vname": "STCToken project",
+	"vcpe": "cpe:/:stctoken_project",
+	"pid": "34243",
+	"pname": "STCToken",
+	"pcpe": "cpe:/a:stctoken_project:stctoken"
 }

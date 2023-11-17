@@ -1,8 +1,8 @@
 {
-  "vid": "2415",
-  "vname": "アクシスコミュニケーションズ",
-  "vcpe": "cpe:/:axis",
-  "pid": "60536",
-  "pname": "m3045 ファームウェア",
-  "pcpe": "cpe:/o:axis:m3045_firmware"
+	"vid": "2415",
+	"vname": "アクシスコミュニケーションズ",
+	"vcpe": "cpe:/:axis",
+	"pid": "60536",
+	"pname": "m3045 ファームウェア",
+	"pcpe": "cpe:/o:axis:m3045_firmware"
 }

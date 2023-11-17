@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "54631",
-  "pname": "Sophos UTM Up2Date",
-  "pcpe": "cpe:/a:sophos:unified_threat_management_up2date"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "54631",
+	"pname": "Sophos UTM Up2Date",
+	"pcpe": "cpe:/a:sophos:unified_threat_management_up2date"
 }

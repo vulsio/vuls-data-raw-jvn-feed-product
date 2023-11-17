@@ -1,8 +1,8 @@
 {
-  "vid": "21158",
-  "vname": "NLnet Labs",
-  "vcpe": "cpe:/:nlnetlabs",
-  "pid": "55727",
-  "pname": "LDNS",
-  "pcpe": "cpe:/a:nlnetlabs:ldns"
+	"vid": "21158",
+	"vname": "NLnet Labs",
+	"vcpe": "cpe:/:nlnetlabs",
+	"pid": "55727",
+	"pname": "LDNS",
+	"pcpe": "cpe:/a:nlnetlabs:ldns"
 }

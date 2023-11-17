@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2180",
-  "pname": "uCosminexus Navigation",
-  "pcpe": "cpe:/a:hitachi:ucosminexus_navigation"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2180",
+	"pname": "uCosminexus Navigation",
+	"pcpe": "cpe:/a:hitachi:ucosminexus_navigation"
 }

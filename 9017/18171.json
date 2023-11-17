@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "18171",
-  "pname": "H8DCT-IBQF",
-  "pcpe": "cpe:/h:supermicro:h8dct-ibqf"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "18171",
+	"pname": "H8DCT-IBQF",
+	"pcpe": "cpe:/h:supermicro:h8dct-ibqf"
 }

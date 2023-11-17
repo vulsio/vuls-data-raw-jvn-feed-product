@@ -1,8 +1,8 @@
 {
-  "vid": "12725",
-  "vname": "mailcow",
-  "vcpe": "cpe:/:mailcow",
-  "pid": "59787",
-  "pname": "mailcow",
-  "pcpe": "cpe:/a:mailcow:mailcow"
+	"vid": "12725",
+	"vname": "mailcow",
+	"vcpe": "cpe:/:mailcow",
+	"pid": "59787",
+	"pname": "mailcow",
+	"pcpe": "cpe:/a:mailcow:mailcow"
 }

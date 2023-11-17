@@ -1,8 +1,8 @@
 {
-  "vid": "3700",
-  "vname": "Firefly Media Server",
-  "vcpe": "cpe:/:fireflymediaserver",
-  "pid": "8071",
-  "pname": "Firefly Media Server",
-  "pcpe": "cpe:/a:fireflymediaserver:fireflymediaserver"
+	"vid": "3700",
+	"vname": "Firefly Media Server",
+	"vcpe": "cpe:/:fireflymediaserver",
+	"pid": "8071",
+	"pname": "Firefly Media Server",
+	"pcpe": "cpe:/a:fireflymediaserver:fireflymediaserver"
 }

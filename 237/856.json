@@ -1,8 +1,8 @@
 {
-  "vid": "237",
-  "vname": "たけびし",
-  "vcpe": "cpe:/:takebishi_corporation",
-  "pid": "856",
-  "pname": "デバイスエクスプローラ MELSEC OPCサーバ",
-  "pcpe": "cpe:/a:takebishi_corporation:devicexplorer_melsec_opc_server"
+	"vid": "237",
+	"vname": "たけびし",
+	"vcpe": "cpe:/:takebishi_corporation",
+	"pid": "856",
+	"pname": "デバイスエクスプローラ MELSEC OPCサーバ",
+	"pcpe": "cpe:/a:takebishi_corporation:devicexplorer_melsec_opc_server"
 }

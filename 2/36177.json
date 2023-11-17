@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "36177",
-  "pname": "Team Foundation Server",
-  "pcpe": "cpe:/a:microsoft:team_foundation_server"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "36177",
+	"pname": "Team Foundation Server",
+	"pcpe": "cpe:/a:microsoft:team_foundation_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "28926",
-  "pname": "Oracle Scripting",
-  "pcpe": "cpe:/a:oracle:scripting"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "28926",
+	"pname": "Oracle Scripting",
+	"pcpe": "cpe:/a:oracle:scripting"
 }

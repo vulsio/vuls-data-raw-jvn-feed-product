@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "61756",
-  "pname": "powerstore command line interface",
-  "pcpe": "cpe:/a:dell:powerstore_command_line_interface"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "61756",
+	"pname": "powerstore command line interface",
+	"pcpe": "cpe:/a:dell:powerstore_command_line_interface"
 }

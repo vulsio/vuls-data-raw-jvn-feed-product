@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "59080",
-  "pname": "ideapad 5-14are05 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideapad_5-14are05_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "59080",
+	"pname": "ideapad 5-14are05 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideapad_5-14are05_firmware"
 }

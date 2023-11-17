@@ -1,8 +1,8 @@
 {
-  "vid": "4456",
-  "vname": "WAGO",
-  "vcpe": "cpe:/:wago",
-  "pid": "28295",
-  "pname": "750-xxxx シリーズファームウェア",
-  "pcpe": "cpe:/o:wago:750-xxxx_series_firmware"
+	"vid": "4456",
+	"vname": "WAGO",
+	"vcpe": "cpe:/:wago",
+	"pid": "28295",
+	"pname": "750-xxxx シリーズファームウェア",
+	"pcpe": "cpe:/o:wago:750-xxxx_series_firmware"
 }

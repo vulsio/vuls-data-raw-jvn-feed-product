@@ -1,8 +1,8 @@
 {
-  "vid": "14581",
-  "vname": "Goochain project",
-  "vcpe": "cpe:/:goochain_project",
-  "pid": "34290",
-  "pname": "Goochain",
-  "pcpe": "cpe:/a:goochain_project:goochain"
+	"vid": "14581",
+	"vname": "Goochain project",
+	"vcpe": "cpe:/:goochain_project",
+	"pid": "34290",
+	"pname": "Goochain",
+	"pcpe": "cpe:/a:goochain_project:goochain"
 }

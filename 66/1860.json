@@ -1,8 +1,8 @@
 {
-  "vid": "66",
-  "vname": "XOOPS",
-  "vcpe": "cpe:/:xoops",
-  "pid": "1860",
-  "pname": "XOOPS Cube Legacy",
-  "pcpe": "cpe:/a:xoops:xoops_cube_legacy"
+	"vid": "66",
+	"vname": "XOOPS",
+	"vcpe": "cpe:/:xoops",
+	"pid": "1860",
+	"pname": "XOOPS Cube Legacy",
+	"pcpe": "cpe:/a:xoops:xoops_cube_legacy"
 }

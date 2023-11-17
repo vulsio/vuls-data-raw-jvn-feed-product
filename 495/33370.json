@@ -1,8 +1,8 @@
 {
-  "vid": "495",
-  "vname": "Eyrie",
-  "vcpe": "cpe:/:eyrie",
-  "pid": "33370",
-  "pname": "remctl",
-  "pcpe": "cpe:/a:eyrie:remctl"
+	"vid": "495",
+	"vname": "Eyrie",
+	"vcpe": "cpe:/:eyrie",
+	"pid": "33370",
+	"pname": "remctl",
+	"pcpe": "cpe:/a:eyrie:remctl"
 }

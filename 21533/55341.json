@@ -1,8 +1,8 @@
 {
-  "vid": "21533",
-  "vname": "follow-redirects project",
-  "vcpe": "cpe:/:follow-redirects_project",
-  "pid": "55341",
-  "pname": "follow-redirects",
-  "pcpe": "cpe:/a:follow-redirects_project:follow-redirects"
+	"vid": "21533",
+	"vname": "follow-redirects project",
+	"vcpe": "cpe:/:follow-redirects_project",
+	"pid": "55341",
+	"pname": "follow-redirects",
+	"pcpe": "cpe:/a:follow-redirects_project:follow-redirects"
 }

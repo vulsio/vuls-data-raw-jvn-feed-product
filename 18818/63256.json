@@ -1,8 +1,8 @@
 {
-  "vid": "18818",
-  "vname": "Cloudflare, Inc.",
-  "vcpe": "cpe:/:cloudflare",
-  "pid": "63256",
-  "pname": "goflow",
-  "pcpe": "cpe:/a:cloudflare:goflow"
+	"vid": "18818",
+	"vname": "Cloudflare, Inc.",
+	"vcpe": "cpe:/:cloudflare",
+	"pid": "63256",
+	"pname": "goflow",
+	"pcpe": "cpe:/a:cloudflare:goflow"
 }

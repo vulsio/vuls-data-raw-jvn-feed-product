@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "60808",
-  "pname": "rex640 pcl2 ファームウェア",
-  "pcpe": "cpe:/o:abb:rex640_pcl2_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "60808",
+	"pname": "rex640 pcl2 ファームウェア",
+	"pcpe": "cpe:/o:abb:rex640_pcl2_firmware"
 }

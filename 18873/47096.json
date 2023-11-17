@@ -1,8 +1,8 @@
 {
-  "vid": "18873",
-  "vname": "Weintek Labs., Inc.",
-  "vcpe": "cpe:/:misc",
-  "pid": "47096",
-  "pname": "cMT-G03/G04",
-  "pcpe": "cpe:/a:misc:weintek_cmt-g03_g04"
+	"vid": "18873",
+	"vname": "Weintek Labs., Inc.",
+	"vcpe": "cpe:/:misc",
+	"pid": "47096",
+	"pname": "cMT-G03/G04",
+	"pcpe": "cpe:/a:misc:weintek_cmt-g03_g04"
 }

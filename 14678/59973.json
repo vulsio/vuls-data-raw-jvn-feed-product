@@ -1,8 +1,8 @@
 {
-  "vid": "14678",
-  "vname": "HCL Technologies Limited",
-  "vcpe": "cpe:/:hcltech",
-  "pid": "59973",
-  "pname": "modern client management",
-  "pcpe": "cpe:/a:hcltech:modern_client_management"
+	"vid": "14678",
+	"vname": "HCL Technologies Limited",
+	"vcpe": "cpe:/:hcltech",
+	"pid": "59973",
+	"pname": "modern client management",
+	"pcpe": "cpe:/a:hcltech:modern_client_management"
 }

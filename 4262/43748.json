@@ -1,8 +1,8 @@
 {
-  "vid": "4262",
-  "vname": "ジョンソンコントロールズ",
-  "vcpe": "cpe:/:johnsoncontrols",
-  "pid": "43748",
-  "pname": "UL864 ファームウェア",
-  "pcpe": "cpe:/o:johnsoncontrols:ul_864_uukl_firmware"
+	"vid": "4262",
+	"vname": "ジョンソンコントロールズ",
+	"vcpe": "cpe:/:johnsoncontrols",
+	"pid": "43748",
+	"pname": "UL864 ファームウェア",
+	"pcpe": "cpe:/o:johnsoncontrols:ul_864_uukl_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "554",
-  "vname": "ブルーコートシステムズ",
-  "vcpe": "cpe:/:bluecoat",
-  "pid": "20009",
-  "pname": "Content Analysis System (CAS) ソフトウェア",
-  "pcpe": "cpe:/a:bluecoat:content_analysis_system_software"
+	"vid": "554",
+	"vname": "ブルーコートシステムズ",
+	"vcpe": "cpe:/:bluecoat",
+	"pid": "20009",
+	"pname": "Content Analysis System (CAS) ソフトウェア",
+	"pcpe": "cpe:/a:bluecoat:content_analysis_system_software"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17566",
-  "vname": "OpenDetex project",
-  "vcpe": "cpe:/:opendetex_project",
-  "pid": "42083",
-  "pname": "OpenDetex",
-  "pcpe": "cpe:/a:opendetex_project:opendetex"
+	"vid": "17566",
+	"vname": "OpenDetex project",
+	"vcpe": "cpe:/:opendetex_project",
+	"pid": "42083",
+	"pname": "OpenDetex",
+	"pcpe": "cpe:/a:opendetex_project:opendetex"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12132",
-  "vname": "meteocontrol",
-  "vcpe": "cpe:/:meteocontrol",
-  "pid": "26117",
-  "pname": "WEB'log LIGHT",
-  "pcpe": "cpe:/a:meteocontrol:web%27log_light"
+	"vid": "12132",
+	"vname": "meteocontrol",
+	"vcpe": "cpe:/:meteocontrol",
+	"pid": "26117",
+	"pname": "WEB'log LIGHT",
+	"pcpe": "cpe:/a:meteocontrol:web%27log_light"
 }

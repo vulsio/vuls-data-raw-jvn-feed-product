@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "16231",
-  "pname": "upload file plugin",
-  "pcpe": "cpe:/a:wordpress:upload_file_plugin"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "16231",
+	"pname": "upload file plugin",
+	"pcpe": "cpe:/a:wordpress:upload_file_plugin"
 }

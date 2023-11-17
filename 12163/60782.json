@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "60782",
-  "pname": "jianliao notification",
-  "pcpe": "cpe:/a:jenkins:jianliao_notification"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "60782",
+	"pname": "jianliao notification",
+	"pcpe": "cpe:/a:jenkins:jianliao_notification"
 }

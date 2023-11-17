@@ -1,8 +1,8 @@
 {
-  "vid": "16556",
-  "vname": "Gretsch-Unitas",
-  "vcpe": "cpe:/:g-u",
-  "pid": "39437",
-  "pname": "BKS EBK Ethernet-Buskoppler Pro ファームウェア",
-  "pcpe": "cpe:/o:g-u:bks_ebk_ethernet-buskoppler_pro_firmware"
+	"vid": "16556",
+	"vname": "Gretsch-Unitas",
+	"vcpe": "cpe:/:g-u",
+	"pid": "39437",
+	"pname": "BKS EBK Ethernet-Buskoppler Pro ファームウェア",
+	"pcpe": "cpe:/o:g-u:bks_ebk_ethernet-buskoppler_pro_firmware"
 }

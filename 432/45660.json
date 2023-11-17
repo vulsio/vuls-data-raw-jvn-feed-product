@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "45660",
-  "pname": "Robotware",
-  "pcpe": "cpe:/a:abb:robotware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "45660",
+	"pname": "Robotware",
+	"pcpe": "cpe:/a:abb:robotware"
 }

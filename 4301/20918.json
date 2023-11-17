@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "20918",
-  "pname": "Android 版アプリ Kindle",
-  "pcpe": "cpe:/a:amazon:kindle"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "20918",
+	"pname": "Android 版アプリ Kindle",
+	"pcpe": "cpe:/a:amazon:kindle"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "49776",
-  "pname": "WAH7706 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:wah7706_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "49776",
+	"pname": "WAH7706 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:wah7706_firmware"
 }

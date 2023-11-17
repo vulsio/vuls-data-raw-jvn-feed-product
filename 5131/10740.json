@@ -1,8 +1,8 @@
 {
-  "vid": "5131",
-  "vname": "karjasoft",
-  "vcpe": "cpe:/:karjasoft",
-  "pid": "10740",
-  "pname": "sami http server",
-  "pcpe": "cpe:/a:karjasoft:sami_http_server"
+	"vid": "5131",
+	"vname": "karjasoft",
+	"vcpe": "cpe:/:karjasoft",
+	"pid": "10740",
+	"pname": "sami http server",
+	"pcpe": "cpe:/a:karjasoft:sami_http_server"
 }

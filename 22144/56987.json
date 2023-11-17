@@ -1,8 +1,8 @@
 {
-  "vid": "22144",
-  "vname": "Anhui RONDS Science & Technology Incorporated Company",
-  "vcpe": "cpe:/:ronds",
-  "pid": "56987",
-  "pname": "EPM Equipment Predictive Maintenance Platform",
-  "pcpe": "cpe:/a:ronds:equipment_predictive_maintenance"
+	"vid": "22144",
+	"vname": "Anhui RONDS Science & Technology Incorporated Company",
+	"vcpe": "cpe:/:ronds",
+	"pid": "56987",
+	"pname": "EPM Equipment Predictive Maintenance Platform",
+	"pcpe": "cpe:/a:ronds:equipment_predictive_maintenance"
 }

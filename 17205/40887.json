@@ -1,8 +1,8 @@
 {
-  "vid": "17205",
-  "vname": "Status 301",
-  "vcpe": "cpe:/:status301",
-  "pid": "40887",
-  "pname": "Easy FancyBox",
-  "pcpe": "cpe:/a:status301:easy_fancybox"
+	"vid": "17205",
+	"vname": "Status 301",
+	"vcpe": "cpe:/:status301",
+	"pid": "40887",
+	"pname": "Easy FancyBox",
+	"pcpe": "cpe:/a:status301:easy_fancybox"
 }

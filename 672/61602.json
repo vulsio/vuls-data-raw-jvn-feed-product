@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "61602",
-  "pname": "Zoho Forms",
-  "pcpe": "cpe:/a:zohocorp:zoho_forms"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "61602",
+	"pname": "Zoho Forms",
+	"pcpe": "cpe:/a:zohocorp:zoho_forms"
 }

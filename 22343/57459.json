@@ -1,8 +1,8 @@
 {
-  "vid": "22343",
-  "vname": "Signalwire",
-  "vcpe": "cpe:/:signalwire",
-  "pid": "57459",
-  "pname": "Sofia-SIP",
-  "pcpe": "cpe:/a:signalwire:sofia-sip"
+	"vid": "22343",
+	"vname": "Signalwire",
+	"vcpe": "cpe:/:signalwire",
+	"pid": "57459",
+	"pname": "Sofia-SIP",
+	"pcpe": "cpe:/a:signalwire:sofia-sip"
 }

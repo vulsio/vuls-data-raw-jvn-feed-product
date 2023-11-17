@@ -1,8 +1,8 @@
 {
-  "vid": "9989",
-  "vname": "Lua.org",
-  "vcpe": "cpe:/:lua",
-  "pid": "20966",
-  "pname": "Lua",
-  "pcpe": "cpe:/a:lua:lua"
+	"vid": "9989",
+	"vname": "Lua.org",
+	"vcpe": "cpe:/:lua",
+	"pid": "20966",
+	"pname": "Lua",
+	"pcpe": "cpe:/a:lua:lua"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "255",
-  "vname": "キヤノン",
-  "vcpe": "cpe:/:canon",
-  "pid": "39904",
-  "pname": "EOS-1D X MKII ファームウェア",
-  "pcpe": "cpe:/o:canon:eos-1d_x_mkii_firmware"
+	"vid": "255",
+	"vname": "キヤノン",
+	"vcpe": "cpe:/:canon",
+	"pid": "39904",
+	"pname": "EOS-1D X MKII ファームウェア",
+	"pcpe": "cpe:/o:canon:eos-1d_x_mkii_firmware"
 }

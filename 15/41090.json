@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "41090",
-  "pname": "Oracle Application Development Framework (Oracle ADF)",
-  "pcpe": "cpe:/a:oracle:application_development_framework"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "41090",
+	"pname": "Oracle Application Development Framework (Oracle ADF)",
+	"pcpe": "cpe:/a:oracle:application_development_framework"
 }

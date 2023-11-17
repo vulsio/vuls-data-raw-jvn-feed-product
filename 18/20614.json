@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20614",
-  "pname": "IBM InfoSphere Master Data Management",
-  "pcpe": "cpe:/a:ibm:infosphere_master_data_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20614",
+	"pname": "IBM InfoSphere Master Data Management",
+	"pcpe": "cpe:/a:ibm:infosphere_master_data_management"
 }

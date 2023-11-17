@@ -1,8 +1,8 @@
 {
-  "vid": "10203",
-  "vname": "NetComm Wireless Limited.",
-  "vcpe": "cpe:/:netcommwireless",
-  "pid": "21363",
-  "pname": "NB604N",
-  "pcpe": "cpe:/h:netcommwireless:nb604n"
+	"vid": "10203",
+	"vname": "NetComm Wireless Limited.",
+	"vcpe": "cpe:/:netcommwireless",
+	"pid": "21363",
+	"pname": "NB604N",
+	"pcpe": "cpe:/h:netcommwireless:nb604n"
 }

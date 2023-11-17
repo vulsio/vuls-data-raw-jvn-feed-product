@@ -1,8 +1,8 @@
 {
-  "vid": "8222",
-  "vname": "Unisys",
-  "vcpe": "cpe:/:unisys",
-  "pid": "28780",
-  "pname": "s-Par",
-  "pcpe": "cpe:/a:unisys:secure_partitioning"
+	"vid": "8222",
+	"vname": "Unisys",
+	"vcpe": "cpe:/:unisys",
+	"pid": "28780",
+	"pname": "s-Par",
+	"pcpe": "cpe:/a:unisys:secure_partitioning"
 }

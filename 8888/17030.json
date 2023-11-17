@@ -1,8 +1,8 @@
 {
-  "vid": "8888",
-  "vname": "Schweitzer Engineering Laboratories",
-  "vcpe": "cpe:/:selinc",
-  "pid": "17030",
-  "pname": "AcSELerator QuickSet",
-  "pcpe": "cpe:/a:selinc:acselerator_quickset"
+	"vid": "8888",
+	"vname": "Schweitzer Engineering Laboratories",
+	"vcpe": "cpe:/:selinc",
+	"pid": "17030",
+	"pname": "AcSELerator QuickSet",
+	"pcpe": "cpe:/a:selinc:acselerator_quickset"
 }

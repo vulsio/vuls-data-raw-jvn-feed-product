@@ -1,8 +1,8 @@
 {
-  "vid": "21232",
-  "vname": "Gerbv project",
-  "vcpe": "cpe:/:gerbv_project",
-  "pid": "54502",
-  "pname": "Gerbv",
-  "pcpe": "cpe:/a:gerbv_project:gerbv"
+	"vid": "21232",
+	"vname": "Gerbv project",
+	"vcpe": "cpe:/:gerbv_project",
+	"pid": "54502",
+	"pname": "Gerbv",
+	"pcpe": "cpe:/a:gerbv_project:gerbv"
 }

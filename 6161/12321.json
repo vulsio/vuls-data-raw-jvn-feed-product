@@ -1,8 +1,8 @@
 {
-  "vid": "6161",
-  "vname": "openwsman",
-  "vcpe": "cpe:/:openwsman",
-  "pid": "12321",
-  "pname": "openwsman",
-  "pcpe": "cpe:/a:openwsman:openwsman"
+	"vid": "6161",
+	"vname": "openwsman",
+	"vcpe": "cpe:/:openwsman",
+	"pid": "12321",
+	"pname": "openwsman",
+	"pcpe": "cpe:/a:openwsman:openwsman"
 }

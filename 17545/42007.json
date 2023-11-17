@@ -1,8 +1,8 @@
 {
-  "vid": "17545",
-  "vname": "gksu PolicyKit project",
-  "vcpe": "cpe:/:gksu-polkit_project",
-  "pid": "42007",
-  "pname": "gksu PolicyKit",
-  "pcpe": "cpe:/a:gksu-polkit_project:gksu-polkit"
+	"vid": "17545",
+	"vname": "gksu PolicyKit project",
+	"vcpe": "cpe:/:gksu-polkit_project",
+	"pid": "42007",
+	"pname": "gksu PolicyKit",
+	"pcpe": "cpe:/a:gksu-polkit_project:gksu-polkit"
 }

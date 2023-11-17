@@ -1,8 +1,8 @@
 {
-  "vid": "4854",
-  "vname": "iscsitarget",
-  "vcpe": "cpe:/:iscsitarget",
-  "pid": "10282",
-  "pname": "iscsitarget",
-  "pcpe": "cpe:/a:iscsitarget:iscsitarget"
+	"vid": "4854",
+	"vname": "iscsitarget",
+	"vcpe": "cpe:/:iscsitarget",
+	"pid": "10282",
+	"pname": "iscsitarget",
+	"pcpe": "cpe:/a:iscsitarget:iscsitarget"
 }

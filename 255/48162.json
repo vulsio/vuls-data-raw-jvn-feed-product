@@ -1,8 +1,8 @@
 {
-  "vid": "255",
-  "vname": "キヤノン",
-  "vcpe": "cpe:/:canon",
-  "pid": "48162",
-  "pname": "MF216n ファームウェア",
-  "pcpe": "cpe:/o:canon:mf216n_firmware"
+	"vid": "255",
+	"vname": "キヤノン",
+	"vcpe": "cpe:/:canon",
+	"pid": "48162",
+	"pname": "MF216n ファームウェア",
+	"pcpe": "cpe:/o:canon:mf216n_firmware"
 }

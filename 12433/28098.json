@@ -1,8 +1,8 @@
 {
-  "vid": "12433",
-  "vname": "Emoncms",
-  "vcpe": "cpe:/:emoncms",
-  "pid": "28098",
-  "pname": "emoncms",
-  "pcpe": "cpe:/a:emoncms:emoncms"
+	"vid": "12433",
+	"vname": "Emoncms",
+	"vcpe": "cpe:/:emoncms",
+	"pid": "28098",
+	"pname": "emoncms",
+	"pcpe": "cpe:/a:emoncms:emoncms"
 }

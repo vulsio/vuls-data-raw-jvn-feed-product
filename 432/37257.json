@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "37257",
-  "pname": "GATE-E2 ファームウェア",
-  "pcpe": "cpe:/o:abb:gate-e2_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "37257",
+	"pname": "GATE-E2 ファームウェア",
+	"pcpe": "cpe:/o:abb:gate-e2_firmware"
 }

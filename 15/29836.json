@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "29836",
-  "pname": "PeopleSoft Enterprise PRTL Interaction Hub",
-  "pcpe": "cpe:/a:oracle:peoplesoft_enterprise_prtl_interaction_hub"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "29836",
+	"pname": "PeopleSoft Enterprise PRTL Interaction Hub",
+	"pcpe": "cpe:/a:oracle:peoplesoft_enterprise_prtl_interaction_hub"
 }

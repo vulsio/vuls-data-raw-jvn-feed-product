@@ -1,8 +1,8 @@
 {
-  "vid": "8398",
-  "vname": "watchfire",
-  "vcpe": "cpe:/:watchfire",
-  "pid": "16003",
-  "pname": "appscan",
-  "pcpe": "cpe:/a:watchfire:appscan"
+	"vid": "8398",
+	"vname": "watchfire",
+	"vcpe": "cpe:/:watchfire",
+	"pid": "16003",
+	"pname": "appscan",
+	"pcpe": "cpe:/a:watchfire:appscan"
 }

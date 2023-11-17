@@ -1,8 +1,8 @@
 {
-  "vid": "4403",
-  "vname": "GNU Gatekeeper",
-  "vcpe": "cpe:/:gnugk",
-  "pid": "9411",
-  "pname": "GNU Gatekeeper",
-  "pcpe": "cpe:/a:gnugk:gnu_gatekeeper"
+	"vid": "4403",
+	"vname": "GNU Gatekeeper",
+	"vcpe": "cpe:/:gnugk",
+	"pid": "9411",
+	"pname": "GNU Gatekeeper",
+	"pcpe": "cpe:/a:gnugk:gnu_gatekeeper"
 }

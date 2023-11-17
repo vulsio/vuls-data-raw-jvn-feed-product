@@ -1,8 +1,8 @@
 {
-  "vid": "21962",
-  "vname": "pyChao project",
-  "vcpe": "cpe:/:pychao_project",
-  "pid": "56386",
-  "pname": "pyChao",
-  "pcpe": "cpe:/a:pychao_project:pychao"
+	"vid": "21962",
+	"vname": "pyChao project",
+	"vcpe": "cpe:/:pychao_project",
+	"pid": "56386",
+	"pname": "pyChao",
+	"pcpe": "cpe:/a:pychao_project:pychao"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5332",
-  "vname": "linux-ipv6",
-  "vcpe": "cpe:/:linux-ipv6",
-  "pid": "11013",
-  "pname": "umip",
-  "pcpe": "cpe:/a:linux-ipv6:umip"
+	"vid": "5332",
+	"vname": "linux-ipv6",
+	"vcpe": "cpe:/:linux-ipv6",
+	"pid": "11013",
+	"pname": "umip",
+	"pcpe": "cpe:/a:linux-ipv6:umip"
 }

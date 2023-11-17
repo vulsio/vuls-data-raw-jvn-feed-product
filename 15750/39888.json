@@ -1,8 +1,8 @@
 {
-  "vid": "15750",
-  "vname": "Backdrop",
-  "vcpe": "cpe:/:backdropcms",
-  "pid": "39888",
-  "pname": "Backdrop Core",
-  "pcpe": "cpe:/a:backdropcms:backdrop_core"
+	"vid": "15750",
+	"vname": "Backdrop",
+	"vcpe": "cpe:/:backdropcms",
+	"pid": "39888",
+	"pname": "Backdrop Core",
+	"pcpe": "cpe:/a:backdropcms:backdrop_core"
 }

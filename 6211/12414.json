@@ -1,8 +1,8 @@
 {
-  "vid": "6211",
-  "vname": "oxyproject",
-  "vcpe": "cpe:/:oxyproject",
-  "pid": "12414",
-  "pname": "oxybox",
-  "pcpe": "cpe:/a:oxyproject:oxybox"
+	"vid": "6211",
+	"vname": "oxyproject",
+	"vcpe": "cpe:/:oxyproject",
+	"pid": "12414",
+	"pname": "oxybox",
+	"pcpe": "cpe:/a:oxyproject:oxybox"
 }

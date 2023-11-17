@@ -1,8 +1,8 @@
 {
-  "vid": "14678",
-  "vname": "HCL Technologies Limited",
-  "vcpe": "cpe:/:hcltech",
-  "pid": "45644",
-  "pname": "HCL BigFix Platform",
-  "pcpe": "cpe:/a:hcltech:bigfix_platform"
+	"vid": "14678",
+	"vname": "HCL Technologies Limited",
+	"vcpe": "cpe:/:hcltech",
+	"pid": "45644",
+	"pname": "HCL BigFix Platform",
+	"pcpe": "cpe:/a:hcltech:bigfix_platform"
 }

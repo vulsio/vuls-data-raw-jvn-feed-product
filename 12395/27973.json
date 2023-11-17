@@ -1,8 +1,8 @@
 {
-  "vid": "12395",
-  "vname": "Visonic",
-  "vcpe": "cpe:/:visonic",
-  "pid": "27973",
-  "pname": "Visonic PowerLink2",
-  "pcpe": "cpe:/h:visonic:powerlink2"
+	"vid": "12395",
+	"vname": "Visonic",
+	"vcpe": "cpe:/:visonic",
+	"pid": "27973",
+	"pname": "Visonic PowerLink2",
+	"pcpe": "cpe:/h:visonic:powerlink2"
 }

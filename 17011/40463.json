@@ -1,8 +1,8 @@
 {
-  "vid": "17011",
-  "vname": "Smanos",
-  "vcpe": "cpe:/:smanos",
-  "pid": "40463",
-  "pname": "W100 ファームウェア",
-  "pcpe": "cpe:/o:smanos:w100_firmware"
+	"vid": "17011",
+	"vname": "Smanos",
+	"vcpe": "cpe:/:smanos",
+	"pid": "40463",
+	"pname": "W100 ファームウェア",
+	"pcpe": "cpe:/o:smanos:w100_firmware"
 }

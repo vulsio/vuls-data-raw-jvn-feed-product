@@ -1,8 +1,8 @@
 {
-  "vid": "24340",
-  "vname": "ezviz",
-  "vcpe": "cpe:/:ezviz",
-  "pid": "62962",
-  "pname": "cs-c3w-a0-3h4wfrl ファームウェア",
-  "pcpe": "cpe:/o:ezviz:cs-c3w-a0-3h4wfrl_firmware"
+	"vid": "24340",
+	"vname": "ezviz",
+	"vcpe": "cpe:/:ezviz",
+	"pid": "62962",
+	"pname": "cs-c3w-a0-3h4wfrl ファームウェア",
+	"pcpe": "cpe:/o:ezviz:cs-c3w-a0-3h4wfrl_firmware"
 }

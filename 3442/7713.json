@@ -1,8 +1,8 @@
 {
-  "vid": "3442",
-  "vname": "EFS Software",
-  "vcpe": "cpe:/:efs_software",
-  "pid": "7713",
-  "pname": "efs web server",
-  "pcpe": "cpe:/a:efs_software:efs_web_server"
+	"vid": "3442",
+	"vname": "EFS Software",
+	"vcpe": "cpe:/:efs_software",
+	"pid": "7713",
+	"pname": "efs web server",
+	"pcpe": "cpe:/a:efs_software:efs_web_server"
 }

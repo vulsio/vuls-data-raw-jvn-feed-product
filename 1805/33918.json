@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "33918",
-  "pname": "IPC TL-IPC223(P)-6 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:ipc_tl-ipc223%28p%29-6_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "33918",
+	"pname": "IPC TL-IPC223(P)-6 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:ipc_tl-ipc223%28p%29-6_firmware"
 }

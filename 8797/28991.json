@@ -1,8 +1,8 @@
 {
-  "vid": "8797",
-  "vname": "NetIQ",
-  "vcpe": "cpe:/:netiq",
-  "pid": "28991",
-  "pname": "NetIQ iManager",
-  "pcpe": "cpe:/a:netiq:imanager"
+	"vid": "8797",
+	"vname": "NetIQ",
+	"vcpe": "cpe:/:netiq",
+	"pid": "28991",
+	"pname": "NetIQ iManager",
+	"pcpe": "cpe:/a:netiq:imanager"
 }

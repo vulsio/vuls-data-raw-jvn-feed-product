@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "2266",
-  "pname": "SymfoWARE Universal Data Interchanger",
-  "pcpe": "cpe:/a:fujitsu:symfoware_universal_data_interchanger"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "2266",
+	"pname": "SymfoWARE Universal Data Interchanger",
+	"pcpe": "cpe:/a:fujitsu:symfoware_universal_data_interchanger"
 }

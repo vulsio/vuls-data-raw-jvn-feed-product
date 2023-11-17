@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "18129",
-  "pname": "Trio J-Series License-free Ethernet data radio",
-  "pcpe": "cpe:/h:schneider_electric:tburjr900"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "18129",
+	"pname": "Trio J-Series License-free Ethernet data radio",
+	"pcpe": "cpe:/h:schneider_electric:tburjr900"
 }

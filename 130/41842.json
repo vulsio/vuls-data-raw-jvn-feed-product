@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "41842",
-  "pname": "InTel Core i7-9700T ファームウェア",
-  "pcpe": "cpe:/o:intel:core_i7-9700t_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "41842",
+	"pname": "InTel Core i7-9700T ファームウェア",
+	"pcpe": "cpe:/o:intel:core_i7-9700t_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "697",
-  "vname": "Beckhoff Automation",
-  "vcpe": "cpe:/:beckhoff",
-  "pid": "53891",
-  "pname": "TS6100 ファームウェア",
-  "pcpe": "cpe:/o:beckhoff:ts6100_firmware"
+	"vid": "697",
+	"vname": "Beckhoff Automation",
+	"vcpe": "cpe:/:beckhoff",
+	"pid": "53891",
+	"pname": "TS6100 ファームウェア",
+	"pcpe": "cpe:/o:beckhoff:ts6100_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6658",
-  "vname": "MikroTik",
-  "vcpe": "cpe:/:mikrotik",
-  "pid": "44013",
-  "pname": "PowerBox ファームウェア",
-  "pcpe": "cpe:/o:mikrotik:powerbox_firmware"
+	"vid": "6658",
+	"vname": "MikroTik",
+	"vcpe": "cpe:/:mikrotik",
+	"pid": "44013",
+	"pname": "PowerBox ファームウェア",
+	"pcpe": "cpe:/o:mikrotik:powerbox_firmware"
 }

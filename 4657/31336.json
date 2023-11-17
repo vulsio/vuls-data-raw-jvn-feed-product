@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31336",
-  "pname": "AR150-S ファームウェア",
-  "pcpe": "cpe:/o:huawei:ar150-s_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31336",
+	"pname": "AR150-S ファームウェア",
+	"pcpe": "cpe:/o:huawei:ar150-s_firmware"
 }

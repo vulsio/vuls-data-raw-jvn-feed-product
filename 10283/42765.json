@@ -1,8 +1,8 @@
 {
-  "vid": "10283",
-  "vname": "Meinberg Funkuhren GmbH & Co KG",
-  "vcpe": "cpe:/:meinberg",
-  "pid": "42765",
-  "pname": "Lantime M1000 ファームウェア",
-  "pcpe": "cpe:/o:meinberg:lantime_m1000_firmware"
+	"vid": "10283",
+	"vname": "Meinberg Funkuhren GmbH & Co KG",
+	"vcpe": "cpe:/:meinberg",
+	"pid": "42765",
+	"pname": "Lantime M1000 ファームウェア",
+	"pcpe": "cpe:/o:meinberg:lantime_m1000_firmware"
 }

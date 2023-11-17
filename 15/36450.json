@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "36450",
-  "pname": "PeopleSoft Enterprise CC Common Application Objects",
-  "pcpe": "cpe:/a:oracle:peoplesoft_enterprise_cost_center_common_application_objects"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "36450",
+	"pname": "PeopleSoft Enterprise CC Common Application Objects",
+	"pcpe": "cpe:/a:oracle:peoplesoft_enterprise_cost_center_common_application_objects"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18559",
-  "vname": "Mintegral",
-  "vcpe": "cpe:/:mintegral",
-  "pid": "45748",
-  "pname": "MintegralAdSDK",
-  "pcpe": "cpe:/a:mintegral:mintegraladsdk"
+	"vid": "18559",
+	"vname": "Mintegral",
+	"vcpe": "cpe:/:mintegral",
+	"pid": "45748",
+	"pname": "MintegralAdSDK",
+	"pcpe": "cpe:/a:mintegral:mintegraladsdk"
 }

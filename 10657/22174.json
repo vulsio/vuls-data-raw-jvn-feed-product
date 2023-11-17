@@ -1,8 +1,8 @@
 {
-  "vid": "10657",
-  "vname": "ip-phone-smart",
-  "vcpe": "cpe:/:ip-phone-smart",
-  "pid": "22174",
-  "pname": "smartalk",
-  "pcpe": "cpe:/a:ip-phone-smart:smartalk"
+	"vid": "10657",
+	"vname": "ip-phone-smart",
+	"vcpe": "cpe:/:ip-phone-smart",
+	"pid": "22174",
+	"pname": "smartalk",
+	"pcpe": "cpe:/a:ip-phone-smart:smartalk"
 }

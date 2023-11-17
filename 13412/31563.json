@@ -1,8 +1,8 @@
 {
-  "vid": "13412",
-  "vname": "aubio",
-  "vcpe": "cpe:/:aubio",
-  "pid": "31563",
-  "pname": "aubio",
-  "pcpe": "cpe:/a:aubio:aubio"
+	"vid": "13412",
+	"vname": "aubio",
+	"vcpe": "cpe:/:aubio",
+	"pid": "31563",
+	"pname": "aubio",
+	"pcpe": "cpe:/a:aubio:aubio"
 }

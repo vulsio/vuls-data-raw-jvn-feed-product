@@ -1,8 +1,8 @@
 {
-  "vid": "23532",
-  "vname": "lenze",
-  "vcpe": "cpe:/:lenze",
-  "pid": "60969",
-  "pname": "c750 ファームウェア",
-  "pcpe": "cpe:/o:lenze:c750_firmware"
+	"vid": "23532",
+	"vname": "lenze",
+	"vcpe": "cpe:/:lenze",
+	"pid": "60969",
+	"pname": "c750 ファームウェア",
+	"pcpe": "cpe:/o:lenze:c750_firmware"
 }

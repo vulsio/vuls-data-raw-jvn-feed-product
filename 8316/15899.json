@@ -1,8 +1,8 @@
 {
-  "vid": "8316",
-  "vname": "virtualsystem",
-  "vcpe": "cpe:/:virtualsystem",
-  "pid": "15899",
-  "pname": "vs-news-system",
-  "pcpe": "cpe:/a:virtualsystem:vs-news-system"
+	"vid": "8316",
+	"vname": "virtualsystem",
+	"vcpe": "cpe:/:virtualsystem",
+	"pid": "15899",
+	"pname": "vs-news-system",
+	"pcpe": "cpe:/a:virtualsystem:vs-news-system"
 }

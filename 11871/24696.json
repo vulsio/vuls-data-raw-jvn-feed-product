@@ -1,8 +1,8 @@
 {
-  "vid": "11871",
-  "vname": "Chaos tool suite project",
-  "vcpe": "cpe:/:chaos_tool_suite_project",
-  "pid": "24696",
-  "pname": "Chaos tool suite",
-  "pcpe": "cpe:/a:chaos_tool_suite_project:chaos_tool_suite"
+	"vid": "11871",
+	"vname": "Chaos tool suite project",
+	"vcpe": "cpe:/:chaos_tool_suite_project",
+	"pid": "24696",
+	"pname": "Chaos tool suite",
+	"pcpe": "cpe:/a:chaos_tool_suite_project:chaos_tool_suite"
 }

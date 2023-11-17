@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "3369",
-  "pname": "Systemwalker Runbook Automation",
-  "pcpe": "cpe:/a:fujitsu:systemwalker_runbook_automation"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "3369",
+	"pname": "Systemwalker Runbook Automation",
+	"pcpe": "cpe:/a:fujitsu:systemwalker_runbook_automation"
 }

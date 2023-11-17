@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "23953",
-  "pname": "TL-WDR3500 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-wdr3500_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "23953",
+	"pname": "TL-WDR3500 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-wdr3500_firmware"
 }

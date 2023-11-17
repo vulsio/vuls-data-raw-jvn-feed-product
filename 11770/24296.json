@@ -1,8 +1,8 @@
 {
-  "vid": "11770",
-  "vname": "Developer Log project",
-  "vcpe": "cpe:/:developer_log_project",
-  "pid": "24296",
-  "pname": "Developer Log",
-  "pcpe": "cpe:/a:developer_log_project:developer_log"
+	"vid": "11770",
+	"vname": "Developer Log project",
+	"vcpe": "cpe:/:developer_log_project",
+	"pid": "24296",
+	"pname": "Developer Log",
+	"pcpe": "cpe:/a:developer_log_project:developer_log"
 }

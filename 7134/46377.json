@@ -1,8 +1,8 @@
 {
-  "vid": "7134",
-  "vname": "PTC Inc.",
-  "vcpe": "cpe:/:ptc",
-  "pid": "46377",
-  "pname": "ThingWorx Industrial Connectivity",
-  "pcpe": "cpe:/a:ptc:thingWorx_industrial_connectivity"
+	"vid": "7134",
+	"vname": "PTC Inc.",
+	"vcpe": "cpe:/:ptc",
+	"pid": "46377",
+	"pname": "ThingWorx Industrial Connectivity",
+	"pcpe": "cpe:/a:ptc:thingWorx_industrial_connectivity"
 }

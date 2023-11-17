@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "4825",
-  "pname": "antivirus central quarantine server",
-  "pcpe": "cpe:/a:symantec:antivirus_central_quarantine_server"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "4825",
+	"pname": "antivirus central quarantine server",
+	"pcpe": "cpe:/a:symantec:antivirus_central_quarantine_server"
 }

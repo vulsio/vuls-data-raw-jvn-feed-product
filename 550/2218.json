@@ -1,8 +1,8 @@
 {
-  "vid": "550",
-  "vname": "キヤノンITソリューションズ",
-  "vcpe": "cpe:/:canon-its",
-  "pid": "2218",
-  "pname": "ACCESSGUARDIAN",
-  "pcpe": "cpe:/a:canon-its:accessguardian"
+	"vid": "550",
+	"vname": "キヤノンITソリューションズ",
+	"vcpe": "cpe:/:canon-its",
+	"pid": "2218",
+	"pname": "ACCESSGUARDIAN",
+	"pcpe": "cpe:/a:canon-its:accessguardian"
 }

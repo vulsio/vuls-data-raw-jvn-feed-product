@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "36750",
-  "pname": "StorCenter ix2 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:storcenter_ix2_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "36750",
+	"pname": "StorCenter ix2 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:storcenter_ix2_firmware"
 }

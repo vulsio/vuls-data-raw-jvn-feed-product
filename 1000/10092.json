@@ -1,8 +1,8 @@
 {
-  "vid": "1000",
-  "vname": "iJoomla",
-  "vcpe": "cpe:/:ijoomla",
-  "pid": "10092",
-  "pname": "com news portal",
-  "pcpe": "cpe:/a:ijoomla:com_news_portal"
+	"vid": "1000",
+	"vname": "iJoomla",
+	"vcpe": "cpe:/:ijoomla",
+	"pid": "10092",
+	"pname": "com news portal",
+	"pcpe": "cpe:/a:ijoomla:com_news_portal"
 }

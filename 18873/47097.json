@@ -1,8 +1,8 @@
 {
-  "vid": "18873",
-  "vname": "Weintek Labs., Inc.",
-  "vcpe": "cpe:/:misc",
-  "pid": "47097",
-  "pname": "cMT3071/cMT3072/cMT3090/cMT3103/cMT3151",
-  "pcpe": "cpe:/a:misc:weintek_cmt3071_cmt3072_cmt3090_cmt3103_cmt3151"
+	"vid": "18873",
+	"vname": "Weintek Labs., Inc.",
+	"vcpe": "cpe:/:misc",
+	"pid": "47097",
+	"pname": "cMT3071/cMT3072/cMT3090/cMT3103/cMT3151",
+	"pcpe": "cpe:/a:misc:weintek_cmt3071_cmt3072_cmt3090_cmt3103_cmt3151"
 }

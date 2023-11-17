@@ -1,8 +1,8 @@
 {
-  "vid": "1723",
-  "vname": "SonicWALL",
-  "vcpe": "cpe:/:sonicwall",
-  "pid": "4811",
-  "pname": "ssl-vpn end-point interrogator/installer activex control",
-  "pcpe": "cpe:/a:sonicwall:ssl-vpn_end-point_interrogator%2Finstaller_activex_control"
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "4811",
+	"pname": "ssl-vpn end-point interrogator/installer activex control",
+	"pcpe": "cpe:/a:sonicwall:ssl-vpn_end-point_interrogator%2Finstaller_activex_control"
 }

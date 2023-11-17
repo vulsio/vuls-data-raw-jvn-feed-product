@@ -1,8 +1,8 @@
 {
-  "vid": "2384",
-  "vname": "オートデスク株式会社",
-  "vcpe": "cpe:/:autodesk",
-  "pid": "17804",
-  "pname": "DWG TrueView",
-  "pcpe": "cpe:/a:autodesk:dwg_trueview"
+	"vid": "2384",
+	"vname": "オートデスク株式会社",
+	"vcpe": "cpe:/:autodesk",
+	"pid": "17804",
+	"pname": "DWG TrueView",
+	"pcpe": "cpe:/a:autodesk:dwg_trueview"
 }

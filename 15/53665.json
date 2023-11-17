@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53665",
-  "pname": "Oracle Communications Network Integrity",
-  "pcpe": "cpe:/a:oracle:communications_network_integrity"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53665",
+	"pname": "Oracle Communications Network Integrity",
+	"pcpe": "cpe:/a:oracle:communications_network_integrity"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "37547",
-  "pname": "FW ファームウェア",
-  "pcpe": "cpe:/o:abb:fw_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "37547",
+	"pname": "FW ファームウェア",
+	"pcpe": "cpe:/o:abb:fw_firmware"
 }

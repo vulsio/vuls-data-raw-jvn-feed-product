@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "16659",
-  "pname": "mail security 8820 appliance",
-  "pcpe": "cpe:/h:symantec:mail_security_8820_appliance"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "16659",
+	"pname": "mail security 8820 appliance",
+	"pcpe": "cpe:/h:symantec:mail_security_8820_appliance"
 }

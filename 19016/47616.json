@@ -1,8 +1,8 @@
 {
-  "vid": "19016",
-  "vname": "Sercomm",
-  "vcpe": "cpe:/:sercomm",
-  "pid": "47616",
-  "pname": "AGCOMBO VD625 ファームウェア",
-  "pcpe": "cpe:/o:sercomm:agcombo_vd625_firmware"
+	"vid": "19016",
+	"vname": "Sercomm",
+	"vcpe": "cpe:/:sercomm",
+	"pid": "47616",
+	"pname": "AGCOMBO VD625 ファームウェア",
+	"pcpe": "cpe:/o:sercomm:agcombo_vd625_firmware"
 }

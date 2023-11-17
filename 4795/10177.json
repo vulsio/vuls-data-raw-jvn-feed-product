@@ -1,8 +1,8 @@
 {
-  "vid": "4795",
-  "vname": "instinct",
-  "vcpe": "cpe:/:instinct",
-  "pid": "10177",
-  "pname": "e-commerce plugin",
-  "pcpe": "cpe:/a:instinct:e-commerce_plugin"
+	"vid": "4795",
+	"vname": "instinct",
+	"vcpe": "cpe:/:instinct",
+	"pid": "10177",
+	"pname": "e-commerce plugin",
+	"pcpe": "cpe:/a:instinct:e-commerce_plugin"
 }

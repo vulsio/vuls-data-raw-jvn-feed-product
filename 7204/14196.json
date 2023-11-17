@@ -1,8 +1,8 @@
 {
-  "vid": "7204",
-  "vname": "radio toolbox",
-  "vcpe": "cpe:/:radio_toolbox",
-  "pid": "14196",
-  "pname": "steamcast",
-  "pcpe": "cpe:/a:radio_toolbox:steamcast"
+	"vid": "7204",
+	"vname": "radio toolbox",
+	"vcpe": "cpe:/:radio_toolbox",
+	"pid": "14196",
+	"pname": "steamcast",
+	"pcpe": "cpe:/a:radio_toolbox:steamcast"
 }

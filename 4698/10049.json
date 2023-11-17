@@ -1,8 +1,8 @@
 {
-  "vid": "4698",
-  "vname": "idautomation",
-  "vcpe": "cpe:/:idautomation",
-  "pid": "10049",
-  "pname": "datamatrix barcode",
-  "pcpe": "cpe:/a:idautomation:datamatrix_barcode"
+	"vid": "4698",
+	"vname": "idautomation",
+	"vcpe": "cpe:/:idautomation",
+	"pid": "10049",
+	"pname": "datamatrix barcode",
+	"pcpe": "cpe:/a:idautomation:datamatrix_barcode"
 }

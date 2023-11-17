@@ -1,8 +1,8 @@
 {
-  "vid": "20135",
-  "vname": "Circutor",
-  "vcpe": "cpe:/:circutor",
-  "pid": "51126",
-  "pname": "SGE-PLC1000 ファームウェア",
-  "pcpe": "cpe:/o:circutor:sge-plc1000_firmware"
+	"vid": "20135",
+	"vname": "Circutor",
+	"vcpe": "cpe:/:circutor",
+	"pid": "51126",
+	"pname": "SGE-PLC1000 ファームウェア",
+	"pcpe": "cpe:/o:circutor:sge-plc1000_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12967",
-  "vname": "Octopus Deploy Pty. Ltd.",
-  "vcpe": "cpe:/:octopus",
-  "pid": "59704",
-  "pname": "Octopus Server",
-  "pcpe": "cpe:/a:octopus:octopus_server"
+	"vid": "12967",
+	"vname": "Octopus Deploy Pty. Ltd.",
+	"vcpe": "cpe:/:octopus",
+	"pid": "59704",
+	"pname": "Octopus Server",
+	"pcpe": "cpe:/a:octopus:octopus_server"
 }

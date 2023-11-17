@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "46828",
-  "pname": "ControlLogix",
-  "pcpe": "cpe:/a:rockwellautomation:controllogix"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "46828",
+	"pname": "ControlLogix",
+	"pcpe": "cpe:/a:rockwellautomation:controllogix"
 }

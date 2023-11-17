@@ -1,8 +1,8 @@
 {
-  "vid": "14208",
-  "vname": "fabric-js project",
-  "vcpe": "cpe:/:fabric-js_project",
-  "pid": "33864",
-  "pname": "fabric-js",
-  "pcpe": "cpe:/a:fabric-js_project:fabric-js"
+	"vid": "14208",
+	"vname": "fabric-js project",
+	"vcpe": "cpe:/:fabric-js_project",
+	"pid": "33864",
+	"pname": "fabric-js",
+	"pcpe": "cpe:/a:fabric-js_project:fabric-js"
 }

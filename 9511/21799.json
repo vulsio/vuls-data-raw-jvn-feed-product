@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "21799",
-  "pname": "DVR DS-7204 ファームウェア",
-  "pcpe": "cpe:/o:hikvision:dvr_ds-7204_firmware"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "21799",
+	"pname": "DVR DS-7204 ファームウェア",
+	"pcpe": "cpe:/o:hikvision:dvr_ds-7204_firmware"
 }

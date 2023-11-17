@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "59696",
-  "pname": "simatic cp 442-1 rna ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_cp_442-1_rna_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "59696",
+	"pname": "simatic cp 442-1 rna ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_cp_442-1_rna_firmware"
 }

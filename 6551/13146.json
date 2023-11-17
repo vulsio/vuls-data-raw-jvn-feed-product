@@ -1,8 +1,8 @@
 {
-  "vid": "6551",
-  "vname": "ShenZhen Foscam Intelligent Technology",
-  "vcpe": "cpe:/:foscam",
-  "pid": "13146",
-  "pname": "H264 IP Camera",
-  "pcpe": "cpe:/h:foscam:h.264_hi3510%2F11%2F12_ip_camera"
+	"vid": "6551",
+	"vname": "ShenZhen Foscam Intelligent Technology",
+	"vcpe": "cpe:/:foscam",
+	"pid": "13146",
+	"pname": "H264 IP Camera",
+	"pcpe": "cpe:/h:foscam:h.264_hi3510%2F11%2F12_ip_camera"
 }

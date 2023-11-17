@@ -1,8 +1,8 @@
 {
-  "vid": "19014",
-  "vname": "FireBlink",
-  "vcpe": "cpe:/:fireblink",
-  "pid": "47612",
-  "pname": "object-collider",
-  "pcpe": "cpe:/a:fireblink:object-collider"
+	"vid": "19014",
+	"vname": "FireBlink",
+	"vcpe": "cpe:/:fireblink",
+	"pid": "47612",
+	"pname": "object-collider",
+	"pcpe": "cpe:/a:fireblink:object-collider"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "53724",
-  "pname": "ACOS Access Toolkit",
-  "pcpe": "cpe:/a:nec:acos_access_toolkit"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "53724",
+	"pname": "ACOS Access Toolkit",
+	"pcpe": "cpe:/a:nec:acos_access_toolkit"
 }

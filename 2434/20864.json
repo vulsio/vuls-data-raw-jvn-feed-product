@@ -1,8 +1,8 @@
 {
-  "vid": "2434",
-  "vname": "Baidu, Inc.",
-  "vcpe": "cpe:/:baidu",
-  "pid": "20864",
-  "pname": "Simeji",
-  "pcpe": "cpe:/a:baidu:simeji"
+	"vid": "2434",
+	"vname": "Baidu, Inc.",
+	"vcpe": "cpe:/:baidu",
+	"pid": "20864",
+	"pname": "Simeji",
+	"pcpe": "cpe:/a:baidu:simeji"
 }

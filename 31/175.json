@@ -1,8 +1,8 @@
 {
-  "vid": "31",
-  "vname": "センドメール社",
-  "vcpe": "cpe:/:sendmail",
-  "pid": "175",
-  "pname": "Sendmail Switch for Windows",
-  "pcpe": "cpe:/a:sendmail:sendmail_switch_for_windows"
+	"vid": "31",
+	"vname": "センドメール社",
+	"vcpe": "cpe:/:sendmail",
+	"pid": "175",
+	"pname": "Sendmail Switch for Windows",
+	"pcpe": "cpe:/a:sendmail:sendmail_switch_for_windows"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "54534",
-  "pname": "LDDR4 ファームウェア",
-  "pcpe": "cpe:/o:samsung:lddr4_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "54534",
+	"pname": "LDDR4 ファームウェア",
+	"pcpe": "cpe:/o:samsung:lddr4_firmware"
 }

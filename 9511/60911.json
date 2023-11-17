@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "60911",
-  "pname": "ds-a80624s ファームウェア",
-  "pcpe": "cpe:/o:hikvision:ds-a80624s_firmware"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "60911",
+	"pname": "ds-a80624s ファームウェア",
+	"pcpe": "cpe:/o:hikvision:ds-a80624s_firmware"
 }

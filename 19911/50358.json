@@ -1,8 +1,8 @@
 {
-  "vid": "19911",
-  "vname": "igt+ project",
-  "vcpe": "cpe:/:igt%2b_project",
-  "pid": "50358",
-  "pname": "igt+",
-  "pcpe": "cpe:/a:igt%2b_project:igt%2b"
+	"vid": "19911",
+	"vname": "igt+ project",
+	"vcpe": "cpe:/:igt%2b_project",
+	"pid": "50358",
+	"pname": "igt+",
+	"pcpe": "cpe:/a:igt%2b_project:igt%2b"
 }

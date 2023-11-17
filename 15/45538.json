@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "45538",
-  "pname": "PeopleSoft Enterprise HCM Candidate Gateway",
-  "pcpe": "cpe:/a:oracle:peoplesoft_enterprise_human_capital_management_candidate_gateway"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "45538",
+	"pname": "PeopleSoft Enterprise HCM Candidate Gateway",
+	"pcpe": "cpe:/a:oracle:peoplesoft_enterprise_human_capital_management_candidate_gateway"
 }

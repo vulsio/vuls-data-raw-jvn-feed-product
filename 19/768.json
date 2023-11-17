@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "768",
-  "pname": "Cisco ME1100 シリーズ",
-  "pcpe": "cpe:/h:cisco:me_1100"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "768",
+	"pname": "Cisco ME1100 シリーズ",
+	"pcpe": "cpe:/h:cisco:me_1100"
 }

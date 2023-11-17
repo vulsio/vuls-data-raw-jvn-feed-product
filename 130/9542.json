@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "9542",
-  "pname": "Intel Threading Building Blocks",
-  "pcpe": "cpe:/a:intel:threading_building_blocks"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "9542",
+	"pname": "Intel Threading Building Blocks",
+	"pcpe": "cpe:/a:intel:threading_building_blocks"
 }

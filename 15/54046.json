@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "54046",
-  "pname": "Oracle Database - Sharding",
-  "pcpe": "cpe:/a:oracle:database_-_sharding"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "54046",
+	"pname": "Oracle Database - Sharding",
+	"pcpe": "cpe:/a:oracle:database_-_sharding"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "41547",
-  "pname": "Valleylab Exchange Client",
-  "pcpe": "cpe:/a:medtronic:valleylab_exchange_client"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "41547",
+	"pname": "Valleylab Exchange Client",
+	"pcpe": "cpe:/a:medtronic:valleylab_exchange_client"
 }

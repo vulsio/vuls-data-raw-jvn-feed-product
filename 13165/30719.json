@@ -1,8 +1,8 @@
 {
-  "vid": "13165",
-  "vname": "Mirion Technologies",
-  "vcpe": "cpe:/:mirion_technologies",
-  "pid": "30719",
-  "pname": "RSD31-AM ファームウェア",
-  "pcpe": "cpe:/o:mirion_technologies:rsd31-am_firmware"
+	"vid": "13165",
+	"vname": "Mirion Technologies",
+	"vcpe": "cpe:/:mirion_technologies",
+	"pid": "30719",
+	"pname": "RSD31-AM ファームウェア",
+	"pcpe": "cpe:/o:mirion_technologies:rsd31-am_firmware"
 }

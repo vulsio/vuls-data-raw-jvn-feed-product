@@ -1,8 +1,8 @@
 {
-  "vid": "10734",
-  "vname": "foodplannerapp",
-  "vcpe": "cpe:/:foodplannerapp",
-  "pid": "22259",
-  "pname": "food planner",
-  "pcpe": "cpe:/a:foodplannerapp:food_planner"
+	"vid": "10734",
+	"vname": "foodplannerapp",
+	"vcpe": "cpe:/:foodplannerapp",
+	"pid": "22259",
+	"pname": "food planner",
+	"pcpe": "cpe:/a:foodplannerapp:food_planner"
 }

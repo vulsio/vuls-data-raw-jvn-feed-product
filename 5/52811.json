@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52811",
-  "pname": "QCS6125 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qcs6125_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52811",
+	"pname": "QCS6125 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qcs6125_firmware"
 }

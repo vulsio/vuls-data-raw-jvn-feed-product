@@ -1,8 +1,8 @@
 {
-  "vid": "19134",
-  "vname": "Secomea",
-  "vcpe": "cpe:/:secomea",
-  "pid": "49665",
-  "pname": "GateManager ファームウェア",
-  "pcpe": "cpe:/o:secomea:gatemanager_firmware"
+	"vid": "19134",
+	"vname": "Secomea",
+	"vcpe": "cpe:/:secomea",
+	"pid": "49665",
+	"pname": "GateManager ファームウェア",
+	"pcpe": "cpe:/o:secomea:gatemanager_firmware"
 }

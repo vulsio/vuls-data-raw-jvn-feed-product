@@ -1,8 +1,8 @@
 {
-  "vid": "12771",
-  "vname": "Webhammer",
-  "vcpe": "cpe:/:webhammer",
-  "pid": "29370",
-  "pname": "WP Custom Fields Search",
-  "pcpe": "cpe:/a:webhammer:wp-custom-fields-search"
+	"vid": "12771",
+	"vname": "Webhammer",
+	"vcpe": "cpe:/:webhammer",
+	"pid": "29370",
+	"pname": "WP Custom Fields Search",
+	"pcpe": "cpe:/a:webhammer:wp-custom-fields-search"
 }

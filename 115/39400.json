@@ -1,8 +1,8 @@
 {
-  "vid": "115",
-  "vname": "株式会社ネオジャパン",
-  "vcpe": "cpe:/:neo_japan",
-  "pid": "39400",
-  "pname": "Denbun IMAP",
-  "pcpe": "cpe:/a:neo_japan:denbun_imap"
+	"vid": "115",
+	"vname": "株式会社ネオジャパン",
+	"vcpe": "cpe:/:neo_japan",
+	"pid": "39400",
+	"pname": "Denbun IMAP",
+	"pcpe": "cpe:/a:neo_japan:denbun_imap"
 }

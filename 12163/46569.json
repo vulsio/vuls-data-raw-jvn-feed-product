@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "46569",
-  "pname": "Copy data to workspace",
-  "pcpe": "cpe:/a:jenkins:copy_data_to_workspace"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "46569",
+	"pname": "Copy data to workspace",
+	"pcpe": "cpe:/a:jenkins:copy_data_to_workspace"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23979",
-  "vname": "Genymotion",
-  "vcpe": "cpe:/:genymotion",
-  "pid": "62052",
-  "pname": "Genymotion Desktop",
-  "pcpe": "cpe:/a:genymotion:genymotion_desktop"
+	"vid": "23979",
+	"vname": "Genymotion",
+	"vcpe": "cpe:/:genymotion",
+	"pid": "62052",
+	"pname": "Genymotion Desktop",
+	"pcpe": "cpe:/a:genymotion:genymotion_desktop"
 }

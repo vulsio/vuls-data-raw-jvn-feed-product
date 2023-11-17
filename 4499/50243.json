@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "50243",
-  "pname": "RJ71GP21-SX ファームウェア",
-  "pcpe": "cpe:/o:mitsubishielectric:rj71gp21-sx_firmware"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "50243",
+	"pname": "RJ71GP21-SX ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:rj71gp21-sx_firmware"
 }

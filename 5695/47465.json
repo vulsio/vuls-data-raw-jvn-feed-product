@@ -1,8 +1,8 @@
 {
-  "vid": "5695",
-  "vname": "Mitel Networks Corporation",
-  "vcpe": "cpe:/:mitel",
-  "pid": "47465",
-  "pname": "ShoreTel ファームウェア",
-  "pcpe": "cpe:/o:mitel:shoretel_firmware"
+	"vid": "5695",
+	"vname": "Mitel Networks Corporation",
+	"vcpe": "cpe:/:mitel",
+	"pid": "47465",
+	"pname": "ShoreTel ファームウェア",
+	"pcpe": "cpe:/o:mitel:shoretel_firmware"
 }

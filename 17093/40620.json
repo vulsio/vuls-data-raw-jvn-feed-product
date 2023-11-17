@@ -1,8 +1,8 @@
 {
-  "vid": "17093",
-  "vname": "Scoreme project",
-  "vcpe": "cpe:/:scoreme_project",
-  "pid": "40620",
-  "pname": "Scoreme",
-  "pcpe": "cpe:/a:scoreme_project:scoreme"
+	"vid": "17093",
+	"vname": "Scoreme project",
+	"vcpe": "cpe:/:scoreme_project",
+	"pid": "40620",
+	"pname": "Scoreme",
+	"pcpe": "cpe:/a:scoreme_project:scoreme"
 }

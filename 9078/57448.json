@@ -1,8 +1,8 @@
 {
-  "vid": "9078",
-  "vname": "Spice Project",
-  "vcpe": "cpe:/:spice_project",
-  "pid": "57448",
-  "pname": "usbredir",
-  "pcpe": "cpe:/a:spice_project:usbredir"
+	"vid": "9078",
+	"vname": "Spice Project",
+	"vcpe": "cpe:/:spice_project",
+	"pid": "57448",
+	"pname": "usbredir",
+	"pcpe": "cpe:/a:spice_project:usbredir"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12307",
-  "vname": "Bluestacks",
-  "vcpe": "cpe:/:bluestacks",
-  "pid": "27630",
-  "pname": "BlueStacks App Player",
-  "pcpe": "cpe:/a:bluestacks:bluestacks"
+	"vid": "12307",
+	"vname": "Bluestacks",
+	"vcpe": "cpe:/:bluestacks",
+	"pid": "27630",
+	"pname": "BlueStacks App Player",
+	"pcpe": "cpe:/a:bluestacks:bluestacks"
 }

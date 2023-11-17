@@ -1,8 +1,8 @@
 {
-  "vid": "3050",
-  "vname": "cybozu labs",
-  "vcpe": "cpe:/:cybozu_labs",
-  "pid": "7100",
-  "pname": "musoo",
-  "pcpe": "cpe:/a:cybozu_labs:musoo"
+	"vid": "3050",
+	"vname": "cybozu labs",
+	"vcpe": "cpe:/:cybozu_labs",
+	"pid": "7100",
+	"pname": "musoo",
+	"pcpe": "cpe:/a:cybozu_labs:musoo"
 }

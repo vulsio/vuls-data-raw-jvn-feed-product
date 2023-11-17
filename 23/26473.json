@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "26473",
-  "pname": "Norton Security with Backup",
-  "pcpe": "cpe:/a:symantec:norton_security_with_backup"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "26473",
+	"pname": "Norton Security with Backup",
+	"pcpe": "cpe:/a:symantec:norton_security_with_backup"
 }

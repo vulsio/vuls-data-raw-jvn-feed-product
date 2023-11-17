@@ -1,8 +1,8 @@
 {
-  "vid": "6487",
-  "vname": "JAMF Software",
-  "vcpe": "cpe:/:jamf",
-  "pid": "37663",
-  "pname": "Self Service",
-  "pcpe": "cpe:/a:jamf:self_service"
+	"vid": "6487",
+	"vname": "JAMF Software",
+	"vcpe": "cpe:/:jamf",
+	"pid": "37663",
+	"pname": "Self Service",
+	"pcpe": "cpe:/a:jamf:self_service"
 }

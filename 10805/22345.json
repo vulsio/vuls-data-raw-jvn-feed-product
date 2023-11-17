@@ -1,8 +1,8 @@
 {
-  "vid": "10805",
-  "vname": "gencat",
-  "vcpe": "cpe:/:gencat",
-  "pid": "22345",
-  "pname": "artacces",
-  "pcpe": "cpe:/a:gencat:artacces"
+	"vid": "10805",
+	"vname": "gencat",
+	"vcpe": "cpe:/:gencat",
+	"pid": "22345",
+	"pname": "artacces",
+	"pcpe": "cpe:/a:gencat:artacces"
 }

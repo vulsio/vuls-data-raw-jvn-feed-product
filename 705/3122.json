@@ -1,8 +1,8 @@
 {
-  "vid": "705",
-  "vname": "MH Products",
-  "vcpe": "cpe:/:mhproducts",
-  "pid": "3122",
-  "pname": "Kleinanzeigenmarkt",
-  "pcpe": "cpe:/a:mhproducts:kleinanzeigenmarkt"
+	"vid": "705",
+	"vname": "MH Products",
+	"vcpe": "cpe:/:mhproducts",
+	"pid": "3122",
+	"pname": "Kleinanzeigenmarkt",
+	"pcpe": "cpe:/a:mhproducts:kleinanzeigenmarkt"
 }

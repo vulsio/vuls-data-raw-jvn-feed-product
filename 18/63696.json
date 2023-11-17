@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "63696",
-  "pname": "IBM Navigator Mobile",
-  "pcpe": "cpe:/a:ibm:navigator_mobile"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "63696",
+	"pname": "IBM Navigator Mobile",
+	"pcpe": "cpe:/a:ibm:navigator_mobile"
 }

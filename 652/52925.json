@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "52925",
-  "pname": "Samsung Theme",
-  "pcpe": "cpe:/a:samsung:themes"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "52925",
+	"pname": "Samsung Theme",
+	"pcpe": "cpe:/a:samsung:themes"
 }

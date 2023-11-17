@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "19770",
-  "pname": "AT-RG634A",
-  "pcpe": "cpe:/h:allied_telesis_k.k.:at-rg634a"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "19770",
+	"pname": "AT-RG634A",
+	"pcpe": "cpe:/h:allied_telesis_k.k.:at-rg634a"
 }

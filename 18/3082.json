@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "3082",
-  "pname": "IBM DB2 Tools",
-  "pcpe": "cpe:/a:ibm:db2_tools"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "3082",
+	"pname": "IBM DB2 Tools",
+	"pcpe": "cpe:/a:ibm:db2_tools"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "38383",
-  "pname": "Oracle Territory Management",
-  "pcpe": "cpe:/a:oracle:territory_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "38383",
+	"pname": "Oracle Territory Management",
+	"pcpe": "cpe:/a:oracle:territory_management"
 }

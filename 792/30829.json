@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "30829",
-  "pname": "VMG8324-B10A ファームウェア",
-  "pcpe": "cpe:/o:zyxel:vmg8324-b10a_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "30829",
+	"pname": "VMG8324-B10A ファームウェア",
+	"pcpe": "cpe:/o:zyxel:vmg8324-b10a_firmware"
 }

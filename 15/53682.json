@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53682",
-  "pname": "Oracle Insurance Data Gateway",
-  "pcpe": "cpe:/a:oracle:insurance_data_gateway"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53682",
+	"pname": "Oracle Insurance Data Gateway",
+	"pcpe": "cpe:/a:oracle:insurance_data_gateway"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "44348",
-  "pname": "Juniper Advanced Threat Prevention (JATP)",
-  "pcpe": "cpe:/a:juniper:advanced_threat_protection"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "44348",
+	"pname": "Juniper Advanced Threat Prevention (JATP)",
+	"pcpe": "cpe:/a:juniper:advanced_threat_protection"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22935",
-  "vname": "rti",
-  "vcpe": "cpe:/:rti",
-  "pid": "59130",
-  "pname": "connext dds professional",
-  "pcpe": "cpe:/a:rti:connext_dds_professional"
+	"vid": "22935",
+	"vname": "rti",
+	"vcpe": "cpe:/:rti",
+	"pid": "59130",
+	"pname": "connext dds professional",
+	"pcpe": "cpe:/a:rti:connext_dds_professional"
 }

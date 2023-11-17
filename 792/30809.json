@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "30809",
-  "pname": "C1000Z ファームウェア",
-  "pcpe": "cpe:/o:zyxel:c1000z_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "30809",
+	"pname": "C1000Z ファームウェア",
+	"pcpe": "cpe:/o:zyxel:c1000z_firmware"
 }

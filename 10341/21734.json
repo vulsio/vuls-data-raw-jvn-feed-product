@@ -1,8 +1,8 @@
 {
-  "vid": "10341",
-  "vname": "株式会社スクウェア・エニックス",
-  "vcpe": "cpe:/:square_enix_co_ltd",
-  "pid": "21734",
-  "pname": "Android 版 拡散性ミリオンアーサー",
-  "pcpe": "cpe:/a:square_enix_co_ltd:kaku_san_sei_million_aruthur"
+	"vid": "10341",
+	"vname": "株式会社スクウェア・エニックス",
+	"vcpe": "cpe:/:square_enix_co_ltd",
+	"pid": "21734",
+	"pname": "Android 版 拡散性ミリオンアーサー",
+	"pcpe": "cpe:/a:square_enix_co_ltd:kaku_san_sei_million_aruthur"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "46696",
-  "pname": "Lenovo Enterprise Network Disk",
-  "pcpe": "cpe:/a:lenovo:enterprise_network_disk"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "46696",
+	"pname": "Lenovo Enterprise Network Disk",
+	"pcpe": "cpe:/a:lenovo:enterprise_network_disk"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "238",
-  "pname": "AT-Mail Server",
-  "pcpe": "cpe:/a:allied_telesis_k.k.:at-mail_server"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "238",
+	"pname": "AT-Mail Server",
+	"pcpe": "cpe:/a:allied_telesis_k.k.:at-mail_server"
 }

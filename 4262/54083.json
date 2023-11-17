@@ -1,8 +1,8 @@
 {
-  "vid": "4262",
-  "vname": "ジョンソンコントロールズ",
-  "vcpe": "cpe:/:johnsoncontrols",
-  "pid": "54083",
-  "pname": "CEVAS",
-  "pcpe": "cpe:/a:johnsoncontrols:cevas"
+	"vid": "4262",
+	"vname": "ジョンソンコントロールズ",
+	"vcpe": "cpe:/:johnsoncontrols",
+	"pid": "54083",
+	"pname": "CEVAS",
+	"pcpe": "cpe:/a:johnsoncontrols:cevas"
 }

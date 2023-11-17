@@ -1,8 +1,8 @@
 {
-  "vid": "4228",
-  "vname": "Shlomi Fish",
-  "vcpe": "cpe:/:shlomi_fish",
-  "pid": "8943",
-  "pname": "Config::IniFiles",
-  "pcpe": "cpe:/a:shlomi_fish:config-inifiles"
+	"vid": "4228",
+	"vname": "Shlomi Fish",
+	"vcpe": "cpe:/:shlomi_fish",
+	"pid": "8943",
+	"pname": "Config::IniFiles",
+	"pcpe": "cpe:/a:shlomi_fish:config-inifiles"
 }

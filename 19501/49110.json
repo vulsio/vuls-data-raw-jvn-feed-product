@@ -1,8 +1,8 @@
 {
-  "vid": "19501",
-  "vname": "tokio",
-  "vcpe": "cpe:/:tokio",
-  "pid": "49110",
-  "pname": "tokio-rustls",
-  "pcpe": "cpe:/a:tokio:tokio-rustls"
+	"vid": "19501",
+	"vname": "tokio",
+	"vcpe": "cpe:/:tokio",
+	"pid": "49110",
+	"pname": "tokio-rustls",
+	"pcpe": "cpe:/a:tokio:tokio-rustls"
 }

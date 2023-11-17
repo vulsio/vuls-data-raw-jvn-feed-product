@@ -1,8 +1,8 @@
 {
-  "vid": "12093",
-  "vname": "Belden Inc.",
-  "vcpe": "cpe:/:belden",
-  "pid": "32948",
-  "pname": "Hirschmann MACH4000",
-  "pcpe": "cpe:/h:belden:hirschmann_mach4000"
+	"vid": "12093",
+	"vname": "Belden Inc.",
+	"vcpe": "cpe:/:belden",
+	"pid": "32948",
+	"pname": "Hirschmann MACH4000",
+	"pcpe": "cpe:/h:belden:hirschmann_mach4000"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17246",
-  "pname": "Cisco WebEx Node for ASR 1000 シリーズ",
-  "pcpe": "cpe:/a:cisco:webex_node_for_asr_1000_series"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17246",
+	"pname": "Cisco WebEx Node for ASR 1000 シリーズ",
+	"pcpe": "cpe:/a:cisco:webex_node_for_asr_1000_series"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "64365",
-  "pname": "infinity dc power plant",
-  "pcpe": "cpe:/a:abb:infinity_dc_power_plant"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "64365",
+	"pname": "infinity dc power plant",
+	"pcpe": "cpe:/a:abb:infinity_dc_power_plant"
 }

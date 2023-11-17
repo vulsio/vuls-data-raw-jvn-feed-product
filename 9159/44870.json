@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "44870",
-  "pname": "IntelliBridge Enterprise",
-  "pcpe": "cpe:/a:philips:intellibridge_enterprise"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "44870",
+	"pname": "IntelliBridge Enterprise",
+	"pcpe": "cpe:/a:philips:intellibridge_enterprise"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "35716",
-  "pname": "SUSE Linux SMT",
-  "pcpe": "cpe:/a:suse:subscription_management_tool"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "35716",
+	"pname": "SUSE Linux SMT",
+	"pcpe": "cpe:/a:suse:subscription_management_tool"
 }

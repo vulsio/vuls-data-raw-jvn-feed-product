@@ -1,8 +1,8 @@
 {
-  "vid": "11361",
-  "vname": "Heirloom",
-  "vcpe": "cpe:/:heirloom",
-  "pid": "23128",
-  "pname": "Heirloom mailx",
-  "pcpe": "cpe:/a:heirloom:mailx"
+	"vid": "11361",
+	"vname": "Heirloom",
+	"vcpe": "cpe:/:heirloom",
+	"pid": "23128",
+	"pname": "Heirloom mailx",
+	"pcpe": "cpe:/a:heirloom:mailx"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18541",
-  "vname": "node-oojs project",
-  "vcpe": "cpe:/:node-oojs_project",
-  "pid": "55776",
-  "pname": "node-oojs",
-  "pcpe": "cpe:/a:node-oojs_project:node-oojs"
+	"vid": "18541",
+	"vname": "node-oojs project",
+	"vcpe": "cpe:/:node-oojs_project",
+	"pid": "55776",
+	"pname": "node-oojs",
+	"pcpe": "cpe:/a:node-oojs_project:node-oojs"
 }

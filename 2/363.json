@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "363",
-  "pname": "Microsoft OneNote",
-  "pcpe": "cpe:/a:microsoft:onenote"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "363",
+	"pname": "Microsoft OneNote",
+	"pcpe": "cpe:/a:microsoft:onenote"
 }

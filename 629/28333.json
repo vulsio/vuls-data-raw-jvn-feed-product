@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "28333",
-  "pname": "AWK-3191 ファームウェア",
-  "pcpe": "cpe:/o:moxa:awk-3191_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "28333",
+	"pname": "AWK-3191 ファームウェア",
+	"pcpe": "cpe:/o:moxa:awk-3191_firmware"
 }

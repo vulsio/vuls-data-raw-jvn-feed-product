@@ -1,8 +1,8 @@
 {
-  "vid": "20929",
-  "vname": "Visual Tools",
-  "vcpe": "cpe:/:visual-tools",
-  "pid": "53451",
-  "pname": "DVR VX16 ファームウェア",
-  "pcpe": "cpe:/o:visual-tools:dvr_vx16_firmware"
+	"vid": "20929",
+	"vname": "Visual Tools",
+	"vcpe": "cpe:/:visual-tools",
+	"pid": "53451",
+	"pname": "DVR VX16 ファームウェア",
+	"pcpe": "cpe:/o:visual-tools:dvr_vx16_firmware"
 }

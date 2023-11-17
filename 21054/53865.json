@@ -1,8 +1,8 @@
 {
-  "vid": "21054",
-  "vname": "Zibbs project",
-  "vcpe": "cpe:/:zibbs_project",
-  "pid": "53865",
-  "pname": "Zibbs",
-  "pcpe": "cpe:/a:zibbs_project:zibbs"
+	"vid": "21054",
+	"vname": "Zibbs project",
+	"vcpe": "cpe:/:zibbs_project",
+	"pid": "53865",
+	"pname": "Zibbs",
+	"pcpe": "cpe:/a:zibbs_project:zibbs"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2187",
-  "vname": "altiris",
-  "vcpe": "cpe:/:altiris",
-  "pid": "5753",
-  "pname": "deployment solution",
-  "pcpe": "cpe:/a:altiris:deployment_solution"
+	"vid": "2187",
+	"vname": "altiris",
+	"vcpe": "cpe:/:altiris",
+	"pid": "5753",
+	"pname": "deployment solution",
+	"pcpe": "cpe:/a:altiris:deployment_solution"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8740",
-  "vname": "zipstore",
-  "vcpe": "cpe:/:zipstore",
-  "pid": "16548",
-  "pname": "zip store chat",
-  "pcpe": "cpe:/a:zipstore:zip_store_chat"
+	"vid": "8740",
+	"vname": "zipstore",
+	"vcpe": "cpe:/:zipstore",
+	"pid": "16548",
+	"pname": "zip store chat",
+	"pcpe": "cpe:/a:zipstore:zip_store_chat"
 }

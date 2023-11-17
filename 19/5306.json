@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5306",
-  "pname": "Cisco Catalyst 6513 スイッチ",
-  "pcpe": "cpe:/h:cisco:catalyst_6513"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5306",
+	"pname": "Cisco Catalyst 6513 スイッチ",
+	"pcpe": "cpe:/h:cisco:catalyst_6513"
 }

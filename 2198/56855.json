@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "56855",
-  "pname": "Z-7035 ファームウェア",
-  "pcpe": "cpe:/o:amd:xilinx_z-7035_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "56855",
+	"pname": "Z-7035 ファームウェア",
+	"pcpe": "cpe:/o:amd:xilinx_z-7035_firmware"
 }

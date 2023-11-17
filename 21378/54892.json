@@ -1,8 +1,8 @@
 {
-  "vid": "21378",
-  "vname": "StarWind Software Inc.",
-  "vcpe": "cpe:/:starwindsoftware",
-  "pid": "54892",
-  "pname": "StarWind Virtual SAN",
-  "pcpe": "cpe:/a:starwindsoftware:starwind_virtual_san"
+	"vid": "21378",
+	"vname": "StarWind Software Inc.",
+	"vcpe": "cpe:/:starwindsoftware",
+	"pid": "54892",
+	"pname": "StarWind Virtual SAN",
+	"pcpe": "cpe:/a:starwindsoftware:starwind_virtual_san"
 }

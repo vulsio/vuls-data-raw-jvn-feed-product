@@ -1,8 +1,8 @@
 {
-  "vid": "23415",
-  "vname": "Promotion Slider project",
-  "vcpe": "cpe:/:promotion_slider_project",
-  "pid": "60687",
-  "pname": "Promotion Slider",
-  "pcpe": "cpe:/a:promotion_slider_project:promotion_slider"
+	"vid": "23415",
+	"vname": "Promotion Slider project",
+	"vcpe": "cpe:/:promotion_slider_project",
+	"pid": "60687",
+	"pname": "Promotion Slider",
+	"pcpe": "cpe:/a:promotion_slider_project:promotion_slider"
 }

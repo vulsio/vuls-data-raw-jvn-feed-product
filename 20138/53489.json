@@ -1,8 +1,8 @@
 {
-  "vid": "20138",
-  "vname": "LANCOM Systems GmbH",
-  "vcpe": "cpe:/:lancom-systems",
-  "pid": "53489",
-  "pname": "LCOS",
-  "pcpe": "cpe:/o:lancom-systems:lcos"
+	"vid": "20138",
+	"vname": "LANCOM Systems GmbH",
+	"vcpe": "cpe:/:lancom-systems",
+	"pid": "53489",
+	"pname": "LCOS",
+	"pcpe": "cpe:/o:lancom-systems:lcos"
 }

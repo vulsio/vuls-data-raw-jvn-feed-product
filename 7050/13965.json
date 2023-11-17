@@ -1,8 +1,8 @@
 {
-  "vid": "7050",
-  "vname": "postnuke software foundation",
-  "vcpe": "cpe:/:postnuke_software_foundation",
-  "pid": "13965",
-  "pname": "postschedule",
-  "pcpe": "cpe:/a:postnuke_software_foundation:postschedule"
+	"vid": "7050",
+	"vname": "postnuke software foundation",
+	"vcpe": "cpe:/:postnuke_software_foundation",
+	"pid": "13965",
+	"pname": "postschedule",
+	"pcpe": "cpe:/a:postnuke_software_foundation:postschedule"
 }

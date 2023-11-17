@@ -1,8 +1,8 @@
 {
-  "vid": "13150",
-  "vname": "hbgk.net",
-  "vcpe": "cpe:/:hbgk",
-  "pid": "30649",
-  "pname": "HB7008T2 ファームウェア",
-  "pcpe": "cpe:/o:hbgk:hb7008t2_firmware"
+	"vid": "13150",
+	"vname": "hbgk.net",
+	"vcpe": "cpe:/:hbgk",
+	"pid": "30649",
+	"pname": "HB7008T2 ファームウェア",
+	"pcpe": "cpe:/o:hbgk:hb7008t2_firmware"
 }

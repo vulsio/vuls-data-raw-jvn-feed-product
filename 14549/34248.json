@@ -1,8 +1,8 @@
 {
-  "vid": "14549",
-  "vname": "PELOCoinToken project",
-  "vcpe": "cpe:/:pelocointoken_project",
-  "pid": "34248",
-  "pname": "PELOCoinToken",
-  "pcpe": "cpe:/a:pelocointoken_project:pelocointoken"
+	"vid": "14549",
+	"vname": "PELOCoinToken project",
+	"vcpe": "cpe:/:pelocointoken_project",
+	"pid": "34248",
+	"pname": "PELOCoinToken",
+	"pcpe": "cpe:/a:pelocointoken_project:pelocointoken"
 }

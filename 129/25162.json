@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "25162",
-  "pname": "BIG-IP",
-  "pcpe": "cpe:/h:hitachi:bigip"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "25162",
+	"pname": "BIG-IP",
+	"pcpe": "cpe:/h:hitachi:bigip"
 }

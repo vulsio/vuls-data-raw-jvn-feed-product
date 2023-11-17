@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31322",
-  "pname": "SHOTX ファームウェア",
-  "pcpe": "cpe:/o:huawei:shotx_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31322",
+	"pname": "SHOTX ファームウェア",
+	"pcpe": "cpe:/o:huawei:shotx_firmware"
 }

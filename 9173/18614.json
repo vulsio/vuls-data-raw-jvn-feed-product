@@ -1,8 +1,8 @@
 {
-  "vid": "9173",
-  "vname": "Alpha Networks",
-  "vcpe": "cpe:/:alphanetworks",
-  "pid": "18614",
-  "pname": "VDSL Wired Router (ASL-55052)",
-  "pcpe": "cpe:/h:alphanetworks:vdsl_asl-55052"
+	"vid": "9173",
+	"vname": "Alpha Networks",
+	"vcpe": "cpe:/:alphanetworks",
+	"pid": "18614",
+	"pname": "VDSL Wired Router (ASL-55052)",
+	"pcpe": "cpe:/h:alphanetworks:vdsl_asl-55052"
 }

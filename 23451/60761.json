@@ -1,8 +1,8 @@
 {
-  "vid": "23451",
-  "vname": "python-ldap",
-  "vcpe": "cpe:/:python-ldap",
-  "pid": "60761",
-  "pname": "python-ldap",
-  "pcpe": "cpe:/a:python-ldap:python-ldap"
+	"vid": "23451",
+	"vname": "python-ldap",
+	"vcpe": "cpe:/:python-ldap",
+	"pid": "60761",
+	"pname": "python-ldap",
+	"pcpe": "cpe:/a:python-ldap:python-ldap"
 }

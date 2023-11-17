@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "11511",
-  "pname": "expression media",
-  "pcpe": "cpe:/a:microsoft:expression_media"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "11511",
+	"pname": "expression media",
+	"pcpe": "cpe:/a:microsoft:expression_media"
 }

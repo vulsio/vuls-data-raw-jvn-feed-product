@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27175",
-  "pname": "Primavera P6 Professional Project Management",
-  "pcpe": "cpe:/a:oracle:primavera_p6_professional_project_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27175",
+	"pname": "Primavera P6 Professional Project Management",
+	"pcpe": "cpe:/a:oracle:primavera_p6_professional_project_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "298",
-  "vname": "stunnel",
-  "vcpe": "cpe:/:stunnel",
-  "pid": "1069",
-  "pname": "stunnel",
-  "pcpe": "cpe:/a:stunnel:stunnel"
+	"vid": "298",
+	"vname": "stunnel",
+	"vcpe": "cpe:/:stunnel",
+	"pid": "1069",
+	"pname": "stunnel",
+	"pcpe": "cpe:/a:stunnel:stunnel"
 }

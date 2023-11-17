@@ -1,8 +1,8 @@
 {
-  "vid": "784",
-  "vname": "Technicolor",
-  "vcpe": "cpe:/:technicolor",
-  "pid": "30453",
-  "pname": "TD5336 ファームウェア",
-  "pcpe": "cpe:/o:technicolor:td5336_firmware"
+	"vid": "784",
+	"vname": "Technicolor",
+	"vcpe": "cpe:/:technicolor",
+	"pid": "30453",
+	"pname": "TD5336 ファームウェア",
+	"pcpe": "cpe:/o:technicolor:td5336_firmware"
 }

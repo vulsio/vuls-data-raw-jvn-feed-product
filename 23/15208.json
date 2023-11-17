@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15208",
-  "pname": "Norton Ghost",
-  "pcpe": "cpe:/a:symantec:norton_ghost"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15208",
+	"pname": "Norton Ghost",
+	"pcpe": "cpe:/a:symantec:norton_ghost"
 }

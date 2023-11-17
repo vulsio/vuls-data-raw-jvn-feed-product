@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "44713",
-  "pname": "SCM Filter Jervis",
-  "pcpe": "cpe:/a:jenkins:source_code_management_filter_jervis"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "44713",
+	"pname": "SCM Filter Jervis",
+	"pcpe": "cpe:/a:jenkins:source_code_management_filter_jervis"
 }

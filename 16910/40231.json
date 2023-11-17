@@ -1,8 +1,8 @@
 {
-  "vid": "16910",
-  "vname": "AltaVoz",
-  "vcpe": "cpe:/:altavoz",
-  "pid": "40231",
-  "pname": "Prontus CMS",
-  "pcpe": "cpe:/a:altavoz:prontuscms"
+	"vid": "16910",
+	"vname": "AltaVoz",
+	"vcpe": "cpe:/:altavoz",
+	"pid": "40231",
+	"pname": "Prontus CMS",
+	"pcpe": "cpe:/a:altavoz:prontuscms"
 }

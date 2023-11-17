@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "23350",
-  "pname": "ADAMView",
-  "pcpe": "cpe:/a:advantech:adamview"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "23350",
+	"pname": "ADAMView",
+	"pcpe": "cpe:/a:advantech:adamview"
 }

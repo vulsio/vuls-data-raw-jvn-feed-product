@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "23399",
-  "pname": "CentreCOM AR300L",
-  "pcpe": "cpe:/h:allied_telesis_k.k.:centrecom_ar300l"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "23399",
+	"pname": "CentreCOM AR300L",
+	"pcpe": "cpe:/h:allied_telesis_k.k.:centrecom_ar300l"
 }

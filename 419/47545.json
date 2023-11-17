@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "47545",
-  "pname": "StorageGRID ファームウェア",
-  "pcpe": "cpe:/o:netapp:storagegrid_firmware"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "47545",
+	"pname": "StorageGRID ファームウェア",
+	"pcpe": "cpe:/o:netapp:storagegrid_firmware"
 }

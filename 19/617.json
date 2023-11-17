@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "617",
-  "pname": "Cisco BTS 10200 Softswitch",
-  "pcpe": "cpe:/a:cisco:bts_softswitch_10200"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "617",
+	"pname": "Cisco BTS 10200 Softswitch",
+	"pcpe": "cpe:/a:cisco:bts_softswitch_10200"
 }

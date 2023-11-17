@@ -1,8 +1,8 @@
 {
-  "vid": "1299",
-  "vname": "FRISK Software International",
-  "vcpe": "cpe:/:f-prot",
-  "pid": "4104",
-  "pname": "F-Prot Antivirus",
-  "pcpe": "cpe:/a:f-prot:f-prot_antivirus"
+	"vid": "1299",
+	"vname": "FRISK Software International",
+	"vcpe": "cpe:/:f-prot",
+	"pid": "4104",
+	"pname": "F-Prot Antivirus",
+	"pcpe": "cpe:/a:f-prot:f-prot_antivirus"
 }

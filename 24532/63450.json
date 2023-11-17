@@ -1,8 +1,8 @@
 {
-  "vid": "24532",
-  "vname": "wayos",
-  "vcpe": "cpe:/:wayos",
-  "pid": "63450",
-  "pname": "lq-04 ファームウェア",
-  "pcpe": "cpe:/o:wayos:lq-04_firmware"
+	"vid": "24532",
+	"vname": "wayos",
+	"vcpe": "cpe:/:wayos",
+	"pid": "63450",
+	"pname": "lq-04 ファームウェア",
+	"pcpe": "cpe:/o:wayos:lq-04_firmware"
 }

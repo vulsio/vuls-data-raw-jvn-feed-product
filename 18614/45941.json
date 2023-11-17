@@ -1,8 +1,8 @@
 {
-  "vid": "18614",
-  "vname": "TURCom",
-  "vcpe": "cpe:/:turcom",
-  "pid": "45941",
-  "pname": "TRCwifizone",
-  "pcpe": "cpe:/a:turcom:trcwifizone"
+	"vid": "18614",
+	"vname": "TURCom",
+	"vcpe": "cpe:/:turcom",
+	"pid": "45941",
+	"pname": "TRCwifizone",
+	"pcpe": "cpe:/a:turcom:trcwifizone"
 }

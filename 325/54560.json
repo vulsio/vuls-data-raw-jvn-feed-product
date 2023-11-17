@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "54560",
-  "pname": "IdeaCentre M60e Tiny ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m60e_tiny_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "54560",
+	"pname": "IdeaCentre M60e Tiny ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m60e_tiny_firmware"
 }

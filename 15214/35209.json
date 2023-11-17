@@ -1,8 +1,8 @@
 {
-  "vid": "15214",
-  "vname": "Ribbon Communications",
-  "vcpe": "cpe:/:ribboncommunications",
-  "pid": "35209",
-  "pname": "Sonus SBC 1000 ファームウェア",
-  "pcpe": "cpe:/o:ribboncommunications:sonus_sbc_1000_firmware"
+	"vid": "15214",
+	"vname": "Ribbon Communications",
+	"vcpe": "cpe:/:ribboncommunications",
+	"pid": "35209",
+	"pname": "Sonus SBC 1000 ファームウェア",
+	"pcpe": "cpe:/o:ribboncommunications:sonus_sbc_1000_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "829",
-  "vname": "MyBB Group",
-  "vcpe": "cpe:/:mybb",
-  "pid": "27818",
-  "pname": "Merge System",
-  "pcpe": "cpe:/a:mybb:merge_system"
+	"vid": "829",
+	"vname": "MyBB Group",
+	"vcpe": "cpe:/:mybb",
+	"pid": "27818",
+	"pname": "Merge System",
+	"pcpe": "cpe:/a:mybb:merge_system"
 }

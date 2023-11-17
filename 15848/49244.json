@@ -1,8 +1,8 @@
 {
-  "vid": "15848",
-  "vname": "Skyworth Digital Holdings Ltd.",
-  "vcpe": "cpe:/:skyworthdigital",
-  "pid": "49244",
-  "pname": "GN542VF ファームウェア",
-  "pcpe": "cpe:/o:skyworthdigital:gn542vf_firmware"
+	"vid": "15848",
+	"vname": "Skyworth Digital Holdings Ltd.",
+	"vcpe": "cpe:/:skyworthdigital",
+	"pid": "49244",
+	"pname": "GN542VF ファームウェア",
+	"pcpe": "cpe:/o:skyworthdigital:gn542vf_firmware"
 }

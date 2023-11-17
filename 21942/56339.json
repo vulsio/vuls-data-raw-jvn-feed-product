@@ -1,8 +1,8 @@
 {
-  "vid": "21942",
-  "vname": "Casbin",
-  "vcpe": "cpe:/:casbin",
-  "pid": "56339",
-  "pname": "Casdoor",
-  "pcpe": "cpe:/a:casbin:casdoor"
+	"vid": "21942",
+	"vname": "Casbin",
+	"vcpe": "cpe:/:casbin",
+	"pid": "56339",
+	"pname": "Casdoor",
+	"pcpe": "cpe:/a:casbin:casdoor"
 }

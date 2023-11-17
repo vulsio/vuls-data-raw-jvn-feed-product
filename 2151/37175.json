@@ -1,8 +1,8 @@
 {
-  "vid": "2151",
-  "vname": "Alibaba Group",
-  "vcpe": "cpe:/:alibaba",
-  "pid": "37175",
-  "pname": "Fastjson",
-  "pcpe": "cpe:/a:alibaba:fastjson"
+	"vid": "2151",
+	"vname": "Alibaba Group",
+	"vcpe": "cpe:/:alibaba",
+	"pid": "37175",
+	"pname": "Fastjson",
+	"pcpe": "cpe:/a:alibaba:fastjson"
 }

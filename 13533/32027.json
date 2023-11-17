@@ -1,8 +1,8 @@
 {
-  "vid": "13533",
-  "vname": "Nylas Mail Lives project",
-  "vcpe": "cpe:/:nylas_mail_lives_project",
-  "pid": "32027",
-  "pname": "Nylas Mail",
-  "pcpe": "cpe:/a:nylas_mail_lives_project:nylas_mail"
+	"vid": "13533",
+	"vname": "Nylas Mail Lives project",
+	"vcpe": "cpe:/:nylas_mail_lives_project",
+	"pid": "32027",
+	"pname": "Nylas Mail",
+	"pcpe": "cpe:/a:nylas_mail_lives_project:nylas_mail"
 }

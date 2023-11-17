@@ -1,8 +1,8 @@
 {
-  "vid": "9097",
-  "vname": "Id Software",
-  "vcpe": "cpe:/:id",
-  "pid": "18149",
-  "pname": "libdigidoc",
-  "pcpe": "cpe:/a:id:libdigidoc"
+	"vid": "9097",
+	"vname": "Id Software",
+	"vcpe": "cpe:/:id",
+	"pid": "18149",
+	"pname": "libdigidoc",
+	"pcpe": "cpe:/a:id:libdigidoc"
 }

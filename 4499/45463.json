@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "45463",
-  "pname": "CPU ユニットロギング設定ツール",
-  "pcpe": "cpe:/a:mitsubishielectric:cpu_module_logging_configuration_tool"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "45463",
+	"pname": "CPU ユニットロギング設定ツール",
+	"pcpe": "cpe:/a:mitsubishielectric:cpu_module_logging_configuration_tool"
 }

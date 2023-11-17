@@ -1,8 +1,8 @@
 {
-  "vid": "21058",
-  "vname": "BracketSpace",
-  "vcpe": "cpe:/:bracketspace",
-  "pid": "53875",
-  "pname": "Notification",
-  "pcpe": "cpe:/a:bracketspace:notification"
+	"vid": "21058",
+	"vname": "BracketSpace",
+	"vcpe": "cpe:/:bracketspace",
+	"pid": "53875",
+	"pname": "Notification",
+	"pcpe": "cpe:/a:bracketspace:notification"
 }

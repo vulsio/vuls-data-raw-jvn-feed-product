@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "31265",
-  "pname": "SuSEfirewall2",
-  "pcpe": "cpe:/a:suse:susefirewall2"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "31265",
+	"pname": "SuSEfirewall2",
+	"pcpe": "cpe:/a:suse:susefirewall2"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12022",
-  "vname": "Chat Room project",
-  "vcpe": "cpe:/:chat_room_project",
-  "pid": "25180",
-  "pname": "Chat Room",
-  "pcpe": "cpe:/a:chat_room_project:chat_room"
+	"vid": "12022",
+	"vname": "Chat Room project",
+	"vcpe": "cpe:/:chat_room_project",
+	"pid": "25180",
+	"pname": "Chat Room",
+	"pcpe": "cpe:/a:chat_room_project:chat_room"
 }

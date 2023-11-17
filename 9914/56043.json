@@ -1,8 +1,8 @@
 {
-  "vid": "9914",
-  "vname": "H3C",
-  "vcpe": "cpe:/:h3c",
-  "pid": "56043",
-  "pname": "SecPath F5010 ファームウェア",
-  "pcpe": "cpe:/o:h3c:secpath_f5010_firmware"
+	"vid": "9914",
+	"vname": "H3C",
+	"vcpe": "cpe:/:h3c",
+	"pid": "56043",
+	"pname": "SecPath F5010 ファームウェア",
+	"pcpe": "cpe:/o:h3c:secpath_f5010_firmware"
 }

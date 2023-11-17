@@ -1,8 +1,8 @@
 {
-  "vid": "12837",
-  "vname": "LibSass",
-  "vcpe": "cpe:/:libsass",
-  "pid": "29567",
-  "pname": "LibSass",
-  "pcpe": "cpe:/a:libsass:libsass"
+	"vid": "12837",
+	"vname": "LibSass",
+	"vcpe": "cpe:/:libsass",
+	"pid": "29567",
+	"pname": "LibSass",
+	"pcpe": "cpe:/a:libsass:libsass"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24052",
-  "vname": "Custom Content Type Manager project",
-  "vcpe": "cpe:/:custom_content_type_manager_project",
-  "pid": "62211",
-  "pname": "Custom Content Type Manager",
-  "pcpe": "cpe:/a:custom_content_type_manager_project:custom_content_type_manager"
+	"vid": "24052",
+	"vname": "Custom Content Type Manager project",
+	"vcpe": "cpe:/:custom_content_type_manager_project",
+	"pid": "62211",
+	"pname": "Custom Content Type Manager",
+	"pcpe": "cpe:/a:custom_content_type_manager_project:custom_content_type_manager"
 }

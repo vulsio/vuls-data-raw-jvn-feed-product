@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "31303",
-  "pname": "TIBCO Jaspersoft Reporting and Analytics",
-  "pcpe": "cpe:/a:tibco:jaspersoft_reporting_and_analytics"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "31303",
+	"pname": "TIBCO Jaspersoft Reporting and Analytics",
+	"pcpe": "cpe:/a:tibco:jaspersoft_reporting_and_analytics"
 }

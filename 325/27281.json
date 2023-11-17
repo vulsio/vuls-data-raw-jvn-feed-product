@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27281",
-  "pname": "G50-80",
-  "pcpe": "cpe:/h:lenovo:notebook_g50_80"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27281",
+	"pname": "G50-80",
+	"pcpe": "cpe:/h:lenovo:notebook_g50_80"
 }

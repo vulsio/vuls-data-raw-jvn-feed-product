@@ -1,8 +1,8 @@
 {
-  "vid": "21641",
-  "vname": "ActiveAttr project",
-  "vcpe": "cpe:/:active_attr_project",
-  "pid": "55581",
-  "pname": "ActiveAttr",
-  "pcpe": "cpe:/a:active_attr_project:active_attr"
+	"vid": "21641",
+	"vname": "ActiveAttr project",
+	"vcpe": "cpe:/:active_attr_project",
+	"pid": "55581",
+	"pname": "ActiveAttr",
+	"pcpe": "cpe:/a:active_attr_project:active_attr"
 }

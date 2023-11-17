@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "36098",
-  "pname": "IBM Spectrum Protect Plus",
-  "pcpe": "cpe:/a:ibm:spectrum_protect_plus"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "36098",
+	"pname": "IBM Spectrum Protect Plus",
+	"pcpe": "cpe:/a:ibm:spectrum_protect_plus"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23221",
-  "vname": "eufylife",
-  "vcpe": "cpe:/:eufylife",
-  "pid": "60159",
-  "pname": "solo indoorcam c24 ファームウェア",
-  "pcpe": "cpe:/o:eufylife:solo_indoorcam_c24_firmware"
+	"vid": "23221",
+	"vname": "eufylife",
+	"vcpe": "cpe:/:eufylife",
+	"pid": "60159",
+	"pname": "solo indoorcam c24 ファームウェア",
+	"pcpe": "cpe:/o:eufylife:solo_indoorcam_c24_firmware"
 }

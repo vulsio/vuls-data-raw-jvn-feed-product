@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "5199",
-  "pname": "Symantec Network Access Control",
-  "pcpe": "cpe:/a:symantec:network_access_control"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "5199",
+	"pname": "Symantec Network Access Control",
+	"pcpe": "cpe:/a:symantec:network_access_control"
 }

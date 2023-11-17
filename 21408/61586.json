@@ -1,8 +1,8 @@
 {
-  "vid": "21408",
-  "vname": "ShapedPlugin",
-  "vcpe": "cpe:/:shapedplugin",
-  "pid": "61586",
-  "pname": "Location Weather",
-  "pcpe": "cpe:/a:shapedplugin:location_weather"
+	"vid": "21408",
+	"vname": "ShapedPlugin",
+	"vcpe": "cpe:/:shapedplugin",
+	"pid": "61586",
+	"pname": "Location Weather",
+	"pcpe": "cpe:/a:shapedplugin:location_weather"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11602",
-  "vname": "ANTlabs",
-  "vcpe": "cpe:/:antlabs",
-  "pid": "23781",
-  "pname": "InnGate",
-  "pcpe": "cpe:/h:antlabs:inngate"
+	"vid": "11602",
+	"vname": "ANTlabs",
+	"vcpe": "cpe:/:antlabs",
+	"pid": "23781",
+	"pname": "InnGate",
+	"pcpe": "cpe:/h:antlabs:inngate"
 }

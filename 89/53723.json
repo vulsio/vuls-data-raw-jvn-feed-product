@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "53723",
-  "pname": "NeoFace Monitor",
-  "pcpe": "cpe:/a:nec:neoface_monitor"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "53723",
+	"pname": "NeoFace Monitor",
+	"pcpe": "cpe:/a:nec:neoface_monitor"
 }

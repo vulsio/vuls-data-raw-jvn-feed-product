@@ -1,8 +1,8 @@
 {
-  "vid": "16776",
-  "vname": "Telenav, Inc.",
-  "vcpe": "cpe:/:telenav",
-  "pid": "39991",
-  "pname": "Scout GPS Link",
-  "pcpe": "cpe:/a:telenav:scout_gps_link"
+	"vid": "16776",
+	"vname": "Telenav, Inc.",
+	"vcpe": "cpe:/:telenav",
+	"pid": "39991",
+	"pname": "Scout GPS Link",
+	"pcpe": "cpe:/a:telenav:scout_gps_link"
 }

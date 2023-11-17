@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "60500",
-  "pname": "sd680 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd680_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "60500",
+	"pname": "sd680 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd680_firmware"
 }

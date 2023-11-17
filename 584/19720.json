@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "19720",
-  "pname": "SIMATIC S7-1200 CPU 1211C",
-  "pcpe": "cpe:/h:siemens:simatic_s7_cpu-1211c"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "19720",
+	"pname": "SIMATIC S7-1200 CPU 1211C",
+	"pcpe": "cpe:/h:siemens:simatic_s7_cpu-1211c"
 }

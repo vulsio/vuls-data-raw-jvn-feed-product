@@ -1,8 +1,8 @@
 {
-  "vid": "554",
-  "vname": "ブルーコートシステムズ",
-  "vcpe": "cpe:/:bluecoat",
-  "pid": "30676",
-  "pname": "Malware Analyzer G2",
-  "pcpe": "cpe:/a:bluecoat:malware_analyzer_g2"
+	"vid": "554",
+	"vname": "ブルーコートシステムズ",
+	"vcpe": "cpe:/:bluecoat",
+	"pid": "30676",
+	"pname": "Malware Analyzer G2",
+	"pcpe": "cpe:/a:bluecoat:malware_analyzer_g2"
 }

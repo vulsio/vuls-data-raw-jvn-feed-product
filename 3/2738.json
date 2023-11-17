@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "2738",
-  "pname": "RHEL Optional Productivity Applications Long Life",
-  "pcpe": "cpe:/a:redhat:rhel_optional_productivity_applications_long_life"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "2738",
+	"pname": "RHEL Optional Productivity Applications Long Life",
+	"pcpe": "cpe:/a:redhat:rhel_optional_productivity_applications_long_life"
 }

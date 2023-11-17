@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "47870",
-  "pname": "Alfresco Enterprise Content Management",
-  "pcpe": "cpe:/a:atlassian:alfresco_enterprise_content_management"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "47870",
+	"pname": "Alfresco Enterprise Content Management",
+	"pcpe": "cpe:/a:atlassian:alfresco_enterprise_content_management"
 }

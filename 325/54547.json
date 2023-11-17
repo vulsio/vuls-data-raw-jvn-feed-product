@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "54547",
-  "pname": "ThinkCentre M818z ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m818z_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "54547",
+	"pname": "ThinkCentre M818z ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m818z_firmware"
 }

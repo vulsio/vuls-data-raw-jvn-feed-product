@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "60406",
-  "pname": "axc 3050 ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:axc_3050_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "60406",
+	"pname": "axc 3050 ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:axc_3050_firmware"
 }

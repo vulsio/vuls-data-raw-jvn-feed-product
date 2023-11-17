@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "43750",
-  "pname": "Theia",
-  "pcpe": "cpe:/a:eclipse:theia"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "43750",
+	"pname": "Theia",
+	"pcpe": "cpe:/a:eclipse:theia"
 }

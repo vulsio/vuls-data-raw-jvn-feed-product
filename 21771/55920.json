@@ -1,8 +1,8 @@
 {
-  "vid": "21771",
-  "vname": "Control Web Panel",
-  "vcpe": "cpe:/:control-webpanel",
-  "pid": "55920",
-  "pname": "CWP",
-  "pcpe": "cpe:/a:control-webpanel:webpanel"
+	"vid": "21771",
+	"vname": "Control Web Panel",
+	"vcpe": "cpe:/:control-webpanel",
+	"pid": "55920",
+	"pname": "CWP",
+	"pcpe": "cpe:/a:control-webpanel:webpanel"
 }

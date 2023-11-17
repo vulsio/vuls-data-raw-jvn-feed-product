@@ -1,8 +1,8 @@
 {
-  "vid": "23616",
-  "vname": "gtkradiant project",
-  "vcpe": "cpe:/:gtkradiant_project",
-  "pid": "61184",
-  "pname": "gtkradiant",
-  "pcpe": "cpe:/a:gtkradiant_project:gtkradiant"
+	"vid": "23616",
+	"vname": "gtkradiant project",
+	"vcpe": "cpe:/:gtkradiant_project",
+	"pid": "61184",
+	"pname": "gtkradiant",
+	"pcpe": "cpe:/a:gtkradiant_project:gtkradiant"
 }

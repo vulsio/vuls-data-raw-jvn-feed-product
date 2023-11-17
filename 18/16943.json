@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "16943",
-  "pname": "IBM InfoSphere Master Data Management Server for Product Information Management",
-  "pcpe": "cpe:/a:ibm:infosphere_master_data_management_server_for_product_information_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "16943",
+	"pname": "IBM InfoSphere Master Data Management Server for Product Information Management",
+	"pcpe": "cpe:/a:ibm:infosphere_master_data_management_server_for_product_information_management"
 }

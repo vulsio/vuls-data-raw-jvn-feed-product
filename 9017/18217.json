@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "18217",
-  "pname": "X9DAX-iF",
-  "pcpe": "cpe:/h:supermicro:x9dax-if"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "18217",
+	"pname": "X9DAX-iF",
+	"pcpe": "cpe:/h:supermicro:x9dax-if"
 }

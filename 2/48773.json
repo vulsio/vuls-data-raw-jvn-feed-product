@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "48773",
-  "pname": "(複数の製品)",
-  "pcpe": "cpe:/a:microsoft:multiple_product"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "48773",
+	"pname": "(複数の製品)",
+	"pcpe": "cpe:/a:microsoft:multiple_product"
 }

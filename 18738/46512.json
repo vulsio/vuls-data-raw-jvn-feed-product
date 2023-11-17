@@ -1,8 +1,8 @@
 {
-  "vid": "18738",
-  "vname": "Python Packaging Authority",
-  "vcpe": "cpe:/:pypa",
-  "pid": "46512",
-  "pname": "pip",
-  "pcpe": "cpe:/a:pypa:pip"
+	"vid": "18738",
+	"vname": "Python Packaging Authority",
+	"vcpe": "cpe:/:pypa",
+	"pid": "46512",
+	"pname": "pip",
+	"pcpe": "cpe:/a:pypa:pip"
 }

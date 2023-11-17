@@ -1,8 +1,8 @@
 {
-  "vid": "23535",
-  "vname": "opft",
-  "vcpe": "cpe:/:opft",
-  "pid": "60976",
-  "pname": "session",
-  "pcpe": "cpe:/a:opft:session"
+	"vid": "23535",
+	"vname": "opft",
+	"vcpe": "cpe:/:opft",
+	"pid": "60976",
+	"pname": "session",
+	"pcpe": "cpe:/a:opft:session"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3414",
-  "vname": "ecshop",
-  "vcpe": "cpe:/:ecshop",
-  "pid": "7665",
-  "pname": "epshop",
-  "pcpe": "cpe:/a:ecshop:epshop"
+	"vid": "3414",
+	"vname": "ecshop",
+	"vcpe": "cpe:/:ecshop",
+	"pid": "7665",
+	"pname": "epshop",
+	"pcpe": "cpe:/a:ecshop:epshop"
 }

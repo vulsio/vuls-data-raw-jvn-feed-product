@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "51288",
-  "pname": "eSE620X vESS ファームウェア",
-  "pcpe": "cpe:/o:huawei:ese620x_vess_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "51288",
+	"pname": "eSE620X vESS ファームウェア",
+	"pcpe": "cpe:/o:huawei:ese620x_vess_firmware"
 }

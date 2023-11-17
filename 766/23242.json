@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "23242",
-  "pname": "Wonderware InTouch Access Anywhere Server",
-  "pcpe": "cpe:/a:schneider_electric:wonderware_intouch_access_anywhere_server"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "23242",
+	"pname": "Wonderware InTouch Access Anywhere Server",
+	"pcpe": "cpe:/a:schneider_electric:wonderware_intouch_access_anywhere_server"
 }

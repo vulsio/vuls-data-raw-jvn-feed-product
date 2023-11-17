@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "60943",
-  "pname": "rich text publisher",
-  "pcpe": "cpe:/a:jenkins:rich_text_publisher"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "60943",
+	"pname": "rich text publisher",
+	"pcpe": "cpe:/a:jenkins:rich_text_publisher"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19035",
-  "vname": "Gigaset",
-  "vcpe": "cpe:/:gigaset",
-  "pid": "47723",
-  "pname": "Gigaset DX600A ファームウェア",
-  "pcpe": "cpe:/o:gigaset:dx600a_firmware"
+	"vid": "19035",
+	"vname": "Gigaset",
+	"vcpe": "cpe:/:gigaset",
+	"pid": "47723",
+	"pname": "Gigaset DX600A ファームウェア",
+	"pcpe": "cpe:/o:gigaset:dx600a_firmware"
 }

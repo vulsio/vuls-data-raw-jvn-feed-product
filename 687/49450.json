@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "49450",
-  "pname": "TIBCO BPM Enterprise",
-  "pcpe": "cpe:/a:tibco:bpm_enterprise"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "49450",
+	"pname": "TIBCO BPM Enterprise",
+	"pcpe": "cpe:/a:tibco:bpm_enterprise"
 }

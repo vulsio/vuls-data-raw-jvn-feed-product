@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "23375",
-  "pname": "patch",
-  "pcpe": "cpe:/a:gnu:patch"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "23375",
+	"pname": "patch",
+	"pcpe": "cpe:/a:gnu:patch"
 }

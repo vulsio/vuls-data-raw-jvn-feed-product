@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "45969",
-  "pname": "Intel Distribution of OpenVINO Toolkit",
-  "pcpe": "cpe:/a:intel:distribution_of_openvino_toolkit"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "45969",
+	"pname": "Intel Distribution of OpenVINO Toolkit",
+	"pcpe": "cpe:/a:intel:distribution_of_openvino_toolkit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "52011",
-  "pname": "Oracle Hospitality Token Proxy Service",
-  "pcpe": "cpe:/a:oracle:hospitality_token_proxy_service"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "52011",
+	"pname": "Oracle Hospitality Token Proxy Service",
+	"pcpe": "cpe:/a:oracle:hospitality_token_proxy_service"
 }

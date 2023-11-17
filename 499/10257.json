@@ -1,8 +1,8 @@
 {
-  "vid": "499",
-  "vname": "Ipswitch, Inc.",
-  "vcpe": "cpe:/:ipswitch",
-  "pid": "10257",
-  "pname": "ipswitch collaboration suite",
-  "pcpe": "cpe:/a:ipswitch:ipswitch_collaboration_suite"
+	"vid": "499",
+	"vname": "Ipswitch, Inc.",
+	"vcpe": "cpe:/:ipswitch",
+	"pid": "10257",
+	"pname": "ipswitch collaboration suite",
+	"pcpe": "cpe:/a:ipswitch:ipswitch_collaboration_suite"
 }

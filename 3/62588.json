@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "62588",
-  "pname": "advanced cluster security",
-  "pcpe": "cpe:/a:redhat:advanced_cluster_security"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "62588",
+	"pname": "advanced cluster security",
+	"pcpe": "cpe:/a:redhat:advanced_cluster_security"
 }

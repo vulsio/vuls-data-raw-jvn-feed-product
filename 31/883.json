@@ -1,8 +1,8 @@
 {
-  "vid": "31",
-  "vname": "センドメール社",
-  "vcpe": "cpe:/:sendmail",
-  "pid": "883",
-  "pname": "Sendmail for NT",
-  "pcpe": "cpe:/a:sendmail:sendmail_for_nt"
+	"vid": "31",
+	"vname": "センドメール社",
+	"vcpe": "cpe:/:sendmail",
+	"pid": "883",
+	"pname": "Sendmail for NT",
+	"pcpe": "cpe:/a:sendmail:sendmail_for_nt"
 }

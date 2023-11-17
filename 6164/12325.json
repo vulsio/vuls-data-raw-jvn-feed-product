@@ -1,8 +1,8 @@
 {
-  "vid": "6164",
-  "vname": "OptiPNG",
-  "vcpe": "cpe:/:optipng",
-  "pid": "12325",
-  "pname": "OptiPNG",
-  "pcpe": "cpe:/a:optipng:optipng"
+	"vid": "6164",
+	"vname": "OptiPNG",
+	"vcpe": "cpe:/:optipng",
+	"pid": "12325",
+	"pname": "OptiPNG",
+	"pcpe": "cpe:/a:optipng:optipng"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13579",
-  "vname": "マイクロセミ社",
-  "vcpe": "cpe:/:symmetricom",
-  "pid": "32124",
-  "pname": "Symmetricom SyncServer S350i ファームウェア",
-  "pcpe": "cpe:/o:symmetricom:s350i_firmware"
+	"vid": "13579",
+	"vname": "マイクロセミ社",
+	"vcpe": "cpe:/:symmetricom",
+	"pid": "32124",
+	"pname": "Symmetricom SyncServer S350i ファームウェア",
+	"pcpe": "cpe:/o:symmetricom:s350i_firmware"
 }

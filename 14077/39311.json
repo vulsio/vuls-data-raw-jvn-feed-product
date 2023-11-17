@@ -1,8 +1,8 @@
 {
-  "vid": "14077",
-  "vname": "NECプラットフォームズ株式会社",
-  "vcpe": "cpe:/:necplatforms",
-  "pid": "39311",
-  "pname": "CSDJ -A",
-  "pcpe": "cpe:/o:necplatforms:calsos_csdj-a_firmware"
+	"vid": "14077",
+	"vname": "NECプラットフォームズ株式会社",
+	"vcpe": "cpe:/:necplatforms",
+	"pid": "39311",
+	"pname": "CSDJ -A",
+	"pcpe": "cpe:/o:necplatforms:calsos_csdj-a_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21204",
-  "vname": "MedData",
-  "vcpe": "cpe:/:meddata",
-  "pid": "54264",
-  "pname": "HBYS",
-  "pcpe": "cpe:/a:meddata:hbys"
+	"vid": "21204",
+	"vname": "MedData",
+	"vcpe": "cpe:/:meddata",
+	"pid": "54264",
+	"pname": "HBYS",
+	"pcpe": "cpe:/a:meddata:hbys"
 }

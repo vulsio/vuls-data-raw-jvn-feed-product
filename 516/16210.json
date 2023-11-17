@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "16210",
-  "pname": "blixed",
-  "pcpe": "cpe:/a:wordpress:blixed"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "16210",
+	"pname": "blixed",
+	"pcpe": "cpe:/a:wordpress:blixed"
 }

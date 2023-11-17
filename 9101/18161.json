@@ -1,8 +1,8 @@
 {
-  "vid": "9101",
-  "vname": "ShareThis",
-  "vcpe": "cpe:/:sharethis",
-  "pid": "18161",
-  "pname": "ShareThis",
-  "pcpe": "cpe:/a:sharethis:sharethis"
+	"vid": "9101",
+	"vname": "ShareThis",
+	"vcpe": "cpe:/:sharethis",
+	"pid": "18161",
+	"pname": "ShareThis",
+	"pcpe": "cpe:/a:sharethis:sharethis"
 }

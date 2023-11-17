@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "46399",
-  "pname": "azure-uhttp-c",
-  "pcpe": "cpe:/a:microsoft:azure-uhttp-c"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "46399",
+	"pname": "azure-uhttp-c",
+	"pcpe": "cpe:/a:microsoft:azure-uhttp-c"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "53216",
-  "pname": "Inspiron 3793 ファームウェア",
-  "pcpe": "cpe:/o:dell:inspiron_3793_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "53216",
+	"pname": "Inspiron 3793 ファームウェア",
+	"pcpe": "cpe:/o:dell:inspiron_3793_firmware"
 }

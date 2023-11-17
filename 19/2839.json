@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2839",
-  "pname": "Cisco WVC200 Wireless-G PTZ Internet Video Camera",
-  "pcpe": "cpe:/h:cisco:wvc200"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2839",
+	"pname": "Cisco WVC200 Wireless-G PTZ Internet Video Camera",
+	"pcpe": "cpe:/h:cisco:wvc200"
 }

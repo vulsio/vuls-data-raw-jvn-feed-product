@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "32487",
-  "pname": "Honor V9 Play ファームウェア",
-  "pcpe": "cpe:/o:huawei:honor_v9_play_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "32487",
+	"pname": "Honor V9 Play ファームウェア",
+	"pcpe": "cpe:/o:huawei:honor_v9_play_firmware"
 }

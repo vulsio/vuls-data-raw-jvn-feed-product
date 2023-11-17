@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17680",
-  "pname": "3Com Switch",
-  "pcpe": "cpe:/h:hp:3com_switch"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17680",
+	"pname": "3Com Switch",
+	"pcpe": "cpe:/h:hp:3com_switch"
 }

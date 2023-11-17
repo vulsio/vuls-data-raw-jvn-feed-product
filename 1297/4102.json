@@ -1,8 +1,8 @@
 {
-  "vid": "1297",
-  "vname": "Authentium",
-  "vcpe": "cpe:/:authentium",
-  "pid": "4102",
-  "pname": "Command Antivirus",
-  "pcpe": "cpe:/a:authentium:command_antivirus"
+	"vid": "1297",
+	"vname": "Authentium",
+	"vcpe": "cpe:/:authentium",
+	"pid": "4102",
+	"pname": "Command Antivirus",
+	"pcpe": "cpe:/a:authentium:command_antivirus"
 }

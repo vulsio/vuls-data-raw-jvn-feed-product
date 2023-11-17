@@ -1,8 +1,8 @@
 {
-  "vid": "14776",
-  "vname": "Portainer.io",
-  "vcpe": "cpe:/:portainer",
-  "pid": "34619",
-  "pname": "Portainer",
-  "pcpe": "cpe:/a:portainer:portainer"
+	"vid": "14776",
+	"vname": "Portainer.io",
+	"vcpe": "cpe:/:portainer",
+	"pid": "34619",
+	"pname": "Portainer",
+	"pcpe": "cpe:/a:portainer:portainer"
 }

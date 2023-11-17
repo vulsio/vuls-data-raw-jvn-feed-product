@@ -1,8 +1,8 @@
 {
-  "vid": "16943",
-  "vname": "wp-buy",
-  "vcpe": "cpe:/:wp-buy",
-  "pid": "50632",
-  "pname": "Limit Login Attempts (Spam Protection)",
-  "pcpe": "cpe:/a:wp-buy:login_protection_-_limit_failed_login_attempts"
+	"vid": "16943",
+	"vname": "wp-buy",
+	"vcpe": "cpe:/:wp-buy",
+	"pid": "50632",
+	"pname": "Limit Login Attempts (Spam Protection)",
+	"pcpe": "cpe:/a:wp-buy:login_protection_-_limit_failed_login_attempts"
 }

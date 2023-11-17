@@ -1,8 +1,8 @@
 {
-  "vid": "477",
-  "vname": "Sygate",
-  "vcpe": "cpe:/:sygate_technologies",
-  "pid": "1853",
-  "pname": "Sygate Enforcer",
-  "pcpe": "cpe:/a:sygate_technologies:enforcer"
+	"vid": "477",
+	"vname": "Sygate",
+	"vcpe": "cpe:/:sygate_technologies",
+	"pid": "1853",
+	"pname": "Sygate Enforcer",
+	"pcpe": "cpe:/a:sygate_technologies:enforcer"
 }

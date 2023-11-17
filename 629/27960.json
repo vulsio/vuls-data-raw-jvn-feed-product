@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "27960",
-  "pname": "Nport P5110A",
-  "pcpe": "cpe:/h:moxa:nport_p5110a"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "27960",
+	"pname": "Nport P5110A",
+	"pcpe": "cpe:/h:moxa:nport_p5110a"
 }

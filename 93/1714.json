@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1714",
-  "pname": "Mailhandler",
-  "pcpe": "cpe:/a:drupal:mailhandler"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1714",
+	"pname": "Mailhandler",
+	"pcpe": "cpe:/a:drupal:mailhandler"
 }

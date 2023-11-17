@@ -1,8 +1,8 @@
 {
-  "vid": "12955",
-  "vname": "Kubernetes",
-  "vcpe": "cpe:/:kubernetes",
-  "pid": "29944",
-  "pname": "Kubernetes",
-  "pcpe": "cpe:/a:kubernetes:kubernetes"
+	"vid": "12955",
+	"vname": "Kubernetes",
+	"vcpe": "cpe:/:kubernetes",
+	"pid": "29944",
+	"pname": "Kubernetes",
+	"pcpe": "cpe:/a:kubernetes:kubernetes"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "43334",
-  "pname": "LVM2",
-  "pcpe": "cpe:/a:redhat:lvm2"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "43334",
+	"pname": "LVM2",
+	"pcpe": "cpe:/a:redhat:lvm2"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23700",
-  "vname": "simple-rat project",
-  "vcpe": "cpe:/:simple-rat_project",
-  "pid": "61314",
-  "pname": "simple-rat",
-  "pcpe": "cpe:/a:simple-rat_project:simple-rat"
+	"vid": "23700",
+	"vname": "simple-rat project",
+	"vcpe": "cpe:/:simple-rat_project",
+	"pid": "61314",
+	"pname": "simple-rat",
+	"pcpe": "cpe:/a:simple-rat_project:simple-rat"
 }

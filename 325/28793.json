@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "28793",
-  "pname": "Lenovo Customer Care Software Development Kit",
-  "pcpe": "cpe:/a:lenovo:customer_care_software_development_kit"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "28793",
+	"pname": "Lenovo Customer Care Software Development Kit",
+	"pcpe": "cpe:/a:lenovo:customer_care_software_development_kit"
 }

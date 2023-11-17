@@ -1,8 +1,8 @@
 {
-  "vid": "13607",
-  "vname": "Ethereum Foundation",
-  "vcpe": "cpe:/:ethereum",
-  "pid": "32237",
-  "pname": "Ethereum Virtual Machine",
-  "pcpe": "cpe:/a:ethereum:ethereum_virtual_machine"
+	"vid": "13607",
+	"vname": "Ethereum Foundation",
+	"vcpe": "cpe:/:ethereum",
+	"pid": "32237",
+	"pname": "Ethereum Virtual Machine",
+	"pcpe": "cpe:/a:ethereum:ethereum_virtual_machine"
 }

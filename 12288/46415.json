@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "46415",
-  "pname": "Gorouter",
-  "pcpe": "cpe:/a:cloud_foundry:gorouter"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "46415",
+	"pname": "Gorouter",
+	"pcpe": "cpe:/a:cloud_foundry:gorouter"
 }

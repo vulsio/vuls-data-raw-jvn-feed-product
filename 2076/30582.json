@@ -1,8 +1,8 @@
 {
-  "vid": "2076",
-  "vname": "AfterLogic",
-  "vcpe": "cpe:/:afterlogic",
-  "pid": "30582",
-  "pname": "WebMail",
-  "pcpe": "cpe:/a:afterlogic:webmail"
+	"vid": "2076",
+	"vname": "AfterLogic",
+	"vcpe": "cpe:/:afterlogic",
+	"pid": "30582",
+	"pname": "WebMail",
+	"pcpe": "cpe:/a:afterlogic:webmail"
 }

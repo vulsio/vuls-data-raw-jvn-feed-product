@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27073",
-  "pname": "Oracle Hospitality OPERA 5 Property Services",
-  "pcpe": "cpe:/a:oracle:hospitality_opera_5_property_services"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27073",
+	"pname": "Oracle Hospitality OPERA 5 Property Services",
+	"pcpe": "cpe:/a:oracle:hospitality_opera_5_property_services"
 }

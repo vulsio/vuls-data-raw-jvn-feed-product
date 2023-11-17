@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "30632",
-  "pname": "Cisco SPA 500DS ファームウェア",
-  "pcpe": "cpe:/o:cisco:spa_500ds_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "30632",
+	"pname": "Cisco SPA 500DS ファームウェア",
+	"pcpe": "cpe:/o:cisco:spa_500ds_firmware"
 }

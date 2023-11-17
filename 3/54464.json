@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "54464",
-  "pname": "Red Hat Enterprise Linux Computer Node",
-  "pcpe": "cpe:/o:redhat:enterprise_linux_computer_node"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "54464",
+	"pname": "Red Hat Enterprise Linux Computer Node",
+	"pcpe": "cpe:/o:redhat:enterprise_linux_computer_node"
 }

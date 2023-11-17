@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "4765",
-  "pname": "blackberry torch 9800 firmware",
-  "pcpe": "cpe:/a:blackberry:blackberry_torch_9800_firmware"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "4765",
+	"pname": "blackberry torch 9800 firmware",
+	"pcpe": "cpe:/a:blackberry:blackberry_torch_9800_firmware"
 }

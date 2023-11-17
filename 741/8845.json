@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "8845",
-  "pname": "DSL-G624T",
-  "pcpe": "cpe:/h:dlink:dsl-g624t"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "8845",
+	"pname": "DSL-G624T",
+	"pcpe": "cpe:/h:dlink:dsl-g624t"
 }

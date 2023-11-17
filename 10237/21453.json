@@ -1,8 +1,8 @@
 {
-  "vid": "10237",
-  "vname": "GB Plugins",
-  "vcpe": "cpe:/:gb_plugins",
-  "pid": "21453",
-  "pname": "GB Gallery Slideshow",
-  "pcpe": "cpe:/a:gb_plugins:gb_gallery_slideshow"
+	"vid": "10237",
+	"vname": "GB Plugins",
+	"vcpe": "cpe:/:gb_plugins",
+	"pid": "21453",
+	"pname": "GB Gallery Slideshow",
+	"pcpe": "cpe:/a:gb_plugins:gb_gallery_slideshow"
 }

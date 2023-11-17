@@ -1,8 +1,8 @@
 {
-  "vid": "3971",
-  "vname": "GIGABYTE Technology Co., Ltd.",
-  "vcpe": "cpe:/:gigabyte",
-  "pid": "8412",
-  "pname": "dldrv2 activex control",
-  "pcpe": "cpe:/a:gigabyte:dldrv2_activex_control"
+	"vid": "3971",
+	"vname": "GIGABYTE Technology Co., Ltd.",
+	"vcpe": "cpe:/:gigabyte",
+	"pid": "8412",
+	"pname": "dldrv2 activex control",
+	"pcpe": "cpe:/a:gigabyte:dldrv2_activex_control"
 }

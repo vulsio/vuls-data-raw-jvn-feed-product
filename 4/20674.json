@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "20674",
-  "pname": "SECBLADEFW",
-  "pcpe": "cpe:/a:hp:secbladefw"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "20674",
+	"pname": "SECBLADEFW",
+	"pcpe": "cpe:/a:hp:secbladefw"
 }

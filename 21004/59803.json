@@ -1,8 +1,8 @@
 {
-  "vid": "21004",
-  "vname": "WPChill",
-  "vcpe": "cpe:/:wpchill",
-  "pid": "59803",
-  "pname": "KB Support",
-  "pcpe": "cpe:/a:wpchill:kb_support"
+	"vid": "21004",
+	"vname": "WPChill",
+	"vcpe": "cpe:/:wpchill",
+	"pid": "59803",
+	"pname": "KB Support",
+	"pcpe": "cpe:/a:wpchill:kb_support"
 }

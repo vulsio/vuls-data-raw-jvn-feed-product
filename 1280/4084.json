@@ -1,8 +1,8 @@
 {
-  "vid": "1280",
-  "vname": "NetMechanica",
-  "vcpe": "cpe:/:netmechanica",
-  "pid": "4084",
-  "pname": "NetDecision",
-  "pcpe": "cpe:/a:netmechanica:netdecision"
+	"vid": "1280",
+	"vname": "NetMechanica",
+	"vcpe": "cpe:/:netmechanica",
+	"pid": "4084",
+	"pname": "NetDecision",
+	"pcpe": "cpe:/a:netmechanica:netdecision"
 }

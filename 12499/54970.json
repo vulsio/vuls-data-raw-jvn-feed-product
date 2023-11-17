@@ -1,8 +1,8 @@
 {
-  "vid": "12499",
-  "vname": "Delta Electronics",
-  "vcpe": "cpe:/:delta_electronics",
-  "pid": "54970",
-  "pname": "DX-3021L9 ファームウェア",
-  "pcpe": "cpe:/o:delta_electronics:dx-3021l9_firmware"
+	"vid": "12499",
+	"vname": "Delta Electronics",
+	"vcpe": "cpe:/:delta_electronics",
+	"pid": "54970",
+	"pname": "DX-3021L9 ファームウェア",
+	"pcpe": "cpe:/o:delta_electronics:dx-3021l9_firmware"
 }

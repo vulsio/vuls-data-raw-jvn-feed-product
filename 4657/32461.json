@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "32461",
-  "pname": "TAG-AL00 ファームウェア",
-  "pcpe": "cpe:/o:huawei:tag-al00_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "32461",
+	"pname": "TAG-AL00 ファームウェア",
+	"pcpe": "cpe:/o:huawei:tag-al00_firmware"
 }

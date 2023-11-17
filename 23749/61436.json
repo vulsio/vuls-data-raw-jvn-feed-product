@@ -1,8 +1,8 @@
 {
-  "vid": "23749",
-  "vname": "chcnav",
-  "vcpe": "cpe:/:chcnav",
-  "pid": "61436",
-  "pname": "p5e gnss ファームウェア",
-  "pcpe": "cpe:/o:chcnav:p5e_gnss_firmware"
+	"vid": "23749",
+	"vname": "chcnav",
+	"vcpe": "cpe:/:chcnav",
+	"pid": "61436",
+	"pname": "p5e gnss ファームウェア",
+	"pcpe": "cpe:/o:chcnav:p5e_gnss_firmware"
 }

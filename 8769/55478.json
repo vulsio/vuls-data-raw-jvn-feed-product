@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "55478",
-  "pname": "QVR Guard",
-  "pcpe": "cpe:/a:qnap:qvr_guard"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "55478",
+	"pname": "QVR Guard",
+	"pcpe": "cpe:/a:qnap:qvr_guard"
 }

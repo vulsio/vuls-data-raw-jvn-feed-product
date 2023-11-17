@@ -1,8 +1,8 @@
 {
-  "vid": "19212",
-  "vname": "python-openid-connect project",
-  "vcpe": "cpe:/:python_openid_connect_project",
-  "pid": "48350",
-  "pname": "Python OpenID Connect",
-  "pcpe": "cpe:/a:python_openid_connect_project:python_openid_connect"
+	"vid": "19212",
+	"vname": "python-openid-connect project",
+	"vcpe": "cpe:/:python_openid_connect_project",
+	"pid": "48350",
+	"pname": "Python OpenID Connect",
+	"pcpe": "cpe:/a:python_openid_connect_project:python_openid_connect"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "297",
-  "vname": "pcre.org",
-  "vcpe": "cpe:/:pcre",
-  "pid": "25848",
-  "pname": "PCRE2",
-  "pcpe": "cpe:/a:pcre:pcre2"
+	"vid": "297",
+	"vname": "pcre.org",
+	"vcpe": "cpe:/:pcre",
+	"pid": "25848",
+	"pname": "PCRE2",
+	"pcpe": "cpe:/a:pcre:pcre2"
 }

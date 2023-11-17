@@ -1,8 +1,8 @@
 {
-  "vid": "20647",
-  "vname": "IEC104 project",
-  "vcpe": "cpe:/:iec104_project",
-  "pid": "52564",
-  "pname": "IEC104",
-  "pcpe": "cpe:/a:iec104_project:iec104"
+	"vid": "20647",
+	"vname": "IEC104 project",
+	"vcpe": "cpe:/:iec104_project",
+	"pid": "52564",
+	"pname": "IEC104",
+	"pcpe": "cpe:/a:iec104_project:iec104"
 }

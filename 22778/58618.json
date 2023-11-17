@@ -1,8 +1,8 @@
 {
-  "vid": "22778",
-  "vname": "ebics java project",
-  "vcpe": "cpe:/:ebics_java_project",
-  "pid": "58618",
-  "pname": "ebics java",
-  "pcpe": "cpe:/a:ebics_java_project:ebics_java"
+	"vid": "22778",
+	"vname": "ebics java project",
+	"vcpe": "cpe:/:ebics_java_project",
+	"pid": "58618",
+	"pname": "ebics java",
+	"pcpe": "cpe:/a:ebics_java_project:ebics_java"
 }

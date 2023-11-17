@@ -1,8 +1,8 @@
 {
-  "vid": "15195",
-  "vname": "sylabs",
-  "vcpe": "cpe:/:sylabs",
-  "pid": "50495",
-  "pname": "Singularity Image Format",
-  "pcpe": "cpe:/a:sylabs:singularity_image_format"
+	"vid": "15195",
+	"vname": "sylabs",
+	"vcpe": "cpe:/:sylabs",
+	"pid": "50495",
+	"pname": "Singularity Image Format",
+	"pcpe": "cpe:/a:sylabs:singularity_image_format"
 }

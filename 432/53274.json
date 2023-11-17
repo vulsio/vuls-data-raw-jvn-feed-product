@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "53274",
-  "pname": "System Access Point ファームウェア",
-  "pcpe": "cpe:/o:abb:system_access_point_2.0_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "53274",
+	"pname": "System Access Point ファームウェア",
+	"pcpe": "cpe:/o:abb:system_access_point_2.0_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "58877",
-  "pname": "M80V",
-  "pcpe": "cpe:/o:mitsubishielectric:m80v"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "58877",
+	"pname": "M80V",
+	"pcpe": "cpe:/o:mitsubishielectric:m80v"
 }

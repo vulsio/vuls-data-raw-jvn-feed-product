@@ -1,8 +1,8 @@
 {
-  "vid": "10114",
-  "vname": "granita",
-  "vcpe": "cpe:/:granita",
-  "pid": "21217",
-  "pname": "Cloud Browser",
-  "pcpe": "cpe:/a:granita:cloud_browser"
+	"vid": "10114",
+	"vname": "granita",
+	"vcpe": "cpe:/:granita",
+	"pid": "21217",
+	"pname": "Cloud Browser",
+	"pcpe": "cpe:/a:granita:cloud_browser"
 }

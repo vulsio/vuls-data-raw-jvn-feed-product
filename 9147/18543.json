@@ -1,8 +1,8 @@
 {
-  "vid": "9147",
-  "vname": "OvisLink",
-  "vcpe": "cpe:/:ovislink",
-  "pid": "18543",
-  "pname": "PoE-2600HD",
-  "pcpe": "cpe:/h:ovislink:airlive_poe2600hd"
+	"vid": "9147",
+	"vname": "OvisLink",
+	"vcpe": "cpe:/:ovislink",
+	"pid": "18543",
+	"pname": "PoE-2600HD",
+	"pcpe": "cpe:/h:ovislink:airlive_poe2600hd"
 }

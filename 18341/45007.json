@@ -1,8 +1,8 @@
 {
-  "vid": "18341",
-  "vname": "GESIO",
-  "vcpe": "cpe:/:gesio",
-  "pid": "45007",
-  "pname": "GESIO ERP",
-  "pcpe": "cpe:/a:gesio:erp"
+	"vid": "18341",
+	"vname": "GESIO",
+	"vcpe": "cpe:/:gesio",
+	"pid": "45007",
+	"pname": "GESIO ERP",
+	"pcpe": "cpe:/a:gesio:erp"
 }

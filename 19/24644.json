@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24644",
-  "pname": "Cisco ASR 9000 シリーズ アグリゲーション サービス ルータ",
-  "pcpe": "cpe:/h:cisco:asr_9000_series_aggregation_services_routers"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24644",
+	"pname": "Cisco ASR 9000 シリーズ アグリゲーション サービス ルータ",
+	"pcpe": "cpe:/h:cisco:asr_9000_series_aggregation_services_routers"
 }

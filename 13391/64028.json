@@ -1,8 +1,8 @@
 {
-  "vid": "13391",
-  "vname": "MapOS project",
-  "vcpe": "cpe:/:mapos_project",
-  "pid": "64028",
-  "pname": "map-os",
-  "pcpe": "cpe:/a:mapos_project:map-os"
+	"vid": "13391",
+	"vname": "MapOS project",
+	"vcpe": "cpe:/:mapos_project",
+	"pid": "64028",
+	"pname": "map-os",
+	"pcpe": "cpe:/a:mapos_project:map-os"
 }

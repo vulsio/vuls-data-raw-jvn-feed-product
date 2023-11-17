@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "15141",
-  "pname": "management+center",
-  "pcpe": "cpe:/a:sun:management%2Bcenter"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "15141",
+	"pname": "management+center",
+	"pcpe": "cpe:/a:sun:management%2Bcenter"
 }

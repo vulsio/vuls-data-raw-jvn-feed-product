@@ -1,8 +1,8 @@
 {
-  "vid": "4702",
-  "vname": "idefense",
-  "vcpe": "cpe:/:idefense",
-  "pid": "10055",
-  "pname": "comraider",
-  "pcpe": "cpe:/a:idefense:comraider"
+	"vid": "4702",
+	"vname": "idefense",
+	"vcpe": "cpe:/:idefense",
+	"pid": "10055",
+	"pname": "comraider",
+	"pcpe": "cpe:/a:idefense:comraider"
 }

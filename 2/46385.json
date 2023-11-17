@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "46385",
-  "pname": "Azure Sphere",
-  "pcpe": "cpe:/a:microsoft:azure_sphere"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "46385",
+	"pname": "Azure Sphere",
+	"pcpe": "cpe:/a:microsoft:azure_sphere"
 }

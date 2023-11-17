@@ -1,8 +1,8 @@
 {
-  "vid": "18951",
-  "vname": "Protocol Labs",
-  "vcpe": "cpe:/:protocol",
-  "pid": "56105",
-  "pname": "go-ipld-prime",
-  "pcpe": "cpe:/a:protocol:go-ipld-prime"
+	"vid": "18951",
+	"vname": "Protocol Labs",
+	"vcpe": "cpe:/:protocol",
+	"pid": "56105",
+	"pname": "go-ipld-prime",
+	"pcpe": "cpe:/a:protocol:go-ipld-prime"
 }

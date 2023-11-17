@@ -1,8 +1,8 @@
 {
-  "vid": "4477",
-  "vname": "Bentley Systems",
-  "vcpe": "cpe:/:bentley",
-  "pid": "55254",
-  "pname": "Bentley View",
-  "pcpe": "cpe:/a:bentley:bentley_view"
+	"vid": "4477",
+	"vname": "Bentley Systems",
+	"vcpe": "cpe:/:bentley",
+	"pid": "55254",
+	"pname": "Bentley View",
+	"pcpe": "cpe:/a:bentley:bentley_view"
 }

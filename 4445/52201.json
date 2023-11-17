@@ -1,8 +1,8 @@
 {
-  "vid": "4445",
-  "vname": "NCH Software",
-  "vcpe": "cpe:/:nchsoftware",
-  "pid": "52201",
-  "pname": "Quorum",
-  "pcpe": "cpe:/a:nchsoftware:quorum"
+	"vid": "4445",
+	"vname": "NCH Software",
+	"vcpe": "cpe:/:nchsoftware",
+	"pid": "52201",
+	"pname": "Quorum",
+	"pcpe": "cpe:/a:nchsoftware:quorum"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26171",
-  "pname": "Mate 8 ファームウェア",
-  "pcpe": "cpe:/o:huawei:mate_8_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26171",
+	"pname": "Mate 8 ファームウェア",
+	"pcpe": "cpe:/o:huawei:mate_8_firmware"
 }

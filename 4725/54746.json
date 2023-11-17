@@ -1,8 +1,8 @@
 {
-  "vid": "4725",
-  "vname": "SysAid Technologies Ltd.",
-  "vcpe": "cpe:/:sysaid",
-  "pid": "54746",
-  "pname": "Application Programming Interface",
-  "pcpe": "cpe:/a:sysaid:application_programming_interface"
+	"vid": "4725",
+	"vname": "SysAid Technologies Ltd.",
+	"vcpe": "cpe:/:sysaid",
+	"pid": "54746",
+	"pname": "Application Programming Interface",
+	"pcpe": "cpe:/a:sysaid:application_programming_interface"
 }

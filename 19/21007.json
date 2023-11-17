@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "21007",
-  "pname": "Cisco IOS Command-Line Interface",
-  "pcpe": "cpe:/a:cisco:cli"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "21007",
+	"pname": "Cisco IOS Command-Line Interface",
+	"pcpe": "cpe:/a:cisco:cli"
 }

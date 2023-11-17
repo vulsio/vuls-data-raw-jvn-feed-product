@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "38381",
-  "pname": "Oracle AutoVue 3D Professional Advanced",
-  "pcpe": "cpe:/a:oracle:autovue_3d_professional_advanced"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "38381",
+	"pname": "Oracle AutoVue 3D Professional Advanced",
+	"pcpe": "cpe:/a:oracle:autovue_3d_professional_advanced"
 }

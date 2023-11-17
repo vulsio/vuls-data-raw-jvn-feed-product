@@ -1,8 +1,8 @@
 {
-  "vid": "8868",
-  "vname": "Foscam",
-  "vcpe": "cpe:/:foscam",
-  "pid": "36427",
-  "pname": "C2 システム ファームウェア",
-  "pcpe": "cpe:/o:foscam:c2_system_firmware"
+	"vid": "8868",
+	"vname": "Foscam",
+	"vcpe": "cpe:/:foscam",
+	"pid": "36427",
+	"pname": "C2 システム ファームウェア",
+	"pcpe": "cpe:/o:foscam:c2_system_firmware"
 }

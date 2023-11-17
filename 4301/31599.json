@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "31599",
-  "pname": "Audible",
-  "pcpe": "cpe:/a:amazon:audible"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "31599",
+	"pname": "Audible",
+	"pcpe": "cpe:/a:amazon:audible"
 }

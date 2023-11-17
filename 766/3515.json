@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "3515",
-  "pname": "Quantum ethernet module 140NOE77100 Firmware",
-  "pcpe": "cpe:/a:schneider_electric:quantum_ethernet_module_140noe77100"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "3515",
+	"pname": "Quantum ethernet module 140NOE77100 Firmware",
+	"pcpe": "cpe:/a:schneider_electric:quantum_ethernet_module_140noe77100"
 }

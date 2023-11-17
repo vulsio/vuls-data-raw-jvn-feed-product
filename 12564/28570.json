@@ -1,8 +1,8 @@
 {
-  "vid": "12564",
-  "vname": "Cryptography",
-  "vcpe": "cpe:/:cryptography.io",
-  "pid": "28570",
-  "pname": "Cryptography",
-  "pcpe": "cpe:/a:cryptography.io:cryptography"
+	"vid": "12564",
+	"vname": "Cryptography",
+	"vcpe": "cpe:/:cryptography.io",
+	"pid": "28570",
+	"pname": "Cryptography",
+	"pcpe": "cpe:/a:cryptography.io:cryptography"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "60499",
-  "pname": "sd695 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd695_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "60499",
+	"pname": "sd695 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd695_firmware"
 }

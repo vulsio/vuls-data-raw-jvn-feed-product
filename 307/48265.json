@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "48265",
-  "pname": "Aruba 2930F ファームウェア",
-  "pcpe": "cpe:/o:arubanetworks:aruba_2930f_firmware"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "48265",
+	"pname": "Aruba 2930F ファームウェア",
+	"pcpe": "cpe:/o:arubanetworks:aruba_2930f_firmware"
 }

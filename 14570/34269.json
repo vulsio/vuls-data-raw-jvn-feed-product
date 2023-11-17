@@ -1,8 +1,8 @@
 {
-  "vid": "14570",
-  "vname": "CERB_Coin project",
-  "vcpe": "cpe:/:cerb_coin_project",
-  "pid": "34269",
-  "pname": "CERB_Coin",
-  "pcpe": "cpe:/a:cerb_coin_project:cerb_coin"
+	"vid": "14570",
+	"vname": "CERB_Coin project",
+	"vcpe": "cpe:/:cerb_coin_project",
+	"pid": "34269",
+	"pname": "CERB_Coin",
+	"pcpe": "cpe:/a:cerb_coin_project:cerb_coin"
 }

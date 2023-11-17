@@ -1,8 +1,8 @@
 {
-  "vid": "4260",
-  "vname": "Linux",
-  "vcpe": "cpe:/:linux",
-  "pid": "51516",
-  "pname": "Tizen FOTA",
-  "pcpe": "cpe:/o:linux:tizen"
+	"vid": "4260",
+	"vname": "Linux",
+	"vcpe": "cpe:/:linux",
+	"pid": "51516",
+	"pname": "Tizen FOTA",
+	"pcpe": "cpe:/o:linux:tizen"
 }

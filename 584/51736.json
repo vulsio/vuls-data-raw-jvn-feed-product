@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "51736",
-  "pname": "SCALANCE X302-7EEC ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_x302-7eec_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "51736",
+	"pname": "SCALANCE X302-7EEC ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_x302-7eec_firmware"
 }

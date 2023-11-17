@@ -1,8 +1,8 @@
 {
-  "vid": "22185",
-  "vname": "Authenticator Plugin project",
-  "vcpe": "cpe:/:authenticator_plugin_project",
-  "pid": "57080",
-  "pname": "Authenticator Plugin",
-  "pcpe": "cpe:/a:authenticator_plugin_project:authenticator_plugin"
+	"vid": "22185",
+	"vname": "Authenticator Plugin project",
+	"vcpe": "cpe:/:authenticator_plugin_project",
+	"pid": "57080",
+	"pname": "Authenticator Plugin",
+	"pcpe": "cpe:/a:authenticator_plugin_project:authenticator_plugin"
 }

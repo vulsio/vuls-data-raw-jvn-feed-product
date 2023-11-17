@@ -1,8 +1,8 @@
 {
-  "vid": "2112",
-  "vname": "ak-systems",
-  "vcpe": "cpe:/:ak-systems",
-  "pid": "5645",
-  "pname": "windows terminal",
-  "pcpe": "cpe:/a:ak-systems:windows_terminal"
+	"vid": "2112",
+	"vname": "ak-systems",
+	"vcpe": "cpe:/:ak-systems",
+	"pid": "5645",
+	"pname": "windows terminal",
+	"pcpe": "cpe:/a:ak-systems:windows_terminal"
 }

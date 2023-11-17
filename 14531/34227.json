@@ -1,8 +1,8 @@
 {
-  "vid": "14531",
-  "vname": "JustWallet project",
-  "vcpe": "cpe:/:justwallet_project",
-  "pid": "34227",
-  "pname": "JustWallet",
-  "pcpe": "cpe:/a:justwallet_project:justwallet"
+	"vid": "14531",
+	"vname": "JustWallet project",
+	"vcpe": "cpe:/:justwallet_project",
+	"pid": "34227",
+	"pname": "JustWallet",
+	"pcpe": "cpe:/a:justwallet_project:justwallet"
 }

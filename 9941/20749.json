@@ -1,8 +1,8 @@
 {
-  "vid": "9941",
-  "vname": "株式会社サイバーエージェント",
-  "vcpe": "cpe:/:cyberagent",
-  "pid": "20749",
-  "pname": "Android 版 Ameba",
-  "pcpe": "cpe:/a:cyberagent:ameba"
+	"vid": "9941",
+	"vname": "株式会社サイバーエージェント",
+	"vcpe": "cpe:/:cyberagent",
+	"pid": "20749",
+	"pname": "Android 版 Ameba",
+	"pcpe": "cpe:/a:cyberagent:ameba"
 }

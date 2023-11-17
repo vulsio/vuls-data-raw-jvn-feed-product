@@ -1,8 +1,8 @@
 {
-  "vid": "4457",
-  "vname": "TRENDnet",
-  "vcpe": "cpe:/:trendnet",
-  "pid": "30750",
-  "pname": "TEW-651BR ファームウエア",
-  "pcpe": "cpe:/o:trendnet:tew-651br_firmware"
+	"vid": "4457",
+	"vname": "TRENDnet",
+	"vcpe": "cpe:/:trendnet",
+	"pid": "30750",
+	"pname": "TEW-651BR ファームウエア",
+	"pcpe": "cpe:/o:trendnet:tew-651br_firmware"
 }

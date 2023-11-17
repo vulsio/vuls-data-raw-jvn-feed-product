@@ -1,8 +1,8 @@
 {
-  "vid": "21109",
-  "vname": "Simple Subscription Website project",
-  "vcpe": "cpe:/:simple_subscription_website_project",
-  "pid": "53999",
-  "pname": "Simple Subscription Website",
-  "pcpe": "cpe:/a:simple_subscription_website_project:simple_subscription_website"
+	"vid": "21109",
+	"vname": "Simple Subscription Website project",
+	"vcpe": "cpe:/:simple_subscription_website_project",
+	"pid": "53999",
+	"pname": "Simple Subscription Website",
+	"pcpe": "cpe:/a:simple_subscription_website_project:simple_subscription_website"
 }

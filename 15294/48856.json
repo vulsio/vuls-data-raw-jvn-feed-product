@@ -1,8 +1,8 @@
 {
-  "vid": "15294",
-  "vname": "AVEVA",
-  "vcpe": "cpe:/:aveva",
-  "pid": "48856",
-  "pname": "AVEVA Batch Management",
-  "pcpe": "cpe:/a:aveva:aveva_batch_management"
+	"vid": "15294",
+	"vname": "AVEVA",
+	"vcpe": "cpe:/:aveva",
+	"pid": "48856",
+	"pname": "AVEVA Batch Management",
+	"pcpe": "cpe:/a:aveva:aveva_batch_management"
 }

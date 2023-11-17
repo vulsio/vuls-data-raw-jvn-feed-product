@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "9156",
-  "pname": "Cisco Aironet AP1230AG シリーズ",
-  "pcpe": "cpe:/h:cisco:aironet_ap1230ag"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "9156",
+	"pname": "Cisco Aironet AP1230AG シリーズ",
+	"pcpe": "cpe:/h:cisco:aironet_ap1230ag"
 }

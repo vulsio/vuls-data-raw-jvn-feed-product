@@ -1,8 +1,8 @@
 {
-  "vid": "4445",
-  "vname": "NCH Software",
-  "vcpe": "cpe:/:nchsoftware",
-  "pid": "9482",
-  "pname": "MEO Encryption Software",
-  "pcpe": "cpe:/a:nchsoftware:meo_encryption_software"
+	"vid": "4445",
+	"vname": "NCH Software",
+	"vcpe": "cpe:/:nchsoftware",
+	"pid": "9482",
+	"pname": "MEO Encryption Software",
+	"pcpe": "cpe:/a:nchsoftware:meo_encryption_software"
 }

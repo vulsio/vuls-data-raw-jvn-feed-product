@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "60169",
-  "pname": "gs1200-8 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:gs1200-8_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "60169",
+	"pname": "gs1200-8 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:gs1200-8_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18834",
-  "vname": "ts.ed project",
-  "vcpe": "cpe:/:ts.ed_project",
-  "pid": "46931",
-  "pname": "@tsed/core",
-  "pcpe": "cpe:/a:ts.ed_project:ts.ed"
+	"vid": "18834",
+	"vname": "ts.ed project",
+	"vcpe": "cpe:/:ts.ed_project",
+	"pid": "46931",
+	"pname": "@tsed/core",
+	"pcpe": "cpe:/a:ts.ed_project:ts.ed"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "54467",
-  "pname": "NVIDIA DGX-1 V100",
-  "pcpe": "cpe:/o:nvidia:dgx-1_v100"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "54467",
+	"pname": "NVIDIA DGX-1 V100",
+	"pcpe": "cpe:/o:nvidia:dgx-1_v100"
 }

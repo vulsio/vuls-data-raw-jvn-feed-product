@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "16750",
-  "pname": "DWL-G650+",
-  "pcpe": "cpe:/h:dlink:dwl-g650%2B"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "16750",
+	"pname": "DWL-G650+",
+	"pcpe": "cpe:/h:dlink:dwl-g650%2B"
 }

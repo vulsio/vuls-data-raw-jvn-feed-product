@@ -1,8 +1,8 @@
 {
-  "vid": "499",
-  "vname": "Ipswitch, Inc.",
-  "vcpe": "cpe:/:ipswitch",
-  "pid": "10252",
-  "pname": "imail plus",
-  "pcpe": "cpe:/a:ipswitch:imail_plus"
+	"vid": "499",
+	"vname": "Ipswitch, Inc.",
+	"vcpe": "cpe:/:ipswitch",
+	"pid": "10252",
+	"pname": "imail plus",
+	"pcpe": "cpe:/a:ipswitch:imail_plus"
 }

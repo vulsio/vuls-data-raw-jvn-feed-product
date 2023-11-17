@@ -1,8 +1,8 @@
 {
-  "vid": "16207",
-  "vname": "YSoft",
-  "vcpe": "cpe:/:ysoft",
-  "pid": "37967",
-  "pname": "SafeQ Server Client",
-  "pcpe": "cpe:/o:ysoft:safeq_server_client"
+	"vid": "16207",
+	"vname": "YSoft",
+	"vcpe": "cpe:/:ysoft",
+	"pid": "37967",
+	"pname": "SafeQ Server Client",
+	"pcpe": "cpe:/o:ysoft:safeq_server_client"
 }

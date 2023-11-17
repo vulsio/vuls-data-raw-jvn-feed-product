@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "1254",
-  "pname": "FMV-STYLISTIC",
-  "pcpe": "cpe:/h:fujitsu:fmv-stylistic"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "1254",
+	"pname": "FMV-STYLISTIC",
+	"pcpe": "cpe:/h:fujitsu:fmv-stylistic"
 }

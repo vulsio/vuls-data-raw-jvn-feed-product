@@ -1,8 +1,8 @@
 {
-  "vid": "19134",
-  "vname": "Secomea",
-  "vcpe": "cpe:/:secomea",
-  "pid": "49703",
-  "pname": "SiteManager ファームウェア",
-  "pcpe": "cpe:/o:secomea:sitemanager_firmware"
+	"vid": "19134",
+	"vname": "Secomea",
+	"vcpe": "cpe:/:secomea",
+	"pid": "49703",
+	"pname": "SiteManager ファームウェア",
+	"pcpe": "cpe:/o:secomea:sitemanager_firmware"
 }

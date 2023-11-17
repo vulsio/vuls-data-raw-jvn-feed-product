@@ -1,8 +1,8 @@
 {
-  "vid": "4188",
-  "vname": "eci telecom",
-  "vcpe": "cpe:/:eci_telecom",
-  "pid": "8859",
-  "pname": "b-focus wireless 802.11bg adsl2+ router",
-  "pcpe": "cpe:/h:eci_telecom:b-focus_wireless_802.11bg_adsl2%2B_router"
+	"vid": "4188",
+	"vname": "eci telecom",
+	"vcpe": "cpe:/:eci_telecom",
+	"pid": "8859",
+	"pname": "b-focus wireless 802.11bg adsl2+ router",
+	"pcpe": "cpe:/h:eci_telecom:b-focus_wireless_802.11bg_adsl2%2B_router"
 }

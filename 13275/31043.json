@@ -1,8 +1,8 @@
 {
-  "vid": "13275",
-  "vname": "ソニービデオ&サウンドプロダクツ株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "31043",
-  "pname": "Media Go",
-  "pcpe": "cpe:/a:sony:media-go"
+	"vid": "13275",
+	"vname": "ソニービデオ&サウンドプロダクツ株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "31043",
+	"pname": "Media Go",
+	"pcpe": "cpe:/a:sony:media-go"
 }

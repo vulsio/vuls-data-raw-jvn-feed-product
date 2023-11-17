@@ -1,8 +1,8 @@
 {
-  "vid": "17592",
-  "vname": "Fronius International GmbH",
-  "vcpe": "cpe:/:fronius",
-  "pid": "42168",
-  "pname": "Eco 27.0-3-S ファームウェア",
-  "pcpe": "cpe:/o:fronius:eco_27.0-3-s_firmware"
+	"vid": "17592",
+	"vname": "Fronius International GmbH",
+	"vcpe": "cpe:/:fronius",
+	"pid": "42168",
+	"pname": "Eco 27.0-3-S ファームウェア",
+	"pcpe": "cpe:/o:fronius:eco_27.0-3-s_firmware"
 }

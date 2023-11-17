@@ -1,8 +1,8 @@
 {
-  "vid": "13167",
-  "vname": "dasinfomedia",
-  "vcpe": "cpe:/:dasinfomedia",
-  "pid": "30732",
-  "pname": "SMSmaster - Multipurpose SMS Gateway",
-  "pcpe": "cpe:/a:dasinfomedia:smsmaster_multipurpose_sms_gateway"
+	"vid": "13167",
+	"vname": "dasinfomedia",
+	"vcpe": "cpe:/:dasinfomedia",
+	"pid": "30732",
+	"pname": "SMSmaster - Multipurpose SMS Gateway",
+	"pcpe": "cpe:/a:dasinfomedia:smsmaster_multipurpose_sms_gateway"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18255",
-  "vname": "CommScope",
-  "vcpe": "cpe:/:commscope",
-  "pid": "64042",
-  "pname": "arris sbg10 ファームウェア",
-  "pcpe": "cpe:/o:commscope:arris_sbg10_firmware"
+	"vid": "18255",
+	"vname": "CommScope",
+	"vcpe": "cpe:/:commscope",
+	"pid": "64042",
+	"pname": "arris sbg10 ファームウェア",
+	"pcpe": "cpe:/o:commscope:arris_sbg10_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12072",
-  "vname": "Fr. Sauter AG",
-  "vcpe": "cpe:/:sauter",
-  "pid": "28223",
-  "pname": "NovaWeb web HMI",
-  "pcpe": "cpe:/a:sauter:novaweb_web_hmi"
+	"vid": "12072",
+	"vname": "Fr. Sauter AG",
+	"vcpe": "cpe:/:sauter",
+	"pid": "28223",
+	"pname": "NovaWeb web HMI",
+	"pcpe": "cpe:/a:sauter:novaweb_web_hmi"
 }

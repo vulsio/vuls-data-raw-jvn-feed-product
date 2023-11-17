@@ -1,8 +1,8 @@
 {
-  "vid": "280",
-  "vname": "Gentoo Linux",
-  "vcpe": "cpe:/:gentoo",
-  "pid": "1487",
-  "pname": "Gentoo Linux x11-base/xorg-server",
-  "pcpe": "cpe:/o:gentoo:linux_x11"
+	"vid": "280",
+	"vname": "Gentoo Linux",
+	"vcpe": "cpe:/:gentoo",
+	"pid": "1487",
+	"pname": "Gentoo Linux x11-base/xorg-server",
+	"pcpe": "cpe:/o:gentoo:linux_x11"
 }

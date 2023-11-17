@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "55815",
-  "pname": "Symphony Plus S+ Operations",
-  "pcpe": "cpe:/a:abb:symphony_plus_s_operations"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "55815",
+	"pname": "Symphony Plus S+ Operations",
+	"pcpe": "cpe:/a:abb:symphony_plus_s_operations"
 }

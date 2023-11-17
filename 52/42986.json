@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "42986",
-  "pname": "tokend",
-  "pcpe": "cpe:/a:apple:tokend"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "42986",
+	"pname": "tokend",
+	"pcpe": "cpe:/a:apple:tokend"
 }

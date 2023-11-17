@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28653",
-  "pname": "Campus S9300 ファームウェア",
-  "pcpe": "cpe:/o:huawei:campus_s9300_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28653",
+	"pname": "Campus S9300 ファームウェア",
+	"pcpe": "cpe:/o:huawei:campus_s9300_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17877",
-  "vname": "SockJS project",
-  "vcpe": "cpe:/:sockjs_project",
-  "pid": "43140",
-  "pname": "SockJS",
-  "pcpe": "cpe:/a:sockjs_project:sockjs"
+	"vid": "17877",
+	"vname": "SockJS project",
+	"vcpe": "cpe:/:sockjs_project",
+	"pid": "43140",
+	"pname": "SockJS",
+	"pcpe": "cpe:/a:sockjs_project:sockjs"
 }

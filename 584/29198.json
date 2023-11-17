@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29198",
-  "pname": "PN/PN Coupler ファームウェア",
-  "pcpe": "cpe:/o:siemens:pn%2Fpn_coupler_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29198",
+	"pname": "PN/PN Coupler ファームウェア",
+	"pcpe": "cpe:/o:siemens:pn%2Fpn_coupler_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "331",
-  "vname": "Xiph.Org",
-  "vcpe": "cpe:/:xiph",
-  "pid": "23979",
-  "pname": "Libflac",
-  "pcpe": "cpe:/a:xiph:libflac"
+	"vid": "331",
+	"vname": "Xiph.Org",
+	"vcpe": "cpe:/:xiph",
+	"pid": "23979",
+	"pname": "Libflac",
+	"pcpe": "cpe:/a:xiph:libflac"
 }

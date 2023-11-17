@@ -1,8 +1,8 @@
 {
-  "vid": "9021",
-  "vname": "Alstom",
-  "vcpe": "cpe:/:alstom",
-  "pid": "17763",
-  "pname": "Alstom Grid MiCOM S1 Agile",
-  "pcpe": "cpe:/a:alstom:micom_s1_agile"
+	"vid": "9021",
+	"vname": "Alstom",
+	"vcpe": "cpe:/:alstom",
+	"pid": "17763",
+	"pname": "Alstom Grid MiCOM S1 Agile",
+	"pcpe": "cpe:/a:alstom:micom_s1_agile"
 }

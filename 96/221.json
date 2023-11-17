@@ -1,8 +1,8 @@
 {
-  "vid": "96",
-  "vname": "SugarCRM",
-  "vcpe": "cpe:/:sugarcrm",
-  "pid": "221",
-  "pname": "SugarCRM",
-  "pcpe": "cpe:/a:sugarcrm:sugarcrm"
+	"vid": "96",
+	"vname": "SugarCRM",
+	"vcpe": "cpe:/:sugarcrm",
+	"pid": "221",
+	"pname": "SugarCRM",
+	"pcpe": "cpe:/a:sugarcrm:sugarcrm"
 }

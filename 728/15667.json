@@ -1,8 +1,8 @@
 {
-  "vid": "728",
-  "vname": "TYPO3 Association",
-  "vcpe": "cpe:/:typo3",
-  "pid": "15667",
-  "pname": "job reports",
-  "pcpe": "cpe:/a:typo3:job_reports"
+	"vid": "728",
+	"vname": "TYPO3 Association",
+	"vcpe": "cpe:/:typo3",
+	"pid": "15667",
+	"pname": "job reports",
+	"pcpe": "cpe:/a:typo3:job_reports"
 }

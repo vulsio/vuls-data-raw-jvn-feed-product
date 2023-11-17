@@ -1,8 +1,8 @@
 {
-  "vid": "1723",
-  "vname": "SonicWALL",
-  "vcpe": "cpe:/:sonicwall",
-  "pid": "48654",
-  "pname": "hosted e-mail security",
-  "pcpe": "cpe:/a:sonicwall:hosted_email_security"
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "48654",
+	"pname": "hosted e-mail security",
+	"pcpe": "cpe:/a:sonicwall:hosted_email_security"
 }

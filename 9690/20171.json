@@ -1,8 +1,8 @@
 {
-  "vid": "9690",
-  "vname": "Bizagi",
-  "vcpe": "cpe:/:bizagi",
-  "pid": "20171",
-  "pname": "Bizagi BPM Suite",
-  "pcpe": "cpe:/a:bizagi:business_process_management_suite"
+	"vid": "9690",
+	"vname": "Bizagi",
+	"vcpe": "cpe:/:bizagi",
+	"pid": "20171",
+	"pname": "Bizagi BPM Suite",
+	"pcpe": "cpe:/a:bizagi:business_process_management_suite"
 }

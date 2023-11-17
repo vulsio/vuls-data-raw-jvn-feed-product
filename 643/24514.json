@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "24514",
-  "pname": "Precision Workstation T5600 XL",
-  "pcpe": "cpe:/h:dell:precision_workstation_t5600_xl"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "24514",
+	"pname": "Precision Workstation T5600 XL",
+	"pcpe": "cpe:/h:dell:precision_workstation_t5600_xl"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "21306",
-  "pname": "Juniper IC4500",
-  "pcpe": "cpe:/h:juniper:ic_4500"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "21306",
+	"pname": "Juniper IC4500",
+	"pcpe": "cpe:/h:juniper:ic_4500"
 }

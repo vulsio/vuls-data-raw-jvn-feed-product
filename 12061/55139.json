@@ -1,8 +1,8 @@
 {
-  "vid": "12061",
-  "vname": "wolfSSL Inc.",
-  "vcpe": "cpe:/:wolfssl",
-  "pid": "55139",
-  "pname": "wolfMQTT",
-  "pcpe": "cpe:/a:wolfssl:wolfmqtt"
+	"vid": "12061",
+	"vname": "wolfSSL Inc.",
+	"vcpe": "cpe:/:wolfssl",
+	"pid": "55139",
+	"pname": "wolfMQTT",
+	"pcpe": "cpe:/a:wolfssl:wolfmqtt"
 }

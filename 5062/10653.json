@@ -1,8 +1,8 @@
 {
-  "vid": "5062",
-  "vname": "joomprod",
-  "vcpe": "cpe:/:joomprod",
-  "pid": "10653",
-  "pname": "com versioning",
-  "pcpe": "cpe:/a:joomprod:com_versioning"
+	"vid": "5062",
+	"vname": "joomprod",
+	"vcpe": "cpe:/:joomprod",
+	"pid": "10653",
+	"pname": "com versioning",
+	"pcpe": "cpe:/a:joomprod:com_versioning"
 }

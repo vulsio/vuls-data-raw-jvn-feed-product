@@ -1,8 +1,8 @@
 {
-  "vid": "14311",
-  "vname": "Haxe Foundation",
-  "vcpe": "cpe:/:haxe",
-  "pid": "34044",
-  "pname": "haxe-dev",
-  "pcpe": "cpe:/a:haxe:haxe-dev"
+	"vid": "14311",
+	"vname": "Haxe Foundation",
+	"vcpe": "cpe:/:haxe",
+	"pid": "34044",
+	"pname": "haxe-dev",
+	"pcpe": "cpe:/a:haxe:haxe-dev"
 }

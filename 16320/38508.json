@@ -1,8 +1,8 @@
 {
-  "vid": "16320",
-  "vname": "OPPO",
-  "vcpe": "cpe:/:oppo",
-  "pid": "38508",
-  "pname": "F5 ファームウェア",
-  "pcpe": "cpe:/o:oppo:f5_firmware"
+	"vid": "16320",
+	"vname": "OPPO",
+	"vcpe": "cpe:/:oppo",
+	"pid": "38508",
+	"pname": "F5 ファームウェア",
+	"pcpe": "cpe:/o:oppo:f5_firmware"
 }

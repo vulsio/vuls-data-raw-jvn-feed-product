@@ -1,8 +1,8 @@
 {
-  "vid": "278",
-  "vname": "SCO",
-  "vcpe": "cpe:/:sco",
-  "pid": "4786",
-  "pname": "scoofficeserver",
-  "pcpe": "cpe:/a:sco:scoofficeserver"
+	"vid": "278",
+	"vname": "SCO",
+	"vcpe": "cpe:/:sco",
+	"pid": "4786",
+	"pname": "scoofficeserver",
+	"pcpe": "cpe:/a:sco:scoofficeserver"
 }

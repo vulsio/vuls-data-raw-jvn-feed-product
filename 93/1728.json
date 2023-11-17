@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1728",
-  "pname": "Internationalization",
-  "pcpe": "cpe:/a:drupal:internationalization"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1728",
+	"pname": "Internationalization",
+	"pcpe": "cpe:/a:drupal:internationalization"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17664",
-  "vname": "Abcprintf",
-  "vcpe": "cpe:/:abcprintf",
-  "pid": "42357",
-  "pname": "upload-image-with-ajax",
-  "pcpe": "cpe:/a:abcprintf:upload-image-with-ajax"
+	"vid": "17664",
+	"vname": "Abcprintf",
+	"vcpe": "cpe:/:abcprintf",
+	"pid": "42357",
+	"pname": "upload-image-with-ajax",
+	"pcpe": "cpe:/a:abcprintf:upload-image-with-ajax"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12825",
-  "vname": "State Bank of Waterloo",
-  "vcpe": "cpe:/:sbw",
-  "pid": "29525",
-  "pname": "State Bank of Waterloo Mobile Banking",
-  "pcpe": "cpe:/a:sbw:state_bank_of_waterloo_mobile_banking"
+	"vid": "12825",
+	"vname": "State Bank of Waterloo",
+	"vcpe": "cpe:/:sbw",
+	"pid": "29525",
+	"pname": "State Bank of Waterloo Mobile Banking",
+	"pcpe": "cpe:/a:sbw:state_bank_of_waterloo_mobile_banking"
 }

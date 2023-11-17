@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "5712",
-  "pname": "at-tftp",
-  "pcpe": "cpe:/a:allied_telesis_k.k.:at-tftp"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "5712",
+	"pname": "at-tftp",
+	"pcpe": "cpe:/a:allied_telesis_k.k.:at-tftp"
 }

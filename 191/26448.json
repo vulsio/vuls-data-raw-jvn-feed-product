@@ -1,8 +1,8 @@
 {
-  "vid": "191",
-  "vname": "Opera Software ASA",
-  "vcpe": "cpe:/:opera",
-  "pid": "26448",
-  "pname": "Opera Mail",
-  "pcpe": "cpe:/a:opera:opera_mail"
+	"vid": "191",
+	"vname": "Opera Software ASA",
+	"vcpe": "cpe:/:opera",
+	"pid": "26448",
+	"pname": "Opera Mail",
+	"pcpe": "cpe:/a:opera:opera_mail"
 }

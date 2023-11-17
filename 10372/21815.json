@@ -1,8 +1,8 @@
 {
-  "vid": "10372",
-  "vname": "DIGICOM",
-  "vcpe": "cpe:/:digicom",
-  "pid": "21815",
-  "pname": "DG-5514T ADSL ルータファームウェア",
-  "pcpe": "cpe:/o:digicom:dg-5514t_adsl_router_firmware"
+	"vid": "10372",
+	"vname": "DIGICOM",
+	"vcpe": "cpe:/:digicom",
+	"pid": "21815",
+	"pname": "DG-5514T ADSL ルータファームウェア",
+	"pcpe": "cpe:/o:digicom:dg-5514t_adsl_router_firmware"
 }

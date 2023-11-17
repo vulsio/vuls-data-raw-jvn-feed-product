@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "27680",
-  "pname": "WatchDox Appliance-X",
-  "pcpe": "cpe:/a:blackberry:appliance-x"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "27680",
+	"pname": "WatchDox Appliance-X",
+	"pcpe": "cpe:/a:blackberry:appliance-x"
 }

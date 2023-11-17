@@ -1,8 +1,8 @@
 {
-  "vid": "9215",
-  "vname": "Cluster Labs",
-  "vcpe": "cpe:/:clusterlabs",
-  "pid": "49200",
-  "pname": "crmsh",
-  "pcpe": "cpe:/a:clusterlabs:crmsh"
+	"vid": "9215",
+	"vname": "Cluster Labs",
+	"vcpe": "cpe:/:clusterlabs",
+	"pid": "49200",
+	"pname": "crmsh",
+	"pcpe": "cpe:/a:clusterlabs:crmsh"
 }

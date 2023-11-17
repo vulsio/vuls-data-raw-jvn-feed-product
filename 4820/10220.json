@@ -1,8 +1,8 @@
 {
-  "vid": "4820",
-  "vname": "intervations",
-  "vcpe": "cpe:/:intervations",
-  "pid": "10220",
-  "pname": "navicopa web server",
-  "pcpe": "cpe:/a:intervations:navicopa_web_server"
+	"vid": "4820",
+	"vname": "intervations",
+	"vcpe": "cpe:/:intervations",
+	"pid": "10220",
+	"pname": "navicopa web server",
+	"pcpe": "cpe:/a:intervations:navicopa_web_server"
 }

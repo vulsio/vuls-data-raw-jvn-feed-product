@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "3811",
-  "pname": "EMC Documentum xPlore",
-  "pcpe": "cpe:/a:emc:documentum_xplore"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "3811",
+	"pname": "EMC Documentum xPlore",
+	"pcpe": "cpe:/a:emc:documentum_xplore"
 }

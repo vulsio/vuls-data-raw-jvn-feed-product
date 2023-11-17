@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "57591",
-  "pname": "Elitebook  830 G7 ファームウェア",
-  "pcpe": "cpe:/o:hp:elitebook_830_g7_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "57591",
+	"pname": "Elitebook  830 G7 ファームウェア",
+	"pcpe": "cpe:/o:hp:elitebook_830_g7_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19081",
-  "vname": "Hillrom",
-  "vcpe": "cpe:/:hillrom",
-  "pid": "50159",
-  "pname": "Welch Allyn Q-Stress Cardiac Stress Testing System",
-  "pcpe": "cpe:/a:hillrom:hillrom_welch_allyn_q-stress_cardiac_stress_testing_system"
+	"vid": "19081",
+	"vname": "Hillrom",
+	"vcpe": "cpe:/:hillrom",
+	"pid": "50159",
+	"pname": "Welch Allyn Q-Stress Cardiac Stress Testing System",
+	"pcpe": "cpe:/a:hillrom:hillrom_welch_allyn_q-stress_cardiac_stress_testing_system"
 }

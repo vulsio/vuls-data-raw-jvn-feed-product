@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "62404",
-  "pname": "nfs plug-in",
-  "pcpe": "cpe:/a:netapp:nfs_plug-in"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "62404",
+	"pname": "nfs plug-in",
+	"pcpe": "cpe:/a:netapp:nfs_plug-in"
 }

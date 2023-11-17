@@ -1,8 +1,8 @@
 {
-  "vid": "1238",
-  "vname": "IntSig Information",
-  "vcpe": "cpe:/:intsig",
-  "pid": "3974",
-  "pname": "CamScanner",
-  "pcpe": "cpe:/a:intsig:camscanner"
+	"vid": "1238",
+	"vname": "IntSig Information",
+	"vcpe": "cpe:/:intsig",
+	"pid": "3974",
+	"pname": "CamScanner",
+	"pcpe": "cpe:/a:intsig:camscanner"
 }

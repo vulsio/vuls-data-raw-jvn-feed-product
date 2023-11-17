@@ -1,8 +1,8 @@
 {
-  "vid": "22566",
-  "vname": "whatsapp",
-  "vcpe": "cpe:/:whatsapp",
-  "pid": "58085",
-  "pname": "whatsapp",
-  "pcpe": "cpe:/a:whatsapp:whatsapp"
+	"vid": "22566",
+	"vname": "whatsapp",
+	"vcpe": "cpe:/:whatsapp",
+	"pid": "58085",
+	"pname": "whatsapp",
+	"pcpe": "cpe:/a:whatsapp:whatsapp"
 }

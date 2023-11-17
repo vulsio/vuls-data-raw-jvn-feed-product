@@ -1,8 +1,8 @@
 {
-  "vid": "21455",
-  "vname": "bronzedb-protocol project",
-  "vcpe": "cpe:/:bronzedb-protocol_project",
-  "pid": "55077",
-  "pname": "bronzedb-protocol",
-  "pcpe": "cpe:/a:bronzedb-protocol_project:bronzedb-protocol"
+	"vid": "21455",
+	"vname": "bronzedb-protocol project",
+	"vcpe": "cpe:/:bronzedb-protocol_project",
+	"pid": "55077",
+	"pname": "bronzedb-protocol",
+	"pcpe": "cpe:/a:bronzedb-protocol_project:bronzedb-protocol"
 }

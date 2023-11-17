@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "41207",
-  "pname": "iceScrum",
-  "pcpe": "cpe:/a:jenkins:icescrum"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "41207",
+	"pname": "iceScrum",
+	"pcpe": "cpe:/a:jenkins:icescrum"
 }

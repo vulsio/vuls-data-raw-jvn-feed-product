@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "45075",
-  "pname": "IBM Aspera Application Platform On Demand",
-  "pcpe": "cpe:/a:ibm:aspera_application_platform_on_demand"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "45075",
+	"pname": "IBM Aspera Application Platform On Demand",
+	"pcpe": "cpe:/a:ibm:aspera_application_platform_on_demand"
 }

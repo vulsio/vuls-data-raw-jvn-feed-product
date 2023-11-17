@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "64347",
-  "pname": "migration toolkit for runtimes",
-  "pcpe": "cpe:/a:redhat:migration_toolkit_for_runtimes"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "64347",
+	"pname": "migration toolkit for runtimes",
+	"pcpe": "cpe:/a:redhat:migration_toolkit_for_runtimes"
 }

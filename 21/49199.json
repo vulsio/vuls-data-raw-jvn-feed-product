@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "49199",
-  "pname": "Contrail Networking",
-  "pcpe": "cpe:/a:juniper:contrail_networking"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "49199",
+	"pname": "Contrail Networking",
+	"pcpe": "cpe:/a:juniper:contrail_networking"
 }

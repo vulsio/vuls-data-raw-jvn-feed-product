@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "62247",
-  "pname": "IBM Spectrum Protect Plus Container Backup and Restore",
-  "pcpe": "cpe:/a:ibm:spectrum_protect_plus_container_backup_and_restore"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "62247",
+	"pname": "IBM Spectrum Protect Plus Container Backup and Restore",
+	"pcpe": "cpe:/a:ibm:spectrum_protect_plus_container_backup_and_restore"
 }

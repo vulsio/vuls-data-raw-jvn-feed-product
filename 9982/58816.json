@@ -1,8 +1,8 @@
 {
-  "vid": "9982",
-  "vname": "HL7",
-  "vcpe": "cpe:/:hl7",
-  "pid": "58816",
-  "pname": "HL7 FHIR IG Publisher",
-  "pcpe": "cpe:/a:hl7:fhir_ig_publisher"
+	"vid": "9982",
+	"vname": "HL7",
+	"vcpe": "cpe:/:hl7",
+	"pid": "58816",
+	"pname": "HL7 FHIR IG Publisher",
+	"pcpe": "cpe:/a:hl7:fhir_ig_publisher"
 }

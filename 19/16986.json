@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "16986",
-  "pname": "Cisco Small Business 300 シリーズ マネージド スイッチ",
-  "pcpe": "cpe:/h:cisco:300_series_managed_switches"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "16986",
+	"pname": "Cisco Small Business 300 シリーズ マネージド スイッチ",
+	"pcpe": "cpe:/h:cisco:300_series_managed_switches"
 }

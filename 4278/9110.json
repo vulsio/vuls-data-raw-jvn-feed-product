@@ -1,8 +1,8 @@
 {
-  "vid": "4278",
-  "vname": "CPE17",
-  "vcpe": "cpe:/:cpe17",
-  "pid": "9110",
-  "pname": "CPE17 Autorun Killer",
-  "pcpe": "cpe:/a:cpe17:autorun_killer"
+	"vid": "4278",
+	"vname": "CPE17",
+	"vcpe": "cpe:/:cpe17",
+	"pid": "9110",
+	"pname": "CPE17 Autorun Killer",
+	"pcpe": "cpe:/a:cpe17:autorun_killer"
 }

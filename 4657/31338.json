@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31338",
-  "pname": "AR160 ファームウェア",
-  "pcpe": "cpe:/o:huawei:ar160_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31338",
+	"pname": "AR160 ファームウェア",
+	"pcpe": "cpe:/o:huawei:ar160_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8909",
-  "vname": "テストベンダ",
-  "vcpe": "cpe:/:vendor",
-  "pid": "17089",
-  "pname": "Product",
-  "pcpe": "cpe:/a:vendor:product"
+	"vid": "8909",
+	"vname": "テストベンダ",
+	"vcpe": "cpe:/:vendor",
+	"pid": "17089",
+	"pname": "Product",
+	"pcpe": "cpe:/a:vendor:product"
 }

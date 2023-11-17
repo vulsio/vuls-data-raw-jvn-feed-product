@@ -1,8 +1,8 @@
 {
-  "vid": "9493",
-  "vname": "Bandisoft",
-  "vcpe": "cpe:/:bandisoft",
-  "pid": "52943",
-  "pname": "ARK library",
-  "pcpe": "cpe:/a:bandisoft:ark_library"
+	"vid": "9493",
+	"vname": "Bandisoft",
+	"vcpe": "cpe:/:bandisoft",
+	"pid": "52943",
+	"pname": "ARK library",
+	"pcpe": "cpe:/a:bandisoft:ark_library"
 }

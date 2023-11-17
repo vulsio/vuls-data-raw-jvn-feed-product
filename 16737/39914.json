@@ -1,8 +1,8 @@
 {
-  "vid": "16737",
-  "vname": "Prospecta",
-  "vcpe": "cpe:/:prospecta",
-  "pid": "39914",
-  "pname": "Prospecta Master Data Online (MDO)",
-  "pcpe": "cpe:/a:prospecta:master_data_online"
+	"vid": "16737",
+	"vname": "Prospecta",
+	"vcpe": "cpe:/:prospecta",
+	"pid": "39914",
+	"pname": "Prospecta Master Data Online (MDO)",
+	"pcpe": "cpe:/a:prospecta:master_data_online"
 }

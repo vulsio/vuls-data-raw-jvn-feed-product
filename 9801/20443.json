@@ -1,8 +1,8 @@
 {
-  "vid": "9801",
-  "vname": "WP-Contact plugin project",
-  "vcpe": "cpe:/:wp-contact_plugin_project",
-  "pid": "20443",
-  "pname": "wp-contact-sidebar-widget",
-  "pcpe": "cpe:/a:wp-contact_plugin_project:wp-contact-sidebar-widget"
+	"vid": "9801",
+	"vname": "WP-Contact plugin project",
+	"vcpe": "cpe:/:wp-contact_plugin_project",
+	"pid": "20443",
+	"pname": "wp-contact-sidebar-widget",
+	"pcpe": "cpe:/a:wp-contact_plugin_project:wp-contact-sidebar-widget"
 }

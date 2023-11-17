@@ -1,8 +1,8 @@
 {
-  "vid": "9911",
-  "vname": "Silver Peak",
-  "vcpe": "cpe:/:silver-peak",
-  "pid": "44797",
-  "pname": "Unity EdgeConnect For Azure",
-  "pcpe": "cpe:/a:silver-peak:unity_edgeconnect_for_azure"
+	"vid": "9911",
+	"vname": "Silver Peak",
+	"vcpe": "cpe:/:silver-peak",
+	"pid": "44797",
+	"pname": "Unity EdgeConnect For Azure",
+	"pcpe": "cpe:/a:silver-peak:unity_edgeconnect_for_azure"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "311",
-  "vname": "Midnight Commander",
-  "vcpe": "cpe:/:midnight_commander",
-  "pid": "1093",
-  "pname": "Midnight Commander",
-  "pcpe": "cpe:/a:midnight_commander:midnight_commander"
+	"vid": "311",
+	"vname": "Midnight Commander",
+	"vcpe": "cpe:/:midnight_commander",
+	"pid": "1093",
+	"pname": "Midnight Commander",
+	"pcpe": "cpe:/a:midnight_commander:midnight_commander"
 }

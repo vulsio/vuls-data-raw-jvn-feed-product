@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "16796",
-  "pname": "IBM Tivoli Storage Productivity Center",
-  "pcpe": "cpe:/a:ibm:tivoli_storage_productivity_center"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "16796",
+	"pname": "IBM Tivoli Storage Productivity Center",
+	"pcpe": "cpe:/a:ibm:tivoli_storage_productivity_center"
 }

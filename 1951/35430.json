@@ -1,8 +1,8 @@
 {
-  "vid": "1951",
-  "vname": "3CX",
-  "vcpe": "cpe:/:3cx",
-  "pid": "35430",
-  "pname": "3CX Web server",
-  "pcpe": "cpe:/a:3cx:3cx_web_server"
+	"vid": "1951",
+	"vname": "3CX",
+	"vcpe": "cpe:/:3cx",
+	"pid": "35430",
+	"pname": "3CX Web server",
+	"pcpe": "cpe:/a:3cx:3cx_web_server"
 }

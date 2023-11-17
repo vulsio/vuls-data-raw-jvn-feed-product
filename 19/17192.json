@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17192",
-  "pname": "Cisco Nexus 4001I Switch Module for IBM BladeCenter",
-  "pcpe": "cpe:/h:cisco:nexus_4001i"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17192",
+	"pname": "Cisco Nexus 4001I Switch Module for IBM BladeCenter",
+	"pcpe": "cpe:/h:cisco:nexus_4001i"
 }

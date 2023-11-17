@@ -1,8 +1,8 @@
 {
-  "vid": "1462",
-  "vname": "Eucalyptus Systems",
-  "vcpe": "cpe:/:eucalyptus",
-  "pid": "18392",
-  "pname": "EuStore",
-  "pcpe": "cpe:/o:eucalyptus:eustore"
+	"vid": "1462",
+	"vname": "Eucalyptus Systems",
+	"vcpe": "cpe:/:eucalyptus",
+	"pid": "18392",
+	"pname": "EuStore",
+	"pcpe": "cpe:/o:eucalyptus:eustore"
 }

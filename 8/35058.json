@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "35058",
-  "pname": "Apache Pluto",
-  "pcpe": "cpe:/a:apache:pluto"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "35058",
+	"pname": "Apache Pluto",
+	"pcpe": "cpe:/a:apache:pluto"
 }

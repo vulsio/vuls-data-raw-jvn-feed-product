@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28685",
-  "pname": "S シリーズファームウェア",
-  "pcpe": "cpe:/o:huawei:s_series_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28685",
+	"pname": "S シリーズファームウェア",
+	"pcpe": "cpe:/o:huawei:s_series_firmware"
 }

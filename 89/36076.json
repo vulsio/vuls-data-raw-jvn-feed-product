@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "36076",
-  "pname": "Aterm WF1200CR ファームウェア",
-  "pcpe": "cpe:/o:nec:aterm_wf1200cr_firmware"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "36076",
+	"pname": "Aterm WF1200CR ファームウェア",
+	"pcpe": "cpe:/o:nec:aterm_wf1200cr_firmware"
 }

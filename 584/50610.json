@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "50610",
-  "pname": "SIMATIC NET CP 343-1 Lean ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_net_cp_343-1_lean_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "50610",
+	"pname": "SIMATIC NET CP 343-1 Lean ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_net_cp_343-1_lean_firmware"
 }

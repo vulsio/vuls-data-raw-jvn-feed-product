@@ -1,8 +1,8 @@
 {
-  "vid": "784",
-  "vname": "Technicolor",
-  "vcpe": "cpe:/:technicolor",
-  "pid": "37049",
-  "pname": "TC7200.TH2v2.d1i ファームウェア",
-  "pcpe": "cpe:/o:technicolor:tc7200.th2v2.d1i_firmware"
+	"vid": "784",
+	"vname": "Technicolor",
+	"vcpe": "cpe:/:technicolor",
+	"pid": "37049",
+	"pname": "TC7200.TH2v2.d1i ファームウェア",
+	"pcpe": "cpe:/o:technicolor:tc7200.th2v2.d1i_firmware"
 }

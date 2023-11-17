@@ -1,8 +1,8 @@
 {
-  "vid": "13882",
-  "vname": "Grav CMS",
-  "vcpe": "cpe:/:getgrav",
-  "pid": "32997",
-  "pname": "Grav CMS",
-  "pcpe": "cpe:/a:getgrav:grav_cms"
+	"vid": "13882",
+	"vname": "Grav CMS",
+	"vcpe": "cpe:/:getgrav",
+	"pid": "32997",
+	"pname": "Grav CMS",
+	"pcpe": "cpe:/a:getgrav:grav_cms"
 }

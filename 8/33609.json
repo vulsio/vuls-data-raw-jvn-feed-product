@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "33609",
-  "pname": "Apache UIMA DUCC",
-  "pcpe": "cpe:/a:apache:uimaducc"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "33609",
+	"pname": "Apache UIMA DUCC",
+	"pcpe": "cpe:/a:apache:uimaducc"
 }

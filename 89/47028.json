@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "47028",
-  "pname": "Aterm WG1800HP4 ファームウェア",
-  "pcpe": "cpe:/o:nec:aterm_wg1800hp4"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "47028",
+	"pname": "Aterm WG1800HP4 ファームウェア",
+	"pcpe": "cpe:/o:nec:aterm_wg1800hp4"
 }

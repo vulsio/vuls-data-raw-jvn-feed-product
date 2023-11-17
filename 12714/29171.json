@@ -1,8 +1,8 @@
 {
-  "vid": "12714",
-  "vname": "Conexant Systems, LLC",
-  "vcpe": "cpe:/:conexant",
-  "pid": "29171",
-  "pname": "MicTray64",
-  "pcpe": "cpe:/a:conexant:mictray64"
+	"vid": "12714",
+	"vname": "Conexant Systems, LLC",
+	"vcpe": "cpe:/:conexant",
+	"pid": "29171",
+	"pname": "MicTray64",
+	"pcpe": "cpe:/a:conexant:mictray64"
 }

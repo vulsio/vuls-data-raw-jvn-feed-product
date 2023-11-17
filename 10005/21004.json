@@ -1,8 +1,8 @@
 {
-  "vid": "10005",
-  "vname": "CacheGuard Technologies Ltd.",
-  "vcpe": "cpe:/:cacheguard",
-  "pid": "21004",
-  "pname": "CacheGuard OS",
-  "pcpe": "cpe:/o:cacheguard:cacheguardos"
+	"vid": "10005",
+	"vname": "CacheGuard Technologies Ltd.",
+	"vcpe": "cpe:/:cacheguard",
+	"pid": "21004",
+	"pname": "CacheGuard OS",
+	"pcpe": "cpe:/o:cacheguard:cacheguardos"
 }

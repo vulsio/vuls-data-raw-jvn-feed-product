@@ -1,8 +1,8 @@
 {
-  "vid": "16492",
-  "vname": "miniOrange",
-  "vcpe": "cpe:/:miniorange",
-  "pid": "62226",
-  "pname": "OAuth Single Sign On",
-  "pcpe": "cpe:/a:miniorange:oauth_single_sign_on"
+	"vid": "16492",
+	"vname": "miniOrange",
+	"vcpe": "cpe:/:miniorange",
+	"pid": "62226",
+	"pname": "OAuth Single Sign On",
+	"pcpe": "cpe:/a:miniorange:oauth_single_sign_on"
 }

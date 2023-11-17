@@ -1,8 +1,8 @@
 {
-  "vid": "7636",
-  "vname": "Sitecore",
-  "vcpe": "cpe:/:sitecore",
-  "pid": "14816",
-  "pname": "Sitecore CMS",
-  "pcpe": "cpe:/a:sitecore:cms"
+	"vid": "7636",
+	"vname": "Sitecore",
+	"vcpe": "cpe:/:sitecore",
+	"pid": "14816",
+	"pname": "Sitecore CMS",
+	"pcpe": "cpe:/a:sitecore:cms"
 }

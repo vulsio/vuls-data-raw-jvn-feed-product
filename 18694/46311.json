@@ -1,8 +1,8 @@
 {
-  "vid": "18694",
-  "vname": "Host Engineering",
-  "vcpe": "cpe:/:hostengineering",
-  "pid": "46311",
-  "pname": "H2-ECOM100 モジュール",
-  "pcpe": "cpe:/a:hostengineering:h2_ecom100"
+	"vid": "18694",
+	"vname": "Host Engineering",
+	"vcpe": "cpe:/:hostengineering",
+	"pid": "46311",
+	"pname": "H2-ECOM100 モジュール",
+	"pcpe": "cpe:/a:hostengineering:h2_ecom100"
 }

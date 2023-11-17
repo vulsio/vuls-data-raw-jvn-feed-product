@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "43914",
-  "pname": "FortiAP-U",
-  "pcpe": "cpe:/a:fortinet:fortiap-u"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "43914",
+	"pname": "FortiAP-U",
+	"pcpe": "cpe:/a:fortinet:fortiap-u"
 }

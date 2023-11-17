@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "48522",
-  "pname": "ZLD ファームウェア",
-  "pcpe": "cpe:/o:zyxel:zld_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "48522",
+	"pname": "ZLD ファームウェア",
+	"pcpe": "cpe:/o:zyxel:zld_firmware"
 }

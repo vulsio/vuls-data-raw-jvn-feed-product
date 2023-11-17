@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "2910",
-  "pname": "TIBCO Managed File Transfer Internet Server",
-  "pcpe": "cpe:/a:tibco:managed_file_transfer_internet_server"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "2910",
+	"pname": "TIBCO Managed File Transfer Internet Server",
+	"pcpe": "cpe:/a:tibco:managed_file_transfer_internet_server"
 }

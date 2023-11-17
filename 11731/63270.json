@@ -1,8 +1,8 @@
 {
-  "vid": "11731",
-  "vname": "Actian Corporation",
-  "vcpe": "cpe:/:actian",
-  "pid": "63270",
-  "pname": "psql",
-  "pcpe": "cpe:/a:actian:psql"
+	"vid": "11731",
+	"vname": "Actian Corporation",
+	"vcpe": "cpe:/:actian",
+	"pid": "63270",
+	"pname": "psql",
+	"pcpe": "cpe:/a:actian:psql"
 }

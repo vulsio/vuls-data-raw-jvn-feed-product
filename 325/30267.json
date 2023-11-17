@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30267",
-  "pname": "ThinkCentre M8200z ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m8200z_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30267",
+	"pname": "ThinkCentre M8200z ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m8200z_firmware"
 }

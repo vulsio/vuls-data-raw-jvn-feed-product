@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "25608",
-  "pname": "Job Management Partner",
-  "pcpe": "cpe:/a:hitachi:job_management_partner"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "25608",
+	"pname": "Job Management Partner",
+	"pcpe": "cpe:/a:hitachi:job_management_partner"
 }

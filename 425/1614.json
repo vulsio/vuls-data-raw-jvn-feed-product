@@ -1,8 +1,8 @@
 {
-  "vid": "425",
-  "vname": "RealVNC",
-  "vcpe": "cpe:/:realvnc",
-  "pid": "1614",
-  "pname": "VNC",
-  "pcpe": "cpe:/a:realvnc:realvnc"
+	"vid": "425",
+	"vname": "RealVNC",
+	"vcpe": "cpe:/:realvnc",
+	"pid": "1614",
+	"pname": "VNC",
+	"pcpe": "cpe:/a:realvnc:realvnc"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13160",
-  "vname": "ProxyChains-NG project",
-  "vcpe": "cpe:/:proxychains-ng_project",
-  "pid": "30688",
-  "pname": "ProxyChains-NG",
-  "pcpe": "cpe:/a:proxychains-ng_project:proxychains-ng"
+	"vid": "13160",
+	"vname": "ProxyChains-NG project",
+	"vcpe": "cpe:/:proxychains-ng_project",
+	"pid": "30688",
+	"pname": "ProxyChains-NG",
+	"pcpe": "cpe:/a:proxychains-ng_project:proxychains-ng"
 }

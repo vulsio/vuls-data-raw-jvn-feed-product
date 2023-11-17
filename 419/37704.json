@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "37704",
-  "pname": "ONTAP Select Deploy",
-  "pcpe": "cpe:/a:netapp:ontap_select_deploy"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "37704",
+	"pname": "ONTAP Select Deploy",
+	"pcpe": "cpe:/a:netapp:ontap_select_deploy"
 }

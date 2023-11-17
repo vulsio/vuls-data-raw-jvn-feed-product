@@ -1,8 +1,8 @@
 {
-  "vid": "23002",
-  "vname": "vertistudio",
-  "vcpe": "cpe:/:vertistudio",
-  "pid": "59416",
-  "pname": "Image optimization & Lazy Load by Optimole",
-  "pcpe": "cpe:/a:vertistudio:image_optimization_%26_lazy_load_by_optimole"
+	"vid": "23002",
+	"vname": "vertistudio",
+	"vcpe": "cpe:/:vertistudio",
+	"pid": "59416",
+	"pname": "Image optimization & Lazy Load by Optimole",
+	"pcpe": "cpe:/a:vertistudio:image_optimization_%26_lazy_load_by_optimole"
 }

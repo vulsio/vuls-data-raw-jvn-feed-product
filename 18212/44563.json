@@ -1,8 +1,8 @@
 {
-  "vid": "18212",
-  "vname": "BlueTrace",
-  "vcpe": "cpe:/:bluetrace",
-  "pid": "44563",
-  "pname": "OpenTrace",
-  "pcpe": "cpe:/a:bluetrace:opentrace"
+	"vid": "18212",
+	"vname": "BlueTrace",
+	"vcpe": "cpe:/:bluetrace",
+	"pid": "44563",
+	"pname": "OpenTrace",
+	"pcpe": "cpe:/a:bluetrace:opentrace"
 }

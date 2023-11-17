@@ -1,8 +1,8 @@
 {
-  "vid": "20207",
-  "vname": "eRam",
-  "vcpe": "cpe:/:eram",
-  "pid": "51447",
-  "pname": "myFax450 ファームウェア",
-  "pcpe": "cpe:/o:eram:myfax450_firmware"
+	"vid": "20207",
+	"vname": "eRam",
+	"vcpe": "cpe:/:eram",
+	"pid": "51447",
+	"pname": "myFax450 ファームウェア",
+	"pcpe": "cpe:/o:eram:myfax450_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "49361",
-  "pname": "HPE Cloudline CL4100 Gen10 Server ファームウェア",
-  "pcpe": "cpe:/o:hp:cloudline_cl4100_gen10_server_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "49361",
+	"pname": "HPE Cloudline CL4100 Gen10 Server ファームウェア",
+	"pcpe": "cpe:/o:hp:cloudline_cl4100_gen10_server_firmware"
 }

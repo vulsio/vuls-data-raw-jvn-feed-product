@@ -1,8 +1,8 @@
 {
-  "vid": "22649",
-  "vname": "cocoapods",
-  "vcpe": "cpe:/:cocoapods",
-  "pid": "58286",
-  "pname": "cocoapods-downloader",
-  "pcpe": "cpe:/a:cocoapods:cocoapods-downloader"
+	"vid": "22649",
+	"vname": "cocoapods",
+	"vcpe": "cpe:/:cocoapods",
+	"pid": "58286",
+	"pname": "cocoapods-downloader",
+	"pcpe": "cpe:/a:cocoapods:cocoapods-downloader"
 }

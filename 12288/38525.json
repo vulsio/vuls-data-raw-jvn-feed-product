@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "38525",
-  "pname": "BOSH Backup and Restore",
-  "pcpe": "cpe:/a:cloud_foundry:bosh_backup_and_restore"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "38525",
+	"pname": "BOSH Backup and Restore",
+	"pcpe": "cpe:/a:cloud_foundry:bosh_backup_and_restore"
 }

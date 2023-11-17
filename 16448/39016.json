@@ -1,8 +1,8 @@
 {
-  "vid": "16448",
-  "vname": "Supra",
-  "vcpe": "cpe:/:supra",
-  "pid": "39016",
-  "pname": "STV-LC40LT0020F ファームウェア",
-  "pcpe": "cpe:/o:supra:stv-lc40lt0020f_firmware"
+	"vid": "16448",
+	"vname": "Supra",
+	"vcpe": "cpe:/:supra",
+	"pid": "39016",
+	"pname": "STV-LC40LT0020F ファームウェア",
+	"pcpe": "cpe:/o:supra:stv-lc40lt0020f_firmware"
 }

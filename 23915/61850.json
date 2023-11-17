@@ -1,8 +1,8 @@
 {
-  "vid": "23915",
-  "vname": "nodepdf project",
-  "vcpe": "cpe:/:nodepdf_project",
-  "pid": "61850",
-  "pname": "nodepdf",
-  "pcpe": "cpe:/a:nodepdf_project:nodepdf"
+	"vid": "23915",
+	"vname": "nodepdf project",
+	"vcpe": "cpe:/:nodepdf_project",
+	"pid": "61850",
+	"pname": "nodepdf",
+	"pcpe": "cpe:/a:nodepdf_project:nodepdf"
 }

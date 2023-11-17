@@ -1,8 +1,8 @@
 {
-  "vid": "12826",
-  "vname": "Brady National Bank",
-  "vcpe": "cpe:/:bradynationalbank",
-  "pid": "29526",
-  "pname": "BNB Mobile Banking",
-  "pcpe": "cpe:/a:bradynationalbank:bnb_mobile_banking"
+	"vid": "12826",
+	"vname": "Brady National Bank",
+	"vcpe": "cpe:/:bradynationalbank",
+	"pid": "29526",
+	"pname": "BNB Mobile Banking",
+	"pcpe": "cpe:/a:bradynationalbank:bnb_mobile_banking"
 }

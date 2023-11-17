@@ -1,8 +1,8 @@
 {
-  "vid": "17188",
-  "vname": "linea-rs project",
-  "vcpe": "cpe:/:linea.rs_project",
-  "pid": "40828",
-  "pname": "linea-rs",
-  "pcpe": "cpe:/a:linea.rs_project:linea.rs"
+	"vid": "17188",
+	"vname": "linea-rs project",
+	"vcpe": "cpe:/:linea.rs_project",
+	"pid": "40828",
+	"pname": "linea-rs",
+	"pcpe": "cpe:/a:linea.rs_project:linea.rs"
 }

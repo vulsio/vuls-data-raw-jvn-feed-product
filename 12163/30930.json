@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "30930",
-  "pname": "DRY",
-  "pcpe": "cpe:/a:jenkins:dry"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "30930",
+	"pname": "DRY",
+	"pcpe": "cpe:/a:jenkins:dry"
 }

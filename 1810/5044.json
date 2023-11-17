@@ -1,8 +1,8 @@
 {
-  "vid": "1810",
-  "vname": "Demand Media",
-  "vcpe": "cpe:/:demandmedia",
-  "pid": "5044",
-  "pname": "Pluck SiteLife",
-  "pcpe": "cpe:/a:demandmedia:pluck_sitelife"
+	"vid": "1810",
+	"vname": "Demand Media",
+	"vcpe": "cpe:/:demandmedia",
+	"pid": "5044",
+	"pname": "Pluck SiteLife",
+	"pcpe": "cpe:/a:demandmedia:pluck_sitelife"
 }

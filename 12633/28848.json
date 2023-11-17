@@ -1,8 +1,8 @@
 {
-  "vid": "12633",
-  "vname": "Craft CMS",
-  "vcpe": "cpe:/:craftcms",
-  "pid": "28848",
-  "pname": "Craft CMS",
-  "pcpe": "cpe:/a:craftcms:craft_cms"
+	"vid": "12633",
+	"vname": "Craft CMS",
+	"vcpe": "cpe:/:craftcms",
+	"pid": "28848",
+	"pname": "Craft CMS",
+	"pcpe": "cpe:/a:craftcms:craft_cms"
 }

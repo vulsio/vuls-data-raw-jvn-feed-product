@@ -1,8 +1,8 @@
 {
-  "vid": "13607",
-  "vname": "Ethereum Foundation",
-  "vcpe": "cpe:/:ethereum",
-  "pid": "49137",
-  "pname": "Aleth",
-  "pcpe": "cpe:/a:ethereum:aleth"
+	"vid": "13607",
+	"vname": "Ethereum Foundation",
+	"vcpe": "cpe:/:ethereum",
+	"pid": "49137",
+	"pname": "Aleth",
+	"pcpe": "cpe:/a:ethereum:aleth"
 }

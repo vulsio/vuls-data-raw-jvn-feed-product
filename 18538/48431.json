@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "48431",
-  "pname": "Wiser Energy ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:wiser_energy_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "48431",
+	"pname": "Wiser Energy ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:wiser_energy_firmware"
 }

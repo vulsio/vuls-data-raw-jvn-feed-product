@@ -1,8 +1,8 @@
 {
-  "vid": "4457",
-  "vname": "TRENDnet",
-  "vcpe": "cpe:/:trendnet",
-  "pid": "42303",
-  "pname": "TEW-652BRU ファームウェア",
-  "pcpe": "cpe:/o:trendnet:tew-652bru_firmware"
+	"vid": "4457",
+	"vname": "TRENDnet",
+	"vcpe": "cpe:/:trendnet",
+	"pid": "42303",
+	"pname": "TEW-652BRU ファームウェア",
+	"pcpe": "cpe:/o:trendnet:tew-652bru_firmware"
 }

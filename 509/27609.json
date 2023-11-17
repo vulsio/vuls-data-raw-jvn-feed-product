@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "27609",
-  "pname": "SAP Hybris",
-  "pcpe": "cpe:/a:sap:sap_hybris"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "27609",
+	"pname": "SAP Hybris",
+	"pcpe": "cpe:/a:sap:sap_hybris"
 }

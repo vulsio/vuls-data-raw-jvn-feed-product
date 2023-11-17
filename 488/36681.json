@@ -1,8 +1,8 @@
 {
-  "vid": "488",
-  "vname": "openSUSE project",
-  "vcpe": "cpe:/:opensuse_project",
-  "pid": "36681",
-  "pname": "libsolv",
-  "pcpe": "cpe:/a:opensuse_project:libsolv"
+	"vid": "488",
+	"vname": "openSUSE project",
+	"vcpe": "cpe:/:opensuse_project",
+	"pid": "36681",
+	"pname": "libsolv",
+	"pcpe": "cpe:/a:opensuse_project:libsolv"
 }

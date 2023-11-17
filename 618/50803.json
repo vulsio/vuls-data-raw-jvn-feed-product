@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "50803",
-  "pname": "ADAM-3600",
-  "pcpe": "cpe:/a:advantech:adam-3600"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "50803",
+	"pname": "ADAM-3600",
+	"pcpe": "cpe:/a:advantech:adam-3600"
 }

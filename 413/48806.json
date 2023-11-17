@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "48806",
-  "pname": "QNX Cross Development Kit",
-  "pcpe": "cpe:/o:blackberry:qnx_cross_development_kit"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "48806",
+	"pname": "QNX Cross Development Kit",
+	"pcpe": "cpe:/o:blackberry:qnx_cross_development_kit"
 }

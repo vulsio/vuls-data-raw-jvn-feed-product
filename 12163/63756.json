@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "63756",
-  "pname": "xframium builder",
-  "pcpe": "cpe:/a:jenkins:xframium_builder"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "63756",
+	"pname": "xframium builder",
+	"pcpe": "cpe:/a:jenkins:xframium_builder"
 }

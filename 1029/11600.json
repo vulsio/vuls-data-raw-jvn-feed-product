@@ -1,8 +1,8 @@
 {
-  "vid": "1029",
-  "vname": "Mini-stream Software",
-  "vcpe": "cpe:/:mini-stream",
-  "pid": "11600",
-  "pname": "rm downloader",
-  "pcpe": "cpe:/a:mini-stream:rm_downloader"
+	"vid": "1029",
+	"vname": "Mini-stream Software",
+	"vcpe": "cpe:/:mini-stream",
+	"pid": "11600",
+	"pname": "rm downloader",
+	"pcpe": "cpe:/a:mini-stream:rm_downloader"
 }

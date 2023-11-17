@@ -1,8 +1,8 @@
 {
-  "vid": "6466",
-  "vname": "overlandstorage",
-  "vcpe": "cpe:/:overlandstorage",
-  "pid": "13000",
-  "pname": "snap server 410",
-  "pcpe": "cpe:/h:overlandstorage:snap_server_410"
+	"vid": "6466",
+	"vname": "overlandstorage",
+	"vcpe": "cpe:/:overlandstorage",
+	"pid": "13000",
+	"pname": "snap server 410",
+	"pcpe": "cpe:/h:overlandstorage:snap_server_410"
 }

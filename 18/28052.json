@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "28052",
-  "pname": "IBM Jazz for Service Management",
-  "pcpe": "cpe:/a:ibm:jazz_for_service_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "28052",
+	"pname": "IBM Jazz for Service Management",
+	"pcpe": "cpe:/a:ibm:jazz_for_service_management"
 }

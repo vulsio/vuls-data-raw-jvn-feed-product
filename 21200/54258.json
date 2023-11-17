@@ -1,8 +1,8 @@
 {
-  "vid": "21200",
-  "vname": "Oro, Inc.",
-  "vcpe": "cpe:/:oroinc",
-  "pid": "54258",
-  "pname": "OroCRM",
-  "pcpe": "cpe:/a:oroinc:client_relationship_management"
+	"vid": "21200",
+	"vname": "Oro, Inc.",
+	"vcpe": "cpe:/:oroinc",
+	"pid": "54258",
+	"pname": "OroCRM",
+	"pcpe": "cpe:/a:oroinc:client_relationship_management"
 }

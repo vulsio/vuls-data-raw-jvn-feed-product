@@ -1,8 +1,8 @@
 {
-  "vid": "20233",
-  "vname": "Sloan Valve Company",
-  "vcpe": "cpe:/:sloan",
-  "pid": "51520",
-  "pname": "Optima EAF 100 ファームウェア",
-  "pcpe": "cpe:/o:sloan:optima_eaf-100_firmware"
+	"vid": "20233",
+	"vname": "Sloan Valve Company",
+	"vcpe": "cpe:/:sloan",
+	"pid": "51520",
+	"pname": "Optima EAF 100 ファームウェア",
+	"pcpe": "cpe:/o:sloan:optima_eaf-100_firmware"
 }

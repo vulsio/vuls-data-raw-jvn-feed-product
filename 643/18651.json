@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "18651",
-  "pname": "Quest One Password Manager",
-  "pcpe": "cpe:/a:dell:quest_one_password_manager"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "18651",
+	"pname": "Quest One Password Manager",
+	"pcpe": "cpe:/a:dell:quest_one_password_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16",
-  "vname": "チェック・ポイント・ソフトウェア・テクノロジーズ",
-  "vcpe": "cpe:/:checkpoint",
-  "pid": "19434",
-  "pname": "Session Authentication Agent",
-  "pcpe": "cpe:/a:checkpoint:session_authentication_agent"
+	"vid": "16",
+	"vname": "チェック・ポイント・ソフトウェア・テクノロジーズ",
+	"vcpe": "cpe:/:checkpoint",
+	"pid": "19434",
+	"pname": "Session Authentication Agent",
+	"pcpe": "cpe:/a:checkpoint:session_authentication_agent"
 }

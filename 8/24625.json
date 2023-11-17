@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "24625",
-  "pname": "Apache Tapestry",
-  "pcpe": "cpe:/a:apache:tapestry"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "24625",
+	"pname": "Apache Tapestry",
+	"pcpe": "cpe:/a:apache:tapestry"
 }

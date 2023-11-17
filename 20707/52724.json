@@ -1,8 +1,8 @@
 {
-  "vid": "20707",
-  "vname": "Actions Technology Co., Ltd.",
-  "vcpe": "cpe:/:actions-semi",
-  "pid": "52724",
-  "pname": "ATS2815 ファームウェア",
-  "pcpe": "cpe:/o:actions-semi:ats2815_firmware"
+	"vid": "20707",
+	"vname": "Actions Technology Co., Ltd.",
+	"vcpe": "cpe:/:actions-semi",
+	"pid": "52724",
+	"pname": "ATS2815 ファームウェア",
+	"pcpe": "cpe:/o:actions-semi:ats2815_firmware"
 }

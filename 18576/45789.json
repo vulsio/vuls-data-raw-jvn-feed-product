@@ -1,8 +1,8 @@
 {
-  "vid": "18576",
-  "vname": "libmailcore",
-  "vcpe": "cpe:/:libmailcore",
-  "pid": "45789",
-  "pname": "MailCore2",
-  "pcpe": "cpe:/a:libmailcore:mailcore2"
+	"vid": "18576",
+	"vname": "libmailcore",
+	"vcpe": "cpe:/:libmailcore",
+	"pid": "45789",
+	"pname": "MailCore2",
+	"pcpe": "cpe:/a:libmailcore:mailcore2"
 }

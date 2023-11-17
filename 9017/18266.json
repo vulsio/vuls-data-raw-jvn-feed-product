@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "18266",
-  "pname": "X9DRT-H6IBFF",
-  "pcpe": "cpe:/h:supermicro:x9drt-h6ibff"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "18266",
+	"pname": "X9DRT-H6IBFF",
+	"pcpe": "cpe:/h:supermicro:x9drt-h6ibff"
 }

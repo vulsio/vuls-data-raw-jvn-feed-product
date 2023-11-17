@@ -1,8 +1,8 @@
 {
-  "vid": "18819",
-  "vname": "日立エナジー (旧 日立ABBパワーグリッド)",
-  "vcpe": "cpe:/:hitachi_abb_power_grids",
-  "pid": "46872",
-  "pname": "Ellipse EAM",
-  "pcpe": "cpe:/a:hitachi_abb_power_grids:ellipse_eam"
+	"vid": "18819",
+	"vname": "日立エナジー (旧 日立ABBパワーグリッド)",
+	"vcpe": "cpe:/:hitachi_abb_power_grids",
+	"pid": "46872",
+	"pname": "Ellipse EAM",
+	"pcpe": "cpe:/a:hitachi_abb_power_grids:ellipse_eam"
 }

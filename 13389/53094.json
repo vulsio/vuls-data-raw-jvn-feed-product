@@ -1,8 +1,8 @@
 {
-  "vid": "13389",
-  "vname": "AutomationDirect",
-  "vcpe": "cpe:/:automationdirect",
-  "pid": "53094",
-  "pname": "SIO-MB16ND3 ファームウェア",
-  "pcpe": "cpe:/o:automationdirect:sio-mb16nd3"
+	"vid": "13389",
+	"vname": "AutomationDirect",
+	"vcpe": "cpe:/:automationdirect",
+	"pid": "53094",
+	"pname": "SIO-MB16ND3 ファームウェア",
+	"pcpe": "cpe:/o:automationdirect:sio-mb16nd3"
 }

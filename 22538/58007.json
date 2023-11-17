@@ -1,8 +1,8 @@
 {
-  "vid": "22538",
-  "vname": "node-lmdb project",
-  "vcpe": "cpe:/:node-lmdb_project",
-  "pid": "58007",
-  "pname": "node-lmdb",
-  "pcpe": "cpe:/a:node-lmdb_project:node-lmdb"
+	"vid": "22538",
+	"vname": "node-lmdb project",
+	"vcpe": "cpe:/:node-lmdb_project",
+	"pid": "58007",
+	"pname": "node-lmdb",
+	"pcpe": "cpe:/a:node-lmdb_project:node-lmdb"
 }

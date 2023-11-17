@@ -1,8 +1,8 @@
 {
-  "vid": "4360",
-  "vname": "ウェブセンス",
-  "vcpe": "cpe:/:websense",
-  "pid": "16099",
-  "pname": "enterpise",
-  "pcpe": "cpe:/a:websense:enterpise"
+	"vid": "4360",
+	"vname": "ウェブセンス",
+	"vcpe": "cpe:/:websense",
+	"pid": "16099",
+	"pname": "enterpise",
+	"pcpe": "cpe:/a:websense:enterpise"
 }

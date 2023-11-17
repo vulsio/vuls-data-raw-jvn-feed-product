@@ -1,8 +1,8 @@
 {
-  "vid": "21741",
-  "vname": "go-unzip project",
-  "vcpe": "cpe:/:go-unzip_project",
-  "pid": "55869",
-  "pname": "go-unzip",
-  "pcpe": "cpe:/a:go-unzip_project:go-unzip"
+	"vid": "21741",
+	"vname": "go-unzip project",
+	"vcpe": "cpe:/:go-unzip_project",
+	"pid": "55869",
+	"pname": "go-unzip",
+	"pcpe": "cpe:/a:go-unzip_project:go-unzip"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11539",
-  "vname": "Kallithea",
-  "vcpe": "cpe:/:kallithea",
-  "pid": "23523",
-  "pname": "Kallithea",
-  "pcpe": "cpe:/a:kallithea:kallithea"
+	"vid": "11539",
+	"vname": "Kallithea",
+	"vcpe": "cpe:/:kallithea",
+	"pid": "23523",
+	"pname": "Kallithea",
+	"pcpe": "cpe:/a:kallithea:kallithea"
 }

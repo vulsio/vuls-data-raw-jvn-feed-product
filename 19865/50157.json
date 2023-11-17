@@ -1,8 +1,8 @@
 {
-  "vid": "19865",
-  "vname": "Gargoyle Router Management Utility",
-  "vcpe": "cpe:/:gargoyle-router",
-  "pid": "50157",
-  "pname": "Gargoyle",
-  "pcpe": "cpe:/a:gargoyle-router:gargoyle"
+	"vid": "19865",
+	"vname": "Gargoyle Router Management Utility",
+	"vcpe": "cpe:/:gargoyle-router",
+	"pid": "50157",
+	"pname": "Gargoyle",
+	"pcpe": "cpe:/a:gargoyle-router:gargoyle"
 }

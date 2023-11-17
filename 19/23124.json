@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23124",
-  "pname": "Cisco-Meraki MS ファームウェア",
-  "pcpe": "cpe:/a:cisco:meraki_ms_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23124",
+	"pname": "Cisco-Meraki MS ファームウェア",
+	"pcpe": "cpe:/a:cisco:meraki_ms_firmware"
 }

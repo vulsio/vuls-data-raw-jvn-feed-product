@@ -1,8 +1,8 @@
 {
-  "vid": "4190",
-  "vname": "everfocus",
-  "vcpe": "cpe:/:everfocus",
-  "pid": "8862",
-  "pname": "edr1600",
-  "pcpe": "cpe:/h:everfocus:edr1600"
+	"vid": "4190",
+	"vname": "everfocus",
+	"vcpe": "cpe:/:everfocus",
+	"pid": "8862",
+	"pname": "edr1600",
+	"pcpe": "cpe:/h:everfocus:edr1600"
 }

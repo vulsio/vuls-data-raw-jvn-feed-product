@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "53240",
-  "pname": "TL-D1600S ファームウェア",
-  "pcpe": "cpe:/o:qnap:tl-d1600s_firmware"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "53240",
+	"pname": "TL-D1600S ファームウェア",
+	"pcpe": "cpe:/o:qnap:tl-d1600s_firmware"
 }

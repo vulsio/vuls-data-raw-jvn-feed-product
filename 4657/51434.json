@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "51434",
-  "pname": "SMC2.0",
-  "pcpe": "cpe:/a:huawei:smc2.0"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "51434",
+	"pname": "SMC2.0",
+	"pcpe": "cpe:/a:huawei:smc2.0"
 }

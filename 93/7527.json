@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7527",
-  "pname": "token module",
-  "pcpe": "cpe:/a:drupal:token_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7527",
+	"pname": "token module",
+	"pcpe": "cpe:/a:drupal:token_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4528",
-  "vname": "Skysa",
-  "vcpe": "cpe:/:skysa",
-  "pid": "9655",
-  "pname": "Skysa App Bar Integration",
-  "pcpe": "cpe:/a:skysa:skysa_app_bar_integration_plugin"
+	"vid": "4528",
+	"vname": "Skysa",
+	"vcpe": "cpe:/:skysa",
+	"pid": "9655",
+	"pname": "Skysa App Bar Integration",
+	"pcpe": "cpe:/a:skysa:skysa_app_bar_integration_plugin"
 }

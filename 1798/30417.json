@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "30417",
-  "pname": "Cloud Station Drive",
-  "pcpe": "cpe:/a:synology:cloud_station_drive"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "30417",
+	"pname": "Cloud Station Drive",
+	"pcpe": "cpe:/a:synology:cloud_station_drive"
 }

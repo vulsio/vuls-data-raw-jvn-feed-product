@@ -1,8 +1,8 @@
 {
-  "vid": "17516",
-  "vname": "pithos",
-  "vcpe": "cpe:/:pithos_project",
-  "pid": "41916",
-  "pname": "pithos",
-  "pcpe": "cpe:/a:pithos_project:pithos"
+	"vid": "17516",
+	"vname": "pithos",
+	"vcpe": "cpe:/:pithos_project",
+	"pid": "41916",
+	"pname": "pithos",
+	"pcpe": "cpe:/a:pithos_project:pithos"
 }

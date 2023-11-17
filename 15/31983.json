@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "31983",
-  "pname": "Oracle Financial Services Loan Loss Forecasting and Provisioning",
-  "pcpe": "cpe:/a:oracle:financial_services_loan_loss_forecasting_and_provisioning"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "31983",
+	"pname": "Oracle Financial Services Loan Loss Forecasting and Provisioning",
+	"pcpe": "cpe:/a:oracle:financial_services_loan_loss_forecasting_and_provisioning"
 }

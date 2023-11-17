@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "9864",
-  "pname": "hpsi acf2 connector",
-  "pcpe": "cpe:/a:hp:hpsi_acf2_connector"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "9864",
+	"pname": "hpsi acf2 connector",
+	"pcpe": "cpe:/a:hp:hpsi_acf2_connector"
 }

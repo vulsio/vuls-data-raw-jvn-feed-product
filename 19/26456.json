@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "26456",
-  "pname": "FirePOWER System",
-  "pcpe": "cpe:/a:cisco:firepower_system"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "26456",
+	"pname": "FirePOWER System",
+	"pcpe": "cpe:/a:cisco:firepower_system"
 }

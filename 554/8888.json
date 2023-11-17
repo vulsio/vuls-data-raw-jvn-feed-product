@@ -1,8 +1,8 @@
 {
-  "vid": "554",
-  "vname": "ブルーコートシステムズ",
-  "vcpe": "cpe:/:bluecoat",
-  "pid": "8888",
-  "pname": "security gateway os",
-  "pcpe": "cpe:/o:bluecoat:security_gateway_os"
+	"vid": "554",
+	"vname": "ブルーコートシステムズ",
+	"vcpe": "cpe:/:bluecoat",
+	"pid": "8888",
+	"pname": "security gateway os",
+	"pcpe": "cpe:/o:bluecoat:security_gateway_os"
 }

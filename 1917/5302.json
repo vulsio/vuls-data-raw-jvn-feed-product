@@ -1,8 +1,8 @@
 {
-  "vid": "1917",
-  "vname": "Innominate Security Technologies AG",
-  "vcpe": "cpe:/:innominate",
-  "pid": "5302",
-  "pname": "Innominate mGuard PCI",
-  "pcpe": "cpe:/a:innominate:mguard_pci"
+	"vid": "1917",
+	"vname": "Innominate Security Technologies AG",
+	"vcpe": "cpe:/:innominate",
+	"pid": "5302",
+	"pname": "Innominate mGuard PCI",
+	"pcpe": "cpe:/a:innominate:mguard_pci"
 }

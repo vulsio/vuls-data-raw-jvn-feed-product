@@ -1,8 +1,8 @@
 {
-  "vid": "19869",
-  "vname": "purl project",
-  "vcpe": "cpe:/:purl_project",
-  "pid": "50187",
-  "pname": "purl",
-  "pcpe": "cpe:/a:purl_project:purl"
+	"vid": "19869",
+	"vname": "purl project",
+	"vcpe": "cpe:/:purl_project",
+	"pid": "50187",
+	"pname": "purl",
+	"pcpe": "cpe:/a:purl_project:purl"
 }

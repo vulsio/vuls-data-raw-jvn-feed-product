@@ -1,8 +1,8 @@
 {
-  "vid": "4358",
-  "vname": "Korenix Technology",
-  "vcpe": "cpe:/:korenix",
-  "pid": "64391",
-  "pname": "jetwave 2414 ファームウェア",
-  "pcpe": "cpe:/o:korenix:jetwave_2414_firmware"
+	"vid": "4358",
+	"vname": "Korenix Technology",
+	"vcpe": "cpe:/:korenix",
+	"pid": "64391",
+	"pname": "jetwave 2414 ファームウェア",
+	"pcpe": "cpe:/o:korenix:jetwave_2414_firmware"
 }

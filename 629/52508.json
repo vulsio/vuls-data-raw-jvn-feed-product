@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "52508",
-  "pname": "WAC-1001-T ファームウェア",
-  "pcpe": "cpe:/o:moxa:wac-1001-t_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "52508",
+	"pname": "WAC-1001-T ファームウェア",
+	"pcpe": "cpe:/o:moxa:wac-1001-t_firmware"
 }

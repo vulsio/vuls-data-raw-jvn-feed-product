@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "809",
-  "pname": "PBX E-3000シリーズ",
-  "pcpe": "cpe:/h:fujitsu:pbx_e-3000"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "809",
+	"pname": "PBX E-3000シリーズ",
+	"pcpe": "cpe:/h:fujitsu:pbx_e-3000"
 }

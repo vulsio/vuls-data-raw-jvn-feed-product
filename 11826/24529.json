@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "24529",
-  "pname": "Centricity Cardiology Data Management System ファームウェア",
-  "pcpe": "cpe:/o:gehealthcare:centricity_dms_firmware"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "24529",
+	"pname": "Centricity Cardiology Data Management System ファームウェア",
+	"pcpe": "cpe:/o:gehealthcare:centricity_dms_firmware"
 }

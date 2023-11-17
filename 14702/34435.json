@@ -1,8 +1,8 @@
 {
-  "vid": "14702",
-  "vname": "Nodejitsu",
-  "vcpe": "cpe:/:nodejitsu",
-  "pid": "34435",
-  "pname": "http-proxy",
-  "pcpe": "cpe:/a:nodejitsu:http-proxy"
+	"vid": "14702",
+	"vname": "Nodejitsu",
+	"vcpe": "cpe:/:nodejitsu",
+	"pid": "34435",
+	"pname": "http-proxy",
+	"pcpe": "cpe:/a:nodejitsu:http-proxy"
 }

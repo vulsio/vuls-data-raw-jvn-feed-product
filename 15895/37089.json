@@ -1,8 +1,8 @@
 {
-  "vid": "15895",
-  "vname": "Security Roots Ltd",
-  "vcpe": "cpe:/:dradisframework",
-  "pid": "37089",
-  "pname": "Dradis",
-  "pcpe": "cpe:/a:dradisframework:dradis"
+	"vid": "15895",
+	"vname": "Security Roots Ltd",
+	"vcpe": "cpe:/:dradisframework",
+	"pid": "37089",
+	"pname": "Dradis",
+	"pcpe": "cpe:/a:dradisframework:dradis"
 }

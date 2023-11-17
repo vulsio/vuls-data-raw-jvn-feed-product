@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "15174",
-  "pname": "suse linux openexchange server",
-  "pcpe": "cpe:/a:suse:suse_linux_openexchange_server"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "15174",
+	"pname": "suse linux openexchange server",
+	"pcpe": "cpe:/a:suse:suse_linux_openexchange_server"
 }

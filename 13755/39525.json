@@ -1,8 +1,8 @@
 {
-  "vid": "13755",
-  "vname": "Hyland Software Inc.",
-  "vcpe": "cpe:/:hyland",
-  "pid": "39525",
-  "pname": "Perceptive Content Server",
-  "pcpe": "cpe:/a:hyland:perceptive_content_server"
+	"vid": "13755",
+	"vname": "Hyland Software Inc.",
+	"vcpe": "cpe:/:hyland",
+	"pid": "39525",
+	"pname": "Perceptive Content Server",
+	"pcpe": "cpe:/a:hyland:perceptive_content_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "2756",
-  "pname": "JScript",
-  "pcpe": "cpe:/a:microsoft:jscript"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "2756",
+	"pname": "JScript",
+	"pcpe": "cpe:/a:microsoft:jscript"
 }

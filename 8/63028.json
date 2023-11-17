@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "63028",
-  "pname": "soap",
-  "pcpe": "cpe:/a:apache:soap"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "63028",
+	"pname": "soap",
+	"pcpe": "cpe:/a:apache:soap"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9939",
-  "vname": "Cobham plc",
-  "vcpe": "cpe:/:cobham",
-  "pid": "20774",
-  "pname": "SAILOR 500 FleetBroadband",
-  "pcpe": "cpe:/h:cobham:sailor_fleetbroadband_500"
+	"vid": "9939",
+	"vname": "Cobham plc",
+	"vcpe": "cpe:/:cobham",
+	"pid": "20774",
+	"pname": "SAILOR 500 FleetBroadband",
+	"pcpe": "cpe:/h:cobham:sailor_fleetbroadband_500"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12740",
-  "vname": "GEUTEBRUCK",
-  "vcpe": "cpe:/:geutebrueck",
-  "pid": "35690",
-  "pname": "re_porter 16 ファームウェア",
-  "pcpe": "cpe:/o:geutebrueck:re_porter_16_firmware"
+	"vid": "12740",
+	"vname": "GEUTEBRUCK",
+	"vcpe": "cpe:/:geutebrueck",
+	"pid": "35690",
+	"pname": "re_porter 16 ファームウェア",
+	"pcpe": "cpe:/o:geutebrueck:re_porter_16_firmware"
 }

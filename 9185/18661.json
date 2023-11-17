@@ -1,8 +1,8 @@
 {
-  "vid": "9185",
-  "vname": "Ingo Renner",
-  "vcpe": "cpe:/:ingo_renner",
-  "pid": "18661",
-  "pname": "Apache Solr for TYPO3",
-  "pcpe": "cpe:/a:ingo_renner:apache_solr"
+	"vid": "9185",
+	"vname": "Ingo Renner",
+	"vcpe": "cpe:/:ingo_renner",
+	"pid": "18661",
+	"pname": "Apache Solr for TYPO3",
+	"pcpe": "cpe:/a:ingo_renner:apache_solr"
 }

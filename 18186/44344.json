@@ -1,8 +1,8 @@
 {
-  "vid": "18186",
-  "vname": "MB CONNECT LINE",
-  "vcpe": "cpe:/:mbconnectline",
-  "pid": "44344",
-  "pname": "mbCONNECT24",
-  "pcpe": "cpe:/a:mbconnectline:mbconnect24"
+	"vid": "18186",
+	"vname": "MB CONNECT LINE",
+	"vcpe": "cpe:/:mbconnectline",
+	"pid": "44344",
+	"pname": "mbCONNECT24",
+	"pcpe": "cpe:/a:mbconnectline:mbconnect24"
 }

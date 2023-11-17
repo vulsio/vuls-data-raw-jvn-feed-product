@@ -1,8 +1,8 @@
 {
-  "vid": "19759",
-  "vname": "LUCY Security",
-  "vcpe": "cpe:/:lucysecurity",
-  "pid": "49830",
-  "pname": "Awareness",
-  "pcpe": "cpe:/a:lucysecurity:security_awareness"
+	"vid": "19759",
+	"vname": "LUCY Security",
+	"vcpe": "cpe:/:lucysecurity",
+	"pid": "49830",
+	"pname": "Awareness",
+	"pcpe": "cpe:/a:lucysecurity:security_awareness"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "488",
-  "vname": "openSUSE project",
-  "vcpe": "cpe:/:opensuse_project",
-  "pid": "43060",
-  "pname": "yast2-security",
-  "pcpe": "cpe:/a:opensuse_project:yast2-security"
+	"vid": "488",
+	"vname": "openSUSE project",
+	"vcpe": "cpe:/:opensuse_project",
+	"pid": "43060",
+	"pname": "yast2-security",
+	"pcpe": "cpe:/a:opensuse_project:yast2-security"
 }

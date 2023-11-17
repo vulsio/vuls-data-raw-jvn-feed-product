@@ -1,8 +1,8 @@
 {
-  "vid": "11337",
-  "vname": "Ping Identity",
-  "vcpe": "cpe:/:pingidentity",
-  "pid": "52228",
-  "pname": "RSA SecurID Integration Kit",
-  "pcpe": "cpe:/a:pingidentity:rsa_securid_integration_kit"
+	"vid": "11337",
+	"vname": "Ping Identity",
+	"vcpe": "cpe:/:pingidentity",
+	"pid": "52228",
+	"pname": "RSA SecurID Integration Kit",
+	"pcpe": "cpe:/a:pingidentity:rsa_securid_integration_kit"
 }

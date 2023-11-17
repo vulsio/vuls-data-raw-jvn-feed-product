@@ -1,8 +1,8 @@
 {
-  "vid": "9747",
-  "vname": "CISOfy",
-  "vcpe": "cpe:/:cisofy",
-  "pid": "20294",
-  "pname": "Lynis",
-  "pcpe": "cpe:/a:cisofy:lynis"
+	"vid": "9747",
+	"vname": "CISOfy",
+	"vcpe": "cpe:/:cisofy",
+	"pid": "20294",
+	"pname": "Lynis",
+	"pcpe": "cpe:/a:cisofy:lynis"
 }

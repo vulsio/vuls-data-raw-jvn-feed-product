@@ -1,8 +1,8 @@
 {
-  "vid": "15602",
-  "vname": "libopencad project",
-  "vcpe": "cpe:/:libopencad_project",
-  "pid": "36310",
-  "pname": "libopencad",
-  "pcpe": "cpe:/a:libopencad_project:libopencad"
+	"vid": "15602",
+	"vname": "libopencad project",
+	"vcpe": "cpe:/:libopencad_project",
+	"pid": "36310",
+	"pname": "libopencad",
+	"pcpe": "cpe:/a:libopencad_project:libopencad"
 }

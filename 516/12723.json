@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "12723",
-  "pname": "search unleashed plugin",
-  "pcpe": "cpe:/a:wordpress:search_unleashed_plugin"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "12723",
+	"pname": "search unleashed plugin",
+	"pcpe": "cpe:/a:wordpress:search_unleashed_plugin"
 }

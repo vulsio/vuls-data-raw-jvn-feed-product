@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "14288",
-  "pname": "cygwin",
-  "pcpe": "cpe:/a:redhat:cygwin"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "14288",
+	"pname": "cygwin",
+	"pcpe": "cpe:/a:redhat:cygwin"
 }

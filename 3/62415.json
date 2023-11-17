@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "62415",
-  "pname": "ansible automation platform early access",
-  "pcpe": "cpe:/a:redhat:ansible_automation_platform_early_access"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "62415",
+	"pname": "ansible automation platform early access",
+	"pcpe": "cpe:/a:redhat:ansible_automation_platform_early_access"
 }

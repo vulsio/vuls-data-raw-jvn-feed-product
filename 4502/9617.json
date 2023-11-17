@@ -1,8 +1,8 @@
 {
-  "vid": "4502",
-  "vname": "myLittleTools",
-  "vcpe": "cpe:/:mylittletools",
-  "pid": "9617",
-  "pname": "myLittleAdmin",
-  "pcpe": "cpe:/a:mylittletools:mylittleadmin"
+	"vid": "4502",
+	"vname": "myLittleTools",
+	"vcpe": "cpe:/:mylittletools",
+	"pid": "9617",
+	"pname": "myLittleAdmin",
+	"pcpe": "cpe:/a:mylittletools:mylittleadmin"
 }

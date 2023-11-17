@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9087",
-  "pname": "IBM Proventia Network Mail Security System",
-  "pcpe": "cpe:/h:ibm:proventia_network_mail_security_system"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9087",
+	"pname": "IBM Proventia Network Mail Security System",
+	"pcpe": "cpe:/h:ibm:proventia_network_mail_security_system"
 }

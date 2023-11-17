@@ -1,8 +1,8 @@
 {
-  "vid": "7938",
-  "vname": "telekorn",
-  "vcpe": "cpe:/:telekorn",
-  "pid": "15324",
-  "pname": "signkorn guestbook",
-  "pcpe": "cpe:/a:telekorn:signkorn_guestbook"
+	"vid": "7938",
+	"vname": "telekorn",
+	"vcpe": "cpe:/:telekorn",
+	"pid": "15324",
+	"pname": "signkorn guestbook",
+	"pcpe": "cpe:/a:telekorn:signkorn_guestbook"
 }

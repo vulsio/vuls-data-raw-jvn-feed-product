@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "5766",
-  "pname": "catalyst driver",
-  "pcpe": "cpe:/a:amd:catalyst_driver"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "5766",
+	"pname": "catalyst driver",
+	"pcpe": "cpe:/a:amd:catalyst_driver"
 }

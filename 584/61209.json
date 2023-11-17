@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "61209",
-  "pname": "simatic mv560 u ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_mv560_u_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "61209",
+	"pname": "simatic mv560 u ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_mv560_u_firmware"
 }

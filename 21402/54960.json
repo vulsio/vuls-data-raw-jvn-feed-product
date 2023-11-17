@@ -1,8 +1,8 @@
 {
-  "vid": "21402",
-  "vname": "ruby-git",
-  "vcpe": "cpe:/:misc",
-  "pid": "54960",
-  "pname": "ruby-git",
-  "pcpe": "cpe:/a:misc:ruby-git_ruby-git"
+	"vid": "21402",
+	"vname": "ruby-git",
+	"vcpe": "cpe:/:misc",
+	"pid": "54960",
+	"pname": "ruby-git",
+	"pcpe": "cpe:/a:misc:ruby-git_ruby-git"
 }

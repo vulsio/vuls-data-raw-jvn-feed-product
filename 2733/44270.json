@@ -1,8 +1,8 @@
 {
-  "vid": "2733",
-  "vname": "Castle Rock Computing",
-  "vcpe": "cpe:/:castle_rock_computing",
-  "pid": "44270",
-  "pname": "SNMPc Online",
-  "pcpe": "cpe:/a:castle_rock_computing:snmpc_online"
+	"vid": "2733",
+	"vname": "Castle Rock Computing",
+	"vcpe": "cpe:/:castle_rock_computing",
+	"pid": "44270",
+	"pname": "SNMPc Online",
+	"pcpe": "cpe:/a:castle_rock_computing:snmpc_online"
 }

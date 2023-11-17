@@ -1,8 +1,8 @@
 {
-  "vid": "15561",
-  "vname": "STMicroelectronics",
-  "vcpe": "cpe:/:stmicroelectronics",
-  "pid": "43447",
-  "pname": "WB55",
-  "pcpe": "cpe:/a:stmicroelectronics:wb55"
+	"vid": "15561",
+	"vname": "STMicroelectronics",
+	"vcpe": "cpe:/:stmicroelectronics",
+	"pid": "43447",
+	"pname": "WB55",
+	"pcpe": "cpe:/a:stmicroelectronics:wb55"
 }

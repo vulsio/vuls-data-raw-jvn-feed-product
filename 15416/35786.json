@@ -1,8 +1,8 @@
 {
-  "vid": "15416",
-  "vname": "PESCMS Software",
-  "vcpe": "cpe:/:pescms",
-  "pid": "35786",
-  "pname": "PESCMS TEAM",
-  "pcpe": "cpe:/a:pescms:pescms_team"
+	"vid": "15416",
+	"vname": "PESCMS Software",
+	"vcpe": "cpe:/:pescms",
+	"pid": "35786",
+	"pname": "PESCMS TEAM",
+	"pcpe": "cpe:/a:pescms:pescms_team"
 }

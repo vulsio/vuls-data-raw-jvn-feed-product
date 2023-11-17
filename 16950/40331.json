@@ -1,8 +1,8 @@
 {
-  "vid": "16950",
-  "vname": "ROBOTIS Co.,Ltd.",
-  "vcpe": "cpe:/:robotis",
-  "pid": "40331",
-  "pname": "Dynamixel SDK",
-  "pcpe": "cpe:/a:robotis:dynamixel_sdk"
+	"vid": "16950",
+	"vname": "ROBOTIS Co.,Ltd.",
+	"vcpe": "cpe:/:robotis",
+	"pid": "40331",
+	"pname": "Dynamixel SDK",
+	"pcpe": "cpe:/a:robotis:dynamixel_sdk"
 }

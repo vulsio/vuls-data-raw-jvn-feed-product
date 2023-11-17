@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18564",
-  "pname": "HP LaserJet MFP M525f",
-  "pcpe": "cpe:/h:hp:laserjet_m525f"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18564",
+	"pname": "HP LaserJet MFP M525f",
+	"pcpe": "cpe:/h:hp:laserjet_m525f"
 }

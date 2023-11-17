@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "28811",
-  "pname": "Nova LXD",
-  "pcpe": "cpe:/a:openstack:nova-lxd"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "28811",
+	"pname": "Nova LXD",
+	"pcpe": "cpe:/a:openstack:nova-lxd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3728",
-  "vname": "flashget",
-  "vcpe": "cpe:/:flashget",
-  "pid": "8099",
-  "pname": "flashget ftp",
-  "pcpe": "cpe:/a:flashget:flashget_ftp"
+	"vid": "3728",
+	"vname": "flashget",
+	"vcpe": "cpe:/:flashget",
+	"pid": "8099",
+	"pname": "flashget ftp",
+	"pcpe": "cpe:/a:flashget:flashget_ftp"
 }

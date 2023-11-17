@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53686",
-  "pname": "Oracle Product Lifecycle Analytics",
-  "pcpe": "cpe:/a:oracle:product_lifecycle_analytics"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53686",
+	"pname": "Oracle Product Lifecycle Analytics",
+	"pcpe": "cpe:/a:oracle:product_lifecycle_analytics"
 }

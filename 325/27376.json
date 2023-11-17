@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27376",
-  "pname": "ThinkPad Yoga 260 S1 BIOS",
-  "pcpe": "cpe:/o:lenovo:thinkpad_yoga_260_s1_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27376",
+	"pname": "ThinkPad Yoga 260 S1 BIOS",
+	"pcpe": "cpe:/o:lenovo:thinkpad_yoga_260_s1_bios"
 }

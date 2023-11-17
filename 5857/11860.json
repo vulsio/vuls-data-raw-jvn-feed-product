@@ -1,8 +1,8 @@
 {
-  "vid": "5857",
-  "vname": "mysql quick admin",
-  "vcpe": "cpe:/:mysql_quick_admin",
-  "pid": "11860",
-  "pname": "mysql quick admin",
-  "pcpe": "cpe:/a:mysql_quick_admin:mysql_quick_admin"
+	"vid": "5857",
+	"vname": "mysql quick admin",
+	"vcpe": "cpe:/:mysql_quick_admin",
+	"pid": "11860",
+	"pname": "mysql quick admin",
+	"pcpe": "cpe:/a:mysql_quick_admin:mysql_quick_admin"
 }

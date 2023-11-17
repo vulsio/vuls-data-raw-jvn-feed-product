@@ -1,8 +1,8 @@
 {
-  "vid": "17990",
-  "vname": "Tonnet",
-  "vcpe": "cpe:/:tonnet",
-  "pid": "43596",
-  "pname": "tat-76116g3 ファームウェア",
-  "pcpe": "cpe:/o:tonnet:tat-76116g3_firmware"
+	"vid": "17990",
+	"vname": "Tonnet",
+	"vcpe": "cpe:/:tonnet",
+	"pid": "43596",
+	"pname": "tat-76116g3 ファームウェア",
+	"pcpe": "cpe:/o:tonnet:tat-76116g3_firmware"
 }

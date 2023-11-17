@@ -1,8 +1,8 @@
 {
-  "vid": "22555",
-  "vname": "pnpm",
-  "vcpe": "cpe:/:pnpm",
-  "pid": "58057",
-  "pname": "pnpm",
-  "pcpe": "cpe:/a:pnpm:pnpm"
+	"vid": "22555",
+	"vname": "pnpm",
+	"vcpe": "cpe:/:pnpm",
+	"pid": "58057",
+	"pname": "pnpm",
+	"pcpe": "cpe:/a:pnpm:pnpm"
 }

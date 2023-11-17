@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56761",
-  "pname": "LTE7480-S905 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:lte7480-s905_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56761",
+	"pname": "LTE7480-S905 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:lte7480-s905_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1987",
-  "vname": "abweb",
-  "vcpe": "cpe:/:abweb",
-  "pid": "5428",
-  "pname": "minimal-ablog",
-  "pcpe": "cpe:/a:abweb:minimal-ablog"
+	"vid": "1987",
+	"vname": "abweb",
+	"vcpe": "cpe:/:abweb",
+	"pid": "5428",
+	"pname": "minimal-ablog",
+	"pcpe": "cpe:/a:abweb:minimal-ablog"
 }

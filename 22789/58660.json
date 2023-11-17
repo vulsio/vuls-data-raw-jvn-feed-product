@@ -1,8 +1,8 @@
 {
-  "vid": "22789",
-  "vname": "qcp",
-  "vcpe": "cpe:/:qcp",
-  "pid": "58660",
-  "pname": "qcp200w ファームウェア",
-  "pcpe": "cpe:/o:qcp:qcp200w_firmware"
+	"vid": "22789",
+	"vname": "qcp",
+	"vcpe": "cpe:/:qcp",
+	"pid": "58660",
+	"pname": "qcp200w ファームウェア",
+	"pcpe": "cpe:/o:qcp:qcp200w_firmware"
 }

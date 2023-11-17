@@ -1,8 +1,8 @@
 {
-  "vid": "19493",
-  "vname": "TIL TECHNOLOGIES",
-  "vcpe": "cpe:/:sesame-system",
-  "pid": "49099",
-  "pname": "Web-Sesame",
-  "pcpe": "cpe:/a:sesame-system:web-sesame"
+	"vid": "19493",
+	"vname": "TIL TECHNOLOGIES",
+	"vcpe": "cpe:/:sesame-system",
+	"pid": "49099",
+	"pname": "Web-Sesame",
+	"pcpe": "cpe:/a:sesame-system:web-sesame"
 }

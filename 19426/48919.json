@@ -1,8 +1,8 @@
 {
-  "vid": "19426",
-  "vname": "Trusted Domain Project",
-  "vcpe": "cpe:/:opendkim",
-  "pid": "48919",
-  "pname": "OpenDKIM",
-  "pcpe": "cpe:/a:opendkim:opendkim"
+	"vid": "19426",
+	"vname": "Trusted Domain Project",
+	"vcpe": "cpe:/:opendkim",
+	"pid": "48919",
+	"pname": "OpenDKIM",
+	"pcpe": "cpe:/a:opendkim:opendkim"
 }

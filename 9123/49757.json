@@ -1,8 +1,8 @@
 {
-  "vid": "9123",
-  "vname": "Tenable, Inc.",
-  "vcpe": "cpe:/:tenable",
-  "pid": "49757",
-  "pname": "Tenable Jira Cloud",
-  "pcpe": "cpe:/a:tenable:jira_cloud"
+	"vid": "9123",
+	"vname": "Tenable, Inc.",
+	"vcpe": "cpe:/:tenable",
+	"pid": "49757",
+	"pname": "Tenable Jira Cloud",
+	"pcpe": "cpe:/a:tenable:jira_cloud"
 }

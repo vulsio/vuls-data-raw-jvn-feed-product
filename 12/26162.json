@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "26162",
-  "pname": "Trend Micro Mobile Security",
-  "pcpe": "cpe:/a:trendmicro:mobile_security"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "26162",
+	"pname": "Trend Micro Mobile Security",
+	"pcpe": "cpe:/a:trendmicro:mobile_security"
 }

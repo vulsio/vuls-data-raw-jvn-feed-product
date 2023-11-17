@@ -1,8 +1,8 @@
 {
-  "vid": "7255",
-  "vname": "Realtek Semiconductor Corp",
-  "vcpe": "cpe:/:realtek",
-  "pid": "62409",
-  "pname": "bluetooth mesh software development kit",
-  "pcpe": "cpe:/a:realtek:bluetooth_mesh_software_development_kit"
+	"vid": "7255",
+	"vname": "Realtek Semiconductor Corp",
+	"vcpe": "cpe:/:realtek",
+	"pid": "62409",
+	"pname": "bluetooth mesh software development kit",
+	"pcpe": "cpe:/a:realtek:bluetooth_mesh_software_development_kit"
 }

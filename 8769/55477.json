@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "55477",
-  "pname": "QVR Elite",
-  "pcpe": "cpe:/a:qnap:qvr_elite"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "55477",
+	"pname": "QVR Elite",
+	"pcpe": "cpe:/a:qnap:qvr_elite"
 }

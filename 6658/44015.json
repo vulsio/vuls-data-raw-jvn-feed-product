@@ -1,8 +1,8 @@
 {
-  "vid": "6658",
-  "vname": "MikroTik",
-  "vcpe": "cpe:/:mikrotik",
-  "pid": "44015",
-  "pname": "RB2011iL-IN ファームウェア",
-  "pcpe": "cpe:/o:mikrotik:rb2011il-in_firmware"
+	"vid": "6658",
+	"vname": "MikroTik",
+	"vcpe": "cpe:/:mikrotik",
+	"pid": "44015",
+	"pname": "RB2011iL-IN ファームウェア",
+	"pcpe": "cpe:/o:mikrotik:rb2011il-in_firmware"
 }

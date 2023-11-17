@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52820",
-  "pname": "SD_455 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd_455_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52820",
+	"pname": "SD_455 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd_455_firmware"
 }

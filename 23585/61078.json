@@ -1,8 +1,8 @@
 {
-  "vid": "23585",
-  "vname": "WP Show Posts project",
-  "vcpe": "cpe:/:wp_show_posts_project",
-  "pid": "61078",
-  "pname": "WP Show Posts",
-  "pcpe": "cpe:/a:wp_show_posts_project:wp_show_posts"
+	"vid": "23585",
+	"vname": "WP Show Posts project",
+	"vcpe": "cpe:/:wp_show_posts_project",
+	"pid": "61078",
+	"pname": "WP Show Posts",
+	"pcpe": "cpe:/a:wp_show_posts_project:wp_show_posts"
 }

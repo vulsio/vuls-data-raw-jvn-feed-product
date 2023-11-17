@@ -1,8 +1,8 @@
 {
-  "vid": "18567",
-  "vname": "pypi",
-  "vcpe": "cpe:/:pypi",
-  "pid": "60851",
-  "pname": "perdido",
-  "pcpe": "cpe:/a:pypi:perdido"
+	"vid": "18567",
+	"vname": "pypi",
+	"vcpe": "cpe:/:pypi",
+	"pid": "60851",
+	"pname": "perdido",
+	"pcpe": "cpe:/a:pypi:perdido"
 }

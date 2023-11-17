@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "54793",
-  "pname": "Samsung Contacts",
-  "pcpe": "cpe:/a:samsung:contacts"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "54793",
+	"pname": "Samsung Contacts",
+	"pcpe": "cpe:/a:samsung:contacts"
 }

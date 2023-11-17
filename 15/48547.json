@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "48547",
-  "pname": "Oracle Public Sector Financials",
-  "pcpe": "cpe:/a:oracle:public_sector_financials"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "48547",
+	"pname": "Oracle Public Sector Financials",
+	"pcpe": "cpe:/a:oracle:public_sector_financials"
 }

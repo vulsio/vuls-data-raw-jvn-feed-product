@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19634",
-  "pname": "Algo Risk Application",
-  "pcpe": "cpe:/a:ibm:algo_risk_application"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19634",
+	"pname": "Algo Risk Application",
+	"pcpe": "cpe:/a:ibm:algo_risk_application"
 }

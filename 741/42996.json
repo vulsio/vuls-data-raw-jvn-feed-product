@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "42996",
-  "pname": "DCS-2102 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dcs-2102_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "42996",
+	"pname": "DCS-2102 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dcs-2102_firmware"
 }

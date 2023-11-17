@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9972",
-  "pname": "Cognos Express",
-  "pcpe": "cpe:/a:ibm:cognos_express"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9972",
+	"pname": "Cognos Express",
+	"pcpe": "cpe:/a:ibm:cognos_express"
 }

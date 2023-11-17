@@ -1,8 +1,8 @@
 {
-  "vid": "574",
-  "vname": "ESET",
-  "vcpe": "cpe:/:eset",
-  "pid": "56560",
-  "pname": "ESET Server Security",
-  "pcpe": "cpe:/a:eset:server_security"
+	"vid": "574",
+	"vname": "ESET",
+	"vcpe": "cpe:/:eset",
+	"pid": "56560",
+	"pname": "ESET Server Security",
+	"pcpe": "cpe:/a:eset:server_security"
 }

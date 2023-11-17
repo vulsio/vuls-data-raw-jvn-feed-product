@@ -1,8 +1,8 @@
 {
-  "vid": "11156",
-  "vname": "Comcast",
-  "vcpe": "cpe:/:comcast",
-  "pid": "22786",
-  "pname": "xfinity constant guard mobile",
-  "pcpe": "cpe:/a:comcast:xfinity_constant_guard_mobile"
+	"vid": "11156",
+	"vname": "Comcast",
+	"vcpe": "cpe:/:comcast",
+	"pid": "22786",
+	"pname": "xfinity constant guard mobile",
+	"pcpe": "cpe:/a:comcast:xfinity_constant_guard_mobile"
 }

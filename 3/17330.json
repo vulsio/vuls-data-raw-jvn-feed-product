@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "17330",
-  "pname": "Red Hat Enterprise Linux Server AUS",
-  "pcpe": "cpe:/o:redhat:enterprise_linux_server_aus"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "17330",
+	"pname": "Red Hat Enterprise Linux Server AUS",
+	"pcpe": "cpe:/o:redhat:enterprise_linux_server_aus"
 }

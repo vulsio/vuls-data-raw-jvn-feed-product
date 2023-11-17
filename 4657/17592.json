@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "17592",
-  "pname": "UTPS ファームウェア",
-  "pcpe": "cpe:/o:huawei:utps_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "17592",
+	"pname": "UTPS ファームウェア",
+	"pcpe": "cpe:/o:huawei:utps_firmware"
 }

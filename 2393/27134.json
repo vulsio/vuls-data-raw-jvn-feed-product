@@ -1,8 +1,8 @@
 {
-  "vid": "2393",
-  "vname": "AVAST Software s.r.o.",
-  "vcpe": "cpe:/:avast",
-  "pid": "27134",
-  "pname": "Avast Premier",
-  "pcpe": "cpe:/a:avast:premier"
+	"vid": "2393",
+	"vname": "AVAST Software s.r.o.",
+	"vcpe": "cpe:/:avast",
+	"pid": "27134",
+	"pname": "Avast Premier",
+	"pcpe": "cpe:/a:avast:premier"
 }

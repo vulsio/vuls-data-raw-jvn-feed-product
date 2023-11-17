@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "51134",
-  "pname": "Connection Manager",
-  "pcpe": "cpe:/a:intel:connection_manager"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "51134",
+	"pname": "Connection Manager",
+	"pcpe": "cpe:/a:intel:connection_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47182",
-  "pname": "PM7150L ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:pm7150l_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47182",
+	"pname": "PM7150L ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:pm7150l_firmware"
 }

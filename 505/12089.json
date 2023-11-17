@@ -1,8 +1,8 @@
 {
-  "vid": "505",
-  "vname": "Nortel Networks",
-  "vcpe": "cpe:/:nortel",
-  "pid": "12089",
-  "pname": "multimedia communications server",
-  "pcpe": "cpe:/a:nortel:multimedia_communications_server"
+	"vid": "505",
+	"vname": "Nortel Networks",
+	"vcpe": "cpe:/:nortel",
+	"pid": "12089",
+	"pname": "multimedia communications server",
+	"pcpe": "cpe:/a:nortel:multimedia_communications_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17327",
-  "vname": "freeCap CAPTCHA project",
-  "vcpe": "cpe:/:sr_freecap_project",
-  "pid": "41188",
-  "pname": "freeCap CAPTCHA",
-  "pcpe": "cpe:/a:sr_freecap_project:sr_freecap"
+	"vid": "17327",
+	"vname": "freeCap CAPTCHA project",
+	"vcpe": "cpe:/:sr_freecap_project",
+	"pid": "41188",
+	"pname": "freeCap CAPTCHA",
+	"pcpe": "cpe:/a:sr_freecap_project:sr_freecap"
 }

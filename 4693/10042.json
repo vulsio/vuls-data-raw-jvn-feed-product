@@ -1,8 +1,8 @@
 {
-  "vid": "4693",
-  "vname": "icq inc",
-  "vcpe": "cpe:/:icq_inc",
-  "pid": "10042",
-  "pname": "icq toolbar",
-  "pcpe": "cpe:/a:icq_inc:icq_toolbar"
+	"vid": "4693",
+	"vname": "icq inc",
+	"vcpe": "cpe:/:icq_inc",
+	"pid": "10042",
+	"pname": "icq toolbar",
+	"pcpe": "cpe:/a:icq_inc:icq_toolbar"
 }

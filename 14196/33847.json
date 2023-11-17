@@ -1,8 +1,8 @@
 {
-  "vid": "14196",
-  "vname": "Dataiku",
-  "vcpe": "cpe:/:dataiku",
-  "pid": "33847",
-  "pname": "DSS",
-  "pcpe": "cpe:/a:dataiku:data_science_studio"
+	"vid": "14196",
+	"vname": "Dataiku",
+	"vcpe": "cpe:/:dataiku",
+	"pid": "33847",
+	"pname": "DSS",
+	"pcpe": "cpe:/a:dataiku:data_science_studio"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1869",
-  "vname": "Seagate Technology LLC",
-  "vcpe": "cpe:/:seagate",
-  "pid": "25252",
-  "pname": "LaCie FUEL",
-  "pcpe": "cpe:/h:seagate:lacie_fuel"
+	"vid": "1869",
+	"vname": "Seagate Technology LLC",
+	"vcpe": "cpe:/:seagate",
+	"pid": "25252",
+	"pname": "LaCie FUEL",
+	"pcpe": "cpe:/h:seagate:lacie_fuel"
 }

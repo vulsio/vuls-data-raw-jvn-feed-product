@@ -1,8 +1,8 @@
 {
-  "vid": "5862",
-  "vname": "mytty",
-  "vcpe": "cpe:/:mytty",
-  "pid": "11865",
-  "pname": "webapplication finger printer",
-  "pcpe": "cpe:/a:mytty:webapplication_finger_printer"
+	"vid": "5862",
+	"vname": "mytty",
+	"vcpe": "cpe:/:mytty",
+	"pid": "11865",
+	"pname": "webapplication finger printer",
+	"pcpe": "cpe:/a:mytty:webapplication_finger_printer"
 }

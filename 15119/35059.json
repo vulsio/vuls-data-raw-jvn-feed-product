@@ -1,8 +1,8 @@
 {
-  "vid": "15119",
-  "vname": "aio-libs project",
-  "vcpe": "cpe:/:aio-libs_project",
-  "pid": "35059",
-  "pname": "aiohttp",
-  "pcpe": "cpe:/a:aio-libs_project:aiohttp"
+	"vid": "15119",
+	"vname": "aio-libs project",
+	"vcpe": "cpe:/:aio-libs_project",
+	"pid": "35059",
+	"pname": "aiohttp",
+	"pcpe": "cpe:/a:aio-libs_project:aiohttp"
 }

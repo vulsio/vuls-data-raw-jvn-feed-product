@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "60586",
-  "pname": "scalance xr526-8c ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_xr526-8c_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "60586",
+	"pname": "scalance xr526-8c ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_xr526-8c_firmware"
 }

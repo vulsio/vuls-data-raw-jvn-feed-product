@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "48365",
-  "pname": "Archer-C3150 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:archer-c3150_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "48365",
+	"pname": "Archer-C3150 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:archer-c3150_firmware"
 }

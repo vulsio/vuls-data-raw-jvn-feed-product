@@ -1,8 +1,8 @@
 {
-  "vid": "12417",
-  "vname": "Hanwha Techwin Co, ltd.",
-  "vcpe": "cpe:/:hanwha_techwin",
-  "pid": "32905",
-  "pname": "SNH-V6410PNW ファームウェア",
-  "pcpe": "cpe:/o:hanwha_techwin:snh-v6410pnw_firmware"
+	"vid": "12417",
+	"vname": "Hanwha Techwin Co, ltd.",
+	"vcpe": "cpe:/:hanwha_techwin",
+	"pid": "32905",
+	"pname": "SNH-V6410PNW ファームウェア",
+	"pcpe": "cpe:/o:hanwha_techwin:snh-v6410pnw_firmware"
 }

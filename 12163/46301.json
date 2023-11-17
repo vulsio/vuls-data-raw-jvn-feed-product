@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "46301",
-  "pname": "Team Foundation Server Plugin",
-  "pcpe": "cpe:/a:jenkins:team_foundation_server"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "46301",
+	"pname": "Team Foundation Server Plugin",
+	"pcpe": "cpe:/a:jenkins:team_foundation_server"
 }

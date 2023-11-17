@@ -1,8 +1,8 @@
 {
-  "vid": "17",
-  "vname": "インターネット セキュリティ システムズ",
-  "vcpe": "cpe:/:iss",
-  "pid": "964",
-  "pname": "Proventia Desktop",
-  "pcpe": "cpe:/a:iss:proventia_desktop"
+	"vid": "17",
+	"vname": "インターネット セキュリティ システムズ",
+	"vcpe": "cpe:/:iss",
+	"pid": "964",
+	"pname": "Proventia Desktop",
+	"pcpe": "cpe:/a:iss:proventia_desktop"
 }

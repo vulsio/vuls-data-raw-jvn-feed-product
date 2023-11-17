@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "26526",
-  "pname": "Pelco Digital Sentry ビデオ管理システム ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:pelco_digital_sentry_video_management_system_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "26526",
+	"pname": "Pelco Digital Sentry ビデオ管理システム ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:pelco_digital_sentry_video_management_system_firmware"
 }

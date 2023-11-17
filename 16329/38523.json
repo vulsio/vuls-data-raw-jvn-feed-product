@@ -1,8 +1,8 @@
 {
-  "vid": "16329",
-  "vname": "Zotonic",
-  "vcpe": "cpe:/:zotonic",
-  "pid": "38523",
-  "pname": "Zotonic",
-  "pcpe": "cpe:/a:zotonic:zotonic"
+	"vid": "16329",
+	"vname": "Zotonic",
+	"vcpe": "cpe:/:zotonic",
+	"pid": "38523",
+	"pname": "Zotonic",
+	"pcpe": "cpe:/a:zotonic:zotonic"
 }

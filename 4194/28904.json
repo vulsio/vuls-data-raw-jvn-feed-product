@@ -1,8 +1,8 @@
 {
-  "vid": "4194",
-  "vname": "Grandstream Networks",
-  "vcpe": "cpe:/:grandstream",
-  "pid": "28904",
-  "pname": "Grandstream Wave",
-  "pcpe": "cpe:/a:grandstream:wave"
+	"vid": "4194",
+	"vname": "Grandstream Networks",
+	"vcpe": "cpe:/:grandstream",
+	"pid": "28904",
+	"pname": "Grandstream Wave",
+	"pcpe": "cpe:/a:grandstream:wave"
 }

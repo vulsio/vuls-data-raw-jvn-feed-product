@@ -1,8 +1,8 @@
 {
-  "vid": "24418",
-  "vname": "product gtin (ean, upc, isbn) for woocommerce project",
-  "vcpe": "cpe:/:product_gtin_%28ean%2C_upc%2C_isbn%29",
-  "pid": "63085",
-  "pname": "product gtin (ean, upc, isbn) for woocommerce",
-  "pcpe": "cpe:/a:product_gtin_%28ean%2C_upc%2C_isbn%29:product_gtin_%28ean%2C_upc%2C_isbn%29_for_woocommerce"
+	"vid": "24418",
+	"vname": "product gtin (ean, upc, isbn) for woocommerce project",
+	"vcpe": "cpe:/:product_gtin_%28ean%2C_upc%2C_isbn%29",
+	"pid": "63085",
+	"pname": "product gtin (ean, upc, isbn) for woocommerce",
+	"pcpe": "cpe:/a:product_gtin_%28ean%2C_upc%2C_isbn%29:product_gtin_%28ean%2C_upc%2C_isbn%29_for_woocommerce"
 }

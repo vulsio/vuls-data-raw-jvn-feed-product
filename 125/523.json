@@ -1,8 +1,8 @@
 {
-  "vid": "125",
-  "vname": "Project Amateras",
-  "vcpe": "cpe:/:amateras",
-  "pid": "523",
-  "pname": "sns",
-  "pcpe": "cpe:/a:amateras:amateras_sns"
+	"vid": "125",
+	"vname": "Project Amateras",
+	"vcpe": "cpe:/:amateras",
+	"pid": "523",
+	"pname": "sns",
+	"pcpe": "cpe:/a:amateras:amateras_sns"
 }

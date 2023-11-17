@@ -1,8 +1,8 @@
 {
-  "vid": "17595",
-  "vname": "OmniOSce",
-  "vcpe": "cpe:/:omniosce",
-  "pid": "42181",
-  "pname": "OmniOS",
-  "pcpe": "cpe:/o:omniosce:omnios"
+	"vid": "17595",
+	"vname": "OmniOSce",
+	"vcpe": "cpe:/:omniosce",
+	"pid": "42181",
+	"pname": "OmniOS",
+	"pcpe": "cpe:/o:omniosce:omnios"
 }

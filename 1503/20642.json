@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "20642",
-  "pname": "FALCON XLWebExe",
-  "pcpe": "cpe:/h:honeywell:falcon_xlweb_xlwebexe"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "20642",
+	"pname": "FALCON XLWebExe",
+	"pcpe": "cpe:/h:honeywell:falcon_xlweb_xlwebexe"
 }

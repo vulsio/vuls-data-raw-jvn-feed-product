@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28598",
-  "pname": "CloudEngine 7800 ファームウェア",
-  "pcpe": "cpe:/o:huawei:cloudengine_7800_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28598",
+	"pname": "CloudEngine 7800 ファームウェア",
+	"pcpe": "cpe:/o:huawei:cloudengine_7800_firmware"
 }

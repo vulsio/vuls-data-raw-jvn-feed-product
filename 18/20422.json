@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20422",
-  "pname": "IBM CommonStore",
-  "pcpe": "cpe:/a:ibm:commonstore"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20422",
+	"pname": "IBM CommonStore",
+	"pcpe": "cpe:/a:ibm:commonstore"
 }

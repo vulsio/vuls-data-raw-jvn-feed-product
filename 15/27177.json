@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27177",
-  "pname": "Oracle Retail",
-  "pcpe": "cpe:/a:oracle:retail"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27177",
+	"pname": "Oracle Retail",
+	"pcpe": "cpe:/a:oracle:retail"
 }

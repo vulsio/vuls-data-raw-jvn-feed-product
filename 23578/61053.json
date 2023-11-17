@@ -1,8 +1,8 @@
 {
-  "vid": "23578",
-  "vname": "WPVibes",
-  "vcpe": "cpe:/:wpvibes",
-  "pid": "61053",
-  "pname": "WP Mail Log",
-  "pcpe": "cpe:/a:wpvibes:wp_mail_log"
+	"vid": "23578",
+	"vname": "WPVibes",
+	"vcpe": "cpe:/:wpvibes",
+	"pid": "61053",
+	"pname": "WP Mail Log",
+	"pcpe": "cpe:/a:wpvibes:wp_mail_log"
 }

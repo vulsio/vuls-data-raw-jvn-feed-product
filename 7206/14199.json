@@ -1,8 +1,8 @@
 {
-  "vid": "7206",
-  "vname": "Jon Trulson",
-  "vcpe": "cpe:/:radscan",
-  "pid": "14199",
-  "pname": "Network Audio System",
-  "pcpe": "cpe:/a:radscan:network_audio_system"
+	"vid": "7206",
+	"vname": "Jon Trulson",
+	"vcpe": "cpe:/:radscan",
+	"pid": "14199",
+	"pname": "Network Audio System",
+	"pcpe": "cpe:/a:radscan:network_audio_system"
 }

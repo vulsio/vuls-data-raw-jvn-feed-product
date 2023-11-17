@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "58093",
-  "pname": "caribou",
-  "pcpe": "cpe:/a:gnome:caribou"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "58093",
+	"pname": "caribou",
+	"pcpe": "cpe:/a:gnome:caribou"
 }

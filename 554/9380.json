@@ -1,8 +1,8 @@
 {
-  "vid": "554",
-  "vname": "ブルーコートシステムズ",
-  "vcpe": "cpe:/:bluecoat",
-  "pid": "9380",
-  "pname": "ProxySG SG510-5",
-  "pcpe": "cpe:/h:bluecoat:proxysg_sg510-5"
+	"vid": "554",
+	"vname": "ブルーコートシステムズ",
+	"vcpe": "cpe:/:bluecoat",
+	"pid": "9380",
+	"pname": "ProxySG SG510-5",
+	"pcpe": "cpe:/h:bluecoat:proxysg_sg510-5"
 }

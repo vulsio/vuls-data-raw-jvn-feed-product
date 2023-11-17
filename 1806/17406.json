@@ -1,8 +1,8 @@
 {
-  "vid": "1806",
-  "vname": "東芝テック",
-  "vcpe": "cpe:/:toshibatec",
-  "pid": "17406",
-  "pname": "e-STUDIO 2500c ファームウェア",
-  "pcpe": "cpe:/a:toshibatec:e-studio-2500c_firmware"
+	"vid": "1806",
+	"vname": "東芝テック",
+	"vcpe": "cpe:/:toshibatec",
+	"pid": "17406",
+	"pname": "e-STUDIO 2500c ファームウェア",
+	"pcpe": "cpe:/a:toshibatec:e-studio-2500c_firmware"
 }

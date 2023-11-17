@@ -1,8 +1,8 @@
 {
-  "vid": "9176",
-  "vname": "DrayTek Corporation",
-  "vcpe": "cpe:/:draytek",
-  "pid": "18639",
-  "pname": "Vigor2700 ファームウェア",
-  "pcpe": "cpe:/o:draytek:vigor_2700_router_firmware"
+	"vid": "9176",
+	"vname": "DrayTek Corporation",
+	"vcpe": "cpe:/:draytek",
+	"pid": "18639",
+	"pname": "Vigor2700 ファームウェア",
+	"pcpe": "cpe:/o:draytek:vigor_2700_router_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "30523",
-  "pname": "Enterprise DVR ファームウェア",
-  "pcpe": "cpe:/o:honeywell:enterprise_dvr_firmware"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "30523",
+	"pname": "Enterprise DVR ファームウェア",
+	"pcpe": "cpe:/o:honeywell:enterprise_dvr_firmware"
 }

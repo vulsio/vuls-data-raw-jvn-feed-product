@@ -1,8 +1,8 @@
 {
-  "vid": "21734",
-  "vname": "Telos Alliance",
-  "vcpe": "cpe:/:telosalliance",
-  "pid": "55857",
-  "pname": "Z/IP ONE ファームウェア",
-  "pcpe": "cpe:/o:telosalliance:z%2fip_one_firmware"
+	"vid": "21734",
+	"vname": "Telos Alliance",
+	"vcpe": "cpe:/:telosalliance",
+	"pid": "55857",
+	"pname": "Z/IP ONE ファームウェア",
+	"pcpe": "cpe:/o:telosalliance:z%2fip_one_firmware"
 }

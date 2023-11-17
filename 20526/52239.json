@@ -1,8 +1,8 @@
 {
-  "vid": "20526",
-  "vname": "CachetHQ",
-  "vcpe": "cpe:/:cachethq",
-  "pid": "52239",
-  "pname": "Cachet",
-  "pcpe": "cpe:/a:cachethq:cachet"
+	"vid": "20526",
+	"vname": "CachetHQ",
+	"vcpe": "cpe:/:cachethq",
+	"pid": "52239",
+	"pname": "Cachet",
+	"pcpe": "cpe:/a:cachethq:cachet"
 }

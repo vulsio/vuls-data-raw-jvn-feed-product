@@ -1,8 +1,8 @@
 {
-  "vid": "12753",
-  "vname": "Oniguruma project",
-  "vcpe": "cpe:/:oniguruma_project",
-  "pid": "29315",
-  "pname": "Oniguruma",
-  "pcpe": "cpe:/a:oniguruma_project:oniguruma"
+	"vid": "12753",
+	"vname": "Oniguruma project",
+	"vcpe": "cpe:/:oniguruma_project",
+	"pid": "29315",
+	"pname": "Oniguruma",
+	"pcpe": "cpe:/a:oniguruma_project:oniguruma"
 }

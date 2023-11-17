@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5311",
-  "pname": "Cisco Catalyst 6509-V-E スイッチ",
-  "pcpe": "cpe:/h:cisco:catalyst_6509-v-e"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5311",
+	"pname": "Cisco Catalyst 6509-V-E スイッチ",
+	"pcpe": "cpe:/h:cisco:catalyst_6509-v-e"
 }

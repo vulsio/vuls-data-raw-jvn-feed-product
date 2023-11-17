@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26837",
-  "pname": "CH226 V3",
-  "pcpe": "cpe:/h:huawei:ch226_v3_server"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26837",
+	"pname": "CH226 V3",
+	"pcpe": "cpe:/h:huawei:ch226_v3_server"
 }

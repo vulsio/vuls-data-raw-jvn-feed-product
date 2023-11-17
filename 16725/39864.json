@@ -1,8 +1,8 @@
 {
-  "vid": "16725",
-  "vname": "Backpack for Laravel",
-  "vcpe": "cpe:/:backpackforlaravel",
-  "pid": "39864",
-  "pname": "Backpack CRUD",
-  "pcpe": "cpe:/a:backpackforlaravel:backpack_crud"
+	"vid": "16725",
+	"vname": "Backpack for Laravel",
+	"vcpe": "cpe:/:backpackforlaravel",
+	"pid": "39864",
+	"pname": "Backpack CRUD",
+	"pcpe": "cpe:/a:backpackforlaravel:backpack_crud"
 }

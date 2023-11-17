@@ -1,8 +1,8 @@
 {
-  "vid": "22765",
-  "vname": "chitubox",
-  "vcpe": "cpe:/:chitubox",
-  "pid": "58571",
-  "pname": "chitubox basic",
-  "pcpe": "cpe:/a:chitubox:chitubox_basic"
+	"vid": "22765",
+	"vname": "chitubox",
+	"vcpe": "cpe:/:chitubox",
+	"pid": "58571",
+	"pname": "chitubox basic",
+	"pcpe": "cpe:/a:chitubox:chitubox_basic"
 }

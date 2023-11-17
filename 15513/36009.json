@@ -1,8 +1,8 @@
 {
-  "vid": "15513",
-  "vname": "HorusCMS project",
-  "vcpe": "cpe:/:horuscms_project",
-  "pid": "36009",
-  "pname": "HorusCMS",
-  "pcpe": "cpe:/a:horuscms_project:horuscms"
+	"vid": "15513",
+	"vname": "HorusCMS project",
+	"vcpe": "cpe:/:horuscms_project",
+	"pid": "36009",
+	"pname": "HorusCMS",
+	"pcpe": "cpe:/a:horuscms_project:horuscms"
 }

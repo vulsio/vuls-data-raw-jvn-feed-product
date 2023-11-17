@@ -1,8 +1,8 @@
 {
-  "vid": "18305",
-  "vname": "JetStreem",
-  "vcpe": "cpe:/:jetstream",
-  "pid": "44892",
-  "pname": "JetSelect",
-  "pcpe": "cpe:/a:jetstream:jetselect"
+	"vid": "18305",
+	"vname": "JetStreem",
+	"vcpe": "cpe:/:jetstream",
+	"pid": "44892",
+	"pname": "JetSelect",
+	"pcpe": "cpe:/a:jetstream:jetselect"
 }

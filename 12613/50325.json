@@ -1,8 +1,8 @@
 {
-  "vid": "12613",
-  "vname": "Cesanta",
-  "vcpe": "cpe:/:cesanta",
-  "pid": "50325",
-  "pname": "MongooseOS mJS",
-  "pcpe": "cpe:/a:cesanta:mongooseos_mjs"
+	"vid": "12613",
+	"vname": "Cesanta",
+	"vcpe": "cpe:/:cesanta",
+	"pid": "50325",
+	"pname": "MongooseOS mJS",
+	"pcpe": "cpe:/a:cesanta:mongooseos_mjs"
 }

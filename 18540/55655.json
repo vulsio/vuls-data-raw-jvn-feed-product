@@ -1,8 +1,8 @@
 {
-  "vid": "18540",
-  "vname": "Digital Bazaar, Inc.",
-  "vcpe": "cpe:/:digitalbazzar",
-  "pid": "55655",
-  "pname": "forge",
-  "pcpe": "cpe:/a:digitalbazzar:forge"
+	"vid": "18540",
+	"vname": "Digital Bazaar, Inc.",
+	"vcpe": "cpe:/:digitalbazzar",
+	"pid": "55655",
+	"pname": "forge",
+	"pcpe": "cpe:/a:digitalbazzar:forge"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3232",
-  "vname": "digitalspinners",
-  "vcpe": "cpe:/:digitalspinners",
-  "pid": "7341",
-  "pname": "ds cms",
-  "pcpe": "cpe:/a:digitalspinners:ds_cms"
+	"vid": "3232",
+	"vname": "digitalspinners",
+	"vcpe": "cpe:/:digitalspinners",
+	"pid": "7341",
+	"pname": "ds cms",
+	"pcpe": "cpe:/a:digitalspinners:ds_cms"
 }

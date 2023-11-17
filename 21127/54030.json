@@ -1,8 +1,8 @@
 {
-  "vid": "21127",
-  "vname": "Pybbs project",
-  "vcpe": "cpe:/:pybbs_project",
-  "pid": "54030",
-  "pname": "Pybbs",
-  "pcpe": "cpe:/a:pybbs_project:pybbs"
+	"vid": "21127",
+	"vname": "Pybbs project",
+	"vcpe": "cpe:/:pybbs_project",
+	"pid": "54030",
+	"pname": "Pybbs",
+	"pcpe": "cpe:/a:pybbs_project:pybbs"
 }

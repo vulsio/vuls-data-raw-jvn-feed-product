@@ -1,8 +1,8 @@
 {
-  "vid": "16313",
-  "vname": "Oculus",
-  "vcpe": "cpe:/:oculus",
-  "pid": "38487",
-  "pname": "Oculus Browser",
-  "pcpe": "cpe:/a:oculus:oculus_browser"
+	"vid": "16313",
+	"vname": "Oculus",
+	"vcpe": "cpe:/:oculus",
+	"pid": "38487",
+	"pname": "Oculus Browser",
+	"pcpe": "cpe:/a:oculus:oculus_browser"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19922",
-  "vname": "MooveAgency",
-  "vcpe": "cpe:/:mooveagency",
-  "pid": "51479",
-  "pname": "Import XML and RSS Feeds",
-  "pcpe": "cpe:/a:mooveagency:import_xml_and_rss_feeds"
+	"vid": "19922",
+	"vname": "MooveAgency",
+	"vcpe": "cpe:/:mooveagency",
+	"pid": "51479",
+	"pname": "Import XML and RSS Feeds",
+	"pcpe": "cpe:/a:mooveagency:import_xml_and_rss_feeds"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9168",
-  "pname": "IBM Systems Director Management Console ファームウェア",
-  "pcpe": "cpe:/o:ibm:systems_director_management__console_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9168",
+	"pname": "IBM Systems Director Management Console ファームウェア",
+	"pcpe": "cpe:/o:ibm:systems_director_management__console_firmware"
 }

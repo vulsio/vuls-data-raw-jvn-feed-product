@@ -1,8 +1,8 @@
 {
-  "vid": "12508",
-  "vname": "Becton, Dickinson and Company (BD)",
-  "vcpe": "cpe:/:bd",
-  "pid": "46147",
-  "pname": "Alaris Systems Manager",
-  "pcpe": "cpe:/a:bd:alaris_systems_manager"
+	"vid": "12508",
+	"vname": "Becton, Dickinson and Company (BD)",
+	"vcpe": "cpe:/:bd",
+	"pid": "46147",
+	"pname": "Alaris Systems Manager",
+	"pcpe": "cpe:/a:bd:alaris_systems_manager"
 }

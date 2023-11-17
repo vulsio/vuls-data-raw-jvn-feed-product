@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "50117",
-  "pname": "Paragon Active Assurance Control Center",
-  "pcpe": "cpe:/a:juniper:paragon_active_assurance_control_center"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "50117",
+	"pname": "Paragon Active Assurance Control Center",
+	"pcpe": "cpe:/a:juniper:paragon_active_assurance_control_center"
 }

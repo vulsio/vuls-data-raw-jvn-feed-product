@@ -1,8 +1,8 @@
 {
-  "vid": "16662",
-  "vname": "Shenzhen JISIWEI intelligent technology Co., Ltd",
-  "vcpe": "cpe:/:jisiwei",
-  "pid": "39704",
-  "pname": "Jisiwei i3 ファームウェア",
-  "pcpe": "cpe:/o:jisiwei:i3_firmware"
+	"vid": "16662",
+	"vname": "Shenzhen JISIWEI intelligent technology Co., Ltd",
+	"vcpe": "cpe:/:jisiwei",
+	"pid": "39704",
+	"pname": "Jisiwei i3 ファームウェア",
+	"pcpe": "cpe:/o:jisiwei:i3_firmware"
 }

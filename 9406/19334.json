@@ -1,8 +1,8 @@
 {
-  "vid": "9406",
-  "vname": "gene6",
-  "vcpe": "cpe:/:gene6",
-  "pid": "19334",
-  "pname": "g6 ftp server",
-  "pcpe": "cpe:/a:gene6:g6_ftp_server"
+	"vid": "9406",
+	"vname": "gene6",
+	"vcpe": "cpe:/:gene6",
+	"pid": "19334",
+	"pname": "g6 ftp server",
+	"pcpe": "cpe:/a:gene6:g6_ftp_server"
 }

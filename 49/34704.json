@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "34704",
-  "pname": "LibreDWG",
-  "pcpe": "cpe:/a:gnu:libredwg"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "34704",
+	"pname": "LibreDWG",
+	"pcpe": "cpe:/a:gnu:libredwg"
 }

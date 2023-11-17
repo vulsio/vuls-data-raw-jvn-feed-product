@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18876",
-  "pname": "Cisco Scientific Atlanta DPC3008/EPC3008 Cable Modem",
-  "pcpe": "cpe:/h:cisco:scientific_atlanta_dpc3008%2fepc3008"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18876",
+	"pname": "Cisco Scientific Atlanta DPC3008/EPC3008 Cable Modem",
+	"pcpe": "cpe:/h:cisco:scientific_atlanta_dpc3008%2fepc3008"
 }

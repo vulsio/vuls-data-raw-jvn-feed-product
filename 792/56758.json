@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56758",
-  "pname": "LTE7240-M403 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:lte7240-m403_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56758",
+	"pname": "LTE7240-M403 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:lte7240-m403_firmware"
 }

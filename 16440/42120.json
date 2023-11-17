@@ -1,8 +1,8 @@
 {
-  "vid": "16440",
-  "vname": "Anviz Global",
-  "vcpe": "cpe:/:anviz",
-  "pid": "42120",
-  "pname": "Anviz ファームウェア",
-  "pcpe": "cpe:/o:anviz:anviz_firmware"
+	"vid": "16440",
+	"vname": "Anviz Global",
+	"vcpe": "cpe:/:anviz",
+	"pid": "42120",
+	"pname": "Anviz ファームウェア",
+	"pcpe": "cpe:/o:anviz:anviz_firmware"
 }

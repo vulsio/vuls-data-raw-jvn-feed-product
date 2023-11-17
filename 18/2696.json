@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "2696",
-  "pname": "Lotus Sametime Advanced",
-  "pcpe": "cpe:/a:ibm:lotus_sametime_advanced"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "2696",
+	"pname": "Lotus Sametime Advanced",
+	"pcpe": "cpe:/a:ibm:lotus_sametime_advanced"
 }

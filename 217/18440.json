@@ -1,8 +1,8 @@
 {
-  "vid": "217",
-  "vname": "インターネットイニシアティブ",
-  "vcpe": "cpe:/:iij",
-  "pid": "18440",
-  "pname": "SEIL/B1 ファームウェア",
-  "pcpe": "cpe:/o:iij:seil%252fb1_firmware"
+	"vid": "217",
+	"vname": "インターネットイニシアティブ",
+	"vcpe": "cpe:/:iij",
+	"pid": "18440",
+	"pname": "SEIL/B1 ファームウェア",
+	"pcpe": "cpe:/o:iij:seil%252fb1_firmware"
 }

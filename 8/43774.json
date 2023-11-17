@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "43774",
-  "pname": "ShardingSphere",
-  "pcpe": "cpe:/a:apache:shardingsphere"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "43774",
+	"pname": "ShardingSphere",
+	"pcpe": "cpe:/a:apache:shardingsphere"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18147",
-  "vname": "VISAM",
-  "vcpe": "cpe:/:visam",
-  "pid": "44218",
-  "pname": "VBASE Web-Remote",
-  "pcpe": "cpe:/a:visam:vbase_web-remote"
+	"vid": "18147",
+	"vname": "VISAM",
+	"vcpe": "cpe:/:visam",
+	"pid": "44218",
+	"pname": "VBASE Web-Remote",
+	"pcpe": "cpe:/a:visam:vbase_web-remote"
 }

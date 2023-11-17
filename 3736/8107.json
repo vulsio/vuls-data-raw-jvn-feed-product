@@ -1,8 +1,8 @@
 {
-  "vid": "3736",
-  "vname": "flaxweb",
-  "vcpe": "cpe:/:flaxweb",
-  "pid": "8107",
-  "pname": "flax article manager",
-  "pcpe": "cpe:/a:flaxweb:flax_article_manager"
+	"vid": "3736",
+	"vname": "flaxweb",
+	"vcpe": "cpe:/:flaxweb",
+	"pid": "8107",
+	"pname": "flax article manager",
+	"pcpe": "cpe:/a:flaxweb:flax_article_manager"
 }

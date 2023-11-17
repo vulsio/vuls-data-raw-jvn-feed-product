@@ -1,8 +1,8 @@
 {
-  "vid": "21636",
-  "vname": "Crisp",
-  "vcpe": "cpe:/:crisp",
-  "pid": "55572",
-  "pname": "Live Chat",
-  "pcpe": "cpe:/a:crisp:live_chat"
+	"vid": "21636",
+	"vname": "Crisp",
+	"vcpe": "cpe:/:crisp",
+	"pid": "55572",
+	"pname": "Live Chat",
+	"pcpe": "cpe:/a:crisp:live_chat"
 }

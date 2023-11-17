@@ -1,8 +1,8 @@
 {
-  "vid": "15636",
-  "vname": "Neato Robotics, Inc.",
-  "vcpe": "cpe:/:neato",
-  "pid": "36391",
-  "pname": "Botvac 85 ファームウェア",
-  "pcpe": "cpe:/o:neato:botvac_85_firmware"
+	"vid": "15636",
+	"vname": "Neato Robotics, Inc.",
+	"vcpe": "cpe:/:neato",
+	"pid": "36391",
+	"pname": "Botvac 85 ファームウェア",
+	"pcpe": "cpe:/o:neato:botvac_85_firmware"
 }

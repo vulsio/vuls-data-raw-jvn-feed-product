@@ -1,8 +1,8 @@
 {
-  "vid": "15998",
-  "vname": "HelpSystems",
-  "vcpe": "cpe:/:helpsystems",
-  "pid": "61804",
-  "pname": "goanywhere managed file transfer",
-  "pcpe": "cpe:/a:helpsystems:goanywhere_managed_file_transfer"
+	"vid": "15998",
+	"vname": "HelpSystems",
+	"vcpe": "cpe:/:helpsystems",
+	"pid": "61804",
+	"pname": "goanywhere managed file transfer",
+	"pcpe": "cpe:/a:helpsystems:goanywhere_managed_file_transfer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27833",
-  "pname": "IBM Security Access Manager アプライアンス",
-  "pcpe": "cpe:/h:ibm:security_access_manager_appliance"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27833",
+	"pname": "IBM Security Access Manager アプライアンス",
+	"pcpe": "cpe:/h:ibm:security_access_manager_appliance"
 }

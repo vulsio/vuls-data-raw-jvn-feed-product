@@ -1,8 +1,8 @@
 {
-  "vid": "9923",
-  "vname": "IPython development team",
-  "vcpe": "cpe:/:ipython",
-  "pid": "30592",
-  "pname": "IPython",
-  "pcpe": "cpe:/a:ipython:ipython"
+	"vid": "9923",
+	"vname": "IPython development team",
+	"vcpe": "cpe:/:ipython",
+	"pid": "30592",
+	"pname": "IPython",
+	"pcpe": "cpe:/a:ipython:ipython"
 }

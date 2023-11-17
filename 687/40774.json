@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "40774",
-  "pname": "TIBCO Enterprise Runtime for R",
-  "pcpe": "cpe:/a:tibco:enterprise_runtime_for_r"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "40774",
+	"pname": "TIBCO Enterprise Runtime for R",
+	"pcpe": "cpe:/a:tibco:enterprise_runtime_for_r"
 }

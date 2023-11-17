@@ -1,8 +1,8 @@
 {
-  "vid": "22258",
-  "vname": "Autolab project",
-  "vcpe": "cpe:/:autolabproject",
-  "pid": "57242",
-  "pname": "Autolab",
-  "pcpe": "cpe:/a:autolabproject:autolab"
+	"vid": "22258",
+	"vname": "Autolab project",
+	"vcpe": "cpe:/:autolabproject",
+	"pid": "57242",
+	"pname": "Autolab",
+	"pcpe": "cpe:/a:autolabproject:autolab"
 }

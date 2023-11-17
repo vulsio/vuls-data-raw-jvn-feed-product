@@ -1,8 +1,8 @@
 {
-  "vid": "8449",
-  "vname": "webfileexplorer",
-  "vcpe": "cpe:/:webfileexplorer",
-  "pid": "16064",
-  "pname": "web file explorer",
-  "pcpe": "cpe:/a:webfileexplorer:web_file_explorer"
+	"vid": "8449",
+	"vname": "webfileexplorer",
+	"vcpe": "cpe:/:webfileexplorer",
+	"pid": "16064",
+	"pname": "web file explorer",
+	"pcpe": "cpe:/a:webfileexplorer:web_file_explorer"
 }

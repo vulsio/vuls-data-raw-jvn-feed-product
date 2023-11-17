@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "10957",
-  "pname": "ThinkVantage System Update",
-  "pcpe": "cpe:/a:lenovo:thinkvantage_system_update"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "10957",
+	"pname": "ThinkVantage System Update",
+	"pcpe": "cpe:/a:lenovo:thinkvantage_system_update"
 }

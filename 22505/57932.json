@@ -1,8 +1,8 @@
 {
-  "vid": "22505",
-  "vname": "post-loader project",
-  "vcpe": "cpe:/:post-loader_project",
-  "pid": "57932",
-  "pname": "post-loader",
-  "pcpe": "cpe:/a:post-loader_project:post-loader"
+	"vid": "22505",
+	"vname": "post-loader project",
+	"vcpe": "cpe:/:post-loader_project",
+	"pid": "57932",
+	"pname": "post-loader",
+	"pcpe": "cpe:/a:post-loader_project:post-loader"
 }

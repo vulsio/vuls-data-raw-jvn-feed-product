@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "37631",
-  "pname": "thiankpad x1 extreme ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thiankpad_x1_extreme_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "37631",
+	"pname": "thiankpad x1 extreme ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thiankpad_x1_extreme_firmware"
 }

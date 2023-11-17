@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58136",
-  "pname": "Flex 3-11ADA05 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:flex_3-11ada05_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58136",
+	"pname": "Flex 3-11ADA05 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:flex_3-11ada05_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21858",
-  "vname": "json web token project",
-  "vcpe": "cpe:/:json_web_token_project",
-  "pid": "56080",
-  "pname": "json web token",
-  "pcpe": "cpe:/a:json_web_token_project:json_web_token"
+	"vid": "21858",
+	"vname": "json web token project",
+	"vcpe": "cpe:/:json_web_token_project",
+	"pid": "56080",
+	"pname": "json web token",
+	"pcpe": "cpe:/a:json_web_token_project:json_web_token"
 }

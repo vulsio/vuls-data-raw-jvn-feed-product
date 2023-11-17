@@ -1,8 +1,8 @@
 {
-  "vid": "23783",
-  "vname": "hypr",
-  "vcpe": "cpe:/:hypr",
-  "pid": "61515",
-  "pname": "hypr server",
-  "pcpe": "cpe:/a:hypr:hypr_server"
+	"vid": "23783",
+	"vname": "hypr",
+	"vcpe": "cpe:/:hypr",
+	"pid": "61515",
+	"pname": "hypr server",
+	"pcpe": "cpe:/a:hypr:hypr_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9456",
-  "vname": "Anonymous Posting",
-  "vcpe": "cpe:/:anonymous_posting_project",
-  "pid": "19470",
-  "pname": "Anonymous Posting",
-  "pcpe": "cpe:/a:anonymous_posting_project:anonymous_posting"
+	"vid": "9456",
+	"vname": "Anonymous Posting",
+	"vcpe": "cpe:/:anonymous_posting_project",
+	"pid": "19470",
+	"pname": "Anonymous Posting",
+	"pcpe": "cpe:/a:anonymous_posting_project:anonymous_posting"
 }

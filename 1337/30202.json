@@ -1,8 +1,8 @@
 {
-  "vid": "1337",
-  "vname": "Alcatel-Lucent",
-  "vcpe": "cpe:/:alcatel-lucent",
-  "pid": "30202",
-  "pname": "Home Device Manager",
-  "pcpe": "cpe:/a:alcatel-lucent:home_device_manager"
+	"vid": "1337",
+	"vname": "Alcatel-Lucent",
+	"vcpe": "cpe:/:alcatel-lucent",
+	"pid": "30202",
+	"pname": "Home Device Manager",
+	"pcpe": "cpe:/a:alcatel-lucent:home_device_manager"
 }

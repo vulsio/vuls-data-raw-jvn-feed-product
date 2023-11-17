@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "16966",
-  "pname": "IBM System Storage TS3500 テープ・ライブラリー",
-  "pcpe": "cpe:/h:ibm:ts3500_tape_library"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "16966",
+	"pname": "IBM System Storage TS3500 テープ・ライブラリー",
+	"pcpe": "cpe:/h:ibm:ts3500_tape_library"
 }

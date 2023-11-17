@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "24822",
-  "pname": "@vantage commander",
-  "pcpe": "cpe:/a:nokia:%40vantage_commander"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "24822",
+	"pname": "@vantage commander",
+	"pcpe": "cpe:/a:nokia:%40vantage_commander"
 }

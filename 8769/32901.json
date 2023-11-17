@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "32901",
-  "pname": "Media Streaming Add-On",
-  "pcpe": "cpe:/a:qnap:media_streaming_add-on"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "32901",
+	"pname": "Media Streaming Add-On",
+	"pcpe": "cpe:/a:qnap:media_streaming_add-on"
 }

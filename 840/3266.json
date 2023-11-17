@@ -1,8 +1,8 @@
 {
-  "vid": "840",
-  "vname": "Cramer Development",
-  "vcpe": "cpe:/:cramerdev",
-  "pid": "3266",
-  "pname": "Digital Interchange Calendar",
-  "pcpe": "cpe:/a:cramerdev:digital_interchange_calendar"
+	"vid": "840",
+	"vname": "Cramer Development",
+	"vcpe": "cpe:/:cramerdev",
+	"pid": "3266",
+	"pname": "Digital Interchange Calendar",
+	"pcpe": "cpe:/a:cramerdev:digital_interchange_calendar"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18119",
-  "vname": "Accenture",
-  "vcpe": "cpe:/:accenture",
-  "pid": "44125",
-  "pname": "Accenture Mercury",
-  "pcpe": "cpe:/a:accenture:mercury"
+	"vid": "18119",
+	"vname": "Accenture",
+	"vcpe": "cpe:/:accenture",
+	"pid": "44125",
+	"pname": "Accenture Mercury",
+	"pcpe": "cpe:/a:accenture:mercury"
 }

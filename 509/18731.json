@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "18731",
-  "pname": "SAP NetWeaver Development Infrastructure",
-  "pcpe": "cpe:/a:sap:netweaver_development_infrastructure"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "18731",
+	"pname": "SAP NetWeaver Development Infrastructure",
+	"pcpe": "cpe:/a:sap:netweaver_development_infrastructure"
 }

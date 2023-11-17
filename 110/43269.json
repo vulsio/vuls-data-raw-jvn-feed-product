@@ -1,8 +1,8 @@
 {
-  "vid": "110",
-  "vname": "Broadcom",
-  "vcpe": "cpe:/:broadcom",
-  "pid": "43269",
-  "pname": "BCM43012 ファームウェア",
-  "pcpe": "cpe:/o:broadcom:bcm43012_firmware"
+	"vid": "110",
+	"vname": "Broadcom",
+	"vcpe": "cpe:/:broadcom",
+	"pid": "43269",
+	"pname": "BCM43012 ファームウェア",
+	"pcpe": "cpe:/o:broadcom:bcm43012_firmware"
 }

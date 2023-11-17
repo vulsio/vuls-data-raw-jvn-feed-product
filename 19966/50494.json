@@ -1,8 +1,8 @@
 {
-  "vid": "19966",
-  "vname": "haml-coffee project",
-  "vcpe": "cpe:/:haml-coffee_project",
-  "pid": "50494",
-  "pname": "haml-coffee",
-  "pcpe": "cpe:/a:haml-coffee_project:haml-coffee"
+	"vid": "19966",
+	"vname": "haml-coffee project",
+	"vcpe": "cpe:/:haml-coffee_project",
+	"pid": "50494",
+	"pname": "haml-coffee",
+	"pcpe": "cpe:/a:haml-coffee_project:haml-coffee"
 }

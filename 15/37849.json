@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "37849",
-  "pname": "JD Edwards EnterpriseOne Orchestrator",
-  "pcpe": "cpe:/a:oracle:jd_edwards_enterpriseone_orchestrator"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "37849",
+	"pname": "JD Edwards EnterpriseOne Orchestrator",
+	"pcpe": "cpe:/a:oracle:jd_edwards_enterpriseone_orchestrator"
 }

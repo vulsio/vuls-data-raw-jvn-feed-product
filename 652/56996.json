@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "56996",
-  "pname": "Link Sharing",
-  "pcpe": "cpe:/a:samsung:link_sharing"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "56996",
+	"pname": "Link Sharing",
+	"pcpe": "cpe:/a:samsung:link_sharing"
 }

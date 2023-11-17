@@ -1,8 +1,8 @@
 {
-  "vid": "17272",
-  "vname": "Glue AB",
-  "vcpe": "cpe:/:gluehome",
-  "pid": "41049",
-  "pname": "Glue Smart Lock ファームウェア",
-  "pcpe": "cpe:/o:gluehome:glue_smart_lock_firmware"
+	"vid": "17272",
+	"vname": "Glue AB",
+	"vcpe": "cpe:/:gluehome",
+	"pid": "41049",
+	"pname": "Glue Smart Lock ファームウェア",
+	"pcpe": "cpe:/o:gluehome:glue_smart_lock_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "46014",
-  "pname": "uCosminexus Primary Server Base",
-  "pcpe": "cpe:/a:hitachi:ucosminexus_primary_server_base"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "46014",
+	"pname": "uCosminexus Primary Server Base",
+	"pcpe": "cpe:/a:hitachi:ucosminexus_primary_server_base"
 }

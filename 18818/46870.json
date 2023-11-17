@@ -1,8 +1,8 @@
 {
-  "vid": "18818",
-  "vname": "Cloudflare, Inc.",
-  "vcpe": "cpe:/:cloudflare",
-  "pid": "46870",
-  "pname": "cloudflared",
-  "pcpe": "cpe:/a:cloudflare:cloudflared"
+	"vid": "18818",
+	"vname": "Cloudflare, Inc.",
+	"vcpe": "cpe:/:cloudflare",
+	"pid": "46870",
+	"pname": "cloudflared",
+	"pcpe": "cpe:/a:cloudflare:cloudflared"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "2589",
-  "pname": "CA Threat Manager Total Defense",
-  "pcpe": "cpe:/a:ca:threat_manager_total_defense"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "2589",
+	"pname": "CA Threat Manager Total Defense",
+	"pcpe": "cpe:/a:ca:threat_manager_total_defense"
 }

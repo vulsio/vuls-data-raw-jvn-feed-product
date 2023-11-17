@@ -1,8 +1,8 @@
 {
-  "vid": "18226",
-  "vname": "B&R Industrial Automation",
-  "vcpe": "cpe:/:br-automation",
-  "pid": "47087",
-  "pname": "GateManager 9250 ファームウェア",
-  "pcpe": "cpe:/a:br-automation:GateManager_9250_firmware"
+	"vid": "18226",
+	"vname": "B&R Industrial Automation",
+	"vcpe": "cpe:/:br-automation",
+	"pid": "47087",
+	"pname": "GateManager 9250 ファームウェア",
+	"pcpe": "cpe:/a:br-automation:GateManager_9250_firmware"
 }

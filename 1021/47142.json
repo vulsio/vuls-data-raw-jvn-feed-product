@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "47142",
-  "pname": "blazar-dashboard",
-  "pcpe": "cpe:/a:openstack:blazar-dashboard"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "47142",
+	"pname": "blazar-dashboard",
+	"pcpe": "cpe:/a:openstack:blazar-dashboard"
 }

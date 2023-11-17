@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23850",
-  "pname": "HP Server Automation ソフトウェア",
-  "pcpe": "cpe:/a:hp:hp_server_automation_software"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23850",
+	"pname": "HP Server Automation ソフトウェア",
+	"pcpe": "cpe:/a:hp:hp_server_automation_software"
 }

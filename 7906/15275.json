@@ -1,8 +1,8 @@
 {
-  "vid": "7906",
-  "vname": "tallsoft quick",
-  "vcpe": "cpe:/:tallsoft_quick",
-  "pid": "15275",
-  "pname": "tftp server pro",
-  "pcpe": "cpe:/a:tallsoft_quick:tftp_server_pro"
+	"vid": "7906",
+	"vname": "tallsoft quick",
+	"vcpe": "cpe:/:tallsoft_quick",
+	"pid": "15275",
+	"pname": "tftp server pro",
+	"pcpe": "cpe:/a:tallsoft_quick:tftp_server_pro"
 }

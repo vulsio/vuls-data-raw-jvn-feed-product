@@ -1,8 +1,8 @@
 {
-  "vid": "4194",
-  "vname": "Grandstream Networks",
-  "vcpe": "cpe:/:grandstream",
-  "pid": "42277",
-  "pname": "GXV3501 ファームウェア",
-  "pcpe": "cpe:/o:grandstream:gxv3501_firmware"
+	"vid": "4194",
+	"vname": "Grandstream Networks",
+	"vcpe": "cpe:/:grandstream",
+	"pid": "42277",
+	"pname": "GXV3501 ファームウェア",
+	"pcpe": "cpe:/o:grandstream:gxv3501_firmware"
 }

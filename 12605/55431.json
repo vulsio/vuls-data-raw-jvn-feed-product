@@ -1,8 +1,8 @@
 {
-  "vid": "12605",
-  "vname": "Dataprobe",
-  "vcpe": "cpe:/:dataprobe",
-  "pid": "55431",
-  "pname": "iBoot-PDU8A-2N15 ファームウェア",
-  "pcpe": "cpe:/o:dataprobe:iboot-pdu8a-2n15_firmware"
+	"vid": "12605",
+	"vname": "Dataprobe",
+	"vcpe": "cpe:/:dataprobe",
+	"pid": "55431",
+	"pname": "iBoot-PDU8A-2N15 ファームウェア",
+	"pcpe": "cpe:/o:dataprobe:iboot-pdu8a-2n15_firmware"
 }

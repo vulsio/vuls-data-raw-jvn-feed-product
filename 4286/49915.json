@@ -1,8 +1,8 @@
 {
-  "vid": "4286",
-  "vname": "Palo Alto Networks",
-  "vcpe": "cpe:/:palo_alto_networks",
-  "pid": "49915",
-  "pname": "Bridgecrew Checkov",
-  "pcpe": "cpe:/a:palo_alto_networks:bridgecrew_checkov"
+	"vid": "4286",
+	"vname": "Palo Alto Networks",
+	"vcpe": "cpe:/:palo_alto_networks",
+	"pid": "49915",
+	"pname": "Bridgecrew Checkov",
+	"pcpe": "cpe:/a:palo_alto_networks:bridgecrew_checkov"
 }

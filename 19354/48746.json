@@ -1,8 +1,8 @@
 {
-  "vid": "19354",
-  "vname": "Instana",
-  "vcpe": "cpe:/:instana",
-  "pid": "48746",
-  "pname": "Instana Dynamic APM",
-  "pcpe": "cpe:/a:instana:dynamic_apm"
+	"vid": "19354",
+	"vname": "Instana",
+	"vcpe": "cpe:/:instana",
+	"pid": "48746",
+	"pname": "Instana Dynamic APM",
+	"pcpe": "cpe:/a:instana:dynamic_apm"
 }

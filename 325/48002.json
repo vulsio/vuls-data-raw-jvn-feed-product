@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "48002",
-  "pname": "ThinkStation P330T ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkstation_p330t_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "48002",
+	"pname": "ThinkStation P330T ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkstation_p330t_firmware"
 }

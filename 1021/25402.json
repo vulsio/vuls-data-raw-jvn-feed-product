@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "25402",
-  "pname": "Swift3",
-  "pcpe": "cpe:/a:openstack:swift3"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "25402",
+	"pname": "Swift3",
+	"pcpe": "cpe:/a:openstack:swift3"
 }

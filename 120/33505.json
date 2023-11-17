@@ -1,8 +1,8 @@
 {
-  "vid": "120",
-  "vname": "Chama-Net",
-  "vcpe": "cpe:/:chama",
-  "pid": "33505",
-  "pname": "めもCGI",
-  "pcpe": "cpe:/a:chama:memocgi"
+	"vid": "120",
+	"vname": "Chama-Net",
+	"vcpe": "cpe:/:chama",
+	"pid": "33505",
+	"pname": "めもCGI",
+	"pcpe": "cpe:/a:chama:memocgi"
 }

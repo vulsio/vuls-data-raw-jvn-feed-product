@@ -1,8 +1,8 @@
 {
-  "vid": "4176",
-  "vname": "Belkin International",
-  "vcpe": "cpe:/:belkin",
-  "pid": "21303",
-  "pname": "N900 firmware",
-  "pcpe": "cpe:/o:belkin:n900_firmware"
+	"vid": "4176",
+	"vname": "Belkin International",
+	"vcpe": "cpe:/:belkin",
+	"pid": "21303",
+	"pname": "N900 firmware",
+	"pcpe": "cpe:/o:belkin:n900_firmware"
 }

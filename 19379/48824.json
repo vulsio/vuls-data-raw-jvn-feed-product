@@ -1,8 +1,8 @@
 {
-  "vid": "19379",
-  "vname": "subconverter project",
-  "vcpe": "cpe:/:subconverter_project",
-  "pid": "48824",
-  "pname": "subconverter",
-  "pcpe": "cpe:/a:subconverter_project:subconverter"
+	"vid": "19379",
+	"vname": "subconverter project",
+	"vcpe": "cpe:/:subconverter_project",
+	"pid": "48824",
+	"pname": "subconverter",
+	"pcpe": "cpe:/a:subconverter_project:subconverter"
 }

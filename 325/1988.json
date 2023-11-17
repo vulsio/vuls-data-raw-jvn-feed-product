@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "1988",
-  "pname": "Veriface",
-  "pcpe": "cpe:/a:lenovo:veriface"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "1988",
+	"pname": "Veriface",
+	"pcpe": "cpe:/a:lenovo:veriface"
 }

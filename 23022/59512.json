@@ -1,8 +1,8 @@
 {
-  "vid": "23022",
-  "vname": "graphql-upload project",
-  "vcpe": "cpe:/:graphql-upload_project",
-  "pid": "59512",
-  "pname": "graphql-upload",
-  "pcpe": "cpe:/a:graphql-upload_project:graphql-upload"
+	"vid": "23022",
+	"vname": "graphql-upload project",
+	"vcpe": "cpe:/:graphql-upload_project",
+	"pid": "59512",
+	"pname": "graphql-upload",
+	"pcpe": "cpe:/a:graphql-upload_project:graphql-upload"
 }

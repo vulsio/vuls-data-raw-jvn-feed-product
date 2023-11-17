@@ -1,8 +1,8 @@
 {
-  "vid": "23009",
-  "vname": "identityserver4.admin project",
-  "vcpe": "cpe:/:identityserver4.admin_project",
-  "pid": "59436",
-  "pname": "identityserver4.admin",
-  "pcpe": "cpe:/a:identityserver4.admin_project:identityserver4.admin"
+	"vid": "23009",
+	"vname": "identityserver4.admin project",
+	"vcpe": "cpe:/:identityserver4.admin_project",
+	"pid": "59436",
+	"pname": "identityserver4.admin",
+	"pcpe": "cpe:/a:identityserver4.admin_project:identityserver4.admin"
 }

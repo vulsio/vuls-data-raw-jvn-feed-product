@@ -1,8 +1,8 @@
 {
-  "vid": "45",
-  "vname": "University of Washington",
-  "vcpe": "cpe:/:university_of_washington",
-  "pid": "186",
-  "pname": "UW IMAP",
-  "pcpe": "cpe:/a:university_of_washington:uw-imap"
+	"vid": "45",
+	"vname": "University of Washington",
+	"vcpe": "cpe:/:university_of_washington",
+	"pid": "186",
+	"pname": "UW IMAP",
+	"pcpe": "cpe:/a:university_of_washington:uw-imap"
 }

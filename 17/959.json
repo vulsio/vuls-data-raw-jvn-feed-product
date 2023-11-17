@@ -1,8 +1,8 @@
 {
-  "vid": "17",
-  "vname": "インターネット セキュリティ システムズ",
-  "vcpe": "cpe:/:iss",
-  "pid": "959",
-  "pname": "BlackICE PC Protection",
-  "pcpe": "cpe:/a:iss:blackice_pc_protection"
+	"vid": "17",
+	"vname": "インターネット セキュリティ システムズ",
+	"vcpe": "cpe:/:iss",
+	"pid": "959",
+	"pname": "BlackICE PC Protection",
+	"pcpe": "cpe:/a:iss:blackice_pc_protection"
 }

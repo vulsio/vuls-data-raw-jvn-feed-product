@@ -1,8 +1,8 @@
 {
-  "vid": "16818",
-  "vname": "GoDaddy Operating Company",
-  "vcpe": "cpe:/:godaddy",
-  "pid": "40059",
-  "pname": "GoDaddy Email Marketing",
-  "pcpe": "cpe:/a:godaddy:godaddy_email_marketing"
+	"vid": "16818",
+	"vname": "GoDaddy Operating Company",
+	"vcpe": "cpe:/:godaddy",
+	"pid": "40059",
+	"pname": "GoDaddy Email Marketing",
+	"pcpe": "cpe:/a:godaddy:godaddy_email_marketing"
 }

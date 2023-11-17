@@ -1,8 +1,8 @@
 {
-  "vid": "18805",
-  "vname": "mpd project",
-  "vcpe": "cpe:/:mpd_project",
-  "pid": "46813",
-  "pname": "MPD",
-  "pcpe": "cpe:/a:mpd_project:mpd"
+	"vid": "18805",
+	"vname": "mpd project",
+	"vcpe": "cpe:/:mpd_project",
+	"pid": "46813",
+	"pname": "MPD",
+	"pcpe": "cpe:/a:mpd_project:mpd"
 }

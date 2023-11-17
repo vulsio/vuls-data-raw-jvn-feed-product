@@ -1,8 +1,8 @@
 {
-  "vid": "132",
-  "vname": "MIT Kerberos",
-  "vcpe": "cpe:/:mit",
-  "pid": "499",
-  "pname": "Kerberos",
-  "pcpe": "cpe:/a:mit:kerberos"
+	"vid": "132",
+	"vname": "MIT Kerberos",
+	"vcpe": "cpe:/:mit",
+	"pid": "499",
+	"pname": "Kerberos",
+	"pcpe": "cpe:/a:mit:kerberos"
 }

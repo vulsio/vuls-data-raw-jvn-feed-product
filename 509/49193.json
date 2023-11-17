@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "49193",
-  "pname": "Business Warehouse",
-  "pcpe": "cpe:/a:sap:business_warehouse"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "49193",
+	"pname": "Business Warehouse",
+	"pcpe": "cpe:/a:sap:business_warehouse"
 }

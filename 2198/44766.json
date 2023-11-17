@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "44766",
-  "pname": "atillk64",
-  "pcpe": "cpe:/a:amd:atillk64"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "44766",
+	"pname": "atillk64",
+	"pcpe": "cpe:/a:amd:atillk64"
 }

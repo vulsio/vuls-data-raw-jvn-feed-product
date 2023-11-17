@@ -1,8 +1,8 @@
 {
-  "vid": "10285",
-  "vname": "Compal Broadband Networks",
-  "vcpe": "cpe:/:compal_broadband_networks",
-  "pid": "21565",
-  "pname": "CG6640E Wireless Gateway",
-  "pcpe": "cpe:/h:compal_broadband_networks:cg6640e_wireless_gateway"
+	"vid": "10285",
+	"vname": "Compal Broadband Networks",
+	"vcpe": "cpe:/:compal_broadband_networks",
+	"pid": "21565",
+	"pname": "CG6640E Wireless Gateway",
+	"pcpe": "cpe:/h:compal_broadband_networks:cg6640e_wireless_gateway"
 }

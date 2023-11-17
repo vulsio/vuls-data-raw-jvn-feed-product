@@ -1,8 +1,8 @@
 {
-  "vid": "10296",
-  "vname": "Elipse Software",
-  "vcpe": "cpe:/:elipse",
-  "pid": "21619",
-  "pname": "Elipse E3",
-  "pcpe": "cpe:/a:elipse:elipse_e3"
+	"vid": "10296",
+	"vname": "Elipse Software",
+	"vcpe": "cpe:/:elipse",
+	"pid": "21619",
+	"pname": "Elipse E3",
+	"pcpe": "cpe:/a:elipse:elipse_e3"
 }

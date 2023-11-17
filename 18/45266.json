@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "45266",
-  "pname": "DOORS Next",
-  "pcpe": "cpe:/a:ibm:doors_next"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "45266",
+	"pname": "DOORS Next",
+	"pcpe": "cpe:/a:ibm:doors_next"
 }

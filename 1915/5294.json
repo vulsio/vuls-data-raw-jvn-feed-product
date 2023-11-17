@@ -1,8 +1,8 @@
 {
-  "vid": "1915",
-  "vname": "Plugin Newsletter",
-  "vcpe": "cpe:/:misc",
-  "pid": "5294",
-  "pname": "Plugin Newsletter プラグイン",
-  "pcpe": "cpe:/a:misc:plugin_newsletter_newsletter"
+	"vid": "1915",
+	"vname": "Plugin Newsletter",
+	"vcpe": "cpe:/:misc",
+	"pid": "5294",
+	"pname": "Plugin Newsletter プラグイン",
+	"pcpe": "cpe:/a:misc:plugin_newsletter_newsletter"
 }

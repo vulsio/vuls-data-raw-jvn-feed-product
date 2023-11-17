@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56869",
-  "pname": "GS1915-8EP ファームウェア",
-  "pcpe": "cpe:/o:zyxel:gs1915-8ep_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56869",
+	"pname": "GS1915-8EP ファームウェア",
+	"pcpe": "cpe:/o:zyxel:gs1915-8ep_firmware"
 }

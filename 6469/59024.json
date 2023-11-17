@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "59024",
-  "pname": "rad-ism-900-en-bd ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:rad-ism-900-en-bd_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "59024",
+	"pname": "rad-ism-900-en-bd ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:rad-ism-900-en-bd_firmware"
 }

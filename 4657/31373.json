@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31373",
-  "pname": "VIE-L09 ファームウェア",
-  "pcpe": "cpe:/o:huawei:vie-l09_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31373",
+	"pname": "VIE-L09 ファームウェア",
+	"pcpe": "cpe:/o:huawei:vie-l09_firmware"
 }

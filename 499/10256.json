@@ -1,8 +1,8 @@
 {
-  "vid": "499",
-  "vname": "Ipswitch, Inc.",
-  "vcpe": "cpe:/:ipswitch",
-  "pid": "10256",
-  "pname": "instant messaging",
-  "pcpe": "cpe:/a:ipswitch:instant_messaging"
+	"vid": "499",
+	"vname": "Ipswitch, Inc.",
+	"vcpe": "cpe:/:ipswitch",
+	"pid": "10256",
+	"pname": "instant messaging",
+	"pcpe": "cpe:/a:ipswitch:instant_messaging"
 }

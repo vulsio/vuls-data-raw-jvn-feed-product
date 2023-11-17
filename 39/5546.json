@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "5546",
-  "pname": "form client",
-  "pcpe": "cpe:/a:adobe:form_client"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "5546",
+	"pname": "form client",
+	"pcpe": "cpe:/a:adobe:form_client"
 }

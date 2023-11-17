@@ -1,8 +1,8 @@
 {
-  "vid": "23170",
-  "vname": "docker-tester project",
-  "vcpe": "cpe:/:docker-tester_project",
-  "pid": "60014",
-  "pname": "docker-tester",
-  "pcpe": "cpe:/a:docker-tester_project:docker-tester"
+	"vid": "23170",
+	"vname": "docker-tester project",
+	"vcpe": "cpe:/:docker-tester_project",
+	"pid": "60014",
+	"pname": "docker-tester",
+	"pcpe": "cpe:/a:docker-tester_project:docker-tester"
 }

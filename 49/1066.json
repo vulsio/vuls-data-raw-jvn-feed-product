@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "1066",
-  "pname": "GNU Emacs",
-  "pcpe": "cpe:/a:gnu:emacs"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "1066",
+	"pname": "GNU Emacs",
+	"pcpe": "cpe:/a:gnu:emacs"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "62398",
-  "pname": "zenon",
-  "pcpe": "cpe:/a:abb:zenon"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "62398",
+	"pname": "zenon",
+	"pcpe": "cpe:/a:abb:zenon"
 }

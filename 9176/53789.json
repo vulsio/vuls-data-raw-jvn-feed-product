@@ -1,8 +1,8 @@
 {
-  "vid": "9176",
-  "vname": "DrayTek Corporation",
-  "vcpe": "cpe:/:draytek",
-  "pid": "53789",
-  "pname": "VigorAP 710 ファームウェア",
-  "pcpe": "cpe:/o:draytek:vigorap_710_firmware"
+	"vid": "9176",
+	"vname": "DrayTek Corporation",
+	"vcpe": "cpe:/:draytek",
+	"pid": "53789",
+	"pname": "VigorAP 710 ファームウェア",
+	"pcpe": "cpe:/o:draytek:vigorap_710_firmware"
 }

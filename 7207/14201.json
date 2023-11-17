@@ -1,8 +1,8 @@
 {
-  "vid": "7207",
-  "vname": "radscripts",
-  "vcpe": "cpe:/:radscripts",
-  "pid": "14201",
-  "pname": "radclassifieds",
-  "pcpe": "cpe:/a:radscripts:radclassifieds"
+	"vid": "7207",
+	"vname": "radscripts",
+	"vcpe": "cpe:/:radscripts",
+	"pid": "14201",
+	"pname": "radclassifieds",
+	"pcpe": "cpe:/a:radscripts:radclassifieds"
 }

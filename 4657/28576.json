@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28576",
-  "pname": "WS318 ファームウェア",
-  "pcpe": "cpe:/o:huawei:ws318_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28576",
+	"pname": "WS318 ファームウェア",
+	"pcpe": "cpe:/o:huawei:ws318_firmware"
 }

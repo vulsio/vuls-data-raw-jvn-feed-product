@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "56085",
-  "pname": "iLO5 日本語言語パック",
-  "pcpe": "cpe:/o:nec:il05_japanese_language_pack_firmware"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "56085",
+	"pname": "iLO5 日本語言語パック",
+	"pcpe": "cpe:/o:nec:il05_japanese_language_pack_firmware"
 }

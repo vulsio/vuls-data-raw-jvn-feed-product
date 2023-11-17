@@ -1,8 +1,8 @@
 {
-  "vid": "6299",
-  "vname": "pdnsd",
-  "vcpe": "cpe:/:pdnsd",
-  "pid": "12525",
-  "pname": "pdnsd",
-  "pcpe": "cpe:/a:pdnsd:pdnsd"
+	"vid": "6299",
+	"vname": "pdnsd",
+	"vcpe": "cpe:/:pdnsd",
+	"pid": "12525",
+	"pname": "pdnsd",
+	"pcpe": "cpe:/a:pdnsd:pdnsd"
 }

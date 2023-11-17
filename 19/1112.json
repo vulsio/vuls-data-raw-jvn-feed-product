@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "1112",
-  "pname": "Cisco Unified Communications Manager",
-  "pcpe": "cpe:/a:cisco:unified_communications_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "1112",
+	"pname": "Cisco Unified Communications Manager",
+	"pcpe": "cpe:/a:cisco:unified_communications_manager"
 }

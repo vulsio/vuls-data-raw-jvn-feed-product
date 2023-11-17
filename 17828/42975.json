@@ -1,8 +1,8 @@
 {
-  "vid": "17828",
-  "vname": "Big Switch Networks, Inc.",
-  "vcpe": "cpe:/:bigswitch",
-  "pid": "42975",
-  "pname": "Big Monitoring Fabric",
-  "pcpe": "cpe:/a:bigswitch:big_monitoring_fabric"
+	"vid": "17828",
+	"vname": "Big Switch Networks, Inc.",
+	"vcpe": "cpe:/:bigswitch",
+	"pid": "42975",
+	"pname": "Big Monitoring Fabric",
+	"pcpe": "cpe:/a:bigswitch:big_monitoring_fabric"
 }

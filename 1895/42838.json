@@ -1,8 +1,8 @@
 {
-  "vid": "1895",
-  "vname": "エマソン",
-  "vcpe": "cpe:/:emerson",
-  "pid": "42838",
-  "pname": "RX3I CPE115 ファームウェア",
-  "pcpe": "cpe:/o:emerson:rx3i_cpe115_firmware"
+	"vid": "1895",
+	"vname": "エマソン",
+	"vcpe": "cpe:/:emerson",
+	"pid": "42838",
+	"pname": "RX3I CPE115 ファームウェア",
+	"pcpe": "cpe:/o:emerson:rx3i_cpe115_firmware"
 }

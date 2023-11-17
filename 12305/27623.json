@@ -1,8 +1,8 @@
 {
-  "vid": "12305",
-  "vname": "eClinicalWorks",
-  "vcpe": "cpe:/:eclinicalworks",
-  "pid": "27623",
-  "pname": "Population Health CCMR",
-  "pcpe": "cpe:/a:eclinicalworks:population_health"
+	"vid": "12305",
+	"vname": "eClinicalWorks",
+	"vcpe": "cpe:/:eclinicalworks",
+	"pid": "27623",
+	"pname": "Population Health CCMR",
+	"pcpe": "cpe:/a:eclinicalworks:population_health"
 }

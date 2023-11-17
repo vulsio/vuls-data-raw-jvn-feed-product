@@ -1,8 +1,8 @@
 {
-  "vid": "6187",
-  "vname": "otmanager",
-  "vcpe": "cpe:/:otmanager",
-  "pid": "12385",
-  "pname": "otmanager cms",
-  "pcpe": "cpe:/a:otmanager:otmanager_cms"
+	"vid": "6187",
+	"vname": "otmanager",
+	"vcpe": "cpe:/:otmanager",
+	"pid": "12385",
+	"pname": "otmanager cms",
+	"pcpe": "cpe:/a:otmanager:otmanager_cms"
 }

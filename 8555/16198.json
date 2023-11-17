@@ -1,8 +1,8 @@
 {
-  "vid": "8555",
-  "vname": "wolfram",
-  "vcpe": "cpe:/:wolfram",
-  "pid": "16198",
-  "pname": "webmathematica",
-  "pcpe": "cpe:/a:wolfram:webmathematica"
+	"vid": "8555",
+	"vname": "wolfram",
+	"vcpe": "cpe:/:wolfram",
+	"pid": "16198",
+	"pname": "webmathematica",
+	"pcpe": "cpe:/a:wolfram:webmathematica"
 }

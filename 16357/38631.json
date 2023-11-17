@@ -1,8 +1,8 @@
 {
-  "vid": "16357",
-  "vname": "WebFile Explorer project",
-  "vcpe": "cpe:/:webfile_explorer_project",
-  "pid": "38631",
-  "pname": "WebFile Explorer",
-  "pcpe": "cpe:/a:webfile_explorer_project:webfile_explorer"
+	"vid": "16357",
+	"vname": "WebFile Explorer project",
+	"vcpe": "cpe:/:webfile_explorer_project",
+	"pid": "38631",
+	"pname": "WebFile Explorer",
+	"pcpe": "cpe:/a:webfile_explorer_project:webfile_explorer"
 }

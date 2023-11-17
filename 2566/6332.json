@@ -1,8 +1,8 @@
 {
-  "vid": "2566",
-  "vname": "bloodshed software",
-  "vcpe": "cpe:/:bloodshed_software",
-  "pid": "6332",
-  "pname": "dev-c++",
-  "pcpe": "cpe:/a:bloodshed_software:dev-c%2B%2B"
+	"vid": "2566",
+	"vname": "bloodshed software",
+	"vcpe": "cpe:/:bloodshed_software",
+	"pid": "6332",
+	"pname": "dev-c++",
+	"pcpe": "cpe:/a:bloodshed_software:dev-c%2B%2B"
 }

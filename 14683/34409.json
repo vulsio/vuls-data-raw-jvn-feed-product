@@ -1,8 +1,8 @@
 {
-  "vid": "14683",
-  "vname": "Archive::Tar project",
-  "vcpe": "cpe:/:archive%3a%3atar_project",
-  "pid": "34409",
-  "pname": "Archive::Tar",
-  "pcpe": "cpe:/a:archive%3a%3atar_project:archive%3a%3atar"
+	"vid": "14683",
+	"vname": "Archive::Tar project",
+	"vcpe": "cpe:/:archive%3a%3atar_project",
+	"pid": "34409",
+	"pname": "Archive::Tar",
+	"pcpe": "cpe:/a:archive%3a%3atar_project:archive%3a%3atar"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "45825",
-  "pname": "（複数の製品）",
-  "pcpe": "cpe:/a:mitsubishielectric:multiple_product"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "45825",
+	"pname": "（複数の製品）",
+	"pcpe": "cpe:/a:mitsubishielectric:multiple_product"
 }

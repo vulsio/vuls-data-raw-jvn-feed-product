@@ -1,8 +1,8 @@
 {
-  "vid": "12312",
-  "vname": "Barco",
-  "vcpe": "cpe:/:barco",
-  "pid": "42314",
-  "pname": "ClickShare CS-100 Huddle ファームウェア",
-  "pcpe": "cpe:/o:barco:clickshare_cs-100_huddle_firmware"
+	"vid": "12312",
+	"vname": "Barco",
+	"vcpe": "cpe:/:barco",
+	"pid": "42314",
+	"pname": "ClickShare CS-100 Huddle ファームウェア",
+	"pcpe": "cpe:/o:barco:clickshare_cs-100_huddle_firmware"
 }

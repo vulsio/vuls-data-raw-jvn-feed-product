@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "51088",
-  "pname": "IBM Resilient SOAR",
-  "pcpe": "cpe:/a:ibm:resilient_security_orchestration_automation_and_response"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "51088",
+	"pname": "IBM Resilient SOAR",
+	"pcpe": "cpe:/a:ibm:resilient_security_orchestration_automation_and_response"
 }

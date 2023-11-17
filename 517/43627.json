@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "43627",
-  "pname": "WorkCentre 7220 ファームウェア",
-  "pcpe": "cpe:/o:xerox:workcentre_7220_firmware"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "43627",
+	"pname": "WorkCentre 7220 ファームウェア",
+	"pcpe": "cpe:/o:xerox:workcentre_7220_firmware"
 }

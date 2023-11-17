@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "62371",
-  "pname": "servicemesh-operator",
-  "pcpe": "cpe:/a:redhat:servicemesh-operator"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "62371",
+	"pname": "servicemesh-operator",
+	"pcpe": "cpe:/a:redhat:servicemesh-operator"
 }

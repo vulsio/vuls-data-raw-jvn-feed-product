@@ -1,8 +1,8 @@
 {
-  "vid": "8791",
-  "vname": "raidsonic technology",
-  "vcpe": "cpe:/:raidsonic_technology",
-  "pid": "16699",
-  "pname": "firmware",
-  "pcpe": "cpe:/o:raidsonic_technology:firmware"
+	"vid": "8791",
+	"vname": "raidsonic technology",
+	"vcpe": "cpe:/:raidsonic_technology",
+	"pid": "16699",
+	"pname": "firmware",
+	"pcpe": "cpe:/o:raidsonic_technology:firmware"
 }

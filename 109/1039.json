@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "1039",
-  "pname": "NetCOBOL",
-  "pcpe": "cpe:/a:fujitsu:netcobol"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "1039",
+	"pname": "NetCOBOL",
+	"pcpe": "cpe:/a:fujitsu:netcobol"
 }

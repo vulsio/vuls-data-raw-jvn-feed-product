@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9138",
-  "pname": "IBM Scale Out Network Attached Storage",
-  "pcpe": "cpe:/h:ibm:scale_out_network_attached_storage"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9138",
+	"pname": "IBM Scale Out Network Attached Storage",
+	"pcpe": "cpe:/h:ibm:scale_out_network_attached_storage"
 }

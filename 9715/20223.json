@@ -1,8 +1,8 @@
 {
-  "vid": "9715",
-  "vname": "Graham Dumpleton",
-  "vcpe": "cpe:/:modwsgi",
-  "pid": "20223",
-  "pname": "mod_wsgi",
-  "pcpe": "cpe:/a:modwsgi:mod_wsgi"
+	"vid": "9715",
+	"vname": "Graham Dumpleton",
+	"vcpe": "cpe:/:modwsgi",
+	"pid": "20223",
+	"pname": "mod_wsgi",
+	"pcpe": "cpe:/a:modwsgi:mod_wsgi"
 }

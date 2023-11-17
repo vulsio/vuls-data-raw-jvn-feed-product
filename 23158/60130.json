@@ -1,8 +1,8 @@
 {
-  "vid": "23158",
-  "vname": "ict",
-  "vcpe": "cpe:/:ict",
-  "pid": "60130",
-  "pname": "protege gx ファームウェア",
-  "pcpe": "cpe:/o:ict:protege_gx_firmware"
+	"vid": "23158",
+	"vname": "ict",
+	"vcpe": "cpe:/:ict",
+	"pid": "60130",
+	"pname": "protege gx ファームウェア",
+	"pcpe": "cpe:/o:ict:protege_gx_firmware"
 }

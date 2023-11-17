@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56893",
-  "pname": "XGS2220-30HP ファームウェア",
-  "pcpe": "cpe:/o:zyxel:xgs2220-30hp_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56893",
+	"pname": "XGS2220-30HP ファームウェア",
+	"pcpe": "cpe:/o:zyxel:xgs2220-30hp_firmware"
 }

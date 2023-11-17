@@ -1,8 +1,8 @@
 {
-  "vid": "19786",
-  "vname": "GALERA CLUSTER",
-  "vcpe": "cpe:/:galeracluster",
-  "pid": "49902",
-  "pname": "wsrep",
-  "pcpe": "cpe:/a:galeracluster:wsrep"
+	"vid": "19786",
+	"vname": "GALERA CLUSTER",
+	"vcpe": "cpe:/:galeracluster",
+	"pid": "49902",
+	"pname": "wsrep",
+	"pcpe": "cpe:/a:galeracluster:wsrep"
 }

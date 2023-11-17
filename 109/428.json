@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "428",
-  "pname": "Interstage Application Server",
-  "pcpe": "cpe:/a:fujitsu:interstage_application_server"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "428",
+	"pname": "Interstage Application Server",
+	"pcpe": "cpe:/a:fujitsu:interstage_application_server"
 }

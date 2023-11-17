@@ -1,8 +1,8 @@
 {
-  "vid": "21479",
-  "vname": "AuthGuard project",
-  "vcpe": "cpe:/:authguard_project",
-  "pid": "55133",
-  "pname": "AuthGuard",
-  "pcpe": "cpe:/a:authguard_project:authguard"
+	"vid": "21479",
+	"vname": "AuthGuard project",
+	"vcpe": "cpe:/:authguard_project",
+	"pid": "55133",
+	"pname": "AuthGuard",
+	"pcpe": "cpe:/a:authguard_project:authguard"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "58620",
-  "pname": "sd-wan center management console",
-  "pcpe": "cpe:/a:citrix:sd-wan_center_management_console"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "58620",
+	"pname": "sd-wan center management console",
+	"pcpe": "cpe:/a:citrix:sd-wan_center_management_console"
 }

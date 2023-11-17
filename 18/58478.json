@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "58478",
-  "pname": "IBM Big SQL",
-  "pcpe": "cpe:/a:ibm:big_sql"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "58478",
+	"pname": "IBM Big SQL",
+	"pcpe": "cpe:/a:ibm:big_sql"
 }

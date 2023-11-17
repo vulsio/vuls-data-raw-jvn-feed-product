@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31506",
-  "pname": "SkyTone",
-  "pcpe": "cpe:/a:huawei:skytone"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31506",
+	"pname": "SkyTone",
+	"pcpe": "cpe:/a:huawei:skytone"
 }

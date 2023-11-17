@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "47009",
-  "pname": "Marketo Sales Insight",
-  "pcpe": "cpe:/a:adobe:marketo_sales_insight"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "47009",
+	"pname": "Marketo Sales Insight",
+	"pcpe": "cpe:/a:adobe:marketo_sales_insight"
 }

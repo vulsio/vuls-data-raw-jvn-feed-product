@@ -1,8 +1,8 @@
 {
-  "vid": "13867",
-  "vname": "Rapid SCADA",
-  "vcpe": "cpe:/:rapidscada",
-  "pid": "32928",
-  "pname": "Rapid SCADA",
-  "pcpe": "cpe:/a:rapidscada:rapid_scada"
+	"vid": "13867",
+	"vname": "Rapid SCADA",
+	"vcpe": "cpe:/:rapidscada",
+	"pid": "32928",
+	"pname": "Rapid SCADA",
+	"pcpe": "cpe:/a:rapidscada:rapid_scada"
 }

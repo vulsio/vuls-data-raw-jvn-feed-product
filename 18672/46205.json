@@ -1,8 +1,8 @@
 {
-  "vid": "18672",
-  "vname": "Mozilor Technologies",
-  "vcpe": "cpe:/:cookielawinfo",
-  "pid": "46205",
-  "pname": "GDPR Cookie Consent",
-  "pcpe": "cpe:/a:cookielawinfo:gdpr_cookie_consent"
+	"vid": "18672",
+	"vname": "Mozilor Technologies",
+	"vcpe": "cpe:/:cookielawinfo",
+	"pid": "46205",
+	"pname": "GDPR Cookie Consent",
+	"pcpe": "cpe:/a:cookielawinfo:gdpr_cookie_consent"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "18801",
-  "pname": "SINAMICS S/G ファミリー ファームウェア",
-  "pcpe": "cpe:/o:siemens:sinamics_s%2Fg_family_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "18801",
+	"pname": "SINAMICS S/G ファミリー ファームウェア",
+	"pcpe": "cpe:/o:siemens:sinamics_s%2Fg_family_firmware"
 }

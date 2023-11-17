@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "48401",
-  "pname": "Jabber (XMPP) notifier and control",
-  "pcpe": "cpe:/a:jenkins:jabber_%28xmpp%29_notifier_and_control"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "48401",
+	"pname": "Jabber (XMPP) notifier and control",
+	"pcpe": "cpe:/a:jenkins:jabber_%28xmpp%29_notifier_and_control"
 }

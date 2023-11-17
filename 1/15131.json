@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "15131",
-  "pname": "java system access manager policy agent",
-  "pcpe": "cpe:/a:sun:java_system_access_manager_policy_agent"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "15131",
+	"pname": "java system access manager policy agent",
+	"pcpe": "cpe:/a:sun:java_system_access_manager_policy_agent"
 }

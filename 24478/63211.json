@@ -1,8 +1,8 @@
 {
-  "vid": "24478",
-  "vname": "zephyr-one",
-  "vcpe": "cpe:/:zephyr-one",
-  "pid": "63211",
-  "pname": "zephyr project manager",
-  "pcpe": "cpe:/a:zephyr-one:zephyr_project_manager"
+	"vid": "24478",
+	"vname": "zephyr-one",
+	"vcpe": "cpe:/:zephyr-one",
+	"pid": "63211",
+	"pname": "zephyr project manager",
+	"pcpe": "cpe:/a:zephyr-one:zephyr_project_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23254",
-  "vname": "wpopal",
-  "vcpe": "cpe:/:wpopal",
-  "pid": "60242",
-  "pname": "Opal Hotel Room Booking",
-  "pcpe": "cpe:/a:wpopal:opal_hotel_room_booking"
+	"vid": "23254",
+	"vname": "wpopal",
+	"vcpe": "cpe:/:wpopal",
+	"pid": "60242",
+	"pname": "Opal Hotel Room Booking",
+	"pcpe": "cpe:/a:wpopal:opal_hotel_room_booking"
 }

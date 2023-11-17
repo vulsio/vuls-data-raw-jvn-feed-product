@@ -1,8 +1,8 @@
 {
-  "vid": "12630",
-  "vname": "Sandstorm.io",
-  "vcpe": "cpe:/:sandstorm",
-  "pid": "32667",
-  "pname": "Sandstorm",
-  "pcpe": "cpe:/a:sandstorm:sandstorm"
+	"vid": "12630",
+	"vname": "Sandstorm.io",
+	"vcpe": "cpe:/:sandstorm",
+	"pid": "32667",
+	"pname": "Sandstorm",
+	"pcpe": "cpe:/a:sandstorm:sandstorm"
 }

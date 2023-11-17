@@ -1,8 +1,8 @@
 {
-  "vid": "12160",
-  "vname": "東日本電信電話株式会社",
-  "vcpe": "cpe:/:ntt_east",
-  "pid": "51472",
-  "pname": "VoIPゲートウェイ Netcommunity OG810Xi ファームウェア",
-  "pcpe": "cpe:/o:ntt_east:netcommunity_0g810xi_firmware"
+	"vid": "12160",
+	"vname": "東日本電信電話株式会社",
+	"vcpe": "cpe:/:ntt_east",
+	"pid": "51472",
+	"pname": "VoIPゲートウェイ Netcommunity OG810Xi ファームウェア",
+	"pcpe": "cpe:/o:ntt_east:netcommunity_0g810xi_firmware"
 }

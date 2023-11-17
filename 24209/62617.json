@@ -1,8 +1,8 @@
 {
-  "vid": "24209",
-  "vname": "mypopups",
-  "vcpe": "cpe:/:mypopups",
-  "pid": "62617",
-  "pname": "pop-up",
-  "pcpe": "cpe:/a:mypopups:pop-up"
+	"vid": "24209",
+	"vname": "mypopups",
+	"vcpe": "cpe:/:mypopups",
+	"pid": "62617",
+	"pname": "pop-up",
+	"pcpe": "cpe:/a:mypopups:pop-up"
 }

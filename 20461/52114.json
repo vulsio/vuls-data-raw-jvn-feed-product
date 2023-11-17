@@ -1,8 +1,8 @@
 {
-  "vid": "20461",
-  "vname": "gitit project",
-  "vcpe": "cpe:/:gitit_project",
-  "pid": "52114",
-  "pname": "gitit",
-  "pcpe": "cpe:/a:gitit_project:gitit"
+	"vid": "20461",
+	"vname": "gitit project",
+	"vcpe": "cpe:/:gitit_project",
+	"pid": "52114",
+	"pname": "gitit",
+	"pcpe": "cpe:/a:gitit_project:gitit"
 }

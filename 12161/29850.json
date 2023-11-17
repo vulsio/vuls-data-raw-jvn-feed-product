@@ -1,8 +1,8 @@
 {
-  "vid": "12161",
-  "vname": "西日本電信電話株式会社",
-  "vcpe": "cpe:/:ntt_west",
-  "pid": "29850",
-  "pname": "リモートサポートツール（遠隔サポートツール）",
-  "pcpe": "cpe:/a:ntt_west:remote_support_tool"
+	"vid": "12161",
+	"vname": "西日本電信電話株式会社",
+	"vcpe": "cpe:/:ntt_west",
+	"pid": "29850",
+	"pname": "リモートサポートツール（遠隔サポートツール）",
+	"pcpe": "cpe:/a:ntt_west:remote_support_tool"
 }

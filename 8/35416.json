@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "35416",
-  "pname": "Apache OpenWhisk",
-  "pcpe": "cpe:/a:apache:openwhisk"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "35416",
+	"pname": "Apache OpenWhisk",
+	"pcpe": "cpe:/a:apache:openwhisk"
 }

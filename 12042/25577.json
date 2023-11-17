@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25577",
-  "pname": "JC748A HP 10512 Switch Chassis",
-  "pcpe": "cpe:/h:hp:jc748a_hp_10512_switch_chassis"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25577",
+	"pname": "JC748A HP 10512 Switch Chassis",
+	"pcpe": "cpe:/h:hp:jc748a_hp_10512_switch_chassis"
 }

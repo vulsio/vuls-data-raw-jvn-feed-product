@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2815",
-  "pname": "Hitachi IT Operations Director",
-  "pcpe": "cpe:/a:hitachi:it_operations_director"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2815",
+	"pname": "Hitachi IT Operations Director",
+	"pcpe": "cpe:/a:hitachi:it_operations_director"
 }

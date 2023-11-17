@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "60240",
-  "pname": "workspace-tools",
-  "pcpe": "cpe:/a:microsoft:workspace-tools"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "60240",
+	"pname": "workspace-tools",
+	"pcpe": "cpe:/a:microsoft:workspace-tools"
 }

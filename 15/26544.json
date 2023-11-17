@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26544",
-  "pname": "PeopleSoft Enterprise SCM eProcurement",
-  "pcpe": "cpe:/a:oracle:peoplesoft_enterprise_scm_eprocurement"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26544",
+	"pname": "PeopleSoft Enterprise SCM eProcurement",
+	"pcpe": "cpe:/a:oracle:peoplesoft_enterprise_scm_eprocurement"
 }

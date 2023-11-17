@@ -1,8 +1,8 @@
 {
-  "vid": "6323",
-  "vname": "perl-openssl",
-  "vcpe": "cpe:/:perl-openssl",
-  "pid": "12562",
-  "pname": "libcrypt-openssl-dsa-perl",
-  "pcpe": "cpe:/a:perl-openssl:libcrypt-openssl-dsa-perl"
+	"vid": "6323",
+	"vname": "perl-openssl",
+	"vcpe": "cpe:/:perl-openssl",
+	"pid": "12562",
+	"pname": "libcrypt-openssl-dsa-perl",
+	"pcpe": "cpe:/a:perl-openssl:libcrypt-openssl-dsa-perl"
 }

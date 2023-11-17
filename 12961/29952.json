@@ -1,8 +1,8 @@
 {
-  "vid": "12961",
-  "vname": "TechDivision GmbH",
-  "vcpe": "cpe:/:appserver",
-  "pid": "29952",
-  "pname": "appserver",
-  "pcpe": "cpe:/a:appserver:appserver"
+	"vid": "12961",
+	"vname": "TechDivision GmbH",
+	"vcpe": "cpe:/:appserver",
+	"pid": "29952",
+	"pname": "appserver",
+	"pcpe": "cpe:/a:appserver:appserver"
 }

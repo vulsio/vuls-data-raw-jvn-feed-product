@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "47129",
-  "pname": "882471 Gemini TF 64 w/ TOF Performance",
-  "pcpe": "cpe:/a:philips:882471_gemini_tf_64w_tof_performance"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "47129",
+	"pname": "882471 Gemini TF 64 w/ TOF Performance",
+	"pcpe": "cpe:/a:philips:882471_gemini_tf_64w_tof_performance"
 }

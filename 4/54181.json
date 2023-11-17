@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "54181",
-  "pname": "HP OfficeJet 4650 K9V77A ファームウェア",
-  "pcpe": "cpe:/o:hp:officejet_4650_k9v77a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "54181",
+	"pname": "HP OfficeJet 4650 K9V77A ファームウェア",
+	"pcpe": "cpe:/o:hp:officejet_4650_k9v77a_firmware"
 }

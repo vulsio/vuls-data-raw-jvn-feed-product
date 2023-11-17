@@ -1,8 +1,8 @@
 {
-  "vid": "1839",
-  "vname": "ConnMan project",
-  "vcpe": "cpe:/:connman_project",
-  "pid": "5159",
-  "pname": "ConnMan",
-  "pcpe": "cpe:/a:connman_project:connman"
+	"vid": "1839",
+	"vname": "ConnMan project",
+	"vcpe": "cpe:/:connman_project",
+	"pid": "5159",
+	"pname": "ConnMan",
+	"pcpe": "cpe:/a:connman_project:connman"
 }

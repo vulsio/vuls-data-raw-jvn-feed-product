@@ -1,8 +1,8 @@
 {
-  "vid": "16928",
-  "vname": "Texas Instruments Incorporated (TI)",
-  "vcpe": "cpe:/:ti",
-  "pid": "47543",
-  "pname": "CC3100 SDK",
-  "pcpe": "cpe:/a:ti:cc3100_sdk"
+	"vid": "16928",
+	"vname": "Texas Instruments Incorporated (TI)",
+	"vcpe": "cpe:/:ti",
+	"pid": "47543",
+	"pname": "CC3100 SDK",
+	"pcpe": "cpe:/a:ti:cc3100_sdk"
 }

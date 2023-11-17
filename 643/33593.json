@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "33593",
-  "pname": "Dell EMC VMAX Embedded Management",
-  "pcpe": "cpe:/a:dell:emc_vmax_embedded_management"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "33593",
+	"pname": "Dell EMC VMAX Embedded Management",
+	"pcpe": "cpe:/a:dell:emc_vmax_embedded_management"
 }

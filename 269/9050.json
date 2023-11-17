@@ -1,8 +1,8 @@
 {
-  "vid": "269",
-  "vname": "RSAセキュリティ",
-  "vcpe": "cpe:/:rsa",
-  "pid": "9050",
-  "pname": "RSA SecurID Appliance",
-  "pcpe": "cpe:/a:rsa:securid_appliance"
+	"vid": "269",
+	"vname": "RSAセキュリティ",
+	"vcpe": "cpe:/:rsa",
+	"pid": "9050",
+	"pname": "RSA SecurID Appliance",
+	"pcpe": "cpe:/a:rsa:securid_appliance"
 }

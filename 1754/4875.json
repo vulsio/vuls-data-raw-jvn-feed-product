@@ -1,8 +1,8 @@
 {
-  "vid": "1754",
-  "vname": "USAA",
-  "vcpe": "cpe:/:usaa",
-  "pid": "4875",
-  "pname": "usaa",
-  "pcpe": "cpe:/a:usaa:usaa"
+	"vid": "1754",
+	"vname": "USAA",
+	"vcpe": "cpe:/:usaa",
+	"pid": "4875",
+	"pname": "usaa",
+	"pcpe": "cpe:/a:usaa:usaa"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "16232",
-  "pname": "wassup plugin",
-  "pcpe": "cpe:/a:wordpress:wassup_plugin"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "16232",
+	"pname": "wassup plugin",
+	"pcpe": "cpe:/a:wordpress:wassup_plugin"
 }

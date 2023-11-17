@@ -1,8 +1,8 @@
 {
-  "vid": "15626",
-  "vname": "Verint Verba",
-  "vcpe": "cpe:/:verint",
-  "pid": "45547",
-  "pname": "Impact 360",
-  "pcpe": "cpe:/a:verint:impact_360"
+	"vid": "15626",
+	"vname": "Verint Verba",
+	"vcpe": "cpe:/:verint",
+	"pid": "45547",
+	"pname": "Impact 360",
+	"pcpe": "cpe:/a:verint:impact_360"
 }

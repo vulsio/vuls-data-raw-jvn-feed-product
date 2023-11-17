@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "47767",
-  "pname": "OpenShift Installer",
-  "pcpe": "cpe:/a:redhat:openshift_installer"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "47767",
+	"pname": "OpenShift Installer",
+	"pcpe": "cpe:/a:redhat:openshift_installer"
 }

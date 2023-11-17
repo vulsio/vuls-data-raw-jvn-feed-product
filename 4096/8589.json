@@ -1,8 +1,8 @@
 {
-  "vid": "4096",
-  "vname": "jasio.net",
-  "vcpe": "cpe:/:jasio.net",
-  "pid": "8589",
-  "pname": "ragnarok online control panel",
-  "pcpe": "cpe:/a:jasio.net:ragnarok_online_control_panel"
+	"vid": "4096",
+	"vname": "jasio.net",
+	"vcpe": "cpe:/:jasio.net",
+	"pid": "8589",
+	"pname": "ragnarok online control panel",
+	"pcpe": "cpe:/a:jasio.net:ragnarok_online_control_panel"
 }

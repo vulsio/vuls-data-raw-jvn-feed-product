@@ -1,8 +1,8 @@
 {
-  "vid": "12161",
-  "vname": "西日本電信電話株式会社",
-  "vcpe": "cpe:/:ntt_west",
-  "pid": "26619",
-  "pname": "ひかり電話対応機器 RT-400MI",
-  "pcpe": "cpe:/h:ntt_west:rt-400mi"
+	"vid": "12161",
+	"vname": "西日本電信電話株式会社",
+	"vcpe": "cpe:/:ntt_west",
+	"pid": "26619",
+	"pname": "ひかり電話対応機器 RT-400MI",
+	"pcpe": "cpe:/h:ntt_west:rt-400mi"
 }

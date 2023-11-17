@@ -1,8 +1,8 @@
 {
-  "vid": "9148",
-  "vname": "Spring Signage",
-  "vcpe": "cpe:/:springsignage",
-  "pid": "18517",
-  "pname": "Xibo",
-  "pcpe": "cpe:/a:springsignage:xibo"
+	"vid": "9148",
+	"vname": "Spring Signage",
+	"vcpe": "cpe:/:springsignage",
+	"pid": "18517",
+	"pname": "Xibo",
+	"pcpe": "cpe:/a:springsignage:xibo"
 }

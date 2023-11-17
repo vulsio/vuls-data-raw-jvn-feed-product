@@ -1,8 +1,8 @@
 {
-  "vid": "13994",
-  "vname": "Yubico",
-  "vcpe": "cpe:/:yubico",
-  "pid": "33309",
-  "pname": "Yubico PAM",
-  "pcpe": "cpe:/a:yubico:yubico_pam"
+	"vid": "13994",
+	"vname": "Yubico",
+	"vcpe": "cpe:/:yubico",
+	"pid": "33309",
+	"pname": "Yubico PAM",
+	"pcpe": "cpe:/a:yubico:yubico_pam"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "40673",
-  "pname": "IBM Cloud Application Performance Management",
-  "pcpe": "cpe:/a:ibm:application_performance_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "40673",
+	"pname": "IBM Cloud Application Performance Management",
+	"pcpe": "cpe:/a:ibm:application_performance_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "61486",
-  "pname": "rocket chip generator",
-  "pcpe": "cpe:/a:linuxfoundation:rocket_chip_generator"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "61486",
+	"pname": "rocket chip generator",
+	"pcpe": "cpe:/a:linuxfoundation:rocket_chip_generator"
 }

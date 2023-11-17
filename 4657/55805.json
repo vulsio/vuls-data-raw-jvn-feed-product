@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "55805",
-  "pname": "Aslan-AL10 ファームウェア",
-  "pcpe": "cpe:/o:huawei:aslan-al10_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "55805",
+	"pname": "Aslan-AL10 ファームウェア",
+	"pcpe": "cpe:/o:huawei:aslan-al10_firmware"
 }

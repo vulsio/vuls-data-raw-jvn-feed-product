@@ -1,8 +1,8 @@
 {
-  "vid": "16312",
-  "vname": "Adblock Plus",
-  "vcpe": "cpe:/:adblockplus",
-  "pid": "38486",
-  "pname": "Adblock Plus",
-  "pcpe": "cpe:/a:adblockplus:adblock_plus"
+	"vid": "16312",
+	"vname": "Adblock Plus",
+	"vcpe": "cpe:/:adblockplus",
+	"pid": "38486",
+	"pname": "Adblock Plus",
+	"pcpe": "cpe:/a:adblockplus:adblock_plus"
 }

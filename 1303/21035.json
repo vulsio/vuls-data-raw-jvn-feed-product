@@ -1,8 +1,8 @@
 {
-  "vid": "1303",
-  "vname": "Avira",
-  "vcpe": "cpe:/:avira",
-  "pid": "21035",
-  "pname": "Avira Secure Backup",
-  "pcpe": "cpe:/a:avira:avira_secure_backup"
+	"vid": "1303",
+	"vname": "Avira",
+	"vcpe": "cpe:/:avira",
+	"pid": "21035",
+	"pname": "Avira Secure Backup",
+	"pcpe": "cpe:/a:avira:avira_secure_backup"
 }

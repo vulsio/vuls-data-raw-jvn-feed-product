@@ -1,8 +1,8 @@
 {
-  "vid": "15231",
-  "vname": "RemiCoin project",
-  "vcpe": "cpe:/:remicoin_project",
-  "pid": "35285",
-  "pname": "RemiCoin",
-  "pcpe": "cpe:/a:remicoin_project:remicoin"
+	"vid": "15231",
+	"vname": "RemiCoin project",
+	"vcpe": "cpe:/:remicoin_project",
+	"pid": "35285",
+	"pname": "RemiCoin",
+	"pcpe": "cpe:/a:remicoin_project:remicoin"
 }

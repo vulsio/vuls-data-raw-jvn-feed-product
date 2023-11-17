@@ -1,8 +1,8 @@
 {
-  "vid": "17212",
-  "vname": "Nuvending.com",
-  "vcpe": "cpe:/:nuvending",
-  "pid": "40905",
-  "pname": "Nulock",
-  "pcpe": "cpe:/a:nuvending:nulock"
+	"vid": "17212",
+	"vname": "Nuvending.com",
+	"vcpe": "cpe:/:nuvending",
+	"pid": "40905",
+	"pname": "Nulock",
+	"pcpe": "cpe:/a:nuvending:nulock"
 }

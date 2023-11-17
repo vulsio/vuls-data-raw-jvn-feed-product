@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "25930",
-  "pname": "Cyberoam CR35iNG UTM ファームウェア",
-  "pcpe": "cpe:/o:sophos:cyberoam_cr35ing_utm_firmware"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "25930",
+	"pname": "Cyberoam CR35iNG UTM ファームウェア",
+	"pcpe": "cpe:/o:sophos:cyberoam_cr35ing_utm_firmware"
 }

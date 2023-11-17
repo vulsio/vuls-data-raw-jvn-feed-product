@@ -1,8 +1,8 @@
 {
-  "vid": "2463",
-  "vname": "battlefront",
-  "vcpe": "cpe:/:battlefront",
-  "pid": "6189",
-  "pname": "dropteam",
-  "pcpe": "cpe:/a:battlefront:dropteam"
+	"vid": "2463",
+	"vname": "battlefront",
+	"vcpe": "cpe:/:battlefront",
+	"pid": "6189",
+	"pname": "dropteam",
+	"pcpe": "cpe:/a:battlefront:dropteam"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4413",
-  "vname": "GarrettCom, Inc.",
-  "vcpe": "cpe:/:garrettcom",
-  "pid": "9428",
-  "pname": "MNS-6K SECURE",
-  "pcpe": "cpe:/a:garrettcom:magnum_managed_networks_software-6k_secure"
+	"vid": "4413",
+	"vname": "GarrettCom, Inc.",
+	"vcpe": "cpe:/:garrettcom",
+	"pid": "9428",
+	"pname": "MNS-6K SECURE",
+	"pcpe": "cpe:/a:garrettcom:magnum_managed_networks_software-6k_secure"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2017",
-  "vname": "Activision Publishing",
-  "vcpe": "cpe:/:activision",
-  "pid": "38367",
-  "pname": "Call of Duty  Black Ops 1",
-  "pcpe": "cpe:/a:activision:call_of_duty%3a_black_ops_1"
+	"vid": "2017",
+	"vname": "Activision Publishing",
+	"vcpe": "cpe:/:activision",
+	"pid": "38367",
+	"pname": "Call of Duty  Black Ops 1",
+	"pcpe": "cpe:/a:activision:call_of_duty%3a_black_ops_1"
 }

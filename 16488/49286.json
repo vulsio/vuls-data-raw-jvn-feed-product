@@ -1,8 +1,8 @@
 {
-  "vid": "16488",
-  "vname": "Tufin",
-  "vcpe": "cpe:/:tufin",
-  "pid": "49286",
-  "pname": "SecureChange",
-  "pcpe": "cpe:/a:tufin:securechange"
+	"vid": "16488",
+	"vname": "Tufin",
+	"vcpe": "cpe:/:tufin",
+	"pid": "49286",
+	"pname": "SecureChange",
+	"pcpe": "cpe:/a:tufin:securechange"
 }

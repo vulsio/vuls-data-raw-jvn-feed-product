@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "29863",
-  "pname": "Oracle Hospitality Cruise Shipboard Property Management System",
-  "pcpe": "cpe:/a:oracle:hospitality_cruise_shipboard_property_management_system"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "29863",
+	"pname": "Oracle Hospitality Cruise Shipboard Property Management System",
+	"pcpe": "cpe:/a:oracle:hospitality_cruise_shipboard_property_management_system"
 }

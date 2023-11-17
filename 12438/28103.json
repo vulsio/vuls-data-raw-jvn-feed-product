@@ -1,8 +1,8 @@
 {
-  "vid": "12438",
-  "vname": "PoDoFo project",
-  "vcpe": "cpe:/:podofo_project",
-  "pid": "28103",
-  "pname": "PoDoFo",
-  "pcpe": "cpe:/a:podofo_project:podofo"
+	"vid": "12438",
+	"vname": "PoDoFo project",
+	"vcpe": "cpe:/:podofo_project",
+	"pid": "28103",
+	"pname": "PoDoFo",
+	"pcpe": "cpe:/a:podofo_project:podofo"
 }

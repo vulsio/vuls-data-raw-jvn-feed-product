@@ -1,8 +1,8 @@
 {
-  "vid": "15746",
-  "vname": "libLAS",
-  "vcpe": "cpe:/:liblas",
-  "pid": "36679",
-  "pname": "libLAS",
-  "pcpe": "cpe:/a:liblas:liblas"
+	"vid": "15746",
+	"vname": "libLAS",
+	"vcpe": "cpe:/:liblas",
+	"pid": "36679",
+	"pname": "libLAS",
+	"pcpe": "cpe:/a:liblas:liblas"
 }

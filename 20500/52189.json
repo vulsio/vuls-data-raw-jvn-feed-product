@@ -1,8 +1,8 @@
 {
-  "vid": "20500",
-  "vname": "StoreApps",
-  "vcpe": "cpe:/:storeapps",
-  "pid": "52189",
-  "pname": "WooCommerce Stock Manager",
-  "pcpe": "cpe:/a:storeapps:woocommerce_stock_manager"
+	"vid": "20500",
+	"vname": "StoreApps",
+	"vcpe": "cpe:/:storeapps",
+	"pid": "52189",
+	"pname": "WooCommerce Stock Manager",
+	"pcpe": "cpe:/a:storeapps:woocommerce_stock_manager"
 }

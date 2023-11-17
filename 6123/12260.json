@@ -1,8 +1,8 @@
 {
-  "vid": "6123",
-  "vname": "open source technology group",
-  "vcpe": "cpe:/:open_source_technology_group",
-  "pid": "12260",
-  "pname": "sourceforge",
-  "pcpe": "cpe:/a:open_source_technology_group:sourceforge"
+	"vid": "6123",
+	"vname": "open source technology group",
+	"vcpe": "cpe:/:open_source_technology_group",
+	"pid": "12260",
+	"pname": "sourceforge",
+	"pcpe": "cpe:/a:open_source_technology_group:sourceforge"
 }

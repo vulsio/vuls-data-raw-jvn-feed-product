@@ -1,8 +1,8 @@
 {
-  "vid": "18118",
-  "vname": "Hestia Control Panel",
-  "vcpe": "cpe:/:hestiacp",
-  "pid": "62293",
-  "pname": "hestiacp",
-  "pcpe": "cpe:/a:hestiacp:hestiacp"
+	"vid": "18118",
+	"vname": "Hestia Control Panel",
+	"vcpe": "cpe:/:hestiacp",
+	"pid": "62293",
+	"pname": "hestiacp",
+	"pcpe": "cpe:/a:hestiacp:hestiacp"
 }

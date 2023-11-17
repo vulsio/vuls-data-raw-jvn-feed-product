@@ -1,8 +1,8 @@
 {
-  "vid": "19389",
-  "vname": "Limit Login Attempts Reloaded",
-  "vcpe": "cpe:/:limitloginattempts",
-  "pid": "48845",
-  "pname": "Limit Login Attempts Reloaded",
-  "pcpe": "cpe:/a:limitloginattempts:limit_login_attempts_reloaded"
+	"vid": "19389",
+	"vname": "Limit Login Attempts Reloaded",
+	"vcpe": "cpe:/:limitloginattempts",
+	"pid": "48845",
+	"pname": "Limit Login Attempts Reloaded",
+	"pcpe": "cpe:/a:limitloginattempts:limit_login_attempts_reloaded"
 }

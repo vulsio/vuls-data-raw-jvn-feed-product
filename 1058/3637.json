@@ -1,8 +1,8 @@
 {
-  "vid": "1058",
-  "vname": "hitCode",
-  "vcpe": "cpe:/:hitcode",
-  "pid": "3637",
-  "pname": "hitAppoint",
-  "pcpe": "cpe:/a:hitcode:hitappoint"
+	"vid": "1058",
+	"vname": "hitCode",
+	"vcpe": "cpe:/:hitcode",
+	"pid": "3637",
+	"pname": "hitAppoint",
+	"pcpe": "cpe:/a:hitcode:hitappoint"
 }

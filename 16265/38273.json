@@ -1,8 +1,8 @@
 {
-  "vid": "16265",
-  "vname": "ValuePLUS Computer Systems Ltd. (VPCS)",
-  "vcpe": "cpe:/:vpcsbd",
-  "pid": "38273",
-  "pname": "Integrated University Management System (IUMS)",
-  "pcpe": "cpe:/a:vpcsbd:integrated_university_management_system"
+	"vid": "16265",
+	"vname": "ValuePLUS Computer Systems Ltd. (VPCS)",
+	"vcpe": "cpe:/:vpcsbd",
+	"pid": "38273",
+	"pname": "Integrated University Management System (IUMS)",
+	"pcpe": "cpe:/a:vpcsbd:integrated_university_management_system"
 }

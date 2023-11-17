@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45190",
-  "pname": "ThinkPad R590 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_r590_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45190",
+	"pname": "ThinkPad R590 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_r590_firmware"
 }

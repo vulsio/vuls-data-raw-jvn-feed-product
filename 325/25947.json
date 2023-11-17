@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "25947",
-  "pname": "LenovoEMC EZ Media & Backup (hm3)",
-  "pcpe": "cpe:/h:lenovo:emc_ez_media_%26_backup_%28hm3%29"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "25947",
+	"pname": "LenovoEMC EZ Media & Backup (hm3)",
+	"pcpe": "cpe:/h:lenovo:emc_ez_media_%26_backup_%28hm3%29"
 }

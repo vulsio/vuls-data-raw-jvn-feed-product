@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3177",
-  "pname": "Cisco Unified IP Phone 7911G",
-  "pcpe": "cpe:/h:cisco:unified_ip_phone_7911g"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3177",
+	"pname": "Cisco Unified IP Phone 7911G",
+	"pcpe": "cpe:/h:cisco:unified_ip_phone_7911g"
 }

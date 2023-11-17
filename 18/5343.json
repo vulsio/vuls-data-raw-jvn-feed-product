@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "5343",
-  "pname": "IBM System Storage DS5100 Storage Controller",
-  "pcpe": "cpe:/h:ibm:system_storage_ds5100_storage_controller"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "5343",
+	"pname": "IBM System Storage DS5100 Storage Controller",
+	"pcpe": "cpe:/h:ibm:system_storage_ds5100_storage_controller"
 }

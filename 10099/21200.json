@@ -1,8 +1,8 @@
 {
-  "vid": "10099",
-  "vname": "Litter Penguin",
-  "vcpe": "cpe:/:litter_penguin",
-  "pid": "21200",
-  "pname": "ウェブブラウザ",
-  "pcpe": "cpe:/a:litter_penguin:web_browser_%26_explorer"
+	"vid": "10099",
+	"vname": "Litter Penguin",
+	"vcpe": "cpe:/:litter_penguin",
+	"pid": "21200",
+	"pname": "ウェブブラウザ",
+	"pcpe": "cpe:/a:litter_penguin:web_browser_%26_explorer"
 }

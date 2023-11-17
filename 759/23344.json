@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "23344",
-  "pname": "MultiLink ML810 ファームウェア",
-  "pcpe": "cpe:/o:ge:multilink_ml810_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "23344",
+	"pname": "MultiLink ML810 ファームウェア",
+	"pcpe": "cpe:/o:ge:multilink_ml810_firmware"
 }

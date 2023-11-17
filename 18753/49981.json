@@ -1,8 +1,8 @@
 {
-  "vid": "18753",
-  "vname": "エレコム株式会社",
-  "vcpe": "cpe:/:elecom",
-  "pid": "49981",
-  "pname": "EDWRC-2533GST2 ファームウェア",
-  "pcpe": "cpe:/o:elecom:edwrc-2533gst2_firmware"
+	"vid": "18753",
+	"vname": "エレコム株式会社",
+	"vcpe": "cpe:/:elecom",
+	"pid": "49981",
+	"pname": "EDWRC-2533GST2 ファームウェア",
+	"pcpe": "cpe:/o:elecom:edwrc-2533gst2_firmware"
 }

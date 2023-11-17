@@ -1,8 +1,8 @@
 {
-  "vid": "7654",
-  "vname": "skalinks",
-  "vcpe": "cpe:/:skalinks",
-  "pid": "14839",
-  "pname": "exchange script",
-  "pcpe": "cpe:/a:skalinks:exchange_script"
+	"vid": "7654",
+	"vname": "skalinks",
+	"vcpe": "cpe:/:skalinks",
+	"pid": "14839",
+	"pname": "exchange script",
+	"pcpe": "cpe:/a:skalinks:exchange_script"
 }

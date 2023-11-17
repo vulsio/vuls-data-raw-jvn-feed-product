@@ -1,8 +1,8 @@
 {
-  "vid": "8127",
-  "vname": "Trivantis Corporation Inc.",
-  "vcpe": "cpe:/:trivantis",
-  "pid": "18165",
-  "pname": "CourseMill LMS",
-  "pcpe": "cpe:/a:trivantis:coursemill_learning_management_system"
+	"vid": "8127",
+	"vname": "Trivantis Corporation Inc.",
+	"vcpe": "cpe:/:trivantis",
+	"pid": "18165",
+	"pname": "CourseMill LMS",
+	"pcpe": "cpe:/a:trivantis:coursemill_learning_management_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31343",
-  "pname": "SMC2.0 ファームウェア",
-  "pcpe": "cpe:/o:huawei:smc2.0_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31343",
+	"pname": "SMC2.0 ファームウェア",
+	"pcpe": "cpe:/o:huawei:smc2.0_firmware"
 }

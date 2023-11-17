@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "61057",
-  "pname": "DP5900 ファームウェア",
-  "pcpe": "cpe:/o:dell:dp5900_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "61057",
+	"pname": "DP5900 ファームウェア",
+	"pcpe": "cpe:/o:dell:dp5900_firmware"
 }

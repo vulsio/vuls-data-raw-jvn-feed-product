@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "5878",
-  "pname": "xserve lights-out management",
-  "pcpe": "cpe:/a:apple:xserve_lights-out_management"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "5878",
+	"pname": "xserve lights-out management",
+	"pcpe": "cpe:/a:apple:xserve_lights-out_management"
 }

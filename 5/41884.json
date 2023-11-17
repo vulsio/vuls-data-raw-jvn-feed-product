@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "41884",
-  "pname": "APQ8064 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:apq8064_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "41884",
+	"pname": "APQ8064 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:apq8064_firmware"
 }

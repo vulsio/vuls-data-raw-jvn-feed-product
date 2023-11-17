@@ -1,8 +1,8 @@
 {
-  "vid": "20806",
-  "vname": "wp-domain-redirect project",
-  "vcpe": "cpe:/:wp-domain-redirect_project",
-  "pid": "53064",
-  "pname": "wp-domain-redirect",
-  "pcpe": "cpe:/a:wp-domain-redirect_project:wp-domain-redirect"
+	"vid": "20806",
+	"vname": "wp-domain-redirect project",
+	"vcpe": "cpe:/:wp-domain-redirect_project",
+	"pid": "53064",
+	"pname": "wp-domain-redirect",
+	"pcpe": "cpe:/a:wp-domain-redirect_project:wp-domain-redirect"
 }

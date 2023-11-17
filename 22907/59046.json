@@ -1,8 +1,8 @@
 {
-  "vid": "22907",
-  "vname": "alibabagroup",
-  "vcpe": "cpe:/:alibabagroup",
-  "pid": "59046",
-  "pname": "one-java-agent",
-  "pcpe": "cpe:/a:alibabagroup:one-java-agent"
+	"vid": "22907",
+	"vname": "alibabagroup",
+	"vcpe": "cpe:/:alibabagroup",
+	"pid": "59046",
+	"pname": "one-java-agent",
+	"pcpe": "cpe:/a:alibabagroup:one-java-agent"
 }

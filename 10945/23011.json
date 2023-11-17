@@ -1,8 +1,8 @@
 {
-  "vid": "10945",
-  "vname": "gannett",
-  "vcpe": "cpe:/:gannett",
-  "pid": "23011",
-  "pname": "lansing state journal print",
-  "pcpe": "cpe:/a:gannett:lansing_state_journal_print"
+	"vid": "10945",
+	"vname": "gannett",
+	"vcpe": "cpe:/:gannett",
+	"pid": "23011",
+	"pname": "lansing state journal print",
+	"pcpe": "cpe:/a:gannett:lansing_state_journal_print"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "27030",
-  "pname": "Intel Integrated Performance Primitives",
-  "pcpe": "cpe:/a:intel:integrated_performance_primitives"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "27030",
+	"pname": "Intel Integrated Performance Primitives",
+	"pcpe": "cpe:/a:intel:integrated_performance_primitives"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17643",
-  "pname": "HP NonStop SQL/MX",
-  "pcpe": "cpe:/a:hp:nonstop_sql%2Fmx"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17643",
+	"pname": "HP NonStop SQL/MX",
+	"pcpe": "cpe:/a:hp:nonstop_sql%2Fmx"
 }

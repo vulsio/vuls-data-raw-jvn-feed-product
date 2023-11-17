@@ -1,8 +1,8 @@
 {
-  "vid": "16829",
-  "vname": "FOLIO",
-  "vcpe": "cpe:/:raml-module-builder_project",
-  "pid": "40076",
-  "pname": "RAML Module Builder",
-  "pcpe": "cpe:/a:raml-module-builder_project:raml-module-builder"
+	"vid": "16829",
+	"vname": "FOLIO",
+	"vcpe": "cpe:/:raml-module-builder_project",
+	"pid": "40076",
+	"pname": "RAML Module Builder",
+	"pcpe": "cpe:/a:raml-module-builder_project:raml-module-builder"
 }

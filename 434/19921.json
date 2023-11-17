@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "19921",
-  "pname": "EMC File Management Appliance ソフトウェア",
-  "pcpe": "cpe:/a:emc:file_management_appliance_software"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "19921",
+	"pname": "EMC File Management Appliance ソフトウェア",
+	"pcpe": "cpe:/a:emc:file_management_appliance_software"
 }

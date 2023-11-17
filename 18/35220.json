@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "35220",
-  "pname": "IBM Networking Operating System",
-  "pcpe": "cpe:/o:ibm:network_operating_system"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "35220",
+	"pname": "IBM Networking Operating System",
+	"pcpe": "cpe:/o:ibm:network_operating_system"
 }

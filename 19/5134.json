@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5134",
-  "pname": "Cisco Carrier Routing System",
-  "pcpe": "cpe:/a:cisco:carrier_routing_system"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5134",
+	"pname": "Cisco Carrier Routing System",
+	"pcpe": "cpe:/a:cisco:carrier_routing_system"
 }

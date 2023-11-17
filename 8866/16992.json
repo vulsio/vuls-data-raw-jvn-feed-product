@@ -1,8 +1,8 @@
 {
-  "vid": "8866",
-  "vname": "360 Systems",
-  "vcpe": "cpe:/:360systems",
-  "pid": "16992",
-  "pname": "Image Server 2000",
-  "pcpe": "cpe:/o:360systems:image_server_2000"
+	"vid": "8866",
+	"vname": "360 Systems",
+	"vcpe": "cpe:/:360systems",
+	"pid": "16992",
+	"pname": "Image Server 2000",
+	"pcpe": "cpe:/o:360systems:image_server_2000"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19752",
-  "pname": "IBM Storwize V3500",
-  "pcpe": "cpe:/h:ibm:storwize_v3500"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19752",
+	"pname": "IBM Storwize V3500",
+	"pcpe": "cpe:/h:ibm:storwize_v3500"
 }

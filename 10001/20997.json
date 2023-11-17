@@ -1,8 +1,8 @@
 {
-  "vid": "10001",
-  "vname": "News Pack project",
-  "vcpe": "cpe:/:news_pack_project",
-  "pid": "20997",
-  "pname": "News Pack",
-  "pcpe": "cpe:/a:news_pack_project:news_pack"
+	"vid": "10001",
+	"vname": "News Pack project",
+	"vcpe": "cpe:/:news_pack_project",
+	"pid": "20997",
+	"pname": "News Pack",
+	"pcpe": "cpe:/a:news_pack_project:news_pack"
 }

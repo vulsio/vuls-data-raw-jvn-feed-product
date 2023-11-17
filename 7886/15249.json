@@ -1,8 +1,8 @@
 {
-  "vid": "7886",
-  "vname": "sysinternals",
-  "vcpe": "cpe:/:sysinternals",
-  "pid": "15249",
-  "pname": "process monitor",
-  "pcpe": "cpe:/a:sysinternals:process_monitor"
+	"vid": "7886",
+	"vname": "sysinternals",
+	"vcpe": "cpe:/:sysinternals",
+	"pid": "15249",
+	"pname": "process monitor",
+	"pcpe": "cpe:/a:sysinternals:process_monitor"
 }

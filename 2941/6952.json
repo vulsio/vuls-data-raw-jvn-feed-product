@@ -1,8 +1,8 @@
 {
-  "vid": "2941",
-  "vname": "comscripts",
-  "vcpe": "cpe:/:comscripts",
-  "pid": "6952",
-  "pname": "phpmyphorum",
-  "pcpe": "cpe:/a:comscripts:phpmyphorum"
+	"vid": "2941",
+	"vname": "comscripts",
+	"vcpe": "cpe:/:comscripts",
+	"pid": "6952",
+	"pname": "phpmyphorum",
+	"pcpe": "cpe:/a:comscripts:phpmyphorum"
 }

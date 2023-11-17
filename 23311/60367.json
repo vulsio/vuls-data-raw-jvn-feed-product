@@ -1,8 +1,8 @@
 {
-  "vid": "23311",
-  "vname": "memberhero",
-  "vcpe": "cpe:/:memberhero",
-  "pid": "60367",
-  "pname": "Member Hero",
-  "pcpe": "cpe:/a:memberhero:member_hero"
+	"vid": "23311",
+	"vname": "memberhero",
+	"vcpe": "cpe:/:memberhero",
+	"pid": "60367",
+	"pname": "Member Hero",
+	"pcpe": "cpe:/a:memberhero:member_hero"
 }

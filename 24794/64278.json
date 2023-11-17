@@ -1,8 +1,8 @@
 {
-  "vid": "24794",
-  "vname": "baremetrics",
-  "vcpe": "cpe:/:baremetrics",
-  "pid": "64278",
-  "pname": "date range picker",
-  "pcpe": "cpe:/a:baremetrics:date_range_picker"
+	"vid": "24794",
+	"vname": "baremetrics",
+	"vcpe": "cpe:/:baremetrics",
+	"pid": "64278",
+	"pname": "date range picker",
+	"pcpe": "cpe:/a:baremetrics:date_range_picker"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14526",
-  "vname": "DeWeiSecurityServiceToken project",
-  "vcpe": "cpe:/:deweisecurityservicetoken_project",
-  "pid": "34222",
-  "pname": "DeWeiSecurityServiceToken",
-  "pcpe": "cpe:/a:deweisecurityservicetoken_project:deweisecurityservicetoken"
+	"vid": "14526",
+	"vname": "DeWeiSecurityServiceToken project",
+	"vcpe": "cpe:/:deweisecurityservicetoken_project",
+	"pid": "34222",
+	"pname": "DeWeiSecurityServiceToken",
+	"pcpe": "cpe:/a:deweisecurityservicetoken_project:deweisecurityservicetoken"
 }

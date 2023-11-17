@@ -1,8 +1,8 @@
 {
-  "vid": "15715",
-  "vname": "TOTOLINK",
-  "vcpe": "cpe:/:totolink",
-  "pid": "48614",
-  "pname": "A702R-V3 ファームウェア",
-  "pcpe": "cpe:/o:totolink:a702r-v3_firmware"
+	"vid": "15715",
+	"vname": "TOTOLINK",
+	"vcpe": "cpe:/:totolink",
+	"pid": "48614",
+	"pname": "A702R-V3 ファームウェア",
+	"pcpe": "cpe:/o:totolink:a702r-v3_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "62024",
-  "pname": "HP 288 Pro G3 Microtower PC ファームウェア",
-  "pcpe": "cpe:/o:hp:288_pro_g3_microtower_pc_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "62024",
+	"pname": "HP 288 Pro G3 Microtower PC ファームウェア",
+	"pcpe": "cpe:/o:hp:288_pro_g3_microtower_pc_firmware"
 }

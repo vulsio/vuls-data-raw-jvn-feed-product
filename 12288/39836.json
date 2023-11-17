@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "39836",
-  "pname": "Log Cache Release",
-  "pcpe": "cpe:/a:cloud_foundry:log_cache_release"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "39836",
+	"pname": "Log Cache Release",
+	"pcpe": "cpe:/a:cloud_foundry:log_cache_release"
 }

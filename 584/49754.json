@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "49754",
-  "pname": "SIMATIC MV440 HR ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_mv440_hr_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "49754",
+	"pname": "SIMATIC MV440 HR ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_mv440_hr_firmware"
 }

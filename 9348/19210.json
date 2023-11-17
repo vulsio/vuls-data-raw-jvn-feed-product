@@ -1,8 +1,8 @@
 {
-  "vid": "9348",
-  "vname": "httplib2 Project",
-  "vcpe": "cpe:/:httplib2_project",
-  "pid": "19210",
-  "pname": "httplib2",
-  "pcpe": "cpe:/a:httplib2_project:httplib2"
+	"vid": "9348",
+	"vname": "httplib2 Project",
+	"vcpe": "cpe:/:httplib2_project",
+	"pid": "19210",
+	"pname": "httplib2",
+	"pcpe": "cpe:/a:httplib2_project:httplib2"
 }

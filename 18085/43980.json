@@ -1,8 +1,8 @@
 {
-  "vid": "18085",
-  "vname": "Videolabs",
-  "vcpe": "cpe:/:videolabs",
-  "pid": "43980",
-  "pname": "libmicrodns",
-  "pcpe": "cpe:/a:videolabs:libmicrodns"
+	"vid": "18085",
+	"vname": "Videolabs",
+	"vcpe": "cpe:/:videolabs",
+	"pid": "43980",
+	"pname": "libmicrodns",
+	"pcpe": "cpe:/a:videolabs:libmicrodns"
 }

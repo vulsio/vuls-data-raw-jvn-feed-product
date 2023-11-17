@@ -1,8 +1,8 @@
 {
-  "vid": "13994",
-  "vname": "Yubico",
-  "vcpe": "cpe:/:yubico",
-  "pid": "54758",
-  "pname": "YubiHSM 2 SDK",
-  "pcpe": "cpe:/a:yubico:yubihsm_2_software_development_kit"
+	"vid": "13994",
+	"vname": "Yubico",
+	"vcpe": "cpe:/:yubico",
+	"pid": "54758",
+	"pname": "YubiHSM 2 SDK",
+	"pcpe": "cpe:/a:yubico:yubihsm_2_software_development_kit"
 }

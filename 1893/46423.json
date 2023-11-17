@@ -1,8 +1,8 @@
 {
-  "vid": "1893",
-  "vname": "Sensio Labs",
-  "vcpe": "cpe:/:sensiolabs",
-  "pid": "46423",
-  "pname": "HTTP Client",
-  "pcpe": "cpe:/a:sensiolabs:httpclient"
+	"vid": "1893",
+	"vname": "Sensio Labs",
+	"vcpe": "cpe:/:sensiolabs",
+	"pid": "46423",
+	"pname": "HTTP Client",
+	"pcpe": "cpe:/a:sensiolabs:httpclient"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19415",
-  "vname": "HCL Software",
-  "vcpe": "cpe:/:hcltechsw",
-  "pid": "61031",
-  "pname": "hcl launch",
-  "pcpe": "cpe:/a:hcltechsw:hcl_launch"
+	"vid": "19415",
+	"vname": "HCL Software",
+	"vcpe": "cpe:/:hcltechsw",
+	"pid": "61031",
+	"pname": "hcl launch",
+	"pcpe": "cpe:/a:hcltechsw:hcl_launch"
 }

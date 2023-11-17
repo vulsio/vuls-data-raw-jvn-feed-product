@@ -1,8 +1,8 @@
 {
-  "vid": "23852",
-  "vname": "Teradek",
-  "vcpe": "cpe:/:teradek",
-  "pid": "61832",
-  "pname": "Bond Pro ファームウェア",
-  "pcpe": "cpe:/o:teradek:bond_pro_firmware"
+	"vid": "23852",
+	"vname": "Teradek",
+	"vcpe": "cpe:/:teradek",
+	"pid": "61832",
+	"pname": "Bond Pro ファームウェア",
+	"pcpe": "cpe:/o:teradek:bond_pro_firmware"
 }

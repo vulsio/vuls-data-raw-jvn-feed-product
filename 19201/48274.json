@@ -1,8 +1,8 @@
 {
-  "vid": "19201",
-  "vname": "株式会社ジェイテクト",
-  "vcpe": "cpe:/:jtekt",
-  "pid": "48274",
-  "pname": "PC10G-CPU ファームウェア",
-  "pcpe": "cpe:/o:jtekt:pc10g-cpu_firmware"
+	"vid": "19201",
+	"vname": "株式会社ジェイテクト",
+	"vcpe": "cpe:/:jtekt",
+	"pid": "48274",
+	"pname": "PC10G-CPU ファームウェア",
+	"pcpe": "cpe:/o:jtekt:pc10g-cpu_firmware"
 }

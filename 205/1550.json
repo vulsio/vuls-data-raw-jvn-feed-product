@@ -1,8 +1,8 @@
 {
-  "vid": "205",
-  "vname": "Geeklog",
-  "vcpe": "cpe:/:geeklog",
-  "pid": "1550",
-  "pname": "Geeklog Forum Plugin",
-  "pcpe": "cpe:/a:geeklog:forum_plugin"
+	"vid": "205",
+	"vname": "Geeklog",
+	"vcpe": "cpe:/:geeklog",
+	"pid": "1550",
+	"pname": "Geeklog Forum Plugin",
+	"pcpe": "cpe:/a:geeklog:forum_plugin"
 }

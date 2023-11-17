@@ -1,8 +1,8 @@
 {
-  "vid": "21775",
-  "vname": "Calsign",
-  "vcpe": "cpe:/:android_processing_development_environment_project",
-  "pid": "55929",
-  "pname": "APDE",
-  "pcpe": "cpe:/a:android_processing_development_environment_project:android_processing_development_environment"
+	"vid": "21775",
+	"vname": "Calsign",
+	"vcpe": "cpe:/:android_processing_development_environment_project",
+	"pid": "55929",
+	"pname": "APDE",
+	"pcpe": "cpe:/a:android_processing_development_environment_project:android_processing_development_environment"
 }

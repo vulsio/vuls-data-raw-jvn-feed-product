@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "61528",
-  "pname": "acti9 powertag link c (a9xelc10-a) ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:acti9_powertag_link_c_%28a9xelc10-a%29_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "61528",
+	"pname": "acti9 powertag link c (a9xelc10-a) ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:acti9_powertag_link_c_%28a9xelc10-a%29_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27375",
-  "pname": "ThinkPad Yoga 14 460 S3 BIOS",
-  "pcpe": "cpe:/o:lenovo:thinkpad_yoga_14_460_s3_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27375",
+	"pname": "ThinkPad Yoga 14 460 S3 BIOS",
+	"pcpe": "cpe:/o:lenovo:thinkpad_yoga_14_460_s3_bios"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14379",
-  "vname": "intsol-package project",
-  "vcpe": "cpe:/:intsol-package_project",
-  "pid": "34070",
-  "pname": "intsol-package",
-  "pcpe": "cpe:/a:intsol-package_project:intsol-package"
+	"vid": "14379",
+	"vname": "intsol-package project",
+	"vcpe": "cpe:/:intsol-package_project",
+	"pid": "34070",
+	"pname": "intsol-package",
+	"pcpe": "cpe:/a:intsol-package_project:intsol-package"
 }

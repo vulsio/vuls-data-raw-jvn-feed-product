@@ -1,8 +1,8 @@
 {
-  "vid": "18027",
-  "vname": "Meetecho",
-  "vcpe": "cpe:/:meetecho",
-  "pid": "43817",
-  "pname": "Janus",
-  "pcpe": "cpe:/a:meetecho:janus"
+	"vid": "18027",
+	"vname": "Meetecho",
+	"vcpe": "cpe:/:meetecho",
+	"pid": "43817",
+	"pname": "Janus",
+	"pcpe": "cpe:/a:meetecho:janus"
 }

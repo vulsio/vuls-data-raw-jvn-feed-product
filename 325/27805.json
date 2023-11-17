@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27805",
-  "pname": "Flex System x880 X6",
-  "pcpe": "cpe:/a:lenovo:flex_system_x880_x6_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27805",
+	"pname": "Flex System x880 X6",
+	"pcpe": "cpe:/a:lenovo:flex_system_x880_x6_bios"
 }

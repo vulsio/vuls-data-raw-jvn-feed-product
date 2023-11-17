@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "32569",
-  "pname": "HPE Diagnostics",
-  "pcpe": "cpe:/a:hp:diagnostics"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "32569",
+	"pname": "HPE Diagnostics",
+	"pcpe": "cpe:/a:hp:diagnostics"
 }

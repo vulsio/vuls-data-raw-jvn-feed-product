@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "43764",
-  "pname": "SINUMERIK 840D SL",
-  "pcpe": "cpe:/a:siemens:sinumerik_840d_sl"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "43764",
+	"pname": "SINUMERIK 840D SL",
+	"pcpe": "cpe:/a:siemens:sinumerik_840d_sl"
 }

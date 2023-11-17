@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "32184",
-  "pname": "Oracle Communications Unified Inventory Management",
-  "pcpe": "cpe:/a:oracle:communications_unified_inventory_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "32184",
+	"pname": "Oracle Communications Unified Inventory Management",
+	"pcpe": "cpe:/a:oracle:communications_unified_inventory_management"
 }

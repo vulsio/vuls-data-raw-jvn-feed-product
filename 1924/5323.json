@@ -1,8 +1,8 @@
 {
-  "vid": "1924",
-  "vname": "International Color Consortium (ICC)",
-  "vcpe": "cpe:/:color",
-  "pid": "5323",
-  "pname": "icclib",
-  "pcpe": "cpe:/a:color:icclib"
+	"vid": "1924",
+	"vname": "International Color Consortium (ICC)",
+	"vcpe": "cpe:/:color",
+	"pid": "5323",
+	"pname": "icclib",
+	"pcpe": "cpe:/a:color:icclib"
 }

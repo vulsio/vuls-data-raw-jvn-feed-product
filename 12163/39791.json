@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "39791",
-  "pname": "Simple Travis Pipeline Runner",
-  "pcpe": "cpe:/a:jenkins:simple_travis_pipeline_runner"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "39791",
+	"pname": "Simple Travis Pipeline Runner",
+	"pcpe": "cpe:/a:jenkins:simple_travis_pipeline_runner"
 }

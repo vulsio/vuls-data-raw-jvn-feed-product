@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31523",
-  "pname": "HwCloudDrive",
-  "pcpe": "cpe:/o:huawei:hwclouddrive_emui6.0"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31523",
+	"pname": "HwCloudDrive",
+	"pcpe": "cpe:/o:huawei:hwclouddrive_emui6.0"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22360",
-  "vname": "さくらインターネット株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "57501",
-  "pname": "TS Webfonts for さくらのレンタルサーバ",
-  "pcpe": "cpe:/o:misc:sakura_internet_ts_webfonts_for_sakura_rental_server"
+	"vid": "22360",
+	"vname": "さくらインターネット株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "57501",
+	"pname": "TS Webfonts for さくらのレンタルサーバ",
+	"pcpe": "cpe:/o:misc:sakura_internet_ts_webfonts_for_sakura_rental_server"
 }

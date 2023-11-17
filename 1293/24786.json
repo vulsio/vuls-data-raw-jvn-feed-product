@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "24786",
-  "pname": "Cyberoam Central Console",
-  "pcpe": "cpe:/a:sophos:cyberoam_central_console"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "24786",
+	"pname": "Cyberoam Central Console",
+	"pcpe": "cpe:/a:sophos:cyberoam_central_console"
 }

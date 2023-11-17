@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "47477",
-  "pname": "WBR2-B11 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wbr2-b11_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "47477",
+	"pname": "WBR2-B11 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wbr2-b11_firmware"
 }

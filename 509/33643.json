@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "33643",
-  "pname": "EA-FINSERV",
-  "pcpe": "cpe:/a:sap:ea-finserv"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "33643",
+	"pname": "EA-FINSERV",
+	"pcpe": "cpe:/a:sap:ea-finserv"
 }

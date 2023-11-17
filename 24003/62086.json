@@ -1,8 +1,8 @@
 {
-  "vid": "24003",
-  "vname": "OpenBook Book Data project",
-  "vcpe": "cpe:/:openbook_book_data_project",
-  "pid": "62086",
-  "pname": "OpenBook Book Data",
-  "pcpe": "cpe:/a:openbook_book_data_project:openbook_book_data"
+	"vid": "24003",
+	"vname": "OpenBook Book Data project",
+	"vcpe": "cpe:/:openbook_book_data_project",
+	"pid": "62086",
+	"pname": "OpenBook Book Data",
+	"pcpe": "cpe:/a:openbook_book_data_project:openbook_book_data"
 }

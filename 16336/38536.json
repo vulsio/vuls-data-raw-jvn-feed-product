@@ -1,8 +1,8 @@
 {
-  "vid": "16336",
-  "vname": "Medha Apps",
-  "vcpe": "cpe:/:wifi_ftp_server_project",
-  "pid": "38536",
-  "pname": "Wi-Fi FTP Server",
-  "pcpe": "cpe:/a:wifi_ftp_server_project:wifi_ftp_server"
+	"vid": "16336",
+	"vname": "Medha Apps",
+	"vcpe": "cpe:/:wifi_ftp_server_project",
+	"pid": "38536",
+	"pname": "Wi-Fi FTP Server",
+	"pcpe": "cpe:/a:wifi_ftp_server_project:wifi_ftp_server"
 }

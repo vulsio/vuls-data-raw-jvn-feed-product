@@ -1,8 +1,8 @@
 {
-  "vid": "20019",
-  "vname": "deep-override project",
-  "vcpe": "cpe:/:deep-override_project",
-  "pid": "50693",
-  "pname": "deep-override",
-  "pcpe": "cpe:/a:deep-override_project:deep-override"
+	"vid": "20019",
+	"vname": "deep-override project",
+	"vcpe": "cpe:/:deep-override_project",
+	"pid": "50693",
+	"pname": "deep-override",
+	"pcpe": "cpe:/a:deep-override_project:deep-override"
 }

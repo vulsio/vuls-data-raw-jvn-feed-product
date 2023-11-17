@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "28459",
-  "pname": "McAfee Host Intrusion Prevention Services",
-  "pcpe": "cpe:/a:mcafee:host_intrusion_prevention_services"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "28459",
+	"pname": "McAfee Host Intrusion Prevention Services",
+	"pcpe": "cpe:/a:mcafee:host_intrusion_prevention_services"
 }

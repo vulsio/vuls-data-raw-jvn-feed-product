@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "30429",
-  "pname": "Atlassian Oauth",
-  "pcpe": "cpe:/a:atlassian:oauth"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "30429",
+	"pname": "Atlassian Oauth",
+	"pcpe": "cpe:/a:atlassian:oauth"
 }

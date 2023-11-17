@@ -1,8 +1,8 @@
 {
-  "vid": "280",
-  "vname": "Gentoo Linux",
-  "vcpe": "cpe:/:gentoo",
-  "pid": "8371",
-  "pname": "xdg-utils",
-  "pcpe": "cpe:/a:gentoo:xdg-utils"
+	"vid": "280",
+	"vname": "Gentoo Linux",
+	"vcpe": "cpe:/:gentoo",
+	"pid": "8371",
+	"pname": "xdg-utils",
+	"pcpe": "cpe:/a:gentoo:xdg-utils"
 }

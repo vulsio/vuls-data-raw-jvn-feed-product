@@ -1,8 +1,8 @@
 {
-  "vid": "2076",
-  "vname": "AfterLogic",
-  "vcpe": "cpe:/:afterlogic",
-  "pid": "5589",
-  "pname": "MailBee Objects",
-  "pcpe": "cpe:/a:afterlogic:mailbee_objects"
+	"vid": "2076",
+	"vname": "AfterLogic",
+	"vcpe": "cpe:/:afterlogic",
+	"pid": "5589",
+	"pname": "MailBee Objects",
+	"pcpe": "cpe:/a:afterlogic:mailbee_objects"
 }

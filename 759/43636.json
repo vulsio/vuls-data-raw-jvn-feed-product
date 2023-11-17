@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "43636",
-  "pname": "LOGIQ E10 ファームウェア",
-  "pcpe": "cpe:/o:ge:logiq_e10_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "43636",
+	"pname": "LOGIQ E10 ファームウェア",
+	"pcpe": "cpe:/o:ge:logiq_e10_firmware"
 }

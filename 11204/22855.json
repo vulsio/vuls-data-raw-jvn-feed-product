@@ -1,8 +1,8 @@
 {
-  "vid": "11204",
-  "vname": "rts",
-  "vcpe": "cpe:/:rts",
-  "pid": "22855",
-  "pname": "rtsinfo",
-  "pcpe": "cpe:/a:rts:rtsinfo"
+	"vid": "11204",
+	"vname": "rts",
+	"vcpe": "cpe:/:rts",
+	"pid": "22855",
+	"pname": "rtsinfo",
+	"pcpe": "cpe:/a:rts:rtsinfo"
 }

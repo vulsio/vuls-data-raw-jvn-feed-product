@@ -1,8 +1,8 @@
 {
-  "vid": "12195",
-  "vname": "MISP project",
-  "vcpe": "cpe:/:misp-project",
-  "pid": "44886",
-  "pname": "MISP-maltego",
-  "pcpe": "cpe:/a:misp-project:misp-maltego"
+	"vid": "12195",
+	"vname": "MISP project",
+	"vcpe": "cpe:/:misp-project",
+	"pid": "44886",
+	"pname": "MISP-maltego",
+	"pcpe": "cpe:/a:misp-project:misp-maltego"
 }

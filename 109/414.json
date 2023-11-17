@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "414",
-  "pname": "FMV-LIFEBOOK",
-  "pcpe": "cpe:/h:fujitsu:fmv-lifebook"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "414",
+	"pname": "FMV-LIFEBOOK",
+	"pcpe": "cpe:/h:fujitsu:fmv-lifebook"
 }

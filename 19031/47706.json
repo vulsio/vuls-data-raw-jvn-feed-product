@@ -1,8 +1,8 @@
 {
-  "vid": "19031",
-  "vname": "softwaremill",
-  "vcpe": "cpe:/:softwaremill",
-  "pid": "47706",
-  "pname": "akka-http-session",
-  "pcpe": "cpe:/a:softwaremill:akka-http-session"
+	"vid": "19031",
+	"vname": "softwaremill",
+	"vcpe": "cpe:/:softwaremill",
+	"pid": "47706",
+	"pname": "akka-http-session",
+	"pcpe": "cpe:/a:softwaremill:akka-http-session"
 }

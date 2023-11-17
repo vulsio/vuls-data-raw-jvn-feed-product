@@ -1,8 +1,8 @@
 {
-  "vid": "17426",
-  "vname": "NiceHash",
-  "vcpe": "cpe:/:nicehash",
-  "pid": "41503",
-  "pname": "NiceHash Miner",
-  "pcpe": "cpe:/a:nicehash:miner"
+	"vid": "17426",
+	"vname": "NiceHash",
+	"vcpe": "cpe:/:nicehash",
+	"pid": "41503",
+	"pname": "NiceHash Miner",
+	"pcpe": "cpe:/a:nicehash:miner"
 }

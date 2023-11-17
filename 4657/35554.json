@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "35554",
-  "pname": "Victoria-AL00 ファームウェア",
-  "pcpe": "cpe:/o:huawei:victoria-al00_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "35554",
+	"pname": "Victoria-AL00 ファームウェア",
+	"pcpe": "cpe:/o:huawei:victoria-al00_firmware"
 }

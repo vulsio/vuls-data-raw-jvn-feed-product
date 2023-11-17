@@ -1,8 +1,8 @@
 {
-  "vid": "9494",
-  "vname": "Litech Systems Design",
-  "vcpe": "cpe:/:litech",
-  "pid": "19555",
-  "pname": "Router Advertisement Daemon",
-  "pcpe": "cpe:/a:litech:router_advertisement_daemon"
+	"vid": "9494",
+	"vname": "Litech Systems Design",
+	"vcpe": "cpe:/:litech",
+	"pid": "19555",
+	"pname": "Router Advertisement Daemon",
+	"pcpe": "cpe:/a:litech:router_advertisement_daemon"
 }

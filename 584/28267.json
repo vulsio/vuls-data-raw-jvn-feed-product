@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "28267",
-  "pname": "ETA4 ファームウェア",
-  "pcpe": "cpe:/o:siemens:eta4_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "28267",
+	"pname": "ETA4 ファームウェア",
+	"pcpe": "cpe:/o:siemens:eta4_firmware"
 }

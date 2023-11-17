@@ -1,8 +1,8 @@
 {
-  "vid": "13332",
-  "vname": "Datto, Inc.",
-  "vcpe": "cpe:/:datto",
-  "pid": "31175",
-  "pname": "Backup Agent",
-  "pcpe": "cpe:/a:datto:backup_agent"
+	"vid": "13332",
+	"vname": "Datto, Inc.",
+	"vcpe": "cpe:/:datto",
+	"pid": "31175",
+	"pname": "Backup Agent",
+	"pcpe": "cpe:/a:datto:backup_agent"
 }

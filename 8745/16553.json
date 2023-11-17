@@ -1,8 +1,8 @@
 {
-  "vid": "8745",
-  "vname": "zmanda",
-  "vcpe": "cpe:/:zmanda",
-  "pid": "16553",
-  "pname": "zrm for my sql",
-  "pcpe": "cpe:/a:zmanda:zrm_for_my_sql"
+	"vid": "8745",
+	"vname": "zmanda",
+	"vcpe": "cpe:/:zmanda",
+	"pid": "16553",
+	"pname": "zrm for my sql",
+	"pcpe": "cpe:/a:zmanda:zrm_for_my_sql"
 }

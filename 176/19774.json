@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "19774",
-  "pname": "AT-iMG616LH",
-  "pcpe": "cpe:/h:allied_telesis_k.k.:img616lh"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "19774",
+	"pname": "AT-iMG616LH",
+	"pcpe": "cpe:/h:allied_telesis_k.k.:img616lh"
 }

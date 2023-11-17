@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "18438",
-  "pname": "DWL-2100AP ファームウェア",
-  "pcpe": "cpe:/a:dlink:dwl-2100ap_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "18438",
+	"pname": "DWL-2100AP ファームウェア",
+	"pcpe": "cpe:/a:dlink:dwl-2100ap_firmware"
 }

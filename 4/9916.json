@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "9916",
-  "pname": "soa registry foundation",
-  "pcpe": "cpe:/a:hp:soa_registry_foundation"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "9916",
+	"pname": "soa registry foundation",
+	"pcpe": "cpe:/a:hp:soa_registry_foundation"
 }

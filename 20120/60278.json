@@ -1,8 +1,8 @@
 {
-  "vid": "20120",
-  "vname": "Wow-Estore",
-  "vcpe": "cpe:/:wow-estore",
-  "pid": "60278",
-  "pname": "Popup Box",
-  "pcpe": "cpe:/a:wow-estore:popup_box"
+	"vid": "20120",
+	"vname": "Wow-Estore",
+	"vcpe": "cpe:/:wow-estore",
+	"pid": "60278",
+	"pname": "Popup Box",
+	"pcpe": "cpe:/a:wow-estore:popup_box"
 }

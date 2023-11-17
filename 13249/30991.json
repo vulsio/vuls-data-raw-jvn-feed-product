@@ -1,8 +1,8 @@
 {
-  "vid": "13249",
-  "vname": "ZFS on Linux",
-  "vcpe": "cpe:/:zfsonlinux",
-  "pid": "30991",
-  "pname": "ZFS",
-  "pcpe": "cpe:/a:zfsonlinux:zfs"
+	"vid": "13249",
+	"vname": "ZFS on Linux",
+	"vcpe": "cpe:/:zfsonlinux",
+	"pid": "30991",
+	"pname": "ZFS",
+	"pcpe": "cpe:/a:zfsonlinux:zfs"
 }

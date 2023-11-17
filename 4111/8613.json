@@ -1,8 +1,8 @@
 {
-  "vid": "4111",
-  "vname": "meetinghouse",
-  "vcpe": "cpe:/:meetinghouse",
-  "pid": "8613",
-  "pname": "aegis secureconnect client",
-  "pcpe": "cpe:/a:meetinghouse:aegis_secureconnect_client"
+	"vid": "4111",
+	"vname": "meetinghouse",
+	"vcpe": "cpe:/:meetinghouse",
+	"pid": "8613",
+	"pname": "aegis secureconnect client",
+	"pcpe": "cpe:/a:meetinghouse:aegis_secureconnect_client"
 }

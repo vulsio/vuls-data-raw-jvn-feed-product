@@ -1,8 +1,8 @@
 {
-  "vid": "11879",
-  "vname": "Softing Industrial Automation GmbH",
-  "vcpe": "cpe:/:softing",
-  "pid": "41015",
-  "pname": "uaGate SI ファームウェア",
-  "pcpe": "cpe:/o:softing:uagate_si_firmware"
+	"vid": "11879",
+	"vname": "Softing Industrial Automation GmbH",
+	"vcpe": "cpe:/:softing",
+	"pid": "41015",
+	"pname": "uaGate SI ファームウェア",
+	"pcpe": "cpe:/o:softing:uagate_si_firmware"
 }

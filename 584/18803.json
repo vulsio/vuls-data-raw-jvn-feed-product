@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "18803",
-  "pname": "SINAMICS G110D",
-  "pcpe": "cpe:/h:siemens:sinamics_g110d"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "18803",
+	"pname": "SINAMICS G110D",
+	"pcpe": "cpe:/h:siemens:sinamics_g110d"
 }

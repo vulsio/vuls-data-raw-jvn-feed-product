@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "2406",
-  "pname": "Symantec Workspace Streaming",
-  "pcpe": "cpe:/a:symantec:workspace_streaming"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "2406",
+	"pname": "Symantec Workspace Streaming",
+	"pcpe": "cpe:/a:symantec:workspace_streaming"
 }

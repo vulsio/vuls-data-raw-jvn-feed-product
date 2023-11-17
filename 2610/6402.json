@@ -1,8 +1,8 @@
 {
-  "vid": "2610",
-  "vname": "bosdev",
-  "vcpe": "cpe:/:bosdev",
-  "pid": "6402",
-  "pname": "bosdates",
-  "pcpe": "cpe:/a:bosdev:bosdates"
+	"vid": "2610",
+	"vname": "bosdev",
+	"vcpe": "cpe:/:bosdev",
+	"pid": "6402",
+	"pname": "bosdates",
+	"pcpe": "cpe:/a:bosdev:bosdates"
 }

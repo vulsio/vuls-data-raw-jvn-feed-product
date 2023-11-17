@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28609",
-  "pname": "EDGE-U00 ファームウェア",
-  "pcpe": "cpe:/o:huawei:ascend_p6_edge-u00_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28609",
+	"pname": "EDGE-U00 ファームウェア",
+	"pcpe": "cpe:/o:huawei:ascend_p6_edge-u00_firmware"
 }

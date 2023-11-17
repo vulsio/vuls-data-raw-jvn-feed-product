@@ -1,8 +1,8 @@
 {
-  "vid": "17557",
-  "vname": "Weidmueller",
-  "vcpe": "cpe:/:weidmueller",
-  "pid": "42056",
-  "pname": "IE-SW-PL09MT-5GC-4GT ファームウェア",
-  "pcpe": "cpe:/o:weidmueller:ie-sw-pl09mt-5gc-4gt_firmware"
+	"vid": "17557",
+	"vname": "Weidmueller",
+	"vcpe": "cpe:/:weidmueller",
+	"pid": "42056",
+	"pname": "IE-SW-PL09MT-5GC-4GT ファームウェア",
+	"pcpe": "cpe:/o:weidmueller:ie-sw-pl09mt-5gc-4gt_firmware"
 }

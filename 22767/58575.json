@@ -1,8 +1,8 @@
 {
-  "vid": "22767",
-  "vname": "messaging web application project",
-  "vcpe": "cpe:/:messaging_web_application_project",
-  "pid": "58575",
-  "pname": "messaging web application",
-  "pcpe": "cpe:/a:messaging_web_application_project:messaging_web_application"
+	"vid": "22767",
+	"vname": "messaging web application project",
+	"vcpe": "cpe:/:messaging_web_application_project",
+	"pid": "58575",
+	"pname": "messaging web application",
+	"pcpe": "cpe:/a:messaging_web_application_project:messaging_web_application"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24091",
-  "vname": "mapgis",
-  "vcpe": "cpe:/:mapgis",
-  "pid": "62318",
-  "pname": "igserver",
-  "pcpe": "cpe:/a:mapgis:igserver"
+	"vid": "24091",
+	"vname": "mapgis",
+	"vcpe": "cpe:/:mapgis",
+	"pid": "62318",
+	"pname": "igserver",
+	"pcpe": "cpe:/a:mapgis:igserver"
 }

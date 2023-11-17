@@ -1,8 +1,8 @@
 {
-  "vid": "21621",
-  "vname": "OneBlog project",
-  "vcpe": "cpe:/:oneblog_project",
-  "pid": "55550",
-  "pname": "OneBlog",
-  "pcpe": "cpe:/a:oneblog_project:oneblog"
+	"vid": "21621",
+	"vname": "OneBlog project",
+	"vcpe": "cpe:/:oneblog_project",
+	"pid": "55550",
+	"pname": "OneBlog",
+	"pcpe": "cpe:/a:oneblog_project:oneblog"
 }

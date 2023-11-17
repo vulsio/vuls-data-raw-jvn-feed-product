@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "21659",
-  "pname": "SAP Governance, Risk, and Compliance",
-  "pcpe": "cpe:/a:sap:governance_risk_and_compliance"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "21659",
+	"pname": "SAP Governance, Risk, and Compliance",
+	"pcpe": "cpe:/a:sap:governance_risk_and_compliance"
 }

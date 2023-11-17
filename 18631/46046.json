@@ -1,8 +1,8 @@
 {
-  "vid": "18631",
-  "vname": "galileo cms project",
-  "vcpe": "cpe:/:galileo_cms_project",
-  "pid": "46046",
-  "pname": "Galileo CMS",
-  "pcpe": "cpe:/a:galileo_cms_project:galileo_cms"
+	"vid": "18631",
+	"vname": "galileo cms project",
+	"vcpe": "cpe:/:galileo_cms_project",
+	"pid": "46046",
+	"pname": "Galileo CMS",
+	"pcpe": "cpe:/a:galileo_cms_project:galileo_cms"
 }

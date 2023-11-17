@@ -1,8 +1,8 @@
 {
-  "vid": "10369",
-  "vname": "Todd Palino",
-  "vcpe": "cpe:/:phpmyrecipes_project",
-  "pid": "21807",
-  "pname": "phpMyRecipes",
-  "pcpe": "cpe:/a:phpmyrecipes_project:phpmyrecipes"
+	"vid": "10369",
+	"vname": "Todd Palino",
+	"vcpe": "cpe:/:phpmyrecipes_project",
+	"pid": "21807",
+	"pname": "phpMyRecipes",
+	"pcpe": "cpe:/a:phpmyrecipes_project:phpmyrecipes"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2431",
-  "vname": "Bacula.org",
-  "vcpe": "cpe:/:bacula",
-  "pid": "21431",
-  "pname": "Bacula-Web",
-  "pcpe": "cpe:/a:bacula:bacula-web"
+	"vid": "2431",
+	"vname": "Bacula.org",
+	"vcpe": "cpe:/:bacula",
+	"pid": "21431",
+	"pname": "Bacula-Web",
+	"pcpe": "cpe:/a:bacula:bacula-web"
 }

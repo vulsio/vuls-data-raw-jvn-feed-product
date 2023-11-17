@@ -1,8 +1,8 @@
 {
-  "vid": "18567",
-  "vname": "pypi",
-  "vcpe": "cpe:/:pypi",
-  "pid": "60849",
-  "pname": "watertools",
-  "pcpe": "cpe:/a:pypi:watertools"
+	"vid": "18567",
+	"vname": "pypi",
+	"vcpe": "cpe:/:pypi",
+	"pid": "60849",
+	"pname": "watertools",
+	"pcpe": "cpe:/a:pypi:watertools"
 }

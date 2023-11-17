@@ -1,8 +1,8 @@
 {
-  "vid": "772",
-  "vname": "OWASP",
-  "vcpe": "cpe:/:owasp",
-  "pid": "63829",
-  "pname": "Dependency-Track Frontend",
-  "pcpe": "cpe:/a:owasp:dependency-track_frontend"
+	"vid": "772",
+	"vname": "OWASP",
+	"vcpe": "cpe:/:owasp",
+	"pid": "63829",
+	"pname": "Dependency-Track Frontend",
+	"pcpe": "cpe:/a:owasp:dependency-track_frontend"
 }

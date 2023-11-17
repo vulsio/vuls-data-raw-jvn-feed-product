@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27702",
-  "pname": "Oracle Customer Interaction History",
-  "pcpe": "cpe:/a:oracle:customer_interaction_history"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27702",
+	"pname": "Oracle Customer Interaction History",
+	"pcpe": "cpe:/a:oracle:customer_interaction_history"
 }

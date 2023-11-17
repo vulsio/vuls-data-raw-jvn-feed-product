@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "42203",
-  "pname": "EDS-G516E ファームウェア",
-  "pcpe": "cpe:/o:moxa:eds-g516e_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "42203",
+	"pname": "EDS-G516E ファームウェア",
+	"pcpe": "cpe:/o:moxa:eds-g516e_firmware"
 }

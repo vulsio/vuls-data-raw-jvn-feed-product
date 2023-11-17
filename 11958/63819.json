@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "63819",
-  "pname": "CX-Designer",
-  "pcpe": "cpe:/a:omron:cx-designer"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "63819",
+	"pname": "CX-Designer",
+	"pcpe": "cpe:/a:omron:cx-designer"
 }

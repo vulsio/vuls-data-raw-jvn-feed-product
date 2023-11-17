@@ -1,8 +1,8 @@
 {
-  "vid": "2584",
-  "vname": "bluview",
-  "vcpe": "cpe:/:bluview",
-  "pid": "6356",
-  "pname": "blue magic board",
-  "pcpe": "cpe:/a:bluview:blue_magic_board"
+	"vid": "2584",
+	"vname": "bluview",
+	"vcpe": "cpe:/:bluview",
+	"pid": "6356",
+	"pname": "blue magic board",
+	"pcpe": "cpe:/a:bluview:blue_magic_board"
 }

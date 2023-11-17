@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "13449",
-  "pname": "IBM Advanced Settings Utility",
-  "pcpe": "cpe:/a:ibm:advanced_settings_utility"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "13449",
+	"pname": "IBM Advanced Settings Utility",
+	"pcpe": "cpe:/a:ibm:advanced_settings_utility"
 }

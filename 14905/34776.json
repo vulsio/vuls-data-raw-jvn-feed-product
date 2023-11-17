@@ -1,8 +1,8 @@
 {
-  "vid": "14905",
-  "vname": "AzurionToken project",
-  "vcpe": "cpe:/:azuriontoken_project",
-  "pid": "34776",
-  "pname": "AzurionToken",
-  "pcpe": "cpe:/a:azuriontoken_project:azuriontoken"
+	"vid": "14905",
+	"vname": "AzurionToken project",
+	"vcpe": "cpe:/:azuriontoken_project",
+	"pid": "34776",
+	"pname": "AzurionToken",
+	"pcpe": "cpe:/a:azuriontoken_project:azuriontoken"
 }

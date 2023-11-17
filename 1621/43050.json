@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "43050",
-  "pname": "1830 Photonic Service Switch (PSS)-16 ファームウェア",
-  "pcpe": "cpe:/o:nokia:1830_photonic_service_switch-16_firmware"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "43050",
+	"pname": "1830 Photonic Service Switch (PSS)-16 ファームウェア",
+	"pcpe": "cpe:/o:nokia:1830_photonic_service_switch-16_firmware"
 }

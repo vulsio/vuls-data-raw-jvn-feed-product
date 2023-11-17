@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "37480",
-  "pname": "XM7170x_ファームウェア",
-  "pcpe": "cpe:/o:lexmark:xm7170_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "37480",
+	"pname": "XM7170x_ファームウェア",
+	"pcpe": "cpe:/o:lexmark:xm7170_firmware"
 }

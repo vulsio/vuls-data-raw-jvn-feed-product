@@ -1,8 +1,8 @@
 {
-  "vid": "1107",
-  "vname": "Xiaomi",
-  "vcpe": "cpe:/:xiaomi",
-  "pid": "42370",
-  "pname": "RTCGQ01LM ファームウェア",
-  "pcpe": "cpe:/o:xiaomi:rtcgq01lm_firmware"
+	"vid": "1107",
+	"vname": "Xiaomi",
+	"vcpe": "cpe:/:xiaomi",
+	"pid": "42370",
+	"pname": "RTCGQ01LM ファームウェア",
+	"pcpe": "cpe:/o:xiaomi:rtcgq01lm_firmware"
 }

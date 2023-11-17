@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "40668",
-  "pname": "HMISTU ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:hmistu_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "40668",
+	"pname": "HMISTU ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:hmistu_firmware"
 }

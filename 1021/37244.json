@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "37244",
-  "pname": "Mistral",
-  "pcpe": "cpe:/a:openstack:openstack-mistral"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "37244",
+	"pname": "Mistral",
+	"pcpe": "cpe:/a:openstack:openstack-mistral"
 }

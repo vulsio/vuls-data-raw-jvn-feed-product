@@ -1,8 +1,8 @@
 {
-  "vid": "18735",
-  "vname": "Atop Technologies",
-  "vcpe": "cpe:/:atoptechnology",
-  "pid": "46500",
-  "pname": "SE5901 ファームウェア",
-  "pcpe": "cpe:/o:atoptechnology:se5901_firmware"
+	"vid": "18735",
+	"vname": "Atop Technologies",
+	"vcpe": "cpe:/:atoptechnology",
+	"pid": "46500",
+	"pname": "SE5901 ファームウェア",
+	"pcpe": "cpe:/o:atoptechnology:se5901_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9509",
-  "vname": "SAS",
-  "vcpe": "cpe:/:sas",
-  "pid": "41872",
-  "pname": "SAS XML Mapper",
-  "pcpe": "cpe:/a:sas:xml_mapper"
+	"vid": "9509",
+	"vname": "SAS",
+	"vcpe": "cpe:/:sas",
+	"pid": "41872",
+	"pname": "SAS XML Mapper",
+	"pcpe": "cpe:/a:sas:xml_mapper"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "53348",
-  "pname": "Enterprise SONiC OS",
-  "pcpe": "cpe:/o:dell:enterprise_sonic_os"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "53348",
+	"pname": "Enterprise SONiC OS",
+	"pcpe": "cpe:/o:dell:enterprise_sonic_os"
 }

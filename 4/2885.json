@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "2885",
-  "pname": "HP ArcSight Connector Appliance",
-  "pcpe": "cpe:/h:hp:arcsight_connector_appliance"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "2885",
+	"pname": "HP ArcSight Connector Appliance",
+	"pcpe": "cpe:/h:hp:arcsight_connector_appliance"
 }

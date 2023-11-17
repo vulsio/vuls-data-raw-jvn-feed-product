@@ -1,8 +1,8 @@
 {
-  "vid": "3353",
-  "vname": "dynamic dataworx",
-  "vcpe": "cpe:/:dynamic_dataworx",
-  "pid": "7567",
-  "pname": "nustore",
-  "pcpe": "cpe:/a:dynamic_dataworx:nustore"
+	"vid": "3353",
+	"vname": "dynamic dataworx",
+	"vcpe": "cpe:/:dynamic_dataworx",
+	"pid": "7567",
+	"pname": "nustore",
+	"pcpe": "cpe:/a:dynamic_dataworx:nustore"
 }

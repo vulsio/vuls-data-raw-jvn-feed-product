@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "37404",
-  "pname": "Dell Networking OS10",
-  "pcpe": "cpe:/o:dell:networking_os10"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "37404",
+	"pname": "Dell Networking OS10",
+	"pcpe": "cpe:/o:dell:networking_os10"
 }

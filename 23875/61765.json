@@ -1,8 +1,8 @@
 {
-  "vid": "23875",
-  "vname": "node-import project",
-  "vcpe": "cpe:/:node-import_project",
-  "pid": "61765",
-  "pname": "node-import",
-  "pcpe": "cpe:/a:node-import_project:node-import"
+	"vid": "23875",
+	"vname": "node-import project",
+	"vcpe": "cpe:/:node-import_project",
+	"pid": "61765",
+	"pname": "node-import",
+	"pcpe": "cpe:/a:node-import_project:node-import"
 }

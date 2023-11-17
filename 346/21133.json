@@ -1,8 +1,8 @@
 {
-  "vid": "346",
-  "vname": "Claris International Inc. (旧 FileMaker, Inc)",
-  "vcpe": "cpe:/:claris",
-  "pid": "21133",
-  "pname": "FileMaker Pro Advanced",
-  "pcpe": "cpe:/a:claris:filemaker_pro_advanced"
+	"vid": "346",
+	"vname": "Claris International Inc. (旧 FileMaker, Inc)",
+	"vcpe": "cpe:/:claris",
+	"pid": "21133",
+	"pname": "FileMaker Pro Advanced",
+	"pcpe": "cpe:/a:claris:filemaker_pro_advanced"
 }

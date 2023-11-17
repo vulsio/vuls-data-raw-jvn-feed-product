@@ -1,8 +1,8 @@
 {
-  "vid": "19206",
-  "vname": "openCRX",
-  "vcpe": "cpe:/:opencrx",
-  "pid": "48335",
-  "pname": "openCRX",
-  "pcpe": "cpe:/a:opencrx:opencrx"
+	"vid": "19206",
+	"vname": "openCRX",
+	"vcpe": "cpe:/:opencrx",
+	"pid": "48335",
+	"pname": "openCRX",
+	"pcpe": "cpe:/a:opencrx:opencrx"
 }

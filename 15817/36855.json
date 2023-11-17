@@ -1,8 +1,8 @@
 {
-  "vid": "15817",
-  "vname": "Battelle",
-  "vcpe": "cpe:/:battelle",
-  "pid": "36855",
-  "pname": "V2I Hub",
-  "pcpe": "cpe:/a:battelle:v2i_hub"
+	"vid": "15817",
+	"vname": "Battelle",
+	"vcpe": "cpe:/:battelle",
+	"pid": "36855",
+	"pname": "V2I Hub",
+	"pcpe": "cpe:/a:battelle:v2i_hub"
 }

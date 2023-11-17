@@ -1,8 +1,8 @@
 {
-  "vid": "22795",
-  "vname": "pypdf2 project",
-  "vcpe": "cpe:/:pypdf2_project",
-  "pid": "58672",
-  "pname": "pypdf2",
-  "pcpe": "cpe:/a:pypdf2_project:pypdf2"
+	"vid": "22795",
+	"vname": "pypdf2 project",
+	"vcpe": "cpe:/:pypdf2_project",
+	"pid": "58672",
+	"pname": "pypdf2",
+	"pcpe": "cpe:/a:pypdf2_project:pypdf2"
 }

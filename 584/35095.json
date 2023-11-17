@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "35095",
-  "pname": "RAPIDLab 1200 ファームウェア",
-  "pcpe": "cpe:/o:siemens:rapidlab_1200_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "35095",
+	"pname": "RAPIDLab 1200 ファームウェア",
+	"pcpe": "cpe:/o:siemens:rapidlab_1200_firmware"
 }

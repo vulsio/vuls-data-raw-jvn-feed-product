@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "51879",
-  "pname": "RemoteConnect",
-  "pcpe": "cpe:/a:schneider_electric:remoteconnect"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "51879",
+	"pname": "RemoteConnect",
+	"pcpe": "cpe:/a:schneider_electric:remoteconnect"
 }

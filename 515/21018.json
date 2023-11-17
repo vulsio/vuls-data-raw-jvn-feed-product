@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "21018",
-  "pname": "VMware vCloud Networking and Security",
-  "pcpe": "cpe:/a:vmware:vcloud_networking_and_security"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "21018",
+	"pname": "VMware vCloud Networking and Security",
+	"pcpe": "cpe:/a:vmware:vcloud_networking_and_security"
 }

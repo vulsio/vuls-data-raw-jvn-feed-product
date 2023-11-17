@@ -1,8 +1,8 @@
 {
-  "vid": "14415",
-  "vname": "mockserve project",
-  "vcpe": "cpe:/:mockserve_project",
-  "pid": "34107",
-  "pname": "mockserve",
-  "pcpe": "cpe:/a:mockserve_project:mockserve"
+	"vid": "14415",
+	"vname": "mockserve project",
+	"vcpe": "cpe:/:mockserve_project",
+	"pid": "34107",
+	"pname": "mockserve",
+	"pcpe": "cpe:/a:mockserve_project:mockserve"
 }

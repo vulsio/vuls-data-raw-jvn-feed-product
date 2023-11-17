@@ -1,8 +1,8 @@
 {
-  "vid": "13443",
-  "vname": "Integration Matters",
-  "vcpe": "cpe:/:integrationmatters",
-  "pid": "31707",
-  "pname": "nJAMS",
-  "pcpe": "cpe:/a:integrationmatters:njams"
+	"vid": "13443",
+	"vname": "Integration Matters",
+	"vcpe": "cpe:/:integrationmatters",
+	"pid": "31707",
+	"pname": "nJAMS",
+	"pcpe": "cpe:/a:integrationmatters:njams"
 }

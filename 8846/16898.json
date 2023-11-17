@@ -1,8 +1,8 @@
 {
-  "vid": "8846",
-  "vname": "Rack",
-  "vcpe": "cpe:/:rack_project",
-  "pid": "16898",
-  "pname": "Rack",
-  "pcpe": "cpe:/a:rack_project:rack"
+	"vid": "8846",
+	"vname": "Rack",
+	"vcpe": "cpe:/:rack_project",
+	"pid": "16898",
+	"pname": "Rack",
+	"pcpe": "cpe:/a:rack_project:rack"
 }

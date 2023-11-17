@@ -1,8 +1,8 @@
 {
-  "vid": "14389",
-  "vname": "liuyaserver project",
-  "vcpe": "cpe:/:liuyaserver_project",
-  "pid": "34081",
-  "pname": "liuyaserver",
-  "pcpe": "cpe:/a:liuyaserver_project:liuyaserver"
+	"vid": "14389",
+	"vname": "liuyaserver project",
+	"vcpe": "cpe:/:liuyaserver_project",
+	"pid": "34081",
+	"pname": "liuyaserver",
+	"pcpe": "cpe:/a:liuyaserver_project:liuyaserver"
 }

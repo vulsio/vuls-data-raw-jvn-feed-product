@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "24506",
-  "pname": "OptiPlex 390",
-  "pcpe": "cpe:/h:dell:optiplex_390"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "24506",
+	"pname": "OptiPlex 390",
+	"pcpe": "cpe:/h:dell:optiplex_390"
 }

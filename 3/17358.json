@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "17358",
-  "pname": "Red Hat livecd-tools",
-  "pcpe": "cpe:/a:redhat:livecd-tools"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "17358",
+	"pname": "Red Hat livecd-tools",
+	"pcpe": "cpe:/a:redhat:livecd-tools"
 }

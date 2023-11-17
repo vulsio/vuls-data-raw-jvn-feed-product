@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "32867",
-  "pname": "Keycloak",
-  "pcpe": "cpe:/a:redhat:keycloak"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "32867",
+	"pname": "Keycloak",
+	"pcpe": "cpe:/a:redhat:keycloak"
 }

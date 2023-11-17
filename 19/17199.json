@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17199",
-  "pname": "Cisco 1000 シリーズ Connected Grid ルータ ファームウェア",
-  "pcpe": "cpe:/o:cisco:cgr1000_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17199",
+	"pname": "Cisco 1000 シリーズ Connected Grid ルータ ファームウェア",
+	"pcpe": "cpe:/o:cisco:cgr1000_firmware"
 }

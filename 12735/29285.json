@@ -1,8 +1,8 @@
 {
-  "vid": "12735",
-  "vname": "Mimosa Networks, Inc.",
-  "vcpe": "cpe:/:mimosa",
-  "pid": "29285",
-  "pname": "Mimosa Client",
-  "pcpe": "cpe:/a:mimosa:mimosa_networks_mimosa_client"
+	"vid": "12735",
+	"vname": "Mimosa Networks, Inc.",
+	"vcpe": "cpe:/:mimosa",
+	"pid": "29285",
+	"pname": "Mimosa Client",
+	"pcpe": "cpe:/a:mimosa:mimosa_networks_mimosa_client"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16579",
-  "vname": "FANUC",
-  "vcpe": "cpe:/:fanucamerica",
-  "pid": "39484",
-  "pname": "Robotics Virtual Robot Controller",
-  "pcpe": "cpe:/a:fanucamerica:robotics_virtual_robot_controller"
+	"vid": "16579",
+	"vname": "FANUC",
+	"vcpe": "cpe:/:fanucamerica",
+	"pid": "39484",
+	"pname": "Robotics Virtual Robot Controller",
+	"pcpe": "cpe:/a:fanucamerica:robotics_virtual_robot_controller"
 }

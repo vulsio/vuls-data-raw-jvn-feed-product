@@ -1,8 +1,8 @@
 {
-  "vid": "11902",
-  "vname": "Protect Host Media Inc.",
-  "vcpe": "cpe:/:auto-exchanger",
-  "pid": "24805",
-  "pname": "Auto-Exchanger",
-  "pcpe": "cpe:/a:auto-exchanger:auto-exchanger"
+	"vid": "11902",
+	"vname": "Protect Host Media Inc.",
+	"vcpe": "cpe:/:auto-exchanger",
+	"pid": "24805",
+	"pname": "Auto-Exchanger",
+	"pcpe": "cpe:/a:auto-exchanger:auto-exchanger"
 }

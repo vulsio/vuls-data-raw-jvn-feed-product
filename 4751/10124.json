@@ -1,8 +1,8 @@
 {
-  "vid": "4751",
-  "vname": "inccms technology",
-  "vcpe": "cpe:/:inccms_technology",
-  "pid": "10124",
-  "pname": "inccms core",
-  "pcpe": "cpe:/a:inccms_technology:inccms_core"
+	"vid": "4751",
+	"vname": "inccms technology",
+	"vcpe": "cpe:/:inccms_technology",
+	"pid": "10124",
+	"pname": "inccms core",
+	"pcpe": "cpe:/a:inccms_technology:inccms_core"
 }

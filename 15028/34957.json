@@ -1,8 +1,8 @@
 {
-  "vid": "15028",
-  "vname": "vicetoken",
-  "vcpe": "cpe:/:vicetoken",
-  "pid": "34957",
-  "pname": "VITToken",
-  "pcpe": "cpe:/a:vicetoken:vice_industry_token"
+	"vid": "15028",
+	"vname": "vicetoken",
+	"vcpe": "cpe:/:vicetoken",
+	"pid": "34957",
+	"pname": "VITToken",
+	"pcpe": "cpe:/a:vicetoken:vice_industry_token"
 }

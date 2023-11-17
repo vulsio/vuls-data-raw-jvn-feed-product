@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "44959",
-  "pname": "Recording Station ファームウェア",
-  "pcpe": "cpe:/o:bosch:recording_station_firmware"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "44959",
+	"pname": "Recording Station ファームウェア",
+	"pcpe": "cpe:/o:bosch:recording_station_firmware"
 }

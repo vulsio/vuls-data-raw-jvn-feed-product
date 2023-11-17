@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "12840",
-  "pname": "IBM WebSphere DataPower XML Accelerator XA35",
-  "pcpe": "cpe:/h:ibm:websphere_datapower_xml_accelerator_xa35"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "12840",
+	"pname": "IBM WebSphere DataPower XML Accelerator XA35",
+	"pcpe": "cpe:/h:ibm:websphere_datapower_xml_accelerator_xa35"
 }

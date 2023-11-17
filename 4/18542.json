@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18542",
-  "pname": "HP LaserJet Enterprise color flow MFP M575c",
-  "pcpe": "cpe:/h:hp:laserjet_enterprise_color_flow_m575c"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18542",
+	"pname": "HP LaserJet Enterprise color flow MFP M575c",
+	"pcpe": "cpe:/h:hp:laserjet_enterprise_color_flow_m575c"
 }

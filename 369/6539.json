@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "6539",
-  "pname": "unicenter dsm r11 list control atx",
-  "pcpe": "cpe:/a:ca:unicenter_dsm_r11_list_control_atx"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "6539",
+	"pname": "unicenter dsm r11 list control atx",
+	"pcpe": "cpe:/a:ca:unicenter_dsm_r11_list_control_atx"
 }

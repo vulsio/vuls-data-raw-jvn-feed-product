@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63558",
-  "pname": "simatic s7-1200 cpu 12 1214fc ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_s7-1200_cpu_12_1214fc_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63558",
+	"pname": "simatic s7-1200 cpu 12 1214fc ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_s7-1200_cpu_12_1214fc_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18491",
-  "vname": "Duo",
-  "vcpe": "cpe:/:duo",
-  "pid": "50148",
-  "pname": "Authentication Proxy",
-  "pcpe": "cpe:/a:duo:authentication_proxy"
+	"vid": "18491",
+	"vname": "Duo",
+	"vcpe": "cpe:/:duo",
+	"pid": "50148",
+	"pname": "Authentication Proxy",
+	"pcpe": "cpe:/a:duo:authentication_proxy"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16399",
-  "vname": "Dollar Shave Club",
-  "vcpe": "cpe:/:dollarshaveclub",
-  "pid": "38827",
-  "pname": "Shave",
-  "pcpe": "cpe:/a:dollarshaveclub:shave"
+	"vid": "16399",
+	"vname": "Dollar Shave Club",
+	"vcpe": "cpe:/:dollarshaveclub",
+	"pid": "38827",
+	"pname": "Shave",
+	"pcpe": "cpe:/a:dollarshaveclub:shave"
 }

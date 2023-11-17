@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "41628",
-  "pname": "Emily-AL00B ファームウェア",
-  "pcpe": "cpe:/o:huawei:elle-al00b_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "41628",
+	"pname": "Emily-AL00B ファームウェア",
+	"pcpe": "cpe:/o:huawei:elle-al00b_firmware"
 }

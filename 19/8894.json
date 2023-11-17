@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "8894",
-  "pname": "network access control",
-  "pcpe": "cpe:/o:cisco:network_access_control"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "8894",
+	"pname": "network access control",
+	"pcpe": "cpe:/o:cisco:network_access_control"
 }

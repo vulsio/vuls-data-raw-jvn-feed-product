@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "56035",
-  "pname": "OpenShift OSIN",
-  "pcpe": "cpe:/a:redhat:openshift_osin"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "56035",
+	"pname": "OpenShift OSIN",
+	"pcpe": "cpe:/a:redhat:openshift_osin"
 }

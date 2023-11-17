@@ -1,8 +1,8 @@
 {
-  "vid": "762",
-  "vname": "pureftpd",
-  "vcpe": "cpe:/:pureftpd",
-  "pid": "3067",
-  "pname": "Pure-FTPd",
-  "pcpe": "cpe:/a:pureftpd:pure-ftpd"
+	"vid": "762",
+	"vname": "pureftpd",
+	"vcpe": "cpe:/:pureftpd",
+	"pid": "3067",
+	"pname": "Pure-FTPd",
+	"pcpe": "cpe:/a:pureftpd:pure-ftpd"
 }

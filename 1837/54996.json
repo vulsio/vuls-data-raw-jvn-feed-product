@@ -1,8 +1,8 @@
 {
-  "vid": "1837",
-  "vname": "Quest Software Inc.",
-  "vcpe": "cpe:/:quest",
-  "pid": "54996",
-  "pname": "KACE Desktop Authority",
-  "pcpe": "cpe:/a:quest:kace_desktop_authority"
+	"vid": "1837",
+	"vname": "Quest Software Inc.",
+	"vcpe": "cpe:/:quest",
+	"pid": "54996",
+	"pname": "KACE Desktop Authority",
+	"pcpe": "cpe:/a:quest:kace_desktop_authority"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "49934",
-  "pname": "C-Bus Toolkit",
-  "pcpe": "cpe:/a:schneider-electric:c-bus_toolkit"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "49934",
+	"pname": "C-Bus Toolkit",
+	"pcpe": "cpe:/a:schneider-electric:c-bus_toolkit"
 }

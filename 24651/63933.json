@@ -1,8 +1,8 @@
 {
-  "vid": "24651",
-  "vname": "redpanda",
-  "vcpe": "cpe:/:redpanda",
-  "pid": "63933",
-  "pname": "redpanda",
-  "pcpe": "cpe:/a:redpanda:redpanda"
+	"vid": "24651",
+	"vname": "redpanda",
+	"vcpe": "cpe:/:redpanda",
+	"pid": "63933",
+	"pname": "redpanda",
+	"pcpe": "cpe:/a:redpanda:redpanda"
 }

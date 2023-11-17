@@ -1,8 +1,8 @@
 {
-  "vid": "6957",
-  "vname": "PhpWiki",
-  "vcpe": "cpe:/:phpwiki_project",
-  "pid": "13844",
-  "pname": "PhpWiki",
-  "pcpe": "cpe:/a:phpwiki_project:phpwiki"
+	"vid": "6957",
+	"vname": "PhpWiki",
+	"vcpe": "cpe:/:phpwiki_project",
+	"pid": "13844",
+	"pname": "PhpWiki",
+	"pcpe": "cpe:/a:phpwiki_project:phpwiki"
 }

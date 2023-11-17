@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "60848",
-  "pname": "pra-es8p2s ファームウェア",
-  "pcpe": "cpe:/o:bosch:pra-es8p2s_firmware"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "60848",
+	"pname": "pra-es8p2s ファームウェア",
+	"pcpe": "cpe:/o:bosch:pra-es8p2s_firmware"
 }

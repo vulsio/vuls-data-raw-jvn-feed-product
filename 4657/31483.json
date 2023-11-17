@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31483",
-  "pname": "Maya-L02 ファームウェア",
-  "pcpe": "cpe:/o:huawei:maya-l02_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31483",
+	"pname": "Maya-L02 ファームウェア",
+	"pcpe": "cpe:/o:huawei:maya-l02_firmware"
 }

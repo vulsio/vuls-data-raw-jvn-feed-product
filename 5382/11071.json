@@ -1,8 +1,8 @@
 {
-  "vid": "5382",
-  "vname": "L-Soft",
-  "vcpe": "cpe:/:lsoft",
-  "pid": "11071",
-  "pname": "LISTSERV",
-  "pcpe": "cpe:/a:lsoft:listserv"
+	"vid": "5382",
+	"vname": "L-Soft",
+	"vcpe": "cpe:/:lsoft",
+	"pid": "11071",
+	"pname": "LISTSERV",
+	"pcpe": "cpe:/a:lsoft:listserv"
 }

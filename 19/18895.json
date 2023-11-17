@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18895",
-  "pname": "Cisco Scientific Atlanta DPC2420 Wireless Residential Gateway with Embedded Digital Voice Adapter",
-  "pcpe": "cpe:/h:cisco:scientific_atlanta_dpc2420"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18895",
+	"pname": "Cisco Scientific Atlanta DPC2420 Wireless Residential Gateway with Embedded Digital Voice Adapter",
+	"pcpe": "cpe:/h:cisco:scientific_atlanta_dpc2420"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "43906",
-  "pname": "HP ENVY 5000 All-in-One Printer M2U91A ファームウェア",
-  "pcpe": "cpe:/o:hp:m2u91a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "43906",
+	"pname": "HP ENVY 5000 All-in-One Printer M2U91A ファームウェア",
+	"pcpe": "cpe:/o:hp:m2u91a_firmware"
 }

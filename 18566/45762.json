@@ -1,8 +1,8 @@
 {
-  "vid": "18566",
-  "vname": "AvertX",
-  "vcpe": "cpe:/:avertx",
-  "pid": "45762",
-  "pname": "HD838 ファームウェア",
-  "pcpe": "cpe:/o:avertx:hd838_firmware"
+	"vid": "18566",
+	"vname": "AvertX",
+	"vcpe": "cpe:/:avertx",
+	"pid": "45762",
+	"pname": "HD838 ファームウェア",
+	"pcpe": "cpe:/o:avertx:hd838_firmware"
 }

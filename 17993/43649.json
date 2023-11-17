@@ -1,8 +1,8 @@
 {
-  "vid": "17993",
-  "vname": "netkit telnet project",
-  "vcpe": "cpe:/:netkit_telnet_project",
-  "pid": "43649",
-  "pname": "netkit telnet",
-  "pcpe": "cpe:/a:netkit_telnet_project:netkit_telnet"
+	"vid": "17993",
+	"vname": "netkit telnet project",
+	"vcpe": "cpe:/:netkit_telnet_project",
+	"pid": "43649",
+	"pname": "netkit telnet",
+	"pcpe": "cpe:/a:netkit_telnet_project:netkit_telnet"
 }

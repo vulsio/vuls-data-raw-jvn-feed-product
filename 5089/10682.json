@@ -1,8 +1,8 @@
 {
-  "vid": "5089",
-  "vname": "jtl-software",
-  "vcpe": "cpe:/:jtl-software",
-  "pid": "10682",
-  "pname": "jtl-shop",
-  "pcpe": "cpe:/a:jtl-software:jtl-shop"
+	"vid": "5089",
+	"vname": "jtl-software",
+	"vcpe": "cpe:/:jtl-software",
+	"pid": "10682",
+	"pname": "jtl-shop",
+	"pcpe": "cpe:/a:jtl-software:jtl-shop"
 }

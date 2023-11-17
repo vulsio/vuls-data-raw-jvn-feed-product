@@ -1,8 +1,8 @@
 {
-  "vid": "19534",
-  "vname": "Flask-Security-Too project",
-  "vcpe": "cpe:/:flask-security-too_project",
-  "pid": "49209",
-  "pname": "Flask-Security-Too",
-  "pcpe": "cpe:/a:flask-security-too_project:flask-security-too"
+	"vid": "19534",
+	"vname": "Flask-Security-Too project",
+	"vcpe": "cpe:/:flask-security-too_project",
+	"pid": "49209",
+	"pname": "Flask-Security-Too",
+	"pcpe": "cpe:/a:flask-security-too_project:flask-security-too"
 }

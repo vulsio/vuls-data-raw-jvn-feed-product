@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "16599",
-  "pname": "dvr shr2040",
-  "pcpe": "cpe:/h:samsung:dvr_shr2040"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "16599",
+	"pname": "dvr shr2040",
+	"pcpe": "cpe:/h:samsung:dvr_shr2040"
 }

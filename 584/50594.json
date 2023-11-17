@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "50594",
-  "pname": "SIMATIC HMI Comfort Outdoor Panels 15\" ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_hmi_comfort_outdoor_panels_15%22_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "50594",
+	"pname": "SIMATIC HMI Comfort Outdoor Panels 15\" ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_hmi_comfort_outdoor_panels_15%22_firmware"
 }

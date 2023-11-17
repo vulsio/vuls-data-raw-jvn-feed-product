@@ -1,8 +1,8 @@
 {
-  "vid": "24105",
-  "vname": "asyncua project",
-  "vcpe": "cpe:/:asyncua_project",
-  "pid": "62342",
-  "pname": "asyncua",
-  "pcpe": "cpe:/a:asyncua_project:asyncua"
+	"vid": "24105",
+	"vname": "asyncua project",
+	"vcpe": "cpe:/:asyncua_project",
+	"pid": "62342",
+	"pname": "asyncua",
+	"pcpe": "cpe:/a:asyncua_project:asyncua"
 }

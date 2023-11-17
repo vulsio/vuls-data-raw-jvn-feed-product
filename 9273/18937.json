@@ -1,8 +1,8 @@
 {
-  "vid": "9273",
-  "vname": "SonarSource S.A",
-  "vcpe": "cpe:/:sonarsource",
-  "pid": "18937",
-  "pname": "Jenkins Plugin",
-  "pcpe": "cpe:/a:sonarsource:jenkins_plugin"
+	"vid": "9273",
+	"vname": "SonarSource S.A",
+	"vcpe": "cpe:/:sonarsource",
+	"pid": "18937",
+	"pname": "Jenkins Plugin",
+	"pcpe": "cpe:/a:sonarsource:jenkins_plugin"
 }

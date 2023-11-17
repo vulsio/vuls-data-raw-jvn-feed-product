@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "52434",
-  "pname": "ZXV10 M910 ファームウェア",
-  "pcpe": "cpe:/o:zte:zxv10_m910_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "52434",
+	"pname": "ZXV10 M910 ファームウェア",
+	"pcpe": "cpe:/o:zte:zxv10_m910_firmware"
 }

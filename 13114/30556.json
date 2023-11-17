@@ -1,8 +1,8 @@
 {
-  "vid": "13114",
-  "vname": "Blackwave",
-  "vcpe": "cpe:/:blackwave",
-  "pid": "30556",
-  "pname": "Dive Assistant",
-  "pcpe": "cpe:/a:blackwave:dive_assistant"
+	"vid": "13114",
+	"vname": "Blackwave",
+	"vcpe": "cpe:/:blackwave",
+	"pid": "30556",
+	"pname": "Dive Assistant",
+	"pcpe": "cpe:/a:blackwave:dive_assistant"
 }

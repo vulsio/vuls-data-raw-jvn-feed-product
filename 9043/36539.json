@@ -1,8 +1,8 @@
 {
-  "vid": "9043",
-  "vname": "Western Digital Corporation",
-  "vcpe": "cpe:/:wdc",
-  "pid": "36539",
-  "pname": "My Cloud WDBCTL0020HWT ファームウェア",
-  "pcpe": "cpe:/o:wdc:my_cloud_wdbctl0020hwt_firmware"
+	"vid": "9043",
+	"vname": "Western Digital Corporation",
+	"vcpe": "cpe:/:wdc",
+	"pid": "36539",
+	"pname": "My Cloud WDBCTL0020HWT ファームウェア",
+	"pcpe": "cpe:/o:wdc:my_cloud_wdbctl0020hwt_firmware"
 }

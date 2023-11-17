@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "19447",
-  "pname": "GoToMeeting",
-  "pcpe": "cpe:/a:citrix:gotomeeting"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "19447",
+	"pname": "GoToMeeting",
+	"pcpe": "cpe:/a:citrix:gotomeeting"
 }

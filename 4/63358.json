@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63358",
-  "pname": "HP DeskJet Ink Advantage 5076 All-in-One Printer M2U87A ファームウェア",
-  "pcpe": "cpe:/o:hp:m2u87a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63358",
+	"pname": "HP DeskJet Ink Advantage 5076 All-in-One Printer M2U87A ファームウェア",
+	"pcpe": "cpe:/o:hp:m2u87a_firmware"
 }

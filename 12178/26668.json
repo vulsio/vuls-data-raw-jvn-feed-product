@@ -1,8 +1,8 @@
 {
-  "vid": "12178",
-  "vname": "株式会社セキュアブレイン",
-  "vcpe": "cpe:/:securebrain",
-  "pid": "26668",
-  "pname": "PhishWall クライアント",
-  "pcpe": "cpe:/a:securebrain:phishwall_client"
+	"vid": "12178",
+	"vname": "株式会社セキュアブレイン",
+	"vcpe": "cpe:/:securebrain",
+	"pid": "26668",
+	"pname": "PhishWall クライアント",
+	"pcpe": "cpe:/a:securebrain:phishwall_client"
 }

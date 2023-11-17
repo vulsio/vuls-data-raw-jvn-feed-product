@@ -1,8 +1,8 @@
 {
-  "vid": "9278",
-  "vname": "Eaton",
-  "vcpe": "cpe:/:eaton",
-  "pid": "58675",
-  "pname": "intelligent power manager infrastructure",
-  "pcpe": "cpe:/a:eaton:intelligent_power_manager_infrastructure"
+	"vid": "9278",
+	"vname": "Eaton",
+	"vcpe": "cpe:/:eaton",
+	"pid": "58675",
+	"pname": "intelligent power manager infrastructure",
+	"pcpe": "cpe:/a:eaton:intelligent_power_manager_infrastructure"
 }

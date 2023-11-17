@@ -1,8 +1,8 @@
 {
-  "vid": "11336",
-  "vname": "labmsf",
-  "vcpe": "cpe:/:labmsf",
-  "pid": "23037",
-  "pname": "labmsf antivirus beta",
-  "pcpe": "cpe:/a:labmsf:labmsf_antivirus_beta"
+	"vid": "11336",
+	"vname": "labmsf",
+	"vcpe": "cpe:/:labmsf",
+	"pid": "23037",
+	"pname": "labmsf antivirus beta",
+	"pcpe": "cpe:/a:labmsf:labmsf_antivirus_beta"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "5874",
-  "pname": "quartz composer",
-  "pcpe": "cpe:/a:apple:quartz_composer"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "5874",
+	"pname": "quartz composer",
+	"pcpe": "cpe:/a:apple:quartz_composer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "25266",
-  "pname": "PMG5318-B20A ファームウェア",
-  "pcpe": "cpe:/o:zyxel:pmg5318-b20a_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "25266",
+	"pname": "PMG5318-B20A ファームウェア",
+	"pcpe": "cpe:/o:zyxel:pmg5318-b20a_firmware"
 }

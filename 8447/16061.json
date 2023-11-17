@@ -1,8 +1,8 @@
 {
-  "vid": "8447",
-  "vname": "webevents",
-  "vcpe": "cpe:/:webevents",
-  "pid": "16061",
-  "pname": "online event registration",
-  "pcpe": "cpe:/a:webevents:online_event_registration"
+	"vid": "8447",
+	"vname": "webevents",
+	"vcpe": "cpe:/:webevents",
+	"pid": "16061",
+	"pname": "online event registration",
+	"pcpe": "cpe:/a:webevents:online_event_registration"
 }

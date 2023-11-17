@@ -1,8 +1,8 @@
 {
-  "vid": "6448",
-  "vname": "INCA Internet Corporation",
-  "vcpe": "cpe:/:inca",
-  "pid": "12842",
-  "pname": "im-204 adsl router",
-  "pcpe": "cpe:/h:inca:im-204_adsl_router"
+	"vid": "6448",
+	"vname": "INCA Internet Corporation",
+	"vcpe": "cpe:/:inca",
+	"pid": "12842",
+	"pname": "im-204 adsl router",
+	"pcpe": "cpe:/h:inca:im-204_adsl_router"
 }

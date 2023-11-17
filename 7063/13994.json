@@ -1,8 +1,8 @@
 {
-  "vid": "7063",
-  "vname": "ppc search engine",
-  "vcpe": "cpe:/:ppc_search_engine",
-  "pid": "13994",
-  "pname": "ppc search engine",
-  "pcpe": "cpe:/a:ppc_search_engine:ppc_search_engine"
+	"vid": "7063",
+	"vname": "ppc search engine",
+	"vcpe": "cpe:/:ppc_search_engine",
+	"pid": "13994",
+	"pname": "ppc search engine",
+	"pcpe": "cpe:/a:ppc_search_engine:ppc_search_engine"
 }

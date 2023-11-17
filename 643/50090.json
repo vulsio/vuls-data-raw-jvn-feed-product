@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "50090",
-  "pname": "Dell Peripheral Manager",
-  "pcpe": "cpe:/a:dell:peripheral_manager"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "50090",
+	"pname": "Dell Peripheral Manager",
+	"pcpe": "cpe:/a:dell:peripheral_manager"
 }

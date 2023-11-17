@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38473",
-  "pname": "Azure AD",
-  "pcpe": "cpe:/a:jenkins:azure_ad"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38473",
+	"pname": "Azure AD",
+	"pcpe": "cpe:/a:jenkins:azure_ad"
 }

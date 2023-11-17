@@ -1,8 +1,8 @@
 {
-  "vid": "13632",
-  "vname": "富士ソフト株式会社",
-  "vcpe": "cpe:/:fsi",
-  "pid": "54081",
-  "pname": "+F FS040W",
-  "pcpe": "cpe:/o:fsi:%2bf_fs040w"
+	"vid": "13632",
+	"vname": "富士ソフト株式会社",
+	"vcpe": "cpe:/:fsi",
+	"pid": "54081",
+	"pname": "+F FS040W",
+	"pcpe": "cpe:/o:fsi:%2bf_fs040w"
 }

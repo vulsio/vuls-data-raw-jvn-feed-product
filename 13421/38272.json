@@ -1,8 +1,8 @@
 {
-  "vid": "13421",
-  "vname": "Auth0 Inc.",
-  "vcpe": "cpe:/:auth0",
-  "pid": "38272",
-  "pname": "Auth0-WCF-Service-JWT",
-  "pcpe": "cpe:/a:auth0:auth0-wcf-service-jwt"
+	"vid": "13421",
+	"vname": "Auth0 Inc.",
+	"vcpe": "cpe:/:auth0",
+	"pid": "38272",
+	"pname": "Auth0-WCF-Service-JWT",
+	"pcpe": "cpe:/a:auth0:auth0-wcf-service-jwt"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "53031",
-  "pname": "Aruba AOS-CX ファームウェア",
-  "pcpe": "cpe:/o:arubanetworks:aos-cx_firmware"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "53031",
+	"pname": "Aruba AOS-CX ファームウェア",
+	"pcpe": "cpe:/o:arubanetworks:aos-cx_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16641",
-  "vname": "Invenio",
-  "vcpe": "cpe:/:inveniosoftware",
-  "pid": "39683",
-  "pname": "Invenio-Records",
-  "pcpe": "cpe:/a:inveniosoftware:invenio-records"
+	"vid": "16641",
+	"vname": "Invenio",
+	"vcpe": "cpe:/:inveniosoftware",
+	"pid": "39683",
+	"pname": "Invenio-Records",
+	"pcpe": "cpe:/a:inveniosoftware:invenio-records"
 }

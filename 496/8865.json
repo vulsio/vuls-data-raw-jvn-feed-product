@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "8865",
-  "pname": "firepass 4100",
-  "pcpe": "cpe:/h:f5:firepass_4100"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "8865",
+	"pname": "firepass 4100",
+	"pcpe": "cpe:/h:f5:firepass_4100"
 }

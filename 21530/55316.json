@@ -1,8 +1,8 @@
 {
-  "vid": "21530",
-  "vname": "アイオテック",
-  "vcpe": "cpe:/:aeotec",
-  "pid": "55316",
-  "pname": "Z-Stick Gen5 +",
-  "pcpe": "cpe:/o:aeotec:zw090-a"
+	"vid": "21530",
+	"vname": "アイオテック",
+	"vcpe": "cpe:/:aeotec",
+	"pid": "55316",
+	"pname": "Z-Stick Gen5 +",
+	"pcpe": "cpe:/o:aeotec:zw090-a"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27240",
-  "pname": "NPM",
-  "pcpe": "cpe:/a:ibm:network_path_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27240",
+	"pname": "NPM",
+	"pcpe": "cpe:/a:ibm:network_path_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21704",
-  "vname": "STEP Tools Inc.",
-  "vcpe": "cpe:/:misc",
-  "pid": "55808",
-  "pname": "STEPTools v18SP1 IFCMesh Library",
-  "pcpe": "cpe:/a:misc:step_tools_steptools_v18sp1_ifcmesh_library"
+	"vid": "21704",
+	"vname": "STEP Tools Inc.",
+	"vcpe": "cpe:/:misc",
+	"pid": "55808",
+	"pname": "STEPTools v18SP1 IFCMesh Library",
+	"pcpe": "cpe:/a:misc:step_tools_steptools_v18sp1_ifcmesh_library"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16070",
-  "vname": "Forcepoint LLC.",
-  "vcpe": "cpe:/:forcepoint",
-  "pid": "40259",
-  "pname": "Next Generation Firewall (NGFW)",
-  "pcpe": "cpe:/a:forcepoint:next_generation_firewall"
+	"vid": "16070",
+	"vname": "Forcepoint LLC.",
+	"vcpe": "cpe:/:forcepoint",
+	"pid": "40259",
+	"pname": "Next Generation Firewall (NGFW)",
+	"pcpe": "cpe:/a:forcepoint:next_generation_firewall"
 }

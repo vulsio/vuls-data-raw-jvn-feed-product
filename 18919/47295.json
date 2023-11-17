@@ -1,8 +1,8 @@
 {
-  "vid": "18919",
-  "vname": "json-ptr project",
-  "vcpe": "cpe:/:json-ptr_project",
-  "pid": "47295",
-  "pname": "json-ptr",
-  "pcpe": "cpe:/a:json-ptr_project:json-ptr"
+	"vid": "18919",
+	"vname": "json-ptr project",
+	"vcpe": "cpe:/:json-ptr_project",
+	"pid": "47295",
+	"pname": "json-ptr",
+	"pcpe": "cpe:/a:json-ptr_project:json-ptr"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63591",
-  "pname": "desigo pxc128-u ファームウェア",
-  "pcpe": "cpe:/o:siemens:desigo_pxc128-u_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63591",
+	"pname": "desigo pxc128-u ファームウェア",
+	"pcpe": "cpe:/o:siemens:desigo_pxc128-u_firmware"
 }

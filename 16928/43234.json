@@ -1,8 +1,8 @@
 {
-  "vid": "16928",
-  "vname": "Texas Instruments Incorporated (TI)",
-  "vcpe": "cpe:/:ti",
-  "pid": "43234",
-  "pname": "SIMPLELINK-CC2640R2-SDK",
-  "pcpe": "cpe:/a:ti:cc2640r2_software_development_kit"
+	"vid": "16928",
+	"vname": "Texas Instruments Incorporated (TI)",
+	"vcpe": "cpe:/:ti",
+	"pid": "43234",
+	"pname": "SIMPLELINK-CC2640R2-SDK",
+	"pcpe": "cpe:/a:ti:cc2640r2_software_development_kit"
 }

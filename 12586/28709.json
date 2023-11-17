@@ -1,8 +1,8 @@
 {
-  "vid": "12586",
-  "vname": "Airtame Inc.",
-  "vcpe": "cpe:/:airtame",
-  "pid": "28709",
-  "pname": "HDMI ドングル ファームウェア",
-  "pcpe": "cpe:/o:airtame:hdmi_dongle_firmware"
+	"vid": "12586",
+	"vname": "Airtame Inc.",
+	"vcpe": "cpe:/:airtame",
+	"pid": "28709",
+	"pname": "HDMI ドングル ファームウェア",
+	"pcpe": "cpe:/o:airtame:hdmi_dongle_firmware"
 }

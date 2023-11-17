@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "47398",
-  "pname": "BB-ESWGP506-2SFP-T ファームウェア",
-  "pcpe": "cpe:/o:advantech:bb-eswgp506-2sfp-t_firmware"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "47398",
+	"pname": "BB-ESWGP506-2SFP-T ファームウェア",
+	"pcpe": "cpe:/o:advantech:bb-eswgp506-2sfp-t_firmware"
 }

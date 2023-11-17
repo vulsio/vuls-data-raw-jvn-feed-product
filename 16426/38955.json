@@ -1,8 +1,8 @@
 {
-  "vid": "16426",
-  "vname": "Istio",
-  "vcpe": "cpe:/:istio",
-  "pid": "38955",
-  "pname": "Istio",
-  "pcpe": "cpe:/a:istio:istio"
+	"vid": "16426",
+	"vname": "Istio",
+	"vcpe": "cpe:/:istio",
+	"pid": "38955",
+	"pname": "Istio",
+	"pcpe": "cpe:/a:istio:istio"
 }

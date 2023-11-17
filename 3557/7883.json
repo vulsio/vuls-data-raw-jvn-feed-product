@@ -1,8 +1,8 @@
 {
-  "vid": "3557",
-  "vname": "ETERNA",
-  "vcpe": "cpe:/:eterna",
-  "pid": "7883",
-  "pname": "bozohttpd",
-  "pcpe": "cpe:/a:eterna:bozohttpd"
+	"vid": "3557",
+	"vname": "ETERNA",
+	"vcpe": "cpe:/:eterna",
+	"pid": "7883",
+	"pname": "bozohttpd",
+	"pcpe": "cpe:/a:eterna:bozohttpd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20158",
-  "vname": "Protectimus Ltd",
-  "vcpe": "cpe:/:protectimus",
-  "pid": "51205",
-  "pname": "Protectimus SLIM NFC70 ファームウェア",
-  "pcpe": "cpe:/o:protectimus:slim_nfc_70_firmware"
+	"vid": "20158",
+	"vname": "Protectimus Ltd",
+	"vcpe": "cpe:/:protectimus",
+	"pid": "51205",
+	"pname": "Protectimus SLIM NFC70 ファームウェア",
+	"pcpe": "cpe:/o:protectimus:slim_nfc_70_firmware"
 }

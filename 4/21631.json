@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "21631",
-  "pname": "HP Helion Cloud Development Platform",
-  "pcpe": "cpe:/a:hp:helion_cloud_development_platform"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "21631",
+	"pname": "HP Helion Cloud Development Platform",
+	"pcpe": "cpe:/a:hp:helion_cloud_development_platform"
 }

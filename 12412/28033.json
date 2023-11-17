@@ -1,8 +1,8 @@
 {
-  "vid": "12412",
-  "vname": "OpenNTPD",
-  "vcpe": "cpe:/:openntpd",
-  "pid": "28033",
-  "pname": "OpenNTPD",
-  "pcpe": "cpe:/a:openntpd:openntpd"
+	"vid": "12412",
+	"vname": "OpenNTPD",
+	"vcpe": "cpe:/:openntpd",
+	"pid": "28033",
+	"pname": "OpenNTPD",
+	"pcpe": "cpe:/a:openntpd:openntpd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14881",
-  "vname": "LEF project",
-  "vcpe": "cpe:/:lef_project",
-  "pid": "34752",
-  "pname": "LEF",
-  "pcpe": "cpe:/a:lef_project:lef"
+	"vid": "14881",
+	"vname": "LEF project",
+	"vcpe": "cpe:/:lef_project",
+	"pid": "34752",
+	"pname": "LEF",
+	"pcpe": "cpe:/a:lef_project:lef"
 }

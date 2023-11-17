@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "25827",
-  "pname": "Cisco ASA 5500 シリーズ CSC-SSM ファームウェア",
-  "pcpe": "cpe:/h:cisco:asa_5500_csc-ssm_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "25827",
+	"pname": "Cisco ASA 5500 シリーズ CSC-SSM ファームウェア",
+	"pcpe": "cpe:/h:cisco:asa_5500_csc-ssm_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "16972",
-  "pname": "Cisco Aironet アクセス ポイント ソフトウェア",
-  "pcpe": "cpe:/a:cisco:aironet_access_point_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "16972",
+	"pname": "Cisco Aironet アクセス ポイント ソフトウェア",
+	"pcpe": "cpe:/a:cisco:aironet_access_point_software"
 }

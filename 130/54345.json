@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "54345",
-  "pname": "Intel NUC M15 ラップトップキット Management エンジンドライバパック",
-  "pcpe": "cpe:/o:intel:nuc_m15_laptop_kit_management_engine_driver_pack"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "54345",
+	"pname": "Intel NUC M15 ラップトップキット Management エンジンドライバパック",
+	"pcpe": "cpe:/o:intel:nuc_m15_laptop_kit_management_engine_driver_pack"
 }

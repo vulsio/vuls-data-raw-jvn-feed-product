@@ -1,8 +1,8 @@
 {
-  "vid": "19078",
-  "vname": "Webware",
-  "vcpe": "cpe:/:webware",
-  "pid": "47873",
-  "pname": "Webdesktop",
-  "pcpe": "cpe:/a:webware:webdesktop"
+	"vid": "19078",
+	"vname": "Webware",
+	"vcpe": "cpe:/:webware",
+	"pid": "47873",
+	"pname": "Webdesktop",
+	"pcpe": "cpe:/a:webware:webdesktop"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "32797",
-  "pname": "Knox Enterprise Mobility Management",
-  "pcpe": "cpe:/a:samsung:knox_enterprise_mobility_management"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "32797",
+	"pname": "Knox Enterprise Mobility Management",
+	"pcpe": "cpe:/a:samsung:knox_enterprise_mobility_management"
 }

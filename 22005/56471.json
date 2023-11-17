@@ -1,8 +1,8 @@
 {
-  "vid": "22005",
-  "vname": "PaginationServiceProvider project",
-  "vcpe": "cpe:/:paginationserviceprovider_project",
-  "pid": "56471",
-  "pname": "PaginationServiceProvider",
-  "pcpe": "cpe:/a:paginationserviceprovider_project:paginationserviceprovider"
+	"vid": "22005",
+	"vname": "PaginationServiceProvider project",
+	"vcpe": "cpe:/:paginationserviceprovider_project",
+	"pid": "56471",
+	"pname": "PaginationServiceProvider",
+	"pcpe": "cpe:/a:paginationserviceprovider_project:paginationserviceprovider"
 }

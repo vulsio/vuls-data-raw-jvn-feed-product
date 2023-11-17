@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "4009",
-  "pname": "WebWare SDK",
-  "pcpe": "cpe:/a:abb:webware_sdk"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "4009",
+	"pname": "WebWare SDK",
+	"pcpe": "cpe:/a:abb:webware_sdk"
 }

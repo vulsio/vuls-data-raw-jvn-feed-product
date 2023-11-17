@@ -1,8 +1,8 @@
 {
-  "vid": "12037",
-  "vname": "IDERA, Inc.",
-  "vcpe": "cpe:/:idera",
-  "pid": "25261",
-  "pname": "Uptime Infrastructure Monitor",
-  "pcpe": "cpe:/a:idera:uptime_infrastructure_monitor"
+	"vid": "12037",
+	"vname": "IDERA, Inc.",
+	"vcpe": "cpe:/:idera",
+	"pid": "25261",
+	"pname": "Uptime Infrastructure Monitor",
+	"pcpe": "cpe:/a:idera:uptime_infrastructure_monitor"
 }

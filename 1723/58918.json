@@ -1,8 +1,8 @@
 {
-  "vid": "1723",
-  "vname": "SonicWALL",
-  "vcpe": "cpe:/:sonicwall",
-  "pid": "58918",
-  "pname": "nssp 12400 ファームウェア",
-  "pcpe": "cpe:/o:sonicwall:nssp_12400_firmware"
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "58918",
+	"pname": "nssp 12400 ファームウェア",
+	"pcpe": "cpe:/o:sonicwall:nssp_12400_firmware"
 }

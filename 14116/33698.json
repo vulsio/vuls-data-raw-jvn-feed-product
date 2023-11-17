@@ -1,8 +1,8 @@
 {
-  "vid": "14116",
-  "vname": "TinyXML2 project",
-  "vcpe": "cpe:/:tinyxml2_project",
-  "pid": "33698",
-  "pname": "TinyXML2",
-  "pcpe": "cpe:/a:tinyxml2_project:tinyxml2"
+	"vid": "14116",
+	"vname": "TinyXML2 project",
+	"vcpe": "cpe:/:tinyxml2_project",
+	"pid": "33698",
+	"pname": "TinyXML2",
+	"pcpe": "cpe:/a:tinyxml2_project:tinyxml2"
 }

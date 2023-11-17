@@ -1,8 +1,8 @@
 {
-  "vid": "12357",
-  "vname": "libgit2",
-  "vcpe": "cpe:/:libgit2_project",
-  "pid": "27821",
-  "pname": "libgit2",
-  "pcpe": "cpe:/a:libgit2_project:libgit2"
+	"vid": "12357",
+	"vname": "libgit2",
+	"vcpe": "cpe:/:libgit2_project",
+	"pid": "27821",
+	"pname": "libgit2",
+	"pcpe": "cpe:/a:libgit2_project:libgit2"
 }

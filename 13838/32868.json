@@ -1,8 +1,8 @@
 {
-  "vid": "13838",
-  "vname": "KadNode project",
-  "vcpe": "cpe:/:kadnode_project",
-  "pid": "32868",
-  "pname": "KadNode",
-  "pcpe": "cpe:/a:kadnode_project:kadnode"
+	"vid": "13838",
+	"vname": "KadNode project",
+	"vcpe": "cpe:/:kadnode_project",
+	"pid": "32868",
+	"pname": "KadNode",
+	"pcpe": "cpe:/a:kadnode_project:kadnode"
 }

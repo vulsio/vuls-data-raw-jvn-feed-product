@@ -1,8 +1,8 @@
 {
-  "vid": "23045",
-  "vname": "ejointech",
-  "vcpe": "cpe:/:ejointech",
-  "pid": "59596",
-  "pname": "acom508 ファームウェア",
-  "pcpe": "cpe:/o:ejointech:acom508_firmware"
+	"vid": "23045",
+	"vname": "ejointech",
+	"vcpe": "cpe:/:ejointech",
+	"pid": "59596",
+	"pname": "acom508 ファームウェア",
+	"pcpe": "cpe:/o:ejointech:acom508_firmware"
 }

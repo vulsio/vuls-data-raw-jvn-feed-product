@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "49563",
-  "pname": "R16 PSFCPU ファームウェア",
-  "pcpe": "cpe:/o:mitsubishielectric:r16psfcpu_firmware"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "49563",
+	"pname": "R16 PSFCPU ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:r16psfcpu_firmware"
 }

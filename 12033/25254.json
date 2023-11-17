@@ -1,8 +1,8 @@
 {
-  "vid": "12033",
-  "vname": "Tails project",
-  "vcpe": "cpe:/:tails_project",
-  "pid": "25254",
-  "pname": "Tails",
-  "pcpe": "cpe:/o:tails_project:tails"
+	"vid": "12033",
+	"vname": "Tails project",
+	"vcpe": "cpe:/:tails_project",
+	"pid": "25254",
+	"pname": "Tails",
+	"pcpe": "cpe:/o:tails_project:tails"
 }

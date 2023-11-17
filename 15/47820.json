@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47820",
-  "pname": "Oracle Subledger Accounting",
-  "pcpe": "cpe:/a:oracle:subledger_accounting"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47820",
+	"pname": "Oracle Subledger Accounting",
+	"pcpe": "cpe:/a:oracle:subledger_accounting"
 }

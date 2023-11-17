@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "26459",
-  "pname": "Norton Product Family",
-  "pcpe": "cpe:/a:symantec:norton_product_family"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "26459",
+	"pname": "Norton Product Family",
+	"pcpe": "cpe:/a:symantec:norton_product_family"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "18260",
-  "pname": "X9DRi-LN4F+",
-  "pcpe": "cpe:/h:supermicro:x9dri-ln4f%2b"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "18260",
+	"pname": "X9DRi-LN4F+",
+	"pcpe": "cpe:/h:supermicro:x9dri-ln4f%2b"
 }

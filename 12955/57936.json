@@ -1,8 +1,8 @@
 {
-  "vid": "12955",
-  "vname": "Kubernetes",
-  "vcpe": "cpe:/:kubernetes",
-  "pid": "57936",
-  "pname": "continuous deploy",
-  "pcpe": "cpe:/a:kubernetes:continuous_deploy"
+	"vid": "12955",
+	"vname": "Kubernetes",
+	"vcpe": "cpe:/:kubernetes",
+	"pid": "57936",
+	"pname": "continuous deploy",
+	"pcpe": "cpe:/a:kubernetes:continuous_deploy"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1808",
-  "vname": "GitHub",
-  "vcpe": "cpe:/:github",
-  "pid": "57618",
-  "pname": "viewcomponent",
-  "pcpe": "cpe:/a:github:viewcomponent"
+	"vid": "1808",
+	"vname": "GitHub",
+	"vcpe": "cpe:/:github",
+	"pid": "57618",
+	"pname": "viewcomponent",
+	"pcpe": "cpe:/a:github:viewcomponent"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "20074",
-  "pname": "HP 8/20q FC スイッチ 16ポート アクティブモデル",
-  "pcpe": "cpe:/h:hp:8%2F20q_fibre_channel_switch_16_port"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "20074",
+	"pname": "HP 8/20q FC スイッチ 16ポート アクティブモデル",
+	"pcpe": "cpe:/h:hp:8%2F20q_fibre_channel_switch_16_port"
 }

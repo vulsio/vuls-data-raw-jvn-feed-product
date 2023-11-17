@@ -1,8 +1,8 @@
 {
-  "vid": "8873",
-  "vname": "Verizon",
-  "vcpe": "cpe:/:verizon",
-  "pid": "61429",
-  "pname": "lvskihp outdoorunit ファームウェア",
-  "pcpe": "cpe:/o:verizon:lvskihp_outdoorunit_firmware"
+	"vid": "8873",
+	"vname": "Verizon",
+	"vcpe": "cpe:/:verizon",
+	"pid": "61429",
+	"pname": "lvskihp outdoorunit ファームウェア",
+	"pcpe": "cpe:/o:verizon:lvskihp_outdoorunit_firmware"
 }

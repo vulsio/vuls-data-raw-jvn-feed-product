@@ -1,8 +1,8 @@
 {
-  "vid": "12256",
-  "vname": "heat-trackr project",
-  "vcpe": "cpe:/:heat-trackr_project",
-  "pid": "27063",
-  "pname": "heat-trackr",
-  "pcpe": "cpe:/a:heat-trackr_project:heat-trackr"
+	"vid": "12256",
+	"vname": "heat-trackr project",
+	"vcpe": "cpe:/:heat-trackr_project",
+	"pid": "27063",
+	"pname": "heat-trackr",
+	"pcpe": "cpe:/a:heat-trackr_project:heat-trackr"
 }

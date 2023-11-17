@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "59796",
-  "pname": "Aruba Instant On 1930 24G Class4 PoE 4SFP/SFP+ 195W ファームウェア",
-  "pcpe": "cpe:/o:hp:aruba_instant_on_1930_24g_class4_poe_4sfp%2fsfp%2b_195w_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "59796",
+	"pname": "Aruba Instant On 1930 24G Class4 PoE 4SFP/SFP+ 195W ファームウェア",
+	"pcpe": "cpe:/o:hp:aruba_instant_on_1930_24g_class4_poe_4sfp%2fsfp%2b_195w_firmware"
 }

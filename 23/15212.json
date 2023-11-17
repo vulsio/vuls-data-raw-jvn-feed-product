@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15212",
-  "pname": "on-demand agent",
-  "pcpe": "cpe:/a:symantec:on-demand_agent"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15212",
+	"pname": "on-demand agent",
+	"pcpe": "cpe:/a:symantec:on-demand_agent"
 }

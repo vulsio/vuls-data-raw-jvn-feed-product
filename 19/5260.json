@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5260",
-  "pname": "Cisco SPA 514G 4-Line IP Phone",
-  "pcpe": "cpe:/h:cisco:spa_514g_4-line_ip_phone"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5260",
+	"pname": "Cisco SPA 514G 4-Line IP Phone",
+	"pcpe": "cpe:/h:cisco:spa_514g_4-line_ip_phone"
 }

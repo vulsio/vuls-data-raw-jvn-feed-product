@@ -1,8 +1,8 @@
 {
-  "vid": "1166",
-  "vname": "AdaCore",
-  "vcpe": "cpe:/:adacore",
-  "pid": "3838",
-  "pname": "Ada Web Services",
-  "pcpe": "cpe:/a:adacore:ada_web_services"
+	"vid": "1166",
+	"vname": "AdaCore",
+	"vcpe": "cpe:/:adacore",
+	"pid": "3838",
+	"pname": "Ada Web Services",
+	"pcpe": "cpe:/a:adacore:ada_web_services"
 }

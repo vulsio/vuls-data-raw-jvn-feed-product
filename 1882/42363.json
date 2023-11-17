@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "42363",
-  "pname": "ZXCLOUD GoldenData VAP",
-  "pcpe": "cpe:/a:zte:zxcloud_goldendata_vap"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "42363",
+	"pname": "ZXCLOUD GoldenData VAP",
+	"pcpe": "cpe:/a:zte:zxcloud_goldendata_vap"
 }

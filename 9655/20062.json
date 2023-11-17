@@ -1,8 +1,8 @@
 {
-  "vid": "9655",
-  "vname": "Bradesco Gateway Plugin project",
-  "vcpe": "cpe:/:bradesco_gateway_plugin_project",
-  "pid": "20062",
-  "pname": "Bradesco Gateway",
-  "pcpe": "cpe:/a:bradesco_gateway_plugin_project:bradesco_gateway"
+	"vid": "9655",
+	"vname": "Bradesco Gateway Plugin project",
+	"vcpe": "cpe:/:bradesco_gateway_plugin_project",
+	"pid": "20062",
+	"pname": "Bradesco Gateway",
+	"pcpe": "cpe:/a:bradesco_gateway_plugin_project:bradesco_gateway"
 }

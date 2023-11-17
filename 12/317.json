@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "317",
-  "pname": "Trend Micro Scan Engine",
-  "pcpe": "cpe:/a:trendmicro:scan_engine"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "317",
+	"pname": "Trend Micro Scan Engine",
+	"pcpe": "cpe:/a:trendmicro:scan_engine"
 }

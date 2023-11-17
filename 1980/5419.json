@@ -1,8 +1,8 @@
 {
-  "vid": "1980",
-  "vname": "AbiWord",
-  "vcpe": "cpe:/:abiword",
-  "pid": "5419",
-  "pname": "abiword link grammar",
-  "pcpe": "cpe:/a:abiword:abiword_link_grammar"
+	"vid": "1980",
+	"vname": "AbiWord",
+	"vcpe": "cpe:/:abiword",
+	"pid": "5419",
+	"pname": "abiword link grammar",
+	"pcpe": "cpe:/a:abiword:abiword_link_grammar"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1746",
-  "pname": "Archive",
-  "pcpe": "cpe:/a:drupal:archive_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1746",
+	"pname": "Archive",
+	"pcpe": "cpe:/a:drupal:archive_module"
 }

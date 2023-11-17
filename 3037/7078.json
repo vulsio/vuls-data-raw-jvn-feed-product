@@ -1,8 +1,8 @@
 {
-  "vid": "3037",
-  "vname": "cwm-design",
-  "vcpe": "cpe:/:cwm-design",
-  "pid": "7078",
-  "pname": "cwmcounter",
-  "pcpe": "cpe:/a:cwm-design:cwmcounter"
+	"vid": "3037",
+	"vname": "cwm-design",
+	"vcpe": "cpe:/:cwm-design",
+	"pid": "7078",
+	"pname": "cwmcounter",
+	"pcpe": "cpe:/a:cwm-design:cwmcounter"
 }

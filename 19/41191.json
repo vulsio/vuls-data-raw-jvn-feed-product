@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "41191",
-  "pname": "Cisco FirePOWER Appliance 7030 ファームウェア",
-  "pcpe": "cpe:/o:cisco:firepower_appliance_7030_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "41191",
+	"pname": "Cisco FirePOWER Appliance 7030 ファームウェア",
+	"pcpe": "cpe:/o:cisco:firepower_appliance_7030_firmware"
 }

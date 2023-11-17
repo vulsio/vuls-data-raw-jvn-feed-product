@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "46225",
-  "pname": "Hyperion Analytic Provider Services",
-  "pcpe": "cpe:/a:oracle:hyperion_analytic_provider_services"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "46225",
+	"pname": "Hyperion Analytic Provider Services",
+	"pcpe": "cpe:/a:oracle:hyperion_analytic_provider_services"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "45506",
-  "pname": "Sophos XG Firewall ファームウェア",
-  "pcpe": "cpe:/o:sophos:xg_firewall_firmware"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "45506",
+	"pname": "Sophos XG Firewall ファームウェア",
+	"pcpe": "cpe:/o:sophos:xg_firewall_firmware"
 }

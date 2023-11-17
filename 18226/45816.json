@@ -1,8 +1,8 @@
 {
-  "vid": "18226",
-  "vname": "B&R Industrial Automation",
-  "vcpe": "cpe:/:br-automation",
-  "pid": "45816",
-  "pname": "GateManager 4260",
-  "pcpe": "cpe:/a:br-automation:GateManager_4260"
+	"vid": "18226",
+	"vname": "B&R Industrial Automation",
+	"vcpe": "cpe:/:br-automation",
+	"pid": "45816",
+	"pname": "GateManager 4260",
+	"pcpe": "cpe:/a:br-automation:GateManager_4260"
 }

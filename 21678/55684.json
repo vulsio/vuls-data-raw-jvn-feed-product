@@ -1,8 +1,8 @@
 {
-  "vid": "21678",
-  "vname": "Sendinblue",
-  "vcpe": "cpe:/:sendinblue",
-  "pid": "55684",
-  "pname": "Newsletter, SMTP, Email marketing and Subscribe forms",
-  "pcpe": "cpe:/a:sendinblue:newsletter%2c_smtp%2c_email_marketing_and_subscribe"
+	"vid": "21678",
+	"vname": "Sendinblue",
+	"vcpe": "cpe:/:sendinblue",
+	"pid": "55684",
+	"pname": "Newsletter, SMTP, Email marketing and Subscribe forms",
+	"pcpe": "cpe:/a:sendinblue:newsletter%2c_smtp%2c_email_marketing_and_subscribe"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "26653",
-  "pname": "Dell KM632 USB ドングル",
-  "pcpe": "cpe:/h:dell:km632_dongle"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "26653",
+	"pname": "Dell KM632 USB ドングル",
+	"pcpe": "cpe:/h:dell:km632_dongle"
 }

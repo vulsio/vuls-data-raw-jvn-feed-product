@@ -1,8 +1,8 @@
 {
-  "vid": "16",
-  "vname": "チェック・ポイント・ソフトウェア・テクノロジーズ",
-  "vcpe": "cpe:/:checkpoint",
-  "pid": "53812",
-  "pname": "Harmony Browse",
-  "pcpe": "cpe:/a:checkpoint:harmony_browse"
+	"vid": "16",
+	"vname": "チェック・ポイント・ソフトウェア・テクノロジーズ",
+	"vcpe": "cpe:/:checkpoint",
+	"pid": "53812",
+	"pname": "Harmony Browse",
+	"pcpe": "cpe:/a:checkpoint:harmony_browse"
 }

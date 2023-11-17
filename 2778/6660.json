@@ -1,8 +1,8 @@
 {
-  "vid": "2778",
-  "vname": "chandler project",
-  "vcpe": "cpe:/:chandler_project",
-  "pid": "6660",
-  "pname": "chandler server",
-  "pcpe": "cpe:/a:chandler_project:chandler_server"
+	"vid": "2778",
+	"vname": "chandler project",
+	"vcpe": "cpe:/:chandler_project",
+	"pid": "6660",
+	"pname": "chandler server",
+	"pcpe": "cpe:/a:chandler_project:chandler_server"
 }

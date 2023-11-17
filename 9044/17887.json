@@ -1,8 +1,8 @@
 {
-  "vid": "9044",
-  "vname": "The Foreman",
-  "vcpe": "cpe:/:theforeman",
-  "pid": "17887",
-  "pname": "Foreman",
-  "pcpe": "cpe:/a:theforeman:foreman"
+	"vid": "9044",
+	"vname": "The Foreman",
+	"vcpe": "cpe:/:theforeman",
+	"pid": "17887",
+	"pname": "Foreman",
+	"pcpe": "cpe:/a:theforeman:foreman"
 }

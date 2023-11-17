@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "58584",
-  "pname": "sd-wan 410 ファームウェア",
-  "pcpe": "cpe:/o:citrix:sd-wan_410_firmware"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "58584",
+	"pname": "sd-wan 410 ファームウェア",
+	"pcpe": "cpe:/o:citrix:sd-wan_410_firmware"
 }

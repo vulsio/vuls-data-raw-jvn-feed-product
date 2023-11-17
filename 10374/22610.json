@@ -1,8 +1,8 @@
 {
-  "vid": "10374",
-  "vname": "core-apps",
-  "vcpe": "cpe:/:core-apps",
-  "pid": "22610",
-  "pname": "aihce 2014",
-  "pcpe": "cpe:/a:core-apps:aihce_2014"
+	"vid": "10374",
+	"vname": "core-apps",
+	"vcpe": "cpe:/:core-apps",
+	"pid": "22610",
+	"pname": "aihce 2014",
+	"pcpe": "cpe:/a:core-apps:aihce_2014"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "35524",
-  "pname": "Eclipse OpenJ9",
-  "pcpe": "cpe:/a:eclipse:openj9"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "35524",
+	"pname": "Eclipse OpenJ9",
+	"pcpe": "cpe:/a:eclipse:openj9"
 }

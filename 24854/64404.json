@@ -1,8 +1,8 @@
 {
-  "vid": "24854",
-  "vname": "tianjie",
-  "vcpe": "cpe:/:tianjie",
-  "pid": "64404",
-  "pname": "cpe906-3 ファームウェア",
-  "pcpe": "cpe:/o:tianjie:cpe906-3_firmware"
+	"vid": "24854",
+	"vname": "tianjie",
+	"vcpe": "cpe:/:tianjie",
+	"pid": "64404",
+	"pname": "cpe906-3 ファームウェア",
+	"pcpe": "cpe:/o:tianjie:cpe906-3_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11366",
-  "vname": "amcharts.com",
-  "vcpe": "cpe:/:amcharts",
-  "pid": "23142",
-  "pname": "amMap",
-  "pcpe": "cpe:/a:amcharts:ammap"
+	"vid": "11366",
+	"vname": "amcharts.com",
+	"vcpe": "cpe:/:amcharts",
+	"pid": "23142",
+	"pname": "amMap",
+	"pcpe": "cpe:/a:amcharts:ammap"
 }

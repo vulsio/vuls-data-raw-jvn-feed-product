@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "789",
-  "pname": "HP ProCurve Switch",
-  "pcpe": "cpe:/h:hp:procurve_switch"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "789",
+	"pname": "HP ProCurve Switch",
+	"pcpe": "cpe:/h:hp:procurve_switch"
 }

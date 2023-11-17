@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "50861",
-  "pname": "CLP-366 SS068A",
-  "pcpe": "cpe:/o:samsung:clp-366_ss068a"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "50861",
+	"pname": "CLP-366 SS068A",
+	"pcpe": "cpe:/o:samsung:clp-366_ss068a"
 }

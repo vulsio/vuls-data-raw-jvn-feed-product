@@ -1,8 +1,8 @@
 {
-  "vid": "1631",
-  "vname": "OpenAFS",
-  "vcpe": "cpe:/:openafs",
-  "pid": "4663",
-  "pname": "OpenAFS",
-  "pcpe": "cpe:/a:openafs:openafs"
+	"vid": "1631",
+	"vname": "OpenAFS",
+	"vcpe": "cpe:/:openafs",
+	"pid": "4663",
+	"pname": "OpenAFS",
+	"pcpe": "cpe:/a:openafs:openafs"
 }

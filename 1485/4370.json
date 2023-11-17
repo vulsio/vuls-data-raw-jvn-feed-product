@@ -1,8 +1,8 @@
 {
-  "vid": "1485",
-  "vname": "gatesoft",
-  "vcpe": "cpe:/:gatesoft",
-  "pid": "4370",
-  "pname": "docusafe",
-  "pcpe": "cpe:/a:gatesoft:docusafe"
+	"vid": "1485",
+	"vname": "gatesoft",
+	"vcpe": "cpe:/:gatesoft",
+	"pid": "4370",
+	"pname": "docusafe",
+	"pcpe": "cpe:/a:gatesoft:docusafe"
 }

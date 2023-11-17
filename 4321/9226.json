@@ -1,8 +1,8 @@
 {
-  "vid": "4321",
-  "vname": "Joobi",
-  "vcpe": "cpe:/:joobi",
-  "pid": "9226",
-  "pname": "jNews",
-  "pcpe": "cpe:/a:joobi:com_jnews"
+	"vid": "4321",
+	"vname": "Joobi",
+	"vcpe": "cpe:/:joobi",
+	"pid": "9226",
+	"pname": "jNews",
+	"pcpe": "cpe:/a:joobi:com_jnews"
 }

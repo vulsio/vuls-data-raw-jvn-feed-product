@@ -1,8 +1,8 @@
 {
-  "vid": "3721",
-  "vname": "flagbit",
-  "vcpe": "cpe:/:flagbit",
-  "pid": "8092",
-  "pname": "fb filebase",
-  "pcpe": "cpe:/a:flagbit:fb_filebase"
+	"vid": "3721",
+	"vname": "flagbit",
+	"vcpe": "cpe:/:flagbit",
+	"pid": "8092",
+	"pname": "fb filebase",
+	"pcpe": "cpe:/a:flagbit:fb_filebase"
 }

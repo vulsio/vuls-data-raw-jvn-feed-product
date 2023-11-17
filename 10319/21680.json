@@ -1,8 +1,8 @@
 {
-  "vid": "10319",
-  "vname": "Web Component Roles project",
-  "vcpe": "cpe:/:web_component_roles_project",
-  "pid": "21680",
-  "pname": "Webform Component Roles",
-  "pcpe": "cpe:/a:web_component_roles_project:web_component_roles"
+	"vid": "10319",
+	"vname": "Web Component Roles project",
+	"vcpe": "cpe:/:web_component_roles_project",
+	"pid": "21680",
+	"pname": "Webform Component Roles",
+	"pcpe": "cpe:/a:web_component_roles_project:web_component_roles"
 }

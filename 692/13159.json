@@ -1,8 +1,8 @@
 {
-  "vid": "692",
-  "vname": "OpenFabrics Alliance",
-  "vcpe": "cpe:/:openfabrics",
-  "pid": "13159",
-  "pname": "ibacm",
-  "pcpe": "cpe:/a:openfabrics:ibacm"
+	"vid": "692",
+	"vname": "OpenFabrics Alliance",
+	"vcpe": "cpe:/:openfabrics",
+	"pid": "13159",
+	"pname": "ibacm",
+	"pcpe": "cpe:/a:openfabrics:ibacm"
 }

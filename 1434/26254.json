@@ -1,8 +1,8 @@
 {
-  "vid": "1434",
-  "vname": "Doctrine Project",
-  "vcpe": "cpe:/:doctrine-project",
-  "pid": "26254",
-  "pname": "MongoDB ODM Bundle",
-  "pcpe": "cpe:/a:doctrine-project:doctrinemongodbbundle"
+	"vid": "1434",
+	"vname": "Doctrine Project",
+	"vcpe": "cpe:/:doctrine-project",
+	"pid": "26254",
+	"pname": "MongoDB ODM Bundle",
+	"pcpe": "cpe:/a:doctrine-project:doctrinemongodbbundle"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "140",
-  "vname": "CGI RESCUE",
-  "vcpe": "cpe:/:cgi_rescue",
-  "pid": "455",
-  "pname": "mail f/w system",
-  "pcpe": "cpe:/a:cgi_rescue:mail_f_w_system"
+	"vid": "140",
+	"vname": "CGI RESCUE",
+	"vcpe": "cpe:/:cgi_rescue",
+	"pid": "455",
+	"pname": "mail f/w system",
+	"pcpe": "cpe:/a:cgi_rescue:mail_f_w_system"
 }

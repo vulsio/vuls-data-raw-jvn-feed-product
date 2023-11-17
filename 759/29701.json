@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "29701",
-  "pname": "SR 750 Feeder Protection Relay ファームウェア",
-  "pcpe": "cpe:/o:ge:multilin_sr_750_feeder_protection_relay_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "29701",
+	"pname": "SR 750 Feeder Protection Relay ファームウェア",
+	"pcpe": "cpe:/o:ge:multilin_sr_750_feeder_protection_relay_firmware"
 }

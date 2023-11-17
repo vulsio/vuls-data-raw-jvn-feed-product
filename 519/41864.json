@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "41864",
-  "pname": "Avaya CS1000M ファームウェア",
-  "pcpe": "cpe:/o:avaya:cs1000m_firmware"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "41864",
+	"pname": "Avaya CS1000M ファームウェア",
+	"pcpe": "cpe:/o:avaya:cs1000m_firmware"
 }

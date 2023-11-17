@@ -1,8 +1,8 @@
 {
-  "vid": "4194",
-  "vname": "Grandstream Networks",
-  "vcpe": "cpe:/:grandstream",
-  "pid": "24427",
-  "pname": "GXV3611_HD",
-  "pcpe": "cpe:/h:grandstream:gxv3611_hd"
+	"vid": "4194",
+	"vname": "Grandstream Networks",
+	"vcpe": "cpe:/:grandstream",
+	"pid": "24427",
+	"pname": "GXV3611_HD",
+	"pcpe": "cpe:/h:grandstream:gxv3611_hd"
 }

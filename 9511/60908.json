@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "60908",
-  "pname": "ds-a71024 ファームウェア",
-  "pcpe": "cpe:/o:hikvision:ds-a71024_firmware"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "60908",
+	"pname": "ds-a71024 ファームウェア",
+	"pcpe": "cpe:/o:hikvision:ds-a71024_firmware"
 }

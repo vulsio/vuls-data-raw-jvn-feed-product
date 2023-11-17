@@ -1,8 +1,8 @@
 {
-  "vid": "2534",
-  "vname": "bitego",
-  "vcpe": "cpe:/:bitego",
-  "pid": "6287",
-  "pname": "bosdatagrid",
-  "pcpe": "cpe:/a:bitego:bosdatagrid"
+	"vid": "2534",
+	"vname": "bitego",
+	"vcpe": "cpe:/:bitego",
+	"pid": "6287",
+	"pname": "bosdatagrid",
+	"pcpe": "cpe:/a:bitego:bosdatagrid"
 }

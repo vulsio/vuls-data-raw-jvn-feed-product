@@ -1,8 +1,8 @@
 {
-  "vid": "18861",
-  "vname": "Bender",
-  "vcpe": "cpe:/:bender",
-  "pid": "59071",
-  "pname": "icc16xx ファームウェア",
-  "pcpe": "cpe:/o:bender:icc16xx_firmware"
+	"vid": "18861",
+	"vname": "Bender",
+	"vcpe": "cpe:/:bender",
+	"pid": "59071",
+	"pname": "icc16xx ファームウェア",
+	"pcpe": "cpe:/o:bender:icc16xx_firmware"
 }

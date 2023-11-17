@@ -1,8 +1,8 @@
 {
-  "vid": "18316",
-  "vname": "Verbb",
-  "vcpe": "cpe:/:verbb",
-  "pid": "44936",
-  "pname": "Image Resizer",
-  "pcpe": "cpe:/a:verbb:image_resizer"
+	"vid": "18316",
+	"vname": "Verbb",
+	"vcpe": "cpe:/:verbb",
+	"pid": "44936",
+	"pname": "Image Resizer",
+	"pcpe": "cpe:/a:verbb:image_resizer"
 }

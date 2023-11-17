@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "41220",
-  "pname": "Cisco 300 シリーズ ファームウェア",
-  "pcpe": "cpe:/o:cisco:300_series_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "41220",
+	"pname": "Cisco 300 シリーズ ファームウェア",
+	"pcpe": "cpe:/o:cisco:300_series_firmware"
 }

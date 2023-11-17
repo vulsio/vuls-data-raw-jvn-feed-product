@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38152",
-  "pname": "Crowd Integration",
-  "pcpe": "cpe:/a:jenkins:crowd_integration"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38152",
+	"pname": "Crowd Integration",
+	"pcpe": "cpe:/a:jenkins:crowd_integration"
 }

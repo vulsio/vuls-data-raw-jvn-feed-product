@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26026",
-  "pname": "S5300LI ファームウェア",
-  "pcpe": "cpe:/o:huawei:s5300li_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26026",
+	"pname": "S5300LI ファームウェア",
+	"pcpe": "cpe:/o:huawei:s5300li_firmware"
 }

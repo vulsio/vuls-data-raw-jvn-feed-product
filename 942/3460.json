@@ -1,8 +1,8 @@
 {
-  "vid": "942",
-  "vname": "Joomla-Clantools",
-  "vcpe": "cpe:/:joomla-clantools",
-  "pid": "3460",
-  "pname": "Clantools コンポーネント",
-  "pcpe": "cpe:/a:joomla-clantools:com_clantools"
+	"vid": "942",
+	"vname": "Joomla-Clantools",
+	"vcpe": "cpe:/:joomla-clantools",
+	"pid": "3460",
+	"pname": "Clantools コンポーネント",
+	"pcpe": "cpe:/a:joomla-clantools:com_clantools"
 }

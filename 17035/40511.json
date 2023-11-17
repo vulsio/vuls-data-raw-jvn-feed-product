@@ -1,8 +1,8 @@
 {
-  "vid": "17035",
-  "vname": "Gravitate",
-  "vcpe": "cpe:/:gravitatedesign",
-  "pid": "40511",
-  "pname": "Gravitate QA Tracker",
-  "pcpe": "cpe:/a:gravitatedesign:gravitate_qa_tracker"
+	"vid": "17035",
+	"vname": "Gravitate",
+	"vcpe": "cpe:/:gravitatedesign",
+	"pid": "40511",
+	"pname": "Gravitate QA Tracker",
+	"pcpe": "cpe:/a:gravitatedesign:gravitate_qa_tracker"
 }

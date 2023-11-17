@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "60939",
-  "pname": "validating email parameter",
-  "pcpe": "cpe:/a:jenkins:validating_email_parameter"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "60939",
+	"pname": "validating email parameter",
+	"pcpe": "cpe:/a:jenkins:validating_email_parameter"
 }

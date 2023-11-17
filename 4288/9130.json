@@ -1,8 +1,8 @@
 {
-  "vid": "4288",
-  "vname": "GoodiWare",
-  "vcpe": "cpe:/:goodiware",
-  "pid": "9130",
-  "pname": "GoodReader",
-  "pcpe": "cpe:/a:goodiware:goodreader"
+	"vid": "4288",
+	"vname": "GoodiWare",
+	"vcpe": "cpe:/:goodiware",
+	"pid": "9130",
+	"pname": "GoodReader",
+	"pcpe": "cpe:/a:goodiware:goodreader"
 }

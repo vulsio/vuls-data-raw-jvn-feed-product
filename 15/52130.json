@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "52130",
-  "pname": "Oracle Financial Services Model Management and Governance",
-  "pcpe": "cpe:/a:oracle:financial_services_model_management_and_governance"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "52130",
+	"pname": "Oracle Financial Services Model Management and Governance",
+	"pcpe": "cpe:/a:oracle:financial_services_model_management_and_governance"
 }

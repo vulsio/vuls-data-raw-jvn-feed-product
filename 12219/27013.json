@@ -1,8 +1,8 @@
 {
-  "vid": "12219",
-  "vname": "MailCWP project",
-  "vcpe": "cpe:/:mailcwp_project",
-  "pid": "27013",
-  "pname": "MailCWP",
-  "pcpe": "cpe:/a:mailcwp_project:mailcwp"
+	"vid": "12219",
+	"vname": "MailCWP project",
+	"vcpe": "cpe:/:mailcwp_project",
+	"pid": "27013",
+	"pname": "MailCWP",
+	"pcpe": "cpe:/a:mailcwp_project:mailcwp"
 }

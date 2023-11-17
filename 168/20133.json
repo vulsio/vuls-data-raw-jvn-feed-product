@@ -1,8 +1,8 @@
 {
-  "vid": "168",
-  "vname": "横河電機株式会社",
-  "vcpe": "cpe:/:yokogawa",
-  "pid": "20133",
-  "pname": "CENTUM VP ソフトウェア",
-  "pcpe": "cpe:/a:yokogawa:centum_vp_software"
+	"vid": "168",
+	"vname": "横河電機株式会社",
+	"vcpe": "cpe:/:yokogawa",
+	"pid": "20133",
+	"pname": "CENTUM VP ソフトウェア",
+	"pcpe": "cpe:/a:yokogawa:centum_vp_software"
 }

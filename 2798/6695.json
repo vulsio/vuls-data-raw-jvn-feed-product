@@ -1,8 +1,8 @@
 {
-  "vid": "2798",
-  "vname": "chilkatsoft",
-  "vcpe": "cpe:/:chilkatsoft",
-  "pid": "6695",
-  "pname": "chilkat socket",
-  "pcpe": "cpe:/a:chilkatsoft:chilkat_socket"
+	"vid": "2798",
+	"vname": "chilkatsoft",
+	"vcpe": "cpe:/:chilkatsoft",
+	"pid": "6695",
+	"pname": "chilkat socket",
+	"pcpe": "cpe:/a:chilkatsoft:chilkat_socket"
 }

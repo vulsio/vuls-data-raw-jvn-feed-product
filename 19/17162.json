@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17162",
-  "pname": "Cisco TelePresence MCU 4501",
-  "pcpe": "cpe:/h:cisco:telepresence_mcu_4501"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17162",
+	"pname": "Cisco TelePresence MCU 4501",
+	"pcpe": "cpe:/h:cisco:telepresence_mcu_4501"
 }

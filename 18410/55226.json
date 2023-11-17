@@ -1,8 +1,8 @@
 {
-  "vid": "18410",
-  "vname": "ファナック株式会社",
-  "vcpe": "cpe:/:fanuc",
-  "pid": "55226",
-  "pname": "R-30iB Mate Plus ファームウェア",
-  "pcpe": "cpe:/o:fanuc:r-30ib_mate_plus_firmware"
+	"vid": "18410",
+	"vname": "ファナック株式会社",
+	"vcpe": "cpe:/:fanuc",
+	"pid": "55226",
+	"pname": "R-30iB Mate Plus ファームウェア",
+	"pcpe": "cpe:/o:fanuc:r-30ib_mate_plus_firmware"
 }

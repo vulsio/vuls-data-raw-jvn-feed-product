@@ -1,8 +1,8 @@
 {
-  "vid": "13399",
-  "vname": "DBL Technology Limited",
-  "vcpe": "cpe:/:dbltek",
-  "pid": "31378",
-  "pname": "DblTek Web サーバ",
-  "pcpe": "cpe:/a:dbltek:web_server"
+	"vid": "13399",
+	"vname": "DBL Technology Limited",
+	"vcpe": "cpe:/:dbltek",
+	"pid": "31378",
+	"pname": "DblTek Web サーバ",
+	"pcpe": "cpe:/a:dbltek:web_server"
 }

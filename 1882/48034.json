@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "48034",
-  "pname": "ZXHN Z500 ファームウェア",
-  "pcpe": "cpe:/o:zte:zxhn_z500_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "48034",
+	"pname": "ZXHN Z500 ファームウェア",
+	"pcpe": "cpe:/o:zte:zxhn_z500_firmware"
 }

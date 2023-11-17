@@ -1,8 +1,8 @@
 {
-  "vid": "15056",
-  "vname": "TokitDeployer project",
-  "vcpe": "cpe:/:tokitdeployer_project",
-  "pid": "34995",
-  "pname": "TokitDeployer",
-  "pcpe": "cpe:/a:tokitdeployer_project:tokitdeployer"
+	"vid": "15056",
+	"vname": "TokitDeployer project",
+	"vcpe": "cpe:/:tokitdeployer_project",
+	"pid": "34995",
+	"pname": "TokitDeployer",
+	"pcpe": "cpe:/a:tokitdeployer_project:tokitdeployer"
 }

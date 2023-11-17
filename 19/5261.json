@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5261",
-  "pname": "Cisco SPA 525G 5-Line IP Phone",
-  "pcpe": "cpe:/h:cisco:spa_525g_5-line_ip_phone"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5261",
+	"pname": "Cisco SPA 525G 5-Line IP Phone",
+	"pcpe": "cpe:/h:cisco:spa_525g_5-line_ip_phone"
 }

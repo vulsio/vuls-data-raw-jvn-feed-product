@@ -1,8 +1,8 @@
 {
-  "vid": "1288",
-  "vname": "Emsisoft",
-  "vcpe": "cpe:/:emsisoft",
-  "pid": "25900",
-  "pname": "Online Armor",
-  "pcpe": "cpe:/a:emsisoft:online_armor"
+	"vid": "1288",
+	"vname": "Emsisoft",
+	"vcpe": "cpe:/:emsisoft",
+	"pid": "25900",
+	"pname": "Online Armor",
+	"pcpe": "cpe:/a:emsisoft:online_armor"
 }

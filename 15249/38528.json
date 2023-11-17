@@ -1,8 +1,8 @@
 {
-  "vid": "15249",
-  "vname": "EOSIO",
-  "vcpe": "cpe:/:eosio_project",
-  "pid": "38528",
-  "pname": "jit-wasm",
-  "pcpe": "cpe:/a:eosio_project:jit-wasm"
+	"vid": "15249",
+	"vname": "EOSIO",
+	"vcpe": "cpe:/:eosio_project",
+	"pid": "38528",
+	"pname": "jit-wasm",
+	"pcpe": "cpe:/a:eosio_project:jit-wasm"
 }

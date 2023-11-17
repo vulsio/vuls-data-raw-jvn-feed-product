@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "37715",
-  "pname": "Ring Video Doorbell ファームウェア",
-  "pcpe": "cpe:/o:amazon:ring_video_doorbell_firmware"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "37715",
+	"pname": "Ring Video Doorbell ファームウェア",
+	"pcpe": "cpe:/o:amazon:ring_video_doorbell_firmware"
 }

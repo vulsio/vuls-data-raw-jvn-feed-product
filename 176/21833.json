@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "21833",
-  "pname": "SwitchBlade4000",
-  "pcpe": "cpe:/h:allied_telesis_k.k.:switchblade4000"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "21833",
+	"pname": "SwitchBlade4000",
+	"pcpe": "cpe:/h:allied_telesis_k.k.:switchblade4000"
 }

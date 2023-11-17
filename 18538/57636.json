@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "57636",
-  "pname": "ritto wiser door",
-  "pcpe": "cpe:/a:schneider-electric:ritto_wiser_door"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "57636",
+	"pname": "ritto wiser door",
+	"pcpe": "cpe:/a:schneider-electric:ritto_wiser_door"
 }

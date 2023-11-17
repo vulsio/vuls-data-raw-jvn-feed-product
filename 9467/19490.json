@@ -1,8 +1,8 @@
 {
-  "vid": "9467",
-  "vname": "Hughes Network Systems",
-  "vcpe": "cpe:/:hughes",
-  "pid": "19490",
-  "pname": "Hughes 9201",
-  "pcpe": "cpe:/h:hughes:9201"
+	"vid": "9467",
+	"vname": "Hughes Network Systems",
+	"vcpe": "cpe:/:hughes",
+	"pid": "19490",
+	"pname": "Hughes 9201",
+	"pcpe": "cpe:/h:hughes:9201"
 }

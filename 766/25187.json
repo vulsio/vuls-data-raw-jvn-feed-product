@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "25187",
-  "pname": "BMXNOE0110H",
-  "pcpe": "cpe:/h:schneider_electric:bmxnoe0110h"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "25187",
+	"pname": "BMXNOE0110H",
+	"pcpe": "cpe:/h:schneider_electric:bmxnoe0110h"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28611",
-  "pname": "Tecal BH621 V2 ファームウェア",
-  "pcpe": "cpe:/o:huawei:tecal_bh621_v2_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28611",
+	"pname": "Tecal BH621 V2 ファームウェア",
+	"pcpe": "cpe:/o:huawei:tecal_bh621_v2_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12052",
-  "vname": "blueman-project",
-  "vcpe": "cpe:/:blueman_project",
-  "pid": "25372",
-  "pname": "Blueman",
-  "pcpe": "cpe:/a:blueman_project:blueman"
+	"vid": "12052",
+	"vname": "blueman-project",
+	"vcpe": "cpe:/:blueman_project",
+	"pid": "25372",
+	"pname": "Blueman",
+	"pcpe": "cpe:/a:blueman_project:blueman"
 }

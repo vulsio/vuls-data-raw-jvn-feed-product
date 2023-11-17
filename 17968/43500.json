@@ -1,8 +1,8 @@
 {
-  "vid": "17968",
-  "vname": "component-flatten project",
-  "vcpe": "cpe:/:component-flatten_project",
-  "pid": "43500",
-  "pname": "component-flatten",
-  "pcpe": "cpe:/a:component-flatten_project:component-flatten"
+	"vid": "17968",
+	"vname": "component-flatten project",
+	"vcpe": "cpe:/:component-flatten_project",
+	"pid": "43500",
+	"pname": "component-flatten",
+	"pcpe": "cpe:/a:component-flatten_project:component-flatten"
 }

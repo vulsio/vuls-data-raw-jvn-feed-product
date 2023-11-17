@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "24731",
-  "pname": "HP ProBook 640 G1",
-  "pcpe": "cpe:/h:hp:probook_640_g1"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "24731",
+	"pname": "HP ProBook 640 G1",
+	"pcpe": "cpe:/h:hp:probook_640_g1"
 }

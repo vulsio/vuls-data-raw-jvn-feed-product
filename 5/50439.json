@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "50439",
-  "pname": "MDM8615M ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:mdm8615m_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "50439",
+	"pname": "MDM8615M ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:mdm8615m_firmware"
 }

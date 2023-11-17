@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17261",
-  "pname": "Cisco 1921 サービス統合型ルータ",
-  "pcpe": "cpe:/h:cisco:1921_integrated_services_router"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17261",
+	"pname": "Cisco 1921 サービス統合型ルータ",
+	"pcpe": "cpe:/h:cisco:1921_integrated_services_router"
 }

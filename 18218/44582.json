@@ -1,8 +1,8 @@
 {
-  "vid": "18218",
-  "vname": "Catch Plugins",
-  "vcpe": "cpe:/:catchplugins",
-  "pid": "44582",
-  "pname": "Catch Breadcrumb",
-  "pcpe": "cpe:/a:catchplugins:catch_breadcrumb"
+	"vid": "18218",
+	"vname": "Catch Plugins",
+	"vcpe": "cpe:/:catchplugins",
+	"pid": "44582",
+	"pname": "Catch Breadcrumb",
+	"pcpe": "cpe:/a:catchplugins:catch_breadcrumb"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9426",
-  "vname": "truenorth software",
-  "vcpe": "cpe:/:truenorth_software",
-  "pid": "19381",
-  "pname": "ia emailserver",
-  "pcpe": "cpe:/a:truenorth_software:ia_emailserver"
+	"vid": "9426",
+	"vname": "truenorth software",
+	"vcpe": "cpe:/:truenorth_software",
+	"pid": "19381",
+	"pname": "ia emailserver",
+	"pcpe": "cpe:/a:truenorth_software:ia_emailserver"
 }

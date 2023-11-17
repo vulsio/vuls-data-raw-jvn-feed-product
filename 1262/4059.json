@@ -1,8 +1,8 @@
 {
-  "vid": "1262",
-  "vname": "WaliSMS",
-  "vcpe": "cpe:/:wali",
-  "pid": "4059",
-  "pname": "WaliSMS CN",
-  "pcpe": "cpe:/a:wali:walisms_cn"
+	"vid": "1262",
+	"vname": "WaliSMS",
+	"vcpe": "cpe:/:wali",
+	"pid": "4059",
+	"pname": "WaliSMS CN",
+	"pcpe": "cpe:/a:wali:walisms_cn"
 }

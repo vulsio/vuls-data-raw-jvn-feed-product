@@ -1,8 +1,8 @@
 {
-  "vid": "4176",
-  "vname": "Belkin International",
-  "vcpe": "cpe:/:belkin",
-  "pid": "8776",
-  "pname": "wireless g router",
-  "pcpe": "cpe:/h:belkin:wireless_g_router"
+	"vid": "4176",
+	"vname": "Belkin International",
+	"vcpe": "cpe:/:belkin",
+	"pid": "8776",
+	"pname": "wireless g router",
+	"pcpe": "cpe:/h:belkin:wireless_g_router"
 }

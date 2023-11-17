@@ -1,8 +1,8 @@
 {
-  "vid": "20117",
-  "vname": "ripgrep project",
-  "vcpe": "cpe:/:ripgrep_project",
-  "pid": "51087",
-  "pname": "ripgrep",
-  "pcpe": "cpe:/a:ripgrep_project:ripgrep"
+	"vid": "20117",
+	"vname": "ripgrep project",
+	"vcpe": "cpe:/:ripgrep_project",
+	"pid": "51087",
+	"pname": "ripgrep",
+	"pcpe": "cpe:/a:ripgrep_project:ripgrep"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1721",
-  "vname": "SolarWinds",
-  "vcpe": "cpe:/:solarwinds",
-  "pid": "43575",
-  "pname": "NetPath",
-  "pcpe": "cpe:/a:solarwinds:netpath"
+	"vid": "1721",
+	"vname": "SolarWinds",
+	"vcpe": "cpe:/:solarwinds",
+	"pid": "43575",
+	"pname": "NetPath",
+	"pcpe": "cpe:/a:solarwinds:netpath"
 }

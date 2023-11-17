@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "42580",
-  "pname": "SP 330SFN ファームウェア",
-  "pcpe": "cpe:/o:ricoh:sp_330sfn_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "42580",
+	"pname": "SP 330SFN ファームウェア",
+	"pcpe": "cpe:/o:ricoh:sp_330sfn_firmware"
 }

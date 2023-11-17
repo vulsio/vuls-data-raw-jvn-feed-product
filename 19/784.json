@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "784",
-  "pname": "Cisco Systems Parallel Channel Port Adapter (PCPA)",
-  "pcpe": "cpe:/h:cisco:parallel_channel_port_adapter"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "784",
+	"pname": "Cisco Systems Parallel Channel Port Adapter (PCPA)",
+	"pcpe": "cpe:/h:cisco:parallel_channel_port_adapter"
 }

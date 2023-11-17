@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3894",
-  "pname": "Cisco Nexus 7000 10 スロットスイッチ",
-  "pcpe": "cpe:/h:cisco:nexus_7000_10-slot"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3894",
+	"pname": "Cisco Nexus 7000 10 スロットスイッチ",
+	"pcpe": "cpe:/h:cisco:nexus_7000_10-slot"
 }

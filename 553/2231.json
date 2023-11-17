@@ -1,8 +1,8 @@
 {
-  "vid": "553",
-  "vname": "fedorahosted.org",
-  "vcpe": "cpe:/:fedorahosted",
-  "pid": "2231",
-  "pname": "newt",
-  "pcpe": "cpe:/a:fedorahosted:newt"
+	"vid": "553",
+	"vname": "fedorahosted.org",
+	"vcpe": "cpe:/:fedorahosted",
+	"pid": "2231",
+	"pname": "newt",
+	"pcpe": "cpe:/a:fedorahosted:newt"
 }

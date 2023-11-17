@@ -1,8 +1,8 @@
 {
-  "vid": "492",
-  "vname": "ComponentOne",
-  "vcpe": "cpe:/:componentone",
-  "pid": "6944",
-  "pname": "vsflexgrid",
-  "pcpe": "cpe:/a:componentone:vsflexgrid"
+	"vid": "492",
+	"vname": "ComponentOne",
+	"vcpe": "cpe:/:componentone",
+	"pid": "6944",
+	"pname": "vsflexgrid",
+	"pcpe": "cpe:/a:componentone:vsflexgrid"
 }

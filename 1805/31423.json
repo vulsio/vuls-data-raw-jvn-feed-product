@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31423",
-  "pname": "TL-WAR1200L ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-war1200l_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31423",
+	"pname": "TL-WAR1200L ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-war1200l_firmware"
 }

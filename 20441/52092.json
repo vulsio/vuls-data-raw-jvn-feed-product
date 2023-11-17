@@ -1,8 +1,8 @@
 {
-  "vid": "20441",
-  "vname": "Calendar_plugin project",
-  "vcpe": "cpe:/:calendar_plugin_project",
-  "pid": "52092",
-  "pname": "Calendar_plugin",
-  "pcpe": "cpe:/a:calendar_plugin_project:calendar_plugin"
+	"vid": "20441",
+	"vname": "Calendar_plugin project",
+	"vcpe": "cpe:/:calendar_plugin_project",
+	"pid": "52092",
+	"pname": "Calendar_plugin",
+	"pcpe": "cpe:/a:calendar_plugin_project:calendar_plugin"
 }

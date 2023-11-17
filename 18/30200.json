@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "30200",
-  "pname": "IBM Security Network Protection 7100 ファームウェア",
-  "pcpe": "cpe:/o:ibm:security_network_protection_7100_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "30200",
+	"pname": "IBM Security Network Protection 7100 ファームウェア",
+	"pcpe": "cpe:/o:ibm:security_network_protection_7100_firmware"
 }

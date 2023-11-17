@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "3526",
-  "pname": "Quantum ethernet module 140CPU65160 Firmware",
-  "pcpe": "cpe:/a:schneider_electric:quantum_ethernet_module_140cpu65160"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "3526",
+	"pname": "Quantum ethernet module 140CPU65160 Firmware",
+	"pcpe": "cpe:/a:schneider_electric:quantum_ethernet_module_140cpu65160"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "772",
-  "pname": "Cisco RTM",
-  "pcpe": "cpe:/h:cisco:rtm"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "772",
+	"pname": "Cisco RTM",
+	"pcpe": "cpe:/h:cisco:rtm"
 }

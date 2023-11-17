@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "33594",
-  "pname": "Dell EMC VMAX eNAS",
-  "pcpe": "cpe:/a:dell:emc_vmax_enas"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "33594",
+	"pname": "Dell EMC VMAX eNAS",
+	"pcpe": "cpe:/a:dell:emc_vmax_enas"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "50931",
-  "pname": "HPE OneView for VMware vCenter",
-  "pcpe": "cpe:/a:hp:oneview_for_vmware_vcenter"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "50931",
+	"pname": "HPE OneView for VMware vCenter",
+	"pcpe": "cpe:/a:hp:oneview_for_vmware_vcenter"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24261",
-  "vname": "cognex",
-  "vcpe": "cpe:/:cognex",
-  "pid": "62696",
-  "pname": "3d-a1000 dimensioning system ファームウェア",
-  "pcpe": "cpe:/o:cognex:3d-a1000_dimensioning_system_firmware"
+	"vid": "24261",
+	"vname": "cognex",
+	"vcpe": "cpe:/:cognex",
+	"pid": "62696",
+	"pname": "3d-a1000 dimensioning system ファームウェア",
+	"pcpe": "cpe:/o:cognex:3d-a1000_dimensioning_system_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4054",
-  "vname": "greensql",
-  "vcpe": "cpe:/:greensql",
-  "pid": "8540",
-  "pname": "greensql firewall",
-  "pcpe": "cpe:/a:greensql:greensql_firewall"
+	"vid": "4054",
+	"vname": "greensql",
+	"vcpe": "cpe:/:greensql",
+	"pid": "8540",
+	"pname": "greensql firewall",
+	"pcpe": "cpe:/a:greensql:greensql_firewall"
 }

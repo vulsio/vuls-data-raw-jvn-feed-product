@@ -1,8 +1,8 @@
 {
-  "vid": "21690",
-  "vname": "Fresenius Kabi",
-  "vcpe": "cpe:/:fresenius-kabi",
-  "pid": "55722",
-  "pname": "Vigilant Insight",
-  "pcpe": "cpe:/a:fresenius-kabi:vigilant_insight"
+	"vid": "21690",
+	"vname": "Fresenius Kabi",
+	"vcpe": "cpe:/:fresenius-kabi",
+	"pid": "55722",
+	"pname": "Vigilant Insight",
+	"pcpe": "cpe:/a:fresenius-kabi:vigilant_insight"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "58889",
-  "pname": "リモートサービスゲートウェイユニット",
-  "pcpe": "cpe:/o:mitsubishielectric:remote_service_gateway_unit"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "58889",
+	"pname": "リモートサービスゲートウェイユニット",
+	"pcpe": "cpe:/o:mitsubishielectric:remote_service_gateway_unit"
 }

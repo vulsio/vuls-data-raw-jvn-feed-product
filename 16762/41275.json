@@ -1,8 +1,8 @@
 {
-  "vid": "16762",
-  "vname": "Easy Digital Downloads",
-  "vcpe": "cpe:/:easydigitaldownloads",
-  "pid": "41275",
-  "pname": "Simple Shipping",
-  "pcpe": "cpe:/a:easydigitaldownloads:simple_shipping"
+	"vid": "16762",
+	"vname": "Easy Digital Downloads",
+	"vcpe": "cpe:/:easydigitaldownloads",
+	"pid": "41275",
+	"pname": "Simple Shipping",
+	"pcpe": "cpe:/a:easydigitaldownloads:simple_shipping"
 }

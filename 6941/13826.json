@@ -1,8 +1,8 @@
 {
-  "vid": "6941",
-  "vname": "phpstore",
-  "vcpe": "cpe:/:phpstore",
-  "pid": "13826",
-  "pname": "yahoo answers",
-  "pcpe": "cpe:/a:phpstore:yahoo_answers"
+	"vid": "6941",
+	"vname": "phpstore",
+	"vcpe": "cpe:/:phpstore",
+	"pid": "13826",
+	"pname": "yahoo answers",
+	"pcpe": "cpe:/a:phpstore:yahoo_answers"
 }

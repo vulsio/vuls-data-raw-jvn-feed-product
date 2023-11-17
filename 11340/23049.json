@@ -1,8 +1,8 @@
 {
-  "vid": "11340",
-  "vname": "Malwarebytes",
-  "vcpe": "cpe:/:malwarebytes",
-  "pid": "23049",
-  "pname": "Malwarebytes Anti-Exploit",
-  "pcpe": "cpe:/a:malwarebytes:malwarebytes_anti-exploit"
+	"vid": "11340",
+	"vname": "Malwarebytes",
+	"vcpe": "cpe:/:malwarebytes",
+	"pid": "23049",
+	"pname": "Malwarebytes Anti-Exploit",
+	"pcpe": "cpe:/a:malwarebytes:malwarebytes_anti-exploit"
 }

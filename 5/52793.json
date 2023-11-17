@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52793",
-  "pname": "MDM9628 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:mdm9628_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52793",
+	"pname": "MDM9628 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:mdm9628_firmware"
 }

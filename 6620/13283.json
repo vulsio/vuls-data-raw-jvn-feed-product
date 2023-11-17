@@ -1,8 +1,8 @@
 {
-  "vid": "6620",
-  "vname": "C3-ilex",
-  "vcpe": "cpe:/:c3-ilex",
-  "pid": "13283",
-  "pname": "EOScada",
-  "pcpe": "cpe:/a:c3-ilex:eoscada"
+	"vid": "6620",
+	"vname": "C3-ilex",
+	"vcpe": "cpe:/:c3-ilex",
+	"pid": "13283",
+	"pname": "EOScada",
+	"pcpe": "cpe:/a:c3-ilex:eoscada"
 }

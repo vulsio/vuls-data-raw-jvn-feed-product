@@ -1,8 +1,8 @@
 {
-  "vid": "23926",
-  "vname": "gitblame project",
-  "vcpe": "cpe:/:gitblame_project",
-  "pid": "61898",
-  "pname": "gitblame",
-  "pcpe": "cpe:/a:gitblame_project:gitblame"
+	"vid": "23926",
+	"vname": "gitblame project",
+	"vcpe": "cpe:/:gitblame_project",
+	"pid": "61898",
+	"pname": "gitblame",
+	"pcpe": "cpe:/a:gitblame_project:gitblame"
 }

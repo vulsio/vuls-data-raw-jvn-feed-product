@@ -1,8 +1,8 @@
 {
-  "vid": "17999",
-  "vname": "Talend",
-  "vcpe": "cpe:/:talend",
-  "pid": "61541",
-  "pname": "ESB Runtime",
-  "pcpe": "cpe:/a:talend:esb_runtime"
+	"vid": "17999",
+	"vname": "Talend",
+	"vcpe": "cpe:/:talend",
+	"pid": "61541",
+	"pname": "ESB Runtime",
+	"pcpe": "cpe:/a:talend:esb_runtime"
 }

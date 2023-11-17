@@ -1,8 +1,8 @@
 {
-  "vid": "1723",
-  "vname": "SonicWALL",
-  "vcpe": "cpe:/:sonicwall",
-  "pid": "14973",
-  "pname": "ssl vpn",
-  "pcpe": "cpe:/a:sonicwall:ssl_vpn"
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "14973",
+	"pname": "ssl vpn",
+	"pcpe": "cpe:/a:sonicwall:ssl_vpn"
 }

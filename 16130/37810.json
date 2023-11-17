@@ -1,8 +1,8 @@
 {
-  "vid": "16130",
-  "vname": "microjson project",
-  "vcpe": "cpe:/:microjson_project",
-  "pid": "37810",
-  "pname": "microjson",
-  "pcpe": "cpe:/a:microjson_project:microjson"
+	"vid": "16130",
+	"vname": "microjson project",
+	"vcpe": "cpe:/:microjson_project",
+	"pid": "37810",
+	"pname": "microjson",
+	"pcpe": "cpe:/a:microjson_project:microjson"
 }

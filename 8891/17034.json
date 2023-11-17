@@ -1,8 +1,8 @@
 {
-  "vid": "8891",
-  "vname": "MailUp",
-  "vcpe": "cpe:/:mailup",
-  "pid": "17034",
-  "pname": "MailUp plugin for WordPress",
-  "pcpe": "cpe:/a:mailup:wp-mailup"
+	"vid": "8891",
+	"vname": "MailUp",
+	"vcpe": "cpe:/:mailup",
+	"pid": "17034",
+	"pname": "MailUp plugin for WordPress",
+	"pcpe": "cpe:/a:mailup:wp-mailup"
 }

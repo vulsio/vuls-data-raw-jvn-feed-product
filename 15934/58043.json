@@ -1,8 +1,8 @@
 {
-  "vid": "15934",
-  "vname": "SAUTER Controls GmbH",
-  "vcpe": "cpe:/:sauter-controls",
-  "pid": "58043",
-  "pname": "Nova 220 EYK220F001 ファームウェア",
-  "pcpe": "cpe:/o:sauter-controls:nova_220_eyk220f001_firmware"
+	"vid": "15934",
+	"vname": "SAUTER Controls GmbH",
+	"vcpe": "cpe:/:sauter-controls",
+	"pid": "58043",
+	"pname": "Nova 220 EYK220F001 ファームウェア",
+	"pcpe": "cpe:/o:sauter-controls:nova_220_eyk220f001_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "1529",
-  "pname": "総合文書管理システム for WEB",
-  "pcpe": "cpe:/a:fujitsu:sougou_bunsyo_kanri_system_for_web"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "1529",
+	"pname": "総合文書管理システム for WEB",
+	"pcpe": "cpe:/a:fujitsu:sougou_bunsyo_kanri_system_for_web"
 }

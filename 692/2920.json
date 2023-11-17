@@ -1,8 +1,8 @@
 {
-  "vid": "692",
-  "vname": "OpenFabrics Alliance",
-  "vcpe": "cpe:/:openfabrics",
-  "pid": "2920",
-  "pname": "OpenFabrics Enterprise Distribution",
-  "pcpe": "cpe:/a:openfabrics:enterprise_distribution"
+	"vid": "692",
+	"vname": "OpenFabrics Alliance",
+	"vcpe": "cpe:/:openfabrics",
+	"pid": "2920",
+	"pname": "OpenFabrics Enterprise Distribution",
+	"pcpe": "cpe:/a:openfabrics:enterprise_distribution"
 }

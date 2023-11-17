@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "36665",
-  "pname": "Dell Digital Delivery ",
-  "pcpe": "cpe:/a:dell:digital_delivery"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "36665",
+	"pname": "Dell Digital Delivery ",
+	"pcpe": "cpe:/a:dell:digital_delivery"
 }

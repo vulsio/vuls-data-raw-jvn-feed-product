@@ -1,8 +1,8 @@
 {
-  "vid": "13646",
-  "vname": "Perfex CRM",
-  "vcpe": "cpe:/:perfexcrm",
-  "pid": "32271",
-  "pname": "Perfex CRM",
-  "pcpe": "cpe:/a:perfexcrm:perfex_crm"
+	"vid": "13646",
+	"vname": "Perfex CRM",
+	"vcpe": "cpe:/:perfexcrm",
+	"pid": "32271",
+	"pname": "Perfex CRM",
+	"pcpe": "cpe:/a:perfexcrm:perfex_crm"
 }

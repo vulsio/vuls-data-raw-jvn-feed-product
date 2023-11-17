@@ -1,8 +1,8 @@
 {
-  "vid": "2360",
-  "vname": "astrocam",
-  "vcpe": "cpe:/:astrocam",
-  "pid": "6034",
-  "pname": "astrocam",
-  "pcpe": "cpe:/a:astrocam:astrocam"
+	"vid": "2360",
+	"vname": "astrocam",
+	"vcpe": "cpe:/:astrocam",
+	"pid": "6034",
+	"pname": "astrocam",
+	"pcpe": "cpe:/a:astrocam:astrocam"
 }

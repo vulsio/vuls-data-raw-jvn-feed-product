@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "58030",
-  "pname": "PowerVault ME5084 ファームウェア",
-  "pcpe": "cpe:/o:dell:powervault_me5084_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "58030",
+	"pname": "PowerVault ME5084 ファームウェア",
+	"pcpe": "cpe:/o:dell:powervault_me5084_firmware"
 }

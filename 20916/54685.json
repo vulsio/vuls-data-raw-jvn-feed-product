@@ -1,8 +1,8 @@
 {
-  "vid": "20916",
-  "vname": "ユニモテクノロジー株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "54685",
-  "pname": "UDR-JA1604 ファームウェア",
-  "pcpe": "cpe:/o:misc:unimo_technology_udr-ja1604_firmware"
+	"vid": "20916",
+	"vname": "ユニモテクノロジー株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "54685",
+	"pname": "UDR-JA1604 ファームウェア",
+	"pcpe": "cpe:/o:misc:unimo_technology_udr-ja1604_firmware"
 }

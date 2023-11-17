@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "43622",
-  "pname": "WorkCentre 5855 ファームウェア",
-  "pcpe": "cpe:/o:xerox:workcentre_5855_firmware"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "43622",
+	"pname": "WorkCentre 5855 ファームウェア",
+	"pcpe": "cpe:/o:xerox:workcentre_5855_firmware"
 }

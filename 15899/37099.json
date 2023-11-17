@@ -1,8 +1,8 @@
 {
-  "vid": "15899",
-  "vname": "OptOSS AI",
-  "vcpe": "cpe:/:opt-net",
-  "pid": "37099",
-  "pname": "OptOSS NG NetMS",
-  "pcpe": "cpe:/a:opt-net:ng-netms"
+	"vid": "15899",
+	"vname": "OptOSS AI",
+	"vcpe": "cpe:/:opt-net",
+	"pid": "37099",
+	"pname": "OptOSS NG NetMS",
+	"pcpe": "cpe:/a:opt-net:ng-netms"
 }

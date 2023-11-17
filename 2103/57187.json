@@ -1,8 +1,8 @@
 {
-  "vid": "2103",
-  "vname": "airspan",
-  "vcpe": "cpe:/:airspan",
-  "pid": "57187",
-  "pname": "c5c ファームウェア",
-  "pcpe": "cpe:/o:airspan:c5c_firmware"
+	"vid": "2103",
+	"vname": "airspan",
+	"vcpe": "cpe:/:airspan",
+	"pid": "57187",
+	"pname": "c5c ファームウェア",
+	"pcpe": "cpe:/o:airspan:c5c_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "54437",
-  "pname": "ThinkPad 11e 4TH Gen i7 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_11e_4th_gen_i7_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "54437",
+	"pname": "ThinkPad 11e 4TH Gen i7 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_11e_4th_gen_i7_firmware"
 }

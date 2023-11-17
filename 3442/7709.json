@@ -1,8 +1,8 @@
 {
-  "vid": "3442",
-  "vname": "EFS Software",
-  "vcpe": "cpe:/:efs_software",
-  "pid": "7709",
-  "pname": "easy address book",
-  "pcpe": "cpe:/a:efs_software:easy_address_book"
+	"vid": "3442",
+	"vname": "EFS Software",
+	"vcpe": "cpe:/:efs_software",
+	"pid": "7709",
+	"pname": "easy address book",
+	"pcpe": "cpe:/a:efs_software:easy_address_book"
 }

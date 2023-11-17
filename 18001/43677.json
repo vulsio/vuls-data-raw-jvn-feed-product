@@ -1,8 +1,8 @@
 {
-  "vid": "18001",
-  "vname": "rdf-graph-array project",
-  "vcpe": "cpe:/:rdf-graph-array_project",
-  "pid": "43677",
-  "pname": "rdf-graph-array",
-  "pcpe": "cpe:/a:rdf-graph-array_project:rdf-graph-array"
+	"vid": "18001",
+	"vname": "rdf-graph-array project",
+	"vcpe": "cpe:/:rdf-graph-array_project",
+	"pid": "43677",
+	"pname": "rdf-graph-array",
+	"pcpe": "cpe:/a:rdf-graph-array_project:rdf-graph-array"
 }

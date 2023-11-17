@@ -1,8 +1,8 @@
 {
-  "vid": "17539",
-  "vname": "Vanderbilt",
-  "vcpe": "cpe:/:vanderbilt",
-  "pid": "58548",
-  "pname": "redcap",
-  "pcpe": "cpe:/a:vanderbilt:redcap"
+	"vid": "17539",
+	"vname": "Vanderbilt",
+	"vcpe": "cpe:/:vanderbilt",
+	"pid": "58548",
+	"pname": "redcap",
+	"pcpe": "cpe:/a:vanderbilt:redcap"
 }

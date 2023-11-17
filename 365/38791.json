@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "38791",
-  "pname": "Citrix Workspace",
-  "pcpe": "cpe:/a:citrix:workspace"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "38791",
+	"pname": "Citrix Workspace",
+	"pcpe": "cpe:/a:citrix:workspace"
 }

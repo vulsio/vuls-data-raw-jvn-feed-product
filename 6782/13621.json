@@ -1,8 +1,8 @@
 {
-  "vid": "6782",
-  "vname": "phpbb prillian",
-  "vcpe": "cpe:/:phpbb_prillian",
-  "pid": "13621",
-  "pname": "french language pack",
-  "pcpe": "cpe:/a:phpbb_prillian:french_language_pack"
+	"vid": "6782",
+	"vname": "phpbb prillian",
+	"vcpe": "cpe:/:phpbb_prillian",
+	"pid": "13621",
+	"pname": "french language pack",
+	"pcpe": "cpe:/a:phpbb_prillian:french_language_pack"
 }

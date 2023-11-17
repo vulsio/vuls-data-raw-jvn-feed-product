@@ -1,8 +1,8 @@
 {
-  "vid": "18478",
-  "vname": "Rittal",
-  "vcpe": "cpe:/:rittal",
-  "pid": "45554",
-  "pname": "IOT INTERFACE 3124.300",
-  "pcpe": "cpe:/a:rittal:iot_interface_3124.300"
+	"vid": "18478",
+	"vname": "Rittal",
+	"vcpe": "cpe:/:rittal",
+	"pid": "45554",
+	"pname": "IOT INTERFACE 3124.300",
+	"pcpe": "cpe:/a:rittal:iot_interface_3124.300"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6122",
-  "vname": "open source security information management",
-  "vcpe": "cpe:/:open_source_security_information_management",
-  "pid": "12259",
-  "pname": "os-sim",
-  "pcpe": "cpe:/a:open_source_security_information_management:os-sim"
+	"vid": "6122",
+	"vname": "open source security information management",
+	"vcpe": "cpe:/:open_source_security_information_management",
+	"pid": "12259",
+	"pname": "os-sim",
+	"pcpe": "cpe:/a:open_source_security_information_management:os-sim"
 }

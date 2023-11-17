@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19386",
-  "pname": "ons 15327",
-  "pcpe": "cpe:/o:cisco:ons_15327"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19386",
+	"pname": "ons 15327",
+	"pcpe": "cpe:/o:cisco:ons_15327"
 }

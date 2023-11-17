@@ -1,8 +1,8 @@
 {
-  "vid": "9018",
-  "vname": "シャープ株式会社",
-  "vcpe": "cpe:/:sharp",
-  "pid": "31014",
-  "pname": "RX-CLV1-P ファームウェア",
-  "pcpe": "cpe:/o:sharp:rx-clv1-p_firmware"
+	"vid": "9018",
+	"vname": "シャープ株式会社",
+	"vcpe": "cpe:/:sharp",
+	"pid": "31014",
+	"pname": "RX-CLV1-P ファームウェア",
+	"pcpe": "cpe:/o:sharp:rx-clv1-p_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20979",
-  "pname": "IBM Rational Software Architect for WebSphere Software",
-  "pcpe": "cpe:/a:ibm:ibm_rational_software_architect_for_websphere_software"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20979",
+	"pname": "IBM Rational Software Architect for WebSphere Software",
+	"pcpe": "cpe:/a:ibm:ibm_rational_software_architect_for_websphere_software"
 }

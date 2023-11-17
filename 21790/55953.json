@@ -1,8 +1,8 @@
 {
-  "vid": "21790",
-  "vname": "WP User project",
-  "vcpe": "cpe:/:wp_user_project",
-  "pid": "55953",
-  "pname": "WP User",
-  "pcpe": "cpe:/a:wp_user_project:wp_user"
+	"vid": "21790",
+	"vname": "WP User project",
+	"vcpe": "cpe:/:wp_user_project",
+	"pid": "55953",
+	"pname": "WP User",
+	"pcpe": "cpe:/a:wp_user_project:wp_user"
 }

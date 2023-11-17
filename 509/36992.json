@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "36992",
-  "pname": "SAP Cloud Connector",
-  "pcpe": "cpe:/a:sap:cloud_connector"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "36992",
+	"pname": "SAP Cloud Connector",
+	"pcpe": "cpe:/a:sap:cloud_connector"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "371",
-  "vname": "KAME プロジェクト",
-  "vcpe": "cpe:/:kame",
-  "pid": "1373",
-  "pname": "KAME Racoon",
-  "pcpe": "cpe:/a:kame:racoon"
+	"vid": "371",
+	"vname": "KAME プロジェクト",
+	"vcpe": "cpe:/:kame",
+	"pid": "1373",
+	"pname": "KAME Racoon",
+	"pcpe": "cpe:/a:kame:racoon"
 }

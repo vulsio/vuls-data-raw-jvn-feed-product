@@ -1,8 +1,8 @@
 {
-  "vid": "17422",
-  "vname": "LINBIT",
-  "vcpe": "cpe:/:linbit",
-  "pid": "41491",
-  "pname": "DRBD8",
-  "pcpe": "cpe:/a:linbit:drbd8"
+	"vid": "17422",
+	"vname": "LINBIT",
+	"vcpe": "cpe:/:linbit",
+	"pid": "41491",
+	"pname": "DRBD8",
+	"pcpe": "cpe:/a:linbit:drbd8"
 }

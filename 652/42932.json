@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "42932",
-  "pname": "Gear 2 ファームウェア",
-  "pcpe": "cpe:/o:samsung:gear_2_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "42932",
+	"pname": "Gear 2 ファームウェア",
+	"pcpe": "cpe:/o:samsung:gear_2_firmware"
 }

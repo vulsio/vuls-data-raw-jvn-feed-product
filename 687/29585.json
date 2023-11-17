@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "29585",
-  "pname": "TIBCO Jaspersoft Studio for ActiveMatrix BPM",
-  "pcpe": "cpe:/a:tibco:jaspersoft_studio_for_activematrix_bpm"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "29585",
+	"pname": "TIBCO Jaspersoft Studio for ActiveMatrix BPM",
+	"pcpe": "cpe:/a:tibco:jaspersoft_studio_for_activematrix_bpm"
 }

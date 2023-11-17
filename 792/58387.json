@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "58387",
-  "pname": "zyxel ap configurator",
-  "pcpe": "cpe:/a:zyxel:zyxel_ap_configurator"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "58387",
+	"pname": "zyxel ap configurator",
+	"pcpe": "cpe:/a:zyxel:zyxel_ap_configurator"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "50283",
-  "pname": "App Installer",
-  "pcpe": "cpe:/a:microsoft:app_installer"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "50283",
+	"pname": "App Installer",
+	"pcpe": "cpe:/a:microsoft:app_installer"
 }

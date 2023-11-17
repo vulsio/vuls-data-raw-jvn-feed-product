@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "39777",
-  "pname": "Google Cloud Messaging Notification",
-  "pcpe": "cpe:/a:jenkins:google_cloud_messaging_notification"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "39777",
+	"pname": "Google Cloud Messaging Notification",
+	"pcpe": "cpe:/a:jenkins:google_cloud_messaging_notification"
 }

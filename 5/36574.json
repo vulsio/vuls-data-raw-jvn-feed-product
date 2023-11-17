@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "36574",
-  "pname": "SDM632 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sdm632_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "36574",
+	"pname": "SDM632 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sdm632_firmware"
 }

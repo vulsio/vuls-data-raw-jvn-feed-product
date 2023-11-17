@@ -1,8 +1,8 @@
 {
-  "vid": "23872",
-  "vname": "warehouse management system project",
-  "vcpe": "cpe:/:warehouse_management_system_project",
-  "pid": "61761",
-  "pname": "warehouse management system",
-  "pcpe": "cpe:/a:warehouse_management_system_project:warehouse_management_system"
+	"vid": "23872",
+	"vname": "warehouse management system project",
+	"vcpe": "cpe:/:warehouse_management_system_project",
+	"pid": "61761",
+	"pname": "warehouse management system",
+	"pcpe": "cpe:/a:warehouse_management_system_project:warehouse_management_system"
 }

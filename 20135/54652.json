@@ -1,8 +1,8 @@
 {
-  "vid": "20135",
-  "vname": "Circutor",
-  "vcpe": "cpe:/:circutor",
-  "pid": "54652",
-  "pname": "COMPACT DC-S BASIC ファームウェア",
-  "pcpe": "cpe:/o:circutor:compact_dc-s_basic_firmware"
+	"vid": "20135",
+	"vname": "Circutor",
+	"vcpe": "cpe:/:circutor",
+	"pid": "54652",
+	"pname": "COMPACT DC-S BASIC ファームウェア",
+	"pcpe": "cpe:/o:circutor:compact_dc-s_basic_firmware"
 }

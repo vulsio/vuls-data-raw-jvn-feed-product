@@ -1,8 +1,8 @@
 {
-  "vid": "13299",
-  "vname": "rowindex",
-  "vcpe": "cpe:/:rowindex",
-  "pid": "31081",
-  "pname": "US Zip Codes Database Script",
-  "pcpe": "cpe:/a:rowindex:us_zip_codes_database_script"
+	"vid": "13299",
+	"vname": "rowindex",
+	"vcpe": "cpe:/:rowindex",
+	"pid": "31081",
+	"pname": "US Zip Codes Database Script",
+	"pcpe": "cpe:/a:rowindex:us_zip_codes_database_script"
 }

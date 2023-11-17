@@ -1,8 +1,8 @@
 {
-  "vid": "606",
-  "vname": "セイコーエプソン株式会社",
-  "vcpe": "cpe:/:epson",
-  "pid": "35459",
-  "pname": "EP-708A",
-  "pcpe": "cpe:/a:epson:ep-708a"
+	"vid": "606",
+	"vname": "セイコーエプソン株式会社",
+	"vcpe": "cpe:/:epson",
+	"pid": "35459",
+	"pname": "EP-708A",
+	"pcpe": "cpe:/a:epson:ep-708a"
 }

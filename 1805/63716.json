@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "63716",
-  "pname": "ax10 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:ax10_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "63716",
+	"pname": "ax10 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:ax10_firmware"
 }

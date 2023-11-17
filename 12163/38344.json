@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38344",
-  "pname": "XebiaLabs XL Deploy",
-  "pcpe": "cpe:/a:jenkins:xebialabs_xl_deploy"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38344",
+	"pname": "XebiaLabs XL Deploy",
+	"pcpe": "cpe:/a:jenkins:xebialabs_xl_deploy"
 }

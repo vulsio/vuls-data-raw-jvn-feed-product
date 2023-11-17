@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "45413",
-  "pname": "TL-WR740ND ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-wr740nd_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "45413",
+	"pname": "TL-WR740ND ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-wr740nd_firmware"
 }

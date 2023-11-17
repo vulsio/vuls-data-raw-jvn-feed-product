@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "64258",
-  "pname": "billing",
-  "pcpe": "cpe:/a:samsung:billing"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "64258",
+	"pname": "billing",
+	"pcpe": "cpe:/a:samsung:billing"
 }

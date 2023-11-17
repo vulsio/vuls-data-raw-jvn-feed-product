@@ -1,8 +1,8 @@
 {
-  "vid": "22107",
-  "vname": "Secuwiz",
-  "vcpe": "cpe:/:secuwiz",
-  "pid": "56835",
-  "pname": "SecuwaySSL U",
-  "pcpe": "cpe:/a:secuwiz:secuwayssl_u"
+	"vid": "22107",
+	"vname": "Secuwiz",
+	"vcpe": "cpe:/:secuwiz",
+	"pid": "56835",
+	"pname": "SecuwaySSL U",
+	"pcpe": "cpe:/a:secuwiz:secuwayssl_u"
 }

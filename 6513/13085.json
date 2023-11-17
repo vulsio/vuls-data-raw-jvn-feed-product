@@ -1,8 +1,8 @@
 {
-  "vid": "6513",
-  "vname": "Monkey Project",
-  "vcpe": "cpe:/:monkey-project",
-  "pid": "13085",
-  "pname": "Monkey HTTP Daemon",
-  "pcpe": "cpe:/a:monkey-project:monkey_http_daemon"
+	"vid": "6513",
+	"vname": "Monkey Project",
+	"vcpe": "cpe:/:monkey-project",
+	"pid": "13085",
+	"pname": "Monkey HTTP Daemon",
+	"pcpe": "cpe:/a:monkey-project:monkey_http_daemon"
 }

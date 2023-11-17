@@ -1,8 +1,8 @@
 {
-  "vid": "1304",
-  "vname": "カスペルスキー",
-  "vcpe": "cpe:/:kaspersky",
-  "pid": "46366",
-  "pname": "Virus Removal Tool",
-  "pcpe": "cpe:/a:kaspersky:virus_removal_tool"
+	"vid": "1304",
+	"vname": "カスペルスキー",
+	"vcpe": "cpe:/:kaspersky",
+	"pid": "46366",
+	"pname": "Virus Removal Tool",
+	"pcpe": "cpe:/a:kaspersky:virus_removal_tool"
 }

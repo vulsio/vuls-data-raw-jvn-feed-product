@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "5552",
-  "pname": "premier pro cs4",
-  "pcpe": "cpe:/a:adobe:premier_pro_cs4"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "5552",
+	"pname": "premier pro cs4",
+	"pcpe": "cpe:/a:adobe:premier_pro_cs4"
 }

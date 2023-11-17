@@ -1,8 +1,8 @@
 {
-  "vid": "21607",
-  "vname": "VJ Infotech",
-  "vcpe": "cpe:/:vjinfotech",
-  "pid": "55489",
-  "pname": "WP Import Export",
-  "pcpe": "cpe:/a:vjinfotech:wp_import_export"
+	"vid": "21607",
+	"vname": "VJ Infotech",
+	"vcpe": "cpe:/:vjinfotech",
+	"pid": "55489",
+	"pname": "WP Import Export",
+	"pcpe": "cpe:/a:vjinfotech:wp_import_export"
 }

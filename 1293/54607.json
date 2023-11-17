@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "54607",
-  "pname": "Exploit Prevention",
-  "pcpe": "cpe:/a:sophos:exploit_prevention"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "54607",
+	"pname": "Exploit Prevention",
+	"pcpe": "cpe:/a:sophos:exploit_prevention"
 }

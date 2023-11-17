@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38408",
-  "pname": "ASA 5500 ファームウェア",
-  "pcpe": "cpe:/o:cisco:asa_5500_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38408",
+	"pname": "ASA 5500 ファームウェア",
+	"pcpe": "cpe:/o:cisco:asa_5500_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21639",
-  "vname": "LJ Apps",
-  "vcpe": "cpe:/:ljapps",
-  "pid": "61593",
-  "pname": "WP TripAdvisor Review Slider",
-  "pcpe": "cpe:/a:ljapps:wp_tripadvisor_review_slider"
+	"vid": "21639",
+	"vname": "LJ Apps",
+	"vcpe": "cpe:/:ljapps",
+	"pid": "61593",
+	"pname": "WP TripAdvisor Review Slider",
+	"pcpe": "cpe:/a:ljapps:wp_tripadvisor_review_slider"
 }

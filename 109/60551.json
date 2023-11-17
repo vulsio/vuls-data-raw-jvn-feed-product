@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "60551",
-  "pname": "LIFEBOOK A3510 ファームウェア",
-  "pcpe": "cpe:/o:fujitsu:lifebook_a3510_firmware"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "60551",
+	"pname": "LIFEBOOK A3510 ファームウェア",
+	"pcpe": "cpe:/o:fujitsu:lifebook_a3510_firmware"
 }

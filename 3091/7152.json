@@ -1,8 +1,8 @@
 {
-  "vid": "3091",
-  "vname": "Dart Communications",
-  "vcpe": "cpe:/:dart",
-  "pid": "7152",
-  "pname": "powertcp zip compression",
-  "pcpe": "cpe:/a:dart:powertcp_zip_compression"
+	"vid": "3091",
+	"vname": "Dart Communications",
+	"vcpe": "cpe:/:dart",
+	"pid": "7152",
+	"pname": "powertcp zip compression",
+	"pcpe": "cpe:/a:dart:powertcp_zip_compression"
 }

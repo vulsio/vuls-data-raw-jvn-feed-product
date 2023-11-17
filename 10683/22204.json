@@ -1,8 +1,8 @@
 {
-  "vid": "10683",
-  "vname": "affinitycu",
-  "vcpe": "cpe:/:affinitycu",
-  "pid": "22204",
-  "pname": "affinity mobile atm locator",
-  "pcpe": "cpe:/a:affinitycu:affinity_mobile_atm_locator"
+	"vid": "10683",
+	"vname": "affinitycu",
+	"vcpe": "cpe:/:affinitycu",
+	"pid": "22204",
+	"pname": "affinity mobile atm locator",
+	"pcpe": "cpe:/a:affinitycu:affinity_mobile_atm_locator"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "45371",
-  "pname": "Adobe Premiere Rush",
-  "pcpe": "cpe:/a:adobe:premiere_rush"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "45371",
+	"pname": "Adobe Premiere Rush",
+	"pcpe": "cpe:/a:adobe:premiere_rush"
 }

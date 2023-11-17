@@ -1,8 +1,8 @@
 {
-  "vid": "16874",
-  "vname": "CESNET",
-  "vcpe": "cpe:/:cesnet",
-  "pid": "40153",
-  "pname": "proxystatistics",
-  "pcpe": "cpe:/a:cesnet:proxystatistics"
+	"vid": "16874",
+	"vname": "CESNET",
+	"vcpe": "cpe:/:cesnet",
+	"pid": "40153",
+	"pname": "proxystatistics",
+	"pcpe": "cpe:/a:cesnet:proxystatistics"
 }

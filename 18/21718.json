@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "21718",
-  "pname": "IBM Security QRadar Vulnerability Manager",
-  "pcpe": "cpe:/a:ibm:qradar_vulnerability_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "21718",
+	"pname": "IBM Security QRadar Vulnerability Manager",
+	"pcpe": "cpe:/a:ibm:qradar_vulnerability_manager"
 }

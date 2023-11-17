@@ -1,8 +1,8 @@
 {
-  "vid": "16442",
-  "vname": "Tzumi Electronics",
-  "vcpe": "cpe:/:tzumi",
-  "pid": "39001",
-  "pname": "Klic Lock",
-  "pcpe": "cpe:/a:tzumi:klic_lock"
+	"vid": "16442",
+	"vname": "Tzumi Electronics",
+	"vcpe": "cpe:/:tzumi",
+	"pid": "39001",
+	"pname": "Klic Lock",
+	"pcpe": "cpe:/a:tzumi:klic_lock"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15938",
-  "vname": "WiFiRanger",
-  "vcpe": "cpe:/:wifiranger",
-  "pid": "37208",
-  "pname": "WiFiRanger ファームウェア",
-  "pcpe": "cpe:/o:wifiranger:wifiranger_firmware"
+	"vid": "15938",
+	"vname": "WiFiRanger",
+	"vcpe": "cpe:/:wifiranger",
+	"pid": "37208",
+	"pname": "WiFiRanger ファームウェア",
+	"pcpe": "cpe:/o:wifiranger:wifiranger_firmware"
 }

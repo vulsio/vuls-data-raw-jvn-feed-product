@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "23404",
-  "pname": "CentreCOM 8724SL",
-  "pcpe": "cpe:/h:allied_telesis_k.k.:centrecom_8724sl"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "23404",
+	"pname": "CentreCOM 8724SL",
+	"pcpe": "cpe:/h:allied_telesis_k.k.:centrecom_8724sl"
 }

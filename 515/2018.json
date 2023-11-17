@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "2018",
-  "pname": "VMware ACE",
-  "pcpe": "cpe:/a:vmware:ace"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "2018",
+	"pname": "VMware ACE",
+	"pcpe": "cpe:/a:vmware:ace"
 }

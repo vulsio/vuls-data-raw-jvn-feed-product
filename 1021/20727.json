@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "20727",
-  "pname": "OpenStack Juno",
-  "pcpe": "cpe:/a:openstack:juno"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "20727",
+	"pname": "OpenStack Juno",
+	"pcpe": "cpe:/a:openstack:juno"
 }

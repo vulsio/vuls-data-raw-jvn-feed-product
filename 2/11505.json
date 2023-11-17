@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "11505",
-  "pname": "debug diagnostic tool",
-  "pcpe": "cpe:/a:microsoft:debug_diagnostic_tool"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "11505",
+	"pname": "debug diagnostic tool",
+	"pcpe": "cpe:/a:microsoft:debug_diagnostic_tool"
 }

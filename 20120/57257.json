@@ -1,8 +1,8 @@
 {
-  "vid": "20120",
-  "vname": "Wow-Estore",
-  "vcpe": "cpe:/:wow-estore",
-  "pid": "57257",
-  "pname": "Float menu",
-  "pcpe": "cpe:/a:wow-estore:float_menu"
+	"vid": "20120",
+	"vname": "Wow-Estore",
+	"vcpe": "cpe:/:wow-estore",
+	"pid": "57257",
+	"pname": "Float menu",
+	"pcpe": "cpe:/a:wow-estore:float_menu"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19830",
-  "vname": "TMS-Outsource",
-  "vcpe": "cpe:/:tms-outsource",
-  "pid": "50048",
-  "pname": "wpDataTables",
-  "pcpe": "cpe:/a:tms-outsource:wpdatatables"
+	"vid": "19830",
+	"vname": "TMS-Outsource",
+	"vcpe": "cpe:/:tms-outsource",
+	"pid": "50048",
+	"pname": "wpDataTables",
+	"pcpe": "cpe:/a:tms-outsource:wpdatatables"
 }

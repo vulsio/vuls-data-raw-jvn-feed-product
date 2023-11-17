@@ -1,8 +1,8 @@
 {
-  "vid": "1382",
-  "vname": "blogcms",
-  "vcpe": "cpe:/:blogcms",
-  "pid": "4225",
-  "pname": "blog:cms",
-  "pcpe": "cpe:/a:blogcms:blog%3Acms"
+	"vid": "1382",
+	"vname": "blogcms",
+	"vcpe": "cpe:/:blogcms",
+	"pid": "4225",
+	"pname": "blog:cms",
+	"pcpe": "cpe:/a:blogcms:blog%3Acms"
 }

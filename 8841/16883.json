@@ -1,8 +1,8 @@
 {
-  "vid": "8841",
-  "vname": "MiniUPnP Project",
-  "vcpe": "cpe:/:miniupnp_project",
-  "pid": "16883",
-  "pname": "MiniUPnPd",
-  "pcpe": "cpe:/a:miniupnp_project:miniupnpd"
+	"vid": "8841",
+	"vname": "MiniUPnP Project",
+	"vcpe": "cpe:/:miniupnp_project",
+	"pid": "16883",
+	"pname": "MiniUPnPd",
+	"pcpe": "cpe:/a:miniupnp_project:miniupnpd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4457",
-  "vname": "TRENDnet",
-  "vcpe": "cpe:/:trendnet",
-  "pid": "59432",
-  "pname": "ti-pg541i ファームウェア",
-  "pcpe": "cpe:/o:trendnet:ti-pg541i_firmware"
+	"vid": "4457",
+	"vname": "TRENDnet",
+	"vcpe": "cpe:/:trendnet",
+	"pid": "59432",
+	"pname": "ti-pg541i ファームウェア",
+	"pcpe": "cpe:/o:trendnet:ti-pg541i_firmware"
 }

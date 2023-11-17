@@ -1,8 +1,8 @@
 {
-  "vid": "3838",
-  "vname": "ftp",
-  "vcpe": "cpe:/:ftp",
-  "pid": "8243",
-  "pname": "admin",
-  "pcpe": "cpe:/a:ftp:admin"
+	"vid": "3838",
+	"vname": "ftp",
+	"vcpe": "cpe:/:ftp",
+	"pid": "8243",
+	"pname": "admin",
+	"pcpe": "cpe:/a:ftp:admin"
 }

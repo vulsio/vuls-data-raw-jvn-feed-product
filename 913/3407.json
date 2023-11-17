@@ -1,8 +1,8 @@
 {
-  "vid": "913",
-  "vname": "Beijing Sunway ForceControl Technology",
-  "vcpe": "cpe:/:sunwayland",
-  "pid": "3407",
-  "pname": "pNetPower",
-  "pcpe": "cpe:/a:sunwayland:pnetpower"
+	"vid": "913",
+	"vname": "Beijing Sunway ForceControl Technology",
+	"vcpe": "cpe:/:sunwayland",
+	"pid": "3407",
+	"pname": "pNetPower",
+	"pcpe": "cpe:/a:sunwayland:pnetpower"
 }

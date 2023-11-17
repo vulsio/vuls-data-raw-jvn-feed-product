@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "12983",
-  "pname": "6131 nfc",
-  "pcpe": "cpe:/h:nokia:6131_nfc"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "12983",
+	"pname": "6131 nfc",
+	"pcpe": "cpe:/h:nokia:6131_nfc"
 }

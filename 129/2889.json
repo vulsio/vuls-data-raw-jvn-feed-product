@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2889",
-  "pname": "Job Management Partner 1/Performance Management - Web Console",
-  "pcpe": "cpe:/a:hitachi:job_management_partner_1_performance_management_web_console"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2889",
+	"pname": "Job Management Partner 1/Performance Management - Web Console",
+	"pcpe": "cpe:/a:hitachi:job_management_partner_1_performance_management_web_console"
 }

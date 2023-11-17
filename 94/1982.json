@@ -1,8 +1,8 @@
 {
-  "vid": "94",
-  "vname": "Joomla!",
-  "vcpe": "cpe:/:joomla",
-  "pid": "1982",
-  "pname": "myContent",
-  "pcpe": "cpe:/a:joomla:com_mycontent"
+	"vid": "94",
+	"vname": "Joomla!",
+	"vcpe": "cpe:/:joomla",
+	"pid": "1982",
+	"pname": "myContent",
+	"pcpe": "cpe:/a:joomla:com_mycontent"
 }

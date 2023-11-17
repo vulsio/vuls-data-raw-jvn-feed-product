@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "736",
-  "pname": "IX5500シリーズ",
-  "pcpe": "cpe:/h:nec:ix5500"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "736",
+	"pname": "IX5500シリーズ",
+	"pcpe": "cpe:/h:nec:ix5500"
 }

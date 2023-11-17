@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "43004",
-  "pname": "CARESCAPE Telemetry Server MP100R ファームウェア",
-  "pcpe": "cpe:/o:gehealthcare:carescape_telemetry_server_mp100r_firmware"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "43004",
+	"pname": "CARESCAPE Telemetry Server MP100R ファームウェア",
+	"pcpe": "cpe:/o:gehealthcare:carescape_telemetry_server_mp100r_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9458",
-  "vname": "Media5",
-  "vcpe": "cpe:/:media5",
-  "pid": "19473",
-  "pname": "Mediatrix Digital VoIP Gateways",
-  "pcpe": "cpe:/h:media5:mediatrix_voip_gateway"
+	"vid": "9458",
+	"vname": "Media5",
+	"vcpe": "cpe:/:media5",
+	"pid": "19473",
+	"pname": "Mediatrix Digital VoIP Gateways",
+	"pcpe": "cpe:/h:media5:mediatrix_voip_gateway"
 }

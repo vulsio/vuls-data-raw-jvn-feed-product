@@ -1,8 +1,8 @@
 {
-  "vid": "3467",
-  "vname": "Element-IT Software",
-  "vcpe": "cpe:/:element-it",
-  "pid": "51653",
-  "pname": "HTTP Commander",
-  "pcpe": "cpe:/a:element-it:http_commander"
+	"vid": "3467",
+	"vname": "Element-IT Software",
+	"vcpe": "cpe:/:element-it",
+	"pid": "51653",
+	"pname": "HTTP Commander",
+	"pcpe": "cpe:/a:element-it:http_commander"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25586",
-  "pname": "JG823A HP 10512 TAA Switch Chassis",
-  "pcpe": "cpe:/h:hp:jg823a_hp_10512_taa_switch_chassis"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25586",
+	"pname": "JG823A HP 10512 TAA Switch Chassis",
+	"pcpe": "cpe:/h:hp:jg823a_hp_10512_taa_switch_chassis"
 }

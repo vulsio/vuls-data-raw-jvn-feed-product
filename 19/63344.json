@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "63344",
-  "pname": "Cisco Duo",
-  "pcpe": "cpe:/a:cisco:duo"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "63344",
+	"pname": "Cisco Duo",
+	"pcpe": "cpe:/a:cisco:duo"
 }

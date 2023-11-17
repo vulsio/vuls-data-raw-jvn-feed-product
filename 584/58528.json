@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "58528",
-  "pname": "scalance x308-2m ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_x308-2m_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "58528",
+	"pname": "scalance x308-2m ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_x308-2m_firmware"
 }

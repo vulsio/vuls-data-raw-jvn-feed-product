@@ -1,8 +1,8 @@
 {
-  "vid": "13980",
-  "vname": "CyberArk Software Ltd.",
-  "vcpe": "cpe:/:cyberark",
-  "pid": "45300",
-  "pname": "Conjur OSS Helm Chart",
-  "pcpe": "cpe:/a:cyberark:conjur_oss_helm_chart"
+	"vid": "13980",
+	"vname": "CyberArk Software Ltd.",
+	"vcpe": "cpe:/:cyberark",
+	"pid": "45300",
+	"pname": "Conjur OSS Helm Chart",
+	"pcpe": "cpe:/a:cyberark:conjur_oss_helm_chart"
 }

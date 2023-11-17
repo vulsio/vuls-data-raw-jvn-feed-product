@@ -1,8 +1,8 @@
 {
-  "vid": "17605",
-  "vname": "haskell",
-  "vcpe": "cpe:/:haskell",
-  "pid": "63288",
-  "pname": "aeson",
-  "pcpe": "cpe:/a:haskell:aeson"
+	"vid": "17605",
+	"vname": "haskell",
+	"vcpe": "cpe:/:haskell",
+	"pid": "63288",
+	"pname": "aeson",
+	"pcpe": "cpe:/a:haskell:aeson"
 }

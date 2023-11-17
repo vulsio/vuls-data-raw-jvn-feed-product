@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "23885",
-  "pname": "Oracle Hyperion Smart View for Office",
-  "pcpe": "cpe:/a:oracle:hyperion_smart_view_for_office"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "23885",
+	"pname": "Oracle Hyperion Smart View for Office",
+	"pcpe": "cpe:/a:oracle:hyperion_smart_view_for_office"
 }

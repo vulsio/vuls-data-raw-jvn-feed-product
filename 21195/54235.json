@@ -1,8 +1,8 @@
 {
-  "vid": "21195",
-  "vname": "Web Ventures",
-  "vcpe": "cpe:/:webventures",
-  "pid": "54235",
-  "pname": "Client Invoicing by Sprout Invoices",
-  "pcpe": "cpe:/a:webventures:client_invoicing_by_sprout_invoices"
+	"vid": "21195",
+	"vname": "Web Ventures",
+	"vcpe": "cpe:/:webventures",
+	"pid": "54235",
+	"pname": "Client Invoicing by Sprout Invoices",
+	"pcpe": "cpe:/a:webventures:client_invoicing_by_sprout_invoices"
 }

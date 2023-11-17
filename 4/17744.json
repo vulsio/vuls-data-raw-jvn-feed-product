@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17744",
-  "pname": "LeftHand VSA",
-  "pcpe": "cpe:/h:hp:lefthand_vsa"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17744",
+	"pname": "LeftHand VSA",
+	"pcpe": "cpe:/h:hp:lefthand_vsa"
 }

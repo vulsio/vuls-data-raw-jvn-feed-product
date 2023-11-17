@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "27606",
-  "pname": "VMC3040s",
-  "pcpe": "cpe:/h:netgear:vmc3040s"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "27606",
+	"pname": "VMC3040s",
+	"pcpe": "cpe:/h:netgear:vmc3040s"
 }

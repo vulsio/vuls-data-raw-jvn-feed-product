@@ -1,8 +1,8 @@
 {
-  "vid": "833",
-  "vname": "Autartica",
-  "vcpe": "cpe:/:autartica",
-  "pid": "3256",
-  "pname": "AutarTimonial コンポーネント",
-  "pcpe": "cpe:/a:autartica:com_autartimonial"
+	"vid": "833",
+	"vname": "Autartica",
+	"vcpe": "cpe:/:autartica",
+	"pid": "3256",
+	"pname": "AutarTimonial コンポーネント",
+	"pcpe": "cpe:/a:autartica:com_autartimonial"
 }

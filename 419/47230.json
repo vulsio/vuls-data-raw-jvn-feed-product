@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "47230",
-  "pname": "Storage Replication Adapter",
-  "pcpe": "cpe:/a:netapp:storage_replication_adapter"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "47230",
+	"pname": "Storage Replication Adapter",
+	"pcpe": "cpe:/a:netapp:storage_replication_adapter"
 }

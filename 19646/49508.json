@@ -1,8 +1,8 @@
 {
-  "vid": "19646",
-  "vname": "ftpd project",
-  "vcpe": "cpe:/:ftpd_project",
-  "pid": "49508",
-  "pname": "ftpd",
-  "pcpe": "cpe:/a:ftpd_project:ftpd"
+	"vid": "19646",
+	"vname": "ftpd project",
+	"vcpe": "cpe:/:ftpd_project",
+	"pid": "49508",
+	"pname": "ftpd",
+	"pcpe": "cpe:/a:ftpd_project:ftpd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "29",
-  "vname": "エフ・セキュア",
-  "vcpe": "cpe:/:f-secure",
-  "pid": "57689",
-  "pname": "client security",
-  "pcpe": "cpe:/a:f-secure:client_security"
+	"vid": "29",
+	"vname": "エフ・セキュア",
+	"vcpe": "cpe:/:f-secure",
+	"pid": "57689",
+	"pname": "client security",
+	"pcpe": "cpe:/a:f-secure:client_security"
 }

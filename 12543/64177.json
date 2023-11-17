@@ -1,8 +1,8 @@
 {
-  "vid": "12543",
-  "vname": "EyesOfNetwork",
-  "vcpe": "cpe:/:eyesofnetwork",
-  "pid": "64177",
-  "pname": "web interface",
-  "pcpe": "cpe:/a:eyesofnetwork:web_interface"
+	"vid": "12543",
+	"vname": "EyesOfNetwork",
+	"vcpe": "cpe:/:eyesofnetwork",
+	"pid": "64177",
+	"pname": "web interface",
+	"pcpe": "cpe:/a:eyesofnetwork:web_interface"
 }

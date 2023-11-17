@@ -1,8 +1,8 @@
 {
-  "vid": "16927",
-  "vname": "GalliumOS",
-  "vcpe": "cpe:/:galliumos",
-  "pid": "40256",
-  "pname": "GalliumOS",
-  "pcpe": "cpe:/o:galliumos:galliumos"
+	"vid": "16927",
+	"vname": "GalliumOS",
+	"vcpe": "cpe:/:galliumos",
+	"pid": "40256",
+	"pname": "GalliumOS",
+	"pcpe": "cpe:/o:galliumos:galliumos"
 }

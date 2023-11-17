@@ -1,8 +1,8 @@
 {
-  "vid": "16712",
-  "vname": "ANNKE",
-  "vcpe": "cpe:/:annke",
-  "pid": "39831",
-  "pname": "SP1 ファームウェア",
-  "pcpe": "cpe:/o:annke:sp1_firmware"
+	"vid": "16712",
+	"vname": "ANNKE",
+	"vcpe": "cpe:/:annke",
+	"pid": "39831",
+	"pname": "SP1 ファームウェア",
+	"pcpe": "cpe:/o:annke:sp1_firmware"
 }

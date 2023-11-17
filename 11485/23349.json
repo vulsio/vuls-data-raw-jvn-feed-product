@@ -1,8 +1,8 @@
 {
-  "vid": "11485",
-  "vname": "PHOENIX CONTACT Software",
-  "vcpe": "cpe:/:pheonixcontact-software",
-  "pid": "23349",
-  "pname": "MULTIPROG",
-  "pcpe": "cpe:/a:pheonixcontact-software:multiprog"
+	"vid": "11485",
+	"vname": "PHOENIX CONTACT Software",
+	"vcpe": "cpe:/:pheonixcontact-software",
+	"pid": "23349",
+	"pname": "MULTIPROG",
+	"pcpe": "cpe:/a:pheonixcontact-software:multiprog"
 }

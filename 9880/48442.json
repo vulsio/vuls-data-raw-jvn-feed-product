@@ -1,8 +1,8 @@
 {
-  "vid": "9880",
-  "vname": "Docker",
-  "vcpe": "cpe:/:docker",
-  "pid": "48442",
-  "pname": "storm Docker image",
-  "pcpe": "cpe:/a:docker:storm_docker_image"
+	"vid": "9880",
+	"vname": "Docker",
+	"vcpe": "cpe:/:docker",
+	"pid": "48442",
+	"pname": "storm Docker image",
+	"pcpe": "cpe:/a:docker:storm_docker_image"
 }

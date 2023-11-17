@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "58534",
-  "pname": "scalance x320-1-2ldfe ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_x320-1-2ldfe_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "58534",
+	"pname": "scalance x320-1-2ldfe ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_x320-1-2ldfe_firmware"
 }

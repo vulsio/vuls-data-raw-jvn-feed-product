@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "41546",
-  "pname": "Syndesis",
-  "pcpe": "cpe:/a:redhat:syndesis"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "41546",
+	"pname": "Syndesis",
+	"pcpe": "cpe:/a:redhat:syndesis"
 }

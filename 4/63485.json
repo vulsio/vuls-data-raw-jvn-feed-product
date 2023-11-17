@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63485",
-  "pname": "HP EliteBook 650 G9/CT Notebook PC ファームウェア",
-  "pcpe": "cpe:/o:hp:elitebook_650_g9_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63485",
+	"pname": "HP EliteBook 650 G9/CT Notebook PC ファームウェア",
+	"pcpe": "cpe:/o:hp:elitebook_650_g9_firmware"
 }

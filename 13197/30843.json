@@ -1,8 +1,8 @@
 {
-  "vid": "13197",
-  "vname": "freesmartphone.org",
-  "vcpe": "cpe:/:misc",
-  "pid": "30843",
-  "pname": "fso-frameworkd",
-  "pcpe": "cpe:/a:misc:freesmartphone.org_fso-frameworkd"
+	"vid": "13197",
+	"vname": "freesmartphone.org",
+	"vcpe": "cpe:/:misc",
+	"pid": "30843",
+	"pname": "fso-frameworkd",
+	"pcpe": "cpe:/a:misc:freesmartphone.org_fso-frameworkd"
 }

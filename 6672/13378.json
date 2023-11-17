@@ -1,8 +1,8 @@
 {
-  "vid": "6672",
-  "vname": "Simplenews Scheduler Project",
-  "vcpe": "cpe:/:simplenews_scheduler_project",
-  "pid": "13378",
-  "pname": "Simplenews Scheduler",
-  "pcpe": "cpe:/a:simplenews_scheduler_project:simplenews_scheduler"
+	"vid": "6672",
+	"vname": "Simplenews Scheduler Project",
+	"vcpe": "cpe:/:simplenews_scheduler_project",
+	"pid": "13378",
+	"pname": "Simplenews Scheduler",
+	"pcpe": "cpe:/a:simplenews_scheduler_project:simplenews_scheduler"
 }

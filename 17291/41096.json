@@ -1,8 +1,8 @@
 {
-  "vid": "17291",
-  "vname": "Node-RED",
-  "vcpe": "cpe:/:nodered",
-  "pid": "41096",
-  "pname": "node-red-dashboard",
-  "pcpe": "cpe:/a:nodered:node-red-dashboard"
+	"vid": "17291",
+	"vname": "Node-RED",
+	"vcpe": "cpe:/:nodered",
+	"pid": "41096",
+	"pname": "node-red-dashboard",
+	"pcpe": "cpe:/a:nodered:node-red-dashboard"
 }

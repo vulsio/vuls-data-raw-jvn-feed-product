@@ -1,8 +1,8 @@
 {
-  "vid": "11494",
-  "vname": "ASUS JAPAN株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "33022",
-  "pname": "RT-AC1200HP",
-  "pcpe": "cpe:/h:misc:asus_japan_rt-ac1200hp"
+	"vid": "11494",
+	"vname": "ASUS JAPAN株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "33022",
+	"pname": "RT-AC1200HP",
+	"pcpe": "cpe:/h:misc:asus_japan_rt-ac1200hp"
 }

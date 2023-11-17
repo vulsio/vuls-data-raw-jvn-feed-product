@@ -1,8 +1,8 @@
 {
-  "vid": "19259",
-  "vname": "FlyCms project",
-  "vcpe": "cpe:/:flycms_project",
-  "pid": "48490",
-  "pname": "FlyCms",
-  "pcpe": "cpe:/a:flycms_project:flycms"
+	"vid": "19259",
+	"vname": "FlyCms project",
+	"vcpe": "cpe:/:flycms_project",
+	"pid": "48490",
+	"pname": "FlyCms",
+	"pcpe": "cpe:/a:flycms_project:flycms"
 }

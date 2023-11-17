@@ -1,8 +1,8 @@
 {
-  "vid": "13510",
-  "vname": "Zivif.",
-  "vcpe": "cpe:/:zivif",
-  "pid": "31937",
-  "pname": "PR115-204-P-RS ファームウェア",
-  "pcpe": "cpe:/o:zivif:pr115-204-p-rs_firmware"
+	"vid": "13510",
+	"vname": "Zivif.",
+	"vcpe": "cpe:/:zivif",
+	"pid": "31937",
+	"pname": "PR115-204-P-RS ファームウェア",
+	"pcpe": "cpe:/o:zivif:pr115-204-p-rs_firmware"
 }

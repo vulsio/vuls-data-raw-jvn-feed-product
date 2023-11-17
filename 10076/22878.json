@@ -1,8 +1,8 @@
 {
-  "vid": "10076",
-  "vname": "Magzter Inc.",
-  "vcpe": "cpe:/:magzter",
-  "pid": "22878",
-  "pname": "travel+leisure",
-  "pcpe": "cpe:/a:magzter:travel%2bleisure"
+	"vid": "10076",
+	"vname": "Magzter Inc.",
+	"vcpe": "cpe:/:magzter",
+	"pid": "22878",
+	"pname": "travel+leisure",
+	"pcpe": "cpe:/a:magzter:travel%2bleisure"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5471",
-  "vname": "mapos scripts",
-  "vcpe": "cpe:/:mapos_scripts",
-  "pid": "11267",
-  "pname": "shoutbox",
-  "pcpe": "cpe:/a:mapos_scripts:shoutbox"
+	"vid": "5471",
+	"vname": "mapos scripts",
+	"vcpe": "cpe:/:mapos_scripts",
+	"pid": "11267",
+	"pname": "shoutbox",
+	"pcpe": "cpe:/a:mapos_scripts:shoutbox"
 }

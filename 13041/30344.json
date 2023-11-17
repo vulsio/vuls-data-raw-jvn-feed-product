@@ -1,8 +1,8 @@
 {
-  "vid": "13041",
-  "vname": "linuxsampler",
-  "vcpe": "cpe:/:linuxsampler",
-  "pid": "30344",
-  "pname": "libgig",
-  "pcpe": "cpe:/a:linuxsampler:libgig"
+	"vid": "13041",
+	"vname": "linuxsampler",
+	"vcpe": "cpe:/:linuxsampler",
+	"pid": "30344",
+	"pname": "libgig",
+	"pcpe": "cpe:/a:linuxsampler:libgig"
 }

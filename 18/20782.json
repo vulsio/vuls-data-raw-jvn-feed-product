@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20782",
-  "pname": "IBM WebSphere DataPower SOA アプライアンス",
-  "pcpe": "cpe:/h:ibm:websphere_datapower_soa_appliance"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20782",
+	"pname": "IBM WebSphere DataPower SOA アプライアンス",
+	"pcpe": "cpe:/h:ibm:websphere_datapower_soa_appliance"
 }

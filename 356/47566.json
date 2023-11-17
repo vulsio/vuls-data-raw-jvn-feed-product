@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "47566",
-  "pname": "Cloud IoT Device SDK",
-  "pcpe": "cpe:/o:google:cloud_iot_device_sdk"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "47566",
+	"pname": "Cloud IoT Device SDK",
+	"pcpe": "cpe:/o:google:cloud_iot_device_sdk"
 }

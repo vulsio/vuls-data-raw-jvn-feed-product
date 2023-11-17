@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "13242",
-  "pname": "Elastic Load Balancing API Tools",
-  "pcpe": "cpe:/a:amazon:elastic_load_balancing_api_tools"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "13242",
+	"pname": "Elastic Load Balancing API Tools",
+	"pcpe": "cpe:/a:amazon:elastic_load_balancing_api_tools"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "7255",
-  "vname": "Realtek Semiconductor Corp",
-  "vcpe": "cpe:/:realtek",
-  "pid": "49530",
-  "pname": "RTL8195A ファームウェア",
-  "pcpe": "cpe:/o:realtek:rtl8195a_firmware"
+	"vid": "7255",
+	"vname": "Realtek Semiconductor Corp",
+	"vcpe": "cpe:/:realtek",
+	"pid": "49530",
+	"pname": "RTL8195A ファームウェア",
+	"pcpe": "cpe:/o:realtek:rtl8195a_firmware"
 }

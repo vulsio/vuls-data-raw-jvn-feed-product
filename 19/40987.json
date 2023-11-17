@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "40987",
-  "pname": "VDB Fingerprint Database",
-  "pcpe": "cpe:/a:cisco:vdb_fingerprint_database"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "40987",
+	"pname": "VDB Fingerprint Database",
+	"pcpe": "cpe:/a:cisco:vdb_fingerprint_database"
 }

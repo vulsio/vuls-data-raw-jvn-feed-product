@@ -1,8 +1,8 @@
 {
-  "vid": "16903",
-  "vname": "Sphinx Technologies Inc.",
-  "vcpe": "cpe:/:sphinxsearch",
-  "pid": "40215",
-  "pname": "Sphinx",
-  "pcpe": "cpe:/a:sphinxsearch:sphinx"
+	"vid": "16903",
+	"vname": "Sphinx Technologies Inc.",
+	"vcpe": "cpe:/:sphinxsearch",
+	"pid": "40215",
+	"pname": "Sphinx",
+	"pcpe": "cpe:/a:sphinxsearch:sphinx"
 }

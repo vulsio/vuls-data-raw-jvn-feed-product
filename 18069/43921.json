@@ -1,8 +1,8 @@
 {
-  "vid": "18069",
-  "vname": "psd-tools project",
-  "vcpe": "cpe:/:psd-tools_project",
-  "pid": "43921",
-  "pname": "psd-tools",
-  "pcpe": "cpe:/a:psd-tools_project:psd-tools"
+	"vid": "18069",
+	"vname": "psd-tools project",
+	"vcpe": "cpe:/:psd-tools_project",
+	"pid": "43921",
+	"pname": "psd-tools",
+	"pcpe": "cpe:/a:psd-tools_project:psd-tools"
 }

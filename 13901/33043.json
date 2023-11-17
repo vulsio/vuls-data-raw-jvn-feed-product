@@ -1,8 +1,8 @@
 {
-  "vid": "13901",
-  "vname": "TNLSoftSolutions",
-  "vcpe": "cpe:/:tnlsoftsolutions",
-  "pid": "33043",
-  "pname": "Sentry Vision",
-  "pcpe": "cpe:/a:tnlsoftsolutions:sentry_vision"
+	"vid": "13901",
+	"vname": "TNLSoftSolutions",
+	"vcpe": "cpe:/:tnlsoftsolutions",
+	"pid": "33043",
+	"pname": "Sentry Vision",
+	"pcpe": "cpe:/a:tnlsoftsolutions:sentry_vision"
 }

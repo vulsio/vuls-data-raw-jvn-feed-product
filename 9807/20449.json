@@ -1,8 +1,8 @@
 {
-  "vid": "9807",
-  "vname": "Pro Quoter plugin project",
-  "vcpe": "cpe:/:pro_quoter_plugin_project",
-  "pid": "20449",
-  "pname": "Pro Quoter",
-  "pcpe": "cpe:/a:pro_quoter_plugin_project:pro_quoter"
+	"vid": "9807",
+	"vname": "Pro Quoter plugin project",
+	"vcpe": "cpe:/:pro_quoter_plugin_project",
+	"pid": "20449",
+	"pname": "Pro Quoter",
+	"pcpe": "cpe:/a:pro_quoter_plugin_project:pro_quoter"
 }

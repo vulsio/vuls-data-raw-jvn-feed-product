@@ -1,8 +1,8 @@
 {
-  "vid": "21231",
-  "vname": "PgBouncer",
-  "vcpe": "cpe:/:pgbouncer",
-  "pid": "54501",
-  "pname": "PgBouncer",
-  "pcpe": "cpe:/a:pgbouncer:pgbouncer"
+	"vid": "21231",
+	"vname": "PgBouncer",
+	"vcpe": "cpe:/:pgbouncer",
+	"pid": "54501",
+	"pname": "PgBouncer",
+	"pcpe": "cpe:/a:pgbouncer:pgbouncer"
 }

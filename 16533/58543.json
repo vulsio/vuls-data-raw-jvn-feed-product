@@ -1,8 +1,8 @@
 {
-  "vid": "16533",
-  "vname": "Sick",
-  "vcpe": "cpe:/:sick",
-  "pid": "58543",
-  "pname": "overall equipment effectiveness",
-  "pcpe": "cpe:/a:sick:overall_equipment_effectiveness"
+	"vid": "16533",
+	"vname": "Sick",
+	"vcpe": "cpe:/:sick",
+	"pid": "58543",
+	"pname": "overall equipment effectiveness",
+	"pcpe": "cpe:/a:sick:overall_equipment_effectiveness"
 }

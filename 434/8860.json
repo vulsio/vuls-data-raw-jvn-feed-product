@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "8860",
-  "pname": "celerra network attached storage",
-  "pcpe": "cpe:/h:emc:celerra_network_attached_storage"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "8860",
+	"pname": "celerra network attached storage",
+	"pcpe": "cpe:/h:emc:celerra_network_attached_storage"
 }

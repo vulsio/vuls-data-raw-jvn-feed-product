@@ -1,8 +1,8 @@
 {
-  "vid": "590",
-  "vname": "freedesktop.org",
-  "vcpe": "cpe:/:freedesktop",
-  "pid": "24978",
-  "pname": "Polkit",
-  "pcpe": "cpe:/a:freedesktop:polkit"
+	"vid": "590",
+	"vname": "freedesktop.org",
+	"vcpe": "cpe:/:freedesktop",
+	"pid": "24978",
+	"pname": "Polkit",
+	"pcpe": "cpe:/a:freedesktop:polkit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24640",
-  "pname": "Cisco Edge Bluebird Operating System ソフトウェア",
-  "pcpe": "cpe:/o:cisco:edge_bluebird_operating_system"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24640",
+	"pname": "Cisco Edge Bluebird Operating System ソフトウェア",
+	"pcpe": "cpe:/o:cisco:edge_bluebird_operating_system"
 }

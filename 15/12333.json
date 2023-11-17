@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "12333",
-  "pname": "enterpriseone",
-  "pcpe": "cpe:/a:oracle:enterpriseone"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "12333",
+	"pname": "enterpriseone",
+	"pcpe": "cpe:/a:oracle:enterpriseone"
 }

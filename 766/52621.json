@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "52621",
-  "pname": "AccuSine PCSn ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:accusine_pcsn_active_harmonic_filter_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "52621",
+	"pname": "AccuSine PCSn ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:accusine_pcsn_active_harmonic_filter_firmware"
 }

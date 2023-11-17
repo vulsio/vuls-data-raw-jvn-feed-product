@@ -1,8 +1,8 @@
 {
-  "vid": "12400",
-  "vname": "FATEK Automation Corporation",
-  "vcpe": "cpe:/:fatek",
-  "pid": "28156",
-  "pname": "PLC WinProladder",
-  "pcpe": "cpe:/h:fatek:plc_winproladder"
+	"vid": "12400",
+	"vname": "FATEK Automation Corporation",
+	"vcpe": "cpe:/:fatek",
+	"pid": "28156",
+	"pname": "PLC WinProladder",
+	"pcpe": "cpe:/h:fatek:plc_winproladder"
 }

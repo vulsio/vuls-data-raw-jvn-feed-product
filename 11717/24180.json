@@ -1,8 +1,8 @@
 {
-  "vid": "11717",
-  "vname": "Beckwith Electric Co., Inc.",
-  "vcpe": "cpe:/:beckwithelectric",
-  "pid": "24180",
-  "pname": "M-6280 Digital Capacitor Bank Control ファームウェア",
-  "pcpe": "cpe:/o:beckwithelectric:m-6280_digital_capacitor_bank_control_firmware"
+	"vid": "11717",
+	"vname": "Beckwith Electric Co., Inc.",
+	"vcpe": "cpe:/:beckwithelectric",
+	"pid": "24180",
+	"pname": "M-6280 Digital Capacitor Bank Control ファームウェア",
+	"pcpe": "cpe:/o:beckwithelectric:m-6280_digital_capacitor_bank_control_firmware"
 }

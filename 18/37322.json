@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "37322",
-  "pname": "IBM Flex System x440 M4 ファームウェア",
-  "pcpe": "cpe:/o:ibm:flex_system_x440_m4_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "37322",
+	"pname": "IBM Flex System x440 M4 ファームウェア",
+	"pcpe": "cpe:/o:ibm:flex_system_x440_m4_firmware"
 }

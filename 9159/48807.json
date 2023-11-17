@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "48807",
-  "pname": "Hue ファームウェア",
-  "pcpe": "cpe:/o:philips:hue_firmware"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "48807",
+	"pname": "Hue ファームウェア",
+	"pcpe": "cpe:/o:philips:hue_firmware"
 }

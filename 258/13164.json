@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "13164",
-  "pname": "gnome-keyring",
-  "pcpe": "cpe:/a:gnome:gnome-keyring"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "13164",
+	"pname": "gnome-keyring",
+	"pcpe": "cpe:/a:gnome:gnome-keyring"
 }

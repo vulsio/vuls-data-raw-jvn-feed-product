@@ -1,8 +1,8 @@
 {
-  "vid": "7574",
-  "vname": "shoutcastadmin",
-  "vcpe": "cpe:/:shoutcastadmin",
-  "pid": "14728",
-  "pname": "wallcity-server shoutcast admin panel",
-  "pcpe": "cpe:/a:shoutcastadmin:wallcity-server_shoutcast_admin_panel"
+	"vid": "7574",
+	"vname": "shoutcastadmin",
+	"vcpe": "cpe:/:shoutcastadmin",
+	"pid": "14728",
+	"pname": "wallcity-server shoutcast admin panel",
+	"pcpe": "cpe:/a:shoutcastadmin:wallcity-server_shoutcast_admin_panel"
 }

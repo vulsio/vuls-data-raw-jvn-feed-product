@@ -1,8 +1,8 @@
 {
-  "vid": "499",
-  "vname": "Ipswitch, Inc.",
-  "vcpe": "cpe:/:ipswitch",
-  "pid": "10261",
-  "pname": "ws ftp server",
-  "pcpe": "cpe:/a:ipswitch:ws_ftp_server"
+	"vid": "499",
+	"vname": "Ipswitch, Inc.",
+	"vcpe": "cpe:/:ipswitch",
+	"pid": "10261",
+	"pname": "ws ftp server",
+	"pcpe": "cpe:/a:ipswitch:ws_ftp_server"
 }

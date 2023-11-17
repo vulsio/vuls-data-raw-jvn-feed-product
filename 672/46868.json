@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "46868",
-  "pname": "ManageEngine Application Control Plus",
-  "pcpe": "cpe:/a:zohocorp:application_control_plus"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "46868",
+	"pname": "ManageEngine Application Control Plus",
+	"pcpe": "cpe:/a:zohocorp:application_control_plus"
 }

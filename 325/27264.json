@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27264",
-  "pname": "XiaoXin Air 12 BIOS",
-  "pcpe": "cpe:/o:lenovo:notebook_xiaoxin_air_12_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27264",
+	"pname": "XiaoXin Air 12 BIOS",
+	"pcpe": "cpe:/o:lenovo:notebook_xiaoxin_air_12_bios"
 }

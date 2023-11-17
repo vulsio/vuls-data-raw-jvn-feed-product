@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31481",
-  "pname": "VTR-L29 ファームウェア",
-  "pcpe": "cpe:/o:huawei:vky-l29_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31481",
+	"pname": "VTR-L29 ファームウェア",
+	"pcpe": "cpe:/o:huawei:vky-l29_firmware"
 }

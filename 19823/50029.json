@@ -1,8 +1,8 @@
 {
-  "vid": "19823",
-  "vname": "LeXtudio",
-  "vcpe": "cpe:/:lextudio",
-  "pid": "50029",
-  "pname": "reStructuredText",
-  "pcpe": "cpe:/a:lextudio:restructuredtext"
+	"vid": "19823",
+	"vname": "LeXtudio",
+	"vcpe": "cpe:/:lextudio",
+	"pid": "50029",
+	"pname": "reStructuredText",
+	"pcpe": "cpe:/a:lextudio:restructuredtext"
 }

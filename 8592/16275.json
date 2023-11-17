@@ -1,8 +1,8 @@
 {
-  "vid": "8592",
-  "vname": "x-scripts",
-  "vcpe": "cpe:/:x-scripts",
-  "pid": "16275",
-  "pname": "x-poll",
-  "pcpe": "cpe:/a:x-scripts:x-poll"
+	"vid": "8592",
+	"vname": "x-scripts",
+	"vcpe": "cpe:/:x-scripts",
+	"pid": "16275",
+	"pname": "x-poll",
+	"pcpe": "cpe:/a:x-scripts:x-poll"
 }

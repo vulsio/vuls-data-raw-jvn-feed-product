@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "17320",
-  "pname": "telepathy-idle",
-  "pcpe": "cpe:/a:canonical:telepathy-idle"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "17320",
+	"pname": "telepathy-idle",
+	"pcpe": "cpe:/a:canonical:telepathy-idle"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8978",
-  "vname": "Heaventools Software",
-  "vcpe": "cpe:/:heaventools",
-  "pid": "17346",
-  "pname": "PE Explorer",
-  "pcpe": "cpe:/a:heaventools:pe_explorer"
+	"vid": "8978",
+	"vname": "Heaventools Software",
+	"vcpe": "cpe:/:heaventools",
+	"pid": "17346",
+	"pname": "PE Explorer",
+	"pcpe": "cpe:/a:heaventools:pe_explorer"
 }

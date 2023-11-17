@@ -1,8 +1,8 @@
 {
-  "vid": "23640",
-  "vname": "livro python project",
-  "vcpe": "cpe:/:livro_python_project",
-  "pid": "61253",
-  "pname": "livro python",
-  "pcpe": "cpe:/a:livro_python_project:livro_python"
+	"vid": "23640",
+	"vname": "livro python project",
+	"vcpe": "cpe:/:livro_python_project",
+	"pid": "61253",
+	"pname": "livro python",
+	"pcpe": "cpe:/a:livro_python_project:livro_python"
 }

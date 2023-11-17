@@ -1,8 +1,8 @@
 {
-  "vid": "22266",
-  "vname": "joinbookwyrm",
-  "vcpe": "cpe:/:joinbookwyrm",
-  "pid": "57260",
-  "pname": "BookWyrm",
-  "pcpe": "cpe:/a:joinbookwyrm:bookwyrm"
+	"vid": "22266",
+	"vname": "joinbookwyrm",
+	"vcpe": "cpe:/:joinbookwyrm",
+	"pid": "57260",
+	"pname": "BookWyrm",
+	"pcpe": "cpe:/a:joinbookwyrm:bookwyrm"
 }

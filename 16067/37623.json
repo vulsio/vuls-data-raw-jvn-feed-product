@@ -1,8 +1,8 @@
 {
-  "vid": "16067",
-  "vname": "Open Source BMS",
-  "vcpe": "cpe:/:opensourcebms",
-  "pid": "37623",
-  "pname": "Open Source Background Manager System",
-  "pcpe": "cpe:/a:opensourcebms:open_source_background_management_system"
+	"vid": "16067",
+	"vname": "Open Source BMS",
+	"vcpe": "cpe:/:opensourcebms",
+	"pid": "37623",
+	"pname": "Open Source Background Manager System",
+	"pcpe": "cpe:/a:opensourcebms:open_source_background_management_system"
 }

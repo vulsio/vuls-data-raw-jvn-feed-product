@@ -1,8 +1,8 @@
 {
-  "vid": "15202",
-  "vname": "cmft project",
-  "vcpe": "cpe:/:cmft_project",
-  "pid": "35189",
-  "pname": "cmft",
-  "pcpe": "cpe:/a:cmft_project:cmft"
+	"vid": "15202",
+	"vname": "cmft project",
+	"vcpe": "cpe:/:cmft_project",
+	"pid": "35189",
+	"pname": "cmft",
+	"pcpe": "cpe:/a:cmft_project:cmft"
 }

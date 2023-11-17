@@ -1,8 +1,8 @@
 {
-  "vid": "18298",
-  "vname": "PCS",
-  "vcpe": "cpe:/:pcs",
-  "pid": "44868",
-  "pname": "DEXICON Enterprise",
-  "pcpe": "cpe:/a:pcs:dexicon_enterprise"
+	"vid": "18298",
+	"vname": "PCS",
+	"vcpe": "cpe:/:pcs",
+	"pid": "44868",
+	"pname": "DEXICON Enterprise",
+	"pcpe": "cpe:/a:pcs:dexicon_enterprise"
 }

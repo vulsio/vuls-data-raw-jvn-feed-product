@@ -1,8 +1,8 @@
 {
-  "vid": "145",
-  "vname": "b2evolution",
-  "vcpe": "cpe:/:b2evolution",
-  "pid": "6139",
-  "pname": "starrating plugin",
-  "pcpe": "cpe:/a:b2evolution:starrating_plugin"
+	"vid": "145",
+	"vname": "b2evolution",
+	"vcpe": "cpe:/:b2evolution",
+	"pid": "6139",
+	"pname": "starrating plugin",
+	"pcpe": "cpe:/a:b2evolution:starrating_plugin"
 }

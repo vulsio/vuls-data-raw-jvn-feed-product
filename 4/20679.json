@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "20679",
-  "pname": "HP 6600 Firewall Processing Rtr Module",
-  "pcpe": "cpe:/h:hp:6600_firewall_processing_rtr_module"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "20679",
+	"pname": "HP 6600 Firewall Processing Rtr Module",
+	"pcpe": "cpe:/h:hp:6600_firewall_processing_rtr_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "236",
-  "vname": "Xen プロジェクト",
-  "vcpe": "cpe:/:xen",
-  "pid": "16979",
-  "pname": "Xen",
-  "pcpe": "cpe:/o:xen:xen"
+	"vid": "236",
+	"vname": "Xen プロジェクト",
+	"vcpe": "cpe:/:xen",
+	"pid": "16979",
+	"pname": "Xen",
+	"pcpe": "cpe:/o:xen:xen"
 }

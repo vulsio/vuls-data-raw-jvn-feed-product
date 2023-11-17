@@ -1,8 +1,8 @@
 {
-  "vid": "9213",
-  "vname": "Hercules Team",
-  "vcpe": "cpe:/:augeas",
-  "pid": "18748",
-  "pname": "Augeas",
-  "pcpe": "cpe:/a:augeas:augeas"
+	"vid": "9213",
+	"vname": "Hercules Team",
+	"vcpe": "cpe:/:augeas",
+	"pid": "18748",
+	"pname": "Augeas",
+	"pcpe": "cpe:/a:augeas:augeas"
 }

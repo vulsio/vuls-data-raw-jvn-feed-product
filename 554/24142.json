@@ -1,8 +1,8 @@
 {
-  "vid": "554",
-  "vname": "ブルーコートシステムズ",
-  "vcpe": "cpe:/:bluecoat",
-  "pid": "24142",
-  "pname": "SSL Visibility Appliance SV800",
-  "pcpe": "cpe:/h:bluecoat:ssl_visibility_appliance_sv800"
+	"vid": "554",
+	"vname": "ブルーコートシステムズ",
+	"vcpe": "cpe:/:bluecoat",
+	"pid": "24142",
+	"pname": "SSL Visibility Appliance SV800",
+	"pcpe": "cpe:/h:bluecoat:ssl_visibility_appliance_sv800"
 }

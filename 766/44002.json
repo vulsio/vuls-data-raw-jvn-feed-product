@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "44002",
-  "pname": "PMEPXM0100 ProSoft Configurator",
-  "pcpe": "cpe:/a:schneider_electric:pmepxm0100_prosoft_configurator"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "44002",
+	"pname": "PMEPXM0100 ProSoft Configurator",
+	"pcpe": "cpe:/a:schneider_electric:pmepxm0100_prosoft_configurator"
 }

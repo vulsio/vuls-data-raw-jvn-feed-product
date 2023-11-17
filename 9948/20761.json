@@ -1,8 +1,8 @@
 {
-  "vid": "9948",
-  "vname": "ゾール・メディカル",
-  "vcpe": "cpe:/:zoll",
-  "pid": "20761",
-  "pname": "ZOLL 除細動器",
-  "pcpe": "cpe:/h:zoll:monitor%2Fdefibrillator"
+	"vid": "9948",
+	"vname": "ゾール・メディカル",
+	"vcpe": "cpe:/:zoll",
+	"pid": "20761",
+	"pname": "ZOLL 除細動器",
+	"pcpe": "cpe:/h:zoll:monitor%2Fdefibrillator"
 }

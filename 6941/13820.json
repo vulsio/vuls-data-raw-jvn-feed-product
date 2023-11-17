@@ -1,8 +1,8 @@
 {
-  "vid": "6941",
-  "vname": "phpstore",
-  "vcpe": "cpe:/:phpstore",
-  "pid": "13820",
-  "pname": "auto classifieds",
-  "pcpe": "cpe:/a:phpstore:auto_classifieds"
+	"vid": "6941",
+	"vname": "phpstore",
+	"vcpe": "cpe:/:phpstore",
+	"pid": "13820",
+	"pname": "auto classifieds",
+	"pcpe": "cpe:/a:phpstore:auto_classifieds"
 }

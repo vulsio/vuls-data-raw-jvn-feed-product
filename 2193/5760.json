@@ -1,8 +1,8 @@
 {
-  "vid": "2193",
-  "vname": "amavis",
-  "vcpe": "cpe:/:amavis",
-  "pid": "5760",
-  "pname": "amavis",
-  "pcpe": "cpe:/a:amavis:amavis"
+	"vid": "2193",
+	"vname": "amavis",
+	"vcpe": "cpe:/:amavis",
+	"pid": "5760",
+	"pname": "amavis",
+	"pcpe": "cpe:/a:amavis:amavis"
 }

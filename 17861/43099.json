@@ -1,8 +1,8 @@
 {
-  "vid": "17861",
-  "vname": "Heartland Payment Systems",
-  "vcpe": "cpe:/:hcomm",
-  "pid": "43099",
-  "pname": "XPIENT IRIS",
-  "pcpe": "cpe:/a:hcomm:xpient_iris"
+	"vid": "17861",
+	"vname": "Heartland Payment Systems",
+	"vcpe": "cpe:/:hcomm",
+	"pid": "43099",
+	"pname": "XPIENT IRIS",
+	"pcpe": "cpe:/a:hcomm:xpient_iris"
 }

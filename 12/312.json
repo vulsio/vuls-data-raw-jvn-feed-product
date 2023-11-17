@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "312",
-  "pname": "TrendMicro eManager",
-  "pcpe": "cpe:/a:trendmicro:emanager"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "312",
+	"pname": "TrendMicro eManager",
+	"pcpe": "cpe:/a:trendmicro:emanager"
 }

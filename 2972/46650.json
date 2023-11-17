@@ -1,8 +1,8 @@
 {
-  "vid": "2972",
-  "vname": "corephp",
-  "vcpe": "cpe:/:corephp",
-  "pid": "46650",
-  "pname": "paGO Commerce",
-  "pcpe": "cpe:/a:corephp:pago_commerce"
+	"vid": "2972",
+	"vname": "corephp",
+	"vcpe": "cpe:/:corephp",
+	"pid": "46650",
+	"pname": "paGO Commerce",
+	"pcpe": "cpe:/a:corephp:pago_commerce"
 }

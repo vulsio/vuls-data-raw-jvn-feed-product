@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "16964",
-  "pname": "Cisco Cloud Portal",
-  "pcpe": "cpe:/a:cisco:cloud_portal"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "16964",
+	"pname": "Cisco Cloud Portal",
+	"pcpe": "cpe:/a:cisco:cloud_portal"
 }

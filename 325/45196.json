@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45196",
-  "pname": "ThinkAgile HX2520-R ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkagile_hx2520-r_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45196",
+	"pname": "ThinkAgile HX2520-R ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkagile_hx2520-r_firmware"
 }

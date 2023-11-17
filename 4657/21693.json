@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "21693",
-  "pname": "E5180s-22 ファームウェア",
-  "pcpe": "cpe:/o:huawei:e5180s-22_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "21693",
+	"pname": "E5180s-22 ファームウェア",
+	"pcpe": "cpe:/o:huawei:e5180s-22_firmware"
 }

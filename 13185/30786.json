@@ -1,8 +1,8 @@
 {
-  "vid": "13185",
-  "vname": "phpBugTracker project",
-  "vcpe": "cpe:/:phpbugtracker_project",
-  "pid": "30786",
-  "pname": "phpBugTracker",
-  "pcpe": "cpe:/a:phpbugtracker_project:phpbugtracker"
+	"vid": "13185",
+	"vname": "phpBugTracker project",
+	"vcpe": "cpe:/:phpbugtracker_project",
+	"pid": "30786",
+	"pname": "phpBugTracker",
+	"pcpe": "cpe:/a:phpbugtracker_project:phpbugtracker"
 }

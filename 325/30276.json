@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30276",
-  "pname": "ThinkCentre M900Z ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m900z_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30276",
+	"pname": "ThinkCentre M900Z ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m900z_firmware"
 }

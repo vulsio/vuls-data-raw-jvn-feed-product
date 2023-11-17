@@ -1,8 +1,8 @@
 {
-  "vid": "1686",
-  "vname": "realpage",
-  "vcpe": "cpe:/:realpage",
-  "pid": "4743",
-  "pname": "module activex controls",
-  "pcpe": "cpe:/a:realpage:module_activex_controls"
+	"vid": "1686",
+	"vname": "realpage",
+	"vcpe": "cpe:/:realpage",
+	"pid": "4743",
+	"pname": "module activex controls",
+	"pcpe": "cpe:/a:realpage:module_activex_controls"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "38874",
-  "pname": "DIVAR IP 3000 ファームウェア",
-  "pcpe": "cpe:/o:bosch:dip_3000_firmware"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "38874",
+	"pname": "DIVAR IP 3000 ファームウェア",
+	"pcpe": "cpe:/o:bosch:dip_3000_firmware"
 }

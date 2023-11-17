@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "19909",
-  "pname": "Citrix VDI-in-a-Box",
-  "pcpe": "cpe:/a:citrix:vdi-in-a-box"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "19909",
+	"pname": "Citrix VDI-in-a-Box",
+	"pcpe": "cpe:/a:citrix:vdi-in-a-box"
 }

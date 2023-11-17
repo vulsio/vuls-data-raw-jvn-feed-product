@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "50420",
-  "pname": "Antivirus Essential",
-  "pcpe": "cpe:/a:synology:antivirus_essential"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "50420",
+	"pname": "Antivirus Essential",
+	"pcpe": "cpe:/a:synology:antivirus_essential"
 }

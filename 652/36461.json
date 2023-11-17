@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "36461",
-  "pname": "Samsung Notes",
-  "pcpe": "cpe:/a:samsung:notes"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "36461",
+	"pname": "Samsung Notes",
+	"pcpe": "cpe:/a:samsung:notes"
 }

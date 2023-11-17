@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "18593",
-  "pname": "Sun System Firmware",
-  "pcpe": "cpe:/o:oracle:sun_system_firmware"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "18593",
+	"pname": "Sun System Firmware",
+	"pcpe": "cpe:/o:oracle:sun_system_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "3485",
-  "pname": "Microsoft Office Pinyin New Experience Style",
-  "pcpe": "cpe:/a:microsoft:pinyin_new_experience_style"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "3485",
+	"pname": "Microsoft Office Pinyin New Experience Style",
+	"pcpe": "cpe:/a:microsoft:pinyin_new_experience_style"
 }

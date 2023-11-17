@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31321",
-  "pname": "G8 ファームウェア",
-  "pcpe": "cpe:/o:huawei:g8_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31321",
+	"pname": "G8 ファームウェア",
+	"pcpe": "cpe:/o:huawei:g8_firmware"
 }

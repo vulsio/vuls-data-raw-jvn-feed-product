@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52805",
-  "pname": "QCA8337 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qca8337_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52805",
+	"pname": "QCA8337 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qca8337_firmware"
 }

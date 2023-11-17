@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23748",
-  "pname": "Cisco Small Business SPA300 シリーズ IP Phone ファームウェア",
-  "pcpe": "cpe:/o:cisco:spa300_series_ip_phone_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23748",
+	"pname": "Cisco Small Business SPA300 シリーズ IP Phone ファームウェア",
+	"pcpe": "cpe:/o:cisco:spa300_series_ip_phone_firmware"
 }

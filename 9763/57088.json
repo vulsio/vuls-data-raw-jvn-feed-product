@@ -1,8 +1,8 @@
 {
-  "vid": "9763",
-  "vname": "Rocket Software",
-  "vcpe": "cpe:/:rocketsoftware",
-  "pid": "57088",
-  "pname": "TRUfusion Enterprise",
-  "pcpe": "cpe:/a:rocketsoftware:trufusion_enterprise"
+	"vid": "9763",
+	"vname": "Rocket Software",
+	"vcpe": "cpe:/:rocketsoftware",
+	"pid": "57088",
+	"pname": "TRUfusion Enterprise",
+	"pcpe": "cpe:/a:rocketsoftware:trufusion_enterprise"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4967",
-  "vname": "jevents",
-  "vcpe": "cpe:/:jevents",
-  "pid": "10420",
-  "pname": "jevents search plugin",
-  "pcpe": "cpe:/a:jevents:jevents_search_plugin"
+	"vid": "4967",
+	"vname": "jevents",
+	"vcpe": "cpe:/:jevents",
+	"pid": "10420",
+	"pname": "jevents search plugin",
+	"pcpe": "cpe:/a:jevents:jevents_search_plugin"
 }

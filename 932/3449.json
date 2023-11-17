@@ -1,8 +1,8 @@
 {
-  "vid": "932",
-  "vname": "WeBid Support",
-  "vcpe": "cpe:/:webidsupport",
-  "pid": "3449",
-  "pname": "WeBid",
-  "pcpe": "cpe:/a:webidsupport:webid"
+	"vid": "932",
+	"vname": "WeBid Support",
+	"vcpe": "cpe:/:webidsupport",
+	"pid": "3449",
+	"pname": "WeBid",
+	"pcpe": "cpe:/a:webidsupport:webid"
 }

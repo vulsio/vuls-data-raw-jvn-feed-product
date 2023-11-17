@@ -1,8 +1,8 @@
 {
-  "vid": "6150",
-  "vname": "openrat",
-  "vcpe": "cpe:/:openrat",
-  "pid": "12303",
-  "pname": "openrat cms",
-  "pcpe": "cpe:/a:openrat:openrat_cms"
+	"vid": "6150",
+	"vname": "openrat",
+	"vcpe": "cpe:/:openrat",
+	"pid": "12303",
+	"pname": "openrat cms",
+	"pcpe": "cpe:/a:openrat:openrat_cms"
 }

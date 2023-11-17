@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "63826",
-  "pname": "bi-acc-report ファームウェア",
-  "pcpe": "cpe:/o:huawei:bi-acc-report_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "63826",
+	"pname": "bi-acc-report ファームウェア",
+	"pcpe": "cpe:/o:huawei:bi-acc-report_firmware"
 }

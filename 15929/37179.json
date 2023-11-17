@@ -1,8 +1,8 @@
 {
-  "vid": "15929",
-  "vname": "Encodable",
-  "vcpe": "cpe:/:encodable",
-  "pid": "37179",
-  "pname": "FileChucker",
-  "pcpe": "cpe:/a:encodable:filechucker"
+	"vid": "15929",
+	"vname": "Encodable",
+	"vcpe": "cpe:/:encodable",
+	"pid": "37179",
+	"pname": "FileChucker",
+	"pcpe": "cpe:/a:encodable:filechucker"
 }

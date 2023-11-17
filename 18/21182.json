@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "21182",
-  "pname": "IBM Virtual Fabric 10Gb Switch Module for IBM BladeCenter",
-  "pcpe": "cpe:/h:ibm:bladecenter_10g_vfsm"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "21182",
+	"pname": "IBM Virtual Fabric 10Gb Switch Module for IBM BladeCenter",
+	"pcpe": "cpe:/h:ibm:bladecenter_10g_vfsm"
 }

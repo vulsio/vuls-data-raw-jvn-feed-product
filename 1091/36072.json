@@ -1,8 +1,8 @@
 {
-  "vid": "1091",
-  "vname": "AirTies",
-  "vcpe": "cpe:/:airties",
-  "pid": "36072",
-  "pname": "Air 5442 ファームウェア",
-  "pcpe": "cpe:/o:airties:air_5442_firmware"
+	"vid": "1091",
+	"vname": "AirTies",
+	"vcpe": "cpe:/:airties",
+	"pid": "36072",
+	"pname": "Air 5442 ファームウェア",
+	"pcpe": "cpe:/o:airties:air_5442_firmware"
 }

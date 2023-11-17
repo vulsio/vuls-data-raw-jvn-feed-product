@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "42097",
-  "pname": "Relion 670 ファームウェア",
-  "pcpe": "cpe:/o:abb:relion_670_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "42097",
+	"pname": "Relion 670 ファームウェア",
+	"pcpe": "cpe:/o:abb:relion_670_firmware"
 }

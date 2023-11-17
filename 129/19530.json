@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "19530",
-  "pname": "プログラミング環境 for Java",
-  "pcpe": "cpe:/a:hitachi:programming_environment_for_java"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "19530",
+	"pname": "プログラミング環境 for Java",
+	"pcpe": "cpe:/a:hitachi:programming_environment_for_java"
 }

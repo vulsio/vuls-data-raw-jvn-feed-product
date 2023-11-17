@@ -1,8 +1,8 @@
 {
-  "vid": "14990",
-  "vname": "Angular Redactor project",
-  "vcpe": "cpe:/:angular_redactor_project",
-  "pid": "34909",
-  "pname": "Angular Redactor",
-  "pcpe": "cpe:/a:angular_redactor_project:angular_redactor"
+	"vid": "14990",
+	"vname": "Angular Redactor project",
+	"vcpe": "cpe:/:angular_redactor_project",
+	"pid": "34909",
+	"pname": "Angular Redactor",
+	"pcpe": "cpe:/a:angular_redactor_project:angular_redactor"
 }

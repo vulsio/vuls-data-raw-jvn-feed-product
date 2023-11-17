@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "38240",
-  "pname": "GeForce GtX 960M ファームウェア",
-  "pcpe": "cpe:/o:nvidia:geforce_gtx_960m_firmware"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "38240",
+	"pname": "GeForce GtX 960M ファームウェア",
+	"pcpe": "cpe:/o:nvidia:geforce_gtx_960m_firmware"
 }

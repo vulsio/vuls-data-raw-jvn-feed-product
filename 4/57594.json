@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "57594",
-  "pname": "HP Z4 G4 Workstation Core X ファームウェア",
-  "pcpe": "cpe:/o:hp:z4_g4_workstation_%28core-x%29_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "57594",
+	"pname": "HP Z4 G4 Workstation Core X ファームウェア",
+	"pcpe": "cpe:/o:hp:z4_g4_workstation_%28core-x%29_firmware"
 }

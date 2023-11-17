@@ -1,8 +1,8 @@
 {
-  "vid": "21145",
-  "vname": "Loco Translate project",
-  "vcpe": "cpe:/:loco_translate_project",
-  "pid": "54073",
-  "pname": "Loco Translate",
-  "pcpe": "cpe:/a:loco_translate_project:loco_translate"
+	"vid": "21145",
+	"vname": "Loco Translate project",
+	"vcpe": "cpe:/:loco_translate_project",
+	"pid": "54073",
+	"pname": "Loco Translate",
+	"pcpe": "cpe:/a:loco_translate_project:loco_translate"
 }

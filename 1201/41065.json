@@ -1,8 +1,8 @@
 {
-  "vid": "1201",
-  "vname": "NetSarang",
-  "vcpe": "cpe:/:netsarang",
-  "pid": "41065",
-  "pname": "XFTP",
-  "pcpe": "cpe:/a:netsarang:xftp"
+	"vid": "1201",
+	"vname": "NetSarang",
+	"vcpe": "cpe:/:netsarang",
+	"pid": "41065",
+	"pname": "XFTP",
+	"pcpe": "cpe:/a:netsarang:xftp"
 }

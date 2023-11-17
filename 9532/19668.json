@@ -1,8 +1,8 @@
 {
-  "vid": "9532",
-  "vname": "Logilab.org",
-  "vcpe": "cpe:/:logilab",
-  "pid": "19668",
-  "pname": "logilab-common",
-  "pcpe": "cpe:/a:logilab:logilab-common"
+	"vid": "9532",
+	"vname": "Logilab.org",
+	"vcpe": "cpe:/:logilab",
+	"pid": "19668",
+	"pname": "logilab-common",
+	"pcpe": "cpe:/a:logilab:logilab-common"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "51680",
-  "pname": "Rockwell Automation 1769 CompactLogix L32e コントローラファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:compactlogix_1769-l32e_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "51680",
+	"pname": "Rockwell Automation 1769 CompactLogix L32e コントローラファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:compactlogix_1769-l32e_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "38606",
-  "pname": "8100L/8 ファームウェア",
-  "pcpe": "cpe:/o:allied_telesis_k.k.:8100l%2f8_firmware"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "38606",
+	"pname": "8100L/8 ファームウェア",
+	"pcpe": "cpe:/o:allied_telesis_k.k.:8100l%2f8_firmware"
 }

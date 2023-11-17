@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27344",
-  "pname": "ThinkPad T440u BIOS",
-  "pcpe": "cpe:/o:lenovo:thinkpad_t440u_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27344",
+	"pname": "ThinkPad T440u BIOS",
+	"pcpe": "cpe:/o:lenovo:thinkpad_t440u_bios"
 }

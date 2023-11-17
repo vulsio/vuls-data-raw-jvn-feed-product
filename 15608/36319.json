@@ -1,8 +1,8 @@
 {
-  "vid": "15608",
-  "vname": "oBike Inc.",
-  "vcpe": "cpe:/:o.bike",
-  "pid": "36319",
-  "pname": "Smart Locker ファームウェア",
-  "pcpe": "cpe:/o:o.bike:smart_locker_firmware"
+	"vid": "15608",
+	"vname": "oBike Inc.",
+	"vcpe": "cpe:/:o.bike",
+	"pid": "36319",
+	"pname": "Smart Locker ファームウェア",
+	"pcpe": "cpe:/o:o.bike:smart_locker_firmware"
 }

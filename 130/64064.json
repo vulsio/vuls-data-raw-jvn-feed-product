@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "64064",
-  "pname": "oneapi deep neural network",
-  "pcpe": "cpe:/a:intel:oneapi_deep_neural_network"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "64064",
+	"pname": "oneapi deep neural network",
+	"pcpe": "cpe:/a:intel:oneapi_deep_neural_network"
 }

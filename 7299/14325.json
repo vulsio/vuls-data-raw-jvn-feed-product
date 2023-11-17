@@ -1,8 +1,8 @@
 {
-  "vid": "7299",
-  "vname": "retro64",
-  "vcpe": "cpe:/:retro64",
-  "pid": "14325",
-  "pname": "cr64loader activex control",
-  "pcpe": "cpe:/a:retro64:cr64loader_activex_control"
+	"vid": "7299",
+	"vname": "retro64",
+	"vcpe": "cpe:/:retro64",
+	"pid": "14325",
+	"pname": "cr64loader activex control",
+	"pcpe": "cpe:/a:retro64:cr64loader_activex_control"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4025",
-  "pname": "Tivoli Asset Management for IT",
-  "pcpe": "cpe:/a:ibm:tivoli_asset_management_for_it"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4025",
+	"pname": "Tivoli Asset Management for IT",
+	"pcpe": "cpe:/a:ibm:tivoli_asset_management_for_it"
 }

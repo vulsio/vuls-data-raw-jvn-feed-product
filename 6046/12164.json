@@ -1,8 +1,8 @@
 {
-  "vid": "6046",
-  "vname": "nusoftware",
-  "vcpe": "cpe:/:nusoftware",
-  "pid": "12164",
-  "pname": "nubuilder",
-  "pcpe": "cpe:/a:nusoftware:nubuilder"
+	"vid": "6046",
+	"vname": "nusoftware",
+	"vcpe": "cpe:/:nusoftware",
+	"pid": "12164",
+	"pname": "nubuilder",
+	"pcpe": "cpe:/a:nusoftware:nubuilder"
 }

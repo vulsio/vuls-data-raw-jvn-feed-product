@@ -1,8 +1,8 @@
 {
-  "vid": "19374",
-  "vname": "Spotweb project",
-  "vcpe": "cpe:/:spotweb_project",
-  "pid": "48798",
-  "pname": "Spotweb",
-  "pcpe": "cpe:/a:spotweb_project:spotweb"
+	"vid": "19374",
+	"vname": "Spotweb project",
+	"vcpe": "cpe:/:spotweb_project",
+	"pid": "48798",
+	"pname": "Spotweb",
+	"pcpe": "cpe:/a:spotweb_project:spotweb"
 }

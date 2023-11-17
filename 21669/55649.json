@@ -1,8 +1,8 @@
 {
-  "vid": "21669",
-  "vname": "The Kyverno Authors",
-  "vcpe": "cpe:/:kyverno",
-  "pid": "55649",
-  "pname": "Kyverno",
-  "pcpe": "cpe:/a:kyverno:kyverno"
+	"vid": "21669",
+	"vname": "The Kyverno Authors",
+	"vcpe": "cpe:/:kyverno",
+	"pid": "55649",
+	"pname": "Kyverno",
+	"pcpe": "cpe:/a:kyverno:kyverno"
 }

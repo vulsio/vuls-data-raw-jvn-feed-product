@@ -1,8 +1,8 @@
 {
-  "vid": "12557",
-  "vname": "Zulip",
-  "vcpe": "cpe:/:zulip",
-  "pid": "43892",
-  "pname": "Zulip Desktop",
-  "pcpe": "cpe:/a:zulip:zulip_desktop"
+	"vid": "12557",
+	"vname": "Zulip",
+	"vcpe": "cpe:/:zulip",
+	"pid": "43892",
+	"pname": "Zulip Desktop",
+	"pcpe": "cpe:/a:zulip:zulip_desktop"
 }

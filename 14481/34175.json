@@ -1,8 +1,8 @@
 {
-  "vid": "14481",
-  "vname": "gamegene",
-  "vcpe": "cpe:/:neo_genesis_token_project",
-  "pid": "34175",
-  "pname": "neo genesis token",
-  "pcpe": "cpe:/a:neo_genesis_token_project:neo_genesis_token"
+	"vid": "14481",
+	"vname": "gamegene",
+	"vcpe": "cpe:/:neo_genesis_token_project",
+	"pid": "34175",
+	"pname": "neo genesis token",
+	"pcpe": "cpe:/a:neo_genesis_token_project:neo_genesis_token"
 }

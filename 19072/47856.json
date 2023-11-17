@@ -1,8 +1,8 @@
 {
-  "vid": "19072",
-  "vname": "nb-connect project",
-  "vcpe": "cpe:/:nb-connect_project",
-  "pid": "47856",
-  "pname": "nb-connect",
-  "pcpe": "cpe:/a:nb-connect_project:nb-connect"
+	"vid": "19072",
+	"vname": "nb-connect project",
+	"vcpe": "cpe:/:nb-connect_project",
+	"pid": "47856",
+	"pname": "nb-connect",
+	"pcpe": "cpe:/a:nb-connect_project:nb-connect"
 }

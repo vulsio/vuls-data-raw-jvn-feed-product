@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17665",
-  "pname": "HP LeftHand Virtual SAN Appliance hydra",
-  "pcpe": "cpe:/a:hp:lefthand_virtual_san_appliance_hydra"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17665",
+	"pname": "HP LeftHand Virtual SAN Appliance hydra",
+	"pcpe": "cpe:/a:hp:lefthand_virtual_san_appliance_hydra"
 }

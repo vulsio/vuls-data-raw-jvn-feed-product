@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "38222",
-  "pname": "IBM Spectrum Protect Backup-Archive Client",
-  "pcpe": "cpe:/a:ibm:spectrum_protect_backup-archive_client"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "38222",
+	"pname": "IBM Spectrum Protect Backup-Archive Client",
+	"pcpe": "cpe:/a:ibm:spectrum_protect_backup-archive_client"
 }

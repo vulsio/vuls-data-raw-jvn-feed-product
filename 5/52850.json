@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52850",
-  "pname": "SDX50M ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sdx50m_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52850",
+	"pname": "SDX50M ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sdx50m_firmware"
 }

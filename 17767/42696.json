@@ -1,8 +1,8 @@
 {
-  "vid": "17767",
-  "vname": "Safend",
-  "vcpe": "cpe:/:safend",
-  "pid": "42696",
-  "pname": "Data Protector Agent",
-  "pcpe": "cpe:/a:safend:data_protector_agent"
+	"vid": "17767",
+	"vname": "Safend",
+	"vcpe": "cpe:/:safend",
+	"pid": "42696",
+	"pname": "Data Protector Agent",
+	"pcpe": "cpe:/a:safend:data_protector_agent"
 }

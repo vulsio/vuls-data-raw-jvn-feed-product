@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "57319",
-  "pname": "Aficio SP 3500SF ファームウェア",
-  "pcpe": "cpe:/o:ricoh:aficio_sp_3500sf_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "57319",
+	"pname": "Aficio SP 3500SF ファームウェア",
+	"pcpe": "cpe:/o:ricoh:aficio_sp_3500sf_firmware"
 }

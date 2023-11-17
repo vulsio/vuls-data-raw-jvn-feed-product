@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26046",
-  "pname": "Oracle Tuxedo",
-  "pcpe": "cpe:/a:oracle:tuxedo"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26046",
+	"pname": "Oracle Tuxedo",
+	"pcpe": "cpe:/a:oracle:tuxedo"
 }

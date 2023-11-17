@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "55251",
-  "pname": "Oracle HCM Common Architecture",
-  "pcpe": "cpe:/a:oracle:hcm_common_architecture"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "55251",
+	"pname": "Oracle HCM Common Architecture",
+	"pcpe": "cpe:/a:oracle:hcm_common_architecture"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19147",
-  "vname": "Xylem Inc.",
-  "vcpe": "cpe:/:misc",
-  "pid": "48094",
-  "pname": "MultiSmart Gen-2",
-  "pcpe": "cpe:/a:misc:xylem_multismart_gen-2"
+	"vid": "19147",
+	"vname": "Xylem Inc.",
+	"vcpe": "cpe:/:misc",
+	"pid": "48094",
+	"pname": "MultiSmart Gen-2",
+	"pcpe": "cpe:/a:misc:xylem_multismart_gen-2"
 }

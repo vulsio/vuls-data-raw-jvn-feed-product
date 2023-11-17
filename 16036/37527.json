@@ -1,8 +1,8 @@
 {
-  "vid": "16036",
-  "vname": "Drager",
-  "vcpe": "cpe:/:draeger",
-  "pid": "37527",
-  "pname": "Infinity Kappa ファームウェア",
-  "pcpe": "cpe:/o:draeger:kappa_firmware"
+	"vid": "16036",
+	"vname": "Drager",
+	"vcpe": "cpe:/:draeger",
+	"pid": "37527",
+	"pname": "Infinity Kappa ファームウェア",
+	"pcpe": "cpe:/o:draeger:kappa_firmware"
 }

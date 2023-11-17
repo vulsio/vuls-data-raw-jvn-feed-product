@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1202",
-  "pname": "TPBroker Object Transaction Monitor",
-  "pcpe": "cpe:/a:hitachi:tpbroker_object_transaction_monitor"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1202",
+	"pname": "TPBroker Object Transaction Monitor",
+	"pcpe": "cpe:/a:hitachi:tpbroker_object_transaction_monitor"
 }

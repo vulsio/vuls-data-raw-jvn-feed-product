@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "19507",
-  "pname": "Red Hat Network Proxy",
-  "pcpe": "cpe:/a:redhat:network_proxy"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "19507",
+	"pname": "Red Hat Network Proxy",
+	"pcpe": "cpe:/a:redhat:network_proxy"
 }

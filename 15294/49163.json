@@ -1,8 +1,8 @@
 {
-  "vid": "15294",
-  "vname": "AVEVA",
-  "vcpe": "cpe:/:aveva",
-  "pid": "49163",
-  "pname": "AVEVA Software Platform Common Services",
-  "pcpe": "cpe:/a:aveva:aveva_software_platform_common_services"
+	"vid": "15294",
+	"vname": "AVEVA",
+	"vcpe": "cpe:/:aveva",
+	"pid": "49163",
+	"pname": "AVEVA Software Platform Common Services",
+	"pcpe": "cpe:/a:aveva:aveva_software_platform_common_services"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2980",
-  "vname": "JetAudio",
-  "vcpe": "cpe:/:jetaudio",
-  "pid": "7009",
-  "pname": "jetAudio",
-  "pcpe": "cpe:/a:jetaudio:jetaudio"
+	"vid": "2980",
+	"vname": "JetAudio",
+	"vcpe": "cpe:/:jetaudio",
+	"pid": "7009",
+	"pname": "jetAudio",
+	"pcpe": "cpe:/a:jetaudio:jetaudio"
 }

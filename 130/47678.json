@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "47678",
-  "pname": "Intel SSD Pro 7600p ファームウェア",
-  "pcpe": "cpe:/o:intel:ssd_pro_7600p_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "47678",
+	"pname": "Intel SSD Pro 7600p ファームウェア",
+	"pcpe": "cpe:/o:intel:ssd_pro_7600p_firmware"
 }

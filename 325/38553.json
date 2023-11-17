@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "38553",
-  "pname": "Flex System x240 M5 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:flex_system_x240_m5_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "38553",
+	"pname": "Flex System x240 M5 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:flex_system_x240_m5_firmware"
 }

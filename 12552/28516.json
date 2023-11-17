@@ -1,8 +1,8 @@
 {
-  "vid": "12552",
-  "vname": "Portrait Displays, Inc.",
-  "vcpe": "cpe:/:misc",
-  "pid": "28516",
-  "pname": "Portrait Displays SDK",
-  "pcpe": "cpe:/a:misc:portrait_displays_sdk"
+	"vid": "12552",
+	"vname": "Portrait Displays, Inc.",
+	"vcpe": "cpe:/:misc",
+	"pid": "28516",
+	"pname": "Portrait Displays SDK",
+	"pcpe": "cpe:/a:misc:portrait_displays_sdk"
 }

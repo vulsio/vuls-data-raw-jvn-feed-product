@@ -1,8 +1,8 @@
 {
-  "vid": "12955",
-  "vname": "Kubernetes",
-  "vcpe": "cpe:/:kubernetes",
-  "pid": "33733",
-  "pname": "CRI-O",
-  "pcpe": "cpe:/a:kubernetes:cri-o"
+	"vid": "12955",
+	"vname": "Kubernetes",
+	"vcpe": "cpe:/:kubernetes",
+	"pid": "33733",
+	"pname": "CRI-O",
+	"pcpe": "cpe:/a:kubernetes:cri-o"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "51230",
-  "pname": "LAPQC71A ファームウェア",
-  "pcpe": "cpe:/o:intel:lapqc71a_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "51230",
+	"pname": "LAPQC71A ファームウェア",
+	"pcpe": "cpe:/o:intel:lapqc71a_firmware"
 }

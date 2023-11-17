@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "55627",
-  "pname": "Azure Data Box Gateway",
-  "pcpe": "cpe:/a:microsoft:azure_data_box_gateway"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "55627",
+	"pname": "Azure Data Box Gateway",
+	"pcpe": "cpe:/a:microsoft:azure_data_box_gateway"
 }

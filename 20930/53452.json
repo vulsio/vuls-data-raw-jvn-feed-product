@@ -1,8 +1,8 @@
 {
-  "vid": "20930",
-  "vname": "Awesome Weather Widget project",
-  "vcpe": "cpe:/:awesome_weather_widget_project",
-  "pid": "53452",
-  "pname": "Awesome Weather Widget",
-  "pcpe": "cpe:/a:awesome_weather_widget_project:awesome_weather_widget"
+	"vid": "20930",
+	"vname": "Awesome Weather Widget project",
+	"vcpe": "cpe:/:awesome_weather_widget_project",
+	"pid": "53452",
+	"pname": "Awesome Weather Widget",
+	"pcpe": "cpe:/a:awesome_weather_widget_project:awesome_weather_widget"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9442",
-  "vname": "Franklin Fueling Systems",
-  "vcpe": "cpe:/:franklinfueling",
-  "pid": "58361",
-  "pname": "colibri ファームウェア",
-  "pcpe": "cpe:/o:franklinfueling:colibri_firmware"
+	"vid": "9442",
+	"vname": "Franklin Fueling Systems",
+	"vcpe": "cpe:/:franklinfueling",
+	"pid": "58361",
+	"pname": "colibri ファームウェア",
+	"pcpe": "cpe:/o:franklinfueling:colibri_firmware"
 }

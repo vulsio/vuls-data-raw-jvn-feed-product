@@ -1,8 +1,8 @@
 {
-  "vid": "19340",
-  "vname": "Macally",
-  "vcpe": "cpe:/:macally",
-  "pid": "48719",
-  "pname": "WIFISD2-2A82 ファームウェア",
-  "pcpe": "cpe:/o:macally:wifisd2-2a82_firmware"
+	"vid": "19340",
+	"vname": "Macally",
+	"vcpe": "cpe:/:macally",
+	"pid": "48719",
+	"pname": "WIFISD2-2A82 ファームウェア",
+	"pcpe": "cpe:/o:macally:wifisd2-2a82_firmware"
 }

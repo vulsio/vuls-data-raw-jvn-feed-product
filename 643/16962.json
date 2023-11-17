@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "16962",
-  "pname": "PowerConnect 6248P",
-  "pcpe": "cpe:/h:dell:powerconnect_6248p"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "16962",
+	"pname": "PowerConnect 6248P",
+	"pcpe": "cpe:/h:dell:powerconnect_6248p"
 }

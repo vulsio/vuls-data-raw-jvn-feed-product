@@ -1,8 +1,8 @@
 {
-  "vid": "16",
-  "vname": "チェック・ポイント・ソフトウェア・テクノロジーズ",
-  "vcpe": "cpe:/:checkpoint",
-  "pid": "5291",
-  "pname": "Endpoint Security VPN",
-  "pcpe": "cpe:/a:checkpoint:endpoint_security_vpn"
+	"vid": "16",
+	"vname": "チェック・ポイント・ソフトウェア・テクノロジーズ",
+	"vcpe": "cpe:/:checkpoint",
+	"pid": "5291",
+	"pname": "Endpoint Security VPN",
+	"pcpe": "cpe:/a:checkpoint:endpoint_security_vpn"
 }

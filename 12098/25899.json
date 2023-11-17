@@ -1,8 +1,8 @@
 {
-  "vid": "12098",
-  "vname": "TorchSoft",
-  "vcpe": "cpe:/:torchsoft",
-  "pid": "25899",
-  "pname": "Malware Defender",
-  "pcpe": "cpe:/a:torchsoft:malware_defender"
+	"vid": "12098",
+	"vname": "TorchSoft",
+	"vcpe": "cpe:/:torchsoft",
+	"pid": "25899",
+	"pname": "Malware Defender",
+	"pcpe": "cpe:/a:torchsoft:malware_defender"
 }

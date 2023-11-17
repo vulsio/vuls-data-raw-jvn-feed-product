@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "59094",
-  "pname": "ideacentre 510s-07ick ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideacentre_510s-07ick_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "59094",
+	"pname": "ideacentre 510s-07ick ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideacentre_510s-07ick_firmware"
 }

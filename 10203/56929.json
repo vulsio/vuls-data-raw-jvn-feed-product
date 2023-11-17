@@ -1,8 +1,8 @@
 {
-  "vid": "10203",
-  "vname": "NetComm Wireless Limited.",
-  "vcpe": "cpe:/:netcommwireless",
-  "pid": "56929",
-  "pname": "NF20 ファームウェア",
-  "pcpe": "cpe:/o:netcommwireless:nf20_firmware"
+	"vid": "10203",
+	"vname": "NetComm Wireless Limited.",
+	"vcpe": "cpe:/:netcommwireless",
+	"pid": "56929",
+	"pname": "NF20 ファームウェア",
+	"pcpe": "cpe:/o:netcommwireless:nf20_firmware"
 }

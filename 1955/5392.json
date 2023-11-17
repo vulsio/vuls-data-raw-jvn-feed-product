@@ -1,8 +1,8 @@
 {
-  "vid": "1955",
-  "vname": "3ware",
-  "vcpe": "cpe:/:3ware",
-  "pid": "5392",
-  "pname": "3dm disk management software",
-  "pcpe": "cpe:/a:3ware:3dm_disk_management_software"
+	"vid": "1955",
+	"vname": "3ware",
+	"vcpe": "cpe:/:3ware",
+	"pid": "5392",
+	"pname": "3dm disk management software",
+	"pcpe": "cpe:/a:3ware:3dm_disk_management_software"
 }

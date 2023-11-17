@@ -1,8 +1,8 @@
 {
-  "vid": "13474",
-  "vname": "Elemental Path",
-  "vcpe": "cpe:/:elementalpath",
-  "pid": "31817",
-  "pname": "STEMosaur ファームウェア",
-  "pcpe": "cpe:/o:elementalpath:stemosaur_firmware"
+	"vid": "13474",
+	"vname": "Elemental Path",
+	"vcpe": "cpe:/:elementalpath",
+	"pid": "31817",
+	"pname": "STEMosaur ファームウェア",
+	"pcpe": "cpe:/o:elementalpath:stemosaur_firmware"
 }

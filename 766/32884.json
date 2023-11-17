@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "32884",
-  "pname": "IBP1110-1ER ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:ibp1110-1er_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "32884",
+	"pname": "IBP1110-1ER ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:ibp1110-1er_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "57236",
-  "pname": "MGate 5109-T ファームウェア",
-  "pcpe": "cpe:/o:moxa:mgate_5109-t_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "57236",
+	"pname": "MGate 5109-T ファームウェア",
+	"pcpe": "cpe:/o:moxa:mgate_5109-t_firmware"
 }

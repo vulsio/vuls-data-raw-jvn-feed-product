@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "56632",
-  "pname": "SAP Netweaver Application Server ABAP KRNL64UC",
-  "pcpe": "cpe:/a:sap:netweaver_application_server_abap_krnl64nuc"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "56632",
+	"pname": "SAP Netweaver Application Server ABAP KRNL64UC",
+	"pcpe": "cpe:/a:sap:netweaver_application_server_abap_krnl64nuc"
 }

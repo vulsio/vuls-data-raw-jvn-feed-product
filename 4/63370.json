@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63370",
-  "pname": "HP ENVY 5030 All-in-One Printer M2U92B ファームウェア",
-  "pcpe": "cpe:/o:hp:m2u92b_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63370",
+	"pname": "HP ENVY 5030 All-in-One Printer M2U92B ファームウェア",
+	"pcpe": "cpe:/o:hp:m2u92b_firmware"
 }

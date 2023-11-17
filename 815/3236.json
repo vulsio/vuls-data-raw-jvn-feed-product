@@ -1,8 +1,8 @@
 {
-  "vid": "815",
-  "vname": "Chipmunk Scripts",
-  "vcpe": "cpe:/:chipmunk-scripts",
-  "pid": "3236",
-  "pname": "Chipmunk Board",
-  "pcpe": "cpe:/a:chipmunk-scripts:chipmunk_board"
+	"vid": "815",
+	"vname": "Chipmunk Scripts",
+	"vcpe": "cpe:/:chipmunk-scripts",
+	"pid": "3236",
+	"pname": "Chipmunk Board",
+	"pcpe": "cpe:/a:chipmunk-scripts:chipmunk_board"
 }

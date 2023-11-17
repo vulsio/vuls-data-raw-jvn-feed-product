@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "63218",
-  "pname": "smartfabric os10",
-  "pcpe": "cpe:/o:dell:smartfabric_os10"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "63218",
+	"pname": "smartfabric os10",
+	"pcpe": "cpe:/o:dell:smartfabric_os10"
 }

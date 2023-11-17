@@ -1,8 +1,8 @@
 {
-  "vid": "24483",
-  "vname": "etaplighting",
-  "vcpe": "cpe:/:etaplighting",
-  "pid": "63222",
-  "pname": "etap safety manager",
-  "pcpe": "cpe:/a:etaplighting:etap_safety_manager"
+	"vid": "24483",
+	"vname": "etaplighting",
+	"vcpe": "cpe:/:etaplighting",
+	"pid": "63222",
+	"pname": "etap safety manager",
+	"pcpe": "cpe:/a:etaplighting:etap_safety_manager"
 }

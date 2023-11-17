@@ -1,8 +1,8 @@
 {
-  "vid": "12499",
-  "vname": "Delta Electronics",
-  "vcpe": "cpe:/:delta_electronics",
-  "pid": "36575",
-  "pname": "Delta Industrial Automation PMSoft",
-  "pcpe": "cpe:/a:delta_electronics:delta_industrial_automation_pmsoft"
+	"vid": "12499",
+	"vname": "Delta Electronics",
+	"vcpe": "cpe:/:delta_electronics",
+	"pid": "36575",
+	"pname": "Delta Industrial Automation PMSoft",
+	"pcpe": "cpe:/a:delta_electronics:delta_industrial_automation_pmsoft"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9808",
-  "vname": "Optimizer",
-  "vcpe": "cpe:/:swipe_checkout_for_eshop_project",
-  "pid": "20450",
-  "pname": "Swipe Checkout for eShop",
-  "pcpe": "cpe:/a:swipe_checkout_for_eshop_project:swipe_checkout_for_eshop"
+	"vid": "9808",
+	"vname": "Optimizer",
+	"vcpe": "cpe:/:swipe_checkout_for_eshop_project",
+	"pid": "20450",
+	"pname": "Swipe Checkout for eShop",
+	"pcpe": "cpe:/a:swipe_checkout_for_eshop_project:swipe_checkout_for_eshop"
 }

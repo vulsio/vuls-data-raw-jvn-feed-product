@@ -1,8 +1,8 @@
 {
-  "vid": "1470",
-  "vname": "FlashTux",
-  "vcpe": "cpe:/:flashtux",
-  "pid": "4353",
-  "pname": "WeeChat",
-  "pcpe": "cpe:/a:flashtux:weechat"
+	"vid": "1470",
+	"vname": "FlashTux",
+	"vcpe": "cpe:/:flashtux",
+	"pid": "4353",
+	"pname": "WeeChat",
+	"pcpe": "cpe:/a:flashtux:weechat"
 }

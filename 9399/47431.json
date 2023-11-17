@@ -1,8 +1,8 @@
 {
-  "vid": "9399",
-  "vname": "achal dhir",
-  "vcpe": "cpe:/:achal_dhir",
-  "pid": "47431",
-  "pname": "Open DHCP Server",
-  "pcpe": "cpe:/a:achal_dhir:open_dhcp_server"
+	"vid": "9399",
+	"vname": "achal dhir",
+	"vcpe": "cpe:/:achal_dhir",
+	"pid": "47431",
+	"pname": "Open DHCP Server",
+	"pcpe": "cpe:/a:achal_dhir:open_dhcp_server"
 }

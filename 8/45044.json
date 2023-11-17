@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "45044",
-  "pname": "Apache Unomi",
-  "pcpe": "cpe:/a:apache:unomi"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "45044",
+	"pname": "Apache Unomi",
+	"pcpe": "cpe:/a:apache:unomi"
 }

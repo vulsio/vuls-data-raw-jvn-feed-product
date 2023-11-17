@@ -1,8 +1,8 @@
 {
-  "vid": "15989",
-  "vname": "Gigaset pro",
-  "vcpe": "cpe:/:gigasetpro",
-  "pid": "37372",
-  "pname": "Maxwell Basic ファームウェア",
-  "pcpe": "cpe:/o:gigasetpro:maxwell_basic_firmware"
+	"vid": "15989",
+	"vname": "Gigaset pro",
+	"vcpe": "cpe:/:gigasetpro",
+	"pid": "37372",
+	"pname": "Maxwell Basic ファームウェア",
+	"pcpe": "cpe:/o:gigasetpro:maxwell_basic_firmware"
 }

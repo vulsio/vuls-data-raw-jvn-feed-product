@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "24473",
-  "pname": "IBM Maximo Anywhere",
-  "pcpe": "cpe:/a:ibm:maximo_anywhere"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "24473",
+	"pname": "IBM Maximo Anywhere",
+	"pcpe": "cpe:/a:ibm:maximo_anywhere"
 }

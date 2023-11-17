@@ -1,8 +1,8 @@
 {
-  "vid": "33",
-  "vname": "BEAシステムズ",
-  "vcpe": "cpe:/:bea",
-  "pid": "199",
-  "pname": "BEA WebLogic Platform",
-  "pcpe": "cpe:/a:bea:weblogic_platform"
+	"vid": "33",
+	"vname": "BEAシステムズ",
+	"vcpe": "cpe:/:bea",
+	"pid": "199",
+	"pname": "BEA WebLogic Platform",
+	"pcpe": "cpe:/a:bea:weblogic_platform"
 }

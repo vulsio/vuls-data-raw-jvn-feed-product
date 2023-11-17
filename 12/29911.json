@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "29911",
-  "pname": "Deep Discovery Director",
-  "pcpe": "cpe:/a:trendmicro:deep_discovery_director"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "29911",
+	"pname": "Deep Discovery Director",
+	"pcpe": "cpe:/a:trendmicro:deep_discovery_director"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5934",
-  "vname": "netpet",
-  "vcpe": "cpe:/:netpet",
-  "pid": "11969",
-  "pname": "netpet cms",
-  "pcpe": "cpe:/a:netpet:netpet_cms"
+	"vid": "5934",
+	"vname": "netpet",
+	"vcpe": "cpe:/:netpet",
+	"pid": "11969",
+	"pname": "netpet cms",
+	"pcpe": "cpe:/a:netpet:netpet_cms"
 }

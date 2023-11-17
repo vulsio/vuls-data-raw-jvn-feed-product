@@ -1,8 +1,8 @@
 {
-  "vid": "3748",
-  "vname": "flux cms",
-  "vcpe": "cpe:/:flux_cms",
-  "pid": "8119",
-  "pname": "flux cms",
-  "pcpe": "cpe:/a:flux_cms:flux_cms"
+	"vid": "3748",
+	"vname": "flux cms",
+	"vcpe": "cpe:/:flux_cms",
+	"pid": "8119",
+	"pname": "flux cms",
+	"pcpe": "cpe:/a:flux_cms:flux_cms"
 }

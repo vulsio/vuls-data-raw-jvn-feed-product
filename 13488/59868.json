@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "59868",
-  "pname": "Zoom VDI Windows Meeting Clients",
-  "pcpe": "cpe:/a:zoom:vdi_windows_meeting_clients"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "59868",
+	"pname": "Zoom VDI Windows Meeting Clients",
+	"pcpe": "cpe:/a:zoom:vdi_windows_meeting_clients"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4160",
-  "vname": "VIVOTEK Inc.",
-  "vcpe": "cpe:/:vivotek",
-  "pid": "42684",
-  "pname": "IP8332 ファームウェア",
-  "pcpe": "cpe:/o:vivotek:ip8332_firmware"
+	"vid": "4160",
+	"vname": "VIVOTEK Inc.",
+	"vcpe": "cpe:/:vivotek",
+	"pid": "42684",
+	"pname": "IP8332 ファームウェア",
+	"pcpe": "cpe:/o:vivotek:ip8332_firmware"
 }

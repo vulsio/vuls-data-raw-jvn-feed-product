@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "31206",
-  "pname": ".NET Core",
-  "pcpe": "cpe:/a:microsoft:.net_core"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "31206",
+	"pname": ".NET Core",
+	"pcpe": "cpe:/a:microsoft:.net_core"
 }

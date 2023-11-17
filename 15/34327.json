@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "34327",
-  "pname": "MICROS Relate CRM Software",
-  "pcpe": "cpe:/a:oracle:micros_relate_customer_relationship_management_software"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "34327",
+	"pname": "MICROS Relate CRM Software",
+	"pcpe": "cpe:/a:oracle:micros_relate_customer_relationship_management_software"
 }

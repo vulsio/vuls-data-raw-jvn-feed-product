@@ -1,8 +1,8 @@
 {
-  "vid": "24597",
-  "vname": "lannerinc",
-  "vcpe": "cpe:/:lannerinc",
-  "pid": "63779",
-  "pname": "iac-ast2500 ファームウェア",
-  "pcpe": "cpe:/o:lannerinc:iac-ast2500_firmware"
+	"vid": "24597",
+	"vname": "lannerinc",
+	"vcpe": "cpe:/:lannerinc",
+	"pid": "63779",
+	"pname": "iac-ast2500 ファームウェア",
+	"pcpe": "cpe:/o:lannerinc:iac-ast2500_firmware"
 }

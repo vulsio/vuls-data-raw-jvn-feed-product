@@ -1,8 +1,8 @@
 {
-  "vid": "13076",
-  "vname": "ManageEngine",
-  "vcpe": "cpe:/:manageengine",
-  "pid": "30447",
-  "pname": "IT360",
-  "pcpe": "cpe:/a:manageengine:it360"
+	"vid": "13076",
+	"vname": "ManageEngine",
+	"vcpe": "cpe:/:manageengine",
+	"pid": "30447",
+	"pname": "IT360",
+	"pcpe": "cpe:/a:manageengine:it360"
 }

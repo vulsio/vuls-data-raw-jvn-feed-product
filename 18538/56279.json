@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "56279",
-  "pname": "SCADAPack 314E ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:scadapack_314e_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "56279",
+	"pname": "SCADAPack 314E ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:scadapack_314e_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15176",
-  "vname": "ADB",
-  "vcpe": "cpe:/:adbglobal",
-  "pid": "35130",
-  "pname": "DV 2210 ファームウェア",
-  "pcpe": "cpe:/o:adbglobal:dv2210_firmware"
+	"vid": "15176",
+	"vname": "ADB",
+	"vcpe": "cpe:/:adbglobal",
+	"pid": "35130",
+	"pname": "DV 2210 ファームウェア",
+	"pcpe": "cpe:/o:adbglobal:dv2210_firmware"
 }

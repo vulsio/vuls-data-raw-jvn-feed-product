@@ -1,8 +1,8 @@
 {
-  "vid": "23889",
-  "vname": "atos",
-  "vcpe": "cpe:/:atos",
-  "pid": "61781",
-  "pname": "unify openscape session border controller",
-  "pcpe": "cpe:/a:atos:unify_openscape_session_border_controller"
+	"vid": "23889",
+	"vname": "atos",
+	"vcpe": "cpe:/:atos",
+	"pid": "61781",
+	"pname": "unify openscape session border controller",
+	"pcpe": "cpe:/a:atos:unify_openscape_session_border_controller"
 }

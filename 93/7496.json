@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7496",
-  "pname": "e-commerce module",
-  "pcpe": "cpe:/a:drupal:e-commerce_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7496",
+	"pname": "e-commerce module",
+	"pcpe": "cpe:/a:drupal:e-commerce_module"
 }

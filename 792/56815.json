@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56815",
-  "pname": "DX5401-B0 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:dx5401-b0_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56815",
+	"pname": "DX5401-B0 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:dx5401-b0_firmware"
 }

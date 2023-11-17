@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "55905",
-  "pname": "TD220X ファームウェア",
-  "pcpe": "cpe:/o:ge:td220x_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "55905",
+	"pname": "TD220X ファームウェア",
+	"pcpe": "cpe:/o:ge:td220x_firmware"
 }

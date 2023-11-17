@@ -1,8 +1,8 @@
 {
-  "vid": "16016",
-  "vname": "UC Berkeley RISE",
-  "vcpe": "cpe:/:ucbrise",
-  "pid": "37459",
-  "pname": "Opaque",
-  "pcpe": "cpe:/a:ucbrise:opaque"
+	"vid": "16016",
+	"vname": "UC Berkeley RISE",
+	"vcpe": "cpe:/:ucbrise",
+	"pid": "37459",
+	"pname": "Opaque",
+	"pcpe": "cpe:/a:ucbrise:opaque"
 }

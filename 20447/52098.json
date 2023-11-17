@@ -1,8 +1,8 @@
 {
-  "vid": "20447",
-  "vname": "Followistic",
-  "vcpe": "cpe:/:followistic",
-  "pid": "52098",
-  "pname": "Smart Email Alerts",
-  "pcpe": "cpe:/a:followistic:smart_email_alerts"
+	"vid": "20447",
+	"vname": "Followistic",
+	"vcpe": "cpe:/:followistic",
+	"pid": "52098",
+	"pname": "Smart Email Alerts",
+	"pcpe": "cpe:/a:followistic:smart_email_alerts"
 }

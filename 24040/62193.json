@@ -1,8 +1,8 @@
 {
-  "vid": "24040",
-  "vname": "ecowitt",
-  "vcpe": "cpe:/:ecowitt",
-  "pid": "62193",
-  "pname": "gw1100 ファームウェア",
-  "pcpe": "cpe:/o:ecowitt:gw1100_firmware"
+	"vid": "24040",
+	"vname": "ecowitt",
+	"vcpe": "cpe:/:ecowitt",
+	"pid": "62193",
+	"pname": "gw1100 ファームウェア",
+	"pcpe": "cpe:/o:ecowitt:gw1100_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20522",
-  "vname": "OpenZeppelin",
-  "vcpe": "cpe:/:openzeppelin",
-  "pid": "56527",
-  "pname": "OpenZeppelin",
-  "pcpe": "cpe:/a:openzeppelin:openzeppelin"
+	"vid": "20522",
+	"vname": "OpenZeppelin",
+	"vcpe": "cpe:/:openzeppelin",
+	"pid": "56527",
+	"pname": "OpenZeppelin",
+	"pcpe": "cpe:/a:openzeppelin:openzeppelin"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17997",
-  "pname": "Informix Open Admin Tool",
-  "pcpe": "cpe:/a:ibm:informix_open_admin_tool"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17997",
+	"pname": "Informix Open Admin Tool",
+	"pcpe": "cpe:/a:ibm:informix_open_admin_tool"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "25409",
-  "pname": "Cisco Modular Encoding Platform D9036",
-  "pcpe": "cpe:/h:cisco:modular_encoding_platform_d9036"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "25409",
+	"pname": "Cisco Modular Encoding Platform D9036",
+	"pcpe": "cpe:/h:cisco:modular_encoding_platform_d9036"
 }

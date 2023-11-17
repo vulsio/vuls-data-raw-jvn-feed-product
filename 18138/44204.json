@@ -1,8 +1,8 @@
 {
-  "vid": "18138",
-  "vname": "adb-driver project",
-  "vcpe": "cpe:/:adb-driver_project",
-  "pid": "44204",
-  "pname": "adb-driver project",
-  "pcpe": "cpe:/a:adb-driver_project:adb-driver"
+	"vid": "18138",
+	"vname": "adb-driver project",
+	"vcpe": "cpe:/:adb-driver_project",
+	"pid": "44204",
+	"pname": "adb-driver project",
+	"pcpe": "cpe:/a:adb-driver_project:adb-driver"
 }

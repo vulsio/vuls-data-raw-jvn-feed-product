@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "28457",
-  "pname": "McAfee Security Scan Plus",
-  "pcpe": "cpe:/a:mcafee:security_scan_plus"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "28457",
+	"pname": "McAfee Security Scan Plus",
+	"pcpe": "cpe:/a:mcafee:security_scan_plus"
 }

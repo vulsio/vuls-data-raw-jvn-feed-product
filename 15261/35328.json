@@ -1,8 +1,8 @@
 {
-  "vid": "15261",
-  "vname": "Aditus Token project",
-  "vcpe": "cpe:/:aditustoken_project",
-  "pid": "35328",
-  "pname": "Aditus Token",
-  "pcpe": "cpe:/a:aditustoken_project:aditustoken"
+	"vid": "15261",
+	"vname": "Aditus Token project",
+	"vcpe": "cpe:/:aditustoken_project",
+	"pid": "35328",
+	"pname": "Aditus Token",
+	"pcpe": "cpe:/a:aditustoken_project:aditustoken"
 }

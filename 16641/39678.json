@@ -1,8 +1,8 @@
 {
-  "vid": "16641",
-  "vname": "Invenio",
-  "vcpe": "cpe:/:inveniosoftware",
-  "pid": "39678",
-  "pname": "Invenio-App",
-  "pcpe": "cpe:/a:inveniosoftware:invenio-app"
+	"vid": "16641",
+	"vname": "Invenio",
+	"vcpe": "cpe:/:inveniosoftware",
+	"pid": "39678",
+	"pname": "Invenio-App",
+	"pcpe": "cpe:/a:inveniosoftware:invenio-app"
 }

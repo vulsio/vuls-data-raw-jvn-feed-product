@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4430",
-  "pname": "openview storage data protector cell manager",
-  "pcpe": "cpe:/a:hp:openview_storage_data_protector_cell_manager"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4430",
+	"pname": "openview storage data protector cell manager",
+	"pcpe": "cpe:/a:hp:openview_storage_data_protector_cell_manager"
 }

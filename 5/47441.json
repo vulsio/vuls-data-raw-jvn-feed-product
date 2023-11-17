@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47441",
-  "pname": "SD821 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd821_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47441",
+	"pname": "SD821 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd821_firmware"
 }

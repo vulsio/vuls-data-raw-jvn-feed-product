@@ -1,8 +1,8 @@
 {
-  "vid": "23965",
-  "vname": "rust-websocket project",
-  "vcpe": "cpe:/:rust-websocket_project",
-  "pid": "62001",
-  "pname": "rust-websocket",
-  "pcpe": "cpe:/a:rust-websocket_project:rust-websocket"
+	"vid": "23965",
+	"vname": "rust-websocket project",
+	"vcpe": "cpe:/:rust-websocket_project",
+	"pid": "62001",
+	"pname": "rust-websocket",
+	"pcpe": "cpe:/a:rust-websocket_project:rust-websocket"
 }

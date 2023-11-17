@@ -1,8 +1,8 @@
 {
-  "vid": "5635",
-  "vname": "microchip",
-  "vcpe": "cpe:/:microchip",
-  "pid": "46237",
-  "pname": "Advanced Software Framework 4",
-  "pcpe": "cpe:/a:microchip:advanced_software_framework_4"
+	"vid": "5635",
+	"vname": "microchip",
+	"vcpe": "cpe:/:microchip",
+	"pid": "46237",
+	"pname": "Advanced Software Framework 4",
+	"pcpe": "cpe:/a:microchip:advanced_software_framework_4"
 }

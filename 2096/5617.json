@@ -1,8 +1,8 @@
 {
-  "vid": "2096",
-  "vname": "aimp",
-  "vcpe": "cpe:/:aimp",
-  "pid": "5617",
-  "pname": "aimp2 audio converter",
-  "pcpe": "cpe:/a:aimp:aimp2_audio_converter"
+	"vid": "2096",
+	"vname": "aimp",
+	"vcpe": "cpe:/:aimp",
+	"pid": "5617",
+	"pname": "aimp2 audio converter",
+	"pcpe": "cpe:/a:aimp:aimp2_audio_converter"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "13281",
-  "pname": "OpenStack Glance",
-  "pcpe": "cpe:/a:openstack:glance"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "13281",
+	"pname": "OpenStack Glance",
+	"pcpe": "cpe:/a:openstack:glance"
 }

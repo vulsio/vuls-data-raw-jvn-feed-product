@@ -1,8 +1,8 @@
 {
-  "vid": "16502",
-  "vname": "Optergy",
-  "vcpe": "cpe:/:optergy",
-  "pid": "39252",
-  "pname": "Proton",
-  "pcpe": "cpe:/a:optergy:proton"
+	"vid": "16502",
+	"vname": "Optergy",
+	"vcpe": "cpe:/:optergy",
+	"pid": "39252",
+	"pname": "Proton",
+	"pcpe": "cpe:/a:optergy:proton"
 }

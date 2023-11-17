@@ -1,8 +1,8 @@
 {
-  "vid": "6155",
-  "vname": "OpenText",
-  "vcpe": "cpe:/:opentext",
-  "pid": "30775",
-  "pname": "OpenText Documentum Administrator",
-  "pcpe": "cpe:/a:opentext:documentum_administrator"
+	"vid": "6155",
+	"vname": "OpenText",
+	"vcpe": "cpe:/:opentext",
+	"pid": "30775",
+	"pname": "OpenText Documentum Administrator",
+	"pcpe": "cpe:/a:opentext:documentum_administrator"
 }

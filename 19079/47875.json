@@ -1,8 +1,8 @@
 {
-  "vid": "19079",
-  "vname": "Ohio Supercomputer Center",
-  "vcpe": "cpe:/:osc",
-  "pid": "47875",
-  "pname": "Open OnDemand",
-  "pcpe": "cpe:/a:osc:open_ondemand"
+	"vid": "19079",
+	"vname": "Ohio Supercomputer Center",
+	"vcpe": "cpe:/:osc",
+	"pid": "47875",
+	"pname": "Open OnDemand",
+	"pcpe": "cpe:/a:osc:open_ondemand"
 }

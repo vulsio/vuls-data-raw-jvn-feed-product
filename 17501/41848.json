@@ -1,8 +1,8 @@
 {
-  "vid": "17501",
-  "vname": "ioBroker",
-  "vcpe": "cpe:/:iobroker",
-  "pid": "41848",
-  "pname": "ioBroker.admin",
-  "pcpe": "cpe:/a:iobroker:iobroker.admin"
+	"vid": "17501",
+	"vname": "ioBroker",
+	"vcpe": "cpe:/:iobroker",
+	"pid": "41848",
+	"pname": "ioBroker.admin",
+	"pcpe": "cpe:/a:iobroker:iobroker.admin"
 }

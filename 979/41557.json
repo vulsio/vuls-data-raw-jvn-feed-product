@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "41557",
-  "pname": "Atlassian Troubleshooting and Support Tools",
-  "pcpe": "cpe:/a:atlassian:troubleshooting_and_support"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "41557",
+	"pname": "Atlassian Troubleshooting and Support Tools",
+	"pcpe": "cpe:/a:atlassian:troubleshooting_and_support"
 }

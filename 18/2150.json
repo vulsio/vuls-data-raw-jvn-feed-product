@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "2150",
-  "pname": "IBM Integrated Solutions Console",
-  "pcpe": "cpe:/a:ibm:integrated_solutions_console"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "2150",
+	"pname": "IBM Integrated Solutions Console",
+	"pcpe": "cpe:/a:ibm:integrated_solutions_console"
 }

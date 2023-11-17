@@ -1,8 +1,8 @@
 {
-  "vid": "1549",
-  "vname": "Kerio Technologies",
-  "vcpe": "cpe:/:kerio",
-  "pid": "20524",
-  "pname": "Kerio Control",
-  "pcpe": "cpe:/a:kerio:control"
+	"vid": "1549",
+	"vname": "Kerio Technologies",
+	"vcpe": "cpe:/:kerio",
+	"pid": "20524",
+	"pname": "Kerio Control",
+	"pcpe": "cpe:/a:kerio:control"
 }

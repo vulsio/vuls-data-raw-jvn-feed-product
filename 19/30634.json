@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "30634",
-  "pname": "Cisco SPA 501G ファームウェア",
-  "pcpe": "cpe:/o:cisco:spa_501g_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "30634",
+	"pname": "Cisco SPA 501G ファームウェア",
+	"pcpe": "cpe:/o:cisco:spa_501g_firmware"
 }

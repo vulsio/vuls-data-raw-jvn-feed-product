@@ -1,8 +1,8 @@
 {
-  "vid": "19647",
-  "vname": "cdr project",
-  "vcpe": "cpe:/:cdr_project",
-  "pid": "49511",
-  "pname": "cdr",
-  "pcpe": "cpe:/a:cdr_project:cdr"
+	"vid": "19647",
+	"vname": "cdr project",
+	"vcpe": "cpe:/:cdr_project",
+	"pid": "49511",
+	"pname": "cdr",
+	"pcpe": "cpe:/a:cdr_project:cdr"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30370",
-  "pname": "ThinkCentre M8600t/s ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m8600t%2Fs_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30370",
+	"pname": "ThinkCentre M8600t/s ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m8600t%2Fs_firmware"
 }

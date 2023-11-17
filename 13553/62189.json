@@ -1,8 +1,8 @@
 {
-  "vid": "13553",
-  "vname": "FLIR Systems, Inc.",
-  "vcpe": "cpe:/:flir",
-  "pid": "62189",
-  "pname": "flir ax8 ファームウェア",
-  "pcpe": "cpe:/o:flir:flir_ax8_firmware"
+	"vid": "13553",
+	"vname": "FLIR Systems, Inc.",
+	"vcpe": "cpe:/:flir",
+	"pid": "62189",
+	"pname": "flir ax8 ファームウェア",
+	"pcpe": "cpe:/o:flir:flir_ax8_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3823",
-  "vname": "frequency clock",
-  "vcpe": "cpe:/:frequency_clock",
-  "pid": "8227",
-  "pname": "frequency clock",
-  "pcpe": "cpe:/a:frequency_clock:frequency_clock"
+	"vid": "3823",
+	"vname": "frequency clock",
+	"vcpe": "cpe:/:frequency_clock",
+	"pid": "8227",
+	"pname": "frequency clock",
+	"pcpe": "cpe:/a:frequency_clock:frequency_clock"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56903",
-  "pname": "XS3800-28 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:xs3800-28_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56903",
+	"pname": "XS3800-28 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:xs3800-28_firmware"
 }

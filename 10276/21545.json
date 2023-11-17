@@ -1,8 +1,8 @@
 {
-  "vid": "10276",
-  "vname": "Akeeba",
-  "vcpe": "cpe:/:akeeba",
-  "pid": "21545",
-  "pname": "Akeeba Restore",
-  "pcpe": "cpe:/a:akeeba:akeeba_restore"
+	"vid": "10276",
+	"vname": "Akeeba",
+	"vcpe": "cpe:/:akeeba",
+	"pid": "21545",
+	"pname": "Akeeba Restore",
+	"pcpe": "cpe:/a:akeeba:akeeba_restore"
 }

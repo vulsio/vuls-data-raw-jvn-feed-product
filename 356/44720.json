@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "44720",
-  "pname": "chrome-launcher",
-  "pcpe": "cpe:/a:google:chrome-launcher"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "44720",
+	"pname": "chrome-launcher",
+	"pcpe": "cpe:/a:google:chrome-launcher"
 }

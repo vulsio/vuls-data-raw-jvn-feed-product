@@ -1,8 +1,8 @@
 {
-  "vid": "15501",
-  "vname": "MapR Technologies, Inc.",
-  "vcpe": "cpe:/:mapr",
-  "pid": "35972",
-  "pname": "MapR",
-  "pcpe": "cpe:/a:mapr:mapr"
+	"vid": "15501",
+	"vname": "MapR Technologies, Inc.",
+	"vcpe": "cpe:/:mapr",
+	"pid": "35972",
+	"pname": "MapR",
+	"pcpe": "cpe:/a:mapr:mapr"
 }

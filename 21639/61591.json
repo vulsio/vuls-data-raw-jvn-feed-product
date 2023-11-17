@@ -1,8 +1,8 @@
 {
-  "vid": "21639",
-  "vname": "LJ Apps",
-  "vcpe": "cpe:/:ljapps",
-  "pid": "61591",
-  "pname": "WP Yelp Review Slider",
-  "pcpe": "cpe:/a:ljapps:wp_yelp_review_slider"
+	"vid": "21639",
+	"vname": "LJ Apps",
+	"vcpe": "cpe:/:ljapps",
+	"pid": "61591",
+	"pname": "WP Yelp Review Slider",
+	"pcpe": "cpe:/a:ljapps:wp_yelp_review_slider"
 }

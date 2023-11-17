@@ -1,8 +1,8 @@
 {
-  "vid": "9473",
-  "vname": "Rapid7",
-  "vcpe": "cpe:/:rapid7",
-  "pid": "28175",
-  "pname": "AppSpider Pro",
-  "pcpe": "cpe:/a:rapid7:appspider_pro"
+	"vid": "9473",
+	"vname": "Rapid7",
+	"vcpe": "cpe:/:rapid7",
+	"pid": "28175",
+	"pname": "AppSpider Pro",
+	"pcpe": "cpe:/a:rapid7:appspider_pro"
 }

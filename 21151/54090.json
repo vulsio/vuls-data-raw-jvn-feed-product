@@ -1,8 +1,8 @@
 {
-  "vid": "21151",
-  "vname": "STARK BANK",
-  "vcpe": "cpe:/:starkbank",
-  "pid": "54090",
-  "pname": "ecdsa-node",
-  "pcpe": "cpe:/a:starkbank:ecdsa-node"
+	"vid": "21151",
+	"vname": "STARK BANK",
+	"vcpe": "cpe:/:starkbank",
+	"pid": "54090",
+	"pname": "ecdsa-node",
+	"pcpe": "cpe:/a:starkbank:ecdsa-node"
 }

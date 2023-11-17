@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "51286",
-  "pname": "E3372 ファームウェア",
-  "pcpe": "cpe:/o:huawei:e3372_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "51286",
+	"pname": "E3372 ファームウェア",
+	"pcpe": "cpe:/o:huawei:e3372_firmware"
 }

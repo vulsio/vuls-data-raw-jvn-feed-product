@@ -1,8 +1,8 @@
 {
-  "vid": "6683",
-  "vname": "Phase2 Technology",
-  "vcpe": "cpe:/:feeds_project",
-  "pid": "13391",
-  "pname": "Feeds",
-  "pcpe": "cpe:/a:feeds_project:feeds"
+	"vid": "6683",
+	"vname": "Phase2 Technology",
+	"vcpe": "cpe:/:feeds_project",
+	"pid": "13391",
+	"pname": "Feeds",
+	"pcpe": "cpe:/a:feeds_project:feeds"
 }

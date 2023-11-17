@@ -1,8 +1,8 @@
 {
-  "vid": "983",
-  "vname": "SafeNet, Inc",
-  "vcpe": "cpe:/:safenet-inc",
-  "pid": "14470",
-  "pname": "softremote",
-  "pcpe": "cpe:/a:safenet-inc:softremote"
+	"vid": "983",
+	"vname": "SafeNet, Inc",
+	"vcpe": "cpe:/:safenet-inc",
+	"pid": "14470",
+	"pname": "softremote",
+	"pcpe": "cpe:/a:safenet-inc:softremote"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1723",
-  "vname": "SonicWALL",
-  "vcpe": "cpe:/:sonicwall",
-  "pid": "61924",
-  "pname": "sws12-8poe ファームウェア",
-  "pcpe": "cpe:/o:sonicwall:sws12-8poe_firmware"
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "61924",
+	"pname": "sws12-8poe ファームウェア",
+	"pcpe": "cpe:/o:sonicwall:sws12-8poe_firmware"
 }

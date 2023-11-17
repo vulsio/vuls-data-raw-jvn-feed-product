@@ -1,8 +1,8 @@
 {
-  "vid": "4042",
-  "vname": "Graphviz",
-  "vcpe": "cpe:/:graphviz",
-  "pid": "8522",
-  "pname": "Graphviz",
-  "pcpe": "cpe:/a:graphviz:graphviz"
+	"vid": "4042",
+	"vname": "Graphviz",
+	"vcpe": "cpe:/:graphviz",
+	"pid": "8522",
+	"pname": "Graphviz",
+	"pcpe": "cpe:/a:graphviz:graphviz"
 }

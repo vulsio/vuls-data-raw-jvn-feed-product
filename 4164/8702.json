@@ -1,8 +1,8 @@
 {
-  "vid": "4164",
-  "vname": "2wire",
-  "vcpe": "cpe:/:2wire",
-  "pid": "8702",
-  "pname": "2071 router",
-  "pcpe": "cpe:/h:2wire:2071_router"
+	"vid": "4164",
+	"vname": "2wire",
+	"vcpe": "cpe:/:2wire",
+	"pid": "8702",
+	"pname": "2071 router",
+	"pcpe": "cpe:/h:2wire:2071_router"
 }

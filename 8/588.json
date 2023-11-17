@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "588",
-  "pname": "Apache Tomcat JK Web Server Connector",
-  "pcpe": "cpe:/a:apache:tomcat_jk_web_server_connector"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "588",
+	"pname": "Apache Tomcat JK Web Server Connector",
+	"pcpe": "cpe:/a:apache:tomcat_jk_web_server_connector"
 }

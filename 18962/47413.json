@@ -1,8 +1,8 @@
 {
-  "vid": "18962",
-  "vname": "nuance-gulp-build-common",
-  "vcpe": "cpe:/:nuance-gulp-build-common_project",
-  "pid": "47413",
-  "pname": "nuance-gulp-build-common",
-  "pcpe": "cpe:/a:nuance-gulp-build-common_project:nuance-gulp-build-common"
+	"vid": "18962",
+	"vname": "nuance-gulp-build-common",
+	"vcpe": "cpe:/:nuance-gulp-build-common_project",
+	"pid": "47413",
+	"pname": "nuance-gulp-build-common",
+	"pcpe": "cpe:/a:nuance-gulp-build-common_project:nuance-gulp-build-common"
 }

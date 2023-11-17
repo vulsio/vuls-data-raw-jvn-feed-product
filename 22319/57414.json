@@ -1,8 +1,8 @@
 {
-  "vid": "22319",
-  "vname": "Mongoose Marketplace",
-  "vcpe": "cpe:/:mongoosemarketplace",
-  "pid": "57414",
-  "pname": "Mongoose Page Plugin",
-  "pcpe": "cpe:/a:mongoosemarketplace:mongoose_page_plugin"
+	"vid": "22319",
+	"vname": "Mongoose Marketplace",
+	"vcpe": "cpe:/:mongoosemarketplace",
+	"pid": "57414",
+	"pname": "Mongoose Page Plugin",
+	"pcpe": "cpe:/a:mongoosemarketplace:mongoose_page_plugin"
 }

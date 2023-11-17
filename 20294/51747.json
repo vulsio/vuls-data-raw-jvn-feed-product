@@ -1,8 +1,8 @@
 {
-  "vid": "20294",
-  "vname": "明京電機株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "51747",
-  "pname": "WATCH BOOT mini RPC-M4H",
-  "pcpe": "cpe:/a:misc:meikyoelectric_watch_boot_mini_rpc-m4h"
+	"vid": "20294",
+	"vname": "明京電機株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "51747",
+	"pname": "WATCH BOOT mini RPC-M4H",
+	"pcpe": "cpe:/a:misc:meikyoelectric_watch_boot_mini_rpc-m4h"
 }

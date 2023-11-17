@@ -1,8 +1,8 @@
 {
-  "vid": "20926",
-  "vname": "Bookshelf project",
-  "vcpe": "cpe:/:bookshelf_project",
-  "pid": "53448",
-  "pname": "Bookshelf",
-  "pcpe": "cpe:/a:bookshelf_project:bookshelf"
+	"vid": "20926",
+	"vname": "Bookshelf project",
+	"vcpe": "cpe:/:bookshelf_project",
+	"pid": "53448",
+	"pname": "Bookshelf",
+	"pcpe": "cpe:/a:bookshelf_project:bookshelf"
 }

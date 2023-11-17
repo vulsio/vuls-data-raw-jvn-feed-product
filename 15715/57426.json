@@ -1,8 +1,8 @@
 {
-  "vid": "15715",
-  "vname": "TOTOLINK",
-  "vcpe": "cpe:/:totolink",
-  "pid": "57426",
-  "pname": "t10 v2 ファームウェア",
-  "pcpe": "cpe:/o:totolink:t10_v2_firmware"
+	"vid": "15715",
+	"vname": "TOTOLINK",
+	"vcpe": "cpe:/:totolink",
+	"pid": "57426",
+	"pname": "t10 v2 ファームウェア",
+	"pcpe": "cpe:/o:totolink:t10_v2_firmware"
 }

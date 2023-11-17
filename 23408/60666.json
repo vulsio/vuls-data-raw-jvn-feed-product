@@ -1,8 +1,8 @@
 {
-  "vid": "23408",
-  "vname": "CBC AMERICA",
-  "vcpe": "cpe:/:misc",
-  "pid": "60666",
-  "pname": "DR-8H",
-  "pcpe": "cpe:/o:misc:cbc_america_dr-8h"
+	"vid": "23408",
+	"vname": "CBC AMERICA",
+	"vcpe": "cpe:/:misc",
+	"pid": "60666",
+	"pname": "DR-8H",
+	"pcpe": "cpe:/o:misc:cbc_america_dr-8h"
 }

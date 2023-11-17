@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "44417",
-  "pname": "DM200 ファームウェア",
-  "pcpe": "cpe:/o:netgear:dm200_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "44417",
+	"pname": "DM200 ファームウェア",
+	"pcpe": "cpe:/o:netgear:dm200_firmware"
 }

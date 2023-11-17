@@ -1,8 +1,8 @@
 {
-  "vid": "21322",
-  "vname": "OpenBLAS project",
-  "vcpe": "cpe:/:openblas_project",
-  "pid": "54733",
-  "pname": "OpenBLAS",
-  "pcpe": "cpe:/a:openblas_project:openblas"
+	"vid": "21322",
+	"vname": "OpenBLAS project",
+	"vcpe": "cpe:/:openblas_project",
+	"pid": "54733",
+	"pname": "OpenBLAS",
+	"pcpe": "cpe:/a:openblas_project:openblas"
 }

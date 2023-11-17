@@ -1,8 +1,8 @@
 {
-  "vid": "15994",
-  "vname": "ZTE USA",
-  "vcpe": "cpe:/:zteusa",
-  "pid": "37388",
-  "pname": "ZTE ZMAX Pro ファームウェア",
-  "pcpe": "cpe:/o:zteusa:zte_zmax_pro_firmware"
+	"vid": "15994",
+	"vname": "ZTE USA",
+	"vcpe": "cpe:/:zteusa",
+	"pid": "37388",
+	"pname": "ZTE ZMAX Pro ファームウェア",
+	"pcpe": "cpe:/o:zteusa:zte_zmax_pro_firmware"
 }

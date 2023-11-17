@@ -1,8 +1,8 @@
 {
-  "vid": "2541",
-  "vname": "Bitrix",
-  "vcpe": "cpe:/:bitrix",
-  "pid": "25172",
-  "pname": "bitrix.mpbuilder",
-  "pcpe": "cpe:/a:bitrix:mpbuilder"
+	"vid": "2541",
+	"vname": "Bitrix",
+	"vcpe": "cpe:/:bitrix",
+	"pid": "25172",
+	"pname": "bitrix.mpbuilder",
+	"pcpe": "cpe:/a:bitrix:mpbuilder"
 }

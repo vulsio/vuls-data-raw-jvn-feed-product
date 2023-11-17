@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3325",
-  "pname": "HP LaserJet 9050",
-  "pcpe": "cpe:/h:hp:laserjet_9050"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3325",
+	"pname": "HP LaserJet 9050",
+	"pcpe": "cpe:/h:hp:laserjet_9050"
 }

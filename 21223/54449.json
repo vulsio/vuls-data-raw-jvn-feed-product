@@ -1,8 +1,8 @@
 {
-  "vid": "21223",
-  "vname": "Metagauss Inc.",
-  "vcpe": "cpe:/:metagauss",
-  "pid": "54449",
-  "pname": "Download Plugin",
-  "pcpe": "cpe:/a:metagauss:download_plugin"
+	"vid": "21223",
+	"vname": "Metagauss Inc.",
+	"vcpe": "cpe:/:metagauss",
+	"pid": "54449",
+	"pname": "Download Plugin",
+	"pcpe": "cpe:/a:metagauss:download_plugin"
 }

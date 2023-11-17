@@ -1,8 +1,8 @@
 {
-  "vid": "29",
-  "vname": "エフ・セキュア",
-  "vcpe": "cpe:/:f-secure",
-  "pid": "32692",
-  "pname": "Radar",
-  "pcpe": "cpe:/a:f-secure:radar"
+	"vid": "29",
+	"vname": "エフ・セキュア",
+	"vcpe": "cpe:/:f-secure",
+	"pid": "32692",
+	"pname": "Radar",
+	"pcpe": "cpe:/a:f-secure:radar"
 }

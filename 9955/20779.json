@@ -1,8 +1,8 @@
 {
-  "vid": "9955",
-  "vname": "LINE株式会社",
-  "vcpe": "cpe:/:linecorp",
-  "pid": "20779",
-  "pname": "LINE",
-  "pcpe": "cpe:/a:linecorp:line"
+	"vid": "9955",
+	"vname": "LINE株式会社",
+	"vcpe": "cpe:/:linecorp",
+	"pid": "20779",
+	"pname": "LINE",
+	"pcpe": "cpe:/a:linecorp:line"
 }

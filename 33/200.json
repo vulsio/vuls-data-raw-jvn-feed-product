@@ -1,8 +1,8 @@
 {
-  "vid": "33",
-  "vname": "BEAシステムズ",
-  "vcpe": "cpe:/:bea",
-  "pid": "200",
-  "pname": "BEA JRockit",
-  "pcpe": "cpe:/a:bea:jrockit"
+	"vid": "33",
+	"vname": "BEAシステムズ",
+	"vcpe": "cpe:/:bea",
+	"pid": "200",
+	"pname": "BEA JRockit",
+	"pcpe": "cpe:/a:bea:jrockit"
 }

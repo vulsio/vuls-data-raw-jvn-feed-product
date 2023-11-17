@@ -1,8 +1,8 @@
 {
-  "vid": "21528",
-  "vname": "Ultimaker",
-  "vcpe": "cpe:/:ultimaker",
-  "pid": "55310",
-  "pname": "Ultimaker 3 ファームウェア",
-  "pcpe": "cpe:/o:ultimaker:ultimaker_3_firmware"
+	"vid": "21528",
+	"vname": "Ultimaker",
+	"vcpe": "cpe:/:ultimaker",
+	"pid": "55310",
+	"pname": "Ultimaker 3 ファームウェア",
+	"pcpe": "cpe:/o:ultimaker:ultimaker_3_firmware"
 }

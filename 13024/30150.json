@@ -1,8 +1,8 @@
 {
-  "vid": "13024",
-  "vname": "Apache2Triad Net",
-  "vcpe": "cpe:/:apache2triad",
-  "pid": "30150",
-  "pname": "Apache2Triad",
-  "pcpe": "cpe:/a:apache2triad:apache2triad"
+	"vid": "13024",
+	"vname": "Apache2Triad Net",
+	"vcpe": "cpe:/:apache2triad",
+	"pid": "30150",
+	"pname": "Apache2Triad",
+	"pcpe": "cpe:/a:apache2triad:apache2triad"
 }

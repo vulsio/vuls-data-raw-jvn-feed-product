@@ -1,8 +1,8 @@
 {
-  "vid": "18505",
-  "vname": "Open Enclave",
-  "vcpe": "cpe:/:openenclave",
-  "pid": "45666",
-  "pname": "openenclave",
-  "pcpe": "cpe:/a:openenclave:openenclave"
+	"vid": "18505",
+	"vname": "Open Enclave",
+	"vcpe": "cpe:/:openenclave",
+	"pid": "45666",
+	"pname": "openenclave",
+	"pcpe": "cpe:/a:openenclave:openenclave"
 }

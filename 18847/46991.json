@@ -1,8 +1,8 @@
 {
-  "vid": "18847",
-  "vname": "Mind",
-  "vcpe": "cpe:/:mind",
-  "pid": "46991",
-  "pname": "iMind Server",
-  "pcpe": "cpe:/a:mind:imind_server"
+	"vid": "18847",
+	"vname": "Mind",
+	"vcpe": "cpe:/:mind",
+	"pid": "46991",
+	"pname": "iMind Server",
+	"pcpe": "cpe:/a:mind:imind_server"
 }

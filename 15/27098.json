@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27098",
-  "pname": "Oracle Platform Security for Java",
-  "pcpe": "cpe:/a:oracle:platform_security_for_java"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27098",
+	"pname": "Oracle Platform Security for Java",
+	"pcpe": "cpe:/a:oracle:platform_security_for_java"
 }

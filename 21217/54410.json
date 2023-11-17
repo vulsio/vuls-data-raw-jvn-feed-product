@@ -1,8 +1,8 @@
 {
-  "vid": "21217",
-  "vname": "日立国際電気",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "54410",
-  "pname": "KV-H551HDA-S01 ファームウェア",
-  "pcpe": "cpe:/o:hitachi:kv-h551hda-s01_firmware"
+	"vid": "21217",
+	"vname": "日立国際電気",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "54410",
+	"pname": "KV-H551HDA-S01 ファームウェア",
+	"pcpe": "cpe:/o:hitachi:kv-h551hda-s01_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11775",
-  "vname": "Frontend User Upload project",
-  "vcpe": "cpe:/:frontend_user_upload_project",
-  "pid": "24311",
-  "pname": "Frontend User Upload",
-  "pcpe": "cpe:/a:frontend_user_upload_project:frontend_user_upload"
+	"vid": "11775",
+	"vname": "Frontend User Upload project",
+	"vcpe": "cpe:/:frontend_user_upload_project",
+	"pid": "24311",
+	"pname": "Frontend User Upload",
+	"pcpe": "cpe:/a:frontend_user_upload_project:frontend_user_upload"
 }

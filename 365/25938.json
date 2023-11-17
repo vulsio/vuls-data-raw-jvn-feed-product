@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "25938",
-  "pname": "XenMobile Server",
-  "pcpe": "cpe:/a:citrix:xenmobile_server"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "25938",
+	"pname": "XenMobile Server",
+	"pcpe": "cpe:/a:citrix:xenmobile_server"
 }

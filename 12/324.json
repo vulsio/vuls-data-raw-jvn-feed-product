@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "324",
-  "pname": "Trend Micro Anti-Spyware for Enterprise",
-  "pcpe": "cpe:/a:trendmicro:anti-spyware_for_enterprise"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "324",
+	"pname": "Trend Micro Anti-Spyware for Enterprise",
+	"pcpe": "cpe:/a:trendmicro:anti-spyware_for_enterprise"
 }

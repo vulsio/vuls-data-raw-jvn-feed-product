@@ -1,8 +1,8 @@
 {
-  "vid": "14668",
-  "vname": "jwt-simple project",
-  "vcpe": "cpe:/:jwt-simple_project",
-  "pid": "34394",
-  "pname": "jwt-simple",
-  "pcpe": "cpe:/a:jwt-simple_project:jwt-simple"
+	"vid": "14668",
+	"vname": "jwt-simple project",
+	"vcpe": "cpe:/:jwt-simple_project",
+	"pid": "34394",
+	"pname": "jwt-simple",
+	"pcpe": "cpe:/a:jwt-simple_project:jwt-simple"
 }

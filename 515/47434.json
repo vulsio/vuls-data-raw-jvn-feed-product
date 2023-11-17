@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "47434",
-  "pname": "Single Sign-On for VMware Tanzu",
-  "pcpe": "cpe:/a:vmware:single_sign-on_for_tanzu"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "47434",
+	"pname": "Single Sign-On for VMware Tanzu",
+	"pcpe": "cpe:/a:vmware:single_sign-on_for_tanzu"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9570",
-  "vname": "Crowbar",
-  "vcpe": "cpe:/:crowbar_project",
-  "pid": "19806",
-  "pname": "barclamp-network",
-  "pcpe": "cpe:/a:crowbar_project:barclamp"
+	"vid": "9570",
+	"vname": "Crowbar",
+	"vcpe": "cpe:/:crowbar_project",
+	"pid": "19806",
+	"pname": "barclamp-network",
+	"pcpe": "cpe:/a:crowbar_project:barclamp"
 }

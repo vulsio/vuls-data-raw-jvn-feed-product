@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27881",
-  "pname": "IBM Tealeaf Customer Experience on Cloud Network Capture Add-On",
-  "pcpe": "cpe:/a:ibm:tealeaf_customer_experience_on_cloud_network_capture_add-on"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27881",
+	"pname": "IBM Tealeaf Customer Experience on Cloud Network Capture Add-On",
+	"pcpe": "cpe:/a:ibm:tealeaf_customer_experience_on_cloud_network_capture_add-on"
 }

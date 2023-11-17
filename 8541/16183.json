@@ -1,8 +1,8 @@
 {
-  "vid": "8541",
-  "vname": "winsoftmagic",
-  "vcpe": "cpe:/:winsoftmagic",
-  "pid": "16183",
-  "pname": "winremotepc full",
-  "pcpe": "cpe:/a:winsoftmagic:winremotepc_full"
+	"vid": "8541",
+	"vname": "winsoftmagic",
+	"vcpe": "cpe:/:winsoftmagic",
+	"pid": "16183",
+	"pname": "winremotepc full",
+	"pcpe": "cpe:/a:winsoftmagic:winremotepc_full"
 }

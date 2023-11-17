@@ -1,8 +1,8 @@
 {
-  "vid": "8880",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron_2",
-  "pid": "20630",
-  "pname": "NS15",
-  "pcpe": "cpe:/h:omron_2:ns15_hmi_terminal"
+	"vid": "8880",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron_2",
+	"pid": "20630",
+	"pname": "NS15",
+	"pcpe": "cpe:/h:omron_2:ns15_hmi_terminal"
 }

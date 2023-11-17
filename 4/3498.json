@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3498",
-  "pname": "HP Application Lifecycle Management",
-  "pcpe": "cpe:/a:hp:application_lifecycle_management"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3498",
+	"pname": "HP Application Lifecycle Management",
+	"pcpe": "cpe:/a:hp:application_lifecycle_management"
 }

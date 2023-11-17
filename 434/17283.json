@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "17283",
-  "pname": "Documentum WDK",
-  "pcpe": "cpe:/a:emc:documentum_wdk"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "17283",
+	"pname": "Documentum WDK",
+	"pcpe": "cpe:/a:emc:documentum_wdk"
 }

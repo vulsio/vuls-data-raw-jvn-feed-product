@@ -1,8 +1,8 @@
 {
-  "vid": "21585",
-  "vname": "Auto Upload Images project",
-  "vcpe": "cpe:/:auto_upload_images_project",
-  "pid": "55451",
-  "pname": "Auto Upload Images",
-  "pcpe": "cpe:/a:auto_upload_images_project:auto_upload_images"
+	"vid": "21585",
+	"vname": "Auto Upload Images project",
+	"vcpe": "cpe:/:auto_upload_images_project",
+	"pid": "55451",
+	"pname": "Auto Upload Images",
+	"pcpe": "cpe:/a:auto_upload_images_project:auto_upload_images"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19677",
-  "vname": "SaasProject",
-  "vcpe": "cpe:/:saasproject",
-  "pid": "49589",
-  "pname": "Booking Package",
-  "pcpe": "cpe:/a:saasproject:booking_package"
+	"vid": "19677",
+	"vname": "SaasProject",
+	"vcpe": "cpe:/:saasproject",
+	"pid": "49589",
+	"pname": "Booking Package",
+	"pcpe": "cpe:/a:saasproject:booking_package"
 }

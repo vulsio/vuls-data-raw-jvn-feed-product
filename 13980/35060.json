@@ -1,8 +1,8 @@
 {
-  "vid": "13980",
-  "vname": "CyberArk Software Ltd.",
-  "vcpe": "cpe:/:cyberark",
-  "pid": "35060",
-  "pname": "Endpoint Privilege Manager",
-  "pcpe": "cpe:/a:cyberark:endpoint_privilege_manager"
+	"vid": "13980",
+	"vname": "CyberArk Software Ltd.",
+	"vcpe": "cpe:/:cyberark",
+	"pid": "35060",
+	"pname": "Endpoint Privilege Manager",
+	"pcpe": "cpe:/a:cyberark:endpoint_privilege_manager"
 }

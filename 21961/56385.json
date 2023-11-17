@@ -1,8 +1,8 @@
 {
-  "vid": "21961",
-  "vname": "bottle-auth project",
-  "vcpe": "cpe:/:bottle-auth_project",
-  "pid": "56385",
-  "pname": "bottle-auth",
-  "pcpe": "cpe:/a:bottle-auth_project:bottle-auth"
+	"vid": "21961",
+	"vname": "bottle-auth project",
+	"vcpe": "cpe:/:bottle-auth_project",
+	"pid": "56385",
+	"pname": "bottle-auth",
+	"pcpe": "cpe:/a:bottle-auth_project:bottle-auth"
 }

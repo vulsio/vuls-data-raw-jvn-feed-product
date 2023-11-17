@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4457",
-  "pname": "IBM Datacap Taskmaster Capture",
-  "pcpe": "cpe:/a:ibm:datacap_taskmaster_capture"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4457",
+	"pname": "IBM Datacap Taskmaster Capture",
+	"pcpe": "cpe:/a:ibm:datacap_taskmaster_capture"
 }

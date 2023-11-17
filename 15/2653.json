@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2653",
-  "pname": "Oracle VM VirtualBox",
-  "pcpe": "cpe:/a:oracle:vm_virtualbox"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2653",
+	"pname": "Oracle VM VirtualBox",
+	"pcpe": "cpe:/a:oracle:vm_virtualbox"
 }

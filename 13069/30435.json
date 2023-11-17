@@ -1,8 +1,8 @@
 {
-  "vid": "13069",
-  "vname": "Thales e-Security",
-  "vcpe": "cpe:/:thalesesecurity",
-  "pid": "30435",
-  "pname": "nShield Connect ファームウェア",
-  "pcpe": "cpe:/o:thalesesecurity:nshield_connect_firmware"
+	"vid": "13069",
+	"vname": "Thales e-Security",
+	"vcpe": "cpe:/:thalesesecurity",
+	"pid": "30435",
+	"pname": "nShield Connect ファームウェア",
+	"pcpe": "cpe:/o:thalesesecurity:nshield_connect_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20367",
-  "vname": "Unicorn Engine",
-  "vcpe": "cpe:/:unicorn-engine",
-  "pid": "51935",
-  "pname": "Unicorn Engine",
-  "pcpe": "cpe:/a:unicorn-engine:unicorn_engine"
+	"vid": "20367",
+	"vname": "Unicorn Engine",
+	"vcpe": "cpe:/:unicorn-engine",
+	"pid": "51935",
+	"pname": "Unicorn Engine",
+	"pcpe": "cpe:/a:unicorn-engine:unicorn_engine"
 }

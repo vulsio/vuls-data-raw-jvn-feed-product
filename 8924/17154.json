@@ -1,8 +1,8 @@
 {
-  "vid": "8924",
-  "vname": "ソフトバンク・テクノロジー株式会社",
-  "vcpe": "cpe:/:softbanktech",
-  "pid": "17154",
-  "pname": "Online Service Gate",
-  "pcpe": "cpe:/a:softbanktech:online_service_gate"
+	"vid": "8924",
+	"vname": "ソフトバンク・テクノロジー株式会社",
+	"vcpe": "cpe:/:softbanktech",
+	"pid": "17154",
+	"pname": "Online Service Gate",
+	"pcpe": "cpe:/a:softbanktech:online_service_gate"
 }

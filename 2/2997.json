@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "2997",
-  "pname": "Microsoft Office Groove Management Server",
-  "pcpe": "cpe:/a:microsoft:groove_management_server"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "2997",
+	"pname": "Microsoft Office Groove Management Server",
+	"pcpe": "cpe:/a:microsoft:groove_management_server"
 }

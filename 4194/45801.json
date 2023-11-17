@@ -1,8 +1,8 @@
 {
-  "vid": "4194",
-  "vname": "Grandstream Networks",
-  "vcpe": "cpe:/:grandstream",
-  "pid": "45801",
-  "pname": "HT813 ファームウェア",
-  "pcpe": "cpe:/o:grandstream:ht813_firmware"
+	"vid": "4194",
+	"vname": "Grandstream Networks",
+	"vcpe": "cpe:/:grandstream",
+	"pid": "45801",
+	"pname": "HT813 ファームウェア",
+	"pcpe": "cpe:/o:grandstream:ht813_firmware"
 }

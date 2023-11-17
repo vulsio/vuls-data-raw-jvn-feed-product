@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "63119",
-  "pname": "zxa10 b860h ファームウェア",
-  "pcpe": "cpe:/o:zte:zxa10_b860h_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "63119",
+	"pname": "zxa10 b860h ファームウェア",
+	"pcpe": "cpe:/o:zte:zxa10_b860h_firmware"
 }

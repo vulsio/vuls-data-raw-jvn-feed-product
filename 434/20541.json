@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "20541",
-  "pname": "EMC Documentum CenterStage",
-  "pcpe": "cpe:/a:emc:centerstage"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "20541",
+	"pname": "EMC Documentum CenterStage",
+	"pcpe": "cpe:/a:emc:centerstage"
 }

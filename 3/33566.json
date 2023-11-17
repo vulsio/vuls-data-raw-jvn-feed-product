@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "33566",
-  "pname": "Ansible Tower",
-  "pcpe": "cpe:/a:redhat:ansible_tower"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "33566",
+	"pname": "Ansible Tower",
+	"pcpe": "cpe:/a:redhat:ansible_tower"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63374",
-  "pname": "HP OfficeJet 6950 All-in-One Printer T3P03A ファームウェア",
-  "pcpe": "cpe:/o:hp:t3p03a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63374",
+	"pname": "HP OfficeJet 6950 All-in-One Printer T3P03A ファームウェア",
+	"pcpe": "cpe:/o:hp:t3p03a_firmware"
 }

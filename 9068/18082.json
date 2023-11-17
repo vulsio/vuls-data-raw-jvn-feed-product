@@ -1,8 +1,8 @@
 {
-  "vid": "9068",
-  "vname": "Die Netzmacher",
-  "vcpe": "cpe:/:die-netzmacher",
-  "pid": "18082",
-  "pname": "Browser - TYPO3 without PHP",
-  "pcpe": "cpe:/a:die-netzmacher:browser"
+	"vid": "9068",
+	"vname": "Die Netzmacher",
+	"vcpe": "cpe:/:die-netzmacher",
+	"pid": "18082",
+	"pname": "Browser - TYPO3 without PHP",
+	"pcpe": "cpe:/a:die-netzmacher:browser"
 }

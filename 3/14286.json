@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "14286",
-  "pname": "certificate server",
-  "pcpe": "cpe:/a:redhat:certificate_server"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "14286",
+	"pname": "certificate server",
+	"pcpe": "cpe:/a:redhat:certificate_server"
 }

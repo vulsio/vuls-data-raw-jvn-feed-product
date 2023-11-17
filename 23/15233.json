@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15233",
-  "pname": "system works",
-  "pcpe": "cpe:/a:symantec:system_works"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15233",
+	"pname": "system works",
+	"pcpe": "cpe:/a:symantec:system_works"
 }

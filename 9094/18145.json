@@ -1,8 +1,8 @@
 {
-  "vid": "9094",
-  "vname": "Stage File Proxy",
-  "vcpe": "cpe:/:stage_file_proxy_project",
-  "pid": "18145",
-  "pname": "Stage File Proxy",
-  "pcpe": "cpe:/a:stage_file_proxy_project:stage_file_proxy"
+	"vid": "9094",
+	"vname": "Stage File Proxy",
+	"vcpe": "cpe:/:stage_file_proxy_project",
+	"pid": "18145",
+	"pname": "Stage File Proxy",
+	"pcpe": "cpe:/a:stage_file_proxy_project:stage_file_proxy"
 }

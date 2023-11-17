@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "34787",
-  "pname": "IBM z/OS Connector",
-  "pcpe": "cpe:/a:jenkins:z%2fos_connector"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "34787",
+	"pname": "IBM z/OS Connector",
+	"pcpe": "cpe:/a:jenkins:z%2fos_connector"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "7",
-  "vname": "ISC, Inc.",
-  "vcpe": "cpe:/:isc",
-  "pid": "3418",
-  "pname": "ISC DHCP",
-  "pcpe": "cpe:/a:isc:dhcp"
+	"vid": "7",
+	"vname": "ISC, Inc.",
+	"vcpe": "cpe:/:isc",
+	"pid": "3418",
+	"pname": "ISC DHCP",
+	"pcpe": "cpe:/a:isc:dhcp"
 }

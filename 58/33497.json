@@ -1,8 +1,8 @@
 {
-  "vid": "58",
-  "vname": "KDE project",
-  "vcpe": "cpe:/:kde",
-  "pid": "33497",
-  "pname": "KDE Wallet Manager",
-  "pcpe": "cpe:/a:kde:plasma"
+	"vid": "58",
+	"vname": "KDE project",
+	"vcpe": "cpe:/:kde",
+	"pid": "33497",
+	"pname": "KDE Wallet Manager",
+	"pcpe": "cpe:/a:kde:plasma"
 }

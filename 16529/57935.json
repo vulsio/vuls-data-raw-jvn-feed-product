@@ -1,8 +1,8 @@
 {
-  "vid": "16529",
-  "vname": "Stormshield",
-  "vcpe": "cpe:/:stormshield",
-  "pid": "57935",
-  "pname": "network security",
-  "pcpe": "cpe:/a:stormshield:network_security"
+	"vid": "16529",
+	"vname": "Stormshield",
+	"vcpe": "cpe:/:stormshield",
+	"pid": "57935",
+	"pname": "network security",
+	"pcpe": "cpe:/a:stormshield:network_security"
 }

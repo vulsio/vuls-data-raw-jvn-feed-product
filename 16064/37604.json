@@ -1,8 +1,8 @@
 {
-  "vid": "16064",
-  "vname": "Signiant",
-  "vcpe": "cpe:/:signiant",
-  "pid": "37604",
-  "pname": "Manager+Agents",
-  "pcpe": "cpe:/a:signiant:manager%2bagents"
+	"vid": "16064",
+	"vname": "Signiant",
+	"vcpe": "cpe:/:signiant",
+	"pid": "37604",
+	"pname": "Manager+Agents",
+	"pcpe": "cpe:/a:signiant:manager%2bagents"
 }

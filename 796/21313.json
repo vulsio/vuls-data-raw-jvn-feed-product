@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "21313",
-  "pname": "Linksys WRT310N ファームウェア",
-  "pcpe": "cpe:/o:linksys:linksys_wrt310n_router_firmware"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "21313",
+	"pname": "Linksys WRT310N ファームウェア",
+	"pcpe": "cpe:/o:linksys:linksys_wrt310n_router_firmware"
 }

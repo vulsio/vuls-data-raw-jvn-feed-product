@@ -1,8 +1,8 @@
 {
-  "vid": "21895",
-  "vname": "Renault",
-  "vcpe": "cpe:/:renault",
-  "pid": "56230",
-  "pname": "ZOE E-TECH ファームウェア",
-  "pcpe": "cpe:/o:renault:zoe_e-tech_firmware"
+	"vid": "21895",
+	"vname": "Renault",
+	"vcpe": "cpe:/:renault",
+	"pid": "56230",
+	"pname": "ZOE E-TECH ファームウェア",
+	"pcpe": "cpe:/o:renault:zoe_e-tech_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "61164",
-  "pname": "Restaurant Menu - Food Ordering System - Table Reservation",
-  "pcpe": "cpe:/a:oracle:restaurant_menu_-_food_ordering_system_-_table_reservation"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "61164",
+	"pname": "Restaurant Menu - Food Ordering System - Table Reservation",
+	"pcpe": "cpe:/a:oracle:restaurant_menu_-_food_ordering_system_-_table_reservation"
 }

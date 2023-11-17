@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "33731",
-  "pname": "RX3i CPE 400 ファームウェア",
-  "pcpe": "cpe:/o:ge:rx3i_cpe_400_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "33731",
+	"pname": "RX3i CPE 400 ファームウェア",
+	"pcpe": "cpe:/o:ge:rx3i_cpe_400_firmware"
 }

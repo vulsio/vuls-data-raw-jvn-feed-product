@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "42014",
-  "pname": "iPhone 3GS",
-  "pcpe": "cpe:/h:apple:iphone_3gs"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "42014",
+	"pname": "iPhone 3GS",
+	"pcpe": "cpe:/h:apple:iphone_3gs"
 }

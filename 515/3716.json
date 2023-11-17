@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "3716",
-  "pname": "Zimbra Desktop",
-  "pcpe": "cpe:/a:vmware:zimbra_desktop"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "3716",
+	"pname": "Zimbra Desktop",
+	"pcpe": "cpe:/a:vmware:zimbra_desktop"
 }

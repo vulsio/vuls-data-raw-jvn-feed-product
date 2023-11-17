@@ -1,8 +1,8 @@
 {
-  "vid": "17564",
-  "vname": "ROS",
-  "vcpe": "cpe:/:ros",
-  "pid": "42074",
-  "pname": "ROS communications",
-  "pcpe": "cpe:/a:ros:ros-comm"
+	"vid": "17564",
+	"vname": "ROS",
+	"vcpe": "cpe:/:ros",
+	"pid": "42074",
+	"pname": "ROS communications",
+	"pcpe": "cpe:/a:ros:ros-comm"
 }

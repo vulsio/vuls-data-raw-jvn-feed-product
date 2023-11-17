@@ -1,8 +1,8 @@
 {
-  "vid": "2855",
-  "vname": "clicktech",
-  "vcpe": "cpe:/:clicktech",
-  "pid": "6820",
-  "pname": "clickauction",
-  "pcpe": "cpe:/a:clicktech:clickauction"
+	"vid": "2855",
+	"vname": "clicktech",
+	"vcpe": "cpe:/:clicktech",
+	"pid": "6820",
+	"pname": "clickauction",
+	"pcpe": "cpe:/a:clicktech:clickauction"
 }

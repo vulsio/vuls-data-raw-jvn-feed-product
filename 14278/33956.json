@@ -1,8 +1,8 @@
 {
-  "vid": "14278",
-  "vname": "closurecompiler project",
-  "vcpe": "cpe:/:closurecompiler_project",
-  "pid": "33956",
-  "pname": "closurecompiler",
-  "pcpe": "cpe:/a:closurecompiler_project:closurecompiler"
+	"vid": "14278",
+	"vname": "closurecompiler project",
+	"vcpe": "cpe:/:closurecompiler_project",
+	"pid": "33956",
+	"pname": "closurecompiler",
+	"pcpe": "cpe:/a:closurecompiler_project:closurecompiler"
 }

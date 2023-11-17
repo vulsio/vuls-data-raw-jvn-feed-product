@@ -1,8 +1,8 @@
 {
-  "vid": "8348",
-  "vname": "Vocera",
-  "vcpe": "cpe:/:vocera",
-  "pid": "15939",
-  "pname": "vocera communications badge",
-  "pcpe": "cpe:/a:vocera:vocera_communications_badge"
+	"vid": "8348",
+	"vname": "Vocera",
+	"vcpe": "cpe:/:vocera",
+	"pid": "15939",
+	"pname": "vocera communications badge",
+	"pcpe": "cpe:/a:vocera:vocera_communications_badge"
 }

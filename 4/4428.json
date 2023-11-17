@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4428",
-  "pname": "openview performance agent",
-  "pcpe": "cpe:/a:hp:openview_performance_agent"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4428",
+	"pname": "openview performance agent",
+	"pcpe": "cpe:/a:hp:openview_performance_agent"
 }

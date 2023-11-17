@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "59088",
-  "pname": "ideapad gaming 3-15imh05 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideapad_gaming_3-15imh05_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "59088",
+	"pname": "ideapad gaming 3-15imh05 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideapad_gaming_3-15imh05_firmware"
 }

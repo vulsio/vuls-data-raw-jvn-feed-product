@@ -1,8 +1,8 @@
 {
-  "vid": "16930",
-  "vname": "Zebra Technologies Corp",
-  "vcpe": "cpe:/:zebra",
-  "pid": "56552",
-  "pname": "Enterprise Home Screen",
-  "pcpe": "cpe:/a:zebra:enterprise_home_screen"
+	"vid": "16930",
+	"vname": "Zebra Technologies Corp",
+	"vcpe": "cpe:/:zebra",
+	"pid": "56552",
+	"pname": "Enterprise Home Screen",
+	"pcpe": "cpe:/a:zebra:enterprise_home_screen"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10333",
-  "vname": "Claudio Kuenzler",
-  "vcpe": "cpe:/:check_diskio_project",
-  "pid": "21726",
-  "pname": "check_diskio",
-  "pcpe": "cpe:/a:check_diskio_project:check_diskio"
+	"vid": "10333",
+	"vname": "Claudio Kuenzler",
+	"vcpe": "cpe:/:check_diskio_project",
+	"pid": "21726",
+	"pname": "check_diskio",
+	"pcpe": "cpe:/a:check_diskio_project:check_diskio"
 }

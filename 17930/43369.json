@@ -1,8 +1,8 @@
 {
-  "vid": "17930",
-  "vname": "script-manager project",
-  "vcpe": "cpe:/:script-manager_project",
-  "pid": "43369",
-  "pname": "script-manager",
-  "pcpe": "cpe:/a:script-manager_project:script-manager"
+	"vid": "17930",
+	"vname": "script-manager project",
+	"vcpe": "cpe:/:script-manager_project",
+	"pid": "43369",
+	"pname": "script-manager",
+	"pcpe": "cpe:/a:script-manager_project:script-manager"
 }

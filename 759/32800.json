@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "32800",
-  "pname": "D60 Line Distance Relay ファームウェア",
-  "pcpe": "cpe:/o:ge:d60_line_distance_relay_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "32800",
+	"pname": "D60 Line Distance Relay ファームウェア",
+	"pcpe": "cpe:/o:ge:d60_line_distance_relay_firmware"
 }

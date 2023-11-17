@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "51551",
-  "pname": "Steel Belted Radius Carrier",
-  "pcpe": "cpe:/a:juniper:steel-belted_radius_carrier"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "51551",
+	"pname": "Steel Belted Radius Carrier",
+	"pcpe": "cpe:/a:juniper:steel-belted_radius_carrier"
 }

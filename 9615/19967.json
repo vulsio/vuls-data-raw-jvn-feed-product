@@ -1,8 +1,8 @@
 {
-  "vid": "9615",
-  "vname": "Applied Informatics Software Engineering GmbH",
-  "vcpe": "cpe:/:pocoproject",
-  "pid": "19967",
-  "pname": "POCO C++ Libraries",
-  "pcpe": "cpe:/a:pocoproject:poco_c%2B%2B_libraries"
+	"vid": "9615",
+	"vname": "Applied Informatics Software Engineering GmbH",
+	"vcpe": "cpe:/:pocoproject",
+	"pid": "19967",
+	"pname": "POCO C++ Libraries",
+	"pcpe": "cpe:/a:pocoproject:poco_c%2B%2B_libraries"
 }

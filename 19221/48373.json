@@ -1,8 +1,8 @@
 {
-  "vid": "19221",
-  "vname": "Underscore.js",
-  "vcpe": "cpe:/:underscorejs",
-  "pid": "48373",
-  "pname": "Underscore",
-  "pcpe": "cpe:/a:underscorejs:underscore"
+	"vid": "19221",
+	"vname": "Underscore.js",
+	"vcpe": "cpe:/:underscorejs",
+	"pid": "48373",
+	"pname": "Underscore",
+	"pcpe": "cpe:/a:underscorejs:underscore"
 }

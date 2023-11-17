@@ -1,8 +1,8 @@
 {
-  "vid": "13607",
-  "vname": "Ethereum Foundation",
-  "vcpe": "cpe:/:ethereum",
-  "pid": "39136",
-  "pname": "EthereumJ",
-  "pcpe": "cpe:/a:ethereum:ethereumj"
+	"vid": "13607",
+	"vname": "Ethereum Foundation",
+	"vcpe": "cpe:/:ethereum",
+	"pid": "39136",
+	"pname": "EthereumJ",
+	"pcpe": "cpe:/a:ethereum:ethereumj"
 }

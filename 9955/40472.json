@@ -1,8 +1,8 @@
 {
-  "vid": "9955",
-  "vname": "LINE株式会社",
-  "vcpe": "cpe:/:linecorp",
-  "pid": "40472",
-  "pname": "apng-drawable",
-  "pcpe": "cpe:/a:linecorp:apng-drawable"
+	"vid": "9955",
+	"vname": "LINE株式会社",
+	"vcpe": "cpe:/:linecorp",
+	"pid": "40472",
+	"pname": "apng-drawable",
+	"pcpe": "cpe:/a:linecorp:apng-drawable"
 }

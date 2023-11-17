@@ -1,8 +1,8 @@
 {
-  "vid": "11957",
-  "vname": "rpcbind project",
-  "vcpe": "cpe:/:rpcbind_project",
-  "pid": "24907",
-  "pname": "rpcbind",
-  "pcpe": "cpe:/a:rpcbind_project:rpcbind"
+	"vid": "11957",
+	"vname": "rpcbind project",
+	"vcpe": "cpe:/:rpcbind_project",
+	"pid": "24907",
+	"pname": "rpcbind",
+	"pcpe": "cpe:/a:rpcbind_project:rpcbind"
 }

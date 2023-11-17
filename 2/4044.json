@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "4044",
-  "pname": "Microsoft Expression Design",
-  "pcpe": "cpe:/a:microsoft:expression_design"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "4044",
+	"pname": "Microsoft Expression Design",
+	"pcpe": "cpe:/a:microsoft:expression_design"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13273",
-  "vname": "Sergey Ayukov",
-  "vcpe": "cpe:/:nftpd_project",
-  "pid": "31039",
-  "pname": "NFTP",
-  "pcpe": "cpe:/a:nftpd_project:nftpd"
+	"vid": "13273",
+	"vname": "Sergey Ayukov",
+	"vcpe": "cpe:/:nftpd_project",
+	"pid": "31039",
+	"pname": "NFTP",
+	"pcpe": "cpe:/a:nftpd_project:nftpd"
 }

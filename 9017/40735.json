@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "40735",
-  "pname": "X11DPS-RE ファームウェア",
-  "pcpe": "cpe:/o:supermicro:x11dps-re_firmware"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "40735",
+	"pname": "X11DPS-RE ファームウェア",
+	"pcpe": "cpe:/o:supermicro:x11dps-re_firmware"
 }

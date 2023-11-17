@@ -1,8 +1,8 @@
 {
-  "vid": "22584",
-  "vname": "BaiCells",
-  "vcpe": "cpe:/:baicells",
-  "pid": "58121",
-  "pname": "RTS ファームウェア",
-  "pcpe": "cpe:/o:baicells:rts_firmware"
+	"vid": "22584",
+	"vname": "BaiCells",
+	"vcpe": "cpe:/:baicells",
+	"pid": "58121",
+	"pname": "RTS ファームウェア",
+	"pcpe": "cpe:/o:baicells:rts_firmware"
 }

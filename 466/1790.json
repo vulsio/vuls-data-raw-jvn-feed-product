@@ -1,8 +1,8 @@
 {
-  "vid": "466",
-  "vname": "Little CMS",
-  "vcpe": "cpe:/:littlecms",
-  "pid": "1790",
-  "pname": "Little CMS",
-  "pcpe": "cpe:/a:littlecms:little_cms_color_engine"
+	"vid": "466",
+	"vname": "Little CMS",
+	"vcpe": "cpe:/:littlecms",
+	"pid": "1790",
+	"pname": "Little CMS",
+	"pcpe": "cpe:/a:littlecms:little_cms_color_engine"
 }

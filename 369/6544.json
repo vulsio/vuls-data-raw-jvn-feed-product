@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "6544",
-  "pname": "unicenter nsm wireless network management option",
-  "pcpe": "cpe:/a:ca:unicenter_nsm_wireless_network_management_option"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "6544",
+	"pname": "unicenter nsm wireless network management option",
+	"pcpe": "cpe:/a:ca:unicenter_nsm_wireless_network_management_option"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3442",
-  "vname": "EFS Software",
-  "vcpe": "cpe:/:efs_software",
-  "pid": "20167",
-  "pname": "Easy File Sharing Web Server",
-  "pcpe": "cpe:/a:efs_software:easy_file_sharing_web_server"
+	"vid": "3442",
+	"vname": "EFS Software",
+	"vcpe": "cpe:/:efs_software",
+	"pid": "20167",
+	"pname": "Easy File Sharing Web Server",
+	"pcpe": "cpe:/a:efs_software:easy_file_sharing_web_server"
 }

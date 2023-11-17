@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "2977",
-  "pname": "VMware AMS",
-  "pcpe": "cpe:/a:vmware:ams"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "2977",
+	"pname": "VMware AMS",
+	"pcpe": "cpe:/a:vmware:ams"
 }

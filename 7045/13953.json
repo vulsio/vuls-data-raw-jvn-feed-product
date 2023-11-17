@@ -1,8 +1,8 @@
 {
-  "vid": "7045",
-  "vname": "portwise",
-  "vcpe": "cpe:/:portwise",
-  "pid": "13953",
-  "pname": "ssl vpn",
-  "pcpe": "cpe:/a:portwise:ssl_vpn"
+	"vid": "7045",
+	"vname": "portwise",
+	"vcpe": "cpe:/:portwise",
+	"pid": "13953",
+	"pname": "ssl vpn",
+	"pcpe": "cpe:/a:portwise:ssl_vpn"
 }

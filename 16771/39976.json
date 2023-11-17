@@ -1,8 +1,8 @@
 {
-  "vid": "16771",
-  "vname": "20|20 Storage project",
-  "vcpe": "cpe:/:twentytwenty.storage_project",
-  "pid": "39976",
-  "pname": "20|20 Storage",
-  "pcpe": "cpe:/a:twentytwenty.storage_project:twentytwenty.storage"
+	"vid": "16771",
+	"vname": "20|20 Storage project",
+	"vcpe": "cpe:/:twentytwenty.storage_project",
+	"pid": "39976",
+	"pname": "20|20 Storage",
+	"pcpe": "cpe:/a:twentytwenty.storage_project:twentytwenty.storage"
 }

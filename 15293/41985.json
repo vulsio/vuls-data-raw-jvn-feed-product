@@ -1,8 +1,8 @@
 {
-  "vid": "15293",
-  "vname": "Tenda",
-  "vcpe": "cpe:/:tendacn",
-  "pid": "41985",
-  "pname": "AC9V1.0 ファームウェア",
-  "pcpe": "cpe:/o:tendacn:ac9v1.0_firmware"
+	"vid": "15293",
+	"vname": "Tenda",
+	"vcpe": "cpe:/:tendacn",
+	"pid": "41985",
+	"pname": "AC9V1.0 ファームウェア",
+	"pcpe": "cpe:/o:tendacn:ac9v1.0_firmware"
 }

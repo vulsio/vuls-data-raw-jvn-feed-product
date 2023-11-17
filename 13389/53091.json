@@ -1,8 +1,8 @@
 {
-  "vid": "13389",
-  "vname": "AutomationDirect",
-  "vcpe": "cpe:/:automationdirect",
-  "pid": "53091",
-  "pname": "SIO-MB04DAS ファームウェア",
-  "pcpe": "cpe:/o:automationdirect:sio-mb04das"
+	"vid": "13389",
+	"vname": "AutomationDirect",
+	"vcpe": "cpe:/:automationdirect",
+	"pid": "53091",
+	"pname": "SIO-MB04DAS ファームウェア",
+	"pcpe": "cpe:/o:automationdirect:sio-mb04das"
 }

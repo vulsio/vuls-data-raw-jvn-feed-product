@@ -1,8 +1,8 @@
 {
-  "vid": "17329",
-  "vname": "AutoPi.io",
-  "vcpe": "cpe:/:autopi",
-  "pid": "41210",
-  "pname": "Wi-Fi/NB ファームウェア",
-  "pcpe": "cpe:/o:autopi:wi-fi%2fnb_firmware"
+	"vid": "17329",
+	"vname": "AutoPi.io",
+	"vcpe": "cpe:/:autopi",
+	"pid": "41210",
+	"pname": "Wi-Fi/NB ファームウェア",
+	"pcpe": "cpe:/o:autopi:wi-fi%2fnb_firmware"
 }

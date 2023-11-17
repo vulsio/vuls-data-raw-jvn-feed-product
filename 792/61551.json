@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "61551",
-  "pname": "WAX610D ファームウェア",
-  "pcpe": "cpe:/o:zyxel:wax610d_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "61551",
+	"pname": "WAX610D ファームウェア",
+	"pcpe": "cpe:/o:zyxel:wax610d_firmware"
 }

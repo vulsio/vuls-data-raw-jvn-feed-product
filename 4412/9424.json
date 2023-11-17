@@ -1,8 +1,8 @@
 {
-  "vid": "4412",
-  "vname": "Viscom Software",
-  "vcpe": "cpe:/:viscomsoft",
-  "pid": "9424",
-  "pname": "Image Viewer CP Pro SDK",
-  "pcpe": "cpe:/a:viscomsoft:image_viewer_cp_pro_sdk"
+	"vid": "4412",
+	"vname": "Viscom Software",
+	"vcpe": "cpe:/:viscomsoft",
+	"pid": "9424",
+	"pname": "Image Viewer CP Pro SDK",
+	"pcpe": "cpe:/a:viscomsoft:image_viewer_cp_pro_sdk"
 }

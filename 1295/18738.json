@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "18738",
-  "pname": "FortiAnalyzer-2000B",
-  "pcpe": "cpe:/h:fortinet:fortianalyzer-2000b"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "18738",
+	"pname": "FortiAnalyzer-2000B",
+	"pcpe": "cpe:/h:fortinet:fortianalyzer-2000b"
 }

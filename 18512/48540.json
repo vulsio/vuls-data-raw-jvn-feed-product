@@ -1,8 +1,8 @@
 {
-  "vid": "18512",
-  "vname": "spinnaker",
-  "vcpe": "cpe:/:spinnaker",
-  "pid": "48540",
-  "pname": "Spinnaker",
-  "pcpe": "cpe:/a:spinnaker:spinnaker"
+	"vid": "18512",
+	"vname": "spinnaker",
+	"vcpe": "cpe:/:spinnaker",
+	"pid": "48540",
+	"pname": "Spinnaker",
+	"pcpe": "cpe:/a:spinnaker:spinnaker"
 }

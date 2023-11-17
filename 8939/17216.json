@@ -1,8 +1,8 @@
 {
-  "vid": "8939",
-  "vname": "tinc-vpn.org",
-  "vcpe": "cpe:/:tinc-vpn",
-  "pid": "17216",
-  "pname": "tinc",
-  "pcpe": "cpe:/a:tinc-vpn:tinc"
+	"vid": "8939",
+	"vname": "tinc-vpn.org",
+	"vcpe": "cpe:/:tinc-vpn",
+	"pid": "17216",
+	"pname": "tinc",
+	"pcpe": "cpe:/a:tinc-vpn:tinc"
 }

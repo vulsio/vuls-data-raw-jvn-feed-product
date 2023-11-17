@@ -1,8 +1,8 @@
 {
-  "vid": "9688",
-  "vname": "Beetel",
-  "vcpe": "cpe:/:beetel",
-  "pid": "49089",
-  "pname": "Beetel 777VR1 ファームウェア",
-  "pcpe": "cpe:/o:beetel:777vr1_firmware"
+	"vid": "9688",
+	"vname": "Beetel",
+	"vcpe": "cpe:/:beetel",
+	"pid": "49089",
+	"pname": "Beetel 777VR1 ファームウェア",
+	"pcpe": "cpe:/o:beetel:777vr1_firmware"
 }

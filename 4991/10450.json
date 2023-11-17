@@ -1,8 +1,8 @@
 {
-  "vid": "4991",
-  "vname": "jnshosts",
-  "vcpe": "cpe:/:jnshosts",
-  "pid": "10450",
-  "pname": "php hosting directory",
-  "pcpe": "cpe:/a:jnshosts:php_hosting_directory"
+	"vid": "4991",
+	"vname": "jnshosts",
+	"vcpe": "cpe:/:jnshosts",
+	"pid": "10450",
+	"pname": "php hosting directory",
+	"pcpe": "cpe:/a:jnshosts:php_hosting_directory"
 }

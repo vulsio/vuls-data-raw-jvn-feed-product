@@ -1,8 +1,8 @@
 {
-  "vid": "19067",
-  "vname": "Amaze File Manager project",
-  "vcpe": "cpe:/:amaze_file_manager_project",
-  "pid": "47810",
-  "pname": "Amaze File Manager",
-  "pcpe": "cpe:/a:amaze_file_manager_project:amaze_file_manager"
+	"vid": "19067",
+	"vname": "Amaze File Manager project",
+	"vcpe": "cpe:/:amaze_file_manager_project",
+	"pid": "47810",
+	"pname": "Amaze File Manager",
+	"pcpe": "cpe:/a:amaze_file_manager_project:amaze_file_manager"
 }

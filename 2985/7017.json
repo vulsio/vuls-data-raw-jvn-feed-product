@@ -1,8 +1,8 @@
 {
-  "vid": "2985",
-  "vname": "cpg-nuke",
-  "vcpe": "cpe:/:cpg-nuke",
-  "pid": "7017",
-  "pname": "dragonfly cms",
-  "pcpe": "cpe:/a:cpg-nuke:dragonfly_cms"
+	"vid": "2985",
+	"vname": "cpg-nuke",
+	"vcpe": "cpe:/:cpg-nuke",
+	"pid": "7017",
+	"pname": "dragonfly cms",
+	"pcpe": "cpe:/a:cpg-nuke:dragonfly_cms"
 }

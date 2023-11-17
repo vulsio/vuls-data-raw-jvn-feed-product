@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "45594",
-  "pname": "Oracle Enterprise Session Border Controller",
-  "pcpe": "cpe:/a:oracle:enterprise_session_border_controller"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "45594",
+	"pname": "Oracle Enterprise Session Border Controller",
+	"pcpe": "cpe:/a:oracle:enterprise_session_border_controller"
 }

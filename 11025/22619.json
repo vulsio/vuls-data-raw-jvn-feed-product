@@ -1,8 +1,8 @@
 {
-  "vid": "11025",
-  "vname": "encardirect",
-  "vcpe": "cpe:/:encardirect",
-  "pid": "22619",
-  "pname": "sk encar",
-  "pcpe": "cpe:/a:encardirect:sk_encar"
+	"vid": "11025",
+	"vname": "encardirect",
+	"vcpe": "cpe:/:encardirect",
+	"pid": "22619",
+	"pname": "sk encar",
+	"pcpe": "cpe:/a:encardirect:sk_encar"
 }

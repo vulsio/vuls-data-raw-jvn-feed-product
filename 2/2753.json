@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "2753",
-  "pname": "Microsoft PowerPoint Web App",
-  "pcpe": "cpe:/a:microsoft:powerpoint_web_app"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "2753",
+	"pname": "Microsoft PowerPoint Web App",
+	"pcpe": "cpe:/a:microsoft:powerpoint_web_app"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5191",
-  "vname": "knowledgebase-script",
-  "vcpe": "cpe:/:knowledgebase-script",
-  "pid": "10833",
-  "pname": "phpkb knowledge base software",
-  "pcpe": "cpe:/a:knowledgebase-script:phpkb_knowledge_base_software"
+	"vid": "5191",
+	"vname": "knowledgebase-script",
+	"vcpe": "cpe:/:knowledgebase-script",
+	"pid": "10833",
+	"pname": "phpkb knowledge base software",
+	"pcpe": "cpe:/a:knowledgebase-script:phpkb_knowledge_base_software"
 }

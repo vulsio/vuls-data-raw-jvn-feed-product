@@ -1,8 +1,8 @@
 {
-  "vid": "17678",
-  "vname": "MITREid",
-  "vcpe": "cpe:/:mitreid",
-  "pid": "42456",
-  "pname": "Connect",
-  "pcpe": "cpe:/a:mitreid:connect"
+	"vid": "17678",
+	"vname": "MITREid",
+	"vcpe": "cpe:/:mitreid",
+	"pid": "42456",
+	"pname": "Connect",
+	"pcpe": "cpe:/a:mitreid:connect"
 }

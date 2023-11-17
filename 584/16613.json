@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "16613",
-  "pname": "gigaset wlan camera",
-  "pcpe": "cpe:/h:siemens:gigaset_wlan_camera"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "16613",
+	"pname": "gigaset wlan camera",
+	"pcpe": "cpe:/h:siemens:gigaset_wlan_camera"
 }

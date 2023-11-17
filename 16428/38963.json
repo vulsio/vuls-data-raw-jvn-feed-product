@@ -1,8 +1,8 @@
 {
-  "vid": "16428",
-  "vname": "Northern.tech, Inc.",
-  "vcpe": "cpe:/:northern",
-  "pid": "38963",
-  "pname": "CFEngine",
-  "pcpe": "cpe:/a:northern:cfengine"
+	"vid": "16428",
+	"vname": "Northern.tech, Inc.",
+	"vcpe": "cpe:/:northern",
+	"pid": "38963",
+	"pname": "CFEngine",
+	"pcpe": "cpe:/a:northern:cfengine"
 }

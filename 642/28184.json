@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "28184",
-  "pname": "NetGear DGN2200v4",
-  "pcpe": "cpe:/h:netgear:dgn2200v4"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "28184",
+	"pname": "NetGear DGN2200v4",
+	"pcpe": "cpe:/h:netgear:dgn2200v4"
 }

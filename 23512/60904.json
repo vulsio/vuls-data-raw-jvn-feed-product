@@ -1,8 +1,8 @@
 {
-  "vid": "23512",
-  "vname": "parse-path project",
-  "vcpe": "cpe:/:parse-path_project",
-  "pid": "60904",
-  "pname": "parse-path",
-  "pcpe": "cpe:/a:parse-path_project:parse-path"
+	"vid": "23512",
+	"vname": "parse-path project",
+	"vcpe": "cpe:/:parse-path_project",
+	"pid": "60904",
+	"pname": "parse-path",
+	"pcpe": "cpe:/a:parse-path_project:parse-path"
 }

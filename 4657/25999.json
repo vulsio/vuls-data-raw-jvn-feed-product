@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "25999",
-  "pname": "FusionCompute",
-  "pcpe": "cpe:/h:huawei:fusioncompute"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "25999",
+	"pname": "FusionCompute",
+	"pcpe": "cpe:/h:huawei:fusioncompute"
 }

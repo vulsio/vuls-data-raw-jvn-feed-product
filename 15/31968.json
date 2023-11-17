@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "31968",
-  "pname": "Oracle WebCenter Portal",
-  "pcpe": "cpe:/a:oracle:webcenter_portal"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "31968",
+	"pname": "Oracle WebCenter Portal",
+	"pcpe": "cpe:/a:oracle:webcenter_portal"
 }

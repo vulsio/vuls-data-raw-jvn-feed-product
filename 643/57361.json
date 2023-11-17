@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "57361",
-  "pname": "Dell Edge Gateway 5000 ファームウェア",
-  "pcpe": "cpe:/o:dell:edge_gateway_5000_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "57361",
+	"pname": "Dell Edge Gateway 5000 ファームウェア",
+	"pcpe": "cpe:/o:dell:edge_gateway_5000_firmware"
 }

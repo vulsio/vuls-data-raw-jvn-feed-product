@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27323",
-  "pname": "ThinkPad Helix 20CG BIOS",
-  "pcpe": "cpe:/o:lenovo:thinkpad_helix_20cg_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27323",
+	"pname": "ThinkPad Helix 20CG BIOS",
+	"pcpe": "cpe:/o:lenovo:thinkpad_helix_20cg_bios"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3105",
-  "vname": "datawizard",
-  "vcpe": "cpe:/:datawizard",
-  "pid": "7173",
-  "pname": "ftpxq server",
-  "pcpe": "cpe:/a:datawizard:ftpxq_server"
+	"vid": "3105",
+	"vname": "datawizard",
+	"vcpe": "cpe:/:datawizard",
+	"pid": "7173",
+	"pname": "ftpxq server",
+	"pcpe": "cpe:/a:datawizard:ftpxq_server"
 }

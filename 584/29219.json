@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "29219",
-  "pname": "SIMATIC DK-16xx PN IO ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_dk-16xx_pn_io_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "29219",
+	"pname": "SIMATIC DK-16xx PN IO ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_dk-16xx_pn_io_firmware"
 }

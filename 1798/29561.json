@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "29561",
-  "pname": "Note Station",
-  "pcpe": "cpe:/a:synology:note_station"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "29561",
+	"pname": "Note Station",
+	"pcpe": "cpe:/a:synology:note_station"
 }

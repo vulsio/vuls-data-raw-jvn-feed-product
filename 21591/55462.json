@@ -1,8 +1,8 @@
 {
-  "vid": "21591",
-  "vname": "ghinstallation project",
-  "vcpe": "cpe:/:ghinstallation_project",
-  "pid": "55462",
-  "pname": "ghinstallation",
-  "pcpe": "cpe:/a:ghinstallation_project:ghinstallation"
+	"vid": "21591",
+	"vname": "ghinstallation project",
+	"vcpe": "cpe:/:ghinstallation_project",
+	"pid": "55462",
+	"pname": "ghinstallation",
+	"pcpe": "cpe:/a:ghinstallation_project:ghinstallation"
 }

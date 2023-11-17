@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "21311",
-  "pname": "Juniper Secure Access 2700",
-  "pcpe": "cpe:/h:juniper:secure_access_2700"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "21311",
+	"pname": "Juniper Secure Access 2700",
+	"pcpe": "cpe:/h:juniper:secure_access_2700"
 }

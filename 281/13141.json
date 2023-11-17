@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "13141",
-  "pname": "Software Properties",
-  "pcpe": "cpe:/a:canonical:software-properties"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "13141",
+	"pname": "Software Properties",
+	"pcpe": "cpe:/a:canonical:software-properties"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "25023",
-  "pname": "EKI-1362 シリーズファームウェア",
-  "pcpe": "cpe:/o:advantech:eki-1362_series_firmware"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "25023",
+	"pname": "EKI-1362 シリーズファームウェア",
+	"pcpe": "cpe:/o:advantech:eki-1362_series_firmware"
 }

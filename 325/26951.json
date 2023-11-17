@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "26951",
-  "pname": "BIOS ファームウェア",
-  "pcpe": "cpe:/o:lenovo:bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "26951",
+	"pname": "BIOS ファームウェア",
+	"pcpe": "cpe:/o:lenovo:bios"
 }

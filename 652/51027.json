@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "51027",
-  "pname": "Watch Active プラグイン",
-  "pcpe": "cpe:/a:samsung:watch_active_plugin"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "51027",
+	"pname": "Watch Active プラグイン",
+	"pcpe": "cpe:/a:samsung:watch_active_plugin"
 }

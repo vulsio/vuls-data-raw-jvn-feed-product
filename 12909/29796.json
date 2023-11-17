@@ -1,8 +1,8 @@
 {
-  "vid": "12909",
-  "vname": "Asuswrt-Merlin firmware project",
-  "vcpe": "cpe:/:asuswrt-merlin_project",
-  "pid": "29796",
-  "pname": "RT AC1200G ファームウェア",
-  "pcpe": "cpe:/o:asuswrt-merlin_project:rt_ac1200g_firmware"
+	"vid": "12909",
+	"vname": "Asuswrt-Merlin firmware project",
+	"vcpe": "cpe:/:asuswrt-merlin_project",
+	"pid": "29796",
+	"pname": "RT AC1200G ファームウェア",
+	"pcpe": "cpe:/o:asuswrt-merlin_project:rt_ac1200g_firmware"
 }

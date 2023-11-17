@@ -1,8 +1,8 @@
 {
-  "vid": "20191",
-  "vname": "AKCP",
-  "vcpe": "cpe:/:akcp",
-  "pid": "51408",
-  "pname": "sensorProbe4 ファームウェア",
-  "pcpe": "cpe:/o:akcp:sensorprobe4_firmware"
+	"vid": "20191",
+	"vname": "AKCP",
+	"vcpe": "cpe:/:akcp",
+	"pid": "51408",
+	"pname": "sensorProbe4 ファームウェア",
+	"pcpe": "cpe:/o:akcp:sensorprobe4_firmware"
 }

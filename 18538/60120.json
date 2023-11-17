@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "60120",
-  "pname": "powerlogic ion setup ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:powerlogic_ion_setup_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "60120",
+	"pname": "powerlogic ion setup ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:powerlogic_ion_setup_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "19840",
-  "pname": "SAP Print and Output Management",
-  "pcpe": "cpe:/a:sap:print_and_output_management"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "19840",
+	"pname": "SAP Print and Output Management",
+	"pcpe": "cpe:/a:sap:print_and_output_management"
 }

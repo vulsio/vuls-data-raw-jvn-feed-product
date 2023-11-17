@@ -1,8 +1,8 @@
 {
-  "vid": "10104",
-  "vname": "eBay Classifieds Group",
-  "vcpe": "cpe:/:ebay-kleinanzeigen",
-  "pid": "21205",
-  "pname": "eBay Kleinanzeigen for Germany",
-  "pcpe": "cpe:/a:ebay-kleinanzeigen:ebay_kleinanzeigen_for_germany"
+	"vid": "10104",
+	"vname": "eBay Classifieds Group",
+	"vcpe": "cpe:/:ebay-kleinanzeigen",
+	"pid": "21205",
+	"pname": "eBay Kleinanzeigen for Germany",
+	"pcpe": "cpe:/a:ebay-kleinanzeigen:ebay_kleinanzeigen_for_germany"
 }

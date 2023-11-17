@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "51253",
-  "pname": "Intel Xeon W 1300 series ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_w-1300_series_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "51253",
+	"pname": "Intel Xeon W 1300 series ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_w-1300_series_firmware"
 }

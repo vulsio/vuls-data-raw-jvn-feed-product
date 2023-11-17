@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "63967",
-  "pname": "mp c3003 ファームウェア",
-  "pcpe": "cpe:/o:ricoh:mp_c3003_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "63967",
+	"pname": "mp c3003 ファームウェア",
+	"pcpe": "cpe:/o:ricoh:mp_c3003_firmware"
 }

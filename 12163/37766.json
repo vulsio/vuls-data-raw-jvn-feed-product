@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "37766",
-  "pname": "Job DSL プラグイン",
-  "pcpe": "cpe:/a:jenkins:job_dsl"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "37766",
+	"pname": "Job DSL プラグイン",
+	"pcpe": "cpe:/a:jenkins:job_dsl"
 }

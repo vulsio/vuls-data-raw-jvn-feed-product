@@ -1,8 +1,8 @@
 {
-  "vid": "9597",
-  "vname": "GoPivotal",
-  "vcpe": "cpe:/:pivotal",
-  "pid": "43876",
-  "pname": "VMware Harbor Container Registry",
-  "pcpe": "cpe:/a:pivotal:vmware_harbor_registry"
+	"vid": "9597",
+	"vname": "GoPivotal",
+	"vcpe": "cpe:/:pivotal",
+	"pid": "43876",
+	"pname": "VMware Harbor Container Registry",
+	"pcpe": "cpe:/a:pivotal:vmware_harbor_registry"
 }

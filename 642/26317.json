@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "26317",
-  "pname": "D3600",
-  "pcpe": "cpe:/h:netgear:d3600"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "26317",
+	"pname": "D3600",
+	"pcpe": "cpe:/h:netgear:d3600"
 }

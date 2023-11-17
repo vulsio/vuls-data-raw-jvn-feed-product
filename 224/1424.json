@@ -1,8 +1,8 @@
 {
-  "vid": "224",
-  "vname": "アラクサラネットワークス",
-  "vcpe": "cpe:/:alaxala",
-  "pid": "1424",
-  "pname": "AX6300Sシリーズ",
-  "pcpe": "cpe:/h:alaxala:ax6300s"
+	"vid": "224",
+	"vname": "アラクサラネットワークス",
+	"vcpe": "cpe:/:alaxala",
+	"pid": "1424",
+	"pname": "AX6300Sシリーズ",
+	"pcpe": "cpe:/h:alaxala:ax6300s"
 }

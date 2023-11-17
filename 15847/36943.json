@@ -1,8 +1,8 @@
 {
-  "vid": "15847",
-  "vname": "Kaonmedia",
-  "vcpe": "cpe:/:kaonmedia",
-  "pid": "36943",
-  "pname": "CG2001-UDBNA ファームウェア",
-  "pcpe": "cpe:/o:kaonmedia:cg2001-udbna_firmware"
+	"vid": "15847",
+	"vname": "Kaonmedia",
+	"vcpe": "cpe:/:kaonmedia",
+	"pid": "36943",
+	"pname": "CG2001-UDBNA ファームウェア",
+	"pcpe": "cpe:/o:kaonmedia:cg2001-udbna_firmware"
 }

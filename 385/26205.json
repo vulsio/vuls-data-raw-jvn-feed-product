@@ -1,8 +1,8 @@
 {
-  "vid": "385",
-  "vname": "株式会社アイ・オー・データ機器",
-  "vcpe": "cpe:/:i-o_data_device",
-  "pid": "26205",
-  "pname": "WN-G300R2",
-  "pcpe": "cpe:/h:i-o_data_device:wn-g300r2"
+	"vid": "385",
+	"vname": "株式会社アイ・オー・データ機器",
+	"vcpe": "cpe:/:i-o_data_device",
+	"pid": "26205",
+	"pname": "WN-G300R2",
+	"pcpe": "cpe:/h:i-o_data_device:wn-g300r2"
 }

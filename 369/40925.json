@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "40925",
-  "pname": "CA Network Flow Analysis",
-  "pcpe": "cpe:/a:ca:network_flow_analysis"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "40925",
+	"pname": "CA Network Flow Analysis",
+	"pcpe": "cpe:/a:ca:network_flow_analysis"
 }

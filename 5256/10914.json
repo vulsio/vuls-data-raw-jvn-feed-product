@@ -1,8 +1,8 @@
 {
-  "vid": "5256",
-  "vname": "larts",
-  "vcpe": "cpe:/:larts",
-  "pid": "10914",
-  "pname": "uploader activex control",
-  "pcpe": "cpe:/a:larts:uploader_activex_control"
+	"vid": "5256",
+	"vname": "larts",
+	"vcpe": "cpe:/:larts",
+	"pid": "10914",
+	"pname": "uploader activex control",
+	"pcpe": "cpe:/a:larts:uploader_activex_control"
 }

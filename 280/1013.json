@@ -1,8 +1,8 @@
 {
-  "vid": "280",
-  "vname": "Gentoo Linux",
-  "vcpe": "cpe:/:gentoo",
-  "pid": "1013",
-  "pname": "Gentoo Linux",
-  "pcpe": "cpe:/o:gentoo:linux"
+	"vid": "280",
+	"vname": "Gentoo Linux",
+	"vcpe": "cpe:/:gentoo",
+	"pid": "1013",
+	"pname": "Gentoo Linux",
+	"pcpe": "cpe:/o:gentoo:linux"
 }

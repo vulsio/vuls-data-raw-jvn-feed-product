@@ -1,8 +1,8 @@
 {
-  "vid": "16818",
-  "vname": "GoDaddy Operating Company",
-  "vcpe": "cpe:/:godaddy",
-  "pid": "49462",
-  "pname": "node-config-shield",
-  "pcpe": "cpe:/a:godaddy:node-config-shield"
+	"vid": "16818",
+	"vname": "GoDaddy Operating Company",
+	"vcpe": "cpe:/:godaddy",
+	"pid": "49462",
+	"pname": "node-config-shield",
+	"pcpe": "cpe:/a:godaddy:node-config-shield"
 }

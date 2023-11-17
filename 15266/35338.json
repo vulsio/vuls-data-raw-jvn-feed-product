@@ -1,8 +1,8 @@
 {
-  "vid": "15266",
-  "vname": "Trivium Corporation",
-  "vcpe": "cpe:/:trivum",
-  "pid": "35338",
-  "pname": "C4 Professional ファームウェア",
-  "pcpe": "cpe:/o:trivum:c4_professional_firmware"
+	"vid": "15266",
+	"vname": "Trivium Corporation",
+	"vcpe": "cpe:/:trivum",
+	"pid": "35338",
+	"pname": "C4 Professional ファームウェア",
+	"pcpe": "cpe:/o:trivum:c4_professional_firmware"
 }

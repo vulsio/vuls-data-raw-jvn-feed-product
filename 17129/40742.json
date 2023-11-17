@@ -1,8 +1,8 @@
 {
-  "vid": "17129",
-  "vname": "Neuvoo",
-  "vcpe": "cpe:/:neuvoo",
-  "pid": "40742",
-  "pname": "neuvoo-jobroll",
-  "pcpe": "cpe:/a:neuvoo:neuvoo-jobroll"
+	"vid": "17129",
+	"vname": "Neuvoo",
+	"vcpe": "cpe:/:neuvoo",
+	"pid": "40742",
+	"pname": "neuvoo-jobroll",
+	"pcpe": "cpe:/a:neuvoo:neuvoo-jobroll"
 }

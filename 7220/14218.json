@@ -1,8 +1,8 @@
 {
-  "vid": "7220",
-  "vname": "raknet",
-  "vcpe": "cpe:/:raknet",
-  "pid": "14218",
-  "pname": "autopatcher server",
-  "pcpe": "cpe:/a:raknet:autopatcher_server"
+	"vid": "7220",
+	"vname": "raknet",
+	"vcpe": "cpe:/:raknet",
+	"pid": "14218",
+	"pname": "autopatcher server",
+	"pcpe": "cpe:/a:raknet:autopatcher_server"
 }

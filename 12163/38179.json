@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38179",
-  "pname": "AWS CloudWatch Logs Publisher",
-  "pcpe": "cpe:/a:jenkins:aws_cloudwatch_logs_publisher"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38179",
+	"pname": "AWS CloudWatch Logs Publisher",
+	"pcpe": "cpe:/a:jenkins:aws_cloudwatch_logs_publisher"
 }

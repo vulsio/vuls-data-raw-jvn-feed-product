@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "29839",
-  "pname": "Oracle Hospitality Materials Control",
-  "pcpe": "cpe:/a:oracle:hospitality_materials_control"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "29839",
+	"pname": "Oracle Hospitality Materials Control",
+	"pcpe": "cpe:/a:oracle:hospitality_materials_control"
 }

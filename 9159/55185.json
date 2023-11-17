@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "55185",
-  "pname": "Efficia CM ファームウェア",
-  "pcpe": "cpe:/o:philips:efficia_cm_firmware"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "55185",
+	"pname": "Efficia CM ファームウェア",
+	"pcpe": "cpe:/o:philips:efficia_cm_firmware"
 }

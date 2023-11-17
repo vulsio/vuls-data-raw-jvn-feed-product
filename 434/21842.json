@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "21842",
-  "pname": "RSA Archer GRC",
-  "pcpe": "cpe:/a:emc:rsa_archer_grc"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "21842",
+	"pname": "RSA Archer GRC",
+	"pcpe": "cpe:/a:emc:rsa_archer_grc"
 }

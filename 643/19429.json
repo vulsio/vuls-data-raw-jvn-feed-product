@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "19429",
-  "pname": "Dell KACE Virtual K1000 Systems Management Appliance",
-  "pcpe": "cpe:/a:dell:kace_k1000_systems_management_virtual_appliance"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "19429",
+	"pname": "Dell KACE Virtual K1000 Systems Management Appliance",
+	"pcpe": "cpe:/a:dell:kace_k1000_systems_management_virtual_appliance"
 }

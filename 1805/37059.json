@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "37059",
-  "pname": "TL-SC3130 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-sc3130_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "37059",
+	"pname": "TL-SC3130 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-sc3130_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10544",
-  "vname": "mobileiron",
-  "vcpe": "cpe:/:mobileiron",
-  "pid": "45480",
-  "pname": "Enterprise Connector",
-  "pcpe": "cpe:/a:mobileiron:enterprise_connector"
+	"vid": "10544",
+	"vname": "mobileiron",
+	"vcpe": "cpe:/:mobileiron",
+	"pid": "45480",
+	"pname": "Enterprise Connector",
+	"pcpe": "cpe:/a:mobileiron:enterprise_connector"
 }

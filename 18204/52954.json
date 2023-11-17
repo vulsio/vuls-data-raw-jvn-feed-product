@@ -1,8 +1,8 @@
 {
-  "vid": "18204",
-  "vname": "ONLYOFFICE",
-  "vcpe": "cpe:/:onlyoffice",
-  "pid": "52954",
-  "pname": "Google Translate",
-  "pcpe": "cpe:/a:onlyoffice:google_translate"
+	"vid": "18204",
+	"vname": "ONLYOFFICE",
+	"vcpe": "cpe:/:onlyoffice",
+	"pid": "52954",
+	"pname": "Google Translate",
+	"pcpe": "cpe:/a:onlyoffice:google_translate"
 }

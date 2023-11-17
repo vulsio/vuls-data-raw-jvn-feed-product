@@ -1,8 +1,8 @@
 {
-  "vid": "15772",
-  "vname": "K9Mail",
-  "vcpe": "cpe:/:k9mail",
-  "pid": "36762",
-  "pname": "K9Mail",
-  "pcpe": "cpe:/a:k9mail:k-9_mail"
+	"vid": "15772",
+	"vname": "K9Mail",
+	"vcpe": "cpe:/:k9mail",
+	"pid": "36762",
+	"pname": "K9Mail",
+	"pcpe": "cpe:/a:k9mail:k-9_mail"
 }

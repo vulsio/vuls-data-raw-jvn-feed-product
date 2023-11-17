@@ -1,8 +1,8 @@
 {
-  "vid": "11451",
-  "vname": "JetBrains",
-  "vcpe": "cpe:/:jetbrains",
-  "pid": "50476",
-  "pname": "WebStorm",
-  "pcpe": "cpe:/a:jetbrains:webstorm"
+	"vid": "11451",
+	"vname": "JetBrains",
+	"vcpe": "cpe:/:jetbrains",
+	"pid": "50476",
+	"pname": "WebStorm",
+	"pcpe": "cpe:/a:jetbrains:webstorm"
 }

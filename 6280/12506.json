@@ -1,8 +1,8 @@
 {
-  "vid": "6280",
-  "vname": "paul smith computer services",
-  "vcpe": "cpe:/:paul_smith_computer_services",
-  "pid": "12506",
-  "pname": "vcap",
-  "pcpe": "cpe:/a:paul_smith_computer_services:vcap"
+	"vid": "6280",
+	"vname": "paul smith computer services",
+	"vcpe": "cpe:/:paul_smith_computer_services",
+	"pid": "12506",
+	"pname": "vcap",
+	"pcpe": "cpe:/a:paul_smith_computer_services:vcap"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12234",
-  "vname": "tidio-gallery project",
-  "vcpe": "cpe:/:tidio-gallery_project",
-  "pid": "27039",
-  "pname": "tidio-gallery",
-  "pcpe": "cpe:/a:tidio-gallery_project:tidio-gallery"
+	"vid": "12234",
+	"vname": "tidio-gallery project",
+	"vcpe": "cpe:/:tidio-gallery_project",
+	"pid": "27039",
+	"pname": "tidio-gallery",
+	"pcpe": "cpe:/a:tidio-gallery_project:tidio-gallery"
 }

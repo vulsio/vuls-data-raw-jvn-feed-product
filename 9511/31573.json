@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "31573",
-  "pname": "DS-2CD2432F-IW ファームウェア",
-  "pcpe": "cpe:/o:hikvision:ds-2cd2432f-iw_firmware"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "31573",
+	"pname": "DS-2CD2432F-IW ファームウェア",
+	"pcpe": "cpe:/o:hikvision:ds-2cd2432f-iw_firmware"
 }

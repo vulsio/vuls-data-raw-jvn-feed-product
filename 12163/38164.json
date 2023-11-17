@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38164",
-  "pname": "VMware vRealize Automation",
-  "pcpe": "cpe:/a:jenkins:vmware_vrealize_automation"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38164",
+	"pname": "VMware vRealize Automation",
+	"pcpe": "cpe:/a:jenkins:vmware_vrealize_automation"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "18191",
-  "pname": "X7SPE-HF",
-  "pcpe": "cpe:/h:supermicro:x7spe-hf"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "18191",
+	"pname": "X7SPE-HF",
+	"pcpe": "cpe:/h:supermicro:x7spe-hf"
 }

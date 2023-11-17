@@ -1,8 +1,8 @@
 {
-  "vid": "19704",
-  "vname": "AdGuard",
-  "vcpe": "cpe:/:adguard",
-  "pid": "61109",
-  "pname": "AdGuard",
-  "pcpe": "cpe:/a:adguard:adguard"
+	"vid": "19704",
+	"vname": "AdGuard",
+	"vcpe": "cpe:/:adguard",
+	"pid": "61109",
+	"pname": "AdGuard",
+	"pcpe": "cpe:/a:adguard:adguard"
 }

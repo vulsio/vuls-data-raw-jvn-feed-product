@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "27194",
-  "pname": "CFIS1425",
-  "pcpe": "cpe:/h:siemens:cfis1425"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "27194",
+	"pname": "CFIS1425",
+	"pcpe": "cpe:/h:siemens:cfis1425"
 }

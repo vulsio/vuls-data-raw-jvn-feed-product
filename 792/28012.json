@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "28012",
-  "pname": "NWA3560-N ファームウェア",
-  "pcpe": "cpe:/o:zyxel:nwa3560-n_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "28012",
+	"pname": "NWA3560-N ファームウェア",
+	"pcpe": "cpe:/o:zyxel:nwa3560-n_firmware"
 }

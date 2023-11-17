@@ -1,8 +1,8 @@
 {
-  "vid": "685",
-  "vname": "Jaspersoft",
-  "vcpe": "cpe:/:jasperforge",
-  "pid": "2907",
-  "pname": "JasperServer",
-  "pcpe": "cpe:/a:jasperforge:jasperreports_server_community_project"
+	"vid": "685",
+	"vname": "Jaspersoft",
+	"vcpe": "cpe:/:jasperforge",
+	"pid": "2907",
+	"pname": "JasperServer",
+	"pcpe": "cpe:/a:jasperforge:jasperreports_server_community_project"
 }

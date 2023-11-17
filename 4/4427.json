@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4427",
-  "pname": "loadrunner web tours",
-  "pcpe": "cpe:/a:hp:loadrunner_web_tours"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4427",
+	"pname": "loadrunner web tours",
+	"pcpe": "cpe:/a:hp:loadrunner_web_tours"
 }

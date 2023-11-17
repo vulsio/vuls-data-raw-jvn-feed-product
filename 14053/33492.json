@@ -1,8 +1,8 @@
 {
-  "vid": "14053",
-  "vname": "Espruino",
-  "vcpe": "cpe:/:espruino",
-  "pid": "33492",
-  "pname": "Espruino",
-  "pcpe": "cpe:/o:espruino:espruino"
+	"vid": "14053",
+	"vname": "Espruino",
+	"vcpe": "cpe:/:espruino",
+	"pid": "33492",
+	"pname": "Espruino",
+	"pcpe": "cpe:/o:espruino:espruino"
 }

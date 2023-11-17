@@ -1,8 +1,8 @@
 {
-  "vid": "16488",
-  "vname": "Tufin",
-  "vcpe": "cpe:/:tufin",
-  "pid": "39201",
-  "pname": "SecureTrack",
-  "pcpe": "cpe:/a:tufin:securetrack"
+	"vid": "16488",
+	"vname": "Tufin",
+	"vcpe": "cpe:/:tufin",
+	"pid": "39201",
+	"pname": "SecureTrack",
+	"pcpe": "cpe:/a:tufin:securetrack"
 }

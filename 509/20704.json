@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "20704",
-  "pname": "SAP FI Manager Self-Service",
-  "pcpe": "cpe:/a:sap:fi_manager_self-service"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "20704",
+	"pname": "SAP FI Manager Self-Service",
+	"pcpe": "cpe:/a:sap:fi_manager_self-service"
 }

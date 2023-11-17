@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "51777",
-  "pname": "SMX シリーズ 1031 ups ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:smx_series_1031_ups_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "51777",
+	"pname": "SMX シリーズ 1031 ups ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:smx_series_1031_ups_firmware"
 }

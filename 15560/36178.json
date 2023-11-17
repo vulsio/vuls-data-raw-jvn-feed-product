@@ -1,8 +1,8 @@
 {
-  "vid": "15560",
-  "vname": "Wisetail",
-  "vcpe": "cpe:/:wisetail",
-  "pid": "36178",
-  "pname": "Learning Management System",
-  "pcpe": "cpe:/a:wisetail:learning_management_system"
+	"vid": "15560",
+	"vname": "Wisetail",
+	"vcpe": "cpe:/:wisetail",
+	"pid": "36178",
+	"pname": "Learning Management System",
+	"pcpe": "cpe:/a:wisetail:learning_management_system"
 }

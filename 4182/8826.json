@@ -1,8 +1,8 @@
 {
-  "vid": "4182",
-  "vname": "compaq",
-  "vcpe": "cpe:/:compaq",
-  "pid": "8826",
-  "pname": "6510 series bios",
-  "pcpe": "cpe:/h:compaq:6510_series_bios"
+	"vid": "4182",
+	"vname": "compaq",
+	"vcpe": "cpe:/:compaq",
+	"pid": "8826",
+	"pname": "6510 series bios",
+	"pcpe": "cpe:/h:compaq:6510_series_bios"
 }

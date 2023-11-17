@@ -1,8 +1,8 @@
 {
-  "vid": "8362",
-  "vname": "vt.rovno",
-  "vcpe": "cpe:/:vt.rovno",
-  "pid": "15955",
-  "pname": "asp vt auth",
-  "pcpe": "cpe:/a:vt.rovno:asp_vt_auth"
+	"vid": "8362",
+	"vname": "vt.rovno",
+	"vcpe": "cpe:/:vt.rovno",
+	"pid": "15955",
+	"pname": "asp vt auth",
+	"pcpe": "cpe:/a:vt.rovno:asp_vt_auth"
 }

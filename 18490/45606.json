@@ -1,8 +1,8 @@
 {
-  "vid": "18490",
-  "vname": "Collabora Ltd",
-  "vcpe": "cpe:/:collaboraoffice",
-  "pid": "45606",
-  "pname": "Collabora CODE",
-  "pcpe": "cpe:/a:collaboraoffice:collabora_online_development_edition"
+	"vid": "18490",
+	"vname": "Collabora Ltd",
+	"vcpe": "cpe:/:collaboraoffice",
+	"pid": "45606",
+	"pname": "Collabora CODE",
+	"pcpe": "cpe:/a:collaboraoffice:collabora_online_development_edition"
 }

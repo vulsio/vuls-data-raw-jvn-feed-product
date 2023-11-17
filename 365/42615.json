@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "42615",
-  "pname": "NetScaler ファームウェア",
-  "pcpe": "cpe:/o:citrix:netscaler_firmware"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "42615",
+	"pname": "NetScaler ファームウェア",
+	"pcpe": "cpe:/o:citrix:netscaler_firmware"
 }

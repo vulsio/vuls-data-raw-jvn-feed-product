@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "55242",
-  "pname": "CSR8510 A10 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:csr8510_a10_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "55242",
+	"pname": "CSR8510 A10 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:csr8510_a10_firmware"
 }

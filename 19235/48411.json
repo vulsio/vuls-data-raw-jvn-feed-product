@@ -1,8 +1,8 @@
 {
-  "vid": "19235",
-  "vname": "acexy",
-  "vcpe": "cpe:/:acexy",
-  "pid": "48411",
-  "pname": "Wireless-N WiFi Repeater ファームウェア",
-  "pcpe": "cpe:/o:acexy:wireless-n_wifi_repeater_firmware"
+	"vid": "19235",
+	"vname": "acexy",
+	"vcpe": "cpe:/:acexy",
+	"pid": "48411",
+	"pname": "Wireless-N WiFi Repeater ファームウェア",
+	"pcpe": "cpe:/o:acexy:wireless-n_wifi_repeater_firmware"
 }

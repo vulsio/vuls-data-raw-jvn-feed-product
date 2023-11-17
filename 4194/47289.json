@@ -1,8 +1,8 @@
 {
-  "vid": "4194",
-  "vname": "Grandstream Networks",
-  "vcpe": "cpe:/:grandstream",
-  "pid": "47289",
-  "pname": "GRP2612W ファームウェア",
-  "pcpe": "cpe:/o:grandstream:grp2612w_firmware"
+	"vid": "4194",
+	"vname": "Grandstream Networks",
+	"vcpe": "cpe:/:grandstream",
+	"pid": "47289",
+	"pname": "GRP2612W ファームウェア",
+	"pcpe": "cpe:/o:grandstream:grp2612w_firmware"
 }

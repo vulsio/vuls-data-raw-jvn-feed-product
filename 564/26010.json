@@ -1,8 +1,8 @@
 {
-  "vid": "564",
-  "vname": "Panda Security",
-  "vcpe": "cpe:/:pandasecurity",
-  "pid": "26010",
-  "pname": "Panda Endpoint Administration Agent",
-  "pcpe": "cpe:/a:pandasecurity:panda_endpoint_administration_agent"
+	"vid": "564",
+	"vname": "Panda Security",
+	"vcpe": "cpe:/:pandasecurity",
+	"pid": "26010",
+	"pname": "Panda Endpoint Administration Agent",
+	"pcpe": "cpe:/a:pandasecurity:panda_endpoint_administration_agent"
 }

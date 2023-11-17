@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15206",
-  "pname": "Norton 360",
-  "pcpe": "cpe:/a:symantec:norton_360"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15206",
+	"pname": "Norton 360",
+	"pcpe": "cpe:/a:symantec:norton_360"
 }

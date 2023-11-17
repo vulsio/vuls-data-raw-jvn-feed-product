@@ -1,8 +1,8 @@
 {
-  "vid": "1303",
-  "vname": "Avira",
-  "vcpe": "cpe:/:avira",
-  "pid": "4110",
-  "pname": "AntiVirus (旧 AntiVir)",
-  "pcpe": "cpe:/a:avira:antivirus"
+	"vid": "1303",
+	"vname": "Avira",
+	"vcpe": "cpe:/:avira",
+	"pid": "4110",
+	"pname": "AntiVirus (旧 AntiVir)",
+	"pcpe": "cpe:/a:avira:antivirus"
 }

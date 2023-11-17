@@ -1,8 +1,8 @@
 {
-  "vid": "1385",
-  "vname": "BMC Software",
-  "vcpe": "cpe:/:bmc",
-  "pid": "6359",
-  "pname": "Remedy AR System Server",
-  "pcpe": "cpe:/a:bmc:remedy_action_request_system"
+	"vid": "1385",
+	"vname": "BMC Software",
+	"vcpe": "cpe:/:bmc",
+	"pid": "6359",
+	"pname": "Remedy AR System Server",
+	"pcpe": "cpe:/a:bmc:remedy_action_request_system"
 }

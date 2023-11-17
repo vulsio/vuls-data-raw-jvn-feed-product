@@ -1,8 +1,8 @@
 {
-  "vid": "17937",
-  "vname": "TimeTools Limited.",
-  "vcpe": "cpe:/:timetoolsltd",
-  "pid": "43395",
-  "pname": "Sc9205 ファームウェア",
-  "pcpe": "cpe:/o:timetoolsltd:sc9205_firmware"
+	"vid": "17937",
+	"vname": "TimeTools Limited.",
+	"vcpe": "cpe:/:timetoolsltd",
+	"pid": "43395",
+	"pname": "Sc9205 ファームウェア",
+	"pcpe": "cpe:/o:timetoolsltd:sc9205_firmware"
 }

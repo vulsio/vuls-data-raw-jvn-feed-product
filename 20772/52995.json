@@ -1,8 +1,8 @@
 {
-  "vid": "20772",
-  "vname": "ESPHome",
-  "vcpe": "cpe:/:esphome",
-  "pid": "52995",
-  "pname": "ESPHome ファームウェア",
-  "pcpe": "cpe:/o:esphome:esphome_firmware"
+	"vid": "20772",
+	"vname": "ESPHome",
+	"vcpe": "cpe:/:esphome",
+	"pid": "52995",
+	"pname": "ESPHome ファームウェア",
+	"pcpe": "cpe:/o:esphome:esphome_firmware"
 }

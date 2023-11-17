@@ -1,8 +1,8 @@
 {
-  "vid": "15373",
-  "vname": "PyCryptodome",
-  "vcpe": "cpe:/:pycryptodome",
-  "pid": "35706",
-  "pname": "PyCryptodome",
-  "pcpe": "cpe:/a:pycryptodome:pycryptodome"
+	"vid": "15373",
+	"vname": "PyCryptodome",
+	"vcpe": "cpe:/:pycryptodome",
+	"pid": "35706",
+	"pname": "PyCryptodome",
+	"pcpe": "cpe:/a:pycryptodome:pycryptodome"
 }

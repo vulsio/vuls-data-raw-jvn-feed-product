@@ -1,8 +1,8 @@
 {
-  "vid": "13106",
-  "vname": "AnyDesk",
-  "vcpe": "cpe:/:anydesk",
-  "pid": "30546",
-  "pname": "AnyDesk",
-  "pcpe": "cpe:/a:anydesk:anydesk"
+	"vid": "13106",
+	"vname": "AnyDesk",
+	"vcpe": "cpe:/:anydesk",
+	"pid": "30546",
+	"pname": "AnyDesk",
+	"pcpe": "cpe:/a:anydesk:anydesk"
 }

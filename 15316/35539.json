@@ -1,8 +1,8 @@
 {
-  "vid": "15316",
-  "vname": "Pleasant Solutions",
-  "vcpe": "cpe:/:pleasantsolutions",
-  "pid": "35539",
-  "pname": "Pleasant Password Server",
-  "pcpe": "cpe:/a:pleasantsolutions:pleasant_password_server"
+	"vid": "15316",
+	"vname": "Pleasant Solutions",
+	"vcpe": "cpe:/:pleasantsolutions",
+	"pid": "35539",
+	"pname": "Pleasant Password Server",
+	"pcpe": "cpe:/a:pleasantsolutions:pleasant_password_server"
 }

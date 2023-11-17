@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "49347",
-  "pname": "Cisco Immunet",
-  "pcpe": "cpe:/a:cisco:immunet"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "49347",
+	"pname": "Cisco Immunet",
+	"pcpe": "cpe:/a:cisco:immunet"
 }

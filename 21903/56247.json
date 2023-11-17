@@ -1,8 +1,8 @@
 {
-  "vid": "21903",
-  "vname": "ULCC-Core project",
-  "vcpe": "cpe:/:ulcc-core_project",
-  "pid": "56247",
-  "pname": "ULCC-Core",
-  "pcpe": "cpe:/a:ulcc-core_project:ulcc-core"
+	"vid": "21903",
+	"vname": "ULCC-Core project",
+	"vcpe": "cpe:/:ulcc-core_project",
+	"pid": "56247",
+	"pname": "ULCC-Core",
+	"pcpe": "cpe:/a:ulcc-core_project:ulcc-core"
 }

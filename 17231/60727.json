@@ -1,8 +1,8 @@
 {
-  "vid": "17231",
-  "vname": "Socomec",
-  "vcpe": "cpe:/:socomec",
-  "pid": "60727",
-  "pname": "MODULYS GP Netvision",
-  "pcpe": "cpe:/a:socomec:net_vision"
+	"vid": "17231",
+	"vname": "Socomec",
+	"vcpe": "cpe:/:socomec",
+	"pid": "60727",
+	"pname": "MODULYS GP Netvision",
+	"pcpe": "cpe:/a:socomec:net_vision"
 }

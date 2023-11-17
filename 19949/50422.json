@@ -1,8 +1,8 @@
 {
-  "vid": "19949",
-  "vname": "株式会社キングジム",
-  "vcpe": "cpe:/:misc",
-  "pid": "50422",
-  "pname": "パスワードマネージャー「ミルパス」 PW10 ファームウェア",
-  "pcpe": "cpe:/o:misc:kingjim_password_manager_mirupass_pw10_firmware"
+	"vid": "19949",
+	"vname": "株式会社キングジム",
+	"vcpe": "cpe:/:misc",
+	"pid": "50422",
+	"pname": "パスワードマネージャー「ミルパス」 PW10 ファームウェア",
+	"pcpe": "cpe:/o:misc:kingjim_password_manager_mirupass_pw10_firmware"
 }

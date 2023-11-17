@@ -1,8 +1,8 @@
 {
-  "vid": "21291",
-  "vname": "Wokka Lokka",
-  "vcpe": "cpe:/:wokkalokka",
-  "pid": "54659",
-  "pname": "Wokka Lokka Q50 ファームウェア",
-  "pcpe": "cpe:/o:wokkalokka:wokka_watch_q50_firmware"
+	"vid": "21291",
+	"vname": "Wokka Lokka",
+	"vcpe": "cpe:/:wokkalokka",
+	"pid": "54659",
+	"pname": "Wokka Lokka Q50 ファームウェア",
+	"pcpe": "cpe:/o:wokkalokka:wokka_watch_q50_firmware"
 }

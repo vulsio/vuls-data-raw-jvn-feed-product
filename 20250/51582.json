@@ -1,8 +1,8 @@
 {
-  "vid": "20250",
-  "vname": "mon project",
-  "vcpe": "cpe:/:mon_project",
-  "pid": "51582",
-  "pname": "MillionCoin",
-  "pcpe": "cpe:/a:mon_project:mon"
+	"vid": "20250",
+	"vname": "mon project",
+	"vcpe": "cpe:/:mon_project",
+	"pid": "51582",
+	"pname": "MillionCoin",
+	"pcpe": "cpe:/a:mon_project:mon"
 }

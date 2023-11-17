@@ -1,8 +1,8 @@
 {
-  "vid": "20566",
-  "vname": "Squashfs-tools project",
-  "vcpe": "cpe:/:squashfs-tools_project",
-  "pid": "52399",
-  "pname": "Squashfs-tools",
-  "pcpe": "cpe:/a:squashfs-tools_project:squashfs-tools"
+	"vid": "20566",
+	"vname": "Squashfs-tools project",
+	"vcpe": "cpe:/:squashfs-tools_project",
+	"pid": "52399",
+	"pname": "Squashfs-tools",
+	"pcpe": "cpe:/a:squashfs-tools_project:squashfs-tools"
 }

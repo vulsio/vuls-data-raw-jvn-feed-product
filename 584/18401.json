@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "18401",
-  "pname": "SCALANCE XF-200",
-  "pcpe": "cpe:/h:siemens:scalance_xf-200"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "18401",
+	"pname": "SCALANCE XF-200",
+	"pcpe": "cpe:/h:siemens:scalance_xf-200"
 }

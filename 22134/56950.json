@@ -1,8 +1,8 @@
 {
-  "vid": "22134",
-  "vname": "java-merge-sort project",
-  "vcpe": "cpe:/:java-merge-sort_project",
-  "pid": "56950",
-  "pname": "java-merge-sort",
-  "pcpe": "cpe:/a:java-merge-sort_project:java-merge-sort"
+	"vid": "22134",
+	"vname": "java-merge-sort project",
+	"vcpe": "cpe:/:java-merge-sort_project",
+	"pid": "56950",
+	"pname": "java-merge-sort",
+	"pcpe": "cpe:/a:java-merge-sort_project:java-merge-sort"
 }

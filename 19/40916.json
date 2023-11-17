@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "40916",
-  "pname": "Cisco CGR 1000 ファームウェア",
-  "pcpe": "cpe:/o:cisco:cgr_1000_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "40916",
+	"pname": "Cisco CGR 1000 ファームウェア",
+	"pcpe": "cpe:/o:cisco:cgr_1000_firmware"
 }

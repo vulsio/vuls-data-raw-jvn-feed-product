@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "9340",
-  "pname": "EMC ApplicationXtender Desktop",
-  "pcpe": "cpe:/a:emc:applicationxtender_desktop"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "9340",
+	"pname": "EMC ApplicationXtender Desktop",
+	"pcpe": "cpe:/a:emc:applicationxtender_desktop"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "26871",
-  "pname": "FSW-R-112D-POE",
-  "pcpe": "cpe:/h:fortinet:fsw-r-112d-poe"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "26871",
+	"pname": "FSW-R-112D-POE",
+	"pcpe": "cpe:/h:fortinet:fsw-r-112d-poe"
 }

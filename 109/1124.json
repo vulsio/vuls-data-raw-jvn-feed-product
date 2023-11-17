@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "1124",
-  "pname": "SystemWalker IT BudgetMGR",
-  "pcpe": "cpe:/a:fujitsu:systemwalker_it_budgetmgr"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "1124",
+	"pname": "SystemWalker IT BudgetMGR",
+	"pcpe": "cpe:/a:fujitsu:systemwalker_it_budgetmgr"
 }

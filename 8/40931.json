@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "40931",
-  "pname": "MINA",
-  "pcpe": "cpe:/a:apache:mina"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "40931",
+	"pname": "MINA",
+	"pcpe": "cpe:/a:apache:mina"
 }

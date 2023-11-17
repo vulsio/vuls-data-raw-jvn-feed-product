@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17104",
-  "pname": "Cisco Hosted Collaboration Solution",
-  "pcpe": "cpe:/a:cisco:hosted_collaboration_solution"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17104",
+	"pname": "Cisco Hosted Collaboration Solution",
+	"pcpe": "cpe:/a:cisco:hosted_collaboration_solution"
 }

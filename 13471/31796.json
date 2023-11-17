@@ -1,8 +1,8 @@
 {
-  "vid": "13471",
-  "vname": "Ivanti",
-  "vcpe": "cpe:/:ivanti",
-  "pid": "31796",
-  "pname": "Ivanti Endpoint Manager",
-  "pcpe": "cpe:/a:ivanti:endpoint_manager"
+	"vid": "13471",
+	"vname": "Ivanti",
+	"vcpe": "cpe:/:ivanti",
+	"pid": "31796",
+	"pname": "Ivanti Endpoint Manager",
+	"pcpe": "cpe:/a:ivanti:endpoint_manager"
 }

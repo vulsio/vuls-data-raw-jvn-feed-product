@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "28929",
-  "pname": "Oracle iReceivables",
-  "pcpe": "cpe:/a:oracle:ireceivables"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "28929",
+	"pname": "Oracle iReceivables",
+	"pcpe": "cpe:/a:oracle:ireceivables"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31386",
-  "pname": "Warsaw-AL00",
-  "pcpe": "cpe:/a:huawei:warsaw-al00"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31386",
+	"pname": "Warsaw-AL00",
+	"pcpe": "cpe:/a:huawei:warsaw-al00"
 }

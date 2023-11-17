@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "33734",
-  "pname": "IntelligenceCenter",
-  "pcpe": "cpe:/a:symantec:intelligencecenter"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "33734",
+	"pname": "IntelligenceCenter",
+	"pcpe": "cpe:/a:symantec:intelligencecenter"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20908",
-  "vname": "WBOLT",
-  "vcpe": "cpe:/:wbolt",
-  "pid": "53424",
-  "pname": "Donate With QRCode",
-  "pcpe": "cpe:/a:wbolt:donate_with_qrcode"
+	"vid": "20908",
+	"vname": "WBOLT",
+	"vcpe": "cpe:/:wbolt",
+	"pid": "53424",
+	"pname": "Donate With QRCode",
+	"pcpe": "cpe:/a:wbolt:donate_with_qrcode"
 }

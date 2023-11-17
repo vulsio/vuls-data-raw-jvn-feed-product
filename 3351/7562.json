@@ -1,8 +1,8 @@
 {
-  "vid": "3351",
-  "vname": "dxstudio",
-  "vcpe": "cpe:/:dxstudio",
-  "pid": "7562",
-  "pname": "dx studio player",
-  "pcpe": "cpe:/a:dxstudio:dx_studio_player"
+	"vid": "3351",
+	"vname": "dxstudio",
+	"vcpe": "cpe:/:dxstudio",
+	"pid": "7562",
+	"pname": "dx studio player",
+	"pcpe": "cpe:/a:dxstudio:dx_studio_player"
 }

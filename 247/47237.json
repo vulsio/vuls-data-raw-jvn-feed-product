@@ -1,8 +1,8 @@
 {
-  "vid": "247",
-  "vname": "FreeType Project",
-  "vcpe": "cpe:/:freetype",
-  "pid": "47237",
-  "pname": "FreeType2",
-  "pcpe": "cpe:/a:freetype:freetype2"
+	"vid": "247",
+	"vname": "FreeType Project",
+	"vcpe": "cpe:/:freetype",
+	"pid": "47237",
+	"pname": "FreeType2",
+	"pcpe": "cpe:/a:freetype:freetype2"
 }

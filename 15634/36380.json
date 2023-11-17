@@ -1,8 +1,8 @@
 {
-  "vid": "15634",
-  "vname": "QBee Cam",
-  "vcpe": "cpe:/:qbeecam",
-  "pid": "36380",
-  "pname": "QBee Multi-Sensor Camera ファームウェア",
-  "pcpe": "cpe:/o:qbeecam:qbee_multi-sensor_camera_firmware"
+	"vid": "15634",
+	"vname": "QBee Cam",
+	"vcpe": "cpe:/:qbeecam",
+	"pid": "36380",
+	"pname": "QBee Multi-Sensor Camera ファームウェア",
+	"pcpe": "cpe:/o:qbeecam:qbee_multi-sensor_camera_firmware"
 }

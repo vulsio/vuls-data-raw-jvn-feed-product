@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "26783",
-  "pname": "IBM Forms Experience Builder",
-  "pcpe": "cpe:/a:ibm:forms_experience_builder"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "26783",
+	"pname": "IBM Forms Experience Builder",
+	"pcpe": "cpe:/a:ibm:forms_experience_builder"
 }

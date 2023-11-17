@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52797",
-  "pname": "MSM8608 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:msm8608_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52797",
+	"pname": "MSM8608 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:msm8608_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "54485",
-  "pname": "GeForce GTX 980",
-  "pcpe": "cpe:/o:nvidia:geforce_gtx_980"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "54485",
+	"pname": "GeForce GTX 980",
+	"pcpe": "cpe:/o:nvidia:geforce_gtx_980"
 }

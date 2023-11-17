@@ -1,8 +1,8 @@
 {
-  "vid": "4578",
-  "vname": "hardened-php project",
-  "vcpe": "cpe:/:hardened-php_project",
-  "pid": "9719",
-  "pname": "subhosin",
-  "pcpe": "cpe:/a:hardened-php_project:subhosin"
+	"vid": "4578",
+	"vname": "hardened-php project",
+	"vcpe": "cpe:/:hardened-php_project",
+	"pid": "9719",
+	"pname": "subhosin",
+	"pcpe": "cpe:/a:hardened-php_project:subhosin"
 }

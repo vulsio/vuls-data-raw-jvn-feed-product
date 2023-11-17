@@ -1,8 +1,8 @@
 {
-  "vid": "6675",
-  "vname": "User Read-Only project",
-  "vcpe": "cpe:/:user_read-only_project",
-  "pid": "13383",
-  "pname": "User Read-Only",
-  "pcpe": "cpe:/a:user_read-only_project:user_readonly"
+	"vid": "6675",
+	"vname": "User Read-Only project",
+	"vcpe": "cpe:/:user_read-only_project",
+	"pid": "13383",
+	"pname": "User Read-Only",
+	"pcpe": "cpe:/a:user_read-only_project:user_readonly"
 }

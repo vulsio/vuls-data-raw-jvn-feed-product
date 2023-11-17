@@ -1,8 +1,8 @@
 {
-  "vid": "10295",
-  "vname": "RubyGems.org",
-  "vcpe": "cpe:/:sprockets_project",
-  "pid": "21618",
-  "pname": "Sprockets",
-  "pcpe": "cpe:/a:sprockets_project:sprockets"
+	"vid": "10295",
+	"vname": "RubyGems.org",
+	"vcpe": "cpe:/:sprockets_project",
+	"pid": "21618",
+	"pname": "Sprockets",
+	"pcpe": "cpe:/a:sprockets_project:sprockets"
 }

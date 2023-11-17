@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20416",
-  "pname": "IBM Security Access Manager for Mobile ソフトウェア",
-  "pcpe": "cpe:/o:ibm:security_access_manager_for_mobile_software"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20416",
+	"pname": "IBM Security Access Manager for Mobile ソフトウェア",
+	"pcpe": "cpe:/o:ibm:security_access_manager_for_mobile_software"
 }

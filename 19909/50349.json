@@ -1,8 +1,8 @@
 {
-  "vid": "19909",
-  "vname": "Authelia",
-  "vcpe": "cpe:/:authelia",
-  "pid": "50349",
-  "pname": "Authelia",
-  "pcpe": "cpe:/a:authelia:authelia"
+	"vid": "19909",
+	"vname": "Authelia",
+	"vcpe": "cpe:/:authelia",
+	"pid": "50349",
+	"pname": "Authelia",
+	"pcpe": "cpe:/a:authelia:authelia"
 }

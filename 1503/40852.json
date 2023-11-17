@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "40852",
-  "pname": "HBD3PR1 ファームウェア",
-  "pcpe": "cpe:/o:honeywell:hbd3pr1_firmware"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "40852",
+	"pname": "HBD3PR1 ファームウェア",
+	"pcpe": "cpe:/o:honeywell:hbd3pr1_firmware"
 }

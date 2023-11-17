@@ -1,8 +1,8 @@
 {
-  "vid": "18536",
-  "vname": "Scratch Wiki",
-  "vcpe": "cpe:/:scratch-wiki",
-  "pid": "46583",
-  "pname": "wiki-scratchsig",
-  "pcpe": "cpe:/a:scratch-wiki:scratchsig"
+	"vid": "18536",
+	"vname": "Scratch Wiki",
+	"vcpe": "cpe:/:scratch-wiki",
+	"pid": "46583",
+	"pname": "wiki-scratchsig",
+	"pcpe": "cpe:/a:scratch-wiki:scratchsig"
 }

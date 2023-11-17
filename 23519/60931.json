@@ -1,8 +1,8 @@
 {
-  "vid": "23519",
-  "vname": "Comfast Wifi",
-  "vcpe": "cpe:/:comfast_project",
-  "pid": "60931",
-  "pname": "CF-WR623N ファームウェア",
-  "pcpe": "cpe:/o:comfast_project:cf-wr623n_firmware"
+	"vid": "23519",
+	"vname": "Comfast Wifi",
+	"vcpe": "cpe:/:comfast_project",
+	"pid": "60931",
+	"pname": "CF-WR623N ファームウェア",
+	"pcpe": "cpe:/o:comfast_project:cf-wr623n_firmware"
 }

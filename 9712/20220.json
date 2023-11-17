@@ -1,8 +1,8 @@
 {
-  "vid": "9712",
-  "vname": "Square",
-  "vcpe": "cpe:/:squash",
-  "pid": "20220",
-  "pname": "Squash",
-  "pcpe": "cpe:/a:squash:square_squash"
+	"vid": "9712",
+	"vname": "Square",
+	"vcpe": "cpe:/:squash",
+	"pid": "20220",
+	"pname": "Squash",
+	"pcpe": "cpe:/a:squash:square_squash"
 }

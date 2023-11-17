@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "35232",
-  "pname": "Lenovo Smart Assistant",
-  "pcpe": "cpe:/a:lenovo:smart_assistant"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "35232",
+	"pname": "Lenovo Smart Assistant",
+	"pcpe": "cpe:/a:lenovo:smart_assistant"
 }

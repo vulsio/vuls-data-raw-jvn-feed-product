@@ -1,8 +1,8 @@
 {
-  "vid": "17502",
-  "vname": "Evercoss",
-  "vcpe": "cpe:/:evercoss",
-  "pid": "41851",
-  "pname": "U50A MAX ファームウェア",
-  "pcpe": "cpe:/o:evercoss:u50a_max_firmware"
+	"vid": "17502",
+	"vname": "Evercoss",
+	"vcpe": "cpe:/:evercoss",
+	"pid": "41851",
+	"pname": "U50A MAX ファームウェア",
+	"pcpe": "cpe:/o:evercoss:u50a_max_firmware"
 }

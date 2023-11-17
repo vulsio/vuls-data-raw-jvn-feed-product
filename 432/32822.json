@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "32822",
-  "pname": "SYS600 ファームウェア",
-  "pcpe": "cpe:/o:abb:sys600_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "32822",
+	"pname": "SYS600 ファームウェア",
+	"pcpe": "cpe:/o:abb:sys600_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22491",
-  "vname": "guake-project",
-  "vcpe": "cpe:/:guake-project",
-  "pid": "57883",
-  "pname": "guake",
-  "pcpe": "cpe:/a:guake-project:guake"
+	"vid": "22491",
+	"vname": "guake-project",
+	"vcpe": "cpe:/:guake-project",
+	"pid": "57883",
+	"pname": "guake",
+	"pcpe": "cpe:/a:guake-project:guake"
 }

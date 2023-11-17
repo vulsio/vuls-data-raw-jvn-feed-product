@@ -1,8 +1,8 @@
 {
-  "vid": "20241",
-  "vname": "RestSharp",
-  "vcpe": "cpe:/:restsharp",
-  "pid": "51542",
-  "pname": "RestSharp",
-  "pcpe": "cpe:/a:restsharp:restsharp"
+	"vid": "20241",
+	"vname": "RestSharp",
+	"vcpe": "cpe:/:restsharp",
+	"pid": "51542",
+	"pname": "RestSharp",
+	"pcpe": "cpe:/a:restsharp:restsharp"
 }

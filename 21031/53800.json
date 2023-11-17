@@ -1,8 +1,8 @@
 {
-  "vid": "21031",
-  "vname": "Aplioxio",
-  "vcpe": "cpe:/:aplixio",
-  "pid": "53800",
-  "pname": "PDF ShapingUp",
-  "pcpe": "cpe:/a:aplixio:pdf_shapingup"
+	"vid": "21031",
+	"vname": "Aplioxio",
+	"vcpe": "cpe:/:aplixio",
+	"pid": "53800",
+	"pname": "PDF ShapingUp",
+	"pcpe": "cpe:/a:aplixio:pdf_shapingup"
 }

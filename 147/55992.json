@@ -1,8 +1,8 @@
 {
-  "vid": "147",
-  "vname": "Sage",
-  "vcpe": "cpe:/:sage",
-  "pid": "55992",
-  "pname": "Sage XRT Business Exchange",
-  "pcpe": "cpe:/a:sage:sage_xrt_business_exchange"
+	"vid": "147",
+	"vname": "Sage",
+	"vcpe": "cpe:/:sage",
+	"pid": "55992",
+	"pname": "Sage XRT Business Exchange",
+	"pcpe": "cpe:/a:sage:sage_xrt_business_exchange"
 }

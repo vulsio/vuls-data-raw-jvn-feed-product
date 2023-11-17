@@ -1,8 +1,8 @@
 {
-  "vid": "29",
-  "vname": "エフ・セキュア",
-  "vcpe": "cpe:/:f-secure",
-  "pid": "2037",
-  "pname": "F-Secure Internet Gatekeeper",
-  "pcpe": "cpe:/a:f-secure:internet_gatekeeper"
+	"vid": "29",
+	"vname": "エフ・セキュア",
+	"vcpe": "cpe:/:f-secure",
+	"pid": "2037",
+	"pname": "F-Secure Internet Gatekeeper",
+	"pcpe": "cpe:/a:f-secure:internet_gatekeeper"
 }

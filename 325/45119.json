@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45119",
-  "pname": "720S-15IKB ファームウェア",
-  "pcpe": "cpe:/o:lenovo:720s-15ikb_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45119",
+	"pname": "720S-15IKB ファームウェア",
+	"pcpe": "cpe:/o:lenovo:720s-15ikb_firmware"
 }

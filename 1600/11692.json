@@ -1,8 +1,8 @@
 {
-  "vid": "1600",
-  "vname": "Mono Project",
-  "vcpe": "cpe:/:mono",
-  "pid": "11692",
-  "pname": "xsp",
-  "pcpe": "cpe:/a:mono:xsp"
+	"vid": "1600",
+	"vname": "Mono Project",
+	"vcpe": "cpe:/:mono",
+	"pid": "11692",
+	"pname": "xsp",
+	"pcpe": "cpe:/a:mono:xsp"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "4066",
-  "pname": "VMware View",
-  "pcpe": "cpe:/a:vmware:view"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "4066",
+	"pname": "VMware View",
+	"pcpe": "cpe:/a:vmware:view"
 }

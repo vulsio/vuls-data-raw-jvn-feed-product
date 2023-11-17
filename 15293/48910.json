@@ -1,8 +1,8 @@
 {
-  "vid": "15293",
-  "vname": "Tenda",
-  "vcpe": "cpe:/:tendacn",
-  "pid": "48910",
-  "pname": "AC1200 ファームウェア",
-  "pcpe": "cpe:/o:tendacn:ac1200_firmware"
+	"vid": "15293",
+	"vname": "Tenda",
+	"vcpe": "cpe:/:tendacn",
+	"pid": "48910",
+	"pname": "AC1200 ファームウェア",
+	"pcpe": "cpe:/o:tendacn:ac1200_firmware"
 }

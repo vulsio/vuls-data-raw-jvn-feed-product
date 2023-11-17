@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "44627",
-  "pname": "MicroSCADA Pro SYS600",
-  "pcpe": "cpe:/a:abb:microscada_pro_sys600"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "44627",
+	"pname": "MicroSCADA Pro SYS600",
+	"pcpe": "cpe:/a:abb:microscada_pro_sys600"
 }

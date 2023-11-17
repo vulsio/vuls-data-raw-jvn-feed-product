@@ -1,8 +1,8 @@
 {
-  "vid": "12860",
-  "vname": "Marel",
-  "vcpe": "cpe:/:marel",
-  "pid": "29649",
-  "pname": "V36 ファームウェア",
-  "pcpe": "cpe:/o:marel:v36_firmware"
+	"vid": "12860",
+	"vname": "Marel",
+	"vcpe": "cpe:/:marel",
+	"pid": "29649",
+	"pname": "V36 ファームウェア",
+	"pcpe": "cpe:/o:marel:v36_firmware"
 }

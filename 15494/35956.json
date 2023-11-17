@@ -1,8 +1,8 @@
 {
-  "vid": "15494",
-  "vname": "libsvg2 project",
-  "vcpe": "cpe:/:libsvg2_project",
-  "pid": "35956",
-  "pname": "libsvg2",
-  "pcpe": "cpe:/a:libsvg2_project:libsvg2"
+	"vid": "15494",
+	"vname": "libsvg2 project",
+	"vcpe": "cpe:/:libsvg2_project",
+	"pid": "35956",
+	"pname": "libsvg2",
+	"pcpe": "cpe:/a:libsvg2_project:libsvg2"
 }

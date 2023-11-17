@@ -1,8 +1,8 @@
 {
-  "vid": "16243",
-  "vname": "Airsonic project",
-  "vcpe": "cpe:/:airsonic_project",
-  "pid": "38184",
-  "pname": "Airsonic",
-  "pcpe": "cpe:/a:airsonic_project:airsonic"
+	"vid": "16243",
+	"vname": "Airsonic project",
+	"vcpe": "cpe:/:airsonic_project",
+	"pid": "38184",
+	"pname": "Airsonic",
+	"pcpe": "cpe:/a:airsonic_project:airsonic"
 }

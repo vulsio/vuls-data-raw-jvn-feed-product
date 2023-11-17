@@ -1,8 +1,8 @@
 {
-  "vid": "12508",
-  "vname": "Becton, Dickinson and Company (BD)",
-  "vcpe": "cpe:/:bd",
-  "pid": "28402",
-  "pname": "Alaris 8000 PC unit",
-  "pcpe": "cpe:/a:bd:alaris_8000_pc_unit"
+	"vid": "12508",
+	"vname": "Becton, Dickinson and Company (BD)",
+	"vcpe": "cpe:/:bd",
+	"pid": "28402",
+	"pname": "Alaris 8000 PC unit",
+	"pcpe": "cpe:/a:bd:alaris_8000_pc_unit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "4243",
-  "pname": "internet security suite plus 2010",
-  "pcpe": "cpe:/a:ca:internet_security_suite_plus_2010"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "4243",
+	"pname": "internet security suite plus 2010",
+	"pcpe": "cpe:/a:ca:internet_security_suite_plus_2010"
 }

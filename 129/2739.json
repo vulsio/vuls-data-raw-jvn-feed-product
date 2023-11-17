@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2739",
-  "pname": "HiRDB RealTime Monitor",
-  "pcpe": "cpe:/a:hitachi:hirdb_realtime_monitor"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2739",
+	"pname": "HiRDB RealTime Monitor",
+	"pcpe": "cpe:/a:hitachi:hirdb_realtime_monitor"
 }

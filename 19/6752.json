@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "6752",
-  "pname": "tftp server",
-  "pcpe": "cpe:/a:cisco:tftp_server"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "6752",
+	"pname": "tftp server",
+	"pcpe": "cpe:/a:cisco:tftp_server"
 }

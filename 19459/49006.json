@@ -1,8 +1,8 @@
 {
-  "vid": "19459",
-  "vname": "trust-dns-server project",
-  "vcpe": "cpe:/:trust-dns-server_project",
-  "pid": "49006",
-  "pname": "trust-dns-server",
-  "pcpe": "cpe:/a:trust-dns-server_project:trust-dns-server"
+	"vid": "19459",
+	"vname": "trust-dns-server project",
+	"vcpe": "cpe:/:trust-dns-server_project",
+	"pid": "49006",
+	"pname": "trust-dns-server",
+	"pcpe": "cpe:/a:trust-dns-server_project:trust-dns-server"
 }

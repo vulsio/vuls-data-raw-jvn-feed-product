@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63401",
-  "pname": "HP Command Center",
-  "pcpe": "cpe:/a:hp:command_center"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63401",
+	"pname": "HP Command Center",
+	"pcpe": "cpe:/a:hp:command_center"
 }

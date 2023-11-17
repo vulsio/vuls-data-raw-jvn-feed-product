@@ -1,8 +1,8 @@
 {
-  "vid": "24046",
-  "vname": "xpdf project",
-  "vcpe": "cpe:/:xpdf_project",
-  "pid": "62202",
-  "pname": "xpdf",
-  "pcpe": "cpe:/a:xpdf_project:xpdf"
+	"vid": "24046",
+	"vname": "xpdf project",
+	"vcpe": "cpe:/:xpdf_project",
+	"pid": "62202",
+	"pname": "xpdf",
+	"pcpe": "cpe:/a:xpdf_project:xpdf"
 }

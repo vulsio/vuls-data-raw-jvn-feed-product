@@ -1,8 +1,8 @@
 {
-  "vid": "15973",
-  "vname": "VeryNginx project",
-  "vcpe": "cpe:/:verynginx_project",
-  "pid": "37325",
-  "pname": "VeryNginx",
-  "pcpe": "cpe:/a:verynginx_project:verynginx"
+	"vid": "15973",
+	"vname": "VeryNginx project",
+	"vcpe": "cpe:/:verynginx_project",
+	"pid": "37325",
+	"pname": "VeryNginx",
+	"pcpe": "cpe:/a:verynginx_project:verynginx"
 }

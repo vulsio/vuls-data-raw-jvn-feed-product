@@ -1,8 +1,8 @@
 {
-  "vid": "1795",
-  "vname": "GeoVision",
-  "vcpe": "cpe:/:geovision",
-  "pid": "8389",
-  "pname": "liveaudio activex control",
-  "pcpe": "cpe:/a:geovision:liveaudio_activex_control"
+	"vid": "1795",
+	"vname": "GeoVision",
+	"vcpe": "cpe:/:geovision",
+	"pid": "8389",
+	"pname": "liveaudio activex control",
+	"pcpe": "cpe:/a:geovision:liveaudio_activex_control"
 }

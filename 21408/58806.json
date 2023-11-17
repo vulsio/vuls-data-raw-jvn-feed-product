@@ -1,8 +1,8 @@
 {
-  "vid": "21408",
-  "vname": "ShapedPlugin",
-  "vcpe": "cpe:/:shapedplugin",
-  "pid": "58806",
-  "pname": "WP Tabs",
-  "pcpe": "cpe:/a:shapedplugin:wp_tabs"
+	"vid": "21408",
+	"vname": "ShapedPlugin",
+	"vcpe": "cpe:/:shapedplugin",
+	"pid": "58806",
+	"pname": "WP Tabs",
+	"pcpe": "cpe:/a:shapedplugin:wp_tabs"
 }

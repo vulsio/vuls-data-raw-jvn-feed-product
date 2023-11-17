@@ -1,8 +1,8 @@
 {
-  "vid": "499",
-  "vname": "Ipswitch, Inc.",
-  "vcpe": "cpe:/:ipswitch",
-  "pid": "32334",
-  "pname": "MOVEit",
-  "pcpe": "cpe:/a:ipswitch:moveit"
+	"vid": "499",
+	"vname": "Ipswitch, Inc.",
+	"vcpe": "cpe:/:ipswitch",
+	"pid": "32334",
+	"pname": "MOVEit",
+	"pcpe": "cpe:/a:ipswitch:moveit"
 }

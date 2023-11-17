@@ -1,8 +1,8 @@
 {
-  "vid": "4387",
-  "vname": "YAML for Drupal",
-  "vcpe": "cpe:/:yaml-fuer-drupal",
-  "pid": "9368",
-  "pname": "Link checker",
-  "pcpe": "cpe:/a:yaml-fuer-drupal:linkchecker"
+	"vid": "4387",
+	"vname": "YAML for Drupal",
+	"vcpe": "cpe:/:yaml-fuer-drupal",
+	"pid": "9368",
+	"pname": "Link checker",
+	"pcpe": "cpe:/a:yaml-fuer-drupal:linkchecker"
 }

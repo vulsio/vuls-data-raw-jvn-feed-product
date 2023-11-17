@@ -1,8 +1,8 @@
 {
-  "vid": "64",
-  "vname": "ソースネクスト",
-  "vcpe": "cpe:/:sourcenext",
-  "pid": "29445",
-  "pname": "ファイルコンパクト",
-  "pcpe": "cpe:/a:sourcenext:file_compact"
+	"vid": "64",
+	"vname": "ソースネクスト",
+	"vcpe": "cpe:/:sourcenext",
+	"pid": "29445",
+	"pname": "ファイルコンパクト",
+	"pcpe": "cpe:/a:sourcenext:file_compact"
 }

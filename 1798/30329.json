@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "30329",
-  "pname": "Synology Assistant",
-  "pcpe": "cpe:/a:synology:assistant"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "30329",
+	"pname": "Synology Assistant",
+	"pcpe": "cpe:/a:synology:assistant"
 }

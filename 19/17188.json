@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17188",
-  "pname": "Cisco UCS 6140XP-40 ポート ファブリック インターコネクト",
-  "pcpe": "cpe:/h:cisco:unified_computing_system_6140xp_fabric_interconnect"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17188",
+	"pname": "Cisco UCS 6140XP-40 ポート ファブリック インターコネクト",
+	"pcpe": "cpe:/h:cisco:unified_computing_system_6140xp_fabric_interconnect"
 }

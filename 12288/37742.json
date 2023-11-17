@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "37742",
-  "pname": "Command Line Interface",
-  "pcpe": "cpe:/a:cloud_foundry:command_line_interface"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "37742",
+	"pname": "Command Line Interface",
+	"pcpe": "cpe:/a:cloud_foundry:command_line_interface"
 }

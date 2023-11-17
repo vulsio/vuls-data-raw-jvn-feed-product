@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "56842",
-  "pname": "HMIBMUCI29D4W01 ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:hmibmuci29d4w01_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "56842",
+	"pname": "HMIBMUCI29D4W01 ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:hmibmuci29d4w01_firmware"
 }

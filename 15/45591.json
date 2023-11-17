@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "45591",
-  "pname": "Oracle SD-WAN Aware",
-  "pcpe": "cpe:/a:oracle:sd-wan_aware"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "45591",
+	"pname": "Oracle SD-WAN Aware",
+	"pcpe": "cpe:/a:oracle:sd-wan_aware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "490",
-  "vname": "Digium",
-  "vcpe": "cpe:/:digium",
-  "pid": "8740",
-  "pname": "Appliance S800i",
-  "pcpe": "cpe:/h:digium:appliance_s800i"
+	"vid": "490",
+	"vname": "Digium",
+	"vcpe": "cpe:/:digium",
+	"pid": "8740",
+	"pname": "Appliance S800i",
+	"pcpe": "cpe:/h:digium:appliance_s800i"
 }

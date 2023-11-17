@@ -1,8 +1,8 @@
 {
-  "vid": "4452",
-  "vname": "LiteSpeed Technologies",
-  "vcpe": "cpe:/:litespeedtech",
-  "pid": "30593",
-  "pname": "OpenLiteSpeed",
-  "pcpe": "cpe:/a:litespeedtech:open_litespeed"
+	"vid": "4452",
+	"vname": "LiteSpeed Technologies",
+	"vcpe": "cpe:/:litespeedtech",
+	"pid": "30593",
+	"pname": "OpenLiteSpeed",
+	"pcpe": "cpe:/a:litespeedtech:open_litespeed"
 }

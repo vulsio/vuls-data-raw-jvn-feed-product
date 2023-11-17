@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15226",
-  "pname": "symantec antivirus scan engine caching",
-  "pcpe": "cpe:/a:symantec:symantec_antivirus_scan_engine_caching"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15226",
+	"pname": "symantec antivirus scan engine caching",
+	"pcpe": "cpe:/a:symantec:symantec_antivirus_scan_engine_caching"
 }

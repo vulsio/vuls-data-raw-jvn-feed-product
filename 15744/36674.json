@@ -1,8 +1,8 @@
 {
-  "vid": "15744",
-  "vname": "SS Protect Limited.",
-  "vcpe": "cpe:/:pcprotect",
-  "pid": "36674",
-  "pname": "Antivirus",
-  "pcpe": "cpe:/a:pcprotect:anti-virus"
+	"vid": "15744",
+	"vname": "SS Protect Limited.",
+	"vcpe": "cpe:/:pcprotect",
+	"pid": "36674",
+	"pname": "Antivirus",
+	"pcpe": "cpe:/a:pcprotect:anti-virus"
 }

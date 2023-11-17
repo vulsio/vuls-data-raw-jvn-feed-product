@@ -1,8 +1,8 @@
 {
-  "vid": "1426",
-  "vname": "dest-unreach.org",
-  "vcpe": "cpe:/:dest-unreach",
-  "pid": "4295",
-  "pname": "socat",
-  "pcpe": "cpe:/a:dest-unreach:socat"
+	"vid": "1426",
+	"vname": "dest-unreach.org",
+	"vcpe": "cpe:/:dest-unreach",
+	"pid": "4295",
+	"pname": "socat",
+	"pcpe": "cpe:/a:dest-unreach:socat"
 }

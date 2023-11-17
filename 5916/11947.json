@@ -1,8 +1,8 @@
 {
-  "vid": "5916",
-  "vname": "netcordia",
-  "vcpe": "cpe:/:netcordia",
-  "pid": "11947",
-  "pname": "netmri",
-  "pcpe": "cpe:/a:netcordia:netmri"
+	"vid": "5916",
+	"vname": "netcordia",
+	"vcpe": "cpe:/:netcordia",
+	"pid": "11947",
+	"pname": "netmri",
+	"pcpe": "cpe:/a:netcordia:netmri"
 }

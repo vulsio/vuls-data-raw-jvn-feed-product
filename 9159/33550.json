@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "33550",
-  "pname": "Brilliance 64 ファームウェア",
-  "pcpe": "cpe:/o:philips:brilliance_firmware_64"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "33550",
+	"pname": "Brilliance 64 ファームウェア",
+	"pcpe": "cpe:/o:philips:brilliance_firmware_64"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12494",
-  "vname": "LG project",
-  "vcpe": "cpe:/:lg_project",
-  "pid": "28245",
-  "pname": "LG",
-  "pcpe": "cpe:/a:lg_project:lg"
+	"vid": "12494",
+	"vname": "LG project",
+	"vcpe": "cpe:/:lg_project",
+	"pid": "28245",
+	"pname": "LG",
+	"pcpe": "cpe:/a:lg_project:lg"
 }

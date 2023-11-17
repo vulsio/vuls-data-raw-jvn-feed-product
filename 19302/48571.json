@@ -1,8 +1,8 @@
 {
-  "vid": "19302",
-  "vname": "lanatmservice",
-  "vcpe": "cpe:/:lanatmservice",
-  "pid": "48571",
-  "pname": "M3 ATM Monitoring System",
-  "pcpe": "cpe:/a:lanatmservice:m3_atm_monitoring_system"
+	"vid": "19302",
+	"vname": "lanatmservice",
+	"vcpe": "cpe:/:lanatmservice",
+	"pid": "48571",
+	"pname": "M3 ATM Monitoring System",
+	"pcpe": "cpe:/a:lanatmservice:m3_atm_monitoring_system"
 }

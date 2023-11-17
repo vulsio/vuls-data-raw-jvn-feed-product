@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "18830",
-  "pname": "graphics server",
-  "pcpe": "cpe:/a:adobe:graphics_server"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "18830",
+	"pname": "graphics server",
+	"pcpe": "cpe:/a:adobe:graphics_server"
 }

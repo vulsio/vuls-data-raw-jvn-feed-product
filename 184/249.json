@@ -1,8 +1,8 @@
 {
-  "vid": "184",
-  "vname": "コグノス",
-  "vcpe": "cpe:/:cognos",
-  "pid": "249",
-  "pname": "Cognos Metrics Designer",
-  "pcpe": "cpe:/a:cognos:metrics_designer"
+	"vid": "184",
+	"vname": "コグノス",
+	"vcpe": "cpe:/:cognos",
+	"pid": "249",
+	"pname": "Cognos Metrics Designer",
+	"pcpe": "cpe:/a:cognos:metrics_designer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6079",
-  "vname": "okul merkezi",
-  "vcpe": "cpe:/:okul_merkezi",
-  "pid": "12210",
-  "pname": "okul merkezi portal",
-  "pcpe": "cpe:/a:okul_merkezi:okul_merkezi_portal"
+	"vid": "6079",
+	"vname": "okul merkezi",
+	"vcpe": "cpe:/:okul_merkezi",
+	"pid": "12210",
+	"pname": "okul merkezi portal",
+	"pcpe": "cpe:/a:okul_merkezi:okul_merkezi_portal"
 }

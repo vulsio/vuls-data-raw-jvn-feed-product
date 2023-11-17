@@ -1,8 +1,8 @@
 {
-  "vid": "15257",
-  "vname": "MSVOD",
-  "vcpe": "cpe:/:msvod",
-  "pid": "35322",
-  "pname": "Msvod Cms",
-  "pcpe": "cpe:/a:msvod:msvod_cms"
+	"vid": "15257",
+	"vname": "MSVOD",
+	"vcpe": "cpe:/:msvod",
+	"pid": "35322",
+	"pname": "Msvod Cms",
+	"pcpe": "cpe:/a:msvod:msvod_cms"
 }

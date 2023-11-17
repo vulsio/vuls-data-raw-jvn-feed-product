@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "53143",
-  "pname": "SINUMERIK Manage MyPrograms ファームウェア",
-  "pcpe": "cpe:/o:siemens:sinumerik_manage_myprograms_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "53143",
+	"pname": "SINUMERIK Manage MyPrograms ファームウェア",
+	"pcpe": "cpe:/o:siemens:sinumerik_manage_myprograms_firmware"
 }

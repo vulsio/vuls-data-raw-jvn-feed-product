@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "26894",
-  "pname": "PHP Buildpack",
-  "pcpe": "cpe:/a:greenplum:php_buildpack"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "26894",
+	"pname": "PHP Buildpack",
+	"pcpe": "cpe:/a:greenplum:php_buildpack"
 }

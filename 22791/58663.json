@@ -1,8 +1,8 @@
 {
-  "vid": "22791",
-  "vname": "invicti",
-  "vcpe": "cpe:/:invicti",
-  "pid": "58663",
-  "pname": "acunetix",
-  "pcpe": "cpe:/a:invicti:acunetix"
+	"vid": "22791",
+	"vname": "invicti",
+	"vcpe": "cpe:/:invicti",
+	"pid": "58663",
+	"pname": "acunetix",
+	"pcpe": "cpe:/a:invicti:acunetix"
 }

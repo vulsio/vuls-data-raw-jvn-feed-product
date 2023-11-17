@@ -1,8 +1,8 @@
 {
-  "vid": "9173",
-  "vname": "Alpha Networks",
-  "vcpe": "cpe:/:alphanetworks",
-  "pid": "18615",
-  "pname": "VDSL 11n Wireless Router (ASL-56552)",
-  "pcpe": "cpe:/h:alphanetworks:vdsl_asl-56552"
+	"vid": "9173",
+	"vname": "Alpha Networks",
+	"vcpe": "cpe:/:alphanetworks",
+	"pid": "18615",
+	"pname": "VDSL 11n Wireless Router (ASL-56552)",
+	"pcpe": "cpe:/h:alphanetworks:vdsl_asl-56552"
 }

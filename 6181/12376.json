@@ -1,8 +1,8 @@
 {
-  "vid": "6181",
-  "vname": "osdate",
-  "vcpe": "cpe:/:osdate",
-  "pid": "12376",
-  "pname": "osdate",
-  "pcpe": "cpe:/a:osdate:osdate"
+	"vid": "6181",
+	"vname": "osdate",
+	"vcpe": "cpe:/:osdate",
+	"pid": "12376",
+	"pname": "osdate",
+	"pcpe": "cpe:/a:osdate:osdate"
 }

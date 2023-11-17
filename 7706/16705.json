@@ -1,8 +1,8 @@
 {
-  "vid": "7706",
-  "vname": "snom",
-  "vcpe": "cpe:/:snom",
-  "pid": "16705",
-  "pname": "snom 320 linux",
-  "pcpe": "cpe:/o:snom:snom_320_linux"
+	"vid": "7706",
+	"vname": "snom",
+	"vcpe": "cpe:/:snom",
+	"pid": "16705",
+	"pname": "snom 320 linux",
+	"pcpe": "cpe:/o:snom:snom_320_linux"
 }

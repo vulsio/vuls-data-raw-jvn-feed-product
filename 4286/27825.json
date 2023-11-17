@@ -1,8 +1,8 @@
 {
-  "vid": "4286",
-  "vname": "Palo Alto Networks",
-  "vcpe": "cpe:/:palo_alto_networks",
-  "pid": "27825",
-  "pname": "Terminal Services Agent",
-  "pcpe": "cpe:/a:palo_alto_networks:terminal_services_agent"
+	"vid": "4286",
+	"vname": "Palo Alto Networks",
+	"vcpe": "cpe:/:palo_alto_networks",
+	"pid": "27825",
+	"pname": "Terminal Services Agent",
+	"pcpe": "cpe:/a:palo_alto_networks:terminal_services_agent"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22383",
-  "vname": "Max Foundry",
-  "vcpe": "cpe:/:maxfoundry",
-  "pid": "57557",
-  "pname": "WP-Paginate",
-  "pcpe": "cpe:/a:maxfoundry:wp-paginate"
+	"vid": "22383",
+	"vname": "Max Foundry",
+	"vcpe": "cpe:/:maxfoundry",
+	"pid": "57557",
+	"pname": "WP-Paginate",
+	"pcpe": "cpe:/a:maxfoundry:wp-paginate"
 }

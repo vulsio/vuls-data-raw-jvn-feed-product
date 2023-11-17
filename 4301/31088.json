@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "31088",
-  "pname": "CloudFormation bootstrap",
-  "pcpe": "cpe:/a:amazon:amazon_web_services_cloudformation_bootstrap"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "31088",
+	"pname": "CloudFormation bootstrap",
+	"pcpe": "cpe:/a:amazon:amazon_web_services_cloudformation_bootstrap"
 }

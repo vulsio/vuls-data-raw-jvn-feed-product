@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18043",
-  "pname": "HP 5500-48G-PoE SI Switch",
-  "pcpe": "cpe:/h:hp:5500-48g-poe_si_switch"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18043",
+	"pname": "HP 5500-48G-PoE SI Switch",
+	"pcpe": "cpe:/h:hp:5500-48g-poe_si_switch"
 }

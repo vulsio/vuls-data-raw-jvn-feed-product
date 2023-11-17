@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "46402",
-  "pname": "Azure-c-shared-utility",
-  "pcpe": "cpe:/a:microsoft:azure-c-shared-utility"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "46402",
+	"pname": "Azure-c-shared-utility",
+	"pcpe": "cpe:/a:microsoft:azure-c-shared-utility"
 }

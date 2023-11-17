@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3218",
-  "pname": "Cisco TelePresence EX90",
-  "pcpe": "cpe:/h:cisco:telepresence_ex90"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3218",
+	"pname": "Cisco TelePresence EX90",
+	"pcpe": "cpe:/h:cisco:telepresence_ex90"
 }

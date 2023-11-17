@@ -1,8 +1,8 @@
 {
-  "vid": "15740",
-  "vname": "Loadbalancer.org",
-  "vcpe": "cpe:/:loadbalancer",
-  "pid": "36655",
-  "pname": "Enterprise VA MAX",
-  "pcpe": "cpe:/a:loadbalancer:enterprise_va_max"
+	"vid": "15740",
+	"vname": "Loadbalancer.org",
+	"vcpe": "cpe:/:loadbalancer",
+	"pid": "36655",
+	"pname": "Enterprise VA MAX",
+	"pcpe": "cpe:/a:loadbalancer:enterprise_va_max"
 }

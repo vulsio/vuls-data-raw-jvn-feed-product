@@ -1,8 +1,8 @@
 {
-  "vid": "16105",
-  "vname": "OFCMS project",
-  "vcpe": "cpe:/:ofcms_project",
-  "pid": "37743",
-  "pname": "OFCMS",
-  "pcpe": "cpe:/a:ofcms_project:ofcms"
+	"vid": "16105",
+	"vname": "OFCMS project",
+	"vcpe": "cpe:/:ofcms_project",
+	"pid": "37743",
+	"pname": "OFCMS",
+	"pcpe": "cpe:/a:ofcms_project:ofcms"
 }

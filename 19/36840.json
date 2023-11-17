@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "36840",
-  "pname": "Cisco IOS ROM Monitor",
-  "pcpe": "cpe:/o:cisco:ios_rom_monitor"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "36840",
+	"pname": "Cisco IOS ROM Monitor",
+	"pcpe": "cpe:/o:cisco:ios_rom_monitor"
 }

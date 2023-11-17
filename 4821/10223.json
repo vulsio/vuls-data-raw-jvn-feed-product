@@ -1,8 +1,8 @@
 {
-  "vid": "4821",
-  "vname": "intervideo",
-  "vcpe": "cpe:/:intervideo",
-  "pid": "10223",
-  "pname": "windvd media center",
-  "pcpe": "cpe:/a:intervideo:windvd_media_center"
+	"vid": "4821",
+	"vname": "intervideo",
+	"vcpe": "cpe:/:intervideo",
+	"pid": "10223",
+	"pname": "windvd media center",
+	"pcpe": "cpe:/a:intervideo:windvd_media_center"
 }

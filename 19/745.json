@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "745",
-  "pname": "Cisco MGX 8850 シリーズ",
-  "pcpe": "cpe:/h:cisco:mgx_8850"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "745",
+	"pname": "Cisco MGX 8850 シリーズ",
+	"pcpe": "cpe:/h:cisco:mgx_8850"
 }

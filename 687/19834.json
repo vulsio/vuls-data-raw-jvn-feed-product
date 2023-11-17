@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "19834",
-  "pname": "TIBCO Spotfire Deployment Kit",
-  "pcpe": "cpe:/a:tibco:deployment_kit"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "19834",
+	"pname": "TIBCO Spotfire Deployment Kit",
+	"pcpe": "cpe:/a:tibco:deployment_kit"
 }

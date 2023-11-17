@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17362",
-  "pname": "IBM WebSphere DataPower Integration アプライアンス XI52 ファームウェア",
-  "pcpe": "cpe:/o:ibm:websphere_datapower_integration_appliance_xi52_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17362",
+	"pname": "IBM WebSphere DataPower Integration アプライアンス XI52 ファームウェア",
+	"pcpe": "cpe:/o:ibm:websphere_datapower_integration_appliance_xi52_firmware"
 }

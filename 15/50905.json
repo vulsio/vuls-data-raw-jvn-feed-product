@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "50905",
-  "pname": "Oracle Communications Fraud Monitor",
-  "pcpe": "cpe:/a:oracle:communications_fraud_monitor"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "50905",
+	"pname": "Oracle Communications Fraud Monitor",
+	"pcpe": "cpe:/a:oracle:communications_fraud_monitor"
 }

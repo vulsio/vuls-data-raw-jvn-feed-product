@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "45935",
-  "pname": "Flaky Test Handler",
-  "pcpe": "cpe:/a:jenkins:flaky_test_handler"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "45935",
+	"pname": "Flaky Test Handler",
+	"pcpe": "cpe:/a:jenkins:flaky_test_handler"
 }

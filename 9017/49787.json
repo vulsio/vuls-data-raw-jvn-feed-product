@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "49787",
-  "pname": "X10SLA-F ファームウェア",
-  "pcpe": "cpe:/o:supermicro:x10sla-f_firmware"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "49787",
+	"pname": "X10SLA-F ファームウェア",
+	"pcpe": "cpe:/o:supermicro:x10sla-f_firmware"
 }

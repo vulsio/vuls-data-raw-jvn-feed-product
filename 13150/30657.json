@@ -1,8 +1,8 @@
 {
-  "vid": "13150",
-  "vname": "hbgk.net",
-  "vcpe": "cpe:/:hbgk",
-  "pid": "30657",
-  "pname": "HB8016 ファームウェア",
-  "pcpe": "cpe:/o:hbgk:hb8016_firmware"
+	"vid": "13150",
+	"vname": "hbgk.net",
+	"vcpe": "cpe:/:hbgk",
+	"pid": "30657",
+	"pname": "HB8016 ファームウェア",
+	"pcpe": "cpe:/o:hbgk:hb8016_firmware"
 }

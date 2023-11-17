@@ -1,8 +1,8 @@
 {
-  "vid": "23878",
-  "vname": "properties-reader project",
-  "vcpe": "cpe:/:properties-reader_project",
-  "pid": "61768",
-  "pname": "properties-reader",
-  "pcpe": "cpe:/a:properties-reader_project:properties-reader"
+	"vid": "23878",
+	"vname": "properties-reader project",
+	"vcpe": "cpe:/:properties-reader_project",
+	"pid": "61768",
+	"pname": "properties-reader",
+	"pcpe": "cpe:/a:properties-reader_project:properties-reader"
 }

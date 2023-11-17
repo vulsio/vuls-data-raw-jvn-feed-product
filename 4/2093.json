@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "2093",
-  "pname": "HP Select Access",
-  "pcpe": "cpe:/a:hp:select_access"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "2093",
+	"pname": "HP Select Access",
+	"pcpe": "cpe:/a:hp:select_access"
 }

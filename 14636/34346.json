@@ -1,8 +1,8 @@
 {
-  "vid": "14636",
-  "vname": "weather.swlyons project",
-  "vcpe": "cpe:/:weather.swlyons_project",
-  "pid": "34346",
-  "pname": "weather.swlyons",
-  "pcpe": "cpe:/a:weather.swlyons_project:weather.swlyons"
+	"vid": "14636",
+	"vname": "weather.swlyons project",
+	"vcpe": "cpe:/:weather.swlyons_project",
+	"pid": "34346",
+	"pname": "weather.swlyons",
+	"pcpe": "cpe:/a:weather.swlyons_project:weather.swlyons"
 }

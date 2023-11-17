@@ -1,8 +1,8 @@
 {
-  "vid": "18189",
-  "vname": "UI",
-  "vcpe": "cpe:/:ui",
-  "pid": "58275",
-  "pname": "ua lite ファームウェア",
-  "pcpe": "cpe:/o:ui:ua_lite_firmware"
+	"vid": "18189",
+	"vname": "UI",
+	"vcpe": "cpe:/:ui",
+	"pid": "58275",
+	"pname": "ua lite ファームウェア",
+	"pcpe": "cpe:/o:ui:ua_lite_firmware"
 }

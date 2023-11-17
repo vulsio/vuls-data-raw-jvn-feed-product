@@ -1,8 +1,8 @@
 {
-  "vid": "23532",
-  "vname": "lenze",
-  "vcpe": "cpe:/:lenze",
-  "pid": "60968",
-  "pname": "c550 ファームウェア",
-  "pcpe": "cpe:/o:lenze:c550_firmware"
+	"vid": "23532",
+	"vname": "lenze",
+	"vcpe": "cpe:/:lenze",
+	"pid": "60968",
+	"pname": "c550 ファームウェア",
+	"pcpe": "cpe:/o:lenze:c550_firmware"
 }

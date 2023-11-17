@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "63961",
-  "pname": "mp c2003 smart operation panel ファームウェア",
-  "pcpe": "cpe:/o:ricoh:mp_c2003_smart_operation_panel_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "63961",
+	"pname": "mp c2003 smart operation panel ファームウェア",
+	"pcpe": "cpe:/o:ricoh:mp_c2003_smart_operation_panel_firmware"
 }

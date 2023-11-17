@@ -1,8 +1,8 @@
 {
-  "vid": "18587",
-  "vname": "beroNet GmbH.",
-  "vcpe": "cpe:/:beronet",
-  "pid": "45847",
-  "pname": "beroNet VoIP Gateways ファームウェア",
-  "pcpe": "cpe:/o:beronet:voice_over_internet_protocol_gateways_firmware"
+	"vid": "18587",
+	"vname": "beroNet GmbH.",
+	"vcpe": "cpe:/:beronet",
+	"pid": "45847",
+	"pname": "beroNet VoIP Gateways ファームウェア",
+	"pcpe": "cpe:/o:beronet:voice_over_internet_protocol_gateways_firmware"
 }

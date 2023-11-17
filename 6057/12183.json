@@ -1,8 +1,8 @@
 {
-  "vid": "6057",
-  "vname": "ocean12 technologies",
-  "vcpe": "cpe:/:ocean12_technologies",
-  "pid": "12183",
-  "pname": "poll manager",
-  "pcpe": "cpe:/a:ocean12_technologies:poll_manager"
+	"vid": "6057",
+	"vname": "ocean12 technologies",
+	"vcpe": "cpe:/:ocean12_technologies",
+	"pid": "12183",
+	"pname": "poll manager",
+	"pcpe": "cpe:/a:ocean12_technologies:poll_manager"
 }

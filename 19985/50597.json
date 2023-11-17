@@ -1,8 +1,8 @@
 {
-  "vid": "19985",
-  "vname": "TinyShop project",
-  "vcpe": "cpe:/:tinyshop_project",
-  "pid": "50597",
-  "pname": "TinyShop",
-  "pcpe": "cpe:/a:tinyshop_project:tinyshop"
+	"vid": "19985",
+	"vname": "TinyShop project",
+	"vcpe": "cpe:/:tinyshop_project",
+	"pid": "50597",
+	"pname": "TinyShop",
+	"pcpe": "cpe:/a:tinyshop_project:tinyshop"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11451",
-  "vname": "JetBrains",
-  "vcpe": "cpe:/:jetbrains",
-  "pid": "39379",
-  "pname": "YouTrack Confluence Integration",
-  "pcpe": "cpe:/a:jetbrains:youtrack_integration"
+	"vid": "11451",
+	"vname": "JetBrains",
+	"vcpe": "cpe:/:jetbrains",
+	"pid": "39379",
+	"pname": "YouTrack Confluence Integration",
+	"pcpe": "cpe:/a:jetbrains:youtrack_integration"
 }

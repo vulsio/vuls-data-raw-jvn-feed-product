@@ -1,8 +1,8 @@
 {
-  "vid": "11685",
-  "vname": "libuv project",
-  "vcpe": "cpe:/:libuv_project",
-  "pid": "24061",
-  "pname": "libuv",
-  "pcpe": "cpe:/a:libuv_project:libuv"
+	"vid": "11685",
+	"vname": "libuv project",
+	"vcpe": "cpe:/:libuv_project",
+	"pid": "24061",
+	"pname": "libuv",
+	"pcpe": "cpe:/a:libuv_project:libuv"
 }

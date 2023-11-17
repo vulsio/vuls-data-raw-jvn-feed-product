@@ -1,8 +1,8 @@
 {
-  "vid": "891",
-  "vname": "osCommerce",
-  "vcpe": "cpe:/:oscommerce",
-  "pid": "46414",
-  "pname": "CE Phoenix",
-  "pcpe": "cpe:/a:oscommerce:ce_phoenix"
+	"vid": "891",
+	"vname": "osCommerce",
+	"vcpe": "cpe:/:oscommerce",
+	"pid": "46414",
+	"pname": "CE Phoenix",
+	"pcpe": "cpe:/a:oscommerce:ce_phoenix"
 }

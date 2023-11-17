@@ -1,8 +1,8 @@
 {
-  "vid": "573",
-  "vname": "Foxit Software Inc",
-  "vcpe": "cpe:/:foxitsoftware",
-  "pid": "8153",
-  "pname": "reader3.0",
-  "pcpe": "cpe:/a:foxitsoftware:reader3.0"
+	"vid": "573",
+	"vname": "Foxit Software Inc",
+	"vcpe": "cpe:/:foxitsoftware",
+	"pid": "8153",
+	"pname": "reader3.0",
+	"pcpe": "cpe:/a:foxitsoftware:reader3.0"
 }

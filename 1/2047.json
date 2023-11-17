@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "2047",
-  "pname": "OpenSolaris",
-  "pcpe": "cpe:/o:sun:opensolaris"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "2047",
+	"pname": "OpenSolaris",
+	"pcpe": "cpe:/o:sun:opensolaris"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "39823",
-  "pname": "Codefresh Integration",
-  "pcpe": "cpe:/a:jenkins:codefresh_integration"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "39823",
+	"pname": "Codefresh Integration",
+	"pcpe": "cpe:/a:jenkins:codefresh_integration"
 }

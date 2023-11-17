@@ -1,8 +1,8 @@
 {
-  "vid": "11132",
-  "vname": "fuelrewards",
-  "vcpe": "cpe:/:fuelrewards",
-  "pid": "22759",
-  "pname": "fuel rewards network",
-  "pcpe": "cpe:/a:fuelrewards:fuel_rewards_network"
+	"vid": "11132",
+	"vname": "fuelrewards",
+	"vcpe": "cpe:/:fuelrewards",
+	"pid": "22759",
+	"pname": "fuel rewards network",
+	"pcpe": "cpe:/a:fuelrewards:fuel_rewards_network"
 }

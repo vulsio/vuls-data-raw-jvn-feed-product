@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58732",
-  "pname": "thinkpad x1 carbon 5th gen kabylake ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_x1_carbon_5th_gen_kabylake_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58732",
+	"pname": "thinkpad x1 carbon 5th gen kabylake ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_x1_carbon_5th_gen_kabylake_firmware"
 }

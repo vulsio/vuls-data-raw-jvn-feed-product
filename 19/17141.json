@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17141",
-  "pname": "Cisco ASR 1002 Fixed ルータ",
-  "pcpe": "cpe:/h:cisco:asr_1002_fixed_router"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17141",
+	"pname": "Cisco ASR 1002 Fixed ルータ",
+	"pcpe": "cpe:/h:cisco:asr_1002_fixed_router"
 }

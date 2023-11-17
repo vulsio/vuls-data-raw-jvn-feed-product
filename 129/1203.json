@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1203",
-  "pname": "Cosminexus TPBroker Object Transaction Monitor",
-  "pcpe": "cpe:/a:hitachi:cosminexus_tpbroker_object_transaction_monitor"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1203",
+	"pname": "Cosminexus TPBroker Object Transaction Monitor",
+	"pcpe": "cpe:/a:hitachi:cosminexus_tpbroker_object_transaction_monitor"
 }

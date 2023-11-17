@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "18729",
-  "pname": "SAP Network Interface Router",
-  "pcpe": "cpe:/a:sap:network_interface_router"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "18729",
+	"pname": "SAP Network Interface Router",
+	"pcpe": "cpe:/a:sap:network_interface_router"
 }

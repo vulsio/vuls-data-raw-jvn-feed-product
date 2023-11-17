@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "18478",
-  "pname": "SHR-5082",
-  "pcpe": "cpe:/h:samsung:shr-5082"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "18478",
+	"pname": "SHR-5082",
+	"pcpe": "cpe:/h:samsung:shr-5082"
 }

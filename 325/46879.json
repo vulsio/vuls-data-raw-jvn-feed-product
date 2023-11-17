@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "46879",
-  "pname": "Lenovo Diagnostics",
-  "pcpe": "cpe:/a:lenovo:diagnostics"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "46879",
+	"pname": "Lenovo Diagnostics",
+	"pcpe": "cpe:/a:lenovo:diagnostics"
 }

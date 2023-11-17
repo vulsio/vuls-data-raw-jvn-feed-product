@@ -1,8 +1,8 @@
 {
-  "vid": "13914",
-  "vname": "iCMS",
-  "vcpe": "cpe:/:icmsdev",
-  "pid": "33078",
-  "pname": "iCMS",
-  "pcpe": "cpe:/a:icmsdev:icms"
+	"vid": "13914",
+	"vname": "iCMS",
+	"vcpe": "cpe:/:icmsdev",
+	"pid": "33078",
+	"pname": "iCMS",
+	"pcpe": "cpe:/a:icmsdev:icms"
 }

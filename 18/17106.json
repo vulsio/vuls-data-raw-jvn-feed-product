@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17106",
-  "pname": "IBM IMS Enterprise Suite",
-  "pcpe": "cpe:/a:ibm:ims_enterprise_suite"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17106",
+	"pname": "IBM IMS Enterprise Suite",
+	"pcpe": "cpe:/a:ibm:ims_enterprise_suite"
 }

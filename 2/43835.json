@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "43835",
-  "pname": "リモートデスクトップ接続マネージャー",
-  "pcpe": "cpe:/a:microsoft:remote_desktop_connection_manager"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "43835",
+	"pname": "リモートデスクトップ接続マネージャー",
+	"pcpe": "cpe:/a:microsoft:remote_desktop_connection_manager"
 }

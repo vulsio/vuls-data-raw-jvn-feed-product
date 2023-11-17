@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "37584",
-  "pname": "CODESYS Control RTE V3 (for Beckhoff CX)",
-  "pcpe": "cpe:/a:codesys:control_rte_sl_%28for_beckhoff_cx%29"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "37584",
+	"pname": "CODESYS Control RTE V3 (for Beckhoff CX)",
+	"pcpe": "cpe:/a:codesys:control_rte_sl_%28for_beckhoff_cx%29"
 }

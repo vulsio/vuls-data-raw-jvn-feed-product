@@ -1,8 +1,8 @@
 {
-  "vid": "3154",
-  "vname": "dec",
-  "vcpe": "cpe:/:dec",
-  "pid": "7244",
-  "pname": "dec openvms alpha",
-  "pcpe": "cpe:/a:dec:dec_openvms_alpha"
+	"vid": "3154",
+	"vname": "dec",
+	"vcpe": "cpe:/:dec",
+	"pid": "7244",
+	"pname": "dec openvms alpha",
+	"pcpe": "cpe:/a:dec:dec_openvms_alpha"
 }

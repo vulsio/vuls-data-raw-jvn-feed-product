@@ -1,8 +1,8 @@
 {
-  "vid": "14641",
-  "vname": "ZPEcoin project",
-  "vcpe": "cpe:/:zpecoin_project",
-  "pid": "34351",
-  "pname": "ZPEcoin",
-  "pcpe": "cpe:/a:zpecoin_project:zpecoin"
+	"vid": "14641",
+	"vname": "ZPEcoin project",
+	"vcpe": "cpe:/:zpecoin_project",
+	"pid": "34351",
+	"pname": "ZPEcoin",
+	"pcpe": "cpe:/a:zpecoin_project:zpecoin"
 }

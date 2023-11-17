@@ -1,8 +1,8 @@
 {
-  "vid": "1107",
-  "vname": "Xiaomi",
-  "vcpe": "cpe:/:xiaomi",
-  "pid": "38127",
-  "pname": "Mint browser",
-  "pcpe": "cpe:/a:xiaomi:mint_browser"
+	"vid": "1107",
+	"vname": "Xiaomi",
+	"vcpe": "cpe:/:xiaomi",
+	"pid": "38127",
+	"pname": "Mint browser",
+	"pcpe": "cpe:/a:xiaomi:mint_browser"
 }

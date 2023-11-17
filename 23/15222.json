@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15222",
-  "pname": "symantec antivirus microsoft sharepoint",
-  "pcpe": "cpe:/a:symantec:symantec_antivirus_microsoft_sharepoint"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15222",
+	"pname": "symantec antivirus microsoft sharepoint",
+	"pcpe": "cpe:/a:symantec:symantec_antivirus_microsoft_sharepoint"
 }

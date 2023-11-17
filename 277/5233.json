@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "5233",
-  "pname": "SmartWi Connection Utility",
-  "pcpe": "cpe:/a:sony:smartwi_connection_utillity"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "5233",
+	"pname": "SmartWi Connection Utility",
+	"pcpe": "cpe:/a:sony:smartwi_connection_utillity"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "574",
-  "vname": "ESET",
-  "vcpe": "cpe:/:eset",
-  "pid": "44726",
-  "pname": "ESET Antivirus and Antispyware",
-  "pcpe": "cpe:/a:eset:antivirus_and_antispyware"
+	"vid": "574",
+	"vname": "ESET",
+	"vcpe": "cpe:/:eset",
+	"pid": "44726",
+	"pname": "ESET Antivirus and Antispyware",
+	"pcpe": "cpe:/a:eset:antivirus_and_antispyware"
 }

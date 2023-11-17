@@ -1,8 +1,8 @@
 {
-  "vid": "11415",
-  "vname": "Rinat Khaziev",
-  "vcpe": "cpe:/:frontend_uploader_project",
-  "pid": "23198",
-  "pname": "Frontend Uploader",
-  "pcpe": "cpe:/a:frontend_uploader_project:frontend_uploader"
+	"vid": "11415",
+	"vname": "Rinat Khaziev",
+	"vcpe": "cpe:/:frontend_uploader_project",
+	"pid": "23198",
+	"pname": "Frontend Uploader",
+	"pcpe": "cpe:/a:frontend_uploader_project:frontend_uploader"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8946",
-  "vname": "Hexagon",
-  "vcpe": "cpe:/:hexagon",
-  "pid": "52382",
-  "pname": "GeoMedia WebMap",
-  "pcpe": "cpe:/a:hexagon:geomedia_webmap"
+	"vid": "8946",
+	"vname": "Hexagon",
+	"vcpe": "cpe:/:hexagon",
+	"pid": "52382",
+	"pname": "GeoMedia WebMap",
+	"pcpe": "cpe:/a:hexagon:geomedia_webmap"
 }

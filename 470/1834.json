@@ -1,8 +1,8 @@
 {
-  "vid": "470",
-  "vname": "GStreamer",
-  "vcpe": "cpe:/:gstreamer_project",
-  "pid": "1834",
-  "pname": "GStreamer Good Plug-ins",
-  "pcpe": "cpe:/a:gstreamer_project:good_plug-ins"
+	"vid": "470",
+	"vname": "GStreamer",
+	"vcpe": "cpe:/:gstreamer_project",
+	"pid": "1834",
+	"pname": "GStreamer Good Plug-ins",
+	"pcpe": "cpe:/a:gstreamer_project:good_plug-ins"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20697",
-  "vname": "WP Webhooks",
-  "vcpe": "cpe:/:wp-webhooks",
-  "pid": "52702",
-  "pname": "Email Encoder",
-  "pcpe": "cpe:/a:wp-webhooks:email_encoder"
+	"vid": "20697",
+	"vname": "WP Webhooks",
+	"vcpe": "cpe:/:wp-webhooks",
+	"pid": "52702",
+	"pname": "Email Encoder",
+	"pcpe": "cpe:/a:wp-webhooks:email_encoder"
 }

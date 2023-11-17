@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "3814",
-  "pname": "Altiris IT Management Suite",
-  "pcpe": "cpe:/a:symantec:altiris_it_management_suite_pcanywhere_solution"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "3814",
+	"pname": "Altiris IT Management Suite",
+	"pcpe": "cpe:/a:symantec:altiris_it_management_suite_pcanywhere_solution"
 }

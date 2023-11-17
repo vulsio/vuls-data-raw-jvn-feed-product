@@ -1,8 +1,8 @@
 {
-  "vid": "10110",
-  "vname": "Cheetah Mobile",
-  "vcpe": "cpe:/:cmcm",
-  "pid": "35859",
-  "pname": "CM Launcher 3D",
-  "pcpe": "cpe:/a:cmcm:cm_launcher_3d"
+	"vid": "10110",
+	"vname": "Cheetah Mobile",
+	"vcpe": "cpe:/:cmcm",
+	"pid": "35859",
+	"pname": "CM Launcher 3D",
+	"pcpe": "cpe:/a:cmcm:cm_launcher_3d"
 }

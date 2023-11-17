@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "32070",
-  "pname": "DeltaSpike",
-  "pcpe": "cpe:/a:apache:deltaspike"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "32070",
+	"pname": "DeltaSpike",
+	"pcpe": "cpe:/a:apache:deltaspike"
 }

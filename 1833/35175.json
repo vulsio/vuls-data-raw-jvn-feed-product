@@ -1,8 +1,8 @@
 {
-  "vid": "1833",
-  "vname": "株式会社NTTドコモ",
-  "vcpe": "cpe:/:nttdocomo",
-  "pid": "35175",
-  "pname": "＋メッセージ（プラスメッセージ)",
-  "pcpe": "cpe:/a:nttdocomo:%2b_message"
+	"vid": "1833",
+	"vname": "株式会社NTTドコモ",
+	"vcpe": "cpe:/:nttdocomo",
+	"pid": "35175",
+	"pname": "＋メッセージ（プラスメッセージ)",
+	"pcpe": "cpe:/a:nttdocomo:%2b_message"
 }

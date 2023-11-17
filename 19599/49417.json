@@ -1,8 +1,8 @@
 {
-  "vid": "19599",
-  "vname": "KLog Server",
-  "vcpe": "cpe:/:klogserver",
-  "pid": "49417",
-  "pname": "KLog Server",
-  "pcpe": "cpe:/a:klogserver:klog_server"
+	"vid": "19599",
+	"vname": "KLog Server",
+	"vcpe": "cpe:/:klogserver",
+	"pid": "49417",
+	"pname": "KLog Server",
+	"pcpe": "cpe:/a:klogserver:klog_server"
 }

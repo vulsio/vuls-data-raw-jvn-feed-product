@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "60483",
-  "pname": "qcn6024 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qcn6024_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "60483",
+	"pname": "qcn6024 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qcn6024_firmware"
 }

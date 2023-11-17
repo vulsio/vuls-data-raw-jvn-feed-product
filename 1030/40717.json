@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "40717",
-  "pname": "CODESYS Hmi",
-  "pcpe": "cpe:/a:codesys:hmi"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "40717",
+	"pname": "CODESYS Hmi",
+	"pcpe": "cpe:/a:codesys:hmi"
 }

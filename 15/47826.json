@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47826",
-  "pname": "Oracle Labor Distribution",
-  "pcpe": "cpe:/a:oracle:labor_distribution"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47826",
+	"pname": "Oracle Labor Distribution",
+	"pcpe": "cpe:/a:oracle:labor_distribution"
 }

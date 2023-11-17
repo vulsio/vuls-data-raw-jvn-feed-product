@@ -1,8 +1,8 @@
 {
-  "vid": "17587",
-  "vname": "Lever Technology LLC",
-  "vcpe": "cpe:/:wp-pdf",
-  "pid": "42148",
-  "pname": "PDF Embedder",
-  "pcpe": "cpe:/a:wp-pdf:pdf_embedder"
+	"vid": "17587",
+	"vname": "Lever Technology LLC",
+	"vcpe": "cpe:/:wp-pdf",
+	"pid": "42148",
+	"pname": "PDF Embedder",
+	"pcpe": "cpe:/a:wp-pdf:pdf_embedder"
 }

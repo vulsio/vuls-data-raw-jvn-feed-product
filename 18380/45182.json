@@ -1,8 +1,8 @@
 {
-  "vid": "18380",
-  "vname": "Morgan Stanley",
-  "vcpe": "cpe:/:morganstanley",
-  "pid": "45182",
-  "pname": "Hobbes",
-  "pcpe": "cpe:/a:morganstanley:hobbes"
+	"vid": "18380",
+	"vname": "Morgan Stanley",
+	"vcpe": "cpe:/:morganstanley",
+	"pid": "45182",
+	"pname": "Hobbes",
+	"pcpe": "cpe:/a:morganstanley:hobbes"
 }

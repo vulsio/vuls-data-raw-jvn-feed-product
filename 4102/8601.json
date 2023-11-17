@@ -1,8 +1,8 @@
 {
-  "vid": "4102",
-  "vname": "kazaa",
-  "vcpe": "cpe:/:kazaa",
-  "pid": "8601",
-  "pname": "kazaa media desktop",
-  "pcpe": "cpe:/a:kazaa:kazaa_media_desktop"
+	"vid": "4102",
+	"vname": "kazaa",
+	"vcpe": "cpe:/:kazaa",
+	"pid": "8601",
+	"pname": "kazaa media desktop",
+	"pcpe": "cpe:/a:kazaa:kazaa_media_desktop"
 }

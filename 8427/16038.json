@@ -1,8 +1,8 @@
 {
-  "vid": "8427",
-  "vname": "webbdomain",
-  "vcpe": "cpe:/:webbdomain",
-  "pid": "16038",
-  "pname": "webshop online",
-  "pcpe": "cpe:/a:webbdomain:webshop_online"
+	"vid": "8427",
+	"vname": "webbdomain",
+	"vcpe": "cpe:/:webbdomain",
+	"pid": "16038",
+	"pname": "webshop online",
+	"pcpe": "cpe:/a:webbdomain:webshop_online"
 }

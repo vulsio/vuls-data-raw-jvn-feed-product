@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30378",
-  "pname": "ThinkStation C30 (1137) ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkstation_c30_%281137%29_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30378",
+	"pname": "ThinkStation C30 (1137) ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkstation_c30_%281137%29_firmware"
 }

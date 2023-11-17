@@ -1,8 +1,8 @@
 {
-  "vid": "17776",
-  "vname": "Ezhometech",
-  "vcpe": "cpe:/:ezhometech",
-  "pid": "42727",
-  "pname": "EzServer",
-  "pcpe": "cpe:/a:ezhometech:ezserver"
+	"vid": "17776",
+	"vname": "Ezhometech",
+	"vcpe": "cpe:/:ezhometech",
+	"pid": "42727",
+	"pname": "EzServer",
+	"pcpe": "cpe:/a:ezhometech:ezserver"
 }

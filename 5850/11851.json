@@ -1,8 +1,8 @@
 {
-  "vid": "5850",
-  "vname": "myplugins",
-  "vcpe": "cpe:/:myplugins",
-  "pid": "11851",
-  "pname": "gen msn",
-  "pcpe": "cpe:/a:myplugins:gen_msn"
+	"vid": "5850",
+	"vname": "myplugins",
+	"vcpe": "cpe:/:myplugins",
+	"pid": "11851",
+	"pname": "gen msn",
+	"pcpe": "cpe:/a:myplugins:gen_msn"
 }

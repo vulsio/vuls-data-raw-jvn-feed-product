@@ -1,8 +1,8 @@
 {
-  "vid": "2537",
-  "vname": "bitflux",
-  "vcpe": "cpe:/:bitflux",
-  "pid": "6290",
-  "pname": "upload progress meter",
-  "pcpe": "cpe:/a:bitflux:upload_progress_meter"
+	"vid": "2537",
+	"vname": "bitflux",
+	"vcpe": "cpe:/:bitflux",
+	"pid": "6290",
+	"pname": "upload progress meter",
+	"pcpe": "cpe:/a:bitflux:upload_progress_meter"
 }

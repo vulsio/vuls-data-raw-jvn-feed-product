@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "32524",
-  "pname": "MGUARD SMART2 ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:mguard_smart2_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "32524",
+	"pname": "MGUARD SMART2 ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:mguard_smart2_firmware"
 }

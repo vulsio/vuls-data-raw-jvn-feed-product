@@ -1,8 +1,8 @@
 {
-  "vid": "22830",
-  "vname": "cve",
-  "vcpe": "cpe:/:cve",
-  "pid": "58766",
-  "pname": "cve-services",
-  "pcpe": "cpe:/a:cve:cve-services"
+	"vid": "22830",
+	"vname": "cve",
+	"vcpe": "cpe:/:cve",
+	"pid": "58766",
+	"pname": "cve-services",
+	"pcpe": "cpe:/a:cve:cve-services"
 }

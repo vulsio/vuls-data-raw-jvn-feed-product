@@ -1,8 +1,8 @@
 {
-  "vid": "23131",
-  "vname": "cilium",
-  "vcpe": "cpe:/:cilium",
-  "pid": "59883",
-  "pname": "cilium",
-  "pcpe": "cpe:/a:cilium:cilium"
+	"vid": "23131",
+	"vname": "cilium",
+	"vcpe": "cpe:/:cilium",
+	"pid": "59883",
+	"pname": "cilium",
+	"pcpe": "cpe:/a:cilium:cilium"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16762",
-  "vname": "Easy Digital Downloads",
-  "vcpe": "cpe:/:easydigitaldownloads",
-  "pid": "41266",
-  "pname": "Digital Store",
-  "pcpe": "cpe:/a:easydigitaldownloads:digital_store"
+	"vid": "16762",
+	"vname": "Easy Digital Downloads",
+	"vcpe": "cpe:/:easydigitaldownloads",
+	"pid": "41266",
+	"pname": "Digital Store",
+	"pcpe": "cpe:/a:easydigitaldownloads:digital_store"
 }

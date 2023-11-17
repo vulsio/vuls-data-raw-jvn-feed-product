@@ -1,8 +1,8 @@
 {
-  "vid": "14101",
-  "vname": "MyBiz",
-  "vcpe": "cpe:/:mybiz",
-  "pid": "33657",
-  "pname": "MyBiz MyProcureNet",
-  "pcpe": "cpe:/a:mybiz:myprocurenet"
+	"vid": "14101",
+	"vname": "MyBiz",
+	"vcpe": "cpe:/:mybiz",
+	"pid": "33657",
+	"pname": "MyBiz MyProcureNet",
+	"pcpe": "cpe:/a:mybiz:myprocurenet"
 }

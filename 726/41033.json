@@ -1,8 +1,8 @@
 {
-  "vid": "726",
-  "vname": "IceWarp, Inc.",
-  "vcpe": "cpe:/:icewarp",
-  "pid": "41033",
-  "pname": "Webclient",
-  "pcpe": "cpe:/a:icewarp:webclient"
+	"vid": "726",
+	"vname": "IceWarp, Inc.",
+	"vcpe": "cpe:/:icewarp",
+	"pid": "41033",
+	"pname": "Webclient",
+	"pcpe": "cpe:/a:icewarp:webclient"
 }

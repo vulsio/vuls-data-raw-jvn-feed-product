@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "25710",
-  "pname": "VESP211-232 ファームウェア",
-  "pcpe": "cpe:/a:advantech:vesp211-232_firmware"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "25710",
+	"pname": "VESP211-232 ファームウェア",
+	"pcpe": "cpe:/a:advantech:vesp211-232_firmware"
 }

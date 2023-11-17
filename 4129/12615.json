@@ -1,8 +1,8 @@
 {
-  "vid": "4129",
-  "vname": "PHP-Fusion",
-  "vcpe": "cpe:/:php-fusion",
-  "pid": "12615",
-  "pname": "arcade module",
-  "pcpe": "cpe:/a:php-fusion:arcade_module"
+	"vid": "4129",
+	"vname": "PHP-Fusion",
+	"vcpe": "cpe:/:php-fusion",
+	"pid": "12615",
+	"pname": "arcade module",
+	"pcpe": "cpe:/a:php-fusion:arcade_module"
 }

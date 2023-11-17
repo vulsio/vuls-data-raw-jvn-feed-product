@@ -1,8 +1,8 @@
 {
-  "vid": "9697",
-  "vname": "MicroP project",
-  "vcpe": "cpe:/:microp_project",
-  "pid": "20181",
-  "pname": "MicroP",
-  "pcpe": "cpe:/a:microp_project:microp"
+	"vid": "9697",
+	"vname": "MicroP project",
+	"vcpe": "cpe:/:microp_project",
+	"pid": "20181",
+	"pname": "MicroP",
+	"pcpe": "cpe:/a:microp_project:microp"
 }

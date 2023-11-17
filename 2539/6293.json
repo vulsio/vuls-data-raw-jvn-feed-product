@@ -1,8 +1,8 @@
 {
-  "vid": "2539",
-  "vname": "bitmixsoft",
-  "vcpe": "cpe:/:bitmixsoft",
-  "pid": "6293",
-  "pname": "php-lance",
-  "pcpe": "cpe:/a:bitmixsoft:php-lance"
+	"vid": "2539",
+	"vname": "bitmixsoft",
+	"vcpe": "cpe:/:bitmixsoft",
+	"pid": "6293",
+	"pname": "php-lance",
+	"pcpe": "cpe:/a:bitmixsoft:php-lance"
 }

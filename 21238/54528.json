@@ -1,8 +1,8 @@
 {
-  "vid": "21238",
-  "vname": "Django-wiki project",
-  "vcpe": "cpe:/:django-wiki_project",
-  "pid": "54528",
-  "pname": "Django-wiki",
-  "pcpe": "cpe:/a:django-wiki_project:django-wiki"
+	"vid": "21238",
+	"vname": "Django-wiki project",
+	"vcpe": "cpe:/:django-wiki_project",
+	"pid": "54528",
+	"pname": "Django-wiki",
+	"pcpe": "cpe:/a:django-wiki_project:django-wiki"
 }

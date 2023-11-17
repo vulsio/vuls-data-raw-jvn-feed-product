@@ -1,8 +1,8 @@
 {
-  "vid": "15875",
-  "vname": "Lab A Part",
-  "vcpe": "cpe:/:labapart",
-  "pid": "37025",
-  "pname": "GattLib",
-  "pcpe": "cpe:/a:labapart:gattlib"
+	"vid": "15875",
+	"vname": "Lab A Part",
+	"vcpe": "cpe:/:labapart",
+	"pid": "37025",
+	"pname": "GattLib",
+	"pcpe": "cpe:/a:labapart:gattlib"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10064",
-  "vname": "InMobi",
-  "vcpe": "cpe:/:inmobi",
-  "pid": "21083",
-  "pname": "Inmobi library",
-  "pcpe": "cpe:/a:inmobi:inmobi"
+	"vid": "10064",
+	"vname": "InMobi",
+	"vcpe": "cpe:/:inmobi",
+	"pid": "21083",
+	"pname": "Inmobi library",
+	"pcpe": "cpe:/a:inmobi:inmobi"
 }

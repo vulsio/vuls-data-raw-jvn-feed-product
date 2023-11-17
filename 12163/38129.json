@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38129",
-  "pname": "CloudCoreo DeployTime",
-  "pcpe": "cpe:/a:jenkins:cloudcoreo_deploytime"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38129",
+	"pname": "CloudCoreo DeployTime",
+	"pcpe": "cpe:/a:jenkins:cloudcoreo_deploytime"
 }

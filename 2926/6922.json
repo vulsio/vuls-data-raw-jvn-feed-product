@@ -1,8 +1,8 @@
 {
-  "vid": "2926",
-  "vname": "comet",
-  "vcpe": "cpe:/:comet",
-  "pid": "6922",
-  "pname": "comet webfile manager",
-  "pcpe": "cpe:/a:comet:comet_webfile_manager"
+	"vid": "2926",
+	"vname": "comet",
+	"vcpe": "cpe:/:comet",
+	"pid": "6922",
+	"pname": "comet webfile manager",
+	"pcpe": "cpe:/a:comet:comet_webfile_manager"
 }

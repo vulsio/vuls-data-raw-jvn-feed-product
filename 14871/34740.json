@@ -1,8 +1,8 @@
 {
-  "vid": "14871",
-  "vname": "The YAML Project",
-  "vcpe": "cpe:/:pyyaml_project",
-  "pid": "34740",
-  "pname": "PyYAML",
-  "pcpe": "cpe:/a:pyyaml_project:pyyaml"
+	"vid": "14871",
+	"vname": "The YAML Project",
+	"vcpe": "cpe:/:pyyaml_project",
+	"pid": "34740",
+	"pname": "PyYAML",
+	"pcpe": "cpe:/a:pyyaml_project:pyyaml"
 }

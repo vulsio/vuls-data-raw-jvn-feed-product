@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "30485",
-  "pname": "7KM PAC Switched Ethernet PROFINET 拡張モジュールファームウェア",
-  "pcpe": "cpe:/o:siemens:7km_pac_switched_ethernet_profinet_expansion_module_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "30485",
+	"pname": "7KM PAC Switched Ethernet PROFINET 拡張モジュールファームウェア",
+	"pcpe": "cpe:/o:siemens:7km_pac_switched_ethernet_profinet_expansion_module_firmware"
 }

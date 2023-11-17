@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26556",
-  "pname": "Oracle Health Sciences Information Manager",
-  "pcpe": "cpe:/a:oracle:health_sciences_information_manager"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26556",
+	"pname": "Oracle Health Sciences Information Manager",
+	"pcpe": "cpe:/a:oracle:health_sciences_information_manager"
 }

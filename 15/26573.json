@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26573",
-  "pname": "40G 10G 72/64 Ethernet Switch",
-  "pcpe": "cpe:/a:oracle:40g_10g_72_%2F_64_ethernet_switch"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26573",
+	"pname": "40G 10G 72/64 Ethernet Switch",
+	"pcpe": "cpe:/a:oracle:40g_10g_72_%2F_64_ethernet_switch"
 }

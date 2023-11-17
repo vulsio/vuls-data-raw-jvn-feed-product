@@ -1,8 +1,8 @@
 {
-  "vid": "23599",
-  "vname": "Array Networks, Inc.",
-  "vcpe": "cpe:/:arraynetworks",
-  "pid": "61115",
-  "pname": "ArrayOS AG",
-  "pcpe": "cpe:/o:arraynetworks:arrayos_ag"
+	"vid": "23599",
+	"vname": "Array Networks, Inc.",
+	"vcpe": "cpe:/:arraynetworks",
+	"pid": "61115",
+	"pname": "ArrayOS AG",
+	"pcpe": "cpe:/o:arraynetworks:arrayos_ag"
 }

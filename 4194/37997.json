@@ -1,8 +1,8 @@
 {
-  "vid": "4194",
-  "vname": "Grandstream Networks",
-  "vcpe": "cpe:/:grandstream",
-  "pid": "37997",
-  "pname": "GWN7610 ファームウェア",
-  "pcpe": "cpe:/o:grandstream:gwn7610_firmware"
+	"vid": "4194",
+	"vname": "Grandstream Networks",
+	"vcpe": "cpe:/:grandstream",
+	"pid": "37997",
+	"pname": "GWN7610 ファームウェア",
+	"pcpe": "cpe:/o:grandstream:gwn7610_firmware"
 }

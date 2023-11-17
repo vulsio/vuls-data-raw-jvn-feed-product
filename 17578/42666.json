@@ -1,8 +1,8 @@
 {
-  "vid": "17578",
-  "vname": "PowAuth",
-  "vcpe": "cpe:/:powauth",
-  "pid": "42666",
-  "pname": "Pow",
-  "pcpe": "cpe:/a:powauth:pow"
+	"vid": "17578",
+	"vname": "PowAuth",
+	"vcpe": "cpe:/:powauth",
+	"pid": "42666",
+	"pname": "Pow",
+	"pcpe": "cpe:/a:powauth:pow"
 }

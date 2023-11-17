@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "33615",
-  "pname": "puppet-swift",
-  "pcpe": "cpe:/a:openstack:puppet-swift"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "33615",
+	"pname": "puppet-swift",
+	"pcpe": "cpe:/a:openstack:puppet-swift"
 }

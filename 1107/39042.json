@@ -1,8 +1,8 @@
 {
-  "vid": "1107",
-  "vname": "Xiaomi",
-  "vcpe": "cpe:/:xiaomi",
-  "pid": "39042",
-  "pname": "Stock Browser",
-  "pcpe": "cpe:/a:xiaomi:stock_browser"
+	"vid": "1107",
+	"vname": "Xiaomi",
+	"vcpe": "cpe:/:xiaomi",
+	"pid": "39042",
+	"pname": "Stock Browser",
+	"pcpe": "cpe:/a:xiaomi:stock_browser"
 }

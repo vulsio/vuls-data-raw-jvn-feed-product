@@ -1,8 +1,8 @@
 {
-  "vid": "3131",
-  "vname": "daz3d",
-  "vcpe": "cpe:/:daz3d",
-  "pid": "7200",
-  "pname": "daz studio",
-  "pcpe": "cpe:/a:daz3d:daz_studio"
+	"vid": "3131",
+	"vname": "daz3d",
+	"vcpe": "cpe:/:daz3d",
+	"pid": "7200",
+	"pname": "daz studio",
+	"pcpe": "cpe:/a:daz3d:daz_studio"
 }

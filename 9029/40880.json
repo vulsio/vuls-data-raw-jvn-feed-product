@@ -1,8 +1,8 @@
 {
-  "vid": "9029",
-  "vname": "Ubiquiti Networks",
-  "vcpe": "cpe:/:ubiquiti_networks",
-  "pid": "40880",
-  "pname": "ER-X-SFP ファームウェア",
-  "pcpe": "cpe:/o:ubiquiti_networks:er-x-sfp_firmware"
+	"vid": "9029",
+	"vname": "Ubiquiti Networks",
+	"vcpe": "cpe:/:ubiquiti_networks",
+	"pid": "40880",
+	"pname": "ER-X-SFP ファームウェア",
+	"pcpe": "cpe:/o:ubiquiti_networks:er-x-sfp_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19546",
-  "vname": "GreenSock, Inc.",
-  "vcpe": "cpe:/:greensock",
-  "pid": "49235",
-  "pname": "GreenSock Animation Platform",
-  "pcpe": "cpe:/a:greensock:greensock_animation_platform"
+	"vid": "19546",
+	"vname": "GreenSock, Inc.",
+	"vcpe": "cpe:/:greensock",
+	"pid": "49235",
+	"pname": "GreenSock Animation Platform",
+	"pcpe": "cpe:/a:greensock:greensock_animation_platform"
 }

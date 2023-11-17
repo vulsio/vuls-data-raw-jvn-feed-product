@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "26481",
-  "pname": "vRealize Log Insight",
-  "pcpe": "cpe:/a:vmware:vrealize_log_insight"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "26481",
+	"pname": "vRealize Log Insight",
+	"pcpe": "cpe:/a:vmware:vrealize_log_insight"
 }

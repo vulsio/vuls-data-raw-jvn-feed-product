@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "36913",
-  "pname": "Azure IoT Edge",
-  "pcpe": "cpe:/a:microsoft:azure_internet_of_things_edge"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "36913",
+	"pname": "Azure IoT Edge",
+	"pcpe": "cpe:/a:microsoft:azure_internet_of_things_edge"
 }

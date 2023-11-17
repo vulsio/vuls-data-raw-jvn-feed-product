@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "42611",
-  "pname": "SMT X9 ファームウェア",
-  "pcpe": "cpe:/o:supermicro:smt_x9_firmware"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "42611",
+	"pname": "SMT X9 ファームウェア",
+	"pcpe": "cpe:/o:supermicro:smt_x9_firmware"
 }

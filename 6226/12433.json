@@ -1,8 +1,8 @@
 {
-  "vid": "6226",
-  "vname": "Paessler AG",
-  "vcpe": "cpe:/:paessler",
-  "pid": "12433",
-  "pname": "prtg traffic grapher",
-  "pcpe": "cpe:/a:paessler:prtg_traffic_grapher"
+	"vid": "6226",
+	"vname": "Paessler AG",
+	"vcpe": "cpe:/:paessler",
+	"pid": "12433",
+	"pname": "prtg traffic grapher",
+	"pcpe": "cpe:/a:paessler:prtg_traffic_grapher"
 }

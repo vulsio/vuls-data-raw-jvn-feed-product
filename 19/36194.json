@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "36194",
-  "pname": "Cisco Packaged Contact Center Enterprise",
-  "pcpe": "cpe:/a:cisco:packaged_contact_center_enterprise"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "36194",
+	"pname": "Cisco Packaged Contact Center Enterprise",
+	"pcpe": "cpe:/a:cisco:packaged_contact_center_enterprise"
 }

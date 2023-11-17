@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1752",
-  "pname": "Fileshare",
-  "pcpe": "cpe:/a:drupal:fileshare_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1752",
+	"pname": "Fileshare",
+	"pcpe": "cpe:/a:drupal:fileshare_module"
 }

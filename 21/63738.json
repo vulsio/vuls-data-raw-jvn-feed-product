@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "63738",
-  "pname": "security threat response manager",
-  "pcpe": "cpe:/a:juniper:security_threat_response_manager"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "63738",
+	"pname": "security threat response manager",
+	"pcpe": "cpe:/a:juniper:security_threat_response_manager"
 }

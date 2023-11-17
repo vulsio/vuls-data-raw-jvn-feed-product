@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "43035",
-  "pname": "Intelligent Platform Management Interface",
-  "pcpe": "cpe:/a:supermicro:intelligent_platform_management_interface"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "43035",
+	"pname": "Intelligent Platform Management Interface",
+	"pcpe": "cpe:/a:supermicro:intelligent_platform_management_interface"
 }

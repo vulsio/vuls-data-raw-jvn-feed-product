@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "12346",
-  "pname": "siebel enterprise",
-  "pcpe": "cpe:/a:oracle:siebel_enterprise"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "12346",
+	"pname": "siebel enterprise",
+	"pcpe": "cpe:/a:oracle:siebel_enterprise"
 }

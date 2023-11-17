@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "37541",
-  "pname": "TIBCO Silver Fabric",
-  "pcpe": "cpe:/a:tibco:silver_fabric"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "37541",
+	"pname": "TIBCO Silver Fabric",
+	"pcpe": "cpe:/a:tibco:silver_fabric"
 }

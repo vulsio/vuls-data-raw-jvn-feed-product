@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "42119",
-  "pname": "Trend Micro Premium Security 2020",
-  "pcpe": "cpe:/a:trendmicro:premium_security_2020"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "42119",
+	"pname": "Trend Micro Premium Security 2020",
+	"pcpe": "cpe:/a:trendmicro:premium_security_2020"
 }

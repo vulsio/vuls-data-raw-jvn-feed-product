@@ -1,8 +1,8 @@
 {
-  "vid": "9331",
-  "vname": "LOREX Technology",
-  "vcpe": "cpe:/:lorex_technology",
-  "pid": "42925",
-  "pname": "LNC104 ファームウェア",
-  "pcpe": "cpe:/o:lorex_technology:lnc104_firmware"
+	"vid": "9331",
+	"vname": "LOREX Technology",
+	"vcpe": "cpe:/:lorex_technology",
+	"pid": "42925",
+	"pname": "LNC104 ファームウェア",
+	"pcpe": "cpe:/o:lorex_technology:lnc104_firmware"
 }

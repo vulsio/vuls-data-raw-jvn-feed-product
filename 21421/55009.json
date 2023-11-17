@@ -1,8 +1,8 @@
 {
-  "vid": "21421",
-  "vname": "UniSharp",
-  "vcpe": "cpe:/:unisharp",
-  "pid": "55009",
-  "pname": "laravel-filemanager",
-  "pcpe": "cpe:/a:unisharp:laravel-filemanager"
+	"vid": "21421",
+	"vname": "UniSharp",
+	"vcpe": "cpe:/:unisharp",
+	"pid": "55009",
+	"pname": "laravel-filemanager",
+	"pcpe": "cpe:/a:unisharp:laravel-filemanager"
 }

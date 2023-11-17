@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "26709",
-  "pname": "Cisco Connected Streaming Analytics",
-  "pcpe": "cpe:/a:cisco:connected_streaming_analytics"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "26709",
+	"pname": "Cisco Connected Streaming Analytics",
+	"pcpe": "cpe:/a:cisco:connected_streaming_analytics"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13501",
-  "vname": "StivaSoft",
-  "vcpe": "cpe:/:stivasoft",
-  "pid": "31890",
-  "pname": "PHPJabbers File Sharing Script",
-  "pcpe": "cpe:/a:stivasoft:phpjabbers_file_sharing_script"
+	"vid": "13501",
+	"vname": "StivaSoft",
+	"vcpe": "cpe:/:stivasoft",
+	"pid": "31890",
+	"pname": "PHPJabbers File Sharing Script",
+	"pcpe": "cpe:/a:stivasoft:phpjabbers_file_sharing_script"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "48785",
-  "pname": "TC MGUARD RS4000 3G VPN ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:tc_mguard_rs4000_3g_vpn_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "48785",
+	"pname": "TC MGUARD RS4000 3G VPN ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:tc_mguard_rs4000_3g_vpn_firmware"
 }

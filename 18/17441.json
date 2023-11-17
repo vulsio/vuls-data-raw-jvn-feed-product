@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17441",
-  "pname": "IBM Eclipse Help System",
-  "pcpe": "cpe:/a:ibm:eclipse_help_system"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17441",
+	"pname": "IBM Eclipse Help System",
+	"pcpe": "cpe:/a:ibm:eclipse_help_system"
 }

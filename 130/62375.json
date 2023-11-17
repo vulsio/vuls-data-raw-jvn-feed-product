@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "62375",
-  "pname": "xeon platinum 8268 ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_platinum_8268_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "62375",
+	"pname": "xeon platinum 8268 ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_platinum_8268_firmware"
 }

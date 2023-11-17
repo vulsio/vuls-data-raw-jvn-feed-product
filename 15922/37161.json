@@ -1,8 +1,8 @@
 {
-  "vid": "15922",
-  "vname": "Telecrane",
-  "vcpe": "cpe:/:telecrane",
-  "pid": "37161",
-  "pname": "F25-10S ファームウェア",
-  "pcpe": "cpe:/o:telecrane:f25-10s_firmware"
+	"vid": "15922",
+	"vname": "Telecrane",
+	"vcpe": "cpe:/:telecrane",
+	"pid": "37161",
+	"pname": "F25-10S ファームウェア",
+	"pcpe": "cpe:/o:telecrane:f25-10s_firmware"
 }

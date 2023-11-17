@@ -1,8 +1,8 @@
 {
-  "vid": "10297",
-  "vname": "独立行政法人情報処理推進機構 (IPA)",
-  "vcpe": "cpe:/:ipa",
-  "pid": "21620",
-  "pname": "iLogScanner",
-  "pcpe": "cpe:/a:ipa:ilogscanner"
+	"vid": "10297",
+	"vname": "独立行政法人情報処理推進機構 (IPA)",
+	"vcpe": "cpe:/:ipa",
+	"pid": "21620",
+	"pname": "iLogScanner",
+	"pcpe": "cpe:/a:ipa:ilogscanner"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22621",
-  "vname": "Obtain Infotech",
-  "vcpe": "cpe:/:obtaininfotech",
-  "pid": "58222",
-  "pname": "WordPress Multisite User Sync/Unsync",
-  "pcpe": "cpe:/a:obtaininfotech:multisite_user_sync%2funsync"
+	"vid": "22621",
+	"vname": "Obtain Infotech",
+	"vcpe": "cpe:/:obtaininfotech",
+	"pid": "58222",
+	"pname": "WordPress Multisite User Sync/Unsync",
+	"pcpe": "cpe:/a:obtaininfotech:multisite_user_sync%2funsync"
 }

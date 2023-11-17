@@ -1,8 +1,8 @@
 {
-  "vid": "17021",
-  "vname": "WP Charitable",
-  "vcpe": "cpe:/:wpcharitable",
-  "pid": "40487",
-  "pname": "Charitable - Donation",
-  "pcpe": "cpe:/a:wpcharitable:charitable-donation_plugin"
+	"vid": "17021",
+	"vname": "WP Charitable",
+	"vcpe": "cpe:/:wpcharitable",
+	"pid": "40487",
+	"pname": "Charitable - Donation",
+	"pcpe": "cpe:/a:wpcharitable:charitable-donation_plugin"
 }

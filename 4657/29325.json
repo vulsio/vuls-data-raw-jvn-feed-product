@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "29325",
-  "pname": "P7-L05 ファームウェア",
-  "pcpe": "cpe:/o:huawei:p7-l05_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "29325",
+	"pname": "P7-L05 ファームウェア",
+	"pcpe": "cpe:/o:huawei:p7-l05_firmware"
 }

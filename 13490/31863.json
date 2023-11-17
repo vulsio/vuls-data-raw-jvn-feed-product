@@ -1,8 +1,8 @@
 {
-  "vid": "13490",
-  "vname": "ZUUSE",
-  "vcpe": "cpe:/:zuuse",
-  "pid": "31863",
-  "pname": "BEIMS ContractorWeb .NET",
-  "pcpe": "cpe:/a:zuuse:beims_contractorweb_.net"
+	"vid": "13490",
+	"vname": "ZUUSE",
+	"vcpe": "cpe:/:zuuse",
+	"pid": "31863",
+	"pname": "BEIMS ContractorWeb .NET",
+	"pcpe": "cpe:/a:zuuse:beims_contractorweb_.net"
 }

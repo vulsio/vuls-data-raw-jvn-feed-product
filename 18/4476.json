@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4476",
-  "pname": "Rational Build Forge",
-  "pcpe": "cpe:/a:ibm:rational_build_forge"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4476",
+	"pname": "Rational Build Forge",
+	"pcpe": "cpe:/a:ibm:rational_build_forge"
 }

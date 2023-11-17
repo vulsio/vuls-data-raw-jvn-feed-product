@@ -1,8 +1,8 @@
 {
-  "vid": "11624",
-  "vname": "Boosted",
-  "vcpe": "cpe:/:boosted",
-  "pid": "23865",
-  "pname": "Boosted Boards",
-  "pcpe": "cpe:/a:boosted:boosted_boards"
+	"vid": "11624",
+	"vname": "Boosted",
+	"vcpe": "cpe:/:boosted",
+	"pid": "23865",
+	"pname": "Boosted Boards",
+	"pcpe": "cpe:/a:boosted:boosted_boards"
 }

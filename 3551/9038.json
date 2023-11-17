@@ -1,8 +1,8 @@
 {
-  "vid": "3551",
-  "vname": "Esri",
-  "vcpe": "cpe:/:esri",
-  "pid": "9038",
-  "pname": "ArcMap",
-  "pcpe": "cpe:/a:esri:arcmap"
+	"vid": "3551",
+	"vname": "Esri",
+	"vcpe": "cpe:/:esri",
+	"pid": "9038",
+	"pname": "ArcMap",
+	"pcpe": "cpe:/a:esri:arcmap"
 }

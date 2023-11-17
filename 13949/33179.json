@@ -1,8 +1,8 @@
 {
-  "vid": "13949",
-  "vname": "Gemini Labs",
-  "vcpe": "cpe:/:gemini_labs",
-  "pid": "33179",
-  "pname": "Site Reviews",
-  "pcpe": "cpe:/a:gemini_labs:site_reviews"
+	"vid": "13949",
+	"vname": "Gemini Labs",
+	"vcpe": "cpe:/:gemini_labs",
+	"pid": "33179",
+	"pname": "Site Reviews",
+	"pcpe": "cpe:/a:gemini_labs:site_reviews"
 }

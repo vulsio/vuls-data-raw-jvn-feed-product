@@ -1,8 +1,8 @@
 {
-  "vid": "7847",
-  "vname": "sun-jester",
-  "vcpe": "cpe:/:sun-jester",
-  "pid": "15116",
-  "pname": "opennews",
-  "pcpe": "cpe:/a:sun-jester:opennews"
+	"vid": "7847",
+	"vname": "sun-jester",
+	"vcpe": "cpe:/:sun-jester",
+	"pid": "15116",
+	"pname": "opennews",
+	"pcpe": "cpe:/a:sun-jester:opennews"
 }

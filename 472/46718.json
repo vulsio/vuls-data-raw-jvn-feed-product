@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "46718",
-  "pname": "DriveTools SP",
-  "pcpe": "cpe:/a:rockwellautomation:drivetools_sp"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "46718",
+	"pname": "DriveTools SP",
+	"pcpe": "cpe:/a:rockwellautomation:drivetools_sp"
 }

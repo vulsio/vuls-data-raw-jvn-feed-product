@@ -1,8 +1,8 @@
 {
-  "vid": "22337",
-  "vname": "Trilium Notes project",
-  "vcpe": "cpe:/:trillium_notes_project",
-  "pid": "57446",
-  "pname": "Trilium Notes",
-  "pcpe": "cpe:/a:trillium_notes_project:trillum_notes"
+	"vid": "22337",
+	"vname": "Trilium Notes project",
+	"vcpe": "cpe:/:trillium_notes_project",
+	"pid": "57446",
+	"pname": "Trilium Notes",
+	"pcpe": "cpe:/a:trillium_notes_project:trillum_notes"
 }

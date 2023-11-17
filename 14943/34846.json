@@ -1,8 +1,8 @@
 {
-  "vid": "14943",
-  "vname": "Sollae Systems",
-  "vcpe": "cpe:/:eztcp",
-  "pid": "34846",
-  "pname": "CSE-B63N2 ファームウェア",
-  "pcpe": "cpe:/o:eztcp:cse-b63n2_firmware"
+	"vid": "14943",
+	"vname": "Sollae Systems",
+	"vcpe": "cpe:/:eztcp",
+	"pid": "34846",
+	"pname": "CSE-B63N2 ファームウェア",
+	"pcpe": "cpe:/o:eztcp:cse-b63n2_firmware"
 }

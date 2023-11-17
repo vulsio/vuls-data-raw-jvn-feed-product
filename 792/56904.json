@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56904",
-  "pname": "MGS3500-24S ファームウェア",
-  "pcpe": "cpe:/o:zyxel:mgs3500-24s_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56904",
+	"pname": "MGS3500-24S ファームウェア",
+	"pcpe": "cpe:/o:zyxel:mgs3500-24s_firmware"
 }

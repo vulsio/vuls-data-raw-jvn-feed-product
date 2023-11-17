@@ -1,8 +1,8 @@
 {
-  "vid": "360",
-  "vname": "Ruby on Rails project",
-  "vcpe": "cpe:/:rubyonrails",
-  "pid": "44806",
-  "pname": "actionpack page-caching",
-  "pcpe": "cpe:/a:rubyonrails:actionpack_page-caching"
+	"vid": "360",
+	"vname": "Ruby on Rails project",
+	"vcpe": "cpe:/:rubyonrails",
+	"pid": "44806",
+	"pname": "actionpack page-caching",
+	"pcpe": "cpe:/a:rubyonrails:actionpack_page-caching"
 }

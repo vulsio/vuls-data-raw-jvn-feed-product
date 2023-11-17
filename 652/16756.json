@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "16756",
-  "pname": "SamsungDive",
-  "pcpe": "cpe:/a:samsung:samsungdive"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "16756",
+	"pname": "SamsungDive",
+	"pcpe": "cpe:/a:samsung:samsungdive"
 }

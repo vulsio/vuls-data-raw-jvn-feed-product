@@ -1,8 +1,8 @@
 {
-  "vid": "888",
-  "vname": "Automattic Inc.",
-  "vcpe": "cpe:/:automattic",
-  "pid": "40179",
-  "pname": "Akismet",
-  "pcpe": "cpe:/a:automattic:akismet"
+	"vid": "888",
+	"vname": "Automattic Inc.",
+	"vcpe": "cpe:/:automattic",
+	"pid": "40179",
+	"pname": "Akismet",
+	"pcpe": "cpe:/a:automattic:akismet"
 }

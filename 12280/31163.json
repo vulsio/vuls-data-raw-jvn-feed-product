@@ -1,8 +1,8 @@
 {
-  "vid": "12280",
-  "vname": "Joyent, Inc.",
-  "vcpe": "cpe:/:joyent",
-  "pid": "31163",
-  "pname": "Triton DataCenter",
-  "pcpe": "cpe:/a:joyent:triton_data_center"
+	"vid": "12280",
+	"vname": "Joyent, Inc.",
+	"vcpe": "cpe:/:joyent",
+	"pid": "31163",
+	"pname": "Triton DataCenter",
+	"pcpe": "cpe:/a:joyent:triton_data_center"
 }

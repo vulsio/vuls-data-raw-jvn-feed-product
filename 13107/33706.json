@@ -1,8 +1,8 @@
 {
-  "vid": "13107",
-  "vname": "Intelbras",
-  "vcpe": "cpe:/:intelbras",
-  "pid": "33706",
-  "pname": "NCLOUD 300",
-  "pcpe": "cpe:/o:intelbras:ncloud_300_firmware"
+	"vid": "13107",
+	"vname": "Intelbras",
+	"vcpe": "cpe:/:intelbras",
+	"pid": "33706",
+	"pname": "NCLOUD 300",
+	"pcpe": "cpe:/o:intelbras:ncloud_300_firmware"
 }

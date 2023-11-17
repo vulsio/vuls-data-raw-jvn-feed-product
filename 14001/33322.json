@@ -1,8 +1,8 @@
 {
-  "vid": "14001",
-  "vname": "Caldera Labs",
-  "vcpe": "cpe:/:calderaforms",
-  "pid": "33322",
-  "pname": "Caldera Forms",
-  "pcpe": "cpe:/a:calderaforms:caldera_forms"
+	"vid": "14001",
+	"vname": "Caldera Labs",
+	"vcpe": "cpe:/:calderaforms",
+	"pid": "33322",
+	"pname": "Caldera Forms",
+	"pcpe": "cpe:/a:calderaforms:caldera_forms"
 }

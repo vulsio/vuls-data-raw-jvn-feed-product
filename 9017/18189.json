@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "18189",
-  "pname": "X7SPA-HF-D525",
-  "pcpe": "cpe:/h:supermicro:x7spa-hf-d525"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "18189",
+	"pname": "X7SPA-HF-D525",
+	"pcpe": "cpe:/h:supermicro:x7spa-hf-d525"
 }

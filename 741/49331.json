@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "49331",
-  "pname": "DCS-5220 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dcs-5220_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "49331",
+	"pname": "DCS-5220 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dcs-5220_firmware"
 }

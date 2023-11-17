@@ -1,8 +1,8 @@
 {
-  "vid": "12166",
-  "vname": "libbpg",
-  "vcpe": "cpe:/:libbpg",
-  "pid": "26495",
-  "pname": "libbpg",
-  "pcpe": "cpe:/a:libbpg:libbpg"
+	"vid": "12166",
+	"vname": "libbpg",
+	"vcpe": "cpe:/:libbpg",
+	"pid": "26495",
+	"pname": "libbpg",
+	"pcpe": "cpe:/a:libbpg:libbpg"
 }

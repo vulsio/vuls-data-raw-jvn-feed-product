@@ -1,8 +1,8 @@
 {
-  "vid": "13471",
-  "vname": "Ivanti",
-  "vcpe": "cpe:/:ivanti",
-  "pid": "45880",
-  "pname": "DSM netinst",
-  "pcpe": "cpe:/a:ivanti:dsm_netinst"
+	"vid": "13471",
+	"vname": "Ivanti",
+	"vcpe": "cpe:/:ivanti",
+	"pid": "45880",
+	"pname": "DSM netinst",
+	"pcpe": "cpe:/a:ivanti:dsm_netinst"
 }

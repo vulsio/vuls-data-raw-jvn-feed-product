@@ -1,8 +1,8 @@
 {
-  "vid": "81",
-  "vname": "Python Software Foundation",
-  "vcpe": "cpe:/:python",
-  "pid": "27886",
-  "pname": "Openpyxl",
-  "pcpe": "cpe:/a:python:openpyxl"
+	"vid": "81",
+	"vname": "Python Software Foundation",
+	"vcpe": "cpe:/:python",
+	"pid": "27886",
+	"pname": "Openpyxl",
+	"pcpe": "cpe:/a:python:openpyxl"
 }

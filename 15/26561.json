@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26561",
-  "pname": "Primavera Contract Management",
-  "pcpe": "cpe:/a:oracle:primavera_contract_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26561",
+	"pname": "Primavera Contract Management",
+	"pcpe": "cpe:/a:oracle:primavera_contract_management"
 }

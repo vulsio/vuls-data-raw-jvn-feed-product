@@ -1,8 +1,8 @@
 {
-  "vid": "18189",
-  "vname": "UI",
-  "vcpe": "cpe:/:ui",
-  "pid": "61695",
-  "pname": "ER-X ファームウェア",
-  "pcpe": "cpe:/o:ui:er-x_firmware"
+	"vid": "18189",
+	"vname": "UI",
+	"vcpe": "cpe:/:ui",
+	"pid": "61695",
+	"pname": "ER-X ファームウェア",
+	"pcpe": "cpe:/o:ui:er-x_firmware"
 }

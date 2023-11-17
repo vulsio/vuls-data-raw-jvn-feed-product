@@ -1,8 +1,8 @@
 {
-  "vid": "11913",
-  "vname": "CipherCoin",
-  "vcpe": "cpe:/:ciphercoin",
-  "pid": "54925",
-  "pname": "Contact Form 7 Database Addon - CFDB7",
-  "pcpe": "cpe:/a:ciphercoin:contact_form_7_database_addon"
+	"vid": "11913",
+	"vname": "CipherCoin",
+	"vcpe": "cpe:/:ciphercoin",
+	"pid": "54925",
+	"pname": "Contact Form 7 Database Addon - CFDB7",
+	"pcpe": "cpe:/a:ciphercoin:contact_form_7_database_addon"
 }

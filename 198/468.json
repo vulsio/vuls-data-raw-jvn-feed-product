@@ -1,8 +1,8 @@
 {
-  "vid": "198",
-  "vname": "Edgewall Software",
-  "vcpe": "cpe:/:trac",
-  "pid": "468",
-  "pname": "trac",
-  "pcpe": "cpe:/a:trac:trac"
+	"vid": "198",
+	"vname": "Edgewall Software",
+	"vcpe": "cpe:/:trac",
+	"pid": "468",
+	"pname": "trac",
+	"pcpe": "cpe:/a:trac:trac"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "25917",
-  "pname": "iBooks Author",
-  "pcpe": "cpe:/a:apple:ibooks_author"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "25917",
+	"pname": "iBooks Author",
+	"pcpe": "cpe:/a:apple:ibooks_author"
 }

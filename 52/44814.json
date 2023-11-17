@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "44814",
-  "pname": "NIOExtras",
-  "pcpe": "cpe:/a:apple:nioextras"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "44814",
+	"pname": "NIOExtras",
+	"pcpe": "cpe:/a:apple:nioextras"
 }

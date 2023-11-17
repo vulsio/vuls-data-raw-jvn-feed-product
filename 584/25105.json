@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "25105",
-  "pname": "SIMATIC CP 443-1",
-  "pcpe": "cpe:/h:siemens:simatic_cp_443-1"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "25105",
+	"pname": "SIMATIC CP 443-1",
+	"pcpe": "cpe:/h:siemens:simatic_cp_443-1"
 }

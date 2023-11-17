@@ -1,8 +1,8 @@
 {
-  "vid": "15506",
-  "vname": "VMS Studio",
-  "vcpe": "cpe:/:vms-studio",
-  "pid": "35987",
-  "pname": "Quizlord",
-  "pcpe": "cpe:/a:vms-studio:quizlord"
+	"vid": "15506",
+	"vname": "VMS Studio",
+	"vcpe": "cpe:/:vms-studio",
+	"pid": "35987",
+	"pname": "Quizlord",
+	"pcpe": "cpe:/a:vms-studio:quizlord"
 }

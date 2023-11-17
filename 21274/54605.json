@@ -1,8 +1,8 @@
 {
-  "vid": "21274",
-  "vname": "WP Google Fonts project",
-  "vcpe": "cpe:/:wp_google_fonts_project",
-  "pid": "54605",
-  "pname": "WP Google Fonts",
-  "pcpe": "cpe:/a:wp_google_fonts_project:wp_google_fonts"
+	"vid": "21274",
+	"vname": "WP Google Fonts project",
+	"vcpe": "cpe:/:wp_google_fonts_project",
+	"pid": "54605",
+	"pname": "WP Google Fonts",
+	"pcpe": "cpe:/a:wp_google_fonts_project:wp_google_fonts"
 }

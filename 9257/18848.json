@@ -1,8 +1,8 @@
 {
-  "vid": "9257",
-  "vname": "an",
-  "vcpe": "cpe:/:an",
-  "pid": "18848",
-  "pname": "an-httpd",
-  "pcpe": "cpe:/a:an:an-httpd"
+	"vid": "9257",
+	"vname": "an",
+	"vcpe": "cpe:/:an",
+	"pid": "18848",
+	"pname": "an-httpd",
+	"pcpe": "cpe:/a:an:an-httpd"
 }

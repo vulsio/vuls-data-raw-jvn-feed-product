@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "43534",
-  "pname": "WNR1000V4 ファームウェア",
-  "pcpe": "cpe:/o:netgear:wnr1000v4_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "43534",
+	"pname": "WNR1000V4 ファームウェア",
+	"pcpe": "cpe:/o:netgear:wnr1000v4_firmware"
 }

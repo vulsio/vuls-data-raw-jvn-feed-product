@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "35719",
-  "pname": "VMG3312-B10B ファームウェア",
-  "pcpe": "cpe:/o:zyxel:vmg3312_b10b_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "35719",
+	"pname": "VMG3312-B10B ファームウェア",
+	"pcpe": "cpe:/o:zyxel:vmg3312_b10b_firmware"
 }

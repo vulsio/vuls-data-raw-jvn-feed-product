@@ -1,8 +1,8 @@
 {
-  "vid": "12716",
-  "vname": "PCManFM",
-  "vcpe": "cpe:/:pcmanfm_project",
-  "pid": "29173",
-  "pname": "PCMan File Manager",
-  "pcpe": "cpe:/a:pcmanfm_project:pcmanfm"
+	"vid": "12716",
+	"vname": "PCManFM",
+	"vcpe": "cpe:/:pcmanfm_project",
+	"pid": "29173",
+	"pname": "PCMan File Manager",
+	"pcpe": "cpe:/a:pcmanfm_project:pcmanfm"
 }

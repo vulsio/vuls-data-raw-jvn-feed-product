@@ -1,8 +1,8 @@
 {
-  "vid": "4194",
-  "vname": "Grandstream Networks",
-  "vcpe": "cpe:/:grandstream",
-  "pid": "31170",
-  "pname": "HT802 ファームウェア",
-  "pcpe": "cpe:/o:grandstream:ht802_firmware"
+	"vid": "4194",
+	"vname": "Grandstream Networks",
+	"vcpe": "cpe:/:grandstream",
+	"pid": "31170",
+	"pname": "HT802 ファームウェア",
+	"pcpe": "cpe:/o:grandstream:ht802_firmware"
 }

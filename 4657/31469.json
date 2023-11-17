@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31469",
-  "pname": "Prague-AL00A ファームウェア",
-  "pcpe": "cpe:/o:huawei:prague-al00a_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31469",
+	"pname": "Prague-AL00A ファームウェア",
+	"pcpe": "cpe:/o:huawei:prague-al00a_firmware"
 }

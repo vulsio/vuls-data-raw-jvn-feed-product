@@ -1,8 +1,8 @@
 {
-  "vid": "9015",
-  "vname": "MongoDB Inc.",
-  "vcpe": "cpe:/:mongodb",
-  "pid": "35923",
-  "pname": "libbson",
-  "pcpe": "cpe:/a:mongodb:libbson"
+	"vid": "9015",
+	"vname": "MongoDB Inc.",
+	"vcpe": "cpe:/:mongodb",
+	"pid": "35923",
+	"pname": "libbson",
+	"pcpe": "cpe:/a:mongodb:libbson"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6107",
-  "vname": "online armor",
-  "vcpe": "cpe:/:online_armor",
-  "pid": "12243",
-  "pname": "personal firewall",
-  "pcpe": "cpe:/a:online_armor:personal_firewall"
+	"vid": "6107",
+	"vname": "online armor",
+	"vcpe": "cpe:/:online_armor",
+	"pid": "12243",
+	"pname": "personal firewall",
+	"pcpe": "cpe:/a:online_armor:personal_firewall"
 }

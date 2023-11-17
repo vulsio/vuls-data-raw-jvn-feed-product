@@ -1,8 +1,8 @@
 {
-  "vid": "2465",
-  "vname": "bazaarbuilder",
-  "vcpe": "cpe:/:bazaarbuilder",
-  "pid": "6191",
-  "pname": "ecommerce shopping cart",
-  "pcpe": "cpe:/a:bazaarbuilder:ecommerce_shopping_cart"
+	"vid": "2465",
+	"vname": "bazaarbuilder",
+	"vcpe": "cpe:/:bazaarbuilder",
+	"pid": "6191",
+	"pname": "ecommerce shopping cart",
+	"pcpe": "cpe:/a:bazaarbuilder:ecommerce_shopping_cart"
 }

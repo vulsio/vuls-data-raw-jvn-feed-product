@@ -1,8 +1,8 @@
 {
-  "vid": "5635",
-  "vname": "microchip",
-  "vcpe": "cpe:/:microchip",
-  "pid": "46616",
-  "pname": "ATSAMA5D22C-CNR ファームウェア",
-  "pcpe": "cpe:/o:microchip:atsama5d22c-cnr_firmware"
+	"vid": "5635",
+	"vname": "microchip",
+	"vcpe": "cpe:/:microchip",
+	"pid": "46616",
+	"pname": "ATSAMA5D22C-CNR ファームウェア",
+	"pcpe": "cpe:/o:microchip:atsama5d22c-cnr_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "41627",
-  "pname": "McAfee Threat Intelligence Exchange Server",
-  "pcpe": "cpe:/a:mcafee:threat_intelligence_exchange_server"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "41627",
+	"pname": "McAfee Threat Intelligence Exchange Server",
+	"pcpe": "cpe:/a:mcafee:threat_intelligence_exchange_server"
 }

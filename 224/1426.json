@@ -1,8 +1,8 @@
 {
-  "vid": "224",
-  "vname": "アラクサラネットワークス",
-  "vcpe": "cpe:/:alaxala",
-  "pid": "1426",
-  "pname": "AX3600Sシリーズ",
-  "pcpe": "cpe:/h:alaxala:ax3600s"
+	"vid": "224",
+	"vname": "アラクサラネットワークス",
+	"vcpe": "cpe:/:alaxala",
+	"pid": "1426",
+	"pname": "AX3600Sシリーズ",
+	"pcpe": "cpe:/h:alaxala:ax3600s"
 }

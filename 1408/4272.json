@@ -1,8 +1,8 @@
 {
-  "vid": "1408",
-  "vname": "collectd",
-  "vcpe": "cpe:/:collectd",
-  "pid": "4272",
-  "pname": "collectd",
-  "pcpe": "cpe:/a:collectd:collectd"
+	"vid": "1408",
+	"vname": "collectd",
+	"vcpe": "cpe:/:collectd",
+	"pid": "4272",
+	"pname": "collectd",
+	"pcpe": "cpe:/a:collectd:collectd"
 }

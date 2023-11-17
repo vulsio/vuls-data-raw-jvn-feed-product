@@ -1,8 +1,8 @@
 {
-  "vid": "23461",
-  "vname": "adaware",
-  "vcpe": "cpe:/:adaware",
-  "pid": "60773",
-  "pname": "protect",
-  "pcpe": "cpe:/a:adaware:protect"
+	"vid": "23461",
+	"vname": "adaware",
+	"vcpe": "cpe:/:adaware",
+	"pid": "60773",
+	"pname": "protect",
+	"pcpe": "cpe:/a:adaware:protect"
 }

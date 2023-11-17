@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "36745",
-  "pname": "Cisco Umbrella Roaming Module",
-  "pcpe": "cpe:/a:cisco:umbrella_roaming_module"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "36745",
+	"pname": "Cisco Umbrella Roaming Module",
+	"pcpe": "cpe:/a:cisco:umbrella_roaming_module"
 }

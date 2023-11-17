@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "42067",
-  "pname": "QNAP NetBak Replicator",
-  "pcpe": "cpe:/a:qnap:netbak_replicator"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "42067",
+	"pname": "QNAP NetBak Replicator",
+	"pcpe": "cpe:/a:qnap:netbak_replicator"
 }

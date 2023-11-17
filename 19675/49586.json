@@ -1,8 +1,8 @@
 {
-  "vid": "19675",
-  "vname": "Svakom",
-  "vcpe": "cpe:/:svakom",
-  "pid": "49586",
-  "pname": "Siime Eye ファームウェア",
-  "pcpe": "cpe:/o:svakom:siime_eye_firmware"
+	"vid": "19675",
+	"vname": "Svakom",
+	"vcpe": "cpe:/:svakom",
+	"pid": "49586",
+	"pname": "Siime Eye ファームウェア",
+	"pcpe": "cpe:/o:svakom:siime_eye_firmware"
 }

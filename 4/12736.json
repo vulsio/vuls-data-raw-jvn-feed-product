@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12736",
-  "pname": "cm8060 mfp",
-  "pcpe": "cpe:/h:hp:cm8060_mfp"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12736",
+	"pname": "cm8060 mfp",
+	"pcpe": "cpe:/h:hp:cm8060_mfp"
 }

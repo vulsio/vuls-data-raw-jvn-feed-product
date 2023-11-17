@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "24528",
-  "pname": "Discovery NM 530c ファームウェア",
-  "pcpe": "cpe:/o:gehealthcare:discovery_530c_firmware"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "24528",
+	"pname": "Discovery NM 530c ファームウェア",
+	"pcpe": "cpe:/o:gehealthcare:discovery_530c_firmware"
 }

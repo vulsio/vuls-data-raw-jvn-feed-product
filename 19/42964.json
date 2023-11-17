@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "42964",
-  "pname": "SG250-08 ファームウェア",
-  "pcpe": "cpe:/o:cisco:sg250-08_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "42964",
+	"pname": "SG250-08 ファームウェア",
+	"pcpe": "cpe:/o:cisco:sg250-08_firmware"
 }

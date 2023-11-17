@@ -1,8 +1,8 @@
 {
-  "vid": "21979",
-  "vname": "SharpZipLib project",
-  "vcpe": "cpe:/:sharpziplib_project",
-  "pid": "56428",
-  "pname": "SharpZipLib",
-  "pcpe": "cpe:/a:sharpziplib_project:sharpziplib"
+	"vid": "21979",
+	"vname": "SharpZipLib project",
+	"vcpe": "cpe:/:sharpziplib_project",
+	"pid": "56428",
+	"pname": "SharpZipLib",
+	"pcpe": "cpe:/a:sharpziplib_project:sharpziplib"
 }

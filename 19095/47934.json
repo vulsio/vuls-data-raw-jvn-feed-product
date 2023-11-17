@@ -1,8 +1,8 @@
 {
-  "vid": "19095",
-  "vname": "ETUNA",
-  "vcpe": "cpe:/:misc",
-  "pid": "47934",
-  "pname": "配送伝票番号メールプラグイン(3.0系)",
-  "pcpe": "cpe:/a:misc:haiso_denpyo_bango_mail_plug-in_3.0"
+	"vid": "19095",
+	"vname": "ETUNA",
+	"vcpe": "cpe:/:misc",
+	"pid": "47934",
+	"pname": "配送伝票番号メールプラグイン(3.0系)",
+	"pcpe": "cpe:/a:misc:haiso_denpyo_bango_mail_plug-in_3.0"
 }

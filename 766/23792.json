@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "23792",
-  "pname": "InTouch Machine Edition 2014",
-  "pcpe": "cpe:/a:schneider_electric:wonderware_intouch_2014"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "23792",
+	"pname": "InTouch Machine Edition 2014",
+	"pcpe": "cpe:/a:schneider_electric:wonderware_intouch_2014"
 }

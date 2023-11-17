@@ -1,8 +1,8 @@
 {
-  "vid": "5668",
-  "vname": "miniBB",
-  "vcpe": "cpe:/:minibb",
-  "pid": "11581",
-  "pname": "keyword replacer",
-  "pcpe": "cpe:/a:minibb:keyword_replacer"
+	"vid": "5668",
+	"vname": "miniBB",
+	"vcpe": "cpe:/:minibb",
+	"pid": "11581",
+	"pname": "keyword replacer",
+	"pcpe": "cpe:/a:minibb:keyword_replacer"
 }

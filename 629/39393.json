@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "39393",
-  "pname": "OnCellG3470A-LTE-US-T ファームウェア",
-  "pcpe": "cpe:/o:moxa:oncell_g3470a-lte-us-t_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "39393",
+	"pname": "OnCellG3470A-LTE-US-T ファームウェア",
+	"pcpe": "cpe:/o:moxa:oncell_g3470a-lte-us-t_firmware"
 }

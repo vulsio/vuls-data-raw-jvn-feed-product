@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2658",
-  "pname": "Oracle Industry Applications",
-  "pcpe": "cpe:/a:oracle:industry_applications"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2658",
+	"pname": "Oracle Industry Applications",
+	"pcpe": "cpe:/a:oracle:industry_applications"
 }

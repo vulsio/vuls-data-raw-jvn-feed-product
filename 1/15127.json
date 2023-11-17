@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "15127",
-  "pname": "java dynamic management kit",
-  "pcpe": "cpe:/a:sun:java_dynamic_management_kit"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "15127",
+	"pname": "java dynamic management kit",
+	"pcpe": "cpe:/a:sun:java_dynamic_management_kit"
 }

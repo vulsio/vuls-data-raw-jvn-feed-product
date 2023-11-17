@@ -1,8 +1,8 @@
 {
-  "vid": "11115",
-  "vname": "webmd",
-  "vcpe": "cpe:/:webmd",
-  "pid": "22739",
-  "pname": "webmd",
-  "pcpe": "cpe:/a:webmd:webmd"
+	"vid": "11115",
+	"vname": "webmd",
+	"vcpe": "cpe:/:webmd",
+	"pid": "22739",
+	"pname": "webmd",
+	"pcpe": "cpe:/a:webmd:webmd"
 }

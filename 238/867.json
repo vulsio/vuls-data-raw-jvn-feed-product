@@ -1,8 +1,8 @@
 {
-  "vid": "238",
-  "vname": "グルーソフトウェア",
-  "vcpe": "cpe:/:glue_software",
-  "pid": "867",
-  "pname": "NewsGlue",
-  "pcpe": "cpe:/a:glue_software:newsglue"
+	"vid": "238",
+	"vname": "グルーソフトウェア",
+	"vcpe": "cpe:/:glue_software",
+	"pid": "867",
+	"pname": "NewsGlue",
+	"pcpe": "cpe:/a:glue_software:newsglue"
 }

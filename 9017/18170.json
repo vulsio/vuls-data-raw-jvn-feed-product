@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "18170",
-  "pname": "H8DCT-HLN4F",
-  "pcpe": "cpe:/h:supermicro:h8dct-hln4f"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "18170",
+	"pname": "H8DCT-HLN4F",
+	"pcpe": "cpe:/h:supermicro:h8dct-hln4f"
 }

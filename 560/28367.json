@@ -1,8 +1,8 @@
 {
-  "vid": "560",
-  "vname": "OSIsoft",
-  "vcpe": "cpe:/:osisoft",
-  "pid": "28367",
-  "pname": "OSIsoft PI Coresight",
-  "pcpe": "cpe:/a:osisoft:pi_coresight"
+	"vid": "560",
+	"vname": "OSIsoft",
+	"vcpe": "cpe:/:osisoft",
+	"pid": "28367",
+	"pname": "OSIsoft PI Coresight",
+	"pcpe": "cpe:/a:osisoft:pi_coresight"
 }

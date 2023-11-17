@@ -1,8 +1,8 @@
 {
-  "vid": "16994",
-  "vname": "Donations project",
-  "vcpe": "cpe:/:donations_project",
-  "pid": "40411",
-  "pname": "Donations",
-  "pcpe": "cpe:/a:donations_project:donations"
+	"vid": "16994",
+	"vname": "Donations project",
+	"vcpe": "cpe:/:donations_project",
+	"pid": "40411",
+	"pname": "Donations",
+	"pcpe": "cpe:/a:donations_project:donations"
 }

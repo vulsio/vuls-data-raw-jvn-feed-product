@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "61854",
-  "pname": "files found trigger",
-  "pcpe": "cpe:/a:jenkins:files_found_trigger"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "61854",
+	"pname": "files found trigger",
+	"pcpe": "cpe:/a:jenkins:files_found_trigger"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18907",
-  "vname": "tweetstream",
-  "vcpe": "cpe:/:tweetstream_project",
-  "pid": "47218",
-  "pname": "tweetstream",
-  "pcpe": "cpe:/a:tweetstream_project:tweetstream"
+	"vid": "18907",
+	"vname": "tweetstream",
+	"vcpe": "cpe:/:tweetstream_project",
+	"pid": "47218",
+	"pname": "tweetstream",
+	"pcpe": "cpe:/a:tweetstream_project:tweetstream"
 }

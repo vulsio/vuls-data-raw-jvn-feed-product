@@ -1,8 +1,8 @@
 {
-  "vid": "20819",
-  "vname": "IDEMIA",
-  "vcpe": "cpe:/:idemia",
-  "pid": "53122",
-  "pname": "MorphoWave Compact MDPI-M ファームウェア",
-  "pcpe": "cpe:/o:idemia:morphowave_compact_mdpi-m_firmware"
+	"vid": "20819",
+	"vname": "IDEMIA",
+	"vcpe": "cpe:/:idemia",
+	"pid": "53122",
+	"pname": "MorphoWave Compact MDPI-M ファームウェア",
+	"pcpe": "cpe:/o:idemia:morphowave_compact_mdpi-m_firmware"
 }

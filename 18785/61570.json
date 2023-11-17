@@ -1,8 +1,8 @@
 {
-  "vid": "18785",
-  "vname": "株式会社コンテック",
-  "vcpe": "cpe:/:contec",
-  "pid": "61570",
-  "pname": "SolarView Compact ファームウェア",
-  "pcpe": "cpe:/o:contec:solarview_compact_firmware"
+	"vid": "18785",
+	"vname": "株式会社コンテック",
+	"vcpe": "cpe:/:contec",
+	"pid": "61570",
+	"pname": "SolarView Compact ファームウェア",
+	"pcpe": "cpe:/o:contec:solarview_compact_firmware"
 }

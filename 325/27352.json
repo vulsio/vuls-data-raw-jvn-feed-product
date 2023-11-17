@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27352",
-  "pname": "ThinkPad T550 BIOS",
-  "pcpe": "cpe:/o:lenovo:thinkpad_t550_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27352",
+	"pname": "ThinkPad T550 BIOS",
+	"pcpe": "cpe:/o:lenovo:thinkpad_t550_bios"
 }

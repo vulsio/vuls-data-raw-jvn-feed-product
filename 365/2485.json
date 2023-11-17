@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "2485",
-  "pname": "Xen",
-  "pcpe": "cpe:/a:citrix:xen"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "2485",
+	"pname": "Xen",
+	"pcpe": "cpe:/a:citrix:xen"
 }

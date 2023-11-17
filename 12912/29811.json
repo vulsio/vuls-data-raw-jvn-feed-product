@@ -1,8 +1,8 @@
 {
-  "vid": "12912",
-  "vname": "Snapcreek LLC",
-  "vcpe": "cpe:/:snapcreek",
-  "pid": "29811",
-  "pname": "Duplicator",
-  "pcpe": "cpe:/a:snapcreek:duplicator"
+	"vid": "12912",
+	"vname": "Snapcreek LLC",
+	"vcpe": "cpe:/:snapcreek",
+	"pid": "29811",
+	"pname": "Duplicator",
+	"pcpe": "cpe:/a:snapcreek:duplicator"
 }

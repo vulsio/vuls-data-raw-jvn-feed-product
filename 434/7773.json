@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "7773",
-  "pname": "rsa security sitekey",
-  "pcpe": "cpe:/a:emc:rsa_security_sitekey"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "7773",
+	"pname": "rsa security sitekey",
+	"pcpe": "cpe:/a:emc:rsa_security_sitekey"
 }

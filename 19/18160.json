@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18160",
-  "pname": "Cisco Global Site Selector",
-  "pcpe": "cpe:/h:cisco:global_site_selector"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18160",
+	"pname": "Cisco Global Site Selector",
+	"pcpe": "cpe:/h:cisco:global_site_selector"
 }

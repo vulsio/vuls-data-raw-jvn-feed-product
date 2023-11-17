@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "51038",
-  "pname": "CPP13 ファームウェア",
-  "pcpe": "cpe:/o:bosch:cpp13_firmware"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "51038",
+	"pname": "CPP13 ファームウェア",
+	"pcpe": "cpe:/o:bosch:cpp13_firmware"
 }

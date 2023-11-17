@@ -1,8 +1,8 @@
 {
-  "vid": "16746",
-  "vname": "Supsystic",
-  "vcpe": "cpe:/:supsystic",
-  "pid": "53874",
-  "pname": "Easy Google Maps",
-  "pcpe": "cpe:/a:supsystic:easy_google_maps"
+	"vid": "16746",
+	"vname": "Supsystic",
+	"vcpe": "cpe:/:supsystic",
+	"pid": "53874",
+	"pname": "Easy Google Maps",
+	"pcpe": "cpe:/a:supsystic:easy_google_maps"
 }

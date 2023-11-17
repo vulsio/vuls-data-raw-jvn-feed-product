@@ -1,8 +1,8 @@
 {
-  "vid": "22038",
-  "vname": "Hasso-Plattner-Institut",
-  "vcpe": "cpe:/:hpi",
-  "pid": "56546",
-  "pname": "ProLOD",
-  "pcpe": "cpe:/a:hpi:prolod"
+	"vid": "22038",
+	"vname": "Hasso-Plattner-Institut",
+	"vcpe": "cpe:/:hpi",
+	"pid": "56546",
+	"pname": "ProLOD",
+	"pcpe": "cpe:/a:hpi:prolod"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13519",
-  "vname": "Radiant CMS project",
-  "vcpe": "cpe:/:radiantcms",
-  "pid": "31954",
-  "pname": "Radiant CMS",
-  "pcpe": "cpe:/a:radiantcms:radiant_cms"
+	"vid": "13519",
+	"vname": "Radiant CMS project",
+	"vcpe": "cpe:/:radiantcms",
+	"pid": "31954",
+	"pname": "Radiant CMS",
+	"pcpe": "cpe:/a:radiantcms:radiant_cms"
 }

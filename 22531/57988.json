@@ -1,8 +1,8 @@
 {
-  "vid": "22531",
-  "vname": "yafu project",
-  "vcpe": "cpe:/:yafu_project",
-  "pid": "57988",
-  "pname": "yafu",
-  "pcpe": "cpe:/a:yafu_project:yafu"
+	"vid": "22531",
+	"vname": "yafu project",
+	"vcpe": "cpe:/:yafu_project",
+	"pid": "57988",
+	"pname": "yafu",
+	"pcpe": "cpe:/a:yafu_project:yafu"
 }

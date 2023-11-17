@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7523",
-  "pname": "shoutbox",
-  "pcpe": "cpe:/a:drupal:shoutbox"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7523",
+	"pname": "shoutbox",
+	"pcpe": "cpe:/a:drupal:shoutbox"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "59089",
-  "pname": "a340-22icb ファームウェア",
-  "pcpe": "cpe:/o:lenovo:a340-22icb_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "59089",
+	"pname": "a340-22icb ファームウェア",
+	"pcpe": "cpe:/o:lenovo:a340-22icb_firmware"
 }

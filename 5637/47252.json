@@ -1,8 +1,8 @@
 {
-  "vid": "5637",
-  "vname": "マイクロフォーカス株式会社",
-  "vcpe": "cpe:/:microfocus",
-  "pid": "47252",
-  "pname": "Application Performance Management",
-  "pcpe": "cpe:/a:microfocus:application_performance_management"
+	"vid": "5637",
+	"vname": "マイクロフォーカス株式会社",
+	"vcpe": "cpe:/:microfocus",
+	"pid": "47252",
+	"pname": "Application Performance Management",
+	"pcpe": "cpe:/a:microfocus:application_performance_management"
 }

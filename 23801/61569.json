@@ -1,8 +1,8 @@
 {
-  "vid": "23801",
-  "vname": "NVS365.com",
-  "vcpe": "cpe:/:nvs365",
-  "pid": "61569",
-  "pname": "NVS365 V01 ファームウェア",
-  "pcpe": "cpe:/o:nvs365:nvs-365-v01_firmware"
+	"vid": "23801",
+	"vname": "NVS365.com",
+	"vcpe": "cpe:/:nvs365",
+	"pid": "61569",
+	"pname": "NVS365 V01 ファームウェア",
+	"pcpe": "cpe:/o:nvs365:nvs-365-v01_firmware"
 }

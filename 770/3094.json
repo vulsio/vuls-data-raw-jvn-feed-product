@@ -1,8 +1,8 @@
 {
-  "vid": "770",
-  "vname": "エイサー",
-  "vcpe": "cpe:/:acer",
-  "pid": "3094",
-  "pname": "AC700",
-  "pcpe": "cpe:/h:acer:ac700_chromebook"
+	"vid": "770",
+	"vname": "エイサー",
+	"vcpe": "cpe:/:acer",
+	"pid": "3094",
+	"pname": "AC700",
+	"pcpe": "cpe:/h:acer:ac700_chromebook"
 }

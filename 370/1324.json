@@ -1,8 +1,8 @@
 {
-  "vid": "370",
-  "vname": "Tor World",
-  "vcpe": "cpe:/:tor_world",
-  "pid": "1324",
-  "pname": "i-Navigator",
-  "pcpe": "cpe:/a:tor_world:i-navigator"
+	"vid": "370",
+	"vname": "Tor World",
+	"vcpe": "cpe:/:tor_world",
+	"pid": "1324",
+	"pname": "i-Navigator",
+	"pcpe": "cpe:/a:tor_world:i-navigator"
 }

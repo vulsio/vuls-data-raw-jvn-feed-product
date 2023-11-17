@@ -1,8 +1,8 @@
 {
-  "vid": "5695",
-  "vname": "Mitel Networks Corporation",
-  "vcpe": "cpe:/:mitel",
-  "pid": "59523",
-  "pname": "minet ファームウェア",
-  "pcpe": "cpe:/o:mitel:minet_firmware"
+	"vid": "5695",
+	"vname": "Mitel Networks Corporation",
+	"vcpe": "cpe:/:mitel",
+	"pid": "59523",
+	"pname": "minet ファームウェア",
+	"pcpe": "cpe:/o:mitel:minet_firmware"
 }

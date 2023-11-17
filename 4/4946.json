@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4946",
-  "pname": "arcsight c1300 appliance",
-  "pcpe": "cpe:/h:hp:arcsight_c1300_appliance"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4946",
+	"pname": "arcsight c1300 appliance",
+	"pcpe": "cpe:/h:hp:arcsight_c1300_appliance"
 }

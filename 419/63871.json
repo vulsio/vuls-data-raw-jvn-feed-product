@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "63871",
-  "pname": "ONTAP 9",
-  "pcpe": "cpe:/a:netapp:ontap_9"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "63871",
+	"pname": "ONTAP 9",
+	"pcpe": "cpe:/a:netapp:ontap_9"
 }

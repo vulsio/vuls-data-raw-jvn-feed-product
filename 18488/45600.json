@@ -1,8 +1,8 @@
 {
-  "vid": "18488",
-  "vname": "Django Two-Factor Authentication project",
-  "vcpe": "cpe:/:django_two-factor_authentication_project",
-  "pid": "45600",
-  "pname": "Django Two-Factor Authentication",
-  "pcpe": "cpe:/a:django_two-factor_authentication_project:django_two-factor_authentication"
+	"vid": "18488",
+	"vname": "Django Two-Factor Authentication project",
+	"vcpe": "cpe:/:django_two-factor_authentication_project",
+	"pid": "45600",
+	"pname": "Django Two-Factor Authentication",
+	"pcpe": "cpe:/a:django_two-factor_authentication_project:django_two-factor_authentication"
 }

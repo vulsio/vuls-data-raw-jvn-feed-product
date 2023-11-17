@@ -1,8 +1,8 @@
 {
-  "vid": "14361",
-  "vname": "resourcehacker project",
-  "vcpe": "cpe:/:resourcehacker_project",
-  "pid": "34052",
-  "pname": "resourcehacker",
-  "pcpe": "cpe:/a:resourcehacker_project:resourcehacker"
+	"vid": "14361",
+	"vname": "resourcehacker project",
+	"vcpe": "cpe:/:resourcehacker_project",
+	"pid": "34052",
+	"pname": "resourcehacker",
+	"pcpe": "cpe:/a:resourcehacker_project:resourcehacker"
 }

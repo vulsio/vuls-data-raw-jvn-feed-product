@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "26480",
-  "pname": "SICAM PAS",
-  "pcpe": "cpe:/a:siemens:sicam_pas"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "26480",
+	"pname": "SICAM PAS",
+	"pcpe": "cpe:/a:siemens:sicam_pas"
 }

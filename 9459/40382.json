@@ -1,8 +1,8 @@
 {
-  "vid": "9459",
-  "vname": "タブローソフトウェア",
-  "vcpe": "cpe:/:tableau_software",
-  "pid": "40382",
-  "pname": "Tableau Reader",
-  "pcpe": "cpe:/a:tableau_software:tableau_reader"
+	"vid": "9459",
+	"vname": "タブローソフトウェア",
+	"vcpe": "cpe:/:tableau_software",
+	"pid": "40382",
+	"pname": "Tableau Reader",
+	"pcpe": "cpe:/a:tableau_software:tableau_reader"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25582",
-  "pname": "JG735A) HP MSR2004-48 Router",
-  "pcpe": "cpe:/h:hp:jg735a%29_hp_msr2004-48_router"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25582",
+	"pname": "JG735A) HP MSR2004-48 Router",
+	"pcpe": "cpe:/h:hp:jg735a%29_hp_msr2004-48_router"
 }

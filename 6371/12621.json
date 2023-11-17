@@ -1,8 +1,8 @@
 {
-  "vid": "6371",
-  "vname": "php123",
-  "vcpe": "cpe:/:php123",
-  "pid": "12621",
-  "pname": "top sites",
-  "pcpe": "cpe:/a:php123:top_sites"
+	"vid": "6371",
+	"vname": "php123",
+	"vcpe": "cpe:/:php123",
+	"pid": "12621",
+	"pname": "top sites",
+	"pcpe": "cpe:/a:php123:top_sites"
 }

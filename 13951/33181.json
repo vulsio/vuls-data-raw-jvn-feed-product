@@ -1,8 +1,8 @@
 {
-  "vid": "13951",
-  "vname": "Jumio",
-  "vcpe": "cpe:/:jumio",
-  "pid": "33181",
-  "pname": "Jumio SDK",
-  "pcpe": "cpe:/a:jumio:jumio_sdk"
+	"vid": "13951",
+	"vname": "Jumio",
+	"vcpe": "cpe:/:jumio",
+	"pid": "33181",
+	"pname": "Jumio SDK",
+	"pcpe": "cpe:/a:jumio:jumio_sdk"
 }

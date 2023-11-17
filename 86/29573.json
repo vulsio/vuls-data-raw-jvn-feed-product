@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "29573",
-  "pname": "WMR-433W ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wmr-433w_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "29573",
+	"pname": "WMR-433W ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wmr-433w_firmware"
 }

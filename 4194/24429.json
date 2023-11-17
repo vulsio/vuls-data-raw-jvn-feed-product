@@ -1,8 +1,8 @@
 {
-  "vid": "4194",
-  "vname": "Grandstream Networks",
-  "vcpe": "cpe:/:grandstream",
-  "pid": "24429",
-  "pname": "GXV3611_HD ファームウェア",
-  "pcpe": "cpe:/o:grandstream:gxv3611_hd_firmware"
+	"vid": "4194",
+	"vname": "Grandstream Networks",
+	"vcpe": "cpe:/:grandstream",
+	"pid": "24429",
+	"pname": "GXV3611_HD ファームウェア",
+	"pcpe": "cpe:/o:grandstream:gxv3611_hd_firmware"
 }

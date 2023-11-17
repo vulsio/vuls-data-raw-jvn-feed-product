@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "51429",
-  "pname": "MVISION EDR",
-  "pcpe": "cpe:/a:mcafee:mvision_edr"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "51429",
+	"pname": "MVISION EDR",
+	"pcpe": "cpe:/a:mcafee:mvision_edr"
 }

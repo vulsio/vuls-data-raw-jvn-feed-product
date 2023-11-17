@@ -1,8 +1,8 @@
 {
-  "vid": "4122",
-  "vname": "OpenSolution",
-  "vcpe": "cpe:/:opensolution",
-  "pid": "8631",
-  "pname": "quick.car",
-  "pcpe": "cpe:/a:opensolution:quick.car"
+	"vid": "4122",
+	"vname": "OpenSolution",
+	"vcpe": "cpe:/:opensolution",
+	"pid": "8631",
+	"pname": "quick.car",
+	"pcpe": "cpe:/a:opensolution:quick.car"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20623",
-  "vname": "Video.js",
-  "vcpe": "cpe:/:videojs",
-  "pid": "52518",
-  "pname": "Video.js",
-  "pcpe": "cpe:/a:videojs:video.js"
+	"vid": "20623",
+	"vname": "Video.js",
+	"vcpe": "cpe:/:videojs",
+	"pid": "52518",
+	"pname": "Video.js",
+	"pcpe": "cpe:/a:videojs:video.js"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "25024",
-  "pname": "IBM PowerHA SystemMirror",
-  "pcpe": "cpe:/a:ibm:powerha_system_mirror"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "25024",
+	"pname": "IBM PowerHA SystemMirror",
+	"pcpe": "cpe:/a:ibm:powerha_system_mirror"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19453",
-  "vname": "bitvec project",
-  "vcpe": "cpe:/:bitvec_project",
-  "pid": "49000",
-  "pname": "bitvec",
-  "pcpe": "cpe:/a:bitvec_project:bitvec"
+	"vid": "19453",
+	"vname": "bitvec project",
+	"vcpe": "cpe:/:bitvec_project",
+	"pid": "49000",
+	"pname": "bitvec",
+	"pcpe": "cpe:/a:bitvec_project:bitvec"
 }

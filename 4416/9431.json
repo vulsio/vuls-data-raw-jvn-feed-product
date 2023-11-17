@@ -1,8 +1,8 @@
 {
-  "vid": "4416",
-  "vname": "BuddyPress.org",
-  "vcpe": "cpe:/:buddypress",
-  "pid": "9431",
-  "pname": "BuddyPress",
-  "pcpe": "cpe:/a:buddypress:buddypress_plugin"
+	"vid": "4416",
+	"vname": "BuddyPress.org",
+	"vcpe": "cpe:/:buddypress",
+	"pid": "9431",
+	"pname": "BuddyPress",
+	"pcpe": "cpe:/a:buddypress:buddypress_plugin"
 }

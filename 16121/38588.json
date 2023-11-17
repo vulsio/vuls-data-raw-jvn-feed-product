@@ -1,8 +1,8 @@
 {
-  "vid": "16121",
-  "vname": "Chuango Security Technology Corp",
-  "vcpe": "cpe:/:chuango",
-  "pid": "38588",
-  "pname": "Chuango G5W ファームウェア",
-  "pcpe": "cpe:/o:chuango:g5w_firmware"
+	"vid": "16121",
+	"vname": "Chuango Security Technology Corp",
+	"vcpe": "cpe:/:chuango",
+	"pid": "38588",
+	"pname": "Chuango G5W ファームウェア",
+	"pcpe": "cpe:/o:chuango:g5w_firmware"
 }

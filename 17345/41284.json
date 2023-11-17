@@ -1,8 +1,8 @@
 {
-  "vid": "17345",
-  "vname": "hexo-admin project",
-  "vcpe": "cpe:/:hexo-admin_project",
-  "pid": "41284",
-  "pname": "hexo-admin",
-  "pcpe": "cpe:/a:hexo-admin_project:hexo-admin"
+	"vid": "17345",
+	"vname": "hexo-admin project",
+	"vcpe": "cpe:/:hexo-admin_project",
+	"pid": "41284",
+	"pname": "hexo-admin",
+	"pcpe": "cpe:/a:hexo-admin_project:hexo-admin"
 }

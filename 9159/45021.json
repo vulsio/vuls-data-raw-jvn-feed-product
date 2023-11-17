@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "45021",
-  "pname": "Ultrasound Sparq",
-  "pcpe": "cpe:/o:philips:ultrasound_sparq"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "45021",
+	"pname": "Ultrasound Sparq",
+	"pcpe": "cpe:/o:philips:ultrasound_sparq"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "16598",
-  "pname": "1756-enbt series a",
-  "pcpe": "cpe:/h:rockwellautomation:1756-enbt_series_a"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "16598",
+	"pname": "1756-enbt series a",
+	"pcpe": "cpe:/h:rockwellautomation:1756-enbt_series_a"
 }

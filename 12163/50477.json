@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "50477",
-  "pname": "Xray - Test Management for Jira",
-  "pcpe": "cpe:/a:jenkins:xray_-_test_management_for_jira"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "50477",
+	"pname": "Xray - Test Management for Jira",
+	"pcpe": "cpe:/a:jenkins:xray_-_test_management_for_jira"
 }

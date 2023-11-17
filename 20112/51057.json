@@ -1,8 +1,8 @@
 {
-  "vid": "20112",
-  "vname": "Calipso project",
-  "vcpe": "cpe:/:calipso_project",
-  "pid": "51057",
-  "pname": "Calipso",
-  "pcpe": "cpe:/a:calipso_project:calipso"
+	"vid": "20112",
+	"vname": "Calipso project",
+	"vcpe": "cpe:/:calipso_project",
+	"pid": "51057",
+	"pname": "Calipso",
+	"pcpe": "cpe:/a:calipso_project:calipso"
 }

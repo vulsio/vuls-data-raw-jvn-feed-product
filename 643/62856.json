@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "62856",
-  "pname": "vostro 3710 ファームウェア",
-  "pcpe": "cpe:/o:dell:vostro_3710_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "62856",
+	"pname": "vostro 3710 ファームウェア",
+	"pcpe": "cpe:/o:dell:vostro_3710_firmware"
 }

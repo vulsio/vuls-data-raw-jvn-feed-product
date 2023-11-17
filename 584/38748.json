@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "38748",
-  "pname": "SINAMICS PERFECT HARMONY GH180 with nxg II control mlfb 6sr2 ファームウェア",
-  "pcpe": "cpe:/o:siemens:sinamics_perfect_harmony_gh180_with_nxg_ii_control_mlfb_6sr2_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "38748",
+	"pname": "SINAMICS PERFECT HARMONY GH180 with nxg II control mlfb 6sr2 ファームウェア",
+	"pcpe": "cpe:/o:siemens:sinamics_perfect_harmony_gh180_with_nxg_ii_control_mlfb_6sr2_firmware"
 }

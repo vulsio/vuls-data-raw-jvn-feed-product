@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "46357",
-  "pname": "Yale-L21A ファームウェア",
-  "pcpe": "cpe:/o:huawei:yale-l21a_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "46357",
+	"pname": "Yale-L21A ファームウェア",
+	"pcpe": "cpe:/o:huawei:yale-l21a_firmware"
 }

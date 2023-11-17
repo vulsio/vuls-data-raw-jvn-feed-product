@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2469",
-  "pname": "JP1/HiCommand Provisioning Manager",
-  "pcpe": "cpe:/a:hitachi:jp1-hicommand_provisioning_manager"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2469",
+	"pname": "JP1/HiCommand Provisioning Manager",
+	"pcpe": "cpe:/a:hitachi:jp1-hicommand_provisioning_manager"
 }

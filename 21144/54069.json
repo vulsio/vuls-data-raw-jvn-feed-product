@@ -1,8 +1,8 @@
 {
-  "vid": "21144",
-  "vname": "Airangel",
-  "vcpe": "cpe:/:airangel",
-  "pid": "54069",
-  "pname": "HSMX-app-100 ファームウェア",
-  "pcpe": "cpe:/o:airangel:hsmx-app-100_firmware"
+	"vid": "21144",
+	"vname": "Airangel",
+	"vcpe": "cpe:/:airangel",
+	"pid": "54069",
+	"pname": "HSMX-app-100 ファームウェア",
+	"pcpe": "cpe:/o:airangel:hsmx-app-100_firmware"
 }

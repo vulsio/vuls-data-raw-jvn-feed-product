@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "37349",
-  "pname": "Nova 3 ファームウェア",
-  "pcpe": "cpe:/o:huawei:nova_3_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "37349",
+	"pname": "Nova 3 ファームウェア",
+	"pcpe": "cpe:/o:huawei:nova_3_firmware"
 }

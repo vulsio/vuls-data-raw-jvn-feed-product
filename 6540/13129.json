@@ -1,8 +1,8 @@
 {
-  "vid": "6540",
-  "vname": "CloneForest",
-  "vcpe": "cpe:/:cloneforest",
-  "pid": "13129",
-  "pname": "GraphicsClone Script",
-  "pcpe": "cpe:/a:cloneforest:graphicsclone_script"
+	"vid": "6540",
+	"vname": "CloneForest",
+	"vcpe": "cpe:/:cloneforest",
+	"pid": "13129",
+	"pname": "GraphicsClone Script",
+	"pcpe": "cpe:/a:cloneforest:graphicsclone_script"
 }

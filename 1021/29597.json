@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "29597",
-  "pname": "Openstack Cloud Magnum Orchestration",
-  "pcpe": "cpe:/a:openstack:cloud_magnum_orchestration"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "29597",
+	"pname": "Openstack Cloud Magnum Orchestration",
+	"pcpe": "cpe:/a:openstack:cloud_magnum_orchestration"
 }

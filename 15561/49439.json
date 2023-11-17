@@ -1,8 +1,8 @@
 {
-  "vid": "15561",
-  "vname": "STMicroelectronics",
-  "vcpe": "cpe:/:stmicroelectronics",
-  "pid": "49439",
-  "pname": "STM32CubeF1",
-  "pcpe": "cpe:/a:stmicroelectronics:stm32cubef1"
+	"vid": "15561",
+	"vname": "STMicroelectronics",
+	"vcpe": "cpe:/:stmicroelectronics",
+	"pid": "49439",
+	"pname": "STM32CubeF1",
+	"pcpe": "cpe:/a:stmicroelectronics:stm32cubef1"
 }

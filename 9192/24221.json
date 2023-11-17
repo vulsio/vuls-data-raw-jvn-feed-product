@@ -1,8 +1,8 @@
 {
-  "vid": "9192",
-  "vname": "thoughtbot",
-  "vcpe": "cpe:/:thoughtbot",
-  "pid": "24221",
-  "pname": "Paperclip",
-  "pcpe": "cpe:/a:thoughtbot:paperclip"
+	"vid": "9192",
+	"vname": "thoughtbot",
+	"vcpe": "cpe:/:thoughtbot",
+	"pid": "24221",
+	"pname": "Paperclip",
+	"pcpe": "cpe:/a:thoughtbot:paperclip"
 }

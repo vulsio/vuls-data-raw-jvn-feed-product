@@ -1,8 +1,8 @@
 {
-  "vid": "2415",
-  "vname": "アクシスコミュニケーションズ",
-  "vcpe": "cpe:/:axis",
-  "pid": "60534",
-  "pname": "p3225 ファームウェア",
-  "pcpe": "cpe:/o:axis:p3225_firmware"
+	"vid": "2415",
+	"vname": "アクシスコミュニケーションズ",
+	"vcpe": "cpe:/:axis",
+	"pid": "60534",
+	"pname": "p3225 ファームウェア",
+	"pcpe": "cpe:/o:axis:p3225_firmware"
 }

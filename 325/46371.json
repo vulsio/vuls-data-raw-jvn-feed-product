@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "46371",
-  "pname": "ThinkPad T495S Jazz ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_t495s_jazz_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "46371",
+	"pname": "ThinkPad T495S Jazz ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_t495s_jazz_firmware"
 }

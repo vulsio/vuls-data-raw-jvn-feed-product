@@ -1,8 +1,8 @@
 {
-  "vid": "12535",
-  "vname": "NETFLIX, INC.",
-  "vcpe": "cpe:/:netflix",
-  "pid": "47701",
-  "pname": "hollow",
-  "pcpe": "cpe:/a:netflix:hollow"
+	"vid": "12535",
+	"vname": "NETFLIX, INC.",
+	"vcpe": "cpe:/:netflix",
+	"pid": "47701",
+	"pname": "hollow",
+	"pcpe": "cpe:/a:netflix:hollow"
 }

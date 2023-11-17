@@ -1,8 +1,8 @@
 {
-  "vid": "23897",
-  "vname": "qr code generator project",
-  "vcpe": "cpe:/:qr_code_generator_project",
-  "pid": "61800",
-  "pname": "qr code generator",
-  "pcpe": "cpe:/a:qr_code_generator_project:qr_code_generator"
+	"vid": "23897",
+	"vname": "qr code generator project",
+	"vcpe": "cpe:/:qr_code_generator_project",
+	"pid": "61800",
+	"pname": "qr code generator",
+	"pcpe": "cpe:/a:qr_code_generator_project:qr_code_generator"
 }

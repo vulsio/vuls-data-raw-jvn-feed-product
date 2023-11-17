@@ -1,8 +1,8 @@
 {
-  "vid": "18524",
-  "vname": "RaspAP",
-  "vcpe": "cpe:/:raspap",
-  "pid": "45703",
-  "pname": "RaspAP",
-  "pcpe": "cpe:/a:raspap:raspap"
+	"vid": "18524",
+	"vname": "RaspAP",
+	"vcpe": "cpe:/:raspap",
+	"pid": "45703",
+	"pname": "RaspAP",
+	"pcpe": "cpe:/a:raspap:raspap"
 }

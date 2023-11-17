@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "15419",
-  "pname": "TIBCO Administrator",
-  "pcpe": "cpe:/a:tibco:administrator"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "15419",
+	"pname": "TIBCO Administrator",
+	"pcpe": "cpe:/a:tibco:administrator"
 }

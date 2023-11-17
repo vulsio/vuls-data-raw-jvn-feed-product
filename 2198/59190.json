@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "59190",
-  "pname": "epyc 7402p ファームウェア",
-  "pcpe": "cpe:/o:amd:epyc_7402p_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "59190",
+	"pname": "epyc 7402p ファームウェア",
+	"pcpe": "cpe:/o:amd:epyc_7402p_firmware"
 }

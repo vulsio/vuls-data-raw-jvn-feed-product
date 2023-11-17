@@ -1,8 +1,8 @@
 {
-  "vid": "23525",
-  "vname": "metamask",
-  "vcpe": "cpe:/:metamask",
-  "pid": "60953",
-  "pname": "metamask",
-  "pcpe": "cpe:/a:metamask:metamask"
+	"vid": "23525",
+	"vname": "metamask",
+	"vcpe": "cpe:/:metamask",
+	"pid": "60953",
+	"pname": "metamask",
+	"pcpe": "cpe:/a:metamask:metamask"
 }

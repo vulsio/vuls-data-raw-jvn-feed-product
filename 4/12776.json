@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12776",
-  "pname": "officejet d",
-  "pcpe": "cpe:/h:hp:officejet_d"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12776",
+	"pname": "officejet d",
+	"pcpe": "cpe:/h:hp:officejet_d"
 }

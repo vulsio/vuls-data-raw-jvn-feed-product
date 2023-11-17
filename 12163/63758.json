@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "63758",
-  "pname": "compuware topaz for total test",
-  "pcpe": "cpe:/a:jenkins:compuware_topaz_for_total_test"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "63758",
+	"pname": "compuware topaz for total test",
+	"pcpe": "cpe:/a:jenkins:compuware_topaz_for_total_test"
 }

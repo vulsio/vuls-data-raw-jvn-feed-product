@@ -1,8 +1,8 @@
 {
-  "vid": "15303",
-  "vname": "Cryptogs",
-  "vcpe": "cpe:/:cryptogs",
-  "pid": "35440",
-  "pname": "Cryptogs",
-  "pcpe": "cpe:/a:cryptogs:cryptogs"
+	"vid": "15303",
+	"vname": "Cryptogs",
+	"vcpe": "cpe:/:cryptogs",
+	"pid": "35440",
+	"pname": "Cryptogs",
+	"pcpe": "cpe:/a:cryptogs:cryptogs"
 }

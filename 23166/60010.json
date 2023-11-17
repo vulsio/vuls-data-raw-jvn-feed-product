@@ -1,8 +1,8 @@
 {
-  "vid": "23166",
-  "vname": "google-it project",
-  "vcpe": "cpe:/:google-it_project",
-  "pid": "60010",
-  "pname": "google-it",
-  "pcpe": "cpe:/a:google-it_project:google-it"
+	"vid": "23166",
+	"vname": "google-it project",
+	"vcpe": "cpe:/:google-it_project",
+	"pid": "60010",
+	"pname": "google-it",
+	"pcpe": "cpe:/a:google-it_project:google-it"
 }

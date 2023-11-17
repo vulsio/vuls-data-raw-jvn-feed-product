@@ -1,8 +1,8 @@
 {
-  "vid": "15957",
-  "vname": "Sqla_yaml_fixtures project",
-  "vcpe": "cpe:/:sqla_yaml_fixtures_project",
-  "pid": "37258",
-  "pname": "Sqla_yaml_fixtures",
-  "pcpe": "cpe:/a:sqla_yaml_fixtures_project:sqla_yaml_fixtures"
+	"vid": "15957",
+	"vname": "Sqla_yaml_fixtures project",
+	"vcpe": "cpe:/:sqla_yaml_fixtures_project",
+	"pid": "37258",
+	"pname": "Sqla_yaml_fixtures",
+	"pcpe": "cpe:/a:sqla_yaml_fixtures_project:sqla_yaml_fixtures"
 }

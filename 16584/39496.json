@@ -1,8 +1,8 @@
 {
-  "vid": "16584",
-  "vname": "Nuxt.js",
-  "vcpe": "cpe:/:nuxtjs",
-  "pid": "39496",
-  "pname": "Nuxt.js",
-  "pcpe": "cpe:/a:nuxtjs:nuxt.js"
+	"vid": "16584",
+	"vname": "Nuxt.js",
+	"vcpe": "cpe:/:nuxtjs",
+	"pid": "39496",
+	"pname": "Nuxt.js",
+	"pcpe": "cpe:/a:nuxtjs:nuxt.js"
 }

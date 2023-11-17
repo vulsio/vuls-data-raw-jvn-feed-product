@@ -1,8 +1,8 @@
 {
-  "vid": "11337",
-  "vname": "Ping Identity",
-  "vcpe": "cpe:/:pingidentity",
-  "pid": "39423",
-  "pname": "Agentless Integration Kit",
-  "pcpe": "cpe:/a:pingidentity:agentless_integration_kit"
+	"vid": "11337",
+	"vname": "Ping Identity",
+	"vcpe": "cpe:/:pingidentity",
+	"pid": "39423",
+	"pname": "Agentless Integration Kit",
+	"pcpe": "cpe:/a:pingidentity:agentless_integration_kit"
 }

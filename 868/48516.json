@@ -1,8 +1,8 @@
 {
-  "vid": "868",
-  "vname": "PrestaShop",
-  "vcpe": "cpe:/:prestashop",
-  "pid": "48516",
-  "pname": "ps_emailsubscription",
-  "pcpe": "cpe:/a:prestashop:ps_emailsubscription"
+	"vid": "868",
+	"vname": "PrestaShop",
+	"vcpe": "cpe:/:prestashop",
+	"pid": "48516",
+	"pname": "ps_emailsubscription",
+	"pcpe": "cpe:/a:prestashop:ps_emailsubscription"
 }

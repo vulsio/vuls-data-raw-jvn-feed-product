@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "5016",
-  "pname": "HP Performance Manager",
-  "pcpe": "cpe:/a:hp:performance_manager"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "5016",
+	"pname": "HP Performance Manager",
+	"pcpe": "cpe:/a:hp:performance_manager"
 }

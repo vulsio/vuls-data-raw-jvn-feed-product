@@ -1,8 +1,8 @@
 {
-  "vid": "18567",
-  "vname": "pypi",
-  "vcpe": "cpe:/:pypi",
-  "pid": "60855",
-  "pname": "explore",
-  "pcpe": "cpe:/a:pypi:explore"
+	"vid": "18567",
+	"vname": "pypi",
+	"vcpe": "cpe:/:pypi",
+	"pid": "60855",
+	"pname": "explore",
+	"pcpe": "cpe:/a:pypi:explore"
 }

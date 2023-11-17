@@ -1,8 +1,8 @@
 {
-  "vid": "18872",
-  "vname": "Ovarro",
-  "vcpe": "cpe:/:misc",
-  "pid": "47091",
-  "pname": "TBox",
-  "pcpe": "cpe:/a:misc:ovarro_tbox"
+	"vid": "18872",
+	"vname": "Ovarro",
+	"vcpe": "cpe:/:misc",
+	"pid": "47091",
+	"pname": "TBox",
+	"pcpe": "cpe:/a:misc:ovarro_tbox"
 }

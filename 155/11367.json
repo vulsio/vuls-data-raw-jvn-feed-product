@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "11367",
-  "pname": "McAfee Active Virus Defense",
-  "pcpe": "cpe:/a:mcafee:active_virus_defense"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "11367",
+	"pname": "McAfee Active Virus Defense",
+	"pcpe": "cpe:/a:mcafee:active_virus_defense"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "3532",
-  "pname": "Premium ethernet module TSXP573634M Firmware",
-  "pcpe": "cpe:/a:schneider_electric:premium_ethernet_module_tsxp573634m"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "3532",
+	"pname": "Premium ethernet module TSXP573634M Firmware",
+	"pcpe": "cpe:/a:schneider_electric:premium_ethernet_module_tsxp573634m"
 }

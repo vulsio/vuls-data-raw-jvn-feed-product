@@ -1,8 +1,8 @@
 {
-  "vid": "5635",
-  "vname": "microchip",
-  "vcpe": "cpe:/:microchip",
-  "pid": "46236",
-  "pname": "CryptoAuthLib",
-  "pcpe": "cpe:/a:microchip:cryptoauthlib"
+	"vid": "5635",
+	"vname": "microchip",
+	"vcpe": "cpe:/:microchip",
+	"pid": "46236",
+	"pname": "CryptoAuthLib",
+	"pcpe": "cpe:/a:microchip:cryptoauthlib"
 }

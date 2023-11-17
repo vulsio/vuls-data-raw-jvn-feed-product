@@ -1,8 +1,8 @@
 {
-  "vid": "66",
-  "vname": "XOOPS",
-  "vcpe": "cpe:/:xoops",
-  "pid": "16384",
-  "pname": "WF-Snippets",
-  "pcpe": "cpe:/a:xoops:wf-snippets"
+	"vid": "66",
+	"vname": "XOOPS",
+	"vcpe": "cpe:/:xoops",
+	"pid": "16384",
+	"pname": "WF-Snippets",
+	"pcpe": "cpe:/a:xoops:wf-snippets"
 }

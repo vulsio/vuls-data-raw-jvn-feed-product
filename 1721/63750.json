@@ -1,8 +1,8 @@
 {
-  "vid": "1721",
-  "vname": "SolarWinds",
-  "vcpe": "cpe:/:solarwinds",
-  "pid": "63750",
-  "pname": "sql sentry",
-  "pcpe": "cpe:/a:solarwinds:sql_sentry"
+	"vid": "1721",
+	"vname": "SolarWinds",
+	"vcpe": "cpe:/:solarwinds",
+	"pid": "63750",
+	"pname": "sql sentry",
+	"pcpe": "cpe:/a:solarwinds:sql_sentry"
 }

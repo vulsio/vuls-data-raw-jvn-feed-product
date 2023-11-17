@@ -1,8 +1,8 @@
 {
-  "vid": "8943",
-  "vname": "NextApp, Inc.",
-  "vcpe": "cpe:/:nextapp",
-  "pid": "20594",
-  "pname": "File Explorer",
-  "pcpe": "cpe:/a:nextapp:file_explorer"
+	"vid": "8943",
+	"vname": "NextApp, Inc.",
+	"vcpe": "cpe:/:nextapp",
+	"pid": "20594",
+	"pname": "File Explorer",
+	"pcpe": "cpe:/a:nextapp:file_explorer"
 }

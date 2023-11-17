@@ -1,8 +1,8 @@
 {
-  "vid": "1837",
-  "vname": "Quest Software Inc.",
-  "vcpe": "cpe:/:quest",
-  "pid": "33493",
-  "pname": "Disk Backup",
-  "pcpe": "cpe:/a:quest:disk_backup"
+	"vid": "1837",
+	"vname": "Quest Software Inc.",
+	"vcpe": "cpe:/:quest",
+	"pid": "33493",
+	"pname": "Disk Backup",
+	"pcpe": "cpe:/a:quest:disk_backup"
 }

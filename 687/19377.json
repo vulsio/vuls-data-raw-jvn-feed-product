@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "19377",
-  "pname": "hawk monitoring agent",
-  "pcpe": "cpe:/a:tibco:hawk_monitoring_agent"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "19377",
+	"pname": "hawk monitoring agent",
+	"pcpe": "cpe:/a:tibco:hawk_monitoring_agent"
 }

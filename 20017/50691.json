@@ -1,8 +1,8 @@
 {
-  "vid": "20017",
-  "vname": "ArangoDB",
-  "vcpe": "cpe:/:arangodb",
-  "pid": "50691",
-  "pname": "ArangoDB",
-  "pcpe": "cpe:/a:arangodb:arangodb"
+	"vid": "20017",
+	"vname": "ArangoDB",
+	"vcpe": "cpe:/:arangodb",
+	"pid": "50691",
+	"pname": "ArangoDB",
+	"pcpe": "cpe:/a:arangodb:arangodb"
 }

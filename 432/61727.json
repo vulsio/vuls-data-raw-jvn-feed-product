@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "61727",
-  "pname": "rmc-100-lite ファームウェア",
-  "pcpe": "cpe:/o:abb:rmc-100-lite_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "61727",
+	"pname": "rmc-100-lite ファームウェア",
+	"pcpe": "cpe:/o:abb:rmc-100-lite_firmware"
 }

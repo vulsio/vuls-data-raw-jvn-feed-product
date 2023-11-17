@@ -1,8 +1,8 @@
 {
-  "vid": "15399",
-  "vname": "xkbcommon",
-  "vcpe": "cpe:/:xkbcommon",
-  "pid": "35759",
-  "pname": "libxkbcommon",
-  "pcpe": "cpe:/a:xkbcommon:libxkbcommon"
+	"vid": "15399",
+	"vname": "xkbcommon",
+	"vcpe": "cpe:/:xkbcommon",
+	"pid": "35759",
+	"pname": "libxkbcommon",
+	"pcpe": "cpe:/a:xkbcommon:libxkbcommon"
 }

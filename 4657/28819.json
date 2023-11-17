@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28819",
-  "pname": "P8 ALE-UL00 ファームウェア",
-  "pcpe": "cpe:/o:huawei:p8_ale-ul00_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28819",
+	"pname": "P8 ALE-UL00 ファームウェア",
+	"pcpe": "cpe:/o:huawei:p8_ale-ul00_firmware"
 }

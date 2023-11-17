@@ -1,8 +1,8 @@
 {
-  "vid": "1723",
-  "vname": "SonicWALL",
-  "vcpe": "cpe:/:sonicwall",
-  "pid": "42358",
-  "pname": "Email Security Appliance",
-  "pcpe": "cpe:/a:sonicwall:email_security_appliance"
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "42358",
+	"pname": "Email Security Appliance",
+	"pcpe": "cpe:/a:sonicwall:email_security_appliance"
 }

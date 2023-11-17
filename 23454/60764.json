@@ -1,8 +1,8 @@
 {
-  "vid": "23454",
-  "vname": "pg-native project",
-  "vcpe": "cpe:/:pg-native_project",
-  "pid": "60764",
-  "pname": "pg-native",
-  "pcpe": "cpe:/a:pg-native_project:pg-native"
+	"vid": "23454",
+	"vname": "pg-native project",
+	"vcpe": "cpe:/:pg-native_project",
+	"pid": "60764",
+	"pname": "pg-native",
+	"pcpe": "cpe:/a:pg-native_project:pg-native"
 }

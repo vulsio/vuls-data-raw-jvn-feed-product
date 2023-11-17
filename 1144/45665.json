@@ -1,8 +1,8 @@
 {
-  "vid": "1144",
-  "vname": "SilverStripe",
-  "vcpe": "cpe:/:silverstripe",
-  "pid": "45665",
-  "pname": "recipe",
-  "pcpe": "cpe:/a:silverstripe:recipe"
+	"vid": "1144",
+	"vname": "SilverStripe",
+	"vcpe": "cpe:/:silverstripe",
+	"pid": "45665",
+	"pname": "recipe",
+	"pcpe": "cpe:/a:silverstripe:recipe"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "56693",
-  "pname": "HP Color LaserJet  CM5525 MFP CE709A ファームウェア",
-  "pcpe": "cpe:/o:hp:color_laserjet_cm5525_mfp_ce709a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "56693",
+	"pname": "HP Color LaserJet  CM5525 MFP CE709A ファームウェア",
+	"pcpe": "cpe:/o:hp:color_laserjet_cm5525_mfp_ce709a_firmware"
 }

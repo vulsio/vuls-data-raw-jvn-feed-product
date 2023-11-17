@@ -1,8 +1,8 @@
 {
-  "vid": "21302",
-  "vname": "WebHMI",
-  "vcpe": "cpe:/:webhmi",
-  "pid": "54683",
-  "pname": "WebHMI ファームウェア",
-  "pcpe": "cpe:/o:webhmi:webhmi_firmware"
+	"vid": "21302",
+	"vname": "WebHMI",
+	"vcpe": "cpe:/:webhmi",
+	"pid": "54683",
+	"pname": "WebHMI ファームウェア",
+	"pcpe": "cpe:/o:webhmi:webhmi_firmware"
 }

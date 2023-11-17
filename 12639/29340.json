@@ -1,8 +1,8 @@
 {
-  "vid": "12639",
-  "vname": "法務省",
-  "vcpe": "cpe:/:moj",
-  "pid": "29340",
-  "pname": "PDF署名プラグイン",
-  "pcpe": "cpe:/a:moj:pdf_digital_signature"
+	"vid": "12639",
+	"vname": "法務省",
+	"vcpe": "cpe:/:moj",
+	"pid": "29340",
+	"pname": "PDF署名プラグイン",
+	"pcpe": "cpe:/a:moj:pdf_digital_signature"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8787",
-  "vname": "verbatim",
-  "vcpe": "cpe:/:verbatim",
-  "pid": "60306",
-  "pname": "gd25lk01-3637-c ファームウェア",
-  "pcpe": "cpe:/o:verbatim:gd25lk01-3637-c_firmware"
+	"vid": "8787",
+	"vname": "verbatim",
+	"vcpe": "cpe:/:verbatim",
+	"pid": "60306",
+	"pname": "gd25lk01-3637-c ファームウェア",
+	"pcpe": "cpe:/o:verbatim:gd25lk01-3637-c_firmware"
 }
