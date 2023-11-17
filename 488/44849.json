@@ -1,8 +1,8 @@
 {
-  "vid": "488",
-  "vname": "openSUSE project",
-  "vcpe": "cpe:/:opensuse_project",
-  "pid": "44849",
-  "pname": "open-build-service",
-  "pcpe": "cpe:/a:opensuse_project:open_build_service"
+	"vid": "488",
+	"vname": "openSUSE project",
+	"vcpe": "cpe:/:opensuse_project",
+	"pid": "44849",
+	"pname": "open-build-service",
+	"pcpe": "cpe:/a:opensuse_project:open_build_service"
 }

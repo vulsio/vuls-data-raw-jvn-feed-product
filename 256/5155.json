@@ -1,8 +1,8 @@
 {
-  "vid": "256",
-  "vname": "Lunascape",
-  "vcpe": "cpe:/:lunascape",
-  "pid": "5155",
-  "pname": "iLunascape",
-  "pcpe": "cpe:/a:lunascape:ilunascape"
+	"vid": "256",
+	"vname": "Lunascape",
+	"vcpe": "cpe:/:lunascape",
+	"pid": "5155",
+	"pname": "iLunascape",
+	"pcpe": "cpe:/a:lunascape:ilunascape"
 }

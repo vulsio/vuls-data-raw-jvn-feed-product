@@ -1,8 +1,8 @@
 {
-  "vid": "24064",
-  "vname": "WP User Manager",
-  "vcpe": "cpe:/:wpusermanager",
-  "pid": "62229",
-  "pname": "WP User Manager",
-  "pcpe": "cpe:/a:wpusermanager:wp_user_manager"
+	"vid": "24064",
+	"vname": "WP User Manager",
+	"vcpe": "cpe:/:wpusermanager",
+	"pid": "62229",
+	"pname": "WP User Manager",
+	"pcpe": "cpe:/a:wpusermanager:wp_user_manager"
 }

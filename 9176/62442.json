@@ -1,8 +1,8 @@
 {
-  "vid": "9176",
-  "vname": "DrayTek Corporation",
-  "vcpe": "cpe:/:draytek",
-  "pid": "62442",
-  "pname": "vigor1000b ファームウェア",
-  "pcpe": "cpe:/o:draytek:vigor1000b_firmware"
+	"vid": "9176",
+	"vname": "DrayTek Corporation",
+	"vcpe": "cpe:/:draytek",
+	"pid": "62442",
+	"pname": "vigor1000b ファームウェア",
+	"pcpe": "cpe:/o:draytek:vigor1000b_firmware"
 }

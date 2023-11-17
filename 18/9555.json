@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9555",
-  "pname": "IBM SmartCloud Control Desk",
-  "pcpe": "cpe:/a:ibm:smartcloud_control_desk"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9555",
+	"pname": "IBM SmartCloud Control Desk",
+	"pcpe": "cpe:/a:ibm:smartcloud_control_desk"
 }

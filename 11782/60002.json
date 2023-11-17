@@ -1,8 +1,8 @@
 {
-  "vid": "11782",
-  "vname": "Bonitasoft, Inc.",
-  "vcpe": "cpe:/:bonitasoft",
-  "pid": "60002",
-  "pname": "bonita web",
-  "pcpe": "cpe:/a:bonitasoft:bonita_web"
+	"vid": "11782",
+	"vname": "Bonitasoft, Inc.",
+	"vcpe": "cpe:/:bonitasoft",
+	"pid": "60002",
+	"pname": "bonita web",
+	"pcpe": "cpe:/a:bonitasoft:bonita_web"
 }

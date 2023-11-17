@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "49299",
-  "pname": "Cisco SD-WAN ファームウェア",
-  "pcpe": "cpe:/o:cisco:sd-wan_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "49299",
+	"pname": "Cisco SD-WAN ファームウェア",
+	"pcpe": "cpe:/o:cisco:sd-wan_firmware"
 }

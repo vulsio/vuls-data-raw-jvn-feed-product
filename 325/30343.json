@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30343",
-  "pname": "Lenovo RackSwitch G8332 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:g8332_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30343",
+	"pname": "Lenovo RackSwitch G8332 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:g8332_firmware"
 }

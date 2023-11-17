@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "48763",
-  "pname": "DSR-1000AC ファームウェア",
-  "pcpe": "cpe:/o:dlink:dsr-1000ac_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "48763",
+	"pname": "DSR-1000AC ファームウェア",
+	"pcpe": "cpe:/o:dlink:dsr-1000ac_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20527",
-  "vname": "NetModule",
-  "vcpe": "cpe:/:netmodule",
-  "pid": "52242",
-  "pname": "NB1601 ファームウェア",
-  "pcpe": "cpe:/o:netmodule:nb1601_firmware"
+	"vid": "20527",
+	"vname": "NetModule",
+	"vcpe": "cpe:/:netmodule",
+	"pid": "52242",
+	"pname": "NB1601 ファームウェア",
+	"pcpe": "cpe:/o:netmodule:nb1601_firmware"
 }

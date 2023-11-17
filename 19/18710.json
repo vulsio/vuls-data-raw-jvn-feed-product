@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18710",
-  "pname": "Cisco Services Portal",
-  "pcpe": "cpe:/a:cisco:services_portal"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18710",
+	"pname": "Cisco Services Portal",
+	"pcpe": "cpe:/a:cisco:services_portal"
 }

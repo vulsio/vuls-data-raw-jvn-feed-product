@@ -1,8 +1,8 @@
 {
-  "vid": "16513",
-  "vname": "Infinix Mobile",
-  "vcpe": "cpe:/:infinixmobility",
-  "pid": "39289",
-  "pname": "Infinix Zero 2 X509",
-  "pcpe": "cpe:/o:infinixmobility:zero_2_x509_firmware"
+	"vid": "16513",
+	"vname": "Infinix Mobile",
+	"vcpe": "cpe:/:infinixmobility",
+	"pid": "39289",
+	"pname": "Infinix Zero 2 X509",
+	"pcpe": "cpe:/o:infinixmobility:zero_2_x509_firmware"
 }

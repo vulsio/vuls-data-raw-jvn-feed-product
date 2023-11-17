@@ -1,8 +1,8 @@
 {
-  "vid": "6625",
-  "vname": "Agile Access Control",
-  "vcpe": "cpe:/:agilefleet",
-  "pid": "13296",
-  "pname": "FleetCommander",
-  "pcpe": "cpe:/a:agilefleet:fleetcommander"
+	"vid": "6625",
+	"vname": "Agile Access Control",
+	"vcpe": "cpe:/:agilefleet",
+	"pid": "13296",
+	"pname": "FleetCommander",
+	"pcpe": "cpe:/a:agilefleet:fleetcommander"
 }

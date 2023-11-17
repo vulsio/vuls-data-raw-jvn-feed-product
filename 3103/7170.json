@@ -1,8 +1,8 @@
 {
-  "vid": "3103",
-  "vname": "dataspheric",
-  "vcpe": "cpe:/:dataspheric",
-  "pid": "7170",
-  "pname": "linkspheric",
-  "pcpe": "cpe:/a:dataspheric:linkspheric"
+	"vid": "3103",
+	"vname": "dataspheric",
+	"vcpe": "cpe:/:dataspheric",
+	"pid": "7170",
+	"pname": "linkspheric",
+	"pcpe": "cpe:/a:dataspheric:linkspheric"
 }

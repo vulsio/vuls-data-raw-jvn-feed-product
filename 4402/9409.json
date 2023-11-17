@@ -1,8 +1,8 @@
 {
-  "vid": "4402",
-  "vname": "oVirt",
-  "vcpe": "cpe:/:ovirt",
-  "pid": "9409",
-  "pname": "CLI",
-  "pcpe": "cpe:/a:ovirt:ovirt-engine-cli"
+	"vid": "4402",
+	"vname": "oVirt",
+	"vcpe": "cpe:/:ovirt",
+	"pid": "9409",
+	"pname": "CLI",
+	"pcpe": "cpe:/a:ovirt:ovirt-engine-cli"
 }

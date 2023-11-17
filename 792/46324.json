@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "46324",
-  "pname": "VMG5313-B30B ファームウェア",
-  "pcpe": "cpe:/o:zyxel:vmg5313-b30b_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "46324",
+	"pname": "VMG5313-B30B ファームウェア",
+	"pcpe": "cpe:/o:zyxel:vmg5313-b30b_firmware"
 }

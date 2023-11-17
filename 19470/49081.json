@@ -1,8 +1,8 @@
 {
-  "vid": "19470",
-  "vname": "Sensormatic Electronics",
-  "vcpe": "cpe:/:sensormatic_electronics",
-  "pid": "49081",
-  "pname": "Pro Gen 3",
-  "pcpe": "cpe:/a:sensormatic_electronics:sensormatic_electronics_pro_gen_3"
+	"vid": "19470",
+	"vname": "Sensormatic Electronics",
+	"vcpe": "cpe:/:sensormatic_electronics",
+	"pid": "49081",
+	"pname": "Pro Gen 3",
+	"pcpe": "cpe:/a:sensormatic_electronics:sensormatic_electronics_pro_gen_3"
 }

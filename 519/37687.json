@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "37687",
-  "pname": "Avaya one-X Communicator",
-  "pcpe": "cpe:/a:avaya:one-x_communicator"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "37687",
+	"pname": "Avaya one-X Communicator",
+	"pcpe": "cpe:/a:avaya:one-x_communicator"
 }

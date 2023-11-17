@@ -1,8 +1,8 @@
 {
-  "vid": "12955",
-  "vname": "Kubernetes",
-  "vcpe": "cpe:/:kubernetes",
-  "pid": "61366",
-  "pname": "aws-iam-authenticator",
-  "pcpe": "cpe:/a:kubernetes:aws-iam-authenticator"
+	"vid": "12955",
+	"vname": "Kubernetes",
+	"vcpe": "cpe:/:kubernetes",
+	"pid": "61366",
+	"pname": "aws-iam-authenticator",
+	"pcpe": "cpe:/a:kubernetes:aws-iam-authenticator"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21175",
-  "vname": "Binatone Global",
-  "vcpe": "cpe:/:binatoneglobal",
-  "pid": "54164",
-  "pname": "COMFORT 50 Connect ファームウェア",
-  "pcpe": "cpe:/o:binatoneglobal:comfort_50_connect_firmware"
+	"vid": "21175",
+	"vname": "Binatone Global",
+	"vcpe": "cpe:/:binatoneglobal",
+	"pid": "54164",
+	"pname": "COMFORT 50 Connect ファームウェア",
+	"pcpe": "cpe:/o:binatoneglobal:comfort_50_connect_firmware"
 }

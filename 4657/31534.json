@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31534",
-  "pname": "Berlin-L24HN ファームウェア",
-  "pcpe": "cpe:/o:huawei:berlin-l24hn_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31534",
+	"pname": "Berlin-L24HN ファームウェア",
+	"pcpe": "cpe:/o:huawei:berlin-l24hn_firmware"
 }

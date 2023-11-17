@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "25126",
-  "pname": "Leap",
-  "pcpe": "cpe:/o:novell:leap"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "25126",
+	"pname": "Leap",
+	"pcpe": "cpe:/o:novell:leap"
 }

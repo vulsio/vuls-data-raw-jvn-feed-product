@@ -1,8 +1,8 @@
 {
-  "vid": "19199",
-  "vname": "Claroty Ltd.",
-  "vcpe": "cpe:/:misc",
-  "pid": "48271",
-  "pname": "Secure Remote Access (SRA)",
-  "pcpe": "cpe:/a:misc:claroty_secure_remote_access"
+	"vid": "19199",
+	"vname": "Claroty Ltd.",
+	"vcpe": "cpe:/:misc",
+	"pid": "48271",
+	"pname": "Secure Remote Access (SRA)",
+	"pcpe": "cpe:/a:misc:claroty_secure_remote_access"
 }

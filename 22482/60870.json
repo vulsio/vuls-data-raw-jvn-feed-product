@@ -1,8 +1,8 @@
 {
-  "vid": "22482",
-  "vname": "Finastra",
-  "vcpe": "cpe:/:finastra",
-  "pid": "60870",
-  "pname": "nestjs-proxy",
-  "pcpe": "cpe:/a:finastra:nestjs-proxy"
+	"vid": "22482",
+	"vname": "Finastra",
+	"vcpe": "cpe:/:finastra",
+	"pid": "60870",
+	"pname": "nestjs-proxy",
+	"pcpe": "cpe:/a:finastra:nestjs-proxy"
 }

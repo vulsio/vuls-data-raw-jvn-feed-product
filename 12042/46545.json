@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "46545",
-  "pname": "HPE ProLiant BL460c Gen10 Server ファームウェア",
-  "pcpe": "cpe:/o:hp:proliant_bl460c_gen10_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "46545",
+	"pname": "HPE ProLiant BL460c Gen10 Server ファームウェア",
+	"pcpe": "cpe:/o:hp:proliant_bl460c_gen10_firmware"
 }

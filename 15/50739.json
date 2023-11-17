@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "50739",
-  "pname": "Oracle Project Costing",
-  "pcpe": "cpe:/a:oracle:project_costing"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "50739",
+	"pname": "Oracle Project Costing",
+	"pcpe": "cpe:/a:oracle:project_costing"
 }

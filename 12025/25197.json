@@ -1,8 +1,8 @@
 {
-  "vid": "12025",
-  "vname": "LOYTEC electronics GmbH",
-  "vcpe": "cpe:/:loytec",
-  "pid": "25197",
-  "pname": "L-Switch and L-IP Firmware",
-  "pcpe": "cpe:/o:loytec:l-switch_and_l-ip_firmware"
+	"vid": "12025",
+	"vname": "LOYTEC electronics GmbH",
+	"vcpe": "cpe:/:loytec",
+	"pid": "25197",
+	"pname": "L-Switch and L-IP Firmware",
+	"pcpe": "cpe:/o:loytec:l-switch_and_l-ip_firmware"
 }

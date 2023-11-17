@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3107",
-  "pname": "Cisco Telepresence System 1000",
-  "pcpe": "cpe:/h:cisco:telepresence_system_1000"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3107",
+	"pname": "Cisco Telepresence System 1000",
+	"pcpe": "cpe:/h:cisco:telepresence_system_1000"
 }

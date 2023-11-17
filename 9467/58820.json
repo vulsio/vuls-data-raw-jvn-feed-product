@@ -1,8 +1,8 @@
 {
-  "vid": "9467",
-  "vname": "Hughes Network Systems",
-  "vcpe": "cpe:/:hughes",
-  "pid": "58820",
-  "pname": "HX90 ファームウェア",
-  "pcpe": "cpe:/o:hughes:hx90_firmware"
+	"vid": "9467",
+	"vname": "Hughes Network Systems",
+	"vcpe": "cpe:/:hughes",
+	"pid": "58820",
+	"pname": "HX90 ファームウェア",
+	"pcpe": "cpe:/o:hughes:hx90_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "26472",
-  "pname": "Norton Security",
-  "pcpe": "cpe:/a:symantec:norton_security"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "26472",
+	"pname": "Norton Security",
+	"pcpe": "cpe:/a:symantec:norton_security"
 }

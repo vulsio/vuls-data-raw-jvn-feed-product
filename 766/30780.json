@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "30780",
-  "pname": "GP Pro EX",
-  "pcpe": "cpe:/a:schneider_electric:pro-face_gp_pro_ex"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "30780",
+	"pname": "GP Pro EX",
+	"pcpe": "cpe:/a:schneider_electric:pro-face_gp_pro_ex"
 }

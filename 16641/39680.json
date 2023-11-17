@@ -1,8 +1,8 @@
 {
-  "vid": "16641",
-  "vname": "Invenio",
-  "vcpe": "cpe:/:inveniosoftware",
-  "pid": "39680",
-  "pname": "Invenio-Communities",
-  "pcpe": "cpe:/a:inveniosoftware:invenio-communities"
+	"vid": "16641",
+	"vname": "Invenio",
+	"vcpe": "cpe:/:inveniosoftware",
+	"pid": "39680",
+	"pname": "Invenio-Communities",
+	"pcpe": "cpe:/a:inveniosoftware:invenio-communities"
 }

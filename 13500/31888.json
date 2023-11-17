@@ -1,8 +1,8 @@
 {
-  "vid": "13500",
-  "vname": "Openhacker project",
-  "vcpe": "cpe:/:openhacker_project",
-  "pid": "31888",
-  "pname": "Openhacker",
-  "pcpe": "cpe:/a:openhacker_project:openhacker"
+	"vid": "13500",
+	"vname": "Openhacker project",
+	"vcpe": "cpe:/:openhacker_project",
+	"pid": "31888",
+	"pname": "Openhacker",
+	"pcpe": "cpe:/a:openhacker_project:openhacker"
 }

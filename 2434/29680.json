@@ -1,8 +1,8 @@
 {
-  "vid": "2434",
-  "vname": "Baidu, Inc.",
-  "vcpe": "cpe:/:baidu",
-  "pid": "29680",
-  "pname": "Baidu IME 文字入力システム",
-  "pcpe": "cpe:/a:baidu:baidu_ime"
+	"vid": "2434",
+	"vname": "Baidu, Inc.",
+	"vcpe": "cpe:/:baidu",
+	"pid": "29680",
+	"pname": "Baidu IME 文字入力システム",
+	"pcpe": "cpe:/a:baidu:baidu_ime"
 }

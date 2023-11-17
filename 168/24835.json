@@ -1,8 +1,8 @@
 {
-  "vid": "168",
-  "vname": "横河電機株式会社",
-  "vcpe": "cpe:/:yokogawa",
-  "pid": "24835",
-  "pname": "Exaquantum",
-  "pcpe": "cpe:/a:yokogawa:exaquantum"
+	"vid": "168",
+	"vname": "横河電機株式会社",
+	"vcpe": "cpe:/:yokogawa",
+	"pid": "24835",
+	"pname": "Exaquantum",
+	"pcpe": "cpe:/a:yokogawa:exaquantum"
 }

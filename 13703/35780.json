@@ -1,8 +1,8 @@
 {
-  "vid": "13703",
-  "vname": "Kingsoft Office Software, Inc.",
-  "vcpe": "cpe:/:kingsoft",
-  "pid": "35780",
-  "pname": "WPS Office",
-  "pcpe": "cpe:/a:kingsoft:wps_office"
+	"vid": "13703",
+	"vname": "Kingsoft Office Software, Inc.",
+	"vcpe": "cpe:/:kingsoft",
+	"pid": "35780",
+	"pname": "WPS Office",
+	"pcpe": "cpe:/a:kingsoft:wps_office"
 }

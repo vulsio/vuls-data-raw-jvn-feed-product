@@ -1,8 +1,8 @@
 {
-  "vid": "20630",
-  "vname": "openEuler",
-  "vcpe": "cpe:/:openeuler",
-  "pid": "57961",
-  "pname": "byacc",
-  "pcpe": "cpe:/a:openeuler:byacc"
+	"vid": "20630",
+	"vname": "openEuler",
+	"vcpe": "cpe:/:openeuler",
+	"pid": "57961",
+	"pname": "byacc",
+	"pcpe": "cpe:/a:openeuler:byacc"
 }

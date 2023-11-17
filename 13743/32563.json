@@ -1,8 +1,8 @@
 {
-  "vid": "13743",
-  "vname": "SLAB Techsol System",
-  "vcpe": "cpe:/:techsolsystem",
-  "pid": "32563",
-  "pname": "File download tracker",
-  "pcpe": "cpe:/a:techsolsystem:file_download_tracker"
+	"vid": "13743",
+	"vname": "SLAB Techsol System",
+	"vcpe": "cpe:/:techsolsystem",
+	"pid": "32563",
+	"pname": "File download tracker",
+	"pcpe": "cpe:/a:techsolsystem:file_download_tracker"
 }

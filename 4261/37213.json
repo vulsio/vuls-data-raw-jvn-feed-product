@@ -1,8 +1,8 @@
 {
-  "vid": "4261",
-  "vname": "Tridium",
-  "vcpe": "cpe:/:tridium",
-  "pid": "37213",
-  "pname": "Niagara Enterprise Security",
-  "pcpe": "cpe:/a:tridium:niagara_enterprise_security"
+	"vid": "4261",
+	"vname": "Tridium",
+	"vcpe": "cpe:/:tridium",
+	"pid": "37213",
+	"pname": "Niagara Enterprise Security",
+	"pcpe": "cpe:/a:tridium:niagara_enterprise_security"
 }

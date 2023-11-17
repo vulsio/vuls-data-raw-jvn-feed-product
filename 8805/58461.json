@@ -1,8 +1,8 @@
 {
-  "vid": "8805",
-  "vname": "LemonLDAP::NG",
-  "vcpe": "cpe:/:lemonldap-ng",
-  "pid": "58461",
-  "pname": "Apache::Session::Browseable",
-  "pcpe": "cpe:/a:lemonldap-ng:apache%3a%3asession%3a%3abrowsable"
+	"vid": "8805",
+	"vname": "LemonLDAP::NG",
+	"vcpe": "cpe:/:lemonldap-ng",
+	"pid": "58461",
+	"pname": "Apache::Session::Browseable",
+	"pcpe": "cpe:/a:lemonldap-ng:apache%3a%3asession%3a%3abrowsable"
 }

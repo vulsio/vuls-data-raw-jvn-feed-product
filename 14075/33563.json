@@ -1,8 +1,8 @@
 {
-  "vid": "14075",
-  "vname": "Cylance",
-  "vcpe": "cpe:/:cylance",
-  "pid": "33563",
-  "pname": "CylancePROTECT",
-  "pcpe": "cpe:/a:cylance:cylanceprotect"
+	"vid": "14075",
+	"vname": "Cylance",
+	"vcpe": "cpe:/:cylance",
+	"pid": "33563",
+	"pname": "CylancePROTECT",
+	"pcpe": "cpe:/a:cylance:cylanceprotect"
 }

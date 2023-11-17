@@ -1,8 +1,8 @@
 {
-  "vid": "16762",
-  "vname": "Easy Digital Downloads",
-  "vcpe": "cpe:/:easydigitaldownloads",
-  "pid": "41268",
-  "pname": "Content Restriction",
-  "pcpe": "cpe:/a:easydigitaldownloads:content_restriction"
+	"vid": "16762",
+	"vname": "Easy Digital Downloads",
+	"vcpe": "cpe:/:easydigitaldownloads",
+	"pid": "41268",
+	"pname": "Content Restriction",
+	"pcpe": "cpe:/a:easydigitaldownloads:content_restriction"
 }

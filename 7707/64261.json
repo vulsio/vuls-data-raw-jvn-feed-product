@@ -1,8 +1,8 @@
 {
-  "vid": "7707",
-  "vname": "snowflake",
-  "vcpe": "cpe:/:snowflake",
-  "pid": "64261",
-  "pname": "snowflake-connector-python",
-  "pcpe": "cpe:/a:snowflake:snowflake-connector-python"
+	"vid": "7707",
+	"vname": "snowflake",
+	"vcpe": "cpe:/:snowflake",
+	"pid": "64261",
+	"pname": "snowflake-connector-python",
+	"pcpe": "cpe:/a:snowflake:snowflake-connector-python"
 }

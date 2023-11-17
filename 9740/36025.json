@@ -1,8 +1,8 @@
 {
-  "vid": "9740",
-  "vname": "A10ネットワークス株式会社",
-  "vcpe": "cpe:/:a10networks",
-  "pid": "36025",
-  "pname": "ACOS Web Application Firewall",
-  "pcpe": "cpe:/a:a10networks:acos_web_application_firewall"
+	"vid": "9740",
+	"vname": "A10ネットワークス株式会社",
+	"vcpe": "cpe:/:a10networks",
+	"pid": "36025",
+	"pname": "ACOS Web Application Firewall",
+	"pcpe": "cpe:/a:a10networks:acos_web_application_firewall"
 }

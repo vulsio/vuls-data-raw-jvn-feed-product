@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "63865",
-  "pname": "xr11 ファームウェア",
-  "pcpe": "cpe:/o:dell:xr11_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "63865",
+	"pname": "xr11 ファームウェア",
+	"pcpe": "cpe:/o:dell:xr11_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21175",
-  "vname": "Binatone Global",
-  "vcpe": "cpe:/:binatoneglobal",
-  "pid": "54160",
-  "pname": "Focus 72R ファームウェア",
-  "pcpe": "cpe:/o:binatoneglobal:focus_72r_firmware"
+	"vid": "21175",
+	"vname": "Binatone Global",
+	"vcpe": "cpe:/:binatoneglobal",
+	"pid": "54160",
+	"pname": "Focus 72R ファームウェア",
+	"pcpe": "cpe:/o:binatoneglobal:focus_72r_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21137",
-  "vname": "Android Bubbles",
-  "vcpe": "cpe:/:androidbubbles",
-  "pid": "60612",
-  "pname": "Keep Backup Daily",
-  "pcpe": "cpe:/a:androidbubbles:keep_backup_daily"
+	"vid": "21137",
+	"vname": "Android Bubbles",
+	"vcpe": "cpe:/:androidbubbles",
+	"pid": "60612",
+	"pname": "Keep Backup Daily",
+	"pcpe": "cpe:/a:androidbubbles:keep_backup_daily"
 }

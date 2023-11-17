@@ -1,8 +1,8 @@
 {
-  "vid": "18435",
-  "vname": "SecureAuth",
-  "vcpe": "cpe:/:secureauth",
-  "pid": "50353",
-  "pname": "Impacket",
-  "pcpe": "cpe:/a:secureauth:impacket"
+	"vid": "18435",
+	"vname": "SecureAuth",
+	"vcpe": "cpe:/:secureauth",
+	"pid": "50353",
+	"pname": "Impacket",
+	"pcpe": "cpe:/a:secureauth:impacket"
 }

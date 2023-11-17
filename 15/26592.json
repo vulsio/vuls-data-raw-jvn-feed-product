@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26592",
-  "pname": "Oracle Utilities Network Management System",
-  "pcpe": "cpe:/a:oracle:utilities_network_management_system"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26592",
+	"pname": "Oracle Utilities Network Management System",
+	"pcpe": "cpe:/a:oracle:utilities_network_management_system"
 }

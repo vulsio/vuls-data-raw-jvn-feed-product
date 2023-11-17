@@ -1,8 +1,8 @@
 {
-  "vid": "24159",
-  "vname": "AnyMind",
-  "vcpe": "cpe:/:anymind",
-  "pid": "62509",
-  "pname": "AnyMind Widget",
-  "pcpe": "cpe:/a:anymind:anymind_widget"
+	"vid": "24159",
+	"vname": "AnyMind",
+	"vcpe": "cpe:/:anymind",
+	"pid": "62509",
+	"pname": "AnyMind Widget",
+	"pcpe": "cpe:/a:anymind:anymind_widget"
 }

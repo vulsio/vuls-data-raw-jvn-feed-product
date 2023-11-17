@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "46396",
-  "pname": "ManageEngine Exchange Log360",
-  "pcpe": "cpe:/a:zohocorp:manageengine_log360"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "46396",
+	"pname": "ManageEngine Exchange Log360",
+	"pcpe": "cpe:/a:zohocorp:manageengine_log360"
 }

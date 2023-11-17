@@ -1,8 +1,8 @@
 {
-  "vid": "12161",
-  "vname": "西日本電信電話株式会社",
-  "vcpe": "cpe:/:ntt_west",
-  "pid": "32109",
-  "pname": "フレッツv4/v6アドレス選択ツール",
-  "pcpe": "cpe:/a:ntt_west:flet%27s_address_sentaku_tool"
+	"vid": "12161",
+	"vname": "西日本電信電話株式会社",
+	"vcpe": "cpe:/:ntt_west",
+	"pid": "32109",
+	"pname": "フレッツv4/v6アドレス選択ツール",
+	"pcpe": "cpe:/a:ntt_west:flet%27s_address_sentaku_tool"
 }

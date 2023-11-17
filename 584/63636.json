@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63636",
-  "pname": "6gk5853-2ea00-2da1 ファームウェア",
-  "pcpe": "cpe:/o:siemens:6gk5853-2ea00-2da1_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63636",
+	"pname": "6gk5853-2ea00-2da1 ファームウェア",
+	"pcpe": "cpe:/o:siemens:6gk5853-2ea00-2da1_firmware"
 }

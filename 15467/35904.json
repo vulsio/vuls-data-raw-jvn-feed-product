@@ -1,8 +1,8 @@
 {
-  "vid": "15467",
-  "vname": "Zephyr Project",
-  "vcpe": "cpe:/:zephyrproject",
-  "pid": "35904",
-  "pname": "Zephyr",
-  "pcpe": "cpe:/o:zephyrproject:zephyr"
+	"vid": "15467",
+	"vname": "Zephyr Project",
+	"vcpe": "cpe:/:zephyrproject",
+	"pid": "35904",
+	"pname": "Zephyr",
+	"pcpe": "cpe:/o:zephyrproject:zephyr"
 }

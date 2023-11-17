@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "38380",
-  "pname": "Oracle iSupplier Portal",
-  "pcpe": "cpe:/a:oracle:isupplier_portal"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "38380",
+	"pname": "Oracle iSupplier Portal",
+	"pcpe": "cpe:/a:oracle:isupplier_portal"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1493",
-  "vname": "GPLHost",
-  "vcpe": "cpe:/:gplhost",
-  "pid": "4387",
-  "pname": "Domain Technologie Control",
-  "pcpe": "cpe:/a:gplhost:domain_technologie_control"
+	"vid": "1493",
+	"vname": "GPLHost",
+	"vcpe": "cpe:/:gplhost",
+	"pid": "4387",
+	"pname": "Domain Technologie Control",
+	"pcpe": "cpe:/a:gplhost:domain_technologie_control"
 }

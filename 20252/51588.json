@@ -1,8 +1,8 @@
 {
-  "vid": "20252",
-  "vname": "linuxptp project",
-  "vcpe": "cpe:/:linuxptp_project",
-  "pid": "51588",
-  "pname": "linuxptp",
-  "pcpe": "cpe:/a:linuxptp_project:linuxptp"
+	"vid": "20252",
+	"vname": "linuxptp project",
+	"vcpe": "cpe:/:linuxptp_project",
+	"pid": "51588",
+	"pname": "linuxptp",
+	"pcpe": "cpe:/a:linuxptp_project:linuxptp"
 }

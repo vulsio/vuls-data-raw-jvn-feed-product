@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15205",
-  "pname": "navex15 driver",
-  "pcpe": "cpe:/a:symantec:navex15_driver"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15205",
+	"pname": "navex15 driver",
+	"pcpe": "cpe:/a:symantec:navex15_driver"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "47082",
-  "pname": "Aterm WG1200HP2 ファームウェア",
-  "pcpe": "cpe:/o:nec:aterm_wg1200hp2"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "47082",
+	"pname": "Aterm WG1200HP2 ファームウェア",
+	"pcpe": "cpe:/o:nec:aterm_wg1200hp2"
 }

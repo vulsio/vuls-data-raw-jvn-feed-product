@@ -1,8 +1,8 @@
 {
-  "vid": "13150",
-  "vname": "hbgk.net",
-  "vcpe": "cpe:/:hbgk",
-  "pid": "30667",
-  "pname": "HB9404X3 ファームウェア",
-  "pcpe": "cpe:/o:hbgk:hb9404x3_firmware"
+	"vid": "13150",
+	"vname": "hbgk.net",
+	"vcpe": "cpe:/:hbgk",
+	"pid": "30667",
+	"pname": "HB9404X3 ファームウェア",
+	"pcpe": "cpe:/o:hbgk:hb9404x3_firmware"
 }

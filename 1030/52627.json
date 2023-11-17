@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "52627",
-  "pname": "CODESYS Embedded Target Visu Toolkit",
-  "pcpe": "cpe:/a:codesys:embedded_target_visu_toolkit"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "52627",
+	"pname": "CODESYS Embedded Target Visu Toolkit",
+	"pcpe": "cpe:/a:codesys:embedded_target_visu_toolkit"
 }

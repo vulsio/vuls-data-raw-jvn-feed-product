@@ -1,8 +1,8 @@
 {
-  "vid": "14073",
-  "vname": "LG Electronics",
-  "vcpe": "cpe:/:lg",
-  "pid": "38656",
-  "pname": "GAMP-7100 ファームウェア",
-  "pcpe": "cpe:/o:lg:gamp-7100_firmware"
+	"vid": "14073",
+	"vname": "LG Electronics",
+	"vcpe": "cpe:/:lg",
+	"pid": "38656",
+	"pname": "GAMP-7100 ファームウェア",
+	"pcpe": "cpe:/o:lg:gamp-7100_firmware"
 }

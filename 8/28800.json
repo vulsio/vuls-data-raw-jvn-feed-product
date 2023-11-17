@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "28800",
-  "pname": "Apache Log4j",
-  "pcpe": "cpe:/a:apache:log4j"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "28800",
+	"pname": "Apache Log4j",
+	"pcpe": "cpe:/a:apache:log4j"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23123",
-  "vname": "tinytoml project",
-  "vcpe": "cpe:/:tinytoml_project",
-  "pid": "59872",
-  "pname": "tinytoml",
-  "pcpe": "cpe:/a:tinytoml_project:tinytoml"
+	"vid": "23123",
+	"vname": "tinytoml project",
+	"vcpe": "cpe:/:tinytoml_project",
+	"pid": "59872",
+	"pname": "tinytoml",
+	"pcpe": "cpe:/a:tinytoml_project:tinytoml"
 }

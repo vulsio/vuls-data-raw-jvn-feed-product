@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "40851",
-  "pname": "H4D3PRV2 ファームウェア",
-  "pcpe": "cpe:/o:honeywell:h4d3prv2_firmware"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "40851",
+	"pname": "H4D3PRV2 ファームウェア",
+	"pcpe": "cpe:/o:honeywell:h4d3prv2_firmware"
 }

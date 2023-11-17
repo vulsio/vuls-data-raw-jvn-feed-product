@@ -1,8 +1,8 @@
 {
-  "vid": "9542",
-  "vname": "ブラザー工業",
-  "vcpe": "cpe:/:brother",
-  "pid": "19684",
-  "pname": "MFC-9970CDW ファームウェア",
-  "pcpe": "cpe:/o:brother:mfc-9970cdw_firmware"
+	"vid": "9542",
+	"vname": "ブラザー工業",
+	"vcpe": "cpe:/:brother",
+	"pid": "19684",
+	"pname": "MFC-9970CDW ファームウェア",
+	"pcpe": "cpe:/o:brother:mfc-9970cdw_firmware"
 }

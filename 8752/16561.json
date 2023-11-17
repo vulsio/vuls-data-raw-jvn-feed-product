@@ -1,8 +1,8 @@
 {
-  "vid": "8752",
-  "vname": "zonecheck",
-  "vcpe": "cpe:/:zonecheck",
-  "pid": "16561",
-  "pname": "zonecheck",
-  "pcpe": "cpe:/a:zonecheck:zonecheck"
+	"vid": "8752",
+	"vname": "zonecheck",
+	"vcpe": "cpe:/:zonecheck",
+	"pid": "16561",
+	"pname": "zonecheck",
+	"pcpe": "cpe:/a:zonecheck:zonecheck"
 }

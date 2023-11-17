@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "35646",
-  "pname": "USG5120BSR ファームウェア",
-  "pcpe": "cpe:/o:huawei:usg5120bsr_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "35646",
+	"pname": "USG5120BSR ファームウェア",
+	"pcpe": "cpe:/o:huawei:usg5120bsr_firmware"
 }

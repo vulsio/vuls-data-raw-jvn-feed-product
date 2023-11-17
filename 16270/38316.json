@@ -1,8 +1,8 @@
 {
-  "vid": "16270",
-  "vname": "ShenZhen XinRui Electronics Technology Co.,Ltd",
-  "vcpe": "cpe:/:xinruidz",
-  "pid": "38316",
-  "pname": "Sundray WLAN Controller ファームウェア",
-  "pcpe": "cpe:/o:xinruidz:sundray_wan_controller_firmware"
+	"vid": "16270",
+	"vname": "ShenZhen XinRui Electronics Technology Co.,Ltd",
+	"vcpe": "cpe:/:xinruidz",
+	"pid": "38316",
+	"pname": "Sundray WLAN Controller ファームウェア",
+	"pcpe": "cpe:/o:xinruidz:sundray_wan_controller_firmware"
 }

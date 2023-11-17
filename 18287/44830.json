@@ -1,8 +1,8 @@
 {
-  "vid": "18287",
-  "vname": "iSpyConnect",
-  "vcpe": "cpe:/:ispyconnect",
-  "pid": "44830",
-  "pname": "Agent DVR",
-  "pcpe": "cpe:/a:ispyconnect:agent_dvr"
+	"vid": "18287",
+	"vname": "iSpyConnect",
+	"vcpe": "cpe:/:ispyconnect",
+	"pid": "44830",
+	"pname": "Agent DVR",
+	"pcpe": "cpe:/a:ispyconnect:agent_dvr"
 }

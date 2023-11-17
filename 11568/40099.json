@@ -1,8 +1,8 @@
 {
-  "vid": "11568",
-  "vname": "BestWebSoft",
-  "vcpe": "cpe:/:bestwebsoft",
-  "pid": "40099",
-  "pname": "Limit Attempts",
-  "pcpe": "cpe:/a:bestwebsoft:limit_attempts"
+	"vid": "11568",
+	"vname": "BestWebSoft",
+	"vcpe": "cpe:/:bestwebsoft",
+	"pid": "40099",
+	"pname": "Limit Attempts",
+	"pcpe": "cpe:/a:bestwebsoft:limit_attempts"
 }

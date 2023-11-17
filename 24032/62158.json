@@ -1,8 +1,8 @@
 {
-  "vid": "24032",
-  "vname": "sequi",
-  "vcpe": "cpe:/:sequi",
-  "pid": "62158",
-  "pname": "portbloque s ファームウェア",
-  "pcpe": "cpe:/o:sequi:portbloque_s_firmware"
+	"vid": "24032",
+	"vname": "sequi",
+	"vcpe": "cpe:/:sequi",
+	"pid": "62158",
+	"pname": "portbloque s ファームウェア",
+	"pcpe": "cpe:/o:sequi:portbloque_s_firmware"
 }

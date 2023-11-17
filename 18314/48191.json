@@ -1,8 +1,8 @@
 {
-  "vid": "18314",
-  "vname": "Kata Containers",
-  "vcpe": "cpe:/:katacontainers",
-  "pid": "48191",
-  "pname": "Kata Containers",
-  "pcpe": "cpe:/a:katacontainers:kata-containers"
+	"vid": "18314",
+	"vname": "Kata Containers",
+	"vcpe": "cpe:/:katacontainers",
+	"pid": "48191",
+	"pname": "Kata Containers",
+	"pcpe": "cpe:/a:katacontainers:kata-containers"
 }

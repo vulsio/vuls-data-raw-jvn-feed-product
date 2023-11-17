@@ -1,8 +1,8 @@
 {
-  "vid": "20064",
-  "vname": "External Media project",
-  "vcpe": "cpe:/:external_media_project",
-  "pid": "50894",
-  "pname": "External Media",
-  "pcpe": "cpe:/a:external_media_project:external_media"
+	"vid": "20064",
+	"vname": "External Media project",
+	"vcpe": "cpe:/:external_media_project",
+	"pid": "50894",
+	"pname": "External Media",
+	"pcpe": "cpe:/a:external_media_project:external_media"
 }

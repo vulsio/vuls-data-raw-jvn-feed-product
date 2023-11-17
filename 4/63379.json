@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63379",
-  "pname": "HP OfficeJet 6962 All-in-One Printer T0G25A ファームウェア",
-  "pcpe": "cpe:/o:hp:t0g25a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63379",
+	"pname": "HP OfficeJet 6962 All-in-One Printer T0G25A ファームウェア",
+	"pcpe": "cpe:/o:hp:t0g25a_firmware"
 }

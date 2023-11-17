@@ -1,8 +1,8 @@
 {
-  "vid": "9131",
-  "vname": "Phusion B.V.",
-  "vcpe": "cpe:/:phusion",
-  "pid": "19990",
-  "pname": "Juvia",
-  "pcpe": "cpe:/a:phusion:juvia"
+	"vid": "9131",
+	"vname": "Phusion B.V.",
+	"vcpe": "cpe:/:phusion",
+	"pid": "19990",
+	"pname": "Juvia",
+	"pcpe": "cpe:/a:phusion:juvia"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "2564",
-  "pname": "CA Host-Based Intrusion Prevention System",
-  "pcpe": "cpe:/a:ca:host-based_intrusion_prevention_system"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "2564",
+	"pname": "CA Host-Based Intrusion Prevention System",
+	"pcpe": "cpe:/a:ca:host-based_intrusion_prevention_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56762",
-  "pname": "LTE7485-S905 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:lte7485-s905_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56762",
+	"pname": "LTE7485-S905 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:lte7485-s905_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4168",
-  "vname": "Accellion",
-  "vcpe": "cpe:/:accellion",
-  "pid": "57056",
-  "pname": "Kiteworks Managed File Transfer (MFT)",
-  "pcpe": "cpe:/a:accellion:managed_file_transfer"
+	"vid": "4168",
+	"vname": "Accellion",
+	"vcpe": "cpe:/:accellion",
+	"pid": "57056",
+	"pname": "Kiteworks Managed File Transfer (MFT)",
+	"pcpe": "cpe:/a:accellion:managed_file_transfer"
 }

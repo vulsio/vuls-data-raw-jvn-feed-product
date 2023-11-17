@@ -1,8 +1,8 @@
 {
-  "vid": "12456",
-  "vname": "Flexense Ltd.",
-  "vcpe": "cpe:/:flexense",
-  "pid": "32328",
-  "pname": "DiskSavvy",
-  "pcpe": "cpe:/a:flexense:disksavvy"
+	"vid": "12456",
+	"vname": "Flexense Ltd.",
+	"vcpe": "cpe:/:flexense",
+	"pid": "32328",
+	"pname": "DiskSavvy",
+	"pcpe": "cpe:/a:flexense:disksavvy"
 }

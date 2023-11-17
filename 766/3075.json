@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "3075",
-  "pname": "Monitor Pro",
-  "pcpe": "cpe:/a:schneider_electric:monitor_pro"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "3075",
+	"pname": "Monitor Pro",
+	"pcpe": "cpe:/a:schneider_electric:monitor_pro"
 }

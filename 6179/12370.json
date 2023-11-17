@@ -1,8 +1,8 @@
 {
-  "vid": "6179",
-  "vname": "os-cillation",
-  "vcpe": "cpe:/:os-cillation",
-  "pid": "12370",
-  "pname": "xfce terminal",
-  "pcpe": "cpe:/a:os-cillation:xfce_terminal"
+	"vid": "6179",
+	"vname": "os-cillation",
+	"vcpe": "cpe:/:os-cillation",
+	"pid": "12370",
+	"pname": "xfce terminal",
+	"pcpe": "cpe:/a:os-cillation:xfce_terminal"
 }

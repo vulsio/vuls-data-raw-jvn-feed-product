@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "16654",
-  "pname": "sun fire server",
-  "pcpe": "cpe:/h:sun:sun_fire_server"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "16654",
+	"pname": "sun fire server",
+	"pcpe": "cpe:/h:sun:sun_fire_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "269",
-  "vname": "RSAセキュリティ",
-  "vcpe": "cpe:/:rsa",
-  "pid": "933",
-  "pname": "RSA BSAFE Cert-C",
-  "pcpe": "cpe:/a:rsa:bsafe_cert-c"
+	"vid": "269",
+	"vname": "RSAセキュリティ",
+	"vcpe": "cpe:/:rsa",
+	"pid": "933",
+	"pname": "RSA BSAFE Cert-C",
+	"pcpe": "cpe:/a:rsa:bsafe_cert-c"
 }

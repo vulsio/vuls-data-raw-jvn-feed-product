@@ -1,8 +1,8 @@
 {
-  "vid": "64",
-  "vname": "ソースネクスト",
-  "vcpe": "cpe:/:sourcenext",
-  "pid": "26875",
-  "pname": "マネーフォワード",
-  "pcpe": "cpe:/a:sourcenext:money_forward"
+	"vid": "64",
+	"vname": "ソースネクスト",
+	"vcpe": "cpe:/:sourcenext",
+	"pid": "26875",
+	"pname": "マネーフォワード",
+	"pcpe": "cpe:/a:sourcenext:money_forward"
 }

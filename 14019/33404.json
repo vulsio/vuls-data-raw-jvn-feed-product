@@ -1,8 +1,8 @@
 {
-  "vid": "14019",
-  "vname": "Appear TV",
-  "vcpe": "cpe:/:appeartv",
-  "pid": "33404",
-  "pname": "XC5100 ファームウェア",
-  "pcpe": "cpe:/o:appeartv:xc5100_firmware"
+	"vid": "14019",
+	"vname": "Appear TV",
+	"vcpe": "cpe:/:appeartv",
+	"pid": "33404",
+	"pname": "XC5100 ファームウェア",
+	"pcpe": "cpe:/o:appeartv:xc5100_firmware"
 }

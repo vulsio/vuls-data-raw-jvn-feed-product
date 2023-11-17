@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "33610",
-  "pname": "Apache uimaFIT",
-  "pcpe": "cpe:/a:apache:uimafit"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "33610",
+	"pname": "Apache uimaFIT",
+	"pcpe": "cpe:/a:apache:uimafit"
 }

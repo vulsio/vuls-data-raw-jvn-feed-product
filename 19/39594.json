@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "39594",
-  "pname": "Cisco Aironet 3700p ファームウェア",
-  "pcpe": "cpe:/o:cisco:aironet_3700p_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "39594",
+	"pname": "Cisco Aironet 3700p ファームウェア",
+	"pcpe": "cpe:/o:cisco:aironet_3700p_firmware"
 }

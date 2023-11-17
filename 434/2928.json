@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "2928",
-  "pname": "EMC Avamar",
-  "pcpe": "cpe:/a:emc:avamar"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "2928",
+	"pname": "EMC Avamar",
+	"pcpe": "cpe:/a:emc:avamar"
 }

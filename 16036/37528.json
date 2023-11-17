@@ -1,8 +1,8 @@
 {
-  "vid": "16036",
-  "vname": "Drager",
-  "vcpe": "cpe:/:draeger",
-  "pid": "37528",
-  "pname": "Infinity Explorer C700 ファームウェア",
-  "pcpe": "cpe:/o:draeger:infinity_explorer_c700_firmware"
+	"vid": "16036",
+	"vname": "Drager",
+	"vcpe": "cpe:/:draeger",
+	"pid": "37528",
+	"pname": "Infinity Explorer C700 ファームウェア",
+	"pcpe": "cpe:/o:draeger:infinity_explorer_c700_firmware"
 }

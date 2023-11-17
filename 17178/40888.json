@@ -1,8 +1,8 @@
 {
-  "vid": "17178",
-  "vname": "Gigastone Corporation.",
-  "vcpe": "cpe:/:gigastone",
-  "pid": "40888",
-  "pname": "Smart Battery A2-25DE ファームウェア",
-  "pcpe": "cpe:/o:gigastone:smart_battery_a2-25de_firmware"
+	"vid": "17178",
+	"vname": "Gigastone Corporation.",
+	"vcpe": "cpe:/:gigastone",
+	"pid": "40888",
+	"pname": "Smart Battery A2-25DE ファームウェア",
+	"pcpe": "cpe:/o:gigastone:smart_battery_a2-25de_firmware"
 }

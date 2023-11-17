@@ -1,8 +1,8 @@
 {
-  "vid": "12967",
-  "vname": "Octopus Deploy Pty. Ltd.",
-  "vcpe": "cpe:/:octopus",
-  "pid": "53036",
-  "pname": "Halibut",
-  "pcpe": "cpe:/a:octopus:halibut"
+	"vid": "12967",
+	"vname": "Octopus Deploy Pty. Ltd.",
+	"vcpe": "cpe:/:octopus",
+	"pid": "53036",
+	"pname": "Halibut",
+	"pcpe": "cpe:/a:octopus:halibut"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "15235",
-  "pname": "veritas volume replicator",
-  "pcpe": "cpe:/a:symantec:veritas_volume_replicator"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "15235",
+	"pname": "veritas volume replicator",
+	"pcpe": "cpe:/a:symantec:veritas_volume_replicator"
 }

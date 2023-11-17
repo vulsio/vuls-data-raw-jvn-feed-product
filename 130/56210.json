@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "56210",
-  "pname": "Intel Xeon Gold 5115 ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_gold_5115_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "56210",
+	"pname": "Intel Xeon Gold 5115 ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_gold_5115_firmware"
 }

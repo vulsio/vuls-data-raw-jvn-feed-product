@@ -1,8 +1,8 @@
 {
-  "vid": "3260",
-  "vname": "DivX",
-  "vcpe": "cpe:/:divx",
-  "pid": "7377",
-  "pname": "DivX Web Player",
-  "pcpe": "cpe:/a:divx:divx_web_player"
+	"vid": "3260",
+	"vname": "DivX",
+	"vcpe": "cpe:/:divx",
+	"pid": "7377",
+	"pname": "DivX Web Player",
+	"pcpe": "cpe:/a:divx:divx_web_player"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "59845",
-  "pname": "SUSE Manager for Retail Branch Server",
-  "pcpe": "cpe:/a:suse:manager_retail_branch_server"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "59845",
+	"pname": "SUSE Manager for Retail Branch Server",
+	"pcpe": "cpe:/a:suse:manager_retail_branch_server"
 }

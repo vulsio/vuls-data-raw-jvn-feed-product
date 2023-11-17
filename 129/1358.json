@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1358",
-  "pname": "JP1/Cm2/Extensible Agent",
-  "pcpe": "cpe:/a:hitachi:jp1_cm2_extensible_agent"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1358",
+	"pname": "JP1/Cm2/Extensible Agent",
+	"pcpe": "cpe:/a:hitachi:jp1_cm2_extensible_agent"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "9016",
-  "pname": "BIG-IP Edge Gateway",
-  "pcpe": "cpe:/a:f5:big-ip_edge_gateway"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "9016",
+	"pname": "BIG-IP Edge Gateway",
+	"pcpe": "cpe:/a:f5:big-ip_edge_gateway"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "43856",
-  "pname": "Intel NUC 8 Business PC NUC8i7HNKQC ファームウェア",
-  "pcpe": "cpe:/o:intel:nuc_8_business_pc_nuc8i7hnkqc_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "43856",
+	"pname": "Intel NUC 8 Business PC NUC8i7HNKQC ファームウェア",
+	"pcpe": "cpe:/o:intel:nuc_8_business_pc_nuc8i7hnkqc_firmware"
 }

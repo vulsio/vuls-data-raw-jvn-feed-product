@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19444",
-  "pname": "IBM Security Directory Server",
-  "pcpe": "cpe:/a:ibm:security_directory_server"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19444",
+	"pname": "IBM Security Directory Server",
+	"pcpe": "cpe:/a:ibm:security_directory_server"
 }

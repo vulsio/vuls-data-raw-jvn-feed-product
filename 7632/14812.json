@@ -1,8 +1,8 @@
 {
-  "vid": "7632",
-  "vname": "siteadmin",
-  "vcpe": "cpe:/:siteadmin",
-  "pid": "14812",
-  "pname": "cms",
-  "pcpe": "cpe:/a:siteadmin:cms"
+	"vid": "7632",
+	"vname": "siteadmin",
+	"vcpe": "cpe:/:siteadmin",
+	"pid": "14812",
+	"pname": "cms",
+	"pcpe": "cpe:/a:siteadmin:cms"
 }

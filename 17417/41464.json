@@ -1,8 +1,8 @@
 {
-  "vid": "17417",
-  "vname": "Shift Cryptosecurity AG",
-  "vcpe": "cpe:/:shiftcrypto",
-  "pid": "41464",
-  "pname": "BitBox02",
-  "pcpe": "cpe:/o:shiftcrypto:bitbox02"
+	"vid": "17417",
+	"vname": "Shift Cryptosecurity AG",
+	"vcpe": "cpe:/:shiftcrypto",
+	"pid": "41464",
+	"pname": "BitBox02",
+	"pcpe": "cpe:/o:shiftcrypto:bitbox02"
 }

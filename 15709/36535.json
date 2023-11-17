@@ -1,8 +1,8 @@
 {
-  "vid": "15709",
-  "vname": "K-iwi",
-  "vcpe": "cpe:/:k-iwi",
-  "pid": "36535",
-  "pname": "Framework",
-  "pcpe": "cpe:/a:k-iwi:framework"
+	"vid": "15709",
+	"vname": "K-iwi",
+	"vcpe": "cpe:/:k-iwi",
+	"pid": "36535",
+	"pname": "Framework",
+	"pcpe": "cpe:/a:k-iwi:framework"
 }

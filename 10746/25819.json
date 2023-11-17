@@ -1,8 +1,8 @@
 {
-  "vid": "10746",
-  "vname": "DTE Energy Company",
-  "vcpe": "cpe:/:dteenergy",
-  "pid": "25819",
-  "pname": "DTE Insight",
-  "pcpe": "cpe:/a:dteenergy:dte_insight"
+	"vid": "10746",
+	"vname": "DTE Energy Company",
+	"vcpe": "cpe:/:dteenergy",
+	"pid": "25819",
+	"pname": "DTE Insight",
+	"pcpe": "cpe:/a:dteenergy:dte_insight"
 }

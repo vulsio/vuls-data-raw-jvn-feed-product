@@ -1,8 +1,8 @@
 {
-  "vid": "19892",
-  "vname": "gosaml2 project",
-  "vcpe": "cpe:/:gosaml2_project",
-  "pid": "50270",
-  "pname": "gosaml2",
-  "pcpe": "cpe:/a:gosaml2_project:gosaml2"
+	"vid": "19892",
+	"vname": "gosaml2 project",
+	"vcpe": "cpe:/:gosaml2_project",
+	"pid": "50270",
+	"pname": "gosaml2",
+	"pcpe": "cpe:/a:gosaml2_project:gosaml2"
 }

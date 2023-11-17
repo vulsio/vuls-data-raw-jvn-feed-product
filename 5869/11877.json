@@ -1,8 +1,8 @@
 {
-  "vid": "5869",
-  "vname": "myxoops",
-  "vcpe": "cpe:/:myxoops",
-  "pid": "11877",
-  "pname": "debaser",
-  "pcpe": "cpe:/a:myxoops:debaser"
+	"vid": "5869",
+	"vname": "myxoops",
+	"vcpe": "cpe:/:myxoops",
+	"pid": "11877",
+	"pname": "debaser",
+	"pcpe": "cpe:/a:myxoops:debaser"
 }

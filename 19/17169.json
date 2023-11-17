@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17169",
-  "pname": "Cisco TelePresence Server MSE 8710",
-  "pcpe": "cpe:/h:cisco:telepresence_server_mse_8710"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17169",
+	"pname": "Cisco TelePresence Server MSE 8710",
+	"pcpe": "cpe:/h:cisco:telepresence_server_mse_8710"
 }

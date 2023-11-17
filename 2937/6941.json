@@ -1,8 +1,8 @@
 {
-  "vid": "2937",
-  "vname": "compiz",
-  "vcpe": "cpe:/:compiz",
-  "pid": "6941",
-  "pname": "compiz fusion",
-  "pcpe": "cpe:/a:compiz:compiz_fusion"
+	"vid": "2937",
+	"vname": "compiz",
+	"vcpe": "cpe:/:compiz",
+	"pid": "6941",
+	"pname": "compiz fusion",
+	"pcpe": "cpe:/a:compiz:compiz_fusion"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5695",
-  "vname": "Mitel Networks Corporation",
-  "vcpe": "cpe:/:mitel",
-  "pid": "48778",
-  "pname": "Mitel BusinessCTI Enterprise",
-  "pcpe": "cpe:/a:mitel:businesscti_enterprise"
+	"vid": "5695",
+	"vname": "Mitel Networks Corporation",
+	"vcpe": "cpe:/:mitel",
+	"pid": "48778",
+	"pname": "Mitel BusinessCTI Enterprise",
+	"pcpe": "cpe:/a:mitel:businesscti_enterprise"
 }

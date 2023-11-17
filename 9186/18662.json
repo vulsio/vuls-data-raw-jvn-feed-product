@@ -1,8 +1,8 @@
 {
-  "vid": "9186",
-  "vname": "KTH",
-  "vcpe": "cpe:/:kth",
-  "pid": "18662",
-  "pname": "WaveSurfer",
-  "pcpe": "cpe:/a:kth:wavesurfer"
+	"vid": "9186",
+	"vname": "KTH",
+	"vcpe": "cpe:/:kth",
+	"pid": "18662",
+	"pname": "WaveSurfer",
+	"pcpe": "cpe:/a:kth:wavesurfer"
 }

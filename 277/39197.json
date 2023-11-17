@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "39197",
-  "pname": "WE75 ファームウェア",
-  "pcpe": "cpe:/o:sony:we75_firmware"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "39197",
+	"pname": "WE75 ファームウェア",
+	"pcpe": "cpe:/o:sony:we75_firmware"
 }

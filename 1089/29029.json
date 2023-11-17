@@ -1,8 +1,8 @@
 {
-  "vid": "1089",
-  "vname": "Certec EDV",
-  "vcpe": "cpe:/:certec_edv_gmbh",
-  "pid": "29029",
-  "pname": "atvise scada",
-  "pcpe": "cpe:/a:certec_edv_gmbh:atvise_scada"
+	"vid": "1089",
+	"vname": "Certec EDV",
+	"vcpe": "cpe:/:certec_edv_gmbh",
+	"pid": "29029",
+	"pname": "atvise scada",
+	"pcpe": "cpe:/a:certec_edv_gmbh:atvise_scada"
 }

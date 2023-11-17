@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "26316",
-  "pname": "D3600 ファームウェア",
-  "pcpe": "cpe:/o:netgear:d3600_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "26316",
+	"pname": "D3600 ファームウェア",
+	"pcpe": "cpe:/o:netgear:d3600_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20203",
-  "vname": "Fidelis Cybersecurity",
-  "vcpe": "cpe:/:fidelissecurity",
-  "pid": "51438",
-  "pname": "Network",
-  "pcpe": "cpe:/a:fidelissecurity:network"
+	"vid": "20203",
+	"vname": "Fidelis Cybersecurity",
+	"vcpe": "cpe:/:fidelissecurity",
+	"pid": "51438",
+	"pname": "Network",
+	"pcpe": "cpe:/a:fidelissecurity:network"
 }

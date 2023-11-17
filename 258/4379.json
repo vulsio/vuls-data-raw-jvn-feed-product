@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "4379",
-  "pname": "libsoup",
-  "pcpe": "cpe:/a:gnome:libsoup"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "4379",
+	"pname": "libsoup",
+	"pcpe": "cpe:/a:gnome:libsoup"
 }

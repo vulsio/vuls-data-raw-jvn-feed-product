@@ -1,8 +1,8 @@
 {
-  "vid": "9914",
-  "vname": "H3C",
-  "vcpe": "cpe:/:h3c",
-  "pid": "64354",
-  "pname": "a210-g ファームウェア",
-  "pcpe": "cpe:/o:h3c:a210-g_firmware"
+	"vid": "9914",
+	"vname": "H3C",
+	"vcpe": "cpe:/:h3c",
+	"pid": "64354",
+	"pname": "a210-g ファームウェア",
+	"pcpe": "cpe:/o:h3c:a210-g_firmware"
 }

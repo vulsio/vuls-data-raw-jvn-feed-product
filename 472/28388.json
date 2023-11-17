@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "28388",
-  "pname": "Rockwell Automation 1769 CompactLogix 5370 L2 コントローラファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:1769_compactlogix_5370_l2_controller_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "28388",
+	"pname": "Rockwell Automation 1769 CompactLogix 5370 L2 コントローラファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:1769_compactlogix_5370_l2_controller_firmware"
 }

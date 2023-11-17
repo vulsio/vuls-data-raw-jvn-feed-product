@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "63339",
-  "pname": "ole db driver for sql server",
-  "pcpe": "cpe:/a:microsoft:ole_db_driver_for_sql_server"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "63339",
+	"pname": "ole db driver for sql server",
+	"pcpe": "cpe:/a:microsoft:ole_db_driver_for_sql_server"
 }

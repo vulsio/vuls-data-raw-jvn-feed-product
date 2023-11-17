@@ -1,8 +1,8 @@
 {
-  "vid": "20465",
-  "vname": "openBaraza",
-  "vcpe": "cpe:/:openbaraza",
-  "pid": "52120",
-  "pname": "openBaraza HCM",
-  "pcpe": "cpe:/a:openbaraza:openbaraza_human_capital_management"
+	"vid": "20465",
+	"vname": "openBaraza",
+	"vcpe": "cpe:/:openbaraza",
+	"pid": "52120",
+	"pname": "openBaraza HCM",
+	"pcpe": "cpe:/a:openbaraza:openbaraza_human_capital_management"
 }

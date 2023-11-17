@@ -1,8 +1,8 @@
 {
-  "vid": "21253",
-  "vname": "manage project",
-  "vcpe": "cpe:/:manage_project",
-  "pid": "54566",
-  "pname": "manage",
-  "pcpe": "cpe:/a:manage_project:manage"
+	"vid": "21253",
+	"vname": "manage project",
+	"vcpe": "cpe:/:manage_project",
+	"pid": "54566",
+	"pname": "manage",
+	"pcpe": "cpe:/a:manage_project:manage"
 }

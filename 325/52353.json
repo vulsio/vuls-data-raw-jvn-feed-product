@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "52353",
-  "pname": "ideapad Flex 5-15ALC05 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideapad_flex_5-15alc05_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "52353",
+	"pname": "ideapad Flex 5-15ALC05 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideapad_flex_5-15alc05_firmware"
 }

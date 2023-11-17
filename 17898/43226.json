@@ -1,8 +1,8 @@
 {
-  "vid": "17898",
-  "vname": "Phoner",
-  "vcpe": "cpe:/:phoner",
-  "pid": "43226",
-  "pname": "PhonerLite",
-  "pcpe": "cpe:/a:phoner:phonerlite"
+	"vid": "17898",
+	"vname": "Phoner",
+	"vcpe": "cpe:/:phoner",
+	"pid": "43226",
+	"pname": "PhonerLite",
+	"pcpe": "cpe:/a:phoner:phonerlite"
 }

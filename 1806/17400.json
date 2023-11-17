@@ -1,8 +1,8 @@
 {
-  "vid": "1806",
-  "vname": "東芝テック",
-  "vcpe": "cpe:/:toshibatec",
-  "pid": "17400",
-  "pname": "e-STUDIO 181 ネットワークプリンタユニット装着",
-  "pcpe": "cpe:/h:toshibatec:e-studio-181_with_network_printer_kit"
+	"vid": "1806",
+	"vname": "東芝テック",
+	"vcpe": "cpe:/:toshibatec",
+	"pid": "17400",
+	"pname": "e-STUDIO 181 ネットワークプリンタユニット装着",
+	"pcpe": "cpe:/h:toshibatec:e-studio-181_with_network_printer_kit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "53219",
-  "pname": "Latitude 5285 2-IN-1 ファームウェア",
-  "pcpe": "cpe:/o:dell:latitude_5285_2-in-1_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "53219",
+	"pname": "Latitude 5285 2-IN-1 ファームウェア",
+	"pcpe": "cpe:/o:dell:latitude_5285_2-in-1_firmware"
 }

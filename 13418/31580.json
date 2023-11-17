@@ -1,8 +1,8 @@
 {
-  "vid": "13418",
-  "vname": "FortuneScripts",
-  "vcpe": "cpe:/:fortunescripts",
-  "pid": "31580",
-  "pname": "FS Stackoverflow Clone",
-  "pcpe": "cpe:/a:fortunescripts:stackoverflow_clone"
+	"vid": "13418",
+	"vname": "FortuneScripts",
+	"vcpe": "cpe:/:fortunescripts",
+	"pid": "31580",
+	"pname": "FS Stackoverflow Clone",
+	"pcpe": "cpe:/a:fortunescripts:stackoverflow_clone"
 }

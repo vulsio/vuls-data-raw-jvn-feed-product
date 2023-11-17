@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "63821",
-  "pname": "577hota-cm-h-shark-bd ファームウェア",
-  "pcpe": "cpe:/o:huawei:577hota-cm-h-shark-bd_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "63821",
+	"pname": "577hota-cm-h-shark-bd ファームウェア",
+	"pcpe": "cpe:/o:huawei:577hota-cm-h-shark-bd_firmware"
 }

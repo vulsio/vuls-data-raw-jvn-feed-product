@@ -1,8 +1,8 @@
 {
-  "vid": "22762",
-  "vname": "leadtools",
-  "vcpe": "cpe:/:leadtools",
-  "pid": "58568",
-  "pname": "leadtools",
-  "pcpe": "cpe:/a:leadtools:leadtools"
+	"vid": "22762",
+	"vname": "leadtools",
+	"vcpe": "cpe:/:leadtools",
+	"pid": "58568",
+	"pname": "leadtools",
+	"pcpe": "cpe:/a:leadtools:leadtools"
 }

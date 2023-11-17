@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "63134",
-  "pname": "fhir-works-on-aws-authz-smart",
-  "pcpe": "cpe:/a:amazon:fhir-works-on-aws-authz-smart"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "63134",
+	"pname": "fhir-works-on-aws-authz-smart",
+	"pcpe": "cpe:/a:amazon:fhir-works-on-aws-authz-smart"
 }

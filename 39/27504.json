@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "27504",
-  "pname": "Adobe ColdFusion Builder",
-  "pcpe": "cpe:/a:adobe:coldfusion_builder"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "27504",
+	"pname": "Adobe ColdFusion Builder",
+	"pcpe": "cpe:/a:adobe:coldfusion_builder"
 }

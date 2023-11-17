@@ -1,8 +1,8 @@
 {
-  "vid": "13638",
-  "vname": "Max Secure Software.",
-  "vcpe": "cpe:/:maxpcsecure",
-  "pid": "49601",
-  "pname": "Max Spyware Detector",
-  "pcpe": "cpe:/a:maxpcsecure:max_spyware_detector"
+	"vid": "13638",
+	"vname": "Max Secure Software.",
+	"vcpe": "cpe:/:maxpcsecure",
+	"pid": "49601",
+	"pname": "Max Spyware Detector",
+	"pcpe": "cpe:/a:maxpcsecure:max_spyware_detector"
 }

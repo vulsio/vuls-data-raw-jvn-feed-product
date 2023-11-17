@@ -1,8 +1,8 @@
 {
-  "vid": "17745",
-  "vname": "Midori Browser",
-  "vcpe": "cpe:/:midori-browser",
-  "pid": "42619",
-  "pname": "Midori",
-  "pcpe": "cpe:/a:midori-browser:midori"
+	"vid": "17745",
+	"vname": "Midori Browser",
+	"vcpe": "cpe:/:midori-browser",
+	"pid": "42619",
+	"pname": "Midori",
+	"pcpe": "cpe:/a:midori-browser:midori"
 }

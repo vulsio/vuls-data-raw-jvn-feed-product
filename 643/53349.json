@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "53349",
-  "pname": "Dell Isilon InsightIQ",
-  "pcpe": "cpe:/o:dell:isilon_insightiq_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "53349",
+	"pname": "Dell Isilon InsightIQ",
+	"pcpe": "cpe:/o:dell:isilon_insightiq_firmware"
 }

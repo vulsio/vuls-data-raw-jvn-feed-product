@@ -1,8 +1,8 @@
 {
-  "vid": "11732",
-  "vname": "RLE INTERNATIONAL",
-  "vcpe": "cpe:/:rle",
-  "pid": "24226",
-  "pname": "Nova-Wind Turbine HMI",
-  "pcpe": "cpe:/h:rle:nova-wind_turbine_hmi"
+	"vid": "11732",
+	"vname": "RLE INTERNATIONAL",
+	"vcpe": "cpe:/:rle",
+	"pid": "24226",
+	"pname": "Nova-Wind Turbine HMI",
+	"pcpe": "cpe:/h:rle:nova-wind_turbine_hmi"
 }

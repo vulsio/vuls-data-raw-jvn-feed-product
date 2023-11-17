@@ -1,8 +1,8 @@
 {
-  "vid": "9442",
-  "vname": "Franklin Fueling Systems",
-  "vcpe": "cpe:/:franklinfueling",
-  "pid": "19441",
-  "pname": "TS-550 evo ファームウェア",
-  "pcpe": "cpe:/o:franklinfueling:ts-550_evo_firmware"
+	"vid": "9442",
+	"vname": "Franklin Fueling Systems",
+	"vcpe": "cpe:/:franklinfueling",
+	"pid": "19441",
+	"pname": "TS-550 evo ファームウェア",
+	"pcpe": "cpe:/o:franklinfueling:ts-550_evo_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4262",
-  "vname": "ジョンソンコントロールズ",
-  "vcpe": "cpe:/:johnsoncontrols",
-  "pid": "43746",
-  "pname": "NAE55 ファームウェア",
-  "pcpe": "cpe:/o:johnsoncontrols:nae55_firmware"
+	"vid": "4262",
+	"vname": "ジョンソンコントロールズ",
+	"vcpe": "cpe:/:johnsoncontrols",
+	"pid": "43746",
+	"pname": "NAE55 ファームウェア",
+	"pcpe": "cpe:/o:johnsoncontrols:nae55_firmware"
 }

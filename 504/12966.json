@@ -1,8 +1,8 @@
 {
-  "vid": "504",
-  "vname": "Motorola Solutions, Inc",
-  "vcpe": "cpe:/:motorola",
-  "pid": "12966",
-  "pname": "motorazr",
-  "pcpe": "cpe:/h:motorola:motorazr"
+	"vid": "504",
+	"vname": "Motorola Solutions, Inc",
+	"vcpe": "cpe:/:motorola",
+	"pid": "12966",
+	"pname": "motorazr",
+	"pcpe": "cpe:/h:motorola:motorazr"
 }

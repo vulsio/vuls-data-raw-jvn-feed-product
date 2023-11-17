@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "56360",
-  "pname": "QCA7520 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qca7520_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "56360",
+	"pname": "QCA7520 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qca7520_firmware"
 }

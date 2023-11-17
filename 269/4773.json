@@ -1,8 +1,8 @@
 {
-  "vid": "269",
-  "vname": "RSAセキュリティ",
-  "vcpe": "cpe:/:rsa",
-  "pid": "4773",
-  "pname": "adaptive authentication",
-  "pcpe": "cpe:/a:rsa:adaptive_authentication"
+	"vid": "269",
+	"vname": "RSAセキュリティ",
+	"vcpe": "cpe:/:rsa",
+	"pid": "4773",
+	"pname": "adaptive authentication",
+	"pcpe": "cpe:/a:rsa:adaptive_authentication"
 }

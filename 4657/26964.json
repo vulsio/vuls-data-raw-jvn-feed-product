@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26964",
-  "pname": "NetEngine 16EX",
-  "pcpe": "cpe:/h:huawei:netengine_16ex"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26964",
+	"pname": "NetEngine 16EX",
+	"pcpe": "cpe:/h:huawei:netengine_16ex"
 }

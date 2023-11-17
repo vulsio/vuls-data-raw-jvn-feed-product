@@ -1,8 +1,8 @@
 {
-  "vid": "22251",
-  "vname": "Anant Labs",
-  "vcpe": "cpe:/:anant",
-  "pid": "57217",
-  "pname": "google-enterprise-connector-dctm",
-  "pcpe": "cpe:/a:anant:google-enterprise-connector-dctm"
+	"vid": "22251",
+	"vname": "Anant Labs",
+	"vcpe": "cpe:/:anant",
+	"pid": "57217",
+	"pname": "google-enterprise-connector-dctm",
+	"pcpe": "cpe:/a:anant:google-enterprise-connector-dctm"
 }

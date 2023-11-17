@@ -1,8 +1,8 @@
 {
-  "vid": "5471",
-  "vname": "mapos scripts",
-  "vcpe": "cpe:/:mapos_scripts",
-  "pid": "11264",
-  "pname": "bilder uploader",
-  "pcpe": "cpe:/a:mapos_scripts:bilder_uploader"
+	"vid": "5471",
+	"vname": "mapos scripts",
+	"vcpe": "cpe:/:mapos_scripts",
+	"pid": "11264",
+	"pname": "bilder uploader",
+	"pcpe": "cpe:/a:mapos_scripts:bilder_uploader"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13845",
-  "vname": "ZenGuard",
-  "vcpe": "cpe:/:zenmate",
-  "pid": "32880",
-  "pname": "ZenMate",
-  "pcpe": "cpe:/a:zenmate:zenmate"
+	"vid": "13845",
+	"vname": "ZenGuard",
+	"vcpe": "cpe:/:zenmate",
+	"pid": "32880",
+	"pname": "ZenMate",
+	"pcpe": "cpe:/a:zenmate:zenmate"
 }

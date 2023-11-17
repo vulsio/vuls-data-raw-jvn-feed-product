@@ -1,8 +1,8 @@
 {
-  "vid": "15549",
-  "vname": "AlchemyCMS",
-  "vcpe": "cpe:/:alchemy-cms",
-  "pid": "36147",
-  "pname": "AlchemyCMS",
-  "pcpe": "cpe:/a:alchemy-cms:alchemy_cms"
+	"vid": "15549",
+	"vname": "AlchemyCMS",
+	"vcpe": "cpe:/:alchemy-cms",
+	"pid": "36147",
+	"pname": "AlchemyCMS",
+	"pcpe": "cpe:/a:alchemy-cms:alchemy_cms"
 }

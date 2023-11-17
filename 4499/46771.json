@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "46771",
-  "pname": "ネットワークインタフェースボード CC IE Control ユーティリティ",
-  "pcpe": "cpe:/a:mitsubishielectric:network_interface_board_cc_ie_control_utility"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "46771",
+	"pname": "ネットワークインタフェースボード CC IE Control ユーティリティ",
+	"pcpe": "cpe:/a:mitsubishielectric:network_interface_board_cc_ie_control_utility"
 }

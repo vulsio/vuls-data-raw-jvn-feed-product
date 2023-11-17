@@ -1,8 +1,8 @@
 {
-  "vid": "22059",
-  "vname": "コニカミノルタ株式会社",
-  "vcpe": "cpe:/:konicaminolta",
-  "pid": "59659",
-  "pname": "bizhub 4052 ファームウェア",
-  "pcpe": "cpe:/o:konicaminolta:bizhub_4052_firmware"
+	"vid": "22059",
+	"vname": "コニカミノルタ株式会社",
+	"vcpe": "cpe:/:konicaminolta",
+	"pid": "59659",
+	"pname": "bizhub 4052 ファームウェア",
+	"pcpe": "cpe:/o:konicaminolta:bizhub_4052_firmware"
 }

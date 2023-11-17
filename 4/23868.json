@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23868",
-  "pname": "HP Easy Tools",
-  "pcpe": "cpe:/a:hp:easy_tools"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23868",
+	"pname": "HP Easy Tools",
+	"pcpe": "cpe:/a:hp:easy_tools"
 }

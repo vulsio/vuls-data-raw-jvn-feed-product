@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "57587",
-  "pname": "HP Elite x2 G8 Tablet ファームウェア",
-  "pcpe": "cpe:/o:hp:elite_x2_g8_tablet_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "57587",
+	"pname": "HP Elite x2 G8 Tablet ファームウェア",
+	"pcpe": "cpe:/o:hp:elite_x2_g8_tablet_firmware"
 }

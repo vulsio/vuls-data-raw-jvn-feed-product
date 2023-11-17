@@ -1,8 +1,8 @@
 {
-  "vid": "1806",
-  "vname": "東芝テック",
-  "vcpe": "cpe:/:toshibatec",
-  "pid": "17425",
-  "pname": "e-STUDIO 720 ファームウェア",
-  "pcpe": "cpe:/a:toshibatec:e-studio-720_firmware"
+	"vid": "1806",
+	"vname": "東芝テック",
+	"vcpe": "cpe:/:toshibatec",
+	"pid": "17425",
+	"pname": "e-STUDIO 720 ファームウェア",
+	"pcpe": "cpe:/a:toshibatec:e-studio-720_firmware"
 }

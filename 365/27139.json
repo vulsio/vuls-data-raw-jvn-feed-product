@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "27139",
-  "pname": "Citrix Receiver Desktop Lock",
-  "pcpe": "cpe:/a:citrix:receiver_desktop"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "27139",
+	"pname": "Citrix Receiver Desktop Lock",
+	"pcpe": "cpe:/a:citrix:receiver_desktop"
 }

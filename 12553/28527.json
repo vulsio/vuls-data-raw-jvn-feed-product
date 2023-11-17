@@ -1,8 +1,8 @@
 {
-  "vid": "12553",
-  "vname": "AppArmor project",
-  "vcpe": "cpe:/:apparmor",
-  "pid": "28527",
-  "pname": "AppArmor",
-  "pcpe": "cpe:/a:apparmor:apparmor"
+	"vid": "12553",
+	"vname": "AppArmor project",
+	"vcpe": "cpe:/:apparmor",
+	"pid": "28527",
+	"pname": "AppArmor",
+	"pcpe": "cpe:/a:apparmor:apparmor"
 }

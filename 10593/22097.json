@@ -1,8 +1,8 @@
 {
-  "vid": "10593",
-  "vname": "iata",
-  "vcpe": "cpe:/:iata",
-  "pid": "22097",
-  "pname": "airlines international",
-  "pcpe": "cpe:/a:iata:airlines_international"
+	"vid": "10593",
+	"vname": "iata",
+	"vcpe": "cpe:/:iata",
+	"pid": "22097",
+	"pname": "airlines international",
+	"pcpe": "cpe:/a:iata:airlines_international"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1623",
-  "vname": "novo-ws",
-  "vcpe": "cpe:/:novo-ws",
-  "pid": "4651",
-  "pname": "orbis cms",
-  "pcpe": "cpe:/a:novo-ws:orbis_cms"
+	"vid": "1623",
+	"vname": "novo-ws",
+	"vcpe": "cpe:/:novo-ws",
+	"pid": "4651",
+	"pname": "orbis cms",
+	"pcpe": "cpe:/a:novo-ws:orbis_cms"
 }

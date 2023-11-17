@@ -1,8 +1,8 @@
 {
-  "vid": "5637",
-  "vname": "マイクロフォーカス株式会社",
-  "vcpe": "cpe:/:microfocus",
-  "pid": "37999",
-  "pname": "Micro Focus Content Manager",
-  "pcpe": "cpe:/a:microfocus:content_manager"
+	"vid": "5637",
+	"vname": "マイクロフォーカス株式会社",
+	"vcpe": "cpe:/:microfocus",
+	"pid": "37999",
+	"pname": "Micro Focus Content Manager",
+	"pcpe": "cpe:/a:microfocus:content_manager"
 }

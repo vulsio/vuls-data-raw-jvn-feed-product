@@ -1,8 +1,8 @@
 {
-  "vid": "9273",
-  "vname": "SonarSource S.A",
-  "vcpe": "cpe:/:sonarsource",
-  "pid": "36462",
-  "pname": "SonarQube",
-  "pcpe": "cpe:/a:sonarsource:sonarqube"
+	"vid": "9273",
+	"vname": "SonarSource S.A",
+	"vcpe": "cpe:/:sonarsource",
+	"pid": "36462",
+	"pname": "SonarQube",
+	"pcpe": "cpe:/a:sonarsource:sonarqube"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "21596",
-  "pname": "SAP Payroll Process",
-  "pcpe": "cpe:/a:sap:payroll_process"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "21596",
+	"pname": "SAP Payroll Process",
+	"pcpe": "cpe:/a:sap:payroll_process"
 }

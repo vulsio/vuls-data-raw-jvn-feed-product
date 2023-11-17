@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "22656",
-  "pname": "ds audio",
-  "pcpe": "cpe:/a:synology:ds_audio"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "22656",
+	"pname": "ds audio",
+	"pcpe": "cpe:/a:synology:ds_audio"
 }

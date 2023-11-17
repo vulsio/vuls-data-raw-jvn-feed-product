@@ -1,8 +1,8 @@
 {
-  "vid": "2912",
-  "vname": "coinsoft technologies",
-  "vcpe": "cpe:/:coinsoft_technologies",
-  "pid": "6900",
-  "pname": "phpcoin",
-  "pcpe": "cpe:/a:coinsoft_technologies:phpcoin"
+	"vid": "2912",
+	"vname": "coinsoft technologies",
+	"vcpe": "cpe:/:coinsoft_technologies",
+	"pid": "6900",
+	"pname": "phpcoin",
+	"pcpe": "cpe:/a:coinsoft_technologies:phpcoin"
 }

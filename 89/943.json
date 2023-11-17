@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "943",
-  "pname": "EnterpriseDirectoryServer",
-  "pcpe": "cpe:/a:nec:enterprise_directoryserver"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "943",
+	"pname": "EnterpriseDirectoryServer",
+	"pcpe": "cpe:/a:nec:enterprise_directoryserver"
 }

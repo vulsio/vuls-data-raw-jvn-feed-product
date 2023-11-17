@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "19523",
-  "pname": "XenMobile Device Manager",
-  "pcpe": "cpe:/a:citrix:xenmobile_device_manager"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "19523",
+	"pname": "XenMobile Device Manager",
+	"pcpe": "cpe:/a:citrix:xenmobile_device_manager"
 }

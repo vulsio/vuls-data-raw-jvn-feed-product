@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26523",
-  "pname": "HPE IMC NTA",
-  "pcpe": "cpe:/a:hp:intelligent_management_center_network_traffic_analyzer"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26523",
+	"pname": "HPE IMC NTA",
+	"pcpe": "cpe:/a:hp:intelligent_management_center_network_traffic_analyzer"
 }

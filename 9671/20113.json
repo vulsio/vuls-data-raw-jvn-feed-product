@@ -1,8 +1,8 @@
 {
-  "vid": "9671",
-  "vname": "lxml",
-  "vcpe": "cpe:/:lxml",
-  "pid": "20113",
-  "pname": "lxml",
-  "pcpe": "cpe:/a:lxml:lxml"
+	"vid": "9671",
+	"vname": "lxml",
+	"vcpe": "cpe:/:lxml",
+	"pid": "20113",
+	"pname": "lxml",
+	"pcpe": "cpe:/a:lxml:lxml"
 }

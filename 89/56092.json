@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "56092",
-  "pname": "P34W・P36K・P31X シリーズ用 Intel(R) Converged Security and Management Engine ファームウェア",
-  "pcpe": "cpe:/o:nec:intel_converged_security_and_management_engine_p34w_p36k_p31x_series"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "56092",
+	"pname": "P34W・P36K・P31X シリーズ用 Intel(R) Converged Security and Management Engine ファームウェア",
+	"pcpe": "cpe:/o:nec:intel_converged_security_and_management_engine_p34w_p36k_p31x_series"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "38635",
-  "pname": "Pano",
-  "pcpe": "cpe:/a:polycom:pano"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "38635",
+	"pname": "Pano",
+	"pcpe": "cpe:/a:polycom:pano"
 }

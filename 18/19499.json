@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19499",
-  "pname": "IBM General Parallel File System",
-  "pcpe": "cpe:/a:ibm:general_parallel_file_system"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19499",
+	"pname": "IBM General Parallel File System",
+	"pcpe": "cpe:/a:ibm:general_parallel_file_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24036",
-  "vname": "dproxy-nexgen project",
-  "vcpe": "cpe:/:dproxy-nexgen_project",
-  "pid": "62172",
-  "pname": "dproxy-nexgen",
-  "pcpe": "cpe:/a:dproxy-nexgen_project:dproxy-nexgen"
+	"vid": "24036",
+	"vname": "dproxy-nexgen project",
+	"vcpe": "cpe:/:dproxy-nexgen_project",
+	"pid": "62172",
+	"pname": "dproxy-nexgen",
+	"pcpe": "cpe:/a:dproxy-nexgen_project:dproxy-nexgen"
 }

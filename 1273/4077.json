@@ -1,8 +1,8 @@
 {
-  "vid": "1273",
-  "vname": "idevSpot",
-  "vcpe": "cpe:/:idevspot",
-  "pid": "4077",
-  "pname": "IDevSpot idev-BusinessDirectory",
-  "pcpe": "cpe:/a:idevspot:idev-businessdirectory"
+	"vid": "1273",
+	"vname": "idevSpot",
+	"vcpe": "cpe:/:idevspot",
+	"pid": "4077",
+	"pname": "IDevSpot idev-BusinessDirectory",
+	"pcpe": "cpe:/a:idevspot:idev-businessdirectory"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15828",
-  "vname": "Modbus Tools",
-  "vcpe": "cpe:/:modbustools",
-  "pid": "36886",
-  "pname": "Modbus Slave",
-  "pcpe": "cpe:/a:modbustools:modbus_slave"
+	"vid": "15828",
+	"vname": "Modbus Tools",
+	"vcpe": "cpe:/:modbustools",
+	"pid": "36886",
+	"pname": "Modbus Slave",
+	"pcpe": "cpe:/a:modbustools:modbus_slave"
 }

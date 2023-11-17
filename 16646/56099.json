@@ -1,8 +1,8 @@
 {
-  "vid": "16646",
-  "vname": "Discourse",
-  "vcpe": "cpe:/:discourse",
-  "pid": "56099",
-  "pname": "Mermaid",
-  "pcpe": "cpe:/a:discourse:mermaid"
+	"vid": "16646",
+	"vname": "Discourse",
+	"vcpe": "cpe:/:discourse",
+	"pid": "56099",
+	"pname": "Mermaid",
+	"pcpe": "cpe:/a:discourse:mermaid"
 }

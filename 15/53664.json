@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53664",
-  "pname": "Oracle Communications MetaSolv Solution",
-  "pcpe": "cpe:/a:oracle:communications_metasolv_solution"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53664",
+	"pname": "Oracle Communications MetaSolv Solution",
+	"pcpe": "cpe:/a:oracle:communications_metasolv_solution"
 }

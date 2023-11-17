@@ -1,8 +1,8 @@
 {
-  "vid": "4043",
-  "vname": "graugon",
-  "vcpe": "cpe:/:graugon",
-  "pid": "8523",
-  "pname": "php article publisher",
-  "pcpe": "cpe:/a:graugon:php_article_publisher"
+	"vid": "4043",
+	"vname": "graugon",
+	"vcpe": "cpe:/:graugon",
+	"pid": "8523",
+	"pname": "php article publisher",
+	"pcpe": "cpe:/a:graugon:php_article_publisher"
 }

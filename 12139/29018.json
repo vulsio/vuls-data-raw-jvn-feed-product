@@ -1,8 +1,8 @@
 {
-  "vid": "12139",
-  "vname": "国土地理院",
-  "vcpe": "cpe:/:gsi",
-  "pid": "29018",
-  "pname": "セミ・ダイナミック補正支援ソフトウェア",
-  "pcpe": "cpe:/a:gsi:semidynaexe"
+	"vid": "12139",
+	"vname": "国土地理院",
+	"vcpe": "cpe:/:gsi",
+	"pid": "29018",
+	"pname": "セミ・ダイナミック補正支援ソフトウェア",
+	"pcpe": "cpe:/a:gsi:semidynaexe"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20792",
-  "vname": "Coder",
-  "vcpe": "cpe:/:coder",
-  "pid": "53048",
-  "pname": "code-server",
-  "pcpe": "cpe:/a:coder:code-server"
+	"vid": "20792",
+	"vname": "Coder",
+	"vcpe": "cpe:/:coder",
+	"pid": "53048",
+	"pname": "code-server",
+	"pcpe": "cpe:/a:coder:code-server"
 }

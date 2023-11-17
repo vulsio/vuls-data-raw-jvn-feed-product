@@ -1,8 +1,8 @@
 {
-  "vid": "17881",
-  "vname": "Schmid Telecom Zurich",
-  "vcpe": "cpe:/:schmid-telecom",
-  "pid": "43151",
-  "pname": "Schmid ZI 620 V400 ファームウェア",
-  "pcpe": "cpe:/o:schmid-telecom:zi_620_v400_firmware"
+	"vid": "17881",
+	"vname": "Schmid Telecom Zurich",
+	"vcpe": "cpe:/:schmid-telecom",
+	"pid": "43151",
+	"pname": "Schmid ZI 620 V400 ファームウェア",
+	"pcpe": "cpe:/o:schmid-telecom:zi_620_v400_firmware"
 }

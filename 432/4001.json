@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "4001",
-  "pname": "Robot Communications Runtime",
-  "pcpe": "cpe:/a:abb:robot_communications_runtime"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "4001",
+	"pname": "Robot Communications Runtime",
+	"pcpe": "cpe:/a:abb:robot_communications_runtime"
 }

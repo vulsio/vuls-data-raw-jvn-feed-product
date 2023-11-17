@@ -1,8 +1,8 @@
 {
-  "vid": "1648",
-  "vname": "Pentaho Corporation",
-  "vcpe": "cpe:/:pentaho",
-  "pid": "4691",
-  "pname": "bi server",
-  "pcpe": "cpe:/a:pentaho:bi_server"
+	"vid": "1648",
+	"vname": "Pentaho Corporation",
+	"vcpe": "cpe:/:pentaho",
+	"pid": "4691",
+	"pname": "bi server",
+	"pcpe": "cpe:/a:pentaho:bi_server"
 }

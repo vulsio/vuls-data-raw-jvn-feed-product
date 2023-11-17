@@ -1,8 +1,8 @@
 {
-  "vid": "20043",
-  "vname": "Bytecode Alliance",
-  "vcpe": "cpe:/:bytecodealliance",
-  "pid": "52767",
-  "pname": "wasmtime",
-  "pcpe": "cpe:/a:bytecodealliance:wasmtime"
+	"vid": "20043",
+	"vname": "Bytecode Alliance",
+	"vcpe": "cpe:/:bytecodealliance",
+	"pid": "52767",
+	"pname": "wasmtime",
+	"pcpe": "cpe:/a:bytecodealliance:wasmtime"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8316",
-  "vname": "virtualsystem",
-  "vcpe": "cpe:/:virtualsystem",
-  "pid": "15897",
-  "pname": "htaccess passwort generator",
-  "pcpe": "cpe:/a:virtualsystem:htaccess_passwort_generator"
+	"vid": "8316",
+	"vname": "virtualsystem",
+	"vcpe": "cpe:/:virtualsystem",
+	"pid": "15897",
+	"pname": "htaccess passwort generator",
+	"pcpe": "cpe:/a:virtualsystem:htaccess_passwort_generator"
 }

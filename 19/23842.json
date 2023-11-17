@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23842",
-  "pname": "Catalyst 4510R-E スイッチ",
-  "pcpe": "cpe:/h:cisco:catalyst_4510r-e"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23842",
+	"pname": "Catalyst 4510R-E スイッチ",
+	"pcpe": "cpe:/h:cisco:catalyst_4510r-e"
 }

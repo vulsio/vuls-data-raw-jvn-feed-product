@@ -1,8 +1,8 @@
 {
-  "vid": "4191",
-  "vname": "files2links",
-  "vcpe": "cpe:/:files2links",
-  "pid": "8867",
-  "pname": "f2l 3000 appliance",
-  "pcpe": "cpe:/h:files2links:f2l_3000_appliance"
+	"vid": "4191",
+	"vname": "files2links",
+	"vcpe": "cpe:/:files2links",
+	"pid": "8867",
+	"pname": "f2l 3000 appliance",
+	"pcpe": "cpe:/h:files2links:f2l_3000_appliance"
 }

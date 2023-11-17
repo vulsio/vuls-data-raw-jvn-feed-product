@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "14516",
-  "pname": "server core",
-  "pcpe": "cpe:/a:sap:server_core"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "14516",
+	"pname": "server core",
+	"pcpe": "cpe:/a:sap:server_core"
 }

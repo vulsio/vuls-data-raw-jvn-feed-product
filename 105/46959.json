@@ -1,8 +1,8 @@
 {
-  "vid": "105",
-  "vname": "Ruby-lang.org",
-  "vcpe": "cpe:/:ruby-lang",
-  "pid": "46959",
-  "pname": "Webrick",
-  "pcpe": "cpe:/a:ruby-lang:webrick"
+	"vid": "105",
+	"vname": "Ruby-lang.org",
+	"vcpe": "cpe:/:ruby-lang",
+	"pid": "46959",
+	"pname": "Webrick",
+	"pcpe": "cpe:/a:ruby-lang:webrick"
 }

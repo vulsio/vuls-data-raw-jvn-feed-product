@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "40964",
-  "pname": "JP1/Data Highway",
-  "pcpe": "cpe:/a:hitachi:jp1_data_highway"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "40964",
+	"pname": "JP1/Data Highway",
+	"pcpe": "cpe:/a:hitachi:jp1_data_highway"
 }

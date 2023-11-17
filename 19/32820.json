@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "32820",
-  "pname": "仮想マネージド サービス",
-  "pcpe": "cpe:/a:cisco:virtual_managed_services"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "32820",
+	"pname": "仮想マネージド サービス",
+	"pcpe": "cpe:/a:cisco:virtual_managed_services"
 }

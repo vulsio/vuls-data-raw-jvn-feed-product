@@ -1,8 +1,8 @@
 {
-  "vid": "13084",
-  "vname": "LDAP / SSO Authentication project",
-  "vcpe": "cpe:/:ldap_%2F_sso_authentication_project",
-  "pid": "30480",
-  "pname": "LDAP / SSO Authentication",
-  "pcpe": "cpe:/a:ldap_%2F_sso_authentication_project:ldap_%2F_sso_authentication"
+	"vid": "13084",
+	"vname": "LDAP / SSO Authentication project",
+	"vcpe": "cpe:/:ldap_%2F_sso_authentication_project",
+	"pid": "30480",
+	"pname": "LDAP / SSO Authentication",
+	"pcpe": "cpe:/a:ldap_%2F_sso_authentication_project:ldap_%2F_sso_authentication"
 }

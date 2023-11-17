@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20936",
-  "pname": "IBM Worklight Foundation",
-  "pcpe": "cpe:/a:ibm:worklight"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20936",
+	"pname": "IBM Worklight Foundation",
+	"pcpe": "cpe:/a:ibm:worklight"
 }

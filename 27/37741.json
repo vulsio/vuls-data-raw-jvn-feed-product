@@ -1,8 +1,8 @@
 {
-  "vid": "27",
-  "vname": "Mozilla Foundation",
-  "vcpe": "cpe:/:mozilla",
-  "pid": "37741",
-  "pname": "MozJPEG",
-  "pcpe": "cpe:/a:mozilla:mozjpeg"
+	"vid": "27",
+	"vname": "Mozilla Foundation",
+	"vcpe": "cpe:/:mozilla",
+	"pid": "37741",
+	"pname": "MozJPEG",
+	"pcpe": "cpe:/a:mozilla:mozjpeg"
 }

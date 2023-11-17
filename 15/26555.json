@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26555",
-  "pname": "Oracle Documaker",
-  "pcpe": "cpe:/a:oracle:documaker"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26555",
+	"pname": "Oracle Documaker",
+	"pcpe": "cpe:/a:oracle:documaker"
 }

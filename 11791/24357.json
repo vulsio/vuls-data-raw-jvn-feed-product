@@ -1,8 +1,8 @@
 {
-  "vid": "11791",
-  "vname": "AudioShare Audio Sharing Script",
-  "vcpe": "cpe:/:audiosharescript",
-  "pid": "24357",
-  "pname": "AudioShare",
-  "pcpe": "cpe:/a:audiosharescript:audioshare"
+	"vid": "11791",
+	"vname": "AudioShare Audio Sharing Script",
+	"vcpe": "cpe:/:audiosharescript",
+	"pid": "24357",
+	"pname": "AudioShare",
+	"pcpe": "cpe:/a:audiosharescript:audioshare"
 }

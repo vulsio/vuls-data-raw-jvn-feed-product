@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47188",
-  "pname": "PM215 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:pm215_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47188",
+	"pname": "PM215 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:pm215_firmware"
 }

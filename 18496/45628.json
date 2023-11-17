@@ -1,8 +1,8 @@
 {
-  "vid": "18496",
-  "vname": "JupyterHub",
-  "vcpe": "cpe:/:jupyterhub",
-  "pid": "45628",
-  "pname": "kubespawner",
-  "pcpe": "cpe:/a:jupyterhub:kubespawner"
+	"vid": "18496",
+	"vname": "JupyterHub",
+	"vcpe": "cpe:/:jupyterhub",
+	"pid": "45628",
+	"pname": "kubespawner",
+	"pcpe": "cpe:/a:jupyterhub:kubespawner"
 }

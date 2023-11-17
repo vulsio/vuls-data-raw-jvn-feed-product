@@ -1,8 +1,8 @@
 {
-  "vid": "23794",
-  "vname": "FastCMS project",
-  "vcpe": "cpe:/:fastcms_project",
-  "pid": "61545",
-  "pname": "FastCMS",
-  "pcpe": "cpe:/a:fastcms_project:fastcms"
+	"vid": "23794",
+	"vname": "FastCMS project",
+	"vcpe": "cpe:/:fastcms_project",
+	"pid": "61545",
+	"pname": "FastCMS",
+	"pcpe": "cpe:/a:fastcms_project:fastcms"
 }

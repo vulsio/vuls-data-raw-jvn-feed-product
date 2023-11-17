@@ -1,8 +1,8 @@
 {
-  "vid": "22061",
-  "vname": "ecto project",
-  "vcpe": "cpe:/:ecto_project",
-  "pid": "56625",
-  "pname": "ecto",
-  "pcpe": "cpe:/a:ecto_project:ecto"
+	"vid": "22061",
+	"vname": "ecto project",
+	"vcpe": "cpe:/:ecto_project",
+	"pid": "56625",
+	"pname": "ecto",
+	"pcpe": "cpe:/a:ecto_project:ecto"
 }

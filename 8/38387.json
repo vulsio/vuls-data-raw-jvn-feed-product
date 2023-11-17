@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "38387",
-  "pname": "Zeppelin",
-  "pcpe": "cpe:/a:apache:zeppelin"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "38387",
+	"pname": "Zeppelin",
+	"pcpe": "cpe:/a:apache:zeppelin"
 }

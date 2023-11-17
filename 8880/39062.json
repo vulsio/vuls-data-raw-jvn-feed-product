@@ -1,8 +1,8 @@
 {
-  "vid": "8880",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron_2",
-  "pid": "39062",
-  "pname": "Network Configurator for DeviceNet Safety",
-  "pcpe": "cpe:/a:omron_2:network_configurator_for_devicenet_safety"
+	"vid": "8880",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron_2",
+	"pid": "39062",
+	"pname": "Network Configurator for DeviceNet Safety",
+	"pcpe": "cpe:/a:omron_2:network_configurator_for_devicenet_safety"
 }

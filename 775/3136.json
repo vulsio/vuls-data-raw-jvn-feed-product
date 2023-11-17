@@ -1,8 +1,8 @@
 {
-  "vid": "775",
-  "vname": "Sitecom",
-  "vcpe": "cpe:/:sitecom",
-  "pid": "3136",
-  "pname": "WL-153 Router Firmware",
-  "pcpe": "cpe:/a:sitecom:wl-153"
+	"vid": "775",
+	"vname": "Sitecom",
+	"vcpe": "cpe:/:sitecom",
+	"pid": "3136",
+	"pname": "WL-153 Router Firmware",
+	"pcpe": "cpe:/a:sitecom:wl-153"
 }

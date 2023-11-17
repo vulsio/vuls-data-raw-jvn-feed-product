@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47079",
-  "pname": "Qualcomm Mobile Access Point",
-  "pcpe": "cpe:/a:qualcomm:qualcomm_mobile_access_point"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47079",
+	"pname": "Qualcomm Mobile Access Point",
+	"pcpe": "cpe:/a:qualcomm:qualcomm_mobile_access_point"
 }

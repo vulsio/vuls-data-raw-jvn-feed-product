@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "9266",
-  "pname": "EMC LifeLine",
-  "pcpe": "cpe:/o:emc:lifeline"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "9266",
+	"pname": "EMC LifeLine",
+	"pcpe": "cpe:/o:emc:lifeline"
 }

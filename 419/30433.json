@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "30433",
-  "pname": "NetApp StorageGRID Webscale",
-  "pcpe": "cpe:/a:netapp:storagegrid_webscale"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "30433",
+	"pname": "NetApp StorageGRID Webscale",
+	"pcpe": "cpe:/a:netapp:storagegrid_webscale"
 }

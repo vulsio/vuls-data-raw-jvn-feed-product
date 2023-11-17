@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "757",
-  "pname": "Cisco FastHub 300 シリーズ",
-  "pcpe": "cpe:/h:cisco:fasthub_300"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "757",
+	"pname": "Cisco FastHub 300 シリーズ",
+	"pcpe": "cpe:/h:cisco:fasthub_300"
 }

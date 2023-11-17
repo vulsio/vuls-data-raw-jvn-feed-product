@@ -1,8 +1,8 @@
 {
-  "vid": "18861",
-  "vname": "Bender",
-  "vcpe": "cpe:/:bender",
-  "pid": "47043",
-  "pname": "COMTRAXX COM465IP ファームウェア",
-  "pcpe": "cpe:/o:bender:com465ip_firmware"
+	"vid": "18861",
+	"vname": "Bender",
+	"vcpe": "cpe:/:bender",
+	"pid": "47043",
+	"pname": "COMTRAXX COM465IP ファームウェア",
+	"pcpe": "cpe:/o:bender:com465ip_firmware"
 }

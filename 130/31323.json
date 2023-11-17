@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "31323",
-  "pname": "Active Management Technology",
-  "pcpe": "cpe:/o:intel:active_management_technology"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "31323",
+	"pname": "Active Management Technology",
+	"pcpe": "cpe:/o:intel:active_management_technology"
 }

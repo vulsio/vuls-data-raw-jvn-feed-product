@@ -1,8 +1,8 @@
 {
-  "vid": "17809",
-  "vname": "KMS Controls",
-  "vcpe": "cpe:/:kmccontrols",
-  "pid": "42897",
-  "pname": "BAC-A1616BC ファームウェア",
-  "pcpe": "cpe:/o:kmccontrols:bac-a1616bc_firmware"
+	"vid": "17809",
+	"vname": "KMS Controls",
+	"vcpe": "cpe:/:kmccontrols",
+	"pid": "42897",
+	"pname": "BAC-A1616BC ファームウェア",
+	"pcpe": "cpe:/o:kmccontrols:bac-a1616bc_firmware"
 }

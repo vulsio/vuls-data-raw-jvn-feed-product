@@ -1,8 +1,8 @@
 {
-  "vid": "912",
-  "vname": "ASP indir",
-  "vcpe": "cpe:/:aspindir",
-  "pid": "6007",
-  "pname": "uranyumsoft listing service",
-  "pcpe": "cpe:/a:aspindir:uranyumsoft_listing_service"
+	"vid": "912",
+	"vname": "ASP indir",
+	"vcpe": "cpe:/:aspindir",
+	"pid": "6007",
+	"pname": "uranyumsoft listing service",
+	"pcpe": "cpe:/a:aspindir:uranyumsoft_listing_service"
 }

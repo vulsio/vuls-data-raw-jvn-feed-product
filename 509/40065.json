@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "40065",
-  "pname": "SAP Commerce Cloud",
-  "pcpe": "cpe:/a:sap:commerce_cloud"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "40065",
+	"pname": "SAP Commerce Cloud",
+	"pcpe": "cpe:/a:sap:commerce_cloud"
 }

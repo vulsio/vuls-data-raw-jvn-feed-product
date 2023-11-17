@@ -1,8 +1,8 @@
 {
-  "vid": "16928",
-  "vname": "Texas Instruments Incorporated (TI)",
-  "vcpe": "cpe:/:ti",
-  "pid": "57194",
-  "pname": "CC3100 ファームウェア",
-  "pcpe": "cpe:/o:ti:cc3100_firmware"
+	"vid": "16928",
+	"vname": "Texas Instruments Incorporated (TI)",
+	"vcpe": "cpe:/:ti",
+	"pid": "57194",
+	"pname": "CC3100 ファームウェア",
+	"pcpe": "cpe:/o:ti:cc3100_firmware"
 }

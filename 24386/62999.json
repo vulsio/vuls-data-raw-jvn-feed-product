@@ -1,8 +1,8 @@
 {
-  "vid": "24386",
-  "vname": "gettext override translations project",
-  "vcpe": "cpe:/:gettext_override_translations_project",
-  "pid": "62999",
-  "pname": "gettext override translations",
-  "pcpe": "cpe:/a:gettext_override_translations_project:gettext_override_translations"
+	"vid": "24386",
+	"vname": "gettext override translations project",
+	"vcpe": "cpe:/:gettext_override_translations_project",
+	"pid": "62999",
+	"pname": "gettext override translations",
+	"pcpe": "cpe:/a:gettext_override_translations_project:gettext_override_translations"
 }

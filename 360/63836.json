@@ -1,8 +1,8 @@
 {
-  "vid": "360",
-  "vname": "Ruby on Rails project",
-  "vcpe": "cpe:/:rubyonrails",
-  "pid": "63836",
-  "pname": "rails",
-  "pcpe": "cpe:/a:rubyonrails:rails"
+	"vid": "360",
+	"vname": "Ruby on Rails project",
+	"vcpe": "cpe:/:rubyonrails",
+	"pid": "63836",
+	"pname": "rails",
+	"pcpe": "cpe:/a:rubyonrails:rails"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23877",
-  "vname": "snyk",
-  "vcpe": "cpe:/:snyk",
-  "pid": "61767",
-  "pname": "broker",
-  "pcpe": "cpe:/a:snyk:broker"
+	"vid": "23877",
+	"vname": "snyk",
+	"vcpe": "cpe:/:snyk",
+	"pid": "61767",
+	"pname": "broker",
+	"pcpe": "cpe:/a:snyk:broker"
 }

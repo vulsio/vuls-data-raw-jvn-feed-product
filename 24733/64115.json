@@ -1,8 +1,8 @@
 {
-  "vid": "24733",
-  "vname": "opendev",
-  "vcpe": "cpe:/:opendev",
-  "pid": "64115",
-  "pname": "virtualbmc",
-  "pcpe": "cpe:/a:opendev:virtualbmc"
+	"vid": "24733",
+	"vname": "opendev",
+	"vcpe": "cpe:/:opendev",
+	"pid": "64115",
+	"pname": "virtualbmc",
+	"pcpe": "cpe:/a:opendev:virtualbmc"
 }

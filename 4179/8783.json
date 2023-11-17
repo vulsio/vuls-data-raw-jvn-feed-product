@@ -1,8 +1,8 @@
 {
-  "vid": "4179",
-  "vname": "centrality communications",
-  "vcpe": "cpe:/:centrality_communications",
-  "pid": "8783",
-  "pname": "pa168 chipset",
-  "pcpe": "cpe:/h:centrality_communications:pa168_chipset"
+	"vid": "4179",
+	"vname": "centrality communications",
+	"vcpe": "cpe:/:centrality_communications",
+	"pid": "8783",
+	"pname": "pa168 chipset",
+	"pcpe": "cpe:/h:centrality_communications:pa168_chipset"
 }

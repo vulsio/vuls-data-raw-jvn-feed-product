@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45122",
-  "pname": "E42-80 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:e42-80_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45122",
+	"pname": "E42-80 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:e42-80_firmware"
 }

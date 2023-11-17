@@ -1,8 +1,8 @@
 {
-  "vid": "17550",
-  "vname": "Eracent",
-  "vcpe": "cpe:/:eracent",
-  "pid": "42017",
-  "pname": "EPA Agent",
-  "pcpe": "cpe:/a:eracent:epa_agent"
+	"vid": "17550",
+	"vname": "Eracent",
+	"vcpe": "cpe:/:eracent",
+	"pid": "42017",
+	"pname": "EPA Agent",
+	"pcpe": "cpe:/a:eracent:epa_agent"
 }

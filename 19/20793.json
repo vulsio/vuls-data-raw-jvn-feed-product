@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "20793",
-  "pname": "Cisco Nexus 6001 スイッチ",
-  "pcpe": "cpe:/h:cisco:nexus_6001"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "20793",
+	"pname": "Cisco Nexus 6001 スイッチ",
+	"pcpe": "cpe:/h:cisco:nexus_6001"
 }

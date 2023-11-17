@@ -1,8 +1,8 @@
 {
-  "vid": "21614",
-  "vname": "Plugin Logic project",
-  "vcpe": "cpe:/:plugin_logic_project",
-  "pid": "55527",
-  "pname": "Plugin Logic",
-  "pcpe": "cpe:/a:plugin_logic_project:plugin_logic"
+	"vid": "21614",
+	"vname": "Plugin Logic project",
+	"vcpe": "cpe:/:plugin_logic_project",
+	"pid": "55527",
+	"pname": "Plugin Logic",
+	"pcpe": "cpe:/a:plugin_logic_project:plugin_logic"
 }

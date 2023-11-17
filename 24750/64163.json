@@ -1,8 +1,8 @@
 {
-  "vid": "24750",
-  "vname": "fastest-json-copy project",
-  "vcpe": "cpe:/:fastest-json-copy_project",
-  "pid": "64163",
-  "pname": "fastest-json-copy",
-  "pcpe": "cpe:/a:fastest-json-copy_project:fastest-json-copy"
+	"vid": "24750",
+	"vname": "fastest-json-copy project",
+	"vcpe": "cpe:/:fastest-json-copy_project",
+	"pid": "64163",
+	"pname": "fastest-json-copy",
+	"pcpe": "cpe:/a:fastest-json-copy_project:fastest-json-copy"
 }

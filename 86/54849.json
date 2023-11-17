@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "54849",
-  "pname": "WSR-2533DHPLS ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wsr-2533dhpls_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "54849",
+	"pname": "WSR-2533DHPLS ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wsr-2533dhpls_firmware"
 }

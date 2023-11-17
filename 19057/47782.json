@@ -1,8 +1,8 @@
 {
-  "vid": "19057",
-  "vname": "ipTIME",
-  "vcpe": "cpe:/:iptime",
-  "pid": "47782",
-  "pname": "ipTIME NAS4dual ファームウェア",
-  "pcpe": "cpe:/o:iptime:nas4dual_firmware"
+	"vid": "19057",
+	"vname": "ipTIME",
+	"vcpe": "cpe:/:iptime",
+	"pid": "47782",
+	"pname": "ipTIME NAS4dual ファームウェア",
+	"pcpe": "cpe:/o:iptime:nas4dual_firmware"
 }

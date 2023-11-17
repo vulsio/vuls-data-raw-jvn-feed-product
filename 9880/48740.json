@@ -1,8 +1,8 @@
 {
-  "vid": "9880",
-  "vname": "Docker",
-  "vcpe": "cpe:/:docker",
-  "pid": "48740",
-  "pname": "composer docker image",
-  "pcpe": "cpe:/a:docker:composer_docker_image"
+	"vid": "9880",
+	"vname": "Docker",
+	"vcpe": "cpe:/:docker",
+	"pid": "48740",
+	"pname": "composer docker image",
+	"pcpe": "cpe:/a:docker:composer_docker_image"
 }

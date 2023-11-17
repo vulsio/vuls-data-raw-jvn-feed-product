@@ -1,8 +1,8 @@
 {
-  "vid": "19456",
-  "vname": "NXLog",
-  "vcpe": "cpe:/:nxlog",
-  "pid": "49003",
-  "pname": "NXLog",
-  "pcpe": "cpe:/a:nxlog:nxlog"
+	"vid": "19456",
+	"vname": "NXLog",
+	"vcpe": "cpe:/:nxlog",
+	"pid": "49003",
+	"pname": "NXLog",
+	"pcpe": "cpe:/a:nxlog:nxlog"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23699",
-  "pname": "HP Retail Integrated Barcode Scanner (E1L07AA)",
-  "pcpe": "cpe:/h:hp:retail_integrated_barcode_scanner_e1l07aa"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23699",
+	"pname": "HP Retail Integrated Barcode Scanner (E1L07AA)",
+	"pcpe": "cpe:/h:hp:retail_integrated_barcode_scanner_e1l07aa"
 }

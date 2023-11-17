@@ -1,8 +1,8 @@
 {
-  "vid": "14666",
-  "vname": "Socket.IO",
-  "vcpe": "cpe:/:socket",
-  "pid": "62000",
-  "pname": "socket.io-client java",
-  "pcpe": "cpe:/a:socket:socket.io-client_java"
+	"vid": "14666",
+	"vname": "Socket.IO",
+	"vcpe": "cpe:/:socket",
+	"pid": "62000",
+	"pname": "socket.io-client java",
+	"pcpe": "cpe:/a:socket:socket.io-client_java"
 }

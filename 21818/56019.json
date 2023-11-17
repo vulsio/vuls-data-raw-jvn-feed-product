@@ -1,8 +1,8 @@
 {
-  "vid": "21818",
-  "vname": "string-kit project",
-  "vcpe": "cpe:/:string_kit_project",
-  "pid": "56019",
-  "pname": "string-kit",
-  "pcpe": "cpe:/a:string_kit_project:string_kit"
+	"vid": "21818",
+	"vname": "string-kit project",
+	"vcpe": "cpe:/:string_kit_project",
+	"pid": "56019",
+	"pname": "string-kit",
+	"pcpe": "cpe:/a:string_kit_project:string_kit"
 }

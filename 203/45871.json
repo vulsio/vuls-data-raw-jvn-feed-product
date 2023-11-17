@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "45871",
-  "pname": "RICOH Streamline NX クライアントツール",
-  "pcpe": "cpe:/a:ricoh:streamline_nx_client_tool"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "45871",
+	"pname": "RICOH Streamline NX クライアントツール",
+	"pcpe": "cpe:/a:ricoh:streamline_nx_client_tool"
 }

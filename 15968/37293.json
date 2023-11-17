@@ -1,8 +1,8 @@
 {
-  "vid": "15968",
-  "vname": "S3 Browser",
-  "vcpe": "cpe:/:s3browser",
-  "pid": "37293",
-  "pname": "S3 Browser",
-  "pcpe": "cpe:/a:s3browser:s3_browser"
+	"vid": "15968",
+	"vname": "S3 Browser",
+	"vcpe": "cpe:/:s3browser",
+	"pid": "37293",
+	"pname": "S3 Browser",
+	"pcpe": "cpe:/a:s3browser:s3_browser"
 }

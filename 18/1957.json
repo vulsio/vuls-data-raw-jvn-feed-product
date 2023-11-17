@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "1957",
-  "pname": "IBM Access Support ActiveX control",
-  "pcpe": "cpe:/a:ibm:access_support_activex_control"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "1957",
+	"pname": "IBM Access Support ActiveX control",
+	"pcpe": "cpe:/a:ibm:access_support_activex_control"
 }

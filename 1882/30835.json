@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "30835",
-  "pname": "NR8120A ファームウェア",
-  "pcpe": "cpe:/o:zte:nr8120a_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "30835",
+	"pname": "NR8120A ファームウェア",
+	"pcpe": "cpe:/o:zte:nr8120a_firmware"
 }

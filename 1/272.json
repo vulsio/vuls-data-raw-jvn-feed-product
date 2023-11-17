@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "272",
-  "pname": "Sun Ultra 40 Workstation",
-  "pcpe": "cpe:/h:sun:ultra_40_workstation"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "272",
+	"pname": "Sun Ultra 40 Workstation",
+	"pcpe": "cpe:/h:sun:ultra_40_workstation"
 }

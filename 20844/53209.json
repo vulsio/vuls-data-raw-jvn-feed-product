@@ -1,8 +1,8 @@
 {
-  "vid": "20844",
-  "vname": "Kaitai team",
-  "vcpe": "cpe:/:misc",
-  "pid": "53209",
-  "pname": "Kaitai Struct: compiler",
-  "pcpe": "cpe:/a:misc:kaitai_team_kaitai_struct_compiler"
+	"vid": "20844",
+	"vname": "Kaitai team",
+	"vcpe": "cpe:/:misc",
+	"pid": "53209",
+	"pname": "Kaitai Struct: compiler",
+	"pcpe": "cpe:/a:misc:kaitai_team_kaitai_struct_compiler"
 }

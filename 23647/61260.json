@@ -1,8 +1,8 @@
 {
-  "vid": "23647",
-  "vname": "data stream algorithm benchmark project",
-  "vcpe": "cpe:/:data_stream_algorithm_benchmark_project",
-  "pid": "61260",
-  "pname": "data stream algorithm benchmark",
-  "pcpe": "cpe:/a:data_stream_algorithm_benchmark_project:data_stream_algorithm_benchmark"
+	"vid": "23647",
+	"vname": "data stream algorithm benchmark project",
+	"vcpe": "cpe:/:data_stream_algorithm_benchmark_project",
+	"pid": "61260",
+	"pname": "data stream algorithm benchmark",
+	"pcpe": "cpe:/a:data_stream_algorithm_benchmark_project:data_stream_algorithm_benchmark"
 }

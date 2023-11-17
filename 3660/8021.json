@@ -1,8 +1,8 @@
 {
-  "vid": "3660",
-  "vname": "FastStone Soft",
-  "vcpe": "cpe:/:faststone",
-  "pid": "8021",
-  "pname": "FastStone Image Viewer",
-  "pcpe": "cpe:/a:faststone:image_viewer"
+	"vid": "3660",
+	"vname": "FastStone Soft",
+	"vcpe": "cpe:/:faststone",
+	"pid": "8021",
+	"pname": "FastStone Image Viewer",
+	"pcpe": "cpe:/a:faststone:image_viewer"
 }

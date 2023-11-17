@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27801",
-  "pname": "Lenovo Slim USB キーボード ドライバー",
-  "pcpe": "cpe:/a:lenovo:slim_usb_keyboard_driver"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27801",
+	"pname": "Lenovo Slim USB キーボード ドライバー",
+	"pcpe": "cpe:/a:lenovo:slim_usb_keyboard_driver"
 }

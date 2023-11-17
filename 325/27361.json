@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27361",
-  "pname": "ThinkPad X1 Carbon (20Ax) BIOS",
-  "pcpe": "cpe:/o:lenovo:thinkpad_x1_carbon_20bx_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27361",
+	"pname": "ThinkPad X1 Carbon (20Ax) BIOS",
+	"pcpe": "cpe:/o:lenovo:thinkpad_x1_carbon_20bx_bios"
 }

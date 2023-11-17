@@ -1,8 +1,8 @@
 {
-  "vid": "6226",
-  "vname": "Paessler AG",
-  "vcpe": "cpe:/:paessler",
-  "pid": "28764",
-  "pname": "PRTG",
-  "pcpe": "cpe:/a:paessler:prtg"
+	"vid": "6226",
+	"vname": "Paessler AG",
+	"vcpe": "cpe:/:paessler",
+	"pid": "28764",
+	"pname": "PRTG",
+	"pcpe": "cpe:/a:paessler:prtg"
 }

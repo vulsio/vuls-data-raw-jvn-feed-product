@@ -1,8 +1,8 @@
 {
-  "vid": "12495",
-  "vname": "Zammad",
-  "vcpe": "cpe:/:zammad",
-  "pid": "28248",
-  "pname": "Zammad",
-  "pcpe": "cpe:/a:zammad:zammad"
+	"vid": "12495",
+	"vname": "Zammad",
+	"vcpe": "cpe:/:zammad",
+	"pid": "28248",
+	"pname": "Zammad",
+	"pcpe": "cpe:/a:zammad:zammad"
 }

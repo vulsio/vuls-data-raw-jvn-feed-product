@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "24934",
-  "pname": "HP Smart Profile Server Data Analytics Layer",
-  "pcpe": "cpe:/a:hp:smart_profile_server_data_analytics_layer"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "24934",
+	"pname": "HP Smart Profile Server Data Analytics Layer",
+	"pcpe": "cpe:/a:hp:smart_profile_server_data_analytics_layer"
 }

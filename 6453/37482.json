@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "37482",
-  "pname": "XM7163_ファームウェア",
-  "pcpe": "cpe:/o:lexmark:xm7163x_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "37482",
+	"pname": "XM7163_ファームウェア",
+	"pcpe": "cpe:/o:lexmark:xm7163x_firmware"
 }

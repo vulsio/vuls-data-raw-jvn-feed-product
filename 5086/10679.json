@@ -1,8 +1,8 @@
 {
-  "vid": "5086",
-  "vname": "jshop e-commerce",
-  "vcpe": "cpe:/:jshop_e-commerce",
-  "pid": "10679",
-  "pname": "jshop server",
-  "pcpe": "cpe:/a:jshop_e-commerce:jshop_server"
+	"vid": "5086",
+	"vname": "jshop e-commerce",
+	"vcpe": "cpe:/:jshop_e-commerce",
+	"pid": "10679",
+	"pname": "jshop server",
+	"pcpe": "cpe:/a:jshop_e-commerce:jshop_server"
 }

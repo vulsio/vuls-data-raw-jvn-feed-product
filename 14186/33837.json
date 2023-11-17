@@ -1,8 +1,8 @@
 {
-  "vid": "14186",
-  "vname": "Ruckus",
-  "vcpe": "cpe:/:ruckussecurity",
-  "pid": "33837",
-  "pname": "ICX7450-48",
-  "pcpe": "cpe:/o:ruckussecurity:icx7450-48_firmware"
+	"vid": "14186",
+	"vname": "Ruckus",
+	"vcpe": "cpe:/:ruckussecurity",
+	"pid": "33837",
+	"pname": "ICX7450-48",
+	"pcpe": "cpe:/o:ruckussecurity:icx7450-48_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16774",
-  "vname": "Netwrix Corporation",
-  "vcpe": "cpe:/:netwrix",
-  "pid": "46264",
-  "pname": "Netwrix Account Lockout Examiner",
-  "pcpe": "cpe:/a:netwrix:account_lockout_examiner"
+	"vid": "16774",
+	"vname": "Netwrix Corporation",
+	"vcpe": "cpe:/:netwrix",
+	"pid": "46264",
+	"pname": "Netwrix Account Lockout Examiner",
+	"pcpe": "cpe:/a:netwrix:account_lockout_examiner"
 }

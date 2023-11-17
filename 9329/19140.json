@@ -1,8 +1,8 @@
 {
-  "vid": "9329",
-  "vname": "Sierra Wireless",
-  "vcpe": "cpe:/:sierra_wireless",
-  "pid": "19140",
-  "pname": "Airlink MP AT&T",
-  "pcpe": "cpe:/h:sierra_wireless:airlink_mp_at%26t"
+	"vid": "9329",
+	"vname": "Sierra Wireless",
+	"vcpe": "cpe:/:sierra_wireless",
+	"pid": "19140",
+	"pname": "Airlink MP AT&T",
+	"pcpe": "cpe:/h:sierra_wireless:airlink_mp_at%26t"
 }

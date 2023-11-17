@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "19070",
-  "pname": "HP Application Information Optimizer",
-  "pcpe": "cpe:/a:hp:application_information_optimizer"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "19070",
+	"pname": "HP Application Information Optimizer",
+	"pcpe": "cpe:/a:hp:application_information_optimizer"
 }

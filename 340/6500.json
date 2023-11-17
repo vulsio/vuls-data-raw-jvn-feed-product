@@ -1,8 +1,8 @@
 {
-  "vid": "340",
-  "vname": "bzip.org",
-  "vcpe": "cpe:/:bzip",
-  "pid": "6500",
-  "pname": "compress-raw-bzip2",
-  "pcpe": "cpe:/a:bzip:compress-raw-bzip2"
+	"vid": "340",
+	"vname": "bzip.org",
+	"vcpe": "cpe:/:bzip",
+	"pid": "6500",
+	"pname": "compress-raw-bzip2",
+	"pcpe": "cpe:/a:bzip:compress-raw-bzip2"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58135",
-  "pname": "500w Gen 3 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:500w_gen_3_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58135",
+	"pname": "500w Gen 3 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:500w_gen_3_firmware"
 }

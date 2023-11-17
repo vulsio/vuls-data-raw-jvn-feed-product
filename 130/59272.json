@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "59272",
-  "pname": "xeon e3-1240 v5 ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_e3-1240_v5_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "59272",
+	"pname": "xeon e3-1240 v5 ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_e3-1240_v5_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13911",
-  "vname": "NCR",
-  "vcpe": "cpe:/:ncr",
-  "pid": "33154",
-  "pname": "S2 Dispenser ファームウェア",
-  "pcpe": "cpe:/o:ncr:s2_dispenser_controller_firmware"
+	"vid": "13911",
+	"vname": "NCR",
+	"vcpe": "cpe:/:ncr",
+	"pid": "33154",
+	"pname": "S2 Dispenser ファームウェア",
+	"pcpe": "cpe:/o:ncr:s2_dispenser_controller_firmware"
 }

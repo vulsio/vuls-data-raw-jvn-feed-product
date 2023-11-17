@@ -1,8 +1,8 @@
 {
-  "vid": "7627",
-  "vname": "SISCO",
-  "vcpe": "cpe:/:sisco",
-  "pid": "14803",
-  "pname": "OSI stack",
-  "pcpe": "cpe:/a:sisco:iso_stack"
+	"vid": "7627",
+	"vname": "SISCO",
+	"vcpe": "cpe:/:sisco",
+	"pid": "14803",
+	"pname": "OSI stack",
+	"pcpe": "cpe:/a:sisco:iso_stack"
 }

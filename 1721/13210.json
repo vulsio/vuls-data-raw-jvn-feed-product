@@ -1,8 +1,8 @@
 {
-  "vid": "1721",
-  "vname": "SolarWinds",
-  "vcpe": "cpe:/:solarwinds",
-  "pid": "13210",
-  "pname": "Orion IPAM",
-  "pcpe": "cpe:/a:solarwinds:ip_address_manager_web_interface"
+	"vid": "1721",
+	"vname": "SolarWinds",
+	"vcpe": "cpe:/:solarwinds",
+	"pid": "13210",
+	"pname": "Orion IPAM",
+	"pcpe": "cpe:/a:solarwinds:ip_address_manager_web_interface"
 }

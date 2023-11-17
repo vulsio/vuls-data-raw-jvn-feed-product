@@ -1,8 +1,8 @@
 {
-  "vid": "9880",
-  "vname": "Docker",
-  "vcpe": "cpe:/:docker",
-  "pid": "48440",
-  "pname": "notary docker image",
-  "pcpe": "cpe:/a:docker:notary_docker_image"
+	"vid": "9880",
+	"vname": "Docker",
+	"vcpe": "cpe:/:docker",
+	"pid": "48440",
+	"pname": "notary docker image",
+	"pcpe": "cpe:/a:docker:notary_docker_image"
 }

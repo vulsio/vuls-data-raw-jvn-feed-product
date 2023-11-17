@@ -1,8 +1,8 @@
 {
-  "vid": "17007",
-  "vname": "Xilinx Inc.",
-  "vcpe": "cpe:/:xilinx",
-  "pid": "49764",
-  "pname": "Zynq-7000 ファームウェア",
-  "pcpe": "cpe:/o:xilinx:zynq-7000_firmware"
+	"vid": "17007",
+	"vname": "Xilinx Inc.",
+	"vcpe": "cpe:/:xilinx",
+	"pid": "49764",
+	"pname": "Zynq-7000 ファームウェア",
+	"pcpe": "cpe:/o:xilinx:zynq-7000_firmware"
 }

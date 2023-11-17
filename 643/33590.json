@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "33590",
-  "pname": "Dell EMC Unisphere",
-  "pcpe": "cpe:/a:dell:emc_unisphere"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "33590",
+	"pname": "Dell EMC Unisphere",
+	"pcpe": "cpe:/a:dell:emc_unisphere"
 }

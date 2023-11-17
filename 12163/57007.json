@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "57007",
-  "pname": "autonomiq",
-  "pcpe": "cpe:/a:jenkins:autonomiq"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "57007",
+	"pname": "autonomiq",
+	"pcpe": "cpe:/a:jenkins:autonomiq"
 }

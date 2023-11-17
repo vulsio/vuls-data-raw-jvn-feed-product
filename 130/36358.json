@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "36358",
-  "pname": "Intel Optane SSD DC P4800X",
-  "pcpe": "cpe:/o:intel:optane_ssd_dc_p4800x"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "36358",
+	"pname": "Intel Optane SSD DC P4800X",
+	"pcpe": "cpe:/o:intel:optane_ssd_dc_p4800x"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "9334",
-  "pname": "SafeGuard Easy Device Encryption Client",
-  "pcpe": "cpe:/a:sophos:safeguard_easy_device_encryption_client"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "9334",
+	"pname": "SafeGuard Easy Device Encryption Client",
+	"pcpe": "cpe:/a:sophos:safeguard_easy_device_encryption_client"
 }

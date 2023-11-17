@@ -1,8 +1,8 @@
 {
-  "vid": "12976",
-  "vname": "InternetSoft Corporation.",
-  "vcpe": "cpe:/:internetsoft",
-  "pid": "29980",
-  "pname": "FTP Commander",
-  "pcpe": "cpe:/a:internetsoft:ftp_commander"
+	"vid": "12976",
+	"vname": "InternetSoft Corporation.",
+	"vcpe": "cpe:/:internetsoft",
+	"pid": "29980",
+	"pname": "FTP Commander",
+	"pcpe": "cpe:/a:internetsoft:ftp_commander"
 }

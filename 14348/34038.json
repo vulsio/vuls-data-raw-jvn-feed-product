@@ -1,8 +1,8 @@
 {
-  "vid": "14348",
-  "vname": "redis-srvr project",
-  "vcpe": "cpe:/:redis-srvr_project",
-  "pid": "34038",
-  "pname": "redis-srvr",
-  "pcpe": "cpe:/a:redis-srvr_project:redis-srvr"
+	"vid": "14348",
+	"vname": "redis-srvr project",
+	"vcpe": "cpe:/:redis-srvr_project",
+	"pid": "34038",
+	"pname": "redis-srvr",
+	"pcpe": "cpe:/a:redis-srvr_project:redis-srvr"
 }

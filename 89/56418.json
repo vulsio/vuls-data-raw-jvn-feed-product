@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "56418",
-  "pname": "養殖魚サイズ測定自動化サービス",
-  "pcpe": "cpe:/a:nec:aquaculture_fish_size_measurement_automation_service"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "56418",
+	"pname": "養殖魚サイズ測定自動化サービス",
+	"pcpe": "cpe:/a:nec:aquaculture_fish_size_measurement_automation_service"
 }

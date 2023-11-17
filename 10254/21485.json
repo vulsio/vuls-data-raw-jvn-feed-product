@@ -1,8 +1,8 @@
 {
-  "vid": "10254",
-  "vname": "Electric Cloud",
-  "vcpe": "cpe:/:electric_cloud",
-  "pid": "21485",
-  "pname": "ElectricCommander",
-  "pcpe": "cpe:/a:electric_cloud:electriccommander"
+	"vid": "10254",
+	"vname": "Electric Cloud",
+	"vcpe": "cpe:/:electric_cloud",
+	"pid": "21485",
+	"pname": "ElectricCommander",
+	"pcpe": "cpe:/a:electric_cloud:electriccommander"
 }

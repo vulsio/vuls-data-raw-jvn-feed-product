@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "42945",
-  "pname": "TL-SC4171G ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-sc_4171g_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "42945",
+	"pname": "TL-SC4171G ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-sc_4171g_firmware"
 }

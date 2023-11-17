@@ -1,8 +1,8 @@
 {
-  "vid": "36",
-  "vname": "PostgreSQL.org",
-  "vcpe": "cpe:/:postgresql",
-  "pid": "41853",
-  "pname": "postgresql-common",
-  "pcpe": "cpe:/a:postgresql:postgresql-common"
+	"vid": "36",
+	"vname": "PostgreSQL.org",
+	"vcpe": "cpe:/:postgresql",
+	"pid": "41853",
+	"pname": "postgresql-common",
+	"pcpe": "cpe:/a:postgresql:postgresql-common"
 }

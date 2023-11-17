@@ -1,8 +1,8 @@
 {
-  "vid": "9939",
-  "vname": "Cobham plc",
-  "vcpe": "cpe:/:cobham",
-  "pid": "20745",
-  "pname": "SAILOR 6300 MF/HF",
-  "pcpe": "cpe:/h:cobham:sailor_6300_mf_%2F_hf"
+	"vid": "9939",
+	"vname": "Cobham plc",
+	"vcpe": "cpe:/:cobham",
+	"pid": "20745",
+	"pname": "SAILOR 6300 MF/HF",
+	"pcpe": "cpe:/h:cobham:sailor_6300_mf_%2F_hf"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15998",
-  "vname": "HelpSystems",
-  "vcpe": "cpe:/:helpsystems",
-  "pid": "58764",
-  "pname": "titus data classification",
-  "pcpe": "cpe:/a:helpsystems:titus_data_classification"
+	"vid": "15998",
+	"vname": "HelpSystems",
+	"vcpe": "cpe:/:helpsystems",
+	"pid": "58764",
+	"pname": "titus data classification",
+	"pcpe": "cpe:/a:helpsystems:titus_data_classification"
 }

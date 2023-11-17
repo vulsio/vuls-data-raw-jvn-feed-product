@@ -1,8 +1,8 @@
 {
-  "vid": "3367",
-  "vname": "e-post corporation",
-  "vcpe": "cpe:/:e-post_corporation",
-  "pid": "7583",
-  "pname": "mail server",
-  "pcpe": "cpe:/a:e-post_corporation:mail_server"
+	"vid": "3367",
+	"vname": "e-post corporation",
+	"vcpe": "cpe:/:e-post_corporation",
+	"pid": "7583",
+	"pname": "mail server",
+	"pcpe": "cpe:/a:e-post_corporation:mail_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "54472",
-  "pname": "GeForce GT 610",
-  "pcpe": "cpe:/o:nvidia:geforce_gt_610"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "54472",
+	"pname": "GeForce GT 610",
+	"pcpe": "cpe:/o:nvidia:geforce_gt_610"
 }

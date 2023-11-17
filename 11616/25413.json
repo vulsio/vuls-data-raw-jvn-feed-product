@@ -1,8 +1,8 @@
 {
-  "vid": "11616",
-  "vname": "ホスピーラ",
-  "vcpe": "cpe:/:hospira",
-  "pid": "25413",
-  "pname": "Plum A+3 Infusion System",
-  "pcpe": "cpe:/h:hospira:plum_a%2B3_lifecare_system"
+	"vid": "11616",
+	"vname": "ホスピーラ",
+	"vcpe": "cpe:/:hospira",
+	"pid": "25413",
+	"pname": "Plum A+3 Infusion System",
+	"pcpe": "cpe:/h:hospira:plum_a%2B3_lifecare_system"
 }

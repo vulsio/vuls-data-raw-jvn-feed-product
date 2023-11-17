@@ -1,8 +1,8 @@
 {
-  "vid": "15561",
-  "vname": "STMicroelectronics",
-  "vcpe": "cpe:/:stmicroelectronics",
-  "pid": "44246",
-  "pname": "STM32F1 ファームウェア",
-  "pcpe": "cpe:/o:stmicroelectronics:stm32f1_firmware"
+	"vid": "15561",
+	"vname": "STMicroelectronics",
+	"vcpe": "cpe:/:stmicroelectronics",
+	"pid": "44246",
+	"pname": "STM32F1 ファームウェア",
+	"pcpe": "cpe:/o:stmicroelectronics:stm32f1_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "46664",
-  "pname": "WildFly Elytron",
-  "pcpe": "cpe:/a:redhat:wildfly_elytron"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "46664",
+	"pname": "WildFly Elytron",
+	"pcpe": "cpe:/a:redhat:wildfly_elytron"
 }

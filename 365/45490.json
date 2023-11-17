@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "45490",
-  "pname": "Citrix SDWAN WAN-OP",
-  "pcpe": "cpe:/o:citrix:sd-wan_wanop"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "45490",
+	"pname": "Citrix SDWAN WAN-OP",
+	"pcpe": "cpe:/o:citrix:sd-wan_wanop"
 }

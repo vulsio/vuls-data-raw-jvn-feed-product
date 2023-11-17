@@ -1,8 +1,8 @@
 {
-  "vid": "14500",
-  "vname": "NetkillerToken project",
-  "vcpe": "cpe:/:netkillertoken_project",
-  "pid": "34195",
-  "pname": "NetkillerToken",
-  "pcpe": "cpe:/a:netkillertoken_project:netkillertoken"
+	"vid": "14500",
+	"vname": "NetkillerToken project",
+	"vcpe": "cpe:/:netkillertoken_project",
+	"pid": "34195",
+	"pname": "NetkillerToken",
+	"pcpe": "cpe:/a:netkillertoken_project:netkillertoken"
 }

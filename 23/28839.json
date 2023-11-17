@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "28839",
-  "pname": "Symantec Web Security.Cloud",
-  "pcpe": "cpe:/a:symantec:web_security.cloud"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "28839",
+	"pname": "Symantec Web Security.Cloud",
+	"pcpe": "cpe:/a:symantec:web_security.cloud"
 }

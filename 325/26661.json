@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "26661",
-  "pname": "Ultraslim ドングル",
-  "pcpe": "cpe:/h:lenovo:ultraslim_dongle"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "26661",
+	"pname": "Ultraslim ドングル",
+	"pcpe": "cpe:/h:lenovo:ultraslim_dongle"
 }

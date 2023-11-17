@@ -1,8 +1,8 @@
 {
-  "vid": "16072",
-  "vname": "Rubicon Communications, LLC (Netgate).",
-  "vcpe": "cpe:/:netgate",
-  "pid": "44211",
-  "pname": "pfSense",
-  "pcpe": "cpe:/a:netgate:pfsense"
+	"vid": "16072",
+	"vname": "Rubicon Communications, LLC (Netgate).",
+	"vcpe": "cpe:/:netgate",
+	"pid": "44211",
+	"pname": "pfSense",
+	"pcpe": "cpe:/a:netgate:pfsense"
 }

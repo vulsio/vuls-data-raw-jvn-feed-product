@@ -1,8 +1,8 @@
 {
-  "vid": "12743",
-  "vname": "Intense WP",
-  "vcpe": "cpe:/:intensewp",
-  "pid": "29299",
-  "pname": "WP Jobs",
-  "pcpe": "cpe:/a:intensewp:wp_jobs"
+	"vid": "12743",
+	"vname": "Intense WP",
+	"vcpe": "cpe:/:intensewp",
+	"pid": "29299",
+	"pname": "WP Jobs",
+	"pcpe": "cpe:/a:intensewp:wp_jobs"
 }

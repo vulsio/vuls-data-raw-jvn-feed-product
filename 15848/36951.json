@@ -1,8 +1,8 @@
 {
-  "vid": "15848",
-  "vname": "Skyworth Digital Holdings Ltd.",
-  "vcpe": "cpe:/:skyworthdigital",
-  "pid": "36951",
-  "pname": "CM5100-440 ファームウェア",
-  "pcpe": "cpe:/o:skyworthdigital:cm5100-440_firmware"
+	"vid": "15848",
+	"vname": "Skyworth Digital Holdings Ltd.",
+	"vcpe": "cpe:/:skyworthdigital",
+	"pid": "36951",
+	"pname": "CM5100-440 ファームウェア",
+	"pcpe": "cpe:/o:skyworthdigital:cm5100-440_firmware"
 }

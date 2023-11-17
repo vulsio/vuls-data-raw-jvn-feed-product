@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "16651",
-  "pname": "storagetek 3510",
-  "pcpe": "cpe:/h:sun:storagetek_3510"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "16651",
+	"pname": "storagetek 3510",
+	"pcpe": "cpe:/h:sun:storagetek_3510"
 }

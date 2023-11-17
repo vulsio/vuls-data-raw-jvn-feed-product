@@ -1,8 +1,8 @@
 {
-  "vid": "17487",
-  "vname": "Footy Tipping Software",
-  "vcpe": "cpe:/:footy",
-  "pid": "41730",
-  "pname": "AFL",
-  "pcpe": "cpe:/a:footy:tipping_software"
+	"vid": "17487",
+	"vname": "Footy Tipping Software",
+	"vcpe": "cpe:/:footy",
+	"pid": "41730",
+	"pname": "AFL",
+	"pcpe": "cpe:/a:footy:tipping_software"
 }

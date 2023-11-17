@@ -1,8 +1,8 @@
 {
-  "vid": "23693",
-  "vname": "mercury sample manager project",
-  "vcpe": "cpe:/:mercury_sample_manager_project",
-  "pid": "61307",
-  "pname": "mercury sample manager",
-  "pcpe": "cpe:/a:mercury_sample_manager_project:mercury_sample_manager"
+	"vid": "23693",
+	"vname": "mercury sample manager project",
+	"vcpe": "cpe:/:mercury_sample_manager_project",
+	"pid": "61307",
+	"pname": "mercury sample manager",
+	"pcpe": "cpe:/a:mercury_sample_manager_project:mercury_sample_manager"
 }

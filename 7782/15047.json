@@ -1,8 +1,8 @@
 {
-  "vid": "7782",
-  "vname": "sshkeychain",
-  "vcpe": "cpe:/:sshkeychain",
-  "pid": "15047",
-  "pname": "sshkeychain",
-  "pcpe": "cpe:/a:sshkeychain:sshkeychain"
+	"vid": "7782",
+	"vname": "sshkeychain",
+	"vcpe": "cpe:/:sshkeychain",
+	"pid": "15047",
+	"pname": "sshkeychain",
+	"pcpe": "cpe:/a:sshkeychain:sshkeychain"
 }

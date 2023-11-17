@@ -1,8 +1,8 @@
 {
-  "vid": "15719",
-  "vname": "Inova Software",
-  "vcpe": "cpe:/:inova-software",
-  "pid": "36564",
-  "pname": "Inova Partner",
-  "pcpe": "cpe:/a:inova-software:inova_partner"
+	"vid": "15719",
+	"vname": "Inova Software",
+	"vcpe": "cpe:/:inova-software",
+	"pid": "36564",
+	"pname": "Inova Partner",
+	"pcpe": "cpe:/a:inova-software:inova_partner"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1107",
-  "vname": "Xiaomi",
-  "vcpe": "cpe:/:xiaomi",
-  "pid": "41911",
-  "pname": "Mi Mix ファームウェア",
-  "pcpe": "cpe:/o:xiaomi:mix_firmware"
+	"vid": "1107",
+	"vname": "Xiaomi",
+	"vcpe": "cpe:/:xiaomi",
+	"pid": "41911",
+	"pname": "Mi Mix ファームウェア",
+	"pcpe": "cpe:/o:xiaomi:mix_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19887",
-  "vname": "SIREN",
-  "vcpe": "cpe:/:siren",
-  "pid": "50254",
-  "pname": "Federate",
-  "pcpe": "cpe:/a:siren:federate"
+	"vid": "19887",
+	"vname": "SIREN",
+	"vcpe": "cpe:/:siren",
+	"pid": "50254",
+	"pname": "Federate",
+	"pcpe": "cpe:/a:siren:federate"
 }

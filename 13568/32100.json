@@ -1,8 +1,8 @@
 {
-  "vid": "13568",
-  "vname": "Duolingo",
-  "vcpe": "cpe:/:duolingo",
-  "pid": "32100",
-  "pname": "TinyCards",
-  "pcpe": "cpe:/a:duolingo:tinycards"
+	"vid": "13568",
+	"vname": "Duolingo",
+	"vcpe": "cpe:/:duolingo",
+	"pid": "32100",
+	"pname": "TinyCards",
+	"pcpe": "cpe:/a:duolingo:tinycards"
 }

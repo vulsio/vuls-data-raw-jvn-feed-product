@@ -1,8 +1,8 @@
 {
-  "vid": "491",
-  "vname": "BitDefender",
-  "vcpe": "cpe:/:bitdefender",
-  "pid": "6284",
-  "pname": "online anti-virus scanner",
-  "pcpe": "cpe:/a:bitdefender:online_anti-virus_scanner"
+	"vid": "491",
+	"vname": "BitDefender",
+	"vcpe": "cpe:/:bitdefender",
+	"pid": "6284",
+	"pname": "online anti-virus scanner",
+	"pcpe": "cpe:/a:bitdefender:online_anti-virus_scanner"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3491",
-  "vname": "emetrix",
-  "vcpe": "cpe:/:emetrix",
-  "pid": "7785",
-  "pname": "extract website",
-  "pcpe": "cpe:/a:emetrix:extract_website"
+	"vid": "3491",
+	"vname": "emetrix",
+	"vcpe": "cpe:/:emetrix",
+	"pid": "7785",
+	"pname": "extract website",
+	"pcpe": "cpe:/a:emetrix:extract_website"
 }

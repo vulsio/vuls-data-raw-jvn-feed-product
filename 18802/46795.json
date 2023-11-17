@@ -1,8 +1,8 @@
 {
-  "vid": "18802",
-  "vname": "Gemtek",
-  "vcpe": "cpe:/:gemteks",
-  "pid": "46795",
-  "pname": "Gemtek WVRTM-127ACN ファームウェア",
-  "pcpe": "cpe:/o:gemteks:wrtm-127acn_firmware"
+	"vid": "18802",
+	"vname": "Gemtek",
+	"vcpe": "cpe:/:gemteks",
+	"pid": "46795",
+	"pname": "Gemtek WVRTM-127ACN ファームウェア",
+	"pcpe": "cpe:/o:gemteks:wrtm-127acn_firmware"
 }

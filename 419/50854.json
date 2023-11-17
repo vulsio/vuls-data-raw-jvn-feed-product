@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "50854",
-  "pname": "NetApp HCI",
-  "pcpe": "cpe:/a:netapp:hci"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "50854",
+	"pname": "NetApp HCI",
+	"pcpe": "cpe:/a:netapp:hci"
 }

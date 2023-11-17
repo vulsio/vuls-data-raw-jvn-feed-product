@@ -1,8 +1,8 @@
 {
-  "vid": "18110",
-  "vname": "nick chan bot project",
-  "vcpe": "cpe:/:nick_chan_bot_project",
-  "pid": "44109",
-  "pname": "nickchanbot",
-  "pcpe": "cpe:/a:nick_chan_bot_project:nick_chan_bot"
+	"vid": "18110",
+	"vname": "nick chan bot project",
+	"vcpe": "cpe:/:nick_chan_bot_project",
+	"pid": "44109",
+	"pname": "nickchanbot",
+	"pcpe": "cpe:/a:nick_chan_bot_project:nick_chan_bot"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "56366",
-  "pname": "SYSMAC CP シリーズ CPU ユニット",
-  "pcpe": "cpe:/o:omron:sysmac_cp_series_cpu_unit"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "56366",
+	"pname": "SYSMAC CP シリーズ CPU ユニット",
+	"pcpe": "cpe:/o:omron:sysmac_cp_series_cpu_unit"
 }

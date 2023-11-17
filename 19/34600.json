@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "34600",
-  "pname": "UCS-E180D-K9 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ucs-e180d-k9_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "34600",
+	"pname": "UCS-E180D-K9 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ucs-e180d-k9_firmware"
 }

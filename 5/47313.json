@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47313",
-  "pname": "AR8151",
-  "pcpe": "cpe:/h:qualcomm:ar8151"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47313",
+	"pname": "AR8151",
+	"pcpe": "cpe:/h:qualcomm:ar8151"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24059",
-  "vname": "LinkedIn Company Updates project",
-  "vcpe": "cpe:/:linkedin_company_updates_project",
-  "pid": "62223",
-  "pname": "LinkedIn Company Updates",
-  "pcpe": "cpe:/a:linkedin_company_updates_project:linkedin_company_updates"
+	"vid": "24059",
+	"vname": "LinkedIn Company Updates project",
+	"vcpe": "cpe:/:linkedin_company_updates_project",
+	"pid": "62223",
+	"pname": "LinkedIn Company Updates",
+	"pcpe": "cpe:/a:linkedin_company_updates_project:linkedin_company_updates"
 }

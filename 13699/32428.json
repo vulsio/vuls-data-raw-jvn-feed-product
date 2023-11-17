@@ -1,8 +1,8 @@
 {
-  "vid": "13699",
-  "vname": "Miek Gieben",
-  "vcpe": "cpe:/:miekg-dns_project",
-  "pid": "32428",
-  "pname": "miekg-dns",
-  "pcpe": "cpe:/a:miekg-dns_project:miekg-dns"
+	"vid": "13699",
+	"vname": "Miek Gieben",
+	"vcpe": "cpe:/:miekg-dns_project",
+	"pid": "32428",
+	"pname": "miekg-dns",
+	"pcpe": "cpe:/a:miekg-dns_project:miekg-dns"
 }

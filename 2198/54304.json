@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "54304",
-  "pname": "EPYC 7232p ファームウェア",
-  "pcpe": "cpe:/o:amd:epyc_7232p_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "54304",
+	"pname": "EPYC 7232p ファームウェア",
+	"pcpe": "cpe:/o:amd:epyc_7232p_firmware"
 }

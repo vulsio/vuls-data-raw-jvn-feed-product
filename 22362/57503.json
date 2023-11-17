@@ -1,8 +1,8 @@
 {
-  "vid": "22362",
-  "vname": "healthchecks",
-  "vcpe": "cpe:/:healthchecks",
-  "pid": "57503",
-  "pname": "Healthchecks",
-  "pcpe": "cpe:/a:healthchecks:healthchecks"
+	"vid": "22362",
+	"vname": "healthchecks",
+	"vcpe": "cpe:/:healthchecks",
+	"pid": "57503",
+	"pname": "Healthchecks",
+	"pcpe": "cpe:/a:healthchecks:healthchecks"
 }

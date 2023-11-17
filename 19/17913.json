@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17913",
-  "pname": "Cisco VC240 Bullet Network Camera",
-  "pcpe": "cpe:/h:cisco:vc240_network_bullet_camera"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17913",
+	"pname": "Cisco VC240 Bullet Network Camera",
+	"pcpe": "cpe:/h:cisco:vc240_network_bullet_camera"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "52220",
-  "pname": "Cisco AppDynamics .NET Agent",
-  "pcpe": "cpe:/a:cisco:appdynamics_.net_agent"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "52220",
+	"pname": "Cisco AppDynamics .NET Agent",
+	"pcpe": "cpe:/a:cisco:appdynamics_.net_agent"
 }

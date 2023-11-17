@@ -1,8 +1,8 @@
 {
-  "vid": "10975",
-  "vname": "apps2you",
-  "vcpe": "cpe:/:apps2you",
-  "pid": "22556",
-  "pname": "cedar kiosk",
-  "pcpe": "cpe:/a:apps2you:cedar_kiosk"
+	"vid": "10975",
+	"vname": "apps2you",
+	"vcpe": "cpe:/:apps2you",
+	"pid": "22556",
+	"pname": "cedar kiosk",
+	"pcpe": "cpe:/a:apps2you:cedar_kiosk"
 }

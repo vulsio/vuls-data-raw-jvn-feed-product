@@ -1,8 +1,8 @@
 {
-  "vid": "16132",
-  "vname": "Five9",
-  "vcpe": "cpe:/:five9",
-  "pid": "37818",
-  "pname": "Agent Desktop Plus",
-  "pcpe": "cpe:/a:five9:agent_desktop_plus"
+	"vid": "16132",
+	"vname": "Five9",
+	"vcpe": "cpe:/:five9",
+	"pid": "37818",
+	"pname": "Agent Desktop Plus",
+	"pcpe": "cpe:/a:five9:agent_desktop_plus"
 }

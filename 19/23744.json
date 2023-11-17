@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23744",
-  "pname": "Cisco Content Services Switch 11500 ファームウェア",
-  "pcpe": "cpe:/o:cisco:content_services_switch_11500_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23744",
+	"pname": "Cisco Content Services Switch 11500 ファームウェア",
+	"pcpe": "cpe:/o:cisco:content_services_switch_11500_firmware"
 }

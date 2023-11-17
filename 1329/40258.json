@@ -1,8 +1,8 @@
 {
-  "vid": "1329",
-  "vname": "ACD Systems",
-  "vcpe": "cpe:/:acdsee",
-  "pid": "40258",
-  "pname": "Photo Studio",
-  "pcpe": "cpe:/a:acdsee:photo_studio"
+	"vid": "1329",
+	"vname": "ACD Systems",
+	"vcpe": "cpe:/:acdsee",
+	"pid": "40258",
+	"pname": "Photo Studio",
+	"pcpe": "cpe:/a:acdsee:photo_studio"
 }

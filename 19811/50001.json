@@ -1,8 +1,8 @@
 {
-  "vid": "19811",
-  "vname": "ps-visitor project",
-  "vcpe": "cpe:/:ps-visitor_project",
-  "pid": "50001",
-  "pname": "ps-visitor",
-  "pcpe": "cpe:/a:ps-visitor_project:ps-visitor"
+	"vid": "19811",
+	"vname": "ps-visitor project",
+	"vcpe": "cpe:/:ps-visitor_project",
+	"pid": "50001",
+	"pname": "ps-visitor",
+	"pcpe": "cpe:/a:ps-visitor_project:ps-visitor"
 }

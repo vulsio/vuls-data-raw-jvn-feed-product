@@ -1,8 +1,8 @@
 {
-  "vid": "18624",
-  "vname": "Macrium Software",
-  "vcpe": "cpe:/:macrium_software",
-  "pid": "46021",
-  "pname": "Macrium Reflect",
-  "pcpe": "cpe:/a:macrium_software:macrium_reflect"
+	"vid": "18624",
+	"vname": "Macrium Software",
+	"vcpe": "cpe:/:macrium_software",
+	"pid": "46021",
+	"pname": "Macrium Reflect",
+	"pcpe": "cpe:/a:macrium_software:macrium_reflect"
 }

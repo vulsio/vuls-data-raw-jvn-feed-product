@@ -1,8 +1,8 @@
 {
-  "vid": "22683",
-  "vname": "swaywm",
-  "vcpe": "cpe:/:swaywm",
-  "pid": "58350",
-  "pname": "swaylock",
-  "pcpe": "cpe:/a:swaywm:swaylock"
+	"vid": "22683",
+	"vname": "swaywm",
+	"vcpe": "cpe:/:swaywm",
+	"pid": "58350",
+	"pname": "swaylock",
+	"pcpe": "cpe:/a:swaywm:swaylock"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6155",
-  "vname": "OpenText",
-  "vcpe": "cpe:/:opentext",
-  "pid": "12315",
-  "pname": "livelink ecm",
-  "pcpe": "cpe:/a:opentext:livelink_ecm"
+	"vid": "6155",
+	"vname": "OpenText",
+	"vcpe": "cpe:/:opentext",
+	"pid": "12315",
+	"pname": "livelink ecm",
+	"pcpe": "cpe:/a:opentext:livelink_ecm"
 }

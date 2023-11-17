@@ -1,8 +1,8 @@
 {
-  "vid": "4431",
-  "vname": "Nuance Communications",
-  "vcpe": "cpe:/:nuance",
-  "pid": "52143",
-  "pname": "Winscribe Dictation",
-  "pcpe": "cpe:/a:nuance:winscribe_dictation"
+	"vid": "4431",
+	"vname": "Nuance Communications",
+	"vcpe": "cpe:/:nuance",
+	"pid": "52143",
+	"pname": "Winscribe Dictation",
+	"pcpe": "cpe:/a:nuance:winscribe_dictation"
 }

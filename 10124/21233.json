@@ -1,8 +1,8 @@
 {
-  "vid": "10124",
-  "vname": "OpenMediaVault",
-  "vcpe": "cpe:/:openmediavault",
-  "pid": "21233",
-  "pname": "OpenMediaVault",
-  "pcpe": "cpe:/a:openmediavault:openmediavault"
+	"vid": "10124",
+	"vname": "OpenMediaVault",
+	"vcpe": "cpe:/:openmediavault",
+	"pid": "21233",
+	"pname": "OpenMediaVault",
+	"pcpe": "cpe:/a:openmediavault:openmediavault"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "3647",
-  "pname": "Tivoli Federated Identity Manager Business Gateway",
-  "pcpe": "cpe:/a:ibm:tivoli_federated_identity_manager_business_gateway"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "3647",
+	"pname": "Tivoli Federated Identity Manager Business Gateway",
+	"pcpe": "cpe:/a:ibm:tivoli_federated_identity_manager_business_gateway"
 }

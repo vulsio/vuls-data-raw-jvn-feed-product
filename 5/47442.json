@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47442",
-  "pname": "QCS603 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qcs603_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47442",
+	"pname": "QCS603 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qcs603_firmware"
 }

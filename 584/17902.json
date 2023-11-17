@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "17902",
-  "pname": "SCALANCE W784-1RR",
-  "pcpe": "cpe:/h:siemens:scalance_w784-1rr"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "17902",
+	"pname": "SCALANCE W784-1RR",
+	"pcpe": "cpe:/h:siemens:scalance_w784-1rr"
 }

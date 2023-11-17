@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "61187",
-  "pname": "businessobjects bw publisher service",
-  "pcpe": "cpe:/a:sap:businessobjects_bw_publisher_service"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "61187",
+	"pname": "businessobjects bw publisher service",
+	"pcpe": "cpe:/a:sap:businessobjects_bw_publisher_service"
 }

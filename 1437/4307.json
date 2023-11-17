@@ -1,8 +1,8 @@
 {
-  "vid": "1437",
-  "vname": "DNN",
-  "vcpe": "cpe:/:dotnetnuke",
-  "pid": "4307",
-  "pname": "DotNetNuke",
-  "pcpe": "cpe:/a:dotnetnuke:dotnetnuke"
+	"vid": "1437",
+	"vname": "DNN",
+	"vcpe": "cpe:/:dotnetnuke",
+	"pid": "4307",
+	"pname": "DotNetNuke",
+	"pcpe": "cpe:/a:dotnetnuke:dotnetnuke"
 }

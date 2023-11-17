@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31295",
-  "pname": "FusionSphere OpenStack",
-  "pcpe": "cpe:/o:huawei:fusionsphere_openstack"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31295",
+	"pname": "FusionSphere OpenStack",
+	"pcpe": "cpe:/o:huawei:fusionsphere_openstack"
 }

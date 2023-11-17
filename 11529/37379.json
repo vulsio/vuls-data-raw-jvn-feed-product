@@ -1,8 +1,8 @@
 {
-  "vid": "11529",
-  "vname": "Apereo",
-  "vcpe": "cpe:/:apereo",
-  "pid": "37379",
-  "pname": "bw-calendar-engine",
-  "pcpe": "cpe:/a:apereo:bw-calendar-engine"
+	"vid": "11529",
+	"vname": "Apereo",
+	"vcpe": "cpe:/:apereo",
+	"pid": "37379",
+	"pname": "bw-calendar-engine",
+	"pcpe": "cpe:/a:apereo:bw-calendar-engine"
 }

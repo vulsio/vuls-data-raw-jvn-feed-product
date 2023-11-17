@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "12122",
-  "pname": "securelogin",
-  "pcpe": "cpe:/a:novell:securelogin"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "12122",
+	"pname": "securelogin",
+	"pcpe": "cpe:/a:novell:securelogin"
 }

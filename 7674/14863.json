@@ -1,8 +1,8 @@
 {
-  "vid": "7674",
-  "vname": "slsknet",
-  "vcpe": "cpe:/:slsknet",
-  "pid": "14863",
-  "pname": "soulseek",
-  "pcpe": "cpe:/a:slsknet:soulseek"
+	"vid": "7674",
+	"vname": "slsknet",
+	"vcpe": "cpe:/:slsknet",
+	"pid": "14863",
+	"pname": "soulseek",
+	"pcpe": "cpe:/a:slsknet:soulseek"
 }

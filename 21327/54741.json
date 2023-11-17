@@ -1,8 +1,8 @@
 {
-  "vid": "21327",
-  "vname": "vault-cli project",
-  "vcpe": "cpe:/:vault-cli_project",
-  "pid": "54741",
-  "pname": "vault-cli",
-  "pcpe": "cpe:/a:vault-cli_project:vault-cli"
+	"vid": "21327",
+	"vname": "vault-cli project",
+	"vcpe": "cpe:/:vault-cli_project",
+	"pid": "54741",
+	"pname": "vault-cli",
+	"pcpe": "cpe:/a:vault-cli_project:vault-cli"
 }

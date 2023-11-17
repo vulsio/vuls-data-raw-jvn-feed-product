@@ -1,8 +1,8 @@
 {
-  "vid": "18804",
-  "vname": "Multi User project",
-  "vcpe": "cpe:/:multi_user_project",
-  "pid": "46808",
-  "pname": "Multi User",
-  "pcpe": "cpe:/a:multi_user_project:multi_user"
+	"vid": "18804",
+	"vname": "Multi User project",
+	"vcpe": "cpe:/:multi_user_project",
+	"pid": "46808",
+	"pname": "Multi User",
+	"pcpe": "cpe:/a:multi_user_project:multi_user"
 }

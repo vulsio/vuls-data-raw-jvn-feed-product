@@ -1,8 +1,8 @@
 {
-  "vid": "507",
-  "vname": "op5",
-  "vcpe": "cpe:/:op5",
-  "pid": "19078",
-  "pname": "system-op5config",
-  "pcpe": "cpe:/a:op5:system-op5config"
+	"vid": "507",
+	"vname": "op5",
+	"vcpe": "cpe:/:op5",
+	"pid": "19078",
+	"pname": "system-op5config",
+	"pcpe": "cpe:/a:op5:system-op5config"
 }

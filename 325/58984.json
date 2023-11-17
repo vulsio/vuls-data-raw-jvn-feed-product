@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58984",
-  "pname": "v410z ファームウェア",
-  "pcpe": "cpe:/o:lenovo:v410z_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58984",
+	"pname": "v410z ファームウェア",
+	"pcpe": "cpe:/o:lenovo:v410z_firmware"
 }

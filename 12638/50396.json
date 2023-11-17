@@ -1,8 +1,8 @@
 {
-  "vid": "12638",
-  "vname": "Cygwin",
-  "vcpe": "cpe:/:cygwin",
-  "pid": "50396",
-  "pname": "Cygwin Git",
-  "pcpe": "cpe:/a:cygwin:git"
+	"vid": "12638",
+	"vname": "Cygwin",
+	"vcpe": "cpe:/:cygwin",
+	"pid": "50396",
+	"pname": "Cygwin Git",
+	"pcpe": "cpe:/a:cygwin:git"
 }

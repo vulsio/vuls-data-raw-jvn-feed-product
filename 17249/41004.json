@@ -1,8 +1,8 @@
 {
-  "vid": "17249",
-  "vname": "libyal",
-  "vcpe": "cpe:/:libfwsi_project",
-  "pid": "41004",
-  "pname": "libfwsi",
-  "pcpe": "cpe:/a:libfwsi_project:libfwsi"
+	"vid": "17249",
+	"vname": "libyal",
+	"vcpe": "cpe:/:libfwsi_project",
+	"pid": "41004",
+	"pname": "libfwsi",
+	"pcpe": "cpe:/a:libfwsi_project:libfwsi"
 }

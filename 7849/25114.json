@@ -1,8 +1,8 @@
 {
-  "vid": "7849",
-  "vname": "ThreatTrack Security, Inc.",
-  "vcpe": "cpe:/:sunbeltsoftware",
-  "pid": "25114",
-  "pname": "VIPRE Antivirus Premium",
-  "pcpe": "cpe:/a:sunbeltsoftware:vipre_antivirus"
+	"vid": "7849",
+	"vname": "ThreatTrack Security, Inc.",
+	"vcpe": "cpe:/:sunbeltsoftware",
+	"pid": "25114",
+	"pname": "VIPRE Antivirus Premium",
+	"pcpe": "cpe:/a:sunbeltsoftware:vipre_antivirus"
 }

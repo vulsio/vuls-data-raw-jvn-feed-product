@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "40679",
-  "pname": "GE Proficy Machine Edition",
-  "pcpe": "cpe:/a:ge:proficy"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "40679",
+	"pname": "GE Proficy Machine Edition",
+	"pcpe": "cpe:/a:ge:proficy"
 }

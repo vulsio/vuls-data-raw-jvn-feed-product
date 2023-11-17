@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "16717",
-  "pname": "Oracle Essbase Server",
-  "pcpe": "cpe:/a:oracle:essbase_server"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "16717",
+	"pname": "Oracle Essbase Server",
+	"pcpe": "cpe:/a:oracle:essbase_server"
 }

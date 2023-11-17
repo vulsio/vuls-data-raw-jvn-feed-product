@@ -1,8 +1,8 @@
 {
-  "vid": "9104",
-  "vname": "Triangle MicroWorks",
-  "vcpe": "cpe:/:trianglemicroworks",
-  "pid": "53544",
-  "pname": "IEC 61870-6 (TASE.2/ICCP) Source Code Library for C++",
-  "pcpe": "cpe:/a:trianglemicroworks:iec_61870-6_source_code_library_for_c%2b%2b"
+	"vid": "9104",
+	"vname": "Triangle MicroWorks",
+	"vcpe": "cpe:/:trianglemicroworks",
+	"pid": "53544",
+	"pname": "IEC 61870-6 (TASE.2/ICCP) Source Code Library for C++",
+	"pcpe": "cpe:/a:trianglemicroworks:iec_61870-6_source_code_library_for_c%2b%2b"
 }

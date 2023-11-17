@@ -1,8 +1,8 @@
 {
-  "vid": "722",
-  "vname": "Zikula Foundation",
-  "vcpe": "cpe:/:zikula",
-  "pid": "2962",
-  "pname": "Zikula Application Framework",
-  "pcpe": "cpe:/a:zikula:zikula_application_framework"
+	"vid": "722",
+	"vname": "Zikula Foundation",
+	"vcpe": "cpe:/:zikula",
+	"pid": "2962",
+	"pname": "Zikula Application Framework",
+	"pcpe": "cpe:/a:zikula:zikula_application_framework"
 }

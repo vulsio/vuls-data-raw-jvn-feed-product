@@ -1,8 +1,8 @@
 {
-  "vid": "21976",
-  "vname": "SEH Technology",
-  "vcpe": "cpe:/:seh-technology",
-  "pid": "56420",
-  "pname": "EPS TSE Server 8 ファームウェア",
-  "pcpe": "cpe:/o:seh-technology:eps_tse_server_8_firmware"
+	"vid": "21976",
+	"vname": "SEH Technology",
+	"vcpe": "cpe:/:seh-technology",
+	"pid": "56420",
+	"pname": "EPS TSE Server 8 ファームウェア",
+	"pcpe": "cpe:/o:seh-technology:eps_tse_server_8_firmware"
 }

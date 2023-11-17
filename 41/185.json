@@ -1,8 +1,8 @@
 {
-  "vid": "41",
-  "vname": "apache-ssl.org",
-  "vcpe": "cpe:/:apache-ssl",
-  "pid": "185",
-  "pname": "Apache-SSL",
-  "pcpe": "cpe:/a:apache-ssl:apache-ssl"
+	"vid": "41",
+	"vname": "apache-ssl.org",
+	"vcpe": "cpe:/:apache-ssl",
+	"pid": "185",
+	"pname": "Apache-SSL",
+	"pcpe": "cpe:/a:apache-ssl:apache-ssl"
 }

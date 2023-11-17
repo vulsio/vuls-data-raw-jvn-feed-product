@@ -1,8 +1,8 @@
 {
-  "vid": "16628",
-  "vname": "Akuvox",
-  "vcpe": "cpe:/:akuvox",
-  "pid": "39609",
-  "pname": "SP-R50P ファームウェア",
-  "pcpe": "cpe:/o:akuvox:sp-r50p_firmware"
+	"vid": "16628",
+	"vname": "Akuvox",
+	"vcpe": "cpe:/:akuvox",
+	"pid": "39609",
+	"pname": "SP-R50P ファームウェア",
+	"pcpe": "cpe:/o:akuvox:sp-r50p_firmware"
 }

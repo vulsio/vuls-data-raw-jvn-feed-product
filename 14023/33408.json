@@ -1,8 +1,8 @@
 {
-  "vid": "14023",
-  "vname": "Open Whisper Systems",
-  "vcpe": "cpe:/:signal",
-  "pid": "33408",
-  "pname": "Signal",
-  "pcpe": "cpe:/a:signal:signal"
+	"vid": "14023",
+	"vname": "Open Whisper Systems",
+	"vcpe": "cpe:/:signal",
+	"pid": "33408",
+	"pname": "Signal",
+	"pcpe": "cpe:/a:signal:signal"
 }

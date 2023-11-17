@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "4032",
-  "pname": "TIBCO BusinessEvents",
-  "pcpe": "cpe:/a:tibco:businessevents"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "4032",
+	"pname": "TIBCO BusinessEvents",
+	"pcpe": "cpe:/a:tibco:businessevents"
 }

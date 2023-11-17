@@ -1,8 +1,8 @@
 {
-  "vid": "2607",
-  "vname": "bootmanage",
-  "vcpe": "cpe:/:bootmanage",
-  "pid": "6392",
-  "pname": "administrator",
-  "pcpe": "cpe:/a:bootmanage:administrator"
+	"vid": "2607",
+	"vname": "bootmanage",
+	"vcpe": "cpe:/:bootmanage",
+	"pid": "6392",
+	"pname": "administrator",
+	"pcpe": "cpe:/a:bootmanage:administrator"
 }

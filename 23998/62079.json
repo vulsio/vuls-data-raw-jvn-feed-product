@@ -1,8 +1,8 @@
 {
-  "vid": "23998",
-  "vname": "WP-Email project",
-  "vcpe": "cpe:/:wp-email_project",
-  "pid": "62079",
-  "pname": "WP-Email",
-  "pcpe": "cpe:/a:wp-email_project:wp-email"
+	"vid": "23998",
+	"vname": "WP-Email project",
+	"vcpe": "cpe:/:wp-email_project",
+	"pid": "62079",
+	"pname": "WP-Email",
+	"pcpe": "cpe:/a:wp-email_project:wp-email"
 }

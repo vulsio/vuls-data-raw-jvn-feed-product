@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "32682",
-  "pname": "LON-AL00B ファームウェア",
-  "pcpe": "cpe:/o:huawei:lon-al00b_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "32682",
+	"pname": "LON-AL00B ファームウェア",
+	"pcpe": "cpe:/o:huawei:lon-al00b_firmware"
 }

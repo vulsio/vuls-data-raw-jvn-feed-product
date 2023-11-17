@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "21225",
-  "pname": "HP MPIO Device Specific Module Manager",
-  "pcpe": "cpe:/a:hp:mpio_device_specific_module_manager"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "21225",
+	"pname": "HP MPIO Device Specific Module Manager",
+	"pcpe": "cpe:/a:hp:mpio_device_specific_module_manager"
 }

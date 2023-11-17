@@ -1,8 +1,8 @@
 {
-  "vid": "16944",
-  "vname": "Real Estate Connected",
-  "vcpe": "cpe:/:realestateconnected",
-  "pid": "40309",
-  "pname": "Easy Property Listings",
-  "pcpe": "cpe:/a:realestateconnected:easy_property_listings"
+	"vid": "16944",
+	"vname": "Real Estate Connected",
+	"vcpe": "cpe:/:realestateconnected",
+	"pid": "40309",
+	"pname": "Easy Property Listings",
+	"pcpe": "cpe:/a:realestateconnected:easy_property_listings"
 }

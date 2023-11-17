@@ -1,8 +1,8 @@
 {
-  "vid": "8436",
-  "vname": "webcms",
-  "vcpe": "cpe:/:webcms",
-  "pid": "16049",
-  "pname": "webcms portal edition",
-  "pcpe": "cpe:/a:webcms:webcms_portal_edition"
+	"vid": "8436",
+	"vname": "webcms",
+	"vcpe": "cpe:/:webcms",
+	"pid": "16049",
+	"pname": "webcms portal edition",
+	"pcpe": "cpe:/a:webcms:webcms_portal_edition"
 }

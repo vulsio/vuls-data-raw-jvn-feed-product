@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "32705",
-  "pname": "HPE OfficeConnect 1820 8GスイッチJ9979A ファームウェア",
-  "pcpe": "cpe:/o:hp:officeconnect_1820_8g_switch_j9979a_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "32705",
+	"pname": "HPE OfficeConnect 1820 8GスイッチJ9979A ファームウェア",
+	"pcpe": "cpe:/o:hp:officeconnect_1820_8g_switch_j9979a_firmware"
 }

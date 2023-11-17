@@ -1,8 +1,8 @@
 {
-  "vid": "4262",
-  "vname": "ジョンソンコントロールズ",
-  "vcpe": "cpe:/:johnsoncontrols",
-  "pid": "23788",
-  "pname": "ネットワークインテグレーションエンジン 5511-2",
-  "pcpe": "cpe:/h:johnsoncontrols:network_integration_engine_5511-2"
+	"vid": "4262",
+	"vname": "ジョンソンコントロールズ",
+	"vcpe": "cpe:/:johnsoncontrols",
+	"pid": "23788",
+	"pname": "ネットワークインテグレーションエンジン 5511-2",
+	"pcpe": "cpe:/h:johnsoncontrols:network_integration_engine_5511-2"
 }

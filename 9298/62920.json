@@ -1,8 +1,8 @@
 {
-  "vid": "9298",
-  "vname": "ADTRAN",
-  "vcpe": "cpe:/:adtran",
-  "pid": "62920",
-  "pname": "sr510n ファームウェア",
-  "pcpe": "cpe:/o:adtran:sr510n_firmware"
+	"vid": "9298",
+	"vname": "ADTRAN",
+	"vcpe": "cpe:/:adtran",
+	"pid": "62920",
+	"pname": "sr510n ファームウェア",
+	"pcpe": "cpe:/o:adtran:sr510n_firmware"
 }

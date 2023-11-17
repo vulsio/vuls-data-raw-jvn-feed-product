@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "27179",
-  "pname": "Cisco Virtualized Packet Core",
-  "pcpe": "cpe:/a:cisco:virtualized_packet_core"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "27179",
+	"pname": "Cisco Virtualized Packet Core",
+	"pcpe": "cpe:/a:cisco:virtualized_packet_core"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23528",
-  "vname": "openhwgroup",
-  "vcpe": "cpe:/:openhwgroup",
-  "pid": "60957",
-  "pname": "cva6",
-  "pcpe": "cpe:/a:openhwgroup:cva6"
+	"vid": "23528",
+	"vname": "openhwgroup",
+	"vcpe": "cpe:/:openhwgroup",
+	"pid": "60957",
+	"pname": "cva6",
+	"pcpe": "cpe:/a:openhwgroup:cva6"
 }

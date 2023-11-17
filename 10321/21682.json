@@ -1,8 +1,8 @@
 {
-  "vid": "10321",
-  "vname": "Protected Pages project",
-  "vcpe": "cpe:/:protected_pages_project",
-  "pid": "21682",
-  "pname": "Protected Pages",
-  "pcpe": "cpe:/a:protected_pages_project:protected_pages"
+	"vid": "10321",
+	"vname": "Protected Pages project",
+	"vcpe": "cpe:/:protected_pages_project",
+	"pid": "21682",
+	"pname": "Protected Pages",
+	"pcpe": "cpe:/a:protected_pages_project:protected_pages"
 }

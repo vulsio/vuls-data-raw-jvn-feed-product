@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47901",
-  "pname": "Siebel Core - Server BizLogic Script",
-  "pcpe": "cpe:/a:oracle:server_bizlogic_script"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47901",
+	"pname": "Siebel Core - Server BizLogic Script",
+	"pcpe": "cpe:/a:oracle:server_bizlogic_script"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12915",
-  "vname": "経済産業省資源エネルギー庁",
-  "vcpe": "cpe:/:enecho.meti",
-  "pid": "29814",
-  "pname": "新・基幹統計報告データ入力用プログラム",
-  "pcpe": "cpe:/a:enecho.meti:shin_kikan_toukei_houkoku_data_nyuryokuyou_program"
+	"vid": "12915",
+	"vname": "経済産業省資源エネルギー庁",
+	"vcpe": "cpe:/:enecho.meti",
+	"pid": "29814",
+	"pname": "新・基幹統計報告データ入力用プログラム",
+	"pcpe": "cpe:/a:enecho.meti:shin_kikan_toukei_houkoku_data_nyuryokuyou_program"
 }

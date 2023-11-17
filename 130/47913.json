@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "47913",
-  "pname": "Intel Falcon 8+ UAS AscTec Thermal Viewer ファームウェア",
-  "pcpe": "cpe:/o:intel:falcon_8%2b_uas_asctec_thermal_viewer_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "47913",
+	"pname": "Intel Falcon 8+ UAS AscTec Thermal Viewer ファームウェア",
+	"pcpe": "cpe:/o:intel:falcon_8%2b_uas_asctec_thermal_viewer_firmware"
 }

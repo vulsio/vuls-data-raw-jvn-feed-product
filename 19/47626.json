@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "47626",
-  "pname": "WAP351 Wireless-N Dual Radio Access Point with 5-Port Switch",
-  "pcpe": "cpe:/h:cisco:wap351_wireless_n_dual_radio_access_point_with_5-port_switch"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "47626",
+	"pname": "WAP351 Wireless-N Dual Radio Access Point with 5-Port Switch",
+	"pcpe": "cpe:/h:cisco:wap351_wireless_n_dual_radio_access_point_with_5-port_switch"
 }

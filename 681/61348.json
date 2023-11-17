@@ -1,8 +1,8 @@
 {
-  "vid": "681",
-  "vname": "ASUSTeK Computer Inc.",
-  "vcpe": "cpe:/:asus",
-  "pid": "61348",
-  "pname": "zenwifi ax mini ファームウェア",
-  "pcpe": "cpe:/o:asus:zenwifi_ax_mini_firmware"
+	"vid": "681",
+	"vname": "ASUSTeK Computer Inc.",
+	"vcpe": "cpe:/:asus",
+	"pid": "61348",
+	"pname": "zenwifi ax mini ファームウェア",
+	"pcpe": "cpe:/o:asus:zenwifi_ax_mini_firmware"
 }

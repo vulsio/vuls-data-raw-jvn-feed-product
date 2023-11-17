@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "36351",
-  "pname": "Mate RS ファームウェア",
-  "pcpe": "cpe:/o:huawei:mate_rs_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "36351",
+	"pname": "Mate RS ファームウェア",
+	"pcpe": "cpe:/o:huawei:mate_rs_firmware"
 }

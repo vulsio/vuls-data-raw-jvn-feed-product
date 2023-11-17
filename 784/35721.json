@@ -1,8 +1,8 @@
 {
-  "vid": "784",
-  "vname": "Technicolor",
-  "vcpe": "cpe:/:technicolor",
-  "pid": "35721",
-  "pname": "TC7200.20 ファームウェア",
-  "pcpe": "cpe:/o:technicolor:tc7200.20_firmware"
+	"vid": "784",
+	"vname": "Technicolor",
+	"vcpe": "cpe:/:technicolor",
+	"pid": "35721",
+	"pname": "TC7200.20 ファームウェア",
+	"pcpe": "cpe:/o:technicolor:tc7200.20_firmware"
 }

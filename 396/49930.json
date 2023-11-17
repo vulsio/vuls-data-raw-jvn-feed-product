@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "49930",
-  "pname": "s390-tools",
-  "pcpe": "cpe:/a:suse:s390-tools"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "49930",
+	"pname": "s390-tools",
+	"pcpe": "cpe:/a:suse:s390-tools"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13421",
-  "vname": "Auth0 Inc.",
-  "vcpe": "cpe:/:auth0",
-  "pid": "34013",
-  "pname": "node-jsonwebtoken",
-  "pcpe": "cpe:/a:auth0:jsonwebtoken"
+	"vid": "13421",
+	"vname": "Auth0 Inc.",
+	"vcpe": "cpe:/:auth0",
+	"pid": "34013",
+	"pname": "node-jsonwebtoken",
+	"pcpe": "cpe:/a:auth0:jsonwebtoken"
 }

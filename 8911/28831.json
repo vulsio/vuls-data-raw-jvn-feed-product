@@ -1,8 +1,8 @@
 {
-  "vid": "8911",
-  "vname": "CandlepinProject.org",
-  "vcpe": "cpe:/:candlepinproject",
-  "pid": "28831",
-  "pname": "Subscription Manager",
-  "pcpe": "cpe:/a:candlepinproject:subscription_manager"
+	"vid": "8911",
+	"vname": "CandlepinProject.org",
+	"vcpe": "cpe:/:candlepinproject",
+	"pid": "28831",
+	"pname": "Subscription Manager",
+	"pcpe": "cpe:/a:candlepinproject:subscription_manager"
 }

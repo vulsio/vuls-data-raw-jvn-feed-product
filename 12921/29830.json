@@ -1,8 +1,8 @@
 {
-  "vid": "12921",
-  "vname": "MODPlug Central",
-  "vcpe": "cpe:/:openmpt",
-  "pid": "29830",
-  "pname": "libopenmpt",
-  "pcpe": "cpe:/a:openmpt:libopenmpt"
+	"vid": "12921",
+	"vname": "MODPlug Central",
+	"vcpe": "cpe:/:openmpt",
+	"pid": "29830",
+	"pname": "libopenmpt",
+	"pcpe": "cpe:/a:openmpt:libopenmpt"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "63035",
-  "pname": "apprenda",
-  "pcpe": "cpe:/a:jenkins:apprenda"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "63035",
+	"pname": "apprenda",
+	"pcpe": "cpe:/a:jenkins:apprenda"
 }

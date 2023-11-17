@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "56087",
-  "pname": "Deep Discovery powered by Express5800 シリーズ",
-  "pcpe": "cpe:/o:nec:discovery_powered_by_express5800_series"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "56087",
+	"pname": "Deep Discovery powered by Express5800 シリーズ",
+	"pcpe": "cpe:/o:nec:discovery_powered_by_express5800_series"
 }

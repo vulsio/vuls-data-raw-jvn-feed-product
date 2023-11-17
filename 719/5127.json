@@ -1,8 +1,8 @@
 {
-  "vid": "719",
-  "vname": "HTC Corporation",
-  "vcpe": "cpe:/:htc",
-  "pid": "5127",
-  "pname": "HTC EVO 3D ソフトウェア",
-  "pcpe": "cpe:/a:htc:evo_4g_software"
+	"vid": "719",
+	"vname": "HTC Corporation",
+	"vcpe": "cpe:/:htc",
+	"pid": "5127",
+	"pname": "HTC EVO 3D ソフトウェア",
+	"pcpe": "cpe:/a:htc:evo_4g_software"
 }

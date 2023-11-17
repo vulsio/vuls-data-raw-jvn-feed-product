@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17728",
-  "pname": "HP P4300",
-  "pcpe": "cpe:/h:hp:p4300"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17728",
+	"pname": "HP P4300",
+	"pcpe": "cpe:/h:hp:p4300"
 }

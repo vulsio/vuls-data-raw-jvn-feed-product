@@ -1,8 +1,8 @@
 {
-  "vid": "21440",
-  "vname": "Nervos Network",
-  "vcpe": "cpe:/:nervos",
-  "pid": "55055",
-  "pname": "CKB",
-  "pcpe": "cpe:/a:nervos:ckb"
+	"vid": "21440",
+	"vname": "Nervos Network",
+	"vcpe": "cpe:/:nervos",
+	"pid": "55055",
+	"pname": "CKB",
+	"pcpe": "cpe:/a:nervos:ckb"
 }

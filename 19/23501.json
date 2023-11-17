@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23501",
-  "pname": "Cisco TelePresence IX5000",
-  "pcpe": "cpe:/h:cisco:telepresence_ix5000"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23501",
+	"pname": "Cisco TelePresence IX5000",
+	"pcpe": "cpe:/h:cisco:telepresence_ix5000"
 }

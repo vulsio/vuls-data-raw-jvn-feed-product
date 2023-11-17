@@ -1,8 +1,8 @@
 {
-  "vid": "19287",
-  "vname": "Okta, Inc.",
-  "vcpe": "cpe:/:okta",
-  "pid": "58107",
-  "pname": "advanced server access",
-  "pcpe": "cpe:/a:okta:advanced_server_access"
+	"vid": "19287",
+	"vname": "Okta, Inc.",
+	"vcpe": "cpe:/:okta",
+	"pid": "58107",
+	"pname": "advanced server access",
+	"pcpe": "cpe:/a:okta:advanced_server_access"
 }

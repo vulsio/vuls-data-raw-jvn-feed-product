@@ -1,8 +1,8 @@
 {
-  "vid": "9281",
-  "vname": "サイレックス・テクノロジー株式会社",
-  "vcpe": "cpe:/:silex",
-  "pid": "33531",
-  "pname": "GEH-500 ファームウェア",
-  "pcpe": "cpe:/o:silex:geh-500_firmware"
+	"vid": "9281",
+	"vname": "サイレックス・テクノロジー株式会社",
+	"vcpe": "cpe:/:silex",
+	"pid": "33531",
+	"pname": "GEH-500 ファームウェア",
+	"pcpe": "cpe:/o:silex:geh-500_firmware"
 }

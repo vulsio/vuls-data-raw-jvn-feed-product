@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "55507",
-  "pname": "DS-3WF0AC-2NT ファームウェア",
-  "pcpe": "cpe:/o:hikvision:ds-3wf0ac-2nt_firmware"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "55507",
+	"pname": "DS-3WF0AC-2NT ファームウェア",
+	"pcpe": "cpe:/o:hikvision:ds-3wf0ac-2nt_firmware"
 }

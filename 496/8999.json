@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "8999",
-  "pname": "BIG-IP 2400",
-  "pcpe": "cpe:/h:f5:big-ip_2400"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "8999",
+	"pname": "BIG-IP 2400",
+	"pcpe": "cpe:/h:f5:big-ip_2400"
 }

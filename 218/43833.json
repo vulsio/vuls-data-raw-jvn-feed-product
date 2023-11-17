@@ -1,8 +1,8 @@
 {
-  "vid": "218",
-  "vname": "ヤマハ",
-  "vcpe": "cpe:/:yamaha",
-  "pid": "43833",
-  "pname": "RTX3500",
-  "pcpe": "cpe:/h:yamaha:RTX3500"
+	"vid": "218",
+	"vname": "ヤマハ",
+	"vcpe": "cpe:/:yamaha",
+	"pid": "43833",
+	"pname": "RTX3500",
+	"pcpe": "cpe:/h:yamaha:RTX3500"
 }

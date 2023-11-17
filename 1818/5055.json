@@ -1,8 +1,8 @@
 {
-  "vid": "1818",
-  "vname": "Cloudera, Inc.",
-  "vcpe": "cpe:/:cloudera",
-  "pid": "5055",
-  "pname": "Cloudera Service and Configuration Manager",
-  "pcpe": "cpe:/a:cloudera:cloudera_service_and_configuration_manager"
+	"vid": "1818",
+	"vname": "Cloudera, Inc.",
+	"vcpe": "cpe:/:cloudera",
+	"pid": "5055",
+	"pname": "Cloudera Service and Configuration Manager",
+	"pcpe": "cpe:/a:cloudera:cloudera_service_and_configuration_manager"
 }

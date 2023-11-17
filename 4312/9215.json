@@ -1,8 +1,8 @@
 {
-  "vid": "4312",
-  "vname": "MySQLDumper-Team",
-  "vcpe": "cpe:/:mysqldumper",
-  "pid": "9215",
-  "pname": "MySQLDumper",
-  "pcpe": "cpe:/a:mysqldumper:mysqldumper"
+	"vid": "4312",
+	"vname": "MySQLDumper-Team",
+	"vcpe": "cpe:/:mysqldumper",
+	"pid": "9215",
+	"pname": "MySQLDumper",
+	"pcpe": "cpe:/a:mysqldumper:mysqldumper"
 }

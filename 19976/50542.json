@@ -1,8 +1,8 @@
 {
-  "vid": "19976",
-  "vname": "dav-cogs_project",
-  "vcpe": "cpe:/:dav-cogs_project",
-  "pid": "50542",
-  "pname": "Dav-Cogs",
-  "pcpe": "cpe:/a:dav-cogs_project:dav-cogs"
+	"vid": "19976",
+	"vname": "dav-cogs_project",
+	"vcpe": "cpe:/:dav-cogs_project",
+	"pid": "50542",
+	"pname": "Dav-Cogs",
+	"pcpe": "cpe:/a:dav-cogs_project:dav-cogs"
 }

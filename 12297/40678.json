@@ -1,8 +1,8 @@
 {
-  "vid": "12297",
-  "vname": "WooCommerce project",
-  "vcpe": "cpe:/:woocommerce",
-  "pid": "40678",
-  "pname": "Persian Woocommerce SMS",
-  "pcpe": "cpe:/a:woocommerce:persian_woocommerce_sms"
+	"vid": "12297",
+	"vname": "WooCommerce project",
+	"vcpe": "cpe:/:woocommerce",
+	"pid": "40678",
+	"pname": "Persian Woocommerce SMS",
+	"pcpe": "cpe:/a:woocommerce:persian_woocommerce_sms"
 }

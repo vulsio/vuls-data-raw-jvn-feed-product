@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "10007",
-  "pname": "tivoli continuous data protection for files",
-  "pcpe": "cpe:/a:ibm:tivoli_continuous_data_protection_for_files"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "10007",
+	"pname": "tivoli continuous data protection for files",
+	"pcpe": "cpe:/a:ibm:tivoli_continuous_data_protection_for_files"
 }

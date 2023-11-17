@@ -1,8 +1,8 @@
 {
-  "vid": "15469",
-  "vname": "Adrenalin",
-  "vcpe": "cpe:/:myadrenalin",
-  "pid": "36328",
-  "pname": "Adrenalin HRMS",
-  "pcpe": "cpe:/a:myadrenalin:human_resource_management_software"
+	"vid": "15469",
+	"vname": "Adrenalin",
+	"vcpe": "cpe:/:myadrenalin",
+	"pid": "36328",
+	"pname": "Adrenalin HRMS",
+	"pcpe": "cpe:/a:myadrenalin:human_resource_management_software"
 }

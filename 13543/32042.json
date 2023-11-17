@@ -1,8 +1,8 @@
 {
-  "vid": "13543",
-  "vname": "BA Systems",
-  "vcpe": "cpe:/:basystems",
-  "pid": "32042",
-  "pname": "BAS920 ファームウェア",
-  "pcpe": "cpe:/o:basystems:bas920_firmware"
+	"vid": "13543",
+	"vname": "BA Systems",
+	"vcpe": "cpe:/:basystems",
+	"pid": "32042",
+	"pname": "BAS920 ファームウェア",
+	"pcpe": "cpe:/o:basystems:bas920_firmware"
 }

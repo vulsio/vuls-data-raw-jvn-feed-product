@@ -1,8 +1,8 @@
 {
-  "vid": "9721",
-  "vname": "Open Information Security Foundation",
-  "vcpe": "cpe:/:openinfosecfoundation",
-  "pid": "20234",
-  "pname": "Suricata",
-  "pcpe": "cpe:/a:openinfosecfoundation:suricata"
+	"vid": "9721",
+	"vname": "Open Information Security Foundation",
+	"vcpe": "cpe:/:openinfosecfoundation",
+	"pid": "20234",
+	"pname": "Suricata",
+	"pcpe": "cpe:/a:openinfosecfoundation:suricata"
 }

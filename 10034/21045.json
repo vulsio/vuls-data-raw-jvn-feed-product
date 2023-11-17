@@ -1,8 +1,8 @@
 {
-  "vid": "10034",
-  "vname": "ActiveTrak Inc.",
-  "vcpe": "cpe:/:gadgettrak",
-  "pid": "21045",
-  "pname": "GadgetTrak Mobile Security",
-  "pcpe": "cpe:/a:gadgettrak:gadgettrak_mobile_security"
+	"vid": "10034",
+	"vname": "ActiveTrak Inc.",
+	"vcpe": "cpe:/:gadgettrak",
+	"pid": "21045",
+	"pname": "GadgetTrak Mobile Security",
+	"pcpe": "cpe:/a:gadgettrak:gadgettrak_mobile_security"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16762",
-  "vname": "Easy Digital Downloads",
-  "vcpe": "cpe:/:easydigitaldownloads",
-  "pid": "41295",
-  "pname": "Recommended Products",
-  "pcpe": "cpe:/a:easydigitaldownloads:recommended_products"
+	"vid": "16762",
+	"vname": "Easy Digital Downloads",
+	"vcpe": "cpe:/:easydigitaldownloads",
+	"pid": "41295",
+	"pname": "Recommended Products",
+	"pcpe": "cpe:/a:easydigitaldownloads:recommended_products"
 }

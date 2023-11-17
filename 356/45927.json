@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "45927",
-  "pname": "Asylo",
-  "pcpe": "cpe:/a:google:asylo"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "45927",
+	"pname": "Asylo",
+	"pcpe": "cpe:/a:google:asylo"
 }

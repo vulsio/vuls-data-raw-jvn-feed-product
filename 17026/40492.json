@@ -1,8 +1,8 @@
 {
-  "vid": "17026",
-  "vname": "once_cell project",
-  "vcpe": "cpe:/:once_cell_project",
-  "pid": "40492",
-  "pname": "once_cell",
-  "pcpe": "cpe:/a:once_cell_project:once_cell"
+	"vid": "17026",
+	"vname": "once_cell project",
+	"vcpe": "cpe:/:once_cell_project",
+	"pid": "40492",
+	"pname": "once_cell",
+	"pcpe": "cpe:/a:once_cell_project:once_cell"
 }

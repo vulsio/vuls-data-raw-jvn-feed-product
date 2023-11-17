@@ -1,8 +1,8 @@
 {
-  "vid": "4286",
-  "vname": "Palo Alto Networks",
-  "vcpe": "cpe:/:palo_alto_networks",
-  "pid": "9127",
-  "pname": "Palo Alto Networks GlobalProtect",
-  "pcpe": "cpe:/a:palo_alto_networks:global_protected_gateway"
+	"vid": "4286",
+	"vname": "Palo Alto Networks",
+	"vcpe": "cpe:/:palo_alto_networks",
+	"pid": "9127",
+	"pname": "Palo Alto Networks GlobalProtect",
+	"pcpe": "cpe:/a:palo_alto_networks:global_protected_gateway"
 }

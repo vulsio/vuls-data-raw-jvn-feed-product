@@ -1,8 +1,8 @@
 {
-  "vid": "1865",
-  "vname": "NetWebLogic",
-  "vcpe": "cpe:/:netweblogic",
-  "pid": "20096",
-  "pname": "Events Manager",
-  "pcpe": "cpe:/a:netweblogic:events_manager"
+	"vid": "1865",
+	"vname": "NetWebLogic",
+	"vcpe": "cpe:/:netweblogic",
+	"pid": "20096",
+	"pname": "Events Manager",
+	"pcpe": "cpe:/a:netweblogic:events_manager"
 }

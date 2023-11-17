@@ -1,8 +1,8 @@
 {
-  "vid": "4309",
-  "vname": "Toocharger",
-  "vcpe": "cpe:/:toocharger",
-  "pid": "15502",
-  "pname": "myboard",
-  "pcpe": "cpe:/a:toocharger:myboard"
+	"vid": "4309",
+	"vname": "Toocharger",
+	"vcpe": "cpe:/:toocharger",
+	"pid": "15502",
+	"pname": "myboard",
+	"pcpe": "cpe:/a:toocharger:myboard"
 }

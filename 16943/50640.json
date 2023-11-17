@@ -1,8 +1,8 @@
 {
-  "vid": "16943",
-  "vname": "wp-buy",
-  "vcpe": "cpe:/:wp-buy",
-  "pid": "50640",
-  "pname": "Captchinoo, admin login page protection with Google recaptcha",
-  "pcpe": "cpe:/a:wp-buy:captchinoo"
+	"vid": "16943",
+	"vname": "wp-buy",
+	"vcpe": "cpe:/:wp-buy",
+	"pid": "50640",
+	"pname": "Captchinoo, admin login page protection with Google recaptcha",
+	"pcpe": "cpe:/a:wp-buy:captchinoo"
 }

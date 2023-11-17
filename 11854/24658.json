@@ -1,8 +1,8 @@
 {
-  "vid": "11854",
-  "vname": "Smart Trim project",
-  "vcpe": "cpe:/:smart_trim_project",
-  "pid": "24658",
-  "pname": "Smart Trim",
-  "pcpe": "cpe:/a:smart_trim_project:smart_trim"
+	"vid": "11854",
+	"vname": "Smart Trim project",
+	"vcpe": "cpe:/:smart_trim_project",
+	"pid": "24658",
+	"pname": "Smart Trim",
+	"pcpe": "cpe:/a:smart_trim_project:smart_trim"
 }

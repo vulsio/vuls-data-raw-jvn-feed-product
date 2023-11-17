@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "51699",
-  "pname": "FX5UJ-24MT/ESS ファームウェア",
-  "pcpe": "cpe:/o:mitsubishielectric:fx5uj-24mt%2fess_firmware"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "51699",
+	"pname": "FX5UJ-24MT/ESS ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:fx5uj-24mt%2fess_firmware"
 }

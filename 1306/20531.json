@@ -1,8 +1,8 @@
 {
-  "vid": "1306",
-  "vname": "AVG Technologies",
-  "vcpe": "cpe:/:avg",
-  "pid": "20531",
-  "pname": "AVG Secure Search",
-  "pcpe": "cpe:/a:avg:secure_search_toolbar"
+	"vid": "1306",
+	"vname": "AVG Technologies",
+	"vcpe": "cpe:/:avg",
+	"pid": "20531",
+	"pname": "AVG Secure Search",
+	"pcpe": "cpe:/a:avg:secure_search_toolbar"
 }

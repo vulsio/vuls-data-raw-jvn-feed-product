@@ -1,8 +1,8 @@
 {
-  "vid": "17531",
-  "vname": "Symphony Mobile",
-  "vcpe": "cpe:/:symphony-mobile",
-  "pid": "41980",
-  "pname": "i95 Lite ファームウェア",
-  "pcpe": "cpe:/o:symphony-mobile:i95_lite_firmware"
+	"vid": "17531",
+	"vname": "Symphony Mobile",
+	"vcpe": "cpe:/:symphony-mobile",
+	"pid": "41980",
+	"pname": "i95 Lite ファームウェア",
+	"pcpe": "cpe:/o:symphony-mobile:i95_lite_firmware"
 }

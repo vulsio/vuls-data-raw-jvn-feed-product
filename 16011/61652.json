@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "61652",
-  "pname": "B420 ファームウェア",
-  "pcpe": "cpe:/o:bosch:b420_firmware"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "61652",
+	"pname": "B420 ファームウェア",
+	"pcpe": "cpe:/o:bosch:b420_firmware"
 }

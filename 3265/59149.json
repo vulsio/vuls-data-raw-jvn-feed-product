@@ -1,8 +1,8 @@
 {
-  "vid": "3265",
-  "vname": "dji",
-  "vcpe": "cpe:/:dji",
-  "pid": "59149",
-  "pname": "mini 2 ファームウェア",
-  "pcpe": "cpe:/o:dji:mini_2_firmware"
+	"vid": "3265",
+	"vname": "dji",
+	"vcpe": "cpe:/:dji",
+	"pid": "59149",
+	"pname": "mini 2 ファームウェア",
+	"pcpe": "cpe:/o:dji:mini_2_firmware"
 }

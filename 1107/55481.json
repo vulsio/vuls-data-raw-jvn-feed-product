@@ -1,8 +1,8 @@
 {
-  "vid": "1107",
-  "vname": "Xiaomi",
-  "vcpe": "cpe:/:xiaomi",
-  "pid": "55481",
-  "pname": "Xiaomi Mirror Screen",
-  "pcpe": "cpe:/a:xiaomi:xiaomi_mirror_screen"
+	"vid": "1107",
+	"vname": "Xiaomi",
+	"vcpe": "cpe:/:xiaomi",
+	"pid": "55481",
+	"pname": "Xiaomi Mirror Screen",
+	"pcpe": "cpe:/a:xiaomi:xiaomi_mirror_screen"
 }

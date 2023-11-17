@@ -1,8 +1,8 @@
 {
-  "vid": "5450",
-  "vname": "LXR Project",
-  "vcpe": "cpe:/:lxr_project",
-  "pid": "11173",
-  "pname": "LXR",
-  "pcpe": "cpe:/a:lxr_project:lxr"
+	"vid": "5450",
+	"vname": "LXR Project",
+	"vcpe": "cpe:/:lxr_project",
+	"pid": "11173",
+	"pname": "LXR",
+	"pcpe": "cpe:/a:lxr_project:lxr"
 }

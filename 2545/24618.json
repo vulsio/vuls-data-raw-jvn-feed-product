@@ -1,8 +1,8 @@
 {
-  "vid": "2545",
-  "vname": "BitTorrent, Inc.",
-  "vcpe": "cpe:/:bittorrent",
-  "pid": "24618",
-  "pname": "uTorrent Remote",
-  "pcpe": "cpe:/a:bittorrent:utorrent_remote"
+	"vid": "2545",
+	"vname": "BitTorrent, Inc.",
+	"vcpe": "cpe:/:bittorrent",
+	"pid": "24618",
+	"pname": "uTorrent Remote",
+	"pcpe": "cpe:/a:bittorrent:utorrent_remote"
 }

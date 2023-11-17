@@ -1,8 +1,8 @@
 {
-  "vid": "100",
-  "vname": "NetCommons プロジェクト",
-  "vcpe": "cpe:/:netcommons",
-  "pid": "508",
-  "pname": "NetCommons",
-  "pcpe": "cpe:/a:netcommons:netcommons"
+	"vid": "100",
+	"vname": "NetCommons プロジェクト",
+	"vcpe": "cpe:/:netcommons",
+	"pid": "508",
+	"pname": "NetCommons",
+	"pcpe": "cpe:/a:netcommons:netcommons"
 }

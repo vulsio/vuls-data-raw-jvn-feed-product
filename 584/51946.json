@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "51946",
-  "pname": "Mendix",
-  "pcpe": "cpe:/a:siemens:mendix"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "51946",
+	"pname": "Mendix",
+	"pcpe": "cpe:/a:siemens:mendix"
 }

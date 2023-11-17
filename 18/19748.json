@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19748",
-  "pname": "IBM Flex System V7000",
-  "pcpe": "cpe:/h:ibm:flex_system_v7000"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19748",
+	"pname": "IBM Flex System V7000",
+	"pcpe": "cpe:/h:ibm:flex_system_v7000"
 }

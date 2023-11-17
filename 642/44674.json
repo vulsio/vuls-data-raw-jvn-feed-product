@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "44674",
-  "pname": "JWNR2000T ファームウェア",
-  "pcpe": "cpe:/o:netgear:jwnr2000t_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "44674",
+	"pname": "JWNR2000T ファームウェア",
+	"pcpe": "cpe:/o:netgear:jwnr2000t_firmware"
 }

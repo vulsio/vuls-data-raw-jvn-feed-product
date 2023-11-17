@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "24918",
-  "pname": "Emptoris Strategic Supply Management",
-  "pcpe": "cpe:/a:ibm:emptoris_strategic_supply_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "24918",
+	"pname": "Emptoris Strategic Supply Management",
+	"pcpe": "cpe:/a:ibm:emptoris_strategic_supply_management"
 }

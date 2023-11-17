@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28623",
-  "pname": "Tecal DH320 V2 ファームウェア",
-  "pcpe": "cpe:/o:huawei:tecal_dh320_v2_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28623",
+	"pname": "Tecal DH320 V2 ファームウェア",
+	"pcpe": "cpe:/o:huawei:tecal_dh320_v2_firmware"
 }

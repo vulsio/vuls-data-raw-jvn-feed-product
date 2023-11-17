@@ -1,8 +1,8 @@
 {
-  "vid": "12496",
-  "vname": "Keekoonvision Technology Co., Ltd",
-  "vcpe": "cpe:/:keekoonvision",
-  "pid": "28249",
-  "pname": "KK002 IP カメラファームウェア",
-  "pcpe": "cpe:/o:keekoonvision:kk002_ip_camera_firmware"
+	"vid": "12496",
+	"vname": "Keekoonvision Technology Co., Ltd",
+	"vcpe": "cpe:/:keekoonvision",
+	"pid": "28249",
+	"pname": "KK002 IP カメラファームウェア",
+	"pcpe": "cpe:/o:keekoonvision:kk002_ip_camera_firmware"
 }

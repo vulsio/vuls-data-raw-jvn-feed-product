@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "19568",
-  "pname": "kexec-tools",
-  "pcpe": "cpe:/a:redhat:kexec-tools"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "19568",
+	"pname": "kexec-tools",
+	"pcpe": "cpe:/a:redhat:kexec-tools"
 }

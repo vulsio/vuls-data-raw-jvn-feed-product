@@ -1,8 +1,8 @@
 {
-  "vid": "13737",
-  "vname": "CW Joomla",
-  "vcpe": "cpe:/:cwjoomla",
-  "pid": "35980",
-  "pname": "CW Article Attachments PRO",
-  "pcpe": "cpe:/a:cwjoomla:cw_article_attachments_pro"
+	"vid": "13737",
+	"vname": "CW Joomla",
+	"vcpe": "cpe:/:cwjoomla",
+	"pid": "35980",
+	"pname": "CW Article Attachments PRO",
+	"pcpe": "cpe:/a:cwjoomla:cw_article_attachments_pro"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "30331",
-  "pname": "IBM BladeCenter Layer 2/3 Copper Ethernet Switch Module ファームウェア",
-  "pcpe": "cpe:/o:ibm:layer_2%2F3_copper_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "30331",
+	"pname": "IBM BladeCenter Layer 2/3 Copper Ethernet Switch Module ファームウェア",
+	"pcpe": "cpe:/o:ibm:layer_2%2F3_copper_firmware"
 }

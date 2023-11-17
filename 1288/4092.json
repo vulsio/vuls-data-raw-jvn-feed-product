@@ -1,8 +1,8 @@
 {
-  "vid": "1288",
-  "vname": "Emsisoft",
-  "vcpe": "cpe:/:emsisoft",
-  "pid": "4092",
-  "pname": "Emsisoft Anti-Malware",
-  "pcpe": "cpe:/a:emsisoft:anti-malware"
+	"vid": "1288",
+	"vname": "Emsisoft",
+	"vcpe": "cpe:/:emsisoft",
+	"pid": "4092",
+	"pname": "Emsisoft Anti-Malware",
+	"pcpe": "cpe:/a:emsisoft:anti-malware"
 }

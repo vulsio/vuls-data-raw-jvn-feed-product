@@ -1,8 +1,8 @@
 {
-  "vid": "489",
-  "vname": "アドシステムズ",
-  "vcpe": "cpe:/:ad2000",
-  "pid": "2140",
-  "pname": "Ｗｅｂ会議室予約",
-  "pcpe": "cpe:/a:ad2000:meeting_room_reservations"
+	"vid": "489",
+	"vname": "アドシステムズ",
+	"vcpe": "cpe:/:ad2000",
+	"pid": "2140",
+	"pname": "Ｗｅｂ会議室予約",
+	"pcpe": "cpe:/a:ad2000:meeting_room_reservations"
 }

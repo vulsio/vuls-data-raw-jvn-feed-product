@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "61811",
-  "pname": "compuware zadviser api",
-  "pcpe": "cpe:/a:jenkins:compuware_zadviser_api"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "61811",
+	"pname": "compuware zadviser api",
+	"pcpe": "cpe:/a:jenkins:compuware_zadviser_api"
 }

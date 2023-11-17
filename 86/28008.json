@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "28008",
-  "pname": "WAPM-1166D ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wapm-1166d_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "28008",
+	"pname": "WAPM-1166D ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wapm-1166d_firmware"
 }

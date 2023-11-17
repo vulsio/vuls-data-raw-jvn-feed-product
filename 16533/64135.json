@@ -1,8 +1,8 @@
 {
-  "vid": "16533",
-  "vname": "Sick",
-  "vcpe": "cpe:/:sick",
-  "pid": "64135",
-  "pname": "sim2500 ファームウェア",
-  "pcpe": "cpe:/o:sick:sim2500_firmware"
+	"vid": "16533",
+	"vname": "Sick",
+	"vcpe": "cpe:/:sick",
+	"pid": "64135",
+	"pname": "sim2500 ファームウェア",
+	"pcpe": "cpe:/o:sick:sim2500_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13421",
-  "vname": "Auth0 Inc.",
-  "vcpe": "cpe:/:auth0",
-  "pid": "31598",
-  "pname": "Auth0",
-  "pcpe": "cpe:/a:auth0:auth0"
+	"vid": "13421",
+	"vname": "Auth0 Inc.",
+	"vcpe": "cpe:/:auth0",
+	"pid": "31598",
+	"pname": "Auth0",
+	"pcpe": "cpe:/a:auth0:auth0"
 }

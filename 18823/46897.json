@@ -1,8 +1,8 @@
 {
-  "vid": "18823",
-  "vname": "株式会社エム・システム技研",
-  "vcpe": "cpe:/:misc",
-  "pid": "46897",
-  "pname": "タイプC (DL8-C)",
-  "pcpe": "cpe:/a:misc:m_system_typec_dl8_c"
+	"vid": "18823",
+	"vname": "株式会社エム・システム技研",
+	"vcpe": "cpe:/:misc",
+	"pid": "46897",
+	"pname": "タイプC (DL8-C)",
+	"pcpe": "cpe:/a:misc:m_system_typec_dl8_c"
 }

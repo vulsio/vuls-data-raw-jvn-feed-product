@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "43658",
-  "pname": "Native Client",
-  "pcpe": "cpe:/a:google:native_client"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "43658",
+	"pname": "Native Client",
+	"pcpe": "cpe:/a:google:native_client"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1566",
-  "vname": "LiveZilla",
-  "vcpe": "cpe:/:livezilla",
-  "pid": "4565",
-  "pname": "LiveZilla",
-  "pcpe": "cpe:/a:livezilla:livezilla"
+	"vid": "1566",
+	"vname": "LiveZilla",
+	"vcpe": "cpe:/:livezilla",
+	"pid": "4565",
+	"pname": "LiveZilla",
+	"pcpe": "cpe:/a:livezilla:livezilla"
 }

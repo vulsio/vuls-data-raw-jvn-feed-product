@@ -1,8 +1,8 @@
 {
-  "vid": "3989",
-  "vname": "globetrotter",
-  "vcpe": "cpe:/:globetrotter",
-  "pid": "8431",
-  "pname": "mobility manager",
-  "pcpe": "cpe:/a:globetrotter:mobility_manager"
+	"vid": "3989",
+	"vname": "globetrotter",
+	"vcpe": "cpe:/:globetrotter",
+	"pid": "8431",
+	"pname": "mobility manager",
+	"pcpe": "cpe:/a:globetrotter:mobility_manager"
 }

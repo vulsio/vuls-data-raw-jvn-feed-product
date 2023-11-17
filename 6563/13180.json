@@ -1,8 +1,8 @@
 {
-  "vid": "6563",
-  "vname": "Trionic Labs",
-  "vcpe": "cpe:/:trioniclabs",
-  "pid": "13180",
-  "pname": "WordPress Sentinel",
-  "pcpe": "cpe:/a:trioniclabs:sentine"
+	"vid": "6563",
+	"vname": "Trionic Labs",
+	"vcpe": "cpe:/:trioniclabs",
+	"pid": "13180",
+	"pname": "WordPress Sentinel",
+	"pcpe": "cpe:/a:trioniclabs:sentine"
 }

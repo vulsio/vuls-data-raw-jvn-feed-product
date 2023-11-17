@@ -1,8 +1,8 @@
 {
-  "vid": "17682",
-  "vname": "cybercompay",
-  "vcpe": "cpe:/:cybercompay",
-  "pid": "42481",
-  "pname": "swipehq-payment-gateway-woocommerce",
-  "pcpe": "cpe:/a:cybercompay:swipehq-payment-gateway-woocommerce"
+	"vid": "17682",
+	"vname": "cybercompay",
+	"vcpe": "cpe:/:cybercompay",
+	"pid": "42481",
+	"pname": "swipehq-payment-gateway-woocommerce",
+	"pcpe": "cpe:/a:cybercompay:swipehq-payment-gateway-woocommerce"
 }

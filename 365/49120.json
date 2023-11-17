@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "49120",
-  "pname": "Citrix Secure Mail",
-  "pcpe": "cpe:/a:citrix:secure_mail"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "49120",
+	"pname": "Citrix Secure Mail",
+	"pcpe": "cpe:/a:citrix:secure_mail"
 }

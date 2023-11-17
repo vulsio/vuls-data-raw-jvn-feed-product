@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "37854",
-  "pname": "Dell WES Wyse デバイス エージェント",
-  "pcpe": "cpe:/a:dell:windows_embedded_standard_wyse_device_agent"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "37854",
+	"pname": "Dell WES Wyse デバイス エージェント",
+	"pcpe": "cpe:/a:dell:windows_embedded_standard_wyse_device_agent"
 }

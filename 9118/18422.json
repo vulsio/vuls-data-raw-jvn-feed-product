@@ -1,8 +1,8 @@
 {
-  "vid": "9118",
-  "vname": "Optimal Payments",
-  "vcpe": "cpe:/:optimalpayments",
-  "pid": "18422",
-  "pname": "NETELLER Direct Payment API",
-  "pcpe": "cpe:/a:optimalpayments:neteller_direct_payment_api"
+	"vid": "9118",
+	"vname": "Optimal Payments",
+	"vcpe": "cpe:/:optimalpayments",
+	"pid": "18422",
+	"pname": "NETELLER Direct Payment API",
+	"pcpe": "cpe:/a:optimalpayments:neteller_direct_payment_api"
 }

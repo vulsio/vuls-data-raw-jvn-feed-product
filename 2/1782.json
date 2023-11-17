@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "1782",
-  "pname": "Microsoft Search Server",
-  "pcpe": "cpe:/a:microsoft:search_server"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "1782",
+	"pname": "Microsoft Search Server",
+	"pcpe": "cpe:/a:microsoft:search_server"
 }

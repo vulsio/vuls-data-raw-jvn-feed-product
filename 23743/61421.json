@@ -1,8 +1,8 @@
 {
-  "vid": "23743",
-  "vname": "WangGuard project",
-  "vcpe": "cpe:/:wangguard_project",
-  "pid": "61421",
-  "pname": "WangGuard",
-  "pcpe": "cpe:/a:wangguard_project:wangguard"
+	"vid": "23743",
+	"vname": "WangGuard project",
+	"vcpe": "cpe:/:wangguard_project",
+	"pid": "61421",
+	"pname": "WangGuard",
+	"pcpe": "cpe:/a:wangguard_project:wangguard"
 }

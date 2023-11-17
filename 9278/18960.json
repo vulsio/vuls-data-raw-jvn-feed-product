@@ -1,8 +1,8 @@
 {
-  "vid": "9278",
-  "vname": "Eaton",
-  "vcpe": "cpe:/:eaton",
-  "pid": "18960",
-  "pname": "SMP 4/DP Gateway",
-  "pcpe": "cpe:/h:eaton:smp_4%2Fdp_gateway_%28data_concentrator%29"
+	"vid": "9278",
+	"vname": "Eaton",
+	"vcpe": "cpe:/:eaton",
+	"pid": "18960",
+	"pname": "SMP 4/DP Gateway",
+	"pcpe": "cpe:/h:eaton:smp_4%2Fdp_gateway_%28data_concentrator%29"
 }

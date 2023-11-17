@@ -1,8 +1,8 @@
 {
-  "vid": "4413",
-  "vname": "GarrettCom, Inc.",
-  "vcpe": "cpe:/:garrettcom",
-  "pid": "24519",
-  "pname": "GarrettCom Magnum 10K ファームウェア",
-  "pcpe": "cpe:/o:garrettcom:magnum_10k_firmware"
+	"vid": "4413",
+	"vname": "GarrettCom, Inc.",
+	"vcpe": "cpe:/:garrettcom",
+	"pid": "24519",
+	"pname": "GarrettCom Magnum 10K ファームウェア",
+	"pcpe": "cpe:/o:garrettcom:magnum_10k_firmware"
 }

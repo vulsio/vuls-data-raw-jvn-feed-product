@@ -1,8 +1,8 @@
 {
-  "vid": "12915",
-  "vname": "経済産業省資源エネルギー庁",
-  "vcpe": "cpe:/:enecho.meti",
-  "pid": "29825",
-  "pname": "定期報告書作成支援ツール",
-  "pcpe": "cpe:/a:enecho.meti:teikihoukokusho_sakuseishien_tool"
+	"vid": "12915",
+	"vname": "経済産業省資源エネルギー庁",
+	"vcpe": "cpe:/:enecho.meti",
+	"pid": "29825",
+	"pname": "定期報告書作成支援ツール",
+	"pcpe": "cpe:/a:enecho.meti:teikihoukokusho_sakuseishien_tool"
 }

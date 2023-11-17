@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "33086",
-  "pname": "IBM Business Process Manager Enterprise Service Bus",
-  "pcpe": "cpe:/a:ibm:business_process_manager_enterprise_service_bus"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "33086",
+	"pname": "IBM Business Process Manager Enterprise Service Bus",
+	"pcpe": "cpe:/a:ibm:business_process_manager_enterprise_service_bus"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "529",
-  "vname": "Caucho Technology",
-  "vcpe": "cpe:/:caucho",
-  "pid": "2132",
-  "pname": "Resin",
-  "pcpe": "cpe:/a:caucho:resin"
+	"vid": "529",
+	"vname": "Caucho Technology",
+	"vcpe": "cpe:/:caucho",
+	"pid": "2132",
+	"pname": "Resin",
+	"pcpe": "cpe:/a:caucho:resin"
 }

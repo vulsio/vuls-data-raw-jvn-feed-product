@@ -1,8 +1,8 @@
 {
-  "vid": "1357",
-  "vname": "Artica ST",
-  "vcpe": "cpe:/:artica",
-  "pid": "36699",
-  "pname": "Integria IMS",
-  "pcpe": "cpe:/a:artica:integria_ims"
+	"vid": "1357",
+	"vname": "Artica ST",
+	"vcpe": "cpe:/:artica",
+	"pid": "36699",
+	"pname": "Integria IMS",
+	"pcpe": "cpe:/a:artica:integria_ims"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15294",
-  "vname": "AVEVA",
-  "vcpe": "cpe:/:aveva",
-  "pid": "54608",
-  "pname": "AVEVA Edge",
-  "pcpe": "cpe:/a:aveva:aveva_edge"
+	"vid": "15294",
+	"vname": "AVEVA",
+	"vcpe": "cpe:/:aveva",
+	"pid": "54608",
+	"pname": "AVEVA Edge",
+	"pcpe": "cpe:/a:aveva:aveva_edge"
 }

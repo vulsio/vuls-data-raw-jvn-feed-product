@@ -1,8 +1,8 @@
 {
-  "vid": "12508",
-  "vname": "Becton, Dickinson and Company (BD)",
-  "vcpe": "cpe:/:bd",
-  "pid": "54707",
-  "pname": "BD BodyGuard",
-  "pcpe": "cpe:/o:bd:bodyguard"
+	"vid": "12508",
+	"vname": "Becton, Dickinson and Company (BD)",
+	"vcpe": "cpe:/:bd",
+	"pid": "54707",
+	"pname": "BD BodyGuard",
+	"pcpe": "cpe:/o:bd:bodyguard"
 }

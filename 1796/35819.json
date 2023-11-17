@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "35819",
-  "pname": "MiniMed 530G (751) ファームウェア",
-  "pcpe": "cpe:/o:medtronic:751_minimed_530g_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "35819",
+	"pname": "MiniMed 530G (751) ファームウェア",
+	"pcpe": "cpe:/o:medtronic:751_minimed_530g_firmware"
 }

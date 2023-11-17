@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "25967",
-  "pname": "Apache LDAP Studio",
-  "pcpe": "cpe:/a:apache:apache_ldap_studio"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "25967",
+	"pname": "Apache LDAP Studio",
+	"pcpe": "cpe:/a:apache:apache_ldap_studio"
 }

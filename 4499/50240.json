@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "50240",
-  "pname": "RJ71GF11-T2 ファームウェア",
-  "pcpe": "cpe:/o:mitsubishielectric:rj71gf11-t2_firmware"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "50240",
+	"pname": "RJ71GF11-T2 ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:rj71gf11-t2_firmware"
 }

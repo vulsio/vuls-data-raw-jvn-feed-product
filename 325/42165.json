@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "42165",
-  "pname": "Lenovo Energy Management",
-  "pcpe": "cpe:/a:lenovo:energy_management"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "42165",
+	"pname": "Lenovo Energy Management",
+	"pcpe": "cpe:/a:lenovo:energy_management"
 }

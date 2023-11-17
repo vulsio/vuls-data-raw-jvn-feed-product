@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "4042",
-  "pname": "TIBCO Spotfire Professional",
-  "pcpe": "cpe:/a:tibco:spotfire_professional"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "4042",
+	"pname": "TIBCO Spotfire Professional",
+	"pcpe": "cpe:/a:tibco:spotfire_professional"
 }

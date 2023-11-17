@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "46775",
-  "pname": "PX Developer",
-  "pcpe": "cpe:/a:mitsubishielectric:px_developer"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "46775",
+	"pname": "PX Developer",
+	"pcpe": "cpe:/a:mitsubishielectric:px_developer"
 }

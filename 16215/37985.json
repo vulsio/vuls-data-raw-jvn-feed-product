@@ -1,8 +1,8 @@
 {
-  "vid": "16215",
-  "vname": "OpenSynergy",
-  "vcpe": "cpe:/:opensynergy",
-  "pid": "37985",
-  "pname": "Blue SDK",
-  "pcpe": "cpe:/a:opensynergy:blue_sdk"
+	"vid": "16215",
+	"vname": "OpenSynergy",
+	"vcpe": "cpe:/:opensynergy",
+	"pid": "37985",
+	"pname": "Blue SDK",
+	"pcpe": "cpe:/a:opensynergy:blue_sdk"
 }

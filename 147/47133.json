@@ -1,8 +1,8 @@
 {
-  "vid": "147",
-  "vname": "Sage",
-  "vcpe": "cpe:/:sage",
-  "pid": "47133",
-  "pname": "Easy Pay",
-  "pcpe": "cpe:/a:sage:easypay"
+	"vid": "147",
+	"vname": "Sage",
+	"vcpe": "cpe:/:sage",
+	"pid": "47133",
+	"pname": "Easy Pay",
+	"pcpe": "cpe:/a:sage:easypay"
 }

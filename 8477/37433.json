@@ -1,8 +1,8 @@
 {
-  "vid": "8477",
-  "vname": "ウェブルート株式会社",
-  "vcpe": "cpe:/:webroot",
-  "pid": "37433",
-  "pname": "BrightCloud",
-  "pcpe": "cpe:/a:webroot:brightcloud"
+	"vid": "8477",
+	"vname": "ウェブルート株式会社",
+	"vcpe": "cpe:/:webroot",
+	"pid": "37433",
+	"pname": "BrightCloud",
+	"pcpe": "cpe:/a:webroot:brightcloud"
 }

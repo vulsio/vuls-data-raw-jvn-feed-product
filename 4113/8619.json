@@ -1,8 +1,8 @@
 {
-  "vid": "4113",
-  "vname": "myspace",
-  "vcpe": "cpe:/:myspace",
-  "pid": "8619",
-  "pname": "myspaceuploader",
-  "pcpe": "cpe:/a:myspace:myspaceuploader"
+	"vid": "4113",
+	"vname": "myspace",
+	"vcpe": "cpe:/:myspace",
+	"pid": "8619",
+	"pname": "myspaceuploader",
+	"pcpe": "cpe:/a:myspace:myspaceuploader"
 }

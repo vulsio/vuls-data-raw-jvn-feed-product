@@ -1,8 +1,8 @@
 {
-  "vid": "18625",
-  "vname": "Loway",
-  "vcpe": "cpe:/:loway",
-  "pid": "46027",
-  "pname": "QueueMetrics",
-  "pcpe": "cpe:/a:loway:queuemetrics"
+	"vid": "18625",
+	"vname": "Loway",
+	"vcpe": "cpe:/:loway",
+	"pid": "46027",
+	"pname": "QueueMetrics",
+	"pcpe": "cpe:/a:loway:queuemetrics"
 }

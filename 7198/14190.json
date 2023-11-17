@@ -1,8 +1,8 @@
 {
-  "vid": "7198",
-  "vname": "rabox",
-  "vcpe": "cpe:/:rabox",
-  "pid": "14190",
-  "pname": "winlpd",
-  "pcpe": "cpe:/a:rabox:winlpd"
+	"vid": "7198",
+	"vname": "rabox",
+	"vcpe": "cpe:/:rabox",
+	"pid": "14190",
+	"pname": "winlpd",
+	"pcpe": "cpe:/a:rabox:winlpd"
 }

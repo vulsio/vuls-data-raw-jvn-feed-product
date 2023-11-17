@@ -1,8 +1,8 @@
 {
-  "vid": "10544",
-  "vname": "mobileiron",
-  "vcpe": "cpe:/:mobileiron",
-  "pid": "45478",
-  "pname": "MobileIron Cloud",
-  "pcpe": "cpe:/a:mobileiron:cloud"
+	"vid": "10544",
+	"vname": "mobileiron",
+	"vcpe": "cpe:/:mobileiron",
+	"pid": "45478",
+	"pname": "MobileIron Cloud",
+	"pcpe": "cpe:/a:mobileiron:cloud"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "48970",
-  "pname": "DGN2200v4 ファームウェア",
-  "pcpe": "cpe:/o:netgear:dgn2200v4_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "48970",
+	"pname": "DGN2200v4 ファームウェア",
+	"pcpe": "cpe:/o:netgear:dgn2200v4_firmware"
 }

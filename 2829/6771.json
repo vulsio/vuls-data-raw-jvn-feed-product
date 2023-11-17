@@ -1,8 +1,8 @@
 {
-  "vid": "2829",
-  "vname": "citibank",
-  "vcpe": "cpe:/:citibank",
-  "pid": "6771",
-  "pname": "citi mobile",
-  "pcpe": "cpe:/a:citibank:citi_mobile"
+	"vid": "2829",
+	"vname": "citibank",
+	"vcpe": "cpe:/:citibank",
+	"pid": "6771",
+	"pname": "citi mobile",
+	"pcpe": "cpe:/a:citibank:citi_mobile"
 }

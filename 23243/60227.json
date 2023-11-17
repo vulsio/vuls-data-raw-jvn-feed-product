@@ -1,8 +1,8 @@
 {
-  "vid": "23243",
-  "vname": "wp-js project",
-  "vcpe": "cpe:/:wp-js_project",
-  "pid": "60227",
-  "pname": "wp-js",
-  "pcpe": "cpe:/a:wp-js_project:wp-js"
+	"vid": "23243",
+	"vname": "wp-js project",
+	"vcpe": "cpe:/:wp-js_project",
+	"pid": "60227",
+	"pname": "wp-js",
+	"pcpe": "cpe:/a:wp-js_project:wp-js"
 }

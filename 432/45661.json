@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "45661",
-  "pname": "IRB140 ファームウェア",
-  "pcpe": "cpe:/o:abb:irb140_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "45661",
+	"pname": "IRB140 ファームウェア",
+	"pcpe": "cpe:/o:abb:irb140_firmware"
 }

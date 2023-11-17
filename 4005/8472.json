@@ -1,8 +1,8 @@
 {
-  "vid": "4005",
-  "vname": "GNUstep",
-  "vcpe": "cpe:/:gnustep",
-  "pid": "8472",
-  "pname": "Base",
-  "pcpe": "cpe:/a:gnustep:base"
+	"vid": "4005",
+	"vname": "GNUstep",
+	"vcpe": "cpe:/:gnustep",
+	"pid": "8472",
+	"pname": "Base",
+	"pcpe": "cpe:/a:gnustep:base"
 }

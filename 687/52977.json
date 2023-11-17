@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "52977",
-  "pname": "TIBCO WebFOCUS Client",
-  "pcpe": "cpe:/a:tibco:webfocus_client"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "52977",
+	"pname": "TIBCO WebFOCUS Client",
+	"pcpe": "cpe:/a:tibco:webfocus_client"
 }

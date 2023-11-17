@@ -1,8 +1,8 @@
 {
-  "vid": "4114",
-  "vname": "nctsoft products",
-  "vcpe": "cpe:/:nctsoft_products",
-  "pid": "11911",
-  "pname": "nctaudiostudio",
-  "pcpe": "cpe:/a:nctsoft_products:nctaudiostudio"
+	"vid": "4114",
+	"vname": "nctsoft products",
+	"vcpe": "cpe:/:nctsoft_products",
+	"pid": "11911",
+	"pname": "nctaudiostudio",
+	"pcpe": "cpe:/a:nctsoft_products:nctaudiostudio"
 }

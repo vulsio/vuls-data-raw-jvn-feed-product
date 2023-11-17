@@ -1,8 +1,8 @@
 {
-  "vid": "564",
-  "vname": "Panda Security",
-  "vcpe": "cpe:/:pandasecurity",
-  "pid": "29880",
-  "pname": "Panda Antivirus Pro 2015",
-  "pcpe": "cpe:/a:pandasecurity:panda_antivirus_pro_2015"
+	"vid": "564",
+	"vname": "Panda Security",
+	"vcpe": "cpe:/:pandasecurity",
+	"pid": "29880",
+	"pname": "Panda Antivirus Pro 2015",
+	"pcpe": "cpe:/a:pandasecurity:panda_antivirus_pro_2015"
 }

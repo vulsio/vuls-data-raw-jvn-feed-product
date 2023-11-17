@@ -1,8 +1,8 @@
 {
-  "vid": "12833",
-  "vname": "IdeaBlade",
-  "vcpe": "cpe:/:ideablade",
-  "pid": "29543",
-  "pname": "Breeze.Server.NET",
-  "pcpe": "cpe:/a:ideablade:breeze.server.net"
+	"vid": "12833",
+	"vname": "IdeaBlade",
+	"vcpe": "cpe:/:ideablade",
+	"pid": "29543",
+	"pname": "Breeze.Server.NET",
+	"pcpe": "cpe:/a:ideablade:breeze.server.net"
 }

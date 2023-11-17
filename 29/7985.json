@@ -1,8 +1,8 @@
 {
-  "vid": "29",
-  "vname": "エフ・セキュア",
-  "vcpe": "cpe:/:f-secure",
-  "pid": "7985",
-  "pname": "f-secure anti-virus for microsoft exchange",
-  "pcpe": "cpe:/a:f-secure:f-secure_anti-virus_for_microsoft_exchange"
+	"vid": "29",
+	"vname": "エフ・セキュア",
+	"vcpe": "cpe:/:f-secure",
+	"pid": "7985",
+	"pname": "f-secure anti-virus for microsoft exchange",
+	"pcpe": "cpe:/a:f-secure:f-secure_anti-virus_for_microsoft_exchange"
 }

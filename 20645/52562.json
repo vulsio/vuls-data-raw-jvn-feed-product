@@ -1,8 +1,8 @@
 {
-  "vid": "20645",
-  "vname": "SMA Technologies",
-  "vcpe": "cpe:/:misc",
-  "pid": "52562",
-  "pname": "OpCon",
-  "pcpe": "cpe:/a:misc:sam_technologies_opcon"
+	"vid": "20645",
+	"vname": "SMA Technologies",
+	"vcpe": "cpe:/:misc",
+	"pid": "52562",
+	"pname": "OpCon",
+	"pcpe": "cpe:/a:misc:sam_technologies_opcon"
 }

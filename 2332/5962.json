@@ -1,8 +1,8 @@
 {
-  "vid": "2332",
-  "vname": "ASP-DEV",
-  "vcpe": "cpe:/:asp-dev",
-  "pid": "5962",
-  "pname": "internal e-mail system",
-  "pcpe": "cpe:/a:asp-dev:internal_e-mail_system"
+	"vid": "2332",
+	"vname": "ASP-DEV",
+	"vcpe": "cpe:/:asp-dev",
+	"pid": "5962",
+	"pname": "internal e-mail system",
+	"pcpe": "cpe:/a:asp-dev:internal_e-mail_system"
 }

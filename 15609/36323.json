@@ -1,8 +1,8 @@
 {
-  "vid": "15609",
-  "vname": "PhpTpoint",
-  "vcpe": "cpe:/:phptpoint",
-  "pid": "36323",
-  "pname": "Mailing Server Using File Handling",
-  "pcpe": "cpe:/a:phptpoint:mailing_server_using_file_handling"
+	"vid": "15609",
+	"vname": "PhpTpoint",
+	"vcpe": "cpe:/:phptpoint",
+	"pid": "36323",
+	"pname": "Mailing Server Using File Handling",
+	"pcpe": "cpe:/a:phptpoint:mailing_server_using_file_handling"
 }

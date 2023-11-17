@@ -1,8 +1,8 @@
 {
-  "vid": "6457",
-  "vname": "Marvell",
-  "vcpe": "cpe:/:marvell",
-  "pid": "36640",
-  "pname": "Avastar 88W8787",
-  "pcpe": "cpe:/h:marvell:avastar_88w8787"
+	"vid": "6457",
+	"vname": "Marvell",
+	"vcpe": "cpe:/:marvell",
+	"pid": "36640",
+	"pname": "Avastar 88W8787",
+	"pcpe": "cpe:/h:marvell:avastar_88w8787"
 }

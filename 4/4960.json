@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4960",
-  "pname": "photosmart d110",
-  "pcpe": "cpe:/h:hp:photosmart_d110"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4960",
+	"pname": "photosmart d110",
+	"pcpe": "cpe:/h:hp:photosmart_d110"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16015",
-  "vname": "MOBOTIX",
-  "vcpe": "cpe:/:mobotix",
-  "pid": "59703",
-  "pname": "mxcontrolcenter",
-  "pcpe": "cpe:/a:mobotix:mxcontrolcenter"
+	"vid": "16015",
+	"vname": "MOBOTIX",
+	"vcpe": "cpe:/:mobotix",
+	"pid": "59703",
+	"pname": "mxcontrolcenter",
+	"pcpe": "cpe:/a:mobotix:mxcontrolcenter"
 }

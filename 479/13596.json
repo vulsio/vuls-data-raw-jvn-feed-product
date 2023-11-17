@@ -1,8 +1,8 @@
 {
-  "vid": "479",
-  "vname": "phpBB",
-  "vcpe": "cpe:/:phpbb",
-  "pid": "13596",
-  "pname": "acp user registration module",
-  "pcpe": "cpe:/a:phpbb:acp_user_registration_module"
+	"vid": "479",
+	"vname": "phpBB",
+	"vcpe": "cpe:/:phpbb",
+	"pid": "13596",
+	"pname": "acp user registration module",
+	"pcpe": "cpe:/a:phpbb:acp_user_registration_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9339",
-  "vname": "libimobiledevice",
-  "vcpe": "cpe:/:libimobiledevice",
-  "pid": "27656",
-  "pname": "libplist",
-  "pcpe": "cpe:/a:libimobiledevice:libplist"
+	"vid": "9339",
+	"vname": "libimobiledevice",
+	"vcpe": "cpe:/:libimobiledevice",
+	"pid": "27656",
+	"pname": "libplist",
+	"pcpe": "cpe:/a:libimobiledevice:libplist"
 }

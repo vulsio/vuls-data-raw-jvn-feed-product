@@ -1,8 +1,8 @@
 {
-  "vid": "20542",
-  "vname": "ManageIQ",
-  "vcpe": "cpe:/:manageiq",
-  "pid": "60994",
-  "pname": "awesomespawn",
-  "pcpe": "cpe:/a:manageiq:awesomespawn"
+	"vid": "20542",
+	"vname": "ManageIQ",
+	"vcpe": "cpe:/:manageiq",
+	"pid": "60994",
+	"pname": "awesomespawn",
+	"pcpe": "cpe:/a:manageiq:awesomespawn"
 }

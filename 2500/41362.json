@@ -1,8 +1,8 @@
 {
-  "vid": "2500",
-  "vname": "berlios",
-  "vcpe": "cpe:/:berlios",
-  "pid": "41362",
-  "pname": "SLiM",
-  "pcpe": "cpe:/a:berlios:slim"
+	"vid": "2500",
+	"vname": "berlios",
+	"vcpe": "cpe:/:berlios",
+	"pid": "41362",
+	"pname": "SLiM",
+	"pcpe": "cpe:/a:berlios:slim"
 }

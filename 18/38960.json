@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "38960",
-  "pname": "IBM InfoSphere Watson Knowledge Catalog",
-  "pcpe": "cpe:/a:ibm:watson_knowledge_catalog"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "38960",
+	"pname": "IBM InfoSphere Watson Knowledge Catalog",
+	"pcpe": "cpe:/a:ibm:watson_knowledge_catalog"
 }

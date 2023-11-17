@@ -1,8 +1,8 @@
 {
-  "vid": "9089",
-  "vname": "Node access user reference",
-  "vcpe": "cpe:/:node_access_user_reference_project",
-  "pid": "18139",
-  "pname": "nodeaccess_userreference",
-  "pcpe": "cpe:/a:node_access_user_reference_project:nodeaccess_userreference_module"
+	"vid": "9089",
+	"vname": "Node access user reference",
+	"vcpe": "cpe:/:node_access_user_reference_project",
+	"pid": "18139",
+	"pname": "nodeaccess_userreference",
+	"pcpe": "cpe:/a:node_access_user_reference_project:nodeaccess_userreference_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21482",
-  "vname": "Rich-Web",
-  "vcpe": "cpe:/:rich-web",
-  "pid": "62533",
-  "pname": "Event Timeline",
-  "pcpe": "cpe:/a:rich-web:event_timeline"
+	"vid": "21482",
+	"vname": "Rich-Web",
+	"vcpe": "cpe:/:rich-web",
+	"pid": "62533",
+	"pname": "Event Timeline",
+	"pcpe": "cpe:/a:rich-web:event_timeline"
 }

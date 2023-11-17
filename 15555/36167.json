@@ -1,8 +1,8 @@
 {
-  "vid": "15555",
-  "vname": "ViaBTC",
-  "vcpe": "cpe:/:viabtc",
-  "pid": "36167",
-  "pname": "ViaBTC Exchange Server",
-  "pcpe": "cpe:/a:viabtc:viabtc_exchange_server"
+	"vid": "15555",
+	"vname": "ViaBTC",
+	"vcpe": "cpe:/:viabtc",
+	"pid": "36167",
+	"pname": "ViaBTC Exchange Server",
+	"pcpe": "cpe:/a:viabtc:viabtc_exchange_server"
 }

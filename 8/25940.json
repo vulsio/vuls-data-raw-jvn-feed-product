@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "25940",
-  "pname": "Apache Ranger",
-  "pcpe": "cpe:/a:apache:ranger"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "25940",
+	"pname": "Apache Ranger",
+	"pcpe": "cpe:/a:apache:ranger"
 }

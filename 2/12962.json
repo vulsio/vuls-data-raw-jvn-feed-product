@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "12962",
-  "pname": "27mhz wireless keyboard",
-  "pcpe": "cpe:/h:microsoft:27mhz_wireless_keyboard"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "12962",
+	"pname": "27mhz wireless keyboard",
+	"pcpe": "cpe:/h:microsoft:27mhz_wireless_keyboard"
 }

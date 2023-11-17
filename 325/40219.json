@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "40219",
-  "pname": "storecenter ix2-200 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:storecenter_ix2-200_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "40219",
+	"pname": "storecenter ix2-200 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:storecenter_ix2-200_firmware"
 }

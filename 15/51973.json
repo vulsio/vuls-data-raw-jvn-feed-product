@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "51973",
-  "pname": "Oracle Communications Cloud Native Core Console",
-  "pcpe": "cpe:/a:oracle:communications_cloud_native_core_console"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "51973",
+	"pname": "Oracle Communications Cloud Native Core Console",
+	"pcpe": "cpe:/a:oracle:communications_cloud_native_core_console"
 }

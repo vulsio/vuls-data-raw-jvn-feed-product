@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "8960",
-  "pname": "HP Photosmart Ink Advantage e-All-in-One Printer series",
-  "pcpe": "cpe:/h:hp:photosmart_ink_advantage_e-all-in-one"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "8960",
+	"pname": "HP Photosmart Ink Advantage e-All-in-One Printer series",
+	"pcpe": "cpe:/h:hp:photosmart_ink_advantage_e-all-in-one"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24295",
-  "vname": "blink1",
-  "vcpe": "cpe:/:blink1",
-  "pid": "62790",
-  "pname": "blink1control2",
-  "pcpe": "cpe:/a:blink1:blink1control2"
+	"vid": "24295",
+	"vname": "blink1",
+	"vcpe": "cpe:/:blink1",
+	"pid": "62790",
+	"pname": "blink1control2",
+	"pcpe": "cpe:/a:blink1:blink1control2"
 }

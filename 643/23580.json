@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "23580",
-  "pname": "Asset Manager",
-  "pcpe": "cpe:/a:dell:asset_manager"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "23580",
+	"pname": "Asset Manager",
+	"pcpe": "cpe:/a:dell:asset_manager"
 }

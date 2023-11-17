@@ -1,8 +1,8 @@
 {
-  "vid": "1429",
-  "vname": "Dompdf project",
-  "vcpe": "cpe:/:dompdf_project",
-  "pid": "4298",
-  "pname": "Dompdf",
-  "pcpe": "cpe:/a:dompdf_project:dompdf"
+	"vid": "1429",
+	"vname": "Dompdf project",
+	"vcpe": "cpe:/:dompdf_project",
+	"pid": "4298",
+	"pname": "Dompdf",
+	"pcpe": "cpe:/a:dompdf_project:dompdf"
 }

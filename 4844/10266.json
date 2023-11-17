@@ -1,8 +1,8 @@
 {
-  "vid": "4844",
-  "vname": "irc services",
-  "vcpe": "cpe:/:irc_services",
-  "pid": "10266",
-  "pname": "irc services",
-  "pcpe": "cpe:/a:irc_services:irc_services"
+	"vid": "4844",
+	"vname": "irc services",
+	"vcpe": "cpe:/:irc_services",
+	"pid": "10266",
+	"pname": "irc services",
+	"pcpe": "cpe:/a:irc_services:irc_services"
 }

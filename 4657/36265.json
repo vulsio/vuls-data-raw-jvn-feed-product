@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "36265",
-  "pname": "Bond-AL10B ファームウェア",
-  "pcpe": "cpe:/o:huawei:bond-al10b_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "36265",
+	"pname": "Bond-AL10B ファームウェア",
+	"pcpe": "cpe:/o:huawei:bond-al10b_firmware"
 }

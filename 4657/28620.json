@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28620",
-  "pname": "Tecal CH242 ファームウェア",
-  "pcpe": "cpe:/o:huawei:tecal_ch242_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28620",
+	"pname": "Tecal CH242 ファームウェア",
+	"pcpe": "cpe:/o:huawei:tecal_ch242_firmware"
 }

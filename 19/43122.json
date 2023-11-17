@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "43122",
-  "pname": "Cisco IP Conference Phone 7811 with Multiplatform ファームウェア",
-  "pcpe": "cpe:/o:cisco:ip_phone_7811_with_multiplatform_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "43122",
+	"pname": "Cisco IP Conference Phone 7811 with Multiplatform ファームウェア",
+	"pcpe": "cpe:/o:cisco:ip_phone_7811_with_multiplatform_firmware"
 }

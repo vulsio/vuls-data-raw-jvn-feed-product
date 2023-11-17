@@ -1,8 +1,8 @@
 {
-  "vid": "7585",
-  "vname": "silcnet",
-  "vcpe": "cpe:/:silcnet",
-  "pid": "14743",
-  "pname": "silc toolkit",
-  "pcpe": "cpe:/a:silcnet:silc_toolkit"
+	"vid": "7585",
+	"vname": "silcnet",
+	"vcpe": "cpe:/:silcnet",
+	"pid": "14743",
+	"pname": "silc toolkit",
+	"pcpe": "cpe:/a:silcnet:silc_toolkit"
 }

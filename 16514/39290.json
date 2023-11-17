@@ -1,8 +1,8 @@
 {
-  "vid": "16514",
-  "vname": "BLU Products",
-  "vcpe": "cpe:/:bluproducts",
-  "pid": "39290",
-  "pname": "BLU Studio G",
-  "pcpe": "cpe:/o:bluproducts:studio_g_firmware"
+	"vid": "16514",
+	"vname": "BLU Products",
+	"vcpe": "cpe:/:bluproducts",
+	"pid": "39290",
+	"pname": "BLU Studio G",
+	"pcpe": "cpe:/o:bluproducts:studio_g_firmware"
 }

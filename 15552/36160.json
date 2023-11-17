@@ -1,8 +1,8 @@
 {
-  "vid": "15552",
-  "vname": "Nexus IT",
-  "vcpe": "cpe:/:nexusfi",
-  "pid": "36160",
-  "pname": "OPAC EasyWeb Five",
-  "pcpe": "cpe:/a:nexusfi:opac_easyweb_five"
+	"vid": "15552",
+	"vname": "Nexus IT",
+	"vcpe": "cpe:/:nexusfi",
+	"pid": "36160",
+	"pname": "OPAC EasyWeb Five",
+	"pcpe": "cpe:/a:nexusfi:opac_easyweb_five"
 }

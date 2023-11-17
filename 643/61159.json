@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "61159",
-  "pname": "Alienware Aurora R13 ファームウェア",
-  "pcpe": "cpe:/o:dell:alienware_aurora_r13_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "61159",
+	"pname": "Alienware Aurora R13 ファームウェア",
+	"pcpe": "cpe:/o:dell:alienware_aurora_r13_firmware"
 }

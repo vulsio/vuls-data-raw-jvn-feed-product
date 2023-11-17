@@ -1,8 +1,8 @@
 {
-  "vid": "13",
-  "vname": "NTP Project",
-  "vcpe": "cpe:/:ntp",
-  "pid": "27629",
-  "pname": "ntp-dev.",
-  "pcpe": "cpe:/a:ntp:ntp-dev"
+	"vid": "13",
+	"vname": "NTP Project",
+	"vcpe": "cpe:/:ntp",
+	"pid": "27629",
+	"pname": "ntp-dev.",
+	"pcpe": "cpe:/a:ntp:ntp-dev"
 }

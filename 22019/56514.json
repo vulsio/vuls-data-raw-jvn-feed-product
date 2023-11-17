@@ -1,8 +1,8 @@
 {
-  "vid": "22019",
-  "vname": "sparql-identifiers project",
-  "vcpe": "cpe:/:sparql-identifiers_project",
-  "pid": "56514",
-  "pname": "sparql-identifiers",
-  "pcpe": "cpe:/a:sparql-identifiers_project:sparql-identifiers"
+	"vid": "22019",
+	"vname": "sparql-identifiers project",
+	"vcpe": "cpe:/:sparql-identifiers_project",
+	"pid": "56514",
+	"pname": "sparql-identifiers",
+	"pcpe": "cpe:/a:sparql-identifiers_project:sparql-identifiers"
 }

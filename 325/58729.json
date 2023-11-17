@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58729",
-  "pname": "thinkpad w540 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_w540_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58729",
+	"pname": "thinkpad w540 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_w540_firmware"
 }

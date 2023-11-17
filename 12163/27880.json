@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "27880",
-  "pname": "Image Gallery Plugin",
-  "pcpe": "cpe:/a:jenkins:image_gallery_plugin"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "27880",
+	"pname": "Image Gallery Plugin",
+	"pcpe": "cpe:/a:jenkins:image_gallery_plugin"
 }

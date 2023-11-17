@@ -1,8 +1,8 @@
 {
-  "vid": "2499",
-  "vname": "University of California",
-  "vcpe": "cpe:/:berkeley",
-  "pid": "6240",
-  "pname": "BOINC",
-  "pcpe": "cpe:/a:berkeley:boinc"
+	"vid": "2499",
+	"vname": "University of California",
+	"vcpe": "cpe:/:berkeley",
+	"pid": "6240",
+	"pname": "BOINC",
+	"pcpe": "cpe:/a:berkeley:boinc"
 }

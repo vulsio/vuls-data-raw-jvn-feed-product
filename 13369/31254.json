@@ -1,8 +1,8 @@
 {
-  "vid": "13369",
-  "vname": "Samtools",
-  "vcpe": "cpe:/:htslib",
-  "pid": "31254",
-  "pname": "HTSlib",
-  "pcpe": "cpe:/a:htslib:htslib"
+	"vid": "13369",
+	"vname": "Samtools",
+	"vcpe": "cpe:/:htslib",
+	"pid": "31254",
+	"pname": "HTSlib",
+	"pcpe": "cpe:/a:htslib:htslib"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4260",
-  "vname": "Linux",
-  "vcpe": "cpe:/:linux",
-  "pid": "32411",
-  "pname": "i40e/i40evf",
-  "pcpe": "cpe:/o:linux:linux_kernel_i40e%2fi40evf"
+	"vid": "4260",
+	"vname": "Linux",
+	"vcpe": "cpe:/:linux",
+	"pid": "32411",
+	"pname": "i40e/i40evf",
+	"pcpe": "cpe:/o:linux:linux_kernel_i40e%2fi40evf"
 }

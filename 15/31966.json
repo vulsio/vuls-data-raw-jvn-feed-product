@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "31966",
-  "pname": "Oracle Banking Corporate Lending",
-  "pcpe": "cpe:/a:oracle:banking_corporate_lending"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "31966",
+	"pname": "Oracle Banking Corporate Lending",
+	"pcpe": "cpe:/a:oracle:banking_corporate_lending"
 }

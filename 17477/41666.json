@@ -1,8 +1,8 @@
 {
-  "vid": "17477",
-  "vname": "Simple Ledger Protocol",
-  "vcpe": "cpe:/:simpleledger",
-  "pid": "41666",
-  "pname": "SLPJS",
-  "pcpe": "cpe:/a:simpleledger:slpjs"
+	"vid": "17477",
+	"vname": "Simple Ledger Protocol",
+	"vcpe": "cpe:/:simpleledger",
+	"pid": "41666",
+	"pname": "SLPJS",
+	"pcpe": "cpe:/a:simpleledger:slpjs"
 }

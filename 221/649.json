@@ -1,8 +1,8 @@
 {
-  "vid": "221",
-  "vname": "Vine Linux",
-  "vcpe": "cpe:/:misc",
-  "pid": "649",
-  "pname": "Vine Linux",
-  "pcpe": "cpe:/o:misc:vine_linux"
+	"vid": "221",
+	"vname": "Vine Linux",
+	"vcpe": "cpe:/:misc",
+	"pid": "649",
+	"pname": "Vine Linux",
+	"pcpe": "cpe:/o:misc:vine_linux"
 }

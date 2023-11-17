@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "946",
-  "pname": "SecureWare/電子署名開発キット",
-  "pcpe": "cpe:/a:nec:secureware_digital_signature_development_kit"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "946",
+	"pname": "SecureWare/電子署名開発キット",
+	"pcpe": "cpe:/a:nec:secureware_digital_signature_development_kit"
 }

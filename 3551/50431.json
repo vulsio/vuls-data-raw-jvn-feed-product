@@ -1,8 +1,8 @@
 {
-  "vid": "3551",
-  "vname": "Esri",
-  "vcpe": "cpe:/:esri",
-  "pid": "50431",
-  "pname": "ArcGIS GeoEvent Server",
-  "pcpe": "cpe:/a:esri:geoevent_server"
+	"vid": "3551",
+	"vname": "Esri",
+	"vcpe": "cpe:/:esri",
+	"pid": "50431",
+	"pname": "ArcGIS GeoEvent Server",
+	"pcpe": "cpe:/a:esri:geoevent_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1204",
-  "vname": "PowerDNS",
-  "vcpe": "cpe:/:powerdns",
-  "pid": "35340",
-  "pname": "pdns",
-  "pcpe": "cpe:/a:powerdns:pdns"
+	"vid": "1204",
+	"vname": "PowerDNS",
+	"vcpe": "cpe:/:powerdns",
+	"pid": "35340",
+	"pname": "pdns",
+	"pcpe": "cpe:/a:powerdns:pdns"
 }

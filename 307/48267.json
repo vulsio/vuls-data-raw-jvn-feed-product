@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "48267",
-  "pname": "Aruba 2540 ファームウェア",
-  "pcpe": "cpe:/o:arubanetworks:aruba_2540_firmware"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "48267",
+	"pname": "Aruba 2540 ファームウェア",
+	"pcpe": "cpe:/o:arubanetworks:aruba_2540_firmware"
 }

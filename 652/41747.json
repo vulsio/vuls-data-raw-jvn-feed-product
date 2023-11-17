@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "41747",
-  "pname": "Galaxy J6 ファームウェア",
-  "pcpe": "cpe:/o:samsung:galaxy_j6_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "41747",
+	"pname": "Galaxy J6 ファームウェア",
+	"pcpe": "cpe:/o:samsung:galaxy_j6_firmware"
 }

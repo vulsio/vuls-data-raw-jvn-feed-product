@@ -1,8 +1,8 @@
 {
-  "vid": "13854",
-  "vname": "Ionic",
-  "vcpe": "cpe:/:ionic",
-  "pid": "32897",
-  "pname": "iOS Keychain",
-  "pcpe": "cpe:/a:ionic:ios_keychain"
+	"vid": "13854",
+	"vname": "Ionic",
+	"vcpe": "cpe:/:ionic",
+	"pid": "32897",
+	"pname": "iOS Keychain",
+	"pcpe": "cpe:/a:ionic:ios_keychain"
 }

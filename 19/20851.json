@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "20851",
-  "pname": "Cisco WebEx MeetMeNow",
-  "pcpe": "cpe:/a:cisco:webex_meetmenow"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "20851",
+	"pname": "Cisco WebEx MeetMeNow",
+	"pcpe": "cpe:/a:cisco:webex_meetmenow"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13381",
-  "vname": "Trusted Boot project",
-  "vcpe": "cpe:/:trusted_boot_project",
-  "pid": "31272",
-  "pname": "Trusted Boot",
-  "pcpe": "cpe:/a:trusted_boot_project:trusted_boot"
+	"vid": "13381",
+	"vname": "Trusted Boot project",
+	"vcpe": "cpe:/:trusted_boot_project",
+	"pid": "31272",
+	"pname": "Trusted Boot",
+	"pcpe": "cpe:/a:trusted_boot_project:trusted_boot"
 }

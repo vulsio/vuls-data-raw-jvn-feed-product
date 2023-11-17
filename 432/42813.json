@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "42813",
-  "pname": "CP661-WEB ファームウェア",
-  "pcpe": "cpe:/o:abb:cp661-web_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "42813",
+	"pname": "CP661-WEB ファームウェア",
+	"pcpe": "cpe:/o:abb:cp661-web_firmware"
 }

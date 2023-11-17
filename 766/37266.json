@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "37266",
-  "pname": "IIoT Monitor",
-  "pcpe": "cpe:/a:schneider_electric:iiot_monior"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "37266",
+	"pname": "IIoT Monitor",
+	"pcpe": "cpe:/a:schneider_electric:iiot_monior"
 }

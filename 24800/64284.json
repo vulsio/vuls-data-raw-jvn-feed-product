@@ -1,8 +1,8 @@
 {
-  "vid": "24800",
-  "vname": "uptime-kuma project",
-  "vcpe": "cpe:/:uptime-kuma_project",
-  "pid": "64284",
-  "pname": "uptime-kuma",
-  "pcpe": "cpe:/a:uptime-kuma_project:uptime-kuma"
+	"vid": "24800",
+	"vname": "uptime-kuma project",
+	"vcpe": "cpe:/:uptime-kuma_project",
+	"pid": "64284",
+	"pname": "uptime-kuma",
+	"pcpe": "cpe:/a:uptime-kuma_project:uptime-kuma"
 }

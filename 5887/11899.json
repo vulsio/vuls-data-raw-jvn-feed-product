@@ -1,8 +1,8 @@
 {
-  "vid": "5887",
-  "vname": "navision",
-  "vcpe": "cpe:/:navision",
-  "pid": "11899",
-  "pname": "financials server",
-  "pcpe": "cpe:/a:navision:financials_server"
+	"vid": "5887",
+	"vname": "navision",
+	"vcpe": "cpe:/:navision",
+	"pid": "11899",
+	"pname": "financials server",
+	"pcpe": "cpe:/a:navision:financials_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4362",
-  "vname": "SetSeed",
-  "vcpe": "cpe:/:setseed",
-  "pid": "9322",
-  "pname": "SetSeed CMS",
-  "pcpe": "cpe:/a:setseed:setseed_cms"
+	"vid": "4362",
+	"vname": "SetSeed",
+	"vcpe": "cpe:/:setseed",
+	"pid": "9322",
+	"pname": "SetSeed CMS",
+	"pcpe": "cpe:/a:setseed:setseed_cms"
 }

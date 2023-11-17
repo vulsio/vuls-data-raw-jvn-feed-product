@@ -1,8 +1,8 @@
 {
-  "vid": "19568",
-  "vname": "IRIS Software Group Ltd.",
-  "vcpe": "cpe:/:iris",
-  "pid": "63226",
-  "pname": "isams",
-  "pcpe": "cpe:/a:iris:isams"
+	"vid": "19568",
+	"vname": "IRIS Software Group Ltd.",
+	"vcpe": "cpe:/:iris",
+	"pid": "63226",
+	"pname": "isams",
+	"pcpe": "cpe:/a:iris:isams"
 }

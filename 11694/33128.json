@@ -1,8 +1,8 @@
 {
-  "vid": "11694",
-  "vname": "Swisscom AG",
-  "vcpe": "cpe:/:swisscom",
-  "pid": "33128",
-  "pname": "TVMediaHelper",
-  "pcpe": "cpe:/a:swisscom:tvmediahelper"
+	"vid": "11694",
+	"vname": "Swisscom AG",
+	"vcpe": "cpe:/:swisscom",
+	"pid": "33128",
+	"pname": "TVMediaHelper",
+	"pcpe": "cpe:/a:swisscom:tvmediahelper"
 }

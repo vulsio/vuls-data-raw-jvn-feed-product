@@ -1,8 +1,8 @@
 {
-  "vid": "14762",
-  "vname": "CIRCONTROL S.A",
-  "vcpe": "cpe:/:circontrol",
-  "pid": "36385",
-  "pname": "CirCarLife ファームウェア",
-  "pcpe": "cpe:/o:circontrol:circarlife_firmware"
+	"vid": "14762",
+	"vname": "CIRCONTROL S.A",
+	"vcpe": "cpe:/:circontrol",
+	"pid": "36385",
+	"pname": "CirCarLife ファームウェア",
+	"pcpe": "cpe:/o:circontrol:circarlife_firmware"
 }

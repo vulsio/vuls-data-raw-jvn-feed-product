@@ -1,8 +1,8 @@
 {
-  "vid": "16928",
-  "vname": "Texas Instruments Incorporated (TI)",
-  "vcpe": "cpe:/:ti",
-  "pid": "47540",
-  "pname": "SimpleLink CC13X2 SDK",
-  "pcpe": "cpe:/a:ti:simplelink_cc13x2_sdk"
+	"vid": "16928",
+	"vname": "Texas Instruments Incorporated (TI)",
+	"vcpe": "cpe:/:ti",
+	"pid": "47540",
+	"pname": "SimpleLink CC13X2 SDK",
+	"pcpe": "cpe:/a:ti:simplelink_cc13x2_sdk"
 }

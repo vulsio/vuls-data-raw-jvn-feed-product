@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "662",
-  "pname": "Cisco Okena Stormwatch",
-  "pcpe": "cpe:/a:cisco:okena_stormwatch"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "662",
+	"pname": "Cisco Okena Stormwatch",
+	"pcpe": "cpe:/a:cisco:okena_stormwatch"
 }

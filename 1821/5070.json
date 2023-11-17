@@ -1,8 +1,8 @@
 {
-  "vid": "1821",
-  "vname": "libarchive",
-  "vcpe": "cpe:/:libarchive",
-  "pid": "5070",
-  "pname": "libarchive",
-  "pcpe": "cpe:/a:libarchive:libarchive"
+	"vid": "1821",
+	"vname": "libarchive",
+	"vcpe": "cpe:/:libarchive",
+	"pid": "5070",
+	"pname": "libarchive",
+	"pcpe": "cpe:/a:libarchive:libarchive"
 }

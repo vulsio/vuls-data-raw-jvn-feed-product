@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "37031",
-  "pname": "Repository Mirroring Tool",
-  "pcpe": "cpe:/a:suse:repository_mirroring_tool"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "37031",
+	"pname": "Repository Mirroring Tool",
+	"pcpe": "cpe:/a:suse:repository_mirroring_tool"
 }

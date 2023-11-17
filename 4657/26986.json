@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26986",
-  "pname": "eSight",
-  "pcpe": "cpe:/a:huawei:esight"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26986",
+	"pname": "eSight",
+	"pcpe": "cpe:/a:huawei:esight"
 }

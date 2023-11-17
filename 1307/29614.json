@@ -1,8 +1,8 @@
 {
-  "vid": "1307",
-  "vname": "Antiy Labs",
-  "vcpe": "cpe:/:antiy",
-  "pid": "29614",
-  "pname": "Antivirus Engine",
-  "pcpe": "cpe:/a:antiy:antivirus_engine"
+	"vid": "1307",
+	"vname": "Antiy Labs",
+	"vcpe": "cpe:/:antiy",
+	"pid": "29614",
+	"pname": "Antivirus Engine",
+	"pcpe": "cpe:/a:antiy:antivirus_engine"
 }

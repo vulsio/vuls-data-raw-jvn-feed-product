@@ -1,8 +1,8 @@
 {
-  "vid": "20392",
-  "vname": "Netexplorer",
-  "vcpe": "cpe:/:netexplorer",
-  "pid": "51999",
-  "pname": "My SMTP Contact",
-  "pcpe": "cpe:/a:netexplorer:my_smtp_contact"
+	"vid": "20392",
+	"vname": "Netexplorer",
+	"vcpe": "cpe:/:netexplorer",
+	"pid": "51999",
+	"pname": "My SMTP Contact",
+	"pcpe": "cpe:/a:netexplorer:my_smtp_contact"
 }

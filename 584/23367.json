@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "23367",
-  "pname": "SCALANCE X 408",
-  "pcpe": "cpe:/h:siemens:scalance_x-408"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "23367",
+	"pname": "SCALANCE X 408",
+	"pcpe": "cpe:/h:siemens:scalance_x-408"
 }

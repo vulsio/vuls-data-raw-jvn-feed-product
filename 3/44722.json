@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "44722",
-  "pname": "JBoss Enterprise Application Platform Continuous Delivery",
-  "pcpe": "cpe:/a:redhat:jboss_enterprise_application_platform_continuous_delivery"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "44722",
+	"pname": "JBoss Enterprise Application Platform Continuous Delivery",
+	"pcpe": "cpe:/a:redhat:jboss_enterprise_application_platform_continuous_delivery"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2189",
-  "vname": "altnet",
-  "vcpe": "cpe:/:altnet",
-  "pid": "5755",
-  "pname": "altnet download manager",
-  "pcpe": "cpe:/a:altnet:altnet_download_manager"
+	"vid": "2189",
+	"vname": "altnet",
+	"vcpe": "cpe:/:altnet",
+	"pid": "5755",
+	"pname": "altnet download manager",
+	"pcpe": "cpe:/a:altnet:altnet_download_manager"
 }

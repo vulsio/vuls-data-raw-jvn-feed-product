@@ -1,8 +1,8 @@
 {
-  "vid": "2279",
-  "vname": "arcadebuilder",
-  "vcpe": "cpe:/:arcadebuilder",
-  "pid": "5899",
-  "pname": "game portal manager",
-  "pcpe": "cpe:/a:arcadebuilder:game_portal_manager"
+	"vid": "2279",
+	"vname": "arcadebuilder",
+	"vcpe": "cpe:/:arcadebuilder",
+	"pid": "5899",
+	"pname": "game portal manager",
+	"pcpe": "cpe:/a:arcadebuilder:game_portal_manager"
 }

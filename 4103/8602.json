@@ -1,8 +1,8 @@
 {
-  "vid": "4103",
-  "vname": "kde-apps",
-  "vcpe": "cpe:/:kde-apps",
-  "pid": "8602",
-  "pname": "kleopatra",
-  "pcpe": "cpe:/a:kde-apps:kleopatra"
+	"vid": "4103",
+	"vname": "kde-apps",
+	"vcpe": "cpe:/:kde-apps",
+	"pid": "8602",
+	"pname": "kleopatra",
+	"pcpe": "cpe:/a:kde-apps:kleopatra"
 }

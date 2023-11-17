@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38447",
-  "pname": "Cisco HyperFlex HX240c M5 All Flash ファームウェア",
-  "pcpe": "cpe:/o:cisco:hx240c_af_m5_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38447",
+	"pname": "Cisco HyperFlex HX240c M5 All Flash ファームウェア",
+	"pcpe": "cpe:/o:cisco:hx240c_af_m5_firmware"
 }

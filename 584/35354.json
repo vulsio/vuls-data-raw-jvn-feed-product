@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "35354",
-  "pname": "IEC 61850 system configurator ファームウェア",
-  "pcpe": "cpe:/o:siemens:ec_61850_system_configurator_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "35354",
+	"pname": "IEC 61850 system configurator ファームウェア",
+	"pcpe": "cpe:/o:siemens:ec_61850_system_configurator_firmware"
 }

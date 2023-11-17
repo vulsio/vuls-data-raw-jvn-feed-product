@@ -1,8 +1,8 @@
 {
-  "vid": "16661",
-  "vname": "アイピーロジック株式会社",
-  "vcpe": "cpe:/:ec-cube",
-  "pid": "39703",
-  "pname": "EC-CUBE 用プラグイン「Amazon Payプラグイン2.12、2.13」",
-  "pcpe": "cpe:/a:ec-cube:amazon_pay"
+	"vid": "16661",
+	"vname": "アイピーロジック株式会社",
+	"vcpe": "cpe:/:ec-cube",
+	"pid": "39703",
+	"pname": "EC-CUBE 用プラグイン「Amazon Payプラグイン2.12、2.13」",
+	"pcpe": "cpe:/a:ec-cube:amazon_pay"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17429",
-  "vname": "IgniteUp",
-  "vcpe": "cpe:/:getigniteup",
-  "pid": "41514",
-  "pname": "IgniteUp",
-  "pcpe": "cpe:/a:getigniteup:igniteup"
+	"vid": "17429",
+	"vname": "IgniteUp",
+	"vcpe": "cpe:/:getigniteup",
+	"pid": "41514",
+	"pname": "IgniteUp",
+	"pcpe": "cpe:/a:getigniteup:igniteup"
 }

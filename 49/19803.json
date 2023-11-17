@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "19803",
-  "pname": "a2ps",
-  "pcpe": "cpe:/a:gnu:a2ps"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "19803",
+	"pname": "a2ps",
+	"pcpe": "cpe:/a:gnu:a2ps"
 }

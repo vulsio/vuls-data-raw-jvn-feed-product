@@ -1,8 +1,8 @@
 {
-  "vid": "363",
-  "vname": "xmlsoft.org",
-  "vcpe": "cpe:/:xmlsoft",
-  "pid": "50074",
-  "pname": "xmllint",
-  "pcpe": "cpe:/a:xmlsoft:xmllint"
+	"vid": "363",
+	"vname": "xmlsoft.org",
+	"vcpe": "cpe:/:xmlsoft",
+	"pid": "50074",
+	"pname": "xmllint",
+	"pcpe": "cpe:/a:xmlsoft:xmllint"
 }

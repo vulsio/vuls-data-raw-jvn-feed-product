@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "58839",
-  "pname": "Si-R G200B",
-  "pcpe": "cpe:/a:fujitsu:si-r_g200b"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "58839",
+	"pname": "Si-R G200B",
+	"pcpe": "cpe:/a:fujitsu:si-r_g200b"
 }

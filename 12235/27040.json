@@ -1,8 +1,8 @@
 {
-  "vid": "12235",
-  "vname": "Mirror Manager project",
-  "vcpe": "cpe:/:mirror_manager_project",
-  "pid": "27040",
-  "pname": "Mirror Manager",
-  "pcpe": "cpe:/a:mirror_manager_project:mirror_manager"
+	"vid": "12235",
+	"vname": "Mirror Manager project",
+	"vcpe": "cpe:/:mirror_manager_project",
+	"pid": "27040",
+	"pname": "Mirror Manager",
+	"pcpe": "cpe:/a:mirror_manager_project:mirror_manager"
 }

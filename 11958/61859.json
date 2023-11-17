@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "61859",
-  "pname": "sysmac cp1e ファームウェア",
-  "pcpe": "cpe:/o:omron:sysmac_cp1e_firmware"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "61859",
+	"pname": "sysmac cp1e ファームウェア",
+	"pcpe": "cpe:/o:omron:sysmac_cp1e_firmware"
 }

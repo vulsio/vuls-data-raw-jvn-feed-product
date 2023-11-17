@@ -1,8 +1,8 @@
 {
-  "vid": "7886",
-  "vname": "sysinternals",
-  "vcpe": "cpe:/:sysinternals",
-  "pid": "15250",
-  "pname": "regmon",
-  "pcpe": "cpe:/a:sysinternals:regmon"
+	"vid": "7886",
+	"vname": "sysinternals",
+	"vcpe": "cpe:/:sysinternals",
+	"pid": "15250",
+	"pname": "regmon",
+	"pcpe": "cpe:/a:sysinternals:regmon"
 }

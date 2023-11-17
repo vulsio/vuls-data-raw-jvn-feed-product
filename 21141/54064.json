@@ -1,8 +1,8 @@
 {
-  "vid": "21141",
-  "vname": "Kayson Group Ltd.",
-  "vcpe": "cpe:/:kaysongroup",
-  "pid": "54064",
-  "pname": "PHP Event Calendar",
-  "pcpe": "cpe:/a:kaysongroup:php_event_calendar"
+	"vid": "21141",
+	"vname": "Kayson Group Ltd.",
+	"vcpe": "cpe:/:kaysongroup",
+	"pid": "54064",
+	"pname": "PHP Event Calendar",
+	"pcpe": "cpe:/a:kaysongroup:php_event_calendar"
 }

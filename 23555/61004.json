@@ -1,8 +1,8 @@
 {
-  "vid": "23555",
-  "vname": "git-clone project",
-  "vcpe": "cpe:/:git-clone_project",
-  "pid": "61004",
-  "pname": "git-clone",
-  "pcpe": "cpe:/a:git-clone_project:git-clone"
+	"vid": "23555",
+	"vname": "git-clone project",
+	"vcpe": "cpe:/:git-clone_project",
+	"pid": "61004",
+	"pname": "git-clone",
+	"pcpe": "cpe:/a:git-clone_project:git-clone"
 }

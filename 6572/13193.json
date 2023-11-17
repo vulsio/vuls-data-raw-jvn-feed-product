@@ -1,8 +1,8 @@
 {
-  "vid": "6572",
-  "vname": "Acquia Inc.",
-  "vcpe": "cpe:/:acquia",
-  "pid": "13193",
-  "pname": "Drupal Commons",
-  "pcpe": "cpe:/a:acquia:commons"
+	"vid": "6572",
+	"vname": "Acquia Inc.",
+	"vcpe": "cpe:/:acquia",
+	"pid": "13193",
+	"pname": "Drupal Commons",
+	"pcpe": "cpe:/a:acquia:commons"
 }

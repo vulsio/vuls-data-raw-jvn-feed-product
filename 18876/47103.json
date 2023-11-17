@@ -1,8 +1,8 @@
 {
-  "vid": "18876",
-  "vname": "Microhard",
-  "vcpe": "cpe:/:microhardcorp",
-  "pid": "47103",
-  "pname": "BulletLTE ファームウェア",
-  "pcpe": "cpe:/o:microhardcorp:bullet-lte_firmware"
+	"vid": "18876",
+	"vname": "Microhard",
+	"vcpe": "cpe:/:microhardcorp",
+	"pid": "47103",
+	"pname": "BulletLTE ファームウェア",
+	"pcpe": "cpe:/o:microhardcorp:bullet-lte_firmware"
 }

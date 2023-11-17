@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "6776",
-  "pname": "ica client for linux",
-  "pcpe": "cpe:/a:citrix:ica_client_for_linux"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "6776",
+	"pname": "ica client for linux",
+	"pcpe": "cpe:/a:citrix:ica_client_for_linux"
 }

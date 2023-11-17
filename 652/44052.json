@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "44052",
-  "pname": "Samsung Exynos SMP1300",
-  "pcpe": "cpe:/h:samsung:exynos_smp1300"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "44052",
+	"pname": "Samsung Exynos SMP1300",
+	"pcpe": "cpe:/h:samsung:exynos_smp1300"
 }

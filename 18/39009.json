@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "39009",
-  "pname": "IBM Intelligent Operations Center for Emergency Management",
-  "pcpe": "cpe:/a:ibm:intelligent_operations_center_for_emergency_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "39009",
+	"pname": "IBM Intelligent Operations Center for Emergency Management",
+	"pcpe": "cpe:/a:ibm:intelligent_operations_center_for_emergency_management"
 }

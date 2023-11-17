@@ -1,8 +1,8 @@
 {
-  "vid": "20262",
-  "vname": "FlowDroid project",
-  "vcpe": "cpe:/:flowdroid_project",
-  "pid": "51637",
-  "pname": "FlowDroid",
-  "pcpe": "cpe:/a:flowdroid_project:flowdroid"
+	"vid": "20262",
+	"vname": "FlowDroid project",
+	"vcpe": "cpe:/:flowdroid_project",
+	"pid": "51637",
+	"pname": "FlowDroid",
+	"pcpe": "cpe:/a:flowdroid_project:flowdroid"
 }

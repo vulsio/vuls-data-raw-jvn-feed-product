@@ -1,8 +1,8 @@
 {
-  "vid": "20527",
-  "vname": "NetModule",
-  "vcpe": "cpe:/:netmodule",
-  "pid": "52244",
-  "pname": "NB1800 ファームウェア",
-  "pcpe": "cpe:/o:netmodule:nb1800_firmware"
+	"vid": "20527",
+	"vname": "NetModule",
+	"vcpe": "cpe:/:netmodule",
+	"pid": "52244",
+	"pname": "NB1800 ファームウェア",
+	"pcpe": "cpe:/o:netmodule:nb1800_firmware"
 }

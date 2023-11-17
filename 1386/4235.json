@@ -1,8 +1,8 @@
 {
-  "vid": "1386",
-  "vname": "boka",
-  "vcpe": "cpe:/:boka",
-  "pid": "4235",
-  "pname": "siteengine",
-  "pcpe": "cpe:/a:boka:siteengine"
+	"vid": "1386",
+	"vname": "boka",
+	"vcpe": "cpe:/:boka",
+	"pid": "4235",
+	"pname": "siteengine",
+	"pcpe": "cpe:/a:boka:siteengine"
 }

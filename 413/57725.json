@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "57725",
-  "pname": "qnx momentics",
-  "pcpe": "cpe:/a:blackberry:qnx_momentics"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "57725",
+	"pname": "qnx momentics",
+	"pcpe": "cpe:/a:blackberry:qnx_momentics"
 }

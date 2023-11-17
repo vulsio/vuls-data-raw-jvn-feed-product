@@ -1,8 +1,8 @@
 {
-  "vid": "507",
-  "vname": "op5",
-  "vcpe": "cpe:/:op5",
-  "pid": "2004",
-  "pname": "op5 Monitor",
-  "pcpe": "cpe:/a:op5:monitor"
+	"vid": "507",
+	"vname": "op5",
+	"vcpe": "cpe:/:op5",
+	"pid": "2004",
+	"pname": "op5 Monitor",
+	"pcpe": "cpe:/a:op5:monitor"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8310",
-  "vname": "virtech",
-  "vcpe": "cpe:/:virtech",
-  "pid": "15891",
-  "pname": "netquery",
-  "pcpe": "cpe:/a:virtech:netquery"
+	"vid": "8310",
+	"vname": "virtech",
+	"vcpe": "cpe:/:virtech",
+	"pid": "15891",
+	"pname": "netquery",
+	"pcpe": "cpe:/a:virtech:netquery"
 }

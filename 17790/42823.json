@@ -1,8 +1,8 @@
 {
-  "vid": "17790",
-  "vname": "MySecureShell project",
-  "vcpe": "cpe:/:mysecureshell_project",
-  "pid": "42823",
-  "pname": "MySecureShell",
-  "pcpe": "cpe:/a:mysecureshell_project:mysecureshell"
+	"vid": "17790",
+	"vname": "MySecureShell project",
+	"vcpe": "cpe:/:mysecureshell_project",
+	"pid": "42823",
+	"pname": "MySecureShell",
+	"pcpe": "cpe:/a:mysecureshell_project:mysecureshell"
 }

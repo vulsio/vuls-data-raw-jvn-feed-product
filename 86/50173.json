@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "50173",
-  "pname": "WSR-2533DHPL2 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wsr-2533dhpl2-bk_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "50173",
+	"pname": "WSR-2533DHPL2 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wsr-2533dhpl2-bk_firmware"
 }

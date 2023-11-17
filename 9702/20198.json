@@ -1,8 +1,8 @@
 {
-  "vid": "9702",
-  "vname": "OpalVOIP",
-  "vcpe": "cpe:/:opalvoip",
-  "pid": "20198",
-  "pname": "PTLib",
-  "pcpe": "cpe:/a:opalvoip:portable_tool_library"
+	"vid": "9702",
+	"vname": "OpalVOIP",
+	"vcpe": "cpe:/:opalvoip",
+	"pid": "20198",
+	"pname": "PTLib",
+	"pcpe": "cpe:/a:opalvoip:portable_tool_library"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17394",
-  "vname": "Thales Group",
-  "vcpe": "cpe:/:thalesgroup",
-  "pid": "46286",
-  "pname": "PDS6 ファームウェア",
-  "pcpe": "cpe:/o:thalesgroup:pds6_firmware"
+	"vid": "17394",
+	"vname": "Thales Group",
+	"vcpe": "cpe:/:thalesgroup",
+	"pid": "46286",
+	"pname": "PDS6 ファームウェア",
+	"pcpe": "cpe:/o:thalesgroup:pds6_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "49277",
-  "pname": "remote-login-service package",
-  "pcpe": "cpe:/a:canonical:remote-login-service"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "49277",
+	"pname": "remote-login-service package",
+	"pcpe": "cpe:/a:canonical:remote-login-service"
 }

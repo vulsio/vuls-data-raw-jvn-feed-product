@@ -1,8 +1,8 @@
 {
-  "vid": "14763",
-  "vname": "libsunec project",
-  "vcpe": "cpe:/:libsunec_project",
-  "pid": "34571",
-  "pname": "LibSunEC",
-  "pcpe": "cpe:/a:libsunec_project:libsunec"
+	"vid": "14763",
+	"vname": "libsunec project",
+	"vcpe": "cpe:/:libsunec_project",
+	"pid": "34571",
+	"pname": "LibSunEC",
+	"pcpe": "cpe:/a:libsunec_project:libsunec"
 }

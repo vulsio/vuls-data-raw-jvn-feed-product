@@ -1,8 +1,8 @@
 {
-  "vid": "8864",
-  "vname": "Trimble",
-  "vcpe": "cpe:/:trimble",
-  "pid": "20339",
-  "pname": "SketchUp",
-  "pcpe": "cpe:/a:trimble:sketchup"
+	"vid": "8864",
+	"vname": "Trimble",
+	"vcpe": "cpe:/:trimble",
+	"pid": "20339",
+	"pname": "SketchUp",
+	"pcpe": "cpe:/a:trimble:sketchup"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "54897",
-  "pname": "JP1/Service Support Starter Edition",
-  "pcpe": "cpe:/a:hitachi:jp1_service_support_starter_edition"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "54897",
+	"pname": "JP1/Service Support Starter Edition",
+	"pcpe": "cpe:/a:hitachi:jp1_service_support_starter_edition"
 }

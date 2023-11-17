@@ -1,8 +1,8 @@
 {
-  "vid": "3285",
-  "vname": "domain group network",
-  "vcpe": "cpe:/:domain_group_network",
-  "pid": "7419",
-  "pname": "goocms",
-  "pcpe": "cpe:/a:domain_group_network:goocms"
+	"vid": "3285",
+	"vname": "domain group network",
+	"vcpe": "cpe:/:domain_group_network",
+	"pid": "7419",
+	"pname": "goocms",
+	"pcpe": "cpe:/a:domain_group_network:goocms"
 }

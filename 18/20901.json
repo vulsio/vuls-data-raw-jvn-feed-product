@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20901",
-  "pname": "Emptoris Spend Analysis",
-  "pcpe": "cpe:/a:ibm:emptoris_spend_analysis"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20901",
+	"pname": "Emptoris Spend Analysis",
+	"pcpe": "cpe:/a:ibm:emptoris_spend_analysis"
 }

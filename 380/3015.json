@@ -1,8 +1,8 @@
 {
-  "vid": "380",
-  "vname": "株式会社スカイアークシステム",
-  "vcpe": "cpe:/:skyarc",
-  "pid": "3015",
-  "pname": "MailPack",
-  "pcpe": "cpe:/a:skyarc:mailpack"
+	"vid": "380",
+	"vname": "株式会社スカイアークシステム",
+	"vcpe": "cpe:/:skyarc",
+	"pid": "3015",
+	"pname": "MailPack",
+	"pcpe": "cpe:/a:skyarc:mailpack"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "50419",
-  "pname": "vSmart Controller ファームウェア",
-  "pcpe": "cpe:/o:cisco:vsmart_controller_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "50419",
+	"pname": "vSmart Controller ファームウェア",
+	"pcpe": "cpe:/o:cisco:vsmart_controller_firmware"
 }

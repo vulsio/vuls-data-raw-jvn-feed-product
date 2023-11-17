@@ -1,8 +1,8 @@
 {
-  "vid": "16746",
-  "vname": "Supsystic",
-  "vcpe": "cpe:/:supsystic",
-  "pid": "40103",
-  "pname": "Photo Gallery",
-  "pcpe": "cpe:/a:supsystic:photo_gallery"
+	"vid": "16746",
+	"vname": "Supsystic",
+	"vcpe": "cpe:/:supsystic",
+	"pid": "40103",
+	"pname": "Photo Gallery",
+	"pcpe": "cpe:/a:supsystic:photo_gallery"
 }

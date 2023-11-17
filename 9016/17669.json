@@ -1,8 +1,8 @@
 {
-  "vid": "9016",
-  "vname": "Lianja",
-  "vcpe": "cpe:/:lianja",
-  "pid": "17669",
-  "pname": "Lianja SQL Server",
-  "pcpe": "cpe:/a:lianja:lianja_sql_server"
+	"vid": "9016",
+	"vname": "Lianja",
+	"vcpe": "cpe:/:lianja",
+	"pid": "17669",
+	"pname": "Lianja SQL Server",
+	"pcpe": "cpe:/a:lianja:lianja_sql_server"
 }

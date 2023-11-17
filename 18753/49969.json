@@ -1,8 +1,8 @@
 {
-  "vid": "18753",
-  "vname": "エレコム株式会社",
-  "vcpe": "cpe:/:elecom",
-  "pid": "49969",
-  "pname": "WRC-2533GHBK-I ファームウェア",
-  "pcpe": "cpe:/o:elecom:wrc-2533ghbk-i_firmware"
+	"vid": "18753",
+	"vname": "エレコム株式会社",
+	"vcpe": "cpe:/:elecom",
+	"pid": "49969",
+	"pname": "WRC-2533GHBK-I ファームウェア",
+	"pcpe": "cpe:/o:elecom:wrc-2533ghbk-i_firmware"
 }

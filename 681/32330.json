@@ -1,8 +1,8 @@
 {
-  "vid": "681",
-  "vname": "ASUSTeK Computer Inc.",
-  "vcpe": "cpe:/:asus",
-  "pid": "32330",
-  "pname": "ASUSWRT",
-  "pcpe": "cpe:/o:asus:asuswrt"
+	"vid": "681",
+	"vname": "ASUSTeK Computer Inc.",
+	"vcpe": "cpe:/:asus",
+	"pid": "32330",
+	"pname": "ASUSWRT",
+	"pcpe": "cpe:/o:asus:asuswrt"
 }

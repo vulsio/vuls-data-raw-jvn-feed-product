@@ -1,8 +1,8 @@
 {
-  "vid": "11340",
-  "vname": "Malwarebytes",
-  "vcpe": "cpe:/:malwarebytes",
-  "pid": "32065",
-  "pname": "Malwarebytes",
-  "pcpe": "cpe:/a:malwarebytes:malwarebytes"
+	"vid": "11340",
+	"vname": "Malwarebytes",
+	"vcpe": "cpe:/:malwarebytes",
+	"pid": "32065",
+	"pname": "Malwarebytes",
+	"pcpe": "cpe:/a:malwarebytes:malwarebytes"
 }

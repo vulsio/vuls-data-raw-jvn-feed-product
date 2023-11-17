@@ -1,8 +1,8 @@
 {
-  "vid": "16668",
-  "vname": "yaml-rust project",
-  "vcpe": "cpe:/:yaml-rust_project",
-  "pid": "39714",
-  "pname": "yaml-rust",
-  "pcpe": "cpe:/a:yaml-rust_project:yaml-rust"
+	"vid": "16668",
+	"vname": "yaml-rust project",
+	"vcpe": "cpe:/:yaml-rust_project",
+	"pid": "39714",
+	"pname": "yaml-rust",
+	"pcpe": "cpe:/a:yaml-rust_project:yaml-rust"
 }

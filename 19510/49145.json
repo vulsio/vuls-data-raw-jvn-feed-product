@@ -1,8 +1,8 @@
 {
-  "vid": "19510",
-  "vname": "WDJA",
-  "vcpe": "cpe:/:wdja",
-  "pid": "49145",
-  "pname": "WDJA CMS",
-  "pcpe": "cpe:/a:wdja:wdja_cms"
+	"vid": "19510",
+	"vname": "WDJA",
+	"vcpe": "cpe:/:wdja",
+	"pid": "49145",
+	"pname": "WDJA CMS",
+	"pcpe": "cpe:/a:wdja:wdja_cms"
 }

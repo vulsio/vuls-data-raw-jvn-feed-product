@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "20839",
-  "pname": "DSR-250 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dsr-250_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "20839",
+	"pname": "DSR-250 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dsr-250_firmware"
 }

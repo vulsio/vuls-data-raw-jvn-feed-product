@@ -1,8 +1,8 @@
 {
-  "vid": "564",
-  "vname": "Panda Security",
-  "vcpe": "cpe:/:pandasecurity",
-  "pid": "2307",
-  "pname": "Panda ActiveScan",
-  "pcpe": "cpe:/a:pandasecurity:panda_activescan"
+	"vid": "564",
+	"vname": "Panda Security",
+	"vcpe": "cpe:/:pandasecurity",
+	"pid": "2307",
+	"pname": "Panda ActiveScan",
+	"pcpe": "cpe:/a:pandasecurity:panda_activescan"
 }

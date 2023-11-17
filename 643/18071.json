@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "18071",
-  "pname": "Latitude XT2",
-  "pcpe": "cpe:/h:dell:latitude_xt2"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "18071",
+	"pname": "Latitude XT2",
+	"pcpe": "cpe:/h:dell:latitude_xt2"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "632",
-  "vname": "OTRS プロジェクト",
-  "vcpe": "cpe:/:otrs",
-  "pid": "49557",
-  "pname": "TicketForms",
-  "pcpe": "cpe:/a:otrs:ticket_forms"
+	"vid": "632",
+	"vname": "OTRS プロジェクト",
+	"vcpe": "cpe:/:otrs",
+	"pid": "49557",
+	"pname": "TicketForms",
+	"pcpe": "cpe:/a:otrs:ticket_forms"
 }

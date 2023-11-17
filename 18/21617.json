@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "21617",
-  "pname": "Tivoli Netcool/Impact",
-  "pcpe": "cpe:/a:ibm:netcool%2Fimpact"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "21617",
+	"pname": "Tivoli Netcool/Impact",
+	"pcpe": "cpe:/a:ibm:netcool%2Fimpact"
 }

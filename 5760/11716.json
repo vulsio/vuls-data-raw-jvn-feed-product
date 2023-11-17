@@ -1,8 +1,8 @@
 {
-  "vid": "5760",
-  "vname": "move networks inc",
-  "vcpe": "cpe:/:move_networks_inc",
-  "pid": "11716",
-  "pname": "move media player",
-  "pcpe": "cpe:/a:move_networks_inc:move_media_player"
+	"vid": "5760",
+	"vname": "move networks inc",
+	"vcpe": "cpe:/:move_networks_inc",
+	"pid": "11716",
+	"pname": "move media player",
+	"pcpe": "cpe:/a:move_networks_inc:move_media_player"
 }

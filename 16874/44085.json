@@ -1,8 +1,8 @@
 {
-  "vid": "16874",
-  "vname": "CESNET",
-  "vcpe": "cpe:/:cesnet",
-  "pid": "44085",
-  "pname": "Perun",
-  "pcpe": "cpe:/a:cesnet:perun"
+	"vid": "16874",
+	"vname": "CESNET",
+	"vcpe": "cpe:/:cesnet",
+	"pid": "44085",
+	"pname": "Perun",
+	"pcpe": "cpe:/a:cesnet:perun"
 }

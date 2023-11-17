@@ -1,8 +1,8 @@
 {
-  "vid": "15144",
-  "vname": "Pixar",
-  "vcpe": "cpe:/:pixar",
-  "pid": "35091",
-  "pname": "RenderMan",
-  "pcpe": "cpe:/a:pixar:renderman"
+	"vid": "15144",
+	"vname": "Pixar",
+	"vcpe": "cpe:/:pixar",
+	"pid": "35091",
+	"pname": "RenderMan",
+	"pcpe": "cpe:/a:pixar:renderman"
 }

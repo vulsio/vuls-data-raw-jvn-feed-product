@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "9863",
-  "pname": "hpqvwocx.dll",
-  "pcpe": "cpe:/a:hp:hpqvwocx.dll"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "9863",
+	"pname": "hpqvwocx.dll",
+	"pcpe": "cpe:/a:hp:hpqvwocx.dll"
 }

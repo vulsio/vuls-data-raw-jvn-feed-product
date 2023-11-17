@@ -1,8 +1,8 @@
 {
-  "vid": "22522",
-  "vname": "tecnoteca",
-  "vcpe": "cpe:/:tecnoteca",
-  "pid": "57969",
-  "pname": "cmdbuild",
-  "pcpe": "cpe:/a:tecnoteca:cmdbuild"
+	"vid": "22522",
+	"vname": "tecnoteca",
+	"vcpe": "cpe:/:tecnoteca",
+	"pid": "57969",
+	"pname": "cmdbuild",
+	"pcpe": "cpe:/a:tecnoteca:cmdbuild"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "43925",
-  "pname": "6500e ファームウェア",
-  "pcpe": "cpe:/o:lexmark:6500e_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "43925",
+	"pname": "6500e ファームウェア",
+	"pcpe": "cpe:/o:lexmark:6500e_firmware"
 }

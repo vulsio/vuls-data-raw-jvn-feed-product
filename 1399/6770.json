@@ -1,8 +1,8 @@
 {
-  "vid": "1399",
-  "vname": "citadel",
-  "vcpe": "cpe:/:citadel",
-  "pid": "6770",
-  "pname": "webcit",
-  "pcpe": "cpe:/a:citadel:webcit"
+	"vid": "1399",
+	"vname": "citadel",
+	"vcpe": "cpe:/:citadel",
+	"pid": "6770",
+	"pname": "webcit",
+	"pcpe": "cpe:/a:citadel:webcit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13356",
-  "vname": "sanic project",
-  "vcpe": "cpe:/:sanic_project",
-  "pid": "31238",
-  "pname": "sanic",
-  "pcpe": "cpe:/a:sanic_project:sanic"
+	"vid": "13356",
+	"vname": "sanic project",
+	"vcpe": "cpe:/:sanic_project",
+	"pid": "31238",
+	"pname": "sanic",
+	"pcpe": "cpe:/a:sanic_project:sanic"
 }

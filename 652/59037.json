@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "59037",
-  "pname": "link to windows service",
-  "pcpe": "cpe:/a:samsung:link_to_windows_service"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "59037",
+	"pname": "link to windows service",
+	"pcpe": "cpe:/a:samsung:link_to_windows_service"
 }

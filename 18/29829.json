@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "29829",
-  "pname": "IBM MQ Appliance",
-  "pcpe": "cpe:/a:ibm:mq_appliance"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "29829",
+	"pname": "IBM MQ Appliance",
+	"pcpe": "cpe:/a:ibm:mq_appliance"
 }

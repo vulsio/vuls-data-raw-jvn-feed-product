@@ -1,8 +1,8 @@
 {
-  "vid": "10160",
-  "vname": "Fast Lane Institute for Knowledge Transfer GmbH",
-  "vcpe": "cpe:/:flane",
-  "pid": "21283",
-  "pname": "Cisco Class Locator Fast Lane",
-  "pcpe": "cpe:/a:flane:cisco_class_locator_fast_lane"
+	"vid": "10160",
+	"vname": "Fast Lane Institute for Knowledge Transfer GmbH",
+	"vcpe": "cpe:/:flane",
+	"pid": "21283",
+	"pname": "Cisco Class Locator Fast Lane",
+	"pcpe": "cpe:/a:flane:cisco_class_locator_fast_lane"
 }

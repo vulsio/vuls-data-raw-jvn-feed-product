@@ -1,8 +1,8 @@
 {
-  "vid": "15256",
-  "vname": "SansCMS",
-  "vcpe": "cpe:/:sanscms",
-  "pid": "35321",
-  "pname": "SansCMS",
-  "pcpe": "cpe:/a:sanscms:sanscms"
+	"vid": "15256",
+	"vname": "SansCMS",
+	"vcpe": "cpe:/:sanscms",
+	"pid": "35321",
+	"pname": "SansCMS",
+	"pcpe": "cpe:/a:sanscms:sanscms"
 }

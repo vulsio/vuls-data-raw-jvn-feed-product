@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "36263",
-  "pname": "Baggio2-U01A ファームウェア",
-  "pcpe": "cpe:/o:huawei:baggio2-u01a_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "36263",
+	"pname": "Baggio2-U01A ファームウェア",
+	"pcpe": "cpe:/o:huawei:baggio2-u01a_firmware"
 }

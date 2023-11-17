@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "30763",
-  "pname": "UAP2105 ファームウェア",
-  "pcpe": "cpe:/o:huawei:uap2105_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "30763",
+	"pname": "UAP2105 ファームウェア",
+	"pcpe": "cpe:/o:huawei:uap2105_firmware"
 }

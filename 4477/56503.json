@@ -1,8 +1,8 @@
 {
-  "vid": "4477",
-  "vname": "Bentley Systems",
-  "vcpe": "cpe:/:bentley",
-  "pid": "56503",
-  "pname": "MicroStation Connect",
-  "pcpe": "cpe:/a:bentley:microstation_connect"
+	"vid": "4477",
+	"vname": "Bentley Systems",
+	"vcpe": "cpe:/:bentley",
+	"pid": "56503",
+	"pname": "MicroStation Connect",
+	"pcpe": "cpe:/a:bentley:microstation_connect"
 }

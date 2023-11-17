@@ -1,8 +1,8 @@
 {
-  "vid": "17911",
-  "vname": "umplayer project",
-  "vcpe": "cpe:/:umplayer_project",
-  "pid": "43293",
-  "pname": "UMPlayer",
-  "pcpe": "cpe:/a:umplayer_project:umplayer"
+	"vid": "17911",
+	"vname": "umplayer project",
+	"vcpe": "cpe:/:umplayer_project",
+	"pid": "43293",
+	"pname": "UMPlayer",
+	"pcpe": "cpe:/a:umplayer_project:umplayer"
 }

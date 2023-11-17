@@ -1,8 +1,8 @@
 {
-  "vid": "16247",
-  "vname": "Reolink Digital Technology",
-  "vcpe": "cpe:/:reolink",
-  "pid": "61438",
-  "pname": "e1 zoom ファームウェア",
-  "pcpe": "cpe:/o:reolink:e1_zoom_firmware"
+	"vid": "16247",
+	"vname": "Reolink Digital Technology",
+	"vcpe": "cpe:/:reolink",
+	"pid": "61438",
+	"pname": "e1 zoom ファームウェア",
+	"pcpe": "cpe:/o:reolink:e1_zoom_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10320",
-  "vname": "Twilio, Inc.",
-  "vcpe": "cpe:/:twilio_project",
-  "pid": "46507",
-  "pname": "Twilio Authy 2-Factor Authentication",
-  "pcpe": "cpe:/a:twilio_project:authy_2-factor_authentication"
+	"vid": "10320",
+	"vname": "Twilio, Inc.",
+	"vcpe": "cpe:/:twilio_project",
+	"pid": "46507",
+	"pname": "Twilio Authy 2-Factor Authentication",
+	"pcpe": "cpe:/a:twilio_project:authy_2-factor_authentication"
 }

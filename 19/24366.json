@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24366",
-  "pname": "Cisco E メール セキュリティ仮想アプライアンス",
-  "pcpe": "cpe:/a:cisco:email_security_virtual_appliance"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24366",
+	"pname": "Cisco E メール セキュリティ仮想アプライアンス",
+	"pcpe": "cpe:/a:cisco:email_security_virtual_appliance"
 }

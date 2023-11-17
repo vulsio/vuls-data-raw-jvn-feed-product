@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "709",
-  "pname": "WS-X6624-FXS",
-  "pcpe": "cpe:/h:cisco:ws-x6624-fxs"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "709",
+	"pname": "WS-X6624-FXS",
+	"pcpe": "cpe:/h:cisco:ws-x6624-fxs"
 }

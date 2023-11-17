@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "28808",
-  "pname": "MXview",
-  "pcpe": "cpe:/a:moxa:mxview"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "28808",
+	"pname": "MXview",
+	"pcpe": "cpe:/a:moxa:mxview"
 }

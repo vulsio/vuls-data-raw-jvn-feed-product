@@ -1,8 +1,8 @@
 {
-  "vid": "20172",
-  "vname": "Neos",
-  "vcpe": "cpe:/:neos",
-  "pid": "60125",
-  "pname": "neos cms",
-  "pcpe": "cpe:/a:neos:neos_cms"
+	"vid": "20172",
+	"vname": "Neos",
+	"vcpe": "cpe:/:neos",
+	"pid": "60125",
+	"pname": "neos cms",
+	"pcpe": "cpe:/a:neos:neos_cms"
 }

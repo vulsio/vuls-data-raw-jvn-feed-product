@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "1125",
-  "pname": "SystemWalker ListWORKS",
-  "pcpe": "cpe:/a:fujitsu:systemwalker_listworks"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "1125",
+	"pname": "SystemWalker ListWORKS",
+	"pcpe": "cpe:/a:fujitsu:systemwalker_listworks"
 }

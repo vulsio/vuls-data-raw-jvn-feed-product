@@ -1,8 +1,8 @@
 {
-  "vid": "9303",
-  "vname": "Bare Bones Software",
-  "vcpe": "cpe:/:barebones",
-  "pid": "19084",
-  "pname": "TextWrangler",
-  "pcpe": "cpe:/a:barebones:textwrangler"
+	"vid": "9303",
+	"vname": "Bare Bones Software",
+	"vcpe": "cpe:/:barebones",
+	"pid": "19084",
+	"pname": "TextWrangler",
+	"pcpe": "cpe:/a:barebones:textwrangler"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "7875",
-  "vname": "swsoft",
-  "vcpe": "cpe:/:swsoft",
-  "pid": "15191",
-  "pname": "plesk reload",
-  "pcpe": "cpe:/a:swsoft:plesk_reload"
+	"vid": "7875",
+	"vname": "swsoft",
+	"vcpe": "cpe:/:swsoft",
+	"pid": "15191",
+	"pname": "plesk reload",
+	"pcpe": "cpe:/a:swsoft:plesk_reload"
 }

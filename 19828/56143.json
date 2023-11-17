@@ -1,8 +1,8 @@
 {
-  "vid": "19828",
-  "vname": "Hitachi Energy",
-  "vcpe": "cpe:/:hitachienergy",
-  "pid": "56143",
-  "pname": "Relion SAM600-IO",
-  "pcpe": "cpe:/a:hitachienergy:relion_sam600-io"
+	"vid": "19828",
+	"vname": "Hitachi Energy",
+	"vcpe": "cpe:/:hitachienergy",
+	"pid": "56143",
+	"pname": "Relion SAM600-IO",
+	"pcpe": "cpe:/a:hitachienergy:relion_sam600-io"
 }

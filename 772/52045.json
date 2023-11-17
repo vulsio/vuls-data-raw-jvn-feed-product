@@ -1,8 +1,8 @@
 {
-  "vid": "772",
-  "vname": "OWASP",
-  "vcpe": "cpe:/:owasp",
-  "pid": "52045",
-  "pname": "OWASP CSRFGuard",
-  "pcpe": "cpe:/a:owasp:csrfguard"
+	"vid": "772",
+	"vname": "OWASP",
+	"vcpe": "cpe:/:owasp",
+	"pid": "52045",
+	"pname": "OWASP CSRFGuard",
+	"pcpe": "cpe:/a:owasp:csrfguard"
 }

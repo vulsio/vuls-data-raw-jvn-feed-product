@@ -1,8 +1,8 @@
 {
-  "vid": "19901",
-  "vname": "IDEC株式会社",
-  "vcpe": "cpe:/:idec",
-  "pid": "50309",
-  "pname": "FT1A 形 コントローラ SmartAXIS Pro/Lite",
-  "pcpe": "cpe:/a:idec:ft1a_controller_smartaxis_pro_lite"
+	"vid": "19901",
+	"vname": "IDEC株式会社",
+	"vcpe": "cpe:/:idec",
+	"pid": "50309",
+	"pname": "FT1A 形 コントローラ SmartAXIS Pro/Lite",
+	"pcpe": "cpe:/a:idec:ft1a_controller_smartaxis_pro_lite"
 }

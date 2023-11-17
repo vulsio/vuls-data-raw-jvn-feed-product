@@ -1,8 +1,8 @@
 {
-  "vid": "4080",
-  "vname": "gtasoft",
-  "vcpe": "cpe:/:gtasoft",
-  "pid": "8569",
-  "pname": "p4cms",
-  "pcpe": "cpe:/a:gtasoft:p4cms"
+	"vid": "4080",
+	"vname": "gtasoft",
+	"vcpe": "cpe:/:gtasoft",
+	"pid": "8569",
+	"pname": "p4cms",
+	"pcpe": "cpe:/a:gtasoft:p4cms"
 }

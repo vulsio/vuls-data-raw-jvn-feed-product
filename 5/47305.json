@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47305",
-  "pname": "AQT1000",
-  "pcpe": "cpe:/h:qualcomm:aqt1000"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47305",
+	"pname": "AQT1000",
+	"pcpe": "cpe:/h:qualcomm:aqt1000"
 }

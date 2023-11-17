@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "44491",
-  "pname": "GS750E ファームウェア",
-  "pcpe": "cpe:/o:netgear:gs750e_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "44491",
+	"pname": "GS750E ファームウェア",
+	"pcpe": "cpe:/o:netgear:gs750e_firmware"
 }

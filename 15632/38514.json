@@ -1,8 +1,8 @@
 {
-  "vid": "15632",
-  "vname": "AudioCodes",
-  "vcpe": "cpe:/:audiocodes",
-  "pid": "38514",
-  "pname": "405HD ファームウェア",
-  "pcpe": "cpe:/o:audiocodes:405hd_firmware"
+	"vid": "15632",
+	"vname": "AudioCodes",
+	"vcpe": "cpe:/:audiocodes",
+	"pid": "38514",
+	"pname": "405HD ファームウェア",
+	"pcpe": "cpe:/o:audiocodes:405hd_firmware"
 }

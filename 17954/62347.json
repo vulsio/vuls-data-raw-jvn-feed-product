@@ -1,8 +1,8 @@
 {
-  "vid": "17954",
-  "vname": "Fiserv",
-  "vcpe": "cpe:/:fiserv",
-  "pid": "62347",
-  "pname": "prologue",
-  "pcpe": "cpe:/a:fiserv:prologue"
+	"vid": "17954",
+	"vname": "Fiserv",
+	"vcpe": "cpe:/:fiserv",
+	"pid": "62347",
+	"pname": "prologue",
+	"pcpe": "cpe:/a:fiserv:prologue"
 }

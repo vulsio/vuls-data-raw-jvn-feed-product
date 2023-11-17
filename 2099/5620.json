@@ -1,8 +1,8 @@
 {
-  "vid": "2099",
-  "vname": "Aircrack-ng",
-  "vcpe": "cpe:/:aircrack-ng",
-  "pid": "5620",
-  "pname": "airodump-ng",
-  "pcpe": "cpe:/a:aircrack-ng:airodump-ng"
+	"vid": "2099",
+	"vname": "Aircrack-ng",
+	"vcpe": "cpe:/:aircrack-ng",
+	"pid": "5620",
+	"pname": "airodump-ng",
+	"pcpe": "cpe:/a:aircrack-ng:airodump-ng"
 }

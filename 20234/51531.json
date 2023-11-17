@@ -1,8 +1,8 @@
 {
-  "vid": "20234",
-  "vname": "DHIS2",
-  "vcpe": "cpe:/:dhis2",
-  "pid": "51531",
-  "pname": "DHIS 2",
-  "pcpe": "cpe:/a:dhis2:dhis_2"
+	"vid": "20234",
+	"vname": "DHIS2",
+	"vcpe": "cpe:/:dhis2",
+	"pid": "51531",
+	"pname": "DHIS 2",
+	"pcpe": "cpe:/a:dhis2:dhis_2"
 }

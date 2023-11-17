@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "2026",
-  "pname": "DocuShare",
-  "pcpe": "cpe:/a:xerox:docushare"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "2026",
+	"pname": "DocuShare",
+	"pcpe": "cpe:/a:xerox:docushare"
 }

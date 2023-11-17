@@ -1,8 +1,8 @@
 {
-  "vid": "24403",
-  "vname": "ydesignservices",
-  "vcpe": "cpe:/:ydesignservices",
-  "pid": "63022",
-  "pname": "yds support ticket system",
-  "pcpe": "cpe:/a:ydesignservices:yds_support_ticket_system"
+	"vid": "24403",
+	"vname": "ydesignservices",
+	"vcpe": "cpe:/:ydesignservices",
+	"pid": "63022",
+	"pname": "yds support ticket system",
+	"pcpe": "cpe:/a:ydesignservices:yds_support_ticket_system"
 }

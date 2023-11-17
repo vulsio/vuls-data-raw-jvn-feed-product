@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "12835",
-  "pname": "surepos 500",
-  "pcpe": "cpe:/h:ibm:surepos_500"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "12835",
+	"pname": "surepos 500",
+	"pcpe": "cpe:/h:ibm:surepos_500"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15504",
-  "vname": "Slack ArchiveBot project",
-  "vcpe": "cpe:/:slack-archive-bot_project",
-  "pid": "35981",
-  "pname": "Slack ArchiveBot",
-  "pcpe": "cpe:/a:slack-archive-bot_project:slack-archive-bot"
+	"vid": "15504",
+	"vname": "Slack ArchiveBot project",
+	"vcpe": "cpe:/:slack-archive-bot_project",
+	"pid": "35981",
+	"pname": "Slack ArchiveBot",
+	"pcpe": "cpe:/a:slack-archive-bot_project:slack-archive-bot"
 }

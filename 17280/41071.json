@@ -1,8 +1,8 @@
 {
-  "vid": "17280",
-  "vname": "Simpolio project",
-  "vcpe": "cpe:/:simpolio_project",
-  "pid": "41071",
-  "pname": "Simpolio",
-  "pcpe": "cpe:/a:simpolio_project:simpolio"
+	"vid": "17280",
+	"vname": "Simpolio project",
+	"vcpe": "cpe:/:simpolio_project",
+	"pid": "41071",
+	"pname": "Simpolio",
+	"pcpe": "cpe:/a:simpolio_project:simpolio"
 }

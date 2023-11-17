@@ -1,8 +1,8 @@
 {
-  "vid": "15282",
-  "vname": "mathjax",
-  "vcpe": "cpe:/:mathjax",
-  "pid": "35381",
-  "pname": "MathJax",
-  "pcpe": "cpe:/a:mathjax:mathjax"
+	"vid": "15282",
+	"vname": "mathjax",
+	"vcpe": "cpe:/:mathjax",
+	"pid": "35381",
+	"pname": "MathJax",
+	"pcpe": "cpe:/a:mathjax:mathjax"
 }

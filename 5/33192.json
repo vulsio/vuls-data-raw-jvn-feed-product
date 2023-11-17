@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33192",
-  "pname": "SD 435 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd_435_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33192",
+	"pname": "SD 435 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd_435_firmware"
 }

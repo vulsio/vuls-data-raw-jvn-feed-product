@@ -1,8 +1,8 @@
 {
-  "vid": "19061",
-  "vname": "Invigo",
-  "vcpe": "cpe:/:invigo",
-  "pid": "47793",
-  "pname": "Automatic Device Management",
-  "pcpe": "cpe:/a:invigo:automatic_device_management"
+	"vid": "19061",
+	"vname": "Invigo",
+	"vcpe": "cpe:/:invigo",
+	"pid": "47793",
+	"pname": "Automatic Device Management",
+	"pcpe": "cpe:/a:invigo:automatic_device_management"
 }

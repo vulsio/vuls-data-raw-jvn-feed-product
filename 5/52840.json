@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52840",
-  "pname": "SD778G ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd778g_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52840",
+	"pname": "SD778G ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd778g_firmware"
 }

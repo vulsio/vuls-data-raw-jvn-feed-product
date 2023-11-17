@@ -1,8 +1,8 @@
 {
-  "vid": "560",
-  "vname": "OSIsoft",
-  "vcpe": "cpe:/:osisoft",
-  "pid": "30138",
-  "pname": "PI Integrator for SAP HANA",
-  "pcpe": "cpe:/a:osisoft:pi_integrator_for_sap_hana"
+	"vid": "560",
+	"vname": "OSIsoft",
+	"vcpe": "cpe:/:osisoft",
+	"pid": "30138",
+	"pname": "PI Integrator for SAP HANA",
+	"pcpe": "cpe:/a:osisoft:pi_integrator_for_sap_hana"
 }

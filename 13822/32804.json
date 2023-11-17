@@ -1,8 +1,8 @@
 {
-  "vid": "13822",
-  "vname": "Quarx CMS",
-  "vcpe": "cpe:/:quarxcms",
-  "pid": "32804",
-  "pname": "Quarx",
-  "pcpe": "cpe:/a:quarxcms:quarx"
+	"vid": "13822",
+	"vname": "Quarx CMS",
+	"vcpe": "cpe:/:quarxcms",
+	"pid": "32804",
+	"pname": "Quarx",
+	"pcpe": "cpe:/a:quarxcms:quarx"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17135",
-  "vname": "Sola Plugins",
-  "vcpe": "cpe:/:solaplugins",
-  "pid": "40749",
-  "pname": "Sola Support Tickets",
-  "pcpe": "cpe:/a:solaplugins:sola_support_tickets"
+	"vid": "17135",
+	"vname": "Sola Plugins",
+	"vcpe": "cpe:/:solaplugins",
+	"pid": "40749",
+	"pname": "Sola Support Tickets",
+	"pcpe": "cpe:/a:solaplugins:sola_support_tickets"
 }

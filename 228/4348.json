@@ -1,8 +1,8 @@
 {
-  "vid": "228",
-  "vname": "Fedora Project",
-  "vcpe": "cpe:/:fedoraproject",
-  "pid": "4348",
-  "pname": "networkmanager",
-  "pcpe": "cpe:/a:fedoraproject:networkmanager"
+	"vid": "228",
+	"vname": "Fedora Project",
+	"vcpe": "cpe:/:fedoraproject",
+	"pid": "4348",
+	"pname": "networkmanager",
+	"pcpe": "cpe:/a:fedoraproject:networkmanager"
 }

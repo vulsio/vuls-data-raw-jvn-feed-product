@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "11385",
-  "pname": "McAfee SecurityCenter",
-  "pcpe": "cpe:/a:mcafee:security_center"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "11385",
+	"pname": "McAfee SecurityCenter",
+	"pcpe": "cpe:/a:mcafee:security_center"
 }

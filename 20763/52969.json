@@ -1,8 +1,8 @@
 {
-  "vid": "20763",
-  "vname": "Replicated",
-  "vcpe": "cpe:/:replicated",
-  "pid": "52969",
-  "pname": "Replicated Classic",
-  "pcpe": "cpe:/a:replicated:replicated_classic"
+	"vid": "20763",
+	"vname": "Replicated",
+	"vcpe": "cpe:/:replicated",
+	"pid": "52969",
+	"pname": "Replicated Classic",
+	"pcpe": "cpe:/a:replicated:replicated_classic"
 }

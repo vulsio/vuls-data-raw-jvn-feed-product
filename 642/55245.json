@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "55245",
-  "pname": "GS108Tv2 ファームウェア",
-  "pcpe": "cpe:/o:netgear:gs108tv2_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "55245",
+	"pname": "GS108Tv2 ファームウェア",
+	"pcpe": "cpe:/o:netgear:gs108tv2_firmware"
 }

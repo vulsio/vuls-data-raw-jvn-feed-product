@@ -1,8 +1,8 @@
 {
-  "vid": "8803",
-  "vname": "Lookout Mobile Security",
-  "vcpe": "cpe:/:lookout",
-  "pid": "16759",
-  "pname": "Lookout Security & Antivirus",
-  "pcpe": "cpe:/a:lookout:lookout"
+	"vid": "8803",
+	"vname": "Lookout Mobile Security",
+	"vcpe": "cpe:/:lookout",
+	"pid": "16759",
+	"pname": "Lookout Security & Antivirus",
+	"pcpe": "cpe:/a:lookout:lookout"
 }

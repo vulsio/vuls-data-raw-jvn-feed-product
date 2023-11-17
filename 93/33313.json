@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "33313",
-  "pname": "Avatar Uploader",
-  "pcpe": "cpe:/a:drupal:avatar_uploader"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "33313",
+	"pname": "Avatar Uploader",
+	"pcpe": "cpe:/a:drupal:avatar_uploader"
 }

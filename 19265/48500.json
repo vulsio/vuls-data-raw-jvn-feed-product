@@ -1,8 +1,8 @@
 {
-  "vid": "19265",
-  "vname": "stackvector project",
-  "vcpe": "cpe:/:stackvector_project",
-  "pid": "48500",
-  "pname": "stackvector",
-  "pcpe": "cpe:/a:stackvector_project:stackvector"
+	"vid": "19265",
+	"vname": "stackvector project",
+	"vcpe": "cpe:/:stackvector_project",
+	"pid": "48500",
+	"pname": "stackvector",
+	"pcpe": "cpe:/a:stackvector_project:stackvector"
 }

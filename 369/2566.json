@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "2566",
-  "pname": "CA CMDB",
-  "pcpe": "cpe:/a:ca:cmdb"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "2566",
+	"pname": "CA CMDB",
+	"pcpe": "cpe:/a:ca:cmdb"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1303",
-  "vname": "Avira",
-  "vcpe": "cpe:/:avira",
-  "pid": "43282",
-  "pname": "Avira AntiVir MailGate Suite",
-  "pcpe": "cpe:/a:avira:antivir_mailgate_suite"
+	"vid": "1303",
+	"vname": "Avira",
+	"vcpe": "cpe:/:avira",
+	"pid": "43282",
+	"pname": "Avira AntiVir MailGate Suite",
+	"pcpe": "cpe:/a:avira:antivir_mailgate_suite"
 }

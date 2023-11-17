@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "377",
-  "pname": "Microsoft Windows Vista",
-  "pcpe": "cpe:/o:microsoft:windows_vista"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "377",
+	"pname": "Microsoft Windows Vista",
+	"pcpe": "cpe:/o:microsoft:windows_vista"
 }

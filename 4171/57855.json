@@ -1,8 +1,8 @@
 {
-  "vid": "4171",
-  "vname": "ARRIS Group",
-  "vcpe": "cpe:/:arris",
-  "pid": "57855",
-  "pname": "sbr-ac1900p ファームウェア",
-  "pcpe": "cpe:/o:arris:sbr-ac1900p_firmware"
+	"vid": "4171",
+	"vname": "ARRIS Group",
+	"vcpe": "cpe:/:arris",
+	"pid": "57855",
+	"pname": "sbr-ac1900p ファームウェア",
+	"pcpe": "cpe:/o:arris:sbr-ac1900p_firmware"
 }

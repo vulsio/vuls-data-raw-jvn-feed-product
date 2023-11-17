@@ -1,8 +1,8 @@
 {
-  "vid": "1007",
-  "vname": "DMXReady",
-  "vcpe": "cpe:/:dmxready",
-  "pid": "7401",
-  "pname": "online notebook manager",
-  "pcpe": "cpe:/a:dmxready:online_notebook_manager"
+	"vid": "1007",
+	"vname": "DMXReady",
+	"vcpe": "cpe:/:dmxready",
+	"pid": "7401",
+	"pname": "online notebook manager",
+	"pcpe": "cpe:/a:dmxready:online_notebook_manager"
 }

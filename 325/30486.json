@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30486",
-  "pname": "ThinkPad USB 3.0 イーサネットアダプタードライバ",
-  "pcpe": "cpe:/a:lenovo:thinkpad_usb_3.0_ethernet_adapter_driver"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30486",
+	"pname": "ThinkPad USB 3.0 イーサネットアダプタードライバ",
+	"pcpe": "cpe:/a:lenovo:thinkpad_usb_3.0_ethernet_adapter_driver"
 }

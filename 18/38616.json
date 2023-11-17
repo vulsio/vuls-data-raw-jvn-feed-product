@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "38616",
-  "pname": "IBM Cloud App Management",
-  "pcpe": "cpe:/a:ibm:cloud_app_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "38616",
+	"pname": "IBM Cloud App Management",
+	"pcpe": "cpe:/a:ibm:cloud_app_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12050",
-  "vname": "Pygments",
-  "vcpe": "cpe:/:pygments",
-  "pid": "25366",
-  "pname": "Pygments",
-  "pcpe": "cpe:/a:pygments:pygments"
+	"vid": "12050",
+	"vname": "Pygments",
+	"vcpe": "cpe:/:pygments",
+	"pid": "25366",
+	"pname": "Pygments",
+	"pcpe": "cpe:/a:pygments:pygments"
 }

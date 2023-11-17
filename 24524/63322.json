@@ -1,8 +1,8 @@
 {
-  "vid": "24524",
-  "vname": "getshortcodes",
-  "vcpe": "cpe:/:getshortcodes",
-  "pid": "63322",
-  "pname": "shortcodes ultimate",
-  "pcpe": "cpe:/a:getshortcodes:shortcodes_ultimate"
+	"vid": "24524",
+	"vname": "getshortcodes",
+	"vcpe": "cpe:/:getshortcodes",
+	"pid": "63322",
+	"pname": "shortcodes ultimate",
+	"pcpe": "cpe:/a:getshortcodes:shortcodes_ultimate"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21217",
-  "vname": "日立国際電気",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "54408",
-  "pname": "HC-IP400HD-S01 ファームウェア",
-  "pcpe": "cpe:/o:hitachi:hc-ip400hd-s01_firmware"
+	"vid": "21217",
+	"vname": "日立国際電気",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "54408",
+	"pname": "HC-IP400HD-S01 ファームウェア",
+	"pcpe": "cpe:/o:hitachi:hc-ip400hd-s01_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "27653",
-  "pname": "Intel Ethernet Controller XL710 ファームウェア",
-  "pcpe": "cpe:/o:intel:ethernet_controler_xl710_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "27653",
+	"pname": "Intel Ethernet Controller XL710 ファームウェア",
+	"pcpe": "cpe:/o:intel:ethernet_controler_xl710_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6221",
-  "vname": "packeteer",
-  "vcpe": "cpe:/:packeteer",
-  "pid": "12425",
-  "pname": "packetwise",
-  "pcpe": "cpe:/a:packeteer:packetwise"
+	"vid": "6221",
+	"vname": "packeteer",
+	"vcpe": "cpe:/:packeteer",
+	"pid": "12425",
+	"pname": "packetwise",
+	"pcpe": "cpe:/a:packeteer:packetwise"
 }

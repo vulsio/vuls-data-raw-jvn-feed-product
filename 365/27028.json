@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "27028",
-  "pname": "Citrix License Server VPX",
-  "pcpe": "cpe:/a:citrix:license_server_vpx"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "27028",
+	"pname": "Citrix License Server VPX",
+	"pcpe": "cpe:/a:citrix:license_server_vpx"
 }

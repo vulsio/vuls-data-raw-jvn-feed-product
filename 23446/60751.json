@@ -1,8 +1,8 @@
 {
-  "vid": "23446",
-  "vname": "Campbell Scientific",
-  "vcpe": "cpe:/:campbellsci",
-  "pid": "60751",
-  "pname": "CR3000 ファームウェア",
-  "pcpe": "cpe:/o:campbellsci:cr3000_firmware"
+	"vid": "23446",
+	"vname": "Campbell Scientific",
+	"vcpe": "cpe:/:campbellsci",
+	"pid": "60751",
+	"pname": "CR3000 ファームウェア",
+	"pcpe": "cpe:/o:campbellsci:cr3000_firmware"
 }

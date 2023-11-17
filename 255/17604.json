@@ -1,8 +1,8 @@
 {
-  "vid": "255",
-  "vname": "キヤノン",
-  "vcpe": "cpe:/:canon",
-  "pid": "17604",
-  "pname": "PIXUS MG3130",
-  "pcpe": "cpe:/h:canon:mg3100_printer"
+	"vid": "255",
+	"vname": "キヤノン",
+	"vcpe": "cpe:/:canon",
+	"pid": "17604",
+	"pname": "PIXUS MG3130",
+	"pcpe": "cpe:/h:canon:mg3100_printer"
 }

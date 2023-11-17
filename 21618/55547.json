@@ -1,8 +1,8 @@
 {
-  "vid": "21618",
-  "vname": "i-Plugins",
-  "vcpe": "cpe:/:i-plugins",
-  "pid": "55547",
-  "pname": "WHMCS Bridge",
-  "pcpe": "cpe:/a:i-plugins:whmcs_bridge"
+	"vid": "21618",
+	"vname": "i-Plugins",
+	"vcpe": "cpe:/:i-plugins",
+	"pid": "55547",
+	"pname": "WHMCS Bridge",
+	"pcpe": "cpe:/a:i-plugins:whmcs_bridge"
 }

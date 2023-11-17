@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "36744",
-  "pname": "StorCenter px4-300r ファームウェア",
-  "pcpe": "cpe:/o:lenovo:storcenter_px4-300r_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "36744",
+	"pname": "StorCenter px4-300r ファームウェア",
+	"pcpe": "cpe:/o:lenovo:storcenter_px4-300r_firmware"
 }

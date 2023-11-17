@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "44330",
-  "pname": "Red Hat Migration Toolkit",
-  "pcpe": "cpe:/a:redhat:migration_toolkit"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "44330",
+	"pname": "Red Hat Migration Toolkit",
+	"pcpe": "cpe:/a:redhat:migration_toolkit"
 }

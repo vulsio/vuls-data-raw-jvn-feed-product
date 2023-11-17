@@ -1,8 +1,8 @@
 {
-  "vid": "12358",
-  "vname": "uClibc-ng project",
-  "vcpe": "cpe:/:uclibc-ng_project",
-  "pid": "27823",
-  "pname": "uClibc-ng",
-  "pcpe": "cpe:/a:uclibc-ng_project:uclibc-ng"
+	"vid": "12358",
+	"vname": "uClibc-ng project",
+	"vcpe": "cpe:/:uclibc-ng_project",
+	"pid": "27823",
+	"pname": "uClibc-ng",
+	"pcpe": "cpe:/a:uclibc-ng_project:uclibc-ng"
 }

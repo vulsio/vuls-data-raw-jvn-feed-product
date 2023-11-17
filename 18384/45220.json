@@ -1,8 +1,8 @@
 {
-  "vid": "18384",
-  "vname": "LinuxTV",
-  "vcpe": "cpe:/:linuxtv",
-  "pid": "45220",
-  "pname": "xawtv",
-  "pcpe": "cpe:/a:linuxtv:xawtv"
+	"vid": "18384",
+	"vname": "LinuxTV",
+	"vcpe": "cpe:/:linuxtv",
+	"pid": "45220",
+	"pname": "xawtv",
+	"pcpe": "cpe:/a:linuxtv:xawtv"
 }

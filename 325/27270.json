@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27270",
-  "pname": "YOGA 900S-12ISK BIOS",
-  "pcpe": "cpe:/o:lenovo:notebook_yoga_900s_12isk_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27270",
+	"pname": "YOGA 900S-12ISK BIOS",
+	"pcpe": "cpe:/o:lenovo:notebook_yoga_900s_12isk_bios"
 }

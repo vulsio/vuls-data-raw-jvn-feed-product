@@ -1,8 +1,8 @@
 {
-  "vid": "10199",
-  "vname": "Tildeslash Ltd.",
-  "vcpe": "cpe:/:mmonit",
-  "pid": "21350",
-  "pname": "M/Monit",
-  "pcpe": "cpe:/a:mmonit:m%2Fmonit"
+	"vid": "10199",
+	"vname": "Tildeslash Ltd.",
+	"vcpe": "cpe:/:mmonit",
+	"pid": "21350",
+	"pname": "M/Monit",
+	"pcpe": "cpe:/a:mmonit:m%2Fmonit"
 }

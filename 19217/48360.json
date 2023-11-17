@@ -1,8 +1,8 @@
 {
-  "vid": "19217",
-  "vname": "Ballerina project",
-  "vcpe": "cpe:/:ballerina",
-  "pid": "48360",
-  "pname": "SwanLake",
-  "pcpe": "cpe:/a:ballerina:swan_lake"
+	"vid": "19217",
+	"vname": "Ballerina project",
+	"vcpe": "cpe:/:ballerina",
+	"pid": "48360",
+	"pname": "SwanLake",
+	"pcpe": "cpe:/a:ballerina:swan_lake"
 }

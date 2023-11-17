@@ -1,8 +1,8 @@
 {
-  "vid": "6227",
-  "vname": "page-flip-tools",
-  "vcpe": "cpe:/:page-flip-tools",
-  "pid": "12434",
-  "pname": "flipping book",
-  "pcpe": "cpe:/a:page-flip-tools:flipping_book"
+	"vid": "6227",
+	"vname": "page-flip-tools",
+	"vcpe": "cpe:/:page-flip-tools",
+	"pid": "12434",
+	"pname": "flipping book",
+	"pcpe": "cpe:/a:page-flip-tools:flipping_book"
 }

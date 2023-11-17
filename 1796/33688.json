@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "33688",
-  "pname": "8840 N’Vision Clinician Programmer",
-  "pcpe": "cpe:/o:medtronic:n%27vision_8840_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "33688",
+	"pname": "8840 N’Vision Clinician Programmer",
+	"pcpe": "cpe:/o:medtronic:n%27vision_8840_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8636",
-  "vname": "xmb software",
-  "vcpe": "cpe:/:xmb_software",
-  "pid": "16357",
-  "pname": "extreme message board",
-  "pcpe": "cpe:/a:xmb_software:extreme_message_board"
+	"vid": "8636",
+	"vname": "xmb software",
+	"vcpe": "cpe:/:xmb_software",
+	"pid": "16357",
+	"pname": "extreme message board",
+	"pcpe": "cpe:/a:xmb_software:extreme_message_board"
 }

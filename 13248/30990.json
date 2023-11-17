@@ -1,8 +1,8 @@
 {
-  "vid": "13248",
-  "vname": "ProMinent",
-  "vcpe": "cpe:/:prominent",
-  "pid": "30990",
-  "pname": "MultiFLEX M10a Controller ファームウエア",
-  "pcpe": "cpe:/o:prominent:multiflex_m10a_controller_firmware"
+	"vid": "13248",
+	"vname": "ProMinent",
+	"vcpe": "cpe:/:prominent",
+	"pid": "30990",
+	"pname": "MultiFLEX M10a Controller ファームウエア",
+	"pcpe": "cpe:/o:prominent:multiflex_m10a_controller_firmware"
 }

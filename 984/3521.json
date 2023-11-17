@@ -1,8 +1,8 @@
 {
-  "vid": "984",
-  "vname": "Gantry framework",
-  "vcpe": "cpe:/:gantry-framework",
-  "pid": "3521",
-  "pname": "Gantry",
-  "pcpe": "cpe:/a:gantry-framework:com_gantry"
+	"vid": "984",
+	"vname": "Gantry framework",
+	"vcpe": "cpe:/:gantry-framework",
+	"pid": "3521",
+	"pname": "Gantry",
+	"pcpe": "cpe:/a:gantry-framework:com_gantry"
 }

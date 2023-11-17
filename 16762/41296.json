@@ -1,8 +1,8 @@
 {
-  "vid": "16762",
-  "vname": "Easy Digital Downloads",
-  "vcpe": "cpe:/:easydigitaldownloads",
-  "pid": "41296",
-  "pname": "QR codes",
-  "pcpe": "cpe:/a:easydigitaldownloads:qr_code"
+	"vid": "16762",
+	"vname": "Easy Digital Downloads",
+	"vcpe": "cpe:/:easydigitaldownloads",
+	"pid": "41296",
+	"pname": "QR codes",
+	"pcpe": "cpe:/a:easydigitaldownloads:qr_code"
 }

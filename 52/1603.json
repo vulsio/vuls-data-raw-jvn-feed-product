@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "1603",
-  "pname": "Bonjour for Windows",
-  "pcpe": "cpe:/a:apple:bonjour_for_windows"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "1603",
+	"pname": "Bonjour for Windows",
+	"pcpe": "cpe:/a:apple:bonjour_for_windows"
 }

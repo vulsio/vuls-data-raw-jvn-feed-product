@@ -1,8 +1,8 @@
 {
-  "vid": "23580",
-  "vname": "mt7688-wiscan project",
-  "vcpe": "cpe:/:mt7688-wiscan_project",
-  "pid": "61061",
-  "pname": "mt7688-wiscan",
-  "pcpe": "cpe:/a:mt7688-wiscan_project:mt7688-wiscan"
+	"vid": "23580",
+	"vname": "mt7688-wiscan project",
+	"vcpe": "cpe:/:mt7688-wiscan_project",
+	"pid": "61061",
+	"pname": "mt7688-wiscan",
+	"pcpe": "cpe:/a:mt7688-wiscan_project:mt7688-wiscan"
 }

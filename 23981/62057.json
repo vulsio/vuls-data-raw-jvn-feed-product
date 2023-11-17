@@ -1,8 +1,8 @@
 {
-  "vid": "23981",
-  "vname": "CaPa Protect project",
-  "vcpe": "cpe:/:capa_protect_project",
-  "pid": "62057",
-  "pname": "CaPa Protect",
-  "pcpe": "cpe:/a:capa_protect_project:capa_protect"
+	"vid": "23981",
+	"vname": "CaPa Protect project",
+	"vcpe": "cpe:/:capa_protect_project",
+	"pid": "62057",
+	"pname": "CaPa Protect",
+	"pcpe": "cpe:/a:capa_protect_project:capa_protect"
 }

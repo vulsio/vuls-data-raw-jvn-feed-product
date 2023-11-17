@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "59807",
-  "pname": "GOT2000",
-  "pcpe": "cpe:/o:mitsubishielectric:got2000"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "59807",
+	"pname": "GOT2000",
+	"pcpe": "cpe:/o:mitsubishielectric:got2000"
 }

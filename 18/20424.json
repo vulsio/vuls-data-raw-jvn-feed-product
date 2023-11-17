@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20424",
-  "pname": "IBM InfoSphere Streams",
-  "pcpe": "cpe:/a:ibm:infosphere_streams"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20424",
+	"pname": "IBM InfoSphere Streams",
+	"pcpe": "cpe:/a:ibm:infosphere_streams"
 }

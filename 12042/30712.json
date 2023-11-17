@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "30712",
-  "pname": "HPE Application Performance Management",
-  "pcpe": "cpe:/a:hp:application_performance_management"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "30712",
+	"pname": "HPE Application Performance Management",
+	"pcpe": "cpe:/a:hp:application_performance_management"
 }

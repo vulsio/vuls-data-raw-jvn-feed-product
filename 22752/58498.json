@@ -1,8 +1,8 @@
 {
-  "vid": "22752",
-  "vname": "CloudSchool project",
-  "vcpe": "cpe:/:cloudschool_project",
-  "pid": "58498",
-  "pname": "CloudSchool",
-  "pcpe": "cpe:/a:cloudschool_project:cloudschool"
+	"vid": "22752",
+	"vname": "CloudSchool project",
+	"vcpe": "cpe:/:cloudschool_project",
+	"pid": "58498",
+	"pname": "CloudSchool",
+	"pcpe": "cpe:/a:cloudschool_project:cloudschool"
 }

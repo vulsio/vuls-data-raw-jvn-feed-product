@@ -1,8 +1,8 @@
 {
-  "vid": "17268",
-  "vname": "PINPOINT.WORLD",
-  "vcpe": "cpe:/:pinpoint",
-  "pid": "41041",
-  "pname": "Pinpoint Booking System",
-  "pcpe": "cpe:/a:pinpoint:pinpoint_booking_system"
+	"vid": "17268",
+	"vname": "PINPOINT.WORLD",
+	"vcpe": "cpe:/:pinpoint",
+	"pid": "41041",
+	"pname": "Pinpoint Booking System",
+	"pcpe": "cpe:/a:pinpoint:pinpoint_booking_system"
 }

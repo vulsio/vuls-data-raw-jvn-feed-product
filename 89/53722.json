@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "53722",
-  "pname": "Mission Critical Mail",
-  "pcpe": "cpe:/a:nec:mission_critical_mail"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "53722",
+	"pname": "Mission Critical Mail",
+	"pcpe": "cpe:/a:nec:mission_critical_mail"
 }

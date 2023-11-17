@@ -1,8 +1,8 @@
 {
-  "vid": "19358",
-  "vname": "NZXT",
-  "vcpe": "cpe:/:nzxt",
-  "pid": "48753",
-  "pname": "CAM",
-  "pcpe": "cpe:/a:nzxt:cam"
+	"vid": "19358",
+	"vname": "NZXT",
+	"vcpe": "cpe:/:nzxt",
+	"pid": "48753",
+	"pname": "CAM",
+	"pcpe": "cpe:/a:nzxt:cam"
 }

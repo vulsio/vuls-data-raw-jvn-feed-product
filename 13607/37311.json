@@ -1,8 +1,8 @@
 {
-  "vid": "13607",
-  "vname": "Ethereum Foundation",
-  "vcpe": "cpe:/:ethereum",
-  "pid": "37311",
-  "pname": "Py-EVM",
-  "pcpe": "cpe:/a:ethereum:py-evm"
+	"vid": "13607",
+	"vname": "Ethereum Foundation",
+	"vcpe": "cpe:/:ethereum",
+	"pid": "37311",
+	"pname": "Py-EVM",
+	"pcpe": "cpe:/a:ethereum:py-evm"
 }

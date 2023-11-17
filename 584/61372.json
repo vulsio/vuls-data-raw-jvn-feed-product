@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "61372",
-  "pname": "sicam gridedge essential arm",
-  "pcpe": "cpe:/a:siemens:sicam_gridedge_essential_arm"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "61372",
+	"pname": "sicam gridedge essential arm",
+	"pcpe": "cpe:/a:siemens:sicam_gridedge_essential_arm"
 }

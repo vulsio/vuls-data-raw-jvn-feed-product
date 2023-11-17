@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "57008",
-  "pname": "Snow Commander",
-  "pcpe": "cpe:/a:jenkins:snow_commander"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "57008",
+	"pname": "Snow Commander",
+	"pcpe": "cpe:/a:jenkins:snow_commander"
 }

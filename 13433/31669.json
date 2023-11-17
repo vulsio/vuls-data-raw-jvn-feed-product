@@ -1,8 +1,8 @@
 {
-  "vid": "13433",
-  "vname": "Ethicon US, LLC.",
-  "vcpe": "cpe:/:ethicon",
-  "pid": "31669",
-  "pname": "Endo-Surgery Generator Gen11 ファームウェア",
-  "pcpe": "cpe:/o:ethicon:endo-surgery_generator_gen11_firmware"
+	"vid": "13433",
+	"vname": "Ethicon US, LLC.",
+	"vcpe": "cpe:/:ethicon",
+	"pid": "31669",
+	"pname": "Endo-Surgery Generator Gen11 ファームウェア",
+	"pcpe": "cpe:/o:ethicon:endo-surgery_generator_gen11_firmware"
 }

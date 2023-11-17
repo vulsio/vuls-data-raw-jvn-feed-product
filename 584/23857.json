@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "23857",
-  "pname": "SIMATIC HMI Comfort Panels",
-  "pcpe": "cpe:/h:siemens:simatic_hmi_comfort_panels"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "23857",
+	"pname": "SIMATIC HMI Comfort Panels",
+	"pcpe": "cpe:/h:siemens:simatic_hmi_comfort_panels"
 }

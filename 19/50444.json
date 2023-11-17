@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "50444",
-  "pname": "ENCS 5100 ファームウェア",
-  "pcpe": "cpe:/o:cisco:encs_5100_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "50444",
+	"pname": "ENCS 5100 ファームウェア",
+	"pcpe": "cpe:/o:cisco:encs_5100_firmware"
 }

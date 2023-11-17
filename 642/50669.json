@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "50669",
-  "pname": "GC108PP ファームウェア",
-  "pcpe": "cpe:/o:netgear:gc108pp_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "50669",
+	"pname": "GC108PP ファームウェア",
+	"pcpe": "cpe:/o:netgear:gc108pp_firmware"
 }

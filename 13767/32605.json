@@ -1,8 +1,8 @@
 {
-  "vid": "13767",
-  "vname": "UserScape, Inc.",
-  "vcpe": "cpe:/:userscape",
-  "pid": "32605",
-  "pname": "HelpSpot",
-  "pcpe": "cpe:/a:userscape:helpspot"
+	"vid": "13767",
+	"vname": "UserScape, Inc.",
+	"vcpe": "cpe:/:userscape",
+	"pid": "32605",
+	"pname": "HelpSpot",
+	"pcpe": "cpe:/a:userscape:helpspot"
 }

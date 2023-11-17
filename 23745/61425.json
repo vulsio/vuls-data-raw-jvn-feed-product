@@ -1,8 +1,8 @@
 {
-  "vid": "23745",
-  "vname": "Dingtian Technologies Co.,Ltd",
-  "vcpe": "cpe:/:dingtian-tech",
-  "pid": "61425",
-  "pname": "dt-r004 ファームウェア",
-  "pcpe": "cpe:/o:dingtian-tech:dt-r004_firmware"
+	"vid": "23745",
+	"vname": "Dingtian Technologies Co.,Ltd",
+	"vcpe": "cpe:/:dingtian-tech",
+	"pid": "61425",
+	"pname": "dt-r004 ファームウェア",
+	"pcpe": "cpe:/o:dingtian-tech:dt-r004_firmware"
 }

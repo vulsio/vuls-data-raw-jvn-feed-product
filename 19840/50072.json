@@ -1,8 +1,8 @@
 {
-  "vid": "19840",
-  "vname": "StackPath",
-  "vcpe": "cpe:/:stackpath",
-  "pid": "50072",
-  "pname": "AjaxSearchPro",
-  "pcpe": "cpe:/a:stackpath:ajaxsearchpro"
+	"vid": "19840",
+	"vname": "StackPath",
+	"vcpe": "cpe:/:stackpath",
+	"pid": "50072",
+	"pname": "AjaxSearchPro",
+	"pcpe": "cpe:/a:stackpath:ajaxsearchpro"
 }

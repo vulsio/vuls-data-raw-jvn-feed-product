@@ -1,8 +1,8 @@
 {
-  "vid": "18730",
-  "vname": "Decred",
-  "vcpe": "cpe:/:decred",
-  "pid": "46480",
-  "pname": "dcrd",
-  "pcpe": "cpe:/a:decred:dcrd"
+	"vid": "18730",
+	"vname": "Decred",
+	"vcpe": "cpe:/:decred",
+	"pid": "46480",
+	"pname": "dcrd",
+	"pcpe": "cpe:/a:decred:dcrd"
 }

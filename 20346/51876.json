@@ -1,8 +1,8 @@
 {
-  "vid": "20346",
-  "vname": "generic-array project",
-  "vcpe": "cpe:/:generic-array_project",
-  "pid": "51876",
-  "pname": "generic-array",
-  "pcpe": "cpe:/a:generic-array_project:generic-array"
+	"vid": "20346",
+	"vname": "generic-array project",
+	"vcpe": "cpe:/:generic-array_project",
+	"pid": "51876",
+	"pname": "generic-array",
+	"pcpe": "cpe:/a:generic-array_project:generic-array"
 }

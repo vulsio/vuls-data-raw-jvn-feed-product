@@ -1,8 +1,8 @@
 {
-  "vid": "1486",
-  "vname": "Axigen Messaging",
-  "vcpe": "cpe:/:axigen",
-  "pid": "4371",
-  "pname": "Axigen Mail Server",
-  "pcpe": "cpe:/a:axigen:axigen_mail_server"
+	"vid": "1486",
+	"vname": "Axigen Messaging",
+	"vcpe": "cpe:/:axigen",
+	"pid": "4371",
+	"pname": "Axigen Mail Server",
+	"pcpe": "cpe:/a:axigen:axigen_mail_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "23901",
-  "pname": "ThinkServer RD550 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkserver_rd550_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "23901",
+	"pname": "ThinkServer RD550 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkserver_rd550_firmware"
 }

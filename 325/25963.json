@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "25963",
-  "pname": "Lenovo Touch Fingerprint",
-  "pcpe": "cpe:/a:lenovo:touch_fingerprint"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "25963",
+	"pname": "Lenovo Touch Fingerprint",
+	"pcpe": "cpe:/a:lenovo:touch_fingerprint"
 }

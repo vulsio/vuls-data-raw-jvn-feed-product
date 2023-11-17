@@ -1,8 +1,8 @@
 {
-  "vid": "1303",
-  "vname": "Avira",
-  "vcpe": "cpe:/:avira",
-  "pid": "43288",
-  "pname": "Avira Professional Security",
-  "pcpe": "cpe:/a:avira:professional_security"
+	"vid": "1303",
+	"vname": "Avira",
+	"vcpe": "cpe:/:avira",
+	"pid": "43288",
+	"pname": "Avira Professional Security",
+	"pcpe": "cpe:/a:avira:professional_security"
 }

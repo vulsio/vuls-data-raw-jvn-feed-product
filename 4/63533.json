@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63533",
-  "pname": "HP EliteBook x360 830 G9 Notebook PC ファームウェア",
-  "pcpe": "cpe:/o:hp:elite_x360_830_g9_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63533",
+	"pname": "HP EliteBook x360 830 G9 Notebook PC ファームウェア",
+	"pcpe": "cpe:/o:hp:elite_x360_830_g9_firmware"
 }

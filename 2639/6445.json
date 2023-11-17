@@ -1,8 +1,8 @@
 {
-  "vid": "2639",
-  "vname": "brim-project",
-  "vcpe": "cpe:/:brim-project",
-  "pid": "6445",
-  "pname": "brim",
-  "pcpe": "cpe:/a:brim-project:brim"
+	"vid": "2639",
+	"vname": "brim-project",
+	"vcpe": "cpe:/:brim-project",
+	"pid": "6445",
+	"pname": "brim",
+	"pcpe": "cpe:/a:brim-project:brim"
 }

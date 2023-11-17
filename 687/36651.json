@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "36651",
-  "pname": "TIBCO Statistica Server",
-  "pcpe": "cpe:/a:tibco:statistica_server"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "36651",
+	"pname": "TIBCO Statistica Server",
+	"pcpe": "cpe:/a:tibco:statistica_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "5088",
-  "pname": "Scalance X308-2M Industrial Ethernet",
-  "pcpe": "cpe:/h:siemens:scalance_x308-2m"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "5088",
+	"pname": "Scalance X308-2M Industrial Ethernet",
+	"pcpe": "cpe:/h:siemens:scalance_x308-2m"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16348",
-  "vname": "Ratpack project",
-  "vcpe": "cpe:/:ratpack_project",
-  "pid": "38607",
-  "pname": "Ratpack",
-  "pcpe": "cpe:/a:ratpack_project:ratpack"
+	"vid": "16348",
+	"vname": "Ratpack project",
+	"vcpe": "cpe:/:ratpack_project",
+	"pid": "38607",
+	"pname": "Ratpack",
+	"pcpe": "cpe:/a:ratpack_project:ratpack"
 }

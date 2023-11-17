@@ -1,8 +1,8 @@
 {
-  "vid": "2394",
-  "vname": "avax-software",
-  "vcpe": "cpe:/:avax-software",
-  "pid": "6097",
-  "pname": "avax vector activex",
-  "pcpe": "cpe:/a:avax-software:avax_vector_activex"
+	"vid": "2394",
+	"vname": "avax-software",
+	"vcpe": "cpe:/:avax-software",
+	"pid": "6097",
+	"pname": "avax vector activex",
+	"pcpe": "cpe:/a:avax-software:avax_vector_activex"
 }

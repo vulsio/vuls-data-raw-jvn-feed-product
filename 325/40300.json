@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "40300",
-  "pname": "20JQ ファームウェア",
-  "pcpe": "cpe:/o:lenovo:20jq_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "40300",
+	"pname": "20JQ ファームウェア",
+	"pcpe": "cpe:/o:lenovo:20jq_firmware"
 }

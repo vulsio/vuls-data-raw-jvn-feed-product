@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "43204",
-  "pname": "Bosch BVMS Viewer",
-  "pcpe": "cpe:/a:bosch:video_management_system_viewer"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "43204",
+	"pname": "Bosch BVMS Viewer",
+	"pcpe": "cpe:/a:bosch:video_management_system_viewer"
 }

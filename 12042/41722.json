@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "41722",
-  "pname": "HPE ProLiant DL160 ファームウェア",
-  "pcpe": "cpe:/o:hp:proliant_dl160_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "41722",
+	"pname": "HPE ProLiant DL160 ファームウェア",
+	"pcpe": "cpe:/o:hp:proliant_dl160_firmware"
 }

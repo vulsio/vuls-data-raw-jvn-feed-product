@@ -1,8 +1,8 @@
 {
-  "vid": "775",
-  "vname": "Sitecom",
-  "vcpe": "cpe:/:sitecom",
-  "pid": "9358",
-  "pname": "WLM-2501",
-  "pcpe": "cpe:/h:sitecom:wlm-2501"
+	"vid": "775",
+	"vname": "Sitecom",
+	"vcpe": "cpe:/:sitecom",
+	"pid": "9358",
+	"pname": "WLM-2501",
+	"pcpe": "cpe:/h:sitecom:wlm-2501"
 }

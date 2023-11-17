@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "8466",
-  "pname": "sccs",
-  "pcpe": "cpe:/a:gnu:sccs"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "8466",
+	"pname": "sccs",
+	"pcpe": "cpe:/a:gnu:sccs"
 }

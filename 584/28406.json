@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "28406",
-  "pname": "SINUMERIK Integrate Operate client",
-  "pcpe": "cpe:/a:siemens:sinumerik_integrate_operate_client"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "28406",
+	"pname": "SINUMERIK Integrate Operate client",
+	"pcpe": "cpe:/a:siemens:sinumerik_integrate_operate_client"
 }

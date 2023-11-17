@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "48977",
-  "pname": "NSG ファームウェア",
-  "pcpe": "cpe:/o:zyxel:nsg_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "48977",
+	"pname": "NSG ファームウェア",
+	"pcpe": "cpe:/o:zyxel:nsg_firmware"
 }

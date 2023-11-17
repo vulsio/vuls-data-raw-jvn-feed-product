@@ -1,8 +1,8 @@
 {
-  "vid": "2252",
-  "vname": "AOL",
-  "vcpe": "cpe:/:aol",
-  "pid": "5832",
-  "pname": "aol client software",
-  "pcpe": "cpe:/a:aol:aol_client_software"
+	"vid": "2252",
+	"vname": "AOL",
+	"vcpe": "cpe:/:aol",
+	"pid": "5832",
+	"pname": "aol client software",
+	"pcpe": "cpe:/a:aol:aol_client_software"
 }

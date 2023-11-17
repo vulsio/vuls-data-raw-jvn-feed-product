@@ -1,8 +1,8 @@
 {
-  "vid": "22638",
-  "vname": "unisoc",
-  "vcpe": "cpe:/:unisoc",
-  "pid": "58246",
-  "pname": "unisoc chipset",
-  "pcpe": "cpe:/h:unisoc:unisoc_chipset"
+	"vid": "22638",
+	"vname": "unisoc",
+	"vcpe": "cpe:/:unisoc",
+	"pid": "58246",
+	"pname": "unisoc chipset",
+	"pcpe": "cpe:/h:unisoc:unisoc_chipset"
 }

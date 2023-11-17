@@ -1,8 +1,8 @@
 {
-  "vid": "7055",
-  "vname": "powergap",
-  "vcpe": "cpe:/:powergap",
-  "pid": "13974",
-  "pname": "shopsystem",
-  "pcpe": "cpe:/a:powergap:shopsystem"
+	"vid": "7055",
+	"vname": "powergap",
+	"vcpe": "cpe:/:powergap",
+	"pid": "13974",
+	"pname": "shopsystem",
+	"pcpe": "cpe:/a:powergap:shopsystem"
 }

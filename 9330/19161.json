@@ -1,8 +1,8 @@
 {
-  "vid": "9330",
-  "vname": "cspmum",
-  "vcpe": "cpe:/:csp_mysql_user_manager_project",
-  "pid": "19161",
-  "pname": "CSP MySQL User Manager",
-  "pcpe": "cpe:/a:csp_mysql_user_manager_project:csp_mysql_user_manager"
+	"vid": "9330",
+	"vname": "cspmum",
+	"vcpe": "cpe:/:csp_mysql_user_manager_project",
+	"pid": "19161",
+	"pname": "CSP MySQL User Manager",
+	"pcpe": "cpe:/a:csp_mysql_user_manager_project:csp_mysql_user_manager"
 }

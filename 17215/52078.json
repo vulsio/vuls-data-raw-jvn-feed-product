@@ -1,8 +1,8 @@
 {
-  "vid": "17215",
-  "vname": "Sizmic Labs",
-  "vcpe": "cpe:/:sizmic",
-  "pid": "52078",
-  "pname": "Plugmatter Pricing Table",
-  "pcpe": "cpe:/a:sizmic:plugmatter_pricing_table"
+	"vid": "17215",
+	"vname": "Sizmic Labs",
+	"vcpe": "cpe:/:sizmic",
+	"pid": "52078",
+	"pname": "Plugmatter Pricing Table",
+	"pcpe": "cpe:/a:sizmic:plugmatter_pricing_table"
 }

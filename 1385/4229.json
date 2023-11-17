@@ -1,8 +1,8 @@
 {
-  "vid": "1385",
-  "vname": "BMC Software",
-  "vcpe": "cpe:/:bmc",
-  "pid": "4229",
-  "pname": "capacity management essentials",
-  "pcpe": "cpe:/a:bmc:capacity_management_essentials"
+	"vid": "1385",
+	"vname": "BMC Software",
+	"vcpe": "cpe:/:bmc",
+	"pid": "4229",
+	"pname": "capacity management essentials",
+	"pcpe": "cpe:/a:bmc:capacity_management_essentials"
 }

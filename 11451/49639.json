@@ -1,8 +1,8 @@
 {
-  "vid": "11451",
-  "vname": "JetBrains",
-  "vcpe": "cpe:/:jetbrains",
-  "pid": "49639",
-  "pname": "Code With Me",
-  "pcpe": "cpe:/a:jetbrains:code_with_me"
+	"vid": "11451",
+	"vname": "JetBrains",
+	"vcpe": "cpe:/:jetbrains",
+	"pid": "49639",
+	"pname": "Code With Me",
+	"pcpe": "cpe:/a:jetbrains:code_with_me"
 }

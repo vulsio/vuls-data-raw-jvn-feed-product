@@ -1,8 +1,8 @@
 {
-  "vid": "16650",
-  "vname": "libslirp project",
-  "vcpe": "cpe:/:libslirp_project",
-  "pid": "39676",
-  "pname": "libslirp",
-  "pcpe": "cpe:/a:libslirp_project:libslirp"
+	"vid": "16650",
+	"vname": "libslirp project",
+	"vcpe": "cpe:/:libslirp_project",
+	"pid": "39676",
+	"pname": "libslirp",
+	"pcpe": "cpe:/a:libslirp_project:libslirp"
 }

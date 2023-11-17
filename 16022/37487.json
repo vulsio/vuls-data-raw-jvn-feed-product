@@ -1,8 +1,8 @@
 {
-  "vid": "16022",
-  "vname": "SKY Devices",
-  "vcpe": "cpe:/:skydevices",
-  "pid": "37487",
-  "pname": "Sky Elite 6.0L+ ファームウェア",
-  "pcpe": "cpe:/o:skydevices:sky_elite_6.0l%2b_firmware"
+	"vid": "16022",
+	"vname": "SKY Devices",
+	"vcpe": "cpe:/:skydevices",
+	"pid": "37487",
+	"pname": "Sky Elite 6.0L+ ファームウェア",
+	"pcpe": "cpe:/o:skydevices:sky_elite_6.0l%2b_firmware"
 }

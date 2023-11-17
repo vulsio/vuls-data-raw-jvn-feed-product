@@ -1,8 +1,8 @@
 {
-  "vid": "11348",
-  "vname": "W3 EDGE",
-  "vcpe": "cpe:/:w3edge",
-  "pid": "36189",
-  "pname": "Google XML Sitemaps",
-  "pcpe": "cpe:/a:w3edge:google_xml_sitemaps"
+	"vid": "11348",
+	"vname": "W3 EDGE",
+	"vcpe": "cpe:/:w3edge",
+	"pid": "36189",
+	"pname": "Google XML Sitemaps",
+	"pcpe": "cpe:/a:w3edge:google_xml_sitemaps"
 }

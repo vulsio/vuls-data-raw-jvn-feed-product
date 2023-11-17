@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "26453",
-  "pname": "IBM Cognos Analytics",
-  "pcpe": "cpe:/a:ibm:cognos_analytics"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "26453",
+	"pname": "IBM Cognos Analytics",
+	"pcpe": "cpe:/a:ibm:cognos_analytics"
 }

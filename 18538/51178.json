@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "51178",
-  "pname": "PowerLogic EGX100 ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:powerlogic_egx100_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "51178",
+	"pname": "PowerLogic EGX100 ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:powerlogic_egx100_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53666",
-  "pname": "Oracle Financial Services Foreign Account Tax Compliance Act Management",
-  "pcpe": "cpe:/a:oracle:financial_services_foreign_account_tax_compliance_act_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53666",
+	"pname": "Oracle Financial Services Foreign Account Tax Compliance Act Management",
+	"pcpe": "cpe:/a:oracle:financial_services_foreign_account_tax_compliance_act_management"
 }

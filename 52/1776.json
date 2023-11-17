@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "1776",
-  "pname": "iOS for iPod touch",
-  "pcpe": "cpe:/o:apple:iphone_os_for_ipod_touch"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "1776",
+	"pname": "iOS for iPod touch",
+	"pcpe": "cpe:/o:apple:iphone_os_for_ipod_touch"
 }

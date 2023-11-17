@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "30832",
-  "pname": "VSG1435-B101 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:vsg1435-b101_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "30832",
+	"pname": "VSG1435-B101 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:vsg1435-b101_firmware"
 }

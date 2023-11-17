@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "8790",
-  "pname": "ace module",
-  "pcpe": "cpe:/h:cisco:ace_module"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "8790",
+	"pname": "ace module",
+	"pcpe": "cpe:/h:cisco:ace_module"
 }

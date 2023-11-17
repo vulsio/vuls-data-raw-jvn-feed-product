@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25576",
-  "pname": "JG406A HP MSR3024 AC Router",
-  "pcpe": "cpe:/h:hp:jg406a_hp_msr3024_ac_router"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25576",
+	"pname": "JG406A HP MSR3024 AC Router",
+	"pcpe": "cpe:/h:hp:jg406a_hp_msr3024_ac_router"
 }

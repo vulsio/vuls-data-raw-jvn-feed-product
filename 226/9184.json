@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "9184",
-  "pname": "SUSE Audit Log Keeper",
-  "pcpe": "cpe:/a:novell:suse_audit_log_keeper"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "9184",
+	"pname": "SUSE Audit Log Keeper",
+	"pcpe": "cpe:/a:novell:suse_audit_log_keeper"
 }

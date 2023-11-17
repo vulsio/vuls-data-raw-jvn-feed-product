@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "4823",
-  "pname": "Altiris Deployment Solution",
-  "pcpe": "cpe:/a:symantec:altiris_deployment_solution"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "4823",
+	"pname": "Altiris Deployment Solution",
+	"pcpe": "cpe:/a:symantec:altiris_deployment_solution"
 }

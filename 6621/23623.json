@@ -1,8 +1,8 @@
 {
-  "vid": "6621",
-  "vname": "ソフトバンク株式会社",
-  "vcpe": "cpe:/:softbank",
-  "pid": "23623",
-  "pname": "ソフトバンクWi-Fiスポット設定ソフトウェア",
-  "pcpe": "cpe:/a:softbank:wi-fi_spot_configuration_software"
+	"vid": "6621",
+	"vname": "ソフトバンク株式会社",
+	"vcpe": "cpe:/:softbank",
+	"pid": "23623",
+	"pname": "ソフトバンクWi-Fiスポット設定ソフトウェア",
+	"pcpe": "cpe:/a:softbank:wi-fi_spot_configuration_software"
 }

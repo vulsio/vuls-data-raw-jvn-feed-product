@@ -1,8 +1,8 @@
 {
-  "vid": "8488",
-  "vname": "webwizguide",
-  "vcpe": "cpe:/:webwizguide",
-  "pid": "16120",
-  "pname": "web wiz rich text editor",
-  "pcpe": "cpe:/a:webwizguide:web_wiz_rich_text_editor"
+	"vid": "8488",
+	"vname": "webwizguide",
+	"vcpe": "cpe:/:webwizguide",
+	"pid": "16120",
+	"pname": "web wiz rich text editor",
+	"pcpe": "cpe:/a:webwizguide:web_wiz_rich_text_editor"
 }

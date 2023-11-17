@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "46510",
-  "pname": "日立高信頼サーバ RV3000",
-  "pcpe": "cpe:/a:hitachi:highly_reliable_server"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "46510",
+	"pname": "日立高信頼サーバ RV3000",
+	"pcpe": "cpe:/a:hitachi:highly_reliable_server"
 }

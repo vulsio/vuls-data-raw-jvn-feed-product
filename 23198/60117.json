@@ -1,8 +1,8 @@
 {
-  "vid": "23198",
-  "vname": "qdecoder project",
-  "vcpe": "cpe:/:qdecoder_project",
-  "pid": "60117",
-  "pname": "qdecoder",
-  "pcpe": "cpe:/a:qdecoder_project:qdecoder"
+	"vid": "23198",
+	"vname": "qdecoder project",
+	"vcpe": "cpe:/:qdecoder_project",
+	"pid": "60117",
+	"pname": "qdecoder",
+	"pcpe": "cpe:/a:qdecoder_project:qdecoder"
 }

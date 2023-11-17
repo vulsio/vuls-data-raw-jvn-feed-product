@@ -1,8 +1,8 @@
 {
-  "vid": "15851",
-  "vname": "Helm",
-  "vcpe": "cpe:/:helm",
-  "pid": "37415",
-  "pname": "ChartMuseum",
-  "pcpe": "cpe:/a:helm:chartmuseum"
+	"vid": "15851",
+	"vname": "Helm",
+	"vcpe": "cpe:/:helm",
+	"pid": "37415",
+	"pname": "ChartMuseum",
+	"pcpe": "cpe:/a:helm:chartmuseum"
 }

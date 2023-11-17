@@ -1,8 +1,8 @@
 {
-  "vid": "9010",
-  "vname": "Sebastian Bergmann",
-  "vcpe": "cpe:/:phpunit_project",
-  "pid": "17659",
-  "pname": "PHPUnit",
-  "pcpe": "cpe:/a:phpunit_project:phpunit"
+	"vid": "9010",
+	"vname": "Sebastian Bergmann",
+	"vcpe": "cpe:/:phpunit_project",
+	"pid": "17659",
+	"pname": "PHPUnit",
+	"pcpe": "cpe:/a:phpunit_project:phpunit"
 }

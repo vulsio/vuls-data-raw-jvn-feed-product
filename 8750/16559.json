@@ -1,8 +1,8 @@
 {
-  "vid": "8750",
-  "vname": "zomp",
-  "vcpe": "cpe:/:zomp",
-  "pid": "16559",
-  "pname": "zomplog",
-  "pcpe": "cpe:/a:zomp:zomplog"
+	"vid": "8750",
+	"vname": "zomp",
+	"vcpe": "cpe:/:zomp",
+	"pid": "16559",
+	"pname": "zomplog",
+	"pcpe": "cpe:/a:zomp:zomplog"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1553",
-  "vname": "kingsoftsecurity",
-  "vcpe": "cpe:/:kingsoftsecurity",
-  "pid": "4552",
-  "pname": "kingsoft antivirus",
-  "pcpe": "cpe:/a:kingsoftsecurity:kingsoft_antivirus"
+	"vid": "1553",
+	"vname": "kingsoftsecurity",
+	"vcpe": "cpe:/:kingsoftsecurity",
+	"pid": "4552",
+	"pname": "kingsoft antivirus",
+	"pcpe": "cpe:/a:kingsoftsecurity:kingsoft_antivirus"
 }

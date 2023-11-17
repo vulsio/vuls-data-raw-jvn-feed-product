@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "58038",
-  "pname": "Yealink MP56 ファームウェア",
-  "pcpe": "cpe:/o:zoom:yealink_mp56_firmware"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "58038",
+	"pname": "Yealink MP56 ファームウェア",
+	"pcpe": "cpe:/o:zoom:yealink_mp56_firmware"
 }

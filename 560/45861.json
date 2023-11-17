@@ -1,8 +1,8 @@
 {
-  "vid": "560",
-  "vname": "OSIsoft",
-  "vcpe": "cpe:/:osisoft",
-  "pid": "45861",
-  "pname": "PI Data Collection Manager",
-  "pcpe": "cpe:/a:osisoft:pi_data_collection_manager"
+	"vid": "560",
+	"vname": "OSIsoft",
+	"vcpe": "cpe:/:osisoft",
+	"pid": "45861",
+	"pname": "PI Data Collection Manager",
+	"pcpe": "cpe:/a:osisoft:pi_data_collection_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16307",
-  "vname": "node-tar project",
-  "vcpe": "cpe:/:node-tar_project",
-  "pid": "38472",
-  "pname": "node-tar",
-  "pcpe": "cpe:/a:node-tar_project:node-tar"
+	"vid": "16307",
+	"vname": "node-tar project",
+	"vcpe": "cpe:/:node-tar_project",
+	"pid": "38472",
+	"pname": "node-tar",
+	"pcpe": "cpe:/a:node-tar_project:node-tar"
 }

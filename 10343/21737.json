@@ -1,8 +1,8 @@
 {
-  "vid": "10343",
-  "vname": "GleamTech",
-  "vcpe": "cpe:/:gleamtech",
-  "pid": "21737",
-  "pname": "FileVista",
-  "pcpe": "cpe:/a:gleamtech:filevista"
+	"vid": "10343",
+	"vname": "GleamTech",
+	"vcpe": "cpe:/:gleamtech",
+	"pid": "21737",
+	"pname": "FileVista",
+	"pcpe": "cpe:/a:gleamtech:filevista"
 }

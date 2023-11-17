@@ -1,8 +1,8 @@
 {
-  "vid": "5430",
-  "vname": "magnoware",
-  "vcpe": "cpe:/:magnoware",
-  "pid": "11129",
-  "pname": "datatrack system",
-  "pcpe": "cpe:/a:magnoware:datatrack_system"
+	"vid": "5430",
+	"vname": "magnoware",
+	"vcpe": "cpe:/:magnoware",
+	"pid": "11129",
+	"pname": "datatrack system",
+	"pcpe": "cpe:/a:magnoware:datatrack_system"
 }

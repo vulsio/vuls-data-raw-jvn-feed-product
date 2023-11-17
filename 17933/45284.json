@@ -1,8 +1,8 @@
 {
-  "vid": "17933",
-  "vname": "Open JS Foundation",
-  "vcpe": "cpe:/:openjsf",
-  "pid": "45284",
-  "pname": "Dijit",
-  "pcpe": "cpe:/a:openjsf:dijit"
+	"vid": "17933",
+	"vname": "Open JS Foundation",
+	"vcpe": "cpe:/:openjsf",
+	"pid": "45284",
+	"pname": "Dijit",
+	"pcpe": "cpe:/a:openjsf:dijit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "11387",
-  "pname": "McAfee Security for Email Servers",
-  "pcpe": "cpe:/a:mcafee:securityshield_for_email_servers"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "11387",
+	"pname": "McAfee Security for Email Servers",
+	"pcpe": "cpe:/a:mcafee:securityshield_for_email_servers"
 }

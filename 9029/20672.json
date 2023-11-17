@@ -1,8 +1,8 @@
 {
-  "vid": "9029",
-  "vname": "Ubiquiti Networks",
-  "vcpe": "cpe:/:ubiquiti_networks",
-  "pid": "20672",
-  "pname": "UniFi Controller",
-  "pcpe": "cpe:/a:ubiquiti_networks:unifi_controller"
+	"vid": "9029",
+	"vname": "Ubiquiti Networks",
+	"vcpe": "cpe:/:ubiquiti_networks",
+	"pid": "20672",
+	"pname": "UniFi Controller",
+	"pcpe": "cpe:/a:ubiquiti_networks:unifi_controller"
 }

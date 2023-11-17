@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "20007",
-  "pname": "SAP Netweaver Application Server Java",
-  "pcpe": "cpe:/a:sap:netweaver_java_application_server"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "20007",
+	"pname": "SAP Netweaver Application Server Java",
+	"pcpe": "cpe:/a:sap:netweaver_java_application_server"
 }

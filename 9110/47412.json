@@ -1,8 +1,8 @@
 {
-  "vid": "9110",
-  "vname": "CapaSystems",
-  "vcpe": "cpe:/:capasystems",
-  "pid": "47412",
-  "pname": "CapaInstaller",
-  "pcpe": "cpe:/a:capasystems:capainstaller"
+	"vid": "9110",
+	"vname": "CapaSystems",
+	"vcpe": "cpe:/:capasystems",
+	"pid": "47412",
+	"pname": "CapaInstaller",
+	"pcpe": "cpe:/a:capasystems:capainstaller"
 }

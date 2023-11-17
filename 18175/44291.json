@@ -1,8 +1,8 @@
 {
-  "vid": "18175",
-  "vname": "cross domain local storage project",
-  "vcpe": "cpe:/:cross_domain_local_storage_project",
-  "pid": "44291",
-  "pname": "Cross Domain Local Storage",
-  "pcpe": "cpe:/a:cross_domain_local_storage_project:cross_domain_local_storage"
+	"vid": "18175",
+	"vname": "cross domain local storage project",
+	"vcpe": "cpe:/:cross_domain_local_storage_project",
+	"pid": "44291",
+	"pname": "Cross Domain Local Storage",
+	"pcpe": "cpe:/a:cross_domain_local_storage_project:cross_domain_local_storage"
 }

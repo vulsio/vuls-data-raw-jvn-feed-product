@@ -1,8 +1,8 @@
 {
-  "vid": "12891",
-  "vname": "Tiny Tiny RSS",
-  "vcpe": "cpe:/:tt-rss",
-  "pid": "29735",
-  "pname": "Tiny Tiny RSS",
-  "pcpe": "cpe:/a:tt-rss:tiny_tiny_rss"
+	"vid": "12891",
+	"vname": "Tiny Tiny RSS",
+	"vcpe": "cpe:/:tt-rss",
+	"pid": "29735",
+	"pname": "Tiny Tiny RSS",
+	"pcpe": "cpe:/a:tt-rss:tiny_tiny_rss"
 }

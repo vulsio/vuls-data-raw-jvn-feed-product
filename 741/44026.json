@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "44026",
-  "pname": "DAP-1650 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dap-1650_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "44026",
+	"pname": "DAP-1650 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dap-1650_firmware"
 }

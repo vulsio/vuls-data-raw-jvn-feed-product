@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "25880",
-  "pname": "Aterm WR8175N",
-  "pcpe": "cpe:/h:nec:atermwr8175n"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "25880",
+	"pname": "Aterm WR8175N",
+	"pcpe": "cpe:/h:nec:atermwr8175n"
 }

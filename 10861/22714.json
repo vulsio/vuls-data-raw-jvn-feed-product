@@ -1,8 +1,8 @@
 {
-  "vid": "10861",
-  "vname": "myapp",
-  "vcpe": "cpe:/:myapp",
-  "pid": "22714",
-  "pname": "ibis pau centre",
-  "pcpe": "cpe:/a:myapp:ibis_pau_centre"
+	"vid": "10861",
+	"vname": "myapp",
+	"vcpe": "cpe:/:myapp",
+	"pid": "22714",
+	"pname": "ibis pau centre",
+	"pcpe": "cpe:/a:myapp:ibis_pau_centre"
 }

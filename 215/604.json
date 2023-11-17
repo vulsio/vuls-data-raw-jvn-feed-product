@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "604",
-  "pname": "SoundPoint IP",
-  "pcpe": "cpe:/h:polycom:soundpoint_ip"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "604",
+	"pname": "SoundPoint IP",
+	"pcpe": "cpe:/h:polycom:soundpoint_ip"
 }

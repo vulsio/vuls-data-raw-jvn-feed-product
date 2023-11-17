@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "51029",
-  "pname": "Galaxy Watch Active2 ファームウェア",
-  "pcpe": "cpe:/o:samsung:galaxy_watch_active_2_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "51029",
+	"pname": "Galaxy Watch Active2 ファームウェア",
+	"pcpe": "cpe:/o:samsung:galaxy_watch_active_2_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9914",
-  "vname": "H3C",
-  "vcpe": "cpe:/:h3c",
-  "pid": "56044",
-  "pname": "SecPath F5020 ファームウェア",
-  "pcpe": "cpe:/o:h3c:secpath_f5020_firmware"
+	"vid": "9914",
+	"vname": "H3C",
+	"vcpe": "cpe:/:h3c",
+	"pid": "56044",
+	"pname": "SecPath F5020 ファームウェア",
+	"pcpe": "cpe:/o:h3c:secpath_f5020_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19406",
-  "vname": "1E",
-  "vcpe": "cpe:/:1e",
-  "pid": "48888",
-  "pname": "1E Client",
-  "pcpe": "cpe:/a:1e:client"
+	"vid": "19406",
+	"vname": "1E",
+	"vcpe": "cpe:/:1e",
+	"pid": "48888",
+	"pname": "1E Client",
+	"pcpe": "cpe:/a:1e:client"
 }

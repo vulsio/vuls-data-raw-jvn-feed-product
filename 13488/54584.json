@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "54584",
-  "pname": "Zoom VDI",
-  "pcpe": "cpe:/a:zoom:virtual_desktop_infrastructure"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "54584",
+	"pname": "Zoom VDI",
+	"pcpe": "cpe:/a:zoom:virtual_desktop_infrastructure"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12503",
-  "vname": "iBall",
-  "vcpe": "cpe:/:iball",
-  "pid": "32457",
-  "pname": "iB-WRB302N ファームウェア",
-  "pcpe": "cpe:/o:iball:ib-wrb302n_firmware"
+	"vid": "12503",
+	"vname": "iBall",
+	"vcpe": "cpe:/:iball",
+	"pid": "32457",
+	"pname": "iB-WRB302N ファームウェア",
+	"pcpe": "cpe:/o:iball:ib-wrb302n_firmware"
 }

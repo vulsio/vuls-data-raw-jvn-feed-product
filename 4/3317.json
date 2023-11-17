@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3317",
-  "pname": "HP Digital Sender 9250c",
-  "pcpe": "cpe:/h:hp:digital_sender_9250c"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3317",
+	"pname": "HP Digital Sender 9250c",
+	"pcpe": "cpe:/h:hp:digital_sender_9250c"
 }

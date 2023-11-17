@@ -1,8 +1,8 @@
 {
-  "vid": "23427",
-  "vname": "Content Mask project",
-  "vcpe": "cpe:/:content_mask_project",
-  "pid": "60704",
-  "pname": "Content Mask",
-  "pcpe": "cpe:/a:content_mask_project:content_mask"
+	"vid": "23427",
+	"vname": "Content Mask project",
+	"vcpe": "cpe:/:content_mask_project",
+	"pid": "60704",
+	"pname": "Content Mask",
+	"pcpe": "cpe:/a:content_mask_project:content_mask"
 }

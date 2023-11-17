@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "15420",
-  "pname": "TIBCO Hawk",
-  "pcpe": "cpe:/a:tibco:hawk"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "15420",
+	"pname": "TIBCO Hawk",
+	"pcpe": "cpe:/a:tibco:hawk"
 }

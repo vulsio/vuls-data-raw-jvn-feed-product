@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "419",
-  "pname": "BizLingo",
-  "pcpe": "cpe:/a:fujitsu:bizlingo"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "419",
+	"pname": "BizLingo",
+	"pcpe": "cpe:/a:fujitsu:bizlingo"
 }

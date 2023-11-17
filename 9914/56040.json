@@ -1,8 +1,8 @@
 {
-  "vid": "9914",
-  "vname": "H3C",
-  "vcpe": "cpe:/:h3c",
-  "pid": "56040",
-  "pname": "SecPath F5060-D ファームウェア",
-  "pcpe": "cpe:/o:h3c:secpath_f5060-d_firmware"
+	"vid": "9914",
+	"vname": "H3C",
+	"vcpe": "cpe:/:h3c",
+	"pid": "56040",
+	"pname": "SecPath F5060-D ファームウェア",
+	"pcpe": "cpe:/o:h3c:secpath_f5060-d_firmware"
 }

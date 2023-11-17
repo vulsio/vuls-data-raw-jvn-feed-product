@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "56561",
-  "pname": "NVIDIA Cloud Gaming Virtual GPU",
-  "pcpe": "cpe:/a:nvidia:cloud_gaming_virtual_gpu"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "56561",
+	"pname": "NVIDIA Cloud Gaming Virtual GPU",
+	"pcpe": "cpe:/a:nvidia:cloud_gaming_virtual_gpu"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "41595",
-  "pname": "DIR-615 J1 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dir-615_j1_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "41595",
+	"pname": "DIR-615 J1 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dir-615_j1_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "42317",
-  "pname": "Columbia AL10I ファームウェア",
-  "pcpe": "cpe:/o:huawei:columbia-al10i_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "42317",
+	"pname": "Columbia AL10I ファームウェア",
+	"pcpe": "cpe:/o:huawei:columbia-al10i_firmware"
 }

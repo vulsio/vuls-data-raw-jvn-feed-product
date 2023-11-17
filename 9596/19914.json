@@ -1,8 +1,8 @@
 {
-  "vid": "9596",
-  "vname": "Advanced Packaging Tool",
-  "vcpe": "cpe:/:advanced_package_tool",
-  "pid": "19914",
-  "pname": "Advanced Packaging Tool",
-  "pcpe": "cpe:/a:advanced_package_tool:advanced_package_tool"
+	"vid": "9596",
+	"vname": "Advanced Packaging Tool",
+	"vcpe": "cpe:/:advanced_package_tool",
+	"pid": "19914",
+	"pname": "Advanced Packaging Tool",
+	"pcpe": "cpe:/a:advanced_package_tool:advanced_package_tool"
 }

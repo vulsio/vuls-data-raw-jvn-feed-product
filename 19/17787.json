@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17787",
-  "pname": "Cisco IPS 4520 Sensor",
-  "pcpe": "cpe:/h:cisco:ips_4520_sensor"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17787",
+	"pname": "Cisco IPS 4520 Sensor",
+	"pcpe": "cpe:/h:cisco:ips_4520_sensor"
 }

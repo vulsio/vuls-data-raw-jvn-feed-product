@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "20002",
-  "pname": "Apache Harmony",
-  "pcpe": "cpe:/a:apache:harmony"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "20002",
+	"pname": "Apache Harmony",
+	"pcpe": "cpe:/a:apache:harmony"
 }

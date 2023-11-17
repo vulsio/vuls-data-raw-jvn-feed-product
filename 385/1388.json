@@ -1,8 +1,8 @@
 {
-  "vid": "385",
-  "vname": "株式会社アイ・オー・データ機器",
-  "vcpe": "cpe:/:i-o_data_device",
-  "pid": "1388",
-  "pname": "WN-APG/R-S",
-  "pcpe": "cpe:/h:i-o_data_device:wn-apg%2Fr_s"
+	"vid": "385",
+	"vname": "株式会社アイ・オー・データ機器",
+	"vcpe": "cpe:/:i-o_data_device",
+	"pid": "1388",
+	"pname": "WN-APG/R-S",
+	"pcpe": "cpe:/h:i-o_data_device:wn-apg%2Fr_s"
 }

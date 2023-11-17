@@ -1,8 +1,8 @@
 {
-  "vid": "5147",
-  "vname": "kegel",
-  "vcpe": "cpe:/:kegel",
-  "pid": "10777",
-  "pname": "winetricks",
-  "pcpe": "cpe:/a:kegel:winetricks"
+	"vid": "5147",
+	"vname": "kegel",
+	"vcpe": "cpe:/:kegel",
+	"pid": "10777",
+	"pname": "winetricks",
+	"pcpe": "cpe:/a:kegel:winetricks"
 }

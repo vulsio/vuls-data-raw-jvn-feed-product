@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "56727",
-  "pname": "fellerLYnk ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:fellerlynk_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "56727",
+	"pname": "fellerLYnk ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:fellerlynk_firmware"
 }

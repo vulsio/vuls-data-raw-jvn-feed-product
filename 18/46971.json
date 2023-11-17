@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "46971",
-  "pname": "IBM Engineering Requirements Quality Assistant On-Premises",
-  "pcpe": "cpe:/a:ibm:engineering_requirements_quality_assistant_on-premises"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "46971",
+	"pname": "IBM Engineering Requirements Quality Assistant On-Premises",
+	"pcpe": "cpe:/a:ibm:engineering_requirements_quality_assistant_on-premises"
 }

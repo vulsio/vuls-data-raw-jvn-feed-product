@@ -1,8 +1,8 @@
 {
-  "vid": "15805",
-  "vname": "日本マイクロソフト株式会社",
-  "vcpe": "cpe:/:misc",
-  "pid": "36830",
-  "pname": "azure-umqtt-c",
-  "pcpe": "cpe:/a:misc:microsoft_japan_co_ltd_azure-umqtt-c"
+	"vid": "15805",
+	"vname": "日本マイクロソフト株式会社",
+	"vcpe": "cpe:/:misc",
+	"pid": "36830",
+	"pname": "azure-umqtt-c",
+	"pcpe": "cpe:/a:misc:microsoft_japan_co_ltd_azure-umqtt-c"
 }

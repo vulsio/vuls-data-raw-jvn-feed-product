@@ -1,8 +1,8 @@
 {
-  "vid": "16264",
-  "vname": "VStarCam",
-  "vcpe": "cpe:/:vstarcam",
-  "pid": "38270",
-  "pname": "Eye4",
-  "pcpe": "cpe:/a:vstarcam:eye4"
+	"vid": "16264",
+	"vname": "VStarCam",
+	"vcpe": "cpe:/:vstarcam",
+	"pid": "38270",
+	"pname": "Eye4",
+	"pcpe": "cpe:/a:vstarcam:eye4"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19013",
-  "vname": "Joint Photographic Experts Group",
-  "vcpe": "cpe:/:jpeg",
-  "pid": "52965",
-  "pname": "libjpeg",
-  "pcpe": "cpe:/a:jpeg:libjpeg"
+	"vid": "19013",
+	"vname": "Joint Photographic Experts Group",
+	"vcpe": "cpe:/:jpeg",
+	"pid": "52965",
+	"pname": "libjpeg",
+	"pcpe": "cpe:/a:jpeg:libjpeg"
 }

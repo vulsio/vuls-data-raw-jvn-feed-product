@@ -1,8 +1,8 @@
 {
-  "vid": "1100",
-  "vname": "SimpleSAMLphp",
-  "vcpe": "cpe:/:simplesamlphp",
-  "pid": "28326",
-  "pname": "simplesamlphp/saml2",
-  "pcpe": "cpe:/a:simplesamlphp:saml2"
+	"vid": "1100",
+	"vname": "SimpleSAMLphp",
+	"vcpe": "cpe:/:simplesamlphp",
+	"pid": "28326",
+	"pname": "simplesamlphp/saml2",
+	"pcpe": "cpe:/a:simplesamlphp:saml2"
 }

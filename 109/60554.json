@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "60554",
-  "pname": "LIFEBOOK U7411 ファームウェア",
-  "pcpe": "cpe:/o:fujitsu:lifebook_u7411_firmware"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "60554",
+	"pname": "LIFEBOOK U7411 ファームウェア",
+	"pcpe": "cpe:/o:fujitsu:lifebook_u7411_firmware"
 }

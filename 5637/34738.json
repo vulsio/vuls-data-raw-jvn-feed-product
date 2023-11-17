@@ -1,8 +1,8 @@
 {
-  "vid": "5637",
-  "vname": "マイクロフォーカス株式会社",
-  "vcpe": "cpe:/:microfocus",
-  "pid": "34738",
-  "pname": "Micro Focus Secure Messaging Gateway",
-  "pcpe": "cpe:/a:microfocus:secure_messaging_gateway"
+	"vid": "5637",
+	"vname": "マイクロフォーカス株式会社",
+	"vcpe": "cpe:/:microfocus",
+	"pid": "34738",
+	"pname": "Micro Focus Secure Messaging Gateway",
+	"pcpe": "cpe:/a:microfocus:secure_messaging_gateway"
 }

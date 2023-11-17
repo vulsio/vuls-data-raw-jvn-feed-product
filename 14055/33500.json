@@ -1,8 +1,8 @@
 {
-  "vid": "14055",
-  "vname": "KONGTOP",
-  "vcpe": "cpe:/:kongtop",
-  "pid": "33500",
-  "pname": "D403 ファームウェア",
-  "pcpe": "cpe:/o:kongtop:d403_firmware"
+	"vid": "14055",
+	"vname": "KONGTOP",
+	"vcpe": "cpe:/:kongtop",
+	"pid": "33500",
+	"pname": "D403 ファームウェア",
+	"pcpe": "cpe:/o:kongtop:d403_firmware"
 }

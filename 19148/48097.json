@@ -1,8 +1,8 @@
 {
-  "vid": "19148",
-  "vname": "Blosc",
-  "vcpe": "cpe:/:c-blosc2_project",
-  "pid": "48097",
-  "pname": "C-Blosc2",
-  "pcpe": "cpe:/a:c-blosc2_project:c-blosc2"
+	"vid": "19148",
+	"vname": "Blosc",
+	"vcpe": "cpe:/:c-blosc2_project",
+	"pid": "48097",
+	"pname": "C-Blosc2",
+	"pcpe": "cpe:/a:c-blosc2_project:c-blosc2"
 }

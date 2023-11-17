@@ -1,8 +1,8 @@
 {
-  "vid": "20906",
-  "vname": "Fast FW Press",
-  "vcpe": "cpe:/:ffw",
-  "pid": "55146",
-  "pname": "CAOS",
-  "pcpe": "cpe:/a:ffw:complete_analytics_optimization_suite"
+	"vid": "20906",
+	"vname": "Fast FW Press",
+	"vcpe": "cpe:/:ffw",
+	"pid": "55146",
+	"pname": "CAOS",
+	"pcpe": "cpe:/a:ffw:complete_analytics_optimization_suite"
 }

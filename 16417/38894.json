@@ -1,8 +1,8 @@
 {
-  "vid": "16417",
-  "vname": "Saet",
-  "vcpe": "cpe:/:saet",
-  "pid": "38894",
-  "pname": "TEBE Small ファームウェア",
-  "pcpe": "cpe:/o:saet:tebe_small_firmware"
+	"vid": "16417",
+	"vname": "Saet",
+	"vcpe": "cpe:/:saet",
+	"pid": "38894",
+	"pname": "TEBE Small ファームウェア",
+	"pcpe": "cpe:/o:saet:tebe_small_firmware"
 }

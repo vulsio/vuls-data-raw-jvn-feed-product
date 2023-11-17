@@ -1,8 +1,8 @@
 {
-  "vid": "23369",
-  "vname": "unioncms project",
-  "vcpe": "cpe:/:unioncms_project",
-  "pid": "60606",
-  "pname": "unioncms",
-  "pcpe": "cpe:/a:unioncms_project:unioncms"
+	"vid": "23369",
+	"vname": "unioncms project",
+	"vcpe": "cpe:/:unioncms_project",
+	"pid": "60606",
+	"pname": "unioncms",
+	"pcpe": "cpe:/a:unioncms_project:unioncms"
 }

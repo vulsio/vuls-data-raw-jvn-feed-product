@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "27582",
-  "pname": "VMware Fusion Pro",
-  "pcpe": "cpe:/a:vmware:fusion_pro"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "27582",
+	"pname": "VMware Fusion Pro",
+	"pcpe": "cpe:/a:vmware:fusion_pro"
 }

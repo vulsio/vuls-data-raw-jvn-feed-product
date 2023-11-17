@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "9503",
-  "pname": "DVD Architect Studio",
-  "pcpe": "cpe:/a:sony:dvd_architect_studio"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "9503",
+	"pname": "DVD Architect Studio",
+	"pcpe": "cpe:/a:sony:dvd_architect_studio"
 }

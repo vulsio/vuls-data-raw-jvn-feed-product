@@ -1,8 +1,8 @@
 {
-  "vid": "16500",
-  "vname": "Hosting Controller, Inc.",
-  "vcpe": "cpe:/:hostingcontroller",
-  "pid": "39248",
-  "pname": "HC10",
-  "pcpe": "cpe:/a:hostingcontroller:hc10"
+	"vid": "16500",
+	"vname": "Hosting Controller, Inc.",
+	"vcpe": "cpe:/:hostingcontroller",
+	"pid": "39248",
+	"pname": "HC10",
+	"pcpe": "cpe:/a:hostingcontroller:hc10"
 }

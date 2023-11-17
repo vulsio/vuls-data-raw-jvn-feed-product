@@ -1,8 +1,8 @@
 {
-  "vid": "17363",
-  "vname": "TypeStack",
-  "vcpe": "cpe:/:typestack_class-validator_project",
-  "pid": "41331",
-  "pname": "typestack class-validator",
-  "pcpe": "cpe:/a:typestack_class-validator_project:typestack_class-validator"
+	"vid": "17363",
+	"vname": "TypeStack",
+	"vcpe": "cpe:/:typestack_class-validator_project",
+	"pid": "41331",
+	"pname": "typestack class-validator",
+	"pcpe": "cpe:/a:typestack_class-validator_project:typestack_class-validator"
 }

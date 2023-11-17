@@ -1,8 +1,8 @@
 {
-  "vid": "17022",
-  "vname": "Generator-rs project",
-  "vcpe": "cpe:/:generator-rs_project",
-  "pid": "40488",
-  "pname": "Generator-rs",
-  "pcpe": "cpe:/a:generator-rs_project:generator-rs"
+	"vid": "17022",
+	"vname": "Generator-rs project",
+	"vcpe": "cpe:/:generator-rs_project",
+	"pid": "40488",
+	"pname": "Generator-rs",
+	"pcpe": "cpe:/a:generator-rs_project:generator-rs"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15765",
-  "vname": "CrashFix project",
-  "vcpe": "cpe:/:crashfix_project",
-  "pid": "36741",
-  "pname": "CrashFix",
-  "pcpe": "cpe:/a:crashfix_project:crashfix"
+	"vid": "15765",
+	"vname": "CrashFix project",
+	"vcpe": "cpe:/:crashfix_project",
+	"pid": "36741",
+	"pname": "CrashFix",
+	"pcpe": "cpe:/a:crashfix_project:crashfix"
 }

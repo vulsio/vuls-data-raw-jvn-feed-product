@@ -1,8 +1,8 @@
 {
-  "vid": "16049",
-  "vname": "Xterm.js",
-  "vcpe": "cpe:/:xtermjs",
-  "pid": "37554",
-  "pname": "Xterm.js",
-  "pcpe": "cpe:/a:xtermjs:xterm.js"
+	"vid": "16049",
+	"vname": "Xterm.js",
+	"vcpe": "cpe:/:xtermjs",
+	"pid": "37554",
+	"pname": "Xterm.js",
+	"pcpe": "cpe:/a:xtermjs:xterm.js"
 }

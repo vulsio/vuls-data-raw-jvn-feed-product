@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "45028",
-  "pname": "Atlassian Navigator Links",
-  "pcpe": "cpe:/a:atlassian:navigator_links"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "45028",
+	"pname": "Atlassian Navigator Links",
+	"pcpe": "cpe:/a:atlassian:navigator_links"
 }

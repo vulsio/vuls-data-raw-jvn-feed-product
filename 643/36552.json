@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "36552",
-  "pname": "Dell OpenManage Network Manager",
-  "pcpe": "cpe:/a:dell:openmanage_network_manager"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "36552",
+	"pname": "Dell OpenManage Network Manager",
+	"pcpe": "cpe:/a:dell:openmanage_network_manager"
 }

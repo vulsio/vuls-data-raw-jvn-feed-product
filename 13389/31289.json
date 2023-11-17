@@ -1,8 +1,8 @@
 {
-  "vid": "13389",
-  "vname": "AutomationDirect",
-  "vcpe": "cpe:/:automationdirect",
-  "pid": "31289",
-  "pname": "GS Drives Configuration Software",
-  "pcpe": "cpe:/o:automationdirect:gs_drives_fimware"
+	"vid": "13389",
+	"vname": "AutomationDirect",
+	"vcpe": "cpe:/:automationdirect",
+	"pid": "31289",
+	"pname": "GS Drives Configuration Software",
+	"pcpe": "cpe:/o:automationdirect:gs_drives_fimware"
 }

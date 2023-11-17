@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "38276",
-  "pname": "510S-08IKL ファームウェア",
-  "pcpe": "cpe:/o:lenovo:510s-08ikl_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "38276",
+	"pname": "510S-08IKL ファームウェア",
+	"pcpe": "cpe:/o:lenovo:510s-08ikl_firmware"
 }

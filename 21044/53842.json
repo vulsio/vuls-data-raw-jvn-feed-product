@@ -1,8 +1,8 @@
 {
-  "vid": "21044",
-  "vname": "Nong Ge",
-  "vcpe": "cpe:/:file_explorer_project",
-  "pid": "53842",
-  "pname": "File Explorer",
-  "pcpe": "cpe:/a:file_explorer_project:file_explorer"
+	"vid": "21044",
+	"vname": "Nong Ge",
+	"vcpe": "cpe:/:file_explorer_project",
+	"pid": "53842",
+	"pname": "File Explorer",
+	"pcpe": "cpe:/a:file_explorer_project:file_explorer"
 }

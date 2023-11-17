@@ -1,8 +1,8 @@
 {
-  "vid": "772",
-  "vname": "OWASP",
-  "vcpe": "cpe:/:owasp",
-  "pid": "54027",
-  "pname": "OWASP ModSecurity Core Rule Set (CRS)",
-  "pcpe": "cpe:/a:owasp:owasp_modsecurity_core_rule_set"
+	"vid": "772",
+	"vname": "OWASP",
+	"vcpe": "cpe:/:owasp",
+	"pid": "54027",
+	"pname": "OWASP ModSecurity Core Rule Set (CRS)",
+	"pcpe": "cpe:/a:owasp:owasp_modsecurity_core_rule_set"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "25831",
-  "pname": "IBM FlashSystem V9000 9846-AE2",
-  "pcpe": "cpe:/h:ibm:flashsystem_9846-ae2"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "25831",
+	"pname": "IBM FlashSystem V9000 9846-AE2",
+	"pcpe": "cpe:/h:ibm:flashsystem_9846-ae2"
 }

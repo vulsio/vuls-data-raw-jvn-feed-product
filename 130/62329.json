@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "62329",
-  "pname": "control center",
-  "pcpe": "cpe:/a:intel:control_center"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "62329",
+	"pname": "control center",
+	"pcpe": "cpe:/a:intel:control_center"
 }

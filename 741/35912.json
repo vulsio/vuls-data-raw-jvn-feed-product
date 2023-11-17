@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "35912",
-  "pname": "EyeOn Baby Monitor (DCS-825L) ファームウェア",
-  "pcpe": "cpe:/o:dlink:eyeon_baby_monitor_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "35912",
+	"pname": "EyeOn Baby Monitor (DCS-825L) ファームウェア",
+	"pcpe": "cpe:/o:dlink:eyeon_baby_monitor_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "48377",
-  "pname": "OWASP Dependency-Track",
-  "pcpe": "cpe:/a:jenkins:owasp_dependency-track"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "48377",
+	"pname": "OWASP Dependency-Track",
+	"pcpe": "cpe:/a:jenkins:owasp_dependency-track"
 }

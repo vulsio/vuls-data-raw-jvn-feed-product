@@ -1,8 +1,8 @@
 {
-  "vid": "22812",
-  "vname": "palantir",
-  "vcpe": "cpe:/:palantir",
-  "pid": "63932",
-  "pname": "gotham",
-  "pcpe": "cpe:/o:palantir:gotham"
+	"vid": "22812",
+	"vname": "palantir",
+	"vcpe": "cpe:/:palantir",
+	"pid": "63932",
+	"pname": "gotham",
+	"pcpe": "cpe:/o:palantir:gotham"
 }

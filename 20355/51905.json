@@ -1,8 +1,8 @@
 {
-  "vid": "20355",
-  "vname": "23andMe",
-  "vcpe": "cpe:/:23andme",
-  "pid": "51905",
-  "pname": "Yamale",
-  "pcpe": "cpe:/a:23andme:yamale"
+	"vid": "20355",
+	"vname": "23andMe",
+	"vcpe": "cpe:/:23andme",
+	"pid": "51905",
+	"pname": "Yamale",
+	"pcpe": "cpe:/a:23andme:yamale"
 }

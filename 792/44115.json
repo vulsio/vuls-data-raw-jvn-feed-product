@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "44115",
-  "pname": "XGS2210-52HP ファームウェア",
-  "pcpe": "cpe:/o:zyxel:xgs2210-52hp_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "44115",
+	"pname": "XGS2210-52HP ファームウェア",
+	"pcpe": "cpe:/o:zyxel:xgs2210-52hp_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1837",
-  "vname": "Quest Software Inc.",
-  "vcpe": "cpe:/:quest",
-  "pid": "43996",
-  "pname": "Quest Foglight Evolve",
-  "pcpe": "cpe:/a:quest:foglight_evolve"
+	"vid": "1837",
+	"vname": "Quest Software Inc.",
+	"vcpe": "cpe:/:quest",
+	"pid": "43996",
+	"pname": "Quest Foglight Evolve",
+	"pcpe": "cpe:/a:quest:foglight_evolve"
 }

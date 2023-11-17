@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "15132",
-  "pname": "java system content delivery server",
-  "pcpe": "cpe:/a:sun:java_system_content_delivery_server"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "15132",
+	"pname": "java system content delivery server",
+	"pcpe": "cpe:/a:sun:java_system_content_delivery_server"
 }

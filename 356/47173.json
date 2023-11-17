@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "47173",
-  "pname": "Tink",
-  "pcpe": "cpe:/a:google:tink"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "47173",
+	"pname": "Tink",
+	"pcpe": "cpe:/a:google:tink"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4171",
-  "vname": "ARRIS Group",
-  "vcpe": "cpe:/:arris",
-  "pid": "21725",
-  "pname": "ARRIS VAP2500 ファームウェア",
-  "pcpe": "cpe:/o:arris:vap2500_firmware"
+	"vid": "4171",
+	"vname": "ARRIS Group",
+	"vcpe": "cpe:/:arris",
+	"pid": "21725",
+	"pname": "ARRIS VAP2500 ファームウェア",
+	"pcpe": "cpe:/o:arris:vap2500_firmware"
 }

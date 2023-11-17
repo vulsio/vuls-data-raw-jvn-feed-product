@@ -1,8 +1,8 @@
 {
-  "vid": "5919",
-  "vname": "netfarer",
-  "vcpe": "cpe:/:netfarer",
-  "pid": "11950",
-  "pname": "movieplay",
-  "pcpe": "cpe:/a:netfarer:movieplay"
+	"vid": "5919",
+	"vname": "netfarer",
+	"vcpe": "cpe:/:netfarer",
+	"pid": "11950",
+	"pname": "movieplay",
+	"pcpe": "cpe:/a:netfarer:movieplay"
 }

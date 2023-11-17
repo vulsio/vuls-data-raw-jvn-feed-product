@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "2820",
-  "pname": "Apache CouchDB",
-  "pcpe": "cpe:/a:apache:couchdb"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "2820",
+	"pname": "Apache CouchDB",
+	"pcpe": "cpe:/a:apache:couchdb"
 }

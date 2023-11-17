@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "61732",
-  "pname": "udc ファームウェア",
-  "pcpe": "cpe:/o:abb:udc_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "61732",
+	"pname": "udc ファームウェア",
+	"pcpe": "cpe:/o:abb:udc_firmware"
 }

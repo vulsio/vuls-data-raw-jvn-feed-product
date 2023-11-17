@@ -1,8 +1,8 @@
 {
-  "vid": "912",
-  "vname": "ASP indir",
-  "vcpe": "cpe:/:aspindir",
-  "pid": "6002",
-  "pname": "philboard",
-  "pcpe": "cpe:/a:aspindir:philboard"
+	"vid": "912",
+	"vname": "ASP indir",
+	"vcpe": "cpe:/:aspindir",
+	"pid": "6002",
+	"pname": "philboard",
+	"pcpe": "cpe:/a:aspindir:philboard"
 }

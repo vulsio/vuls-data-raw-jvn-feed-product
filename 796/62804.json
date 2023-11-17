@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "62804",
-  "pname": "e5350 ファームウェア",
-  "pcpe": "cpe:/o:linksys:e5350_firmware"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "62804",
+	"pname": "e5350 ファームウェア",
+	"pcpe": "cpe:/o:linksys:e5350_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4452",
-  "vname": "LiteSpeed Technologies",
-  "vcpe": "cpe:/:litespeedtech",
-  "pid": "59342",
-  "pname": "lsquic",
-  "pcpe": "cpe:/a:litespeedtech:lsquic"
+	"vid": "4452",
+	"vname": "LiteSpeed Technologies",
+	"vcpe": "cpe:/:litespeedtech",
+	"pid": "59342",
+	"pname": "lsquic",
+	"pcpe": "cpe:/a:litespeedtech:lsquic"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10283",
-  "vname": "Meinberg Funkuhren GmbH & Co KG",
-  "vcpe": "cpe:/:meinberg",
-  "pid": "21568",
-  "pname": "LANTIME M100",
-  "pcpe": "cpe:/h:meinberg:lantime_m100"
+	"vid": "10283",
+	"vname": "Meinberg Funkuhren GmbH & Co KG",
+	"vcpe": "cpe:/:meinberg",
+	"pid": "21568",
+	"pname": "LANTIME M100",
+	"pcpe": "cpe:/h:meinberg:lantime_m100"
 }

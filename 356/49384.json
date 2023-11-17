@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "49384",
-  "pname": "Google Secret Manager Provider for Secret Store CSI Driver",
-  "pcpe": "cpe:/a:google:secret_manager_provider_for_secret_store_csi_driver"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "49384",
+	"pname": "Google Secret Manager Provider for Secret Store CSI Driver",
+	"pcpe": "cpe:/a:google:secret_manager_provider_for_secret_store_csi_driver"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31540",
-  "pname": "LYO-L21 ファームウェア",
-  "pcpe": "cpe:/o:huawei:lyo-l21_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31540",
+	"pname": "LYO-L21 ファームウェア",
+	"pcpe": "cpe:/o:huawei:lyo-l21_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "29068",
-  "pname": "ControlLogix 5580 コントローラファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:controllogix_5580_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "29068",
+	"pname": "ControlLogix 5580 コントローラファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:controllogix_5580_firmware"
 }

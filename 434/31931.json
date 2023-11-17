@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "31931",
-  "pname": "EMC Data Domain",
-  "pcpe": "cpe:/o:emc:data_domain"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "31931",
+	"pname": "EMC Data Domain",
+	"pcpe": "cpe:/o:emc:data_domain"
 }

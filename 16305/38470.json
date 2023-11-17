@@ -1,8 +1,8 @@
 {
-  "vid": "16305",
-  "vname": "mafintosh project",
-  "vcpe": "cpe:/:mafintosh_project",
-  "pid": "38470",
-  "pname": "tar-fs",
-  "pcpe": "cpe:/a:mafintosh_project:tar-fs"
+	"vid": "16305",
+	"vname": "mafintosh project",
+	"vcpe": "cpe:/:mafintosh_project",
+	"pid": "38470",
+	"pname": "tar-fs",
+	"pcpe": "cpe:/a:mafintosh_project:tar-fs"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "81",
-  "vname": "Python Software Foundation",
-  "vcpe": "cpe:/:python",
-  "pid": "59199",
-  "pname": "pypi",
-  "pcpe": "cpe:/a:python:pypi"
+	"vid": "81",
+	"vname": "Python Software Foundation",
+	"vcpe": "cpe:/:python",
+	"pid": "59199",
+	"pname": "pypi",
+	"pcpe": "cpe:/a:python:pypi"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8873",
-  "vname": "Verizon",
-  "vcpe": "cpe:/:verizon",
-  "pid": "60055",
-  "pname": "4g lte network extender ファームウェア",
-  "pcpe": "cpe:/o:verizon:4g_lte_network_extender_firmware"
+	"vid": "8873",
+	"vname": "Verizon",
+	"vcpe": "cpe:/:verizon",
+	"pid": "60055",
+	"pname": "4g lte network extender ファームウェア",
+	"pcpe": "cpe:/o:verizon:4g_lte_network_extender_firmware"
 }

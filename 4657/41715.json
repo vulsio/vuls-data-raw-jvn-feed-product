@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "41715",
-  "pname": "HG655m ファームウェア",
-  "pcpe": "cpe:/o:huawei:hg655m_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "41715",
+	"pname": "HG655m ファームウェア",
+	"pcpe": "cpe:/o:huawei:hg655m_firmware"
 }

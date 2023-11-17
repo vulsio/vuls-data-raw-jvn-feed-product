@@ -1,8 +1,8 @@
 {
-  "vid": "17372",
-  "vname": "FreeTDS",
-  "vcpe": "cpe:/:freetds",
-  "pid": "41345",
-  "pname": "FreeTDS",
-  "pcpe": "cpe:/a:freetds:freetds"
+	"vid": "17372",
+	"vname": "FreeTDS",
+	"vcpe": "cpe:/:freetds",
+	"pid": "41345",
+	"pname": "FreeTDS",
+	"pcpe": "cpe:/a:freetds:freetds"
 }

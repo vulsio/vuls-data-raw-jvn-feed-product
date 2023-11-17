@@ -1,8 +1,8 @@
 {
-  "vid": "479",
-  "vname": "phpBB",
-  "vcpe": "cpe:/:phpbb",
-  "pid": "13615",
-  "pname": "spamblockermod",
-  "pcpe": "cpe:/a:phpbb:spamblockermod"
+	"vid": "479",
+	"vname": "phpBB",
+	"vcpe": "cpe:/:phpbb",
+	"pid": "13615",
+	"pname": "spamblockermod",
+	"pcpe": "cpe:/a:phpbb:spamblockermod"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4835",
-  "vname": "ipcheck",
-  "vcpe": "cpe:/:ipcheck",
-  "pid": "10245",
-  "pname": "server monitor",
-  "pcpe": "cpe:/a:ipcheck:server_monitor"
+	"vid": "4835",
+	"vname": "ipcheck",
+	"vcpe": "cpe:/:ipcheck",
+	"pid": "10245",
+	"pname": "server monitor",
+	"pcpe": "cpe:/a:ipcheck:server_monitor"
 }

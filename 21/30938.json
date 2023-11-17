@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "30938",
-  "pname": "Trusted Platform Module ファームウェア",
-  "pcpe": "cpe:/o:juniper:trusted_platform_module_firmware"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "30938",
+	"pname": "Trusted Platform Module ファームウェア",
+	"pcpe": "cpe:/o:juniper:trusted_platform_module_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23853",
-  "vname": "tortall",
-  "vcpe": "cpe:/:tortall",
-  "pid": "61720",
-  "pname": "yasm",
-  "pcpe": "cpe:/a:tortall:yasm"
+	"vid": "23853",
+	"vname": "tortall",
+	"vcpe": "cpe:/:tortall",
+	"pid": "61720",
+	"pname": "yasm",
+	"pcpe": "cpe:/a:tortall:yasm"
 }

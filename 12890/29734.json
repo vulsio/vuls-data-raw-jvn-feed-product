@@ -1,8 +1,8 @@
 {
-  "vid": "12890",
-  "vname": "Mapbox",
-  "vcpe": "cpe:/:mapbox_project",
-  "pid": "29734",
-  "pname": "Mapbox.js",
-  "pcpe": "cpe:/a:mapbox_project:mapbox"
+	"vid": "12890",
+	"vname": "Mapbox",
+	"vcpe": "cpe:/:mapbox_project",
+	"pid": "29734",
+	"pname": "Mapbox.js",
+	"pcpe": "cpe:/a:mapbox_project:mapbox"
 }

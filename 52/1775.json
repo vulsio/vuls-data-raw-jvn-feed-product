@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "1775",
-  "pname": "iOS",
-  "pcpe": "cpe:/o:apple:iphone_os"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "1775",
+	"pname": "iOS",
+	"pcpe": "cpe:/o:apple:iphone_os"
 }

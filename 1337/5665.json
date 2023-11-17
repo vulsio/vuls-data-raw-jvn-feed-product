@@ -1,8 +1,8 @@
 {
-  "vid": "1337",
-  "vname": "Alcatel-Lucent",
-  "vcpe": "cpe:/:alcatel-lucent",
-  "pid": "5665",
-  "pname": "voice mail system",
-  "pcpe": "cpe:/a:alcatel-lucent:voice_mail_system"
+	"vid": "1337",
+	"vname": "Alcatel-Lucent",
+	"vcpe": "cpe:/:alcatel-lucent",
+	"pid": "5665",
+	"pname": "voice mail system",
+	"pcpe": "cpe:/a:alcatel-lucent:voice_mail_system"
 }

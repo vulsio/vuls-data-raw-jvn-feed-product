@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "42796",
-  "pname": "SCALANCE X408-2 ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_x408-2_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "42796",
+	"pname": "SCALANCE X408-2 ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_x408-2_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "62889",
-  "pname": "HP PageWide Managed P57750dw J9V82A ファームウェア",
-  "pcpe": "cpe:/o:hp:pagewide_managed_p57750dw_j9v82a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "62889",
+	"pname": "HP PageWide Managed P57750dw J9V82A ファームウェア",
+	"pcpe": "cpe:/o:hp:pagewide_managed_p57750dw_j9v82a_firmware"
 }

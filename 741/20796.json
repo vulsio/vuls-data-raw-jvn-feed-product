@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "20796",
-  "pname": "DAP-2553",
-  "pcpe": "cpe:/h:dlink:dap_2553"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "20796",
+	"pname": "DAP-2553",
+	"pcpe": "cpe:/h:dlink:dap_2553"
 }

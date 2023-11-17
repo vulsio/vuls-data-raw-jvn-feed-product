@@ -1,8 +1,8 @@
 {
-  "vid": "5928",
-  "vname": "netkit-ftp",
-  "vcpe": "cpe:/:netkit-ftp",
-  "pid": "11961",
-  "pname": "netkit ftp",
-  "pcpe": "cpe:/a:netkit-ftp:netkit_ftp"
+	"vid": "5928",
+	"vname": "netkit-ftp",
+	"vcpe": "cpe:/:netkit-ftp",
+	"pid": "11961",
+	"pname": "netkit ftp",
+	"pcpe": "cpe:/a:netkit-ftp:netkit_ftp"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15293",
-  "vname": "Tenda",
-  "vcpe": "cpe:/:tendacn",
-  "pid": "35422",
-  "pname": "AC15 ファームウェア",
-  "pcpe": "cpe:/o:tendacn:ac15_firmware"
+	"vid": "15293",
+	"vname": "Tenda",
+	"vcpe": "cpe:/:tendacn",
+	"pid": "35422",
+	"pname": "AC15 ファームウェア",
+	"pcpe": "cpe:/o:tendacn:ac15_firmware"
 }

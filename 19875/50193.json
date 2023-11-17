@@ -1,8 +1,8 @@
 {
-  "vid": "19875",
-  "vname": "jquery-sparkle project",
-  "vcpe": "cpe:/:jquery-sparkle_project",
-  "pid": "50193",
-  "pname": "jquery-sparkle",
-  "pcpe": "cpe:/a:jquery-sparkle_project:jquery-sparkle"
+	"vid": "19875",
+	"vname": "jquery-sparkle project",
+	"vcpe": "cpe:/:jquery-sparkle_project",
+	"pid": "50193",
+	"pname": "jquery-sparkle",
+	"pcpe": "cpe:/a:jquery-sparkle_project:jquery-sparkle"
 }

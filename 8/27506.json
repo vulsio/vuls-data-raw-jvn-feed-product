@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "27506",
-  "pname": "Apache Tika",
-  "pcpe": "cpe:/a:apache:tika"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "27506",
+	"pname": "Apache Tika",
+	"pcpe": "cpe:/a:apache:tika"
 }

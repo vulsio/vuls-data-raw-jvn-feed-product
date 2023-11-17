@@ -1,8 +1,8 @@
 {
-  "vid": "7612",
-  "vname": "simpledns",
-  "vcpe": "cpe:/:simpledns",
-  "pid": "14779",
-  "pname": "simple dns plus",
-  "pcpe": "cpe:/a:simpledns:simple_dns_plus"
+	"vid": "7612",
+	"vname": "simpledns",
+	"vcpe": "cpe:/:simpledns",
+	"pid": "14779",
+	"pname": "simple dns plus",
+	"pcpe": "cpe:/a:simpledns:simple_dns_plus"
 }

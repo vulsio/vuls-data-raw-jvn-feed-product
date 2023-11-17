@@ -1,8 +1,8 @@
 {
-  "vid": "4155",
-  "vname": "unicenter",
-  "vcpe": "cpe:/:unicenter",
-  "pid": "8674",
-  "pname": "enterprise job manager",
-  "pcpe": "cpe:/a:unicenter:enterprise_job_manager"
+	"vid": "4155",
+	"vname": "unicenter",
+	"vcpe": "cpe:/:unicenter",
+	"pid": "8674",
+	"pname": "enterprise job manager",
+	"pcpe": "cpe:/a:unicenter:enterprise_job_manager"
 }

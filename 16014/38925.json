@@ -1,8 +1,8 @@
 {
-  "vid": "16014",
-  "vname": "HGiga",
-  "vcpe": "cpe:/:hgiga",
-  "pid": "38925",
-  "pname": "MSR35 iSherlock-useradmin",
-  "pcpe": "cpe:/a:hgiga:msr35_isherlock-useradmin"
+	"vid": "16014",
+	"vname": "HGiga",
+	"vcpe": "cpe:/:hgiga",
+	"pid": "38925",
+	"pname": "MSR35 iSherlock-useradmin",
+	"pcpe": "cpe:/a:hgiga:msr35_isherlock-useradmin"
 }

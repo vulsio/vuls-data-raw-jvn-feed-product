@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "34610",
-  "pname": "UCS-E160DP-M1 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ucs-e160dp-m1_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "34610",
+	"pname": "UCS-E160DP-M1 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ucs-e160dp-m1_firmware"
 }

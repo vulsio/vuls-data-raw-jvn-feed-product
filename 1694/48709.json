@@ -1,8 +1,8 @@
 {
-  "vid": "1694",
-  "vname": "CERN",
-  "vcpe": "cpe:/:cern",
-  "pid": "48709",
-  "pname": "Indico",
-  "pcpe": "cpe:/a:cern:indico"
+	"vid": "1694",
+	"vname": "CERN",
+	"vcpe": "cpe:/:cern",
+	"pid": "48709",
+	"pname": "Indico",
+	"pcpe": "cpe:/a:cern:indico"
 }

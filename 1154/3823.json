@@ -1,8 +1,8 @@
 {
-  "vid": "1154",
-  "vname": "OfficeSIP Communications",
-  "vcpe": "cpe:/:officesip",
-  "pid": "3823",
-  "pname": "OfficeSIP Server",
-  "pcpe": "cpe:/a:officesip:officesip_server"
+	"vid": "1154",
+	"vname": "OfficeSIP Communications",
+	"vcpe": "cpe:/:officesip",
+	"pid": "3823",
+	"pname": "OfficeSIP Server",
+	"pcpe": "cpe:/a:officesip:officesip_server"
 }

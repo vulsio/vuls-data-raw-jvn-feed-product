@@ -1,8 +1,8 @@
 {
-  "vid": "16533",
-  "vname": "Sick",
-  "vcpe": "cpe:/:sick",
-  "pid": "39353",
-  "pname": "MSC800",
-  "pcpe": "cpe:/o:sick:msc800_firmware"
+	"vid": "16533",
+	"vname": "Sick",
+	"vcpe": "cpe:/:sick",
+	"pid": "39353",
+	"pname": "MSC800",
+	"pcpe": "cpe:/o:sick:msc800_firmware"
 }

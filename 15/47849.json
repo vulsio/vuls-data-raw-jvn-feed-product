@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47849",
-  "pname": "Oracle MES for Process Manufacturing",
-  "pcpe": "cpe:/a:oracle:manufacturing_execution_system_for_process_manufacturing"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47849",
+	"pname": "Oracle MES for Process Manufacturing",
+	"pcpe": "cpe:/a:oracle:manufacturing_execution_system_for_process_manufacturing"
 }

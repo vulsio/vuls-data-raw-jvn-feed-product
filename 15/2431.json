@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2431",
-  "pname": "Oracle Sun Java System Web Proxy Server",
-  "pcpe": "cpe:/a:oracle:sun_java_system_web_proxy_server"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2431",
+	"pname": "Oracle Sun Java System Web Proxy Server",
+	"pcpe": "cpe:/a:oracle:sun_java_system_web_proxy_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "21180",
-  "pname": "IBM BladeCenter 1/10G Uplink Ethernet スイッチ・モジュール",
-  "pcpe": "cpe:/h:ibm:bladecenter_1%2F10g"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "21180",
+	"pname": "IBM BladeCenter 1/10G Uplink Ethernet スイッチ・モジュール",
+	"pcpe": "cpe:/h:ibm:bladecenter_1%2F10g"
 }

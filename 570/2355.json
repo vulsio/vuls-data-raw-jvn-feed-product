@@ -1,8 +1,8 @@
 {
-  "vid": "570",
-  "vname": "IntelliCom Innovation AB",
-  "vcpe": "cpe:/:intellicom",
-  "pid": "2355",
-  "pname": "Netbiter webSCADA firmware",
-  "pcpe": "cpe:/h:intellicom:netbiter_webscada_firmware"
+	"vid": "570",
+	"vname": "IntelliCom Innovation AB",
+	"vcpe": "cpe:/:intellicom",
+	"pid": "2355",
+	"pname": "Netbiter webSCADA firmware",
+	"pcpe": "cpe:/h:intellicom:netbiter_webscada_firmware"
 }

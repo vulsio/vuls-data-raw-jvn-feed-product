@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "28011",
-  "pname": "USG50",
-  "pcpe": "cpe:/h:zyxel:usg50"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "28011",
+	"pname": "USG50",
+	"pcpe": "cpe:/h:zyxel:usg50"
 }

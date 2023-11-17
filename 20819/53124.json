@@ -1,8 +1,8 @@
 {
-  "vid": "20819",
-  "vname": "IDEMIA",
-  "vcpe": "cpe:/:idemia",
-  "pid": "53124",
-  "pname": "VisionPass MDPI ファームウェア",
-  "pcpe": "cpe:/o:idemia:visionpass_mdpi_firmware"
+	"vid": "20819",
+	"vname": "IDEMIA",
+	"vcpe": "cpe:/:idemia",
+	"pid": "53124",
+	"pname": "VisionPass MDPI ファームウェア",
+	"pcpe": "cpe:/o:idemia:visionpass_mdpi_firmware"
 }

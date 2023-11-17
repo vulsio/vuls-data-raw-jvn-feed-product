@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "20604",
-  "pname": "Cisco Model EPC3010 DOCSIS 3.0 Cable Modem",
-  "pcpe": "cpe:/h:cisco:epc3010"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "20604",
+	"pname": "Cisco Model EPC3010 DOCSIS 3.0 Cable Modem",
+	"pcpe": "cpe:/h:cisco:epc3010"
 }

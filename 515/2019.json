@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "2019",
-  "pname": "VMware ESX",
-  "pcpe": "cpe:/a:vmware:esx"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "2019",
+	"pname": "VMware ESX",
+	"pcpe": "cpe:/a:vmware:esx"
 }

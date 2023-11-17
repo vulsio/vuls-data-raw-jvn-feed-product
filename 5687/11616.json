@@ -1,8 +1,8 @@
 {
-  "vid": "5687",
-  "vname": "mirc",
-  "vcpe": "cpe:/:mirc",
-  "pid": "11616",
-  "pname": "plug-in for winamp",
-  "pcpe": "cpe:/a:mirc:plug-in_for_winamp"
+	"vid": "5687",
+	"vname": "mirc",
+	"vcpe": "cpe:/:mirc",
+	"pid": "11616",
+	"pname": "plug-in for winamp",
+	"pcpe": "cpe:/a:mirc:plug-in_for_winamp"
 }

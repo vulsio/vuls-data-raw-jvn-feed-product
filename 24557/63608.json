@@ -1,8 +1,8 @@
 {
-  "vid": "24557",
-  "vname": "browserify-shim project",
-  "vcpe": "cpe:/:browserify-shim_project",
-  "pid": "63608",
-  "pname": "browserify-shim",
-  "pcpe": "cpe:/a:browserify-shim_project:browserify-shim"
+	"vid": "24557",
+	"vname": "browserify-shim project",
+	"vcpe": "cpe:/:browserify-shim_project",
+	"pid": "63608",
+	"pname": "browserify-shim",
+	"pcpe": "cpe:/a:browserify-shim_project:browserify-shim"
 }

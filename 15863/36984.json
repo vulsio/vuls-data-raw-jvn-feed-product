@@ -1,8 +1,8 @@
 {
-  "vid": "15863",
-  "vname": "Premium WP Suite",
-  "vcpe": "cpe:/:premiumwpsuite",
-  "pid": "36984",
-  "pname": "Easy Redirect Manager",
-  "pcpe": "cpe:/a:premiumwpsuite:easy_redirect_manager"
+	"vid": "15863",
+	"vname": "Premium WP Suite",
+	"vcpe": "cpe:/:premiumwpsuite",
+	"pid": "36984",
+	"pname": "Easy Redirect Manager",
+	"pcpe": "cpe:/a:premiumwpsuite:easy_redirect_manager"
 }

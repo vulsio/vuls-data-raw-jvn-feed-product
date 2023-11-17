@@ -1,8 +1,8 @@
 {
-  "vid": "7150",
-  "vname": "PvPGN",
-  "vcpe": "cpe:/:pvpgn",
-  "pid": "34419",
-  "pname": "pvpgn-stats",
-  "pcpe": "cpe:/a:pvpgn:stats"
+	"vid": "7150",
+	"vname": "PvPGN",
+	"vcpe": "cpe:/:pvpgn",
+	"pid": "34419",
+	"pname": "pvpgn-stats",
+	"pcpe": "cpe:/a:pvpgn:stats"
 }

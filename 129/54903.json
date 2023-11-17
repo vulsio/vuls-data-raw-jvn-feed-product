@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "54903",
-  "pname": "JP1/Performance Management - Manager",
-  "pcpe": "cpe:/a:hitachi:jp1_performance_management-manager"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "54903",
+	"pname": "JP1/Performance Management - Manager",
+	"pcpe": "cpe:/a:hitachi:jp1_performance_management-manager"
 }

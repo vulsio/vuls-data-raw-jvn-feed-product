@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "50205",
-  "pname": "AP7xxxx",
-  "pcpe": "cpe:/o:schneider_electric:ap7xxxx"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "50205",
+	"pname": "AP7xxxx",
+	"pcpe": "cpe:/o:schneider_electric:ap7xxxx"
 }

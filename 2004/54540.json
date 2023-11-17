@@ -1,8 +1,8 @@
 {
-  "vid": "2004",
-  "vname": "Acronis International GmbH",
-  "vcpe": "cpe:/:acronis",
-  "pid": "54540",
-  "pname": "Cyber Protect Home Office",
-  "pcpe": "cpe:/a:acronis:cyber_protect_home_office"
+	"vid": "2004",
+	"vname": "Acronis International GmbH",
+	"vcpe": "cpe:/:acronis",
+	"pid": "54540",
+	"pname": "Cyber Protect Home Office",
+	"pcpe": "cpe:/a:acronis:cyber_protect_home_office"
 }

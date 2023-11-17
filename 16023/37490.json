@@ -1,8 +1,8 @@
 {
-  "vid": "16023",
-  "vname": "LEAGOO Global Co., Limited",
-  "vcpe": "cpe:/:leagoo",
-  "pid": "37490",
-  "pname": "Z5C ファームウェア",
-  "pcpe": "cpe:/o:leagoo:z5c_firmware"
+	"vid": "16023",
+	"vname": "LEAGOO Global Co., Limited",
+	"vcpe": "cpe:/:leagoo",
+	"pid": "37490",
+	"pname": "Z5C ファームウェア",
+	"pcpe": "cpe:/o:leagoo:z5c_firmware"
 }

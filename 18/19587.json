@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19587",
-  "pname": "IBM Netezza Performance Portal",
-  "pcpe": "cpe:/a:ibm:netezza_performance_portal"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19587",
+	"pname": "IBM Netezza Performance Portal",
+	"pcpe": "cpe:/a:ibm:netezza_performance_portal"
 }

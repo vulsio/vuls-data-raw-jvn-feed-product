@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "29386",
-  "pname": "Deep Discovery",
-  "pcpe": "cpe:/a:trendmicro:deep_discovery"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "29386",
+	"pname": "Deep Discovery",
+	"pcpe": "cpe:/a:trendmicro:deep_discovery"
 }

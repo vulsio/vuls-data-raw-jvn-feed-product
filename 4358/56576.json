@@ -1,8 +1,8 @@
 {
-  "vid": "4358",
-  "vname": "Korenix Technology",
-  "vcpe": "cpe:/:korenix",
-  "pid": "56576",
-  "pname": "JetWave 2212S ファームウェア",
-  "pcpe": "cpe:/o:korenix:jetwave_2212s_firmware"
+	"vid": "4358",
+	"vname": "Korenix Technology",
+	"vcpe": "cpe:/:korenix",
+	"pid": "56576",
+	"pname": "JetWave 2212S ファームウェア",
+	"pcpe": "cpe:/o:korenix:jetwave_2212s_firmware"
 }

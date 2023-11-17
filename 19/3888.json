@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3888",
-  "pname": "Cisco Nexus 1000V ファームウェア",
-  "pcpe": "cpe:/o:cisco:nexus_1000v_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3888",
+	"pname": "Cisco Nexus 1000V ファームウェア",
+	"pcpe": "cpe:/o:cisco:nexus_1000v_firmware"
 }

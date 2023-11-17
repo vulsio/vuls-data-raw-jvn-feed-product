@@ -1,8 +1,8 @@
 {
-  "vid": "23242",
-  "vname": "WP Subtitle project",
-  "vcpe": "cpe:/:wp_subtitle_project",
-  "pid": "60226",
-  "pname": "WP Subtitle",
-  "pcpe": "cpe:/a:wp_subtitle_project:wp_subtitle"
+	"vid": "23242",
+	"vname": "WP Subtitle project",
+	"vcpe": "cpe:/:wp_subtitle_project",
+	"pid": "60226",
+	"pname": "WP Subtitle",
+	"pcpe": "cpe:/a:wp_subtitle_project:wp_subtitle"
 }

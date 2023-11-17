@@ -1,8 +1,8 @@
 {
-  "vid": "14313",
-  "vname": "sailsjs",
-  "vcpe": "cpe:/:sailsjs",
-  "pid": "58519",
-  "pname": "skipper",
-  "pcpe": "cpe:/a:sailsjs:skipper"
+	"vid": "14313",
+	"vname": "sailsjs",
+	"vcpe": "cpe:/:sailsjs",
+	"pid": "58519",
+	"pname": "skipper",
+	"pcpe": "cpe:/a:sailsjs:skipper"
 }

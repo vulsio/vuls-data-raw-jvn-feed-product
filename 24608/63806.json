@@ -1,8 +1,8 @@
 {
-  "vid": "24608",
-  "vname": "bricksbuilder",
-  "vcpe": "cpe:/:bricksbuilder",
-  "pid": "63806",
-  "pname": "bricks",
-  "pcpe": "cpe:/a:bricksbuilder:bricks"
+	"vid": "24608",
+	"vname": "bricksbuilder",
+	"vcpe": "cpe:/:bricksbuilder",
+	"pid": "63806",
+	"pname": "bricks",
+	"pcpe": "cpe:/a:bricksbuilder:bricks"
 }

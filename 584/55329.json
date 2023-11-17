@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "55329",
-  "pname": "SIPROTEC 5 6MD89 ファームウェア",
-  "pcpe": "cpe:/o:siemens:6md89_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "55329",
+	"pname": "SIPROTEC 5 6MD89 ファームウェア",
+	"pcpe": "cpe:/o:siemens:6md89_firmware"
 }

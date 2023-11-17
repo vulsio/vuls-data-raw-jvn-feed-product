@@ -1,8 +1,8 @@
 {
-  "vid": "9967",
-  "vname": "Shenzhen Tenda Technology Co.,Ltd.",
-  "vcpe": "cpe:/:tenda",
-  "pid": "60775",
-  "pname": "hg9 ファームウェア",
-  "pcpe": "cpe:/o:tenda:hg9_firmware"
+	"vid": "9967",
+	"vname": "Shenzhen Tenda Technology Co.,Ltd.",
+	"vcpe": "cpe:/:tenda",
+	"pid": "60775",
+	"pname": "hg9 ファームウェア",
+	"pcpe": "cpe:/o:tenda:hg9_firmware"
 }

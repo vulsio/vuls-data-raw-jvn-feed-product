@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17366",
-  "pname": "IBM WebSphere DataPower Service Gateway XG45",
-  "pcpe": "cpe:/h:ibm:websphere_datapower_service_gateway_xg45"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17366",
+	"pname": "IBM WebSphere DataPower Service Gateway XG45",
+	"pcpe": "cpe:/h:ibm:websphere_datapower_service_gateway_xg45"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20419",
-  "pname": "Tivoli Netcool Configuration Manager",
-  "pcpe": "cpe:/a:ibm:tivoli_netcool_configuration_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20419",
+	"pname": "Tivoli Netcool Configuration Manager",
+	"pcpe": "cpe:/a:ibm:tivoli_netcool_configuration_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12940",
-  "vname": "Elixir Plug",
-  "vcpe": "cpe:/:elixir-plug",
-  "pid": "29920",
-  "pname": "Plug",
-  "pcpe": "cpe:/a:elixir-plug:plug"
+	"vid": "12940",
+	"vname": "Elixir Plug",
+	"vcpe": "cpe:/:elixir-plug",
+	"pid": "29920",
+	"pname": "Plug",
+	"pcpe": "cpe:/a:elixir-plug:plug"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "59368",
-  "pname": "HP Color LaserJet MFP M478-M479 W1A77A ファームウェア",
-  "pcpe": "cpe:/o:hp:laserjet_pro_mfp_m478-m479_w1a77a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "59368",
+	"pname": "HP Color LaserJet MFP M478-M479 W1A77A ファームウェア",
+	"pcpe": "cpe:/o:hp:laserjet_pro_mfp_m478-m479_w1a77a_firmware"
 }

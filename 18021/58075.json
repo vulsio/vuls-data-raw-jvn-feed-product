@@ -1,8 +1,8 @@
 {
-  "vid": "18021",
-  "vname": "Western Digital",
-  "vcpe": "cpe:/:westerndigital",
-  "pid": "58075",
-  "pname": "wd cloud ファームウェア",
-  "pcpe": "cpe:/o:westerndigital:wd_cloud_firmware"
+	"vid": "18021",
+	"vname": "Western Digital",
+	"vcpe": "cpe:/:westerndigital",
+	"pid": "58075",
+	"pname": "wd cloud ファームウェア",
+	"pcpe": "cpe:/o:westerndigital:wd_cloud_firmware"
 }

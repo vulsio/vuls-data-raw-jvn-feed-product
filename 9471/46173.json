@@ -1,8 +1,8 @@
 {
-  "vid": "9471",
-  "vname": "Seowon Intech",
-  "vcpe": "cpe:/:seowon_intech",
-  "pid": "46173",
-  "pname": "SLR-120S ファームウェア",
-  "pcpe": "cpe:/o:seowon_intech:slr-120s_firmware"
+	"vid": "9471",
+	"vname": "Seowon Intech",
+	"vcpe": "cpe:/:seowon_intech",
+	"pid": "46173",
+	"pname": "SLR-120S ファームウェア",
+	"pcpe": "cpe:/o:seowon_intech:slr-120s_firmware"
 }

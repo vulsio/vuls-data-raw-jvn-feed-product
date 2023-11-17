@@ -1,8 +1,8 @@
 {
-  "vid": "24008",
-  "vname": "ARMemberplugin",
-  "vcpe": "cpe:/:armemberplugin",
-  "pid": "62098",
-  "pname": "ARMember",
-  "pcpe": "cpe:/a:armemberplugin:armember"
+	"vid": "24008",
+	"vname": "ARMemberplugin",
+	"vcpe": "cpe:/:armemberplugin",
+	"pid": "62098",
+	"pname": "ARMember",
+	"pcpe": "cpe:/a:armemberplugin:armember"
 }

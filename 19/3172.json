@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3172",
-  "pname": "Cisco Unified Presence Server",
-  "pcpe": "cpe:/a:cisco:unified_presence_server"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3172",
+	"pname": "Cisco Unified Presence Server",
+	"pcpe": "cpe:/a:cisco:unified_presence_server"
 }

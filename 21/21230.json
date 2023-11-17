@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "21230",
-  "pname": "Junos Pulse Client",
-  "pcpe": "cpe:/a:juniper:junos_pulse_client"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "21230",
+	"pname": "Junos Pulse Client",
+	"pcpe": "cpe:/a:juniper:junos_pulse_client"
 }

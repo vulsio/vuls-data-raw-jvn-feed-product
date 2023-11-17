@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "56952",
-  "pname": "IU Developer2",
-  "pcpe": "cpe:/a:mitsubishielectric:iu_developer2"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "56952",
+	"pname": "IU Developer2",
+	"pcpe": "cpe:/a:mitsubishielectric:iu_developer2"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11536",
-  "vname": "Jython Project",
-  "vcpe": "cpe:/:jython_project",
-  "pid": "23513",
-  "pname": "Jython",
-  "pcpe": "cpe:/a:jython_project:jython"
+	"vid": "11536",
+	"vname": "Jython Project",
+	"vcpe": "cpe:/:jython_project",
+	"pid": "23513",
+	"pname": "Jython",
+	"pcpe": "cpe:/a:jython_project:jython"
 }

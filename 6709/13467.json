@@ -1,8 +1,8 @@
 {
-  "vid": "6709",
-  "vname": "counterpane",
-  "vcpe": "cpe:/:counterpane",
-  "pid": "13467",
-  "pname": "passwordsafe",
-  "pcpe": "cpe:/a:counterpane:passwordsafe"
+	"vid": "6709",
+	"vname": "counterpane",
+	"vcpe": "cpe:/:counterpane",
+	"pid": "13467",
+	"pname": "passwordsafe",
+	"pcpe": "cpe:/a:counterpane:passwordsafe"
 }

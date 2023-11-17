@@ -1,8 +1,8 @@
 {
-  "vid": "13816",
-  "vname": "Reprise Software",
-  "vcpe": "cpe:/:reprisesoftware",
-  "pid": "32783",
-  "pname": "Reprise License Manager",
-  "pcpe": "cpe:/a:reprisesoftware:reprise_license_manager"
+	"vid": "13816",
+	"vname": "Reprise Software",
+	"vcpe": "cpe:/:reprisesoftware",
+	"pid": "32783",
+	"pname": "Reprise License Manager",
+	"pcpe": "cpe:/a:reprisesoftware:reprise_license_manager"
 }

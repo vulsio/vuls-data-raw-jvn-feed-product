@@ -1,8 +1,8 @@
 {
-  "vid": "15761",
-  "vname": "Open Systems AG",
-  "vcpe": "cpe:/:open",
-  "pid": "36731",
-  "pname": "log-user-session",
-  "pcpe": "cpe:/a:open:log-user-session"
+	"vid": "15761",
+	"vname": "Open Systems AG",
+	"vcpe": "cpe:/:open",
+	"pid": "36731",
+	"pname": "log-user-session",
+	"pcpe": "cpe:/a:open:log-user-session"
 }

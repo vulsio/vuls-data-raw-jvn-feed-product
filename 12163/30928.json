@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "30928",
-  "pname": "Pipeline: Input Step",
-  "pcpe": "cpe:/a:jenkins:pipeline-input-step"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "30928",
+	"pname": "Pipeline: Input Step",
+	"pcpe": "cpe:/a:jenkins:pipeline-input-step"
 }

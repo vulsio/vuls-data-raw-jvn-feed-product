@@ -1,8 +1,8 @@
 {
-  "vid": "9196",
-  "vname": "coliss",
-  "vcpe": "cpe:/:misc",
-  "pid": "18688",
-  "pname": "Page Scroller",
-  "pcpe": "cpe:/a:misc:coliss_page_scroller"
+	"vid": "9196",
+	"vname": "coliss",
+	"vcpe": "cpe:/:misc",
+	"pid": "18688",
+	"pname": "Page Scroller",
+	"pcpe": "cpe:/a:misc:coliss_page_scroller"
 }

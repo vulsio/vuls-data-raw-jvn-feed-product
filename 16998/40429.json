@@ -1,8 +1,8 @@
 {
-  "vid": "16998",
-  "vname": "SRTAlliance",
-  "vcpe": "cpe:/:srtalliance",
-  "pid": "40429",
-  "pname": "Secure Reliable Transport",
-  "pcpe": "cpe:/a:srtalliance:secure_reliable_transport"
+	"vid": "16998",
+	"vname": "SRTAlliance",
+	"vcpe": "cpe:/:srtalliance",
+	"pid": "40429",
+	"pname": "Secure Reliable Transport",
+	"pcpe": "cpe:/a:srtalliance:secure_reliable_transport"
 }

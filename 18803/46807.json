@@ -1,8 +1,8 @@
 {
-  "vid": "18803",
-  "vname": "barchart",
-  "vcpe": "cpe:/:barchart",
-  "pid": "46807",
-  "pname": "Maven Cascade Release",
-  "pcpe": "cpe:/a:barchart:maven_cascade_release"
+	"vid": "18803",
+	"vname": "barchart",
+	"vcpe": "cpe:/:barchart",
+	"pid": "46807",
+	"pname": "Maven Cascade Release",
+	"pcpe": "cpe:/a:barchart:maven_cascade_release"
 }

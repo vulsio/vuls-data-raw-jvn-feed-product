@@ -1,8 +1,8 @@
 {
-  "vid": "816",
-  "vname": "codefuture",
-  "vcpe": "cpe:/:codefuture",
-  "pid": "3237",
-  "pname": "CF Image Hosting Script",
-  "pcpe": "cpe:/a:codefuture:cf_image_hosting_script"
+	"vid": "816",
+	"vname": "codefuture",
+	"vcpe": "cpe:/:codefuture",
+	"pid": "3237",
+	"pname": "CF Image Hosting Script",
+	"pcpe": "cpe:/a:codefuture:cf_image_hosting_script"
 }

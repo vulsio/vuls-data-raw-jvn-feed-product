@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "48823",
-  "pname": "Loopback",
-  "pcpe": "cpe:/a:ibm:loopback"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "48823",
+	"pname": "Loopback",
+	"pcpe": "cpe:/a:ibm:loopback"
 }

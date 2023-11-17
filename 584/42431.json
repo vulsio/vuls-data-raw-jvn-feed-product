@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "42431",
-  "pname": "PXA40-W1 ファームウェア",
-  "pcpe": "cpe:/o:siemens:pxa40-w1_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "42431",
+	"pname": "PXA40-W1 ファームウェア",
+	"pcpe": "cpe:/o:siemens:pxa40-w1_firmware"
 }

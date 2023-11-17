@@ -1,8 +1,8 @@
 {
-  "vid": "16326",
-  "vname": "Cerner Corporation.",
-  "vcpe": "cpe:/:cerner",
-  "pid": "52369",
-  "pname": "Mobile Care",
-  "pcpe": "cpe:/a:cerner:mobile_care"
+	"vid": "16326",
+	"vname": "Cerner Corporation.",
+	"vcpe": "cpe:/:cerner",
+	"pid": "52369",
+	"pname": "Mobile Care",
+	"pcpe": "cpe:/a:cerner:mobile_care"
 }

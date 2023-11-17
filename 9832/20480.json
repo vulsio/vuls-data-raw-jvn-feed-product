@@ -1,8 +1,8 @@
 {
-  "vid": "9832",
-  "vname": "beamnote.com",
-  "vcpe": "cpe:/:wp_microblogs_project",
-  "pid": "20480",
-  "pname": "WP Microblogs",
-  "pcpe": "cpe:/a:wp_microblogs_project:wp_microblogs"
+	"vid": "9832",
+	"vname": "beamnote.com",
+	"vcpe": "cpe:/:wp_microblogs_project",
+	"pid": "20480",
+	"pname": "WP Microblogs",
+	"pcpe": "cpe:/a:wp_microblogs_project:wp_microblogs"
 }

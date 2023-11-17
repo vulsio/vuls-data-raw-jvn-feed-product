@@ -1,8 +1,8 @@
 {
-  "vid": "12203",
-  "vname": "Nextcloud",
-  "vcpe": "cpe:/:nextcloud",
-  "pid": "61991",
-  "pname": "mail",
-  "pcpe": "cpe:/a:nextcloud:mail"
+	"vid": "12203",
+	"vname": "Nextcloud",
+	"vcpe": "cpe:/:nextcloud",
+	"pid": "61991",
+	"pname": "mail",
+	"pcpe": "cpe:/a:nextcloud:mail"
 }

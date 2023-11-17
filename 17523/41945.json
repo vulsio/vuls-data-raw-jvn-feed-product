@@ -1,8 +1,8 @@
 {
-  "vid": "17523",
-  "vname": "Hisense",
-  "vcpe": "cpe:/:hisense",
-  "pid": "41945",
-  "pname": "INFINITY U965 ファームウェア",
-  "pcpe": "cpe:/o:hisense:infinity_u965_firmware"
+	"vid": "17523",
+	"vname": "Hisense",
+	"vcpe": "cpe:/:hisense",
+	"pid": "41945",
+	"pname": "INFINITY U965 ファームウェア",
+	"pcpe": "cpe:/o:hisense:infinity_u965_firmware"
 }

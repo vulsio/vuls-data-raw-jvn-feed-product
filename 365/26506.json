@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "26506",
-  "pname": "MDX Toolkit",
-  "pcpe": "cpe:/a:citrix:xenmobile_mdx_toolkit"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "26506",
+	"pname": "MDX Toolkit",
+	"pcpe": "cpe:/a:citrix:xenmobile_mdx_toolkit"
 }

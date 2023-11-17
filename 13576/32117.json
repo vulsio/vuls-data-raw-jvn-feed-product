@@ -1,8 +1,8 @@
 {
-  "vid": "13576",
-  "vname": "Wachipi",
-  "vcpe": "cpe:/:wp_events_calendar_project",
-  "pid": "32117",
-  "pname": "WP Events Calendar",
-  "pcpe": "cpe:/a:wp_events_calendar_project:wp_events_calendar"
+	"vid": "13576",
+	"vname": "Wachipi",
+	"vcpe": "cpe:/:wp_events_calendar_project",
+	"pid": "32117",
+	"pname": "WP Events Calendar",
+	"pcpe": "cpe:/a:wp_events_calendar_project:wp_events_calendar"
 }

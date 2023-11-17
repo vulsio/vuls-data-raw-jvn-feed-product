@@ -1,8 +1,8 @@
 {
-  "vid": "15978",
-  "vname": "Silicon Labs, Inc.",
-  "vcpe": "cpe:/:silabs",
-  "pid": "59642",
-  "pname": "sd3503 ファームウェア",
-  "pcpe": "cpe:/o:silabs:sd3503_firmware"
+	"vid": "15978",
+	"vname": "Silicon Labs, Inc.",
+	"vcpe": "cpe:/:silabs",
+	"pid": "59642",
+	"pname": "sd3503 ファームウェア",
+	"pcpe": "cpe:/o:silabs:sd3503_firmware"
 }

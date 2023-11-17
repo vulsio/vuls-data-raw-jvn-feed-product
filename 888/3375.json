@@ -1,8 +1,8 @@
 {
-  "vid": "888",
-  "vname": "Automattic Inc.",
-  "vcpe": "cpe:/:automattic",
-  "pid": "3375",
-  "pname": "Jetpack",
-  "pcpe": "cpe:/a:automattic:jetpack"
+	"vid": "888",
+	"vname": "Automattic Inc.",
+	"vcpe": "cpe:/:automattic",
+	"pid": "3375",
+	"pname": "Jetpack",
+	"pcpe": "cpe:/a:automattic:jetpack"
 }

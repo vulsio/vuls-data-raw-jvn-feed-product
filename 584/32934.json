@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "32934",
-  "pname": "EN100 Ethernet モジュール DNP3 ファームウェア",
-  "pcpe": "cpe:/o:siemens:en100_ethernet_module_dnp3_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "32934",
+	"pname": "EN100 Ethernet モジュール DNP3 ファームウェア",
+	"pcpe": "cpe:/o:siemens:en100_ethernet_module_dnp3_firmware"
 }

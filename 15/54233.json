@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "54233",
-  "pname": "Oracle Financial Services Crime and Compliance Management Studio",
-  "pcpe": "cpe:/a:oracle:financial_services_crime_and_compliance_management_studio"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "54233",
+	"pname": "Oracle Financial Services Crime and Compliance Management Studio",
+	"pcpe": "cpe:/a:oracle:financial_services_crime_and_compliance_management_studio"
 }

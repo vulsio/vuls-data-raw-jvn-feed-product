@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "39565",
-  "pname": "Oracle Food and Beverage",
-  "pcpe": "cpe:/a:oracle:food_and_beverage_applications"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "39565",
+	"pname": "Oracle Food and Beverage",
+	"pcpe": "cpe:/a:oracle:food_and_beverage_applications"
 }

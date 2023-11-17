@@ -1,8 +1,8 @@
 {
-  "vid": "1107",
-  "vname": "Xiaomi",
-  "vcpe": "cpe:/:xiaomi",
-  "pid": "43693",
-  "pname": "MIUI ファームウェア",
-  "pcpe": "cpe:/o:xiaomi:miui_firmware"
+	"vid": "1107",
+	"vname": "Xiaomi",
+	"vcpe": "cpe:/:xiaomi",
+	"pid": "43693",
+	"pname": "MIUI ファームウェア",
+	"pcpe": "cpe:/o:xiaomi:miui_firmware"
 }

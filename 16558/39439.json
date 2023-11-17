@@ -1,8 +1,8 @@
 {
-  "vid": "16558",
-  "vname": "SWIFT",
-  "vcpe": "cpe:/:swift",
-  "pid": "39439",
-  "pname": "Alliance Web Platform",
-  "pcpe": "cpe:/a:swift:alliance_web_platform"
+	"vid": "16558",
+	"vname": "SWIFT",
+	"vcpe": "cpe:/:swift",
+	"pid": "39439",
+	"pname": "Alliance Web Platform",
+	"pcpe": "cpe:/a:swift:alliance_web_platform"
 }

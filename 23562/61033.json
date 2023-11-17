@@ -1,8 +1,8 @@
 {
-  "vid": "23562",
-  "vname": "openssh key parser project",
-  "vcpe": "cpe:/:openssh_key_parser_project",
-  "pid": "61033",
-  "pname": "openssh key parser",
-  "pcpe": "cpe:/a:openssh_key_parser_project:openssh_key_parser"
+	"vid": "23562",
+	"vname": "openssh key parser project",
+	"vcpe": "cpe:/:openssh_key_parser_project",
+	"pid": "61033",
+	"pname": "openssh key parser",
+	"pcpe": "cpe:/a:openssh_key_parser_project:openssh_key_parser"
 }

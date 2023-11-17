@@ -1,8 +1,8 @@
 {
-  "vid": "9783",
-  "vname": "Synametrics Technologies",
-  "vcpe": "cpe:/:synametrics",
-  "pid": "35988",
-  "pname": "SynaMan",
-  "pcpe": "cpe:/a:synametrics:synaman"
+	"vid": "9783",
+	"vname": "Synametrics Technologies",
+	"vcpe": "cpe:/:synametrics",
+	"pid": "35988",
+	"pname": "SynaMan",
+	"pcpe": "cpe:/a:synametrics:synaman"
 }

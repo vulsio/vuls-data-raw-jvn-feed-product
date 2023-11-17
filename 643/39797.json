@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "39797",
-  "pname": "Dell G3 3779 ファームウェア",
-  "pcpe": "cpe:/o:dell:g3_3779_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "39797",
+	"pname": "Dell G3 3779 ファームウェア",
+	"pcpe": "cpe:/o:dell:g3_3779_firmware"
 }

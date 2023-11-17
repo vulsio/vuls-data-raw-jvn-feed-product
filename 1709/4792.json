@@ -1,8 +1,8 @@
 {
-  "vid": "1709",
-  "vname": "Shibboleth",
-  "vcpe": "cpe:/:shibboleth",
-  "pid": "4792",
-  "pname": "OpenSAML",
-  "pcpe": "cpe:/a:shibboleth:opensaml"
+	"vid": "1709",
+	"vname": "Shibboleth",
+	"vcpe": "cpe:/:shibboleth",
+	"pid": "4792",
+	"pname": "OpenSAML",
+	"pcpe": "cpe:/a:shibboleth:opensaml"
 }

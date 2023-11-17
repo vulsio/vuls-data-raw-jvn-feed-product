@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19026",
-  "pname": "IBM DB2 pureScale Feature",
-  "pcpe": "cpe:/a:ibm:db2_purescale_feature_9.8"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19026",
+	"pname": "IBM DB2 pureScale Feature",
+	"pcpe": "cpe:/a:ibm:db2_purescale_feature_9.8"
 }

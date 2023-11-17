@@ -1,8 +1,8 @@
 {
-  "vid": "22549",
-  "vname": "My YouTube Channel project",
-  "vcpe": "cpe:/:my_youtube_channel_project",
-  "pid": "58031",
-  "pname": "My YouTube Channel",
-  "pcpe": "cpe:/a:my_youtube_channel_project:my_youtube_channel"
+	"vid": "22549",
+	"vname": "My YouTube Channel project",
+	"vcpe": "cpe:/:my_youtube_channel_project",
+	"pid": "58031",
+	"pname": "My YouTube Channel",
+	"pcpe": "cpe:/a:my_youtube_channel_project:my_youtube_channel"
 }

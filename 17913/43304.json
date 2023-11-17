@@ -1,8 +1,8 @@
 {
-  "vid": "17913",
-  "vname": "Iteris, Inc.",
-  "vcpe": "cpe:/:iteris",
-  "pid": "43304",
-  "pname": "Vantage Velocity ファームウェア",
-  "pcpe": "cpe:/o:iteris:vantage_velocity_firmware"
+	"vid": "17913",
+	"vname": "Iteris, Inc.",
+	"vcpe": "cpe:/:iteris",
+	"pid": "43304",
+	"pname": "Vantage Velocity ファームウェア",
+	"pcpe": "cpe:/o:iteris:vantage_velocity_firmware"
 }

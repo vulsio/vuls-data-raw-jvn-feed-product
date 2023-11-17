@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "57349",
-  "pname": "Inspiron 3515 ファームウェア",
-  "pcpe": "cpe:/o:dell:inspiron_3515_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "57349",
+	"pname": "Inspiron 3515 ファームウェア",
+	"pcpe": "cpe:/o:dell:inspiron_3515_firmware"
 }

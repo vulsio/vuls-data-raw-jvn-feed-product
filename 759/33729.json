@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "33729",
-  "pname": "PACSystems RXi ファームウェア",
-  "pcpe": "cpe:/o:ge:pacsystems_rxi_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "33729",
+	"pname": "PACSystems RXi ファームウェア",
+	"pcpe": "cpe:/o:ge:pacsystems_rxi_firmware"
 }

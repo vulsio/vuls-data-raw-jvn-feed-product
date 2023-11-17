@@ -1,8 +1,8 @@
 {
-  "vid": "6615",
-  "vname": "CiviCRM",
-  "vcpe": "cpe:/:civicrm",
-  "pid": "13270",
-  "pname": "CiviCRM",
-  "pcpe": "cpe:/a:civicrm:civicrm"
+	"vid": "6615",
+	"vname": "CiviCRM",
+	"vcpe": "cpe:/:civicrm",
+	"pid": "13270",
+	"pname": "CiviCRM",
+	"pcpe": "cpe:/a:civicrm:civicrm"
 }

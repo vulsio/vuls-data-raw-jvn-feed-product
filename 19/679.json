@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "679",
-  "pname": "Cisco Aironet 350 シリーズ",
-  "pcpe": "cpe:/h:cisco:aironet"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "679",
+	"pname": "Cisco Aironet 350 シリーズ",
+	"pcpe": "cpe:/h:cisco:aironet"
 }

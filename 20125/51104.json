@@ -1,8 +1,8 @@
 {
-  "vid": "20125",
-  "vname": "Bently Nevada",
-  "vcpe": "cpe:/:misc",
-  "pid": "51104",
-  "pname": "3500 Rack Configuration",
-  "pcpe": "cpe:/a:misc:bently_nevada_3500_rack_configuration"
+	"vid": "20125",
+	"vname": "Bently Nevada",
+	"vcpe": "cpe:/:misc",
+	"pid": "51104",
+	"pname": "3500 Rack Configuration",
+	"pcpe": "cpe:/a:misc:bently_nevada_3500_rack_configuration"
 }

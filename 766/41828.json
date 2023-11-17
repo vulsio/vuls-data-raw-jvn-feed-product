@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "41828",
-  "pname": "BMX NOC 0401 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:bmx_noc_0401_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "41828",
+	"pname": "BMX NOC 0401 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:bmx_noc_0401_firmware"
 }

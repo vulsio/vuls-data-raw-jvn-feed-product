@@ -1,8 +1,8 @@
 {
-  "vid": "22537",
-  "vname": "node-ipc project",
-  "vcpe": "cpe:/:node-ipc_project",
-  "pid": "58006",
-  "pname": "node-ipc",
-  "pcpe": "cpe:/a:node-ipc_project:node-ipc"
+	"vid": "22537",
+	"vname": "node-ipc project",
+	"vcpe": "cpe:/:node-ipc_project",
+	"pid": "58006",
+	"pname": "node-ipc",
+	"pcpe": "cpe:/a:node-ipc_project:node-ipc"
 }

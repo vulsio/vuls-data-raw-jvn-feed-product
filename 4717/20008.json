@@ -1,8 +1,8 @@
 {
-  "vid": "4717",
-  "vname": "Ignite Realtime",
-  "vcpe": "cpe:/:igniterealtime",
-  "pid": "20008",
-  "pname": "Smack API",
-  "pcpe": "cpe:/a:igniterealtime:smack"
+	"vid": "4717",
+	"vname": "Ignite Realtime",
+	"vcpe": "cpe:/:igniterealtime",
+	"pid": "20008",
+	"pname": "Smack API",
+	"pcpe": "cpe:/a:igniterealtime:smack"
 }

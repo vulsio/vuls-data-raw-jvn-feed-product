@@ -1,8 +1,8 @@
 {
-  "vid": "10075",
-  "vname": "Tomsk Inc.",
-  "vcpe": "cpe:/:deskroll",
-  "pid": "21110",
-  "pname": "DeskRoll Remote Desktop",
-  "pcpe": "cpe:/a:deskroll:deskroll_remote_desktop"
+	"vid": "10075",
+	"vname": "Tomsk Inc.",
+	"vcpe": "cpe:/:deskroll",
+	"pid": "21110",
+	"pname": "DeskRoll Remote Desktop",
+	"pcpe": "cpe:/a:deskroll:deskroll_remote_desktop"
 }

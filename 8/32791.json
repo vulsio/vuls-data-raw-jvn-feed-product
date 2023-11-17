@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "32791",
-  "pname": "Oozie",
-  "pcpe": "cpe:/a:apache:oozie"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "32791",
+	"pname": "Oozie",
+	"pcpe": "cpe:/a:apache:oozie"
 }

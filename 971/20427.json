@@ -1,8 +1,8 @@
 {
-  "vid": "971",
-  "vname": "The Cacti Group",
-  "vcpe": "cpe:/:cacti",
-  "pid": "20427",
-  "pname": "superlinks",
-  "pcpe": "cpe:/a:cacti:superlinks"
+	"vid": "971",
+	"vname": "The Cacti Group",
+	"vcpe": "cpe:/:cacti",
+	"pid": "20427",
+	"pname": "superlinks",
+	"pcpe": "cpe:/a:cacti:superlinks"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "16973",
-  "pname": "WebSphere Cast Iron Cloud インテグレーション 物理アプライアンス",
-  "pcpe": "cpe:/h:ibm:webshere_cast_iron_cloud_integration"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "16973",
+	"pname": "WebSphere Cast Iron Cloud インテグレーション 物理アプライアンス",
+	"pcpe": "cpe:/h:ibm:webshere_cast_iron_cloud_integration"
 }

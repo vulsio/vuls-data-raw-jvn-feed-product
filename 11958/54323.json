@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "54323",
-  "pname": "マシンオートメーションコントローラ NJ シリーズ",
-  "pcpe": "cpe:/a:omron:machine_automation_controller_nj_series"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "54323",
+	"pname": "マシンオートメーションコントローラ NJ シリーズ",
+	"pcpe": "cpe:/a:omron:machine_automation_controller_nj_series"
 }

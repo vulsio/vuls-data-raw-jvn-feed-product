@@ -1,8 +1,8 @@
 {
-  "vid": "11850",
-  "vname": "The eXtensible Catalog Drupal Toolkit project",
-  "vcpe": "cpe:/:the_extensible_catalog_drupal_toolkit_project",
-  "pid": "24653",
-  "pname": "The eXtensible Catalog (XC) Drupal Toolkit",
-  "pcpe": "cpe:/a:the_extensible_catalog_drupal_toolkit_project:the_extensible_catalog_drupal_toolkit"
+	"vid": "11850",
+	"vname": "The eXtensible Catalog Drupal Toolkit project",
+	"vcpe": "cpe:/:the_extensible_catalog_drupal_toolkit_project",
+	"pid": "24653",
+	"pname": "The eXtensible Catalog (XC) Drupal Toolkit",
+	"pcpe": "cpe:/a:the_extensible_catalog_drupal_toolkit_project:the_extensible_catalog_drupal_toolkit"
 }

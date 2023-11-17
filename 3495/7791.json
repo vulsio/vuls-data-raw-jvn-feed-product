@@ -1,8 +1,8 @@
 {
-  "vid": "3495",
-  "vname": "emule",
-  "vcpe": "cpe:/:emule",
-  "pid": "7791",
-  "pname": "emule plus",
-  "pcpe": "cpe:/a:emule:emule_plus"
+	"vid": "3495",
+	"vname": "emule",
+	"vcpe": "cpe:/:emule",
+	"pid": "7791",
+	"pname": "emule plus",
+	"pcpe": "cpe:/a:emule:emule_plus"
 }

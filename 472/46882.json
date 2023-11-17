@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "46882",
-  "pname": "1734-AENTR",
-  "pcpe": "cpe:/a:rockwellautomation:1734-aentr"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "46882",
+	"pname": "1734-AENTR",
+	"pcpe": "cpe:/a:rockwellautomation:1734-aentr"
 }

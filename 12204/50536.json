@@ -1,8 +1,8 @@
 {
-  "vid": "12204",
-  "vname": "Trane",
-  "vcpe": "cpe:/:trane",
-  "pid": "50536",
-  "pname": "Symbio 700",
-  "pcpe": "cpe:/a:trane:symbio_700"
+	"vid": "12204",
+	"vname": "Trane",
+	"vcpe": "cpe:/:trane",
+	"pid": "50536",
+	"pname": "Symbio 700",
+	"pcpe": "cpe:/a:trane:symbio_700"
 }

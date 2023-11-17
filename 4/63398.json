@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63398",
-  "pname": "HP OfficeJet 5232 All-in-One Printer M2U84B ファームウェア",
-  "pcpe": "cpe:/o:hp:m2u84b_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63398",
+	"pname": "HP OfficeJet 5232 All-in-One Printer M2U84B ファームウェア",
+	"pcpe": "cpe:/o:hp:m2u84b_firmware"
 }

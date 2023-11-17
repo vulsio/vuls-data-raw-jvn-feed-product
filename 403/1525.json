@@ -1,8 +1,8 @@
 {
-  "vid": "403",
-  "vname": "Redmine",
-  "vcpe": "cpe:/:redmine",
-  "pid": "1525",
-  "pname": "Redmine",
-  "pcpe": "cpe:/a:redmine:redmine"
+	"vid": "403",
+	"vname": "Redmine",
+	"vcpe": "cpe:/:redmine",
+	"pid": "1525",
+	"pname": "Redmine",
+	"pcpe": "cpe:/a:redmine:redmine"
 }

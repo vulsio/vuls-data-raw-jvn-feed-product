@@ -1,8 +1,8 @@
 {
-  "vid": "13105",
-  "vname": "RTPProxy",
-  "vcpe": "cpe:/:rtpproxy",
-  "pid": "30545",
-  "pname": "RTPProxy",
-  "pcpe": "cpe:/a:rtpproxy:rtpproxy"
+	"vid": "13105",
+	"vname": "RTPProxy",
+	"vcpe": "cpe:/:rtpproxy",
+	"pid": "30545",
+	"pname": "RTPProxy",
+	"pcpe": "cpe:/a:rtpproxy:rtpproxy"
 }

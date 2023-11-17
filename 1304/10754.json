@@ -1,8 +1,8 @@
 {
-  "vid": "1304",
-  "vname": "カスペルスキー",
-  "vcpe": "cpe:/:kaspersky",
-  "pid": "10754",
-  "pname": "Kaspersky Internet Security suite",
-  "pcpe": "cpe:/a:kaspersky:kaspersky_internet_security_suite"
+	"vid": "1304",
+	"vname": "カスペルスキー",
+	"vcpe": "cpe:/:kaspersky",
+	"pid": "10754",
+	"pname": "Kaspersky Internet Security suite",
+	"pcpe": "cpe:/a:kaspersky:kaspersky_internet_security_suite"
 }

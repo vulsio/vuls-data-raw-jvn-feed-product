@@ -1,8 +1,8 @@
 {
-  "vid": "9617",
-  "vname": "Festo",
-  "vcpe": "cpe:/:festo",
-  "pid": "60106",
-  "pname": "controller cecc-x-m1-mv-s1 ファームウェア",
-  "pcpe": "cpe:/o:festo:controller_cecc-x-m1-mv-s1_firmware"
+	"vid": "9617",
+	"vname": "Festo",
+	"vcpe": "cpe:/:festo",
+	"pid": "60106",
+	"pname": "controller cecc-x-m1-mv-s1 ファームウェア",
+	"pcpe": "cpe:/o:festo:controller_cecc-x-m1-mv-s1_firmware"
 }

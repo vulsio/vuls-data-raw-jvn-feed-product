@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "37119",
-  "pname": "VS960HD",
-  "pcpe": "cpe:/a:synology:vs960hd"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "37119",
+	"pname": "VS960HD",
+	"pcpe": "cpe:/a:synology:vs960hd"
 }

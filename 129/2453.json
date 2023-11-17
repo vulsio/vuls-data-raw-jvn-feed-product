@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2453",
-  "pname": "JP1/Performance Analysis",
-  "pcpe": "cpe:/a:hitachi:jp1_performance_analysis"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2453",
+	"pname": "JP1/Performance Analysis",
+	"pcpe": "cpe:/a:hitachi:jp1_performance_analysis"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "33123",
-  "pname": "Silk",
-  "pcpe": "cpe:/a:cloud_foundry:silk_cni"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "33123",
+	"pname": "Silk",
+	"pcpe": "cpe:/a:cloud_foundry:silk_cni"
 }

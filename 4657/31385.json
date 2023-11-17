@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31385",
-  "pname": "Victoria-AL00A",
-  "pcpe": "cpe:/a:huawei:victoria-al00a"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31385",
+	"pname": "Victoria-AL00A",
+	"pcpe": "cpe:/a:huawei:victoria-al00a"
 }

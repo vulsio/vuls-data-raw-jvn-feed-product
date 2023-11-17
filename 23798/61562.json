@@ -1,8 +1,8 @@
 {
-  "vid": "23798",
-  "vname": "eXo Platform",
-  "vcpe": "cpe:/:exoplatform",
-  "pid": "61562",
-  "pname": "Chat Application",
-  "pcpe": "cpe:/a:exoplatform:chat_application"
+	"vid": "23798",
+	"vname": "eXo Platform",
+	"vcpe": "cpe:/:exoplatform",
+	"pid": "61562",
+	"pname": "Chat Application",
+	"pcpe": "cpe:/a:exoplatform:chat_application"
 }

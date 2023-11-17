@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "4593",
-  "pname": "windows azure sdk",
-  "pcpe": "cpe:/a:microsoft:windows_azure_sdk"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "4593",
+	"pname": "windows azure sdk",
+	"pcpe": "cpe:/a:microsoft:windows_azure_sdk"
 }

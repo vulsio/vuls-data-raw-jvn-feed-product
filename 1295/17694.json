@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "17694",
-  "pname": "FortiGate-800C",
-  "pcpe": "cpe:/h:fortinet:fortigate-800c"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "17694",
+	"pname": "FortiGate-800C",
+	"pcpe": "cpe:/h:fortinet:fortigate-800c"
 }

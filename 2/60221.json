@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "60221",
-  "pname": "Visual Studio 2010 Tools for Office Runtime",
-  "pcpe": "cpe:/a:microsoft:visual_studio_2010_tools_for_office_runtime"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "60221",
+	"pname": "Visual Studio 2010 Tools for Office Runtime",
+	"pcpe": "cpe:/a:microsoft:visual_studio_2010_tools_for_office_runtime"
 }

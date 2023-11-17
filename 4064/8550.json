@@ -1,8 +1,8 @@
 {
-  "vid": "4064",
-  "vname": "grok developments",
-  "vcpe": "cpe:/:grok_developments",
-  "pid": "8550",
-  "pname": "netproxy",
-  "pcpe": "cpe:/a:grok_developments:netproxy"
+	"vid": "4064",
+	"vname": "grok developments",
+	"vcpe": "cpe:/:grok_developments",
+	"pid": "8550",
+	"pname": "netproxy",
+	"pcpe": "cpe:/a:grok_developments:netproxy"
 }

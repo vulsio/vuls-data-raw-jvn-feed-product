@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "8895",
-  "pname": "unified ip conference station 7935",
-  "pcpe": "cpe:/o:cisco:unified_ip_conference_station_7935"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "8895",
+	"pname": "unified ip conference station 7935",
+	"pcpe": "cpe:/o:cisco:unified_ip_conference_station_7935"
 }

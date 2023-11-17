@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "51673",
-  "pname": "Oracle Agile PLM",
-  "pcpe": "cpe:/a:oracle:agile_plm"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "51673",
+	"pname": "Oracle Agile PLM",
+	"pcpe": "cpe:/a:oracle:agile_plm"
 }

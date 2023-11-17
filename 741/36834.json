@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "36834",
-  "pname": "DIR-809 A2 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dir-809_a2_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "36834",
+	"pname": "DIR-809 A2 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dir-809_a2_firmware"
 }

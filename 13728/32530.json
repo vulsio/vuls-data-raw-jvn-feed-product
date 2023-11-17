@@ -1,8 +1,8 @@
 {
-  "vid": "13728",
-  "vname": "SAIFOR",
-  "vcpe": "cpe:/:saifor",
-  "pid": "32530",
-  "pname": "Saifor CVMS HUB",
-  "pcpe": "cpe:/a:saifor:cvms_hub"
+	"vid": "13728",
+	"vname": "SAIFOR",
+	"vcpe": "cpe:/:saifor",
+	"pid": "32530",
+	"pname": "Saifor CVMS HUB",
+	"pcpe": "cpe:/a:saifor:cvms_hub"
 }

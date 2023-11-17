@@ -1,8 +1,8 @@
 {
-  "vid": "16231",
-  "vname": "Baxter",
-  "vcpe": "cpe:/:baxter",
-  "pid": "45569",
-  "pname": "Phoenix X36 ファームウェア",
-  "pcpe": "cpe:/o:baxter:phoenix_x36_firmware"
+	"vid": "16231",
+	"vname": "Baxter",
+	"vcpe": "cpe:/:baxter",
+	"pid": "45569",
+	"pname": "Phoenix X36 ファームウェア",
+	"pcpe": "cpe:/o:baxter:phoenix_x36_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11656",
-  "vname": "Amazon AWS project",
-  "vcpe": "cpe:/:amazon_aws_project",
-  "pid": "23937",
-  "pname": "Amazon AWS",
-  "pcpe": "cpe:/a:amazon_aws_project:amazon_aws"
+	"vid": "11656",
+	"vname": "Amazon AWS project",
+	"vcpe": "cpe:/:amazon_aws_project",
+	"pid": "23937",
+	"pname": "Amazon AWS",
+	"pcpe": "cpe:/a:amazon_aws_project:amazon_aws"
 }

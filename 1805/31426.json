@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31426",
-  "pname": "TL-WAR2600L ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-war2600l_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31426",
+	"pname": "TL-WAR2600L ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-war2600l_firmware"
 }

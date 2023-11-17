@@ -1,8 +1,8 @@
 {
-  "vid": "9611",
-  "vname": "PaperCut Software International Pty",
-  "vcpe": "cpe:/:papercut",
-  "pid": "19960",
-  "pname": "PaperCut NG",
-  "pcpe": "cpe:/a:papercut:papercut_ng"
+	"vid": "9611",
+	"vname": "PaperCut Software International Pty",
+	"vcpe": "cpe:/:papercut",
+	"pid": "19960",
+	"pname": "PaperCut NG",
+	"pcpe": "cpe:/a:papercut:papercut_ng"
 }

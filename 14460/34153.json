@@ -1,8 +1,8 @@
 {
-  "vid": "14460",
-  "vname": "dcserver project",
-  "vcpe": "cpe:/:dcserver_project",
-  "pid": "34153",
-  "pname": "dcserver",
-  "pcpe": "cpe:/a:dcserver_project:dcserver"
+	"vid": "14460",
+	"vname": "dcserver project",
+	"vcpe": "cpe:/:dcserver_project",
+	"pid": "34153",
+	"pname": "dcserver",
+	"pcpe": "cpe:/a:dcserver_project:dcserver"
 }

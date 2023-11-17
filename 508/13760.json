@@ -1,8 +1,8 @@
 {
-  "vid": "508",
-  "vname": "PHPNUKE",
-  "vcpe": "cpe:/:phpnuke",
-  "pid": "13760",
-  "pname": "4nchat",
-  "pcpe": "cpe:/a:phpnuke:4nchat"
+	"vid": "508",
+	"vname": "PHPNUKE",
+	"vcpe": "cpe:/:phpnuke",
+	"pid": "13760",
+	"pname": "4nchat",
+	"pcpe": "cpe:/a:phpnuke:4nchat"
 }

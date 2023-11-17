@@ -1,8 +1,8 @@
 {
-  "vid": "573",
-  "vname": "Foxit Software Inc",
-  "vcpe": "cpe:/:foxitsoftware",
-  "pid": "16858",
-  "pname": "Foxit Advanced PDF Editor",
-  "pcpe": "cpe:/a:foxitsoftware:foxit_advanced_pdf_editor"
+	"vid": "573",
+	"vname": "Foxit Software Inc",
+	"vcpe": "cpe:/:foxitsoftware",
+	"pid": "16858",
+	"pname": "Foxit Advanced PDF Editor",
+	"pcpe": "cpe:/a:foxitsoftware:foxit_advanced_pdf_editor"
 }

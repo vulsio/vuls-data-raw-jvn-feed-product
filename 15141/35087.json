@@ -1,8 +1,8 @@
 {
-  "vid": "15141",
-  "vname": "CloutToken project",
-  "vcpe": "cpe:/:clouttoken_project",
-  "pid": "35087",
-  "pname": "CloutToken",
-  "pcpe": "cpe:/a:clouttoken_project:clouttoken"
+	"vid": "15141",
+	"vname": "CloutToken project",
+	"vcpe": "cpe:/:clouttoken_project",
+	"pid": "35087",
+	"pname": "CloutToken",
+	"pcpe": "cpe:/a:clouttoken_project:clouttoken"
 }

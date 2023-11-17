@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "31739",
-  "pname": "AirWatch Console",
-  "pcpe": "cpe:/a:vmware:airwatch_console"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "31739",
+	"pname": "AirWatch Console",
+	"pcpe": "cpe:/a:vmware:airwatch_console"
 }

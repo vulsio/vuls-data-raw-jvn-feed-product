@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "5232",
-  "pname": "VAIO Wireless Wizard",
-  "pcpe": "cpe:/a:sony:vaio_wireless_wizard"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "5232",
+	"pname": "VAIO Wireless Wizard",
+	"pcpe": "cpe:/a:sony:vaio_wireless_wizard"
 }

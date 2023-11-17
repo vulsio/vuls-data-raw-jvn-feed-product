@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "21597",
-  "pname": "Cisco UCS B200 M3 ブレード サーバ",
-  "pcpe": "cpe:/h:cisco:b200_m3"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "21597",
+	"pname": "Cisco UCS B200 M3 ブレード サーバ",
+	"pcpe": "cpe:/h:cisco:b200_m3"
 }

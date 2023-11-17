@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "35532",
-  "pname": "Shelve Project",
-  "pcpe": "cpe:/a:jenkins:shelve_project"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "35532",
+	"pname": "Shelve Project",
+	"pcpe": "cpe:/a:jenkins:shelve_project"
 }

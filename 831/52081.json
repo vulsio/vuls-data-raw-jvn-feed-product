@@ -1,8 +1,8 @@
 {
-  "vid": "831",
-  "vname": "VideoWhisper.com",
-  "vcpe": "cpe:/:videowhisper",
-  "pid": "52081",
-  "pname": "2Way VideoCalls and Random Chat",
-  "pcpe": "cpe:/a:videowhisper:2way_videocalls_and_random_chat"
+	"vid": "831",
+	"vname": "VideoWhisper.com",
+	"vcpe": "cpe:/:videowhisper",
+	"pid": "52081",
+	"pname": "2Way VideoCalls and Random Chat",
+	"pcpe": "cpe:/a:videowhisper:2way_videocalls_and_random_chat"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19365",
-  "vname": "VIGRA Computer Vision Library project",
-  "vcpe": "cpe:/:vigra_computer_vision_library_project",
-  "pid": "48766",
-  "pname": "VIGRA Computer Vision Library",
-  "pcpe": "cpe:/a:vigra_computer_vision_library_project:vigra_computer_vision_library"
+	"vid": "19365",
+	"vname": "VIGRA Computer Vision Library project",
+	"vcpe": "cpe:/:vigra_computer_vision_library_project",
+	"pid": "48766",
+	"pname": "VIGRA Computer Vision Library",
+	"pcpe": "cpe:/a:vigra_computer_vision_library_project:vigra_computer_vision_library"
 }

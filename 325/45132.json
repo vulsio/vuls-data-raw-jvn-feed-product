@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45132",
-  "pname": "ThinkPad A475 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_a475_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45132",
+	"pname": "ThinkPad A475 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_a475_firmware"
 }

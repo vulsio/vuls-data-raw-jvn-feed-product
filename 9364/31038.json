@@ -1,8 +1,8 @@
 {
-  "vid": "9364",
-  "vname": "ArGo Software Design",
-  "vcpe": "cpe:/:argosoft",
-  "pid": "31038",
-  "pname": "Mini Mail Server",
-  "pcpe": "cpe:/a:argosoft:mini_mail_server"
+	"vid": "9364",
+	"vname": "ArGo Software Design",
+	"vcpe": "cpe:/:argosoft",
+	"pid": "31038",
+	"pname": "Mini Mail Server",
+	"pcpe": "cpe:/a:argosoft:mini_mail_server"
 }

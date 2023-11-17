@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "27226",
-  "pname": "Bently Nevada 3500/22M (USB バージョン) ファームウェア",
-  "pcpe": "cpe:/o:ge:bently_nevada_3500%2F22m_usb_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "27226",
+	"pname": "Bently Nevada 3500/22M (USB バージョン) ファームウェア",
+	"pcpe": "cpe:/o:ge:bently_nevada_3500%2F22m_usb_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "37",
-  "vname": "MySQL AB",
-  "vcpe": "cpe:/:mysql",
-  "pid": "861",
-  "pname": "MySQL Community Server",
-  "pcpe": "cpe:/a:mysql:mysql_community_server"
+	"vid": "37",
+	"vname": "MySQL AB",
+	"vcpe": "cpe:/:mysql",
+	"pid": "861",
+	"pname": "MySQL Community Server",
+	"pcpe": "cpe:/a:mysql:mysql_community_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6445",
-  "vname": "Content Construction Kit project",
-  "vcpe": "cpe:/:content_construction_kit_project",
-  "pid": "12725",
-  "pname": "Content Construction Kit (CCK)",
-  "pcpe": "cpe:/a:content_construction_kit_project:content_construction_kit"
+	"vid": "6445",
+	"vname": "Content Construction Kit project",
+	"vcpe": "cpe:/:content_construction_kit_project",
+	"pid": "12725",
+	"pname": "Content Construction Kit (CCK)",
+	"pcpe": "cpe:/a:content_construction_kit_project:content_construction_kit"
 }

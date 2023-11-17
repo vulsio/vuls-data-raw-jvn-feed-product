@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "28918",
-  "pname": "Automatic Service Request",
-  "pcpe": "cpe:/a:oracle:automatic_service_request"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "28918",
+	"pname": "Automatic Service Request",
+	"pcpe": "cpe:/a:oracle:automatic_service_request"
 }

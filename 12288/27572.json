@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "27572",
-  "pname": "UAA",
-  "pcpe": "cpe:/a:cloud_foundry:cloud_foundry_foundation_uaa"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "27572",
+	"pname": "UAA",
+	"pcpe": "cpe:/a:cloud_foundry:cloud_foundry_foundation_uaa"
 }

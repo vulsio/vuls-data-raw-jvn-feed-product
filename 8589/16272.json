@@ -1,8 +1,8 @@
 {
-  "vid": "8589",
-  "vname": "x-ice",
-  "vcpe": "cpe:/:x-ice",
-  "pid": "16272",
-  "pname": "news system",
-  "pcpe": "cpe:/a:x-ice:news_system"
+	"vid": "8589",
+	"vname": "x-ice",
+	"vcpe": "cpe:/:x-ice",
+	"pid": "16272",
+	"pname": "news system",
+	"pcpe": "cpe:/a:x-ice:news_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7518",
-  "pname": "Quiz",
-  "pcpe": "cpe:/a:drupal:quiz"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7518",
+	"pname": "Quiz",
+	"pcpe": "cpe:/a:drupal:quiz"
 }

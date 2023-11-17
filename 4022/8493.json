@@ -1,8 +1,8 @@
 {
-  "vid": "4022",
-  "vname": "goodtechsystems",
-  "vcpe": "cpe:/:goodtechsystems",
-  "pid": "8493",
-  "pname": "goodtech ssh",
-  "pcpe": "cpe:/a:goodtechsystems:goodtech_ssh"
+	"vid": "4022",
+	"vname": "goodtechsystems",
+	"vcpe": "cpe:/:goodtechsystems",
+	"pid": "8493",
+	"pname": "goodtech ssh",
+	"pcpe": "cpe:/a:goodtechsystems:goodtech_ssh"
 }

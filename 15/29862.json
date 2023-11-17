@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "29862",
-  "pname": "Oracle Hospitality Hotel Mobile",
-  "pcpe": "cpe:/a:oracle:hospitality_hotel_mobile"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "29862",
+	"pname": "Oracle Hospitality Hotel Mobile",
+	"pcpe": "cpe:/a:oracle:hospitality_hotel_mobile"
 }

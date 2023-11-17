@@ -1,8 +1,8 @@
 {
-  "vid": "13479",
-  "vname": "Synaptics",
-  "vcpe": "cpe:/:synaptics",
-  "pid": "60869",
-  "pname": "fingerprint driver",
-  "pcpe": "cpe:/a:synaptics:fingerprint_driver"
+	"vid": "13479",
+	"vname": "Synaptics",
+	"vcpe": "cpe:/:synaptics",
+	"pid": "60869",
+	"pname": "fingerprint driver",
+	"pcpe": "cpe:/a:synaptics:fingerprint_driver"
 }

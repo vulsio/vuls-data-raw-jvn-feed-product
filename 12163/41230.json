@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "41230",
-  "pname": "Global Post Script",
-  "pcpe": "cpe:/a:jenkins:global_post_script"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "41230",
+	"pname": "Global Post Script",
+	"pcpe": "cpe:/a:jenkins:global_post_script"
 }

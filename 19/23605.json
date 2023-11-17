@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23605",
-  "pname": "Cisco C210-M2",
-  "pcpe": "cpe:/h:cisco:c210_m2"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23605",
+	"pname": "Cisco C210-M2",
+	"pcpe": "cpe:/h:cisco:c210_m2"
 }

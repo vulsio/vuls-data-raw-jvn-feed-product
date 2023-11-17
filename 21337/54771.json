@@ -1,8 +1,8 @@
 {
-  "vid": "21337",
-  "vname": "FatPipe Networks Inc.",
-  "vcpe": "cpe:/:fatpipeinc",
-  "pid": "54771",
-  "pname": "IPVPN ファームウェア",
-  "pcpe": "cpe:/o:fatpipeinc:ipvpn_firmware"
+	"vid": "21337",
+	"vname": "FatPipe Networks Inc.",
+	"vcpe": "cpe:/:fatpipeinc",
+	"pid": "54771",
+	"pname": "IPVPN ファームウェア",
+	"pcpe": "cpe:/o:fatpipeinc:ipvpn_firmware"
 }

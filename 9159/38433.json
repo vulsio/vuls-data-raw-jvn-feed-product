@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "38433",
-  "pname": "Tasy EMR",
-  "pcpe": "cpe:/a:philips:tasy_emr"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "38433",
+	"pname": "Tasy EMR",
+	"pcpe": "cpe:/a:philips:tasy_emr"
 }

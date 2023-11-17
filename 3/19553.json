@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "19553",
-  "pname": "RHEL Clustering",
-  "pcpe": "cpe:/a:redhat:rhel_cluster"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "19553",
+	"pname": "RHEL Clustering",
+	"pcpe": "cpe:/a:redhat:rhel_cluster"
 }

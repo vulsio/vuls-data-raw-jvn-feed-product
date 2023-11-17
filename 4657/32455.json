@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "32455",
-  "pname": "TX50 ファームウェア",
-  "pcpe": "cpe:/o:huawei:tx50_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "32455",
+	"pname": "TX50 ファームウェア",
+	"pcpe": "cpe:/o:huawei:tx50_firmware"
 }

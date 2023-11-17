@@ -1,8 +1,8 @@
 {
-  "vid": "1256",
-  "vname": "UCMobile",
-  "vcpe": "cpe:/:ucweb",
-  "pid": "4050",
-  "pname": "UCMobile BloveStorm",
-  "pcpe": "cpe:/a:ucweb:ucmobile_blovestorm"
+	"vid": "1256",
+	"vname": "UCMobile",
+	"vcpe": "cpe:/:ucweb",
+	"pid": "4050",
+	"pname": "UCMobile BloveStorm",
+	"pcpe": "cpe:/a:ucweb:ucmobile_blovestorm"
 }

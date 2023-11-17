@@ -1,8 +1,8 @@
 {
-  "vid": "9464",
-  "vname": "Elgg Foundation",
-  "vcpe": "cpe:/:elgg_foundation",
-  "pid": "19483",
-  "pname": "Elgg",
-  "pcpe": "cpe:/a:elgg_foundation:elgg"
+	"vid": "9464",
+	"vname": "Elgg Foundation",
+	"vcpe": "cpe:/:elgg_foundation",
+	"pid": "19483",
+	"pname": "Elgg",
+	"pcpe": "cpe:/a:elgg_foundation:elgg"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "62053",
-  "pname": "Synopsys Coverity",
-  "pcpe": "cpe:/a:jenkins:synopsys_coverity"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "62053",
+	"pname": "Synopsys Coverity",
+	"pcpe": "cpe:/a:jenkins:synopsys_coverity"
 }

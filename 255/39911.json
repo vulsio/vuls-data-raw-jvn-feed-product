@@ -1,8 +1,8 @@
 {
-  "vid": "255",
-  "vname": "キヤノン",
-  "vcpe": "cpe:/:canon",
-  "pid": "39911",
-  "pname": "EOS-70 D ファームウェア",
-  "pcpe": "cpe:/o:canon:eos_70d_firmware"
+	"vid": "255",
+	"vname": "キヤノン",
+	"vcpe": "cpe:/:canon",
+	"pid": "39911",
+	"pname": "EOS-70 D ファームウェア",
+	"pcpe": "cpe:/o:canon:eos_70d_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "32169",
-  "pname": "FL SWITCH 4800E-24FX SM-4GC ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:fl_switch_4800e-24fx_sm-4gc_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "32169",
+	"pname": "FL SWITCH 4800E-24FX SM-4GC ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:fl_switch_4800e-24fx_sm-4gc_firmware"
 }

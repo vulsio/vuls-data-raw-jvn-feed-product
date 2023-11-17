@@ -1,8 +1,8 @@
 {
-  "vid": "17999",
-  "vname": "Talend",
-  "vcpe": "cpe:/:talend",
-  "pid": "54000",
-  "pname": "Data Catalog",
-  "pcpe": "cpe:/a:talend:data_catalog"
+	"vid": "17999",
+	"vname": "Talend",
+	"vcpe": "cpe:/:talend",
+	"pid": "54000",
+	"pname": "Data Catalog",
+	"pcpe": "cpe:/a:talend:data_catalog"
 }

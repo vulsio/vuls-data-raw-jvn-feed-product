@@ -1,8 +1,8 @@
 {
-  "vid": "9683",
-  "vname": "Skybox Security",
-  "vcpe": "cpe:/:skyboxsecurity",
-  "pid": "20146",
-  "pname": "Skybox View Appliance",
-  "pcpe": "cpe:/h:skyboxsecurity:skybox_view_appliance"
+	"vid": "9683",
+	"vname": "Skybox Security",
+	"vcpe": "cpe:/:skyboxsecurity",
+	"pid": "20146",
+	"pname": "Skybox View Appliance",
+	"pcpe": "cpe:/h:skyboxsecurity:skybox_view_appliance"
 }

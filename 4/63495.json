@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63495",
-  "pname": "HP EliteBook 820 G4 Notebook PC ファームウェア",
-  "pcpe": "cpe:/o:hp:elitebook_820_g4_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63495",
+	"pname": "HP EliteBook 820 G4 Notebook PC ファームウェア",
+	"pcpe": "cpe:/o:hp:elitebook_820_g4_firmware"
 }

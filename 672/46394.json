@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "46394",
-  "pname": "ManageEngine Exchange RecoverManager Plus",
-  "pcpe": "cpe:/a:zohocorp:manageengine_recovermanager_plus"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "46394",
+	"pname": "ManageEngine Exchange RecoverManager Plus",
+	"pcpe": "cpe:/a:zohocorp:manageengine_recovermanager_plus"
 }

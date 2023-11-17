@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "55623",
-  "pname": "oVirt Node",
-  "pcpe": "cpe:/a:redhat:ovirt-node"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "55623",
+	"pname": "oVirt Node",
+	"pcpe": "cpe:/a:redhat:ovirt-node"
 }

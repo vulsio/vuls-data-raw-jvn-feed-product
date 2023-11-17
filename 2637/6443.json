@@ -1,8 +1,8 @@
 {
-  "vid": "2637",
-  "vname": "brightcode",
-  "vcpe": "cpe:/:brightcode",
-  "pid": "6443",
-  "pname": "brightcode weblinks module",
-  "pcpe": "cpe:/a:brightcode:brightcode_weblinks_module"
+	"vid": "2637",
+	"vname": "brightcode",
+	"vcpe": "cpe:/:brightcode",
+	"pid": "6443",
+	"pname": "brightcode weblinks module",
+	"pcpe": "cpe:/a:brightcode:brightcode_weblinks_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "10014",
-  "pname": "tivoli service desk",
-  "pcpe": "cpe:/a:ibm:tivoli_service_desk"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "10014",
+	"pname": "tivoli service desk",
+	"pcpe": "cpe:/a:ibm:tivoli_service_desk"
 }

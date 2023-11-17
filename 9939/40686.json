@@ -1,8 +1,8 @@
 {
-  "vid": "9939",
-  "vname": "Cobham plc",
-  "vcpe": "cpe:/:cobham",
-  "pid": "40686",
-  "pname": "Sea Tel Coastal ファームウェア",
-  "pcpe": "cpe:/o:cobham:sea_tel_coastal_18_firmware"
+	"vid": "9939",
+	"vname": "Cobham plc",
+	"vcpe": "cpe:/:cobham",
+	"pid": "40686",
+	"pname": "Sea Tel Coastal ファームウェア",
+	"pcpe": "cpe:/o:cobham:sea_tel_coastal_18_firmware"
 }

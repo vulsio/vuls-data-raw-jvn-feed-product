@@ -1,8 +1,8 @@
 {
-  "vid": "8584",
-  "vname": "wxwidgets",
-  "vcpe": "cpe:/:wxwidgets",
-  "pid": "16267",
-  "pname": "wxwidgets",
-  "pcpe": "cpe:/a:wxwidgets:wxwidgets"
+	"vid": "8584",
+	"vname": "wxwidgets",
+	"vcpe": "cpe:/:wxwidgets",
+	"pid": "16267",
+	"pname": "wxwidgets",
+	"pcpe": "cpe:/a:wxwidgets:wxwidgets"
 }

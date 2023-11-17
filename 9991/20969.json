@@ -1,8 +1,8 @@
 {
-  "vid": "9991",
-  "vname": "Sensys Networks, Inc.",
-  "vcpe": "cpe:/:sensysnetworks",
-  "pid": "20969",
-  "pname": "VDS",
-  "pcpe": "cpe:/a:sensysnetworks:vds"
+	"vid": "9991",
+	"vname": "Sensys Networks, Inc.",
+	"vcpe": "cpe:/:sensysnetworks",
+	"pid": "20969",
+	"pname": "VDS",
+	"pcpe": "cpe:/a:sensysnetworks:vds"
 }

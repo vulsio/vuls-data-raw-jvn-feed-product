@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "50038",
-  "pname": "SIMATIC RF650M ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_rf650m_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "50038",
+	"pname": "SIMATIC RF650M ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_rf650m_firmware"
 }

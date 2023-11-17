@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "31113",
-  "pname": "Cisco Identity Services Engine (ISE) Virtual Appliance",
-  "pcpe": "cpe:/a:cisco:identity_services_engine_virtual_appliance"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "31113",
+	"pname": "Cisco Identity Services Engine (ISE) Virtual Appliance",
+	"pcpe": "cpe:/a:cisco:identity_services_engine_virtual_appliance"
 }

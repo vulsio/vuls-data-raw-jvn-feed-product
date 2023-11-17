@@ -1,8 +1,8 @@
 {
-  "vid": "1210",
-  "vname": "ACD Systems International",
-  "vcpe": "cpe:/:acd_systems",
-  "pid": "35309",
-  "pname": "Canvas Draw",
-  "pcpe": "cpe:/a:acd_systems:canvas_draw"
+	"vid": "1210",
+	"vname": "ACD Systems International",
+	"vcpe": "cpe:/:acd_systems",
+	"pid": "35309",
+	"pname": "Canvas Draw",
+	"pcpe": "cpe:/a:acd_systems:canvas_draw"
 }

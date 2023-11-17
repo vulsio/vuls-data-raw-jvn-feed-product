@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "37581",
-  "pname": "CODESYS Control for PFC200 SL",
-  "pcpe": "cpe:/a:codesys:control_for_pfc200_sl"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "37581",
+	"pname": "CODESYS Control for PFC200 SL",
+	"pcpe": "cpe:/a:codesys:control_for_pfc200_sl"
 }

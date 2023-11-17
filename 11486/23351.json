@@ -1,8 +1,8 @@
 {
-  "vid": "11486",
-  "vname": "iPass Inc.",
-  "vcpe": "cpe:/:ipass",
-  "pid": "23351",
-  "pname": "iPass Open Mobile",
-  "pcpe": "cpe:/a:ipass:ipass_open_mobile"
+	"vid": "11486",
+	"vname": "iPass Inc.",
+	"vcpe": "cpe:/:ipass",
+	"pid": "23351",
+	"pname": "iPass Open Mobile",
+	"pcpe": "cpe:/a:ipass:ipass_open_mobile"
 }

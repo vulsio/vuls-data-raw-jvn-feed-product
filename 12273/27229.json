@@ -1,8 +1,8 @@
 {
-  "vid": "12273",
-  "vname": "日本年金機構",
-  "vcpe": "cpe:/:japan_pension_service",
-  "pid": "27229",
-  "pname": "媒体データパスワード設定プログラム",
-  "pcpe": "cpe:/a:japan_pension_service:device_data_encryption_program"
+	"vid": "12273",
+	"vname": "日本年金機構",
+	"vcpe": "cpe:/:japan_pension_service",
+	"pid": "27229",
+	"pname": "媒体データパスワード設定プログラム",
+	"pcpe": "cpe:/a:japan_pension_service:device_data_encryption_program"
 }

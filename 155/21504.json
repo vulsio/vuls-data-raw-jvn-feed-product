@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "21504",
-  "pname": "Endpoint Encryption for Files and Folders",
-  "pcpe": "cpe:/a:mcafee:endpoint_encryption_for_files_and_folders"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "21504",
+	"pname": "Endpoint Encryption for Files and Folders",
+	"pcpe": "cpe:/a:mcafee:endpoint_encryption_for_files_and_folders"
 }

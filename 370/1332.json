@@ -1,8 +1,8 @@
 {
-  "vid": "370",
-  "vname": "Tor World",
-  "vcpe": "cpe:/:tor_world",
-  "pid": "1332",
-  "pname": "今日の一言",
-  "pcpe": "cpe:/a:tor_world:tor_diary"
+	"vid": "370",
+	"vname": "Tor World",
+	"vcpe": "cpe:/:tor_world",
+	"pid": "1332",
+	"pname": "今日の一言",
+	"pcpe": "cpe:/a:tor_world:tor_diary"
 }

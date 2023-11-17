@@ -1,8 +1,8 @@
 {
-  "vid": "17759",
-  "vname": "Teradici",
-  "vcpe": "cpe:/:teradici",
-  "pid": "50561",
-  "pname": "PCoIP Agent",
-  "pcpe": "cpe:/a:teradici:pcoip_agent"
+	"vid": "17759",
+	"vname": "Teradici",
+	"vcpe": "cpe:/:teradici",
+	"pid": "50561",
+	"pname": "PCoIP Agent",
+	"pcpe": "cpe:/a:teradici:pcoip_agent"
 }

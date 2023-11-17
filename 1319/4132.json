@@ -1,8 +1,8 @@
 {
-  "vid": "1319",
-  "vname": "クアンタム",
-  "vcpe": "cpe:/:quantum",
-  "pid": "4132",
-  "pname": "Scalar i500",
-  "pcpe": "cpe:/h:quantum:scalar_i500"
+	"vid": "1319",
+	"vname": "クアンタム",
+	"vcpe": "cpe:/:quantum",
+	"pid": "4132",
+	"pname": "Scalar i500",
+	"pcpe": "cpe:/h:quantum:scalar_i500"
 }

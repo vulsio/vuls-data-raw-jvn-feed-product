@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30943",
-  "pname": "Lenovo Service Framework",
-  "pcpe": "cpe:/a:lenovo:service_framework"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30943",
+	"pname": "Lenovo Service Framework",
+	"pcpe": "cpe:/a:lenovo:service_framework"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4360",
-  "vname": "ウェブセンス",
-  "vcpe": "cpe:/:websense",
-  "pid": "23765",
-  "pname": "Websense V シリーズ アプライアンス",
-  "pcpe": "cpe:/a:websense:v-series_appliances"
+	"vid": "4360",
+	"vname": "ウェブセンス",
+	"vcpe": "cpe:/:websense",
+	"pid": "23765",
+	"pname": "Websense V シリーズ アプライアンス",
+	"pcpe": "cpe:/a:websense:v-series_appliances"
 }

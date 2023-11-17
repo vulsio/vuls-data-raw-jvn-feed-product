@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31415",
-  "pname": "TL-R4149G ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-r4149g_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31415",
+	"pname": "TL-R4149G ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-r4149g_firmware"
 }

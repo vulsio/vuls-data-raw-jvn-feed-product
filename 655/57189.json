@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "57189",
-  "pname": "lemminx",
-  "pcpe": "cpe:/a:eclipse:lemminx"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "57189",
+	"pname": "lemminx",
+	"pcpe": "cpe:/a:eclipse:lemminx"
 }

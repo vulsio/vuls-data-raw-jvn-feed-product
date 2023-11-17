@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "48044",
-  "pname": "Modicon TSXP575634 ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:modicon_tsxp575634_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "48044",
+	"pname": "Modicon TSXP575634 ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:modicon_tsxp575634_firmware"
 }

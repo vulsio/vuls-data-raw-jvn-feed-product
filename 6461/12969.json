@@ -1,8 +1,8 @@
 {
-  "vid": "6461",
-  "vname": "my firewall plus",
-  "vcpe": "cpe:/:my_firewall_plus",
-  "pid": "12969",
-  "pname": "my firewall plus",
-  "pcpe": "cpe:/h:my_firewall_plus:my_firewall_plus"
+	"vid": "6461",
+	"vname": "my firewall plus",
+	"vcpe": "cpe:/:my_firewall_plus",
+	"pid": "12969",
+	"pname": "my firewall plus",
+	"pcpe": "cpe:/h:my_firewall_plus:my_firewall_plus"
 }

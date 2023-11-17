@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2368",
-  "pname": "uCosminexus EUR Developer",
-  "pcpe": "cpe:/a:hitachi:ucosminexus_eur_developer"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2368",
+	"pname": "uCosminexus EUR Developer",
+	"pcpe": "cpe:/a:hitachi:ucosminexus_eur_developer"
 }

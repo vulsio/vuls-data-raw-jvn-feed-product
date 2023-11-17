@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "43563",
-  "pname": "ioLogik 2512 ファームウェア",
-  "pcpe": "cpe:/o:moxa:iologik_2512_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "43563",
+	"pname": "ioLogik 2512 ファームウェア",
+	"pcpe": "cpe:/o:moxa:iologik_2512_firmware"
 }

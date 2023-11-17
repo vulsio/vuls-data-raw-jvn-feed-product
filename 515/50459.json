@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "50459",
-  "pname": "VMware vRealize Business for Cloud",
-  "pcpe": "cpe:/a:vmware:vrealize_business_for_cloud"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "50459",
+	"pname": "VMware vRealize Business for Cloud",
+	"pcpe": "cpe:/a:vmware:vrealize_business_for_cloud"
 }

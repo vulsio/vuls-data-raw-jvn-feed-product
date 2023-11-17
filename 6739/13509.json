@@ -1,8 +1,8 @@
 {
-  "vid": "6739",
-  "vname": "LibVNC",
-  "vcpe": "cpe:/:libvncserver_project",
-  "pid": "13509",
-  "pname": "LibVNCServer",
-  "pcpe": "cpe:/a:libvncserver_project:libvncserver"
+	"vid": "6739",
+	"vname": "LibVNC",
+	"vcpe": "cpe:/:libvncserver_project",
+	"pid": "13509",
+	"pname": "LibVNCServer",
+	"pcpe": "cpe:/a:libvncserver_project:libvncserver"
 }

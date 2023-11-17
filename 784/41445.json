@@ -1,8 +1,8 @@
 {
-  "vid": "784",
-  "vname": "Technicolor",
-  "vcpe": "cpe:/:technicolor",
-  "pid": "41445",
-  "pname": "TD5130v2 ファームウェア",
-  "pcpe": "cpe:/o:technicolor:td5130v2_firmware"
+	"vid": "784",
+	"vname": "Technicolor",
+	"vcpe": "cpe:/:technicolor",
+	"pid": "41445",
+	"pname": "TD5130v2 ファームウェア",
+	"pcpe": "cpe:/o:technicolor:td5130v2_firmware"
 }

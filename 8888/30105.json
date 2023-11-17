@@ -1,8 +1,8 @@
 {
-  "vid": "8888",
-  "vname": "Schweitzer Engineering Laboratories",
-  "vcpe": "cpe:/:selinc",
-  "pid": "30105",
-  "pname": "SEL-3620 ファームウェア",
-  "pcpe": "cpe:/o:selinc:sel-3620_firmware"
+	"vid": "8888",
+	"vname": "Schweitzer Engineering Laboratories",
+	"vcpe": "cpe:/:selinc",
+	"pid": "30105",
+	"pname": "SEL-3620 ファームウェア",
+	"pcpe": "cpe:/o:selinc:sel-3620_firmware"
 }

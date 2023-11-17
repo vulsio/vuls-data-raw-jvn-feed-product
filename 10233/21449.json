@@ -1,8 +1,8 @@
 {
-  "vid": "10233",
-  "vname": "EspoCRM",
-  "vcpe": "cpe:/:espocrm",
-  "pid": "21449",
-  "pname": "EspoCRM",
-  "pcpe": "cpe:/a:espocrm:espocrm"
+	"vid": "10233",
+	"vname": "EspoCRM",
+	"vcpe": "cpe:/:espocrm",
+	"pid": "21449",
+	"pname": "EspoCRM",
+	"pcpe": "cpe:/a:espocrm:espocrm"
 }

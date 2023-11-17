@@ -1,8 +1,8 @@
 {
-  "vid": "13578",
-  "vname": "DragonByte Technologies",
-  "vcpe": "cpe:/:dragonbyte-tech",
-  "pid": "32180",
-  "pname": "vBDownloads",
-  "pcpe": "cpe:/a:dragonbyte-tech:vbdownloads_module"
+	"vid": "13578",
+	"vname": "DragonByte Technologies",
+	"vcpe": "cpe:/:dragonbyte-tech",
+	"pid": "32180",
+	"pname": "vBDownloads",
+	"pcpe": "cpe:/a:dragonbyte-tech:vbdownloads_module"
 }

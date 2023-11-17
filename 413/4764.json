@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "4764",
-  "pname": "BlackBerry Enterprise Server Express",
-  "pcpe": "cpe:/a:blackberry:enterprise_server_express"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "4764",
+	"pname": "BlackBerry Enterprise Server Express",
+	"pcpe": "cpe:/a:blackberry:enterprise_server_express"
 }

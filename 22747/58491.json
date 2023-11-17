@@ -1,8 +1,8 @@
 {
-  "vid": "22747",
-  "vname": "WPTaskForce",
-  "vcpe": "cpe:/:wptaskforce",
-  "pid": "58491",
-  "pname": "WPCargo Track & Trace",
-  "pcpe": "cpe:/a:wptaskforce:wpcargo_track_trace"
+	"vid": "22747",
+	"vname": "WPTaskForce",
+	"vcpe": "cpe:/:wptaskforce",
+	"pid": "58491",
+	"pname": "WPCargo Track & Trace",
+	"pcpe": "cpe:/a:wptaskforce:wpcargo_track_trace"
 }

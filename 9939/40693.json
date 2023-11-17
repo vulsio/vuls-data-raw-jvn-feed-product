@@ -1,8 +1,8 @@
 {
-  "vid": "9939",
-  "vname": "Cobham plc",
-  "vcpe": "cpe:/:cobham",
-  "pid": "40693",
-  "pname": "Sea Tel 6012 Vast ku-band ファームウェア",
-  "pcpe": "cpe:/o:cobham:sea_tel_6012_vsat_ku-band_firmware"
+	"vid": "9939",
+	"vname": "Cobham plc",
+	"vcpe": "cpe:/:cobham",
+	"pid": "40693",
+	"pname": "Sea Tel 6012 Vast ku-band ファームウェア",
+	"pcpe": "cpe:/o:cobham:sea_tel_6012_vsat_ku-band_firmware"
 }

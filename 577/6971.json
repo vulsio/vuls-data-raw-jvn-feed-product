@@ -1,8 +1,8 @@
 {
-  "vid": "577",
-  "vname": "コンソナ",
-  "vcpe": "cpe:/:consona",
-  "pid": "6971",
-  "pname": "consona repair manager",
-  "pcpe": "cpe:/a:consona:consona_repair_manager"
+	"vid": "577",
+	"vname": "コンソナ",
+	"vcpe": "cpe:/:consona",
+	"pid": "6971",
+	"pname": "consona repair manager",
+	"pcpe": "cpe:/a:consona:consona_repair_manager"
 }

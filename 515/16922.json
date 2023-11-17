@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "16922",
-  "pname": "VMware vSphere Client",
-  "pcpe": "cpe:/a:vmware:vsphere_client"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "16922",
+	"pname": "VMware vSphere Client",
+	"pcpe": "cpe:/a:vmware:vsphere_client"
 }

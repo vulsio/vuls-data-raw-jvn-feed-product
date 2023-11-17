@@ -1,8 +1,8 @@
 {
-  "vid": "4460",
-  "vname": "Tracker Software Products",
-  "vcpe": "cpe:/:tracker-software",
-  "pid": "9507",
-  "pname": "PDF-XChange",
-  "pcpe": "cpe:/a:tracker-software:pdf-xchange"
+	"vid": "4460",
+	"vname": "Tracker Software Products",
+	"vcpe": "cpe:/:tracker-software",
+	"pid": "9507",
+	"pname": "PDF-XChange",
+	"pcpe": "cpe:/a:tracker-software:pdf-xchange"
 }

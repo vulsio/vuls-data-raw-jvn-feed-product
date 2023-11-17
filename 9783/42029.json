@@ -1,8 +1,8 @@
 {
-  "vid": "9783",
-  "vname": "Synametrics Technologies",
-  "vcpe": "cpe:/:synametrics",
-  "pid": "42029",
-  "pname": "SynTail",
-  "pcpe": "cpe:/a:synametrics:syntail"
+	"vid": "9783",
+	"vname": "Synametrics Technologies",
+	"vcpe": "cpe:/:synametrics",
+	"pid": "42029",
+	"pname": "SynTail",
+	"pcpe": "cpe:/a:synametrics:syntail"
 }

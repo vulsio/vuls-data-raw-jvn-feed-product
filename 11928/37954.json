@@ -1,8 +1,8 @@
 {
-  "vid": "11928",
-  "vname": "Project Jupyter",
-  "vcpe": "cpe:/:jupyter",
-  "pid": "37954",
-  "pname": "JupyterHub",
-  "pcpe": "cpe:/a:jupyter:jupyterhub"
+	"vid": "11928",
+	"vname": "Project Jupyter",
+	"vcpe": "cpe:/:jupyter",
+	"pid": "37954",
+	"pname": "JupyterHub",
+	"pcpe": "cpe:/a:jupyter:jupyterhub"
 }

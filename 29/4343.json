@@ -1,8 +1,8 @@
 {
-  "vid": "29",
-  "vname": "エフ・セキュア",
-  "vcpe": "cpe:/:f-secure",
-  "pid": "4343",
-  "pname": "policy manager",
-  "pcpe": "cpe:/a:f-secure:policy_manager"
+	"vid": "29",
+	"vname": "エフ・セキュア",
+	"vcpe": "cpe:/:f-secure",
+	"pid": "4343",
+	"pname": "policy manager",
+	"pcpe": "cpe:/a:f-secure:policy_manager"
 }

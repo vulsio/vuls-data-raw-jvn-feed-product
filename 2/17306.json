@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "17306",
-  "pname": "Microsoft Windows Essentials",
-  "pcpe": "cpe:/a:microsoft:windows_essentials"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "17306",
+	"pname": "Microsoft Windows Essentials",
+	"pcpe": "cpe:/a:microsoft:windows_essentials"
 }

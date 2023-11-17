@@ -1,8 +1,8 @@
 {
-  "vid": "16942",
-  "vname": "Restaurant Reservations project",
-  "vcpe": "cpe:/:restaurant_reservations_project",
-  "pid": "40306",
-  "pname": "Restaurant Reservations",
-  "pcpe": "cpe:/a:restaurant_reservations_project:restaurant_reservations"
+	"vid": "16942",
+	"vname": "Restaurant Reservations project",
+	"vcpe": "cpe:/:restaurant_reservations_project",
+	"pid": "40306",
+	"pname": "Restaurant Reservations",
+	"pcpe": "cpe:/a:restaurant_reservations_project:restaurant_reservations"
 }

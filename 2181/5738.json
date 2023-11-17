@@ -1,8 +1,8 @@
 {
-  "vid": "2181",
-  "vname": "AlstraSoft",
-  "vcpe": "cpe:/:alstrasoft",
-  "pid": "5738",
-  "pname": "sms text messaging enterprise",
-  "pcpe": "cpe:/a:alstrasoft:sms_text_messaging_enterprise"
+	"vid": "2181",
+	"vname": "AlstraSoft",
+	"vcpe": "cpe:/:alstrasoft",
+	"pid": "5738",
+	"pname": "sms text messaging enterprise",
+	"pcpe": "cpe:/a:alstrasoft:sms_text_messaging_enterprise"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3942",
-  "pname": "Cisco Small Business SRP526W",
-  "pcpe": "cpe:/h:cisco:small_business_srp526w"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3942",
+	"pname": "Cisco Small Business SRP526W",
+	"pcpe": "cpe:/h:cisco:small_business_srp526w"
 }

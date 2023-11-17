@@ -1,8 +1,8 @@
 {
-  "vid": "12832",
-  "vname": "Magic Winmail",
-  "vcpe": "cpe:/:magicwinmail",
-  "pid": "29542",
-  "pname": "Winmail Server",
-  "pcpe": "cpe:/a:magicwinmail:winmail_server"
+	"vid": "12832",
+	"vname": "Magic Winmail",
+	"vcpe": "cpe:/:magicwinmail",
+	"pid": "29542",
+	"pname": "Winmail Server",
+	"pcpe": "cpe:/a:magicwinmail:winmail_server"
 }

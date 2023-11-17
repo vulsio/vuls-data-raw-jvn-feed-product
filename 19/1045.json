@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "1045",
-  "pname": "Cisco Catalyst 3750 シリーズ",
-  "pcpe": "cpe:/h:cisco:catalyst_3750"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "1045",
+	"pname": "Cisco Catalyst 3750 シリーズ",
+	"pcpe": "cpe:/h:cisco:catalyst_3750"
 }

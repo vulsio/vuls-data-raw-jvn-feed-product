@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "25350",
-  "pname": "eSpace 7950",
-  "pcpe": "cpe:/h:huawei:espace_7950"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "25350",
+	"pname": "eSpace 7950",
+	"pcpe": "cpe:/h:huawei:espace_7950"
 }

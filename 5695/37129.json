@@ -1,8 +1,8 @@
 {
-  "vid": "5695",
-  "vname": "Mitel Networks Corporation",
-  "vcpe": "cpe:/:mitel",
-  "pid": "37129",
-  "pname": "MiVoice 5330e ファームウェア",
-  "pcpe": "cpe:/o:mitel:mivoice_5330e_firmware"
+	"vid": "5695",
+	"vname": "Mitel Networks Corporation",
+	"vcpe": "cpe:/:mitel",
+	"pid": "37129",
+	"pname": "MiVoice 5330e ファームウェア",
+	"pcpe": "cpe:/o:mitel:mivoice_5330e_firmware"
 }

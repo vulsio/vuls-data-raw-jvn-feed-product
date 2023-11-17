@@ -1,8 +1,8 @@
 {
-  "vid": "12892",
-  "vname": "富士電機",
-  "vcpe": "cpe:/:fujielectric",
-  "pid": "29736",
-  "pname": "V-Server",
-  "pcpe": "cpe:/a:fujielectric:v-server"
+	"vid": "12892",
+	"vname": "富士電機",
+	"vcpe": "cpe:/:fujielectric",
+	"pid": "29736",
+	"pname": "V-Server",
+	"pcpe": "cpe:/a:fujielectric:v-server"
 }

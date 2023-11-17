@@ -1,8 +1,8 @@
 {
-  "vid": "17782",
-  "vname": "UHP Networks",
-  "vcpe": "cpe:/:uhp",
-  "pid": "42768",
-  "pname": "UHP-100 ファームウェア",
-  "pcpe": "cpe:/o:uhp:uhp-100_firmware"
+	"vid": "17782",
+	"vname": "UHP Networks",
+	"vcpe": "cpe:/:uhp",
+	"pid": "42768",
+	"pname": "UHP-100 ファームウェア",
+	"pcpe": "cpe:/o:uhp:uhp-100_firmware"
 }

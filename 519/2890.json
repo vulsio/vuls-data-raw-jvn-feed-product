@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "2890",
-  "pname": "Avaya Secure Access Link",
-  "pcpe": "cpe:/a:avaya:secure_access_link"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "2890",
+	"pname": "Avaya Secure Access Link",
+	"pcpe": "cpe:/a:avaya:secure_access_link"
 }

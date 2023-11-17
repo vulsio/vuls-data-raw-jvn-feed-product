@@ -1,8 +1,8 @@
 {
-  "vid": "1374",
-  "vname": "Best Practical Solutions",
-  "vcpe": "cpe:/:bestpractical",
-  "pid": "20034",
-  "pname": "RT::Extension::MobileUI",
-  "pcpe": "cpe:/a:bestpractical:rt-extension-mobileui"
+	"vid": "1374",
+	"vname": "Best Practical Solutions",
+	"vcpe": "cpe:/:bestpractical",
+	"pid": "20034",
+	"pname": "RT::Extension::MobileUI",
+	"pcpe": "cpe:/a:bestpractical:rt-extension-mobileui"
 }

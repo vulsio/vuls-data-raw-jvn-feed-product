@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "33773",
-  "pname": "Ampla Manufacturing Execution System",
-  "pcpe": "cpe:/a:schneider_electric:ampla_manufacturing_execution_system"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "33773",
+	"pname": "Ampla Manufacturing Execution System",
+	"pcpe": "cpe:/a:schneider_electric:ampla_manufacturing_execution_system"
 }

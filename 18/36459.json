@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "36459",
-  "pname": "QLogic 4Gb Fibre Channel Expansion Card ファームウェア",
-  "pcpe": "cpe:/o:ibm:qlogic_4_gb_fibre_channel_expansion_card_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "36459",
+	"pname": "QLogic 4Gb Fibre Channel Expansion Card ファームウェア",
+	"pcpe": "cpe:/o:ibm:qlogic_4_gb_fibre_channel_expansion_card_firmware"
 }

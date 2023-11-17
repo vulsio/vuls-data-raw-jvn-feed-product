@@ -1,8 +1,8 @@
 {
-  "vid": "551",
-  "vname": "Igor Sysoev",
-  "vcpe": "cpe:/:igor_sysoev",
-  "pid": "37403",
-  "pname": "NGINX Unit",
-  "pcpe": "cpe:/a:igor_sysoev:nginx_unit"
+	"vid": "551",
+	"vname": "Igor Sysoev",
+	"vcpe": "cpe:/:igor_sysoev",
+	"pid": "37403",
+	"pname": "NGINX Unit",
+	"pcpe": "cpe:/a:igor_sysoev:nginx_unit"
 }

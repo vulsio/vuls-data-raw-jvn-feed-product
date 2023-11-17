@@ -1,8 +1,8 @@
 {
-  "vid": "19238",
-  "vname": "起亜自動車",
-  "vcpe": "cpe:/:kia",
-  "pid": "62428",
-  "pname": "kia ファームウェア",
-  "pcpe": "cpe:/o:kia:kia_firmware"
+	"vid": "19238",
+	"vname": "起亜自動車",
+	"vcpe": "cpe:/:kia",
+	"pid": "62428",
+	"pname": "kia ファームウェア",
+	"pcpe": "cpe:/o:kia:kia_firmware"
 }

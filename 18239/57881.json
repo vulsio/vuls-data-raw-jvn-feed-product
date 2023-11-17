@@ -1,8 +1,8 @@
 {
-  "vid": "18239",
-  "vname": "WAVLINK",
-  "vcpe": "cpe:/:wavlink",
-  "pid": "57881",
-  "pname": "wl-wn531g3 ファームウェア",
-  "pcpe": "cpe:/o:wavlink:wl-wn531g3_firmware"
+	"vid": "18239",
+	"vname": "WAVLINK",
+	"vcpe": "cpe:/:wavlink",
+	"pid": "57881",
+	"pname": "wl-wn531g3 ファームウェア",
+	"pcpe": "cpe:/o:wavlink:wl-wn531g3_firmware"
 }

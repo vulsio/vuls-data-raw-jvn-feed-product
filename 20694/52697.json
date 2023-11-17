@@ -1,8 +1,8 @@
 {
-  "vid": "20694",
-  "vname": "vscode-phpmd project",
-  "vcpe": "cpe:/:vscode-phpmd_project",
-  "pid": "52697",
-  "pname": "VSCode PHP Mess Detector",
-  "pcpe": "cpe:/a:vscode-phpmd_project:vscode-phpmd"
+	"vid": "20694",
+	"vname": "vscode-phpmd project",
+	"vcpe": "cpe:/:vscode-phpmd_project",
+	"pid": "52697",
+	"pname": "VSCode PHP Mess Detector",
+	"pcpe": "cpe:/a:vscode-phpmd_project:vscode-phpmd"
 }

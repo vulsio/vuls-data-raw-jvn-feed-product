@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "29661",
-  "pname": "PC/SCアクティベーター for Type B",
-  "pcpe": "cpe:/a:sony:pc%2Fsc_activator_for_type_b"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "29661",
+	"pname": "PC/SCアクティベーター for Type B",
+	"pcpe": "cpe:/a:sony:pc%2Fsc_activator_for_type_b"
 }

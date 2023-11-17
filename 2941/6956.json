@@ -1,8 +1,8 @@
 {
-  "vid": "2941",
-  "vname": "comscripts",
-  "vcpe": "cpe:/:comscripts",
-  "pid": "6956",
-  "pname": "web server creator web portal",
-  "pcpe": "cpe:/a:comscripts:web_server_creator_web_portal"
+	"vid": "2941",
+	"vname": "comscripts",
+	"vcpe": "cpe:/:comscripts",
+	"pid": "6956",
+	"pname": "web server creator web portal",
+	"pcpe": "cpe:/a:comscripts:web_server_creator_web_portal"
 }

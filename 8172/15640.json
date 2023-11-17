@@ -1,8 +1,8 @@
 {
-  "vid": "8172",
-  "vname": "txtsql",
-  "vcpe": "cpe:/:txtsql",
-  "pid": "15640",
-  "pname": "txtsql",
-  "pcpe": "cpe:/a:txtsql:txtsql"
+	"vid": "8172",
+	"vname": "txtsql",
+	"vcpe": "cpe:/:txtsql",
+	"pid": "15640",
+	"pname": "txtsql",
+	"pcpe": "cpe:/a:txtsql:txtsql"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11994",
-  "vname": "PageTriage project",
-  "vcpe": "cpe:/:pagetriage_project",
-  "pid": "25028",
-  "pname": "PageTriage",
-  "pcpe": "cpe:/a:pagetriage_project:pagetriage"
+	"vid": "11994",
+	"vname": "PageTriage project",
+	"vcpe": "cpe:/:pagetriage_project",
+	"pid": "25028",
+	"pname": "PageTriage",
+	"pcpe": "cpe:/a:pagetriage_project:pagetriage"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14678",
-  "vname": "HCL Technologies Limited",
-  "vcpe": "cpe:/:hcltech",
-  "pid": "59936",
-  "pname": "bigfix modern client management",
-  "pcpe": "cpe:/a:hcltech:bigfix_modern_client_management"
+	"vid": "14678",
+	"vname": "HCL Technologies Limited",
+	"vcpe": "cpe:/:hcltech",
+	"pid": "59936",
+	"pname": "bigfix modern client management",
+	"pcpe": "cpe:/a:hcltech:bigfix_modern_client_management"
 }

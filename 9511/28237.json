@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "28237",
-  "pname": "DS-77xxxNI-E4 シリーズファームウェア",
-  "pcpe": "cpe:/o:hikvision:ds-77xxx_series_firmware"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "28237",
+	"pname": "DS-77xxxNI-E4 シリーズファームウェア",
+	"pcpe": "cpe:/o:hikvision:ds-77xxx_series_firmware"
 }

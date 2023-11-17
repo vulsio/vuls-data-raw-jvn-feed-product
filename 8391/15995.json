@@ -1,8 +1,8 @@
 {
-  "vid": "8391",
-  "vname": "wapplersystems",
-  "vcpe": "cpe:/:wapplersystems",
-  "pid": "15995",
-  "pname": "ws stats",
-  "pcpe": "cpe:/a:wapplersystems:ws_stats"
+	"vid": "8391",
+	"vname": "wapplersystems",
+	"vcpe": "cpe:/:wapplersystems",
+	"pid": "15995",
+	"pname": "ws stats",
+	"pcpe": "cpe:/a:wapplersystems:ws_stats"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24484",
-  "vname": "symfony",
-  "vcpe": "cpe:/:symfony",
-  "pid": "63223",
-  "pname": "twig",
-  "pcpe": "cpe:/a:symfony:twig"
+	"vid": "24484",
+	"vname": "symfony",
+	"vcpe": "cpe:/:symfony",
+	"pid": "63223",
+	"pname": "twig",
+	"pcpe": "cpe:/a:symfony:twig"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18559",
-  "vname": "Mintegral",
-  "vcpe": "cpe:/:mintegral",
-  "pid": "46862",
-  "pname": "com.mintegral.msdk:alphab",
-  "pcpe": "cpe:/a:mintegral:mintegraladsdk"
+	"vid": "18559",
+	"vname": "Mintegral",
+	"vcpe": "cpe:/:mintegral",
+	"pid": "46862",
+	"pname": "com.mintegral.msdk:alphab",
+	"pcpe": "cpe:/a:mintegral:mintegraladsdk"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17001",
-  "vname": "TikTok Inc.",
-  "vcpe": "cpe:/:tiktok",
-  "pid": "40437",
-  "pname": "TikTok",
-  "pcpe": "cpe:/a:tiktok:tiktok"
+	"vid": "17001",
+	"vname": "TikTok Inc.",
+	"vcpe": "cpe:/:tiktok",
+	"pid": "40437",
+	"pname": "TikTok",
+	"pcpe": "cpe:/a:tiktok:tiktok"
 }

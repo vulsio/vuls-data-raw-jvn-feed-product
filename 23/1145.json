@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "1145",
-  "pname": "Symantec Gateway Security 5000 Series",
-  "pcpe": "cpe:/a:symantec:gateway_security_5000"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "1145",
+	"pname": "Symantec Gateway Security 5000 Series",
+	"pcpe": "cpe:/a:symantec:gateway_security_5000"
 }

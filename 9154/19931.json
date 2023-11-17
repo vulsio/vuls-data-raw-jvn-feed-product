@@ -1,8 +1,8 @@
 {
-  "vid": "9154",
-  "vname": "Lennart Poettering",
-  "vcpe": "cpe:/:lennart_poettering",
-  "pid": "19931",
-  "pname": "systemd",
-  "pcpe": "cpe:/a:lennart_poettering:systemd"
+	"vid": "9154",
+	"vname": "Lennart Poettering",
+	"vcpe": "cpe:/:lennart_poettering",
+	"pid": "19931",
+	"pname": "systemd",
+	"pcpe": "cpe:/a:lennart_poettering:systemd"
 }

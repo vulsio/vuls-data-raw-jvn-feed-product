@@ -1,8 +1,8 @@
 {
-  "vid": "12145",
-  "vname": "Black Box Network Services.",
-  "vcpe": "cpe:/:blackbox",
-  "pid": "26218",
-  "pname": "AlertWerks ServSensor Junior",
-  "pcpe": "cpe:/h:blackbox:alertwerks_servsensor_junior"
+	"vid": "12145",
+	"vname": "Black Box Network Services.",
+	"vcpe": "cpe:/:blackbox",
+	"pid": "26218",
+	"pname": "AlertWerks ServSensor Junior",
+	"pcpe": "cpe:/h:blackbox:alertwerks_servsensor_junior"
 }

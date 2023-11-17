@@ -1,8 +1,8 @@
 {
-  "vid": "18753",
-  "vname": "エレコム株式会社",
-  "vcpe": "cpe:/:elecom",
-  "pid": "55389",
-  "pname": "USB3.0カードリーダー ファイル転送高速化アプリ「QuickFileDealer」",
-  "pcpe": "cpe:/a:elecom:quickfiledealer"
+	"vid": "18753",
+	"vname": "エレコム株式会社",
+	"vcpe": "cpe:/:elecom",
+	"pid": "55389",
+	"pname": "USB3.0カードリーダー ファイル転送高速化アプリ「QuickFileDealer」",
+	"pcpe": "cpe:/a:elecom:quickfiledealer"
 }

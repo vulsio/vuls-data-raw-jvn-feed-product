@@ -1,8 +1,8 @@
 {
-  "vid": "24429",
-  "vname": "tabs project",
-  "vcpe": "cpe:/:tabs_project",
-  "pid": "63106",
-  "pname": "tabs",
-  "pcpe": "cpe:/a:tabs_project:tabs"
+	"vid": "24429",
+	"vname": "tabs project",
+	"vcpe": "cpe:/:tabs_project",
+	"pid": "63106",
+	"pname": "tabs",
+	"pcpe": "cpe:/a:tabs_project:tabs"
 }

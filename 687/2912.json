@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "2912",
-  "pname": "TIBCO Slingshot",
-  "pcpe": "cpe:/a:tibco:slingshot"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "2912",
+	"pname": "TIBCO Slingshot",
+	"pcpe": "cpe:/a:tibco:slingshot"
 }

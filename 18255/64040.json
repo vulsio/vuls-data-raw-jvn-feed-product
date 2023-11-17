@@ -1,8 +1,8 @@
 {
-  "vid": "18255",
-  "vname": "CommScope",
-  "vcpe": "cpe:/:commscope",
-  "pid": "64040",
-  "pname": "arris tg2482a ファームウェア",
-  "pcpe": "cpe:/o:commscope:arris_tg2482a_firmware"
+	"vid": "18255",
+	"vname": "CommScope",
+	"vcpe": "cpe:/:commscope",
+	"pid": "64040",
+	"pname": "arris tg2482a ファームウェア",
+	"pcpe": "cpe:/o:commscope:arris_tg2482a_firmware"
 }

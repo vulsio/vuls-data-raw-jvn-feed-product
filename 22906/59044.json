@@ -1,8 +1,8 @@
 {
-  "vid": "22906",
-  "vname": "proxyscotch project",
-  "vcpe": "cpe:/:proxyscotch_project",
-  "pid": "59044",
-  "pname": "proxyscotch",
-  "pcpe": "cpe:/a:proxyscotch_project:proxyscotch"
+	"vid": "22906",
+	"vname": "proxyscotch project",
+	"vcpe": "cpe:/:proxyscotch_project",
+	"pid": "59044",
+	"pname": "proxyscotch",
+	"pcpe": "cpe:/a:proxyscotch_project:proxyscotch"
 }

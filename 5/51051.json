@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "51051",
-  "pname": "QCA6426 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qca6426_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "51051",
+	"pname": "QCA6426 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qca6426_firmware"
 }

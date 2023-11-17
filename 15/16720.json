@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "16720",
-  "pname": "Oracle Integration Services Server",
-  "pcpe": "cpe:/a:oracle:integration_services_server"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "16720",
+	"pname": "Oracle Integration Services Server",
+	"pcpe": "cpe:/a:oracle:integration_services_server"
 }

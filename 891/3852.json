@@ -1,8 +1,8 @@
 {
-  "vid": "891",
-  "vname": "osCommerce",
-  "vcpe": "cpe:/:oscommerce",
-  "pid": "3852",
-  "pname": "osCommerce Online Merchant",
-  "pcpe": "cpe:/a:oscommerce:online_merchant"
+	"vid": "891",
+	"vname": "osCommerce",
+	"vcpe": "cpe:/:oscommerce",
+	"pid": "3852",
+	"pname": "osCommerce Online Merchant",
+	"pcpe": "cpe:/a:oscommerce:online_merchant"
 }

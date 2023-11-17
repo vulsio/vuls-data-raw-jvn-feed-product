@@ -1,8 +1,8 @@
 {
-  "vid": "110",
-  "vname": "Broadcom",
-  "vcpe": "cpe:/:broadcom",
-  "pid": "37877",
-  "pname": "w1ドライバ",
-  "pcpe": "cpe:/a:broadcom:w1_driver"
+	"vid": "110",
+	"vname": "Broadcom",
+	"vcpe": "cpe:/:broadcom",
+	"pid": "37877",
+	"pname": "w1ドライバ",
+	"pcpe": "cpe:/a:broadcom:w1_driver"
 }

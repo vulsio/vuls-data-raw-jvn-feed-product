@@ -1,8 +1,8 @@
 {
-  "vid": "13107",
-  "vname": "Intelbras",
-  "vcpe": "cpe:/:intelbras",
-  "pid": "49943",
-  "pname": "WIN 300 ファームウェア",
-  "pcpe": "cpe:/o:intelbras:win_300_firmware"
+	"vid": "13107",
+	"vname": "Intelbras",
+	"vcpe": "cpe:/:intelbras",
+	"pid": "49943",
+	"pname": "WIN 300 ファームウェア",
+	"pcpe": "cpe:/o:intelbras:win_300_firmware"
 }

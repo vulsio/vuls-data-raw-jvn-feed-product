@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "440",
-  "pname": "Cosminexus Server",
-  "pcpe": "cpe:/a:hitachi:cosminexus_server"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "440",
+	"pname": "Cosminexus Server",
+	"pcpe": "cpe:/a:hitachi:cosminexus_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9285",
-  "vname": "UPC",
-  "vcpe": "cpe:/:upc",
-  "pid": "42510",
-  "pname": "Connect Box EuroDOCSIS ファームウェア",
-  "pcpe": "cpe:/o:upc:connect_box_eurodocsis_firmware"
+	"vid": "9285",
+	"vname": "UPC",
+	"vcpe": "cpe:/:upc",
+	"pid": "42510",
+	"pname": "Connect Box EuroDOCSIS ファームウェア",
+	"pcpe": "cpe:/o:upc:connect_box_eurodocsis_firmware"
 }

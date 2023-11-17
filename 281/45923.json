@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "45923",
-  "pname": "Whoopsie",
-  "pcpe": "cpe:/a:canonical:whoopsie"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "45923",
+	"pname": "Whoopsie",
+	"pcpe": "cpe:/a:canonical:whoopsie"
 }

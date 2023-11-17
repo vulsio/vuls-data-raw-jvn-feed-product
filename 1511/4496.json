@@ -1,8 +1,8 @@
 {
-  "vid": "1511",
-  "vname": "icanlocalize",
-  "vcpe": "cpe:/:icanlocalize",
-  "pid": "4496",
-  "pname": "translation management",
-  "pcpe": "cpe:/a:icanlocalize:translation_management"
+	"vid": "1511",
+	"vname": "icanlocalize",
+	"vcpe": "cpe:/:icanlocalize",
+	"pid": "4496",
+	"pname": "translation management",
+	"pcpe": "cpe:/a:icanlocalize:translation_management"
 }

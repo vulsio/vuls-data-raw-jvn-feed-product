@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "25337",
-  "pname": "IBM Packaging Utility",
-  "pcpe": "cpe:/a:ibm:packaging_utility"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "25337",
+	"pname": "IBM Packaging Utility",
+	"pcpe": "cpe:/a:ibm:packaging_utility"
 }

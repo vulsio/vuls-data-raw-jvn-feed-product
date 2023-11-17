@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "58622",
-  "pname": "simatic cfu diq ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_cfu_diq_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "58622",
+	"pname": "simatic cfu diq ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_cfu_diq_firmware"
 }

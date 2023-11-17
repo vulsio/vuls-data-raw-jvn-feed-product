@@ -1,8 +1,8 @@
 {
-  "vid": "16943",
-  "vname": "wp-buy",
-  "vcpe": "cpe:/:wp-buy",
-  "pid": "50563",
-  "pname": "Conditional Marketing Mailer for WooCommerce",
-  "pcpe": "cpe:/a:wp-buy:conditional_marketing_mailer"
+	"vid": "16943",
+	"vname": "wp-buy",
+	"vcpe": "cpe:/:wp-buy",
+	"pid": "50563",
+	"pname": "Conditional Marketing Mailer for WooCommerce",
+	"pcpe": "cpe:/a:wp-buy:conditional_marketing_mailer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "81",
-  "vname": "Python Software Foundation",
-  "vcpe": "cpe:/:python",
-  "pid": "14126",
-  "pname": "paramiko",
-  "pcpe": "cpe:/a:python:paramiko"
+	"vid": "81",
+	"vname": "Python Software Foundation",
+	"vcpe": "cpe:/:python",
+	"pid": "14126",
+	"pname": "paramiko",
+	"pcpe": "cpe:/a:python:paramiko"
 }

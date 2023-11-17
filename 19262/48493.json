@@ -1,8 +1,8 @@
 {
-  "vid": "19262",
-  "vname": "Thoughtworks, Inc",
-  "vcpe": "cpe:/:thoughtworks",
-  "pid": "48493",
-  "pname": "GoCD",
-  "pcpe": "cpe:/a:thoughtworks:gocd"
+	"vid": "19262",
+	"vname": "Thoughtworks, Inc",
+	"vcpe": "cpe:/:thoughtworks",
+	"pid": "48493",
+	"pname": "GoCD",
+	"pcpe": "cpe:/a:thoughtworks:gocd"
 }

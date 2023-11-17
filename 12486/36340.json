@@ -1,8 +1,8 @@
 {
-  "vid": "12486",
-  "vname": "Orange",
-  "vcpe": "cpe:/:orange",
-  "pid": "36340",
-  "pname": "AirBox ファームウェア",
-  "pcpe": "cpe:/o:orange:airbox_firmware"
+	"vid": "12486",
+	"vname": "Orange",
+	"vcpe": "cpe:/:orange",
+	"pid": "36340",
+	"pname": "AirBox ファームウェア",
+	"pcpe": "cpe:/o:orange:airbox_firmware"
 }

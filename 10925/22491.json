@@ -1,8 +1,8 @@
 {
-  "vid": "10925",
-  "vname": "icbc",
-  "vcpe": "cpe:/:icbc",
-  "pid": "22491",
-  "pname": "industrial and commercial bank of china",
-  "pcpe": "cpe:/a:icbc:industrial_and_commercial_bank_of_china"
+	"vid": "10925",
+	"vname": "icbc",
+	"vcpe": "cpe:/:icbc",
+	"pid": "22491",
+	"pname": "industrial and commercial bank of china",
+	"pcpe": "cpe:/a:icbc:industrial_and_commercial_bank_of_china"
 }

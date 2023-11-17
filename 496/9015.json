@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "9015",
-  "pname": "BIG-IP Access Policy Manager (APM)",
-  "pcpe": "cpe:/a:f5:big-ip_access_policy_manager"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "9015",
+	"pname": "BIG-IP Access Policy Manager (APM)",
+	"pcpe": "cpe:/a:f5:big-ip_access_policy_manager"
 }

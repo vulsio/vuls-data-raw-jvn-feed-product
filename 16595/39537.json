@@ -1,8 +1,8 @@
 {
-  "vid": "16595",
-  "vname": "Elcom",
-  "vcpe": "cpe:/:elcom",
-  "pid": "39537",
-  "pname": "Elcom CMS",
-  "pcpe": "cpe:/a:elcom:elcom_cms"
+	"vid": "16595",
+	"vname": "Elcom",
+	"vcpe": "cpe:/:elcom",
+	"pid": "39537",
+	"pname": "Elcom CMS",
+	"pcpe": "cpe:/a:elcom:elcom_cms"
 }

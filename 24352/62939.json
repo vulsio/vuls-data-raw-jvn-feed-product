@@ -1,8 +1,8 @@
 {
-  "vid": "24352",
-  "vname": "proscend",
-  "vcpe": "cpe:/:proscend",
-  "pid": "62939",
-  "pname": "m350-6 ファームウェア",
-  "pcpe": "cpe:/o:proscend:m350-6_firmware"
+	"vid": "24352",
+	"vname": "proscend",
+	"vcpe": "cpe:/:proscend",
+	"pid": "62939",
+	"pname": "m350-6 ファームウェア",
+	"pcpe": "cpe:/o:proscend:m350-6_firmware"
 }

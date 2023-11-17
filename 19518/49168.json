@@ -1,8 +1,8 @@
 {
-  "vid": "19518",
-  "vname": "Carbonite, Inc.",
-  "vcpe": "cpe:/:carbonite",
-  "pid": "49168",
-  "pname": "Server Backup Portal",
-  "pcpe": "cpe:/a:carbonite:server_backup_portal"
+	"vid": "19518",
+	"vname": "Carbonite, Inc.",
+	"vcpe": "cpe:/:carbonite",
+	"pid": "49168",
+	"pname": "Server Backup Portal",
+	"pcpe": "cpe:/a:carbonite:server_backup_portal"
 }

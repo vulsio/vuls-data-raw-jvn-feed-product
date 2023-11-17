@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47845",
-  "pname": "Oracle Incentive Compensation",
-  "pcpe": "cpe:/a:oracle:incentive_compensation"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47845",
+	"pname": "Oracle Incentive Compensation",
+	"pcpe": "cpe:/a:oracle:incentive_compensation"
 }

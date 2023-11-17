@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "5331",
-  "pname": "DS4400 (FAStT700) Storage Server",
-  "pcpe": "cpe:/h:ibm:ds4400"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "5331",
+	"pname": "DS4400 (FAStT700) Storage Server",
+	"pcpe": "cpe:/h:ibm:ds4400"
 }

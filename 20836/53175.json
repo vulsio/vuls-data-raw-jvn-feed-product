@@ -1,8 +1,8 @@
 {
-  "vid": "20836",
-  "vname": "nuxref",
-  "vcpe": "cpe:/:nuxref",
-  "pid": "53175",
-  "pname": "Apprise",
-  "pcpe": "cpe:/a:nuxref:apprise"
+	"vid": "20836",
+	"vname": "nuxref",
+	"vcpe": "cpe:/:nuxref",
+	"pid": "53175",
+	"pname": "Apprise",
+	"pcpe": "cpe:/a:nuxref:apprise"
 }

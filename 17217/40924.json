@@ -1,8 +1,8 @@
 {
-  "vid": "17217",
-  "vname": "WebARX",
-  "vcpe": "cpe:/:webarxsecurity",
-  "pid": "40924",
-  "pname": "WebARX",
-  "pcpe": "cpe:/a:webarxsecurity:webarx"
+	"vid": "17217",
+	"vname": "WebARX",
+	"vcpe": "cpe:/:webarxsecurity",
+	"pid": "40924",
+	"pname": "WebARX",
+	"pcpe": "cpe:/a:webarxsecurity:webarx"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18837",
-  "vname": "Nahimic",
-  "vcpe": "cpe:/:nahimic",
-  "pid": "46934",
-  "pname": "APO Software Component Driver",
-  "pcpe": "cpe:/a:nahimic:apo_software_component"
+	"vid": "18837",
+	"vname": "Nahimic",
+	"vcpe": "cpe:/:nahimic",
+	"pid": "46934",
+	"pname": "APO Software Component Driver",
+	"pcpe": "cpe:/a:nahimic:apo_software_component"
 }

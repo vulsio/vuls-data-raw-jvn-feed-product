@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "4637",
-  "pname": "cloud manager",
-  "pcpe": "cpe:/a:novell:cloud_manager"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "4637",
+	"pname": "cloud manager",
+	"pcpe": "cpe:/a:novell:cloud_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17736",
-  "vname": "OBS server",
-  "vcpe": "cpe:/:obs-server",
-  "pid": "42605",
-  "pname": "OBS server",
-  "pcpe": "cpe:/a:obs-server:obs-server"
+	"vid": "17736",
+	"vname": "OBS server",
+	"vcpe": "cpe:/:obs-server",
+	"pid": "42605",
+	"pname": "OBS server",
+	"pcpe": "cpe:/a:obs-server:obs-server"
 }

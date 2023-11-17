@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "32931",
-  "pname": "SIPROTEC 4 7SJ66 ファームウェア",
-  "pcpe": "cpe:/o:siemens:siprotec_4_7sj66_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "32931",
+	"pname": "SIPROTEC 4 7SJ66 ファームウェア",
+	"pcpe": "cpe:/o:siemens:siprotec_4_7sj66_firmware"
 }

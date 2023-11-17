@@ -1,8 +1,8 @@
 {
-  "vid": "16522",
-  "vname": "DOSBox",
-  "vcpe": "cpe:/:dosbox",
-  "pid": "39316",
-  "pname": "DOSBox",
-  "pcpe": "cpe:/a:dosbox:dosbox"
+	"vid": "16522",
+	"vname": "DOSBox",
+	"vcpe": "cpe:/:dosbox",
+	"pid": "39316",
+	"pname": "DOSBox",
+	"pcpe": "cpe:/a:dosbox:dosbox"
 }

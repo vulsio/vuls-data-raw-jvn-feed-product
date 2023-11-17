@@ -1,8 +1,8 @@
 {
-  "vid": "13675",
-  "vname": "Eventum project",
-  "vcpe": "cpe:/:eventum_project",
-  "pid": "32359",
-  "pname": "Eventum",
-  "pcpe": "cpe:/a:eventum_project:eventum"
+	"vid": "13675",
+	"vname": "Eventum project",
+	"vcpe": "cpe:/:eventum_project",
+	"pid": "32359",
+	"pname": "Eventum",
+	"pcpe": "cpe:/a:eventum_project:eventum"
 }

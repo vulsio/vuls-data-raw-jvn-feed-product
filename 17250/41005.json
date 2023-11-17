@@ -1,8 +1,8 @@
 {
-  "vid": "17250",
-  "vname": "Netreo",
-  "vcpe": "cpe:/:netreo",
-  "pid": "41005",
-  "pname": "OmniCenter",
-  "pcpe": "cpe:/a:netreo:omnicenter"
+	"vid": "17250",
+	"vname": "Netreo",
+	"vcpe": "cpe:/:netreo",
+	"pid": "41005",
+	"pname": "OmniCenter",
+	"pcpe": "cpe:/a:netreo:omnicenter"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15327",
-  "vname": "Anchore, Inc.",
-  "vcpe": "cpe:/:anchore",
-  "pid": "61556",
-  "pname": "Syft",
-  "pcpe": "cpe:/a:anchore:syft"
+	"vid": "15327",
+	"vname": "Anchore, Inc.",
+	"vcpe": "cpe:/:anchore",
+	"pid": "61556",
+	"pname": "Syft",
+	"pcpe": "cpe:/a:anchore:syft"
 }

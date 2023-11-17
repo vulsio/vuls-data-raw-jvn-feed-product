@@ -1,8 +1,8 @@
 {
-  "vid": "20043",
-  "vname": "Bytecode Alliance",
-  "vcpe": "cpe:/:bytecodealliance",
-  "pid": "54810",
-  "pname": "Lucet",
-  "pcpe": "cpe:/a:bytecodealliance:lucet"
+	"vid": "20043",
+	"vname": "Bytecode Alliance",
+	"vcpe": "cpe:/:bytecodealliance",
+	"pid": "54810",
+	"pname": "Lucet",
+	"pcpe": "cpe:/a:bytecodealliance:lucet"
 }

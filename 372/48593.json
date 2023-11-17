@@ -1,8 +1,8 @@
 {
-  "vid": "372",
-  "vname": "Nagios Enterprises, LLC",
-  "vcpe": "cpe:/:nagios",
-  "pid": "48593",
-  "pname": "Nagios Network Analyzer",
-  "pcpe": "cpe:/a:nagios:network_analyzer"
+	"vid": "372",
+	"vname": "Nagios Enterprises, LLC",
+	"vcpe": "cpe:/:nagios",
+	"pid": "48593",
+	"pname": "Nagios Network Analyzer",
+	"pcpe": "cpe:/a:nagios:network_analyzer"
 }

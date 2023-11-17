@@ -1,8 +1,8 @@
 {
-  "vid": "13166",
-  "vname": "DenyAll",
-  "vcpe": "cpe:/:denyall",
-  "pid": "30717",
-  "pname": "DenyAll WAF",
-  "pcpe": "cpe:/a:denyall:web_application_firewall"
+	"vid": "13166",
+	"vname": "DenyAll",
+	"vcpe": "cpe:/:denyall",
+	"pid": "30717",
+	"pname": "DenyAll WAF",
+	"pcpe": "cpe:/a:denyall:web_application_firewall"
 }

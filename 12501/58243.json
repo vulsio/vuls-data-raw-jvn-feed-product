@@ -1,8 +1,8 @@
 {
-  "vid": "12501",
-  "vname": "Tesla, Inc.",
-  "vcpe": "cpe:/:tesla",
-  "pid": "58243",
-  "pname": "model s ファームウェア",
-  "pcpe": "cpe:/o:tesla:model_s_firmware"
+	"vid": "12501",
+	"vname": "Tesla, Inc.",
+	"vcpe": "cpe:/:tesla",
+	"pid": "58243",
+	"pname": "model s ファームウェア",
+	"pcpe": "cpe:/o:tesla:model_s_firmware"
 }

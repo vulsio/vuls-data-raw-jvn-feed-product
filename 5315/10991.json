@@ -1,8 +1,8 @@
 {
-  "vid": "5315",
-  "vname": "limbo cms",
-  "vcpe": "cpe:/:limbo_cms",
-  "pid": "10991",
-  "pname": "com privmsg",
-  "pcpe": "cpe:/a:limbo_cms:com_privmsg"
+	"vid": "5315",
+	"vname": "limbo cms",
+	"vcpe": "cpe:/:limbo_cms",
+	"pid": "10991",
+	"pname": "com privmsg",
+	"pcpe": "cpe:/a:limbo_cms:com_privmsg"
 }

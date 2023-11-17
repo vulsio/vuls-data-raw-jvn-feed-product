@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "26470",
-  "pname": "Norton Bootable Removal Tool",
-  "pcpe": "cpe:/a:symantec:norton_bootable_removal_tool"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "26470",
+	"pname": "Norton Bootable Removal Tool",
+	"pcpe": "cpe:/a:symantec:norton_bootable_removal_tool"
 }

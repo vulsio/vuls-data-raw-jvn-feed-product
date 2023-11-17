@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "57053",
-  "pname": "LiveWallpaperService",
-  "pcpe": "cpe:/a:samsung:livewallpaperservice"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "57053",
+	"pname": "LiveWallpaperService",
+	"pcpe": "cpe:/a:samsung:livewallpaperservice"
 }

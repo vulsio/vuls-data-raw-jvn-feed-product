@@ -1,8 +1,8 @@
 {
-  "vid": "8459",
-  "vname": "webilix",
-  "vcpe": "cpe:/:webilix",
-  "pid": "16075",
-  "pname": "wx-guestbook",
-  "pcpe": "cpe:/a:webilix:wx-guestbook"
+	"vid": "8459",
+	"vname": "webilix",
+	"vcpe": "cpe:/:webilix",
+	"pid": "16075",
+	"pname": "wx-guestbook",
+	"pcpe": "cpe:/a:webilix:wx-guestbook"
 }

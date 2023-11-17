@@ -1,8 +1,8 @@
 {
-  "vid": "12989",
-  "vname": "HashiCorp",
-  "vcpe": "cpe:/:hashicorp",
-  "pid": "35747",
-  "pname": "Packer",
-  "pcpe": "cpe:/a:hashicorp:packer"
+	"vid": "12989",
+	"vname": "HashiCorp",
+	"vcpe": "cpe:/:hashicorp",
+	"pid": "35747",
+	"pname": "Packer",
+	"pcpe": "cpe:/a:hashicorp:packer"
 }

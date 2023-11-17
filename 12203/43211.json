@@ -1,8 +1,8 @@
 {
-  "vid": "12203",
-  "vname": "Nextcloud",
-  "vcpe": "cpe:/:nextcloud",
-  "pid": "43211",
-  "pname": "Nextcloud Circles",
-  "pcpe": "cpe:/a:nextcloud:circles"
+	"vid": "12203",
+	"vname": "Nextcloud",
+	"vcpe": "cpe:/:nextcloud",
+	"pid": "43211",
+	"pname": "Nextcloud Circles",
+	"pcpe": "cpe:/a:nextcloud:circles"
 }

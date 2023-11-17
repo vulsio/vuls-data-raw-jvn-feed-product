@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "9141",
-  "pname": "OpenStack Compute Folsom",
-  "pcpe": "cpe:/a:openstack:folsom"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "9141",
+	"pname": "OpenStack Compute Folsom",
+	"pcpe": "cpe:/a:openstack:folsom"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "23395",
-  "vname": "HC Custom WP-Admin URL project",
-  "vcpe": "cpe:/:hc_custom_wp-admin_url_project",
-  "pid": "60640",
-  "pname": "HC Custom WP-Admin URL",
-  "pcpe": "cpe:/a:hc_custom_wp-admin_url_project:hc_custom_wp-admin_url"
+	"vid": "23395",
+	"vname": "HC Custom WP-Admin URL project",
+	"vcpe": "cpe:/:hc_custom_wp-admin_url_project",
+	"pid": "60640",
+	"pname": "HC Custom WP-Admin URL",
+	"pcpe": "cpe:/a:hc_custom_wp-admin_url_project:hc_custom_wp-admin_url"
 }

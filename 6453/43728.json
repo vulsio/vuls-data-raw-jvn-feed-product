@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "43728",
-  "pname": "X952 ファームウェア",
-  "pcpe": "cpe:/o:lexmark:x952_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "43728",
+	"pname": "X952 ファームウェア",
+	"pcpe": "cpe:/o:lexmark:x952_firmware"
 }

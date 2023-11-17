@@ -1,8 +1,8 @@
 {
-  "vid": "480",
-  "vname": "Nullsoft",
-  "vcpe": "cpe:/:nullsoft",
-  "pid": "36198",
-  "pname": "Nullsoft Scriptable Install System",
-  "pcpe": "cpe:/a:nullsoft:nullsoft_scriptable_install_system"
+	"vid": "480",
+	"vname": "Nullsoft",
+	"vcpe": "cpe:/:nullsoft",
+	"pid": "36198",
+	"pname": "Nullsoft Scriptable Install System",
+	"pcpe": "cpe:/a:nullsoft:nullsoft_scriptable_install_system"
 }

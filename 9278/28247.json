@@ -1,8 +1,8 @@
 {
-  "vid": "9278",
-  "vname": "Eaton",
-  "vcpe": "cpe:/:eaton",
-  "pid": "28247",
-  "pname": "xComfort Ethernet Communication Interface",
-  "pcpe": "cpe:/a:eaton:xcomfort_ethernet_communication_interface"
+	"vid": "9278",
+	"vname": "Eaton",
+	"vcpe": "cpe:/:eaton",
+	"pid": "28247",
+	"pname": "xComfort Ethernet Communication Interface",
+	"pcpe": "cpe:/a:eaton:xcomfort_ethernet_communication_interface"
 }

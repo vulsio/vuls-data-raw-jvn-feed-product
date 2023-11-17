@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "25272",
-  "pname": "ZyNOS",
-  "pcpe": "cpe:/o:zyxel:zynos_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "25272",
+	"pname": "ZyNOS",
+	"pcpe": "cpe:/o:zyxel:zynos_firmware"
 }

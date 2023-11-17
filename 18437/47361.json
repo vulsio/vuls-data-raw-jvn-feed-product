@@ -1,8 +1,8 @@
 {
-  "vid": "18437",
-  "vname": "Nozomi Networks Inc.",
-  "vcpe": "cpe:/:nozominetworks",
-  "pid": "47361",
-  "pname": "CMC",
-  "pcpe": "cpe:/a:nozominetworks:central_management_control"
+	"vid": "18437",
+	"vname": "Nozomi Networks Inc.",
+	"vcpe": "cpe:/:nozominetworks",
+	"pid": "47361",
+	"pname": "CMC",
+	"pcpe": "cpe:/a:nozominetworks:central_management_control"
 }

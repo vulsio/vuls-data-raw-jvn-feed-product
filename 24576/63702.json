@@ -1,8 +1,8 @@
 {
-  "vid": "24576",
-  "vname": "sra-admin project",
-  "vcpe": "cpe:/:sra-admin_project",
-  "pid": "63702",
-  "pname": "sra-admin",
-  "pcpe": "cpe:/a:sra-admin_project:sra-admin"
+	"vid": "24576",
+	"vname": "sra-admin project",
+	"vcpe": "cpe:/:sra-admin_project",
+	"pid": "63702",
+	"pname": "sra-admin",
+	"pcpe": "cpe:/a:sra-admin_project:sra-admin"
 }

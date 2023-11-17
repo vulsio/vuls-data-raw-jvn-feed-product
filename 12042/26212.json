@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26212",
-  "pname": "RESTful Interface Tool",
-  "pcpe": "cpe:/a:hp:restful_interface_tool"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26212",
+	"pname": "RESTful Interface Tool",
+	"pcpe": "cpe:/a:hp:restful_interface_tool"
 }

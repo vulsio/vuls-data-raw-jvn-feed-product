@@ -1,8 +1,8 @@
 {
-  "vid": "15845",
-  "vname": "Ubee Interactive",
-  "vcpe": "cpe:/:ubeeinteractive",
-  "pid": "36936",
-  "pname": "DVW2108 ファームウェア",
-  "pcpe": "cpe:/o:ubeeinteractive:dvw2108_firmware"
+	"vid": "15845",
+	"vname": "Ubee Interactive",
+	"vcpe": "cpe:/:ubeeinteractive",
+	"pid": "36936",
+	"pname": "DVW2108 ファームウェア",
+	"pcpe": "cpe:/o:ubeeinteractive:dvw2108_firmware"
 }

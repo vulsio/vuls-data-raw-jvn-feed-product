@@ -1,8 +1,8 @@
 {
-  "vid": "7018",
-  "vname": "pnotepad",
-  "vcpe": "cpe:/:pnotepad",
-  "pid": "13924",
-  "pname": "programmers notepad",
-  "pcpe": "cpe:/a:pnotepad:programmers_notepad"
+	"vid": "7018",
+	"vname": "pnotepad",
+	"vcpe": "cpe:/:pnotepad",
+	"pid": "13924",
+	"pname": "programmers notepad",
+	"pcpe": "cpe:/a:pnotepad:programmers_notepad"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2017",
-  "vname": "Activision Publishing",
-  "vcpe": "cpe:/:activision",
-  "pid": "33565",
-  "pname": "Call of Duty Modern Warfare 2",
-  "pcpe": "cpe:/a:activision:call_of_duty_modern_warfare_2"
+	"vid": "2017",
+	"vname": "Activision Publishing",
+	"vcpe": "cpe:/:activision",
+	"pid": "33565",
+	"pname": "Call of Duty Modern Warfare 2",
+	"pcpe": "cpe:/a:activision:call_of_duty_modern_warfare_2"
 }

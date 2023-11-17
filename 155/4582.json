@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "4582",
-  "pname": "McAfee SaaS Endpoint Protection",
-  "pcpe": "cpe:/a:mcafee:saas_endpoint_protection"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "4582",
+	"pname": "McAfee SaaS Endpoint Protection",
+	"pcpe": "cpe:/a:mcafee:saas_endpoint_protection"
 }

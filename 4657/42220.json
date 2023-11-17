@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "42220",
-  "pname": "M6 ファームウェア",
-  "pcpe": "cpe:/o:huawei:m6_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "42220",
+	"pname": "M6 ファームウェア",
+	"pcpe": "cpe:/o:huawei:m6_firmware"
 }

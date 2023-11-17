@@ -1,8 +1,8 @@
 {
-  "vid": "5383",
-  "vname": "LTSP",
-  "vcpe": "cpe:/:ltsp",
-  "pid": "11072",
-  "pname": "Linux Terminal Server Project",
-  "pcpe": "cpe:/a:ltsp:linux_terminal_server_project"
+	"vid": "5383",
+	"vname": "LTSP",
+	"vcpe": "cpe:/:ltsp",
+	"pid": "11072",
+	"pname": "Linux Terminal Server Project",
+	"pcpe": "cpe:/a:ltsp:linux_terminal_server_project"
 }

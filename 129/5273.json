@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "5273",
-  "pname": "Cosminexus XML Processor",
-  "pcpe": "cpe:/a:hitachi:cosminexus_xml_processor"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "5273",
+	"pname": "Cosminexus XML Processor",
+	"pcpe": "cpe:/a:hitachi:cosminexus_xml_processor"
 }

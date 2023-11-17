@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19640",
-  "pname": "Cisco RV110W Wireless-N VPN Firewall ファームウェア",
-  "pcpe": "cpe:/o:cisco:rv110w_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19640",
+	"pname": "Cisco RV110W Wireless-N VPN Firewall ファームウェア",
+	"pcpe": "cpe:/o:cisco:rv110w_firmware"
 }

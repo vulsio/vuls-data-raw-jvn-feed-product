@@ -1,8 +1,8 @@
 {
-  "vid": "12212",
-  "vname": "INDAS LLC",
-  "vcpe": "cpe:/:indasengineering",
-  "pid": "26996",
-  "pname": "Web SCADA",
-  "pcpe": "cpe:/a:indasengineering:web_scada"
+	"vid": "12212",
+	"vname": "INDAS LLC",
+	"vcpe": "cpe:/:indasengineering",
+	"pid": "26996",
+	"pname": "Web SCADA",
+	"pcpe": "cpe:/a:indasengineering:web_scada"
 }

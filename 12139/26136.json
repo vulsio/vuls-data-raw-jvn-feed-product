@@ -1,8 +1,8 @@
 {
-  "vid": "12139",
-  "vname": "国土地理院",
-  "vcpe": "cpe:/:gsi",
-  "pid": "26136",
-  "pname": "平成27年1月以前の旧地理院地図のソース",
-  "pcpe": "cpe:/a:gsi:old_gsi_maps"
+	"vid": "12139",
+	"vname": "国土地理院",
+	"vcpe": "cpe:/:gsi",
+	"pid": "26136",
+	"pname": "平成27年1月以前の旧地理院地図のソース",
+	"pcpe": "cpe:/a:gsi:old_gsi_maps"
 }

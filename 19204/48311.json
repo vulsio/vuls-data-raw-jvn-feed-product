@@ -1,8 +1,8 @@
 {
-  "vid": "19204",
-  "vname": "codemiq",
-  "vcpe": "cpe:/:codemiq",
-  "pid": "48311",
-  "pname": "WordPress Email Template Designer - WP HTML Mail",
-  "pcpe": "cpe:/a:codemiq:wordpress_email_template_designer"
+	"vid": "19204",
+	"vname": "codemiq",
+	"vcpe": "cpe:/:codemiq",
+	"pid": "48311",
+	"pname": "WordPress Email Template Designer - WP HTML Mail",
+	"pcpe": "cpe:/a:codemiq:wordpress_email_template_designer"
 }

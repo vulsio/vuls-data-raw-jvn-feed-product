@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "31974",
-  "pname": "Oracle Financial Services Analytical Applications Reconciliation Framework",
-  "pcpe": "cpe:/a:oracle:financial_services_analytical_applications_reconciliation_framework"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "31974",
+	"pname": "Oracle Financial Services Analytical Applications Reconciliation Framework",
+	"pcpe": "cpe:/a:oracle:financial_services_analytical_applications_reconciliation_framework"
 }

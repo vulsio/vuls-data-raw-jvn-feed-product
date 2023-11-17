@@ -1,8 +1,8 @@
 {
-  "vid": "12992",
-  "vname": "PHICOMM",
-  "vcpe": "cpe:/:phicomm",
-  "pid": "57732",
-  "pname": "k2 ファームウェア",
-  "pcpe": "cpe:/o:phicomm:k2_firmware"
+	"vid": "12992",
+	"vname": "PHICOMM",
+	"vcpe": "cpe:/:phicomm",
+	"pid": "57732",
+	"pname": "k2 ファームウェア",
+	"pcpe": "cpe:/o:phicomm:k2_firmware"
 }

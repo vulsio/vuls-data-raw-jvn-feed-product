@@ -1,8 +1,8 @@
 {
-  "vid": "8429",
-  "vname": "webbiscuits",
-  "vcpe": "cpe:/:webbiscuits",
-  "pid": "16041",
-  "pname": "modules controller",
-  "pcpe": "cpe:/a:webbiscuits:modules_controller"
+	"vid": "8429",
+	"vname": "webbiscuits",
+	"vcpe": "cpe:/:webbiscuits",
+	"pid": "16041",
+	"pname": "modules controller",
+	"pcpe": "cpe:/a:webbiscuits:modules_controller"
 }

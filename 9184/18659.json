@@ -1,8 +1,8 @@
 {
-  "vid": "9184",
-  "vname": "Tyler Technologies",
-  "vcpe": "cpe:/:tyler_technologies",
-  "pid": "18659",
-  "pname": "TaxWeb",
-  "pcpe": "cpe:/a:tyler_technologies:taxweb"
+	"vid": "9184",
+	"vname": "Tyler Technologies",
+	"vcpe": "cpe:/:tyler_technologies",
+	"pid": "18659",
+	"pname": "TaxWeb",
+	"pcpe": "cpe:/a:tyler_technologies:taxweb"
 }

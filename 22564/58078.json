@@ -1,8 +1,8 @@
 {
-  "vid": "22564",
-  "vname": "bluedon",
-  "vcpe": "cpe:/:bluedon",
-  "pid": "58078",
-  "pname": "internet access detector",
-  "pcpe": "cpe:/a:bluedon:internet_access_detector"
+	"vid": "22564",
+	"vname": "bluedon",
+	"vcpe": "cpe:/:bluedon",
+	"pid": "58078",
+	"pname": "internet access detector",
+	"pcpe": "cpe:/a:bluedon:internet_access_detector"
 }

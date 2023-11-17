@@ -1,8 +1,8 @@
 {
-  "vid": "508",
-  "vname": "PHPNUKE",
-  "vcpe": "cpe:/:phpnuke",
-  "pid": "12685",
-  "pname": "nukec module",
-  "pcpe": "cpe:/a:phpnuke:nukec_module"
+	"vid": "508",
+	"vname": "PHPNUKE",
+	"vcpe": "cpe:/:phpnuke",
+	"pid": "12685",
+	"pname": "nukec module",
+	"pcpe": "cpe:/a:phpnuke:nukec_module"
 }

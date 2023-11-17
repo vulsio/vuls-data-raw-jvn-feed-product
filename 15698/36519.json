@@ -1,8 +1,8 @@
 {
-  "vid": "15698",
-  "vname": "Logicspice",
-  "vcpe": "cpe:/:logicspice",
-  "pid": "36519",
-  "pname": "FAQ Script",
-  "pcpe": "cpe:/a:logicspice:faq_script"
+	"vid": "15698",
+	"vname": "Logicspice",
+	"vcpe": "cpe:/:logicspice",
+	"pid": "36519",
+	"pname": "FAQ Script",
+	"pcpe": "cpe:/a:logicspice:faq_script"
 }

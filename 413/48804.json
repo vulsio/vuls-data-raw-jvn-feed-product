@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "48804",
-  "pname": "QNX Realtime Platform",
-  "pcpe": "cpe:/o:blackberry:qnx_realtime_platform"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "48804",
+	"pname": "QNX Realtime Platform",
+	"pcpe": "cpe:/o:blackberry:qnx_realtime_platform"
 }

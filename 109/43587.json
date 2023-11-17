@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "43587",
-  "pname": "Symfoware Analytics Server",
-  "pcpe": "cpe:/a:fujitsu:symfoware_analytics_server"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "43587",
+	"pname": "Symfoware Analytics Server",
+	"pcpe": "cpe:/a:fujitsu:symfoware_analytics_server"
 }

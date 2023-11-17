@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "62295",
-  "pname": "xperia 1 ファームウェア",
-  "pcpe": "cpe:/o:sony:xperia_1_firmware"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "62295",
+	"pname": "xperia 1 ファームウェア",
+	"pcpe": "cpe:/o:sony:xperia_1_firmware"
 }

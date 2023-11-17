@@ -1,8 +1,8 @@
 {
-  "vid": "6457",
-  "vname": "Marvell",
-  "vcpe": "cpe:/:marvell",
-  "pid": "12959",
-  "pname": "88w8361p-bem chipset",
-  "pcpe": "cpe:/h:marvell:88w8361p-bem_chipset"
+	"vid": "6457",
+	"vname": "Marvell",
+	"vcpe": "cpe:/:marvell",
+	"pid": "12959",
+	"pname": "88w8361p-bem chipset",
+	"pcpe": "cpe:/h:marvell:88w8361p-bem_chipset"
 }

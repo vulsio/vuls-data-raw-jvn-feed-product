@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "60925",
-  "pname": "archer a5 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:archer_a5_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "60925",
+	"pname": "archer a5 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:archer_a5_firmware"
 }

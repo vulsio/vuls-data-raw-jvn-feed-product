@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27354",
-  "pname": "ThinkPad Tablet 10 BIOS",
-  "pcpe": "cpe:/o:lenovo:thinkpad_tablet_10_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27354",
+	"pname": "ThinkPad Tablet 10 BIOS",
+	"pcpe": "cpe:/o:lenovo:thinkpad_tablet_10_bios"
 }

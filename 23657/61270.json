@@ -1,8 +1,8 @@
 {
-  "vid": "23657",
-  "vname": "trainenergyserver project",
-  "vcpe": "cpe:/:trainenergyserver_project",
-  "pid": "61270",
-  "pname": "trainenergyserver",
-  "pcpe": "cpe:/a:trainenergyserver_project:trainenergyserver"
+	"vid": "23657",
+	"vname": "trainenergyserver project",
+	"vcpe": "cpe:/:trainenergyserver_project",
+	"pid": "61270",
+	"pname": "trainenergyserver",
+	"pcpe": "cpe:/a:trainenergyserver_project:trainenergyserver"
 }

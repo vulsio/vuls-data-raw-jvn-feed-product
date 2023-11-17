@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "56800",
-  "pname": "NetApp Kubernetes Monitoring Operator",
-  "pcpe": "cpe:/a:netapp:kubernetes_monitoring_operator"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "56800",
+	"pname": "NetApp Kubernetes Monitoring Operator",
+	"pcpe": "cpe:/a:netapp:kubernetes_monitoring_operator"
 }

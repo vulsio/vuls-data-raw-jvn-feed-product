@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9988",
-  "pname": "lotus expeditor client",
-  "pcpe": "cpe:/a:ibm:lotus_expeditor_client"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9988",
+	"pname": "lotus expeditor client",
+	"pcpe": "cpe:/a:ibm:lotus_expeditor_client"
 }

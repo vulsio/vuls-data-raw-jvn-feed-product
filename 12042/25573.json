@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25573",
-  "pname": "JG408A HP MSR3024 PoE Router",
-  "pcpe": "cpe:/h:hp:jg408a_hp_msr3024_poe_router"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25573",
+	"pname": "JG408A HP MSR3024 PoE Router",
+	"pcpe": "cpe:/h:hp:jg408a_hp_msr3024_poe_router"
 }

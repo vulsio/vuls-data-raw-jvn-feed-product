@@ -1,8 +1,8 @@
 {
-  "vid": "996",
-  "vname": "zFTPServer",
-  "vcpe": "cpe:/:zftpserver",
-  "pid": "3554",
-  "pname": "zFTPServer Suite",
-  "pcpe": "cpe:/a:zftpserver:zftpserver_suite"
+	"vid": "996",
+	"vname": "zFTPServer",
+	"vcpe": "cpe:/:zftpserver",
+	"pid": "3554",
+	"pname": "zFTPServer Suite",
+	"pcpe": "cpe:/a:zftpserver:zftpserver_suite"
 }

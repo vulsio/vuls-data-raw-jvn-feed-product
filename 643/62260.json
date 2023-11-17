@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "62260",
-  "pname": "BSAFE Crypto-C Micro Edition",
-  "pcpe": "cpe:/a:dell:bsafe_crypto-c-micro-edition"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "62260",
+	"pname": "BSAFE Crypto-C Micro Edition",
+	"pcpe": "cpe:/a:dell:bsafe_crypto-c-micro-edition"
 }

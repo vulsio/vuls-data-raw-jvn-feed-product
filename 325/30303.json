@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30303",
-  "pname": "YANGTIAN Mc Carrizo-L ファームウェア",
-  "pcpe": "cpe:/o:lenovo:yangtian_mc_carrizo-l_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30303",
+	"pname": "YANGTIAN Mc Carrizo-L ファームウェア",
+	"pcpe": "cpe:/o:lenovo:yangtian_mc_carrizo-l_firmware"
 }

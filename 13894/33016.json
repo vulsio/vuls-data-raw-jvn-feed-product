@@ -1,8 +1,8 @@
 {
-  "vid": "13894",
-  "vname": "MiniCMS project",
-  "vcpe": "cpe:/:minicms_project",
-  "pid": "33016",
-  "pname": "MiniCMS",
-  "pcpe": "cpe:/a:minicms_project:minicms"
+	"vid": "13894",
+	"vname": "MiniCMS project",
+	"vcpe": "cpe:/:minicms_project",
+	"pid": "33016",
+	"pname": "MiniCMS",
+	"pcpe": "cpe:/a:minicms_project:minicms"
 }

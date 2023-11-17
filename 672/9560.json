@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "9560",
-  "pname": "ManageEngine Firewall Analyzer",
-  "pcpe": "cpe:/a:zohocorp:manageengine_firewall_analyzer"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "9560",
+	"pname": "ManageEngine Firewall Analyzer",
+	"pcpe": "cpe:/a:zohocorp:manageengine_firewall_analyzer"
 }

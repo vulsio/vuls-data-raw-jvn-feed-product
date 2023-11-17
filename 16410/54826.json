@@ -1,8 +1,8 @@
 {
-  "vid": "16410",
-  "vname": "Auerswald",
-  "vcpe": "cpe:/:auerswald",
-  "pid": "54826",
-  "pname": "COMmander Business(19\") IP ファームウェア",
-  "pcpe": "cpe:/o:auerswald:commander_business%2819%22%29_ip_firmware"
+	"vid": "16410",
+	"vname": "Auerswald",
+	"vcpe": "cpe:/:auerswald",
+	"pid": "54826",
+	"pname": "COMmander Business(19\") IP ファームウェア",
+	"pcpe": "cpe:/o:auerswald:commander_business%2819%22%29_ip_firmware"
 }

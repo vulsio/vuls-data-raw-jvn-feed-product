@@ -1,8 +1,8 @@
 {
-  "vid": "15836",
-  "vname": "Haulmont",
-  "vcpe": "cpe:/:haulmont",
-  "pid": "36921",
-  "pname": "CUBA Platform",
-  "pcpe": "cpe:/a:haulmont:cuba_platform"
+	"vid": "15836",
+	"vname": "Haulmont",
+	"vcpe": "cpe:/:haulmont",
+	"pid": "36921",
+	"pname": "CUBA Platform",
+	"pcpe": "cpe:/a:haulmont:cuba_platform"
 }

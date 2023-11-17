@@ -1,8 +1,8 @@
 {
-  "vid": "4456",
-  "vname": "WAGO",
-  "vcpe": "cpe:/:wago",
-  "pid": "38329",
-  "pname": "ETHERNET ファームウェア",
-  "pcpe": "cpe:/o:wago:ethernet_firmware"
+	"vid": "4456",
+	"vname": "WAGO",
+	"vcpe": "cpe:/:wago",
+	"pid": "38329",
+	"pname": "ETHERNET ファームウェア",
+	"pcpe": "cpe:/o:wago:ethernet_firmware"
 }

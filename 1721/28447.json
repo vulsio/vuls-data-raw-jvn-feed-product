@@ -1,8 +1,8 @@
 {
-  "vid": "1721",
-  "vname": "SolarWinds",
-  "vcpe": "cpe:/:solarwinds",
-  "pid": "28447",
-  "pname": "FTP Voyager",
-  "pcpe": "cpe:/a:solarwinds:ftp_voyager"
+	"vid": "1721",
+	"vname": "SolarWinds",
+	"vcpe": "cpe:/:solarwinds",
+	"pid": "28447",
+	"pname": "FTP Voyager",
+	"pcpe": "cpe:/a:solarwinds:ftp_voyager"
 }

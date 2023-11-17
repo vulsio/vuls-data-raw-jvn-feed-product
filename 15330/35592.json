@@ -1,8 +1,8 @@
 {
-  "vid": "15330",
-  "vname": "Red Gate Software Ltd",
-  "vcpe": "cpe:/:red-gate",
-  "pid": "35592",
-  "pname": ".NET Reflector",
-  "pcpe": "cpe:/a:red-gate:.net_reflector"
+	"vid": "15330",
+	"vname": "Red Gate Software Ltd",
+	"vcpe": "cpe:/:red-gate",
+	"pid": "35592",
+	"pname": ".NET Reflector",
+	"pcpe": "cpe:/a:red-gate:.net_reflector"
 }

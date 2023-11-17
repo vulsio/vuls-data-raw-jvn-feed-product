@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "53966",
-  "pname": "Cisco RV042 Dual WAN VPN ルータ",
-  "pcpe": "cpe:/o:cisco:rv042"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "53966",
+	"pname": "Cisco RV042 Dual WAN VPN ルータ",
+	"pcpe": "cpe:/o:cisco:rv042"
 }

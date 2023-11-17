@@ -1,8 +1,8 @@
 {
-  "vid": "17505",
-  "vname": "Distributed Ruby project",
-  "vcpe": "cpe:/:distributed_ruby_project",
-  "pid": "41868",
-  "pname": "Distributed Ruby (dRuby)",
-  "pcpe": "cpe:/a:distributed_ruby_project:distributed_ruby"
+	"vid": "17505",
+	"vname": "Distributed Ruby project",
+	"vcpe": "cpe:/:distributed_ruby_project",
+	"pid": "41868",
+	"pname": "Distributed Ruby (dRuby)",
+	"pcpe": "cpe:/a:distributed_ruby_project:distributed_ruby"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14663",
-  "vname": "Aprende con DEDOS",
-  "vcpe": "cpe:/:aprendecondedos",
-  "pid": "34379",
-  "pname": "DEDOS-Web",
-  "pcpe": "cpe:/a:aprendecondedos:dedos-web"
+	"vid": "14663",
+	"vname": "Aprende con DEDOS",
+	"vcpe": "cpe:/:aprendecondedos",
+	"pid": "34379",
+	"pname": "DEDOS-Web",
+	"pcpe": "cpe:/a:aprendecondedos:dedos-web"
 }

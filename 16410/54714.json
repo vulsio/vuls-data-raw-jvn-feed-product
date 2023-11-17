@@ -1,8 +1,8 @@
 {
-  "vid": "16410",
-  "vname": "Auerswald",
-  "vcpe": "cpe:/:auerswald",
-  "pid": "54714",
-  "pname": "COMfortel 2600 IP ファームウェア",
-  "pcpe": "cpe:/o:auerswald:comfortel_2600_ip_firmware"
+	"vid": "16410",
+	"vname": "Auerswald",
+	"vcpe": "cpe:/:auerswald",
+	"pid": "54714",
+	"pname": "COMfortel 2600 IP ファームウェア",
+	"pcpe": "cpe:/o:auerswald:comfortel_2600_ip_firmware"
 }

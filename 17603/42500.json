@@ -1,8 +1,8 @@
 {
-  "vid": "17603",
-  "vname": "Sylius",
-  "vcpe": "cpe:/:sylius",
-  "pid": "42500",
-  "pname": "Grid",
-  "pcpe": "cpe:/a:sylius:grid"
+	"vid": "17603",
+	"vname": "Sylius",
+	"vcpe": "cpe:/:sylius",
+	"pid": "42500",
+	"pname": "Grid",
+	"pcpe": "cpe:/a:sylius:grid"
 }

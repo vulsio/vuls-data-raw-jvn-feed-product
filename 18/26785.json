@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "26785",
-  "pname": "IBM MQ Appliance ファームウェア",
-  "pcpe": "cpe:/o:ibm:mq_appliance_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "26785",
+	"pname": "IBM MQ Appliance ファームウェア",
+	"pcpe": "cpe:/o:ibm:mq_appliance_firmware"
 }

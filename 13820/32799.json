@@ -1,8 +1,8 @@
 {
-  "vid": "13820",
-  "vname": "Nortek",
-  "vcpe": "cpe:/:nortekcontrol",
-  "pid": "32799",
-  "pname": "Linear eMerge E3 ファームウェア",
-  "pcpe": "cpe:/o:nortekcontrol:emerge_e3_firmware"
+	"vid": "13820",
+	"vname": "Nortek",
+	"vcpe": "cpe:/:nortekcontrol",
+	"pid": "32799",
+	"pname": "Linear eMerge E3 ファームウェア",
+	"pcpe": "cpe:/o:nortekcontrol:emerge_e3_firmware"
 }

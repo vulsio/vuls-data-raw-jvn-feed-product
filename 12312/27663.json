@@ -1,8 +1,8 @@
 {
-  "vid": "12312",
-  "vname": "Barco",
-  "vcpe": "cpe:/:barco",
-  "pid": "27663",
-  "pname": "ClickShare CSC-1",
-  "pcpe": "cpe:/h:barco:clickshare_csc-1"
+	"vid": "12312",
+	"vname": "Barco",
+	"vcpe": "cpe:/:barco",
+	"pid": "27663",
+	"pname": "ClickShare CSC-1",
+	"pcpe": "cpe:/h:barco:clickshare_csc-1"
 }

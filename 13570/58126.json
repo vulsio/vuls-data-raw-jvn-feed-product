@@ -1,8 +1,8 @@
 {
-  "vid": "13570",
-  "vname": "Sensormatic Electronics",
-  "vcpe": "cpe:/:swhouse",
-  "pid": "58126",
-  "pname": "iSTAR Edge G2 ファームウェア",
-  "pcpe": "cpe:/o:swhouse:istar_edge_g2_firmware"
+	"vid": "13570",
+	"vname": "Sensormatic Electronics",
+	"vcpe": "cpe:/:swhouse",
+	"pid": "58126",
+	"pname": "iSTAR Edge G2 ファームウェア",
+	"pcpe": "cpe:/o:swhouse:istar_edge_g2_firmware"
 }

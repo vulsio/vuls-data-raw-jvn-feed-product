@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "48869",
-  "pname": "Symphony Plus Historian",
-  "pcpe": "cpe:/a:abb:symphony_plus_historian"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "48869",
+	"pname": "Symphony Plus Historian",
+	"pcpe": "cpe:/a:abb:symphony_plus_historian"
 }

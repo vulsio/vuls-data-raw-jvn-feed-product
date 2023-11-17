@@ -1,8 +1,8 @@
 {
-  "vid": "23570",
-  "vname": "Bumsys project",
-  "vcpe": "cpe:/:bumsys_project",
-  "pid": "61043",
-  "pname": "Bumsys",
-  "pcpe": "cpe:/a:bumsys_project:bumsys"
+	"vid": "23570",
+	"vname": "Bumsys project",
+	"vcpe": "cpe:/:bumsys_project",
+	"pid": "61043",
+	"pname": "Bumsys",
+	"pcpe": "cpe:/a:bumsys_project:bumsys"
 }

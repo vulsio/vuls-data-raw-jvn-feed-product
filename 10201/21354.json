@@ -1,8 +1,8 @@
 {
-  "vid": "10201",
-  "vname": "xmonad",
-  "vcpe": "cpe:/:xmonad",
-  "pid": "21354",
-  "pname": "xmonad-contrib",
-  "pcpe": "cpe:/a:xmonad:xmonad-contrab"
+	"vid": "10201",
+	"vname": "xmonad",
+	"vcpe": "cpe:/:xmonad",
+	"pid": "21354",
+	"pname": "xmonad-contrib",
+	"pcpe": "cpe:/a:xmonad:xmonad-contrab"
 }

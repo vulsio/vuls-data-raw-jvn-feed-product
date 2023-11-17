@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "55517",
-  "pname": "TL-WR1043ND V1 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-wr1043nd_v1_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "55517",
+	"pname": "TL-WR1043ND V1 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-wr1043nd_v1_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "678",
-  "vname": "LEPTON Project",
-  "vcpe": "cpe:/:lepton-cms",
-  "pid": "3929",
-  "pname": "LEPTON",
-  "pcpe": "cpe:/a:lepton-cms:lepton"
+	"vid": "678",
+	"vname": "LEPTON Project",
+	"vcpe": "cpe:/:lepton-cms",
+	"pid": "3929",
+	"pname": "LEPTON",
+	"pcpe": "cpe:/a:lepton-cms:lepton"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10282",
-  "vname": "Nordex",
-  "vcpe": "cpe:/:nordex",
-  "pid": "21558",
-  "pname": "Nordex Control 2 SCADA",
-  "pcpe": "cpe:/h:nordex:nordex_control_2_scada"
+	"vid": "10282",
+	"vname": "Nordex",
+	"vcpe": "cpe:/:nordex",
+	"pid": "21558",
+	"pname": "Nordex Control 2 SCADA",
+	"pcpe": "cpe:/h:nordex:nordex_control_2_scada"
 }

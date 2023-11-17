@@ -1,8 +1,8 @@
 {
-  "vid": "9616",
-  "vname": "SoftMotion3D",
-  "vcpe": "cpe:/:softmotion3d",
-  "pid": "19969",
-  "pname": "SoftMotion",
-  "pcpe": "cpe:/a:softmotion3d:softmotion"
+	"vid": "9616",
+	"vname": "SoftMotion3D",
+	"vcpe": "cpe:/:softmotion3d",
+	"pid": "19969",
+	"pname": "SoftMotion",
+	"pcpe": "cpe:/a:softmotion3d:softmotion"
 }

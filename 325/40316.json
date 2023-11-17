@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "40316",
-  "pname": "System x3500 M2 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:system_x3500_m2_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "40316",
+	"pname": "System x3500 M2 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:system_x3500_m2_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12375",
-  "vname": "WSO2",
-  "vcpe": "cpe:/:wso2",
-  "pid": "44817",
-  "pname": "Identity Server Analytics",
-  "pcpe": "cpe:/a:wso2:identity_server_analytics"
+	"vid": "12375",
+	"vname": "WSO2",
+	"vcpe": "cpe:/:wso2",
+	"pid": "44817",
+	"pname": "Identity Server Analytics",
+	"pcpe": "cpe:/a:wso2:identity_server_analytics"
 }

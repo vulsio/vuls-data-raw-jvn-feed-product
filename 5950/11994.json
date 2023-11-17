@@ -1,8 +1,8 @@
 {
-  "vid": "5950",
-  "vname": "neutrino-cms",
-  "vcpe": "cpe:/:neutrino-cms",
-  "pid": "11994",
-  "pname": "atomic edition",
-  "pcpe": "cpe:/a:neutrino-cms:atomic_edition"
+	"vid": "5950",
+	"vname": "neutrino-cms",
+	"vcpe": "cpe:/:neutrino-cms",
+	"pid": "11994",
+	"pname": "atomic edition",
+	"pcpe": "cpe:/a:neutrino-cms:atomic_edition"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18023",
-  "vname": "SK HYNIX INC.",
-  "vcpe": "cpe:/:skhynix",
-  "pid": "54539",
-  "pname": "skhynix LDDR4 ファームウェア",
-  "pcpe": "cpe:/o:skhynix:lddr4_firmware"
+	"vid": "18023",
+	"vname": "SK HYNIX INC.",
+	"vcpe": "cpe:/:skhynix",
+	"pid": "54539",
+	"pname": "skhynix LDDR4 ファームウェア",
+	"pcpe": "cpe:/o:skhynix:lddr4_firmware"
 }

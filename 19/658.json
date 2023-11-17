@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "658",
-  "pname": "CiscoWorks Common Services (CWCS)",
-  "pcpe": "cpe:/a:cisco:ciscoworks_common_services"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "658",
+	"pname": "CiscoWorks Common Services (CWCS)",
+	"pcpe": "cpe:/a:cisco:ciscoworks_common_services"
 }

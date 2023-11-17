@@ -1,8 +1,8 @@
 {
-  "vid": "3959",
-  "vname": "getfireant",
-  "vcpe": "cpe:/:getfireant",
-  "pid": "8398",
-  "pname": "fireant",
-  "pcpe": "cpe:/a:getfireant:fireant"
+	"vid": "3959",
+	"vname": "getfireant",
+	"vcpe": "cpe:/:getfireant",
+	"pid": "8398",
+	"pname": "fireant",
+	"pcpe": "cpe:/a:getfireant:fireant"
 }

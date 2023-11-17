@@ -1,8 +1,8 @@
 {
-  "vid": "6941",
-  "vname": "phpstore",
-  "vcpe": "cpe:/:phpstore",
-  "pid": "13825",
-  "pname": "wholesales",
-  "pcpe": "cpe:/a:phpstore:wholesales"
+	"vid": "6941",
+	"vname": "phpstore",
+	"vcpe": "cpe:/:phpstore",
+	"pid": "13825",
+	"pname": "wholesales",
+	"pcpe": "cpe:/a:phpstore:wholesales"
 }

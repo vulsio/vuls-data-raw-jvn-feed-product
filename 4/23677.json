@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23677",
-  "pname": "HP Value Serial USB Receipt Printer (F7M66AA)",
-  "pcpe": "cpe:/h:hp:value_serial%2fusb_receipt_printer_f7m66aa"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23677",
+	"pname": "HP Value Serial USB Receipt Printer (F7M66AA)",
+	"pcpe": "cpe:/h:hp:value_serial%2fusb_receipt_printer_f7m66aa"
 }

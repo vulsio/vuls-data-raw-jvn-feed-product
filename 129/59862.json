@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "59862",
-  "pname": "uCosminexus Client for Plug-in",
-  "pcpe": "cpe:/a:hitachi:ucosminexus_client_for_plug-in"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "59862",
+	"pname": "uCosminexus Client for Plug-in",
+	"pcpe": "cpe:/a:hitachi:ucosminexus_client_for_plug-in"
 }

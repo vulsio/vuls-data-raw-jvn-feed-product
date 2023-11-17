@@ -1,8 +1,8 @@
 {
-  "vid": "17709",
-  "vname": "free",
-  "vcpe": "cpe:/:free",
-  "pid": "42544",
-  "pname": "Freebox OS",
-  "pcpe": "cpe:/a:free:freebox_os"
+	"vid": "17709",
+	"vname": "free",
+	"vcpe": "cpe:/:free",
+	"pid": "42544",
+	"pname": "Freebox OS",
+	"pcpe": "cpe:/a:free:freebox_os"
 }

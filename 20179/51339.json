@@ -1,8 +1,8 @@
 {
-  "vid": "20179",
-  "vname": "Enhancesoft LLC.",
-  "vcpe": "cpe:/:enhancesoft",
-  "pid": "51339",
-  "pname": "osTicket",
-  "pcpe": "cpe:/a:enhancesoft:osticket"
+	"vid": "20179",
+	"vname": "Enhancesoft LLC.",
+	"vcpe": "cpe:/:enhancesoft",
+	"pid": "51339",
+	"pname": "osTicket",
+	"pcpe": "cpe:/a:enhancesoft:osticket"
 }

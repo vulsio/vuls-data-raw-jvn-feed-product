@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "55335",
-  "pname": "SIPROTEC 5 7SD82 ファームウェア",
-  "pcpe": "cpe:/o:siemens:7sd82_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "55335",
+	"pname": "SIPROTEC 5 7SD82 ファームウェア",
+	"pcpe": "cpe:/o:siemens:7sd82_firmware"
 }

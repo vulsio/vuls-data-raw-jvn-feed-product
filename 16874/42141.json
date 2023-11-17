@@ -1,8 +1,8 @@
 {
-  "vid": "16874",
-  "vname": "CESNET",
-  "vcpe": "cpe:/:cesnet",
-  "pid": "42141",
-  "pname": "libyang",
-  "pcpe": "cpe:/a:cesnet:libyang"
+	"vid": "16874",
+	"vname": "CESNET",
+	"vcpe": "cpe:/:cesnet",
+	"pid": "42141",
+	"pname": "libyang",
+	"pcpe": "cpe:/a:cesnet:libyang"
 }

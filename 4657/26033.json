@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26033",
-  "pname": "S2350EI",
-  "pcpe": "cpe:/h:huawei:s2350ei"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26033",
+	"pname": "S2350EI",
+	"pcpe": "cpe:/h:huawei:s2350ei"
 }

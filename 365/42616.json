@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "42616",
-  "pname": "NetScaler SD WAN ファームウェア",
-  "pcpe": "cpe:/o:citrix:netscaler_sd-wan_firmware"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "42616",
+	"pname": "NetScaler SD WAN ファームウェア",
+	"pcpe": "cpe:/o:citrix:netscaler_sd-wan_firmware"
 }

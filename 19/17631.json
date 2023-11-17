@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17631",
-  "pname": "Cisco Jabber",
-  "pcpe": "cpe:/a:cisco:jabber"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17631",
+	"pname": "Cisco Jabber",
+	"pcpe": "cpe:/a:cisco:jabber"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "36713",
-  "pname": "Philips HealthSuite Health",
-  "pcpe": "cpe:/a:philips:healthsuite_health"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "36713",
+	"pname": "Philips HealthSuite Health",
+	"pcpe": "cpe:/a:philips:healthsuite_health"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23875",
-  "pname": "HP Support Solution Framework",
-  "pcpe": "cpe:/a:hp:support_solution_framework"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23875",
+	"pname": "HP Support Solution Framework",
+	"pcpe": "cpe:/a:hp:support_solution_framework"
 }

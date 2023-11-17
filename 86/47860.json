@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "47860",
-  "pname": "WSR-1166DHP4 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wsr-1166dhp4_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "47860",
+	"pname": "WSR-1166DHP4 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wsr-1166dhp4_firmware"
 }

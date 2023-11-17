@@ -1,8 +1,8 @@
 {
-  "vid": "58",
-  "vname": "KDE project",
-  "vcpe": "cpe:/:kde",
-  "pid": "20854",
-  "pname": "KAuth",
-  "pcpe": "cpe:/a:kde:kauth"
+	"vid": "58",
+	"vname": "KDE project",
+	"vcpe": "cpe:/:kde",
+	"pid": "20854",
+	"pname": "KAuth",
+	"pcpe": "cpe:/a:kde:kauth"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30374",
-  "pname": "ThinkCentre E93Z (AIO) ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_e93z_%28aio%29_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30374",
+	"pname": "ThinkCentre E93Z (AIO) ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_e93z_%28aio%29_firmware"
 }

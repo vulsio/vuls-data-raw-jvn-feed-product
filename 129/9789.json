@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "9789",
-  "pname": "dabroker",
-  "pcpe": "cpe:/a:hitachi:dabroker"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "9789",
+	"pname": "dabroker",
+	"pcpe": "cpe:/a:hitachi:dabroker"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13631",
-  "vname": "Parity Technologies",
-  "vcpe": "cpe:/:parity",
-  "pid": "32236",
-  "pname": "Parity",
-  "pcpe": "cpe:/a:parity:ethereum_client"
+	"vid": "13631",
+	"vname": "Parity Technologies",
+	"vcpe": "cpe:/:parity",
+	"pid": "32236",
+	"pname": "Parity",
+	"pcpe": "cpe:/a:parity:ethereum_client"
 }

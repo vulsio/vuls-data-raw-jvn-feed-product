@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "21444",
-  "pname": "Cisco Prime Optical",
-  "pcpe": "cpe:/a:cisco:prime_optical"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "21444",
+	"pname": "Cisco Prime Optical",
+	"pcpe": "cpe:/a:cisco:prime_optical"
 }

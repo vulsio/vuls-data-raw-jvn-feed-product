@@ -1,8 +1,8 @@
 {
-  "vid": "13685",
-  "vname": "Formspree",
-  "vcpe": "cpe:/:formspree",
-  "pid": "32380",
-  "pname": "formspree",
-  "pcpe": "cpe:/a:formspree:formspree"
+	"vid": "13685",
+	"vname": "Formspree",
+	"vcpe": "cpe:/:formspree",
+	"pid": "32380",
+	"pname": "formspree",
+	"pcpe": "cpe:/a:formspree:formspree"
 }

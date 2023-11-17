@@ -1,8 +1,8 @@
 {
-  "vid": "3426",
-  "vname": "EdrawSoft",
-  "vcpe": "cpe:/:edraw",
-  "pid": "7686",
-  "pname": "office viewer component",
-  "pcpe": "cpe:/a:edraw:office_viewer_component"
+	"vid": "3426",
+	"vname": "EdrawSoft",
+	"vcpe": "cpe:/:edraw",
+	"pid": "7686",
+	"pname": "office viewer component",
+	"pcpe": "cpe:/a:edraw:office_viewer_component"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17179",
-  "pname": "IBM TRIRIGA Application Platform",
-  "pcpe": "cpe:/a:ibm:tririga_application_platform"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17179",
+	"pname": "IBM TRIRIGA Application Platform",
+	"pcpe": "cpe:/a:ibm:tririga_application_platform"
 }

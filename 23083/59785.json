@@ -1,8 +1,8 @@
 {
-  "vid": "23083",
-  "vname": "gitblit",
-  "vcpe": "cpe:/:gitblit",
-  "pid": "59785",
-  "pname": "gitblit",
-  "pcpe": "cpe:/a:gitblit:gitblit"
+	"vid": "23083",
+	"vname": "gitblit",
+	"vcpe": "cpe:/:gitblit",
+	"pid": "59785",
+	"pname": "gitblit",
+	"pcpe": "cpe:/a:gitblit:gitblit"
 }

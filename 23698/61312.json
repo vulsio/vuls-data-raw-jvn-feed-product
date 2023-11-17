@@ -1,8 +1,8 @@
 {
-  "vid": "23698",
-  "vname": "flask-mvc project",
-  "vcpe": "cpe:/:flask-mvc_project",
-  "pid": "61312",
-  "pname": "flask-mvc",
-  "pcpe": "cpe:/a:flask-mvc_project:flask-mvc"
+	"vid": "23698",
+	"vname": "flask-mvc project",
+	"vcpe": "cpe:/:flask-mvc_project",
+	"pid": "61312",
+	"pname": "flask-mvc",
+	"pcpe": "cpe:/a:flask-mvc_project:flask-mvc"
 }

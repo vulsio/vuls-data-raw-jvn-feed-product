@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "23437",
-  "pname": "Aruba Instant AP ファームウェア",
-  "pcpe": "cpe:/o:arubanetworks:instant_access_point_firmware"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "23437",
+	"pname": "Aruba Instant AP ファームウェア",
+	"pcpe": "cpe:/o:arubanetworks:instant_access_point_firmware"
 }

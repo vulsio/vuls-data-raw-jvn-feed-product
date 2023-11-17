@@ -1,8 +1,8 @@
 {
-  "vid": "12427",
-  "vname": "Tor Browser Launcher project",
-  "vcpe": "cpe:/:tor_browser_launcher_project",
-  "pid": "28070",
-  "pname": "Tor Browser Launcher",
-  "pcpe": "cpe:/a:tor_browser_launcher_project:tor_browser_launcher"
+	"vid": "12427",
+	"vname": "Tor Browser Launcher project",
+	"vcpe": "cpe:/:tor_browser_launcher_project",
+	"pid": "28070",
+	"pname": "Tor Browser Launcher",
+	"pcpe": "cpe:/a:tor_browser_launcher_project:tor_browser_launcher"
 }

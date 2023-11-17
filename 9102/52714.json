@@ -1,8 +1,8 @@
 {
-  "vid": "9102",
-  "vname": "Open-Xchange",
-  "vcpe": "cpe:/:open-xchange",
-  "pid": "52714",
-  "pname": "OX Documents",
-  "pcpe": "cpe:/a:open-xchange:open-xchange_documents"
+	"vid": "9102",
+	"vname": "Open-Xchange",
+	"vcpe": "cpe:/:open-xchange",
+	"pid": "52714",
+	"pname": "OX Documents",
+	"pcpe": "cpe:/a:open-xchange:open-xchange_documents"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4262",
-  "vname": "ジョンソンコントロールズ",
-  "vcpe": "cpe:/:johnsoncontrols",
-  "pid": "46787",
-  "pname": "Metasys Reporting Engine (MRE)",
-  "pcpe": "cpe:/a:johnsoncontrols:metsys_reporting_engine"
+	"vid": "4262",
+	"vname": "ジョンソンコントロールズ",
+	"vcpe": "cpe:/:johnsoncontrols",
+	"pid": "46787",
+	"pname": "Metasys Reporting Engine (MRE)",
+	"pcpe": "cpe:/a:johnsoncontrols:metsys_reporting_engine"
 }

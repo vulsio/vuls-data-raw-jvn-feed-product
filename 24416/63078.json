@@ -1,8 +1,8 @@
 {
-  "vid": "24416",
-  "vname": "kidan",
-  "vcpe": "cpe:/:kidan",
-  "pid": "63078",
-  "pname": "cryptopro securedisk for bitlocker",
-  "pcpe": "cpe:/o:kidan:cryptopro_securedisk_for_bitlocker"
+	"vid": "24416",
+	"vname": "kidan",
+	"vcpe": "cpe:/:kidan",
+	"pid": "63078",
+	"pname": "cryptopro securedisk for bitlocker",
+	"pcpe": "cpe:/o:kidan:cryptopro_securedisk_for_bitlocker"
 }

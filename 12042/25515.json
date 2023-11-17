@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25515",
-  "pname": "JF430A HP A12518 Switch Chassis",
-  "pcpe": "cpe:/h:hp:jf430a_hp_a12518_switch_chassis"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25515",
+	"pname": "JF430A HP A12518 Switch Chassis",
+	"pcpe": "cpe:/h:hp:jf430a_hp_a12518_switch_chassis"
 }

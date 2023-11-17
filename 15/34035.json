@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "34035",
-  "pname": "PeopleSoft Enterprise CS Financial Aid",
-  "pcpe": "cpe:/a:oracle:peoplesoft_enterprise_cs_financial_aid"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "34035",
+	"pname": "PeopleSoft Enterprise CS Financial Aid",
+	"pcpe": "cpe:/a:oracle:peoplesoft_enterprise_cs_financial_aid"
 }

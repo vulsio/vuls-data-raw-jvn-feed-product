@@ -1,8 +1,8 @@
 {
-  "vid": "19005",
-  "vname": "Exodus",
-  "vcpe": "cpe:/:exodus",
-  "pid": "47590",
-  "pname": "field",
-  "pcpe": "cpe:/a:exodus:field"
+	"vid": "19005",
+	"vname": "Exodus",
+	"vcpe": "cpe:/:exodus",
+	"pid": "47590",
+	"pname": "field",
+	"pcpe": "cpe:/a:exodus:field"
 }

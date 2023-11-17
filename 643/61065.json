@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "61065",
-  "pname": "VxRail Manager",
-  "pcpe": "cpe:/a:dell:vxrail_manager"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "61065",
+	"pname": "VxRail Manager",
+	"pcpe": "cpe:/a:dell:vxrail_manager"
 }

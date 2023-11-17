@@ -1,8 +1,8 @@
 {
-  "vid": "18458",
-  "vname": "Shopify",
-  "vcpe": "cpe:/:shopify",
-  "pid": "45483",
-  "pname": "koa-shopify-auth",
-  "pcpe": "cpe:/a:shopify:koa-shopify-auth"
+	"vid": "18458",
+	"vname": "Shopify",
+	"vcpe": "cpe:/:shopify",
+	"pid": "45483",
+	"pname": "koa-shopify-auth",
+	"pcpe": "cpe:/a:shopify:koa-shopify-auth"
 }

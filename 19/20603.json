@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "20603",
-  "pname": "Cisco Model DPQ3925 8x4 DOCSIS 3.0 Wireless Residential Gateway with EDVA",
-  "pcpe": "cpe:/h:cisco:dpq3925"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "20603",
+	"pname": "Cisco Model DPQ3925 8x4 DOCSIS 3.0 Wireless Residential Gateway with EDVA",
+	"pcpe": "cpe:/h:cisco:dpq3925"
 }

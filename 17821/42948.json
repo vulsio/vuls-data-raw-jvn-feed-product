@@ -1,8 +1,8 @@
 {
-  "vid": "17821",
-  "vname": "ZAVIO Inc.",
-  "vcpe": "cpe:/:zavio",
-  "pid": "42948",
-  "pname": "F312A ファームウェア",
-  "pcpe": "cpe:/o:zavio:f312a_firmware"
+	"vid": "17821",
+	"vname": "ZAVIO Inc.",
+	"vcpe": "cpe:/:zavio",
+	"pid": "42948",
+	"pname": "F312A ファームウェア",
+	"pcpe": "cpe:/o:zavio:f312a_firmware"
 }

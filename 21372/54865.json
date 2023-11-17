@@ -1,8 +1,8 @@
 {
-  "vid": "21372",
-  "vname": "jsx-slack project",
-  "vcpe": "cpe:/:jsx-slack_project",
-  "pid": "54865",
-  "pname": "jsx-slack",
-  "pcpe": "cpe:/a:jsx-slack_project:jsx-slack"
+	"vid": "21372",
+	"vname": "jsx-slack project",
+	"vcpe": "cpe:/:jsx-slack_project",
+	"pid": "54865",
+	"pname": "jsx-slack",
+	"pcpe": "cpe:/a:jsx-slack_project:jsx-slack"
 }

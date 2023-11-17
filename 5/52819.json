@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52819",
-  "pname": "SC8180X+SDX55 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sc8180x%2bsdx55_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52819",
+	"pname": "SC8180X+SDX55 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sc8180x%2bsdx55_firmware"
 }

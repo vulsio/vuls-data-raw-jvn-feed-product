@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "59387",
-  "pname": "IBM System Storage DS8000 Management Console ファームウェア",
-  "pcpe": "cpe:/o:ibm:system_storage_ds8000_management_console_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "59387",
+	"pname": "IBM System Storage DS8000 Management Console ファームウェア",
+	"pcpe": "cpe:/o:ibm:system_storage_ds8000_management_console_firmware"
 }

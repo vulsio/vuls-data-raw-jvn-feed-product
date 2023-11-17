@@ -1,8 +1,8 @@
 {
-  "vid": "19721",
-  "vname": "fltk-rs project",
-  "vcpe": "cpe:/:fltk_project",
-  "pid": "49714",
-  "pname": "fltk-rs",
-  "pcpe": "cpe:/a:fltk_project:fltk"
+	"vid": "19721",
+	"vname": "fltk-rs project",
+	"vcpe": "cpe:/:fltk_project",
+	"pid": "49714",
+	"pname": "fltk-rs",
+	"pcpe": "cpe:/a:fltk_project:fltk"
 }

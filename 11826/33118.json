@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "33118",
-  "pname": "Infinia Hawkeye 4 ファームウェア",
-  "pcpe": "cpe:/o:gehealthcare:infinia_hawkeye_4_firmware"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "33118",
+	"pname": "Infinia Hawkeye 4 ファームウェア",
+	"pcpe": "cpe:/o:gehealthcare:infinia_hawkeye_4_firmware"
 }

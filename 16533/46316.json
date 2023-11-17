@@ -1,8 +1,8 @@
 {
-  "vid": "16533",
-  "vname": "Sick",
-  "vcpe": "cpe:/:sick",
-  "pid": "46316",
-  "pname": "CLV621 ファームウェア",
-  "pcpe": "cpe:/o:sick:clv621_firmware"
+	"vid": "16533",
+	"vname": "Sick",
+	"vcpe": "cpe:/:sick",
+	"pid": "46316",
+	"pname": "CLV621 ファームウェア",
+	"pcpe": "cpe:/o:sick:clv621_firmware"
 }

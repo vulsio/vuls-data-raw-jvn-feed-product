@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47857",
-  "pname": "Oracle Bill Presentment Architecture",
-  "pcpe": "cpe:/a:oracle:bill_presentment_architecture"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47857",
+	"pname": "Oracle Bill Presentment Architecture",
+	"pcpe": "cpe:/a:oracle:bill_presentment_architecture"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10181",
-  "vname": "Hibernate",
-  "vcpe": "cpe:/:hibernate",
-  "pid": "45516",
-  "pname": "Hibernate ORM",
-  "pcpe": "cpe:/a:hibernate:hibernate_orm"
+	"vid": "10181",
+	"vname": "Hibernate",
+	"vcpe": "cpe:/:hibernate",
+	"pid": "45516",
+	"pname": "Hibernate ORM",
+	"pcpe": "cpe:/a:hibernate:hibernate_orm"
 }

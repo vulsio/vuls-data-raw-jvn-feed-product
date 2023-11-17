@@ -1,8 +1,8 @@
 {
-  "vid": "21966",
-  "vname": "Terminal Kit project",
-  "vcpe": "cpe:/:terminal-kit_project",
-  "pid": "56391",
-  "pname": "Terminal Kit",
-  "pcpe": "cpe:/a:terminal-kit_project:terminal-kit"
+	"vid": "21966",
+	"vname": "Terminal Kit project",
+	"vcpe": "cpe:/:terminal-kit_project",
+	"pid": "56391",
+	"pname": "Terminal Kit",
+	"pcpe": "cpe:/a:terminal-kit_project:terminal-kit"
 }

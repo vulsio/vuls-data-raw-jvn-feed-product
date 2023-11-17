@@ -1,8 +1,8 @@
 {
-  "vid": "1237",
-  "vname": "NetEase",
-  "vcpe": "cpe:/:netease",
-  "pid": "46363",
-  "pname": "NetEase Mail Master",
-  "pcpe": "cpe:/a:netease:netease_mail_master"
+	"vid": "1237",
+	"vname": "NetEase",
+	"vcpe": "cpe:/:netease",
+	"pid": "46363",
+	"pname": "NetEase Mail Master",
+	"pcpe": "cpe:/a:netease:netease_mail_master"
 }

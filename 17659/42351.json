@@ -1,8 +1,8 @@
 {
-  "vid": "17659",
-  "vname": "Fast Velocity",
-  "vcpe": "cpe:/:fastvelocity",
-  "pid": "42351",
-  "pname": "Fast Velocity Minify",
-  "pcpe": "cpe:/a:fastvelocity:minify"
+	"vid": "17659",
+	"vname": "Fast Velocity",
+	"vcpe": "cpe:/:fastvelocity",
+	"pid": "42351",
+	"pname": "Fast Velocity Minify",
+	"pcpe": "cpe:/a:fastvelocity:minify"
 }

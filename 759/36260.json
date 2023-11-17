@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "36260",
-  "pname": "Communicator",
-  "pcpe": "cpe:/a:ge:communicator"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "36260",
+	"pname": "Communicator",
+	"pcpe": "cpe:/a:ge:communicator"
 }

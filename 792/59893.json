@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "59893",
-  "pname": "usg 40w ファームウェア",
-  "pcpe": "cpe:/o:zyxel:usg_40w_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "59893",
+	"pname": "usg 40w ファームウェア",
+	"pcpe": "cpe:/o:zyxel:usg_40w_firmware"
 }

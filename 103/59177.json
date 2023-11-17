@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "59177",
-  "pname": "gpu display driver",
-  "pcpe": "cpe:/a:nvidia:gpu_display_driver"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "59177",
+	"pname": "gpu display driver",
+	"pcpe": "cpe:/a:nvidia:gpu_display_driver"
 }

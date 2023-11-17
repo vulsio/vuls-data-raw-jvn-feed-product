@@ -1,8 +1,8 @@
 {
-  "vid": "19944",
-  "vname": "Daggerhart Lab",
-  "vcpe": "cpe:/:daggerhartlab",
-  "pid": "50413",
-  "pname": "OpenID Connect Generic Client",
-  "pcpe": "cpe:/a:daggerhartlab:openid_connect_generic_client"
+	"vid": "19944",
+	"vname": "Daggerhart Lab",
+	"vcpe": "cpe:/:daggerhartlab",
+	"pid": "50413",
+	"pname": "OpenID Connect Generic Client",
+	"pcpe": "cpe:/a:daggerhartlab:openid_connect_generic_client"
 }

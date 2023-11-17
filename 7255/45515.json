@@ -1,8 +1,8 @@
 {
-  "vid": "7255",
-  "vname": "Realtek Semiconductor Corp",
-  "vcpe": "cpe:/:realtek",
-  "pid": "45515",
-  "pname": "RTL8710AF ファームウェア",
-  "pcpe": "cpe:/o:realtek:rtl8710af_firmware"
+	"vid": "7255",
+	"vname": "Realtek Semiconductor Corp",
+	"vcpe": "cpe:/:realtek",
+	"pid": "45515",
+	"pname": "RTL8710AF ファームウェア",
+	"pcpe": "cpe:/o:realtek:rtl8710af_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26963",
-  "pname": "AR550",
-  "pcpe": "cpe:/h:huawei:ar550"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26963",
+	"pname": "AR550",
+	"pcpe": "cpe:/h:huawei:ar550"
 }

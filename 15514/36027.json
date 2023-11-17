@@ -1,8 +1,8 @@
 {
-  "vid": "15514",
-  "vname": "myStrom AG",
-  "vcpe": "cpe:/:mystrom",
-  "pid": "36027",
-  "pname": "myStrom WiFi Button plus ファームウェア",
-  "pcpe": "cpe:/o:mystrom:wifi_button_plus_firmware"
+	"vid": "15514",
+	"vname": "myStrom AG",
+	"vcpe": "cpe:/:mystrom",
+	"pid": "36027",
+	"pname": "myStrom WiFi Button plus ファームウェア",
+	"pcpe": "cpe:/o:mystrom:wifi_button_plus_firmware"
 }

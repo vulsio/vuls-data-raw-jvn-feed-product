@@ -1,8 +1,8 @@
 {
-  "vid": "491",
-  "vname": "BitDefender",
-  "vcpe": "cpe:/:bitdefender",
-  "pid": "41178",
-  "pname": "Bitdefender BOX ファームウェア",
-  "pcpe": "cpe:/o:bitdefender:box_firmware"
+	"vid": "491",
+	"vname": "BitDefender",
+	"vcpe": "cpe:/:bitdefender",
+	"pid": "41178",
+	"pname": "Bitdefender BOX ファームウェア",
+	"pcpe": "cpe:/o:bitdefender:box_firmware"
 }

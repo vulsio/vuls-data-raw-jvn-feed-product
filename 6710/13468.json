@@ -1,8 +1,8 @@
 {
-  "vid": "6710",
-  "vname": "czaries network",
-  "vcpe": "cpe:/:czaries_network",
-  "pid": "13468",
-  "pname": "czarnews",
-  "pcpe": "cpe:/a:czaries_network:czarnews"
+	"vid": "6710",
+	"vname": "czaries network",
+	"vcpe": "cpe:/:czaries_network",
+	"pid": "13468",
+	"pname": "czarnews",
+	"pcpe": "cpe:/a:czaries_network:czarnews"
 }

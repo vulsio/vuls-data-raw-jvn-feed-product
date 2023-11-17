@@ -1,8 +1,8 @@
 {
-  "vid": "15844",
-  "vname": "APi PLATFORM",
-  "vcpe": "cpe:/:api-platform",
-  "pid": "36931",
-  "pname": "API Platform Core ",
-  "pcpe": "cpe:/a:api-platform:core"
+	"vid": "15844",
+	"vname": "APi PLATFORM",
+	"vcpe": "cpe:/:api-platform",
+	"pid": "36931",
+	"pname": "API Platform Core ",
+	"pcpe": "cpe:/a:api-platform:core"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "46216",
-  "pname": "GOT2000 シリーズ GT21 モデル",
-  "pcpe": "cpe:/o:mitsubishielectric:got2000_series_gt21_model"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "46216",
+	"pname": "GOT2000 シリーズ GT21 モデル",
+	"pcpe": "cpe:/o:mitsubishielectric:got2000_series_gt21_model"
 }

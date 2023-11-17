@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "17558",
-  "pname": "NIP1000",
-  "pcpe": "cpe:/h:huawei:nip1000"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "17558",
+	"pname": "NIP1000",
+	"pcpe": "cpe:/h:huawei:nip1000"
 }

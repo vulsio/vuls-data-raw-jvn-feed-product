@@ -1,8 +1,8 @@
 {
-  "vid": "2575",
-  "vname": "blueshoes",
-  "vcpe": "cpe:/:blueshoes",
-  "pid": "6346",
-  "pname": "blueshoes framework",
-  "pcpe": "cpe:/a:blueshoes:blueshoes_framework"
+	"vid": "2575",
+	"vname": "blueshoes",
+	"vcpe": "cpe:/:blueshoes",
+	"pid": "6346",
+	"pname": "blueshoes framework",
+	"pcpe": "cpe:/a:blueshoes:blueshoes_framework"
 }

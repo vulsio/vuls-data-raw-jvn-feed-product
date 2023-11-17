@@ -1,8 +1,8 @@
 {
-  "vid": "8760",
-  "vname": "ZPanel Project",
-  "vcpe": "cpe:/:zpanelcp",
-  "pid": "16571",
-  "pname": "ZPanel",
-  "pcpe": "cpe:/a:zpanelcp:zpanel"
+	"vid": "8760",
+	"vname": "ZPanel Project",
+	"vcpe": "cpe:/:zpanelcp",
+	"pid": "16571",
+	"pname": "ZPanel",
+	"pcpe": "cpe:/a:zpanelcp:zpanel"
 }

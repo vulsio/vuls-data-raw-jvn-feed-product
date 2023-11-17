@@ -1,8 +1,8 @@
 {
-  "vid": "11884",
-  "vname": "DocumentCloud project",
-  "vcpe": "cpe:/:documentcloud_project",
-  "pid": "24762",
-  "pname": "Navis DocumentCloud",
-  "pcpe": "cpe:/a:documentcloud_project:navis_documentcloud"
+	"vid": "11884",
+	"vname": "DocumentCloud project",
+	"vcpe": "cpe:/:documentcloud_project",
+	"pid": "24762",
+	"pname": "Navis DocumentCloud",
+	"pcpe": "cpe:/a:documentcloud_project:navis_documentcloud"
 }

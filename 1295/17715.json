@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "17715",
-  "pname": "FortiGate-3140B",
-  "pcpe": "cpe:/h:fortinet:fortigate-3140b"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "17715",
+	"pname": "FortiGate-3140B",
+	"pcpe": "cpe:/h:fortinet:fortigate-3140b"
 }

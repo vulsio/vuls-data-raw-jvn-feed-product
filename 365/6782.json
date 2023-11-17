@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "6782",
-  "pname": "online plug-in for mac for xenapp & xendesktop",
-  "pcpe": "cpe:/a:citrix:online_plug-in_for_mac_for_xenapp_%26_xendesktop"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "6782",
+	"pname": "online plug-in for mac for xenapp & xendesktop",
+	"pcpe": "cpe:/a:citrix:online_plug-in_for_mac_for_xenapp_%26_xendesktop"
 }

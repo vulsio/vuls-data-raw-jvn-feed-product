@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "39193",
-  "pname": "WD75 ファームウェア",
-  "pcpe": "cpe:/o:sony:wd75_firmware"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "39193",
+	"pname": "WD75 ファームウェア",
+	"pcpe": "cpe:/o:sony:wd75_firmware"
 }

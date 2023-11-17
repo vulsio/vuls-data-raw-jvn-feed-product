@@ -1,8 +1,8 @@
 {
-  "vid": "280",
-  "vname": "Gentoo Linux",
-  "vcpe": "cpe:/:gentoo",
-  "pid": "8368",
-  "pname": "nvclock",
-  "pcpe": "cpe:/a:gentoo:nvclock"
+	"vid": "280",
+	"vname": "Gentoo Linux",
+	"vcpe": "cpe:/:gentoo",
+	"pid": "8368",
+	"pname": "nvclock",
+	"pcpe": "cpe:/a:gentoo:nvclock"
 }

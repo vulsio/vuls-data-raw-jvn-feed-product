@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "39464",
-  "pname": "ZXMW NR8000 ファームウェア",
-  "pcpe": "cpe:/o:zte:zxmw_nr8000_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "39464",
+	"pname": "ZXMW NR8000 ファームウェア",
+	"pcpe": "cpe:/o:zte:zxmw_nr8000_firmware"
 }

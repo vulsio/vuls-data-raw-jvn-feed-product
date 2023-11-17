@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27140",
-  "pname": "IBM PowerKVM",
-  "pcpe": "cpe:/a:ibm:powerkvm"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27140",
+	"pname": "IBM PowerKVM",
+	"pcpe": "cpe:/a:ibm:powerkvm"
 }

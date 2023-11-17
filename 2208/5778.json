@@ -1,8 +1,8 @@
 {
-  "vid": "2208",
-  "vname": "Ampache.org",
-  "vcpe": "cpe:/:ampache",
-  "pid": "5778",
-  "pname": "Ampache",
-  "pcpe": "cpe:/a:ampache:ampache"
+	"vid": "2208",
+	"vname": "Ampache.org",
+	"vcpe": "cpe:/:ampache",
+	"pid": "5778",
+	"pname": "Ampache",
+	"pcpe": "cpe:/a:ampache:ampache"
 }

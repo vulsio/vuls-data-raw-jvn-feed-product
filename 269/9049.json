@@ -1,8 +1,8 @@
 {
-  "vid": "269",
-  "vname": "RSAセキュリティ",
-  "vcpe": "cpe:/:rsa",
-  "pid": "9049",
-  "pname": "RSA Authentication Manager",
-  "pcpe": "cpe:/a:rsa:authentication_manager"
+	"vid": "269",
+	"vname": "RSAセキュリティ",
+	"vcpe": "cpe:/:rsa",
+	"pid": "9049",
+	"pname": "RSA Authentication Manager",
+	"pcpe": "cpe:/a:rsa:authentication_manager"
 }

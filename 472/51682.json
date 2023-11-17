@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "51682",
-  "pname": "Rockwell Automation 1769 CompactLogix L35e コントローラファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:compactlogix_1769-l35e_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "51682",
+	"pname": "Rockwell Automation 1769 CompactLogix L35e コントローラファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:compactlogix_1769-l35e_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "23309",
-  "pname": "IBM SAS Connectivity Module ファームウェア",
-  "pcpe": "cpe:/o:ibm:sas_connectivity_module_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "23309",
+	"pname": "IBM SAS Connectivity Module ファームウェア",
+	"pcpe": "cpe:/o:ibm:sas_connectivity_module_firmware"
 }

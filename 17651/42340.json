@@ -1,8 +1,8 @@
 {
-  "vid": "17651",
-  "vname": "Winwar Media",
-  "vcpe": "cpe:/:winwar",
-  "pid": "42340",
-  "pname": "WP eBay Product Feeds",
-  "pcpe": "cpe:/a:winwar:wp_ebay_product_feeds"
+	"vid": "17651",
+	"vname": "Winwar Media",
+	"vcpe": "cpe:/:winwar",
+	"pid": "42340",
+	"pname": "WP eBay Product Feeds",
+	"pcpe": "cpe:/a:winwar:wp_ebay_product_feeds"
 }

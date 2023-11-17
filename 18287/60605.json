@@ -1,8 +1,8 @@
 {
-  "vid": "18287",
-  "vname": "iSpyConnect",
-  "vcpe": "cpe:/:ispyconnect",
-  "pid": "60605",
-  "pname": "ispy",
-  "pcpe": "cpe:/a:ispyconnect:ispy"
+	"vid": "18287",
+	"vname": "iSpyConnect",
+	"vcpe": "cpe:/:ispyconnect",
+	"pid": "60605",
+	"pname": "ispy",
+	"pcpe": "cpe:/a:ispyconnect:ispy"
 }

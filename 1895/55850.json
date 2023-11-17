@@ -1,8 +1,8 @@
 {
-  "vid": "1895",
-  "vname": "エマソン",
-  "vcpe": "cpe:/:emerson",
-  "pid": "55850",
-  "pname": "DeltaV Distributed Control System SQ コントローラ ファームウェア",
-  "pcpe": "cpe:/o:emerson:deltav_distributed_control_system_sq_controller_firmware"
+	"vid": "1895",
+	"vname": "エマソン",
+	"vcpe": "cpe:/:emerson",
+	"pid": "55850",
+	"pname": "DeltaV Distributed Control System SQ コントローラ ファームウェア",
+	"pcpe": "cpe:/o:emerson:deltav_distributed_control_system_sq_controller_firmware"
 }

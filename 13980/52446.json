@@ -1,8 +1,8 @@
 {
-  "vid": "13980",
-  "vname": "CyberArk Software Ltd.",
-  "vcpe": "cpe:/:cyberark",
-  "pid": "52446",
-  "pname": "Credential Provider",
-  "pcpe": "cpe:/a:cyberark:credential_provider"
+	"vid": "13980",
+	"vname": "CyberArk Software Ltd.",
+	"vcpe": "cpe:/:cyberark",
+	"pid": "52446",
+	"pname": "Credential Provider",
+	"pcpe": "cpe:/a:cyberark:credential_provider"
 }

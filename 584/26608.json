@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "26608",
-  "pname": "SIMATIC OpenPCS 7",
-  "pcpe": "cpe:/a:siemens:simatic_openpcs_7"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "26608",
+	"pname": "SIMATIC OpenPCS 7",
+	"pcpe": "cpe:/a:siemens:simatic_openpcs_7"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "52314",
-  "pname": "libzapojit",
-  "pcpe": "cpe:/a:gnome:libzapojit"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "52314",
+	"pname": "libzapojit",
+	"pcpe": "cpe:/a:gnome:libzapojit"
 }

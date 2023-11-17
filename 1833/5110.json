@@ -1,8 +1,8 @@
 {
-  "vid": "1833",
-  "vname": "株式会社NTTドコモ",
-  "vcpe": "cpe:/:nttdocomo",
-  "pid": "5110",
-  "pname": "spモードメールアプリ",
-  "pcpe": "cpe:/a:nttdocomo:spmode_mail_android"
+	"vid": "1833",
+	"vname": "株式会社NTTドコモ",
+	"vcpe": "cpe:/:nttdocomo",
+	"pid": "5110",
+	"pname": "spモードメールアプリ",
+	"pcpe": "cpe:/a:nttdocomo:spmode_mail_android"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "55646",
-  "pname": "Cisco Remote PHY",
-  "pcpe": "cpe:/a:cisco:remote_phy"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "55646",
+	"pname": "Cisco Remote PHY",
+	"pcpe": "cpe:/a:cisco:remote_phy"
 }

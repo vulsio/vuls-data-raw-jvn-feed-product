@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "32890",
-  "pname": "Aruba Web Management portal",
-  "pcpe": "cpe:/a:arubanetworks:web_management_portal"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "32890",
+	"pname": "Aruba Web Management portal",
+	"pcpe": "cpe:/a:arubanetworks:web_management_portal"
 }

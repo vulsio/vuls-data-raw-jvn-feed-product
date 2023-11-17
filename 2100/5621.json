@@ -1,8 +1,8 @@
 {
-  "vid": "2100",
-  "vname": "airdefense",
-  "vcpe": "cpe:/:airdefense",
-  "pid": "5621",
-  "pname": "airsensor",
-  "pcpe": "cpe:/a:airdefense:airsensor"
+	"vid": "2100",
+	"vname": "airdefense",
+	"vcpe": "cpe:/:airdefense",
+	"pid": "5621",
+	"pname": "airsensor",
+	"pcpe": "cpe:/a:airdefense:airsensor"
 }

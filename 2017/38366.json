@@ -1,8 +1,8 @@
 {
-  "vid": "2017",
-  "vname": "Activision Publishing",
-  "vcpe": "cpe:/:activision",
-  "pid": "38366",
-  "pname": "Call of Duty Advanced Warfare",
-  "pcpe": "cpe:/a:activision:call_of_duty%3a_advanced_warfare"
+	"vid": "2017",
+	"vname": "Activision Publishing",
+	"vcpe": "cpe:/:activision",
+	"pid": "38366",
+	"pname": "Call of Duty Advanced Warfare",
+	"pcpe": "cpe:/a:activision:call_of_duty%3a_advanced_warfare"
 }

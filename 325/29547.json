@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "29547",
-  "pname": "UpdateXpress System Packs Installer",
-  "pcpe": "cpe:/a:lenovo:updatexpress_system_pack_installer"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "29547",
+	"pname": "UpdateXpress System Packs Installer",
+	"pcpe": "cpe:/a:lenovo:updatexpress_system_pack_installer"
 }

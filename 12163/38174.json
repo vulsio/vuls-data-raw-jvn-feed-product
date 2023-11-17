@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38174",
-  "pname": "VS Team Services Continuous Deployment",
-  "pcpe": "cpe:/a:jenkins:vs_team_services_continuous_deployment"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38174",
+	"pname": "VS Team Services Continuous Deployment",
+	"pcpe": "cpe:/a:jenkins:vs_team_services_continuous_deployment"
 }

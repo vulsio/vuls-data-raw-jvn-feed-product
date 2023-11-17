@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "38321",
-  "pname": "HP Color LaserJet Enterprise M653 ファームウェア",
-  "pcpe": "cpe:/o:hp:color_laserjet_enterprise_m653_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "38321",
+	"pname": "HP Color LaserJet Enterprise M653 ファームウェア",
+	"pcpe": "cpe:/o:hp:color_laserjet_enterprise_m653_firmware"
 }

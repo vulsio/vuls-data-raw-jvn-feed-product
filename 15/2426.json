@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2426",
-  "pname": "Oracle Supply Chain Products Suite",
-  "pcpe": "cpe:/a:oracle:supply_chain_products_suite"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2426",
+	"pname": "Oracle Supply Chain Products Suite",
+	"pcpe": "cpe:/a:oracle:supply_chain_products_suite"
 }

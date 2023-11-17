@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "3601",
-  "pname": "CoDeSys",
-  "pcpe": "cpe:/a:codesys:codesys"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "3601",
+	"pname": "CoDeSys",
+	"pcpe": "cpe:/a:codesys:codesys"
 }

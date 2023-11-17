@@ -1,8 +1,8 @@
 {
-  "vid": "16225",
-  "vname": "PrinterLogic",
-  "vcpe": "cpe:/:printerlogic",
-  "pid": "38037",
-  "pname": "PrinterLogic",
-  "pcpe": "cpe:/a:printerlogic:print_management"
+	"vid": "16225",
+	"vname": "PrinterLogic",
+	"vcpe": "cpe:/:printerlogic",
+	"pid": "38037",
+	"pname": "PrinterLogic",
+	"pcpe": "cpe:/a:printerlogic:print_management"
 }

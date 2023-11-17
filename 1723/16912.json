@@ -1,8 +1,8 @@
 {
-  "vid": "1723",
-  "vname": "SonicWALL",
-  "vcpe": "cpe:/:sonicwall",
-  "pid": "16912",
-  "pname": "Aventail SRA EX Virtual Appliance",
-  "pcpe": "cpe:/a:sonicwall:aventail_sra_ex_virtual_appliance"
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "16912",
+	"pname": "Aventail SRA EX Virtual Appliance",
+	"pcpe": "cpe:/a:sonicwall:aventail_sra_ex_virtual_appliance"
 }

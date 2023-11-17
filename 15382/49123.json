@@ -1,8 +1,8 @@
 {
-  "vid": "15382",
-  "vname": "Pearson VUE",
-  "vcpe": "cpe:/:pearsonvue",
-  "pid": "49123",
-  "pname": "VUE Testing System",
-  "pcpe": "cpe:/a:pearsonvue:vue_testing_system"
+	"vid": "15382",
+	"vname": "Pearson VUE",
+	"vcpe": "cpe:/:pearsonvue",
+	"pid": "49123",
+	"pname": "VUE Testing System",
+	"pcpe": "cpe:/a:pearsonvue:vue_testing_system"
 }

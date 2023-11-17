@@ -1,8 +1,8 @@
 {
-  "vid": "13203",
-  "vname": "Frappe",
-  "vcpe": "cpe:/:frappe",
-  "pid": "30869",
-  "pname": "Frappe",
-  "pcpe": "cpe:/a:frappe:frappe"
+	"vid": "13203",
+	"vname": "Frappe",
+	"vcpe": "cpe:/:frappe",
+	"pid": "30869",
+	"pname": "Frappe",
+	"pcpe": "cpe:/a:frappe:frappe"
 }

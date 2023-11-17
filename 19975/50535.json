@@ -1,8 +1,8 @@
 {
-  "vid": "19975",
-  "vname": "c-ares project",
-  "vcpe": "cpe:/:c-ares_project",
-  "pid": "50535",
-  "pname": "c-ares",
-  "pcpe": "cpe:/a:c-ares_project:c-ares"
+	"vid": "19975",
+	"vname": "c-ares project",
+	"vcpe": "cpe:/:c-ares_project",
+	"pid": "50535",
+	"pname": "c-ares",
+	"pcpe": "cpe:/a:c-ares_project:c-ares"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "23531",
-  "pname": "ActiveMatrix Policy Manager",
-  "pcpe": "cpe:/a:tibco:activematrix_policy_manager"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "23531",
+	"pname": "ActiveMatrix Policy Manager",
+	"pcpe": "cpe:/a:tibco:activematrix_policy_manager"
 }

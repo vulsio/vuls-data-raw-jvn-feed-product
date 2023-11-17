@@ -1,8 +1,8 @@
 {
-  "vid": "16604",
-  "vname": "Dancer::Plugin::SimpleCRUD",
-  "vcpe": "cpe:/:dancer%3a%3aplugin%3a%3asimplecrud_project",
-  "pid": "39548",
-  "pname": "SimpleCRUD",
-  "pcpe": "cpe:/a:dancer%3a%3aplugin%3a%3asimplecrud_project:dancer%3a%3aplugin%3a%3asimplecrud"
+	"vid": "16604",
+	"vname": "Dancer::Plugin::SimpleCRUD",
+	"vcpe": "cpe:/:dancer%3a%3aplugin%3a%3asimplecrud_project",
+	"pid": "39548",
+	"pname": "SimpleCRUD",
+	"pcpe": "cpe:/a:dancer%3a%3aplugin%3a%3asimplecrud_project:dancer%3a%3aplugin%3a%3asimplecrud"
 }

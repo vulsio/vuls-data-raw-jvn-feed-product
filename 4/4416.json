@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4416",
-  "pname": "HP Insight Control for Linux",
-  "pcpe": "cpe:/a:hp:insight_control_for_linux"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4416",
+	"pname": "HP Insight Control for Linux",
+	"pcpe": "cpe:/a:hp:insight_control_for_linux"
 }

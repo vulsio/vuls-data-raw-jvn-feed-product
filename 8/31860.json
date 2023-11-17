@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "31860",
-  "pname": "Apache Sling Authentication Service",
-  "pcpe": "cpe:/a:apache:sling_authentication_service"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "31860",
+	"pname": "Apache Sling Authentication Service",
+	"pcpe": "cpe:/a:apache:sling_authentication_service"
 }

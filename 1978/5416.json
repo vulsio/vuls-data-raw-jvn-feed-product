@@ -1,8 +1,8 @@
 {
-  "vid": "1978",
-  "vname": "abcbackup",
-  "vcpe": "cpe:/:abcbackup",
-  "pid": "5416",
-  "pname": "abc backup",
-  "pcpe": "cpe:/a:abcbackup:abc_backup"
+	"vid": "1978",
+	"vname": "abcbackup",
+	"vcpe": "cpe:/:abcbackup",
+	"pid": "5416",
+	"pname": "abc backup",
+	"pcpe": "cpe:/a:abcbackup:abc_backup"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19636",
-  "pname": "IBM Enterprise Records",
-  "pcpe": "cpe:/a:ibm:enterprise_records"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19636",
+	"pname": "IBM Enterprise Records",
+	"pcpe": "cpe:/a:ibm:enterprise_records"
 }

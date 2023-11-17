@@ -1,8 +1,8 @@
 {
-  "vid": "1664",
-  "vname": "phpsec",
-  "vcpe": "cpe:/:phpsec",
-  "pid": "4710",
-  "pname": "phpsecinfo",
-  "pcpe": "cpe:/a:phpsec:phpsecinfo"
+	"vid": "1664",
+	"vname": "phpsec",
+	"vcpe": "cpe:/:phpsec",
+	"pid": "4710",
+	"pname": "phpsecinfo",
+	"pcpe": "cpe:/a:phpsec:phpsecinfo"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16311",
-  "vname": "富士フイルム株式会社",
-  "vcpe": "cpe:/:fujifilm",
-  "pid": "57921",
-  "pname": "apeos c3070 ファームウェア",
-  "pcpe": "cpe:/o:fujifilm:apeos_c3070_firmware"
+	"vid": "16311",
+	"vname": "富士フイルム株式会社",
+	"vcpe": "cpe:/:fujifilm",
+	"pid": "57921",
+	"pname": "apeos c3070 ファームウェア",
+	"pcpe": "cpe:/o:fujifilm:apeos_c3070_firmware"
 }

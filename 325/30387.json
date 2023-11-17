@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30387",
-  "pname": "ThinkStation P500 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkstation_p500_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30387",
+	"pname": "ThinkStation P500 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkstation_p500_firmware"
 }

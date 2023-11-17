@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "42322",
-  "pname": "P Smart ファームウェア",
-  "pcpe": "cpe:/o:huawei:p-smart_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "42322",
+	"pname": "P Smart ファームウェア",
+	"pcpe": "cpe:/o:huawei:p-smart_firmware"
 }

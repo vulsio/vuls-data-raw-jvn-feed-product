@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63586",
-  "pname": "desigo pxc22.1-e.d ファームウェア",
-  "pcpe": "cpe:/o:siemens:desigo_pxc22.1-e.d_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63586",
+	"pname": "desigo pxc22.1-e.d ファームウェア",
+	"pcpe": "cpe:/o:siemens:desigo_pxc22.1-e.d_firmware"
 }

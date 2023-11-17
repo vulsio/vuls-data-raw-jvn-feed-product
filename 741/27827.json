@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "27827",
-  "pname": "D-Link DWR-932B",
-  "pcpe": "cpe:/h:dlink:dwr-932b"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "27827",
+	"pname": "D-Link DWR-932B",
+	"pcpe": "cpe:/h:dlink:dwr-932b"
 }

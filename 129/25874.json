@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "25874",
-  "pname": "Hitachi Virtual Storage Platform",
-  "pcpe": "cpe:/h:hitachi:virtual_storage_platform"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "25874",
+	"pname": "Hitachi Virtual Storage Platform",
+	"pcpe": "cpe:/h:hitachi:virtual_storage_platform"
 }

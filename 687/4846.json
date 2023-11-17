@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "4846",
-  "pname": "collaborative information manager",
-  "pcpe": "cpe:/a:tibco:collaborative_information_manager"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "4846",
+	"pname": "collaborative information manager",
+	"pcpe": "cpe:/a:tibco:collaborative_information_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2768",
-  "pname": "Oracle Sun Java System Access Manager Policy Agent",
-  "pcpe": "cpe:/a:oracle:sun_java_system_access_manager_policy_agent"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2768",
+	"pname": "Oracle Sun Java System Access Manager Policy Agent",
+	"pcpe": "cpe:/a:oracle:sun_java_system_access_manager_policy_agent"
 }

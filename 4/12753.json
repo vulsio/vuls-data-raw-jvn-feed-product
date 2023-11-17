@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12753",
-  "pname": "laserjet 2420",
-  "pcpe": "cpe:/h:hp:laserjet_2420"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12753",
+	"pname": "laserjet 2420",
+	"pcpe": "cpe:/h:hp:laserjet_2420"
 }

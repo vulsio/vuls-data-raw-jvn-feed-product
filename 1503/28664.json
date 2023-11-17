@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "28664",
-  "pname": "Intermec PM23",
-  "pcpe": "cpe:/o:honeywell:intermec_pm23_firmware"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "28664",
+	"pname": "Intermec PM23",
+	"pcpe": "cpe:/o:honeywell:intermec_pm23_firmware"
 }

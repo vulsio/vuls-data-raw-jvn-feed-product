@@ -1,8 +1,8 @@
 {
-  "vid": "12736",
-  "vname": "Keycloak",
-  "vcpe": "cpe:/:keycloak",
-  "pid": "29286",
-  "pname": "keycloak-auth-utils",
-  "pcpe": "cpe:/a:keycloak:keycloak-nodejs-auth-utils"
+	"vid": "12736",
+	"vname": "Keycloak",
+	"vcpe": "cpe:/:keycloak",
+	"pid": "29286",
+	"pname": "keycloak-auth-utils",
+	"pcpe": "cpe:/a:keycloak:keycloak-nodejs-auth-utils"
 }

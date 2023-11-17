@@ -1,8 +1,8 @@
 {
-  "vid": "22384",
-  "vname": "Cherwell",
-  "vcpe": "cpe:/:cherwell",
-  "pid": "57565",
-  "pname": "Cherwell Service Management",
-  "pcpe": "cpe:/a:cherwell:cherwell_service_management"
+	"vid": "22384",
+	"vname": "Cherwell",
+	"vcpe": "cpe:/:cherwell",
+	"pid": "57565",
+	"pname": "Cherwell Service Management",
+	"pcpe": "cpe:/a:cherwell:cherwell_service_management"
 }

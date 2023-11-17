@@ -1,8 +1,8 @@
 {
-  "vid": "3201",
-  "vname": "devmass",
-  "vcpe": "cpe:/:devmass",
-  "pid": "7302",
-  "pname": "devmass cart",
-  "pcpe": "cpe:/a:devmass:devmass_cart"
+	"vid": "3201",
+	"vname": "devmass",
+	"vcpe": "cpe:/:devmass",
+	"pid": "7302",
+	"pname": "devmass cart",
+	"pcpe": "cpe:/a:devmass:devmass_cart"
 }

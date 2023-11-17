@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "49982",
-  "pname": "Customization Service",
-  "pcpe": "cpe:/a:samsung:customization_service"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "49982",
+	"pname": "Customization Service",
+	"pcpe": "cpe:/a:samsung:customization_service"
 }

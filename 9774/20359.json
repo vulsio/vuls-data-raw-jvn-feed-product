@@ -1,8 +1,8 @@
 {
-  "vid": "9774",
-  "vname": "Pippin's Plugins",
-  "vcpe": "cpe:/:featured_comments_plugin_project",
-  "pid": "20359",
-  "pname": "Featured Comments",
-  "pcpe": "cpe:/a:featured_comments_plugin_project:featured_comments"
+	"vid": "9774",
+	"vname": "Pippin's Plugins",
+	"vcpe": "cpe:/:featured_comments_plugin_project",
+	"pid": "20359",
+	"pname": "Featured Comments",
+	"pcpe": "cpe:/a:featured_comments_plugin_project:featured_comments"
 }

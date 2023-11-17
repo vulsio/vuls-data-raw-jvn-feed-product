@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "53212",
-  "pname": "Dell G3 15 5500 ファームウェア",
-  "pcpe": "cpe:/o:dell:g3_15_5500_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "53212",
+	"pname": "Dell G3 15 5500 ファームウェア",
+	"pcpe": "cpe:/o:dell:g3_15_5500_firmware"
 }

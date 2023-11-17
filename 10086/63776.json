@@ -1,8 +1,8 @@
 {
-  "vid": "10086",
-  "vname": "N-Media",
-  "vcpe": "cpe:/:najeebmedia",
-  "pid": "63776",
-  "pname": "frontend file manager plugin",
-  "pcpe": "cpe:/a:najeebmedia:frontend_file_manager_plugin"
+	"vid": "10086",
+	"vname": "N-Media",
+	"vcpe": "cpe:/:najeebmedia",
+	"pid": "63776",
+	"pname": "frontend file manager plugin",
+	"pcpe": "cpe:/a:najeebmedia:frontend_file_manager_plugin"
 }

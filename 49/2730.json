@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "2730",
-  "pname": "bash-doc",
-  "pcpe": "cpe:/a:gnu:bash-doc"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "2730",
+	"pname": "bash-doc",
+	"pcpe": "cpe:/a:gnu:bash-doc"
 }

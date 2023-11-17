@@ -1,8 +1,8 @@
 {
-  "vid": "14283",
-  "vname": "ipip project",
-  "vcpe": "cpe:/:ipip_project",
-  "pid": "33961",
-  "pname": "ipip",
-  "pcpe": "cpe:/a:ipip_project:ipip"
+	"vid": "14283",
+	"vname": "ipip project",
+	"vcpe": "cpe:/:ipip_project",
+	"pid": "33961",
+	"pname": "ipip",
+	"pcpe": "cpe:/a:ipip_project:ipip"
 }

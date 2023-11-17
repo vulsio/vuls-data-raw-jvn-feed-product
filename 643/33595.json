@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "33595",
-  "pname": "Dell EMC VNX1 Operating Environment",
-  "pcpe": "cpe:/a:dell:emc_vnx1_operating_environment"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "33595",
+	"pname": "Dell EMC VNX1 Operating Environment",
+	"pcpe": "cpe:/a:dell:emc_vnx1_operating_environment"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "21017",
-  "pname": "VMware NSX",
-  "pcpe": "cpe:/a:vmware:nsx"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "21017",
+	"pname": "VMware NSX",
+	"pcpe": "cpe:/a:vmware:nsx"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "40886",
-  "pname": "CP-SB (Storage Block) ファームウェア",
-  "pcpe": "cpe:/o:lenovo:cp_storage_block_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "40886",
+	"pname": "CP-SB (Storage Block) ファームウェア",
+	"pcpe": "cpe:/o:lenovo:cp_storage_block_firmware"
 }

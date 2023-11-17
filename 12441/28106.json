@@ -1,8 +1,8 @@
 {
-  "vid": "12441",
-  "vname": "NagVis Project",
-  "vcpe": "cpe:/:nagvis",
-  "pid": "28106",
-  "pname": "NagVis",
-  "pcpe": "cpe:/a:nagvis:nagvis"
+	"vid": "12441",
+	"vname": "NagVis Project",
+	"vcpe": "cpe:/:nagvis",
+	"pid": "28106",
+	"pname": "NagVis",
+	"pcpe": "cpe:/a:nagvis:nagvis"
 }

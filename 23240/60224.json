@@ -1,8 +1,8 @@
 {
-  "vid": "23240",
-  "vname": "External Media without Import project",
-  "vcpe": "cpe:/:external_media_without_import_project",
-  "pid": "60224",
-  "pname": "External Media without Import",
-  "pcpe": "cpe:/a:external_media_without_import_project:external_media_without_import"
+	"vid": "23240",
+	"vname": "External Media without Import project",
+	"vcpe": "cpe:/:external_media_without_import_project",
+	"pid": "60224",
+	"pname": "External Media without Import",
+	"pcpe": "cpe:/a:external_media_without_import_project:external_media_without_import"
 }

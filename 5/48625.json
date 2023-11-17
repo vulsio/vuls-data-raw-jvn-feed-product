@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "48625",
-  "pname": "QCA1064 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qca1064_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "48625",
+	"pname": "QCA1064 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qca1064_firmware"
 }

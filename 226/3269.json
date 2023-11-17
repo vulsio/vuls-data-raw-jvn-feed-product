@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "3269",
-  "pname": "Novell NetWare",
-  "pcpe": "cpe:/o:novell:netware"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "3269",
+	"pname": "Novell NetWare",
+	"pcpe": "cpe:/o:novell:netware"
 }

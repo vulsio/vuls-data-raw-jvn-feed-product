@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30310",
-  "pname": "YANGTIAN S800 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:yangtian_s800_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30310",
+	"pname": "YANGTIAN S800 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:yangtian_s800_firmware"
 }

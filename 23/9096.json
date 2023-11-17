@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "9096",
-  "pname": "Symantec System Recovery",
-  "pcpe": "cpe:/a:symantec:system_recovery"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "9096",
+	"pname": "Symantec System Recovery",
+	"pcpe": "cpe:/a:symantec:system_recovery"
 }

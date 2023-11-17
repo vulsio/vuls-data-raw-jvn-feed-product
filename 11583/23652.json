@@ -1,8 +1,8 @@
 {
-  "vid": "11583",
-  "vname": "Services single sign-on server helper project",
-  "vcpe": "cpe:/:services_single_sign-on_server_helper_project",
-  "pid": "23652",
-  "pname": "Services single sign-on server helper",
-  "pcpe": "cpe:/a:services_single_sign-on_server_helper_project:services_single_sign-on_server_helper"
+	"vid": "11583",
+	"vname": "Services single sign-on server helper project",
+	"vcpe": "cpe:/:services_single_sign-on_server_helper_project",
+	"pid": "23652",
+	"pname": "Services single sign-on server helper",
+	"pcpe": "cpe:/a:services_single_sign-on_server_helper_project:services_single_sign-on_server_helper"
 }

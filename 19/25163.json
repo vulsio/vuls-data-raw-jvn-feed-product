@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "25163",
-  "pname": "Cisco Model DPQ3925 8x4 DOCSIS 3.0 Wireless Residential Gateway with EDVA ファームウェア",
-  "pcpe": "cpe:/a:cisco:dpq3925_8x4_docsis_3.0_wireless_residential_gateway_with_edva"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "25163",
+	"pname": "Cisco Model DPQ3925 8x4 DOCSIS 3.0 Wireless Residential Gateway with EDVA ファームウェア",
+	"pcpe": "cpe:/a:cisco:dpq3925_8x4_docsis_3.0_wireless_residential_gateway_with_edva"
 }

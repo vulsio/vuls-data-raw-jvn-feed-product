@@ -1,8 +1,8 @@
 {
-  "vid": "14306",
-  "vname": "box2d-native project",
-  "vcpe": "cpe:/:box2d-native_project",
-  "pid": "33987",
-  "pname": "box2d-native",
-  "pcpe": "cpe:/a:box2d-native_project:box2d-native"
+	"vid": "14306",
+	"vname": "box2d-native project",
+	"vcpe": "cpe:/:box2d-native_project",
+	"pid": "33987",
+	"pname": "box2d-native",
+	"pcpe": "cpe:/a:box2d-native_project:box2d-native"
 }

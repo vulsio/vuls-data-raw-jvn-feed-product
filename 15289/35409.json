@@ -1,8 +1,8 @@
 {
-  "vid": "15289",
-  "vname": "Echelon",
-  "vcpe": "cpe:/:echelon",
-  "pid": "35409",
-  "pname": "i.LON 600 ファームウェア",
-  "pcpe": "cpe:/o:echelon:i.lon_600_firmware"
+	"vid": "15289",
+	"vname": "Echelon",
+	"vcpe": "cpe:/:echelon",
+	"pid": "35409",
+	"pname": "i.LON 600 ファームウェア",
+	"pcpe": "cpe:/o:echelon:i.lon_600_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "217",
-  "vname": "インターネットイニシアティブ",
-  "vcpe": "cpe:/:iij",
-  "pid": "18441",
-  "pname": "SEIL/neu 2FE Plus ファームウェア",
-  "pcpe": "cpe:/o:iij:seil%252fneu_2fe_plus_firmware"
+	"vid": "217",
+	"vname": "インターネットイニシアティブ",
+	"vcpe": "cpe:/:iij",
+	"pid": "18441",
+	"pname": "SEIL/neu 2FE Plus ファームウェア",
+	"pcpe": "cpe:/o:iij:seil%252fneu_2fe_plus_firmware"
 }

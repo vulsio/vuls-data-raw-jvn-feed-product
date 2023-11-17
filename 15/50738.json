@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "50738",
-  "pname": "Oracle Essbase Administration Services",
-  "pcpe": "cpe:/a:oracle:essbase_administration_services"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "50738",
+	"pname": "Oracle Essbase Administration Services",
+	"pcpe": "cpe:/a:oracle:essbase_administration_services"
 }

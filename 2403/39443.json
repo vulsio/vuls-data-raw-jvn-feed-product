@@ -1,8 +1,8 @@
 {
-  "vid": "2403",
-  "vname": "AVTECH",
-  "vcpe": "cpe:/:avtech",
-  "pid": "39443",
-  "pname": "Room Alert 3E ファームウェア",
-  "pcpe": "cpe:/o:avtech:room_alert_3e_firmware"
+	"vid": "2403",
+	"vname": "AVTECH",
+	"vcpe": "cpe:/:avtech",
+	"pid": "39443",
+	"pname": "Room Alert 3E ファームウェア",
+	"pcpe": "cpe:/o:avtech:room_alert_3e_firmware"
 }

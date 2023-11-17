@@ -1,8 +1,8 @@
 {
-  "vid": "12830",
-  "vname": "libmtp project",
-  "vcpe": "cpe:/:libmtp_project",
-  "pid": "29533",
-  "pname": "libmtp",
-  "pcpe": "cpe:/a:libmtp_project:libmtp"
+	"vid": "12830",
+	"vname": "libmtp project",
+	"vcpe": "cpe:/:libmtp_project",
+	"pid": "29533",
+	"pname": "libmtp",
+	"pcpe": "cpe:/a:libmtp_project:libmtp"
 }

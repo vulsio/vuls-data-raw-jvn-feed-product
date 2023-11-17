@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "63052",
-  "pname": "i40en",
-  "pcpe": "cpe:/a:vmware:i40en"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "63052",
+	"pname": "i40en",
+	"pcpe": "cpe:/a:vmware:i40en"
 }

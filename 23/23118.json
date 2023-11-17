@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "23118",
-  "pname": "Symantec Deployment Solution",
-  "pcpe": "cpe:/a:symantec:deployment_solution"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "23118",
+	"pname": "Symantec Deployment Solution",
+	"pcpe": "cpe:/a:symantec:deployment_solution"
 }

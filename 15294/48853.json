@@ -1,8 +1,8 @@
 {
-  "vid": "15294",
-  "vname": "AVEVA",
-  "vcpe": "cpe:/:aveva",
-  "pid": "48853",
-  "pname": "AVEVA Communication Drivers Pack",
-  "pcpe": "cpe:/a:aveva:aveva_communication_drivers_pack"
+	"vid": "15294",
+	"vname": "AVEVA",
+	"vcpe": "cpe:/:aveva",
+	"pid": "48853",
+	"pname": "AVEVA Communication Drivers Pack",
+	"pcpe": "cpe:/a:aveva:aveva_communication_drivers_pack"
 }

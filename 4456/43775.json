@@ -1,8 +1,8 @@
 {
-  "vid": "4456",
-  "vname": "WAGO",
-  "vcpe": "cpe:/:wago",
-  "pid": "43775",
-  "pname": "WAGO e!Cockpit",
-  "pcpe": "cpe:/a:wago:e%21cockpit"
+	"vid": "4456",
+	"vname": "WAGO",
+	"vcpe": "cpe:/:wago",
+	"pid": "43775",
+	"pname": "WAGO e!Cockpit",
+	"pcpe": "cpe:/a:wago:e%21cockpit"
 }

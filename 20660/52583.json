@@ -1,8 +1,8 @@
 {
-  "vid": "20660",
-  "vname": "Wise Agent",
-  "vcpe": "cpe:/:wiseagent",
-  "pid": "52583",
-  "pname": "Wise Agent Capture Forms",
-  "pcpe": "cpe:/a:wiseagent:wise_agent_capture_forms"
+	"vid": "20660",
+	"vname": "Wise Agent",
+	"vcpe": "cpe:/:wiseagent",
+	"pid": "52583",
+	"pname": "Wise Agent Capture Forms",
+	"pcpe": "cpe:/a:wiseagent:wise_agent_capture_forms"
 }

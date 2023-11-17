@@ -1,8 +1,8 @@
 {
-  "vid": "6788",
-  "vname": "phpbbportal",
-  "vcpe": "cpe:/:phpbbportal",
-  "pid": "13628",
-  "pname": "phportal",
-  "pcpe": "cpe:/a:phpbbportal:phportal"
+	"vid": "6788",
+	"vname": "phpbbportal",
+	"vcpe": "cpe:/:phpbbportal",
+	"pid": "13628",
+	"pname": "phportal",
+	"pcpe": "cpe:/a:phpbbportal:phportal"
 }

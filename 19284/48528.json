@@ -1,8 +1,8 @@
 {
-  "vid": "19284",
-  "vname": "Data::Validate::IP project",
-  "vcpe": "cpe:/:data%3a%3avalidate%3a%3aip_project",
-  "pid": "48528",
-  "pname": "Data::Validate::IP",
-  "pcpe": "cpe:/a:data%3a%3avalidate%3a%3aip_project:data%3a%3avalidate%3a%3aip"
+	"vid": "19284",
+	"vname": "Data::Validate::IP project",
+	"vcpe": "cpe:/:data%3a%3avalidate%3a%3aip_project",
+	"pid": "48528",
+	"pname": "Data::Validate::IP",
+	"pcpe": "cpe:/a:data%3a%3avalidate%3a%3aip_project:data%3a%3avalidate%3a%3aip"
 }

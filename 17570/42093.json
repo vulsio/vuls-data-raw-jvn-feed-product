@@ -1,8 +1,8 @@
 {
-  "vid": "17570",
-  "vname": "Salto Systems",
-  "vcpe": "cpe:/:saltosystem",
-  "pid": "42093",
-  "pname": "ProAccess SPACE",
-  "pcpe": "cpe:/a:saltosystem:proaccess_space"
+	"vid": "17570",
+	"vname": "Salto Systems",
+	"vcpe": "cpe:/:saltosystem",
+	"pid": "42093",
+	"pname": "ProAccess SPACE",
+	"pcpe": "cpe:/a:saltosystem:proaccess_space"
 }

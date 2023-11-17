@@ -1,8 +1,8 @@
 {
-  "vid": "10061",
-  "vname": "Gameloft",
-  "vcpe": "cpe:/:gameloft",
-  "pid": "21080",
-  "pname": "Gameloft library",
-  "pcpe": "cpe:/a:gameloft:gameloft_library"
+	"vid": "10061",
+	"vname": "Gameloft",
+	"vcpe": "cpe:/:gameloft",
+	"pid": "21080",
+	"pname": "Gameloft library",
+	"pcpe": "cpe:/a:gameloft:gameloft_library"
 }

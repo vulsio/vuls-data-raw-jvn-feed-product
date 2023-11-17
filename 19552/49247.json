@@ -1,8 +1,8 @@
 {
-  "vid": "19552",
-  "vname": "visjs",
-  "vcpe": "cpe:/:visjs",
-  "pid": "49247",
-  "pname": "vis-timeline",
-  "pcpe": "cpe:/a:visjs:vis-timeline"
+	"vid": "19552",
+	"vname": "visjs",
+	"vcpe": "cpe:/:visjs",
+	"pid": "49247",
+	"pname": "vis-timeline",
+	"pcpe": "cpe:/a:visjs:vis-timeline"
 }

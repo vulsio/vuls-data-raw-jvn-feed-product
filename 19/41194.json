@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "41194",
-  "pname": "Cisco FirePOWER Management Center Virtual Appliance ファームウェア",
-  "pcpe": "cpe:/o:cisco:firepower_management_center_virtual_appliance_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "41194",
+	"pname": "Cisco FirePOWER Management Center Virtual Appliance ファームウェア",
+	"pcpe": "cpe:/o:cisco:firepower_management_center_virtual_appliance_firmware"
 }

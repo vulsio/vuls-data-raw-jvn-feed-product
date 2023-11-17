@@ -1,8 +1,8 @@
 {
-  "vid": "66",
-  "vname": "XOOPS",
-  "vcpe": "cpe:/:xoops",
-  "pid": "16387",
-  "pname": "XFsection",
-  "pcpe": "cpe:/a:xoops:xfsection_module"
+	"vid": "66",
+	"vname": "XOOPS",
+	"vcpe": "cpe:/:xoops",
+	"pid": "16387",
+	"pname": "XFsection",
+	"pcpe": "cpe:/a:xoops:xfsection_module"
 }

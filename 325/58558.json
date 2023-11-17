@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58558",
-  "pname": "ThinkBook 15-IML ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkbook_15-iml_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58558",
+	"pname": "ThinkBook 15-IML ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkbook_15-iml_firmware"
 }

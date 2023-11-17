@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "49196",
-  "pname": "EPM ADD-IN",
-  "pcpe": "cpe:/a:sap:enterprise_performance_management"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "49196",
+	"pname": "EPM ADD-IN",
+	"pcpe": "cpe:/a:sap:enterprise_performance_management"
 }

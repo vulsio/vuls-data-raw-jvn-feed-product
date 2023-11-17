@@ -1,8 +1,8 @@
 {
-  "vid": "21564",
-  "vname": "FuturePress",
-  "vcpe": "cpe:/:futurepress",
-  "pid": "55410",
-  "pname": "EPub.js",
-  "pcpe": "cpe:/a:futurepress:epub.js"
+	"vid": "21564",
+	"vname": "FuturePress",
+	"vcpe": "cpe:/:futurepress",
+	"pid": "55410",
+	"pname": "EPub.js",
+	"pcpe": "cpe:/a:futurepress:epub.js"
 }

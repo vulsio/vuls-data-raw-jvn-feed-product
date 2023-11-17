@@ -1,8 +1,8 @@
 {
-  "vid": "21448",
-  "vname": "SSH & Web Terminal project",
-  "vcpe": "cpe:/:ssh_%26_web_terminal_project",
-  "pid": "55066",
-  "pname": "SSH & Web Terminal",
-  "pcpe": "cpe:/a:ssh_%26_web_terminal_project:ssh_%26_web_terminal"
+	"vid": "21448",
+	"vname": "SSH & Web Terminal project",
+	"vcpe": "cpe:/:ssh_%26_web_terminal_project",
+	"pid": "55066",
+	"pname": "SSH & Web Terminal",
+	"pcpe": "cpe:/a:ssh_%26_web_terminal_project:ssh_%26_web_terminal"
 }

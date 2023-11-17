@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "32615",
-  "pname": "IBM XIV Storage System 2810-A14 ファームウェア",
-  "pcpe": "cpe:/o:ibm:xiv_storage_system_2810-a14_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "32615",
+	"pname": "IBM XIV Storage System 2810-A14 ファームウェア",
+	"pcpe": "cpe:/o:ibm:xiv_storage_system_2810-a14_firmware"
 }

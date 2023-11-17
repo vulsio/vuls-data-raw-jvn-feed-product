@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "25211",
-  "pname": "VMware vRealize Orchestrator",
-  "pcpe": "cpe:/a:vmware:vrealize_orchestrator"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "25211",
+	"pname": "VMware vRealize Orchestrator",
+	"pcpe": "cpe:/a:vmware:vrealize_orchestrator"
 }

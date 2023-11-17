@@ -1,8 +1,8 @@
 {
-  "vid": "1614",
-  "vname": "Netwin Ltd",
-  "vcpe": "cpe:/:netwin",
-  "pid": "11986",
-  "pname": "smsgate",
-  "pcpe": "cpe:/a:netwin:smsgate"
+	"vid": "1614",
+	"vname": "Netwin Ltd",
+	"vcpe": "cpe:/:netwin",
+	"pid": "11986",
+	"pname": "smsgate",
+	"pcpe": "cpe:/a:netwin:smsgate"
 }

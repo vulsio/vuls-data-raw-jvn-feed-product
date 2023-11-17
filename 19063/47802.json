@@ -1,8 +1,8 @@
 {
-  "vid": "19063",
-  "vname": "Checkbox",
-  "vcpe": "cpe:/:misc",
-  "pid": "47802",
-  "pname": "Checkbox Survey",
-  "pcpe": "cpe:/a:misc:checkbox_checkbox_survey"
+	"vid": "19063",
+	"vname": "Checkbox",
+	"vcpe": "cpe:/:misc",
+	"pid": "47802",
+	"pname": "Checkbox Survey",
+	"pcpe": "cpe:/a:misc:checkbox_checkbox_survey"
 }

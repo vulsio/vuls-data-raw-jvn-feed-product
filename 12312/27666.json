@@ -1,8 +1,8 @@
 {
-  "vid": "12312",
-  "vname": "Barco",
-  "vcpe": "cpe:/:barco",
-  "pid": "27666",
-  "pname": "ClickShare CSM-1 ファームウェア",
-  "pcpe": "cpe:/o:barco:clickshare_csm-1_firmware"
+	"vid": "12312",
+	"vname": "Barco",
+	"vcpe": "cpe:/:barco",
+	"pid": "27666",
+	"pname": "ClickShare CSM-1 ファームウェア",
+	"pcpe": "cpe:/o:barco:clickshare_csm-1_firmware"
 }

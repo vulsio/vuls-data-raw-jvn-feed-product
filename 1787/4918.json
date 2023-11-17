@@ -1,8 +1,8 @@
 {
-  "vid": "1787",
-  "vname": "Xymon",
-  "vcpe": "cpe:/:xymon",
-  "pid": "4918",
-  "pname": "Xymon",
-  "pcpe": "cpe:/a:xymon:xymon"
+	"vid": "1787",
+	"vname": "Xymon",
+	"vcpe": "cpe:/:xymon",
+	"pid": "4918",
+	"pname": "Xymon",
+	"pcpe": "cpe:/a:xymon:xymon"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "39421",
-  "pname": "Docker",
-  "pcpe": "cpe:/a:jenkins:docker"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "39421",
+	"pname": "Docker",
+	"pcpe": "cpe:/a:jenkins:docker"
 }

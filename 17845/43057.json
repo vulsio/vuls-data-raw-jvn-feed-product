@@ -1,8 +1,8 @@
 {
-  "vid": "17845",
-  "vname": "node-uuid project",
-  "vcpe": "cpe:/:node-uuid_project",
-  "pid": "43057",
-  "pname": "node-uuid",
-  "pcpe": "cpe:/a:node-uuid_project:node-uuid"
+	"vid": "17845",
+	"vname": "node-uuid project",
+	"vcpe": "cpe:/:node-uuid_project",
+	"pid": "43057",
+	"pname": "node-uuid",
+	"pcpe": "cpe:/a:node-uuid_project:node-uuid"
 }

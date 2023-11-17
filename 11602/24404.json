@@ -1,8 +1,8 @@
 {
-  "vid": "11602",
-  "vname": "ANTlabs",
-  "vcpe": "cpe:/:antlabs",
-  "pid": "24404",
-  "pname": "InnGate 3.02 E-Series",
-  "pcpe": "cpe:/h:antlabs:inngate_ig_3.02_e"
+	"vid": "11602",
+	"vname": "ANTlabs",
+	"vcpe": "cpe:/:antlabs",
+	"pid": "24404",
+	"pname": "InnGate 3.02 E-Series",
+	"pcpe": "cpe:/h:antlabs:inngate_ig_3.02_e"
 }

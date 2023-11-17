@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "61802",
-  "pname": "webdav server",
-  "pcpe": "cpe:/a:synology:webdav_server"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "61802",
+	"pname": "webdav server",
+	"pcpe": "cpe:/a:synology:webdav_server"
 }

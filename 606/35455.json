@@ -1,8 +1,8 @@
 {
-  "vid": "606",
-  "vname": "セイコーエプソン株式会社",
-  "vcpe": "cpe:/:epson",
-  "pid": "35455",
-  "pname": "EP-808AB/AW/AR",
-  "pcpe": "cpe:/a:epson:ep-808ab_aw_ar"
+	"vid": "606",
+	"vname": "セイコーエプソン株式会社",
+	"vcpe": "cpe:/:epson",
+	"pid": "35455",
+	"pname": "EP-808AB/AW/AR",
+	"pcpe": "cpe:/a:epson:ep-808ab_aw_ar"
 }

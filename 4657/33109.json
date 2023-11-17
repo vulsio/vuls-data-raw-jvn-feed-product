@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "33109",
-  "pname": "HG532 ファームウェア",
-  "pcpe": "cpe:/o:huawei:hg532_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "33109",
+	"pname": "HG532 ファームウェア",
+	"pcpe": "cpe:/o:huawei:hg532_firmware"
 }

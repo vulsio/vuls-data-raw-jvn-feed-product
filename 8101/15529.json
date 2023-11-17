@@ -1,8 +1,8 @@
 {
-  "vid": "8101",
-  "vname": "tourismscripts",
-  "vcpe": "cpe:/:tourismscripts",
-  "pid": "15529",
-  "pname": "bus script",
-  "pcpe": "cpe:/a:tourismscripts:bus_script"
+	"vid": "8101",
+	"vname": "tourismscripts",
+	"vcpe": "cpe:/:tourismscripts",
+	"pid": "15529",
+	"pname": "bus script",
+	"pcpe": "cpe:/a:tourismscripts:bus_script"
 }

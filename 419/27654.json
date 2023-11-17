@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "27654",
-  "pname": "MetroCluster Tiebreaker",
-  "pcpe": "cpe:/a:netapp:metrocluster_tiebreaker"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "27654",
+	"pname": "MetroCluster Tiebreaker",
+	"pcpe": "cpe:/a:netapp:metrocluster_tiebreaker"
 }

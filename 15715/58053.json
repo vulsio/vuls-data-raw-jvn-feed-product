@@ -1,8 +1,8 @@
 {
-  "vid": "15715",
-  "vname": "TOTOLINK",
-  "vcpe": "cpe:/:totolink",
-  "pid": "58053",
-  "pname": "n600r ファームウェア",
-  "pcpe": "cpe:/o:totolink:n600r_firmware"
+	"vid": "15715",
+	"vname": "TOTOLINK",
+	"vcpe": "cpe:/:totolink",
+	"pid": "58053",
+	"pname": "n600r ファームウェア",
+	"pcpe": "cpe:/o:totolink:n600r_firmware"
 }

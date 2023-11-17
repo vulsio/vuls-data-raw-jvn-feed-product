@@ -1,8 +1,8 @@
 {
-  "vid": "9310",
-  "vname": "aokitaka",
-  "vcpe": "cpe:/:aokitaka",
-  "pid": "19096",
-  "pname": "解凍ツール(ZIP/LHA/RAR/7z）日本語対応",
-  "pcpe": "cpe:/a:aokitaka:decompression_tool"
+	"vid": "9310",
+	"vname": "aokitaka",
+	"vcpe": "cpe:/:aokitaka",
+	"pid": "19096",
+	"pname": "解凍ツール(ZIP/LHA/RAR/7z）日本語対応",
+	"pcpe": "cpe:/a:aokitaka:decompression_tool"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12549",
-  "vname": "Eview",
-  "vcpe": "cpe:/:eviewgps",
-  "pid": "28509",
-  "pname": "EV-07S GPS トラッカーファームウェア",
-  "pcpe": "cpe:/o:eviewgps:ev-07s_gps_tracker_firmware"
+	"vid": "12549",
+	"vname": "Eview",
+	"vcpe": "cpe:/:eviewgps",
+	"pid": "28509",
+	"pname": "EV-07S GPS トラッカーファームウェア",
+	"pcpe": "cpe:/o:eviewgps:ev-07s_gps_tracker_firmware"
 }

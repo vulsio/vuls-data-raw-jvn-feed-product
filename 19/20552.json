@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "20552",
-  "pname": "Cisco SPA 301 1-Line IP Phone",
-  "pcpe": "cpe:/h:cisco:spa_301_1_line_ip_phone"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "20552",
+	"pname": "Cisco SPA 301 1-Line IP Phone",
+	"pcpe": "cpe:/h:cisco:spa_301_1_line_ip_phone"
 }

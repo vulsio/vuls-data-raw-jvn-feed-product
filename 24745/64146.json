@@ -1,8 +1,8 @@
 {
-  "vid": "24745",
-  "vname": "conduit-hyper project",
-  "vcpe": "cpe:/:conduit-hyper_project",
-  "pid": "64146",
-  "pname": "conduit-hyper",
-  "pcpe": "cpe:/a:conduit-hyper_project:conduit-hyper"
+	"vid": "24745",
+	"vname": "conduit-hyper project",
+	"vcpe": "cpe:/:conduit-hyper_project",
+	"pid": "64146",
+	"pname": "conduit-hyper",
+	"pcpe": "cpe:/a:conduit-hyper_project:conduit-hyper"
 }

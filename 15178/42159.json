@@ -1,8 +1,8 @@
 {
-  "vid": "15178",
-  "vname": "Sencha",
-  "vcpe": "cpe:/:sencha",
-  "pid": "42159",
-  "pname": "Connect",
-  "pcpe": "cpe:/a:sencha:connect"
+	"vid": "15178",
+	"vname": "Sencha",
+	"vcpe": "cpe:/:sencha",
+	"pid": "42159",
+	"pname": "Connect",
+	"pcpe": "cpe:/a:sencha:connect"
 }

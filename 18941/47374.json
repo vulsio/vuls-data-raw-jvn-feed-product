@@ -1,8 +1,8 @@
 {
-  "vid": "18941",
-  "vname": "EIPStackGroup",
-  "vcpe": "cpe:/:misc",
-  "pid": "47374",
-  "pname": "OpENer Ethernet/IP",
-  "pcpe": "cpe:/a:misc:eipstackgroup_opener_ethernet_ip"
+	"vid": "18941",
+	"vname": "EIPStackGroup",
+	"vcpe": "cpe:/:misc",
+	"pid": "47374",
+	"pname": "OpENer Ethernet/IP",
+	"pcpe": "cpe:/a:misc:eipstackgroup_opener_ethernet_ip"
 }

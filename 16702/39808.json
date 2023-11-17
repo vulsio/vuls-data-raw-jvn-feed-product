@@ -1,8 +1,8 @@
 {
-  "vid": "16702",
-  "vname": "WPSeeds",
-  "vcpe": "cpe:/:wpseeds",
-  "pid": "39808",
-  "pname": "WP Database Backup",
-  "pcpe": "cpe:/a:wpseeds:wp_database_backup"
+	"vid": "16702",
+	"vname": "WPSeeds",
+	"vcpe": "cpe:/:wpseeds",
+	"pid": "39808",
+	"pname": "WP Database Backup",
+	"pcpe": "cpe:/a:wpseeds:wp_database_backup"
 }

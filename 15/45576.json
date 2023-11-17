@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "45576",
-  "pname": "Oracle Configuration Manager",
-  "pcpe": "cpe:/a:oracle:configuration_manager"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "45576",
+	"pname": "Oracle Configuration Manager",
+	"pcpe": "cpe:/a:oracle:configuration_manager"
 }

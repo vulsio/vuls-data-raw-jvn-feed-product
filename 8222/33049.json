@@ -1,8 +1,8 @@
 {
-  "vid": "8222",
-  "vname": "Unisys",
-  "vcpe": "cpe:/:unisys",
-  "pid": "33049",
-  "pname": "ClearPath 2200",
-  "pcpe": "cpe:/o:unisys:clearpath_2200"
+	"vid": "8222",
+	"vname": "Unisys",
+	"vcpe": "cpe:/:unisys",
+	"pid": "33049",
+	"pname": "ClearPath 2200",
+	"pcpe": "cpe:/o:unisys:clearpath_2200"
 }

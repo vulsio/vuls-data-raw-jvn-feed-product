@@ -1,8 +1,8 @@
 {
-  "vid": "13956",
-  "vname": "Fresh-Media",
-  "vcpe": "cpe:/:fresh-media",
-  "pid": "33226",
-  "pname": "Brute Force Login Protection",
-  "pcpe": "cpe:/a:fresh-media:brute_force_login_protection"
+	"vid": "13956",
+	"vname": "Fresh-Media",
+	"vcpe": "cpe:/:fresh-media",
+	"pid": "33226",
+	"pname": "Brute Force Login Protection",
+	"pcpe": "cpe:/a:fresh-media:brute_force_login_protection"
 }

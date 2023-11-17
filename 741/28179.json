@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "28179",
-  "pname": "DSL-2730u ファームウェア",
-  "pcpe": "cpe:/o:dlink:dsl-2730u_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "28179",
+	"pname": "DSL-2730u ファームウェア",
+	"pcpe": "cpe:/o:dlink:dsl-2730u_firmware"
 }

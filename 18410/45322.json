@@ -1,8 +1,8 @@
 {
-  "vid": "18410",
-  "vname": "ファナック株式会社",
-  "vcpe": "cpe:/:fanuc",
-  "pid": "45322",
-  "pname": "Fanuc Series 0i Mate-MD",
-  "pcpe": "cpe:/a:fanuc:fanuc_series_oi_mate-md"
+	"vid": "18410",
+	"vname": "ファナック株式会社",
+	"vcpe": "cpe:/:fanuc",
+	"pid": "45322",
+	"pname": "Fanuc Series 0i Mate-MD",
+	"pcpe": "cpe:/a:fanuc:fanuc_series_oi_mate-md"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "29",
-  "vname": "エフ・セキュア",
-  "vcpe": "cpe:/:f-secure",
-  "pid": "63101",
-  "pname": "collaboration protection",
-  "pcpe": "cpe:/a:f-secure:collaboration_protection"
+	"vid": "29",
+	"vname": "エフ・セキュア",
+	"vcpe": "cpe:/:f-secure",
+	"pid": "63101",
+	"pname": "collaboration protection",
+	"pcpe": "cpe:/a:f-secure:collaboration_protection"
 }

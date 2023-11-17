@@ -1,8 +1,8 @@
 {
-  "vid": "1233",
-  "vname": "キングソフト株式会社",
-  "vcpe": "cpe:/:kingsoft",
-  "pid": "51325",
-  "pname": "WPS Office のインストーラ",
-  "pcpe": "cpe:/a:kingsoft:installer_of_kingsoft_wps_office"
+	"vid": "1233",
+	"vname": "キングソフト株式会社",
+	"vcpe": "cpe:/:kingsoft",
+	"pid": "51325",
+	"pname": "WPS Office のインストーラ",
+	"pcpe": "cpe:/a:kingsoft:installer_of_kingsoft_wps_office"
 }

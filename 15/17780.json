@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "17780",
-  "pname": "Oracle iLearning",
-  "pcpe": "cpe:/a:oracle:ilearning"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "17780",
+	"pname": "Oracle iLearning",
+	"pcpe": "cpe:/a:oracle:ilearning"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16360",
-  "vname": "Virgin Media",
-  "vcpe": "cpe:/:virginmedia",
-  "pid": "38637",
-  "pname": "Hub 3.0 ファームウェア",
-  "pcpe": "cpe:/o:virginmedia:hub_3.0_firmware"
+	"vid": "16360",
+	"vname": "Virgin Media",
+	"vcpe": "cpe:/:virginmedia",
+	"pid": "38637",
+	"pname": "Hub 3.0 ファームウェア",
+	"pcpe": "cpe:/o:virginmedia:hub_3.0_firmware"
 }

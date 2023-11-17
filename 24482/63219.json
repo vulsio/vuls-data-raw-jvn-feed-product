@@ -1,8 +1,8 @@
 {
-  "vid": "24482",
-  "vname": "fwupd",
-  "vcpe": "cpe:/:fwupd",
-  "pid": "63219",
-  "pname": "fwupd",
-  "pcpe": "cpe:/a:fwupd:fwupd"
+	"vid": "24482",
+	"vname": "fwupd",
+	"vcpe": "cpe:/:fwupd",
+	"pid": "63219",
+	"pname": "fwupd",
+	"pcpe": "cpe:/a:fwupd:fwupd"
 }

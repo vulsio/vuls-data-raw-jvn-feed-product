@@ -1,8 +1,8 @@
 {
-  "vid": "22041",
-  "vname": "MEGA",
-  "vcpe": "cpe:/:mega",
-  "pid": "56551",
-  "pname": "HOPEX",
-  "pcpe": "cpe:/a:mega:hopex"
+	"vid": "22041",
+	"vname": "MEGA",
+	"vcpe": "cpe:/:mega",
+	"pid": "56551",
+	"pname": "HOPEX",
+	"pcpe": "cpe:/a:mega:hopex"
 }

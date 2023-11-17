@@ -1,8 +1,8 @@
 {
-  "vid": "16526",
-  "vname": "DiffPlug",
-  "vcpe": "cpe:/:diffplug",
-  "pid": "62944",
-  "pname": "goomph",
-  "pcpe": "cpe:/a:diffplug:goomph"
+	"vid": "16526",
+	"vname": "DiffPlug",
+	"vcpe": "cpe:/:diffplug",
+	"pid": "62944",
+	"pname": "goomph",
+	"pcpe": "cpe:/a:diffplug:goomph"
 }

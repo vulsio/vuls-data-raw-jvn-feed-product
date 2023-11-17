@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "44183",
-  "pname": "Cloud Pak for Automation",
-  "pcpe": "cpe:/a:ibm:cloud_pak_for_automation"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "44183",
+	"pname": "Cloud Pak for Automation",
+	"pcpe": "cpe:/a:ibm:cloud_pak_for_automation"
 }

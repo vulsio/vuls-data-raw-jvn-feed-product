@@ -1,8 +1,8 @@
 {
-  "vid": "255",
-  "vname": "キヤノン",
-  "vcpe": "cpe:/:canon",
-  "pid": "45162",
-  "pname": "SELPHY CP1200",
-  "pcpe": "cpe:/h:canon:selphy_cp1200"
+	"vid": "255",
+	"vname": "キヤノン",
+	"vcpe": "cpe:/:canon",
+	"pid": "45162",
+	"pname": "SELPHY CP1200",
+	"pcpe": "cpe:/h:canon:selphy_cp1200"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "46494",
-  "pname": "computer-queue-plugin Plugin",
-  "pcpe": "cpe:/a:jenkins:computer_queue"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "46494",
+	"pname": "computer-queue-plugin Plugin",
+	"pcpe": "cpe:/a:jenkins:computer_queue"
 }

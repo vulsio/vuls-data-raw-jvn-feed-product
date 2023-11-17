@@ -1,8 +1,8 @@
 {
-  "vid": "12384",
-  "vname": "Jitsi",
-  "vcpe": "cpe:/:jitsi",
-  "pid": "44624",
-  "pname": "Meet",
-  "pcpe": "cpe:/a:jitsi:meet"
+	"vid": "12384",
+	"vname": "Jitsi",
+	"vcpe": "cpe:/:jitsi",
+	"pid": "44624",
+	"pname": "Meet",
+	"pcpe": "cpe:/a:jitsi:meet"
 }

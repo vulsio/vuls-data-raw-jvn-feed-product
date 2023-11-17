@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "50218",
-  "pname": "SIMOTICS CONNECT 400 ファームウェア",
-  "pcpe": "cpe:/o:siemens:simotics_connect_400_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "50218",
+	"pname": "SIMOTICS CONNECT 400 ファームウェア",
+	"pcpe": "cpe:/o:siemens:simotics_connect_400_firmware"
 }

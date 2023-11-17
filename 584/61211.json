@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "61211",
-  "pname": "scalance x204-2ld ts ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_x204-2ld_ts_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "61211",
+	"pname": "scalance x204-2ld ts ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_x204-2ld_ts_firmware"
 }

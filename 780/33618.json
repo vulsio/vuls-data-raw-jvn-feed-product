@@ -1,8 +1,8 @@
 {
-  "vid": "780",
-  "vname": "EDIMAX Technology",
-  "vcpe": "cpe:/:edimax",
-  "pid": "33618",
-  "pname": "IC-5150W ファームウェア",
-  "pcpe": "cpe:/o:edimax:ic-5150w_firmware"
+	"vid": "780",
+	"vname": "EDIMAX Technology",
+	"vcpe": "cpe:/:edimax",
+	"pid": "33618",
+	"pname": "IC-5150W ファームウェア",
+	"pcpe": "cpe:/o:edimax:ic-5150w_firmware"
 }

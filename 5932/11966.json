@@ -1,8 +1,8 @@
 {
-  "vid": "5932",
-  "vname": "netoffice",
-  "vcpe": "cpe:/:netoffice",
-  "pid": "11966",
-  "pname": "dwins",
-  "pcpe": "cpe:/a:netoffice:dwins"
+	"vid": "5932",
+	"vname": "netoffice",
+	"vcpe": "cpe:/:netoffice",
+	"pid": "11966",
+	"pname": "dwins",
+	"pcpe": "cpe:/a:netoffice:dwins"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "28032",
-  "pname": "Cisco Industrial Ethernet 2000 シリーズファームウェア",
-  "pcpe": "cpe:/o:cisco:industrial_ethernet_2000_series_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "28032",
+	"pname": "Cisco Industrial Ethernet 2000 シリーズファームウェア",
+	"pcpe": "cpe:/o:cisco:industrial_ethernet_2000_series_firmware"
 }

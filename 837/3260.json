@@ -1,8 +1,8 @@
 {
-  "vid": "837",
-  "vname": "codefabrik gmbh",
-  "vcpe": "cpe:/:codefabrik",
-  "pid": "3260",
-  "pname": "Ecomat CMS",
-  "pcpe": "cpe:/a:codefabrik:ecomat_cms"
+	"vid": "837",
+	"vname": "codefabrik gmbh",
+	"vcpe": "cpe:/:codefabrik",
+	"pid": "3260",
+	"pname": "Ecomat CMS",
+	"pcpe": "cpe:/a:codefabrik:ecomat_cms"
 }

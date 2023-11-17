@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "18745",
-  "pname": "IBM Rational Performance Tester",
-  "pcpe": "cpe:/a:ibm:rational_performance_tester"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "18745",
+	"pname": "IBM Rational Performance Tester",
+	"pcpe": "cpe:/a:ibm:rational_performance_tester"
 }

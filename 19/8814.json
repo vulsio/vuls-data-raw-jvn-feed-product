@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "8814",
-  "pname": "voip phone cp-7940",
-  "pcpe": "cpe:/h:cisco:voip_phone_cp-7940"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "8814",
+	"pname": "voip phone cp-7940",
+	"pcpe": "cpe:/h:cisco:voip_phone_cp-7940"
 }

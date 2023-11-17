@@ -1,8 +1,8 @@
 {
-  "vid": "681",
-  "vname": "ASUSTeK Computer Inc.",
-  "vcpe": "cpe:/:asus",
-  "pid": "56550",
-  "pname": "ASUS ルーター RT-AX3000",
-  "pcpe": "cpe:/h:asus:asus_router_rt-ax3000"
+	"vid": "681",
+	"vname": "ASUSTeK Computer Inc.",
+	"vcpe": "cpe:/:asus",
+	"pid": "56550",
+	"pname": "ASUS ルーター RT-AX3000",
+	"pcpe": "cpe:/h:asus:asus_router_rt-ax3000"
 }

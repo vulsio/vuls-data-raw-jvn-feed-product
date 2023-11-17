@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "8461",
-  "pname": "libcdio",
-  "pcpe": "cpe:/a:gnu:libcdio"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "8461",
+	"pname": "libcdio",
+	"pcpe": "cpe:/a:gnu:libcdio"
 }

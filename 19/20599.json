@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "20599",
-  "pname": "Cisco EPC3212 VoIP Cable Modem",
-  "pcpe": "cpe:/h:cisco:epc3212"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "20599",
+	"pname": "Cisco EPC3212 VoIP Cable Modem",
+	"pcpe": "cpe:/h:cisco:epc3212"
 }

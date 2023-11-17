@@ -1,8 +1,8 @@
 {
-  "vid": "4394",
-  "vname": "XChat",
-  "vcpe": "cpe:/:xchat",
-  "pid": "43631",
-  "pname": "Xchat-WDK",
-  "pcpe": "cpe:/a:xchat:xchat-wdk"
+	"vid": "4394",
+	"vname": "XChat",
+	"vcpe": "cpe:/:xchat",
+	"pid": "43631",
+	"pname": "Xchat-WDK",
+	"pcpe": "cpe:/a:xchat:xchat-wdk"
 }

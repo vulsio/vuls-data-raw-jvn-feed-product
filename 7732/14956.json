@@ -1,8 +1,8 @@
 {
-  "vid": "7732",
-  "vname": "softwin",
-  "vcpe": "cpe:/:softwin",
-  "pid": "14956",
-  "pname": "bitdefender online scanner",
-  "pcpe": "cpe:/a:softwin:bitdefender_online_scanner"
+	"vid": "7732",
+	"vname": "softwin",
+	"vcpe": "cpe:/:softwin",
+	"pid": "14956",
+	"pname": "bitdefender online scanner",
+	"pcpe": "cpe:/a:softwin:bitdefender_online_scanner"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "228",
-  "vname": "Fedora Project",
-  "vcpe": "cpe:/:fedoraproject",
-  "pid": "13144",
-  "pname": "crypto-utils",
-  "pcpe": "cpe:/a:fedoraproject:crypto-utils"
+	"vid": "228",
+	"vname": "Fedora Project",
+	"vcpe": "cpe:/:fedoraproject",
+	"pid": "13144",
+	"pname": "crypto-utils",
+	"pcpe": "cpe:/a:fedoraproject:crypto-utils"
 }

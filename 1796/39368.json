@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "39368",
-  "pname": "MiniMed Paradigm 522K ファームウェア",
-  "pcpe": "cpe:/o:medtronic:minimed_paradigm_522k_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "39368",
+	"pname": "MiniMed Paradigm 522K ファームウェア",
+	"pcpe": "cpe:/o:medtronic:minimed_paradigm_522k_firmware"
 }

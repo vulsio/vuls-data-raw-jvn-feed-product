@@ -1,8 +1,8 @@
 {
-  "vid": "21509",
-  "vname": "Agoric",
-  "vcpe": "cpe:/:agoric",
-  "pid": "55220",
-  "pname": "realms-shim",
-  "pcpe": "cpe:/a:agoric:realms-shim"
+	"vid": "21509",
+	"vname": "Agoric",
+	"vcpe": "cpe:/:agoric",
+	"pid": "55220",
+	"pname": "realms-shim",
+	"pcpe": "cpe:/a:agoric:realms-shim"
 }

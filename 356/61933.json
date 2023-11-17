@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "61933",
-  "pname": "google play services software development kit",
-  "pcpe": "cpe:/a:google:google_play_services_software_development_kit"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "61933",
+	"pname": "google play services software development kit",
+	"pcpe": "cpe:/a:google:google_play_services_software_development_kit"
 }

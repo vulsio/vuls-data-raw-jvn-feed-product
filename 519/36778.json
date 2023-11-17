@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "36778",
-  "pname": "Call Management System Supervisor",
-  "pcpe": "cpe:/a:avaya:call_management_system_supervisor"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "36778",
+	"pname": "Call Management System Supervisor",
+	"pcpe": "cpe:/a:avaya:call_management_system_supervisor"
 }

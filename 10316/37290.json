@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "37290",
-  "pname": "Cloud Foundry Bits Service",
-  "pcpe": "cpe:/a:greenplum:bits_service"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "37290",
+	"pname": "Cloud Foundry Bits Service",
+	"pcpe": "cpe:/a:greenplum:bits_service"
 }

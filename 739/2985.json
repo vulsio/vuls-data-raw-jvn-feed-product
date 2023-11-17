@@ -1,8 +1,8 @@
 {
-  "vid": "739",
-  "vname": "Adam Kennedy",
-  "vcpe": "cpe:/:adam_kennedy",
-  "pid": "2985",
-  "pname": "Crypt::DSA",
-  "pcpe": "cpe:/a:adam_kennedy:crypt-dsa"
+	"vid": "739",
+	"vname": "Adam Kennedy",
+	"vcpe": "cpe:/:adam_kennedy",
+	"pid": "2985",
+	"pname": "Crypt::DSA",
+	"pcpe": "cpe:/a:adam_kennedy:crypt-dsa"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10360",
-  "vname": "Text and software",
-  "vcpe": "cpe:/:antiword_project",
-  "pid": "21769",
-  "pname": "Antiword",
-  "pcpe": "cpe:/a:antiword_project:antiword"
+	"vid": "10360",
+	"vname": "Text and software",
+	"vcpe": "cpe:/:antiword_project",
+	"pid": "21769",
+	"pname": "Antiword",
+	"pcpe": "cpe:/a:antiword_project:antiword"
 }

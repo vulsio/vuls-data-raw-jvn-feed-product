@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "1952",
-  "pname": "GNU Classpath",
-  "pcpe": "cpe:/a:gnu:classpath"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "1952",
+	"pname": "GNU Classpath",
+	"pcpe": "cpe:/a:gnu:classpath"
 }

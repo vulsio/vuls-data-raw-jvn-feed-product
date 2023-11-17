@@ -1,8 +1,8 @@
 {
-  "vid": "14678",
-  "vname": "HCL Technologies Limited",
-  "vcpe": "cpe:/:hcltech",
-  "pid": "44795",
-  "pname": "HCL Nomad",
-  "pcpe": "cpe:/a:hcltech:hcl_nomad"
+	"vid": "14678",
+	"vname": "HCL Technologies Limited",
+	"vcpe": "cpe:/:hcltech",
+	"pid": "44795",
+	"pname": "HCL Nomad",
+	"pcpe": "cpe:/a:hcltech:hcl_nomad"
 }

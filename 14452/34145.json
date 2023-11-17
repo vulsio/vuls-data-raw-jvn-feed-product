@@ -1,8 +1,8 @@
 {
-  "vid": "14452",
-  "vname": "glance project",
-  "vcpe": "cpe:/:glance_project",
-  "pid": "34145",
-  "pname": "glance",
-  "pcpe": "cpe:/a:glance_project:glance"
+	"vid": "14452",
+	"vname": "glance project",
+	"vcpe": "cpe:/:glance_project",
+	"pid": "34145",
+	"pname": "glance",
+	"pcpe": "cpe:/a:glance_project:glance"
 }

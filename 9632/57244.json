@@ -1,8 +1,8 @@
 {
-  "vid": "9632",
-  "vname": "Neo Technology",
-  "vcpe": "cpe:/:neo4j",
-  "pid": "57244",
-  "pname": "Awesome Procedures On Cypher for Neo4j",
-  "pcpe": "cpe:/a:neo4j:awesome_procedures_on_cyper"
+	"vid": "9632",
+	"vname": "Neo Technology",
+	"vcpe": "cpe:/:neo4j",
+	"pid": "57244",
+	"pname": "Awesome Procedures On Cypher for Neo4j",
+	"pcpe": "cpe:/a:neo4j:awesome_procedures_on_cyper"
 }

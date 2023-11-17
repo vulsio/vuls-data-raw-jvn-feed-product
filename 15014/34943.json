@@ -1,8 +1,8 @@
 {
-  "vid": "15014",
-  "vname": "SmartPayment project",
-  "vcpe": "cpe:/:smartpayment_project",
-  "pid": "34943",
-  "pname": "SmartPayment",
-  "pcpe": "cpe:/a:smartpayment_project:smartpayment"
+	"vid": "15014",
+	"vname": "SmartPayment project",
+	"vcpe": "cpe:/:smartpayment_project",
+	"pid": "34943",
+	"pname": "SmartPayment",
+	"pcpe": "cpe:/a:smartpayment_project:smartpayment"
 }

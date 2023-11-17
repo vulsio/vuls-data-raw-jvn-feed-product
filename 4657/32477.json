@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "32477",
-  "pname": "SVN5800 ファームウェア",
-  "pcpe": "cpe:/o:huawei:svn5800_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "32477",
+	"pname": "SVN5800 ファームウェア",
+	"pcpe": "cpe:/o:huawei:svn5800_firmware"
 }

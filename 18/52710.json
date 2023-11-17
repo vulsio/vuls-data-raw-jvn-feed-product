@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "52710",
-  "pname": "IBM Partner Engagement Manager",
-  "pcpe": "cpe:/a:ibm:partner_engagement_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "52710",
+	"pname": "IBM Partner Engagement Manager",
+	"pcpe": "cpe:/a:ibm:partner_engagement_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14761",
-  "vname": "CryptLib",
-  "vcpe": "cpe:/:cryptlib",
-  "pid": "34566",
-  "pname": "CryptLib",
-  "pcpe": "cpe:/a:cryptlib:cryptlib"
+	"vid": "14761",
+	"vname": "CryptLib",
+	"vcpe": "cpe:/:cryptlib",
+	"pid": "34566",
+	"pname": "CryptLib",
+	"pcpe": "cpe:/a:cryptlib:cryptlib"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10121",
-  "vname": "Telerik",
-  "vcpe": "cpe:/:telerik",
-  "pid": "29342",
-  "pname": "Telerik Reporting for ASP.NET WebForms Report Viewer",
-  "pcpe": "cpe:/a:telerik:asp.net_webforms_report_viewer"
+	"vid": "10121",
+	"vname": "Telerik",
+	"vcpe": "cpe:/:telerik",
+	"pid": "29342",
+	"pname": "Telerik Reporting for ASP.NET WebForms Report Viewer",
+	"pcpe": "cpe:/a:telerik:asp.net_webforms_report_viewer"
 }

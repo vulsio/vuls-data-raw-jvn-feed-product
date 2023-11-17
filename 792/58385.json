@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "58385",
-  "pname": "vmg3927-b50b ファームウェア",
-  "pcpe": "cpe:/o:zyxel:vmg3927-b50b_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "58385",
+	"pname": "vmg3927-b50b ファームウェア",
+	"pcpe": "cpe:/o:zyxel:vmg3927-b50b_firmware"
 }

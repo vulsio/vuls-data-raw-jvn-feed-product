@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "1206",
-  "pname": "Express5800/FW",
-  "pcpe": "cpe:/h:nec:express5800_fw"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "1206",
+	"pname": "Express5800/FW",
+	"pcpe": "cpe:/h:nec:express5800_fw"
 }

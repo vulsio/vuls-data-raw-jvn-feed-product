@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "36362",
-  "pname": "Polycom VVX 601 ファームウェア",
-  "pcpe": "cpe:/o:polycom:vvx_601_firmware"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "36362",
+	"pname": "Polycom VVX 601 ファームウェア",
+	"pcpe": "cpe:/o:polycom:vvx_601_firmware"
 }

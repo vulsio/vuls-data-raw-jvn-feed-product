@@ -1,8 +1,8 @@
 {
-  "vid": "784",
-  "vname": "Technicolor",
-  "vcpe": "cpe:/:technicolor",
-  "pid": "29974",
-  "pname": "TC7337 ファームウェア",
-  "pcpe": "cpe:/o:technicolor:tc7337_firmware"
+	"vid": "784",
+	"vname": "Technicolor",
+	"vcpe": "cpe:/:technicolor",
+	"pid": "29974",
+	"pname": "TC7337 ファームウェア",
+	"pcpe": "cpe:/o:technicolor:tc7337_firmware"
 }

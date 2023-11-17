@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "53526",
-  "pname": "Oracle Financial Services Enterprise Case Management",
-  "pcpe": "cpe:/a:oracle:financial_services_enterprise_case_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "53526",
+	"pname": "Oracle Financial Services Enterprise Case Management",
+	"pcpe": "cpe:/a:oracle:financial_services_enterprise_case_management"
 }

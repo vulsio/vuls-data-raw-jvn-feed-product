@@ -1,8 +1,8 @@
 {
-  "vid": "12127",
-  "vname": "libpam-sshauth",
-  "vcpe": "cpe:/:libpam-sshauth",
-  "pid": "26098",
-  "pname": "libpam-sshauth",
-  "pcpe": "cpe:/a:libpam-sshauth:libpam-sshauth"
+	"vid": "12127",
+	"vname": "libpam-sshauth",
+	"vcpe": "cpe:/:libpam-sshauth",
+	"pid": "26098",
+	"pname": "libpam-sshauth",
+	"pcpe": "cpe:/a:libpam-sshauth:libpam-sshauth"
 }

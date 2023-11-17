@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4969",
-  "pname": "procurve msm320-r access point",
-  "pcpe": "cpe:/h:hp:procurve_msm320-r_access_point"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4969",
+	"pname": "procurve msm320-r access point",
+	"pcpe": "cpe:/h:hp:procurve_msm320-r_access_point"
 }

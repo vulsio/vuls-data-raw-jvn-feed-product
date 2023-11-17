@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "42908",
-  "pname": "Nucleus RTOS",
-  "pcpe": "cpe:/o:siemens:nucleus_rtos"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "42908",
+	"pname": "Nucleus RTOS",
+	"pcpe": "cpe:/o:siemens:nucleus_rtos"
 }

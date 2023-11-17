@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "55442",
-  "pname": "Oracle Enterprise Operations Monitor",
-  "pcpe": "cpe:/a:oracle:enterprise_operations_monitor"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "55442",
+	"pname": "Oracle Enterprise Operations Monitor",
+	"pcpe": "cpe:/a:oracle:enterprise_operations_monitor"
 }

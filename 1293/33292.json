@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "33292",
-  "pname": "Endpoint Protection",
-  "pcpe": "cpe:/a:sophos:endpoint_protection"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "33292",
+	"pname": "Endpoint Protection",
+	"pcpe": "cpe:/a:sophos:endpoint_protection"
 }

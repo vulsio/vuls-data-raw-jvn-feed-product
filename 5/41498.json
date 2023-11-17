@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "41498",
-  "pname": "MSM8905 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:msm8905_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "41498",
+	"pname": "MSM8905 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:msm8905_firmware"
 }

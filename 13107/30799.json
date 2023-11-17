@@ -1,8 +1,8 @@
 {
-  "vid": "13107",
-  "vname": "Intelbras",
-  "vcpe": "cpe:/:intelbras",
-  "pid": "30799",
-  "pname": "WRN 150 ファームウェア",
-  "pcpe": "cpe:/o:intelbras:wrn_150_firmware"
+	"vid": "13107",
+	"vname": "Intelbras",
+	"vcpe": "cpe:/:intelbras",
+	"pid": "30799",
+	"pname": "WRN 150 ファームウェア",
+	"pcpe": "cpe:/o:intelbras:wrn_150_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "24614",
-  "pname": "Microsoft Edge",
-  "pcpe": "cpe:/a:microsoft:edge"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "24614",
+	"pname": "Microsoft Edge",
+	"pcpe": "cpe:/a:microsoft:edge"
 }

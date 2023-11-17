@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "10001",
-  "pname": "Rational Application Developer for WebSphere",
-  "pcpe": "cpe:/a:ibm:rational_application_developer_for_websphere"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "10001",
+	"pname": "Rational Application Developer for WebSphere",
+	"pcpe": "cpe:/a:ibm:rational_application_developer_for_websphere"
 }

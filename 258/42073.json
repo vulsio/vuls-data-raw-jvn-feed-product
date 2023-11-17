@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "42073",
-  "pname": "gnome-system-log",
-  "pcpe": "cpe:/a:gnome:gnome-system-log"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "42073",
+	"pname": "gnome-system-log",
+	"pcpe": "cpe:/a:gnome:gnome-system-log"
 }

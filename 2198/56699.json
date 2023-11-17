@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "56699",
-  "pname": "Ryzen PRO 5650GE ファームウェア",
-  "pcpe": "cpe:/o:amd:ryzen_pro_5650ge_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "56699",
+	"pname": "Ryzen PRO 5650GE ファームウェア",
+	"pcpe": "cpe:/o:amd:ryzen_pro_5650ge_firmware"
 }

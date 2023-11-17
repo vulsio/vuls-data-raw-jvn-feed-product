@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "31987",
-  "pname": "Oracle Retail Merchandising System",
-  "pcpe": "cpe:/a:oracle:retail_merchandising_system"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "31987",
+	"pname": "Oracle Retail Merchandising System",
+	"pcpe": "cpe:/a:oracle:retail_merchandising_system"
 }

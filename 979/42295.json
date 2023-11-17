@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "42295",
-  "pname": "SAML Single Sign On (SSO)",
-  "pcpe": "cpe:/a:atlassian:saml_single_sign_on"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "42295",
+	"pname": "SAML Single Sign On (SSO)",
+	"pcpe": "cpe:/a:atlassian:saml_single_sign_on"
 }

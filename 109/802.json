@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "802",
-  "pname": "VoIPルータ LR-Vシリーズ",
-  "pcpe": "cpe:/h:fujitsu:voip_router_lr-v"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "802",
+	"pname": "VoIPルータ LR-Vシリーズ",
+	"pcpe": "cpe:/h:fujitsu:voip_router_lr-v"
 }

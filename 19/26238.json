@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "26238",
-  "pname": "Cisco Prime Network Analysis Module ソフトウェア",
-  "pcpe": "cpe:/o:cisco:prime_network_analysis_module_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "26238",
+	"pname": "Cisco Prime Network Analysis Module ソフトウェア",
+	"pcpe": "cpe:/o:cisco:prime_network_analysis_module_software"
 }

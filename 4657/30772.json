@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "30772",
-  "pname": "AR200 ファームウェア",
-  "pcpe": "cpe:/o:huawei:ar200_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "30772",
+	"pname": "AR200 ファームウェア",
+	"pcpe": "cpe:/o:huawei:ar200_firmware"
 }

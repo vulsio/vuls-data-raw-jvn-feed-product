@@ -1,8 +1,8 @@
 {
-  "vid": "8792",
-  "vname": "reactos",
-  "vcpe": "cpe:/:reactos",
-  "pid": "16700",
-  "pname": "reactos",
-  "pcpe": "cpe:/o:reactos:reactos"
+	"vid": "8792",
+	"vname": "reactos",
+	"vcpe": "cpe:/:reactos",
+	"pid": "16700",
+	"pname": "reactos",
+	"pcpe": "cpe:/o:reactos:reactos"
 }

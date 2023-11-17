@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "24995",
-  "pname": "HP Vertica",
-  "pcpe": "cpe:/a:hp:vertica"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "24995",
+	"pname": "HP Vertica",
+	"pcpe": "cpe:/a:hp:vertica"
 }

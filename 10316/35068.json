@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "35068",
-  "pname": "Pivotal Operations Manager",
-  "pcpe": "cpe:/a:greenplum:operations_manager"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "35068",
+	"pname": "Pivotal Operations Manager",
+	"pcpe": "cpe:/a:greenplum:operations_manager"
 }

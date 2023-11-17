@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "32645",
-  "pname": "J9626A ファームウェア",
-  "pcpe": "cpe:/o:hp:j9626a_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "32645",
+	"pname": "J9626A ファームウェア",
+	"pcpe": "cpe:/o:hp:j9626a_firmware"
 }

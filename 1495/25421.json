@@ -1,8 +1,8 @@
 {
-  "vid": "1495",
-  "vname": "Greenbone Networks GmbH",
-  "vcpe": "cpe:/:greenbone",
-  "pid": "25421",
-  "pname": "Greenbone OS",
-  "pcpe": "cpe:/o:greenbone:greenbone_os"
+	"vid": "1495",
+	"vname": "Greenbone Networks GmbH",
+	"vcpe": "cpe:/:greenbone",
+	"pid": "25421",
+	"pname": "Greenbone OS",
+	"pcpe": "cpe:/o:greenbone:greenbone_os"
 }

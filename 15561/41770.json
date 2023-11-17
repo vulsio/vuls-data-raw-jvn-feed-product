@@ -1,8 +1,8 @@
 {
-  "vid": "15561",
-  "vname": "STMicroelectronics",
-  "vcpe": "cpe:/:stmicroelectronics",
-  "pid": "41770",
-  "pname": "ST33TPHF2ESPIR28 ファームウェア",
-  "pcpe": "cpe:/o:stmicroelectronics:st33tphf2espir28_firmware"
+	"vid": "15561",
+	"vname": "STMicroelectronics",
+	"vcpe": "cpe:/:stmicroelectronics",
+	"pid": "41770",
+	"pname": "ST33TPHF2ESPIR28 ファームウェア",
+	"pcpe": "cpe:/o:stmicroelectronics:st33tphf2espir28_firmware"
 }

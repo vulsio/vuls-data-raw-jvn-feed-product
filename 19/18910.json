@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18910",
-  "pname": "Cisco Scientific Atlanta DPR/EPR2320 Cable Modem with Wireless Access Point",
-  "pcpe": "cpe:/h:cisco:scientific_atlanta_dpr%2Fepr2320"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18910",
+	"pname": "Cisco Scientific Atlanta DPR/EPR2320 Cable Modem with Wireless Access Point",
+	"pcpe": "cpe:/h:cisco:scientific_atlanta_dpr%2Fepr2320"
 }

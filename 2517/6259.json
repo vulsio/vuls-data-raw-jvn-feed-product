@@ -1,8 +1,8 @@
 {
-  "vid": "2517",
-  "vname": "biba software",
-  "vcpe": "cpe:/:biba_software",
-  "pid": "6259",
-  "pname": "seleniumserver ftp server",
-  "pcpe": "cpe:/a:biba_software:seleniumserver_ftp_server"
+	"vid": "2517",
+	"vname": "biba software",
+	"vcpe": "cpe:/:biba_software",
+	"pid": "6259",
+	"pname": "seleniumserver ftp server",
+	"pcpe": "cpe:/a:biba_software:seleniumserver_ftp_server"
 }

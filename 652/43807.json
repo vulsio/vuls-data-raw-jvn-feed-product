@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "43807",
-  "pname": "Samsung LPDDR4",
-  "pcpe": "cpe:/h:samsung:lpddr4"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "43807",
+	"pname": "Samsung LPDDR4",
+	"pcpe": "cpe:/h:samsung:lpddr4"
 }

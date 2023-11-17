@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "27744",
-  "pname": "VEGN2610 ファームウェア",
-  "pcpe": "cpe:/o:netgear:vegn2610_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "27744",
+	"pname": "VEGN2610 ファームウェア",
+	"pcpe": "cpe:/o:netgear:vegn2610_firmware"
 }

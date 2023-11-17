@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "59482",
-  "pname": "xeon w-1390t ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_w-1390t_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "59482",
+	"pname": "xeon w-1390t ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_w-1390t_firmware"
 }

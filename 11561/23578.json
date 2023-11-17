@@ -1,8 +1,8 @@
 {
-  "vid": "11561",
-  "vname": "OpenType Sanitiser project",
-  "vcpe": "cpe:/:opentype_sanitiser_project",
-  "pid": "23578",
-  "pname": "OpenType Sanitiser",
-  "pcpe": "cpe:/a:opentype_sanitiser_project:opentype_sanitiser"
+	"vid": "11561",
+	"vname": "OpenType Sanitiser project",
+	"vcpe": "cpe:/:opentype_sanitiser_project",
+	"pid": "23578",
+	"pname": "OpenType Sanitiser",
+	"pcpe": "cpe:/a:opentype_sanitiser_project:opentype_sanitiser"
 }

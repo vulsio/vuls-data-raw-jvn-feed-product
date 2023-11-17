@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20977",
-  "pname": "IBM UrbanCode Release",
-  "pcpe": "cpe:/a:ibm:ibm_urbancode_release"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20977",
+	"pname": "IBM UrbanCode Release",
+	"pcpe": "cpe:/a:ibm:ibm_urbancode_release"
 }

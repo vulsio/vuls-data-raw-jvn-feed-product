@@ -1,8 +1,8 @@
 {
-  "vid": "15362",
-  "vname": "Micron Technology, Inc.",
-  "vcpe": "cpe:/:micron",
-  "pid": "43805",
-  "pname": "Micron LPDDR4",
-  "pcpe": "cpe:/h:micron:lpddr4"
+	"vid": "15362",
+	"vname": "Micron Technology, Inc.",
+	"vcpe": "cpe:/:micron",
+	"pid": "43805",
+	"pname": "Micron LPDDR4",
+	"pcpe": "cpe:/h:micron:lpddr4"
 }

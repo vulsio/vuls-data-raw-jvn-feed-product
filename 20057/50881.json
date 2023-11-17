@@ -1,8 +1,8 @@
 {
-  "vid": "20057",
-  "vname": "In4Velocity",
-  "vcpe": "cpe:/:in4velocity",
-  "pid": "50881",
-  "pname": "In4Suite ERP",
-  "pcpe": "cpe:/a:in4velocity:in4suite_erp"
+	"vid": "20057",
+	"vname": "In4Velocity",
+	"vcpe": "cpe:/:in4velocity",
+	"pid": "50881",
+	"pname": "In4Suite ERP",
+	"pcpe": "cpe:/a:in4velocity:in4suite_erp"
 }

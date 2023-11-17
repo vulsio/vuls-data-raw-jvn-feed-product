@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "61063",
-  "pname": "APC Easy UPS Online Monitoring Software",
-  "pcpe": "cpe:/a:schneider_electric:apc_easy_ups_online_monitoring_software"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "61063",
+	"pname": "APC Easy UPS Online Monitoring Software",
+	"pcpe": "cpe:/a:schneider_electric:apc_easy_ups_online_monitoring_software"
 }

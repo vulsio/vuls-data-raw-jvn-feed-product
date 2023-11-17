@@ -1,8 +1,8 @@
 {
-  "vid": "13812",
-  "vname": "eQ-3 AG",
-  "vcpe": "cpe:/:eq-3",
-  "pid": "41186",
-  "pname": "CUx-Daemon",
-  "pcpe": "cpe:/a:eq-3:cux-daemon"
+	"vid": "13812",
+	"vname": "eQ-3 AG",
+	"vcpe": "cpe:/:eq-3",
+	"pid": "41186",
+	"pname": "CUx-Daemon",
+	"pcpe": "cpe:/a:eq-3:cux-daemon"
 }

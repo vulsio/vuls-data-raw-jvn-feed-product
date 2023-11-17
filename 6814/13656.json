@@ -1,8 +1,8 @@
 {
-  "vid": "6814",
-  "vname": "phpdirsubmit",
-  "vcpe": "cpe:/:phpdirsubmit",
-  "pid": "13656",
-  "pname": "php dir submit",
-  "pcpe": "cpe:/a:phpdirsubmit:php_dir_submit"
+	"vid": "6814",
+	"vname": "phpdirsubmit",
+	"vcpe": "cpe:/:phpdirsubmit",
+	"pid": "13656",
+	"pname": "php dir submit",
+	"pcpe": "cpe:/a:phpdirsubmit:php_dir_submit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8913",
-  "vname": "cairographics.org",
-  "vcpe": "cpe:/:cairographics",
-  "pid": "17096",
-  "pname": "cairo",
-  "pcpe": "cpe:/a:cairographics:cairo"
+	"vid": "8913",
+	"vname": "cairographics.org",
+	"vcpe": "cpe:/:cairographics",
+	"pid": "17096",
+	"pname": "cairo",
+	"pcpe": "cpe:/a:cairographics:cairo"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "51693",
-  "pname": "FX5UC-32MR/DS-TS ファームウェア",
-  "pcpe": "cpe:/o:mitsubishielectric:fx5uc-32mr%2fds-ts_firmware"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "51693",
+	"pname": "FX5UC-32MR/DS-TS ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:fx5uc-32mr%2fds-ts_firmware"
 }

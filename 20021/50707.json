@@ -1,8 +1,8 @@
 {
-  "vid": "20021",
-  "vname": "SoloKeys",
-  "vcpe": "cpe:/:solokeys",
-  "pid": "50707",
-  "pname": "Somu ファームウェア",
-  "pcpe": "cpe:/o:solokeys:somu_firmware"
+	"vid": "20021",
+	"vname": "SoloKeys",
+	"vcpe": "cpe:/:solokeys",
+	"pid": "50707",
+	"pname": "Somu ファームウェア",
+	"pcpe": "cpe:/o:solokeys:somu_firmware"
 }

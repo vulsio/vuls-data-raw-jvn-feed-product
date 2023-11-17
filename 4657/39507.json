@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "39507",
-  "pname": "Honor Magic 2 ファームウェア",
-  "pcpe": "cpe:/o:huawei:honor_magic_2_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "39507",
+	"pname": "Honor Magic 2 ファームウェア",
+	"pcpe": "cpe:/o:huawei:honor_magic_2_firmware"
 }

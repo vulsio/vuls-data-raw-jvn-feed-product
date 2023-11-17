@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "43276",
-  "pname": "AWS JavaScript S3 Explorer",
-  "pcpe": "cpe:/a:amazon:aws_javascript_s3_explorer"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "43276",
+	"pname": "AWS JavaScript S3 Explorer",
+	"pcpe": "cpe:/a:amazon:aws_javascript_s3_explorer"
 }

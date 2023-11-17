@@ -1,8 +1,8 @@
 {
-  "vid": "3478",
-  "vname": "Elxis",
-  "vcpe": "cpe:/:elxis",
-  "pid": "7755",
-  "pname": "Elxis CMS",
-  "pcpe": "cpe:/a:elxis:elxis_cms"
+	"vid": "3478",
+	"vname": "Elxis",
+	"vcpe": "cpe:/:elxis",
+	"pid": "7755",
+	"pname": "Elxis CMS",
+	"pcpe": "cpe:/a:elxis:elxis_cms"
 }

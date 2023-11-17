@@ -1,8 +1,8 @@
 {
-  "vid": "13065",
-  "vname": "PHP-FPM",
-  "vcpe": "cpe:/:php-fpm",
-  "pid": "30424",
-  "pname": "PHP-FPM",
-  "pcpe": "cpe:/a:php-fpm:php-fpm"
+	"vid": "13065",
+	"vname": "PHP-FPM",
+	"vcpe": "cpe:/:php-fpm",
+	"pid": "30424",
+	"pname": "PHP-FPM",
+	"pcpe": "cpe:/a:php-fpm:php-fpm"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17359",
-  "vname": "theia-ide",
-  "vcpe": "cpe:/:theia_xml_extension_project",
-  "pid": "41319",
-  "pname": "Theia XML Extension",
-  "pcpe": "cpe:/a:theia_xml_extension_project:theia_xml_extension"
+	"vid": "17359",
+	"vname": "theia-ide",
+	"vcpe": "cpe:/:theia_xml_extension_project",
+	"pid": "41319",
+	"pname": "Theia XML Extension",
+	"pcpe": "cpe:/a:theia_xml_extension_project:theia_xml_extension"
 }

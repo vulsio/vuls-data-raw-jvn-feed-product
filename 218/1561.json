@@ -1,8 +1,8 @@
 {
-  "vid": "218",
-  "vname": "ヤマハ",
-  "vcpe": "cpe:/:yamaha",
-  "pid": "1561",
-  "pname": "RT58i",
-  "pcpe": "cpe:/o:yamaha:rt58i_firmware"
+	"vid": "218",
+	"vname": "ヤマハ",
+	"vcpe": "cpe:/:yamaha",
+	"pid": "1561",
+	"pname": "RT58i",
+	"pcpe": "cpe:/o:yamaha:rt58i_firmware"
 }

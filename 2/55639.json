@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "55639",
-  "pname": "Print 3D",
-  "pcpe": "cpe:/a:microsoft:print_3d"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "55639",
+	"pname": "Print 3D",
+	"pcpe": "cpe:/a:microsoft:print_3d"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "21524",
-  "pname": "EA4500",
-  "pcpe": "cpe:/h:linksys:ea4500"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "21524",
+	"pname": "EA4500",
+	"pcpe": "cpe:/h:linksys:ea4500"
 }

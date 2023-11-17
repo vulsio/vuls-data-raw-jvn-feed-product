@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "46892",
-  "pname": "WS7200-10 ファームウェア",
-  "pcpe": "cpe:/o:huawei:ws7200-10_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "46892",
+	"pname": "WS7200-10 ファームウェア",
+	"pcpe": "cpe:/o:huawei:ws7200-10_firmware"
 }

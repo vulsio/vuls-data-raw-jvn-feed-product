@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "36620",
-  "pname": "SUSE Enterprise Storage",
-  "pcpe": "cpe:/a:suse:suse_enterprise_storage"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "36620",
+	"pname": "SUSE Enterprise Storage",
+	"pcpe": "cpe:/a:suse:suse_enterprise_storage"
 }

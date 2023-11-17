@@ -1,8 +1,8 @@
 {
-  "vid": "81",
-  "vname": "Python Software Foundation",
-  "vcpe": "cpe:/:python",
-  "pid": "19452",
-  "pname": "RPLY",
-  "pcpe": "cpe:/a:python:rply"
+	"vid": "81",
+	"vname": "Python Software Foundation",
+	"vcpe": "cpe:/:python",
+	"pid": "19452",
+	"pname": "RPLY",
+	"pcpe": "cpe:/a:python:rply"
 }

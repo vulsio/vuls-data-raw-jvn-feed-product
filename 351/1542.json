@@ -1,8 +1,8 @@
 {
-  "vid": "351",
-  "vname": "センチュリー・システムズ",
-  "vcpe": "cpe:/:centurysys",
-  "pid": "1542",
-  "pname": "XR-410-L2",
-  "pcpe": "cpe:/h:centurysys:xr-410-l2"
+	"vid": "351",
+	"vname": "センチュリー・システムズ",
+	"vcpe": "cpe:/:centurysys",
+	"pid": "1542",
+	"pname": "XR-410-L2",
+	"pcpe": "cpe:/h:centurysys:xr-410-l2"
 }

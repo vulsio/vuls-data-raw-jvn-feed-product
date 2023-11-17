@@ -1,8 +1,8 @@
 {
-  "vid": "8866",
-  "vname": "360 Systems",
-  "vcpe": "cpe:/:360systems",
-  "pid": "16993",
-  "pname": "Image Server Maxx",
-  "pcpe": "cpe:/o:360systems:image_server_maxx"
+	"vid": "8866",
+	"vname": "360 Systems",
+	"vcpe": "cpe:/:360systems",
+	"pid": "16993",
+	"pname": "Image Server Maxx",
+	"pcpe": "cpe:/o:360systems:image_server_maxx"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "53831",
-  "pname": "WTR-M2133HP ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wtr-m2133hp_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "53831",
+	"pname": "WTR-M2133HP ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wtr-m2133hp_firmware"
 }

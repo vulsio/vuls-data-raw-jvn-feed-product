@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "28013",
-  "pname": "NWA3560-N",
-  "pcpe": "cpe:/h:zyxel:nwa3560-n"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "28013",
+	"pname": "NWA3560-N",
+	"pcpe": "cpe:/h:zyxel:nwa3560-n"
 }

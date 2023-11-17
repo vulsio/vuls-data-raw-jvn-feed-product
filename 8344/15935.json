@@ -1,8 +1,8 @@
 {
-  "vid": "8344",
-  "vname": "vm watermark",
-  "vcpe": "cpe:/:vm_watermark",
-  "pid": "15935",
-  "pname": "vm watermark",
-  "pcpe": "cpe:/a:vm_watermark:vm_watermark"
+	"vid": "8344",
+	"vname": "vm watermark",
+	"vcpe": "cpe:/:vm_watermark",
+	"pid": "15935",
+	"pname": "vm watermark",
+	"pcpe": "cpe:/a:vm_watermark:vm_watermark"
 }

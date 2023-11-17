@@ -1,8 +1,8 @@
 {
-  "vid": "8797",
-  "vname": "NetIQ",
-  "vcpe": "cpe:/:netiq",
-  "pid": "32813",
-  "pname": "Identity Manager",
-  "pcpe": "cpe:/a:netiq:identity_manager"
+	"vid": "8797",
+	"vname": "NetIQ",
+	"vcpe": "cpe:/:netiq",
+	"pid": "32813",
+	"pname": "Identity Manager",
+	"pcpe": "cpe:/a:netiq:identity_manager"
 }

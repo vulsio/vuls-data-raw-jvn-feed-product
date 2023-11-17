@@ -1,8 +1,8 @@
 {
-  "vid": "5637",
-  "vname": "マイクロフォーカス株式会社",
-  "vcpe": "cpe:/:microfocus",
-  "pid": "53295",
-  "pname": "NetIQ Directory and Resource Administrator",
-  "pcpe": "cpe:/a:microfocus:netiq_directory_and_resource_administrator"
+	"vid": "5637",
+	"vname": "マイクロフォーカス株式会社",
+	"vcpe": "cpe:/:microfocus",
+	"pid": "53295",
+	"pname": "NetIQ Directory and Resource Administrator",
+	"pcpe": "cpe:/a:microfocus:netiq_directory_and_resource_administrator"
 }

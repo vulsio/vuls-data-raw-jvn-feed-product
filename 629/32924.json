@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "32924",
-  "pname": "OnCell G3150-HSPA-T ファームウェア",
-  "pcpe": "cpe:/o:moxa:oncell_g3150-hspa-t_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "32924",
+	"pname": "OnCell G3150-HSPA-T ファームウェア",
+	"pcpe": "cpe:/o:moxa:oncell_g3150-hspa-t_firmware"
 }

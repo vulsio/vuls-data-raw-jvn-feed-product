@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "386",
-  "pname": "Ridoc Document Router",
-  "pcpe": "cpe:/a:ricoh:ridoc_document_router"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "386",
+	"pname": "Ridoc Document Router",
+	"pcpe": "cpe:/a:ricoh:ridoc_document_router"
 }

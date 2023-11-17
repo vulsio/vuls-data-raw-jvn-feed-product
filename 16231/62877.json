@@ -1,8 +1,8 @@
 {
-  "vid": "16231",
-  "vname": "Baxter",
-  "vcpe": "cpe:/:baxter",
-  "pid": "62877",
-  "pname": "sigma spectrum 35700bax ファームウェア",
-  "pcpe": "cpe:/o:baxter:sigma_spectrum_35700bax_firmware"
+	"vid": "16231",
+	"vname": "Baxter",
+	"vcpe": "cpe:/:baxter",
+	"pid": "62877",
+	"pname": "sigma spectrum 35700bax ファームウェア",
+	"pcpe": "cpe:/o:baxter:sigma_spectrum_35700bax_firmware"
 }

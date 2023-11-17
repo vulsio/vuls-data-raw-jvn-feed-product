@@ -1,8 +1,8 @@
 {
-  "vid": "396",
-  "vname": "SUSE",
-  "vcpe": "cpe:/:suse",
-  "pid": "51539",
-  "pname": "arpwatch",
-  "pcpe": "cpe:/a:suse:arpwatch"
+	"vid": "396",
+	"vname": "SUSE",
+	"vcpe": "cpe:/:suse",
+	"pid": "51539",
+	"pname": "arpwatch",
+	"pcpe": "cpe:/a:suse:arpwatch"
 }

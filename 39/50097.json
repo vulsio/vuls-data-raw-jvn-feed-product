@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "50097",
-  "pname": "Adobe Genuine Service",
-  "pcpe": "cpe:/a:adobe:genuine_service"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "50097",
+	"pname": "Adobe Genuine Service",
+	"pcpe": "cpe:/a:adobe:genuine_service"
 }

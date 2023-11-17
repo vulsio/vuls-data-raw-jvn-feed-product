@@ -1,8 +1,8 @@
 {
-  "vid": "6602",
-  "vname": "Open Source Classifieds",
-  "vcpe": "cpe:/:opensourceclassifieds",
-  "pid": "13251",
-  "pname": "Open Source Classifieds",
-  "pcpe": "cpe:/a:opensourceclassifieds:opensourceclassifieds"
+	"vid": "6602",
+	"vname": "Open Source Classifieds",
+	"vcpe": "cpe:/:opensourceclassifieds",
+	"pid": "13251",
+	"pname": "Open Source Classifieds",
+	"pcpe": "cpe:/a:opensourceclassifieds:opensourceclassifieds"
 }

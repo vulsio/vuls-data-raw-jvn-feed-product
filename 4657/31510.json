@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31510",
-  "pname": "Agassi-W09HN ファームウェア",
-  "pcpe": "cpe:/o:huawei:agassi-w09hn_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31510",
+	"pname": "Agassi-W09HN ファームウェア",
+	"pcpe": "cpe:/o:huawei:agassi-w09hn_firmware"
 }

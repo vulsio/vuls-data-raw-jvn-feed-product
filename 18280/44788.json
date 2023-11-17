@@ -1,8 +1,8 @@
 {
-  "vid": "18280",
-  "vname": "i-net software",
-  "vcpe": "cpe:/:inetsoftware",
-  "pid": "44788",
-  "pname": "Clear Reports",
-  "pcpe": "cpe:/a:inetsoftware:clear_reports"
+	"vid": "18280",
+	"vname": "i-net software",
+	"vcpe": "cpe:/:inetsoftware",
+	"pid": "44788",
+	"pname": "Clear Reports",
+	"pcpe": "cpe:/a:inetsoftware:clear_reports"
 }

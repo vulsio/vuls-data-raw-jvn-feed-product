@@ -1,8 +1,8 @@
 {
-  "vid": "5337",
-  "vname": "linuxwebshop",
-  "vcpe": "cpe:/:linuxwebshop",
-  "pid": "11020",
-  "pname": "php user base",
-  "pcpe": "cpe:/a:linuxwebshop:php_user_base"
+	"vid": "5337",
+	"vname": "linuxwebshop",
+	"vcpe": "cpe:/:linuxwebshop",
+	"pid": "11020",
+	"pname": "php user base",
+	"pcpe": "cpe:/a:linuxwebshop:php_user_base"
 }

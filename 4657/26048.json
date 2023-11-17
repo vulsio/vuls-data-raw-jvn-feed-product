@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26048",
-  "pname": "S5720EI ファームウェア",
-  "pcpe": "cpe:/o:huawei:s5720ei_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26048",
+	"pname": "S5720EI ファームウェア",
+	"pcpe": "cpe:/o:huawei:s5720ei_firmware"
 }

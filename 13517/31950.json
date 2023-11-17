@@ -1,8 +1,8 @@
 {
-  "vid": "13517",
-  "vname": "Hoermann",
-  "vcpe": "cpe:/:hoermann",
-  "pid": "31950",
-  "pname": "HSE1-868-BS ファームウェア",
-  "pcpe": "cpe:/o:hoermann:hse1-868-bs_firmware"
+	"vid": "13517",
+	"vname": "Hoermann",
+	"vcpe": "cpe:/:hoermann",
+	"pid": "31950",
+	"pname": "HSE1-868-BS ファームウェア",
+	"pcpe": "cpe:/o:hoermann:hse1-868-bs_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "11397",
-  "pname": "McAfee VirusScan Command Line",
-  "pcpe": "cpe:/a:mcafee:virusscan_commandline"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "11397",
+	"pname": "McAfee VirusScan Command Line",
+	"pcpe": "cpe:/a:mcafee:virusscan_commandline"
 }

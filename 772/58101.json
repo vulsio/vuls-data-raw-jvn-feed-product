@@ -1,8 +1,8 @@
 {
-  "vid": "772",
-  "vname": "OWASP",
-  "vcpe": "cpe:/:owasp",
-  "pid": "58101",
-  "pname": "zed attack proxy",
-  "pcpe": "cpe:/a:owasp:zed_attack_proxy"
+	"vid": "772",
+	"vname": "OWASP",
+	"vcpe": "cpe:/:owasp",
+	"pid": "58101",
+	"pname": "zed attack proxy",
+	"pcpe": "cpe:/a:owasp:zed_attack_proxy"
 }

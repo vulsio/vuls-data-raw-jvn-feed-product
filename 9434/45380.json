@@ -1,8 +1,8 @@
 {
-  "vid": "9434",
-  "vname": "GitLab.org",
-  "vcpe": "cpe:/:gitlab",
-  "pid": "45380",
-  "pname": "gitlab-vscode-extension",
-  "pcpe": "cpe:/a:gitlab:gitlab-vscode-extension"
+	"vid": "9434",
+	"vname": "GitLab.org",
+	"vcpe": "cpe:/:gitlab",
+	"pid": "45380",
+	"pname": "gitlab-vscode-extension",
+	"pcpe": "cpe:/a:gitlab:gitlab-vscode-extension"
 }

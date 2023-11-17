@@ -1,8 +1,8 @@
 {
-  "vid": "23487",
-  "vname": "parse-url project",
-  "vcpe": "cpe:/:parse-url_project",
-  "pid": "60876",
-  "pname": "parse-url",
-  "pcpe": "cpe:/a:parse-url_project:parse-url"
+	"vid": "23487",
+	"vname": "parse-url project",
+	"vcpe": "cpe:/:parse-url_project",
+	"pid": "60876",
+	"pname": "parse-url",
+	"pcpe": "cpe:/a:parse-url_project:parse-url"
 }

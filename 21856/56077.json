@@ -1,8 +1,8 @@
 {
-  "vid": "21856",
-  "vname": "Cloud Foundry, Inc.",
-  "vcpe": "cpe:/:cloudfoundry",
-  "pid": "56077",
-  "pname": "archiver",
-  "pcpe": "cpe:/a:cloudfoundry:archiver"
+	"vid": "21856",
+	"vname": "Cloud Foundry, Inc.",
+	"vcpe": "cpe:/:cloudfoundry",
+	"pid": "56077",
+	"pname": "archiver",
+	"pcpe": "cpe:/a:cloudfoundry:archiver"
 }

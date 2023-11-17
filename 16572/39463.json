@@ -1,8 +1,8 @@
 {
-  "vid": "16572",
-  "vname": "Cohesity",
-  "vcpe": "cpe:/:cohesity",
-  "pid": "39463",
-  "pname": "DataPlatform",
-  "pcpe": "cpe:/a:cohesity:dataplatform"
+	"vid": "16572",
+	"vname": "Cohesity",
+	"vcpe": "cpe:/:cohesity",
+	"pid": "39463",
+	"pname": "DataPlatform",
+	"pcpe": "cpe:/a:cohesity:dataplatform"
 }

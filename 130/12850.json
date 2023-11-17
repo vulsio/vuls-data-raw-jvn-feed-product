@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "12850",
-  "pname": "enterprise southbridge 2 bmc",
-  "pcpe": "cpe:/h:intel:enterprise_southbridge_2_bmc"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "12850",
+	"pname": "enterprise southbridge 2 bmc",
+	"pcpe": "cpe:/h:intel:enterprise_southbridge_2_bmc"
 }

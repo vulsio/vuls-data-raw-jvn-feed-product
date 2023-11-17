@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "161",
-  "pname": "Symantec Enterprise Firewall",
-  "pcpe": "cpe:/a:symantec:enterprise_firewall"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "161",
+	"pname": "Symantec Enterprise Firewall",
+	"pcpe": "cpe:/a:symantec:enterprise_firewall"
 }

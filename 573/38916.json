@@ -1,8 +1,8 @@
 {
-  "vid": "573",
-  "vname": "Foxit Software Inc",
-  "vcpe": "cpe:/:foxitsoftware",
-  "pid": "38916",
-  "pname": "Foxit Studio Photo",
-  "pcpe": "cpe:/a:foxitsoftware:foxit_studio_photo"
+	"vid": "573",
+	"vname": "Foxit Software Inc",
+	"vcpe": "cpe:/:foxitsoftware",
+	"pid": "38916",
+	"pname": "Foxit Studio Photo",
+	"pcpe": "cpe:/a:foxitsoftware:foxit_studio_photo"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9617",
-  "vname": "Festo",
-  "vcpe": "cpe:/:festo",
-  "pid": "19971",
-  "pname": "CECX-X-C1 Modular Master Controller",
-  "pcpe": "cpe:/h:festo:cecx-x-c1_modular_master_controller"
+	"vid": "9617",
+	"vname": "Festo",
+	"vcpe": "cpe:/:festo",
+	"pid": "19971",
+	"pname": "CECX-X-C1 Modular Master Controller",
+	"pcpe": "cpe:/h:festo:cecx-x-c1_modular_master_controller"
 }

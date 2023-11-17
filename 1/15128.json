@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "15128",
-  "pname": "java embedding plugin",
-  "pcpe": "cpe:/a:sun:java_embedding_plugin"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "15128",
+	"pname": "java embedding plugin",
+	"pcpe": "cpe:/a:sun:java_embedding_plugin"
 }

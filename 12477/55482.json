@@ -1,8 +1,8 @@
 {
-  "vid": "12477",
-  "vname": "QOS.ch",
-  "vcpe": "cpe:/:qos",
-  "pid": "55482",
-  "pname": "reload4j",
-  "pcpe": "cpe:/a:qos:reload4j"
+	"vid": "12477",
+	"vname": "QOS.ch",
+	"vcpe": "cpe:/:qos",
+	"pid": "55482",
+	"pname": "reload4j",
+	"pcpe": "cpe:/a:qos:reload4j"
 }

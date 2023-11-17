@@ -1,8 +1,8 @@
 {
-  "vid": "18960",
-  "vname": "KACO new energy",
-  "vcpe": "cpe:/:kaco-newenergy",
-  "pid": "47410",
-  "pname": "XP100U ファームウェア",
-  "pcpe": "cpe:/o:kaco-newenergy:xp100u_firmware"
+	"vid": "18960",
+	"vname": "KACO new energy",
+	"vcpe": "cpe:/:kaco-newenergy",
+	"pid": "47410",
+	"pname": "XP100U ファームウェア",
+	"pcpe": "cpe:/o:kaco-newenergy:xp100u_firmware"
 }

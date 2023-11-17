@@ -1,8 +1,8 @@
 {
-  "vid": "12616",
-  "vname": "OSRAM",
-  "vcpe": "cpe:/:osram",
-  "pid": "28776",
-  "pname": "LIGHTIFY Pro",
-  "pcpe": "cpe:/a:osram:lightify_pro"
+	"vid": "12616",
+	"vname": "OSRAM",
+	"vcpe": "cpe:/:osram",
+	"pid": "28776",
+	"pname": "LIGHTIFY Pro",
+	"pcpe": "cpe:/a:osram:lightify_pro"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "18172",
-  "pname": "H8DG6-F",
-  "pcpe": "cpe:/h:supermicro:h8dg6-f"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "18172",
+	"pname": "H8DG6-F",
+	"pcpe": "cpe:/h:supermicro:h8dg6-f"
 }

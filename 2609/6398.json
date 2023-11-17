@@ -1,8 +1,8 @@
 {
-  "vid": "2609",
-  "vname": "Borland Software Corporation",
-  "vcpe": "cpe:/:borland_software",
-  "pid": "6398",
-  "pname": "InterBase",
-  "pcpe": "cpe:/a:borland_software:interbase"
+	"vid": "2609",
+	"vname": "Borland Software Corporation",
+	"vcpe": "cpe:/:borland_software",
+	"pid": "6398",
+	"pname": "InterBase",
+	"pcpe": "cpe:/a:borland_software:interbase"
 }

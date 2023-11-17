@@ -1,8 +1,8 @@
 {
-  "vid": "20649",
-  "vname": "outsidesource",
-  "vcpe": "cpe:/:outsidesource",
-  "pid": "52571",
-  "pname": "OSD Subscribe",
-  "pcpe": "cpe:/a:outsidesource:osd_subscribe"
+	"vid": "20649",
+	"vname": "outsidesource",
+	"vcpe": "cpe:/:outsidesource",
+	"pid": "52571",
+	"pname": "OSD Subscribe",
+	"pcpe": "cpe:/a:outsidesource:osd_subscribe"
 }

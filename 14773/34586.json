@@ -1,8 +1,8 @@
 {
-  "vid": "14773",
-  "vname": "ltb-project",
-  "vcpe": "cpe:/:ltb-project",
-  "pid": "34586",
-  "pname": "LTB Self Service Password",
-  "pcpe": "cpe:/a:ltb-project:ldap_tool_box_self_service_password"
+	"vid": "14773",
+	"vname": "ltb-project",
+	"vcpe": "cpe:/:ltb-project",
+	"pid": "34586",
+	"pname": "LTB Self Service Password",
+	"pcpe": "cpe:/a:ltb-project:ldap_tool_box_self_service_password"
 }

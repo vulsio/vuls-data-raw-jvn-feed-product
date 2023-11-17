@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "27698",
-  "pname": "Oracle Advanced Outbound Telephony",
-  "pcpe": "cpe:/a:oracle:advanced_outbound_telephony"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "27698",
+	"pname": "Oracle Advanced Outbound Telephony",
+	"pcpe": "cpe:/a:oracle:advanced_outbound_telephony"
 }

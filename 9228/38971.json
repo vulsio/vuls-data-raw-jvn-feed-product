@@ -1,8 +1,8 @@
 {
-  "vid": "9228",
-  "vname": "Thomson Reuters",
-  "vcpe": "cpe:/:thomsonreuters",
-  "pid": "38971",
-  "pname": "Concourse Matter Room",
-  "pcpe": "cpe:/a:thomsonreuters:concourse_matter_room"
+	"vid": "9228",
+	"vname": "Thomson Reuters",
+	"vcpe": "cpe:/:thomsonreuters",
+	"pid": "38971",
+	"pname": "Concourse Matter Room",
+	"pcpe": "cpe:/a:thomsonreuters:concourse_matter_room"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15679",
-  "vname": "EthereumJS",
-  "vcpe": "cpe:/:ethereumjs",
-  "pid": "36479",
-  "pname": "ethereumjs-vm",
-  "pcpe": "cpe:/a:ethereumjs:ethereumjs-vm"
+	"vid": "15679",
+	"vname": "EthereumJS",
+	"vcpe": "cpe:/:ethereumjs",
+	"pid": "36479",
+	"pname": "ethereumjs-vm",
+	"pcpe": "cpe:/a:ethereumjs:ethereumjs-vm"
 }

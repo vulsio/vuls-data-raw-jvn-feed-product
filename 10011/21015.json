@@ -1,8 +1,8 @@
 {
-  "vid": "10011",
-  "vname": "Black Cat Development",
-  "vcpe": "cpe:/:blackcat-cms",
-  "pid": "21015",
-  "pname": "BlackCat CMS",
-  "pcpe": "cpe:/a:blackcat-cms:blackcat_cms"
+	"vid": "10011",
+	"vname": "Black Cat Development",
+	"vcpe": "cpe:/:blackcat-cms",
+	"pid": "21015",
+	"pname": "BlackCat CMS",
+	"pcpe": "cpe:/a:blackcat-cms:blackcat_cms"
 }

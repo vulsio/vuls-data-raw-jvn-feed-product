@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "58521",
-  "pname": "scalance w1788-2ia m12 ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_w1788-2ia_m12_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "58521",
+	"pname": "scalance w1788-2ia m12 ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_w1788-2ia_m12_firmware"
 }

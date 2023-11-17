@@ -1,8 +1,8 @@
 {
-  "vid": "21300",
-  "vname": "Git-it project",
-  "vcpe": "cpe:/:git-it_project",
-  "pid": "54679",
-  "pname": "Git-it",
-  "pcpe": "cpe:/a:git-it_project:git-it"
+	"vid": "21300",
+	"vname": "Git-it project",
+	"vcpe": "cpe:/:git-it_project",
+	"pid": "54679",
+	"pname": "Git-it",
+	"pcpe": "cpe:/a:git-it_project:git-it"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18005",
-  "vname": "ThemeREX",
-  "vcpe": "cpe:/:themerex",
-  "pid": "43701",
-  "pname": "Addons",
-  "pcpe": "cpe:/a:themerex:addons"
+	"vid": "18005",
+	"vname": "ThemeREX",
+	"vcpe": "cpe:/:themerex",
+	"pid": "43701",
+	"pname": "Addons",
+	"pcpe": "cpe:/a:themerex:addons"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "34599",
-  "pname": "UCS-E180D-M3 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ucs-e180d-m3_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "34599",
+	"pname": "UCS-E180D-M3 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ucs-e180d-m3_firmware"
 }

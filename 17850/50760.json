@@ -1,8 +1,8 @@
 {
-  "vid": "17850",
-  "vname": "SysJust",
-  "vcpe": "cpe:/:sysjust",
-  "pid": "50760",
-  "pname": "CTS Web",
-  "pcpe": "cpe:/a:sysjust:cts_web"
+	"vid": "17850",
+	"vname": "SysJust",
+	"vcpe": "cpe:/:sysjust",
+	"pid": "50760",
+	"pname": "CTS Web",
+	"pcpe": "cpe:/a:sysjust:cts_web"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11633",
-  "vname": "OPAC project",
-  "vcpe": "cpe:/:opac_project",
-  "pid": "23913",
-  "pname": "OPAC",
-  "pcpe": "cpe:/a:opac_project:opac"
+	"vid": "11633",
+	"vname": "OPAC project",
+	"vcpe": "cpe:/:opac_project",
+	"pid": "23913",
+	"pname": "OPAC",
+	"pcpe": "cpe:/a:opac_project:opac"
 }

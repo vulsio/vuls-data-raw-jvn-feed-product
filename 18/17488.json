@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17488",
-  "pname": "IBM Sterling Control Center",
-  "pcpe": "cpe:/a:ibm:sterling_control_center"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17488",
+	"pname": "IBM Sterling Control Center",
+	"pcpe": "cpe:/a:ibm:sterling_control_center"
 }

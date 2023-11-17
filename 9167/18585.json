@@ -1,8 +1,8 @@
 {
-  "vid": "9167",
-  "vname": "Kwoksys",
-  "vcpe": "cpe:/:kwoksys",
-  "pid": "18585",
-  "pname": "Kwok Information Server",
-  "pcpe": "cpe:/a:kwoksys:information_server"
+	"vid": "9167",
+	"vname": "Kwoksys",
+	"vcpe": "cpe:/:kwoksys",
+	"pid": "18585",
+	"pname": "Kwok Information Server",
+	"pcpe": "cpe:/a:kwoksys:information_server"
 }

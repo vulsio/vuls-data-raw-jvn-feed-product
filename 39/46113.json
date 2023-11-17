@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "46113",
-  "pname": "git-server",
-  "pcpe": "cpe:/a:adobe:git-server"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "46113",
+	"pname": "git-server",
+	"pcpe": "cpe:/a:adobe:git-server"
 }

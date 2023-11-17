@@ -1,8 +1,8 @@
 {
-  "vid": "15101",
-  "vname": "OSSCardToken project",
-  "vcpe": "cpe:/:osscardtoken_project",
-  "pid": "35040",
-  "pname": "OSSCardToken",
-  "pcpe": "cpe:/a:osscardtoken_project:osscardtoken"
+	"vid": "15101",
+	"vname": "OSSCardToken project",
+	"vcpe": "cpe:/:osscardtoken_project",
+	"pid": "35040",
+	"pname": "OSSCardToken",
+	"pcpe": "cpe:/a:osscardtoken_project:osscardtoken"
 }

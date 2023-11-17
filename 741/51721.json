@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "51721",
-  "pname": "DIR-3040 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dir-3040_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "51721",
+	"pname": "DIR-3040 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dir-3040_firmware"
 }

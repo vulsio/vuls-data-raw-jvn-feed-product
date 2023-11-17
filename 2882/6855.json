@@ -1,8 +1,8 @@
 {
-  "vid": "2882",
-  "vname": "cmsnx",
-  "vcpe": "cpe:/:cmsnx",
-  "pid": "6855",
-  "pname": "automated link exchange portal",
-  "pcpe": "cpe:/a:cmsnx:automated_link_exchange_portal"
+	"vid": "2882",
+	"vname": "cmsnx",
+	"vcpe": "cpe:/:cmsnx",
+	"pid": "6855",
+	"pname": "automated link exchange portal",
+	"pcpe": "cpe:/a:cmsnx:automated_link_exchange_portal"
 }

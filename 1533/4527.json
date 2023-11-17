@@ -1,8 +1,8 @@
 {
-  "vid": "1533",
-  "vname": "JanRain",
-  "vcpe": "cpe:/:janrain",
-  "pid": "4527",
-  "pname": "PHP OpenID",
-  "pcpe": "cpe:/a:janrain:php-openid"
+	"vid": "1533",
+	"vname": "JanRain",
+	"vcpe": "cpe:/:janrain",
+	"pid": "4527",
+	"pname": "PHP OpenID",
+	"pcpe": "cpe:/a:janrain:php-openid"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "45008",
-  "pname": "Play Framework",
-  "pcpe": "cpe:/a:jenkins:play_framework"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "45008",
+	"pname": "Play Framework",
+	"pcpe": "cpe:/a:jenkins:play_framework"
 }

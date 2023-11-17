@@ -1,8 +1,8 @@
 {
-  "vid": "648",
-  "vname": "Proofpoint, Inc.",
-  "vcpe": "cpe:/:proofpoint",
-  "pid": "2774",
-  "pname": "Proofpoint Protection Server",
-  "pcpe": "cpe:/a:proofpoint:protection_server"
+	"vid": "648",
+	"vname": "Proofpoint, Inc.",
+	"vcpe": "cpe:/:proofpoint",
+	"pid": "2774",
+	"pname": "Proofpoint Protection Server",
+	"pcpe": "cpe:/a:proofpoint:protection_server"
 }

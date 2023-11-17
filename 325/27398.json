@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27398",
-  "pname": "ThinkPad Helix 20CH",
-  "pcpe": "cpe:/h:lenovo:thinkpad_helix_20ch"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27398",
+	"pname": "ThinkPad Helix 20CH",
+	"pcpe": "cpe:/h:lenovo:thinkpad_helix_20ch"
 }

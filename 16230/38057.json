@@ -1,8 +1,8 @@
 {
-  "vid": "16230",
-  "vname": "KubeVirt",
-  "vcpe": "cpe:/:kubevirt",
-  "pid": "38057",
-  "pname": "Containerized Data Importer",
-  "pcpe": "cpe:/a:kubevirt:containerized_data_importer"
+	"vid": "16230",
+	"vname": "KubeVirt",
+	"vcpe": "cpe:/:kubevirt",
+	"pid": "38057",
+	"pname": "Containerized Data Importer",
+	"pcpe": "cpe:/a:kubevirt:containerized_data_importer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "16941",
-  "pname": "IBM Data Studio",
-  "pcpe": "cpe:/a:ibm:data_studio"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "16941",
+	"pname": "IBM Data Studio",
+	"pcpe": "cpe:/a:ibm:data_studio"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "23343",
-  "pname": "MultiLink ML800 ファームウェア",
-  "pcpe": "cpe:/o:ge:multilink_ml800_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "23343",
+	"pname": "MultiLink ML800 ファームウェア",
+	"pcpe": "cpe:/o:ge:multilink_ml800_firmware"
 }

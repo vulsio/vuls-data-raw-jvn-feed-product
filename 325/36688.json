@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "36688",
-  "pname": "320-17IKBRN",
-  "pcpe": "cpe:/h:lenovo:320-17ikbrn"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "36688",
+	"pname": "320-17IKBRN",
+	"pcpe": "cpe:/h:lenovo:320-17ikbrn"
 }

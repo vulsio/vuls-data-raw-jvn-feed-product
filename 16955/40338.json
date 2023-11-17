@@ -1,8 +1,8 @@
 {
-  "vid": "16955",
-  "vname": "Shapepress",
-  "vcpe": "cpe:/:shapepress",
-  "pid": "40338",
-  "pname": "WP DSGVO Tools (GDPR)",
-  "pcpe": "cpe:/a:shapepress:wp_dsgvo_tools"
+	"vid": "16955",
+	"vname": "Shapepress",
+	"vcpe": "cpe:/:shapepress",
+	"pid": "40338",
+	"pname": "WP DSGVO Tools (GDPR)",
+	"pcpe": "cpe:/a:shapepress:wp_dsgvo_tools"
 }

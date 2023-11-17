@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2043",
-  "pname": "Oracle Secure Backup",
-  "pcpe": "cpe:/a:oracle:secure_backup"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2043",
+	"pname": "Oracle Secure Backup",
+	"pcpe": "cpe:/a:oracle:secure_backup"
 }

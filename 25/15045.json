@@ -1,8 +1,8 @@
 {
-  "vid": "25",
-  "vname": "SSH コミュニケーションズ・セキュリティ",
-  "vcpe": "cpe:/:ssh",
-  "pid": "15045",
-  "pname": "tectia client server connector",
-  "pcpe": "cpe:/a:ssh:tectia_client_server_connector"
+	"vid": "25",
+	"vname": "SSH コミュニケーションズ・セキュリティ",
+	"vcpe": "cpe:/:ssh",
+	"pid": "15045",
+	"pname": "tectia client server connector",
+	"pcpe": "cpe:/a:ssh:tectia_client_server_connector"
 }

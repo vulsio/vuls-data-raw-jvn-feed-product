@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "1702",
-  "pname": "Cisco Secure Access Control Server Solution Engine",
-  "pcpe": "cpe:/a:cisco:acs_solution_engine"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "1702",
+	"pname": "Cisco Secure Access Control Server Solution Engine",
+	"pcpe": "cpe:/a:cisco:acs_solution_engine"
 }

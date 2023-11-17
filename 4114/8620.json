@@ -1,8 +1,8 @@
 {
-  "vid": "4114",
-  "vname": "nctsoft products",
-  "vcpe": "cpe:/:nctsoft_products",
-  "pid": "8620",
-  "pname": "nctaudiofile2",
-  "pcpe": "cpe:/a:nctsoft_products:nctaudiofile2"
+	"vid": "4114",
+	"vname": "nctsoft products",
+	"vcpe": "cpe:/:nctsoft_products",
+	"pid": "8620",
+	"pname": "nctaudiofile2",
+	"pcpe": "cpe:/a:nctsoft_products:nctaudiofile2"
 }

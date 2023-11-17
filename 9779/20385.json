@@ -1,8 +1,8 @@
 {
-  "vid": "9779",
-  "vname": "SQL Buddy",
-  "vcpe": "cpe:/:sqlbuddy",
-  "pid": "20385",
-  "pname": "SQL Buddy",
-  "pcpe": "cpe:/a:sqlbuddy:sql_buddy"
+	"vid": "9779",
+	"vname": "SQL Buddy",
+	"vcpe": "cpe:/:sqlbuddy",
+	"pid": "20385",
+	"pname": "SQL Buddy",
+	"pcpe": "cpe:/a:sqlbuddy:sql_buddy"
 }

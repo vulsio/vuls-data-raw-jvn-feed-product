@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "26969",
-  "pname": "python-muranoclient",
-  "pcpe": "cpe:/a:openstack:python-muranoclient"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "26969",
+	"pname": "python-muranoclient",
+	"pcpe": "cpe:/a:openstack:python-muranoclient"
 }

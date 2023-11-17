@@ -1,8 +1,8 @@
 {
-  "vid": "16403",
-  "vname": "Blue Prism",
-  "vcpe": "cpe:/:blueprism",
-  "pid": "38839",
-  "pname": "Robotic Process Automation",
-  "pcpe": "cpe:/a:blueprism:robotic_process_automation"
+	"vid": "16403",
+	"vname": "Blue Prism",
+	"vcpe": "cpe:/:blueprism",
+	"pid": "38839",
+	"pname": "Robotic Process Automation",
+	"pcpe": "cpe:/a:blueprism:robotic_process_automation"
 }

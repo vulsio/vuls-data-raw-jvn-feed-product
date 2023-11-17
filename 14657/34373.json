@@ -1,8 +1,8 @@
 {
-  "vid": "14657",
-  "vname": "general-file-server project",
-  "vcpe": "cpe:/:general-file-server_project",
-  "pid": "34373",
-  "pname": "general-file-server",
-  "pcpe": "cpe:/a:general-file-server_project:general-file-server"
+	"vid": "14657",
+	"vname": "general-file-server project",
+	"vcpe": "cpe:/:general-file-server_project",
+	"pid": "34373",
+	"pname": "general-file-server",
+	"pcpe": "cpe:/a:general-file-server_project:general-file-server"
 }

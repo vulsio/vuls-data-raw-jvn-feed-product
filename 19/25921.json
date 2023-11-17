@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "25921",
-  "pname": "Cisco Evolved Programmable Network Manager",
-  "pcpe": "cpe:/a:cisco:evolved_programmable_network_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "25921",
+	"pname": "Cisco Evolved Programmable Network Manager",
+	"pcpe": "cpe:/a:cisco:evolved_programmable_network_manager"
 }

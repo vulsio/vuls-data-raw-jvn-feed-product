@@ -1,8 +1,8 @@
 {
-  "vid": "19201",
-  "vname": "株式会社ジェイテクト",
-  "vcpe": "cpe:/:jtekt",
-  "pid": "49054",
-  "pname": "EF10 TCU-6982 ファームウェア",
-  "pcpe": "cpe:/o:jtekt:ef10_tcu-6982_firmware"
+	"vid": "19201",
+	"vname": "株式会社ジェイテクト",
+	"vcpe": "cpe:/:jtekt",
+	"pid": "49054",
+	"pname": "EF10 TCU-6982 ファームウェア",
+	"pcpe": "cpe:/o:jtekt:ef10_tcu-6982_firmware"
 }

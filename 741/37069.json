@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "37069",
-  "pname": "DWR-912 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dwr-912_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "37069",
+	"pname": "DWR-912 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dwr-912_firmware"
 }

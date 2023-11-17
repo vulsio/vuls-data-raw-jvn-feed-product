@@ -1,8 +1,8 @@
 {
-  "vid": "9880",
-  "vname": "Docker",
-  "vcpe": "cpe:/:docker",
-  "pid": "58186",
-  "pname": "docker desktop",
-  "pcpe": "cpe:/a:docker:docker_desktop"
+	"vid": "9880",
+	"vname": "Docker",
+	"vcpe": "cpe:/:docker",
+	"pid": "58186",
+	"pname": "docker desktop",
+	"pcpe": "cpe:/a:docker:docker_desktop"
 }

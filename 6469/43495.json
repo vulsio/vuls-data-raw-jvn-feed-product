@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "43495",
-  "pname": "ILC 2050 BI ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:ilc_2050_bi_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "43495",
+	"pname": "ILC 2050 BI ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:ilc_2050_bi_firmware"
 }

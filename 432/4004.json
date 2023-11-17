@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "4004",
-  "pname": "PC SDK",
-  "pcpe": "cpe:/a:abb:pc_sdk"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "4004",
+	"pname": "PC SDK",
+	"pcpe": "cpe:/a:abb:pc_sdk"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13274",
-  "vname": "ASP Source Community",
-  "vcpe": "cpe:/:aspsource",
-  "pid": "31042",
-  "pname": "Simple ASC Content Management System",
-  "pcpe": "cpe:/a:aspsource:simple_asc_content_management_system"
+	"vid": "13274",
+	"vname": "ASP Source Community",
+	"vcpe": "cpe:/:aspsource",
+	"pid": "31042",
+	"pname": "Simple ASC Content Management System",
+	"pcpe": "cpe:/a:aspsource:simple_asc_content_management_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "25782",
-  "pname": "ioLogik ファームウェア",
-  "pcpe": "cpe:/o:moxa:iologik_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "25782",
+	"pname": "ioLogik ファームウェア",
+	"pcpe": "cpe:/o:moxa:iologik_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "52964",
-  "pname": "Dell EMC Data Protection Advisor",
-  "pcpe": "cpe:/a:dell:emc_data_protection_advisor"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "52964",
+	"pname": "Dell EMC Data Protection Advisor",
+	"pcpe": "cpe:/a:dell:emc_data_protection_advisor"
 }

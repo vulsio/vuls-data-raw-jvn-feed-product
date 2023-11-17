@@ -1,8 +1,8 @@
 {
-  "vid": "17472",
-  "vname": "udisks project",
-  "vcpe": "cpe:/:udisks_project",
-  "pid": "41660",
-  "pname": "udisks",
-  "pcpe": "cpe:/a:udisks_project:udisks"
+	"vid": "17472",
+	"vname": "udisks project",
+	"vcpe": "cpe:/:udisks_project",
+	"pid": "41660",
+	"pname": "udisks",
+	"pcpe": "cpe:/a:udisks_project:udisks"
 }

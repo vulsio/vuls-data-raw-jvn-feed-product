@@ -1,8 +1,8 @@
 {
-  "vid": "10920",
-  "vname": "Swiftkey",
-  "vcpe": "cpe:/:swiftkey",
-  "pid": "24351",
-  "pname": "Swiftkey SDK",
-  "pcpe": "cpe:/a:swiftkey:swiftkey_sdk"
+	"vid": "10920",
+	"vname": "Swiftkey",
+	"vcpe": "cpe:/:swiftkey",
+	"pid": "24351",
+	"pname": "Swiftkey SDK",
+	"pcpe": "cpe:/a:swiftkey:swiftkey_sdk"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8962",
-  "vname": "ワイモバイル株式会社",
-  "vcpe": "cpe:/:willcom-inc",
-  "pid": "23642",
-  "pname": "Android スマートフォン",
-  "pcpe": "cpe:/h:willcom-inc:android_smartphone"
+	"vid": "8962",
+	"vname": "ワイモバイル株式会社",
+	"vcpe": "cpe:/:willcom-inc",
+	"pid": "23642",
+	"pname": "Android スマートフォン",
+	"pcpe": "cpe:/h:willcom-inc:android_smartphone"
 }

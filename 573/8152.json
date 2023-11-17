@@ -1,8 +1,8 @@
 {
-  "vid": "573",
-  "vname": "Foxit Software Inc",
-  "vcpe": "cpe:/:foxitsoftware",
-  "pid": "8152",
-  "pname": "jpeg2000 jbig2 decoder add-on",
-  "pcpe": "cpe:/a:foxitsoftware:jpeg2000_jbig2_decoder_add-on"
+	"vid": "573",
+	"vname": "Foxit Software Inc",
+	"vcpe": "cpe:/:foxitsoftware",
+	"pid": "8152",
+	"pname": "jpeg2000 jbig2 decoder add-on",
+	"pcpe": "cpe:/a:foxitsoftware:jpeg2000_jbig2_decoder_add-on"
 }

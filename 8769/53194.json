@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "53194",
-  "pname": "Image2PDF",
-  "pcpe": "cpe:/a:qnap:image2pdf"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "53194",
+	"pname": "Image2PDF",
+	"pcpe": "cpe:/a:qnap:image2pdf"
 }

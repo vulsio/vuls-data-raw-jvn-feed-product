@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63399",
-  "pname": "HP Jet Fusion",
-  "pcpe": "cpe:/a:hp:fusion"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63399",
+	"pname": "HP Jet Fusion",
+	"pcpe": "cpe:/a:hp:fusion"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "54057",
-  "pname": "Oracle BI Publisher",
-  "pcpe": "cpe:/a:oracle:bi_publisher"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "54057",
+	"pname": "Oracle BI Publisher",
+	"pcpe": "cpe:/a:oracle:bi_publisher"
 }

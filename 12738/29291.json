@@ -1,8 +1,8 @@
 {
-  "vid": "12738",
-  "vname": "pngquant",
-  "vcpe": "cpe:/:pngquant",
-  "pid": "29291",
-  "pname": "pngquant",
-  "pcpe": "cpe:/a:pngquant:pngquant"
+	"vid": "12738",
+	"vname": "pngquant",
+	"vcpe": "cpe:/:pngquant",
+	"pid": "29291",
+	"pname": "pngquant",
+	"pcpe": "cpe:/a:pngquant:pngquant"
 }

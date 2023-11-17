@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "26939",
-  "pname": "ThinkCentre M6600",
-  "pcpe": "cpe:/h:lenovo:thinkcentre_m6600"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "26939",
+	"pname": "ThinkCentre M6600",
+	"pcpe": "cpe:/h:lenovo:thinkcentre_m6600"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3514",
-  "vname": "Enterasys Networks",
-  "vcpe": "cpe:/:enterasys",
-  "pid": "7813",
-  "pname": "netsight inventory manager",
-  "pcpe": "cpe:/a:enterasys:netsight_inventory_manager"
+	"vid": "3514",
+	"vname": "Enterasys Networks",
+	"vcpe": "cpe:/:enterasys",
+	"pid": "7813",
+	"pname": "netsight inventory manager",
+	"pcpe": "cpe:/a:enterasys:netsight_inventory_manager"
 }

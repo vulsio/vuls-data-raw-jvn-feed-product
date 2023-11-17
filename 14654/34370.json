@@ -1,8 +1,8 @@
 {
-  "vid": "14654",
-  "vname": "request project",
-  "vcpe": "cpe:/:request_project",
-  "pid": "34370",
-  "pname": "request",
-  "pcpe": "cpe:/a:request_project:request"
+	"vid": "14654",
+	"vname": "request project",
+	"vcpe": "cpe:/:request_project",
+	"pid": "34370",
+	"pname": "request",
+	"pcpe": "cpe:/a:request_project:request"
 }

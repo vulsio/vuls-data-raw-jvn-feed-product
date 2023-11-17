@@ -1,8 +1,8 @@
 {
-  "vid": "12876",
-  "vname": "WinDjView project",
-  "vcpe": "cpe:/:windjview_project",
-  "pid": "29709",
-  "pname": "WinDjView",
-  "pcpe": "cpe:/a:windjview_project:windjview"
+	"vid": "12876",
+	"vname": "WinDjView project",
+	"vcpe": "cpe:/:windjview_project",
+	"pid": "29709",
+	"pname": "WinDjView",
+	"pcpe": "cpe:/a:windjview_project:windjview"
 }

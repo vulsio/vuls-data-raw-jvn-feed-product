@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "11503",
-  "pname": "class package export tool",
-  "pcpe": "cpe:/a:microsoft:class_package_export_tool"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "11503",
+	"pname": "class package export tool",
+	"pcpe": "cpe:/a:microsoft:class_package_export_tool"
 }

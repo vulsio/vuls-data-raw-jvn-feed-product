@@ -1,8 +1,8 @@
 {
-  "vid": "14224",
-  "vname": "spunjs",
-  "vcpe": "cpe:/:spunjs",
-  "pid": "33881",
-  "pname": "selenium-binaries",
-  "pcpe": "cpe:/a:spunjs:selenium-binaries"
+	"vid": "14224",
+	"vname": "spunjs",
+	"vcpe": "cpe:/:spunjs",
+	"pid": "33881",
+	"pname": "selenium-binaries",
+	"pcpe": "cpe:/a:spunjs:selenium-binaries"
 }

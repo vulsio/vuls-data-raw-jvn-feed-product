@@ -1,8 +1,8 @@
 {
-  "vid": "719",
-  "vname": "HTC Corporation",
-  "vcpe": "cpe:/:htc",
-  "pid": "5121",
-  "pname": "HTC EVO View 4G ソフトウェア",
-  "pcpe": "cpe:/a:htc:evo_view_4g_software"
+	"vid": "719",
+	"vname": "HTC Corporation",
+	"vcpe": "cpe:/:htc",
+	"pid": "5121",
+	"pname": "HTC EVO View 4G ソフトウェア",
+	"pcpe": "cpe:/a:htc:evo_view_4g_software"
 }

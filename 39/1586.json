@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "1586",
-  "pname": "Adobe Presenter",
-  "pcpe": "cpe:/a:adobe:presenter"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "1586",
+	"pname": "Adobe Presenter",
+	"pcpe": "cpe:/a:adobe:presenter"
 }

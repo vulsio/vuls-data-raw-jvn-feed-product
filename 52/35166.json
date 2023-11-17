@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "35166",
-  "pname": "macOS Mojave",
-  "pcpe": "cpe:/o:apple:mac_os_mojave"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "35166",
+	"pname": "macOS Mojave",
+	"pcpe": "cpe:/o:apple:mac_os_mojave"
 }

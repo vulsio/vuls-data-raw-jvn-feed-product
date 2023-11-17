@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "55551",
-  "pname": "Kolla",
-  "pcpe": "cpe:/a:openstack:kolla"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "55551",
+	"pname": "Kolla",
+	"pcpe": "cpe:/a:openstack:kolla"
 }

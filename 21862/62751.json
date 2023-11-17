@@ -1,8 +1,8 @@
 {
-  "vid": "21862",
-  "vname": "FIT2CLOUD",
-  "vcpe": "cpe:/:fit2cloud",
-  "pid": "62751",
-  "pname": "jumpserver",
-  "pcpe": "cpe:/a:fit2cloud:jumpserver"
+	"vid": "21862",
+	"vname": "FIT2CLOUD",
+	"vcpe": "cpe:/:fit2cloud",
+	"pid": "62751",
+	"pname": "jumpserver",
+	"pcpe": "cpe:/a:fit2cloud:jumpserver"
 }

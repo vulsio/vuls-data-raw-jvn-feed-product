@@ -1,8 +1,8 @@
 {
-  "vid": "2010",
-  "vname": "activecampaign",
-  "vcpe": "cpe:/:activecampaign",
-  "pid": "56804",
-  "pname": "ActiveCampaign for WooCommerce",
-  "pcpe": "cpe:/a:activecampaign:activecampaign_for_woocommerce"
+	"vid": "2010",
+	"vname": "activecampaign",
+	"vcpe": "cpe:/:activecampaign",
+	"pid": "56804",
+	"pname": "ActiveCampaign for WooCommerce",
+	"pcpe": "cpe:/a:activecampaign:activecampaign_for_woocommerce"
 }

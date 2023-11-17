@@ -1,8 +1,8 @@
 {
-  "vid": "18219",
-  "vname": "Beaker Browser",
-  "vcpe": "cpe:/:beakerbrowser",
-  "pid": "44585",
-  "pname": "Beaker",
-  "pcpe": "cpe:/a:beakerbrowser:beaker"
+	"vid": "18219",
+	"vname": "Beaker Browser",
+	"vcpe": "cpe:/:beakerbrowser",
+	"pid": "44585",
+	"pname": "Beaker",
+	"pcpe": "cpe:/a:beakerbrowser:beaker"
 }

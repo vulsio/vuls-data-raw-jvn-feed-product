@@ -1,8 +1,8 @@
 {
-  "vid": "2797",
-  "vname": "chilkat software",
-  "vcpe": "cpe:/:chilkat_software",
-  "pid": "6688",
-  "pname": "chilkat crypt activex control",
-  "pcpe": "cpe:/a:chilkat_software:chilkat_crypt_activex_control"
+	"vid": "2797",
+	"vname": "chilkat software",
+	"vcpe": "cpe:/:chilkat_software",
+	"pid": "6688",
+	"pname": "chilkat crypt activex control",
+	"pcpe": "cpe:/a:chilkat_software:chilkat_crypt_activex_control"
 }

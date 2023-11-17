@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "38691",
-  "pname": "Galaxy S10 ファームウェア",
-  "pcpe": "cpe:/o:samsung:s10_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "38691",
+	"pname": "Galaxy S10 ファームウェア",
+	"pcpe": "cpe:/o:samsung:s10_firmware"
 }

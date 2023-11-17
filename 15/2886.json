@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2886",
-  "pname": "Oracle Solaris Cluster",
-  "pcpe": "cpe:/a:oracle:solaris_cluster"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2886",
+	"pname": "Oracle Solaris Cluster",
+	"pcpe": "cpe:/a:oracle:solaris_cluster"
 }

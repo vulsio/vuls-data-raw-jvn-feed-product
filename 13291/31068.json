@@ -1,8 +1,8 @@
 {
-  "vid": "13291",
-  "vname": "Pallets project",
-  "vcpe": "cpe:/:palletsprojects",
-  "pid": "31068",
-  "pname": "Werkzeug",
-  "pcpe": "cpe:/a:palletsprojects:werkzeug"
+	"vid": "13291",
+	"vname": "Pallets project",
+	"vcpe": "cpe:/:palletsprojects",
+	"pid": "31068",
+	"pname": "Werkzeug",
+	"pcpe": "cpe:/a:palletsprojects:werkzeug"
 }

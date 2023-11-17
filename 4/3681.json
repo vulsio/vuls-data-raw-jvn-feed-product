@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3681",
-  "pname": "HP Easy Printer Care",
-  "pcpe": "cpe:/a:hp:easy_printer_care_software"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3681",
+	"pname": "HP Easy Printer Care",
+	"pcpe": "cpe:/a:hp:easy_printer_care_software"
 }

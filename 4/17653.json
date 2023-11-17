@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17653",
-  "pname": "HP t610 Flexible Thin Client",
-  "pcpe": "cpe:/h:hp:t610_flexible_thin_client"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17653",
+	"pname": "HP t610 Flexible Thin Client",
+	"pcpe": "cpe:/h:hp:t610_flexible_thin_client"
 }

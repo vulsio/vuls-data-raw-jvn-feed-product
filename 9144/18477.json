@@ -1,8 +1,8 @@
 {
-  "vid": "9144",
-  "vname": "RubyGems",
-  "vcpe": "cpe:/:rubygems",
-  "pid": "18477",
-  "pname": "RubyGems",
-  "pcpe": "cpe:/a:rubygems:rubygems"
+	"vid": "9144",
+	"vname": "RubyGems",
+	"vcpe": "cpe:/:rubygems",
+	"pid": "18477",
+	"pname": "RubyGems",
+	"pcpe": "cpe:/a:rubygems:rubygems"
 }

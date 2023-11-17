@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "13036",
-  "pname": "RSA SecurID Authentication Agent",
-  "pcpe": "cpe:/a:emc:rsa_authentication_agent"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "13036",
+	"pname": "RSA SecurID Authentication Agent",
+	"pcpe": "cpe:/a:emc:rsa_authentication_agent"
 }

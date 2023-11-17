@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "36626",
-  "pname": "Dell Encryption Enterprise",
-  "pcpe": "cpe:/a:dell:encryption"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "36626",
+	"pname": "Dell Encryption Enterprise",
+	"pcpe": "cpe:/a:dell:encryption"
 }

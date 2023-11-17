@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2081",
-  "pname": "Session Border Controller",
-  "pcpe": "cpe:/a:cisco:session_border_controller"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2081",
+	"pname": "Session Border Controller",
+	"pcpe": "cpe:/a:cisco:session_border_controller"
 }

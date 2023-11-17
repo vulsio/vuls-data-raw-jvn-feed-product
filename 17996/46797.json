@@ -1,8 +1,8 @@
 {
-  "vid": "17996",
-  "vname": "rubetek",
-  "vcpe": "cpe:/:rubetek",
-  "pid": "46797",
-  "pname": "RV-3406 ファームウェア",
-  "pcpe": "cpe:/o:rubetek:rv-3406_firmware"
+	"vid": "17996",
+	"vname": "rubetek",
+	"vcpe": "cpe:/:rubetek",
+	"pid": "46797",
+	"pname": "RV-3406 ファームウェア",
+	"pcpe": "cpe:/o:rubetek:rv-3406_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20609",
-  "vname": "Compro Technology",
-  "vcpe": "cpe:/:comprotech",
-  "pid": "52488",
-  "pname": "ip60 ファームウェア",
-  "pcpe": "cpe:/o:comprotech:ip60_firmware"
+	"vid": "20609",
+	"vname": "Compro Technology",
+	"vcpe": "cpe:/:comprotech",
+	"pid": "52488",
+	"pname": "ip60 ファームウェア",
+	"pcpe": "cpe:/o:comprotech:ip60_firmware"
 }

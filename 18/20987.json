@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20987",
-  "pname": "IBM UrbanCode Deploy",
-  "pcpe": "cpe:/a:ibm:urbancode_deploy"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20987",
+	"pname": "IBM UrbanCode Deploy",
+	"pcpe": "cpe:/a:ibm:urbancode_deploy"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "56368",
-  "pname": "SYSMAC NX1P シリーズ CPU ユニット",
-  "pcpe": "cpe:/o:omron:sysmac_nx1p_series_cpu_unit"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "56368",
+	"pname": "SYSMAC NX1P シリーズ CPU ユニット",
+	"pcpe": "cpe:/o:omron:sysmac_nx1p_series_cpu_unit"
 }

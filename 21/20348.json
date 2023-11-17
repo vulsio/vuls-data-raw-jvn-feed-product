@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "20348",
-  "pname": "NetScreen 5400",
-  "pcpe": "cpe:/h:juniper:netscreen-5400"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "20348",
+	"pname": "NetScreen 5400",
+	"pcpe": "cpe:/h:juniper:netscreen-5400"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5635",
-  "vname": "microchip",
-  "vcpe": "cpe:/:microchip",
-  "pid": "41421",
-  "pname": "Toolbox",
-  "pcpe": "cpe:/a:microchip:toolbox"
+	"vid": "5635",
+	"vname": "microchip",
+	"vcpe": "cpe:/:microchip",
+	"pid": "41421",
+	"pname": "Toolbox",
+	"pcpe": "cpe:/a:microchip:toolbox"
 }

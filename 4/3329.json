@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3329",
-  "pname": "HP LaserJet Enterprise P3015",
-  "pcpe": "cpe:/h:hp:laserjet_enterprise_p3015"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3329",
+	"pname": "HP LaserJet Enterprise P3015",
+	"pcpe": "cpe:/h:hp:laserjet_enterprise_p3015"
 }

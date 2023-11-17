@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24472",
-  "pname": "Cisco Application Policy Infrastructure Controller (APIC) ソフトウェア",
-  "pcpe": "cpe:/o:cisco:application_policy_infrastructure_controller_%28apic%29"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24472",
+	"pname": "Cisco Application Policy Infrastructure Controller (APIC) ソフトウェア",
+	"pcpe": "cpe:/o:cisco:application_policy_infrastructure_controller_%28apic%29"
 }

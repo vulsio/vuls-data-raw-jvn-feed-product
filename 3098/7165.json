@@ -1,8 +1,8 @@
 {
-  "vid": "3098",
-  "vname": "datafeedfile",
-  "vcpe": "cpe:/:datafeedfile",
-  "pid": "7165",
-  "pname": "dff framework api",
-  "pcpe": "cpe:/a:datafeedfile:dff_framework_api"
+	"vid": "3098",
+	"vname": "datafeedfile",
+	"vcpe": "cpe:/:datafeedfile",
+	"pid": "7165",
+	"pname": "dff framework api",
+	"pcpe": "cpe:/a:datafeedfile:dff_framework_api"
 }

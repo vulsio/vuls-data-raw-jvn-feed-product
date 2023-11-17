@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "60056",
-  "pname": "e-design",
-  "pcpe": "cpe:/a:abb:e-design"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "60056",
+	"pname": "e-design",
+	"pcpe": "cpe:/a:abb:e-design"
 }

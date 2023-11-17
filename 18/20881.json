@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20881",
-  "pname": "IBM Power 720",
-  "pcpe": "cpe:/h:ibm:power_720"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20881",
+	"pname": "IBM Power 720",
+	"pcpe": "cpe:/h:ibm:power_720"
 }

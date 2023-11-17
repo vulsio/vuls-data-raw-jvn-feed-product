@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "37593",
-  "pname": "Wakaama",
-  "pcpe": "cpe:/a:eclipse:wakaama"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "37593",
+	"pname": "Wakaama",
+	"pcpe": "cpe:/a:eclipse:wakaama"
 }

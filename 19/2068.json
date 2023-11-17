@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2068",
-  "pname": "Cisco ACE 4710",
-  "pcpe": "cpe:/h:cisco:ace_4710"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2068",
+	"pname": "Cisco ACE 4710",
+	"pcpe": "cpe:/h:cisco:ace_4710"
 }

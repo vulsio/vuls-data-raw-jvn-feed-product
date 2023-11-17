@@ -1,8 +1,8 @@
 {
-  "vid": "2399",
-  "vname": "AVM",
-  "vcpe": "cpe:/:avm",
-  "pid": "47234",
-  "pname": "FRITZ!Box 7490 ファームウェア",
-  "pcpe": "cpe:/o:avm:fritz%21box_7490_firmware"
+	"vid": "2399",
+	"vname": "AVM",
+	"vcpe": "cpe:/:avm",
+	"pid": "47234",
+	"pname": "FRITZ!Box 7490 ファームウェア",
+	"pcpe": "cpe:/o:avm:fritz%21box_7490_firmware"
 }

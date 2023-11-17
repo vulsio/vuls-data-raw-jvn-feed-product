@@ -1,8 +1,8 @@
 {
-  "vid": "10461",
-  "vname": "pocketmags",
-  "vcpe": "cpe:/:pocketmags",
-  "pid": "22074",
-  "pname": "pc advisor",
-  "pcpe": "cpe:/a:pocketmags:pc_advisor"
+	"vid": "10461",
+	"vname": "pocketmags",
+	"vcpe": "cpe:/:pocketmags",
+	"pid": "22074",
+	"pname": "pc advisor",
+	"pcpe": "cpe:/a:pocketmags:pc_advisor"
 }

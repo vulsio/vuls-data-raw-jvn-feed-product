@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45118",
-  "pname": "720S Touch-15IKB ファームウェア",
-  "pcpe": "cpe:/o:lenovo:720s_touch-15ikb_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45118",
+	"pname": "720S Touch-15IKB ファームウェア",
+	"pcpe": "cpe:/o:lenovo:720s_touch-15ikb_firmware"
 }

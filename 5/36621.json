@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "36621",
-  "pname": "SDX24 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sdx24_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "36621",
+	"pname": "SDX24 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sdx24_firmware"
 }

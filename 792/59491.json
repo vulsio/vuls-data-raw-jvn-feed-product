@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "59491",
-  "pname": "vpn50 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:vpn50_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "59491",
+	"pname": "vpn50 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:vpn50_firmware"
 }

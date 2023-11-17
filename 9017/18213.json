@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "18213",
-  "pname": "X8SIU-F",
-  "pcpe": "cpe:/h:supermicro:x8siu-f"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "18213",
+	"pname": "X8SIU-F",
+	"pcpe": "cpe:/h:supermicro:x8siu-f"
 }

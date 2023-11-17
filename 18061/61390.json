@@ -1,8 +1,8 @@
 {
-  "vid": "18061",
-  "vname": "Syncro Soft",
-  "vcpe": "cpe:/:sync",
-  "pid": "61390",
-  "pname": "oxygen publishing engine",
-  "pcpe": "cpe:/a:sync:oxygen_publishing_engine"
+	"vid": "18061",
+	"vname": "Syncro Soft",
+	"vcpe": "cpe:/:sync",
+	"pid": "61390",
+	"pname": "oxygen publishing engine",
+	"pcpe": "cpe:/a:sync:oxygen_publishing_engine"
 }

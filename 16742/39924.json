@@ -1,8 +1,8 @@
 {
-  "vid": "16742",
-  "vname": "Trezor",
-  "vcpe": "cpe:/:trezor",
-  "pid": "39924",
-  "pname": "One ファームウェア",
-  "pcpe": "cpe:/o:trezor:one_firmware"
+	"vid": "16742",
+	"vname": "Trezor",
+	"vcpe": "cpe:/:trezor",
+	"pid": "39924",
+	"pname": "One ファームウェア",
+	"pcpe": "cpe:/o:trezor:one_firmware"
 }

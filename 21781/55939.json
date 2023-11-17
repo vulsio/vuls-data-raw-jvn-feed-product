@@ -1,8 +1,8 @@
 {
-  "vid": "21781",
-  "vname": "Kiwi TCMS",
-  "vcpe": "cpe:/:kiwitcms",
-  "pid": "55939",
-  "pname": "Kiwi TCMS",
-  "pcpe": "cpe:/a:kiwitcms:kiwi_tcms"
+	"vid": "21781",
+	"vname": "Kiwi TCMS",
+	"vcpe": "cpe:/:kiwitcms",
+	"pid": "55939",
+	"pname": "Kiwi TCMS",
+	"pcpe": "cpe:/a:kiwitcms:kiwi_tcms"
 }

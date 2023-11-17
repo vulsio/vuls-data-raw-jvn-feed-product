@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4491",
-  "pname": "virtualization manager",
-  "pcpe": "cpe:/a:ibm:virtualization_manager"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4491",
+	"pname": "virtualization manager",
+	"pcpe": "cpe:/a:ibm:virtualization_manager"
 }

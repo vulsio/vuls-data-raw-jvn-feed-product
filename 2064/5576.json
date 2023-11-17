@@ -1,8 +1,8 @@
 {
-  "vid": "2064",
-  "vname": "aegis",
-  "vcpe": "cpe:/:aegis",
-  "pid": "5576",
-  "pname": "aegis-web",
-  "pcpe": "cpe:/a:aegis:aegis-web"
+	"vid": "2064",
+	"vname": "aegis",
+	"vcpe": "cpe:/:aegis",
+	"pid": "5576",
+	"pname": "aegis-web",
+	"pcpe": "cpe:/a:aegis:aegis-web"
 }

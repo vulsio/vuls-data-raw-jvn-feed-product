@@ -1,8 +1,8 @@
 {
-  "vid": "21104",
-  "vname": "FIMER S.p.A.",
-  "vcpe": "cpe:/:fimer",
-  "pid": "53987",
-  "pname": "Aurora Vision",
-  "pcpe": "cpe:/a:fimer:aurora_vision"
+	"vid": "21104",
+	"vname": "FIMER S.p.A.",
+	"vcpe": "cpe:/:fimer",
+	"pid": "53987",
+	"pname": "Aurora Vision",
+	"pcpe": "cpe:/a:fimer:aurora_vision"
 }

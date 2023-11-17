@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "44568",
-  "pname": "Lion-AL00C ファームウェア",
-  "pcpe": "cpe:/o:huawei:lion-al00c_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "44568",
+	"pname": "Lion-AL00C ファームウェア",
+	"pcpe": "cpe:/o:huawei:lion-al00c_firmware"
 }

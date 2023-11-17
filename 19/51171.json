@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "51171",
-  "pname": "Cisco SF220-28MP ファームウェア",
-  "pcpe": "cpe:/o:cisco:sf220-28mp_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "51171",
+	"pname": "Cisco SF220-28MP ファームウェア",
+	"pcpe": "cpe:/o:cisco:sf220-28mp_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "53415",
-  "pname": "IP Phone 8831 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ip_phone_8831_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "53415",
+	"pname": "IP Phone 8831 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ip_phone_8831_firmware"
 }

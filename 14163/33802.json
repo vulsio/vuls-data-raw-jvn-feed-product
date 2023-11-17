@@ -1,8 +1,8 @@
 {
-  "vid": "14163",
-  "vname": "BMW",
-  "vcpe": "cpe:/:bmw",
-  "pid": "33802",
-  "pname": "Telematics Control Unit",
-  "pcpe": "cpe:/o:bmw:telematics_control_unit_firmware"
+	"vid": "14163",
+	"vname": "BMW",
+	"vcpe": "cpe:/:bmw",
+	"pid": "33802",
+	"pname": "Telematics Control Unit",
+	"pcpe": "cpe:/o:bmw:telematics_control_unit_firmware"
 }

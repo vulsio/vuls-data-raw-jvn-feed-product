@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "48523",
-  "pname": "Access points ファームウェア",
-  "pcpe": "cpe:/o:zyxel:access_points_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "48523",
+	"pname": "Access points ファームウェア",
+	"pcpe": "cpe:/o:zyxel:access_points_firmware"
 }

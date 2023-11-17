@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "39196",
-  "pname": "XF70 ファームウェア",
-  "pcpe": "cpe:/o:sony:xf70_firmware"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "39196",
+	"pname": "XF70 ファームウェア",
+	"pcpe": "cpe:/o:sony:xf70_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1952",
-  "vname": "3dftp",
-  "vcpe": "cpe:/:3dftp",
-  "pid": "5389",
-  "pname": "3d-ftp client",
-  "pcpe": "cpe:/a:3dftp:3d-ftp_client"
+	"vid": "1952",
+	"vname": "3dftp",
+	"vcpe": "cpe:/:3dftp",
+	"pid": "5389",
+	"pname": "3d-ftp client",
+	"pcpe": "cpe:/a:3dftp:3d-ftp_client"
 }

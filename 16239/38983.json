@@ -1,8 +1,8 @@
 {
-  "vid": "16239",
-  "vname": "ENTTEC Pty Ltd.",
-  "vcpe": "cpe:/:enttec",
-  "pid": "38983",
-  "pname": "E-Streamer Mk2 ファームウェア",
-  "pcpe": "cpe:/o:enttec:e-streamer_mk2_firmware"
+	"vid": "16239",
+	"vname": "ENTTEC Pty Ltd.",
+	"vcpe": "cpe:/:enttec",
+	"pid": "38983",
+	"pname": "E-Streamer Mk2 ファームウェア",
+	"pcpe": "cpe:/o:enttec:e-streamer_mk2_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "43464",
-  "pname": "OnCommand Cloud Manager",
-  "pcpe": "cpe:/a:netapp:oncommand_cloud_manager"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "43464",
+	"pname": "OnCommand Cloud Manager",
+	"pcpe": "cpe:/a:netapp:oncommand_cloud_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17089",
-  "vname": "Micro-Star INT'L CO., LTD",
-  "vcpe": "cpe:/:msi",
-  "pid": "40603",
-  "pname": "MSI Afterburner",
-  "pcpe": "cpe:/a:msi:afterburner"
+	"vid": "17089",
+	"vname": "Micro-Star INT'L CO., LTD",
+	"vcpe": "cpe:/:msi",
+	"pid": "40603",
+	"pname": "MSI Afterburner",
+	"pcpe": "cpe:/a:msi:afterburner"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17180",
-  "pname": "HP ElitePad",
-  "pcpe": "cpe:/h:hp:elitepad"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17180",
+	"pname": "HP ElitePad",
+	"pcpe": "cpe:/h:hp:elitepad"
 }

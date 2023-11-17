@@ -1,8 +1,8 @@
 {
-  "vid": "18852",
-  "vname": "ピーアンドエフ",
-  "vcpe": "cpe:/:pepperl-fuchs",
-  "pid": "47002",
-  "pname": "ES7510 ファームウェア",
-  "pcpe": "cpe:/o:pepperl-fuchs:es7510_firmware"
+	"vid": "18852",
+	"vname": "ピーアンドエフ",
+	"vcpe": "cpe:/:pepperl-fuchs",
+	"pid": "47002",
+	"pname": "ES7510 ファームウェア",
+	"pcpe": "cpe:/o:pepperl-fuchs:es7510_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28606",
-  "pname": "CloudEngine 5800 ファームウェア",
-  "pcpe": "cpe:/o:huawei:cloudengine_5800_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28606",
+	"pname": "CloudEngine 5800 ファームウェア",
+	"pcpe": "cpe:/o:huawei:cloudengine_5800_firmware"
 }

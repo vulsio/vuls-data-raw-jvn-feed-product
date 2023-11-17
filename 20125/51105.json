@@ -1,8 +1,8 @@
 {
-  "vid": "20125",
-  "vname": "Bently Nevada",
-  "vcpe": "cpe:/:misc",
-  "pid": "51105",
-  "pname": "3500/22M Firmware",
-  "pcpe": "cpe:/a:misc:bently_nevada_3500_22m_firmware"
+	"vid": "20125",
+	"vname": "Bently Nevada",
+	"vcpe": "cpe:/:misc",
+	"pid": "51105",
+	"pname": "3500/22M Firmware",
+	"pcpe": "cpe:/a:misc:bently_nevada_3500_22m_firmware"
 }

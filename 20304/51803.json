@@ -1,8 +1,8 @@
 {
-  "vid": "20304",
-  "vname": "Dream Security Co.,Ltd.",
-  "vcpe": "cpe:/:dreamsecurity",
-  "pid": "51803",
-  "pname": "MagicLine4NX.exe",
-  "pcpe": "cpe:/a:dreamsecurity:magicline4nx.exe"
+	"vid": "20304",
+	"vname": "Dream Security Co.,Ltd.",
+	"vcpe": "cpe:/:dreamsecurity",
+	"pid": "51803",
+	"pname": "MagicLine4NX.exe",
+	"pcpe": "cpe:/a:dreamsecurity:magicline4nx.exe"
 }

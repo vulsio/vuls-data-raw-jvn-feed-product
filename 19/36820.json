@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "36820",
-  "pname": "vEdge Cloud Router Platform",
-  "pcpe": "cpe:/a:cisco:vedge_cloud_router_platform"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "36820",
+	"pname": "vEdge Cloud Router Platform",
+	"pcpe": "cpe:/a:cisco:vedge_cloud_router_platform"
 }

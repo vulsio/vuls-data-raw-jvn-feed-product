@@ -1,8 +1,8 @@
 {
-  "vid": "15150",
-  "vname": "Electro Industries",
-  "vcpe": "cpe:/:electroind",
-  "pid": "35100",
-  "pname": "GaugeTech Nexus ファームウェア",
-  "pcpe": "cpe:/o:electroind:gaugetech_nexus_firmware"
+	"vid": "15150",
+	"vname": "Electro Industries",
+	"vcpe": "cpe:/:electroind",
+	"pid": "35100",
+	"pname": "GaugeTech Nexus ファームウェア",
+	"pcpe": "cpe:/o:electroind:gaugetech_nexus_firmware"
 }

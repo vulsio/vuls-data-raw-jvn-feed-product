@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "56324",
-  "pname": "FL SWITCH 2206-2FX SM ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:fl_switch_2206-2fx_sm_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "56324",
+	"pname": "FL SWITCH 2206-2FX SM ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:fl_switch_2206-2fx_sm_firmware"
 }

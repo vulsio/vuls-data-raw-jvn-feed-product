@@ -1,8 +1,8 @@
 {
-  "vid": "17065",
-  "vname": "JHipster",
-  "vcpe": "cpe:/:jhipster",
-  "pid": "58545",
-  "pname": "generator-jhipster",
-  "pcpe": "cpe:/a:jhipster:generator-jhipster"
+	"vid": "17065",
+	"vname": "JHipster",
+	"vcpe": "cpe:/:jhipster",
+	"pid": "58545",
+	"pname": "generator-jhipster",
+	"pcpe": "cpe:/a:jhipster:generator-jhipster"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "28938",
-  "pname": "MySQL Workbench",
-  "pcpe": "cpe:/a:oracle:mysql_workbench"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "28938",
+	"pname": "MySQL Workbench",
+	"pcpe": "cpe:/a:oracle:mysql_workbench"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "681",
-  "vname": "ASUSTeK Computer Inc.",
-  "vcpe": "cpe:/:asus",
-  "pid": "17860",
-  "pname": "RT-N16",
-  "pcpe": "cpe:/h:asus:rt-n16"
+	"vid": "681",
+	"vname": "ASUSTeK Computer Inc.",
+	"vcpe": "cpe:/:asus",
+	"pid": "17860",
+	"pname": "RT-N16",
+	"pcpe": "cpe:/h:asus:rt-n16"
 }

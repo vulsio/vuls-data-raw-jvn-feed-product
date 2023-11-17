@@ -1,8 +1,8 @@
 {
-  "vid": "9589",
-  "vname": "Erlang Solutions",
-  "vcpe": "cpe:/:erlang-solutions",
-  "pid": "19888",
-  "pname": "MongooseIM",
-  "pcpe": "cpe:/a:erlang-solutions:mongooseim"
+	"vid": "9589",
+	"vname": "Erlang Solutions",
+	"vcpe": "cpe:/:erlang-solutions",
+	"pid": "19888",
+	"pname": "MongooseIM",
+	"pcpe": "cpe:/a:erlang-solutions:mongooseim"
 }

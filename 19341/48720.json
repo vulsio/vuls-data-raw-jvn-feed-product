@@ -1,8 +1,8 @@
 {
-  "vid": "19341",
-  "vname": "datatables",
-  "vcpe": "cpe:/:datatables",
-  "pid": "48720",
-  "pname": "datatables.net",
-  "pcpe": "cpe:/a:datatables:datatables"
+	"vid": "19341",
+	"vname": "datatables",
+	"vcpe": "cpe:/:datatables",
+	"pid": "48720",
+	"pname": "datatables.net",
+	"pcpe": "cpe:/a:datatables:datatables"
 }

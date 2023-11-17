@@ -1,8 +1,8 @@
 {
-  "vid": "4360",
-  "vname": "ウェブセンス",
-  "vcpe": "cpe:/:websense",
-  "pid": "19820",
-  "pname": "TRITON Unified Security Center",
-  "pcpe": "cpe:/a:websense:triton_unified_security_center"
+	"vid": "4360",
+	"vname": "ウェブセンス",
+	"vcpe": "cpe:/:websense",
+	"pid": "19820",
+	"pname": "TRITON Unified Security Center",
+	"pcpe": "cpe:/a:websense:triton_unified_security_center"
 }

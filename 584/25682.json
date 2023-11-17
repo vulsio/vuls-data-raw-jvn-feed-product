@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "25682",
-  "pname": "OZW772",
-  "pcpe": "cpe:/h:siemens:ozw772"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "25682",
+	"pname": "OZW772",
+	"pcpe": "cpe:/h:siemens:ozw772"
 }

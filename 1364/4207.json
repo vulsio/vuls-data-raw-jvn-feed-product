@@ -1,8 +1,8 @@
 {
-  "vid": "1364",
-  "vname": "awcm",
-  "vcpe": "cpe:/:awcm-cms",
-  "pid": "4207",
-  "pname": "ar web content manager",
-  "pcpe": "cpe:/a:awcm-cms:ar_web_content_manager"
+	"vid": "1364",
+	"vname": "awcm",
+	"vcpe": "cpe:/:awcm-cms",
+	"pid": "4207",
+	"pname": "ar web content manager",
+	"pcpe": "cpe:/a:awcm-cms:ar_web_content_manager"
 }

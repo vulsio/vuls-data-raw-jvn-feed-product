@@ -1,8 +1,8 @@
 {
-  "vid": "11953",
-  "vname": "The FreeImage Project",
-  "vcpe": "cpe:/:freeimage_project",
-  "pid": "24903",
-  "pname": "FreeImage",
-  "pcpe": "cpe:/a:freeimage_project:freeimage"
+	"vid": "11953",
+	"vname": "The FreeImage Project",
+	"vcpe": "cpe:/:freeimage_project",
+	"pid": "24903",
+	"pname": "FreeImage",
+	"pcpe": "cpe:/a:freeimage_project:freeimage"
 }

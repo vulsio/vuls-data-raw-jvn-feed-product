@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "32809",
-  "pname": "CX-Server",
-  "pcpe": "cpe:/a:omron:cx-server"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "32809",
+	"pname": "CX-Server",
+	"pcpe": "cpe:/a:omron:cx-server"
 }

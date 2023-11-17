@@ -1,8 +1,8 @@
 {
-  "vid": "668",
-  "vname": "ICONICS, Inc.",
-  "vcpe": "cpe:/:iconics",
-  "pid": "25905",
-  "pname": "WebHMI",
-  "pcpe": "cpe:/a:iconics:webhmi"
+	"vid": "668",
+	"vname": "ICONICS, Inc.",
+	"vcpe": "cpe:/:iconics",
+	"pid": "25905",
+	"pname": "WebHMI",
+	"pcpe": "cpe:/a:iconics:webhmi"
 }

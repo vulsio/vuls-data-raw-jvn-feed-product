@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "29678",
-  "pname": "Wonderware ArchestrA Logger",
-  "pcpe": "cpe:/a:schneider_electric:wonderware_archestra_logger"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "29678",
+	"pname": "Wonderware ArchestrA Logger",
+	"pcpe": "cpe:/a:schneider_electric:wonderware_archestra_logger"
 }

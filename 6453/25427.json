@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "25427",
-  "pname": "CS720dte",
-  "pcpe": "cpe:/h:lexmark:cs720dte"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "25427",
+	"pname": "CS720dte",
+	"pcpe": "cpe:/h:lexmark:cs720dte"
 }

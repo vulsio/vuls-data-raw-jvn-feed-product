@@ -1,8 +1,8 @@
 {
-  "vid": "237",
-  "vname": "たけびし",
-  "vcpe": "cpe:/:takebishi_corporation",
-  "pid": "858",
-  "pname": "デバイスエクスプローラ TOYOPUC OPC サーバ",
-  "pcpe": "cpe:/a:takebishi_corporation:devicexplorer_toyopuc_opc_server"
+	"vid": "237",
+	"vname": "たけびし",
+	"vcpe": "cpe:/:takebishi_corporation",
+	"pid": "858",
+	"pname": "デバイスエクスプローラ TOYOPUC OPC サーバ",
+	"pcpe": "cpe:/a:takebishi_corporation:devicexplorer_toyopuc_opc_server"
 }

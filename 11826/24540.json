@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "24540",
-  "pname": "Precision Mpi",
-  "pcpe": "cpe:/h:gehealthcare:precision_mpi"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "24540",
+	"pname": "Precision Mpi",
+	"pcpe": "cpe:/h:gehealthcare:precision_mpi"
 }

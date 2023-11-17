@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "54287",
-  "pname": "EPYC 7413 ファームウェア",
-  "pcpe": "cpe:/o:amd:epyc_7413_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "54287",
+	"pname": "EPYC 7413 ファームウェア",
+	"pcpe": "cpe:/o:amd:epyc_7413_firmware"
 }

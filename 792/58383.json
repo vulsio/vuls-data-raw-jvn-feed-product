@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "58383",
-  "pname": "vmg3625-t50b ファームウェア",
-  "pcpe": "cpe:/o:zyxel:vmg3625-t50b_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "58383",
+	"pname": "vmg3625-t50b ファームウェア",
+	"pcpe": "cpe:/o:zyxel:vmg3625-t50b_firmware"
 }

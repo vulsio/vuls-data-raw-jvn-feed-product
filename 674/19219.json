@@ -1,8 +1,8 @@
 {
-  "vid": "674",
-  "vname": "ブロケード コミュニケーションズ システムズ株式会社",
-  "vcpe": "cpe:/:brocade",
-  "pid": "19219",
-  "pname": "Brocade NetIron XMR",
-  "pcpe": "cpe:/h:brocade:netiron_xmr"
+	"vid": "674",
+	"vname": "ブロケード コミュニケーションズ システムズ株式会社",
+	"vcpe": "cpe:/:brocade",
+	"pid": "19219",
+	"pname": "Brocade NetIron XMR",
+	"pcpe": "cpe:/h:brocade:netiron_xmr"
 }

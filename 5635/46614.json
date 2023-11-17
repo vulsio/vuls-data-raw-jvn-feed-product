@@ -1,8 +1,8 @@
 {
-  "vid": "5635",
-  "vname": "microchip",
-  "vcpe": "cpe:/:microchip",
-  "pid": "46614",
-  "pname": "ATSAMA5D21C-CUR ファームウェア",
-  "pcpe": "cpe:/o:microchip:atsama5d21c-cur_firmware"
+	"vid": "5635",
+	"vname": "microchip",
+	"vcpe": "cpe:/:microchip",
+	"pid": "46614",
+	"pname": "ATSAMA5D21C-CUR ファームウェア",
+	"pcpe": "cpe:/o:microchip:atsama5d21c-cur_firmware"
 }

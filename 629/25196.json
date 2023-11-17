@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "25196",
-  "pname": "OnCell Central Manager",
-  "pcpe": "cpe:/a:moxa:oncell_central_manager"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "25196",
+	"pname": "OnCell Central Manager",
+	"pcpe": "cpe:/a:moxa:oncell_central_manager"
 }

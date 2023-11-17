@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "32672",
-  "pname": "Cisco E メール セキュリティ アプライアンスファームウェア",
-  "pcpe": "cpe:/o:cisco:email_security_appliance_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "32672",
+	"pname": "Cisco E メール セキュリティ アプライアンスファームウェア",
+	"pcpe": "cpe:/o:cisco:email_security_appliance_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "44765",
-  "pname": "Soteria",
-  "pcpe": "cpe:/a:redhat:soteria"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "44765",
+	"pname": "Soteria",
+	"pcpe": "cpe:/a:redhat:soteria"
 }

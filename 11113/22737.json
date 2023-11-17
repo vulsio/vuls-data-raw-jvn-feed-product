@@ -1,8 +1,8 @@
 {
-  "vid": "11113",
-  "vname": "santanderbank",
-  "vcpe": "cpe:/:santanderbank",
-  "pid": "22737",
-  "pname": "santander personal banking",
-  "pcpe": "cpe:/a:santanderbank:santander_personal_banking"
+	"vid": "11113",
+	"vname": "santanderbank",
+	"vcpe": "cpe:/:santanderbank",
+	"pid": "22737",
+	"pname": "santander personal banking",
+	"pcpe": "cpe:/a:santanderbank:santander_personal_banking"
 }

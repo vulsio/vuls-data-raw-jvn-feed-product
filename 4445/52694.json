@@ -1,8 +1,8 @@
 {
-  "vid": "4445",
-  "vname": "NCH Software",
-  "vcpe": "cpe:/:nchsoftware",
-  "pid": "52694",
-  "pname": "Reflect Customer Relationship Management",
-  "pcpe": "cpe:/a:nchsoftware:reflect_customer_relationship_management"
+	"vid": "4445",
+	"vname": "NCH Software",
+	"vcpe": "cpe:/:nchsoftware",
+	"pid": "52694",
+	"pname": "Reflect Customer Relationship Management",
+	"pcpe": "cpe:/a:nchsoftware:reflect_customer_relationship_management"
 }

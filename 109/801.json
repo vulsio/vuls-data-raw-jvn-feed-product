@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "801",
-  "pname": "VoIPゲートウェイ EW30IP",
-  "pcpe": "cpe:/h:fujitsu:voip_gateway_ew30ip"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "801",
+	"pname": "VoIPゲートウェイ EW30IP",
+	"pcpe": "cpe:/h:fujitsu:voip_gateway_ew30ip"
 }

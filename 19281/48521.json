@@ -1,8 +1,8 @@
 {
-  "vid": "19281",
-  "vname": "zx2c4",
-  "vcpe": "cpe:/:zx2c4",
-  "pid": "48521",
-  "pname": "password-store",
-  "pcpe": "cpe:/a:zx2c4:password-store"
+	"vid": "19281",
+	"vname": "zx2c4",
+	"vcpe": "cpe:/:zx2c4",
+	"pid": "48521",
+	"pname": "password-store",
+	"pcpe": "cpe:/a:zx2c4:password-store"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24546",
-  "vname": "mediabridgeproducts",
-  "vcpe": "cpe:/:mediabridgeproducts",
-  "pid": "63538",
-  "pname": "mlwr-ac1200r ファームウェア",
-  "pcpe": "cpe:/o:mediabridgeproducts:mlwr-ac1200r_firmware"
+	"vid": "24546",
+	"vname": "mediabridgeproducts",
+	"vcpe": "cpe:/:mediabridgeproducts",
+	"pid": "63538",
+	"pname": "mlwr-ac1200r ファームウェア",
+	"pcpe": "cpe:/o:mediabridgeproducts:mlwr-ac1200r_firmware"
 }

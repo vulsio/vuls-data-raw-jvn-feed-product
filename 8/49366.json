@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "49366",
-  "pname": "ServiceComb Java-Chassis",
-  "pcpe": "cpe:/a:apache:java_chassis"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "49366",
+	"pname": "ServiceComb Java-Chassis",
+	"pcpe": "cpe:/a:apache:java_chassis"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "60276",
-  "pname": "Armor PowerFlex",
-  "pcpe": "cpe:/o:rockwellautomation:armor_powerflex_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "60276",
+	"pname": "Armor PowerFlex",
+	"pcpe": "cpe:/o:rockwellautomation:armor_powerflex_firmware"
 }

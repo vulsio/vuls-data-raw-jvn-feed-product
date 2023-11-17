@@ -1,8 +1,8 @@
 {
-  "vid": "1304",
-  "vname": "カスペルスキー",
-  "vcpe": "cpe:/:kaspersky",
-  "pid": "4111",
-  "pname": "Kaspersky Anti-Virus",
-  "pcpe": "cpe:/a:kaspersky:kaspersky_anti-virus"
+	"vid": "1304",
+	"vname": "カスペルスキー",
+	"vcpe": "cpe:/:kaspersky",
+	"pid": "4111",
+	"pname": "Kaspersky Anti-Virus",
+	"pcpe": "cpe:/a:kaspersky:kaspersky_anti-virus"
 }

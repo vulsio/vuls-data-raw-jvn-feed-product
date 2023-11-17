@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19578",
-  "pname": "Cisco IPS Software",
-  "pcpe": "cpe:/a:cisco:ips_sensor_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19578",
+	"pname": "Cisco IPS Software",
+	"pcpe": "cpe:/a:cisco:ips_sensor_software"
 }

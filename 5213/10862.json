@@ -1,8 +1,8 @@
 {
-  "vid": "5213",
-  "vname": "kreotek",
-  "vcpe": "cpe:/:kreotek",
-  "pid": "10862",
-  "pname": "phpbms",
-  "pcpe": "cpe:/a:kreotek:phpbms"
+	"vid": "5213",
+	"vname": "kreotek",
+	"vcpe": "cpe:/:kreotek",
+	"pid": "10862",
+	"pname": "phpbms",
+	"pcpe": "cpe:/a:kreotek:phpbms"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12814",
-  "pname": "rx3600",
-  "pcpe": "cpe:/h:hp:rx3600"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12814",
+	"pname": "rx3600",
+	"pcpe": "cpe:/h:hp:rx3600"
 }

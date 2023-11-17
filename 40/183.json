@@ -1,8 +1,8 @@
 {
-  "vid": "40",
-  "vname": "リアルネットワークス",
-  "vcpe": "cpe:/:realnetworks",
-  "pid": "183",
-  "pname": "RealNetworks RealPlayer",
-  "pcpe": "cpe:/a:realnetworks:realplayer"
+	"vid": "40",
+	"vname": "リアルネットワークス",
+	"vcpe": "cpe:/:realnetworks",
+	"pid": "183",
+	"pname": "RealNetworks RealPlayer",
+	"pcpe": "cpe:/a:realnetworks:realplayer"
 }

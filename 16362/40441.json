@@ -1,8 +1,8 @@
 {
-  "vid": "16362",
-  "vname": "Espressif Systems",
-  "vcpe": "cpe:/:espressif",
-  "pid": "40441",
-  "pname": "ESP8266 nonOS SDK",
-  "pcpe": "cpe:/a:espressif:esp8266_nonos_sdk"
+	"vid": "16362",
+	"vname": "Espressif Systems",
+	"vcpe": "cpe:/:espressif",
+	"pid": "40441",
+	"pname": "ESP8266 nonOS SDK",
+	"pcpe": "cpe:/a:espressif:esp8266_nonos_sdk"
 }

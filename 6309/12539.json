@@ -1,8 +1,8 @@
 {
-  "vid": "6309",
-  "vname": "peercast",
-  "vcpe": "cpe:/:peercast",
-  "pid": "12539",
-  "pname": "peercast",
-  "pcpe": "cpe:/a:peercast:peercast"
+	"vid": "6309",
+	"vname": "peercast",
+	"vcpe": "cpe:/:peercast",
+	"pid": "12539",
+	"pname": "peercast",
+	"pcpe": "cpe:/a:peercast:peercast"
 }

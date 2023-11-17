@@ -1,8 +1,8 @@
 {
-  "vid": "12525",
-  "vname": "Capstone engine",
-  "vcpe": "cpe:/:capstone-engine",
-  "pid": "28455",
-  "pname": "Capstone",
-  "pcpe": "cpe:/a:capstone-engine:capstone"
+	"vid": "12525",
+	"vname": "Capstone engine",
+	"vcpe": "cpe:/:capstone-engine",
+	"pid": "28455",
+	"pname": "Capstone",
+	"pcpe": "cpe:/a:capstone-engine:capstone"
 }

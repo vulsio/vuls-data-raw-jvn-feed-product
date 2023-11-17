@@ -1,8 +1,8 @@
 {
-  "vid": "20080",
-  "vname": "SmartDataSoft",
-  "vcpe": "cpe:/:smartdatasoft",
-  "pid": "52339",
-  "pname": "SmartBlog",
-  "pcpe": "cpe:/a:smartdatasoft:smartblog"
+	"vid": "20080",
+	"vname": "SmartDataSoft",
+	"vcpe": "cpe:/:smartdatasoft",
+	"pid": "52339",
+	"pname": "SmartBlog",
+	"pcpe": "cpe:/a:smartdatasoft:smartblog"
 }

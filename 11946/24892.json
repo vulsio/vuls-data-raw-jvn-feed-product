@@ -1,8 +1,8 @@
 {
-  "vid": "11946",
-  "vname": "CodeWrights GmbH",
-  "vcpe": "cpe:/:codewrights",
-  "pid": "24892",
-  "pname": "CodeWrights HART Communication DTM",
-  "pcpe": "cpe:/o:codewrights:hart_comm_dtm"
+	"vid": "11946",
+	"vname": "CodeWrights GmbH",
+	"vcpe": "cpe:/:codewrights",
+	"pid": "24892",
+	"pname": "CodeWrights HART Communication DTM",
+	"pcpe": "cpe:/o:codewrights:hart_comm_dtm"
 }

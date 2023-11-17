@@ -1,8 +1,8 @@
 {
-  "vid": "16658",
-  "vname": "MetadataExtractor project",
-  "vcpe": "cpe:/:metadataextractor_project",
-  "pid": "39693",
-  "pname": "MetadataExtractor",
-  "pcpe": "cpe:/a:metadataextractor_project:metadataextractor"
+	"vid": "16658",
+	"vname": "MetadataExtractor project",
+	"vcpe": "cpe:/:metadataextractor_project",
+	"pid": "39693",
+	"pname": "MetadataExtractor",
+	"pcpe": "cpe:/a:metadataextractor_project:metadataextractor"
 }

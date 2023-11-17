@@ -1,8 +1,8 @@
 {
-  "vid": "21113",
-  "vname": "Bootstrap Table project",
-  "vcpe": "cpe:/:bootstrap_table_project",
-  "pid": "54004",
-  "pname": "Bootstrap Table",
-  "pcpe": "cpe:/a:bootstrap_table_project:bootstrap_table"
+	"vid": "21113",
+	"vname": "Bootstrap Table project",
+	"vcpe": "cpe:/:bootstrap_table_project",
+	"pid": "54004",
+	"pname": "Bootstrap Table",
+	"pcpe": "cpe:/a:bootstrap_table_project:bootstrap_table"
 }

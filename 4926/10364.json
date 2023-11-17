@@ -1,8 +1,8 @@
 {
-  "vid": "4926",
-  "vname": "jax scripts",
-  "vcpe": "cpe:/:jax_scripts",
-  "pid": "10364",
-  "pname": "jax guestbook",
-  "pcpe": "cpe:/a:jax_scripts:jax_guestbook"
+	"vid": "4926",
+	"vname": "jax scripts",
+	"vcpe": "cpe:/:jax_scripts",
+	"pid": "10364",
+	"pname": "jax guestbook",
+	"pcpe": "cpe:/a:jax_scripts:jax_guestbook"
 }

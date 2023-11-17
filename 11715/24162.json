@@ -1,8 +1,8 @@
 {
-  "vid": "11715",
-  "vname": "Thycotic",
-  "vcpe": "cpe:/:thycotic",
-  "pid": "24162",
-  "pname": "Thycotic Password Manager Secret Server",
-  "pcpe": "cpe:/a:thycotic:password_manager_secret_server"
+	"vid": "11715",
+	"vname": "Thycotic",
+	"vcpe": "cpe:/:thycotic",
+	"pid": "24162",
+	"pname": "Thycotic Password Manager Secret Server",
+	"pcpe": "cpe:/a:thycotic:password_manager_secret_server"
 }

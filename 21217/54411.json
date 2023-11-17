@@ -1,8 +1,8 @@
 {
-  "vid": "21217",
-  "vname": "日立国際電気",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "54411",
-  "pname": "PT-IP1900T-S01 ファームウェア",
-  "pcpe": "cpe:/o:hitachi:pt-ip1900t-s01_firmware"
+	"vid": "21217",
+	"vname": "日立国際電気",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "54411",
+	"pname": "PT-IP1900T-S01 ファームウェア",
+	"pcpe": "cpe:/o:hitachi:pt-ip1900t-s01_firmware"
 }

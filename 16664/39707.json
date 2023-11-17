@@ -1,8 +1,8 @@
 {
-  "vid": "16664",
-  "vname": "GnuCOBOL project",
-  "vcpe": "cpe:/:gnucobol_project",
-  "pid": "39707",
-  "pname": "GnuCOBOL",
-  "pcpe": "cpe:/a:gnucobol_project:gnucobol"
+	"vid": "16664",
+	"vname": "GnuCOBOL project",
+	"vcpe": "cpe:/:gnucobol_project",
+	"pid": "39707",
+	"pname": "GnuCOBOL",
+	"pcpe": "cpe:/a:gnucobol_project:gnucobol"
 }

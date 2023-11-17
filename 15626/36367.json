@@ -1,8 +1,8 @@
 {
-  "vid": "15626",
-  "vname": "Verint Verba",
-  "vcpe": "cpe:/:verint",
-  "pid": "36367",
-  "pname": "Collaboration Compliance",
-  "pcpe": "cpe:/a:verint:collaboration_compliance"
+	"vid": "15626",
+	"vname": "Verint Verba",
+	"vcpe": "cpe:/:verint",
+	"pid": "36367",
+	"pname": "Collaboration Compliance",
+	"pcpe": "cpe:/a:verint:collaboration_compliance"
 }

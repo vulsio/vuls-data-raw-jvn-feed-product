@@ -1,8 +1,8 @@
 {
-  "vid": "21008",
-  "vname": "Game Server Status project",
-  "vcpe": "cpe:/:game-server-status_project",
-  "pid": "53741",
-  "pname": "Game Server Status",
-  "pcpe": "cpe:/a:game-server-status_project:game-server-status"
+	"vid": "21008",
+	"vname": "Game Server Status project",
+	"vcpe": "cpe:/:game-server-status_project",
+	"pid": "53741",
+	"pname": "Game Server Status",
+	"pcpe": "cpe:/a:game-server-status_project:game-server-status"
 }

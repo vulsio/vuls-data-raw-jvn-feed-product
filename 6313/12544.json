@@ -1,8 +1,8 @@
 {
-  "vid": "6313",
-  "vname": "pegasus imaging",
-  "vcpe": "cpe:/:pegasus_imaging",
-  "pid": "12544",
-  "pname": "imagxpress",
-  "pcpe": "cpe:/a:pegasus_imaging:imagxpress"
+	"vid": "6313",
+	"vname": "pegasus imaging",
+	"vcpe": "cpe:/:pegasus_imaging",
+	"pid": "12544",
+	"pname": "imagxpress",
+	"pcpe": "cpe:/a:pegasus_imaging:imagxpress"
 }

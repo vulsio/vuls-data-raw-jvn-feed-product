@@ -1,8 +1,8 @@
 {
-  "vid": "18710",
-  "vname": "Chameleon Mini Live Debugger プロジェクト",
-  "vcpe": "cpe:/:chameleon_mini_live_debugger_project",
-  "pid": "46350",
-  "pname": "Chameleon Mini Live Debugger",
-  "pcpe": "cpe:/a:chameleon_mini_live_debugger_project:chameleon_mini_live_debugger"
+	"vid": "18710",
+	"vname": "Chameleon Mini Live Debugger プロジェクト",
+	"vcpe": "cpe:/:chameleon_mini_live_debugger_project",
+	"pid": "46350",
+	"pname": "Chameleon Mini Live Debugger",
+	"pcpe": "cpe:/a:chameleon_mini_live_debugger_project:chameleon_mini_live_debugger"
 }

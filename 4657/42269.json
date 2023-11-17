@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "42269",
-  "pname": "CampusInsight",
-  "pcpe": "cpe:/a:huawei:campusinsight"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "42269",
+	"pname": "CampusInsight",
+	"pcpe": "cpe:/a:huawei:campusinsight"
 }

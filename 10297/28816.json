@@ -1,8 +1,8 @@
 {
-  "vid": "10297",
-  "vname": "独立行政法人情報処理推進機構 (IPA)",
-  "vcpe": "cpe:/:ipa",
-  "pid": "28816",
-  "pname": "定量的プロジェクト管理ツール（EPM-X）",
-  "pcpe": "cpe:/a:ipa:empirical_project_monitor_-_extended"
+	"vid": "10297",
+	"vname": "独立行政法人情報処理推進機構 (IPA)",
+	"vcpe": "cpe:/:ipa",
+	"pid": "28816",
+	"pname": "定量的プロジェクト管理ツール（EPM-X）",
+	"pcpe": "cpe:/a:ipa:empirical_project_monitor_-_extended"
 }

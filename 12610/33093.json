@@ -1,8 +1,8 @@
 {
-  "vid": "12610",
-  "vname": "Opmantek",
-  "vcpe": "cpe:/:opmantek",
-  "pid": "33093",
-  "pname": "Open-AudIT",
-  "pcpe": "cpe:/a:opmantek:open-audit"
+	"vid": "12610",
+	"vname": "Opmantek",
+	"vcpe": "cpe:/:opmantek",
+	"pid": "33093",
+	"pname": "Open-AudIT",
+	"pcpe": "cpe:/a:opmantek:open-audit"
 }

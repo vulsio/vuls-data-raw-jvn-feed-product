@@ -1,8 +1,8 @@
 {
-  "vid": "17211",
-  "vname": "ThemeIsle",
-  "vcpe": "cpe:/:themeisle",
-  "pid": "58493",
-  "pname": "RSS Aggregator by Feedzy",
-  "pcpe": "cpe:/a:themeisle:rss_aggregator_by_feedzy"
+	"vid": "17211",
+	"vname": "ThemeIsle",
+	"vcpe": "cpe:/:themeisle",
+	"pid": "58493",
+	"pname": "RSS Aggregator by Feedzy",
+	"pcpe": "cpe:/a:themeisle:rss_aggregator_by_feedzy"
 }

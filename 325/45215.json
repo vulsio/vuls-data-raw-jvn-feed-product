@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45215",
-  "pname": "130-15AST ファームウェア",
-  "pcpe": "cpe:/o:lenovo:130-15ast_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45215",
+	"pname": "130-15AST ファームウェア",
+	"pcpe": "cpe:/o:lenovo:130-15ast_firmware"
 }

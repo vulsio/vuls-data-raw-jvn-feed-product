@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "63765",
-  "pname": "stage view",
-  "pcpe": "cpe:/a:jenkins:stage_view"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "63765",
+	"pname": "stage view",
+	"pcpe": "cpe:/a:jenkins:stage_view"
 }

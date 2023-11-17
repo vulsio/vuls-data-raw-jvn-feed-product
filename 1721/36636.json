@@ -1,8 +1,8 @@
 {
-  "vid": "1721",
-  "vname": "SolarWinds",
-  "vcpe": "cpe:/:solarwinds",
-  "pid": "36636",
-  "pname": "SFTP/SCP Server",
-  "pcpe": "cpe:/a:solarwinds:sftp%2fscp_server"
+	"vid": "1721",
+	"vname": "SolarWinds",
+	"vcpe": "cpe:/:solarwinds",
+	"pid": "36636",
+	"pname": "SFTP/SCP Server",
+	"pcpe": "cpe:/a:solarwinds:sftp%2fscp_server"
 }

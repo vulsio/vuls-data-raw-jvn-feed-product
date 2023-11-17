@@ -1,8 +1,8 @@
 {
-  "vid": "23777",
-  "vname": "jqueryui",
-  "vcpe": "cpe:/:jqueryui",
-  "pid": "61499",
-  "pname": "jquery ui",
-  "pcpe": "cpe:/a:jqueryui:jquery_ui"
+	"vid": "23777",
+	"vname": "jqueryui",
+	"vcpe": "cpe:/:jqueryui",
+	"pid": "61499",
+	"pname": "jquery ui",
+	"pcpe": "cpe:/a:jqueryui:jquery_ui"
 }

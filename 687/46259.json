@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "46259",
-  "pname": "TIBCO Foresight Operational Monitor",
-  "pcpe": "cpe:/a:tibco:foresight_operational_monitor"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "46259",
+	"pname": "TIBCO Foresight Operational Monitor",
+	"pcpe": "cpe:/a:tibco:foresight_operational_monitor"
 }

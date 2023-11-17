@@ -1,8 +1,8 @@
 {
-  "vid": "8925",
-  "vname": "Arecont Vision",
-  "vcpe": "cpe:/:arecont",
-  "pid": "17170",
-  "pname": "MegaDome Series AV1355DN",
-  "pcpe": "cpe:/h:arecont:vision_av1355dn_megadome_camera"
+	"vid": "8925",
+	"vname": "Arecont Vision",
+	"vcpe": "cpe:/:arecont",
+	"pid": "17170",
+	"pname": "MegaDome Series AV1355DN",
+	"pcpe": "cpe:/h:arecont:vision_av1355dn_megadome_camera"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "858",
-  "vname": "CloudBees",
-  "vcpe": "cpe:/:cloudbees",
-  "pid": "21401",
-  "pname": "Monitoring",
-  "pcpe": "cpe:/a:cloudbees:monitoring_plugin"
+	"vid": "858",
+	"vname": "CloudBees",
+	"vcpe": "cpe:/:cloudbees",
+	"pid": "21401",
+	"pname": "Monitoring",
+	"pcpe": "cpe:/a:cloudbees:monitoring_plugin"
 }

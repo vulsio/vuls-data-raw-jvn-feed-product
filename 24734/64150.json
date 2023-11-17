@@ -1,8 +1,8 @@
 {
-  "vid": "24734",
-  "vname": "haascnc",
-  "vcpe": "cpe:/:haascnc",
-  "pid": "64150",
-  "pname": "haas controller ファームウェア",
-  "pcpe": "cpe:/o:haascnc:haas_controller_firmware"
+	"vid": "24734",
+	"vname": "haascnc",
+	"vcpe": "cpe:/:haascnc",
+	"pid": "64150",
+	"pname": "haas controller ファームウェア",
+	"pcpe": "cpe:/o:haascnc:haas_controller_firmware"
 }

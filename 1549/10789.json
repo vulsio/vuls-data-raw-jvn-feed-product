@@ -1,8 +1,8 @@
 {
-  "vid": "1549",
-  "vname": "Kerio Technologies",
-  "vcpe": "cpe:/:kerio",
-  "pid": "10789",
-  "pname": "personal firewall",
-  "pcpe": "cpe:/a:kerio:personal_firewall"
+	"vid": "1549",
+	"vname": "Kerio Technologies",
+	"vcpe": "cpe:/:kerio",
+	"pid": "10789",
+	"pname": "personal firewall",
+	"pcpe": "cpe:/a:kerio:personal_firewall"
 }

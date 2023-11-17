@@ -1,8 +1,8 @@
 {
-  "vid": "24637",
-  "vname": "phpcrazy project",
-  "vcpe": "cpe:/:phpcrazy_project",
-  "pid": "63915",
-  "pname": "phpcrazy",
-  "pcpe": "cpe:/a:phpcrazy_project:phpcrazy"
+	"vid": "24637",
+	"vname": "phpcrazy project",
+	"vcpe": "cpe:/:phpcrazy_project",
+	"pid": "63915",
+	"pname": "phpcrazy",
+	"pcpe": "cpe:/a:phpcrazy_project:phpcrazy"
 }

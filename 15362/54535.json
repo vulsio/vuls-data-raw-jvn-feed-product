@@ -1,8 +1,8 @@
 {
-  "vid": "15362",
-  "vname": "Micron Technology, Inc.",
-  "vcpe": "cpe:/:micron",
-  "pid": "54535",
-  "pname": "Micron LDDR4 ファームウェア",
-  "pcpe": "cpe:/o:micron:lddr4_firmware"
+	"vid": "15362",
+	"vname": "Micron Technology, Inc.",
+	"vcpe": "cpe:/:micron",
+	"pid": "54535",
+	"pname": "Micron LDDR4 ファームウェア",
+	"pcpe": "cpe:/o:micron:lddr4_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3667",
-  "vname": "feedburner",
-  "vcpe": "cpe:/:feedburner",
-  "pid": "8030",
-  "pname": "feedsmith",
-  "pcpe": "cpe:/a:feedburner:feedsmith"
+	"vid": "3667",
+	"vname": "feedburner",
+	"vcpe": "cpe:/:feedburner",
+	"pid": "8030",
+	"pname": "feedsmith",
+	"pcpe": "cpe:/a:feedburner:feedsmith"
 }

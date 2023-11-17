@@ -1,8 +1,8 @@
 {
-  "vid": "24606",
-  "vname": "adminpad project",
-  "vcpe": "cpe:/:adminpad_project",
-  "pid": "63804",
-  "pname": "adminpad",
-  "pcpe": "cpe:/a:adminpad_project:adminpad"
+	"vid": "24606",
+	"vname": "adminpad project",
+	"vcpe": "cpe:/:adminpad_project",
+	"pid": "63804",
+	"pname": "adminpad",
+	"pcpe": "cpe:/a:adminpad_project:adminpad"
 }

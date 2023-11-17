@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "29660",
-  "pname": "NFCポートソフトウェア (旧FeliCaポートソフトウェア)",
-  "pcpe": "cpe:/a:sony:nfc_port_software_%28formerly_felica_port_software%29"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "29660",
+	"pname": "NFCポートソフトウェア (旧FeliCaポートソフトウェア)",
+	"pcpe": "cpe:/a:sony:nfc_port_software_%28formerly_felica_port_software%29"
 }

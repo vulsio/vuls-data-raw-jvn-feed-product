@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "43000",
-  "pname": "CARESCAPE Central Station MAI700 ファームウェア",
-  "pcpe": "cpe:/o:gehealthcare:carescape_central_station_mai700_firmware"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "43000",
+	"pname": "CARESCAPE Central Station MAI700 ファームウェア",
+	"pcpe": "cpe:/o:gehealthcare:carescape_central_station_mai700_firmware"
 }

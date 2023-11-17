@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "38558",
-  "pname": "System x3650 M5 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:system_x3650_m5_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "38558",
+	"pname": "System x3650 M5 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:system_x3650_m5_firmware"
 }

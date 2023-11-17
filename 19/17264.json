@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17264",
-  "pname": "Cisco 888 サービス統合型ルータ",
-  "pcpe": "cpe:/h:cisco:888_integrated_services_router"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17264",
+	"pname": "Cisco 888 サービス統合型ルータ",
+	"pcpe": "cpe:/h:cisco:888_integrated_services_router"
 }

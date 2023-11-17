@@ -1,8 +1,8 @@
 {
-  "vid": "19328",
-  "vname": "Libretro",
-  "vcpe": "cpe:/:libretro",
-  "pid": "48681",
-  "pname": "RetroArch",
-  "pcpe": "cpe:/a:libretro:retroarch"
+	"vid": "19328",
+	"vname": "Libretro",
+	"vcpe": "cpe:/:libretro",
+	"pid": "48681",
+	"pname": "RetroArch",
+	"pcpe": "cpe:/a:libretro:retroarch"
 }

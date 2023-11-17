@@ -1,8 +1,8 @@
 {
-  "vid": "490",
-  "vname": "Digium",
-  "vcpe": "cpe:/:digium",
-  "pid": "1902",
-  "pname": "s800i (Asterisk Appliance)",
-  "pcpe": "cpe:/h:digium:s800i_appliance"
+	"vid": "490",
+	"vname": "Digium",
+	"vcpe": "cpe:/:digium",
+	"pid": "1902",
+	"pname": "s800i (Asterisk Appliance)",
+	"pcpe": "cpe:/h:digium:s800i_appliance"
 }

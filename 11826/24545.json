@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "24545",
-  "pname": "CADStream Server ファームウェア",
-  "pcpe": "cpe:/o:gehealthcare:cadstream_server_firmware"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "24545",
+	"pname": "CADStream Server ファームウェア",
+	"pcpe": "cpe:/o:gehealthcare:cadstream_server_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17428",
-  "vname": "SciPy",
-  "vcpe": "cpe:/:scipy",
-  "pid": "41513",
-  "pname": "SciPy",
-  "pcpe": "cpe:/a:scipy:scipy"
+	"vid": "17428",
+	"vname": "SciPy",
+	"vcpe": "cpe:/:scipy",
+	"pid": "41513",
+	"pname": "SciPy",
+	"pcpe": "cpe:/a:scipy:scipy"
 }

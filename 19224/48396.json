@@ -1,8 +1,8 @@
 {
-  "vid": "19224",
-  "vname": "MDT Software",
-  "vcpe": "cpe:/:misc",
-  "pid": "48396",
-  "pname": "AutoSave for System Platform",
-  "pcpe": "cpe:/a:misc:mdt_software_autosave_for_system_platform"
+	"vid": "19224",
+	"vname": "MDT Software",
+	"vcpe": "cpe:/:misc",
+	"pid": "48396",
+	"pname": "AutoSave for System Platform",
+	"pcpe": "cpe:/a:misc:mdt_software_autosave_for_system_platform"
 }

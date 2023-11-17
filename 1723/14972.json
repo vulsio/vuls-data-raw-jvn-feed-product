@@ -1,8 +1,8 @@
 {
-  "vid": "1723",
-  "vname": "SonicWALL",
-  "vcpe": "cpe:/:sonicwall",
-  "pid": "14972",
-  "pname": "global vpn client",
-  "pcpe": "cpe:/a:sonicwall:global_vpn_client"
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "14972",
+	"pname": "global vpn client",
+	"pcpe": "cpe:/a:sonicwall:global_vpn_client"
 }

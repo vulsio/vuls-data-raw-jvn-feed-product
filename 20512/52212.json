@@ -1,8 +1,8 @@
 {
-  "vid": "20512",
-  "vname": "Broken Link Manager project",
-  "vcpe": "cpe:/:broken_link_manager_project",
-  "pid": "52212",
-  "pname": "Broken Link Manager",
-  "pcpe": "cpe:/a:broken_link_manager_project:broken_link_manager"
+	"vid": "20512",
+	"vname": "Broken Link Manager project",
+	"vcpe": "cpe:/:broken_link_manager_project",
+	"pid": "52212",
+	"pname": "Broken Link Manager",
+	"pcpe": "cpe:/a:broken_link_manager_project:broken_link_manager"
 }

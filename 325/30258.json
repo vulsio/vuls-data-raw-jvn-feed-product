@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30258",
-  "pname": "ThinkCentre M72e ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m72e_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30258",
+	"pname": "ThinkCentre M72e ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m72e_firmware"
 }

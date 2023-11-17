@@ -1,8 +1,8 @@
 {
-  "vid": "4462",
-  "vname": "QtWeb.NET",
-  "vcpe": "cpe:/:qtweb",
-  "pid": "9509",
-  "pname": "QtWeb Browser",
-  "pcpe": "cpe:/a:qtweb:qtweb"
+	"vid": "4462",
+	"vname": "QtWeb.NET",
+	"vcpe": "cpe:/:qtweb",
+	"pid": "9509",
+	"pname": "QtWeb Browser",
+	"pcpe": "cpe:/a:qtweb:qtweb"
 }

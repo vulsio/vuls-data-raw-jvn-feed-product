@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "29997",
-  "pname": "Cisco Smart Net Total Care Software Collector Appliance",
-  "pcpe": "cpe:/a:cisco:smart_net_total_care_collector_appliance"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "29997",
+	"pname": "Cisco Smart Net Total Care Software Collector Appliance",
+	"pcpe": "cpe:/a:cisco:smart_net_total_care_collector_appliance"
 }

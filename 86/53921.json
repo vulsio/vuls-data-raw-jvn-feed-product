@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "53921",
-  "pname": "WHR-G54S-NI ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:whr-g54s-ni_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "53921",
+	"pname": "WHR-G54S-NI ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:whr-g54s-ni_firmware"
 }

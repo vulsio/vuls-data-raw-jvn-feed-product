@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "34473",
-  "pname": "IntelliVue Patient Monitors MP30 ファームウェア",
-  "pcpe": "cpe:/o:philips:intellivue_patient_monitors_mp30_firmware"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "34473",
+	"pname": "IntelliVue Patient Monitors MP30 ファームウェア",
+	"pcpe": "cpe:/o:philips:intellivue_patient_monitors_mp30_firmware"
 }

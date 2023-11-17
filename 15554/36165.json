@@ -1,8 +1,8 @@
 {
-  "vid": "15554",
-  "vname": "SWA",
-  "vcpe": "cpe:/:swa",
-  "pid": "36165",
-  "pname": "SWA.JACAD",
-  "pcpe": "cpe:/a:swa:swa.jacad"
+	"vid": "15554",
+	"vname": "SWA",
+	"vcpe": "cpe:/:swa",
+	"pid": "36165",
+	"pname": "SWA.JACAD",
+	"pcpe": "cpe:/a:swa:swa.jacad"
 }

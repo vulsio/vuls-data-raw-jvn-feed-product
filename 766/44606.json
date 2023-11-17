@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "44606",
-  "pname": "Tricon TCM 4351 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:tricon_tcm_4351_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "44606",
+	"pname": "Tricon TCM 4351 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:tricon_tcm_4351_firmware"
 }

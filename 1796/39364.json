@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "39364",
-  "pname": "MiniMed Paradigm 712E ファームウェア",
-  "pcpe": "cpe:/o:medtronic:minimed_paradigm_712e_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "39364",
+	"pname": "MiniMed Paradigm 712E ファームウェア",
+	"pcpe": "cpe:/o:medtronic:minimed_paradigm_712e_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16781",
-  "vname": "Ledger SAS",
-  "vcpe": "cpe:/:ledger",
-  "pid": "44793",
-  "pname": "Monero",
-  "pcpe": "cpe:/a:ledger:monero"
+	"vid": "16781",
+	"vname": "Ledger SAS",
+	"vcpe": "cpe:/:ledger",
+	"pid": "44793",
+	"pname": "Monero",
+	"pcpe": "cpe:/a:ledger:monero"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16116",
-  "vname": "ESAFENET",
-  "vcpe": "cpe:/:esafenet",
-  "pid": "37770",
-  "pname": "CDG",
-  "pcpe": "cpe:/a:esafenet:electronic_document_security_management_system"
+	"vid": "16116",
+	"vname": "ESAFENET",
+	"vcpe": "cpe:/:esafenet",
+	"pid": "37770",
+	"pname": "CDG",
+	"pcpe": "cpe:/a:esafenet:electronic_document_security_management_system"
 }

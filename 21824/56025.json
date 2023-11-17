@@ -1,8 +1,8 @@
 {
-  "vid": "21824",
-  "vname": "CP Plus",
-  "vcpe": "cpe:/:misc",
-  "pid": "56025",
-  "pname": "KVMS Pro",
-  "pcpe": "cpe:/a:misc:cp_plus_kvms_pro"
+	"vid": "21824",
+	"vname": "CP Plus",
+	"vcpe": "cpe:/:misc",
+	"pid": "56025",
+	"pname": "KVMS Pro",
+	"pcpe": "cpe:/a:misc:cp_plus_kvms_pro"
 }

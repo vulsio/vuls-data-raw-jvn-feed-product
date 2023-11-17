@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "42081",
-  "pname": "JBoss KeyCloak",
-  "pcpe": "cpe:/a:redhat:jboss_keycloak"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "42081",
+	"pname": "JBoss KeyCloak",
+	"pcpe": "cpe:/a:redhat:jboss_keycloak"
 }

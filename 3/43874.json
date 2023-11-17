@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "43874",
-  "pname": "Jboss Web Services",
-  "pcpe": "cpe:/a:redhat:jboss_web_services"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "43874",
+	"pname": "Jboss Web Services",
+	"pcpe": "cpe:/a:redhat:jboss_web_services"
 }

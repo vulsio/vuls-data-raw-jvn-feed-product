@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "29582",
-  "pname": "TIBCO JasperReports Server for ActiveMatrix BPM",
-  "pcpe": "cpe:/a:tibco:jasperreports_server_for_activematrix_bpm"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "29582",
+	"pname": "TIBCO JasperReports Server for ActiveMatrix BPM",
+	"pcpe": "cpe:/a:tibco:jasperreports_server_for_activematrix_bpm"
 }

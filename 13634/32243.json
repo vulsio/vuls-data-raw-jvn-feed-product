@@ -1,8 +1,8 @@
 {
-  "vid": "13634",
-  "vname": "NetGain Systems",
-  "vcpe": "cpe:/:netgain-systems",
-  "pid": "32243",
-  "pname": "Enterprise Manager",
-  "pcpe": "cpe:/a:netgain-systems:enterprise_manager"
+	"vid": "13634",
+	"vname": "NetGain Systems",
+	"vcpe": "cpe:/:netgain-systems",
+	"pid": "32243",
+	"pname": "Enterprise Manager",
+	"pcpe": "cpe:/a:netgain-systems:enterprise_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5458",
-  "vname": "mamboxchange",
-  "vcpe": "cpe:/:mamboxchange",
-  "pid": "11239",
-  "pname": "serverstat component",
-  "pcpe": "cpe:/a:mamboxchange:serverstat_component"
+	"vid": "5458",
+	"vname": "mamboxchange",
+	"vcpe": "cpe:/:mamboxchange",
+	"pid": "11239",
+	"pname": "serverstat component",
+	"pcpe": "cpe:/a:mamboxchange:serverstat_component"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6641",
-  "vname": "GEGL",
-  "vcpe": "cpe:/:gegl",
-  "pid": "13315",
-  "pname": "GEGL",
-  "pcpe": "cpe:/a:gegl:gegl"
+	"vid": "6641",
+	"vname": "GEGL",
+	"vcpe": "cpe:/:gegl",
+	"pid": "13315",
+	"pname": "GEGL",
+	"pcpe": "cpe:/a:gegl:gegl"
 }

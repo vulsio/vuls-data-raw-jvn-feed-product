@@ -1,8 +1,8 @@
 {
-  "vid": "6551",
-  "vname": "ShenZhen Foscam Intelligent Technology",
-  "vcpe": "cpe:/:foscam",
-  "pid": "20102",
-  "pname": "Foscam IP Camera ファームウェア",
-  "pcpe": "cpe:/o:foscam:ip_camera_firmware"
+	"vid": "6551",
+	"vname": "ShenZhen Foscam Intelligent Technology",
+	"vcpe": "cpe:/:foscam",
+	"pid": "20102",
+	"pname": "Foscam IP Camera ファームウェア",
+	"pcpe": "cpe:/o:foscam:ip_camera_firmware"
 }

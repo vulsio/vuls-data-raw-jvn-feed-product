@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "41823",
-  "pname": "Nicobar ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:nicobar_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "41823",
+	"pname": "Nicobar ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:nicobar_firmware"
 }

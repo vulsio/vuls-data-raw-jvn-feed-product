@@ -1,8 +1,8 @@
 {
-  "vid": "8873",
-  "vname": "Verizon",
-  "vcpe": "cpe:/:verizon",
-  "pid": "17009",
-  "pname": "FIOS Actiontec MI424WR-GEN3I ファームウェア",
-  "pcpe": "cpe:/o:verizon:fios_actiontec_mi424wr-gen31_router_firmware"
+	"vid": "8873",
+	"vname": "Verizon",
+	"vcpe": "cpe:/:verizon",
+	"pid": "17009",
+	"pname": "FIOS Actiontec MI424WR-GEN3I ファームウェア",
+	"pcpe": "cpe:/o:verizon:fios_actiontec_mi424wr-gen31_router_firmware"
 }

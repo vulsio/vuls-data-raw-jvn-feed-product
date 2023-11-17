@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "23960",
-  "pname": "Archer C9",
-  "pcpe": "cpe:/h:tp-link:archer_c9"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "23960",
+	"pname": "Archer C9",
+	"pcpe": "cpe:/h:tp-link:archer_c9"
 }

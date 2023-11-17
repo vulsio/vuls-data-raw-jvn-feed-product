@@ -1,8 +1,8 @@
 {
-  "vid": "19077",
-  "vname": "twitter-stream",
-  "vcpe": "cpe:/:twitter-stream_project",
-  "pid": "47868",
-  "pname": "twitter-stream",
-  "pcpe": "cpe:/a:twitter-stream_project:twitter-stream"
+	"vid": "19077",
+	"vname": "twitter-stream",
+	"vcpe": "cpe:/:twitter-stream_project",
+	"pid": "47868",
+	"pname": "twitter-stream",
+	"pcpe": "cpe:/a:twitter-stream_project:twitter-stream"
 }

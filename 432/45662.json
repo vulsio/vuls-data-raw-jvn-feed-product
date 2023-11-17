@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "45662",
-  "pname": "IRC5 ファームウェア",
-  "pcpe": "cpe:/o:abb:irc5_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "45662",
+	"pname": "IRC5 ファームウェア",
+	"pcpe": "cpe:/o:abb:irc5_firmware"
 }

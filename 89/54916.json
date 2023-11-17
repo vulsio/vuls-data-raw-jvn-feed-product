@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "54916",
-  "pname": "IX ルータ",
-  "pcpe": "cpe:/o:nec:ix_router"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "54916",
+	"pname": "IX ルータ",
+	"pcpe": "cpe:/o:nec:ix_router"
 }

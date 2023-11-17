@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "28928",
-  "pname": "PeopleSoft Enterprise SCM eBill Payment",
-  "pcpe": "cpe:/a:oracle:peoplesoft_enterprise_scm_ebill_payment"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "28928",
+	"pname": "PeopleSoft Enterprise SCM eBill Payment",
+	"pcpe": "cpe:/a:oracle:peoplesoft_enterprise_scm_ebill_payment"
 }

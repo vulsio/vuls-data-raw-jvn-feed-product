@@ -1,8 +1,8 @@
 {
-  "vid": "1791",
-  "vname": "zeacom",
-  "vcpe": "cpe:/:zeacom",
-  "pid": "4924",
-  "pname": "chat server",
-  "pcpe": "cpe:/a:zeacom:chat_server"
+	"vid": "1791",
+	"vname": "zeacom",
+	"vcpe": "cpe:/:zeacom",
+	"pid": "4924",
+	"pname": "chat server",
+	"pcpe": "cpe:/a:zeacom:chat_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13600",
-  "vname": "NAVER Corp.",
-  "vcpe": "cpe:/:navercorp",
-  "pid": "41983",
-  "pname": "Vaccine",
-  "pcpe": "cpe:/a:navercorp:vaccine"
+	"vid": "13600",
+	"vname": "NAVER Corp.",
+	"vcpe": "cpe:/:navercorp",
+	"pid": "41983",
+	"pname": "Vaccine",
+	"pcpe": "cpe:/a:navercorp:vaccine"
 }

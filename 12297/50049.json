@@ -1,8 +1,8 @@
 {
-  "vid": "12297",
-  "vname": "WooCommerce project",
-  "vcpe": "cpe:/:woocommerce",
-  "pid": "50049",
-  "pname": "WooCommerce Upload Files",
-  "pcpe": "cpe:/a:woocommerce:upload_files"
+	"vid": "12297",
+	"vname": "WooCommerce project",
+	"vcpe": "cpe:/:woocommerce",
+	"pid": "50049",
+	"pname": "WooCommerce Upload Files",
+	"pcpe": "cpe:/a:woocommerce:upload_files"
 }

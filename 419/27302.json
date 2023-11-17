@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "27302",
-  "pname": "NetApp Plug-in",
-  "pcpe": "cpe:/a:netapp:netapp_plug-in"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "27302",
+	"pname": "NetApp Plug-in",
+	"pcpe": "cpe:/a:netapp:netapp_plug-in"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16247",
-  "vname": "Reolink Digital Technology",
-  "vcpe": "cpe:/:reolink",
-  "pid": "38217",
-  "pname": "C2_PRO ファームウェア",
-  "pcpe": "cpe:/o:reolink:c2_pro_firmware"
+	"vid": "16247",
+	"vname": "Reolink Digital Technology",
+	"vcpe": "cpe:/:reolink",
+	"pid": "38217",
+	"pname": "C2_PRO ファームウェア",
+	"pcpe": "cpe:/o:reolink:c2_pro_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "38304",
-  "pname": "ColorQube 9302 ファームウェア",
-  "pcpe": "cpe:/o:xerox:colorqube_9302_firmware"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "38304",
+	"pname": "ColorQube 9302 ファームウェア",
+	"pcpe": "cpe:/o:xerox:colorqube_9302_firmware"
 }

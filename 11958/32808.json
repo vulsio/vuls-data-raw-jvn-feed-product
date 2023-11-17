@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "32808",
-  "pname": "CX-Protocol",
-  "pcpe": "cpe:/a:omron:cx-protocol"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "32808",
+	"pname": "CX-Protocol",
+	"pcpe": "cpe:/a:omron:cx-protocol"
 }

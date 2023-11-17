@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "52178",
-  "pname": "Dell EMC PowerSwitch S4148U-ON",
-  "pcpe": "cpe:/h:dell:emc_powerswitch_s4148u-on"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "52178",
+	"pname": "Dell EMC PowerSwitch S4148U-ON",
+	"pcpe": "cpe:/h:dell:emc_powerswitch_s4148u-on"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "33038",
-  "pname": "Oracle Human Resources",
-  "pcpe": "cpe:/a:oracle:human_resources"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "33038",
+	"pname": "Oracle Human Resources",
+	"pcpe": "cpe:/a:oracle:human_resources"
 }

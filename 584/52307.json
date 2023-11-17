@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "52307",
-  "pname": "RUGGEDCOM ROS M2200",
-  "pcpe": "cpe:/o:siemens:ruggedcom_ros_m2200"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "52307",
+	"pname": "RUGGEDCOM ROS M2200",
+	"pcpe": "cpe:/o:siemens:ruggedcom_ros_m2200"
 }

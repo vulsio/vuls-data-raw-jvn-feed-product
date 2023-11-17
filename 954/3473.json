@@ -1,8 +1,8 @@
 {
-  "vid": "954",
-  "vname": "TimeTrack",
-  "vcpe": "cpe:/:timetrack",
-  "pid": "3473",
-  "pname": "TimeTrack コンポーネント",
-  "pcpe": "cpe:/a:timetrack:com_timetrack"
+	"vid": "954",
+	"vname": "TimeTrack",
+	"vcpe": "cpe:/:timetrack",
+	"pid": "3473",
+	"pname": "TimeTrack コンポーネント",
+	"pcpe": "cpe:/a:timetrack:com_timetrack"
 }

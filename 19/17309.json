@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17309",
-  "pname": "Cisco TelePresence Supervisor MSE 8050 ソフトウェア",
-  "pcpe": "cpe:/a:cisco:telepresence_supervisor_mse_8050_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17309",
+	"pname": "Cisco TelePresence Supervisor MSE 8050 ソフトウェア",
+	"pcpe": "cpe:/a:cisco:telepresence_supervisor_mse_8050_software"
 }

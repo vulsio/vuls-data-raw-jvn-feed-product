@@ -1,8 +1,8 @@
 {
-  "vid": "16282",
-  "vname": "MediaArea.net SARL",
-  "vcpe": "cpe:/:mediaarea",
-  "pid": "38363",
-  "pname": "MediaInfo",
-  "pcpe": "cpe:/a:mediaarea:mediainfo"
+	"vid": "16282",
+	"vname": "MediaArea.net SARL",
+	"vcpe": "cpe:/:mediaarea",
+	"pid": "38363",
+	"pname": "MediaInfo",
+	"pcpe": "cpe:/a:mediaarea:mediainfo"
 }

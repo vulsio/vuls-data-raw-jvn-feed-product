@@ -1,8 +1,8 @@
 {
-  "vid": "18263",
-  "vname": "SWARCO TRAFFIC SYSTEMS",
-  "vcpe": "cpe:/:swarco",
-  "pid": "44753",
-  "pname": "CPU LS4000",
-  "pcpe": "cpe:/o:swarco:cpu_ls4000_firmware"
+	"vid": "18263",
+	"vname": "SWARCO TRAFFIC SYSTEMS",
+	"vcpe": "cpe:/:swarco",
+	"pid": "44753",
+	"pname": "CPU LS4000",
+	"pcpe": "cpe:/o:swarco:cpu_ls4000_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "23519",
-  "pname": "Samsung Security Manager",
-  "pcpe": "cpe:/a:samsung:samsung_security_manager"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "23519",
+	"pname": "Samsung Security Manager",
+	"pcpe": "cpe:/a:samsung:samsung_security_manager"
 }

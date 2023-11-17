@@ -1,8 +1,8 @@
 {
-  "vid": "9445",
-  "vname": "Enghouse Interactive",
-  "vcpe": "cpe:/:enghouseinteractive",
-  "pid": "38652",
-  "pname": "Contact Center Service Provider",
-  "pcpe": "cpe:/a:enghouseinteractive:contact_center_service_provider"
+	"vid": "9445",
+	"vname": "Enghouse Interactive",
+	"vcpe": "cpe:/:enghouseinteractive",
+	"pid": "38652",
+	"pname": "Contact Center Service Provider",
+	"pcpe": "cpe:/a:enghouseinteractive:contact_center_service_provider"
 }

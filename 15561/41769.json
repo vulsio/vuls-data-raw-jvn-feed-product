@@ -1,8 +1,8 @@
 {
-  "vid": "15561",
-  "vname": "STMicroelectronics",
-  "vcpe": "cpe:/:stmicroelectronics",
-  "pid": "41769",
-  "pname": "ST33TPHF2ESPIQFN ファームウェア",
-  "pcpe": "cpe:/o:stmicroelectronics:st33tphf2espiqfn_firmware"
+	"vid": "15561",
+	"vname": "STMicroelectronics",
+	"vcpe": "cpe:/:stmicroelectronics",
+	"pid": "41769",
+	"pname": "ST33TPHF2ESPIQFN ファームウェア",
+	"pcpe": "cpe:/o:stmicroelectronics:st33tphf2espiqfn_firmware"
 }

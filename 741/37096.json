@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "37096",
-  "pname": "DWR-555 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dwr-555_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "37096",
+	"pname": "DWR-555 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dwr-555_firmware"
 }

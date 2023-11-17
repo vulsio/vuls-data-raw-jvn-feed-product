@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "46759",
-  "pname": "GX Configurator-DP",
-  "pcpe": "cpe:/a:mitsubishielectric:gx_configurator-dp"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "46759",
+	"pname": "GX Configurator-DP",
+	"pcpe": "cpe:/a:mitsubishielectric:gx_configurator-dp"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "53379",
-  "pname": "Polycom VVX 410 ファームウェア",
-  "pcpe": "cpe:/o:polycom:vvx_410_firmware"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "53379",
+	"pname": "Polycom VVX 410 ファームウェア",
+	"pcpe": "cpe:/o:polycom:vvx_410_firmware"
 }

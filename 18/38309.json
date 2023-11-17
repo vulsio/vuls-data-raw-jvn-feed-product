@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "38309",
-  "pname": "IBM BigFix WebUI Profile Management",
-  "pcpe": "cpe:/a:ibm:bigfix_webui_profile_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "38309",
+	"pname": "IBM BigFix WebUI Profile Management",
+	"pcpe": "cpe:/a:ibm:bigfix_webui_profile_management"
 }

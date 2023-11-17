@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "18119",
-  "pname": "Red Hat Enterprise MRG",
-  "pcpe": "cpe:/a:redhat:enterprise_mrg"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "18119",
+	"pname": "Red Hat Enterprise MRG",
+	"pcpe": "cpe:/a:redhat:enterprise_mrg"
 }

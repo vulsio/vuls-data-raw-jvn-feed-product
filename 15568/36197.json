@@ -1,8 +1,8 @@
 {
-  "vid": "15568",
-  "vname": "wp-db-backup project",
-  "vcpe": "cpe:/:wp-db-backup_project",
-  "pid": "36197",
-  "pname": "WP-DB-Backup",
-  "pcpe": "cpe:/a:wp-db-backup_project:wp-db-backup"
+	"vid": "15568",
+	"vname": "wp-db-backup project",
+	"vcpe": "cpe:/:wp-db-backup_project",
+	"pid": "36197",
+	"pname": "WP-DB-Backup",
+	"pcpe": "cpe:/a:wp-db-backup_project:wp-db-backup"
 }

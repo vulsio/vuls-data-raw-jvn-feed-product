@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "21527",
-  "pname": "EA6400",
-  "pcpe": "cpe:/h:linksys:ea6400"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "21527",
+	"pname": "EA6400",
+	"pcpe": "cpe:/h:linksys:ea6400"
 }

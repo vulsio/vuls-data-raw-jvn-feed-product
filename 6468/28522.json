@@ -1,8 +1,8 @@
 {
-  "vid": "6468",
-  "vname": "Koninklijke Philips N.V.",
-  "vcpe": "cpe:/:philips_electronics",
-  "pid": "28522",
-  "pname": "Smart Control Premium",
-  "pcpe": "cpe:/a:philips_electronics:smart_control_premium"
+	"vid": "6468",
+	"vname": "Koninklijke Philips N.V.",
+	"vcpe": "cpe:/:philips_electronics",
+	"pid": "28522",
+	"pname": "Smart Control Premium",
+	"pcpe": "cpe:/a:philips_electronics:smart_control_premium"
 }

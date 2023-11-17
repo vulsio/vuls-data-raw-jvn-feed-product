@@ -1,8 +1,8 @@
 {
-  "vid": "11264",
-  "vname": "awesomeseating",
-  "vcpe": "cpe:/:awesomeseating",
-  "pid": "22946",
-  "pname": "buy tickets",
-  "pcpe": "cpe:/a:awesomeseating:buy_tickets"
+	"vid": "11264",
+	"vname": "awesomeseating",
+	"vcpe": "cpe:/:awesomeseating",
+	"pid": "22946",
+	"pname": "buy tickets",
+	"pcpe": "cpe:/a:awesomeseating:buy_tickets"
 }

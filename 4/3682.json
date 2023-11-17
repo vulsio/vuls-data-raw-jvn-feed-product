@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3682",
-  "pname": "HP P2000 G3 MSA Fibre Channel Dual Controller SFF Array System",
-  "pcpe": "cpe:/h:hp:storageworks_p2000_g3_msa_fibre_channel_dual_controller_sff_array_system"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3682",
+	"pname": "HP P2000 G3 MSA Fibre Channel Dual Controller SFF Array System",
+	"pcpe": "cpe:/h:hp:storageworks_p2000_g3_msa_fibre_channel_dual_controller_sff_array_system"
 }

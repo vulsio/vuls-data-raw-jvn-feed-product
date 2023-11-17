@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "29606",
-  "pname": "Microsoft Business Productivity Servers",
-  "pcpe": "cpe:/a:microsoft:business_productivity_servers"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "29606",
+	"pname": "Microsoft Business Productivity Servers",
+	"pcpe": "cpe:/a:microsoft:business_productivity_servers"
 }

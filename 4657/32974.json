@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "32974",
-  "pname": "EVA-TL00 ファームウェア",
-  "pcpe": "cpe:/o:huawei:eva-tl00_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "32974",
+	"pname": "EVA-TL00 ファームウェア",
+	"pcpe": "cpe:/o:huawei:eva-tl00_firmware"
 }

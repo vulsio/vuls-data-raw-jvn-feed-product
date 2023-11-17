@@ -1,8 +1,8 @@
 {
-  "vid": "13981",
-  "vname": "ubiQuoss",
-  "vcpe": "cpe:/:ubiquoss",
-  "pid": "33288",
-  "pname": "Switch VP5208A ファームウェア",
-  "pcpe": "cpe:/o:ubiquoss:vp5208a_firmware"
+	"vid": "13981",
+	"vname": "ubiQuoss",
+	"vcpe": "cpe:/:ubiquoss",
+	"pid": "33288",
+	"pname": "Switch VP5208A ファームウェア",
+	"pcpe": "cpe:/o:ubiquoss:vp5208a_firmware"
 }

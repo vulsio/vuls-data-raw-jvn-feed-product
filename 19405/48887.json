@@ -1,8 +1,8 @@
 {
-  "vid": "19405",
-  "vname": "predefine project",
-  "vcpe": "cpe:/:predefine_project",
-  "pid": "48887",
-  "pname": "predefine",
-  "pcpe": "cpe:/a:predefine_project:predefine"
+	"vid": "19405",
+	"vname": "predefine project",
+	"vcpe": "cpe:/:predefine_project",
+	"pid": "48887",
+	"pname": "predefine",
+	"pcpe": "cpe:/a:predefine_project:predefine"
 }

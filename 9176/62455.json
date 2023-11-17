@@ -1,8 +1,8 @@
 {
-  "vid": "9176",
-  "vname": "DrayTek Corporation",
-  "vcpe": "cpe:/:draytek",
-  "pid": "62455",
-  "pname": "vigor3220 ファームウェア",
-  "pcpe": "cpe:/o:draytek:vigor3220_firmware"
+	"vid": "9176",
+	"vname": "DrayTek Corporation",
+	"vcpe": "cpe:/:draytek",
+	"pid": "62455",
+	"pname": "vigor3220 ファームウェア",
+	"pcpe": "cpe:/o:draytek:vigor3220_firmware"
 }

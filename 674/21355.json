@@ -1,8 +1,8 @@
 {
-  "vid": "674",
-  "vname": "ブロケード コミュニケーションズ システムズ株式会社",
-  "vcpe": "cpe:/:brocade",
-  "pid": "21355",
-  "pname": "Brocade Vyatta 5400 vRouter ソフトウェア",
-  "pcpe": "cpe:/a:brocade:vyatta_5400_vrouter_software"
+	"vid": "674",
+	"vname": "ブロケード コミュニケーションズ システムズ株式会社",
+	"vcpe": "cpe:/:brocade",
+	"pid": "21355",
+	"pname": "Brocade Vyatta 5400 vRouter ソフトウェア",
+	"pcpe": "cpe:/a:brocade:vyatta_5400_vrouter_software"
 }

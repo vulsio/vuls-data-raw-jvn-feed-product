@@ -1,8 +1,8 @@
 {
-  "vid": "13863",
-  "vname": "SO Connect",
-  "vcpe": "cpe:/:sowifi",
-  "pid": "32920",
-  "pname": "SO WIFI ファームウェア",
-  "pcpe": "cpe:/o:sowifi:connect_so_wifi_hotspot_firmware"
+	"vid": "13863",
+	"vname": "SO Connect",
+	"vcpe": "cpe:/:sowifi",
+	"pid": "32920",
+	"pname": "SO WIFI ファームウェア",
+	"pcpe": "cpe:/o:sowifi:connect_so_wifi_hotspot_firmware"
 }

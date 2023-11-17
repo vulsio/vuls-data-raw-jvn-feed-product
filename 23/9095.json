@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "9095",
-  "pname": "Symantec Backup Exec System Recovery",
-  "pcpe": "cpe:/a:symantec:backupexec_system_recovery"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "9095",
+	"pname": "Symantec Backup Exec System Recovery",
+	"pcpe": "cpe:/a:symantec:backupexec_system_recovery"
 }

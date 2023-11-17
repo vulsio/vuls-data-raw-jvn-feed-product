@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "43729",
-  "pname": "X954 ファームウェア",
-  "pcpe": "cpe:/o:lexmark:x954_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "43729",
+	"pname": "X954 ファームウェア",
+	"pcpe": "cpe:/o:lexmark:x954_firmware"
 }

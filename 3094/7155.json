@@ -1,8 +1,8 @@
 {
-  "vid": "3094",
-  "vname": "databay",
-  "vcpe": "cpe:/:databay",
-  "pid": "7155",
-  "pname": "maxcms",
-  "pcpe": "cpe:/a:databay:maxcms"
+	"vid": "3094",
+	"vname": "databay",
+	"vcpe": "cpe:/:databay",
+	"pid": "7155",
+	"pname": "maxcms",
+	"pcpe": "cpe:/a:databay:maxcms"
 }

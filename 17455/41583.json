@@ -1,8 +1,8 @@
 {
-  "vid": "17455",
-  "vname": "termpkg project",
-  "vcpe": "cpe:/:termpkg_project",
-  "pid": "41583",
-  "pname": "termpkg",
-  "pcpe": "cpe:/a:termpkg_project:termpkg"
+	"vid": "17455",
+	"vname": "termpkg project",
+	"vcpe": "cpe:/:termpkg_project",
+	"pid": "41583",
+	"pname": "termpkg",
+	"pcpe": "cpe:/a:termpkg_project:termpkg"
 }

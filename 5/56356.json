@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "56356",
-  "pname": "QCN9074 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qcn9074_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "56356",
+	"pname": "QCN9074 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qcn9074_firmware"
 }

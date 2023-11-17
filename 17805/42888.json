@@ -1,8 +1,8 @@
 {
-  "vid": "17805",
-  "vname": "Schema-Inspector project",
-  "vcpe": "cpe:/:schema-inspector_project",
-  "pid": "42888",
-  "pname": "Schema-Inspector",
-  "pcpe": "cpe:/a:schema-inspector_project:schema-inspector"
+	"vid": "17805",
+	"vname": "Schema-Inspector project",
+	"vcpe": "cpe:/:schema-inspector_project",
+	"pid": "42888",
+	"pname": "Schema-Inspector",
+	"pcpe": "cpe:/a:schema-inspector_project:schema-inspector"
 }

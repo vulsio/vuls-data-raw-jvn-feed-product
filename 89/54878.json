@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "54878",
-  "pname": "IoT 共通基盤",
-  "pcpe": "cpe:/a:nec:iot_common_base"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "54878",
+	"pname": "IoT 共通基盤",
+	"pcpe": "cpe:/a:nec:iot_common_base"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "255",
-  "vname": "キヤノン",
-  "vcpe": "cpe:/:canon",
-  "pid": "17606",
-  "pname": "PIXUS MG6130",
-  "pcpe": "cpe:/h:canon:mg6100_printer"
+	"vid": "255",
+	"vname": "キヤノン",
+	"vcpe": "cpe:/:canon",
+	"pid": "17606",
+	"pname": "PIXUS MG6130",
+	"pcpe": "cpe:/h:canon:mg6100_printer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18189",
-  "vname": "UI",
-  "vcpe": "cpe:/:ui",
-  "pid": "61687",
-  "pname": "USG ファームウェア",
-  "pcpe": "cpe:/o:ui:usg_firmware"
+	"vid": "18189",
+	"vname": "UI",
+	"vcpe": "cpe:/:ui",
+	"pid": "61687",
+	"pname": "USG ファームウェア",
+	"pcpe": "cpe:/o:ui:usg_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "258",
-  "vname": "GNOME Project",
-  "vcpe": "cpe:/:gnome",
-  "pid": "27109",
-  "pname": "Shotwell",
-  "pcpe": "cpe:/a:gnome:shotwell"
+	"vid": "258",
+	"vname": "GNOME Project",
+	"vcpe": "cpe:/:gnome",
+	"pid": "27109",
+	"pname": "Shotwell",
+	"pcpe": "cpe:/a:gnome:shotwell"
 }

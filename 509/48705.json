@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "48705",
-  "pname": "Manufacturing Execution",
-  "pcpe": "cpe:/a:sap:manufacturing_execution"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "48705",
+	"pname": "Manufacturing Execution",
+	"pcpe": "cpe:/a:sap:manufacturing_execution"
 }

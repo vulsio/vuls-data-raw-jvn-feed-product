@@ -1,8 +1,8 @@
 {
-  "vid": "18819",
-  "vname": "日立エナジー (旧 日立ABBパワーグリッド)",
-  "vcpe": "cpe:/:hitachi_abb_power_grids",
-  "pid": "55144",
-  "pname": "Lumada APM",
-  "pcpe": "cpe:/a:hitachi_abb_power_grids:lumada_apm"
+	"vid": "18819",
+	"vname": "日立エナジー (旧 日立ABBパワーグリッド)",
+	"vcpe": "cpe:/:hitachi_abb_power_grids",
+	"pid": "55144",
+	"pname": "Lumada APM",
+	"pcpe": "cpe:/a:hitachi_abb_power_grids:lumada_apm"
 }

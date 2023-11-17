@@ -1,8 +1,8 @@
 {
-  "vid": "24544",
-  "vname": "wijungle",
-  "vcpe": "cpe:/:wijungle",
-  "pid": "63536",
-  "pname": "u250 ファームウェア",
-  "pcpe": "cpe:/o:wijungle:u250_firmware"
+	"vid": "24544",
+	"vname": "wijungle",
+	"vcpe": "cpe:/:wijungle",
+	"pid": "63536",
+	"pname": "u250 ファームウェア",
+	"pcpe": "cpe:/o:wijungle:u250_firmware"
 }

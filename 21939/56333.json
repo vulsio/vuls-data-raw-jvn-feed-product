@@ -1,8 +1,8 @@
 {
-  "vid": "21939",
-  "vname": "Wicked Plugins",
-  "vcpe": "cpe:/:wickedplugins",
-  "pid": "56333",
-  "pname": "Wicked Folders",
-  "pcpe": "cpe:/a:wickedplugins:wicked_folders"
+	"vid": "21939",
+	"vname": "Wicked Plugins",
+	"vcpe": "cpe:/:wickedplugins",
+	"pid": "56333",
+	"pname": "Wicked Folders",
+	"pcpe": "cpe:/a:wickedplugins:wicked_folders"
 }

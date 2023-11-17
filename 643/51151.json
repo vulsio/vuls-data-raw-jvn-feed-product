@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "51151",
-  "pname": "Dell PowerEdge XR2 ファームウェア",
-  "pcpe": "cpe:/o:dell:poweredge_xr2_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "51151",
+	"pname": "Dell PowerEdge XR2 ファームウェア",
+	"pcpe": "cpe:/o:dell:poweredge_xr2_firmware"
 }

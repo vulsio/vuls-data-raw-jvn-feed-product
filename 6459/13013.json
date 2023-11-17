@@ -1,8 +1,8 @@
 {
-  "vid": "6459",
-  "vname": "MikroTik",
-  "vcpe": "cpe:/:microtik",
-  "pid": "13013",
-  "pname": "RouterOs",
-  "pcpe": "cpe:/o:microtik:routeros"
+	"vid": "6459",
+	"vname": "MikroTik",
+	"vcpe": "cpe:/:microtik",
+	"pid": "13013",
+	"pname": "RouterOs",
+	"pcpe": "cpe:/o:microtik:routeros"
 }

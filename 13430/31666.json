@@ -1,8 +1,8 @@
 {
-  "vid": "13430",
-  "vname": "Artica Tech",
-  "vcpe": "cpe:/:articatech",
-  "pid": "31666",
-  "pname": "Artica Web Proxy",
-  "pcpe": "cpe:/a:articatech:artica_proxy"
+	"vid": "13430",
+	"vname": "Artica Tech",
+	"vcpe": "cpe:/:articatech",
+	"pid": "31666",
+	"pname": "Artica Web Proxy",
+	"pcpe": "cpe:/a:articatech:artica_proxy"
 }

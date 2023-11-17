@@ -1,8 +1,8 @@
 {
-  "vid": "9898",
-  "vname": "Elasticsearch",
-  "vcpe": "cpe:/:elasticsearch",
-  "pid": "30789",
-  "pname": "Elastic Cloud Enterprise",
-  "pcpe": "cpe:/a:elasticsearch:cloud_enterprise"
+	"vid": "9898",
+	"vname": "Elasticsearch",
+	"vcpe": "cpe:/:elasticsearch",
+	"pid": "30789",
+	"pname": "Elastic Cloud Enterprise",
+	"pcpe": "cpe:/a:elasticsearch:cloud_enterprise"
 }

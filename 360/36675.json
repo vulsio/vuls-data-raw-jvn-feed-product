@@ -1,8 +1,8 @@
 {
-  "vid": "360",
-  "vname": "Ruby on Rails project",
-  "vcpe": "cpe:/:rubyonrails",
-  "pid": "36675",
-  "pname": "Active Job",
-  "pcpe": "cpe:/a:rubyonrails:active_job"
+	"vid": "360",
+	"vname": "Ruby on Rails project",
+	"vcpe": "cpe:/:rubyonrails",
+	"pid": "36675",
+	"pname": "Active Job",
+	"pcpe": "cpe:/a:rubyonrails:active_job"
 }

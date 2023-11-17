@@ -1,8 +1,8 @@
 {
-  "vid": "8838",
-  "vname": "Marinet",
-  "vcpe": "cpe:/:marinet",
-  "pid": "16880",
-  "pname": "Marinet CMS",
-  "pcpe": "cpe:/a:marinet:marinet_cms"
+	"vid": "8838",
+	"vname": "Marinet",
+	"vcpe": "cpe:/:marinet",
+	"pid": "16880",
+	"pname": "Marinet CMS",
+	"pcpe": "cpe:/a:marinet:marinet_cms"
 }

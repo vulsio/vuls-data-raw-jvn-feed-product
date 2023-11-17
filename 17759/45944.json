@@ -1,8 +1,8 @@
 {
-  "vid": "17759",
-  "vname": "Teradici",
-  "vcpe": "cpe:/:teradici",
-  "pid": "45944",
-  "pname": "Management Console",
-  "pcpe": "cpe:/a:teradici:managament_console"
+	"vid": "17759",
+	"vname": "Teradici",
+	"vcpe": "cpe:/:teradici",
+	"pid": "45944",
+	"pname": "Management Console",
+	"pcpe": "cpe:/a:teradici:managament_console"
 }

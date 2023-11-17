@@ -1,8 +1,8 @@
 {
-  "vid": "6702",
-  "vname": "audacious media player team",
-  "vcpe": "cpe:/:audacious_media_player_team",
-  "pid": "13459",
-  "pname": "adplug",
-  "pcpe": "cpe:/a:audacious_media_player_team:adplug"
+	"vid": "6702",
+	"vname": "audacious media player team",
+	"vcpe": "cpe:/:audacious_media_player_team",
+	"pid": "13459",
+	"pname": "adplug",
+	"pcpe": "cpe:/a:audacious_media_player_team:adplug"
 }

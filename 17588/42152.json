@@ -1,8 +1,8 @@
 {
-  "vid": "17588",
-  "vname": "Lab Digital",
-  "vcpe": "cpe:/:labdigital",
-  "pid": "42152",
-  "pname": "wagtail-2fa",
-  "pcpe": "cpe:/a:labdigital:wagtail-2fa"
+	"vid": "17588",
+	"vname": "Lab Digital",
+	"vcpe": "cpe:/:labdigital",
+	"pid": "42152",
+	"pname": "wagtail-2fa",
+	"pcpe": "cpe:/a:labdigital:wagtail-2fa"
 }

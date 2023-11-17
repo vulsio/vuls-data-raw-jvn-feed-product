@@ -1,8 +1,8 @@
 {
-  "vid": "5640",
-  "vname": "MicroWorld Technologies Inc.",
-  "vcpe": "cpe:/:microworld_technologies",
-  "pid": "11547",
-  "pname": "escan management console",
-  "pcpe": "cpe:/a:microworld_technologies:escan_management_console"
+	"vid": "5640",
+	"vname": "MicroWorld Technologies Inc.",
+	"vcpe": "cpe:/:microworld_technologies",
+	"pid": "11547",
+	"pname": "escan management console",
+	"pcpe": "cpe:/a:microworld_technologies:escan_management_console"
 }

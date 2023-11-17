@@ -1,8 +1,8 @@
 {
-  "vid": "20528",
-  "vname": "Altus",
-  "vcpe": "cpe:/:altus",
-  "pid": "52266",
-  "pname": "Nexto Xpress XP315 ファームウェア",
-  "pcpe": "cpe:/o:altus:nexto_xpress_xp315_firmware"
+	"vid": "20528",
+	"vname": "Altus",
+	"vcpe": "cpe:/:altus",
+	"pid": "52266",
+	"pname": "Nexto Xpress XP315 ファームウェア",
+	"pcpe": "cpe:/o:altus:nexto_xpress_xp315_firmware"
 }

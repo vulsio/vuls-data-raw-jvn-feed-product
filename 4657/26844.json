@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26844",
-  "pname": "CH222 V3 ファームウェア",
-  "pcpe": "cpe:/o:huawei:ch222_v3_server_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26844",
+	"pname": "CH222 V3 ファームウェア",
+	"pcpe": "cpe:/o:huawei:ch222_v3_server_firmware"
 }

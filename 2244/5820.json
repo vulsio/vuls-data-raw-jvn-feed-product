@@ -1,8 +1,8 @@
 {
-  "vid": "2244",
-  "vname": "anti-spam smtp proxy",
-  "vcpe": "cpe:/:anti-spam_smtp_proxy",
-  "pid": "5820",
-  "pname": "server",
-  "pcpe": "cpe:/a:anti-spam_smtp_proxy:server"
+	"vid": "2244",
+	"vname": "anti-spam smtp proxy",
+	"vcpe": "cpe:/:anti-spam_smtp_proxy",
+	"pid": "5820",
+	"pname": "server",
+	"pcpe": "cpe:/a:anti-spam_smtp_proxy:server"
 }

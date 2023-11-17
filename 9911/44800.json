@@ -1,8 +1,8 @@
 {
-  "vid": "9911",
-  "vname": "Silver Peak",
-  "vcpe": "cpe:/:silver-peak",
-  "pid": "44800",
-  "pname": "VX-1000 ファームウェア",
-  "pcpe": "cpe:/o:silver-peak:vx-1000_firmware"
+	"vid": "9911",
+	"vname": "Silver Peak",
+	"vcpe": "cpe:/:silver-peak",
+	"pid": "44800",
+	"pname": "VX-1000 ファームウェア",
+	"pcpe": "cpe:/o:silver-peak:vx-1000_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12909",
-  "vname": "Asuswrt-Merlin firmware project",
-  "vcpe": "cpe:/:asuswrt-merlin_project",
-  "pid": "30211",
-  "pname": "Asuswrt-Merlin ファームウェア",
-  "pcpe": "cpe:/o:asuswrt-merlin_project:asuswrt-merlin"
+	"vid": "12909",
+	"vname": "Asuswrt-Merlin firmware project",
+	"vcpe": "cpe:/:asuswrt-merlin_project",
+	"pid": "30211",
+	"pname": "Asuswrt-Merlin ファームウェア",
+	"pcpe": "cpe:/o:asuswrt-merlin_project:asuswrt-merlin"
 }

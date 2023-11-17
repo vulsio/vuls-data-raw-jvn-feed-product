@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58983",
-  "pname": "a540-24icb ファームウェア",
-  "pcpe": "cpe:/o:lenovo:a540-24icb_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58983",
+	"pname": "a540-24icb ファームウェア",
+	"pcpe": "cpe:/o:lenovo:a540-24icb_firmware"
 }

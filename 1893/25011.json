@@ -1,8 +1,8 @@
 {
-  "vid": "1893",
-  "vname": "Sensio Labs",
-  "vcpe": "cpe:/:sensiolabs",
-  "pid": "25011",
-  "pname": "Twig",
-  "pcpe": "cpe:/a:sensiolabs:twig"
+	"vid": "1893",
+	"vname": "Sensio Labs",
+	"vcpe": "cpe:/:sensiolabs",
+	"pid": "25011",
+	"pname": "Twig",
+	"pcpe": "cpe:/a:sensiolabs:twig"
 }

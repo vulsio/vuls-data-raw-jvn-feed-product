@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "20431",
-  "pname": "HP Release Control",
-  "pcpe": "cpe:/a:hp:release_control"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "20431",
+	"pname": "HP Release Control",
+	"pcpe": "cpe:/a:hp:release_control"
 }

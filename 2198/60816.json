@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "60816",
-  "pname": "athlon x4 760k ファームウェア",
-  "pcpe": "cpe:/o:amd:athlon_x4_760k_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "60816",
+	"pname": "athlon x4 760k ファームウェア",
+	"pcpe": "cpe:/o:amd:athlon_x4_760k_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16085",
-  "vname": "BD Biosciences",
-  "vcpe": "cpe:/:bd",
-  "pid": "44952",
-  "pname": "Alaris PC unit",
-  "pcpe": "cpe:/a:bd:alaris_pc_unit"
+	"vid": "16085",
+	"vname": "BD Biosciences",
+	"vcpe": "cpe:/:bd",
+	"pid": "44952",
+	"pname": "Alaris PC unit",
+	"pcpe": "cpe:/a:bd:alaris_pc_unit"
 }

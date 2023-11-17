@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "44346",
-  "pname": "c-kernel",
-  "pcpe": "cpe:/a:canonical:c-kernel"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "44346",
+	"pname": "c-kernel",
+	"pcpe": "cpe:/a:canonical:c-kernel"
 }

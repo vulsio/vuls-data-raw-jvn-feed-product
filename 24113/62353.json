@@ -1,8 +1,8 @@
 {
-  "vid": "24113",
-  "vname": "Comment License project",
-  "vcpe": "cpe:/:comment_license_project",
-  "pid": "62353",
-  "pname": "Comment License",
-  "pcpe": "cpe:/a:comment_license_project:comment_license"
+	"vid": "24113",
+	"vname": "Comment License project",
+	"vcpe": "cpe:/:comment_license_project",
+	"pid": "62353",
+	"pname": "Comment License",
+	"pcpe": "cpe:/a:comment_license_project:comment_license"
 }

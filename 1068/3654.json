@@ -1,8 +1,8 @@
 {
-  "vid": "1068",
-  "vname": "Textpattern",
-  "vcpe": "cpe:/:textpattern",
-  "pid": "3654",
-  "pname": "Textpattern CMS",
-  "pcpe": "cpe:/a:textpattern:textpattern"
+	"vid": "1068",
+	"vname": "Textpattern",
+	"vcpe": "cpe:/:textpattern",
+	"pid": "3654",
+	"pname": "Textpattern CMS",
+	"pcpe": "cpe:/a:textpattern:textpattern"
 }

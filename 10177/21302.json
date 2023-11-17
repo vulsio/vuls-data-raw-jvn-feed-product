@@ -1,8 +1,8 @@
 {
-  "vid": "10177",
-  "vname": "Flurry",
-  "vcpe": "cpe:/:flurry",
-  "pid": "21302",
-  "pname": "Flurry library",
-  "pcpe": "cpe:/a:flurry:flurry-analytics-android"
+	"vid": "10177",
+	"vname": "Flurry",
+	"vcpe": "cpe:/:flurry",
+	"pid": "21302",
+	"pname": "Flurry library",
+	"pcpe": "cpe:/a:flurry:flurry-analytics-android"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15782",
-  "vname": "sos-collector project",
-  "vcpe": "cpe:/:sos-collector_project",
-  "pid": "36775",
-  "pname": "sos-collector",
-  "pcpe": "cpe:/a:sos-collector_project:sos-collector"
+	"vid": "15782",
+	"vname": "sos-collector project",
+	"vcpe": "cpe:/:sos-collector_project",
+	"pid": "36775",
+	"pname": "sos-collector",
+	"pcpe": "cpe:/a:sos-collector_project:sos-collector"
 }

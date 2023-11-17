@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "53995",
-  "pname": "DIR-868LW ファームウェア",
-  "pcpe": "cpe:/o:dlink:dir-868lw_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "53995",
+	"pname": "DIR-868LW ファームウェア",
+	"pcpe": "cpe:/o:dlink:dir-868lw_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16393",
-  "vname": "Hazelcast, Inc.",
-  "vcpe": "cpe:/:hazelcast",
-  "pid": "38789",
-  "pname": "Hazelcast",
-  "pcpe": "cpe:/a:hazelcast:hazelcast"
+	"vid": "16393",
+	"vname": "Hazelcast, Inc.",
+	"vcpe": "cpe:/:hazelcast",
+	"pid": "38789",
+	"pname": "Hazelcast",
+	"pcpe": "cpe:/a:hazelcast:hazelcast"
 }

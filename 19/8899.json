@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "8899",
-  "pname": "vpn 3000 concentrator",
-  "pcpe": "cpe:/o:cisco:vpn_3000_concentrator"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "8899",
+	"pname": "vpn 3000 concentrator",
+	"pcpe": "cpe:/o:cisco:vpn_3000_concentrator"
 }

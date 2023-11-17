@@ -1,8 +1,8 @@
 {
-  "vid": "12203",
-  "vname": "Nextcloud",
-  "vcpe": "cpe:/:nextcloud",
-  "pid": "45808",
-  "pname": "Preferred Providers",
-  "pcpe": "cpe:/a:nextcloud:preferred_providers"
+	"vid": "12203",
+	"vname": "Nextcloud",
+	"vcpe": "cpe:/:nextcloud",
+	"pid": "45808",
+	"pname": "Preferred Providers",
+	"pcpe": "cpe:/a:nextcloud:preferred_providers"
 }

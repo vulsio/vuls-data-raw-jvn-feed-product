@@ -1,8 +1,8 @@
 {
-  "vid": "18346",
-  "vname": "Project Calico",
-  "vcpe": "cpe:/:projectcalico",
-  "pid": "45024",
-  "pname": "Calico",
-  "pcpe": "cpe:/a:projectcalico:calico"
+	"vid": "18346",
+	"vname": "Project Calico",
+	"vcpe": "cpe:/:projectcalico",
+	"pid": "45024",
+	"pname": "Calico",
+	"pcpe": "cpe:/a:projectcalico:calico"
 }

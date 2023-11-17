@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "35975",
-  "pname": "RICOH SP 4510SF ファームウェア",
-  "pcpe": "cpe:/o:ricoh:sp_4510sf_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "35975",
+	"pname": "RICOH SP 4510SF ファームウェア",
+	"pcpe": "cpe:/o:ricoh:sp_4510sf_firmware"
 }

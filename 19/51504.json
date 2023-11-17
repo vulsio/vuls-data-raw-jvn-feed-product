@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "51504",
-  "pname": "Cisco Business Process Automation",
-  "pcpe": "cpe:/a:cisco:business_process_automation"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "51504",
+	"pname": "Cisco Business Process Automation",
+	"pcpe": "cpe:/a:cisco:business_process_automation"
 }

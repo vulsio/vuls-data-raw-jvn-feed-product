@@ -1,8 +1,8 @@
 {
-  "vid": "1925",
-  "vname": "Simple Web Content Management System",
-  "vcpe": "cpe:/:cms-center",
-  "pid": "5324",
-  "pname": "Simple Web Content Management System",
-  "pcpe": "cpe:/a:cms-center:simple_web_content_management_system"
+	"vid": "1925",
+	"vname": "Simple Web Content Management System",
+	"vcpe": "cpe:/:cms-center",
+	"pid": "5324",
+	"pname": "Simple Web Content Management System",
+	"pcpe": "cpe:/a:cms-center:simple_web_content_management_system"
 }

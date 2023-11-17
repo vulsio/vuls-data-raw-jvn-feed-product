@@ -1,8 +1,8 @@
 {
-  "vid": "9019",
-  "vname": "Libreswan Project",
-  "vcpe": "cpe:/:libreswan",
-  "pid": "17723",
-  "pname": "Libreswan",
-  "pcpe": "cpe:/a:libreswan:libreswan"
+	"vid": "9019",
+	"vname": "Libreswan Project",
+	"vcpe": "cpe:/:libreswan",
+	"pid": "17723",
+	"pname": "Libreswan",
+	"pcpe": "cpe:/a:libreswan:libreswan"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1151",
-  "vname": "Optimixely Inc. (旧 EPiServer)",
-  "vcpe": "cpe:/:episerver",
-  "pid": "48409",
-  "pname": "Episerver Find",
-  "pcpe": "cpe:/a:episerver:find"
+	"vid": "1151",
+	"vname": "Optimixely Inc. (旧 EPiServer)",
+	"vcpe": "cpe:/:episerver",
+	"pid": "48409",
+	"pname": "Episerver Find",
+	"pcpe": "cpe:/a:episerver:find"
 }

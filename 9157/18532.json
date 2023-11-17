@@ -1,8 +1,8 @@
 {
-  "vid": "9157",
-  "vname": "polkit project",
-  "vcpe": "cpe:/:polkit_project",
-  "pid": "18532",
-  "pname": "polkit",
-  "pcpe": "cpe:/a:polkit_project:polkit"
+	"vid": "9157",
+	"vname": "polkit project",
+	"vcpe": "cpe:/:polkit_project",
+	"pid": "18532",
+	"pname": "polkit",
+	"pcpe": "cpe:/a:polkit_project:polkit"
 }

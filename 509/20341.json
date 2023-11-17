@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "20341",
-  "pname": "SAP Supplier Relationship Management",
-  "pcpe": "cpe:/a:sap:supplier_relationship_management"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "20341",
+	"pname": "SAP Supplier Relationship Management",
+	"pcpe": "cpe:/a:sap:supplier_relationship_management"
 }

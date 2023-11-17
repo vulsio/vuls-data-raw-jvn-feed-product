@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30224",
-  "pname": "IdeaCentre 700 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideacentre_700_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30224",
+	"pname": "IdeaCentre 700 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideacentre_700_firmware"
 }

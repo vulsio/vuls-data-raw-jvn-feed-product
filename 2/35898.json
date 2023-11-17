@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "35898",
-  "pname": "Microsoft Windows Server 2019",
-  "pcpe": "cpe:/o:microsoft:windows_server_2019"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "35898",
+	"pname": "Microsoft Windows Server 2019",
+	"pcpe": "cpe:/o:microsoft:windows_server_2019"
 }

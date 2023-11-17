@@ -1,8 +1,8 @@
 {
-  "vid": "217",
-  "vname": "インターネットイニシアティブ",
-  "vcpe": "cpe:/:iij",
-  "pid": "21712",
-  "pname": "SEIL/x86 Fuji",
-  "pcpe": "cpe:/h:iij:seil_x86_fuji"
+	"vid": "217",
+	"vname": "インターネットイニシアティブ",
+	"vcpe": "cpe:/:iij",
+	"pid": "21712",
+	"pname": "SEIL/x86 Fuji",
+	"pcpe": "cpe:/h:iij:seil_x86_fuji"
 }

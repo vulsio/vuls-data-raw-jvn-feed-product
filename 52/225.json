@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "225",
-  "pname": "Apple Mac OS X Server",
-  "pcpe": "cpe:/o:apple:mac_os_x_server"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "225",
+	"pname": "Apple Mac OS X Server",
+	"pcpe": "cpe:/o:apple:mac_os_x_server"
 }

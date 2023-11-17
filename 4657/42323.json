@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "42323",
-  "pname": "Changxiang 8 Plus ファームウェア",
-  "pcpe": "cpe:/o:huawei:changxiang_8_plus_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "42323",
+	"pname": "Changxiang 8 Plus ファームウェア",
+	"pcpe": "cpe:/o:huawei:changxiang_8_plus_firmware"
 }

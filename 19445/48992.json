@@ -1,8 +1,8 @@
 {
-  "vid": "19445",
-  "vname": "HtmlSanitizer プロジェクト",
-  "vcpe": "cpe:/:htmlsanitizer_project",
-  "pid": "48992",
-  "pname": "HtmlSanitizer",
-  "pcpe": "cpe:/a:htmlsanitizer_project:htmlsanitizer"
+	"vid": "19445",
+	"vname": "HtmlSanitizer プロジェクト",
+	"vcpe": "cpe:/:htmlsanitizer_project",
+	"pid": "48992",
+	"pname": "HtmlSanitizer",
+	"pcpe": "cpe:/a:htmlsanitizer_project:htmlsanitizer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21255",
-  "vname": "Open Knowledge Foundation",
-  "vcpe": "cpe:/:okfn",
-  "pid": "54568",
-  "pname": "CKAN",
-  "pcpe": "cpe:/a:okfn:ckan"
+	"vid": "21255",
+	"vname": "Open Knowledge Foundation",
+	"vcpe": "cpe:/:okfn",
+	"pid": "54568",
+	"pname": "CKAN",
+	"pcpe": "cpe:/a:okfn:ckan"
 }

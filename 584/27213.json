@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "27213",
-  "pname": "CVMS2025-IR ファームウェア",
-  "pcpe": "cpe:/o:siemens:cvms2025-ir_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "27213",
+	"pname": "CVMS2025-IR ファームウェア",
+	"pcpe": "cpe:/o:siemens:cvms2025-ir_firmware"
 }

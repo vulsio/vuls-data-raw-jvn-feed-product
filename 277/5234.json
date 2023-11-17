@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "5234",
-  "pname": "VAIO Easy Connect",
-  "pcpe": "cpe:/a:sony:vaio_easy_connect"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "5234",
+	"pname": "VAIO Easy Connect",
+	"pcpe": "cpe:/a:sony:vaio_easy_connect"
 }

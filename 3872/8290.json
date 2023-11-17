@@ -1,8 +1,8 @@
 {
-  "vid": "3872",
-  "vname": "g15tools",
-  "vcpe": "cpe:/:g15tools",
-  "pid": "8290",
-  "pname": "g15daemon",
-  "pcpe": "cpe:/a:g15tools:g15daemon"
+	"vid": "3872",
+	"vname": "g15tools",
+	"vcpe": "cpe:/:g15tools",
+	"pid": "8290",
+	"pname": "g15daemon",
+	"pcpe": "cpe:/a:g15tools:g15daemon"
 }

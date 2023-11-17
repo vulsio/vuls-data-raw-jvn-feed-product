@@ -1,8 +1,8 @@
 {
-  "vid": "23217",
-  "vname": "tigera",
-  "vcpe": "cpe:/:tigera",
-  "pid": "60155",
-  "pname": "calico os",
-  "pcpe": "cpe:/o:tigera:calico_os"
+	"vid": "23217",
+	"vname": "tigera",
+	"vcpe": "cpe:/:tigera",
+	"pid": "60155",
+	"pname": "calico os",
+	"pcpe": "cpe:/o:tigera:calico_os"
 }

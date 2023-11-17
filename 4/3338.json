@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3338",
-  "pname": "HP LaserJet P4015",
-  "pcpe": "cpe:/h:hp:laserjet_p4015"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3338",
+	"pname": "HP LaserJet P4015",
+	"pcpe": "cpe:/h:hp:laserjet_p4015"
 }

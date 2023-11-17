@@ -1,8 +1,8 @@
 {
-  "vid": "14642",
-  "vname": "f2e-server project",
-  "vcpe": "cpe:/:f2e-server_project",
-  "pid": "34352",
-  "pname": "f2e-server",
-  "pcpe": "cpe:/a:f2e-server_project:f2e-server"
+	"vid": "14642",
+	"vname": "f2e-server project",
+	"vcpe": "cpe:/:f2e-server_project",
+	"pid": "34352",
+	"pname": "f2e-server",
+	"pcpe": "cpe:/a:f2e-server_project:f2e-server"
 }

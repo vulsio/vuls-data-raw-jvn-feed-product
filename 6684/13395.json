@@ -1,8 +1,8 @@
 {
-  "vid": "6684",
-  "vname": "freeFTPd",
-  "vcpe": "cpe:/:freeftpd",
-  "pid": "13395",
-  "pname": "freeFTPd",
-  "pcpe": "cpe:/a:freeftpd:freeftpd"
+	"vid": "6684",
+	"vname": "freeFTPd",
+	"vcpe": "cpe:/:freeftpd",
+	"pid": "13395",
+	"pname": "freeFTPd",
+	"pcpe": "cpe:/a:freeftpd:freeftpd"
 }

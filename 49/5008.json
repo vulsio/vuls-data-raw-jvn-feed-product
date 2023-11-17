@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "5008",
-  "pname": "GNU Libtasn1",
-  "pcpe": "cpe:/a:gnu:libtasn1"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "5008",
+	"pname": "GNU Libtasn1",
+	"pcpe": "cpe:/a:gnu:libtasn1"
 }

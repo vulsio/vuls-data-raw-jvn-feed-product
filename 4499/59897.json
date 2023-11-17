@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "59897",
-  "pname": "melsec iq-fx5u-32mt/ess ファームウェア",
-  "pcpe": "cpe:/o:mitsubishielectric:melsec_iq-fx5u-32mt%2Fess_firmware"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "59897",
+	"pname": "melsec iq-fx5u-32mt/ess ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:melsec_iq-fx5u-32mt%2Fess_firmware"
 }

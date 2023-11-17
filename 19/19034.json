@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19034",
-  "pname": "Cisco ONS 15454 Optical Transport Platform",
-  "pcpe": "cpe:/h:cisco:ons_15454e_optical_transport_platform"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19034",
+	"pname": "Cisco ONS 15454 Optical Transport Platform",
+	"pcpe": "cpe:/h:cisco:ons_15454e_optical_transport_platform"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "589",
-  "vname": "Invensys",
-  "vcpe": "cpe:/:invensys",
-  "pid": "3845",
-  "pname": "Wonderware HMI Reports",
-  "pcpe": "cpe:/a:invensys:wonderware_hmi_reports"
+	"vid": "589",
+	"vname": "Invensys",
+	"vcpe": "cpe:/:invensys",
+	"pid": "3845",
+	"pname": "Wonderware HMI Reports",
+	"pcpe": "cpe:/a:invensys:wonderware_hmi_reports"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19016",
-  "vname": "Sercomm",
-  "vcpe": "cpe:/:sercomm",
-  "pid": "60006",
-  "pname": "h500s ファームウェア",
-  "pcpe": "cpe:/o:sercomm:h500s_firmware"
+	"vid": "19016",
+	"vname": "Sercomm",
+	"vcpe": "cpe:/:sercomm",
+	"pid": "60006",
+	"pname": "h500s ファームウェア",
+	"pcpe": "cpe:/o:sercomm:h500s_firmware"
 }

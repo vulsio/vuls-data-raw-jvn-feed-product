@@ -1,8 +1,8 @@
 {
-  "vid": "10303",
-  "vname": "phpMemcachedAdmin project",
-  "vcpe": "cpe:/:phpmemcachedadmin_project",
-  "pid": "21653",
-  "pname": "phpMemcachedAdmin",
-  "pcpe": "cpe:/a:phpmemcachedadmin_project:phpmemcachedadmin"
+	"vid": "10303",
+	"vname": "phpMemcachedAdmin project",
+	"vcpe": "cpe:/:phpmemcachedadmin_project",
+	"pid": "21653",
+	"pname": "phpMemcachedAdmin",
+	"pcpe": "cpe:/a:phpmemcachedadmin_project:phpmemcachedadmin"
 }

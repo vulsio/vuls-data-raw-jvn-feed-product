@@ -1,8 +1,8 @@
 {
-  "vid": "12421",
-  "vname": "Mp3splt project",
-  "vcpe": "cpe:/:mp3splt_project",
-  "pid": "28115",
-  "pname": "libmp3splt",
-  "pcpe": "cpe:/a:mp3splt_project:libmp3splt"
+	"vid": "12421",
+	"vname": "Mp3splt project",
+	"vcpe": "cpe:/:mp3splt_project",
+	"pid": "28115",
+	"pname": "libmp3splt",
+	"pcpe": "cpe:/a:mp3splt_project:libmp3splt"
 }

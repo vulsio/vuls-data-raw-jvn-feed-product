@@ -1,8 +1,8 @@
 {
-  "vid": "426",
-  "vname": "simpleproxy",
-  "vcpe": "cpe:/:simpleproxy",
-  "pid": "1615",
-  "pname": "simpleproxy",
-  "pcpe": "cpe:/a:simpleproxy:simpleproxy"
+	"vid": "426",
+	"vname": "simpleproxy",
+	"vcpe": "cpe:/:simpleproxy",
+	"pid": "1615",
+	"pname": "simpleproxy",
+	"pcpe": "cpe:/a:simpleproxy:simpleproxy"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "110",
-  "vname": "Broadcom",
-  "vcpe": "cpe:/:broadcom",
-  "pid": "58127",
-  "pname": "Symantec Endpoint Protection",
-  "pcpe": "cpe:/a:broadcom:symantec_endpoint_protection"
+	"vid": "110",
+	"vname": "Broadcom",
+	"vcpe": "cpe:/:broadcom",
+	"pid": "58127",
+	"pname": "Symantec Endpoint Protection",
+	"pcpe": "cpe:/a:broadcom:symantec_endpoint_protection"
 }

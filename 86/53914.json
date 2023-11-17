@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "53914",
-  "pname": "WER-AMG54 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wer-am54g55_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "53914",
+	"pname": "WER-AMG54 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wer-am54g55_firmware"
 }

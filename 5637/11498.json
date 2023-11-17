@@ -1,8 +1,8 @@
 {
-  "vid": "5637",
-  "vname": "マイクロフォーカス株式会社",
-  "vcpe": "cpe:/:microfocus",
-  "pid": "11498",
-  "pname": "VisiBroker",
-  "pcpe": "cpe:/a:microfocus:visibroker"
+	"vid": "5637",
+	"vname": "マイクロフォーカス株式会社",
+	"vcpe": "cpe:/:microfocus",
+	"pid": "11498",
+	"pname": "VisiBroker",
+	"pcpe": "cpe:/a:microfocus:visibroker"
 }

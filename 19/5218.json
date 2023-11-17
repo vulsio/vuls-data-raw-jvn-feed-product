@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5218",
-  "pname": "Cisco CRS Performance Route Processors",
-  "pcpe": "cpe:/h:cisco:crs_performance_route_processor"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5218",
+	"pname": "Cisco CRS Performance Route Processors",
+	"pcpe": "cpe:/h:cisco:crs_performance_route_processor"
 }

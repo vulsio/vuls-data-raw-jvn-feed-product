@@ -1,8 +1,8 @@
 {
-  "vid": "17802",
-  "vname": "Pinboard project",
-  "vcpe": "cpe:/:pinboard_project",
-  "pid": "42883",
-  "pname": "Pinboard",
-  "pcpe": "cpe:/a:pinboard_project:pinboard"
+	"vid": "17802",
+	"vname": "Pinboard project",
+	"vcpe": "cpe:/:pinboard_project",
+	"pid": "42883",
+	"pname": "Pinboard",
+	"pcpe": "cpe:/a:pinboard_project:pinboard"
 }

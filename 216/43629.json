@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "43629",
-  "pname": "x11-common",
-  "pcpe": "cpe:/a:debian:x11-common"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "43629",
+	"pname": "x11-common",
+	"pcpe": "cpe:/a:debian:x11-common"
 }

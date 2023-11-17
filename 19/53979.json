@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "53979",
-  "pname": "Cisco Catalyst PON Switch CGP-ONT-4P ファームウェア",
-  "pcpe": "cpe:/o:cisco:catalyst_pon_switch_cgp-ont-4p_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "53979",
+	"pname": "Cisco Catalyst PON Switch CGP-ONT-4P ファームウェア",
+	"pcpe": "cpe:/o:cisco:catalyst_pon_switch_cgp-ont-4p_firmware"
 }

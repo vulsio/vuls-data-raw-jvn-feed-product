@@ -1,8 +1,8 @@
 {
-  "vid": "7700",
-  "vname": "snetworks",
-  "vcpe": "cpe:/:snetworks",
-  "pid": "14896",
-  "pname": "php classifieds",
-  "pcpe": "cpe:/a:snetworks:php_classifieds"
+	"vid": "7700",
+	"vname": "snetworks",
+	"vcpe": "cpe:/:snetworks",
+	"pid": "14896",
+	"pname": "php classifieds",
+	"pcpe": "cpe:/a:snetworks:php_classifieds"
 }

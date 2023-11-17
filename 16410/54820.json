@@ -1,8 +1,8 @@
 {
-  "vid": "16410",
-  "vname": "Auerswald",
-  "vcpe": "cpe:/:auerswald",
-  "pid": "54820",
-  "pname": "COMpact 5200R IP ファームウェア",
-  "pcpe": "cpe:/o:auerswald:compact_5200r_ip_firmware"
+	"vid": "16410",
+	"vname": "Auerswald",
+	"vcpe": "cpe:/:auerswald",
+	"pid": "54820",
+	"pname": "COMpact 5200R IP ファームウェア",
+	"pcpe": "cpe:/o:auerswald:compact_5200r_ip_firmware"
 }

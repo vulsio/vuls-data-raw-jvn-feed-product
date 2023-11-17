@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "2339",
-  "pname": "HP Compaq 6005 Pro Microtower PC",
-  "pcpe": "cpe:/h:hp:compaq_6005_pro_microtower_pc"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "2339",
+	"pname": "HP Compaq 6005 Pro Microtower PC",
+	"pcpe": "cpe:/h:hp:compaq_6005_pro_microtower_pc"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12955",
-  "vname": "Kubernetes",
-  "vcpe": "cpe:/:kubernetes",
-  "pid": "37511",
-  "pname": "Kube rbac proxy",
-  "pcpe": "cpe:/a:kubernetes:kube-rbac-proxy"
+	"vid": "12955",
+	"vname": "Kubernetes",
+	"vcpe": "cpe:/:kubernetes",
+	"pid": "37511",
+	"pname": "Kube rbac proxy",
+	"pcpe": "cpe:/a:kubernetes:kube-rbac-proxy"
 }

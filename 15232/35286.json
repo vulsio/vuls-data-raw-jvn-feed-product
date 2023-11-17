@@ -1,8 +1,8 @@
 {
-  "vid": "15232",
-  "vname": "The Rust Programming Language",
-  "vcpe": "cpe:/:rust-lang",
-  "pid": "35286",
-  "pname": "Rust",
-  "pcpe": "cpe:/a:rust-lang:rust"
+	"vid": "15232",
+	"vname": "The Rust Programming Language",
+	"vcpe": "cpe:/:rust-lang",
+	"pid": "35286",
+	"pname": "Rust",
+	"pcpe": "cpe:/a:rust-lang:rust"
 }

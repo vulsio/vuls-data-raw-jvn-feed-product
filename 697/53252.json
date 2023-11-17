@@ -1,8 +1,8 @@
 {
-  "vid": "697",
-  "vname": "Beckhoff Automation",
-  "vcpe": "cpe:/:beckhoff",
-  "pid": "53252",
-  "pname": "CX9020",
-  "pcpe": "cpe:/o:beckhoff:cx9020"
+	"vid": "697",
+	"vname": "Beckhoff Automation",
+	"vcpe": "cpe:/:beckhoff",
+	"pid": "53252",
+	"pname": "CX9020",
+	"pcpe": "cpe:/o:beckhoff:cx9020"
 }

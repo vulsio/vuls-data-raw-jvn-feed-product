@@ -1,8 +1,8 @@
 {
-  "vid": "6687",
-  "vname": "Post Oak Traffic Systems",
-  "vcpe": "cpe:/:postoaktraffic",
-  "pid": "43330",
-  "pname": "AWAM Bluetooth Field Device ファームウェア",
-  "pcpe": "cpe:/o:postoaktraffic:awam_bluetooth_field_device_firmware"
+	"vid": "6687",
+	"vname": "Post Oak Traffic Systems",
+	"vcpe": "cpe:/:postoaktraffic",
+	"pid": "43330",
+	"pname": "AWAM Bluetooth Field Device ファームウェア",
+	"pcpe": "cpe:/o:postoaktraffic:awam_bluetooth_field_device_firmware"
 }

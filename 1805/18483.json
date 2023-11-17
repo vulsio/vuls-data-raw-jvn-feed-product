@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "18483",
-  "pname": "TL-SC3171",
-  "pcpe": "cpe:/h:tp-link:tl-sc3171"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "18483",
+	"pname": "TL-SC3171",
+	"pcpe": "cpe:/h:tp-link:tl-sc3171"
 }

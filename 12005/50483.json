@@ -1,8 +1,8 @@
 {
-  "vid": "12005",
-  "vname": "Arista Networks, Inc.",
-  "vcpe": "cpe:/:arista",
-  "pid": "50483",
-  "pname": "C-65 ファームウェア",
-  "pcpe": "cpe:/o:arista:c-65_firmware"
+	"vid": "12005",
+	"vname": "Arista Networks, Inc.",
+	"vcpe": "cpe:/:arista",
+	"pid": "50483",
+	"pname": "C-65 ファームウェア",
+	"pcpe": "cpe:/o:arista:c-65_firmware"
 }

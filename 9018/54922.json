@@ -1,8 +1,8 @@
 {
-  "vid": "9018",
-  "vname": "シャープ株式会社",
-  "vcpe": "cpe:/:sharp",
-  "pid": "54922",
-  "pname": "(複数の製品)",
-  "pcpe": "cpe:/a:sharp:multiple_product"
+	"vid": "9018",
+	"vname": "シャープ株式会社",
+	"vcpe": "cpe:/:sharp",
+	"pid": "54922",
+	"pname": "(複数の製品)",
+	"pcpe": "cpe:/a:sharp:multiple_product"
 }

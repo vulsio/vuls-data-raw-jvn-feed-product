@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "53314",
-  "pname": "AMD Chipset Driver",
-  "pcpe": "cpe:/a:amd:chipset_driver"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "53314",
+	"pname": "AMD Chipset Driver",
+	"pcpe": "cpe:/a:amd:chipset_driver"
 }

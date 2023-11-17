@@ -1,8 +1,8 @@
 {
-  "vid": "5865",
-  "vname": "myweb4net",
-  "vcpe": "cpe:/:myweb4net",
-  "pid": "11869",
-  "pname": "myweb4net browser",
-  "pcpe": "cpe:/a:myweb4net:myweb4net_browser"
+	"vid": "5865",
+	"vname": "myweb4net",
+	"vcpe": "cpe:/:myweb4net",
+	"pid": "11869",
+	"pname": "myweb4net browser",
+	"pcpe": "cpe:/a:myweb4net:myweb4net_browser"
 }

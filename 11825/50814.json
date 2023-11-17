@@ -1,8 +1,8 @@
 {
-  "vid": "11825",
-  "vname": "CHIYU Technology Co Ltd.",
-  "vcpe": "cpe:/:chiyutw",
-  "pid": "50814",
-  "pname": "SEMAC D2 N300 ファームウェア",
-  "pcpe": "cpe:/o:chiyutw:semac_d2_n300_firmware"
+	"vid": "11825",
+	"vname": "CHIYU Technology Co Ltd.",
+	"vcpe": "cpe:/:chiyutw",
+	"pid": "50814",
+	"pname": "SEMAC D2 N300 ファームウェア",
+	"pcpe": "cpe:/o:chiyutw:semac_d2_n300_firmware"
 }

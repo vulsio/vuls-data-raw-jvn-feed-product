@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "34639",
-  "pname": "LYO-L21",
-  "pcpe": "cpe:/h:huawei:lyo-l21"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "34639",
+	"pname": "LYO-L21",
+	"pcpe": "cpe:/h:huawei:lyo-l21"
 }

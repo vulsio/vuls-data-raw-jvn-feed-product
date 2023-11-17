@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2418",
-  "pname": "HiRDB/Workgroup Server",
-  "pcpe": "cpe:/a:hitachi:hirdb_workgroup_server"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2418",
+	"pname": "HiRDB/Workgroup Server",
+	"pcpe": "cpe:/a:hitachi:hirdb_workgroup_server"
 }

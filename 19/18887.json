@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "18887",
-  "pname": "Cisco Scientific Atlanta DPQ2202 VoIP Cable Modem",
-  "pcpe": "cpe:/h:cisco:scientific_atlanta_dpq2202"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "18887",
+	"pname": "Cisco Scientific Atlanta DPQ2202 VoIP Cable Modem",
+	"pcpe": "cpe:/h:cisco:scientific_atlanta_dpq2202"
 }

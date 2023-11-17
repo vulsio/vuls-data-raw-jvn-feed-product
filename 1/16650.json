@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "16650",
-  "pname": "netra t5220 server",
-  "pcpe": "cpe:/h:sun:netra_t5220_server"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "16650",
+	"pname": "netra t5220 server",
+	"pcpe": "cpe:/h:sun:netra_t5220_server"
 }

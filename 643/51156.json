@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "51156",
-  "pname": "Dell PowerEdge R740XD ファームウェア",
-  "pcpe": "cpe:/o:dell:poweredge_r740xd_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "51156",
+	"pname": "Dell PowerEdge R740XD ファームウェア",
+	"pcpe": "cpe:/o:dell:poweredge_r740xd_firmware"
 }

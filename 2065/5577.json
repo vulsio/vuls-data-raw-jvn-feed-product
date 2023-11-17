@@ -1,8 +1,8 @@
 {
-  "vid": "2065",
-  "vname": "aep networks",
-  "vcpe": "cpe:/:aep_networks",
-  "pid": "5577",
-  "pname": "smartgate ssl server",
-  "pcpe": "cpe:/a:aep_networks:smartgate_ssl_server"
+	"vid": "2065",
+	"vname": "aep networks",
+	"vcpe": "cpe:/:aep_networks",
+	"pid": "5577",
+	"pname": "smartgate ssl server",
+	"pcpe": "cpe:/a:aep_networks:smartgate_ssl_server"
 }

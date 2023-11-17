@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "44196",
-  "pname": "NAS 540 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:nas540_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "44196",
+	"pname": "NAS 540 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:nas540_firmware"
 }

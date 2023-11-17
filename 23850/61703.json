@@ -1,8 +1,8 @@
 {
-  "vid": "23850",
-  "vname": "tina.io",
-  "vcpe": "cpe:/:tina",
-  "pid": "61703",
-  "pname": "TinaCMS",
-  "pcpe": "cpe:/a:tina:tinacms"
+	"vid": "23850",
+	"vname": "tina.io",
+	"vcpe": "cpe:/:tina",
+	"pid": "61703",
+	"pname": "TinaCMS",
+	"pcpe": "cpe:/a:tina:tinacms"
 }

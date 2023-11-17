@@ -1,8 +1,8 @@
 {
-  "vid": "21652",
-  "vname": "GoUtils project",
-  "vcpe": "cpe:/:goutils_project",
-  "pid": "55609",
-  "pname": "GoUtils",
-  "pcpe": "cpe:/a:goutils_project:goutils"
+	"vid": "21652",
+	"vname": "GoUtils project",
+	"vcpe": "cpe:/:goutils_project",
+	"pid": "55609",
+	"pname": "GoUtils",
+	"pcpe": "cpe:/a:goutils_project:goutils"
 }

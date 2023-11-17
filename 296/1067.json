@@ -1,8 +1,8 @@
 {
-  "vid": "296",
-  "vname": "XEmacs",
-  "vcpe": "cpe:/:xemacs",
-  "pid": "1067",
-  "pname": "XEmacs",
-  "pcpe": "cpe:/a:xemacs:xemacs"
+	"vid": "296",
+	"vname": "XEmacs",
+	"vcpe": "cpe:/:xemacs",
+	"pid": "1067",
+	"pname": "XEmacs",
+	"pcpe": "cpe:/a:xemacs:xemacs"
 }

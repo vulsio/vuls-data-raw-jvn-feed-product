@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "38230",
-  "pname": "Symantec VIP Enterprise Gateway",
-  "pcpe": "cpe:/a:symantec:vip_enterprise_gateway"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "38230",
+	"pname": "Symantec VIP Enterprise Gateway",
+	"pcpe": "cpe:/a:symantec:vip_enterprise_gateway"
 }

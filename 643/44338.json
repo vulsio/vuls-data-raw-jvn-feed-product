@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "44338",
-  "pname": "R1-2401 ファームウェア",
-  "pcpe": "cpe:/o:dell:r1-2401_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "44338",
+	"pname": "R1-2401 ファームウェア",
+	"pcpe": "cpe:/o:dell:r1-2401_firmware"
 }

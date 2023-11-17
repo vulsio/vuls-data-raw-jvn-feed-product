@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "52361",
-  "pname": "ThinkPad Yoga 15 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_yoga_15_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "52361",
+	"pname": "ThinkPad Yoga 15 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_yoga_15_firmware"
 }

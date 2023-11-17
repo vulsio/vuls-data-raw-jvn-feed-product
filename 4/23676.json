@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23676",
-  "pname": "HP Value PUSB Receipt Printer (F7M67AA)",
-  "pcpe": "cpe:/h:hp:pusb_thermal_receipt_printer_f7m67aa"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23676",
+	"pname": "HP Value PUSB Receipt Printer (F7M67AA)",
+	"pcpe": "cpe:/h:hp:pusb_thermal_receipt_printer_f7m67aa"
 }

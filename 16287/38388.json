@@ -1,8 +1,8 @@
 {
-  "vid": "16287",
-  "vname": "Custom4Web",
-  "vcpe": "cpe:/:custom4web",
-  "pid": "38388",
-  "pname": "WP Open Graph",
-  "pcpe": "cpe:/a:custom4web:wp_open_graph"
+	"vid": "16287",
+	"vname": "Custom4Web",
+	"vcpe": "cpe:/:custom4web",
+	"pid": "38388",
+	"pname": "WP Open Graph",
+	"pcpe": "cpe:/a:custom4web:wp_open_graph"
 }

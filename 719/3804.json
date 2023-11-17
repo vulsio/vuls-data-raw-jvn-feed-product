@@ -1,8 +1,8 @@
 {
-  "vid": "719",
-  "vname": "HTC Corporation",
-  "vcpe": "cpe:/:htc",
-  "pid": "3804",
-  "pname": "HTC Sensation 4G",
-  "pcpe": "cpe:/h:htc:sensation_4g"
+	"vid": "719",
+	"vname": "HTC Corporation",
+	"vcpe": "cpe:/:htc",
+	"pid": "3804",
+	"pname": "HTC Sensation 4G",
+	"pcpe": "cpe:/h:htc:sensation_4g"
 }

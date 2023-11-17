@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "31861",
-  "pname": "Zoom Client",
-  "pcpe": "cpe:/a:zoom:zoom_client"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "31861",
+	"pname": "Zoom Client",
+	"pcpe": "cpe:/a:zoom:zoom_client"
 }

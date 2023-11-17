@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26257",
-  "pname": "HPE Insight Control",
-  "pcpe": "cpe:/a:hp:insight_control"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26257",
+	"pname": "HPE Insight Control",
+	"pcpe": "cpe:/a:hp:insight_control"
 }

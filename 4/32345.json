@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "32345",
-  "pname": "B5L23A ファームウェア",
-  "pcpe": "cpe:/o:hp:b5l23a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "32345",
+	"pname": "B5L23A ファームウェア",
+	"pcpe": "cpe:/o:hp:b5l23a_firmware"
 }

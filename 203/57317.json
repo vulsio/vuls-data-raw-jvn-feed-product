@@ -1,8 +1,8 @@
 {
-  "vid": "203",
-  "vname": "リコー",
-  "vcpe": "cpe:/:ricoh",
-  "pid": "57317",
-  "pname": "SP 325SNw ファームウェア",
-  "pcpe": "cpe:/o:ricoh:sp_325snw_firmware"
+	"vid": "203",
+	"vname": "リコー",
+	"vcpe": "cpe:/:ricoh",
+	"pid": "57317",
+	"pname": "SP 325SNw ファームウェア",
+	"pcpe": "cpe:/o:ricoh:sp_325snw_firmware"
 }

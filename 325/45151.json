@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45151",
-  "pname": "ThinkPad X395 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_x395_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45151",
+	"pname": "ThinkPad X395 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_x395_firmware"
 }

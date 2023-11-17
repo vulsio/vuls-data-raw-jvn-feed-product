@@ -1,8 +1,8 @@
 {
-  "vid": "15514",
-  "vname": "myStrom AG",
-  "vcpe": "cpe:/:mystrom",
-  "pid": "36029",
-  "pname": "myStrom WiFi Switch EU ファームウェア",
-  "pcpe": "cpe:/o:mystrom:wifi_switch_eu_firmware"
+	"vid": "15514",
+	"vname": "myStrom AG",
+	"vcpe": "cpe:/:mystrom",
+	"pid": "36029",
+	"pname": "myStrom WiFi Switch EU ファームウェア",
+	"pcpe": "cpe:/o:mystrom:wifi_switch_eu_firmware"
 }

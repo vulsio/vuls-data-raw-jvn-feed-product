@@ -1,8 +1,8 @@
 {
-  "vid": "22365",
-  "vname": "swtpm project",
-  "vcpe": "cpe:/:swtpm_project",
-  "pid": "57508",
-  "pname": "swtpm",
-  "pcpe": "cpe:/a:swtpm_project:swtpm"
+	"vid": "22365",
+	"vname": "swtpm project",
+	"vcpe": "cpe:/:swtpm_project",
+	"pid": "57508",
+	"pname": "swtpm",
+	"pcpe": "cpe:/a:swtpm_project:swtpm"
 }

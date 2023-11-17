@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "614",
-  "pname": "Cisco Call Manager (CCM)",
-  "pcpe": "cpe:/h:cisco:call_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "614",
+	"pname": "Cisco Call Manager (CCM)",
+	"pcpe": "cpe:/h:cisco:call_manager"
 }

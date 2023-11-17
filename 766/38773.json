@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "38773",
-  "pname": "BMxCRA312xx ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:bmx%2fe_cra_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "38773",
+	"pname": "BMxCRA312xx ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:bmx%2fe_cra_firmware"
 }

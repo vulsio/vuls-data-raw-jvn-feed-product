@@ -1,8 +1,8 @@
 {
-  "vid": "6621",
-  "vname": "ソフトバンク株式会社",
-  "vcpe": "cpe:/:softbank",
-  "pid": "27847",
-  "pname": "PrimeDrive デスクトップアプリケーション",
-  "pcpe": "cpe:/a:softbank:primedrive_desktop_application"
+	"vid": "6621",
+	"vname": "ソフトバンク株式会社",
+	"vcpe": "cpe:/:softbank",
+	"pid": "27847",
+	"pname": "PrimeDrive デスクトップアプリケーション",
+	"pcpe": "cpe:/a:softbank:primedrive_desktop_application"
 }

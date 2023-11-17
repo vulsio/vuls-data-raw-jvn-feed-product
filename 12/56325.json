@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "56325",
-  "pname": "Trend Micro Security 2023",
-  "pcpe": "cpe:/a:trendmicro:security_2023"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "56325",
+	"pname": "Trend Micro Security 2023",
+	"pcpe": "cpe:/a:trendmicro:security_2023"
 }

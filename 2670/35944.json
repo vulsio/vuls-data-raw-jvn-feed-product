@@ -1,8 +1,8 @@
 {
-  "vid": "2670",
-  "vname": "bullguard",
-  "vcpe": "cpe:/:bullguard",
-  "pid": "35944",
-  "pname": "Safe Browsing",
-  "pcpe": "cpe:/a:bullguard:safe_browsing"
+	"vid": "2670",
+	"vname": "bullguard",
+	"vcpe": "cpe:/:bullguard",
+	"pid": "35944",
+	"pname": "Safe Browsing",
+	"pcpe": "cpe:/a:bullguard:safe_browsing"
 }

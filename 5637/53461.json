@@ -1,8 +1,8 @@
 {
-  "vid": "5637",
-  "vname": "マイクロフォーカス株式会社",
-  "vcpe": "cpe:/:microfocus",
-  "pid": "53461",
-  "pname": "Micro Focus ZENwork Endpoint Security Management",
-  "pcpe": "cpe:/a:microfocus:zenworks_endpoint_security_management"
+	"vid": "5637",
+	"vname": "マイクロフォーカス株式会社",
+	"vcpe": "cpe:/:microfocus",
+	"pid": "53461",
+	"pname": "Micro Focus ZENwork Endpoint Security Management",
+	"pcpe": "cpe:/a:microfocus:zenworks_endpoint_security_management"
 }

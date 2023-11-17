@@ -1,8 +1,8 @@
 {
-  "vid": "10335",
-  "vname": "infoware GmbH",
-  "vcpe": "cpe:/:infoware",
-  "pid": "21728",
-  "pname": "Infoware MapSuite",
-  "pcpe": "cpe:/a:infoware:mapsuite"
+	"vid": "10335",
+	"vname": "infoware GmbH",
+	"vcpe": "cpe:/:infoware",
+	"pid": "21728",
+	"pname": "Infoware MapSuite",
+	"pcpe": "cpe:/a:infoware:mapsuite"
 }

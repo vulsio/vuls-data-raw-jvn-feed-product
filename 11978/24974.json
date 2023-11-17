@@ -1,8 +1,8 @@
 {
-  "vid": "11978",
-  "vname": "AFNetworking project",
-  "vcpe": "cpe:/:afnetworking_project",
-  "pid": "24974",
-  "pname": "AFNetworking",
-  "pcpe": "cpe:/a:afnetworking_project:afnetworking"
+	"vid": "11978",
+	"vname": "AFNetworking project",
+	"vcpe": "cpe:/:afnetworking_project",
+	"pid": "24974",
+	"pname": "AFNetworking",
+	"pcpe": "cpe:/a:afnetworking_project:afnetworking"
 }

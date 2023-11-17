@@ -1,8 +1,8 @@
 {
-  "vid": "1806",
-  "vname": "東芝テック",
-  "vcpe": "cpe:/:toshibatec",
-  "pid": "17423",
-  "pname": "e-STUDIO 455 ファームウェア",
-  "pcpe": "cpe:/a:toshibatec:e-studio-455_firmware"
+	"vid": "1806",
+	"vname": "東芝テック",
+	"vcpe": "cpe:/:toshibatec",
+	"pid": "17423",
+	"pname": "e-STUDIO 455 ファームウェア",
+	"pcpe": "cpe:/a:toshibatec:e-studio-455_firmware"
 }

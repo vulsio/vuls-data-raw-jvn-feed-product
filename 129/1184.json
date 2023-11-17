@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1184",
-  "pname": "Cosminexus Developer's Kit for Java(TM)",
-  "pcpe": "cpe:/a:hitachi:cosminexus_developers_kit_for_java"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1184",
+	"pname": "Cosminexus Developer's Kit for Java(TM)",
+	"pcpe": "cpe:/a:hitachi:cosminexus_developers_kit_for_java"
 }

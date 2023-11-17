@@ -1,8 +1,8 @@
 {
-  "vid": "545",
-  "vname": "phpspot",
-  "vcpe": "cpe:/:phpspot",
-  "pid": "2187",
-  "pname": "PHP画像キャプチャ掲示板",
-  "pcpe": "cpe:/a:phpspot:php_image_capture_bbs"
+	"vid": "545",
+	"vname": "phpspot",
+	"vcpe": "cpe:/:phpspot",
+	"pid": "2187",
+	"pname": "PHP画像キャプチャ掲示板",
+	"pcpe": "cpe:/a:phpspot:php_image_capture_bbs"
 }

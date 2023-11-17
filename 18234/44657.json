@@ -1,8 +1,8 @@
 {
-  "vid": "18234",
-  "vname": "IFRN",
-  "vcpe": "cpe:/:ifrn",
-  "pid": "44657",
-  "pname": "SUAP",
-  "pcpe": "cpe:/a:ifrn:sistema_unificado_de_administracao_publica"
+	"vid": "18234",
+	"vname": "IFRN",
+	"vcpe": "cpe:/:ifrn",
+	"pid": "44657",
+	"pname": "SUAP",
+	"pcpe": "cpe:/a:ifrn:sistema_unificado_de_administracao_publica"
 }

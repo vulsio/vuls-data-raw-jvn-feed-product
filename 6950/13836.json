@@ -1,8 +1,8 @@
 {
-  "vid": "6950",
-  "vname": "phpversion",
-  "vcpe": "cpe:/:phpversion",
-  "pid": "13836",
-  "pname": "php vx guestbook",
-  "pcpe": "cpe:/a:phpversion:php_vx_guestbook"
+	"vid": "6950",
+	"vname": "phpversion",
+	"vcpe": "cpe:/:phpversion",
+	"pid": "13836",
+	"pname": "php vx guestbook",
+	"pcpe": "cpe:/a:phpversion:php_vx_guestbook"
 }

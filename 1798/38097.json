@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "38097",
-  "pname": "SSL VPN Client",
-  "pcpe": "cpe:/a:synology:ssl_vpn_client"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "38097",
+	"pname": "SSL VPN Client",
+	"pcpe": "cpe:/a:synology:ssl_vpn_client"
 }

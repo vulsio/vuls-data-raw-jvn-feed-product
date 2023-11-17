@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "42491",
-  "pname": "Portfolio and Project Management",
-  "pcpe": "cpe:/a:sap:portfolio_and_project_management"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "42491",
+	"pname": "Portfolio and Project Management",
+	"pcpe": "cpe:/a:sap:portfolio_and_project_management"
 }

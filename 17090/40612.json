@@ -1,8 +1,8 @@
 {
-  "vid": "17090",
-  "vname": "TELESTAR",
-  "vcpe": "cpe:/:telestar",
-  "pid": "40612",
-  "pname": "Imperial i450 ファームウェア",
-  "pcpe": "cpe:/o:telestar:imperial_i450_firmware"
+	"vid": "17090",
+	"vname": "TELESTAR",
+	"vcpe": "cpe:/:telestar",
+	"pid": "40612",
+	"pname": "Imperial i450 ファームウェア",
+	"pcpe": "cpe:/o:telestar:imperial_i450_firmware"
 }

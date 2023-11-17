@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "40823",
-  "pname": "Azure Event Grid Build Notifier",
-  "pcpe": "cpe:/a:jenkins:azure_event_grid_notifier"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "40823",
+	"pname": "Azure Event Grid Build Notifier",
+	"pcpe": "cpe:/a:jenkins:azure_event_grid_notifier"
 }

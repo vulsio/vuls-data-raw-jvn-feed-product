@@ -1,8 +1,8 @@
 {
-  "vid": "693",
-  "vname": "CAREL INDUSTRIES S.p.a.",
-  "vcpe": "cpe:/:carel",
-  "pid": "37710",
-  "pname": "pCOWeb card ファームウェア",
-  "pcpe": "cpe:/o:carel:pcoweb_card_firmware"
+	"vid": "693",
+	"vname": "CAREL INDUSTRIES S.p.a.",
+	"vcpe": "cpe:/:carel",
+	"pid": "37710",
+	"pname": "pCOWeb card ファームウェア",
+	"pcpe": "cpe:/o:carel:pcoweb_card_firmware"
 }

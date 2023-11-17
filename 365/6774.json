@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "6774",
-  "pname": "edgesight for netscaler",
-  "pcpe": "cpe:/a:citrix:edgesight_for_netscaler"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "6774",
+	"pname": "edgesight for netscaler",
+	"pcpe": "cpe:/a:citrix:edgesight_for_netscaler"
 }

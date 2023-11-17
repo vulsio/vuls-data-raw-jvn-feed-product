@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30367",
-  "pname": "ThinkCentre M6600t/s ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkcentre_m6600t%2Fs_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30367",
+	"pname": "ThinkCentre M6600t/s ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkcentre_m6600t%2Fs_firmware"
 }

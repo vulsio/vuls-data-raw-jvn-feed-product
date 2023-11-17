@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "47641",
-  "pname": "XR450 ファームウェア",
-  "pcpe": "cpe:/o:netgear:xr450_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "47641",
+	"pname": "XR450 ファームウェア",
+	"pcpe": "cpe:/o:netgear:xr450_firmware"
 }

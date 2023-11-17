@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "32748",
-  "pname": "MDM9650 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:mdm9650_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "32748",
+	"pname": "MDM9650 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:mdm9650_firmware"
 }

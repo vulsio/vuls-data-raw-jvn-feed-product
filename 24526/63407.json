@@ -1,8 +1,8 @@
 {
-  "vid": "24526",
-  "vname": "craw-data project",
-  "vcpe": "cpe:/:craw-data_project",
-  "pid": "63407",
-  "pname": "craw-data",
-  "pcpe": "cpe:/a:craw-data_project:craw-data"
+	"vid": "24526",
+	"vname": "craw-data project",
+	"vcpe": "cpe:/:craw-data_project",
+	"pid": "63407",
+	"pname": "craw-data",
+	"pcpe": "cpe:/a:craw-data_project:craw-data"
 }

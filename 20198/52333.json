@@ -1,8 +1,8 @@
 {
-  "vid": "20198",
-  "vname": "QSAN Technology, Inc.",
-  "vcpe": "cpe:/:qsan",
-  "pid": "52333",
-  "pname": "QSAN Storage Manager XN8008T ファームウェア",
-  "pcpe": "cpe:/o:qsan:xn8008t_firmware"
+	"vid": "20198",
+	"vname": "QSAN Technology, Inc.",
+	"vcpe": "cpe:/:qsan",
+	"pid": "52333",
+	"pname": "QSAN Storage Manager XN8008T ファームウェア",
+	"pcpe": "cpe:/o:qsan:xn8008t_firmware"
 }

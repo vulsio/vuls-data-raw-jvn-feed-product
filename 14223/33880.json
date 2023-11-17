@@ -1,8 +1,8 @@
 {
-  "vid": "14223",
-  "vname": "EMS Software",
-  "vcpe": "cpe:/:emssoftware",
-  "pid": "33880",
-  "pname": "EMS Master Calendar",
-  "pcpe": "cpe:/a:emssoftware:ems_master_calendar"
+	"vid": "14223",
+	"vname": "EMS Software",
+	"vcpe": "cpe:/:emssoftware",
+	"pid": "33880",
+	"pname": "EMS Master Calendar",
+	"pcpe": "cpe:/a:emssoftware:ems_master_calendar"
 }

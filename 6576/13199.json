@@ -1,8 +1,8 @@
 {
-  "vid": "6576",
-  "vname": "Mime Mail Module Project",
-  "vcpe": "cpe:/:mime_mail_module_project",
-  "pid": "13199",
-  "pname": "Mime Mail",
-  "pcpe": "cpe:/a:mime_mail_module_project:mimemail"
+	"vid": "6576",
+	"vname": "Mime Mail Module Project",
+	"vcpe": "cpe:/:mime_mail_module_project",
+	"pid": "13199",
+	"pname": "Mime Mail",
+	"pcpe": "cpe:/a:mime_mail_module_project:mimemail"
 }

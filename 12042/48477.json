@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "48477",
-  "pname": "HPE iLO Amplifier Pack",
-  "pcpe": "cpe:/a:hp:integrated_lights-out_amplifier"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "48477",
+	"pname": "HPE iLO Amplifier Pack",
+	"pcpe": "cpe:/a:hp:integrated_lights-out_amplifier"
 }

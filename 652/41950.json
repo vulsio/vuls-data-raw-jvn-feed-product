@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "41950",
-  "pname": "Galaxy J7 Prime ファームウェア",
-  "pcpe": "cpe:/o:samsung:galaxy_j7_prime_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "41950",
+	"pname": "Galaxy J7 Prime ファームウェア",
+	"pcpe": "cpe:/o:samsung:galaxy_j7_prime_firmware"
 }

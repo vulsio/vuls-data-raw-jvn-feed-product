@@ -1,8 +1,8 @@
 {
-  "vid": "20903",
-  "vname": "LS ELECTRIC",
-  "vcpe": "cpe:/:misc",
-  "pid": "53396",
-  "pname": "LS ELECTRIC PLC",
-  "pcpe": "cpe:/o:misc:ls_electric_plc"
+	"vid": "20903",
+	"vname": "LS ELECTRIC",
+	"vcpe": "cpe:/:misc",
+	"pid": "53396",
+	"pname": "LS ELECTRIC PLC",
+	"pcpe": "cpe:/o:misc:ls_electric_plc"
 }

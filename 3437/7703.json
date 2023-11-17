@@ -1,8 +1,8 @@
 {
-  "vid": "3437",
-  "vname": "efficientip",
-  "vcpe": "cpe:/:efficientip",
-  "pid": "7703",
-  "pname": "ipmanager",
-  "pcpe": "cpe:/a:efficientip:ipmanager"
+	"vid": "3437",
+	"vname": "efficientip",
+	"vcpe": "cpe:/:efficientip",
+	"pid": "7703",
+	"pname": "ipmanager",
+	"pcpe": "cpe:/a:efficientip:ipmanager"
 }

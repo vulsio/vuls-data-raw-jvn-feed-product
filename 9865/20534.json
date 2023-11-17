@@ -1,8 +1,8 @@
 {
-  "vid": "9865",
-  "vname": "Ricardo SIGNES",
-  "vcpe": "cpe:/:email%3A%3Aaddress_module_project",
-  "pid": "20534",
-  "pname": "Email::Address",
-  "pcpe": "cpe:/a:email%3A%3Aaddress_module_project:email%3A%3Aaddress"
+	"vid": "9865",
+	"vname": "Ricardo SIGNES",
+	"vcpe": "cpe:/:email%3A%3Aaddress_module_project",
+	"pid": "20534",
+	"pname": "Email::Address",
+	"pcpe": "cpe:/a:email%3A%3Aaddress_module_project:email%3A%3Aaddress"
 }

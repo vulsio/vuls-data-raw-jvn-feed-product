@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "23042",
-  "pname": "Juniper Mobile System ソフトウェア",
-  "pcpe": "cpe:/a:juniper:mobile_system_software"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "23042",
+	"pname": "Juniper Mobile System ソフトウェア",
+	"pcpe": "cpe:/a:juniper:mobile_system_software"
 }

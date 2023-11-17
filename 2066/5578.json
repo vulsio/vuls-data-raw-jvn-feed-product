@@ -1,8 +1,8 @@
 {
-  "vid": "2066",
-  "vname": "aeries",
-  "vcpe": "cpe:/:aeries",
-  "pid": "5578",
-  "pname": "aeries browser interface",
-  "pcpe": "cpe:/a:aeries:aeries_browser_interface"
+	"vid": "2066",
+	"vname": "aeries",
+	"vcpe": "cpe:/:aeries",
+	"pid": "5578",
+	"pname": "aeries browser interface",
+	"pcpe": "cpe:/a:aeries:aeries_browser_interface"
 }

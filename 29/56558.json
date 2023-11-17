@@ -1,8 +1,8 @@
 {
-  "vid": "29",
-  "vname": "エフ・セキュア",
-  "vcpe": "cpe:/:f-secure",
-  "pid": "56558",
-  "pname": "F-Secure Security Cloud",
-  "pcpe": "cpe:/a:f-secure:security_cloud"
+	"vid": "29",
+	"vname": "エフ・セキュア",
+	"vcpe": "cpe:/:f-secure",
+	"pid": "56558",
+	"pname": "F-Secure Security Cloud",
+	"pcpe": "cpe:/a:f-secure:security_cloud"
 }

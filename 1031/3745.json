@@ -1,8 +1,8 @@
 {
-  "vid": "1031",
-  "vname": "Tencent",
-  "vcpe": "cpe:/:qqplayer",
-  "pid": "3745",
-  "pname": "MobileQQ",
-  "pcpe": "cpe:/a:qqplayer:mobileqq"
+	"vid": "1031",
+	"vname": "Tencent",
+	"vcpe": "cpe:/:qqplayer",
+	"pid": "3745",
+	"pname": "MobileQQ",
+	"pcpe": "cpe:/a:qqplayer:mobileqq"
 }

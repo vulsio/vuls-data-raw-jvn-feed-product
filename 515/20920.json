@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "20920",
-  "pname": "Vm-support",
-  "pcpe": "cpe:/a:vmware:vm-support"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "20920",
+	"pname": "Vm-support",
+	"pcpe": "cpe:/a:vmware:vm-support"
 }

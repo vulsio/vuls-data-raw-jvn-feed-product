@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "59158",
-  "pname": "tl-wdr7620 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-wdr7620_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "59158",
+	"pname": "tl-wdr7620 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-wdr7620_firmware"
 }

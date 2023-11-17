@@ -1,8 +1,8 @@
 {
-  "vid": "3608",
-  "vname": "extremez-ip",
-  "vcpe": "cpe:/:extremez-ip",
-  "pid": "7940",
-  "pname": "file server",
-  "pcpe": "cpe:/a:extremez-ip:file_server"
+	"vid": "3608",
+	"vname": "extremez-ip",
+	"vcpe": "cpe:/:extremez-ip",
+	"pid": "7940",
+	"pname": "file server",
+	"pcpe": "cpe:/a:extremez-ip:file_server"
 }

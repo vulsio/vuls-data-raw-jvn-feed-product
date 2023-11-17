@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "49709",
-  "pname": "Samsung Pay mini",
-  "pcpe": "cpe:/a:samsung:pay_mini"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "49709",
+	"pname": "Samsung Pay mini",
+	"pcpe": "cpe:/a:samsung:pay_mini"
 }

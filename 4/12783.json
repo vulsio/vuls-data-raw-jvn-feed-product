@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12783",
-  "pname": "procurve switch 2610-24/12pwr",
-  "pcpe": "cpe:/h:hp:procurve_switch_2610-24%2F12pwr"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12783",
+	"pname": "procurve switch 2610-24/12pwr",
+	"pcpe": "cpe:/h:hp:procurve_switch_2610-24%2F12pwr"
 }

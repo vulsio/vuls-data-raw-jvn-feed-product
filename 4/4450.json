@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4450",
-  "pname": "windows event log smartconnector",
-  "pcpe": "cpe:/a:hp:windows_event_log_smartconnector"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4450",
+	"pname": "windows event log smartconnector",
+	"pcpe": "cpe:/a:hp:windows_event_log_smartconnector"
 }

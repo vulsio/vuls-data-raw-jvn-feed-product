@@ -1,8 +1,8 @@
 {
-  "vid": "13451",
-  "vname": "McKesson Corp.",
-  "vcpe": "cpe:/:mckesson",
-  "pid": "31762",
-  "pname": "Conserus Workflow Intelligence",
-  "pcpe": "cpe:/a:mckesson:conserus_workflow_intelligence"
+	"vid": "13451",
+	"vname": "McKesson Corp.",
+	"vcpe": "cpe:/:mckesson",
+	"pid": "31762",
+	"pname": "Conserus Workflow Intelligence",
+	"pcpe": "cpe:/a:mckesson:conserus_workflow_intelligence"
 }

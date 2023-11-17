@@ -1,8 +1,8 @@
 {
-  "vid": "9241",
-  "vname": "beagle-project",
-  "vcpe": "cpe:/:beagle-project",
-  "pid": "18820",
-  "pname": "beagle",
-  "pcpe": "cpe:/a:beagle-project:beagle"
+	"vid": "9241",
+	"vname": "beagle-project",
+	"vcpe": "cpe:/:beagle-project",
+	"pid": "18820",
+	"pname": "beagle",
+	"pcpe": "cpe:/a:beagle-project:beagle"
 }

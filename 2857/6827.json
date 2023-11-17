@@ -1,8 +1,8 @@
 {
-  "vid": "2857",
-  "vname": "clientsoftware",
-  "vcpe": "cpe:/:clientsoftware",
-  "pid": "6827",
-  "pname": "wincom mpd total",
-  "pcpe": "cpe:/a:clientsoftware:wincom_mpd_total"
+	"vid": "2857",
+	"vname": "clientsoftware",
+	"vcpe": "cpe:/:clientsoftware",
+	"pid": "6827",
+	"pname": "wincom mpd total",
+	"pcpe": "cpe:/a:clientsoftware:wincom_mpd_total"
 }

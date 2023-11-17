@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "58380",
-  "pname": "emg5723-t50k ファームウェア",
-  "pcpe": "cpe:/o:zyxel:emg5723-t50k_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "58380",
+	"pname": "emg5723-t50k ファームウェア",
+	"pcpe": "cpe:/o:zyxel:emg5723-t50k_firmware"
 }

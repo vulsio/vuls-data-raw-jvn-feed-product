@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "3195",
-  "pname": "Cisco Content Delivery System",
-  "pcpe": "cpe:/a:cisco:content_delivery_system"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "3195",
+	"pname": "Cisco Content Delivery System",
+	"pcpe": "cpe:/a:cisco:content_delivery_system"
 }

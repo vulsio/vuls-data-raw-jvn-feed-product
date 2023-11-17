@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "25137",
-  "pname": "Unified Security Gateway ファームウェア",
-  "pcpe": "cpe:/o:huawei:unified_security_gateway_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "25137",
+	"pname": "Unified Security Gateway ファームウェア",
+	"pcpe": "cpe:/o:huawei:unified_security_gateway_firmware"
 }

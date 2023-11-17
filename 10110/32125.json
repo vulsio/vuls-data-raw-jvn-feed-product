@@ -1,8 +1,8 @@
 {
-  "vid": "10110",
-  "vname": "Cheetah Mobile",
-  "vcpe": "cpe:/:cmcm",
-  "pid": "32125",
-  "pname": "Armorflyブラウザ・ダウンローダ",
-  "pcpe": "cpe:/a:cmcm:armorfly_browser_%26_downloader"
+	"vid": "10110",
+	"vname": "Cheetah Mobile",
+	"vcpe": "cpe:/:cmcm",
+	"pid": "32125",
+	"pname": "Armorflyブラウザ・ダウンローダ",
+	"pcpe": "cpe:/a:cmcm:armorfly_browser_%26_downloader"
 }

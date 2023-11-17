@@ -1,8 +1,8 @@
 {
-  "vid": "4194",
-  "vname": "Grandstream Networks",
-  "vcpe": "cpe:/:grandstream",
-  "pid": "38040",
-  "pname": "GXP1615 ファームウェア",
-  "pcpe": "cpe:/o:grandstream:gxp1615_firmware"
+	"vid": "4194",
+	"vname": "Grandstream Networks",
+	"vcpe": "cpe:/:grandstream",
+	"pid": "38040",
+	"pname": "GXP1615 ファームウェア",
+	"pcpe": "cpe:/o:grandstream:gxp1615_firmware"
 }

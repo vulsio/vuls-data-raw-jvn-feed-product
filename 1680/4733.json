@@ -1,8 +1,8 @@
 {
-  "vid": "1680",
-  "vname": "Python Paste",
-  "vcpe": "cpe:/:pythonpaste",
-  "pid": "4733",
-  "pname": "Paste",
-  "pcpe": "cpe:/a:pythonpaste:paste"
+	"vid": "1680",
+	"vname": "Python Paste",
+	"vcpe": "cpe:/:pythonpaste",
+	"pid": "4733",
+	"pname": "Paste",
+	"pcpe": "cpe:/a:pythonpaste:paste"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14142",
-  "vname": "BeaconMedaes",
-  "vcpe": "cpe:/:beaconmedaes",
-  "pid": "33766",
-  "pname": "Scroll Medical Air Systems ファームウェア",
-  "pcpe": "cpe:/o:beaconmedaes:scroll_medical_air_systems_firmware"
+	"vid": "14142",
+	"vname": "BeaconMedaes",
+	"vcpe": "cpe:/:beaconmedaes",
+	"pid": "33766",
+	"pname": "Scroll Medical Air Systems ファームウェア",
+	"pcpe": "cpe:/o:beaconmedaes:scroll_medical_air_systems_firmware"
 }

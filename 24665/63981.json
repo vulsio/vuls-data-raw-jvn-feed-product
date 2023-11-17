@@ -1,8 +1,8 @@
 {
-  "vid": "24665",
-  "vname": "mediacp",
-  "vcpe": "cpe:/:mediacp",
-  "pid": "63981",
-  "pname": "media control panel",
-  "pcpe": "cpe:/a:mediacp:media_control_panel"
+	"vid": "24665",
+	"vname": "mediacp",
+	"vcpe": "cpe:/:mediacp",
+	"pid": "63981",
+	"pname": "media control panel",
+	"pcpe": "cpe:/a:mediacp:media_control_panel"
 }

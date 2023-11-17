@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "47093",
-  "pname": "Reason DR60 ファームウェア",
-  "pcpe": "cpe:/o:ge:reason_dr60_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "47093",
+	"pname": "Reason DR60 ファームウェア",
+	"pcpe": "cpe:/o:ge:reason_dr60_firmware"
 }

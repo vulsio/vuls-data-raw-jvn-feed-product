@@ -1,8 +1,8 @@
 {
-  "vid": "9545",
-  "vname": "Linux Foundation",
-  "vcpe": "cpe:/:linuxfoundation",
-  "pid": "51546",
-  "pname": "gRPC Swift",
-  "pcpe": "cpe:/a:linuxfoundation:grpc_swift"
+	"vid": "9545",
+	"vname": "Linux Foundation",
+	"vcpe": "cpe:/:linuxfoundation",
+	"pid": "51546",
+	"pname": "gRPC Swift",
+	"pcpe": "cpe:/a:linuxfoundation:grpc_swift"
 }

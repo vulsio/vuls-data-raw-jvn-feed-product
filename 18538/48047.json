@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "48047",
-  "pname": "Modicon Quantum 140NOE77111 ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:modicon_quantum_140noe77111_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "48047",
+	"pname": "Modicon Quantum 140NOE77111 ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:modicon_quantum_140noe77111_firmware"
 }

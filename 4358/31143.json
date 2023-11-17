@@ -1,8 +1,8 @@
 {
-  "vid": "4358",
-  "vname": "Korenix Technology",
-  "vcpe": "cpe:/:korenix",
-  "pid": "31143",
-  "pname": "JetNet6710G ファームウェア",
-  "pcpe": "cpe:/o:korenix:jetnet6710g_firmware"
+	"vid": "4358",
+	"vname": "Korenix Technology",
+	"vcpe": "cpe:/:korenix",
+	"pid": "31143",
+	"pname": "JetNet6710G ファームウェア",
+	"pcpe": "cpe:/o:korenix:jetnet6710g_firmware"
 }

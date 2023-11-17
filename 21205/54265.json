@@ -1,8 +1,8 @@
 {
-  "vid": "21205",
-  "vname": "IPACK",
-  "vcpe": "cpe:/:ipack",
-  "pid": "54265",
-  "pname": "SCADA Automation",
-  "pcpe": "cpe:/a:ipack:scada_automation"
+	"vid": "21205",
+	"vname": "IPACK",
+	"vcpe": "cpe:/:ipack",
+	"pid": "54265",
+	"pname": "SCADA Automation",
+	"pcpe": "cpe:/a:ipack:scada_automation"
 }

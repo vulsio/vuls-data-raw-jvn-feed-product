@@ -1,8 +1,8 @@
 {
-  "vid": "23315",
-  "vname": "sialweb",
-  "vcpe": "cpe:/:sialweb",
-  "pid": "60373",
-  "pname": "sialweb cms",
-  "pcpe": "cpe:/a:sialweb:sialweb_cms"
+	"vid": "23315",
+	"vname": "sialweb",
+	"vcpe": "cpe:/:sialweb",
+	"pid": "60373",
+	"pname": "sialweb cms",
+	"pcpe": "cpe:/a:sialweb:sialweb_cms"
 }

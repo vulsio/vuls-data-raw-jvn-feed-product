@@ -1,8 +1,8 @@
 {
-  "vid": "12482",
-  "vname": "Cambium Networks, LTD",
-  "vcpe": "cpe:/:cambium_networks",
-  "pid": "29537",
-  "pname": "ePMP 1000 ファームウェア",
-  "pcpe": "cpe:/o:cambium_networks:epmp_1000_firmware"
+	"vid": "12482",
+	"vname": "Cambium Networks, LTD",
+	"vcpe": "cpe:/:cambium_networks",
+	"pid": "29537",
+	"pname": "ePMP 1000 ファームウェア",
+	"pcpe": "cpe:/o:cambium_networks:epmp_1000_firmware"
 }

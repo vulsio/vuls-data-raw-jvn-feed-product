@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24073",
-  "pname": "Cisco Sourcefire 3D6500 センサー",
-  "pcpe": "cpe:/h:cisco:sourcefire_3d6500_sensor"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24073",
+	"pname": "Cisco Sourcefire 3D6500 センサー",
+	"pcpe": "cpe:/h:cisco:sourcefire_3d6500_sensor"
 }

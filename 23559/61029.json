@@ -1,8 +1,8 @@
 {
-  "vid": "23559",
-  "vname": "appfire",
-  "vcpe": "cpe:/:appfire",
-  "pid": "61029",
-  "pname": "jira misc custom fields",
-  "pcpe": "cpe:/a:appfire:jira_misc_custom_fields"
+	"vid": "23559",
+	"vname": "appfire",
+	"vcpe": "cpe:/:appfire",
+	"pid": "61029",
+	"pname": "jira misc custom fields",
+	"pcpe": "cpe:/a:appfire:jira_misc_custom_fields"
 }

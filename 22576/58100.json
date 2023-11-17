@@ -1,8 +1,8 @@
 {
-  "vid": "22576",
-  "vname": "horovod",
-  "vcpe": "cpe:/:horovod",
-  "pid": "58100",
-  "pname": "horovod",
-  "pcpe": "cpe:/a:horovod:horovod"
+	"vid": "22576",
+	"vname": "horovod",
+	"vcpe": "cpe:/:horovod",
+	"pid": "58100",
+	"pname": "horovod",
+	"pcpe": "cpe:/a:horovod:horovod"
 }

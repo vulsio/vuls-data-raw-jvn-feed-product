@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "44833",
-  "pname": "AFF A220 ファームウェア",
-  "pcpe": "cpe:/o:netapp:aff_a220_firmware"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "44833",
+	"pname": "AFF A220 ファームウェア",
+	"pcpe": "cpe:/o:netapp:aff_a220_firmware"
 }

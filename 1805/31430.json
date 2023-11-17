@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31430",
-  "pname": "TL-WAR458 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-war458_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31430",
+	"pname": "TL-WAR458 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-war458_firmware"
 }

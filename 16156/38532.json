@@ -1,8 +1,8 @@
 {
-  "vid": "16156",
-  "vname": "Deltek, inc",
-  "vcpe": "cpe:/:deltek",
-  "pid": "38532",
-  "pname": "Deltek Vision",
-  "pcpe": "cpe:/a:deltek:vision"
+	"vid": "16156",
+	"vname": "Deltek, inc",
+	"vcpe": "cpe:/:deltek",
+	"pid": "38532",
+	"pname": "Deltek Vision",
+	"pcpe": "cpe:/a:deltek:vision"
 }

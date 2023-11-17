@@ -1,8 +1,8 @@
 {
-  "vid": "2004",
-  "vname": "Acronis International GmbH",
-  "vcpe": "cpe:/:acronis",
-  "pid": "5463",
-  "pname": "true image echo server",
-  "pcpe": "cpe:/a:acronis:true_image_echo_server"
+	"vid": "2004",
+	"vname": "Acronis International GmbH",
+	"vcpe": "cpe:/:acronis",
+	"pid": "5463",
+	"pname": "true image echo server",
+	"pcpe": "cpe:/a:acronis:true_image_echo_server"
 }

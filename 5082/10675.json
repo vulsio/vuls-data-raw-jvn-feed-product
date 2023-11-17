@@ -1,8 +1,8 @@
 {
-  "vid": "5082",
-  "vname": "jQuery",
-  "vcpe": "cpe:/:jquery",
-  "pid": "10675",
-  "pname": "jQuery",
-  "pcpe": "cpe:/a:jquery:jquery"
+	"vid": "5082",
+	"vname": "jQuery",
+	"vcpe": "cpe:/:jquery",
+	"pid": "10675",
+	"pname": "jQuery",
+	"pcpe": "cpe:/a:jquery:jquery"
 }

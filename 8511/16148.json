@@ -1,8 +1,8 @@
 {
-  "vid": "8511",
-  "vname": "wiccle",
-  "vcpe": "cpe:/:wiccle",
-  "pid": "16148",
-  "pname": "wiccle web builder",
-  "pcpe": "cpe:/a:wiccle:wiccle_web_builder"
+	"vid": "8511",
+	"vname": "wiccle",
+	"vcpe": "cpe:/:wiccle",
+	"pid": "16148",
+	"pname": "wiccle web builder",
+	"pcpe": "cpe:/a:wiccle:wiccle_web_builder"
 }

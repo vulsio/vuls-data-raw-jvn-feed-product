@@ -1,8 +1,8 @@
 {
-  "vid": "7783",
-  "vname": "ssl-explorer",
-  "vcpe": "cpe:/:ssl-explorer",
-  "pid": "15048",
-  "pname": "ssl-explorer",
-  "pcpe": "cpe:/a:ssl-explorer:ssl-explorer"
+	"vid": "7783",
+	"vname": "ssl-explorer",
+	"vcpe": "cpe:/:ssl-explorer",
+	"pid": "15048",
+	"pname": "ssl-explorer",
+	"pcpe": "cpe:/a:ssl-explorer:ssl-explorer"
 }

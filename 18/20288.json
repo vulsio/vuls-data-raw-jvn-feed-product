@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20288",
-  "pname": "IBM Virtualization Engine TS7700 ファームウェア",
-  "pcpe": "cpe:/o:ibm:system_storage_virtualization_engine_ts7700_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20288",
+	"pname": "IBM Virtualization Engine TS7700 ファームウェア",
+	"pcpe": "cpe:/o:ibm:system_storage_virtualization_engine_ts7700_firmware"
 }

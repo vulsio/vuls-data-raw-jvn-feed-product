@@ -1,8 +1,8 @@
 {
-  "vid": "9814",
-  "vname": "Game tabs project",
-  "vcpe": "cpe:/:game_tab_project",
-  "pid": "20460",
-  "pname": "Game tabs",
-  "pcpe": "cpe:/a:game_tab_project:game_tabs"
+	"vid": "9814",
+	"vname": "Game tabs project",
+	"vcpe": "cpe:/:game_tab_project",
+	"pid": "20460",
+	"pname": "Game tabs",
+	"pcpe": "cpe:/a:game_tab_project:game_tabs"
 }

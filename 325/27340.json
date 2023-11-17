@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27340",
-  "pname": "ThinkPad S5 Yoga 15 BIOS",
-  "pcpe": "cpe:/o:lenovo:thinkpad_s5_yoga_15_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27340",
+	"pname": "ThinkPad S5 Yoga 15 BIOS",
+	"pcpe": "cpe:/o:lenovo:thinkpad_s5_yoga_15_bios"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "1801",
-  "pname": "SNC-CS50N",
-  "pcpe": "cpe:/h:sony:sony_network_camera_snc-cs50n"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "1801",
+	"pname": "SNC-CS50N",
+	"pcpe": "cpe:/h:sony:sony_network_camera_snc-cs50n"
 }

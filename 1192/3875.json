@@ -1,8 +1,8 @@
 {
-  "vid": "1192",
-  "vname": "Category-System",
-  "vcpe": "cpe:/:typo3",
-  "pid": "3875",
-  "pname": "Category-System",
-  "pcpe": "cpe:/a:typo3:toi_category"
+	"vid": "1192",
+	"vname": "Category-System",
+	"vcpe": "cpe:/:typo3",
+	"pid": "3875",
+	"pname": "Category-System",
+	"pcpe": "cpe:/a:typo3:toi_category"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19998",
-  "vname": "pgxn",
-  "vcpe": "cpe:/:pgxn",
-  "pid": "50643",
-  "pname": "pg_partman",
-  "pcpe": "cpe:/a:pgxn:pg_partman"
+	"vid": "19998",
+	"vname": "pgxn",
+	"vcpe": "cpe:/:pgxn",
+	"pid": "50643",
+	"pname": "pg_partman",
+	"pcpe": "cpe:/a:pgxn:pg_partman"
 }

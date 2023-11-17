@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "44754",
-  "pname": "Omada Controller",
-  "pcpe": "cpe:/a:tp-link:omada_controller"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "44754",
+	"pname": "Omada Controller",
+	"pcpe": "cpe:/a:tp-link:omada_controller"
 }

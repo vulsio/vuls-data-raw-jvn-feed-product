@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "25212",
-  "pname": "VMware vRealize Operations",
-  "pcpe": "cpe:/a:vmware:vrealize_operations"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "25212",
+	"pname": "VMware vRealize Operations",
+	"pcpe": "cpe:/a:vmware:vrealize_operations"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "692",
-  "pname": "Cisco 8110 シリーズ",
-  "pcpe": "cpe:/h:cisco:8110_router"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "692",
+	"pname": "Cisco 8110 シリーズ",
+	"pcpe": "cpe:/h:cisco:8110_router"
 }

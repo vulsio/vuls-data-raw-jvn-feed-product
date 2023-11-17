@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "60778",
-  "pname": "*",
-  "pcpe": "cpe:/h:intel:%2A"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "60778",
+	"pname": "*",
+	"pcpe": "cpe:/h:intel:%2A"
 }

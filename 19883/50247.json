@@ -1,8 +1,8 @@
 {
-  "vid": "19883",
-  "vname": "Hame Technology Co., Limited",
-  "vcpe": "cpe:/:hametech",
-  "pid": "50247",
-  "pname": "Hame SD1 Wi-Fi ファームウェア",
-  "pcpe": "cpe:/o:hametech:hame_sd1_wi-fi_firmware"
+	"vid": "19883",
+	"vname": "Hame Technology Co., Limited",
+	"vcpe": "cpe:/:hametech",
+	"pid": "50247",
+	"pname": "Hame SD1 Wi-Fi ファームウェア",
+	"pcpe": "cpe:/o:hametech:hame_sd1_wi-fi_firmware"
 }

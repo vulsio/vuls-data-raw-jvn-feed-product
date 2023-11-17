@@ -1,8 +1,8 @@
 {
-  "vid": "12625",
-  "vname": "Bitrix project",
-  "vcpe": "cpe:/:bitrix_project",
-  "pid": "28823",
-  "pname": "Bitrix",
-  "pcpe": "cpe:/a:bitrix_project:bitrix"
+	"vid": "12625",
+	"vname": "Bitrix project",
+	"vcpe": "cpe:/:bitrix_project",
+	"pid": "28823",
+	"pname": "Bitrix",
+	"pcpe": "cpe:/a:bitrix_project:bitrix"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1096",
-  "vname": "Irfan Skiljan",
-  "vcpe": "cpe:/:irfanview",
-  "pid": "8991",
-  "pname": "IrfanView PlugIns",
-  "pcpe": "cpe:/a:irfanview:irfanview_plugins"
+	"vid": "1096",
+	"vname": "Irfan Skiljan",
+	"vcpe": "cpe:/:irfanview",
+	"pid": "8991",
+	"pname": "IrfanView PlugIns",
+	"pcpe": "cpe:/a:irfanview:irfanview_plugins"
 }

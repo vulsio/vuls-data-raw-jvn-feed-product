@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "39337",
-  "pname": "XC92X5_ファームウェア",
-  "pcpe": "cpe:/o:lexmark:xc92x5_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "39337",
+	"pname": "XC92X5_ファームウェア",
+	"pcpe": "cpe:/o:lexmark:xc92x5_firmware"
 }

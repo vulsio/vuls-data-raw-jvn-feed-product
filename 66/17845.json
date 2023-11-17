@@ -1,8 +1,8 @@
 {
-  "vid": "66",
-  "vname": "XOOPS",
-  "vcpe": "cpe:/:xoops",
-  "pid": "17845",
-  "pname": "mod_gallery",
-  "pcpe": "cpe:/a:xoops:xoopsgallery_module"
+	"vid": "66",
+	"vname": "XOOPS",
+	"vcpe": "cpe:/:xoops",
+	"pid": "17845",
+	"pname": "mod_gallery",
+	"pcpe": "cpe:/a:xoops:xoopsgallery_module"
 }

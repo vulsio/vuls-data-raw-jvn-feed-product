@@ -1,8 +1,8 @@
 {
-  "vid": "9930",
-  "vname": "Quartz plugin project",
-  "vcpe": "cpe:/:quartz_plugin_project",
-  "pid": "20729",
-  "pname": "Quartz",
-  "pcpe": "cpe:/a:quartz_plugin_project:quartz_plugin"
+	"vid": "9930",
+	"vname": "Quartz plugin project",
+	"vcpe": "cpe:/:quartz_plugin_project",
+	"pid": "20729",
+	"pname": "Quartz",
+	"pcpe": "cpe:/a:quartz_plugin_project:quartz_plugin"
 }

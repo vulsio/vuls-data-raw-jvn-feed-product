@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "36724",
-  "pname": "1756-EN2TR Series ファームウェア",
-  "pcpe": "cpe:/o:rockwellautomation:1756-en2tr_series_firmware"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "36724",
+	"pname": "1756-EN2TR Series ファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:1756-en2tr_series_firmware"
 }

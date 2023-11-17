@@ -1,8 +1,8 @@
 {
-  "vid": "6700",
-  "vname": "armagetron",
-  "vcpe": "cpe:/:armagetron",
-  "pid": "13457",
-  "pname": "armagetron advanced",
-  "pcpe": "cpe:/a:armagetron:armagetron_advanced"
+	"vid": "6700",
+	"vname": "armagetron",
+	"vcpe": "cpe:/:armagetron",
+	"pid": "13457",
+	"pname": "armagetron advanced",
+	"pcpe": "cpe:/a:armagetron:armagetron_advanced"
 }

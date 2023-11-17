@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "33693",
-  "pname": "DIR-604M ファームウェア",
-  "pcpe": "cpe:/o:dlink:dir-604m_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "33693",
+	"pname": "DIR-604M ファームウェア",
+	"pcpe": "cpe:/o:dlink:dir-604m_firmware"
 }

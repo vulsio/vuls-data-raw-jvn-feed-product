@@ -1,8 +1,8 @@
 {
-  "vid": "254",
-  "vname": "Claws Mail",
-  "vcpe": "cpe:/:claws_mail",
-  "pid": "896",
-  "pname": "Claws Mail",
-  "pcpe": "cpe:/a:claws_mail:claws_mail"
+	"vid": "254",
+	"vname": "Claws Mail",
+	"vcpe": "cpe:/:claws_mail",
+	"pid": "896",
+	"pname": "Claws Mail",
+	"pcpe": "cpe:/a:claws_mail:claws_mail"
 }

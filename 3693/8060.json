@@ -1,8 +1,8 @@
 {
-  "vid": "3693",
-  "vname": "fipsasp",
-  "vcpe": "cpe:/:fipsasp",
-  "pid": "8060",
-  "pname": "fipscms light",
-  "pcpe": "cpe:/a:fipsasp:fipscms_light"
+	"vid": "3693",
+	"vname": "fipsasp",
+	"vcpe": "cpe:/:fipsasp",
+	"pid": "8060",
+	"pname": "fipscms light",
+	"pcpe": "cpe:/a:fipsasp:fipscms_light"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "55496",
-  "pname": "TL-WA901ND V1 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-wa901nd_v1_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "55496",
+	"pname": "TL-WA901ND V1 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-wa901nd_v1_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4457",
-  "vname": "TRENDnet",
-  "vcpe": "cpe:/:trendnet",
-  "pid": "36905",
-  "pname": "TEW-632BRP ファームウェア",
-  "pcpe": "cpe:/o:trendnet:tew-632brp_firmware"
+	"vid": "4457",
+	"vname": "TRENDnet",
+	"vcpe": "cpe:/:trendnet",
+	"pid": "36905",
+	"pname": "TEW-632BRP ファームウェア",
+	"pcpe": "cpe:/o:trendnet:tew-632brp_firmware"
 }

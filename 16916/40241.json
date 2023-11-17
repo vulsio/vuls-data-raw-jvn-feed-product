@@ -1,8 +1,8 @@
 {
-  "vid": "16916",
-  "vname": "untrusted project",
-  "vcpe": "cpe:/:untrusted_project",
-  "pid": "40241",
-  "pname": "untrusted",
-  "pcpe": "cpe:/a:untrusted_project:untrusted"
+	"vid": "16916",
+	"vname": "untrusted project",
+	"vcpe": "cpe:/:untrusted_project",
+	"pid": "40241",
+	"pname": "untrusted",
+	"pcpe": "cpe:/a:untrusted_project:untrusted"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22059",
-  "vname": "コニカミノルタ株式会社",
-  "vcpe": "cpe:/:konicaminolta",
-  "pid": "59655",
-  "pname": "bizhub 308e ファームウェア",
-  "pcpe": "cpe:/o:konicaminolta:bizhub_308e_firmware"
+	"vid": "22059",
+	"vname": "コニカミノルタ株式会社",
+	"vcpe": "cpe:/:konicaminolta",
+	"pid": "59655",
+	"pname": "bizhub 308e ファームウェア",
+	"pcpe": "cpe:/o:konicaminolta:bizhub_308e_firmware"
 }

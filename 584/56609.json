@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "56609",
-  "pname": "SIMATIC Drive Controller CPU 1507D TF ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_drive_controller_cpu_1507d_tf_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "56609",
+	"pname": "SIMATIC Drive Controller CPU 1507D TF ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_drive_controller_cpu_1507d_tf_firmware"
 }

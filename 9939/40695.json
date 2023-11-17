@@ -1,8 +1,8 @@
 {
-  "vid": "9939",
-  "vname": "Cobham plc",
-  "vcpe": "cpe:/:cobham",
-  "pid": "40695",
-  "pname": "Sea Tel Usat30 Vsat ファームウェア",
-  "pcpe": "cpe:/o:cobham:sea_tel_usat30_vsat_firmware"
+	"vid": "9939",
+	"vname": "Cobham plc",
+	"vcpe": "cpe:/:cobham",
+	"pid": "40695",
+	"pname": "Sea Tel Usat30 Vsat ファームウェア",
+	"pcpe": "cpe:/o:cobham:sea_tel_usat30_vsat_firmware"
 }

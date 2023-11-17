@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "4028",
-  "pname": "VMware vCenter Chargeback Manager",
-  "pcpe": "cpe:/a:vmware:vcenter_chargeback_manager"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "4028",
+	"pname": "VMware vCenter Chargeback Manager",
+	"pcpe": "cpe:/a:vmware:vcenter_chargeback_manager"
 }

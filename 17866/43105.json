@@ -1,8 +1,8 @@
 {
-  "vid": "17866",
-  "vname": "CIK Telecom",
-  "vcpe": "cpe:/:ciktel",
-  "pid": "43105",
-  "pname": "MESH Router ファームウェア",
-  "pcpe": "cpe:/o:ciktel:mesh_router_firmware"
+	"vid": "17866",
+	"vname": "CIK Telecom",
+	"vcpe": "cpe:/:ciktel",
+	"pid": "43105",
+	"pname": "MESH Router ファームウェア",
+	"pcpe": "cpe:/o:ciktel:mesh_router_firmware"
 }

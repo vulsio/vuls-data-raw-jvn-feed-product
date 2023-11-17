@@ -1,8 +1,8 @@
 {
-  "vid": "8121",
-  "vname": "trident software",
-  "vcpe": "cpe:/:trident_software",
-  "pid": "15564",
-  "pname": "powerzip",
-  "pcpe": "cpe:/a:trident_software:powerzip"
+	"vid": "8121",
+	"vname": "trident software",
+	"vcpe": "cpe:/:trident_software",
+	"pid": "15564",
+	"pname": "powerzip",
+	"pcpe": "cpe:/a:trident_software:powerzip"
 }

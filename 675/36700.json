@@ -1,8 +1,8 @@
 {
-  "vid": "675",
-  "vname": "Icinga GmbH",
-  "vcpe": "cpe:/:icinga",
-  "pid": "36700",
-  "pname": "Icinga Web 2",
-  "pcpe": "cpe:/a:icinga:icinga_web_2"
+	"vid": "675",
+	"vname": "Icinga GmbH",
+	"vcpe": "cpe:/:icinga",
+	"pid": "36700",
+	"pname": "Icinga Web 2",
+	"pcpe": "cpe:/a:icinga:icinga_web_2"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "45019",
-  "pname": "Ultrasound CX",
-  "pcpe": "cpe:/o:philips:ultrasound_cx"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "45019",
+	"pname": "Ultrasound CX",
+	"pcpe": "cpe:/o:philips:ultrasound_cx"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12136",
-  "vname": "Jetstar Airways Pty Ltd.",
-  "vcpe": "cpe:/:jetstar",
-  "pid": "26126",
-  "pname": "ジェットスター",
-  "pcpe": "cpe:/a:jetstar:jetstar"
+	"vid": "12136",
+	"vname": "Jetstar Airways Pty Ltd.",
+	"vcpe": "cpe:/:jetstar",
+	"pid": "26126",
+	"pname": "ジェットスター",
+	"pcpe": "cpe:/a:jetstar:jetstar"
 }

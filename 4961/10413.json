@@ -1,8 +1,8 @@
 {
-  "vid": "4961",
-  "vname": "jetik",
-  "vcpe": "cpe:/:jetik",
-  "pid": "10413",
-  "pname": "jetik-web",
-  "pcpe": "cpe:/a:jetik:jetik-web"
+	"vid": "4961",
+	"vname": "jetik",
+	"vcpe": "cpe:/:jetik",
+	"pid": "10413",
+	"pname": "jetik-web",
+	"pcpe": "cpe:/a:jetik:jetik-web"
 }

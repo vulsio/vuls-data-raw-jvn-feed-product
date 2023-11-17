@@ -1,8 +1,8 @@
 {
-  "vid": "21474",
-  "vname": "SSSD",
-  "vcpe": "cpe:/:sssd",
-  "pid": "55113",
-  "pname": "SSSD",
-  "pcpe": "cpe:/a:sssd:sssd"
+	"vid": "21474",
+	"vname": "SSSD",
+	"vcpe": "cpe:/:sssd",
+	"pid": "55113",
+	"pname": "SSSD",
+	"pcpe": "cpe:/a:sssd:sssd"
 }

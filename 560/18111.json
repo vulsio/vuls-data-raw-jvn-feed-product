@@ -1,8 +1,8 @@
 {
-  "vid": "560",
-  "vname": "OSIsoft",
-  "vcpe": "cpe:/:osisoft",
-  "pid": "18111",
-  "pname": "OSIsoft PI Interface",
-  "pcpe": "cpe:/a:osisoft:pi_interface"
+	"vid": "560",
+	"vname": "OSIsoft",
+	"vcpe": "cpe:/:osisoft",
+	"pid": "18111",
+	"pname": "OSIsoft PI Interface",
+	"pcpe": "cpe:/a:osisoft:pi_interface"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "41764",
-  "pname": "Galaxy J7 Max ファームウェア",
-  "pcpe": "cpe:/o:samsung:galaxy_j7_max_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "41764",
+	"pname": "Galaxy J7 Max ファームウェア",
+	"pcpe": "cpe:/o:samsung:galaxy_j7_max_firmware"
 }

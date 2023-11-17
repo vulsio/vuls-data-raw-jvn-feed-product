@@ -1,8 +1,8 @@
 {
-  "vid": "22271",
-  "vname": "Translation Exchange, Inc",
-  "vcpe": "cpe:/:translationexchange",
-  "pid": "57265",
-  "pname": "translation-exchange",
-  "pcpe": "cpe:/a:translationexchange:translation_exchange"
+	"vid": "22271",
+	"vname": "Translation Exchange, Inc",
+	"vcpe": "cpe:/:translationexchange",
+	"pid": "57265",
+	"pname": "translation-exchange",
+	"pcpe": "cpe:/a:translationexchange:translation_exchange"
 }

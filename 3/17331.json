@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "17331",
-  "pname": "Red Hat Enterprise Linux Server EUS",
-  "pcpe": "cpe:/o:redhat:enterprise_linux_server_eus"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "17331",
+	"pname": "Red Hat Enterprise Linux Server EUS",
+	"pcpe": "cpe:/o:redhat:enterprise_linux_server_eus"
 }

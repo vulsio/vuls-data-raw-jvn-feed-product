@@ -1,8 +1,8 @@
 {
-  "vid": "12154",
-  "vname": "株式会社DMM.comラボ",
-  "vcpe": "cpe:/:misc",
-  "pid": "26321",
-  "pname": "Android 動画再生専用アプリ",
-  "pcpe": "cpe:/a:misc:dmm.com_android_player_app"
+	"vid": "12154",
+	"vname": "株式会社DMM.comラボ",
+	"vcpe": "cpe:/:misc",
+	"pid": "26321",
+	"pname": "Android 動画再生専用アプリ",
+	"pcpe": "cpe:/a:misc:dmm.com_android_player_app"
 }

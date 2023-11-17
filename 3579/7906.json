@@ -1,8 +1,8 @@
 {
-  "vid": "3579",
-  "vname": "ewire",
-  "vcpe": "cpe:/:ewire",
-  "pid": "7906",
-  "pname": "payment client",
-  "pcpe": "cpe:/a:ewire:payment_client"
+	"vid": "3579",
+	"vname": "ewire",
+	"vcpe": "cpe:/:ewire",
+	"pid": "7906",
+	"pname": "payment client",
+	"pcpe": "cpe:/a:ewire:payment_client"
 }

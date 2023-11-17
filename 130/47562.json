@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "47562",
-  "pname": "Intel Data Center Manager",
-  "pcpe": "cpe:/a:intel:data_center_manager"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "47562",
+	"pname": "Intel Data Center Manager",
+	"pcpe": "cpe:/a:intel:data_center_manager"
 }

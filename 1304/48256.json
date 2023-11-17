@@ -1,8 +1,8 @@
 {
-  "vid": "1304",
-  "vname": "カスペルスキー",
-  "vcpe": "cpe:/:kaspersky",
-  "pid": "48256",
-  "pname": "Kaspersky Anti-Ransomware Tool",
-  "pcpe": "cpe:/a:kaspersky:anti-ransomware_tool"
+	"vid": "1304",
+	"vname": "カスペルスキー",
+	"vcpe": "cpe:/:kaspersky",
+	"pid": "48256",
+	"pname": "Kaspersky Anti-Ransomware Tool",
+	"pcpe": "cpe:/a:kaspersky:anti-ransomware_tool"
 }

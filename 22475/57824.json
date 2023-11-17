@@ -1,8 +1,8 @@
 {
-  "vid": "22475",
-  "vname": "npm-lockfile project",
-  "vcpe": "cpe:/:npm-lockfile_project",
-  "pid": "57824",
-  "pname": "npm-lockfile",
-  "pcpe": "cpe:/a:npm-lockfile_project:npm-lockfile"
+	"vid": "22475",
+	"vname": "npm-lockfile project",
+	"vcpe": "cpe:/:npm-lockfile_project",
+	"pid": "57824",
+	"pname": "npm-lockfile",
+	"pcpe": "cpe:/a:npm-lockfile_project:npm-lockfile"
 }

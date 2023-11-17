@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "54841",
-  "pname": "WCR-1166DS ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wcr-1166ds_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "54841",
+	"pname": "WCR-1166DS ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wcr-1166ds_firmware"
 }

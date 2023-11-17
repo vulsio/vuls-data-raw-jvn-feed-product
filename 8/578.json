@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "578",
-  "pname": "Apache Struts",
-  "pcpe": "cpe:/a:apache:struts"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "578",
+	"pname": "Apache Struts",
+	"pcpe": "cpe:/a:apache:struts"
 }

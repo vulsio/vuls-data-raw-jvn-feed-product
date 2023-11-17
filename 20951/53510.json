@@ -1,8 +1,8 @@
 {
-  "vid": "20951",
-  "vname": "IFSC Code Finder Project",
-  "vcpe": "cpe:/:ifsc_code_finder_project",
-  "pid": "53510",
-  "pname": "IFSC Code Finder",
-  "pcpe": "cpe:/a:ifsc_code_finder_project:ifsc_code_finder"
+	"vid": "20951",
+	"vname": "IFSC Code Finder Project",
+	"vcpe": "cpe:/:ifsc_code_finder_project",
+	"pid": "53510",
+	"pname": "IFSC Code Finder",
+	"pcpe": "cpe:/a:ifsc_code_finder_project:ifsc_code_finder"
 }

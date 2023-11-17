@@ -1,8 +1,8 @@
 {
-  "vid": "1795",
-  "vname": "GeoVision",
-  "vcpe": "cpe:/:geovision",
-  "pid": "40329",
-  "pname": "GV-VD8700 ファームウェア",
-  "pcpe": "cpe:/o:geovision:gv-vd8700_firmware"
+	"vid": "1795",
+	"vname": "GeoVision",
+	"vcpe": "cpe:/:geovision",
+	"pid": "40329",
+	"pname": "GV-VD8700 ファームウェア",
+	"pcpe": "cpe:/o:geovision:gv-vd8700_firmware"
 }

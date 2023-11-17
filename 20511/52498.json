@@ -1,8 +1,8 @@
 {
-  "vid": "20511",
-  "vname": "ZStack",
-  "vcpe": "cpe:/:zstack",
-  "pid": "52498",
-  "pname": "ZStack",
-  "pcpe": "cpe:/a:zstack:zstack"
+	"vid": "20511",
+	"vname": "ZStack",
+	"vcpe": "cpe:/:zstack",
+	"pid": "52498",
+	"pname": "ZStack",
+	"pcpe": "cpe:/a:zstack:zstack"
 }

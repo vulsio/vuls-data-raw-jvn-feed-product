@@ -1,8 +1,8 @@
 {
-  "vid": "10316",
-  "vname": "Greenplum",
-  "vcpe": "cpe:/:greenplum",
-  "pid": "21753",
-  "pname": "Grails",
-  "pcpe": "cpe:/a:greenplum:grails"
+	"vid": "10316",
+	"vname": "Greenplum",
+	"vcpe": "cpe:/:greenplum",
+	"pid": "21753",
+	"pname": "Grails",
+	"pcpe": "cpe:/a:greenplum:grails"
 }

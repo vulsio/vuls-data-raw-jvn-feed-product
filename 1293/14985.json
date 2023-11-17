@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "14985",
-  "pname": "Sophos Anti-Virus エンジン",
-  "pcpe": "cpe:/a:sophos:scanning_engine"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "14985",
+	"pname": "Sophos Anti-Virus エンジン",
+	"pcpe": "cpe:/a:sophos:scanning_engine"
 }

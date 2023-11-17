@@ -1,8 +1,8 @@
 {
-  "vid": "5599",
-  "vname": "messagerie locale",
-  "vcpe": "cpe:/:messagerie_locale",
-  "pid": "11456",
-  "pname": "messagerie locale",
-  "pcpe": "cpe:/a:messagerie_locale:messagerie_locale"
+	"vid": "5599",
+	"vname": "messagerie locale",
+	"vcpe": "cpe:/:messagerie_locale",
+	"pid": "11456",
+	"pname": "messagerie locale",
+	"pcpe": "cpe:/a:messagerie_locale:messagerie_locale"
 }

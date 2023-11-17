@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "52321",
-  "pname": "SCALANCE W1700 ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_w1700_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "52321",
+	"pname": "SCALANCE W1700 ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_w1700_firmware"
 }

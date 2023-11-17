@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "40160",
-  "pname": "CS41x_ファームウェア",
-  "pcpe": "cpe:/o:lexmark:cs41x_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "40160",
+	"pname": "CS41x_ファームウェア",
+	"pcpe": "cpe:/o:lexmark:cs41x_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "33015",
-  "pname": "PeopleSoft Enterprise HCM",
-  "pcpe": "cpe:/a:oracle:peoplesoft_enterprise_human_capital_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "33015",
+	"pname": "PeopleSoft Enterprise HCM",
+	"pcpe": "cpe:/a:oracle:peoplesoft_enterprise_human_capital_management"
 }

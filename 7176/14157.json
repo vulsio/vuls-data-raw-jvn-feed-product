@@ -1,8 +1,8 @@
 {
-  "vid": "7176",
-  "vname": "quark",
-  "vcpe": "cpe:/:quark",
-  "pid": "14157",
-  "pname": "quarkxpress",
-  "pcpe": "cpe:/a:quark:quarkxpress"
+	"vid": "7176",
+	"vname": "quark",
+	"vcpe": "cpe:/:quark",
+	"pid": "14157",
+	"pname": "quarkxpress",
+	"pcpe": "cpe:/a:quark:quarkxpress"
 }

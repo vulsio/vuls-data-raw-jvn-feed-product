@@ -1,8 +1,8 @@
 {
-  "vid": "14780",
-  "vname": "Telesquare",
-  "vcpe": "cpe:/:telesquare",
-  "pid": "58359",
-  "pname": "tlr-2855ks6 firmware",
-  "pcpe": "cpe:/o:telesquare:tlr-2855ks6_firmware"
+	"vid": "14780",
+	"vname": "Telesquare",
+	"vcpe": "cpe:/:telesquare",
+	"pid": "58359",
+	"pname": "tlr-2855ks6 firmware",
+	"pcpe": "cpe:/o:telesquare:tlr-2855ks6_firmware"
 }

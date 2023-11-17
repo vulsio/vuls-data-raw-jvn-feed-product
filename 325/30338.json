@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30338",
-  "pname": "Lenovo RackSwitch G8124E ファームウェア",
-  "pcpe": "cpe:/o:lenovo:g8124e_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30338",
+	"pname": "Lenovo RackSwitch G8124E ファームウェア",
+	"pcpe": "cpe:/o:lenovo:g8124e_firmware"
 }

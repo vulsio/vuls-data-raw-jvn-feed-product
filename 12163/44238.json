@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "44238",
-  "pname": "AWSEB Deployment",
-  "pcpe": "cpe:/a:jenkins:awseb_deployment"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "44238",
+	"pname": "AWSEB Deployment",
+	"pcpe": "cpe:/a:jenkins:awseb_deployment"
 }

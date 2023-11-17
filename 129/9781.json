@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "9781",
-  "pname": "Cosminexus Developer Professional Version 6",
-  "pcpe": "cpe:/a:hitachi:cosminexus_developer_professional_version_6"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "9781",
+	"pname": "Cosminexus Developer Professional Version 6",
+	"pcpe": "cpe:/a:hitachi:cosminexus_developer_professional_version_6"
 }

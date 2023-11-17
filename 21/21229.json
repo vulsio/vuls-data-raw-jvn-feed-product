@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "21229",
-  "pname": "Juniper Installer Service Client",
-  "pcpe": "cpe:/a:juniper:juniper_installer_service_client"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "21229",
+	"pname": "Juniper Installer Service Client",
+	"pcpe": "cpe:/a:juniper:juniper_installer_service_client"
 }

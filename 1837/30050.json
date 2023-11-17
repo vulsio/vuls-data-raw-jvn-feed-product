@@ -1,8 +1,8 @@
 {
-  "vid": "1837",
-  "vname": "Quest Software Inc.",
-  "vcpe": "cpe:/:quest",
-  "pid": "30050",
-  "pname": "K1000 as a Service",
-  "pcpe": "cpe:/a:quest:k1000_as_a_service"
+	"vid": "1837",
+	"vname": "Quest Software Inc.",
+	"vcpe": "cpe:/:quest",
+	"pid": "30050",
+	"pname": "K1000 as a Service",
+	"pcpe": "cpe:/a:quest:k1000_as_a_service"
 }

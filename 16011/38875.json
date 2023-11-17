@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "38875",
-  "pname": "DIVAR IP 7000 ファームウェア",
-  "pcpe": "cpe:/o:bosch:dip_7000_firmware"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "38875",
+	"pname": "DIVAR IP 7000 ファームウェア",
+	"pcpe": "cpe:/o:bosch:dip_7000_firmware"
 }

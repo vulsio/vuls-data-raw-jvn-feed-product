@@ -1,8 +1,8 @@
 {
-  "vid": "18944",
-  "vname": "sass lint project",
-  "vcpe": "cpe:/:sass_lint_project",
-  "pid": "55781",
-  "pname": "vscode-sass-lint",
-  "pcpe": "cpe:/a:sass_lint_project:sass_lint"
+	"vid": "18944",
+	"vname": "sass lint project",
+	"vcpe": "cpe:/:sass_lint_project",
+	"pid": "55781",
+	"pname": "vscode-sass-lint",
+	"pcpe": "cpe:/a:sass_lint_project:sass_lint"
 }

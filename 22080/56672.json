@@ -1,8 +1,8 @@
 {
-  "vid": "22080",
-  "vname": "angular-test-reporter project",
-  "vcpe": "cpe:/:angular-test-reporter_project",
-  "pid": "56672",
-  "pname": "angular-test-reporter",
-  "pcpe": "cpe:/a:angular-test-reporter_project:angular-test-reporter"
+	"vid": "22080",
+	"vname": "angular-test-reporter project",
+	"vcpe": "cpe:/:angular-test-reporter_project",
+	"pid": "56672",
+	"pname": "angular-test-reporter",
+	"pcpe": "cpe:/a:angular-test-reporter_project:angular-test-reporter"
 }

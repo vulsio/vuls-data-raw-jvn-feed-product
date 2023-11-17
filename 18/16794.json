@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "16794",
-  "pname": "IBM Smart Analytics System 5600",
-  "pcpe": "cpe:/h:ibm:smart_analytics_system_5600"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "16794",
+	"pname": "IBM Smart Analytics System 5600",
+	"pcpe": "cpe:/h:ibm:smart_analytics_system_5600"
 }

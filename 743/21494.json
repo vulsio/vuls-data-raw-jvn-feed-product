@@ -1,8 +1,8 @@
 {
-  "vid": "743",
-  "vname": "Django Software Foundation",
-  "vcpe": "cpe:/:djangoproject",
-  "pid": "21494",
-  "pname": "Tastypie",
-  "pcpe": "cpe:/a:djangoproject:django_tastypie"
+	"vid": "743",
+	"vname": "Django Software Foundation",
+	"vcpe": "cpe:/:djangoproject",
+	"pid": "21494",
+	"pname": "Tastypie",
+	"pcpe": "cpe:/a:djangoproject:django_tastypie"
 }

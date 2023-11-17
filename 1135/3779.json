@@ -1,8 +1,8 @@
 {
-  "vid": "1135",
-  "vname": "OpenID",
-  "vcpe": "cpe:/:openid",
-  "pid": "3779",
-  "pname": "OpenID4Java",
-  "pcpe": "cpe:/a:openid:openid4java"
+	"vid": "1135",
+	"vname": "OpenID",
+	"vcpe": "cpe:/:openid",
+	"pid": "3779",
+	"pname": "OpenID4Java",
+	"pcpe": "cpe:/a:openid:openid4java"
 }

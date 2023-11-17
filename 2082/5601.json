@@ -1,8 +1,8 @@
 {
-  "vid": "2082",
-  "vname": "agency4net",
-  "vcpe": "cpe:/:agency4net",
-  "pid": "5601",
-  "pname": "webftp",
-  "pcpe": "cpe:/a:agency4net:webftp"
+	"vid": "2082",
+	"vname": "agency4net",
+	"vcpe": "cpe:/:agency4net",
+	"pid": "5601",
+	"pname": "webftp",
+	"pcpe": "cpe:/a:agency4net:webftp"
 }

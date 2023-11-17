@@ -1,8 +1,8 @@
 {
-  "vid": "4402",
-  "vname": "oVirt",
-  "vcpe": "cpe:/:ovirt",
-  "pid": "42149",
-  "pname": "Mom",
-  "pcpe": "cpe:/a:ovirt:mom"
+	"vid": "4402",
+	"vname": "oVirt",
+	"vcpe": "cpe:/:ovirt",
+	"pid": "42149",
+	"pname": "Mom",
+	"pcpe": "cpe:/a:ovirt:mom"
 }

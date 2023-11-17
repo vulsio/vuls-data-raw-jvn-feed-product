@@ -1,8 +1,8 @@
 {
-  "vid": "4781",
-  "vname": "inotify",
-  "vcpe": "cpe:/:inotify",
-  "pid": "10160",
-  "pname": "incron",
-  "pcpe": "cpe:/a:inotify:incron"
+	"vid": "4781",
+	"vname": "inotify",
+	"vcpe": "cpe:/:inotify",
+	"pid": "10160",
+	"pname": "incron",
+	"pcpe": "cpe:/a:inotify:incron"
 }

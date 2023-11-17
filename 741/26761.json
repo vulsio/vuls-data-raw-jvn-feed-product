@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "26761",
-  "pname": "DIR-850L ファームウェア",
-  "pcpe": "cpe:/o:dlink:dir-850l_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "26761",
+	"pname": "DIR-850L ファームウェア",
+	"pcpe": "cpe:/o:dlink:dir-850l_firmware"
 }

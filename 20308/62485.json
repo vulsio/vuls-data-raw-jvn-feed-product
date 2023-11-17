@@ -1,8 +1,8 @@
 {
-  "vid": "20308",
-  "vname": "Foxit",
-  "vcpe": "cpe:/:foxit",
-  "pid": "62485",
-  "pname": "phantompdf",
-  "pcpe": "cpe:/a:foxit:phantompdf"
+	"vid": "20308",
+	"vname": "Foxit",
+	"vcpe": "cpe:/:foxit",
+	"pid": "62485",
+	"pname": "phantompdf",
+	"pcpe": "cpe:/a:foxit:phantompdf"
 }

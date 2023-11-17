@@ -1,8 +1,8 @@
 {
-  "vid": "18818",
-  "vname": "Cloudflare, Inc.",
-  "vcpe": "cpe:/:cloudflare",
-  "pid": "63846",
-  "pname": "warp mobile client",
-  "pcpe": "cpe:/a:cloudflare:warp_mobile_client"
+	"vid": "18818",
+	"vname": "Cloudflare, Inc.",
+	"vcpe": "cpe:/:cloudflare",
+	"pid": "63846",
+	"pname": "warp mobile client",
+	"pcpe": "cpe:/a:cloudflare:warp_mobile_client"
 }

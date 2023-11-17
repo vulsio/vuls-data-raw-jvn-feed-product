@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "42439",
-  "pname": "PXC128-U ファームウェア",
-  "pcpe": "cpe:/o:siemens:pxc128-u_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "42439",
+	"pname": "PXC128-U ファームウェア",
+	"pcpe": "cpe:/o:siemens:pxc128-u_firmware"
 }

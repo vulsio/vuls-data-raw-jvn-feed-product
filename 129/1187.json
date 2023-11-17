@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1187",
-  "pname": "Hitachi Network Storage Controller",
-  "pcpe": "cpe:/h:hitachi:hitachi_network_storage_controller"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1187",
+	"pname": "Hitachi Network Storage Controller",
+	"pcpe": "cpe:/h:hitachi:hitachi_network_storage_controller"
 }

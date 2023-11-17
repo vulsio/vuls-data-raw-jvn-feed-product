@@ -1,8 +1,8 @@
 {
-  "vid": "17557",
-  "vname": "Weidmueller",
-  "vcpe": "cpe:/:weidmueller",
-  "pid": "51314",
-  "pname": "IE-WLT-VL-AP-BR-CL-EU ファームウェア",
-  "pcpe": "cpe:/o:weidmueller:ie-wlt-vl-ap-br-cl-eu_firmware"
+	"vid": "17557",
+	"vname": "Weidmueller",
+	"vcpe": "cpe:/:weidmueller",
+	"pid": "51314",
+	"pname": "IE-WLT-VL-AP-BR-CL-EU ファームウェア",
+	"pcpe": "cpe:/o:weidmueller:ie-wlt-vl-ap-br-cl-eu_firmware"
 }

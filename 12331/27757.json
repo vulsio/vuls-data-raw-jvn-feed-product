@@ -1,8 +1,8 @@
 {
-  "vid": "12331",
-  "vname": "validator project",
-  "vcpe": "cpe:/:validator_project",
-  "pid": "27757",
-  "pname": "validator",
-  "pcpe": "cpe:/a:validator_project:validator"
+	"vid": "12331",
+	"vname": "validator project",
+	"vcpe": "cpe:/:validator_project",
+	"pid": "27757",
+	"pname": "validator",
+	"pcpe": "cpe:/a:validator_project:validator"
 }

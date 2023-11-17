@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "23561",
-  "pname": "Komodia Redirector",
-  "pcpe": "cpe:/a:lenovo:komodia_redirector"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "23561",
+	"pname": "Komodia Redirector",
+	"pcpe": "cpe:/a:lenovo:komodia_redirector"
 }

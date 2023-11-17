@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "19189",
-  "pname": "RHEL Desktop Workstation",
-  "pcpe": "cpe:/o:redhat:rhel_desktop_workstation"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "19189",
+	"pname": "RHEL Desktop Workstation",
+	"pcpe": "cpe:/o:redhat:rhel_desktop_workstation"
 }

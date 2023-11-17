@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17792",
-  "pname": "Cisco Unified IP Phone 9900 シリーズ ファームウェア",
-  "pcpe": "cpe:/o:cisco:unified_ip_phones_9900_series_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17792",
+	"pname": "Cisco Unified IP Phone 9900 シリーズ ファームウェア",
+	"pcpe": "cpe:/o:cisco:unified_ip_phones_9900_series_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14491",
-  "vname": "EnterCoin project",
-  "vcpe": "cpe:/:entercoin_project",
-  "pid": "34185",
-  "pname": "EnterCoin",
-  "pcpe": "cpe:/a:entercoin_project:entercoin"
+	"vid": "14491",
+	"vname": "EnterCoin project",
+	"vcpe": "cpe:/:entercoin_project",
+	"pid": "34185",
+	"pname": "EnterCoin",
+	"pcpe": "cpe:/a:entercoin_project:entercoin"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4202",
-  "vname": "midnightbsd",
-  "vcpe": "cpe:/:midnightbsd",
-  "pid": "8906",
-  "pname": "midnightbsd",
-  "pcpe": "cpe:/o:midnightbsd:midnightbsd"
+	"vid": "4202",
+	"vname": "midnightbsd",
+	"vcpe": "cpe:/:midnightbsd",
+	"pid": "8906",
+	"pname": "midnightbsd",
+	"pcpe": "cpe:/o:midnightbsd:midnightbsd"
 }

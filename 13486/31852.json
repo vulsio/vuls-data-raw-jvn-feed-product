@@ -1,8 +1,8 @@
 {
-  "vid": "13486",
-  "vname": "Clockwork",
-  "vcpe": "cpe:/:clockworksms",
-  "pid": "31852",
-  "pname": "Contact Form 7 - Clockwork SMS",
-  "pcpe": "cpe:/a:clockworksms:contact_form_7"
+	"vid": "13486",
+	"vname": "Clockwork",
+	"vcpe": "cpe:/:clockworksms",
+	"pid": "31852",
+	"pname": "Contact Form 7 - Clockwork SMS",
+	"pcpe": "cpe:/a:clockworksms:contact_form_7"
 }

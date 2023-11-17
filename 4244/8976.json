@@ -1,8 +1,8 @@
 {
-  "vid": "4244",
-  "vname": "Atmoner",
-  "vcpe": "cpe:/:atmoner",
-  "pid": "8976",
-  "pname": "PHP-pastebin",
-  "pcpe": "cpe:/a:atmoner:php-pastebin"
+	"vid": "4244",
+	"vname": "Atmoner",
+	"vcpe": "cpe:/:atmoner",
+	"pid": "8976",
+	"pname": "PHP-pastebin",
+	"pcpe": "cpe:/a:atmoner:php-pastebin"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "233",
-  "pname": "Adobe Flash Player",
-  "pcpe": "cpe:/a:adobe:flash_player"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "233",
+	"pname": "Adobe Flash Player",
+	"pcpe": "cpe:/a:adobe:flash_player"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19050",
-  "vname": "mbsync",
-  "vcpe": "cpe:/:mbsync_project",
-  "pid": "47758",
-  "pname": "mbsync",
-  "pcpe": "cpe:/a:mbsync_project:mbsync"
+	"vid": "19050",
+	"vname": "mbsync",
+	"vcpe": "cpe:/:mbsync_project",
+	"pid": "47758",
+	"pname": "mbsync",
+	"pcpe": "cpe:/a:mbsync_project:mbsync"
 }

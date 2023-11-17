@@ -1,8 +1,8 @@
 {
-  "vid": "14014",
-  "vname": "Secutech",
-  "vcpe": "cpe:/:secutech_project",
-  "pid": "33390",
-  "pname": "RiS-33 ファームウェア",
-  "pcpe": "cpe:/o:secutech_project:ris-33_firmware"
+	"vid": "14014",
+	"vname": "Secutech",
+	"vcpe": "cpe:/:secutech_project",
+	"pid": "33390",
+	"pname": "RiS-33 ファームウェア",
+	"pcpe": "cpe:/o:secutech_project:ris-33_firmware"
 }

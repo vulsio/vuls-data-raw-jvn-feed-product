@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4426",
-  "pname": "HP Intelligent Management Center",
-  "pcpe": "cpe:/a:hp:intelligent_management_center"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4426",
+	"pname": "HP Intelligent Management Center",
+	"pcpe": "cpe:/a:hp:intelligent_management_center"
 }

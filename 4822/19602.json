@@ -1,8 +1,8 @@
 {
-  "vid": "4822",
-  "vname": "InterWorx",
-  "vcpe": "cpe:/:interworx",
-  "pid": "19602",
-  "pname": "InterWorx Control Panel",
-  "pcpe": "cpe:/a:interworx:web_control_panel"
+	"vid": "4822",
+	"vname": "InterWorx",
+	"vcpe": "cpe:/:interworx",
+	"pid": "19602",
+	"pname": "InterWorx Control Panel",
+	"pcpe": "cpe:/a:interworx:web_control_panel"
 }

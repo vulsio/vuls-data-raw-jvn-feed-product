@@ -1,8 +1,8 @@
 {
-  "vid": "14092",
-  "vname": "Fastweb",
-  "vcpe": "cpe:/:fastweb",
-  "pid": "33624",
-  "pname": "FASTGate",
-  "pcpe": "cpe:/o:fastweb:fastgate_firmware"
+	"vid": "14092",
+	"vname": "Fastweb",
+	"vcpe": "cpe:/:fastweb",
+	"pid": "33624",
+	"pname": "FASTGate",
+	"pcpe": "cpe:/o:fastweb:fastgate_firmware"
 }

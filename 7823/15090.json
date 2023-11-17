@@ -1,8 +1,8 @@
 {
-  "vid": "7823",
-  "vname": "stonesoft",
-  "vcpe": "cpe:/:stonesoft",
-  "pid": "15090",
-  "pname": "stonegate ips",
-  "pcpe": "cpe:/a:stonesoft:stonegate_ips"
+	"vid": "7823",
+	"vname": "stonesoft",
+	"vcpe": "cpe:/:stonesoft",
+	"pid": "15090",
+	"pname": "stonegate ips",
+	"pcpe": "cpe:/a:stonesoft:stonegate_ips"
 }

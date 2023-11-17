@@ -1,8 +1,8 @@
 {
-  "vid": "20516",
-  "vname": "Dut Computer Control Engineering Co., Ltd",
-  "vcpe": "cpe:/:dcce",
-  "pid": "52217",
-  "pname": "MAC1100 PLC  ファームウェア",
-  "pcpe": "cpe:/o:dcce:mac1100_plc_firmware"
+	"vid": "20516",
+	"vname": "Dut Computer Control Engineering Co., Ltd",
+	"vcpe": "cpe:/:dcce",
+	"pid": "52217",
+	"pname": "MAC1100 PLC  ファームウェア",
+	"pcpe": "cpe:/o:dcce:mac1100_plc_firmware"
 }

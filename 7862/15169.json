@@ -1,8 +1,8 @@
 {
-  "vid": "7862",
-  "vname": "supportsoft",
-  "vcpe": "cpe:/:supportsoft",
-  "pid": "15169",
-  "pname": "scriptrunner",
-  "pcpe": "cpe:/a:supportsoft:scriptrunner"
+	"vid": "7862",
+	"vname": "supportsoft",
+	"vcpe": "cpe:/:supportsoft",
+	"pid": "15169",
+	"pname": "scriptrunner",
+	"pcpe": "cpe:/a:supportsoft:scriptrunner"
 }

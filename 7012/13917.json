@@ -1,8 +1,8 @@
 {
-  "vid": "7012",
-  "vname": "Pegasus Mail",
-  "vcpe": "cpe:/:pmail",
-  "pid": "13917",
-  "pname": "Mercury Mail Transport System",
-  "pcpe": "cpe:/a:pmail:mercury_mail_transport_system"
+	"vid": "7012",
+	"vname": "Pegasus Mail",
+	"vcpe": "cpe:/:pmail",
+	"pid": "13917",
+	"pname": "Mercury Mail Transport System",
+	"pcpe": "cpe:/a:pmail:mercury_mail_transport_system"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "44171",
-  "pname": "Climatix POL909 ファームウェア",
-  "pcpe": "cpe:/o:siemens:climatix_pol909_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "44171",
+	"pname": "Climatix POL909 ファームウェア",
+	"pcpe": "cpe:/o:siemens:climatix_pol909_firmware"
 }

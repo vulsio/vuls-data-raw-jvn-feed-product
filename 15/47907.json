@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47907",
-  "pname": "Advanced Networking Option",
-  "pcpe": "cpe:/a:oracle:advanced_networking_option"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47907",
+	"pname": "Advanced Networking Option",
+	"pcpe": "cpe:/a:oracle:advanced_networking_option"
 }

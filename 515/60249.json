@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "60249",
-  "pname": "Pinniped",
-  "pcpe": "cpe:/a:vmware:pinniped"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "60249",
+	"pname": "Pinniped",
+	"pcpe": "cpe:/a:vmware:pinniped"
 }

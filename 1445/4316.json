@@ -1,8 +1,8 @@
 {
-  "vid": "1445",
-  "vname": "ECMWF",
-  "vcpe": "cpe:/:ecmwf",
-  "pid": "4316",
-  "pname": "magics++",
-  "pcpe": "cpe:/a:ecmwf:magics%2B%2B"
+	"vid": "1445",
+	"vname": "ECMWF",
+	"vcpe": "cpe:/:ecmwf",
+	"pid": "4316",
+	"pname": "magics++",
+	"pcpe": "cpe:/a:ecmwf:magics%2B%2B"
 }

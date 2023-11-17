@@ -1,8 +1,8 @@
 {
-  "vid": "33",
-  "vname": "BEAシステムズ",
-  "vcpe": "cpe:/:bea",
-  "pid": "6212",
-  "pname": "weblogic portal",
-  "pcpe": "cpe:/a:bea:weblogic_portal"
+	"vid": "33",
+	"vname": "BEAシステムズ",
+	"vcpe": "cpe:/:bea",
+	"pid": "6212",
+	"pname": "weblogic portal",
+	"pcpe": "cpe:/a:bea:weblogic_portal"
 }

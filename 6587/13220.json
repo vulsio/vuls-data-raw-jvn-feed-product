@@ -1,8 +1,8 @@
 {
-  "vid": "6587",
-  "vname": "ACRA",
-  "vcpe": "cpe:/:acra",
-  "pid": "13220",
-  "pname": "ACRA ライブラリ",
-  "pcpe": "cpe:/a:acra:acra_library"
+	"vid": "6587",
+	"vname": "ACRA",
+	"vcpe": "cpe:/:acra",
+	"pid": "13220",
+	"pname": "ACRA ライブラリ",
+	"pcpe": "cpe:/a:acra:acra_library"
 }

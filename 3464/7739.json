@@ -1,8 +1,8 @@
 {
-  "vid": "3464",
-  "vname": "electrasoft",
-  "vcpe": "cpe:/:electrasoft",
-  "pid": "7739",
-  "pname": "32bit ftp",
-  "pcpe": "cpe:/a:electrasoft:32bit_ftp"
+	"vid": "3464",
+	"vname": "electrasoft",
+	"vcpe": "cpe:/:electrasoft",
+	"pid": "7739",
+	"pname": "32bit ftp",
+	"pcpe": "cpe:/a:electrasoft:32bit_ftp"
 }

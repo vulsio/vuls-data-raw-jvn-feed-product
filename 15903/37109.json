@@ -1,8 +1,8 @@
 {
-  "vid": "15903",
-  "vname": "JspMyAdmin",
-  "vcpe": "cpe:/:jspmyadmin",
-  "pid": "37109",
-  "pname": "JspMyAdmin2",
-  "pcpe": "cpe:/a:jspmyadmin:jspmyadmin2"
+	"vid": "15903",
+	"vname": "JspMyAdmin",
+	"vcpe": "cpe:/:jspmyadmin",
+	"pid": "37109",
+	"pname": "JspMyAdmin2",
+	"pcpe": "cpe:/a:jspmyadmin:jspmyadmin2"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "19508",
-  "pname": "Spacewalk",
-  "pcpe": "cpe:/a:redhat:spacewalk"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "19508",
+	"pname": "Spacewalk",
+	"pcpe": "cpe:/a:redhat:spacewalk"
 }

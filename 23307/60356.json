@@ -1,8 +1,8 @@
 {
-  "vid": "23307",
-  "vname": "mitsubishi",
-  "vcpe": "cpe:/:mitsubishi",
-  "pid": "60356",
-  "pname": "gb-50a ファームウェア",
-  "pcpe": "cpe:/o:mitsubishi:gb-50a_firmware"
+	"vid": "23307",
+	"vname": "mitsubishi",
+	"vcpe": "cpe:/:mitsubishi",
+	"pid": "60356",
+	"pname": "gb-50a ファームウェア",
+	"pcpe": "cpe:/o:mitsubishi:gb-50a_firmware"
 }

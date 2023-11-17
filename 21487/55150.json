@@ -1,8 +1,8 @@
 {
-  "vid": "21487",
-  "vname": "LEAP",
-  "vcpe": "cpe:/:leap",
-  "pid": "55150",
-  "pname": "Bitmask Riseup VPN",
-  "pcpe": "cpe:/a:leap:bitmask_riseup_vpn"
+	"vid": "21487",
+	"vname": "LEAP",
+	"vcpe": "cpe:/:leap",
+	"pid": "55150",
+	"pname": "Bitmask Riseup VPN",
+	"pcpe": "cpe:/a:leap:bitmask_riseup_vpn"
 }

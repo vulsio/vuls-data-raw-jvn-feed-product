@@ -1,8 +1,8 @@
 {
-  "vid": "13421",
-  "vname": "Auth0 Inc.",
-  "vcpe": "cpe:/:auth0",
-  "pid": "54672",
-  "pname": "express-openid-connect",
-  "pcpe": "cpe:/a:auth0:express_openid_connect"
+	"vid": "13421",
+	"vname": "Auth0 Inc.",
+	"vcpe": "cpe:/:auth0",
+	"pid": "54672",
+	"pname": "express-openid-connect",
+	"pcpe": "cpe:/a:auth0:express_openid_connect"
 }

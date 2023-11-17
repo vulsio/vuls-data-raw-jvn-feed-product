@@ -1,8 +1,8 @@
 {
-  "vid": "15081",
-  "vname": "mct",
-  "vcpe": "cpe:/:mct",
-  "pid": "35020",
-  "pname": "MediaCubeToken",
-  "pcpe": "cpe:/a:mct:mediacubetoken"
+	"vid": "15081",
+	"vname": "mct",
+	"vcpe": "cpe:/:mct",
+	"pid": "35020",
+	"pname": "MediaCubeToken",
+	"pcpe": "cpe:/a:mct:mediacubetoken"
 }

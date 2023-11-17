@@ -1,8 +1,8 @@
 {
-  "vid": "764",
-  "vname": "インフォア",
-  "vcpe": "cpe:/:infor",
-  "pid": "3069",
-  "pname": "Enspire",
-  "pcpe": "cpe:/a:infor:enspire_distribution_management_solution"
+	"vid": "764",
+	"vname": "インフォア",
+	"vcpe": "cpe:/:infor",
+	"pid": "3069",
+	"pname": "Enspire",
+	"pcpe": "cpe:/a:infor:enspire_distribution_management_solution"
 }

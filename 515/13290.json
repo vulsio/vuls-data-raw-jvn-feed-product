@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "13290",
-  "pname": "VMware OVF Tool",
-  "pcpe": "cpe:/a:vmware:ovf_tool"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "13290",
+	"pname": "VMware OVF Tool",
+	"pcpe": "cpe:/a:vmware:ovf_tool"
 }

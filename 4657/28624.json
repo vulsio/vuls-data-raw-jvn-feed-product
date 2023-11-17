@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28624",
-  "pname": "Tecal DH620 V2 ファームウェア",
-  "pcpe": "cpe:/o:huawei:tecal_dh620_v2_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28624",
+	"pname": "Tecal DH620 V2 ファームウェア",
+	"pcpe": "cpe:/o:huawei:tecal_dh620_v2_firmware"
 }

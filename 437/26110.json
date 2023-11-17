@@ -1,8 +1,8 @@
 {
-  "vid": "437",
-  "vname": "ベリタス",
-  "vcpe": "cpe:/:veritas",
-  "pid": "26110",
-  "pname": "Veritas NetBackup アプライアンス",
-  "pcpe": "cpe:/h:veritas:netbackup_appliance"
+	"vid": "437",
+	"vname": "ベリタス",
+	"vcpe": "cpe:/:veritas",
+	"pid": "26110",
+	"pname": "Veritas NetBackup アプライアンス",
+	"pcpe": "cpe:/h:veritas:netbackup_appliance"
 }

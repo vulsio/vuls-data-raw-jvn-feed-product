@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1739",
-  "pname": "Comment upload",
-  "pcpe": "cpe:/a:drupal:comment_upload_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1739",
+	"pname": "Comment upload",
+	"pcpe": "cpe:/a:drupal:comment_upload_module"
 }

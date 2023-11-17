@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "49686",
-  "pname": "Zero Downtime DB Migration to Cloud",
-  "pcpe": "cpe:/a:oracle:zero_downtime_db_migration_to_cloud"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "49686",
+	"pname": "Zero Downtime DB Migration to Cloud",
+	"pcpe": "cpe:/a:oracle:zero_downtime_db_migration_to_cloud"
 }

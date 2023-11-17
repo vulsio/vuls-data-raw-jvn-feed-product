@@ -1,8 +1,8 @@
 {
-  "vid": "20244",
-  "vname": "EdgeX Foundry",
-  "vcpe": "cpe:/:edgexfoundry",
-  "pid": "54343",
-  "pname": "app-functions-sdk",
-  "pcpe": "cpe:/a:edgexfoundry:application_functions_software_development_kit"
+	"vid": "20244",
+	"vname": "EdgeX Foundry",
+	"vcpe": "cpe:/:edgexfoundry",
+	"pid": "54343",
+	"pname": "app-functions-sdk",
+	"pcpe": "cpe:/a:edgexfoundry:application_functions_software_development_kit"
 }

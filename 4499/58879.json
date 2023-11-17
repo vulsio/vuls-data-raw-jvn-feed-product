@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "58879",
-  "pname": "M800W",
-  "pcpe": "cpe:/o:mitsubishielectric:m800w"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "58879",
+	"pname": "M800W",
+	"pcpe": "cpe:/o:mitsubishielectric:m800w"
 }

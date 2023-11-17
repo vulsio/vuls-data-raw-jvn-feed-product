@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "38992",
-  "pname": "Xperia Z4 ファームウェア",
-  "pcpe": "cpe:/o:sony:xperia_z4_firmware"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "38992",
+	"pname": "Xperia Z4 ファームウェア",
+	"pcpe": "cpe:/o:sony:xperia_z4_firmware"
 }

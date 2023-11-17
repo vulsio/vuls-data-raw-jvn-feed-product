@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17748",
-  "pname": "Cisco Virtualization Experience Client 6215",
-  "pcpe": "cpe:/h:cisco:virtualization_experience_client_6215"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17748",
+	"pname": "Cisco Virtualization Experience Client 6215",
+	"pcpe": "cpe:/h:cisco:virtualization_experience_client_6215"
 }

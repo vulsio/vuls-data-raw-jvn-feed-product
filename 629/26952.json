@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "26952",
-  "pname": "Active OPC Server",
-  "pcpe": "cpe:/o:moxa:active_opc_server"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "26952",
+	"pname": "Active OPC Server",
+	"pcpe": "cpe:/o:moxa:active_opc_server"
 }

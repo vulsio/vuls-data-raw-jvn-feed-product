@@ -1,8 +1,8 @@
 {
-  "vid": "9521",
-  "vname": "SERENA Software",
-  "vcpe": "cpe:/:serena",
-  "pid": "19635",
-  "pname": "Serena Dimensions CM",
-  "pcpe": "cpe:/a:serena:dimensions_cm"
+	"vid": "9521",
+	"vname": "SERENA Software",
+	"vcpe": "cpe:/:serena",
+	"pid": "19635",
+	"pname": "Serena Dimensions CM",
+	"pcpe": "cpe:/a:serena:dimensions_cm"
 }

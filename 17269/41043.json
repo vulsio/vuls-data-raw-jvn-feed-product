@@ -1,8 +1,8 @@
 {
-  "vid": "17269",
-  "vname": "Knex.js",
-  "vcpe": "cpe:/:knexjs",
-  "pid": "41043",
-  "pname": "Knex.js",
-  "pcpe": "cpe:/a:knexjs:knex"
+	"vid": "17269",
+	"vname": "Knex.js",
+	"vcpe": "cpe:/:knexjs",
+	"pid": "41043",
+	"pname": "Knex.js",
+	"pcpe": "cpe:/a:knexjs:knex"
 }

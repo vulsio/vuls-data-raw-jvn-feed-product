@@ -1,8 +1,8 @@
 {
-  "vid": "2214",
-  "vname": "amx",
-  "vcpe": "cpe:/:amx",
-  "pid": "5784",
-  "pname": "netlinx vnc activex control",
-  "pcpe": "cpe:/a:amx:netlinx_vnc_activex_control"
+	"vid": "2214",
+	"vname": "amx",
+	"vcpe": "cpe:/:amx",
+	"pid": "5784",
+	"pname": "netlinx vnc activex control",
+	"pcpe": "cpe:/a:amx:netlinx_vnc_activex_control"
 }

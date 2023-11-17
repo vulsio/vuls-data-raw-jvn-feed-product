@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "1018",
-  "pname": "Microsoft MSN Messenger",
-  "pcpe": "cpe:/a:microsoft:msn_messenger"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "1018",
+	"pname": "Microsoft MSN Messenger",
+	"pcpe": "cpe:/a:microsoft:msn_messenger"
 }

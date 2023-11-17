@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "11399",
-  "pname": "McAfee VirusScan USB",
-  "pcpe": "cpe:/a:mcafee:virusscan_usb"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "11399",
+	"pname": "McAfee VirusScan USB",
+	"pcpe": "cpe:/a:mcafee:virusscan_usb"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10598",
-  "vname": "fastcustomer",
-  "vcpe": "cpe:/:fastcustomer",
-  "pid": "22104",
-  "pname": "fastcustomer -- fast customer",
-  "pcpe": "cpe:/a:fastcustomer:fastcustomer_--_fast_customer"
+	"vid": "10598",
+	"vname": "fastcustomer",
+	"vcpe": "cpe:/:fastcustomer",
+	"pid": "22104",
+	"pname": "fastcustomer -- fast customer",
+	"pcpe": "cpe:/a:fastcustomer:fastcustomer_--_fast_customer"
 }

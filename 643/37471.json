@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "37471",
-  "pname": "Dell Wyse Thinlinux",
-  "pcpe": "cpe:/a:dell:wyse_thinlinux"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "37471",
+	"pname": "Dell Wyse Thinlinux",
+	"pcpe": "cpe:/a:dell:wyse_thinlinux"
 }

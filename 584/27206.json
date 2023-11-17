@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "27206",
-  "pname": "CCMW1025 ファームウェア",
-  "pcpe": "cpe:/o:siemens:ccmw1025_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "27206",
+	"pname": "CCMW1025 ファームウェア",
+	"pcpe": "cpe:/o:siemens:ccmw1025_firmware"
 }

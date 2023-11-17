@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "43352",
-  "pname": "ASA 5585-X ファームウェア",
-  "pcpe": "cpe:/o:cisco:asa_5585-x_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "43352",
+	"pname": "ASA 5585-X ファームウェア",
+	"pcpe": "cpe:/o:cisco:asa_5585-x_firmware"
 }

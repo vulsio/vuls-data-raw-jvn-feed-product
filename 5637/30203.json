@@ -1,8 +1,8 @@
 {
-  "vid": "5637",
-  "vname": "マイクロフォーカス株式会社",
-  "vcpe": "cpe:/:microfocus",
-  "pid": "30203",
-  "pname": "Enterprise Developer",
-  "pcpe": "cpe:/a:microfocus:enterprise_developer"
+	"vid": "5637",
+	"vname": "マイクロフォーカス株式会社",
+	"vcpe": "cpe:/:microfocus",
+	"pid": "30203",
+	"pname": "Enterprise Developer",
+	"pcpe": "cpe:/a:microfocus:enterprise_developer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9977",
-  "pname": "db2 content manager toolkit",
-  "pcpe": "cpe:/a:ibm:db2_content_manager_toolkit"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9977",
+	"pname": "db2 content manager toolkit",
+	"pcpe": "cpe:/a:ibm:db2_content_manager_toolkit"
 }

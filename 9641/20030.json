@@ -1,8 +1,8 @@
 {
-  "vid": "9641",
-  "vname": "Sitepark",
-  "vcpe": "cpe:/:sitepark",
-  "pid": "20030",
-  "pname": "Information Enterprise Server",
-  "pcpe": "cpe:/a:sitepark:information_enterprise_server"
+	"vid": "9641",
+	"vname": "Sitepark",
+	"vcpe": "cpe:/:sitepark",
+	"pid": "20030",
+	"pname": "Information Enterprise Server",
+	"pcpe": "cpe:/a:sitepark:information_enterprise_server"
 }

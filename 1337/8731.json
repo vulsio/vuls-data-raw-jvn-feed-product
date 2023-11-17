@@ -1,8 +1,8 @@
 {
-  "vid": "1337",
-  "vname": "Alcatel-Lucent",
-  "vcpe": "cpe:/:alcatel-lucent",
-  "pid": "8731",
-  "pname": "omniswitch",
-  "pcpe": "cpe:/h:alcatel-lucent:omniswitch"
+	"vid": "1337",
+	"vname": "Alcatel-Lucent",
+	"vcpe": "cpe:/:alcatel-lucent",
+	"pid": "8731",
+	"pname": "omniswitch",
+	"pcpe": "cpe:/h:alcatel-lucent:omniswitch"
 }

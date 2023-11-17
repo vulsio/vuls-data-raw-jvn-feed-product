@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "2011",
-  "pname": "SAP NetWeaver",
-  "pcpe": "cpe:/a:sap:netweaver"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "2011",
+	"pname": "SAP NetWeaver",
+	"pcpe": "cpe:/a:sap:netweaver"
 }

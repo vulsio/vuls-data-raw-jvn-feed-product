@@ -1,8 +1,8 @@
 {
-  "vid": "17601",
-  "vname": "dietlibc project",
-  "vcpe": "cpe:/:dietlibc_project",
-  "pid": "42192",
-  "pname": "dietlibc",
-  "pcpe": "cpe:/a:dietlibc_project:dietlibc"
+	"vid": "17601",
+	"vname": "dietlibc project",
+	"vcpe": "cpe:/:dietlibc_project",
+	"pid": "42192",
+	"pname": "dietlibc",
+	"pcpe": "cpe:/a:dietlibc_project:dietlibc"
 }

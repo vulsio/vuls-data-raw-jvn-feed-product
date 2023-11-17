@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "25981",
-  "pname": "P7 ファームウェア",
-  "pcpe": "cpe:/a:huawei:p7_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "25981",
+	"pname": "P7 ファームウェア",
+	"pcpe": "cpe:/a:huawei:p7_firmware"
 }

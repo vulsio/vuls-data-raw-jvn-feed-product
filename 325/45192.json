@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45192",
-  "pname": "ThinkPad S3 gen 2ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_s3_gen_2_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45192",
+	"pname": "ThinkPad S3 gen 2ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_s3_gen_2_firmware"
 }

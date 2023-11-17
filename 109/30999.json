@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "30999",
-  "pname": "SR-M20AC2",
-  "pcpe": "cpe:/a:fujitsu:sr-m20ac2"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "30999",
+	"pname": "SR-M20AC2",
+	"pcpe": "cpe:/a:fujitsu:sr-m20ac2"
 }

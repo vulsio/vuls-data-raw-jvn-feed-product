@@ -1,8 +1,8 @@
 {
-  "vid": "16203",
-  "vname": "Amazon Affiliate Store Project",
-  "vcpe": "cpe:/:amazon_affiliate_store_project",
-  "pid": "37955",
-  "pname": "Amazon Affiliate Store",
-  "pcpe": "cpe:/a:amazon_affiliate_store_project:amazon_affiliate_store"
+	"vid": "16203",
+	"vname": "Amazon Affiliate Store Project",
+	"vcpe": "cpe:/:amazon_affiliate_store_project",
+	"pid": "37955",
+	"pname": "Amazon Affiliate Store",
+	"pcpe": "cpe:/a:amazon_affiliate_store_project:amazon_affiliate_store"
 }

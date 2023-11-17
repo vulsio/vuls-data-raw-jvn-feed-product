@@ -1,8 +1,8 @@
 {
-  "vid": "18328",
-  "vname": "netqmail",
-  "vcpe": "cpe:/:netqmail",
-  "pid": "44958",
-  "pname": "netqmail",
-  "pcpe": "cpe:/a:netqmail:netqmail"
+	"vid": "18328",
+	"vname": "netqmail",
+	"vcpe": "cpe:/:netqmail",
+	"pid": "44958",
+	"pname": "netqmail",
+	"pcpe": "cpe:/a:netqmail:netqmail"
 }

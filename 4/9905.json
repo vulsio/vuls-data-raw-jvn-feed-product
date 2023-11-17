@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "9905",
-  "pname": "HP Identity Driven Manager",
-  "pcpe": "cpe:/a:hp:identity_driven_manager"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "9905",
+	"pname": "HP Identity Driven Manager",
+	"pcpe": "cpe:/a:hp:identity_driven_manager"
 }

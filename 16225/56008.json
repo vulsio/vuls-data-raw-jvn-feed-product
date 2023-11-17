@@ -1,8 +1,8 @@
 {
-  "vid": "16225",
-  "vname": "PrinterLogic",
-  "vcpe": "cpe:/:printerlogic",
-  "pid": "56008",
-  "pname": "Web Stack",
-  "pcpe": "cpe:/a:printerlogic:web_stack"
+	"vid": "16225",
+	"vname": "PrinterLogic",
+	"vcpe": "cpe:/:printerlogic",
+	"pid": "56008",
+	"pname": "Web Stack",
+	"pcpe": "cpe:/a:printerlogic:web_stack"
 }

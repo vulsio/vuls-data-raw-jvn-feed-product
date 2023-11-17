@@ -1,8 +1,8 @@
 {
-  "vid": "161",
-  "vname": "KDDI",
-  "vcpe": "cpe:/:kddi",
-  "pid": "216",
-  "pname": "EZwebブラウザ",
-  "pcpe": "cpe:/a:kddi:ezweb_browser"
+	"vid": "161",
+	"vname": "KDDI",
+	"vcpe": "cpe:/:kddi",
+	"pid": "216",
+	"pname": "EZwebブラウザ",
+	"pcpe": "cpe:/a:kddi:ezweb_browser"
 }

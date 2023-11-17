@@ -1,8 +1,8 @@
 {
-  "vid": "385",
-  "vname": "株式会社アイ・オー・データ機器",
-  "vcpe": "cpe:/:i-o_data_device",
-  "pid": "26647",
-  "pname": "HVL-AT4.0 ファームウェア",
-  "pcpe": "cpe:/o:i-o_data_device:hvl-at4.0_firmware"
+	"vid": "385",
+	"vname": "株式会社アイ・オー・データ機器",
+	"vcpe": "cpe:/:i-o_data_device",
+	"pid": "26647",
+	"pname": "HVL-AT4.0 ファームウェア",
+	"pcpe": "cpe:/o:i-o_data_device:hvl-at4.0_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21445",
-  "vname": "messagepack-rs project",
-  "vcpe": "cpe:/:messagepack-rs_project",
-  "pid": "55062",
-  "pname": "messagepack-rs",
-  "pcpe": "cpe:/a:messagepack-rs_project:messagepack-rs"
+	"vid": "21445",
+	"vname": "messagepack-rs project",
+	"vcpe": "cpe:/:messagepack-rs_project",
+	"pid": "55062",
+	"pname": "messagepack-rs",
+	"pcpe": "cpe:/a:messagepack-rs_project:messagepack-rs"
 }

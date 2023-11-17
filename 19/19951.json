@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "19951",
-  "pname": "Cisco Catalyst 2900 XL シリーズ",
-  "pcpe": "cpe:/h:cisco:catalyst_2900xl"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "19951",
+	"pname": "Cisco Catalyst 2900 XL シリーズ",
+	"pcpe": "cpe:/h:cisco:catalyst_2900xl"
 }

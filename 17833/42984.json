@@ -1,8 +1,8 @@
 {
-  "vid": "17833",
-  "vname": "ElementsProject",
-  "vcpe": "cpe:/:elementsproject",
-  "pid": "42984",
-  "pname": "c-lightning",
-  "pcpe": "cpe:/a:elementsproject:c-lightning"
+	"vid": "17833",
+	"vname": "ElementsProject",
+	"vcpe": "cpe:/:elementsproject",
+	"pid": "42984",
+	"pname": "c-lightning",
+	"pcpe": "cpe:/a:elementsproject:c-lightning"
 }

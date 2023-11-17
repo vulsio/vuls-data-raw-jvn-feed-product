@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26999",
-  "pname": "USG9520 ファームウェア",
-  "pcpe": "cpe:/o:huawei:usg9520_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26999",
+	"pname": "USG9520 ファームウェア",
+	"pcpe": "cpe:/o:huawei:usg9520_firmware"
 }

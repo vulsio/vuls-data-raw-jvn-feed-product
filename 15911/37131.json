@@ -1,8 +1,8 @@
 {
-  "vid": "15911",
-  "vname": "kaptcha project",
-  "vcpe": "cpe:/:kaptcha_project",
-  "pid": "37131",
-  "pname": "kaptcha",
-  "pcpe": "cpe:/a:kaptcha_project:kaptcha"
+	"vid": "15911",
+	"vname": "kaptcha project",
+	"vcpe": "cpe:/:kaptcha_project",
+	"pid": "37131",
+	"pname": "kaptcha",
+	"pcpe": "cpe:/a:kaptcha_project:kaptcha"
 }

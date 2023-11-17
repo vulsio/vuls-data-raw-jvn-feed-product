@@ -1,8 +1,8 @@
 {
-  "vid": "12740",
-  "vname": "GEUTEBRUCK",
-  "vcpe": "cpe:/:geutebrueck",
-  "pid": "33098",
-  "pname": "TopFD-2125 ファームウェア",
-  "pcpe": "cpe:/o:geutebrueck:topfd-2125_firmware"
+	"vid": "12740",
+	"vname": "GEUTEBRUCK",
+	"vcpe": "cpe:/:geutebrueck",
+	"pid": "33098",
+	"pname": "TopFD-2125 ファームウェア",
+	"pcpe": "cpe:/o:geutebrueck:topfd-2125_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12862",
-  "vname": "Red Gate Software Ltd",
-  "vcpe": "cpe:/:redgate",
-  "pid": "29656",
-  "pname": "SQL Monitor",
-  "pcpe": "cpe:/a:redgate:sql_monitor"
+	"vid": "12862",
+	"vname": "Red Gate Software Ltd",
+	"vcpe": "cpe:/:redgate",
+	"pid": "29656",
+	"pname": "SQL Monitor",
+	"pcpe": "cpe:/a:redgate:sql_monitor"
 }

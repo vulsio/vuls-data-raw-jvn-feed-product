@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2680",
-  "pname": "Cisco Tandberg C Series Endpoints",
-  "pcpe": "cpe:/h:cisco:tandberg_endpoint"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2680",
+	"pname": "Cisco Tandberg C Series Endpoints",
+	"pcpe": "cpe:/h:cisco:tandberg_endpoint"
 }

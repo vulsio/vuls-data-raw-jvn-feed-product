@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "19201",
-  "pname": "ThinkPad Bluetooth with Enhanced Data Rate ソフトウェア",
-  "pcpe": "cpe:/a:lenovo:thinkpad_bluetooth_with_enhanced_data_rate_software"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "19201",
+	"pname": "ThinkPad Bluetooth with Enhanced Data Rate ソフトウェア",
+	"pcpe": "cpe:/a:lenovo:thinkpad_bluetooth_with_enhanced_data_rate_software"
 }

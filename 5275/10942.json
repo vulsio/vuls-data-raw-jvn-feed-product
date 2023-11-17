@@ -1,8 +1,8 @@
 {
-  "vid": "5275",
-  "vname": "LEAD Technologies, Inc.",
-  "vcpe": "cpe:/:lead_technologies",
-  "pid": "10942",
-  "pname": "leadtools raster thumbnail object library",
-  "pcpe": "cpe:/a:lead_technologies:leadtools_raster_thumbnail_object_library"
+	"vid": "5275",
+	"vname": "LEAD Technologies, Inc.",
+	"vcpe": "cpe:/:lead_technologies",
+	"pid": "10942",
+	"pname": "leadtools raster thumbnail object library",
+	"pcpe": "cpe:/a:lead_technologies:leadtools_raster_thumbnail_object_library"
 }

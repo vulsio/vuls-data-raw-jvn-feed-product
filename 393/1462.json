@@ -1,8 +1,8 @@
 {
-  "vid": "393",
-  "vname": "Wonderware",
-  "vcpe": "cpe:/:wonderware",
-  "pid": "1462",
-  "pname": "SuiteLink",
-  "pcpe": "cpe:/a:wonderware:suitelink"
+	"vid": "393",
+	"vname": "Wonderware",
+	"vcpe": "cpe:/:wonderware",
+	"pid": "1462",
+	"pname": "SuiteLink",
+	"pcpe": "cpe:/a:wonderware:suitelink"
 }

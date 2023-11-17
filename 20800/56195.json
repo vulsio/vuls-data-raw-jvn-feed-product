@@ -1,8 +1,8 @@
 {
-  "vid": "20800",
-  "vname": "任天堂株式会社",
-  "vcpe": "cpe:/:nintendo",
-  "pid": "56195",
-  "pname": "スプラトゥーン 3",
-  "pcpe": "cpe:/a:nintendo:splatoon_3"
+	"vid": "20800",
+	"vname": "任天堂株式会社",
+	"vcpe": "cpe:/:nintendo",
+	"pid": "56195",
+	"pname": "スプラトゥーン 3",
+	"pcpe": "cpe:/a:nintendo:splatoon_3"
 }

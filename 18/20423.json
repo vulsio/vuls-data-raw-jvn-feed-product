@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20423",
-  "pname": "IBM Tivoil Directory Integrator",
-  "pcpe": "cpe:/a:ibm:tivoil_directory_integrator"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20423",
+	"pname": "IBM Tivoil Directory Integrator",
+	"pcpe": "cpe:/a:ibm:tivoil_directory_integrator"
 }

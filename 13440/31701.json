@@ -1,8 +1,8 @@
 {
-  "vid": "13440",
-  "vname": "Vaultek Safe, Inc.",
-  "vcpe": "cpe:/:vaulteksafe",
-  "pid": "31701",
-  "pname": "VT20i ファームウェア",
-  "pcpe": "cpe:/o:vaulteksafe:vt20i_firmware"
+	"vid": "13440",
+	"vname": "Vaultek Safe, Inc.",
+	"vcpe": "cpe:/:vaulteksafe",
+	"pid": "31701",
+	"pname": "VT20i ファームウェア",
+	"pcpe": "cpe:/o:vaulteksafe:vt20i_firmware"
 }

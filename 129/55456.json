@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "55456",
-  "pname": "Community Plugin Framework",
-  "pcpe": "cpe:/a:hitachi:community_plugin_framework"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "55456",
+	"pname": "Community Plugin Framework",
+	"pcpe": "cpe:/a:hitachi:community_plugin_framework"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20687",
-  "vname": "JumpServer",
-  "vcpe": "cpe:/:jumpserver",
-  "pid": "52625",
-  "pname": "JumpServer",
-  "pcpe": "cpe:/a:jumpserver:jumpserver"
+	"vid": "20687",
+	"vname": "JumpServer",
+	"vcpe": "cpe:/:jumpserver",
+	"pid": "52625",
+	"pname": "JumpServer",
+	"pcpe": "cpe:/a:jumpserver:jumpserver"
 }

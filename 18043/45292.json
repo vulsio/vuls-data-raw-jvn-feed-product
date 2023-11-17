@@ -1,8 +1,8 @@
 {
-  "vid": "18043",
-  "vname": "トヨタ自動車",
-  "vcpe": "cpe:/:toyota",
-  "pid": "45292",
-  "pname": "Global TechStream",
-  "pcpe": "cpe:/a:toyota:global_tech_stream"
+	"vid": "18043",
+	"vname": "トヨタ自動車",
+	"vcpe": "cpe:/:toyota",
+	"pid": "45292",
+	"pname": "Global TechStream",
+	"pcpe": "cpe:/a:toyota:global_tech_stream"
 }

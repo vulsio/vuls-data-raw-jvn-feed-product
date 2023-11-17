@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "15134",
-  "pname": "java system identity server",
-  "pcpe": "cpe:/a:sun:java_system_identity_server"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "15134",
+	"pname": "java system identity server",
+	"pcpe": "cpe:/a:sun:java_system_identity_server"
 }

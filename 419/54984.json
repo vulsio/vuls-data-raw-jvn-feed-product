@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "54984",
-  "pname": "HCI Baseboard Management Controller (BMC) H410S ファームウェア",
-  "pcpe": "cpe:/o:netapp:baseboard_management_controller_h410s_firmware"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "54984",
+	"pname": "HCI Baseboard Management Controller (BMC) H410S ファームウェア",
+	"pcpe": "cpe:/o:netapp:baseboard_management_controller_h410s_firmware"
 }

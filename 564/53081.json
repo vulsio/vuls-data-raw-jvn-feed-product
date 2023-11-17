@@ -1,8 +1,8 @@
 {
-  "vid": "564",
-  "vname": "Panda Security",
-  "vcpe": "cpe:/:pandasecurity",
-  "pid": "53081",
-  "pname": "Panda Adaptive Defense 360",
-  "pcpe": "cpe:/a:pandasecurity:panda_adaptive_defense_360"
+	"vid": "564",
+	"vname": "Panda Security",
+	"vcpe": "cpe:/:pandasecurity",
+	"pid": "53081",
+	"pname": "Panda Adaptive Defense 360",
+	"pcpe": "cpe:/a:pandasecurity:panda_adaptive_defense_360"
 }

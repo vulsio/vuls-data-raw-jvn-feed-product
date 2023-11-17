@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "25694",
-  "pname": "1769-L30ER-NSE",
-  "pcpe": "cpe:/h:rockwellautomation:compactlogix_1769-l30er-nse"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "25694",
+	"pname": "1769-L30ER-NSE",
+	"pcpe": "cpe:/h:rockwellautomation:compactlogix_1769-l30er-nse"
 }

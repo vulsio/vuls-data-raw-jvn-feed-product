@@ -1,8 +1,8 @@
 {
-  "vid": "255",
-  "vname": "キヤノン",
-  "vcpe": "cpe:/:canon",
-  "pid": "48161",
-  "pname": "MF212w ファームウェア",
-  "pcpe": "cpe:/o:canon:mf212w_firmware"
+	"vid": "255",
+	"vname": "キヤノン",
+	"vcpe": "cpe:/:canon",
+	"pid": "48161",
+	"pname": "MF212w ファームウェア",
+	"pcpe": "cpe:/o:canon:mf212w_firmware"
 }

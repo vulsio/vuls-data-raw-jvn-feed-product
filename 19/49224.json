@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "49224",
-  "pname": "Cisco-Meraki MX68 ファームウェア",
-  "pcpe": "cpe:/o:cisco:meraki_mx68_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "49224",
+	"pname": "Cisco-Meraki MX68 ファームウェア",
+	"pcpe": "cpe:/o:cisco:meraki_mx68_firmware"
 }

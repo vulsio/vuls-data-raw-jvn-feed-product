@@ -1,8 +1,8 @@
 {
-  "vid": "15279",
-  "vname": "mitmproxy",
-  "vcpe": "cpe:/:mitmproxy",
-  "pid": "35362",
-  "pname": "mitmproxy",
-  "pcpe": "cpe:/a:mitmproxy:mitmproxy"
+	"vid": "15279",
+	"vname": "mitmproxy",
+	"vcpe": "cpe:/:mitmproxy",
+	"pid": "35362",
+	"pname": "mitmproxy",
+	"pcpe": "cpe:/a:mitmproxy:mitmproxy"
 }

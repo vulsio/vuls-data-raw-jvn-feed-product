@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "60588",
-  "pname": "flume",
-  "pcpe": "cpe:/a:apache:flume"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "60588",
+	"pname": "flume",
+	"pcpe": "cpe:/a:apache:flume"
 }

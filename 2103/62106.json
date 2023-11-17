@@ -1,8 +1,8 @@
 {
-  "vid": "2103",
-  "vname": "airspan",
-  "vcpe": "cpe:/:airspan",
-  "pid": "62106",
-  "pname": "airspot 5410 ファームウェア",
-  "pcpe": "cpe:/o:airspan:airspot_5410_firmware"
+	"vid": "2103",
+	"vname": "airspan",
+	"vcpe": "cpe:/:airspan",
+	"pid": "62106",
+	"pname": "airspot 5410 ファームウェア",
+	"pcpe": "cpe:/o:airspan:airspot_5410_firmware"
 }

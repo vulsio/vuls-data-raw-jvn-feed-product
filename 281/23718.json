@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "23718",
-  "pname": "Upstart",
-  "pcpe": "cpe:/a:canonical:upstart"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "23718",
+	"pname": "Upstart",
+	"pcpe": "cpe:/a:canonical:upstart"
 }

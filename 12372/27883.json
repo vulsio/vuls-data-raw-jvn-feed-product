@@ -1,8 +1,8 @@
 {
-  "vid": "12372",
-  "vname": "CZ.NIC Labs",
-  "vcpe": "cpe:/:knot_dns_project",
-  "pid": "27883",
-  "pname": "Knot DNS",
-  "pcpe": "cpe:/a:knot_dns_project:knot_dns"
+	"vid": "12372",
+	"vname": "CZ.NIC Labs",
+	"vcpe": "cpe:/:knot_dns_project",
+	"pid": "27883",
+	"pname": "Knot DNS",
+	"pcpe": "cpe:/a:knot_dns_project:knot_dns"
 }

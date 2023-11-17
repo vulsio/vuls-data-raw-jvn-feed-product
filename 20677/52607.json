@@ -1,8 +1,8 @@
 {
-  "vid": "20677",
-  "vname": "Sylpheed project",
-  "vcpe": "cpe:/:sylpheed_project",
-  "pid": "52607",
-  "pname": "Sylpheed",
-  "pcpe": "cpe:/a:sylpheed_project:sylpheed"
+	"vid": "20677",
+	"vname": "Sylpheed project",
+	"vcpe": "cpe:/:sylpheed_project",
+	"pid": "52607",
+	"pname": "Sylpheed",
+	"pcpe": "cpe:/a:sylpheed_project:sylpheed"
 }

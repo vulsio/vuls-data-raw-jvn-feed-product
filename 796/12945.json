@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "12945",
-  "pname": "wag200g",
-  "pcpe": "cpe:/h:linksys:wag200g"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "12945",
+	"pname": "wag200g",
+	"pcpe": "cpe:/h:linksys:wag200g"
 }

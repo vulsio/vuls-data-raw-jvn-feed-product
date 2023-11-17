@@ -1,8 +1,8 @@
 {
-  "vid": "369",
-  "vname": "CA Technologies",
-  "vcpe": "cpe:/:ca",
-  "pid": "4121",
-  "pname": "eTrust Vet Antivirus",
-  "pcpe": "cpe:/a:ca:etrust_vet_antivirus"
+	"vid": "369",
+	"vname": "CA Technologies",
+	"vcpe": "cpe:/:ca",
+	"pid": "4121",
+	"pname": "eTrust Vet Antivirus",
+	"pcpe": "cpe:/a:ca:etrust_vet_antivirus"
 }

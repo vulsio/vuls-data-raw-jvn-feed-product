@@ -1,8 +1,8 @@
 {
-  "vid": "23387",
-  "vname": "Sideblog project",
-  "vcpe": "cpe:/:sideblog_project",
-  "pid": "60632",
-  "pname": "Sideblog",
-  "pcpe": "cpe:/a:sideblog_project:sideblog"
+	"vid": "23387",
+	"vname": "Sideblog project",
+	"vcpe": "cpe:/:sideblog_project",
+	"pid": "60632",
+	"pname": "Sideblog",
+	"pcpe": "cpe:/a:sideblog_project:sideblog"
 }

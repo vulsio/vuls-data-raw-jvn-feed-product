@@ -1,8 +1,8 @@
 {
-  "vid": "22240",
-  "vname": "OBridge project",
-  "vcpe": "cpe:/:obridge_project",
-  "pid": "57176",
-  "pname": "OBridge",
-  "pcpe": "cpe:/a:obridge_project:obridge"
+	"vid": "22240",
+	"vname": "OBridge project",
+	"vcpe": "cpe:/:obridge_project",
+	"pid": "57176",
+	"pname": "OBridge",
+	"pcpe": "cpe:/a:obridge_project:obridge"
 }

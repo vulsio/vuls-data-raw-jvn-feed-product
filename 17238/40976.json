@@ -1,8 +1,8 @@
 {
-  "vid": "17238",
-  "vname": "K-78",
-  "vcpe": "cpe:/:k-78",
-  "pid": "40976",
-  "pname": "Broken Link Manager",
-  "pcpe": "cpe:/a:k-78:broken_link_manager"
+	"vid": "17238",
+	"vname": "K-78",
+	"vcpe": "cpe:/:k-78",
+	"pid": "40976",
+	"pname": "Broken Link Manager",
+	"pcpe": "cpe:/a:k-78:broken_link_manager"
 }

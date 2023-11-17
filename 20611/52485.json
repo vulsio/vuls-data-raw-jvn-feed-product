@@ -1,8 +1,8 @@
 {
-  "vid": "20611",
-  "vname": "simpleSAMLphp Authentication project",
-  "vcpe": "cpe:/:simplesamlphp_authentication_project",
-  "pid": "52485",
-  "pname": "simpleSAMLphp Authentication",
-  "pcpe": "cpe:/a:simplesamlphp_authentication_project:simplesamlphp_authentication"
+	"vid": "20611",
+	"vname": "simpleSAMLphp Authentication project",
+	"vcpe": "cpe:/:simplesamlphp_authentication_project",
+	"pid": "52485",
+	"pname": "simpleSAMLphp Authentication",
+	"pcpe": "cpe:/a:simplesamlphp_authentication_project:simplesamlphp_authentication"
 }

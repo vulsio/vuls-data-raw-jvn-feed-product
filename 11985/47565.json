@@ -1,8 +1,8 @@
 {
-  "vid": "11985",
-  "vname": "ARM Ltd.",
-  "vcpe": "cpe:/:arm",
-  "pid": "47565",
-  "pname": "mbed-uallaoc",
-  "pcpe": "cpe:/o:arm:mbed-uallaoc"
+	"vid": "11985",
+	"vname": "ARM Ltd.",
+	"vcpe": "cpe:/:arm",
+	"pid": "47565",
+	"pname": "mbed-uallaoc",
+	"pcpe": "cpe:/o:arm:mbed-uallaoc"
 }

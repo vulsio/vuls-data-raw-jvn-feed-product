@@ -1,8 +1,8 @@
 {
-  "vid": "17002",
-  "vname": "eGain",
-  "vcpe": "cpe:/:egain",
-  "pid": "40438",
-  "pname": "eGain Chat",
-  "pcpe": "cpe:/a:egain:chat"
+	"vid": "17002",
+	"vname": "eGain",
+	"vcpe": "cpe:/:egain",
+	"pid": "40438",
+	"pname": "eGain Chat",
+	"pcpe": "cpe:/a:egain:chat"
 }

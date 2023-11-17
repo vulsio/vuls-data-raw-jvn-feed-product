@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "35911",
-  "pname": "tripleo-common",
-  "pcpe": "cpe:/a:openstack:tripleo-common"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "35911",
+	"pname": "tripleo-common",
+	"pcpe": "cpe:/a:openstack:tripleo-common"
 }

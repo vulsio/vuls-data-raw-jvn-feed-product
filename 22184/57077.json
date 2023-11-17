@@ -1,8 +1,8 @@
 {
-  "vid": "22184",
-  "vname": "rss-import project",
-  "vcpe": "cpe:/:rssimport_project",
-  "pid": "57077",
-  "pname": "rss-import",
-  "pcpe": "cpe:/a:rssimport_project:rssimport"
+	"vid": "22184",
+	"vname": "rss-import project",
+	"vcpe": "cpe:/:rssimport_project",
+	"pid": "57077",
+	"pname": "rss-import",
+	"pcpe": "cpe:/a:rssimport_project:rssimport"
 }

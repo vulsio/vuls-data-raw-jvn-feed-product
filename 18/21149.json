@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "21149",
-  "pname": "IBM BladeCenter Server Connectivity Module ファームウェア",
-  "pcpe": "cpe:/o:ibm:server_connectivity_module_firmware"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "21149",
+	"pname": "IBM BladeCenter Server Connectivity Module ファームウェア",
+	"pcpe": "cpe:/o:ibm:server_connectivity_module_firmware"
 }

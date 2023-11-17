@@ -1,8 +1,8 @@
 {
-  "vid": "9914",
-  "vname": "H3C",
-  "vcpe": "cpe:/:h3c",
-  "pid": "20689",
-  "pname": "H3C S5820 SecBlade VPN Firewall Module",
-  "pcpe": "cpe:/h:h3c:s5820_secblade_vpn_firewall_module"
+	"vid": "9914",
+	"vname": "H3C",
+	"vcpe": "cpe:/:h3c",
+	"pid": "20689",
+	"pname": "H3C S5820 SecBlade VPN Firewall Module",
+	"pcpe": "cpe:/h:h3c:s5820_secblade_vpn_firewall_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "770",
-  "vname": "エイサー",
-  "vcpe": "cpe:/:acer",
-  "pid": "63151",
-  "pname": "veriton e430g ファームウェア",
-  "pcpe": "cpe:/o:acer:veriton_e430g_firmware"
+	"vid": "770",
+	"vname": "エイサー",
+	"vcpe": "cpe:/:acer",
+	"pid": "63151",
+	"pname": "veriton e430g ファームウェア",
+	"pcpe": "cpe:/o:acer:veriton_e430g_firmware"
 }

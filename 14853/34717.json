@@ -1,8 +1,8 @@
 {
-  "vid": "14853",
-  "vname": "CMS MaeloStore project",
-  "vcpe": "cpe:/:cms_maelostore_project",
-  "pid": "34717",
-  "pname": "CMS MaeloStore",
-  "pcpe": "cpe:/a:cms_maelostore_project:cms_maelostore"
+	"vid": "14853",
+	"vname": "CMS MaeloStore project",
+	"vcpe": "cpe:/:cms_maelostore_project",
+	"pid": "34717",
+	"pname": "CMS MaeloStore",
+	"pcpe": "cpe:/a:cms_maelostore_project:cms_maelostore"
 }

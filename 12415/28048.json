@@ -1,8 +1,8 @@
 {
-  "vid": "12415",
-  "vname": "tnef project",
-  "vcpe": "cpe:/:tnef_project",
-  "pid": "28048",
-  "pname": "tnef",
-  "pcpe": "cpe:/a:tnef_project:tnef"
+	"vid": "12415",
+	"vname": "tnef project",
+	"vcpe": "cpe:/:tnef_project",
+	"pid": "28048",
+	"pname": "tnef",
+	"pcpe": "cpe:/a:tnef_project:tnef"
 }

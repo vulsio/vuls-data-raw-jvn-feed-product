@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "29560",
-  "pname": "Audio Station",
-  "pcpe": "cpe:/a:synology:audio_station"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "29560",
+	"pname": "Audio Station",
+	"pcpe": "cpe:/a:synology:audio_station"
 }

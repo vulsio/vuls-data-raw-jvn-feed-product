@@ -1,8 +1,8 @@
 {
-  "vid": "11669",
-  "vname": "FunnyMonkey",
-  "vcpe": "cpe:/:funnymonkey",
-  "pid": "23950",
-  "pname": "Feature Set",
-  "pcpe": "cpe:/a:funnymonkey:feature_set"
+	"vid": "11669",
+	"vname": "FunnyMonkey",
+	"vcpe": "cpe:/:funnymonkey",
+	"pid": "23950",
+	"pname": "Feature Set",
+	"pcpe": "cpe:/a:funnymonkey:feature_set"
 }

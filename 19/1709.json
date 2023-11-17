@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "1709",
-  "pname": "Cisco VPN Client",
-  "pcpe": "cpe:/a:cisco:vpn_client"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "1709",
+	"pname": "Cisco VPN Client",
+	"pcpe": "cpe:/a:cisco:vpn_client"
 }

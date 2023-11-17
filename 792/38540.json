@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "38540",
-  "pname": "USG20-VPN ファームウェア",
-  "pcpe": "cpe:/o:zyxel:usg20-vpn_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "38540",
+	"pname": "USG20-VPN ファームウェア",
+	"pcpe": "cpe:/o:zyxel:usg20-vpn_firmware"
 }

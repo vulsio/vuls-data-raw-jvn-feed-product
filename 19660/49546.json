@@ -1,8 +1,8 @@
 {
-  "vid": "19660",
-  "vname": "Beijing Roborock Technology Co., Ltd.",
-  "vcpe": "cpe:/:misc",
-  "pid": "49546",
-  "pname": "Roborock S5 Max ファームウェア",
-  "pcpe": "cpe:/o:misc:beijing_roborock_technology_roborock_s5_max_firmware"
+	"vid": "19660",
+	"vname": "Beijing Roborock Technology Co., Ltd.",
+	"vcpe": "cpe:/:misc",
+	"pid": "49546",
+	"pname": "Roborock S5 Max ファームウェア",
+	"pcpe": "cpe:/o:misc:beijing_roborock_technology_roborock_s5_max_firmware"
 }

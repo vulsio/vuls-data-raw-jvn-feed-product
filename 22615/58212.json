@@ -1,8 +1,8 @@
 {
-  "vid": "22615",
-  "vname": "qingscan project",
-  "vcpe": "cpe:/:qingscan_project",
-  "pid": "58212",
-  "pname": "qingscan",
-  "pcpe": "cpe:/a:qingscan_project:qingscan"
+	"vid": "22615",
+	"vname": "qingscan project",
+	"vcpe": "cpe:/:qingscan_project",
+	"pid": "58212",
+	"pname": "qingscan",
+	"pcpe": "cpe:/a:qingscan_project:qingscan"
 }

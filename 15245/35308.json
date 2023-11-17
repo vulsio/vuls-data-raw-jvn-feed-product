@@ -1,8 +1,8 @@
 {
-  "vid": "15245",
-  "vname": "QuaZIP project",
-  "vcpe": "cpe:/:quazip_project",
-  "pid": "35308",
-  "pname": "QuaZIP",
-  "pcpe": "cpe:/a:quazip_project:quazip"
+	"vid": "15245",
+	"vname": "QuaZIP project",
+	"vcpe": "cpe:/:quazip_project",
+	"pid": "35308",
+	"pname": "QuaZIP",
+	"pcpe": "cpe:/a:quazip_project:quazip"
 }

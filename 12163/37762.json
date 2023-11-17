@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "37762",
-  "pname": "Repository Connector",
-  "pcpe": "cpe:/a:jenkins:repository_connector"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "37762",
+	"pname": "Repository Connector",
+	"pcpe": "cpe:/a:jenkins:repository_connector"
 }

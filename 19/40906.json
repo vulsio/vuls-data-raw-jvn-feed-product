@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "40906",
-  "pname": "Cisco Nexus 3016 ファームウェア",
-  "pcpe": "cpe:/o:cisco:nexus_3016_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "40906",
+	"pname": "Cisco Nexus 3016 ファームウェア",
+	"pcpe": "cpe:/o:cisco:nexus_3016_firmware"
 }

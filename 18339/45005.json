@@ -1,8 +1,8 @@
 {
-  "vid": "18339",
-  "vname": "PlayTube",
-  "vcpe": "cpe:/:playtube",
-  "pid": "45005",
-  "pname": "PlayTube",
-  "pcpe": "cpe:/a:playtube:playtube"
+	"vid": "18339",
+	"vname": "PlayTube",
+	"vcpe": "cpe:/:playtube",
+	"pid": "45005",
+	"pname": "PlayTube",
+	"pcpe": "cpe:/a:playtube:playtube"
 }

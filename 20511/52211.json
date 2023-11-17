@@ -1,8 +1,8 @@
 {
-  "vid": "20511",
-  "vname": "ZStack",
-  "vcpe": "cpe:/:zstack",
-  "pid": "52211",
-  "pname": "REST API",
-  "pcpe": "cpe:/a:zstack:rest_api"
+	"vid": "20511",
+	"vname": "ZStack",
+	"vcpe": "cpe:/:zstack",
+	"pid": "52211",
+	"pname": "REST API",
+	"pcpe": "cpe:/a:zstack:rest_api"
 }

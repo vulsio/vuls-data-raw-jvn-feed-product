@@ -1,8 +1,8 @@
 {
-  "vid": "18901",
-  "vname": "json-smart",
-  "vcpe": "cpe:/:json-smart_project",
-  "pid": "56830",
-  "pname": "Json-smart",
-  "pcpe": "cpe:/a:json-smart_project:json-smart"
+	"vid": "18901",
+	"vname": "json-smart",
+	"vcpe": "cpe:/:json-smart_project",
+	"pid": "56830",
+	"pname": "Json-smart",
+	"pcpe": "cpe:/a:json-smart_project:json-smart"
 }

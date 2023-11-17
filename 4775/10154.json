@@ -1,8 +1,8 @@
 {
-  "vid": "4775",
-  "vname": "Inmatrix",
-  "vcpe": "cpe:/:inmatrix",
-  "pid": "10154",
-  "pname": "ZOOM PLAYER",
-  "pcpe": "cpe:/a:inmatrix:zoom_player"
+	"vid": "4775",
+	"vname": "Inmatrix",
+	"vcpe": "cpe:/:inmatrix",
+	"pid": "10154",
+	"pname": "ZOOM PLAYER",
+	"pcpe": "cpe:/a:inmatrix:zoom_player"
 }

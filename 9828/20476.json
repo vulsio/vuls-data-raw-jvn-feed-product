@@ -1,8 +1,8 @@
 {
-  "vid": "9828",
-  "vname": "Appointments Scheduler project",
-  "vcpe": "cpe:/:wp_appointments_schedules_project",
-  "pid": "20476",
-  "pname": "Appointments Scheduler",
-  "pcpe": "cpe:/a:wp_appointments_schedules_project:wp_appointments_schedules"
+	"vid": "9828",
+	"vname": "Appointments Scheduler project",
+	"vcpe": "cpe:/:wp_appointments_schedules_project",
+	"pid": "20476",
+	"pname": "Appointments Scheduler",
+	"pcpe": "cpe:/a:wp_appointments_schedules_project:wp_appointments_schedules"
 }

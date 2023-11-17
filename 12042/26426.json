@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26426",
-  "pname": "IceWall File Manager",
-  "pcpe": "cpe:/a:hp:icewall_file_manager"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26426",
+	"pname": "IceWall File Manager",
+	"pcpe": "cpe:/a:hp:icewall_file_manager"
 }

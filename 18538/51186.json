@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "51186",
-  "pname": "PowerLogic PM5561 ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:powerlogic_pm5561_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "51186",
+	"pname": "PowerLogic PM5561 ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:powerlogic_pm5561_firmware"
 }

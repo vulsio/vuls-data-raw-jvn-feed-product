@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "23403",
-  "pname": "CentreCOM 8700XL",
-  "pcpe": "cpe:/h:allied_telesis_k.k.:centrecom_8700xl"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "23403",
+	"pname": "CentreCOM 8700XL",
+	"pcpe": "cpe:/h:allied_telesis_k.k.:centrecom_8700xl"
 }

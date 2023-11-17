@@ -1,8 +1,8 @@
 {
-  "vid": "34",
-  "vname": "modssl.org",
-  "vcpe": "cpe:/:mod_ssl",
-  "pid": "177",
-  "pname": "mod_ssl",
-  "pcpe": "cpe:/a:mod_ssl:mod_ssl"
+	"vid": "34",
+	"vname": "modssl.org",
+	"vcpe": "cpe:/:mod_ssl",
+	"pid": "177",
+	"pname": "mod_ssl",
+	"pcpe": "cpe:/a:mod_ssl:mod_ssl"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18189",
-  "vname": "UI",
-  "vcpe": "cpe:/:ui",
-  "pid": "51330",
-  "pname": "Camera G3 Flex",
-  "pcpe": "cpe:/o:ui:camera_g3_flex_firmware"
+	"vid": "18189",
+	"vname": "UI",
+	"vcpe": "cpe:/:ui",
+	"pid": "51330",
+	"pname": "Camera G3 Flex",
+	"pcpe": "cpe:/o:ui:camera_g3_flex_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "32842",
-  "pname": "ATV31 DTM",
-  "pcpe": "cpe:/a:schneider_electric:atv31_dtm"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "32842",
+	"pname": "ATV31 DTM",
+	"pcpe": "cpe:/a:schneider_electric:atv31_dtm"
 }

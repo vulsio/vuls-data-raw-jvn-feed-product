@@ -1,8 +1,8 @@
 {
-  "vid": "24464",
-  "vname": "oauth client single sign on project",
-  "vcpe": "cpe:/:oauth_client_single_sign_on_project",
-  "pid": "63192",
-  "pname": "oauth client single sign on",
-  "pcpe": "cpe:/a:oauth_client_single_sign_on_project:oauth_client_single_sign_on"
+	"vid": "24464",
+	"vname": "oauth client single sign on project",
+	"vcpe": "cpe:/:oauth_client_single_sign_on_project",
+	"pid": "63192",
+	"pname": "oauth client single sign on",
+	"pcpe": "cpe:/a:oauth_client_single_sign_on_project:oauth_client_single_sign_on"
 }

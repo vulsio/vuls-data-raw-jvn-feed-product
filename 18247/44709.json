@@ -1,8 +1,8 @@
 {
-  "vid": "18247",
-  "vname": "divante",
-  "vcpe": "cpe:/:divante",
-  "pid": "44709",
-  "pname": "vue-storefront-api",
-  "pcpe": "cpe:/a:divante:vue-storefront-api"
+	"vid": "18247",
+	"vname": "divante",
+	"vcpe": "cpe:/:divante",
+	"pid": "44709",
+	"pname": "vue-storefront-api",
+	"pcpe": "cpe:/a:divante:vue-storefront-api"
 }

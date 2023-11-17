@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "51391",
-  "pname": "OPC Server for AC 800M",
-  "pcpe": "cpe:/a:abb:opc_server_for_ac_800m"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "51391",
+	"pname": "OPC Server for AC 800M",
+	"pcpe": "cpe:/a:abb:opc_server_for_ac_800m"
 }

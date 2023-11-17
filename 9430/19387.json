@@ -1,8 +1,8 @@
 {
-  "vid": "9430",
-  "vname": "runit",
-  "vcpe": "cpe:/:runit",
-  "pid": "19387",
-  "pname": "runit",
-  "pcpe": "cpe:/a:runit:runit"
+	"vid": "9430",
+	"vname": "runit",
+	"vcpe": "cpe:/:runit",
+	"pid": "19387",
+	"pname": "runit",
+	"pcpe": "cpe:/a:runit:runit"
 }

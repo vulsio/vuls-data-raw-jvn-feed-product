@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "55318",
-  "pname": "Oracle Spatial And Graph Mapviewer",
-  "pcpe": "cpe:/a:oracle:spatial_and_graph_mapviewer"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "55318",
+	"pname": "Oracle Spatial And Graph Mapviewer",
+	"pcpe": "cpe:/a:oracle:spatial_and_graph_mapviewer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21397",
-  "vname": "ksmbd project",
-  "vcpe": "cpe:/:ksmbd_project",
-  "pid": "54943",
-  "pname": "ksmbd",
-  "pcpe": "cpe:/a:ksmbd_project:ksmbd"
+	"vid": "21397",
+	"vname": "ksmbd project",
+	"vcpe": "cpe:/:ksmbd_project",
+	"pid": "54943",
+	"pname": "ksmbd",
+	"pcpe": "cpe:/a:ksmbd_project:ksmbd"
 }

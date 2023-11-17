@@ -1,8 +1,8 @@
 {
-  "vid": "16060",
-  "vname": "MOPCMS",
-  "vcpe": "cpe:/:mopcms",
-  "pid": "37592",
-  "pname": "MOPCMS",
-  "pcpe": "cpe:/a:mopcms:mopcms"
+	"vid": "16060",
+	"vname": "MOPCMS",
+	"vcpe": "cpe:/:mopcms",
+	"pid": "37592",
+	"pname": "MOPCMS",
+	"pcpe": "cpe:/a:mopcms:mopcms"
 }

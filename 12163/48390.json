@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "48390",
-  "pname": "Build With Parameters",
-  "pcpe": "cpe:/a:jenkins:build_with_parameters"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "48390",
+	"pname": "Build With Parameters",
+	"pcpe": "cpe:/a:jenkins:build_with_parameters"
 }

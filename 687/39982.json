@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "39982",
-  "pname": "TIBCO LogLogic LX825 ファームウェア",
-  "pcpe": "cpe:/o:tibco:loglogic_lx825_firmware"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "39982",
+	"pname": "TIBCO LogLogic LX825 ファームウェア",
+	"pcpe": "cpe:/o:tibco:loglogic_lx825_firmware"
 }

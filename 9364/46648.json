@@ -1,8 +1,8 @@
 {
-  "vid": "9364",
-  "vname": "ArGo Software Design",
-  "vcpe": "cpe:/:argosoft",
-  "pid": "46648",
-  "pname": "MailServer",
-  "pcpe": "cpe:/a:argosoft:mail_server"
+	"vid": "9364",
+	"vname": "ArGo Software Design",
+	"vcpe": "cpe:/:argosoft",
+	"pid": "46648",
+	"pname": "MailServer",
+	"pcpe": "cpe:/a:argosoft:mail_server"
 }

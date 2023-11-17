@@ -1,8 +1,8 @@
 {
-  "vid": "19081",
-  "vname": "Hillrom",
-  "vcpe": "cpe:/:hillrom",
-  "pid": "47885",
-  "pname": "Welch Allyn Connex Spot Monitor (CSM)",
-  "pcpe": "cpe:/a:hillrom:connex_spot_monitor"
+	"vid": "19081",
+	"vname": "Hillrom",
+	"vcpe": "cpe:/:hillrom",
+	"pid": "47885",
+	"pname": "Welch Allyn Connex Spot Monitor (CSM)",
+	"pcpe": "cpe:/a:hillrom:connex_spot_monitor"
 }

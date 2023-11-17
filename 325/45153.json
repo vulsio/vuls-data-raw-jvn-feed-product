@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45153",
-  "pname": "ThinkPad A485 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_a485_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45153",
+	"pname": "ThinkPad A485 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_a485_firmware"
 }

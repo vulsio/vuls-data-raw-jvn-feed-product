@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "46764",
-  "pname": "GX RemoteService-I",
-  "pcpe": "cpe:/a:mitsubishielectric:gx_remoteservice-i"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "46764",
+	"pname": "GX RemoteService-I",
+	"pcpe": "cpe:/a:mitsubishielectric:gx_remoteservice-i"
 }

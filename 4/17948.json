@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17948",
-  "pname": "HP LaserJet Pro CP1025nw Color Printer",
-  "pcpe": "cpe:/h:hp:laserjet_pro_cp1025nw"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17948",
+	"pname": "HP LaserJet Pro CP1025nw Color Printer",
+	"pcpe": "cpe:/h:hp:laserjet_pro_cp1025nw"
 }

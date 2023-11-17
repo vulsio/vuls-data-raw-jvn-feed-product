@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "55196",
-  "pname": "IPQ8076A ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:ipq8076a_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "55196",
+	"pname": "IPQ8076A ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:ipq8076a_firmware"
 }

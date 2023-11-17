@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28602",
-  "pname": "NEM-L22 ファームウェア",
-  "pcpe": "cpe:/o:huawei:nem-l22_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28602",
+	"pname": "NEM-L22 ファームウェア",
+	"pcpe": "cpe:/o:huawei:nem-l22_firmware"
 }

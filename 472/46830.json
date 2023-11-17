@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "46830",
-  "pname": "Compact GuardLogix",
-  "pcpe": "cpe:/a:rockwellautomation:compact_guardlogix"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "46830",
+	"pname": "Compact GuardLogix",
+	"pcpe": "cpe:/a:rockwellautomation:compact_guardlogix"
 }

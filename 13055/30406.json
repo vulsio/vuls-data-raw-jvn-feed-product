@@ -1,8 +1,8 @@
 {
-  "vid": "13055",
-  "vname": "Libfpx project",
-  "vcpe": "cpe:/:libfpx_project",
-  "pid": "30406",
-  "pname": "libfpx",
-  "pcpe": "cpe:/a:libfpx_project:libfpx"
+	"vid": "13055",
+	"vname": "Libfpx project",
+	"vcpe": "cpe:/:libfpx_project",
+	"pid": "30406",
+	"pname": "libfpx",
+	"pcpe": "cpe:/a:libfpx_project:libfpx"
 }

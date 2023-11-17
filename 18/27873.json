@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "27873",
-  "pname": "IBM Social Rendering Templates for Digital Data Connector",
-  "pcpe": "cpe:/a:ibm:social_rendering_templates_for_digital_data_connector"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "27873",
+	"pname": "IBM Social Rendering Templates for Digital Data Connector",
+	"pcpe": "cpe:/a:ibm:social_rendering_templates_for_digital_data_connector"
 }

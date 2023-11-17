@@ -1,8 +1,8 @@
 {
-  "vid": "12030",
-  "vname": "Saia Burgess Controls",
-  "vcpe": "cpe:/:saia_burgess_controls",
-  "pid": "25241",
-  "pname": "PCD7.D4xxD SVGA MB Panels",
-  "pcpe": "cpe:/h:saia_burgess_controls:pcd7.d4xxd_svga_mb"
+	"vid": "12030",
+	"vname": "Saia Burgess Controls",
+	"vcpe": "cpe:/:saia_burgess_controls",
+	"pid": "25241",
+	"pname": "PCD7.D4xxD SVGA MB Panels",
+	"pcpe": "cpe:/h:saia_burgess_controls:pcd7.d4xxd_svga_mb"
 }

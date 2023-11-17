@@ -1,8 +1,8 @@
 {
-  "vid": "6649",
-  "vname": "Remote Login Service Hackers",
-  "vcpe": "cpe:/:remote_login_service_hackers",
-  "pid": "13336",
-  "pname": "Remote Login Service",
-  "pcpe": "cpe:/a:remote_login_service_hackers:remote_login_service"
+	"vid": "6649",
+	"vname": "Remote Login Service Hackers",
+	"vcpe": "cpe:/:remote_login_service_hackers",
+	"pid": "13336",
+	"pname": "Remote Login Service",
+	"pcpe": "cpe:/a:remote_login_service_hackers:remote_login_service"
 }

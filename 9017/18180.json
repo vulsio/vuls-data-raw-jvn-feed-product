@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "18180",
-  "pname": "H8DGU-LN4F+",
-  "pcpe": "cpe:/h:supermicro:h8dgu-ln4f%2b"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "18180",
+	"pname": "H8DGU-LN4F+",
+	"pcpe": "cpe:/h:supermicro:h8dgu-ln4f%2b"
 }

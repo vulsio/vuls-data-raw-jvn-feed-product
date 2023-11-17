@@ -1,8 +1,8 @@
 {
-  "vid": "224",
-  "vname": "アラクサラネットワークス",
-  "vcpe": "cpe:/:alaxala",
-  "pid": "829",
-  "pname": "AX2000Rシリーズ",
-  "pcpe": "cpe:/h:alaxala:ax2000r"
+	"vid": "224",
+	"vname": "アラクサラネットワークス",
+	"vcpe": "cpe:/:alaxala",
+	"pid": "829",
+	"pname": "AX2000Rシリーズ",
+	"pcpe": "cpe:/h:alaxala:ax2000r"
 }

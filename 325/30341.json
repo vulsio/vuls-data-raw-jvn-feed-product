@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30341",
-  "pname": "Lenovo RackSwitch G8272 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:g8272_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30341",
+	"pname": "Lenovo RackSwitch G8272 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:g8272_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "23369",
-  "pname": "SCALANCE X-300POE",
-  "pcpe": "cpe:/h:siemens:scalance_x-300poe"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "23369",
+	"pname": "SCALANCE X-300POE",
+	"pcpe": "cpe:/h:siemens:scalance_x-300poe"
 }

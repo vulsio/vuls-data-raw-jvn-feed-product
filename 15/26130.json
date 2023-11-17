@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26130",
-  "pname": "Sun Ray Software",
-  "pcpe": "cpe:/a:oracle:sun_ray_software"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26130",
+	"pname": "Sun Ray Software",
+	"pcpe": "cpe:/a:oracle:sun_ray_software"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20596",
-  "vname": "File Browser project",
-  "vcpe": "cpe:/:filebrowser_project",
-  "pid": "52452",
-  "pname": "File Browser",
-  "pcpe": "cpe:/a:filebrowser_project:filebrowser"
+	"vid": "20596",
+	"vname": "File Browser project",
+	"vcpe": "cpe:/:filebrowser_project",
+	"pid": "52452",
+	"pname": "File Browser",
+	"pcpe": "cpe:/a:filebrowser_project:filebrowser"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "25375",
-  "pname": "BIG-IQ Cloud and Orchestration",
-  "pcpe": "cpe:/a:f5:big-iq_cloud_and_orchestration"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "25375",
+	"pname": "BIG-IQ Cloud and Orchestration",
+	"pcpe": "cpe:/a:f5:big-iq_cloud_and_orchestration"
 }

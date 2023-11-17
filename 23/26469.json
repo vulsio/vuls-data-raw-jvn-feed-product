@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "26469",
-  "pname": "Symantec Protection for SharePoint Servers",
-  "pcpe": "cpe:/a:symantec:protection_for_sharepoint_servers"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "26469",
+	"pname": "Symantec Protection for SharePoint Servers",
+	"pcpe": "cpe:/a:symantec:protection_for_sharepoint_servers"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18373",
-  "vname": "mosc project",
-  "vcpe": "cpe:/:mosc_project",
-  "pid": "45103",
-  "pname": "mosc",
-  "pcpe": "cpe:/a:mosc_project:mosc"
+	"vid": "18373",
+	"vname": "mosc project",
+	"vcpe": "cpe:/:mosc_project",
+	"pid": "45103",
+	"pname": "mosc",
+	"pcpe": "cpe:/a:mosc_project:mosc"
 }

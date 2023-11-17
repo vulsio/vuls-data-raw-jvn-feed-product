@@ -1,8 +1,8 @@
 {
-  "vid": "7402",
-  "vname": "s0nic",
-  "vcpe": "cpe:/:s0nic",
-  "pid": "14463",
-  "pname": "paranews",
-  "pcpe": "cpe:/a:s0nic:paranews"
+	"vid": "7402",
+	"vname": "s0nic",
+	"vcpe": "cpe:/:s0nic",
+	"pid": "14463",
+	"pname": "paranews",
+	"pcpe": "cpe:/a:s0nic:paranews"
 }

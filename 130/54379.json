@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "54379",
-  "pname": "Intel Xeon Gold 6346 ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_gold_6346_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "54379",
+	"pname": "Intel Xeon Gold 6346 ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_gold_6346_firmware"
 }

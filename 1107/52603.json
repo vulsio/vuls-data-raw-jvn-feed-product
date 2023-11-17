@@ -1,8 +1,8 @@
 {
-  "vid": "1107",
-  "vname": "Xiaomi",
-  "vcpe": "cpe:/:xiaomi",
-  "pid": "52603",
-  "pname": "Mi True Wireless Earbuds Basic 2 ファームウェア",
-  "pcpe": "cpe:/o:xiaomi:mi_true_wireless_earbuds_basic_2_firmware"
+	"vid": "1107",
+	"vname": "Xiaomi",
+	"vcpe": "cpe:/:xiaomi",
+	"pid": "52603",
+	"pname": "Mi True Wireless Earbuds Basic 2 ファームウェア",
+	"pcpe": "cpe:/o:xiaomi:mi_true_wireless_earbuds_basic_2_firmware"
 }

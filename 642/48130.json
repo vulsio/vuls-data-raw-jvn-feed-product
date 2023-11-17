@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "48130",
-  "pname": "R7400 ファームウェア",
-  "pcpe": "cpe:/o:netgear:r7400_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "48130",
+	"pname": "R7400 ファームウェア",
+	"pcpe": "cpe:/o:netgear:r7400_firmware"
 }

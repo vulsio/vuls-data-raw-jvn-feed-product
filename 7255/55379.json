@@ -1,8 +1,8 @@
 {
-  "vid": "7255",
-  "vname": "Realtek Semiconductor Corp",
-  "vcpe": "cpe:/:realtek",
-  "pid": "55379",
-  "pname": "Realtek xPON Software Development Kit",
-  "pcpe": "cpe:/a:realtek:xpon_software_development_kit"
+	"vid": "7255",
+	"vname": "Realtek Semiconductor Corp",
+	"vcpe": "cpe:/:realtek",
+	"pid": "55379",
+	"pname": "Realtek xPON Software Development Kit",
+	"pcpe": "cpe:/a:realtek:xpon_software_development_kit"
 }

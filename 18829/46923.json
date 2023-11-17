@@ -1,8 +1,8 @@
 {
-  "vid": "18829",
-  "vname": "OpenEnergyMonitor",
-  "vcpe": "cpe:/:openenergymonitor",
-  "pid": "46923",
-  "pname": "Emoncms",
-  "pcpe": "cpe:/a:openenergymonitor:emoncms"
+	"vid": "18829",
+	"vname": "OpenEnergyMonitor",
+	"vcpe": "cpe:/:openenergymonitor",
+	"pid": "46923",
+	"pname": "Emoncms",
+	"pcpe": "cpe:/a:openenergymonitor:emoncms"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2253",
-  "vname": "aom-software",
-  "vcpe": "cpe:/:aom-software",
-  "pid": "5842",
-  "pname": "beex",
-  "pcpe": "cpe:/a:aom-software:beex"
+	"vid": "2253",
+	"vname": "aom-software",
+	"vcpe": "cpe:/:aom-software",
+	"pid": "5842",
+	"pname": "beex",
+	"pcpe": "cpe:/a:aom-software:beex"
 }

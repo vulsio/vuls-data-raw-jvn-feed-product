@@ -1,8 +1,8 @@
 {
-  "vid": "22878",
-  "vname": "python-libnmap project",
-  "vcpe": "cpe:/:python-libnmap_project",
-  "pid": "58994",
-  "pname": "python-libnmap",
-  "pcpe": "cpe:/a:python-libnmap_project:python-libnmap"
+	"vid": "22878",
+	"vname": "python-libnmap project",
+	"vcpe": "cpe:/:python-libnmap_project",
+	"pid": "58994",
+	"pname": "python-libnmap",
+	"pcpe": "cpe:/a:python-libnmap_project:python-libnmap"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17840",
-  "vname": "eG Innovations, Inc.",
-  "vcpe": "cpe:/:eginnovations",
-  "pid": "43042",
-  "pname": "eG Manager",
-  "pcpe": "cpe:/a:eginnovations:eg_manager"
+	"vid": "17840",
+	"vname": "eG Innovations, Inc.",
+	"vcpe": "cpe:/:eginnovations",
+	"pid": "43042",
+	"pname": "eG Manager",
+	"pcpe": "cpe:/a:eginnovations:eg_manager"
 }

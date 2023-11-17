@@ -1,8 +1,8 @@
 {
-  "vid": "24706",
-  "vname": "notation-go project",
-  "vcpe": "cpe:/:notation-go_project",
-  "pid": "64070",
-  "pname": "notation-go",
-  "pcpe": "cpe:/a:notation-go_project:notation-go"
+	"vid": "24706",
+	"vname": "notation-go project",
+	"vcpe": "cpe:/:notation-go_project",
+	"pid": "64070",
+	"pname": "notation-go",
+	"pcpe": "cpe:/a:notation-go_project:notation-go"
 }

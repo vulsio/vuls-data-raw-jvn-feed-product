@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "610",
-  "pname": "iPower",
-  "pcpe": "cpe:/h:polycom:ipower"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "610",
+	"pname": "iPower",
+	"pcpe": "cpe:/h:polycom:ipower"
 }

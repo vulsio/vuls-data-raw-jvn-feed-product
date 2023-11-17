@@ -1,8 +1,8 @@
 {
-  "vid": "976",
-  "vname": "Moxiecode Systems AB",
-  "vcpe": "cpe:/:tinymce",
-  "pid": "20179",
-  "pname": "TinyMCE Color Picker",
-  "pcpe": "cpe:/a:tinymce:color_picker"
+	"vid": "976",
+	"vname": "Moxiecode Systems AB",
+	"vcpe": "cpe:/:tinymce",
+	"pid": "20179",
+	"pname": "TinyMCE Color Picker",
+	"pcpe": "cpe:/a:tinymce:color_picker"
 }

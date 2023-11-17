@@ -1,8 +1,8 @@
 {
-  "vid": "21547",
-  "vname": "Bytecode Viewer project",
-  "vcpe": "cpe:/:bytecode_viewer_project",
-  "pid": "55377",
-  "pname": "Bytecode Viewer",
-  "pcpe": "cpe:/a:bytecode_viewer_project:bytecode_viewer"
+	"vid": "21547",
+	"vname": "Bytecode Viewer project",
+	"vcpe": "cpe:/:bytecode_viewer_project",
+	"pid": "55377",
+	"pname": "Bytecode Viewer",
+	"pcpe": "cpe:/a:bytecode_viewer_project:bytecode_viewer"
 }

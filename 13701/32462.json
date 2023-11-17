@@ -1,8 +1,8 @@
 {
-  "vid": "13701",
-  "vname": "Michael Medin",
-  "vcpe": "cpe:/:nsclient",
-  "pid": "32462",
-  "pname": "NSClient++",
-  "pcpe": "cpe:/a:nsclient:nsclient%2B%2B"
+	"vid": "13701",
+	"vname": "Michael Medin",
+	"vcpe": "cpe:/:nsclient",
+	"pid": "32462",
+	"pname": "NSClient++",
+	"pcpe": "cpe:/a:nsclient:nsclient%2B%2B"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8774",
-  "vname": "Sangoma",
-  "vcpe": "cpe:/:sangoma",
-  "pid": "54910",
-  "pname": "Asterisk",
-  "pcpe": "cpe:/a:sangoma:asterisk"
+	"vid": "8774",
+	"vname": "Sangoma",
+	"vcpe": "cpe:/:sangoma",
+	"pid": "54910",
+	"pname": "Asterisk",
+	"pcpe": "cpe:/a:sangoma:asterisk"
 }

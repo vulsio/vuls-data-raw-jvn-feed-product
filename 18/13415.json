@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "13415",
-  "pname": "IBM Flex System Chassis Management Module",
-  "pcpe": "cpe:/a:ibm:flex_system_chassis_management_module"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "13415",
+	"pname": "IBM Flex System Chassis Management Module",
+	"pcpe": "cpe:/a:ibm:flex_system_chassis_management_module"
 }

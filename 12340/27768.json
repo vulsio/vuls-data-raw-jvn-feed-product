@@ -1,8 +1,8 @@
 {
-  "vid": "12340",
-  "vname": "AppNeta",
-  "vcpe": "cpe:/:appneta",
-  "pid": "27768",
-  "pname": "tcpreplay",
-  "pcpe": "cpe:/a:appneta:tcpreplay"
+	"vid": "12340",
+	"vname": "AppNeta",
+	"vcpe": "cpe:/:appneta",
+	"pid": "27768",
+	"pname": "tcpreplay",
+	"pcpe": "cpe:/a:appneta:tcpreplay"
 }

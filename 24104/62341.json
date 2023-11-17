@@ -1,8 +1,8 @@
 {
-  "vid": "24104",
-  "vname": "opcua project",
-  "vcpe": "cpe:/:opcua_project",
-  "pid": "62341",
-  "pname": "opcua",
-  "pcpe": "cpe:/a:opcua_project:opcua"
+	"vid": "24104",
+	"vname": "opcua project",
+	"vcpe": "cpe:/:opcua_project",
+	"pid": "62341",
+	"pname": "opcua",
+	"pcpe": "cpe:/a:opcua_project:opcua"
 }

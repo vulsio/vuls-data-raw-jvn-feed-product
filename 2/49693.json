@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "49693",
-  "pname": "Microsoft Surface Pro 3",
-  "pcpe": "cpe:/o:microsoft:surface_pro_3_firmware"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "49693",
+	"pname": "Microsoft Surface Pro 3",
+	"pcpe": "cpe:/o:microsoft:surface_pro_3_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13772",
-  "vname": "Steelcase",
-  "vcpe": "cpe:/:steelcase",
-  "pid": "32638",
-  "pname": "RoomWizard",
-  "pcpe": "cpe:/o:steelcase:roomwizard_firmware"
+	"vid": "13772",
+	"vname": "Steelcase",
+	"vcpe": "cpe:/:steelcase",
+	"pid": "32638",
+	"pname": "RoomWizard",
+	"pcpe": "cpe:/o:steelcase:roomwizard_firmware"
 }

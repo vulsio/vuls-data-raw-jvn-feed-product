@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23673",
-  "pname": "HP Hybrid Thermal Printer with MICR (FK184AA)",
-  "pcpe": "cpe:/h:hp:hybrid_pos_printer_with_micr_us_fk184aa"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23673",
+	"pname": "HP Hybrid Thermal Printer with MICR (FK184AA)",
+	"pcpe": "cpe:/h:hp:hybrid_pos_printer_with_micr_us_fk184aa"
 }

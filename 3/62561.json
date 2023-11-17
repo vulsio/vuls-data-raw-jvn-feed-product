@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "62561",
-  "pname": "smallrye health",
-  "pcpe": "cpe:/a:redhat:smallrye_health"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "62561",
+	"pname": "smallrye health",
+	"pcpe": "cpe:/a:redhat:smallrye_health"
 }

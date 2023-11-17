@@ -1,8 +1,8 @@
 {
-  "vid": "279",
-  "vname": "SGI",
-  "vcpe": "cpe:/:sgi",
-  "pid": "9359",
-  "pname": "Performance Co-Pilot",
-  "pcpe": "cpe:/a:sgi:performance_co-pilot"
+	"vid": "279",
+	"vname": "SGI",
+	"vcpe": "cpe:/:sgi",
+	"pid": "9359",
+	"pname": "Performance Co-Pilot",
+	"pcpe": "cpe:/a:sgi:performance_co-pilot"
 }

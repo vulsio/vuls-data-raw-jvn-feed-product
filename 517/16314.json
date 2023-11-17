@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "16314",
-  "pname": "workcentre 6400 net controller",
-  "pcpe": "cpe:/a:xerox:workcentre_6400_net_controller"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "16314",
+	"pname": "workcentre 6400 net controller",
+	"pcpe": "cpe:/a:xerox:workcentre_6400_net_controller"
 }

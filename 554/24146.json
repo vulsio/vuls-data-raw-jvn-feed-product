@@ -1,8 +1,8 @@
 {
-  "vid": "554",
-  "vname": "ブルーコートシステムズ",
-  "vcpe": "cpe:/:bluecoat",
-  "pid": "24146",
-  "pname": "SSL Visibility Appliance SV800 ファームウェア",
-  "pcpe": "cpe:/o:bluecoat:ssl_visibility_appliance_sv800_firmware"
+	"vid": "554",
+	"vname": "ブルーコートシステムズ",
+	"vcpe": "cpe:/:bluecoat",
+	"pid": "24146",
+	"pname": "SSL Visibility Appliance SV800 ファームウェア",
+	"pcpe": "cpe:/o:bluecoat:ssl_visibility_appliance_sv800_firmware"
 }

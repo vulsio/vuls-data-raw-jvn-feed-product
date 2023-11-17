@@ -1,8 +1,8 @@
 {
-  "vid": "262",
-  "vname": "XScreenSaver project",
-  "vcpe": "cpe:/:xscreensaver_project",
-  "pid": "913",
-  "pname": "XScreenSaver",
-  "pcpe": "cpe:/a:xscreensaver_project:xscreensaver"
+	"vid": "262",
+	"vname": "XScreenSaver project",
+	"vcpe": "cpe:/:xscreensaver_project",
+	"pid": "913",
+	"pname": "XScreenSaver",
+	"pcpe": "cpe:/a:xscreensaver_project:xscreensaver"
 }

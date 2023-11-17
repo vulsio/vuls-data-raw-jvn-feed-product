@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "1139",
-  "pname": "UP-UX",
-  "pcpe": "cpe:/o:nec:up-ux"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "1139",
+	"pname": "UP-UX",
+	"pcpe": "cpe:/o:nec:up-ux"
 }

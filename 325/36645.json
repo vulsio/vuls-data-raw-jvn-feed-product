@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "36645",
-  "pname": "Lenovo XClarity Integrator",
-  "pcpe": "cpe:/a:lenovo:xclarity_integrator"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "36645",
+	"pname": "Lenovo XClarity Integrator",
+	"pcpe": "cpe:/a:lenovo:xclarity_integrator"
 }

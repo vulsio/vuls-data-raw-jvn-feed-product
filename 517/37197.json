@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "37197",
-  "pname": "AltaLink C8055 ファームウェア",
-  "pcpe": "cpe:/o:xerox:altalink_c8055_firmware"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "37197",
+	"pname": "AltaLink C8055 ファームウェア",
+	"pcpe": "cpe:/o:xerox:altalink_c8055_firmware"
 }

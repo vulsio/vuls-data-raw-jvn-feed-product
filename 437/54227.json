@@ -1,8 +1,8 @@
 {
-  "vid": "437",
-  "vname": "ベリタス",
-  "vcpe": "cpe:/:veritas",
-  "pid": "54227",
-  "pname": "Veritas Flex Scale",
-  "pcpe": "cpe:/a:veritas:flex_scale"
+	"vid": "437",
+	"vname": "ベリタス",
+	"vcpe": "cpe:/:veritas",
+	"pid": "54227",
+	"pname": "Veritas Flex Scale",
+	"pcpe": "cpe:/a:veritas:flex_scale"
 }

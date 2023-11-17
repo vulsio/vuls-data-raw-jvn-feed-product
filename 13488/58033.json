@@ -1,8 +1,8 @@
 {
-  "vid": "13488",
-  "vname": "Zoom Video Communications, Inc.",
-  "vcpe": "cpe:/:zoom",
-  "pid": "58033",
-  "pname": "Zoom Video SDK",
-  "pcpe": "cpe:/a:zoom:video_software_development_kit"
+	"vid": "13488",
+	"vname": "Zoom Video Communications, Inc.",
+	"vcpe": "cpe:/:zoom",
+	"pid": "58033",
+	"pname": "Zoom Video SDK",
+	"pcpe": "cpe:/a:zoom:video_software_development_kit"
 }

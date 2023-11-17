@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "49403",
-  "pname": "PMX55 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:pmx55_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "49403",
+	"pname": "PMX55 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:pmx55_firmware"
 }

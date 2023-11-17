@@ -1,8 +1,8 @@
 {
-  "vid": "12375",
-  "vname": "WSO2",
-  "vcpe": "cpe:/:wso2",
-  "pid": "30617",
-  "pname": "WSO2 Data Analytics Server",
-  "pcpe": "cpe:/a:wso2:data_analytics_server"
+	"vid": "12375",
+	"vname": "WSO2",
+	"vcpe": "cpe:/:wso2",
+	"pid": "30617",
+	"pname": "WSO2 Data Analytics Server",
+	"pcpe": "cpe:/a:wso2:data_analytics_server"
 }

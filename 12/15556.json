@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "15556",
-  "pname": "Trend Micro OfficeScan Corporate Edition",
-  "pcpe": "cpe:/a:trendmicro:officescan_corporate_edition"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "15556",
+	"pname": "Trend Micro OfficeScan Corporate Edition",
+	"pcpe": "cpe:/a:trendmicro:officescan_corporate_edition"
 }

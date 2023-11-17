@@ -1,8 +1,8 @@
 {
-  "vid": "18233",
-  "vname": "Genius Bytes",
-  "vcpe": "cpe:/:geniusbytes",
-  "pid": "44644",
-  "pname": "Genius Server",
-  "pcpe": "cpe:/a:geniusbytes:genius_server"
+	"vid": "18233",
+	"vname": "Genius Bytes",
+	"vcpe": "cpe:/:geniusbytes",
+	"pid": "44644",
+	"pname": "Genius Server",
+	"pcpe": "cpe:/a:geniusbytes:genius_server"
 }

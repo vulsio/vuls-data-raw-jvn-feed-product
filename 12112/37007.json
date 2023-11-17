@@ -1,8 +1,8 @@
 {
-  "vid": "12112",
-  "vname": "パルスセキュア",
-  "vcpe": "cpe:/:pulsesecure",
-  "pid": "37007",
-  "pname": "secure access series ssl vpn sa-4000",
-  "pcpe": "cpe:/a:pulsesecure:secure_access_series_ssl_vpn_sa-4000"
+	"vid": "12112",
+	"vname": "パルスセキュア",
+	"vcpe": "cpe:/:pulsesecure",
+	"pid": "37007",
+	"pname": "secure access series ssl vpn sa-4000",
+	"pcpe": "cpe:/a:pulsesecure:secure_access_series_ssl_vpn_sa-4000"
 }

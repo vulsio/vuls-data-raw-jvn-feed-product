@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "20381",
-  "pname": "HP Service Virtualization",
-  "pcpe": "cpe:/a:hp:service_virtualization"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "20381",
+	"pname": "HP Service Virtualization",
+	"pcpe": "cpe:/a:hp:service_virtualization"
 }

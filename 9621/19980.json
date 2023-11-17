@@ -1,8 +1,8 @@
 {
-  "vid": "9621",
-  "vname": "zlib.org",
-  "vcpe": "cpe:/:zlib",
-  "pid": "19980",
-  "pname": "pigz",
-  "pcpe": "cpe:/a:zlib:pigz"
+	"vid": "9621",
+	"vname": "zlib.org",
+	"vcpe": "cpe:/:zlib",
+	"pid": "19980",
+	"pname": "pigz",
+	"pcpe": "cpe:/a:zlib:pigz"
 }

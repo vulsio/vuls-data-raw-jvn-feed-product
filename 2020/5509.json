@@ -1,8 +1,8 @@
 {
-  "vid": "2020",
-  "vname": "Acunetix",
-  "vcpe": "cpe:/:acunetix",
-  "pid": "5509",
-  "pname": "Acunetix Web Vulnerability Scanner",
-  "pcpe": "cpe:/a:acunetix:web_vulnerability_scanner"
+	"vid": "2020",
+	"vname": "Acunetix",
+	"vcpe": "cpe:/:acunetix",
+	"pid": "5509",
+	"pname": "Acunetix Web Vulnerability Scanner",
+	"pcpe": "cpe:/a:acunetix:web_vulnerability_scanner"
 }

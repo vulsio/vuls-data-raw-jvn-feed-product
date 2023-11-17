@@ -1,8 +1,8 @@
 {
-  "vid": "796",
-  "vname": "シスコシステムズ (Linksys)",
-  "vcpe": "cpe:/:linksys",
-  "pid": "12944",
-  "pname": "spa941",
-  "pcpe": "cpe:/h:linksys:spa941"
+	"vid": "796",
+	"vname": "シスコシステムズ (Linksys)",
+	"vcpe": "cpe:/:linksys",
+	"pid": "12944",
+	"pname": "spa941",
+	"pcpe": "cpe:/h:linksys:spa941"
 }

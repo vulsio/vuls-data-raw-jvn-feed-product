@@ -1,8 +1,8 @@
 {
-  "vid": "20491",
-  "vname": "uMatrix project",
-  "vcpe": "cpe:/:umatrix_project",
-  "pid": "52164",
-  "pname": "uMatrix",
-  "pcpe": "cpe:/a:umatrix_project:umatrix"
+	"vid": "20491",
+	"vname": "uMatrix project",
+	"vcpe": "cpe:/:umatrix_project",
+	"pid": "52164",
+	"pname": "uMatrix",
+	"pcpe": "cpe:/a:umatrix_project:umatrix"
 }

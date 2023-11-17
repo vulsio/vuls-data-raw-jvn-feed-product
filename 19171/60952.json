@@ -1,8 +1,8 @@
 {
-  "vid": "19171",
-  "vname": "Bitrix24",
-  "vcpe": "cpe:/:bitrix24",
-  "pid": "60952",
-  "pname": "bitrix site manager",
-  "pcpe": "cpe:/a:bitrix24:bitrix_site_manager"
+	"vid": "19171",
+	"vname": "Bitrix24",
+	"vcpe": "cpe:/:bitrix24",
+	"pid": "60952",
+	"pname": "bitrix site manager",
+	"pcpe": "cpe:/a:bitrix24:bitrix_site_manager"
 }

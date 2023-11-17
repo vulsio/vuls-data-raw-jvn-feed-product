@@ -1,8 +1,8 @@
 {
-  "vid": "23992",
-  "vname": "CusRev",
-  "vcpe": "cpe:/:cusrev",
-  "pid": "62069",
-  "pname": "Customer Reviews for WooCommerce",
-  "pcpe": "cpe:/a:cusrev:customer_reviews_for_woocommerce"
+	"vid": "23992",
+	"vname": "CusRev",
+	"vcpe": "cpe:/:cusrev",
+	"pid": "62069",
+	"pname": "Customer Reviews for WooCommerce",
+	"pcpe": "cpe:/a:cusrev:customer_reviews_for_woocommerce"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9029",
-  "vname": "Ubiquiti Networks",
-  "vcpe": "cpe:/:ubiquiti_networks",
-  "pid": "39037",
-  "pname": "UniFi ファームウェア",
-  "pcpe": "cpe:/o:ubiquiti_networks:unifi_firmware"
+	"vid": "9029",
+	"vname": "Ubiquiti Networks",
+	"vcpe": "cpe:/:ubiquiti_networks",
+	"pid": "39037",
+	"pname": "UniFi ファームウェア",
+	"pcpe": "cpe:/o:ubiquiti_networks:unifi_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13255",
-  "vname": "bchunk project",
-  "vcpe": "cpe:/:bchunk_project",
-  "pid": "31009",
-  "pname": "bchunk",
-  "pcpe": "cpe:/a:bchunk_project:bchunk"
+	"vid": "13255",
+	"vname": "bchunk project",
+	"vcpe": "cpe:/:bchunk_project",
+	"pid": "31009",
+	"pname": "bchunk",
+	"pcpe": "cpe:/a:bchunk_project:bchunk"
 }

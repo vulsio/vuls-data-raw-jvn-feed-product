@@ -1,8 +1,8 @@
 {
-  "vid": "13994",
-  "vname": "Yubico",
-  "vcpe": "cpe:/:yubico",
-  "pid": "42187",
-  "pname": "PAM Module",
-  "pcpe": "cpe:/a:yubico:pam_module"
+	"vid": "13994",
+	"vname": "Yubico",
+	"vcpe": "cpe:/:yubico",
+	"pid": "42187",
+	"pname": "PAM Module",
+	"pcpe": "cpe:/a:yubico:pam_module"
 }

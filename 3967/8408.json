@@ -1,8 +1,8 @@
 {
-  "vid": "3967",
-  "vname": "ghostsecurity",
-  "vcpe": "cpe:/:ghostsecurity",
-  "pid": "8408",
-  "pname": "ghost security suite",
-  "pcpe": "cpe:/a:ghostsecurity:ghost_security_suite"
+	"vid": "3967",
+	"vname": "ghostsecurity",
+	"vcpe": "cpe:/:ghostsecurity",
+	"pid": "8408",
+	"pname": "ghost security suite",
+	"pcpe": "cpe:/a:ghostsecurity:ghost_security_suite"
 }

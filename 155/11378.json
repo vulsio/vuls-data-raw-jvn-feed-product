@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "11378",
-  "pname": "McAfee NeoTrace",
-  "pcpe": "cpe:/a:mcafee:neotrace"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "11378",
+	"pname": "McAfee NeoTrace",
+	"pcpe": "cpe:/a:mcafee:neotrace"
 }

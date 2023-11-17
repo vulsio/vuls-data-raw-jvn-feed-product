@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "4036",
-  "pname": "TIBCO ActiveMatrix BPM",
-  "pcpe": "cpe:/a:tibco:activematrix_bpm"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "4036",
+	"pname": "TIBCO ActiveMatrix BPM",
+	"pcpe": "cpe:/a:tibco:activematrix_bpm"
 }

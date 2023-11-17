@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "23339",
-  "pname": "MultiLink ML1600 ファームウェア",
-  "pcpe": "cpe:/o:ge:multilink_ml1600_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "23339",
+	"pname": "MultiLink ML1600 ファームウェア",
+	"pcpe": "cpe:/o:ge:multilink_ml1600_firmware"
 }

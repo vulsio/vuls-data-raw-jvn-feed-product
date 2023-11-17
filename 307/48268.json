@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "48268",
-  "pname": "Aruba 2530YA ファームウェア",
-  "pcpe": "cpe:/o:arubanetworks:aruba_2530ya_firmware"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "48268",
+	"pname": "Aruba 2530YA ファームウェア",
+	"pcpe": "cpe:/o:arubanetworks:aruba_2530ya_firmware"
 }

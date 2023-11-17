@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "35089",
-  "pname": "Dell EMC iDRAC Service Module",
-  "pcpe": "cpe:/a:dell:emc_idrac_service_module"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "35089",
+	"pname": "Dell EMC iDRAC Service Module",
+	"pcpe": "cpe:/a:dell:emc_idrac_service_module"
 }

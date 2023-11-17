@@ -1,8 +1,8 @@
 {
-  "vid": "4176",
-  "vname": "Belkin International",
-  "vcpe": "cpe:/:belkin",
-  "pid": "13319",
-  "pname": "Advance N900 Dual-Band Wireless Router",
-  "pcpe": "cpe:/h:belkin:n900"
+	"vid": "4176",
+	"vname": "Belkin International",
+	"vcpe": "cpe:/:belkin",
+	"pid": "13319",
+	"pname": "Advance N900 Dual-Band Wireless Router",
+	"pcpe": "cpe:/h:belkin:n900"
 }

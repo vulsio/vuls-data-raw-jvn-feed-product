@@ -1,8 +1,8 @@
 {
-  "vid": "2399",
-  "vname": "AVM",
-  "vcpe": "cpe:/:avm",
-  "pid": "25369",
-  "pname": "FRITZ!Box (FRITZ!OS)",
-  "pcpe": "cpe:/o:avm:fritz%21_os"
+	"vid": "2399",
+	"vname": "AVM",
+	"vcpe": "cpe:/:avm",
+	"pid": "25369",
+	"pname": "FRITZ!Box (FRITZ!OS)",
+	"pcpe": "cpe:/o:avm:fritz%21_os"
 }

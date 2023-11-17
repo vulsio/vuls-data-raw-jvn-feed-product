@@ -1,8 +1,8 @@
 {
-  "vid": "16750",
-  "vname": "NCSOFT Corporation",
-  "vcpe": "cpe:/:ncsoft",
-  "pid": "39942",
-  "pname": "NC Launcher2",
-  "pcpe": "cpe:/a:ncsoft:nc_launcher2"
+	"vid": "16750",
+	"vname": "NCSOFT Corporation",
+	"vcpe": "cpe:/:ncsoft",
+	"pid": "39942",
+	"pname": "NC Launcher2",
+	"pcpe": "cpe:/a:ncsoft:nc_launcher2"
 }

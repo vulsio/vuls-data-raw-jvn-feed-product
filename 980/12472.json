@@ -1,8 +1,8 @@
 {
-  "vid": "980",
-  "vname": "Parallels",
-  "vcpe": "cpe:/:parallels",
-  "pid": "12472",
-  "pname": "parallels desktop",
-  "pcpe": "cpe:/a:parallels:parallels_desktop"
+	"vid": "980",
+	"vname": "Parallels",
+	"vcpe": "cpe:/:parallels",
+	"pid": "12472",
+	"pname": "parallels desktop",
+	"pcpe": "cpe:/a:parallels:parallels_desktop"
 }

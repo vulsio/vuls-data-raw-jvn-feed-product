@@ -1,8 +1,8 @@
 {
-  "vid": "1337",
-  "vname": "Alcatel-Lucent",
-  "vcpe": "cpe:/:alcatel-lucent",
-  "pid": "4162",
-  "pname": "ccagent",
-  "pcpe": "cpe:/a:alcatel-lucent:ccagent"
+	"vid": "1337",
+	"vname": "Alcatel-Lucent",
+	"vcpe": "cpe:/:alcatel-lucent",
+	"pid": "4162",
+	"pname": "ccagent",
+	"pcpe": "cpe:/a:alcatel-lucent:ccagent"
 }

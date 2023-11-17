@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "25111",
-  "pname": "SIMATIC TIM 4R-IE ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_tim_4r-ie_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "25111",
+	"pname": "SIMATIC TIM 4R-IE ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_tim_4r-ie_firmware"
 }

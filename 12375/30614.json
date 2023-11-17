@@ -1,8 +1,8 @@
 {
-  "vid": "12375",
-  "vname": "WSO2",
-  "vcpe": "cpe:/:wso2",
-  "pid": "30614",
-  "pname": "WSO2 Business Rules Server",
-  "pcpe": "cpe:/a:wso2:business_rules_server"
+	"vid": "12375",
+	"vname": "WSO2",
+	"vcpe": "cpe:/:wso2",
+	"pid": "30614",
+	"pname": "WSO2 Business Rules Server",
+	"pcpe": "cpe:/a:wso2:business_rules_server"
 }

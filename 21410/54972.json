@@ -1,8 +1,8 @@
 {
-  "vid": "21410",
-  "vname": "Star Charge",
-  "vcpe": "cpe:/:starcharge",
-  "pid": "54972",
-  "pname": "Titan 180 Premium ファームウェア",
-  "pcpe": "cpe:/o:starcharge:titan_180_premium_firmware"
+	"vid": "21410",
+	"vname": "Star Charge",
+	"vcpe": "cpe:/:starcharge",
+	"pid": "54972",
+	"pname": "Titan 180 Premium ファームウェア",
+	"pcpe": "cpe:/o:starcharge:titan_180_premium_firmware"
 }

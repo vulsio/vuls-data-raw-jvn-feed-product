@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25649",
-  "pname": "HP Continuous Delivery Automation",
-  "pcpe": "cpe:/a:hp:continuous_delivery_automation"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25649",
+	"pname": "HP Continuous Delivery Automation",
+	"pcpe": "cpe:/a:hp:continuous_delivery_automation"
 }

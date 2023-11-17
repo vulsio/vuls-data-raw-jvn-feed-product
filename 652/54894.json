@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "54894",
-  "pname": "Blockchain Wallet",
-  "pcpe": "cpe:/a:samsung:blockchain_wallet"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "54894",
+	"pname": "Blockchain Wallet",
+	"pcpe": "cpe:/a:samsung:blockchain_wallet"
 }

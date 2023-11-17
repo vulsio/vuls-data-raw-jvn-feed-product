@@ -1,8 +1,8 @@
 {
-  "vid": "21250",
-  "vname": "Roundup WP",
-  "vcpe": "cpe:/:roundupwp",
-  "pid": "54563",
-  "pname": "Registrations for the Events Calendar",
-  "pcpe": "cpe:/a:roundupwp:registrations_for_the_events_calendar"
+	"vid": "21250",
+	"vname": "Roundup WP",
+	"vcpe": "cpe:/:roundupwp",
+	"pid": "54563",
+	"pname": "Registrations for the Events Calendar",
+	"pcpe": "cpe:/a:roundupwp:registrations_for_the_events_calendar"
 }

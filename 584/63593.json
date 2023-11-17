@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63593",
-  "pname": "desigo pxm20-e ファームウェア",
-  "pcpe": "cpe:/o:siemens:desigo_pxm20-e_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63593",
+	"pname": "desigo pxm20-e ファームウェア",
+	"pcpe": "cpe:/o:siemens:desigo_pxm20-e_firmware"
 }

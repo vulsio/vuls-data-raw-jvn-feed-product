@@ -1,8 +1,8 @@
 {
-  "vid": "590",
-  "vname": "freedesktop.org",
-  "vcpe": "cpe:/:freedesktop",
-  "pid": "32227",
-  "pname": "xdg-user-dirs",
-  "pcpe": "cpe:/a:freedesktop:xdg-user-dirs"
+	"vid": "590",
+	"vname": "freedesktop.org",
+	"vcpe": "cpe:/:freedesktop",
+	"pid": "32227",
+	"pname": "xdg-user-dirs",
+	"pcpe": "cpe:/a:freedesktop:xdg-user-dirs"
 }

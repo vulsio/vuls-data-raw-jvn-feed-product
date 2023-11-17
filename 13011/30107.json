@@ -1,8 +1,8 @@
 {
-  "vid": "13011",
-  "vname": "PDQ Manufacturing, Inc.",
-  "vcpe": "cpe:/:pdqinc",
-  "pid": "30107",
-  "pname": "LaserWash 360 ファームウェア",
-  "pcpe": "cpe:/o:pdqinc:laserwash_360_firmware"
+	"vid": "13011",
+	"vname": "PDQ Manufacturing, Inc.",
+	"vcpe": "cpe:/:pdqinc",
+	"pid": "30107",
+	"pname": "LaserWash 360 ファームウェア",
+	"pcpe": "cpe:/o:pdqinc:laserwash_360_firmware"
 }

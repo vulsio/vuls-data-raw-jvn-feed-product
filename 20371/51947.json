@@ -1,8 +1,8 @@
 {
-  "vid": "20371",
-  "vname": "libp2p",
-  "vcpe": "cpe:/:libp2p",
-  "pid": "51947",
-  "pname": "libp2p-deflate",
-  "pcpe": "cpe:/a:libp2p:libp2p-deflate"
+	"vid": "20371",
+	"vname": "libp2p",
+	"vcpe": "cpe:/:libp2p",
+	"pid": "51947",
+	"pname": "libp2p-deflate",
+	"pcpe": "cpe:/a:libp2p:libp2p-deflate"
 }

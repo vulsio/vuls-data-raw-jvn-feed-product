@@ -1,8 +1,8 @@
 {
-  "vid": "20274",
-  "vname": "b2x_project",
-  "vcpe": "cpe:/:b2x_project",
-  "pid": "51664",
-  "pname": "B2X",
-  "pcpe": "cpe:/a:b2x_project:b2x"
+	"vid": "20274",
+	"vname": "b2x_project",
+	"vcpe": "cpe:/:b2x_project",
+	"pid": "51664",
+	"pname": "B2X",
+	"pcpe": "cpe:/a:b2x_project:b2x"
 }

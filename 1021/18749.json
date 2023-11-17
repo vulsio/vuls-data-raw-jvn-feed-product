@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "18749",
-  "pname": "OpenStack Image Registry and Delivery Service (Glance)",
-  "pcpe": "cpe:/a:openstack:image_registry_and_delivery_service_%28glance%29"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "18749",
+	"pname": "OpenStack Image Registry and Delivery Service (Glance)",
+	"pcpe": "cpe:/a:openstack:image_registry_and_delivery_service_%28glance%29"
 }

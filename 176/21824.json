@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "21824",
-  "pname": "AR440S",
-  "pcpe": "cpe:/h:allied_telesis_k.k.:ar440s"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "21824",
+	"pname": "AR440S",
+	"pcpe": "cpe:/h:allied_telesis_k.k.:ar440s"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "58725",
-  "pname": "thinkpad t570 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_t570_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "58725",
+	"pname": "thinkpad t570 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_t570_firmware"
 }

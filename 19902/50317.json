@@ -1,8 +1,8 @@
 {
-  "vid": "19902",
-  "vname": "Simple Glasgow Haskell Compiler project",
-  "vcpe": "cpe:/:simple_glasgow_haskell_compiler_project",
-  "pid": "50317",
-  "pname": "Simple Glasgow Haskell Compiler",
-  "pcpe": "cpe:/a:simple_glasgow_haskell_compiler_project:simple_glasgow_haskell_compiler"
+	"vid": "19902",
+	"vname": "Simple Glasgow Haskell Compiler project",
+	"vcpe": "cpe:/:simple_glasgow_haskell_compiler_project",
+	"pid": "50317",
+	"pname": "Simple Glasgow Haskell Compiler",
+	"pcpe": "cpe:/a:simple_glasgow_haskell_compiler_project:simple_glasgow_haskell_compiler"
 }

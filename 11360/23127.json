@@ -1,8 +1,8 @@
 {
-  "vid": "11360",
-  "vname": "IP ban project",
-  "vcpe": "cpe:/:ip_ban_project",
-  "pid": "23127",
-  "pname": "IP Ban",
-  "pcpe": "cpe:/a:ip_ban_project:ip_ban"
+	"vid": "11360",
+	"vname": "IP ban project",
+	"vcpe": "cpe:/:ip_ban_project",
+	"pid": "23127",
+	"pname": "IP Ban",
+	"pcpe": "cpe:/a:ip_ban_project:ip_ban"
 }

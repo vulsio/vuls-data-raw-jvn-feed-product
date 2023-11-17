@@ -1,8 +1,8 @@
 {
-  "vid": "98",
-  "vname": "サイボウズ",
-  "vcpe": "cpe:/:cybozu",
-  "pid": "579",
-  "pname": "サイボウズ コラボレックス",
-  "pcpe": "cpe:/a:cybozu:collaborex"
+	"vid": "98",
+	"vname": "サイボウズ",
+	"vcpe": "cpe:/:cybozu",
+	"pid": "579",
+	"pname": "サイボウズ コラボレックス",
+	"pcpe": "cpe:/a:cybozu:collaborex"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13785",
-  "vname": "Ring",
-  "vcpe": "cpe:/:ring",
-  "pid": "32666",
-  "pname": "Ring",
-  "pcpe": "cpe:/o:ring:ring_firmware"
+	"vid": "13785",
+	"vname": "Ring",
+	"vcpe": "cpe:/:ring",
+	"pid": "32666",
+	"pname": "Ring",
+	"pcpe": "cpe:/o:ring:ring_firmware"
 }

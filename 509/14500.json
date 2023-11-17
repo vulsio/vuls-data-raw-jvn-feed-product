@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "14500",
-  "pname": "internet communication manager",
-  "pcpe": "cpe:/a:sap:internet_communication_manager"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "14500",
+	"pname": "internet communication manager",
+	"pcpe": "cpe:/a:sap:internet_communication_manager"
 }

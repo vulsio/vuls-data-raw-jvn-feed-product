@@ -1,8 +1,8 @@
 {
-  "vid": "16290",
-  "vname": "Jakub Chodounsky",
-  "vcpe": "cpe:/:bonobogitserver",
-  "pid": "38394",
-  "pname": "Bonobo Git Server",
-  "pcpe": "cpe:/a:bonobogitserver:bonobo_git_server"
+	"vid": "16290",
+	"vname": "Jakub Chodounsky",
+	"vcpe": "cpe:/:bonobogitserver",
+	"pid": "38394",
+	"pname": "Bonobo Git Server",
+	"pcpe": "cpe:/a:bonobogitserver:bonobo_git_server"
 }

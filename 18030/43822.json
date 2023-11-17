@@ -1,8 +1,8 @@
 {
-  "vid": "18030",
-  "vname": "yii2cmf project",
-  "vcpe": "cpe:/:yii2cmf_project",
-  "pid": "43822",
-  "pname": "yii2cmf",
-  "pcpe": "cpe:/a:yii2cmf_project:yii2cmf"
+	"vid": "18030",
+	"vname": "yii2cmf project",
+	"vcpe": "cpe:/:yii2cmf_project",
+	"pid": "43822",
+	"pname": "yii2cmf",
+	"pcpe": "cpe:/a:yii2cmf_project:yii2cmf"
 }

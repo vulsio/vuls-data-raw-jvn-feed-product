@@ -1,8 +1,8 @@
 {
-  "vid": "12508",
-  "vname": "Becton, Dickinson and Company (BD)",
-  "vcpe": "cpe:/:bd",
-  "pid": "55542",
-  "pname": "Alaris Infusion Central",
-  "pcpe": "cpe:/a:bd:alaris_infusion_central"
+	"vid": "12508",
+	"vname": "Becton, Dickinson and Company (BD)",
+	"vcpe": "cpe:/:bd",
+	"pid": "55542",
+	"pname": "Alaris Infusion Central",
+	"pcpe": "cpe:/a:bd:alaris_infusion_central"
 }

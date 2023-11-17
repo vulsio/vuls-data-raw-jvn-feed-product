@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "56313",
-  "pname": "CODESYS Profinet",
-  "pcpe": "cpe:/a:codesys:profinet"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "56313",
+	"pname": "CODESYS Profinet",
+	"pcpe": "cpe:/a:codesys:profinet"
 }

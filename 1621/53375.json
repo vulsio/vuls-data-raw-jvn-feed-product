@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "53375",
-  "pname": "HEIF",
-  "pcpe": "cpe:/a:nokia:heif"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "53375",
+	"pname": "HEIF",
+	"pcpe": "cpe:/a:nokia:heif"
 }

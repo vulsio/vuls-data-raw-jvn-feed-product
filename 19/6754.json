@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "6754",
-  "pname": "Cisco Unified Contact Center Enterprise",
-  "pcpe": "cpe:/a:cisco:unified_contact_center_enterprise"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "6754",
+	"pname": "Cisco Unified Contact Center Enterprise",
+	"pcpe": "cpe:/a:cisco:unified_contact_center_enterprise"
 }

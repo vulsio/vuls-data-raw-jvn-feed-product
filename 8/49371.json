@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "49371",
-  "pname": "Apache Nutch",
-  "pcpe": "cpe:/a:apache:nutch"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "49371",
+	"pname": "Apache Nutch",
+	"pcpe": "cpe:/a:apache:nutch"
 }

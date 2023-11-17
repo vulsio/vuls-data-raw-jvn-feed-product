@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "30210",
-  "pname": "Red Hat Enterprise Linux Server from RHUI",
-  "pcpe": "cpe:/o:redhat:enterprise_linux_server_from_rhui"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "30210",
+	"pname": "Red Hat Enterprise Linux Server from RHUI",
+	"pcpe": "cpe:/o:redhat:enterprise_linux_server_from_rhui"
 }

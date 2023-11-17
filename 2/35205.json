@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "35205",
-  "pname": "Microsoft Windows People",
-  "pcpe": "cpe:/a:microsoft:windows_people"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "35205",
+	"pname": "Microsoft Windows People",
+	"pcpe": "cpe:/a:microsoft:windows_people"
 }

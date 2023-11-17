@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26596",
-  "pname": "Oracle Communications Policy Management",
-  "pcpe": "cpe:/a:oracle:communications_policy_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26596",
+	"pname": "Oracle Communications Policy Management",
+	"pcpe": "cpe:/a:oracle:communications_policy_management"
 }

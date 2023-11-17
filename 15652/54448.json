@@ -1,8 +1,8 @@
 {
-  "vid": "15652",
-  "vname": "LibreCAD",
-  "vcpe": "cpe:/:librecad",
-  "pid": "54448",
-  "pname": "libdxfrw",
-  "pcpe": "cpe:/a:librecad:libdxfrw"
+	"vid": "15652",
+	"vname": "LibreCAD",
+	"vcpe": "cpe:/:librecad",
+	"pid": "54448",
+	"pname": "libdxfrw",
+	"pcpe": "cpe:/a:librecad:libdxfrw"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "44407",
-  "pname": "SRS60 ファームウェア",
-  "pcpe": "cpe:/o:netgear:srs60_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "44407",
+	"pname": "SRS60 ファームウェア",
+	"pcpe": "cpe:/o:netgear:srs60_firmware"
 }

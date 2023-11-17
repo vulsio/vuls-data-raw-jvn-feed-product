@@ -1,8 +1,8 @@
 {
-  "vid": "1709",
-  "vname": "Shibboleth",
-  "vcpe": "cpe:/:shibboleth",
-  "pid": "4794",
-  "pname": "Shibboleth Service Provider",
-  "pcpe": "cpe:/a:shibboleth:shibboleth-sp"
+	"vid": "1709",
+	"vname": "Shibboleth",
+	"vcpe": "cpe:/:shibboleth",
+	"pid": "4794",
+	"pname": "Shibboleth Service Provider",
+	"pcpe": "cpe:/a:shibboleth:shibboleth-sp"
 }

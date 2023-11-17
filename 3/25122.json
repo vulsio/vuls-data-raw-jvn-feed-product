@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "25122",
-  "pname": "Red Hat Ceph Storage",
-  "pcpe": "cpe:/a:redhat:ceph_storage"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "25122",
+	"pname": "Red Hat Ceph Storage",
+	"pcpe": "cpe:/a:redhat:ceph_storage"
 }

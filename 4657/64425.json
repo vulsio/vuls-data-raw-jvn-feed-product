@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "64425",
-  "pname": "leia-b29 ファームウェア",
-  "pcpe": "cpe:/o:huawei:leia-b29_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "64425",
+	"pname": "leia-b29 ファームウェア",
+	"pcpe": "cpe:/o:huawei:leia-b29_firmware"
 }

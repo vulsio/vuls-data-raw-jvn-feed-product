@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "42970",
-  "pname": "Cisco Smart Software Manager On-Prem",
-  "pcpe": "cpe:/a:cisco:smart_software_manager_on-prem"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "42970",
+	"pname": "Cisco Smart Software Manager On-Prem",
+	"pcpe": "cpe:/a:cisco:smart_software_manager_on-prem"
 }

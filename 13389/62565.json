@@ -1,8 +1,8 @@
 {
-  "vid": "13389",
-  "vname": "AutomationDirect",
-  "vcpe": "cpe:/:automationdirect",
-  "pid": "62565",
-  "pname": "c-more ea9-t15cl ファームウェア",
-  "pcpe": "cpe:/o:automationdirect:c-more_ea9-t15cl_firmware"
+	"vid": "13389",
+	"vname": "AutomationDirect",
+	"vcpe": "cpe:/:automationdirect",
+	"pid": "62565",
+	"pname": "c-more ea9-t15cl ファームウェア",
+	"pcpe": "cpe:/o:automationdirect:c-more_ea9-t15cl_firmware"
 }

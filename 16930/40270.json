@@ -1,8 +1,8 @@
 {
-  "vid": "16930",
-  "vname": "Zebra Technologies Corp",
-  "vcpe": "cpe:/:zebra",
-  "pid": "40270",
-  "pname": "ZT220XI4 ファームウェア",
-  "pcpe": "cpe:/o:zebra:220xi4_firmware"
+	"vid": "16930",
+	"vname": "Zebra Technologies Corp",
+	"vcpe": "cpe:/:zebra",
+	"pid": "40270",
+	"pname": "ZT220XI4 ファームウェア",
+	"pcpe": "cpe:/o:zebra:220xi4_firmware"
 }

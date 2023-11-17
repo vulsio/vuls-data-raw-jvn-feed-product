@@ -1,8 +1,8 @@
 {
-  "vid": "4184",
-  "vname": "deutsche telekom",
-  "vcpe": "cpe:/:deutsche_telekom",
-  "pid": "38468",
-  "pname": "MagentaCLOUD",
-  "pcpe": "cpe:/a:deutsche_telekom:magentacloud"
+	"vid": "4184",
+	"vname": "deutsche telekom",
+	"vcpe": "cpe:/:deutsche_telekom",
+	"pid": "38468",
+	"pname": "MagentaCLOUD",
+	"pcpe": "cpe:/a:deutsche_telekom:magentacloud"
 }

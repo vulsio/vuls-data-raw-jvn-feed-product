@@ -1,8 +1,8 @@
 {
-  "vid": "777",
-  "vname": "ecoCMS",
-  "vcpe": "cpe:/:ecocms",
-  "pid": "3123",
-  "pname": "ecoCMS",
-  "pcpe": "cpe:/a:ecocms:ecocms"
+	"vid": "777",
+	"vname": "ecoCMS",
+	"vcpe": "cpe:/:ecocms",
+	"pid": "3123",
+	"pname": "ecoCMS",
+	"pcpe": "cpe:/a:ecocms:ecocms"
 }

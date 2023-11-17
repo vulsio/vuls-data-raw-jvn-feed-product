@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23969",
-  "pname": "Cisco FireSIGHT システム ソフトウェア",
-  "pcpe": "cpe:/a:cisco:firesight_system_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23969",
+	"pname": "Cisco FireSIGHT システム ソフトウェア",
+	"pcpe": "cpe:/a:cisco:firesight_system_software"
 }

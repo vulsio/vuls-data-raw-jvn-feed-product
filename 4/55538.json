@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "55538",
-  "pname": "DesignJet T1530 12Y24B ファームウェア",
-  "pcpe": "cpe:/o:hp:designjet_t1530_l2y24b_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "55538",
+	"pname": "DesignJet T1530 12Y24B ファームウェア",
+	"pcpe": "cpe:/o:hp:designjet_t1530_l2y24b_firmware"
 }

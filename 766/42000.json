@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "42000",
-  "pname": "Andover Continuum 9702 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:andover_continuum_9702_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "42000",
+	"pname": "Andover Continuum 9702 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:andover_continuum_9702_firmware"
 }

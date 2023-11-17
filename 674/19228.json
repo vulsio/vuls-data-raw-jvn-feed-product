@@ -1,8 +1,8 @@
 {
-  "vid": "674",
-  "vname": "ブロケード コミュニケーションズ システムズ株式会社",
-  "vcpe": "cpe:/:brocade",
-  "pid": "19228",
-  "pname": "Brocade Vyatta vRouter",
-  "pcpe": "cpe:/h:brocade:vyatta_vrouter"
+	"vid": "674",
+	"vname": "ブロケード コミュニケーションズ システムズ株式会社",
+	"vcpe": "cpe:/:brocade",
+	"pid": "19228",
+	"pname": "Brocade Vyatta vRouter",
+	"pcpe": "cpe:/h:brocade:vyatta_vrouter"
 }

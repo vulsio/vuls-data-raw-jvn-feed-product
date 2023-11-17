@@ -1,8 +1,8 @@
 {
-  "vid": "13904",
-  "vname": "Jeff Forcier",
-  "vcpe": "cpe:/:paramiko",
-  "pid": "33052",
-  "pname": "Paramiko",
-  "pcpe": "cpe:/a:paramiko:paramiko"
+	"vid": "13904",
+	"vname": "Jeff Forcier",
+	"vcpe": "cpe:/:paramiko",
+	"pid": "33052",
+	"pname": "Paramiko",
+	"pcpe": "cpe:/a:paramiko:paramiko"
 }

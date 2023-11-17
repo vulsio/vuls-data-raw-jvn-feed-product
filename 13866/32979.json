@@ -1,8 +1,8 @@
 {
-  "vid": "13866",
-  "vname": "株式会社セルシス",
-  "vcpe": "cpe:/:misc",
-  "pid": "32979",
-  "pname": "CLIP STUDIO MODELER (Windows 版)",
-  "pcpe": "cpe:/a:misc:celsys_clip_studio_modeler"
+	"vid": "13866",
+	"vname": "株式会社セルシス",
+	"vcpe": "cpe:/:misc",
+	"pid": "32979",
+	"pname": "CLIP STUDIO MODELER (Windows 版)",
+	"pcpe": "cpe:/a:misc:celsys_clip_studio_modeler"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12815",
-  "vname": "Cognito Software Ltd",
-  "vcpe": "cpe:/:cognito",
-  "pid": "29504",
-  "pname": "MoneyWorks",
-  "pcpe": "cpe:/a:cognito:moneyworks"
+	"vid": "12815",
+	"vname": "Cognito Software Ltd",
+	"vcpe": "cpe:/:cognito",
+	"pid": "29504",
+	"pname": "MoneyWorks",
+	"pcpe": "cpe:/a:cognito:moneyworks"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "38275",
-  "pname": "510-15IKL ファームウェア",
-  "pcpe": "cpe:/o:lenovo:510-15ikl_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "38275",
+	"pname": "510-15IKL ファームウェア",
+	"pcpe": "cpe:/o:lenovo:510-15ikl_firmware"
 }

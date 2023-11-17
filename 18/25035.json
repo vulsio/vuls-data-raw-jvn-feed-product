@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "25035",
-  "pname": "IBM System Networking Switch Center",
-  "pcpe": "cpe:/a:ibm:system_networking_switch_center"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "25035",
+	"pname": "IBM System Networking Switch Center",
+	"pcpe": "cpe:/a:ibm:system_networking_switch_center"
 }

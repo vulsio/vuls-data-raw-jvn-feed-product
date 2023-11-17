@@ -1,8 +1,8 @@
 {
-  "vid": "5034",
-  "vname": "joomla.batjo",
-  "vcpe": "cpe:/:joomla.batjo",
-  "pid": "10500",
-  "pname": "com shoutbox",
-  "pcpe": "cpe:/a:joomla.batjo:com_shoutbox"
+	"vid": "5034",
+	"vname": "joomla.batjo",
+	"vcpe": "cpe:/:joomla.batjo",
+	"pid": "10500",
+	"pname": "com shoutbox",
+	"pcpe": "cpe:/a:joomla.batjo:com_shoutbox"
 }

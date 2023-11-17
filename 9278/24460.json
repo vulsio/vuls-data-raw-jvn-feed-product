@@ -1,8 +1,8 @@
 {
-  "vid": "9278",
-  "vname": "Eaton",
-  "vcpe": "cpe:/:eaton",
-  "pid": "24460",
-  "pname": "ProView",
-  "pcpe": "cpe:/a:eaton:proview"
+	"vid": "9278",
+	"vname": "Eaton",
+	"vcpe": "cpe:/:eaton",
+	"pid": "24460",
+	"pname": "ProView",
+	"pcpe": "cpe:/a:eaton:proview"
 }

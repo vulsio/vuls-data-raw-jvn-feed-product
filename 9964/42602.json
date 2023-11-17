@@ -1,8 +1,8 @@
 {
-  "vid": "9964",
-  "vname": "BSS Company",
-  "vcpe": "cpe:/:bssys",
-  "pid": "42602",
-  "pname": "RBS BS-Client. Retail Client",
-  "pcpe": "cpe:/a:bssys:rbs_bs-client._retail_client"
+	"vid": "9964",
+	"vname": "BSS Company",
+	"vcpe": "cpe:/:bssys",
+	"pid": "42602",
+	"pname": "RBS BS-Client. Retail Client",
+	"pcpe": "cpe:/a:bssys:rbs_bs-client._retail_client"
 }

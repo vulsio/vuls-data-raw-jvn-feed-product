@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "18656",
-  "pname": "BIG-IP WebAccelerator",
-  "pcpe": "cpe:/a:f5:big-ip_webaccelerator"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "18656",
+	"pname": "BIG-IP WebAccelerator",
+	"pcpe": "cpe:/a:f5:big-ip_webaccelerator"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31533",
-  "pname": "Berlin-L23 ファームウェア",
-  "pcpe": "cpe:/o:huawei:berlin-l23_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31533",
+	"pname": "Berlin-L23 ファームウェア",
+	"pcpe": "cpe:/o:huawei:berlin-l23_firmware"
 }

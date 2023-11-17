@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "60553",
-  "pname": "LIFEBOOK U7511 ファームウェア",
-  "pcpe": "cpe:/o:fujitsu:lifebook_u7511_firmware"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "60553",
+	"pname": "LIFEBOOK U7511 ファームウェア",
+	"pcpe": "cpe:/o:fujitsu:lifebook_u7511_firmware"
 }

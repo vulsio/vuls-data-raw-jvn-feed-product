@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "59326",
-  "pname": "employee self service",
-  "pcpe": "cpe:/a:sap:employee_self_service"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "59326",
+	"pname": "employee self service",
+	"pcpe": "cpe:/a:sap:employee_self_service"
 }

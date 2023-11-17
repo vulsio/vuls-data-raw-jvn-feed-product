@@ -1,8 +1,8 @@
 {
-  "vid": "14225",
-  "vname": "macacajs",
-  "vcpe": "cpe:/:macacajs",
-  "pid": "33882",
-  "pname": "macaca-chromedriver",
-  "pcpe": "cpe:/a:macacajs:macaca-chromedriver"
+	"vid": "14225",
+	"vname": "macacajs",
+	"vcpe": "cpe:/:macacajs",
+	"pid": "33882",
+	"pname": "macaca-chromedriver",
+	"pcpe": "cpe:/a:macacajs:macaca-chromedriver"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11795",
-  "vname": "Async Http Client project",
-  "vcpe": "cpe:/:async-http-client_project",
-  "pid": "24364",
-  "pname": "Async Http Client",
-  "pcpe": "cpe:/a:async-http-client_project:async-http-client"
+	"vid": "11795",
+	"vname": "Async Http Client project",
+	"vcpe": "cpe:/:async-http-client_project",
+	"pid": "24364",
+	"pname": "Async Http Client",
+	"pcpe": "cpe:/a:async-http-client_project:async-http-client"
 }

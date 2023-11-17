@@ -1,8 +1,8 @@
 {
-  "vid": "14099",
-  "vname": "DeviceLock",
-  "vcpe": "cpe:/:devicelock",
-  "pid": "33649",
-  "pname": "DeviceLock Plug and Play Auditor",
-  "pcpe": "cpe:/a:devicelock:plug_and_play_auditor"
+	"vid": "14099",
+	"vname": "DeviceLock",
+	"vcpe": "cpe:/:devicelock",
+	"pid": "33649",
+	"pname": "DeviceLock Plug and Play Auditor",
+	"pcpe": "cpe:/a:devicelock:plug_and_play_auditor"
 }

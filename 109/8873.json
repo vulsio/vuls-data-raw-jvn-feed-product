@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "8873",
-  "pname": "primergy bx300",
-  "pcpe": "cpe:/h:fujitsu:primergy_bx300"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "8873",
+	"pname": "primergy bx300",
+	"pcpe": "cpe:/h:fujitsu:primergy_bx300"
 }

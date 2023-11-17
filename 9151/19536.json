@@ -1,8 +1,8 @@
 {
-  "vid": "9151",
-  "vname": "Ubuntu Developers",
-  "vcpe": "cpe:/:ubuntu_developers",
-  "pid": "19536",
-  "pname": "obby",
-  "pcpe": "cpe:/a:ubuntu_developers:obby"
+	"vid": "9151",
+	"vname": "Ubuntu Developers",
+	"vcpe": "cpe:/:ubuntu_developers",
+	"pid": "19536",
+	"pname": "obby",
+	"pcpe": "cpe:/a:ubuntu_developers:obby"
 }

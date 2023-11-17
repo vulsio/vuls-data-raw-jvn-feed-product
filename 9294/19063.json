@@ -1,8 +1,8 @@
 {
-  "vid": "9294",
-  "vname": "HOT",
-  "vcpe": "cpe:/:hot",
-  "pid": "19063",
-  "pname": "Hotbox Router Firmware",
-  "pcpe": "cpe:/o:hot:hotbox_router_firmware"
+	"vid": "9294",
+	"vname": "HOT",
+	"vcpe": "cpe:/:hot",
+	"pid": "19063",
+	"pname": "Hotbox Router Firmware",
+	"pcpe": "cpe:/o:hot:hotbox_router_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "51466",
-  "pname": "Apache Jena Fuseki",
-  "pcpe": "cpe:/a:apache:jena_fuseki"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "51466",
+	"pname": "Apache Jena Fuseki",
+	"pcpe": "cpe:/a:apache:jena_fuseki"
 }

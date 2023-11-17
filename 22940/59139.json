@@ -1,8 +1,8 @@
 {
-  "vid": "22940",
-  "vname": "Bulk Creator project",
-  "vcpe": "cpe:/:bulk_creator_project",
-  "pid": "59139",
-  "pname": "Bulk Creator",
-  "pcpe": "cpe:/a:bulk_creator_project:bulk_creator"
+	"vid": "22940",
+	"vname": "Bulk Creator project",
+	"vcpe": "cpe:/:bulk_creator_project",
+	"pid": "59139",
+	"pname": "Bulk Creator",
+	"pcpe": "cpe:/a:bulk_creator_project:bulk_creator"
 }

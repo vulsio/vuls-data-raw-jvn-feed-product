@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "37055",
-  "pname": "Cisco Immunet for Endpoints",
-  "pcpe": "cpe:/a:cisco:immunet_for_endpoints"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "37055",
+	"pname": "Cisco Immunet for Endpoints",
+	"pcpe": "cpe:/a:cisco:immunet_for_endpoints"
 }

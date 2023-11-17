@@ -1,8 +1,8 @@
 {
-  "vid": "13970",
-  "vname": "OpenResty Inc.",
-  "vcpe": "cpe:/:openresty",
-  "pid": "33275",
-  "pname": "OpenResty",
-  "pcpe": "cpe:/a:openresty:openresty"
+	"vid": "13970",
+	"vname": "OpenResty Inc.",
+	"vcpe": "cpe:/:openresty",
+	"pid": "33275",
+	"pname": "OpenResty",
+	"pcpe": "cpe:/a:openresty:openresty"
 }

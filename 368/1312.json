@@ -1,8 +1,8 @@
 {
-  "vid": "368",
-  "vname": "GE Fanuc",
-  "vcpe": "cpe:/:ge_fanuc",
-  "pid": "1312",
-  "pname": "GE Fanuc CIMPLICITY",
-  "pcpe": "cpe:/a:ge_fanuc:cimplicity"
+	"vid": "368",
+	"vname": "GE Fanuc",
+	"vcpe": "cpe:/:ge_fanuc",
+	"pid": "1312",
+	"pname": "GE Fanuc CIMPLICITY",
+	"pcpe": "cpe:/a:ge_fanuc:cimplicity"
 }

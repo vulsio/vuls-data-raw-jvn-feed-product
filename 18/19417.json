@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19417",
-  "pname": "IBM System x iDataPlex Direct Water Cooled dx360 M4 サーバ",
-  "pcpe": "cpe:/h:ibm:system_x_idataplex_direct_water_cooled_dx360_m4_server"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19417",
+	"pname": "IBM System x iDataPlex Direct Water Cooled dx360 M4 サーバ",
+	"pcpe": "cpe:/h:ibm:system_x_idataplex_direct_water_cooled_dx360_m4_server"
 }

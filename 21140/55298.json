@@ -1,8 +1,8 @@
 {
-  "vid": "21140",
-  "vname": "PublishPress",
-  "vcpe": "cpe:/:publishpress",
-  "pid": "55298",
-  "pname": "PublishPress Capabilities",
-  "pcpe": "cpe:/a:publishpress:capabilities"
+	"vid": "21140",
+	"vname": "PublishPress",
+	"vcpe": "cpe:/:publishpress",
+	"pid": "55298",
+	"pname": "PublishPress Capabilities",
+	"pcpe": "cpe:/a:publishpress:capabilities"
 }

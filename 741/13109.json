@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "13109",
-  "pname": "DSL-2640B ファームウェア",
-  "pcpe": "cpe:/o:dlink:dsl-2640b_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "13109",
+	"pname": "DSL-2640B ファームウェア",
+	"pcpe": "cpe:/o:dlink:dsl-2640b_firmware"
 }

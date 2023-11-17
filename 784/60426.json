@@ -1,8 +1,8 @@
 {
-  "vid": "784",
-  "vname": "Technicolor",
-  "vcpe": "cpe:/:technicolor",
-  "pid": "60426",
-  "pname": "thomson tcw710 ファームウェア",
-  "pcpe": "cpe:/o:technicolor:thomson_tcw710_firmware"
+	"vid": "784",
+	"vname": "Technicolor",
+	"vcpe": "cpe:/:technicolor",
+	"pid": "60426",
+	"pname": "thomson tcw710 ファームウェア",
+	"pcpe": "cpe:/o:technicolor:thomson_tcw710_firmware"
 }

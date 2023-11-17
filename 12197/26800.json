@@ -1,8 +1,8 @@
 {
-  "vid": "12197",
-  "vname": "Sirona",
-  "vcpe": "cpe:/:dentsply_sirona",
-  "pid": "26800",
-  "pname": "CDR DICOM",
-  "pcpe": "cpe:/a:dentsply_sirona:cdr_dicom"
+	"vid": "12197",
+	"vname": "Sirona",
+	"vcpe": "cpe:/:dentsply_sirona",
+	"pid": "26800",
+	"pname": "CDR DICOM",
+	"pcpe": "cpe:/a:dentsply_sirona:cdr_dicom"
 }

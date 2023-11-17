@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "16919",
-  "pname": "Android SDK Tools",
-  "pcpe": "cpe:/a:google:android_sdk_tools"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "16919",
+	"pname": "Android SDK Tools",
+	"pcpe": "cpe:/a:google:android_sdk_tools"
 }

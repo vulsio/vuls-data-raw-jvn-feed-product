@@ -1,8 +1,8 @@
 {
-  "vid": "13076",
-  "vname": "ManageEngine",
-  "vcpe": "cpe:/:manageengine",
-  "pid": "30448",
-  "pname": "SupportCenter",
-  "pcpe": "cpe:/a:manageengine:supportcenter"
+	"vid": "13076",
+	"vname": "ManageEngine",
+	"vcpe": "cpe:/:manageengine",
+	"pid": "30448",
+	"pname": "SupportCenter",
+	"pcpe": "cpe:/a:manageengine:supportcenter"
 }

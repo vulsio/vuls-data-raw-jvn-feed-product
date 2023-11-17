@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47443",
-  "pname": "SDA855 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sda855_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47443",
+	"pname": "SDA855 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sda855_firmware"
 }

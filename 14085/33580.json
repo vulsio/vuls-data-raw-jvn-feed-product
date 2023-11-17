@@ -1,8 +1,8 @@
 {
-  "vid": "14085",
-  "vname": "wunderfarm",
-  "vcpe": "cpe:/:wunderfarm",
-  "pid": "33580",
-  "pname": "WF Cookie Consent",
-  "pcpe": "cpe:/a:wunderfarm:wf_cookie_consent"
+	"vid": "14085",
+	"vname": "wunderfarm",
+	"vcpe": "cpe:/:wunderfarm",
+	"pid": "33580",
+	"pname": "WF Cookie Consent",
+	"pcpe": "cpe:/a:wunderfarm:wf_cookie_consent"
 }

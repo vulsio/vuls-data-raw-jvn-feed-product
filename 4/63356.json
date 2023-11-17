@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63356",
-  "pname": "HP DeskJet Ink Advantage 5075 All-in-One Printer M2U86B ファームウェア",
-  "pcpe": "cpe:/o:hp:m2u86b_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63356",
+	"pname": "HP DeskJet Ink Advantage 5075 All-in-One Printer M2U86B ファームウェア",
+	"pcpe": "cpe:/o:hp:m2u86b_firmware"
 }

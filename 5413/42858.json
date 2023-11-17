@@ -1,8 +1,8 @@
 {
-  "vid": "5413",
-  "vname": "Maarch",
-  "vcpe": "cpe:/:maarch",
-  "pid": "42858",
-  "pname": "Maarch RM",
-  "pcpe": "cpe:/a:maarch:maarch_rm"
+	"vid": "5413",
+	"vname": "Maarch",
+	"vcpe": "cpe:/:maarch",
+	"pid": "42858",
+	"pname": "Maarch RM",
+	"pcpe": "cpe:/a:maarch:maarch_rm"
 }

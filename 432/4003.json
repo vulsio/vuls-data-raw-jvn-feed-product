@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "4003",
-  "pname": "IRC5 OPC Server",
-  "pcpe": "cpe:/a:abb:irc5_opc_server"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "4003",
+	"pname": "IRC5 OPC Server",
+	"pcpe": "cpe:/a:abb:irc5_opc_server"
 }

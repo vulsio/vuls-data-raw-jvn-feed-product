@@ -1,8 +1,8 @@
 {
-  "vid": "22471",
-  "vname": "saleor",
-  "vcpe": "cpe:/:saleor",
-  "pid": "57812",
-  "pname": "saleor",
-  "pcpe": "cpe:/a:saleor:saleor"
+	"vid": "22471",
+	"vname": "saleor",
+	"vcpe": "cpe:/:saleor",
+	"pid": "57812",
+	"pname": "saleor",
+	"pcpe": "cpe:/a:saleor:saleor"
 }

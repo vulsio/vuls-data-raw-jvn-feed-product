@@ -1,8 +1,8 @@
 {
-  "vid": "8590",
-  "vname": "x-iweb.ru",
-  "vcpe": "cpe:/:x-iweb.ru",
-  "pid": "16273",
-  "pname": "download system msf",
-  "pcpe": "cpe:/a:x-iweb.ru:download_system_msf"
+	"vid": "8590",
+	"vname": "x-iweb.ru",
+	"vcpe": "cpe:/:x-iweb.ru",
+	"pid": "16273",
+	"pname": "download system msf",
+	"pcpe": "cpe:/a:x-iweb.ru:download_system_msf"
 }

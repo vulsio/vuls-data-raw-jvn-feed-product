@@ -1,8 +1,8 @@
 {
-  "vid": "12278",
-  "vname": "JFrog Ltd.",
-  "vcpe": "cpe:/:jfrog",
-  "pid": "27486",
-  "pname": "Artifactory",
-  "pcpe": "cpe:/a:jfrog:artifactory"
+	"vid": "12278",
+	"vname": "JFrog Ltd.",
+	"vcpe": "cpe:/:jfrog",
+	"pid": "27486",
+	"pname": "Artifactory",
+	"pcpe": "cpe:/a:jfrog:artifactory"
 }

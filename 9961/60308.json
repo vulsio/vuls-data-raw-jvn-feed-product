@@ -1,8 +1,8 @@
 {
-  "vid": "9961",
-  "vname": "リバーベッドテクノロジー株式会社",
-  "vcpe": "cpe:/:riverbed",
-  "pid": "60308",
-  "pname": "appresponse",
-  "pcpe": "cpe:/a:riverbed:appresponse"
+	"vid": "9961",
+	"vname": "リバーベッドテクノロジー株式会社",
+	"vcpe": "cpe:/:riverbed",
+	"pid": "60308",
+	"pname": "appresponse",
+	"pcpe": "cpe:/a:riverbed:appresponse"
 }

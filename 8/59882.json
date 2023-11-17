@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "59882",
-  "pname": "maven shared utils",
-  "pcpe": "cpe:/a:apache:maven_shared_utils"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "59882",
+	"pname": "maven shared utils",
+	"pcpe": "cpe:/a:apache:maven_shared_utils"
 }

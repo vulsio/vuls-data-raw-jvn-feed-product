@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "33668",
-  "pname": "C SDK",
-  "pcpe": "cpe:/a:microsoft:c_software_development_kit"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "33668",
+	"pname": "C SDK",
+	"pcpe": "cpe:/a:microsoft:c_software_development_kit"
 }

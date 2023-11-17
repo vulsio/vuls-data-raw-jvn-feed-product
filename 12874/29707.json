@@ -1,8 +1,8 @@
 {
-  "vid": "12874",
-  "vname": "Jens Lorenz",
-  "vcpe": "cpe:/:mh-nexus",
-  "pid": "29707",
-  "pname": "Hex Editor",
-  "pcpe": "cpe:/a:mh-nexus:hex_editor"
+	"vid": "12874",
+	"vname": "Jens Lorenz",
+	"vcpe": "cpe:/:mh-nexus",
+	"pid": "29707",
+	"pname": "Hex Editor",
+	"pcpe": "cpe:/a:mh-nexus:hex_editor"
 }

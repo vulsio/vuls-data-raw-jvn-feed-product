@@ -1,8 +1,8 @@
 {
-  "vid": "13203",
-  "vname": "Frappe",
-  "vcpe": "cpe:/:frappe",
-  "pid": "33744",
-  "pname": "ERPNext",
-  "pcpe": "cpe:/a:frappe:erpnext"
+	"vid": "13203",
+	"vname": "Frappe",
+	"vcpe": "cpe:/:frappe",
+	"pid": "33744",
+	"pname": "ERPNext",
+	"pcpe": "cpe:/a:frappe:erpnext"
 }

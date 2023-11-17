@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "28271",
-  "pname": "SICAM BC 1703",
-  "pcpe": "cpe:/h:siemens:sicam_bc_1703"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "28271",
+	"pname": "SICAM BC 1703",
+	"pcpe": "cpe:/h:siemens:sicam_bc_1703"
 }

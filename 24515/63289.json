@@ -1,8 +1,8 @@
 {
-  "vid": "24515",
-  "vname": "metaslider",
-  "vcpe": "cpe:/:metaslider",
-  "pid": "63289",
-  "pname": "slider, gallery, and carousel",
-  "pcpe": "cpe:/a:metaslider:slider%2C_gallery%2C_and_carousel"
+	"vid": "24515",
+	"vname": "metaslider",
+	"vcpe": "cpe:/:metaslider",
+	"pid": "63289",
+	"pname": "slider, gallery, and carousel",
+	"pcpe": "cpe:/a:metaslider:slider%2C_gallery%2C_and_carousel"
 }

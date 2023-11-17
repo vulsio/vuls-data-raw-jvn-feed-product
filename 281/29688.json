@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "29688",
-  "pname": "ubuntu-image",
-  "pcpe": "cpe:/a:canonical:ubuntu-image"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "29688",
+	"pname": "ubuntu-image",
+	"pcpe": "cpe:/a:canonical:ubuntu-image"
 }

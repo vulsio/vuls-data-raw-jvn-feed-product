@@ -1,8 +1,8 @@
 {
-  "vid": "15199",
-  "vname": "libwav project",
-  "vcpe": "cpe:/:libwav_project",
-  "pid": "35181",
-  "pname": "libwav",
-  "pcpe": "cpe:/a:libwav_project:libwav"
+	"vid": "15199",
+	"vname": "libwav project",
+	"vcpe": "cpe:/:libwav_project",
+	"pid": "35181",
+	"pname": "libwav",
+	"pcpe": "cpe:/a:libwav_project:libwav"
 }

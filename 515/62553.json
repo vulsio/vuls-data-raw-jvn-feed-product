@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "62553",
-  "pname": "Workspace ONE Access Connector",
-  "pcpe": "cpe:/a:vmware:access_connector"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "62553",
+	"pname": "Workspace ONE Access Connector",
+	"pcpe": "cpe:/a:vmware:access_connector"
 }

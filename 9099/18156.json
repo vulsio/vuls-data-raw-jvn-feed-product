@@ -1,8 +1,8 @@
 {
-  "vid": "9099",
-  "vname": "LULU Software",
-  "vcpe": "cpe:/:lulusoftware",
-  "pid": "18156",
-  "pname": "Soda PDF",
-  "pcpe": "cpe:/a:lulusoftware:soda_pdf"
+	"vid": "9099",
+	"vname": "LULU Software",
+	"vcpe": "cpe:/:lulusoftware",
+	"pid": "18156",
+	"pname": "Soda PDF",
+	"pcpe": "cpe:/a:lulusoftware:soda_pdf"
 }

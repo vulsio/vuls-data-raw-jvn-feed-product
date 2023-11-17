@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18036",
-  "pname": "HP 5500-24G EI Switch",
-  "pcpe": "cpe:/h:hp:5500-24g_ei_switch"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18036",
+	"pname": "HP 5500-24G EI Switch",
+	"pcpe": "cpe:/h:hp:5500-24g_ei_switch"
 }

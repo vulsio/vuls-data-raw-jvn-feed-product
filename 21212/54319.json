@@ -1,8 +1,8 @@
 {
-  "vid": "21212",
-  "vname": "My Tickets project",
-  "vcpe": "cpe:/:my_tickets_project",
-  "pid": "54319",
-  "pname": "My Tickets",
-  "pcpe": "cpe:/a:my_tickets_project:my_tickets"
+	"vid": "21212",
+	"vname": "My Tickets project",
+	"vcpe": "cpe:/:my_tickets_project",
+	"pid": "54319",
+	"pname": "My Tickets",
+	"pcpe": "cpe:/a:my_tickets_project:my_tickets"
 }

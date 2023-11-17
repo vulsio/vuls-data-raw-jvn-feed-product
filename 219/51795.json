@@ -1,8 +1,8 @@
 {
-  "vid": "219",
-  "vname": "FreeBSD",
-  "vcpe": "cpe:/:freebsd",
-  "pid": "51795",
-  "pname": "libfetch",
-  "pcpe": "cpe:/a:freebsd:libfetch"
+	"vid": "219",
+	"vname": "FreeBSD",
+	"vcpe": "cpe:/:freebsd",
+	"pid": "51795",
+	"pname": "libfetch",
+	"pcpe": "cpe:/a:freebsd:libfetch"
 }

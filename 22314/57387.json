@@ -1,8 +1,8 @@
 {
-  "vid": "22314",
-  "vname": "Spiffy Plugins",
-  "vcpe": "cpe:/:spiffyplugins",
-  "pid": "57387",
-  "pname": "Spiffy Calendar",
-  "pcpe": "cpe:/a:spiffyplugins:spiffy_calendar"
+	"vid": "22314",
+	"vname": "Spiffy Plugins",
+	"vcpe": "cpe:/:spiffyplugins",
+	"pid": "57387",
+	"pname": "Spiffy Calendar",
+	"pcpe": "cpe:/a:spiffyplugins:spiffy_calendar"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "49845",
-  "pname": "build of Quarkus",
-  "pcpe": "cpe:/a:redhat:build_of_quarkus"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "49845",
+	"pname": "build of Quarkus",
+	"pcpe": "cpe:/a:redhat:build_of_quarkus"
 }

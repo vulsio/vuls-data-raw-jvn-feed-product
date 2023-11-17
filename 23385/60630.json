@@ -1,8 +1,8 @@
 {
-  "vid": "23385",
-  "vname": "Change Uploaded File Permissions project",
-  "vcpe": "cpe:/:change_uploaded_file_permissions_project",
-  "pid": "60630",
-  "pname": "Change Uploaded File Permissions",
-  "pcpe": "cpe:/a:change_uploaded_file_permissions_project:change_uploaded_file_permissions"
+	"vid": "23385",
+	"vname": "Change Uploaded File Permissions project",
+	"vcpe": "cpe:/:change_uploaded_file_permissions_project",
+	"pid": "60630",
+	"pname": "Change Uploaded File Permissions",
+	"pcpe": "cpe:/a:change_uploaded_file_permissions_project:change_uploaded_file_permissions"
 }

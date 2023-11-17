@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "49918",
-  "pname": "DSL-320B-D1",
-  "pcpe": "cpe:/o:dlink:dsl-320b-d1"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "49918",
+	"pname": "DSL-320B-D1",
+	"pcpe": "cpe:/o:dlink:dsl-320b-d1"
 }

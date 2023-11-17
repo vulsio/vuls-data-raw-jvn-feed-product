@@ -1,8 +1,8 @@
 {
-  "vid": "16404",
-  "vname": "Hybrid Group",
-  "vcpe": "cpe:/:hybridgroup",
-  "pid": "38840",
-  "pname": "Gobot",
-  "pcpe": "cpe:/a:hybridgroup:gobot"
+	"vid": "16404",
+	"vname": "Hybrid Group",
+	"vcpe": "cpe:/:hybridgroup",
+	"pid": "38840",
+	"pname": "Gobot",
+	"pcpe": "cpe:/a:hybridgroup:gobot"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16945",
-  "vname": "TenWeb, Inc.",
-  "vcpe": "cpe:/:10web",
-  "pid": "57530",
-  "pname": "Map Builder for Google Maps",
-  "pcpe": "cpe:/a:10web:map_builder_for_google_maps"
+	"vid": "16945",
+	"vname": "TenWeb, Inc.",
+	"vcpe": "cpe:/:10web",
+	"pid": "57530",
+	"pname": "Map Builder for Google Maps",
+	"pcpe": "cpe:/a:10web:map_builder_for_google_maps"
 }

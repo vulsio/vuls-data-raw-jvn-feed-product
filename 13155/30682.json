@@ -1,8 +1,8 @@
 {
-  "vid": "13155",
-  "vname": "ZKTECO CO., LTD.",
-  "vcpe": "cpe:/:zkteco",
-  "pid": "30682",
-  "pname": "ZKTime Web",
-  "pcpe": "cpe:/a:zkteco:zktime_web"
+	"vid": "13155",
+	"vname": "ZKTECO CO., LTD.",
+	"vcpe": "cpe:/:zkteco",
+	"pid": "30682",
+	"pname": "ZKTime Web",
+	"pcpe": "cpe:/a:zkteco:zktime_web"
 }

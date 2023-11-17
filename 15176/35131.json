@@ -1,8 +1,8 @@
 {
-  "vid": "15176",
-  "vname": "ADB",
-  "vcpe": "cpe:/:adbglobal",
-  "pid": "35131",
-  "pname": "VV 2220 ファームウェア",
-  "pcpe": "cpe:/o:adbglobal:vv2220_firmware"
+	"vid": "15176",
+	"vname": "ADB",
+	"vcpe": "cpe:/:adbglobal",
+	"pid": "35131",
+	"pname": "VV 2220 ファームウェア",
+	"pcpe": "cpe:/o:adbglobal:vv2220_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "36162",
-  "pname": "IBM Multi-Cloud Data Encryption",
-  "pcpe": "cpe:/a:ibm:multi-cloud_data_encryption"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "36162",
+	"pname": "IBM Multi-Cloud Data Encryption",
+	"pcpe": "cpe:/a:ibm:multi-cloud_data_encryption"
 }

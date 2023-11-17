@@ -1,8 +1,8 @@
 {
-  "vid": "18184",
-  "vname": "Kong",
-  "vcpe": "cpe:/:konghq",
-  "pid": "44336",
-  "pname": "docker-kong",
-  "pcpe": "cpe:/a:konghq:docker-kong"
+	"vid": "18184",
+	"vname": "Kong",
+	"vcpe": "cpe:/:konghq",
+	"pid": "44336",
+	"pname": "docker-kong",
+	"pcpe": "cpe:/a:konghq:docker-kong"
 }

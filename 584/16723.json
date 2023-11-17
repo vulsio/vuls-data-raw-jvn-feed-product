@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "16723",
-  "pname": "RuggedCom Rugged Operating System",
-  "pcpe": "cpe:/o:siemens:ruggedcom_rugged_operating_system"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "16723",
+	"pname": "RuggedCom Rugged Operating System",
+	"pcpe": "cpe:/o:siemens:ruggedcom_rugged_operating_system"
 }

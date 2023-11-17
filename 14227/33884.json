@@ -1,8 +1,8 @@
 {
-  "vid": "14227",
-  "vname": "install-nw project",
-  "vcpe": "cpe:/:install-nw_project",
-  "pid": "33884",
-  "pname": "install-nw",
-  "pcpe": "cpe:/a:install-nw_project:install-nw"
+	"vid": "14227",
+	"vname": "install-nw project",
+	"vcpe": "cpe:/:install-nw_project",
+	"pid": "33884",
+	"pname": "install-nw",
+	"pcpe": "cpe:/a:install-nw_project:install-nw"
 }

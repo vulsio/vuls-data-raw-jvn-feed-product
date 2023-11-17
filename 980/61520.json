@@ -1,8 +1,8 @@
 {
-  "vid": "980",
-  "vname": "Parallels",
-  "vcpe": "cpe:/:parallels",
-  "pid": "61520",
-  "pname": "parallels access",
-  "pcpe": "cpe:/a:parallels:parallels_access"
+	"vid": "980",
+	"vname": "Parallels",
+	"vcpe": "cpe:/:parallels",
+	"pid": "61520",
+	"pname": "parallels access",
+	"pcpe": "cpe:/a:parallels:parallels_access"
 }

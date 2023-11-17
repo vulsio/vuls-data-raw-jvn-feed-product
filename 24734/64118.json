@@ -1,8 +1,8 @@
 {
-  "vid": "24734",
-  "vname": "haascnc",
-  "vcpe": "cpe:/:haascnc",
-  "pid": "64118",
-  "pname": "haas controller",
-  "pcpe": "cpe:/a:haascnc:haas_controller"
+	"vid": "24734",
+	"vname": "haascnc",
+	"vcpe": "cpe:/:haascnc",
+	"pid": "64118",
+	"pname": "haas controller",
+	"pcpe": "cpe:/a:haascnc:haas_controller"
 }

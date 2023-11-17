@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "2095",
-  "pname": "HP Virtual Rooms",
-  "pcpe": "cpe:/a:hp:virtual_rooms"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "2095",
+	"pname": "HP Virtual Rooms",
+	"pcpe": "cpe:/a:hp:virtual_rooms"
 }

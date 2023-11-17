@@ -1,8 +1,8 @@
 {
-  "vid": "17564",
-  "vname": "ROS",
-  "vcpe": "cpe:/:ros",
-  "pid": "42140",
-  "pname": "SROS2",
-  "pcpe": "cpe:/a:ros:sros2"
+	"vid": "17564",
+	"vname": "ROS",
+	"vcpe": "cpe:/:ros",
+	"pid": "42140",
+	"pname": "SROS2",
+	"pcpe": "cpe:/a:ros:sros2"
 }

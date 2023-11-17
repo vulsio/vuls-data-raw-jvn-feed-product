@@ -1,8 +1,8 @@
 {
-  "vid": "2321",
-  "vname": "ascadnetworks",
-  "vcpe": "cpe:/:ascadnetworks",
-  "pid": "5950",
-  "pname": "password protector sd",
-  "pcpe": "cpe:/a:ascadnetworks:password_protector_sd"
+	"vid": "2321",
+	"vname": "ascadnetworks",
+	"vcpe": "cpe:/:ascadnetworks",
+	"pid": "5950",
+	"pname": "password protector sd",
+	"pcpe": "cpe:/a:ascadnetworks:password_protector_sd"
 }

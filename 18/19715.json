@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19715",
-  "pname": "IBM QuickFile",
-  "pcpe": "cpe:/a:ibm:quickfile"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19715",
+	"pname": "IBM QuickFile",
+	"pcpe": "cpe:/a:ibm:quickfile"
 }

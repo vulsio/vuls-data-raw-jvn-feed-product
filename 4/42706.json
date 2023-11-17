@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "42706",
-  "pname": "DeskJet Ink Advantage 2600 Y5Z00A ファームウェア",
-  "pcpe": "cpe:/o:hp:deskjet_ink_advantage_2600_y5z00a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "42706",
+	"pname": "DeskJet Ink Advantage 2600 Y5Z00A ファームウェア",
+	"pcpe": "cpe:/o:hp:deskjet_ink_advantage_2600_y5z00a_firmware"
 }

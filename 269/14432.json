@@ -1,8 +1,8 @@
 {
-  "vid": "269",
-  "vname": "RSAセキュリティ",
-  "vcpe": "cpe:/:rsa",
-  "pid": "14432",
-  "pname": "keon certificate authority manager",
-  "pcpe": "cpe:/a:rsa:keon_certificate_authority_manager"
+	"vid": "269",
+	"vname": "RSAセキュリティ",
+	"vcpe": "cpe:/:rsa",
+	"pid": "14432",
+	"pname": "keon certificate authority manager",
+	"pcpe": "cpe:/a:rsa:keon_certificate_authority_manager"
 }

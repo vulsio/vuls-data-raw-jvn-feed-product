@@ -1,8 +1,8 @@
 {
-  "vid": "5271",
-  "vname": "LDAP Account Manager",
-  "vcpe": "cpe:/:ldap-account-manager",
-  "pid": "10933",
-  "pname": "LDAP Account Manager",
-  "pcpe": "cpe:/a:ldap-account-manager:ldap_account_manager"
+	"vid": "5271",
+	"vname": "LDAP Account Manager",
+	"vcpe": "cpe:/:ldap-account-manager",
+	"pid": "10933",
+	"pname": "LDAP Account Manager",
+	"pcpe": "cpe:/a:ldap-account-manager:ldap_account_manager"
 }

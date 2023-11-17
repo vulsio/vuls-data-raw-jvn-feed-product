@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "3696",
-  "pname": "IBM SPSS Data Collection",
-  "pcpe": "cpe:/a:ibm:spss_data_collection"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "3696",
+	"pname": "IBM SPSS Data Collection",
+	"pcpe": "cpe:/a:ibm:spss_data_collection"
 }

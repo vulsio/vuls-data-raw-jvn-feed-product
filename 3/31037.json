@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "31037",
-  "pname": "Red Hat Single Sign-On",
-  "pcpe": "cpe:/a:redhat:single_sign_on"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "31037",
+	"pname": "Red Hat Single Sign-On",
+	"pcpe": "cpe:/a:redhat:single_sign_on"
 }

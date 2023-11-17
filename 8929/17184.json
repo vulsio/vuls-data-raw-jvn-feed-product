@@ -1,8 +1,8 @@
 {
-  "vid": "8929",
-  "vname": "Intergraph Corporation",
-  "vcpe": "cpe:/:hexagon",
-  "pid": "17184",
-  "pname": "ERDAS APOLLO ECWP Browser",
-  "pcpe": "cpe:/a:hexagon:erdas_apollo_ecwp"
+	"vid": "8929",
+	"vname": "Intergraph Corporation",
+	"vcpe": "cpe:/:hexagon",
+	"pid": "17184",
+	"pname": "ERDAS APOLLO ECWP Browser",
+	"pcpe": "cpe:/a:hexagon:erdas_apollo_ecwp"
 }

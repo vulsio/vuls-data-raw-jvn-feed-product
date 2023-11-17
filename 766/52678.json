@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "52678",
-  "pname": "Modicon Premium TSXP57 5634M",
-  "pcpe": "cpe:/o:schneider_electric:modicon_premium_tsxp57_5634m"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "52678",
+	"pname": "Modicon Premium TSXP57 5634M",
+	"pcpe": "cpe:/o:schneider_electric:modicon_premium_tsxp57_5634m"
 }

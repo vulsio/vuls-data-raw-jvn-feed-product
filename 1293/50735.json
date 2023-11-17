@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "50735",
-  "pname": "Sophos Home",
-  "pcpe": "cpe:/a:sophos:home"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "50735",
+	"pname": "Sophos Home",
+	"pcpe": "cpe:/a:sophos:home"
 }

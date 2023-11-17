@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23116",
-  "pname": "Cisco Jabber Guest",
-  "pcpe": "cpe:/a:cisco:jabber_guest"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23116",
+	"pname": "Cisco Jabber Guest",
+	"pcpe": "cpe:/a:cisco:jabber_guest"
 }

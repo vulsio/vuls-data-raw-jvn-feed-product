@@ -1,8 +1,8 @@
 {
-  "vid": "12036",
-  "vname": "ReadyNet Solutions",
-  "vcpe": "cpe:/:readynet_solutions",
-  "pid": "25260",
-  "pname": "WRT300N-DD",
-  "pcpe": "cpe:/h:readynet_solutions:wrt300n-dd"
+	"vid": "12036",
+	"vname": "ReadyNet Solutions",
+	"vcpe": "cpe:/:readynet_solutions",
+	"pid": "25260",
+	"pname": "WRT300N-DD",
+	"pcpe": "cpe:/h:readynet_solutions:wrt300n-dd"
 }

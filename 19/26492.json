@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "26492",
-  "pname": "Cisco AMP Threat Grid アプライアンス ソフトウェア",
-  "pcpe": "cpe:/a:cisco:amp_threat_grid_appliance"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "26492",
+	"pname": "Cisco AMP Threat Grid アプライアンス ソフトウェア",
+	"pcpe": "cpe:/a:cisco:amp_threat_grid_appliance"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "36623",
-  "pname": "TS5600D1206 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:ts5600d1206_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "36623",
+	"pname": "TS5600D1206 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:ts5600d1206_firmware"
 }

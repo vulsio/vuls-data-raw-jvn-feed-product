@@ -1,8 +1,8 @@
 {
-  "vid": "20834",
-  "vname": "DM FingerTool project",
-  "vcpe": "cpe:/:dm_fingertool_project",
-  "pid": "53172",
-  "pname": "DM FingerTool",
-  "pcpe": "cpe:/a:dm_fingertool_project:dm_fingertool"
+	"vid": "20834",
+	"vname": "DM FingerTool project",
+	"vcpe": "cpe:/:dm_fingertool_project",
+	"pid": "53172",
+	"pname": "DM FingerTool",
+	"pcpe": "cpe:/a:dm_fingertool_project:dm_fingertool"
 }

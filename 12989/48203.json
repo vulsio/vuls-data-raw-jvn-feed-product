@@ -1,8 +1,8 @@
 {
-  "vid": "12989",
-  "vname": "HashiCorp",
-  "vcpe": "cpe:/:hashicorp",
-  "pid": "48203",
-  "pname": "go-slug",
-  "pcpe": "cpe:/a:hashicorp:go-slug"
+	"vid": "12989",
+	"vname": "HashiCorp",
+	"vcpe": "cpe:/:hashicorp",
+	"pid": "48203",
+	"pname": "go-slug",
+	"pcpe": "cpe:/a:hashicorp:go-slug"
 }

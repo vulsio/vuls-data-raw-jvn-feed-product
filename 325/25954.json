@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "25954",
-  "pname": "LenovoEMC px4-400d",
-  "pcpe": "cpe:/h:lenovo:emc_px4-400d"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "25954",
+	"pname": "LenovoEMC px4-400d",
+	"pcpe": "cpe:/h:lenovo:emc_px4-400d"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "17613",
-  "pname": "WP Maintenance Mode プラグイン",
-  "pcpe": "cpe:/a:wordpress:wp_maintenance_mode_plugin"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "17613",
+	"pname": "WP Maintenance Mode プラグイン",
+	"pcpe": "cpe:/a:wordpress:wp_maintenance_mode_plugin"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17972",
-  "vname": "GwtUpload project",
-  "vcpe": "cpe:/:gwtupload_project",
-  "pid": "43504",
-  "pname": "GwtUpload",
-  "pcpe": "cpe:/a:gwtupload_project:gwtupload"
+	"vid": "17972",
+	"vname": "GwtUpload project",
+	"vcpe": "cpe:/:gwtupload_project",
+	"pid": "43504",
+	"pname": "GwtUpload",
+	"pcpe": "cpe:/a:gwtupload_project:gwtupload"
 }

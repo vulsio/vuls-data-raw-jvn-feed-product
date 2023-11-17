@@ -1,8 +1,8 @@
 {
-  "vid": "20397",
-  "vname": "RCDCap project",
-  "vcpe": "cpe:/:rcdcap_project",
-  "pid": "52012",
-  "pname": "RCDCap",
-  "pcpe": "cpe:/a:rcdcap_project:rcdcap"
+	"vid": "20397",
+	"vname": "RCDCap project",
+	"vcpe": "cpe:/:rcdcap_project",
+	"pid": "52012",
+	"pname": "RCDCap",
+	"pcpe": "cpe:/a:rcdcap_project:rcdcap"
 }

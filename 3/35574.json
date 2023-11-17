@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "35574",
-  "pname": "Red Hat Package Manager",
-  "pcpe": "cpe:/a:redhat:package_manager"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "35574",
+	"pname": "Red Hat Package Manager",
+	"pcpe": "cpe:/a:redhat:package_manager"
 }

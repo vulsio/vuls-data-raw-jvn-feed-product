@@ -1,8 +1,8 @@
 {
-  "vid": "9837",
-  "vname": "WP RESTful project",
-  "vcpe": "cpe:/:wp_restful_project",
-  "pid": "20485",
-  "pname": "WP RESTful",
-  "pcpe": "cpe:/a:wp_restful_project:wp_restful"
+	"vid": "9837",
+	"vname": "WP RESTful project",
+	"vcpe": "cpe:/:wp_restful_project",
+	"pid": "20485",
+	"pname": "WP RESTful",
+	"pcpe": "cpe:/a:wp_restful_project:wp_restful"
 }

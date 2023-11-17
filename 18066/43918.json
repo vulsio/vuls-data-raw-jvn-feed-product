@@ -1,8 +1,8 @@
 {
-  "vid": "18066",
-  "vname": "Walmart Labs",
-  "vcpe": "cpe:/:walmart",
-  "pid": "43918",
-  "pname": "Concord",
-  "pcpe": "cpe:/a:walmart:concord"
+	"vid": "18066",
+	"vname": "Walmart Labs",
+	"vcpe": "cpe:/:walmart",
+	"pid": "43918",
+	"pname": "Concord",
+	"pcpe": "cpe:/a:walmart:concord"
 }

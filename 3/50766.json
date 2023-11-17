@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "50766",
-  "pname": "Red Hat 3scale",
-  "pcpe": "cpe:/a:redhat:3scale"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "50766",
+	"pname": "Red Hat 3scale",
+	"pcpe": "cpe:/a:redhat:3scale"
 }

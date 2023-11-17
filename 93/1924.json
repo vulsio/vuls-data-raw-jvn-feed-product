@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1924",
-  "pname": "Printer, email and PDF versions",
-  "pcpe": "cpe:/a:drupal:print"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1924",
+	"pname": "Printer, email and PDF versions",
+	"pcpe": "cpe:/a:drupal:print"
 }

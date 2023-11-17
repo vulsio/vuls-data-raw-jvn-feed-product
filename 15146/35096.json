@@ -1,8 +1,8 @@
 {
-  "vid": "15146",
-  "vname": "Dialogic",
-  "vcpe": "cpe:/:dialogic",
-  "pid": "35096",
-  "pname": "PowerMedia XMS",
-  "pcpe": "cpe:/a:dialogic:powermedia_xms"
+	"vid": "15146",
+	"vname": "Dialogic",
+	"vcpe": "cpe:/:dialogic",
+	"pid": "35096",
+	"pname": "PowerMedia XMS",
+	"pcpe": "cpe:/a:dialogic:powermedia_xms"
 }

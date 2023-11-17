@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "61814",
-  "pname": "compuware source code download for endevor, pds, and ispw",
-  "pcpe": "cpe:/a:jenkins:compuware_source_code_download_for_endevor%2C_pds%2C_and_ispw"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "61814",
+	"pname": "compuware source code download for endevor, pds, and ispw",
+	"pcpe": "cpe:/a:jenkins:compuware_source_code_download_for_endevor%2C_pds%2C_and_ispw"
 }

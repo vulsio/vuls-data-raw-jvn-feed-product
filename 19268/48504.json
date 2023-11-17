@@ -1,8 +1,8 @@
 {
-  "vid": "19268",
-  "vname": "adtensor project",
-  "vcpe": "cpe:/:adtensor_project",
-  "pid": "48504",
-  "pname": "adtensor",
-  "pcpe": "cpe:/a:adtensor_project:adtensor"
+	"vid": "19268",
+	"vname": "adtensor project",
+	"vcpe": "cpe:/:adtensor_project",
+	"pid": "48504",
+	"pname": "adtensor",
+	"pcpe": "cpe:/a:adtensor_project:adtensor"
 }

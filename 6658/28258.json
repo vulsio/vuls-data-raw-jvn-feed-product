@@ -1,8 +1,8 @@
 {
-  "vid": "6658",
-  "vname": "MikroTik",
-  "vcpe": "cpe:/:mikrotik",
-  "pid": "28258",
-  "pname": "hAP Lite",
-  "pcpe": "cpe:/h:mikrotik:router_hap_lite"
+	"vid": "6658",
+	"vname": "MikroTik",
+	"vcpe": "cpe:/:mikrotik",
+	"pid": "28258",
+	"pname": "hAP Lite",
+	"pcpe": "cpe:/h:mikrotik:router_hap_lite"
 }

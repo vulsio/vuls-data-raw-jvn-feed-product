@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "59307",
-  "pname": "xeon d-1713nte ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_d-1713nte_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "59307",
+	"pname": "xeon d-1713nte ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_d-1713nte_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "35156",
-  "pname": "Teamcenter",
-  "pcpe": "cpe:/a:siemens:teamcenter_product_lifecycle_management"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "35156",
+	"pname": "Teamcenter",
+	"pcpe": "cpe:/a:siemens:teamcenter_product_lifecycle_management"
 }

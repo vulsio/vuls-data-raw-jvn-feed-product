@@ -1,8 +1,8 @@
 {
-  "vid": "6084",
-  "vname": "olate",
-  "vcpe": "cpe:/:olate",
-  "pid": "12215",
-  "pname": "olatedownload",
-  "pcpe": "cpe:/a:olate:olatedownload"
+	"vid": "6084",
+	"vname": "olate",
+	"vcpe": "cpe:/:olate",
+	"pid": "12215",
+	"pname": "olatedownload",
+	"pcpe": "cpe:/a:olate:olatedownload"
 }

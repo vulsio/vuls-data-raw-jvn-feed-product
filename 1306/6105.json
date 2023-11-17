@@ -1,8 +1,8 @@
 {
-  "vid": "1306",
-  "vname": "AVG Technologies",
-  "vcpe": "cpe:/:avg",
-  "pid": "6105",
-  "pname": "ewido security suite",
-  "pcpe": "cpe:/a:avg:ewido_security_suite"
+	"vid": "1306",
+	"vname": "AVG Technologies",
+	"vcpe": "cpe:/:avg",
+	"pid": "6105",
+	"pname": "ewido security suite",
+	"pcpe": "cpe:/a:avg:ewido_security_suite"
 }

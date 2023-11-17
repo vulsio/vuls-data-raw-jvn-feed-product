@@ -1,8 +1,8 @@
 {
-  "vid": "15589",
-  "vname": "mosca project",
-  "vcpe": "cpe:/:mosca_project",
-  "pid": "36283",
-  "pname": "mosca",
-  "pcpe": "cpe:/a:mosca_project:mosca"
+	"vid": "15589",
+	"vname": "mosca project",
+	"vcpe": "cpe:/:mosca_project",
+	"pid": "36283",
+	"pname": "mosca",
+	"pcpe": "cpe:/a:mosca_project:mosca"
 }

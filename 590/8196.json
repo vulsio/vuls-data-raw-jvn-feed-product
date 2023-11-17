@@ -1,8 +1,8 @@
 {
-  "vid": "590",
-  "vname": "freedesktop.org",
-  "vcpe": "cpe:/:freedesktop",
-  "pid": "8196",
-  "pname": "udisks",
-  "pcpe": "cpe:/a:freedesktop:udisks"
+	"vid": "590",
+	"vname": "freedesktop.org",
+	"vcpe": "cpe:/:freedesktop",
+	"pid": "8196",
+	"pname": "udisks",
+	"pcpe": "cpe:/a:freedesktop:udisks"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "7255",
-  "vname": "Realtek Semiconductor Corp",
-  "vcpe": "cpe:/:realtek",
-  "pid": "46833",
-  "pname": "RTL8812AR ファームウェア",
-  "pcpe": "cpe:/o:realtek:rtl8812ar_firmware"
+	"vid": "7255",
+	"vname": "Realtek Semiconductor Corp",
+	"vcpe": "cpe:/:realtek",
+	"pid": "46833",
+	"pname": "RTL8812AR ファームウェア",
+	"pcpe": "cpe:/o:realtek:rtl8812ar_firmware"
 }

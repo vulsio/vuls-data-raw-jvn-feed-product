@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "30564",
-  "pname": "HitmanPro",
-  "pcpe": "cpe:/a:sophos:hitmanpro"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "30564",
+	"pname": "HitmanPro",
+	"pcpe": "cpe:/a:sophos:hitmanpro"
 }

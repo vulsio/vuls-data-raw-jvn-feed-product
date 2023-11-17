@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "1609",
-  "pname": "SwitchBlade 7800R シリーズ",
-  "pcpe": "cpe:/h:allied_telesis_k.k.:switchblade_7800r"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "1609",
+	"pname": "SwitchBlade 7800R シリーズ",
+	"pcpe": "cpe:/h:allied_telesis_k.k.:switchblade_7800r"
 }

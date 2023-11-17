@@ -1,8 +1,8 @@
 {
-  "vid": "23807",
-  "vname": "Afterpay",
-  "vcpe": "cpe:/:afterpay",
-  "pid": "61578",
-  "pname": "Afterpay Gateway for WooCommerce",
-  "pcpe": "cpe:/a:afterpay:afterpay_gateway_for_woocommerce"
+	"vid": "23807",
+	"vname": "Afterpay",
+	"vcpe": "cpe:/:afterpay",
+	"pid": "61578",
+	"pname": "Afterpay Gateway for WooCommerce",
+	"pcpe": "cpe:/a:afterpay:afterpay_gateway_for_woocommerce"
 }

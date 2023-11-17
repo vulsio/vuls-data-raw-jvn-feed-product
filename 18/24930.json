@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "24930",
-  "pname": "IBM Endpoint Manager for Software Use Analysis",
-  "pcpe": "cpe:/a:ibm:endpoint_manager_for_software_use_analysis"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "24930",
+	"pname": "IBM Endpoint Manager for Software Use Analysis",
+	"pcpe": "cpe:/a:ibm:endpoint_manager_for_software_use_analysis"
 }

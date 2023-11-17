@@ -1,8 +1,8 @@
 {
-  "vid": "13123",
-  "vname": "GameConnect",
-  "vcpe": "cpe:/:gameconnect",
-  "pid": "30569",
-  "pname": "SourceBans",
-  "pcpe": "cpe:/a:gameconnect:sourcebans"
+	"vid": "13123",
+	"vname": "GameConnect",
+	"vcpe": "cpe:/:gameconnect",
+	"pid": "30569",
+	"pname": "SourceBans",
+	"pcpe": "cpe:/a:gameconnect:sourcebans"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "831",
-  "vname": "VideoWhisper.com",
-  "vcpe": "cpe:/:videowhisper",
-  "pid": "42479",
-  "pname": "Video Comments Webcam Recorder",
-  "pcpe": "cpe:/a:videowhisper:video_comments_webcam_recorder"
+	"vid": "831",
+	"vname": "VideoWhisper.com",
+	"vcpe": "cpe:/:videowhisper",
+	"pid": "42479",
+	"pname": "Video Comments Webcam Recorder",
+	"pcpe": "cpe:/a:videowhisper:video_comments_webcam_recorder"
 }

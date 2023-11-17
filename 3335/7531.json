@@ -1,8 +1,8 @@
 {
-  "vid": "3335",
-  "vname": "dsocks",
-  "vcpe": "cpe:/:dsocks",
-  "pid": "7531",
-  "pname": "dsocks",
-  "pcpe": "cpe:/a:dsocks:dsocks"
+	"vid": "3335",
+	"vname": "dsocks",
+	"vcpe": "cpe:/:dsocks",
+	"pid": "7531",
+	"pname": "dsocks",
+	"pcpe": "cpe:/a:dsocks:dsocks"
 }

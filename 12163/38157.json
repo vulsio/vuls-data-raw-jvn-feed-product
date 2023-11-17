@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "38157",
-  "pname": "OpenShift Deployer",
-  "pcpe": "cpe:/a:jenkins:openshift_deployer"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "38157",
+	"pname": "OpenShift Deployer",
+	"pcpe": "cpe:/a:jenkins:openshift_deployer"
 }

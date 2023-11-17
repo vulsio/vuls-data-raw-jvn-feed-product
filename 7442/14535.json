@@ -1,8 +1,8 @@
 {
-  "vid": "7442",
-  "vname": "sb-websoft",
-  "vcpe": "cpe:/:sb-websoft",
-  "pid": "14535",
-  "pname": "addressbook",
-  "pcpe": "cpe:/a:sb-websoft:addressbook"
+	"vid": "7442",
+	"vname": "sb-websoft",
+	"vcpe": "cpe:/:sb-websoft",
+	"pid": "14535",
+	"pname": "addressbook",
+	"pcpe": "cpe:/a:sb-websoft:addressbook"
 }

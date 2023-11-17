@@ -1,8 +1,8 @@
 {
-  "vid": "9529",
-  "vname": "SFR",
-  "vcpe": "cpe:/:sfr",
-  "pid": "19662",
-  "pname": "SFR Box",
-  "pcpe": "cpe:/h:sfr:sfr_box_router"
+	"vid": "9529",
+	"vname": "SFR",
+	"vcpe": "cpe:/:sfr",
+	"pid": "19662",
+	"pname": "SFR Box",
+	"pcpe": "cpe:/h:sfr:sfr_box_router"
 }

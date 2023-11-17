@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "24776",
-  "pname": "RealPresence CloudAXIS Suite",
-  "pcpe": "cpe:/a:polycom:realpresence_cloudaxis_suite"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "24776",
+	"pname": "RealPresence CloudAXIS Suite",
+	"pcpe": "cpe:/a:polycom:realpresence_cloudaxis_suite"
 }

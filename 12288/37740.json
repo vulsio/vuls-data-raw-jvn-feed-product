@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "37740",
-  "pname": "Stratos",
-  "pcpe": "cpe:/a:cloud_foundry:stratos"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "37740",
+	"pname": "Stratos",
+	"pcpe": "cpe:/a:cloud_foundry:stratos"
 }

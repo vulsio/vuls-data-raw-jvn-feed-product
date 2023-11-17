@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20708",
-  "pname": "IBM InfoSphere Data Replication",
-  "pcpe": "cpe:/a:ibm:infosphere_data_replication"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20708",
+	"pname": "IBM InfoSphere Data Replication",
+	"pcpe": "cpe:/a:ibm:infosphere_data_replication"
 }

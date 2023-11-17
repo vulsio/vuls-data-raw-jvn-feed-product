@@ -1,8 +1,8 @@
 {
-  "vid": "19696",
-  "vname": "fastify-reply-from project",
-  "vcpe": "cpe:/:fastify-reply-from_project",
-  "pid": "49659",
-  "pname": "fastify-reply-from",
-  "pcpe": "cpe:/a:fastify-reply-from_project:fastify-reply-from"
+	"vid": "19696",
+	"vname": "fastify-reply-from project",
+	"vcpe": "cpe:/:fastify-reply-from_project",
+	"pid": "49659",
+	"pname": "fastify-reply-from",
+	"pcpe": "cpe:/a:fastify-reply-from_project:fastify-reply-from"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1156",
-  "vname": "D-Mack Media",
-  "vcpe": "cpe:/:dmackmedia",
-  "pid": "3825",
-  "pname": "Currency Converter",
-  "pcpe": "cpe:/a:dmackmedia:mod_currencyconverter"
+	"vid": "1156",
+	"vname": "D-Mack Media",
+	"vcpe": "cpe:/:dmackmedia",
+	"pid": "3825",
+	"pname": "Currency Converter",
+	"pcpe": "cpe:/a:dmackmedia:mod_currencyconverter"
 }

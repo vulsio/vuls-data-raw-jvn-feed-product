@@ -1,8 +1,8 @@
 {
-  "vid": "22604",
-  "vname": "minecraft",
-  "vcpe": "cpe:/:minecraft",
-  "pid": "58168",
-  "pname": "bedrock server",
-  "pcpe": "cpe:/a:minecraft:bedrock_server"
+	"vid": "22604",
+	"vname": "minecraft",
+	"vcpe": "cpe:/:minecraft",
+	"pid": "58168",
+	"pname": "bedrock server",
+	"pcpe": "cpe:/a:minecraft:bedrock_server"
 }

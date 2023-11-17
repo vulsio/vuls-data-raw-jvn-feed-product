@@ -1,8 +1,8 @@
 {
-  "vid": "6361",
-  "vname": "photodex",
-  "vcpe": "cpe:/:photodex",
-  "pid": "39024",
-  "pname": "ProShow Producer",
-  "pcpe": "cpe:/a:photodex:proshow_producer"
+	"vid": "6361",
+	"vname": "photodex",
+	"vcpe": "cpe:/:photodex",
+	"pid": "39024",
+	"pname": "ProShow Producer",
+	"pcpe": "cpe:/a:photodex:proshow_producer"
 }

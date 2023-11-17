@@ -1,8 +1,8 @@
 {
-  "vid": "648",
-  "vname": "Proofpoint, Inc.",
-  "vcpe": "cpe:/:proofpoint",
-  "pid": "53524",
-  "pname": "Spam Engine",
-  "pcpe": "cpe:/a:proofpoint:spam_engine"
+	"vid": "648",
+	"vname": "Proofpoint, Inc.",
+	"vcpe": "cpe:/:proofpoint",
+	"pid": "53524",
+	"pname": "Spam Engine",
+	"pcpe": "cpe:/a:proofpoint:spam_engine"
 }

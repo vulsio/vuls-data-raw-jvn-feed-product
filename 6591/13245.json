@@ -1,8 +1,8 @@
 {
-  "vid": "6591",
-  "vname": "PayPal",
-  "vcpe": "cpe:/:paypal",
-  "pid": "13245",
-  "pname": "Instant Payment Notification",
-  "pcpe": "cpe:/a:paypal:ipn"
+	"vid": "6591",
+	"vname": "PayPal",
+	"vcpe": "cpe:/:paypal",
+	"pid": "13245",
+	"pname": "Instant Payment Notification",
+	"pcpe": "cpe:/a:paypal:ipn"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8458",
-  "vname": "webhost automation",
-  "vcpe": "cpe:/:webhost_automation",
-  "pid": "16074",
-  "pname": "helm web hosting control panel",
-  "pcpe": "cpe:/a:webhost_automation:helm_web_hosting_control_panel"
+	"vid": "8458",
+	"vname": "webhost automation",
+	"vcpe": "cpe:/:webhost_automation",
+	"pid": "16074",
+	"pname": "helm web hosting control panel",
+	"pcpe": "cpe:/a:webhost_automation:helm_web_hosting_control_panel"
 }

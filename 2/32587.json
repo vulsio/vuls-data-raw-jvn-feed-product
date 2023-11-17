@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "32587",
-  "pname": "Microsoft Identity Manager",
-  "pcpe": "cpe:/a:microsoft:identity_manager"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "32587",
+	"pname": "Microsoft Identity Manager",
+	"pcpe": "cpe:/a:microsoft:identity_manager"
 }

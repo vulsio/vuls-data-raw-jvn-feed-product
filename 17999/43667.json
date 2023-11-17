@@ -1,8 +1,8 @@
 {
-  "vid": "17999",
-  "vname": "Talend",
-  "vcpe": "cpe:/:talend",
-  "pid": "43667",
-  "pname": "Restlet",
-  "pcpe": "cpe:/a:talend:restlet"
+	"vid": "17999",
+	"vname": "Talend",
+	"vcpe": "cpe:/:talend",
+	"pid": "43667",
+	"pname": "Restlet",
+	"pcpe": "cpe:/a:talend:restlet"
 }

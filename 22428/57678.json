@@ -1,8 +1,8 @@
 {
-  "vid": "22428",
-  "vname": "WPvivid",
-  "vcpe": "cpe:/:wpvivid",
-  "pid": "57678",
-  "pname": "Migration, Backup, Staging",
-  "pcpe": "cpe:/a:wpvivid:migration%2c_backup%2c_staging"
+	"vid": "22428",
+	"vname": "WPvivid",
+	"vcpe": "cpe:/:wpvivid",
+	"pid": "57678",
+	"pname": "Migration, Backup, Staging",
+	"pcpe": "cpe:/a:wpvivid:migration%2c_backup%2c_staging"
 }

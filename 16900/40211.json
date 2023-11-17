@@ -1,8 +1,8 @@
 {
-  "vid": "16900",
-  "vname": "eProsima",
-  "vcpe": "cpe:/:eprosima",
-  "pid": "40211",
-  "pname": "Fast-RTPS",
-  "pcpe": "cpe:/a:eprosima:fast-rtps"
+	"vid": "16900",
+	"vname": "eProsima",
+	"vcpe": "cpe:/:eprosima",
+	"pid": "40211",
+	"pname": "Fast-RTPS",
+	"pcpe": "cpe:/a:eprosima:fast-rtps"
 }

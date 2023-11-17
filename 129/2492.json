@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2492",
-  "pname": "JP1/NETM/DM SubManager",
-  "pcpe": "cpe:/a:hitachi:jp1_netm_dm_submanager"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2492",
+	"pname": "JP1/NETM/DM SubManager",
+	"pcpe": "cpe:/a:hitachi:jp1_netm_dm_submanager"
 }

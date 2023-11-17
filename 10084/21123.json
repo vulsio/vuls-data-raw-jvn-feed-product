@@ -1,8 +1,8 @@
 {
-  "vid": "10084",
-  "vname": "Bump Technologies, Inc.",
-  "vcpe": "cpe:/:bump_project",
-  "pid": "21123",
-  "pname": "Android 版 Bump",
-  "pcpe": "cpe:/a:bump_project:bump"
+	"vid": "10084",
+	"vname": "Bump Technologies, Inc.",
+	"vcpe": "cpe:/:bump_project",
+	"pid": "21123",
+	"pname": "Android 版 Bump",
+	"pcpe": "cpe:/a:bump_project:bump"
 }

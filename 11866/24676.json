@@ -1,8 +1,8 @@
 {
-  "vid": "11866",
-  "vname": "Mobile Devices",
-  "vcpe": "cpe:/:mobile_devices",
-  "pid": "24676",
-  "pname": "C4 OBD2 Dongle ファームウェア",
-  "pcpe": "cpe:/o:mobile_devices:c4_obd-ii_dongle_firmware"
+	"vid": "11866",
+	"vname": "Mobile Devices",
+	"vcpe": "cpe:/:mobile_devices",
+	"pid": "24676",
+	"pname": "C4 OBD2 Dongle ファームウェア",
+	"pcpe": "cpe:/o:mobile_devices:c4_obd-ii_dongle_firmware"
 }

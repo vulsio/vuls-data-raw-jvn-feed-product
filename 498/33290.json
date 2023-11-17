@@ -1,8 +1,8 @@
 {
-  "vid": "498",
-  "vname": "Horde",
-  "vcpe": "cpe:/:horde",
-  "pid": "33290",
-  "pname": "Horde_Ldap",
-  "pcpe": "cpe:/a:horde:horde_ldap"
+	"vid": "498",
+	"vname": "Horde",
+	"vcpe": "cpe:/:horde",
+	"pid": "33290",
+	"pname": "Horde_Ldap",
+	"pcpe": "cpe:/a:horde:horde_ldap"
 }

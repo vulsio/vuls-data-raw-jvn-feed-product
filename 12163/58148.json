@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "58148",
-  "pname": "jiratestresultreporter",
-  "pcpe": "cpe:/a:jenkins:jiratestresultreporter"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "58148",
+	"pname": "jiratestresultreporter",
+	"pcpe": "cpe:/a:jenkins:jiratestresultreporter"
 }

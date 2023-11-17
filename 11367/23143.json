@@ -1,8 +1,8 @@
 {
-  "vid": "11367",
-  "vname": "Hillstone Software",
-  "vcpe": "cpe:/:hillstone_software",
-  "pid": "23143",
-  "pname": "HS TFTP Server",
-  "pcpe": "cpe:/a:hillstone_software:hs_tftp_server"
+	"vid": "11367",
+	"vname": "Hillstone Software",
+	"vcpe": "cpe:/:hillstone_software",
+	"pid": "23143",
+	"pname": "HS TFTP Server",
+	"pcpe": "cpe:/a:hillstone_software:hs_tftp_server"
 }

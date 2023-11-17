@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "16901",
-  "pname": "Proficy Process Systems",
-  "pcpe": "cpe:/h:ge:intelligent_platforms_proficy_process_systems"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "16901",
+	"pname": "Proficy Process Systems",
+	"pcpe": "cpe:/h:ge:intelligent_platforms_proficy_process_systems"
 }

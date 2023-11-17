@@ -1,8 +1,8 @@
 {
-  "vid": "618",
-  "vname": "アドバンテック株式会社",
-  "vcpe": "cpe:/:advantech",
-  "pid": "25020",
-  "pname": "EKI-1321 シリーズファームウェア",
-  "pcpe": "cpe:/o:advantech:eki-1321_series_firmware"
+	"vid": "618",
+	"vname": "アドバンテック株式会社",
+	"vcpe": "cpe:/:advantech",
+	"pid": "25020",
+	"pname": "EKI-1321 シリーズファームウェア",
+	"pcpe": "cpe:/o:advantech:eki-1321_series_firmware"
 }

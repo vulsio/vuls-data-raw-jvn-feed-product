@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "38888",
-  "pname": "Insight",
-  "pcpe": "cpe:/o:netgear:insight"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "38888",
+	"pname": "Insight",
+	"pcpe": "cpe:/o:netgear:insight"
 }

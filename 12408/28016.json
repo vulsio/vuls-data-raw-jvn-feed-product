@@ -1,8 +1,8 @@
 {
-  "vid": "12408",
-  "vname": "Smartlink Network Systems Ltd.",
-  "vcpe": "cpe:/:digisol",
-  "pid": "28016",
-  "pname": "DIGISOL DG-HR1400 ファームウェア",
-  "pcpe": "cpe:/o:digisol:dg-hr1400_firmware"
+	"vid": "12408",
+	"vname": "Smartlink Network Systems Ltd.",
+	"vcpe": "cpe:/:digisol",
+	"pid": "28016",
+	"pname": "DIGISOL DG-HR1400 ファームウェア",
+	"pcpe": "cpe:/o:digisol:dg-hr1400_firmware"
 }

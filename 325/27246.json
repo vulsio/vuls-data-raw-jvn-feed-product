@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27246",
-  "pname": "110-15IBR BIOS",
-  "pcpe": "cpe:/o:lenovo:notebook_110_15ibr_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27246",
+	"pname": "110-15IBR BIOS",
+	"pcpe": "cpe:/o:lenovo:notebook_110_15ibr_bios"
 }

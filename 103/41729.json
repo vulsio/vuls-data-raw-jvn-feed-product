@@ -1,8 +1,8 @@
 {
-  "vid": "103",
-  "vname": "NVIDIA",
-  "vcpe": "cpe:/:nvidia",
-  "pid": "41729",
-  "pname": "NVFlash",
-  "pcpe": "cpe:/a:nvidia:nvflash"
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "41729",
+	"pname": "NVFlash",
+	"pcpe": "cpe:/a:nvidia:nvflash"
 }

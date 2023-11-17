@@ -1,8 +1,8 @@
 {
-  "vid": "513",
-  "vname": "UltraVNC",
-  "vcpe": "cpe:/:ultravnc",
-  "pid": "26755",
-  "pname": "UltraVNC repeater",
-  "pcpe": "cpe:/a:ultravnc:repeater"
+	"vid": "513",
+	"vname": "UltraVNC",
+	"vcpe": "cpe:/:ultravnc",
+	"pid": "26755",
+	"pname": "UltraVNC repeater",
+	"pcpe": "cpe:/a:ultravnc:repeater"
 }

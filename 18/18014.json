@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "18014",
-  "pname": "IBM System x3530 M4",
-  "pcpe": "cpe:/h:ibm:system_x3530_m4"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "18014",
+	"pname": "IBM System x3530 M4",
+	"pcpe": "cpe:/h:ibm:system_x3530_m4"
 }

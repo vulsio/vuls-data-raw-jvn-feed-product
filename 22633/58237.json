@@ -1,8 +1,8 @@
 {
-  "vid": "22633",
-  "vname": "Wordpress Affiliate Feed",
-  "vcpe": "cpe:/:wpaffiliatefeed",
-  "pid": "58237",
-  "pname": "Tradetracker-Store",
-  "pcpe": "cpe:/a:wpaffiliatefeed:tradetracker-store"
+	"vid": "22633",
+	"vname": "Wordpress Affiliate Feed",
+	"vcpe": "cpe:/:wpaffiliatefeed",
+	"pid": "58237",
+	"pname": "Tradetracker-Store",
+	"pcpe": "cpe:/a:wpaffiliatefeed:tradetracker-store"
 }

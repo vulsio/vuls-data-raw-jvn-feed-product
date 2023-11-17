@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "40314",
-  "pname": "System x iDataPlex dx360 M3 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:system_x_idataplex_dx360_m3_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "40314",
+	"pname": "System x iDataPlex dx360 M3 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:system_x_idataplex_dx360_m3_firmware"
 }

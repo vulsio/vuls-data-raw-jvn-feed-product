@@ -1,8 +1,8 @@
 {
-  "vid": "21106",
-  "vname": "zyantific",
-  "vcpe": "cpe:/:zyantific",
-  "pid": "53990",
-  "pname": "Zydis",
-  "pcpe": "cpe:/a:zyantific:zydis"
+	"vid": "21106",
+	"vname": "zyantific",
+	"vcpe": "cpe:/:zyantific",
+	"pid": "53990",
+	"pname": "Zydis",
+	"pcpe": "cpe:/a:zyantific:zydis"
 }

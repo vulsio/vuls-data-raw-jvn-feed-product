@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "53496",
-  "pname": "Session and Resource Control(SRC)",
-  "pcpe": "cpe:/a:juniper:session_and_resource_control"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "53496",
+	"pname": "Session and Resource Control(SRC)",
+	"pcpe": "cpe:/a:juniper:session_and_resource_control"
 }

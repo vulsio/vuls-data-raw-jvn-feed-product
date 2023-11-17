@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3090",
-  "pname": "HP Directories Support for ProLiant Management Processors",
-  "pcpe": "cpe:/a:hp:directories_support_for_proliant_management_processors"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3090",
+	"pname": "HP Directories Support for ProLiant Management Processors",
+	"pcpe": "cpe:/a:hp:directories_support_for_proliant_management_processors"
 }

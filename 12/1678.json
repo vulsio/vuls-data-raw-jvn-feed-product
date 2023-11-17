@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "1678",
-  "pname": "TrendMicro InterScan Messaging Security Appliance",
-  "pcpe": "cpe:/a:trendmicro:interscan_messaging_security_appliance"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "1678",
+	"pname": "TrendMicro InterScan Messaging Security Appliance",
+	"pcpe": "cpe:/a:trendmicro:interscan_messaging_security_appliance"
 }

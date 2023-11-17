@@ -1,8 +1,8 @@
 {
-  "vid": "9867",
-  "vname": "Yii Framework",
-  "vcpe": "cpe:/:yiiframework",
-  "pid": "20542",
-  "pname": "Yii Framework",
-  "pcpe": "cpe:/a:yiiframework:yiiframework"
+	"vid": "9867",
+	"vname": "Yii Framework",
+	"vcpe": "cpe:/:yiiframework",
+	"pid": "20542",
+	"pname": "Yii Framework",
+	"pcpe": "cpe:/a:yiiframework:yiiframework"
 }

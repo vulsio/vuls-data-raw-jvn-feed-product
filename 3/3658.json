@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "3658",
-  "pname": "Red Hat JBoss Operations Network",
-  "pcpe": "cpe:/a:redhat:jboss_operations_network"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "3658",
+	"pname": "Red Hat JBoss Operations Network",
+	"pcpe": "cpe:/a:redhat:jboss_operations_network"
 }

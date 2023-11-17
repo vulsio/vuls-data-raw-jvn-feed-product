@@ -1,8 +1,8 @@
 {
-  "vid": "22368",
-  "vname": "WPScan",
-  "vcpe": "cpe:/:wpscan",
-  "pid": "57512",
-  "pname": "WP Cloudy",
-  "pcpe": "cpe:/a:wpscan:wp_cloudy"
+	"vid": "22368",
+	"vname": "WPScan",
+	"vcpe": "cpe:/:wpscan",
+	"pid": "57512",
+	"pname": "WP Cloudy",
+	"pcpe": "cpe:/a:wpscan:wp_cloudy"
 }

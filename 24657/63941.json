@@ -1,8 +1,8 @@
 {
-  "vid": "24657",
-  "vname": "wp-customerarea",
-  "vcpe": "cpe:/:wp-customerarea",
-  "pid": "63941",
-  "pname": "wp customer area",
-  "pcpe": "cpe:/a:wp-customerarea:wp_customer_area"
+	"vid": "24657",
+	"vname": "wp-customerarea",
+	"vcpe": "cpe:/:wp-customerarea",
+	"pid": "63941",
+	"pname": "wp customer area",
+	"pcpe": "cpe:/a:wp-customerarea:wp_customer_area"
 }

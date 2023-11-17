@@ -1,8 +1,8 @@
 {
-  "vid": "12259",
-  "vname": "Intellian Technologies, Inc.",
-  "vcpe": "cpe:/:intelliantech",
-  "pid": "27084",
-  "pname": "Satellite Communications v-Series",
-  "pcpe": "cpe:/o:intelliantech:satellite_communications_v-series"
+	"vid": "12259",
+	"vname": "Intellian Technologies, Inc.",
+	"vcpe": "cpe:/:intelliantech",
+	"pid": "27084",
+	"pname": "Satellite Communications v-Series",
+	"pcpe": "cpe:/o:intelliantech:satellite_communications_v-series"
 }

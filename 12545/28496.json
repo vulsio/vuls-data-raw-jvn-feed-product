@@ -1,8 +1,8 @@
 {
-  "vid": "12545",
-  "vname": "kankunit",
-  "vcpe": "cpe:/:kankunit",
-  "pid": "28496",
-  "pname": "Konke Smart Plug",
-  "pcpe": "cpe:/o:kankunit:konke_smart_plug_firmware"
+	"vid": "12545",
+	"vname": "kankunit",
+	"vcpe": "cpe:/:kankunit",
+	"pid": "28496",
+	"pname": "Konke Smart Plug",
+	"pcpe": "cpe:/o:kankunit:konke_smart_plug_firmware"
 }

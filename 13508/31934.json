@@ -1,8 +1,8 @@
 {
-  "vid": "13508",
-  "vname": "iChano Incorporation.",
-  "vcpe": "cpe:/:ichano",
-  "pid": "31934",
-  "pname": "AtHome IP Camera ファームウェア",
-  "pcpe": "cpe:/o:ichano:athome_ip_camera_firmware"
+	"vid": "13508",
+	"vname": "iChano Incorporation.",
+	"vcpe": "cpe:/:ichano",
+	"pid": "31934",
+	"pname": "AtHome IP Camera ファームウェア",
+	"pcpe": "cpe:/o:ichano:athome_ip_camera_firmware"
 }

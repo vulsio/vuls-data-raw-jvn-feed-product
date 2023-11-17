@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23654",
-  "pname": "HP B-series SAN Network Advisor",
-  "pcpe": "cpe:/a:hp:hp_b-series_san_network_advisor"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23654",
+	"pname": "HP B-series SAN Network Advisor",
+	"pcpe": "cpe:/a:hp:hp_b-series_san_network_advisor"
 }

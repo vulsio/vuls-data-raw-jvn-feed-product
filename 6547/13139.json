@@ -1,8 +1,8 @@
 {
-  "vid": "6547",
-  "vname": "openCryptoki Project",
-  "vcpe": "cpe:/:opencryptoki_project",
-  "pid": "13139",
-  "pname": "openCryptoki",
-  "pcpe": "cpe:/a:opencryptoki_project:opencryptoki"
+	"vid": "6547",
+	"vname": "openCryptoki Project",
+	"vcpe": "cpe:/:opencryptoki_project",
+	"pid": "13139",
+	"pname": "openCryptoki",
+	"pcpe": "cpe:/a:opencryptoki_project:opencryptoki"
 }

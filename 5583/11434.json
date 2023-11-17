@@ -1,8 +1,8 @@
 {
-  "vid": "5583",
-  "vname": "memcode",
-  "vcpe": "cpe:/:memcode",
-  "pid": "11434",
-  "pname": "i.scribe",
-  "pcpe": "cpe:/a:memcode:i.scribe"
+	"vid": "5583",
+	"vname": "memcode",
+	"vcpe": "cpe:/:memcode",
+	"pid": "11434",
+	"pname": "i.scribe",
+	"pcpe": "cpe:/a:memcode:i.scribe"
 }

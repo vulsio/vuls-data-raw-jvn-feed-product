@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "29431",
-  "pname": "IExpress",
-  "pcpe": "cpe:/a:microsoft:iexpress"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "29431",
+	"pname": "IExpress",
+	"pcpe": "cpe:/a:microsoft:iexpress"
 }

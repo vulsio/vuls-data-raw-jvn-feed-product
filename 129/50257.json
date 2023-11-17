@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "50257",
-  "pname": "Hitachi Storage Advisor",
-  "pcpe": "cpe:/a:hitachi:hitachi_storage_advisor"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "50257",
+	"pname": "Hitachi Storage Advisor",
+	"pcpe": "cpe:/a:hitachi:hitachi_storage_advisor"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "480",
-  "vname": "Nullsoft",
-  "vcpe": "cpe:/:nullsoft",
-  "pid": "1857",
-  "pname": "Winamp",
-  "pcpe": "cpe:/a:nullsoft:winamp"
+	"vid": "480",
+	"vname": "Nullsoft",
+	"vcpe": "cpe:/:nullsoft",
+	"pid": "1857",
+	"pname": "Winamp",
+	"pcpe": "cpe:/a:nullsoft:winamp"
 }

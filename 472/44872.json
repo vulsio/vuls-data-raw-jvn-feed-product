@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "44872",
-  "pname": "FactoryTalk Linx",
-  "pcpe": "cpe:/a:rockwellautomation:factorytalk_linx"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "44872",
+	"pname": "FactoryTalk Linx",
+	"pcpe": "cpe:/a:rockwellautomation:factorytalk_linx"
 }

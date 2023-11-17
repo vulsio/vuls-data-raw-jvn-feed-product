@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "42890",
-  "pname": "Synology Directory Server",
-  "pcpe": "cpe:/a:synology:directory_server"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "42890",
+	"pname": "Synology Directory Server",
+	"pcpe": "cpe:/a:synology:directory_server"
 }

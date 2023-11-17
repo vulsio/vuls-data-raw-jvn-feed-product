@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "50873",
-  "pname": "Solid Edge SE2021 ファームウェア",
-  "pcpe": "cpe:/o:siemens:solid_edge_se2021_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "50873",
+	"pname": "Solid Edge SE2021 ファームウェア",
+	"pcpe": "cpe:/o:siemens:solid_edge_se2021_firmware"
 }

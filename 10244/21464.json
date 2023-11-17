@@ -1,8 +1,8 @@
 {
-  "vid": "10244",
-  "vname": "WP Google Maps",
-  "vcpe": "cpe:/:wpgmaps",
-  "pid": "21464",
-  "pname": "WP Google Maps",
-  "pcpe": "cpe:/a:wpgmaps:wordpress_google_maps_plugin"
+	"vid": "10244",
+	"vname": "WP Google Maps",
+	"vcpe": "cpe:/:wpgmaps",
+	"pid": "21464",
+	"pname": "WP Google Maps",
+	"pcpe": "cpe:/a:wpgmaps:wordpress_google_maps_plugin"
 }

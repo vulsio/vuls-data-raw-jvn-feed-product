@@ -1,8 +1,8 @@
 {
-  "vid": "11782",
-  "vname": "Bonitasoft, Inc.",
-  "vcpe": "cpe:/:bonitasoft",
-  "pid": "24320",
-  "pname": "Bonita BPM",
-  "pcpe": "cpe:/a:bonitasoft:bonita_bpm_portal"
+	"vid": "11782",
+	"vname": "Bonitasoft, Inc.",
+	"vcpe": "cpe:/:bonitasoft",
+	"pid": "24320",
+	"pname": "Bonita BPM",
+	"pcpe": "cpe:/a:bonitasoft:bonita_bpm_portal"
 }

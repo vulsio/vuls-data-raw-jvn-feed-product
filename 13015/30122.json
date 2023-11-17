@@ -1,8 +1,8 @@
 {
-  "vid": "13015",
-  "vname": "Community Events project",
-  "vcpe": "cpe:/:community_events_project",
-  "pid": "30122",
-  "pname": "Community Events",
-  "pcpe": "cpe:/a:community_events_project:community_events"
+	"vid": "13015",
+	"vname": "Community Events project",
+	"vcpe": "cpe:/:community_events_project",
+	"pid": "30122",
+	"pname": "Community Events",
+	"pcpe": "cpe:/a:community_events_project:community_events"
 }

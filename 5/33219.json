@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33219",
-  "pname": "QCA9886 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qca9886_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33219",
+	"pname": "QCA9886 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qca9886_firmware"
 }

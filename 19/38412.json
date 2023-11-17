@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38412",
-  "pname": "Analog Voice Network Interface Modules ファームウェア",
-  "pcpe": "cpe:/o:cisco:analog_voice_network_interface_modules_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38412",
+	"pname": "Analog Voice Network Interface Modules ファームウェア",
+	"pcpe": "cpe:/o:cisco:analog_voice_network_interface_modules_firmware"
 }

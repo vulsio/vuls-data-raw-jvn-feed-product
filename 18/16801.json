@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "16801",
-  "pname": "IBM Rational Host On-Demand",
-  "pcpe": "cpe:/a:ibm:rational_host_on-demand"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "16801",
+	"pname": "IBM Rational Host On-Demand",
+	"pcpe": "cpe:/a:ibm:rational_host_on-demand"
 }

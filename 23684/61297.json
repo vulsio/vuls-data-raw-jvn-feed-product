@@ -1,8 +1,8 @@
 {
-  "vid": "23684",
-  "vname": "flask-file-server project",
-  "vcpe": "cpe:/:flask-file-server_project",
-  "pid": "61297",
-  "pname": "flask-file-server",
-  "pcpe": "cpe:/a:flask-file-server_project:flask-file-server"
+	"vid": "23684",
+	"vname": "flask-file-server project",
+	"vcpe": "cpe:/:flask-file-server_project",
+	"pid": "61297",
+	"pname": "flask-file-server",
+	"pcpe": "cpe:/a:flask-file-server_project:flask-file-server"
 }

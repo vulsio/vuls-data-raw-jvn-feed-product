@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "46973",
-  "pname": "Global Configuration Management",
-  "pcpe": "cpe:/a:ibm:global_configuration_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "46973",
+	"pname": "Global Configuration Management",
+	"pcpe": "cpe:/a:ibm:global_configuration_management"
 }

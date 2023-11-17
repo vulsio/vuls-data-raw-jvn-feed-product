@@ -1,8 +1,8 @@
 {
-  "vid": "7745",
-  "vname": "sonicspot",
-  "vcpe": "cpe:/:sonicspot",
-  "pid": "14970",
-  "pname": "audioactive player",
-  "pcpe": "cpe:/a:sonicspot:audioactive_player"
+	"vid": "7745",
+	"vname": "sonicspot",
+	"vcpe": "cpe:/:sonicspot",
+	"pid": "14970",
+	"pname": "audioactive player",
+	"pcpe": "cpe:/a:sonicspot:audioactive_player"
 }

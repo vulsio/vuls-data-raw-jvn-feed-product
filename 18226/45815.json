@@ -1,8 +1,8 @@
 {
-  "vid": "18226",
-  "vname": "B&R Industrial Automation",
-  "vcpe": "cpe:/:br-automation",
-  "pid": "45815",
-  "pname": "SiteManager",
-  "pcpe": "cpe:/a:br-automation:SiteManager"
+	"vid": "18226",
+	"vname": "B&R Industrial Automation",
+	"vcpe": "cpe:/:br-automation",
+	"pid": "45815",
+	"pname": "SiteManager",
+	"pcpe": "cpe:/a:br-automation:SiteManager"
 }

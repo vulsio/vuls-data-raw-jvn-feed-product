@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "53977",
-  "pname": "Azure StorSimple 8010 ファームウェア",
-  "pcpe": "cpe:/o:microsoft:storsimple_8010_firmware"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "53977",
+	"pname": "Azure StorSimple 8010 ファームウェア",
+	"pcpe": "cpe:/o:microsoft:storsimple_8010_firmware"
 }

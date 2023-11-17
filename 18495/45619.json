@@ -1,8 +1,8 @@
 {
-  "vid": "18495",
-  "vname": "TC Custom JavaScript project",
-  "vcpe": "cpe:/:tc_custom_javascript_project",
-  "pid": "45619",
-  "pname": "TC Custom JavaScript",
-  "pcpe": "cpe:/a:tc_custom_javascript_project:tc_custom_javascript"
+	"vid": "18495",
+	"vname": "TC Custom JavaScript project",
+	"vcpe": "cpe:/:tc_custom_javascript_project",
+	"pid": "45619",
+	"pname": "TC Custom JavaScript",
+	"pcpe": "cpe:/a:tc_custom_javascript_project:tc_custom_javascript"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "56129",
-  "pname": "Aruba EdgeConnect Enterprise Orchestrator",
-  "pcpe": "cpe:/a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "56129",
+	"pname": "Aruba EdgeConnect Enterprise Orchestrator",
+	"pcpe": "cpe:/a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator"
 }

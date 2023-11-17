@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "37635",
-  "pname": "thiankpad p52sファームウェア",
-  "pcpe": "cpe:/o:lenovo:thiankpad_p52s_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "37635",
+	"pname": "thiankpad p52sファームウェア",
+	"pcpe": "cpe:/o:lenovo:thiankpad_p52s_firmware"
 }

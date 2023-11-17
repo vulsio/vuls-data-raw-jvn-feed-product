@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "8985",
-  "pname": "Proficy Batch Execution",
-  "pcpe": "cpe:/a:ge:intelligent_platforms_proficy_batch_execution"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "8985",
+	"pname": "Proficy Batch Execution",
+	"pcpe": "cpe:/a:ge:intelligent_platforms_proficy_batch_execution"
 }

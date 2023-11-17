@@ -1,8 +1,8 @@
 {
-  "vid": "21351",
-  "vname": "WP System Log project",
-  "vcpe": "cpe:/:wp_system_log_project",
-  "pid": "54794",
-  "pname": "WP System Log",
-  "pcpe": "cpe:/a:wp_system_log_project:wp_system_log"
+	"vid": "21351",
+	"vname": "WP System Log project",
+	"vcpe": "cpe:/:wp_system_log_project",
+	"pid": "54794",
+	"pname": "WP System Log",
+	"pcpe": "cpe:/a:wp_system_log_project:wp_system_log"
 }

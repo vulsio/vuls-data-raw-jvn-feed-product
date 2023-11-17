@@ -1,8 +1,8 @@
 {
-  "vid": "14626",
-  "vname": "open-device project",
-  "vcpe": "cpe:/:open-device_project",
-  "pid": "34336",
-  "pname": "open-device",
-  "pcpe": "cpe:/a:open-device_project:open-device"
+	"vid": "14626",
+	"vname": "open-device project",
+	"vcpe": "cpe:/:open-device_project",
+	"pid": "34336",
+	"pname": "open-device",
+	"pcpe": "cpe:/a:open-device_project:open-device"
 }

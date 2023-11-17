@@ -1,8 +1,8 @@
 {
-  "vid": "12269",
-  "vname": "Teradata Corporation",
-  "vcpe": "cpe:/:teradata",
-  "pid": "27156",
-  "pname": "Teradata Studio Express",
-  "pcpe": "cpe:/a:teradata:studio_express"
+	"vid": "12269",
+	"vname": "Teradata Corporation",
+	"vcpe": "cpe:/:teradata",
+	"pid": "27156",
+	"pname": "Teradata Studio Express",
+	"pcpe": "cpe:/a:teradata:studio_express"
 }

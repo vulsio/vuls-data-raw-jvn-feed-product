@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "43509",
-  "pname": "DIR-615JX10 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dir-615jx10_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "43509",
+	"pname": "DIR-615JX10 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dir-615jx10_firmware"
 }

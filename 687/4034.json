@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "4034",
-  "pname": "TIBCO ActiveMatrix Service Bus",
-  "pcpe": "cpe:/a:tibco:activematrix_service_bus"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "4034",
+	"pname": "TIBCO ActiveMatrix Service Bus",
+	"pcpe": "cpe:/a:tibco:activematrix_service_bus"
 }

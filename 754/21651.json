@@ -1,8 +1,8 @@
 {
-  "vid": "754",
-  "vname": "Puppet",
-  "vcpe": "cpe:/:puppetlabs",
-  "pid": "21651",
-  "pname": "Hiera",
-  "pcpe": "cpe:/a:puppetlabs:hiera"
+	"vid": "754",
+	"vname": "Puppet",
+	"vcpe": "cpe:/:puppetlabs",
+	"pid": "21651",
+	"pname": "Hiera",
+	"pcpe": "cpe:/a:puppetlabs:hiera"
 }

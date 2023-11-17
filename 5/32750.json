@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "32750",
-  "pname": "S820Am ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:s820am_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "32750",
+	"pname": "S820Am ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:s820am_firmware"
 }

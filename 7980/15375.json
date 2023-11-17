@@ -1,8 +1,8 @@
 {
-  "vid": "7980",
-  "vname": "The Sleuth Kit",
-  "vcpe": "cpe:/:sleuthkit",
-  "pid": "15375",
-  "pname": "The Sleuth Kit",
-  "pcpe": "cpe:/a:sleuthkit:the_sleuth_kit"
+	"vid": "7980",
+	"vname": "The Sleuth Kit",
+	"vcpe": "cpe:/:sleuthkit",
+	"pid": "15375",
+	"pname": "The Sleuth Kit",
+	"pcpe": "cpe:/a:sleuthkit:the_sleuth_kit"
 }

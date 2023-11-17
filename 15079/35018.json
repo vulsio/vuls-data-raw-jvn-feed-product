@@ -1,8 +1,8 @@
 {
-  "vid": "15079",
-  "vname": "MJCToken project",
-  "vcpe": "cpe:/:mjctoken_project",
-  "pid": "35018",
-  "pname": "MJCToken",
-  "pcpe": "cpe:/a:mjctoken_project:mjctoken"
+	"vid": "15079",
+	"vname": "MJCToken project",
+	"vcpe": "cpe:/:mjctoken_project",
+	"pid": "35018",
+	"pname": "MJCToken",
+	"pcpe": "cpe:/a:mjctoken_project:mjctoken"
 }

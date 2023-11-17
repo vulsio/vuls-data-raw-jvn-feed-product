@@ -1,8 +1,8 @@
 {
-  "vid": "20242",
-  "vname": "ambassador",
-  "vcpe": "cpe:/:getambassador",
-  "pid": "51543",
-  "pname": "Emissary Ingress",
-  "pcpe": "cpe:/a:getambassador:emissary-ingress"
+	"vid": "20242",
+	"vname": "ambassador",
+	"vcpe": "cpe:/:getambassador",
+	"pid": "51543",
+	"pname": "Emissary Ingress",
+	"pcpe": "cpe:/a:getambassador:emissary-ingress"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1467",
-  "vname": "fabfile",
-  "vcpe": "cpe:/:fabfile",
-  "pid": "4344",
-  "pname": "fabric",
-  "pcpe": "cpe:/a:fabfile:fabric"
+	"vid": "1467",
+	"vname": "fabfile",
+	"vcpe": "cpe:/:fabfile",
+	"pid": "4344",
+	"pname": "fabric",
+	"pcpe": "cpe:/a:fabfile:fabric"
 }

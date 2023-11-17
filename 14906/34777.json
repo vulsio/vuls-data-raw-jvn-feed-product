@@ -1,8 +1,8 @@
 {
-  "vid": "14906",
-  "vname": "CTB project",
-  "vcpe": "cpe:/:ctb_project",
-  "pid": "34777",
-  "pname": "CTB",
-  "pcpe": "cpe:/a:ctb_project:ctb"
+	"vid": "14906",
+	"vname": "CTB project",
+	"vcpe": "cpe:/:ctb_project",
+	"pid": "34777",
+	"pname": "CTB",
+	"pcpe": "cpe:/a:ctb_project:ctb"
 }

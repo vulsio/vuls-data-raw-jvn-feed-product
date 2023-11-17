@@ -1,8 +1,8 @@
 {
-  "vid": "19901",
-  "vname": "IDEC株式会社",
-  "vcpe": "cpe:/:idec",
-  "pid": "50310",
-  "pname": "WindLDR",
-  "pcpe": "cpe:/a:idec:WindLDR"
+	"vid": "19901",
+	"vname": "IDEC株式会社",
+	"vcpe": "cpe:/:idec",
+	"pid": "50310",
+	"pname": "WindLDR",
+	"pcpe": "cpe:/a:idec:WindLDR"
 }

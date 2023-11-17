@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "29868",
-  "pname": "Oracle Hospitality e7",
-  "pcpe": "cpe:/a:oracle:hospitality_e7"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "29868",
+	"pname": "Oracle Hospitality e7",
+	"pcpe": "cpe:/a:oracle:hospitality_e7"
 }

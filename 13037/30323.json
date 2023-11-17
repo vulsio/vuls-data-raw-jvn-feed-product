@@ -1,8 +1,8 @@
 {
-  "vid": "13037",
-  "vname": "Realtime Systems Limited",
-  "vcpe": "cpe:/:rtsindia",
-  "pid": "30323",
-  "pname": "RWR-3G-100 ファームウェア",
-  "pcpe": "cpe:/o:rtsindia:rwr-3g-100_firmware"
+	"vid": "13037",
+	"vname": "Realtime Systems Limited",
+	"vcpe": "cpe:/:rtsindia",
+	"pid": "30323",
+	"pname": "RWR-3G-100 ファームウェア",
+	"pcpe": "cpe:/o:rtsindia:rwr-3g-100_firmware"
 }

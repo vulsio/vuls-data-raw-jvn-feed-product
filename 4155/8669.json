@@ -1,8 +1,8 @@
 {
-  "vid": "4155",
-  "vname": "unicenter",
-  "vcpe": "cpe:/:unicenter",
-  "pid": "8669",
-  "pname": "asset and portfolio management",
-  "pcpe": "cpe:/a:unicenter:asset_and_portfolio_management"
+	"vid": "4155",
+	"vname": "unicenter",
+	"vcpe": "cpe:/:unicenter",
+	"pid": "8669",
+	"pname": "asset and portfolio management",
+	"pcpe": "cpe:/a:unicenter:asset_and_portfolio_management"
 }

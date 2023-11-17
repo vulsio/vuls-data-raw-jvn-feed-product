@@ -1,8 +1,8 @@
 {
-  "vid": "11110",
-  "vname": "pushpinsapp",
-  "vcpe": "cpe:/:pushpinsapp",
-  "pid": "22734",
-  "pname": "pushpins grocery coupons",
-  "pcpe": "cpe:/a:pushpinsapp:pushpins_grocery_coupons"
+	"vid": "11110",
+	"vname": "pushpinsapp",
+	"vcpe": "cpe:/:pushpinsapp",
+	"pid": "22734",
+	"pname": "pushpins grocery coupons",
+	"pcpe": "cpe:/a:pushpinsapp:pushpins_grocery_coupons"
 }

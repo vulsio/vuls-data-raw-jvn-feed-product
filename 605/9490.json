@@ -1,8 +1,8 @@
 {
-  "vid": "605",
-  "vname": "Attachmate",
-  "vcpe": "cpe:/:attachmate",
-  "pid": "9490",
-  "pname": "Reflection for UNIX and OpenVMS",
-  "pcpe": "cpe:/a:attachmate:reflection_for_unix_and_openvms"
+	"vid": "605",
+	"vname": "Attachmate",
+	"vcpe": "cpe:/:attachmate",
+	"pid": "9490",
+	"pname": "Reflection for UNIX and OpenVMS",
+	"pcpe": "cpe:/a:attachmate:reflection_for_unix_and_openvms"
 }

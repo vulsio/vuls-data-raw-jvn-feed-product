@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "20168",
-  "pname": "LTSP Display Manager",
-  "pcpe": "cpe:/a:canonical:ltsp_display_manager"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "20168",
+	"pname": "LTSP Display Manager",
+	"pcpe": "cpe:/a:canonical:ltsp_display_manager"
 }

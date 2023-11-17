@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "37458",
-  "pname": "Kanboard プラグイン",
-  "pcpe": "cpe:/a:jenkins:kanboard"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "37458",
+	"pname": "Kanboard プラグイン",
+	"pcpe": "cpe:/a:jenkins:kanboard"
 }

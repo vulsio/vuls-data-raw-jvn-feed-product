@@ -1,8 +1,8 @@
 {
-  "vid": "1439",
-  "vname": "Dropbox",
-  "vcpe": "cpe:/:dropbox",
-  "pid": "27837",
-  "pname": "Lepton",
-  "pcpe": "cpe:/a:dropbox:lepton"
+	"vid": "1439",
+	"vname": "Dropbox",
+	"vcpe": "cpe:/:dropbox",
+	"pid": "27837",
+	"pname": "Lepton",
+	"pcpe": "cpe:/a:dropbox:lepton"
 }

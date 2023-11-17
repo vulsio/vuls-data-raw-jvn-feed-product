@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "4833",
-  "pname": "Symantec Web Gateway",
-  "pcpe": "cpe:/a:symantec:web_gateway"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "4833",
+	"pname": "Symantec Web Gateway",
+	"pcpe": "cpe:/a:symantec:web_gateway"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63634",
-  "pname": "6gk5876-4aa00-2ba2 ファームウェア",
-  "pcpe": "cpe:/o:siemens:6gk5876-4aa00-2ba2_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63634",
+	"pname": "6gk5876-4aa00-2ba2 ファームウェア",
+	"pcpe": "cpe:/o:siemens:6gk5876-4aa00-2ba2_firmware"
 }

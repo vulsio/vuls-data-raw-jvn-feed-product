@@ -1,8 +1,8 @@
 {
-  "vid": "12078",
-  "vname": "is-my-json-valid project",
-  "vcpe": "cpe:/:is_my_json_valid_project",
-  "pid": "25648",
-  "pname": "is-my-json-valid",
-  "pcpe": "cpe:/a:is_my_json_valid_project:is_my_json_valid"
+	"vid": "12078",
+	"vname": "is-my-json-valid project",
+	"vcpe": "cpe:/:is_my_json_valid_project",
+	"pid": "25648",
+	"pname": "is-my-json-valid",
+	"pcpe": "cpe:/a:is_my_json_valid_project:is_my_json_valid"
 }

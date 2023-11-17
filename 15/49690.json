@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "49690",
-  "pname": "Oracle Operations Intelligence",
-  "pcpe": "cpe:/a:oracle:operations_intelligence"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "49690",
+	"pname": "Oracle Operations Intelligence",
+	"pcpe": "cpe:/a:oracle:operations_intelligence"
 }

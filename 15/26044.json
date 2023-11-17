@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26044",
-  "pname": "Oracle Exalogic Infrastructure",
-  "pcpe": "cpe:/a:oracle:exalogic_infrastructure"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26044",
+	"pname": "Oracle Exalogic Infrastructure",
+	"pcpe": "cpe:/a:oracle:exalogic_infrastructure"
 }

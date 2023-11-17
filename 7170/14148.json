@@ -1,8 +1,8 @@
 {
-  "vid": "7170",
-  "vname": "qt-cute",
-  "vcpe": "cpe:/:qt-cute",
-  "pid": "14148",
-  "pname": "quickticket",
-  "pcpe": "cpe:/a:qt-cute:quickticket"
+	"vid": "7170",
+	"vname": "qt-cute",
+	"vcpe": "cpe:/:qt-cute",
+	"pid": "14148",
+	"pname": "quickticket",
+	"pcpe": "cpe:/a:qt-cute:quickticket"
 }

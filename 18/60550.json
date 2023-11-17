@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "60550",
-  "pname": "IBM SevOne Network Performance Management",
-  "pcpe": "cpe:/a:ibm:sevone_network_performance_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "60550",
+	"pname": "IBM SevOne Network Performance Management",
+	"pcpe": "cpe:/a:ibm:sevone_network_performance_management"
 }

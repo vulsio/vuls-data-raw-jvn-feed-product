@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "9026",
-  "pname": "Cisco TelePresence System TX9200",
-  "pcpe": "cpe:/h:cisco:telepresence_system_tx9200"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "9026",
+	"pname": "Cisco TelePresence System TX9200",
+	"pcpe": "cpe:/h:cisco:telepresence_system_tx9200"
 }

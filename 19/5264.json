@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5264",
-  "pname": "Cisco SPA3102 Voice Gateway with Router",
-  "pcpe": "cpe:/h:cisco:spa3102_voice_gateway_with_router"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5264",
+	"pname": "Cisco SPA3102 Voice Gateway with Router",
+	"pcpe": "cpe:/h:cisco:spa3102_voice_gateway_with_router"
 }

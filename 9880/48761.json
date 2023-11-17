@@ -1,8 +1,8 @@
 {
-  "vid": "9880",
-  "vname": "Docker",
-  "vcpe": "cpe:/:docker",
-  "pid": "48761",
-  "pname": "ghost docker image",
-  "pcpe": "cpe:/a:docker:ghost_alpine_docker_image"
+	"vid": "9880",
+	"vname": "Docker",
+	"vcpe": "cpe:/:docker",
+	"pid": "48761",
+	"pname": "ghost docker image",
+	"pcpe": "cpe:/a:docker:ghost_alpine_docker_image"
 }

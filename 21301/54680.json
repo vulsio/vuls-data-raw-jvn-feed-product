@@ -1,8 +1,8 @@
 {
-  "vid": "21301",
-  "vname": "github-todos project",
-  "vcpe": "cpe:/:github-todos_project",
-  "pid": "54680",
-  "pname": "github-todos",
-  "pcpe": "cpe:/a:github-todos_project:github-todos"
+	"vid": "21301",
+	"vname": "github-todos project",
+	"vcpe": "cpe:/:github-todos_project",
+	"pid": "54680",
+	"pname": "github-todos",
+	"pcpe": "cpe:/a:github-todos_project:github-todos"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15061",
-  "vname": "SoundTribeToken project",
-  "vcpe": "cpe:/:soundtribetoken_project",
-  "pid": "35000",
-  "pname": "SoundTribeToken",
-  "pcpe": "cpe:/a:soundtribetoken_project:soundtribetoken"
+	"vid": "15061",
+	"vname": "SoundTribeToken project",
+	"vcpe": "cpe:/:soundtribetoken_project",
+	"pid": "35000",
+	"pname": "SoundTribeToken",
+	"pcpe": "cpe:/a:soundtribetoken_project:soundtribetoken"
 }

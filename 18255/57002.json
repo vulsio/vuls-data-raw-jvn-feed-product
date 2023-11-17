@@ -1,8 +1,8 @@
 {
-  "vid": "18255",
-  "vname": "CommScope",
-  "vcpe": "cpe:/:commscope",
-  "pid": "57002",
-  "pname": "Arris SurfBoard SBG6950AC2 ファームウェア",
-  "pcpe": "cpe:/o:commscope:arris_surfboard_sbg6950ac2_firmware"
+	"vid": "18255",
+	"vname": "CommScope",
+	"vcpe": "cpe:/:commscope",
+	"pid": "57002",
+	"pname": "Arris SurfBoard SBG6950AC2 ファームウェア",
+	"pcpe": "cpe:/o:commscope:arris_surfboard_sbg6950ac2_firmware"
 }

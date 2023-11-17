@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "49310",
-  "pname": "Cisco SD-WAN vSmart Controller ファームウェア",
-  "pcpe": "cpe:/o:cisco:sd-wan_vsmart_controller_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "49310",
+	"pname": "Cisco SD-WAN vSmart Controller ファームウェア",
+	"pcpe": "cpe:/o:cisco:sd-wan_vsmart_controller_firmware"
 }

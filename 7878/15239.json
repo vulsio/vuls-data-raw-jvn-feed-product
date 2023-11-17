@@ -1,8 +1,8 @@
 {
-  "vid": "7878",
-  "vname": "symantec veritas",
-  "vcpe": "cpe:/:symantec_veritas",
-  "pid": "15239",
-  "pname": "netbackup puredisk remote office edition",
-  "pcpe": "cpe:/a:symantec_veritas:netbackup_puredisk_remote_office_edition"
+	"vid": "7878",
+	"vname": "symantec veritas",
+	"vcpe": "cpe:/:symantec_veritas",
+	"pid": "15239",
+	"pname": "netbackup puredisk remote office edition",
+	"pcpe": "cpe:/a:symantec_veritas:netbackup_puredisk_remote_office_edition"
 }

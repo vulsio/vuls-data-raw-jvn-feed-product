@@ -1,8 +1,8 @@
 {
-  "vid": "8725",
-  "vname": "Zenoss, Inc.",
-  "vcpe": "cpe:/:zenoss",
-  "pid": "23039",
-  "pname": "Zenoss Core",
-  "pcpe": "cpe:/a:zenoss:zenoss_core"
+	"vid": "8725",
+	"vname": "Zenoss, Inc.",
+	"vcpe": "cpe:/:zenoss",
+	"pid": "23039",
+	"pname": "Zenoss Core",
+	"pcpe": "cpe:/a:zenoss:zenoss_core"
 }

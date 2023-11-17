@@ -1,8 +1,8 @@
 {
-  "vid": "506",
-  "vname": "NOS Microsystems Ltd.",
-  "vcpe": "cpe:/:nos_microsystems",
-  "pid": "1998",
-  "pname": "getPlus Download Manager",
-  "pcpe": "cpe:/a:nos_microsystems:getplus_download_manager"
+	"vid": "506",
+	"vname": "NOS Microsystems Ltd.",
+	"vcpe": "cpe:/:nos_microsystems",
+	"pid": "1998",
+	"pname": "getPlus Download Manager",
+	"pcpe": "cpe:/a:nos_microsystems:getplus_download_manager"
 }

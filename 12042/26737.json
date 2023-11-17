@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26737",
-  "pname": "HPE Sizing Tool for SAP Business Suite powered by HANA",
-  "pcpe": "cpe:/a:hp:sizing_tool_for_sap_business_suite_powered_by_hana"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26737",
+	"pname": "HPE Sizing Tool for SAP Business Suite powered by HANA",
+	"pcpe": "cpe:/a:hp:sizing_tool_for_sap_business_suite_powered_by_hana"
 }

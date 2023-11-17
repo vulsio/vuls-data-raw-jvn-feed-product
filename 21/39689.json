@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "39689",
-  "pname": "libslax",
-  "pcpe": "cpe:/a:juniper:libslax"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "39689",
+	"pname": "libslax",
+	"pcpe": "cpe:/a:juniper:libslax"
 }

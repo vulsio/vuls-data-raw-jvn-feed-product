@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31503",
-  "pname": "KNT ファームウェア",
-  "pcpe": "cpe:/o:huawei:knt_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31503",
+	"pname": "KNT ファームウェア",
+	"pcpe": "cpe:/o:huawei:knt_firmware"
 }

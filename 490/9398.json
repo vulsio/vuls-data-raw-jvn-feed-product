@@ -1,8 +1,8 @@
 {
-  "vid": "490",
-  "vname": "Digium",
-  "vcpe": "cpe:/:digium",
-  "pid": "9398",
-  "pname": "Asterisk with Digiumphones",
-  "pcpe": "cpe:/a:digium:asterisk_digiumphones"
+	"vid": "490",
+	"vname": "Digium",
+	"vcpe": "cpe:/:digium",
+	"pid": "9398",
+	"pname": "Asterisk with Digiumphones",
+	"pcpe": "cpe:/a:digium:asterisk_digiumphones"
 }

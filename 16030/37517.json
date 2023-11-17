@@ -1,8 +1,8 @@
 {
-  "vid": "16030",
-  "vname": "GloBee",
-  "vcpe": "cpe:/:globee",
-  "pid": "37517",
-  "pname": "WooCommerce Plugin",
-  "pcpe": "cpe:/a:globee:woocommerce"
+	"vid": "16030",
+	"vname": "GloBee",
+	"vcpe": "cpe:/:globee",
+	"pid": "37517",
+	"pname": "WooCommerce Plugin",
+	"pcpe": "cpe:/a:globee:woocommerce"
 }

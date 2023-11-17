@@ -1,8 +1,8 @@
 {
-  "vid": "479",
-  "vname": "phpBB",
-  "vcpe": "cpe:/:phpbb",
-  "pid": "13603",
-  "pname": "insert user",
-  "pcpe": "cpe:/a:phpbb:insert_user"
+	"vid": "479",
+	"vname": "phpBB",
+	"vcpe": "cpe:/:phpbb",
+	"pid": "13603",
+	"pname": "insert user",
+	"pcpe": "cpe:/a:phpbb:insert_user"
 }

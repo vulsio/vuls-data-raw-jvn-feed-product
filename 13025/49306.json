@@ -1,8 +1,8 @@
 {
-  "vid": "13025",
-  "vname": "NXP Semiconductors",
-  "vcpe": "cpe:/:nxp",
-  "pid": "49306",
-  "pname": "A7005A",
-  "pcpe": "cpe:/h:nxp:a7005a"
+	"vid": "13025",
+	"vname": "NXP Semiconductors",
+	"vcpe": "cpe:/:nxp",
+	"pid": "49306",
+	"pname": "A7005A",
+	"pcpe": "cpe:/h:nxp:a7005a"
 }

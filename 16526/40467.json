@@ -1,8 +1,8 @@
 {
-  "vid": "16526",
-  "vname": "DiffPlug",
-  "vcpe": "cpe:/:diffplug",
-  "pid": "40467",
-  "pname": "eclipse-wtp",
-  "pcpe": "cpe:/a:diffplug:eclipse-wtp"
+	"vid": "16526",
+	"vname": "DiffPlug",
+	"vcpe": "cpe:/:diffplug",
+	"pid": "40467",
+	"pname": "eclipse-wtp",
+	"pcpe": "cpe:/a:diffplug:eclipse-wtp"
 }

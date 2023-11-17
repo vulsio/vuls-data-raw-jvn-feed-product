@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "52447",
-  "pname": "IBM i2 Analyze",
-  "pcpe": "cpe:/a:ibm:i2_analyze"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "52447",
+	"pname": "IBM i2 Analyze",
+	"pcpe": "cpe:/a:ibm:i2_analyze"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13025",
-  "vname": "NXP Semiconductors",
-  "vcpe": "cpe:/:nxp",
-  "pid": "49307",
-  "pname": "J2A081",
-  "pcpe": "cpe:/h:nxp:j2a081"
+	"vid": "13025",
+	"vname": "NXP Semiconductors",
+	"vcpe": "cpe:/:nxp",
+	"pid": "49307",
+	"pname": "J2A081",
+	"pcpe": "cpe:/h:nxp:j2a081"
 }

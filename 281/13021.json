@@ -1,8 +1,8 @@
 {
-  "vid": "281",
-  "vname": "Canonical",
-  "vcpe": "cpe:/:canonical",
-  "pid": "13021",
-  "pname": "Linux Kernel",
-  "pcpe": "cpe:/o:canonical:linux_kernel"
+	"vid": "281",
+	"vname": "Canonical",
+	"vcpe": "cpe:/:canonical",
+	"pid": "13021",
+	"pname": "Linux Kernel",
+	"pcpe": "cpe:/o:canonical:linux_kernel"
 }

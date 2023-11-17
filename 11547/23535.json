@@ -1,8 +1,8 @@
 {
-  "vid": "11547",
-  "vname": "Speed Software",
-  "vcpe": "cpe:/:speed_software",
-  "pid": "23535",
-  "pname": "Explorer",
-  "pcpe": "cpe:/a:speed_software:explorer"
+	"vid": "11547",
+	"vname": "Speed Software",
+	"vcpe": "cpe:/:speed_software",
+	"pid": "23535",
+	"pname": "Explorer",
+	"pcpe": "cpe:/a:speed_software:explorer"
 }

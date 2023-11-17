@@ -1,8 +1,8 @@
 {
-  "vid": "12375",
-  "vname": "WSO2",
-  "vcpe": "cpe:/:wso2",
-  "pid": "30612",
-  "pname": "WSO2 Application Server",
-  "pcpe": "cpe:/a:wso2:application_server"
+	"vid": "12375",
+	"vname": "WSO2",
+	"vcpe": "cpe:/:wso2",
+	"pid": "30612",
+	"pname": "WSO2 Application Server",
+	"pcpe": "cpe:/a:wso2:application_server"
 }

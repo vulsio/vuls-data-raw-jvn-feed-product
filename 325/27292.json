@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27292",
-  "pname": "XiaoXin Air 12",
-  "pcpe": "cpe:/h:lenovo:notebook_xiaoxin_air_12"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27292",
+	"pname": "XiaoXin Air 12",
+	"pcpe": "cpe:/h:lenovo:notebook_xiaoxin_air_12"
 }

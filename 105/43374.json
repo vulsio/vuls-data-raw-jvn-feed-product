@@ -1,8 +1,8 @@
 {
-  "vid": "105",
-  "vname": "Ruby-lang.org",
-  "vcpe": "cpe:/:ruby-lang",
-  "pid": "43374",
-  "pname": "Rake",
-  "pcpe": "cpe:/a:ruby-lang:rake"
+	"vid": "105",
+	"vname": "Ruby-lang.org",
+	"vcpe": "cpe:/:ruby-lang",
+	"pid": "43374",
+	"pname": "Rake",
+	"pcpe": "cpe:/a:ruby-lang:rake"
 }

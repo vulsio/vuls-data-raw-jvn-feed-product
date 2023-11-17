@@ -1,8 +1,8 @@
 {
-  "vid": "605",
-  "vname": "Attachmate",
-  "vcpe": "cpe:/:attachmate",
-  "pid": "9487",
-  "pname": "Reflection X",
-  "pcpe": "cpe:/a:attachmate:reflection_x"
+	"vid": "605",
+	"vname": "Attachmate",
+	"vcpe": "cpe:/:attachmate",
+	"pid": "9487",
+	"pname": "Reflection X",
+	"pcpe": "cpe:/a:attachmate:reflection_x"
 }

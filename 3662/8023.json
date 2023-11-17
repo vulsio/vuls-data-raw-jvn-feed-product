@@ -1,8 +1,8 @@
 {
-  "vid": "3662",
-  "vname": "fatwire",
-  "vcpe": "cpe:/:fatwire",
-  "pid": "8023",
-  "pname": "fatwire content server",
-  "pcpe": "cpe:/a:fatwire:fatwire_content_server"
+	"vid": "3662",
+	"vname": "fatwire",
+	"vcpe": "cpe:/:fatwire",
+	"pid": "8023",
+	"pname": "fatwire content server",
+	"pcpe": "cpe:/a:fatwire:fatwire_content_server"
 }

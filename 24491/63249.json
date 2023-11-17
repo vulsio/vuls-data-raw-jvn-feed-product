@@ -1,8 +1,8 @@
 {
-  "vid": "24491",
-  "vname": "spsoftmobile",
-  "vcpe": "cpe:/:spsoftmobile",
-  "pid": "63249",
-  "pname": "applock",
-  "pcpe": "cpe:/a:spsoftmobile:applock"
+	"vid": "24491",
+	"vname": "spsoftmobile",
+	"vcpe": "cpe:/:spsoftmobile",
+	"pid": "63249",
+	"pname": "applock",
+	"pcpe": "cpe:/a:spsoftmobile:applock"
 }

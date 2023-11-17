@@ -1,8 +1,8 @@
 {
-  "vid": "4409",
-  "vname": "Commerce Guys",
-  "vcpe": "cpe:/:commerceguys",
-  "pid": "9420",
-  "pname": "Commerce Reorder",
-  "pcpe": "cpe:/a:commerceguys:commerce_reorder"
+	"vid": "4409",
+	"vname": "Commerce Guys",
+	"vcpe": "cpe:/:commerceguys",
+	"pid": "9420",
+	"pname": "Commerce Reorder",
+	"pcpe": "cpe:/a:commerceguys:commerce_reorder"
 }

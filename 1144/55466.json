@@ -1,8 +1,8 @@
 {
-  "vid": "1144",
-  "vname": "SilverStripe",
-  "vcpe": "cpe:/:silverstripe",
-  "pid": "55466",
-  "pname": "Subsite",
-  "pcpe": "cpe:/a:silverstripe:subsites"
+	"vid": "1144",
+	"vname": "SilverStripe",
+	"vcpe": "cpe:/:silverstripe",
+	"pid": "55466",
+	"pname": "Subsite",
+	"pcpe": "cpe:/a:silverstripe:subsites"
 }

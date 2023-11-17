@@ -1,8 +1,8 @@
 {
-  "vid": "255",
-  "vname": "キヤノン",
-  "vcpe": "cpe:/:canon",
-  "pid": "6579",
-  "pname": "imagerunner 2620",
-  "pcpe": "cpe:/a:canon:imagerunner_2620"
+	"vid": "255",
+	"vname": "キヤノン",
+	"vcpe": "cpe:/:canon",
+	"pid": "6579",
+	"pname": "imagerunner 2620",
+	"pcpe": "cpe:/a:canon:imagerunner_2620"
 }

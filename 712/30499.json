@@ -1,8 +1,8 @@
 {
-  "vid": "712",
-  "vname": "Wibu-Systems AG",
-  "vcpe": "cpe:/:wibu",
-  "pid": "30499",
-  "pname": "CodeMeter",
-  "pcpe": "cpe:/a:wibu:codemeter"
+	"vid": "712",
+	"vname": "Wibu-Systems AG",
+	"vcpe": "cpe:/:wibu",
+	"pid": "30499",
+	"pname": "CodeMeter",
+	"pcpe": "cpe:/a:wibu:codemeter"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18506",
-  "vname": "UFACTORY",
-  "vcpe": "cpe:/:ufactory",
-  "pid": "45683",
-  "pname": "xarm_studio",
-  "pcpe": "cpe:/a:ufactory:xarm_studio"
+	"vid": "18506",
+	"vname": "UFACTORY",
+	"vcpe": "cpe:/:ufactory",
+	"pid": "45683",
+	"pname": "xarm_studio",
+	"pcpe": "cpe:/a:ufactory:xarm_studio"
 }

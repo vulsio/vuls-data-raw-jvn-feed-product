@@ -1,8 +1,8 @@
 {
-  "vid": "16877",
-  "vname": "WC Marketplace",
-  "vcpe": "cpe:/:wc-marketplace",
-  "pid": "40180",
-  "pname": "WC Catalog Enquiry",
-  "pcpe": "cpe:/a:wc-marketplace:wc_catalog_enquiry"
+	"vid": "16877",
+	"vname": "WC Marketplace",
+	"vcpe": "cpe:/:wc-marketplace",
+	"pid": "40180",
+	"pname": "WC Catalog Enquiry",
+	"pcpe": "cpe:/a:wc-marketplace:wc_catalog_enquiry"
 }

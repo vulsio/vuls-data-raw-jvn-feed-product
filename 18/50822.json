@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "50822",
-  "pname": "Engineering Lifecycle Optimization - Engineering Insights",
-  "pcpe": "cpe:/a:ibm:engineering_lifecycle_optimization_-_engineering_insights"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "50822",
+	"pname": "Engineering Lifecycle Optimization - Engineering Insights",
+	"pcpe": "cpe:/a:ibm:engineering_lifecycle_optimization_-_engineering_insights"
 }

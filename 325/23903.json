@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "23903",
-  "pname": "ThinkServer TD350 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkserver_td350_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "23903",
+	"pname": "ThinkServer TD350 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkserver_td350_firmware"
 }

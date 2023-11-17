@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "9144",
-  "pname": "Cisco Unified Computing System ソフトウェア",
-  "pcpe": "cpe:/a:cisco:unified_computing_system_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "9144",
+	"pname": "Cisco Unified Computing System ソフトウェア",
+	"pcpe": "cpe:/a:cisco:unified_computing_system_software"
 }

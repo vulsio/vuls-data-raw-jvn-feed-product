@@ -1,8 +1,8 @@
 {
-  "vid": "9165",
-  "vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
-  "vcpe": "cpe:/:ruckuswireless",
-  "pid": "32634",
-  "pname": "T710 ファームウェア",
-  "pcpe": "cpe:/o:ruckuswireless:t710_firmware"
+	"vid": "9165",
+	"vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
+	"vcpe": "cpe:/:ruckuswireless",
+	"pid": "32634",
+	"pname": "T710 ファームウェア",
+	"pcpe": "cpe:/o:ruckuswireless:t710_firmware"
 }

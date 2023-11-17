@@ -1,8 +1,8 @@
 {
-  "vid": "13855",
-  "vname": "Inversoft",
-  "vcpe": "cpe:/:inversoft",
-  "pid": "32898",
-  "pname": "prime-jwt",
-  "pcpe": "cpe:/a:inversoft:prime-jwt"
+	"vid": "13855",
+	"vname": "Inversoft",
+	"vcpe": "cpe:/:inversoft",
+	"pid": "32898",
+	"pname": "prime-jwt",
+	"pcpe": "cpe:/a:inversoft:prime-jwt"
 }

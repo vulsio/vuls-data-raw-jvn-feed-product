@@ -1,8 +1,8 @@
 {
-  "vid": "18166",
-  "vname": "Parrot",
-  "vcpe": "cpe:/:parrot",
-  "pid": "44252",
-  "pname": "ANAFI ファームウェア",
-  "pcpe": "cpe:/o:parrot:anafi_firmware"
+	"vid": "18166",
+	"vname": "Parrot",
+	"vcpe": "cpe:/:parrot",
+	"pid": "44252",
+	"pname": "ANAFI ファームウェア",
+	"pcpe": "cpe:/o:parrot:anafi_firmware"
 }

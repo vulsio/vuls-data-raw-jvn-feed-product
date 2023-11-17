@@ -1,8 +1,8 @@
 {
-  "vid": "11688",
-  "vname": "GNS3",
-  "vcpe": "cpe:/:gns3",
-  "pid": "45334",
-  "pname": "ubridge",
-  "pcpe": "cpe:/a:gns3:ubridge"
+	"vid": "11688",
+	"vname": "GNS3",
+	"vcpe": "cpe:/:gns3",
+	"pid": "45334",
+	"pname": "ubridge",
+	"pcpe": "cpe:/a:gns3:ubridge"
 }

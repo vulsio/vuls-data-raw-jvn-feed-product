@@ -1,8 +1,8 @@
 {
-  "vid": "1895",
-  "vname": "エマソン",
-  "vcpe": "cpe:/:emerson",
-  "pid": "38829",
-  "pname": "Ovation OCR400 ファームウェア",
-  "pcpe": "cpe:/o:emerson:ovation_ocr400_firmware"
+	"vid": "1895",
+	"vname": "エマソン",
+	"vcpe": "cpe:/:emerson",
+	"pid": "38829",
+	"pname": "Ovation OCR400 ファームウェア",
+	"pcpe": "cpe:/o:emerson:ovation_ocr400_firmware"
 }

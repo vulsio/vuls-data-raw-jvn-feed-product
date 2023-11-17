@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "23814",
-  "pname": "XL1000C50 52 I/O",
-  "pcpe": "cpe:/o:honeywell:excel_web_xl_1000c50_52_i%2fo"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "23814",
+	"pname": "XL1000C50 52 I/O",
+	"pcpe": "cpe:/o:honeywell:excel_web_xl_1000c50_52_i%2fo"
 }

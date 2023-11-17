@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "21160",
-  "pname": "IBM System Networking RackSwitch G8124",
-  "pcpe": "cpe:/h:ibm:system_networking_rackswitch__g8124"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "21160",
+	"pname": "IBM System Networking RackSwitch G8124",
+	"pcpe": "cpe:/h:ibm:system_networking_rackswitch__g8124"
 }

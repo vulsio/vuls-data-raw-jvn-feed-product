@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "54428",
-  "pname": "Alienware 17 R5 ファームウェア",
-  "pcpe": "cpe:/o:dell:alienware_17_r5_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "54428",
+	"pname": "Alienware 17 R5 ファームウェア",
+	"pcpe": "cpe:/o:dell:alienware_17_r5_firmware"
 }

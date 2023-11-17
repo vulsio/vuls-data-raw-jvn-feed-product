@@ -1,8 +1,8 @@
 {
-  "vid": "11621",
-  "vname": "ARJ Software",
-  "vcpe": "cpe:/:arj_software",
-  "pid": "23860",
-  "pname": "Open-source ARJ",
-  "pcpe": "cpe:/a:arj_software:arj_archiver"
+	"vid": "11621",
+	"vname": "ARJ Software",
+	"vcpe": "cpe:/:arj_software",
+	"pid": "23860",
+	"pname": "Open-source ARJ",
+	"pcpe": "cpe:/a:arj_software:arj_archiver"
 }

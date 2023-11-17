@@ -1,8 +1,8 @@
 {
-  "vid": "22372",
-  "vname": "Meteor Slides project",
-  "vcpe": "cpe:/:meteor_slides_project",
-  "pid": "57531",
-  "pname": "Meteor Slides",
-  "pcpe": "cpe:/a:meteor_slides_project:meteor_slides"
+	"vid": "22372",
+	"vname": "Meteor Slides project",
+	"vcpe": "cpe:/:meteor_slides_project",
+	"pid": "57531",
+	"pname": "Meteor Slides",
+	"pcpe": "cpe:/a:meteor_slides_project:meteor_slides"
 }

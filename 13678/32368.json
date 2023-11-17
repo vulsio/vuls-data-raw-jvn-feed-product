@@ -1,8 +1,8 @@
 {
-  "vid": "13678",
-  "vname": "Rubrik",
-  "vcpe": "cpe:/:rubrik",
-  "pid": "32368",
-  "pname": "CDM",
-  "pcpe": "cpe:/a:rubrik:cdm"
+	"vid": "13678",
+	"vname": "Rubrik",
+	"vcpe": "cpe:/:rubrik",
+	"pid": "32368",
+	"pname": "CDM",
+	"pcpe": "cpe:/a:rubrik:cdm"
 }

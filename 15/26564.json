@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26564",
-  "pname": "Siebel Engineering - Installer and Deployment",
-  "pcpe": "cpe:/a:oracle:siebel_engineering-installer_and_deployment"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26564",
+	"pname": "Siebel Engineering - Installer and Deployment",
+	"pcpe": "cpe:/a:oracle:siebel_engineering-installer_and_deployment"
 }

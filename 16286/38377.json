@@ -1,8 +1,8 @@
 {
-  "vid": "16286",
-  "vname": "OpenPLC Project",
-  "vcpe": "cpe:/:openplcproject",
-  "pid": "38377",
-  "pname": "OpenPLC_v3 ファームウェア",
-  "pcpe": "cpe:/o:openplcproject:openplc_v3_firmware"
+	"vid": "16286",
+	"vname": "OpenPLC Project",
+	"vcpe": "cpe:/:openplcproject",
+	"pid": "38377",
+	"pname": "OpenPLC_v3 ファームウェア",
+	"pcpe": "cpe:/o:openplcproject:openplc_v3_firmware"
 }

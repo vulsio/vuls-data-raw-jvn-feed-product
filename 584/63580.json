@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63580",
-  "pname": "pxg3.w200-2 ファームウェア",
-  "pcpe": "cpe:/o:siemens:pxg3.w200-2_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63580",
+	"pname": "pxg3.w200-2 ファームウェア",
+	"pcpe": "cpe:/o:siemens:pxg3.w200-2_firmware"
 }

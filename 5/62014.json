@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "62014",
-  "pname": "SSG2115P ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:ssg2115p_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "62014",
+	"pname": "SSG2115P ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:ssg2115p_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18255",
-  "vname": "CommScope",
-  "vcpe": "cpe:/:commscope",
-  "pid": "57004",
-  "pname": "Arris SurfBoard SBG7580AC ファームウェア",
-  "pcpe": "cpe:/o:commscope:arris_surfboard_sbg7580ac_firmware"
+	"vid": "18255",
+	"vname": "CommScope",
+	"vcpe": "cpe:/:commscope",
+	"pid": "57004",
+	"pname": "Arris SurfBoard SBG7580AC ファームウェア",
+	"pcpe": "cpe:/o:commscope:arris_surfboard_sbg7580ac_firmware"
 }

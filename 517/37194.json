@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "37194",
-  "pname": "AltaLink C8030 ファームウェア",
-  "pcpe": "cpe:/o:xerox:altalink_c8030_firmware"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "37194",
+	"pname": "AltaLink C8030 ファームウェア",
+	"pcpe": "cpe:/o:xerox:altalink_c8030_firmware"
 }

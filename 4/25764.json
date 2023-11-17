@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "25764",
-  "pname": "CZ255A",
-  "pcpe": "cpe:/h:hp:cz255a"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "25764",
+	"pname": "CZ255A",
+	"pcpe": "cpe:/h:hp:cz255a"
 }

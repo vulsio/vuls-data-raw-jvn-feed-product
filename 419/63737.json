@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "63737",
-  "pname": "bluexp",
-  "pcpe": "cpe:/a:netapp:bluexp"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "63737",
+	"pname": "bluexp",
+	"pcpe": "cpe:/a:netapp:bluexp"
 }

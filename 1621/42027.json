@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "42027",
-  "pname": "Nokia IMPACT",
-  "pcpe": "cpe:/a:nokia:impact"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "42027",
+	"pname": "Nokia IMPACT",
+	"pcpe": "cpe:/a:nokia:impact"
 }

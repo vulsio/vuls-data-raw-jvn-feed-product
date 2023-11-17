@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "49272",
-  "pname": "SCALANCE X307-3LD ファームウェア",
-  "pcpe": "cpe:/o:siemens:scalance_x307-3ld_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "49272",
+	"pname": "SCALANCE X307-3LD ファームウェア",
+	"pcpe": "cpe:/o:siemens:scalance_x307-3ld_firmware"
 }

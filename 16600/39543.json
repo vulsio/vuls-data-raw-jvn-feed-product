@@ -1,8 +1,8 @@
 {
-  "vid": "16600",
-  "vname": "Univention GmbH",
-  "vcpe": "cpe:/:univention",
-  "pid": "39543",
-  "pname": "Univention Corporate Server",
-  "pcpe": "cpe:/a:univention:univention_corporate_server"
+	"vid": "16600",
+	"vname": "Univention GmbH",
+	"vcpe": "cpe:/:univention",
+	"pid": "39543",
+	"pname": "Univention Corporate Server",
+	"pcpe": "cpe:/a:univention:univention_corporate_server"
 }

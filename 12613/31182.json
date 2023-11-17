@@ -1,8 +1,8 @@
 {
-  "vid": "12613",
-  "vname": "Cesanta",
-  "vcpe": "cpe:/:cesanta",
-  "pid": "31182",
-  "pname": "Mongoose",
-  "pcpe": "cpe:/a:cesanta:mongoose"
+	"vid": "12613",
+	"vname": "Cesanta",
+	"vcpe": "cpe:/:cesanta",
+	"pid": "31182",
+	"pname": "Mongoose",
+	"pcpe": "cpe:/a:cesanta:mongoose"
 }

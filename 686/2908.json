@@ -1,8 +1,8 @@
 {
-  "vid": "686",
-  "vname": "Mercator",
-  "vcpe": "cpe:/:mercator",
-  "pid": "2908",
-  "pname": "SENTINEL",
-  "pcpe": "cpe:/a:mercator:sentinel"
+	"vid": "686",
+	"vname": "Mercator",
+	"vcpe": "cpe:/:mercator",
+	"pid": "2908",
+	"pname": "SENTINEL",
+	"pcpe": "cpe:/a:mercator:sentinel"
 }

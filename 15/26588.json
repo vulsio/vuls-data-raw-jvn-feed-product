@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26588",
-  "pname": "Oracle Retail Central, Back Office, Returns Management",
-  "pcpe": "cpe:/a:oracle:retail_central_back_office_returns_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26588",
+	"pname": "Oracle Retail Central, Back Office, Returns Management",
+	"pcpe": "cpe:/a:oracle:retail_central_back_office_returns_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16513",
-  "vname": "Infinix Mobile",
-  "vcpe": "cpe:/:infinixmobility",
-  "pid": "39287",
-  "pname": "Infinix Hot 2 X510",
-  "pcpe": "cpe:/o:infinixmobility:hot_2_x510_firmware"
+	"vid": "16513",
+	"vname": "Infinix Mobile",
+	"vcpe": "cpe:/:infinixmobility",
+	"pid": "39287",
+	"pname": "Infinix Hot 2 X510",
+	"pcpe": "cpe:/o:infinixmobility:hot_2_x510_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17572",
-  "vname": "Accentis",
-  "vcpe": "cpe:/:accentis",
-  "pid": "42095",
-  "pname": "Content Resource Management System",
-  "pcpe": "cpe:/a:accentis:content_resource_management_system"
+	"vid": "17572",
+	"vname": "Accentis",
+	"vcpe": "cpe:/:accentis",
+	"pid": "42095",
+	"pname": "Content Resource Management System",
+	"pcpe": "cpe:/a:accentis:content_resource_management_system"
 }

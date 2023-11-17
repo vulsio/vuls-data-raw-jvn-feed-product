@@ -1,8 +1,8 @@
 {
-  "vid": "512",
-  "vname": "Vidalia Project",
-  "vcpe": "cpe:/:vidalia-project",
-  "pid": "2014",
-  "pname": "Vidalia",
-  "pcpe": "cpe:/a:vidalia-project:vidalia_bundle"
+	"vid": "512",
+	"vname": "Vidalia Project",
+	"vcpe": "cpe:/:vidalia-project",
+	"pid": "2014",
+	"pname": "Vidalia",
+	"pcpe": "cpe:/a:vidalia-project:vidalia_bundle"
 }

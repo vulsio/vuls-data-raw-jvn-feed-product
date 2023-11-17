@@ -1,8 +1,8 @@
 {
-  "vid": "7658",
-  "vname": "skippy.net",
-  "vcpe": "cpe:/:skippy.net",
-  "pid": "14844",
-  "pname": "wp-db backup plugin for wordpress",
-  "pcpe": "cpe:/a:skippy.net:wp-db_backup_plugin_for_wordpress"
+	"vid": "7658",
+	"vname": "skippy.net",
+	"vcpe": "cpe:/:skippy.net",
+	"pid": "14844",
+	"pname": "wp-db backup plugin for wordpress",
+	"pcpe": "cpe:/a:skippy.net:wp-db_backup_plugin_for_wordpress"
 }

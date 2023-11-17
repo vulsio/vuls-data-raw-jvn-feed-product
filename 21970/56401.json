@@ -1,8 +1,8 @@
 {
-  "vid": "21970",
-  "vname": "Codex project",
-  "vcpe": "cpe:/:codex_project",
-  "pid": "56401",
-  "pname": "Codex",
-  "pcpe": "cpe:/a:codex_project:codex"
+	"vid": "21970",
+	"vname": "Codex project",
+	"vcpe": "cpe:/:codex_project",
+	"pid": "56401",
+	"pname": "Codex",
+	"pcpe": "cpe:/a:codex_project:codex"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "488",
-  "vname": "openSUSE project",
-  "vcpe": "cpe:/:opensuse_project",
-  "pid": "44233",
-  "pname": "texlive-filesystem",
-  "pcpe": "cpe:/a:opensuse_project:texlive-filesystem"
+	"vid": "488",
+	"vname": "openSUSE project",
+	"vcpe": "cpe:/:opensuse_project",
+	"pid": "44233",
+	"pname": "texlive-filesystem",
+	"pcpe": "cpe:/a:opensuse_project:texlive-filesystem"
 }

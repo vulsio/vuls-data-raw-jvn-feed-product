@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23701",
-  "pname": "HP 2D Value Wireless Scanner (K3L28AA)",
-  "pcpe": "cpe:/h:hp:2d_value_wireless_scanner_k3l28aa"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23701",
+	"pname": "HP 2D Value Wireless Scanner (K3L28AA)",
+	"pcpe": "cpe:/h:hp:2d_value_wireless_scanner_k3l28aa"
 }

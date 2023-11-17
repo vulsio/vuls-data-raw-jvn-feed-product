@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "51901",
-  "pname": "Apache ServiceComb",
-  "pcpe": "cpe:/a:apache:servicecomb"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "51901",
+	"pname": "Apache ServiceComb",
+	"pcpe": "cpe:/a:apache:servicecomb"
 }

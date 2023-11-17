@@ -1,8 +1,8 @@
 {
-  "vid": "11109",
-  "vname": "apptive",
-  "vcpe": "cpe:/:apptive",
-  "pid": "22733",
-  "pname": "horsepower",
-  "pcpe": "cpe:/a:apptive:horsepower"
+	"vid": "11109",
+	"vname": "apptive",
+	"vcpe": "cpe:/:apptive",
+	"pid": "22733",
+	"pname": "horsepower",
+	"pcpe": "cpe:/a:apptive:horsepower"
 }

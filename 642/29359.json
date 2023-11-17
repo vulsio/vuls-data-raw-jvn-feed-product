@@ -1,8 +1,8 @@
 {
-  "vid": "642",
-  "vname": "ネットギア",
-  "vcpe": "cpe:/:netgear",
-  "pid": "29359",
-  "pname": "WNR2000v4 ファームウェア",
-  "pcpe": "cpe:/o:netgear:wnr2000v4_firmware"
+	"vid": "642",
+	"vname": "ネットギア",
+	"vcpe": "cpe:/:netgear",
+	"pid": "29359",
+	"pname": "WNR2000v4 ファームウェア",
+	"pcpe": "cpe:/o:netgear:wnr2000v4_firmware"
 }

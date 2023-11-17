@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "46747",
-  "pname": "Cisco TelePresence Collaboration Endpoint",
-  "pcpe": "cpe:/a:cisco:telepresence_collaboration_endpoint"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "46747",
+	"pname": "Cisco TelePresence Collaboration Endpoint",
+	"pcpe": "cpe:/a:cisco:telepresence_collaboration_endpoint"
 }

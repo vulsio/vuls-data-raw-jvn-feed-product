@@ -1,8 +1,8 @@
 {
-  "vid": "15777",
-  "vname": "eXist-db",
-  "vcpe": "cpe:/:exist-db",
-  "pid": "36768",
-  "pname": "exist",
-  "pcpe": "cpe:/a:exist-db:exist"
+	"vid": "15777",
+	"vname": "eXist-db",
+	"vcpe": "cpe:/:exist-db",
+	"pid": "36768",
+	"pname": "exist",
+	"pcpe": "cpe:/a:exist-db:exist"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "60784",
-  "pname": "sauce ondemand",
-  "pcpe": "cpe:/a:jenkins:sauce_ondemand"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "60784",
+	"pname": "sauce ondemand",
+	"pcpe": "cpe:/a:jenkins:sauce_ondemand"
 }

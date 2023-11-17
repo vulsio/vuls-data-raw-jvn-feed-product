@@ -1,8 +1,8 @@
 {
-  "vid": "13705",
-  "vname": "Center for Internet Security",
-  "vcpe": "cpe:/:cisecurity",
-  "pid": "32468",
-  "pname": "CIS-CAT Pro Dashboard",
-  "pcpe": "cpe:/a:cisecurity:cis-cat_pro_dashboard"
+	"vid": "13705",
+	"vname": "Center for Internet Security",
+	"vcpe": "cpe:/:cisecurity",
+	"pid": "32468",
+	"pname": "CIS-CAT Pro Dashboard",
+	"pcpe": "cpe:/a:cisecurity:cis-cat_pro_dashboard"
 }

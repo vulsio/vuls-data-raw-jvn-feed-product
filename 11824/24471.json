@@ -1,8 +1,8 @@
 {
-  "vid": "11824",
-  "vname": "FCA US LLC.",
-  "vcpe": "cpe:/:fca",
-  "pid": "24471",
-  "pname": "Uconnect",
-  "pcpe": "cpe:/a:fca:uconnect"
+	"vid": "11824",
+	"vname": "FCA US LLC.",
+	"vcpe": "cpe:/:fca",
+	"pid": "24471",
+	"pname": "Uconnect",
+	"pcpe": "cpe:/a:fca:uconnect"
 }

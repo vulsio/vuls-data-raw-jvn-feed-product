@@ -1,8 +1,8 @@
 {
-  "vid": "13461",
-  "vname": "PasDoc project",
-  "vcpe": "cpe:/:pasdoc_project",
-  "pid": "31775",
-  "pname": "PasDoc",
-  "pcpe": "cpe:/a:pasdoc_project:pasdoc"
+	"vid": "13461",
+	"vname": "PasDoc project",
+	"vcpe": "cpe:/:pasdoc_project",
+	"pid": "31775",
+	"pname": "PasDoc",
+	"pcpe": "cpe:/a:pasdoc_project:pasdoc"
 }

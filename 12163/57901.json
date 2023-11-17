@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "57901",
-  "pname": "GitHub Pull Request Coverage Status",
-  "pcpe": "cpe:/a:jenkins:github_pull_request_coverage_status"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "57901",
+	"pname": "GitHub Pull Request Coverage Status",
+	"pcpe": "cpe:/a:jenkins:github_pull_request_coverage_status"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "25026",
-  "pname": "WebSphere Commerce Enterprise",
-  "pcpe": "cpe:/a:ibm:websphere_commerce_enterprise"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "25026",
+	"pname": "WebSphere Commerce Enterprise",
+	"pcpe": "cpe:/a:ibm:websphere_commerce_enterprise"
 }

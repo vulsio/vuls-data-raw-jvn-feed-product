@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18413",
-  "pname": "HP IceWall SSO JAVA Agent Library",
-  "pcpe": "cpe:/a:hp:icewall_java_agent_library"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18413",
+	"pname": "HP IceWall SSO JAVA Agent Library",
+	"pcpe": "cpe:/a:hp:icewall_java_agent_library"
 }

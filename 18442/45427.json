@@ -1,8 +1,8 @@
 {
-  "vid": "18442",
-  "vname": "cabsoftware",
-  "vcpe": "cpe:/:cabsoftware",
-  "pid": "45427",
-  "pname": "Reportexpress ProPlus",
-  "pcpe": "cpe:/a:cabsoftware:reportexpress_proplus"
+	"vid": "18442",
+	"vname": "cabsoftware",
+	"vcpe": "cpe:/:cabsoftware",
+	"pid": "45427",
+	"pname": "Reportexpress ProPlus",
+	"pcpe": "cpe:/a:cabsoftware:reportexpress_proplus"
 }

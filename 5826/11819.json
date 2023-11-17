@@ -1,8 +1,8 @@
 {
-  "vid": "5826",
-  "vname": "mygamescript",
-  "vcpe": "cpe:/:mygamescript",
-  "pid": "11819",
-  "pname": "my game script",
-  "pcpe": "cpe:/a:mygamescript:my_game_script"
+	"vid": "5826",
+	"vname": "mygamescript",
+	"vcpe": "cpe:/:mygamescript",
+	"pid": "11819",
+	"pname": "my game script",
+	"pcpe": "cpe:/a:mygamescript:my_game_script"
 }

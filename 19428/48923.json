@@ -1,8 +1,8 @@
 {
-  "vid": "19428",
-  "vname": "Controlled Electronic Management Systems",
-  "vcpe": "cpe:/:misc",
-  "pid": "48923",
-  "pname": "CEM Systems AC2000",
-  "pcpe": "cpe:/a:misc:Controlled_Electronic_Management_Systems_CEM_Systems_AC2000"
+	"vid": "19428",
+	"vname": "Controlled Electronic Management Systems",
+	"vcpe": "cpe:/:misc",
+	"pid": "48923",
+	"pname": "CEM Systems AC2000",
+	"pcpe": "cpe:/a:misc:Controlled_Electronic_Management_Systems_CEM_Systems_AC2000"
 }

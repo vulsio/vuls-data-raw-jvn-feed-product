@@ -1,8 +1,8 @@
 {
-  "vid": "9279",
-  "vname": "CRU Acquisition Group",
-  "vcpe": "cpe:/:cru-inc",
-  "pid": "18962",
-  "pname": "Ditto Forensic FieldStation",
-  "pcpe": "cpe:/h:cru-inc:ditto_forensic_fieldstation"
+	"vid": "9279",
+	"vname": "CRU Acquisition Group",
+	"vcpe": "cpe:/:cru-inc",
+	"pid": "18962",
+	"pname": "Ditto Forensic FieldStation",
+	"pcpe": "cpe:/h:cru-inc:ditto_forensic_fieldstation"
 }

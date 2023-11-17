@@ -1,8 +1,8 @@
 {
-  "vid": "21869",
-  "vname": "Elvexys SA",
-  "vcpe": "cpe:/:elvexys",
-  "pid": "56113",
-  "pname": "StreamX",
-  "pcpe": "cpe:/a:elvexys:streamx"
+	"vid": "21869",
+	"vname": "Elvexys SA",
+	"vcpe": "cpe:/:elvexys",
+	"pid": "56113",
+	"pname": "StreamX",
+	"pcpe": "cpe:/a:elvexys:streamx"
 }

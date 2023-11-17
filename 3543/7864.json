@@ -1,8 +1,8 @@
 {
-  "vid": "3543",
-  "vname": "erl wustl",
-  "vcpe": "cpe:/:erl_wustl",
-  "pid": "7864",
-  "pname": "ctn",
-  "pcpe": "cpe:/a:erl_wustl:ctn"
+	"vid": "3543",
+	"vname": "erl wustl",
+	"vcpe": "cpe:/:erl_wustl",
+	"pid": "7864",
+	"pname": "ctn",
+	"pcpe": "cpe:/a:erl_wustl:ctn"
 }

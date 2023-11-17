@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "16838",
-  "pname": "1756-ENBT",
-  "pcpe": "cpe:/h:rockwellautomation:1756-enbt"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "16838",
+	"pname": "1756-ENBT",
+	"pcpe": "cpe:/h:rockwellautomation:1756-enbt"
 }

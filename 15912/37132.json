@@ -1,8 +1,8 @@
 {
-  "vid": "15912",
-  "vname": "Pilz Automation Safety LP",
-  "vcpe": "cpe:/:pilz",
-  "pid": "37132",
-  "pname": "PNOZmulti Configurator",
-  "pcpe": "cpe:/a:pilz:pnozmulti_configurator"
+	"vid": "15912",
+	"vname": "Pilz Automation Safety LP",
+	"vcpe": "cpe:/:pilz",
+	"pid": "37132",
+	"pname": "PNOZmulti Configurator",
+	"pcpe": "cpe:/a:pilz:pnozmulti_configurator"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19185",
-  "vname": "AppImage",
-  "vcpe": "cpe:/:appimage",
-  "pid": "48214",
-  "pname": "appimaged",
-  "pcpe": "cpe:/a:appimage:appimaged"
+	"vid": "19185",
+	"vname": "AppImage",
+	"vcpe": "cpe:/:appimage",
+	"pid": "48214",
+	"pname": "appimaged",
+	"pcpe": "cpe:/a:appimage:appimaged"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "27817",
-  "pname": "Samsung Knox",
-  "pcpe": "cpe:/a:samsung:knox"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "27817",
+	"pname": "Samsung Knox",
+	"pcpe": "cpe:/a:samsung:knox"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52818",
-  "pname": "SA8195P ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sa8195p_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52818",
+	"pname": "SA8195P ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sa8195p_firmware"
 }

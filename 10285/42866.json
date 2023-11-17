@@ -1,8 +1,8 @@
 {
-  "vid": "10285",
-  "vname": "Compal Broadband Networks",
-  "vcpe": "cpe:/:compal_broadband_networks",
-  "pid": "42866",
-  "pname": "Compal 7486E ファームウェア",
-  "pcpe": "cpe:/o:compal_broadband_networks:7486e_firmware"
+	"vid": "10285",
+	"vname": "Compal Broadband Networks",
+	"vcpe": "cpe:/:compal_broadband_networks",
+	"pid": "42866",
+	"pname": "Compal 7486E ファームウェア",
+	"pcpe": "cpe:/o:compal_broadband_networks:7486e_firmware"
 }

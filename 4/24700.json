@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "24700",
-  "pname": "HP Virtual Connect Enterprise Manager SDK",
-  "pcpe": "cpe:/a:hp:virtual_connect_enterprise_manager_sdk"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "24700",
+	"pname": "HP Virtual Connect Enterprise Manager SDK",
+	"pcpe": "cpe:/a:hp:virtual_connect_enterprise_manager_sdk"
 }

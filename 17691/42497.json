@@ -1,8 +1,8 @@
 {
-  "vid": "17691",
-  "vname": "Appspace",
-  "vcpe": "cpe:/:appspace",
-  "pid": "42497",
-  "pname": "On-Prem",
-  "pcpe": "cpe:/a:appspace:on-prem"
+	"vid": "17691",
+	"vname": "Appspace",
+	"vcpe": "cpe:/:appspace",
+	"pid": "42497",
+	"pname": "On-Prem",
+	"pcpe": "cpe:/a:appspace:on-prem"
 }

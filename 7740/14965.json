@@ -1,8 +1,8 @@
 {
-  "vid": "7740",
-  "vname": "solmetra",
-  "vcpe": "cpe:/:solmetra",
-  "pid": "14965",
-  "pname": "spaw editor",
-  "pcpe": "cpe:/a:solmetra:spaw_editor"
+	"vid": "7740",
+	"vname": "solmetra",
+	"vcpe": "cpe:/:solmetra",
+	"pid": "14965",
+	"pname": "spaw editor",
+	"pcpe": "cpe:/a:solmetra:spaw_editor"
 }

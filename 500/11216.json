@@ -1,8 +1,8 @@
 {
-  "vid": "500",
-  "vname": "Mambo Foundation",
-  "vcpe": "cpe:/:mambo-foundation",
-  "pid": "11216",
-  "pname": "mambo site server",
-  "pcpe": "cpe:/a:mambo-foundation:mambo_site_server"
+	"vid": "500",
+	"vname": "Mambo Foundation",
+	"vcpe": "cpe:/:mambo-foundation",
+	"pid": "11216",
+	"pname": "mambo site server",
+	"pcpe": "cpe:/a:mambo-foundation:mambo_site_server"
 }

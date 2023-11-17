@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "19414",
-  "pname": "IBM System x3300 M4",
-  "pcpe": "cpe:/h:ibm:system_x3300_m4"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "19414",
+	"pname": "IBM System x3300 M4",
+	"pcpe": "cpe:/h:ibm:system_x3300_m4"
 }

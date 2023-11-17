@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "48430",
-  "pname": "Wiser Link ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:wiser_link_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "48430",
+	"pname": "Wiser Link ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:wiser_link_firmware"
 }

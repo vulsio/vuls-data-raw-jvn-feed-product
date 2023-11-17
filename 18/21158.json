@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "21158",
-  "pname": "IBM System Networking RackSwitch G8052",
-  "pcpe": "cpe:/h:ibm:system_networking_rackswitch__g8052"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "21158",
+	"pname": "IBM System Networking RackSwitch G8052",
+	"pcpe": "cpe:/h:ibm:system_networking_rackswitch__g8052"
 }

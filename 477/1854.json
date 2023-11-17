@@ -1,8 +1,8 @@
 {
-  "vid": "477",
-  "vname": "Sygate",
-  "vcpe": "cpe:/:sygate_technologies",
-  "pid": "1854",
-  "pname": "Sygate Secure Enterprise",
-  "pcpe": "cpe:/a:sygate_technologies:secure_enterprise"
+	"vid": "477",
+	"vname": "Sygate",
+	"vcpe": "cpe:/:sygate_technologies",
+	"pid": "1854",
+	"pname": "Sygate Secure Enterprise",
+	"pcpe": "cpe:/a:sygate_technologies:secure_enterprise"
 }

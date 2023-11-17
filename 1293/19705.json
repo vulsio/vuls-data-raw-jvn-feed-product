@@ -1,8 +1,8 @@
 {
-  "vid": "1293",
-  "vname": "ソフォス",
-  "vcpe": "cpe:/:sophos",
-  "pid": "19705",
-  "pname": "Sophos Web Appliance",
-  "pcpe": "cpe:/h:sophos:web_appliance"
+	"vid": "1293",
+	"vname": "ソフォス",
+	"vcpe": "cpe:/:sophos",
+	"pid": "19705",
+	"pname": "Sophos Web Appliance",
+	"pcpe": "cpe:/h:sophos:web_appliance"
 }

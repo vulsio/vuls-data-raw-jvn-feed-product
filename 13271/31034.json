@@ -1,8 +1,8 @@
 {
-  "vid": "13271",
-  "vname": "KeystoneJS",
-  "vcpe": "cpe:/:keystonejs",
-  "pid": "31034",
-  "pname": "Keystone",
-  "pcpe": "cpe:/a:keystonejs:keystone"
+	"vid": "13271",
+	"vname": "KeystoneJS",
+	"vcpe": "cpe:/:keystonejs",
+	"pid": "31034",
+	"pname": "Keystone",
+	"pcpe": "cpe:/a:keystonejs:keystone"
 }

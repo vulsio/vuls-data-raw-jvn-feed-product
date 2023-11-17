@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "53513",
-  "pname": "Hero-CT060 ファームウェア",
-  "pcpe": "cpe:/o:huawei:hero-ct060_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "53513",
+	"pname": "Hero-CT060 ファームウェア",
+	"pcpe": "cpe:/o:huawei:hero-ct060_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14195",
-  "vname": "mysqljs",
-  "vcpe": "cpe:/:mysqljs",
-  "pid": "33846",
-  "pname": "mysql node モジュール",
-  "pcpe": "cpe:/a:mysqljs:mysql_node_module"
+	"vid": "14195",
+	"vname": "mysqljs",
+	"vcpe": "cpe:/:mysqljs",
+	"pid": "33846",
+	"pname": "mysql node モジュール",
+	"pcpe": "cpe:/a:mysqljs:mysql_node_module"
 }

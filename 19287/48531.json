@@ -1,8 +1,8 @@
 {
-  "vid": "19287",
-  "vname": "Okta, Inc.",
-  "vcpe": "cpe:/:okta",
-  "pid": "48531",
-  "pname": "Okta Access Gateway",
-  "pcpe": "cpe:/a:okta:access_gateway"
+	"vid": "19287",
+	"vname": "Okta, Inc.",
+	"vcpe": "cpe:/:okta",
+	"pid": "48531",
+	"pname": "Okta Access Gateway",
+	"pcpe": "cpe:/a:okta:access_gateway"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16572",
-  "vname": "Cohesity",
-  "vcpe": "cpe:/:cohesity",
-  "pid": "51857",
-  "pname": "Linux agent",
-  "pcpe": "cpe:/a:cohesity:linux_agent"
+	"vid": "16572",
+	"vname": "Cohesity",
+	"vcpe": "cpe:/:cohesity",
+	"pid": "51857",
+	"pname": "Linux agent",
+	"pcpe": "cpe:/a:cohesity:linux_agent"
 }

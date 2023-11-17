@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "33532",
-  "pname": "MaxDB ODBC ドライバ",
-  "pcpe": "cpe:/a:sap:maxdb_odbc_driver"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "33532",
+	"pname": "MaxDB ODBC ドライバ",
+	"pcpe": "cpe:/a:sap:maxdb_odbc_driver"
 }

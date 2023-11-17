@@ -1,8 +1,8 @@
 {
-  "vid": "782",
-  "vname": "Canyon",
-  "vcpe": "cpe:/:canyon-tech",
-  "pid": "3134",
-  "pname": "CN-WF514 Router Firmware",
-  "pcpe": "cpe:/a:canyon-tech:cn-wf514_router_firmware"
+	"vid": "782",
+	"vname": "Canyon",
+	"vcpe": "cpe:/:canyon-tech",
+	"pid": "3134",
+	"pname": "CN-WF514 Router Firmware",
+	"pcpe": "cpe:/a:canyon-tech:cn-wf514_router_firmware"
 }

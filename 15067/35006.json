@@ -1,8 +1,8 @@
 {
-  "vid": "15067",
-  "vname": "SECoin project",
-  "vcpe": "cpe:/:secoin_project",
-  "pid": "35006",
-  "pname": "SECoin",
-  "pcpe": "cpe:/a:secoin_project:secoin"
+	"vid": "15067",
+	"vname": "SECoin project",
+	"vcpe": "cpe:/:secoin_project",
+	"pid": "35006",
+	"pname": "SECoin",
+	"pcpe": "cpe:/a:secoin_project:secoin"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24101",
-  "vname": "fishbowlinventory",
-  "vcpe": "cpe:/:fishbowlinventory",
-  "pid": "62334",
-  "pname": "fishbowl",
-  "pcpe": "cpe:/a:fishbowlinventory:fishbowl"
+	"vid": "24101",
+	"vname": "fishbowlinventory",
+	"vcpe": "cpe:/:fishbowlinventory",
+	"pid": "62334",
+	"pname": "fishbowl",
+	"pcpe": "cpe:/a:fishbowlinventory:fishbowl"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "98",
-  "vname": "サイボウズ",
-  "vcpe": "cpe:/:cybozu",
-  "pid": "255",
-  "pname": "サイボウズ AG ポケット",
-  "pcpe": "cpe:/a:cybozu:ag_pocket"
+	"vid": "98",
+	"vname": "サイボウズ",
+	"vcpe": "cpe:/:cybozu",
+	"pid": "255",
+	"pname": "サイボウズ AG ポケット",
+	"pcpe": "cpe:/a:cybozu:ag_pocket"
 }

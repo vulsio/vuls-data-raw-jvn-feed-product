@@ -1,8 +1,8 @@
 {
-  "vid": "16684",
-  "vname": "Alcatel-Lucent Enterprise",
-  "vcpe": "cpe:/:al-enterprise",
-  "pid": "39743",
-  "pname": "8008 Cloud Edition DeskPhone ファームウェア",
-  "pcpe": "cpe:/o:al-enterprise:8008_firmware"
+	"vid": "16684",
+	"vname": "Alcatel-Lucent Enterprise",
+	"vcpe": "cpe:/:al-enterprise",
+	"pid": "39743",
+	"pname": "8008 Cloud Edition DeskPhone ファームウェア",
+	"pcpe": "cpe:/o:al-enterprise:8008_firmware"
 }

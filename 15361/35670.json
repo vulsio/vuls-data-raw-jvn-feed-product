@@ -1,8 +1,8 @@
 {
-  "vid": "15361",
-  "vname": "DistinctDev, Inc.",
-  "vcpe": "cpe:/:distinctdev",
-  "pid": "35670",
-  "pname": "The Moron Test",
-  "pcpe": "cpe:/a:distinctdev:the_moron_test"
+	"vid": "15361",
+	"vname": "DistinctDev, Inc.",
+	"vcpe": "cpe:/:distinctdev",
+	"pid": "35670",
+	"pname": "The Moron Test",
+	"pcpe": "cpe:/a:distinctdev:the_moron_test"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19557",
-  "vname": "Sound Research Corporation",
-  "vcpe": "cpe:/:soundresearch",
-  "pid": "49282",
-  "pname": "Sound Research DCHU モデルソフトウェアコンポーネントモジュール",
-  "pcpe": "cpe:/a:soundresearch:dchu_model_software_component_modules"
+	"vid": "19557",
+	"vname": "Sound Research Corporation",
+	"vcpe": "cpe:/:soundresearch",
+	"pid": "49282",
+	"pname": "Sound Research DCHU モデルソフトウェアコンポーネントモジュール",
+	"pcpe": "cpe:/a:soundresearch:dchu_model_software_component_modules"
 }

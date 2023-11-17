@@ -1,8 +1,8 @@
 {
-  "vid": "8597",
-  "vname": "xapian",
-  "vcpe": "cpe:/:xapian",
-  "pid": "34918",
-  "pname": "xapian-core",
-  "pcpe": "cpe:/a:xapian:xapian-core"
+	"vid": "8597",
+	"vname": "xapian",
+	"vcpe": "cpe:/:xapian",
+	"pid": "34918",
+	"pname": "xapian-core",
+	"pcpe": "cpe:/a:xapian:xapian-core"
 }

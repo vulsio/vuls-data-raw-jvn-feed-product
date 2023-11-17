@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "2084",
-  "pname": "Symantec Veritas File System",
-  "pcpe": "cpe:/a:symantec:veritas_file_system"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "2084",
+	"pname": "Symantec Veritas File System",
+	"pcpe": "cpe:/a:symantec:veritas_file_system"
 }

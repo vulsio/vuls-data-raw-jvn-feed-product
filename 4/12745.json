@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12745",
-  "pname": "color laserjet cp4005n",
-  "pcpe": "cpe:/h:hp:color_laserjet_cp4005n"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12745",
+	"pname": "color laserjet cp4005n",
+	"pcpe": "cpe:/h:hp:color_laserjet_cp4005n"
 }

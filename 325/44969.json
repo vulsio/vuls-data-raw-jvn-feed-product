@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "44969",
-  "pname": "LJ4010DN ファームウェア",
-  "pcpe": "cpe:/o:lenovo:lj4010dn_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "44969",
+	"pname": "LJ4010DN ファームウェア",
+	"pcpe": "cpe:/o:lenovo:lj4010dn_firmware"
 }

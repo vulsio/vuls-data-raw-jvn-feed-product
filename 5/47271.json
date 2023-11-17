@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47271",
-  "pname": "PM439 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:pm439_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47271",
+	"pname": "PM439 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:pm439_firmware"
 }

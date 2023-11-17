@@ -1,8 +1,8 @@
 {
-  "vid": "12031",
-  "vname": "Adcon Telemetry",
-  "vcpe": "cpe:/:adcon",
-  "pid": "25248",
-  "pname": "A840 Telemetry Gateway ファームウェア",
-  "pcpe": "cpe:/o:adcon:a840_telemetry_gateway_base_station_firmware"
+	"vid": "12031",
+	"vname": "Adcon Telemetry",
+	"vcpe": "cpe:/:adcon",
+	"pid": "25248",
+	"pname": "A840 Telemetry Gateway ファームウェア",
+	"pcpe": "cpe:/o:adcon:a840_telemetry_gateway_base_station_firmware"
 }

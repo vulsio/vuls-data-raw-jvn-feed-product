@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "35352",
-  "pname": "DIGSI 5",
-  "pcpe": "cpe:/o:siemens:digsi_5"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "35352",
+	"pname": "DIGSI 5",
+	"pcpe": "cpe:/o:siemens:digsi_5"
 }

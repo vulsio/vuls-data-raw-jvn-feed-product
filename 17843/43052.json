@@ -1,8 +1,8 @@
 {
-  "vid": "17843",
-  "vname": "CPAN",
-  "vcpe": "cpe:/:cpan",
-  "pid": "43052",
-  "pname": "Batch::BatchRun",
-  "pcpe": "cpe:/a:cpan:batch%3a%3abatchrun"
+	"vid": "17843",
+	"vname": "CPAN",
+	"vcpe": "cpe:/:cpan",
+	"pid": "43052",
+	"pname": "Batch::BatchRun",
+	"pcpe": "cpe:/a:cpan:batch%3a%3abatchrun"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "26060",
-  "pname": "AireOS",
-  "pcpe": "cpe:/o:cisco:aireos"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "26060",
+	"pname": "AireOS",
+	"pcpe": "cpe:/o:cisco:aireos"
 }

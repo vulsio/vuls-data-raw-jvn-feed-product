@@ -1,8 +1,8 @@
 {
-  "vid": "11564",
-  "vname": "UNIT4",
-  "vcpe": "cpe:/:unit4",
-  "pid": "23583",
-  "pname": "Prosoft HRMS",
-  "pcpe": "cpe:/a:unit4:prosoft_hrms"
+	"vid": "11564",
+	"vname": "UNIT4",
+	"vcpe": "cpe:/:unit4",
+	"pid": "23583",
+	"pname": "Prosoft HRMS",
+	"pcpe": "cpe:/a:unit4:prosoft_hrms"
 }

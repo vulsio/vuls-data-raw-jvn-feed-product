@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "1700",
-  "pname": "Cisco Mobility Manager",
-  "pcpe": "cpe:/a:cisco:mobility_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "1700",
+	"pname": "Cisco Mobility Manager",
+	"pcpe": "cpe:/a:cisco:mobility_manager"
 }

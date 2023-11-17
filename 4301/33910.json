@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "33910",
-  "pname": "Echo Dot ファームウェア",
-  "pcpe": "cpe:/o:amazon:echo_dot_firmware"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "33910",
+	"pname": "Echo Dot ファームウェア",
+	"pcpe": "cpe:/o:amazon:echo_dot_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "17940",
-  "pname": "Juniper MAG6610 Gateway",
-  "pcpe": "cpe:/h:juniper:mag6610_gateway"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "17940",
+	"pname": "Juniper MAG6610 Gateway",
+	"pcpe": "cpe:/h:juniper:mag6610_gateway"
 }

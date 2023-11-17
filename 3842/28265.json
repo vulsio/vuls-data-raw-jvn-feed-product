@@ -1,8 +1,8 @@
 {
-  "vid": "3842",
-  "vname": "FTPShell",
-  "vcpe": "cpe:/:ftpshell",
-  "pid": "28265",
-  "pname": "FTPShell Client",
-  "pcpe": "cpe:/a:ftpshell:ftpshell_client"
+	"vid": "3842",
+	"vname": "FTPShell",
+	"vcpe": "cpe:/:ftpshell",
+	"pid": "28265",
+	"pname": "FTPShell Client",
+	"pcpe": "cpe:/a:ftpshell:ftpshell_client"
 }

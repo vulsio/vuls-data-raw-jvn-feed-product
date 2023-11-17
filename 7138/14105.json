@@ -1,8 +1,8 @@
 {
-  "vid": "7138",
-  "vname": "publicwarehouse",
-  "vcpe": "cpe:/:publicwarehouse",
-  "pid": "14105",
-  "pname": "lightblog",
-  "pcpe": "cpe:/a:publicwarehouse:lightblog"
+	"vid": "7138",
+	"vname": "publicwarehouse",
+	"vcpe": "cpe:/:publicwarehouse",
+	"pid": "14105",
+	"pname": "lightblog",
+	"pcpe": "cpe:/a:publicwarehouse:lightblog"
 }

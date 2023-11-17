@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "4746",
-  "pname": "Red Hat Enterprise Virtualization Hypervisor",
-  "pcpe": "cpe:/a:redhat:enterprise_virtualization_hypervisor"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "4746",
+	"pname": "Red Hat Enterprise Virtualization Hypervisor",
+	"pcpe": "cpe:/a:redhat:enterprise_virtualization_hypervisor"
 }

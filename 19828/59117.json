@@ -1,8 +1,8 @@
 {
-  "vid": "19828",
-  "vname": "Hitachi Energy",
-  "vcpe": "cpe:/:hitachienergy",
-  "pid": "59117",
-  "pname": "rtu500 ファームウェア",
-  "pcpe": "cpe:/o:hitachienergy:rtu500_firmware"
+	"vid": "19828",
+	"vname": "Hitachi Energy",
+	"vcpe": "cpe:/:hitachienergy",
+	"pid": "59117",
+	"pname": "rtu500 ファームウェア",
+	"pcpe": "cpe:/o:hitachienergy:rtu500_firmware"
 }

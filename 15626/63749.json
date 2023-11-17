@@ -1,8 +1,8 @@
 {
-  "vid": "15626",
-  "vname": "Verint Verba",
-  "vcpe": "cpe:/:verint",
-  "pid": "63749",
-  "pname": "desktop and process analytics",
-  "pcpe": "cpe:/a:verint:desktop_and_process_analytics"
+	"vid": "15626",
+	"vname": "Verint Verba",
+	"vcpe": "cpe:/:verint",
+	"pid": "63749",
+	"pname": "desktop and process analytics",
+	"pcpe": "cpe:/a:verint:desktop_and_process_analytics"
 }

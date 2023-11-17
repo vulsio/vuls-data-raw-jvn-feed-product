@@ -1,8 +1,8 @@
 {
-  "vid": "2415",
-  "vname": "アクシスコミュニケーションズ",
-  "vcpe": "cpe:/:axis",
-  "pid": "8765",
-  "pname": "2401 video server",
-  "pcpe": "cpe:/h:axis:2401_video_server"
+	"vid": "2415",
+	"vname": "アクシスコミュニケーションズ",
+	"vcpe": "cpe:/:axis",
+	"pid": "8765",
+	"pname": "2401 video server",
+	"pcpe": "cpe:/h:axis:2401_video_server"
 }

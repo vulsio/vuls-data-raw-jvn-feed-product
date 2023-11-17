@@ -1,8 +1,8 @@
 {
-  "vid": "16783",
-  "vname": "Brainstorm Force",
-  "vcpe": "cpe:/:brainstormforce",
-  "pid": "50403",
-  "pname": "Elementor Header & Footer Builder",
-  "pcpe": "cpe:/a:brainstormforce:elementor_-_header%2c_footer_%26_blocks_template"
+	"vid": "16783",
+	"vname": "Brainstorm Force",
+	"vcpe": "cpe:/:brainstormforce",
+	"pid": "50403",
+	"pname": "Elementor Header & Footer Builder",
+	"pcpe": "cpe:/a:brainstormforce:elementor_-_header%2c_footer_%26_blocks_template"
 }

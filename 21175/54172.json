@@ -1,8 +1,8 @@
 {
-  "vid": "21175",
-  "vname": "Binatone Global",
-  "vcpe": "cpe:/:binatoneglobal",
-  "pid": "54172",
-  "pname": "EASE44 ファームウェア",
-  "pcpe": "cpe:/o:binatoneglobal:ease44_firmware"
+	"vid": "21175",
+	"vname": "Binatone Global",
+	"vcpe": "cpe:/:binatoneglobal",
+	"pid": "54172",
+	"pname": "EASE44 ファームウェア",
+	"pcpe": "cpe:/o:binatoneglobal:ease44_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "45835",
-  "pname": "VMware GemFire",
-  "pcpe": "cpe:/a:vmware:gemfire"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "45835",
+	"pname": "VMware GemFire",
+	"pcpe": "cpe:/a:vmware:gemfire"
 }

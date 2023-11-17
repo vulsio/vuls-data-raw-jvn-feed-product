@@ -1,8 +1,8 @@
 {
-  "vid": "9762",
-  "vname": "Another Awesome Stuff",
-  "vcpe": "cpe:/:aas9",
-  "pid": "20329",
-  "pname": "ZeroCMS",
-  "pcpe": "cpe:/a:aas9:zerocms"
+	"vid": "9762",
+	"vname": "Another Awesome Stuff",
+	"vcpe": "cpe:/:aas9",
+	"pid": "20329",
+	"pname": "ZeroCMS",
+	"pcpe": "cpe:/a:aas9:zerocms"
 }

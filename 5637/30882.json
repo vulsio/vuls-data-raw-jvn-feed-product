@@ -1,8 +1,8 @@
 {
-  "vid": "5637",
-  "vname": "マイクロフォーカス株式会社",
-  "vcpe": "cpe:/:microfocus",
-  "pid": "30882",
-  "pname": "Bidirectional eDirectory Driver",
-  "pcpe": "cpe:/a:microfocus:bi-directional_driver"
+	"vid": "5637",
+	"vname": "マイクロフォーカス株式会社",
+	"vcpe": "cpe:/:microfocus",
+	"pid": "30882",
+	"pname": "Bidirectional eDirectory Driver",
+	"pcpe": "cpe:/a:microfocus:bi-directional_driver"
 }

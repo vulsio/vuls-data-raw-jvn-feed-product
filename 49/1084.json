@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "1084",
-  "pname": "GNU sharutils",
-  "pcpe": "cpe:/a:gnu:sharutils"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "1084",
+	"pname": "GNU sharutils",
+	"pcpe": "cpe:/a:gnu:sharutils"
 }

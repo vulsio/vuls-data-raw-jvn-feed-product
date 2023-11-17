@@ -1,8 +1,8 @@
 {
-  "vid": "6450",
-  "vname": "kingston",
-  "vcpe": "cpe:/:kingston",
-  "pid": "12869",
-  "pname": "datatraveler blackbox",
-  "pcpe": "cpe:/h:kingston:datatraveler_blackbox"
+	"vid": "6450",
+	"vname": "kingston",
+	"vcpe": "cpe:/:kingston",
+	"pid": "12869",
+	"pname": "datatraveler blackbox",
+	"pcpe": "cpe:/h:kingston:datatraveler_blackbox"
 }

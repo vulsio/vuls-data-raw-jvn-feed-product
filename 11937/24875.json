@@ -1,8 +1,8 @@
 {
-  "vid": "11937",
-  "vname": "Structured Dynamics LLC",
-  "vcpe": "cpe:/:structured_dynamics",
-  "pid": "24875",
-  "pname": "OSF for Drupal",
-  "pcpe": "cpe:/a:structured_dynamics:open_semantic_framework"
+	"vid": "11937",
+	"vname": "Structured Dynamics LLC",
+	"vcpe": "cpe:/:structured_dynamics",
+	"pid": "24875",
+	"pname": "OSF for Drupal",
+	"pcpe": "cpe:/a:structured_dynamics:open_semantic_framework"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "42939",
-  "pname": "Gear Sport ファームウェア",
-  "pcpe": "cpe:/o:samsung:gear_sport_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "42939",
+	"pname": "Gear Sport ファームウェア",
+	"pcpe": "cpe:/o:samsung:gear_sport_firmware"
 }

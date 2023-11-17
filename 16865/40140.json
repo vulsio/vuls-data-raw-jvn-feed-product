@@ -1,8 +1,8 @@
 {
-  "vid": "16865",
-  "vname": "libflate project",
-  "vcpe": "cpe:/:libflate_project",
-  "pid": "40140",
-  "pname": "libflate",
-  "pcpe": "cpe:/a:libflate_project:libflate"
+	"vid": "16865",
+	"vname": "libflate project",
+	"vcpe": "cpe:/:libflate_project",
+	"pid": "40140",
+	"pname": "libflate",
+	"pcpe": "cpe:/a:libflate_project:libflate"
 }

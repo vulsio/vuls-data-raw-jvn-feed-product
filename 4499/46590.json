@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "46590",
-  "pname": "MELFA ASSISTA",
-  "pcpe": "cpe:/o:mitsubishielectric:melfa_assista"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "46590",
+	"pname": "MELFA ASSISTA",
+	"pcpe": "cpe:/o:mitsubishielectric:melfa_assista"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "39840",
-  "pname": "Smoke Tests",
-  "pcpe": "cpe:/a:cloud_foundry:smoke_test"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "39840",
+	"pname": "Smoke Tests",
+	"pcpe": "cpe:/a:cloud_foundry:smoke_test"
 }

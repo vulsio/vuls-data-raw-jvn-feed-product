@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "7771",
-  "pname": "replistor",
-  "pcpe": "cpe:/a:emc:replistor"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "7771",
+	"pname": "replistor",
+	"pcpe": "cpe:/a:emc:replistor"
 }

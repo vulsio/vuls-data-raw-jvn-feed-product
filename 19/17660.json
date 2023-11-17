@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17660",
-  "pname": "Cisco Desktop Collaboration Experience",
-  "pcpe": "cpe:/a:cisco:desktop_collaboration_experience"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17660",
+	"pname": "Cisco Desktop Collaboration Experience",
+	"pcpe": "cpe:/a:cisco:desktop_collaboration_experience"
 }

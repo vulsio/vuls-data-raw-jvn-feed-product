@@ -1,8 +1,8 @@
 {
-  "vid": "9595",
-  "vname": "Kbd-project",
-  "vcpe": "cpe:/:kbd-project",
-  "pid": "19908",
-  "pname": "Kbd",
-  "pcpe": "cpe:/a:kbd-project:kbd"
+	"vid": "9595",
+	"vname": "Kbd-project",
+	"vcpe": "cpe:/:kbd-project",
+	"pid": "19908",
+	"pname": "Kbd",
+	"pcpe": "cpe:/a:kbd-project:kbd"
 }

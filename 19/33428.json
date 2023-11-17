@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "33428",
-  "pname": "Adaptive Security Virtual Appliance (ASAv)",
-  "pcpe": "cpe:/a:cisco:adaptive_security_virtual_appliance"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "33428",
+	"pname": "Adaptive Security Virtual Appliance (ASAv)",
+	"pcpe": "cpe:/a:cisco:adaptive_security_virtual_appliance"
 }

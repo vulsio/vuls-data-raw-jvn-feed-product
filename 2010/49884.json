@@ -1,8 +1,8 @@
 {
-  "vid": "2010",
-  "vname": "activecampaign",
-  "vcpe": "cpe:/:activecampaign",
-  "pid": "49884",
-  "pname": "ActiveCampaign",
-  "pcpe": "cpe:/a:activecampaign:activecampaign"
+	"vid": "2010",
+	"vname": "activecampaign",
+	"vcpe": "cpe:/:activecampaign",
+	"pid": "49884",
+	"pname": "ActiveCampaign",
+	"pcpe": "cpe:/a:activecampaign:activecampaign"
 }

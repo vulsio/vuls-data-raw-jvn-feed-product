@@ -1,8 +1,8 @@
 {
-  "vid": "5637",
-  "vname": "マイクロフォーカス株式会社",
-  "vcpe": "cpe:/:microfocus",
-  "pid": "27235",
-  "pname": "Host Access Management and Security Server",
-  "pcpe": "cpe:/a:microfocus:host_access_management_and_security_server"
+	"vid": "5637",
+	"vname": "マイクロフォーカス株式会社",
+	"vcpe": "cpe:/:microfocus",
+	"pid": "27235",
+	"pname": "Host Access Management and Security Server",
+	"pcpe": "cpe:/a:microfocus:host_access_management_and_security_server"
 }

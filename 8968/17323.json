@@ -1,8 +1,8 @@
 {
-  "vid": "8968",
-  "vname": "Infotecs",
-  "vcpe": "cpe:/:infotecs",
-  "pid": "17323",
-  "pname": "ViPNet SafeDisk",
-  "pcpe": "cpe:/a:infotecs:vipnet_safedisk"
+	"vid": "8968",
+	"vname": "Infotecs",
+	"vcpe": "cpe:/:infotecs",
+	"pid": "17323",
+	"pname": "ViPNet SafeDisk",
+	"pcpe": "cpe:/a:infotecs:vipnet_safedisk"
 }

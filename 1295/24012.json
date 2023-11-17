@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "24012",
-  "pname": "FortiManager ファームウェア",
-  "pcpe": "cpe:/o:fortinet:fortimanager_firmware"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "24012",
+	"pname": "FortiManager ファームウェア",
+	"pcpe": "cpe:/o:fortinet:fortimanager_firmware"
 }

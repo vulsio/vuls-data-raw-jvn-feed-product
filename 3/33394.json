@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "33394",
-  "pname": "Red Hat Virtualization",
-  "pcpe": "cpe:/a:redhat:virtualization"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "33394",
+	"pname": "Red Hat Virtualization",
+	"pcpe": "cpe:/a:redhat:virtualization"
 }

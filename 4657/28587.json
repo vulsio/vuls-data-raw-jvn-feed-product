@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28587",
-  "pname": "OceanStor 5600 V3 ファームウェア",
-  "pcpe": "cpe:/o:huawei:oceanstor_5600_v3_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28587",
+	"pname": "OceanStor 5600 V3 ファームウェア",
+	"pcpe": "cpe:/o:huawei:oceanstor_5600_v3_firmware"
 }

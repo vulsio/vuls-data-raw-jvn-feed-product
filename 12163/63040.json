@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "63040",
-  "pname": "extreme-feedback",
-  "pcpe": "cpe:/a:jenkins:extreme-feedback"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "63040",
+	"pname": "extreme-feedback",
+	"pcpe": "cpe:/a:jenkins:extreme-feedback"
 }

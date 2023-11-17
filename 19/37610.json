@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "37610",
-  "pname": "Cisco Network Assurance Engine",
-  "pcpe": "cpe:/a:cisco:network_assurance_engine"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "37610",
+	"pname": "Cisco Network Assurance Engine",
+	"pcpe": "cpe:/a:cisco:network_assurance_engine"
 }

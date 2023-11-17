@@ -1,8 +1,8 @@
 {
-  "vid": "568",
-  "vname": "Heartlogic",
-  "vcpe": "cpe:/:heartlogic",
-  "pid": "2318",
-  "pname": "HL-SiteManager",
-  "pcpe": "cpe:/a:heartlogic:hl-sitemanager"
+	"vid": "568",
+	"vname": "Heartlogic",
+	"vcpe": "cpe:/:heartlogic",
+	"pid": "2318",
+	"pname": "HL-SiteManager",
+	"pcpe": "cpe:/a:heartlogic:hl-sitemanager"
 }

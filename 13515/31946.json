@@ -1,8 +1,8 @@
 {
-  "vid": "13515",
-  "vname": "MT4 Technology",
-  "vcpe": "cpe:/:mt4",
-  "pid": "31946",
-  "pname": "SenhaSegura",
-  "pcpe": "cpe:/a:mt4:senhasegura"
+	"vid": "13515",
+	"vname": "MT4 Technology",
+	"vcpe": "cpe:/:mt4",
+	"pid": "31946",
+	"pname": "SenhaSegura",
+	"pcpe": "cpe:/a:mt4:senhasegura"
 }

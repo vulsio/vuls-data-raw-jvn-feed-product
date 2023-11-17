@@ -1,8 +1,8 @@
 {
-  "vid": "18427",
-  "vname": "Mobile Industrial Robots A/S",
-  "vcpe": "cpe:/:mobile-industrial-robots",
-  "pid": "45393",
-  "pname": "MiR100 ファームウェア",
-  "pcpe": "cpe:/o:mobile-industrial-robots:mir100_firmware"
+	"vid": "18427",
+	"vname": "Mobile Industrial Robots A/S",
+	"vcpe": "cpe:/:mobile-industrial-robots",
+	"pid": "45393",
+	"pname": "MiR100 ファームウェア",
+	"pcpe": "cpe:/o:mobile-industrial-robots:mir100_firmware"
 }

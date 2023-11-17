@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "28870",
-  "pname": "TL-SG108E ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-sg108e_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "28870",
+	"pname": "TL-SG108E ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-sg108e_firmware"
 }

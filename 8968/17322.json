@@ -1,8 +1,8 @@
 {
-  "vid": "8968",
-  "vname": "Infotecs",
-  "vcpe": "cpe:/:infotecs",
-  "pid": "17322",
-  "pname": "ViPNet Coordinator",
-  "pcpe": "cpe:/a:infotecs:vipnet_coordinator"
+	"vid": "8968",
+	"vname": "Infotecs",
+	"vcpe": "cpe:/:infotecs",
+	"pid": "17322",
+	"pname": "ViPNet Coordinator",
+	"pcpe": "cpe:/a:infotecs:vipnet_coordinator"
 }

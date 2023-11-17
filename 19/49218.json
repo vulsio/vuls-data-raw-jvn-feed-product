@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "49218",
-  "pname": "Cisco-Meraki MX64W ファームウェア",
-  "pcpe": "cpe:/o:cisco:meraki_mx64w_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "49218",
+	"pname": "Cisco-Meraki MX64W ファームウェア",
+	"pcpe": "cpe:/o:cisco:meraki_mx64w_firmware"
 }

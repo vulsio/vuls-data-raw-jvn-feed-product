@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "39240",
-  "pname": "UAG2100 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:uag2100_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "39240",
+	"pname": "UAG2100 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:uag2100_firmware"
 }

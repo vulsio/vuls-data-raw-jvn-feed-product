@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "37383",
-  "pname": "Aruba 300 Series Access Points ファームウェア",
-  "pcpe": "cpe:/o:arubanetworks:ap-300_series_access_points_firmware"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "37383",
+	"pname": "Aruba 300 Series Access Points ファームウェア",
+	"pcpe": "cpe:/o:arubanetworks:ap-300_series_access_points_firmware"
 }

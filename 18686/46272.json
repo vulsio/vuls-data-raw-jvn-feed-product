@@ -1,8 +1,8 @@
 {
-  "vid": "18686",
-  "vname": "FNET",
-  "vcpe": "cpe:/:misc",
-  "pid": "46272",
-  "pname": "FNET",
-  "pcpe": "cpe:/o:misc:fnet_fnet"
+	"vid": "18686",
+	"vname": "FNET",
+	"vcpe": "cpe:/:misc",
+	"pid": "46272",
+	"pname": "FNET",
+	"pcpe": "cpe:/o:misc:fnet_fnet"
 }

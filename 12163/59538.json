@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "59538",
-  "pname": "storage configs",
-  "pcpe": "cpe:/a:jenkins:storage_configs"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "59538",
+	"pname": "storage configs",
+	"pcpe": "cpe:/a:jenkins:storage_configs"
 }

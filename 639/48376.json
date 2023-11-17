@@ -1,8 +1,8 @@
 {
-  "vid": "639",
-  "vname": "富士フイルムビジネスイノベーション株式会社 (旧 富士ゼロックス株式会社)",
-  "vcpe": "cpe:/:fuji_xerox",
-  "pid": "48376",
-  "pname": "DocuCentre-VII C7773 ファームウェア",
-  "pcpe": "cpe:/o:fuji_xerox:docucentre-vii_c7773_firmware"
+	"vid": "639",
+	"vname": "富士フイルムビジネスイノベーション株式会社 (旧 富士ゼロックス株式会社)",
+	"vcpe": "cpe:/:fuji_xerox",
+	"pid": "48376",
+	"pname": "DocuCentre-VII C7773 ファームウェア",
+	"pcpe": "cpe:/o:fuji_xerox:docucentre-vii_c7773_firmware"
 }

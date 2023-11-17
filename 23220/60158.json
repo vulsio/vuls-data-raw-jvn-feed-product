@@ -1,8 +1,8 @@
 {
-  "vid": "23220",
-  "vname": "ssh.net project",
-  "vcpe": "cpe:/:ssh.net_project",
-  "pid": "60158",
-  "pname": "ssh.net",
-  "pcpe": "cpe:/a:ssh.net_project:ssh.net"
+	"vid": "23220",
+	"vname": "ssh.net project",
+	"vcpe": "cpe:/:ssh.net_project",
+	"pid": "60158",
+	"pname": "ssh.net",
+	"pcpe": "cpe:/a:ssh.net_project:ssh.net"
 }

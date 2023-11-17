@@ -1,8 +1,8 @@
 {
-  "vid": "269",
-  "vname": "RSAセキュリティ",
-  "vcpe": "cpe:/:rsa",
-  "pid": "17335",
-  "pname": "RSA Authentication API",
-  "pcpe": "cpe:/a:rsa:authentication_api"
+	"vid": "269",
+	"vname": "RSAセキュリティ",
+	"vcpe": "cpe:/:rsa",
+	"pid": "17335",
+	"pname": "RSA Authentication API",
+	"pcpe": "cpe:/a:rsa:authentication_api"
 }

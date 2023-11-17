@@ -1,8 +1,8 @@
 {
-  "vid": "590",
-  "vname": "freedesktop.org",
-  "vcpe": "cpe:/:freedesktop",
-  "pid": "8195",
-  "pname": "scratchbox2",
-  "pcpe": "cpe:/a:freedesktop:scratchbox2"
+	"vid": "590",
+	"vname": "freedesktop.org",
+	"vcpe": "cpe:/:freedesktop",
+	"pid": "8195",
+	"pname": "scratchbox2",
+	"pcpe": "cpe:/a:freedesktop:scratchbox2"
 }

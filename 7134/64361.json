@@ -1,8 +1,8 @@
 {
-  "vid": "7134",
-  "vname": "PTC Inc.",
-  "vcpe": "cpe:/:ptc",
-  "pid": "64361",
-  "pname": "thingworx kepware edge",
-  "pcpe": "cpe:/a:ptc:thingworx_kepware_edge"
+	"vid": "7134",
+	"vname": "PTC Inc.",
+	"vcpe": "cpe:/:ptc",
+	"pid": "64361",
+	"pname": "thingworx kepware edge",
+	"pcpe": "cpe:/a:ptc:thingworx_kepware_edge"
 }

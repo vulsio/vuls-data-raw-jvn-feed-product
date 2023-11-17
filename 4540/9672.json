@@ -1,8 +1,8 @@
 {
-  "vid": "4540",
-  "vname": "Caminova",
-  "vcpe": "cpe:/:caminova",
-  "pid": "9672",
-  "pname": "DjVu Browser Plug-in",
-  "pcpe": "cpe:/a:caminova:djvu_browser_plug-in"
+	"vid": "4540",
+	"vname": "Caminova",
+	"vcpe": "cpe:/:caminova",
+	"pid": "9672",
+	"pname": "DjVu Browser Plug-in",
+	"pcpe": "cpe:/a:caminova:djvu_browser_plug-in"
 }

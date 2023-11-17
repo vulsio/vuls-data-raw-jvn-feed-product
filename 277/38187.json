@@ -1,8 +1,8 @@
 {
-  "vid": "277",
-  "vname": "ソニー株式会社",
-  "vcpe": "cpe:/:sony",
-  "pid": "38187",
-  "pname": "Neural Network Libraries",
-  "pcpe": "cpe:/a:sony:neural_network_libraries"
+	"vid": "277",
+	"vname": "ソニー株式会社",
+	"vcpe": "cpe:/:sony",
+	"pid": "38187",
+	"pname": "Neural Network Libraries",
+	"pcpe": "cpe:/a:sony:neural_network_libraries"
 }

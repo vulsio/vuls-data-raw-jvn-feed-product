@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "47151",
-  "pname": "SNS 3515 K9 BIOS",
-  "pcpe": "cpe:/o:cisco:sns-3515-k9_bios"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "47151",
+	"pname": "SNS 3515 K9 BIOS",
+	"pcpe": "cpe:/o:cisco:sns-3515-k9_bios"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24",
-  "vname": "OpenSSL Project",
-  "vcpe": "cpe:/:openssl",
-  "pid": "12310",
-  "pname": "fips object module",
-  "pcpe": "cpe:/a:openssl:fips_object_module"
+	"vid": "24",
+	"vname": "OpenSSL Project",
+	"vcpe": "cpe:/:openssl",
+	"pid": "12310",
+	"pname": "fips object module",
+	"pcpe": "cpe:/a:openssl:fips_object_module"
 }

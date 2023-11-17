@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "45236",
-  "pname": "Latitude 5500 ファームウェア",
-  "pcpe": "cpe:/o:dell:latitude_5500_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "45236",
+	"pname": "Latitude 5500 ファームウェア",
+	"pcpe": "cpe:/o:dell:latitude_5500_firmware"
 }

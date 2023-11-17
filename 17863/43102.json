@@ -1,8 +1,8 @@
 {
-  "vid": "17863",
-  "vname": "MOTU",
-  "vcpe": "cpe:/:motu",
-  "pid": "43102",
-  "pname": "AVB ファームウェア",
-  "pcpe": "cpe:/o:motu:avb_firmware"
+	"vid": "17863",
+	"vname": "MOTU",
+	"vcpe": "cpe:/:motu",
+	"pid": "43102",
+	"pname": "AVB ファームウェア",
+	"pcpe": "cpe:/o:motu:avb_firmware"
 }

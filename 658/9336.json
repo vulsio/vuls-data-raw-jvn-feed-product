@@ -1,8 +1,8 @@
 {
-  "vid": "658",
-  "vname": "バラクーダネットワークス",
-  "vcpe": "cpe:/:barracuda_networks",
-  "pid": "9336",
-  "pname": "Barracuda Link Balancer Series Firmware",
-  "pcpe": "cpe:/o:barracuda_networks:barracuda_link_balancer_series_firmware"
+	"vid": "658",
+	"vname": "バラクーダネットワークス",
+	"vcpe": "cpe:/:barracuda_networks",
+	"pid": "9336",
+	"pname": "Barracuda Link Balancer Series Firmware",
+	"pcpe": "cpe:/o:barracuda_networks:barracuda_link_balancer_series_firmware"
 }

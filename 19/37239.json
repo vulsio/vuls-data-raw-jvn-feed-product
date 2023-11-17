@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "37239",
-  "pname": "Cisco Policy Suite for Mobile",
-  "pcpe": "cpe:/a:cisco:policy_suite_for_mobile"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "37239",
+	"pname": "Cisco Policy Suite for Mobile",
+	"pcpe": "cpe:/a:cisco:policy_suite_for_mobile"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12761",
-  "vname": "Note project",
-  "vcpe": "cpe:/:note_project",
-  "pid": "29343",
-  "pname": "Note",
-  "pcpe": "cpe:/a:note_project:note"
+	"vid": "12761",
+	"vname": "Note project",
+	"vcpe": "cpe:/:note_project",
+	"pid": "29343",
+	"pname": "Note",
+	"pcpe": "cpe:/a:note_project:note"
 }

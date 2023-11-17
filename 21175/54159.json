@@ -1,8 +1,8 @@
 {
-  "vid": "21175",
-  "vname": "Binatone Global",
-  "vcpe": "cpe:/:binatoneglobal",
-  "pid": "54159",
-  "pname": "Focus 68 ファームウェア",
-  "pcpe": "cpe:/o:binatoneglobal:focus_68_firmware"
+	"vid": "21175",
+	"vname": "Binatone Global",
+	"vcpe": "cpe:/:binatoneglobal",
+	"pid": "54159",
+	"pname": "Focus 68 ファームウェア",
+	"pcpe": "cpe:/o:binatoneglobal:focus_68_firmware"
 }

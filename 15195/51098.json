@@ -1,8 +1,8 @@
 {
-  "vid": "15195",
-  "vname": "sylabs",
-  "vcpe": "cpe:/:sylabs",
-  "pid": "51098",
-  "pname": "SingularityPRO",
-  "pcpe": "cpe:/a:sylabs:singularitypro"
+	"vid": "15195",
+	"vname": "sylabs",
+	"vcpe": "cpe:/:sylabs",
+	"pid": "51098",
+	"pname": "SingularityPRO",
+	"pcpe": "cpe:/a:sylabs:singularitypro"
 }

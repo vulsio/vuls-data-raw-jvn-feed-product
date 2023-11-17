@@ -1,8 +1,8 @@
 {
-  "vid": "17999",
-  "vname": "Talend",
-  "vcpe": "cpe:/:talend",
-  "pid": "61704",
-  "pname": "Remote Engine Gen 2",
-  "pcpe": "cpe:/a:talend:remote_engine_gen_2"
+	"vid": "17999",
+	"vname": "Talend",
+	"vcpe": "cpe:/:talend",
+	"pid": "61704",
+	"pname": "Remote Engine Gen 2",
+	"pcpe": "cpe:/a:talend:remote_engine_gen_2"
 }

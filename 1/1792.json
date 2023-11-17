@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "1792",
-  "pname": "Solstice Disk Suite",
-  "pcpe": "cpe:/a:sun:solstice_disksuite"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "1792",
+	"pname": "Solstice Disk Suite",
+	"pcpe": "cpe:/a:sun:solstice_disksuite"
 }

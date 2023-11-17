@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "32736",
-  "pname": "Hupa",
-  "pcpe": "cpe:/a:apache:hupa"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "32736",
+	"pname": "Hupa",
+	"pcpe": "cpe:/a:apache:hupa"
 }

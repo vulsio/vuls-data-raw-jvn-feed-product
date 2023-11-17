@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27288",
-  "pname": "ideapad 510S-12ISK",
-  "pcpe": "cpe:/h:lenovo:notebook_ideapad_510s_12isk"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27288",
+	"pname": "ideapad 510S-12ISK",
+	"pcpe": "cpe:/h:lenovo:notebook_ideapad_510s_12isk"
 }

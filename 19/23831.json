@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23831",
-  "pname": "Cisco Nexus 93128tx スイッチ",
-  "pcpe": "cpe:/h:cisco:nexus_93128tx"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23831",
+	"pname": "Cisco Nexus 93128tx スイッチ",
+	"pcpe": "cpe:/h:cisco:nexus_93128tx"
 }

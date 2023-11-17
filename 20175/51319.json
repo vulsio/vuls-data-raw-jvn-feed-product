@@ -1,8 +1,8 @@
 {
-  "vid": "20175",
-  "vname": "BinData project",
-  "vcpe": "cpe:/:bindata_project",
-  "pid": "51319",
-  "pname": "BinData",
-  "pcpe": "cpe:/a:bindata_project:bindata"
+	"vid": "20175",
+	"vname": "BinData project",
+	"vcpe": "cpe:/:bindata_project",
+	"pid": "51319",
+	"pname": "BinData",
+	"pcpe": "cpe:/a:bindata_project:bindata"
 }

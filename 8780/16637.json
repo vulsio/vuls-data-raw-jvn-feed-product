@@ -1,8 +1,8 @@
 {
-  "vid": "8780",
-  "vname": "sony ericsson",
-  "vcpe": "cpe:/:sony_ericsson",
-  "pid": "16637",
-  "pname": "w810i",
-  "pcpe": "cpe:/h:sony_ericsson:w810i"
+	"vid": "8780",
+	"vname": "sony ericsson",
+	"vcpe": "cpe:/:sony_ericsson",
+	"pid": "16637",
+	"pname": "w810i",
+	"pcpe": "cpe:/h:sony_ericsson:w810i"
 }

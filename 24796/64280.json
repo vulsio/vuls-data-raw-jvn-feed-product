@@ -1,8 +1,8 @@
 {
-  "vid": "24796",
-  "vname": "irontec",
-  "vcpe": "cpe:/:irontec",
-  "pid": "64280",
-  "pname": "klear-library",
-  "pcpe": "cpe:/a:irontec:klear-library"
+	"vid": "24796",
+	"vname": "irontec",
+	"vcpe": "cpe:/:irontec",
+	"pid": "64280",
+	"pname": "klear-library",
+	"pcpe": "cpe:/a:irontec:klear-library"
 }

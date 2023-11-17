@@ -1,8 +1,8 @@
 {
-  "vid": "18550",
-  "vname": "managedinstalls project",
-  "vcpe": "cpe:/:managedinstalls_project",
-  "pid": "45736",
-  "pname": "managedinstalls",
-  "pcpe": "cpe:/a:managedinstalls_project:managedinstalls"
+	"vid": "18550",
+	"vname": "managedinstalls project",
+	"vcpe": "cpe:/:managedinstalls_project",
+	"pid": "45736",
+	"pname": "managedinstalls",
+	"pcpe": "cpe:/a:managedinstalls_project:managedinstalls"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20628",
-  "vname": "Cozy Vision Technologies Pvt. Ltd.",
-  "vcpe": "cpe:/:cozyvision",
-  "pid": "52532",
-  "pname": "SMS Alert Order Notifications",
-  "pcpe": "cpe:/a:cozyvision:sms_alert_order_notifications"
+	"vid": "20628",
+	"vname": "Cozy Vision Technologies Pvt. Ltd.",
+	"vcpe": "cpe:/:cozyvision",
+	"pid": "52532",
+	"pname": "SMS Alert Order Notifications",
+	"pcpe": "cpe:/a:cozyvision:sms_alert_order_notifications"
 }

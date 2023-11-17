@@ -1,8 +1,8 @@
 {
-  "vid": "14696",
-  "vname": "parsejson project",
-  "vcpe": "cpe:/:parsejson_project",
-  "pid": "34429",
-  "pname": "parsejson",
-  "pcpe": "cpe:/a:parsejson_project:parsejson"
+	"vid": "14696",
+	"vname": "parsejson project",
+	"vcpe": "cpe:/:parsejson_project",
+	"pid": "34429",
+	"pname": "parsejson",
+	"pcpe": "cpe:/a:parsejson_project:parsejson"
 }

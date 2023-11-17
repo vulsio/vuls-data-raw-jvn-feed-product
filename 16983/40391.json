@@ -1,8 +1,8 @@
 {
-  "vid": "16983",
-  "vname": "WPBrigade",
-  "vcpe": "cpe:/:wpbrigade",
-  "pid": "40391",
-  "pname": "LoginPress",
-  "pcpe": "cpe:/a:wpbrigade:loginpress"
+	"vid": "16983",
+	"vname": "WPBrigade",
+	"vcpe": "cpe:/:wpbrigade",
+	"pid": "40391",
+	"pname": "LoginPress",
+	"pcpe": "cpe:/a:wpbrigade:loginpress"
 }

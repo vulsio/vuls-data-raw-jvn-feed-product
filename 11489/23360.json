@@ -1,8 +1,8 @@
 {
-  "vid": "11489",
-  "vname": "Illumos.org",
-  "vcpe": "cpe:/:illumos",
-  "pid": "23360",
-  "pname": "illumos",
-  "pcpe": "cpe:/a:illumos:illumos"
+	"vid": "11489",
+	"vname": "Illumos.org",
+	"vcpe": "cpe:/:illumos",
+	"pid": "23360",
+	"pname": "illumos",
+	"pcpe": "cpe:/a:illumos:illumos"
 }

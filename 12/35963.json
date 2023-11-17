@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "35963",
-  "pname": "Trend Micro OfficeScan XG",
-  "pcpe": "cpe:/a:trendmicro:officescan_xg"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "35963",
+	"pname": "Trend Micro OfficeScan XG",
+	"pcpe": "cpe:/a:trendmicro:officescan_xg"
 }

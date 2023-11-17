@@ -1,8 +1,8 @@
 {
-  "vid": "10248",
-  "vname": "OpenMRS",
-  "vcpe": "cpe:/:openmrs",
-  "pid": "55874",
-  "pname": "Appointment Scheduling Module",
-  "pcpe": "cpe:/a:openmrs:appointment_scheduling_module"
+	"vid": "10248",
+	"vname": "OpenMRS",
+	"vcpe": "cpe:/:openmrs",
+	"pid": "55874",
+	"pname": "Appointment Scheduling Module",
+	"pcpe": "cpe:/a:openmrs:appointment_scheduling_module"
 }

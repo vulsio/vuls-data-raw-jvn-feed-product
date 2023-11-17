@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "47888",
-  "pname": "Avaya WebLM",
-  "pcpe": "cpe:/a:avaya:weblm"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "47888",
+	"pname": "Avaya WebLM",
+	"pcpe": "cpe:/a:avaya:weblm"
 }

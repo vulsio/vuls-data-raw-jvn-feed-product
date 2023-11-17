@@ -1,8 +1,8 @@
 {
-  "vid": "14054",
-  "vname": "ビットパイ",
-  "vcpe": "cpe:/:bitpie",
-  "pid": "33494",
-  "pname": "ビットパイ 仮想通貨安全ウォレット",
-  "pcpe": "cpe:/a:bitpie:bitcoin_wallet"
+	"vid": "14054",
+	"vname": "ビットパイ",
+	"vcpe": "cpe:/:bitpie",
+	"pid": "33494",
+	"pname": "ビットパイ 仮想通貨安全ウォレット",
+	"pcpe": "cpe:/a:bitpie:bitcoin_wallet"
 }

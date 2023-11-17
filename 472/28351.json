@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "28351",
-  "pname": "Allen-Bradley MicroLogix 1400 1766-L32AWAA Series A",
-  "pcpe": "cpe:/a:rockwellautomation:1766-l32awaa_series_a"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "28351",
+	"pname": "Allen-Bradley MicroLogix 1400 1766-L32AWAA Series A",
+	"pcpe": "cpe:/a:rockwellautomation:1766-l32awaa_series_a"
 }

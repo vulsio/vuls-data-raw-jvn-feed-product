@@ -1,8 +1,8 @@
 {
-  "vid": "21705",
-  "vname": "hillstonenet",
-  "vcpe": "cpe:/:hillstonenet",
-  "pid": "55813",
-  "pname": "SG-6000-WV12 ファームウェア",
-  "pcpe": "cpe:/o:hillstonenet:sg-6000-wv12_firmware"
+	"vid": "21705",
+	"vname": "hillstonenet",
+	"vcpe": "cpe:/:hillstonenet",
+	"pid": "55813",
+	"pname": "SG-6000-WV12 ファームウェア",
+	"pcpe": "cpe:/o:hillstonenet:sg-6000-wv12_firmware"
 }

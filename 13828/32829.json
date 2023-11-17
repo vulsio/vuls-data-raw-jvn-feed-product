@@ -1,8 +1,8 @@
 {
-  "vid": "13828",
-  "vname": "Windows Optimization Master project",
-  "vcpe": "cpe:/:windows_optimization_master_project",
-  "pid": "32829",
-  "pname": "Windows Optimization Master",
-  "pcpe": "cpe:/a:windows_optimization_master_project:windows_optimization_master"
+	"vid": "13828",
+	"vname": "Windows Optimization Master project",
+	"vcpe": "cpe:/:windows_optimization_master_project",
+	"pid": "32829",
+	"pname": "Windows Optimization Master",
+	"pcpe": "cpe:/a:windows_optimization_master_project:windows_optimization_master"
 }

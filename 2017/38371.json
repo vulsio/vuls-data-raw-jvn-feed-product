@@ -1,8 +1,8 @@
 {
-  "vid": "2017",
-  "vname": "Activision Publishing",
-  "vcpe": "cpe:/:activision",
-  "pid": "38371",
-  "pname": "Call of Duty Modern Warfare 3",
-  "pcpe": "cpe:/a:activision:call_of_duty%3a_modern_warfare_3"
+	"vid": "2017",
+	"vname": "Activision Publishing",
+	"vcpe": "cpe:/:activision",
+	"pid": "38371",
+	"pname": "Call of Duty Modern Warfare 3",
+	"pcpe": "cpe:/a:activision:call_of_duty%3a_modern_warfare_3"
 }

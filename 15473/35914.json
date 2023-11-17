@@ -1,8 +1,8 @@
 {
-  "vid": "15473",
-  "vname": "古野電機株式会社",
-  "vcpe": "cpe:/:furuno",
-  "pid": "35914",
-  "pname": "FELCOM 500",
-  "pcpe": "cpe:/o:furuno:felcom_500_firmware"
+	"vid": "15473",
+	"vname": "古野電機株式会社",
+	"vcpe": "cpe:/:furuno",
+	"pid": "35914",
+	"pname": "FELCOM 500",
+	"pcpe": "cpe:/o:furuno:felcom_500_firmware"
 }

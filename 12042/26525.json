@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26525",
-  "pname": "HPE IMC UAM",
-  "pcpe": "cpe:/a:hp:intelligent_management_center_user_access_management"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26525",
+	"pname": "HPE IMC UAM",
+	"pcpe": "cpe:/a:hp:intelligent_management_center_user_access_management"
 }

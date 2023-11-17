@@ -1,8 +1,8 @@
 {
-  "vid": "269",
-  "vname": "RSAセキュリティ",
-  "vcpe": "cpe:/:rsa",
-  "pid": "4771",
-  "pname": "RSA Access Manager Agent",
-  "pcpe": "cpe:/a:rsa:access_manager_agent"
+	"vid": "269",
+	"vname": "RSAセキュリティ",
+	"vcpe": "cpe:/:rsa",
+	"pid": "4771",
+	"pname": "RSA Access Manager Agent",
+	"pcpe": "cpe:/a:rsa:access_manager_agent"
 }

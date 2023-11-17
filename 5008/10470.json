@@ -1,8 +1,8 @@
 {
-  "vid": "5008",
-  "vname": "johannes hass",
-  "vcpe": "cpe:/:johannes_hass",
-  "pid": "10470",
-  "pname": "gaestebuch module",
-  "pcpe": "cpe:/a:johannes_hass:gaestebuch_module"
+	"vid": "5008",
+	"vname": "johannes hass",
+	"vcpe": "cpe:/:johannes_hass",
+	"pid": "10470",
+	"pname": "gaestebuch module",
+	"pcpe": "cpe:/a:johannes_hass:gaestebuch_module"
 }

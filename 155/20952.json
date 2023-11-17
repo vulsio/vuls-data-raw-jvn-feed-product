@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "20952",
-  "pname": "McAfee Network Security Manager",
-  "pcpe": "cpe:/a:mcafee:network_security_manager"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "20952",
+	"pname": "McAfee Network Security Manager",
+	"pcpe": "cpe:/a:mcafee:network_security_manager"
 }

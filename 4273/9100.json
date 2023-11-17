@@ -1,8 +1,8 @@
 {
-  "vid": "4273",
-  "vname": "Boehm-Demers-Weiser",
-  "vcpe": "cpe:/:boehm-demers-weiser",
-  "pid": "9100",
-  "pname": "Boehm-Demers-Weiser Garbage Collector",
-  "pcpe": "cpe:/a:boehm-demers-weiser:garbage_collector"
+	"vid": "4273",
+	"vname": "Boehm-Demers-Weiser",
+	"vcpe": "cpe:/:boehm-demers-weiser",
+	"pid": "9100",
+	"pname": "Boehm-Demers-Weiser Garbage Collector",
+	"pcpe": "cpe:/a:boehm-demers-weiser:garbage_collector"
 }

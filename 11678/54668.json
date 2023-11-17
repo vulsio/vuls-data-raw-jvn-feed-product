@@ -1,8 +1,8 @@
 {
-  "vid": "11678",
-  "vname": "Goautodial",
-  "vcpe": "cpe:/:goautodial",
-  "pid": "54668",
-  "pname": "GOautodial API",
-  "pcpe": "cpe:/a:goautodial:goautodial_api"
+	"vid": "11678",
+	"vname": "Goautodial",
+	"vcpe": "cpe:/:goautodial",
+	"pid": "54668",
+	"pname": "GOautodial API",
+	"pcpe": "cpe:/a:goautodial:goautodial_api"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2045",
-  "vname": "adodb lite",
-  "vcpe": "cpe:/:adodb_lite",
-  "pid": "5553",
-  "pname": "adodb lite",
-  "pcpe": "cpe:/a:adodb_lite:adodb_lite"
+	"vid": "2045",
+	"vname": "adodb lite",
+	"vcpe": "cpe:/:adodb_lite",
+	"pid": "5553",
+	"pname": "adodb lite",
+	"pcpe": "cpe:/a:adodb_lite:adodb_lite"
 }

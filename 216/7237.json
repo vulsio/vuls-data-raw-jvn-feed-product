@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "7237",
-  "pname": "python-dns",
-  "pcpe": "cpe:/a:debian:python-dns"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "7237",
+	"pname": "python-dns",
+	"pcpe": "cpe:/a:debian:python-dns"
 }

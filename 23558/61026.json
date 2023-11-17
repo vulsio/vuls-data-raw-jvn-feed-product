@@ -1,8 +1,8 @@
 {
-  "vid": "23558",
-  "vname": "glftpd",
-  "vcpe": "cpe:/:glftpd",
-  "pid": "61026",
-  "pname": "glftpd",
-  "pcpe": "cpe:/a:glftpd:glftpd"
+	"vid": "23558",
+	"vname": "glftpd",
+	"vcpe": "cpe:/:glftpd",
+	"pid": "61026",
+	"pname": "glftpd",
+	"pcpe": "cpe:/a:glftpd:glftpd"
 }

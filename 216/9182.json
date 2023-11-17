@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "9182",
-  "pname": "Debian GNU/Linux",
-  "pcpe": "cpe:/o:debian:debian_linux"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "9182",
+	"pname": "Debian GNU/Linux",
+	"pcpe": "cpe:/o:debian:debian_linux"
 }

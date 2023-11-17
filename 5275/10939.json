@@ -1,8 +1,8 @@
 {
-  "vid": "5275",
-  "vname": "LEAD Technologies, Inc.",
-  "vcpe": "cpe:/:lead_technologies",
-  "pid": "10939",
-  "pname": "leadtools raster dialog file object",
-  "pcpe": "cpe:/a:lead_technologies:leadtools_raster_dialog_file_object"
+	"vid": "5275",
+	"vname": "LEAD Technologies, Inc.",
+	"vcpe": "cpe:/:lead_technologies",
+	"pid": "10939",
+	"pname": "leadtools raster dialog file object",
+	"pcpe": "cpe:/a:lead_technologies:leadtools_raster_dialog_file_object"
 }

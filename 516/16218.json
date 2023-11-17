@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "16218",
-  "pname": "math comment spam protection plugin",
-  "pcpe": "cpe:/a:wordpress:math_comment_spam_protection_plugin"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "16218",
+	"pname": "math comment spam protection plugin",
+	"pcpe": "cpe:/a:wordpress:math_comment_spam_protection_plugin"
 }

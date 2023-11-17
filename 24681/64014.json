@@ -1,8 +1,8 @@
 {
-  "vid": "24681",
-  "vname": "simple file downloader project",
-  "vcpe": "cpe:/:simple_file_downloader_project",
-  "pid": "64014",
-  "pname": "simple file downloader",
-  "pcpe": "cpe:/a:simple_file_downloader_project:simple_file_downloader"
+	"vid": "24681",
+	"vname": "simple file downloader project",
+	"vcpe": "cpe:/:simple_file_downloader_project",
+	"pid": "64014",
+	"pname": "simple file downloader",
+	"pcpe": "cpe:/a:simple_file_downloader_project:simple_file_downloader"
 }

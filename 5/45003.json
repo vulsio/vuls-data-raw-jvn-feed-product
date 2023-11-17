@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "45003",
-  "pname": "SA415M ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sa415m_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "45003",
+	"pname": "SA415M ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sa415m_firmware"
 }

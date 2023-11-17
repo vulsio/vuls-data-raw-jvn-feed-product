@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23602",
-  "pname": "Cisco C460-M1",
-  "pcpe": "cpe:/h:cisco:c460_m1"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23602",
+	"pname": "Cisco C460-M1",
+	"pcpe": "cpe:/h:cisco:c460_m1"
 }

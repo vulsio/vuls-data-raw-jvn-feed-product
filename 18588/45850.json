@@ -1,8 +1,8 @@
 {
-  "vid": "18588",
-  "vname": "Dp3t Backend Software Development Kit project",
-  "vcpe": "cpe:/:dp3t-backend-software_development_kit_project",
-  "pid": "45850",
-  "pname": "DP3T-Backend-SDK",
-  "pcpe": "cpe:/a:dp3t-backend-software_development_kit_project:dp3t-backend-software_development_kit"
+	"vid": "18588",
+	"vname": "Dp3t Backend Software Development Kit project",
+	"vcpe": "cpe:/:dp3t-backend-software_development_kit_project",
+	"pid": "45850",
+	"pname": "DP3T-Backend-SDK",
+	"pcpe": "cpe:/a:dp3t-backend-software_development_kit_project:dp3t-backend-software_development_kit"
 }

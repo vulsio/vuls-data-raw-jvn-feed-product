@@ -1,8 +1,8 @@
 {
-  "vid": "13206",
-  "vname": "Pure Storage, Inc.",
-  "vcpe": "cpe:/:purestorage",
-  "pid": "60868",
-  "pname": "purity//fb",
-  "pcpe": "cpe:/a:purestorage:purity%2F%2Ffb"
+	"vid": "13206",
+	"vname": "Pure Storage, Inc.",
+	"vcpe": "cpe:/:purestorage",
+	"pid": "60868",
+	"pname": "purity//fb",
+	"pcpe": "cpe:/a:purestorage:purity%2F%2Ffb"
 }

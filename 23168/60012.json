@@ -1,8 +1,8 @@
 {
-  "vid": "23168",
-  "vname": "gitsome project",
-  "vcpe": "cpe:/:gitsome_project",
-  "pid": "60012",
-  "pname": "gitsome",
-  "pcpe": "cpe:/a:gitsome_project:gitsome"
+	"vid": "23168",
+	"vname": "gitsome project",
+	"vcpe": "cpe:/:gitsome_project",
+	"pid": "60012",
+	"pname": "gitsome",
+	"pcpe": "cpe:/a:gitsome_project:gitsome"
 }

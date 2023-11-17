@@ -1,8 +1,8 @@
 {
-  "vid": "13165",
-  "vname": "Mirion Technologies",
-  "vcpe": "cpe:/:mirion_technologies",
-  "pid": "30720",
-  "pname": "Telepole II ファームウェア",
-  "pcpe": "cpe:/o:mirion_technologies:telepole_ii_firmware"
+	"vid": "13165",
+	"vname": "Mirion Technologies",
+	"vcpe": "cpe:/:mirion_technologies",
+	"pid": "30720",
+	"pname": "Telepole II ファームウェア",
+	"pcpe": "cpe:/o:mirion_technologies:telepole_ii_firmware"
 }

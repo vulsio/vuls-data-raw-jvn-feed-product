@@ -1,8 +1,8 @@
 {
-  "vid": "23239",
-  "vname": "badgeos",
-  "vcpe": "cpe:/:badgeos",
-  "pid": "63001",
-  "pname": "badgos",
-  "pcpe": "cpe:/a:badgeos:badgos"
+	"vid": "23239",
+	"vname": "badgeos",
+	"vcpe": "cpe:/:badgeos",
+	"pid": "63001",
+	"pname": "badgos",
+	"pcpe": "cpe:/a:badgeos:badgos"
 }

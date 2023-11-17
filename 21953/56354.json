@@ -1,8 +1,8 @@
 {
-  "vid": "21953",
-  "vname": "CapsAdmin",
-  "vcpe": "cpe:/:pac3_project",
-  "pid": "56354",
-  "pname": "PAC3",
-  "pcpe": "cpe:/a:pac3_project:pac3"
+	"vid": "21953",
+	"vname": "CapsAdmin",
+	"vcpe": "cpe:/:pac3_project",
+	"pid": "56354",
+	"pname": "PAC3",
+	"pcpe": "cpe:/a:pac3_project:pac3"
 }

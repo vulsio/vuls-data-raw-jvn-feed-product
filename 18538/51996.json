@@ -1,8 +1,8 @@
 {
-  "vid": "18538",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider-electric",
-  "pid": "51996",
-  "pname": "T200I ファームウェア",
-  "pcpe": "cpe:/o:schneider-electric:t200i_firmware"
+	"vid": "18538",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider-electric",
+	"pid": "51996",
+	"pname": "T200I ファームウェア",
+	"pcpe": "cpe:/o:schneider-electric:t200i_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16966",
-  "vname": "protobuf project",
-  "vcpe": "cpe:/:protobuf_project",
-  "pid": "40364",
-  "pname": "protobuf",
-  "pcpe": "cpe:/a:protobuf_project:protobuf"
+	"vid": "16966",
+	"vname": "protobuf project",
+	"vcpe": "cpe:/:protobuf_project",
+	"pid": "40364",
+	"pname": "protobuf",
+	"pcpe": "cpe:/a:protobuf_project:protobuf"
 }

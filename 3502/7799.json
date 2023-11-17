@@ -1,8 +1,8 @@
 {
-  "vid": "3502",
-  "vname": "Endian",
-  "vcpe": "cpe:/:endian",
-  "pid": "7799",
-  "pname": "Endian Firewall",
-  "pcpe": "cpe:/a:endian:firewall"
+	"vid": "3502",
+	"vname": "Endian",
+	"vcpe": "cpe:/:endian",
+	"pid": "7799",
+	"pname": "Endian Firewall",
+	"pcpe": "cpe:/a:endian:firewall"
 }

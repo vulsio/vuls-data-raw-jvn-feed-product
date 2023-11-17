@@ -1,8 +1,8 @@
 {
-  "vid": "14789",
-  "vname": "OpenWrt Project",
-  "vcpe": "cpe:/:openwrt",
-  "pid": "40255",
-  "pname": "libuci",
-  "pcpe": "cpe:/a:openwrt:libuci"
+	"vid": "14789",
+	"vname": "OpenWrt Project",
+	"vcpe": "cpe:/:openwrt",
+	"pid": "40255",
+	"pname": "libuci",
+	"pcpe": "cpe:/a:openwrt:libuci"
 }

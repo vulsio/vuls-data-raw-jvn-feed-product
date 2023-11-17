@@ -1,8 +1,8 @@
 {
-  "vid": "23356",
-  "vname": "inventree project",
-  "vcpe": "cpe:/:inventree_project",
-  "pid": "60565",
-  "pname": "inventree",
-  "pcpe": "cpe:/a:inventree_project:inventree"
+	"vid": "23356",
+	"vname": "inventree project",
+	"vcpe": "cpe:/:inventree_project",
+	"pid": "60565",
+	"pname": "inventree",
+	"pcpe": "cpe:/a:inventree_project:inventree"
 }

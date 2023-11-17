@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "47946",
-  "pname": "ISaGRAF Runtime",
-  "pcpe": "cpe:/a:rockwellautomation:isagraf_runtime"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "47946",
+	"pname": "ISaGRAF Runtime",
+	"pcpe": "cpe:/a:rockwellautomation:isagraf_runtime"
 }

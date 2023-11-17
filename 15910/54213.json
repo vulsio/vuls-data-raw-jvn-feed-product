@@ -1,8 +1,8 @@
 {
-  "vid": "15910",
-  "vname": "Open Design Alliance",
-  "vcpe": "cpe:/:opendesign",
-  "pid": "54213",
-  "pname": "ODA PRC SDK",
-  "pcpe": "cpe:/a:opendesign:oda_prc_software_development_kit"
+	"vid": "15910",
+	"vname": "Open Design Alliance",
+	"vcpe": "cpe:/:opendesign",
+	"pid": "54213",
+	"pname": "ODA PRC SDK",
+	"pcpe": "cpe:/a:opendesign:oda_prc_software_development_kit"
 }

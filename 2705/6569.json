@@ -1,8 +1,8 @@
 {
-  "vid": "2705",
-  "vname": "calogic",
-  "vcpe": "cpe:/:calogic",
-  "pid": "6569",
-  "pname": "calogic calendars",
-  "pcpe": "cpe:/a:calogic:calogic_calendars"
+	"vid": "2705",
+	"vname": "calogic",
+	"vcpe": "cpe:/:calogic",
+	"pid": "6569",
+	"pname": "calogic calendars",
+	"pcpe": "cpe:/a:calogic:calogic_calendars"
 }

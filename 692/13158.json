@@ -1,8 +1,8 @@
 {
-  "vid": "692",
-  "vname": "OpenFabrics Alliance",
-  "vcpe": "cpe:/:openfabrics",
-  "pid": "13158",
-  "pname": "librdmacm",
-  "pcpe": "cpe:/a:openfabrics:librdmacm"
+	"vid": "692",
+	"vname": "OpenFabrics Alliance",
+	"vcpe": "cpe:/:openfabrics",
+	"pid": "13158",
+	"pname": "librdmacm",
+	"pcpe": "cpe:/a:openfabrics:librdmacm"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "35134",
-  "pname": "Snapdragon_High_Med_2016 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:snapdragon_high_med_2016_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "35134",
+	"pname": "Snapdragon_High_Med_2016 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:snapdragon_high_med_2016_firmware"
 }

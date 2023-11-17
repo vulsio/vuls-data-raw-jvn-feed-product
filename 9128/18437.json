@@ -1,8 +1,8 @@
 {
-  "vid": "9128",
-  "vname": "Click2Sell",
-  "vcpe": "cpe:/:click2sell",
-  "pid": "18437",
-  "pname": "Click2Sell Suite",
-  "pcpe": "cpe:/a:click2sell:click2sell_suite_module"
+	"vid": "9128",
+	"vname": "Click2Sell",
+	"vcpe": "cpe:/:click2sell",
+	"pid": "18437",
+	"pname": "Click2Sell Suite",
+	"pcpe": "cpe:/a:click2sell:click2sell_suite_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "6664",
-  "vname": "Privatemsg Project",
-  "vcpe": "cpe:/:privatemsg_project",
-  "pid": "13368",
-  "pname": "Privatemsg",
-  "pcpe": "cpe:/a:privatemsg_project:privatemsg"
+	"vid": "6664",
+	"vname": "Privatemsg Project",
+	"vcpe": "cpe:/:privatemsg_project",
+	"pid": "13368",
+	"pname": "Privatemsg",
+	"pcpe": "cpe:/a:privatemsg_project:privatemsg"
 }

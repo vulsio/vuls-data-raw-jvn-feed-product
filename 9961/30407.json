@@ -1,8 +1,8 @@
 {
-  "vid": "9961",
-  "vname": "リバーベッドテクノロジー株式会社",
-  "vcpe": "cpe:/:riverbed",
-  "pid": "30407",
-  "pname": "OPNET App Response Xpert",
-  "pcpe": "cpe:/a:riverbed:opnet_app_response_xpert"
+	"vid": "9961",
+	"vname": "リバーベッドテクノロジー株式会社",
+	"vcpe": "cpe:/:riverbed",
+	"pid": "30407",
+	"pname": "OPNET App Response Xpert",
+	"pcpe": "cpe:/a:riverbed:opnet_app_response_xpert"
 }

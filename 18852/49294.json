@@ -1,8 +1,8 @@
 {
-  "vid": "18852",
-  "vname": "ピーアンドエフ",
-  "vcpe": "cpe:/:pepperl-fuchs",
-  "pid": "49294",
-  "pname": "IO-Link Master 4-PNIO ファームウェア",
-  "pcpe": "cpe:/o:pepperl-fuchs:io-link_master_4-pnio_firmware"
+	"vid": "18852",
+	"vname": "ピーアンドエフ",
+	"vcpe": "cpe:/:pepperl-fuchs",
+	"pid": "49294",
+	"pname": "IO-Link Master 4-PNIO ファームウェア",
+	"pcpe": "cpe:/o:pepperl-fuchs:io-link_master_4-pnio_firmware"
 }

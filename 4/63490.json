@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63490",
-  "pname": "HP EliteBook 835 G8 Notebook PC ファームウェア",
-  "pcpe": "cpe:/o:hp:elitebook_835_g8_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63490",
+	"pname": "HP EliteBook 835 G8 Notebook PC ファームウェア",
+	"pcpe": "cpe:/o:hp:elitebook_835_g8_firmware"
 }

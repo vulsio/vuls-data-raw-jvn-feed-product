@@ -1,8 +1,8 @@
 {
-  "vid": "505",
-  "vname": "Nortel Networks",
-  "vcpe": "cpe:/:nortel",
-  "pid": "12081",
-  "pname": "ip softphone 2050",
-  "pcpe": "cpe:/a:nortel:ip_softphone_2050"
+	"vid": "505",
+	"vname": "Nortel Networks",
+	"vcpe": "cpe:/:nortel",
+	"pid": "12081",
+	"pname": "ip softphone 2050",
+	"pcpe": "cpe:/a:nortel:ip_softphone_2050"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1006",
-  "vname": "Scripts bdr130",
-  "vcpe": "cpe:/:scripts.bdr130",
-  "pid": "3571",
-  "pname": "MailForm",
-  "pcpe": "cpe:/a:scripts.bdr130:mailform"
+	"vid": "1006",
+	"vname": "Scripts bdr130",
+	"vcpe": "cpe:/:scripts.bdr130",
+	"pid": "3571",
+	"pname": "MailForm",
+	"pcpe": "cpe:/a:scripts.bdr130:mailform"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18867",
-  "vname": "istio-operator project",
-  "vcpe": "cpe:/:istio-operator_project",
-  "pid": "47064",
-  "pname": "istio-operator",
-  "pcpe": "cpe:/a:istio-operator_project:istio-operator"
+	"vid": "18867",
+	"vname": "istio-operator project",
+	"vcpe": "cpe:/:istio-operator_project",
+	"pid": "47064",
+	"pname": "istio-operator",
+	"pcpe": "cpe:/a:istio-operator_project:istio-operator"
 }

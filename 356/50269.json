@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "50269",
-  "pname": "Google Cloud IoT Device SDK for Embedded C",
-  "pcpe": "cpe:/a:google:cloud_iot_device_sdk_for_embedded_c"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "50269",
+	"pname": "Google Cloud IoT Device SDK for Embedded C",
+	"pcpe": "cpe:/a:google:cloud_iot_device_sdk_for_embedded_c"
 }

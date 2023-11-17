@@ -1,8 +1,8 @@
 {
-  "vid": "751",
-  "vname": "Simple Machines",
-  "vcpe": "cpe:/:simple_machines",
-  "pid": "3028",
-  "pname": "Simple Machines Forum",
-  "pcpe": "cpe:/a:simple_machines:simple_machines_forum"
+	"vid": "751",
+	"vname": "Simple Machines",
+	"vcpe": "cpe:/:simple_machines",
+	"pid": "3028",
+	"pname": "Simple Machines Forum",
+	"pcpe": "cpe:/a:simple_machines:simple_machines_forum"
 }

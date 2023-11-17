@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "9797",
-  "pname": "osas/ft/w",
-  "pcpe": "cpe:/a:hitachi:osas%2Fft%2Fw"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "9797",
+	"pname": "osas/ft/w",
+	"pcpe": "cpe:/a:hitachi:osas%2Fft%2Fw"
 }

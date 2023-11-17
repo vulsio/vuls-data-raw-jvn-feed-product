@@ -1,8 +1,8 @@
 {
-  "vid": "12335",
-  "vname": "Terminology project",
-  "vcpe": "cpe:/:terminology_project",
-  "pid": "27761",
-  "pname": "Terminology",
-  "pcpe": "cpe:/a:terminology_project:terminology"
+	"vid": "12335",
+	"vname": "Terminology project",
+	"vcpe": "cpe:/:terminology_project",
+	"pid": "27761",
+	"pname": "Terminology",
+	"pcpe": "cpe:/a:terminology_project:terminology"
 }

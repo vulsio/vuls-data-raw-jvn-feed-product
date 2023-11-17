@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38450",
-  "pname": "Cisco UCS B480 M5 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ucs_b480_m5_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38450",
+	"pname": "Cisco UCS B480 M5 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ucs_b480_m5_firmware"
 }

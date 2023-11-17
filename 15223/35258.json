@@ -1,8 +1,8 @@
 {
-  "vid": "15223",
-  "vname": "Monetra",
-  "vcpe": "cpe:/:monetra",
-  "pid": "35258",
-  "pname": "mstdlib",
-  "pcpe": "cpe:/a:monetra:mstdlib"
+	"vid": "15223",
+	"vname": "Monetra",
+	"vcpe": "cpe:/:monetra",
+	"pid": "35258",
+	"pname": "mstdlib",
+	"pcpe": "cpe:/a:monetra:mstdlib"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12867",
-  "vname": "The Etherpad Foundation",
-  "vcpe": "cpe:/:etherpad",
-  "pid": "29679",
-  "pname": "Etherpad",
-  "pcpe": "cpe:/a:etherpad:etherpad"
+	"vid": "12867",
+	"vname": "The Etherpad Foundation",
+	"vcpe": "cpe:/:etherpad",
+	"pid": "29679",
+	"pname": "Etherpad",
+	"pcpe": "cpe:/a:etherpad:etherpad"
 }

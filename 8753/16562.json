@@ -1,8 +1,8 @@
 {
-  "vid": "8753",
-  "vname": "zonelabs",
-  "vcpe": "cpe:/:zonelabs",
-  "pid": "16562",
-  "pname": "zonealarm",
-  "pcpe": "cpe:/a:zonelabs:zonealarm"
+	"vid": "8753",
+	"vname": "zonelabs",
+	"vcpe": "cpe:/:zonelabs",
+	"pid": "16562",
+	"pname": "zonealarm",
+	"pcpe": "cpe:/a:zonelabs:zonealarm"
 }

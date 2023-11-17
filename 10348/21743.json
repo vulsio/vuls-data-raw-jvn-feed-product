@@ -1,8 +1,8 @@
 {
-  "vid": "10348",
-  "vname": "wpDataTables",
-  "vcpe": "cpe:/:wpdatatables",
-  "pid": "21743",
-  "pname": "wpDataTables",
-  "pcpe": "cpe:/a:wpdatatables:wpdata_tables"
+	"vid": "10348",
+	"vname": "wpDataTables",
+	"vcpe": "cpe:/:wpdatatables",
+	"pid": "21743",
+	"pname": "wpDataTables",
+	"pcpe": "cpe:/a:wpdatatables:wpdata_tables"
 }

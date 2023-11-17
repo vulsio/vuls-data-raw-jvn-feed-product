@@ -1,8 +1,8 @@
 {
-  "vid": "12860",
-  "vname": "Marel",
-  "vcpe": "cpe:/:marel",
-  "pid": "29635",
-  "pname": "A530 ファームウェア",
-  "pcpe": "cpe:/o:marel:a530_firmware"
+	"vid": "12860",
+	"vname": "Marel",
+	"vcpe": "cpe:/:marel",
+	"pid": "29635",
+	"pname": "A530 ファームウェア",
+	"pcpe": "cpe:/o:marel:a530_firmware"
 }

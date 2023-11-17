@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "61375",
-  "pname": "sicam gridedge essential intel",
-  "pcpe": "cpe:/a:siemens:sicam_gridedge_essential_intel"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "61375",
+	"pname": "sicam gridedge essential intel",
+	"pcpe": "cpe:/a:siemens:sicam_gridedge_essential_intel"
 }

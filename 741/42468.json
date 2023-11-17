@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "42468",
-  "pname": "DGS-1510-52 ファームウェア",
-  "pcpe": "cpe:/o:dlink:dgs-1510-52_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "42468",
+	"pname": "DGS-1510-52 ファームウェア",
+	"pcpe": "cpe:/o:dlink:dgs-1510-52_firmware"
 }

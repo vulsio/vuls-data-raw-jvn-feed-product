@@ -1,8 +1,8 @@
 {
-  "vid": "983",
-  "vname": "SafeNet, Inc",
-  "vcpe": "cpe:/:safenet-inc",
-  "pid": "8655",
-  "pname": "softremote vpn client",
-  "pcpe": "cpe:/a:safenet-inc:softremote_vpn_client"
+	"vid": "983",
+	"vname": "SafeNet, Inc",
+	"vcpe": "cpe:/:safenet-inc",
+	"pid": "8655",
+	"pname": "softremote vpn client",
+	"pcpe": "cpe:/a:safenet-inc:softremote_vpn_client"
 }

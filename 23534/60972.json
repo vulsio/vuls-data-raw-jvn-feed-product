@@ -1,8 +1,8 @@
 {
-  "vid": "23534",
-  "vname": "citeum",
-  "vcpe": "cpe:/:citeum",
-  "pid": "60972",
-  "pname": "opencti",
-  "pcpe": "cpe:/a:citeum:opencti"
+	"vid": "23534",
+	"vname": "citeum",
+	"vcpe": "cpe:/:citeum",
+	"pid": "60972",
+	"pname": "opencti",
+	"pcpe": "cpe:/a:citeum:opencti"
 }

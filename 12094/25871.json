@@ -1,8 +1,8 @@
 {
-  "vid": "12094",
-  "vname": "Granite Data Services",
-  "vcpe": "cpe:/:graniteds",
-  "pid": "25871",
-  "pname": "Granite Data Services",
-  "pcpe": "cpe:/a:graniteds:granite_data_services"
+	"vid": "12094",
+	"vname": "Granite Data Services",
+	"vcpe": "cpe:/:graniteds",
+	"pid": "25871",
+	"pname": "Granite Data Services",
+	"pcpe": "cpe:/a:graniteds:granite_data_services"
 }

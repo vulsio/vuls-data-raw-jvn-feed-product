@@ -1,8 +1,8 @@
 {
-  "vid": "10203",
-  "vname": "NetComm Wireless Limited.",
-  "vcpe": "cpe:/:netcommwireless",
-  "pid": "29934",
-  "pname": "4GT101W ソフトウェア",
-  "pcpe": "cpe:/a:netcommwireless:4gt101w_software"
+	"vid": "10203",
+	"vname": "NetComm Wireless Limited.",
+	"vcpe": "cpe:/:netcommwireless",
+	"pid": "29934",
+	"pname": "4GT101W ソフトウェア",
+	"pcpe": "cpe:/a:netcommwireless:4gt101w_software"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18064",
-  "vname": "Team Password Manager",
-  "vcpe": "cpe:/:teampasswordmanager",
-  "pid": "43903",
-  "pname": "Team Password Manager",
-  "pcpe": "cpe:/a:teampasswordmanager:team_password_manager"
+	"vid": "18064",
+	"vname": "Team Password Manager",
+	"vcpe": "cpe:/:teampasswordmanager",
+	"pid": "43903",
+	"pname": "Team Password Manager",
+	"pcpe": "cpe:/a:teampasswordmanager:team_password_manager"
 }

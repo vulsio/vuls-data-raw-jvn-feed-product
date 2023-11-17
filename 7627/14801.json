@@ -1,8 +1,8 @@
 {
-  "vid": "7627",
-  "vname": "SISCO",
-  "vcpe": "cpe:/:sisco",
-  "pid": "14801",
-  "pname": "AX-S4 MMS ファームウェア",
-  "pcpe": "cpe:/a:sisco:ax-s4_mms"
+	"vid": "7627",
+	"vname": "SISCO",
+	"vcpe": "cpe:/:sisco",
+	"pid": "14801",
+	"pname": "AX-S4 MMS ファームウェア",
+	"pcpe": "cpe:/a:sisco:ax-s4_mms"
 }

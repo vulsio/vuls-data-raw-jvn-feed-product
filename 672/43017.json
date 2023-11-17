@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "43017",
-  "pname": "ManageEngine Remote Access Plus",
-  "pcpe": "cpe:/a:zohocorp:manageengine_remote_access_plus"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "43017",
+	"pname": "ManageEngine Remote Access Plus",
+	"pcpe": "cpe:/a:zohocorp:manageengine_remote_access_plus"
 }

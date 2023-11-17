@@ -1,8 +1,8 @@
 {
-  "vid": "16648",
-  "vname": "min-http-server project",
-  "vcpe": "cpe:/:min-http-server_project",
-  "pid": "39671",
-  "pname": "min-http-server",
-  "pcpe": "cpe:/a:min-http-server_project:min-http-server"
+	"vid": "16648",
+	"vname": "min-http-server project",
+	"vcpe": "cpe:/:min-http-server_project",
+	"pid": "39671",
+	"pname": "min-http-server",
+	"pcpe": "cpe:/a:min-http-server_project:min-http-server"
 }

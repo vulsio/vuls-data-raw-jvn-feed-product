@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "36667",
-  "pname": "SCX-6545X ファームウェア",
-  "pcpe": "cpe:/o:samsung:scx-6545x_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "36667",
+	"pname": "SCX-6545X ファームウェア",
+	"pcpe": "cpe:/o:samsung:scx-6545x_firmware"
 }

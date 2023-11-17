@@ -1,8 +1,8 @@
 {
-  "vid": "13921",
-  "vname": "CoverCMS project",
-  "vcpe": "cpe:/:covercms_project",
-  "pid": "33095",
-  "pname": "CoverCMS",
-  "pcpe": "cpe:/a:covercms_project:covercms"
+	"vid": "13921",
+	"vname": "CoverCMS project",
+	"vcpe": "cpe:/:covercms_project",
+	"pid": "33095",
+	"pname": "CoverCMS",
+	"pcpe": "cpe:/a:covercms_project:covercms"
 }

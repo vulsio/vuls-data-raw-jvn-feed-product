@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "37000",
-  "pname": "Mark VIe ファームウェア",
-  "pcpe": "cpe:/o:ge:mark_vle_firmware"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "37000",
+	"pname": "Mark VIe ファームウェア",
+	"pcpe": "cpe:/o:ge:mark_vle_firmware"
 }

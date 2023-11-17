@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "43670",
-  "pname": "Zephyr for JIRA Test Management",
-  "pcpe": "cpe:/a:jenkins:zephyr_for_jira_test_management"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "43670",
+	"pname": "Zephyr for JIRA Test Management",
+	"pcpe": "cpe:/a:jenkins:zephyr_for_jira_test_management"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18429",
-  "vname": "UVD Robots",
-  "vcpe": "cpe:/:uvd-robots",
-  "pid": "45398",
-  "pname": "UVD ファームウェア",
-  "pcpe": "cpe:/o:uvd-robots:uvd_firmware"
+	"vid": "18429",
+	"vname": "UVD Robots",
+	"vcpe": "cpe:/:uvd-robots",
+	"pid": "45398",
+	"pname": "UVD ファームウェア",
+	"pcpe": "cpe:/o:uvd-robots:uvd_firmware"
 }

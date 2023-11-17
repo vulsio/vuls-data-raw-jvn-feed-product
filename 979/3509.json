@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "3509",
-  "pname": "FishEye",
-  "pcpe": "cpe:/a:atlassian:fisheye"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "3509",
+	"pname": "FishEye",
+	"pcpe": "cpe:/a:atlassian:fisheye"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "33210",
-  "pname": "QCA6174A ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:qca6174a_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "33210",
+	"pname": "QCA6174A ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:qca6174a_firmware"
 }

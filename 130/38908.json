@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "38908",
-  "pname": "OpenAttestation",
-  "pcpe": "cpe:/o:intel:openattestation"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "38908",
+	"pname": "OpenAttestation",
+	"pcpe": "cpe:/o:intel:openattestation"
 }

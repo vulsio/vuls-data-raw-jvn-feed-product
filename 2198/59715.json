@@ -1,8 +1,8 @@
 {
-  "vid": "2198",
-  "vname": "Advanced Micro Devices (AMD)",
-  "vcpe": "cpe:/:amd",
-  "pid": "59715",
-  "pname": "ryzen 3 5425u ファームウェア",
-  "pcpe": "cpe:/o:amd:ryzen_3_5425u_firmware"
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "59715",
+	"pname": "ryzen 3 5425u ファームウェア",
+	"pcpe": "cpe:/o:amd:ryzen_3_5425u_firmware"
 }

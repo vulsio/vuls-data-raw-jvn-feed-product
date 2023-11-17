@@ -1,8 +1,8 @@
 {
-  "vid": "17137",
-  "vname": "Elfsight",
-  "vcpe": "cpe:/:elfsight",
-  "pid": "40751",
-  "pname": "instalinker",
-  "pcpe": "cpe:/a:elfsight:instalinker"
+	"vid": "17137",
+	"vname": "Elfsight",
+	"vcpe": "cpe:/:elfsight",
+	"pid": "40751",
+	"pname": "instalinker",
+	"pcpe": "cpe:/a:elfsight:instalinker"
 }

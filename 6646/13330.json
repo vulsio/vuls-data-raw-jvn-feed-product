@@ -1,8 +1,8 @@
 {
-  "vid": "6646",
-  "vname": "Sinapsi",
-  "vcpe": "cpe:/:sinapsi",
-  "pid": "13330",
-  "pname": "firmware",
-  "pcpe": "cpe:/o:sinapsi:sinapsi_firmware"
+	"vid": "6646",
+	"vname": "Sinapsi",
+	"vcpe": "cpe:/:sinapsi",
+	"pid": "13330",
+	"pname": "firmware",
+	"pcpe": "cpe:/o:sinapsi:sinapsi_firmware"
 }

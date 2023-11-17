@@ -1,8 +1,8 @@
 {
-  "vid": "9745",
-  "vname": "Developer Express",
-  "vcpe": "cpe:/:devexpress",
-  "pid": "20287",
-  "pname": "DevExpress ASPxFileManager Control for WebForms and MVC",
-  "pcpe": "cpe:/a:devexpress:aspxfilemanager_control_for_webforms_and_mvc"
+	"vid": "9745",
+	"vname": "Developer Express",
+	"vcpe": "cpe:/:devexpress",
+	"pid": "20287",
+	"pname": "DevExpress ASPxFileManager Control for WebForms and MVC",
+	"pcpe": "cpe:/a:devexpress:aspxfilemanager_control_for_webforms_and_mvc"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "11247",
-  "pname": "ManageEngine OpUtils",
-  "pcpe": "cpe:/a:zohocorp:oputils"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "11247",
+	"pname": "ManageEngine OpUtils",
+	"pcpe": "cpe:/a:zohocorp:oputils"
 }

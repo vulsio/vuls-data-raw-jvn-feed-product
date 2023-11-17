@@ -1,8 +1,8 @@
 {
-  "vid": "10739",
-  "vname": "starkvilleelectric",
-  "vcpe": "cpe:/:starkvilleelectric",
-  "pid": "22264",
-  "pname": "sed account",
-  "pcpe": "cpe:/a:starkvilleelectric:sed_account"
+	"vid": "10739",
+	"vname": "starkvilleelectric",
+	"vcpe": "cpe:/:starkvilleelectric",
+	"pid": "22264",
+	"pname": "sed account",
+	"pcpe": "cpe:/a:starkvilleelectric:sed_account"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12640",
-  "vname": "WP eCommerce",
-  "vcpe": "cpe:/:wpecommerce",
-  "pid": "28877",
-  "pname": "Easy WP SMTP",
-  "pcpe": "cpe:/a:wpecommerce:easy_wp_smtp"
+	"vid": "12640",
+	"vname": "WP eCommerce",
+	"vcpe": "cpe:/:wpecommerce",
+	"pid": "28877",
+	"pname": "Easy WP SMTP",
+	"pcpe": "cpe:/a:wpecommerce:easy_wp_smtp"
 }

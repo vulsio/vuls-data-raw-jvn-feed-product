@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47822",
-  "pname": "Oracle Site Hub",
-  "pcpe": "cpe:/a:oracle:site_hub"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47822",
+	"pname": "Oracle Site Hub",
+	"pcpe": "cpe:/a:oracle:site_hub"
 }

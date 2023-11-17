@@ -1,8 +1,8 @@
 {
-  "vid": "577",
-  "vname": "コンソナ",
-  "vcpe": "cpe:/:consona",
-  "pid": "2384",
-  "pname": "Consona Intelligent Assistance Suite",
-  "pcpe": "cpe:/a:consona:consona_intelligent_assistance_suite"
+	"vid": "577",
+	"vname": "コンソナ",
+	"vcpe": "cpe:/:consona",
+	"pid": "2384",
+	"pname": "Consona Intelligent Assistance Suite",
+	"pcpe": "cpe:/a:consona:consona_intelligent_assistance_suite"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1030",
-  "vname": "CODESYS GmbH",
-  "vcpe": "cpe:/:codesys",
-  "pid": "52628",
-  "pname": "CODESYS Remote Target Visu Toolkit",
-  "pcpe": "cpe:/a:codesys:remote_target_visu_toolkit"
+	"vid": "1030",
+	"vname": "CODESYS GmbH",
+	"vcpe": "cpe:/:codesys",
+	"pid": "52628",
+	"pname": "CODESYS Remote Target Visu Toolkit",
+	"pcpe": "cpe:/a:codesys:remote_target_visu_toolkit"
 }

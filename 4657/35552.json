@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "35552",
-  "pname": "MediaPad M3 ファームウェア",
-  "pcpe": "cpe:/o:huawei:mediapad_m3_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "35552",
+	"pname": "MediaPad M3 ファームウェア",
+	"pcpe": "cpe:/o:huawei:mediapad_m3_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1304",
-  "vname": "カスペルスキー",
-  "vcpe": "cpe:/:kaspersky",
-  "pid": "10753",
-  "pname": "Kaspersky Internet Security 2009",
-  "pcpe": "cpe:/a:kaspersky:kaspersky_internet_security_2009"
+	"vid": "1304",
+	"vname": "カスペルスキー",
+	"vcpe": "cpe:/:kaspersky",
+	"pid": "10753",
+	"pname": "Kaspersky Internet Security 2009",
+	"pcpe": "cpe:/a:kaspersky:kaspersky_internet_security_2009"
 }

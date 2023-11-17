@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "892",
-  "pname": "Oracle Enterprise Manager",
-  "pcpe": "cpe:/a:oracle:enterprise_manager"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "892",
+	"pname": "Oracle Enterprise Manager",
+	"pcpe": "cpe:/a:oracle:enterprise_manager"
 }

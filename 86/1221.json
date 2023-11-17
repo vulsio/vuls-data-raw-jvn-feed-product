@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "1221",
-  "pname": "WZR-RS-G54 ファームウェア",
-  "pcpe": "cpe:/h:buffalo_inc:wzr-rs-g54_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "1221",
+	"pname": "WZR-RS-G54 ファームウェア",
+	"pcpe": "cpe:/h:buffalo_inc:wzr-rs-g54_firmware"
 }

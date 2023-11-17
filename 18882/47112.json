@@ -1,8 +1,8 @@
 {
-  "vid": "18882",
-  "vname": "trim project",
-  "vcpe": "cpe:/:trim_project",
-  "pid": "47112",
-  "pname": "trim",
-  "pcpe": "cpe:/a:trim_project:trim"
+	"vid": "18882",
+	"vname": "trim project",
+	"vcpe": "cpe:/:trim_project",
+	"pid": "47112",
+	"pname": "trim",
+	"pcpe": "cpe:/a:trim_project:trim"
 }

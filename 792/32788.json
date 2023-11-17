@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "32788",
-  "pname": "P-870H-51 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:p-870h-51_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "32788",
+	"pname": "P-870H-51 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:p-870h-51_firmware"
 }

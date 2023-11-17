@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "51720",
-  "pname": "SIMATIC Energy Manager PRO",
-  "pcpe": "cpe:/a:siemens:simatic_energy_manager_pro"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "51720",
+	"pname": "SIMATIC Energy Manager PRO",
+	"pcpe": "cpe:/a:siemens:simatic_energy_manager_pro"
 }

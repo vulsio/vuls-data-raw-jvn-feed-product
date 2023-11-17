@@ -1,8 +1,8 @@
 {
-  "vid": "2764",
-  "vname": "Centreon",
-  "vcpe": "cpe:/:centreon",
-  "pid": "44946",
-  "pname": "Centreon Host Monitoring Widget",
-  "pcpe": "cpe:/a:centreon:centreon_host-monitoring_widget"
+	"vid": "2764",
+	"vname": "Centreon",
+	"vcpe": "cpe:/:centreon",
+	"pid": "44946",
+	"pname": "Centreon Host Monitoring Widget",
+	"pcpe": "cpe:/a:centreon:centreon_host-monitoring_widget"
 }

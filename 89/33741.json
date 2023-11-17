@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "33741",
-  "pname": "Aterm HC100RC",
-  "pcpe": "cpe:/o:nec:aterm_hc100rc_firmware"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "33741",
+	"pname": "Aterm HC100RC",
+	"pcpe": "cpe:/o:nec:aterm_hc100rc_firmware"
 }

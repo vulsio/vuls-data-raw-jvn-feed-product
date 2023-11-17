@@ -1,8 +1,8 @@
 {
-  "vid": "2747",
-  "vname": "cdexos",
-  "vcpe": "cpe:/:cdexos",
-  "pid": "6620",
-  "pname": "cdex",
-  "pcpe": "cpe:/a:cdexos:cdex"
+	"vid": "2747",
+	"vname": "cdexos",
+	"vcpe": "cpe:/:cdexos",
+	"pid": "6620",
+	"pname": "cdex",
+	"pcpe": "cpe:/a:cdexos:cdex"
 }

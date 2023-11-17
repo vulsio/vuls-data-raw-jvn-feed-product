@@ -1,8 +1,8 @@
 {
-  "vid": "1295",
-  "vname": "フォーティネット",
-  "vcpe": "cpe:/:fortinet",
-  "pid": "18733",
-  "pname": "FortiAnalyzer ファームウェア",
-  "pcpe": "cpe:/o:fortinet:fortianalyzer_firmware"
+	"vid": "1295",
+	"vname": "フォーティネット",
+	"vcpe": "cpe:/:fortinet",
+	"pid": "18733",
+	"pname": "FortiAnalyzer ファームウェア",
+	"pcpe": "cpe:/o:fortinet:fortianalyzer_firmware"
 }

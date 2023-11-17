@@ -1,8 +1,8 @@
 {
-  "vid": "15358",
-  "vname": "libcgroup project",
-  "vcpe": "cpe:/:libcgroup_project",
-  "pid": "35667",
-  "pname": "libcgroup",
-  "pcpe": "cpe:/a:libcgroup_project:libcgroup"
+	"vid": "15358",
+	"vname": "libcgroup project",
+	"vcpe": "cpe:/:libcgroup_project",
+	"pid": "35667",
+	"pname": "libcgroup",
+	"pcpe": "cpe:/a:libcgroup_project:libcgroup"
 }

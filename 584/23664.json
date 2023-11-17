@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "23664",
-  "pname": "STARTER",
-  "pcpe": "cpe:/a:siemens:starter"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "23664",
+	"pname": "STARTER",
+	"pcpe": "cpe:/a:siemens:starter"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "36309",
-  "pname": "ThingsPro",
-  "pcpe": "cpe:/a:moxa:thingspro"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "36309",
+	"pname": "ThingsPro",
+	"pcpe": "cpe:/a:moxa:thingspro"
 }

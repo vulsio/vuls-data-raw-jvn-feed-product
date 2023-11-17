@@ -1,8 +1,8 @@
 {
-  "vid": "9773",
-  "vname": "Yealink",
-  "vcpe": "cpe:/:yealink",
-  "pid": "21102",
-  "pname": "Business HD IP DECT Phone W52P",
-  "pcpe": "cpe:/h:yealink:w52p"
+	"vid": "9773",
+	"vname": "Yealink",
+	"vcpe": "cpe:/:yealink",
+	"pid": "21102",
+	"pname": "Business HD IP DECT Phone W52P",
+	"pcpe": "cpe:/h:yealink:w52p"
 }

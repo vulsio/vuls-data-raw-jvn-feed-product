@@ -1,8 +1,8 @@
 {
-  "vid": "84",
-  "vname": "X.Org Foundation",
-  "vcpe": "cpe:/:x.org",
-  "pid": "35541",
-  "pname": "libXdmcp",
-  "pcpe": "cpe:/a:x.org:libxdmcp"
+	"vid": "84",
+	"vname": "X.Org Foundation",
+	"vcpe": "cpe:/:x.org",
+	"pid": "35541",
+	"pname": "libXdmcp",
+	"pcpe": "cpe:/a:x.org:libxdmcp"
 }

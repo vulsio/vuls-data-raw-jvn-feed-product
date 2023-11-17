@@ -1,8 +1,8 @@
 {
-  "vid": "1745",
-  "vname": "troglobit",
-  "vcpe": "cpe:/:troglobit",
-  "pid": "39720",
-  "pname": "SSDP responder",
-  "pcpe": "cpe:/a:troglobit:simple_service_discovery_protocol_responder"
+	"vid": "1745",
+	"vname": "troglobit",
+	"vcpe": "cpe:/:troglobit",
+	"pid": "39720",
+	"pname": "SSDP responder",
+	"pcpe": "cpe:/a:troglobit:simple_service_discovery_protocol_responder"
 }

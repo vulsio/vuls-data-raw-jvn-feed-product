@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52842",
-  "pname": "SD7C ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd7c_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52842",
+	"pname": "SD7C ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd7c_firmware"
 }

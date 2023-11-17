@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "48837",
-  "pname": "Apache Pulsar manager",
-  "pcpe": "cpe:/a:apache:pulsar_manager"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "48837",
+	"pname": "Apache Pulsar manager",
+	"pcpe": "cpe:/a:apache:pulsar_manager"
 }

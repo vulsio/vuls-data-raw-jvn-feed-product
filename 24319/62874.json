@@ -1,8 +1,8 @@
 {
-  "vid": "24319",
-  "vname": "oauthlib project",
-  "vcpe": "cpe:/:oauthlib_project",
-  "pid": "62874",
-  "pname": "oauthlib",
-  "pcpe": "cpe:/a:oauthlib_project:oauthlib"
+	"vid": "24319",
+	"vname": "oauthlib project",
+	"vcpe": "cpe:/:oauthlib_project",
+	"pid": "62874",
+	"pname": "oauthlib",
+	"pcpe": "cpe:/a:oauthlib_project:oauthlib"
 }

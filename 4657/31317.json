@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "31317",
-  "pname": "iManager NetEco",
-  "pcpe": "cpe:/a:huawei:neteco"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "31317",
+	"pname": "iManager NetEco",
+	"pcpe": "cpe:/a:huawei:neteco"
 }

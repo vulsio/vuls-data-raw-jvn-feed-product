@@ -1,8 +1,8 @@
 {
-  "vid": "9159",
-  "vname": "フィリップス",
-  "vcpe": "cpe:/:philips",
-  "pid": "34485",
-  "pname": "Avalon Fetal/Maternal Monitors FM20 ファームウェア",
-  "pcpe": "cpe:/o:philips:avalon_fetal%2fmaternal_monitors_fm20_firmware"
+	"vid": "9159",
+	"vname": "フィリップス",
+	"vcpe": "cpe:/:philips",
+	"pid": "34485",
+	"pname": "Avalon Fetal/Maternal Monitors FM20 ファームウェア",
+	"pcpe": "cpe:/o:philips:avalon_fetal%2fmaternal_monitors_fm20_firmware"
 }

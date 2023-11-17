@@ -1,8 +1,8 @@
 {
-  "vid": "12143",
-  "vname": "MEDHOST, Inc.",
-  "vcpe": "cpe:/:medhost",
-  "pid": "29919",
-  "pname": "MEDHOST Connex",
-  "pcpe": "cpe:/a:medhost:connex"
+	"vid": "12143",
+	"vname": "MEDHOST, Inc.",
+	"vcpe": "cpe:/:medhost",
+	"pid": "29919",
+	"pname": "MEDHOST Connex",
+	"pcpe": "cpe:/a:medhost:connex"
 }

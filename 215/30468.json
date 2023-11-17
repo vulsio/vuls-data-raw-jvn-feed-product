@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "30468",
-  "pname": "Unified Communications Software",
-  "pcpe": "cpe:/o:polycom:unified_communications_software"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "30468",
+	"pname": "Unified Communications Software",
+	"pcpe": "cpe:/o:polycom:unified_communications_software"
 }

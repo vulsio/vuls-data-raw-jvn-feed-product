@@ -1,8 +1,8 @@
 {
-  "vid": "13186",
-  "vname": "OpenHPI project",
-  "vcpe": "cpe:/:openhpi",
-  "pid": "30787",
-  "pname": "OpenHPI",
-  "pcpe": "cpe:/a:openhpi:openhpi"
+	"vid": "13186",
+	"vname": "OpenHPI project",
+	"vcpe": "cpe:/:openhpi",
+	"pid": "30787",
+	"pname": "OpenHPI",
+	"pcpe": "cpe:/a:openhpi:openhpi"
 }

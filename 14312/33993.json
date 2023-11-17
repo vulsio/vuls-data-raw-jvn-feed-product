@@ -1,8 +1,8 @@
 {
-  "vid": "14312",
-  "vname": "imageoptim project",
-  "vcpe": "cpe:/:imageoptim_project",
-  "pid": "33993",
-  "pname": "imageoptim",
-  "pcpe": "cpe:/a:imageoptim_project:imageoptim"
+	"vid": "14312",
+	"vname": "imageoptim project",
+	"vcpe": "cpe:/:imageoptim_project",
+	"pid": "33993",
+	"pname": "imageoptim",
+	"pcpe": "cpe:/a:imageoptim_project:imageoptim"
 }

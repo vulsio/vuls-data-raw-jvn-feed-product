@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "48315",
-  "pname": "Security Verify Information Queue",
-  "pcpe": "cpe:/a:ibm:security_verify_information_queue"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "48315",
+	"pname": "Security Verify Information Queue",
+	"pcpe": "cpe:/a:ibm:security_verify_information_queue"
 }

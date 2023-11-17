@@ -1,8 +1,8 @@
 {
-  "vid": "14135",
-  "vname": "Open Networking Foundation",
-  "vcpe": "cpe:/:opennetworking",
-  "pid": "35418",
-  "pname": "ONOS",
-  "pcpe": "cpe:/a:opennetworking:onos"
+	"vid": "14135",
+	"vname": "Open Networking Foundation",
+	"vcpe": "cpe:/:opennetworking",
+	"pid": "35418",
+	"pname": "ONOS",
+	"pcpe": "cpe:/a:opennetworking:onos"
 }

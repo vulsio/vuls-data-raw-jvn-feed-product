@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "40968",
-  "pname": "TIBCO MDM",
-  "pcpe": "cpe:/a:tibco:master_data_management"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "40968",
+	"pname": "TIBCO MDM",
+	"pcpe": "cpe:/a:tibco:master_data_management"
 }

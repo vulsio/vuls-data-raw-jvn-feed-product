@@ -1,8 +1,8 @@
 {
-  "vid": "19333",
-  "vname": "EGavilan Media",
-  "vcpe": "cpe:/:egavilanmedia",
-  "pid": "48696",
-  "pname": "Barcords Generator",
-  "pcpe": "cpe:/a:egavilanmedia:barcodes_generator"
+	"vid": "19333",
+	"vname": "EGavilan Media",
+	"vcpe": "cpe:/:egavilanmedia",
+	"pid": "48696",
+	"pname": "Barcords Generator",
+	"pcpe": "cpe:/a:egavilanmedia:barcodes_generator"
 }

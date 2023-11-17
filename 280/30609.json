@@ -1,8 +1,8 @@
 {
-  "vid": "280",
-  "vname": "Gentoo Linux",
-  "vcpe": "cpe:/:gentoo",
-  "pid": "30609",
-  "pname": "dev-python/flower",
-  "pcpe": "cpe:/a:gentoo:dev-python-flower"
+	"vid": "280",
+	"vname": "Gentoo Linux",
+	"vcpe": "cpe:/:gentoo",
+	"pid": "30609",
+	"pname": "dev-python/flower",
+	"pcpe": "cpe:/a:gentoo:dev-python-flower"
 }

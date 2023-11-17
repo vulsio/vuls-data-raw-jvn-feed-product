@@ -1,8 +1,8 @@
 {
-  "vid": "13107",
-  "vname": "Intelbras",
-  "vcpe": "cpe:/:intelbras",
-  "pid": "36258",
-  "pname": "NPLUG ファームウェア",
-  "pcpe": "cpe:/o:intelbras:nplug_firmware"
+	"vid": "13107",
+	"vname": "Intelbras",
+	"vcpe": "cpe:/:intelbras",
+	"pid": "36258",
+	"pname": "NPLUG ファームウェア",
+	"pcpe": "cpe:/o:intelbras:nplug_firmware"
 }

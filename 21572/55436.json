@@ -1,8 +1,8 @@
 {
-  "vid": "21572",
-  "vname": "Ray-Ban",
-  "vcpe": "cpe:/:ray-ban",
-  "pid": "55436",
-  "pname": "Stories RW4005 6563M3 51-20 ファームウェア",
-  "pcpe": "cpe:/o:ray-ban:stories_rw4005_6563m3_51-20_firmware"
+	"vid": "21572",
+	"vname": "Ray-Ban",
+	"vcpe": "cpe:/:ray-ban",
+	"pid": "55436",
+	"pname": "Stories RW4005 6563M3 51-20 ファームウェア",
+	"pcpe": "cpe:/o:ray-ban:stories_rw4005_6563m3_51-20_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "28946",
-  "pname": "Oracle Service Bus",
-  "pcpe": "cpe:/a:oracle:service_bus"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "28946",
+	"pname": "Oracle Service Bus",
+	"pcpe": "cpe:/a:oracle:service_bus"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9508",
-  "vname": "Tilde Inc.",
-  "vcpe": "cpe:/:emberjs",
-  "pid": "19600",
-  "pname": "Ember.js",
-  "pcpe": "cpe:/a:emberjs:ember.js"
+	"vid": "9508",
+	"vname": "Tilde Inc.",
+	"vcpe": "cpe:/:emberjs",
+	"pid": "19600",
+	"pname": "Ember.js",
+	"pcpe": "cpe:/a:emberjs:ember.js"
 }

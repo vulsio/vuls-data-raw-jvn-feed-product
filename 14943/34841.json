@@ -1,8 +1,8 @@
 {
-  "vid": "14943",
-  "vname": "Sollae Systems",
-  "vcpe": "cpe:/:eztcp",
-  "pid": "34841",
-  "pname": "CIE-H14 ファームウェア",
-  "pcpe": "cpe:/o:eztcp:cie-h14_firmware"
+	"vid": "14943",
+	"vname": "Sollae Systems",
+	"vcpe": "cpe:/:eztcp",
+	"pid": "34841",
+	"pname": "CIE-H14 ファームウェア",
+	"pcpe": "cpe:/o:eztcp:cie-h14_firmware"
 }

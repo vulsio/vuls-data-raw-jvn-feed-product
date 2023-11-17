@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "9097",
-  "pname": "Symantec Enterprise Vault",
-  "pcpe": "cpe:/a:symantec:enterprise_vault"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "9097",
+	"pname": "Symantec Enterprise Vault",
+	"pcpe": "cpe:/a:symantec:enterprise_vault"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16149",
-  "vname": "ColossusXT",
-  "vcpe": "cpe:/:colossusxt",
-  "pid": "37850",
-  "pname": "ColossusCoinXT",
-  "pcpe": "cpe:/a:colossusxt:colossuscoinxt"
+	"vid": "16149",
+	"vname": "ColossusXT",
+	"vcpe": "cpe:/:colossusxt",
+	"pid": "37850",
+	"pname": "ColossusCoinXT",
+	"pcpe": "cpe:/a:colossusxt:colossuscoinxt"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3290",
-  "vname": "dominion web",
-  "vcpe": "cpe:/:dominion_web",
-  "pid": "7424",
-  "pname": "dwdirectory",
-  "pcpe": "cpe:/a:dominion_web:dwdirectory"
+	"vid": "3290",
+	"vname": "dominion web",
+	"vcpe": "cpe:/:dominion_web",
+	"pid": "7424",
+	"pname": "dwdirectory",
+	"pcpe": "cpe:/a:dominion_web:dwdirectory"
 }

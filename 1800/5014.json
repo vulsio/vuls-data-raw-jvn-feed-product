@@ -1,8 +1,8 @@
 {
-  "vid": "1800",
-  "vname": "PrivaWall",
-  "vcpe": "cpe:/:privawall",
-  "pid": "5014",
-  "pname": "PrivaWall Antivirus",
-  "pcpe": "cpe:/a:privawall:privawall_antivirus"
+	"vid": "1800",
+	"vname": "PrivaWall",
+	"vcpe": "cpe:/:privawall",
+	"pid": "5014",
+	"pname": "PrivaWall Antivirus",
+	"pcpe": "cpe:/a:privawall:privawall_antivirus"
 }

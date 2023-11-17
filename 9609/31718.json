@@ -1,8 +1,8 @@
 {
-  "vid": "9609",
-  "vname": "npm, Inc.",
-  "vcpe": "cpe:/:npmjs",
-  "pid": "31718",
-  "pname": "marked",
-  "pcpe": "cpe:/a:npmjs:marked"
+	"vid": "9609",
+	"vname": "npm, Inc.",
+	"vcpe": "cpe:/:npmjs",
+	"pid": "31718",
+	"pname": "marked",
+	"pcpe": "cpe:/a:npmjs:marked"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4171",
-  "vname": "ARRIS Group",
-  "vcpe": "cpe:/:arris",
-  "pid": "36887",
-  "pname": "DG950A ファームウェア",
-  "pcpe": "cpe:/o:arris:dg950a_firmware"
+	"vid": "4171",
+	"vname": "ARRIS Group",
+	"vcpe": "cpe:/:arris",
+	"pid": "36887",
+	"pname": "DG950A ファームウェア",
+	"pcpe": "cpe:/o:arris:dg950a_firmware"
 }

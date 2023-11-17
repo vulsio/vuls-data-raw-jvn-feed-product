@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "20865",
-  "pname": "GNU Readline",
-  "pcpe": "cpe:/a:gnu:readline"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "20865",
+	"pname": "GNU Readline",
+	"pcpe": "cpe:/a:gnu:readline"
 }

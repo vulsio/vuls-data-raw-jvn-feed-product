@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26734",
-  "pname": "HPE Sizer for Microsoft SharePoint 2010",
-  "pcpe": "cpe:/a:hp:sizer_for_microsoft_sharepoint_2010"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26734",
+	"pname": "HPE Sizer for Microsoft SharePoint 2010",
+	"pcpe": "cpe:/a:hp:sizer_for_microsoft_sharepoint_2010"
 }

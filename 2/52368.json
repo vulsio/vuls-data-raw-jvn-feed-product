@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "52368",
-  "pname": "OneFuzz",
-  "pcpe": "cpe:/a:microsoft:onefuzz"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "52368",
+	"pname": "OneFuzz",
+	"pcpe": "cpe:/a:microsoft:onefuzz"
 }

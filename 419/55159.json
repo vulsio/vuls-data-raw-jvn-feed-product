@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "55159",
-  "pname": "FAS/AFF Baseboard Management Controller 8700",
-  "pcpe": "cpe:/a:netapp:fas%2faff_baseboard_management_controller_8700"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "55159",
+	"pname": "FAS/AFF Baseboard Management Controller 8700",
+	"pcpe": "cpe:/a:netapp:fas%2faff_baseboard_management_controller_8700"
 }

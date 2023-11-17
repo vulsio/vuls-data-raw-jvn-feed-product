@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "46069",
-  "pname": "Intel Server Board S2600BPBR ファームウェア",
-  "pcpe": "cpe:/o:intel:s2600bpbr_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "46069",
+	"pname": "Intel Server Board S2600BPBR ファームウェア",
+	"pcpe": "cpe:/o:intel:s2600bpbr_firmware"
 }

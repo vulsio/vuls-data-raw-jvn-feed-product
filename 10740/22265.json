@@ -1,8 +1,8 @@
 {
-  "vid": "10740",
-  "vname": "pegasus airlines project",
-  "vcpe": "cpe:/:pegasus_airlines_project",
-  "pid": "22265",
-  "pname": "pegasus airlines",
-  "pcpe": "cpe:/a:pegasus_airlines_project:pegasus_airlines"
+	"vid": "10740",
+	"vname": "pegasus airlines project",
+	"vcpe": "cpe:/:pegasus_airlines_project",
+	"pid": "22265",
+	"pname": "pegasus airlines",
+	"pcpe": "cpe:/a:pegasus_airlines_project:pegasus_airlines"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "20788",
-  "pname": "SIMATIC S7-1500 CPU",
-  "pcpe": "cpe:/h:siemens:simatic_s7-1500_cpu"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "20788",
+	"pname": "SIMATIC S7-1500 CPU",
+	"pcpe": "cpe:/h:siemens:simatic_s7-1500_cpu"
 }

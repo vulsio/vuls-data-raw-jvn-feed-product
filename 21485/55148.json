@@ -1,8 +1,8 @@
 {
-  "vid": "21485",
-  "vname": "GitHub Readme Stats project",
-  "vcpe": "cpe:/:github_readme_stats_project",
-  "pid": "55148",
-  "pname": "GitHub Readme Stats",
-  "pcpe": "cpe:/a:github_readme_stats_project:github_readme_stats"
+	"vid": "21485",
+	"vname": "GitHub Readme Stats project",
+	"vcpe": "cpe:/:github_readme_stats_project",
+	"pid": "55148",
+	"pname": "GitHub Readme Stats",
+	"pcpe": "cpe:/a:github_readme_stats_project:github_readme_stats"
 }

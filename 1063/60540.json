@@ -1,8 +1,8 @@
 {
-  "vid": "1063",
-  "vname": "Splunk",
-  "vcpe": "cpe:/:splunk",
-  "pid": "60540",
-  "pname": "universal forwarder",
-  "pcpe": "cpe:/a:splunk:universal_forwarder"
+	"vid": "1063",
+	"vname": "Splunk",
+	"vcpe": "cpe:/:splunk",
+	"pid": "60540",
+	"pname": "universal forwarder",
+	"pcpe": "cpe:/a:splunk:universal_forwarder"
 }

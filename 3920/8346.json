@@ -1,8 +1,8 @@
 {
-  "vid": "3920",
-  "vname": "geda",
-  "vcpe": "cpe:/:geda",
-  "pid": "8346",
-  "pname": "gnetlist",
-  "pcpe": "cpe:/a:geda:gnetlist"
+	"vid": "3920",
+	"vname": "geda",
+	"vcpe": "cpe:/:geda",
+	"pid": "8346",
+	"pname": "gnetlist",
+	"pcpe": "cpe:/a:geda:gnetlist"
 }

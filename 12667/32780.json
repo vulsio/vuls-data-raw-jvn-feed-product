@@ -1,8 +1,8 @@
 {
-  "vid": "12667",
-  "vname": "Underbit Technologies, Inc.",
-  "vcpe": "cpe:/:underbit",
-  "pid": "32780",
-  "pname": "libmad",
-  "pcpe": "cpe:/a:underbit:libmad"
+	"vid": "12667",
+	"vname": "Underbit Technologies, Inc.",
+	"vcpe": "cpe:/:underbit",
+	"pid": "32780",
+	"pname": "libmad",
+	"pcpe": "cpe:/a:underbit:libmad"
 }

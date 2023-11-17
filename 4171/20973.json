@@ -1,8 +1,8 @@
 {
-  "vid": "4171",
-  "vname": "ARRIS Group",
-  "vcpe": "cpe:/:arris",
-  "pid": "20973",
-  "pname": "Touchstone DG950A ソフトウェア",
-  "pcpe": "cpe:/a:arris:touchstone_dg950a_software"
+	"vid": "4171",
+	"vname": "ARRIS Group",
+	"vcpe": "cpe:/:arris",
+	"pid": "20973",
+	"pname": "Touchstone DG950A ソフトウェア",
+	"pcpe": "cpe:/a:arris:touchstone_dg950a_software"
 }

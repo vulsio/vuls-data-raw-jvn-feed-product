@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "53815",
-  "pname": "TIBCO Nimbus",
-  "pcpe": "cpe:/a:tibco:nimbus"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "53815",
+	"pname": "TIBCO Nimbus",
+	"pcpe": "cpe:/a:tibco:nimbus"
 }

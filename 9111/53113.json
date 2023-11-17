@@ -1,8 +1,8 @@
 {
-  "vid": "9111",
-  "vname": "Dahua Technology Co., Ltd",
-  "vcpe": "cpe:/:dahuasecurity",
-  "pid": "53113",
-  "pname": "VTH-542XH ファームウェア",
-  "pcpe": "cpe:/o:dahuasecurity:vth-542xh_firmware"
+	"vid": "9111",
+	"vname": "Dahua Technology Co., Ltd",
+	"vcpe": "cpe:/:dahuasecurity",
+	"pid": "53113",
+	"pname": "VTH-542XH ファームウェア",
+	"pcpe": "cpe:/o:dahuasecurity:vth-542xh_firmware"
 }

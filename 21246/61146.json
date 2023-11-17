@@ -1,8 +1,8 @@
 {
-  "vid": "21246",
-  "vname": "WP OnlineSupport",
-  "vcpe": "cpe:/:essentialplugin",
-  "pid": "61146",
-  "pname": "WP Blog and Widgets",
-  "pcpe": "cpe:/a:essentialplugin:wp_blog_and_widget"
+	"vid": "21246",
+	"vname": "WP OnlineSupport",
+	"vcpe": "cpe:/:essentialplugin",
+	"pid": "61146",
+	"pname": "WP Blog and Widgets",
+	"pcpe": "cpe:/a:essentialplugin:wp_blog_and_widget"
 }

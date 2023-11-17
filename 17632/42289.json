@@ -1,8 +1,8 @@
 {
-  "vid": "17632",
-  "vname": "json pattern validator project",
-  "vcpe": "cpe:/:json_pattern_validator_project",
-  "pid": "42289",
-  "pname": "json pattern validator",
-  "pcpe": "cpe:/a:json_pattern_validator_project:json_pattern_validator"
+	"vid": "17632",
+	"vname": "json pattern validator project",
+	"vcpe": "cpe:/:json_pattern_validator_project",
+	"pid": "42289",
+	"pname": "json pattern validator",
+	"pcpe": "cpe:/a:json_pattern_validator_project:json_pattern_validator"
 }

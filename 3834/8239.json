@@ -1,8 +1,8 @@
 {
-  "vid": "3834",
-  "vname": "frontrange",
-  "vcpe": "cpe:/:frontrange",
-  "pid": "8239",
-  "pname": "heat",
-  "pcpe": "cpe:/a:frontrange:heat"
+	"vid": "3834",
+	"vname": "frontrange",
+	"vcpe": "cpe:/:frontrange",
+	"pid": "8239",
+	"pname": "heat",
+	"pcpe": "cpe:/a:frontrange:heat"
 }

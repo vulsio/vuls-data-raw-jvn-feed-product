@@ -1,8 +1,8 @@
 {
-  "vid": "1895",
-  "vname": "エマソン",
-  "vcpe": "cpe:/:emerson",
-  "pid": "42842",
-  "pname": "RX3I CRU320 ファームウェア",
-  "pcpe": "cpe:/o:emerson:rx3i_cru320_firmware"
+	"vid": "1895",
+	"vname": "エマソン",
+	"vcpe": "cpe:/:emerson",
+	"pid": "42842",
+	"pname": "RX3I CRU320 ファームウェア",
+	"pcpe": "cpe:/o:emerson:rx3i_cru320_firmware"
 }

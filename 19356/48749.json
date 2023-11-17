@@ -1,8 +1,8 @@
 {
-  "vid": "19356",
-  "vname": "Keysight Technologies",
-  "vcpe": "cpe:/:keysight",
-  "pid": "48749",
-  "pname": "Keysight Database Connector",
-  "pcpe": "cpe:/a:keysight:keysight_database_connector"
+	"vid": "19356",
+	"vname": "Keysight Technologies",
+	"vcpe": "cpe:/:keysight",
+	"pid": "48749",
+	"pname": "Keysight Database Connector",
+	"pcpe": "cpe:/a:keysight:keysight_database_connector"
 }

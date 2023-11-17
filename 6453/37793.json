@@ -1,8 +1,8 @@
 {
-  "vid": "6453",
-  "vname": "Lexmark",
-  "vcpe": "cpe:/:lexmark",
-  "pid": "37793",
-  "pname": "XC4150_ファームウェア",
-  "pcpe": "cpe:/o:lexmark:xc4150_firmware"
+	"vid": "6453",
+	"vname": "Lexmark",
+	"vcpe": "cpe:/:lexmark",
+	"pid": "37793",
+	"pname": "XC4150_ファームウェア",
+	"pcpe": "cpe:/o:lexmark:xc4150_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18536",
-  "vname": "Scratch Wiki",
-  "vcpe": "cpe:/:scratch-wiki",
-  "pid": "55782",
-  "pname": "mediawiki-scratch-login",
-  "pcpe": "cpe:/a:scratch-wiki:scratch_login"
+	"vid": "18536",
+	"vname": "Scratch Wiki",
+	"vcpe": "cpe:/:scratch-wiki",
+	"pid": "55782",
+	"pname": "mediawiki-scratch-login",
+	"pcpe": "cpe:/a:scratch-wiki:scratch_login"
 }

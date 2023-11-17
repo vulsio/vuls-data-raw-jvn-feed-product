@@ -1,8 +1,8 @@
 {
-  "vid": "14756",
-  "vname": "libfsntfs project",
-  "vcpe": "cpe:/:libfsntfs_project",
-  "pid": "34552",
-  "pname": "libfsntfs",
-  "pcpe": "cpe:/a:libfsntfs_project:libfsntfs"
+	"vid": "14756",
+	"vname": "libfsntfs project",
+	"vcpe": "cpe:/:libfsntfs_project",
+	"pid": "34552",
+	"pname": "libfsntfs",
+	"pcpe": "cpe:/a:libfsntfs_project:libfsntfs"
 }

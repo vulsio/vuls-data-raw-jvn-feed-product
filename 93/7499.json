@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "7499",
-  "pname": "feedapi mapper",
-  "pcpe": "cpe:/a:drupal:feedapi_mapper"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "7499",
+	"pname": "feedapi mapper",
+	"pcpe": "cpe:/a:drupal:feedapi_mapper"
 }

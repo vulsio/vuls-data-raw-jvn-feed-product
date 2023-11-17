@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "26234",
-  "pname": "PDFBox",
-  "pcpe": "cpe:/a:apache:pdfbox"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "26234",
+	"pname": "PDFBox",
+	"pcpe": "cpe:/a:apache:pdfbox"
 }

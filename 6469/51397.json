@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "51397",
-  "pname": "FL SWITCH SMCS 14TX/2FX ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:fl_switch_smcs_14tx%2f2fx_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "51397",
+	"pname": "FL SWITCH SMCS 14TX/2FX ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:fl_switch_smcs_14tx%2f2fx_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "29870",
-  "pname": "Oracle Hospitality Guest Access",
-  "pcpe": "cpe:/a:oracle:hospitality_guest_access"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "29870",
+	"pname": "Oracle Hospitality Guest Access",
+	"pcpe": "cpe:/a:oracle:hospitality_guest_access"
 }

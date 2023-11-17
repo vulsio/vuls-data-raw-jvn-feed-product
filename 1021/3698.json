@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "3698",
-  "pname": "OpenStack Essex",
-  "pcpe": "cpe:/a:openstack:essex"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "3698",
+	"pname": "OpenStack Essex",
+	"pcpe": "cpe:/a:openstack:essex"
 }

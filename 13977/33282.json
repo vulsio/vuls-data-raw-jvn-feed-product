@@ -1,8 +1,8 @@
 {
-  "vid": "13977",
-  "vname": "Artur Heinze",
-  "vcpe": "cpe:/:getcockpit",
-  "pid": "33282",
-  "pname": "Cockpit",
-  "pcpe": "cpe:/a:getcockpit:cockpit"
+	"vid": "13977",
+	"vname": "Artur Heinze",
+	"vcpe": "cpe:/:getcockpit",
+	"pid": "33282",
+	"pname": "Cockpit",
+	"pcpe": "cpe:/a:getcockpit:cockpit"
 }

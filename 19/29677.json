@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "29677",
-  "pname": "Cisco Prime Network",
-  "pcpe": "cpe:/a:cisco:prime_network"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "29677",
+	"pname": "Cisco Prime Network",
+	"pcpe": "cpe:/a:cisco:prime_network"
 }

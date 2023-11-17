@@ -1,8 +1,8 @@
 {
-  "vid": "14802",
-  "vname": "CryptoABS project",
-  "vcpe": "cpe:/:cryptoabs_project",
-  "pid": "34663",
-  "pname": "CryptoABS",
-  "pcpe": "cpe:/a:cryptoabs_project:cryptoabs"
+	"vid": "14802",
+	"vname": "CryptoABS project",
+	"vcpe": "cpe:/:cryptoabs_project",
+	"pid": "34663",
+	"pname": "CryptoABS",
+	"pcpe": "cpe:/a:cryptoabs_project:cryptoabs"
 }

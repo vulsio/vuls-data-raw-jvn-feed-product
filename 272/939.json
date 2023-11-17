@@ -1,8 +1,8 @@
 {
-  "vid": "272",
-  "vname": "Quagga",
-  "vcpe": "cpe:/:quagga",
-  "pid": "939",
-  "pname": "Quagga",
-  "pcpe": "cpe:/a:quagga:quagga"
+	"vid": "272",
+	"vname": "Quagga",
+	"vcpe": "cpe:/:quagga",
+	"pid": "939",
+	"pname": "Quagga",
+	"pcpe": "cpe:/a:quagga:quagga"
 }

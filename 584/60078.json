@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "60078",
-  "pname": "somatom x.creed ファームウェア",
-  "pcpe": "cpe:/o:siemens:somatom_x.creed_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "60078",
+	"pname": "somatom x.creed ファームウェア",
+	"pcpe": "cpe:/o:siemens:somatom_x.creed_firmware"
 }

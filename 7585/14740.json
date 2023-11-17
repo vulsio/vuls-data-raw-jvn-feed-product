@@ -1,8 +1,8 @@
 {
-  "vid": "7585",
-  "vname": "silcnet",
-  "vcpe": "cpe:/:silcnet",
-  "pid": "14740",
-  "pname": "silc-server",
-  "pcpe": "cpe:/a:silcnet:silc-server"
+	"vid": "7585",
+	"vname": "silcnet",
+	"vcpe": "cpe:/:silcnet",
+	"pid": "14740",
+	"pname": "silc-server",
+	"pcpe": "cpe:/a:silcnet:silc-server"
 }

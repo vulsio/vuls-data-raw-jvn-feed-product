@@ -1,8 +1,8 @@
 {
-  "vid": "14474",
-  "vname": "fastify",
-  "vcpe": "cpe:/:fastify",
-  "pid": "61381",
-  "pname": "bearer-auth",
-  "pcpe": "cpe:/a:fastify:bearer-auth"
+	"vid": "14474",
+	"vname": "fastify",
+	"vcpe": "cpe:/:fastify",
+	"pid": "61381",
+	"pname": "bearer-auth",
+	"pcpe": "cpe:/a:fastify:bearer-auth"
 }

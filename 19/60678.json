@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "60678",
-  "pname": "Cisco AppDynamics Controller",
-  "pcpe": "cpe:/a:cisco:appdynamics_controller"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "60678",
+	"pname": "Cisco AppDynamics Controller",
+	"pcpe": "cpe:/a:cisco:appdynamics_controller"
 }

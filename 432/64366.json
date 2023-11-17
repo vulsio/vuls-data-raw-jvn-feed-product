@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "64366",
-  "pname": "ne843 s",
-  "pcpe": "cpe:/a:abb:ne843_s"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "64366",
+	"pname": "ne843 s",
+	"pcpe": "cpe:/a:abb:ne843_s"
 }

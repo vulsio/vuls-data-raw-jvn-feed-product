@@ -1,8 +1,8 @@
 {
-  "vid": "7105",
-  "vname": "project-observer",
-  "vcpe": "cpe:/:project-observer",
-  "pid": "14060",
-  "pname": "observer",
-  "pcpe": "cpe:/a:project-observer:observer"
+	"vid": "7105",
+	"vname": "project-observer",
+	"vcpe": "cpe:/:project-observer",
+	"pid": "14060",
+	"pname": "observer",
+	"pcpe": "cpe:/a:project-observer:observer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "41534",
-  "pname": "HP 285 G2 ファームウェア",
-  "pcpe": "cpe:/o:hp:285_g2_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "41534",
+	"pname": "HP 285 G2 ファームウェア",
+	"pcpe": "cpe:/o:hp:285_g2_firmware"
 }

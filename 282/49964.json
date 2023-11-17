@@ -1,8 +1,8 @@
 {
-  "vid": "282",
-  "vname": "libexif",
-  "vcpe": "cpe:/:libexif",
-  "pid": "49964",
-  "pname": "exif",
-  "pcpe": "cpe:/a:libexif:exif"
+	"vid": "282",
+	"vname": "libexif",
+	"vcpe": "cpe:/:libexif",
+	"pid": "49964",
+	"pname": "exif",
+	"pcpe": "cpe:/a:libexif:exif"
 }

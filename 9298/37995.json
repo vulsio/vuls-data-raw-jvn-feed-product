@@ -1,8 +1,8 @@
 {
-  "vid": "9298",
-  "vname": "ADTRAN",
-  "vcpe": "cpe:/:adtran",
-  "pid": "37995",
-  "pname": "PMAA",
-  "pcpe": "cpe:/a:adtran:pmaa"
+	"vid": "9298",
+	"vname": "ADTRAN",
+	"vcpe": "cpe:/:adtran",
+	"pid": "37995",
+	"pname": "PMAA",
+	"pcpe": "cpe:/a:adtran:pmaa"
 }

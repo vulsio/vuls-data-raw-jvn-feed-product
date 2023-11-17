@@ -1,8 +1,8 @@
 {
-  "vid": "21754",
-  "vname": "LetsRecover project",
-  "vcpe": "cpe:/:letsrecover_project",
-  "pid": "55885",
-  "pname": "LetsRecover",
-  "pcpe": "cpe:/a:letsrecover_project:letsrecover"
+	"vid": "21754",
+	"vname": "LetsRecover project",
+	"vcpe": "cpe:/:letsrecover_project",
+	"pid": "55885",
+	"pname": "LetsRecover",
+	"pcpe": "cpe:/a:letsrecover_project:letsrecover"
 }

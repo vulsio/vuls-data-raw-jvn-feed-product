@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "26460",
-  "pname": "Email Security Server",
-  "pcpe": "cpe:/a:symantec:email_security_server"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "26460",
+	"pname": "Email Security Server",
+	"pcpe": "cpe:/a:symantec:email_security_server"
 }

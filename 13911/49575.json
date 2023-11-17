@@ -1,8 +1,8 @@
 {
-  "vid": "13911",
-  "vname": "NCR",
-  "vcpe": "cpe:/:ncr",
-  "pid": "49575",
-  "pname": "Command Center Agent",
-  "pcpe": "cpe:/a:ncr:command_center_agent"
+	"vid": "13911",
+	"vname": "NCR",
+	"vcpe": "cpe:/:ncr",
+	"pid": "49575",
+	"pname": "Command Center Agent",
+	"pcpe": "cpe:/a:ncr:command_center_agent"
 }

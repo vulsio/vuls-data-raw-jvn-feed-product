@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "50913",
-  "pname": "DIR-895L MFC ファームウェア",
-  "pcpe": "cpe:/o:dlink:dir-895l_mfc_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "50913",
+	"pname": "DIR-895L MFC ファームウェア",
+	"pcpe": "cpe:/o:dlink:dir-895l_mfc_firmware"
 }

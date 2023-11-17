@@ -1,8 +1,8 @@
 {
-  "vid": "16",
-  "vname": "チェック・ポイント・ソフトウェア・テクノロジーズ",
-  "vcpe": "cpe:/:checkpoint",
-  "pid": "39446",
-  "pname": "Jumbo Hotfix for Endpoint Security Server",
-  "pcpe": "cpe:/a:checkpoint:jumbo_hotfix_for_endpoint_security_server"
+	"vid": "16",
+	"vname": "チェック・ポイント・ソフトウェア・テクノロジーズ",
+	"vcpe": "cpe:/:checkpoint",
+	"pid": "39446",
+	"pname": "Jumbo Hotfix for Endpoint Security Server",
+	"pcpe": "cpe:/a:checkpoint:jumbo_hotfix_for_endpoint_security_server"
 }

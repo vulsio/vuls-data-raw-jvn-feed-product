@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "19824",
-  "pname": "UNIVERGE IP8800",
-  "pcpe": "cpe:/h:nec:univerge_ip8800"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "19824",
+	"pname": "UNIVERGE IP8800",
+	"pcpe": "cpe:/h:nec:univerge_ip8800"
 }

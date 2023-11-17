@@ -1,8 +1,8 @@
 {
-  "vid": "16",
-  "vname": "チェック・ポイント・ソフトウェア・テクノロジーズ",
-  "vcpe": "cpe:/:checkpoint",
-  "pid": "6675",
-  "pname": "vpn-1 secureclient",
-  "pcpe": "cpe:/a:checkpoint:vpn-1_secureclient"
+	"vid": "16",
+	"vname": "チェック・ポイント・ソフトウェア・テクノロジーズ",
+	"vcpe": "cpe:/:checkpoint",
+	"pid": "6675",
+	"pname": "vpn-1 secureclient",
+	"pcpe": "cpe:/a:checkpoint:vpn-1_secureclient"
 }

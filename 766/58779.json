@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "58779",
-  "pname": "Modicon Momentum Unity M1E Processor",
-  "pcpe": "cpe:/o:schneider_electric:modicon_momentum_unity_m1e_processor"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "58779",
+	"pname": "Modicon Momentum Unity M1E Processor",
+	"pcpe": "cpe:/o:schneider_electric:modicon_momentum_unity_m1e_processor"
 }

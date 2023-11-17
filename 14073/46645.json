@@ -1,8 +1,8 @@
 {
-  "vid": "14073",
-  "vname": "LG Electronics",
-  "vcpe": "cpe:/:lg",
-  "pid": "46645",
-  "pname": "LGPCSuite_Setup",
-  "pcpe": "cpe:/a:lg:lgpcsuite_setup"
+	"vid": "14073",
+	"vname": "LG Electronics",
+	"vcpe": "cpe:/:lg",
+	"pid": "46645",
+	"pname": "LGPCSuite_Setup",
+	"pcpe": "cpe:/a:lg:lgpcsuite_setup"
 }

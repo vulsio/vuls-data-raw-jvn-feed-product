@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18410",
-  "pname": "HP IceWall SSO スマートデバイスオプション",
-  "pcpe": "cpe:/a:hp:icewall_smart_device_option"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18410",
+	"pname": "HP IceWall SSO スマートデバイスオプション",
+	"pcpe": "cpe:/a:hp:icewall_smart_device_option"
 }

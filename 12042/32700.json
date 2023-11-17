@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "32700",
-  "pname": "HPE MSA 2040 Storage ファームウェア",
-  "pcpe": "cpe:/o:hp:msa_2040_san_storage_firmware"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "32700",
+	"pname": "HPE MSA 2040 Storage ファームウェア",
+	"pcpe": "cpe:/o:hp:msa_2040_san_storage_firmware"
 }

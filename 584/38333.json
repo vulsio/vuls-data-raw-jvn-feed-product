@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "38333",
-  "pname": "SIMATIC IPC DiagMonitor ファームウェア",
-  "pcpe": "cpe:/o:siemens:simatic_ipc_diagmonitor_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "38333",
+	"pname": "SIMATIC IPC DiagMonitor ファームウェア",
+	"pcpe": "cpe:/o:siemens:simatic_ipc_diagmonitor_firmware"
 }

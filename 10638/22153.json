@@ -1,8 +1,8 @@
 {
-  "vid": "10638",
-  "vname": "boopsie",
-  "vcpe": "cpe:/:boopsie",
-  "pid": "22153",
-  "pname": "aapld",
-  "pcpe": "cpe:/a:boopsie:aapld"
+	"vid": "10638",
+	"vname": "boopsie",
+	"vcpe": "cpe:/:boopsie",
+	"pid": "22153",
+	"pname": "aapld",
+	"pcpe": "cpe:/a:boopsie:aapld"
 }

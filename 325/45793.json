@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "45793",
-  "pname": "ThinkPad E480 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_e480_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "45793",
+	"pname": "ThinkPad E480 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_e480_firmware"
 }

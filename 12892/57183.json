@@ -1,8 +1,8 @@
 {
-  "vid": "12892",
-  "vname": "富士電機",
-  "vcpe": "cpe:/:fujielectric",
-  "pid": "57183",
-  "pname": "TELLUS Lite",
-  "pcpe": "cpe:/a:fujielectric:tellus_lite"
+	"vid": "12892",
+	"vname": "富士電機",
+	"vcpe": "cpe:/:fujielectric",
+	"pid": "57183",
+	"pname": "TELLUS Lite",
+	"pcpe": "cpe:/a:fujielectric:tellus_lite"
 }

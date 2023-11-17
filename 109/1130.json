@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "1130",
-  "pname": "Internet Navigware Server",
-  "pcpe": "cpe:/a:fujitsu:internet_navigware_server"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "1130",
+	"pname": "Internet Navigware Server",
+	"pcpe": "cpe:/a:fujitsu:internet_navigware_server"
 }

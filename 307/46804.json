@@ -1,8 +1,8 @@
 {
-  "vid": "307",
-  "vname": "アルバネットワークス株式会社",
-  "vcpe": "cpe:/:arubanetworks",
-  "pid": "46804",
-  "pname": "CX 8320 ファームウェア",
-  "pcpe": "cpe:/o:arubanetworks:cx_8320_firmware"
+	"vid": "307",
+	"vname": "アルバネットワークス株式会社",
+	"vcpe": "cpe:/:arubanetworks",
+	"pid": "46804",
+	"pname": "CX 8320 ファームウェア",
+	"pcpe": "cpe:/o:arubanetworks:cx_8320_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "22",
-  "vname": "The PHP Group",
-  "vcpe": "cpe:/:php",
-  "pid": "12626",
-  "pname": "errordocs",
-  "pcpe": "cpe:/a:php:errordocs"
+	"vid": "22",
+	"vname": "The PHP Group",
+	"vcpe": "cpe:/:php",
+	"pid": "12626",
+	"pname": "errordocs",
+	"pcpe": "cpe:/a:php:errordocs"
 }

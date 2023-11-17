@@ -1,8 +1,8 @@
 {
-  "vid": "19022",
-  "vname": "BAB TECHNOLOGIE GmbH",
-  "vcpe": "cpe:/:bab-technologie",
-  "pid": "47651",
-  "pname": "eibPort ファームウェア",
-  "pcpe": "cpe:/o:bab-technologie:eibport_firmware"
+	"vid": "19022",
+	"vname": "BAB TECHNOLOGIE GmbH",
+	"vcpe": "cpe:/:bab-technologie",
+	"pid": "47651",
+	"pname": "eibPort ファームウェア",
+	"pcpe": "cpe:/o:bab-technologie:eibport_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "2275",
-  "pname": "TRADEMASTER",
-  "pcpe": "cpe:/a:fujitsu:trademaster"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "2275",
+	"pname": "TRADEMASTER",
+	"pcpe": "cpe:/a:fujitsu:trademaster"
 }

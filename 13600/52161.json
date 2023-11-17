@@ -1,8 +1,8 @@
 {
-  "vid": "13600",
-  "vname": "NAVER Corp.",
-  "vcpe": "cpe:/:navercorp",
-  "pid": "52161",
-  "pname": "Toolbar",
-  "pcpe": "cpe:/a:navercorp:toolbar"
+	"vid": "13600",
+	"vname": "NAVER Corp.",
+	"vcpe": "cpe:/:navercorp",
+	"pid": "52161",
+	"pname": "Toolbar",
+	"pcpe": "cpe:/a:navercorp:toolbar"
 }

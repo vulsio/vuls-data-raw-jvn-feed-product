@@ -1,8 +1,8 @@
 {
-  "vid": "1405",
-  "vname": "CMS Made Simple",
-  "vcpe": "cpe:/:cmsmadesimple",
-  "pid": "39523",
-  "pname": "Babel: Multilingual site",
-  "pcpe": "cpe:/a:cmsmadesimple:bable%3amultilingual_site"
+	"vid": "1405",
+	"vname": "CMS Made Simple",
+	"vcpe": "cpe:/:cmsmadesimple",
+	"pid": "39523",
+	"pname": "Babel: Multilingual site",
+	"pcpe": "cpe:/a:cmsmadesimple:bable%3amultilingual_site"
 }

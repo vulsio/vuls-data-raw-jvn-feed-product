@@ -1,8 +1,8 @@
 {
-  "vid": "15233",
-  "vname": "Sonos, Inc.",
-  "vcpe": "cpe:/:sonos",
-  "pid": "63745",
-  "pname": "one ファームウェア",
-  "pcpe": "cpe:/o:sonos:one_firmware"
+	"vid": "15233",
+	"vname": "Sonos, Inc.",
+	"vcpe": "cpe:/:sonos",
+	"pid": "63745",
+	"pname": "one ファームウェア",
+	"pcpe": "cpe:/o:sonos:one_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21078",
-  "vname": "WPPlugin LLC",
-  "vcpe": "cpe:/:wpplugin",
-  "pid": "53905",
-  "pname": "Accept Donations with PayPal",
-  "pcpe": "cpe:/a:wpplugin:accept_donations_with_paypal"
+	"vid": "21078",
+	"vname": "WPPlugin LLC",
+	"vcpe": "cpe:/:wpplugin",
+	"pid": "53905",
+	"pname": "Accept Donations with PayPal",
+	"pcpe": "cpe:/a:wpplugin:accept_donations_with_paypal"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "39",
-  "vname": "アドビ",
-  "vcpe": "cpe:/:adobe",
-  "pid": "5551",
-  "pname": "onlocation cs4",
-  "pcpe": "cpe:/a:adobe:onlocation_cs4"
+	"vid": "39",
+	"vname": "アドビ",
+	"vcpe": "cpe:/:adobe",
+	"pid": "5551",
+	"pname": "onlocation cs4",
+	"pcpe": "cpe:/a:adobe:onlocation_cs4"
 }

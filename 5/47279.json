@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47279",
-  "pname": "APQ8062 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:apq8062_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47279",
+	"pname": "APQ8062 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:apq8062_firmware"
 }

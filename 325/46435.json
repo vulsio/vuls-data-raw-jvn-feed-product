@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "46435",
-  "pname": "ThinkPad T490 (20Qx) ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkpad_t490_%2820qx%29_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "46435",
+	"pname": "ThinkPad T490 (20Qx) ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkpad_t490_%2820qx%29_firmware"
 }

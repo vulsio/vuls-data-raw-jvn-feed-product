@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "25968",
-  "pname": "Apache Directory Studio",
-  "pcpe": "cpe:/a:apache:apache_directory_studio"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "25968",
+	"pname": "Apache Directory Studio",
+	"pcpe": "cpe:/a:apache:apache_directory_studio"
 }

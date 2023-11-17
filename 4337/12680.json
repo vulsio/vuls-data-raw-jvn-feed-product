@@ -1,8 +1,8 @@
 {
-  "vid": "4337",
-  "vname": "PHPJabbers",
-  "vcpe": "cpe:/:phpjabbers",
-  "pid": "12680",
-  "pname": "post comment",
-  "pcpe": "cpe:/a:phpjabbers:post_comment"
+	"vid": "4337",
+	"vname": "PHPJabbers",
+	"vcpe": "cpe:/:phpjabbers",
+	"pid": "12680",
+	"pname": "post comment",
+	"pcpe": "cpe:/a:phpjabbers:post_comment"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "12113",
-  "pname": "groupwise webaccess",
-  "pcpe": "cpe:/a:novell:groupwise_webaccess"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "12113",
+	"pname": "groupwise webaccess",
+	"pcpe": "cpe:/a:novell:groupwise_webaccess"
 }

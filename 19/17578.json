@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17578",
-  "pname": "Cisco TelePresence SX20 Quick Set",
-  "pcpe": "cpe:/h:cisco:telepresence_quick_set_sx20"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17578",
+	"pname": "Cisco TelePresence SX20 Quick Set",
+	"pcpe": "cpe:/h:cisco:telepresence_quick_set_sx20"
 }

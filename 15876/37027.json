@@ -1,8 +1,8 @@
 {
-  "vid": "15876",
-  "vname": "MXQproject",
-  "vcpe": "cpe:/:mxq_project",
-  "pid": "37027",
-  "pname": "MXQ TV Box ファームウェア",
-  "pcpe": "cpe:/o:mxq_project:mxq_tv_box_firmware"
+	"vid": "15876",
+	"vname": "MXQproject",
+	"vcpe": "cpe:/:mxq_project",
+	"pid": "37027",
+	"pname": "MXQ TV Box ファームウェア",
+	"pcpe": "cpe:/o:mxq_project:mxq_tv_box_firmware"
 }

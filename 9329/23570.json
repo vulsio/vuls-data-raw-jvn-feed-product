@@ -1,8 +1,8 @@
 {
-  "vid": "9329",
-  "vname": "Sierra Wireless",
-  "vcpe": "cpe:/:sierra_wireless",
-  "pid": "23570",
-  "pname": "Sierra Wireless AirCard 763S",
-  "pcpe": "cpe:/h:sierra_wireless:sierra_wireless_aircard_763s"
+	"vid": "9329",
+	"vname": "Sierra Wireless",
+	"vcpe": "cpe:/:sierra_wireless",
+	"pid": "23570",
+	"pname": "Sierra Wireless AirCard 763S",
+	"pcpe": "cpe:/h:sierra_wireless:sierra_wireless_aircard_763s"
 }

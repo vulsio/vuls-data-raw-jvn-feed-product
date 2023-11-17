@@ -1,8 +1,8 @@
 {
-  "vid": "16194",
-  "vname": "Digi International Inc.",
-  "vcpe": "cpe:/:digi",
-  "pid": "62033",
-  "pname": "CM Console Server",
-  "pcpe": "cpe:/o:digi:cm_console_server"
+	"vid": "16194",
+	"vname": "Digi International Inc.",
+	"vcpe": "cpe:/:digi",
+	"pid": "62033",
+	"pname": "CM Console Server",
+	"pcpe": "cpe:/o:digi:cm_console_server"
 }

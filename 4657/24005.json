@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "24005",
-  "pname": "SEQ Analyst",
-  "pcpe": "cpe:/a:huawei:seq_analyst"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "24005",
+	"pname": "SEQ Analyst",
+	"pcpe": "cpe:/a:huawei:seq_analyst"
 }

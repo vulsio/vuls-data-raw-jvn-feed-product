@@ -1,8 +1,8 @@
 {
-  "vid": "15023",
-  "vname": "TCash project",
-  "vcpe": "cpe:/:tcash_project",
-  "pid": "34952",
-  "pname": "TCash",
-  "pcpe": "cpe:/a:tcash_project:tcash"
+	"vid": "15023",
+	"vname": "TCash project",
+	"vcpe": "cpe:/:tcash_project",
+	"pid": "34952",
+	"pname": "TCash",
+	"pcpe": "cpe:/a:tcash_project:tcash"
 }

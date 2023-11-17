@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26584",
-  "pname": "Oracle In-Memory Policy Analytics",
-  "pcpe": "cpe:/a:oracle:in-memory_policy_analytics"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26584",
+	"pname": "Oracle In-Memory Policy Analytics",
+	"pcpe": "cpe:/a:oracle:in-memory_policy_analytics"
 }

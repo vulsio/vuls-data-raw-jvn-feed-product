@@ -1,8 +1,8 @@
 {
-  "vid": "224",
-  "vname": "アラクサラネットワークス",
-  "vcpe": "cpe:/:alaxala",
-  "pid": "732",
-  "pname": "AX5400Sシリーズ",
-  "pcpe": "cpe:/h:alaxala:ax5400s"
+	"vid": "224",
+	"vname": "アラクサラネットワークス",
+	"vcpe": "cpe:/:alaxala",
+	"pid": "732",
+	"pname": "AX5400Sシリーズ",
+	"pcpe": "cpe:/h:alaxala:ax5400s"
 }

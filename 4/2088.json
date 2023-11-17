@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "2088",
-  "pname": "HP Color MFP Products",
-  "pcpe": "cpe:/h:hp:color_mfp"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "2088",
+	"pname": "HP Color MFP Products",
+	"pcpe": "cpe:/h:hp:color_mfp"
 }

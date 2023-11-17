@@ -1,8 +1,8 @@
 {
-  "vid": "21398",
-  "vname": "SecuritasHome",
-  "vcpe": "cpe:/:securitashome",
-  "pid": "54944",
-  "pname": "home alarm system",
-  "pcpe": "cpe:/o:securitashome:home_alarm_system_firmware"
+	"vid": "21398",
+	"vname": "SecuritasHome",
+	"vcpe": "cpe:/:securitashome",
+	"pid": "54944",
+	"pname": "home alarm system",
+	"pcpe": "cpe:/o:securitashome:home_alarm_system_firmware"
 }

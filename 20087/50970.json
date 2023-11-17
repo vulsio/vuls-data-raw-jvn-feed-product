@@ -1,8 +1,8 @@
 {
-  "vid": "20087",
-  "vname": "easy-preloader project",
-  "vcpe": "cpe:/:easy_preloader_project",
-  "pid": "50970",
-  "pname": "easy-preloader",
-  "pcpe": "cpe:/a:easy_preloader_project:easy_preloader"
+	"vid": "20087",
+	"vname": "easy-preloader project",
+	"vcpe": "cpe:/:easy_preloader_project",
+	"pid": "50970",
+	"pname": "easy-preloader",
+	"pcpe": "cpe:/a:easy_preloader_project:easy_preloader"
 }

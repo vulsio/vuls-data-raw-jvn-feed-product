@@ -1,8 +1,8 @@
 {
-  "vid": "20203",
-  "vname": "Fidelis Cybersecurity",
-  "vcpe": "cpe:/:fidelissecurity",
-  "pid": "51437",
-  "pname": "Deception",
-  "pcpe": "cpe:/a:fidelissecurity:deception"
+	"vid": "20203",
+	"vname": "Fidelis Cybersecurity",
+	"vcpe": "cpe:/:fidelissecurity",
+	"pid": "51437",
+	"pname": "Deception",
+	"pcpe": "cpe:/a:fidelissecurity:deception"
 }

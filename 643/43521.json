@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "43521",
-  "pname": "Dell G5 15 5590 ファームウェア",
-  "pcpe": "cpe:/o:dell:g5_15_5590_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "43521",
+	"pname": "Dell G5 15 5590 ファームウェア",
+	"pcpe": "cpe:/o:dell:g5_15_5590_firmware"
 }

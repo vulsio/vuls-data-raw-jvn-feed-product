@@ -1,8 +1,8 @@
 {
-  "vid": "2010",
-  "vname": "activecampaign",
-  "vcpe": "cpe:/:activecampaign",
-  "pid": "5476",
-  "pname": "triolive",
-  "pcpe": "cpe:/a:activecampaign:triolive"
+	"vid": "2010",
+	"vname": "activecampaign",
+	"vcpe": "cpe:/:activecampaign",
+	"pid": "5476",
+	"pname": "triolive",
+	"pcpe": "cpe:/a:activecampaign:triolive"
 }

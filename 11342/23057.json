@@ -1,8 +1,8 @@
 {
-  "vid": "11342",
-  "vname": "file project",
-  "vcpe": "cpe:/:file_project",
-  "pid": "23057",
-  "pname": "file",
-  "pcpe": "cpe:/a:file_project:file"
+	"vid": "11342",
+	"vname": "file project",
+	"vcpe": "cpe:/:file_project",
+	"pid": "23057",
+	"pname": "file",
+	"pcpe": "cpe:/a:file_project:file"
 }

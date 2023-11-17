@@ -1,8 +1,8 @@
 {
-  "vid": "5611",
-  "vname": "mginternet",
-  "vcpe": "cpe:/:mginternet",
-  "pid": "11469",
-  "pname": "property site manager",
-  "pcpe": "cpe:/a:mginternet:property_site_manager"
+	"vid": "5611",
+	"vname": "mginternet",
+	"vcpe": "cpe:/:mginternet",
+	"pid": "11469",
+	"pname": "property site manager",
+	"pcpe": "cpe:/a:mginternet:property_site_manager"
 }

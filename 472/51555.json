@@ -1,8 +1,8 @@
 {
-  "vid": "472",
-  "vname": "Rockwell Automation",
-  "vcpe": "cpe:/:rockwellautomation",
-  "pid": "51555",
-  "pname": "ISaGRAF Workbench",
-  "pcpe": "cpe:/a:rockwellautomation:isagraf_workbench"
+	"vid": "472",
+	"vname": "Rockwell Automation",
+	"vcpe": "cpe:/:rockwellautomation",
+	"pid": "51555",
+	"pname": "ISaGRAF Workbench",
+	"pcpe": "cpe:/a:rockwellautomation:isagraf_workbench"
 }

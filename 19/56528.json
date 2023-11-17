@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "56528",
-  "pname": "Cisco Umbrella Secure Web Gateway",
-  "pcpe": "cpe:/a:cisco:umbrella_secure_web_gateway"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "56528",
+	"pname": "Cisco Umbrella Secure Web Gateway",
+	"pcpe": "cpe:/a:cisco:umbrella_secure_web_gateway"
 }

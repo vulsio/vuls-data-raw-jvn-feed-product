@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "32671",
-  "pname": "Cisco ASR 5000 ファームウェア",
-  "pcpe": "cpe:/o:cisco:asr_5000_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "32671",
+	"pname": "Cisco ASR 5000 ファームウェア",
+	"pcpe": "cpe:/o:cisco:asr_5000_firmware"
 }

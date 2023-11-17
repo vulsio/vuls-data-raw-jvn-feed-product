@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "26654",
-  "pname": "Dell KM632 ワイヤレスマウス",
-  "pcpe": "cpe:/h:dell:km632_wireless_keyboard"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "26654",
+	"pname": "Dell KM632 ワイヤレスマウス",
+	"pcpe": "cpe:/h:dell:km632_wireless_keyboard"
 }

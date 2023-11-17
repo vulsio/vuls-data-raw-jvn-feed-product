@@ -1,8 +1,8 @@
 {
-  "vid": "24474",
-  "vname": "python-jwt project",
-  "vcpe": "cpe:/:python-jwt_project",
-  "pid": "63206",
-  "pname": "python-jwt",
-  "pcpe": "cpe:/a:python-jwt_project:python-jwt"
+	"vid": "24474",
+	"vname": "python-jwt project",
+	"vcpe": "cpe:/:python-jwt_project",
+	"pid": "63206",
+	"pname": "python-jwt",
+	"pcpe": "cpe:/a:python-jwt_project:python-jwt"
 }

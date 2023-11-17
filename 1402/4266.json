@@ -1,8 +1,8 @@
 {
-  "vid": "1402",
-  "vname": "clear",
-  "vcpe": "cpe:/:clear",
-  "pid": "4266",
-  "pname": "ispot firmware",
-  "pcpe": "cpe:/a:clear:ispot_firmware"
+	"vid": "1402",
+	"vname": "clear",
+	"vcpe": "cpe:/:clear",
+	"pid": "4266",
+	"pname": "ispot firmware",
+	"pcpe": "cpe:/a:clear:ispot_firmware"
 }

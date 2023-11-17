@@ -1,8 +1,8 @@
 {
-  "vid": "14560",
-  "vname": "BuyToken project",
-  "vcpe": "cpe:/:buytoken_project",
-  "pid": "34259",
-  "pname": "BuyToken",
-  "pcpe": "cpe:/a:buytoken_project:buytoken"
+	"vid": "14560",
+	"vname": "BuyToken project",
+	"vcpe": "cpe:/:buytoken_project",
+	"pid": "34259",
+	"pname": "BuyToken",
+	"pcpe": "cpe:/a:buytoken_project:buytoken"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "20590",
-  "vname": "Passport-SAML project",
-  "vcpe": "cpe:/:passport-saml_project",
-  "pid": "52438",
-  "pname": "Passport-SAML",
-  "pcpe": "cpe:/a:passport-saml_project:passport-saml"
+	"vid": "20590",
+	"vname": "Passport-SAML project",
+	"vcpe": "cpe:/:passport-saml_project",
+	"pid": "52438",
+	"pname": "Passport-SAML",
+	"pcpe": "cpe:/a:passport-saml_project:passport-saml"
 }

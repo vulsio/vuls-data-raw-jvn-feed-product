@@ -1,8 +1,8 @@
 {
-  "vid": "1894",
-  "vname": "ForeScout Technologies",
-  "vcpe": "cpe:/:forescout",
-  "pid": "27990",
-  "pname": "SecureConnector",
-  "pcpe": "cpe:/a:forescout:secureconnector"
+	"vid": "1894",
+	"vname": "ForeScout Technologies",
+	"vcpe": "cpe:/:forescout",
+	"pid": "27990",
+	"pname": "SecureConnector",
+	"pcpe": "cpe:/a:forescout:secureconnector"
 }

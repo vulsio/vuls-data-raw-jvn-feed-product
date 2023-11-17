@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "5145",
-  "pname": "Cisco Nexus 2148T FEX スイッチ",
-  "pcpe": "cpe:/h:cisco:nexus_2148t_fex_switch"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "5145",
+	"pname": "Cisco Nexus 2148T FEX スイッチ",
+	"pcpe": "cpe:/h:cisco:nexus_2148t_fex_switch"
 }

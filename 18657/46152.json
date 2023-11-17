@@ -1,8 +1,8 @@
 {
-  "vid": "18657",
-  "vname": "Open Robotics",
-  "vcpe": "cpe:/:openrobotics",
-  "pid": "46152",
-  "pname": "Robot Operating System",
-  "pcpe": "cpe:/o:openrobotics:robot_operating_system"
+	"vid": "18657",
+	"vname": "Open Robotics",
+	"vcpe": "cpe:/:openrobotics",
+	"pid": "46152",
+	"pname": "Robot Operating System",
+	"pcpe": "cpe:/o:openrobotics:robot_operating_system"
 }

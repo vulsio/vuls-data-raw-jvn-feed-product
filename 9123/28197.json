@@ -1,8 +1,8 @@
 {
-  "vid": "9123",
-  "vname": "Tenable, Inc.",
-  "vcpe": "cpe:/:tenable",
-  "pid": "28197",
-  "pname": "Tenable Appliance",
-  "pcpe": "cpe:/a:tenable:appliance"
+	"vid": "9123",
+	"vname": "Tenable, Inc.",
+	"vcpe": "cpe:/:tenable",
+	"pid": "28197",
+	"pname": "Tenable Appliance",
+	"pcpe": "cpe:/a:tenable:appliance"
 }

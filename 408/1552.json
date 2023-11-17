@@ -1,8 +1,8 @@
 {
-  "vid": "408",
-  "vname": "パナソニック コミュニケーションズ株式会社",
-  "vcpe": "cpe:/:panasonic",
-  "pid": "1552",
-  "pname": "BL-C111",
-  "pcpe": "cpe:/h:panasonic:bl_c111"
+	"vid": "408",
+	"vname": "パナソニック コミュニケーションズ株式会社",
+	"vcpe": "cpe:/:panasonic",
+	"pid": "1552",
+	"pname": "BL-C111",
+	"pcpe": "cpe:/h:panasonic:bl_c111"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "658",
-  "vname": "バラクーダネットワークス",
-  "vcpe": "cpe:/:barracuda_networks",
-  "pid": "2793",
-  "pname": "Barracuda Spam Firewall",
-  "pcpe": "cpe:/h:barracuda_networks:barracuda_spam_firewall"
+	"vid": "658",
+	"vname": "バラクーダネットワークス",
+	"vcpe": "cpe:/:barracuda_networks",
+	"pid": "2793",
+	"pname": "Barracuda Spam Firewall",
+	"pcpe": "cpe:/h:barracuda_networks:barracuda_spam_firewall"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "52031",
-  "pname": "VioCard-100 ファームウェア",
-  "pcpe": "cpe:/o:qnap:viocard-100_firmware"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "52031",
+	"pname": "VioCard-100 ファームウェア",
+	"pcpe": "cpe:/o:qnap:viocard-100_firmware"
 }

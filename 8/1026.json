@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "1026",
-  "pname": "mod_perl",
-  "pcpe": "cpe:/a:apache:mod_perl"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "1026",
+	"pname": "mod_perl",
+	"pcpe": "cpe:/a:apache:mod_perl"
 }

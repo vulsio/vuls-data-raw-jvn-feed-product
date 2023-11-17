@@ -1,8 +1,8 @@
 {
-  "vid": "20679",
-  "vname": "Pyramid Solutions, Inc.",
-  "vcpe": "cpe:/:misc",
-  "pid": "52615",
-  "pname": "EtherNet/IP Scanner Development Kit (EDKS)",
-  "pcpe": "cpe:/a:misc:pyramid_solutions_ethernet_ip_scanner_development_kit"
+	"vid": "20679",
+	"vname": "Pyramid Solutions, Inc.",
+	"vcpe": "cpe:/:misc",
+	"pid": "52615",
+	"pname": "EtherNet/IP Scanner Development Kit (EDKS)",
+	"pcpe": "cpe:/a:misc:pyramid_solutions_ethernet_ip_scanner_development_kit"
 }

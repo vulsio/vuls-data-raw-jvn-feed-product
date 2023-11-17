@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "2801",
-  "pname": "BIG-IP Protocol Security Manager",
-  "pcpe": "cpe:/h:f5:big-ip_protocol_security_manager"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "2801",
+	"pname": "BIG-IP Protocol Security Manager",
+	"pcpe": "cpe:/h:f5:big-ip_protocol_security_manager"
 }

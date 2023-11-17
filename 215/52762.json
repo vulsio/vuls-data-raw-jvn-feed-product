@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "52762",
-  "pname": "CX5100 ファームウェア",
-  "pcpe": "cpe:/o:polycom:cx5100_firmware"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "52762",
+	"pname": "CX5100 ファームウェア",
+	"pcpe": "cpe:/o:polycom:cx5100_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2883",
-  "pname": "SysFW",
-  "pcpe": "cpe:/a:oracle:sysfw"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2883",
+	"pname": "SysFW",
+	"pcpe": "cpe:/a:oracle:sysfw"
 }

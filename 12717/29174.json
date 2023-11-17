@@ -1,8 +1,8 @@
 {
-  "vid": "12717",
-  "vname": "PUMA AG",
-  "vcpe": "cpe:/:puma_ag",
-  "pid": "29174",
-  "pname": "PUMATRAC",
-  "pcpe": "cpe:/a:puma_ag:pumatrac"
+	"vid": "12717",
+	"vname": "PUMA AG",
+	"vcpe": "cpe:/:puma_ag",
+	"pid": "29174",
+	"pname": "PUMATRAC",
+	"pcpe": "cpe:/a:puma_ag:pumatrac"
 }

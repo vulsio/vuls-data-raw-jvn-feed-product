@@ -1,8 +1,8 @@
 {
-  "vid": "23200",
-  "vname": "bottlepy",
-  "vcpe": "cpe:/:bottlepy",
-  "pid": "60126",
-  "pname": "bottle",
-  "pcpe": "cpe:/a:bottlepy:bottle"
+	"vid": "23200",
+	"vname": "bottlepy",
+	"vcpe": "cpe:/:bottlepy",
+	"pid": "60126",
+	"pname": "bottle",
+	"pcpe": "cpe:/a:bottlepy:bottle"
 }

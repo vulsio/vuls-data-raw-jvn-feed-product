@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "57957",
-  "pname": "codeready linux builder for power little endian eus",
-  "pcpe": "cpe:/a:redhat:codeready_linux_builder_for_power_little_endian_eus"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "57957",
+	"pname": "codeready linux builder for power little endian eus",
+	"pcpe": "cpe:/a:redhat:codeready_linux_builder_for_power_little_endian_eus"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17386",
-  "vname": "Hunt Electronic",
-  "vcpe": "cpe:/:huntcctv",
-  "pid": "41385",
-  "pname": "dvr-04ch ファームウェア",
-  "pcpe": "cpe:/o:huntcctv:dvr-04ch_firmware"
+	"vid": "17386",
+	"vname": "Hunt Electronic",
+	"vcpe": "cpe:/:huntcctv",
+	"pid": "41385",
+	"pname": "dvr-04ch ファームウェア",
+	"pcpe": "cpe:/o:huntcctv:dvr-04ch_firmware"
 }

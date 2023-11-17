@@ -1,8 +1,8 @@
 {
-  "vid": "728",
-  "vname": "TYPO3 Association",
-  "vcpe": "cpe:/:typo3",
-  "pid": "15673",
-  "pname": "majordomo",
-  "pcpe": "cpe:/a:typo3:majordomo"
+	"vid": "728",
+	"vname": "TYPO3 Association",
+	"vcpe": "cpe:/:typo3",
+	"pid": "15673",
+	"pname": "majordomo",
+	"pcpe": "cpe:/a:typo3:majordomo"
 }

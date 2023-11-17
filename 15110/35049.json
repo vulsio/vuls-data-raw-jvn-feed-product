@@ -1,8 +1,8 @@
 {
-  "vid": "15110",
-  "vname": "MiningToken project",
-  "vcpe": "cpe:/:miningtoken_project",
-  "pid": "35049",
-  "pname": "MiningToken",
-  "pcpe": "cpe:/a:miningtoken_project:miningtoken"
+	"vid": "15110",
+	"vname": "MiningToken project",
+	"vcpe": "cpe:/:miningtoken_project",
+	"pid": "35049",
+	"pname": "MiningToken",
+	"pcpe": "cpe:/a:miningtoken_project:miningtoken"
 }

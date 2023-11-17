@@ -1,8 +1,8 @@
 {
-  "vid": "19415",
-  "vname": "HCL Software",
-  "vcpe": "cpe:/:hcltechsw",
-  "pid": "59167",
-  "pname": "hcl commerce",
-  "pcpe": "cpe:/a:hcltechsw:hcl_commerce"
+	"vid": "19415",
+	"vname": "HCL Software",
+	"vcpe": "cpe:/:hcltechsw",
+	"pid": "59167",
+	"pname": "hcl commerce",
+	"pcpe": "cpe:/a:hcltechsw:hcl_commerce"
 }

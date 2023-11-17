@@ -1,8 +1,8 @@
 {
-  "vid": "2434",
-  "vname": "Baidu, Inc.",
-  "vcpe": "cpe:/:baidu",
-  "pid": "20858",
-  "pname": "Baidu Spark Browser",
-  "pcpe": "cpe:/a:baidu:spark_browser"
+	"vid": "2434",
+	"vname": "Baidu, Inc.",
+	"vcpe": "cpe:/:baidu",
+	"pid": "20858",
+	"pname": "Baidu Spark Browser",
+	"pcpe": "cpe:/a:baidu:spark_browser"
 }

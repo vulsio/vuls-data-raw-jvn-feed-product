@@ -1,8 +1,8 @@
 {
-  "vid": "1792",
-  "vname": "Zend Technologies Ltd.",
-  "vcpe": "cpe:/:zend",
-  "pid": "21642",
-  "pname": "ZendService_Audioscrobbler",
-  "pcpe": "cpe:/a:zend:zendservice_audioscrobbler"
+	"vid": "1792",
+	"vname": "Zend Technologies Ltd.",
+	"vcpe": "cpe:/:zend",
+	"pid": "21642",
+	"pname": "ZendService_Audioscrobbler",
+	"pcpe": "cpe:/a:zend:zendservice_audioscrobbler"
 }

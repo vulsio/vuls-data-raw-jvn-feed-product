@@ -1,8 +1,8 @@
 {
-  "vid": "12732",
-  "vname": "Authconfig project",
-  "vcpe": "cpe:/:authconfig_project",
-  "pid": "29278",
-  "pname": "Authconfig",
-  "pcpe": "cpe:/a:authconfig_project:authconfig"
+	"vid": "12732",
+	"vname": "Authconfig project",
+	"vcpe": "cpe:/:authconfig_project",
+	"pid": "29278",
+	"pname": "Authconfig",
+	"pcpe": "cpe:/a:authconfig_project:authconfig"
 }

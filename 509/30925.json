@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "30925",
-  "pname": "SAP Host Agent",
-  "pcpe": "cpe:/a:sap:host_agent"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "30925",
+	"pname": "SAP Host Agent",
+	"pcpe": "cpe:/a:sap:host_agent"
 }

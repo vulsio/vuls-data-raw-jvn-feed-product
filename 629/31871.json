@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "31871",
-  "pname": "NPort W2150A ファームウェア",
-  "pcpe": "cpe:/o:moxa:nport_w2150a_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "31871",
+	"pname": "NPort W2150A ファームウェア",
+	"pcpe": "cpe:/o:moxa:nport_w2150a_firmware"
 }

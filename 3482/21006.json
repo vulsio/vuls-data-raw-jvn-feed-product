@@ -1,8 +1,8 @@
 {
-  "vid": "3482",
-  "vname": "エンバカデロ・テクノロジーズ",
-  "vcpe": "cpe:/:embarcadero",
-  "pid": "21006",
-  "pname": "Embarcadero C++Builder XE6",
-  "pcpe": "cpe:/a:embarcadero:embarcadero_c%2B%2Bbuilder_xe6"
+	"vid": "3482",
+	"vname": "エンバカデロ・テクノロジーズ",
+	"vcpe": "cpe:/:embarcadero",
+	"pid": "21006",
+	"pname": "Embarcadero C++Builder XE6",
+	"pcpe": "cpe:/a:embarcadero:embarcadero_c%2B%2Bbuilder_xe6"
 }

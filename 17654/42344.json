@@ -1,8 +1,8 @@
 {
-  "vid": "17654",
-  "vname": "SPBAS",
-  "vcpe": "cpe:/:spbas",
-  "pid": "42344",
-  "pname": "Business Automation Software",
-  "pcpe": "cpe:/a:spbas:business_automation_software"
+	"vid": "17654",
+	"vname": "SPBAS",
+	"vcpe": "cpe:/:spbas",
+	"pid": "42344",
+	"pname": "Business Automation Software",
+	"pcpe": "cpe:/a:spbas:business_automation_software"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5605",
-  "vname": "mg-soft",
-  "vcpe": "cpe:/:mg-soft",
-  "pid": "11462",
-  "pname": "net inspector",
-  "pcpe": "cpe:/a:mg-soft:net_inspector"
+	"vid": "5605",
+	"vname": "mg-soft",
+	"vcpe": "cpe:/:mg-soft",
+	"pid": "11462",
+	"pname": "net inspector",
+	"pcpe": "cpe:/a:mg-soft:net_inspector"
 }

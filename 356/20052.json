@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "20052",
-  "pname": "Google 検索アプライアンス ソフトウェア",
-  "pcpe": "cpe:/a:google:search_appliance_software"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "20052",
+	"pname": "Google 検索アプライアンス ソフトウェア",
+	"pcpe": "cpe:/a:google:search_appliance_software"
 }

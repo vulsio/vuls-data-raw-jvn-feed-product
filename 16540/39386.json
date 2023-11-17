@@ -1,8 +1,8 @@
 {
-  "vid": "16540",
-  "vname": "Cyber Power Systems",
-  "vcpe": "cpe:/:cyberpowersystems",
-  "pid": "39386",
-  "pname": "PowerPanel",
-  "pcpe": "cpe:/a:cyberpowersystems:powerpanel"
+	"vid": "16540",
+	"vname": "Cyber Power Systems",
+	"vcpe": "cpe:/:cyberpowersystems",
+	"pid": "39386",
+	"pname": "PowerPanel",
+	"pcpe": "cpe:/a:cyberpowersystems:powerpanel"
 }

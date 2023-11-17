@@ -1,8 +1,8 @@
 {
-  "vid": "264",
-  "vname": "BlueZ Project",
-  "vcpe": "cpe:/:bluez",
-  "pid": "2990",
-  "pname": "BlueZ-hcidump",
-  "pcpe": "cpe:/a:bluez:bluez-hcidump"
+	"vid": "264",
+	"vname": "BlueZ Project",
+	"vcpe": "cpe:/:bluez",
+	"pid": "2990",
+	"pname": "BlueZ-hcidump",
+	"pcpe": "cpe:/a:bluez:bluez-hcidump"
 }

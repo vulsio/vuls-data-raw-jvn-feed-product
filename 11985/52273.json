@@ -1,8 +1,8 @@
 {
-  "vid": "11985",
-  "vname": "ARM Ltd.",
-  "vcpe": "cpe:/:arm",
-  "pid": "52273",
-  "pname": "Cortex-M55 ファームウェア",
-  "pcpe": "cpe:/o:arm:cortex-m55_firmware"
+	"vid": "11985",
+	"vname": "ARM Ltd.",
+	"vcpe": "cpe:/:arm",
+	"pid": "52273",
+	"pname": "Cortex-M55 ファームウェア",
+	"pcpe": "cpe:/o:arm:cortex-m55_firmware"
 }

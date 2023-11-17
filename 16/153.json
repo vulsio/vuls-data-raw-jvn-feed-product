@@ -1,8 +1,8 @@
 {
-  "vid": "16",
-  "vname": "チェック・ポイント・ソフトウェア・テクノロジーズ",
-  "vcpe": "cpe:/:checkpoint",
-  "pid": "153",
-  "pname": "VPN-1/FireWall-1",
-  "pcpe": "cpe:/a:checkpoint:vpn-1_firewall-1"
+	"vid": "16",
+	"vname": "チェック・ポイント・ソフトウェア・テクノロジーズ",
+	"vcpe": "cpe:/:checkpoint",
+	"pid": "153",
+	"pname": "VPN-1/FireWall-1",
+	"pcpe": "cpe:/a:checkpoint:vpn-1_firewall-1"
 }

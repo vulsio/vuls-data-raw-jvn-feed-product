@@ -1,8 +1,8 @@
 {
-  "vid": "150",
-  "vname": "Sourcefire",
-  "vcpe": "cpe:/:sourcefire",
-  "pid": "220",
-  "pname": "Sourcefire Intrusion センサー",
-  "pcpe": "cpe:/a:sourcefire:intrusion_sensor"
+	"vid": "150",
+	"vname": "Sourcefire",
+	"vcpe": "cpe:/:sourcefire",
+	"pid": "220",
+	"pname": "Sourcefire Intrusion センサー",
+	"pcpe": "cpe:/a:sourcefire:intrusion_sensor"
 }

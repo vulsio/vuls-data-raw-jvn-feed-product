@@ -1,8 +1,8 @@
 {
-  "vid": "18285",
-  "vname": "S. Siedle & Soehne",
-  "vcpe": "cpe:/:siedle",
-  "pid": "44820",
-  "pname": "SG 150-0 ファームウェア",
-  "pcpe": "cpe:/o:siedle:sg_150-0_firmware"
+	"vid": "18285",
+	"vname": "S. Siedle & Soehne",
+	"vcpe": "cpe:/:siedle",
+	"pid": "44820",
+	"pname": "SG 150-0 ファームウェア",
+	"pcpe": "cpe:/o:siedle:sg_150-0_firmware"
 }

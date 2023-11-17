@@ -1,8 +1,8 @@
 {
-  "vid": "10953",
-  "vname": "rbfcu",
-  "vcpe": "cpe:/:rbfcu",
-  "pid": "22530",
-  "pname": "rbfcu mobile",
-  "pcpe": "cpe:/a:rbfcu:rbfcu_mobile"
+	"vid": "10953",
+	"vname": "rbfcu",
+	"vcpe": "cpe:/:rbfcu",
+	"pid": "22530",
+	"pname": "rbfcu mobile",
+	"pcpe": "cpe:/a:rbfcu:rbfcu_mobile"
 }

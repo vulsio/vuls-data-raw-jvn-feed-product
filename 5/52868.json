@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52868",
-  "pname": "WCN3680 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:wcn3680_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52868",
+	"pname": "WCN3680 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:wcn3680_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12290",
-  "vname": "Image-Info project",
-  "vcpe": "cpe:/:image-info_project",
-  "pid": "27574",
-  "pname": "Image::Info",
-  "pcpe": "cpe:/a:image-info_project:image-info_for_perl"
+	"vid": "12290",
+	"vname": "Image-Info project",
+	"vcpe": "cpe:/:image-info_project",
+	"pid": "27574",
+	"pname": "Image::Info",
+	"pcpe": "cpe:/a:image-info_project:image-info_for_perl"
 }

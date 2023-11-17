@@ -1,8 +1,8 @@
 {
-  "vid": "3030",
-  "vname": "cutepdf",
-  "vcpe": "cpe:/:cutepdf",
-  "pid": "7070",
-  "pname": "formmax",
-  "pcpe": "cpe:/a:cutepdf:formmax"
+	"vid": "3030",
+	"vname": "cutepdf",
+	"vcpe": "cpe:/:cutepdf",
+	"pid": "7070",
+	"pname": "formmax",
+	"pcpe": "cpe:/a:cutepdf:formmax"
 }

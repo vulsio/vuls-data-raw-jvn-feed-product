@@ -1,8 +1,8 @@
 {
-  "vid": "22848",
-  "vname": "Chained Products project",
-  "vcpe": "cpe:/:chained_products_project",
-  "pid": "58810",
-  "pname": "Chained Products",
-  "pcpe": "cpe:/a:chained_products_project:chained_products"
+	"vid": "22848",
+	"vname": "Chained Products project",
+	"vcpe": "cpe:/:chained_products_project",
+	"pid": "58810",
+	"pname": "Chained Products",
+	"pcpe": "cpe:/a:chained_products_project:chained_products"
 }

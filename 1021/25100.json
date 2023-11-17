@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "25100",
-  "pname": "Ironic Inspector",
-  "pcpe": "cpe:/a:openstack:ironic_inspector"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "25100",
+	"pname": "Ironic Inspector",
+	"pcpe": "cpe:/a:openstack:ironic_inspector"
 }

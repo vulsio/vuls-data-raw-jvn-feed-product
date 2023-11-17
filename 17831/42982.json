@@ -1,8 +1,8 @@
 {
-  "vid": "17831",
-  "vname": "ACINQ",
-  "vcpe": "cpe:/:acinq",
-  "pid": "42982",
-  "pname": "Eclair",
-  "pcpe": "cpe:/a:acinq:eclair"
+	"vid": "17831",
+	"vname": "ACINQ",
+	"vcpe": "cpe:/:acinq",
+	"pid": "42982",
+	"pname": "Eclair",
+	"pcpe": "cpe:/a:acinq:eclair"
 }

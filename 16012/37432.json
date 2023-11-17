@@ -1,8 +1,8 @@
 {
-  "vid": "16012",
-  "vname": "Freron Software",
-  "vcpe": "cpe:/:freron",
-  "pid": "37432",
-  "pname": "MailMate",
-  "pcpe": "cpe:/a:freron:mailmate"
+	"vid": "16012",
+	"vname": "Freron Software",
+	"vcpe": "cpe:/:freron",
+	"pid": "37432",
+	"pname": "MailMate",
+	"pcpe": "cpe:/a:freron:mailmate"
 }

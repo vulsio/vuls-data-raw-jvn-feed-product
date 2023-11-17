@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28577",
-  "pname": "Eudemon8000E ファームウェア",
-  "pcpe": "cpe:/o:huawei:eudemon8000e_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28577",
+	"pname": "Eudemon8000E ファームウェア",
+	"pcpe": "cpe:/o:huawei:eudemon8000e_firmware"
 }

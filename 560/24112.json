@@ -1,8 +1,8 @@
 {
-  "vid": "560",
-  "vname": "OSIsoft",
-  "vcpe": "cpe:/:osisoft",
-  "pid": "24112",
-  "pname": "PI SQL for AF",
-  "pcpe": "cpe:/a:osisoft:pi_sql_for_af"
+	"vid": "560",
+	"vname": "OSIsoft",
+	"vcpe": "cpe:/:osisoft",
+	"pid": "24112",
+	"pname": "PI SQL for AF",
+	"pcpe": "cpe:/a:osisoft:pi_sql_for_af"
 }

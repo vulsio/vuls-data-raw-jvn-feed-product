@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "2838",
-  "pname": "Cisco PVC2300 Business Internet Video Camera",
-  "pcpe": "cpe:/h:cisco:pvc2300"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "2838",
+	"pname": "Cisco PVC2300 Business Internet Video Camera",
+	"pcpe": "cpe:/h:cisco:pvc2300"
 }

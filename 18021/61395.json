@@ -1,8 +1,8 @@
 {
-  "vid": "18021",
-  "vname": "Western Digital",
-  "vcpe": "cpe:/:westerndigital",
-  "pid": "61395",
-  "pname": "my cloud home ファームウェア",
-  "pcpe": "cpe:/o:westerndigital:my_cloud_home_firmware"
+	"vid": "18021",
+	"vname": "Western Digital",
+	"vcpe": "cpe:/:westerndigital",
+	"pid": "61395",
+	"pname": "my cloud home ファームウェア",
+	"pcpe": "cpe:/o:westerndigital:my_cloud_home_firmware"
 }

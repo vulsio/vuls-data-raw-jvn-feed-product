@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "30381",
-  "pname": "ThinkStation E31 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:thinkstation_e31_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "30381",
+	"pname": "ThinkStation E31 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:thinkstation_e31_firmware"
 }

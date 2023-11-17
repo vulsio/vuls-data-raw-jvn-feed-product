@@ -1,8 +1,8 @@
 {
-  "vid": "5991",
-  "vname": "nivisec",
-  "vcpe": "cpe:/:nivisec",
-  "pid": "12044",
-  "pname": "user viewed posts tracker",
-  "pcpe": "cpe:/a:nivisec:user_viewed_posts_tracker"
+	"vid": "5991",
+	"vname": "nivisec",
+	"vcpe": "cpe:/:nivisec",
+	"pid": "12044",
+	"pname": "user viewed posts tracker",
+	"pcpe": "cpe:/a:nivisec:user_viewed_posts_tracker"
 }

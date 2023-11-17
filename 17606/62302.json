@@ -1,8 +1,8 @@
 {
-  "vid": "17606",
-  "vname": "ETH Zurich",
-  "vcpe": "cpe:/:ethz",
-  "pid": "62302",
-  "pname": "safe exam browser",
-  "pcpe": "cpe:/a:ethz:safe_exam_browser"
+	"vid": "17606",
+	"vname": "ETH Zurich",
+	"vcpe": "cpe:/:ethz",
+	"pid": "62302",
+	"pname": "safe exam browser",
+	"pcpe": "cpe:/a:ethz:safe_exam_browser"
 }

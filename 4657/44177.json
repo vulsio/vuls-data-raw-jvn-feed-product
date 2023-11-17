@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "44177",
-  "pname": "Smartax Ma5600T ファームウェア",
-  "pcpe": "cpe:/o:huawei:smartax_ma5600t_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "44177",
+	"pname": "Smartax Ma5600T ファームウェア",
+	"pcpe": "cpe:/o:huawei:smartax_ma5600t_firmware"
 }

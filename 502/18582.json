@@ -1,8 +1,8 @@
 {
-  "vid": "502",
-  "vname": "MediaWiki",
-  "vcpe": "cpe:/:mediawiki",
-  "pid": "18582",
-  "pname": "Checkuser",
-  "pcpe": "cpe:/a:mediawiki:checkuser"
+	"vid": "502",
+	"vname": "MediaWiki",
+	"vcpe": "cpe:/:mediawiki",
+	"pid": "18582",
+	"pname": "Checkuser",
+	"pcpe": "cpe:/a:mediawiki:checkuser"
 }

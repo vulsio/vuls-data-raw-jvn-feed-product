@@ -1,8 +1,8 @@
 {
-  "vid": "24519",
-  "vname": "crealogix",
-  "vcpe": "cpe:/:crealogix",
-  "pid": "63294",
-  "pname": "ebics server",
-  "pcpe": "cpe:/a:crealogix:ebics_server"
+	"vid": "24519",
+	"vname": "crealogix",
+	"vcpe": "cpe:/:crealogix",
+	"pid": "63294",
+	"pname": "ebics server",
+	"pcpe": "cpe:/a:crealogix:ebics_server"
 }

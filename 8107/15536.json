@@ -1,8 +1,8 @@
 {
-  "vid": "8107",
-  "vname": "toxiclab",
-  "vcpe": "cpe:/:toxiclab",
-  "pid": "15536",
-  "pname": "shoutbox",
-  "pcpe": "cpe:/a:toxiclab:shoutbox"
+	"vid": "8107",
+	"vname": "toxiclab",
+	"vcpe": "cpe:/:toxiclab",
+	"pid": "15536",
+	"pname": "shoutbox",
+	"pcpe": "cpe:/a:toxiclab:shoutbox"
 }

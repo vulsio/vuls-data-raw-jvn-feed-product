@@ -1,8 +1,8 @@
 {
-  "vid": "20069",
-  "vname": "Dragonfly project",
-  "vcpe": "cpe:/:dragonfly_project",
-  "pid": "60034",
-  "pname": "dragonfly",
-  "pcpe": "cpe:/a:dragonfly_project:dragonfly"
+	"vid": "20069",
+	"vname": "Dragonfly project",
+	"vcpe": "cpe:/:dragonfly_project",
+	"pid": "60034",
+	"pname": "dragonfly",
+	"pcpe": "cpe:/a:dragonfly_project:dragonfly"
 }

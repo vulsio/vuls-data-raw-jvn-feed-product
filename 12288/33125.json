@@ -1,8 +1,8 @@
 {
-  "vid": "12288",
-  "vname": "Cloud Foundry Foundation",
-  "vcpe": "cpe:/:cloud_foundry",
-  "pid": "33125",
-  "pname": "BOSH Command Line Interface",
-  "pcpe": "cpe:/a:cloud_foundry:bosh_cli"
+	"vid": "12288",
+	"vname": "Cloud Foundry Foundation",
+	"vcpe": "cpe:/:cloud_foundry",
+	"pid": "33125",
+	"pname": "BOSH Command Line Interface",
+	"pcpe": "cpe:/a:cloud_foundry:bosh_cli"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16514",
-  "vname": "BLU Products",
-  "vcpe": "cpe:/:bluproducts",
-  "pid": "57790",
-  "pname": "g90 ファームウェア",
-  "pcpe": "cpe:/o:bluproducts:g90_firmware"
+	"vid": "16514",
+	"vname": "BLU Products",
+	"vcpe": "cpe:/:bluproducts",
+	"pid": "57790",
+	"pname": "g90 ファームウェア",
+	"pcpe": "cpe:/o:bluproducts:g90_firmware"
 }

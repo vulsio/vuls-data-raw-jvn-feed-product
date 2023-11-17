@@ -1,8 +1,8 @@
 {
-  "vid": "8399",
-  "vname": "watchtower",
-  "vcpe": "cpe:/:watchtower",
-  "pid": "16005",
-  "pname": "watchtower",
-  "pcpe": "cpe:/a:watchtower:watchtower"
+	"vid": "8399",
+	"vname": "watchtower",
+	"vcpe": "cpe:/:watchtower",
+	"pid": "16005",
+	"pname": "watchtower",
+	"pcpe": "cpe:/a:watchtower:watchtower"
 }

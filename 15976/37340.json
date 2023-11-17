@@ -1,8 +1,8 @@
 {
-  "vid": "15976",
-  "vname": "Subaru of America, Inc",
-  "vcpe": "cpe:/:subaru",
-  "pid": "37340",
-  "pname": "Subaru StarLink 2019 ファームウェア",
-  "pcpe": "cpe:/o:subaru:starlink_2019_firmware"
+	"vid": "15976",
+	"vname": "Subaru of America, Inc",
+	"vcpe": "cpe:/:subaru",
+	"pid": "37340",
+	"pname": "Subaru StarLink 2019 ファームウェア",
+	"pcpe": "cpe:/o:subaru:starlink_2019_firmware"
 }

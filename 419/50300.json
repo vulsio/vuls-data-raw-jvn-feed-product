@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "50300",
-  "pname": "H700S ファームウェア",
-  "pcpe": "cpe:/o:netapp:h700s_firmware"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "50300",
+	"pname": "H700S ファームウェア",
+	"pcpe": "cpe:/o:netapp:h700s_firmware"
 }

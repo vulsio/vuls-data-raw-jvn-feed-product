@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25574",
-  "pname": "JG407A HP MSR3024 DC Router",
-  "pcpe": "cpe:/h:hp:jg407a_hp_msr3024_dc_router"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25574",
+	"pname": "JG407A HP MSR3024 DC Router",
+	"pcpe": "cpe:/h:hp:jg407a_hp_msr3024_dc_router"
 }

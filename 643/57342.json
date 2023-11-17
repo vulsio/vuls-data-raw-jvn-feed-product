@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "57342",
-  "pname": "Inspiron 27 7775 ファームウェア",
-  "pcpe": "cpe:/o:dell:inspiron_27_7775_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "57342",
+	"pname": "Inspiron 27 7775 ファームウェア",
+	"pcpe": "cpe:/o:dell:inspiron_27_7775_firmware"
 }

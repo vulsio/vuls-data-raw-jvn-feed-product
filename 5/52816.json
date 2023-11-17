@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52816",
-  "pname": "SA8145P ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sa8145p_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52816",
+	"pname": "SA8145P ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sa8145p_firmware"
 }

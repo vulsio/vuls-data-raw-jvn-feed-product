@@ -1,8 +1,8 @@
 {
-  "vid": "638",
-  "vname": "OpenSLP",
-  "vcpe": "cpe:/:openslp",
-  "pid": "2722",
-  "pname": "OpenSLP",
-  "pcpe": "cpe:/a:openslp:openslp"
+	"vid": "638",
+	"vname": "OpenSLP",
+	"vcpe": "cpe:/:openslp",
+	"pid": "2722",
+	"pname": "OpenSLP",
+	"pcpe": "cpe:/a:openslp:openslp"
 }

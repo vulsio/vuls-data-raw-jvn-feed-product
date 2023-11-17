@@ -1,8 +1,8 @@
 {
-  "vid": "4822",
-  "vname": "InterWorx",
-  "vcpe": "cpe:/:interworx",
-  "pid": "10224",
-  "pname": "interworx-cp",
-  "pcpe": "cpe:/a:interworx:interworx-cp"
+	"vid": "4822",
+	"vname": "InterWorx",
+	"vcpe": "cpe:/:interworx",
+	"pid": "10224",
+	"pname": "interworx-cp",
+	"pcpe": "cpe:/a:interworx:interworx-cp"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13269",
-  "vname": "WriteDiary.com",
-  "vcpe": "cpe:/:writediary",
-  "pid": "31032",
-  "pname": "Diary with lock",
-  "pcpe": "cpe:/a:writediary:diary_with_lock"
+	"vid": "13269",
+	"vname": "WriteDiary.com",
+	"vcpe": "cpe:/:writediary",
+	"pid": "31032",
+	"pname": "Diary with lock",
+	"pcpe": "cpe:/a:writediary:diary_with_lock"
 }

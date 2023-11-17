@@ -1,8 +1,8 @@
 {
-  "vid": "1798",
-  "vname": "Synology Inc.",
-  "vcpe": "cpe:/:synology",
-  "pid": "56562",
-  "pname": "Mail Station",
-  "pcpe": "cpe:/a:synology:mail_station"
+	"vid": "1798",
+	"vname": "Synology Inc.",
+	"vcpe": "cpe:/:synology",
+	"pid": "56562",
+	"pname": "Mail Station",
+	"pcpe": "cpe:/a:synology:mail_station"
 }

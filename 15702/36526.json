@@ -1,8 +1,8 @@
 {
-  "vid": "15702",
-  "vname": "FineUploader",
-  "vcpe": "cpe:/:fineuploader",
-  "pid": "36526",
-  "pname": "php-traditional-server",
-  "pcpe": "cpe:/a:fineuploader:php-traditional-server"
+	"vid": "15702",
+	"vname": "FineUploader",
+	"vcpe": "cpe:/:fineuploader",
+	"pid": "36526",
+	"pname": "php-traditional-server",
+	"pcpe": "cpe:/a:fineuploader:php-traditional-server"
 }

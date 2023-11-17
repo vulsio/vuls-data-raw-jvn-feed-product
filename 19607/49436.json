@@ -1,8 +1,8 @@
 {
-  "vid": "19607",
-  "vname": "Local Service Search Engine Management System",
-  "vcpe": "cpe:/:local_services_search_engine_management_system",
-  "pid": "49436",
-  "pname": "Local Service Search Engine Management System",
-  "pcpe": "cpe:/a:local_services_search_engine_management_system:local_services_search_engine_management_system"
+	"vid": "19607",
+	"vname": "Local Service Search Engine Management System",
+	"vcpe": "cpe:/:local_services_search_engine_management_system",
+	"pid": "49436",
+	"pname": "Local Service Search Engine Management System",
+	"pcpe": "cpe:/a:local_services_search_engine_management_system:local_services_search_engine_management_system"
 }

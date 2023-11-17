@@ -1,8 +1,8 @@
 {
-  "vid": "10861",
-  "vname": "myapp",
-  "vcpe": "cpe:/:myapp",
-  "pid": "22417",
-  "pname": "prix import",
-  "pcpe": "cpe:/a:myapp:prix_import"
+	"vid": "10861",
+	"vname": "myapp",
+	"vcpe": "cpe:/:myapp",
+	"pid": "22417",
+	"pname": "prix import",
+	"pcpe": "cpe:/a:myapp:prix_import"
 }

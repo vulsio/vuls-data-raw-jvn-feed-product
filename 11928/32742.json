@@ -1,8 +1,8 @@
 {
-  "vid": "11928",
-  "vname": "Project Jupyter",
-  "vcpe": "cpe:/:jupyter",
-  "pid": "32742",
-  "pname": "oauthenticator",
-  "pcpe": "cpe:/a:jupyter:oauthenticator"
+	"vid": "11928",
+	"vname": "Project Jupyter",
+	"vcpe": "cpe:/:jupyter",
+	"pid": "32742",
+	"pname": "oauthenticator",
+	"pcpe": "cpe:/a:jupyter:oauthenticator"
 }

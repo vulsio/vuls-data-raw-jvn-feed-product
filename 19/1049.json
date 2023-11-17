@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "1049",
-  "pname": "Cisco 7500 シリーズ",
-  "pcpe": "cpe:/h:cisco:7500_router"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "1049",
+	"pname": "Cisco 7500 シリーズ",
+	"pcpe": "cpe:/h:cisco:7500_router"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "33640",
-  "pname": "XH321 V5 ファームウェア",
-  "pcpe": "cpe:/o:huawei:xh321_v5_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "33640",
+	"pname": "XH321 V5 ファームウェア",
+	"pcpe": "cpe:/o:huawei:xh321_v5_firmware"
 }

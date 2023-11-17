@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26049",
-  "pname": "S5720HI",
-  "pcpe": "cpe:/h:huawei:s5720hi"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26049",
+	"pname": "S5720HI",
+	"pcpe": "cpe:/h:huawei:s5720hi"
 }

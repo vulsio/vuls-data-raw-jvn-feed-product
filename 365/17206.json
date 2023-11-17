@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "17206",
-  "pname": "NetScaler Gateway ファームウェア",
-  "pcpe": "cpe:/o:citrix:netscaler_gateway_firmware"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "17206",
+	"pname": "NetScaler Gateway ファームウェア",
+	"pcpe": "cpe:/o:citrix:netscaler_gateway_firmware"
 }

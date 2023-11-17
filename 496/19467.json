@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "19467",
-  "pname": "BIG-IP Access Policy Manager (スタンドアローン版)",
-  "pcpe": "cpe:/h:f5:big-ip_access_policy_manager"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "19467",
+	"pname": "BIG-IP Access Policy Manager (スタンドアローン版)",
+	"pcpe": "cpe:/h:f5:big-ip_access_policy_manager"
 }

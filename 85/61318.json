@@ -1,8 +1,8 @@
 {
-  "vid": "85",
-  "vname": "Carnegie Mellon University (Project Cyrus)",
-  "vcpe": "cpe:/:cmu",
-  "pid": "61318",
-  "pname": "opendiamond",
-  "pcpe": "cpe:/a:cmu:opendiamond"
+	"vid": "85",
+	"vname": "Carnegie Mellon University (Project Cyrus)",
+	"vcpe": "cpe:/:cmu",
+	"pid": "61318",
+	"pname": "opendiamond",
+	"pcpe": "cpe:/a:cmu:opendiamond"
 }

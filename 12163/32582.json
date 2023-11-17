@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "32582",
-  "pname": "Credentials Binding",
-  "pcpe": "cpe:/a:jenkins:credentials_binding"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "32582",
+	"pname": "Credentials Binding",
+	"pcpe": "cpe:/a:jenkins:credentials_binding"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "519",
-  "vname": "アバイア",
-  "vcpe": "cpe:/:avaya",
-  "pid": "41862",
-  "pname": "Avaya IQ",
-  "pcpe": "cpe:/a:avaya:iq"
+	"vid": "519",
+	"vname": "アバイア",
+	"vcpe": "cpe:/:avaya",
+	"pid": "41862",
+	"pname": "Avaya IQ",
+	"pcpe": "cpe:/a:avaya:iq"
 }

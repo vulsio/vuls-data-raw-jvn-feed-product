@@ -1,8 +1,8 @@
 {
-  "vid": "19116",
-  "vname": "CASAP Automated Enrollment System project",
-  "vcpe": "cpe:/:casap_automated_enrollment_system_project",
-  "pid": "48014",
-  "pname": "CASAP Automated Enrollment System",
-  "pcpe": "cpe:/a:casap_automated_enrollment_system_project:casap_automated_enrollment_system"
+	"vid": "19116",
+	"vname": "CASAP Automated Enrollment System project",
+	"vcpe": "cpe:/:casap_automated_enrollment_system_project",
+	"pid": "48014",
+	"pname": "CASAP Automated Enrollment System",
+	"pcpe": "cpe:/a:casap_automated_enrollment_system_project:casap_automated_enrollment_system"
 }

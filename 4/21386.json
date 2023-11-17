@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "21386",
-  "pname": "HP Records Manager",
-  "pcpe": "cpe:/a:hp:records_manager"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "21386",
+	"pname": "HP Records Manager",
+	"pcpe": "cpe:/a:hp:records_manager"
 }

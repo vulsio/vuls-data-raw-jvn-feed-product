@@ -1,8 +1,8 @@
 {
-  "vid": "21778",
-  "vname": "ansible-ntp project",
-  "vcpe": "cpe:/:ansible-ntp_project",
-  "pid": "55935",
-  "pname": "ansible-ntp",
-  "pcpe": "cpe:/a:ansible-ntp_project:ansible-ntp"
+	"vid": "21778",
+	"vname": "ansible-ntp project",
+	"vcpe": "cpe:/:ansible-ntp_project",
+	"pid": "55935",
+	"pname": "ansible-ntp",
+	"pcpe": "cpe:/a:ansible-ntp_project:ansible-ntp"
 }

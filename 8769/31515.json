@@ -1,8 +1,8 @@
 {
-  "vid": "8769",
-  "vname": "QNAP Systems",
-  "vcpe": "cpe:/:qnap",
-  "pid": "31515",
-  "pname": "Video Station",
-  "pcpe": "cpe:/a:qnap:video_station"
+	"vid": "8769",
+	"vname": "QNAP Systems",
+	"vcpe": "cpe:/:qnap",
+	"pid": "31515",
+	"pname": "Video Station",
+	"pcpe": "cpe:/a:qnap:video_station"
 }

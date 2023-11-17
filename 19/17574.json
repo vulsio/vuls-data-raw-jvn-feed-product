@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17574",
-  "pname": "Cisco TelePresence MX200",
-  "pcpe": "cpe:/h:cisco:telepresence_mx200"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17574",
+	"pname": "Cisco TelePresence MX200",
+	"pcpe": "cpe:/h:cisco:telepresence_mx200"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17899",
-  "vname": "Hubot Scripts project",
-  "vcpe": "cpe:/:hubot_scripts_project",
-  "pid": "43227",
-  "pname": "Hubot Scripts",
-  "pcpe": "cpe:/a:hubot_scripts_project:hubot_scripts"
+	"vid": "17899",
+	"vname": "Hubot Scripts project",
+	"vcpe": "cpe:/:hubot_scripts_project",
+	"pid": "43227",
+	"pname": "Hubot Scripts",
+	"pcpe": "cpe:/a:hubot_scripts_project:hubot_scripts"
 }

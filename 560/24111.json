@@ -1,8 +1,8 @@
 {
-  "vid": "560",
-  "vname": "OSIsoft",
-  "vcpe": "cpe:/:osisoft",
-  "pid": "24111",
-  "pname": "PI AF",
-  "pcpe": "cpe:/a:osisoft:pi_af"
+	"vid": "560",
+	"vname": "OSIsoft",
+	"vcpe": "cpe:/:osisoft",
+	"pid": "24111",
+	"pname": "PI AF",
+	"pcpe": "cpe:/a:osisoft:pi_af"
 }

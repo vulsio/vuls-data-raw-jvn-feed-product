@@ -1,8 +1,8 @@
 {
-  "vid": "17542",
-  "vname": "marmaro",
-  "vcpe": "cpe:/:marmaro",
-  "pid": "42001",
-  "pname": "masqmail",
-  "pcpe": "cpe:/a:marmaro:masqmail"
+	"vid": "17542",
+	"vname": "marmaro",
+	"vcpe": "cpe:/:marmaro",
+	"pid": "42001",
+	"pname": "masqmail",
+	"pcpe": "cpe:/a:marmaro:masqmail"
 }

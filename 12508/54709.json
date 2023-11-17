@@ -1,8 +1,8 @@
 {
-  "vid": "12508",
-  "vname": "Becton, Dickinson and Company (BD)",
-  "vcpe": "cpe:/:bd",
-  "pid": "54709",
-  "pname": "CME BodyGuard 323 Color Vision",
-  "pcpe": "cpe:/o:bd:cme_bodyguard_323_color_vision"
+	"vid": "12508",
+	"vname": "Becton, Dickinson and Company (BD)",
+	"vcpe": "cpe:/:bd",
+	"pid": "54709",
+	"pname": "CME BodyGuard 323 Color Vision",
+	"pcpe": "cpe:/o:bd:cme_bodyguard_323_color_vision"
 }

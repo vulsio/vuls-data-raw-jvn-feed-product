@@ -1,8 +1,8 @@
 {
-  "vid": "22585",
-  "vname": "Correos",
-  "vcpe": "cpe:/:correos",
-  "pid": "58130",
-  "pname": "Correos",
-  "pcpe": "cpe:/a:correos:correos"
+	"vid": "22585",
+	"vname": "Correos",
+	"vcpe": "cpe:/:correos",
+	"pid": "58130",
+	"pname": "Correos",
+	"pcpe": "cpe:/a:correos:correos"
 }

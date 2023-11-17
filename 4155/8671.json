@@ -1,8 +1,8 @@
 {
-  "vid": "4155",
-  "vname": "unicenter",
-  "vcpe": "cpe:/:unicenter",
-  "pid": "8671",
-  "pname": "database command center",
-  "pcpe": "cpe:/a:unicenter:database_command_center"
+	"vid": "4155",
+	"vname": "unicenter",
+	"vcpe": "cpe:/:unicenter",
+	"pid": "8671",
+	"pname": "database command center",
+	"pcpe": "cpe:/a:unicenter:database_command_center"
 }

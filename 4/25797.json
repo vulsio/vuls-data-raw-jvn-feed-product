@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "25797",
-  "pname": "HP EliteDesk 800 G2 DM",
-  "pcpe": "cpe:/h:hp:elitedesk_800_g2_dm"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "25797",
+	"pname": "HP EliteDesk 800 G2 DM",
+	"pcpe": "cpe:/h:hp:elitedesk_800_g2_dm"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "7155",
-  "vname": "pygresql",
-  "vcpe": "cpe:/:pygresql",
-  "pid": "14124",
-  "pname": "pygresql",
-  "pcpe": "cpe:/a:pygresql:pygresql"
+	"vid": "7155",
+	"vname": "pygresql",
+	"vcpe": "cpe:/:pygresql",
+	"pid": "14124",
+	"pname": "pygresql",
+	"pcpe": "cpe:/a:pygresql:pygresql"
 }

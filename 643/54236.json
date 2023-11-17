@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "54236",
-  "pname": "EMC PowerScale A100 ファームウェア",
-  "pcpe": "cpe:/o:dell:emc_powerscale_nodes_a100_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "54236",
+	"pname": "EMC PowerScale A100 ファームウェア",
+	"pcpe": "cpe:/o:dell:emc_powerscale_nodes_a100_firmware"
 }

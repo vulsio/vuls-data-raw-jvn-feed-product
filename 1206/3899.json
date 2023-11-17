@@ -1,8 +1,8 @@
 {
-  "vid": "1206",
-  "vname": "BASE",
-  "vcpe": "cpe:/:base",
-  "pid": "3899",
-  "pname": "Basic Analysis and Security Engine",
-  "pcpe": "cpe:/a:base:basic_analysis_and_security_engine"
+	"vid": "1206",
+	"vname": "BASE",
+	"vcpe": "cpe:/:base",
+	"pid": "3899",
+	"pname": "Basic Analysis and Security Engine",
+	"pcpe": "cpe:/a:base:basic_analysis_and_security_engine"
 }

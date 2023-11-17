@@ -1,8 +1,8 @@
 {
-  "vid": "12365",
-  "vname": "Gradle Inc.",
-  "vcpe": "cpe:/:gradle",
-  "pid": "46551",
-  "pname": "Build Cache Node",
-  "pcpe": "cpe:/a:gradle:enterprise_cache_node"
+	"vid": "12365",
+	"vname": "Gradle Inc.",
+	"vcpe": "cpe:/:gradle",
+	"pid": "46551",
+	"pname": "Build Cache Node",
+	"pcpe": "cpe:/a:gradle:enterprise_cache_node"
 }

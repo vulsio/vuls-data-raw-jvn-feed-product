@@ -1,8 +1,8 @@
 {
-  "vid": "438",
-  "vname": "ガンホー・オンライン・エンターテイメント株式会社",
-  "vcpe": "cpe:/:gungho",
-  "pid": "1643",
-  "pname": "LoadPrgAx",
-  "pcpe": "cpe:/a:gungho:loadprgax_control"
+	"vid": "438",
+	"vname": "ガンホー・オンライン・エンターテイメント株式会社",
+	"vcpe": "cpe:/:gungho",
+	"pid": "1643",
+	"pname": "LoadPrgAx",
+	"pcpe": "cpe:/a:gungho:loadprgax_control"
 }

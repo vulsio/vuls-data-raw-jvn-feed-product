@@ -1,8 +1,8 @@
 {
-  "vid": "517",
-  "vname": "Xerox",
-  "vcpe": "cpe:/:xerox",
-  "pid": "37451",
-  "pname": "WorkCentre 5875i ファームウェア",
-  "pcpe": "cpe:/o:xerox:workcentre_5875i_firmware"
+	"vid": "517",
+	"vname": "Xerox",
+	"vcpe": "cpe:/:xerox",
+	"pid": "37451",
+	"pname": "WorkCentre 5875i ファームウェア",
+	"pcpe": "cpe:/o:xerox:workcentre_5875i_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "226",
-  "vname": "Novell",
-  "vcpe": "cpe:/:novell",
-  "pid": "3629",
-  "pname": "Novell Sentinel Log Manager",
-  "pcpe": "cpe:/a:novell:sentinel_log_manager"
+	"vid": "226",
+	"vname": "Novell",
+	"vcpe": "cpe:/:novell",
+	"pid": "3629",
+	"pname": "Novell Sentinel Log Manager",
+	"pcpe": "cpe:/a:novell:sentinel_log_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "44932",
-  "pname": "Messaging Real-time Grid",
-  "pcpe": "cpe:/o:redhat:messaging_realtime_grid"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "44932",
+	"pname": "Messaging Real-time Grid",
+	"pcpe": "cpe:/o:redhat:messaging_realtime_grid"
 }

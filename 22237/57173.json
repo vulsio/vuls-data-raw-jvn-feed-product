@@ -1,8 +1,8 @@
 {
-  "vid": "22237",
-  "vname": "WOCU-Monitoring",
-  "vcpe": "cpe:/:wocu-monitoring",
-  "pid": "57173",
-  "pname": "WOCU Monitoring",
-  "pcpe": "cpe:/a:wocu-monitoring:wocu_monitoring"
+	"vid": "22237",
+	"vname": "WOCU-Monitoring",
+	"vcpe": "cpe:/:wocu-monitoring",
+	"pid": "57173",
+	"pname": "WOCU Monitoring",
+	"pcpe": "cpe:/a:wocu-monitoring:wocu_monitoring"
 }

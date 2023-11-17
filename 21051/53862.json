@@ -1,8 +1,8 @@
 {
-  "vid": "21051",
-  "vname": "Thunderdome",
-  "vcpe": "cpe:/:thunderdome",
-  "pid": "53862",
-  "pname": "thunderdome-planning-poker",
-  "pcpe": "cpe:/a:thunderdome:planning_poker"
+	"vid": "21051",
+	"vname": "Thunderdome",
+	"vcpe": "cpe:/:thunderdome",
+	"pid": "53862",
+	"pname": "thunderdome-planning-poker",
+	"pcpe": "cpe:/a:thunderdome:planning_poker"
 }

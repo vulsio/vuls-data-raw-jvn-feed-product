@@ -1,8 +1,8 @@
 {
-  "vid": "12713",
-  "vname": "Gemalto N.V.",
-  "vcpe": "cpe:/:gemalto",
-  "pid": "42293",
-  "pname": "Sentinel LDK License Manager",
-  "pcpe": "cpe:/a:gemalto:sentinel_ldk_license_manager"
+	"vid": "12713",
+	"vname": "Gemalto N.V.",
+	"vcpe": "cpe:/:gemalto",
+	"pid": "42293",
+	"pname": "Sentinel LDK License Manager",
+	"pcpe": "cpe:/a:gemalto:sentinel_ldk_license_manager"
 }

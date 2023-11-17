@@ -1,8 +1,8 @@
 {
-  "vid": "16362",
-  "vname": "Espressif Systems",
-  "vcpe": "cpe:/:espressif",
-  "pid": "40506",
-  "pname": "ESP8266 Arduino",
-  "pcpe": "cpe:/a:espressif:arduino_esp8266"
+	"vid": "16362",
+	"vname": "Espressif Systems",
+	"vcpe": "cpe:/:espressif",
+	"pid": "40506",
+	"pname": "ESP8266 Arduino",
+	"pcpe": "cpe:/a:espressif:arduino_esp8266"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21532",
-  "vname": "ShellJS project",
-  "vcpe": "cpe:/:shelljs_project",
-  "pid": "55337",
-  "pname": "ShellJS",
-  "pcpe": "cpe:/a:shelljs_project:shelljs"
+	"vid": "21532",
+	"vname": "ShellJS project",
+	"vcpe": "cpe:/:shelljs_project",
+	"pid": "55337",
+	"pname": "ShellJS",
+	"pcpe": "cpe:/a:shelljs_project:shelljs"
 }

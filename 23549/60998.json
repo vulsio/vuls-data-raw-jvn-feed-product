@@ -1,8 +1,8 @@
 {
-  "vid": "23549",
-  "vname": "quic-go project",
-  "vcpe": "cpe:/:quic-go_project",
-  "pid": "60998",
-  "pname": "quic-go",
-  "pcpe": "cpe:/a:quic-go_project:quic-go"
+	"vid": "23549",
+	"vname": "quic-go project",
+	"vcpe": "cpe:/:quic-go_project",
+	"pid": "60998",
+	"pname": "quic-go",
+	"pcpe": "cpe:/a:quic-go_project:quic-go"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "8818",
-  "pname": "Cisco Wireless Control System",
-  "pcpe": "cpe:/h:cisco:wireless_control_system"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "8818",
+	"pname": "Cisco Wireless Control System",
+	"pcpe": "cpe:/h:cisco:wireless_control_system"
 }

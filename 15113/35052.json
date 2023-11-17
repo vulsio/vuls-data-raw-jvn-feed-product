@@ -1,8 +1,8 @@
 {
-  "vid": "15113",
-  "vname": "ResidualValue project",
-  "vcpe": "cpe:/:residualvalue_project",
-  "pid": "35052",
-  "pname": "ResidualValue",
-  "pcpe": "cpe:/a:residualvalue_project:residualvalue"
+	"vid": "15113",
+	"vname": "ResidualValue project",
+	"vcpe": "cpe:/:residualvalue_project",
+	"pid": "35052",
+	"pname": "ResidualValue",
+	"pcpe": "cpe:/a:residualvalue_project:residualvalue"
 }

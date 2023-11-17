@@ -1,8 +1,8 @@
 {
-  "vid": "1107",
-  "vname": "Xiaomi",
-  "vcpe": "cpe:/:xiaomi",
-  "pid": "38952",
-  "pname": "Mi6 Browser",
-  "pcpe": "cpe:/a:xiaomi:mi6_browser"
+	"vid": "1107",
+	"vname": "Xiaomi",
+	"vcpe": "cpe:/:xiaomi",
+	"pid": "38952",
+	"pname": "Mi6 Browser",
+	"pcpe": "cpe:/a:xiaomi:mi6_browser"
 }

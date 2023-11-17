@@ -1,8 +1,8 @@
 {
-  "vid": "17854",
-  "vname": "CIRCL",
-  "vcpe": "cpe:/:circl",
-  "pid": "43086",
-  "pname": "AIL framework",
-  "pcpe": "cpe:/a:circl:ail_framework"
+	"vid": "17854",
+	"vname": "CIRCL",
+	"vcpe": "cpe:/:circl",
+	"pid": "43086",
+	"pname": "AIL framework",
+	"pcpe": "cpe:/a:circl:ail_framework"
 }

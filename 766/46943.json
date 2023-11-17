@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "46943",
-  "pname": "PowerLogic ION7400 ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:powerlogic_ion7400_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "46943",
+	"pname": "PowerLogic ION7400 ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:powerlogic_ion7400_firmware"
 }

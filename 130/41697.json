@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "41697",
-  "pname": "Xeon 8160F ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_8160f_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "41697",
+	"pname": "Xeon 8160F ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_8160f_firmware"
 }

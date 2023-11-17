@@ -1,8 +1,8 @@
 {
-  "vid": "11701",
-  "vname": "GigPress project",
-  "vcpe": "cpe:/:gigpress_project",
-  "pid": "24115",
-  "pname": "GigPress",
-  "pcpe": "cpe:/a:gigpress_project:gigpress"
+	"vid": "11701",
+	"vname": "GigPress project",
+	"vcpe": "cpe:/:gigpress_project",
+	"pid": "24115",
+	"pname": "GigPress",
+	"pcpe": "cpe:/a:gigpress_project:gigpress"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18193",
-  "vname": "ecobee",
-  "vcpe": "cpe:/:ecobee",
-  "pid": "51691",
-  "pname": "ecobee3 lite ファームウェア",
-  "pcpe": "cpe:/o:ecobee:ecobee3_lite_firmware"
+	"vid": "18193",
+	"vname": "ecobee",
+	"vcpe": "cpe:/:ecobee",
+	"pid": "51691",
+	"pname": "ecobee3 lite ファームウェア",
+	"pcpe": "cpe:/o:ecobee:ecobee3_lite_firmware"
 }

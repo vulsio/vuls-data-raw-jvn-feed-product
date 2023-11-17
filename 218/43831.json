@@ -1,8 +1,8 @@
 {
-  "vid": "218",
-  "vname": "ヤマハ",
-  "vcpe": "cpe:/:yamaha",
-  "pid": "43831",
-  "pname": "RTX830",
-  "pcpe": "cpe:/h:yamaha:rtx830"
+	"vid": "218",
+	"vname": "ヤマハ",
+	"vcpe": "cpe:/:yamaha",
+	"pid": "43831",
+	"pname": "RTX830",
+	"pcpe": "cpe:/h:yamaha:rtx830"
 }

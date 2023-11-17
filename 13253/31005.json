@@ -1,8 +1,8 @@
 {
-  "vid": "13253",
-  "vname": "jQuery Update project",
-  "vcpe": "cpe:/:jquery_update_project",
-  "pid": "31005",
-  "pname": "jQuery Update",
-  "pcpe": "cpe:/a:jquery_update_project:jquery_update"
+	"vid": "13253",
+	"vname": "jQuery Update project",
+	"vcpe": "cpe:/:jquery_update_project",
+	"pid": "31005",
+	"pname": "jQuery Update",
+	"pcpe": "cpe:/a:jquery_update_project:jquery_update"
 }

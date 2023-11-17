@@ -1,8 +1,8 @@
 {
-  "vid": "12306",
-  "vname": "Netop",
-  "vcpe": "cpe:/:netop",
-  "pid": "27624",
-  "pname": "Netop Remote Control",
-  "pcpe": "cpe:/a:netop:remote_control"
+	"vid": "12306",
+	"vname": "Netop",
+	"vcpe": "cpe:/:netop",
+	"pid": "27624",
+	"pname": "Netop Remote Control",
+	"pcpe": "cpe:/a:netop:remote_control"
 }

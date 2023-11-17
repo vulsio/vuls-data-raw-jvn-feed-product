@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "42704",
-  "pname": "DeskJet Ink Advantage 2600 V1N02A ファームウェア",
-  "pcpe": "cpe:/o:hp:deskjet_ink_advantage_2600_v1n02a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "42704",
+	"pname": "DeskJet Ink Advantage 2600 V1N02A ファームウェア",
+	"pcpe": "cpe:/o:hp:deskjet_ink_advantage_2600_v1n02a_firmware"
 }

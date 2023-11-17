@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "7769",
-  "pname": "EMC Documentum Webtop",
-  "pcpe": "cpe:/a:emc:documentum_webtop"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "7769",
+	"pname": "EMC Documentum Webtop",
+	"pcpe": "cpe:/a:emc:documentum_webtop"
 }

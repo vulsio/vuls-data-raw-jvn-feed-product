@@ -1,8 +1,8 @@
 {
-  "vid": "24486",
-  "vname": "matrix-nio project",
-  "vcpe": "cpe:/:matrix-nio_project",
-  "pid": "63229",
-  "pname": "matrix-nio",
-  "pcpe": "cpe:/a:matrix-nio_project:matrix-nio"
+	"vid": "24486",
+	"vname": "matrix-nio project",
+	"vcpe": "cpe:/:matrix-nio_project",
+	"pid": "63229",
+	"pname": "matrix-nio",
+	"pcpe": "cpe:/a:matrix-nio_project:matrix-nio"
 }

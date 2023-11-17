@@ -1,8 +1,8 @@
 {
-  "vid": "18784",
-  "vname": "telmat",
-  "vcpe": "cpe:/:telmat",
-  "pid": "46721",
-  "pname": "AccessLog ファームウェア",
-  "pcpe": "cpe:/o:telmat:accesslog_firmware"
+	"vid": "18784",
+	"vname": "telmat",
+	"vcpe": "cpe:/:telmat",
+	"pid": "46721",
+	"pname": "AccessLog ファームウェア",
+	"pcpe": "cpe:/o:telmat:accesslog_firmware"
 }

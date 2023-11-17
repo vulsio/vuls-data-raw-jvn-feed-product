@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "16765",
-  "pname": "Polycom HDX システム ソフトウェア",
-  "pcpe": "cpe:/a:polycom:hdx_system_software"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "16765",
+	"pname": "Polycom HDX システム ソフトウェア",
+	"pcpe": "cpe:/a:polycom:hdx_system_software"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "24175",
-  "vname": "mb.miniAudioPlayer project",
-  "vcpe": "cpe:/:mb.miniaudioplayer_project",
-  "pid": "62539",
-  "pname": "mb.miniAudioPlayer",
-  "pcpe": "cpe:/a:mb.miniaudioplayer_project:mb.miniaudioplayer"
+	"vid": "24175",
+	"vname": "mb.miniAudioPlayer project",
+	"vcpe": "cpe:/:mb.miniaudioplayer_project",
+	"pid": "62539",
+	"pname": "mb.miniAudioPlayer",
+	"pcpe": "cpe:/a:mb.miniaudioplayer_project:mb.miniaudioplayer"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14745",
-  "vname": "st project",
-  "vcpe": "cpe:/:st_project",
-  "pid": "63789",
-  "pname": "stm32 mw usb host",
-  "pcpe": "cpe:/a:st_project:stm32_mw_usb_host"
+	"vid": "14745",
+	"vname": "st project",
+	"vcpe": "cpe:/:st_project",
+	"pid": "63789",
+	"pname": "stm32 mw usb host",
+	"pcpe": "cpe:/a:st_project:stm32_mw_usb_host"
 }

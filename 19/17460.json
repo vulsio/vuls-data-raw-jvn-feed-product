@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17460",
-  "pname": "Cisco Video Surveillance Operations Manager",
-  "pcpe": "cpe:/a:cisco:video_surveillance_operations_manager"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17460",
+	"pname": "Cisco Video Surveillance Operations Manager",
+	"pcpe": "cpe:/a:cisco:video_surveillance_operations_manager"
 }

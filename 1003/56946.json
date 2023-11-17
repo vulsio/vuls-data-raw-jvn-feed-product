@@ -1,8 +1,8 @@
 {
-  "vid": "1003",
-  "vname": "Moodle",
-  "vcpe": "cpe:/:moodle",
-  "pid": "56946",
-  "pname": "SAML Authentication",
-  "pcpe": "cpe:/a:moodle:saml_authentication"
+	"vid": "1003",
+	"vname": "Moodle",
+	"vcpe": "cpe:/:moodle",
+	"pid": "56946",
+	"pname": "SAML Authentication",
+	"pcpe": "cpe:/a:moodle:saml_authentication"
 }

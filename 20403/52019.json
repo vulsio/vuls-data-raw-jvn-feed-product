@@ -1,8 +1,8 @@
 {
-  "vid": "20403",
-  "vname": "tmerc-cogs project",
-  "vcpe": "cpe:/:tmerc-cogs_project",
-  "pid": "52019",
-  "pname": "tmerc-cogs",
-  "pcpe": "cpe:/a:tmerc-cogs_project:tmerc-cogs"
+	"vid": "20403",
+	"vname": "tmerc-cogs project",
+	"vcpe": "cpe:/:tmerc-cogs_project",
+	"pid": "52019",
+	"pname": "tmerc-cogs",
+	"pcpe": "cpe:/a:tmerc-cogs_project:tmerc-cogs"
 }

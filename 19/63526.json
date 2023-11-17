@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "63526",
-  "pname": "catalyst 6880-x ファームウェア",
-  "pcpe": "cpe:/o:cisco:catalyst_6880-x_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "63526",
+	"pname": "catalyst 6880-x ファームウェア",
+	"pcpe": "cpe:/o:cisco:catalyst_6880-x_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11299",
-  "vname": "mygoodhotels",
-  "vcpe": "cpe:/:mygoodhotels",
-  "pid": "22993",
-  "pname": "booking discount",
-  "pcpe": "cpe:/a:mygoodhotels:booking_discount"
+	"vid": "11299",
+	"vname": "mygoodhotels",
+	"vcpe": "cpe:/:mygoodhotels",
+	"pid": "22993",
+	"pname": "booking discount",
+	"pcpe": "cpe:/a:mygoodhotels:booking_discount"
 }

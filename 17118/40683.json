@@ -1,8 +1,8 @@
 {
-  "vid": "17118",
-  "vname": "keeper",
-  "vcpe": "cpe:/:keeper",
-  "pid": "40683",
-  "pname": "k5 ファームウェア",
-  "pcpe": "cpe:/o:keeper:k5_firmware"
+	"vid": "17118",
+	"vname": "keeper",
+	"vcpe": "cpe:/:keeper",
+	"pid": "40683",
+	"pname": "k5 ファームウェア",
+	"pcpe": "cpe:/o:keeper:k5_firmware"
 }

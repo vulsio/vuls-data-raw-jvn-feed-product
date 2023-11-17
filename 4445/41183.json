@@ -1,8 +1,8 @@
 {
-  "vid": "4445",
-  "vname": "NCH Software",
-  "vcpe": "cpe:/:nchsoftware",
-  "pid": "41183",
-  "pname": "Express Accounts Accounting",
-  "pcpe": "cpe:/a:nchsoftware:express_accounts_accounting"
+	"vid": "4445",
+	"vname": "NCH Software",
+	"vcpe": "cpe:/:nchsoftware",
+	"pid": "41183",
+	"pname": "Express Accounts Accounting",
+	"pcpe": "cpe:/a:nchsoftware:express_accounts_accounting"
 }

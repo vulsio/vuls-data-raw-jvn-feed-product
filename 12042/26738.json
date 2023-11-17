@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26738",
-  "pname": "HPE Storage Sizing Tool",
-  "pcpe": "cpe:/a:hp:storage_sizing_tool"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26738",
+	"pname": "HPE Storage Sizing Tool",
+	"pcpe": "cpe:/a:hp:storage_sizing_tool"
 }

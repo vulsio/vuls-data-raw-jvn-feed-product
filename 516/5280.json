@@ -1,8 +1,8 @@
 {
-  "vid": "516",
-  "vname": "WordPress.org",
-  "vcpe": "cpe:/:wordpress",
-  "pid": "5280",
-  "pname": "FCChat Widget",
-  "pcpe": "cpe:/a:wordpress:fcchat_widget"
+	"vid": "516",
+	"vname": "WordPress.org",
+	"vcpe": "cpe:/:wordpress",
+	"pid": "5280",
+	"pname": "FCChat Widget",
+	"pcpe": "cpe:/a:wordpress:fcchat_widget"
 }

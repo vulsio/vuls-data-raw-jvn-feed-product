@@ -1,8 +1,8 @@
 {
-  "vid": "573",
-  "vname": "Foxit Software Inc",
-  "vcpe": "cpe:/:foxitsoftware",
-  "pid": "36845",
-  "pname": "Quick PDF Library",
-  "pcpe": "cpe:/a:foxitsoftware:quick_pdf_library"
+	"vid": "573",
+	"vname": "Foxit Software Inc",
+	"vcpe": "cpe:/:foxitsoftware",
+	"pid": "36845",
+	"pname": "Quick PDF Library",
+	"pcpe": "cpe:/a:foxitsoftware:quick_pdf_library"
 }

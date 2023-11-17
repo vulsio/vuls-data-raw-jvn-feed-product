@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "30144",
-  "pname": "Cisco Small Business RV345 ファームウェア",
-  "pcpe": "cpe:/o:cisco:small_business_rv345_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "30144",
+	"pname": "Cisco Small Business RV345 ファームウェア",
+	"pcpe": "cpe:/o:cisco:small_business_rv345_firmware"
 }

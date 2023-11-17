@@ -1,8 +1,8 @@
 {
-  "vid": "19545",
-  "vname": "R Project",
-  "vcpe": "cpe:/:r-project",
-  "pid": "49234",
-  "pname": "CRAN",
-  "pcpe": "cpe:/a:r-project:cran"
+	"vid": "19545",
+	"vname": "R Project",
+	"vcpe": "cpe:/:r-project",
+	"pid": "49234",
+	"pname": "CRAN",
+	"pcpe": "cpe:/a:r-project:cran"
 }

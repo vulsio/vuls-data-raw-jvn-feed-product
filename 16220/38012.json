@@ -1,8 +1,8 @@
 {
-  "vid": "16220",
-  "vname": "LogonBox Limited.",
-  "vcpe": "cpe:/:logonbox",
-  "pid": "38012",
-  "pname": "Nervepoint Access Manager",
-  "pcpe": "cpe:/a:logonbox:nervepoint_access_manager"
+	"vid": "16220",
+	"vname": "LogonBox Limited.",
+	"vcpe": "cpe:/:logonbox",
+	"pid": "38012",
+	"pname": "Nervepoint Access Manager",
+	"pcpe": "cpe:/a:logonbox:nervepoint_access_manager"
 }

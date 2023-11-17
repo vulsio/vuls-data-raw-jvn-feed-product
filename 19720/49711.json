@@ -1,8 +1,8 @@
 {
-  "vid": "19720",
-  "vname": "ps-kill project",
-  "vcpe": "cpe:/:ps-kill_project",
-  "pid": "49711",
-  "pname": "ps-kill",
-  "pcpe": "cpe:/a:ps-kill_project:ps-kill"
+	"vid": "19720",
+	"vname": "ps-kill project",
+	"vcpe": "cpe:/:ps-kill_project",
+	"pid": "49711",
+	"pname": "ps-kill",
+	"pcpe": "cpe:/a:ps-kill_project:ps-kill"
 }

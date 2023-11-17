@@ -1,8 +1,8 @@
 {
-  "vid": "12005",
-  "vname": "Arista Networks, Inc.",
-  "vcpe": "cpe:/:arista",
-  "pid": "47228",
-  "pname": "CloudVision eXchange",
-  "pcpe": "cpe:/a:arista:cloudvision_exchange"
+	"vid": "12005",
+	"vname": "Arista Networks, Inc.",
+	"vcpe": "cpe:/:arista",
+	"pid": "47228",
+	"pname": "CloudVision eXchange",
+	"pcpe": "cpe:/a:arista:cloudvision_exchange"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "841",
-  "pname": "IBM SDK, Java",
-  "pcpe": "cpe:/a:ibm:java_sdk"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "841",
+	"pname": "IBM SDK, Java",
+	"pcpe": "cpe:/a:ibm:java_sdk"
 }

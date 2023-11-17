@@ -1,8 +1,8 @@
 {
-  "vid": "16674",
-  "vname": "One Identity",
-  "vcpe": "cpe:/:oneidentity",
-  "pid": "47836",
-  "pname": "Password Manager",
-  "pcpe": "cpe:/a:oneidentity:password_manager"
+	"vid": "16674",
+	"vname": "One Identity",
+	"vcpe": "cpe:/:oneidentity",
+	"pid": "47836",
+	"pname": "Password Manager",
+	"pcpe": "cpe:/a:oneidentity:password_manager"
 }

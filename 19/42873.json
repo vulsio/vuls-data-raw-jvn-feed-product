@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "42873",
-  "pname": "IP Phone 6825 ファームウェア",
-  "pcpe": "cpe:/o:cisco:ip_phone_6825_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "42873",
+	"pname": "IP Phone 6825 ファームウェア",
+	"pcpe": "cpe:/o:cisco:ip_phone_6825_firmware"
 }

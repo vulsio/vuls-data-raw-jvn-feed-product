@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "33694",
-  "pname": "Cisco TelePresence TX9000 ファームウェア",
-  "pcpe": "cpe:/o:cisco:telepresence_tx9000_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "33694",
+	"pname": "Cisco TelePresence TX9000 ファームウェア",
+	"pcpe": "cpe:/o:cisco:telepresence_tx9000_firmware"
 }

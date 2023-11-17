@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "31282",
-  "pname": "Nport 5110 ファームウェア",
-  "pcpe": "cpe:/o:moxa:nport_5110_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "31282",
+	"pname": "Nport 5110 ファームウェア",
+	"pcpe": "cpe:/o:moxa:nport_5110_firmware"
 }

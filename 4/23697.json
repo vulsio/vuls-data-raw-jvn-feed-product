@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23697",
-  "pname": "HP Linear Barcode Scanner (QY405AA)",
-  "pcpe": "cpe:/h:hp:linear_barcode_scanner_qy405aa"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23697",
+	"pname": "HP Linear Barcode Scanner (QY405AA)",
+	"pcpe": "cpe:/h:hp:linear_barcode_scanner_qy405aa"
 }

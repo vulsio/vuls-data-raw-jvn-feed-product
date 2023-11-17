@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "1144",
-  "pname": "Symantec Gateway Security 1600 Series",
-  "pcpe": "cpe:/a:symantec:gateway_security_1600"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "1144",
+	"pname": "Symantec Gateway Security 1600 Series",
+	"pcpe": "cpe:/a:symantec:gateway_security_1600"
 }

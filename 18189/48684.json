@@ -1,8 +1,8 @@
 {
-  "vid": "18189",
-  "vname": "UI",
-  "vcpe": "cpe:/:ui",
-  "pid": "48684",
-  "pname": "EdgePower 24V ファームウェア",
-  "pcpe": "cpe:/o:ui:edgemax_edgepower_24v_firmware"
+	"vid": "18189",
+	"vname": "UI",
+	"vcpe": "cpe:/:ui",
+	"pid": "48684",
+	"pname": "EdgePower 24V ファームウェア",
+	"pcpe": "cpe:/o:ui:edgemax_edgepower_24v_firmware"
 }

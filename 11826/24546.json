@@ -1,8 +1,8 @@
 {
-  "vid": "11826",
-  "vname": "GE Healthcare",
-  "vcpe": "cpe:/:gehealthcare",
-  "pid": "24546",
-  "pname": "Optima CT680 ファームウェア",
-  "pcpe": "cpe:/o:gehealthcare:optima_ct680_firmware"
+	"vid": "11826",
+	"vname": "GE Healthcare",
+	"vcpe": "cpe:/:gehealthcare",
+	"pid": "24546",
+	"pname": "Optima CT680 ファームウェア",
+	"pcpe": "cpe:/o:gehealthcare:optima_ct680_firmware"
 }

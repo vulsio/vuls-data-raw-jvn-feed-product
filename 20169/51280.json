@@ -1,8 +1,8 @@
 {
-  "vid": "20169",
-  "vname": "MyQ, spol. s r.o.",
-  "vcpe": "cpe:/:myq-solution",
-  "pid": "51280",
-  "pname": "MyQ server",
-  "pcpe": "cpe:/a:myq-solution:myq_server"
+	"vid": "20169",
+	"vname": "MyQ, spol. s r.o.",
+	"vcpe": "cpe:/:myq-solution",
+	"pid": "51280",
+	"pname": "MyQ server",
+	"pcpe": "cpe:/a:myq-solution:myq_server"
 }

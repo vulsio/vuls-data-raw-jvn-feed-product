@@ -1,8 +1,8 @@
 {
-  "vid": "6469",
-  "vname": "PHOENIX CONTACT",
-  "vcpe": "cpe:/:phoenixcontact",
-  "pid": "43644",
-  "pname": "FL NAT 2208 ファームウェア",
-  "pcpe": "cpe:/o:phoenixcontact:fl_nat_2208_firmware"
+	"vid": "6469",
+	"vname": "PHOENIX CONTACT",
+	"vcpe": "cpe:/:phoenixcontact",
+	"pid": "43644",
+	"pname": "FL NAT 2208 ファームウェア",
+	"pcpe": "cpe:/o:phoenixcontact:fl_nat_2208_firmware"
 }

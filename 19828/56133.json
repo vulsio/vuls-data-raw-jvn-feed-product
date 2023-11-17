@@ -1,8 +1,8 @@
 {
-  "vid": "19828",
-  "vname": "Hitachi Energy",
-  "vcpe": "cpe:/:hitachienergy",
-  "pid": "56133",
-  "pname": "tego1_r15b08 (FOX615 System Release R15B)",
-  "pcpe": "cpe:/a:hitachienergy:tego1_r15b08_%28FOX615_System_Release_R15B%29"
+	"vid": "19828",
+	"vname": "Hitachi Energy",
+	"vcpe": "cpe:/:hitachienergy",
+	"pid": "56133",
+	"pname": "tego1_r15b08 (FOX615 System Release R15B)",
+	"pcpe": "cpe:/a:hitachienergy:tego1_r15b08_%28FOX615_System_Release_R15B%29"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "35515",
-  "pname": "CIFS Server",
-  "pcpe": "cpe:/a:hp:cifs_server"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "35515",
+	"pname": "CIFS Server",
+	"pcpe": "cpe:/a:hp:cifs_server"
 }

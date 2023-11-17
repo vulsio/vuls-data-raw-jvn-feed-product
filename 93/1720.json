@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "1720",
-  "pname": "Outline designer",
-  "pcpe": "cpe:/a:drupal:outline_designer_module"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "1720",
+	"pname": "Outline designer",
+	"pcpe": "cpe:/a:drupal:outline_designer_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19894",
-  "vname": "rkyv project",
-  "vcpe": "cpe:/:rkyv_project",
-  "pid": "50272",
-  "pname": "rkyv",
-  "pcpe": "cpe:/a:rkyv_project:rkyv"
+	"vid": "19894",
+	"vname": "rkyv project",
+	"vcpe": "cpe:/:rkyv_project",
+	"pid": "50272",
+	"pname": "rkyv",
+	"pcpe": "cpe:/a:rkyv_project:rkyv"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12377",
-  "vname": "Nitro Software, Inc.",
-  "vcpe": "cpe:/:nitro_software",
-  "pid": "27893",
-  "pname": "Nitro Pro",
-  "pcpe": "cpe:/a:nitro_software:nitro_pro"
+	"vid": "12377",
+	"vname": "Nitro Software, Inc.",
+	"vcpe": "cpe:/:nitro_software",
+	"pid": "27893",
+	"pname": "Nitro Pro",
+	"pcpe": "cpe:/a:nitro_software:nitro_pro"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "20229",
-  "pname": "E303",
-  "pcpe": "cpe:/h:huawei:e303_modem"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "20229",
+	"pname": "E303",
+	"pcpe": "cpe:/h:huawei:e303_modem"
 }

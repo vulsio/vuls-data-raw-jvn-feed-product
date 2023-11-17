@@ -1,8 +1,8 @@
 {
-  "vid": "9911",
-  "vname": "Silver Peak",
-  "vcpe": "cpe:/:silver-peak",
-  "pid": "44796",
-  "pname": "Unity EdgeConnect For Amazon Web Services",
-  "pcpe": "cpe:/a:silver-peak:unity_edgeconnect_for_amazon_web_services"
+	"vid": "9911",
+	"vname": "Silver Peak",
+	"vcpe": "cpe:/:silver-peak",
+	"pid": "44796",
+	"pname": "Unity EdgeConnect For Amazon Web Services",
+	"pcpe": "cpe:/a:silver-peak:unity_edgeconnect_for_amazon_web_services"
 }

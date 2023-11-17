@@ -1,8 +1,8 @@
 {
-  "vid": "18592",
-  "vname": "SoftPerfect Pty Ltd",
-  "vcpe": "cpe:/:softperfect",
-  "pid": "45867",
-  "pname": "RAM Disk",
-  "pcpe": "cpe:/a:softperfect:ram_disk"
+	"vid": "18592",
+	"vname": "SoftPerfect Pty Ltd",
+	"vcpe": "cpe:/:softperfect",
+	"pid": "45867",
+	"pname": "RAM Disk",
+	"pcpe": "cpe:/a:softperfect:ram_disk"
 }

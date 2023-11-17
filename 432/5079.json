@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "5079",
-  "pname": "ABB RobotStudio S4",
-  "pcpe": "cpe:/a:abb:robotstudio_s4"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "5079",
+	"pname": "ABB RobotStudio S4",
+	"pcpe": "cpe:/a:abb:robotstudio_s4"
 }

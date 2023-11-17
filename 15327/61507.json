@@ -1,8 +1,8 @@
 {
-  "vid": "15327",
-  "vname": "Anchore, Inc.",
-  "vcpe": "cpe:/:anchore",
-  "pid": "61507",
-  "pname": "anchore",
-  "pcpe": "cpe:/a:anchore:anchore"
+	"vid": "15327",
+	"vname": "Anchore, Inc.",
+	"vcpe": "cpe:/:anchore",
+	"pid": "61507",
+	"pname": "anchore",
+	"pcpe": "cpe:/a:anchore:anchore"
 }

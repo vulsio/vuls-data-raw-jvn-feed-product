@@ -1,8 +1,8 @@
 {
-  "vid": "719",
-  "vname": "HTC Corporation",
-  "vcpe": "cpe:/:htc",
-  "pid": "5129",
-  "pname": "HTC EVO SHIFT 4G ソフトウェア",
-  "pcpe": "cpe:/a:htc:shift_4g_software"
+	"vid": "719",
+	"vname": "HTC Corporation",
+	"vcpe": "cpe:/:htc",
+	"pid": "5129",
+	"pname": "HTC EVO SHIFT 4G ソフトウェア",
+	"pcpe": "cpe:/a:htc:shift_4g_software"
 }

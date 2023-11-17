@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "40342",
-  "pname": "IBM Application Security on Cloud",
-  "pcpe": "cpe:/a:jenkins:ibm_application_security_on_cloud"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "40342",
+	"pname": "IBM Application Security on Cloud",
+	"pcpe": "cpe:/a:jenkins:ibm_application_security_on_cloud"
 }

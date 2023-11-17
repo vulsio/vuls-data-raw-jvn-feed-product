@@ -1,8 +1,8 @@
 {
-  "vid": "8230",
-  "vname": "unixware",
-  "vcpe": "cpe:/:unixware",
-  "pid": "15771",
-  "pname": "reliantha",
-  "pcpe": "cpe:/a:unixware:reliantha"
+	"vid": "8230",
+	"vname": "unixware",
+	"vcpe": "cpe:/:unixware",
+	"pid": "15771",
+	"pname": "reliantha",
+	"pcpe": "cpe:/a:unixware:reliantha"
 }

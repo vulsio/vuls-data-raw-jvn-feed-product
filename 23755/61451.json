@@ -1,8 +1,8 @@
 {
-  "vid": "23755",
-  "vname": "qvis",
-  "vcpe": "cpe:/:qvis",
-  "pid": "61451",
-  "pname": "dvr ファームウェア",
-  "pcpe": "cpe:/o:qvis:dvr_firmware"
+	"vid": "23755",
+	"vname": "qvis",
+	"vcpe": "cpe:/:qvis",
+	"pid": "61451",
+	"pname": "dvr ファームウェア",
+	"pcpe": "cpe:/o:qvis:dvr_firmware"
 }

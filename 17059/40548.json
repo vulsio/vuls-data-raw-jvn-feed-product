@@ -1,8 +1,8 @@
 {
-  "vid": "17059",
-  "vname": "SupportFlow project",
-  "vcpe": "cpe:/:supportflow_project",
-  "pid": "40548",
-  "pname": "SupportFlow",
-  "pcpe": "cpe:/a:supportflow_project:supportflow"
+	"vid": "17059",
+	"vname": "SupportFlow project",
+	"vcpe": "cpe:/:supportflow_project",
+	"pid": "40548",
+	"pname": "SupportFlow",
+	"pcpe": "cpe:/a:supportflow_project:supportflow"
 }

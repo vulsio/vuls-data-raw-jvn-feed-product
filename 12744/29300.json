@@ -1,8 +1,8 @@
 {
-  "vid": "12744",
-  "vname": "mibuthu",
-  "vcpe": "cpe:/:event_list_project",
-  "pid": "29300",
-  "pname": "Event List",
-  "pcpe": "cpe:/a:event_list_project:event_list"
+	"vid": "12744",
+	"vname": "mibuthu",
+	"vcpe": "cpe:/:event_list_project",
+	"pid": "29300",
+	"pname": "Event List",
+	"pcpe": "cpe:/a:event_list_project:event_list"
 }

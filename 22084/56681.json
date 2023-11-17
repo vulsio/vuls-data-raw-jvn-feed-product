@@ -1,8 +1,8 @@
 {
-  "vid": "22084",
-  "vname": "HIMA",
-  "vcpe": "cpe:/:hima",
-  "pid": "56681",
-  "pname": "X-OTS",
-  "pcpe": "cpe:/a:hima:x-ots"
+	"vid": "22084",
+	"vname": "HIMA",
+	"vcpe": "cpe:/:hima",
+	"pid": "56681",
+	"pname": "X-OTS",
+	"pcpe": "cpe:/a:hima:x-ots"
 }

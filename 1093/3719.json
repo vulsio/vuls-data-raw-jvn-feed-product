@@ -1,8 +1,8 @@
 {
-  "vid": "1093",
-  "vname": "NeoAxis",
-  "vcpe": "cpe:/:neoaxis",
-  "pid": "3719",
-  "pname": "NeoAxis web player",
-  "pcpe": "cpe:/a:neoaxis:neoaxis_web_player"
+	"vid": "1093",
+	"vname": "NeoAxis",
+	"vcpe": "cpe:/:neoaxis",
+	"pid": "3719",
+	"pname": "NeoAxis web player",
+	"pcpe": "cpe:/a:neoaxis:neoaxis_web_player"
 }

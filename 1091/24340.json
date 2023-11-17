@@ -1,8 +1,8 @@
 {
-  "vid": "1091",
-  "vname": "AirTies",
-  "vcpe": "cpe:/:airties",
-  "pid": "24340",
-  "pname": "RT-210 ファームウェア",
-  "pcpe": "cpe:/o:airties:rt-210_firmware"
+	"vid": "1091",
+	"vname": "AirTies",
+	"vcpe": "cpe:/:airties",
+	"pid": "24340",
+	"pname": "RT-210 ファームウェア",
+	"pcpe": "cpe:/o:airties:rt-210_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "44394",
-  "pname": "Oracle Depot Repair",
-  "pcpe": "cpe:/a:oracle:depot_repair"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "44394",
+	"pname": "Oracle Depot Repair",
+	"pcpe": "cpe:/a:oracle:depot_repair"
 }

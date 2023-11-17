@@ -1,8 +1,8 @@
 {
-  "vid": "106",
-  "vname": "Nucleus",
-  "vcpe": "cpe:/:nucleus_cms",
-  "pid": "12141",
-  "pname": "nucleus cms",
-  "pcpe": "cpe:/a:nucleus_cms:nucleus_cms"
+	"vid": "106",
+	"vname": "Nucleus",
+	"vcpe": "cpe:/:nucleus_cms",
+	"pid": "12141",
+	"pname": "nucleus cms",
+	"pcpe": "cpe:/a:nucleus_cms:nucleus_cms"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "17090",
-  "vname": "TELESTAR",
-  "vcpe": "cpe:/:telestar",
-  "pid": "40607",
-  "pname": "Imperial i110 ファームウェア",
-  "pcpe": "cpe:/o:telestar:imperial_i110_firmware"
+	"vid": "17090",
+	"vname": "TELESTAR",
+	"vcpe": "cpe:/:telestar",
+	"pid": "40607",
+	"pname": "Imperial i110 ファームウェア",
+	"pcpe": "cpe:/o:telestar:imperial_i110_firmware"
 }

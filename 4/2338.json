@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "2338",
-  "pname": "HP Compaq 6005 Pro Small Form Factor PC",
-  "pcpe": "cpe:/h:hp:compaq_6005_small_form_factor_pc"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "2338",
+	"pname": "HP Compaq 6005 Pro Small Form Factor PC",
+	"pcpe": "cpe:/h:hp:compaq_6005_small_form_factor_pc"
 }

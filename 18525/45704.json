@@ -1,8 +1,8 @@
 {
-  "vid": "18525",
-  "vname": "OASIS Open",
-  "vcpe": "cpe:/:oasis-open",
-  "pid": "45704",
-  "pname": "OASIS Digital Signature Services",
-  "pcpe": "cpe:/a:oasis-open:oasis_digital_signature_services"
+	"vid": "18525",
+	"vname": "OASIS Open",
+	"vcpe": "cpe:/:oasis-open",
+	"pid": "45704",
+	"pname": "OASIS Digital Signature Services",
+	"pcpe": "cpe:/a:oasis-open:oasis_digital_signature_services"
 }

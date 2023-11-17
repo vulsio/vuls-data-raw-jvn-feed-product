@@ -1,8 +1,8 @@
 {
-  "vid": "12697",
-  "vname": "Ether Software",
-  "vcpe": "cpe:/:ether_software",
-  "pid": "29054",
-  "pname": "Easy MPEG/AVI/DIVX/WMV/RM to DVD",
-  "pcpe": "cpe:/a:ether_software:easy_mpeg%2Favi%2Fdivx%2Fwmv%2Frm_to_dvd"
+	"vid": "12697",
+	"vname": "Ether Software",
+	"vcpe": "cpe:/:ether_software",
+	"pid": "29054",
+	"pname": "Easy MPEG/AVI/DIVX/WMV/RM to DVD",
+	"pcpe": "cpe:/a:ether_software:easy_mpeg%2Favi%2Fdivx%2Fwmv%2Frm_to_dvd"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "59226",
-  "pname": "arr600a3201na ファームウェア",
-  "pcpe": "cpe:/o:abb:arr600a3201na_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "59226",
+	"pname": "arr600a3201na ファームウェア",
+	"pcpe": "cpe:/o:abb:arr600a3201na_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17828",
-  "pname": "Cisco Unified IP Conference Station 7937G",
-  "pcpe": "cpe:/h:cisco:unified_ip_conference_station_7937g"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17828",
+	"pname": "Cisco Unified IP Conference Station 7937G",
+	"pcpe": "cpe:/h:cisco:unified_ip_conference_station_7937g"
 }

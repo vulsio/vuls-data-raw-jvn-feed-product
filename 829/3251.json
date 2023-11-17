@@ -1,8 +1,8 @@
 {
-  "vid": "829",
-  "vname": "MyBB Group",
-  "vcpe": "cpe:/:mybb",
-  "pid": "3251",
-  "pname": "MyBB",
-  "pcpe": "cpe:/a:mybb:mybb"
+	"vid": "829",
+	"vname": "MyBB Group",
+	"vcpe": "cpe:/:mybb",
+	"pid": "3251",
+	"pname": "MyBB",
+	"pcpe": "cpe:/a:mybb:mybb"
 }

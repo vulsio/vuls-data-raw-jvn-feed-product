@@ -1,8 +1,8 @@
 {
-  "vid": "719",
-  "vname": "HTC Corporation",
-  "vcpe": "cpe:/:htc",
-  "pid": "9287",
-  "pname": "HTC Desire",
-  "pcpe": "cpe:/h:htc:desire"
+	"vid": "719",
+	"vname": "HTC Corporation",
+	"vcpe": "cpe:/:htc",
+	"pid": "9287",
+	"pname": "HTC Desire",
+	"pcpe": "cpe:/h:htc:desire"
 }

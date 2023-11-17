@@ -1,8 +1,8 @@
 {
-  "vid": "13227",
-  "vname": "mySCADA Technologies",
-  "vcpe": "cpe:/:myscada",
-  "pid": "30927",
-  "pname": "myPRO",
-  "pcpe": "cpe:/a:myscada:mypro"
+	"vid": "13227",
+	"vname": "mySCADA Technologies",
+	"vcpe": "cpe:/:myscada",
+	"pid": "30927",
+	"pname": "myPRO",
+	"pcpe": "cpe:/a:myscada:mypro"
 }

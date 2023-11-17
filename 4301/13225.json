@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "13225",
-  "pname": "Flexible Payments Service",
-  "pcpe": "cpe:/a:amazon:flexible_payments_service"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "13225",
+	"pname": "Flexible Payments Service",
+	"pcpe": "cpe:/a:amazon:flexible_payments_service"
 }

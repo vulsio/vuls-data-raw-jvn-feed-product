@@ -1,8 +1,8 @@
 {
-  "vid": "4505",
-  "vname": "ImgPals",
-  "vcpe": "cpe:/:imgpals",
-  "pid": "9620",
-  "pname": "ImgPals Photo Host",
-  "pcpe": "cpe:/a:imgpals:img_pals_photo_host"
+	"vid": "4505",
+	"vname": "ImgPals",
+	"vcpe": "cpe:/:imgpals",
+	"pid": "9620",
+	"pname": "ImgPals Photo Host",
+	"pcpe": "cpe:/a:imgpals:img_pals_photo_host"
 }

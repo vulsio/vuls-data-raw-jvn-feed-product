@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "4142",
-  "pname": "Systemwalker Operation Manager",
-  "pcpe": "cpe:/a:fujitsu:systemwalker_operation_manager"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "4142",
+	"pname": "Systemwalker Operation Manager",
+	"pcpe": "cpe:/a:fujitsu:systemwalker_operation_manager"
 }

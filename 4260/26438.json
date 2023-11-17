@@ -1,8 +1,8 @@
 {
-  "vid": "4260",
-  "vname": "Linux",
-  "vcpe": "cpe:/:linux",
-  "pid": "26438",
-  "pname": "Linux kernel-rt",
-  "pcpe": "cpe:/o:linux:linux_kernel-rt"
+	"vid": "4260",
+	"vname": "Linux",
+	"vcpe": "cpe:/:linux",
+	"pid": "26438",
+	"pname": "Linux kernel-rt",
+	"pcpe": "cpe:/o:linux:linux_kernel-rt"
 }

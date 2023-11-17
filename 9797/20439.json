@@ -1,8 +1,8 @@
 {
-  "vid": "9797",
-  "vname": "Validated plugin project",
-  "vcpe": "cpe:/:validated_plugin_project",
-  "pid": "20439",
-  "pname": "Validated",
-  "pcpe": "cpe:/a:validated_plugin_project:validated_plugin"
+	"vid": "9797",
+	"vname": "Validated plugin project",
+	"vcpe": "cpe:/:validated_plugin_project",
+	"pid": "20439",
+	"pname": "Validated",
+	"pcpe": "cpe:/a:validated_plugin_project:validated_plugin"
 }

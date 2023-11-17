@@ -1,8 +1,8 @@
 {
-  "vid": "1273",
-  "vname": "idevSpot",
-  "vcpe": "cpe:/:idevspot",
-  "pid": "10061",
-  "pname": "textads",
-  "pcpe": "cpe:/a:idevspot:textads"
+	"vid": "1273",
+	"vname": "idevSpot",
+	"vcpe": "cpe:/:idevspot",
+	"pid": "10061",
+	"pname": "textads",
+	"pcpe": "cpe:/a:idevspot:textads"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "515",
-  "vname": "VMware",
-  "vcpe": "cpe:/:vmware",
-  "pid": "46200",
-  "pname": "Workspace One Access",
-  "pcpe": "cpe:/a:vmware:workspace_one_access"
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "46200",
+	"pname": "Workspace One Access",
+	"pcpe": "cpe:/a:vmware:workspace_one_access"
 }

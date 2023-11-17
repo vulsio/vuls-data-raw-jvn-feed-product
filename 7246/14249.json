@@ -1,8 +1,8 @@
 {
-  "vid": "7246",
-  "vname": "Real Time Logic",
-  "vcpe": "cpe:/:barracudadrive",
-  "pid": "14249",
-  "pname": "barracudadrive web server home server",
-  "pcpe": "cpe:/a:barracudadrive:barracudadrive_web_server_home_server"
+	"vid": "7246",
+	"vname": "Real Time Logic",
+	"vcpe": "cpe:/:barracudadrive",
+	"pid": "14249",
+	"pname": "barracudadrive web server home server",
+	"pcpe": "cpe:/a:barracudadrive:barracudadrive_web_server_home_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21501",
-  "vname": "MDB Tools project",
-  "vcpe": "cpe:/:mdbtools_project",
-  "pid": "55178",
-  "pname": "MDB Tools",
-  "pcpe": "cpe:/a:mdbtools_project:mdbtools"
+	"vid": "21501",
+	"vname": "MDB Tools project",
+	"vcpe": "cpe:/:mdbtools_project",
+	"pid": "55178",
+	"pname": "MDB Tools",
+	"pcpe": "cpe:/a:mdbtools_project:mdbtools"
 }

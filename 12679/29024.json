@@ -1,8 +1,8 @@
 {
-  "vid": "12679",
-  "vname": "農林水産省",
-  "vcpe": "cpe:/:maff",
-  "pid": "29024",
-  "pname": "電子納品チェックシステム",
-  "pcpe": "cpe:/a:maff:denshinouhin_check_system"
+	"vid": "12679",
+	"vname": "農林水産省",
+	"vcpe": "cpe:/:maff",
+	"pid": "29024",
+	"pname": "電子納品チェックシステム",
+	"pcpe": "cpe:/a:maff:denshinouhin_check_system"
 }

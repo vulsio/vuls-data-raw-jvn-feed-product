@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "28451",
-  "pname": "HiRDB",
-  "pcpe": "cpe:/a:hitachi:hirdb"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "28451",
+	"pname": "HiRDB",
+	"pcpe": "cpe:/a:hitachi:hirdb"
 }

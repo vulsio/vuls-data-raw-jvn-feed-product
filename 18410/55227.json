@@ -1,8 +1,8 @@
 {
-  "vid": "18410",
-  "vname": "ファナック株式会社",
-  "vcpe": "cpe:/:fanuc",
-  "pid": "55227",
-  "pname": "R-30iB Compact Plus ファームウェア",
-  "pcpe": "cpe:/o:fanuc:r-30ib_compact_plus_firmware"
+	"vid": "18410",
+	"vname": "ファナック株式会社",
+	"vcpe": "cpe:/:fanuc",
+	"pid": "55227",
+	"pname": "R-30iB Compact Plus ファームウェア",
+	"pcpe": "cpe:/o:fanuc:r-30ib_compact_plus_firmware"
 }

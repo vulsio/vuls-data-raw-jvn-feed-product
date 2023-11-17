@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "3343",
-  "pname": "HP Color LaserJet 4730 MFP",
-  "pcpe": "cpe:/h:hp:color_laserjet_4730_mfp"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "3343",
+	"pname": "HP Color LaserJet 4730 MFP",
+	"pcpe": "cpe:/h:hp:color_laserjet_4730_mfp"
 }

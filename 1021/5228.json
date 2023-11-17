@@ -1,8 +1,8 @@
 {
-  "vid": "1021",
-  "vname": "OpenStack",
-  "vcpe": "cpe:/:openstack",
-  "pid": "5228",
-  "pname": "OpenStack Horizon",
-  "pcpe": "cpe:/a:openstack:horizon"
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "5228",
+	"pname": "OpenStack Horizon",
+	"pcpe": "cpe:/a:openstack:horizon"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12430",
-  "vname": "Sutra, Inc.",
-  "vcpe": "cpe:/:norwegian-air",
-  "pid": "28075",
-  "pname": "AirKiosk",
-  "pcpe": "cpe:/a:norwegian-air:norwegian_air_kiosk"
+	"vid": "12430",
+	"vname": "Sutra, Inc.",
+	"vcpe": "cpe:/:norwegian-air",
+	"pid": "28075",
+	"pname": "AirKiosk",
+	"pcpe": "cpe:/a:norwegian-air:norwegian_air_kiosk"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "56373",
-  "pname": "(複数の製品)",
-  "pcpe": "cpe:/o:omron:multiple_product"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "56373",
+	"pname": "(複数の製品)",
+	"pcpe": "cpe:/o:omron:multiple_product"
 }

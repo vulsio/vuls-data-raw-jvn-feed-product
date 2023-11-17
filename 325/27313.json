@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27313",
-  "pname": "ThinkPad E465 BIOS",
-  "pcpe": "cpe:/o:lenovo:thinkpad_e465_bios"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27313",
+	"pname": "ThinkPad E465 BIOS",
+	"pcpe": "cpe:/o:lenovo:thinkpad_e465_bios"
 }

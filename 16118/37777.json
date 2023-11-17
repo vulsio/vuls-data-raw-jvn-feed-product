@@ -1,8 +1,8 @@
 {
-  "vid": "16118",
-  "vname": "golangtc",
-  "vcpe": "cpe:/:golangtc",
-  "pid": "37777",
-  "pname": "Gopher",
-  "pcpe": "cpe:/a:golangtc:gopher"
+	"vid": "16118",
+	"vname": "golangtc",
+	"vcpe": "cpe:/:golangtc",
+	"pid": "37777",
+	"pname": "Gopher",
+	"pcpe": "cpe:/a:golangtc:gopher"
 }

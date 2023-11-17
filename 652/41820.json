@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "41820",
-  "pname": "Galaxy A8+ ファームウェア",
-  "pcpe": "cpe:/o:samsung:galaxy_a8%2b_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "41820",
+	"pname": "Galaxy A8+ ファームウェア",
+	"pcpe": "cpe:/o:samsung:galaxy_a8%2b_firmware"
 }

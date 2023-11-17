@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "49396",
-  "pname": "PM8150A ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:pm8150a_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "49396",
+	"pname": "PM8150A ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:pm8150a_firmware"
 }

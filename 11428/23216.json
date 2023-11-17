@@ -1,8 +1,8 @@
 {
-  "vid": "11428",
-  "vname": "InfiniteWP",
-  "vcpe": "cpe:/:infinitewp",
-  "pid": "23216",
-  "pname": "InfiniteWP admin panel",
-  "pcpe": "cpe:/a:infinitewp:infinitewp_admin_panel"
+	"vid": "11428",
+	"vname": "InfiniteWP",
+	"vcpe": "cpe:/:infinitewp",
+	"pid": "23216",
+	"pname": "InfiniteWP admin panel",
+	"pcpe": "cpe:/a:infinitewp:infinitewp_admin_panel"
 }

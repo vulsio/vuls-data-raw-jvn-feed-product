@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "23050",
-  "pname": "HP TCP/IP Services for OpenVMS",
-  "pcpe": "cpe:/a:hp:tcp_ip_services_openvms"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "23050",
+	"pname": "HP TCP/IP Services for OpenVMS",
+	"pcpe": "cpe:/a:hp:tcp_ip_services_openvms"
 }

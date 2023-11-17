@@ -1,8 +1,8 @@
 {
-  "vid": "11270",
-  "vname": "bearidlock",
-  "vcpe": "cpe:/:bearidlock",
-  "pid": "22953",
-  "pname": "bear id lock",
-  "pcpe": "cpe:/a:bearidlock:bear_id_lock"
+	"vid": "11270",
+	"vname": "bearidlock",
+	"vcpe": "cpe:/:bearidlock",
+	"pid": "22953",
+	"pname": "bear id lock",
+	"pcpe": "cpe:/a:bearidlock:bear_id_lock"
 }

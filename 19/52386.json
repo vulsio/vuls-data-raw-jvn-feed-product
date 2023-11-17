@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "52386",
-  "pname": "Cisco IP Phone 8811 with Multiplatform ファームウェア",
-  "pcpe": "cpe:/o:cisco:ip_phone_8811_with_multiplatform_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "52386",
+	"pname": "Cisco IP Phone 8811 with Multiplatform ファームウェア",
+	"pcpe": "cpe:/o:cisco:ip_phone_8811_with_multiplatform_firmware"
 }

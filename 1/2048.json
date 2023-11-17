@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "2048",
-  "pname": "Sun Blade",
-  "pcpe": "cpe:/h:sun:blade"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "2048",
+	"pname": "Sun Blade",
+	"pcpe": "cpe:/h:sun:blade"
 }

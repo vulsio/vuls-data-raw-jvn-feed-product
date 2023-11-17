@@ -1,8 +1,8 @@
 {
-  "vid": "9778",
-  "vname": "Drupac",
-  "vcpe": "cpe:/:drupac",
-  "pid": "20384",
-  "pname": "Touch",
-  "pcpe": "cpe:/a:drupac:touch"
+	"vid": "9778",
+	"vname": "Drupac",
+	"vcpe": "cpe:/:drupac",
+	"pid": "20384",
+	"pname": "Touch",
+	"pcpe": "cpe:/a:drupac:touch"
 }

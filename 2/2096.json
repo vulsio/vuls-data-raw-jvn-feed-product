@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "2096",
-  "pname": "Microsoft HTML Workshop",
-  "pcpe": "cpe:/a:microsoft:html_help_workshop"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "2096",
+	"pname": "Microsoft HTML Workshop",
+	"pcpe": "cpe:/a:microsoft:html_help_workshop"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "41759",
-  "pname": "Intel Core i7-8850H ファームウェア",
-  "pcpe": "cpe:/o:intel:intel_core_i7-8850h_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "41759",
+	"pname": "Intel Core i7-8850H ファームウェア",
+	"pcpe": "cpe:/o:intel:intel_core_i7-8850h_firmware"
 }

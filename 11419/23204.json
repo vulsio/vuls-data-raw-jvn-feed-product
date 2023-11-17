@@ -1,8 +1,8 @@
 {
-  "vid": "11419",
-  "vname": "Installatron",
-  "vcpe": "cpe:/:installatron",
-  "pid": "23204",
-  "pname": "GQ File Manager",
-  "pcpe": "cpe:/a:installatron:gq_file_manager"
+	"vid": "11419",
+	"vname": "Installatron",
+	"vcpe": "cpe:/:installatron",
+	"pid": "23204",
+	"pname": "GQ File Manager",
+	"pcpe": "cpe:/a:installatron:gq_file_manager"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8868",
-  "vname": "Foscam",
-  "vcpe": "cpe:/:foscam",
-  "pid": "58417",
-  "pname": "fi9805e ファームウェア",
-  "pcpe": "cpe:/o:foscam:fi9805e_firmware"
+	"vid": "8868",
+	"vname": "Foscam",
+	"vcpe": "cpe:/:foscam",
+	"pid": "58417",
+	"pname": "fi9805e ファームウェア",
+	"pcpe": "cpe:/o:foscam:fi9805e_firmware"
 }

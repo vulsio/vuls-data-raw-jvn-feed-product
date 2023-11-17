@@ -1,8 +1,8 @@
 {
-  "vid": "632",
-  "vname": "OTRS プロジェクト",
-  "vcpe": "cpe:/:otrs",
-  "pid": "56723",
-  "pname": "OTRSCustomContactFields",
-  "pcpe": "cpe:/a:otrs:custom_contact_fields"
+	"vid": "632",
+	"vname": "OTRS プロジェクト",
+	"vcpe": "cpe:/:otrs",
+	"pid": "56723",
+	"pname": "OTRSCustomContactFields",
+	"pcpe": "cpe:/a:otrs:custom_contact_fields"
 }

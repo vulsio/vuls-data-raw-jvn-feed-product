@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "50964",
-  "pname": "SAP NetWeaver AS Internet Graphics Server",
-  "pcpe": "cpe:/a:sap:netweaver_as_internet_graphics_server"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "50964",
+	"pname": "SAP NetWeaver AS Internet Graphics Server",
+	"pcpe": "cpe:/a:sap:netweaver_as_internet_graphics_server"
 }

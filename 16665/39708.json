@@ -1,8 +1,8 @@
 {
-  "vid": "16665",
-  "vname": "Sigil-Ebook",
-  "vcpe": "cpe:/:sigil-ebook",
-  "pid": "39708",
-  "pname": "Sigil",
-  "pcpe": "cpe:/a:sigil-ebook:sigil"
+	"vid": "16665",
+	"vname": "Sigil-Ebook",
+	"vcpe": "cpe:/:sigil-ebook",
+	"pid": "39708",
+	"pname": "Sigil",
+	"pcpe": "cpe:/a:sigil-ebook:sigil"
 }

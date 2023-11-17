@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "586",
-  "pname": "Mozilla",
-  "pcpe": "cpe:/a:sun:mozilla"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "586",
+	"pname": "Mozilla",
+	"pcpe": "cpe:/a:sun:mozilla"
 }

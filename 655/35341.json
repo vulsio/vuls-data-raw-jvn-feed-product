@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "35341",
-  "pname": "Mojarra",
-  "pcpe": "cpe:/a:eclipse:mojarra"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "35341",
+	"pname": "Mojarra",
+	"pcpe": "cpe:/a:eclipse:mojarra"
 }

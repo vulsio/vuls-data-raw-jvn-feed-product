@@ -1,8 +1,8 @@
 {
-  "vid": "11836",
-  "vname": "The Events Calendar",
-  "vcpe": "cpe:/:theeventscalendar",
-  "pid": "55510",
-  "pname": "Event Calendar",
-  "pcpe": "cpe:/a:theeventscalendar:eventcalendar"
+	"vid": "11836",
+	"vname": "The Events Calendar",
+	"vcpe": "cpe:/:theeventscalendar",
+	"pid": "55510",
+	"pname": "Event Calendar",
+	"pcpe": "cpe:/a:theeventscalendar:eventcalendar"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "488",
-  "vname": "openSUSE project",
-  "vcpe": "cpe:/:opensuse_project",
-  "pid": "32825",
-  "pname": "cryptctl",
-  "pcpe": "cpe:/a:opensuse_project:cryptctl"
+	"vid": "488",
+	"vname": "openSUSE project",
+	"vcpe": "cpe:/:opensuse_project",
+	"pid": "32825",
+	"pname": "cryptctl",
+	"pcpe": "cpe:/a:opensuse_project:cryptctl"
 }

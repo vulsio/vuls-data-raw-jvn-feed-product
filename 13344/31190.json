@@ -1,8 +1,8 @@
 {
-  "vid": "13344",
-  "vname": "Home Assistant",
-  "vcpe": "cpe:/:home-assistant",
-  "pid": "31190",
-  "pname": "Home Assistant",
-  "pcpe": "cpe:/a:home-assistant:home-assistant"
+	"vid": "13344",
+	"vname": "Home Assistant",
+	"vcpe": "cpe:/:home-assistant",
+	"pid": "31190",
+	"pname": "Home Assistant",
+	"pcpe": "cpe:/a:home-assistant:home-assistant"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12",
-  "vname": "トレンドマイクロ",
-  "vcpe": "cpe:/:trendmicro",
-  "pid": "28210",
-  "pname": "Trend Micro Endpoint Sensor",
-  "pcpe": "cpe:/a:trendmicro:endpoint_sensor"
+	"vid": "12",
+	"vname": "トレンドマイクロ",
+	"vcpe": "cpe:/:trendmicro",
+	"pid": "28210",
+	"pname": "Trend Micro Endpoint Sensor",
+	"pcpe": "cpe:/a:trendmicro:endpoint_sensor"
 }

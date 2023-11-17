@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26151",
-  "pname": "NIP6600 ファームウェア",
-  "pcpe": "cpe:/o:huawei:nip6600_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26151",
+	"pname": "NIP6600 ファームウェア",
+	"pcpe": "cpe:/o:huawei:nip6600_firmware"
 }

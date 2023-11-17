@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26552",
-  "pname": "Oracle Enterprise Communications Broker",
-  "pcpe": "cpe:/a:oracle:enterprise_communications_broker"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26552",
+	"pname": "Oracle Enterprise Communications Broker",
+	"pcpe": "cpe:/a:oracle:enterprise_communications_broker"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "12169",
-  "vname": "Accela, Inc.",
-  "vcpe": "cpe:/:accela",
-  "pid": "50907",
-  "pname": "Accela Civic Platform",
-  "pcpe": "cpe:/a:accela:civic_platform"
+	"vid": "12169",
+	"vname": "Accela, Inc.",
+	"vcpe": "cpe:/:accela",
+	"pid": "50907",
+	"pname": "Accela Civic Platform",
+	"pcpe": "cpe:/a:accela:civic_platform"
 }

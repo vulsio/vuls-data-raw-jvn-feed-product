@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "25041",
-  "pname": "IMT25 Magnetic Flow DTM",
-  "pcpe": "cpe:/o:schneider_electric:imt25_magnetic_flow_dtm"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "25041",
+	"pname": "IMT25 Magnetic Flow DTM",
+	"pcpe": "cpe:/o:schneider_electric:imt25_magnetic_flow_dtm"
 }

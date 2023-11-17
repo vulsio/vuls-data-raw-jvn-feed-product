@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "26566",
-  "pname": "Oracle Knowledge",
-  "pcpe": "cpe:/a:oracle:knowledge"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "26566",
+	"pname": "Oracle Knowledge",
+	"pcpe": "cpe:/a:oracle:knowledge"
 }

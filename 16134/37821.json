@@ -1,8 +1,8 @@
 {
-  "vid": "16134",
-  "vname": "mynetdata",
-  "vcpe": "cpe:/:my-netdata",
-  "pid": "37821",
-  "pname": "netdata",
-  "pcpe": "cpe:/a:my-netdata:netdata"
+	"vid": "16134",
+	"vname": "mynetdata",
+	"vcpe": "cpe:/:my-netdata",
+	"pid": "37821",
+	"pname": "netdata",
+	"pcpe": "cpe:/a:my-netdata:netdata"
 }

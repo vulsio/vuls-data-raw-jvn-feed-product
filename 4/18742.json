@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18742",
-  "pname": "HP 2620-24-PoE+ Switch",
-  "pcpe": "cpe:/h:hp:2620-24-poe%2B_switch"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18742",
+	"pname": "HP 2620-24-PoE+ Switch",
+	"pcpe": "cpe:/h:hp:2620-24-poe%2B_switch"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "2379",
-  "pname": "Windows Live Mail",
-  "pcpe": "cpe:/a:microsoft:windows_live_mail"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "2379",
+	"pname": "Windows Live Mail",
+	"pcpe": "cpe:/a:microsoft:windows_live_mail"
 }

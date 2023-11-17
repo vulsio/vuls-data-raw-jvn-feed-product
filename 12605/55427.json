@@ -1,8 +1,8 @@
 {
-  "vid": "12605",
-  "vname": "Dataprobe",
-  "vcpe": "cpe:/:dataprobe",
-  "pid": "55427",
-  "pname": "iBoot-PDU4A-N20 ファームウェア",
-  "pcpe": "cpe:/o:dataprobe:iboot-pdu4a-n20_firmware"
+	"vid": "12605",
+	"vname": "Dataprobe",
+	"vcpe": "cpe:/:dataprobe",
+	"pid": "55427",
+	"pname": "iBoot-PDU4A-N20 ファームウェア",
+	"pcpe": "cpe:/o:dataprobe:iboot-pdu4a-n20_firmware"
 }

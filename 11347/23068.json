@@ -1,8 +1,8 @@
 {
-  "vid": "11347",
-  "vname": "Gparted プロジェクト",
-  "vcpe": "cpe:/:gparted",
-  "pid": "23068",
-  "pname": "Gparted",
-  "pcpe": "cpe:/a:gparted:gparted"
+	"vid": "11347",
+	"vname": "Gparted プロジェクト",
+	"vcpe": "cpe:/:gparted",
+	"pid": "23068",
+	"pname": "Gparted",
+	"pcpe": "cpe:/a:gparted:gparted"
 }

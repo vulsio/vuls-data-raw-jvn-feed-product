@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "17678",
-  "pname": "H3C High Performance Main Processing Unit",
-  "pcpe": "cpe:/h:hp:h3c_high_performance_main_processing_unit"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "17678",
+	"pname": "H3C High Performance Main Processing Unit",
+	"pcpe": "cpe:/h:hp:h3c_high_performance_main_processing_unit"
 }

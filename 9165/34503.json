@@ -1,8 +1,8 @@
 {
-  "vid": "9165",
-  "vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
-  "vcpe": "cpe:/:ruckuswireless",
-  "pid": "34503",
-  "pname": "SCG-200 ファームウェア",
-  "pcpe": "cpe:/o:ruckuswireless:scg-200_firmware"
+	"vid": "9165",
+	"vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
+	"vcpe": "cpe:/:ruckuswireless",
+	"pid": "34503",
+	"pname": "SCG-200 ファームウェア",
+	"pcpe": "cpe:/o:ruckuswireless:scg-200_firmware"
 }

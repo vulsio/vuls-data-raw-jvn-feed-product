@@ -1,8 +1,8 @@
 {
-  "vid": "14114",
-  "vname": "VCFtools",
-  "vcpe": "cpe:/:vcftools_project",
-  "pid": "33695",
-  "pname": "VCFtools",
-  "pcpe": "cpe:/a:vcftools_project:vcftools"
+	"vid": "14114",
+	"vname": "VCFtools",
+	"vcpe": "cpe:/:vcftools_project",
+	"pid": "33695",
+	"pname": "VCFtools",
+	"pcpe": "cpe:/a:vcftools_project:vcftools"
 }

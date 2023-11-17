@@ -1,8 +1,8 @@
 {
-  "vid": "13242",
-  "vname": "EWBF",
-  "vcpe": "cpe:/:ewbf",
-  "pid": "30976",
-  "pname": "Cuda Zcash Miner",
-  "pcpe": "cpe:/a:ewbf:cuda_zcash_miner"
+	"vid": "13242",
+	"vname": "EWBF",
+	"vcpe": "cpe:/:ewbf",
+	"pid": "30976",
+	"pname": "Cuda Zcash Miner",
+	"pcpe": "cpe:/a:ewbf:cuda_zcash_miner"
 }

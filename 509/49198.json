@@ -1,8 +1,8 @@
 {
-  "vid": "509",
-  "vname": "SAP",
-  "vcpe": "cpe:/:sap",
-  "pid": "49198",
-  "pname": "CLA-Assistant",
-  "pcpe": "cpe:/a:sap:cla-assistant"
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "49198",
+	"pname": "CLA-Assistant",
+	"pcpe": "cpe:/a:sap:cla-assistant"
 }

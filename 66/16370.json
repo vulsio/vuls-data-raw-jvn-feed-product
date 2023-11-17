@@ -1,8 +1,8 @@
 {
-  "vid": "66",
-  "vname": "XOOPS",
-  "vcpe": "cpe:/:xoops",
-  "pid": "16370",
-  "pname": "Happy Linux XFsection",
-  "pcpe": "cpe:/a:xoops:happy_linux_xfsection_module"
+	"vid": "66",
+	"vname": "XOOPS",
+	"vcpe": "cpe:/:xoops",
+	"pid": "16370",
+	"pname": "Happy Linux XFsection",
+	"pcpe": "cpe:/a:xoops:happy_linux_xfsection_module"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9017",
-  "vname": "Super Micro Computer",
-  "vcpe": "cpe:/:supermicro",
-  "pid": "35250",
-  "pname": "A1SRM ファームウェア",
-  "pcpe": "cpe:/o:supermicro:a1srm_firmware"
+	"vid": "9017",
+	"vname": "Super Micro Computer",
+	"vcpe": "cpe:/:supermicro",
+	"pid": "35250",
+	"pname": "A1SRM ファームウェア",
+	"pcpe": "cpe:/o:supermicro:a1srm_firmware"
 }

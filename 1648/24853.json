@@ -1,8 +1,8 @@
 {
-  "vid": "1648",
-  "vname": "Pentaho Corporation",
-  "vcpe": "cpe:/:pentaho",
-  "pid": "24853",
-  "pname": "Data Integration (PDI) Suite",
-  "pcpe": "cpe:/a:pentaho:data_integration"
+	"vid": "1648",
+	"vname": "Pentaho Corporation",
+	"vcpe": "cpe:/:pentaho",
+	"pid": "24853",
+	"pname": "Data Integration (PDI) Suite",
+	"pcpe": "cpe:/a:pentaho:data_integration"
 }

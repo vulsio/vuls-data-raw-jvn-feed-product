@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "19830",
-  "pname": "RUGGEDCOM WIN5200",
-  "pcpe": "cpe:/h:siemens:ruggedcom_win5200"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "19830",
+	"pname": "RUGGEDCOM WIN5200",
+	"pcpe": "cpe:/h:siemens:ruggedcom_win5200"
 }

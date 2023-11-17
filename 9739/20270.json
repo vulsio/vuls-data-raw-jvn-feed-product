@@ -1,8 +1,8 @@
 {
-  "vid": "9739",
-  "vname": "Bottomline Technologies",
-  "vcpe": "cpe:/:bottomline",
-  "pid": "20270",
-  "pname": "Bottomline Technologies Transform Foundation Server",
-  "pcpe": "cpe:/a:bottomline:transform_foundation_server"
+	"vid": "9739",
+	"vname": "Bottomline Technologies",
+	"vcpe": "cpe:/:bottomline",
+	"pid": "20270",
+	"pname": "Bottomline Technologies Transform Foundation Server",
+	"pcpe": "cpe:/a:bottomline:transform_foundation_server"
 }

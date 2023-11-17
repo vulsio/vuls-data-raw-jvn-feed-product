@@ -1,8 +1,8 @@
 {
-  "vid": "9525",
-  "vname": "Airvana LP",
-  "vcpe": "cpe:/:airvana",
-  "pid": "19656",
-  "pname": "HubBub C1-600-RT",
-  "pcpe": "cpe:/h:airvana:hubbub_c1-600-rt"
+	"vid": "9525",
+	"vname": "Airvana LP",
+	"vcpe": "cpe:/:airvana",
+	"pid": "19656",
+	"pname": "HubBub C1-600-RT",
+	"pcpe": "cpe:/h:airvana:hubbub_c1-600-rt"
 }

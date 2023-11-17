@@ -1,8 +1,8 @@
 {
-  "vid": "1304",
-  "vname": "カスペルスキー",
-  "vcpe": "cpe:/:kaspersky",
-  "pid": "46419",
-  "pname": "Security Center",
-  "pcpe": "cpe:/a:kaspersky:security_center"
+	"vid": "1304",
+	"vname": "カスペルスキー",
+	"vcpe": "cpe:/:kaspersky",
+	"pid": "46419",
+	"pname": "Security Center",
+	"pcpe": "cpe:/a:kaspersky:security_center"
 }

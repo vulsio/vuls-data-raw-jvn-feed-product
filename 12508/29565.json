@@ -1,8 +1,8 @@
 {
-  "vid": "12508",
-  "vname": "Becton, Dickinson and Company (BD)",
-  "vcpe": "cpe:/:bd",
-  "pid": "29565",
-  "pname": "KLA Journal Service",
-  "pcpe": "cpe:/a:bd:kla_journal_service"
+	"vid": "12508",
+	"vname": "Becton, Dickinson and Company (BD)",
+	"vcpe": "cpe:/:bd",
+	"pid": "29565",
+	"pname": "KLA Journal Service",
+	"pcpe": "cpe:/a:bd:kla_journal_service"
 }

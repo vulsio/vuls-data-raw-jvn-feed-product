@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "41432",
-  "pname": "JBoss AeroGear",
-  "pcpe": "cpe:/a:redhat:jboss_aerogear"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "41432",
+	"pname": "JBoss AeroGear",
+	"pcpe": "cpe:/a:redhat:jboss_aerogear"
 }

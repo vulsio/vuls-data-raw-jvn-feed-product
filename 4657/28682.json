@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "28682",
-  "pname": "S9712 ファームウェア",
-  "pcpe": "cpe:/o:huawei:s9712_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "28682",
+	"pname": "S9712 ファームウェア",
+	"pcpe": "cpe:/o:huawei:s9712_firmware"
 }

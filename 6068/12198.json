@@ -1,8 +1,8 @@
 {
-  "vid": "6068",
-  "vname": "office ocx",
-  "vcpe": "cpe:/:office_ocx",
-  "pid": "12198",
-  "pname": "powerpoint viewer ocx",
-  "pcpe": "cpe:/a:office_ocx:powerpoint_viewer_ocx"
+	"vid": "6068",
+	"vname": "office ocx",
+	"vcpe": "cpe:/:office_ocx",
+	"pid": "12198",
+	"pname": "powerpoint viewer ocx",
+	"pcpe": "cpe:/a:office_ocx:powerpoint_viewer_ocx"
 }

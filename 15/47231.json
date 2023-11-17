@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47231",
-  "pname": "Oracle Communications Application Session Controller",
-  "pcpe": "cpe:/a:oracle:communications_application_session_controller"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47231",
+	"pname": "Oracle Communications Application Session Controller",
+	"pcpe": "cpe:/a:oracle:communications_application_session_controller"
 }

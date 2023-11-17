@@ -1,8 +1,8 @@
 {
-  "vid": "12365",
-  "vname": "Gradle Inc.",
-  "vcpe": "cpe:/:gradle",
-  "pid": "60152",
-  "pname": "gradle enterprise",
-  "pcpe": "cpe:/a:gradle:gradle_enterprise"
+	"vid": "12365",
+	"vname": "Gradle Inc.",
+	"vcpe": "cpe:/:gradle",
+	"pid": "60152",
+	"pname": "gradle enterprise",
+	"pcpe": "cpe:/a:gradle:gradle_enterprise"
 }

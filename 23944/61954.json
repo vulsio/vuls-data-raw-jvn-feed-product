@@ -1,8 +1,8 @@
 {
-  "vid": "23944",
-  "vname": "kuka",
-  "vcpe": "cpe:/:kuka",
-  "pid": "61954",
-  "pname": "systemsoftware v/kss",
-  "pcpe": "cpe:/a:kuka:systemsoftware_v%2Fkss"
+	"vid": "23944",
+	"vname": "kuka",
+	"vcpe": "cpe:/:kuka",
+	"pid": "61954",
+	"pname": "systemsoftware v/kss",
+	"pcpe": "cpe:/a:kuka:systemsoftware_v%2Fkss"
 }

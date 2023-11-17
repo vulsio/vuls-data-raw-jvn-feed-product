@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "35557",
-  "pname": "DNP3 TCP ファームウェア",
-  "pcpe": "cpe:/o:siemens:dnp3_tcp_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "35557",
+	"pname": "DNP3 TCP ファームウェア",
+	"pcpe": "cpe:/o:siemens:dnp3_tcp_firmware"
 }

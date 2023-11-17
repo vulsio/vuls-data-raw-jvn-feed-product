@@ -1,8 +1,8 @@
 {
-  "vid": "17210",
-  "vname": "Victure",
-  "vcpe": "cpe:/:govicture",
-  "pid": "40903",
-  "pname": "PC530 ファームウェア",
-  "pcpe": "cpe:/o:govicture:pc530_firmware"
+	"vid": "17210",
+	"vname": "Victure",
+	"vcpe": "cpe:/:govicture",
+	"pid": "40903",
+	"pname": "PC530 ファームウェア",
+	"pcpe": "cpe:/o:govicture:pc530_firmware"
 }

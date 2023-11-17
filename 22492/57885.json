@@ -1,8 +1,8 @@
 {
-  "vid": "22492",
-  "vname": "OlinData, a HeleCloud company",
-  "vcpe": "cpe:/:helecloud",
-  "pid": "57885",
-  "pname": "node-puppet-facter",
-  "pcpe": "cpe:/a:helecloud:puppet-facter"
+	"vid": "22492",
+	"vname": "OlinData, a HeleCloud company",
+	"vcpe": "cpe:/:helecloud",
+	"pid": "57885",
+	"pname": "node-puppet-facter",
+	"pcpe": "cpe:/a:helecloud:puppet-facter"
 }

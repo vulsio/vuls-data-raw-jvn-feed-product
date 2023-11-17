@@ -1,8 +1,8 @@
 {
-  "vid": "12061",
-  "vname": "wolfSSL Inc.",
-  "vcpe": "cpe:/:wolfssl",
-  "pid": "34563",
-  "pname": "wolfCrypt",
-  "pcpe": "cpe:/a:wolfssl:wolfcrypt"
+	"vid": "12061",
+	"vname": "wolfSSL Inc.",
+	"vcpe": "cpe:/:wolfssl",
+	"pid": "34563",
+	"pname": "wolfCrypt",
+	"pcpe": "cpe:/a:wolfssl:wolfcrypt"
 }

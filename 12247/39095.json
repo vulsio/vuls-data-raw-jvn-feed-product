@@ -1,8 +1,8 @@
 {
-  "vid": "12247",
-  "vname": "Evernote Corporation",
-  "vcpe": "cpe:/:evernote",
-  "pid": "39095",
-  "pname": "Web Clipper",
-  "pcpe": "cpe:/a:evernote:web_clipper"
+	"vid": "12247",
+	"vname": "Evernote Corporation",
+	"vcpe": "cpe:/:evernote",
+	"pid": "39095",
+	"pname": "Web Clipper",
+	"pcpe": "cpe:/a:evernote:web_clipper"
 }

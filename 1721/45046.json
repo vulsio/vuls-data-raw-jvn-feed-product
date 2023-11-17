@@ -1,8 +1,8 @@
 {
-  "vid": "1721",
-  "vname": "SolarWinds",
-  "vcpe": "cpe:/:solarwinds",
-  "pid": "45046",
-  "pname": "Advanced Monitoring Agent",
-  "pcpe": "cpe:/a:solarwinds:advanced_monitoring_agent"
+	"vid": "1721",
+	"vname": "SolarWinds",
+	"vcpe": "cpe:/:solarwinds",
+	"pid": "45046",
+	"pname": "Advanced Monitoring Agent",
+	"pcpe": "cpe:/a:solarwinds:advanced_monitoring_agent"
 }

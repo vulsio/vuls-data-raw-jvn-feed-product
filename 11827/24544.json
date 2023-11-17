@@ -1,8 +1,8 @@
 {
-  "vid": "11827",
-  "vname": "株式会社ヨドバシカメラ",
-  "vcpe": "cpe:/:yodobashi",
-  "pid": "24544",
-  "pname": "Android 版「ヨドバシ」",
-  "pcpe": "cpe:/a:yodobashi:yodobashi"
+	"vid": "11827",
+	"vname": "株式会社ヨドバシカメラ",
+	"vcpe": "cpe:/:yodobashi",
+	"pid": "24544",
+	"pname": "Android 版「ヨドバシ」",
+	"pcpe": "cpe:/a:yodobashi:yodobashi"
 }

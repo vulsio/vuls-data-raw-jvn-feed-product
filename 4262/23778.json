@@ -1,8 +1,8 @@
 {
-  "vid": "4262",
-  "vname": "ジョンソンコントロールズ",
-  "vcpe": "cpe:/:johnsoncontrols",
-  "pid": "23778",
-  "pname": "NxE85",
-  "pcpe": "cpe:/h:johnsoncontrols:nxe8500"
+	"vid": "4262",
+	"vname": "ジョンソンコントロールズ",
+	"vcpe": "cpe:/:johnsoncontrols",
+	"pid": "23778",
+	"pname": "NxE85",
+	"pcpe": "cpe:/h:johnsoncontrols:nxe8500"
 }

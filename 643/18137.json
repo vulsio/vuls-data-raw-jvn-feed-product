@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "18137",
-  "pname": "Precision M",
-  "pcpe": "cpe:/h:dell:precision_m"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "18137",
+	"pname": "Precision M",
+	"pcpe": "cpe:/h:dell:precision_m"
 }

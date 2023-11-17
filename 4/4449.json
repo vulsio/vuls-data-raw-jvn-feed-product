@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4449",
-  "pname": "HP Web Jetadmin",
-  "pcpe": "cpe:/a:hp:web_jetadmin"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4449",
+	"pname": "HP Web Jetadmin",
+	"pcpe": "cpe:/a:hp:web_jetadmin"
 }

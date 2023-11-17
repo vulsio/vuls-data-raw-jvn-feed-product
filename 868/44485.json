@@ -1,8 +1,8 @@
 {
-  "vid": "868",
-  "vname": "PrestaShop",
-  "vcpe": "cpe:/:prestashop",
-  "pid": "44485",
-  "pname": "ps-linklist",
-  "pcpe": "cpe:/a:prestashop:prestashop_linklist"
+	"vid": "868",
+	"vname": "PrestaShop",
+	"vcpe": "cpe:/:prestashop",
+	"pid": "44485",
+	"pname": "ps-linklist",
+	"pcpe": "cpe:/a:prestashop:prestashop_linklist"
 }

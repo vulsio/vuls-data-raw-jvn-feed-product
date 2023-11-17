@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "47346",
-  "pname": "Visualworks Store",
-  "pcpe": "cpe:/a:jenkins:visualworks_store"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "47346",
+	"pname": "Visualworks Store",
+	"pcpe": "cpe:/a:jenkins:visualworks_store"
 }

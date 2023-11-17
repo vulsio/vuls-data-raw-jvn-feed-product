@@ -1,8 +1,8 @@
 {
-  "vid": "12203",
-  "vname": "Nextcloud",
-  "vcpe": "cpe:/:nextcloud",
-  "pid": "62904",
-  "pname": "files access control",
-  "pcpe": "cpe:/a:nextcloud:files_access_control"
+	"vid": "12203",
+	"vname": "Nextcloud",
+	"vcpe": "cpe:/:nextcloud",
+	"pid": "62904",
+	"pname": "files access control",
+	"pcpe": "cpe:/a:nextcloud:files_access_control"
 }

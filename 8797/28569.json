@@ -1,8 +1,8 @@
 {
-  "vid": "8797",
-  "vname": "NetIQ",
-  "vcpe": "cpe:/:netiq",
-  "pid": "28569",
-  "pname": "Sentinel Server",
-  "pcpe": "cpe:/a:netiq:sentinel_server"
+	"vid": "8797",
+	"vname": "NetIQ",
+	"vcpe": "cpe:/:netiq",
+	"pid": "28569",
+	"pname": "Sentinel Server",
+	"pcpe": "cpe:/a:netiq:sentinel_server"
 }

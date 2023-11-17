@@ -1,8 +1,8 @@
 {
-  "vid": "16775",
-  "vname": "WordPress Business Intelligence",
-  "vcpe": "cpe:/:wpbusinessintelligence",
-  "pid": "39990",
-  "pname": "WP Business Intelligence Lite",
-  "pcpe": "cpe:/a:wpbusinessintelligence:wp_business_intelligence"
+	"vid": "16775",
+	"vname": "WordPress Business Intelligence",
+	"vcpe": "cpe:/:wpbusinessintelligence",
+	"pid": "39990",
+	"pname": "WP Business Intelligence Lite",
+	"pcpe": "cpe:/a:wpbusinessintelligence:wp_business_intelligence"
 }

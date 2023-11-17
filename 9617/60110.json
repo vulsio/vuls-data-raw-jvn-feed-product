@@ -1,8 +1,8 @@
 {
-  "vid": "9617",
-  "vname": "Festo",
-  "vcpe": "cpe:/:festo",
-  "pid": "60110",
-  "pname": "servo press kit yjkp ファームウェア",
-  "pcpe": "cpe:/o:festo:servo_press_kit_yjkp_firmware"
+	"vid": "9617",
+	"vname": "Festo",
+	"vcpe": "cpe:/:festo",
+	"pid": "60110",
+	"pname": "servo press kit yjkp ファームウェア",
+	"pcpe": "cpe:/o:festo:servo_press_kit_yjkp_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4160",
-  "vname": "VIVOTEK Inc.",
-  "vcpe": "cpe:/:vivotek",
-  "pid": "44989",
-  "pname": "IB9388-HT ファームウェア",
-  "pcpe": "cpe:/o:vivotek:ib9388-ht_firmware"
+	"vid": "4160",
+	"vname": "VIVOTEK Inc.",
+	"vcpe": "cpe:/:vivotek",
+	"pid": "44989",
+	"pname": "IB9388-HT ファームウェア",
+	"pcpe": "cpe:/o:vivotek:ib9388-ht_firmware"
 }

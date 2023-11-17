@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "23443",
-  "pname": "Cisco HostScan エンジン",
-  "pcpe": "cpe:/a:cisco:hostscan_engine"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "23443",
+	"pname": "Cisco HostScan エンジン",
+	"pcpe": "cpe:/a:cisco:hostscan_engine"
 }

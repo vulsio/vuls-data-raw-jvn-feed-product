@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "38076",
-  "pname": "OnCell G3111 シリーズファームウェア",
-  "pcpe": "cpe:/o:moxa:oncell_g3111_firmware"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "38076",
+	"pname": "OnCell G3111 シリーズファームウェア",
+	"pcpe": "cpe:/o:moxa:oncell_g3111_firmware"
 }

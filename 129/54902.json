@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "54902",
-  "pname": "JP1/Automatic Job Management System 3 - Manager",
-  "pcpe": "cpe:/a:hitachi:jp1_automatic_job_management_system_3-manager"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "54902",
+	"pname": "JP1/Automatic Job Management System 3 - Manager",
+	"pcpe": "cpe:/a:hitachi:jp1_automatic_job_management_system_3-manager"
 }

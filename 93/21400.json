@@ -1,8 +1,8 @@
 {
-  "vid": "93",
-  "vname": "Drupal",
-  "vcpe": "cpe:/:drupal",
-  "pid": "21400",
-  "pname": "Maestro",
-  "pcpe": "cpe:/a:drupal:maestro"
+	"vid": "93",
+	"vname": "Drupal",
+	"vcpe": "cpe:/:drupal",
+	"pid": "21400",
+	"pname": "Maestro",
+	"pcpe": "cpe:/a:drupal:maestro"
 }

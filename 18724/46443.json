@@ -1,8 +1,8 @@
 {
-  "vid": "18724",
-  "vname": "National Motor Freight Classification",
-  "vcpe": "cpe:/:nmfc",
-  "pid": "46443",
-  "pname": "Power Line Communications",
-  "pcpe": "cpe:/a:nmfc:power_line_communications"
+	"vid": "18724",
+	"vname": "National Motor Freight Classification",
+	"vcpe": "cpe:/:nmfc",
+	"pid": "46443",
+	"pname": "Power Line Communications",
+	"pcpe": "cpe:/a:nmfc:power_line_communications"
 }

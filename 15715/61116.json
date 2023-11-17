@@ -1,8 +1,8 @@
 {
-  "vid": "15715",
-  "vname": "TOTOLINK",
-  "vcpe": "cpe:/:totolink",
-  "pid": "61116",
-  "pname": "CA300-PoE ファームウェア",
-  "pcpe": "cpe:/o:totolink:ca300-poe_firmware"
+	"vid": "15715",
+	"vname": "TOTOLINK",
+	"vcpe": "cpe:/:totolink",
+	"pid": "61116",
+	"pname": "CA300-PoE ファームウェア",
+	"pcpe": "cpe:/o:totolink:ca300-poe_firmware"
 }

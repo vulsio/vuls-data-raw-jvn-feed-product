@@ -1,8 +1,8 @@
 {
-  "vid": "792",
-  "vname": "ZyXEL",
-  "vcpe": "cpe:/:zyxel",
-  "pid": "56821",
-  "pname": "NR5103 ファームウェア",
-  "pcpe": "cpe:/o:zyxel:nr5103_firmware"
+	"vid": "792",
+	"vname": "ZyXEL",
+	"vcpe": "cpe:/:zyxel",
+	"pid": "56821",
+	"pname": "NR5103 ファームウェア",
+	"pcpe": "cpe:/o:zyxel:nr5103_firmware"
 }

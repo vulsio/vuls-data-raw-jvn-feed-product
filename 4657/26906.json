@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26906",
-  "pname": "USG5100 ファームウェア",
-  "pcpe": "cpe:/o:huawei:usg5100_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26906",
+	"pname": "USG5100 ファームウェア",
+	"pcpe": "cpe:/o:huawei:usg5100_firmware"
 }

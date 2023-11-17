@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "56943",
-  "pname": "EMC SCG Policy Manager",
-  "pcpe": "cpe:/a:dell:emc_secure_connect_gateway_policy_manager"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "56943",
+	"pname": "EMC SCG Policy Manager",
+	"pcpe": "cpe:/a:dell:emc_secure_connect_gateway_policy_manager"
 }

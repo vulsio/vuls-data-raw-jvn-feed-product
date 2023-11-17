@@ -1,8 +1,8 @@
 {
-  "vid": "20383",
-  "vname": "AsyncAPI Initiative",
-  "vcpe": "cpe:/:asyncapi",
-  "pid": "51964",
-  "pname": "java-spring-cloud-stream-template",
-  "pcpe": "cpe:/a:asyncapi:java-spring-cloud-stream-template"
+	"vid": "20383",
+	"vname": "AsyncAPI Initiative",
+	"vcpe": "cpe:/:asyncapi",
+	"pid": "51964",
+	"pname": "java-spring-cloud-stream-template",
+	"pcpe": "cpe:/a:asyncapi:java-spring-cloud-stream-template"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "215",
-  "vname": "Polycom",
-  "vcpe": "cpe:/:polycom",
-  "pid": "53378",
-  "pname": "Polycom VVX 400 ファームウェア",
-  "pcpe": "cpe:/o:polycom:vvx_400_firmware"
+	"vid": "215",
+	"vname": "Polycom",
+	"vcpe": "cpe:/:polycom",
+	"pid": "53378",
+	"pname": "Polycom VVX 400 ファームウェア",
+	"pcpe": "cpe:/o:polycom:vvx_400_firmware"
 }

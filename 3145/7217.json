@@ -1,8 +1,8 @@
 {
-  "vid": "3145",
-  "vname": "dcgrendel",
-  "vcpe": "cpe:/:dcgrendel",
-  "pid": "7217",
-  "pname": "vmbuilder",
-  "pcpe": "cpe:/a:dcgrendel:vmbuilder"
+	"vid": "3145",
+	"vname": "dcgrendel",
+	"vcpe": "cpe:/:dcgrendel",
+	"pid": "7217",
+	"pname": "vmbuilder",
+	"pcpe": "cpe:/a:dcgrendel:vmbuilder"
 }

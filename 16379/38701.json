@@ -1,8 +1,8 @@
 {
-  "vid": "16379",
-  "vname": "GoHTTP project",
-  "vcpe": "cpe:/:gohttp_project",
-  "pid": "38701",
-  "pname": "GoHTTP",
-  "pcpe": "cpe:/a:gohttp_project:gohttp"
+	"vid": "16379",
+	"vname": "GoHTTP project",
+	"vcpe": "cpe:/:gohttp_project",
+	"pid": "38701",
+	"pname": "GoHTTP",
+	"pcpe": "cpe:/a:gohttp_project:gohttp"
 }

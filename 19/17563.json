@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17563",
-  "pname": "Cisco TelePresence TC ソフトウェア",
-  "pcpe": "cpe:/a:cisco:telepresence_tc_software"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17563",
+	"pname": "Cisco TelePresence TC ソフトウェア",
+	"pcpe": "cpe:/a:cisco:telepresence_tc_software"
 }

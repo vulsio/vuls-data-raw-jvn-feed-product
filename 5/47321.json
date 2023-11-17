@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47321",
-  "pname": "CSRB31024",
-  "pcpe": "cpe:/h:qualcomm:csrb31024"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47321",
+	"pname": "CSRB31024",
+	"pcpe": "cpe:/h:qualcomm:csrb31024"
 }

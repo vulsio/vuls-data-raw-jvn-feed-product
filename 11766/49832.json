@@ -1,8 +1,8 @@
 {
-  "vid": "11766",
-  "vname": "Vesta Control Panel",
-  "vcpe": "cpe:/:vestacp",
-  "pid": "49832",
-  "pname": "Vesta Control Panel",
-  "pcpe": "cpe:/a:vestacp:vesta_control_panel"
+	"vid": "11766",
+	"vname": "Vesta Control Panel",
+	"vcpe": "cpe:/:vestacp",
+	"pid": "49832",
+	"pname": "Vesta Control Panel",
+	"pcpe": "cpe:/a:vestacp:vesta_control_panel"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13164",
-  "vname": "Twitter, Inc.",
-  "vcpe": "cpe:/:twitter",
-  "pid": "30706",
-  "pname": "Twitter",
-  "pcpe": "cpe:/a:twitter:twitter"
+	"vid": "13164",
+	"vname": "Twitter, Inc.",
+	"vcpe": "cpe:/:twitter",
+	"pid": "30706",
+	"pname": "Twitter",
+	"pcpe": "cpe:/a:twitter:twitter"
 }

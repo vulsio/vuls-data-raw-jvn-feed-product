@@ -1,8 +1,8 @@
 {
-  "vid": "4372",
-  "vname": "Slackware",
-  "vcpe": "cpe:/:slackware",
-  "pid": "9339",
-  "pname": "Slackware Linux",
-  "pcpe": "cpe:/o:slackware:slackware_linux"
+	"vid": "4372",
+	"vname": "Slackware",
+	"vcpe": "cpe:/:slackware",
+	"pid": "9339",
+	"pname": "Slackware Linux",
+	"pcpe": "cpe:/o:slackware:slackware_linux"
 }

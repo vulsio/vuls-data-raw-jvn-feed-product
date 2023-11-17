@@ -1,8 +1,8 @@
 {
-  "vid": "15845",
-  "vname": "Ubee Interactive",
-  "vcpe": "cpe:/:ubeeinteractive",
-  "pid": "37005",
-  "pname": "Ambit u10c019 ファームウェア",
-  "pcpe": "cpe:/o:ubeeinteractive:ambit_u10c019_firmware"
+	"vid": "15845",
+	"vname": "Ubee Interactive",
+	"vcpe": "cpe:/:ubeeinteractive",
+	"pid": "37005",
+	"pname": "Ambit u10c019 ファームウェア",
+	"pcpe": "cpe:/o:ubeeinteractive:ambit_u10c019_firmware"
 }

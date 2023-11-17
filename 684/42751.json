@@ -1,8 +1,8 @@
 {
-  "vid": "684",
-  "vname": "LifeSize Communications",
-  "vcpe": "cpe:/:lifesize",
-  "pid": "42751",
-  "pname": "Room220i ファームウェア",
-  "pcpe": "cpe:/o:lifesize:room_220i_firmware"
+	"vid": "684",
+	"vname": "LifeSize Communications",
+	"vcpe": "cpe:/:lifesize",
+	"pid": "42751",
+	"pname": "Room220i ファームウェア",
+	"pcpe": "cpe:/o:lifesize:room_220i_firmware"
 }

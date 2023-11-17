@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "412",
-  "pname": "FMV DESKTOP",
-  "pcpe": "cpe:/h:fujitsu:fmv_desktop"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "412",
+	"pname": "FMV DESKTOP",
+	"pcpe": "cpe:/h:fujitsu:fmv_desktop"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4436",
-  "pname": "proliant sl advanced power manager firmware",
-  "pcpe": "cpe:/a:hp:proliant_sl_advanced_power_manager_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4436",
+	"pname": "proliant sl advanced power manager firmware",
+	"pcpe": "cpe:/a:hp:proliant_sl_advanced_power_manager_firmware"
 }

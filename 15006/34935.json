@@ -1,8 +1,8 @@
 {
-  "vid": "15006",
-  "vname": "TripPay project",
-  "vcpe": "cpe:/:trippay_project",
-  "pid": "34935",
-  "pname": "TripPay",
-  "pcpe": "cpe:/a:trippay_project:trippay"
+	"vid": "15006",
+	"vname": "TripPay project",
+	"vcpe": "cpe:/:trippay_project",
+	"pid": "34935",
+	"pname": "TripPay",
+	"pcpe": "cpe:/a:trippay_project:trippay"
 }

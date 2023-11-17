@@ -1,8 +1,8 @@
 {
-  "vid": "15294",
-  "vname": "AVEVA",
-  "vcpe": "cpe:/:aveva",
-  "pid": "36570",
-  "pname": "InTouch Edge HMI",
-  "pcpe": "cpe:/a:aveva:intouch_edge_hmi"
+	"vid": "15294",
+	"vname": "AVEVA",
+	"vcpe": "cpe:/:aveva",
+	"pid": "36570",
+	"pname": "InTouch Edge HMI",
+	"pcpe": "cpe:/a:aveva:intouch_edge_hmi"
 }

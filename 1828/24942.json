@@ -1,8 +1,8 @@
 {
-  "vid": "1828",
-  "vname": "ownCloud",
-  "vcpe": "cpe:/:owncloud",
-  "pid": "24942",
-  "pname": "SMB",
-  "pcpe": "cpe:/a:owncloud:smb"
+	"vid": "1828",
+	"vname": "ownCloud",
+	"vcpe": "cpe:/:owncloud",
+	"pid": "24942",
+	"pname": "SMB",
+	"pcpe": "cpe:/a:owncloud:smb"
 }

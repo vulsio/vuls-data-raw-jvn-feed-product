@@ -1,8 +1,8 @@
 {
-  "vid": "18082",
-  "vname": "homee GmbH",
-  "vcpe": "cpe:/:hom.ee",
-  "pid": "43976",
-  "pname": "Brain Cube ファームウェア",
-  "pcpe": "cpe:/o:hom.ee:brain_cube_firmware"
+	"vid": "18082",
+	"vname": "homee GmbH",
+	"vcpe": "cpe:/:hom.ee",
+	"pid": "43976",
+	"pname": "Brain Cube ファームウェア",
+	"pcpe": "cpe:/o:hom.ee:brain_cube_firmware"
 }

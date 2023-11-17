@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "35164",
-  "pname": "Archer C1200 ファームウェア",
-  "pcpe": "cpe:/o:tp-link:archer_c1200_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "35164",
+	"pname": "Archer C1200 ファームウェア",
+	"pcpe": "cpe:/o:tp-link:archer_c1200_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16561",
-  "vname": "uLaunchELF project",
-  "vcpe": "cpe:/:ulaunchelf_project",
-  "pid": "39450",
-  "pname": "uLaunchELF",
-  "pcpe": "cpe:/a:ulaunchelf_project:ulaunchelf"
+	"vid": "16561",
+	"vname": "uLaunchELF project",
+	"vcpe": "cpe:/:ulaunchelf_project",
+	"pid": "39450",
+	"pname": "uLaunchELF",
+	"pcpe": "cpe:/a:ulaunchelf_project:ulaunchelf"
 }

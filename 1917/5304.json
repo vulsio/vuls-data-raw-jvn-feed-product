@@ -1,8 +1,8 @@
 {
-  "vid": "1917",
-  "vname": "Innominate Security Technologies AG",
-  "vcpe": "cpe:/:innominate",
-  "pid": "5304",
-  "pname": "EAGLE mGuard",
-  "pcpe": "cpe:/a:innominate:eagle_mguard"
+	"vid": "1917",
+	"vname": "Innominate Security Technologies AG",
+	"vcpe": "cpe:/:innominate",
+	"pid": "5304",
+	"pname": "EAGLE mGuard",
+	"pcpe": "cpe:/a:innominate:eagle_mguard"
 }

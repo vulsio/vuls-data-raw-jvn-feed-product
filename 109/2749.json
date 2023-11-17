@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "2749",
-  "pname": "Systemwalker Availability View",
-  "pcpe": "cpe:/a:fujitsu:systemwalker_availability_view"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "2749",
+	"pname": "Systemwalker Availability View",
+	"pcpe": "cpe:/a:fujitsu:systemwalker_availability_view"
 }

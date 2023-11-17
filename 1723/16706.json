@@ -1,8 +1,8 @@
 {
-  "vid": "1723",
-  "vname": "SonicWALL",
-  "vcpe": "cpe:/:sonicwall",
-  "pid": "16706",
-  "pname": "SonicOS",
-  "pcpe": "cpe:/o:sonicwall:sonicos"
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "16706",
+	"pname": "SonicOS",
+	"pcpe": "cpe:/o:sonicwall:sonicos"
 }

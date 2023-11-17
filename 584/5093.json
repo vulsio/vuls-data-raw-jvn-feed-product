@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "5093",
-  "pname": "Scalance X308-2M Firmware",
-  "pcpe": "cpe:/a:siemens:scalance_x308-2m_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "5093",
+	"pname": "Scalance X308-2M Firmware",
+	"pcpe": "cpe:/a:siemens:scalance_x308-2m_firmware"
 }

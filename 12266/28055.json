@@ -1,8 +1,8 @@
 {
-  "vid": "12266",
-  "vname": "Square, Inc.",
-  "vcpe": "cpe:/:square",
-  "pid": "28055",
-  "pname": "OkHttp",
-  "pcpe": "cpe:/a:square:okhttp"
+	"vid": "12266",
+	"vname": "Square, Inc.",
+	"vcpe": "cpe:/:square",
+	"pid": "28055",
+	"pname": "OkHttp",
+	"pcpe": "cpe:/a:square:okhttp"
 }

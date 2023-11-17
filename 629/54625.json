@@ -1,8 +1,8 @@
 {
-  "vid": "629",
-  "vname": "Moxa Inc.",
-  "vcpe": "cpe:/:moxa",
-  "pid": "54625",
-  "pname": "UC-8540 Series (with Debian 9)",
-  "pcpe": "cpe:/o:moxa:uc-8540_debian9"
+	"vid": "629",
+	"vname": "Moxa Inc.",
+	"vcpe": "cpe:/:moxa",
+	"pid": "54625",
+	"pname": "UC-8540 Series (with Debian 9)",
+	"pcpe": "cpe:/o:moxa:uc-8540_debian9"
 }

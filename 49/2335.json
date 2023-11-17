@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "2335",
-  "pname": "Automake",
-  "pcpe": "cpe:/a:gnu:automake"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "2335",
+	"pname": "Automake",
+	"pcpe": "cpe:/a:gnu:automake"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9044",
-  "vname": "The Foreman",
-  "vcpe": "cpe:/:theforeman",
-  "pid": "50985",
-  "pname": "foreman_fog_proxmox",
-  "pcpe": "cpe:/a:theforeman:foremanfogproxmox"
+	"vid": "9044",
+	"vname": "The Foreman",
+	"vcpe": "cpe:/:theforeman",
+	"pid": "50985",
+	"pname": "foreman_fog_proxmox",
+	"pcpe": "cpe:/a:theforeman:foremanfogproxmox"
 }

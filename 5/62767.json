@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "62767",
-  "pname": "wcn3990 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:wcn3990_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "62767",
+	"pname": "wcn3990 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:wcn3990_firmware"
 }

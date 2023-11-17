@@ -1,8 +1,8 @@
 {
-  "vid": "18455",
-  "vname": "node bcrypt js project",
-  "vcpe": "cpe:/:node.bcrypt.js_project",
-  "pid": "45474",
-  "pname": "node.bcrypt.js",
-  "pcpe": "cpe:/a:node.bcrypt.js_project:node.bcrypt.js"
+	"vid": "18455",
+	"vname": "node bcrypt js project",
+	"vcpe": "cpe:/:node.bcrypt.js_project",
+	"pid": "45474",
+	"pname": "node.bcrypt.js",
+	"pcpe": "cpe:/a:node.bcrypt.js_project:node.bcrypt.js"
 }

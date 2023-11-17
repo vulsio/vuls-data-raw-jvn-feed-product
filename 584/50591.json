@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "50591",
-  "pname": "SINAMICS SM120 ファームウェア",
-  "pcpe": "cpe:/o:siemens:sinamics_sm120_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "50591",
+	"pname": "SINAMICS SM120 ファームウェア",
+	"pcpe": "cpe:/o:siemens:sinamics_sm120_firmware"
 }

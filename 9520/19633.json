@@ -1,8 +1,8 @@
 {
-  "vid": "9520",
-  "vname": "GetGo Software Ltd",
-  "vcpe": "cpe:/:getgosoft",
-  "pid": "19633",
-  "pname": "GetGo Download Manager",
-  "pcpe": "cpe:/a:getgosoft:getgo_download_manager"
+	"vid": "9520",
+	"vname": "GetGo Software Ltd",
+	"vcpe": "cpe:/:getgosoft",
+	"pid": "19633",
+	"pname": "GetGo Download Manager",
+	"pcpe": "cpe:/a:getgosoft:getgo_download_manager"
 }

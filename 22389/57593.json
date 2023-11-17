@@ -1,8 +1,8 @@
 {
-  "vid": "22389",
-  "vname": "AppJetty",
-  "vcpe": "cpe:/:appjetty",
-  "pid": "57593",
-  "pname": "Show All Comments",
-  "pcpe": "cpe:/a:appjetty:show_all_comments"
+	"vid": "22389",
+	"vname": "AppJetty",
+	"vcpe": "cpe:/:appjetty",
+	"pid": "57593",
+	"pname": "Show All Comments",
+	"pcpe": "cpe:/a:appjetty:show_all_comments"
 }

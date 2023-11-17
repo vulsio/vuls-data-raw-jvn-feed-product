@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "43142",
-  "pname": "Web ViewPoint T0952",
-  "pcpe": "cpe:/a:hp:web_viewpoint_t0952"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "43142",
+	"pname": "Web ViewPoint T0952",
+	"pcpe": "cpe:/a:hp:web_viewpoint_t0952"
 }

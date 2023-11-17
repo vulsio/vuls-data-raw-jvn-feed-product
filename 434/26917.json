@@ -1,8 +1,8 @@
 {
-  "vid": "434",
-  "vname": "DELL EMC (旧 EMC Corporation)",
-  "vcpe": "cpe:/:emc",
-  "pid": "26917",
-  "pname": "EMC VNXe3150",
-  "pcpe": "cpe:/h:emc:vnxe3150"
+	"vid": "434",
+	"vname": "DELL EMC (旧 EMC Corporation)",
+	"vcpe": "cpe:/:emc",
+	"pid": "26917",
+	"pname": "EMC VNXe3150",
+	"pcpe": "cpe:/h:emc:vnxe3150"
 }

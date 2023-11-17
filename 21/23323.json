@@ -1,8 +1,8 @@
 {
-  "vid": "21",
-  "vname": "ジュニパーネットワークス",
-  "vcpe": "cpe:/:juniper",
-  "pid": "23323",
-  "pname": "MX104",
-  "pcpe": "cpe:/h:juniper:mx104"
+	"vid": "21",
+	"vname": "ジュニパーネットワークス",
+	"vcpe": "cpe:/:juniper",
+	"pid": "23323",
+	"pname": "MX104",
+	"pcpe": "cpe:/h:juniper:mx104"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10815",
-  "vname": "mytoursapp",
-  "vcpe": "cpe:/:mytoursapp",
-  "pid": "22358",
-  "pname": "revel in the rideau lakes",
-  "pcpe": "cpe:/a:mytoursapp:revel_in_the_rideau_lakes"
+	"vid": "10815",
+	"vname": "mytoursapp",
+	"vcpe": "cpe:/:mytoursapp",
+	"pid": "22358",
+	"pname": "revel in the rideau lakes",
+	"pcpe": "cpe:/a:mytoursapp:revel_in_the_rideau_lakes"
 }

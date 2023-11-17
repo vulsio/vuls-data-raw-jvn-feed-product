@@ -1,8 +1,8 @@
 {
-  "vid": "9100",
-  "vname": "Advance Pro Technologies",
-  "vcpe": "cpe:/:advanceprotech",
-  "pid": "18159",
-  "pname": "AdvancePro",
-  "pcpe": "cpe:/a:advanceprotech:advanceware"
+	"vid": "9100",
+	"vname": "Advance Pro Technologies",
+	"vcpe": "cpe:/:advanceprotech",
+	"pid": "18159",
+	"pname": "AdvancePro",
+	"pcpe": "cpe:/a:advanceprotech:advanceware"
 }

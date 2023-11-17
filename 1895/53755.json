@@ -1,8 +1,8 @@
 {
-  "vid": "1895",
-  "vname": "エマソン",
-  "vcpe": "cpe:/:emerson",
-  "pid": "53755",
-  "pname": "Wireless 1420 Gateway ファームウェア",
-  "pcpe": "cpe:/o:emerson:wireless_1420_gateway_firmware"
+	"vid": "1895",
+	"vname": "エマソン",
+	"vcpe": "cpe:/:emerson",
+	"pid": "53755",
+	"pname": "Wireless 1420 Gateway ファームウェア",
+	"pcpe": "cpe:/o:emerson:wireless_1420_gateway_firmware"
 }

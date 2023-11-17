@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "25820",
-  "pname": "CLUSTERPRO X",
-  "pcpe": "cpe:/a:nec:expresscluster_x"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "25820",
+	"pname": "CLUSTERPRO X",
+	"pcpe": "cpe:/a:nec:expresscluster_x"
 }

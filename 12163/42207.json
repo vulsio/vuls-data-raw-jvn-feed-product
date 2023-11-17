@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "42207",
-  "pname": "Alauda DevOps Pipeline",
-  "pcpe": "cpe:/a:jenkins:alauda_devops_pipeline"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "42207",
+	"pname": "Alauda DevOps Pipeline",
+	"pcpe": "cpe:/a:jenkins:alauda_devops_pipeline"
 }

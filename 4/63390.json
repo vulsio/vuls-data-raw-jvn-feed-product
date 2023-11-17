@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "63390",
-  "pname": "HP OfficeJet Pro 6968 All-in-One Printer T0F28A ファームウェア",
-  "pcpe": "cpe:/o:hp:t0f28a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "63390",
+	"pname": "HP OfficeJet Pro 6968 All-in-One Printer T0F28A ファームウェア",
+	"pcpe": "cpe:/o:hp:t0f28a_firmware"
 }

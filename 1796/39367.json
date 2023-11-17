@@ -1,8 +1,8 @@
 {
-  "vid": "1796",
-  "vname": "Medtronic",
-  "vcpe": "cpe:/:medtronic",
-  "pid": "39367",
-  "pname": "MiniMed 508 ファームウェア",
-  "pcpe": "cpe:/o:medtronic:minimed_508_firmware"
+	"vid": "1796",
+	"vname": "Medtronic",
+	"vcpe": "cpe:/:medtronic",
+	"pid": "39367",
+	"pname": "MiniMed 508 ファームウェア",
+	"pcpe": "cpe:/o:medtronic:minimed_508_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52829",
-  "pname": "SD665 ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd665_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52829",
+	"pname": "SD665 ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd665_firmware"
 }

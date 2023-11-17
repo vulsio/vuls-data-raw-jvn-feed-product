@@ -1,8 +1,8 @@
 {
-  "vid": "1474",
-  "vname": "FreePBX",
-  "vcpe": "cpe:/:freepbx",
-  "pid": "4359",
-  "pname": "FreePBX",
-  "pcpe": "cpe:/a:freepbx:freepbx"
+	"vid": "1474",
+	"vname": "FreePBX",
+	"vcpe": "cpe:/:freepbx",
+	"pid": "4359",
+	"pname": "FreePBX",
+	"pcpe": "cpe:/a:freepbx:freepbx"
 }

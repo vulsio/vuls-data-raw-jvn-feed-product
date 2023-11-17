@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "25676",
-  "pname": "Struxureware Building Operations Automation Server AS-P",
-  "pcpe": "cpe:/h:schneider_electric:struxureware_building_operations_automation_server_as-p"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "25676",
+	"pname": "Struxureware Building Operations Automation Server AS-P",
+	"pcpe": "cpe:/h:schneider_electric:struxureware_building_operations_automation_server_as-p"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19107",
-  "vname": "PELCO",
-  "vcpe": "cpe:/:pelco",
-  "pid": "47983",
-  "pname": "Digital Sentry Server",
-  "pcpe": "cpe:/a:pelco:digital_sentry_server"
+	"vid": "19107",
+	"vname": "PELCO",
+	"vcpe": "cpe:/:pelco",
+	"pid": "47983",
+	"pname": "Digital Sentry Server",
+	"pcpe": "cpe:/a:pelco:digital_sentry_server"
 }

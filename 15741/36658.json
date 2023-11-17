@@ -1,8 +1,8 @@
 {
-  "vid": "15741",
-  "vname": "Roche Diagnostics",
-  "vcpe": "cpe:/:roche",
-  "pid": "36658",
-  "pname": "cobas h 232 ファームウェア",
-  "pcpe": "cpe:/o:roche:cobas_h_232_firmware"
+	"vid": "15741",
+	"vname": "Roche Diagnostics",
+	"vcpe": "cpe:/:roche",
+	"pid": "36658",
+	"pname": "cobas h 232 ファームウェア",
+	"pcpe": "cpe:/o:roche:cobas_h_232_firmware"
 }

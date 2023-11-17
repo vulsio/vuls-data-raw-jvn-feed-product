@@ -1,8 +1,8 @@
 {
-  "vid": "898",
-  "vname": "Sourcefabric",
-  "vcpe": "cpe:/:sourcefabric",
-  "pid": "3386",
-  "pname": "Campsite",
-  "pcpe": "cpe:/a:sourcefabric:campsite"
+	"vid": "898",
+	"vname": "Sourcefabric",
+	"vcpe": "cpe:/:sourcefabric",
+	"pid": "3386",
+	"pname": "Campsite",
+	"pcpe": "cpe:/a:sourcefabric:campsite"
 }

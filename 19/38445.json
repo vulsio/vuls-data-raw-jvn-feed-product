@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "38445",
-  "pname": "Cisco HyperFlex HX220c M5 All NVMe ファームウェア",
-  "pcpe": "cpe:/o:cisco:hx220c_all_nvme_m5_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "38445",
+	"pname": "Cisco HyperFlex HX220c M5 All NVMe ファームウェア",
+	"pcpe": "cpe:/o:cisco:hx220c_all_nvme_m5_firmware"
 }

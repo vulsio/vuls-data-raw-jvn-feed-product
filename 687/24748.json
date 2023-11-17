@@ -1,8 +1,8 @@
 {
-  "vid": "687",
-  "vname": "TIBCO Software",
-  "vcpe": "cpe:/:tibco",
-  "pid": "24748",
-  "pname": "TIBCO Messaging Appliance ソフトウェア",
-  "pcpe": "cpe:/a:tibco:messaging_appliance"
+	"vid": "687",
+	"vname": "TIBCO Software",
+	"vcpe": "cpe:/:tibco",
+	"pid": "24748",
+	"pname": "TIBCO Messaging Appliance ソフトウェア",
+	"pcpe": "cpe:/a:tibco:messaging_appliance"
 }

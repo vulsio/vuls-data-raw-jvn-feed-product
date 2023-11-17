@@ -1,8 +1,8 @@
 {
-  "vid": "697",
-  "vname": "Beckhoff Automation",
-  "vcpe": "cpe:/:beckhoff",
-  "pid": "27004",
-  "pname": "Embedded PC Images",
-  "pcpe": "cpe:/a:beckhoff:embedded_pc_images"
+	"vid": "697",
+	"vname": "Beckhoff Automation",
+	"vcpe": "cpe:/:beckhoff",
+	"pid": "27004",
+	"pname": "Embedded PC Images",
+	"pcpe": "cpe:/a:beckhoff:embedded_pc_images"
 }

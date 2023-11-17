@@ -1,8 +1,8 @@
 {
-  "vid": "5367",
-  "vname": "LogMeIn, Inc.",
-  "vcpe": "cpe:/:logmein",
-  "pid": "33368",
-  "pname": "LastPass",
-  "pcpe": "cpe:/a:logmein:lastpass"
+	"vid": "5367",
+	"vname": "LogMeIn, Inc.",
+	"vcpe": "cpe:/:logmein",
+	"pid": "33368",
+	"pname": "LastPass",
+	"pcpe": "cpe:/a:logmein:lastpass"
 }

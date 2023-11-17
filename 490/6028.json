@@ -1,8 +1,8 @@
 {
-  "vid": "490",
-  "vname": "Digium",
-  "vcpe": "cpe:/:digium",
-  "pid": "6028",
-  "pname": "AsteriskNOW",
-  "pcpe": "cpe:/a:digium:asterisknow"
+	"vid": "490",
+	"vname": "Digium",
+	"vcpe": "cpe:/:digium",
+	"pid": "6028",
+	"pname": "AsteriskNOW",
+	"pcpe": "cpe:/a:digium:asterisknow"
 }

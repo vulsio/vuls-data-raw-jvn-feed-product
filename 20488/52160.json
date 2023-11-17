@@ -1,8 +1,8 @@
 {
-  "vid": "20488",
-  "vname": "WPFront",
-  "vcpe": "cpe:/:wpfront",
-  "pid": "52160",
-  "pname": "WPFront Notification Bar",
-  "pcpe": "cpe:/a:wpfront:notification_bar"
+	"vid": "20488",
+	"vname": "WPFront",
+	"vcpe": "cpe:/:wpfront",
+	"pid": "52160",
+	"pname": "WPFront Notification Bar",
+	"pcpe": "cpe:/a:wpfront:notification_bar"
 }

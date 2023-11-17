@@ -1,8 +1,8 @@
 {
-  "vid": "500",
-  "vname": "Mambo Foundation",
-  "vcpe": "cpe:/:mambo-foundation",
-  "pid": "13514",
-  "pname": "videodb",
-  "pcpe": "cpe:/a:mambo-foundation:videodb"
+	"vid": "500",
+	"vname": "Mambo Foundation",
+	"vcpe": "cpe:/:mambo-foundation",
+	"pid": "13514",
+	"pname": "videodb",
+	"pcpe": "cpe:/a:mambo-foundation:videodb"
 }

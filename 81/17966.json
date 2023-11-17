@@ -1,8 +1,8 @@
 {
-  "vid": "81",
-  "vname": "Python Software Foundation",
-  "vcpe": "cpe:/:python",
-  "pid": "17966",
-  "pname": "setuptools",
-  "pcpe": "cpe:/a:python:setuptools"
+	"vid": "81",
+	"vname": "Python Software Foundation",
+	"vcpe": "cpe:/:python",
+	"pid": "17966",
+	"pname": "setuptools",
+	"pcpe": "cpe:/a:python:setuptools"
 }

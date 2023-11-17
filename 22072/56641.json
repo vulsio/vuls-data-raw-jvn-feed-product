@@ -1,8 +1,8 @@
 {
-  "vid": "22072",
-  "vname": "KiCad",
-  "vcpe": "cpe:/:kicad",
-  "pid": "56641",
-  "pname": "KiCad EDA",
-  "pcpe": "cpe:/a:kicad:kicad_eda"
+	"vid": "22072",
+	"vname": "KiCad",
+	"vcpe": "cpe:/:kicad",
+	"pid": "56641",
+	"pname": "KiCad EDA",
+	"pcpe": "cpe:/a:kicad:kicad_eda"
 }

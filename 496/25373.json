@@ -1,8 +1,8 @@
 {
-  "vid": "496",
-  "vname": "F5 Networks",
-  "vcpe": "cpe:/:f5",
-  "pid": "25373",
-  "pname": "BIG-IP Domain Name System (DNS)",
-  "pcpe": "cpe:/a:f5:big-ip_domain_name_system"
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "25373",
+	"pname": "BIG-IP Domain Name System (DNS)",
+	"pcpe": "cpe:/a:f5:big-ip_domain_name_system"
 }

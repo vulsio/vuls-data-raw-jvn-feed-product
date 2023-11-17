@@ -1,8 +1,8 @@
 {
-  "vid": "15364",
-  "vname": "Bloop SRL",
-  "vcpe": "cpe:/:bloop",
-  "pid": "35689",
-  "pname": "Airmail 3",
-  "pcpe": "cpe:/a:bloop:airmail"
+	"vid": "15364",
+	"vname": "Bloop SRL",
+	"vcpe": "cpe:/:bloop",
+	"pid": "35689",
+	"pname": "Airmail 3",
+	"pcpe": "cpe:/a:bloop:airmail"
 }

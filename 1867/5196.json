@@ -1,8 +1,8 @@
 {
-  "vid": "1867",
-  "vname": "TM Software",
-  "vcpe": "cpe:/:tm_software",
-  "pid": "5196",
-  "pname": "Tempo",
-  "pcpe": "cpe:/a:tm_software:tempo"
+	"vid": "1867",
+	"vname": "TM Software",
+	"vcpe": "cpe:/:tm_software",
+	"pid": "5196",
+	"pname": "Tempo",
+	"pcpe": "cpe:/a:tm_software:tempo"
 }

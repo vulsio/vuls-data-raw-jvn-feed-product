@@ -1,8 +1,8 @@
 {
-  "vid": "19378",
-  "vname": "LogRhythm",
-  "vcpe": "cpe:/:logrhythm",
-  "pid": "48818",
-  "pname": "Platform Manager",
-  "pcpe": "cpe:/a:logrhythm:platform_manager"
+	"vid": "19378",
+	"vname": "LogRhythm",
+	"vcpe": "cpe:/:logrhythm",
+	"pid": "48818",
+	"pname": "Platform Manager",
+	"pcpe": "cpe:/a:logrhythm:platform_manager"
 }

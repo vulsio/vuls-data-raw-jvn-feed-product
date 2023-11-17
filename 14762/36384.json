@@ -1,8 +1,8 @@
 {
-  "vid": "14762",
-  "vname": "CIRCONTROL S.A",
-  "vcpe": "cpe:/:circontrol",
-  "pid": "36384",
-  "pname": "Open Charge Point Protocol",
-  "pcpe": "cpe:/a:circontrol:open_charge_point_protocol"
+	"vid": "14762",
+	"vname": "CIRCONTROL S.A",
+	"vcpe": "cpe:/:circontrol",
+	"pid": "36384",
+	"pname": "Open Charge Point Protocol",
+	"pcpe": "cpe:/a:circontrol:open_charge_point_protocol"
 }

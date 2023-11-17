@@ -1,8 +1,8 @@
 {
-  "vid": "22154",
-  "vname": "jopenid project",
-  "vcpe": "cpe:/:jopenid_project",
-  "pid": "57025",
-  "pname": "jopenid",
-  "pcpe": "cpe:/a:jopenid_project:jopenid"
+	"vid": "22154",
+	"vname": "jopenid project",
+	"vcpe": "cpe:/:jopenid_project",
+	"pid": "57025",
+	"pname": "jopenid",
+	"pcpe": "cpe:/a:jopenid_project:jopenid"
 }

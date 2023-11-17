@@ -1,8 +1,8 @@
 {
-  "vid": "5814",
-  "vname": "mybboard",
-  "vcpe": "cpe:/:mybboard",
-  "pid": "11805",
-  "pname": "custom pages plugin",
-  "pcpe": "cpe:/a:mybboard:custom_pages_plugin"
+	"vid": "5814",
+	"vname": "mybboard",
+	"vcpe": "cpe:/:mybboard",
+	"pid": "11805",
+	"pname": "custom pages plugin",
+	"pcpe": "cpe:/a:mybboard:custom_pages_plugin"
 }

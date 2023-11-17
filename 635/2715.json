@@ -1,8 +1,8 @@
 {
-  "vid": "635",
-  "vname": "Mutare Software",
-  "vcpe": "cpe:/:mutare",
-  "pid": "2715",
-  "pname": "Mutare Software Enabled VoiceMail",
-  "pcpe": "cpe:/a:mutare:evm"
+	"vid": "635",
+	"vname": "Mutare Software",
+	"vcpe": "cpe:/:mutare",
+	"pid": "2715",
+	"pname": "Mutare Software Enabled VoiceMail",
+	"pcpe": "cpe:/a:mutare:evm"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "13827",
-  "vname": "TiVo Corporation",
-  "vcpe": "cpe:/:tivo",
-  "pid": "32828",
-  "pname": "SafeDisc",
-  "pcpe": "cpe:/a:tivo:safedisc"
+	"vid": "13827",
+	"vname": "TiVo Corporation",
+	"vcpe": "cpe:/:tivo",
+	"pid": "32828",
+	"pname": "SafeDisc",
+	"pcpe": "cpe:/a:tivo:safedisc"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "60658",
-  "pname": "Cisco Unified IP Phone 9971 ファームウェア",
-  "pcpe": "cpe:/o:cisco:unified_ip_phone_9971_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "60658",
+	"pname": "Cisco Unified IP Phone 9971 ファームウェア",
+	"pcpe": "cpe:/o:cisco:unified_ip_phone_9971_firmware"
 }

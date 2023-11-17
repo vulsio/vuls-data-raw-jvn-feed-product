@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "54495",
-  "pname": "RE300 V1",
-  "pcpe": "cpe:/o:tp-link:re300-v1_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "54495",
+	"pname": "RE300 V1",
+	"pcpe": "cpe:/o:tp-link:re300-v1_firmware"
 }

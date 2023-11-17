@@ -1,8 +1,8 @@
 {
-  "vid": "22059",
-  "vname": "コニカミノルタ株式会社",
-  "vcpe": "cpe:/:konicaminolta",
-  "pid": "59666",
-  "pname": "bizhub 758 ファームウェア",
-  "pcpe": "cpe:/o:konicaminolta:bizhub_758_firmware"
+	"vid": "22059",
+	"vname": "コニカミノルタ株式会社",
+	"vcpe": "cpe:/:konicaminolta",
+	"pid": "59666",
+	"pname": "bizhub 758 ファームウェア",
+	"pcpe": "cpe:/o:konicaminolta:bizhub_758_firmware"
 }

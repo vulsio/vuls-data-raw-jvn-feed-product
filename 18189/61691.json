@@ -1,8 +1,8 @@
 {
-  "vid": "18189",
-  "vname": "UI",
-  "vcpe": "cpe:/:ui",
-  "pid": "61691",
-  "pname": "ER-12P ファームウェア",
-  "pcpe": "cpe:/o:ui:er-12p_firmware"
+	"vid": "18189",
+	"vname": "UI",
+	"vcpe": "cpe:/:ui",
+	"pid": "61691",
+	"pname": "ER-12P ファームウェア",
+	"pcpe": "cpe:/o:ui:er-12p_firmware"
 }

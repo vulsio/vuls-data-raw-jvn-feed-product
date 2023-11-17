@@ -1,8 +1,8 @@
 {
-  "vid": "8403",
-  "vname": "wbb2-addon",
-  "vcpe": "cpe:/:wbb2-addon",
-  "pid": "16009",
-  "pname": "acrotxt",
-  "pcpe": "cpe:/a:wbb2-addon:acrotxt"
+	"vid": "8403",
+	"vname": "wbb2-addon",
+	"vcpe": "cpe:/:wbb2-addon",
+	"pid": "16009",
+	"pname": "acrotxt",
+	"pcpe": "cpe:/a:wbb2-addon:acrotxt"
 }

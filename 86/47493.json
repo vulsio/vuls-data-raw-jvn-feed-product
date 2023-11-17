@@ -1,8 +1,8 @@
 {
-  "vid": "86",
-  "vname": "バッファロー",
-  "vcpe": "cpe:/:buffalo_inc",
-  "pid": "47493",
-  "pname": "WLA-G54 ファームウェア",
-  "pcpe": "cpe:/o:buffalo_inc:wla-g54_firmware"
+	"vid": "86",
+	"vname": "バッファロー",
+	"vcpe": "cpe:/:buffalo_inc",
+	"pid": "47493",
+	"pname": "WLA-G54 ファームウェア",
+	"pcpe": "cpe:/o:buffalo_inc:wla-g54_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "4358",
-  "vname": "Korenix Technology",
-  "vcpe": "cpe:/:korenix",
-  "pid": "31146",
-  "pname": "JetNet5728G-24P ファームウェア",
-  "pcpe": "cpe:/o:korenix:jetnet5728g-24p_firmware"
+	"vid": "4358",
+	"vname": "Korenix Technology",
+	"vcpe": "cpe:/:korenix",
+	"pid": "31146",
+	"pname": "JetNet5728G-24P ファームウェア",
+	"pcpe": "cpe:/o:korenix:jetnet5728g-24p_firmware"
 }

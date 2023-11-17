@@ -1,8 +1,8 @@
 {
-  "vid": "1893",
-  "vname": "Sensio Labs",
-  "vcpe": "cpe:/:sensiolabs",
-  "pid": "5235",
-  "pname": "Symfony",
-  "pcpe": "cpe:/a:sensiolabs:symfony"
+	"vid": "1893",
+	"vname": "Sensio Labs",
+	"vcpe": "cpe:/:sensiolabs",
+	"pid": "5235",
+	"pname": "Symfony",
+	"pcpe": "cpe:/a:sensiolabs:symfony"
 }

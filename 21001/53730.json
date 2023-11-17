@@ -1,8 +1,8 @@
 {
-  "vid": "21001",
-  "vname": "WP Debugging project",
-  "vcpe": "cpe:/:wp_debugging_project",
-  "pid": "53730",
-  "pname": "WP Debugging",
-  "pcpe": "cpe:/a:wp_debugging_project:wp_debugging"
+	"vid": "21001",
+	"vname": "WP Debugging project",
+	"vcpe": "cpe:/:wp_debugging_project",
+	"pid": "53730",
+	"pname": "WP Debugging",
+	"pcpe": "cpe:/a:wp_debugging_project:wp_debugging"
 }

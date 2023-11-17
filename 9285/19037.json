@@ -1,8 +1,8 @@
 {
-  "vid": "9285",
-  "vname": "UPC",
-  "vcpe": "cpe:/:upc",
-  "pid": "19037",
-  "pname": "UPC Ireland Cisco EPC 2425",
-  "pcpe": "cpe:/h:upc:ireland_cisco_epc2425"
+	"vid": "9285",
+	"vname": "UPC",
+	"vcpe": "cpe:/:upc",
+	"pid": "19037",
+	"pname": "UPC Ireland Cisco EPC 2425",
+	"pcpe": "cpe:/h:upc:ireland_cisco_epc2425"
 }

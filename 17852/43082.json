@@ -1,8 +1,8 @@
 {
-  "vid": "17852",
-  "vname": "Nanopb project",
-  "vcpe": "cpe:/:nanopb_project",
-  "pid": "43082",
-  "pname": "Nanopb",
-  "pcpe": "cpe:/a:nanopb_project:nanopb"
+	"vid": "17852",
+	"vname": "Nanopb project",
+	"vcpe": "cpe:/:nanopb_project",
+	"pid": "43082",
+	"pname": "Nanopb",
+	"pcpe": "cpe:/a:nanopb_project:nanopb"
 }

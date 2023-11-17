@@ -1,8 +1,8 @@
 {
-  "vid": "6471",
-  "vname": "jfree",
-  "vcpe": "cpe:/:jfree",
-  "pid": "13010",
-  "pname": "jfreechart",
-  "pcpe": "cpe:/o:jfree:jfreechart"
+	"vid": "6471",
+	"vname": "jfree",
+	"vcpe": "cpe:/:jfree",
+	"pid": "13010",
+	"pname": "jfreechart",
+	"pcpe": "cpe:/o:jfree:jfreechart"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14270",
-  "vname": "WebRTC",
-  "vcpe": "cpe:/:webrtc",
-  "pid": "33948",
-  "pname": "webrtc-native",
-  "pcpe": "cpe:/a:webrtc:webrtc-native"
+	"vid": "14270",
+	"vname": "WebRTC",
+	"vcpe": "cpe:/:webrtc",
+	"pid": "33948",
+	"pname": "webrtc-native",
+	"pcpe": "cpe:/a:webrtc:webrtc-native"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15735",
-  "vname": "YunoHost",
-  "vcpe": "cpe:/:yunohost",
-  "pid": "56411",
-  "pname": "Transmission for YunoHost",
-  "pcpe": "cpe:/a:yunohost:transmission_ynh"
+	"vid": "15735",
+	"vname": "YunoHost",
+	"vcpe": "cpe:/:yunohost",
+	"pid": "56411",
+	"pname": "Transmission for YunoHost",
+	"pcpe": "cpe:/a:yunohost:transmission_ynh"
 }

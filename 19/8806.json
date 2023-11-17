@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "8806",
-  "pname": "digital media player 4400g",
-  "pcpe": "cpe:/h:cisco:digital_media_player_4400g"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "8806",
+	"pname": "digital media player 4400g",
+	"pcpe": "cpe:/h:cisco:digital_media_player_4400g"
 }

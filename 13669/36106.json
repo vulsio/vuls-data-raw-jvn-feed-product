@@ -1,8 +1,8 @@
 {
-  "vid": "13669",
-  "vname": "DASAN Networks, Inc.",
-  "vcpe": "cpe:/:dasannetworks",
-  "pid": "36106",
-  "pname": "H660GW ファームウェア",
-  "pcpe": "cpe:/o:dasannetworks:h660gw_firmware"
+	"vid": "13669",
+	"vname": "DASAN Networks, Inc.",
+	"vcpe": "cpe:/:dasannetworks",
+	"pid": "36106",
+	"pname": "H660GW ファームウェア",
+	"pcpe": "cpe:/o:dasannetworks:h660gw_firmware"
 }

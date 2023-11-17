@@ -1,8 +1,8 @@
 {
-  "vid": "5589",
-  "vname": "mephisto",
-  "vcpe": "cpe:/:mephisto",
-  "pid": "11443",
-  "pname": "mephisto edge",
-  "pcpe": "cpe:/a:mephisto:mephisto_edge"
+	"vid": "5589",
+	"vname": "mephisto",
+	"vcpe": "cpe:/:mephisto",
+	"pid": "11443",
+	"pname": "mephisto edge",
+	"pcpe": "cpe:/a:mephisto:mephisto_edge"
 }

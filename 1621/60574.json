@@ -1,8 +1,8 @@
 {
-  "vid": "1621",
-  "vname": "ノキア",
-  "vcpe": "cpe:/:nokia",
-  "pid": "60574",
-  "pname": "vitalsuite",
-  "pcpe": "cpe:/a:nokia:vitalsuite"
+	"vid": "1621",
+	"vname": "ノキア",
+	"vcpe": "cpe:/:nokia",
+	"pid": "60574",
+	"pname": "vitalsuite",
+	"pcpe": "cpe:/a:nokia:vitalsuite"
 }

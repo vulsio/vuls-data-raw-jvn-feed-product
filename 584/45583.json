@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "45583",
-  "pname": "Opcenter RD&26l",
-  "pcpe": "cpe:/a:siemens:opcenter_rd%26l"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "45583",
+	"pname": "Opcenter RD&26l",
+	"pcpe": "cpe:/a:siemens:opcenter_rd%26l"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "43654",
-  "pname": "DWL-2600AP ファームウェア",
-  "pcpe": "cpe:/o:dlink:dwl-2600ap_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "43654",
+	"pname": "DWL-2600AP ファームウェア",
+	"pcpe": "cpe:/o:dlink:dwl-2600ap_firmware"
 }

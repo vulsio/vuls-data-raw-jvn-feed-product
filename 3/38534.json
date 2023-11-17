@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "38534",
-  "pname": "Red Hat JBoss AMQ Clients 2",
-  "pcpe": "cpe:/a:redhat:jboss_amq_clients_2"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "38534",
+	"pname": "Red Hat JBoss AMQ Clients 2",
+	"pcpe": "cpe:/a:redhat:jboss_amq_clients_2"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "416",
-  "vname": "High Availability Linux Project",
-  "vcpe": "cpe:/:linux-ha",
-  "pid": "1572",
-  "pname": "Heartbeat",
-  "pcpe": "cpe:/a:linux-ha:heartbeat"
+	"vid": "416",
+	"vname": "High Availability Linux Project",
+	"vcpe": "cpe:/:linux-ha",
+	"pid": "1572",
+	"pname": "Heartbeat",
+	"pcpe": "cpe:/a:linux-ha:heartbeat"
 }

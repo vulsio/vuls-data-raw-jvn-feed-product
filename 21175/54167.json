@@ -1,8 +1,8 @@
 {
-  "vid": "21175",
-  "vname": "Binatone Global",
-  "vcpe": "cpe:/:binatoneglobal",
-  "pid": "54167",
-  "pname": "MBP669 Connect ファームウェア",
-  "pcpe": "cpe:/o:binatoneglobal:mbp669_connect_firmware"
+	"vid": "21175",
+	"vname": "Binatone Global",
+	"vcpe": "cpe:/:binatoneglobal",
+	"pid": "54167",
+	"pname": "MBP669 Connect ファームウェア",
+	"pcpe": "cpe:/o:binatoneglobal:mbp669_connect_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19178",
-  "vname": "Issuer",
-  "vcpe": "cpe:/:issuer_project",
-  "pid": "48197",
-  "pname": "Issuer",
-  "pcpe": "cpe:/a:issuer_project:issuer"
+	"vid": "19178",
+	"vname": "Issuer",
+	"vcpe": "cpe:/:issuer_project",
+	"pid": "48197",
+	"pname": "Issuer",
+	"pcpe": "cpe:/a:issuer_project:issuer"
 }

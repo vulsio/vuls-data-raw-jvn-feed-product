@@ -1,8 +1,8 @@
 {
-  "vid": "16614",
-  "vname": "Upwork",
-  "vcpe": "cpe:/:upwork",
-  "pid": "39566",
-  "pname": "Time Tracker",
-  "pcpe": "cpe:/a:upwork:time_tracker"
+	"vid": "16614",
+	"vname": "Upwork",
+	"vcpe": "cpe:/:upwork",
+	"pid": "39566",
+	"pname": "Time Tracker",
+	"pcpe": "cpe:/a:upwork:time_tracker"
 }

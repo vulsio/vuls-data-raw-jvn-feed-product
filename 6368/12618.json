@@ -1,8 +1,8 @@
 {
-  "vid": "6368",
-  "vname": "php.brickhost",
-  "vcpe": "cpe:/:php.brickhost",
-  "pid": "12618",
-  "pname": "phpscheduleit",
-  "pcpe": "cpe:/a:php.brickhost:phpscheduleit"
+	"vid": "6368",
+	"vname": "php.brickhost",
+	"vcpe": "cpe:/:php.brickhost",
+	"pid": "12618",
+	"pname": "phpscheduleit",
+	"pcpe": "cpe:/a:php.brickhost:phpscheduleit"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "16496",
-  "vname": "glot",
-  "vcpe": "cpe:/:glot",
-  "pid": "39233",
-  "pname": "glot-www",
-  "pcpe": "cpe:/a:glot:glot-www"
+	"vid": "16496",
+	"vname": "glot",
+	"vcpe": "cpe:/:glot",
+	"pid": "39233",
+	"pname": "glot-www",
+	"pcpe": "cpe:/a:glot:glot-www"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "24504",
-  "pname": "Latitude E6410 ATG",
-  "pcpe": "cpe:/h:dell:latitude_e6410_atg"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "24504",
+	"pname": "Latitude E6410 ATG",
+	"pcpe": "cpe:/h:dell:latitude_e6410_atg"
 }

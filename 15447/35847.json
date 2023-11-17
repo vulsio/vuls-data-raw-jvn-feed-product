@@ -1,8 +1,8 @@
 {
-  "vid": "15447",
-  "vname": "WAVM project",
-  "vcpe": "cpe:/:webassembly_virtual_machine_project",
-  "pid": "35847",
-  "pname": "WebAssembly Virtual Machine",
-  "pcpe": "cpe:/a:webassembly_virtual_machine_project:webassembly_virtual_machine"
+	"vid": "15447",
+	"vname": "WAVM project",
+	"vcpe": "cpe:/:webassembly_virtual_machine_project",
+	"pid": "35847",
+	"pname": "WebAssembly Virtual Machine",
+	"pcpe": "cpe:/a:webassembly_virtual_machine_project:webassembly_virtual_machine"
 }

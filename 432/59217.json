@@ -1,8 +1,8 @@
 {
-  "vid": "432",
-  "vname": "ABB",
-  "vcpe": "cpe:/:abb",
-  "pid": "59217",
-  "pname": "arg600a1260na ファームウェア",
-  "pcpe": "cpe:/o:abb:arg600a1260na_firmware"
+	"vid": "432",
+	"vname": "ABB",
+	"vcpe": "cpe:/:abb",
+	"pid": "59217",
+	"pname": "arg600a1260na ファームウェア",
+	"pcpe": "cpe:/o:abb:arg600a1260na_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "1777",
-  "vname": "webwiz",
-  "vcpe": "cpe:/:webwiz",
-  "pid": "16114",
-  "pname": "rich text editor",
-  "pcpe": "cpe:/a:webwiz:rich_text_editor"
+	"vid": "1777",
+	"vname": "webwiz",
+	"vcpe": "cpe:/:webwiz",
+	"pid": "16114",
+	"pname": "rich text editor",
+	"pcpe": "cpe:/a:webwiz:rich_text_editor"
 }

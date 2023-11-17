@@ -1,8 +1,8 @@
 {
-  "vid": "9905",
-  "vname": "Sabre Inc.",
-  "vcpe": "cpe:/:sabreairlinesolutions",
-  "pid": "20664",
-  "pname": "AirCentre Crew Services",
-  "pcpe": "cpe:/a:sabreairlinesolutions:crew_services"
+	"vid": "9905",
+	"vname": "Sabre Inc.",
+	"vcpe": "cpe:/:sabreairlinesolutions",
+	"pid": "20664",
+	"pname": "AirCentre Crew Services",
+	"pcpe": "cpe:/a:sabreairlinesolutions:crew_services"
 }

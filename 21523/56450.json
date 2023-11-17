@@ -1,8 +1,8 @@
 {
-  "vid": "21523",
-  "vname": "Mirantis Inc.",
-  "vcpe": "cpe:/:mirantis",
-  "pid": "56450",
-  "pname": "Mirantis Container Cloud Lens Extension",
-  "pcpe": "cpe:/a:mirantis:container_cloud_lens_extension"
+	"vid": "21523",
+	"vname": "Mirantis Inc.",
+	"vcpe": "cpe:/:mirantis",
+	"pid": "56450",
+	"pname": "Mirantis Container Cloud Lens Extension",
+	"pcpe": "cpe:/a:mirantis:container_cloud_lens_extension"
 }

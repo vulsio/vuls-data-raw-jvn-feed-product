@@ -1,8 +1,8 @@
 {
-  "vid": "1858",
-  "vname": "SiliSoftware",
-  "vcpe": "cpe:/:silisoftware",
-  "pid": "20258",
-  "pname": "getID3()",
-  "pcpe": "cpe:/a:silisoftware:getid3"
+	"vid": "1858",
+	"vname": "SiliSoftware",
+	"vcpe": "cpe:/:silisoftware",
+	"pid": "20258",
+	"pname": "getID3()",
+	"pcpe": "cpe:/a:silisoftware:getid3"
 }

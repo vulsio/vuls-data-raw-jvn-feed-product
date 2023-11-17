@@ -1,8 +1,8 @@
 {
-  "vid": "23307",
-  "vname": "mitsubishi",
-  "vcpe": "cpe:/:mitsubishi",
-  "pid": "60351",
-  "pname": "eb-50gu-j ファームウェア",
-  "pcpe": "cpe:/o:mitsubishi:eb-50gu-j_firmware"
+	"vid": "23307",
+	"vname": "mitsubishi",
+	"vcpe": "cpe:/:mitsubishi",
+	"pid": "60351",
+	"pname": "eb-50gu-j ファームウェア",
+	"pcpe": "cpe:/o:mitsubishi:eb-50gu-j_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "21422",
-  "vname": "PyTorch Lightning",
-  "vcpe": "cpe:/:pytorchlightning",
-  "pid": "55010",
-  "pname": "PyTorch Lightning",
-  "pcpe": "cpe:/a:pytorchlightning:pytorch_lightning"
+	"vid": "21422",
+	"vname": "PyTorch Lightning",
+	"vcpe": "cpe:/:pytorchlightning",
+	"pid": "55010",
+	"pname": "PyTorch Lightning",
+	"pcpe": "cpe:/a:pytorchlightning:pytorch_lightning"
 }

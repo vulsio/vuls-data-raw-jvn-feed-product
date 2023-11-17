@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "25679",
-  "pname": "HP-UX IPFilter",
-  "pcpe": "cpe:/a:hp:hp-uxipfilter"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "25679",
+	"pname": "HP-UX IPFilter",
+	"pcpe": "cpe:/a:hp:hp-uxipfilter"
 }

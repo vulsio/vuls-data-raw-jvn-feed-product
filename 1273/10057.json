@@ -1,8 +1,8 @@
 {
-  "vid": "1273",
-  "vname": "idevSpot",
-  "vcpe": "cpe:/:idevspot",
-  "pid": "10057",
-  "pname": "idevcart",
-  "pcpe": "cpe:/a:idevspot:idevcart"
+	"vid": "1273",
+	"vname": "idevSpot",
+	"vcpe": "cpe:/:idevspot",
+	"pid": "10057",
+	"pname": "idevcart",
+	"pcpe": "cpe:/a:idevspot:idevcart"
 }

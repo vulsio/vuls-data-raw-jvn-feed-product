@@ -1,8 +1,8 @@
 {
-  "vid": "17199",
-  "vname": "FON Wireless Limited",
-  "vcpe": "cpe:/:fon",
-  "pid": "40858",
-  "pname": "FON2601E-SE ファームウエア",
-  "pcpe": "cpe:/o:fon:fon_fon2601e-se_firmware"
+	"vid": "17199",
+	"vname": "FON Wireless Limited",
+	"vcpe": "cpe:/:fon",
+	"pid": "40858",
+	"pname": "FON2601E-SE ファームウエア",
+	"pcpe": "cpe:/o:fon:fon_fon2601e-se_firmware"
 }

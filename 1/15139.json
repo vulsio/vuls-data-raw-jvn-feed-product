@@ -1,8 +1,8 @@
 {
-  "vid": "1",
-  "vname": "サン・マイクロシステムズ",
-  "vcpe": "cpe:/:sun",
-  "pid": "15139",
-  "pname": "jsf",
-  "pcpe": "cpe:/a:sun:jsf"
+	"vid": "1",
+	"vname": "サン・マイクロシステムズ",
+	"vcpe": "cpe:/:sun",
+	"pid": "15139",
+	"pname": "jsf",
+	"pcpe": "cpe:/a:sun:jsf"
 }

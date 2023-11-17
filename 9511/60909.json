@@ -1,8 +1,8 @@
 {
-  "vid": "9511",
-  "vname": "Hangzhou Hikvision Digital Technology",
-  "vcpe": "cpe:/:hikvision",
-  "pid": "60909",
-  "pname": "ds-a71048 ファームウェア",
-  "pcpe": "cpe:/o:hikvision:ds-a71048_firmware"
+	"vid": "9511",
+	"vname": "Hangzhou Hikvision Digital Technology",
+	"vcpe": "cpe:/:hikvision",
+	"pid": "60909",
+	"pname": "ds-a71048 ファームウェア",
+	"pcpe": "cpe:/o:hikvision:ds-a71048_firmware"
 }

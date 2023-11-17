@@ -1,8 +1,8 @@
 {
-  "vid": "1806",
-  "vname": "東芝テック",
-  "vcpe": "cpe:/:toshibatec",
-  "pid": "17416",
-  "pname": "e-STUDIO 232 ファームウェア",
-  "pcpe": "cpe:/a:toshibatec:e-studio-232_firmware"
+	"vid": "1806",
+	"vname": "東芝テック",
+	"vcpe": "cpe:/:toshibatec",
+	"pid": "17416",
+	"pname": "e-STUDIO 232 ファームウェア",
+	"pcpe": "cpe:/a:toshibatec:e-studio-232_firmware"
 }

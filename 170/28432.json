@@ -1,8 +1,8 @@
 {
-  "vid": "170",
-  "vname": "東芝",
-  "vcpe": "cpe:/:toshiba",
-  "pid": "28432",
-  "pname": "TransferJet（近接無線通信）搭載SDHCメモリカード 設定ソフトウェア",
-  "pcpe": "cpe:/a:toshiba:sdhc_memory_card_with_transferjet_setting_software"
+	"vid": "170",
+	"vname": "東芝",
+	"vcpe": "cpe:/:toshiba",
+	"pid": "28432",
+	"pname": "TransferJet（近接無線通信）搭載SDHCメモリカード 設定ソフトウェア",
+	"pcpe": "cpe:/a:toshiba:sdhc_memory_card_with_transferjet_setting_software"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "47801",
-  "pname": "Oracle Bills of Material",
-  "pcpe": "cpe:/a:oracle:bills_of_material"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "47801",
+	"pname": "Oracle Bills of Material",
+	"pcpe": "cpe:/a:oracle:bills_of_material"
 }

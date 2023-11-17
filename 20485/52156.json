@@ -1,8 +1,8 @@
 {
-  "vid": "20485",
-  "vname": "Racket Language",
-  "vcpe": "cpe:/:racket-lang",
-  "pid": "52156",
-  "pname": "Racket",
-  "pcpe": "cpe:/a:racket-lang:racket"
+	"vid": "20485",
+	"vname": "Racket Language",
+	"vcpe": "cpe:/:racket-lang",
+	"pid": "52156",
+	"pname": "Racket",
+	"pcpe": "cpe:/a:racket-lang:racket"
 }

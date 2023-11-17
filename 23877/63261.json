@@ -1,8 +1,8 @@
 {
-  "vid": "23877",
-  "vname": "snyk",
-  "vcpe": "cpe:/:snyk",
-  "pid": "63261",
-  "pname": "golang cli",
-  "pcpe": "cpe:/a:snyk:golang_cli"
+	"vid": "23877",
+	"vname": "snyk",
+	"vcpe": "cpe:/:snyk",
+	"pid": "63261",
+	"pname": "golang cli",
+	"pcpe": "cpe:/a:snyk:golang_cli"
 }

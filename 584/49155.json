@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "49155",
-  "pname": "Solid Edge",
-  "pcpe": "cpe:/a:siemens:solid_edge"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "49155",
+	"pname": "Solid Edge",
+	"pcpe": "cpe:/a:siemens:solid_edge"
 }

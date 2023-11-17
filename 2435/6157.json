@@ -1,8 +1,8 @@
 {
-  "vid": "2435",
-  "vname": "bakbone",
-  "vcpe": "cpe:/:bakbone",
-  "pid": "6157",
-  "pname": "netvault reporter",
-  "pcpe": "cpe:/a:bakbone:netvault_reporter"
+	"vid": "2435",
+	"vname": "bakbone",
+	"vcpe": "cpe:/:bakbone",
+	"pid": "6157",
+	"pname": "netvault reporter",
+	"pcpe": "cpe:/a:bakbone:netvault_reporter"
 }

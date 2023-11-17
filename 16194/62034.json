@@ -1,8 +1,8 @@
 {
-  "vid": "16194",
-  "vname": "Digi International Inc.",
-  "vcpe": "cpe:/:digi",
-  "pid": "62034",
-  "pname": "PortServer TS P MEI ファームウェア",
-  "pcpe": "cpe:/o:digi:portserver_ts_p_mei_firmware"
+	"vid": "16194",
+	"vname": "Digi International Inc.",
+	"vcpe": "cpe:/:digi",
+	"pid": "62034",
+	"pname": "PortServer TS P MEI ファームウェア",
+	"pcpe": "cpe:/o:digi:portserver_ts_p_mei_firmware"
 }

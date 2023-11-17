@@ -1,8 +1,8 @@
 {
-  "vid": "24414",
-  "vname": "eurosoft-uk",
-  "vcpe": "cpe:/:eurosoft-uk",
-  "pid": "63076",
-  "pname": "uefi bootloader",
-  "pcpe": "cpe:/o:eurosoft-uk:uefi_bootloader"
+	"vid": "24414",
+	"vname": "eurosoft-uk",
+	"vcpe": "cpe:/:eurosoft-uk",
+	"pid": "63076",
+	"pname": "uefi bootloader",
+	"pcpe": "cpe:/o:eurosoft-uk:uefi_bootloader"
 }

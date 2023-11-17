@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "35383",
-  "pname": "subscription-manager",
-  "pcpe": "cpe:/a:redhat:subscription-manager"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "35383",
+	"pname": "subscription-manager",
+	"pcpe": "cpe:/a:redhat:subscription-manager"
 }

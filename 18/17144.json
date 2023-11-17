@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "17144",
-  "pname": "IBM Sterling Integrator",
-  "pcpe": "cpe:/a:ibm:sterling_integrator"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "17144",
+	"pname": "IBM Sterling Integrator",
+	"pcpe": "cpe:/a:ibm:sterling_integrator"
 }

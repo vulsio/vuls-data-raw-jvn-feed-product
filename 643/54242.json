@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "54242",
-  "pname": "EMC PowerScale A200 ファームウェア",
-  "pcpe": "cpe:/o:dell:emc_powerscale_nodes_a200_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "54242",
+	"pname": "EMC PowerScale A200 ファームウェア",
+	"pcpe": "cpe:/o:dell:emc_powerscale_nodes_a200_firmware"
 }

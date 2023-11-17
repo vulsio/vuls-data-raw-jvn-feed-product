@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "26462",
-  "pname": "CSAPI",
-  "pcpe": "cpe:/a:symantec:csapi"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "26462",
+	"pname": "CSAPI",
+	"pcpe": "cpe:/a:symantec:csapi"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15832",
-  "vname": "mbusa",
-  "vcpe": "cpe:/:mbusa",
-  "pid": "36910",
-  "pname": "Cockpit Management and Data System",
-  "pcpe": "cpe:/o:mbusa:cockpit_management_and_data"
+	"vid": "15832",
+	"vname": "mbusa",
+	"vcpe": "cpe:/:mbusa",
+	"pid": "36910",
+	"pname": "Cockpit Management and Data System",
+	"pcpe": "cpe:/o:mbusa:cockpit_management_and_data"
 }

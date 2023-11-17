@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "27193",
-  "pname": "CCPW3025",
-  "pcpe": "cpe:/h:siemens:ccpw3025"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "27193",
+	"pname": "CCPW3025",
+	"pcpe": "cpe:/h:siemens:ccpw3025"
 }

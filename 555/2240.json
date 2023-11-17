@@ -1,8 +1,8 @@
 {
-  "vid": "555",
-  "vname": "トランスウエア",
-  "vcpe": "cpe:/:transware",
-  "pid": "2240",
-  "pname": "Active! mail",
-  "pcpe": "cpe:/a:transware:active_mail"
+	"vid": "555",
+	"vname": "トランスウエア",
+	"vcpe": "cpe:/:transware",
+	"pid": "2240",
+	"pname": "Active! mail",
+	"pcpe": "cpe:/a:transware:active_mail"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "10059",
-  "vname": "Abode Systems, Inc.",
-  "vcpe": "cpe:/:goabode",
-  "pid": "54962",
-  "pname": "Abode iota All-In-One Security Kit ファームウェア",
-  "pcpe": "cpe:/o:goabode:iota_all-in-one_security_kit_firmware"
+	"vid": "10059",
+	"vname": "Abode Systems, Inc.",
+	"vcpe": "cpe:/:goabode",
+	"pid": "54962",
+	"pname": "Abode iota All-In-One Security Kit ファームウェア",
+	"pcpe": "cpe:/o:goabode:iota_all-in-one_security_kit_firmware"
 }

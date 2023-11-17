@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "63588",
-  "pname": "desigo pxc50-e.d ファームウェア",
-  "pcpe": "cpe:/o:siemens:desigo_pxc50-e.d_firmware"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "63588",
+	"pname": "desigo pxc50-e.d ファームウェア",
+	"pcpe": "cpe:/o:siemens:desigo_pxc50-e.d_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "741",
-  "vname": "D-Link Systems, Inc.",
-  "vcpe": "cpe:/:dlink",
-  "pid": "18717",
-  "pname": "DSL-2740B ファームウェア",
-  "pcpe": "cpe:/o:dlink:dsl-2740b_firmware"
+	"vid": "741",
+	"vname": "D-Link Systems, Inc.",
+	"vcpe": "cpe:/:dlink",
+	"pid": "18717",
+	"pname": "DSL-2740B ファームウェア",
+	"pcpe": "cpe:/o:dlink:dsl-2740b_firmware"
 }

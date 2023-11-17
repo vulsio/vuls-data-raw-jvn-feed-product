@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "32787",
-  "pname": "Apache VCL",
-  "pcpe": "cpe:/a:apache:vcl"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "32787",
+	"pname": "Apache VCL",
+	"pcpe": "cpe:/a:apache:vcl"
 }

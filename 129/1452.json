@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1452",
-  "pname": "公共向け総務ワークフロー",
-  "pcpe": "cpe:/a:hitachi:koukyoumuke_soumu_workflow"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1452",
+	"pname": "公共向け総務ワークフロー",
+	"pcpe": "cpe:/a:hitachi:koukyoumuke_soumu_workflow"
 }

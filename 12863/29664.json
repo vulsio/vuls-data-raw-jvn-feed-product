@@ -1,8 +1,8 @@
 {
-  "vid": "12863",
-  "vname": "ヒューマックス",
-  "vcpe": "cpe:/:humaxdigital",
-  "pid": "29664",
-  "pname": "HG100R ファームウェア",
-  "pcpe": "cpe:/o:humaxdigital:hg100r_firmware"
+	"vid": "12863",
+	"vname": "ヒューマックス",
+	"vcpe": "cpe:/:humaxdigital",
+	"pid": "29664",
+	"pname": "HG100R ファームウェア",
+	"pcpe": "cpe:/o:humaxdigital:hg100r_firmware"
 }

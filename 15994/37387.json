@@ -1,8 +1,8 @@
 {
-  "vid": "15994",
-  "vname": "ZTE USA",
-  "vcpe": "cpe:/:zteusa",
-  "pid": "37387",
-  "pname": "ZTE Blade Spark ファームウェア",
-  "pcpe": "cpe:/o:zteusa:zte_blade_spark_firmware"
+	"vid": "15994",
+	"vname": "ZTE USA",
+	"vcpe": "cpe:/:zteusa",
+	"pid": "37387",
+	"pname": "ZTE Blade Spark ファームウェア",
+	"pcpe": "cpe:/o:zteusa:zte_blade_spark_firmware"
 }

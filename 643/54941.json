@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "54941",
-  "pname": "Dell Wyse Device Agent",
-  "pcpe": "cpe:/a:dell:wyse_device_agent"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "54941",
+	"pname": "Dell Wyse Device Agent",
+	"pcpe": "cpe:/a:dell:wyse_device_agent"
 }

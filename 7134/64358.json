@@ -1,8 +1,8 @@
 {
-  "vid": "7134",
-  "vname": "PTC Inc.",
-  "vcpe": "cpe:/:ptc",
-  "pid": "64358",
-  "pname": "thingworx .net-sdk",
-  "pcpe": "cpe:/a:ptc:thingworx_.net-sdk"
+	"vid": "7134",
+	"vname": "PTC Inc.",
+	"vcpe": "cpe:/:ptc",
+	"pid": "64358",
+	"pname": "thingworx .net-sdk",
+	"pcpe": "cpe:/a:ptc:thingworx_.net-sdk"
 }

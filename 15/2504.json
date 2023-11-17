@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "2504",
-  "pname": "Oracle iPlanet Web Server",
-  "pcpe": "cpe:/a:oracle:iplanet_web_server"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "2504",
+	"pname": "Oracle iPlanet Web Server",
+	"pcpe": "cpe:/a:oracle:iplanet_web_server"
 }

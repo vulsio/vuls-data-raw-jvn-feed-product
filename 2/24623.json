@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "24623",
-  "pname": "Microsoft BizTalk Server",
-  "pcpe": "cpe:/a:microsoft:biztalk_server"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "24623",
+	"pname": "Microsoft BizTalk Server",
+	"pcpe": "cpe:/a:microsoft:biztalk_server"
 }

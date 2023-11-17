@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "41213",
-  "pname": "CRX Content Package Deployer",
-  "pcpe": "cpe:/a:jenkins:crx_content_package_deployer"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "41213",
+	"pname": "CRX Content Package Deployer",
+	"pcpe": "cpe:/a:jenkins:crx_content_package_deployer"
 }

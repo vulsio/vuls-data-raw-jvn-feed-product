@@ -1,8 +1,8 @@
 {
-  "vid": "21758",
-  "vname": "WordPress Filter Gallery Plugin project",
-  "vcpe": "cpe:/:wordpress_filter_gallery_project",
-  "pid": "55890",
-  "pname": "WordPress Filter Gallery Plugin",
-  "pcpe": "cpe:/a:wordpress_filter_gallery_project:wordpress_filter_gallery"
+	"vid": "21758",
+	"vname": "WordPress Filter Gallery Plugin project",
+	"vcpe": "cpe:/:wordpress_filter_gallery_project",
+	"pid": "55890",
+	"pname": "WordPress Filter Gallery Plugin",
+	"pcpe": "cpe:/a:wordpress_filter_gallery_project:wordpress_filter_gallery"
 }

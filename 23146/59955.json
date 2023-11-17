@@ -1,8 +1,8 @@
 {
-  "vid": "23146",
-  "vname": "totp-rs project",
-  "vcpe": "cpe:/:totp-rs_project",
-  "pid": "59955",
-  "pname": "totp-rs",
-  "pcpe": "cpe:/a:totp-rs_project:totp-rs"
+	"vid": "23146",
+	"vname": "totp-rs project",
+	"vcpe": "cpe:/:totp-rs_project",
+	"pid": "59955",
+	"pname": "totp-rs",
+	"pcpe": "cpe:/a:totp-rs_project:totp-rs"
 }

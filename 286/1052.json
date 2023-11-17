@@ -1,8 +1,8 @@
 {
-  "vid": "286",
-  "vname": "ESP Ghostscript",
-  "vcpe": "cpe:/:aladdin_enterprises",
-  "pid": "1052",
-  "pname": "ESP Ghostscript",
-  "pcpe": "cpe:/a:aladdin_enterprises:ghostscript"
+	"vid": "286",
+	"vname": "ESP Ghostscript",
+	"vcpe": "cpe:/:aladdin_enterprises",
+	"pid": "1052",
+	"pname": "ESP Ghostscript",
+	"pcpe": "cpe:/a:aladdin_enterprises:ghostscript"
 }

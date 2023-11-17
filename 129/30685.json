@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "30685",
-  "pname": "Hitachi Dynamic Link Manager",
-  "pcpe": "cpe:/a:hitachi:dynamic_link_manager"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "30685",
+	"pname": "Hitachi Dynamic Link Manager",
+	"pcpe": "cpe:/a:hitachi:dynamic_link_manager"
 }

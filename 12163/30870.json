@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "30870",
-  "pname": "GitHub Branch Source",
-  "pcpe": "cpe:/a:jenkins:github_branch_source"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "30870",
+	"pname": "GitHub Branch Source",
+	"pcpe": "cpe:/a:jenkins:github_branch_source"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "8375",
-  "vname": "w2b",
-  "vcpe": "cpe:/:w2b",
-  "pid": "15971",
-  "pname": "online banking",
-  "pcpe": "cpe:/a:w2b:online_banking"
+	"vid": "8375",
+	"vname": "w2b",
+	"vcpe": "cpe:/:w2b",
+	"pid": "15971",
+	"pname": "online banking",
+	"pcpe": "cpe:/a:w2b:online_banking"
 }

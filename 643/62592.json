@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "62592",
-  "pname": "edge gateway 5200 ファームウェア",
-  "pcpe": "cpe:/o:dell:edge_gateway_5200_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "62592",
+	"pname": "edge gateway 5200 ファームウェア",
+	"pcpe": "cpe:/o:dell:edge_gateway_5200_firmware"
 }

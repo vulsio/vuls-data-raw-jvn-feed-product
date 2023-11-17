@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "27770",
-  "pname": "Skype",
-  "pcpe": "cpe:/a:microsoft:skype"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "27770",
+	"pname": "Skype",
+	"pcpe": "cpe:/a:microsoft:skype"
 }

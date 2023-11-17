@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "2993",
-  "pname": "Microsoft Excel Web App",
-  "pcpe": "cpe:/a:microsoft:excel_web_app"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "2993",
+	"pname": "Microsoft Excel Web App",
+	"pcpe": "cpe:/a:microsoft:excel_web_app"
 }

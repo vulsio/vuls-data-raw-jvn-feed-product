@@ -1,8 +1,8 @@
 {
-  "vid": "12610",
-  "vname": "Opmantek",
-  "vcpe": "cpe:/:opmantek",
-  "pid": "28757",
-  "pname": "Network Management Information System",
-  "pcpe": "cpe:/a:opmantek:network_management_information_system"
+	"vid": "12610",
+	"vname": "Opmantek",
+	"vcpe": "cpe:/:opmantek",
+	"pid": "28757",
+	"pname": "Network Management Information System",
+	"pcpe": "cpe:/a:opmantek:network_management_information_system"
 }

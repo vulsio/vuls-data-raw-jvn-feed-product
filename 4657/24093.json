@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "24093",
-  "pname": "E587",
-  "pcpe": "cpe:/h:huawei:e587_mobile_wifi"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "24093",
+	"pname": "E587",
+	"pcpe": "cpe:/h:huawei:e587_mobile_wifi"
 }

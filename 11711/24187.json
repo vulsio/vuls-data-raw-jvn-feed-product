@@ -1,8 +1,8 @@
 {
-  "vid": "11711",
-  "vname": "F21",
-  "vcpe": "cpe:/:f21",
-  "pid": "24187",
-  "pname": "JWT",
-  "pcpe": "cpe:/a:f21:jwt"
+	"vid": "11711",
+	"vname": "F21",
+	"vcpe": "cpe:/:f21",
+	"pid": "24187",
+	"pname": "JWT",
+	"pcpe": "cpe:/a:f21:jwt"
 }

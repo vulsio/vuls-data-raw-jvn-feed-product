@@ -1,8 +1,8 @@
 {
-  "vid": "2038",
-  "vname": "adempiere",
-  "vcpe": "cpe:/:adempiere",
-  "pid": "5529",
-  "pname": "bazaar",
-  "pcpe": "cpe:/a:adempiere:bazaar"
+	"vid": "2038",
+	"vname": "adempiere",
+	"vcpe": "cpe:/:adempiere",
+	"pid": "5529",
+	"pname": "bazaar",
+	"pcpe": "cpe:/a:adempiere:bazaar"
 }

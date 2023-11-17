@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "24474",
-  "pname": "Cisco TelePresence MSE 8000 シリーズ",
-  "pcpe": "cpe:/h:cisco:telepresence_mse_8000_series"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "24474",
+	"pname": "Cisco TelePresence MSE 8000 シリーズ",
+	"pcpe": "cpe:/h:cisco:telepresence_mse_8000_series"
 }

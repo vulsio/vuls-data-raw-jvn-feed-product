@@ -1,8 +1,8 @@
 {
-  "vid": "719",
-  "vname": "HTC Corporation",
-  "vcpe": "cpe:/:htc",
-  "pid": "3801",
-  "pname": "HTC Glacier",
-  "pcpe": "cpe:/h:htc:glacier"
+	"vid": "719",
+	"vname": "HTC Corporation",
+	"vcpe": "cpe:/:htc",
+	"pid": "3801",
+	"pname": "HTC Glacier",
+	"pcpe": "cpe:/h:htc:glacier"
 }

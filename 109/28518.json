@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "28518",
-  "pname": "Fujitsu DisplayView Click",
-  "pcpe": "cpe:/a:fujitsu:fujitsu_displayview_click"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "28518",
+	"pname": "Fujitsu DisplayView Click",
+	"pcpe": "cpe:/a:fujitsu:fujitsu_displayview_click"
 }

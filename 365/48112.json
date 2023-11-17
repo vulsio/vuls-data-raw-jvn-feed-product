@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "48112",
-  "pname": "Citrix Virtual Apps and Desktops",
-  "pcpe": "cpe:/a:citrix:virtual_apps_and_desktops"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "48112",
+	"pname": "Citrix Virtual Apps and Desktops",
+	"pcpe": "cpe:/a:citrix:virtual_apps_and_desktops"
 }

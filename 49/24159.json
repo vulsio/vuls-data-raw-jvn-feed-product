@@ -1,8 +1,8 @@
 {
-  "vid": "49",
-  "vname": "GNU Project",
-  "vcpe": "cpe:/:gnu",
-  "pid": "24159",
-  "pname": "GNU parallel",
-  "pcpe": "cpe:/a:gnu:parallel"
+	"vid": "49",
+	"vname": "GNU Project",
+	"vcpe": "cpe:/:gnu",
+	"pid": "24159",
+	"pname": "GNU parallel",
+	"pcpe": "cpe:/a:gnu:parallel"
 }

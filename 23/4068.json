@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "4068",
-  "pname": "Symantec Altiris WISE Package Studio",
-  "pcpe": "cpe:/a:symantec:altiris_wise_package_studio"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "4068",
+	"pname": "Symantec Altiris WISE Package Studio",
+	"pcpe": "cpe:/a:symantec:altiris_wise_package_studio"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15914",
-  "vname": "Hetronic International",
-  "vcpe": "cpe:/:hetronic",
-  "pid": "37142",
-  "pname": "MLC ファームウェア",
-  "pcpe": "cpe:/o:hetronic:mlc_firmware"
+	"vid": "15914",
+	"vname": "Hetronic International",
+	"vcpe": "cpe:/:hetronic",
+	"pid": "37142",
+	"pname": "MLC ファームウェア",
+	"pcpe": "cpe:/o:hetronic:mlc_firmware"
 }

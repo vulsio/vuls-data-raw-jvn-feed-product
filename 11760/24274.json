@@ -1,8 +1,8 @@
 {
-  "vid": "11760",
-  "vname": "OSSCube",
-  "vcpe": "cpe:/:osscube",
-  "pid": "24274",
-  "pname": "Custom Sitemap",
-  "pcpe": "cpe:/a:osscube:custom_sitemap"
+	"vid": "11760",
+	"vname": "OSSCube",
+	"vcpe": "cpe:/:osscube",
+	"pid": "24274",
+	"pname": "Custom Sitemap",
+	"pcpe": "cpe:/a:osscube:custom_sitemap"
 }

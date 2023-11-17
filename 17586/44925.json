@@ -1,8 +1,8 @@
 {
-  "vid": "17586",
-  "vname": "Aviatrix",
-  "vcpe": "cpe:/:aviatrix",
-  "pid": "44925",
-  "pname": "Controller",
-  "pcpe": "cpe:/a:aviatrix:controller"
+	"vid": "17586",
+	"vname": "Aviatrix",
+	"vcpe": "cpe:/:aviatrix",
+	"pid": "44925",
+	"pname": "Controller",
+	"pcpe": "cpe:/a:aviatrix:controller"
 }

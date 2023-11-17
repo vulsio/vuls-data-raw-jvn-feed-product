@@ -1,8 +1,8 @@
 {
-  "vid": "11664",
-  "vname": "Node Invite project",
-  "vcpe": "cpe:/:node_invite_project",
-  "pid": "23945",
-  "pname": "Node Invite",
-  "pcpe": "cpe:/a:node_invite_project:node_invite"
+	"vid": "11664",
+	"vname": "Node Invite project",
+	"vcpe": "cpe:/:node_invite_project",
+	"pid": "23945",
+	"pname": "Node Invite",
+	"pcpe": "cpe:/a:node_invite_project:node_invite"
 }

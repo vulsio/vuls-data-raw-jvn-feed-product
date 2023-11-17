@@ -1,8 +1,8 @@
 {
-  "vid": "15955",
-  "vname": "NEC Corporation of America",
-  "vcpe": "cpe:/:necom",
-  "pid": "37253",
-  "pname": "UNIVERGE SV9100 Web Pro firmware",
-  "pcpe": "cpe:/o:necom:univerge_sv9100_webpro_firmware"
+	"vid": "15955",
+	"vname": "NEC Corporation of America",
+	"vcpe": "cpe:/:necom",
+	"pid": "37253",
+	"pname": "UNIVERGE SV9100 Web Pro firmware",
+	"pcpe": "cpe:/o:necom:univerge_sv9100_webpro_firmware"
 }

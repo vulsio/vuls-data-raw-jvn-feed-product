@@ -1,8 +1,8 @@
 {
-  "vid": "16260",
-  "vname": "Cantemo",
-  "vcpe": "cpe:/:cantemo",
-  "pid": "38258",
-  "pname": "Cantemo Portal",
-  "pcpe": "cpe:/a:cantemo:portal"
+	"vid": "16260",
+	"vname": "Cantemo",
+	"vcpe": "cpe:/:cantemo",
+	"pid": "38258",
+	"pname": "Cantemo Portal",
+	"pcpe": "cpe:/a:cantemo:portal"
 }

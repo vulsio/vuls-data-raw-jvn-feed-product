@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "57359",
-  "pname": "Cisco CX Cloud Agent",
-  "pcpe": "cpe:/a:cisco:cx_cloud_agent"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "57359",
+	"pname": "Cisco CX Cloud Agent",
+	"pcpe": "cpe:/a:cisco:cx_cloud_agent"
 }

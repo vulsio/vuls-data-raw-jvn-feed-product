@@ -1,8 +1,8 @@
 {
-  "vid": "14063",
-  "vname": "Impinj",
-  "vcpe": "cpe:/:impinj",
-  "pid": "33518",
-  "pname": "Speedway R420 RAIN RFID reader",
-  "pcpe": "cpe:/o:impinj:r420_rfid_reader_firmware"
+	"vid": "14063",
+	"vname": "Impinj",
+	"vcpe": "cpe:/:impinj",
+	"pid": "33518",
+	"pname": "Speedway R420 RAIN RFID reader",
+	"pcpe": "cpe:/o:impinj:r420_rfid_reader_firmware"
 }

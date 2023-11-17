@@ -1,8 +1,8 @@
 {
-  "vid": "15626",
-  "vname": "Verint Verba",
-  "vcpe": "cpe:/:verint",
-  "pid": "46190",
-  "pname": "Verint 5620PTZ ファームウェア",
-  "pcpe": "cpe:/o:verint:5620ptz_firmware"
+	"vid": "15626",
+	"vname": "Verint Verba",
+	"vcpe": "cpe:/:verint",
+	"pid": "46190",
+	"pname": "Verint 5620PTZ ファームウェア",
+	"pcpe": "cpe:/o:verint:5620ptz_firmware"
 }

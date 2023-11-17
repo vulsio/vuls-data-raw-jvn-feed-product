@@ -1,8 +1,8 @@
 {
-  "vid": "11451",
-  "vname": "JetBrains",
-  "vcpe": "cpe:/:jetbrains",
-  "pid": "44561",
-  "pname": "Space",
-  "pcpe": "cpe:/a:jetbrains:space"
+	"vid": "11451",
+	"vname": "JetBrains",
+	"vcpe": "cpe:/:jetbrains",
+	"pid": "44561",
+	"pname": "Space",
+	"pcpe": "cpe:/a:jetbrains:space"
 }

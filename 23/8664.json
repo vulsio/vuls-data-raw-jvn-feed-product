@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "8664",
-  "pname": "sygate personal firewall",
-  "pcpe": "cpe:/a:symantec:sygate_personal_firewall"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "8664",
+	"pname": "sygate personal firewall",
+	"pcpe": "cpe:/a:symantec:sygate_personal_firewall"
 }

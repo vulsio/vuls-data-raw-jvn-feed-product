@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "52185",
-  "pname": "Dell EMC OpenManage Enterprise",
-  "pcpe": "cpe:/a:dell:emc_openmanage_enterprise"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "52185",
+	"pname": "Dell EMC OpenManage Enterprise",
+	"pcpe": "cpe:/a:dell:emc_openmanage_enterprise"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "46464",
-  "pname": "Dell G7 17 7790 システム BIOS",
-  "pcpe": "cpe:/o:dell:g7_17_7790_bios"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "46464",
+	"pname": "Dell G7 17 7790 システム BIOS",
+	"pcpe": "cpe:/o:dell:g7_17_7790_bios"
 }

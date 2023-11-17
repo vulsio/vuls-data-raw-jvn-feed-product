@@ -1,8 +1,8 @@
 {
-  "vid": "3257",
-  "vname": "distributed checksum clearinghouse",
-  "vcpe": "cpe:/:distributed_checksum_clearinghouse",
-  "pid": "7373",
-  "pname": "dcc",
-  "pcpe": "cpe:/a:distributed_checksum_clearinghouse:dcc"
+	"vid": "3257",
+	"vname": "distributed checksum clearinghouse",
+	"vcpe": "cpe:/:distributed_checksum_clearinghouse",
+	"pid": "7373",
+	"pname": "dcc",
+	"pcpe": "cpe:/a:distributed_checksum_clearinghouse:dcc"
 }

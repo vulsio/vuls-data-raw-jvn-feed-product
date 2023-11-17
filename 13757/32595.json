@@ -1,8 +1,8 @@
 {
-  "vid": "13757",
-  "vname": "Sensu, Inc.",
-  "vcpe": "cpe:/:sensuapp",
-  "pid": "32595",
-  "pname": "Sensu Core",
-  "pcpe": "cpe:/a:sensuapp:sensu_core"
+	"vid": "13757",
+	"vname": "Sensu, Inc.",
+	"vcpe": "cpe:/:sensuapp",
+	"pid": "32595",
+	"pname": "Sensu Core",
+	"pcpe": "cpe:/a:sensuapp:sensu_core"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9509",
-  "vname": "SAS",
-  "vcpe": "cpe:/:sas",
-  "pid": "20899",
-  "pname": "SAS Visual Analytics",
-  "pcpe": "cpe:/a:sas:visual_analytics"
+	"vid": "9509",
+	"vname": "SAS",
+	"vcpe": "cpe:/:sas",
+	"pid": "20899",
+	"pname": "SAS Visual Analytics",
+	"pcpe": "cpe:/a:sas:visual_analytics"
 }

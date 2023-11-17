@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "24732",
-  "pname": "HP ProBook 645 G1",
-  "pcpe": "cpe:/h:hp:probook_645_g1"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "24732",
+	"pname": "HP ProBook 645 G1",
+	"pcpe": "cpe:/h:hp:probook_645_g1"
 }

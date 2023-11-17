@@ -1,8 +1,8 @@
 {
-  "vid": "23602",
-  "vname": "jocms project",
-  "vcpe": "cpe:/:jocms_project",
-  "pid": "61119",
-  "pname": "jocms",
-  "pcpe": "cpe:/a:jocms_project:jocms"
+	"vid": "23602",
+	"vname": "jocms project",
+	"vcpe": "cpe:/:jocms_project",
+	"pid": "61119",
+	"pname": "jocms",
+	"pcpe": "cpe:/a:jocms_project:jocms"
 }

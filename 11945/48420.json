@@ -1,8 +1,8 @@
 {
-  "vid": "11945",
-  "vname": "エンドレスハウザー ジャパン株式会社",
-  "vcpe": "cpe:/:endress%2Bhauser",
-  "pid": "48420",
-  "pname": "Memograph M Neutral/Private Label ORSG45 ファームウェア",
-  "pcpe": "cpe:/o:endress%2Bhauser:orsg45_firmware"
+	"vid": "11945",
+	"vname": "エンドレスハウザー ジャパン株式会社",
+	"vcpe": "cpe:/:endress%2Bhauser",
+	"pid": "48420",
+	"pname": "Memograph M Neutral/Private Label ORSG45 ファームウェア",
+	"pcpe": "cpe:/o:endress%2Bhauser:orsg45_firmware"
 }

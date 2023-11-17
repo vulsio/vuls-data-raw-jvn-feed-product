@@ -1,8 +1,8 @@
 {
-  "vid": "9178",
-  "vname": "Inbound Now",
-  "vcpe": "cpe:/:landing_pages_project",
-  "pid": "18641",
-  "pname": "Landing Pages",
-  "pcpe": "cpe:/a:landing_pages_project:landing_pages_plugin"
+	"vid": "9178",
+	"vname": "Inbound Now",
+	"vcpe": "cpe:/:landing_pages_project",
+	"pid": "18641",
+	"pname": "Landing Pages",
+	"pcpe": "cpe:/a:landing_pages_project:landing_pages_plugin"
 }

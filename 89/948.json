@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "948",
-  "pname": "IP8800/700 シリーズ",
-  "pcpe": "cpe:/a:nec:ip8800_700"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "948",
+	"pname": "IP8800/700 シリーズ",
+	"pcpe": "cpe:/a:nec:ip8800_700"
 }

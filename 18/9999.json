@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "9999",
-  "pname": "proventia desktop endpoint security",
-  "pcpe": "cpe:/a:ibm:proventia_desktop_endpoint_security"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "9999",
+	"pname": "proventia desktop endpoint security",
+	"pcpe": "cpe:/a:ibm:proventia_desktop_endpoint_security"
 }

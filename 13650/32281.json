@@ -1,8 +1,8 @@
 {
-  "vid": "13650",
-  "vname": "Icegram",
-  "vcpe": "cpe:/:icegram",
-  "pid": "32281",
-  "pname": "Email Subscribers & Newsletters",
-  "pcpe": "cpe:/a:icegram:email_subscribers_%26_newsletters"
+	"vid": "13650",
+	"vname": "Icegram",
+	"vcpe": "cpe:/:icegram",
+	"pid": "32281",
+	"pname": "Email Subscribers & Newsletters",
+	"pcpe": "cpe:/a:icegram:email_subscribers_%26_newsletters"
 }

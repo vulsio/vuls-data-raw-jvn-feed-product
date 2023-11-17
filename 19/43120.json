@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "43120",
-  "pname": "Cisco IP Conference Phone 7832 with Multiplatform ファームウェア",
-  "pcpe": "cpe:/o:cisco:ip_conference_phone_7832_with_multiplatform_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "43120",
+	"pname": "Cisco IP Conference Phone 7832 with Multiplatform ファームウェア",
+	"pcpe": "cpe:/o:cisco:ip_conference_phone_7832_with_multiplatform_firmware"
 }

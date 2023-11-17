@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "2491",
-  "pname": "Job Management Partner 1/Remote Control Agent",
-  "pcpe": "cpe:/a:hitachi:job_management_partner_1_remote_control_agent"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "2491",
+	"pname": "Job Management Partner 1/Remote Control Agent",
+	"pcpe": "cpe:/a:hitachi:job_management_partner_1_remote_control_agent"
 }

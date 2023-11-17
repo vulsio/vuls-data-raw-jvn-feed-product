@@ -1,8 +1,8 @@
 {
-  "vid": "8143",
-  "vname": "tufat",
-  "vcpe": "cpe:/:tufat",
-  "pid": "15593",
-  "pname": "mybackup",
-  "pcpe": "cpe:/a:tufat:mybackup"
+	"vid": "8143",
+	"vname": "tufat",
+	"vcpe": "cpe:/:tufat",
+	"pid": "15593",
+	"pname": "mybackup",
+	"pcpe": "cpe:/a:tufat:mybackup"
 }

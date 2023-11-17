@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "59072",
-  "pname": "c340-14iml ファームウェア",
-  "pcpe": "cpe:/o:lenovo:c340-14iml_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "59072",
+	"pname": "c340-14iml ファームウェア",
+	"pcpe": "cpe:/o:lenovo:c340-14iml_firmware"
 }

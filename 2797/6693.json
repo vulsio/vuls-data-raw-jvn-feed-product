@@ -1,8 +1,8 @@
 {
-  "vid": "2797",
-  "vname": "chilkat software",
-  "vcpe": "cpe:/:chilkat_software",
-  "pid": "6693",
-  "pname": "mail",
-  "pcpe": "cpe:/a:chilkat_software:mail"
+	"vid": "2797",
+	"vname": "chilkat software",
+	"vcpe": "cpe:/:chilkat_software",
+	"pid": "6693",
+	"pname": "mail",
+	"pcpe": "cpe:/a:chilkat_software:mail"
 }

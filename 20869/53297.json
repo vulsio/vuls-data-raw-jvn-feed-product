@@ -1,8 +1,8 @@
 {
-  "vid": "20869",
-  "vname": "BAG",
-  "vcpe": "cpe:/:bag",
-  "pid": "53297",
-  "pname": "COVID Certificate",
-  "pcpe": "cpe:/a:bag:covid_certificate"
+	"vid": "20869",
+	"vname": "BAG",
+	"vcpe": "cpe:/:bag",
+	"pid": "53297",
+	"pname": "COVID Certificate",
+	"pcpe": "cpe:/a:bag:covid_certificate"
 }

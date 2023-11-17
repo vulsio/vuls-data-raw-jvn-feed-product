@@ -1,8 +1,8 @@
 {
-  "vid": "15176",
-  "vname": "ADB",
-  "vcpe": "cpe:/:adbglobal",
-  "pid": "35132",
-  "pname": "VV 5522 ファームウェア",
-  "pcpe": "cpe:/o:adbglobal:vv5522_firmware"
+	"vid": "15176",
+	"vname": "ADB",
+	"vcpe": "cpe:/:adbglobal",
+	"pid": "35132",
+	"pname": "VV 5522 ファームウェア",
+	"pcpe": "cpe:/o:adbglobal:vv5522_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "14785",
-  "vname": "PortSwigger",
-  "vcpe": "cpe:/:portswigger",
-  "pid": "34629",
-  "pname": "Burp Suite",
-  "pcpe": "cpe:/a:portswigger:burp_suite"
+	"vid": "14785",
+	"vname": "PortSwigger",
+	"vcpe": "cpe:/:portswigger",
+	"pid": "34629",
+	"pname": "Burp Suite",
+	"pcpe": "cpe:/a:portswigger:burp_suite"
 }

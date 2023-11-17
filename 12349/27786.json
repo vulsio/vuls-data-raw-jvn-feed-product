@@ -1,8 +1,8 @@
 {
-  "vid": "12349",
-  "vname": "IDRIX",
-  "vcpe": "cpe:/:idrix",
-  "pid": "27786",
-  "pname": "VeraCrypt",
-  "pcpe": "cpe:/a:idrix:veracrypt"
+	"vid": "12349",
+	"vname": "IDRIX",
+	"vcpe": "cpe:/:idrix",
+	"pid": "27786",
+	"pname": "VeraCrypt",
+	"pcpe": "cpe:/a:idrix:veracrypt"
 }

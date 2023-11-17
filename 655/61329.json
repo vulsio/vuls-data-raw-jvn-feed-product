@@ -1,8 +1,8 @@
 {
-  "vid": "655",
-  "vname": "Eclipse Foundation",
-  "vcpe": "cpe:/:eclipse",
-  "pid": "61329",
-  "pname": "lyo",
-  "pcpe": "cpe:/a:eclipse:lyo"
+	"vid": "655",
+	"vname": "Eclipse Foundation",
+	"vcpe": "cpe:/:eclipse",
+	"pid": "61329",
+	"pname": "lyo",
+	"pcpe": "cpe:/a:eclipse:lyo"
 }

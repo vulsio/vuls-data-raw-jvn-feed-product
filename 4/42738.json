@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "42738",
-  "pname": "DeskJet 3630 K4T99C ファームウェア",
-  "pcpe": "cpe:/o:hp:deskjet_3630_k4t99c_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "42738",
+	"pname": "DeskJet 3630 K4T99C ファームウェア",
+	"pcpe": "cpe:/o:hp:deskjet_3630_k4t99c_firmware"
 }

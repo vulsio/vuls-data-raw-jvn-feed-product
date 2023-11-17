@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "44467",
-  "pname": "Microsoft RMS Sharing",
-  "pcpe": "cpe:/a:microsoft:rms_sharing"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "44467",
+	"pname": "Microsoft RMS Sharing",
+	"pcpe": "cpe:/a:microsoft:rms_sharing"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "574",
-  "vname": "ESET",
-  "vcpe": "cpe:/:eset",
-  "pid": "39341",
-  "pname": "ESET Smart Security Premium",
-  "pcpe": "cpe:/a:eset:smart_security_premium"
+	"vid": "574",
+	"vname": "ESET",
+	"vcpe": "cpe:/:eset",
+	"pid": "39341",
+	"pname": "ESET Smart Security Premium",
+	"pcpe": "cpe:/a:eset:smart_security_premium"
 }

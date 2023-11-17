@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "4977",
-  "pname": "procurve msm730 access controller",
-  "pcpe": "cpe:/h:hp:procurve_msm730_access_controller"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "4977",
+	"pname": "procurve msm730 access controller",
+	"pcpe": "cpe:/h:hp:procurve_msm730_access_controller"
 }

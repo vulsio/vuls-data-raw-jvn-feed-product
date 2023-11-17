@@ -1,8 +1,8 @@
 {
-  "vid": "58",
-  "vname": "KDE project",
-  "vcpe": "cpe:/:kde",
-  "pid": "21777",
-  "pname": "kio-extras",
-  "pcpe": "cpe:/a:kde:kio-extras"
+	"vid": "58",
+	"vname": "KDE project",
+	"vcpe": "cpe:/:kde",
+	"pid": "21777",
+	"pname": "kio-extras",
+	"pcpe": "cpe:/a:kde:kio-extras"
 }

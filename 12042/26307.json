@@ -1,8 +1,8 @@
 {
-  "vid": "12042",
-  "vname": "ヒューレット・パッカード・エンタープライズ",
-  "vcpe": "cpe:/:hp",
-  "pid": "26307",
-  "pname": "HPE Service Manager Web クライアント",
-  "pcpe": "cpe:/a:hp:service_manager_web_client"
+	"vid": "12042",
+	"vname": "ヒューレット・パッカード・エンタープライズ",
+	"vcpe": "cpe:/:hp",
+	"pid": "26307",
+	"pname": "HPE Service Manager Web クライアント",
+	"pcpe": "cpe:/a:hp:service_manager_web_client"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "49454",
-  "pname": "HA8000V シリーズ",
-  "pcpe": "cpe:/h:hitachi:ha8000v"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "49454",
+	"pname": "HA8000V シリーズ",
+	"pcpe": "cpe:/h:hitachi:ha8000v"
 }

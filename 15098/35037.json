@@ -1,8 +1,8 @@
 {
-  "vid": "15098",
-  "vname": "CardFactory project",
-  "vcpe": "cpe:/:cardfactory_project",
-  "pid": "35037",
-  "pname": "CardFactory",
-  "pcpe": "cpe:/a:cardfactory_project:cardfactory"
+	"vid": "15098",
+	"vname": "CardFactory project",
+	"vcpe": "cpe:/:cardfactory_project",
+	"pid": "35037",
+	"pname": "CardFactory",
+	"pcpe": "cpe:/a:cardfactory_project:cardfactory"
 }

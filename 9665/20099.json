@@ -1,8 +1,8 @@
 {
-  "vid": "9665",
-  "vname": "Drupalauth Project",
-  "vcpe": "cpe:/:drupalauth_project",
-  "pid": "20099",
-  "pname": "drupalauth",
-  "pcpe": "cpe:/a:drupalauth_project:drupalauth"
+	"vid": "9665",
+	"vname": "Drupalauth Project",
+	"vcpe": "cpe:/:drupalauth_project",
+	"pid": "20099",
+	"pname": "drupalauth",
+	"pcpe": "cpe:/a:drupalauth_project:drupalauth"
 }

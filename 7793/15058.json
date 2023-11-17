@@ -1,8 +1,8 @@
 {
-  "vid": "7793",
-  "vname": "Stanford NLP Group",
-  "vcpe": "cpe:/:stanford",
-  "pid": "15058",
-  "pname": "webauth",
-  "pcpe": "cpe:/a:stanford:webauth"
+	"vid": "7793",
+	"vname": "Stanford NLP Group",
+	"vcpe": "cpe:/:stanford",
+	"pid": "15058",
+	"pname": "webauth",
+	"pcpe": "cpe:/a:stanford:webauth"
 }

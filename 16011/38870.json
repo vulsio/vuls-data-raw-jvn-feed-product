@@ -1,8 +1,8 @@
 {
-  "vid": "16011",
-  "vname": "Robert Bosch GmbH",
-  "vcpe": "cpe:/:bosch",
-  "pid": "38870",
-  "pname": "Bosch Video Client (BVC)",
-  "pcpe": "cpe:/a:bosch:bosch_video_client"
+	"vid": "16011",
+	"vname": "Robert Bosch GmbH",
+	"vcpe": "cpe:/:bosch",
+	"pid": "38870",
+	"pname": "Bosch Video Client (BVC)",
+	"pcpe": "cpe:/a:bosch:bosch_video_client"
 }

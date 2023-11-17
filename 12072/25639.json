@@ -1,8 +1,8 @@
 {
-  "vid": "12072",
-  "vname": "Fr. Sauter AG",
-  "vcpe": "cpe:/:sauter",
-  "pid": "25639",
-  "pname": "EY-WS505F0x0 moduWeb Vision",
-  "pcpe": "cpe:/o:sauter:moduweb_vision"
+	"vid": "12072",
+	"vname": "Fr. Sauter AG",
+	"vcpe": "cpe:/:sauter",
+	"pid": "25639",
+	"pname": "EY-WS505F0x0 moduWeb Vision",
+	"pcpe": "cpe:/o:sauter:moduweb_vision"
 }

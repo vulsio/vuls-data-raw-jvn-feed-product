@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "20289",
-  "pname": "IBM Virtualization Engine TS7700",
-  "pcpe": "cpe:/h:ibm:system_storage_virtualization_engine_ts7700"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "20289",
+	"pname": "IBM Virtualization Engine TS7700",
+	"pcpe": "cpe:/h:ibm:system_storage_virtualization_engine_ts7700"
 }

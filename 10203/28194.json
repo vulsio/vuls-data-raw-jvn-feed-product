@@ -1,8 +1,8 @@
 {
-  "vid": "10203",
-  "vname": "NetComm Wireless Limited.",
-  "vcpe": "cpe:/:netcommwireless",
-  "pid": "28194",
-  "pname": "NetCommWireless HSPA 3G10WVE ファームウェア",
-  "pcpe": "cpe:/o:netcommwireless:hspa_3g10wve_firmware"
+	"vid": "10203",
+	"vname": "NetComm Wireless Limited.",
+	"vcpe": "cpe:/:netcommwireless",
+	"pid": "28194",
+	"pname": "NetCommWireless HSPA 3G10WVE ファームウェア",
+	"pcpe": "cpe:/o:netcommwireless:hspa_3g10wve_firmware"
 }

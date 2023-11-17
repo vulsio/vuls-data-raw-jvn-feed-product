@@ -1,8 +1,8 @@
 {
-  "vid": "14991",
-  "vname": "Sphere Engine Group",
-  "vcpe": "cpe:/:spheredev",
-  "pid": "34917",
-  "pname": "miniSphere",
-  "pcpe": "cpe:/a:spheredev:minisphere"
+	"vid": "14991",
+	"vname": "Sphere Engine Group",
+	"vcpe": "cpe:/:spheredev",
+	"pid": "34917",
+	"pname": "miniSphere",
+	"pcpe": "cpe:/a:spheredev:minisphere"
 }

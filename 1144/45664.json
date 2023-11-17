@@ -1,8 +1,8 @@
 {
-  "vid": "1144",
-  "vname": "SilverStripe",
-  "vcpe": "cpe:/:silverstripe",
-  "pid": "45664",
-  "pname": "mimevalidator",
-  "pcpe": "cpe:/a:silverstripe:mimevalidator"
+	"vid": "1144",
+	"vname": "SilverStripe",
+	"vcpe": "cpe:/:silverstripe",
+	"pid": "45664",
+	"pname": "mimevalidator",
+	"pcpe": "cpe:/a:silverstripe:mimevalidator"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "9773",
-  "vname": "Yealink",
-  "vcpe": "cpe:/:yealink",
-  "pid": "21090",
-  "pname": "Gigabit Color IP Phone SIP-T38G",
-  "pcpe": "cpe:/h:yealink:gigabit_color_ip_phone_sip-t38g"
+	"vid": "9773",
+	"vname": "Yealink",
+	"vcpe": "cpe:/:yealink",
+	"pid": "21090",
+	"pname": "Gigabit Color IP Phone SIP-T38G",
+	"pcpe": "cpe:/h:yealink:gigabit_color_ip_phone_sip-t38g"
 }

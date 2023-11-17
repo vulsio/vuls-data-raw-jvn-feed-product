@@ -1,8 +1,8 @@
 {
-  "vid": "8151",
-  "vname": "turbosoft",
-  "vcpe": "cpe:/:turbosoft",
-  "pid": "15611",
-  "pname": "turboftp",
-  "pcpe": "cpe:/a:turbosoft:turboftp"
+	"vid": "8151",
+	"vname": "turbosoft",
+	"vcpe": "cpe:/:turbosoft",
+	"pid": "15611",
+	"pname": "turboftp",
+	"pcpe": "cpe:/a:turbosoft:turboftp"
 }

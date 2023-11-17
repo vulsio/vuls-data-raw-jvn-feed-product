@@ -1,8 +1,8 @@
 {
-  "vid": "13790",
-  "vname": "Mailbutler GmbH",
-  "vcpe": "cpe:/:mailbutler",
-  "pid": "38288",
-  "pname": "Shimo VPN",
-  "pcpe": "cpe:/a:mailbutler:shimo_vpn"
+	"vid": "13790",
+	"vname": "Mailbutler GmbH",
+	"vcpe": "cpe:/:mailbutler",
+	"pid": "38288",
+	"pname": "Shimo VPN",
+	"pcpe": "cpe:/a:mailbutler:shimo_vpn"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15175",
-  "vname": "TrackR, Inc",
-  "vcpe": "cpe:/:thetrackr",
-  "pid": "35126",
-  "pname": "TrackR bravo ファームウェア",
-  "pcpe": "cpe:/o:thetrackr:trackr_bravo_firmware"
+	"vid": "15175",
+	"vname": "TrackR, Inc",
+	"vcpe": "cpe:/:thetrackr",
+	"pid": "35126",
+	"pname": "TrackR bravo ファームウェア",
+	"pcpe": "cpe:/o:thetrackr:trackr_bravo_firmware"
 }

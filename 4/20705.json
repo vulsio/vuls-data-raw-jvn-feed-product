@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "20705",
-  "pname": "HP NonStop NetBatch",
-  "pcpe": "cpe:/a:hp:nonstop_netbatch"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "20705",
+	"pname": "HP NonStop NetBatch",
+	"pcpe": "cpe:/a:hp:nonstop_netbatch"
 }

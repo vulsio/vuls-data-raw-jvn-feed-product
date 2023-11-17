@@ -1,8 +1,8 @@
 {
-  "vid": "16580",
-  "vname": "Temenos",
-  "vcpe": "cpe:/:temenos",
-  "pid": "42232",
-  "pname": "T24",
-  "pcpe": "cpe:/a:temenos:t24"
+	"vid": "16580",
+	"vname": "Temenos",
+	"vcpe": "cpe:/:temenos",
+	"pid": "42232",
+	"pname": "T24",
+	"pcpe": "cpe:/a:temenos:t24"
 }

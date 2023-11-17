@@ -1,8 +1,8 @@
 {
-  "vid": "155",
-  "vname": "マカフィー",
-  "vcpe": "cpe:/:mcafee",
-  "pid": "26053",
-  "pname": "McAfee Data Exchange Layer",
-  "pcpe": "cpe:/a:mcafee:data_exchange_layer"
+	"vid": "155",
+	"vname": "マカフィー",
+	"vcpe": "cpe:/:mcafee",
+	"pid": "26053",
+	"pname": "McAfee Data Exchange Layer",
+	"pcpe": "cpe:/a:mcafee:data_exchange_layer"
 }

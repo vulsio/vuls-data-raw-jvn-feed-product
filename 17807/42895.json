@@ -1,8 +1,8 @@
 {
-  "vid": "17807",
-  "vname": "Logaritmo",
-  "vcpe": "cpe:/:logaritmo",
-  "pid": "42895",
-  "pname": "Aware CallManager",
-  "pcpe": "cpe:/a:logaritmo:aware_callmanager"
+	"vid": "17807",
+	"vname": "Logaritmo",
+	"vcpe": "cpe:/:logaritmo",
+	"pid": "42895",
+	"pname": "Aware CallManager",
+	"pcpe": "cpe:/a:logaritmo:aware_callmanager"
 }

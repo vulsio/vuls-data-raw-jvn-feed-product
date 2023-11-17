@@ -1,8 +1,8 @@
 {
-  "vid": "2181",
-  "vname": "AlstraSoft",
-  "vcpe": "cpe:/:alstrasoft",
-  "pid": "5736",
-  "pname": "live support",
-  "pcpe": "cpe:/a:alstrasoft:live_support"
+	"vid": "2181",
+	"vname": "AlstraSoft",
+	"vcpe": "cpe:/:alstrasoft",
+	"pid": "5736",
+	"pname": "live support",
+	"pcpe": "cpe:/a:alstrasoft:live_support"
 }

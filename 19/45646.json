@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "45646",
-  "pname": "RV340W ファームウェア",
-  "pcpe": "cpe:/o:cisco:rv340w_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "45646",
+	"pname": "RV340W ファームウェア",
+	"pcpe": "cpe:/o:cisco:rv340w_firmware"
 }

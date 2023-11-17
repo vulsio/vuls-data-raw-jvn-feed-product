@@ -1,8 +1,8 @@
 {
-  "vid": "13841",
-  "vname": "Advantig",
-  "vcpe": "cpe:/:advantig",
-  "pid": "32875",
-  "pname": "DualDesk",
-  "pcpe": "cpe:/a:advantig:dualdesk"
+	"vid": "13841",
+	"vname": "Advantig",
+	"vcpe": "cpe:/:advantig",
+	"pid": "32875",
+	"pname": "DualDesk",
+	"pcpe": "cpe:/a:advantig:dualdesk"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "52305",
-  "pname": "RUGGEDCOM ROS M969",
-  "pcpe": "cpe:/o:siemens:ruggedcom_ros_m969"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "52305",
+	"pname": "RUGGEDCOM ROS M969",
+	"pcpe": "cpe:/o:siemens:ruggedcom_ros_m969"
 }

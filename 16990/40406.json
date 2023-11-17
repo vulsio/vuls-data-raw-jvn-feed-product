@@ -1,8 +1,8 @@
 {
-  "vid": "16990",
-  "vname": "WTFUtil",
-  "vcpe": "cpe:/:wtfutil",
-  "pid": "40406",
-  "pname": "WTF",
-  "pcpe": "cpe:/a:wtfutil:wtf"
+	"vid": "16990",
+	"vname": "WTFUtil",
+	"vcpe": "cpe:/:wtfutil",
+	"pid": "40406",
+	"pname": "WTF",
+	"pcpe": "cpe:/a:wtfutil:wtf"
 }

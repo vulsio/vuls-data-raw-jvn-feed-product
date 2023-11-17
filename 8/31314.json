@@ -1,8 +1,8 @@
 {
-  "vid": "8",
-  "vname": "Apache Software Foundation",
-  "vcpe": "cpe:/:apache",
-  "pid": "31314",
-  "pname": "OpenOffice.org",
-  "pcpe": "cpe:/a:apache:openoffice.org"
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "31314",
+	"pname": "OpenOffice.org",
+	"pcpe": "cpe:/a:apache:openoffice.org"
 }

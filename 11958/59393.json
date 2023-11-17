@@ -1,8 +1,8 @@
 {
-  "vid": "11958",
-  "vname": "オムロン株式会社",
-  "vcpe": "cpe:/:omron",
-  "pid": "59393",
-  "pname": "CS1W-EIP21",
-  "pcpe": "cpe:/a:omron:cs1w_eip21"
+	"vid": "11958",
+	"vname": "オムロン株式会社",
+	"vcpe": "cpe:/:omron",
+	"pid": "59393",
+	"pname": "CS1W-EIP21",
+	"pcpe": "cpe:/a:omron:cs1w_eip21"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "25634",
-  "pname": "Cisco Small Business 300 シリーズ マネージド スイッチ ファームウェア",
-  "pcpe": "cpe:/o:cisco:small_business_300_series_managed_switches_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "25634",
+	"pname": "Cisco Small Business 300 シリーズ マネージド スイッチ ファームウェア",
+	"pcpe": "cpe:/o:cisco:small_business_300_series_managed_switches_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "3552",
-  "vname": "essen",
-  "vcpe": "cpe:/:essen",
-  "pid": "7875",
-  "pname": "essentia web server",
-  "pcpe": "cpe:/a:essen:essentia_web_server"
+	"vid": "3552",
+	"vname": "essen",
+	"vcpe": "cpe:/:essen",
+	"pid": "7875",
+	"pname": "essentia web server",
+	"pcpe": "cpe:/a:essen:essentia_web_server"
 }

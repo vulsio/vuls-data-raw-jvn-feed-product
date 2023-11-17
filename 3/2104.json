@@ -1,8 +1,8 @@
 {
-  "vid": "3",
-  "vname": "レッドハット",
-  "vcpe": "cpe:/:redhat",
-  "pid": "2104",
-  "pname": "Red Hat Certificate System",
-  "pcpe": "cpe:/a:redhat:certificate_system"
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "2104",
+	"pname": "Red Hat Certificate System",
+	"pcpe": "cpe:/a:redhat:certificate_system"
 }

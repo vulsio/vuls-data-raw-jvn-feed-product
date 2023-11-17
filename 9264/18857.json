@@ -1,8 +1,8 @@
 {
-  "vid": "9264",
-  "vname": "X2Go",
-  "vcpe": "cpe:/:x2go",
-  "pid": "18857",
-  "pname": "X2Go Server",
-  "pcpe": "cpe:/a:x2go:x2go_server"
+	"vid": "9264",
+	"vname": "X2Go",
+	"vcpe": "cpe:/:x2go",
+	"pid": "18857",
+	"pname": "X2Go Server",
+	"pcpe": "cpe:/a:x2go:x2go_server"
 }

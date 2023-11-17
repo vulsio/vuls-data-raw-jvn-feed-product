@@ -1,8 +1,8 @@
 {
-  "vid": "4261",
-  "vname": "Tridium",
-  "vcpe": "cpe:/:tridium",
-  "pid": "9051",
-  "pname": "Niagara AX Framework",
-  "pcpe": "cpe:/a:tridium:niagra_ax_framework"
+	"vid": "4261",
+	"vname": "Tridium",
+	"vcpe": "cpe:/:tridium",
+	"pid": "9051",
+	"pname": "Niagara AX Framework",
+	"pcpe": "cpe:/a:tridium:niagra_ax_framework"
 }

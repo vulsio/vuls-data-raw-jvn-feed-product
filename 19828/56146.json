@@ -1,8 +1,8 @@
 {
-  "vid": "19828",
-  "vname": "Hitachi Energy",
-  "vcpe": "cpe:/:hitachienergy",
-  "pid": "56146",
-  "pname": "PWC600",
-  "pcpe": "cpe:/a:hitachienergy:pwc600"
+	"vid": "19828",
+	"vname": "Hitachi Energy",
+	"vcpe": "cpe:/:hitachienergy",
+	"pid": "56146",
+	"pname": "PWC600",
+	"pcpe": "cpe:/a:hitachienergy:pwc600"
 }

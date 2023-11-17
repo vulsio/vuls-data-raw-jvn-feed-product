@@ -1,8 +1,8 @@
 {
-  "vid": "17273",
-  "vname": "Genesys",
-  "vcpe": "cpe:/:genesys",
-  "pid": "62955",
-  "pname": "pureconnect",
-  "pcpe": "cpe:/a:genesys:pureconnect"
+	"vid": "17273",
+	"vname": "Genesys",
+	"vcpe": "cpe:/:genesys",
+	"pid": "62955",
+	"pname": "pureconnect",
+	"pcpe": "cpe:/a:genesys:pureconnect"
 }

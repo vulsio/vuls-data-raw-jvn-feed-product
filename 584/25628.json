@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "25628",
-  "pname": "SIMATIC S7-1517-3 PN/DP CPU",
-  "pcpe": "cpe:/h:siemens:simatic_s7-1517-3_pn%5c%2fdp_cpu"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "25628",
+	"pname": "SIMATIC S7-1517-3 PN/DP CPU",
+	"pcpe": "cpe:/h:siemens:simatic_s7-1517-3_pn%5c%2fdp_cpu"
 }

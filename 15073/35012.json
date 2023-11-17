@@ -1,8 +1,8 @@
 {
-  "vid": "15073",
-  "vname": "TurdCoin project",
-  "vcpe": "cpe:/:turdcoin_project",
-  "pid": "35012",
-  "pname": "TurdCoin",
-  "pcpe": "cpe:/a:turdcoin_project:turdcoin"
+	"vid": "15073",
+	"vname": "TurdCoin project",
+	"vcpe": "cpe:/:turdcoin_project",
+	"pid": "35012",
+	"pname": "TurdCoin",
+	"pcpe": "cpe:/a:turdcoin_project:turdcoin"
 }

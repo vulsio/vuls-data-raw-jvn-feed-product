@@ -1,8 +1,8 @@
 {
-  "vid": "3248",
-  "vname": "JBMC Software",
-  "vcpe": "cpe:/:jbmc-software",
-  "pid": "7360",
-  "pname": "DirectAdmin",
-  "pcpe": "cpe:/a:jbmc-software:directadmin"
+	"vid": "3248",
+	"vname": "JBMC Software",
+	"vcpe": "cpe:/:jbmc-software",
+	"pid": "7360",
+	"pname": "DirectAdmin",
+	"pcpe": "cpe:/a:jbmc-software:directadmin"
 }

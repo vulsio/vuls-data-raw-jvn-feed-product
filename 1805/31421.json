@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "31421",
-  "pname": "TL-R479GPE-AC ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-r479gpe-ac_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "31421",
+	"pname": "TL-R479GPE-AC ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-r479gpe-ac_firmware"
 }

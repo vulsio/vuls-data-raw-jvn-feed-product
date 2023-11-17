@@ -1,8 +1,8 @@
 {
-  "vid": "22579",
-  "vname": "globalprotect-openconnect project",
-  "vcpe": "cpe:/:globalprotect-openconnect_project",
-  "pid": "58109",
-  "pname": "globalprotect-openconnect",
-  "pcpe": "cpe:/a:globalprotect-openconnect_project:globalprotect-openconnect"
+	"vid": "22579",
+	"vname": "globalprotect-openconnect project",
+	"vcpe": "cpe:/:globalprotect-openconnect_project",
+	"pid": "58109",
+	"pname": "globalprotect-openconnect",
+	"pcpe": "cpe:/a:globalprotect-openconnect_project:globalprotect-openconnect"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "11910",
-  "vname": "Indian Bend Solutions",
-  "vcpe": "cpe:/:ibs_mappro_project",
-  "pid": "24817",
-  "pname": "IBS Mappro",
-  "pcpe": "cpe:/a:ibs_mappro_project:ibs_mappro"
+	"vid": "11910",
+	"vname": "Indian Bend Solutions",
+	"vcpe": "cpe:/:ibs_mappro_project",
+	"pid": "24817",
+	"pname": "IBS Mappro",
+	"pcpe": "cpe:/a:ibs_mappro_project:ibs_mappro"
 }

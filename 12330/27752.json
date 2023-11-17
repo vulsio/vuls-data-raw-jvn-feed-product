@@ -1,8 +1,8 @@
 {
-  "vid": "12330",
-  "vname": "FiberHome Technologies Group",
-  "vcpe": "cpe:/:fiberhomegroup",
-  "pid": "27752",
-  "pname": "S5800-52F-S",
-  "pcpe": "cpe:/h:fiberhomegroup:fengine_52f-s"
+	"vid": "12330",
+	"vname": "FiberHome Technologies Group",
+	"vcpe": "cpe:/:fiberhomegroup",
+	"pid": "27752",
+	"pname": "S5800-52F-S",
+	"pcpe": "cpe:/h:fiberhomegroup:fengine_52f-s"
 }

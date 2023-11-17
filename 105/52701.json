@@ -1,8 +1,8 @@
 {
-  "vid": "105",
-  "vname": "Ruby-lang.org",
-  "vcpe": "cpe:/:ruby-lang",
-  "pid": "52701",
-  "pname": "RDoc",
-  "pcpe": "cpe:/a:ruby-lang:rdoc"
+	"vid": "105",
+	"vname": "Ruby-lang.org",
+	"vcpe": "cpe:/:ruby-lang",
+	"pid": "52701",
+	"pname": "RDoc",
+	"pcpe": "cpe:/a:ruby-lang:rdoc"
 }

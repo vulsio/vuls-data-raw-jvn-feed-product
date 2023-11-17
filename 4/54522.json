@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "54522",
-  "pname": "HP Color LaserJet Enterprise Flow MFP M880z ファームウェア",
-  "pcpe": "cpe:/o:hp:color_laserjet_enterprise_flow_mfp_m880z_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "54522",
+	"pname": "HP Color LaserJet Enterprise Flow MFP M880z ファームウェア",
+	"pcpe": "cpe:/o:hp:color_laserjet_enterprise_flow_mfp_m880z_firmware"
 }

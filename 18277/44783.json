@@ -1,8 +1,8 @@
 {
-  "vid": "18277",
-  "vname": "java-websocket project",
-  "vcpe": "cpe:/:java-websocket_project",
-  "pid": "44783",
-  "pname": "Java-WebSocket",
-  "pcpe": "cpe:/a:java-websocket_project:java-websocket"
+	"vid": "18277",
+	"vname": "java-websocket project",
+	"vcpe": "cpe:/:java-websocket_project",
+	"pid": "44783",
+	"pname": "Java-WebSocket",
+	"pcpe": "cpe:/a:java-websocket_project:java-websocket"
 }

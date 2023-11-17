@@ -1,8 +1,8 @@
 {
-  "vid": "9489",
-  "vname": "Poster Software",
-  "vcpe": "cpe:/:poster_software",
-  "pid": "19542",
-  "pname": "PUBLISH-iT",
-  "pcpe": "cpe:/a:poster_software:publish_it"
+	"vid": "9489",
+	"vname": "Poster Software",
+	"vcpe": "cpe:/:poster_software",
+	"pid": "19542",
+	"pname": "PUBLISH-iT",
+	"pcpe": "cpe:/a:poster_software:publish_it"
 }

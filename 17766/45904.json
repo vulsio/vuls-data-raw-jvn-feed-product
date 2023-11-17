@@ -1,8 +1,8 @@
 {
-  "vid": "17766",
-  "vname": "CAYIN Technology",
-  "vcpe": "cpe:/:cayintech",
-  "pid": "45904",
-  "pname": "CMS-20 ファームウェア",
-  "pcpe": "cpe:/o:cayintech:cms-20_firmware"
+	"vid": "17766",
+	"vname": "CAYIN Technology",
+	"vcpe": "cpe:/:cayintech",
+	"pid": "45904",
+	"pname": "CMS-20 ファームウェア",
+	"pcpe": "cpe:/o:cayintech:cms-20_firmware"
 }

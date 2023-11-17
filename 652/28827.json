@@ -1,8 +1,8 @@
 {
-  "vid": "652",
-  "vname": "サムスン",
-  "vcpe": "cpe:/:samsung",
-  "pid": "28827",
-  "pname": "Galaxy S4 ファームウェア",
-  "pcpe": "cpe:/o:samsung:galaxy_s4_firmware"
+	"vid": "652",
+	"vname": "サムスン",
+	"vcpe": "cpe:/:samsung",
+	"pid": "28827",
+	"pname": "Galaxy S4 ファームウェア",
+	"pcpe": "cpe:/o:samsung:galaxy_s4_firmware"
 }

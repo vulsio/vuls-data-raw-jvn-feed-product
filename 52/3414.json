@@ -1,8 +1,8 @@
 {
-  "vid": "52",
-  "vname": "アップル",
-  "vcpe": "cpe:/:apple",
-  "pid": "3414",
-  "pname": "WebKit",
-  "pcpe": "cpe:/a:apple:webkit"
+	"vid": "52",
+	"vname": "アップル",
+	"vcpe": "cpe:/:apple",
+	"pid": "3414",
+	"pname": "WebKit",
+	"pcpe": "cpe:/a:apple:webkit"
 }

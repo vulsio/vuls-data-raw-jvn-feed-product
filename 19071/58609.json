@@ -1,8 +1,8 @@
 {
-  "vid": "19071",
-  "vname": "YottaDB",
-  "vcpe": "cpe:/:yottadb",
-  "pid": "58609",
-  "pname": "gt.m",
-  "pcpe": "cpe:/a:yottadb:gt.m"
+	"vid": "19071",
+	"vname": "YottaDB",
+	"vcpe": "cpe:/:yottadb",
+	"pid": "58609",
+	"pname": "gt.m",
+	"pcpe": "cpe:/a:yottadb:gt.m"
 }

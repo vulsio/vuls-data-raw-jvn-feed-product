@@ -1,8 +1,8 @@
 {
-  "vid": "20183",
-  "vname": "Securepoint GmbH",
-  "vcpe": "cpe:/:securepoint",
-  "pid": "51368",
-  "pname": "openvpn-client",
-  "pcpe": "cpe:/a:securepoint:openvpn-client"
+	"vid": "20183",
+	"vname": "Securepoint GmbH",
+	"vcpe": "cpe:/:securepoint",
+	"pid": "51368",
+	"pname": "openvpn-client",
+	"pcpe": "cpe:/a:securepoint:openvpn-client"
 }

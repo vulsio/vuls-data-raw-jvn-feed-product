@@ -1,8 +1,8 @@
 {
-  "vid": "12944",
-  "vname": "ConnectWise, Inc.",
-  "vcpe": "cpe:/:connectwise",
-  "pid": "51159",
-  "pname": "ConnectWise Automate",
-  "pcpe": "cpe:/a:connectwise:connectwise_automate"
+	"vid": "12944",
+	"vname": "ConnectWise, Inc.",
+	"vcpe": "cpe:/:connectwise",
+	"pid": "51159",
+	"pname": "ConnectWise Automate",
+	"pcpe": "cpe:/a:connectwise:connectwise_automate"
 }

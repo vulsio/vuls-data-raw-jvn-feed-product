@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "18324",
-  "pname": "Intel Trusted Execution Technology SINIT AC モジュール",
-  "pcpe": "cpe:/o:intel:trusted_execution_technology_sinit_authenticated_code_module"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "18324",
+	"pname": "Intel Trusted Execution Technology SINIT AC モジュール",
+	"pcpe": "cpe:/o:intel:trusted_execution_technology_sinit_authenticated_code_module"
 }

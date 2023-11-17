@@ -1,8 +1,8 @@
 {
-  "vid": "1570",
-  "vname": "lttng",
-  "vcpe": "cpe:/:lttng",
-  "pid": "4569",
-  "pname": "ust",
-  "pcpe": "cpe:/a:lttng:ust"
+	"vid": "1570",
+	"vname": "lttng",
+	"vcpe": "cpe:/:lttng",
+	"pid": "4569",
+	"pname": "ust",
+	"pcpe": "cpe:/a:lttng:ust"
 }

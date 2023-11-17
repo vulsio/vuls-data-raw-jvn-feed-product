@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "4027",
-  "pname": "IBM Maximo Service Desk",
-  "pcpe": "cpe:/a:ibm:maximo_service_desk"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "4027",
+	"pname": "IBM Maximo Service Desk",
+	"pcpe": "cpe:/a:ibm:maximo_service_desk"
 }

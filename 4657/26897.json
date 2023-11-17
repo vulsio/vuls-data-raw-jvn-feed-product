@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "26897",
-  "pname": "AC6005 ファームウェア",
-  "pcpe": "cpe:/o:huawei:ac6005_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "26897",
+	"pname": "AC6005 ファームウェア",
+	"pcpe": "cpe:/o:huawei:ac6005_firmware"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "564",
-  "vname": "Panda Security",
-  "vcpe": "cpe:/:pandasecurity",
-  "pid": "29881",
-  "pname": "Panda Global Protection 2015",
-  "pcpe": "cpe:/a:pandasecurity:panda_global_protection_2015"
+	"vid": "564",
+	"vname": "Panda Security",
+	"vcpe": "cpe:/:pandasecurity",
+	"pid": "29881",
+	"pname": "Panda Global Protection 2015",
+	"pcpe": "cpe:/a:pandasecurity:panda_global_protection_2015"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "50851",
-  "pname": "Oracle Communications BRM - Elastic Charging Engine",
-  "pcpe": "cpe:/a:oracle:communications_brm_-_elastic_charging_engine"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "50851",
+	"pname": "Oracle Communications BRM - Elastic Charging Engine",
+	"pcpe": "cpe:/a:oracle:communications_brm_-_elastic_charging_engine"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "2908",
-  "vname": "codeworx technologies",
-  "vcpe": "cpe:/:codeworx_technologies",
-  "pid": "6896",
-  "pname": "dcp-portal",
-  "pcpe": "cpe:/a:codeworx_technologies:dcp-portal"
+	"vid": "2908",
+	"vname": "codeworx technologies",
+	"vcpe": "cpe:/:codeworx_technologies",
+	"pid": "6896",
+	"pname": "dcp-portal",
+	"pcpe": "cpe:/a:codeworx_technologies:dcp-portal"
 }

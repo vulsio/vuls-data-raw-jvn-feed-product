@@ -1,8 +1,8 @@
 {
-  "vid": "21528",
-  "vname": "Ultimaker",
-  "vcpe": "cpe:/:ultimaker",
-  "pid": "55308",
-  "pname": "Ultimaker S3 ファームウェア",
-  "pcpe": "cpe:/o:ultimaker:ultimaker_s3_firmware"
+	"vid": "21528",
+	"vname": "Ultimaker",
+	"vcpe": "cpe:/:ultimaker",
+	"pid": "55308",
+	"pname": "Ultimaker S3 ファームウェア",
+	"pcpe": "cpe:/o:ultimaker:ultimaker_s3_firmware"
 }

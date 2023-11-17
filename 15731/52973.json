@@ -1,8 +1,8 @@
 {
-  "vid": "15731",
-  "vname": "Zenitel",
-  "vcpe": "cpe:/:zenitel",
-  "pid": "52973",
-  "pname": "AlphaCom XE Audio Server",
-  "pcpe": "cpe:/a:zenitel:alphacom_xe_audio_server"
+	"vid": "15731",
+	"vname": "Zenitel",
+	"vcpe": "cpe:/:zenitel",
+	"pid": "52973",
+	"pname": "AlphaCom XE Audio Server",
+	"pcpe": "cpe:/a:zenitel:alphacom_xe_audio_server"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "47320",
-  "pname": "CSRA6640",
-  "pcpe": "cpe:/h:qualcomm:csra6640"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "47320",
+	"pname": "CSRA6640",
+	"pcpe": "cpe:/h:qualcomm:csra6640"
 }

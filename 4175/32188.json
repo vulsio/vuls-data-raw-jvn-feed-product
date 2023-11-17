@@ -1,8 +1,8 @@
 {
-  "vid": "4175",
-  "vname": "Aztech Group Ltd",
-  "vcpe": "cpe:/:aztech",
-  "pid": "32188",
-  "pname": "DSL5018EN ファームウェア",
-  "pcpe": "cpe:/o:aztech:adsl_dsl5018en_%281t1r%29_firmware"
+	"vid": "4175",
+	"vname": "Aztech Group Ltd",
+	"vcpe": "cpe:/:aztech",
+	"pid": "32188",
+	"pname": "DSL5018EN ファームウェア",
+	"pcpe": "cpe:/o:aztech:adsl_dsl5018en_%281t1r%29_firmware"
 }

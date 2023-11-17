@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "31124",
-  "pname": "FX-OS",
-  "pcpe": "cpe:/o:cisco:fxos"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "31124",
+	"pname": "FX-OS",
+	"pcpe": "cpe:/o:cisco:fxos"
 }

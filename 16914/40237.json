@@ -1,8 +1,8 @@
 {
-  "vid": "16914",
-  "vname": "Crossbeam project",
-  "vcpe": "cpe:/:crossbeam_project",
-  "pid": "40237",
-  "pname": "Crossbeam",
-  "pcpe": "cpe:/a:crossbeam_project:crossbeam"
+	"vid": "16914",
+	"vname": "Crossbeam project",
+	"vcpe": "cpe:/:crossbeam_project",
+	"pid": "40237",
+	"pname": "Crossbeam",
+	"pcpe": "cpe:/a:crossbeam_project:crossbeam"
 }

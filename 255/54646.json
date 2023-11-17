@@ -1,8 +1,8 @@
 {
-  "vid": "255",
-  "vname": "キヤノン",
-  "vcpe": "cpe:/:canon",
-  "pid": "54646",
-  "pname": "LBP223DW ファームウェア",
-  "pcpe": "cpe:/o:canon:lbp223dw_firmware"
+	"vid": "255",
+	"vname": "キヤノン",
+	"vcpe": "cpe:/:canon",
+	"pid": "54646",
+	"pname": "LBP223DW ファームウェア",
+	"pcpe": "cpe:/o:canon:lbp223dw_firmware"
 }

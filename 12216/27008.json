@@ -1,8 +1,8 @@
 {
-  "vid": "12216",
-  "vname": "mypixs project",
-  "vcpe": "cpe:/:mypixs_project",
-  "pid": "27008",
-  "pname": "mypixs",
-  "pcpe": "cpe:/a:mypixs_project:mypixs"
+	"vid": "12216",
+	"vname": "mypixs project",
+	"vcpe": "cpe:/:mypixs_project",
+	"pid": "27008",
+	"pname": "mypixs",
+	"pcpe": "cpe:/a:mypixs_project:mypixs"
 }

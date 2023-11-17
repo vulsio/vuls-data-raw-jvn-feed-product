@@ -1,8 +1,8 @@
 {
-  "vid": "11156",
-  "vname": "Comcast",
-  "vcpe": "cpe:/:comcast",
-  "pid": "29965",
-  "pname": "XFINITY Wi-Fi Home Hotspot",
-  "pcpe": "cpe:/a:comcast:xfinity_wifi_hotspot"
+	"vid": "11156",
+	"vname": "Comcast",
+	"vcpe": "cpe:/:comcast",
+	"pid": "29965",
+	"pname": "XFINITY Wi-Fi Home Hotspot",
+	"pcpe": "cpe:/a:comcast:xfinity_wifi_hotspot"
 }

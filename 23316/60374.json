@@ -1,8 +1,8 @@
 {
-  "vid": "23316",
-  "vname": "cookiecutter project",
-  "vcpe": "cpe:/:cookiecutter_project",
-  "pid": "60374",
-  "pname": "cookiecutter",
-  "pcpe": "cpe:/a:cookiecutter_project:cookiecutter"
+	"vid": "23316",
+	"vname": "cookiecutter project",
+	"vcpe": "cpe:/:cookiecutter_project",
+	"pid": "60374",
+	"pname": "cookiecutter",
+	"pcpe": "cpe:/a:cookiecutter_project:cookiecutter"
 }

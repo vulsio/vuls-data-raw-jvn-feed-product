@@ -1,8 +1,8 @@
 {
-  "vid": "8815",
-  "vname": "Ettercap Project",
-  "vcpe": "cpe:/:ettercap_project",
-  "pid": "16790",
-  "pname": "Ettercap",
-  "pcpe": "cpe:/a:ettercap_project:ettercap"
+	"vid": "8815",
+	"vname": "Ettercap Project",
+	"vcpe": "cpe:/:ettercap_project",
+	"pid": "16790",
+	"pname": "Ettercap",
+	"pcpe": "cpe:/a:ettercap_project:ettercap"
 }

@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "27378",
-  "pname": "ThinkPad 11e (Beema)",
-  "pcpe": "cpe:/h:lenovo:thinkpad_11e_beema"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "27378",
+	"pname": "ThinkPad 11e (Beema)",
+	"pcpe": "cpe:/h:lenovo:thinkpad_11e_beema"
 }

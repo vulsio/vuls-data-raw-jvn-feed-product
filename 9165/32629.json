@@ -1,8 +1,8 @@
 {
-  "vid": "9165",
-  "vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
-  "vcpe": "cpe:/:ruckuswireless",
-  "pid": "32629",
-  "pname": "R720 ファームウェア",
-  "pcpe": "cpe:/o:ruckuswireless:r720_firmware"
+	"vid": "9165",
+	"vname": "Ruckus Networks (旧 Ruckus Wireless, Inc.)",
+	"vcpe": "cpe:/:ruckuswireless",
+	"pid": "32629",
+	"pname": "R720 ファームウェア",
+	"pcpe": "cpe:/o:ruckuswireless:r720_firmware"
 }

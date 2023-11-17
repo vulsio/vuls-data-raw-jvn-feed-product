@@ -1,8 +1,8 @@
 {
-  "vid": "18297",
-  "vname": "Rensselaer Center for Open-Source Project",
-  "vcpe": "cpe:/:rcos",
-  "pid": "44863",
-  "pname": "Submitty",
-  "pcpe": "cpe:/a:rcos:submitty"
+	"vid": "18297",
+	"vname": "Rensselaer Center for Open-Source Project",
+	"vcpe": "cpe:/:rcos",
+	"pid": "44863",
+	"pname": "Submitty",
+	"pcpe": "cpe:/a:rcos:submitty"
 }

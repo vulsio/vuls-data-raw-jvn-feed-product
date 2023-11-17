@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "53221",
-  "pname": "Latitude 5290 2-IN-1 ファームウェア",
-  "pcpe": "cpe:/o:dell:latitude_5290_2-in-1_firmware"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "53221",
+	"pname": "Latitude 5290 2-IN-1 ファームウェア",
+	"pcpe": "cpe:/o:dell:latitude_5290_2-in-1_firmware"
 }

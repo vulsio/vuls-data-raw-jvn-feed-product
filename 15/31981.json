@@ -1,8 +1,8 @@
 {
-  "vid": "15",
-  "vname": "オラクル",
-  "vcpe": "cpe:/:oracle",
-  "pid": "31981",
-  "pname": "Oracle Hospitality Labor Management",
-  "pcpe": "cpe:/a:oracle:hospitality_labor_management"
+	"vid": "15",
+	"vname": "オラクル",
+	"vcpe": "cpe:/:oracle",
+	"pid": "31981",
+	"pname": "Oracle Hospitality Labor Management",
+	"pcpe": "cpe:/a:oracle:hospitality_labor_management"
 }

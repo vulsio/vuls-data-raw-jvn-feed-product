@@ -1,8 +1,8 @@
 {
-  "vid": "11985",
-  "vname": "ARM Ltd.",
-  "vcpe": "cpe:/:arm",
-  "pid": "47564",
-  "pname": "CMSIS-RTOS2",
-  "pcpe": "cpe:/o:arm:cmsis-rtos2"
+	"vid": "11985",
+	"vname": "ARM Ltd.",
+	"vcpe": "cpe:/:arm",
+	"pid": "47564",
+	"pname": "CMSIS-RTOS2",
+	"pcpe": "cpe:/o:arm:cmsis-rtos2"
 }

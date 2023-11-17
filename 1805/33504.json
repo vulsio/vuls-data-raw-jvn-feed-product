@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "33504",
-  "pname": "EAP Controller",
-  "pcpe": "cpe:/a:tp-link:eap_controller"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "33504",
+	"pname": "EAP Controller",
+	"pcpe": "cpe:/a:tp-link:eap_controller"
 }

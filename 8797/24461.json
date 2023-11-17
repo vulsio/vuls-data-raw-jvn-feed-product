@@ -1,8 +1,8 @@
 {
-  "vid": "8797",
-  "vname": "NetIQ",
-  "vcpe": "cpe:/:netiq",
-  "pid": "24461",
-  "pname": "NetIQ Security Solutions for iSeries",
-  "pcpe": "cpe:/a:netiq:security_solutions_for_iseries"
+	"vid": "8797",
+	"vname": "NetIQ",
+	"vcpe": "cpe:/:netiq",
+	"pid": "24461",
+	"pname": "NetIQ Security Solutions for iSeries",
+	"pcpe": "cpe:/a:netiq:security_solutions_for_iseries"
 }

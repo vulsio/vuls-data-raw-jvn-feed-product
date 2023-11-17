@@ -1,8 +1,8 @@
 {
-  "vid": "759",
-  "vname": "General Electric Company",
-  "vcpe": "cpe:/:ge",
-  "pid": "8983",
-  "pname": "Proficy Pulse",
-  "pcpe": "cpe:/a:ge:intelligent_platforms_proficy_pulse"
+	"vid": "759",
+	"vname": "General Electric Company",
+	"vcpe": "cpe:/:ge",
+	"pid": "8983",
+	"pname": "Proficy Pulse",
+	"pcpe": "cpe:/a:ge:intelligent_platforms_proficy_pulse"
 }

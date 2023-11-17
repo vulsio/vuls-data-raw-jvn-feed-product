@@ -1,8 +1,8 @@
 {
-  "vid": "9411",
-  "vname": "andromeda software",
-  "vcpe": "cpe:/:andromeda_software",
-  "pid": "19344",
-  "pname": "andromeda",
-  "pcpe": "cpe:/a:andromeda_software:andromeda"
+	"vid": "9411",
+	"vname": "andromeda software",
+	"vcpe": "cpe:/:andromeda_software",
+	"pid": "19344",
+	"pname": "andromeda",
+	"pcpe": "cpe:/a:andromeda_software:andromeda"
 }

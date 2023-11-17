@@ -1,8 +1,8 @@
 {
-  "vid": "4002",
-  "vname": "gnuedu",
-  "vcpe": "cpe:/:gnuedu",
-  "pid": "8469",
-  "pname": "gnu edu",
-  "pcpe": "cpe:/a:gnuedu:gnu_edu"
+	"vid": "4002",
+	"vname": "gnuedu",
+	"vcpe": "cpe:/:gnuedu",
+	"pid": "8469",
+	"pname": "gnu edu",
+	"pcpe": "cpe:/a:gnuedu:gnu_edu"
 }

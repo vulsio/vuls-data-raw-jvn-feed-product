@@ -1,8 +1,8 @@
 {
-  "vid": "23",
-  "vname": "シマンテック",
-  "vcpe": "cpe:/:symantec",
-  "pid": "30758",
-  "pname": "Norton Remove & Reinstall",
-  "pcpe": "cpe:/a:symantec:norton_remove_%26_reinstall"
+	"vid": "23",
+	"vname": "シマンテック",
+	"vcpe": "cpe:/:symantec",
+	"pid": "30758",
+	"pname": "Norton Remove & Reinstall",
+	"pcpe": "cpe:/a:symantec:norton_remove_%26_reinstall"
 }

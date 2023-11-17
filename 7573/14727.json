@@ -1,8 +1,8 @@
 {
-  "vid": "7573",
-  "vname": "short url",
-  "vcpe": "cpe:/:short_url",
-  "pid": "14727",
-  "pname": "short url",
-  "pcpe": "cpe:/a:short_url:short_url"
+	"vid": "7573",
+	"vname": "short url",
+	"vcpe": "cpe:/:short_url",
+	"pid": "14727",
+	"pname": "short url",
+	"pcpe": "cpe:/a:short_url:short_url"
 }

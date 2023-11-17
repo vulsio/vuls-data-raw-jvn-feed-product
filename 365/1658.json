@@ -1,8 +1,8 @@
 {
-  "vid": "365",
-  "vname": "シトリックス・システムズ",
-  "vcpe": "cpe:/:citrix",
-  "pid": "1658",
-  "pname": "Deterministic Network Enhancer",
-  "pcpe": "cpe:/a:citrix:deterministic_network_enhancer"
+	"vid": "365",
+	"vname": "シトリックス・システムズ",
+	"vcpe": "cpe:/:citrix",
+	"pid": "1658",
+	"pname": "Deterministic Network Enhancer",
+	"pcpe": "cpe:/a:citrix:deterministic_network_enhancer"
 }

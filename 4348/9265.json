@@ -1,8 +1,8 @@
 {
-  "vid": "4348",
-  "vname": "Iomega",
-  "vcpe": "cpe:/:iomega",
-  "pid": "9265",
-  "pname": "StorCenter",
-  "pcpe": "cpe:/h:iomega:storcenter"
+	"vid": "4348",
+	"vname": "Iomega",
+	"vcpe": "cpe:/:iomega",
+	"pid": "9265",
+	"pname": "StorCenter",
+	"pcpe": "cpe:/h:iomega:storcenter"
 }

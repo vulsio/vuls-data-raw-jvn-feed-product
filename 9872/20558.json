@@ -1,8 +1,8 @@
 {
-  "vid": "9872",
-  "vname": "Matcha Labs",
-  "vcpe": "cpe:/:matchalabs",
-  "pid": "20558",
-  "pname": "Meta Slider",
-  "pcpe": "cpe:/a:matchalabs:metaslider"
+	"vid": "9872",
+	"vname": "Matcha Labs",
+	"vcpe": "cpe:/:matchalabs",
+	"pid": "20558",
+	"pname": "Meta Slider",
+	"pcpe": "cpe:/a:matchalabs:metaslider"
 }

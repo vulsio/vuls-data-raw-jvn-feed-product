@@ -1,8 +1,8 @@
 {
-  "vid": "24294",
-  "vname": "securonix",
-  "vcpe": "cpe:/:securonix",
-  "pid": "62789",
-  "pname": "snypr",
-  "pcpe": "cpe:/a:securonix:snypr"
+	"vid": "24294",
+	"vname": "securonix",
+	"vcpe": "cpe:/:securonix",
+	"pid": "62789",
+	"pname": "snypr",
+	"pcpe": "cpe:/a:securonix:snypr"
 }

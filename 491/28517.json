@@ -1,8 +1,8 @@
 {
-  "vid": "491",
-  "vname": "BitDefender",
-  "vcpe": "cpe:/:bitdefender",
-  "pid": "28517",
-  "pname": "Bitdefender Antivirus Plus",
-  "pcpe": "cpe:/a:bitdefender:antivirus_plus"
+	"vid": "491",
+	"vname": "BitDefender",
+	"vcpe": "cpe:/:bitdefender",
+	"pid": "28517",
+	"pname": "Bitdefender Antivirus Plus",
+	"pcpe": "cpe:/a:bitdefender:antivirus_plus"
 }

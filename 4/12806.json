@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12806",
-  "pname": "psc 2100",
-  "pcpe": "cpe:/h:hp:psc_2100"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12806",
+	"pname": "psc 2100",
+	"pcpe": "cpe:/h:hp:psc_2100"
 }

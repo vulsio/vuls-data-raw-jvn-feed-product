@@ -1,8 +1,8 @@
 {
-  "vid": "19289",
-  "vname": "LATRIX project",
-  "vcpe": "cpe:/:latrix_project",
-  "pid": "48533",
-  "pname": "LATRIX",
-  "pcpe": "cpe:/a:latrix_project:latrix"
+	"vid": "19289",
+	"vname": "LATRIX project",
+	"vcpe": "cpe:/:latrix_project",
+	"pid": "48533",
+	"pname": "LATRIX",
+	"pcpe": "cpe:/a:latrix_project:latrix"
 }

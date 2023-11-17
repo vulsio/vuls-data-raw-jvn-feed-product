@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "17134",
-  "pname": "Cisco ASR 1013 ルータ",
-  "pcpe": "cpe:/h:cisco:asr_1013_router"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "17134",
+	"pname": "Cisco ASR 1013 ルータ",
+	"pcpe": "cpe:/h:cisco:asr_1013_router"
 }

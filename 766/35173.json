@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "35173",
-  "pname": "EVlink Charging Station ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:evlink_charging_station_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "35173",
+	"pname": "EVlink Charging Station ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:evlink_charging_station_firmware"
 }

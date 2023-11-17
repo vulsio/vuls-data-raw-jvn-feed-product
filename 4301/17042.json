@@ -1,8 +1,8 @@
 {
-  "vid": "4301",
-  "vname": "Amazon.com, Inc.",
-  "vcpe": "cpe:/:amazon",
-  "pid": "17042",
-  "pname": "Amazon S3 Store",
-  "pcpe": "cpe:/a:amazon:s3_store"
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "17042",
+	"pname": "Amazon S3 Store",
+	"pcpe": "cpe:/a:amazon:s3_store"
 }

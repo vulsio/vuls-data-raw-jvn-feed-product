@@ -1,8 +1,8 @@
 {
-  "vid": "12373",
-  "vname": "VideoInsight",
-  "vcpe": "cpe:/:videoinsight",
-  "pid": "27884",
-  "pname": "Web Client",
-  "pcpe": "cpe:/a:videoinsight:web_client"
+	"vid": "12373",
+	"vname": "VideoInsight",
+	"vcpe": "cpe:/:videoinsight",
+	"pid": "27884",
+	"pname": "Web Client",
+	"pcpe": "cpe:/a:videoinsight:web_client"
 }

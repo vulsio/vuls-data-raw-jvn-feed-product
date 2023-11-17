@@ -1,8 +1,8 @@
 {
-  "vid": "4316",
-  "vname": "REDAXO",
-  "vcpe": "cpe:/:redaxo",
-  "pid": "35723",
-  "pname": "REDAXO CMS",
-  "pcpe": "cpe:/a:redaxo:redaxo_cms"
+	"vid": "4316",
+	"vname": "REDAXO",
+	"vcpe": "cpe:/:redaxo",
+	"pid": "35723",
+	"pname": "REDAXO CMS",
+	"pcpe": "cpe:/a:redaxo:redaxo_cms"
 }

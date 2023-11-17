@@ -1,8 +1,8 @@
 {
-  "vid": "12093",
-  "vname": "Belden Inc.",
-  "vcpe": "cpe:/:belden",
-  "pid": "43936",
-  "pname": "Hirschmann RSPE",
-  "pcpe": "cpe:/h:belden:hirschmann_rspe"
+	"vid": "12093",
+	"vname": "Belden Inc.",
+	"vcpe": "cpe:/:belden",
+	"pid": "43936",
+	"pname": "Hirschmann RSPE",
+	"pcpe": "cpe:/h:belden:hirschmann_rspe"
 }

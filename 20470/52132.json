@@ -1,8 +1,8 @@
 {
-  "vid": "20470",
-  "vname": "Deferred image processing project",
-  "vcpe": "cpe:/:deferred_image_processing_project",
-  "pid": "52132",
-  "pname": "Deferred image processing",
-  "pcpe": "cpe:/a:deferred_image_processing_project:deferred_image_processing"
+	"vid": "20470",
+	"vname": "Deferred image processing project",
+	"vcpe": "cpe:/:deferred_image_processing_project",
+	"pid": "52132",
+	"pname": "Deferred image processing",
+	"pcpe": "cpe:/a:deferred_image_processing_project:deferred_image_processing"
 }

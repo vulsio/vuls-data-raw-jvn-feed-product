@@ -1,8 +1,8 @@
 {
-  "vid": "2017",
-  "vname": "Activision Publishing",
-  "vcpe": "cpe:/:activision",
-  "pid": "38368",
-  "pname": "Call of Duty  Black Ops 2",
-  "pcpe": "cpe:/a:activision:call_of_duty%3a_blacks_ops_2"
+	"vid": "2017",
+	"vname": "Activision Publishing",
+	"vcpe": "cpe:/:activision",
+	"pid": "38368",
+	"pname": "Call of Duty  Black Ops 2",
+	"pcpe": "cpe:/a:activision:call_of_duty%3a_blacks_ops_2"
 }

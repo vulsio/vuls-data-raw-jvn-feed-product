@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "751",
-  "pname": "Cisco Emergency Responder",
-  "pcpe": "cpe:/h:cisco:emergency_responder"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "751",
+	"pname": "Cisco Emergency Responder",
+	"pcpe": "cpe:/h:cisco:emergency_responder"
 }

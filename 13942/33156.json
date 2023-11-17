@@ -1,8 +1,8 @@
 {
-  "vid": "13942",
-  "vname": "NordVPN.com",
-  "vcpe": "cpe:/:nordvpn",
-  "pid": "33156",
-  "pname": "NordVPN",
-  "pcpe": "cpe:/a:nordvpn:nordvpn"
+	"vid": "13942",
+	"vname": "NordVPN.com",
+	"vcpe": "cpe:/:nordvpn",
+	"pid": "33156",
+	"pname": "NordVPN",
+	"pcpe": "cpe:/a:nordvpn:nordvpn"
 }

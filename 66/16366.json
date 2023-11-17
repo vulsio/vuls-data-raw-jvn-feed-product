@@ -1,8 +1,8 @@
 {
-  "vid": "66",
-  "vname": "XOOPS",
-  "vcpe": "cpe:/:xoops",
-  "pid": "16366",
-  "pname": "C-JAY Content",
-  "pcpe": "cpe:/a:xoops:cjay_content_module"
+	"vid": "66",
+	"vname": "XOOPS",
+	"vcpe": "cpe:/:xoops",
+	"pid": "16366",
+	"pname": "C-JAY Content",
+	"pcpe": "cpe:/a:xoops:cjay_content_module"
 }

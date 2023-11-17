@@ -1,8 +1,8 @@
 {
-  "vid": "7043",
-  "vname": "portaplus",
-  "vcpe": "cpe:/:portaplus",
-  "pid": "13951",
-  "pname": "porta+ ftp client",
-  "pcpe": "cpe:/a:portaplus:porta%2B_ftp_client"
+	"vid": "7043",
+	"vname": "portaplus",
+	"vcpe": "cpe:/:portaplus",
+	"pid": "13951",
+	"pname": "porta+ ftp client",
+	"pcpe": "cpe:/a:portaplus:porta%2B_ftp_client"
 }

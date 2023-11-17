@@ -1,8 +1,8 @@
 {
-  "vid": "14843",
-  "vname": "Target Coin",
-  "vcpe": "cpe:/:tgtcoins",
-  "pid": "34707",
-  "pname": "Target Coin",
-  "pcpe": "cpe:/a:tgtcoins:target_coin"
+	"vid": "14843",
+	"vname": "Target Coin",
+	"vcpe": "cpe:/:tgtcoins",
+	"pid": "34707",
+	"pname": "Target Coin",
+	"pcpe": "cpe:/a:tgtcoins:target_coin"
 }

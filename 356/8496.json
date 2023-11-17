@@ -1,8 +1,8 @@
 {
-  "vid": "356",
-  "vname": "Google",
-  "vcpe": "cpe:/:google",
-  "pid": "8496",
-  "pname": "google apps",
-  "pcpe": "cpe:/a:google:google_apps"
+	"vid": "356",
+	"vname": "Google",
+	"vcpe": "cpe:/:google",
+	"pid": "8496",
+	"pname": "google apps",
+	"pcpe": "cpe:/a:google:google_apps"
 }

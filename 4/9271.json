@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "9271",
-  "pname": "HP Service Manager Server",
-  "pcpe": "cpe:/h:hp:service_manager_server"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "9271",
+	"pname": "HP Service Manager Server",
+	"pcpe": "cpe:/h:hp:service_manager_server"
 }

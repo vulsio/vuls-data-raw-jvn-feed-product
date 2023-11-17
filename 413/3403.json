@@ -1,8 +1,8 @@
 {
-  "vid": "413",
-  "vname": "BlackBerry",
-  "vcpe": "cpe:/:blackberry",
-  "pid": "3403",
-  "pname": "BlackBerry Professional Software",
-  "pcpe": "cpe:/a:blackberry:blackberry_professional_software"
+	"vid": "413",
+	"vname": "BlackBerry",
+	"vcpe": "cpe:/:blackberry",
+	"pid": "3403",
+	"pname": "BlackBerry Professional Software",
+	"pcpe": "cpe:/a:blackberry:blackberry_professional_software"
 }

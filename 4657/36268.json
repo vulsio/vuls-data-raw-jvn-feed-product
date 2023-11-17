@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "36268",
-  "pname": "Haydn-L1JB ファームウェア",
-  "pcpe": "cpe:/o:huawei:haydn-l1jb_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "36268",
+	"pname": "Haydn-L1JB ファームウェア",
+	"pcpe": "cpe:/o:huawei:haydn-l1jb_firmware"
 }

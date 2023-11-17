@@ -1,8 +1,8 @@
 {
-  "vid": "4611",
-  "vname": "hexamail",
-  "vcpe": "cpe:/:hexamail",
-  "pid": "9760",
-  "pname": "hexamail server",
-  "pcpe": "cpe:/a:hexamail:hexamail_server"
+	"vid": "4611",
+	"vname": "hexamail",
+	"vcpe": "cpe:/:hexamail",
+	"pid": "9760",
+	"pname": "hexamail server",
+	"pcpe": "cpe:/a:hexamail:hexamail_server"
 }

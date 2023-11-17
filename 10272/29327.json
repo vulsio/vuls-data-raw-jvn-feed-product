@@ -1,8 +1,8 @@
 {
-  "vid": "10272",
-  "vname": "Contiki プロジェクト",
-  "vcpe": "cpe:/:uip_project",
-  "pid": "29327",
-  "pname": "Contiki Operating System",
-  "pcpe": "cpe:/a:uip_project:contiki_contiki-os"
+	"vid": "10272",
+	"vname": "Contiki プロジェクト",
+	"vcpe": "cpe:/:uip_project",
+	"pid": "29327",
+	"pname": "Contiki Operating System",
+	"pcpe": "cpe:/a:uip_project:contiki_contiki-os"
 }

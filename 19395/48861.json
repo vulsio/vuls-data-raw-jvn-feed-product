@@ -1,8 +1,8 @@
 {
-  "vid": "19395",
-  "vname": "Bitcoin SV",
-  "vcpe": "cpe:/:bitcoinsv",
-  "pid": "48861",
-  "pname": "Bitcoin SV",
-  "pcpe": "cpe:/a:bitcoinsv:bitcoin_sv"
+	"vid": "19395",
+	"vname": "Bitcoin SV",
+	"vcpe": "cpe:/:bitcoinsv",
+	"pid": "48861",
+	"pname": "Bitcoin SV",
+	"pcpe": "cpe:/a:bitcoinsv:bitcoin_sv"
 }

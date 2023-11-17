@@ -1,8 +1,8 @@
 {
-  "vid": "129",
-  "vname": "日立",
-  "vcpe": "cpe:/:hitachi",
-  "pid": "1205",
-  "pname": "Cosminexus Library",
-  "pcpe": "cpe:/a:hitachi:cosminexus_library"
+	"vid": "129",
+	"vname": "日立",
+	"vcpe": "cpe:/:hitachi",
+	"pid": "1205",
+	"pname": "Cosminexus Library",
+	"pcpe": "cpe:/a:hitachi:cosminexus_library"
 }

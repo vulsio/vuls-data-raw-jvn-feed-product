@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "39084",
-  "pname": "Y5S50A ファームウェア",
-  "pcpe": "cpe:/o:hp:y5s50a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "39084",
+	"pname": "Y5S50A ファームウェア",
+	"pcpe": "cpe:/o:hp:y5s50a_firmware"
 }

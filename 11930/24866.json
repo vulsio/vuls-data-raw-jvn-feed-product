@@ -1,8 +1,8 @@
 {
-  "vid": "11930",
-  "vname": "Securifi",
-  "vcpe": "cpe:/:securifi",
-  "pid": "24866",
-  "pname": "Securifi Almond",
-  "pcpe": "cpe:/h:securifi:almond"
+	"vid": "11930",
+	"vname": "Securifi",
+	"vcpe": "cpe:/:securifi",
+	"pid": "24866",
+	"pname": "Securifi Almond",
+	"pcpe": "cpe:/h:securifi:almond"
 }

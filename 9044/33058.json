@@ -1,8 +1,8 @@
 {
-  "vid": "9044",
-  "vname": "The Foreman",
-  "vcpe": "cpe:/:theforeman",
-  "pid": "33058",
-  "pname": "Hammer CLI",
-  "pcpe": "cpe:/a:theforeman:hammer_cli"
+	"vid": "9044",
+	"vname": "The Foreman",
+	"vcpe": "cpe:/:theforeman",
+	"pid": "33058",
+	"pname": "Hammer CLI",
+	"pcpe": "cpe:/a:theforeman:hammer_cli"
 }

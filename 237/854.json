@@ -1,8 +1,8 @@
 {
-  "vid": "237",
-  "vname": "たけびし",
-  "vcpe": "cpe:/:takebishi_corporation",
-  "pid": "854",
-  "pname": "デバイスエクスプローラ FA-M3 OPC サーバ",
-  "pcpe": "cpe:/a:takebishi_corporation:devicexplorer_fa-m3_opc_server"
+	"vid": "237",
+	"vname": "たけびし",
+	"vcpe": "cpe:/:takebishi_corporation",
+	"pid": "854",
+	"pname": "デバイスエクスプローラ FA-M3 OPC サーバ",
+	"pcpe": "cpe:/a:takebishi_corporation:devicexplorer_fa-m3_opc_server"
 }

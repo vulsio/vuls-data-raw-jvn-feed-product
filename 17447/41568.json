@@ -1,8 +1,8 @@
 {
-  "vid": "17447",
-  "vname": "strapi",
-  "vcpe": "cpe:/:strapi",
-  "pid": "41568",
-  "pname": "strapi",
-  "pcpe": "cpe:/a:strapi:strapi"
+	"vid": "17447",
+	"vname": "strapi",
+	"vcpe": "cpe:/:strapi",
+	"pid": "41568",
+	"pname": "strapi",
+	"pcpe": "cpe:/a:strapi:strapi"
 }

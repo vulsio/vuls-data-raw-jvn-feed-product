@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "49584",
-  "pname": "AIS-BW80H-00 ファームウェア",
-  "pcpe": "cpe:/o:huawei:ais-bw80h-00_firmware"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "49584",
+	"pname": "AIS-BW80H-00 ファームウェア",
+	"pcpe": "cpe:/o:huawei:ais-bw80h-00_firmware"
 }

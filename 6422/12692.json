@@ -1,8 +1,8 @@
 {
-  "vid": "6422",
-  "vname": "quakenet",
-  "vcpe": "cpe:/:quakenet",
-  "pid": "12692",
-  "pname": "snircd",
-  "pcpe": "cpe:/a:quakenet:snircd"
+	"vid": "6422",
+	"vname": "quakenet",
+	"vcpe": "cpe:/:quakenet",
+	"pid": "12692",
+	"pname": "snircd",
+	"pcpe": "cpe:/a:quakenet:snircd"
 }

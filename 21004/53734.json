@@ -1,8 +1,8 @@
 {
-  "vid": "21004",
-  "vname": "WPChill",
-  "vcpe": "cpe:/:wpchill",
-  "pid": "53734",
-  "pname": "Check & Log Email",
-  "pcpe": "cpe:/a:wpchill:check_%26_log_email"
+	"vid": "21004",
+	"vname": "WPChill",
+	"vcpe": "cpe:/:wpchill",
+	"pid": "53734",
+	"pname": "Check & Log Email",
+	"pcpe": "cpe:/a:wpchill:check_%26_log_email"
 }

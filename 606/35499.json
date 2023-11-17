@@ -1,8 +1,8 @@
 {
-  "vid": "606",
-  "vname": "セイコーエプソン株式会社",
-  "vcpe": "cpe:/:epson",
-  "pid": "35499",
-  "pname": "EW-M660FT",
-  "pcpe": "cpe:/a:epson:ew-m660ft"
+	"vid": "606",
+	"vname": "セイコーエプソン株式会社",
+	"vcpe": "cpe:/:epson",
+	"pid": "35499",
+	"pname": "EW-M660FT",
+	"pcpe": "cpe:/a:epson:ew-m660ft"
 }

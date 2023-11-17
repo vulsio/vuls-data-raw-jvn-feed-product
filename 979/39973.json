@@ -1,8 +1,8 @@
 {
-  "vid": "979",
-  "vname": "Atlassian",
-  "vcpe": "cpe:/:atlassian",
-  "pid": "39973",
-  "pname": "HTML Include and replace macro",
-  "pcpe": "cpe:/a:atlassian:html_include_and_replace_macro"
+	"vid": "979",
+	"vname": "Atlassian",
+	"vcpe": "cpe:/:atlassian",
+	"pid": "39973",
+	"pname": "HTML Include and replace macro",
+	"pcpe": "cpe:/a:atlassian:html_include_and_replace_macro"
 }

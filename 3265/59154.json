@@ -1,8 +1,8 @@
 {
-  "vid": "3265",
-  "vname": "dji",
-  "vcpe": "cpe:/:dji",
-  "pid": "59154",
-  "pname": "zenmuse x7 ファームウェア",
-  "pcpe": "cpe:/o:dji:zenmuse_x7_firmware"
+	"vid": "3265",
+	"vname": "dji",
+	"vcpe": "cpe:/:dji",
+	"pid": "59154",
+	"pname": "zenmuse x7 ファームウェア",
+	"pcpe": "cpe:/o:dji:zenmuse_x7_firmware"
 }

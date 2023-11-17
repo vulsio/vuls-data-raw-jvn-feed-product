@@ -1,8 +1,8 @@
 {
-  "vid": "1895",
-  "vname": "エマソン",
-  "vcpe": "cpe:/:emerson",
-  "pid": "63071",
-  "pname": "se4052s1t2b6 high side 40-pin mass i/o terminal block ファームウェア",
-  "pcpe": "cpe:/o:emerson:se4052s1t2b6_high_side_40-pin_mass_i%2Fo_terminal_block_firmware"
+	"vid": "1895",
+	"vname": "エマソン",
+	"vcpe": "cpe:/:emerson",
+	"pid": "63071",
+	"pname": "se4052s1t2b6 high side 40-pin mass i/o terminal block ファームウェア",
+	"pcpe": "cpe:/o:emerson:se4052s1t2b6_high_side_40-pin_mass_i%2Fo_terminal_block_firmware"
 }

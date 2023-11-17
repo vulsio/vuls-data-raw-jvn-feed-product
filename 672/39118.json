@@ -1,8 +1,8 @@
 {
-  "vid": "672",
-  "vname": "Zoho Corporation",
-  "vcpe": "cpe:/:zohocorp",
-  "pid": "39118",
-  "pname": "ManageEngine Browser Security Plus",
-  "pcpe": "cpe:/a:zohocorp:manageengine_browser_security_plus"
+	"vid": "672",
+	"vname": "Zoho Corporation",
+	"vcpe": "cpe:/:zohocorp",
+	"pid": "39118",
+	"pname": "ManageEngine Browser Security Plus",
+	"pcpe": "cpe:/a:zohocorp:manageengine_browser_security_plus"
 }

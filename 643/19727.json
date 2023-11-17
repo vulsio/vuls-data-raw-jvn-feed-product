@@ -1,8 +1,8 @@
 {
-  "vid": "643",
-  "vname": "デル",
-  "vcpe": "cpe:/:dell",
-  "pid": "19727",
-  "pname": "SonicWall Network Security Appliance 2400",
-  "pcpe": "cpe:/h:dell:sonicwall_network_security_appliance_2400"
+	"vid": "643",
+	"vname": "デル",
+	"vcpe": "cpe:/:dell",
+	"pid": "19727",
+	"pname": "SonicWall Network Security Appliance 2400",
+	"pcpe": "cpe:/h:dell:sonicwall_network_security_appliance_2400"
 }

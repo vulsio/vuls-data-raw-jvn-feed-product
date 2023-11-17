@@ -1,8 +1,8 @@
 {
-  "vid": "6608",
-  "vname": "Sage Pay Europe Limited",
-  "vcpe": "cpe:/:sagepay",
-  "pid": "13262",
-  "pname": "Sage Pay Direct モジュール",
-  "pcpe": "cpe:/a:sagepay:sage_pay_direct_module"
+	"vid": "6608",
+	"vname": "Sage Pay Europe Limited",
+	"vcpe": "cpe:/:sagepay",
+	"pid": "13262",
+	"pname": "Sage Pay Direct モジュール",
+	"pcpe": "cpe:/a:sagepay:sage_pay_direct_module"
 }

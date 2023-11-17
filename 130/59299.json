@@ -1,8 +1,8 @@
 {
-  "vid": "130",
-  "vname": "インテル",
-  "vcpe": "cpe:/:intel",
-  "pid": "59299",
-  "pname": "xeon e7-8870 v4 ファームウェア",
-  "pcpe": "cpe:/o:intel:xeon_e7-8870_v4_firmware"
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "59299",
+	"pname": "xeon e7-8870 v4 ファームウェア",
+	"pcpe": "cpe:/o:intel:xeon_e7-8870_v4_firmware"
 }

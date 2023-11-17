@@ -1,8 +1,8 @@
 {
-  "vid": "4292",
-  "vname": "Open vSwitch",
-  "vcpe": "cpe:/:openvswitch",
-  "pid": "9178",
-  "pname": "Open vSwitch",
-  "pcpe": "cpe:/a:openvswitch:openvswitch"
+	"vid": "4292",
+	"vname": "Open vSwitch",
+	"vcpe": "cpe:/:openvswitch",
+	"pid": "9178",
+	"pname": "Open vSwitch",
+	"pcpe": "cpe:/a:openvswitch:openvswitch"
 }

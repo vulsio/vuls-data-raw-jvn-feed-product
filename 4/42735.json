@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "42735",
-  "pname": "DeskJet 3630 F5S43A ファームウェア",
-  "pcpe": "cpe:/o:hp:deskjet_3630_f5s43a_firmware"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "42735",
+	"pname": "DeskJet 3630 F5S43A ファームウェア",
+	"pcpe": "cpe:/o:hp:deskjet_3630_f5s43a_firmware"
 }

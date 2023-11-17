@@ -1,8 +1,8 @@
 {
-  "vid": "19422",
-  "vname": "EAI project",
-  "vcpe": "cpe:/:eai_project",
-  "pid": "48915",
-  "pname": "EAI",
-  "pcpe": "cpe:/a:eai_project:eai"
+	"vid": "19422",
+	"vname": "EAI project",
+	"vcpe": "cpe:/:eai_project",
+	"pid": "48915",
+	"pname": "EAI",
+	"pcpe": "cpe:/a:eai_project:eai"
 }

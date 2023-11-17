@@ -1,8 +1,8 @@
 {
-  "vid": "766",
-  "vname": "Schneider Electric",
-  "vcpe": "cpe:/:schneider_electric",
-  "pid": "52620",
-  "pname": "AccuSine PCS+ / PFV+ ファームウェア",
-  "pcpe": "cpe:/o:schneider_electric:accusine_pcsp_pfvp_firmware"
+	"vid": "766",
+	"vname": "Schneider Electric",
+	"vcpe": "cpe:/:schneider_electric",
+	"pid": "52620",
+	"pname": "AccuSine PCS+ / PFV+ ファームウェア",
+	"pcpe": "cpe:/o:schneider_electric:accusine_pcsp_pfvp_firmware"
 }

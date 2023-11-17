@@ -1,8 +1,8 @@
 {
-  "vid": "22",
-  "vname": "The PHP Group",
-  "vcpe": "cpe:/:php",
-  "pid": "12628",
-  "pname": "mysql banner exchange",
-  "pcpe": "cpe:/a:php:mysql_banner_exchange"
+	"vid": "22",
+	"vname": "The PHP Group",
+	"vcpe": "cpe:/:php",
+	"pid": "12628",
+	"pname": "mysql banner exchange",
+	"pcpe": "cpe:/a:php:mysql_banner_exchange"
 }

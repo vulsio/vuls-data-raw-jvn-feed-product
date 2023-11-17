@@ -1,8 +1,8 @@
 {
-  "vid": "19",
-  "vname": "シスコシステムズ",
-  "vcpe": "cpe:/:cisco",
-  "pid": "32378",
-  "pname": "Cisco D9800 Network Transport Receiver ファームウェア",
-  "pcpe": "cpe:/o:cisco:d9800_firmware"
+	"vid": "19",
+	"vname": "シスコシステムズ",
+	"vcpe": "cpe:/:cisco",
+	"pid": "32378",
+	"pname": "Cisco D9800 Network Transport Receiver ファームウェア",
+	"pcpe": "cpe:/o:cisco:d9800_firmware"
 }

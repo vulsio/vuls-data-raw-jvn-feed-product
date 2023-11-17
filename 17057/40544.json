@@ -1,8 +1,8 @@
 {
-  "vid": "17057",
-  "vname": "Michiel van Eerd",
-  "vcpe": "cpe:/:api_bearer_auth_project",
-  "pid": "40544",
-  "pname": "API Bearer Auth",
-  "pcpe": "cpe:/a:api_bearer_auth_project:api_bearer_auth"
+	"vid": "17057",
+	"vname": "Michiel van Eerd",
+	"vcpe": "cpe:/:api_bearer_auth_project",
+	"pid": "40544",
+	"pname": "API Bearer Auth",
+	"pcpe": "cpe:/a:api_bearer_auth_project:api_bearer_auth"
 }

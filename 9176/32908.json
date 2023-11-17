@@ -1,8 +1,8 @@
 {
-  "vid": "9176",
-  "vname": "DrayTek Corporation",
-  "vcpe": "cpe:/:draytek",
-  "pid": "32908",
-  "pname": "VigorAP 910C ファームウェア",
-  "pcpe": "cpe:/o:draytek:ap910c_firmware"
+	"vid": "9176",
+	"vname": "DrayTek Corporation",
+	"vcpe": "cpe:/:draytek",
+	"pid": "32908",
+	"pname": "VigorAP 910C ファームウェア",
+	"pcpe": "cpe:/o:draytek:ap910c_firmware"
 }

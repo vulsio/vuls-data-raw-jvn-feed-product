@@ -1,8 +1,8 @@
 {
-  "vid": "12203",
-  "vname": "Nextcloud",
-  "vcpe": "cpe:/:nextcloud",
-  "pid": "49929",
-  "pname": "Nextcloud Desktop Client",
-  "pcpe": "cpe:/a:nextcloud:desktop"
+	"vid": "12203",
+	"vname": "Nextcloud",
+	"vcpe": "cpe:/:nextcloud",
+	"pid": "49929",
+	"pname": "Nextcloud Desktop Client",
+	"pcpe": "cpe:/a:nextcloud:desktop"
 }

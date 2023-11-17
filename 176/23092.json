@@ -1,8 +1,8 @@
 {
-  "vid": "176",
-  "vname": "アライドテレシス",
-  "vcpe": "cpe:/:allied_telesis_k.k.",
-  "pid": "23092",
-  "pname": "AT-9924Ts ファームウェア",
-  "pcpe": "cpe:/o:allied_telesis_k.k.:at-9924ts_firmware"
+	"vid": "176",
+	"vname": "アライドテレシス",
+	"vcpe": "cpe:/:allied_telesis_k.k.",
+	"pid": "23092",
+	"pname": "AT-9924Ts ファームウェア",
+	"pcpe": "cpe:/o:allied_telesis_k.k.:at-9924ts_firmware"
 }

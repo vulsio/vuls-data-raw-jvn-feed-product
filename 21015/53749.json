@@ -1,8 +1,8 @@
 {
-  "vid": "21015",
-  "vname": "NewSoftwares LLC",
-  "vcpe": "cpe:/:newsoftwares",
-  "pid": "53749",
-  "pname": "Folder Lock",
-  "pcpe": "cpe:/a:newsoftwares:folder_lock"
+	"vid": "21015",
+	"vname": "NewSoftwares LLC",
+	"vcpe": "cpe:/:newsoftwares",
+	"pid": "53749",
+	"pname": "Folder Lock",
+	"pcpe": "cpe:/a:newsoftwares:folder_lock"
 }

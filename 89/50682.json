@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "50682",
-  "pname": "NEC 自動応答",
-  "pcpe": "cpe:/a:nec:auto_rep"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "50682",
+	"pname": "NEC 自動応答",
+	"pcpe": "cpe:/a:nec:auto_rep"
 }

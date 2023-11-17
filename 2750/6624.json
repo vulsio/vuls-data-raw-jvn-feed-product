@@ -1,8 +1,8 @@
 {
-  "vid": "2750",
-  "vname": "cds software consortium",
-  "vcpe": "cpe:/:cds_software_consortium",
-  "pid": "6624",
-  "pname": "invenio",
-  "pcpe": "cpe:/a:cds_software_consortium:invenio"
+	"vid": "2750",
+	"vname": "cds software consortium",
+	"vcpe": "cpe:/:cds_software_consortium",
+	"pid": "6624",
+	"pname": "invenio",
+	"pcpe": "cpe:/a:cds_software_consortium:invenio"
 }

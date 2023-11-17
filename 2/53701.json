@@ -1,8 +1,8 @@
 {
-  "vid": "2",
-  "vname": "マイクロソフト",
-  "vcpe": "cpe:/:microsoft",
-  "pid": "53701",
-  "pname": "Azure Guest Configuration",
-  "pcpe": "cpe:/a:microsoft:azure_guest_configuration"
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "53701",
+	"pname": "Azure Guest Configuration",
+	"pcpe": "cpe:/a:microsoft:azure_guest_configuration"
 }

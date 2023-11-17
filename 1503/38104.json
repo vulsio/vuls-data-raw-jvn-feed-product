@@ -1,8 +1,8 @@
 {
-  "vid": "1503",
-  "vname": "Honeywell International Inc.",
-  "vcpe": "cpe:/:honeywell",
-  "pid": "38104",
-  "pname": "Experion Process Knowledge System (PKS)",
-  "pcpe": "cpe:/a:honeywell:experion_process_knowledge_system"
+	"vid": "1503",
+	"vname": "Honeywell International Inc.",
+	"vcpe": "cpe:/:honeywell",
+	"pid": "38104",
+	"pname": "Experion Process Knowledge System (PKS)",
+	"pcpe": "cpe:/a:honeywell:experion_process_knowledge_system"
 }

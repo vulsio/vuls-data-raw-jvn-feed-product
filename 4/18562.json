@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "18562",
-  "pname": "HP Color LaserJet MFP M575f",
-  "pcpe": "cpe:/h:hp:color_laserjet_m575f"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "18562",
+	"pname": "HP Color LaserJet MFP M575f",
+	"pcpe": "cpe:/h:hp:color_laserjet_m575f"
 }

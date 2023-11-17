@@ -1,8 +1,8 @@
 {
-  "vid": "89",
-  "vname": "日本電気",
-  "vcpe": "cpe:/:nec",
-  "pid": "48660",
-  "pname": "FC-R24W",
-  "pcpe": "cpe:/a:nec:fc-r24w"
+	"vid": "89",
+	"vname": "日本電気",
+	"vcpe": "cpe:/:nec",
+	"pid": "48660",
+	"pname": "FC-R24W",
+	"pcpe": "cpe:/a:nec:fc-r24w"
 }

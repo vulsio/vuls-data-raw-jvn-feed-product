@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "12839",
-  "pname": "IBM WebSphere DataPower Low Latency アプライアンス XM70",
-  "pcpe": "cpe:/h:ibm:websphere_datapower_low_latency_appliance_xm70"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "12839",
+	"pname": "IBM WebSphere DataPower Low Latency アプライアンス XM70",
+	"pcpe": "cpe:/h:ibm:websphere_datapower_low_latency_appliance_xm70"
 }

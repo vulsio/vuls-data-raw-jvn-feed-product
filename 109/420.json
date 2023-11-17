@@ -1,8 +1,8 @@
 {
-  "vid": "109",
-  "vname": "富士通",
-  "vcpe": "cpe:/:fujitsu",
-  "pid": "420",
-  "pname": "ES@SCHOOL",
-  "pcpe": "cpe:/a:fujitsu:es_at_school"
+	"vid": "109",
+	"vname": "富士通",
+	"vcpe": "cpe:/:fujitsu",
+	"pid": "420",
+	"pname": "ES@SCHOOL",
+	"pcpe": "cpe:/a:fujitsu:es_at_school"
 }

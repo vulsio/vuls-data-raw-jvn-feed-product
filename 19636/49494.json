@@ -1,8 +1,8 @@
 {
-  "vid": "19636",
-  "vname": "rusb project",
-  "vcpe": "cpe:/:rusb_project",
-  "pid": "49494",
-  "pname": "rusb",
-  "pcpe": "cpe:/a:rusb_project:rusb"
+	"vid": "19636",
+	"vname": "rusb project",
+	"vcpe": "cpe:/:rusb_project",
+	"pid": "49494",
+	"pname": "rusb",
+	"pcpe": "cpe:/a:rusb_project:rusb"
 }

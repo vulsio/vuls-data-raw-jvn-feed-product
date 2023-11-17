@@ -1,8 +1,8 @@
 {
-  "vid": "216",
-  "vname": "Debian",
-  "vcpe": "cpe:/:debian",
-  "pid": "33183",
-  "pname": "thermald",
-  "pcpe": "cpe:/a:debian:thermald"
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "33183",
+	"pname": "thermald",
+	"pcpe": "cpe:/a:debian:thermald"
 }

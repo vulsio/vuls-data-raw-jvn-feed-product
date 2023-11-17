@@ -1,8 +1,8 @@
 {
-  "vid": "9529",
-  "vname": "SFR",
-  "vcpe": "cpe:/:sfr",
-  "pid": "19660",
-  "pname": "SFR Box ファームウェア",
-  "pcpe": "cpe:/o:sfr:sfr_box_router_firmware"
+	"vid": "9529",
+	"vname": "SFR",
+	"vcpe": "cpe:/:sfr",
+	"pid": "19660",
+	"pname": "SFR Box ファームウェア",
+	"pcpe": "cpe:/o:sfr:sfr_box_router_firmware"
 }

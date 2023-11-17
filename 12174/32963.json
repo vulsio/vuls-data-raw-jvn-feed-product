@@ -1,8 +1,8 @@
 {
-  "vid": "12174",
-  "vname": "Cavium",
-  "vcpe": "cpe:/:cavium",
-  "pid": "32963",
-  "pname": "OCTEON SSL SDK",
-  "pcpe": "cpe:/a:cavium:octeon_ssl_sdk"
+	"vid": "12174",
+	"vname": "Cavium",
+	"vcpe": "cpe:/:cavium",
+	"pid": "32963",
+	"pname": "OCTEON SSL SDK",
+	"pcpe": "cpe:/a:cavium:octeon_ssl_sdk"
 }

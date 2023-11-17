@@ -1,8 +1,8 @@
 {
-  "vid": "4657",
-  "vname": "Huawei",
-  "vcpe": "cpe:/:huawei",
-  "pid": "53780",
-  "pname": "PC Smart Full Scene",
-  "pcpe": "cpe:/a:huawei:pc_smart_full_scene"
+	"vid": "4657",
+	"vname": "Huawei",
+	"vcpe": "cpe:/:huawei",
+	"pid": "53780",
+	"pname": "PC Smart Full Scene",
+	"pcpe": "cpe:/a:huawei:pc_smart_full_scene"
 }

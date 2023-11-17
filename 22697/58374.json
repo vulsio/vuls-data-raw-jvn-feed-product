@@ -1,8 +1,8 @@
 {
-  "vid": "22697",
-  "vname": "weechat",
-  "vcpe": "cpe:/:weechat",
-  "pid": "58374",
-  "pname": "weechat",
-  "pcpe": "cpe:/a:weechat:weechat"
+	"vid": "22697",
+	"vname": "weechat",
+	"vcpe": "cpe:/:weechat",
+	"pid": "58374",
+	"pname": "weechat",
+	"pcpe": "cpe:/a:weechat:weechat"
 }

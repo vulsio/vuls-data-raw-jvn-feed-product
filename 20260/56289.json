@@ -1,8 +1,8 @@
 {
-  "vid": "20260",
-  "vname": "京セラドキュメントソリューションズ",
-  "vcpe": "cpe:/:misc",
-  "pid": "56289",
-  "pname": "Android アプリ「KYOCERA Mobile Print」",
-  "pcpe": "cpe:/a:misc:kyocera_document_solutions_android_kyocera_mobile_print"
+	"vid": "20260",
+	"vname": "京セラドキュメントソリューションズ",
+	"vcpe": "cpe:/:misc",
+	"pid": "56289",
+	"pname": "Android アプリ「KYOCERA Mobile Print」",
+	"pcpe": "cpe:/a:misc:kyocera_document_solutions_android_kyocera_mobile_print"
 }

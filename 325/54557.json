@@ -1,8 +1,8 @@
 {
-  "vid": "325",
-  "vname": "Lenovo",
-  "vcpe": "cpe:/:lenovo",
-  "pid": "54557",
-  "pname": "IdeaCentre Creator 5-14IOB6 ファームウェア",
-  "pcpe": "cpe:/o:lenovo:ideacentre_creator_5-14iob6_firmware"
+	"vid": "325",
+	"vname": "Lenovo",
+	"vcpe": "cpe:/:lenovo",
+	"pid": "54557",
+	"pname": "IdeaCentre Creator 5-14IOB6 ファームウェア",
+	"pcpe": "cpe:/o:lenovo:ideacentre_creator_5-14iob6_firmware"
 }

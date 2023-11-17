@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "40825",
-  "pname": "Assembla",
-  "pcpe": "cpe:/a:jenkins:assembla"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "40825",
+	"pname": "Assembla",
+	"pcpe": "cpe:/a:jenkins:assembla"
 }

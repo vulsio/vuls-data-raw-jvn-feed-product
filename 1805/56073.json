@@ -1,8 +1,8 @@
 {
-  "vid": "1805",
-  "vname": "TP-LINK Technologies",
-  "vcpe": "cpe:/:tp-link",
-  "pid": "56073",
-  "pname": "TL-WR902AC ファームウェア",
-  "pcpe": "cpe:/o:tp-link:tl-wr902ac_firmware"
+	"vid": "1805",
+	"vname": "TP-LINK Technologies",
+	"vcpe": "cpe:/:tp-link",
+	"pid": "56073",
+	"pname": "TL-WR902AC ファームウェア",
+	"pcpe": "cpe:/o:tp-link:tl-wr902ac_firmware"
 }

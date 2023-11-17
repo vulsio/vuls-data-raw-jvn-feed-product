@@ -1,8 +1,8 @@
 {
-  "vid": "12275",
-  "vname": "株式会社三菱東京ＵＦＪ銀行",
-  "vcpe": "cpe:/:mufg",
-  "pid": "27451",
-  "pname": "株式会社三菱東京ＵＦＪ銀行",
-  "pcpe": "cpe:/a:mufg:mitsubishi_ufj"
+	"vid": "12275",
+	"vname": "株式会社三菱東京ＵＦＪ銀行",
+	"vcpe": "cpe:/:mufg",
+	"pid": "27451",
+	"pname": "株式会社三菱東京ＵＦＪ銀行",
+	"pcpe": "cpe:/a:mufg:mitsubishi_ufj"
 }

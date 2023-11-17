@@ -1,8 +1,8 @@
 {
-  "vid": "18441",
-  "vname": "COMMAX",
-  "vcpe": "cpe:/:commax",
-  "pid": "45426",
-  "pname": "CDP-1020MB ファームウェア",
-  "pcpe": "cpe:/a:commax:cdp-1020mb_firmware"
+	"vid": "18441",
+	"vname": "COMMAX",
+	"vcpe": "cpe:/:commax",
+	"pid": "45426",
+	"pname": "CDP-1020MB ファームウェア",
+	"pcpe": "cpe:/a:commax:cdp-1020mb_firmware"
 }

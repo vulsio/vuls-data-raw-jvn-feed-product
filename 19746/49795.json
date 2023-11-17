@@ -1,8 +1,8 @@
 {
-  "vid": "19746",
-  "vname": "ShellCheck project",
-  "vcpe": "cpe:/:shellcheck_project",
-  "pid": "49795",
-  "pname": "ShellCheck",
-  "pcpe": "cpe:/a:shellcheck_project:shellcheck"
+	"vid": "19746",
+	"vname": "ShellCheck project",
+	"vcpe": "cpe:/:shellcheck_project",
+	"pid": "49795",
+	"pname": "ShellCheck",
+	"pcpe": "cpe:/a:shellcheck_project:shellcheck"
 }

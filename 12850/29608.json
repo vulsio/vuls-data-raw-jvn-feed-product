@@ -1,8 +1,8 @@
 {
-  "vid": "12850",
-  "vname": "Apcupsd",
-  "vcpe": "cpe:/:apcupsd",
-  "pid": "29608",
-  "pname": "APC UPS Daemon",
-  "pcpe": "cpe:/a:apcupsd:apc_ups_daemon"
+	"vid": "12850",
+	"vname": "Apcupsd",
+	"vcpe": "cpe:/:apcupsd",
+	"pid": "29608",
+	"pname": "APC UPS Daemon",
+	"pcpe": "cpe:/a:apcupsd:apc_ups_daemon"
 }

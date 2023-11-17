@@ -1,8 +1,8 @@
 {
-  "vid": "419",
-  "vname": "NetApp",
-  "vcpe": "cpe:/:netapp",
-  "pid": "51198",
-  "pname": "NetApp SolidFire Enterprise SDS & HCI Storage Node",
-  "pcpe": "cpe:/a:netapp:solidfire%2c_enterprise_sds_%26_hci_storage_node"
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "51198",
+	"pname": "NetApp SolidFire Enterprise SDS & HCI Storage Node",
+	"pcpe": "cpe:/a:netapp:solidfire%2c_enterprise_sds_%26_hci_storage_node"
 }

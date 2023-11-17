@@ -1,8 +1,8 @@
 {
-  "vid": "4",
-  "vname": "ヒューレット・パッカード",
-  "vcpe": "cpe:/:hp",
-  "pid": "12761",
-  "pname": "HP LaserJet 9050 MFP",
-  "pcpe": "cpe:/h:hp:laserjet_9050_mfp"
+	"vid": "4",
+	"vname": "ヒューレット・パッカード",
+	"vcpe": "cpe:/:hp",
+	"pid": "12761",
+	"pname": "HP LaserJet 9050 MFP",
+	"pcpe": "cpe:/h:hp:laserjet_9050_mfp"
 }

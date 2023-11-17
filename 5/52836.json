@@ -1,8 +1,8 @@
 {
-  "vid": "5",
-  "vname": "クアルコム",
-  "vcpe": "cpe:/:qualcomm",
-  "pid": "52836",
-  "pname": "SD750G ファームウェア",
-  "pcpe": "cpe:/o:qualcomm:sd750g_firmware"
+	"vid": "5",
+	"vname": "クアルコム",
+	"vcpe": "cpe:/:qualcomm",
+	"pid": "52836",
+	"pname": "SD750G ファームウェア",
+	"pcpe": "cpe:/o:qualcomm:sd750g_firmware"
 }

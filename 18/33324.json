@@ -1,8 +1,8 @@
 {
-  "vid": "18",
-  "vname": "IBM",
-  "vcpe": "cpe:/:ibm",
-  "pid": "33324",
-  "pname": "IBM Spectrum Protect for Space Management",
-  "pcpe": "cpe:/a:ibm:spectrum_protect_for_space_management"
+	"vid": "18",
+	"vname": "IBM",
+	"vcpe": "cpe:/:ibm",
+	"pid": "33324",
+	"pname": "IBM Spectrum Protect for Space Management",
+	"pcpe": "cpe:/a:ibm:spectrum_protect_for_space_management"
 }

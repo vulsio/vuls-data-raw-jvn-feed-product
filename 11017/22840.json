@@ -1,8 +1,8 @@
 {
-  "vid": "11017",
-  "vname": "vodafone",
-  "vcpe": "cpe:/:vodafone",
-  "pid": "22840",
-  "pname": "vodafone mobile@work",
-  "pcpe": "cpe:/a:vodafone:vodafone_mobile%40work"
+	"vid": "11017",
+	"vname": "vodafone",
+	"vcpe": "cpe:/:vodafone",
+	"pid": "22840",
+	"pname": "vodafone mobile@work",
+	"pcpe": "cpe:/a:vodafone:vodafone_mobile%40work"
 }

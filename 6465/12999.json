@@ -1,8 +1,8 @@
 {
-  "vid": "6465",
-  "vname": "oki printing solutions",
-  "vcpe": "cpe:/:oki_printing_solutions",
-  "pid": "12999",
-  "pname": "c5510 mfp printer",
-  "pcpe": "cpe:/h:oki_printing_solutions:c5510_mfp_printer"
+	"vid": "6465",
+	"vname": "oki printing solutions",
+	"vcpe": "cpe:/:oki_printing_solutions",
+	"pid": "12999",
+	"pname": "c5510 mfp printer",
+	"pcpe": "cpe:/h:oki_printing_solutions:c5510_mfp_printer"
 }

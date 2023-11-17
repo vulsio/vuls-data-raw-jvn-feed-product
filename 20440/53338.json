@@ -1,8 +1,8 @@
 {
-  "vid": "20440",
-  "vname": "Meow Apps",
-  "vcpe": "cpe:/:meowapps",
-  "pid": "53338",
-  "pname": "Meow Gallery (+ Gallery Block)",
-  "pcpe": "cpe:/a:meowapps:meow_gallery"
+	"vid": "20440",
+	"vname": "Meow Apps",
+	"vcpe": "cpe:/:meowapps",
+	"pid": "53338",
+	"pname": "Meow Gallery (+ Gallery Block)",
+	"pcpe": "cpe:/a:meowapps:meow_gallery"
 }

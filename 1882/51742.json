@@ -1,8 +1,8 @@
 {
-  "vid": "1882",
-  "vname": "ZTE",
-  "vcpe": "cpe:/:zte",
-  "pid": "51742",
-  "pname": "ZXCTN 6120H ファームウェア",
-  "pcpe": "cpe:/o:zte:zxctn_6120h_firmware"
+	"vid": "1882",
+	"vname": "ZTE",
+	"vcpe": "cpe:/:zte",
+	"pid": "51742",
+	"pname": "ZXCTN 6120H ファームウェア",
+	"pcpe": "cpe:/o:zte:zxctn_6120h_firmware"
 }

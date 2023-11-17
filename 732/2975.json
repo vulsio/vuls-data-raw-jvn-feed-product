@@ -1,8 +1,8 @@
 {
-  "vid": "732",
-  "vname": "DAEMON Tools",
-  "vcpe": "cpe:/:daemon-tools",
-  "pid": "2975",
-  "pname": "DAEMON Tools",
-  "pcpe": "cpe:/a:daemon-tools:daemon_tools"
+	"vid": "732",
+	"vname": "DAEMON Tools",
+	"vcpe": "cpe:/:daemon-tools",
+	"pid": "2975",
+	"pname": "DAEMON Tools",
+	"pcpe": "cpe:/a:daemon-tools:daemon_tools"
 }

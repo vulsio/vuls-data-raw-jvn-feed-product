@@ -1,8 +1,8 @@
 {
-  "vid": "2060",
-  "vname": "Advanced Software Production Line",
-  "vcpe": "cpe:/:advanced_software_production_line",
-  "pid": "5570",
-  "pname": "vortex library",
-  "pcpe": "cpe:/a:advanced_software_production_line:vortex_library"
+	"vid": "2060",
+	"vname": "Advanced Software Production Line",
+	"vcpe": "cpe:/:advanced_software_production_line",
+	"pid": "5570",
+	"pname": "vortex library",
+	"pcpe": "cpe:/a:advanced_software_production_line:vortex_library"
 }

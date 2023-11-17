@@ -1,8 +1,8 @@
 {
-  "vid": "4499",
-  "vname": "三菱電機",
-  "vcpe": "cpe:/:mitsubishielectric",
-  "pid": "63079",
-  "pname": "FX3U",
-  "pcpe": "cpe:/o:mitsubishielectric:fx3u"
+	"vid": "4499",
+	"vname": "三菱電機",
+	"vcpe": "cpe:/:mitsubishielectric",
+	"pid": "63079",
+	"pname": "FX3U",
+	"pcpe": "cpe:/o:mitsubishielectric:fx3u"
 }

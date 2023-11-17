@@ -1,8 +1,8 @@
 {
-  "vid": "6577",
-  "vname": "Location module project",
-  "vcpe": "cpe:/:location_module_project",
-  "pid": "13200",
-  "pname": "Location",
-  "pcpe": "cpe:/a:location_module_project:location"
+	"vid": "6577",
+	"vname": "Location module project",
+	"vcpe": "cpe:/:location_module_project",
+	"pid": "13200",
+	"pname": "Location",
+	"pcpe": "cpe:/a:location_module_project:location"
 }

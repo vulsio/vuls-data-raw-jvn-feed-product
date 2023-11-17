@@ -1,8 +1,8 @@
 {
-  "vid": "6486",
-  "vname": "Fultek",
-  "vcpe": "cpe:/:fultek",
-  "pid": "13035",
-  "pname": "WinTr Scada",
-  "pcpe": "cpe:/a:fultek:wintr_scada"
+	"vid": "6486",
+	"vname": "Fultek",
+	"vcpe": "cpe:/:fultek",
+	"pid": "13035",
+	"pname": "WinTr Scada",
+	"pcpe": "cpe:/a:fultek:wintr_scada"
 }

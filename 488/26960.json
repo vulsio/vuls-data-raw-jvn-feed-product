@@ -1,8 +1,8 @@
 {
-  "vid": "488",
-  "vname": "openSUSE project",
-  "vcpe": "cpe:/:opensuse_project",
-  "pid": "26960",
-  "pname": "libstorage-ng",
-  "pcpe": "cpe:/a:opensuse_project:libstorage-ng"
+	"vid": "488",
+	"vname": "openSUSE project",
+	"vcpe": "cpe:/:opensuse_project",
+	"pid": "26960",
+	"pname": "libstorage-ng",
+	"pcpe": "cpe:/a:opensuse_project:libstorage-ng"
 }

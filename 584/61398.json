@@ -1,8 +1,8 @@
 {
-  "vid": "584",
-  "vname": "シーメンス",
-  "vcpe": "cpe:/:siemens",
-  "pid": "61398",
-  "pname": "parasolid",
-  "pcpe": "cpe:/a:siemens:parasolid"
+	"vid": "584",
+	"vname": "シーメンス",
+	"vcpe": "cpe:/:siemens",
+	"pid": "61398",
+	"pname": "parasolid",
+	"pcpe": "cpe:/a:siemens:parasolid"
 }

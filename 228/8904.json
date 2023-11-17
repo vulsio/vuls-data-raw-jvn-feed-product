@@ -1,8 +1,8 @@
 {
-  "vid": "228",
-  "vname": "Fedora Project",
-  "vcpe": "cpe:/:fedoraproject",
-  "pid": "8904",
-  "pname": "commons",
-  "pcpe": "cpe:/o:fedoraproject:commons"
+	"vid": "228",
+	"vname": "Fedora Project",
+	"vcpe": "cpe:/:fedoraproject",
+	"pid": "8904",
+	"pname": "commons",
+	"pcpe": "cpe:/o:fedoraproject:commons"
 }

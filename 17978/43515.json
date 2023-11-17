@@ -1,8 +1,8 @@
 {
-  "vid": "17978",
-  "vname": "openfortivpn project",
-  "vcpe": "cpe:/:openfortivpn_project",
-  "pid": "43515",
-  "pname": "openfortivpn",
-  "pcpe": "cpe:/a:openfortivpn_project:openfortivpn"
+	"vid": "17978",
+	"vname": "openfortivpn project",
+	"vcpe": "cpe:/:openfortivpn_project",
+	"pid": "43515",
+	"pname": "openfortivpn",
+	"pcpe": "cpe:/a:openfortivpn_project:openfortivpn"
 }

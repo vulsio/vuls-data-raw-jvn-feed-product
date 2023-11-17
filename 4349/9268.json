@@ -1,8 +1,8 @@
 {
-  "vid": "4349",
-  "vname": "Mike Peachey",
-  "vcpe": "cpe:/:mike_peachey",
-  "pid": "9268",
-  "pname": "RT::Authen::ExternalAuth",
-  "pcpe": "cpe:/a:mike_peachey:authen%3A%3Aexternalauth"
+	"vid": "4349",
+	"vname": "Mike Peachey",
+	"vcpe": "cpe:/:mike_peachey",
+	"pid": "9268",
+	"pname": "RT::Authen::ExternalAuth",
+	"pcpe": "cpe:/a:mike_peachey:authen%3A%3Aexternalauth"
 }

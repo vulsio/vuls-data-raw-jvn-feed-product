@@ -1,8 +1,8 @@
 {
-  "vid": "12163",
-  "vname": "Jenkins プロジェクト",
-  "vcpe": "cpe:/:jenkins",
-  "pid": "59541",
-  "pname": "random string parameter",
-  "pcpe": "cpe:/a:jenkins:random_string_parameter"
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "59541",
+	"pname": "random string parameter",
+	"pcpe": "cpe:/a:jenkins:random_string_parameter"
 }
