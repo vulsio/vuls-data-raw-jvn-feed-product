@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:dell",
 	"pid": "45521",
 	"pname": "EMC PowerScale OneFS",
-	"pcpe": "cpe:/a:dell:powerscale_onefs"
+	"pcpe": "cpe:/a:dell:emc_powerscale_onefs"
 }

@@ -1,0 +1,8 @@
+{
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "64498",
+	"pname": "baseboard management controller ファームウェア",
+	"pcpe": "cpe:/o:intel:baseboard_management_controller_firmware"
+}

@@ -1,0 +1,8 @@
+{
+	"vid": "1021",
+	"vname": "OpenStack",
+	"vcpe": "cpe:/:openstack",
+	"pid": "65476",
+	"pname": "tripleo ansible",
+	"pcpe": "cpe:/a:openstack:tripleo_ansible"
+}

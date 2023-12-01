@@ -1,8 +1,8 @@
 {
 	"vid": "18198",
 	"vname": "SAE IT-systems",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:sae-it",
 	"pid": "44406",
-	"pname": "FW-50 RTU",
-	"pcpe": "cpe:/a:misc:sae_it-systems_fw-50_rtu"
+	"pname": "SAE-FW-50 ファームウェア",
+	"pcpe": "cpe:/o:sae-it:net-line_fw-50_firmware:net-line_fw-50_firmware"
 }

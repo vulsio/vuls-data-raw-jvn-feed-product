@@ -1,0 +1,8 @@
+{
+	"vid": "12203",
+	"vname": "Nextcloud",
+	"vcpe": "cpe:/:nextcloud",
+	"pid": "65857",
+	"pname": "user oidc",
+	"pcpe": "cpe:/a:nextcloud:user_oidc"
+}

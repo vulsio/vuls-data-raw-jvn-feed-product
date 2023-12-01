@@ -1,8 +1,8 @@
 {
 	"vid": "18269",
 	"vname": "株式会社 XACK",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:xack",
 	"pid": "44764",
 	"pname": "XACK DNS",
-	"pcpe": "cpe:/h:misc:xack_xack_dns"
+	"pcpe": "cpe:/a:xack:xack_dns"
 }

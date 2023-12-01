@@ -1,0 +1,8 @@
+{
+	"vid": "9546",
+	"vname": "Proxmox Server Solutions",
+	"vcpe": "cpe:/:proxmox",
+	"pid": "65761",
+	"pname": "proxmox mail gateway",
+	"pcpe": "cpe:/a:proxmox:proxmox_mail_gateway"
+}

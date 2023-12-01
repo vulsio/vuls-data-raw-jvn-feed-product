@@ -1,0 +1,8 @@
+{
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "66750",
+	"pname": "Windows Firewall",
+	"pcpe": "cpe:/a:microsoft:windows_firewall"
+}

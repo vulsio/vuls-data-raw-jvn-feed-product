@@ -1,8 +1,8 @@
 {
 	"vid": "18473",
 	"vname": "株式会社ニトリホールディングス",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:nitori",
 	"pid": "45540",
 	"pname": "ニトリアプリ",
-	"pcpe": "cpe:/a:misc:nitori_holdings_nitori_applications"
+	"pcpe": "cpe:/a:nitori:nitori"
 }

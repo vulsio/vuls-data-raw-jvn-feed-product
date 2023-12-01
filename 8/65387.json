@@ -1,0 +1,8 @@
+{
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "65387",
+	"pname": "apache-airflow-providers-apache-pinot",
+	"pcpe": "cpe:/a:apache:apache-airflow-providers-apache-pinot"
+}

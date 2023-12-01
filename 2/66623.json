@@ -1,0 +1,8 @@
+{
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "66623",
+	"pname": "Azure Pipelines Agent",
+	"pcpe": "cpe:/a:microsoft:azure_pipelines_agent"
+}

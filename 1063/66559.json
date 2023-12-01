@@ -1,0 +1,8 @@
+{
+	"vid": "1063",
+	"vname": "Splunk",
+	"vcpe": "cpe:/:splunk",
+	"pid": "66559",
+	"pname": "splunk app for stream",
+	"pcpe": "cpe:/a:splunk:splunk_app_for_stream"
+}

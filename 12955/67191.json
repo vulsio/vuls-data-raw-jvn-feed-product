@@ -1,0 +1,8 @@
+{
+	"vid": "12955",
+	"vname": "Kubernetes",
+	"vcpe": "cpe:/:kubernetes",
+	"pid": "67191",
+	"pname": "secrets-store-csi-driver",
+	"pcpe": "cpe:/a:kubernetes:secrets-store-csi-driver"
+}

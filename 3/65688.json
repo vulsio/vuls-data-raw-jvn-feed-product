@@ -1,0 +1,8 @@
+{
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "65688",
+	"pname": "openshift assisted installer",
+	"pcpe": "cpe:/a:redhat:openshift_assisted_installer"
+}

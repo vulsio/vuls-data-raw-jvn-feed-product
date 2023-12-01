@@ -1,0 +1,8 @@
+{
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "65779",
+	"pname": "device-mapper-multipath",
+	"pcpe": "cpe:/a:redhat:device-mapper-multipath"
+}

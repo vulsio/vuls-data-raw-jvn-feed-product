@@ -1,8 +1,8 @@
 {
 	"vid": "18101",
 	"vname": "東芝デバイス＆ストレージ株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:toshiba",
 	"pid": "44088",
 	"pname": "CANVIO SLIM",
-	"pcpe": "cpe:/h:misc:toshiba_electronic_devices_storage_corporation_canvio_slim"
+	"pcpe": "cpe:/h:toshiba:canvio_slim"
 }

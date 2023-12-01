@@ -1,0 +1,8 @@
+{
+	"vid": "25073",
+	"vname": "crossplane",
+	"vcpe": "cpe:/:crossplane",
+	"pid": "65107",
+	"pname": "crossplane-runtime",
+	"pcpe": "cpe:/a:crossplane:crossplane-runtime"
+}

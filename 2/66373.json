@@ -1,0 +1,8 @@
+{
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "66373",
+	"pname": "Azure CLI",
+	"pcpe": "cpe:/a:microsoft:azure_command-line_interface"
+}

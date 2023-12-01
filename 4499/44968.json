@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "44968",
 	"pname": "MELSEC FX シリーズ",
-	"pcpe": "cpe:/a:mitsubishielectric:melsec_fx_series"
+	"pcpe": "cpe:/o:mitsubishielectric:melsec-fx_firmware"
 }

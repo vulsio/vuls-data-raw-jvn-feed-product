@@ -3,6 +3,6 @@
 	"vname": "NetApp",
 	"vcpe": "cpe:/:netapp",
 	"pid": "25928",
-	"pname": "Clustered Data ONTAP",
+	"pname": "ONTAP (旧 Clustered Data ONTAP)",
 	"pcpe": "cpe:/o:netapp:clustered_data_ontap"
 }

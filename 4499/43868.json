@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "43868",
 	"pname": "MELSEC iQ-F シリーズ",
-	"pcpe": "cpe:/a:mitsubishielectric:melsec_iq-f_series"
+	"pcpe": "cpe:/o:mitsubishielectric:melsec_iq-f_firmware"
 }

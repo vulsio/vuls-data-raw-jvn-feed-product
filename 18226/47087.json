@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:br-automation",
 	"pid": "47087",
 	"pname": "GateManager 9250 ファームウェア",
-	"pcpe": "cpe:/a:br-automation:GateManager_9250_firmware"
+	"pcpe": "cpe:/o:br-automation:gatemanager_9250_firmware"
 }

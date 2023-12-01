@@ -1,0 +1,8 @@
+{
+	"vid": "16210",
+	"vname": "Prometheus",
+	"vcpe": "cpe:/:prometheus",
+	"pid": "65732",
+	"pname": "exporter toolkit",
+	"pcpe": "cpe:/a:prometheus:exporter_toolkit"
+}

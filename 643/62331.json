@@ -3,6 +3,6 @@
 	"vname": "デル",
 	"vcpe": "cpe:/:dell",
 	"pid": "62331",
-	"pname": "emc powerscale onefs",
-	"pcpe": "cpe:/o:dell:emc_powerscale_onefs"
+	"pname": "emc powerscale onefs　",
+	"pcpe": "cpe:/o:dell:powerscale_onefs"
 }

@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "64970",
+	"pname": "sourcemonitor",
+	"pcpe": "cpe:/a:jenkins:sourcemonitor"
+}

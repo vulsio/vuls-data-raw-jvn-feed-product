@@ -1,0 +1,8 @@
+{
+	"vid": "12297",
+	"vname": "WooCommerce project",
+	"vcpe": "cpe:/:woocommerce",
+	"pid": "67192",
+	"pname": "stripe payment gateway",
+	"pcpe": "cpe:/a:woocommerce:stripe_payment_gateway"
+}

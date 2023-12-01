@@ -1,0 +1,8 @@
+{
+	"vid": "25269",
+	"vname": "samtools",
+	"vcpe": "cpe:/:samtools",
+	"pid": "65646",
+	"pname": "htsjdk",
+	"pcpe": "cpe:/a:samtools:htsjdk"
+}

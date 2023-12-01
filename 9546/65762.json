@@ -1,0 +1,8 @@
+{
+	"vid": "9546",
+	"vname": "Proxmox Server Solutions",
+	"vcpe": "cpe:/:proxmox",
+	"pid": "65762",
+	"pname": "pve http server",
+	"pcpe": "cpe:/a:proxmox:pve_http_server"
+}

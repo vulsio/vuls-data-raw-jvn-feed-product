@@ -1,0 +1,8 @@
+{
+	"vid": "13344",
+	"vname": "Home Assistant",
+	"vcpe": "cpe:/:home-assistant",
+	"pid": "65031",
+	"pname": "supervisor",
+	"pcpe": "cpe:/a:home-assistant:supervisor"
+}

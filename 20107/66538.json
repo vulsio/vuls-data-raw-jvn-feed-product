@@ -1,0 +1,8 @@
+{
+	"vid": "20107",
+	"vname": "EMQX",
+	"vcpe": "cpe:/:emqx",
+	"pid": "66538",
+	"pname": "nanomq",
+	"pcpe": "cpe:/a:emqx:nanomq"
+}

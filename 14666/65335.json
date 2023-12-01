@@ -1,0 +1,8 @@
+{
+	"vid": "14666",
+	"vname": "Socket.IO",
+	"vcpe": "cpe:/:socket",
+	"pid": "65335",
+	"pname": "engine.io",
+	"pcpe": "cpe:/a:socket:engine.io"
+}

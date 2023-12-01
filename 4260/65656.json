@@ -1,0 +1,8 @@
+{
+	"vid": "4260",
+	"vname": "Linux",
+	"vcpe": "cpe:/:linux",
+	"pid": "65656",
+	"pname": "mptcp protocol",
+	"pcpe": "cpe:/o:linux:mptcp_protocol"
+}

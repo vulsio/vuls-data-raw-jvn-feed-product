@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "43869",
 	"pname": "MELSEC Q シリーズ",
-	"pcpe": "cpe:/a:mitsubishielectric:melsec_q_series"
+	"pcpe": "cpe:/o:mitsubishielectric:melsec-q_firmware"
 }

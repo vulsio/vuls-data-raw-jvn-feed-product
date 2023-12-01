@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:br-automation",
 	"pid": "47088",
 	"pname": "GateManager 8250 ファームウェア",
-	"pcpe": "cpe:/a:br-automation:GateManager_8250_firmware"
+	"pcpe": "cpe:/o:br-automation:gatemanager_8250_firmware"
 }

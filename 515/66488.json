@@ -1,0 +1,8 @@
+{
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "66488",
+	"pname": "Hyperic Agent",
+	"pcpe": "cpe:/a:vmware:hyperic_agent"
+}

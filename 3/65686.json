@@ -1,0 +1,8 @@
+{
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "65686",
+	"pname": "keycloak node.js adapter",
+	"pcpe": "cpe:/a:redhat:keycloak_node.js_adapter"
+}

@@ -1,0 +1,8 @@
+{
+	"vid": "23877",
+	"vname": "snyk",
+	"vcpe": "cpe:/:snyk",
+	"pid": "65725",
+	"pname": "snyk gradle cli",
+	"pcpe": "cpe:/a:snyk:snyk_gradle_cli"
+}

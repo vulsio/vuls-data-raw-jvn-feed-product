@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:br-automation",
 	"pid": "47086",
 	"pname": "GateManager 4260 ファームウェア",
-	"pcpe": "cpe:/a:br-automation:GateManager_4260_firmware"
+	"pcpe": "cpe:/o:br-automation:gatemanager_4260_firmware"
 }

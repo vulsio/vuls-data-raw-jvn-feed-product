@@ -1,8 +1,8 @@
 {
 	"vid": "18385",
 	"vname": "Social Rocket",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:wpsocialrocket",
 	"pid": "45221",
 	"pname": "Social Sharing Plugin",
-	"pcpe": "cpe:/a:misc:Social_Rocket_Social_Sharing_Plugin"
+	"pcpe": "cpe:/a:wpsocialrocket:social_sharing"
 }

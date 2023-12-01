@@ -1,0 +1,8 @@
+{
+	"vid": "591",
+	"vname": "Zabbix",
+	"vcpe": "cpe:/:zabbix",
+	"pid": "67141",
+	"pname": "web service report generation",
+	"pcpe": "cpe:/a:zabbix:web_service_report_generation"
+}

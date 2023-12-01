@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "43871",
 	"pname": "MELSEC L シリーズ",
-	"pcpe": "cpe:/a:mitsubishielectric:melsec_l_series"
+	"pcpe": "cpe:/o:mitsubishielectric:melsec-l_firmware"
 }

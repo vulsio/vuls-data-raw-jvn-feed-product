@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "65832",
+	"pname": "octoperf load testing",
+	"pcpe": "cpe:/a:jenkins:octoperf_load_testing"
+}

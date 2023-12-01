@@ -1,0 +1,8 @@
+{
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "66174",
+	"pname": "airflow hive provider",
+	"pcpe": "cpe:/a:apache:airflow_hive_provider"
+}

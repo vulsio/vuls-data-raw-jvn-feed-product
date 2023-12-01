@@ -1,8 +1,8 @@
 {
 	"vid": "17869",
 	"vname": "株式会社 JALインフォテック",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:jalinfotec",
 	"pid": "43110",
 	"pname": "PALLET CONTROL",
-	"pcpe": "cpe:/a:misc:jalinfotec_palletcontrol"
+	"pcpe": "cpe:/a:jalinfotec:pallet_control"
 }

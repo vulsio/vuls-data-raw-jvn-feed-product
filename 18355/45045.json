@@ -1,8 +1,8 @@
 {
 	"vid": "18355",
 	"vname": "株式会社メルカリ",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:mercari",
 	"pid": "45045",
 	"pname": "メルカリ",
-	"pcpe": "cpe:/a:misc:mercari_mercari"
+	"pcpe": "cpe:/a:mercari:mercari"
 }

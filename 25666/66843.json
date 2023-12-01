@@ -1,0 +1,8 @@
+{
+	"vid": "25666",
+	"vname": "delete all comments project",
+	"vcpe": "cpe:/:delete_all_comments_project",
+	"pid": "66843",
+	"pname": "delete all comments",
+	"pcpe": "cpe:/a:delete_all_comments_project:delete_all_comments"
+}

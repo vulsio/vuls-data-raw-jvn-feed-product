@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "67246",
+	"pname": "aws codecommit trigger",
+	"pcpe": "cpe:/a:jenkins:aws_codecommit_trigger"
+}

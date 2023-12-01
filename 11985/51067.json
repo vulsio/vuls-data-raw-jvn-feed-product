@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:arm",
 	"pid": "51067",
 	"pname": "Midgard GPU Kernel Driver",
-	"pcpe": "cpe:/a:arm:midguard_gpu_kernel_driver"
+	"pcpe": "cpe:/a:arm:midgard_gpu_kernel_driver"
 }

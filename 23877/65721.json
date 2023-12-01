@@ -1,0 +1,8 @@
+{
+	"vid": "23877",
+	"vname": "snyk",
+	"vcpe": "cpe:/:snyk",
+	"pid": "65721",
+	"pname": "snyk language server",
+	"pcpe": "cpe:/a:snyk:snyk_language_server"
+}

@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "64977",
+	"pname": "cloudbees docker hub/registry notification",
+	"pcpe": "cpe:/a:jenkins:cloudbees_docker_hub%2Fregistry_notification"
+}

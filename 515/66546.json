@@ -1,0 +1,8 @@
+{
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "66546",
+	"pname": "Cloudfoundry Manifest YML Support",
+	"pcpe": "cpe:/a:vmware:cloudfoundry_manifest_yml_support"
+}

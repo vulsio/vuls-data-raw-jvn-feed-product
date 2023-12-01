@@ -1,8 +1,8 @@
 {
 	"vid": "18466",
 	"vname": "株式会社カジトリ",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:kajitori",
 	"pid": "45518",
 	"pname": "Exment",
-	"pcpe": "cpe:/a:misc:kajitori_exment"
+	"pcpe": "cpe:/a:kajitori:exment"
 }

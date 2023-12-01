@@ -1,0 +1,8 @@
+{
+	"vid": "25478",
+	"vname": "sqlite jdbc project",
+	"vcpe": "cpe:/:sqlite_jdbc_project",
+	"pid": "66299",
+	"pname": "sqlite jdbc",
+	"pcpe": "cpe:/a:sqlite_jdbc_project:sqlite_jdbc"
+}

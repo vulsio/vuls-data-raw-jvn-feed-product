@@ -1,0 +1,8 @@
+{
+	"vid": "25568",
+	"vname": "goreleaser",
+	"vcpe": "cpe:/:goreleaser",
+	"pid": "66552",
+	"pname": "nfpm",
+	"pcpe": "cpe:/a:goreleaser:nfpm"
+}

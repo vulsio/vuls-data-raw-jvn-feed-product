@@ -1,8 +1,8 @@
 {
 	"vid": "18632",
 	"vname": "NEXCOM International Co., Ltd.",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:nexcom",
 	"pid": "46095",
-	"pname": "NIO 50",
-	"pcpe": "cpe:/a:misc:nexcom_nio50"
+	"pname": "NIO 50 ファームウェア",
+	"pcpe": "cpe:/o:nexcom:nio_50_firmware"
 }

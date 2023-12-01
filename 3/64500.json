@@ -1,0 +1,8 @@
+{
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "64500",
+	"pname": "codeready linux builder for arm64 eus",
+	"pcpe": "cpe:/a:redhat:codeready_linux_builder_for_arm64_eus"
+}

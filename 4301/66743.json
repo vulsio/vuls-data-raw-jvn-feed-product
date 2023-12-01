@@ -1,0 +1,8 @@
+{
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "66743",
+	"pname": "cloudwatch agent",
+	"pcpe": "cpe:/a:amazon:cloudwatch_agent"
+}

@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:docker",
 	"pid": "44081",
 	"pname": "Docker Desktop",
-	"pcpe": "cpe:/a:docker:desktop"
+	"pcpe": "cpe:/a:docker:docker_desktop"
 }

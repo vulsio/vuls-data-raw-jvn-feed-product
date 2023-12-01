@@ -1,0 +1,8 @@
+{
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "66495",
+	"pname": "airflow cncf kubernetes",
+	"pcpe": "cpe:/a:apache:airflow_cncf_kubernetes"
+}

@@ -1,0 +1,8 @@
+{
+	"vid": "19701",
+	"vname": "Datadog",
+	"vcpe": "cpe:/:datadoghq",
+	"pid": "67284",
+	"pname": "guarddog",
+	"pcpe": "cpe:/a:datadoghq:guarddog"
+}

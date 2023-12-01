@@ -1,0 +1,8 @@
+{
+	"vid": "23877",
+	"vname": "snyk",
+	"vcpe": "cpe:/:snyk",
+	"pid": "64791",
+	"pname": "kubernetes monitor",
+	"pcpe": "cpe:/a:snyk:kubernetes_monitor"
+}

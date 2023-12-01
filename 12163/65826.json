@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "65826",
+	"pname": "performance publisher",
+	"pcpe": "cpe:/a:jenkins:performance_publisher"
+}

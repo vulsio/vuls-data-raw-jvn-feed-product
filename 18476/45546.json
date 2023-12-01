@@ -1,8 +1,8 @@
 {
 	"vid": "18476",
 	"vname": "Diebold Nixdorf",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:dieboldnixdorf",
 	"pid": "45546",
 	"pname": "Wincor Probase",
-	"pcpe": "cpe:/o:misc:diebold_nixdorf_wincor_probase"
+	"pcpe": "cpe:/a:dieboldnixdorf:probase"
 }

@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "64969",
+	"pname": "osf builder suite :: xml linter",
+	"pcpe": "cpe:/a:jenkins:osf_builder_suite_%3A%3A_xml_linter"
+}

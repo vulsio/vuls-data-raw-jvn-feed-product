@@ -3,6 +3,6 @@
 	"vname": "シャープ株式会社",
 	"vcpe": "cpe:/:sharp",
 	"pid": "44149",
-	"pname": "AQUOS sense (UQ mobile)",
-	"pcpe": "cpe:/h:sharp:aquos_sense_uq_mobile"
+	"pname": "AQUOS sense",
+	"pcpe": "cpe:/o:sharp:aquos_sense_firmware"
 }

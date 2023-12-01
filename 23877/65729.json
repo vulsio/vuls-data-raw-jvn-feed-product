@@ -1,0 +1,8 @@
+{
+	"vid": "23877",
+	"vname": "snyk",
+	"vcpe": "cpe:/:snyk",
+	"pid": "65729",
+	"pname": "snyk sbt cli",
+	"pcpe": "cpe:/a:snyk:snyk_sbt_cli"
+}
