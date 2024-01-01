@@ -1,0 +1,8 @@
+{
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "68044",
+	"pname": "connectx ファームウェア",
+	"pcpe": "cpe:/o:nvidia:connectx_firmware"
+}

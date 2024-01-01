@@ -1,0 +1,8 @@
+{
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "67932",
+	"pname": "apache-airflow-providers-jdbc",
+	"pcpe": "cpe:/a:apache:apache-airflow-providers-jdbc"
+}

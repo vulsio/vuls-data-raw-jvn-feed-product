@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "68746",
+	"pname": "saml single sign on",
+	"pcpe": "cpe:/a:jenkins:saml_single_sign_on"
+}

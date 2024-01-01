@@ -1,8 +1,8 @@
 {
 	"vid": "18893",
 	"vname": "EikiSoft",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:eikisoft",
 	"pid": "47155",
 	"pname": "書庫一括操作ユーティリティ",
-	"pcpe": "cpe:/a:misc:eikisoft_archive_collectively_operation_utility"
+	"pcpe": "cpe:/a:eikisoft:archive_collectively_operation_utility"
 }

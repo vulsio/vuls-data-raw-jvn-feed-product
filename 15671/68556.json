@@ -1,0 +1,8 @@
+{
+	"vid": "15671",
+	"vname": "Lightbend",
+	"vcpe": "cpe:/:lightbend",
+	"pid": "68556",
+	"pname": "akka actor",
+	"pcpe": "cpe:/a:lightbend:akka_actor"
+}

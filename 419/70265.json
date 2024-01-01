@@ -1,0 +1,8 @@
+{
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "70265",
+	"pname": "ontap tools",
+	"pcpe": "cpe:/a:netapp:ontap_tools"
+}

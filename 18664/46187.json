@@ -1,8 +1,8 @@
 {
 	"vid": "18664",
 	"vname": "Real Time Automation",
-	"vcpe": "cpe:/:real_time_automation",
+	"vcpe": "cpe:/:rtautomation",
 	"pid": "46187",
 	"pname": "499ES EtherNet/IP Adaptor Source Code",
-	"pcpe": "cpe:/o:real_time_automation:499es_ethernet%2fip_adaptor_firmware"
+	"pcpe": "cpe:/o:rtautomation:499es_ethernet%2fip_adaptor_firmware"
 }

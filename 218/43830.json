@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:yamaha",
 	"pid": "43830",
 	"pname": "NVR510",
-	"pcpe": "cpe:/h:yamaha:nvr510"
+	"pcpe": "cpe:/o:yamaha:nvr510_firmware"
 }

@@ -1,0 +1,8 @@
+{
+	"vid": "16191",
+	"vname": "Elasticsearch B.V.",
+	"vcpe": "cpe:/:elastic",
+	"pid": "70658",
+	"pname": "elastic apm server",
+	"pcpe": "cpe:/a:elastic:elastic_apm_server"
+}

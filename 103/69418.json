@@ -1,0 +1,8 @@
+{
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "69418",
+	"pname": "cumulus linux",
+	"pcpe": "cpe:/o:nvidia:cumulus_linux"
+}

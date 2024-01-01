@@ -1,0 +1,8 @@
+{
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "69613",
+	"pname": "apache-airflow-providers-microsoft-mssql",
+	"pcpe": "cpe:/a:apache:apache-airflow-providers-microsoft-mssql"
+}

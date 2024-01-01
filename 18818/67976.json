@@ -1,0 +1,8 @@
+{
+	"vid": "18818",
+	"vname": "Cloudflare, Inc.",
+	"vcpe": "cpe:/:cloudflare",
+	"pid": "67976",
+	"pname": "lua-resty-json",
+	"pcpe": "cpe:/a:cloudflare:lua-resty-json"
+}

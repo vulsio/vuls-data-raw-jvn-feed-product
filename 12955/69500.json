@@ -1,0 +1,8 @@
+{
+	"vid": "12955",
+	"vname": "Kubernetes",
+	"vcpe": "cpe:/:kubernetes",
+	"pid": "69500",
+	"pname": "kube-apiserver",
+	"pcpe": "cpe:/a:kubernetes:kube-apiserver"
+}

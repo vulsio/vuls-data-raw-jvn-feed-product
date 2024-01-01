@@ -1,0 +1,8 @@
+{
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "70513",
+	"pname": "airflow celery provider",
+	"pcpe": "cpe:/a:apache:airflow_celery_provider"
+}

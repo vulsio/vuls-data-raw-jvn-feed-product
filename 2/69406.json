@@ -1,0 +1,8 @@
+{
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "69406",
+	"pname": "Azure Connected Machine Agent",
+	"pcpe": "cpe:/a:microsoft:azure_connected_machine_agent"
+}

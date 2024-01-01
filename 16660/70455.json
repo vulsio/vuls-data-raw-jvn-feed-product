@@ -1,0 +1,8 @@
+{
+	"vid": "16660",
+	"vname": "Arduino",
+	"vcpe": "cpe:/:arduino",
+	"pid": "70455",
+	"pname": "create agent",
+	"pcpe": "cpe:/a:arduino:create_agent"
+}

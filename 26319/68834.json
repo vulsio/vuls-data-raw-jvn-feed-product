@@ -1,0 +1,8 @@
+{
+	"vid": "26319",
+	"vname": "huggingface",
+	"vcpe": "cpe:/:huggingface",
+	"pid": "68834",
+	"pname": "transformers",
+	"pcpe": "cpe:/a:huggingface:transformers"
+}

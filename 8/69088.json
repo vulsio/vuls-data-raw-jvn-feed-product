@@ -1,0 +1,8 @@
+{
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "69088",
+	"pname": "airflow sqoop provider",
+	"pcpe": "cpe:/a:apache:airflow_sqoop_provider"
+}

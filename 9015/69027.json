@@ -1,0 +1,8 @@
+{
+	"vid": "9015",
+	"vname": "MongoDB Inc.",
+	"vcpe": "cpe:/:mongodb",
+	"pid": "69027",
+	"pname": "php driver",
+	"pcpe": "cpe:/a:mongodb:php_driver"
+}

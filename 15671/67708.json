@@ -1,0 +1,8 @@
+{
+	"vid": "15671",
+	"vname": "Lightbend",
+	"vcpe": "cpe:/:lightbend",
+	"pid": "67708",
+	"pname": "alpakka kafka",
+	"pcpe": "cpe:/a:lightbend:alpakka_kafka"
+}

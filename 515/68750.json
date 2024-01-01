@@ -1,0 +1,8 @@
+{
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "68750",
+	"pname": "greenplum database",
+	"pcpe": "cpe:/a:vmware:greenplum_database"
+}

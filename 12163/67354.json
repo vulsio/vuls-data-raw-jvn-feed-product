@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "67354",
+	"pname": "quay.io trigger",
+	"pcpe": "cpe:/a:jenkins:quay.io_trigger"
+}

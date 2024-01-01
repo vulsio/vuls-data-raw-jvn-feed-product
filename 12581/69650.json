@@ -1,0 +1,8 @@
+{
+	"vid": "12581",
+	"vname": "NixOS",
+	"vcpe": "cpe:/:nixos_project",
+	"pid": "69650",
+	"pname": "calamares-nixos-extensions",
+	"pcpe": "cpe:/a:nixos_project:calamares-nixos-extensions"
+}

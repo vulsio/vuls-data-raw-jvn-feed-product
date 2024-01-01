@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:yamaha",
 	"pid": "43831",
 	"pname": "RTX830",
-	"pcpe": "cpe:/h:yamaha:rtx830"
+	"pcpe": "cpe:/o:yamaha:rtx830_firmware"
 }

@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:yamaha",
 	"pid": "1871",
 	"pname": "RTX1200",
-	"pcpe": "cpe:/h:yamaha:rtx1200"
+	"pcpe": "cpe:/o:yamaha:rtx1200_firmware"
 }

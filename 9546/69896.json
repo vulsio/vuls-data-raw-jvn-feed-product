@@ -1,0 +1,8 @@
+{
+	"vid": "9546",
+	"vname": "Proxmox Server Solutions",
+	"vcpe": "cpe:/:proxmox",
+	"pid": "69896",
+	"pname": "backup server",
+	"pcpe": "cpe:/a:proxmox:backup_server"
+}

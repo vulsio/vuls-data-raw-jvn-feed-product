@@ -3,6 +3,6 @@
 	"vname": "日本ナショナルインスツルメンツ",
 	"vcpe": "cpe:/:ni",
 	"pid": "46229",
-	"pname": "CompactRIO",
-	"pcpe": "cpe:/a:ni:compactrio"
+	"pname": "CompactRIO ファームウエア",
+	"pcpe": "cpe:/o:ni:compactrio_firmware"
 }

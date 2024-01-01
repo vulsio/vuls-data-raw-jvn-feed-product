@@ -1,0 +1,8 @@
+{
+	"vid": "11337",
+	"vname": "Ping Identity",
+	"vcpe": "cpe:/:pingidentity",
+	"pid": "67725",
+	"pname": "radius pcv",
+	"pcpe": "cpe:/a:pingidentity:radius_pcv"
+}

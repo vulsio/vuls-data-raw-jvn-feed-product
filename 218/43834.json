@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:yamaha",
 	"pid": "43834",
 	"pname": "RTX5000",
-	"pcpe": "cpe:/h:yamaha:RTX5000"
+	"pcpe": "cpe:/o:yamaha:rtx5000_firmware"
 }

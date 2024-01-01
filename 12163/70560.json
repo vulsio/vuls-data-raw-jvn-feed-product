@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "70560",
+	"pname": "msteams webhook trigger",
+	"pcpe": "cpe:/a:jenkins:msteams_webhook_trigger"
+}

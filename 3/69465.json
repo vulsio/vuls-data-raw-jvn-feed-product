@@ -1,0 +1,8 @@
+{
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "69465",
+	"pname": "openshift container platform for arm64",
+	"pcpe": "cpe:/a:redhat:openshift_container_platform_for_arm64"
+}

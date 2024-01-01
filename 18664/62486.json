@@ -1,8 +1,8 @@
 {
 	"vid": "18664",
 	"vname": "Real Time Automation",
-	"vcpe": "cpe:/:real_time_automation",
+	"vcpe": "cpe:/:rtautomation",
 	"pid": "62486",
 	"pname": "460 Series",
-	"pcpe": "cpe:/a:real_time_automation:460_series"
+	"pcpe": "cpe:/a:rtautomation:460_series"
 }

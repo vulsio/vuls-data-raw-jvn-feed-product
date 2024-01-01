@@ -1,0 +1,8 @@
+{
+	"vid": "26113",
+	"vname": "gitlab::api::v4 project",
+	"vcpe": "cpe:/:gitlab%3A%3Aapi%3A%3Av4_project",
+	"pid": "68074",
+	"pname": "gitlab::api::v4",
+	"pcpe": "cpe:/a:gitlab%3A%3Aapi%3A%3Av4_project:gitlab%3A%3Aapi%3A%3Av4"
+}

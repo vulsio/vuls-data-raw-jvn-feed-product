@@ -1,0 +1,8 @@
+{
+	"vid": "7707",
+	"vname": "snowflake",
+	"vcpe": "cpe:/:snowflake",
+	"pid": "67427",
+	"pname": "snowflake jdbc",
+	"pcpe": "cpe:/a:snowflake:snowflake_jdbc"
+}

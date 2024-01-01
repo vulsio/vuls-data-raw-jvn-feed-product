@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "67353",
+	"pname": "assembla merge request builder",
+	"pcpe": "cpe:/a:jenkins:assembla_merge_request_builder"
+}

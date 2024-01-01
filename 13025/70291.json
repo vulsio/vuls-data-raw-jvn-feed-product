@@ -1,0 +1,8 @@
+{
+	"vid": "13025",
+	"vname": "NXP Semiconductors",
+	"vcpe": "cpe:/:nxp",
+	"pid": "70291",
+	"pname": "uboot secondary program loader",
+	"pcpe": "cpe:/o:nxp:uboot_secondary_program_loader"
+}

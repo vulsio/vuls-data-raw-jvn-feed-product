@@ -3,6 +3,6 @@
 	"vname": "三菱電機",
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "46218",
-	"pname": "LE7-40GU-L",
-	"pcpe": "cpe:/o:mitsubishielectric:le7_40gu_l"
+	"pname": "LE7-40GU-L ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:le7-40gu-l_firmware"
 }

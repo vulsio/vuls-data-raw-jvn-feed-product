@@ -1,0 +1,8 @@
+{
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "68527",
+	"pname": "i915 graphics",
+	"pcpe": "cpe:/a:intel:i915_graphics"
+}

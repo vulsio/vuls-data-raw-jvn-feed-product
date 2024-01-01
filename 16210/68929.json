@@ -1,0 +1,8 @@
+{
+	"vid": "16210",
+	"vname": "Prometheus",
+	"vcpe": "cpe:/:prometheus",
+	"pid": "68929",
+	"pname": "alertmanager",
+	"pcpe": "cpe:/a:prometheus:alertmanager"
+}

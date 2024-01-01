@@ -1,0 +1,8 @@
+{
+	"vid": "496",
+	"vname": "F5 Networks",
+	"vcpe": "cpe:/:f5",
+	"pid": "67716",
+	"pname": "BIG-IP Next SPK",
+	"pcpe": "cpe:/a:f5:big-ip_next_service_proxy_for_kubernetes"
+}

@@ -1,8 +1,8 @@
 {
 	"vid": "18694",
 	"vname": "Host Engineering",
-	"vcpe": "cpe:/:hostengineering",
+	"vcpe": "cpe:/:hosteng",
 	"pid": "46310",
 	"pname": "H0-ECOM100 モジュール",
-	"pcpe": "cpe:/a:hostengineering:h0_ecom100"
+	"pcpe": "cpe:/o:hosteng:h0-ecom100_firmware"
 }

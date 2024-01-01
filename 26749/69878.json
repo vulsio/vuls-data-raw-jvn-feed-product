@@ -1,0 +1,8 @@
+{
+	"vid": "26749",
+	"vname": "remove/hide author, date, category project",
+	"vcpe": "cpe:/:remove%2Fhide_author%2C_date%2C_category_project",
+	"pid": "69878",
+	"pname": "remove/hide author, date, category like entry-meta",
+	"pcpe": "cpe:/a:remove%2Fhide_author%2C_date%2C_category_project:remove%2Fhide_author%2C_date%2C_category_like_entry-meta"
+}

@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "70561",
+	"pname": "multibranch scan webhook trigger",
+	"pcpe": "cpe:/a:jenkins:multibranch_scan_webhook_trigger"
+}

@@ -1,0 +1,8 @@
+{
+	"vid": "11340",
+	"vname": "Malwarebytes",
+	"vcpe": "cpe:/:malwarebytes",
+	"pid": "69637",
+	"pname": "anti-exploit",
+	"pcpe": "cpe:/a:malwarebytes:anti-exploit"
+}

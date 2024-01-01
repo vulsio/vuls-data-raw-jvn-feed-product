@@ -1,0 +1,8 @@
+{
+	"vid": "26636",
+	"vname": "pytorch",
+	"vcpe": "cpe:/:pytorch",
+	"pid": "69597",
+	"pname": "torchserve",
+	"pcpe": "cpe:/a:pytorch:torchserve"
+}

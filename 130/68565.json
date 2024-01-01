@@ -1,0 +1,8 @@
+{
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "68565",
+	"pname": "oneapi deep neural network library",
+	"pcpe": "cpe:/a:intel:oneapi_deep_neural_network_library"
+}

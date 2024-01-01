@@ -3,6 +3,6 @@
 	"vname": "VMware",
 	"vcpe": "cpe:/:vmware",
 	"pid": "25212",
-	"pname": "VMware vRealize Operations",
+	"pname": "VMware Aria Operations (旧 vRealize Operations)",
 	"pcpe": "cpe:/a:vmware:vrealize_operations"
 }

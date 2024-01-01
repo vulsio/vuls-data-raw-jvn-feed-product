@@ -1,8 +1,8 @@
 {
 	"vid": "12167",
 	"vname": "WECON Technology Co., Ltd.",
-	"vcpe": "cpe:/:wecon",
+	"vcpe": "cpe:/:we-con",
 	"pid": "36132",
 	"pname": "WECON PLC Editor",
-	"pcpe": "cpe:/a:wecon:plc_editor"
+	"pcpe": "cpe:/a:we-con:plc_editor"
 }

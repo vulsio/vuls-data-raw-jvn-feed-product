@@ -1,0 +1,8 @@
+{
+	"vid": "26369",
+	"vname": "borgbackup",
+	"vcpe": "cpe:/:borgbackup",
+	"pid": "68915",
+	"pname": "borg",
+	"pcpe": "cpe:/a:borgbackup:borg"
+}

@@ -1,0 +1,8 @@
+{
+	"vid": "4301",
+	"vname": "Amazon.com, Inc.",
+	"vcpe": "cpe:/:amazon",
+	"pid": "67630",
+	"pname": "aws-sigv4",
+	"pcpe": "cpe:/a:amazon:aws-sigv4"
+}

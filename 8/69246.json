@@ -1,0 +1,8 @@
+{
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "69246",
+	"pname": "airflow hdfs provider",
+	"pcpe": "cpe:/a:apache:airflow_hdfs_provider"
+}

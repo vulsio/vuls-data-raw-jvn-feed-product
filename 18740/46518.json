@@ -1,8 +1,8 @@
 {
 	"vid": "18740",
 	"vname": "SOOIL Developments Co., Ltd",
-	"vcpe": "cpe:/:sooil_developments",
+	"vcpe": "cpe:/:sooil",
 	"pid": "46518",
-	"pname": "AnyDana-A",
-	"pcpe": "cpe:/a:sooil_developments:anydana-a"
+	"pname": "AnyDana-A ファームウェア",
+	"pcpe": "cpe:/o:sooil:anydana-a_firmware"
 }

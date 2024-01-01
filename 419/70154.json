@@ -1,0 +1,8 @@
+{
+	"vid": "419",
+	"vname": "NetApp",
+	"vcpe": "cpe:/:netapp",
+	"pid": "70154",
+	"pname": "ontap antivirus connector",
+	"pcpe": "cpe:/a:netapp:ontap_antivirus_connector"
+}

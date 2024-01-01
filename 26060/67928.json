@@ -1,0 +1,8 @@
+{
+	"vid": "26060",
+	"vname": "orthanc-server",
+	"vcpe": "cpe:/:orthanc-server",
+	"pid": "67928",
+	"pname": "orthanc",
+	"pcpe": "cpe:/a:orthanc-server:orthanc"
+}

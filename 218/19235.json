@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:yamaha",
 	"pid": "19235",
 	"pname": "FWX120",
-	"pcpe": "cpe:/h:yamaha:fwx120"
+	"pcpe": "cpe:/o:yamaha:fwx120_firmware"
 }

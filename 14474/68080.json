@@ -1,0 +1,8 @@
+{
+	"vid": "14474",
+	"vname": "fastify",
+	"vcpe": "cpe:/:fastify",
+	"pid": "68080",
+	"pname": "csrf-protection",
+	"pcpe": "cpe:/a:fastify:csrf-protection"
+}

@@ -1,0 +1,8 @@
+{
+	"vid": "23411",
+	"vname": "OpenPrinting",
+	"vcpe": "cpe:/:openprinting",
+	"pid": "69567",
+	"pname": "libppd",
+	"pcpe": "cpe:/a:openprinting:libppd"
+}

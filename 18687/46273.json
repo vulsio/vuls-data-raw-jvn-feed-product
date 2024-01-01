@@ -1,8 +1,8 @@
 {
 	"vid": "18687",
 	"vname": "Ethernut Software",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:ethernut",
 	"pid": "46273",
 	"pname": "Nut/Net",
-	"pcpe": "cpe:/o:misc:ethernut_software_nut_net"
+	"pcpe": "cpe:/o:ethernut:nut%2fos"
 }

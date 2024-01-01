@@ -1,0 +1,8 @@
+{
+	"vid": "26955",
+	"vname": "babeljs",
+	"vcpe": "cpe:/:babeljs",
+	"pid": "70423",
+	"pname": "babel-plugin-polyfill-regenerator",
+	"pcpe": "cpe:/a:babeljs:babel-plugin-polyfill-regenerator"
+}

@@ -1,8 +1,8 @@
 {
 	"vid": "18686",
 	"vname": "FNET",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:butok",
 	"pid": "46272",
 	"pname": "FNET",
-	"pcpe": "cpe:/o:misc:fnet_fnet"
+	"pcpe": "cpe:/o:butok:fnet"
 }

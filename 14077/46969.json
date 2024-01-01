@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:necplatforms",
 	"pid": "46969",
 	"pname": "SL2100",
-	"pcpe": "cpe:/a:necplatforms:sl2100"
+	"pcpe": "cpe:/o:necplatforms:sl2100_firmware"
 }

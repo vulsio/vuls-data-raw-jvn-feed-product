@@ -1,8 +1,8 @@
 {
 	"vid": "12167",
 	"vname": "WECON Technology Co., Ltd.",
-	"vcpe": "cpe:/:wecon",
+	"vcpe": "cpe:/:we-con",
 	"pid": "36191",
 	"pname": "PI Studio",
-	"pcpe": "cpe:/a:wecon:pi_studio"
+	"pcpe": "cpe:/a:we-con:pi_studio"
 }

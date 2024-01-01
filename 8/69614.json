@@ -1,0 +1,8 @@
+{
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "69614",
+	"pname": "apache-airflow-providers-odbc",
+	"pcpe": "cpe:/a:apache:apache-airflow-providers-odbc"
+}
