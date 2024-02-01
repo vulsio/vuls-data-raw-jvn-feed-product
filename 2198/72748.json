@@ -1,0 +1,8 @@
+{
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "72748",
+	"pname": "epyc embedded 3201 ファームウェア",
+	"pcpe": "cpe:/o:amd:epyc_embedded_3201_firmware"
+}

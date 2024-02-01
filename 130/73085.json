@@ -1,0 +1,8 @@
+{
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "73085",
+	"pname": "optimization for tensorflow",
+	"pcpe": "cpe:/a:intel:optimization_for_tensorflow"
+}

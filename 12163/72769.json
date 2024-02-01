@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "72769",
+	"pname": "benchmark evaluator",
+	"pcpe": "cpe:/a:jenkins:benchmark_evaluator"
+}

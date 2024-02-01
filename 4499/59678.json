@@ -3,6 +3,6 @@
 	"vname": "三菱電機",
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "59678",
-	"pname": "M720VS",
-	"pcpe": "cpe:/o:mitsubishielectric:m720vs"
+	"pname": "M720VS ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:m720vs_firmware"
 }

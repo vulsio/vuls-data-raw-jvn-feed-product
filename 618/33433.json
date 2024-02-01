@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:advantech",
 	"pid": "33433",
 	"pname": "WebAccess/HMI",
-	"pcpe": "cpe:/a:advantech:webaccess_hmi_designer"
+	"pcpe": "cpe:/a:advantech:webaccess%2fhmi_designer"
 }

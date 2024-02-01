@@ -1,0 +1,8 @@
+{
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "72621",
+	"pname": "Isolation Segment",
+	"pcpe": "cpe:/a:vmware:isolation_segment"
+}

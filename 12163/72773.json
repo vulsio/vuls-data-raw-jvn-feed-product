@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "72773",
+	"pname": "test results aggregator",
+	"pcpe": "cpe:/a:jenkins:test_results_aggregator"
+}

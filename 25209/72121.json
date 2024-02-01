@@ -1,0 +1,8 @@
+{
+	"vid": "25209",
+	"vname": "sentry",
+	"vcpe": "cpe:/:sentry",
+	"pid": "72121",
+	"pname": "symbolicator",
+	"pcpe": "cpe:/a:sentry:symbolicator"
+}

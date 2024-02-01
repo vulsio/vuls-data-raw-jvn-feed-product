@@ -1,0 +1,8 @@
+{
+	"vid": "27448",
+	"vname": "rustcrypto",
+	"vcpe": "cpe:/:rustcrypto",
+	"pid": "71849",
+	"pname": "rsa",
+	"pcpe": "cpe:/a:rustcrypto:rsa"
+}

@@ -1,8 +1,8 @@
 {
 	"vid": "18823",
 	"vname": "株式会社エム・システム技研",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:m-system",
 	"pid": "46896",
 	"pname": "タイプB (DL8-B)",
-	"pcpe": "cpe:/a:misc:m_system_typeb_dl8_b"
+	"pcpe": "cpe:/o:m-system:dl8-b_firmware"
 }

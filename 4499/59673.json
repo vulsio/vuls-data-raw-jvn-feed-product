@@ -3,6 +3,6 @@
 	"vname": "三菱電機",
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "59673",
-	"pname": "M750VW",
-	"pcpe": "cpe:/o:mitsubishielectric:m750vw"
+	"pname": "M750VW ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:m750vw_firmware"
 }

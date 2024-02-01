@@ -1,0 +1,8 @@
+{
+	"vid": "28038",
+	"vname": "deis",
+	"vcpe": "cpe:/:deis",
+	"pid": "73848",
+	"pname": "workflow manager",
+	"pcpe": "cpe:/a:deis:workflow_manager"
+}

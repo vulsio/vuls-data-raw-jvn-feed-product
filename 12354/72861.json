@@ -1,0 +1,8 @@
+{
+	"vid": "12354",
+	"vname": "Aerospike, Inc.",
+	"vcpe": "cpe:/:aerospike",
+	"pid": "72861",
+	"pname": "aerospike java client",
+	"pcpe": "cpe:/a:aerospike:aerospike_java_client"
+}

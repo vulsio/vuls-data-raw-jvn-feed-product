@@ -3,6 +3,6 @@
 	"vname": "三菱電機",
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "58887",
-	"pname": "M70V",
-	"pcpe": "cpe:/o:mitsubishielectric:m70v"
+	"pname": "M70V ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:m70v_firmware"
 }

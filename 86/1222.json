@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:buffalo_inc",
 	"pid": "1222",
 	"pname": "WZR-RS-G54HP ファームウェア",
-	"pcpe": "cpe:/h:buffalo_inc:wzr-rs-g54hp_firmware"
+	"pcpe": "cpe:/o:buffalo_inc:wzr-rs-g54hp_firmware"
 }

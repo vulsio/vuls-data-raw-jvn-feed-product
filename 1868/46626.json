@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:logitec",
 	"pid": "46626",
 	"pname": "LAN-W300N/PGRB",
-	"pcpe": "cpe:/h:logitec:lan-w300n%2fpgrb"
+	"pcpe": "cpe:/o:logitec:lan-w300n%2fpgrb_firmware"
 }

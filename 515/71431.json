@@ -1,0 +1,8 @@
+{
+	"vid": "515",
+	"vname": "VMware",
+	"vcpe": "cpe:/:vmware",
+	"pid": "71431",
+	"pname": "VMware Cloud Director Appliance",
+	"pcpe": "cpe:/a:vmware:cloud_director"
+}

@@ -1,0 +1,8 @@
+{
+	"vid": "27414",
+	"vname": "clickhouse",
+	"vcpe": "cpe:/:clickhouse",
+	"pid": "73828",
+	"pname": "clickhouse cloud",
+	"pcpe": "cpe:/a:clickhouse:clickhouse_cloud"
+}

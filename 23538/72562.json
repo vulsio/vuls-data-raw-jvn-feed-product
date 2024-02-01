@@ -1,0 +1,8 @@
+{
+	"vid": "23538",
+	"vname": "weave",
+	"vcpe": "cpe:/:weave",
+	"pid": "72562",
+	"pname": "gitops terraform controller",
+	"pcpe": "cpe:/a:weave:gitops_terraform_controller"
+}

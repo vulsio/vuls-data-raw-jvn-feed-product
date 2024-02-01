@@ -1,0 +1,8 @@
+{
+	"vid": "27375",
+	"vname": "knative",
+	"vcpe": "cpe:/:knative",
+	"pid": "71640",
+	"pname": "serving",
+	"pcpe": "cpe:/a:knative:serving"
+}

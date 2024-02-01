@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "73109",
+	"pname": "docker swarm",
+	"pcpe": "cpe:/a:jenkins:docker_swarm"
+}

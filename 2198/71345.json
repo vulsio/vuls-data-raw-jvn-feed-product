@@ -1,0 +1,8 @@
+{
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "71345",
+	"pname": "epyc 9654 ファームウェア",
+	"pcpe": "cpe:/o:amd:epyc_9654_firmware"
+}

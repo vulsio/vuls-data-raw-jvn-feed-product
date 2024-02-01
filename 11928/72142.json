@@ -1,0 +1,8 @@
+{
+	"vid": "11928",
+	"vname": "Project Jupyter",
+	"vcpe": "cpe:/:jupyter",
+	"pid": "72142",
+	"pname": "dockerspawner",
+	"pcpe": "cpe:/a:jupyter:dockerspawner"
+}

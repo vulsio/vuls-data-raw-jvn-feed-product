@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "72771",
+	"pname": "sumologic publisher",
+	"pcpe": "cpe:/a:jenkins:sumologic_publisher"
+}

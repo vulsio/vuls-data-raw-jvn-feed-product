@@ -1,0 +1,8 @@
+{
+	"vid": "11340",
+	"vname": "Malwarebytes",
+	"vcpe": "cpe:/:malwarebytes",
+	"pid": "70941",
+	"pname": "endpoint detection and response",
+	"pcpe": "cpe:/a:malwarebytes:endpoint_detection_and_response"
+}

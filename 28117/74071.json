@@ -1,0 +1,8 @@
+{
+	"vid": "28117",
+	"vname": "rust-vmm",
+	"vcpe": "cpe:/:rust-vmm",
+	"pid": "74071",
+	"pname": "vmm-sys-util",
+	"pcpe": "cpe:/a:rust-vmm:vmm-sys-util"
+}

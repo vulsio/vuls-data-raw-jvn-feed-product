@@ -1,0 +1,8 @@
+{
+	"vid": "27921",
+	"vname": "open-mpi",
+	"vcpe": "cpe:/:open-mpi",
+	"pid": "73464",
+	"pname": "hwloc",
+	"pcpe": "cpe:/a:open-mpi:hwloc"
+}

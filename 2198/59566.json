@@ -3,6 +3,6 @@
 	"vname": "Advanced Micro Devices (AMD)",
 	"vcpe": "cpe:/:amd",
 	"pid": "59566",
-	"pname": "cpu",
+	"pname": "CPU",
 	"pcpe": "cpe:/h:amd:cpu"
 }

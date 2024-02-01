@@ -1,0 +1,8 @@
+{
+	"vid": "28035",
+	"vname": "buildkite",
+	"vcpe": "cpe:/:buildkite",
+	"pid": "73834",
+	"pname": "elastic ci stack",
+	"pcpe": "cpe:/a:buildkite:elastic_ci_stack"
+}

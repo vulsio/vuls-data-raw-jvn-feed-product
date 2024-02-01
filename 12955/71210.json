@@ -1,0 +1,8 @@
+{
+	"vid": "12955",
+	"vname": "Kubernetes",
+	"vcpe": "cpe:/:kubernetes",
+	"pid": "71210",
+	"pname": "csi proxy",
+	"pcpe": "cpe:/a:kubernetes:csi_proxy"
+}

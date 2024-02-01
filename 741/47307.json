@@ -3,6 +3,6 @@
 	"vname": "D-Link Systems, Inc.",
 	"vcpe": "cpe:/:dlink",
 	"pid": "47307",
-	"pname": "DAP-1880AC",
-	"pcpe": "cpe:/h:dlink:dap-1880AC"
+	"pname": "DAP-1880AC ファームウェア",
+	"pcpe": "cpe:/o:dlink:dap-1880ac_firmware"
 }

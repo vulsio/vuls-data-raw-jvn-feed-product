@@ -1,8 +1,8 @@
 {
 	"vid": "25637",
 	"vname": "住友電工情報システム株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:sei-info",
 	"pid": "66768",
 	"pname": "楽々Document Plus",
-	"pcpe": "cpe:/a:misc:sumitomo_electric_information_systems_rakrakdocument_plus"
+	"pcpe": "cpe:/a:sei-info:rakrak_document_plus"
 }

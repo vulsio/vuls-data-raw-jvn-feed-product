@@ -1,0 +1,8 @@
+{
+	"vid": "509",
+	"vname": "SAP",
+	"vcpe": "cpe:/:sap",
+	"pid": "72152",
+	"pname": "@sap/xssec",
+	"pcpe": "cpe:/a:sap:%40sap%2Fxssec"
+}

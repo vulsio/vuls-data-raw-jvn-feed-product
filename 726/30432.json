@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:icewarp",
 	"pid": "30432",
 	"pname": "IceWarp Server",
-	"pcpe": "cpe:/a:icewarp:server"
+	"pcpe": "cpe:/a:icewarp:icewarp_server"
 }

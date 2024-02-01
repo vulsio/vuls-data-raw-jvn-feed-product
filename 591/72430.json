@@ -1,0 +1,8 @@
+{
+	"vid": "591",
+	"vname": "Zabbix",
+	"vcpe": "cpe:/:zabbix",
+	"pid": "72430",
+	"pname": "zabbix-agent",
+	"pcpe": "cpe:/a:zabbix:zabbix-agent"
+}

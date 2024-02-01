@@ -1,0 +1,8 @@
+{
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "73339",
+	"pname": "openshift logging",
+	"pcpe": "cpe:/a:redhat:openshift_logging"
+}

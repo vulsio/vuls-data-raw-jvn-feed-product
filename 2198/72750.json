@@ -1,0 +1,8 @@
+{
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "72750",
+	"pname": "epyc embedded 3255 ファームウェア",
+	"pcpe": "cpe:/o:amd:epyc_embedded_3255_firmware"
+}

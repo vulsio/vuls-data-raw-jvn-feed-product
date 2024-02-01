@@ -3,6 +3,6 @@
 	"vname": "F5 Networks",
 	"vcpe": "cpe:/:f5",
 	"pid": "70625",
-	"pname": "big-ip container ingress services",
+	"pname": "BIG-IP Container Ingress Services",
 	"pcpe": "cpe:/a:f5:big-ip_container_ingress_services"
 }

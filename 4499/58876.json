@@ -3,6 +3,6 @@
 	"vname": "三菱電機",
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "58876",
-	"pname": "M800VS",
-	"pcpe": "cpe:/o:mitsubishielectric:m800vs"
+	"pname": "M800VS ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:m800vs_firmware"
 }

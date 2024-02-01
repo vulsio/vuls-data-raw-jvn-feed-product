@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "73612",
+	"pname": "openshift login",
+	"pcpe": "cpe:/a:jenkins:openshift_login"
+}

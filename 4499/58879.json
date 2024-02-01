@@ -3,6 +3,6 @@
 	"vname": "三菱電機",
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "58879",
-	"pname": "M800W",
-	"pcpe": "cpe:/o:mitsubishielectric:m800w"
+	"pname": "M800W ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:m800w_firmware"
 }

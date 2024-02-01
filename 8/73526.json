@@ -1,0 +1,8 @@
+{
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "73526",
+	"pname": "apache-airflow-providers-smtp",
+	"pcpe": "cpe:/a:apache:apache-airflow-providers-smtp"
+}

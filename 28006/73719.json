@@ -1,0 +1,8 @@
+{
+	"vid": "28006",
+	"vname": "jaegertracing",
+	"vcpe": "cpe:/:jaegertracing",
+	"pid": "73719",
+	"pname": "jaeger ui",
+	"pcpe": "cpe:/a:jaegertracing:jaeger_ui"
+}

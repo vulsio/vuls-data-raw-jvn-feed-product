@@ -1,0 +1,8 @@
+{
+	"vid": "1721",
+	"vname": "SolarWinds",
+	"vcpe": "cpe:/:solarwinds",
+	"pid": "72566",
+	"pname": "network configuration monitor",
+	"pcpe": "cpe:/a:solarwinds:network_configuration_monitor"
+}

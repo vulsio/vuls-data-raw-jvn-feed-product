@@ -3,6 +3,6 @@
 	"vname": "三菱電機",
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "58888",
-	"pname": "E70",
-	"pcpe": "cpe:/o:mitsubishielectric:e70"
+	"pname": "E70 ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:e70_firmware"
 }

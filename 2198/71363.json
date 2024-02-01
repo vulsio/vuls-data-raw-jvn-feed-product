@@ -1,0 +1,8 @@
+{
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "71363",
+	"pname": "epyc 9384x ファームウェア",
+	"pcpe": "cpe:/o:amd:epyc_9384x_firmware"
+}

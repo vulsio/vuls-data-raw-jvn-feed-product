@@ -1,0 +1,8 @@
+{
+	"vid": "22394",
+	"vname": "sigstore",
+	"vcpe": "cpe:/:sigstore",
+	"pid": "71138",
+	"pname": "gitsign",
+	"pcpe": "cpe:/a:sigstore:gitsign"
+}

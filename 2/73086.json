@@ -1,0 +1,8 @@
+{
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "73086",
+	"pname": "Microsoft.Data.SqlClient",
+	"pcpe": "cpe:/a:microsoft:microsoft.data.sqlclient"
+}

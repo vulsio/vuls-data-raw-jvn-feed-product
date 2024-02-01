@@ -3,6 +3,6 @@
 	"vname": "三菱電機",
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "46773",
-	"pname": "ネットワークインタフェースボード CC-Link Ver.2 ユーティリティ",
+	"pname": "ネットワークインタフェースボード CC-Link",
 	"pcpe": "cpe:/a:mitsubishielectric:network_interface_board_cc-link_ver.2_utility"
 }

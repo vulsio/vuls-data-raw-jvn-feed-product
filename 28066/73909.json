@@ -1,0 +1,8 @@
+{
+	"vid": "28066",
+	"vname": "lockss",
+	"vcpe": "cpe:/:lockss",
+	"pid": "73909",
+	"pname": "classic lockss daemon",
+	"pcpe": "cpe:/a:lockss:classic_lockss_daemon"
+}

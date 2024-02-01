@@ -1,0 +1,8 @@
+{
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "73045",
+	"pname": "cpu runtime for opencl applications",
+	"pcpe": "cpe:/a:intel:cpu_runtime_for_opencl_applications"
+}

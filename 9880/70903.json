@@ -1,0 +1,8 @@
+{
+	"vid": "9880",
+	"vname": "Docker",
+	"vcpe": "cpe:/:docker",
+	"pid": "70903",
+	"pname": "machine",
+	"pcpe": "cpe:/a:docker:machine"
+}

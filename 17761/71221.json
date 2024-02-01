@@ -1,0 +1,8 @@
+{
+	"vid": "17761",
+	"vname": "Redis",
+	"vcpe": "cpe:/:redislabs",
+	"pid": "71221",
+	"pname": "redisgraph",
+	"pcpe": "cpe:/a:redislabs:redisgraph"
+}

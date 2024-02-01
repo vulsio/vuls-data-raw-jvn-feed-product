@@ -1,0 +1,8 @@
+{
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "73308",
+	"pname": "IdentityModel Extensions for .NET",
+	"pcpe": "cpe:/a:microsoft:identitymodel_extensions"
+}

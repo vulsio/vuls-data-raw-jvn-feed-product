@@ -3,6 +3,6 @@
 	"vname": "三菱電機",
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "59677",
-	"pname": "M730VS",
-	"pcpe": "cpe:/o:mitsubishielectric:m730vs"
+	"pname": "M730VS ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:m730vs_firmware"
 }

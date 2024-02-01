@@ -1,8 +1,8 @@
 {
 	"vid": "18797",
 	"vname": "Hamilton Medical, Inc.",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:hamilton-medical",
 	"pid": "46749",
-	"pname": "Hamilton-T1",
-	"pcpe": "cpe:/a:misc:hamilton_medical_hamilton-t1"
+	"pname": "Hamilton-T1 ファームウェア",
+	"pcpe": "cpe:/o:hamilton-medical:hamilton-t1_firmware"
 }

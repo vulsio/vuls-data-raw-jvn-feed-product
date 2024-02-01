@@ -3,6 +3,6 @@
 	"vname": "三菱電機",
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "59674",
-	"pname": "M730VW",
-	"pcpe": "cpe:/o:mitsubishielectric:m730vw"
+	"pname": "M730VW ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:m730vw_firmware"
 }

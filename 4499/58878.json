@@ -3,6 +3,6 @@
 	"vname": "三菱電機",
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "58878",
-	"pname": "M80VW",
-	"pcpe": "cpe:/o:mitsubishielectric:m80vw"
+	"pname": "M80VW ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:m80vw_firmware"
 }

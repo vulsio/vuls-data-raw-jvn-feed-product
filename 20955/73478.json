@@ -1,0 +1,8 @@
+{
+	"vid": "20955",
+	"vname": "Varnish Software",
+	"vcpe": "cpe:/:varnish-software",
+	"pid": "73478",
+	"pname": "vmod digest",
+	"pcpe": "cpe:/a:varnish-software:vmod_digest"
+}

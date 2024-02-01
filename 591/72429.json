@@ -1,0 +1,8 @@
+{
+	"vid": "591",
+	"vname": "Zabbix",
+	"vcpe": "cpe:/:zabbix",
+	"pid": "72429",
+	"pname": "zabbix server",
+	"pcpe": "cpe:/a:zabbix:zabbix_server"
+}

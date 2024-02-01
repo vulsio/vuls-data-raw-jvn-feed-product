@@ -1,0 +1,8 @@
+{
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "71356",
+	"pname": "epyc 9334 ファームウェア",
+	"pcpe": "cpe:/o:amd:epyc_9334_firmware"
+}
