@@ -1,8 +1,8 @@
 {
 	"vid": "19433",
 	"vname": "シャープNECディスプレイソリューションズ株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:sharp-nec-displays",
 	"pid": "49140",
 	"pname": "C861Q",
-	"pcpe": "cpe:/a:misc:sharp_nec_displaysolutions_c861q"
+	"pcpe": "cpe:/o:sharp-nec-displays:c861q_firmware"
 }

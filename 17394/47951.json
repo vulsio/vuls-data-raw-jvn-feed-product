@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:thalesgroup",
 	"pid": "47951",
 	"pname": "Sentinel LDK Run-Time Environment",
-	"pcpe": "cpe:/o:thalesgroup:sentinel_ldk_run-time_environment"
+	"pcpe": "cpe:/a:thalesgroup:sentinel_ldk_run-time_environment"
 }

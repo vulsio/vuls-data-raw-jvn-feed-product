@@ -1,0 +1,8 @@
+{
+	"vid": "28187",
+	"vname": "recognizeapp",
+	"vcpe": "cpe:/:recognizeapp",
+	"pid": "74202",
+	"pname": "omniauth::microsoftgraph",
+	"pcpe": "cpe:/a:recognizeapp:omniauth%3A%3Amicrosoftgraph"
+}

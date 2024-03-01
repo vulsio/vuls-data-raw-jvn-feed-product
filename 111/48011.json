@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:ec-cube",
 	"pid": "48011",
 	"pname": "帳票出力プラグイン",
-	"pcpe": "cpe:/a:ec-cube:form_output_plugin"
+	"pcpe": "cpe:/a:ec-cube:business_form_output"
 }

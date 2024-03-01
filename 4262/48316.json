@@ -3,6 +3,6 @@
 	"vname": "ジョンソンコントロールズ",
 	"vcpe": "cpe:/:johnsoncontrols",
 	"pid": "48316",
-	"pname": "Facility Explorer SNC Series Supervisory Controller",
-	"pcpe": "cpe:/a:johnsoncontrols:facility_explorer_snc_series_supervisory_controller"
+	"pname": "Facility Explorer SNC Series Supervisory Controller ファームウェア",
+	"pcpe": "cpe:/o:johnsoncontrols:f4-snc_firmware"
 }

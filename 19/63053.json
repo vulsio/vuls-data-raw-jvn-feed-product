@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:cisco",
 	"pid": "63053",
 	"pname": "Cisco Secure Email Gateway",
-	"pcpe": "cpe:/a:cisco:secure_email_gateway"
+	"pcpe": "cpe:/o:cisco:secure_email_gateway_firmware"
 }

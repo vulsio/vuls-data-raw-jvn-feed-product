@@ -1,0 +1,8 @@
+{
+	"vid": "27414",
+	"vname": "clickhouse",
+	"vcpe": "cpe:/:clickhouse",
+	"pid": "74657",
+	"pname": "java libraries",
+	"pcpe": "cpe:/a:clickhouse:java_libraries"
+}

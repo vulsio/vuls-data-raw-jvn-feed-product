@@ -1,8 +1,8 @@
 {
 	"vid": "19433",
 	"vname": "シャープNECディスプレイソリューションズ株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:sharp-nec-displays",
 	"pid": "49141",
 	"pname": "C981Q",
-	"pcpe": "cpe:/a:misc:sharp_nec_displaysolutions_c981q"
+	"pcpe": "cpe:/o:sharp-nec-displays:c981q_firmware"
 }

@@ -1,0 +1,8 @@
+{
+	"vid": "23466",
+	"vname": "redis",
+	"vcpe": "cpe:/:redis",
+	"pid": "74791",
+	"pname": "redisraft",
+	"pcpe": "cpe:/a:redis:redisraft"
+}

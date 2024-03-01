@@ -1,8 +1,8 @@
 {
 	"vid": "28017",
 	"vname": "シンプルサイト",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:estore-wss",
 	"pid": "73762",
 	"pname": "ペイメント EX",
-	"pcpe": "cpe:/a:misc:simplesite_payment_ex"
+	"pcpe": "cpe:/a:estore-wss:payment_ex"
 }

@@ -1,8 +1,8 @@
 {
 	"vid": "19433",
 	"vname": "シャープNECディスプレイソリューションズ株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:sharp-nec-displays",
 	"pid": "48943",
 	"pname": "V864Q",
-	"pcpe": "cpe:/a:misc:sharp_nec_displaysolutions_v864q"
+	"pcpe": "cpe:/o:sharp-nec-displays:v864q_firmware"
 }

@@ -1,0 +1,8 @@
+{
+	"vid": "280",
+	"vname": "Gentoo Linux",
+	"vcpe": "cpe:/:gentoo",
+	"pid": "74522",
+	"pname": "ebuild for slurm",
+	"pcpe": "cpe:/a:gentoo:ebuild_for_slurm"
+}

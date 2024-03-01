@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:hitachi_abb_power_grids",
 	"pid": "47423",
 	"pname": "Ellipse APM",
-	"pcpe": "cpe:/a:hitachi_abb_power_grids:ellipse_apm"
+	"pcpe": "cpe:/a:hitachi_abb_power_grids:ellipse_asset_performance_management"
 }

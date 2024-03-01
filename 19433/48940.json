@@ -1,8 +1,8 @@
 {
 	"vid": "19433",
 	"vname": "シャープNECディスプレイソリューションズ株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:sharp-nec-displays",
 	"pid": "48940",
 	"pname": "UN552VS",
-	"pcpe": "cpe:/a:misc:sharp_nec_displaysolutions_un552vs"
+	"pcpe": "cpe:/o:sharp-nec-displays:un552vs_firmware"
 }

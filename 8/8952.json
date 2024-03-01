@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:apache",
 	"pid": "8952",
 	"pname": "Apache Commons Compress",
-	"pcpe": "cpe:/a:apache:commons-compress"
+	"pcpe": "cpe:/a:apache:commons_compress"
 }

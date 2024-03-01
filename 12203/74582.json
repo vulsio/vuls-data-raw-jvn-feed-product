@@ -1,0 +1,8 @@
+{
+	"vid": "12203",
+	"vname": "Nextcloud",
+	"vcpe": "cpe:/:nextcloud",
+	"pid": "74582",
+	"pname": "sso & saml authentication",
+	"pcpe": "cpe:/a:nextcloud:sso_%26_saml_authentication"
+}

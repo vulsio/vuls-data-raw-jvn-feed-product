@@ -1,0 +1,8 @@
+{
+	"vid": "1723",
+	"vname": "SonicWALL",
+	"vcpe": "cpe:/:sonicwall",
+	"pid": "74638",
+	"pname": "capture client",
+	"pcpe": "cpe:/a:sonicwall:capture_client"
+}

@@ -1,0 +1,8 @@
+{
+	"vid": "11966",
+	"vname": "Veeam",
+	"vcpe": "cpe:/:veeam",
+	"pid": "75118",
+	"pname": "recovery orchestrator",
+	"pcpe": "cpe:/a:veeam:recovery_orchestrator"
+}

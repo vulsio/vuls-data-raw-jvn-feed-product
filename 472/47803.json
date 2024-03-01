@@ -3,6 +3,6 @@
 	"vname": "Rockwell Automation",
 	"vcpe": "cpe:/:rockwellautomation",
 	"pid": "47803",
-	"pname": "Micro800",
-	"pcpe": "cpe:/a:rockwellautomation:micro800"
+	"pname": "Micro800 ファームウェア",
+	"pcpe": "cpe:/o:rockwellautomation:micro800_firmware"
 }

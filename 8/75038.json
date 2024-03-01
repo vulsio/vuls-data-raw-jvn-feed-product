@@ -1,0 +1,8 @@
+{
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "75038",
+	"pname": "sling servlets resolver",
+	"pcpe": "cpe:/a:apache:sling_servlets_resolver"
+}

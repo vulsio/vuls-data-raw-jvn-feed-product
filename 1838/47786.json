@@ -1,8 +1,8 @@
 {
 	"vid": "1838",
 	"vname": "エヌ・ティ・ティ レゾナント株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:nttr",
 	"pid": "47786",
 	"pname": "goo RSSリーダー",
-	"pcpe": "cpe:/a:misc:ntt_resonant_goo_rssreader"
+	"pcpe": "cpe:/a:nttr:ntt_resonant_goo_rssreader"
 }

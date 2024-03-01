@@ -3,6 +3,6 @@
 	"vname": "PHP工房",
 	"vcpe": "cpe:/:php_kobo",
 	"pid": "45328",
-	"pname": "【Telop01】PHPテロップ・ニュースティッカー・ヘッドラインCMS フリー（無料）版",
-	"pcpe": "cpe:/a:php_kobo:headline_cms_free"
+	"pname": "【Telop01】PHPテロップ・ニュースティッカー・ヘッドラインCMS",
+	"pcpe": "cpe:/a:php_kobo:telop01"
 }
