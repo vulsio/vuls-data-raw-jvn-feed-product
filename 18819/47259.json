@@ -3,6 +3,6 @@
 	"vname": "日立エナジー (旧 日立ABBパワーグリッド)",
 	"vcpe": "cpe:/:hitachi_abb_power_grids",
 	"pid": "47259",
-	"pname": "Relion 670 series",
-	"pcpe": "cpe:/a:hitachi_abb_power_grids:relion_670_series"
+	"pname": "Relion 670 series ファームウェア",
+	"pcpe": "cpe:/o:hitachi_abb_power_grids:relion_670_firmware"
 }

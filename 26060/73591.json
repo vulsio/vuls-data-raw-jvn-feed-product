@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:orthanc-server",
 	"pid": "73591",
 	"pname": "Osimis DICOM Web Viewer",
-	"pcpe": "cpe:/a:orthanc-server:osimis_dicom_web_viewer"
+	"pcpe": "cpe:/a:orthanc-server:osimis_web_viewer"
 }

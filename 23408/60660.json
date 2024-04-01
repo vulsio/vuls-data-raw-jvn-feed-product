@@ -1,8 +1,8 @@
 {
 	"vid": "23408",
-	"vname": "CBC AMERICA",
-	"vcpe": "cpe:/:misc",
+	"vname": "CBC株式会社",
+	"vcpe": "cpe:/:cbc",
 	"pid": "60660",
-	"pname": "NR8H",
-	"pcpe": "cpe:/o:misc:cbc_america_nr8h"
+	"pname": "NR8H ファームウェア",
+	"pcpe": "cpe:/o:cbc:nr8h_firmware"
 }

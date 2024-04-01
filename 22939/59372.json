@@ -1,8 +1,8 @@
 {
 	"vid": "22939",
 	"vname": "株式会社ノースグリッド",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:northgrid",
 	"pid": "59372",
 	"pname": "Proself Gateway Edition",
-	"pcpe": "cpe:/a:misc:north_grid_proself_gateway_edition"
+	"pcpe": "cpe:/a:northgrid:north_grid_proself_gateway_edition"
 }

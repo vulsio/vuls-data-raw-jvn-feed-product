@@ -1,8 +1,8 @@
 {
 	"vid": "27764",
 	"vname": "防衛省",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:dfeg",
 	"pid": "72762",
 	"pname": "電子納品物作成支援ツール",
-	"pcpe": "cpe:/a:misc:mod_denshi_nouhinbutu_sakuseishien_tool"
+	"pcpe": "cpe:/a:dfeg:electronic_deliverables_creation_support_tool"
 }

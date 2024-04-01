@@ -1,0 +1,8 @@
+{
+	"vid": "18819",
+	"vname": "日立エナジー (旧 日立ABBパワーグリッド)",
+	"vcpe": "cpe:/:hitachi_abb_power_grids",
+	"pid": "75220",
+	"pname": "Relion SAM600-IO series ファームウェア",
+	"pcpe": "cpe:/o:hitachi_abb_power_grids:relion_sam600-io_firmware"
+}

@@ -1,8 +1,8 @@
 {
 	"vid": "21419",
 	"vname": "Priva",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:priva",
 	"pid": "55001",
 	"pname": "TopControl Suite",
-	"pcpe": "cpe:/a:misc:priva_topcontrol_suite"
+	"pcpe": "cpe:/a:priva:top_control_suite"
 }

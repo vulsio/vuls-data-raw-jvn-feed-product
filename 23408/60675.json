@@ -1,8 +1,8 @@
 {
 	"vid": "23408",
-	"vname": "CBC AMERICA",
-	"vcpe": "cpe:/:misc",
+	"vname": "CBC株式会社",
+	"vcpe": "cpe:/:cbc",
 	"pid": "60675",
 	"pname": "DR-16M",
-	"pcpe": "cpe:/o:misc:cbc_america_dr-16m"
+	"pcpe": "cpe:/o:cbc:cbc_america_dr-16m"
 }

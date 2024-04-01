@@ -1,8 +1,8 @@
 {
 	"vid": "23408",
-	"vname": "CBC AMERICA",
-	"vcpe": "cpe:/:misc",
+	"vname": "CBC株式会社",
+	"vcpe": "cpe:/:cbc",
 	"pid": "60665",
-	"pname": "DR-16H",
-	"pcpe": "cpe:/o:misc:cbc_america_dr-16h"
+	"pname": "DR-16H ファームウェア",
+	"pcpe": "cpe:/o:cbc:dr-16h_firmware"
 }

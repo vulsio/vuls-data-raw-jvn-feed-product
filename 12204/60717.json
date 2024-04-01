@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:trane",
 	"pid": "60717",
 	"pname": "Trane Technologies XL824 Thermostat ファームウェア",
-	"pcpe": "cpe:/a:trane:trane_technologies_xl824_thermostat_firmware"
+	"pcpe": "cpe:/o:trane:xl824_firmware"
 }

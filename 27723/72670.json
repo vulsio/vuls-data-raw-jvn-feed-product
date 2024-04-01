@@ -1,8 +1,8 @@
 {
 	"vid": "27723",
 	"vname": "Integration Objects",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:integrationobjects",
 	"pid": "72670",
 	"pname": "OPC UA Server Toolkit",
-	"pcpe": "cpe:/a:misc:integration_objects_opc_ua_server_toolkit"
+	"pcpe": "cpe:/a:integrationobjects:opc_ua_server_toolkit"
 }

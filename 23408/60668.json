@@ -1,8 +1,8 @@
 {
 	"vid": "23408",
-	"vname": "CBC AMERICA",
-	"vcpe": "cpe:/:misc",
+	"vname": "CBC株式会社",
+	"vcpe": "cpe:/:cbc",
 	"pid": "60668",
-	"pname": "DR-4M41",
-	"pcpe": "cpe:/o:misc:cbc_america_dr-4m41"
+	"pname": "DRH8-4M41-A ファームウェア",
+	"pcpe": "cpe:/o:cbc:drh8-4m41-a_firmware"
 }

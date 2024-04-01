@@ -1,8 +1,8 @@
 {
 	"vid": "20360",
 	"vname": "楽天モバイル株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:rakuten",
 	"pid": "60251",
 	"pname": "Rakuten WiFi Pocket",
-	"pcpe": "cpe:/a:misc:rakuten_mobile_rakuten_wifi_pocket"
+	"pcpe": "cpe:/o:rakuten:wifi_pocket_firmware"
 }

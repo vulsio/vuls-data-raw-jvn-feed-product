@@ -3,6 +3,6 @@
 	"vname": "GeoVision",
 	"vcpe": "cpe:/:geovision",
 	"pid": "58499",
-	"pname": "GV-ADR2701",
-	"pcpe": "cpe:/o:geovision:gv_adr2701"
+	"pname": "GV-ADR2701 ファームウェア",
+	"pcpe": "cpe:/o:geovision:gv-adr2701_firmware"
 }

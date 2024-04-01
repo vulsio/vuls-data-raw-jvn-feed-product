@@ -1,8 +1,8 @@
 {
 	"vid": "22117",
 	"vname": "株式会社インプリム",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:pleasanter",
 	"pid": "56923",
 	"pname": "プリザンター",
-	"pcpe": "cpe:/a:misc:implem_pleasanter"
+	"pcpe": "cpe:/a:pleasanter:pleasanter"
 }

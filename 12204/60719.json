@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:trane",
 	"pid": "60719",
 	"pname": "Trane Technologies XL1050 Thermostat ファームウェア",
-	"pcpe": "cpe:/a:trane:trane_technologies_xl1050_thermostat_firmware"
+	"pcpe": "cpe:/o:trane:xl1050_firmware"
 }

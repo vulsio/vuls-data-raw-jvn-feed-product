@@ -1,8 +1,8 @@
 {
 	"vid": "27396",
 	"vname": "スリーアールソリューション株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:3rrr-btob",
 	"pid": "71699",
 	"pname": "3R-TMC03",
-	"pcpe": "cpe:/o:misc:3r_solution_corp_3r-tmc03"
+	"pcpe": "cpe:/o:3rrr-btob:3r-tmc03_firmware"
 }

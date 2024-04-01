@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:trane",
 	"pid": "60720",
 	"pname": "Trane Technologies Pivot Thermostat ファームウェア",
-	"pcpe": "cpe:/a:trane:trane_technologies_pivot_thermostat_firmware"
+	"pcpe": "cpe:/o:trane:pivot_firmware"
 }

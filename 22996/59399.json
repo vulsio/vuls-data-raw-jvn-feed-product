@@ -1,8 +1,8 @@
 {
 	"vid": "22996",
 	"vname": "株式会社ＦＦＲＩセキュリティ",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:ffri",
 	"pid": "59399",
 	"pname": "FFRI yarai",
-	"pcpe": "cpe:/a:misc:ffri_security_ffri_yarai"
+	"pcpe": "cpe:/a:ffri:ffri_yarai"
 }
