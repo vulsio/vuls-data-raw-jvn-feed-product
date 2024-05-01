@@ -1,8 +1,8 @@
 {
 	"vid": "20248",
 	"vname": "株式会社ジェイテクトエレクトロニクス",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:jtekt",
 	"pid": "68016",
 	"pname": "GC-A24",
-	"pcpe": "cpe:/o:misc:jtekt_electronics_gc-a24"
+	"pcpe": "cpe:/o:jtekt:gc-a24_firmware"
 }

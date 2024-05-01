@@ -1,8 +1,8 @@
 {
 	"vid": "20248",
 	"vname": "株式会社ジェイテクトエレクトロニクス",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:jtekt",
 	"pid": "68021",
 	"pname": "GC-A27-C",
-	"pcpe": "cpe:/o:misc:jtekt_electronics_gc-a27-c"
+	"pcpe": "cpe:/o:jtekt:gc-a27-c_firmware"
 }

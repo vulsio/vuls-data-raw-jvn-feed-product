@@ -1,8 +1,8 @@
 {
 	"vid": "12227",
 	"vname": "国税庁",
-	"vcpe": "cpe:/:national_tax_agency",
+	"vcpe": "cpe:/:nta",
 	"pid": "27031",
 	"pname": "e-Taxソフト",
-	"pcpe": "cpe:/a:national_tax_agency:e-tax"
+	"pcpe": "cpe:/a:nta:e-tax"
 }

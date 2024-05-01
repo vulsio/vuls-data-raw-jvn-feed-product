@@ -3,6 +3,6 @@
 	"vname": "富士通",
 	"vcpe": "cpe:/:fujitsu",
 	"pid": "58842",
-	"pname": "Si-R G120",
-	"pcpe": "cpe:/a:fujitsu:si-r_g120"
+	"pname": "Si-R G120 ファームウェア",
+	"pcpe": "cpe:/o:fujitsu:si-r_g120_firmware"
 }

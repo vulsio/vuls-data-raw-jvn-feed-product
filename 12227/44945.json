@@ -1,8 +1,8 @@
 {
 	"vid": "12227",
 	"vname": "国税庁",
-	"vcpe": "cpe:/:national_tax_agency",
+	"vcpe": "cpe:/:nta",
 	"pid": "44945",
 	"pname": "Chrome拡張機能e-Tax受付システムAP",
-	"pcpe": "cpe:/a:national_tax_agency:e-tax_reception_system"
+	"pcpe": "cpe:/a:nta:e-tax_reception_system"
 }

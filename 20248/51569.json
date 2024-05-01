@@ -1,8 +1,8 @@
 {
 	"vid": "20248",
 	"vname": "株式会社ジェイテクトエレクトロニクス",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:jtekt",
 	"pid": "51569",
 	"pname": "Screen Creator Advance 2",
-	"pcpe": "cpe:/a:misc:koyoelectronicsindustries_screen_creator_advance_2"
+	"pcpe": "cpe:/a:jtekt:koyoelectronicsindustries_screen_creator_advance_2"
 }

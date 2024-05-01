@@ -1,8 +1,8 @@
 {
 	"vid": "22727",
 	"vname": "Generic Model Organism Database Project",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:gmod",
 	"pid": "58444",
 	"pname": "GBrowse",
-	"pcpe": "cpe:/a:misc:generic_model_organism_database_project_gbrowse"
+	"pcpe": "cpe:/a:gmod:gbrowse"
 }

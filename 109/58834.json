@@ -3,6 +3,6 @@
 	"vname": "富士通",
 	"vcpe": "cpe:/:fujitsu",
 	"pid": "58834",
-	"pname": "Si-R220D",
-	"pcpe": "cpe:/a:fujitsu:si-r220d"
+	"pname": "Si-R 220D ファームウェア",
+	"pcpe": "cpe:/o:fujitsu:si-r220d_firmware"
 }

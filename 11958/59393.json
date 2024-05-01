@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:omron",
 	"pid": "59393",
 	"pname": "CS1W-EIP21",
-	"pcpe": "cpe:/a:omron:cs1w_eip21"
+	"pcpe": "cpe:/o:omron:cs1w-eip21_firmware"
 }

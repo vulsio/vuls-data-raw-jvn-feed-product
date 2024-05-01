@@ -3,6 +3,6 @@
 	"vname": "富士通",
 	"vcpe": "cpe:/:fujitsu",
 	"pid": "58833",
-	"pname": "Si-R370B",
-	"pcpe": "cpe:/a:fujitsu:si-r370b"
+	"pname": "Si-R 370B ファームウェア",
+	"pcpe": "cpe:/o:fujitsu:si-r370b_firmware"
 }

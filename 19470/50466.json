@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:sensormatic_electronics",
 	"pid": "50466",
 	"pname": "VideoEdge",
-	"pcpe": "cpe:/a:sensormatic_electronics:sensormatic_electronics_videoedge"
+	"pcpe": "cpe:/o:sensormatic_electronics:videoedge"
 }

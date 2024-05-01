@@ -3,6 +3,6 @@
 	"vname": "富士通",
 	"vcpe": "cpe:/:fujitsu",
 	"pid": "58831",
-	"pname": "Si-R 90brin",
-	"pcpe": "cpe:/a:fujitsu:si-r_90brin"
+	"pname": "Si-R 90brin ファームウェア",
+	"pcpe": "cpe:/o:fujitsu:si-r_90brin_firmware"
 }

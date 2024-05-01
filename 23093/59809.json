@@ -1,8 +1,8 @@
 {
 	"vid": "23093",
 	"vname": "TEL-STER",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:tel-ster",
 	"pid": "59809",
 	"pname": "TelWin SCADA WebInterface",
-	"pcpe": "cpe:/a:misc:tel-ster_telwin_scada_webInterface"
+	"pcpe": "cpe:/a:tel-ster:telwin_scada_webInterface"
 }

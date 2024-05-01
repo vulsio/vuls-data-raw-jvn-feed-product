@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:fujielectric",
 	"pid": "57040",
 	"pname": "FRENIC RHC Loader",
-	"pcpe": "cpe:/o:fujielectric:frenic_rhc_loader"
+	"pcpe": "cpe:/a:fujielectric:frenic_rhc_loader"
 }

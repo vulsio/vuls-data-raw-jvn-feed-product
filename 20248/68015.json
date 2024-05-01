@@ -1,8 +1,8 @@
 {
 	"vid": "20248",
 	"vname": "株式会社ジェイテクトエレクトロニクス",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:jtekt",
 	"pid": "68015",
 	"pname": "GC-A26W-C(W)",
-	"pcpe": "cpe:/o:misc:jtekt_electronics_gc-a26w-c%28w%29"
+	"pcpe": "cpe:/o:jtekt:gc-a26w-c%28w%29_firmware"
 }
