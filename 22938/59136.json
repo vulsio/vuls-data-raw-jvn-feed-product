@@ -1,8 +1,8 @@
 {
 	"vid": "22938",
 	"vname": "ETIC Telecom",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:etictelecom",
 	"pid": "59136",
 	"pname": "RAS ファームウェア",
-	"pcpe": "cpe:/a:misc:etic_telecom_ras_firmware"
+	"pcpe": "cpe:/o:etictelecom:remote_access_server_firmware"
 }

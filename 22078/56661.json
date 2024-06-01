@@ -1,8 +1,8 @@
 {
 	"vid": "22078",
 	"vname": "エスペックミック株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:especmic",
 	"pid": "56661",
 	"pname": "RT-22BN",
-	"pcpe": "cpe:/o:misc:espec_mic_rt-22bn"
+	"pcpe": "cpe:/o:especmic:rt-22bn_firmware"
 }

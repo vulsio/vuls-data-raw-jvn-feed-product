@@ -1,8 +1,8 @@
 {
 	"vid": "11818",
 	"vname": "サイトブリッジ株式会社",
-	"vcpe": "cpe:/:joruri",
+	"vcpe": "cpe:/:sitebridge",
 	"pid": "38704",
 	"pname": "Joruri CMS 2017",
-	"pcpe": "cpe:/a:joruri:joruri_cms_2017"
+	"pcpe": "cpe:/a:sitebridge:joruri_cms_2017"
 }

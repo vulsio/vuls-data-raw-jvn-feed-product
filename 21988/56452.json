@@ -1,8 +1,8 @@
 {
 	"vid": "21988",
 	"vname": "アイコム株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:icom",
 	"pid": "56452",
 	"pname": "SR-7100VN ファームウェア",
-	"pcpe": "cpe:/o:misc:icom_sr-7100vn_firmware"
+	"pcpe": "cpe:/o:icom:sr-7100vn_firmware"
 }

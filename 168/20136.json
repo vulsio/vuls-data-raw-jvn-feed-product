@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:yokogawa",
 	"pid": "20136",
 	"pname": "B/M9000 CS",
-	"pcpe": "cpe:/o:yokogawa:b%2fm9000cs_firmware"
+	"pcpe": "cpe:/a:yokogawa:b%2fm9000cs"
 }

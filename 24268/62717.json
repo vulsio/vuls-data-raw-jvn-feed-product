@@ -1,8 +1,8 @@
 {
 	"vid": "24268",
 	"vname": "株式会社フルノシステムズ",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:furunosystems",
 	"pid": "62717",
-	"pname": "ACERA 810",
-	"pcpe": "cpe:/o:misc:furuno_systems_acera_810"
+	"pname": "ACERA 810 ファームウェア",
+	"pcpe": "cpe:/o:furunosystems:acera_810_firmware"
 }

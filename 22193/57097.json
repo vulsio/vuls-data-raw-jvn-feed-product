@@ -1,8 +1,8 @@
 {
 	"vid": "22193",
 	"vname": "株式会社ケービデバイス",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:kbdevice",
 	"pid": "57097",
-	"pname": "KB-AHR16D",
-	"pcpe": "cpe:/o:misc:kbdevice_kb-ahr16d"
+	"pname": "KB-AHR16D ファームウェア",
+	"pcpe": "cpe:/o:kbdevice:kb-ahr16d_firmware"
 }

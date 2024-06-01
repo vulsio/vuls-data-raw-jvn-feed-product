@@ -1,8 +1,8 @@
 {
 	"vid": "20432",
 	"vname": "株式会社ティアンドデイ",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:tandd",
 	"pid": "56653",
 	"pname": "TR-71W",
-	"pcpe": "cpe:/o:misc:tandd_tr-71w"
+	"pcpe": "cpe:/o:tandd:tr-71w_firmware"
 }

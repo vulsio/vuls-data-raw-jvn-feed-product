@@ -1,8 +1,8 @@
 {
 	"vid": "25091",
 	"vname": "Remarshal Project",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:remarshal_project",
 	"pid": "65132",
 	"pname": "Remarshal",
-	"pcpe": "cpe:/a:misc:remarshal_project_remarshal"
+	"pcpe": "cpe:/a:remarshal_project:remarshal"
 }

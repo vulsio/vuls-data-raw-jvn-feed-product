@@ -1,8 +1,8 @@
 {
 	"vid": "22116",
 	"vname": "株式会社ランシステム",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:runsystem",
 	"pid": "56920",
 	"pname": "自遊空間とくとくクーポン",
-	"pcpe": "cpe:/a:misc:runsystem_jiyu_kukan_toku-toku_coupon"
+	"pcpe": "cpe:/a:runsystem:jiyu_kukan_toku-toku_coupon"
 }

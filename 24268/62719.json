@@ -1,8 +1,8 @@
 {
 	"vid": "24268",
 	"vname": "株式会社フルノシステムズ",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:furunosystems",
 	"pid": "62719",
-	"pname": "ACERA 1320",
-	"pcpe": "cpe:/o:misc:furuno_systems_acera_1320"
+	"pname": "ACERA 1320 ファームウェア",
+	"pcpe": "cpe:/o:furunosystems:acera_1320_firmware"
 }

@@ -1,8 +1,8 @@
 {
 	"vid": "21935",
 	"vname": "リキッドデザイン株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:lqd",
 	"pid": "56329",
 	"pname": "LIQUID SPEECH BALLOON",
-	"pcpe": "cpe:/a:misc:liquid_design_liquid_speech_balloon"
+	"pcpe": "cpe:/a:lqd:liquid_speech_balloon"
 }

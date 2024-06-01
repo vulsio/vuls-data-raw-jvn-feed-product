@@ -1,8 +1,8 @@
 {
 	"vid": "22193",
 	"vname": "株式会社ケービデバイス",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:kbdevice",
 	"pid": "57096",
-	"pname": "KB-AHR08D",
-	"pcpe": "cpe:/o:misc:kbdevice_kb-ahr08d"
+	"pname": "KB-AHR08D ファームウェア",
+	"pcpe": "cpe:/o:kbdevice:kb-ahr08d_firmware"
 }

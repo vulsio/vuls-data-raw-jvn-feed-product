@@ -1,8 +1,8 @@
 {
 	"vid": "20916",
 	"vname": "ユニモテクノロジー株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:unimo",
 	"pid": "53435",
 	"pname": "UDR-JA1016 ファームウェア",
-	"pcpe": "cpe:/o:misc:unimo_technology_udr-ja1016_firmware"
+	"pcpe": "cpe:/o:unimo:unimo_technology_udr-ja1016_firmware"
 }

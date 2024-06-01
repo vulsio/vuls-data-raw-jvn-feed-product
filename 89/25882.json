@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:nec",
 	"pid": "25882",
 	"pname": "Aterm WR9300N",
-	"pcpe": "cpe:/h:nec:atermwr9300n"
+	"pcpe": "cpe:/o:nec:aterm_wr9300n_firmware"
 }

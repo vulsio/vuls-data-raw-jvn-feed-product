@@ -1,8 +1,8 @@
 {
 	"vid": "23795",
 	"vname": "ARDEREG",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:ardereg",
 	"pid": "61547",
 	"pname": "Sistemas SCADA",
-	"pcpe": "cpe:/a:misc:ardereg_sistemas_scada"
+	"pcpe": "cpe:/a:ardereg:sistemas_scada"
 }

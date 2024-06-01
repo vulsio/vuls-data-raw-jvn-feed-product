@@ -1,8 +1,8 @@
 {
 	"vid": "21813",
 	"vname": "セイコーソリューションズ株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:seiko-sol",
 	"pid": "56013",
 	"pname": "SkyBridge BASIC MB-A130",
-	"pcpe": "cpe:/o:misc:seiko-sol_skybridge_basic_mb-a130_firmware"
+	"pcpe": "cpe:/o:seiko-sol:skybridge_basic_mb-a130_firmware"
 }

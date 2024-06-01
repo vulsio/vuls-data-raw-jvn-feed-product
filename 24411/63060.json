@@ -1,8 +1,8 @@
 {
 	"vid": "24411",
 	"vname": "株式会社キーエンス",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:keyence",
 	"pid": "63060",
 	"pname": "KV REPLAY VIEWER",
-	"pcpe": "cpe:/a:misc:keyence_kv_replay_viewer"
+	"pcpe": "cpe:/a:keyence:kv_replay_viewer"
 }

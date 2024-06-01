@@ -3,6 +3,6 @@
 	"vname": "Medtronic",
 	"vcpe": "cpe:/:medtronic",
 	"pid": "53718",
-	"pname": "MiniMed 670G MMT-1782",
-	"pcpe": "cpe:/o:medtronic:minimed_670g_mmt-1782"
+	"pname": "MiniMed 670G MMT-1782 ファームウェア",
+	"pcpe": "cpe:/o:medtronic:minimed_670g_mmt-1782_firmware"
 }

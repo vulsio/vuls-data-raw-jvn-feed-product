@@ -1,8 +1,8 @@
 {
 	"vid": "20432",
 	"vname": "株式会社ティアンドデイ",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:tandd",
 	"pid": "52113",
 	"pname": "THERMO RECORDER DATA SERVER",
-	"pcpe": "cpe:/a:misc:tandd_thermo_recorder_date_server"
+	"pcpe": "cpe:/a:tandd:tandd_thermo_recorder_date_server"
 }

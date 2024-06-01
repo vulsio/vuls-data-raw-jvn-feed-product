@@ -1,8 +1,8 @@
 {
 	"vid": "11818",
 	"vname": "サイトブリッジ株式会社",
-	"vcpe": "cpe:/:joruri",
+	"vcpe": "cpe:/:sitebridge",
 	"pid": "24441",
 	"pname": "Joruri Gw",
-	"pcpe": "cpe:/a:joruri:SiteBridge_joruri_gw"
+	"pcpe": "cpe:/a:sitebridge:joruri_gw"
 }

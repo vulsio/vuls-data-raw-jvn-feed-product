@@ -1,8 +1,8 @@
 {
 	"vid": "23799",
 	"vname": "株式会社L is B",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:l-is-b",
 	"pid": "61566",
 	"pname": "direct",
-	"pcpe": "cpe:/a:misc:l-is-b_direct"
+	"pcpe": "cpe:/a:l-is-b:direct"
 }

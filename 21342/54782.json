@@ -1,8 +1,8 @@
 {
 	"vid": "21342",
 	"vname": "一般財団法人日本建設情報総合センター",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:jacic",
 	"pid": "54782",
 	"pname": "電子入札コアシステム",
-	"pcpe": "cpe:/a:misc:japan_construction_information_center_electronic_bidding_core_system"
+	"pcpe": "cpe:/a:jacic:electronic_bidding_core_system"
 }

@@ -3,6 +3,6 @@
 	"vname": "Medtronic",
 	"vcpe": "cpe:/:medtronic",
 	"pid": "53706",
-	"pname": "MiniMed 630G MMT-1755",
-	"pcpe": "cpe:/o:medtronic:minimed_630g_mmt-1755"
+	"pname": "MiniMed 630G MMT-1755 ファームウェア",
+	"pcpe": "cpe:/o:medtronic:minimed_630g_mmt-1755_firmware"
 }

@@ -1,8 +1,8 @@
 {
 	"vid": "24268",
 	"vname": "株式会社フルノシステムズ",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:furunosystems",
 	"pid": "62712",
-	"pname": "ACERA 1010",
-	"pcpe": "cpe:/o:misc:furuno_systems_acera_1010"
+	"pname": "ACERA 1010 ファームウェア",
+	"pcpe": "cpe:/o:furunosystems:acera_1010_firmware"
 }

@@ -1,8 +1,8 @@
 {
 	"vid": "21901",
 	"vname": "ジューベー株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:jubei",
 	"pid": "56243",
 	"pname": "JB問い合わせフォーム",
-	"pcpe": "cpe:/a:misc:jubei_jb_inquiry_form"
+	"pcpe": "cpe:/a:jubei:jb_inquiry_form"
 }

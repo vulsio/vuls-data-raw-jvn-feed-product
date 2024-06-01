@@ -1,8 +1,8 @@
 {
 	"vid": "22086",
 	"vname": "因幡電機産業株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:inaba",
 	"pid": "57079",
 	"pname": "AC-PD-WAPUM-P",
-	"pcpe": "cpe:/o:misc:inaba_dennki_sanngyou_ac-pd-wapum-p"
+	"pcpe": "cpe:/o:inaba:ac-pd-wapum-p_firmware"
 }

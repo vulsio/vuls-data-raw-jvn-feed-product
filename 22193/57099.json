@@ -1,8 +1,8 @@
 {
 	"vid": "22193",
 	"vname": "株式会社ケービデバイス",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:kbdevice",
 	"pid": "57099",
-	"pname": "KB-IRIP08A",
-	"pcpe": "cpe:/o:misc:kbdevice_kb-irip08a"
+	"pname": "KB-IRIP08A ファームウェア",
+	"pcpe": "cpe:/o:kbdevice:kb-irip08a_firmware"
 }

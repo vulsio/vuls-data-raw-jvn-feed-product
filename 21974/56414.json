@@ -1,8 +1,8 @@
 {
 	"vid": "21974",
 	"vname": "マイクロエンジン株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:microengine",
 	"pid": "56414",
 	"pname": "MicroEngine メールフォーム",
-	"pcpe": "cpe:/a:misc:microengine_microengine_mailform"
+	"pcpe": "cpe:/a:microengine:mailform"
 }

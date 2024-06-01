@@ -1,8 +1,8 @@
 {
 	"vid": "23274",
 	"vname": "株式会社すかいらーくホールディングス",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:skylark",
 	"pid": "60280",
 	"pname": "すかいらーくアプリ",
-	"pcpe": "cpe:/a:misc:skylark_holdings_skylark_app"
+	"pcpe": "cpe:/a:skylark:skylark"
 }

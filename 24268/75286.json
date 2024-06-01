@@ -1,8 +1,8 @@
 {
 	"vid": "24268",
 	"vname": "株式会社フルノシステムズ",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:furunosystems",
 	"pid": "75286",
 	"pname": "ACERA 9010-08",
-	"pcpe": "cpe:/o:misc:furuno_systems_acera_9010-08"
+	"pcpe": "cpe:/o:furunosystems:furuno_systems_acera_9010-08"
 }

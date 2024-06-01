@@ -1,8 +1,8 @@
 {
 	"vid": "21680",
 	"vname": "Wolt",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:wolt",
 	"pid": "55687",
 	"pname": "ウォルト：フードデリバリー/出前",
-	"pcpe": "cpe:/a:misc:wolt_food_delivery"
+	"pcpe": "cpe:/a:wolt:wolt_delivery"
 }

@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:yokogawa",
 	"pid": "20137",
 	"pname": "CENTUM CS 1000",
-	"pcpe": "cpe:/o:yokogawa:centum_cs_1000_firmware"
+	"pcpe": "cpe:/a:yokogawa:centum_cs_1000"
 }

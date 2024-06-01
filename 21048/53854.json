@@ -1,8 +1,8 @@
 {
 	"vid": "21048",
 	"vname": "シフトテック株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:shift-tech",
 	"pid": "53854",
 	"pname": "bingo!CMS",
-	"pcpe": "cpe:/a:misc:shif-tech_bingo%21cms"
+	"pcpe": "cpe:/a:shift-tech:bingo%21cms"
 }
