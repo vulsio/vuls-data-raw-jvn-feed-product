@@ -1,8 +1,8 @@
 {
 	"vid": "19147",
 	"vname": "Xylem Inc.",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:xylem",
 	"pid": "50036",
 	"pname": "AADI GeoView Webservice",
-	"pcpe": "cpe:/a:misc:xylem_aadi_geoview_webservice"
+	"pcpe": "cpe:/a:xylem:aanderaa_geoview"
 }

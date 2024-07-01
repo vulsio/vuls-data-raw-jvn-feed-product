@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:matrikonopc",
 	"pid": "52049",
 	"pname": "OPCサーバ",
-	"pcpe": "cpe:/a:matrikonopc:opc_server"
+	"pcpe": "cpe:/a:matrikonopc:matrikon_opc_server"
 }

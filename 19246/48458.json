@@ -1,8 +1,8 @@
 {
 	"vid": "19246",
 	"vname": "Ypsomed AG",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:ypsomed",
 	"pid": "48458",
 	"pname": "Ypsomed mylife App",
-	"pcpe": "cpe:/a:misc:vpsomed_ypsomed_mylife_app"
+	"pcpe": "cpe:/a:ypsomed:mylife"
 }

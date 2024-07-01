@@ -1,8 +1,8 @@
 {
 	"vid": "20294",
 	"vname": "明京電機株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:meikyo",
 	"pid": "51751",
 	"pname": "サイネージリブーター RPC-M4HSi",
-	"pcpe": "cpe:/a:misc:meikyoelectric_signagerebooter_rpc-m4hsi"
+	"pcpe": "cpe:/o:meikyo:signage_rebooter_rpc-m4hsi_firmware"
 }

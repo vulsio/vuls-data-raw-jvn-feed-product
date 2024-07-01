@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:necplatforms",
 	"pid": "50167",
 	"pname": "IP 多機能電話機 DT900 シリーズ（DT930）",
-	"pcpe": "cpe:/a:necplatforms:univerge_dt900_dt930"
+	"pcpe": "cpe:/o:necplatforms:univerge_dt930_firmware"
 }

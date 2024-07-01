@@ -3,6 +3,6 @@
 	"vname": "Hitachi Energy",
 	"vcpe": "cpe:/:hitachienergy",
 	"pid": "56149",
-	"pname": "SYS600",
-	"pcpe": "cpe:/a:hitachienergy:sys600"
+	"pname": "SYS600 ファームウェア",
+	"pcpe": "cpe:/o:hitachienergy:sys600"
 }

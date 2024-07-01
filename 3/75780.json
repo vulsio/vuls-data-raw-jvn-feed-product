@@ -1,0 +1,8 @@
+{
+	"vid": "3",
+	"vname": "レッドハット",
+	"vcpe": "cpe:/:redhat",
+	"pid": "75780",
+	"pname": "openshift distributed tracing",
+	"pcpe": "cpe:/a:redhat:openshift_distributed_tracing"
+}

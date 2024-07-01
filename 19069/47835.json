@@ -1,8 +1,8 @@
 {
 	"vid": "19069",
 	"vname": "Mesa Labs, Inc",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:mesalabs",
 	"pid": "47835",
 	"pname": "AmegaView",
-	"pcpe": "cpe:/a:misc:mesalabs_amegaview"
+	"pcpe": "cpe:/a:mesalabs:amegaview"
 }

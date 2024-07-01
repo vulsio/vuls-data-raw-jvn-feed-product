@@ -3,6 +3,6 @@
 	"vname": "Medtronic",
 	"vcpe": "cpe:/:medtronic",
 	"pid": "55677",
-	"pname": "Micro Clinician (A51200)",
-	"pcpe": "cpe:/a:medtronic:micro_clinician_%28a51200%29"
+	"pname": "Micro Clinician",
+	"pcpe": "cpe:/a:medtronic:micro_clinician"
 }

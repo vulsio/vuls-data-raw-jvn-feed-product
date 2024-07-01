@@ -1,8 +1,8 @@
 {
 	"vid": "21065",
 	"vname": "HIWIN",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:hiwin",
 	"pid": "53889",
 	"pname": "HIWIN Robot System Software",
-	"pcpe": "cpe:/a:misc:hiwin_hiwin_robot_system_software"
+	"pcpe": "cpe:/a:hiwin:robot_system_software"
 }

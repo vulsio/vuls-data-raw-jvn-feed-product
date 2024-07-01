@@ -3,6 +3,6 @@
 	"vname": "Hitachi Energy",
 	"vcpe": "cpe:/:hitachienergy",
 	"pid": "56147",
-	"pname": "REB500",
-	"pcpe": "cpe:/a:hitachienergy:reb500"
+	"pname": "REB500 ファームウェア",
+	"pcpe": "cpe:/o:hitachienergy:reb500"
 }

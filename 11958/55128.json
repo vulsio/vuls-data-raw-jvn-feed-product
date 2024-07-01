@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:omron",
 	"pid": "55128",
 	"pname": "CP1L-EL20DR-D",
-	"pcpe": "cpe:/a:omron:cp1l-el20dr-d"
+	"pcpe": "cpe:/o:omron:cp1l-el20dr-d_firmware"
 }

@@ -1,8 +1,8 @@
 {
 	"vid": "21822",
 	"vname": "RoboDK",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:robodk",
 	"pid": "56023",
 	"pname": "RoboDK",
-	"pcpe": "cpe:/a:misc:robodk_robodk"
+	"pcpe": "cpe:/a:robodk:robodk"
 }

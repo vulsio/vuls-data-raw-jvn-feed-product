@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:hitachi_abb_power_grids",
 	"pid": "55144",
 	"pname": "Lumada APM",
-	"pcpe": "cpe:/a:hitachi_abb_power_grids:lumada_apm"
+	"pcpe": "cpe:/a:hitachi_abb_power_grids:lumada_asset_performance_management"
 }

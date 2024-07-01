@@ -1,8 +1,8 @@
 {
 	"vid": "19949",
 	"vname": "株式会社キングジム",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:kingjim",
 	"pid": "50427",
 	"pname": "ラベルプリンター「テプラ」 PRO SR-R7900P 本体ソフトウェア",
-	"pcpe": "cpe:/o:misc:kingjim_label_printer_tepra_pro_sr-r7900p_software"
+	"pcpe": "cpe:/o:kingjim:tepura_pro_sr-7900p_firmware"
 }

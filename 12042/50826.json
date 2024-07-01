@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:hp",
 	"pid": "50826",
 	"pname": "HPE Agentless Management Service",
-	"pcpe": "cpe:/o:hp:hpe_agentless_management_service"
+	"pcpe": "cpe:/a:hp:agentless_management"
 }

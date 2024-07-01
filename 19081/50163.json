@@ -3,6 +3,6 @@
 	"vname": "Hillrom",
 	"vcpe": "cpe:/:hillrom",
 	"pid": "50163",
-	"pname": "Welch Allyn H-Scribe Holter Analysis System",
-	"pcpe": "cpe:/a:hillrom:hillrom_welch_allyn_h-scribe_holter_analysis_system"
+	"pname": "Welch Allyn H-Scribe Holter Analysis System ファームウェア",
+	"pcpe": "cpe:/o:hillrom:welch_allyn_hscribe_holter_analysis_system_firmware"
 }

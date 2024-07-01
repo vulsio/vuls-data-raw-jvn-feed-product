@@ -3,6 +3,6 @@
 	"vname": "Sensormatic Electronics",
 	"vcpe": "cpe:/:swhouse",
 	"pid": "53971",
-	"pname": "C-CURE 9000",
-	"pcpe": "cpe:/a:swhouse:c-cure_9000"
+	"pname": "C-CURE 9000 ファームウェア",
+	"pcpe": "cpe:/o:swhouse:c-cure_9000_firmware"
 }

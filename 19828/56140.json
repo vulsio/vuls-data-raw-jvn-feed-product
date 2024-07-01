@@ -3,6 +3,6 @@
 	"vname": "Hitachi Energy",
 	"vcpe": "cpe:/:hitachienergy",
 	"pid": "56140",
-	"pname": "GMS600",
-	"pcpe": "cpe:/a:hitachienergy:gms6000"
+	"pname": "GMS600 ファームウェア",
+	"pcpe": "cpe:/o:hitachienergy:gms600_firmware"
 }

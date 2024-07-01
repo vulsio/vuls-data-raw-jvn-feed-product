@@ -1,8 +1,8 @@
 {
 	"vid": "20237",
 	"vname": "ぜろちゃんねるプラス開発チーム",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:zero-channel_plus_project",
 	"pid": "51534",
 	"pname": "ぜろちゃんねるプラス",
-	"pcpe": "cpe:/a:misc:zerochannel_plus_developers_zerochannelplus"
+	"pcpe": "cpe:/a:zero-channel_plus_project:zero-channel_plus"
 }

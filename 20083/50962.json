@@ -1,8 +1,8 @@
 {
 	"vid": "20083",
 	"vname": "同人サークル MICMNIS",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:phpuploader_project",
 	"pid": "50962",
 	"pname": "phpUploader",
-	"pcpe": "cpe:/a:misc:micmnis_phpuploader"
+	"pcpe": "cpe:/a:phpuploader_project:phpuploader"
 }

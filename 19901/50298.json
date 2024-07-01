@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:idec",
 	"pid": "50298",
 	"pname": "FC6A 形 MICROSmart All-in-One CPU モジュール",
-	"pcpe": "cpe:/a:idec:fc6a_microsmart_allinone_cpu_module"
+	"pcpe": "cpe:/o:idec:microsmart_fc6a_firmware"
 }

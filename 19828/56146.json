@@ -3,6 +3,6 @@
 	"vname": "Hitachi Energy",
 	"vcpe": "cpe:/:hitachienergy",
 	"pid": "56146",
-	"pname": "PWC600",
-	"pcpe": "cpe:/a:hitachienergy:pwc600"
+	"pname": "PWC600 ファームウェア",
+	"pcpe": "cpe:/o:hitachienergy:pwc600_firmware"
 }

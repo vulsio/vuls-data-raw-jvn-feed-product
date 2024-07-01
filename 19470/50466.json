@@ -1,8 +1,8 @@
 {
 	"vid": "19470",
 	"vname": "Sensormatic Electronics",
-	"vcpe": "cpe:/:sensormatic_electronics",
+	"vcpe": "cpe:/:johnsoncontrols",
 	"pid": "50466",
 	"pname": "VideoEdge",
-	"pcpe": "cpe:/o:sensormatic_electronics:videoedge"
+	"pcpe": "cpe:/o:johnsoncontrols:videoedge"
 }

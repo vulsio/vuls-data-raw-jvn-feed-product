@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:tandd",
 	"pid": "52113",
 	"pname": "THERMO RECORDER DATA SERVER",
-	"pcpe": "cpe:/a:tandd:tandd_thermo_recorder_date_server"
+	"pcpe": "cpe:/o:tandd:thermo_recorder_data_server_firmware"
 }

@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:hitachi_abb_power_grids",
 	"pid": "47266",
 	"pname": "GMS600",
-	"pcpe": "cpe:/a:hitachi_abb_power_grids:gms600"
+	"pcpe": "cpe:/o:hitachi_abb_power_grids:gms600_firmware"
 }

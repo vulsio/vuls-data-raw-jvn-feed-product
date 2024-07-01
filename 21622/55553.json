@@ -1,8 +1,8 @@
 {
 	"vid": "21622",
 	"vname": "株式会社ディー・オー・エス",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:dos-osaka",
 	"pid": "55553",
 	"pname": "SS1",
-	"pcpe": "cpe:/a:misc:dos_co_ltd_ss1"
+	"pcpe": "cpe:/a:dos-osaka:ss1"
 }

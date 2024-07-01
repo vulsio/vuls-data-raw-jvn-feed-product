@@ -1,8 +1,8 @@
 {
 	"vid": "18806",
 	"vname": "PerFact Innovation GmbH & Co. KG",
-	"vcpe": "cpe:/:perfact_innovation",
+	"vcpe": "cpe:/:perfact",
 	"pid": "46815",
 	"pname": "OpenVPN-Client",
-	"pcpe": "cpe:/a:perfact_innovation:openvpn-client"
+	"pcpe": "cpe:/a:perfact:openvpn-client"
 }

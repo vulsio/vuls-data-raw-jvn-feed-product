@@ -1,8 +1,8 @@
 {
 	"vid": "19738",
 	"vname": "Delite Studio",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:delitestudio",
 	"pid": "49770",
-	"pname": "Push Notifications for WordPress (Lite)",
-	"pcpe": "cpe:/a:misc:delite_studio_push_notifications_for_wordpress_lite"
+	"pname": "Push Notifications for WordPress",
+	"pcpe": "cpe:/a:delitestudio:push_notifications_for_wordpress"
 }

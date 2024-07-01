@@ -1,8 +1,8 @@
 {
 	"vid": "20810",
 	"vname": "HJ ホールディングス株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:hjholdings",
 	"pid": "53069",
 	"pname": "Hulu / フールー",
-	"pcpe": "cpe:/a:misc:hj_holdings_hulu"
+	"pcpe": "cpe:/a:hjholdings:hulu"
 }

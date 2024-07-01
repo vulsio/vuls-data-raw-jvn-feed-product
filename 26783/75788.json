@@ -1,0 +1,8 @@
+{
+	"vid": "26783",
+	"vname": "opentelemetry",
+	"vcpe": "cpe:/:opentelemetry",
+	"pid": "75788",
+	"pname": "opentelemetry collector",
+	"pcpe": "cpe:/a:opentelemetry:opentelemetry_collector"
+}

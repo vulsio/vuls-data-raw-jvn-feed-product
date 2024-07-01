@@ -3,6 +3,6 @@
 	"vname": "アドバンテック株式会社",
 	"vcpe": "cpe:/:advantech",
 	"pid": "50803",
-	"pname": "ADAM-3600",
-	"pcpe": "cpe:/a:advantech:adam-3600"
+	"pname": "ADAM-3600 ファームウェア",
+	"pcpe": "cpe:/o:advantech:adam-3600_firmware"
 }

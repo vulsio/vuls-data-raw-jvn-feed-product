@@ -1,8 +1,8 @@
 {
 	"vid": "20294",
 	"vname": "明京電機株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:meikyo",
 	"pid": "51752",
 	"pname": "PoE BOOT nino PoE8M2",
-	"pcpe": "cpe:/a:misc:meikyoelectric_poe_boot_nino_poe8m2"
+	"pcpe": "cpe:/o:meikyo:poe_boot_nino_poe8m2_firmware"
 }

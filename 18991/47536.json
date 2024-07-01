@@ -1,8 +1,8 @@
 {
 	"vid": "18991",
 	"vname": "Cassia Networks, Inc.",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:cassianetworks",
 	"pid": "47536",
 	"pname": "Access Controller",
-	"pcpe": "cpe:/a:misc:cassia_networks_access_controller"
+	"pcpe": "cpe:/a:cassianetworks:access_controller"
 }

@@ -1,8 +1,8 @@
 {
 	"vid": "19949",
 	"vname": "株式会社キングジム",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:kingjim",
 	"pid": "50423",
 	"pname": "パスワードマネージャー「ミルパス」 PW20 ファームウェア",
-	"pcpe": "cpe:/o:misc:kingjim_password_manager_mirupass_pw20_firmware"
+	"pcpe": "cpe:/o:kingjim:mirupass_pw20_firmware"
 }

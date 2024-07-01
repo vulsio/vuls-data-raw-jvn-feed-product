@@ -1,8 +1,8 @@
 {
 	"vid": "20731",
 	"vname": "横河レンタ・リース株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:yrl",
 	"pid": "75529",
 	"pname": "Unifier Cast",
-	"pcpe": "cpe:/a:misc:yokogawa_renta_unifier_cast"
+	"pcpe": "cpe:/a:yrl:yokogawa_renta_unifier_cast"
 }

@@ -1,8 +1,8 @@
 {
 	"vid": "21514",
 	"vname": "Landis+Gyr",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:landisgyr",
 	"pid": "55260",
-	"pname": "E850 (ZMQ200)",
-	"pcpe": "cpe:/o:misc:landis%2bgyr_e850_%28zmq200%29"
+	"pname": "E850 ",
+	"pcpe": "cpe:/o:landisgyr:e850_firmware"
 }

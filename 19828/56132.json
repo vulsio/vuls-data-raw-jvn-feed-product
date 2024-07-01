@@ -3,6 +3,6 @@
 	"vname": "Hitachi Energy",
 	"vcpe": "cpe:/:hitachienergy",
 	"pid": "56132",
-	"pname": "TXpert Hub CoreTec 5",
-	"pcpe": "cpe:/a:hitachienergy:txpert_hub_coretec_5"
+	"pname": "TXpert Hub CoreTec 5 ファームウェア",
+	"pcpe": "cpe:/o:hitachienergy:txpert_hub_coretec_5_firmware"
 }

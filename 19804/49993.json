@@ -1,8 +1,8 @@
 {
 	"vid": "19804",
 	"vname": "Twin Oaks Computing, Inc.",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:twinoakscomputing",
 	"pid": "49993",
 	"pname": "CoreDX DDS",
-	"pcpe": "cpe:/a:misc:twin_oaks_computing_coredx_dds"
+	"pcpe": "cpe:/a:twinoakscomputing:coredx_dds"
 }

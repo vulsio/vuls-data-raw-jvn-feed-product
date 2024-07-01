@@ -1,8 +1,8 @@
 {
 	"vid": "19949",
 	"vname": "株式会社キングジム",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:kingjim",
 	"pid": "50428",
 	"pname": "ネットワーク設定確認ツール (Windows 向け、「TEPRA Label Editor SPC10」にバンドル)",
-	"pcpe": "cpe:/a:misc:kingjim_tepra_network_config_tool_for_windows_tepra_label_editor_spc10"
+	"pcpe": "cpe:/a:kingjim:kingjim_tepra_network_config_tool_for_windows_tepra_label_editor_spc10"
 }

@@ -1,8 +1,8 @@
 {
 	"vid": "20731",
 	"vname": "横河レンタ・リース株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:yrl",
 	"pid": "52896",
 	"pname": "Passage Drive",
-	"pcpe": "cpe:/a:misc:yokogawa_renta_lease_passage_drive"
+	"pcpe": "cpe:/a:yrl:passage_drive"
 }

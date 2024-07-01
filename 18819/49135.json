@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:hitachi_abb_power_grids",
 	"pid": "49135",
 	"pname": "SDM600",
-	"pcpe": "cpe:/a:hitachi_abb_power_grids:sdm600"
+	"pcpe": "cpe:/o:hitachi_abb_power_grids:sdm600_firmware"
 }

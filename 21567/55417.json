@@ -1,8 +1,8 @@
 {
 	"vid": "21567",
 	"vname": "図研エルミック株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:elwsc",
 	"pid": "55417",
 	"pname": "KASAGO mobile IPv6",
-	"pcpe": "cpe:/a:misc:zuken_elmic_kasago_mobile_ipv6"
+	"pcpe": "cpe:/a:elwsc:kasago_mobile_ipv6"
 }

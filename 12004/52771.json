@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:exemys",
 	"pid": "52771",
 	"pname": "RME1-AI ファームウェア",
-	"pcpe": "cpe:/a:exemys:rme1-ai_firmware"
+	"pcpe": "cpe:/o:exemys:rme1_firmware"
 }

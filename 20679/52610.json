@@ -1,8 +1,8 @@
 {
 	"vid": "20679",
 	"vname": "Pyramid Solutions, Inc.",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:pyramidsolutions",
 	"pid": "52610",
 	"pname": "EtherNet/IP Adapter Development Kit (EADK)",
-	"pcpe": "cpe:/a:misc:pyramid_solutions_ethernet_ip_adapter_development_kit"
+	"pcpe": "cpe:/a:pyramidsolutions:netstax_ethernet%2fip_adapter_development_kit"
 }

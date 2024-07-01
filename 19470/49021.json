@@ -1,8 +1,8 @@
 {
 	"vid": "19470",
 	"vname": "Sensormatic Electronics",
-	"vcpe": "cpe:/:sensormatic_electronics",
+	"vcpe": "cpe:/:johnsoncontrols",
 	"pid": "49021",
 	"pname": "KT-1",
-	"pcpe": "cpe:/a:sensormatic_electronics:sensormatic_electronics_kt-1"
+	"pcpe": "cpe:/o:johnsoncontrols:kantech_kt-1_door_controller_firmware"
 }

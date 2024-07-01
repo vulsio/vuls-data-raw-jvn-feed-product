@@ -1,8 +1,8 @@
 {
 	"vid": "20679",
 	"vname": "Pyramid Solutions, Inc.",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:pyramidsolutions",
 	"pid": "52616",
 	"pname": "EtherNet/IP Scanner DLL Kit (EIPS)",
-	"pcpe": "cpe:/a:misc:pyramid_solutions_ethernet_ip_scanner_dll_kit"
+	"pcpe": "cpe:/a:pyramidsolutions:netstax_ethernet%2fip_scanner_dll_kit"
 }

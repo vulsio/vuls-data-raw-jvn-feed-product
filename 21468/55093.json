@@ -1,8 +1,8 @@
 {
 	"vid": "21468",
 	"vname": "株式会社まほろば工房",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:ate-mahoroba",
 	"pid": "55093",
-	"pname": "MAHO-PBX",
-	"pcpe": "cpe:/o:misc:mahoroba_kobo_maho-pbx"
+	"pname": "MAHO-PBX NetDevancer",
+	"pcpe": "cpe:/o:ate-mahoroba:maho-pbx_netdevancer_firmware"
 }

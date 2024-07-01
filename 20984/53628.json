@@ -1,8 +1,8 @@
 {
 	"vid": "20984",
 	"vname": "Kingspan",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:kingspan",
 	"pid": "53628",
-	"pname": "TMS300 CS",
-	"pcpe": "cpe:/a:misc:kingspan_tms300_cs"
+	"pname": "TMS300 CS ファームウェア",
+	"pcpe": "cpe:/o:kingspan:tms300_cs_firmware"
 }

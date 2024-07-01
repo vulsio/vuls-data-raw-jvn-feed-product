@@ -1,8 +1,8 @@
 {
 	"vid": "20034",
 	"vname": "Plus one",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:csv%2b_project",
 	"pid": "50756",
 	"pname": "CSV+",
-	"pcpe": "cpe:/a:misc:plus_one_csv_plus"
+	"pcpe": "cpe:/a:csv%2b_project:csv%2b"
 }

@@ -3,6 +3,6 @@
 	"vname": "Hillrom",
 	"vcpe": "cpe:/:hillrom",
 	"pid": "50159",
-	"pname": "Welch Allyn Q-Stress Cardiac Stress Testing System",
-	"pcpe": "cpe:/a:hillrom:hillrom_welch_allyn_q-stress_cardiac_stress_testing_system"
+	"pname": "Welch Allyn Q-Stress Cardiac Stress Testing System ファームウェア",
+	"pcpe": "cpe:/o:hillrom:welch_allyn_q-stress_cardiac_stress_testing_system_firmware"
 }

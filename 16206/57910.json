@@ -3,6 +3,6 @@
 	"vname": "ABUS",
 	"vcpe": "cpe:/:abus",
 	"pid": "57910",
-	"pname": "ABUS TVIP",
-	"pcpe": "cpe:/o:abus:tvip"
+	"pname": "ABUS TVIP 20000-21150 ファームウェア",
+	"pcpe": "cpe:/o:abus:tvip_20000-21150_firmware"
 }

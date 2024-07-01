@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:hitachi_abb_power_grids",
 	"pid": "47267",
 	"pname": "PWC600",
-	"pcpe": "cpe:/a:hitachi_abb_power_grids:pwc600"
+	"pcpe": "cpe:/o:hitachi_abb_power_grids:pwc600_firmware"
 }

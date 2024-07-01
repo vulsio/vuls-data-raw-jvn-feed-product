@@ -1,8 +1,8 @@
 {
 	"vid": "19470",
 	"vname": "Sensormatic Electronics",
-	"vcpe": "cpe:/:sensormatic_electronics",
+	"vcpe": "cpe:/:johnsoncontrols",
 	"pid": "49084",
 	"pname": "Insight",
-	"pcpe": "cpe:/a:sensormatic_electronics:sensormatic_electronics_insight"
+	"pcpe": "cpe:/a:johnsoncontrols:sensormatic_electronics_insight"
 }

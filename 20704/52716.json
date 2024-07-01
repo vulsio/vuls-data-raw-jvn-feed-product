@@ -1,8 +1,8 @@
 {
 	"vid": "20704",
 	"vname": "tommy",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:ruby-mysql_project",
 	"pid": "52716",
 	"pname": "ruby-mysql",
-	"pcpe": "cpe:/a:misc:tommy_ruby_mysql"
+	"pcpe": "cpe:/a:ruby-mysql_project:ruby-mysql"
 }

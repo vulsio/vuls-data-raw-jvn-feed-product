@@ -1,8 +1,8 @@
 {
 	"vid": "19147",
 	"vname": "Xylem Inc.",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:xylem",
 	"pid": "50251",
 	"pname": "AquaView",
-	"pcpe": "cpe:/a:misc:xylem_aquaview"
+	"pcpe": "cpe:/a:xylem:aquaview"
 }

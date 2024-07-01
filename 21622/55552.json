@@ -1,8 +1,8 @@
 {
 	"vid": "21622",
 	"vname": "株式会社ディー・オー・エス",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:dos-osaka",
 	"pid": "55552",
 	"pname": "らくらくPCクラウド エージェント",
-	"pcpe": "cpe:/a:misc:dos_co_ltd_rakupccloud-agent"
+	"pcpe": "cpe:/a:dos-osaka:rakuraku_pc_cloud_agent"
 }

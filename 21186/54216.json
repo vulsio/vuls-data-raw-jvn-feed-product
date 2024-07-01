@@ -1,8 +1,8 @@
 {
 	"vid": "21186",
 	"vname": "アイホン株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:aiphone",
 	"pid": "54216",
 	"pname": "GT-DMB-N",
-	"pcpe": "cpe:/o:misc:aiphone_gt-dmb-n"
+	"pcpe": "cpe:/o:aiphone:gt-dmb-n_firmware"
 }

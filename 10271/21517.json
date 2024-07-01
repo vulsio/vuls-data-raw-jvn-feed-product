@@ -1,8 +1,8 @@
 {
 	"vid": "10271",
 	"vname": "lwIP プロジェクト",
-	"vcpe": "cpe:/:iwip_project",
+	"vcpe": "cpe:/:lwip_project",
 	"pid": "21517",
 	"pname": "lwIP",
-	"pcpe": "cpe:/a:iwip_project:iwip"
+	"pcpe": "cpe:/a:lwip_project:lwip"
 }

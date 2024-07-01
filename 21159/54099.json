@@ -1,8 +1,8 @@
 {
 	"vid": "21159",
 	"vname": "HEIDENHAIN",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:heidenhain",
 	"pid": "54099",
 	"pname": "TNC 640",
-	"pcpe": "cpe:/a:misc:heidenhain_tnc_640"
+	"pcpe": "cpe:/a:heidenhain:tnc_640_programming_station"
 }

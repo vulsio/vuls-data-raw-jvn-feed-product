@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:ricoh",
 	"pid": "53486",
 	"pname": "リコーカンタンドライバーインストーラセットアップツール",
-	"pcpe": "cpe:/a:ricoh:driver_installer"
+	"pcpe": "cpe:/a:ricoh:device_software_manager"
 }
