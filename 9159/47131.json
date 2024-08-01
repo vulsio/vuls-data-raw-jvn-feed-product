@@ -3,6 +3,6 @@
 	"vname": "フィリップス",
 	"vcpe": "cpe:/:philips",
 	"pid": "47131",
-	"pname": "882438 TruFlight Select PET/CT",
-	"pcpe": "cpe:/a:philips:882438_truflight_select_pet_ct"
+	"pname": "882438 TruFlight Select PET/CT ファームウェア",
+	"pcpe": "cpe:/o:philips:truflight_882438_firmware"
 }

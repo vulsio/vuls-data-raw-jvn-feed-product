@@ -1,8 +1,8 @@
 {
 	"vid": "25454",
 	"vname": "株式会社ファースト",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:c-first",
 	"pid": "66264",
 	"pname": "MD-404AA ファームウェア",
-	"pcpe": "cpe:/o:misc:c-first_md-404aa"
+	"pcpe": "cpe:/o:c-first:md-404aa_firmware"
 }

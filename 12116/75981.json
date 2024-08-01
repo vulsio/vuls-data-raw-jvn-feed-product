@@ -1,0 +1,8 @@
+{
+	"vid": "12116",
+	"vname": "Electron",
+	"vcpe": "cpe:/:electron",
+	"pid": "75981",
+	"pname": "electron-builder",
+	"pcpe": "cpe:/a:electron:electron-builder"
+}

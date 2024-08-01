@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:omron",
 	"pid": "55236",
 	"pname": "CX-Motion Pro",
-	"pcpe": "cpe:/o:omron:cx-motion_pro"
+	"pcpe": "cpe:/a:omron:cx-motion_pro"
 }

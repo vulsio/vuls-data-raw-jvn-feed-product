@@ -1,8 +1,8 @@
 {
 	"vid": "12873",
 	"vname": "Midnight Coders",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:themidnightcoders",
 	"pid": "29695",
-	"pname": "midnight_coders",
-	"pcpe": "cpe:/a:misc:midnight_coders"
+	"pname": "WebORB for Java",
+	"pcpe": "cpe:/a:themidnightcoders:weborb_for_java"
 }

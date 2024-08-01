@@ -1,8 +1,8 @@
 {
 	"vid": "19210",
 	"vname": "Retty株式会社",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:retty",
 	"pid": "48340",
 	"pname": "Retty",
-	"pcpe": "cpe:/a:misc:retty_retty"
+	"pcpe": "cpe:/a:retty:retty"
 }

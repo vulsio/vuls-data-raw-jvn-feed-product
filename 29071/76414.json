@@ -1,0 +1,8 @@
+{
+	"vid": "29071",
+	"vname": "kube-logging",
+	"vcpe": "cpe:/:kube-logging",
+	"pid": "76414",
+	"pname": "logging-operator",
+	"pcpe": "cpe:/a:kube-logging:logging-operator"
+}

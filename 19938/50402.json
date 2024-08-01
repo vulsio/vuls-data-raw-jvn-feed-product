@@ -1,8 +1,8 @@
 {
 	"vid": "19938",
 	"vname": "株式会社ジモティー",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:jmty",
 	"pid": "50402",
 	"pname": "ジモティー",
-	"pcpe": "cpe:/a:misc:jimoty_jimoty"
+	"pcpe": "cpe:/a:jmty:jimoty"
 }

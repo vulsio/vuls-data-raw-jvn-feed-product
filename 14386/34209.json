@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:gmo_payment_gateway",
 	"pid": "34209",
 	"pname": "GMO-PG決済モジュール (PGマルチペイメントサービス)",
-	"pcpe": "cpe:/a:gmo_payment_gateway:gmo-pg_settlement_module"
+	"pcpe": "cpe:/a:gmo_payment_gateway:gmo-pg_payment_module"
 }

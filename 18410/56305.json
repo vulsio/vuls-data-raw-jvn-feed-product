@@ -3,6 +3,6 @@
 	"vname": "ファナック株式会社",
 	"vcpe": "cpe:/:fanuc",
 	"pid": "56305",
-	"pname": "FANUC ROBOGUIDE-HandlingPRO",
-	"pcpe": "cpe:/a:fanuc:fanuc_roboguide_handlingpro"
+	"pname": "FANUC ROBOGUIDE-HandlingPRO ファームウェア",
+	"pcpe": "cpe:/o:fanuc:roboguide_handlingpro_firmware"
 }

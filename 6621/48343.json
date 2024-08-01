@@ -3,6 +3,6 @@
 	"vname": "ソフトバンク株式会社",
 	"vcpe": "cpe:/:softbank",
 	"pid": "48343",
-	"pname": "光BBユニット E-WMTA2.3",
-	"pcpe": "cpe:/h:softbank:e-wmta2.3"
+	"pname": "光BBユニット E-WMTA",
+	"pcpe": "cpe:/o:softbank:optical_bb_unit_e-wmta_firmware"
 }

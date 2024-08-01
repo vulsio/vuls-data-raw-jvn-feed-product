@@ -3,6 +3,6 @@
 	"vname": "フィリップス",
 	"vcpe": "cpe:/:philips",
 	"pid": "47121",
-	"pname": "882300 Gemini 16 Slice",
-	"pcpe": "cpe:/a:philips:882300_gemini_16_slice"
+	"pname": "882300 Gemini 16 Slice ファームウェア",
+	"pcpe": "cpe:/o:philips:gemini_882300_firmware"
 }

@@ -1,8 +1,8 @@
 {
 	"vid": "25454",
 	"vname": "株式会社ファースト",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:c-first",
 	"pid": "66256",
 	"pname": "CFR-16EAB ファームウェア",
-	"pcpe": "cpe:/o:misc:c-first_cfr-16eab"
+	"pcpe": "cpe:/o:c-first:cfr-16eab_firmware"
 }

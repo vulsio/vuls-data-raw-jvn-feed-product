@@ -1,8 +1,8 @@
 {
 	"vid": "25454",
 	"vname": "株式会社ファースト",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:c-first",
 	"pid": "66267",
 	"pname": "MD-808AB ファームウェア",
-	"pcpe": "cpe:/o:misc:c-first_md-808ab"
+	"pcpe": "cpe:/o:c-first:md-808ab_firmware"
 }

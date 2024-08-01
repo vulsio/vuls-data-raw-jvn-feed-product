@@ -1,0 +1,8 @@
+{
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "76092",
+	"pname": "dpkg-cross",
+	"pcpe": "cpe:/a:debian:dpkg-cross"
+}

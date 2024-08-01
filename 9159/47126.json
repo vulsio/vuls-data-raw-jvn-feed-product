@@ -3,6 +3,6 @@
 	"vname": "フィリップス",
 	"vcpe": "cpe:/:philips",
 	"pid": "47126",
-	"pname": "882412 GEMINI LXL",
-	"pcpe": "cpe:/a:philips:882412_gemini_lxl"
+	"pname": "882412 GEMINI LXL ファームウェア",
+	"pcpe": "cpe:/o:philips:gemini_882412_firmware"
 }

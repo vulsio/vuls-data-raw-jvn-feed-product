@@ -1,8 +1,8 @@
 {
 	"vid": "19951",
 	"vname": "Fernhill Software",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:fernhillsoftware",
 	"pid": "50425",
 	"pname": "Fernhill SCADA Server",
-	"pcpe": "cpe:/o:misc:fernhill_software_fernhill_scada_server"
+	"pcpe": "cpe:/a:fernhillsoftware:scada_server"
 }

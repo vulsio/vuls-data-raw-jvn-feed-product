@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:php_kobo",
 	"pid": "45327",
 	"pname": "【PKOBO-vote01】PHP投票・アンケートシステム（連続投票防止付き）CMS フリー（無料）版",
-	"pcpe": "cpe:/a:php_kobo:questionnaire_cms_free"
+	"pcpe": "cpe:/a:php_kobo:pkobo-vote01"
 }

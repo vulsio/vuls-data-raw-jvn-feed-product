@@ -1,8 +1,8 @@
 {
 	"vid": "10067",
 	"vname": "株式会社ゆこゆこ",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:yukoyuko",
 	"pid": "21086",
 	"pname": "Android 版アプリ「ゆこゆこ」",
-	"pcpe": "cpe:/a:misc:yuko_yuko_yuko_yuko_for_android"
+	"pcpe": "cpe:/a:yukoyuko:yuko_yuko"
 }

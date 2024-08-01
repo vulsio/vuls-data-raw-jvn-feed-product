@@ -1,8 +1,8 @@
 {
 	"vid": "19135",
 	"vname": "nendeb",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:nendeb",
 	"pid": "48061",
 	"pname": "不動産閲覧履歴プラグイン",
-	"pcpe": "cpe:/a:misc:nendeb_fudosan_etsuran_rireki_plugin"
+	"pcpe": "cpe:/a:nendeb:nendeb_fudosan_etsuran_rireki_plugin"
 }

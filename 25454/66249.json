@@ -1,8 +1,8 @@
 {
 	"vid": "25454",
 	"vname": "株式会社ファースト",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:c-first",
 	"pid": "66249",
 	"pname": "CFR-4EAAM ファームウェア",
-	"pcpe": "cpe:/o:misc:c-first_cfr-4eaam"
+	"pcpe": "cpe:/o:c-first:cfr-4eaam_firmware"
 }

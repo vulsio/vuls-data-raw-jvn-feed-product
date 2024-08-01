@@ -1,0 +1,8 @@
+{
+	"vid": "216",
+	"vname": "Debian",
+	"vcpe": "cpe:/:debian",
+	"pid": "76094",
+	"pname": "initramfs-tools",
+	"pcpe": "cpe:/a:debian:initramfs-tools"
+}

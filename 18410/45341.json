@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:fanuc",
 	"pid": "45341",
 	"pname": "FANUC Series 0i-MODEL F Plus",
-	"pcpe": "cpe:/o:fanuc:fanuc_series_0i-model_f_plus"
+	"pcpe": "cpe:/o:fanuc:series_0i-model_f_plus_firmware"
 }

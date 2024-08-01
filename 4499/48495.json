@@ -3,6 +3,6 @@
 	"vname": "三菱電機",
 	"vcpe": "cpe:/:mitsubishielectric",
 	"pid": "48495",
-	"pname": "FX3U-ENET",
-	"pcpe": "cpe:/o:mitsubishielectric:fx3u-enet"
+	"pname": "FX3U-ENET ファームウェア",
+	"pcpe": "cpe:/o:mitsubishielectric:fx3u-enet_firmware"
 }

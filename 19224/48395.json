@@ -1,8 +1,8 @@
 {
 	"vid": "19224",
 	"vname": "MDT Software",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:auvesy-mdt",
 	"pid": "48395",
 	"pname": "MDT AutoSave",
-	"pcpe": "cpe:/a:misc:mdt_software_mdt_autosave"
+	"pcpe": "cpe:/a:auvesy-mdt:autosave"
 }

@@ -1,8 +1,8 @@
 {
 	"vid": "19135",
 	"vname": "nendeb",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:nendeb",
 	"pid": "48058",
 	"pname": "不動産プラグイン(本体)",
-	"pcpe": "cpe:/a:misc:nendeb_fudosan_plugin_hontai"
+	"pcpe": "cpe:/a:nendeb:fudosan_plugin"
 }

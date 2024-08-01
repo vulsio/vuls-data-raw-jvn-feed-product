@@ -1,8 +1,8 @@
 {
 	"vid": "20251",
 	"vname": "Lifepoint Informatics",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:lifepoint",
 	"pid": "51583",
 	"pname": "Patient Portal",
-	"pcpe": "cpe:/a:misc:lifepoint_informatics_patient_portal"
+	"pcpe": "cpe:/a:lifepoint:patient_portal"
 }

@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:epson",
 	"pid": "46299",
 	"pname": "EpsonNet SetupManager",
-	"pcpe": "cpe:/a:epson:net_setupmanager"
+	"pcpe": "cpe:/a:epson:epsonnet_setupmanager"
 }

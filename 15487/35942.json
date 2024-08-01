@@ -1,8 +1,8 @@
 {
 	"vid": "15487",
 	"vname": "Naviwebs S.C.",
-	"vcpe": "cpe:/:navigatecms",
+	"vcpe": "cpe:/:naviwebs",
 	"pid": "35942",
 	"pname": "Navigate CMS",
-	"pcpe": "cpe:/a:navigatecms:navigate_cms"
+	"pcpe": "cpe:/a:naviwebs:navigate_cms"
 }

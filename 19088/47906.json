@@ -1,8 +1,8 @@
 {
 	"vid": "19088",
 	"vname": "株式会社 asken",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:asken",
 	"pid": "47906",
 	"pname": "あすけん",
-	"pcpe": "cpe:/a:misc:asken_asken"
+	"pcpe": "cpe:/a:asken:asken"
 }

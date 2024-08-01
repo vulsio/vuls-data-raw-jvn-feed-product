@@ -1,8 +1,8 @@
 {
 	"vid": "25454",
 	"vname": "株式会社ファースト",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:c-first",
 	"pid": "66243",
 	"pname": "CFR-4EHD ファームウェア",
-	"pcpe": "cpe:/o:misc:c-first_cfr-4ehd"
+	"pcpe": "cpe:/o:c-first:cfr-4ehd_firmware"
 }

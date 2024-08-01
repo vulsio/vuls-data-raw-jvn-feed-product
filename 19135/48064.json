@@ -1,8 +1,8 @@
 {
 	"vid": "19135",
 	"vname": "nendeb",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:nendeb",
 	"pid": "48064",
 	"pname": "不動産校区プラグイン",
-	"pcpe": "cpe:/a:misc:nendeb_fudosan_koku_plugin"
+	"pcpe": "cpe:/a:nendeb:nendeb_fudosan_koku_plugin"
 }

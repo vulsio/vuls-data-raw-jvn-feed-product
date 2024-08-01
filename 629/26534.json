@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:moxa",
 	"pid": "26534",
 	"pname": "MGate MB3280 ファームウェア",
-	"pcpe": "cpe:/a:moxa:mgate_mb3280_router_firmware"
+	"pcpe": "cpe:/o:moxa:mgate_mb3280_firmware"
 }

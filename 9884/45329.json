@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:php_kobo",
 	"pid": "45329",
 	"pname": "【CalendarForm01】(受付上限設定付き)予約・応募フォーム連動 営業日カレンダー フリー（無料）版",
-	"pcpe": "cpe:/a:php_kobo:business_calendar_free"
+	"pcpe": "cpe:/a:php_kobo:calendarform01"
 }

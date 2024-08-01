@@ -3,6 +3,6 @@
 	"vname": "フィリップス",
 	"vcpe": "cpe:/:philips",
 	"pid": "47123",
-	"pname": "882400 Gemini GXL 10 Slice",
-	"pcpe": "cpe:/a:philips:882400_gemini_gxl_10_slice"
+	"pname": "882400 Gemini GXL 10 Slice ファームウェア",
+	"pcpe": "cpe:/o:philips:gemini_882400_firmware"
 }

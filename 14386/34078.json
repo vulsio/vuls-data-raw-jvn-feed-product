@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:gmo_payment_gateway",
 	"pid": "34078",
 	"pname": "EC-CUBEペイメント決済モジュール",
-	"pcpe": "cpe:/a:gmo_payment_gateway:ec-cubepayment_settlement_module"
+	"pcpe": "cpe:/a:gmo_payment_gateway:ec-cube_payment_module"
 }
