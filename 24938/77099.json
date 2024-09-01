@@ -1,0 +1,8 @@
+{
+	"vid": "24938",
+	"vname": "keyfactor",
+	"vcpe": "cpe:/:keyfactor",
+	"pid": "77099",
+	"pname": "aws orchestrator",
+	"pcpe": "cpe:/a:keyfactor:aws_orchestrator"
+}

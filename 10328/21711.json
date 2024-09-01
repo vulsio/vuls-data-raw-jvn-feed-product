@@ -1,8 +1,8 @@
 {
 	"vid": "10328",
 	"vname": "DBD::PgPP",
-	"vcpe": "cpe:/:misc",
+	"vcpe": "cpe:/:dbd%3a%3apgpp_project",
 	"pid": "21711",
 	"pname": "DBD::PgPP",
-	"pcpe": "cpe:/a:misc:dbd%3A%3Apgpp_dbd%3A%3Apgpp"
+	"pcpe": "cpe:/a:dbd%3a%3apgpp_project:dbd%3a%3apgpp"
 }

@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:siemens",
 	"pid": "49616",
 	"pname": "SINEC NMS",
-	"pcpe": "cpe:/a:siemens:sinec_network_management_system"
+	"pcpe": "cpe:/a:siemens:sinec_nms"
 }

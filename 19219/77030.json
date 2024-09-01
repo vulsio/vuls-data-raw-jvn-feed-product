@@ -1,0 +1,8 @@
+{
+	"vid": "19219",
+	"vname": "Palo Alto Networks",
+	"vcpe": "cpe:/:paloaltonetworks",
+	"pid": "77030",
+	"pname": "cortex xsoar commonscripts",
+	"pcpe": "cpe:/a:paloaltonetworks:cortex_xsoar_commonscripts"
+}

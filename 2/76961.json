@@ -1,0 +1,8 @@
+{
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "76961",
+	"pname": "Azure IoT Hub Device Client SDK",
+	"pcpe": "cpe:/a:microsoft:azure_iot_hub_device_client_sdk"
+}

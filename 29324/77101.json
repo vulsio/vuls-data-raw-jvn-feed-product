@@ -1,0 +1,8 @@
+{
+	"vid": "29324",
+	"vname": "rust-bitcoin",
+	"vcpe": "cpe:/:rust-bitcoin",
+	"pid": "77101",
+	"pname": "miniscript",
+	"pcpe": "cpe:/a:rust-bitcoin:miniscript"
+}
