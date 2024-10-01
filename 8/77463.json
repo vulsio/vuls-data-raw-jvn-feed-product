@@ -1,0 +1,8 @@
+{
+	"vid": "8",
+	"vname": "Apache Software Foundation",
+	"vcpe": "cpe:/:apache",
+	"pid": "77463",
+	"pname": "apache-airflow-providers-fab",
+	"pcpe": "cpe:/a:apache:apache-airflow-providers-fab"
+}

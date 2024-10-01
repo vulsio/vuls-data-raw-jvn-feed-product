@@ -1,0 +1,8 @@
+{
+	"vid": "697",
+	"vname": "Beckhoff Automation",
+	"vcpe": "cpe:/:beckhoff",
+	"pid": "78073",
+	"pname": "twincat/bsd",
+	"pcpe": "cpe:/o:beckhoff:twincat%2Fbsd"
+}

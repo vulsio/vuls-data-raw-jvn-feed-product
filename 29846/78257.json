@@ -1,0 +1,8 @@
+{
+	"vid": "29846",
+	"vname": "external-secrets",
+	"vcpe": "cpe:/:external-secrets",
+	"pid": "78257",
+	"pname": "external secrets operator",
+	"pcpe": "cpe:/a:external-secrets:external_secrets_operator"
+}

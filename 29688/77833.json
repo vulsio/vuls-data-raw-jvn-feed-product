@@ -1,0 +1,8 @@
+{
+	"vid": "29688",
+	"vname": "serilog-contrib",
+	"vcpe": "cpe:/:serilog-contrib",
+	"pid": "77833",
+	"pname": "serilog-enrichers-clientinfo",
+	"pcpe": "cpe:/a:serilog-contrib:serilog-enrichers-clientinfo"
+}

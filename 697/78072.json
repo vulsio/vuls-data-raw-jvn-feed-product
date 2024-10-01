@@ -1,0 +1,8 @@
+{
+	"vid": "697",
+	"vname": "Beckhoff Automation",
+	"vcpe": "cpe:/:beckhoff",
+	"pid": "78072",
+	"pname": "ipc diagnostics package",
+	"pcpe": "cpe:/a:beckhoff:ipc_diagnostics_package"
+}

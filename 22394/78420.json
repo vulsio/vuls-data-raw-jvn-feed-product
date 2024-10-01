@@ -1,0 +1,8 @@
+{
+	"vid": "22394",
+	"vname": "sigstore",
+	"vcpe": "cpe:/:sigstore",
+	"pid": "78420",
+	"pname": "sigstore-go",
+	"pcpe": "cpe:/a:sigstore:sigstore-go"
+}

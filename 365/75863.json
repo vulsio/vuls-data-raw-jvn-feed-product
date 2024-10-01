@@ -3,6 +3,6 @@
 	"vname": "シトリックス・システムズ",
 	"vcpe": "cpe:/:citrix",
 	"pid": "75863",
-	"pname": "hypervisor",
+	"pname": "Citrix Hypervisor",
 	"pcpe": "cpe:/o:citrix:hypervisor"
 }

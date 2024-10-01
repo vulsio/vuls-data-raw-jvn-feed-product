@@ -4,5 +4,5 @@
 	"vcpe": "cpe:/:microfocus",
 	"pid": "39430",
 	"pname": "NetIQ Advanced Authentication",
-	"pcpe": "cpe:/a:microfocus:netiq_advanced_authentication_framework"
+	"pcpe": "cpe:/a:microfocus:netiq_advanced_authentication"
 }

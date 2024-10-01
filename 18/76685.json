@@ -3,6 +3,6 @@
 	"vname": "IBM",
 	"vcpe": "cpe:/:ibm",
 	"pid": "76685",
-	"pname": "mq operator",
+	"pname": "IBM MQ Operator",
 	"pcpe": "cpe:/a:ibm:mq_operator"
 }

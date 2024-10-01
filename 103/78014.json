@@ -1,0 +1,8 @@
+{
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "78014",
+	"pname": "mlnx-os",
+	"pcpe": "cpe:/o:nvidia:mlnx-os"
+}
