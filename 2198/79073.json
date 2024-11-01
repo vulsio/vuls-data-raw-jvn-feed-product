@@ -1,0 +1,8 @@
+{
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "79073",
+	"pname": "alveo u250 ファームウェア",
+	"pcpe": "cpe:/o:amd:alveo_u250_firmware"
+}

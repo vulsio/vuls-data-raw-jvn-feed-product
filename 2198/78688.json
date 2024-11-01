@@ -1,0 +1,8 @@
+{
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "78688",
+	"pname": "epyc 8124pn ファームウェア",
+	"pcpe": "cpe:/o:amd:epyc_8124pn_firmware"
+}

@@ -3,6 +3,6 @@
 	"vname": "インテル",
 	"vcpe": "cpe:/:intel",
 	"pid": "78078",
-	"pname": "tdx module software",
+	"pname": "TDX Module software",
 	"pcpe": "cpe:/a:intel:tdx_module_software"
 }

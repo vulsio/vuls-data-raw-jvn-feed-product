@@ -1,0 +1,8 @@
+{
+	"vid": "103",
+	"vname": "NVIDIA",
+	"vcpe": "cpe:/:nvidia",
+	"pid": "78656",
+	"pname": "nvidia container toolkit",
+	"pcpe": "cpe:/a:nvidia:nvidia_container_toolkit"
+}

@@ -1,0 +1,8 @@
+{
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "79071",
+	"pname": "alveo u50 ファームウェア",
+	"pcpe": "cpe:/o:amd:alveo_u50_firmware"
+}

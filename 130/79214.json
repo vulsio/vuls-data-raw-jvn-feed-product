@@ -1,0 +1,8 @@
+{
+	"vid": "130",
+	"vname": "インテル",
+	"vcpe": "cpe:/:intel",
+	"pid": "79214",
+	"pname": "ethernet connections boot utility, preboot images, and efi drivers",
+	"pcpe": "cpe:/a:intel:ethernet_connections_boot_utility%2C_preboot_images%2C_and_efi_drivers"
+}

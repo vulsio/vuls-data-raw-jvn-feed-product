@@ -1,0 +1,8 @@
+{
+	"vid": "30054",
+	"vname": "lightningai",
+	"vcpe": "cpe:/:lightningai",
+	"pid": "78829",
+	"pname": "pytorch lightning",
+	"pcpe": "cpe:/a:lightningai:pytorch_lightning"
+}

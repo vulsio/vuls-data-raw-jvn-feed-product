@@ -1,0 +1,8 @@
+{
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "78716",
+	"pname": "Power Platform Terraform Provider",
+	"pcpe": "cpe:/a:microsoft:power_platform_terraform_provider"
+}

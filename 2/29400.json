@@ -3,6 +3,6 @@
 	"vname": "マイクロソフト",
 	"vcpe": "cpe:/:microsoft",
 	"pid": "29400",
-	"pname": "Visual C++ 再頒布可能パッケージ",
-	"pcpe": "cpe:/a:microsoft:visual_c%2B%2B_redistributable_package"
+	"pname": "Visual C++ 再頒布可能インストーラ",
+	"pcpe": "cpe:/a:microsoft:visual_c%2B%2B_redistributable_installer"
 }

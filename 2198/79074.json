@@ -1,0 +1,8 @@
+{
+	"vid": "2198",
+	"vname": "Advanced Micro Devices (AMD)",
+	"vcpe": "cpe:/:amd",
+	"pid": "79074",
+	"pname": "alveo u280 ファームウェア",
+	"pcpe": "cpe:/o:amd:alveo_u280_firmware"
+}

@@ -1,0 +1,8 @@
+{
+	"vid": "30103",
+	"vname": "plack::middleware::xsrfblock project",
+	"vcpe": "cpe:/:plack%3A%3Amiddleware%3A%3Axsrfblock_project",
+	"pid": "79056",
+	"pname": "plack::middleware::xsrfblock",
+	"pcpe": "cpe:/a:plack%3A%3Amiddleware%3A%3Axsrfblock_project:plack%3A%3Amiddleware%3A%3Axsrfblock"
+}
