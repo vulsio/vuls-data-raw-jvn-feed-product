@@ -1,0 +1,8 @@
+{
+	"vid": "697",
+	"vname": "Beckhoff Automation",
+	"vcpe": "cpe:/:beckhoff",
+	"pid": "79481",
+	"pname": "TwinCAT Package Manager",
+	"pcpe": "cpe:/a:beckhoff:twincat_package_manager"
+}

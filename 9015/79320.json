@@ -1,0 +1,8 @@
+{
+	"vid": "9015",
+	"vname": "MongoDB Inc.",
+	"vcpe": "cpe:/:mongodb",
+	"pid": "79320",
+	"pname": "mongocryptd",
+	"pcpe": "cpe:/a:mongodb:mongocryptd"
+}
