@@ -1,0 +1,8 @@
+{
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "79789",
+	"pname": "Azure Kubernetes Service Confidential Containers",
+	"pcpe": "cpe:/a:microsoft:confidental_containers"
+}
