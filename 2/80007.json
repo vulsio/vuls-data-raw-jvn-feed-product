@@ -1,0 +1,8 @@
+{
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "80007",
+	"pname": "Azure Arc Cluster microsoft.azure.hybridnetwork Extension",
+	"pcpe": "cpe:/a:microsoft:azure_arc_extension_microsoft.azure.hybridnetwork"
+}

@@ -1,0 +1,8 @@
+{
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "80235",
+	"pname": "Azure Managed Instance for Apache Cassandra",
+	"pcpe": "cpe:/a:microsoft:azure_managed_instance_for_apache_cassandra"
+}

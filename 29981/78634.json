@@ -1,8 +1,8 @@
 {
 	"vid": "29981",
-	"vname": "ptzoptics",
+	"vname": "PTZOptics",
 	"vcpe": "cpe:/:ptzoptics",
 	"pid": "78634",
-	"pname": "pt30x-sdi ファームウェア",
+	"pname": "PT30X-SDI ファームウェア",
 	"pcpe": "cpe:/o:ptzoptics:pt30x-sdi_firmware"
 }

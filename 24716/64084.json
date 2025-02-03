@@ -3,6 +3,6 @@
 	"vname": "dd-plist project",
 	"vcpe": "cpe:/:dd-plist_project",
 	"pid": "64084",
-	"pname": "dd-plist",
+	"pname": "com.dd.plist - A Java library for working with property lists",
 	"pcpe": "cpe:/a:dd-plist_project:dd-plist"
 }

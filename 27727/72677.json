@@ -1,8 +1,8 @@
 {
 	"vid": "27727",
-	"vname": "ultralytics",
+	"vname": "Ultralytics",
 	"vcpe": "cpe:/:ultralytics",
 	"pid": "72677",
-	"pname": "yolov5",
+	"pname": "YOLOv5",
 	"pcpe": "cpe:/a:ultralytics:yolov5"
 }

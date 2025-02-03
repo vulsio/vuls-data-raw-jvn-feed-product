@@ -1,0 +1,8 @@
+{
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "80236",
+	"pname": "Microsoft Entra ID",
+	"pcpe": "cpe:/a:microsoft:entra_id"
+}

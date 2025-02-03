@@ -1,0 +1,8 @@
+{
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "80048",
+	"pname": "Microsoft Update Catalog",
+	"pcpe": "cpe:/a:microsoft:update_catalog"
+}

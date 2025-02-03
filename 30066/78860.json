@@ -1,8 +1,8 @@
 {
 	"vid": "30066",
-	"vname": "mhenrixon",
+	"vname": "Mikael Henriksson",
 	"vcpe": "cpe:/:mhenrixon",
 	"pid": "78860",
-	"pname": "sidekiq-unique-jobs",
+	"pname": "SidekiqUniqueJobs",
 	"pcpe": "cpe:/a:mhenrixon:sidekiq-unique-jobs"
 }

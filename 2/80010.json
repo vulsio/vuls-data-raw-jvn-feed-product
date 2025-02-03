@@ -1,0 +1,8 @@
+{
+	"vid": "2",
+	"vname": "マイクロソフト",
+	"vcpe": "cpe:/:microsoft",
+	"pid": "80010",
+	"pname": "Azure Arc Cluster microsoft.networkfabricserviceextension Extension",
+	"pcpe": "cpe:/a:microsoft:azure_arc_extension_microsoft.networkfabricserviceextension"
+}

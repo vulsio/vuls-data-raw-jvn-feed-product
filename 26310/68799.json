@@ -1,8 +1,8 @@
 {
 	"vid": "26310",
-	"vname": "coala",
+	"vname": "coala development group",
 	"vcpe": "cpe:/:coala",
 	"pid": "68799",
-	"pname": "git-url-parse",
+	"pname": "giturlparse",
 	"pcpe": "cpe:/a:coala:git-url-parse"
 }

@@ -1,0 +1,8 @@
+{
+	"vid": "12163",
+	"vname": "Jenkins プロジェクト",
+	"vcpe": "cpe:/:jenkins",
+	"pid": "80098",
+	"pname": "MQ Notifier Plugin",
+	"pcpe": "cpe:/a:jenkins:mq_notifier"
+}

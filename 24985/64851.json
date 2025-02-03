@@ -1,8 +1,8 @@
 {
 	"vid": "24985",
-	"vname": "coredns.io",
+	"vname": "The CoreDNS Authors",
 	"vcpe": "cpe:/:coredns.io",
 	"pid": "64851",
-	"pname": "coredns",
+	"pname": "CoreDNS",
 	"pcpe": "cpe:/a:coredns.io:coredns"
 }
